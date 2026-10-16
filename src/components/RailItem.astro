@@ -3,14 +3,13 @@
 // 사진이 없는 글(인스타그램 — 사진 주소가 며칠 뒤 만료되고 직접 걸기 애매해 쓰지 않음, 대표 사진 없는 뉴스)은
 // 같은 크기의 팀 컬러 카드(이니셜 + 출처)로 채워 줄이 가지런하게. 인스타그램 원래 사진은 모달의 공식 퍼가기 화면에서 본다.
 import { newsImages } from '../lib/config.ts';
+import TeamTags from './TeamTags.astro';
 import { displayTitle, fmtDate, teamById, teamColor, youtubeId, SOURCE_LABEL } from '../lib/site.ts';
 import type { Signal } from '../lib/schemas.ts';
 interface Props { signal: Signal; showTeams?: boolean }
 const { signal: s, showTeams = true } = Astro.props;
 const yt = s.source_type === 'youtube' ? youtubeId(s.url) : undefined;
 const thumb = yt ? `https://i.ytimg.com/vi/${yt}/mqdefault.jpg` : newsImages() ? s.image : undefined;
-// 구단은 줄 끝의 팀 컬러 사각 태그로(출처·날짜 뒤)
-const tags = showTeams ? s.teams.slice(0, 2).map((id) => teamById.get(id)).filter((t) => t !== undefined) : [];
 const team = s.team ? teamById.get(s.team) : undefined;
 ---
 <li data-teams={s.teams.join(' ')}>
@@ -24,6 +23,6 @@ const team = s.team ? teamById.get(s.team) : undefined;
   <div>
     <a href={s.url} target="_blank" rel="noopener noreferrer">{displayTitle(s)}</a>
     <p>{s.summary_ko}</p>
-    <span class="rail-meta">{s.official ? '오피셜 · ' : ''}{s.source_name} · {fmtDate(s.published_at)}{tags.map((t) => <span class="team-tag" style={`--team:${teamColor(t.id)}`}>{t.short}</span>)}</span>
+    <span class="rail-meta">{s.official ? '오피셜 · ' : ''}{s.source_name} · {fmtDate(s.published_at)}{showTeams && <TeamTags ids={s.teams} />}</span>
   </div>
 </li>

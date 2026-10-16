@@ -103,7 +103,9 @@ export async function runPipeline(ctx: Ctx, week: string, history: Signal[], exi
 
   // 실행당 상한: 팀·모듈별, 리그. 이번 실행에서 새로 들어온 것만 센다. 점수 상위만 남긴다.
   const count = new Map<string, number>();
-  const keyOf = (s: Signal) => (s.module === 'league' ? 'league' : `${s.team}|${s.module}`);
+  // 팬 반응은 출처별(YouTube·블로그/카페·커뮤니티·인스타그램)로 따로 센다 — 조회수 없는 커뮤니티 글이 영상에 밀려 다 잘리지 않게(2026-10-17)
+  const fanKind = (s: Signal) => (s.source_type === 'community' ? (/^(블로그|다음카페)/.test(s.source_name) ? 'blog' : 'community') : s.source_type);
+  const keyOf = (s: Signal) => (s.module === 'league' ? 'league' : s.module === 'fans' ? `${s.team}|fans|${fanKind(s)}` : `${s.team}|${s.module}`);
   const capOf = (s: Signal) => (s.module === 'league' ? sources.max_league_per_run : sources.max_per_team_per_run[s.module]);
   const final = [...scored].sort((a, b) => b.scores.hot + b.scores.relevance - (a.scores.hot + a.scores.relevance)).filter((s) => {
     const n = (count.get(keyOf(s)) ?? 0) + 1;

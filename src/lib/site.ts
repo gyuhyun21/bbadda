@@ -39,7 +39,19 @@ export function loadAll(): Promise<SiteData> {
 }
 
 export const ofTeam = (list: Signal[], id: string) => list.filter((s) => s.teams.includes(id));
-export const isCommunityPost = (s: Pick<Signal, 'source_type'>) => s.source_type === 'community';
+/** 커뮤니티 사이트 글(엠엘비파크·디시·더쿠·에펨·레딧 — Vertex 검색). 다음 블로그·카페는 팬 반응으로 둔다. */
+export const isCommunityPost = (s: Pick<Signal, 'source_type' | 'source_name'>) => s.source_type === 'community' && !/^(블로그|다음카페)(\s|$)/.test(s.source_name);
+/** 커뮤니티 사이트 배지(짧은 이름 + 색). 사이트 로고는 쓰지 않는다. */
+export const COMMUNITY_BADGE: Record<string, { label: string; color: string }> = {
+  엠엘비파크: { label: '엠팍', color: '#1F5FA8' },
+  '디시 야구 갤러리': { label: '디시', color: '#3B4890' },
+  더쿠: { label: '더쿠', color: '#6E56CF' },
+  에펨코리아: { label: '펨코', color: '#2F7D4F' },
+  '레딧 r/KBO': { label: '레딧', color: '#D9480F' },
+};
+export const communityBadge = (name: string) => COMMUNITY_BADGE[name] ?? { label: name.slice(0, 2), color: '#6E6E73' };
+/** 팬 반응 글의 출처 배지: 블로그·카페 */
+export const fanSourceLabel = (name: string) => (/^다음카페/.test(name) ? '카페' : /^블로그/.test(name) ? '블로그' : '글');
 
 export const hot = (a: Signal, b: Signal) => b.scores.hot + b.scores.relevance * 0.5 - (a.scores.hot + a.scores.relevance * 0.5);
 export const newest = (a: Signal, b: Signal) => Date.parse(b.published_at) - Date.parse(a.published_at);

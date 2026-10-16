@@ -6,8 +6,9 @@ import TeamChip from './TeamChip.astro';
 import TeamPicker from './TeamPicker.astro';
 import CommunitySection from './CommunitySection.astro';
 import RailItem from './RailItem.astro';
+import FanList from './FanList.astro';
 import { communitySection, newsImages, loadStandings, streakLabel } from '../lib/config.ts';
-import { TEAMS, loadAll, ofTeam, recent, hot, newest, kstDay, daysOf, onDay, dayLabel, seasonTitle, displayTitle, fmtDate, teamColor, teamById, isToday, youtubeId, BUILD_TIME } from '../lib/site.ts';
+import { TEAMS, loadAll, ofTeam, recent, hot, newest, kstDay, daysOf, onDay, dayLabel, seasonTitle, displayTitle, fmtDate, teamColor, teamById, isToday, youtubeId, isCommunityPost, BUILD_TIME } from '../lib/site.ts';
 const data = await loadAll();
 const all = data.signals;
 const fresh = recent(all, 2, 12);
@@ -36,7 +37,10 @@ const league = recent(all.filter((s) => s.module === 'league' || s.module === 'r
 // 5) 오피셜 영상
 const officialVideos = all.filter((s) => s.official && s.source_type === 'youtube').sort(newest).slice(0, 16);
 // 6) 팬 반응
-const fans = recent(all.filter((s) => s.module === 'fans'), 7).sort(hot).slice(0, 20);
+// 팬 반응: 팬 영상(YouTube, 썸네일 줄) + 팬 글(블로그·카페 목록). 커뮤니티 사이트 글은 아래 Community 섹션
+const fanAll = recent(all.filter((s) => s.module === 'fans'), 7).sort(hot);
+const fanVideos = fanAll.filter((s) => s.source_type === 'youtube').slice(0, 12);
+const fanPosts = fanAll.filter((s) => s.source_type !== 'youtube' && !isCommunityPost(s)).slice(0, 20);
 // 7) 날짜별 소식(최근 7일)
 const days = daysOf(all).slice(0, 7);
 ---
@@ -150,10 +154,11 @@ const days = daysOf(all).slice(0, 7);
   </section>
 )}
 
-{fans.length > 0 && (
+{(fanVideos.length > 0 || fanPosts.length > 0) && (
   <section class="block front-fans" aria-labelledby="h-fans-front">
     <div class="block-head"><h2 id="h-fans-front">팬 반응</h2><span class="small">팬 영상·블로그·카페, 최근 7일</span></div>
-    <SignalList signals={fans} />
+    {fanVideos.length > 0 && <div class="row-cards fan-videos">{fanVideos.map((s) => <SignalCard signal={s} showModule={false} />)}</div>}
+    <FanList signals={fanPosts} />
   </section>
 )}
 {communitySection() && <CommunitySection signals={recent(all.filter((s) => s.source_type === 'community'), 14)} />}

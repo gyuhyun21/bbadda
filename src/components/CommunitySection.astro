@@ -1,7 +1,8 @@
 ---
-// 커뮤니티 섹션 — 검색엔진 결과(제목·링크·날짜)로 찾은 커뮤니티 글. 끄려면 config/site.yaml community_section: false
-import TeamChip from './TeamChip.astro';
-import { SLANG_TITLE, displayTitle, fmtDate, isCommunityPost, rich } from '../lib/site.ts';
+// Community — 커뮤니티 사이트(엠엘비파크·디시·더쿠·에펨·레딧) 글을 검색엔진 결과로 찾은 것. 사이트 배지 + 2열 카드.
+// 끄려면 config/site.yaml community_section: false
+import TeamTags from './TeamTags.astro';
+import { SLANG_TITLE, displayTitle, fmtDate, isCommunityPost, communityBadge, rich } from '../lib/site.ts';
 import type { Signal } from '../lib/schemas.ts';
 interface Props { signals: Signal[]; note?: string }
 const { signals, note } = Astro.props;
@@ -9,19 +10,24 @@ const posts = signals.filter(isCommunityPost).sort((a, b) => b.published_at.loca
 ---
 {posts.length > 0 && (
   <section class="block community" id="community" aria-labelledby="h-community">
-    <div class="block-head"><h2 id="h-community">Community</h2></div>
+    <div class="block-head"><h2 id="h-community">Community</h2><span class="small">엠팍·디시·더쿠·펨코·레딧, 최근 2주</span></div>
     {note && <div class="community-note rich" set:html={rich(note)} />}
-    <ul class="community-list">
-      {posts.map((s) => (
-        <li data-card data-teams={s.teams.join(' ')}>
-          <span class="community-site">{s.source_name}</span>
-          <a href={s.url} target="_blank" rel="noopener noreferrer">{displayTitle(s)}</a>
-          <span class="small">{s.teams.slice(0, 2).map((t) => <TeamChip id={t} short />)} {fmtDate(s.published_at)}</span>
-          {s.slang && <span class="chip chip--slang" title={SLANG_TITLE}>은어 · {s.slang}</span>}
-          <p class="community-sum">{s.summary_ko}</p>
-        </li>
-      ))}
+    <ul class="community-cards">
+      {posts.map((s) => {
+        const b = communityBadge(s.source_name);
+        return (
+          <li>
+            <span class="site-badge" style={`--site:${b.color}`} title={s.source_name}>{b.label}</span>
+            <div>
+              <a href={s.url} target="_blank" rel="noopener noreferrer">{displayTitle(s)}</a>
+              {s.slang && <span class="chip chip--slang" title={SLANG_TITLE}>은어 · {s.slang}</span>}
+              <p>{s.summary_ko}</p>
+              <span class="fan-meta">{s.source_name} · {fmtDate(s.published_at)}<TeamTags ids={s.teams} /></span>
+            </div>
+          </li>
+        );
+      })}
     </ul>
-    <p class="small community-foot">검색엔진 결과의 제목·링크만 씁니다. 색인이 늦어 최근 2주 글까지 포함합니다.</p>
+    <p class="small community-foot">검색엔진 결과의 제목·링크만 씁니다. 커뮤니티 사이트에 직접 접속하지 않습니다.</p>
   </section>
 )}
