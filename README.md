@@ -1,7 +1,7 @@
 # BBADDA (빠따닷컴)
 
 KBO 10개 구단 팀별 소식 매거진 — bbadda.com. Astro 정적 사이트 + 저장소 안의 파일(JSON/Markdown/YAML). DB·로그인·유료 API 없음.
-작업 규칙은 `CLAUDE.md`.
+작업 규칙은 `CLAUDE.md`, 정기 실행 프롬프트는 `docs/routine.md`, 키·배포·도메인 설정은 `docs/setup.md`.
 
 ## 빠른 시작
 
