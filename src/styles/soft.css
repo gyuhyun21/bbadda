@@ -114,3 +114,15 @@
 @media (min-width: 1360px) { .layout-soft .side-nav a[aria-current="true"] { background: var(--soft-bg); box-shadow: var(--press); } }
 .layout-soft .bm-toggle { background: var(--soft-bg); box-shadow: var(--raise-sm); }
 .layout-soft .bm-toggle[aria-expanded="true"] { box-shadow: var(--press); background: var(--soft-bg); }
+
+/* 팬 반응·Community: 글마다 바탕색과 같은 볼록 타일, 올리면 살짝 눌림. 홀짝 배경 대신 타일 간격으로 구분(2026-10-17) */
+.layout-soft .fan-list { background: transparent; box-shadow: none; padding: 6px 4px; gap: 18px; }
+@media (min-width: 900px) { .layout-soft .fan-list { column-gap: 22px; } }
+.layout-soft .fan-list li, .layout-soft .community-cards li { background: var(--soft-bg); border-radius: 20px; padding: 18px 20px; box-shadow: var(--raise); transition: box-shadow 0.18s ease; }
+.layout-soft .fan-list li:nth-child(n) { background: var(--soft-bg); }
+.layout-soft .fan-list li:hover, .layout-soft .community-cards li:hover { box-shadow: var(--raise-sm), inset 1px 1px 3px var(--soft-lo); }
+.layout-soft .community-cards { gap: 18px; padding: 6px 4px; }
+@media (min-width: 900px) { .layout-soft .community-cards { column-gap: 22px; } }
+.layout-soft .src-pill--blog { background: #DDEFD9; }
+.layout-soft .src-pill--cafe { background: #F7E6CB; }
+.layout-soft .src-pill--site { background: color-mix(in srgb, var(--site) 14%, var(--soft-bg)); }

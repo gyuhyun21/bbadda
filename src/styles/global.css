@@ -508,3 +508,10 @@ button.rail-more { font: inherit; background: none; border: 0; cursor: pointer; 
   .mt-short { display: inline; }
   .site-header .wrap { gap: 8px !important; }
 }
+
+/* 출처 꼬리표: 출처·날짜 줄 맨 앞의 작은 알약(옅은 바탕 + 진한 글씨) — 큰 사각 배지 대신(2026-10-17) */
+.fan-list li, .community-cards li { grid-template-columns: 1fr; }
+.src-pill { display: inline-block; margin-right: 8px; padding: 3px 8px; border-radius: 999px; font: 700 11px/1.2 var(--font); vertical-align: 1px; }
+.src-pill--blog { color: #1E7A16; background: #E6F4E3; }
+.src-pill--cafe { color: #A35A00; background: #FCEFD9; }
+.src-pill--site { color: var(--site); background: color-mix(in srgb, var(--site) 12%, white); }
