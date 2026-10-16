@@ -1,0 +1,36 @@
+{
+  "id": "news-032b0b06",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE00YnFPWkNqZ3huSUtOenlNWVdJTGtEQmhBNzhHRUN4ZE1GM25jQldkdVE3eWlQR255R1k0amRxSk12RXNfeVpfLVd2WFlyYk05aDZ3QXZORkRiczRtTlNzTFVGWnVGdlVScTA3R2psYkF6YVRXZURtMnVlNzdLdw?oc=5",
+  "title": "[포토] KIA 타이거즈, 이제는 가을야구",
+  "published_at": "2026-10-12T12:13:01.000Z",
+  "collected_at": "2026-10-16T12:55:42.882Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQV1RzOVFjNTQ0RW1iVnh5V0toa0NnazRydzFSZEdoSzgwdFlQWG1CTUxVcHNIVDVfVGF3RHRnUWlORXo2V0QxTC1LSGNJVWJOeGh5SzZka1BhQUxOcDNKRHVrOFlQc2I4ejJQZVVOWXdjaDd5cEIyaFc3N3gzN1B5UFlhcmtQT3h5?oc=5"
+    },
+    {
+      "source_name": "남도일보",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5qcEhlR1kzdmR5dzU1OGlIRTd5SWpGczlvbjFva1lpNFlkNGk1YzJxSzBzeVhXTXZkU3puUG9jRDg1YlB1UmtBWE4wRzZlTWlaNDVyMC1MOEstaGsxMkp1cVlhUWYxZHBuOGlCNdIBcEFVX3lxTFBsZTBZNnVERDRIcThjQ3ZReTA1ZDZyUUk4Zm0yOXd6cVQxc2Mzcm9MWk5KUzRUVnNXemJtay04OW1tQ01kQ0RhTVhWQWRIRElTelpnWUFVWkNwWG5XRzRfbThPYTd0UnpZN1VUN28xWE8?oc=5"
+    },
+    {
+      "source_name": "더팩트",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1YUzZEWGlUUmNBMDZKT2JleDhjUF91WXIwMkxXalpXNWFaXzRBWk1TU0hkdW9FYVBXXzZqMzdyVUQyanZuS3lQZTdxeExqdHFBYV9QN2UzSjlYWUHSAVZBVV95cUxQRktnbWtURUF3UFJ5NlNSVzNaSlFTUlNHU3FLeWx1bW9NMzlLa3FmbkFFaFllLUZ3MHhHY2didEo4MVEwYnlmT3FIMGhkQkxoRFR6Mm9hZw?oc=5"
+    }
+  ]
+}

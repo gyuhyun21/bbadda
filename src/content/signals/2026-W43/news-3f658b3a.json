@@ -1,0 +1,22 @@
+{
+  "id": "news-3f658b3a",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "news",
+  "source_name": "신세계그룹 뉴스룸",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBKVEVQOVdmQy1hY2Z6LXdxS3Foa1JURDRCdHllbUpTQlNOamdSWmVzYUM5RTIzdHJQZFRwWGplcWdjQmcyaEVWVXVQS3NhdnZmTTdQcnEzSEp6Q3FzM09xM3M2NG5jTk9IbFhab1ExUXNrQ1ZZaHc?oc=5",
+  "title": "SSG랜더스 선수단 재정비, 일부 선수 재계약 불가 통보",
+  "published_at": "2026-10-12T01:36:36.000Z",
+  "collected_at": "2026-10-16T12:55:42.882Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 30,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

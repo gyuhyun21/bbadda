@@ -1,0 +1,36 @@
+{
+  "id": "news-7442022c",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠경향",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1WSFh1WUxfZXJzU29YaEtsR2c1eGpZMmhnUGx4c1FFbjR4ZTYyZDhZS1FteW03LWpXbDYzcUhaRHBTaWtzdXBGRWYtRVh4QWtiTnEwWTBHOFJ6LXE5WjIzaXgza9IBY0FVX3lxTE1WSFh1WUxfZXJzU29YaEtsR2c1eGpZMmhnUGx4c1FFbjR4ZTYyZDhZS1FteW03LWpXbDYzcUhaRHBTaWtzdXBGRWYtRVh4QWtiTnEwWTBHOFJ6LXE5WjIzaXgzaw?oc=5",
+  "title": "아빌라, 한국 남는다…SSG, ‘최대 2년’ 재계약 합의 발표",
+  "published_at": "2026-10-16T02:09:00.000Z",
+  "collected_at": "2026-10-16T12:55:42.882Z",
+  "summary_ko": "SSG가 외국인 투수 아빌라와 최대 2년 재계약에 합의했다고 발표했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 88,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "https://www.2news.co.kr/",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9VTHZhYkxwT2R4bGtyNWtraWRrQjMtLTBGOFJObVZiNjZEbXpFbmlmTW1mcEVBTzhzeE5Zd2d5OUxxT1IwTkdTa2JrT0ktdHp0RFFvV3J0VTRZRzJnMVloSEE0V3lWU044?oc=5"
+    },
+    {
+      "source_name": "연합뉴스TV",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9kRFRqQWg3MExWYy1mWG9UbVdILW4xQW9XZGd5bmM5OF9Xa3Jubm5qakNPRU9VVEt3Qzd0TkdadThhVXB6TlVMdHZzaEtiWlZGVmtCT3BKN0dzS0JKdXJzUGpvbGg4WUk?oc=5"
+    },
+    {
+      "source_name": "연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1lV0NEOWMtemdUSzVOdzhKZm9vOThOVVhweUNPdnZYYllYRHlTRXYtQVYxWUxxZzJqdm5NVWFvRVFEREFSN2RPcFdWVW1uVWh4cXFKS0tTaDY3ckxMNXlnOdIBYEFVX3lxTE1lV0NEOWMtemdUSzVOdzhKZm9vOThOVVhweUNPdnZYYllYRHlTRXYtQVYxWUxxZzJqdm5NVWFvRVFEREFSN2RPcFdWVW1uVWh4cXFKS0tTaDY3ckxMNXlnOQ?oc=5"
+    }
+  ]
+}

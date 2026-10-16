@@ -1,0 +1,23 @@
+{
+  "id": "news-158e10a6",
+  "issue": "2026-W43",
+  "module": "rivalry",
+  "team": "doosan",
+  "teams": [
+    "doosan",
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "연합뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE95bG4xcU1VSmpzODdwaU5aYXp3LVdrZUYyNFFQQzF4RVlkdW1ndTZjQ05LcG45THhRRmU2dnZEX0twMEVrTDA3V1RtV2hyekwzZVpSaDB0dVp4azhWeURjQdIBYEFVX3lxTE95bG4xcU1VSmpzODdwaU5aYXp3LVdrZUYyNFFQQzF4RVlkdW1ndTZjQ05LcG45THhRRmU2dnZEX0twMEVrTDA3V1RtV2hyekwzZVpSaDB0dVp4azhWeURjQQ?oc=5",
+  "title": "두산-LG 만난 KBO WC 1차전 매진…PS 38경기 연속 달성",
+  "published_at": "2026-10-14T10:16:45.000Z",
+  "collected_at": "2026-10-16T12:55:42.882Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 50,
+    "relevance": 80
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "news-382faaa0",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "news",
+  "source_name": "연합뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBuUmJsSE1LMk1oOGR4MzVGVDFDeXozbmQ2SlNmUXVMZDgyT012T24zVU5YWl94VTNqSTlCaHc4dklnbnpYbTlQdGdaRkRJZ21kTWxMMjYxY3Y4YlnSAWBBVV95cUxQTDlSUkdzUUwzMjRhdE5mRWd1X3U0Y0NMX1p2a21jeVNiWDE1YVFEUVM2djNRMV9FaVprQjFZQ2VfcGZIRW5hLXVLM2pvN3ZtbzFRaEdqeTdPUHhXbXhKZzU?oc=5",
+  "title": "'잠실 정규시즌 고별전' 김원형 두산 감독 \"승리욕 자극하던 곳\"",
+  "published_at": "2026-10-12T07:45:39.000Z",
+  "collected_at": "2026-10-16T12:55:42.882Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 32,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

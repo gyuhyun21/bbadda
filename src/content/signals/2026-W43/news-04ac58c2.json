@@ -1,0 +1,29 @@
+{
+  "id": "news-04ac58c2",
+  "issue": "2026-W43",
+  "module": "rivalry",
+  "team": "kt",
+  "teams": [
+    "kt",
+    "ssg"
+  ],
+  "source_type": "news",
+  "source_name": "연합뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE12MkxwX2RLVENuZGx4WXdSazZUVTZkcnNRTHlyaXpURC1HQ3FHSjVkRW1rZ3FvbE5wVDJtMkZBSXY3Um1rNlZGUjU5YnlNRlZ2aVQzRHR6SWdsMVk?oc=5",
+  "title": "KBO, 9∼10월 MVP 후보 발표…kt 최원준·SSG 아빌라 등 6명",
+  "published_at": "2026-10-14T01:22:48.000Z",
+  "collected_at": "2026-10-16T12:55:42.882Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 55,
+    "relevance": 80
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "기호일보",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBncGluQWlxSnN2SDl2eW5IU0dKUThPeUNkSEdsNF9pa1RyY0RfVlBkbXExUy1EaWZmbEhPU1pwZy1Ha0ozNTNqbkkxQmZlOVRjUXg2S0FsTEhaSGpSZ3NNRFhmbXZQekNpLUYxeXNTaw?oc=5"
+    }
+  ]
+}

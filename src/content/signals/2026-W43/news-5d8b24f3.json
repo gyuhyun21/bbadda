@@ -1,0 +1,22 @@
+{
+  "id": "news-5d8b24f3",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "SPOTV NEWS",
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBERzM5RnE3R3dkQkVSenhTMk10OFh3SDF4TW5DS2ZqaW1NQWtOV1JWSTV2RHljWDBQLTBtN2ZSN3FOQ004MF80X3BoNVR3eGhKemhtRGRYWV8wYW5sdWxVcGNhblZIcmRMNHRZWGRfSnY?oc=5",
+  "title": "롯데 재계약 불발→美 복귀, KBO 역수출 신화 썼다! 美 언론 호평 \"감보아 B+, ERA 1.91 인상적인 성적\"",
+  "published_at": "2026-10-16T01:52:00.000Z",
+  "collected_at": "2026-10-16T12:55:42.882Z",
+  "summary_ko": "롯데와 재계약하지 못하고 미국으로 돌아간 감보아가 현지 언론에서 좋은 평가를 받았다는 보도다.",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 80
+  },
+  "sentiment": "positive"
+}

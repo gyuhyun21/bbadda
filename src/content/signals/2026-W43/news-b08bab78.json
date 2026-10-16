@@ -1,0 +1,22 @@
+{
+  "id": "news-b08bab78",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "매일신문",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9zd3lrRlc0U1l6SUZqS2poWGtDc05xVmFtYXZSa281dVdaRy05dDFvVE9SUUxkY1NxeElFZVFwUnhYNEg2eTlNNWU2Rm96cTUyTEtQNktfdU55OG1RZ1laVldR?oc=5",
+  "title": "`최악은 피했다` 삼성 라이온즈의 핵 구자욱, 부상 딛고 훈련 시작",
+  "published_at": "2026-10-15T02:38:05.000Z",
+  "collected_at": "2026-10-16T12:55:42.882Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 56,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

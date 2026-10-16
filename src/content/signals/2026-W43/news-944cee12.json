@@ -1,0 +1,22 @@
+{
+  "id": "news-944cee12",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "news",
+  "source_name": "m.maniareport.com",
+  "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBWS1hUMC1YT1BwbFliYmZPUjBsQi1oelZPNGpOa19HeGhrX3BnS2pSSEhfZlpmZkZsU19wOXNqRkd6Mk50NXRNRTk1RHNaYjVhMEVNeHZBZUFaNDJtak5YWms1MU5VZy0wMTlKRWhONVp4RVdVTldTdU1yZw?oc=5",
+  "title": "'컴프야' 이용자 선정 KBO 포스트시즌 우승 예측 1위 'KT'",
+  "published_at": "2026-10-14T13:36:08.000Z",
+  "collected_at": "2026-10-16T12:55:42.882Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 51,
+    "relevance": 80
+  },
+  "sentiment": "positive"
+}

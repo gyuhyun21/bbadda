@@ -1,0 +1,28 @@
+{
+  "id": "news-9ae6bc12",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "news",
+  "source_name": "기호일보",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5IR1NWN2p6eEd1Z3o3MXJQYXhDQ01tUWxXTXZrQlFzdDFGcmFLRzJGVFplUFZJVzFsUVFsbTNKblE3ZVlrNVgzZVF3RUpQbzV3RnVoUGxBUVhTZHBnb1VqQjZRSEhCZjR3TkU1OWRQMA?oc=5",
+  "title": "프로야구 SSG랜더스, 박정권 퓨처스팀 감독과 계약 기간 종료",
+  "published_at": "2026-10-15T04:25:20.000Z",
+  "collected_at": "2026-10-16T12:55:42.882Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "신세계그룹 뉴스룸",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQak5fUVpWR1lFZ19odmlDOVBkdENRQzhfQzBkdzJwbXp1Ymx1SzJWalo1c3JvcDZxVFd5dW9INUJzUzZMbTdOeVRwWHNtWW9tNk9qeWNvU3pBWl9UaTNLQUY5eEE1SHlJbjlnX2RMY3ZCVnZEajNDTWl6TEpVMS1DVmlYcjBZT2M1TXVBVl9GQUdkbHk5TWN4MEhoOVVRYVh5ZUdqYlVlRHlXRHplQ1ZOMklnNTlDck5MQnpfWGdB?oc=5"
+    }
+  ]
+}

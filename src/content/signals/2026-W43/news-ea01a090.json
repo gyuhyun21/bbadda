@@ -1,0 +1,28 @@
+{
+  "id": "news-ea01a090",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1ENXBPZVdlTXpoVndnOHhUR0R5ODlWbU1HYjc3UVBDdk5UUFE3NWViaUNVY09pQjFPekh0RlN3MDNkdDR2ZF9zMll5TzVnVllJMVFVWHRzdFhwdmdmM1UtMnQyTDRvR2FXTVJWTFRPSE1VaWVydzRyM3JrVTJXUQ?oc=5",
+  "title": "[오피셜] 경남고 거포 박보승 총액 3억 잭팟!…NC, 신인 드래프트 12명과 입단 계약 완료",
+  "published_at": "2026-10-13T02:16:44.000Z",
+  "collected_at": "2026-10-16T12:55:42.882Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 54,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "뉴스엔",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE02OUJmclhCS0cxLXlwSU5VTmMxczY4a3lvMDZyczFsenkzaTk1LWhwMDhSU2FBb3dsTHFKRVo1Z3hSdG91a3BPMW8tbmdsQzF5cHY4YTZXeTV6encwYzRYbXJDZWJjVTVT?oc=5"
+    }
+  ]
+}

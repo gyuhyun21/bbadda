@@ -1,0 +1,22 @@
+{
+  "id": "news-3455a725",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "news",
+  "source_name": "신세계그룹 뉴스룸",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTHNRaWRqbWlGOTh6cEhjYmFDU2thN2VqLUFFdDFMM3NSeHYtUWdtNkc1bGxkNE9BM0RsSHQ5Z3pFSFdIaEowQTVXamNCRHROVlhkZWo2UGFZS052ZkYwcVpUM192UjF3eXpiV3F6UC1RSzdCSkd2Qm05QXlFYy1uNU9iYw?oc=5",
+  "title": "SSG랜더스, 시즌 스무 번째 만원 관중 달성, 전년도 평균 관중 돌파",
+  "published_at": "2026-10-12T01:07:52.000Z",
+  "collected_at": "2026-10-16T12:55:42.882Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 30,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

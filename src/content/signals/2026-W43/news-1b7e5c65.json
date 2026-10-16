@@ -1,0 +1,22 @@
+{
+  "id": "news-1b7e5c65",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스1",
+  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBVOUlzTk1GQjJBcXpDZ21GWjI1Yi1FY3lNaFhkN1k0aGlKLWVKYnNDazJOc2Q0RG9aRFBtbTBBT09uYlphODBZdjR6eTdqcWxBWFp3YUdGOA?oc=5",
+  "title": "프로야구 키움, 가을리그 참가…정현우·박주홍 등 30명 출전",
+  "published_at": "2026-10-14T05:09:56.000Z",
+  "collected_at": "2026-10-16T12:55:42.882Z",
+  "summary_ko": "키움이 정현우·박주홍 등 30명을 가을리그에 내보낸다.",
+  "metrics": {},
+  "scores": {
+    "hot": 48,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "news-c3d5fa9f",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "일간스포츠",
+  "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4xOG1xWEt6eS12c3RIQ1pnc2g4NG1ZdXVfVU56VEgyY0dnUFlLSE5yeVptYk1mblcxRl9vNjRPbG50eGc5dTkweGhkdDI4TkY2VzY5WDBjTzlSN2s?oc=5",
+  "title": "'대투수' 양현종 막고 '슈퍼스타' 김도영 끝냈다...역대급 준PO 직행 경쟁, 포효한 KIA 타이거즈",
+  "published_at": "2026-10-12T13:00:00.000Z",
+  "collected_at": "2026-10-16T12:55:42.882Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 34,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

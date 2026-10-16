@@ -1,0 +1,22 @@
+{
+  "id": "news-6f2b7c7e",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "news",
+  "source_name": "연합뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE96Q0NnbVd5eVF4aHFOT3dvQ1B6cWFUZlZ5ODByZnVpUmlRWHRTSl9Fc2FaR1BRblhwV01HSkpleGIwWU8wZ3J3RUxDQ3lyWlBVRE9TNGlnREZPV3JOb282NtIBYEFVX3lxTE96Q0NnbVd5eVF4aHFOT3dvQ1B6cWFUZlZ5ODByZnVpUmlRWHRTSl9Fc2FaR1BRblhwV01HSkpleGIwWU8wZ3J3RUxDQ3lyWlBVRE9TNGlnREZPV3JOb282Ng?oc=5",
+  "title": "프로야구 두산 세대교체는 '절반의 성공'…빈공에 막힌 도약",
+  "published_at": "2026-10-14T13:19:26.000Z",
+  "collected_at": "2026-10-16T12:55:42.882Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 51,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

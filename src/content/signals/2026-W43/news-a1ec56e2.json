@@ -1,0 +1,28 @@
+{
+  "id": "news-a1ec56e2",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "news",
+  "source_name": "연합뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBia01HbmRQeExPd3NjZlF5UkI0NEoxaTZ4QW8yLTFUeXRjLWIwNXl6ejRvTkl2VmNtUzlNdFhDSmhVU24tSFoxWXZaY2xrQm5wUk1qUHR3SnI5OGhPZ3JoTdIBYEFVX3lxTFBia01HbmRQeExPd3NjZlF5UkI0NEoxaTZ4QW8yLTFUeXRjLWIwNXl6ejRvTkl2VmNtUzlNdFhDSmhVU24tSFoxWXZaY2xrQm5wUk1qUHR3SnI5OGhPZ3JoTQ?oc=5",
+  "title": "프로야구 NC, 18일부터 창원·일본 오키나와서 훈련",
+  "published_at": "2026-10-16T05:55:49.000Z",
+  "collected_at": "2026-10-16T12:55:42.882Z",
+  "summary_ko": "NC가 18일부터 창원과 일본 오키나와에서 마무리 훈련을 진행한다.",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5JYjJCaExWU2w4Y3BqeHJQUnU4X1ZBVHQ2bml0RjJJNVNqcER4ZDEtX2hkWjdsRW9XNFVzMDFWNF9EWElKbno3MWtyRDlsQWlIaEhlZmtma3N2ajBsdDNmbTNTVlZWcFZ3Y0VHcEczZk1Yclh4eFJiMtIBeEFVX3lxTE5JYjJCaExWU2w4Y3BqeHJQUnU4X1ZBVHQ2bml0RjJJNVNqcER4ZDEtX2hkWjdsRW9XNFVzMDFWNF9EWElKbno3MWtyRDlsQWlIaEhlZmtma3N2ajBsdDNmbTNTVlZWcFZ3Y0VHcEczZk1Yclh4eFJiMg?oc=5"
+    }
+  ]
+}

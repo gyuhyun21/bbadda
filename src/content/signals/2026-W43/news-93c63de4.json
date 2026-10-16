@@ -1,0 +1,22 @@
+{
+  "id": "news-93c63de4",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "news",
+  "source_name": "연합뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9RcmpPYnVfcURqcFRpRGZZbm9UZnBhSGUtcmZOcGUxMTB6VzNRZU9mZU5xUTVCZlhFQWhuT19UNU52VUQ3Qm9VazljX0phZ0hrTWUwbVF4YkxxbDV0bzBuY9IBYEFVX3lxTE9RcmpPYnVfcURqcFRpRGZZbm9UZnBhSGUtcmZOcGUxMTB6VzNRZU9mZU5xUTVCZlhFQWhuT19UNU52VUQ3Qm9VazljX0phZ0hrTWUwbVF4YkxxbDV0bzBuYw?oc=5",
+  "title": "프로야구 한화 류지현 감독 \"최강 한화 자부심 느끼게 하겠다\"",
+  "published_at": "2026-10-16T05:05:30.000Z",
+  "collected_at": "2026-10-16T12:55:42.882Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

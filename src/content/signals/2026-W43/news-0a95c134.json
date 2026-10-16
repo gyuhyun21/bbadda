@@ -1,0 +1,32 @@
+{
+  "id": "news-0a95c134",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "news",
+  "source_name": "NSP통신",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBNYmw2UVktRDlDdDY5d0JaMmNUem9OREJ3QjE3UTlxR3o3YVgzckw0aTc2dTZJdUNaWDdTZ2Y0T0VlX3NsSW50dkVLWHpqQjItMUR0NFFJbVNTR05ESWVyaQ?oc=5",
+  "title": "컴투스 야구게임 이용자 64%, 포스트시즌 우승팀 ‘KT 위즈’ 선택",
+  "published_at": "2026-10-14T03:35:04.000Z",
+  "collected_at": "2026-10-16T12:55:42.882Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 72,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "뉴스핌",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1JeXI5UlBvOWpiSU5XZ0FXUmRGWjI1akhWeVhKSXBwRUh1d0dObS1faE9US09tbDYzNHV5TFFRZ0xtWTZkeWtlRjc0Y0YzdC0xRU40UHlUUG5Nc2pP?oc=5"
+    },
+    {
+      "source_name": "서울경제TV",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBibk5fTDJtcXZzYXdhdk4zYWIzVFpNS1F2QmRKSGYyb1JpOXNjMjZ6WllQWkdwNV9kSDBybzFJeE4xSHFNVkthem1udDhSeHV3NGRRQzJVRmxVQWFsanFDQXFjSDE?oc=5"
+    }
+  ]
+}

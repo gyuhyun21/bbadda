@@ -1,0 +1,22 @@
+{
+  "id": "news-1b6b5e6f",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "대구MBC",
+  "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9nR3ppaFRqWW0tV1IzNHBobHRKb1F3WTFDZXN0Q1Q0OUZGRC1UU1RpY3ZjMmlBS29FTWlLaElXWDdnWTRJZ2tKUGE4SjE?oc=5",
+  "title": "PS 대비 훈련 시작한 삼성라이온즈···우승 도전 여정 시작",
+  "published_at": "2026-10-15T07:42:12.000Z",
+  "collected_at": "2026-10-16T12:55:42.882Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 58,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

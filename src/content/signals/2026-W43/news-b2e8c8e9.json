@@ -1,0 +1,28 @@
+{
+  "id": "news-b2e8c8e9",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "스타뉴스",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBhdjRGc0xiNm01dVlEZ25UcklYVlBHd0hMNHE3cm5aQXowc3pPSFJJd3NJbFF1TjJycjN3M2UzNVZ2T2wwX3RIRDRseU9QTGZpTW93QzVfaThUbVR0MWNpbncxNnpHU0VPX0dBSWJMTjB1Y3hJYXc?oc=5",
+  "title": "[한번에쓱] '잠실 마지막 페넌트레이스 승리자축' 롯데자이언츠",
+  "published_at": "2026-10-12T13:26:21.000Z",
+  "collected_at": "2026-10-16T12:55:42.882Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 42,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0wMVBocmQxdEFkdHNTNXBTcVVfMExRZXJQa0MzYUJNTDlQWDlUdDFJSFQ0OGV5enN4SnVXRTlRbjE5RzV1QmwtMGZ2ajdUNUlBMF9ndUY4RlFuNVZRcGliVDAwOVRjamdjTUHSAW9BVV95cUxOLVBQclJjeVpHb0twRHNhVEJaeFlieXNnVWFIUThkbnd4b0V4Z3A4SC1tZXdLVkh0QlkwQjZkcXRNZXpaZVk3YTdqZVpGUGVNMkxLd1kwVUtzaVBCcXFZXzVqX2J2MzJMc1VkSTFUWWc?oc=5"
+    }
+  ]
+}

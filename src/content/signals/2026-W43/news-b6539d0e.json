@@ -1,0 +1,22 @@
+{
+  "id": "news-b6539d0e",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "news",
+  "source_name": "기호일보",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5Fb0NmU1F2djNwZy1iWWt2ZmNjeEZBMWRGM08zaXFiejEtWm4zcVdWSVRQQkR5Y0hvQ1pWdzM4YVNWUnIyYS1oZWRaR05MZnR6ZXMzaGZCNmNlXzZuc19vNlBmSXFZUVdnNDBZQWJYdw?oc=5",
+  "title": "프로야구 kt 위즈, 10개 구단 체제 두번째로 90승 달성",
+  "published_at": "2026-10-13T00:59:30.000Z",
+  "collected_at": "2026-10-16T12:55:42.882Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 38,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

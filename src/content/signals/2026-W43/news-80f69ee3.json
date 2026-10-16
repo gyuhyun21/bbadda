@@ -1,0 +1,22 @@
+{
+  "id": "news-80f69ee3",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "대구MBC",
+  "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE45c1ExODZQbGJyRjh0cElmUWZCQWItSFR0WlNKbVBYTVhacGtBWDdfWmk0Y3VFWUp2alJuT3ptLUhGUWNPSFRZRE9FRFY?oc=5",
+  "title": "WC 시작, 준PO까지 기다리는 삼성라이온즈···광주행? 잠실행? 3팀과 상대 전적은?",
+  "published_at": "2026-10-13T20:24:13.000Z",
+  "collected_at": "2026-10-16T12:55:42.882Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 45,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

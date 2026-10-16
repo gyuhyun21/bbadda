@@ -1,0 +1,22 @@
+{
+  "id": "news-6b6a17ed",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "세계일보",
+  "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1vczluVU1zVnluaF9CTHJHQjRLV1NkT3U5eFduM05sbzBzbF9XcnVVT2NyeVBmTHJJbU5ZTFdCa09EeDVSRXZ2SlNJWnhlMFh1SWlPNmNzeEU?oc=5",
+  "title": "‘LG 마운드 비상!’ 고우석도 PS 마운드 못 서는데 마무리 손주영마저 WC 결정전 엔트리 탈락... LG 뒷문에 구멍이 휑하니 뚫렸다",
+  "published_at": "2026-10-13T05:23:22.000Z",
+  "collected_at": "2026-10-16T12:55:42.882Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 40,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

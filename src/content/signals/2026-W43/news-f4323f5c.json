@@ -1,0 +1,22 @@
+{
+  "id": "news-f4323f5c",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "news",
+  "source_name": "뉴시스",
+  "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBBeXpDMnB0UzlWV3g2aWVXNWNwYTVIbm1BaFpicEw1SGpOZDluR3oweGpGUFdpb0tkS0lpdTR0ZUJLNTR5Qy1lYURpMW41V09iVmNmSlBfRVBCWE5pLVJ2SEowSlVoSm1fNDVKNVRCVDN3REctYjRHUtIBeEFVX3lxTFBBeXpDMnB0UzlWV3g2aWVXNWNwYTVIbm1BaFpicEw1SGpOZDluR3oweGpGUFdpb0tkS0lpdTR0ZUJLNTR5Qy1lYURpMW41V09iVmNmSlBfRVBCWE5pLVJ2SEowSlVoSm1fNDVKNVRCVDN3REctYjRHUg?oc=5",
+  "title": "SSG, 'ERA 1.44' 외국인 투수 아빌라와 최대 2년 재계약",
+  "published_at": "2026-10-16T02:51:48.000Z",
+  "collected_at": "2026-10-16T12:55:42.882Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "news-99cd1d4c",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "news",
+  "source_name": "데일리안",
+  "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQaGV6ZGkyMENQbHp6elpzYUxwd3ZFeC1wcGVuWUdfSHhTUE5feXNhTEJuTzNUM3BBLUJNd2M2ZGVnT0tkZEhfcUl4VFdydjVwQjNiSktZbWVqdzZ3c1hXRVNLcEVnZ0NMWVpUN0JsWWNxM00waXIzZUZSMDR1N0ZPOURnNGF3SUZ3WHlqNTJQc3QtZVlldVlPczR5LUJJZDZFWnh2ZVZYNWRIX3F6QjQzaXJXLVhJbGZFNEtvekRsZ2N6TnJ0R0dEdEUyanIyQ0Voa2tnNjdNdG9FcWE3UDgwRU9HUmR0c1BPQmkyS25qc3FIUDFYeVlzYmVKc09RbVZDVjRudGNUUFN0RWNkVzQwR3p3NnRGMjEzejZXVlNRZG1zQTA?oc=5",
+  "title": "'컴프야' 유저들이 꼽은 가을야구 우승후보는 'KT 위즈'",
+  "published_at": "2026-10-14T07:16:00.000Z",
+  "collected_at": "2026-10-16T12:55:42.882Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 49,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

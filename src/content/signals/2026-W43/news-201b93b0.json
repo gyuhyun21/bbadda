@@ -1,0 +1,40 @@
+{
+  "id": "news-201b93b0",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "헤럴드경제",
+  "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1tMG1wQ0N5MEJwRElMc1RmQ2MwTV9XU3JwUTBYc3dOMGVsUDBaa05laW9FcE4wVVlZWDM3dG56STNGUHVjYlZTYUk0SUZsbGs0VzNicHd3?oc=5",
+  "title": "한성모터스, 롯데자이언츠 마지막 홈경기서 ‘최후의 1인 벤츠를 잡아라’ 성료",
+  "published_at": "2026-10-14T00:57:33.000Z",
+  "collected_at": "2026-10-16T12:55:42.882Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 79,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "오토트리뷴",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA4WnRVMVRjMDJiNmg0M3kxX1RYa0U5MkI1S1ZZUnRxcWZvUlNDOFFnN2poUlAyeC1hRHpxaGRaRDFkM3llbm56Um5tRWJPZkh3aTBYU0JVYTEzejIwZHNyb3JXTEZab3dLVTFrbDl4bE8?oc=5"
+    },
+    {
+      "source_name": "오토레이싱",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9LenV3cDh4bG9mTWNuRXBSd3lPN282aUt0VS0xSmxaSzAxVmRKUERDSXRYWU95S3JYMDR3RVlCTjJGUjJaOXROLXI2NDRJREo0UnIwdk9nYnQ5QVFLU3lCX1FBN1VjLUZCQ3RXZTZiVQ?oc=5"
+    },
+    {
+      "source_name": "오토뷰",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5POHE1cDNQTzBIR1JxZklVTzRaVFZMQ1d4bnROOUdFOTFIUWkwZmRzRldqT3B2RGhhTmtUMmVKTkItSUxnN29wTzFYRTVGTEVsMzUxWkV2X2pWM1cx?oc=5"
+    },
+    {
+      "source_name": "카매거진 CAR MAGAZINE",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1LMHptbFpFejNkWWd4TDZDVFBXZWxOYTZRelV3QWJUSmlPeTNWVlpIakFYdzE2UGRhMVRHQXdFQVppTFVwV18yaENKU2J4Ny11UzBnYVhoeXFQS19CY19YU0xsMmlMUQ?oc=5"
+    }
+  ]
+}

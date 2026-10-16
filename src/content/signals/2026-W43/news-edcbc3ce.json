@@ -1,0 +1,22 @@
+{
+  "id": "news-edcbc3ce",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "news",
+  "source_name": "스타뉴스",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBOeDQ5enlFVEpYUmZUZHZRcmlEdG1YNUhXSzlTTGRpcmc4X3lWSllaYW9UeXVnd092QWNmLWtMOGQ4bV94VHo2YXlxZkthWGxBSE5sY1J5bEdfMFhfV1FTNzRmVm96TWFHU2VSS0Vwd0p4ckFIWVE?oc=5",
+  "title": "[포토] '독수리들은 나를 따르라!' 한화이글스 15대 감독으로 취임한 류지현 감독",
+  "published_at": "2026-10-16T05:10:19.000Z",
+  "collected_at": "2026-10-16T12:55:42.882Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

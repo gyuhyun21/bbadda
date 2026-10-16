@@ -1,0 +1,23 @@
+{
+  "id": "news-dd37000b",
+  "issue": "2026-W43",
+  "module": "rivalry",
+  "team": "doosan",
+  "teams": [
+    "doosan",
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "뉴시스",
+  "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8yc296V29GaVVZcTRRTklJNktVTjl6b1RyVHBMbDhDUVI3Mkl2SHV1cDJxSkJ4Yi14ckV5SWFCUWRDSlRvcHkzYUZaZ3RVUEdCZ2l0WHE1a0JsZGdkcTNLWGNXWS1vRk5KcE5xWGp6QTRvaVVvVC1jbtIBeEFVX3lxTE8yc296V29GaVVZcTRRTklJNktVTjl6b1RyVHBMbDhDUVI3Mkl2SHV1cDJxSkJ4Yi14ckV5SWFCUWRDSlRvcHkzYUZaZ3RVUEdCZ2l0WHE1a0JsZGdkcTNLWGNXWS1vRk5KcE5xWGp6QTRvaVVvVC1jbg?oc=5",
+  "title": "두산 박찬호, 이적 첫해부터 PS…\"준PO 상대 KIA? 일단 오늘 이겨야\"[WC]",
+  "published_at": "2026-10-14T08:49:11.000Z",
+  "collected_at": "2026-10-16T12:55:42.882Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 49,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

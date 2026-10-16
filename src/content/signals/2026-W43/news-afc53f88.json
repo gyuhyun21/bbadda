@@ -1,0 +1,22 @@
+{
+  "id": "news-afc53f88",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "news",
+  "source_name": "경남도민일보",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ydmZwOWhhWjQ4bmswcVhmc1pKeEJMT0NjTlVoNXExZUVzTFVIWWRUTTN6aldJdHE3ZVBJdDR4V05BeVIyRWJPclVKYWxUMVVza0k2YUVZRlFrQURtNGJWVXpFMndwWHpLQUE?oc=5",
+  "title": "NC 시즌 종료…1300억 약속한 창원시, ‘야구장 밖’ 과제는?",
+  "published_at": "2026-10-12T07:00:00.000Z",
+  "collected_at": "2026-10-16T12:55:42.882Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 32,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "news-a073692f",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스핌",
+  "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5FZkNPUFdoY0NMS3BlYWwzcEk5NTB2NkZCcmxiRHJoYkR6ekd0RlJQVnd3NUdnaUJ5b1NRVUFFNHhqMlQxMm1WVGxGaENIS3FybU5scWh0eW1xRFE1?oc=5",
+  "title": "[프로야구] '정규시즌 8위' NC, 18일부터 CAMP 1 진행…2027시즌 준비 돌입",
+  "published_at": "2026-10-16T06:53:00.000Z",
+  "collected_at": "2026-10-16T12:55:42.882Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "경남탑뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE02THpTcy1ib01LR0IyWFRTOWh3SmowUm1PN1RTX1hkcmJFX1VPSW5tWEtQaXByUHotTjhmX0YxVXZCb3N5dW5CSW51ZEdDV3VZZDE0ZWo2OGk2SEtwZklCZDMzUUtMQVJUSGfSAW5BVV95cUxNV2JUb2FfMkFLVVhVaFc0UlZkS3YxUmFDY3RjSm1ydGduQy1Ya0hrTDlTTDJQZ01yZDdteGtJdElGTWRZR3JZOVBvMlVZVlRMUktRRXUxVXVoc1FUYTgxd1hIZkE5RmhrZ0hWMHJzUQ?oc=5"
+    }
+  ]
+}

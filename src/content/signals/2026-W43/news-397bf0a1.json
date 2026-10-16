@@ -1,0 +1,22 @@
+{
+  "id": "news-397bf0a1",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "news",
+  "source_name": "경남신문",
+  "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9BS202LXlPcFZqLWMyYXVNUVFndlVYUHYtd1BiVE16MU1OVVNUcmpYS0gyMzhfRm9WVUxGejlEaHFnWVgycW5XQ2F5WUxhaW93azRwWTRFUmNya2JYb194OUlYeE9WX2k2dVY0?oc=5",
+  "title": "NC, 리그 8위 마감… 가을야구 놓쳤지만 팬심은 잡았다",
+  "published_at": "2026-10-13T11:21:53.000Z",
+  "collected_at": "2026-10-16T12:55:42.882Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 42,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

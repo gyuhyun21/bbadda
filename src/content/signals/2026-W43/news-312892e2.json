@@ -1,0 +1,22 @@
+{
+  "id": "news-312892e2",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "news",
+  "source_name": "중도일보",
+  "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBTa0FVdWFyQU9idUhQVmN5YVVlWXdEaVpadm9MSWhraEp6eXNibUhpNGNrM0FieUliTGs3MDRrdVhmMnQzRzNrbEphRFllOTBqMXVjdktKdDFfUWw5MUZmVjdsck8?oc=5",
+  "title": "류지현 한화이글스 감독 \"2027년 시즌은 내일부터 시작\"",
+  "published_at": "2026-10-16T05:18:17.000Z",
+  "collected_at": "2026-10-16T12:55:42.882Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "news-8dc96645",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "더코리아",
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5CdElfU0dmZzRMa2hpMWR0S0EyVm9yZkE2bUFUbXBzU0U4YlBmeF9vSXRreUR2ZVFkLW5hWlA3djR2V3A4UEZxNG9BeEVHSWpXTWtCNW1tODBPQkhTZS1SQWhSZkpjenZXZFJ4Z3Y2VHQ?oc=5",
+  "title": "정규시즌 피날레를 장식한 극적인 3위… KIA 타이거즈, 챔필덕관 영상 공개 > 뉴스",
+  "published_at": "2026-10-14T03:05:00.000Z",
+  "collected_at": "2026-10-16T12:55:42.882Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 55,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "국제뉴스",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAtc3VON0l4ZXR6aUFqR0IxcGE3empZV0VOQUtFTFh4SnFWV3JSOG9lRXRJd1NlTzF6ZEFEb2FWNWtaYnJjeHhLM3ptMFgwYVBURWRhYUtaTHdrQ2JjMFIxVC1qUEs0QnFIUlZzWFVn?oc=5"
+    }
+  ]
+}

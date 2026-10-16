@@ -1,0 +1,22 @@
+{
+  "id": "news-b19522eb",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "경북일보",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBacmRqaFdqZWlqanBBcTVNX3dTdHBHMlV1YmdjNVc2b1lyc1NpYjFqcDlpYkhXTlZCSW0wcUYxOTc3LUpWTDRYLW5UVUdXa0FpUEF0VVpPM3ZScHVWUWtNUFRDOGJza0tfbThDZk4tNA?oc=5",
+  "title": "더현대 대구, 삼성 라이온즈 가을야구 기념 ‘팬 페스타’",
+  "published_at": "2026-10-14T09:57:53.000Z",
+  "collected_at": "2026-10-16T12:55:42.882Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 50,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

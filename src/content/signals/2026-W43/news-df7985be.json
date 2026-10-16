@@ -1,0 +1,22 @@
+{
+  "id": "news-df7985be",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "경향신문",
+  "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE02bXlma0gzUldpcmNNNGVSUU1vRlNtR2hoVnBBSEtZTDdXT2p4MENTVzF0bmtQMEJGNWdBVTFBQ1d4dkNMMmRKYnl5aTBUeS1mQnN4ZVVKMkN5MUdQZGxB0gFfQVVfeXFMTTZteWZrSDNSV2lyY000ZVJRTW9GU21HaGhWcEFIS1lMN1dPangwQ1NXMXRua1AwQkY1Z0FVMUFDV3h2Q0wyZEpieXlpMFR5LWZCc3hlVUoyQ3kxR1BkbEE?oc=5",
+  "title": "프로야구 정규시즌 144경기, 5년 연속 모두 뛴 ‘개근왕’은 LG 박해민",
+  "published_at": "2026-10-14T11:35:00.000Z",
+  "collected_at": "2026-10-16T12:55:42.882Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 50,
+    "relevance": 80
+  },
+  "sentiment": "neutral"
+}

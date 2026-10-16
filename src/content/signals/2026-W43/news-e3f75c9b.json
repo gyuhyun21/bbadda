@@ -1,0 +1,22 @@
+{
+  "id": "news-e3f75c9b",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "연합뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9sRk81VUQzeDFTYjdRTXdGMDl3RGVQeEdaMFZWYXZSRWo3bktDQ3pseGs3bHcybVZCRkdjM1RaMjJHN08za09mcFBwX3pwRll2RlRBWnI4MGhQTlg5Z2FocNIBYEFVX3lxTE9sRk81VUQzeDFTYjdRTXdGMDl3RGVQeEdaMFZWYXZSRWo3bktDQ3pseGs3bHcybVZCRkdjM1RaMjJHN08za09mcFBwX3pwRll2RlRBWnI4MGhQTlg5Z2FocA?oc=5",
+  "title": "광주로 향하는 염경엽 LG 감독 \"김도영 잡는 게 준PO 핵심\"",
+  "published_at": "2026-10-14T13:44:02.000Z",
+  "collected_at": "2026-10-16T12:55:42.882Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 51,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

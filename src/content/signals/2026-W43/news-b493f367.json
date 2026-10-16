@@ -1,0 +1,22 @@
+{
+  "id": "news-b493f367",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "FETV",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBjenB6X21idGtzTk03dExUMldBeUVHYl93bmJjQks3a1hUWlA2VkNOZnVXQVVjcklodUlHSnhETDJQRDFocmM2aW1IYXEtaUNMak1wMGZzS2JvamV1R1Z4bFBpZXgtc3ZL?oc=5",
+  "title": "한성모터스, 롯데자이언츠 홈 최종전서 차량 경품 이벤트",
+  "published_at": "2026-10-14T02:22:35.000Z",
+  "collected_at": "2026-10-16T12:55:42.882Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 47,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

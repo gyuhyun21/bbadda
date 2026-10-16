@@ -1,0 +1,28 @@
+{
+  "id": "news-4a6d838e",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "news",
+  "source_name": "충청투데이",
+  "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0yblpEb0RLZ0ozbmVndm1uX0FJalNhZkJUMVZla2NoWjVFR0tmR1dYeERPUE9mLXZiTFd5YzhvN2VWSHl1aHBKQmVhaEJsVUlMazJZTlFlMWZ3Vy0zTWhWMjRNYzBGeXBNUGp1Y1R3?oc=5",
+  "title": "한화이글스, 아시아쿼터 투수 왕옌청과 재계약",
+  "published_at": "2026-10-13T05:31:41.000Z",
+  "collected_at": "2026-10-16T12:55:42.882Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 48,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "티제이비",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE94djdEdm1kNDBQWEVLemo3SXdEdG5DeVpiUjVMRDl6WDVIX053Q0RMQWFObmNRb1RsMmttS1Y4Y045ZjZfNlhBMzNwcDF0U3ZHdnJxMnRvX0doRUdLOE5aeEVtcnkzVkRwV1E?oc=5"
+    }
+  ]
+}

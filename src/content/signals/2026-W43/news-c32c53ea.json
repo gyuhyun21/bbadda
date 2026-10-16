@@ -1,0 +1,22 @@
+{
+  "id": "news-c32c53ea",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "대구MBC",
+  "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE45MmpTZnBPSXJoSVcxeDRoZnByR1A4ZGJSeGR2M1FCckZnQVQ0dVEzT3VnM3VuY0Jad2pnckZfc2ZfQUtxUEFIMTFxb1Y?oc=5",
+  "title": "'유종의 미' 노리는 삼성라이온즈…팀 '연패'도, 상대 '연승'도 끊어야",
+  "published_at": "2026-10-11T22:40:00.000Z",
+  "collected_at": "2026-10-16T12:55:42.882Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 29,
+    "relevance": 70
+  },
+  "sentiment": "mixed"
+}

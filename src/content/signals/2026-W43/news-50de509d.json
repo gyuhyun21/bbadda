@@ -1,0 +1,22 @@
+{
+  "id": "news-50de509d",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "연합뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9KR2d1RWFGU1hvZDJIOHJOTHVCZVpQZUJELVJjUzFqeFd4ZDExNkZrYXJwSlowWEl5a3dFYW5YUzNkemw2ZncyTElxeU5lVHdxOURreEt5cXJWRGlSSUdETdIBYEFVX3lxTE9KR2d1RWFGU1hvZDJIOHJOTHVCZVpQZUJELVJjUzFqeFd4ZDExNkZrYXJwSlowWEl5a3dFYW5YUzNkemw2ZncyTElxeU5lVHdxOURreEt5cXJWRGlSSUdETQ?oc=5",
+  "title": "9년째 멈춘 롯데 가을 시계…규정 이닝 5인과 센터 라인 건졌다",
+  "published_at": "2026-10-13T22:00:06.000Z",
+  "collected_at": "2026-10-16T12:55:42.882Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 46,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

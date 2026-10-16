@@ -1,0 +1,22 @@
+{
+  "id": "news-e9b3b86d",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "YouTube",
+  "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9vNUMyeU9FazJDSjNKR212RVYtTGlJTC03d0VaS2pOVFZmdzJUTmtUdG9lODBZMDAzdEZQSGROdTJhSVFfN2pWWHR0QW9taE9sZkhWTFlXd054bE9n?oc=5",
+  "title": "다시 뜨겁게! 2026 KIA 타이거즈 준플레이오프 엔트리",
+  "published_at": "2026-10-16T06:24:29.000Z",
+  "collected_at": "2026-10-16T12:55:42.882Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

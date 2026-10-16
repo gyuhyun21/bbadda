@@ -1,0 +1,22 @@
+{
+  "id": "news-b2db0e05",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "진일보 | 전남일보",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBOdXBxUmM3azZXWHhoc2d3ZmNpeVlsUUJXSC1jdGRLUVlMTEdvOHRkQ0E3RjZ5enJrN1pYVDVjcTNoMmRGOEtFbDB2ZTR2LUdZQkpqUkthd2R5T08yclhRcHhPd3RiOE9tTjVud1o0SQ?oc=5",
+  "title": "12번의 우승으로 시계 한 바퀴 채웠다…KIA 팬들의 행복한 고민 ‘V13’",
+  "published_at": "2026-10-15T00:30:24.000Z",
+  "collected_at": "2026-10-16T12:55:42.882Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

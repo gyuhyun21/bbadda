@@ -1,0 +1,22 @@
+{
+  "id": "news-808059fd",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "매일신문",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8tX1ZWMGRzVDhPZHI4U3NxdFhvUTZlTEVmeHg0dUdoMEt3OGZqa3Z0UDVnblFLTWFkdXhUckZuQlo4bTV6ZzZyTUkzbnB4RDRrRVpndmZVN3RoNjRoblV5T1Nn?oc=5",
+  "title": "삼성 라이온즈의 상대는 누구?…14일부터 `가을 야구` 시작",
+  "published_at": "2026-10-13T06:39:00.000Z",
+  "collected_at": "2026-10-16T12:55:42.882Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 40,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

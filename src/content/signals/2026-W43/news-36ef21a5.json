@@ -1,0 +1,22 @@
+{
+  "id": "news-36ef21a5",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1NNGtmSTdvcThMd1d3SFlEMXpoMXdUQUMzTi1wZDVjQjNhSG9tdGJORVJHNHF4dElaZ0JjUS12SVNxM0V4d21wd3hiSUktUFZqNFBBck9PVk9IUzhnRjZESzdndDR6emZZNG4zZ0lva9IBb0FVX3lxTE1NNGtmSTdvcThMd1d3SFlEMXpoMXdUQUMzTi1wZDVjQjNhSG9tdGJORVJHNHF4dElaZ0JjUS12SVNxM0V4d21wd3hiSUktUFZqNFBBck9PVk9IUzhnRjZESzdndDR6emZZNG4zZ0lvaw?oc=5",
+  "title": "SSG, 박정권 퓨처스팀 감독과 동행 종료...\"육성시스템 개편\" [공식발표]",
+  "published_at": "2026-10-15T01:41:00.000Z",
+  "collected_at": "2026-10-16T12:55:42.882Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

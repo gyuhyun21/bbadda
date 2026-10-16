@@ -1,0 +1,28 @@
+{
+  "id": "news-aae367dc",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBRdkRGY0xFUEpYY1pZMmw3a3J0ZkREYy0zSDB5OThfandJb0hpc1VtYWdjenFacGo3SVkySmNKQmdtUC16MkZqenVGcEtFRWMxZE93Q3V6MVAweVBfMTRTZjZqVjVUX0pER0RiVXktUdIBb0FVX3lxTFBRdkRGY0xFUEpYY1pZMmw3a3J0ZkREYy0zSDB5OThfandJb0hpc1VtYWdjenFacGo3SVkySmNKQmdtUC16MkZqenVGcEtFRWMxZE93Q3V6MVAweVBfMTRTZjZqVjVUX0pER0RiVXktUQ?oc=5",
+  "title": "'호부지 계약 마지막해' NC, 18일부터 '캠프1' 진행... 첫 풀타임 구창모도 참가-박건우·박민우·김주원 등 5명만 제외",
+  "published_at": "2026-10-16T08:01:00.000Z",
+  "collected_at": "2026-10-16T12:55:42.882Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE00Nlhucko4TWY1VnpMWFpBWHpMaUQtVjdMTXhVWC1vbFlKcDhDTDJWQlJmTDZNbEpCR3p3VVFxVU9vNTNPY0JSV3FGQWhKSDRyT2Jka1A2UmtWVVZXLU1rSFRhNWhjcHc3MUlqMjVaMkNfc2o0NWc?oc=5"
+    }
+  ]
+}

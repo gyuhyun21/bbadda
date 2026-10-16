@@ -1,0 +1,29 @@
+{
+  "id": "news-45d91c2c",
+  "issue": "2026-W43",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "KBC광주방송",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5odTdLclpGUGRWR1BKVXc0ZTR3bkNzSTJ3WHdnQUNac1JpMVhPdHBLWkdDN20yM3Fkd3FFVWRLVFZNX05Rd3hXWEJEdDdodGRZckYzZGdQdS1kSUVDQS1CVQ?oc=5",
+  "title": "KIA, 준플레이오프서 LG 또 만난다…17일 1차전",
+  "published_at": "2026-10-14T13:22:14.000Z",
+  "collected_at": "2026-10-16T12:55:42.882Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 59,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "부산일보",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1XdVc4R0xRZXVEQW5XRFpCTGZadVJUNDhNdlBBT0dYR0ozX0hqblEyaHpIQ2I1M3dBbzU0M2Nwc0V1NmxGNkZfeU43eWZxaXBMRVlDN25xS01hZkwySGxFa3Y3c3JQb1BMY0xvV2lkcE4tb0pFQXc1Mw?oc=5"
+    }
+  ]
+}

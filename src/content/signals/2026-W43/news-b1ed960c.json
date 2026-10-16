@@ -1,0 +1,23 @@
+{
+  "id": "news-b1ed960c",
+  "issue": "2026-W43",
+  "module": "rivalry",
+  "team": "lg",
+  "teams": [
+    "lg",
+    "kiwoom"
+  ],
+  "source_type": "news",
+  "source_name": "이투데이",
+  "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ndWQzNmJ1Mkg4TDJTNFF6c2ozRVg5SVM3T3FiamVUMVROZGpzVmY5SEIySmdhWDlDaTRBUlotVWpzSzlNWlB3cGxJbmp2eDE5VS0xcDFpRmlfN0RZb3FrNGI1TC1kc3hrYTFF?oc=5",
+  "title": "‘불꽃야구’ 영건들, 프로행 ‘방출’…임영기 LG·현빈 키움으로",
+  "published_at": "2026-10-12T04:18:00.000Z",
+  "collected_at": "2026-10-16T12:55:42.882Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 31,
+    "relevance": 80
+  },
+  "sentiment": "negative"
+}

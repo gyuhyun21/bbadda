@@ -1,0 +1,22 @@
+{
+  "id": "news-fcecaebd",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "news",
+  "source_name": "스타뉴스",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9PaW0tQ0QtUVlMWW9rNS04N2FNclF0dEs1Q0VVdnFDc2wzME4tZ3ljXzNWRUVqMll0MTRmS1J6VXp1STFBYkg0YWpEVWc5NlYtRWczNEFEa0w1VDVOcjg2ajZDX0RlV2JhN21JdG92RVRmNWNhWFE?oc=5",
+  "title": "[오피셜] '드디어 풀빌라 본다' SSG, 아빌라와 '최대 2년' 재계약 \"2027년 우승 돕겠다\"",
+  "published_at": "2026-10-16T04:12:56.000Z",
+  "collected_at": "2026-10-16T12:55:42.882Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

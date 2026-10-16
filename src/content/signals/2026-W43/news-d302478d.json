@@ -1,0 +1,22 @@
+{
+  "id": "news-d302478d",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "news",
+  "source_name": "더게이트",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE55NFdBRk5zaHhWSkJQV1RWNlItdkZJc0p6ZWxrR3YxQmhFSzdBWDh0VHQyQXRxODE5WHpfd201dDdhX3B0RjZWWmRQbXFhNjBoRlBYdjhQdFZSYm1RdWJ5bGF0TFNqbmp30gFsQVVfeXFMUGR5SzJybzFBcVBsWmY4RjVreWlBLWFmOHNaNUh6bE43al9vWjN5VjctclR1SDlhNklPUFdPWXB6SVhlY0h6YkE4RFZGNFdUM1hRdkxFMHNyUnlYRHJpNEx3aEt1SjdzdG9BcHRu?oc=5",
+  "title": "“야구팬 64%가 KT 우승 예상”…컴투스, KBO 포스트시즌 설문 결과 공개",
+  "published_at": "2026-10-14T03:02:04.000Z",
+  "collected_at": "2026-10-16T12:55:42.882Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 47,
+    "relevance": 80
+  },
+  "sentiment": "positive"
+}

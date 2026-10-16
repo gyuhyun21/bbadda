@@ -1,0 +1,23 @@
+{
+  "id": "news-d4d8b7cb",
+  "issue": "2026-W43",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kt"
+  ],
+  "source_type": "news",
+  "source_name": "경북도민일보",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB0Wlp2Ui1BZm9RaWQ4YThtcjdTU0R3NUpydUZHM0lxQmhVYkM5MnA5REIwWlBGS0RjelJtNWVkQ2VvNlNUd1BxeFhPemlSZ1RyYUttcERtVTdqbzBzTWw4UVdHN05UakY1b2c?oc=5",
+  "title": "삼성라이온즈, KT위즈와 정규시즌 최종전서 2대4 패배",
+  "published_at": "2026-10-12T12:42:40.000Z",
+  "collected_at": "2026-10-16T12:55:42.882Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 42,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

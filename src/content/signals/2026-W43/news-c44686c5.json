@@ -1,0 +1,22 @@
+{
+  "id": "news-c44686c5",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "news",
+  "source_name": "연합뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBGd09oRWxjSkRFbnlld0tKZ2NlZUUwM29HUGRoeXdXbGZMaXB0NUdZdGNoakFTOE9sX2pwVVlFRWF2TzV5Vi15c0NrWUlMTm1BM3hjczU0R3RTS0htTlBsMdIBYEFVX3lxTFBGd09oRWxjSkRFbnlld0tKZ2NlZUUwM29HUGRoeXdXbGZMaXB0NUdZdGNoakFTOE9sX2pwVVlFRWF2TzV5Vi15c0NrWUlMTm1BM3hjczU0R3RTS0htTlBsMQ?oc=5",
+  "title": "류지현 한화 감독 \"시스템 야구로 명문 구단 기틀 만들겠다\"",
+  "published_at": "2026-10-16T05:49:51.000Z",
+  "collected_at": "2026-10-16T12:55:42.882Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}
