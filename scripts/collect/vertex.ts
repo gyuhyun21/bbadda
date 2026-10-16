@@ -36,21 +36,28 @@ export function normalizeLink(u: string): string {
 
 /** 게시 날짜: 메타태그(작성 시각만) → 발췌의 날짜('2026. 10. 14.', 'Oct 14, 2026') → 상대 시간('3일 전', '3 days ago'). 못 찾으면 undefined. */
 export function findDate(meta: Record<string, string> | undefined, snippet: string | undefined, now: Date): string | undefined {
+  return findDateWithSource(meta, snippet, now)?.iso;
+}
+
+/** 날짜와 그 출처(meta: 페이지 메타태그, text: 발췌의 날짜·상대 시간). 의심 날짜 규칙은 meta 에만 적용한다. */
+export function findDateWithSource(meta: Record<string, string> | undefined, snippet: string | undefined, now: Date): { iso: string; from: 'meta' | 'text' } | undefined {
   // 수정 시각(article:modified_time·og:updated_time)은 쓰지 않는다 — 옛 글이 이번 주 글처럼 보인다
   for (const k of ['article:published_time', 'og:article:published_time', 'date', 'pubdate', 'datepublished']) {
     const v = meta?.[k];
-    if (v && Number.isFinite(Date.parse(v))) return new Date(v).toISOString();
+    if (v && Number.isFinite(Date.parse(v))) return { iso: new Date(v).toISOString(), from: 'meta' };
   }
   const s = stripTags(snippet ?? '');
   const ymd = /(20\d\d)[.\-/]\s?(\d{1,2})[.\-/]\s?(\d{1,2})/.exec(s);
-  if (ymd) return new Date(`${ymd[1]}-${ymd[2].padStart(2, '0')}-${ymd[3].padStart(2, '0')}T00:00:00+09:00`).toISOString();
+  if (ymd) return { iso: new Date(`${ymd[1]}-${ymd[2].padStart(2, '0')}-${ymd[3].padStart(2, '0')}T00:00:00+09:00`).toISOString(), from: 'text' };
   const en = /\b(jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)[a-z]*\.?\s+(\d{1,2}),?\s+(20\d\d)\b/i.exec(s);
-  if (en) return new Date(`${en[3]}-${String(MONTHS.indexOf(en[1].toLowerCase()) + 1).padStart(2, '0')}-${en[2].padStart(2, '0')}T00:00:00Z`).toISOString();
+  if (en) return { iso: new Date(`${en[3]}-${String(MONTHS.indexOf(en[1].toLowerCase()) + 1).padStart(2, '0')}-${en[2].padStart(2, '0')}T00:00:00Z`).toISOString(), from: 'text' };
   const rel = /(\d+)\s*(일|시간|분)\s*전|(\d+)\s*(day|hour|minute)s?\s+ago/i.exec(s);
   if (rel) {
     const n = Number(rel[1] ?? rel[3]);
     const unit = (rel[2] ?? rel[4]).toLowerCase();
-    return new Date(now.getTime() - n * (unit === '일' || unit === 'day' ? 86400000 : unit === '시간' || unit === 'hour' ? 3600000 : 60000)).toISOString();
+    // 'N일 전'은 그날 한국 날짜(자정)로 — 실행 시각을 붙이면 없는 시각을 지어내게 된다(2026-10-17 실측)
+    if (unit === '일' || unit === 'day') return { iso: new Date(`${new Date(now.getTime() + 9 * 3600000 - n * 86400000).toISOString().slice(0, 10)}T00:00:00+09:00`).toISOString(), from: 'text' };
+    return { iso: new Date(now.getTime() - n * (unit === '시간' || unit === 'hour' ? 3600000 : 60000)).toISOString(), from: 'text' };
   }
   return undefined;
 }
@@ -75,6 +82,7 @@ export async function collectVertex(ctx: Ctx, override?: Record<string, any>) {
   const sites = (cfg.sites ?? []) as Site[];
   const slang = ((cfg.slang ?? []) as { pattern: string; term: string }[]).map((s) => ({ re: new RegExp(s.pattern, 'i'), term: s.term }));
   const seen = new Set<string>();
+  const metaDated = new Set<string>(); // 메타태그에서 날짜를 읽은 글
   for (const { q, site, team } of ((cfg.queries as Query[] | undefined) ?? buildQueries(sites)).slice(0, Number(cfg.max_queries ?? 60))) {
     try {
       out.requests++;
@@ -92,8 +100,10 @@ export async function collectVertex(ctx: Ctx, override?: Record<string, any>) {
         const host = hostOf(link);
         if (!(host === site.host || host.endsWith('.' + site.host))) continue;
         const snippet = (d.snippets ?? []).map((s) => s.snippet ?? '').join(' ');
-        const date = findDate(d.pagemap?.metatags?.[0], snippet, ctx.now);
-        if (!date) { out.dropped_undated++; continue; }
+        const found = findDateWithSource(d.pagemap?.metatags?.[0], snippet, ctx.now);
+        if (!found) { out.dropped_undated++; continue; }
+        const date = found.iso;
+        if (found.from === 'meta') metaDated.add(link);
         seen.add(link);
         const title = cleanTitle(d.title);
         const ex = excerpt(snippet.replace(/^\s*(20\d\d[.\-/]\s?\d{1,2}[.\-/]\s?\d{1,2}\.?|\d+\s*(일|시간|분)\s*전|\d+\s*(day|hour|minute)s?\s+ago|[A-Z][a-z]{2,8}\.?\s+\d{1,2},?\s+20\d\d)\s*[—–-]?\s*/i, ''));
@@ -110,8 +120,10 @@ export async function collectVertex(ctx: Ctx, override?: Record<string, any>) {
   // 같은 사이트 글 3건 이상이 시각까지 똑같으면 작성일이 아니라 색인 시각으로 보고 버린다.
   // 날짜만 있는 글(시각 없음)은 같은 날 글이 여러 개인 게 정상이라 이 규칙에서 뺀다(2026-10-17 실측: 정상 글 309건이 잘림)
   const n = new Map<string, number>();
-  for (const it of out.items) if (!isDateOnly(it.published_at)) n.set(`${it.source_name}|${it.published_at}`, (n.get(`${it.source_name}|${it.published_at}`) ?? 0) + 1);
-  const keep = out.items.filter((it) => isDateOnly(it.published_at) || (n.get(`${it.source_name}|${it.published_at}`) ?? 0) < SUSPECT_SAME_DATE);
+  // 메타태그 날짜만 센다 — 발췌의 날짜·상대 시간은 색인 시각이 아니다
+  const suspectable = (it: RawItem) => metaDated.has(it.url) && !isDateOnly(it.published_at);
+  for (const it of out.items) if (suspectable(it)) n.set(`${it.source_name}|${it.published_at}`, (n.get(`${it.source_name}|${it.published_at}`) ?? 0) + 1);
+  const keep = out.items.filter((it) => !suspectable(it) || (n.get(`${it.source_name}|${it.published_at}`) ?? 0) < SUSPECT_SAME_DATE);
   out.dropped_suspect_date = out.items.length - keep.length;
   out.items = keep;
   return out;
