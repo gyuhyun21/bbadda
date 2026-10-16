@@ -5,6 +5,9 @@ layout: magazine
 # community_section: 커뮤니티 검색 글을 모은 작은 Community 섹션. false 면 팬 반응 모듈에 섞는다.
 #   환경변수 SITE_COMMUNITY=on|off 가 우선.
 community_section: true
+# home: 첫 화면. front — 매일 바뀌는 스포츠 1면(헤드라인·10개 구단 한눈에·리그·오피셜 영상·팬 반응·날짜별 소식, 2026-10-16 도입)
+#   issue — 최신 주간호를 그대로(이전 화면). 마음에 들지 않으면 이 한 줄을 issue 로 바꿔 머지한다. 환경변수 SITE_HOME 이 우선.
+home: front
 # news_images: 뉴스 카드에 원 기사의 대표 사진을 원 매체 주소로 표시(파일은 저장하지 않음, 사진 위에 매체명 표기).
 #   false 로 바꾸면 사진 없이 글자 커버만 쓴다. 배포 환경변수 SITE_NEWS_IMAGES=on|off 가 우선(저장소 주인 결정, 2026-10-16).
 news_images: true

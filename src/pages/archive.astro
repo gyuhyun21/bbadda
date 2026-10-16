@@ -1,19 +1,29 @@
 ---
+// 날짜별 소식(매일 갱신의 기록) + 주간호
 import Layout from '../components/Layout.astro';
-import { loadAll, fmtDate, issueSignals, issueLabel, periodLabel } from '../lib/site.ts';
+import { loadAll, fmtDate, issueSignals, issueLabel, periodLabel, daysOf, onDay, dayLabel } from '../lib/site.ts';
 const data = await loadAll();
-const years = [...new Set(data.issues.map((i) => i.vol.slice(0, 4)))].sort().reverse();
+const days = daysOf(data.signals);
+const months = [...new Set(days.map((d) => d.slice(0, 7)))];
 ---
-<Layout title="지난 호">
-  <h1 class="page-title">지난 호</h1>
-  <p class="page-lead">발행된 주간호를 연도별로 모았습니다.</p>
-  {years.map((y) => (
-    <section class="block" aria-labelledby={`y-${y}`}>
-      <h2 class="year" id={`y-${y}`}>{y}</h2>
-      {data.issues.filter((i) => i.vol.startsWith(y)).map((i) => (
+<Layout title="날짜별">
+  <h1 class="page-title">날짜별 소식</h1>
+  <p class="page-lead">매일 아침 갱신한 소식을 날짜별로 모았습니다. 날짜는 기사 게시일 기준입니다.</p>
+  {months.map((m) => (
+    <section class="block" aria-labelledby={`m-${m}`}>
+      <h2 class="year" id={`m-${m}`}>{Number(m.slice(0, 4))}년 {Number(m.slice(5))}월</h2>
+      <ul class="day-chips">
+        {days.filter((d) => d.startsWith(m)).map((d) => <li><a href={`/days/${d}/`}><strong>{dayLabel(d)}</strong><span class="small">{onDay(data.signals, d).length}건</span></a></li>)}
+      </ul>
+    </section>
+  ))}
+  {days.length === 0 && <p class="empty-hint">아직 소식이 없습니다.</p>}
+  {data.issues.length > 0 && (
+    <section class="block" aria-labelledby="h-issues">
+      <h2 class="year" id="h-issues">주간호</h2>
+      {data.issues.map((i) => (
         <a class="issue-row" href={`/issues/${i.vol}`}><strong>{issueLabel(i.vol)}</strong><span>{periodLabel(i.period_start, i.period_end)}{i.sample ? ' (SAMPLE)' : ''}</span><span class="small">{fmtDate(i.published_at)} · 소식 {issueSignals(data, i.vol).length}건</span></a>
       ))}
     </section>
-  ))}
-  {years.length === 0 && <p class="empty-hint">발행된 호가 없습니다.</p>}
+  )}
 </Layout>

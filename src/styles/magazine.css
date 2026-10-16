@@ -139,3 +139,7 @@
 .layout-magazine .chip--official { background: var(--ink); color: #fff; padding: 1px 7px; border-radius: 4px; }
 .layout-magazine .chip--announce { color: var(--ink); }
 .layout-magazine .card--official { box-shadow: 0 0 0 1px rgba(0,0,0,.04), inset 0 3px 0 var(--ink); }
+.layout-magazine .front-teams { background: var(--panel); box-shadow: 0 0 0 100vmax var(--panel); clip-path: inset(0 -100vmax); }
+.layout-magazine .team-tile { border: 0; border-top: 6px solid var(--team, var(--ink)); background: var(--tile); box-shadow: 0 0 0 1px rgba(0,0,0,.04); }
+.layout-magazine .headline-lead .card { background: var(--panel); }
+.layout-magazine .day-chips a { border: 0; background: var(--panel); }

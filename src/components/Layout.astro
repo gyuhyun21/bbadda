@@ -8,11 +8,12 @@ interface Props { title?: string; description?: string; sample?: boolean; search
 // searchable=false: 같은 내용이 호 페이지에 있어 검색 결과가 겹치는 페이지(메인)는 색인에서 뺀다
 const { title, description = 'KBO 10개 구단 팀별 소식을 매일·매주 모아 요약하는 팬 매거진', sample = false, searchable = true } = Astro.props;
 const full = title ? `${title} · ${SITE_NAME}` : `${SITE_NAME} 빠따닷컴`;
-const nav = [['/', '홈'], ['/teams', '팀'], ['/archive', '지난 호'], ['/search', '검색'], ['/about', '소개']];
+const nav = [['/', '홈'], ['/teams', '팀'], ['/archive', '날짜별'], ['/search', '검색'], ['/about', '소개']];
 const path = Astro.url.pathname.replace(/\/$/, '') || '/';
 const layout = siteLayout(); // config/site.yaml layout (환경변수 SITE_LAYOUT 우선)
 // 내 팀 전용 블록은 CSS 로 미리 보이게 해서 화면이 깜빡이지 않게 한다
-const myTeamCss = TEAMS.map((t) => `html[data-my-team="${t.id}"] [data-myteam-block="${t.id}"]{display:block}`).join('');
+// 내 팀 타일은 '10개 구단 한눈에'에서 맨 앞으로
+const myTeamCss = TEAMS.map((t) => `html[data-my-team="${t.id}"] [data-myteam-block="${t.id}"]{display:block}html[data-my-team="${t.id}"] [data-team-tile="${t.id}"]{order:-1;box-shadow:0 0 0 2px var(--ink)}`).join('');
 ---
 <!doctype html>
 <html lang="ko" class={`layout-${layout}`}>

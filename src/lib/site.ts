@@ -112,3 +112,18 @@ export function wrapTitle(title: string, maxUnits = 22, maxLines = 4): string[] 
   if (lines.length > maxLines) { lines.length = maxLines; lines[maxLines - 1] = lines[maxLines - 1].replace(/.?$/, '…'); }
   return lines;
 }
+
+// ── 날짜 기준(매일 갱신). 날짜는 기사 게시일의 한국 날짜.
+/** ISO 시각 → 한국 날짜 'YYYY-MM-DD' */
+export const kstDay = (iso: string) => new Date(Date.parse(iso) + 9 * 3600_000).toISOString().slice(0, 10);
+const WEEKDAY = ['일', '월', '화', '수', '목', '금', '토'];
+/** '2026-10-16' → '10월 16일 (금)' */
+export const dayLabel = (d: string) => { const [, m, dd] = d.split('-').map(Number); return `${m}월 ${dd}일 (${WEEKDAY[new Date(`${d}T00:00:00Z`).getUTCDay()]})`; };
+/** 요약이 있는 소식이 있는 날짜들(최신순) */
+export const daysOf = (list: Signal[]) => [...new Set(list.map((s) => kstDay(s.published_at)))].sort().reverse();
+export const onDay = (list: Signal[], d: string) => list.filter((s) => kstDay(s.published_at) === d);
+/** 리그 블록 제목: 10~11월 가을야구, 12~2월 스토브리그, 3월 시범경기·개막, 그 밖에는 리그 전체 */
+export function seasonTitle(d = new Date(BUILD_TIME)): string {
+  const m = new Date(d.getTime() + 9 * 3600_000).getUTCMonth() + 1;
+  return m === 10 || m === 11 ? '가을야구' : m === 12 || m <= 2 ? '스토브리그' : m === 3 ? '개막 준비' : '리그 전체';
+}

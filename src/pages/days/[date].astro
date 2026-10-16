@@ -1,0 +1,49 @@
+---
+// 날짜별 소식 — 그날 게시된 기사(요약을 쓴 것)를 리그 → 팀별로. 매일 갱신의 기록 단위.
+import Layout from '../../components/Layout.astro';
+import SignalCard from '../../components/SignalCard.astro';
+import SignalList from '../../components/SignalList.astro';
+import TeamSection from '../../components/TeamSection.astro';
+import CommunitySection from '../../components/CommunitySection.astro';
+import { communitySection } from '../../lib/config.ts';
+import { TEAMS, loadAll, daysOf, onDay, dayLabel, hot, MODULE_LABEL } from '../../lib/site.ts';
+import type { Signal } from '../../lib/schemas.ts';
+export async function getStaticPaths() {
+  const data = await loadAll();
+  return daysOf(data.signals).map((date) => ({ params: { date }, props: { date } }));
+}
+const { date } = Astro.props as { date: string };
+const data = await loadAll();
+const days = daysOf(data.signals);
+const i = days.indexOf(date);
+const older = days[i + 1];
+const newer = i > 0 ? days[i - 1] : undefined;
+const list: Signal[] = onDay(data.signals, date);
+const league = list.filter((s) => s.module === 'league' || s.module === 'rivalry').sort(hot);
+const order = [...TEAMS].sort((a, b) => list.filter((s) => s.teams.includes(b.id)).length - list.filter((s) => s.teams.includes(a.id)).length).filter((t) => list.some((s) => s.teams.includes(t.id)));
+---
+<Layout title={dayLabel(date)} description={`${dayLabel(date)} KBO 10개 구단 소식`} sample={list.some((s) => s.sample)}>
+  <nav class="issue-nav issue-nav--top" aria-label="날짜 넘겨 보기" data-pagefind-ignore>
+    {older ? <a class="issue-nav-link" href={`/days/${older}/`} rel="prev"><span class="issue-nav-dir">← 전날</span><span class="issue-nav-label">{dayLabel(older)}</span></a> : <span class="issue-nav-link is-empty"><span class="issue-nav-dir">첫 날입니다</span></span>}
+    <a class="issue-nav-all" href="/archive">날짜 전체</a>
+    {newer ? <a class="issue-nav-link issue-nav-next" href={`/days/${newer}/`} rel="next"><span class="issue-nav-dir">다음 날 →</span><span class="issue-nav-label">{dayLabel(newer)}</span></a> : <span class="issue-nav-link issue-nav-next is-empty"><span class="issue-nav-dir">가장 최근입니다</span></span>}
+  </nav>
+  <section class="masthead" data-pagefind-meta={`title:${dayLabel(date)} 소식`}>
+    <h1>{dayLabel(date)}</h1>
+    <p class="issue-title"><strong>KBO 10개 구단 소식</strong><span class="issue-period">{list.length}건</span></p>
+  </section>
+  {league.length > 0 && (
+    <section class="block" aria-labelledby="h-day-league">
+      <div class="block-head"><h2 id="h-day-league">{MODULE_LABEL.league}·{MODULE_LABEL.rivalry}</h2></div>
+      <div class="grid">{league.slice(0, 4).map((s) => <SignalCard signal={s} />)}</div>
+      <SignalList signals={league.slice(4)} />
+    </section>
+  )}
+  <section class="block teams" aria-labelledby="h-day-teams">
+    <div class="block-head"><h2 id="h-day-teams">팀별</h2><span class="small">내 팀이 맨 위에 펼쳐집니다</span></div>
+    <div class="team-sections" data-team-sort>
+      {order.map((t, n) => <TeamSection id={t.id} signals={list} open={n === 0} />)}
+    </div>
+  </section>
+  {communitySection() && <CommunitySection signals={list} />}
+</Layout>
