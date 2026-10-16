@@ -1,0 +1,136 @@
+# KBO 10개 구단 (2026 시즌)
+# 출처: KBO 공식 구단정보 https://www.koreabaseball.com/Kbo/League/TeamInfo.aspx (2026-10-16 확인 — 팀명·연고지·홈페이지)
+#       KBO 팀 순위 https://www.koreabaseball.com/Record/TeamRank/TeamRankDaily.aspx (2026-10-16 확인 — 짧은 이름)
+# color: 구단 브랜드 가이드 출처를 확인하기 전까지 null(화면은 중립색). 채울 때 출처 URL을 주석으로 남긴다.
+# youtube / instagram: 구단 홈페이지에 걸린 링크로 확인한 것만. 확인 전에는 null(TODO).
+# aliases: 제목에 있으면 그 팀 기사로 본다. weak_aliases: 기업·지역 기사와 겹치는 짧은 이름이라 제목에 야구 단어(scoring.yaml baseball_terms)가 함께 있어야 인정.
+# exclude_any: 제목이 이 정규식에 맞으면 그 팀 기사로 보지 않는다(모기업·계열사 기사).
+
+teams:
+  - id: lg
+    name: LG 트윈스
+    short: LG
+    city: 서울
+    color: null # TODO
+    website: https://www.lgtwins.com
+    youtube: https://www.youtube.com/c/LGTwinsTV # 출처: lgtwins.com 하단 링크 (2026-10-16)
+    instagram: https://www.instagram.com/lgtwinsbaseballclub/ # 출처: lgtwins.com 하단 링크 (2026-10-16)
+    news_queries: ["LG 트윈스", "LG트윈스"]
+    aliases: [LG 트윈스, LG트윈스, 엘지 트윈스, LG Twins]
+    weak_aliases: [LG, 엘지]
+    exclude_any: ["LG ?(전자|유플러스|U\\+|에너지|화학|디스플레이|생활건강|이노텍|CNS|그룹|헬로비전)"]
+  - id: hanwha
+    name: 한화 이글스
+    short: 한화
+    city: 대전
+    color: null # TODO
+    website: https://www.hanwhaeagles.co.kr
+    youtube: null # TODO
+    instagram: null # TODO
+    news_queries: ["한화 이글스", "한화이글스"]
+    aliases: [한화 이글스, 한화이글스, Hanwha Eagles]
+    weak_aliases: [한화]
+    exclude_any: ["한화(에어로|오션|솔루션|생명|손해|투자|자산|시스템|그룹|큐셀|비전|갤러리아|호텔|건설|정밀)"]
+  - id: ssg
+    name: SSG 랜더스
+    short: SSG
+    city: 인천
+    color: null # TODO
+    website: https://www.ssglanders.com
+    youtube: https://www.youtube.com/c/SSGLANDERS # 출처: ssglanders.com 하단 링크 (2026-10-16)
+    instagram: https://www.instagram.com/ssglanders.incheon/ # 출처: ssglanders.com 하단 링크 (2026-10-16)
+    news_queries: ["SSG 랜더스", "SSG랜더스"]
+    aliases: [SSG 랜더스, SSG랜더스, SSG Landers]
+    weak_aliases: [SSG]
+    exclude_any: ["SSG ?(닷컴|\\.COM|페이|머니|푸드)", "신세계"]
+  - id: samsung
+    name: 삼성 라이온즈
+    short: 삼성
+    city: 대구
+    color: null # TODO
+    website: https://www.samsunglions.com
+    youtube: null # TODO
+    instagram: null # TODO
+    news_queries: ["삼성 라이온즈", "삼성라이온즈"]
+    aliases: [삼성 라이온즈, 삼성라이온즈, Samsung Lions]
+    weak_aliases: [삼성]
+    exclude_any: ["삼성(전자|증권|생명|화재|카드|SDI|SDS|물산|바이오|중공업|전기|E&A|웰스토리|디스플레이|금융|자산|그룹)", "갤럭시"]
+  - id: nc
+    name: NC 다이노스
+    short: NC
+    city: 창원
+    color: null # TODO
+    website: https://www.ncdinos.com
+    youtube: http://www.youtube.com/user/ncdinos # 출처: ncdinos.com 하단 링크 (2026-10-16)
+    instagram: http://www.instagram.com/ncdinos2011 # 출처: ncdinos.com 하단 링크 (2026-10-16)
+    news_queries: ["NC 다이노스", "NC다이노스"]
+    aliases: [NC 다이노스, NC다이노스, NC Dinos]
+    weak_aliases: [NC]
+    exclude_any: ["엔씨소프트", "NC ?(소프트|SOFT)", "리니지", "아이온"]
+  - id: kt
+    name: KT 위즈
+    short: KT
+    city: 수원
+    color: null # TODO
+    website: https://www.ktwiz.co.kr
+    youtube: null # TODO
+    instagram: null # TODO
+    news_queries: ["KT 위즈", "kt wiz"]
+    aliases: [KT 위즈, KT위즈, kt wiz, KT Wiz]
+    weak_aliases: [KT, kt]
+    exclude_any: ["KT ?(&G|클라우드|스카이라이프|에스테이트|텔레캅|알파|그룹|cloud)", "통신|5G|요금제|인터넷|IPTV"]
+  - id: lotte
+    name: 롯데 자이언츠
+    short: 롯데
+    city: 부산
+    color: null # TODO
+    website: https://www.giantsclub.com
+    youtube: https://www.youtube.com/channel/UCAZQZdSY5_YrziMPqXi-Zfw # 출처: giantsclub.com 링크 (2026-10-16)
+    instagram: https://www.instagram.com/busanlottegiants/ # 출처: giantsclub.com 링크 (2026-10-16)
+    news_queries: ["롯데 자이언츠", "롯데자이언츠"]
+    aliases: [롯데 자이언츠, 롯데자이언츠, Lotte Giants]
+    weak_aliases: [롯데]
+    exclude_any: ["롯데(쇼핑|마트|백화점|월드|칠성|제과|웰푸드|케미칼|하이마트|홈쇼핑|그룹|카드|손해|건설|호텔|지주|렌탈|이노베이트|ON|온)"]
+  - id: kia
+    name: KIA 타이거즈
+    short: KIA
+    city: 광주
+    color: null # TODO
+    website: https://tigers.co.kr # 출처: KBO 구단정보의 www.kiatigers.co.kr 이 tigers.co.kr 로 이동 (2026-10-16)
+    youtube: null # TODO
+    instagram: null # TODO
+    news_queries: ["KIA 타이거즈", "기아 타이거즈"]
+    aliases: [KIA 타이거즈, KIA타이거즈, 기아 타이거즈, 기아타이거즈, Kia Tigers]
+    weak_aliases: [KIA, 기아]
+    exclude_any: ["기아(차|자동차)", "KIA ?(EV|모터스)", "EV[0-9]", "쏘렌토|스포티지|카니발|셀토스"]
+  - id: doosan
+    name: 두산 베어스
+    short: 두산
+    city: 서울
+    color: null # TODO
+    website: https://www.doosanbears.com
+    youtube: null # TODO
+    instagram: null # TODO
+    news_queries: ["두산 베어스", "두산베어스"]
+    aliases: [두산 베어스, 두산베어스, Doosan Bears]
+    weak_aliases: [두산]
+    exclude_any: ["두산(에너빌리티|밥캣|로보틱스|퓨얼셀|건설|그룹|중공업|테스나)"]
+  - id: kiwoom
+    name: 키움 히어로즈
+    short: 키움
+    city: 서울
+    color: null # TODO
+    website: https://heroesbaseball.co.kr
+    youtube: null # TODO
+    instagram: null # TODO
+    news_queries: ["키움 히어로즈", "키움히어로즈"]
+    aliases: [키움 히어로즈, 키움히어로즈, Kiwoom Heroes]
+    weak_aliases: [키움]
+    exclude_any: ["키움(증권|투자|자산|운용|캐피탈|저축)"]
+
+# KBO 공식 채널 (출처: koreabaseball.com 하단 링크, 2026-10-16)
+league:
+  name: KBO 리그
+  website: https://www.koreabaseball.com
+  youtube: https://www.youtube.com/@KBO1982
+  instagram: https://www.instagram.com/kbo.official/
