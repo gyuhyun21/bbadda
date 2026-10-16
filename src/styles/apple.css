@@ -1,0 +1,164 @@
+/* BBADDA — 'apple' 레이아웃 (2026-10-17). 애플 디자인 지침(Human Interface Guidelines)에서 웹에 맞는 것만 옮겼다:
+   - 시각적 위계: 중요한 것은 위·왼쪽, 정렬을 맞추고, 관련 있는 것은 여백·컨테이너로 묶는다.
+   - 글자: 정해진 단계만(34·28·22·17·15·13·12), 가는 굵기 금지, 최소 12px.
+   - 간격: 8 단위. 섹션 사이 64, 카드 안쪽 20.
+   - 컨트롤(머리말·검색)은 콘텐츠와 다른 모양으로.
+   모든 규칙은 .layout-apple 아래 — config/site.yaml 의 layout 을 magazine 으로 바꾸면 이 파일은 영향이 없다. */
+
+.layout-apple {
+  --bg: #FFFFFF;
+  --panel: #F5F5F7;
+  --tile: #FFFFFF;
+  --ink: #1D1D1F;
+  --muted: #6E6E73;
+  --line: #D2D2D7;
+  --hair: #E8E8ED;
+  --radius: 18px;
+  --radius-sm: 12px;
+  --max: 1120px;
+  /* 글자 단계(크기/줄 높이) */
+  --t-large: 600 clamp(30px, 4vw, 40px)/1.15 var(--font);
+  --t-title1: 700 28px/1.2 var(--font);
+  --t-title2: 700 22px/1.27 var(--font);
+  --t-headline: 600 17px/1.41 var(--font);
+  --t-body: 400 17px/1.53 var(--font);
+  --t-sub: 400 15px/1.47 var(--font);
+  --t-foot: 400 13px/1.38 var(--font);
+  --t-cap: 600 12px/1.33 var(--font);
+}
+.layout-apple body { font: var(--t-body); letter-spacing: -0.01em; }
+
+/* ── 머리말: 높이 52, 콘텐츠와 구분되는 회색 검색 필드 ── */
+.layout-apple .site-header { background: rgba(255, 255, 255, 0.96); border-bottom: 1px solid var(--hair); }
+.layout-apple .site-header .wrap { min-height: 52px; padding-top: 6px; padding-bottom: 6px; gap: 8px 20px; }
+.layout-apple .brand { font: 700 19px/1 var(--font); letter-spacing: -0.02em; }
+@media (min-width: 720px) { .layout-apple .header-search { flex-basis: 300px; } }
+.layout-apple .header-search input { font: var(--t-foot); padding: 8px 12px 8px 32px; border: 0; border-radius: 10px; background: var(--panel); }
+.layout-apple .header-search input::placeholder { color: var(--muted); font-weight: 400; }
+.layout-apple .header-search input:focus { background: #fff; box-shadow: 0 0 0 3px rgba(40, 70, 200, 0.25); }
+.layout-apple .header-search svg { stroke: var(--muted); left: 11px; width: 15px; height: 15px; }
+.layout-apple .nav { font: 400 13px/1 var(--font); gap: 4px 20px; }
+.layout-apple .nav a { color: var(--ink); opacity: 0.8; }
+.layout-apple .nav a[aria-current="page"] { opacity: 1; font-weight: 600; }
+.layout-apple .myteam-btn { font: 600 13px/1 var(--font); border: 0; background: var(--panel); padding: 9px 14px; }
+@media (max-width: 719px) {
+  .layout-apple .header-search-mobile { border: 0; background: var(--panel); }
+}
+
+/* ── 섹션 리듬: 섹션 사이 64, 제목 28 ── */
+.layout-apple .block { padding: 32px 0; }
+.layout-apple .block + .block { padding-top: 32px; }
+.layout-apple main .wrap > .block:last-child { padding-bottom: 64px; }
+.layout-apple .block-head { margin-bottom: 20px; align-items: baseline; }
+.layout-apple .block-head h2 { font: var(--t-title1); letter-spacing: -0.02em; }
+.layout-apple .block-head a, .layout-apple .block-head .small { font: var(--t-sub); color: var(--muted); text-decoration: none; }
+.layout-apple .block-head a { color: var(--accent); }
+.layout-apple .block-head a:hover { text-decoration: underline; }
+.layout-apple .page-title { font: var(--t-large); letter-spacing: -0.03em; padding: 40px 0 8px; }
+.layout-apple .masthead h1 { font: var(--t-large); letter-spacing: -0.03em; }
+.layout-apple .eyebrow { font: var(--t-foot); letter-spacing: 0; text-transform: none; color: var(--muted); }
+
+/* ── 카드: 사진 16:9, 제목 17 굵게 3줄, 요약 15 3줄, 출처 13 ── */
+.layout-apple .grid, .layout-apple .module-grid { gap: 24px 20px; grid-template-columns: repeat(auto-fill, minmax(min(100%, 248px), 1fr)); }
+.layout-apple .card { border-radius: var(--radius); background: var(--tile); box-shadow: 0 0 0 1px var(--hair); transform: none; }
+.layout-apple .card:hover { box-shadow: 0 0 0 1px var(--line), 0 8px 24px rgba(0, 0, 0, 0.06); transform: none; }
+.layout-apple .card-visual { aspect-ratio: 16 / 9; background: var(--panel); }
+.layout-apple .card:hover .card-visual img, .layout-apple .card:hover .card-visual svg { transform: none; }
+.layout-apple .card > :not(.card-visual) { padding-left: 20px; padding-right: 20px; }
+.layout-apple .card .meta { padding-top: 16px; gap: 6px 10px; align-items: center; }
+.layout-apple .card-title { font: var(--t-headline); letter-spacing: -0.015em; padding-top: 8px; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
+.layout-apple .card-title a:hover { color: var(--accent); }
+.layout-apple .card-orig { font: var(--t-foot); font-style: normal; }
+.layout-apple .card-also { font: var(--t-foot); color: var(--muted); margin-top: 6px; display: -webkit-box; -webkit-line-clamp: 1; -webkit-box-orient: vertical; overflow: hidden; }
+.layout-apple .card-summary { font: var(--t-sub); color: #424245; margin-top: 8px; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
+.layout-apple .card-quote { font: var(--t-sub); margin-top: 8px; }
+.layout-apple .card-foot { font: var(--t-foot); color: var(--muted); padding-top: 12px; padding-bottom: 20px; }
+/* 꼬리표는 팀·오피셜·공식발표·은어·SAMPLE 만 — 모듈·'오늘'은 섹션 제목과 날짜가 이미 말해 준다 */
+.layout-apple .card .meta .chip:not(.chip--official):not(.chip--announce):not(.chip--slang):not(.chip--sample) { display: none; }
+.layout-apple .chip { font: var(--t-cap); letter-spacing: 0; text-transform: none; }
+.layout-apple .chip--official { background: var(--ink); color: #fff; padding: 2px 7px; border-radius: 6px; }
+.layout-apple .card--official { box-shadow: 0 0 0 1px var(--hair); }
+.layout-apple .team-chip { font: var(--t-cap); }
+.layout-apple .card .meta .team-chip { font: var(--t-cap); }
+.layout-apple .img-credit { font: 600 11px/1.6 var(--font); border-radius: 6px; right: 8px; bottom: 8px; }
+
+/* 사진 없는 카드: 짙은 덩어리 대신 연회색 바탕 + 검은 글자 */
+.layout-apple .cover-bg, .layout-apple .cover--fans .cover-bg, .layout-apple .cover--rivalry .cover-bg, .layout-apple .cover--league .cover-bg { fill: var(--panel); }
+.layout-apple .cover-title { fill: var(--ink); font-weight: 700; }
+.layout-apple .cover-label, .layout-apple .cover-issue { fill: var(--muted); letter-spacing: 0; }
+
+/* ── 첫 화면: 헤드라인 ── */
+.layout-apple .front-masthead { padding: 28px 0 0; }
+.layout-apple .front-headline { padding-top: 8px; }
+.layout-apple .headline-grid { gap: 32px; align-items: stretch; }
+/* 대표 기사: 사진 위, 글 아래(세로 카드). 오른쪽 목록과 높이를 맞춰 빈 공간이 생기지 않게 */
+.layout-apple .headline-lead { display: flex; }
+.layout-apple .headline-lead .card { display: flex; flex-direction: column; width: 100%; background: var(--tile); }
+.layout-apple .headline-lead .card > .card-visual { aspect-ratio: 16 / 9; height: auto; min-height: 0; }
+.layout-apple .headline-lead .card > :not(.card-visual) { padding-left: 28px; padding-right: 28px; }
+.layout-apple .headline-lead .card .meta { padding-top: 20px; }
+.layout-apple .headline-lead .card-title { font: var(--t-title1); letter-spacing: -0.025em; -webkit-line-clamp: 3; }
+.layout-apple .headline-lead .card-summary { font: var(--t-body); -webkit-line-clamp: 4; }
+.layout-apple .headline-lead .card-foot { margin-top: auto; padding-bottom: 24px; }
+.layout-apple .headline-side { display: grid; grid-auto-rows: 1fr; align-content: stretch; }
+.layout-apple .headline-side li { display: grid; grid-template-columns: 1fr; grid-auto-rows: min-content; gap: 6px; padding: 16px 0; border-bottom: 1px solid var(--hair); align-content: start; }
+.layout-apple .headline-side li:first-child { padding-top: 0; }
+.layout-apple .headline-side li:last-child { border-bottom: 0; padding-bottom: 0; }
+.layout-apple .headline-side li.has-thumb { grid-template-columns: 1fr 112px; column-gap: 16px; }
+.layout-apple .headline-side li.has-thumb > :not(.headline-thumb) { grid-column: 1; }
+.layout-apple .headline-thumb { grid-column: 2; grid-row: 1 / span 4; }
+.layout-apple .headline-thumb img { width: 112px; height: 84px; object-fit: cover; border-radius: 10px; background: var(--panel); }
+.layout-apple .headline-title { font: var(--t-headline); letter-spacing: -0.015em; color: var(--ink); text-decoration: none; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
+.layout-apple .headline-title:hover { color: var(--accent); }
+.layout-apple .headline-sum { font: var(--t-foot); color: #424245; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+.layout-apple .headline-src { font: var(--t-foot); color: var(--muted); }
+@media (min-width: 960px) {
+  .layout-apple .headline-grid { grid-template-columns: minmax(0, 1.45fr) minmax(0, 1fr); }
+  /* 넓은 화면에서도 대표 기사는 세로 카드(global.css 의 가로 배치를 덮는다) */
+  .layout-apple .headline-lead .card { display: flex; }
+  .layout-apple .headline-lead .card > .card-visual, .layout-apple .headline-lead .card > :not(.card-visual) { grid-column: auto; grid-row: auto; }
+}
+
+/* ── 10개 구단: 같은 높이 타일, 얇은 팀 색 띠 ── */
+.layout-apple .front-teams { padding-top: 48px; padding-bottom: 48px; margin: 32px 0; }
+.layout-apple .team-tiles { gap: 16px; grid-template-columns: repeat(auto-fill, minmax(min(100%, 248px), 1fr)); grid-auto-rows: 1fr; }
+.layout-apple .team-tile { border: 0; border-top: 4px solid var(--team, var(--ink)); border-radius: var(--radius-sm); padding: 16px 18px 18px; gap: 12px; box-shadow: 0 0 0 1px var(--hair); }
+.layout-apple .team-tile-head .team-chip { font: var(--t-headline); }
+.layout-apple .team-tile-head .small { font: var(--t-foot); }
+.layout-apple .team-tile-top { font: 600 15px/1.4 var(--font); grid-template-columns: 1fr auto; }
+.layout-apple .team-tile-top img { order: 2; width: 72px; height: 54px; border-radius: 8px; }
+.layout-apple .team-tile-top span { display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
+.layout-apple .team-tile-more { border-top-color: var(--hair); }
+.layout-apple .team-tile-more a { font: var(--t-foot); }
+
+/* ── 목록(이 밖의 소식·팬 반응): 흰 판 + 얇은 구분선 ── */
+.layout-apple .more-list { background: var(--tile); border-radius: var(--radius); box-shadow: 0 0 0 1px var(--hair); padding: 4px 20px; }
+.layout-apple .more-list .eyebrow { padding-top: 14px; }
+.layout-apple .more-list li { padding: 14px 0; font: var(--t-sub); border-bottom-color: var(--hair); }
+.layout-apple .more-list li a { font-weight: 600; }
+.layout-apple .more-list li .more-sum { font: var(--t-foot); }
+.layout-apple .row-cards { gap: 20px; grid-auto-columns: min(78vw, 280px); scrollbar-width: none; }
+.layout-apple .row-cards::-webkit-scrollbar { display: none; }
+@media (min-width: 1100px) { .layout-apple .row-cards { grid-auto-columns: calc((100% - 60px) / 4); } }
+
+/* ── 팀 선택 칩, 날짜 칩 ── */
+.layout-apple .team-picker { padding: 32px 0 8px; }
+.layout-apple .team-picker-q { font: var(--t-title2); }
+.layout-apple .team-chip--btn { font: 600 15px/1 var(--font); padding: 11px 16px; border: 0; background: var(--panel); }
+.layout-apple .team-chip--btn[aria-pressed="true"] { background: var(--ink); color: #fff; }
+.layout-apple .day-chips a { border-radius: var(--radius-sm); padding: 14px 18px; }
+.layout-apple .day-chips strong { font: var(--t-headline); }
+
+/* ── 팀 섹션(날짜별 페이지) ── */
+.layout-apple .team-section { border-radius: var(--radius); box-shadow: 0 0 0 1px var(--hair); }
+.layout-apple .team-section > summary { padding: 18px 20px; }
+.layout-apple .team-section-name .team-chip { font: var(--t-headline); }
+.layout-apple .team-section-lead { font: var(--t-sub); color: var(--muted); }
+
+/* ── 바닥글 ── */
+.layout-apple .site-footer { font: var(--t-foot); }
+.layout-apple .official-links h2 { font: var(--t-headline); }
+
+/* 목록 행의 꼬리표는 글자 폭만큼(행 폭으로 늘어나지 않게) */
+.layout-apple .more-list li .more-main .chip, .layout-apple .headline-meta .chip { justify-self: start; width: max-content; }
+.layout-apple .official-block .block-head h2::before { content: none; }
