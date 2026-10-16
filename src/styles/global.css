@@ -353,3 +353,9 @@ html:not([data-my-team]) .myteam-btn .team-dot { display: none; }
 .team-section[open] .team-section-lead { visibility: hidden; }
 .block-head h2 .team-chip { font-size: inherit; gap: 10px; }
 .block-head h2 .team-dot { width: 14px; height: 14px; }
+
+/* 오피셜(구단·KBO 공식 채널)과 공식발표(언론 보도) 구분 */
+.chip--official { background: var(--ink); color: #fff; border-color: var(--ink); }
+.chip--announce { border-color: var(--ink); color: var(--ink); }
+.card--official { box-shadow: inset 0 3px 0 var(--ink); }
+.official-block .block-head h2::before { content: ''; display: inline-block; width: 10px; height: 10px; border-radius: 2px; background: var(--ink); margin-right: 10px; vertical-align: 0.1em; }

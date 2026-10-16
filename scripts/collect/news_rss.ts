@@ -13,7 +13,7 @@ export function stripOutlet(title: string, source?: string): string {
 
 const q = (terms: string[]) => terms.map((t) => (/\s/.test(t) ? `"${t}"` : t)).join(' OR ');
 
-export type FeedSpec = { id: string; url: string; via: RawItem['via'] };
+export type FeedSpec = { id: string; url: string; via: RawItem['via']; team?: string };
 
 export function buildFeeds(ctx?: Pick<Ctx, 'now' | 'realNow'>): FeedSpec[] {
   const cfg = loadSources().news_rss;
@@ -22,7 +22,7 @@ export function buildFeeds(ctx?: Pick<Ctx, 'now' | 'realNow'>): FeedSpec[] {
   if (ctx?.realNow && ctx.realNow > ctx.now) when = `${Number(/^(\d+)d$/.exec(when)?.[1] ?? 7) + Math.ceil((ctx.realNow.getTime() - ctx.now.getTime()) / 86400000)}d`;
   const url = (query: string) => `https://news.google.com/rss/search?${new URLSearchParams({ q: `${query} when:${when}`, ...cfg.locale })}`;
   return [
-    ...loadTeams().teams.map((t) => ({ id: `gnews-team-${t.id}`, url: url(q(t.news_queries)), via: 'team' as const })),
+    ...loadTeams().teams.map((t) => ({ id: `gnews-team-${t.id}`, url: url(q(t.news_queries)), via: 'team' as const, team: t.id })),
     ...cfg.league_queries.map((term) => ({ id: `gnews-league-${term}`, url: url(q([term])), via: 'league' as const })),
   ];
 }
@@ -35,7 +35,7 @@ export async function collectNews(ctx: Ctx, specs = buildFeeds(ctx)) {
     try {
       for (const e of parseFeed(await ctx.fetchText(spec.url)).slice(0, max)) {
         if (!e.title || !e.link) continue;
-        items.push({ source_type: 'news', source_name: e.source || '(매체 미상)', url: e.link, title: stripOutlet(e.title, e.source), published_at: toIso(e.date, ctx.now), via: spec.via });
+        items.push({ source_type: 'news', source_name: e.source || '(매체 미상)', url: e.link, title: stripOutlet(e.title, e.source), published_at: toIso(e.date, ctx.now), via: spec.via, ...(spec.team ? { query_teams: [spec.team] } : {}) });
       }
     } catch (e) {
       failures.push({ feed: spec.id, error: String((e as Error).message ?? e) });

@@ -14,6 +14,8 @@ const { signals, label } = Astro.props;
         <li data-card data-teams={s.teams.join(' ')}>
           <span class="more-main">
             <a href={s.url} target="_blank" rel="noopener noreferrer">{displayTitle(s)}</a>
+            {s.official && <span class="chip chip--official">오피셜</span>}
+            {s.announcement && <span class="chip chip--announce">공식발표</span>}
             {s.slang && <span class="chip chip--slang" title={SLANG_TITLE}>은어 · {s.slang}</span>}
             <span class="more-sum">{s.summary_ko}</span>
           </span>

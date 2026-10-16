@@ -7,7 +7,7 @@ interface Props { signal: Signal; big?: boolean; showModule?: boolean }
 const { signal: s, big = false, showModule = true } = Astro.props;
 const yt = s.source_type === 'youtube' ? youtubeId(s.url) : undefined;
 ---
-<article class="card" data-card data-module={s.module} data-teams={s.teams.join(' ')}>
+<article class={`card${s.official ? ' card--official' : ''}`} data-card data-module={s.module} data-teams={s.teams.join(' ')}>
   <a class="card-visual" href={s.url} target="_blank" rel="noopener noreferrer" aria-label={`원문 열기: ${displayTitle(s)}`} tabindex="-1">
     {/* 이미지는 공식 YouTube 썸네일만. 그 밖에는 타이포 커버 */}
     {yt ? <img src={`https://i.ytimg.com/vi/${yt}/hqdefault.jpg`} alt="" loading="lazy" width="480" height="360" /> : <TypoCover signal={s} big={big} />}
@@ -15,7 +15,8 @@ const yt = s.source_type === 'youtube' ? youtubeId(s.url) : undefined;
   <div class="meta">
     {s.teams.map((t) => <TeamChip id={t} short />)}
     {showModule && <span class="chip">{MODULE_LABEL[s.module]}</span>}
-    {s.official && <span class="chip chip--official">공식</span>}
+    {s.official && <span class="chip chip--official" title="구단·KBO 공식 채널">오피셜</span>}
+    {s.announcement && <span class="chip chip--announce" title="언론이 전한 공식 발표">공식발표</span>}
     {isToday(s) && <span class="chip chip--new">오늘</span>}
     {s.slang && <span class="chip chip--slang" title={SLANG_TITLE}>은어 · {s.slang}</span>}
     {s.sample && <span class="chip chip--sample">SAMPLE</span>}

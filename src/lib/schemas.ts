@@ -20,8 +20,12 @@ export const signalSchema = z.object({
   // 제목에 나온 모든 팀
   teams: z.array(z.string()).default([]),
   source_type: z.enum(SOURCE_TYPES),
-  // 구단·KBO 공식 채널에서 온 글
+  // 구단·KBO 공식 채널에서 온 글(오피셜)
   official: z.boolean().optional(),
+  // 언론이 전한 구단·KBO 공식 발표(제목의 [오피셜]·[공식발표])
+  announcement: z.boolean().optional(),
+  // 제목에 팀 이름이 없어 검색어의 팀으로 정한 글(편집 때 확인)
+  team_inferred: z.boolean().optional(),
   source_name: z.string(),
   url: z.string().url(),
   title: z.string().min(1),

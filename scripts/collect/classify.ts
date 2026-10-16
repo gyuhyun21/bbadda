@@ -48,8 +48,18 @@ export function teamsOfTitle(title: string, cfg: Cfg): string[] {
 }
 
 /** 팀·모듈 결정. 버려야 하면 null(팀도 리그도 아닌 글). */
-export function classify(raw: RawItem, cfg: Cfg): Pick<Signal, 'module' | 'team' | 'teams'> | null {
-  const found = teamsOfTitle(raw.title, cfg);
+export function classify(raw: RawItem, cfg: Cfg): (Pick<Signal, 'module' | 'team' | 'teams'> & { team_inferred?: true }) | null {
+  const titleTeams = teamsOfTitle(raw.title, cfg);
+  // 제목에 팀 이름이 없으면, 그 팀 검색어로 들어왔고 제목에 야구 단어가 있을 때(다른 종목 단어 없이) 검색어의 팀으로 본다
+  const baseballTitle = hasBaseballTerm(raw.title, cfg) && !cfg.scoring.other_sports.some((w) => has(raw.title, w));
+  const inferred = !titleTeams.length && !raw.team_hint && baseballTitle && raw.query_teams?.length ? [...new Set(raw.query_teams)] : [];
+  const found = titleTeams.length ? titleTeams : inferred;
+  const mark = inferred.length ? { team_inferred: true as const } : {};
+  const c = classifyTeams(raw, found, cfg);
+  return c ? { ...c, ...mark } : null;
+}
+
+function classifyTeams(raw: RawItem, found: string[], cfg: Cfg): Pick<Signal, 'module' | 'team' | 'teams'> | null {
   // 구단 공식 채널 글은 제목에 팀 이름이 없어도 그 팀 소식
   const hint = raw.team_hint && raw.team_hint !== 'kbo' ? raw.team_hint : undefined;
   const teams = hint && !found.includes(hint) ? [hint, ...found] : found;
@@ -61,13 +71,17 @@ export function classify(raw: RawItem, cfg: Cfg): Pick<Signal, 'module' | 'team'
   return { module: 'team', team: team!, teams };
 }
 
-export function toSignal(raw: RawItem, c: Pick<Signal, 'module' | 'team' | 'teams'>, issue: string, now: Date, cfg: Cfg): Signal {
+/** 언론이 전한 공식 발표: 제목의 [오피셜]·[공식발표]·[공식] */
+export const ANNOUNCEMENT = /\[(오피셜|공식\s?발표|공식)\]|공식\s?발표/;
+
+export function toSignal(raw: RawItem, c: Pick<Signal, 'module' | 'team' | 'teams'> & { team_inferred?: true }, issue: string, now: Date, cfg: Cfg): Signal {
   return {
     id: signalId(raw.source_type, raw.url),
     issue,
     ...c,
     source_type: raw.source_type,
     ...(raw.official ? { official: true } : {}),
+    ...(!raw.official && ANNOUNCEMENT.test(raw.title) ? { announcement: true } : {}),
     source_name: raw.source_name,
     url: raw.url,
     title: raw.title,

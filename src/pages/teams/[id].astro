@@ -9,8 +9,8 @@ export function getStaticPaths() { return TEAMS.map((t) => ({ params: { id: t.id
 const { team: t } = Astro.props as { team: Team };
 const data = await loadAll();
 const mine = ofTeam(data.signals, t.id);
-const latest = recent(mine.filter((s) => s.module === 'team' || s.module === 'rivalry'), 7);
-const videos = mine.filter((s) => s.source_type === 'youtube' && s.official).sort(newest).slice(0, 8);
+const latest = recent(mine.filter((s) => (s.module === 'team' || s.module === 'rivalry') && !s.official), 7);
+const official = mine.filter((s) => s.official).sort(newest).slice(0, 12);
 const fans = recent(mine.filter((s) => s.module === 'fans'), 14).sort(hot);
 const slang = [...new Map(mine.filter((s) => s.slang).map((s) => [s.slang!, s])).values()];
 const past = data.issues.filter((i) => i.editorial.teams[t.id] || data.signals.some((s) => s.issue === i.vol && s.teams.includes(t.id)));
@@ -27,18 +27,19 @@ const past = data.issues.filter((i) => i.editorial.teams[t.id] || data.signals.s
     </div>
   </section>
 
+  {official.length > 0 && (
+    <section class="block official-block" aria-labelledby="h-official-team">
+      <div class="block-head"><h2 id="h-official-team">오피셜</h2><span class="small">{t.name} 공식 YouTube·Instagram</span></div>
+      <div class="row-cards">{official.map((s) => <SignalCard signal={s} showModule={false} />)}</div>
+    </section>
+  )}
+
   <section class="block" aria-labelledby="h-latest">
     <div class="block-head"><h2 id="h-latest">최근 소식</h2><span class="small">매일 아침 갱신</span></div>
     {latest.length ? <div class="grid">{latest.slice(0, 8).map((s) => <SignalCard signal={s} />)}</div> : <p class="empty-hint">아직 소식이 없습니다.</p>}
     <SignalList signals={latest.slice(8)} label="이 밖의 소식" />
   </section>
 
-  {videos.length > 0 && (
-    <section class="block" aria-labelledby="h-video">
-      <div class="block-head"><h2 id="h-video">공식 채널 영상</h2></div>
-      <div class="row-cards">{videos.map((s) => <SignalCard signal={s} showModule={false} />)}</div>
-    </section>
-  )}
 
   <section class="block" aria-labelledby="h-fans">
     <div class="block-head"><h2 id="h-fans">{MODULE_LABEL.fans}</h2><span class="small">YouTube·커뮤니티, 최근 2주</span></div>

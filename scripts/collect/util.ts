@@ -13,6 +13,8 @@ export type RawItem = {
   official?: boolean;
   // 어떤 검색으로 들어왔는지: 팀 검색 / 리그 검색 / 팬 반응(커뮤니티·영상 검색)
   via: 'team' | 'league' | 'fans';
+  // 어느 팀 검색어로 들어왔는지(제목에 팀 이름이 없을 때 쓴다)
+  query_teams?: string[];
   metrics?: Signal['metrics'];
   excerpt?: string;        // 검색 결과 발췌(15단어 이내)
   slang?: string;

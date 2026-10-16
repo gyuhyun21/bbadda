@@ -85,9 +85,15 @@ export async function runPipeline(ctx: Ctx, week: string, history: Signal[], exi
   const inWin = raw.filter((i) => { const t = Date.parse(i.published_at); return t >= startMs - (i.lookback_days ?? 0) * 86400_000 && t <= ctx.now.getTime() + 3600_000; });
   log.out_of_window = raw.length - inWin.length;
 
-  // 팀 판별(제목만). 팀도 리그도 아닌 글은 버린다 — 중복 제거 전에 해야 리그 검색으로 들어온 같은 기사가 남는다
+  // 같은 글이 여러 팀 검색어로 들어왔으면 검색어 팀을 합친다(제목에 팀이 없을 때 라이벌로 볼 수 있게)
+  const qt = new Map<string, Set<string>>();
+  for (const r of inWin) for (const t of r.query_teams ?? []) (qt.get(r.url) ?? qt.set(r.url, new Set()).get(r.url)!).add(t);
+  for (const r of inWin) if (qt.has(r.url)) r.query_teams = [...qt.get(r.url)!];
+
+  // 팀 판별(제목 기준, 없으면 검색어 팀). 팀도 리그도 아닌 글은 버린다 — 중복 제거 전에 해야 리그 검색으로 들어온 같은 기사가 남는다
   const classified = inWin.flatMap((r) => { const c = classify(r, cfg); return c ? [{ r, c }] : []; });
   log.dropped_no_team = inWin.length - classified.length;
+  log.team_inferred = classified.filter((x) => x.c.team_inferred).length;
   const byUrl = new Map(classified.map((x) => [x.r.url, x.c]));
 
   const { kept, droppedExisting, droppedBatch } = dedupe(classified.map((x) => x.r), [...history, ...existingThisWeek]);

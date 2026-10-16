@@ -115,3 +115,18 @@ test('해시태그: 본문에 팀이 있으면 본문만, 없으면 해시태그
   assert.equal(classify(raw('오늘 직관 브이로그 #한화이글스 #야구', { via: 'fans' }), cfg)?.team, 'hanwha');
   assert.deepEqual(classify(raw('KIA에 7연패 중인 LG #LG트윈스 #KIA타이거즈 #삼성라이온즈', { via: 'fans' }), cfg)?.teams, ['kia', 'lg']);
 });
+test('팀 판별 완화: 제목에 팀이 없으면 검색어 팀(야구 단어 있을 때만), 표시 남김', () => {
+  assert.deepEqual(classify(raw("'가을침묵' 씻은 오스틴, 가을야구서 깨어났다", { query_teams: ['lg'] }), cfg), { module: 'team', team: 'lg', teams: ['lg'], team_inferred: true });
+  assert.equal(classify(raw('대전 신규 아파트 분양', { query_teams: ['hanwha'] }), cfg), null); // 야구 단어 없음
+  assert.equal(classify(raw('여자배구 신생팀 창단, 시즌 준비', { query_teams: ['kiwoom'] }), cfg), null); // 다른 종목
+  assert.equal(classify(raw('준PO 1차전 선발 발표', { query_teams: ['lg', 'kia'] }), cfg)?.module, 'rivalry');
+  assert.equal(classify(raw('직관 후기 시구 대박', { via: 'fans', source_type: 'community', query_teams: ['kia'] }), cfg)?.module, 'fans');
+  assert.equal(classify(raw('LG 트윈스 엔트리 발표', { query_teams: ['kia'] }), cfg)?.team, 'lg'); // 제목의 팀이 우선
+});
+test('공식발표: 언론 제목의 [오피셜]·[공식발표]', async () => {
+  const { toSignal, ANNOUNCEMENT } = await import('../scripts/collect/classify.ts');
+  assert.ok(ANNOUNCEMENT.test('[오피셜] NC 신인 12명 계약 완료'));
+  assert.ok(ANNOUNCEMENT.test('두산, 김지우와 5억 계약 [공식발표]'));
+  const r = raw('[오피셜] NC 신인 계약');
+  assert.equal(toSignal(r, classify(r, cfg)!, '2026-W43', NOW, cfg).announcement, true);
+});

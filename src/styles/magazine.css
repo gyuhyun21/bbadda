@@ -18,7 +18,8 @@
 .layout-magazine .band { background: var(--panel); box-shadow: 0 0 0 100vmax var(--panel); clip-path: inset(0 -100vmax); }
 
 /* ── 상단 메뉴: 반투명 + 흐림, 얇은 선 ── */
-.layout-magazine .site-header { position: sticky; top: 0; background: rgba(255, 255, 255, 0.8); backdrop-filter: saturate(180%) blur(20px); -webkit-backdrop-filter: saturate(180%) blur(20px); border-bottom: 1px solid rgba(0, 0, 0, 0.08); }
+/* 머리말은 모든 화면 폭에서 불투명 — 반투명이면 스크롤할 때 아래 글자가 비쳐 겹쳐 보인다(2026-10-16) */
+.layout-magazine .site-header { position: sticky; top: 0; background: #FFFFFF; border-bottom: 1px solid rgba(0, 0, 0, 0.08); }
 .layout-magazine .site-header .wrap { align-items: center; padding-top: 12px; padding-bottom: 12px; }
 .layout-magazine .brand { letter-spacing: 0.02em; font-size: 17px; font-weight: 700; }
 .layout-magazine .nav { gap: 2px 22px; font-size: 13px; font-weight: 400; }
@@ -135,3 +136,6 @@
 .layout-magazine .chip--official { color: var(--ink); }
 .layout-magazine .team-picker-chips .team-chip--btn { background: var(--panel); border-color: transparent; }
 .layout-magazine .team-picker-chips .team-chip--btn[aria-pressed="true"] { background: var(--ink); }
+.layout-magazine .chip--official { background: var(--ink); color: #fff; padding: 1px 7px; border-radius: 4px; }
+.layout-magazine .chip--announce { color: var(--ink); }
+.layout-magazine .card--official { box-shadow: 0 0 0 1px rgba(0,0,0,.04), inset 0 3px 0 var(--ink); }

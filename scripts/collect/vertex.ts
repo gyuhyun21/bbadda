@@ -7,7 +7,7 @@ import { excerpt, stripTags, type Ctx, type RawItem } from './util.ts';
 
 const API = 'https://discoveryengine.googleapis.com/v1';
 type Site = { host: string; path?: string; name: string; lang?: string };
-type Query = { q: string; site: Site };
+type Query = { q: string; site: Site; team?: string };
 type Result = { document?: { derivedStructData?: { title?: string; link?: string; snippets?: { snippet?: string }[]; pagemap?: { metatags?: Record<string, string>[] } } } };
 
 const hostOf = (u: string) => { try { return new URL(u).hostname.replace(/^www\.|^m\./, ''); } catch { return ''; } };
@@ -56,7 +56,7 @@ export function findDate(meta: Record<string, string> | undefined, snippet: stri
 /** 사이트 × 팀 쿼리. 레딧처럼 영어 사이트는 팀 영어 이름으로. */
 export function buildQueries(sites: Site[]): Query[] {
   const teams = loadTeams().teams;
-  return sites.flatMap((site) => teams.map((t) => ({ site, q: site.lang === 'en' ? t.aliases.find((a) => /^[\x00-\x7F]+$/.test(a)) ?? t.name : t.name })));
+  return sites.flatMap((site) => teams.map((t) => ({ site, team: t.id, q: site.lang === 'en' ? t.aliases.find((a) => /^[\x00-\x7F]+$/.test(a)) ?? t.name : t.name })));
 }
 
 export async function collectVertex(ctx: Ctx, override?: Record<string, any>) {
@@ -73,7 +73,7 @@ export async function collectVertex(ctx: Ctx, override?: Record<string, any>) {
   const sites = (cfg.sites ?? []) as Site[];
   const slang = ((cfg.slang ?? []) as { pattern: string; term: string }[]).map((s) => ({ re: new RegExp(s.pattern, 'i'), term: s.term }));
   const seen = new Set<string>();
-  for (const { q, site } of ((cfg.queries as Query[] | undefined) ?? buildQueries(sites)).slice(0, Number(cfg.max_queries ?? 60))) {
+  for (const { q, site, team } of ((cfg.queries as Query[] | undefined) ?? buildQueries(sites)).slice(0, Number(cfg.max_queries ?? 60))) {
     try {
       out.requests++;
       const body: Record<string, unknown> = {
@@ -97,7 +97,7 @@ export async function collectVertex(ctx: Ctx, override?: Record<string, any>) {
         const ex = excerpt(snippet.replace(/^\s*(20\d\d[.\-/]\s?\d{1,2}[.\-/]\s?\d{1,2}\.?|\d+\s*(일|시간|분)\s*전|\d+\s*(day|hour|minute)s?\s+ago|[A-Z][a-z]{2,8}\.?\s+\d{1,2},?\s+20\d\d)\s*[—–-]?\s*/i, ''));
         const sl = slang.find((s) => s.re.test(title))?.term;
         out.items.push({
-          source_type: 'community', source_name: site.name, url: link, title, published_at: date, via: 'fans',
+          source_type: 'community', source_name: site.name, url: link, title, published_at: date, via: 'fans', ...(team ? { query_teams: [team] } : {}),
           ...(ex ? { excerpt: ex } : {}), ...(sl ? { slang: sl } : {}), ...(cfg.lookback_days ? { lookback_days: Number(cfg.lookback_days) } : {}),
         });
       }
