@@ -107,3 +107,9 @@ test('뉴스 제목 끝의 매체명(두 번 붙은 것 포함)을 뗀다', () =
   assert.equal(stripOutlet('LG, 두산 꺾고 준PO 진출 - 머니투데이 - 머니투데이', '머니투데이'), 'LG, 두산 꺾고 준PO 진출');
   assert.equal(stripOutlet('제목 - 연합뉴스', '뉴시스'), '제목 - 연합뉴스');
 });
+test('해시태그: 본문에 팀이 있으면 본문만, 없으면 해시태그가 한 팀일 때만', () => {
+  assert.deepEqual(classify(raw('[10.16 엘지 기아 준플 엔트리 발표!!] #엘지트윈스 #삼성라이온즈 #롯데자이언츠', { via: 'fans' }), cfg)?.teams, ['lg', 'kia']);
+  assert.deepEqual(classify(raw('준PO 엔트리 발표 #LG트윈스 #삼성라이온즈 #두산베어스', { via: 'fans' }), cfg), null);
+  assert.equal(classify(raw('오늘 직관 브이로그 #한화이글스 #야구', { via: 'fans' }), cfg)?.team, 'hanwha');
+  assert.deepEqual(classify(raw('KIA에 7연패 중인 LG #LG트윈스 #KIA타이거즈 #삼성라이온즈', { via: 'fans' }), cfg)?.teams, ['kia', 'lg']);
+});

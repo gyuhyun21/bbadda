@@ -38,9 +38,18 @@ export function sentimentOf(title: string, { scoring }: Pick<Cfg, 'scoring'>): S
   return neg && pos ? 'mixed' : neg ? 'negative' : pos ? 'positive' : 'neutral';
 }
 
+/** 해시태그를 뺀 제목에서 팀을 찾는다. 본문에 팀이 없을 때만 해시태그를 보되, 해시태그가 딱 한 팀일 때만 인정한다(여러 팀 해시태그를 붙인 쇼츠 대비). */
+export function teamsOfTitle(title: string, cfg: Cfg): string[] {
+  const body = title.replace(/#\S+/g, ' ');
+  const inBody = findTeams(body, cfg);
+  if (inBody.length || body === title) return inBody;
+  const inTags = findTeams((title.match(/#\S+/g) ?? []).map((t) => t.slice(1)).join(' 야구 '), cfg);
+  return inTags.length === 1 ? inTags : [];
+}
+
 /** 팀·모듈 결정. 버려야 하면 null(팀도 리그도 아닌 글). */
 export function classify(raw: RawItem, cfg: Cfg): Pick<Signal, 'module' | 'team' | 'teams'> | null {
-  const found = findTeams(raw.title, cfg);
+  const found = teamsOfTitle(raw.title, cfg);
   // 구단 공식 채널 글은 제목에 팀 이름이 없어도 그 팀 소식
   const hint = raw.team_hint && raw.team_hint !== 'kbo' ? raw.team_hint : undefined;
   const teams = hint && !found.includes(hint) ? [hint, ...found] : found;
