@@ -26,7 +26,7 @@ export function videoToItem(v: Video, via: RawItem['via'], team_hint?: string): 
   };
 }
 
-export type YouTubeResult = { items: RawItem[]; units: number; skipped?: string; searches: number; failures: string[] };
+export type YouTubeResult = { items: RawItem[]; units: number; skipped?: string; searches: number; failures: string[]; filtered_by_title?: number };
 
 export async function collectYouTube(ctx: Ctx, override?: Record<string, any>): Promise<YouTubeResult> {
   const key = ctx.env.YOUTUBE_API_KEY;
@@ -70,12 +70,18 @@ export async function collectYouTube(ctx: Ctx, override?: Record<string, any>): 
       } catch (e) { res.failures.push(`search ${t.name}: ${(e as Error).message}`); }
     }
   }
+  const skip = ((cfg.exclude_title_patterns ?? []) as string[]).map((p) => new RegExp(p, 'i'));
   // 3) 영상 상세(조회수)
   const ids = [...meta.keys()];
   for (let i = 0; i < ids.length; i += 50) {
     try {
       const data = await get('videos', { part: 'snippet,statistics', id: ids.slice(i, i + 50).join(',') }, COST.list);
-      for (const v of (data.items ?? []) as Video[]) { const m = meta.get(v.id)!; res.items.push(videoToItem(v, m.via, m.team_hint)); }
+      for (const v of (data.items ?? []) as Video[]) {
+        const m = meta.get(v.id)!;
+        // 공식 채널 영상은 그대로 두고, 검색으로 들어온 영상만 제목 패턴으로 거른다
+        if (!m.team_hint && skip.some((re) => re.test(v.snippet.title))) { res.filtered_by_title = (res.filtered_by_title ?? 0) + 1; continue; }
+        res.items.push(videoToItem(v, m.via, m.team_hint));
+      }
     } catch (e) { res.failures.push(`videos: ${(e as Error).message}`); }
   }
   ctx.log(`youtube: 검색 ${res.searches}회, units ${res.units}/${budget}`);

@@ -25,6 +25,8 @@ youtube:
   max_results_per_query: 10
   lookback_days: 3
   team_search: true      # 팀 이름 검색(검색 1회 = 100 units)
+  # 제목이 이 정규식에 맞는 영상은 버린다 — 치어리더 직캠은 소식이 아니다(2026-10-16 실측: 팬 반응의 큰 비중)
+  exclude_title_patterns: ["치어리더", "cheerleader", "fan ?cam", "직캠"]
 
 kakao:
   enabled: true          # KAKAO_REST_KEY 또는 KAKAO_AUTH=proxy 필요
