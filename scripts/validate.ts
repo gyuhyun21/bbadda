@@ -1,6 +1,6 @@
 // npm run validate — 설정·콘텐츠 스키마와 편집 규칙 검사. 하나라도 위반이면 exit 1.
 import { basename, dirname, relative } from 'node:path';
-import { loadTeams } from '../src/lib/config.ts';
+import { loadTeams, loadStandings } from '../src/lib/config.ts';
 import { readJsonDir, readMarkdownDir, contentDir } from '../src/lib/fsdata.ts';
 import { signalSchema, columnSchema, type Signal } from '../src/lib/schemas.ts';
 
@@ -43,6 +43,7 @@ export function validateAll(root: string): Report {
 
   let teamIds = new Set<string>();
   try { teamIds = new Set(loadTeams().teams.map((t) => t.id)); } catch (e) { errors.push(String((e as Error).message)); }
+  try { loadStandings(); } catch (e) { errors.push(String((e as Error).message)); }
 
   // ── signals
   const signals = new Map<string, Signal>();
