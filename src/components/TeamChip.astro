@@ -1,0 +1,10 @@
+---
+// 팀 표시: 팀 컬러 점 + 이름. 로고는 쓰지 않는다(상표).
+import { teamById, teamColor } from '../lib/site.ts';
+interface Props { id: string; short?: boolean; href?: string }
+const { id, short = false, href } = Astro.props;
+const t = teamById.get(id);
+const label = t ? (short ? t.short : t.name) : id;
+const Tag = href ? 'a' : 'span';
+---
+<Tag class="team-chip" href={href} data-team={id}><span class="team-dot" style={`background:${teamColor(id)}`} aria-hidden="true"></span>{label}</Tag>

@@ -1,0 +1,73 @@
+---
+import Layout from '../components/Layout.astro';
+// 검색어 예시 — 누르면 검색창에 들어간다
+const examples = ['LG 트윈스', '한화', '포스트시즌', '한국시리즈', 'FA', '트레이드', '감독', '은어'];
+---
+<Layout title="검색" current="search">
+  <h1 class="page-title">검색</h1>
+  <p class="page-lead">지난 호를 포함한 모든 주간호·팀 페이지에서 찾습니다.</p>
+  <div class="search-zone" data-search-zone data-pagefind-ignore>
+    <link href="/pagefind/pagefind-ui.css" rel="stylesheet" />
+    <div id="search" class="pagefind-ui"></div>
+    <p id="search-fallback" class="empty-hint" hidden>검색 색인은 <code>npm run build</code> 후에 만들어집니다. 개발 서버에서는 동작하지 않습니다.</p>
+
+    <aside class="search-help" aria-labelledby="h-search-help">
+      <h2 id="h-search-help">이렇게 찾아 보세요</h2>
+      <ul>
+        <li><strong>팀·선수 이름</strong> LG 트윈스, 한화처럼 팀 이름이나 선수 이름을 그대로 넣으세요.</li>
+        <li><strong>여러 단어</strong> 띄어 쓰면 검색 범위가 좁혀집니다(예: <em>KIA 트레이드</em>).</li>
+        <li><strong>지난 호까지</strong> 이번 호뿐 아니라 지난 호 소식도 함께 나옵니다. 결과 제목에 회차가 붙습니다. 누르면 그 위치로 바로 갑니다.</li>
+        <li><strong>요약 기준</strong> 기사 본문이 아니라 제목과 우리가 쓴 요약에서 찾습니다.</li>
+        <li><strong>바로가기</strong> 검색창이 아닌 곳에서 <kbd>/</kbd> 키를 누르면 검색창으로 갑니다. <kbd>Esc</kbd>로 검색을 닫습니다.</li>
+      </ul>
+      <p class="search-examples-label">자주 찾는 검색어</p>
+      <div class="search-examples">
+        {examples.map((q) => <button type="button" class="search-chip" data-q={q}>{q}</button>)}
+      </div>
+    </aside>
+
+    <script is:inline src="/pagefind/pagefind-ui.js"></script>
+    <script is:inline>
+      window.addEventListener('DOMContentLoaded', function () {
+        if (!window.PagefindUI) { document.getElementById('search-fallback').hidden = false; return; }
+        var ui = new window.PagefindUI({ element: '#search', showSubResults: true, showImages: false, autofocus: false, translations: { placeholder: '팀·선수·키워드를 입력하세요' } });
+        // 머리말 검색창에서 넘어온 검색어(?q=)로 바로 검색한다
+        var q = new URLSearchParams(location.search).get('q');
+        if (q && q.trim()) { ui.triggerSearch(q.trim()); setTimeout(function () { var el = document.querySelector('#search input'); if (el) { el.value = q.trim(); document.body.classList.add('search-active'); } }, 0); }
+        var zone = document.querySelector('[data-search-zone]');
+        var input = function () { return document.querySelector('#search input'); };
+        // 검색창이 활성화되면(초점이 있거나 검색어가 있으면) 검색 영역 밖을 살짝 흐리게 한다
+        var sync = function () {
+          var el = input();
+          var on = !!el && (document.activeElement === el || el.value.trim() !== '');
+          document.body.classList.toggle('search-active', on);
+        };
+        document.addEventListener('focusin', sync);
+        document.addEventListener('focusout', function () { setTimeout(sync, 0); });
+        document.addEventListener('input', sync);
+        // 흐린 바깥을 누르면 검색을 닫는다
+        document.addEventListener('mousedown', function (e) {
+          if (document.body.classList.contains('search-active') && !zone.contains(e.target)) {
+            var el = input(); if (el) el.blur();
+            setTimeout(sync, 0);
+          }
+        });
+        document.addEventListener('keydown', function (e) {
+          var el = input();
+          if (!el) return;
+          if (e.key === '/' && document.activeElement !== el && !/^(INPUT|TEXTAREA)$/.test(document.activeElement.tagName)) { e.preventDefault(); el.focus(); }
+          if (e.key === 'Escape' && document.activeElement === el) { el.blur(); setTimeout(sync, 0); }
+        });
+        // 예시 검색어: 누르면 검색창에 넣고 검색한다
+        zone.querySelectorAll('[data-q]').forEach(function (b) {
+          b.addEventListener('click', function () {
+            var el = input(); if (!el) return;
+            el.value = b.getAttribute('data-q');
+            el.dispatchEvent(new Event('input', { bubbles: true }));
+            el.focus();
+          });
+        });
+      });
+    </script>
+  </div>
+</Layout>

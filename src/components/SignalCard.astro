@@ -1,0 +1,35 @@
+---
+import TypoCover from './TypoCover.astro';
+import TeamChip from './TeamChip.astro';
+import { MODULE_LABEL, SOURCE_LABEL, SENTIMENT_LABEL, SLANG_TITLE, displayTitle, fmtDate, fmtNum, isToday, stripSample, youtubeId } from '../lib/site.ts';
+import type { Signal } from '../lib/schemas.ts';
+interface Props { signal: Signal; big?: boolean; showModule?: boolean }
+const { signal: s, big = false, showModule = true } = Astro.props;
+const yt = s.source_type === 'youtube' ? youtubeId(s.url) : undefined;
+---
+<article class="card" data-card data-module={s.module} data-teams={s.teams.join(' ')}>
+  <a class="card-visual" href={s.url} target="_blank" rel="noopener noreferrer" aria-label={`원문 열기: ${displayTitle(s)}`} tabindex="-1">
+    {/* 이미지는 공식 YouTube 썸네일만. 그 밖에는 타이포 커버 */}
+    {yt ? <img src={`https://i.ytimg.com/vi/${yt}/hqdefault.jpg`} alt="" loading="lazy" width="480" height="360" /> : <TypoCover signal={s} big={big} />}
+  </a>
+  <div class="meta">
+    {s.teams.map((t) => <TeamChip id={t} short />)}
+    {showModule && <span class="chip">{MODULE_LABEL[s.module]}</span>}
+    {s.official && <span class="chip chip--official">공식</span>}
+    {isToday(s) && <span class="chip chip--new">오늘</span>}
+    {s.slang && <span class="chip chip--slang" title={SLANG_TITLE}>은어 · {s.slang}</span>}
+    {s.sample && <span class="chip chip--sample">SAMPLE</span>}
+  </div>
+  <h3 class="card-title"><a href={s.url} target="_blank" rel="noopener noreferrer">{displayTitle(s)}</a></h3>
+  {s.title_ko && <p class="card-orig" title="원제">{stripSample(s.title)}</p>}
+  {s.also_in && s.also_in.length > 0 && (
+    <p class="card-also">같은 소식: {s.also_in.map((a, i) => <>{i > 0 && ', '}<a href={a.url} target="_blank" rel="noopener noreferrer">{a.source_name}</a></>)}</p>
+  )}
+  <p class="card-summary">{s.summary_ko}</p>
+  {s.quote && <p class="card-quote">“{s.quote}”</p>}
+  <p class="card-foot">
+    <span>{s.source_name}</span> · <span>{SOURCE_LABEL[s.source_type]}</span> · <time datetime={s.published_at}>{fmtDate(s.published_at)}</time>
+    {s.metrics.views !== undefined && <span> · 조회 {fmtNum(s.metrics.views)}</span>}
+    {s.sentiment !== 'neutral' && <span class={`sent sent--${s.sentiment}`}> · {SENTIMENT_LABEL[s.sentiment]}</span>}
+  </p>
+</article>

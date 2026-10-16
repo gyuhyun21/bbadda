@@ -1,0 +1,114 @@
+---
+import '../styles/global.css';
+import '../styles/magazine.css';
+import OfficialLinks from './OfficialLinks.astro';
+import { siteLayout } from '../lib/config.ts';
+import { SITE_NAME, TEAMS, teamColor } from '../lib/site.ts';
+interface Props { title?: string; description?: string; sample?: boolean; searchable?: boolean }
+// searchable=false: 같은 내용이 호 페이지에 있어 검색 결과가 겹치는 페이지(메인)는 색인에서 뺀다
+const { title, description = 'KBO 10개 구단 팀별 소식을 매일·매주 모아 요약하는 팬 매거진', sample = false, searchable = true } = Astro.props;
+const full = title ? `${title} · ${SITE_NAME}` : `${SITE_NAME} 빠따닷컴`;
+const nav = [['/', '홈'], ['/teams', '팀'], ['/archive', '지난 호'], ['/search', '검색'], ['/about', '소개']];
+const path = Astro.url.pathname.replace(/\/$/, '') || '/';
+const layout = siteLayout(); // config/site.yaml layout (환경변수 SITE_LAYOUT 우선)
+// 내 팀 전용 블록은 CSS 로 미리 보이게 해서 화면이 깜빡이지 않게 한다
+const myTeamCss = TEAMS.map((t) => `html[data-my-team="${t.id}"] [data-myteam-block="${t.id}"]{display:block}`).join('');
+---
+<!doctype html>
+<html lang="ko" class={`layout-${layout}`}>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{full}</title>
+    <meta name="description" content={description} />
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <link rel="preload" href="/fonts/pretendard/PretendardVariable.subset.woff2" as="font" type="font/woff2" crossorigin />
+    {/* 내 팀(localStorage)을 가장 먼저 읽어 html 에 표시. 저장소가 막혀 있으면 기본 화면 */}
+    <script is:inline>try { var t = localStorage.getItem('bbadda:myTeam'); if (t && /^[a-z]+$/.test(t)) document.documentElement.dataset.myTeam = t; } catch (e) {}</script>
+    <style is:inline set:html={`[data-myteam-block]{display:none}${myTeamCss}html[data-my-team] [data-no-team]{display:none}`}></style>
+  </head>
+  <body>
+    <a class="skip" href="#main">본문으로 건너뛰기</a>
+    {sample && <div class="sample-banner">SAMPLE — 화면 확인용 가상 데이터입니다. 실제 기사·사실이 아닙니다.</div>}
+    <header class="site-header" data-pagefind-ignore>
+      <div class="wrap">
+        <a class="brand" href="/">BBADDA<span>.com</span></a>
+        <form class="header-search" action="/search/" method="get" role="search" aria-label="사이트 검색">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5" /><path d="M15.5 15.5 21 21" /></svg>
+          <input type="search" name="q" placeholder="팀·선수·키워드 검색" aria-label="검색어" autocomplete="off" />
+          <a class="header-search-mobile" href="/search/" aria-label="검색"></a>
+        </form>
+        <div class="myteam">
+          <button type="button" class="myteam-btn" data-myteam-toggle aria-expanded="false" aria-controls="myteam-panel">
+            <span class="team-dot" data-myteam-dot aria-hidden="true"></span><span data-myteam-label>내 팀 고르기</span>
+          </button>
+          <div class="myteam-panel" id="myteam-panel" hidden>
+            <p class="small">내 팀을 고르면 그 팀 소식이 맨 위에 옵니다. 이 기기에만 저장됩니다.</p>
+            <div class="team-picker-chips">
+              {TEAMS.map((t) => <button type="button" class="team-chip team-chip--btn" data-pick-team={t.id} data-color={teamColor(t.id)} data-name={t.name}><span class="team-dot" style={`background:${teamColor(t.id)}`} aria-hidden="true"></span>{t.name}</button>)}
+            </div>
+            <button type="button" class="link-btn" data-pick-team="">선택 해제</button>
+          </div>
+        </div>
+        <nav class="nav" aria-label="주 메뉴">
+          {nav.map(([href, label]) => <a href={href} aria-current={path === href || (href !== '/' && path.startsWith(href)) ? 'page' : undefined}>{label}</a>)}
+        </nav>
+      </div>
+    </header>
+    <main id="main" data-pagefind-body={searchable ? '' : undefined}>
+      <div class="wrap"><slot /></div>
+    </main>
+    <footer class="site-footer" data-pagefind-ignore>
+      <div class="wrap">
+        <OfficialLinks />
+        <div><strong>BBADDA 빠따닷컴</strong> — KBO 팬 매거진. KBO·각 구단과 관계없는 팬 사이트입니다.</div>
+        <div>기사·게시물 본문과 사진은 저장하지 않습니다. 요약은 편집자가 쓰고 모든 항목은 원문 링크로 연결됩니다. 구단 로고·엠블럼은 쓰지 않습니다.</div>
+      </div>
+    </footer>
+    <script>
+      // 내 팀 선택: localStorage 저장(try/catch), 머리말 칩 갱신, [data-team-sort] 안의 팀 섹션을 내 팀이 맨 위·펼침, 나머지는 접힘
+      const KEY = 'bbadda:myTeam';
+      const html = document.documentElement;
+      const btns = [...document.querySelectorAll<HTMLButtonElement>('[data-pick-team]')];
+      const label = document.querySelector<HTMLElement>('[data-myteam-label]');
+      const dot = document.querySelector<HTMLElement>('[data-myteam-dot]');
+      const toggle = document.querySelector<HTMLButtonElement>('[data-myteam-toggle]');
+      const panel = document.getElementById('myteam-panel');
+      const apply = (id: string) => {
+        const b = btns.find((x) => x.dataset.pickTeam === id && id);
+        if (b) html.dataset.myTeam = id; else delete html.dataset.myTeam;
+        if (label) label.textContent = b ? `내 팀 · ${b.dataset.name}` : '내 팀 고르기';
+        if (dot) dot.style.background = b?.dataset.color ?? 'transparent';
+        btns.forEach((x) => x.setAttribute('aria-pressed', String(!!id && x.dataset.pickTeam === id)));
+        document.querySelectorAll<HTMLElement>('[data-team-sort]').forEach((box) => {
+          const mine = box.querySelector<HTMLElement>(`:scope > [data-team-section="${id}"]`);
+          if (mine && b) box.prepend(mine);
+          box.querySelectorAll<HTMLDetailsElement>(':scope > details[data-team-section]').forEach((d) => {
+            d.open = b ? d.dataset.teamSection === id : d.hasAttribute('data-open-default');
+            d.classList.toggle('is-mine', !!b && d.dataset.teamSection === id);
+          });
+        });
+      };
+      let saved = '';
+      try { saved = localStorage.getItem(KEY) ?? ''; } catch {}
+      apply(saved);
+      // #team-<id> 로 들어오면 그 팀 섹션을 펼친다(팀 페이지의 '지난 호에서' 링크)
+      const openHash = () => { const d = document.getElementById(location.hash.slice(1)); if (d instanceof HTMLDetailsElement) { d.open = true; d.scrollIntoView(); } };
+      if (location.hash.startsWith('#team-')) openHash();
+      addEventListener('hashchange', openHash);
+      btns.forEach((b) => b.addEventListener('click', () => {
+        const id = b.dataset.pickTeam ?? '';
+        try { if (id) localStorage.setItem(KEY, id); else localStorage.removeItem(KEY); } catch {}
+        apply(id);
+        if (panel && toggle) { panel.hidden = true; toggle.setAttribute('aria-expanded', 'false'); }
+      }));
+      toggle?.addEventListener('click', () => {
+        if (!panel) return;
+        panel.hidden = !panel.hidden;
+        toggle.setAttribute('aria-expanded', String(!panel.hidden));
+      });
+      document.addEventListener('keydown', (e) => { if (e.key === 'Escape' && panel && !panel.hidden) { panel.hidden = true; toggle?.setAttribute('aria-expanded', 'false'); toggle?.focus(); } });
+      document.addEventListener('click', (e) => { if (panel && !panel.hidden && !(e.target as Element).closest('.myteam')) { panel.hidden = true; toggle?.setAttribute('aria-expanded', 'false'); } });
+    </script>
+  </body>
+</html>

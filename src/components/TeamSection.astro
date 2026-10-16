@@ -1,0 +1,33 @@
+---
+// 주간호의 팀 섹션 — 접고 펼칠 수 있다. 내 팀이면 맨 위로 오고 펼쳐진다(Layout 스크립트).
+import SignalCard from './SignalCard.astro';
+import SignalList from './SignalList.astro';
+import TeamChip from './TeamChip.astro';
+import { MODULE_LABEL, firstLine, hot, rich, teamById, isCommunityPost } from '../lib/site.ts';
+import { communitySection } from '../lib/config.ts';
+import type { Signal } from '../lib/schemas.ts';
+interface Props { id: string; signals: Signal[]; editorial?: string; open?: boolean }
+const { id, signals, editorial, open = false } = Astro.props;
+const t = teamById.get(id)!;
+const mine = signals.filter((s) => s.teams.includes(id) && !(communitySection() && isCommunityPost(s)));
+const news = mine.filter((s) => s.module === 'team').sort(hot);
+const fans = mine.filter((s) => s.module === 'fans').sort(hot);
+const rival = mine.filter((s) => s.module === 'rivalry').sort(hot);
+const cards = news.slice(0, 4);
+---
+<details class="team-section" id={`team-${id}`} data-team-section={id} open={open} data-open-default={open ? '' : undefined}>
+  <summary>
+    <span class="team-section-name"><TeamChip id={id} /></span>
+    <span class="team-section-lead">{firstLine(editorial) || `${mine.length}건`}</span>
+    <span class="team-section-count small">{mine.length}건</span>
+  </summary>
+  <div class="team-section-body">
+    {editorial && <div class="module-text rich" set:html={rich(editorial)} />}
+    {cards.length > 0 && <div class="grid module-grid">{cards.map((s) => <SignalCard signal={s} showModule={false} />)}</div>}
+    <SignalList signals={news.slice(4)} label={`이 밖의 ${MODULE_LABEL.team}`} />
+    <SignalList signals={fans} label={MODULE_LABEL.fans} />
+    <SignalList signals={rival} label={MODULE_LABEL.rivalry} />
+    {mine.length === 0 && <p class="empty-hint">이번 호에는 {t.name} 소식이 없습니다.</p>}
+    <p class="small"><a href={`/teams/${id}`}>{t.name} 팀 페이지 →</a></p>
+  </div>
+</details>
