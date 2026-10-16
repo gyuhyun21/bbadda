@@ -71,8 +71,8 @@ export function communitySection(): boolean {
 
 const sourcesSchema = z.object({
   http: z.object({ user_agent: z.string(), min_interval_ms: z.number(), timeout_ms: z.number() }),
-  max_per_team_per_week: z.record(z.string(), z.number().int().positive()).default({}),
-  max_league_per_week: z.number().int().positive().optional(),
+  max_per_team_per_run: z.record(z.string(), z.number().int().positive()).default({}),
+  max_league_per_run: z.number().int().positive().optional(),
   exclude_title_patterns: z.array(z.string()).default([]),
   enrich: z.object({ resolve_google_news: z.boolean(), og_image: z.boolean(), max_items: z.number() }).default({ resolve_google_news: false, og_image: false, max_items: 0 }),
   news_rss: z.object({ enabled: z.boolean(), when: z.string().default('7d'), max_items_per_feed: z.number().default(40), locale: z.object({ hl: z.string(), gl: z.string(), ceid: z.string() }), league_queries: z.array(z.string()).default([]) }),

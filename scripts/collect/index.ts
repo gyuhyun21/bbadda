@@ -101,11 +101,10 @@ export async function runPipeline(ctx: Ctx, week: string, history: Signal[], exi
   const built = kept.map((k) => ({ ...toSignal(k.raw, byUrl.get(k.raw.url)!, week, ctx.now, cfg), ...(k.also.length ? { also_in: k.also } : {}) }));
   const scored = scoreAll(built, kept, cfg, ctx.now);
 
-  // 주간 상한(같은 보관 폴더 기준): 팀·모듈별, 리그. 이번 주에 이미 저장된 건수부터 센다. 점수 상위만 남긴다.
+  // 실행당 상한: 팀·모듈별, 리그. 이번 실행에서 새로 들어온 것만 센다. 점수 상위만 남긴다.
   const count = new Map<string, number>();
   const keyOf = (s: Signal) => (s.module === 'league' ? 'league' : `${s.team}|${s.module}`);
-  for (const s of existingThisWeek) count.set(keyOf(s), (count.get(keyOf(s)) ?? 0) + 1);
-  const capOf = (s: Signal) => (s.module === 'league' ? sources.max_league_per_week : sources.max_per_team_per_week[s.module]);
+  const capOf = (s: Signal) => (s.module === 'league' ? sources.max_league_per_run : sources.max_per_team_per_run[s.module]);
   const final = [...scored].sort((a, b) => b.scores.hot + b.scores.relevance - (a.scores.hot + a.scores.relevance)).filter((s) => {
     const n = (count.get(keyOf(s)) ?? 0) + 1;
     count.set(keyOf(s), n);

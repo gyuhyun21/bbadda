@@ -22,6 +22,7 @@ export async function collectKakao(ctx: Ctx, override?: Record<string, any>) {
   if (!proxy && !key) return { ...out, skipped: 'KAKAO_AUTH=proxy (또는 KAKAO_REST_KEY) 필요' };
   const headers = proxy ? undefined : { Authorization: `KakaoAK ${key}` };
   const ads = ((cfg.ad_patterns ?? []) as string[]).map((p) => new RegExp(p, 'i'));
+  const badSource = ((cfg.exclude_source_patterns ?? []) as string[]).map((p) => new RegExp(p, 'i'));
   const seen = new Set<string>();
   const since = ctx.now.getTime() - 3 * 86400000;
   for (const target of (cfg.targets ?? ['cafe', 'blog']) as ('cafe' | 'blog')[]) {
@@ -36,7 +37,7 @@ export async function collectKakao(ctx: Ctx, override?: Record<string, any>) {
             if (!d.url || !d.title || !d.datetime || seen.has(d.url)) continue;
             seen.add(d.url);
             const it = { ...docToItem(d, target), query_teams: [t.id] };
-            if (ads.some((r) => r.test(it.title))) { out.filtered_ads++; continue; }
+            if (ads.some((r) => r.test(it.title)) || badSource.some((r) => r.test(it.source_name))) { out.filtered_ads++; continue; }
             out.items.push(it);
           }
           const oldest = Math.min(...docs.map((d) => Date.parse(d.datetime)).filter(Number.isFinite));
