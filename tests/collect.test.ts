@@ -3,7 +3,7 @@ import assert from 'node:assert/strict';
 import { loadTeams, loadScoring } from '../src/lib/config.ts';
 import { findTeams, classify, findPos } from '../scripts/collect/classify.ts';
 import { dedupe } from '../scripts/collect/dedupe.ts';
-import { buildFeeds } from '../scripts/collect/news_rss.ts';
+import { buildFeeds, stripOutlet } from '../scripts/collect/news_rss.ts';
 import { collectVertex, findDate, normalizeLink, cleanTitle } from '../scripts/collect/vertex.ts';
 import { collectKakao } from '../scripts/collect/kakao.ts';
 import { channelRef, collectYouTube } from '../scripts/collect/youtube.ts';
@@ -102,4 +102,8 @@ test('인스타그램: 계정명, 캡션 12단어, 오류 190 = 만료', () => {
   assert.equal(usernameOf('https://www.instagram.com/lgtwinsbaseballclub/'), 'lgtwinsbaseballclub');
   assert.equal(captionSnippet('#LG #야구\n오늘 승리 감사합니다 팬 여러분 정말 고맙습니다 내일도 잠실에서 만나요 꼭 와주세요 사랑해요'), '오늘 승리 감사합니다 팬 여러분 정말 고맙습니다 내일도 잠실에서 만나요 꼭 와주세요…');
   assert.ok(isTokenExpired('HTTP 400: {"error":{"message":"Error validating access token","type":"OAuthException","code": 190}}'));
+});
+test('뉴스 제목 끝의 매체명(두 번 붙은 것 포함)을 뗀다', () => {
+  assert.equal(stripOutlet('LG, 두산 꺾고 준PO 진출 - 머니투데이 - 머니투데이', '머니투데이'), 'LG, 두산 꺾고 준PO 진출');
+  assert.equal(stripOutlet('제목 - 연합뉴스', '뉴시스'), '제목 - 연합뉴스');
 });

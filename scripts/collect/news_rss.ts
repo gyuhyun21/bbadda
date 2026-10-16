@@ -2,6 +2,15 @@
 import { loadSources, loadTeams } from '../../src/lib/config.ts';
 import { parseFeed, toIso, type Ctx, type RawItem } from './util.ts';
 
+/** 구글 뉴스 제목 끝의 ' - 매체명'(두 번 붙는 경우도 있다)을 뗀다. 매체명은 source_name 에 따로 있다. */
+export function stripOutlet(title: string, source?: string): string {
+  let t = title.trim();
+  if (!source) return t;
+  const tail = ` - ${source}`;
+  while (t.endsWith(tail) && t.length > tail.length) t = t.slice(0, -tail.length).trimEnd();
+  return t;
+}
+
 const q = (terms: string[]) => terms.map((t) => (/\s/.test(t) ? `"${t}"` : t)).join(' OR ');
 
 export type FeedSpec = { id: string; url: string; via: RawItem['via'] };
@@ -26,7 +35,7 @@ export async function collectNews(ctx: Ctx, specs = buildFeeds(ctx)) {
     try {
       for (const e of parseFeed(await ctx.fetchText(spec.url)).slice(0, max)) {
         if (!e.title || !e.link) continue;
-        items.push({ source_type: 'news', source_name: e.source || '(매체 미상)', url: e.link, title: e.title, published_at: toIso(e.date, ctx.now), via: spec.via });
+        items.push({ source_type: 'news', source_name: e.source || '(매체 미상)', url: e.link, title: stripOutlet(e.title, e.source), published_at: toIso(e.date, ctx.now), via: spec.via });
       }
     } catch (e) {
       failures.push({ feed: spec.id, error: String((e as Error).message ?? e) });
