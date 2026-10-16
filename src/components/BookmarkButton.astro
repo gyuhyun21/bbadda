@@ -1,0 +1,10 @@
+---
+// 기사 북마크 버튼(이 기기 브라우저에 저장). 눌린 상태는 Layout 스크립트가 맞춘다.
+import { displayTitle, fmtDate } from '../lib/site.ts';
+import type { Signal } from '../lib/schemas.ts';
+interface Props { signal: Signal }
+const { signal: s } = Astro.props;
+---
+<button type="button" class="bm-btn" data-bm data-bm-url={s.url} data-bm-title={displayTitle(s)} data-bm-src={`${s.source_name} · ${fmtDate(s.published_at)}`} aria-pressed="false" aria-label="북마크에 저장" title="북마크" data-pagefind-ignore>
+  <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6.5 3.5h11a1 1 0 0 1 1 1v16l-6.5-4.2-6.5 4.2v-16a1 1 0 0 1 1-1z" /></svg>
+</button>
