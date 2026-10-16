@@ -1,0 +1,23 @@
+{
+  "id": "community-81094b77",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 야구의 시간, 엄마의 기록",
+  "url": "https://blog.naver.com/doiya_logwin/224444229111",
+  "title": "[2027 KBO 신인 드래프트 계약금 총정리] 10개 구단별 계약금, 역대 최고 16억 원!",
+  "published_at": "2026-10-17T00:00:00.000+09:00",
+  "collected_at": "2026-10-16T21:37:40.315Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

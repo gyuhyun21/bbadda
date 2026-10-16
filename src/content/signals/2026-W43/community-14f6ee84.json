@@ -1,0 +1,22 @@
+{
+  "id": "community-14f6ee84",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 크보한입",
+  "url": "https://blog.naver.com/dyts60/224444147323",
+  "title": "\"50억도 거절했다고?\" SSG 최지훈 타율 2할5푼인데 100억설 '박해민도 65억인데... 얼마나 몸값 뛸까?'",
+  "published_at": "2026-10-17T04:00:00.000+09:00",
+  "collected_at": "2026-10-16T21:37:40.315Z",
+  "summary_ko": "블로그 글에 따르면 SSG 최지훈이 타율 2할5푼에도 100억 설이 돈다는 이야기가 나온다. 구단 발표가 아닌 추측성 글이다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

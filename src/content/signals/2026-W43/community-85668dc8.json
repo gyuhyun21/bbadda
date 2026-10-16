@@ -1,0 +1,22 @@
+{
+  "id": "community-85668dc8",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 스포츠맨이야",
+  "url": "https://blog.naver.com/sports_88/224444161241",
+  "title": "\"돈으로 찍어누른다\" 삼성 구자욱과 원태인, 200억 계약설의 진실",
+  "published_at": "2026-10-16T23:52:00.000+09:00",
+  "collected_at": "2026-10-16T21:37:40.315Z",
+  "summary_ko": "블로그 글은 삼성 구자욱과 원태인의 200억 계약설이 사실인지 따져 본다. 확인된 발표는 아니다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

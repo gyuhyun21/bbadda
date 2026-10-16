@@ -1,0 +1,22 @@
+{
+  "id": "community-db6444d3",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 운동을 연구하는 남자",
+  "url": "https://blog.naver.com/zoom3998/224444277559",
+  "title": "롯데 차기 감독 후보 총정리, 김태형·조성환·다카츠 신고 누가 새 사령탑 될까?",
+  "published_at": "2026-10-17T01:18:00.000+09:00",
+  "collected_at": "2026-10-16T21:37:40.315Z",
+  "summary_ko": "블로그 글이 롯데 차기 감독 후보로 김태형·조성환·다카츠 신고를 비교한다. 구단이 발표한 내용은 아니다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

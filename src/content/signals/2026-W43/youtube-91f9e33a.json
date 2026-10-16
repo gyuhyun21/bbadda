@@ -1,0 +1,24 @@
+{
+  "id": "youtube-91f9e33a",
+  "issue": "2026-W43",
+  "module": "league",
+  "teams": [],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=_nxY9RgjC2Q",
+  "title": "영웅들도 뮤직 큐! 따💘 따랏🐱 따따🐾",
+  "published_at": "2026-10-16T07:02:12Z",
+  "collected_at": "2026-10-16T21:37:40.315Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 17978,
+    "likes": 260,
+    "comments": 5
+  },
+  "scores": {
+    "hot": 64,
+    "relevance": 10
+  },
+  "sentiment": "neutral"
+}

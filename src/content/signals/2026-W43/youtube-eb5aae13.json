@@ -1,0 +1,26 @@
+{
+  "id": "youtube-eb5aae13",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "blue note records",
+  "url": "https://www.youtube.com/watch?v=dGEw9RrPdVc",
+  "title": "#다이나믹듀오 #삼성라이온즈",
+  "published_at": "2026-10-16T15:42:23Z",
+  "collected_at": "2026-10-16T21:37:40.315Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 734,
+    "likes": 2,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 37,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

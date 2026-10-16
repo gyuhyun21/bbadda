@@ -1,0 +1,27 @@
+{
+  "id": "youtube-92e46fb0",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "제미나이몇살",
+  "url": "https://www.youtube.com/watch?v=M9qzyotNWEU",
+  "title": "인성비교 | 볼넷 하나가 안타였어도 안타왕은 아니었다",
+  "published_at": "2026-10-16T11:30:14Z",
+  "collected_at": "2026-10-16T21:37:40.315Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 28234,
+    "likes": 138,
+    "comments": 3
+  },
+  "scores": {
+    "hot": 58,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "community-4f13ca0d",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 idea68970 님의 블로그",
+  "url": "https://idea68970.tistory.com/11",
+  "title": "김원형 첫해 두산, 투수는 강했고 타격은 숙제",
+  "published_at": "2026-10-16T20:11:52.000+09:00",
+  "collected_at": "2026-10-16T21:37:40.315Z",
+  "summary_ko": "블로그 글은 김원형 감독의 첫해 두산이 투수는 강했고 타격은 숙제로 남았다고 평가한다.",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

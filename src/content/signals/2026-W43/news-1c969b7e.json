@@ -1,0 +1,24 @@
+{
+  "id": "news-1c969b7e",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "남도일보",
+  "url": "https://www.namdonews.com/news/articleView.html?idxno=925875",
+  "title": "\"빠르게 투수 교체할 수도\"…이범호, 3위 결정전 ‘총력전’ 선언",
+  "published_at": "2026-10-12T07:40:32.000Z",
+  "collected_at": "2026-10-16T21:37:40.315Z",
+  "summary_ko": "KIA 이범호 감독이 3위 결정전에서 투수를 빠르게 교체할 수도 있다며 총력전을 예고했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 29,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "image": "https://cdn.namdonews.com/news/photo/202610/925875_631817_345.jpg"
+}

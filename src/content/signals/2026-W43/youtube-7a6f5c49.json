@@ -1,0 +1,26 @@
+{
+  "id": "youtube-7a6f5c49",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "youtube",
+  "source_name": "쇼핑잇",
+  "url": "https://www.youtube.com/watch?v=xPUPMB1QXMo",
+  "title": "두산 타선 보강 한유섬 어떨까 #두산베어스 #한유섬 #프로야구",
+  "published_at": "2026-10-16T09:36:20Z",
+  "collected_at": "2026-10-16T21:37:40.315Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1538,
+    "likes": 11,
+    "comments": 2
+  },
+  "scores": {
+    "hot": 46,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

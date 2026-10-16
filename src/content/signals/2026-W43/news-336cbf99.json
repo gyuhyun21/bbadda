@@ -1,0 +1,23 @@
+{
+  "id": "news-336cbf99",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "연합뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE92UHdkQkJxTlQtLTF6VG9fa09ILU5RbDRVUkhvazV0YXhlSzVFZjd6T0xVczNCN09RdGFRTzNuajBPaTdzRU1FeUJTV1hNMFRKUnphRTVxRHA5Z1HSAWBBVV95cUxON1JGOEtBUWdKNTNKb28ydHg1UktUb0FlYnpIN2lQQ0M3RGRsQVJaeDhaMHF3N1I5SVpZN21nMlNyM00zTUd3eEoyNzE5VnJWbmtEYUNqa2NnMmU1REl5RDk?oc=5",
+  "title": "최동원 무료 야구 교실, 출범 11년 만에 첫 프로 지명 결실",
+  "published_at": "2026-10-13T02:58:17.000Z",
+  "collected_at": "2026-10-16T21:37:40.315Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 36,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

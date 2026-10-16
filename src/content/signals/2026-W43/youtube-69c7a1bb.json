@@ -1,0 +1,27 @@
+{
+  "id": "youtube-69c7a1bb",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "LGTWINSTV",
+  "url": "https://www.youtube.com/watch?v=KXAmw4_2_10",
+  "title": "투지와 함께 맞이하는 우리의 가을🎇 [10월 | 월간 트윈스 모먼트]",
+  "published_at": "2026-10-16T08:30:34Z",
+  "collected_at": "2026-10-16T21:37:40.315Z",
+  "summary_ko": "LG 트윈스 공식 채널이 10월 월간 트윈스 모먼트 영상을 올렸다. 가을야구를 앞둔 분위기를 담았다.",
+  "metrics": {
+    "views": 26118,
+    "likes": 484,
+    "comments": 42
+  },
+  "scores": {
+    "hot": 70,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

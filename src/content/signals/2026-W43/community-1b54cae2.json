@@ -1,0 +1,22 @@
+{
+  "id": "community-1b54cae2",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 하루한끗",
+  "url": "https://blog.naver.com/sicheol130/224444036126",
+  "title": "KIA 김호령 4년 50억 계약한다고? 35세 중견수 몸값 논쟁에 팬들 의견 갈린 이유",
+  "published_at": "2026-10-17T05:32:00.000+09:00",
+  "collected_at": "2026-10-16T21:37:40.315Z",
+  "summary_ko": "블로그 글은 KIA 김호령이 4년 50억에 계약한다는 이야기와 35세 중견수의 몸값 논쟁을 다룬다. 확정된 계약은 아니다.",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

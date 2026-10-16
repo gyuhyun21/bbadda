@@ -1,0 +1,26 @@
+{
+  "id": "youtube-6b6e2ceb",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "youtube",
+  "source_name": "바니차니정보",
+  "url": "https://www.youtube.com/watch?v=LHrn2N6_qFU",
+  "title": "잠실야구장 마지막 경기, LG 손에 달렸다!",
+  "published_at": "2026-10-16T21:15:37Z",
+  "collected_at": "2026-10-16T21:37:40.315Z",
+  "summary_ko": "팬 채널이 잠실야구장 마지막 경기의 결과가 LG에 달렸다는 영상을 올렸다.",
+  "metrics": {
+    "views": 170,
+    "likes": 2,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 37,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

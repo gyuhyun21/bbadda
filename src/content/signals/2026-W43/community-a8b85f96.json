@@ -1,0 +1,22 @@
+{
+  "id": "community-a8b85f96",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 킥오프24시",
+  "url": "https://blog.naver.com/kickoff24/224443638640",
+  "title": "\"대안도 없는데…\" 롯데 감독 교체 카드 선뜻 못 꺼내는 속사정",
+  "published_at": "2026-10-17T05:30:00.000+09:00",
+  "collected_at": "2026-10-16T21:37:40.315Z",
+  "summary_ko": "블로그 글은 롯데가 감독 교체 카드를 선뜻 꺼내지 못하는 사정을 분석한다.",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

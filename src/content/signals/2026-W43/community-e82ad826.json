@@ -1,0 +1,24 @@
+{
+  "id": "community-e82ad826",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "community",
+  "announcement": true,
+  "source_name": "더쿠",
+  "url": "https://theqoo.net/square/4279600982",
+  "title": "[공식] 신지, KT 시구 논란 결국 사과…축하공연도 전격 취소",
+  "published_at": "2026-10-13T15:00:00.000Z",
+  "collected_at": "2026-10-16T21:37:40.315Z",
+  "summary_ko": "더쿠에 올라온 기사 공유에 따르면 가수 신지가 KT 시구 논란에 사과했고 축하공연은 취소됐다.",
+  "excerpt": "... 최근 온라인 커뮤니티 등을 통해 확산되고 있는 8월 2일 코요태의 KT 위즈 홈경기 행사…",
+  "metrics": {},
+  "scores": {
+    "hot": 40,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "youtube-6fe69b9c",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "LGTWINSTV",
+  "url": "https://www.youtube.com/watch?v=GA_kHgKsihI",
+  "title": "루키들의 좌충우돌 잠실 첫날🐣 | 2027 루키즈데이 [엘코더]",
+  "published_at": "2026-10-16T03:00:08Z",
+  "collected_at": "2026-10-16T21:37:40.315Z",
+  "summary_ko": "LG 트윈스 공식 채널이 2027 루키즈데이로 잠실을 처음 찾은 신인들의 하루를 공개했다.",
+  "metrics": {
+    "views": 80834,
+    "likes": 1286,
+    "comments": 149
+  },
+  "scores": {
+    "hot": 74,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

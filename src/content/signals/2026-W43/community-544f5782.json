@@ -1,0 +1,23 @@
+{
+  "id": "community-544f5782",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 B클라스 라이프 스토리",
+  "url": "https://blog.naver.com/bikla/224444212899",
+  "title": "2026 KBO 준플레이오프 일정ㅣ 누가나오나?",
+  "published_at": "2026-10-16T23:45:00.000+09:00",
+  "collected_at": "2026-10-16T21:37:40.315Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "youtube-5fd4ab90",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "youtube",
+  "source_name": "응원가 팩토리",
+  "url": "https://www.youtube.com/watch?v=X-Z-W9PyH-M",
+  "title": "NC 다이노스 박시원 응원가 Music Video",
+  "published_at": "2026-10-16T12:41:40Z",
+  "collected_at": "2026-10-16T21:37:40.315Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 33,
+    "likes": 1,
+    "comments": 3
+  },
+  "scores": {
+    "hot": 59,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

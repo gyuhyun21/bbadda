@@ -1,0 +1,24 @@
+{
+  "id": "news-8b49f97b",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://www.mt.co.kr/amp/sports/2026/10/14/2026101401075580599",
+  "title": "양현종 이어 '박해민 회장님', 프로야구선수협 새 수장 선임... 12월 임기 시작",
+  "published_at": "2026-10-13T17:16:07.000Z",
+  "collected_at": "2026-10-16T21:37:40.315Z",
+  "summary_ko": "LG 박해민이 프로야구선수협회 새 회장으로 선임됐다. 임기는 12월에 시작한다는 보도다.",
+  "metrics": {},
+  "scores": {
+    "hot": 41,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "image": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/10/2026101401075580599_1.jpg"
+}

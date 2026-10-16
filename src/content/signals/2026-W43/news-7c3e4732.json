@@ -1,0 +1,23 @@
+{
+  "id": "news-7c3e4732",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1iSzlKdEJmVVJfSEZjSF9QVXJMZE5IcHpDTHNSWVl1cEx5d1h1OVVXSVF2eG0tNFMtV3IyM1U0bVo2UUNTT2lXUUJvZVFhamRaTU9DR0tMUkY1UjNBQ0R6bFhJbjlVeFFHWFhTYVE0c9IBb0FVX3lxTE1iSzlKdEJmVVJfSEZjSF9QVXJMZE5IcHpDTHNSWVl1cEx5d1h1OVVXSVF2eG0tNFMtV3IyM1U0bVo2UUNTT2lXUUJvZVFhamRaTU9DR0tMUkY1UjNBQ0R6bFhJbjlVeFFHWFhTYVE0cw?oc=5",
+  "title": "피 튀기는 준PO 예매 이미 시작! 1차전 놓쳤다면? 잠실 예매 일정은 16일",
+  "published_at": "2026-10-15T05:14:59.000Z",
+  "collected_at": "2026-10-16T21:37:40.315Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 54,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}
