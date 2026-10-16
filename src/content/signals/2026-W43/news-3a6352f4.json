@@ -8,7 +8,7 @@
   ],
   "source_type": "news",
   "source_name": "오마이스타",
-  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE54TDVBaGFTVC1vT0VQenV2c1dBcklnbkEyUHM0cjVGZi00aTJzUHpXSldPdXF1SVNaMldlQS1aZ1Q1TFZVbVA0OFprREVZZ0llNGI1YWhneHRuaExNeFlja2JUd3RGTmtfdGpZU0hseHh2b1gtSHhTaUhYazRCZw?oc=5",
+  "url": "https://star.ohmynews.com/NWS_Web/OhmyStar/at_pg.aspx?CNTN_CD=A0003275357",
   "title": "'곽빈 호투에도...' 두산, 통한의 타격·수비로 포스트시즌 마감",
   "published_at": "2026-10-15T00:14:00.000Z",
   "collected_at": "2026-10-16T12:55:42.882Z",
@@ -18,5 +18,6 @@
     "hot": 55,
     "relevance": 80
   },
-  "sentiment": "positive"
+  "sentiment": "positive",
+  "image": "https://ojsfile.ohmynews.com/BIG_IMG_FILE/2026/1015/IE003684558_BIG.jpg"
 }

@@ -5,7 +5,7 @@
   "teams": [],
   "source_type": "news",
   "source_name": "SBS 뉴스",
-  "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRUhIQkVDdTJxVWRnNnR6b0JUM2hLZlBNNi1JeV9GdkZUMFVuekkxejV2czc5ek8zRnRza09rQndvVTFBc3JqeXRPM0pPV3MzZnZydHJSd0Q0RFFsdzZjQkhNbFpGZkV0bjRMdG5BdGtkQ1dBcVJGQXUzMHgzSTlCOXcwOXl4UmtSY3h5VkRGQjhpNmxJemfSAWZBVV95cUxPbEFER0NhOFoySXV3NFN4UGZYTHE2N3doM0hqQ2J6WGZIV0ZNbUoyNGt1SzNkQmp0V0xJSXNpQ09YZTJWSzJmZlZJbkloZVB0cjlPU2doZjMxYWpUVU4yMS1SSHlETFE?oc=5",
+  "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008800371&plink=PLAY&cooper=RSS&autoplay=Y",
   "title": "[에디터픽] 관중 머리 위 매달린 '시한폭탄'?..사람 숨졌는데도 \"시즌 끝나면\"",
   "published_at": "2026-10-16T00:23:21.000Z",
   "collected_at": "2026-10-16T12:55:42.882Z",
@@ -15,5 +15,6 @@
     "hot": 64,
     "relevance": 30
   },
-  "sentiment": "neutral"
+  "sentiment": "neutral",
+  "image": "https://img.sbs.co.kr/newimg/news/20261016/202231959_1280.jpg"
 }

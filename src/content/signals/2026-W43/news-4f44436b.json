@@ -8,7 +8,7 @@
   ],
   "source_type": "news",
   "source_name": "뉴시스",
-  "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1RclBkaWpwTXBEMlhSaGdfOVRFazl0OHZnSTNSWHBBd3Juc3hIazhIelhqN3RhVHdjUE80RU4tVExfSWVudTdhR0dvNm5rQjBGVlhCWVBlZktoYmE3cG1tMWc0ZFZnaFJjYWlpc2YwbklLMHJCMHRIMdIBeEFVX3lxTE1RclBkaWpwTXBEMlhSaGdfOVRFazl0OHZnSTNSWHBBd3Juc3hIazhIelhqN3RhVHdjUE80RU4tVExfSWVudTdhR0dvNm5rQjBGVlhCWVBlZktoYmE3cG1tMWc0ZFZnaFJjYWlpc2YwbklLMHJCMHRIMQ?oc=5",
+  "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261016_0003829464",
   "title": "[뉴시스 앵글]'13번째 우승' 도전 KIA, 타격·수비 막바지 점검",
   "published_at": "2026-10-16T07:42:07.000Z",
   "collected_at": "2026-10-16T12:55:42.882Z",
@@ -18,5 +18,6 @@
     "hot": 74,
     "relevance": 70
   },
-  "sentiment": "positive"
+  "sentiment": "positive",
+  "image": "https://img1.newsis.com/2026/10/16/NISI20261016_0021491735_web.jpg"
 }

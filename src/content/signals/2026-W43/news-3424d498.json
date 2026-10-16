@@ -5,7 +5,7 @@
   "teams": [],
   "source_type": "news",
   "source_name": "뉴시스",
-  "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8yNUZ6QjIzcFZ4d0hKU2NsNjFHMDBvVTFKbUFQZ1RRR0ZFS2w3cThPZnFvaTl6U0xQcXRsdDdKNUktZXlhZVAzbTRUUTJsVC1Ccm1GRjdkeHJoVjhXZzJkQmpSTlVjWFdaZTRfdEQ3WXI1ek9IMFhaetIBeEFVX3lxTE8yNUZ6QjIzcFZ4d0hKU2NsNjFHMDBvVTFKbUFQZ1RRR0ZFS2w3cThPZnFvaTl6U0xQcXRsdDdKNUktZXlhZVAzbTRUUTJsVC1Ccm1GRjdkeHJoVjhXZzJkQmpSTlVjWFdaZTRfdEQ3WXI1ek9IMFhaeg?oc=5",
+  "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261016_0003829047",
   "title": "2026 KBO 수비상 10개 부문 후보 발표…유틸리티 신설",
   "published_at": "2026-10-16T06:07:32.000Z",
   "collected_at": "2026-10-16T12:55:42.882Z",
@@ -15,5 +15,6 @@
     "hot": 66,
     "relevance": 30
   },
-  "sentiment": "neutral"
+  "sentiment": "neutral",
+  "image": "https://img1.newsis.com/2025/11/24/NISI20251124_0021073521_web.jpg"
 }

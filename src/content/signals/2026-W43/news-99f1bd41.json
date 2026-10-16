@@ -8,7 +8,7 @@
   ],
   "source_type": "news",
   "source_name": "머니투데이",
-  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAtdkowQ2ZFWVJjUzU1QkRBbUY0UUZfc09OUEFTYXJwSlhfcGVRVFdHaHN0TU16VTlkN2h6eERXT3REbWpQTzNsOC15YzdCVHRDRU1LYmtpcXNBUWZiOXd0b0hhNy1QZmF4R0dwZGxKWdIBb0FVX3lxTFAtdkowQ2ZFWVJjUzU1QkRBbUY0UUZfc09OUEFTYXJwSlhfcGVRVFdHaHN0TU16VTlkN2h6eERXT3REbWpQTzNsOC15YzdCVHRDRU1LYmtpcXNBUWZiOXd0b0hhNy1QZmF4R0dwZGxKWQ?oc=5",
+  "url": "https://www.mt.co.kr/amp/sports/2026/10/16/2026101617015779310",
   "title": "KIA, 준PO 1·2차전 시구자 공개! DAY6 원필·배우 김의성 출격",
   "published_at": "2026-10-16T08:04:28.000Z",
   "collected_at": "2026-10-16T12:55:42.882Z",
@@ -18,5 +18,6 @@
     "hot": 66,
     "relevance": 70
   },
-  "sentiment": "neutral"
+  "sentiment": "neutral",
+  "image": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/10/2026101617015779310_1.jpg"
 }

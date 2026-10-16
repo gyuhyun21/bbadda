@@ -8,7 +8,7 @@
   ],
   "source_type": "news",
   "source_name": "조선일보",
-  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQT0lLaVV1Y2gtU2ZqNFI5VGhVVE9uTVRLSDlWd2w4azg1aWZpSUtUQjRaWTAxS1dyU1JlYTJCTXVseWRZYXE5cG5LODBLY2dFSzhkUTNYQ0VwZmJhOFpzX0Nad3ZOUG9ZTjBJc2pqQWluTDMtdUNMR0pwU2VPRGlDQWQ5QQ?oc=5",
+  "url": "https://www.chosun.com/sports/baseball/2026/10/16/GAZTSOLCMFTDEYRRMY4TGODCGI/",
   "title": "한화, 11승 투수 4억에 잡았다… ML 떠난 16승 투수 복귀 성공할까",
   "published_at": "2026-10-16T00:04:21.000Z",
   "collected_at": "2026-10-16T12:55:42.882Z",
@@ -18,5 +18,6 @@
     "hot": 71,
     "relevance": 70
   },
-  "sentiment": "positive"
+  "sentiment": "positive",
+  "image": "https://www.chosun.com/resizer/v2/G5RTEOLGGE2TCMBSGE4GGMRUGY.jpg?auth=4c0b26124d8ca54207db2827239e027e51c092d63dcf1175ac70cb6e4a7d7b9f&width=650&height=341&smart=true"
 }
