@@ -85,3 +85,12 @@
 .layout-soft .rail-day { padding-top: 20px; }
 .layout-soft .rail-day-title { font: var(--t-title2); letter-spacing: -0.02em; margin: 0 0 4px; }
 .layout-soft .rail-older { display: inline-block; margin: 16px 0 4px; font: var(--t-foot); color: var(--muted); }
+
+/* 날짜 칩(최근 7일) — 볼록, 고른 날은 눌림 */
+.layout-soft .rail-days { display: flex; gap: 10px; overflow-x: auto; padding: 6px 4px 14px; margin: 0 -4px; scrollbar-width: none; }
+.layout-soft .rail-days::-webkit-scrollbar { display: none; }
+.layout-soft .rail-day-chip { flex: none; font: 600 14px/1 var(--font); color: var(--ink); background: var(--soft-bg); border: 0; border-radius: 999px; padding: 10px 14px; cursor: pointer; box-shadow: var(--raise-sm); display: inline-flex; align-items: center; gap: 8px; }
+.layout-soft .rail-day-chip span { font: 600 12px/1 var(--font); color: var(--muted); }
+.layout-soft .rail-day-chip[aria-pressed="true"] { box-shadow: var(--press); }
+.layout-soft .rail-day-chip[aria-pressed="true"] span { color: var(--accent); }
+.layout-soft .rail-caption { margin: 12px 0 0; font: var(--t-headline); }

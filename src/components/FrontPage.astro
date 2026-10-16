@@ -6,7 +6,6 @@ import TeamChip from './TeamChip.astro';
 import TeamPicker from './TeamPicker.astro';
 import CommunitySection from './CommunitySection.astro';
 import RailItem from './RailItem.astro';
-import RailMore from './RailMore.astro';
 import { communitySection, newsImages, loadStandings, streakLabel } from '../lib/config.ts';
 import { TEAMS, loadAll, ofTeam, recent, hot, newest, kstDay, daysOf, onDay, dayLabel, seasonTitle, displayTitle, fmtDate, teamColor, teamById, isToday, youtubeId, BUILD_TIME } from '../lib/site.ts';
 const data = await loadAll();
@@ -26,15 +25,12 @@ const tiles = TEAMS.map((t) => {
 // 구단 레일: 순위 순서(config/standings.yaml, 사람이 갱신 — KBO 자동 수집 금지). 순위가 없으면 기본 순서
 const standings = loadStandings();
 const railTiles = standings ? [...tiles].sort((a, b) => (standings.teams[a.t.id]?.rank ?? 99) - (standings.teams[b.t.id]?.rank ?? 99)) : tiles;
-// 레일 패널: 처음 보이는 양(전체 12, 구단 6), '모두 보기'로 펼치는 범위는 최근 30일
-const ALL_FIRST = 12;
-const TEAM_FIRST = 6;
-const since30 = BUILD_TIME - 30 * 86400_000;
-const in30 = all.filter((s) => s.module !== 'fans' && Date.parse(s.published_at) >= since30);
-const allSorted = [...in30].sort((a, b) => kstDay(b.published_at).localeCompare(kstDay(a.published_at)) || hot(a, b));
-const allFirst = allSorted.slice(0, ALL_FIRST);
-const allRest = allSorted.slice(ALL_FIRST);
-const teamFeed = (id: string) => [...in30].filter((s) => s.teams.includes(id)).sort((a, b) => kstDay(b.published_at).localeCompare(kstDay(a.published_at)) || Number(a.module !== 'team') - Number(b.module !== 'team') || hot(a, b));
+// 레일 패널: 날짜(최근 7일) × 구단. '전체'는 그 날 12건 → '모두 보기'로 그 날 전부, 구단은 그 날 그 구단 전부
+// 바로 위 '오늘의 헤드라인' 5건은 레일에서 뺀다(중복 방지, 저장소 주인 결정 2026-10-17)
+const headlineIds = new Set([lead, ...side].filter(Boolean).map((s) => s!.id));
+const news = all.filter((s) => s.module !== 'fans' && !headlineIds.has(s.id));
+const railDays = daysOf(news).slice(0, 7);
+const dayItems = (d: string) => onDay(news, d).sort(hot);
 // 4) 리그(시즌에 따라 제목이 바뀐다)
 const league = recent(all.filter((s) => s.module === 'league' || s.module === 'rivalry'), 7).sort(hot);
 // 5) 오피셜 영상
@@ -109,14 +105,14 @@ const days = daysOf(all).slice(0, 7);
   {/* 구단 레일(layout: soft) — '전체' + 순위순 이니셜 배지. 누르면 아래 패널이 바뀌고, '모두 보기'는 그 자리에서 펼쳐진다 */}
   <div class="block-head"><h2 id="h-team-rail">구단별 소식</h2><a href="/teams">모든 구단</a></div>
   <div class="team-rail" role="tablist" aria-label="구단 선택">
-    <button type="button" role="tab" class="team-badge team-badge--all" id="rail-tab-all" data-rail-team="all" aria-controls="rail-panel-all" aria-selected="true">
+    <button type="button" role="tab" class="team-badge team-badge--all" id="rail-tab-all" data-rail-team="all" aria-controls="rail-panel" aria-selected="true">
       <span class="team-badge-mark" aria-hidden="true">전체</span>
       <span class="team-badge-rank">10개 구단</span>
     </button>
     {railTiles.map(({ t }) => {
       const st = standings?.teams[t.id];
       return (
-        <button type="button" role="tab" class="team-badge" id={`rail-tab-${t.id}`} data-rail-team={t.id} aria-controls={`rail-panel-${t.id}`} aria-selected="false" aria-label={`${t.name}${st ? `, ${st.rank}위, ${streakLabel(st.streak)}` : ''}`} style={`--team:${teamColor(t.id)}`}>
+        <button type="button" role="tab" class="team-badge" id={`rail-tab-${t.id}`} data-rail-team={t.id} aria-controls="rail-panel" aria-selected="false" aria-label={`${t.name}${st ? `, ${st.rank}위, ${streakLabel(st.streak)}` : ''}`} style={`--team:${teamColor(t.id)}`}>
           <span class="team-badge-mark" aria-hidden="true">{t.short}</span>
           {st && <span class="team-badge-rank" aria-hidden="true">{st.rank}위</span>}
           {st && <span class={`team-badge-streak ${/승$/.test(st.streak) ? 'is-win' : /패$/.test(st.streak) ? 'is-loss' : ''}`} aria-hidden="true">{streakLabel(st.streak)}</span>}
@@ -125,19 +121,18 @@ const days = daysOf(all).slice(0, 7);
     })}
   </div>
   {standings && <p class="rail-note">{standings.label} 순위·연속 기록 · <a href={standings.source} target="_blank" rel="noopener noreferrer" data-no-modal>KBO 기록실</a> {Number(standings.as_of.slice(5, 7))}월 {Number(standings.as_of.slice(8, 10))}일 기준</p>}
-  <div class="team-rail-panel" role="tabpanel" id="rail-panel-all" aria-labelledby="rail-tab-all" data-rail-panel="all">
-    <ul class="rail-list">{allFirst.map((s) => <RailItem signal={s} />)}</ul>
-    <RailMore id="all" label="전체 구단 소식 모두 보기" signals={allRest} olderHref="/archive" />
+  {/* 날짜 칩(최근 7일): 고른 날짜의 소식만. 구단 배지는 그 날짜 안에서 구단을 거른다 */}
+  <div class="rail-days" role="group" aria-label="날짜 선택">
+    {railDays.map((d, n) => <button type="button" class="rail-day-chip" data-rail-day={d} aria-pressed={n === 0 ? 'true' : 'false'}>{dayLabel(d)}<span>{dayItems(d).length}</span></button>)}
   </div>
-  {railTiles.map(({ t }) => {
-    const list = teamFeed(t.id);
-    return (
-      <div class="team-rail-panel" role="tabpanel" id={`rail-panel-${t.id}`} aria-labelledby={`rail-tab-${t.id}`} data-rail-panel={t.id} hidden>
-        {list.length ? <ul class="rail-list">{list.slice(0, TEAM_FIRST).map((s) => <RailItem signal={s} showTeams={false} />)}</ul> : <p class="empty-hint">최근 {t.name} 소식이 없습니다.</p>}
-        <RailMore id={t.id} label={`${t.name} 소식 모두 보기`} signals={list.slice(TEAM_FIRST)} showTeams={false} olderHref={`/teams/${t.id}`} />
-      </div>
-    );
-  })}
+  <div class="team-rail-panel" role="tabpanel" id="rail-panel" aria-live="polite" data-rail-panel>
+    <p class="rail-caption" data-rail-caption></p>
+    {railDays.map((d, n) => (
+      <ul class="rail-list" data-day-list={d} hidden={n > 0}>{dayItems(d).map((s) => <RailItem signal={s} />)}</ul>
+    ))}
+    <p class="empty-hint" data-rail-empty hidden>이 날짜에는 이 구단 소식이 없습니다.</p>
+    <button type="button" class="rail-more" aria-expanded="false" data-rail-expand>전체 구단 소식 모두 보기</button>
+  </div>
 </section>
 
 {league.length > 0 && (
@@ -173,36 +168,54 @@ const days = daysOf(all).slice(0, 7);
 )}
 
 <script>
-  // 구단 레일: 누르면 그 구단 패널만 보인다. 처음에는 '전체'. 좌우 화살표로도 이동.
+  // 구단 레일: 날짜 칩 × 구단 배지로 같은 목록을 거른다.
+  // '전체' — 그 날 처음 12건, '전체 구단 소식 모두 보기'로 그 날 전부 / 구단 — 그 날 그 구단 전부.
+  const FIRST = 12;
   const tabs = [...document.querySelectorAll<HTMLButtonElement>('[data-rail-team]')];
-  const select = (id: string, focus = false) => {
-    tabs.forEach((b) => {
-      const on = b.dataset.railTeam === id;
-      b.setAttribute('aria-selected', String(on));
-      b.tabIndex = on ? 0 : -1;
-      if (on && focus) b.focus();
+  const dayBtns = [...document.querySelectorAll<HTMLButtonElement>('[data-rail-day]')];
+  const caption = document.querySelector<HTMLElement>('[data-rail-caption]');
+  const empty = document.querySelector<HTMLElement>('[data-rail-empty]');
+  const more = document.querySelector<HTMLButtonElement>('[data-rail-expand]');
+  const state = { day: dayBtns[0]?.dataset.railDay ?? '', team: 'all', expanded: false };
+  const render = () => {
+    tabs.forEach((b) => { const on = b.dataset.railTeam === state.team; b.setAttribute('aria-selected', String(on)); b.tabIndex = on ? 0 : -1; });
+    dayBtns.forEach((b) => b.setAttribute('aria-pressed', String(b.dataset.railDay === state.day)));
+    let shown = 0, total = 0;
+    document.querySelectorAll<HTMLElement>('[data-day-list]').forEach((ul) => {
+      const on = ul.dataset.dayList === state.day;
+      ul.hidden = !on;
+      if (!on) return;
+      ul.querySelectorAll<HTMLElement>(':scope > li').forEach((li) => {
+        const match = state.team === 'all' || (li.dataset.teams ?? '').split(' ').includes(state.team);
+        if (match) total++;
+        const visible = match && (state.team !== 'all' || state.expanded || total <= FIRST);
+        li.hidden = !visible;
+        if (visible) shown++;
+      });
     });
-    document.querySelectorAll<HTMLElement>('[data-rail-panel]').forEach((p) => (p.hidden = p.dataset.railPanel !== id));
+    const dayName = dayBtns.find((b) => b.dataset.railDay === state.day)?.firstChild?.textContent ?? '';
+    const teamName = state.team === 'all' ? '전체 구단' : tabs.find((b) => b.dataset.railTeam === state.team)?.getAttribute('aria-label')?.split(',')[0] ?? '';
+    if (caption) caption.textContent = `${dayName} · ${teamName} 소식 ${total}건`;
+    if (empty) empty.hidden = total > 0;
+    if (more) {
+      more.hidden = !(state.team === 'all' && total > FIRST);
+      more.setAttribute('aria-expanded', String(state.expanded));
+      more.textContent = state.expanded ? '접기' : `전체 구단 소식 모두 보기 (${total}건)`;
+    }
   };
   tabs.forEach((b, i) => {
-    b.addEventListener('click', () => select(b.dataset.railTeam!));
+    b.addEventListener('click', () => { state.team = b.dataset.railTeam!; state.expanded = false; render(); });
     b.addEventListener('keydown', (e) => {
       if (e.key !== 'ArrowRight' && e.key !== 'ArrowLeft') return;
       const next = tabs[(i + (e.key === 'ArrowRight' ? 1 : tabs.length - 1)) % tabs.length];
-      select(next.dataset.railTeam!, true);
+      state.team = next.dataset.railTeam!; state.expanded = false; render(); next.focus();
     });
   });
-  // 처음에는 '전체'
-  select('all');
-  // '모두 보기': 그 자리에서 펼치기 / 접기
-  document.querySelectorAll<HTMLButtonElement>('[data-rail-more]').forEach((b) => {
-    const box = document.getElementById(b.getAttribute('aria-controls')!);
-    b.addEventListener('click', () => {
-      const open = b.getAttribute('aria-expanded') !== 'true';
-      b.setAttribute('aria-expanded', String(open));
-      if (box) box.hidden = !open;
-      b.textContent = open ? '접기' : b.dataset.labelOpen!;
-      if (!open) b.closest('.team-rail-panel')?.scrollIntoView({ block: 'start' });
-    });
+  dayBtns.forEach((b) => b.addEventListener('click', () => { state.day = b.dataset.railDay!; state.expanded = false; render(); }));
+  more?.addEventListener('click', () => {
+    state.expanded = !state.expanded;
+    render();
+    if (!state.expanded) document.getElementById('rail-panel')?.scrollIntoView({ block: 'start' });
   });
+  render();
 </script>
