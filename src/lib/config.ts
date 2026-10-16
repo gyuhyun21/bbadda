@@ -76,6 +76,28 @@ export function communitySection(): boolean {
   try { return load('site.yaml', siteSchema).community_section; } catch { return false; }
 }
 
+const standingsSchema = z.object({
+  label: z.string(),
+  as_of: z.union([z.string(), z.date()]).transform((d) => (typeof d === 'string' ? d : d.toISOString().slice(0, 10))),
+  source: z.string().url(),
+  teams: z.record(z.string(), z.object({ rank: z.number().int().min(1).max(10), streak: z.string().regex(/^\d+[승패무]$/, "'3승'·'2패' 형식") })),
+});
+/** 순위·연속(config/standings.yaml, 사람이 갱신). 파일이 없거나 형식이 틀리면 null — 화면은 순위 없이 기본 순서로. */
+export function loadStandings() {
+  try {
+    const s = load('standings.yaml', standingsSchema);
+    const ids = new Set(loadTeams().teams.map((t) => t.id));
+    const ranks = Object.values(s.teams).map((t) => t.rank);
+    if (Object.keys(s.teams).some((k) => !ids.has(k)) || new Set(ranks).size !== ranks.length) throw new Error('standings.yaml: 없는 팀 id 또는 순위 중복');
+    return s;
+  } catch (e) {
+    if ((e as Error).message.startsWith('standings.yaml')) throw e;
+    return null;
+  }
+}
+/** '3승' → '3연승', '1승' → '1승', '2패' → '2연패' */
+export const streakLabel = (s: string) => { const m = /^(\d+)([승패무])$/.exec(s); return !m ? s : Number(m[1]) >= 2 && m[2] !== '무' ? `${m[1]}연${m[2]}` : s; };
+
 const sourcesSchema = z.object({
   http: z.object({ user_agent: z.string(), min_interval_ms: z.number(), timeout_ms: z.number() }),
   max_per_team_per_run: z.record(z.string(), z.number().int().positive()).default({}),

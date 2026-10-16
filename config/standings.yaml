@@ -1,0 +1,17 @@
+# 순위·연속 기록 — 사람이 손으로 갱신한다.
+# KBO 공식 사이트 robots.txt: "본 사이트의 데이터를 사전 승인 없이 자동 수집·크롤링·복제하는 행위를 금지합니다." → 수집기·루틴이 자동으로 가져오지 않는다.
+# 갱신: 아래 출처 페이지를 사람이 보고 rank(순위)·streak(연속: '3승' = 3연승, '2패' = 2연패) 를 고친 뒤 as_of 를 바꾼다.
+label: 정규시즌 최종
+as_of: 2026-10-12
+source: https://www.koreabaseball.com/Record/TeamRank/TeamRankDaily.aspx
+teams:
+  kt: { rank: 1, streak: 10승 }
+  samsung: { rank: 2, streak: 4패 }
+  kia: { rank: 3, streak: 1승 }
+  lg: { rank: 4, streak: 1패 }
+  doosan: { rank: 5, streak: 2패 }
+  ssg: { rank: 6, streak: 1패 }
+  lotte: { rank: 7, streak: 2승 }
+  nc: { rank: 8, streak: 1승 }
+  hanwha: { rank: 9, streak: 2패 }
+  kiwoom: { rank: 10, streak: 1승 }
