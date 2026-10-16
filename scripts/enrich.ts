@@ -1,4 +1,4 @@
-// npm run enrich [-- --week=YYYY-Www] — 요약을 쓴 뉴스에 원 기사 주소·대표 이미지 주소를 채운다. 매일·주간 루틴에서 요약 뒤에 실행.
+// npm run enrich [-- --week=YYYY-Www] — 요약을 쓴 뉴스에 원 기사 주소·대표 이미지 주소를 채운다. 매일 갱신 루틴에서 요약 뒤에 실행.
 import { readFileSync, writeFileSync } from 'node:fs';
 import { join } from 'node:path';
 import { ROOT, loadSources } from '../src/lib/config.ts';

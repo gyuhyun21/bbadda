@@ -1,7 +1,7 @@
 // 사이트 공통 데이터 로더 · 라벨 · 헬퍼 (Astro 빌드 시점에 실행).
 import { getCollection, type CollectionEntry } from 'astro:content';
 import { loadTeams, type Team } from './config.ts';
-import type { Signal, Issue } from './schemas.ts';
+import type { Signal } from './schemas.ts';
 
 export const SHOW_DRAFT = process.env.SHOW_DRAFT === '1';
 export const SITE_NAME = 'BBADDA';
@@ -22,7 +22,7 @@ export const teamName = (id?: string) => (id ? teamById.get(id)?.name ?? id : 'K
 export const teamShort = (id?: string) => (id ? teamById.get(id)?.short ?? id : 'KBO');
 
 export type ColumnEntry = CollectionEntry<'columns'>;
-export type SiteData = { signals: Signal[]; byId: Map<string, Signal>; issues: Issue[]; columns: ColumnEntry[] };
+export type SiteData = { signals: Signal[]; byId: Map<string, Signal>; columns: ColumnEntry[] };
 
 /** 화면에 내보내는 신호: 요약을 쓴(편집을 거친) 것만. 수집만 되고 선별 전인 글은 보이지 않는다. */
 export const isReady = (s: Signal) => s.summary_ko.trim() !== '';
@@ -32,14 +32,12 @@ export function loadAll(): Promise<SiteData> {
   cache ??= (async () => {
     const all = (await getCollection('signals')).map((e) => e.data);
     const signals = all.filter(isReady);
-    const issues = (await getCollection('issues')).map((e) => e.data).filter((i) => SHOW_DRAFT || i.status === 'published').sort((a, b) => b.vol.localeCompare(a.vol));
     const columns = (await getCollection('columns')).filter((e) => SHOW_DRAFT || e.data.status === 'published').sort((a, b) => b.data.published_at.localeCompare(a.data.published_at));
-    return { signals, byId: new Map(all.map((s) => [s.id, s])), issues, columns };
+    return { signals, byId: new Map(all.map((s) => [s.id, s])), columns };
   })();
   return cache;
 }
 
-export const issueSignals = (d: SiteData, vol: string) => d.signals.filter((s) => s.issue === vol);
 export const ofTeam = (list: Signal[], id: string) => list.filter((s) => s.teams.includes(id));
 export const isCommunityPost = (s: Pick<Signal, 'source_type'>) => s.source_type === 'community';
 
@@ -62,14 +60,6 @@ export const fmtDate = (iso: string) => {
 };
 export const fmtNum = (n: number) => (n >= 10000 ? `${(n / 10000).toFixed(n >= 100000 ? 0 : 1)}만` : n.toLocaleString('ko-KR'));
 export const stripSample = (t: string) => t.replace(/^\[SAMPLE\]\s*/, '');
-/** 회차 이름: '2026-W43' → '2026년 43주차' */
-export const issueLabel = (vol: string) => { const [y, w] = vol.split('-W'); return `${y}년 ${Number(w)}주차`; };
-/** 기간: '10월 12일 ~ 10월 18일' (연도가 다르면 연도도) */
-export function periodLabel(start: string, end: string) {
-  const [ys, ms, ds] = start.slice(0, 10).split('-').map(Number);
-  const [ye, me, de] = end.slice(0, 10).split('-').map(Number);
-  return `${ys !== ye ? `${ys}년 ` : ''}${ms}월 ${ds}일 ~ ${ys !== ye ? `${ye}년 ` : ''}${me}월 ${de}일`;
-}
 /** 카드 제목: 한국어 제목이 있으면 그것, 없으면 원제 */
 export const displayTitle = (s: Signal) => stripSample(s.title_ko || s.title);
 export const shortTitle = (t: string, n = 38) => (stripSample(t).length > n ? stripSample(t).slice(0, n) + '…' : stripSample(t));

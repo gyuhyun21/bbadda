@@ -58,10 +58,10 @@
 키를 넣은 뒤에는 `npm run collect -- --only=<소스> --dry` 로 실측해 건수·잡음을 확인하고 필터를 조정한다.
 
 ## 3. 루틴 등록 (claude.ai)
-- 루틴 2개: `docs/routine.md` 의 프롬프트를 그대로 붙여 넣는다.
-  - 주간호: 매주 월 05:07 (Asia/Seoul)
+- 루틴 1개: `docs/routine.md` 의 프롬프트를 그대로 붙여 넣는다.
   - 매일 갱신: 매일 06:37 (Asia/Seoul)
-- 두 루틴 모두 위 클라우드 환경을 쓰고, GitHub 저장소 쓰기·PR 권한이 있어야 한다.
+- 환경은 `bbadda`, 저장소는 `gyuhyun21/bbadda`. GitHub 저장소 쓰기·PR 권한이 있어야 한다.
+- 환경의 설정 스크립트는 비워 둔다(설정 스크립트는 저장소 폴더 밖에서 돌아서 `npm ci` 가 실패한다). 설치는 루틴 안에서 한다.
 
 ## 4. Vercel 연결
 1. vercel.com → Add New → Project → GitHub 의 `gyuhyun21/bbadda` Import.

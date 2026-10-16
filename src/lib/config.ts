@@ -43,18 +43,18 @@ export function loadTeams() {
   return t;
 }
 
-const siteSchema = z.object({ layout: z.enum(['magazine', 'classic']).default('classic'), community_section: z.boolean().default(false), news_images: z.boolean().default(false), home: z.enum(['front', 'issue']).default('issue') });
+const siteSchema = z.object({ layout: z.enum(['magazine', 'classic']).default('classic'), community_section: z.boolean().default(false), news_images: z.boolean().default(false), home: z.enum(['front', 'simple']).default('simple') });
 /** 화면 레이아웃(config/site.yaml). 환경변수 SITE_LAYOUT 이 우선. 파일이 없으면 classic. */
 export function siteLayout(): 'magazine' | 'classic' {
   const env = process.env.SITE_LAYOUT;
   if (env === 'magazine' || env === 'classic') return env;
   try { return load('site.yaml', siteSchema).layout; } catch { return 'classic'; }
 }
-/** 첫 화면: front(매일 바뀌는 스포츠 1면) | issue(최신 주간호). 환경변수 SITE_HOME 이 우선. 파일이 없으면 issue. */
-export function homeLayout(): 'front' | 'issue' {
+/** 첫 화면: front(매일 바뀌는 스포츠 1면) | simple(팀 선택 + 최근 소식 격자, 이전 화면). 환경변수 SITE_HOME 이 우선. 파일이 없으면 simple. */
+export function homeLayout(): 'front' | 'simple' {
   const env = process.env.SITE_HOME;
-  if (env === 'front' || env === 'issue') return env;
-  try { return load('site.yaml', siteSchema).home; } catch { return 'issue'; }
+  if (env === 'front' || env === 'simple') return env;
+  try { return load('site.yaml', siteSchema).home; } catch { return 'simple'; }
 }
 /** 뉴스 사진(원 매체 대표 이미지를 원 주소로 표시). 환경변수 SITE_NEWS_IMAGES=on|off 가 우선. 파일이 없으면 끔. */
 export function newsImages(): boolean {

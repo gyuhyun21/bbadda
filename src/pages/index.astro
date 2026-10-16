@@ -1,6 +1,5 @@
 ---
 import Layout from '../components/Layout.astro';
-import IssueView from '../components/IssueView.astro';
 import FrontPage from '../components/FrontPage.astro';
 import SignalCard from '../components/SignalCard.astro';
 import TeamPicker from '../components/TeamPicker.astro';
@@ -8,12 +7,11 @@ import TeamChip from '../components/TeamChip.astro';
 import { homeLayout } from '../lib/config.ts';
 import { TEAMS, loadAll, ofTeam, recent, hot } from '../lib/site.ts';
 const data = await loadAll();
-const issue = data.issues[0];
-// 되돌리기: config/site.yaml home: issue (환경변수 SITE_HOME 우선)
+// 되돌리기: config/site.yaml home: simple (환경변수 SITE_HOME 우선)
 const front = homeLayout() === 'front';
 const latestLeague = recent(data.signals, 7, 12).sort(hot).slice(0, 12);
 ---
-<Layout sample={issue?.sample ?? data.signals.some((s) => s.sample)} searchable={false}>
+<Layout sample={data.signals.some((s) => s.sample)} searchable={false}>
   {front ? <FrontPage /> : (
     <>
       <TeamPicker />
@@ -26,12 +24,8 @@ const latestLeague = recent(data.signals, 7, 12).sort(hot).slice(0, 12);
           </section>
         );
       })}
-      {issue ? <IssueView issue={issue} /> : (
-        <>
-          <div class="masthead"><h1>BBADDA <em>빠따닷컴</em></h1><p class="page-lead">KBO 10개 구단 소식을 매일 아침 팀별로 정리합니다.</p></div>
-          {latestLeague.length > 0 && <section class="block"><div class="block-head"><h2>최근 소식</h2></div><div class="grid">{latestLeague.map((s) => <SignalCard signal={s} />)}</div></section>}
-        </>
-      )}
+      <div class="masthead"><h1>BBADDA <em>빠따닷컴</em></h1><p class="page-lead">KBO 10개 구단 소식을 매일 아침 팀별로 정리합니다.</p></div>
+      {latestLeague.length > 0 && <section class="block"><div class="block-head"><h2>최근 소식</h2></div><div class="grid">{latestLeague.map((s) => <SignalCard signal={s} />)}</div></section>}
     </>
   )}
 </Layout>

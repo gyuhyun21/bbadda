@@ -1,6 +1,6 @@
 ---
 // 빌드 시 만드는 타이포 커버. 뉴스 사진은 쓰지 않는다.
-import { wrapTitle, displayTitle, MODULE_LABEL, teamShort, teamColor } from '../lib/site.ts';
+import { fmtDate, wrapTitle, displayTitle, MODULE_LABEL, teamShort, teamColor } from '../lib/site.ts';
 import type { Signal } from '../lib/schemas.ts';
 interface Props { signal: Signal; big?: boolean }
 const { signal, big = false } = Astro.props;
@@ -13,5 +13,5 @@ const size = big ? 30 : 25;
   <text x="24" y="44" class="cover-label">{MODULE_LABEL[signal.module]}</text>
   <text x="376" y="44" class="cover-label" text-anchor="end">{teamShort(signal.team)}</text>
   {lines.map((l, i) => <text x="24" y={96 + i * (size + 8)} class="cover-title" font-size={size}>{l}</text>)}
-  <text x="24" y="280" class="cover-issue">{signal.issue.replace(/^\d{4}-W/, 'W')}{signal.sample ? ' · SAMPLE' : ''}</text>
+  <text x="24" y="280" class="cover-issue">{fmtDate(signal.published_at)}{signal.sample ? ' · SAMPLE' : ''}</text>
 </svg>

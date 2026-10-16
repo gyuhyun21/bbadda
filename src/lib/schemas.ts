@@ -13,6 +13,7 @@ const dateStr = z.union([z.string(), z.date()]).transform((d) => (typeof d === '
 
 export const signalSchema = z.object({
   id: z.string().min(1),
+  // 보관 폴더(주 단위, src/content/signals/<YYYY-Www>/). 화면은 날짜 기준이라 이 값은 보관용이다.
   issue: weekId,
   module: z.enum(MODULES),
   // 대표 팀(제목에서 가장 먼저 나온 팀). 리그 전체 소식은 없을 수 있다.
@@ -50,21 +51,6 @@ export const signalSchema = z.object({
   sample: z.boolean().optional(),
 });
 export type Signal = z.infer<typeof signalSchema>;
-
-export const issueSchema = z.object({
-  vol: weekId,
-  title: z.string(),
-  published_at: dateStr,
-  period_start: dateStr,
-  period_end: dateStr,
-  cover_signals: z.array(z.string()).max(8),
-  brief: z.array(z.object({ text: z.string().min(1), evidence: z.array(z.string()).min(1), team: z.string().optional() })).length(3),
-  // 에디토리얼: 첫 줄 요지 + '- **머리말** 설명' 목록, 모듈당 6줄 이내
-  editorial: z.object({ league: z.string().optional(), teams: z.record(z.string(), z.string()).default({}), community: z.string().optional() }).default({ teams: {} }),
-  status: z.enum(['draft', 'published']),
-  sample: z.boolean().optional(),
-});
-export type Issue = z.infer<typeof issueSchema>;
 
 export const columnSchema = z.object({
   title: z.string(),

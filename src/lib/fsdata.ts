@@ -1,4 +1,4 @@
-// 파일시스템에서 콘텐츠를 읽는 헬퍼 (Astro 밖 스크립트용: collect / draft / validate).
+// 파일시스템에서 콘텐츠를 읽는 헬퍼 (Astro 밖 스크립트용: collect / enrich / validate).
 import { readdirSync, readFileSync, existsSync, statSync } from 'node:fs';
 import { join } from 'node:path';
 import { parse } from 'yaml';
@@ -37,4 +37,4 @@ export function readMarkdownDir(dir: string): Loaded<unknown>[] {
   });
 }
 
-export const contentDir = (root: string, kind: 'signals' | 'issues' | 'columns') => join(root, 'src', 'content', kind);
+export const contentDir = (root: string, kind: 'signals' | 'columns') => join(root, 'src', 'content', kind);
