@@ -130,3 +130,29 @@ test('공식발표: 언론 제목의 [오피셜]·[공식발표]', async () => {
   const r = raw('[오피셜] NC 신인 계약');
   assert.equal(toSignal(r, classify(r, cfg)!, '2026-W43', NOW, cfg).announcement, true);
 });
+
+import { gnewsArticleId } from '../scripts/collect/gnews_decode.ts';
+import { extractOgImage } from '../scripts/collect/og_image.ts';
+import { enrichSignals, robotsAllows } from '../scripts/collect/enrich.ts';
+test('사진 보강: 구글 뉴스 id, og:image(상대 주소·http→https), robots.txt', () => {
+  assert.equal(gnewsArticleId('https://news.google.com/rss/articles/CBMiABC?oc=5'), 'CBMiABC');
+  assert.equal(gnewsArticleId('https://example.com/a'), null);
+  assert.equal(extractOgImage('<meta property="og:image" content="/img/a.jpg">', 'https://news.example.com/x/1'), 'https://news.example.com/img/a.jpg');
+  assert.equal(extractOgImage('<meta content="http://cdn.example.com/b.jpg" property="og:image">', 'https://e.com'), 'https://cdn.example.com/b.jpg');
+  assert.equal(extractOgImage('<title>x</title>', 'https://e.com'), null);
+  assert.equal(robotsAllows('User-agent: *\nDisallow: /private', '/private/1'), false);
+  assert.equal(robotsAllows('User-agent: GPTBot\nDisallow: /\nUser-agent: *\nDisallow:', '/news/1'), true);
+});
+test('사진 보강: 요약을 쓴 뉴스만, 이미지 주소만 저장', async () => {
+  const base = { issue: '2026-W43', module: 'team' as const, team: 'lg', teams: ['lg'], source_type: 'news' as const, source_name: '예시일보', title: 't', published_at: '2026-10-15T00:00:00Z', collected_at: '2026-10-16T00:00:00Z', metrics: {}, scores: { hot: 50, relevance: 50 }, sentiment: 'neutral' as const };
+  const fetched: string[] = [];
+  const fetchText: Ctx['fetchText'] = async (url) => { fetched.push(url); if (url.endsWith('/robots.txt')) return 'User-agent: *\nDisallow: /admin'; return '<meta property="og:image" content="https://img.example.com/p.jpg">'; };
+  const { signals, log } = await enrichSignals({ now: NOW, env: {}, log: () => {}, fetchText }, [
+    { ...base, id: 'a', url: 'https://news.example.com/a', summary_ko: '요약.' },
+    { ...base, id: 'b', url: 'https://news.example.com/b', summary_ko: '' },
+  ], { resolve_google_news: true, og_image: true, max_items: 10 });
+  assert.equal(signals[0].image, 'https://img.example.com/p.jpg');
+  assert.equal(signals[1].image, undefined);
+  assert.equal(log.images, 1);
+  assert.ok(!fetched.includes('https://news.example.com/b'));
+});

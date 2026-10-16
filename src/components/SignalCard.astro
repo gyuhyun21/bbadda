@@ -3,14 +3,24 @@ import TypoCover from './TypoCover.astro';
 import TeamChip from './TeamChip.astro';
 import { MODULE_LABEL, SOURCE_LABEL, SENTIMENT_LABEL, SLANG_TITLE, displayTitle, fmtDate, fmtNum, isToday, stripSample, youtubeId } from '../lib/site.ts';
 import type { Signal } from '../lib/schemas.ts';
+import { newsImages } from '../lib/config.ts';
 interface Props { signal: Signal; big?: boolean; showModule?: boolean }
 const { signal: s, big = false, showModule = true } = Astro.props;
 const yt = s.source_type === 'youtube' ? youtubeId(s.url) : undefined;
+// 뉴스 사진: config/site.yaml news_images(환경변수 SITE_NEWS_IMAGES 우선)가 켜져 있을 때만 원 매체 주소로 표시
+const img = !yt && newsImages() ? s.image : undefined;
 ---
 <article class={`card${s.official ? ' card--official' : ''}`} data-card data-module={s.module} data-teams={s.teams.join(' ')}>
-  <a class="card-visual" href={s.url} target="_blank" rel="noopener noreferrer" aria-label={`원문 열기: ${displayTitle(s)}`} tabindex="-1">
-    {/* 이미지는 공식 YouTube 썸네일만. 그 밖에는 타이포 커버 */}
-    {yt ? <img src={`https://i.ytimg.com/vi/${yt}/hqdefault.jpg`} alt="" loading="lazy" width="480" height="360" /> : <TypoCover signal={s} big={big} />}
+  <a class={`card-visual${img ? ' has-img' : ''}`} href={s.url} target="_blank" rel="noopener noreferrer" aria-label={`원문 열기: ${displayTitle(s)}`} tabindex="-1">
+    {yt ? <img src={`https://i.ytimg.com/vi/${yt}/hqdefault.jpg`} alt="" loading="lazy" width="480" height="360" />
+      : img ? (
+        <>
+          {/* 원 기사 대표 사진을 원 매체 서버에서 표시(저장하지 않음). 불러오지 못하면 글자 커버로 바꾼다 */}
+          <img class="og" src={img} alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer" width="480" height="360" title={`사진 출처: ${s.source_name}`} onerror="this.hidden=true;this.nextElementSibling.hidden=false;this.parentElement.classList.remove('has-img')" />
+          <span class="cover-fallback" hidden><TypoCover signal={s} big={big} /></span>
+          <span class="img-credit">{s.source_name}</span>
+        </>
+      ) : <TypoCover signal={s} big={big} />}
   </a>
   <div class="meta">
     {s.teams.map((t) => <TeamChip id={t} short />)}

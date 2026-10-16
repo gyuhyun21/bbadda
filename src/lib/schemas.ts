@@ -41,6 +41,8 @@ export const signalSchema = z.object({
   quote: z.string().optional(),
   // 수집된 글에 쓰인 팬 은어(일부러 찾지 않는다)
   slang: z.string().optional(),
+  // 원 기사의 대표 이미지 주소(og:image). 파일은 저장하지 않고 원 매체 서버 주소로 표시한다.
+  image: z.string().url().optional(),
   also_in: z.array(z.object({ source_name: z.string(), url: z.string().url() })).optional(),
   metrics: z.object({ views: z.number().optional(), likes: z.number().optional(), comments: z.number().optional() }).default({}),
   scores: z.object({ hot: score, relevance: score }),
