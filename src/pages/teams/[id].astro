@@ -3,7 +3,7 @@ import Layout from '../../components/Layout.astro';
 import SignalCard from '../../components/SignalCard.astro';
 import SignalList from '../../components/SignalList.astro';
 import TeamChip from '../../components/TeamChip.astro';
-import { MODULE_LABEL, SLANG_TITLE, TEAMS, loadAll, ofTeam, recent, hot, newest, issueLabel, periodLabel, firstLine, teamColor, daysOf, onDay, dayLabel } from '../../lib/site.ts';
+import { MODULE_LABEL, SLANG_TITLE, TEAMS, loadAll, ofTeam, recent, hot, newest, teamColor, daysOf, onDay, dayLabel } from '../../lib/site.ts';
 import type { Team } from '../../lib/config.ts';
 export function getStaticPaths() { return TEAMS.map((t) => ({ params: { id: t.id }, props: { team: t } })); }
 const { team: t } = Astro.props as { team: Team };
@@ -14,7 +14,6 @@ const official = mine.filter((s) => s.official).sort(newest).slice(0, 12);
 const fans = recent(mine.filter((s) => s.module === 'fans'), 14).sort(hot);
 const slang = [...new Map(mine.filter((s) => s.slang).map((s) => [s.slang!, s])).values()];
 const teamDays = daysOf(mine);
-const past = data.issues.filter((i) => i.editorial.teams[t.id] || data.signals.some((s) => s.issue === i.vol && s.teams.includes(t.id)));
 ---
 <Layout title={t.name} description={`${t.name} 최근 소식, 공식 영상, 팬 반응`} sample={mine.some((s) => s.sample)}>
   <section class="team-hero" style={`--team:${teamColor(t.id)}`}>
@@ -57,12 +56,6 @@ const past = data.issues.filter((i) => i.editorial.teams[t.id] || data.signals.s
     <section class="block" aria-labelledby="h-team-days" data-pagefind-ignore>
       <div class="block-head"><h2 id="h-team-days">날짜별</h2></div>
       <ul class="day-chips">{teamDays.slice(0, 14).map((d) => <li><a href={`/days/${d}/#team-${t.id}`}><strong>{dayLabel(d)}</strong><span class="small">{onDay(mine, d).length}건</span></a></li>)}</ul>
-    </section>
-  )}
-  {past.length > 0 && (
-    <section class="block" aria-labelledby="h-past" data-pagefind-ignore>
-      <div class="block-head"><h2 id="h-past">지난 호에서</h2></div>
-      {past.map((i) => <a class="issue-row" href={`/issues/${i.vol}#team-${t.id}`}><strong>{issueLabel(i.vol)}</strong><span>{firstLine(i.editorial.teams[t.id]) || periodLabel(i.period_start, i.period_end)}</span><span class="small">{periodLabel(i.period_start, i.period_end)}</span></a>)}
     </section>
   )}
   <p class="small other-teams">다른 팀: {TEAMS.filter((x) => x.id !== t.id).map((x) => <TeamChip id={x.id} short href={`/teams/${x.id}`} />)}</p>

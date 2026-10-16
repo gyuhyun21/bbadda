@@ -22,17 +22,16 @@ Node 22.12+ 필요.
 | `config/teams.yaml` | 10개 구단: id, 이름, 짧은 이름, 연고지, 팀 컬러(TODO), 공식 사이트·YouTube·인스타그램(확인한 것만), 뉴스 검색어, 별칭 |
 | `config/site.yaml` | 화면 스위치: `layout`(magazine/classic), `community_section`, `news_images`(뉴스 사진 원 주소 표시, 환경변수 `SITE_NEWS_IMAGES=on|off` 우선) |
 
-**레이아웃 되돌리기**: `config/site.yaml` 의 `layout: magazine` 을 `classic` 으로 바꿔 머지하면 단순 지면 화면으로 돌아간다. 매거진 규칙은 모두 `src/styles/magazine.css` 의 `.layout-magazine` 아래에만 있다. 배포 환경변수 `SITE_LAYOUT` 이 파일 값보다 우선한다. 커뮤니티 섹션은 `community_section`(환경변수 `SITE_COMMUNITY=on|off`). 첫 화면은 `home: front|issue`(환경변수 `SITE_HOME` 우선).
+**레이아웃 되돌리기**: `config/site.yaml` 의 `layout: magazine` 을 `classic` 으로 바꿔 머지하면 단순 지면 화면으로 돌아간다. 매거진 규칙은 모두 `src/styles/magazine.css` 의 `.layout-magazine` 아래에만 있다. 배포 환경변수 `SITE_LAYOUT` 이 파일 값보다 우선한다. 커뮤니티 섹션은 `community_section`(환경변수 `SITE_COMMUNITY=on|off`). 첫 화면은 `home: front|simple`(환경변수 `SITE_HOME` 우선).
 
 ## 화면
 
 | 주소 | 내용 |
 |---|---|
-| `/` | `home: front`(기본): 오늘의 헤드라인 → 내 팀 → 10개 구단 한눈에 → 가을야구·스토브리그(시즌별 제목) → 오피셜 영상 → 팬 반응 → 날짜별 소식. `home: issue`: 최신 주간호 |
+| `/` | `home: front`(기본): 오늘의 헤드라인 → 내 팀 → 10개 구단 한눈에 → 가을야구·스토브리그(시즌별 제목) → 오피셜 영상 → 팬 반응 → 날짜별 소식. `home: simple`: 팀 선택 + 최근 소식 격자 |
 | `/days/<날짜>` | 그날 게시된 소식: 리그·라이벌 → 팀별(내 팀이 맨 위), 전날·다음 날 넘기기 |
-| `/teams/<id>` | 팀 페이지: 최근 소식(매일 갱신), 공식 채널 영상, 팬 반응, 은어, 지난 호 |
-| `/issues/<주차>` | 주간호: 헤드라인 → Editor's Brief → 리그 전체 → 팀별 섹션(접기, 내 팀이 맨 위) → Community |
-| `/archive`, `/search`, `/about` | 날짜별 소식(월별)과 주간호 목록, 검색(Pagefind), 소개 |
+| `/teams/<id>` | 팀 페이지: 오피셜, 최근 소식(매일 갱신), 팬 반응, 은어, 날짜별 |
+| `/archive`, `/search`, `/about` | 날짜별 소식(월별), 검색(Pagefind), 소개 |
 
 - 내 팀: 팀 칩을 누르면 브라우저 localStorage(`bbadda:myTeam`)에 저장. 막혀 있으면 기본 화면.
 - 요약(`summary_ko`)이 없는 signal 은 화면에 나오지 않는다(선별 전 수집분).
@@ -41,10 +40,10 @@ Node 22.12+ 필요.
 ## 수집
 
 ```bash
-npm run collect                          # 모으는 호(월 06시 전 = 이번 주 호, 그 뒤 = 다음 월요일 호)에 저장
+npm run collect                          # src/content/signals/<YYYY-Www>/ 에 저장(주 단위 보관 폴더)
 npm run collect -- --only=news_rss --dry # 한 소스만, 저장 없이
-npm run collect -- --week=2026-W43 --as-of=2026-10-19T05:07:00+09:00   # 지난 호를 나중에 만들 때
-npm run draft                            # 주간호 골격(TODO) + 후보
+npm run collect -- --week=2026-W43 --as-of=2026-10-16T06:37:00+09:00   # 지난 날짜를 나중에 채울 때
+npm run enrich                           # 요약한 뉴스에 원 기사 주소·대표 사진 주소
 ```
 
 | 소스 | 키 | 비고 |

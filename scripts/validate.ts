@@ -2,16 +2,14 @@
 import { basename, dirname, relative } from 'node:path';
 import { loadTeams } from '../src/lib/config.ts';
 import { readJsonDir, readMarkdownDir, contentDir } from '../src/lib/fsdata.ts';
-import { signalSchema, issueSchema, columnSchema, type Signal } from '../src/lib/schemas.ts';
+import { signalSchema, columnSchema, type Signal } from '../src/lib/schemas.ts';
 
 export const MAX_QUOTE_WORDS = 15;
-export const MAX_EDITORIAL_LINES = 6;
 
 export type Report = { errors: string[]; warnings: string[]; counts: Record<string, number> };
 
 export const wordCount = (s: string) => s.trim().split(/\s+/).filter(Boolean).length;
 export const sentenceCount = (s: string) => s.split(/(?<=[.!?。！？])\s+|(?<=다\.)\s*/).filter((x) => x.trim()).length;
-export const lineCount = (s: string) => s.split('\n').filter((l) => l.trim()).length;
 
 /** 본문에서 따옴표·인용 블록 발췌를 찾아 15단어 초과인 것을 돌려준다 */
 export function longQuotes(body: string): string[] {
@@ -62,33 +60,6 @@ export function validateAll(root: string): Report {
     if (!s) return err(file, `${owner}: 없는 signal id "${id}"`);
     if (!s.summary_ko.trim()) err(file, `${owner}: signal "${id}" 의 summary_ko 가 비어 있습니다(인용되는 signal 은 요약 필수)`);
   };
-  const checkEditorial = (file: string, where: string, text?: string) => {
-    if (!text) return;
-    if (lineCount(text) > MAX_EDITORIAL_LINES) err(file, `${where} 에디토리얼이 ${MAX_EDITORIAL_LINES}줄을 넘습니다`);
-    for (const q of longQuotes(text)) err(file, `${where}: 인용이 ${MAX_QUOTE_WORDS}단어를 넘습니다: "${q.slice(0, 30)}…"`);
-  };
-
-  // ── issues
-  const issues = readMarkdownDir(contentDir(root, 'issues'));
-  for (const { file, data } of issues) {
-    const p = issueSchema.safeParse(data);
-    if (!p.success) { err(file, schemaMsg(p.error)); continue; }
-    const i = p.data;
-    if (JSON.stringify(data).includes('TODO')) err(file, 'TODO 가 남아 있습니다');
-    if (basename(file, '.md') !== i.vol) err(file, `파일명과 vol(${i.vol})이 다릅니다`);
-    i.cover_signals.forEach((id) => needSummary(id, 'cover_signals', file));
-    i.brief.forEach((b, n) => {
-      b.evidence.forEach((id) => needSummary(id, `brief[${n}]`, file));
-      if (b.team && !teamIds.has(b.team)) err(file, `brief[${n}]: 없는 팀 id ${b.team}`);
-    });
-    checkEditorial(file, 'league', i.editorial.league);
-    checkEditorial(file, 'community', i.editorial.community);
-    for (const [t, text] of Object.entries(i.editorial.teams)) {
-      if (!teamIds.has(t)) err(file, `editorial.teams: 없는 팀 id ${t}`);
-      checkEditorial(file, `teams.${t}`, text);
-    }
-  }
-
   // ── columns
   const columns = readMarkdownDir(contentDir(root, 'columns'));
   for (const { file, data, body = '' } of columns) {
@@ -104,7 +75,7 @@ export function validateAll(root: string): Report {
   const sampleCount = [...signals.values()].filter((s) => s.sample).length;
   if (sampleCount > 0 && sampleCount < signals.size) warnings.push('샘플 데이터와 실데이터가 섞여 있습니다.');
 
-  return { errors, warnings, counts: { signals: signals.size, issues: issues.length, columns: columns.length } };
+  return { errors, warnings, counts: { signals: signals.size, columns: columns.length } };
 }
 
 if (process.argv[1] && /validate\.ts$/.test(process.argv[1])) {
@@ -115,5 +86,5 @@ if (process.argv[1] && /validate\.ts$/.test(process.argv[1])) {
     console.error(`\nvalidate 실패: 오류 ${r.errors.length}건`);
     process.exit(1);
   }
-  console.log(`validate 통과 — signals ${r.counts.signals}, issues ${r.counts.issues}, columns ${r.counts.columns}`);
+  console.log(`validate 통과 — signals ${r.counts.signals}, columns ${r.counts.columns}`);
 }

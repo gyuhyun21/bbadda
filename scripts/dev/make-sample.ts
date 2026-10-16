@@ -2,14 +2,13 @@
 // 실행: npx tsx scripts/dev/make-sample.ts
 import { mkdirSync, writeFileSync } from 'node:fs';
 import { join } from 'node:path';
-import { stringify } from 'yaml';
 import { loadTeams } from '../../src/lib/config.ts';
-import { collectingIssueId, periodOfIssue, addWeeks } from '../../src/lib/week.ts';
+import { collectingIssueId, addWeeks } from '../../src/lib/week.ts';
 
 const teams = loadTeams().teams.map((t) => t.id);
 const now = new Date();
-const cur = collectingIssueId(now); // 진행 중인 호(매일 갱신분)
-const last = addWeeks(cur, -1); // 발행된 SAMPLE 호
+const cur = collectingIssueId(now);
+const last = addWeeks(cur, -1);
 const modules = ['team', 'team', 'fans', 'team', 'rivalry', 'league'] as const;
 const sources = ['news', 'news', 'youtube', 'news', 'news', 'news'] as const;
 let n = 0;
@@ -38,19 +37,6 @@ const make = (issue: string, ageDays: number) => {
   }));
   return ids;
 };
-const ids = make(last, 3);
+make(last, 3);
 make(cur, 0);
-const { start, end } = periodOfIssue(last);
-const issue = {
-  vol: last, title: `[SAMPLE] BBADDA ${last}`, published_at: end, period_start: start, period_end: end,
-  cover_signals: ids.slice(0, 6), brief: [0, 1, 2].map((i) => ({ text: `SAMPLE 브리프 ${i + 1} — 무엇이 일어났나 → 왜 중요한가(예시).`, evidence: [ids[i * 3]] })),
-  editorial: {
-    league: 'SAMPLE 리그 요지 한 줄(예시)\n- **일정** 예시 설명\n- **흥행** 예시 설명',
-    teams: Object.fromEntries(teams.map((t) => [t, `SAMPLE ${t.toUpperCase()} 이번 주 요지(예시)\n- **팀 소식** 예시 설명\n- **팬 반응** 예시 설명`])),
-    community: 'SAMPLE 커뮤니티 요지(예시)',
-  },
-  status: 'published', sample: true,
-};
-mkdirSync('src/content/issues', { recursive: true });
-writeFileSync(`src/content/issues/${last}.md`, `---\n${stringify(issue)}---\n`);
-console.log(`SAMPLE: 호 ${last}, 진행 중 ${cur}`);
+console.log(`SAMPLE: 보관 폴더 ${last}, ${cur}`);

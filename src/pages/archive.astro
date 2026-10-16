@@ -1,7 +1,7 @@
 ---
-// 날짜별 소식(매일 갱신의 기록) + 주간호
+// 날짜별 소식(매일 갱신의 기록)
 import Layout from '../components/Layout.astro';
-import { loadAll, fmtDate, issueSignals, issueLabel, periodLabel, daysOf, onDay, dayLabel } from '../lib/site.ts';
+import { loadAll, daysOf, onDay, dayLabel } from '../lib/site.ts';
 const data = await loadAll();
 const days = daysOf(data.signals);
 const months = [...new Set(days.map((d) => d.slice(0, 7)))];
@@ -18,12 +18,4 @@ const months = [...new Set(days.map((d) => d.slice(0, 7)))];
     </section>
   ))}
   {days.length === 0 && <p class="empty-hint">아직 소식이 없습니다.</p>}
-  {data.issues.length > 0 && (
-    <section class="block" aria-labelledby="h-issues">
-      <h2 class="year" id="h-issues">주간호</h2>
-      {data.issues.map((i) => (
-        <a class="issue-row" href={`/issues/${i.vol}`}><strong>{issueLabel(i.vol)}</strong><span>{periodLabel(i.period_start, i.period_end)}{i.sample ? ' (SAMPLE)' : ''}</span><span class="small">{fmtDate(i.published_at)} · 소식 {issueSignals(data, i.vol).length}건</span></a>
-      ))}
-    </section>
-  )}
 </Layout>
