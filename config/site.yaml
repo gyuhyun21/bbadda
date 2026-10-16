@@ -1,8 +1,8 @@
 # 사이트 화면 설정
-# layout: apple(애플 디자인 지침 적용, 2026-10-17 도입) | magazine(이전 화면, 애플 뉴스룸풍) | classic(단순 지면).
-#   마음에 들지 않으면 이 한 줄을 magazine 으로 바꿔 머지하면 이전 화면으로 돌아간다.
+# layout: soft(apple + 누르는 요소에만 뉴모피즘, 구단 레일, 2026-10-17 도입) | apple(애플 디자인 지침) | magazine | classic.
+#   마음에 들지 않으면 이 한 줄을 apple 로 바꿔 머지하면 바로 이전 화면으로 돌아간다.
 #   배포 환경변수 SITE_LAYOUT 이 있으면 이 값보다 우선한다.
-layout: apple
+layout: soft
 # community_section: 커뮤니티 검색 글을 모은 작은 Community 섹션. false 면 팬 반응 모듈에 섞는다.
 #   환경변수 SITE_COMMUNITY=on|off 가 우선.
 community_section: true
@@ -12,3 +12,7 @@ home: front
 # news_images: 뉴스 카드에 원 기사의 대표 사진을 원 매체 주소로 표시(파일은 저장하지 않음, 사진 위에 매체명 표기).
 #   false 로 바꾸면 사진 없이 글자 커버만 쓴다. 배포 환경변수 SITE_NEWS_IMAGES=on|off 가 우선(저장소 주인 결정, 2026-10-16).
 news_images: true
+# article_modal: 기사를 누르면 새 탭 대신 사이트 안 모달 브라우저로 연다(배경 흐림, 닫기·✕·Esc). false 면 새 탭. 환경변수 SITE_MODAL=on|off 우선(2026-10-17 도입).
+#   YouTube·Instagram 은 공식 퍼가기 화면으로 연다. 아래 매체는 다른 사이트 안에 띄우는 것을 막아 두어(2026-10-17 확인) 요약과 '원문 보기'만 보여 준다.
+article_modal: true
+modal_blocked_hosts: [mt.co.kr, starnewskorea.com]

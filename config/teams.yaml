@@ -1,7 +1,8 @@
 # KBO 10개 구단 (2026 시즌)
 # 출처: KBO 공식 구단정보 https://www.koreabaseball.com/Kbo/League/TeamInfo.aspx (2026-10-16 확인 — 팀명·연고지·홈페이지)
 #       KBO 팀 순위 https://www.koreabaseball.com/Record/TeamRank/TeamRankDaily.aspx (2026-10-16 확인 — 짧은 이름)
-# color: 구단 브랜드 가이드 출처를 확인하기 전까지 null(화면은 중립색). 채울 때 출처 URL을 주석으로 남긴다.
+# color: 구단 공식 사이트가 실제로 쓰는 대표색을 추출해 넣는다(저장소 주인 결정, 2026-10-17). 공식 HEX 를 밝힌 자료는 없어 '추출'임을 주석에 남긴다.
+#   근거가 될 색이 없는 구단은 null(중립색).
 # youtube / instagram: 구단 홈페이지에 걸린 링크로 확인한 것만. 확인 전에는 null(TODO).
 # aliases: 제목에 있으면 그 팀 기사로 본다. weak_aliases: 기업·지역 기사와 겹치는 짧은 이름이라 제목에 야구 단어(scoring.yaml baseball_terms)가 함께 있어야 인정.
 # exclude_any: 제목이 이 정규식에 맞으면 그 팀 기사로 보지 않는다(모기업·계열사 기사).
@@ -11,7 +12,7 @@ teams:
     name: LG 트윈스
     short: LG
     city: 서울
-    color: null # TODO
+    color: "#E6002D" # 출처: https://www.lgtwins.com 화면에서 가장 넓게 쓰인 색(2026-10-17 추출, 저장소 주인 결정)
     website: https://www.lgtwins.com
     youtube: https://www.youtube.com/c/LGTwinsTV # 출처: lgtwins.com 하단 링크 (2026-10-16)
     instagram: https://www.instagram.com/lgtwinsbaseballclub/ # 출처: lgtwins.com 하단 링크 (2026-10-16)
@@ -23,7 +24,7 @@ teams:
     name: 한화 이글스
     short: 한화
     city: 대전
-    color: null # TODO
+    color: "#F37321" # 출처: https://www.hanwhaeagles.co.kr 화면에서 가장 넓게 쓰인 색(2026-10-17 추출, 저장소 주인 결정)
     website: https://www.hanwhaeagles.co.kr
     youtube: https://www.youtube.com/channel/UCdq4Ji3772xudYRUatdzRrg # 출처: hanwhaeagles.co.kr 링크 (2026-10-16)
     instagram: https://www.instagram.com/hanwhaeagles_soori/ # 출처: hanwhaeagles.co.kr 링크 (2026-10-16)
@@ -35,7 +36,7 @@ teams:
     name: SSG 랜더스
     short: SSG
     city: 인천
-    color: null # TODO
+    color: "#CF0021" # 출처: https://www.ssglanders.com 화면에서 가장 넓게 쓰인 색(2026-10-17 추출, 저장소 주인 결정)
     website: https://www.ssglanders.com
     youtube: https://www.youtube.com/c/SSGLANDERS # 출처: ssglanders.com 하단 링크 (2026-10-16)
     instagram: https://www.instagram.com/ssglanders.incheon/ # 출처: ssglanders.com 하단 링크 (2026-10-16)
@@ -59,7 +60,7 @@ teams:
     name: NC 다이노스
     short: NC
     city: 창원
-    color: null # TODO
+    color: "#061D3D" # 출처: https://www.ncdinos.com 화면에서 가장 넓게 쓰인 색(2026-10-17 추출, 저장소 주인 결정)
     website: https://www.ncdinos.com
     youtube: http://www.youtube.com/user/ncdinos # 출처: ncdinos.com 하단 링크 (2026-10-16)
     instagram: http://www.instagram.com/ncdinos2011 # 출처: ncdinos.com 하단 링크 (2026-10-16)
@@ -71,7 +72,7 @@ teams:
     name: KT 위즈
     short: KT
     city: 수원
-    color: null # TODO
+    color: "#EA0114" # 출처: https://www.ktwiz.co.kr 화면에서 가장 넓게 쓰인 색(2026-10-17 추출, 저장소 주인 결정)
     website: https://www.ktwiz.co.kr
     youtube: https://www.youtube.com/c/ktwiztv # 출처: ktwiz.co.kr 링크 (2026-10-16)
     instagram: https://www.instagram.com/ktwiz.pr/ # 출처: ktwiz.co.kr 링크 (2026-10-16)
@@ -83,7 +84,7 @@ teams:
     name: 롯데 자이언츠
     short: 롯데
     city: 부산
-    color: null # TODO
+    color: "#05182F" # 출처: https://www.giantsclub.com 화면에서 가장 넓게 쓰인 색(2026-10-17 추출, 저장소 주인 결정)
     website: https://www.giantsclub.com
     youtube: https://www.youtube.com/channel/UCAZQZdSY5_YrziMPqXi-Zfw # 출처: giantsclub.com 링크 (2026-10-16)
     instagram: https://www.instagram.com/busanlottegiants/ # 출처: giantsclub.com 링크 (2026-10-16)
@@ -95,7 +96,7 @@ teams:
     name: KIA 타이거즈
     short: KIA
     city: 광주
-    color: null # TODO
+    color: "#ED1B23" # 출처: https://tigers.co.kr 화면에서 가장 넓게 쓰인 색(2026-10-17 추출, 저장소 주인 결정)
     website: https://tigers.co.kr # 출처: KBO 구단정보의 www.kiatigers.co.kr 이 tigers.co.kr 로 이동 (2026-10-16)
     youtube: https://www.youtube.com/kiabaseballclub # 출처: tigers.co.kr 링크 (2026-10-16)
     instagram: https://www.instagram.com/always_kia_tigers/ # 출처: tigers.co.kr 링크 (2026-10-16)
@@ -119,7 +120,7 @@ teams:
     name: 키움 히어로즈
     short: 키움
     city: 서울
-    color: null # TODO
+    color: "#BB1B39" # 출처: https://heroesbaseball.co.kr 스타일시트에서 가장 많이 쓰인 색(2026-10-17 추출, 저장소 주인 결정)
     website: https://heroesbaseball.co.kr
     youtube: https://www.youtube.com/user/heroesbaseballclub/ # 출처: heroesbaseball.co.kr 링크 (2026-10-16)
     instagram: https://www.instagram.com/heroesbaseballclub/ # 출처: heroesbaseball.co.kr 링크 (2026-10-16)
