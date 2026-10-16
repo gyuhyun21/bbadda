@@ -1,0 +1,105 @@
+import { test } from 'node:test';
+import assert from 'node:assert/strict';
+import { loadTeams, loadScoring } from '../src/lib/config.ts';
+import { findTeams, classify, findPos } from '../scripts/collect/classify.ts';
+import { dedupe } from '../scripts/collect/dedupe.ts';
+import { buildFeeds } from '../scripts/collect/news_rss.ts';
+import { collectVertex, findDate, normalizeLink, cleanTitle } from '../scripts/collect/vertex.ts';
+import { collectKakao } from '../scripts/collect/kakao.ts';
+import { channelRef, collectYouTube } from '../scripts/collect/youtube.ts';
+import { captionSnippet, isTokenExpired, usernameOf } from '../scripts/collect/instagram.ts';
+import type { Ctx, RawItem } from '../scripts/collect/util.ts';
+
+const cfg = { teams: loadTeams().teams, scoring: loadScoring() };
+const NOW = new Date('2026-10-19T06:00:00+09:00');
+const raw = (title: string, over: Partial<RawItem> = {}): RawItem => ({ source_type: 'news', source_name: '테스트일보', url: `https://example.com/${encodeURIComponent(title)}`, title, published_at: '2026-10-15T00:00:00+09:00', via: 'team', ...over });
+
+test('팀 판별: 정식 이름은 그대로, 짧은 이름은 야구 단어가 있을 때만', () => {
+  assert.deepEqual(findTeams('LG 트윈스, 준PO 엔트리 발표', cfg), ['lg']);
+  assert.deepEqual(findTeams('LG, 두산 꺾고 3연승', cfg), ['lg', 'doosan']);
+  assert.deepEqual(findTeams('LG 신형 냉장고 출시', cfg), []);
+  assert.deepEqual(findTeams('삼성전자 3분기 실적, 야구장 광고 확대', cfg), []);
+  assert.deepEqual(findTeams('KT 농구단 개막 연승', cfg), []); // 다른 종목
+  assert.deepEqual(findTeams('Kia Tigers win Game 1', cfg), ['kia']);
+});
+test('팀 판별: 라틴 별칭은 단어 단위', () => {
+  assert.equal(findPos('NCAA 야구 결승', 'NC'), -1);
+  assert.equal(findPos('NC, 신인 계약', 'NC'), 0);
+});
+test('모듈: 1팀=팀 소식, 2팀=라이벌, 0팀 리그 검색=리그, 0팀 팀 검색=버림, 팬 검색=팬 반응', () => {
+  assert.deepEqual(classify(raw('KIA 타이거즈 엔트리 발표'), cfg), { module: 'team', team: 'kia', teams: ['kia'] });
+  assert.equal(classify(raw('LG, KIA와 준플레이오프 격돌'), cfg)?.module, 'rivalry');
+  assert.deepEqual(classify(raw('프로야구 역대 최다 관중', { via: 'league' }), cfg), { module: 'league', teams: [] });
+  assert.equal(classify(raw('오스틴 결승포'), cfg), null);
+  assert.equal(classify(raw('한화 이글스 직관 후기', { via: 'fans', source_type: 'community' }), cfg)?.module, 'fans');
+  assert.equal(classify(raw('오늘 경기 하이라이트', { via: 'fans' }), cfg), null);
+});
+test('모듈: 구단 공식 채널 글은 제목에 팀이 없어도 그 팀, KBO 공식은 리그', () => {
+  assert.deepEqual(classify(raw('경기 하이라이트', { source_type: 'youtube', team_hint: 'ssg', official: true }), cfg), { module: 'team', team: 'ssg', teams: ['ssg'] });
+  assert.equal(classify(raw('주간 하이라이트', { source_type: 'youtube', team_hint: 'kbo', official: true, via: 'league' }), cfg)?.module, 'league');
+});
+test('중복: 같은 소식은 대표 1건 + also_in', () => {
+  const a = raw('LG 트윈스 염경엽 감독 준PO 핵심은 김도영', { source_name: '연합뉴스', url: 'https://a.example/1' });
+  const b = raw('LG 트윈스 염경엽 감독 "준PO 핵심은 김도영"', { source_name: '뉴시스', url: 'https://b.example/2' });
+  const r = dedupe([a, b], []);
+  assert.equal(r.kept.length, 1);
+  assert.deepEqual(r.kept[0].also, [{ source_name: '뉴시스', url: 'https://b.example/2' }]);
+});
+test('뉴스 피드: 10팀 + 리그 검색어, 한국어 로케일', () => {
+  const f = buildFeeds();
+  assert.equal(f.filter((x) => x.via === 'team').length, 10);
+  assert.ok(f.every((x) => x.url.includes('hl=ko') && x.url.includes('gl=KR')));
+  assert.equal(new URL(f[0].url).searchParams.get('q'), '"LG 트윈스" OR LG트윈스 when:7d');
+});
+
+test('Vertex: 날짜 인식(메타 작성 시각·한국어·영문·상대 시간), 수정 시각은 무시', () => {
+  assert.equal(findDate({ 'article:published_time': '2026-10-14T03:00:00Z' }, '', NOW), '2026-10-14T03:00:00.000Z');
+  assert.equal(findDate(undefined, '2026. 10. 13. — 직관 후기', NOW), new Date('2026-10-13T00:00:00+09:00').toISOString());
+  assert.equal(findDate(undefined, 'Oct 14, 2026 — Kia Tigers', NOW), '2026-10-14T00:00:00.000Z');
+  assert.equal(findDate(undefined, '3일 전 ...', NOW), new Date(NOW.getTime() - 3 * 86400000).toISOString());
+  assert.equal(findDate({ 'og:updated_time': '2026-10-14T03:00:00Z' }, '', NOW), undefined);
+});
+test('Vertex: 링크 정리(레딧 ?tl=ko, 겹친 &amp;, 빈 파라미터)와 제목 꼬리표', () => {
+  assert.equal(normalizeLink('https://reddit.com/r/KBO/comments/abc/x/?tl=ko'), 'https://www.reddit.com/r/KBO/comments/abc/x/');
+  assert.equal(normalizeLink('https://gall.dcinside.com/board/view/?id=baseball_new11&amp;amp;no=1&amp;page='), 'https://gall.dcinside.com/board/view/?id=baseball_new11&no=1');
+  assert.equal(cleanTitle('한화 이글스 직관 후기 - MLBPARK'), '한화 이글스 직관 후기');
+});
+test('Vertex: orderBy=date, 쿼리마다 siteSearch 한 곳, 상한, 같은 날짜 3건은 의심 날짜로 버림', async () => {
+  const bodies: any[] = [];
+  const fetchText: Ctx['fetchText'] = async (_u, req) => {
+    bodies.push(JSON.parse(req!.body!));
+    return JSON.stringify({ results: [1, 2, 3].map((n) => ({ document: { derivedStructData: { title: `LG 트윈스 글 ${n}`, link: `https://mlbpark.donga.com/mp/b.php?id=${n}`, pagemap: { metatags: [{ 'article:published_time': '2026-10-14T00:00:00Z' }] } } } }))
+      .concat([{ document: { derivedStructData: { title: 'LG 트윈스 다른 글', link: 'https://mlbpark.donga.com/mp/b.php?id=9', snippets: [{ snippet: '2026. 10. 15. 직관' }] } } } as any]) });
+  };
+  const r = await collectVertex({ now: NOW, env: { VERTEX_AUTH: 'proxy', VERTEX_ENGINE: 'projects/1/locations/global/collections/default_collection/engines/bbadda' }, log: () => {}, fetchText },
+    { enabled: true, max_queries: 2, order_by: 'date', sites: [{ host: 'mlbpark.donga.com', name: '엠엘비파크' }] });
+  assert.equal(r.requests, 2);
+  assert.equal(bodies[0].orderBy, 'date');
+  assert.equal(bodies[0].filter, 'siteSearch:"https://mlbpark.donga.com/*"');
+  assert.equal(r.dropped_suspect_date, 3);
+  assert.deepEqual(r.items.map((i) => i.title), ['LG 트윈스 다른 글']);
+});
+test('Vertex: 인증·엔진이 없으면 건너뜀', async () => {
+  const f: Ctx['fetchText'] = async () => '{}';
+  assert.match((await collectVertex({ now: NOW, env: {}, log: () => {}, fetchText: f }, { enabled: true })).skipped ?? '', /VERTEX_AUTH/);
+});
+test('카카오: KakaoAK 헤더(Bearer 아님), 광고 글 제외', async () => {
+  const seen: (Record<string, string> | undefined)[] = [];
+  const fetchText: Ctx['fetchText'] = async (_u, req) => { seen.push(req?.headers); return JSON.stringify({ documents: [{ title: '<b>LG 트윈스</b> 직관 후기', url: 'https://cafe.daum.net/x/1', datetime: '2026-10-18T10:00:00.000+09:00', cafename: '야구사랑' }, { title: 'LG 트윈스 유니폼 최저가', url: 'https://cafe.daum.net/x/2', datetime: '2026-10-18T10:00:00.000+09:00' }], meta: { is_end: true } }); };
+  const r = await collectKakao({ now: NOW, env: { KAKAO_REST_KEY: 'k' }, log: () => {}, fetchText }, { enabled: true, targets: ['cafe'], ad_patterns: ['최저가'] });
+  assert.equal(seen[0]?.Authorization, 'KakaoAK k');
+  assert.ok(r.items.some((i) => i.title === 'LG 트윈스 직관 후기' && i.source_name === '다음카페 야구사랑'));
+  assert.ok(r.filtered_ads >= 1);
+});
+test('YouTube: 채널 주소 해석, 키가 없으면 건너뜀', async () => {
+  assert.deepEqual(channelRef('https://www.youtube.com/channel/UCAZQZdSY5_YrziMPqXi-Zfw'), { id: 'UCAZQZdSY5_YrziMPqXi-Zfw' });
+  assert.deepEqual(channelRef('https://www.youtube.com/c/LGTwinsTV'), { forHandle: '@LGTwinsTV' });
+  assert.deepEqual(channelRef('http://www.youtube.com/user/ncdinos'), { forUsername: 'ncdinos' });
+  assert.deepEqual(channelRef('https://www.youtube.com/@KBO1982'), { forHandle: '@KBO1982' });
+  assert.match((await collectYouTube({ now: NOW, env: {}, log: () => {}, fetchText: async () => '{}' })).skipped ?? '', /YOUTUBE/);
+});
+test('인스타그램: 계정명, 캡션 12단어, 오류 190 = 만료', () => {
+  assert.equal(usernameOf('https://www.instagram.com/lgtwinsbaseballclub/'), 'lgtwinsbaseballclub');
+  assert.equal(captionSnippet('#LG #야구\n오늘 승리 감사합니다 팬 여러분 정말 고맙습니다 내일도 잠실에서 만나요 꼭 와주세요 사랑해요'), '오늘 승리 감사합니다 팬 여러분 정말 고맙습니다 내일도 잠실에서 만나요 꼭 와주세요…');
+  assert.ok(isTokenExpired('HTTP 400: {"error":{"message":"Error validating access token","type":"OAuthException","code": 190}}'));
+});

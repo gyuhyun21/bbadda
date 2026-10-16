@@ -1,0 +1,54 @@
+# 수집 소스 설정. 키가 없는 소스는 건너뛰고 logs/collect-<주차>.json 에 이유를 남긴다.
+http:
+  user_agent: "BBADDA-collector/0.1 (+https://bbadda.com/about)"
+  min_interval_ms: 800
+  timeout_ms: 15000
+
+# 같은 팀 소식이 너무 많으면 점수 상위만 남긴다(한 주 동안 팀·모듈별 누적 상한)
+max_per_team_per_week: { team: 40, fans: 30, rivalry: 20 }
+max_league_per_week: 40
+
+# 제목이 이 정규식에 맞으면 버린다(도박·광고 스팸 사이트)
+exclude_title_patterns: ["카지노", "토토 ?사이트", "먹튀", "슬롯", "바카라", "도박 (게임|옵션|사이트)", "옵션 설명", "게임 탐색"]
+
+news_rss:
+  enabled: true
+  when: 7d               # 구글 뉴스 기간. 이미 실린 글은 중복 제거로 빠진다
+  max_items_per_feed: 40
+  locale: { hl: ko, gl: KR, ceid: "KR:ko" }
+  # 리그 전체 검색어(제도·일정·중계·흥행). 팀별 검색어는 teams.yaml news_queries
+  league_queries: ["KBO 리그", "프로야구 일정", "KBO 포스트시즌", "한국시리즈", "프로야구 중계", "프로야구 관중", "KBO FA", "KBO 신인 드래프트"]
+
+youtube:
+  enabled: true          # YOUTUBE_API_KEY 또는 YOUTUBE_AUTH=proxy 필요
+  units_budget: 3000     # 한 번 실행 상한(하루 무료 할당량 10,000)
+  max_results_per_query: 10
+  lookback_days: 3
+  team_search: true      # 팀 이름 검색(검색 1회 = 100 units)
+
+kakao:
+  enabled: true          # KAKAO_REST_KEY 또는 KAKAO_AUTH=proxy 필요
+  targets: [cafe, blog]
+  size: 30
+  max_pages: 1
+  # 광고·판매 글(반응이 아님)
+  ad_patterns: ["최저가", "특가", "할인", "쿠폰", "체험단", "협찬", "판매", "중고", "유니폼 팝니다", "양도", "티켓 ?(양도|판매)"]
+
+instagram:
+  enabled: true          # INSTAGRAM_USER_ID + INSTAGRAM_TOKEN(또는 INSTAGRAM_AUTH=proxy) 필요. 계정은 teams.yaml 의 instagram
+  media_per_account: 8
+
+vertex:
+  enabled: true          # VERTEX_ENGINE + VERTEX_API_KEY(또는 VERTEX_AUTH=proxy) 필요. 계정당 매달 10,000회 무료
+  max_queries: 60        # 한 번 실행 상한. 매일 실행 × 31일 = 최대 1,860회
+  page_size: 10
+  order_by: date         # 최신순('date desc' 아님)
+  lookback_days: 14      # 구글 색인이 1~3주 늦다
+  sites:
+    - { host: mlbpark.donga.com, name: 엠엘비파크 }
+    - { host: gall.dcinside.com, name: 디시 야구 갤러리 }
+    - { host: theqoo.net, name: 더쿠 }
+    - { host: fmkorea.com, name: 에펨코리아 }
+    - { host: reddit.com, path: /r/KBO, name: "레딧 r/KBO", lang: en }
+  # 은어: 일부러 찾지 않는다. 수집된 글 제목에 있으면 표시만 한다. { pattern: 정규식, term: 표기 }
+  slang: []

@@ -19,6 +19,8 @@ const teamSchema = z.object({
   aliases: z.array(z.string()).min(1),
   weak_aliases: z.array(z.string()).default([]),
   exclude_any: z.array(z.string()).default([]),
+  // 확인된 로스터 선수 이름(관련도 점수용). 출처 URL을 주석으로 남긴 것만.
+  players: z.array(z.string()).default([]),
 });
 const teamsSchema = z.object({
   teams: z.array(teamSchema).length(10),
@@ -54,3 +56,27 @@ export function communitySection(): boolean {
   if (env === 'on' || env === 'off') return env === 'on';
   try { return load('site.yaml', siteSchema).community_section; } catch { return false; }
 }
+
+const sourcesSchema = z.object({
+  http: z.object({ user_agent: z.string(), min_interval_ms: z.number(), timeout_ms: z.number() }),
+  max_per_team_per_week: z.record(z.string(), z.number().int().positive()).default({}),
+  max_league_per_week: z.number().int().positive().optional(),
+  exclude_title_patterns: z.array(z.string()).default([]),
+  news_rss: z.object({ enabled: z.boolean(), when: z.string().default('7d'), max_items_per_feed: z.number().default(40), locale: z.object({ hl: z.string(), gl: z.string(), ceid: z.string() }), league_queries: z.array(z.string()).default([]) }),
+  youtube: z.record(z.string(), z.any()).default({}),
+  kakao: z.record(z.string(), z.any()).default({}),
+  instagram: z.record(z.string(), z.any()).default({}),
+  vertex: z.record(z.string(), z.any()).default({}),
+});
+const scoringSchema = z.object({
+  hot: z.record(z.string(), z.number()),
+  relevance: z.record(z.string(), z.number()),
+  baseball_terms: z.array(z.string()),
+  other_sports: z.array(z.string()).default([]),
+  negative_words: z.array(z.string()).default([]),
+  positive_words: z.array(z.string()).default([]),
+});
+export const loadSources = () => load('sources.yaml', sourcesSchema);
+export const loadScoring = () => load('scoring.yaml', scoringSchema);
+export type Sources = ReturnType<typeof loadSources>;
+export type Scoring = ReturnType<typeof loadScoring>;
