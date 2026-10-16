@@ -1,16 +1,25 @@
 ---
-// 구단 레일의 소식 한 줄: 사진(있으면) + 제목 + 요약 + 팀·출처·날짜
+// 구단 레일의 소식 한 줄: 사진 + 제목 + 요약 + 팀·출처·날짜.
+// 사진이 없는 글(인스타그램 — 사진 주소가 며칠 뒤 만료되고 직접 걸기 애매해 쓰지 않음, 대표 사진 없는 뉴스)은
+// 같은 크기의 팀 컬러 카드(이니셜 + 출처)로 채워 줄이 가지런하게. 인스타그램 원래 사진은 모달의 공식 퍼가기 화면에서 본다.
 import { newsImages } from '../lib/config.ts';
-import { displayTitle, fmtDate, teamById, youtubeId } from '../lib/site.ts';
+import { displayTitle, fmtDate, teamById, teamColor, youtubeId, SOURCE_LABEL } from '../lib/site.ts';
 import type { Signal } from '../lib/schemas.ts';
 interface Props { signal: Signal; showTeams?: boolean }
 const { signal: s, showTeams = true } = Astro.props;
 const yt = s.source_type === 'youtube' ? youtubeId(s.url) : undefined;
 const thumb = yt ? `https://i.ytimg.com/vi/${yt}/mqdefault.jpg` : newsImages() ? s.image : undefined;
 const teams = showTeams ? s.teams.slice(0, 2).map((id) => teamById.get(id)?.short).filter(Boolean).join('·') : '';
+const team = s.team ? teamById.get(s.team) : undefined;
 ---
 <li data-teams={s.teams.join(' ')}>
-  {thumb && <img src={thumb} alt="" loading="lazy" referrerpolicy="no-referrer" width="160" height="90" onerror="this.remove()" />}
+  <span class="rail-thumb" style={`--team:${s.team ? teamColor(s.team) : '#1D1D1F'}`}>
+    {thumb && <img src={thumb} alt="" loading="lazy" referrerpolicy="no-referrer" width="320" height="180" onerror="this.remove()" />}
+    <span class="rail-thumb-cover" aria-hidden="true">
+      <span class="rail-thumb-mark">{team?.short ?? 'KBO'}</span>
+      <span class="rail-thumb-src">{s.source_type === 'instagram' ? 'Instagram' : s.official ? '오피셜' : SOURCE_LABEL[s.source_type]}</span>
+    </span>
+  </span>
   <div>
     <a href={s.url} target="_blank" rel="noopener noreferrer">{displayTitle(s)}</a>
     <p>{s.summary_ko}</p>
