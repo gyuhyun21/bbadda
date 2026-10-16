@@ -5,6 +5,6 @@ import { TEAMS, teamColor } from '../lib/site.ts';
 <div class="team-picker" data-no-team>
   <p class="team-picker-q">내 팀은 어디인가요?</p>
   <div class="team-picker-chips">
-    {TEAMS.map((t) => <button type="button" class="team-chip team-chip--btn" data-pick-team={t.id} data-color={teamColor(t.id)} data-name={t.name}><span class="team-dot" style={`background:${teamColor(t.id)}`} aria-hidden="true"></span>{t.name}</button>)}
+    {TEAMS.map((t) => <button type="button" class="team-chip team-chip--btn" data-pick-team={t.id} data-color={teamColor(t.id)} data-name={t.name} data-short={t.short}><span class="team-dot" style={`background:${teamColor(t.id)}`} aria-hidden="true"></span>{t.name}</button>)}
   </div>
 </div>

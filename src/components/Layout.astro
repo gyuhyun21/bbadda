@@ -43,6 +43,18 @@ const myTeamCss = TEAMS.map((t) => `html[data-my-team="${t.id}"] [data-myteam-bl
           <input type="search" name="q" placeholder="팀·선수·키워드 검색" aria-label="검색어" autocomplete="off" />
           <a class="header-search-mobile" href="/search/" aria-label="검색"></a>
         </form>
+        <div class="bm-menu">
+          <button type="button" class="bm-toggle" data-bm-toggle aria-expanded="false" aria-controls="bm-panel" aria-label="저장한 소식" title="저장한 소식">
+            <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6.5 3.5h11a1 1 0 0 1 1 1v16l-6.5-4.2-6.5 4.2v-16a1 1 0 0 1 1-1z" /></svg>
+            <span class="bm-count" data-bm-count hidden></span>
+          </button>
+          <div class="bm-panel" id="bm-panel" data-bm-panel hidden>
+            <p class="bm-title">저장한 소식</p>
+            <ul class="bm-list" data-bm-list></ul>
+            <p class="bm-empty small" data-bm-empty>기사 옆 북마크 아이콘을 누르면 여기에 모입니다. 이 기기에만 저장됩니다.</p>
+            <p class="bm-hint small">이 사이트 즐겨찾기: <kbd>⌘</kbd>+<kbd>D</kbd> (윈도 <kbd>Ctrl</kbd>+<kbd>D</kbd>)</p>
+          </div>
+        </div>
         <div class="myteam">
           <button type="button" class="myteam-btn" data-myteam-toggle aria-expanded="false" aria-controls="myteam-panel">
             <span class="team-dot" data-myteam-dot aria-hidden="true"></span><span data-myteam-label>내 팀 고르기</span>
@@ -50,7 +62,7 @@ const myTeamCss = TEAMS.map((t) => `html[data-my-team="${t.id}"] [data-myteam-bl
           <div class="myteam-panel" id="myteam-panel" hidden>
             <p class="small">내 팀을 고르면 그 팀 소식이 맨 위에 옵니다. 이 기기에만 저장됩니다.</p>
             <div class="team-picker-chips">
-              {TEAMS.map((t) => <button type="button" class="team-chip team-chip--btn" data-pick-team={t.id} data-color={teamColor(t.id)} data-name={t.name}><span class="team-dot" style={`background:${teamColor(t.id)}`} aria-hidden="true"></span>{t.name}</button>)}
+              {TEAMS.map((t) => <button type="button" class="team-chip team-chip--btn" data-pick-team={t.id} data-color={teamColor(t.id)} data-name={t.name} data-short={t.short}><span class="team-dot" style={`background:${teamColor(t.id)}`} aria-hidden="true"></span>{t.name}</button>)}
             </div>
             <button type="button" class="link-btn" data-pick-team="">선택 해제</button>
           </div>
@@ -130,7 +142,7 @@ const myTeamCss = TEAMS.map((t) => `html[data-my-team="${t.id}"] [data-myteam-bl
           dlg.addEventListener('click', (e) => { if (e.target === dlg) close(); }); // 흐린 바깥 누르면 닫기
           document.addEventListener('click', (e) => {
             if (e.defaultPrevented || e.button !== 0 || e.metaKey || e.ctrlKey || e.shiftKey || e.altKey) return;
-            const a = (e.target as Element).closest<HTMLAnchorElement>('main a[target="_blank"]');
+            const a = (e.target as Element).closest<HTMLAnchorElement>('main a[target="_blank"], [data-bm-panel] a[target="_blank"]');
             if (!a || a.closest('[data-no-modal], .team-hero-actions') || !/^https?:/.test(a.href) || new URL(a.href).host === location.host) return;
             e.preventDefault();
             open(a);
@@ -138,6 +150,53 @@ const myTeamCss = TEAMS.map((t) => `html[data-my-team="${t.id}"] [data-myteam-bl
         }
       </script>
     )}
+    <script>
+      // 북마크: 기사 URL·제목·출처를 localStorage(bbadda:bookmarks)에 저장. 저장소가 막혀 있으면 이번 화면에서만 유지.
+      const BM_KEY = 'bbadda:bookmarks';
+      type Bm = { url: string; title: string; src: string; at: number };
+      let bms: Bm[] = [];
+      try { bms = JSON.parse(localStorage.getItem(BM_KEY) || '[]'); if (!Array.isArray(bms)) bms = []; } catch { bms = []; }
+      const saveBm = () => { try { localStorage.setItem(BM_KEY, JSON.stringify(bms)); } catch {} };
+      const bmList = document.querySelector<HTMLElement>('[data-bm-list]');
+      const bmEmpty = document.querySelector<HTMLElement>('[data-bm-empty]');
+      const bmCount = document.querySelector<HTMLElement>('[data-bm-count]');
+      const renderBm = () => {
+        const saved = new Set(bms.map((b) => b.url));
+        document.querySelectorAll<HTMLButtonElement>('[data-bm]').forEach((b) => {
+          const on = saved.has(b.dataset.bmUrl!);
+          b.setAttribute('aria-pressed', String(on));
+          b.setAttribute('aria-label', on ? '북마크에서 빼기' : '북마크에 저장');
+        });
+        if (bmCount) { bmCount.hidden = bms.length === 0; bmCount.textContent = String(bms.length); }
+        if (bmEmpty) bmEmpty.hidden = bms.length > 0;
+        if (bmList) {
+          bmList.replaceChildren(...bms.map((b) => {
+            const li = document.createElement('li');
+            const a = document.createElement('a'); a.href = b.url; a.target = '_blank'; a.rel = 'noopener noreferrer'; a.textContent = b.title;
+            const meta = document.createElement('span'); meta.textContent = b.src;
+            const rm = document.createElement('button'); rm.type = 'button'; rm.className = 'bm-remove'; rm.textContent = '✕'; rm.setAttribute('aria-label', `${b.title} 북마크 빼기`);
+            rm.addEventListener('click', () => { bms = bms.filter((x) => x.url !== b.url); saveBm(); renderBm(); });
+            li.append(a, meta, rm);
+            return li;
+          }));
+        }
+      };
+      document.addEventListener('click', (e) => {
+        const b = (e.target as Element).closest<HTMLButtonElement>('[data-bm]');
+        if (!b) return;
+        e.preventDefault();
+        const url = b.dataset.bmUrl!;
+        bms = bms.some((x) => x.url === url) ? bms.filter((x) => x.url !== url) : [{ url, title: b.dataset.bmTitle ?? url, src: b.dataset.bmSrc ?? '', at: Date.now() }, ...bms].slice(0, 200);
+        saveBm();
+        renderBm();
+      });
+      const bmToggle = document.querySelector<HTMLButtonElement>('[data-bm-toggle]');
+      const bmPanel = document.querySelector<HTMLElement>('[data-bm-panel]');
+      bmToggle?.addEventListener('click', () => { if (!bmPanel) return; bmPanel.hidden = !bmPanel.hidden; bmToggle.setAttribute('aria-expanded', String(!bmPanel.hidden)); });
+      document.addEventListener('click', (e) => { if (bmPanel && !bmPanel.hidden && !(e.target as Element).closest('.bm-menu') && !(e.target as Element).closest('dialog')) { bmPanel.hidden = true; bmToggle?.setAttribute('aria-expanded', 'false'); } });
+      document.addEventListener('keydown', (e) => { if (e.key === 'Escape' && bmPanel && !bmPanel.hidden) { bmPanel.hidden = true; bmToggle?.setAttribute('aria-expanded', 'false'); bmToggle?.focus(); } });
+      renderBm();
+    </script>
     <script>
       // 내 팀 선택: localStorage 저장(try/catch), 머리말 칩 갱신, [data-team-sort] 안의 팀 섹션을 내 팀이 맨 위·펼침, 나머지는 접힘
       const KEY = 'bbadda:myTeam';
@@ -150,7 +209,12 @@ const myTeamCss = TEAMS.map((t) => `html[data-my-team="${t.id}"] [data-myteam-bl
       const apply = (id: string) => {
         const b = btns.find((x) => x.dataset.pickTeam === id && id);
         if (b) html.dataset.myTeam = id; else delete html.dataset.myTeam;
-        if (label) label.textContent = b ? `내 팀 · ${b.dataset.name}` : '내 팀 고르기';
+        // 넓은 화면은 '내 팀 · 롯데 자이언츠', 휴대폰은 '롯데'(짧은 이름)
+        if (label) {
+          const long = document.createElement('span'); long.className = 'mt-long'; long.textContent = b ? `내 팀 · ${b.dataset.name}` : '내 팀 고르기';
+          const short = document.createElement('span'); short.className = 'mt-short'; short.textContent = b ? (b.dataset.short ?? b.dataset.name ?? '') : '내 팀';
+          label.replaceChildren(long, short);
+        }
         if (dot) dot.style.background = b?.dataset.color ?? 'transparent';
         btns.forEach((x) => x.setAttribute('aria-pressed', String(!!id && x.dataset.pickTeam === id)));
         document.querySelectorAll<HTMLElement>('[data-team-sort]').forEach((box) => {

@@ -20,7 +20,7 @@ const teamDays = daysOf(mine);
     <p class="eyebrow">{t.city} · KBO 리그</p>
     <h1 class="page-title">{t.name}</h1>
     <div class="team-hero-actions" data-pagefind-ignore>
-      <button type="button" class="team-chip team-chip--btn" data-pick-team={t.id} data-color={teamColor(t.id)} data-name={t.name}>★ 내 팀으로</button>
+      <button type="button" class="team-chip team-chip--btn" data-pick-team={t.id} data-color={teamColor(t.id)} data-name={t.name} data-short={t.short}>★ 내 팀으로</button>
       {t.website && <a class="small" href={t.website} target="_blank" rel="noopener noreferrer">공식 웹사이트</a>}
       {t.youtube && <a class="small" href={t.youtube} target="_blank" rel="noopener noreferrer">공식 YouTube</a>}
       {t.instagram && <a class="small" href={t.instagram} target="_blank" rel="noopener noreferrer">공식 Instagram</a>}

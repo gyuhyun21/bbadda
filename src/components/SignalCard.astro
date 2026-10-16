@@ -1,6 +1,7 @@
 ---
 import TypoCover from './TypoCover.astro';
 import TeamChip from './TeamChip.astro';
+import BookmarkButton from './BookmarkButton.astro';
 import { MODULE_LABEL, SOURCE_LABEL, SENTIMENT_LABEL, SLANG_TITLE, displayTitle, fmtDate, fmtNum, isToday, stripSample, youtubeId } from '../lib/site.ts';
 import type { Signal } from '../lib/schemas.ts';
 import { newsImages } from '../lib/config.ts';
@@ -38,6 +39,7 @@ const img = !yt && newsImages() ? s.image : undefined;
   )}
   <p class="card-summary">{s.summary_ko}</p>
   {s.quote && <p class="card-quote">“{s.quote}”</p>}
+  <BookmarkButton signal={s} />
   <p class="card-foot">
     <span>{s.source_name}</span> · <span>{SOURCE_LABEL[s.source_type]}</span> · <time datetime={s.published_at}>{fmtDate(s.published_at)}</time>
     {s.metrics.views !== undefined && <span> · 조회 {fmtNum(s.metrics.views)}</span>}
