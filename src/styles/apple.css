@@ -172,7 +172,3 @@
   .layout-apple .headline-lead .card-foot { margin-top: 0; }
 }
 
-/* 팬 반응: 홀짝 줄 배경을 살짝 달리해 줄 구분(2026-10-17) */
-.layout-apple .front-fans .more-list { padding: 6px; }
-.layout-apple .front-fans .more-list li { padding: 14px 14px; border-bottom: 0; border-radius: 12px; }
-.layout-apple .front-fans .more-list li:nth-child(even) { background: #F5F6F8; }

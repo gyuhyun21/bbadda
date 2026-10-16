@@ -1,0 +1,23 @@
+---
+// 팬 글 목록(블로그·카페): 출처 배지 · 제목 · 요약 · 날짜 · 팀 태그. 홀짝 줄 배경.
+import TeamTags from './TeamTags.astro';
+import { SLANG_TITLE, displayTitle, fmtDate, fanSourceLabel } from '../lib/site.ts';
+import type { Signal } from '../lib/schemas.ts';
+interface Props { signals: Signal[] }
+const { signals } = Astro.props;
+---
+{signals.length > 0 && (
+  <ul class="fan-list">
+    {signals.map((s) => (
+      <li>
+        <span class={`src-badge src-badge--${fanSourceLabel(s.source_name) === '카페' ? 'cafe' : 'blog'}`}>{fanSourceLabel(s.source_name)}</span>
+        <div class="fan-body">
+          <a href={s.url} target="_blank" rel="noopener noreferrer">{displayTitle(s)}</a>
+          {s.slang && <span class="chip chip--slang" title={SLANG_TITLE}>은어 · {s.slang}</span>}
+          <p>{s.summary_ko}</p>
+          <span class="fan-meta">{s.source_name.replace(/^(블로그|다음카페)\s*/, '')} · {fmtDate(s.published_at)}<TeamTags ids={s.teams} /></span>
+        </div>
+      </li>
+    ))}
+  </ul>
+)}

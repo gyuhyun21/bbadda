@@ -433,3 +433,32 @@ html.modal-open { overflow: hidden; }
 button.rail-more { font: inherit; background: none; border: 0; cursor: pointer; color: var(--accent); padding: 8px 0; }
 .rail-day-chip { font: inherit; cursor: pointer; }
 .rail-day-chip span { margin-left: 6px; }
+
+/* 팀 태그(어디서나): 납작한 팀 컬러 사각형 + 흰 팀 이름 */
+.team-tag { display: inline-block; font: 700 11px/1 var(--font); color: #fff; background: var(--team, #1D1D1F); padding: 4px 6px; border-radius: 3px; margin-left: 6px; vertical-align: 1px; }
+.fan-meta { font-size: 13px; color: var(--muted); }
+
+/* 팬 글 목록: 출처 배지 + 본문, 홀짝 줄 배경 */
+.fan-list { list-style: none; margin: 20px 0 0; padding: 6px; display: grid; gap: 0; background: #fff; border-radius: 18px; box-shadow: 0 0 0 1px #E8E8ED; }
+@media (min-width: 900px) { .fan-list { grid-template-columns: 1fr 1fr; column-gap: 6px; } }
+.fan-list li { display: grid; grid-template-columns: 44px 1fr; gap: 12px; align-items: start; padding: 14px; border-radius: 12px; }
+.fan-list li:nth-child(4n+2), .fan-list li:nth-child(4n+3) { background: #F5F6F8; }
+@media (max-width: 899px) { .fan-list li:nth-child(4n+2), .fan-list li:nth-child(4n+3) { background: none; } .fan-list li:nth-child(even) { background: #F5F6F8; } }
+.fan-body { display: grid; gap: 4px; min-width: 0; }
+.fan-body a { font-weight: 600; font-size: 15px; line-height: 1.4; color: var(--ink); text-decoration: none; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+.fan-body a:hover { color: var(--accent); }
+.fan-body p { margin: 0; font-size: 13.5px; color: #424245; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+.src-badge { display: grid; place-items: center; width: 44px; height: 44px; border-radius: 12px; font: 700 12px/1 var(--font); color: #fff; }
+.src-badge--blog { background: #2DB400; }
+.src-badge--cafe { background: #F28C1E; }
+.fan-videos { margin-bottom: 4px; }
+
+/* Community: 사이트 배지 + 2열 카드 */
+.community-cards { list-style: none; margin: 0; padding: 0; display: grid; gap: 14px; grid-template-columns: 1fr; }
+@media (min-width: 900px) { .community-cards { grid-template-columns: 1fr 1fr; } }
+.community-cards li { display: grid; grid-template-columns: 52px 1fr; gap: 14px; align-items: start; padding: 18px; background: #fff; border-radius: 18px; box-shadow: 0 0 0 1px #E8E8ED; }
+.community-cards li > div { display: grid; gap: 6px; min-width: 0; }
+.community-cards a { font-weight: 600; font-size: 16px; line-height: 1.4; color: var(--ink); text-decoration: none; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+.community-cards a:hover { color: var(--accent); }
+.community-cards p { margin: 0; font-size: 14px; color: #424245; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
+.site-badge { display: grid; place-items: center; width: 52px; height: 52px; border-radius: 14px; background: var(--site); color: #fff; font: 800 14px/1 var(--font); letter-spacing: -0.02em; }

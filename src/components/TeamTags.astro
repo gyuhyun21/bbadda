@@ -1,0 +1,8 @@
+---
+// 줄 끝에 붙는 납작한 팀 컬러 사각 태그(흰 팀 이름)
+import { teamById, teamColor } from '../lib/site.ts';
+interface Props { ids: string[]; max?: number }
+const { ids, max = 2 } = Astro.props;
+const list = ids.slice(0, max).map((id) => teamById.get(id)).filter((t) => t !== undefined);
+---
+{list.map((t) => <span class="team-tag" style={`--team:${teamColor(t.id)}`}>{t.short}</span>)}
