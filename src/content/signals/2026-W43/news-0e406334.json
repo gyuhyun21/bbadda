@@ -1,0 +1,24 @@
+{
+  "id": "news-0e406334",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "부산일보",
+  "url": "https://mobile.busan.com/view/busan/view.php?code=2026101300133924665",
+  "title": "[영상] ‘3년 600안타’ 레이예스, 211안타 3시즌 연속 안타왕",
+  "published_at": "2026-10-13T05:23:57.000Z",
+  "collected_at": "2026-10-16T15:24:00.965Z",
+  "summary_ko": "롯데 레이예스가 3시즌 연속 안타왕에 올랐다. 부산일보는 211안타, 3년 600안타를 영상으로 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 39,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "image": "https://www.busan.com/nas/wcms/wcms_data/photos/2026/10/13/2026101310342903387_l.jpg"
+}

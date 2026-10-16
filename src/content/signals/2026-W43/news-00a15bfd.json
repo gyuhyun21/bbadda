@@ -1,0 +1,24 @@
+{
+  "id": "news-00a15bfd",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "news",
+  "announcement": true,
+  "source_name": "머니투데이",
+  "url": "https://www.mt.co.kr/amp/sports/2026/10/16/202610161109772139O",
+  "title": "후반기 최강 에이스와 2년 더! 괴력의 아빌라, SSG와 재계약 합의...세부내용 추후 공개 [공식발표]",
+  "published_at": "2026-10-16T02:12:00.000Z",
+  "collected_at": "2026-10-16T15:24:00.965Z",
+  "summary_ko": "SSG가 외국인 투수 아빌라와 2년 더 재계약하기로 합의했다고 공식발표했다. 세부 내용은 추후 공개된다.",
+  "metrics": {},
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "image": "https://menu.mt.co.kr/cdn-cgi/image/w=1200,h=1167,fit=cover,bg=white,f=auto,quality=high,sharpen=2,g=face/mobile/osen/data/2026/10/16/202610161109772139_1.jpg"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "instagram-f75f0d18",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "instagram",
+  "official": true,
+  "source_name": "Instagram @always_kia_tigers",
+  "url": "https://www.instagram.com/p/Dei27VRkyNo/",
+  "title": "KIA 타이거즈 공식 인스타그램: -",
+  "published_at": "2026-10-16T06:10:33+0000",
+  "collected_at": "2026-10-16T15:24:00.965Z",
+  "summary_ko": "",
+  "metrics": {
+    "likes": 16890,
+    "comments": 269
+  },
+  "scores": {
+    "hot": 65,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "community-3ae2789f",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 밥먹고 야구만 보는 밥야구",
+  "url": "https://blog.naver.com/babbaseball/224443140408",
+  "title": "“7차전이면 하루 남는다” KT 안현민, 한국시리즈 뒤 APBC도 뛸 수 있을까?",
+  "published_at": "2026-10-16T21:12:00.000+09:00",
+  "collected_at": "2026-10-16T15:24:00.965Z",
+  "summary_ko": "한 블로그 글은 KT 안현민이 한국시리즈 뒤 APBC에도 뛸 수 있을지를 다뤘다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

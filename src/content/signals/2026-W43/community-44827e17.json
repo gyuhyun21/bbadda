@@ -1,0 +1,23 @@
+{
+  "id": "community-44827e17",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "lg"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 레우스 스포츠",
+  "url": "https://blog.naver.com/borussenreus/224444185642",
+  "title": "“KIA로는 2전 2패” KIA LG 포스트시즌 역대 준PO서 끊을까?",
+  "published_at": "2026-10-16T23:03:00.000+09:00",
+  "collected_at": "2026-10-16T15:24:00.965Z",
+  "summary_ko": "한 블로그 글은 KIA가 LG와의 포스트시즌 준플레이오프에서 역대 2전 2패라는 점을 짚으며 이번에 흐름을 끊을지 다뤘다.",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

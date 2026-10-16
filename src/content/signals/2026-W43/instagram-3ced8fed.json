@@ -1,0 +1,26 @@
+{
+  "id": "instagram-3ced8fed",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "instagram",
+  "official": true,
+  "source_name": "Instagram @ssglanders.incheon",
+  "url": "https://www.instagram.com/reel/Dejl11GyZsa/",
+  "title": "SSG 랜더스 공식 인스타그램: 📣 최광야구 1429에서만 만날 수 있는 특별한 응원가!",
+  "published_at": "2026-10-16T13:00:46+0000",
+  "collected_at": "2026-10-16T15:24:00.965Z",
+  "summary_ko": "",
+  "metrics": {
+    "likes": 6265,
+    "comments": 81
+  },
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

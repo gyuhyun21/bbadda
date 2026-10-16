@@ -1,0 +1,26 @@
+{
+  "id": "instagram-5cc5bf5d",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "instagram",
+  "official": true,
+  "source_name": "Instagram @busanlottegiants",
+  "url": "https://www.instagram.com/reel/DeZfXy3Tr63/",
+  "title": "롯데 자이언츠 공식 인스타그램: 한동희의 시즌 25호 홈런🔥",
+  "published_at": "2026-10-12T14:52:33+0000",
+  "collected_at": "2026-10-16T15:24:00.965Z",
+  "summary_ko": "",
+  "metrics": {
+    "likes": 8978,
+    "comments": 47
+  },
+  "scores": {
+    "hot": 34,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

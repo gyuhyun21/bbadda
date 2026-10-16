@@ -1,0 +1,26 @@
+{
+  "id": "youtube-4a46c36c",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "youtube",
+  "source_name": "엔씨노트",
+  "url": "https://www.youtube.com/watch?v=hyQhI9VpE0M",
+  "title": "폴리그 첫 경기 직관 다녀옴 | 김요엘 호투 | NC다이노스 승리!🦖🦕",
+  "published_at": "2026-10-16T10:30:11Z",
+  "collected_at": "2026-10-16T15:24:00.965Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 2866,
+    "likes": 155,
+    "comments": 28
+  },
+  "scores": {
+    "hot": 78,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

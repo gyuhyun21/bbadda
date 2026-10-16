@@ -1,0 +1,23 @@
+{
+  "id": "news-ca6cb3a6",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "news",
+  "source_name": "조선일보",
+  "url": "https://www.chosun.com/sports/baseball/2026/10/16/MFTGEZRRHE3DQNBRMJQTMY3FMQ/",
+  "title": "'PS 좌절' NC의 2027시즌은 시작됐다…구창모 김형준 김휘집 등 주전 포함 CAMP1 진행",
+  "published_at": "2026-10-16T13:19:00.000Z",
+  "collected_at": "2026-10-16T15:24:00.965Z",
+  "summary_ko": "포스트시즌에 오르지 못한 NC가 구창모·김형준·김휘집 등 주전을 포함해 2027시즌 CAMP1을 시작했다고 조선일보가 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "image": "https://www.chosun.com/resizer/v2/GAYGGMZZMUYTSYZWMI2GEZRQHA.jpg?auth=334cf4691738baa012a9dfa77415bd4e260d38203c6affbef14fec8411adba0e&width=700&height=367&smart=true"
+}

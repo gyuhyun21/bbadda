@@ -1,0 +1,27 @@
+{
+  "id": "youtube-3ea8eba0",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "LGTWINSTV",
+  "url": "https://www.youtube.com/watch?v=XRHUMEgd6rE",
+  "title": "[10.14 WC 1차전] 오스틴의 화끈한 생일 자축 결승포💥",
+  "published_at": "2026-10-14T14:09:47Z",
+  "collected_at": "2026-10-16T15:24:00.965Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 41845,
+    "likes": 1526,
+    "comments": 41
+  },
+  "scores": {
+    "hot": 80,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

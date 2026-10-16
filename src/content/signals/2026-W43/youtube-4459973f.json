@@ -1,0 +1,27 @@
+{
+  "id": "youtube-4459973f",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "Giants TV",
+  "url": "https://www.youtube.com/watch?v=tQR8GnwIxt8",
+  "title": "전인미답의 KBO리그 안타왕 '롯데자이언츠 빅터 레이예스'",
+  "published_at": "2026-10-14T13:00:25Z",
+  "collected_at": "2026-10-16T15:24:00.965Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 149103,
+    "likes": 4483,
+    "comments": 453
+  },
+  "scores": {
+    "hot": 83,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

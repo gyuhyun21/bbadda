@@ -1,0 +1,24 @@
+{
+  "id": "news-2ef650b6",
+  "issue": "2026-W43",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "한스경제",
+  "url": "https://www.hansbiz.co.kr/news/articleView.html?idxno=873727",
+  "title": "KIA, LG 제치고 9주 연속 KBO리그 관심도 1위",
+  "published_at": "2026-10-16T14:51:56.000Z",
+  "collected_at": "2026-10-16T15:24:00.965Z",
+  "summary_ko": "한스경제 보도에 따르면 KIA가 LG를 제치고 9주 연속 KBO리그 관심도 1위를 기록했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 80
+  },
+  "sentiment": "positive",
+  "image": "https://cdn.hansbiz.co.kr/news/thumbnail/202610/873727_898568_4555_v150.jpg"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "news-b0b42a19",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "조선일보",
+  "url": "https://www.chosun.com/sports/baseball/2026/10/15/G44TQNZSMZSWCZRVMQYTGMZQGE/",
+  "title": "\"올해 점수를 매긴다면 95점, 성숙함 부족했다\" 지난 아픔 훌훌 털고, 다시 웃는다…'208안타' 최원준의 진심 [인터뷰]",
+  "published_at": "2026-10-15T10:42:00.000Z",
+  "collected_at": "2026-10-16T15:24:00.965Z",
+  "summary_ko": "안타 208개를 기록한 KT 최원준이 조선일보 인터뷰에서 올 시즌에 95점을 매기며 성숙함이 부족했다고 돌아봤다.",
+  "metrics": {},
+  "scores": {
+    "hot": 58,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "image": "https://www.chosun.com/resizer/v2/HAYDANTEHA4DSOJQHFSDMMBVHE.jpg?auth=b38f5ae31027181664d715932a573a4cb34d935da8b9aa39cae960970e71820b&width=700&height=367&smart=true"
+}

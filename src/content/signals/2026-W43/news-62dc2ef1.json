@@ -1,0 +1,24 @@
+{
+  "id": "news-62dc2ef1",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "조선일보",
+  "url": "https://www.chosun.com/sports/baseball/2026/10/16/MFTDEMBUGI2WKOJVGU4TCNBQGU/",
+  "title": "'76번 주황색' 새출발…류지현 신임 감독, 왜 대전에 왔나 \"궁합 맞을 것 같았다\"",
+  "published_at": "2026-10-16T07:29:00.000Z",
+  "collected_at": "2026-10-16T15:24:00.965Z",
+  "summary_ko": "류지현 신임 한화 감독이 대전행을 택한 이유를 밝혔다. 조선일보 인터뷰에서 \"궁합 맞을 것 같았다\"고 말했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "image": "https://www.chosun.com/resizer/v2/GYZGGYLGGIZWMOBRGA3TKYJWMI.jpg?auth=6aa5d48653cf5eb8b38d755c80462de4bb73587b98fefa523800980fc8787813&width=700&height=367&smart=true"
+}

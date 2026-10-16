@@ -1,0 +1,27 @@
+{
+  "id": "youtube-e8f5ccff",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "SSG랜더스",
+  "url": "https://www.youtube.com/watch?v=Ao0HZLVuvxY",
+  "title": "선배님들!! 긴장하십쇼!!!🚨 | 하이 루키 데이 비하인드",
+  "published_at": "2026-10-14T09:01:29Z",
+  "collected_at": "2026-10-16T15:24:00.965Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 86337,
+    "likes": 1570,
+    "comments": 306
+  },
+  "scores": {
+    "hot": 71,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "youtube-b5504228",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "Eagles TV",
+  "url": "https://www.youtube.com/watch?v=B53BSVNpM6Y",
+  "title": "노시환 최애 이선빈과 재회 | 천의 얼굴 곽범 | 황준서 커브 전수받은 이서연 [시구 모음집]",
+  "published_at": "2026-10-15T09:00:38Z",
+  "collected_at": "2026-10-16T15:24:00.965Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 172783,
+    "likes": 2008,
+    "comments": 172
+  },
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

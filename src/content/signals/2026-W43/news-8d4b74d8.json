@@ -1,0 +1,24 @@
+{
+  "id": "news-8d4b74d8",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "조선일보",
+  "url": "https://www.chosun.com/sports/baseball/2026/10/13/MFTDKNJSGUYWIOJWGFSDAZJVMI/",
+  "title": "\"승률왕 등극 축하, 하지만 마음 한구석이…\" 창단 첫 10연승·90승 정상에 선 사령탑, 안타왕 홈런왕 놓친 선수들 먼저 챙겼다",
+  "published_at": "2026-10-12T16:38:11.000Z",
+  "collected_at": "2026-10-16T15:24:00.965Z",
+  "summary_ko": "승률 1위에 오른 KT 사령탑이 창단 첫 10연승·90승 뒤 안타왕과 홈런왕을 놓친 선수들을 먼저 챙겼다고 조선일보가 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 34,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "image": "https://www.chosun.com/resizer/v2/HFSGGNRRGE3TGYRWG5RTCZDBGQ.jpg?auth=22ceca1af6987df7c3a399bff05063f5b86ad2f59047a240698b7f5837a3b9a4&width=700&height=367&smart=true"
+}

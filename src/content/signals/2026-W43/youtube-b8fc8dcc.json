@@ -1,0 +1,27 @@
+{
+  "id": "youtube-b8fc8dcc",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "LGTWINSTV",
+  "url": "https://www.youtube.com/watch?v=N6cExQ7NMa8",
+  "title": "[10.14 WC 1차전] 신민재의 결정적인 스퀴즈🔥",
+  "published_at": "2026-10-14T15:15:52Z",
+  "collected_at": "2026-10-16T15:24:00.965Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 73511,
+    "likes": 1521,
+    "comments": 80
+  },
+  "scores": {
+    "hot": 70,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

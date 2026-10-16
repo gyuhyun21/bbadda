@@ -1,0 +1,28 @@
+{
+  "id": "youtube-b7e6f607",
+  "issue": "2026-W43",
+  "module": "league",
+  "teams": [
+    "lg",
+    "doosan"
+  ],
+  "team": "lg",
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=GWEAJgZqSfY",
+  "title": "치열한 승부 끝, LG트윈스가 준플레이오프에 진출합니다! | WC1_두산 vs LG | 10.14 | 크보모먼트 | KBO 야구 하이라이트",
+  "published_at": "2026-10-14T13:43:05Z",
+  "collected_at": "2026-10-16T15:24:00.965Z",
+  "summary_ko": "KBO 공식 채널이 와일드카드 1차전에서 LG가 두산을 꺾고 준플레이오프에 진출하는 순간을 영상으로 소개했다.",
+  "metrics": {
+    "views": 55882,
+    "likes": 357,
+    "comments": 99
+  },
+  "scores": {
+    "hot": 58,
+    "relevance": 80
+  },
+  "sentiment": "neutral"
+}

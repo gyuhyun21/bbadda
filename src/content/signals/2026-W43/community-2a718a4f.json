@@ -1,0 +1,23 @@
+{
+  "id": "community-2a718a4f",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg",
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 젝스하우스 Zack's House",
+  "url": "https://blog.naver.com/zackshouse/224444185992",
+  "title": "내일 17일 오후2시 준 PO 무적엘지 VS 기아",
+  "published_at": "2026-10-16T23:04:00.000+09:00",
+  "collected_at": "2026-10-16T15:24:00.965Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

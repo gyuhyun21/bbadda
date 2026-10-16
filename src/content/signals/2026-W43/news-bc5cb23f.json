@@ -1,0 +1,23 @@
+{
+  "id": "news-bc5cb23f",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "부산경남대표방송 KNN 뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5xc3ZIdzg4NVdQQ3lNMC1RWHQ5X00tbV9TMXoxTUVlUHVwa1VCcUFHV0x5R1V5bmxjRmxLcWpNOU9JaXhxd09DampudWJsZF9GNjRaMg?oc=5",
+  "title": "9년째 가을야구 탈락...그래도 쏟아지는 '진기록'",
+  "published_at": "2026-10-12T11:24:00.000Z",
+  "collected_at": "2026-10-16T15:24:00.965Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 32,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

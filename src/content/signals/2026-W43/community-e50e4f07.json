@@ -1,0 +1,22 @@
+{
+  "id": "community-e50e4f07",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 오늘의 그라운드",
+  "url": "https://blog.naver.com/grground/224444139860",
+  "title": "&#34;올해도 못 쳤는데 내년에도 만나라고요?&#34; SSG 아빌라, 결국 최대 2년 재계약",
+  "published_at": "2026-10-16T22:04:00.000+09:00",
+  "collected_at": "2026-10-16T15:24:00.965Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

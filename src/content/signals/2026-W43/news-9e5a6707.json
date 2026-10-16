@@ -1,0 +1,23 @@
+{
+  "id": "news-9e5a6707",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "news",
+  "source_name": "경향신문",
+  "url": "https://www.khan.co.kr/article/202610161624001",
+  "title": "한화 이글스 홈구장 스카이박스 ‘공짜 관람’ 의혹···경찰 간부 입건",
+  "published_at": "2026-10-16T07:24:00.000Z",
+  "collected_at": "2026-10-16T15:24:00.965Z",
+  "summary_ko": "경향신문 보도에 따르면 한화 이글스 홈구장 스카이박스를 무료로 관람했다는 의혹과 관련해 경찰 간부가 입건됐다.",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 50
+  },
+  "sentiment": "neutral",
+  "image": "https://img.khan.co.kr/news/2026/10/16/news-p.v1.20261016.5a7d3d737a64432da32315177dfde5e8_P1.jpg"
+}

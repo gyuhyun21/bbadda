@@ -1,0 +1,27 @@
+{
+  "id": "youtube-3deabf7a",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "기아타이거즈 KIA TIGERS",
+  "url": "https://www.youtube.com/watch?v=HfM3d88Z6y8",
+  "title": "올해 박정우 한준수 황동하 박재현 활약을 기념하는 유니폼 출시!",
+  "published_at": "2026-10-14T03:00:19Z",
+  "collected_at": "2026-10-16T15:24:00.965Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 183658,
+    "likes": 2916,
+    "comments": 343
+  },
+  "scores": {
+    "hot": 72,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

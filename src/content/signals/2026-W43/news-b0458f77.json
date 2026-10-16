@@ -1,0 +1,23 @@
+{
+  "id": "news-b0458f77",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://www.mt.co.kr/amp/sports/2026/10/16/2026101522250893575",
+  "title": "'7년 연속 KS' 승부사 데려다 리빌딩만 3년... '7위·7위·7위' 롯데, 김태형 감독만 바꾼다고 달라질까",
+  "published_at": "2026-10-15T21:01:00.000Z",
+  "collected_at": "2026-10-16T15:24:00.965Z",
+  "summary_ko": "머니투데이는 3년 연속 7위에 그친 롯데가 김태형 감독만 바꾼다고 달라질지 짚었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 61,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "image": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/10/2026101522250893575_1.jpg"
+}

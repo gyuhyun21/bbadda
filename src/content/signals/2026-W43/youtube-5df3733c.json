@@ -1,0 +1,28 @@
+{
+  "id": "youtube-5df3733c",
+  "issue": "2026-W43",
+  "module": "league",
+  "teams": [
+    "lg",
+    "doosan"
+  ],
+  "team": "lg",
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=HY0o-vBlqWM",
+  "title": "격차를 벌리는 스퀴즈 번트 타점! LG 신민재의 정확한 작전 수행 능력! | WC1_두산 vs LG | 10.14 | 크보모먼트 | KBO 야구 하이라이트",
+  "published_at": "2026-10-14T13:30:39Z",
+  "collected_at": "2026-10-16T15:24:00.965Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 52826,
+    "likes": 268,
+    "comments": 61
+  },
+  "scores": {
+    "hot": 56,
+    "relevance": 80
+  },
+  "sentiment": "neutral"
+}

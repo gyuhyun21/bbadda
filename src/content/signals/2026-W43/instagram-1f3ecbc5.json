@@ -1,0 +1,26 @@
+{
+  "id": "instagram-1f3ecbc5",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "instagram",
+  "official": true,
+  "source_name": "Instagram @busanlottegiants",
+  "url": "https://www.instagram.com/reel/DeZgB5bT2M0/",
+  "title": "롯데 자이언츠 공식 인스타그램: 역대 최초 211안타이자 3시즌 통산 600번째 안타를 달성하는 레이예스🫰",
+  "published_at": "2026-10-12T14:59:00+0000",
+  "collected_at": "2026-10-16T15:24:00.965Z",
+  "summary_ko": "롯데 자이언츠가 레이예스의 역대 최초 211안타와 3시즌 통산 600안타 달성을 공식 인스타그램으로 알렸다.",
+  "metrics": {
+    "likes": 17519,
+    "comments": 130
+  },
+  "scores": {
+    "hot": 34,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

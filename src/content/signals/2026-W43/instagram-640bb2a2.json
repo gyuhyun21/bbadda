@@ -1,0 +1,26 @@
+{
+  "id": "instagram-640bb2a2",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "instagram",
+  "official": true,
+  "source_name": "Instagram @ssglanders.incheon",
+  "url": "https://www.instagram.com/p/DejUtFloACD/",
+  "title": "SSG 랜더스 공식 인스타그램: -",
+  "published_at": "2026-10-16T10:30:35+0000",
+  "collected_at": "2026-10-16T15:24:00.965Z",
+  "summary_ko": "",
+  "metrics": {
+    "likes": 6961,
+    "comments": 66
+  },
+  "scores": {
+    "hot": 66,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

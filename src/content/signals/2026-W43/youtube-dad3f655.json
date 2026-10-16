@@ -1,0 +1,27 @@
+{
+  "id": "youtube-dad3f655",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "키움히어로즈",
+  "url": "https://www.youtube.com/watch?v=j5lleN3EkbQ",
+  "title": "뜨거운 함성이 가득했던 2026시즌ㅣ홈 최종전 (10.07)",
+  "published_at": "2026-10-15T11:00:24Z",
+  "collected_at": "2026-10-16T15:24:00.965Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 17745,
+    "likes": 404,
+    "comments": 105
+  },
+  "scores": {
+    "hot": 69,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "youtube-c98f1d2f",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "기아타이거즈 KIA TIGERS",
+  "url": "https://www.youtube.com/watch?v=tH1avU7Prtw",
+  "title": "가을야구를 앞둔 훈련, 그리고 이범호 감독의 출사표",
+  "published_at": "2026-10-16T08:00:23Z",
+  "collected_at": "2026-10-16T15:24:00.965Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 205701,
+    "likes": 4625,
+    "comments": 452
+  },
+  "scores": {
+    "hot": 78,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

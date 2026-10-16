@@ -1,0 +1,23 @@
+{
+  "id": "news-9dfb46db",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "news",
+  "source_name": "뉴시스",
+  "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261016_0003829713",
+  "title": "역전 위기 막은 두산 김민석, 9~10월 최고 호수비 선정",
+  "published_at": "2026-10-16T11:02:01.000Z",
+  "collected_at": "2026-10-16T15:24:00.965Z",
+  "summary_ko": "두산 김민석이 역전 위기를 막은 수비로 9~10월 최고 호수비에 선정됐다고 뉴시스가 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 80
+  },
+  "sentiment": "neutral",
+  "image": "https://img1.newsis.com/2026/10/16/NISI20261016_0002265922_web.jpg"
+}

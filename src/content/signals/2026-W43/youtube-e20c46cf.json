@@ -1,0 +1,29 @@
+{
+  "id": "youtube-e20c46cf",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg",
+    "hanwha",
+    "nc",
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "크보쌍둥이",
+  "url": "https://www.youtube.com/watch?v=XT3jsanPE98",
+  "title": "최지훈 김호령 중견수 영입전쟁? ssg 한화 nc 기아 노린다! 구체적인 금액도? #최지훈 #김호령 #ssg랜더스 #한화이글스 #기아타이거즈",
+  "published_at": "2026-10-16T13:18:11Z",
+  "collected_at": "2026-10-16T15:24:00.965Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 3851,
+    "likes": 167,
+    "comments": 53
+  },
+  "scores": {
+    "hot": 79,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

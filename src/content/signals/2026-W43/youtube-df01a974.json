@@ -1,0 +1,27 @@
+{
+  "id": "youtube-df01a974",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "기아타이거즈 KIA TIGERS",
+  "url": "https://www.youtube.com/watch?v=vMHuw69nF6Y",
+  "title": "다시 뜨겁게! 2026 KIA 타이거즈 준플레이오프 엔트리",
+  "published_at": "2026-10-16T06:24:29Z",
+  "collected_at": "2026-10-16T15:24:00.965Z",
+  "summary_ko": "KIA 타이거즈 공식 채널이 2026 준플레이오프 엔트리를 소개하는 영상을 올렸다.",
+  "metrics": {
+    "views": 86550,
+    "likes": 2939,
+    "comments": 403
+  },
+  "scores": {
+    "hot": 85,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

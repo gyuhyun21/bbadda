@@ -1,0 +1,27 @@
+{
+  "id": "youtube-ce82b43e",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "kt wiz - 위즈TV",
+  "url": "https://www.youtube.com/watch?v=uPK67bvyuUc",
+  "title": "안녕하십니까!!!!!!!! 수원의 아들이 되겠습니다!!!!!! 2027 신인들의 입단식 비하인드🧙 [위즈티비]",
+  "published_at": "2026-10-14T11:19:40Z",
+  "collected_at": "2026-10-16T15:24:00.965Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 57052,
+    "likes": 998,
+    "comments": 148
+  },
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}
