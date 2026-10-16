@@ -1,0 +1,23 @@
+---
+// '모두 보기': 그 자리에서 섹션이 아래로 펼쳐지며 나머지 소식이 날짜별로 나온다. 최근 30일까지(그보다 오래된 것은 날짜별 페이지로).
+import RailItem from './RailItem.astro';
+import { dayLabel, kstDay } from '../lib/site.ts';
+import type { Signal } from '../lib/schemas.ts';
+interface Props { id: string; label: string; signals: Signal[]; showTeams?: boolean; olderHref: string }
+const { id, label, signals, showTeams = true, olderHref } = Astro.props;
+const days = [...new Set(signals.map((s) => kstDay(s.published_at)))].sort().reverse();
+---
+{signals.length > 0 ? (
+  <>
+    <div class="rail-expand" id={`rail-more-${id}`} hidden>
+      {days.map((d) => (
+        <section class="rail-day">
+          <h3 class="rail-day-title">{dayLabel(d)}</h3>
+          <ul class="rail-list">{signals.filter((s) => kstDay(s.published_at) === d).map((s) => <RailItem signal={s} showTeams={showTeams} />)}</ul>
+        </section>
+      ))}
+      <a class="rail-older" href={olderHref}>30일보다 지난 소식은 날짜별 보기에서</a>
+    </div>
+    <button type="button" class="rail-more" aria-expanded="false" aria-controls={`rail-more-${id}`} data-rail-more data-label-open={`${label} (${signals.length}건)`}>{label} ({signals.length}건)</button>
+  </>
+) : <a class="rail-more" href={olderHref}>{label}</a>}

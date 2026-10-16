@@ -1,0 +1,19 @@
+---
+// 구단 레일의 소식 한 줄: 사진(있으면) + 제목 + 요약 + 팀·출처·날짜
+import { newsImages } from '../lib/config.ts';
+import { displayTitle, fmtDate, teamById, youtubeId } from '../lib/site.ts';
+import type { Signal } from '../lib/schemas.ts';
+interface Props { signal: Signal; showTeams?: boolean }
+const { signal: s, showTeams = true } = Astro.props;
+const yt = s.source_type === 'youtube' ? youtubeId(s.url) : undefined;
+const thumb = yt ? `https://i.ytimg.com/vi/${yt}/mqdefault.jpg` : newsImages() ? s.image : undefined;
+const teams = showTeams ? s.teams.slice(0, 2).map((id) => teamById.get(id)?.short).filter(Boolean).join('·') : '';
+---
+<li>
+  {thumb && <img src={thumb} alt="" loading="lazy" referrerpolicy="no-referrer" width="160" height="90" onerror="this.remove()" />}
+  <div>
+    <a href={s.url} target="_blank" rel="noopener noreferrer">{displayTitle(s)}</a>
+    <p>{s.summary_ko}</p>
+    <span>{teams ? `${teams} · ` : ''}{s.official ? '오피셜 · ' : ''}{s.source_name} · {fmtDate(s.published_at)}</span>
+  </div>
+</li>
