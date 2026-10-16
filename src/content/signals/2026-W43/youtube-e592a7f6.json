@@ -1,0 +1,26 @@
+{
+  "id": "youtube-e592a7f6",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "youtube",
+  "source_name": "효주",
+  "url": "https://www.youtube.com/watch?v=E7evNGA1WU8",
+  "title": "저 정말 바라는거 없어요 | #엘지트윈스 #엘지 #LGTWINS #LG #야구 #BASEBALL #KBO #연애의조건 #베스티 ",
+  "published_at": "2026-10-16T13:58:44Z",
+  "collected_at": "2026-10-16T21:37:40.315Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1288,
+    "likes": 6,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 42,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

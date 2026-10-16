@@ -1,0 +1,24 @@
+{
+  "id": "community-03261951",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "레딧 r/KBO",
+  "url": "https://www.reddit.com/r/KBO/comments/1x6r74c/2026_%EC%8B%A0%ED%95%9C_sol_kbo_postseason_catch_phrases/",
+  "title": "2026 신한 SOL KBO Postseason Catch Phrases",
+  "published_at": "2026-10-15T15:00:00.000Z",
+  "collected_at": "2026-10-16T21:37:40.315Z",
+  "summary_ko": "",
+  "excerpt": "... Doosan Bears: All The Way, 끝까지 간다 LG Twins: OUR JAMSIL Forever LG KIA…",
+  "metrics": {},
+  "scores": {
+    "hot": 57,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

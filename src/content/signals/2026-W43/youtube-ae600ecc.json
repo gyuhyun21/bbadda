@@ -1,0 +1,27 @@
+{
+  "id": "youtube-ae600ecc",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "크보쌍둥이",
+  "url": "https://www.youtube.com/watch?v=HN3cmXZkwSE",
+  "title": "26시즌 골들글러브 후보 완벽분석! MVP 신인왕은 이미 확정이라고? #엘지트윈스 #기아타이거즈 #한화이글스 #ssg랜더스 #오스틴 #허인서 #김도영 #박성만 #박민우",
+  "published_at": "2026-10-16T16:34:44Z",
+  "collected_at": "2026-10-16T21:37:40.315Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 5618,
+    "likes": 77,
+    "comments": 10
+  },
+  "scores": {
+    "hot": 58,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

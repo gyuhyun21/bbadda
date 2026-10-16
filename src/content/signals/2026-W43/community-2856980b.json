@@ -1,0 +1,23 @@
+{
+  "id": "community-2856980b",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg",
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 이세상스포츠",
+  "url": "https://blog.naver.com/biasnews/224444323870",
+  "title": "엘지 vs 기아 준플레이오프 1차전 기선제압이 그렇게 중요한가요?",
+  "published_at": "2026-10-17T03:16:00.000+09:00",
+  "collected_at": "2026-10-16T21:37:40.315Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "youtube-34fbb8fe",
+  "issue": "2026-W43",
+  "module": "league",
+  "teams": [],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=6t8zmHr1oUE",
+  "title": "[2026 신한 SOL KBO 와일드카드 결정전 1차전 - 경기결과]",
+  "published_at": "2026-10-14T13:38:33Z",
+  "collected_at": "2026-10-16T21:37:40.315Z",
+  "summary_ko": "KBO 공식 채널이 와일드카드 결정전 1차전 경기 결과 영상을 올렸다.",
+  "metrics": {
+    "views": 39380,
+    "likes": 420,
+    "comments": 40
+  },
+  "scores": {
+    "hot": 66,
+    "relevance": 30
+  },
+  "sentiment": "neutral"
+}

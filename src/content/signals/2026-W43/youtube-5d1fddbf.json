@@ -1,0 +1,26 @@
+{
+  "id": "youtube-5d1fddbf",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "youtube",
+  "source_name": "볼판",
+  "url": "https://www.youtube.com/watch?v=K37ylp8nnnk",
+  "title": "「선발 던지는 것보다 더 떨려요」 구창모, 배우 서강준 시구 과외 | NC 다이노스 시구 비하인드",
+  "published_at": "2026-10-16T12:30:09Z",
+  "collected_at": "2026-10-16T21:37:40.315Z",
+  "summary_ko": "NC 구창모가 배우 서강준의 시구를 돕는 시구 과외 비하인드를 담은 영상이다.",
+  "metrics": {
+    "views": 49,
+    "likes": 1,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 37,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

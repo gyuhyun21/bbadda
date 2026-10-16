@@ -1,0 +1,23 @@
+{
+  "id": "community-a7412568",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 뒤집곰",
+  "url": "https://blog.naver.com/pl5to/224444208897",
+  "title": "이게 뒤집히네.. 2026프로야구일정순위 마지막까지 숨 막히는 1위 싸움",
+  "published_at": "2026-10-16T23:33:00.000+09:00",
+  "collected_at": "2026-10-16T21:37:40.315Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

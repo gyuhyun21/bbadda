@@ -1,0 +1,20 @@
+{
+  "id": "news-32a299fa",
+  "issue": "2026-W43",
+  "module": "league",
+  "teams": [],
+  "source_type": "news",
+  "source_name": "뉴시스",
+  "url": "https://www.newsis.com/view/NISI20261013_0002261427",
+  "title": "[그래픽] 2026 KBO 포스트 시즌 경기 일정",
+  "published_at": "2026-10-13T00:27:28.000Z",
+  "collected_at": "2026-10-16T21:37:40.315Z",
+  "summary_ko": "2026 KBO 포스트시즌 경기 일정을 정리한 그래픽 기사다.",
+  "metrics": {},
+  "scores": {
+    "hot": 35,
+    "relevance": 30
+  },
+  "sentiment": "neutral",
+  "image": "https://img1.newsis.com/2026/10/13/NISI20261013_0002261427_web.jpg"
+}

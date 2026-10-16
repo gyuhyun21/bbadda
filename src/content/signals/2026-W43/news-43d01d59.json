@@ -1,0 +1,20 @@
+{
+  "id": "news-43d01d59",
+  "issue": "2026-W43",
+  "module": "league",
+  "teams": [],
+  "source_type": "news",
+  "source_name": "이투데이",
+  "url": "https://www.etoday.co.kr/news/view/2635205",
+  "title": "2027 KBO 신인도 출전 가능⋯울산-KBO 가을리그 15일 개막",
+  "published_at": "2026-10-13T05:21:00.000Z",
+  "collected_at": "2026-10-16T21:37:40.315Z",
+  "summary_ko": "울산-KBO 가을리그가 15일 개막하며, 2027 KBO 신인도 출전할 수 있다는 보도다.",
+  "metrics": {},
+  "scores": {
+    "hot": 36,
+    "relevance": 30
+  },
+  "sentiment": "neutral",
+  "image": "https://img.etoday.co.kr/pto_db/2026/10/20261013142156_2400694_1200_950.jpg"
+}

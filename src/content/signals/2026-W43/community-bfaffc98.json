@@ -1,0 +1,22 @@
+{
+  "id": "community-bfaffc98",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 이슈 한 스푼",
+  "url": "https://blog.naver.com/issue_spoon/224443710140",
+  "title": "김하성 키움 복귀설 등장 조건과 현실적 가능성 분석",
+  "published_at": "2026-10-16T14:19:00.000+09:00",
+  "collected_at": "2026-10-16T21:37:40.315Z",
+  "summary_ko": "블로그 글은 김하성의 키움 복귀설이 나온 배경과 현실성을 분석한다. 확인된 사실은 아니다.",
+  "metrics": {},
+  "scores": {
+    "hot": 62,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

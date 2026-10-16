@@ -1,0 +1,22 @@
+{
+  "id": "community-68e9f93f",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 오늘의 경기",
+  "url": "https://blog.naver.com/joojoo-secret/224443695313",
+  "title": "“강백호·김현수 놓치더니 이번엔 구자욱?” 두산, 200억 FA 영입전 뛰어들까",
+  "published_at": "2026-10-16T14:30:00.000+09:00",
+  "collected_at": "2026-10-16T21:37:40.315Z",
+  "summary_ko": "블로그 글은 두산이 FA 구자욱 영입전에 뛰어들 수 있는지 전망한다. 구단 입장은 확인되지 않았다.",
+  "metrics": {},
+  "scores": {
+    "hot": 62,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

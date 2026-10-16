@@ -1,0 +1,23 @@
+{
+  "id": "community-ce0337fd",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan",
+    "lotte"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 필드인사이드",
+  "url": "https://blog.naver.com/value486/224443996192",
+  "title": "\"김태형 다음은 나야? 두산 잡으러 갑니다!\" 롯데 전설 조성환, 16년 원클럽맨의 감독 복귀 가능성",
+  "published_at": "2026-10-16T18:50:00.000+09:00",
+  "collected_at": "2026-10-16T21:37:40.315Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

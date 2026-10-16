@@ -1,0 +1,23 @@
+{
+  "id": "news-f05e5f44",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "news",
+  "source_name": "이투데이",
+  "url": "https://www.etoday.co.kr/news/view/2636787",
+  "title": "키움, 부상 선수 17명 재활 현황 공개⋯이주형 12월 복귀 예상",
+  "published_at": "2026-10-16T07:19:00.000Z",
+  "collected_at": "2026-10-16T21:37:40.315Z",
+  "summary_ko": "키움이 부상 선수 17명의 재활 현황을 공개했다. 이주형은 12월 복귀가 예상된다.",
+  "metrics": {},
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "mixed",
+  "image": "https://img.etoday.co.kr/pto_db/2026/10/20261016161644_2402693_1200_800.jpg"
+}

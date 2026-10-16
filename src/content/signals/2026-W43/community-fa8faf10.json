@@ -1,0 +1,23 @@
+{
+  "id": "community-fa8faf10",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 뒤집곰",
+  "url": "https://blog.naver.com/pl5to/224443777529",
+  "title": "\"1경기 차로 갈린 운명..\" 2026프로야구정규리그팀순위, 대역전극 펼친 1위는?",
+  "published_at": "2026-10-16T15:17:00.000+09:00",
+  "collected_at": "2026-10-16T21:37:40.315Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

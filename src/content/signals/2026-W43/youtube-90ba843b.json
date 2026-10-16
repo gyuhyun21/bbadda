@@ -1,0 +1,24 @@
+{
+  "id": "youtube-90ba843b",
+  "issue": "2026-W43",
+  "module": "league",
+  "teams": [],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=BJqJEtWxCVk",
+  "title": "하현승과 이호민의 우정 서사?!🤝",
+  "published_at": "2026-10-16T09:00:33Z",
+  "collected_at": "2026-10-16T21:37:40.315Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 14429,
+    "likes": 101,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 57,
+    "relevance": 10
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "news-cc1f4fa5",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "조선일보",
+  "url": "https://www.chosun.com/sports/baseball/2026/10/16/MZRGKYJTGU3DOM3BGE2WKNZQHE/",
+  "title": "전임자는 '128억 선물' 받았다…'AG 金→전격 대전행' 사령탑 생각은? \"아직 이야기를…\" [대전 현장]",
+  "published_at": "2026-10-16T11:28:00.000Z",
+  "collected_at": "2026-10-16T21:37:40.315Z",
+  "summary_ko": "한화 류지현 감독의 취임을 다룬 대전 현장 기사다. 전임자가 받은 128억 계약과 대비해 새 사령탑의 생각을 물었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "image": "https://www.chosun.com/resizer/v2/GFSTIMJUGYZDANBQG44DMMZXGY.jpg?auth=0c89ee19b5d5a4d642fe7800e9e8a3265bfc7358ee45d9c3fa367afbf4f178fa&width=700&height=367&smart=true"
+}

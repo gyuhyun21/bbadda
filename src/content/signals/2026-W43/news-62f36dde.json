@@ -1,0 +1,23 @@
+{
+  "id": "news-62f36dde",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "news",
+  "source_name": "조선일보",
+  "url": "https://www.chosun.com/sports/baseball/2026/10/13/GY2WEYJZGAYTAOBTG42WMNZRMY/",
+  "title": "‘류지현 한화행’ 야구대표팀 감독 공석에도 APBC 명단 공개",
+  "published_at": "2026-10-13T07:02:37.000Z",
+  "collected_at": "2026-10-16T21:37:40.315Z",
+  "summary_ko": "류지현 감독이 한화로 가면서 야구대표팀 감독이 공석인 가운데 APBC 명단이 공개됐다고 조선일보가 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 37,
+    "relevance": 80
+  },
+  "sentiment": "neutral",
+  "image": "https://www.chosun.com/resizer/v2/GJTDSOJVGI3WKZJZGNQTMMZTGE.jpg?auth=a81ef22bea4b9f18ba6cb3373ef7f305998a379bd7c0d473d1a015d9e50c9c33&width=650&height=341&smart=true"
+}

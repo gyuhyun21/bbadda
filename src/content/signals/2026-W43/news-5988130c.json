@@ -1,0 +1,20 @@
+{
+  "id": "news-5988130c",
+  "issue": "2026-W43",
+  "module": "league",
+  "teams": [],
+  "source_type": "news",
+  "source_name": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202610132025183237",
+  "title": "'홈런왕' 김도영 vs '200안타' 레이예스 vs 2관왕 곽빈... KBO, MVP 후보 14인 확정",
+  "published_at": "2026-10-13T11:28:47.000Z",
+  "collected_at": "2026-10-16T21:37:40.315Z",
+  "summary_ko": "KBO가 MVP 후보 14인을 확정했다. 김도영·레이예스·곽빈 등이 후보로 거론됐다.",
+  "metrics": {},
+  "scores": {
+    "hot": 39,
+    "relevance": 30
+  },
+  "sentiment": "positive",
+  "image": "https://image.fnnews.com/resource/media/image/2026/10/12/202610122224426107_e.jpg"
+}

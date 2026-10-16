@@ -1,0 +1,23 @@
+{
+  "id": "community-fe3ea9c3",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=ib&document_srl=10447927414",
+  "title": "NC 다이노스의 진기록 하나 10개구단 체제 이후로 최종순위 1~10위 ...",
+  "published_at": "2026-10-14T15:00:00.000Z",
+  "collected_at": "2026-10-16T21:37:40.315Z",
+  "summary_ko": "에펨코리아 글이 10개 구단 체제 이후 NC의 최종 순위 기록을 짚는다.",
+  "excerpt": "... 1위 : 20202위 : 20163위 : 2015(정규시즌 2위였지만 두산의 업셋으로)4위 : 2017, 20235위 :…",
+  "metrics": {},
+  "scores": {
+    "hot": 48,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

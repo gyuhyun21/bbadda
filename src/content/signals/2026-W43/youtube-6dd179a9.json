@@ -1,0 +1,27 @@
+{
+  "id": "youtube-6dd179a9",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "이름 뭐하지",
+  "url": "https://www.youtube.com/watch?v=erxff-IQask",
+  "title": "국대 1선발이 무사만루 탈출 하는 법 #곽빈 #두산베어스 #LG트윈스 #국가대표 #아시안게임 #삼진 #무사만루 #위기탈출 #추천 #떡상 #구독과좋아요 #구독 #잠살야구장 #야구",
+  "published_at": "2026-10-16T15:33:55Z",
+  "collected_at": "2026-10-16T21:37:40.315Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1186,
+    "likes": 6,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 42,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

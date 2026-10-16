@@ -1,0 +1,23 @@
+{
+  "id": "community-b59c875c",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 사유의 방",
+  "url": "https://blog.naver.com/h_yeonfeel/224443961501",
+  "title": "잠실, 너는 최고의 야구장이었어.",
+  "published_at": "2026-10-16T18:37:00.000+09:00",
+  "collected_at": "2026-10-16T21:37:40.315Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}
