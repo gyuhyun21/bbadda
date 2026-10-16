@@ -20,7 +20,7 @@ Node 22.12+ 필요.
 | 파일 | 내용 |
 |---|---|
 | `config/teams.yaml` | 10개 구단: id, 이름, 짧은 이름, 연고지, 팀 컬러(TODO), 공식 사이트·YouTube·인스타그램(확인한 것만), 뉴스 검색어, 별칭 |
-| `config/site.yaml` | 화면 스위치: `layout`(magazine/classic), `community_section` |
+| `config/site.yaml` | 화면 스위치: `layout`(magazine/classic), `community_section`, `news_images`(뉴스 사진 원 주소 표시, 환경변수 `SITE_NEWS_IMAGES=on|off` 우선) |
 
 **레이아웃 되돌리기**: `config/site.yaml` 의 `layout: magazine` 을 `classic` 으로 바꿔 머지하면 단순 지면 화면으로 돌아간다. 매거진 규칙은 모두 `src/styles/magazine.css` 의 `.layout-magazine` 아래에만 있다. 배포 환경변수 `SITE_LAYOUT` 이 파일 값보다 우선한다. 커뮤니티 섹션은 `community_section`(환경변수 `SITE_COMMUNITY=on|off`).
 

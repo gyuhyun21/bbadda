@@ -11,6 +11,10 @@ max_league_per_week: 40
 # 제목이 이 정규식에 맞으면 버린다(도박·광고 스팸 사이트)
 exclude_title_patterns: ["카지노", "토토 ?사이트", "먹튀", "슬롯", "바카라", "도박 (게임|옵션|사이트)", "옵션 설명", "게임 탐색"]
 
+# 사진 보강(npm run enrich): 요약을 쓴 뉴스의 원 기사 주소를 풀고 대표 이미지 주소(og:image)만 찾는다. 이미지 파일은 저장하지 않는다.
+# 화면 표시 여부는 config/site.yaml news_images 가 정한다.
+enrich: { resolve_google_news: true, og_image: true, max_items: 80 }
+
 news_rss:
   enabled: true
   when: 7d               # 구글 뉴스 기간. 이미 실린 글은 중복 제거로 빠진다

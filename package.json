@@ -11,6 +11,7 @@
     "collect": "node scripts/run.mjs scripts/collect/index.ts",
     "draft": "tsx scripts/draft.ts",
     "validate": "tsx scripts/validate.ts",
+    "enrich": "node scripts/run.mjs scripts/enrich.ts",
     "test": "tsx --test tests/*.test.ts",
     "clear-sample": "tsx scripts/clear-sample.ts"
   },
