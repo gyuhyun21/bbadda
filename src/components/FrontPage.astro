@@ -5,6 +5,8 @@ import SignalList from './SignalList.astro';
 import TeamChip from './TeamChip.astro';
 import TeamPicker from './TeamPicker.astro';
 import CommunitySection from './CommunitySection.astro';
+import RailItem from './RailItem.astro';
+import RailMore from './RailMore.astro';
 import { communitySection, newsImages, loadStandings, streakLabel } from '../lib/config.ts';
 import { TEAMS, loadAll, ofTeam, recent, hot, newest, kstDay, daysOf, onDay, dayLabel, seasonTitle, displayTitle, fmtDate, teamColor, teamById, isToday, youtubeId, BUILD_TIME } from '../lib/site.ts';
 const data = await loadAll();
@@ -24,14 +26,21 @@ const tiles = TEAMS.map((t) => {
 // 구단 레일: 순위 순서(config/standings.yaml, 사람이 갱신 — KBO 자동 수집 금지). 순위가 없으면 기본 순서
 const standings = loadStandings();
 const railTiles = standings ? [...tiles].sort((a, b) => (standings.teams[a.t.id]?.rank ?? 99) - (standings.teams[b.t.id]?.rank ?? 99)) : tiles;
-// '전체' 패널: 리그 전체 최근 소식(팬 반응 제외) 상위 6건
-const allLatest = [...fresh].filter((s) => s.module !== 'fans').sort(hot).slice(0, 6);
+// 레일 패널: 처음 보이는 양(전체 12, 구단 6), '모두 보기'로 펼치는 범위는 최근 30일
+const ALL_FIRST = 12;
+const TEAM_FIRST = 6;
+const since30 = BUILD_TIME - 30 * 86400_000;
+const in30 = all.filter((s) => s.module !== 'fans' && Date.parse(s.published_at) >= since30);
+const allSorted = [...in30].sort((a, b) => kstDay(b.published_at).localeCompare(kstDay(a.published_at)) || hot(a, b));
+const allFirst = allSorted.slice(0, ALL_FIRST);
+const allRest = allSorted.slice(ALL_FIRST);
+const teamFeed = (id: string) => [...in30].filter((s) => s.teams.includes(id)).sort((a, b) => kstDay(b.published_at).localeCompare(kstDay(a.published_at)) || Number(a.module !== 'team') - Number(b.module !== 'team') || hot(a, b));
 // 4) 리그(시즌에 따라 제목이 바뀐다)
-const league = recent(all.filter((s) => s.module === 'league' || s.module === 'rivalry'), 3).sort(hot);
+const league = recent(all.filter((s) => s.module === 'league' || s.module === 'rivalry'), 7).sort(hot);
 // 5) 오피셜 영상
-const officialVideos = all.filter((s) => s.official && s.source_type === 'youtube').sort(newest).slice(0, 12);
+const officialVideos = all.filter((s) => s.official && s.source_type === 'youtube').sort(newest).slice(0, 16);
 // 6) 팬 반응
-const fans = recent(all.filter((s) => s.module === 'fans'), 7).sort(hot).slice(0, 12);
+const fans = recent(all.filter((s) => s.module === 'fans'), 7).sort(hot).slice(0, 20);
 // 7) 날짜별 소식(최근 7일)
 const days = daysOf(all).slice(0, 7);
 ---
@@ -97,7 +106,7 @@ const days = daysOf(all).slice(0, 7);
 </section>
 
 <section class="block team-rail-block" aria-labelledby="h-team-rail">
-  {/* 구단 레일(layout: soft) — 이니셜 배지 10개, 누르면 그 구단 최근 소식이 아래에 바뀐다. 다른 레이아웃은 위 타일을 쓴다 */}
+  {/* 구단 레일(layout: soft) — '전체' + 순위순 이니셜 배지. 누르면 아래 패널이 바뀌고, '모두 보기'는 그 자리에서 펼쳐진다 */}
   <div class="block-head"><h2 id="h-team-rail">구단별 소식</h2><a href="/teams">모든 구단</a></div>
   <div class="team-rail" role="tablist" aria-label="구단 선택">
     <button type="button" role="tab" class="team-badge team-badge--all" id="rail-tab-all" data-rail-team="all" aria-controls="rail-panel-all" aria-selected="true">
@@ -117,47 +126,15 @@ const days = daysOf(all).slice(0, 7);
   </div>
   {standings && <p class="rail-note">{standings.label} 순위·연속 기록 · <a href={standings.source} target="_blank" rel="noopener noreferrer" data-no-modal>KBO 기록실</a> {Number(standings.as_of.slice(5, 7))}월 {Number(standings.as_of.slice(8, 10))}일 기준</p>}
   <div class="team-rail-panel" role="tabpanel" id="rail-panel-all" aria-labelledby="rail-tab-all" data-rail-panel="all">
-    <ul class="rail-list">
-      {allLatest.map((s) => {
-        const yt = s.source_type === 'youtube' ? youtubeId(s.url) : undefined;
-        const thumb = yt ? `https://i.ytimg.com/vi/${yt}/mqdefault.jpg` : newsImages() ? s.image : undefined;
-        return (
-          <li>
-            {thumb && <img src={thumb} alt="" loading="lazy" referrerpolicy="no-referrer" width="160" height="90" onerror="this.remove()" />}
-            <div>
-              <a href={s.url} target="_blank" rel="noopener noreferrer">{displayTitle(s)}</a>
-              <p>{s.summary_ko}</p>
-              <span>{s.teams.slice(0, 2).map((id) => teamById.get(id)?.short).filter(Boolean).join('·')}{s.teams.length ? ' · ' : ''}{s.official ? '오피셜 · ' : ''}{s.source_name} · {fmtDate(s.published_at)}</span>
-            </div>
-          </li>
-        );
-      })}
-    </ul>
-    <a class="rail-more" href="/archive">날짜별 소식 모두 보기</a>
+    <ul class="rail-list">{allFirst.map((s) => <RailItem signal={s} />)}</ul>
+    <RailMore id="all" label="전체 구단 소식 모두 보기" signals={allRest} olderHref="/archive" />
   </div>
-  {railTiles.map(({ t, top, more }) => {
-    const list = [top, ...more].filter((x) => x !== undefined);
+  {railTiles.map(({ t }) => {
+    const list = teamFeed(t.id);
     return (
       <div class="team-rail-panel" role="tabpanel" id={`rail-panel-${t.id}`} aria-labelledby={`rail-tab-${t.id}`} data-rail-panel={t.id} hidden>
-        {list.length ? (
-          <ul class="rail-list">
-            {list.map((s) => {
-              const yt = s.source_type === 'youtube' ? youtubeId(s.url) : undefined;
-              const thumb = yt ? `https://i.ytimg.com/vi/${yt}/mqdefault.jpg` : newsImages() ? s.image : undefined;
-              return (
-                <li>
-                  {thumb && <img src={thumb} alt="" loading="lazy" referrerpolicy="no-referrer" width="160" height="90" onerror="this.remove()" />}
-                  <div>
-                    <a href={s.url} target="_blank" rel="noopener noreferrer">{displayTitle(s)}</a>
-                    <p>{s.summary_ko}</p>
-                    <span>{s.official ? '오피셜 · ' : ''}{s.source_name} · {fmtDate(s.published_at)}</span>
-                  </div>
-                </li>
-              );
-            })}
-          </ul>
-        ) : <p class="empty-hint">최근 {t.name} 소식이 없습니다.</p>}
-        <a class="rail-more" href={`/teams/${t.id}`}>{t.name} 소식 모두 보기</a>
+        {list.length ? <ul class="rail-list">{list.slice(0, TEAM_FIRST).map((s) => <RailItem signal={s} showTeams={false} />)}</ul> : <p class="empty-hint">최근 {t.name} 소식이 없습니다.</p>}
+        <RailMore id={t.id} label={`${t.name} 소식 모두 보기`} signals={list.slice(TEAM_FIRST)} showTeams={false} olderHref={`/teams/${t.id}`} />
       </div>
     );
   })}
@@ -166,8 +143,8 @@ const days = daysOf(all).slice(0, 7);
 {league.length > 0 && (
   <section class="block front-league" aria-labelledby="h-season">
     <div class="block-head"><h2 id="h-season">{seasonTitle()}</h2><span class="small">리그 전체·라이벌·순위 경쟁</span></div>
-    <div class="grid">{league.slice(0, 4).map((s) => <SignalCard signal={s} />)}</div>
-    <SignalList signals={league.slice(4, 12)} />
+    <div class="grid">{league.slice(0, 8).map((s) => <SignalCard signal={s} />)}</div>
+    <SignalList signals={league.slice(8, 20)} />
   </section>
 )}
 
@@ -217,4 +194,15 @@ const days = daysOf(all).slice(0, 7);
   });
   // 처음에는 '전체'
   select('all');
+  // '모두 보기': 그 자리에서 펼치기 / 접기
+  document.querySelectorAll<HTMLButtonElement>('[data-rail-more]').forEach((b) => {
+    const box = document.getElementById(b.getAttribute('aria-controls')!);
+    b.addEventListener('click', () => {
+      const open = b.getAttribute('aria-expanded') !== 'true';
+      b.setAttribute('aria-expanded', String(open));
+      if (box) box.hidden = !open;
+      b.textContent = open ? '접기' : b.dataset.labelOpen!;
+      if (!open) b.closest('.team-rail-panel')?.scrollIntoView({ block: 'start' });
+    });
+  });
 </script>

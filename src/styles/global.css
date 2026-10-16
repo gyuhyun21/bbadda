@@ -429,3 +429,5 @@ html.modal-open { overflow: hidden; }
   .article-modal[open] { animation: am-in 0.18s ease-out; }
   @keyframes am-in { from { opacity: 0; transform: translateY(8px) scale(0.99); } to { opacity: 1; transform: none; } }
 }
+/* soft 밖의 레이아웃에서도 '모두 보기' 버튼이 기본 버튼처럼 보이지 않게 */
+button.rail-more { font: inherit; background: none; border: 0; cursor: pointer; color: var(--accent); padding: 8px 0; }
