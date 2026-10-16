@@ -55,3 +55,8 @@ export function periodOfIssue(id: string): { start: string; end: string } {
 export function currentIssueId(now = new Date()): string {
   return issueIdOf(now);
 }
+
+/** 이번 실행이 모으는 호: 월요일 06시(KST) 전이면 이번 주 월요일 발행 호(지난주 소식), 그 뒤면 다음 월요일 발행 호. */
+export function collectingIssueId(now = new Date()): string {
+  return issueIdOf(new Date(now.getTime() + 7 * DAY - 6 * 3600 * 1000));
+}

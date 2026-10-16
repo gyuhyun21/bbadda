@@ -36,4 +36,4 @@ export function readMarkdownDir(dir: string): Loaded<unknown>[] {
   });
 }
 
-export const contentDir = (root: string, kind: 'signals' | 'issues' | 'insights' | 'trackers') => join(root, 'src', 'content', kind);
+export const contentDir = (root: string, kind: 'signals' | 'issues' | 'columns') => join(root, 'src', 'content', kind);
