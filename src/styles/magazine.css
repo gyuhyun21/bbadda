@@ -1,0 +1,137 @@
+/* BBADDA — 'magazine' 레이아웃 (애플 뉴스룸풍 온라인 매거진)
+   모든 규칙은 .layout-magazine 아래에만 걸린다. config/site.yaml 의 layout 을 classic 으로 바꾸면 이 파일은 아무 영향이 없다.
+   원칙: 흰 바탕 + 회색 띠(#F5F5F7) 위에 둥근 흰 타일, 굵은 테두리·검은 구분선 대신 여백으로 구획, 분류 라벨 → 제목 → 날짜 순서. */
+
+.layout-magazine {
+  --bg: #FFFFFF;
+  --ink: #1D1D1F;
+  --muted: #6E6E73;
+  --line: #D2D2D7;
+  --panel: #F5F5F7;
+  --tile: #FFFFFF;
+  --radius: 18px;
+  --max: 1200px;
+}
+.layout-magazine body { background: var(--bg); }
+
+/* 전면 회색 띠: 콘텐츠 폭은 그대로 두고 배경만 화면 끝까지 */
+.layout-magazine .band { background: var(--panel); box-shadow: 0 0 0 100vmax var(--panel); clip-path: inset(0 -100vmax); }
+
+/* ── 상단 메뉴: 반투명 + 흐림, 얇은 선 ── */
+.layout-magazine .site-header { position: sticky; top: 0; background: rgba(255, 255, 255, 0.8); backdrop-filter: saturate(180%) blur(20px); -webkit-backdrop-filter: saturate(180%) blur(20px); border-bottom: 1px solid rgba(0, 0, 0, 0.08); }
+.layout-magazine .site-header .wrap { align-items: center; padding-top: 12px; padding-bottom: 12px; }
+.layout-magazine .brand { letter-spacing: 0.02em; font-size: 17px; font-weight: 700; }
+.layout-magazine .nav { gap: 2px 22px; font-size: 13px; font-weight: 400; }
+.layout-magazine .nav a { color: var(--muted); border-bottom: 0; padding: 4px 0; }
+.layout-magazine .nav a:hover, .layout-magazine .nav a[aria-current="page"] { color: var(--ink); }
+/* 모바일: 메뉴를 한 줄 가로 스크롤로 줄여 머리글 높이를 낮추고, 배경을 거의 불투명하게 해서 아래 글자가 비치지 않게 */
+@media (max-width: 719px) {
+  .layout-magazine .site-header { background: #FFFFFF; backdrop-filter: none; -webkit-backdrop-filter: none; }
+  .layout-magazine .site-header .wrap { flex-wrap: nowrap; gap: 16px; padding-top: 10px; padding-bottom: 10px; }
+  .layout-magazine .brand { flex: none; font-size: 16px; }
+  .layout-magazine .nav { flex-wrap: nowrap; overflow-x: auto; scrollbar-width: none; gap: 16px; -webkit-mask-image: linear-gradient(90deg, #000 85%, transparent); mask-image: linear-gradient(90deg, #000 85%, transparent); }
+  .layout-magazine .nav::-webkit-scrollbar { display: none; }
+  .layout-magazine .nav a { flex: none; }
+}
+
+/* ── 마스트헤드: 큰 굵은 제목, 회색 메타 ── */
+.layout-magazine .masthead { padding: 56px 0 28px; gap: 14px; }
+.layout-magazine .masthead h1 { font-weight: 700; letter-spacing: -0.035em; font-size: clamp(44px, 7.4vw, 96px); line-height: 1; }
+.layout-magazine .masthead h1 em { font-weight: 700; }
+.layout-magazine .masthead-top { order: 2; font-weight: 400; font-size: 14px; letter-spacing: 0; }
+.layout-magazine .masthead .issue-title { order: 1; font-size: clamp(19px, 2vw, 24px); color: var(--ink); font-weight: 600; letter-spacing: -0.01em; }
+
+/* ── 섹션: 검은 구분선 대신 여백 ── */
+.layout-magazine .block { border-top: 0; padding: 48px 0 56px; }
+.layout-magazine .block-head { margin-bottom: 24px; align-items: center; }
+.layout-magazine .block-head h2 { font-size: clamp(26px, 3vw, 36px); font-weight: 700; letter-spacing: -0.02em; }
+.layout-magazine .page-title { font-weight: 700; letter-spacing: -0.035em; padding-top: 56px; }
+.layout-magazine .eyebrow { letter-spacing: 0.04em; font-size: 12px; }
+.layout-magazine .btn { border-radius: 999px; border-color: var(--line); width: 40px; height: 40px; padding: 0; display: inline-grid; place-items: center; background: var(--panel); }
+.layout-magazine .btn:hover { background: var(--ink); color: #fff; border-color: var(--ink); }
+
+/* ── 타일(시그널 카드) ── */
+.layout-magazine .card { background: var(--tile); border-radius: var(--radius); overflow: hidden; gap: 0; transition: box-shadow .25s, transform .25s; box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.04); }
+.layout-magazine .card:hover { box-shadow: 0 10px 30px rgba(0, 0, 0, 0.10); transform: translateY(-2px); }
+.layout-magazine .card-visual { border: 0; aspect-ratio: 16 / 10; }
+.layout-magazine .card > :not(.card-visual) { padding-left: 20px; padding-right: 20px; }
+.layout-magazine .card .meta { padding-top: 16px; gap: 0 10px; }
+.layout-magazine .card-title { padding-top: 6px; font-size: 19px; font-weight: 700; line-height: 1.32; letter-spacing: -0.015em; }
+.layout-magazine .card-title a:hover { text-decoration: none; color: var(--accent); }
+.layout-magazine .card-orig { margin-top: 6px; }
+.layout-magazine .card-also { margin-top: 8px; }
+.layout-magazine .card-summary { margin-top: 10px; font-size: 14.5px; line-height: 1.6; color: #424245; }
+.layout-magazine .card-foot { margin-top: auto; padding-top: 14px; padding-bottom: 18px; font-size: 12.5px; }
+.layout-magazine .grid { gap: 20px; }
+
+/* 칩 → 분류 라벨(테두리 없는 작은 글자) */
+.layout-magazine .chip { border: 0; padding: 0; border-radius: 0; font-size: 11.5px; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: var(--muted); background: none; }
+.layout-magazine .chip--sample { color: var(--neg); }
+.layout-magazine .chip--warn { color: #8A5A12; }
+.layout-magazine .chip--slang { color: #6B4FA0; }
+
+/* ── Headline: 회색 띠 위 큰 타일 캐러셀 ── */
+.layout-magazine #h-cover { font-size: clamp(30px, 3.6vw, 44px); }
+.layout-magazine .block:has(#h-cover) { background: var(--panel); box-shadow: 0 0 0 100vmax var(--panel); clip-path: inset(0 -100vmax); }
+.layout-magazine .carousel { grid-auto-columns: min(84vw, 380px); gap: 20px; padding-bottom: 8px; scrollbar-width: none; }
+.layout-magazine .carousel::-webkit-scrollbar { display: none; }
+/* 첫 카드는 대표 기사: 데스크톱에서 두 칸 폭, 이미지 왼쪽 · 글 오른쪽 */
+@media (min-width: 720px) {
+  .layout-magazine .carousel > .card:first-child { grid-column: span 2; display: grid; grid-template-columns: 1.15fr 1fr; grid-auto-rows: min-content; align-content: start; }
+  .layout-magazine .carousel > .card:first-child > .card-visual { grid-column: 1; grid-row: 1 / span 9; aspect-ratio: auto; height: 100%; min-height: 360px; }
+  .layout-magazine .carousel > .card:first-child > :not(.card-visual) { grid-column: 2; padding-left: 28px; padding-right: 28px; }
+  .layout-magazine .carousel > .card:first-child .meta { padding-top: 28px; }
+  .layout-magazine .carousel > .card:first-child .card-title { font-size: clamp(24px, 2.4vw, 32px); line-height: 1.25; }
+  .layout-magazine .carousel > .card:first-child .card-summary { font-size: 16px; }
+}
+
+/* ── Editor's Brief: 세 장의 회색 타일 ── */
+.layout-magazine .brief { gap: 16px; }
+.layout-magazine .brief-item { border: 0; background: var(--panel); border-radius: var(--radius); padding: 24px; align-content: start; }
+.layout-magazine .brief-item:first-child { padding-left: 24px; }
+.layout-magazine .brief-item p { font-size: 17px; line-height: 1.65; }
+.layout-magazine .brief-item .eyebrow { font-size: 28px; font-weight: 700; color: var(--accent); letter-spacing: -0.02em; text-transform: none; }
+@media (min-width: 900px) { .layout-magazine .brief { gap: 20px; } .layout-magazine .brief-item { border-left: 0; padding: 28px; } .layout-magazine .brief-item:first-child { padding-left: 28px; } }
+
+/* ── 리그·팀 섹션: 회색 띠 + 흰 타일 ── */
+.layout-magazine .block.teams { background: var(--panel); box-shadow: 0 0 0 100vmax var(--panel); clip-path: inset(0 -100vmax); margin-top: 8px; padding-top: 64px; }
+
+.layout-magazine .module { border-top: 0; margin-top: 40px; padding-top: 0; }
+/* 설명 상자 고정은 두 단 배치(넓은 화면)에서만 — 한 단인 모바일에서는 카드 위로 겹친다 */
+@media (min-width: 960px) { .layout-magazine .module-side { position: sticky; top: 72px; align-self: start; } }
+.layout-magazine .module-side h3 { font-size: 22px; font-weight: 700; letter-spacing: -0.02em; }
+.layout-magazine .module-side h3::before { width: 8px; height: 8px; border-radius: 50%; }
+.layout-magazine .module-text.rich > p:first-child { font-size: 18px; font-weight: 700; letter-spacing: -0.015em; }
+.layout-magazine .rich li { border-left: 0; padding-left: 0; }
+.layout-magazine .module-stats { border-top: 0; background: var(--tile); border-radius: 12px; padding: 4px 14px; }
+.layout-magazine .module-stats div:last-child { border-bottom: 0; }
+.layout-magazine .themes li { border: 0; background: var(--tile); border-radius: 999px; padding: 3px 10px; }
+.layout-magazine .empty-hint { border: 0; background: var(--tile); border-radius: 12px; font-style: normal; }
+
+/* 카드 밖 나머지 목록: 흰 판 하나 */
+.layout-magazine .more-list { background: var(--tile); border-radius: var(--radius); padding: 18px 22px 6px; }
+.layout-magazine .more-list ul { border-top: 0; }
+.layout-magazine .more-list li { border-bottom-color: #ECECEF; }
+.layout-magazine .more-list li:last-child { border-bottom: 0; }
+.layout-magazine .crossref ul { border-top: 0; background: var(--tile); border-radius: 12px; padding: 0 16px; }
+
+.layout-magazine .issue-row { border-top-color: #ECECEF; }
+.layout-magazine .issue-row:hover { background: var(--panel); border-radius: 12px; }
+.layout-magazine .filters { border: 0; background: var(--panel); border-radius: var(--radius); }
+.layout-magazine .filters select { border-color: var(--line); border-radius: 10px; }
+
+/* ── 바닥글 ── */
+.layout-magazine .site-footer { border-top: 0; background: var(--panel); margin-top: 0; font-size: 12px; }
+
+/* Community 섹션 — 작은 띠 */
+.layout-magazine .community { padding: 40px 0 44px; }
+.layout-magazine .community .block-head h2 { font-size: clamp(22px, 2.4vw, 28px); }
+
+/* BBADDA 전용 — 매거진 레이아웃 */
+.layout-magazine .team-section { border: 0; background: var(--tile); border-radius: var(--radius); }
+.layout-magazine .team-section.is-mine { box-shadow: 0 0 0 2px var(--ink); }
+.layout-magazine .block.league { padding-top: 48px; }
+.layout-magazine .chip--new { color: var(--accent); }
+.layout-magazine .chip--official { color: var(--ink); }
+.layout-magazine .team-picker-chips .team-chip--btn { background: var(--panel); border-color: transparent; }
+.layout-magazine .team-picker-chips .team-chip--btn[aria-pressed="true"] { background: var(--ink); }

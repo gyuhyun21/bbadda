@@ -11,7 +11,8 @@
     "collect": "node scripts/run.mjs scripts/collect/index.ts",
     "draft": "tsx scripts/draft.ts",
     "validate": "tsx scripts/validate.ts",
-    "test": "tsx --test tests/*.test.ts"
+    "test": "tsx --test tests/*.test.ts",
+    "clear-sample": "tsx scripts/clear-sample.ts"
   },
   "dependencies": {
     "astro": "^7.3.8",
@@ -24,5 +25,7 @@
     "@types/node": "^26.6.5",
     "typescript": "^5.9.3"
   },
-  "engines": { "node": ">=22.12.0" }
+  "engines": {
+    "node": ">=22.12.0"
+  }
 }

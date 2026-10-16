@@ -1,0 +1,25 @@
+---
+// 카드에 못 들어간 나머지를 한 줄씩 — 'N건 모두 보기' 없이 메인에서 다 보이게
+import TeamChip from './TeamChip.astro';
+import { SLANG_TITLE, displayTitle, fmtDate } from '../lib/site.ts';
+import type { Signal } from '../lib/schemas.ts';
+interface Props { signals: Signal[]; label?: string }
+const { signals, label } = Astro.props;
+---
+{signals.length > 0 && (
+  <div class="more-list">
+    {label && <p class="eyebrow">{label}</p>}
+    <ul>
+      {signals.map((s) => (
+        <li data-card data-teams={s.teams.join(' ')}>
+          <span class="more-main">
+            <a href={s.url} target="_blank" rel="noopener noreferrer">{displayTitle(s)}</a>
+            {s.slang && <span class="chip chip--slang" title={SLANG_TITLE}>은어 · {s.slang}</span>}
+            <span class="more-sum">{s.summary_ko}</span>
+          </span>
+          <span class="small">{s.teams.slice(0, 2).map((t) => <TeamChip id={t} short />)} {s.source_name} · {fmtDate(s.published_at)}</span>
+        </li>
+      ))}
+    </ul>
+  </div>
+)}

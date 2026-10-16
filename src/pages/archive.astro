@@ -1,0 +1,19 @@
+---
+import Layout from '../components/Layout.astro';
+import { loadAll, fmtDate, issueSignals, issueLabel, periodLabel } from '../lib/site.ts';
+const data = await loadAll();
+const years = [...new Set(data.issues.map((i) => i.vol.slice(0, 4)))].sort().reverse();
+---
+<Layout title="지난 호">
+  <h1 class="page-title">지난 호</h1>
+  <p class="page-lead">발행된 주간호를 연도별로 모았습니다.</p>
+  {years.map((y) => (
+    <section class="block" aria-labelledby={`y-${y}`}>
+      <h2 class="year" id={`y-${y}`}>{y}</h2>
+      {data.issues.filter((i) => i.vol.startsWith(y)).map((i) => (
+        <a class="issue-row" href={`/issues/${i.vol}`}><strong>{issueLabel(i.vol)}</strong><span>{periodLabel(i.period_start, i.period_end)}{i.sample ? ' (SAMPLE)' : ''}</span><span class="small">{fmtDate(i.published_at)} · 소식 {issueSignals(data, i.vol).length}건</span></a>
+      ))}
+    </section>
+  ))}
+  {years.length === 0 && <p class="empty-hint">발행된 호가 없습니다.</p>}
+</Layout>

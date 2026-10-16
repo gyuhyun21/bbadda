@@ -7,7 +7,8 @@ export type Loaded<T> = { file: string; data: T; body?: string; raw?: unknown };
 
 const walk = (dir: string, ext: string): string[] => {
   if (!existsSync(dir)) return [];
-  return readdirSync(dir).flatMap((name) => {
+  // 점으로 시작하는 파일(.gitkeep, macOS 가 exFAT 에 만드는 ._*)은 건너뛴다
+  return readdirSync(dir).filter((name) => !name.startsWith(".")).flatMap((name) => {
     const p = join(dir, name);
     return statSync(p).isDirectory() ? walk(p, ext) : p.endsWith(ext) ? [p] : [];
   });

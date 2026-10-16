@@ -1,0 +1,13 @@
+---
+import Layout from '../../components/Layout.astro';
+import TeamChip from '../../components/TeamChip.astro';
+import { TEAMS, loadAll, ofTeam, recent } from '../../lib/site.ts';
+const data = await loadAll();
+---
+<Layout title="팀" searchable={false}>
+  <h1 class="page-title">10개 구단</h1>
+  <p class="page-lead">팀을 누르면 그 팀의 최근 소식·공식 영상·팬 반응을 모아 봅니다.</p>
+  <ul class="team-index">
+    {TEAMS.map((t) => <li><a href={`/teams/${t.id}`}><TeamChip id={t.id} /><span class="small">{t.city} · 최근 7일 {recent(ofTeam(data.signals, t.id), 7, 0).length}건</span></a></li>)}
+  </ul>
+</Layout>
