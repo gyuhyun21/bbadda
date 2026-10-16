@@ -1,0 +1,119 @@
+---
+// 첫 화면 'front'(매일 바뀌는 스포츠 1면). config/site.yaml home: issue 로 바꾸면 최신 주간호를 그대로 보여 준다.
+import SignalCard from './SignalCard.astro';
+import SignalList from './SignalList.astro';
+import TeamChip from './TeamChip.astro';
+import TeamPicker from './TeamPicker.astro';
+import CommunitySection from './CommunitySection.astro';
+import { communitySection, newsImages } from '../lib/config.ts';
+import { TEAMS, loadAll, ofTeam, recent, hot, newest, kstDay, daysOf, onDay, dayLabel, seasonTitle, displayTitle, fmtDate, teamColor, isToday, BUILD_TIME } from '../lib/site.ts';
+const data = await loadAll();
+const all = data.signals;
+const fresh = recent(all, 2, 12);
+// 1) 헤드라인: 최근 2일 점수 상위 — 사진 있는 기사를 대표로
+const ranked = [...fresh].filter((s) => s.module !== 'fans').sort(hot);
+const lead = (newsImages() ? ranked.find((s) => s.image) : undefined) ?? ranked[0];
+const side = ranked.filter((s) => s !== lead).slice(0, 4);
+// 3) 10개 구단 한눈에
+const today = kstDay(new Date(BUILD_TIME).toISOString());
+const tiles = TEAMS.map((t) => {
+  // 그 팀 단독 소식(팀 소식) 먼저, 라이벌 기사는 뒤로 — 두 팀 타일에 같은 기사가 대표로 겹치지 않게
+  const mine = recent(ofTeam(all, t.id).filter((s) => s.module !== 'fans'), 3).sort((a, b) => Number(a.module !== 'team') - Number(b.module !== 'team'));
+  return { t, top: mine[0], more: mine.slice(1, 3), today: ofTeam(all, t.id).filter(isToday).length, official: ofTeam(all, t.id).filter((s) => s.official && isToday(s)).length };
+});
+// 4) 리그(시즌에 따라 제목이 바뀐다)
+const league = recent(all.filter((s) => s.module === 'league' || s.module === 'rivalry'), 3).sort(hot);
+// 5) 오피셜 영상
+const officialVideos = all.filter((s) => s.official && s.source_type === 'youtube').sort(newest).slice(0, 12);
+// 6) 팬 반응
+const fans = recent(all.filter((s) => s.module === 'fans'), 7).sort(hot).slice(0, 12);
+// 7) 날짜별 소식(최근 7일)
+const days = daysOf(all).slice(0, 7);
+---
+<section class="front-masthead" aria-label="BBADDA">
+  <p class="eyebrow">{dayLabel(today)} · 매일 아침 갱신</p>
+  <h1 class="sr-only">BBADDA 빠따닷컴</h1>
+</section>
+
+{lead && (
+  <section class="block front-headline" aria-labelledby="h-headline">
+    <div class="block-head"><h2 id="h-headline">오늘의 헤드라인</h2></div>
+    <div class="headline-grid">
+      <div class="headline-lead"><SignalCard signal={lead} big /></div>
+      <ul class="headline-side">
+        {side.map((s) => (
+          <li>
+            <span class="headline-meta">{s.teams.slice(0, 2).map((t) => <TeamChip id={t} short />)} {s.official && <span class="chip chip--official">오피셜</span>}</span>
+            <a href={s.url} target="_blank" rel="noopener noreferrer">{displayTitle(s)}</a>
+            <span class="small">{s.summary_ko}</span>
+            <span class="small">{s.source_name} · {fmtDate(s.published_at)}</span>
+          </li>
+        ))}
+      </ul>
+    </div>
+  </section>
+)}
+
+<TeamPicker />
+{TEAMS.map((t) => {
+  const list = recent(ofTeam(all, t.id), 7).slice(0, 8);
+  return (
+    <section class="block myteam-now" data-myteam-block={t.id} aria-label={`${t.name} 최근 소식`}>
+      <div class="block-head"><h2><TeamChip id={t.id} /> 내 팀 소식</h2><a href={`/teams/${t.id}`}>팀 페이지 →</a></div>
+      {list.length ? <div class="row-cards">{list.map((s) => <SignalCard signal={s} />)}</div> : <p class="empty-hint">아직 {t.name} 소식이 없습니다.</p>}
+    </section>
+  );
+})}
+
+<section class="block front-teams" aria-labelledby="h-teams-glance">
+  <div class="block-head"><h2 id="h-teams-glance">10개 구단 한눈에</h2><a href="/teams">팀 전체 →</a></div>
+  <ul class="team-tiles">
+    {tiles.map(({ t, top, more, today, official }) => (
+      <li class="team-tile" style={`--team:${teamColor(t.id)}`} data-team-tile={t.id}>
+        <a class="team-tile-head" href={`/teams/${t.id}`}>
+          <TeamChip id={t.id} />
+          <span class="small">{today > 0 ? `오늘 ${today}건` : '오늘 소식 없음'}{official > 0 ? ` · 오피셜 ${official}` : ''}</span>
+        </a>
+        {top ? (
+          <a class="team-tile-top" href={top.url} target="_blank" rel="noopener noreferrer">
+            {newsImages() && top.image && <img src={top.image} alt="" loading="lazy" referrerpolicy="no-referrer" width="160" height="100" onerror="this.remove()" />}
+            <span>{displayTitle(top)}</span>
+          </a>
+        ) : <p class="small">최근 소식이 없습니다.</p>}
+        {more.length > 0 && <ul class="team-tile-more">{more.map((s) => <li><a href={s.url} target="_blank" rel="noopener noreferrer">{displayTitle(s)}</a></li>)}</ul>}
+      </li>
+    ))}
+  </ul>
+</section>
+
+{league.length > 0 && (
+  <section class="block front-league" aria-labelledby="h-season">
+    <div class="block-head"><h2 id="h-season">{seasonTitle()}</h2><span class="small">리그 전체·라이벌·순위 경쟁</span></div>
+    <div class="grid">{league.slice(0, 4).map((s) => <SignalCard signal={s} />)}</div>
+    <SignalList signals={league.slice(4, 12)} />
+  </section>
+)}
+
+{officialVideos.length > 0 && (
+  <section class="block official-block" aria-labelledby="h-official-videos">
+    <div class="block-head"><h2 id="h-official-videos">오피셜 영상</h2><span class="small">구단·KBO 공식 YouTube</span></div>
+    <div class="row-cards">{officialVideos.map((s) => <SignalCard signal={s} showModule={false} />)}</div>
+  </section>
+)}
+
+{fans.length > 0 && (
+  <section class="block" aria-labelledby="h-fans-front">
+    <div class="block-head"><h2 id="h-fans-front">팬 반응</h2><span class="small">팬 영상·블로그·카페, 최근 7일</span></div>
+    <SignalList signals={fans} />
+  </section>
+)}
+{communitySection() && <CommunitySection signals={recent(all.filter((s) => s.source_type === 'community'), 14)} />}
+
+{days.length > 0 && (
+  <section class="block front-days" aria-labelledby="h-days" data-pagefind-ignore>
+    <div class="block-head"><h2 id="h-days">날짜별 소식</h2><a href="/archive">전체 날짜 →</a></div>
+    <ul class="day-chips">
+      {days.map((d) => <li><a href={`/days/${d}/`}><strong>{dayLabel(d)}</strong><span class="small">{onDay(all, d).length}건</span></a></li>)}
+    </ul>
+  </section>
+)}

@@ -359,3 +359,41 @@ html:not([data-my-team]) .myteam-btn .team-dot { display: none; }
 .chip--announce { border-color: var(--ink); color: var(--ink); }
 .card--official { box-shadow: inset 0 3px 0 var(--ink); }
 .official-block .block-head h2::before { content: ''; display: inline-block; width: 10px; height: 10px; border-radius: 2px; background: var(--ink); margin-right: 10px; vertical-align: 0.1em; }
+
+/* ── 첫 화면 'front' (config/site.yaml home: front) ── */
+.front-masthead { padding: 20px 0 0; }
+.front-headline { padding-top: 12px; }
+.headline-grid { display: grid; gap: 20px; grid-template-columns: 1fr; }
+.headline-lead .card-title { font-size: clamp(22px, 2.6vw, 32px); line-height: 1.25; }
+.headline-lead .card-summary { font-size: 16px; }
+.headline-side { list-style: none; margin: 0; padding: 0; display: grid; gap: 0; align-content: start; }
+.headline-side li { display: grid; gap: 4px; padding: 14px 0; border-bottom: 1px solid var(--line); }
+.headline-side li:first-child { padding-top: 0; }
+.headline-side a { font-size: 17px; font-weight: 700; line-height: 1.35; text-decoration: none; letter-spacing: -0.01em; }
+.headline-side a:hover { text-decoration: underline; }
+.headline-meta { display: flex; flex-wrap: wrap; gap: 6px; align-items: center; }
+@media (min-width: 960px) {
+  .headline-grid { grid-template-columns: 1.7fr 1fr; gap: 32px; }
+  .headline-lead .card { display: grid; grid-template-columns: 1.1fr 1fr; grid-auto-rows: min-content; }
+  .headline-lead .card > .card-visual { grid-column: 1; grid-row: 1 / span 9; aspect-ratio: auto; height: 100%; min-height: 340px; }
+  .headline-lead .card > :not(.card-visual) { grid-column: 2; padding-left: 24px; padding-right: 24px; }
+  .headline-lead .card .meta { padding-top: 24px; }
+}
+
+/* 10개 구단 한눈에 — 팀 컬러 띠 + 최신 기사 */
+.team-tiles { list-style: none; margin: 0; padding: 0; display: grid; gap: 14px; grid-template-columns: repeat(auto-fill, minmax(min(100%, 260px), 1fr)); }
+.team-tile { display: grid; gap: 10px; align-content: start; padding: 14px 16px 16px; border: 1px solid var(--line); border-top: 6px solid var(--team, var(--ink)); border-radius: 14px; background: var(--bg); min-width: 0; }
+.team-tile-head { display: flex; justify-content: space-between; align-items: baseline; gap: 8px; text-decoration: none; }
+.team-tile-head .team-chip { font-size: 16px; }
+.team-tile-top { display: grid; grid-template-columns: auto 1fr; gap: 10px; align-items: start; text-decoration: none; font-weight: 700; font-size: 15px; line-height: 1.4; }
+.team-tile-top img { width: 88px; height: 60px; object-fit: cover; border-radius: 8px; background: var(--panel); }
+.team-tile-top span { grid-column: auto; }
+.team-tile-top:hover span { text-decoration: underline; }
+.team-tile-more { list-style: none; margin: 0; padding: 0; display: grid; gap: 6px; border-top: 1px solid var(--line); padding-top: 8px; }
+.team-tile-more a { font-size: 13.5px; color: #3A3A3E; text-decoration: none; display: -webkit-box; -webkit-line-clamp: 1; -webkit-box-orient: vertical; overflow: hidden; }
+.team-tile-more a:hover { text-decoration: underline; }
+
+/* 날짜별 소식 칩 */
+.day-chips { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: 10px; }
+.day-chips a { display: grid; gap: 2px; padding: 12px 16px; border: 1px solid var(--line); border-radius: 12px; text-decoration: none; min-width: 120px; }
+.day-chips a:hover { border-color: var(--ink); }
