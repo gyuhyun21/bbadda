@@ -1,0 +1,32 @@
+{
+  "id": "news-f4f34e82",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "https://www.2news.co.kr/",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5kUHdhd1luYTRMWUEtV1RqV3hISFo4M3JLRUJzWnNDNVpIZDVXNVcyTlpoRll5SkFvc0xIMk5IM0RDT04zekF1WndROU9nZmZLUVZIZUU1Zl9ERnBSYVlTZUtwNFkyUzc0?oc=5",
+  "title": "LG 트윈스, 악재 속 와일드카드 결정전 진입",
+  "published_at": "2026-10-13T04:37:00.000Z",
+  "collected_at": "2026-10-16T12:55:42.882Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 55,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "스포츠타임스",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9GSVgxb25vR0Vna1ZaRlZoNlU1Sk9PLVcwNlVjbnRkMDM2MlVmTFZpNzZIcEczWmtmNDJxclYxVVpzVEdvX3JxMWZVMUFPTTZVRWdVUjAxU1RNbGdlVzhZR042ZnhtMmlmMWhmVTFBV0plazZsQnc?oc=5"
+    },
+    {
+      "source_name": "강원도민일보",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE94ZlNZTm9qNDNCbUtoYjBhLUhRVWpVcmdYV3puaWhHbGhXUUVmUk50c3Z6VWVmdEE4SXU3YzhUTXNxeTZLMjFXREx6Vl83ZE1GZzdPM3RoVGRNaWhQd0hVSzBBM0dtRnV0?oc=5"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "runs": [
+    {
+      "week": "2026-W43",
+      "collected_at": "2026-10-16T12:55:42.882Z",
+      "sources": {
+        "news_rss": {
+          "total": 584,
+          "feeds": 18
+        }
+      },
+      "failures": [],
+      "skipped": [],
+      "excluded_spam": 2,
+      "out_of_window": 105,
+      "dropped_no_team": 63,
+      "dedupe": {
+        "dropped_existing": 0,
+        "merged_in_batch": 125
+      },
+      "dropped_cap": 24,
+      "new_signals": {
+        "total": 265,
+        "by_module": {
+          "rivalry": 39,
+          "team": 186,
+          "league": 40
+        },
+        "by_team": {
+          "lg": 40,
+          "ssg": 16,
+          "lotte": 18,
+          "kt": 28,
+          "nc": 17,
+          "kia": 28,
+          "samsung": 23,
+          "hanwha": 23,
+          "doosan": 26,
+          "kiwoom": 6,
+          "-": 40
+        },
+        "by_source": {
+          "news": 265
+        }
+      }
+    }
+  ]
+}

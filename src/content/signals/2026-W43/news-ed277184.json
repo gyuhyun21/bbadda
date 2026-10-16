@@ -1,0 +1,22 @@
+{
+  "id": "news-ed277184",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "news",
+  "source_name": "경남매일",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE50VGRDXzVRckQzZXdzLVpFLWxndXh3b1c5V01ZdlZRWTk1XzRuQUZpMUlIanRPWmZKMWdGd1h3UHBBQXFJVUtsakdxRE5uTEw2QWlBQmdLUEhOSWd3cjZPUXRIbjNob2pOeWc?oc=5",
+  "title": "최종전 한화 꺾고 7위로 시즌 마감",
+  "published_at": "2026-10-12T12:16:00.000Z",
+  "collected_at": "2026-10-16T12:55:42.882Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 33,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

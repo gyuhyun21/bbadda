@@ -1,0 +1,23 @@
+{
+  "id": "news-aaf80f9a",
+  "issue": "2026-W43",
+  "module": "rivalry",
+  "team": "doosan",
+  "teams": [
+    "doosan",
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "https://www.asportstv.kr/",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE82VGljemkzOXk0eHUybzByWHNxNkNEb2NVV0R4c0dhWldtZExnWl9tcVF4QjJjbkdWblJ1RWE3X0dlT2YxV2RQQnB6dHc0anI0aFhpX3E3YU4xOFp6OUVSQVM2WnhEYjZK?oc=5",
+  "title": "[와일드카드] 잠실의 마지막 가을 낭만, 두산 울리고 LG가 챙겼다",
+  "published_at": "2026-10-15T07:38:23.000Z",
+  "collected_at": "2026-10-16T12:55:42.882Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 58,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

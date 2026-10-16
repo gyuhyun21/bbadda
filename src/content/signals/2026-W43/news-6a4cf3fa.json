@@ -1,0 +1,28 @@
+{
+  "id": "news-6a4cf3fa",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "news",
+  "source_name": "https://www.2news.co.kr/",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBiZlQxclllWFMtVUQ2NGsybE5pRGE1OGcyVkxfN1pRTE1pR09zNTFNTjFDQ1lzcWFndm8yS0xaQnNhdWpFX1B6dmRvaXlub2NhTU9EMUR6ZDBHSWVyV1NlVDk4Unc0cXNP?oc=5",
+  "title": "SSG 랜더스, 박정권 퓨처스팀 감독과 재계약 포기",
+  "published_at": "2026-10-15T02:40:00.000Z",
+  "collected_at": "2026-10-16T12:55:42.882Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNa0hwMi1HSTJmZWVSeHNXN3k5Q1pZSF9hRDBuTVM2Q1ozZkVTVmxXa29oMmVvcnNzZS1XOTVTbTlibDhiZ0RhdGNsRHdWZ3hMbUd4V3NZRVFpejBBYkYxT19VOGZYZlkySUJjRDF1WW0tNXZXWlFvVHlqY2hDQ2gzV0lWZw?oc=5"
+    }
+  ]
+}

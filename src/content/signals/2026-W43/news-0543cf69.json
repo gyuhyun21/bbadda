@@ -1,0 +1,32 @@
+{
+  "id": "news-0543cf69",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9IX2ZUR0lxSVdMYUlSVnkyMkNiTklHTGNiMnFubUY4OGEtdWY3X20zSW5IcTRudVZvZEh3OUVfYTBpN2lYR2RqM1VXX2QzX1N6UDdPN185WVlEQmFBTjZkWjQ0MUNfT2E2R2wwdlZHTdIBb0FVX3lxTE9IX2ZUR0lxSVdMYUlSVnkyMkNiTklHTGNiMnFubUY4OGEtdWY3X20zSW5IcTRudVZvZEh3OUVfYTBpN2lYR2RqM1VXX2QzX1N6UDdPN185WVlEQmFBTjZkWjQ0MUNfT2E2R2wwdlZHTQ?oc=5",
+  "title": "'박보승 옵션 포함 총액 3억' NC 2년 연속 1라운더와 옵션 계약 체결...신인 11명 계약 완료-21일 훈련 합류",
+  "published_at": "2026-10-13T04:00:00.000Z",
+  "collected_at": "2026-10-16T12:55:42.882Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSVVpajVnSW1hdmpJS2dmaldKdllHTXVkVWRNTTRKSW1wdjhkYktBRjdwTGVQRWREVWs0aDUyUllhVGl1dTZ6MENxN1FGNzI1MTB2UDR1eUZwYnIzbXNHczJXTG1hZjVCSGppWThPb2pydWFFYms5SHVnN05jREg1b2F0dGwyMUEyMVRzd1hER2JOZmpBUkdZ0gGXAUFVX3lxTE5JVWlqNWdJbWF2aklLZ2ZqV0p2WUdNdWRVZE1NNEpJbXB2OGRiS0FGN3BMZVBFZERVazRoNTJSWWFUaXV1NnowQ3E3UUY3MjUxMHZQNHV5RnBicjNtc0dzMldMbWFmNUJIamlZOE9vanJ1YUViazlIdWc3TmNESDVvYXR0bDIxQTIxVHN3WERHYk5makFSR1k?oc=5"
+    },
+    {
+      "source_name": "미주중앙일보",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAtcDZ6MUlGeURYSVpUcmNubVBER2tCR2U1bHZ4eWpqZVpfbEc0U1BGMERTbHBiLWFocWtfUl9WTWZSWTFfWTZCaEFFcDF5QW9XbzZCb0F1S2FJb3IwVGlubktn?oc=5"
+    }
+  ]
+}

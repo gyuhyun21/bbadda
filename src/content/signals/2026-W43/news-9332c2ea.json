@@ -1,0 +1,48 @@
+{
+  "id": "news-9332c2ea",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "news",
+  "source_name": "충청투데이",
+  "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5YT1B0dGdYazAxMkdqR3RMR3JfdjU1Z1pWNE16M3hUUVlhNlNfcXVINUFjNnZrU0dnYTVvSHdvMFZRNGZnYWRjSjZvUnBqU3RZSXlUTDh4b09LVEl3cFZSamRWendZT0RKcm9neHNR?oc=5",
+  "title": "한화이글스, 제15대 감독 류지현 국가대표팀 감독 선임",
+  "published_at": "2026-10-13T02:27:47.000Z",
+  "collected_at": "2026-10-16T12:55:42.882Z",
+  "summary_ko": "한화가 국가대표팀을 이끌던 류지현 감독을 제15대 사령탑으로 선임했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 71,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "미디어대전",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBSZlRWUnB6VnEwaXZ1N0hmRDhpRXNMOGw2NlNQd0N1dmN1OEgxd2JaQ0J4dEJQMW50RDV6ZEN6TDhOMEIyQWR6NmEtNTdsMEpnV1pLcjJHMFlmem9DZTV6ZVpIejRNQQ?oc=5"
+    },
+    {
+      "source_name": "중부매일",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1DVjhrMDQ1ZmFrWjI2dnFyTGVTOHlaVEMybFdJT25LakpfbnZTc2syVHctUnN5SFRiOWFFcldaQXh2UWtGZVpMY0Zub0lNY05odkF0WHBpbTJhM0JMRmMyelBqT25MOTF2OWJnbFlB0gFuQVVfeXFMTUNWOGswNDVmYWtaMjZ2cXJMZVM4eVpUQzJsV0lPbktqSl9udlNzazJUdy1Sc3lIVGI5YUVyV1pBeHZRa0ZlWkxjRm5vSU1jTmh2QXRYcGltMmEzQkxGYzJ6UGpPbkw5MXY5YmdsWUE?oc=5"
+    },
+    {
+      "source_name": "YTN",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBqVVRkdm83aWM4elJ1OGs2bEdYRlFhanZ6T2t5d1UzOXVNSVduRGFWSFVKN2xnSmFGUVpjOGpJWVgtNWdraFZrTVVRZXIzOHR1UXlQQmkyN0p6RURaX0E?oc=5"
+    },
+    {
+      "source_name": "중도일보",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1nYWlsbThfMDN4eS1TcEFLeFc2aFlVVEdqOVlPdmY3ZXVpdXJBNnJzSWJYR2cwb0gtVmhMQjhuVGFxZVBua2F0Nm1jOHZhdHlFNzVNSlpFWEVSUVpYeWhEREFxcko?oc=5"
+    },
+    {
+      "source_name": "메디컬투데이",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9qc1ExaFEyQjBYczUtamZrZ2cwaXREUEdQajFKRWpmazZXUGNNSkNMajNSUGpFa3JKS3VoLVVEcDFYVGFzX3ctcWlrZFpYckpZNllkUFVpblJxTzllNF9Hd2FIalptbWMxcEh5cg?oc=5"
+    },
+    {
+      "source_name": "뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAtYWpSYWg2dWVNampKblBBR21nOXYyY0NYbnJBamEyNnNUYlJHTzhDWlo1QkJCNDJGTGgxMkNCQ0U0dzgyd2ZYM1Noaw?oc=5"
+    }
+  ]
+}

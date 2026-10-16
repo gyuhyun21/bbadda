@@ -1,0 +1,24 @@
+{
+  "id": "news-b0c45d09",
+  "issue": "2026-W43",
+  "module": "rivalry",
+  "team": "lg",
+  "teams": [
+    "lg",
+    "kia",
+    "doosan"
+  ],
+  "source_type": "news",
+  "source_name": "남도일보",
+  "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9KaU9mT3NkZmxMM3o0NDhleGVNaGpqRWYxT1NzUHBvR1JQZExOYU1QZG50YnZXd2pBTFVYZl9WMWZnTy1mUUFDZExvaTdmNVpIeEpRYUVOZU16akJSQWJSR0hLU0YyRTFCTU9aT9IBcEFVX3lxTE9haWFZd0h5UFJ1aXVZTDJYWXBHY0RhbVNrM2ktUEt3NDFVLU14dHBOQTEtaHJUR2tTanNhRE5QZmJVQlFGOUVURG5hcE51QjY4WTlHamMtVWNsMzhnSFBPSlNlTVdoRkdGZTZHVmZKblM?oc=5",
+  "title": "[준PO]LG엔 강했던 KIA 방망이…두산 선발진엔 막혔다",
+  "published_at": "2026-10-13T02:04:00.000Z",
+  "collected_at": "2026-10-16T12:55:42.882Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 38,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "news-3b5338ba",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "news",
+  "source_name": "이투데이",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE80VjltOGgwYmNWSzFHSVAxeWd6LUtDTWNjRHItSEdLdTRfaEZ1QmFkbWNQbFZUczlsRzBZOU1XS3lBZ1hYVnBlaTVZb19ZTjVOSFkyaQ?oc=5",
+  "title": "두산 김지우, ‘5억원’ 받고 프로 첫발⋯우타 야수 신인 최고 대우",
+  "published_at": "2026-10-13T04:10:00.000Z",
+  "collected_at": "2026-10-16T12:55:42.882Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 39,
+    "relevance": 80
+  },
+  "sentiment": "neutral"
+}

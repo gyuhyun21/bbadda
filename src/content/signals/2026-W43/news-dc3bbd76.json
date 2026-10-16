@@ -1,0 +1,22 @@
+{
+  "id": "news-dc3bbd76",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "연합뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE54c3NQOGltY3Z4YVlRdG8tRmJOeE1VWl9lbEVmbTdVeG00TlBQRFJhOUxodTJkZm9OdmlEdXBvdlJoMHlpMG9UdEJGUGhTV1NwRnl0UlpBR3hZQ2_SAWBBVV95cUxQdXVqaTRiMS1fd2dfcV9IZDQxMDhFaDY2S21kYlFIcUpTc3FYODhvbnlUOTJyZHFDalJsaUk3dnFFYWx5QnItSEkweW0zNkFuWmtqVVhIY2s1V3FraDlrTkg?oc=5",
+  "title": "'계약 만료' 김태형 롯데 감독 \"3년 안에 못 했으면 감독 책임\"",
+  "published_at": "2026-10-12T08:55:17.000Z",
+  "collected_at": "2026-10-16T12:55:42.882Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 32,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "news-4ee61c98",
+  "issue": "2026-W43",
+  "module": "rivalry",
+  "team": "lg",
+  "teams": [
+    "lg",
+    "doosan"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5aMVc4Ykw1ek9lb29CSEtpRnlkVUdSWWJxSGVIYTJzN2g0VVlQVWpod3JVLXZmcXlDM0tfOHUzeUVqUmVqWXVQRFQyaUJhQ19FRlFiaTNZcjFZbUZTeFlDcG1kZDA4Y082UDRWS21kc9IBb0FVX3lxTE5aMVc4Ykw1ek9lb29CSEtpRnlkVUdSWWJxSGVIYTJzN2g0VVlQVWpod3JVLXZmcXlDM0tfOHUzeUVqUmVqWXVQRFQyaUJhQ19FRlFiaTNZcjFZbUZTeFlDcG1kZDA4Y082UDRWS21kcw?oc=5",
+  "title": "'매진→매진→매진→벌써 38G' KBO 가을야구 흥행 미쳤다! LG-두산 잠실 라이벌전 2만 3650석 꽉 찼다 [WC1 현장]",
+  "published_at": "2026-10-14T10:12:32.000Z",
+  "collected_at": "2026-10-16T12:55:42.882Z",
+  "summary_ko": "LG-두산 와일드카드 결정전이 2만 3650석 매진을 기록하는 등 가을야구 매진 행진이 이어졌다.",
+  "metrics": {},
+  "scores": {
+    "hot": 58,
+    "relevance": 80
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1fT0J6OV9SZVktY2JKSEpnMS1xR0txTTAzZXMtM3BOb1FxcGVUTDhXWVNVTXY5UGVQaEZFZ0tZSmhOa0RQeTVZY0hlekNjU0RhdEtsNFU5RVBtcjdYbE50czVlQ3NCUlZ2YXVfdDFmRFlDdW1HSWc?oc=5"
+    }
+  ]
+}

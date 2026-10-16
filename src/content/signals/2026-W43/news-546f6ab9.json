@@ -1,0 +1,23 @@
+{
+  "id": "news-546f6ab9",
+  "issue": "2026-W43",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kt"
+  ],
+  "source_type": "news",
+  "source_name": "경북도민일보",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB4THZGbnc2OGFDWktpaFl2NnZ6Mk5DenRRNmtUbU9TWEVqS0FaLUpoM1lod29hb1NOamo1YlRGeEo0WXZnSTRuRTFaLW8zeEtZMTBGMWFjYUFDSzAtWGIxNHVTTHdOenJQSHc?oc=5",
+  "title": "\"이렇게 무너질 줄이야\" 삼성라이온즈, KT위즈 상대 대패...선발 후라도 4이닝 강판",
+  "published_at": "2026-10-12T07:00:00.000Z",
+  "collected_at": "2026-10-16T12:55:42.882Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 40,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

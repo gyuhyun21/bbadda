@@ -1,0 +1,22 @@
+{
+  "id": "news-ee04a0d3",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "news",
+  "source_name": "대전MBC",
+  "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBicXlhSWZIa25uSnliaGtoQkVEZy1adHFRUkJTOVIwLU5Qb3lsaV9LQjQ4elhVY0tHVmVnbjFSemhSQ0lBcWZJVXMyWnQzRkU?oc=5",
+  "title": "[리포트] '9위 추락' 한화이글스 감독·단장 퇴진⋯재정비 돌입",
+  "published_at": "2026-10-12T23:00:00.000Z",
+  "collected_at": "2026-10-16T12:55:42.882Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 37,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

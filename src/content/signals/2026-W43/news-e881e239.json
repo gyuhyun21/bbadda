@@ -1,0 +1,22 @@
+{
+  "id": "news-e881e239",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "대구MBC",
+  "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1ITVBUN0JGU0V1SVRYR3QtU202UjA4cE1OblZSaEd4YUdUZWZoUVhIcWxsWnd2MjEyZkExalhaZEwwWHV5Vmp1c0ZnUVE?oc=5",
+  "title": "4연패로 마무리한 최종 2위 삼성라이온즈···끝까지 침묵한 타선, 마운드도 '흔들'",
+  "published_at": "2026-10-12T12:44:12.000Z",
+  "collected_at": "2026-10-16T12:55:42.882Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 34,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

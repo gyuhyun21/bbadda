@@ -1,0 +1,23 @@
+{
+  "id": "news-db292c34",
+  "issue": "2026-W43",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "JTBC",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1Lb2RiOUVFdXI2aExvbzNYN2pkX1lzOUZ0eEFkLV9naEZ2V3JRbl96NUxjTUNNbGRKRnloVGJKb1hmUkhhcFVRd0tybDJ0OWtHc1liag?oc=5",
+  "title": "김도영 100호 홈런 승부 갈랐다…기아, 엘지 꺾고 준PO 직행",
+  "published_at": "2026-10-12T12:45:00.000Z",
+  "collected_at": "2026-10-16T12:55:42.882Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 34,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

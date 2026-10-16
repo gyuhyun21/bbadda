@@ -1,0 +1,29 @@
+{
+  "id": "news-001a7375",
+  "issue": "2026-W43",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "스타뉴스",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1iSnc4Z19FMG41TC13bktvcEcyZU5zby1QM2ZDOTQ4Y05QU0MzdllMRzBtVW5oclR3YmJFM0hOZXFhRnNYaVU4X0xkUGFVMmtlMkE3UGQ3bFVxUWdEZzI3eGloZ09MZkNoOTJieWJXdFZyX0Z3c3c?oc=5",
+  "title": "마침내 KIA 타이거즈 구단 새 역사! 역대 홈 최다 관중 신기록 썼다, 오늘(12일) LG와 최종전 팬들한테 감사의 뜻 전한다",
+  "published_at": "2026-10-11T16:28:00.000Z",
+  "collected_at": "2026-10-16T12:55:42.882Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 34,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "TSN KOREA",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE45akNydUkzMzJxNFppRHJldDItVzNhS0FjWFZraU52cS05blV2YmM2cGxydnNvVWdvTHpHUTY3MjEtNEVya25MS2JQZFVzRzR3TkdNdlpoTHdrUGNoRHpjag?oc=5"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "news-b0122685",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "news",
+  "source_name": "마이데일리",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBjVE96Y1pqdGpSQk1tb1o5TGYyNTFHeE5nUURhUHFHZ1VpSGxjeC1oeGRRTEVBN21IdTR5eHdlZnJwa3B3WENkMVNpUWFyeTY4ejFDRGxSYnhHMXNDNWxrQg?oc=5",
+  "title": "[오피셜] NC 신인 12명 계약 완료, 1R 박보승 옵션 5천 포함 총액 3억원에 도장",
+  "published_at": "2026-10-13T02:12:36.000Z",
+  "collected_at": "2026-10-16T12:55:42.882Z",
+  "summary_ko": "NC가 신인 12명과 계약을 마쳤고, 1라운드 박보승은 옵션 포함 총액 3억 원에 사인했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 70,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9zNlZ4WHFYcTlGZWcwV09uTDdFQlQ2cU9STWhFMURuYkNvQ3JGVUZwSEdjZzlGckV2eTNjdlJqSzlYWVB4T3JpNDh5Qm44eWJVdFl3OU5GYk5GZUHSAWBBVV95cUxORm9RSU1JVkV1NERGM3BtRnFONE1rRVZtQ2YyLTFybU9MX3pjWWtadW9YZG5pTEFycVhETmx4MFFCTG9QTHdiYlZkUlZ1ekRiWFVlOE9CZEVsUFd0V000cjQ?oc=5"
+    },
+    {
+      "source_name": "톱스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9iTW9ZTmF0a2hGLU5Zb3g5Y3Y2X0NEck5SWktlYlFnZWxnbDY4ZXNlVmNmeTd6ODdnU2RLc0hrOVg5QU95Ynh4WXV5ZDQ3eXEtTi1oaDJaMkNyREhZY3FialJ1WGpFQjdUd1VpQmpYZVVydw?oc=5"
+    },
+    {
+      "source_name": "파이낸셜뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE93T1ZvTlo0NHBUdHVXSGZaV0N5UW5PRVNSQVhxVW1MWHltNjFjMl9XY3lXRmd0d004MGRNMzhfT3BDc21PQ0ZVS3NRMGoxY2tJamZObnZWanUtdw?oc=5"
+    },
+    {
+      "source_name": "SPOTV NEWS",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1lOWJNdzRPbTdPbjNlR2hGUDBkLXozbDRsZW1PeWs2MExrNTlGN2hTckVXSlhRWC1iR21wb3VLQ3k4WWpBMEZPdjFCS0RVYnI3NDJYUUxuY0FfM3FYdHVnRnJTVnZJb3dpMl9MbEk3X3A?oc=5"
+    },
+    {
+      "source_name": "매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE0wQ1JIYi1VVjY0aTZrREFqcmpFbDJhMHRiaElVNi1WR3M3Qko4LWpoZmpYWGdMVUZzaS1sSXB5U2FXT2ZpZGc?oc=5"
+    },
+    {
+      "source_name": "이투데이",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1jN0R4UUpmQlBoandnOUdMTHdUYkcwUFE0WDB4cXJ1b0FBZW9rcnk1ZnJGS0hTS0tiZEVxRlJ3VTVGNWtlWVhKRkY0OU83ajNXOThUaQ?oc=5"
+    },
+    {
+      "source_name": "경남도민일보",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8zeThkVEg0aVBNZ0dzaUxnWjRzakdYbklBRjBibVBQZ3VsVmhwbU14NDAzSExicUVQWVp2TUk2cElfRXo5Sk5XUzEzRmYtTXpLaWp1M2paVUFILWw4TUVfbFVqZVJVcmYzQ2c?oc=5"
+    },
+    {
+      "source_name": "경남일보",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5oRGM3SEpKMjZCMjRBemRXODhxeFFBMFpZVXZBRGM1TFpjZGtaemg2NU1vM0NZLTlFWlFYTkt2UDBCSGVaeExEMVEtTmhfb0llUVpoZWZMb2FLUDhHd29JZFlHbkxiSThJR3ZV?oc=5"
+    }
+  ]
+}

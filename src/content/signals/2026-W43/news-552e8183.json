@@ -1,0 +1,22 @@
+{
+  "id": "news-552e8183",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스1",
+  "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4zY203R2lRWThlMFMtQmxZTEw1LXZ6dnY4a2tKZFhfcGozaGdFWEJCVUZuY0tBb1BlemtMdEZFMWxyRi1BV1BmZ19xUQ?oc=5",
+  "title": "LG 트윈스, 열띤 응원전",
+  "published_at": "2026-10-14T10:59:27.000Z",
+  "collected_at": "2026-10-16T12:55:42.882Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 50,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

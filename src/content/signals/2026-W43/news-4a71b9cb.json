@@ -1,0 +1,22 @@
+{
+  "id": "news-4a71b9cb",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "대구MBC",
+  "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFByanltQkkxLVd0YUt5UVZPM2dZdDhrNjNwWEtMNE1PYV9SYWs0QzJINkthOWlOM0JJa0htMjUxMGFUMlJNVlNlVU4xNHM?oc=5",
+  "title": "'흥행 신화 다시 쓴' 삼성라이온즈, 최초 170만 돌파···의미 있는 수치, '99.4'와 '59'",
+  "published_at": "2026-10-13T02:25:36.000Z",
+  "collected_at": "2026-10-16T12:55:42.882Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 39,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

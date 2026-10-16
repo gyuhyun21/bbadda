@@ -1,0 +1,28 @@
+{
+  "id": "news-84615f89",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠동아",
+  "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5HZ1ZjTXBRSE1uWVd1Y1pyc3p4Xzl5SXJRQ3hqRWE2WGVjWDVIc056cGYzdDJQTlBOQ3k5V1AxOWVlRmx3VHdTNUMxa2xDd0JUMEd2WEMtX1YxTnRnUnJTWXhEVDFGZ1Z3MkxVMG41aThLQQ?oc=5",
+  "title": "최정·김광현, 감독으로 맞대결 벌인다…SSG, 17일 인천서 ‘최광야구 1429’ 개최",
+  "published_at": "2026-10-14T05:55:59.000Z",
+  "collected_at": "2026-10-16T12:55:42.882Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 56,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "한국연예스포츠신문",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE54cjRNR1ozUEJsbWh6UGRjOEJ4WFB5X0lZbUlKM0dPZnE5WlZFQzNOekFqMlhYdWhhVDVseVU4TnRqa3ptck5ldGVOQlpjNEd5VkNzaUZKNC1lMTdWSTd2UWh1ME00LVpmNVE?oc=5"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "news-6a772a36",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "코리아투데이뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBrYVZZblpSbVd3MDBTbXhSZHhialVTVzJGVU9GRjVKNWxtcHdJNXV0SlJKblkybU1haWdqcTRPVGhpZGw2eXd3?oc=5",
+  "title": "[프로야구] 삼성 라이온즈, 2027 신인드래프트 10명 지명…제구력·경기 운영 능력 갖춘 투수 확보",
+  "published_at": "2026-10-12T02:29:00.000Z",
+  "collected_at": "2026-10-16T12:55:42.882Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 30,
+    "relevance": 80
+  },
+  "sentiment": "neutral"
+}

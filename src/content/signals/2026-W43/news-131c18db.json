@@ -1,0 +1,22 @@
+{
+  "id": "news-131c18db",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "news",
+  "source_name": "경남미디어",
+  "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBxVmJsbzNFWHV1WXdBVjUyR3p4V203U29IaDZZZGRLTVo5V2pkcmFUV1hCVXhUMEN6NjZmZ25zMkxKRXV4N3RMLW4zTjdiSTV3dmgxdVN3OFlWa0VmOGYxaDBtQnd4Wlp6dVgw?oc=5",
+  "title": "NC 박민우, 타율 0.320·50도루로 시즌 마감",
+  "published_at": "2026-10-14T02:33:30.000Z",
+  "collected_at": "2026-10-16T12:55:42.882Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 47,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "news-e15e4a02",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "news",
+  "source_name": "중소기업신문",
+  "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE10ZVRLTUNRU1VoTzZhOGpQbUtINkJpWVFzZS1XV2tWMUhNdHVFSmJkTEVvcVlfbEl4TzNSRUJCbEY4WW1kb2IxM0dKWkpSZ25SS3lEQzV1eGNOMmhVdmc2Z3Jmb0tyTDktV2JpSkxn?oc=5",
+  "title": "컴프야가 예측한 야구 우승팀은?…KT 위즈 64%",
+  "published_at": "2026-10-14T06:30:35.000Z",
+  "collected_at": "2026-10-16T12:55:42.882Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 49,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

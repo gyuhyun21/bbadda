@@ -1,0 +1,23 @@
+{
+  "id": "news-af79f600",
+  "issue": "2026-W43",
+  "module": "rivalry",
+  "team": "lg",
+  "teams": [
+    "lg",
+    "doosan"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스1",
+  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ISy1UR2U5UzVZSjZZSmFyOF9yZmNUVmZQV2xtN3RfLUZtbkxwdUZOeHpudDE2ZVgtUERYTUtNUDVWNXpmcW5tdlRYY3Z1aFc1d24waUlKUQ?oc=5",
+  "title": "[뉴스1 PICK] '카라스코 호투·오스틴 투런포' LG, 두산 잡고 준PO 진출",
+  "published_at": "2026-10-14T22:10:00.000Z",
+  "collected_at": "2026-10-16T12:55:42.882Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 62,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

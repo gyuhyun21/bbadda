@@ -1,0 +1,23 @@
+{
+  "id": "news-7200b6ff",
+  "issue": "2026-W43",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "KBC광주방송",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ILWtyWEdSc1FsdXE0MWJwZnBpS0diMkxVQkhTa3dxdFYwNURfVmE3TWxNSVQ1ZlZYWTBBR3NwSFVEdEJBRW1vUktuaHkwcThNbFBuTG9aMm0wQnRjWmk1aQ?oc=5",
+  "title": "'박정우-박재현' 테이블세터 출격...KIA, 운명의 LG전 라인업 공개",
+  "published_at": "2026-10-12T07:36:43.000Z",
+  "collected_at": "2026-10-16T12:55:42.882Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 32,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

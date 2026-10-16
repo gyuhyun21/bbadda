@@ -1,0 +1,22 @@
+{
+  "id": "news-a132ce89",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "news",
+  "source_name": "경남일보",
+  "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA4cm9aOElxRTZqcnB3d2ZIeWo1MG9sdHVuRnJrZlFXLVpsQ0lLdHFTUkhSWkpDRjVSS292YmZaOTVrV3N4ejBZOXJkUVgzdFNnNEltYXlybmZzN0FxaVh4N29PeVBoaUhleW5Z?oc=5",
+  "title": "NC 다이노스 4명, APBC 대표팀 발탁",
+  "published_at": "2026-10-13T08:38:49.000Z",
+  "collected_at": "2026-10-16T12:55:42.882Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 41,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-3940fdba",
+  "issue": "2026-W43",
+  "module": "rivalry",
+  "team": "lg",
+  "teams": [
+    "lg",
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "연합뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1pS09wUWNFRmh2ZWFOSENmSWgxLUxrdjhBWkI4bGJnUDh0dHJPaVBwa0Jiek56MUZSZHp3ZWxlbHg3aHk1UnBadFBHMnZPUEFUMGsteXloOXlNbFnSAWBBVV95cUxOdVJPeThuaWJsTGxNWDBrVkItUzh0ZC1qTkFGbWZ5T3UyVVEzTGJnd0dJbnVkVGxmQ2R5U2FtX1g2SFVsN3V2WGdKWjY4SklKTHZWLW1OUTUxRFh2OVhYVzE?oc=5",
+  "title": "오스틴 결승 투런포…프로야구 LG, 준플레이오프서 KIA와 격돌",
+  "published_at": "2026-10-14T12:52:46.000Z",
+  "collected_at": "2026-10-16T12:55:42.882Z",
+  "summary_ko": "오스틴의 결승 투런포로 이긴 LG가 준플레이오프에서 KIA와 맞붙는다.",
+  "metrics": {},
+  "scores": {
+    "hot": 83,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

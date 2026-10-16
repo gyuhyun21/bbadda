@@ -1,0 +1,22 @@
+{
+  "id": "news-ae24ffed",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "연합뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBKMVlfSzg5cS1DbGJVV0hqYTdVU1hUWWZhUW1Ud2tJcmNnRG1lbnRvd3c5UXJ0RC1zZ1A3NU5kRVU2Qk10S0RKeUF5RkFUN0FVRC1lSFhtOE8zeXdkX1FSS9IBYEFVX3lxTFBKMVlfSzg5cS1DbGJVV0hqYTdVU1hUWWZhUW1Ud2tJcmNnRG1lbnRvd3c5UXJ0RC1zZ1A3NU5kRVU2Qk10S0RKeUF5RkFUN0FVRC1lSFhtOE8zeXdkX1FSSw?oc=5",
+  "title": "'고난의 행군' 불가피한 부상 병동 LG…신민재까지 이탈",
+  "published_at": "2026-10-15T02:16:05.000Z",
+  "collected_at": "2026-10-16T12:55:42.882Z",
+  "summary_ko": "LG가 부상자가 이어지는 가운데 신민재까지 이탈해 포스트시즌 운용에 부담이 커졌다는 보도다.",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

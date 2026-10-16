@@ -1,0 +1,22 @@
+{
+  "id": "news-31f29cd8",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "news",
+  "source_name": "경남도민일보",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE01RmxBNGlIRWNTelQ1ZTV5SnU1MjZTX3hYX1V4YWdWei11dDFZblZSaTJ2LThwVTNfVXJfNURUZVNaVmhjcy00Z09jX1FSTGRtemFYM1NRSXJXZ2NNbkZqaXVyVEJ5THRhS2c?oc=5",
+  "title": "정규시즌 8위 ‘아쉬운 성적표’ 받은 NC",
+  "published_at": "2026-10-14T05:00:39.000Z",
+  "collected_at": "2026-10-16T12:55:42.882Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 48,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-b63bc190",
+  "issue": "2026-W43",
+  "module": "rivalry",
+  "team": "lg",
+  "teams": [
+    "lg",
+    "doosan"
+  ],
+  "source_type": "news",
+  "source_name": "청년일보",
+  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBSWm56c1VyNW52SGhIMEFaYm9wU0ZvM0FRb0tsR2prNHRMckhJRFFwLUkwejFjd3kwdG1FQUZraDE5bUxJR29DSVI2ZnRjbzFMclNLa2FhNzE0MWVxRWkwbnN1ZXJkTU0?oc=5",
+  "title": "[이슈 60초] \"지면 잠실구장과 영원히 작별!\" LG 트윈스·두산 베어스 와일드카드 '벼랑 끝 승부'",
+  "published_at": "2026-10-13T04:34:49.000Z",
+  "collected_at": "2026-10-16T12:55:42.882Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 47,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

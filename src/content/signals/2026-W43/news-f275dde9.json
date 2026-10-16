@@ -1,0 +1,28 @@
+{
+  "id": "news-f275dde9",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스퀘스트",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1DeTlHWFNjWlZUVGFERzZHaGJKY2puWExxSUZOZ2NfY2JuSHE2eTc2SEFKcjNBWTNfdjlmQklmLUhHWl9CNXBCbHlESTNoZWE2UVFyTHVlMzBicExMRml4OWF4cnpTcDE4Mm9WWTlqMA?oc=5",
+  "title": "컴투스, 2026 KBO 포스트시즌 우승팀 설문 결과 발표…KT 위즈 1위",
+  "published_at": "2026-10-14T02:38:52.000Z",
+  "collected_at": "2026-10-16T12:55:42.882Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "뉴스드림",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5UZjk0RlVIWGgwRHBzdWFfVnNQcUMxVTFUQVdqVDhZVjZZSERtWXh6d1F4ekdxZjNsU1AzZ3AwT2J3MkhCcUF3cFBZLW40Qko2bnkzQTZ6ZHEzckx6NlR1aThmNHlCNjNRUk9R0gFuQVVfeXFMTkxfS3A2YlZGV01PbmdRcXYtd0tsZ3ZScGJNX1BIT2t2TzJuQ1B3ZHl3dS1VOXBVelFRWnRPVW5DUUZienNpSWRHTmZTd2Iyc2RpRFR4LXk4S0RDdnMxbElJMUc5dC1BTVhONmtaU3c?oc=5"
+    }
+  ]
+}

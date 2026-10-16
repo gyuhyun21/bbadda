@@ -1,0 +1,29 @@
+{
+  "id": "news-df4087f1",
+  "issue": "2026-W43",
+  "module": "league",
+  "teams": [],
+  "source_type": "news",
+  "source_name": "팝콘뉴스",
+  "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1QbFgwb3dQd1IxQW5Fa2QyOVdwOE04MUVWNkd3WWZDSlZmNmVEMDlFMl9zRVpzU0E5V1NpaUM0Q1NoaU9XTmpCdWtqLV9XdGxPNG50djJNYXIzeFRpUHFFS2tnWjlUbUxBTjZrcFpR0gFyQVVfeXFMUG1yVEcwTk9pV2oza2YzOHhxa0M0TXlIb2dMbDdSdzZqa1lZZjFSMndVZmtXcXJjbkhKTGJ5Tjh0RGpFR3p0V3FHa0xnQmZzOGVjdG5wTTlDUU5nemJsTi1VZVlFMmF6TW9UVXJIUElMSjhn?oc=5",
+  "title": "bhc, 한국시리즈 직관 티켓 이벤트 연다...앱 주문 고객에 응모 기회",
+  "published_at": "2026-10-14T00:15:09.000Z",
+  "collected_at": "2026-10-16T12:55:42.882Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 62,
+    "relevance": 30
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1RWnlETzBhdXg5VjRsUUxRUmdPZTZsYmRhNE5qTWdfMzcwaFJFLVNFVU1IR3VONHpCeTJITG92MjFhSGl0c0pOaHNaUXl5MFRFN014aUhoYXdrSG5r?oc=5"
+    },
+    {
+      "source_name": "비욘드포스트",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBmZVdpWThzNmhjbGZmYkU2NUdkTzh6UUExbm9zT1UxZmxxTFZCSWEzVWI2NUk3LWZVZW9fdmt0QklFU3gwbTBCU0lpRlE1Q1Q2R255N3I4a0w4R0d1TzNocmltT1p1ODl3RnB5b1hkWHZFdWswc2F1RnFJb1I?oc=5"
+    }
+  ]
+}

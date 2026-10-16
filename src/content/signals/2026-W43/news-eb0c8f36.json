@@ -1,0 +1,22 @@
+{
+  "id": "news-eb0c8f36",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "연합뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBseVEyRmt6VWlmVHRpdEpaZlRnTzduQ3cyaGhUazVxdVFLWGdqNUlWNnQ1TW8wRk1abTZQS3I3V1dSR3dwWUFDWUpHUHZlaFBhRVoyb0dZc0I1TEJmUUZPRdIBYEFVX3lxTFBseVEyRmt6VWlmVHRpdEpaZlRnTzduQ3cyaGhUazVxdVFLWGdqNUlWNnQ1TW8wRk1abTZQS3I3V1dSR3dwWUFDWUpHUHZlaFBhRVoyb0dZc0I1TEJmUUZPRQ?oc=5",
+  "title": "프로야구 롯데, 10개 구단 체제 첫 '규정 이닝' 5명 달성",
+  "published_at": "2026-10-12T09:58:57.000Z",
+  "collected_at": "2026-10-16T12:55:42.882Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 33,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

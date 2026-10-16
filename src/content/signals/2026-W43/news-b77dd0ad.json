@@ -1,0 +1,28 @@
+{
+  "id": "news-b77dd0ad",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "news",
+  "source_name": "청년일보",
+  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5tNUpsNEtZMWpwSU5uei1NZDlTS3NsdUVwZlBWTWQ4YkZ1YU5kb0RYN29ndHozMVFva2RFVTg1eDVjeXBuWUdZdGFQbVl6LTJFcE1lSzlHeFJNRDdob3lkTENJSTZkbjg?oc=5",
+  "title": "'국대 우승' 류지현 지휘봉…한화 이글스, 명문 재건 나선다",
+  "published_at": "2026-10-13T02:49:33.000Z",
+  "collected_at": "2026-10-16T12:55:42.882Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 47,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "이투데이",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0teHpzemZaSzEyVHVXaXV6cnNmY0ZUcmRPZkxzNXJnR2VMb3doeFlTQk9XYWx2TWRXTVgxZWt5c1NjTXUyeklrQ3dKMmtGSzEwcndIWA?oc=5"
+    }
+  ]
+}

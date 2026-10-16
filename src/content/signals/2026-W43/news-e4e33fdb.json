@@ -1,0 +1,28 @@
+{
+  "id": "news-e4e33fdb",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "OSEN",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ySjY3dEc1UUVHWlp1T3FBZkFzeW9XejI4OENYSXVRLU1Ra3FJc04xV0VIbzRLeEp6YjNoVWRZWUttcWVHYmU2b0JoZ2VUV2RzSVNIVQ?oc=5",
+  "title": "[사진] 삼성 라이온즈 승리 기원 시구행사 나서는 이해란과 강유림",
+  "published_at": "2026-10-12T09:58:00.000Z",
+  "collected_at": "2026-10-16T12:55:42.882Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 41,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ieGhCOVVPeHphek82NjZ0Y0VoTVlyVmdXZVhYU0tlbThJeFk0R2t6WEIzMUZJdGxxZmo4UnBrRndBSnNxREkzZzVHUV9EYlN3QWxVWVF6UHN0TjlJdU9EYXVrS2FEU09scmfSAW9BVV95cUxNUmpsMGJOdzEtLTFOZ2Uya0dQS21VOWVhRTdreVhGMi1rRVJQTkk3UU1rSTlLTm04enJ0TGIySmZMSG4xeDJ0VkVkRjhiV05UM3NROWxfUWcwVWtOSmIwV0pOc0N3Ync4VzNWOTlCQ0E?oc=5"
+    }
+  ]
+}

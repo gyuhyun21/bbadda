@@ -1,0 +1,22 @@
+{
+  "id": "news-75dc50c7",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "news",
+  "source_name": "연합뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA5WDMydU0wRjFIYnNkcHJFX1ZKdWF0MV9MZ1B3YXB2OWlFVl9FMWFpa0thT0F0WXE0eFFCQ1FlYm1Oam10X2NwUm0wb1RPY18ycFNFZExkRlI2Q1Nhay1mN9IBYEFVX3lxTFA5WDMydU0wRjFIYnNkcHJFX1ZKdWF0MV9MZ1B3YXB2OWlFVl9FMWFpa0thT0F0WXE0eFFCQ1FlYm1Oam10X2NwUm0wb1RPY18ycFNFZExkRlI2Q1Nhay1mNw?oc=5",
+  "title": "한화이글스 스카이박스 무상이용 의혹…대전 간부급 경찰관 입건",
+  "published_at": "2026-10-16T06:13:55.000Z",
+  "collected_at": "2026-10-16T12:55:42.882Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

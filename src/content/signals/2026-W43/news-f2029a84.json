@@ -1,0 +1,22 @@
+{
+  "id": "news-f2029a84",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "뉴시스",
+  "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBDQnpCSjRKeWQ0dTcwbEtlRGRDbnNmUVItMnVwWkQ0c3ZldHlSNXlaMVF1WWlfTzFUMDRXZWhDelZhemZWMlBnRG1uX3ozUzlwc0R4V2hFWko0S3kwY0k1MExkQ1o5TjVpdF9WTTNvaWpuV1NZODF5R9IBeEFVX3lxTFBDQnpCSjRKeWQ0dTcwbEtlRGRDbnNmUVItMnVwWkQ0c3ZldHlSNXlaMVF1WWlfTzFUMDRXZWhDelZhemZWMlBnRG1uX3ozUzlwc0R4V2hFWko0S3kwY0k1MExkQ1o5TjVpdF9WTTNvaWpuV1NZODF5Rw?oc=5",
+  "title": "'깨어났다, 해결사 본능!'…LG 오스틴, 부진 씻는 대포로 팀도 살렸다[WC]",
+  "published_at": "2026-10-14T13:00:39.000Z",
+  "collected_at": "2026-10-16T12:55:42.882Z",
+  "summary_ko": "와일드카드 결정전에서 오스틴이 홈런으로 부진을 털고 팀 승리를 이끌었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 51,
+    "relevance": 80
+  },
+  "sentiment": "neutral"
+}

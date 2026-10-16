@@ -1,0 +1,23 @@
+{
+  "id": "news-03089aff",
+  "issue": "2026-W43",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "doosan"
+  ],
+  "source_type": "news",
+  "source_name": "진일보 | 전남일보",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9xLVZvOVFfd3FOcFd3dndEMHBrOC1SZV8wYlRpMzZCM0xzdzFWRDAtaXNaRDllMk1NOE9USjVwMVZ6MnFFaDBURk1tS3RMbFRXNnJHcEFjdWgxUE1fOU1qLWlmZThIRm10cFhzNV9zRQ?oc=5",
+  "title": "KIA, 2015년 두산처럼 ‘3위의 기적’ 쓸까…한국시리즈 우승 도전",
+  "published_at": "2026-10-13T00:45:00.000Z",
+  "collected_at": "2026-10-16T12:55:42.882Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 38,
+    "relevance": 80
+  },
+  "sentiment": "positive"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-03a2f2f1",
+  "issue": "2026-W43",
+  "module": "rivalry",
+  "team": "lg",
+  "teams": [
+    "lg",
+    "doosan"
+  ],
+  "source_type": "news",
+  "source_name": "연합뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8xem1JUVZNLXZ0U3BhdjNMMnVEeTBHR3VHTHdwd2RqMFVVNWoya0RFZnc5Rk5pSEpHZUtCUmlDc2ctVmc1WlZGVUNSdzBxcjBvNE43WjY0bWJXbjDSAWBBVV95cUxOY3A5c2o0d3UtSzYtM3d3bjJiX2ZwcXdWWmc4cVp0TUdtbkNtOHhtaWhhS3NqREI3VDF2dWdRNGdWbE9iM3dzY0tzQTJNUUd6d0ViWjd4NDVVcFdZNUcxUnE?oc=5",
+  "title": "LG 뚫기에는 너무나 무기력했던 두산 방망이…수비까지 '완패'",
+  "published_at": "2026-10-14T13:01:37.000Z",
+  "collected_at": "2026-10-16T12:55:42.882Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

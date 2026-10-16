@@ -1,0 +1,22 @@
+{
+  "id": "news-0b021dc7",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "news",
+  "source_name": "한국경제",
+  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9MRmp0VUVpN3hqVHpCV1dXWlpfZ3owR0ItYUQ0SnREcHlnYVJsbElHNkx2eFlqMDM5Wlg5a2I1aFJXamswOUNIel9QeEJUMXV0TUJPbUhVZXQ3Zw?oc=5",
+  "title": "피닉스 선즈도 썼다…한국시리즈 앞둔 KT위즈 ‘PEMF’로 회복관리",
+  "published_at": "2026-10-16T07:57:56.000Z",
+  "collected_at": "2026-10-16T12:55:42.882Z",
+  "summary_ko": "한국시리즈를 앞둔 KT가 선수 회복 관리에 PEMF 장비를 쓰고 있다는 보도다.",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

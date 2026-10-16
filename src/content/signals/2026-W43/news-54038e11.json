@@ -1,0 +1,36 @@
+{
+  "id": "news-54038e11",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "경북매일",
+  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1LZWd3UTBDTU5vOGJFUXhERjhJcl9xM21WZ2YwdXRENHZtbGpfbmtwQU1XNXpEakV6ejdvY2czcG1TWERzYkxTYlhUY0FjSzNja0JNMFl4aVg3QQ?oc=5",
+  "title": "더현대 대구, 삼성라이온즈 팬 감사제 개최",
+  "published_at": "2026-10-14T05:37:00.000Z",
+  "collected_at": "2026-10-16T12:55:42.882Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 72,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1jWFhtcE9CaFZvYVZ0UW05NDVyTXBzWEN3SXRQN19lM2xOTkI4ZzdUVVI1d01FMENPY1labC1MRWpYaFo2TWRVaXNvZ0p1VEhvemJoMlBLa2h4X3PSAWBBVV95cUxQREI3NW0zcER5Z19XRkxUTFVoYVFXelRycjEtdGpVT0tiQW0zMnVCNlU5dmlXZXZOZlJmcVV6X1gxUUxqczhaTWVyLXJtaThaNXptLVFTa3duTFl6Q3lQWFo?oc=5"
+    },
+    {
+      "source_name": "뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB6S1BtWnh1a3VESnltaWNqb1BmQlpWREU2U0hxTzJFNGJfc3kxNEEzVENISUFYYVprd2hhSE85TG94d095YUNrbEFtTGhNNF84bE9aVHczQjJhSDNNWjZBRnZDVm55aHYxTDU3c1QtVDVMRDZvTzZBUdIBeEFVX3lxTFB6S1BtWnh1a3VESnltaWNqb1BmQlpWREU2U0hxTzJFNGJfc3kxNEEzVENISUFYYVprd2hhSE85TG94d095YUNrbEFtTGhNNF84bE9aVHczQjJhSDNNWjZBRnZDVm55aHYxTDU3c1QtVDVMRDZvTzZBUQ?oc=5"
+    },
+    {
+      "source_name": "노컷뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBFR1p2MG1YNTFQckRXamhmdlRSU2Y0dllybDExWHlUNU9vY2w0LUJBT2VkTlpNVE1hd205VmR6Z2t4NHlJOVI5ckM0N0NTR3VMbEE?oc=5"
+    }
+  ]
+}

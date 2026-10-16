@@ -1,0 +1,22 @@
+{
+  "id": "news-89fcb397",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "news",
+  "source_name": "노컷뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5yZ3B4bFJoRWkxYnhHdFcxRVhKR1FWZHhkVzJwR1lwZlNIVE5hUnFnWlUyZ2M4WWltMnVhSFQ0dUxmWmhodXBxR2tQMVl2SmhoZWc?oc=5",
+  "title": "대전 경찰 간부, 한화이글스 스카이박스 이용권 무상 수수 의혹",
+  "published_at": "2026-10-16T09:16:50.000Z",
+  "collected_at": "2026-10-16T12:55:42.882Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

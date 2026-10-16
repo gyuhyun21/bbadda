@@ -1,0 +1,22 @@
+{
+  "id": "news-f7e719df",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "news",
+  "source_name": "기호일보",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5mRHpDZHFiVi1tdHlySW9UcXVhYUlLZXVyV0ZScVZDOHNjVVFYTjVKOXFFSDBleDhkcDRjNEFOSm5jQ2NtX19pSklkcGd6dmR5bUlrRW5kWmx2NGItb010ZXozeVh6UWRSWlFwc25ITQ?oc=5",
+  "title": "SSG랜더스, ‘최광야구 1429‘ 이벤트 공개… SPOTV 생중계·특별 해설 출격",
+  "published_at": "2026-10-13T05:36:00.000Z",
+  "collected_at": "2026-10-16T12:55:42.882Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 40,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "news-5a6325a9",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "더게이트",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBEek9QVW83aFozRkh3UlVXU3JMZWpEck1CVkR2QTVBcU1PdUwtWThVTTg5S0dFbmlfaXRvaEJXLUppSXctNnFpUEZZenNDZFhDc1MtUUY4c1puMVRha2NYeklNb1M4YnNv0gFsQVVfeXFMT192SkZidVZDaGJxejBaajhsb2N6c0tONEtXcS1PYWdaVkgzcWd4TjRMUXNWRU1vZ3VpR2hvcXFHWFd2QkE1V1l0b1FoNWU3a0QtNk5KLTdkTjQ1Z0ctNHRDSVhKdDNmQWNCWWVU?oc=5",
+  "title": "“가을야구에서도 승리 요정” LG 트윈스 가을야구 첫 시구는 트리플에스 김채연...14일 WC 1차전 등판",
+  "published_at": "2026-10-13T05:36:07.000Z",
+  "collected_at": "2026-10-16T12:55:42.882Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 48,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "BNT뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5kX2l1STljdlBPeld3QkR3dlRBbWlEX2w4V2FZSnRmVGxFZm1wXzlYc2VzQTU1cXZtLWVFcmd6anlvNW1WNzl3TUFFRFBLNUV3SW9CR08yc3YtaEFWMzg5cy1Obkw?oc=5"
+    }
+  ]
+}

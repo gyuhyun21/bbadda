@@ -1,0 +1,22 @@
+{
+  "id": "news-1bd51556",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "JTBC",
+  "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE96Zkl4MllnbXhwcGhsME85RHFjdXllcElxZzIzTU9OZEFkX0NJSEpwY3Z2Q0h2Ny04N1RkeUw0UklfcjBMYWVUbVp4Wm5MeG1yNUE?oc=5",
+  "title": "3위 확정되자 눈물 보인 네일…\"KIA는 한국시리즈 불패\"",
+  "published_at": "2026-10-14T09:16:12.000Z",
+  "collected_at": "2026-10-16T12:55:42.882Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 50,
+    "relevance": 80
+  },
+  "sentiment": "neutral"
+}

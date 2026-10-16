@@ -1,0 +1,22 @@
+{
+  "id": "news-9a83816a",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "뉴시스",
+  "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9aamZadlJsZzdIY3hhTnZmVHFvSEhsWk9nWVpxTGctcVY4OW5PUjN0UXBiOFVwOFBqQVg5TXFPZkoycTA4NFRrV0Nnd1IzSkV0SzUxd0dyNjhtdXF2SmlUd2JGTVNZYkJPME5GOUdCWmFRM0drWExlWdIBeEFVX3lxTE9aamZadlJsZzdIY3hhTnZmVHFvSEhsWk9nWVpxTGctcVY4OW5PUjN0UXBiOFVwOFBqQVg5TXFPZkoycTA4NFRrV0Nnd1IzSkV0SzUxd0dyNjhtdXF2SmlUd2JGTVNZYkJPME5GOUdCWmFRM0drWExlWQ?oc=5",
+  "title": "롯데, 고승민·전민재 등 8명 미국 야구 아카데미 파견",
+  "published_at": "2026-10-16T02:40:49.000Z",
+  "collected_at": "2026-10-16T12:55:42.882Z",
+  "summary_ko": "롯데가 고승민·전민재 등 선수 8명을 미국 야구 아카데미에 보낸다.",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

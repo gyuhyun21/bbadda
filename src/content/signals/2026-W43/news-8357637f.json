@@ -1,0 +1,22 @@
+{
+  "id": "news-8357637f",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "대구MBC",
+  "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5VVVlfN3AwczdPNTJNZUlIRWJxbFNCWkZiNlJ3ckNtRV9KYnBVb2ZXdE5ORHphWURiZG00djhCRDM0Yzd6eWd6NXFqdnE?oc=5",
+  "title": "'가을야구' 모드 ON 삼성라이온즈···PO 대비 본격 훈련 돌입",
+  "published_at": "2026-10-15T22:40:00.000Z",
+  "collected_at": "2026-10-16T12:55:42.882Z",
+  "summary_ko": "삼성이 플레이오프에 대비한 본격 훈련에 들어갔다.",
+  "metrics": {},
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

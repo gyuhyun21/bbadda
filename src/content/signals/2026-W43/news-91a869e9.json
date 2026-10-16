@@ -1,0 +1,28 @@
+{
+  "id": "news-91a869e9",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "KBS 뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHZ0xIN2VnSF91ZHh0RG1TSVRHbVNoanRXcG14TnBhbUI3UDNpbzR4Q0QyNEpYYnJBZHdrZEk1ZWNQajJTR0ZQTGhfZVNEY0pXekktQjFWSDcwTkE?oc=5",
+  "title": "전직 삼성라이온즈 투수 안지만, 지인 사기 혐의 징역 1년 8개월 선고",
+  "published_at": "2026-10-14T06:50:00.000Z",
+  "collected_at": "2026-10-16T12:55:42.882Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 57,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "뉴스핌",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1KWDE4c3A5a2U3T3UtaHlwRUxJMjdMZWNEOEY3S1RrY3dTLXljQ1hjQzkxNU43aHlGQnp2OXoybnZnNjloNlREUV9XN3poSDZKTXFwYVZidFlpQ0l2?oc=5"
+    }
+  ]
+}

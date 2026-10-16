@@ -1,0 +1,23 @@
+{
+  "id": "news-28a95182",
+  "issue": "2026-W43",
+  "module": "rivalry",
+  "team": "kt",
+  "teams": [
+    "kt",
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "YTN",
+  "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1QRFoycURyMmtPMWdYcF82UzVJVi1wZHZqZDAxSktERGdmeXJGQWhYdzNtNFVzWGNTdEtWZl9ObF9BSFBuRnp4RUoyOTBHMEVtQ2NRYkpXUXNsRFJtSHc?oc=5",
+  "title": "가을야구 D-1, 민훈기 ‘한국시리즈’ 예측 ”KT 유일한 변수는 ‘7승9패’ 삼성”",
+  "published_at": "2026-10-13T04:34:00.000Z",
+  "collected_at": "2026-10-16T12:55:42.882Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 39,
+    "relevance": 80
+  },
+  "sentiment": "neutral"
+}
