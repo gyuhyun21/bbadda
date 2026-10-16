@@ -56,13 +56,21 @@ test('Vertex: 날짜 인식(메타 작성 시각·한국어·영문·상대 시�
   assert.equal(findDate({ 'article:published_time': '2026-10-14T03:00:00Z' }, '', NOW), '2026-10-14T03:00:00.000Z');
   assert.equal(findDate(undefined, '2026. 10. 13. — 직관 후기', NOW), new Date('2026-10-13T00:00:00+09:00').toISOString());
   assert.equal(findDate(undefined, 'Oct 14, 2026 — Kia Tigers', NOW), '2026-10-14T00:00:00.000Z');
-  assert.equal(findDate(undefined, '3일 전 ...', NOW), new Date(NOW.getTime() - 3 * 86400000).toISOString());
+  assert.equal(findDate(undefined, '3일 전 ...', NOW), new Date('2026-10-16T00:00:00+09:00').toISOString()); // 'N일 전'은 그날 자정(KST)
+  assert.equal(findDate(undefined, '5시간 전 ...', NOW), new Date(NOW.getTime() - 5 * 3600000).toISOString());
   assert.equal(findDate({ 'og:updated_time': '2026-10-14T03:00:00Z' }, '', NOW), undefined);
 });
 test('Vertex: 링크 정리(레딧 ?tl=ko, 겹친 &amp;, 빈 파라미터)와 제목 꼬리표', () => {
   assert.equal(normalizeLink('https://reddit.com/r/KBO/comments/abc/x/?tl=ko'), 'https://www.reddit.com/r/KBO/comments/abc/x/');
   assert.equal(normalizeLink('https://gall.dcinside.com/board/view/?id=baseball_new11&amp;amp;no=1&amp;page='), 'https://gall.dcinside.com/board/view/?id=baseball_new11&no=1');
   assert.equal(cleanTitle('한화 이글스 직관 후기 - MLBPARK'), '한화 이글스 직관 후기');
+});
+test('Vertex: 상대 날짜(N일 전) 글은 같은 날 여러 건이어도 남김', async () => {
+  const fetchText: Ctx['fetchText'] = async () => JSON.stringify({ results: [1, 2, 3, 4].map((n) => ({ document: { derivedStructData: { title: `LG 트윈스 글 ${n}`, link: `https://mlbpark.donga.com/mp/b.php?id=${n}`, snippets: [{ snippet: '2일 전 직관' }] } } })) });
+  const r = await collectVertex({ now: NOW, env: { VERTEX_AUTH: 'proxy', VERTEX_ENGINE: 'projects/1/locations/global/collections/default_collection/engines/bbadda' }, log: () => {}, fetchText },
+    { enabled: true, max_queries: 1, sites: [{ host: 'mlbpark.donga.com', name: '엠엘비파크' }] });
+  assert.equal(r.items.length, 4);
+  assert.equal(r.dropped_suspect_date, 0);
 });
 test('Vertex: 날짜만 있는 글은 같은 날 여러 건이어도 남김', async () => {
   const fetchText: Ctx['fetchText'] = async () => JSON.stringify({ results: [1, 2, 3, 4].map((n) => ({ document: { derivedStructData: { title: `LG 트윈스 글 ${n}`, link: `https://mlbpark.donga.com/mp/b.php?id=${n}`, snippets: [{ snippet: '2026. 10. 15. 직관' }] } } })) });
