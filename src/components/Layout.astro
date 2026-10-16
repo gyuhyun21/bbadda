@@ -1,6 +1,7 @@
 ---
 import '../styles/global.css';
 import '../styles/magazine.css';
+import '../styles/apple.css';
 import OfficialLinks from './OfficialLinks.astro';
 import { siteLayout } from '../lib/config.ts';
 import { SITE_NAME, TEAMS, teamColor } from '../lib/site.ts';
@@ -16,7 +17,8 @@ const layout = siteLayout(); // config/site.yaml layout (환경변수 SITE_LAYOU
 const myTeamCss = TEAMS.map((t) => `html[data-my-team="${t.id}"] [data-myteam-block="${t.id}"]{display:block}html[data-my-team="${t.id}"] [data-team-tile="${t.id}"]{order:-1;box-shadow:0 0 0 2px var(--ink)}`).join('');
 ---
 <!doctype html>
-<html lang="ko" class={`layout-${layout}`}>
+{/* apple 은 magazine 위에 덧입힌다 — 규칙은 모두 .layout-apple 아래(src/styles/apple.css) */}
+<html lang="ko" class={layout === 'apple' ? 'layout-magazine layout-apple' : `layout-${layout}`}>
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />

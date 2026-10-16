@@ -6,7 +6,7 @@ import TeamChip from './TeamChip.astro';
 import TeamPicker from './TeamPicker.astro';
 import CommunitySection from './CommunitySection.astro';
 import { communitySection, newsImages } from '../lib/config.ts';
-import { TEAMS, loadAll, ofTeam, recent, hot, newest, kstDay, daysOf, onDay, dayLabel, seasonTitle, displayTitle, fmtDate, teamColor, isToday, BUILD_TIME } from '../lib/site.ts';
+import { TEAMS, loadAll, ofTeam, recent, hot, newest, kstDay, daysOf, onDay, dayLabel, seasonTitle, displayTitle, fmtDate, teamColor, isToday, youtubeId, BUILD_TIME } from '../lib/site.ts';
 const data = await loadAll();
 const all = data.signals;
 const fresh = recent(all, 2, 12);
@@ -41,14 +41,19 @@ const days = daysOf(all).slice(0, 7);
     <div class="headline-grid">
       <div class="headline-lead"><SignalCard signal={lead} big /></div>
       <ul class="headline-side">
-        {side.map((s) => (
-          <li>
-            <span class="headline-meta">{s.teams.slice(0, 2).map((t) => <TeamChip id={t} short />)} {s.official && <span class="chip chip--official">오피셜</span>}</span>
-            <a href={s.url} target="_blank" rel="noopener noreferrer">{displayTitle(s)}</a>
-            <span class="small">{s.summary_ko}</span>
-            <span class="small">{s.source_name} · {fmtDate(s.published_at)}</span>
-          </li>
-        ))}
+        {side.map((s) => {
+          const yt = s.source_type === 'youtube' ? youtubeId(s.url) : undefined;
+          const thumb = yt ? `https://i.ytimg.com/vi/${yt}/mqdefault.jpg` : newsImages() ? s.image : undefined;
+          return (
+            <li class={thumb ? 'has-thumb' : ''}>
+              {thumb && <a class="headline-thumb" href={s.url} target="_blank" rel="noopener noreferrer" tabindex="-1" aria-hidden="true"><img src={thumb} alt="" loading="lazy" referrerpolicy="no-referrer" width="160" height="120" onerror="this.parentElement.remove()" /></a>}
+              <span class="headline-meta">{s.teams.slice(0, 2).map((t) => <TeamChip id={t} short />)} {s.official && <span class="chip chip--official">오피셜</span>}</span>
+              <a class="headline-title" href={s.url} target="_blank" rel="noopener noreferrer">{displayTitle(s)}</a>
+              <span class="headline-sum">{s.summary_ko}</span>
+              <span class="headline-src">{s.source_name} · {fmtDate(s.published_at)}</span>
+            </li>
+          );
+        })}
       </ul>
     </div>
   </section>
