@@ -172,3 +172,9 @@ test('사진 보강: 요약을 쓴 뉴스만, 이미지 주소만 저장', async
   assert.equal(log.images, 1);
   assert.ok(!fetched.includes('https://news.example.com/b'));
 });
+
+import { stripTags } from '../scripts/collect/util.ts';
+test('제목 정리: 숫자·이름 형태 문자 참조를 푼다(카카오 &#34; 실측)', () => {
+  assert.equal(stripTags('&#34;출혈과 부종은 잡힌 상태&#34; 3년 연속'), '"출혈과 부종은 잡힌 상태" 3년 연속');
+  assert.equal(stripTags('<b>LG</b> &#x27;가을&#x27; &quot;야구&quot; &amp;amp; 끝'), "LG '가을' \"야구\" &amp; 끝");
+});

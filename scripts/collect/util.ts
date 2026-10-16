@@ -113,7 +113,14 @@ export const inWindow = (iso: string, start: Date, end: Date) => {
   return t >= start.getTime() && t <= end.getTime();
 };
 
-export const stripTags = (s: string) => s.replace(/<[^>]+>/g, '').replace(/&quot;/g, '"').replace(/&#39;/g, "'").replace(/&amp;/g, '&').replace(/&lt;/g, '<').replace(/&gt;/g, '>').trim();
+const NAMED: Record<string, string> = { quot: '"', apos: "'", lt: '<', gt: '>', nbsp: ' ', middot: '·', hellip: '…', lsquo: '‘', rsquo: '’', ldquo: '“', rdquo: '”', ndash: '–', mdash: '—' };
+/** HTML 문자 참조 풀기: 숫자(&#34; &#x27;)와 자주 쓰는 이름(&quot; 등). &amp; 는 마지막에 — 두 번 풀리지 않게 */
+export const decodeEntities = (s: string) => s
+  .replace(/&#(\d+);/g, (_, n) => String.fromCodePoint(Number(n)))
+  .replace(/&#x([0-9a-f]+);/gi, (_, h) => String.fromCodePoint(parseInt(h, 16)))
+  .replace(/&([a-z]+);/gi, (m, name) => NAMED[name.toLowerCase()] ?? m)
+  .replace(/&amp;/g, '&');
+export const stripTags = (s: string) => decodeEntities(s.replace(/<[^>]+>/g, '')).trim();
 /** 15단어 이내 발췌(편집자가 요약을 쓸 때 참고). 본문은 저장하지 않는다. */
 export function excerpt(s: string | undefined, max = 15): string | undefined {
   const words = stripTags(s ?? '').replace(/\s+/g, ' ').trim().split(' ').filter(Boolean);
