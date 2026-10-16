@@ -8,12 +8,13 @@ import CommunitySection from './CommunitySection.astro';
 import RailItem from './RailItem.astro';
 import FanList from './FanList.astro';
 import { communitySection, newsImages, loadStandings, streakLabel } from '../lib/config.ts';
-import { TEAMS, loadAll, ofTeam, recent, hot, newest, kstDay, daysOf, onDay, dayLabel, seasonTitle, displayTitle, fmtDate, teamColor, teamById, isToday, youtubeId, isCommunityPost, BUILD_TIME } from '../lib/site.ts';
+import { TEAMS, loadAll, ofTeam, recent, hot, newest, kstDay, daysOf, onDay, dayLabel, seasonTitle, displayTitle, fmtDate, teamColor, teamById, isToday, youtubeId, isCommunityPost, byDayThenHot, latestBatch, newFirst, BUILD_TIME } from '../lib/site.ts';
 const data = await loadAll();
 const all = data.signals;
 const fresh = recent(all, 2, 12);
-// 1) 헤드라인: 최근 2일 점수 상위 — 사진 있는 기사를 대표로
-const ranked = [...fresh].filter((s) => s.module !== 'fans').sort(hot);
+// 1) 헤드라인: 이번 업데이트에 새로 들어온 기사 중 점수 상위 5건(모자라면 이전 기사로 채움). 대표는 그중 사진 있는 기사
+const isNew = latestBatch(all);
+const ranked = [...all.filter((s) => s.module !== 'fans')].sort((a, b) => Number(isNew(b)) - Number(isNew(a)) || hot(a, b)).slice(0, 5);
 const lead = (newsImages() ? ranked.find((s) => s.image) : undefined) ?? ranked[0];
 const side = ranked.filter((s) => s !== lead).slice(0, 4);
 // 3) 10개 구단 한눈에
@@ -33,12 +34,12 @@ const news = all.filter((s) => s.module !== 'fans' && !headlineIds.has(s.id));
 const railDays = daysOf(news).slice(0, 7);
 const dayItems = (d: string) => onDay(news, d).sort(hot);
 // 4) 리그(시즌에 따라 제목이 바뀐다)
-const league = recent(all.filter((s) => s.module === 'league' || s.module === 'rivalry'), 7).sort(hot);
+const league = newFirst(recent(all.filter((s) => s.module === 'league' || s.module === 'rivalry'), 7));
 // 5) 오피셜 영상
 const officialVideos = all.filter((s) => s.official && s.source_type === 'youtube').sort(newest).slice(0, 16);
 // 6) 팬 반응
 // 팬 반응: 팬 영상(YouTube, 썸네일 줄) + 팬 글(블로그·카페 목록). 커뮤니티 사이트 글은 아래 Community 섹션
-const fanAll = recent(all.filter((s) => s.module === 'fans'), 7).sort(hot);
+const fanAll = newFirst(recent(all.filter((s) => s.module === 'fans'), 7));
 const fanVideos = fanAll.filter((s) => s.source_type === 'youtube').slice(0, 12);
 const fanPosts = fanAll.filter((s) => s.source_type !== 'youtube' && !isCommunityPost(s)).slice(0, 20);
 // 7) 날짜별 소식(최근 7일)
@@ -88,7 +89,7 @@ const days = daysOf(all).slice(0, 7);
 
 <TeamPicker />
 {TEAMS.map((t) => {
-  const list = recent(ofTeam(all, t.id), 7).slice(0, 8);
+  const list = newFirst(recent(ofTeam(all, t.id), 7)).slice(0, 8);
   return (
     <section class="block myteam-now" id={`myteam-${t.id}`} data-myteam-block={t.id} aria-label={`${t.name} 최근 소식`}>
       <div class="block-head"><h2><TeamChip id={t.id} /> 내 팀 소식</h2><a href={`/teams/${t.id}`}>팀 페이지 →</a></div>

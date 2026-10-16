@@ -129,3 +129,16 @@ export function seasonTitle(d = new Date(BUILD_TIME)): string {
   const m = new Date(d.getTime() + 9 * 3600_000).getUTCMonth() + 1;
   return m === 10 || m === 11 ? '가을야구' : m === 12 || m <= 2 ? '스토브리그' : m === 3 ? '개막 준비' : '리그 전체';
 }
+
+/** 날짜 최신순 → 같은 날 안에서 점수순. 점수(최신성 포함)는 수집 때 고정되므로 날짜를 먼저 본다(2026-10-18). */
+export const byDayThenHot = (a: Signal, b: Signal) => kstDay(b.published_at).localeCompare(kstDay(a.published_at)) || hot(a, b);
+/** 가장 최근 업데이트(마지막 수집 시각에서 3시간 안 = 같은 루틴 실행)에 새로 들어온 글인지 — 아침 루틴은 대개 전날 저녁 기사를 가져오므로 게시일이 아니라 수집 시각으로 본다(2026-10-17) */
+export function latestBatch(list: Signal[]): (s: Signal) => boolean {
+  const last = Math.max(0, ...list.map((s) => Date.parse(s.collected_at)).filter(Number.isFinite));
+  return (s) => Date.parse(s.collected_at) >= last - 3 * 3600_000;
+}
+/** 새로 들어온 글 먼저 → 날짜 최신순 → 점수순 */
+export function newFirst(list: Signal[]): Signal[] {
+  const isNew = latestBatch(list);
+  return [...list].sort((a, b) => Number(isNew(b)) - Number(isNew(a)) || byDayThenHot(a, b));
+}
