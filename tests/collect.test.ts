@@ -64,11 +64,18 @@ test('Vertex: 링크 정리(레딧 ?tl=ko, 겹친 &amp;, 빈 파라미터)와 �
   assert.equal(normalizeLink('https://gall.dcinside.com/board/view/?id=baseball_new11&amp;amp;no=1&amp;page='), 'https://gall.dcinside.com/board/view/?id=baseball_new11&no=1');
   assert.equal(cleanTitle('한화 이글스 직관 후기 - MLBPARK'), '한화 이글스 직관 후기');
 });
+test('Vertex: 날짜만 있는 글은 같은 날 여러 건이어도 남김', async () => {
+  const fetchText: Ctx['fetchText'] = async () => JSON.stringify({ results: [1, 2, 3, 4].map((n) => ({ document: { derivedStructData: { title: `LG 트윈스 글 ${n}`, link: `https://mlbpark.donga.com/mp/b.php?id=${n}`, snippets: [{ snippet: '2026. 10. 15. 직관' }] } } })) });
+  const r = await collectVertex({ now: NOW, env: { VERTEX_AUTH: 'proxy', VERTEX_ENGINE: 'projects/1/locations/global/collections/default_collection/engines/bbadda' }, log: () => {}, fetchText },
+    { enabled: true, max_queries: 1, sites: [{ host: 'mlbpark.donga.com', name: '엠엘비파크' }] });
+  assert.equal(r.items.length, 4);
+  assert.equal(r.dropped_suspect_date, 0);
+});
 test('Vertex: orderBy=date, 쿼리마다 siteSearch 한 곳, 상한, 같은 날짜 3건은 의심 날짜로 버림', async () => {
   const bodies: any[] = [];
   const fetchText: Ctx['fetchText'] = async (_u, req) => {
     bodies.push(JSON.parse(req!.body!));
-    return JSON.stringify({ results: [1, 2, 3].map((n) => ({ document: { derivedStructData: { title: `LG 트윈스 글 ${n}`, link: `https://mlbpark.donga.com/mp/b.php?id=${n}`, pagemap: { metatags: [{ 'article:published_time': '2026-10-14T00:00:00Z' }] } } } }))
+    return JSON.stringify({ results: [1, 2, 3].map((n) => ({ document: { derivedStructData: { title: `LG 트윈스 글 ${n}`, link: `https://mlbpark.donga.com/mp/b.php?id=${n}`, pagemap: { metatags: [{ 'article:published_time': '2026-10-14T03:12:45Z' }] } } } }))
       .concat([{ document: { derivedStructData: { title: 'LG 트윈스 다른 글', link: 'https://mlbpark.donga.com/mp/b.php?id=9', snippets: [{ snippet: '2026. 10. 15. 직관' }] } } } as any]) });
   };
   const r = await collectVertex({ now: NOW, env: { VERTEX_AUTH: 'proxy', VERTEX_ENGINE: 'projects/1/locations/global/collections/default_collection/engines/bbadda' }, log: () => {}, fetchText },
@@ -85,11 +92,12 @@ test('Vertex: 인증·엔진이 없으면 건너뜀', async () => {
 });
 test('카카오: KakaoAK 헤더(Bearer 아님), 광고 글 제외', async () => {
   const seen: (Record<string, string> | undefined)[] = [];
-  const fetchText: Ctx['fetchText'] = async (_u, req) => { seen.push(req?.headers); return JSON.stringify({ documents: [{ title: '<b>LG 트윈스</b> 직관 후기', url: 'https://cafe.daum.net/x/1', datetime: '2026-10-18T10:00:00.000+09:00', cafename: '야구사랑' }, { title: 'LG 트윈스 유니폼 최저가', url: 'https://cafe.daum.net/x/2', datetime: '2026-10-18T10:00:00.000+09:00' }], meta: { is_end: true } }); };
-  const r = await collectKakao({ now: NOW, env: { KAKAO_REST_KEY: 'k' }, log: () => {}, fetchText }, { enabled: true, targets: ['cafe'], ad_patterns: ['최저가'] });
+  const fetchText: Ctx['fetchText'] = async (_u, req) => { seen.push(req?.headers); return JSON.stringify({ documents: [{ title: '<b>LG 트윈스</b> 직관 후기', url: 'https://cafe.daum.net/x/1', datetime: '2026-10-18T10:00:00.000+09:00', cafename: '야구사랑' }, { title: 'LG 트윈스 유니폼 최저가', url: 'https://cafe.daum.net/x/2', datetime: '2026-10-18T10:00:00.000+09:00' }, { title: 'LG트윈스 와펜 주문', url: 'https://cafe.daum.net/x/3', datetime: '2026-10-18T10:00:00.000+09:00', cafename: '성포자수 010-1234-5678' }], meta: { is_end: true } }); };
+  const r = await collectKakao({ now: NOW, env: { KAKAO_REST_KEY: 'k' }, log: () => {}, fetchText }, { enabled: true, targets: ['cafe'], ad_patterns: ['최저가'], exclude_source_patterns: ['010-?\\d{4}'] });
   assert.equal(seen[0]?.Authorization, 'KakaoAK k');
   assert.ok(r.items.some((i) => i.title === 'LG 트윈스 직관 후기' && i.source_name === '다음카페 야구사랑'));
-  assert.ok(r.filtered_ads >= 1);
+  assert.ok(r.filtered_ads >= 2);
+  assert.ok(!r.items.some((i) => i.url.endsWith('/3')));
 });
 test('YouTube: 채널 주소 해석, 키가 없으면 건너뜀', async () => {
   assert.deepEqual(channelRef('https://www.youtube.com/channel/UCAZQZdSY5_YrziMPqXi-Zfw'), { id: 'UCAZQZdSY5_YrziMPqXi-Zfw' });

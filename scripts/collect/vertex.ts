@@ -12,6 +12,8 @@ type Result = { document?: { derivedStructData?: { title?: string; link?: string
 
 const hostOf = (u: string) => { try { return new URL(u).hostname.replace(/^www\.|^m\./, ''); } catch { return ''; } };
 const SUSPECT_SAME_DATE = 3;
+/** 시각 없이 날짜만 있는 값: 한국 자정(15:00Z) 또는 UTC 자정 */
+export const isDateOnly = (iso: string) => /T(15|00):00:00(\.000)?Z$/.test(iso);
 const MONTHS = ['jan', 'feb', 'mar', 'apr', 'may', 'jun', 'jul', 'aug', 'sep', 'oct', 'nov', 'dec'];
 
 /** 제목 끝의 사이트 꼬리표(' - MLBPARK', ' : 디시인사이드' 등)를 뗀다 */
@@ -105,10 +107,11 @@ export async function collectVertex(ctx: Ctx, override?: Record<string, any>) {
       out.failures.push(`${site.name} "${q}": ${(e as Error).message}`);
     }
   }
-  // 같은 사이트 글 3건 이상이 같은 날짜·시각이면 작성일이 아니라 색인 날짜로 보고 버린다
+  // 같은 사이트 글 3건 이상이 시각까지 똑같으면 작성일이 아니라 색인 시각으로 보고 버린다.
+  // 날짜만 있는 글(시각 없음)은 같은 날 글이 여러 개인 게 정상이라 이 규칙에서 뺀다(2026-10-17 실측: 정상 글 309건이 잘림)
   const n = new Map<string, number>();
-  for (const it of out.items) n.set(`${it.source_name}|${it.published_at}`, (n.get(`${it.source_name}|${it.published_at}`) ?? 0) + 1);
-  const keep = out.items.filter((it) => (n.get(`${it.source_name}|${it.published_at}`) ?? 0) < SUSPECT_SAME_DATE);
+  for (const it of out.items) if (!isDateOnly(it.published_at)) n.set(`${it.source_name}|${it.published_at}`, (n.get(`${it.source_name}|${it.published_at}`) ?? 0) + 1);
+  const keep = out.items.filter((it) => isDateOnly(it.published_at) || (n.get(`${it.source_name}|${it.published_at}`) ?? 0) < SUSPECT_SAME_DATE);
   out.dropped_suspect_date = out.items.length - keep.length;
   out.items = keep;
   return out;
