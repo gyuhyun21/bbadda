@@ -96,6 +96,8 @@ test('YouTube: 채널 주소 해석, 키가 없으면 건너뜀', async () => {
   assert.deepEqual(channelRef('https://www.youtube.com/c/LGTwinsTV'), { forHandle: '@LGTwinsTV' });
   assert.deepEqual(channelRef('http://www.youtube.com/user/ncdinos'), { forUsername: 'ncdinos' });
   assert.deepEqual(channelRef('https://www.youtube.com/@KBO1982'), { forHandle: '@KBO1982' });
+  assert.deepEqual(channelRef('https://www.youtube.com/kiabaseballclub'), { forHandle: '@kiabaseballclub', forUsername: 'kiabaseballclub' });
+  assert.deepEqual(channelRef('https://www.youtube.com/user/heroesbaseballclub/'), { forUsername: 'heroesbaseballclub' });
   assert.match((await collectYouTube({ now: NOW, env: {}, log: () => {}, fetchText: async () => '{}' })).skipped ?? '', /YOUTUBE/);
 });
 test('인스타그램: 계정명, 캡션 12단어, 오류 190 = 만료', () => {

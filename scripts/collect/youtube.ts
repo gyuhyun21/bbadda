@@ -8,13 +8,15 @@ export const COST = { search: 100, list: 1 } as const;
 
 type Video = { id: string; snippet: { title: string; channelId: string; channelTitle: string; publishedAt: string }; statistics?: { viewCount?: string; likeCount?: string; commentCount?: string } };
 
-/** 채널 주소 → 조회 방법. /channel/UC… 는 id, /@핸들 · /c/이름 은 forHandle, /user/이름 은 forUsername */
+/** 채널 주소 → 조회 방법. /channel/UC… 는 id, /@핸들 · /c/이름 은 forHandle, /user/이름 은 forUsername,
+ *  예전 방식 주소(youtube.com/이름)는 forHandle 로 찾고 없으면 forUsername 으로 다시 찾는다. */
 export function channelRef(url: string): { id?: string; forHandle?: string; forUsername?: string } | null {
-  const m = /youtube\.com\/(channel\/(UC[\w-]{22})|@([\w.-]+)|c\/([\w.-]+)|user\/([\w.-]+))/i.exec(url);
+  const m = /youtube\.com\/(channel\/(UC[\w-]{22})|@([\w.-]+)|c\/([\w.-]+)|user\/([\w.-]+)|([\w.-]+)\/?$)/i.exec(url);
   if (!m) return null;
   if (m[2]) return { id: m[2] };
   if (m[3] || m[4]) return { forHandle: `@${m[3] ?? m[4]}` };
-  return { forUsername: m[5] };
+  if (m[5]) return { forUsername: m[5] };
+  return { forHandle: `@${m[6]}`, forUsername: m[6] };
 }
 
 export function videoToItem(v: Video, via: RawItem['via'], team_hint?: string): RawItem {
@@ -51,7 +53,9 @@ export async function collectYouTube(ctx: Ctx, override?: Record<string, any>): 
     try {
       const ref = channelRef(ch.url!);
       if (!ref) { res.failures.push(`channel ${ch.url}: 주소 형식을 모름`); continue; }
-      const id = ref.id ?? (await get('channels', { part: 'id', ...(ref.forHandle ? { forHandle: ref.forHandle } : { forUsername: ref.forUsername! }) }, COST.list)).items?.[0]?.id;
+      let id = ref.id;
+      if (!id && ref.forHandle) id = (await get('channels', { part: 'id', forHandle: ref.forHandle }, COST.list)).items?.[0]?.id;
+      if (!id && ref.forUsername) id = (await get('channels', { part: 'id', forUsername: ref.forUsername }, COST.list)).items?.[0]?.id;
       if (!id) { res.failures.push(`channel ${ch.url}: 채널을 찾지 못함`); continue; }
       const data = await get('playlistItems', { part: 'contentDetails', playlistId: 'UU' + id.slice(2), maxResults: '15' }, COST.list);
       for (const it of data.items ?? []) {

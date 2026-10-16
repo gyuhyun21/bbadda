@@ -25,8 +25,8 @@ teams:
     city: 대전
     color: null # TODO
     website: https://www.hanwhaeagles.co.kr
-    youtube: null # TODO
-    instagram: null # TODO
+    youtube: https://www.youtube.com/channel/UCdq4Ji3772xudYRUatdzRrg # 출처: hanwhaeagles.co.kr 링크 (2026-10-16)
+    instagram: https://www.instagram.com/hanwhaeagles_soori/ # 출처: hanwhaeagles.co.kr 링크 (2026-10-16)
     news_queries: ["한화 이글스", "한화이글스"]
     aliases: [한화 이글스, 한화이글스, Hanwha Eagles]
     weak_aliases: [한화]
@@ -73,8 +73,8 @@ teams:
     city: 수원
     color: null # TODO
     website: https://www.ktwiz.co.kr
-    youtube: null # TODO
-    instagram: null # TODO
+    youtube: https://www.youtube.com/c/ktwiztv # 출처: ktwiz.co.kr 링크 (2026-10-16)
+    instagram: https://www.instagram.com/ktwiz.pr/ # 출처: ktwiz.co.kr 링크 (2026-10-16)
     news_queries: ["KT 위즈", "kt wiz"]
     aliases: [KT 위즈, KT위즈, kt wiz, KT Wiz]
     weak_aliases: [KT, kt]
@@ -97,8 +97,8 @@ teams:
     city: 광주
     color: null # TODO
     website: https://tigers.co.kr # 출처: KBO 구단정보의 www.kiatigers.co.kr 이 tigers.co.kr 로 이동 (2026-10-16)
-    youtube: null # TODO
-    instagram: null # TODO
+    youtube: https://www.youtube.com/kiabaseballclub # 출처: tigers.co.kr 링크 (2026-10-16)
+    instagram: https://www.instagram.com/always_kia_tigers/ # 출처: tigers.co.kr 링크 (2026-10-16)
     news_queries: ["KIA 타이거즈", "기아 타이거즈"]
     aliases: [KIA 타이거즈, KIA타이거즈, 기아 타이거즈, 기아타이거즈, Kia Tigers]
     weak_aliases: [KIA, 기아]
@@ -121,8 +121,8 @@ teams:
     city: 서울
     color: null # TODO
     website: https://heroesbaseball.co.kr
-    youtube: null # TODO
-    instagram: null # TODO
+    youtube: https://www.youtube.com/user/heroesbaseballclub/ # 출처: heroesbaseball.co.kr 링크 (2026-10-16)
+    instagram: https://www.instagram.com/heroesbaseballclub/ # 출처: heroesbaseball.co.kr 링크 (2026-10-16)
     news_queries: ["키움 히어로즈", "키움히어로즈"]
     aliases: [키움 히어로즈, 키움히어로즈, Kiwoom Heroes]
     weak_aliases: [키움]
