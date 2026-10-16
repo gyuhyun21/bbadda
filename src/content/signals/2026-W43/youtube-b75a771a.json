@@ -1,0 +1,28 @@
+{
+  "id": "youtube-b75a771a",
+  "issue": "2026-W43",
+  "module": "league",
+  "teams": [
+    "lg",
+    "doosan"
+  ],
+  "team": "lg",
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=jy6RBjbdti8",
+  "title": "8회, 긴장되는 중요한 순간 LG 이우찬의 위기를 탈출하는 절묘한 피칭! | WC1_두산 vs LG | 10.14 | 크보모먼트 | KBO 야구 하이라이트",
+  "published_at": "2026-10-14T13:06:25Z",
+  "collected_at": "2026-10-16T15:24:00.965Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 91855,
+    "likes": 900,
+    "comments": 205
+  },
+  "scores": {
+    "hot": 64,
+    "relevance": 80
+  },
+  "sentiment": "neutral"
+}

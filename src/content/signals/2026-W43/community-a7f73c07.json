@@ -1,0 +1,22 @@
+{
+  "id": "community-a7f73c07",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 사는 얘기",
+  "url": "https://blog.naver.com/ongoal/224443928802",
+  "title": "롯데 김태형 감독 재계약 가능성, 3년 연속 7위인데 '팀 가능성'은 왜 확인됐다는 걸까",
+  "published_at": "2026-10-16T17:31:00.000+09:00",
+  "collected_at": "2026-10-16T15:24:00.965Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

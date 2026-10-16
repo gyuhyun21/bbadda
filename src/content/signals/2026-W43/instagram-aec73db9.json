@@ -1,0 +1,26 @@
+{
+  "id": "instagram-aec73db9",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "instagram",
+  "official": true,
+  "source_name": "Instagram @heroesbaseballclub",
+  "url": "https://www.instagram.com/p/Dei0xGcEmjH/",
+  "title": "키움 히어로즈 공식 인스타그램: 키움히어로즈 월간 웹진 9월호 발행📰",
+  "published_at": "2026-10-16T05:51:47+0000",
+  "collected_at": "2026-10-16T15:24:00.965Z",
+  "summary_ko": "",
+  "metrics": {
+    "likes": 1432,
+    "comments": 103
+  },
+  "scores": {
+    "hot": 65,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "youtube-63a661ad",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "LGTWINSTV",
+  "url": "https://www.youtube.com/watch?v=dRVFSmk2RaA",
+  "title": "준PO 진출🎉승리요정 트리플에스 김채연의 시구🧚",
+  "published_at": "2026-10-14T15:16:54Z",
+  "collected_at": "2026-10-16T15:24:00.965Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 51820,
+    "likes": 1582,
+    "comments": 82
+  },
+  "scores": {
+    "hot": 77,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

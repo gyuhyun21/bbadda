@@ -1,0 +1,25 @@
+{
+  "id": "news-3b451e5f",
+  "issue": "2026-W43",
+  "module": "rivalry",
+  "team": "lg",
+  "teams": [
+    "lg",
+    "kia"
+  ],
+  "source_type": "news",
+  "announcement": true,
+  "source_name": "머니투데이",
+  "url": "https://www.mt.co.kr/amp/sports/2026/10/16/202610161503772464O",
+  "title": "손주영-신민재 모두 준PO 뛴다! LG 천만다행, KIA는 3포수 체제...준PO 30인 엔트리 공개 [공식발표]",
+  "published_at": "2026-10-16T06:34:00.000Z",
+  "collected_at": "2026-10-16T15:24:00.965Z",
+  "summary_ko": "KIA와의 준플레이오프 30인 엔트리가 공개됐고 LG는 손주영과 신민재를 포함했다. KIA는 포수 3명 체제로 나선다고 보도됐다.",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "image": "https://menu.mt.co.kr/cdn-cgi/image/w=1200,h=1511,fit=cover,bg=white,f=auto,quality=high,sharpen=2,g=face/mobile/osen/data/2026/10/16/202610161503772464_1.jpg"
+}

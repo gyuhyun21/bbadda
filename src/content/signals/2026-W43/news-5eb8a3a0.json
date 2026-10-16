@@ -1,0 +1,24 @@
+{
+  "id": "news-5eb8a3a0",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "마이데일리",
+  "url": "https://mydaily.co.kr/page/view/2026101404540566731",
+  "title": "안우진은 또 태극마크와 인연이 없다, APBC 와일드카드 불발…2027 제대로 풀타임 “2주 쉬고 피칭”",
+  "published_at": "2026-10-13T23:10:00.000Z",
+  "collected_at": "2026-10-16T15:24:00.965Z",
+  "summary_ko": "마이데일리에 따르면 키움 안우진은 APBC 와일드카드로도 뽑히지 못했다. 2027시즌 풀타임 복귀를 준비한다.",
+  "metrics": {},
+  "scores": {
+    "hot": 45,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "image": "https://mydaily.co.kr/photos/2026/08/29/2026082918425717069_l.jpg"
+}

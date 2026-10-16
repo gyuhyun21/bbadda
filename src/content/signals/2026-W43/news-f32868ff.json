@@ -1,0 +1,23 @@
+{
+  "id": "news-f32868ff",
+  "issue": "2026-W43",
+  "module": "rivalry",
+  "team": "lg",
+  "teams": [
+    "lg",
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "뉴시스",
+  "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBZR0tiVUFoQ294WGdES0Rzc1lyUUgzZm5kZ2VpQXpoSkxkZEhDSUozeWRoZ29FUy1POFZ1ZDdLX0ZEZ0pmUXhWQnFERjh4S2FvbTVMLVVBcmFYRmpxRG9ac0RPLXhLaGktdXIxaWlzSVBjakNwYTBnQ9IBeEFVX3lxTFBZR0tiVUFoQ294WGdES0Rzc1lyUUgzZm5kZ2VpQXpoSkxkZEhDSUozeWRoZ29FUy1POFZ1ZDdLX0ZEZ0pmUXhWQnFERjh4S2FvbTVMLVVBcmFYRmpxRG9ac0RPLXhLaGktdXIxaWlzSVBjakNwYTBnQw?oc=5",
+  "title": "LG, 엔트리에 손주영 복귀·신민재 포함 '호재'…KIA 포수 3명[준PO]",
+  "published_at": "2026-10-16T07:14:37.000Z",
+  "collected_at": "2026-10-16T15:24:00.965Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

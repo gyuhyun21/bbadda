@@ -1,0 +1,27 @@
+{
+  "id": "youtube-c40e2d61",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "LGTWINSTV",
+  "url": "https://www.youtube.com/watch?v=yZixbe5ZrMc",
+  "title": "낭만을 던지겠습니다! 낭만투수와 함께하는 낭만 시구&시타⚾️ [비하인둥 19화]",
+  "published_at": "2026-10-15T08:30:18Z",
+  "collected_at": "2026-10-16T15:24:00.965Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 98545,
+    "likes": 1888,
+    "comments": 156
+  },
+  "scores": {
+    "hot": 71,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

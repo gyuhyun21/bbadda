@@ -1,0 +1,28 @@
+{
+  "id": "youtube-4c945051",
+  "issue": "2026-W43",
+  "module": "league",
+  "teams": [
+    "lg",
+    "doosan"
+  ],
+  "team": "lg",
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=Npgp0sHcFfM",
+  "title": "포스트시즌에서도 정상 영업 중인 도미노피자 담장 앞 호수비! LG 박해민의 놀라운 슈퍼캐치! | WC1_두산 vs LG | 10.14 | 크보모먼트 | KBO 야구 하이라이트",
+  "published_at": "2026-10-14T12:06:34Z",
+  "collected_at": "2026-10-16T15:24:00.965Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 147319,
+    "likes": 1140,
+    "comments": 264
+  },
+  "scores": {
+    "hot": 64,
+    "relevance": 80
+  },
+  "sentiment": "neutral"
+}

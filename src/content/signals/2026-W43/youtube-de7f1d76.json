@@ -1,0 +1,27 @@
+{
+  "id": "youtube-de7f1d76",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "SSG랜더스",
+  "url": "https://www.youtube.com/watch?v=-MxNaCvYfw4",
+  "title": "👤: 야 커브 좋다~!! 광현 팀 투수들 출격 완료!",
+  "published_at": "2026-10-15T12:42:48Z",
+  "collected_at": "2026-10-16T15:24:00.965Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 132173,
+    "likes": 3007,
+    "comments": 196
+  },
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

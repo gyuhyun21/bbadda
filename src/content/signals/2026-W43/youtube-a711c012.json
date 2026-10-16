@@ -1,0 +1,27 @@
+{
+  "id": "youtube-a711c012",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "LGTWINSTV",
+  "url": "https://www.youtube.com/watch?v=YAwxbT1KnNw",
+  "title": "더 높은 곳을 향하여, 2026 와일드카드 1차전 승리의 퇴근길 [엘코더]",
+  "published_at": "2026-10-15T01:00:15Z",
+  "collected_at": "2026-10-16T15:24:00.965Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 187433,
+    "likes": 3175,
+    "comments": 293
+  },
+  "scores": {
+    "hot": 72,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

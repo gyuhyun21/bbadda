@@ -1,0 +1,24 @@
+{
+  "id": "youtube-ca67bb62",
+  "issue": "2026-W43",
+  "module": "league",
+  "teams": [],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=5CgmHV8nZiY",
+  "title": "압박감을 이겨낸 이우찬의 결정적인 연속 탈삼진‼️",
+  "published_at": "2026-10-14T12:47:33Z",
+  "collected_at": "2026-10-16T15:24:00.965Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 28138,
+    "likes": 548,
+    "comments": 40
+  },
+  "scores": {
+    "hot": 65,
+    "relevance": 30
+  },
+  "sentiment": "neutral"
+}

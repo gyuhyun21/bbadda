@@ -1,0 +1,23 @@
+{
+  "id": "news-e6369d0f",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5Cb24zZkNPR0tYSXRSd3pSbzl0aWREeHBBaXRiajJnZ3VObDVoUTdzeUJHWEJobEVleDVRemVCdTRZM09ERmJKSDI5WUJqUUVZdEtPbmUwQjRjMHhsNEllX2hOUUNsMVlXN2RNOXFmVdIBb0FVX3lxTE5Cb24zZkNPR0tYSXRSd3pSbzl0aWREeHBBaXRiajJnZ3VObDVoUTdzeUJHWEJobEVleDVRemVCdTRZM09ERmJKSDI5WUJqUUVZdEtPbmUwQjRjMHhsNEllX2hOUUNsMVlXN2RNOXFmVQ?oc=5",
+  "title": "국민감독 잠실 고별 '명연설', 25년 전 '미러클' 추억을 소환하다",
+  "published_at": "2026-10-14T00:41:57.000Z",
+  "collected_at": "2026-10-16T15:24:00.965Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 46,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

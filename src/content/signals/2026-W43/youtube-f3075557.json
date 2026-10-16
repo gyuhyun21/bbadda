@@ -1,0 +1,27 @@
+{
+  "id": "youtube-f3075557",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "NC 다이노스",
+  "url": "https://www.youtube.com/watch?v=Ws0BdZft01c",
+  "title": "가을의 엔팍을 찾아온 특별한 손님들ㅣ10월 시구 비하인드✨",
+  "published_at": "2026-10-14T04:00:02Z",
+  "collected_at": "2026-10-16T15:24:00.965Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 50495,
+    "likes": 845,
+    "comments": 147
+  },
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

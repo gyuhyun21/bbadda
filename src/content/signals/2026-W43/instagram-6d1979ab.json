@@ -1,0 +1,26 @@
+{
+  "id": "instagram-6d1979ab",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "instagram",
+  "official": true,
+  "source_name": "Instagram @busanlottegiants",
+  "url": "https://www.instagram.com/reel/DeZWcYNz1yF/",
+  "title": "롯데 자이언츠 공식 인스타그램: 승리의 하이파이브✋",
+  "published_at": "2026-10-12T13:34:38+0000",
+  "collected_at": "2026-10-16T15:24:00.965Z",
+  "summary_ko": "",
+  "metrics": {
+    "likes": 19146,
+    "comments": 260
+  },
+  "scores": {
+    "hot": 33,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

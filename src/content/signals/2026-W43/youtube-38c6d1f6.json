@@ -1,0 +1,27 @@
+{
+  "id": "youtube-38c6d1f6",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "SSG랜더스",
+  "url": "https://www.youtube.com/watch?v=sxYsXBrhzJo",
+  "title": "📣 최광야구 1429에서만 만날 수 있는 특별한 응원가!",
+  "published_at": "2026-10-16T13:00:34Z",
+  "collected_at": "2026-10-16T15:24:00.965Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 9182,
+    "likes": 1105,
+    "comments": 62
+  },
+  "scores": {
+    "hot": 83,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "youtube-0a2177ca",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "SSG랜더스",
+  "url": "https://www.youtube.com/watch?v=UH_RAsb8qCY",
+  "title": "평자 16도 품어주는 믿음의 야구😎 | 최광야구 1429 스카우트 리포팅",
+  "published_at": "2026-10-16T09:06:51Z",
+  "collected_at": "2026-10-16T15:24:00.965Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 68013,
+    "likes": 1869,
+    "comments": 293
+  },
+  "scores": {
+    "hot": 78,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

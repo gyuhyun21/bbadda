@@ -1,0 +1,24 @@
+{
+  "id": "news-77c03bbc",
+  "issue": "2026-W43",
+  "module": "rivalry",
+  "team": "lg",
+  "teams": [
+    "lg",
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "연합뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBxY1B0YThLZkNvSm1BVms4R2lfc1k0YWJDdDZKOW5POUIxd3JpM0lSd3Jsa2twN3ZISGFCVFhFVF8xT2pBNWp0cFV4QmY1cmtBZWd4cFRONWNBZmtiNnViX9IBYEFVX3lxTFBxY1B0YThLZkNvSm1BVms4R2lfc1k0YWJDdDZKOW5POUIxd3JpM0lSd3Jsa2twN3ZISGFCVFhFVF8xT2pBNWp0cFV4QmY1cmtBZWd4cFRONWNBZmtiNnViXw?oc=5",
+  "title": "신민재의 번트",
+  "published_at": "2026-10-14T12:43:16.000Z",
+  "collected_at": "2026-10-16T15:24:00.965Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 58,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

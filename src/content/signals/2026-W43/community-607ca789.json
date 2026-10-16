@@ -1,0 +1,22 @@
+{
+  "id": "community-607ca789",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 하루한끗",
+  "url": "https://blog.naver.com/sicheol130/224444028305",
+  "title": "김태형과 재계약 대신 다카쓰 신고라고? 롯데 차기 감독설에 일본시리즈 우승 경력이 변수",
+  "published_at": "2026-10-16T21:30:00.000+09:00",
+  "collected_at": "2026-10-16T15:24:00.965Z",
+  "summary_ko": "한 블로그 글은 롯데 차기 감독으로 일본시리즈 우승 경력의 다카쓰 신고가 거론된다는 소문을 다뤘다. 구단 발표가 아닌 추측성 내용이다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "youtube-7bb6e6f6",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "NC 다이노스",
+  "url": "https://www.youtube.com/watch?v=DwQrEfsRYrU",
+  "title": "한 계절의 추억을 엔팍에 남기며  | 2026 홈 최종전 비하인드",
+  "published_at": "2026-10-16T09:00:15Z",
+  "collected_at": "2026-10-16T15:24:00.965Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 13379,
+    "likes": 464,
+    "comments": 75
+  },
+  "scores": {
+    "hot": 77,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

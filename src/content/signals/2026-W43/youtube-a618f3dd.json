@@ -1,0 +1,27 @@
+{
+  "id": "youtube-a618f3dd",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "LGTWINSTV",
+  "url": "https://www.youtube.com/watch?v=v3REmSkbi4k",
+  "title": "[10.14 WC 1차전] 오늘의 승부처, 트중박의 슈퍼캐치💫",
+  "published_at": "2026-10-14T14:43:25Z",
+  "collected_at": "2026-10-16T15:24:00.965Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 75742,
+    "likes": 2235,
+    "comments": 102
+  },
+  "scores": {
+    "hot": 78,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "news-9f59310d",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "Tbc.co.kr",
+  "url": "https://www.tbc.co.kr/news/view?pno=20261015163215AE06934&id=212189&c1=code&c2=",
+  "title": "\"돌아오라, 구자욱!\"...타격 훈련 재개",
+  "published_at": "2026-10-15T12:06:53.000Z",
+  "collected_at": "2026-10-16T15:24:00.965Z",
+  "summary_ko": "삼성 구자욱이 타격 훈련을 재개했다고 Tbc가 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 58,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "image": "https://www.tbc.co.kr/uploads/news/2026/10/9b9ed70d881cee7771d85390a848d03e.png"
+}

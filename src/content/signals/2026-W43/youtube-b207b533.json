@@ -1,0 +1,28 @@
+{
+  "id": "youtube-b207b533",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "doosan",
+    "lg"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "LGTWINSTV",
+  "url": "https://www.youtube.com/watch?v=KowJYZH5Ldw",
+  "title": "[2026 KBO 와일드카드 결정전 H/L] 두산 vs LG (10.14)",
+  "published_at": "2026-10-14T13:52:40Z",
+  "collected_at": "2026-10-16T15:24:00.965Z",
+  "summary_ko": "LG 트윈스 공식 채널이 두산과의 2026 와일드카드 결정전(10월 14일) 하이라이트를 올렸다.",
+  "metrics": {
+    "views": 260096,
+    "likes": 2327,
+    "comments": 415
+  },
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

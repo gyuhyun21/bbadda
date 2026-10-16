@@ -1,0 +1,28 @@
+{
+  "id": "youtube-4b8b03c7",
+  "issue": "2026-W43",
+  "module": "league",
+  "teams": [
+    "lg",
+    "doosan"
+  ],
+  "team": "lg",
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=GlxJGLGesNQ",
+  "title": "관록의 투구를 보여준 견고한 수문장 LG 카라스코의 완벽한 피칭! | WC1_두산 vs LG | 10.14 | 크보모먼트 | KBO 야구 하이라이트",
+  "published_at": "2026-10-14T11:56:23Z",
+  "collected_at": "2026-10-16T15:24:00.965Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 38983,
+    "likes": 276,
+    "comments": 48
+  },
+  "scores": {
+    "hot": 57,
+    "relevance": 80
+  },
+  "sentiment": "neutral"
+}

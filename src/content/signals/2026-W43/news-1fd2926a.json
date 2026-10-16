@@ -1,0 +1,23 @@
+{
+  "id": "news-1fd2926a",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1iRzdPTVZmN0xjaHBTQXZtaUdjUEcwWkxjOXM4VEVZemFId3JXVml3ZW9CMkM3OFgzWFR2MVVXOTg1YW8yTkRyV24tQ0ZKbk45bm9PQVF6eWExaFE0d05LUmJ2X3VVQVRrRm9sbmVjQdIBb0FVX3lxTE1iRzdPTVZmN0xjaHBTQXZtaUdjUEcwWkxjOXM4VEVZemFId3JXVml3ZW9CMkM3OFgzWFR2MVVXOTg1YW8yTkRyV24tQ0ZKbk45bm9PQVF6eWExaFE0d05LUmJ2X3VVQVRrRm9sbmVjQQ?oc=5",
+  "title": "“거둔 성적에 비해 너무 큰 사랑 받았다” 80억 FA 내야수, 팬들에게 전한 진심 “덕분에 행복했다”",
+  "published_at": "2026-10-15T22:40:00.000Z",
+  "collected_at": "2026-10-16T15:24:00.965Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 62,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

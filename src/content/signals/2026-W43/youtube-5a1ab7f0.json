@@ -1,0 +1,27 @@
+{
+  "id": "youtube-5a1ab7f0",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "기아타이거즈 KIA TIGERS",
+  "url": "https://www.youtube.com/watch?v=_muWreRr1t0",
+  "title": "무조건 응원!!!🔥 응원가 안무 복습합시다 (최신 업데이트)",
+  "published_at": "2026-10-16T10:00:45Z",
+  "collected_at": "2026-10-16T15:24:00.965Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 105972,
+    "likes": 3381,
+    "comments": 264
+  },
+  "scores": {
+    "hot": 82,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

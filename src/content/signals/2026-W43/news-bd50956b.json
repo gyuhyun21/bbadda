@@ -1,0 +1,24 @@
+{
+  "id": "news-bd50956b",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스타뉴스",
+  "url": "https://www.starnewskorea.com/sports/2026/10/12/2026101214535823201",
+  "title": "'3년 24억→가을야구 X' 김태형, 최종전 앞둔 소회 \"3년 안에 성적 못 냈으면 감독 책임\"",
+  "published_at": "2026-10-12T08:30:57.000Z",
+  "collected_at": "2026-10-16T15:24:00.965Z",
+  "summary_ko": "김태형 롯데 감독은 최종전을 앞두고 3년 안에 성적을 못 냈으면 감독 책임이라고 밝혔다.",
+  "metrics": {},
+  "scores": {
+    "hot": 31,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "image": "https://image.starnewskorea.com/21/2026/10/2026101214535823201_2.jpg"
+}

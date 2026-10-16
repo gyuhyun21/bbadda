@@ -1,0 +1,23 @@
+{
+  "id": "news-175b4a71",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "뉴시스",
+  "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261016_0003829414",
+  "title": "이범호 \"네일 6이닝 이상 기대\"…나성범·김도영 \"LG 잡고 PO 간다\"",
+  "published_at": "2026-10-16T07:32:06.000Z",
+  "collected_at": "2026-10-16T15:24:00.965Z",
+  "summary_ko": "이범호 KIA 감독은 준플레이오프를 앞두고 네일에게 6이닝 이상을 기대한다고 밝혔다. 나성범과 김도영은 LG를 잡고 플레이오프에 가겠다고 말한 것으로 전해졌다.",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 80
+  },
+  "sentiment": "neutral",
+  "image": "https://img1.newsis.com/2026/10/16/NISI20261016_0021491844_web.jpg"
+}

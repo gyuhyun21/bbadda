@@ -1,0 +1,27 @@
+{
+  "id": "youtube-92cd35b3",
+  "issue": "2026-W43",
+  "module": "league",
+  "teams": [
+    "lg"
+  ],
+  "team": "lg",
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=BqVs5kgiZGA",
+  "title": "2026 울산-KBO Fall League LIVE | LG트윈스 vs 울산웨일즈",
+  "published_at": "2026-10-15T16:11:27Z",
+  "collected_at": "2026-10-16T15:24:00.965Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 104084,
+    "likes": 231,
+    "comments": 6
+  },
+  "scores": {
+    "hot": 56,
+    "relevance": 80
+  },
+  "sentiment": "neutral"
+}

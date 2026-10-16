@@ -1,0 +1,23 @@
+{
+  "id": "community-4fda33c1",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "lg"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 오늘과내일",
+  "url": "https://thisdaylog.com/2028",
+  "title": "2026 가을야구 일정 총정리｜KIA·LG 준플레이오프 대진표부터 한국시리즈·예매 방법까지",
+  "published_at": "2026-10-16T20:53:52.000+09:00",
+  "collected_at": "2026-10-16T15:24:00.965Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

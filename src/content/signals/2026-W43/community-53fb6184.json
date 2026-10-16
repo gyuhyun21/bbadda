@@ -1,0 +1,22 @@
+{
+  "id": "community-53fb6184",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 밥먹고 야구만 보는 밥야구",
+  "url": "https://blog.naver.com/babbaseball/224443144893",
+  "title": "“1안타, 볼넷은 4개” 롯데 김한결, 내년 선발로 믿어도 될까?",
+  "published_at": "2026-10-16T23:00:00.000+09:00",
+  "collected_at": "2026-10-16T15:24:00.965Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

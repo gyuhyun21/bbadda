@@ -1,0 +1,24 @@
+{
+  "id": "news-8bbc7036",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://www.sportschosun.com/baseball/2026-10-16/202610160100104010006724",
+  "title": "'도대체 얼마길래' 왜 아빌라 계약규모 추후 공개인가…\"한국에 남고 싶다\" 이토록 진심일수가",
+  "published_at": "2026-10-16T05:03:36.000Z",
+  "collected_at": "2026-10-16T15:24:00.965Z",
+  "summary_ko": "스포츠조선은 SSG가 아빌라의 계약 규모를 추후 공개하기로 한 배경을 다뤘다. 아빌라는 한국에 남고 싶다고 밝혔다.",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "image": "https://www.sportschosun.com/article/html/2026/10/16/2026101601001040100067241_w.jpg"
+}

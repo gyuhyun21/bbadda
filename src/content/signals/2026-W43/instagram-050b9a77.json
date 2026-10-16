@@ -1,0 +1,26 @@
+{
+  "id": "instagram-050b9a77",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "instagram",
+  "official": true,
+  "source_name": "Instagram @ktwiz.pr",
+  "url": "https://www.instagram.com/p/DeZW30eI_eg/",
+  "title": "KT 위즈 공식 인스타그램: kt wiz 팀 창단 첫 정규시즌 90승, 10연승",
+  "published_at": "2026-10-12T13:37:49+0000",
+  "collected_at": "2026-10-16T15:24:00.965Z",
+  "summary_ko": "KT 위즈가 창단 첫 정규시즌 90승과 10연승을 달성했다고 공식 인스타그램으로 알렸다.",
+  "metrics": {
+    "likes": 10886,
+    "comments": 188
+  },
+  "scores": {
+    "hot": 33,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

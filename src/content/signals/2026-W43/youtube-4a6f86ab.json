@@ -1,0 +1,27 @@
+{
+  "id": "youtube-4a6f86ab",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "NC 다이노스",
+  "url": "https://www.youtube.com/watch?v=1CBAerSRQtk",
+  "title": "일본에서 돌아온 공룡들의 이야기 🦖ㅣ 소프트뱅크 교류전",
+  "published_at": "2026-10-15T02:00:01Z",
+  "collected_at": "2026-10-16T15:24:00.965Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 9144,
+    "likes": 199,
+    "comments": 15
+  },
+  "scores": {
+    "hot": 62,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

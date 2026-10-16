@@ -1,0 +1,24 @@
+{
+  "id": "news-3598d338",
+  "issue": "2026-W43",
+  "module": "rivalry",
+  "team": "lg",
+  "teams": [
+    "lg",
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "연합뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9nbGFsNlF0WThVQjIyUVhsek9xVTMyUTY0N0pIYmc3RFV0RFA2RUcwS05pa0s3N1BrZGc3V2IxS01VNktnbllUTDJNN0swZlZVbTRReS13Y2ROWFpLUTF2eNIBYEFVX3lxTE9nbGFsNlF0WThVQjIyUVhsek9xVTMyUTY0N0pIYmc3RFV0RFA2RUcwS05pa0s3N1BrZGc3V2IxS01VNktnbllUTDJNN0swZlZVbTRReS13Y2ROWFpLUTF2eA?oc=5",
+  "title": "'가을침묵' 씻은 오스틴, 가을야구서 깨어났다…WC 결승포",
+  "published_at": "2026-10-14T13:27:41.000Z",
+  "collected_at": "2026-10-16T15:24:00.965Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 58,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

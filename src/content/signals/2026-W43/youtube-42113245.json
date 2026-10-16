@@ -1,0 +1,28 @@
+{
+  "id": "youtube-42113245",
+  "issue": "2026-W43",
+  "module": "league",
+  "teams": [
+    "doosan",
+    "lg"
+  ],
+  "team": "doosan",
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=bJHgSwSaDc8",
+  "title": "[두산베어스 vs LG트윈스] 10.14(수) WC 1차전 하이라이트｜2026 신한 SOL KBO 포스트시즌｜와일드카드 결정전 1차전｜KBO X TVING",
+  "published_at": "2026-10-14T14:08:13Z",
+  "collected_at": "2026-10-16T15:24:00.965Z",
+  "summary_ko": "KBO 공식 채널이 두산과 LG의 와일드카드 결정전 1차전(10월 14일) 하이라이트를 올렸다.",
+  "metrics": {
+    "views": 239484,
+    "likes": 848,
+    "comments": 271
+  },
+  "scores": {
+    "hot": 62,
+    "relevance": 80
+  },
+  "sentiment": "neutral"
+}
