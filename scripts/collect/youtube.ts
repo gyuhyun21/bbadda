@@ -45,7 +45,7 @@ export async function collectYouTube(ctx: Ctx, override?: Record<string, any>): 
     return JSON.parse(await ctx.fetchText(`${API}/${path}?${new URLSearchParams(key && !proxy ? { ...params, key } : params)}`));
   };
   const teams = loadTeams();
-  const meta = new Map<string, { via: RawItem['via']; team_hint?: string }>();
+  const meta = new Map<string, { via: RawItem['via']; team_hint?: string; query_team?: string }>();
 
   // 1) 공식 채널(구단·KBO) 최근 업로드
   const channels = [...teams.teams.map((t) => ({ hint: t.id, url: t.youtube })), { hint: 'kbo', url: teams.league.youtube }].filter((c) => c.url);
@@ -70,7 +70,7 @@ export async function collectYouTube(ctx: Ctx, override?: Record<string, any>): 
       try {
         const data = await get('search', { part: 'snippet', type: 'video', q: t.name, order: 'date', publishedAfter: after, relevanceLanguage: 'ko', regionCode: 'KR', maxResults: String(cfg.max_results_per_query ?? 10), ...(ctx.realNow && ctx.realNow > ctx.now ? { publishedBefore: ctx.now.toISOString() } : {}) }, COST.search);
         res.searches++;
-        for (const it of data.items ?? []) if (it.id?.videoId && !meta.has(it.id.videoId)) meta.set(it.id.videoId, { via: 'fans' });
+        for (const it of data.items ?? []) if (it.id?.videoId && !meta.has(it.id.videoId)) meta.set(it.id.videoId, { via: 'fans', query_team: t.id });
       } catch (e) { res.failures.push(`search ${t.name}: ${(e as Error).message}`); }
     }
   }
@@ -84,7 +84,7 @@ export async function collectYouTube(ctx: Ctx, override?: Record<string, any>): 
         const m = meta.get(v.id)!;
         // 공식 채널 영상은 그대로 두고, 검색으로 들어온 영상만 제목 패턴으로 거른다
         if (!m.team_hint && skip.some((re) => re.test(v.snippet.title))) { res.filtered_by_title = (res.filtered_by_title ?? 0) + 1; continue; }
-        res.items.push(videoToItem(v, m.via, m.team_hint));
+        res.items.push({ ...videoToItem(v, m.via, m.team_hint), ...(m.query_team ? { query_teams: [m.query_team] } : {}) });
       }
     } catch (e) { res.failures.push(`videos: ${(e as Error).message}`); }
   }

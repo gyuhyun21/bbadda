@@ -35,7 +35,7 @@ export async function collectKakao(ctx: Ctx, override?: Record<string, any>) {
           for (const d of docs) {
             if (!d.url || !d.title || !d.datetime || seen.has(d.url)) continue;
             seen.add(d.url);
-            const it = docToItem(d, target);
+            const it = { ...docToItem(d, target), query_teams: [t.id] };
             if (ads.some((r) => r.test(it.title))) { out.filtered_ads++; continue; }
             out.items.push(it);
           }
