@@ -101,3 +101,8 @@
 .layout-soft .rail-thumb-cover { position: absolute; inset: 0; display: grid; align-content: center; justify-items: center; gap: 6px; color: #fff; background: linear-gradient(135deg, rgba(255,255,255,0.12), rgba(0,0,0,0.18)); }
 .layout-soft .rail-list .rail-thumb-cover .rail-thumb-mark { font: 800 26px/1 var(--font); letter-spacing: -0.03em; color: #fff; }
 .layout-soft .rail-list .rail-thumb-cover .rail-thumb-src { font: 600 12px/1 var(--font); color: rgba(255, 255, 255, 0.85); }
+
+/* 구단 태그: 출처·날짜 뒤에 납작한 팀 컬러 사각형 + 흰 팀 이름 */
+.layout-soft .rail-list .rail-meta { display: inline-flex; flex-wrap: wrap; align-items: center; gap: 4px 6px; }
+.layout-soft .rail-list .rail-meta .team-tag { display: inline-block; font: 700 11px/1 var(--font); color: #fff; background: var(--team, #1D1D1F); padding: 4px 6px; border-radius: 3px; letter-spacing: 0; }
+.layout-soft .rail-list .rail-meta .team-tag:first-of-type { margin-left: 4px; }

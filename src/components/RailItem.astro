@@ -9,7 +9,8 @@ interface Props { signal: Signal; showTeams?: boolean }
 const { signal: s, showTeams = true } = Astro.props;
 const yt = s.source_type === 'youtube' ? youtubeId(s.url) : undefined;
 const thumb = yt ? `https://i.ytimg.com/vi/${yt}/mqdefault.jpg` : newsImages() ? s.image : undefined;
-const teams = showTeams ? s.teams.slice(0, 2).map((id) => teamById.get(id)?.short).filter(Boolean).join('·') : '';
+// 구단은 줄 끝의 팀 컬러 사각 태그로(출처·날짜 뒤)
+const tags = showTeams ? s.teams.slice(0, 2).map((id) => teamById.get(id)).filter((t) => t !== undefined) : [];
 const team = s.team ? teamById.get(s.team) : undefined;
 ---
 <li data-teams={s.teams.join(' ')}>
@@ -23,6 +24,6 @@ const team = s.team ? teamById.get(s.team) : undefined;
   <div>
     <a href={s.url} target="_blank" rel="noopener noreferrer">{displayTitle(s)}</a>
     <p>{s.summary_ko}</p>
-    <span>{teams ? `${teams} · ` : ''}{s.official ? '오피셜 · ' : ''}{s.source_name} · {fmtDate(s.published_at)}</span>
+    <span class="rail-meta">{s.official ? '오피셜 · ' : ''}{s.source_name} · {fmtDate(s.published_at)}{tags.map((t) => <span class="team-tag" style={`--team:${teamColor(t.id)}`}>{t.short}</span>)}</span>
   </div>
 </li>
