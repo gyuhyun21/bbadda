@@ -1,0 +1,68 @@
+/* BBADDA — 'soft' 레이아웃 (2026-10-17). apple 위에 덧입힌다.
+   뉴모피즘은 '누르는 요소'에만: 구단 배지, 내 팀 버튼, 팀 선택 칩, 날짜 칩, 모달 닫기(볼록) / 검색창(오목) / 선택된 것(눌림).
+   기사 카드·본문은 읽기가 먼저라 납작하고 대비가 분명하게 둔다. 글자는 늘 진하게(뉴모피즘의 약한 대비를 글자에는 쓰지 않는다).
+   모든 규칙은 .layout-soft 아래 — config/site.yaml layout 을 apple 로 바꾸면 영향이 없다. */
+
+/* 구단 레일은 soft 에서만, 10개 타일은 soft 에서 숨김 */
+.team-rail-block { display: none; }
+.layout-soft .team-rail-block { display: block; }
+.layout-soft .front-teams { display: none; }
+
+.layout-soft {
+  --soft-bg: #ECEFF4;
+  --soft-hi: #FFFFFF;
+  --soft-lo: rgba(166, 178, 196, 0.6);
+  --raise: 6px 6px 14px var(--soft-lo), -6px -6px 14px var(--soft-hi);
+  --raise-sm: 3px 3px 8px var(--soft-lo), -3px -3px 8px var(--soft-hi);
+  --press: inset 4px 4px 9px var(--soft-lo), inset -4px -4px 9px var(--soft-hi);
+  --panel: #E4E8EE;
+}
+.layout-soft body { background: var(--soft-bg); }
+.layout-soft .site-header { background: var(--soft-bg); border-bottom: 0; box-shadow: 0 1px 0 rgba(255, 255, 255, 0.8), 0 2px 10px rgba(166, 178, 196, 0.25); }
+.layout-soft .site-footer { background: var(--soft-bg); }
+/* 읽는 판(카드·목록)은 흰 판 + 아주 옅은 그림자 */
+.layout-soft .card, .layout-soft .more-list, .layout-soft .team-section, .layout-soft .headline-lead .card { background: #fff; box-shadow: 0 1px 2px rgba(30, 40, 60, 0.06), 0 6px 20px rgba(166, 178, 196, 0.25); }
+.layout-soft .card:hover { box-shadow: 0 1px 2px rgba(30, 40, 60, 0.08), 0 10px 28px rgba(166, 178, 196, 0.4); }
+.layout-soft .front-league, .layout-soft .block:has(#h-cover) { background: transparent; box-shadow: none; clip-path: none; }
+
+/* 오목: 검색창 */
+.layout-soft .header-search input { background: var(--soft-bg); box-shadow: var(--press); }
+.layout-soft .header-search input:focus { background: #fff; box-shadow: var(--press), 0 0 0 3px rgba(40, 70, 200, 0.25); }
+@media (max-width: 719px) { .layout-soft .header-search-mobile { background: var(--soft-bg); box-shadow: var(--raise-sm); } }
+
+/* 볼록 → 눌림: 내 팀 버튼, 팀 선택 칩, 날짜 칩 */
+.layout-soft .myteam-btn, .layout-soft .team-chip--btn, .layout-soft .day-chips a, .layout-soft .team-picker-chips .team-chip--btn { background: var(--soft-bg); box-shadow: var(--raise-sm); transition: box-shadow 0.15s ease; }
+.layout-soft .myteam-btn:hover, .layout-soft .team-chip--btn:hover, .layout-soft .day-chips a:hover { box-shadow: var(--raise); }
+.layout-soft .myteam-btn[aria-expanded="true"], .layout-soft .team-chip--btn[aria-pressed="true"], .layout-soft .team-picker-chips .team-chip--btn[aria-pressed="true"] { background: var(--soft-bg); color: var(--ink); box-shadow: var(--press); }
+.layout-soft .myteam-panel { background: var(--soft-bg); border: 0; box-shadow: var(--raise); }
+
+/* ── 구단 레일 ── */
+.layout-soft .team-rail { display: grid; grid-auto-flow: column; grid-auto-columns: minmax(96px, 1fr); gap: 14px; overflow-x: auto; padding: 10px 10px 18px; margin: 0 -10px; scrollbar-width: none; }
+.layout-soft .team-rail::-webkit-scrollbar { display: none; }
+.layout-soft .team-badge { font: inherit; color: var(--ink); background: var(--soft-bg); border: 0; border-radius: 22px; padding: 14px 8px 12px; display: grid; justify-items: center; gap: 6px; cursor: pointer; box-shadow: var(--raise); transition: box-shadow 0.15s ease, transform 0.15s ease; }
+.layout-soft .team-badge:hover { transform: translateY(-1px); }
+.layout-soft .team-badge[aria-selected="true"] { box-shadow: var(--press); transform: none; }
+.layout-soft .team-badge:focus-visible { outline: 3px solid var(--accent); outline-offset: 3px; }
+/* 이니셜 배지: 팀 컬러 원 + 흰 글자(로고 대신) */
+.layout-soft .team-badge-mark { width: 52px; height: 52px; border-radius: 50%; display: grid; place-items: center; background: var(--team, #8E8E93); color: #fff; font: 800 15px/1 var(--font); letter-spacing: -0.03em; box-shadow: inset 0 -2px 0 rgba(0, 0, 0, 0.15); }
+.layout-soft .team-badge-name { font: 600 13px/1.2 var(--font); white-space: nowrap; }
+.layout-soft .team-badge-count { font: 400 12px/1.2 var(--font); color: var(--muted); }
+.layout-soft .team-badge[aria-selected="true"] .team-badge-count { color: var(--ink); font-weight: 600; }
+@media (min-width: 1100px) { .layout-soft .team-rail { overflow: visible; grid-template-columns: repeat(10, 1fr); grid-auto-flow: row; } }
+
+.layout-soft .team-rail-panel { margin-top: 8px; background: #fff; border-radius: 22px; padding: 8px 24px 20px; box-shadow: 0 1px 2px rgba(30, 40, 60, 0.06), 0 6px 20px rgba(166, 178, 196, 0.25); }
+.layout-soft .rail-list { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: 1fr; }
+@media (min-width: 900px) { .layout-soft .rail-list { grid-template-columns: repeat(3, 1fr); gap: 0 28px; } }
+.layout-soft .rail-list li { display: grid; gap: 10px; padding: 16px 0; border-bottom: 1px solid var(--hair); align-content: start; }
+@media (min-width: 900px) { .layout-soft .rail-list li { border-bottom: 0; } }
+.layout-soft .rail-list img { width: 100%; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 12px; background: var(--panel); }
+.layout-soft .rail-list a { font: var(--t-headline); color: var(--ink); text-decoration: none; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+.layout-soft .rail-list a:hover { color: var(--accent); }
+.layout-soft .rail-list p { margin: 4px 0 0; font: var(--t-foot); color: #424245; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+.layout-soft .rail-list span { font: var(--t-foot); color: var(--muted); }
+.layout-soft .rail-more { display: inline-block; margin-top: 8px; font: 600 15px/1 var(--font); color: var(--accent); text-decoration: none; padding: 12px 18px; border-radius: 999px; background: var(--soft-bg); box-shadow: var(--raise-sm); }
+.layout-soft .rail-more:hover { box-shadow: var(--raise); }
+
+/* 모달 닫기 버튼도 볼록 */
+.layout-soft .article-modal .am-close { background: var(--soft-bg); box-shadow: var(--raise-sm); }
+.layout-soft .article-modal .am-bar { background: var(--soft-bg); }

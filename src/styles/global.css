@@ -397,3 +397,35 @@ html:not([data-my-team]) .myteam-btn .team-dot { display: none; }
 .day-chips { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: 10px; }
 .day-chips a { display: grid; gap: 2px; padding: 12px 16px; border: 1px solid var(--line); border-radius: 12px; text-decoration: none; min-width: 120px; }
 .day-chips a:hover { border-color: var(--ink); }
+
+/* ── 기사 모달 브라우저 (config/site.yaml article_modal) ── */
+.article-modal { padding: 0; border: 0; width: min(1100px, 94vw); height: min(88vh, 1000px); max-width: none; max-height: none; border-radius: 20px; overflow: hidden; background: #fff; box-shadow: 0 30px 80px rgba(0, 0, 0, 0.35); }
+.article-modal[open] { display: grid; grid-template-rows: auto 1fr; }
+/* 원문이 뜨기 전(몇 초)에는 흰 화면 대신 안내를 보인다 */
+.am-loading { grid-row: 2; grid-column: 1; align-self: center; justify-self: center; margin: 0; color: var(--muted); font-size: 15px; display: none; }
+.article-modal.is-loading .am-loading { display: block; }
+.am-frame, .am-fallback { grid-row: 2; grid-column: 1; }
+.article-modal.is-loading .am-frame { opacity: 0; }
+.article-modal::backdrop { background: rgba(20, 22, 30, 0.3); -webkit-backdrop-filter: blur(10px) saturate(120%); backdrop-filter: blur(10px) saturate(120%); }
+.am-bar { display: flex; align-items: center; gap: 12px; padding: 10px 12px 10px 18px; border-bottom: 1px solid var(--line); background: #fff; min-width: 0; }
+.am-src { flex: none; font-size: 13px; font-weight: 600; color: var(--muted); }
+.am-title { flex: 1; min-width: 0; font-size: 15px; font-weight: 600; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.am-open { flex: none; font-size: 13px; font-weight: 600; color: var(--accent); text-decoration: none; padding: 8px 10px; }
+.am-open:hover { text-decoration: underline; }
+.am-close { flex: none; width: 40px; height: 40px; border-radius: 50%; border: 0; background: #F2F2F5; font-size: 16px; cursor: pointer; color: var(--ink); }
+.am-close:hover { background: #E6E6EB; }
+.am-frame { width: 100%; height: 100%; border: 0; background: #fff; }
+.am-fallback { display: grid; align-content: center; justify-items: center; gap: 12px; padding: 32px; text-align: center; }
+.am-fallback[hidden] { display: none; }
+.am-fb-title { font-size: 22px; font-weight: 700; max-width: 40ch; margin: 0; }
+.am-fb-note { color: var(--muted); margin: 0; }
+.am-fb-open { font-weight: 600; color: #fff; background: var(--ink); padding: 12px 22px; border-radius: 999px; text-decoration: none; }
+html.modal-open { overflow: hidden; }
+@media (max-width: 719px) {
+  .article-modal { width: 100vw; height: 100dvh; border-radius: 0; }
+  .am-src { display: none; }
+}
+@media (prefers-reduced-motion: no-preference) {
+  .article-modal[open] { animation: am-in 0.18s ease-out; }
+  @keyframes am-in { from { opacity: 0; transform: translateY(8px) scale(0.99); } to { opacity: 1; transform: none; } }
+}

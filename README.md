@@ -22,7 +22,7 @@ Node 22.12+ 필요.
 | `config/teams.yaml` | 10개 구단: id, 이름, 짧은 이름, 연고지, 팀 컬러(TODO), 공식 사이트·YouTube·인스타그램(확인한 것만), 뉴스 검색어, 별칭 |
 | `config/site.yaml` | 화면 스위치: `layout`(magazine/classic), `community_section`, `news_images`(뉴스 사진 원 주소 표시, 환경변수 `SITE_NEWS_IMAGES=on|off` 우선) |
 
-**레이아웃 되돌리기**: `config/site.yaml` 의 `layout` — `apple`(기본, 애플 디자인 지침 적용, `src/styles/apple.css` 의 `.layout-apple` 아래) → `magazine`(이전 화면) → `classic`(단순 지면). 한 줄 바꿔 머지하면 된다. 배포 환경변수 `SITE_LAYOUT` 이 파일 값보다 우선한다. 커뮤니티 섹션은 `community_section`(환경변수 `SITE_COMMUNITY=on|off`). 첫 화면은 `home: front|simple`(환경변수 `SITE_HOME` 우선).
+**레이아웃 되돌리기**: `config/site.yaml` 의 `layout` — `soft`(기본, apple + 누르는 요소에만 뉴모피즘·구단 레일, `src/styles/soft.css`) → `apple`( 애플 디자인 지침 적용, `src/styles/apple.css` 의 `.layout-apple` 아래) → `magazine`(이전 화면) → `classic`(단순 지면). 한 줄 바꿔 머지하면 된다. 기사 모달은 `article_modal: true|false`(환경변수 `SITE_MODAL=on|off` 우선). 배포 환경변수 `SITE_LAYOUT` 이 파일 값보다 우선한다. 커뮤니티 섹션은 `community_section`(환경변수 `SITE_COMMUNITY=on|off`). 첫 화면은 `home: front|simple`(환경변수 `SITE_HOME` 우선).
 
 ## 화면
 

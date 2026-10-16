@@ -91,6 +91,46 @@ const days = daysOf(all).slice(0, 7);
   </ul>
 </section>
 
+<section class="block team-rail-block" aria-labelledby="h-team-rail">
+  {/* 구단 레일(layout: soft) — 이니셜 배지 10개, 누르면 그 구단 최근 소식이 아래에 바뀐다. 다른 레이아웃은 위 타일을 쓴다 */}
+  <div class="block-head"><h2 id="h-team-rail">구단별 소식</h2><a href="/teams">모든 구단</a></div>
+  <div class="team-rail" role="tablist" aria-label="구단 선택">
+    {tiles.map(({ t, today }, n) => (
+      <button type="button" role="tab" class="team-badge" id={`rail-tab-${t.id}`} data-rail-team={t.id} aria-controls={`rail-panel-${t.id}`} aria-selected={n === 0 ? 'true' : 'false'} style={`--team:${teamColor(t.id)}`}>
+        <span class="team-badge-mark" aria-hidden="true">{t.short}</span>
+        <span class="team-badge-name">{t.name}</span>
+        <span class="team-badge-count">{today > 0 ? `오늘 ${today}` : '—'}</span>
+      </button>
+    ))}
+  </div>
+  {tiles.map(({ t, top, more }, n) => {
+    const list = [top, ...more].filter((x) => x !== undefined);
+    return (
+      <div class="team-rail-panel" role="tabpanel" id={`rail-panel-${t.id}`} aria-labelledby={`rail-tab-${t.id}`} data-rail-panel={t.id} hidden={n > 0}>
+        {list.length ? (
+          <ul class="rail-list">
+            {list.map((s) => {
+              const yt = s.source_type === 'youtube' ? youtubeId(s.url) : undefined;
+              const thumb = yt ? `https://i.ytimg.com/vi/${yt}/mqdefault.jpg` : newsImages() ? s.image : undefined;
+              return (
+                <li>
+                  {thumb && <img src={thumb} alt="" loading="lazy" referrerpolicy="no-referrer" width="160" height="90" onerror="this.remove()" />}
+                  <div>
+                    <a href={s.url} target="_blank" rel="noopener noreferrer">{displayTitle(s)}</a>
+                    <p>{s.summary_ko}</p>
+                    <span>{s.official ? '오피셜 · ' : ''}{s.source_name} · {fmtDate(s.published_at)}</span>
+                  </div>
+                </li>
+              );
+            })}
+          </ul>
+        ) : <p class="empty-hint">최근 {t.name} 소식이 없습니다.</p>}
+        <a class="rail-more" href={`/teams/${t.id}`}>{t.name} 소식 모두 보기</a>
+      </div>
+    );
+  })}
+</section>
+
 {league.length > 0 && (
   <section class="block front-league" aria-labelledby="h-season">
     <div class="block-head"><h2 id="h-season">{seasonTitle()}</h2><span class="small">리그 전체·라이벌·순위 경쟁</span></div>
@@ -122,3 +162,28 @@ const days = daysOf(all).slice(0, 7);
     </ul>
   </section>
 )}
+
+<script>
+  // 구단 레일: 누르면 그 구단 패널만 보인다. 처음에는 내 팀(있으면)을 고른다. 좌우 화살표로도 이동.
+  const tabs = [...document.querySelectorAll<HTMLButtonElement>('[data-rail-team]')];
+  const select = (id: string, focus = false) => {
+    tabs.forEach((b) => {
+      const on = b.dataset.railTeam === id;
+      b.setAttribute('aria-selected', String(on));
+      b.tabIndex = on ? 0 : -1;
+      if (on && focus) b.focus();
+    });
+    document.querySelectorAll<HTMLElement>('[data-rail-panel]').forEach((p) => (p.hidden = p.dataset.railPanel !== id));
+  };
+  tabs.forEach((b, i) => {
+    b.addEventListener('click', () => select(b.dataset.railTeam!));
+    b.addEventListener('keydown', (e) => {
+      if (e.key !== 'ArrowRight' && e.key !== 'ArrowLeft') return;
+      const next = tabs[(i + (e.key === 'ArrowRight' ? 1 : tabs.length - 1)) % tabs.length];
+      select(next.dataset.railTeam!, true);
+    });
+  });
+  const mine = document.documentElement.dataset.myTeam;
+  if (mine && tabs.some((b) => b.dataset.railTeam === mine)) select(mine);
+  else if (tabs[0]) select(tabs[0].dataset.railTeam!);
+</script>
