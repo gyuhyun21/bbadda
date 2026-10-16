@@ -162,3 +162,12 @@
 /* 목록 행의 꼬리표는 글자 폭만큼(행 폭으로 늘어나지 않게) */
 .layout-apple .more-list li .more-main .chip, .layout-apple .headline-meta .chip { justify-self: start; width: max-content; }
 .layout-apple .official-block .block-head h2::before { content: none; }
+
+/* 헤드라인 대표 기사: 넓은 화면에서 오른쪽 목록보다 글이 짧으면 남는 높이를 사진이 채운다(글 아래 빈칸 없애기, 2026-10-17) */
+@media (min-width: 960px) {
+  .layout-apple .headline-lead .card > .card-visual { flex: 1 1 auto; aspect-ratio: auto; min-height: 300px; }
+  .layout-apple .headline-lead .card > .card-visual > img,
+  .layout-apple .headline-lead .card > .card-visual > svg,
+  .layout-apple .headline-lead .card > .card-visual > .cover-fallback { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; }
+  .layout-apple .headline-lead .card-foot { margin-top: 0; }
+}
