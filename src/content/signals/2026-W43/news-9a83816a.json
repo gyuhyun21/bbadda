@@ -8,7 +8,7 @@
   ],
   "source_type": "news",
   "source_name": "뉴시스",
-  "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9aamZadlJsZzdIY3hhTnZmVHFvSEhsWk9nWVpxTGctcVY4OW5PUjN0UXBiOFVwOFBqQVg5TXFPZkoycTA4NFRrV0Nnd1IzSkV0SzUxd0dyNjhtdXF2SmlUd2JGTVNZYkJPME5GOUdCWmFRM0drWExlWdIBeEFVX3lxTE9aamZadlJsZzdIY3hhTnZmVHFvSEhsWk9nWVpxTGctcVY4OW5PUjN0UXBiOFVwOFBqQVg5TXFPZkoycTA4NFRrV0Nnd1IzSkV0SzUxd0dyNjhtdXF2SmlUd2JGTVNZYkJPME5GOUdCWmFRM0drWExlWQ?oc=5",
+  "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261016_0003828776",
   "title": "롯데, 고승민·전민재 등 8명 미국 야구 아카데미 파견",
   "published_at": "2026-10-16T02:40:49.000Z",
   "collected_at": "2026-10-16T12:55:42.882Z",
@@ -18,5 +18,6 @@
     "hot": 64,
     "relevance": 70
   },
-  "sentiment": "neutral"
+  "sentiment": "neutral",
+  "image": "https://img1.newsis.com/2026/08/21/NISI20260821_0002218414_web.jpg"
 }

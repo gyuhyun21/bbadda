@@ -5,7 +5,7 @@
   "teams": [],
   "source_type": "news",
   "source_name": "주간한국",
-  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5tYkNwa2o5ZFhDLWd4QmVXcDVJR1N1bFdnZ0NMeHZIVXY5QUtNMi1nanlSeWFYTTQtb3NFdTZzLWpzV1FzRmt2VzBmeTJ6NHFVNE00LTlpSUhiVl9ybE52aDRFOXNFMHdDbVc2V3NpU0bSAXRBVV95cUxPT05hWWJjV0hHeHg2bExLX1k0eVV5Sk0yNl9FRDEyNS13VXVGVk5VVVpERHRuWmRnVTJjeFRBZm5DczJBNUh4X2U4dUpzRWpzM2swZUlPbC1weUZfTzFFcTRMRmdSQ3RpdFhBSjdNWmFuTDQycA?oc=5",
+  "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7188948",
   "title": "2026 KBO리그 ‘45홈런’…김도영이 다시 쓴 역사",
   "published_at": "2026-10-16T08:54:22.000Z",
   "collected_at": "2026-10-16T12:55:42.882Z",
@@ -15,5 +15,6 @@
     "hot": 67,
     "relevance": 30
   },
-  "sentiment": "positive"
+  "sentiment": "positive",
+  "image": "https://cdn.weekly.hankooki.com/news/thumbnail/202610/7188948_251015_542_v150.jpg"
 }

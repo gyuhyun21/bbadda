@@ -8,7 +8,7 @@
   ],
   "source_type": "news",
   "source_name": "SPOTV NEWS",
-  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBERzM5RnE3R3dkQkVSenhTMk10OFh3SDF4TW5DS2ZqaW1NQWtOV1JWSTV2RHljWDBQLTBtN2ZSN3FOQ004MF80X3BoNVR3eGhKemhtRGRYWV8wYW5sdWxVcGNhblZIcmRMNHRZWGRfSnY?oc=5",
+  "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1013398",
   "title": "롯데 재계약 불발→美 복귀, KBO 역수출 신화 썼다! 美 언론 호평 \"감보아 B+, ERA 1.91 인상적인 성적\"",
   "published_at": "2026-10-16T01:52:00.000Z",
   "collected_at": "2026-10-16T12:55:42.882Z",
@@ -18,5 +18,6 @@
     "hot": 64,
     "relevance": 80
   },
-  "sentiment": "positive"
+  "sentiment": "positive",
+  "image": "https://7lgigmttrjuyfehsudec15072.edge.naverncp.com/news/photo/202610/1013398_2028727_3845.jpg"
 }

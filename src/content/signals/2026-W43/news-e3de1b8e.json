@@ -8,7 +8,7 @@
   ],
   "source_type": "news",
   "source_name": "경북도민일보",
-  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5DYmlBcjh0MkhUVWFhanJJVU4xX0lSQ0lwSHpNTzBZT0cwMTJyeXUwdEh4cGlSOUg5RzB0UXJLT04ydGpvekZnZ1pXTDE3eWhvMTRTMy1FNHY2UG9icDhqV3lNWmV6OTBySlE?oc=5",
+  "url": "https://www.hidomin.com/news/articleView.html?idxno=725099",
   "title": "삼성라이온즈 '캡틴' 구자욱, 부상 회복세...플레이오프 출전 기대감 UP",
   "published_at": "2026-10-15T09:38:36.000Z",
   "collected_at": "2026-10-16T12:55:42.882Z",
@@ -18,5 +18,6 @@
     "hot": 58,
     "relevance": 70
   },
-  "sentiment": "negative"
+  "sentiment": "negative",
+  "image": "https://cdn.hidomin.com/news/photo/202610/725099_427849_3220.jpg"
 }

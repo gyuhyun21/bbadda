@@ -8,7 +8,7 @@
   ],
   "source_type": "news",
   "source_name": "한국경제",
-  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9MRmp0VUVpN3hqVHpCV1dXWlpfZ3owR0ItYUQ0SnREcHlnYVJsbElHNkx2eFlqMDM5Wlg5a2I1aFJXamswOUNIel9QeEJUMXV0TUJPbUhVZXQ3Zw?oc=5",
+  "url": "https://www.hankyung.com/article/202610166914i",
   "title": "피닉스 선즈도 썼다…한국시리즈 앞둔 KT위즈 ‘PEMF’로 회복관리",
   "published_at": "2026-10-16T07:57:56.000Z",
   "collected_at": "2026-10-16T12:55:42.882Z",
@@ -18,5 +18,6 @@
     "hot": 74,
     "relevance": 70
   },
-  "sentiment": "neutral"
+  "sentiment": "neutral",
+  "image": "https://img.hankyung.com/photo/202610/01.46079101.1.jpg"
 }

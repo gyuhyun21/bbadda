@@ -8,7 +8,7 @@
   ],
   "source_type": "news",
   "source_name": "스포츠동아",
-  "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBwejU5ZGxXSmhwblZ3WlBDMVVCWXF4clZZdC1HR185N3lpNklzbmFrOWVLbENUNjEwOEQ4Mml5VkVXMkVqWE4yVng3UUxBOFFtZnF2UmhQaHBObDNYejdEYmg0ZEF5TUhhcUl1OGdoWUpPZw?oc=5",
+  "url": "https://sports.donga.com/sports/article/all/20261016/134854190/1",
   "title": "SSG ‘최광야구’ 티켓 오픈 당일 매진…결과만큼이나 눈길 사로잡은 팬 중심의 ‘과정’",
   "published_at": "2026-10-16T05:06:33.000Z",
   "collected_at": "2026-10-16T12:55:42.882Z",
@@ -18,5 +18,6 @@
     "hot": 65,
     "relevance": 70
   },
-  "sentiment": "neutral"
+  "sentiment": "neutral",
+  "image": "https://dimg.donga.com/wps/SPORTS/IMAGE/2026/10/16/134854244.1.jpg"
 }

@@ -8,7 +8,7 @@
   ],
   "source_type": "news",
   "source_name": "머니투데이",
-  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4tNDBBdFJPal9TdWtVdi1neWpnZHFyaHZOLXdJOXFZYW1ZSXZ5M1hzd3NwZ2p1TXEwVG51TzdPaUtEa1ZOUElMUmoydlBKLXZYXzJZa290eTY2UkJWMzdIWWdjOVpKUFNTa1BVbkhRWdIBb0FVX3lxTE4tNDBBdFJPal9TdWtVdi1neWpnZHFyaHZOLXdJOXFZYW1ZSXZ5M1hzd3NwZ2p1TXEwVG51TzdPaUtEa1ZOUElMUmoydlBKLXZYXzJZa290eTY2UkJWMzdIWWdjOVpKUFNTa1BVbkhRWQ?oc=5",
+  "url": "https://www.mt.co.kr/amp/sports/2026/10/16/2026101616481338102",
   "title": "'5경기 QS' 고영표·'57안타' 최원준, 정규 1위 이끈 KT 투·타 핵심, 9~10월 쉘힐릭스플레이어 선정",
   "published_at": "2026-10-16T08:13:02.000Z",
   "collected_at": "2026-10-16T12:55:42.882Z",
@@ -18,5 +18,6 @@
     "hot": 66,
     "relevance": 80
   },
-  "sentiment": "positive"
+  "sentiment": "positive",
+  "image": "https://thumb.mt.co.kr/cdn-cgi/image/w=1200,h=1501,fit=cover,bg=white,f=auto,quality=high,sharpen=2,g=face/21/2026/10/2026101616481338102_1.jpg"
 }

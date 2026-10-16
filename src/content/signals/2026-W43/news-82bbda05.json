@@ -8,7 +8,7 @@
   ],
   "source_type": "news",
   "source_name": "스포츠경향",
-  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBmTlVSS0J2aHZ4dm4zZGJVSzNlUUR0WTV6WXJ0QzFMTWRSN3ZyUXRURkEyTGRzM054QUVzMUtDbXFaaVNrOGhBQlo3YllXU3JkUXdpTXhYamtLYXRkZWdRcko2a9IBY0FVX3lxTFBmTlVSS0J2aHZ4dm4zZGJVSzNlUUR0WTV6WXJ0QzFMTWRSN3ZyUXRURkEyTGRzM054QUVzMUtDbXFaaVNrOGhBQlo3YllXU3JkUXdpTXhYamtLYXRkZWdRcko2aw?oc=5",
+  "url": "https://sports.khan.co.kr/article/202610161003003/amp",
   "title": "키움, 데이비슨·히우라 재계약 검토 중···내년에도 ‘2용타’ 가능성↑",
   "published_at": "2026-10-16T01:03:00.000Z",
   "collected_at": "2026-10-16T12:55:42.882Z",
@@ -18,5 +18,6 @@
     "hot": 64,
     "relevance": 70
   },
-  "sentiment": "neutral"
+  "sentiment": "neutral",
+  "image": "https://images.khan.co.kr/article/2026/10/16/news-p.v1.20260802.5af86c75122045f29d6e9d7aaa7797fe_P1.jpg"
 }
