@@ -17,7 +17,15 @@ export const postseasonSchema = z.object({
     id: z.string(), name: z.string(), short: z.string(), to_win: z.number().int().min(1),
     advantage: z.record(z.string(), z.number().int()).default({}),
     teams: z.tuple([slot, slot]),
-    games: z.array(z.object({ no: z.number().int(), date: dateStr, venue, result: z.record(z.string(), z.number().int()).optional(), source: z.string().url().optional() })),
+    games: z.array(z.object({
+      no: z.number().int(), date: dateStr, venue,
+      result: z.record(z.string(), z.number().int()).optional(), source: z.string().url().optional(),
+      // 경기 기록(MLB.com 경기 결과 카드 참고) — 모두 기사로 확인한 것만, 출처는 sources
+      starters: z.record(z.string(), z.string()).optional(), // 팀 id → 선발(경기 전엔 예고 선발)
+      win: z.string().optional(), loss: z.string().optional(), save: z.string().optional(), holds: z.array(z.string()).default([]),
+      homers: z.array(z.string()).default([]), mvp: z.string().optional(), attendance: z.string().optional(),
+      sources: z.array(z.string().url()).default([]),
+    })),
   })),
 });
 export type PostseasonData = z.infer<typeof postseasonSchema>;
@@ -30,7 +38,8 @@ export function loadPostseason(root = process.cwd()): PostseasonData | null {
 
 const WEEKDAY = ['일', '월', '화', '수', '목', '금', '토'];
 export type Side = { id?: string; label: string; wins: number };
-export type GameView = { round: string; roundName: string; no: number; date: string; weekday: string; time: string; venue: string; played: boolean; score?: string; sides: [Side, Side]; skipped: boolean };
+export type GameRecord = { starters: [string?, string?]; win?: string; loss?: string; save?: string; holds: string[]; homers: string[]; mvp?: string; attendance?: string; sources: string[] };
+export type GameView = { round: string; roundName: string; no: number; date: string; weekday: string; time: string; venue: string; played: boolean; score?: string; sides: [Side, Side]; skipped: boolean; ifNeeded: boolean; record: GameRecord };
 export type RoundView = { id: string; name: string; short: string; toWin: number; sides: [Side, Side]; winner?: string; status: 'done' | 'live' | 'upcoming'; games: GameView[]; next?: GameView };
 
 /** 라운드를 앞에서부터 풀어 팀·전적·승자를 정한다. today: 'YYYY-MM-DD'(한국 날짜) */
@@ -58,7 +67,8 @@ export function resolvePostseason(d: PostseasonData, today: string): { rounds: R
       }
       return {
         round: r.id, roundName: r.name, no: g.no, date: g.date, weekday: WEEKDAY[day], time: day === 0 || day === 6 ? d.time.weekend : d.time.weekday,
-        venue: venueName, played: !!score, score, skipped,
+        venue: venueName, played: !!score, score, skipped, ifNeeded: g.no > r.to_win,
+        record: { starters: [ids[0] ? g.starters?.[ids[0]] : undefined, ids[1] ? g.starters?.[ids[1]] : undefined], win: g.win, loss: g.loss, save: g.save, holds: g.holds, homers: g.homers, mvp: g.mvp, attendance: g.attendance, sources: [...(g.source ? [g.source] : []), ...g.sources] },
         sides: [{ id: ids[0], label: labels[0], wins: 0 }, { id: ids[1], label: labels[1], wins: 0 }],
       };
     });

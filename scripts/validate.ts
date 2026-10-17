@@ -52,6 +52,9 @@ export function validateAll(root: string): Report {
       for (const t of r.teams) if (typeof t === 'string' && !teamIds.has(t)) errors.push(`data/postseason.yaml ${r.id}: 없는 팀 id ${t}`);
       for (const g of r.games) {
         if (g.result && !g.source) errors.push(`data/postseason.yaml ${r.id} ${g.no}차전: 결과에는 근거 기사(source)가 필요합니다`);
+        const hasRecord = g.starters || g.win || g.loss || g.save || g.holds.length || g.homers.length || g.mvp || g.attendance;
+        if (hasRecord && !g.source && !g.sources.length) errors.push(`data/postseason.yaml ${r.id} ${g.no}차전: 경기 기록에는 근거 기사(sources)가 필요합니다`);
+        for (const k of Object.keys(g.starters ?? {})) if (!teamIds.has(k)) errors.push(`data/postseason.yaml ${r.id} ${g.no}차전: 선발의 없는 팀 id ${k}`);
         for (const k of Object.keys(g.result ?? {})) if (!teamIds.has(k)) errors.push(`data/postseason.yaml ${r.id} ${g.no}차전: 없는 팀 id ${k}`);
       }
     }
