@@ -44,6 +44,20 @@ const hostOf = (u: string) => { try { return new URL(u).hostname.replace(/^(www|
               ))}
             </div>
             <p class="ps-next-when"><strong>{when(view.next)}</strong> · {view.next.venue}</p>
+            {view.next.sides.every((s) => s.id) && (
+              /* 승부 예측(api/vote). 저장소가 연결되지 않았거나 실패하면 통째로 숨긴다 */
+              <div class="ps-vote" data-vote={`${view.next.round}${view.next.no}-${view.next.date}-${view.next.sides[0].id}-${view.next.sides[1].id}`} hidden>
+                <p class="ps-vote-q">누가 이길까요?</p>
+                <div class="ps-vote-btns">
+                  {view.next.sides.map((s) => <button type="button" class="ps-vote-btn" data-vote-team={s.id} style={`--team:${color(s)}`}>{name(s)}</button>)}
+                </div>
+                <div class="ps-vote-result" hidden>
+                  <div class="ps-vote-bar">{view.next.sides.map((s) => <span data-vote-bar={s.id} style={`--team:${color(s)}`}></span>)}</div>
+                  <p class="ps-vote-nums">{view.next.sides.map((s, i) => <span class={i ? 'r' : ''}>{name(s)} <strong data-vote-pct={s.id}>0%</strong></span>)}</p>
+                  <p class="ps-vote-note" data-vote-note></p>
+                </div>
+              </div>
+            )}
           </div>
           <div class="ps-sched">
             <p class="ps-sched-title">{nextRound.name} 일정 <span>{nextRound.toWin}선승</span></p>
@@ -120,6 +134,38 @@ const hostOf = (u: string) => { try { return new URL(u).hostname.replace(/^(www|
   </section>
 )}
 <script>
+  // 승부 예측: 결과 보기는 누구나, 투표는 경기 시작 전까지 기기당 1번(서버는 IP당 1표)
+  document.querySelectorAll<HTMLElement>('[data-vote]').forEach(async (box) => {
+    const game = box.dataset.vote!;
+    const key = `bbadda:vote:${game}`;
+    let mine: string | null = null;
+    try { mine = localStorage.getItem(key); } catch {}
+    const show = (d: { counts: Record<string, number>; open: boolean }) => {
+      const total = Object.values(d.counts).reduce((a, b) => a + b, 0);
+      box.querySelectorAll<HTMLElement>('[data-vote-bar]').forEach((el) => { const n = d.counts[el.dataset.voteBar!] ?? 0; el.style.flexGrow = String(total ? n : 1); });
+      box.querySelectorAll<HTMLElement>('[data-vote-pct]').forEach((el) => { const n = d.counts[el.dataset.votePct!] ?? 0; el.textContent = `${total ? Math.round((n / total) * 100) : 0}%`; });
+      const note = box.querySelector<HTMLElement>('[data-vote-note]')!;
+      note.textContent = `${total.toLocaleString('ko-KR')}명 참여${d.open ? '' : ' · 투표 마감'}`;
+      const voted = !!mine || !d.open;
+      box.querySelector<HTMLElement>('.ps-vote-btns')!.hidden = voted;
+      box.querySelector<HTMLElement>('.ps-vote-result')!.hidden = !voted;
+      box.querySelector<HTMLElement>('.ps-vote-q')!.textContent = d.open ? (mine ? '내 예측을 저장했어요' : '누가 이길까요?') : '승부 예측';
+      box.hidden = false;
+    };
+    try {
+      const r = await fetch(`/api/vote?game=${encodeURIComponent(game)}`);
+      if (!r.ok) return;
+      show(await r.json());
+    } catch { return; }
+    box.querySelectorAll<HTMLButtonElement>('[data-vote-team]').forEach((b) => b.addEventListener('click', async () => {
+      box.querySelectorAll<HTMLButtonElement>('[data-vote-team]').forEach((x) => (x.disabled = true));
+      try {
+        const r = await fetch('/api/vote', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify({ game, team: b.dataset.voteTeam }) });
+        const d = await r.json();
+        if (d.counts) { mine = b.dataset.voteTeam!; try { localStorage.setItem(key, mine); } catch {} show(d); }
+      } catch {} finally { box.querySelectorAll<HTMLButtonElement>('[data-vote-team]').forEach((x) => (x.disabled = false)); }
+    }));
+  });
   // 라운드 카드를 누르면 그 라운드의 경기 기록을 펼친다(한 번에 하나)
   document.querySelectorAll<HTMLButtonElement>('[data-ps-round]').forEach((b) => b.addEventListener('click', () => {
     const open = b.getAttribute('aria-expanded') !== 'true';
