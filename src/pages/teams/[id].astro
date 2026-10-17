@@ -3,6 +3,7 @@ import Layout from '../../components/Layout.astro';
 import SignalCard from '../../components/SignalCard.astro';
 import SignalList from '../../components/SignalList.astro';
 import TeamChip from '../../components/TeamChip.astro';
+import ShareButton from '../../components/ShareButton.astro';
 import { MODULE_LABEL, SLANG_TITLE, TEAMS, loadAll, ofTeam, recent, hot, newest, teamColor, daysOf, onDay, dayLabel } from '../../lib/site.ts';
 import type { Team } from '../../lib/config.ts';
 export function getStaticPaths() { return TEAMS.map((t) => ({ params: { id: t.id }, props: { team: t } })); }
@@ -15,12 +16,13 @@ const fans = recent(mine.filter((s) => s.module === 'fans'), 14).sort(hot);
 const slang = [...new Map(mine.filter((s) => s.slang).map((s) => [s.slang!, s])).values()];
 const teamDays = daysOf(mine);
 ---
-<Layout title={t.name} description={`${t.name} 최근 소식, 공식 영상, 팬 반응`} sample={mine.some((s) => s.sample)}>
+<Layout title={t.name} description={latest[0] ? `오늘의 ${t.short}: ${latest[0].title_ko ?? latest[0].title}` : `${t.name} 최근 소식, 공식 영상, 팬 반응`} image={`/og/${t.id}.png`} sample={mine.some((s) => s.sample)}>
   <section class="team-hero" style={`--team:${teamColor(t.id)}`}>
     <p class="eyebrow">{t.city} · KBO 리그</p>
     <h1 class="page-title">{t.name}</h1>
     <div class="team-hero-actions" data-pagefind-ignore>
       <button type="button" class="team-chip team-chip--btn" data-pick-team={t.id} data-color={teamColor(t.id)} data-name={t.name} data-short={t.short}>★ 내 팀으로</button>
+      <ShareButton />
       {t.website && <a class="small" href={t.website} target="_blank" rel="noopener noreferrer">공식 웹사이트</a>}
       {t.youtube && <a class="small" href={t.youtube} target="_blank" rel="noopener noreferrer">공식 YouTube</a>}
       {t.instagram && <a class="small" href={t.instagram} target="_blank" rel="noopener noreferrer">공식 Instagram</a>}
