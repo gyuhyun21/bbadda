@@ -103,6 +103,7 @@ export function findHighlight(videos: Video[], g: GameView): string | undefined 
     .filter((v) => /하이라이트|H\/L|highlight/i.test(v.title))
     .filter((v) => words.some((w) => (g.round === 'po' ? new RegExp(`(?<!준)${w}`) : new RegExp(w)).test(v.title)))
     .filter((v) => new RegExp(`${g.no}차전|${words[0]}\\s?${g.no}(?!\\d)`).test(v.title) || v.title.includes(md))
-    .sort((a, b) => a.published_at.localeCompare(b.published_at));
+    // 전체 하이라이트 우선: 장면 클립('크보모먼트')은 뒤로
+    .sort((a, b) => Number(/크보모먼트/.test(a.title)) - Number(/크보모먼트/.test(b.title)) || a.published_at.localeCompare(b.published_at));
   return hit[0]?.url;
 }
