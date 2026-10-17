@@ -44,6 +44,6 @@ test('경기 기록: 선발은 대진 순서대로, 출처는 결과 기사 + �
   assert.equal(wc1.record.win, '카라스코');
   assert.ok(wc1.record.sources.length >= 2);
   assert.deepEqual(next?.record.starters, ['톨허스트', '네일']); // 준PO: [WC 승자(lg), kia]
-  assert.equal(rounds[1].games[3].ifNeeded, true); // 3선승제 4차전은 필요 시
+  assert.equal(rounds[1].games[3].ifNeeded, true); // 3선승제 4차전은 미확정
   assert.equal(rounds[1].games[2].ifNeeded, false);
 });
