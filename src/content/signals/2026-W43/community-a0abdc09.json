@@ -1,0 +1,23 @@
+{
+  "id": "community-a0abdc09",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "엠엘비파크",
+  "url": "https://mlbpark.donga.com/mp/b.php?id=202610130119393205&p=31&b=kbotown&m=view&select=spf&query=KIA&site=donga.com",
+  "title": "기아타이거즈 2026시즌 활약도 정리 - 투수편",
+  "published_at": "2026-10-12T15:00:00.000Z",
+  "collected_at": "2026-10-17T13:38:15.350Z",
+  "summary_ko": "엠엘비파크에 KIA 2026시즌 투수진 활약도를 선발·불펜별로 정리한 글이 올라왔다. 선발로 네일, 올러, 양현종 등이 언급된다.",
+  "excerpt": "... 선발 - 네일, 올러, 시라카와, 양현종, 황동하, 김태형중간계투 - 조상우, 성영탁,…",
+  "metrics": {},
+  "scores": {
+    "hot": 26,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "community-e5c3b178",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "community",
+  "source_name": "더쿠",
+  "url": "https://theqoo.net/square/4376528940",
+  "title": "[KBO] 일본에서도 좋은 소리 못 듣고있는 SSG랜더스 아시안쿼터 ...",
+  "published_at": "2026-10-14T15:00:00.000Z",
+  "collected_at": "2026-10-17T13:38:15.350Z",
+  "summary_ko": "더쿠에 SSG 아시아쿼터 선수를 둘러싼 일본 쪽 평가를 다룬 글이 올라왔다. 소프트뱅크의 실책 후 문화와 비교하는 내용이다.",
+  "excerpt": "... 예를 들어 소프트뱅크는 실책을 하면 야수, 투수, 코치 모두가 지적해서 책임감이 생긴다. 하지만 한국은…",
+  "metrics": {},
+  "scores": {
+    "hot": 43,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "community-7f7baf3d",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg",
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 Ryan's Blog",
+  "url": "https://ryan.tistory.com/839",
+  "title": "\"김도영에게 또 당했다\"… LG, 준PO 1차전 KIA에 5-1 패 — 8연패의 굴레와 2차전 관전 포인트",
+  "published_at": "2026-10-17T19:51:36.000+09:00",
+  "collected_at": "2026-10-17T13:38:15.350Z",
+  "summary_ko": "블로그가 LG의 준플레이오프 1차전 1-5 패배를 되짚은 글이다. 김도영에게 당했다는 표현으로 경기를 요약한다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

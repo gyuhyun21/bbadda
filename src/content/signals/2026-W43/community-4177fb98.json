@@ -1,0 +1,23 @@
+{
+  "id": "community-4177fb98",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 스포츠잔망의 스포츠 이야기",
+  "url": "https://feel0622.tistory.com/482",
+  "title": "2026 KBO 골든글러브 후보 79명 발표 및 부문별 구단 현황 분석",
+  "published_at": "2026-10-17T14:00:44.000+09:00",
+  "collected_at": "2026-10-17T13:38:15.350Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

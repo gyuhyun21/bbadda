@@ -1,0 +1,22 @@
+{
+  "id": "community-96f108b8",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 Summary, 정리",
+  "url": "https://blog.naver.com/organizing_data/224443382907",
+  "title": "롯데 차기 감독 후보 총정리 이동욱 조성환 다카쓰 신고 장단점",
+  "published_at": "2026-10-17T00:35:00.000+09:00",
+  "collected_at": "2026-10-17T13:38:15.350Z",
+  "summary_ko": "블로그가 롯데 차기 감독 후보로 이동욱, 조성환, 다카쓰 신고 등이 거론된다며 장단점을 정리했다. 확정된 내용은 아니다.",
+  "metrics": {},
+  "scores": {
+    "hot": 60,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "community-d5b215a0",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 WoniSoli 님의 블로그",
+  "url": "https://wonisoli.tistory.com/467",
+  "title": "손나은모친상 비보 및 제부 임찬규 준PO 2차전 선발 출격 소식 정리",
+  "published_at": "2026-10-17T19:55:43.000+09:00",
+  "collected_at": "2026-10-17T13:38:15.350Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

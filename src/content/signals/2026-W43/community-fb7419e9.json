@@ -1,0 +1,23 @@
+{
+  "id": "community-fb7419e9",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "디시 야구 갤러리",
+  "url": "https://gall.dcinside.com/board/view/?id=samsunglions_new&no=18888169",
+  "title": "숫자로 결산한 2026년 삼성 라이온즈",
+  "published_at": "2026-10-14T15:00:00.000Z",
+  "collected_at": "2026-10-17T13:38:15.350Z",
+  "summary_ko": "디시 야구 갤러리에서 숫자로 2026년 삼성 라이온즈 시즌을 결산한 글이다.",
+  "excerpt": "... 삼성 라이온즈 · 2024년 FA 영입으로 4년 58억원에 이적하게 된 현역 통산 세이브 1위…",
+  "metrics": {},
+  "scores": {
+    "hot": 43,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

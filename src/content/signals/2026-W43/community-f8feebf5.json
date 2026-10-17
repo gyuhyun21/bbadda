@@ -1,0 +1,23 @@
+{
+  "id": "community-f8feebf5",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "community",
+  "source_name": "디시 야구 갤러리",
+  "url": "https://gall.dcinside.com/board/view/?id=ncdinos&no=10141041",
+  "title": "NC 다이노스",
+  "published_at": "2026-10-11T15:00:00.000Z",
+  "collected_at": "2026-10-17T13:38:15.350Z",
+  "summary_ko": "",
+  "excerpt": "... NC 다이노스 · 콜어빈엄마. 꺼져. 10.13 10:36 · Progreso. 박준순 내놔. 10.13 10:44.",
+  "metrics": {},
+  "scores": {
+    "hot": 17,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "community-c2c25c58",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "lg"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 김씨님의블로그",
+  "url": "https://blog.naver.com/kimdoubles/224444980512",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/EghfUx4Tfwz",
+  "title": "[2026 가을야구] 2026 KBO 한국프로야 준플레이오프(준PO) 1차전 결과(기아 vs 엘지, 엘지 vs 기아)",
+  "published_at": "2026-10-17T21:55:00.000+09:00",
+  "collected_at": "2026-10-17T13:38:15.350Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

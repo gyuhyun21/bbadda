@@ -1,0 +1,24 @@
+{
+  "id": "news-ec07917c",
+  "issue": "2026-W43",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kt"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://www.mt.co.kr/amp/sports/2026/10/17/202610171229779915O",
+  "title": "‘9월 이후 ERA 0.00’ 삼성 2년 차 좌완의 무서운 자신감…“한국시리즈서 KT 만나면 반드시 이긴다” [오!쎈 대구]",
+  "published_at": "2026-10-17T05:40:00.000Z",
+  "collected_at": "2026-10-17T13:38:15.350Z",
+  "summary_ko": "삼성 2년 차 좌완이 9월 이후 평균자책 0.00을 이어 가고 있다는 보도다. 한국시리즈에서 KT를 만나도 이길 자신이 있다고 밝혔다.",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 80
+  },
+  "sentiment": "neutral",
+  "image": "https://menu.mt.co.kr/cdn-cgi/image/w=1200,h=1012,fit=cover,bg=white,f=auto,quality=high,sharpen=2,g=face/mobile/osen/data/2026/10/17/202610171229779915_1.jpg"
+}

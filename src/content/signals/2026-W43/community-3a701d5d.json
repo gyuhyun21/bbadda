@@ -1,0 +1,24 @@
+{
+  "id": "community-3a701d5d",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "다음카페 쭉빵카페",
+  "url": "https://cafe.daum.net/ok1221/8mNz/1170816",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/6G6dWzubiEp",
+  "title": "26시즌 팀별 마무리 인사 현수막 모음",
+  "published_at": "2026-10-12T23:57:29.000+09:00",
+  "collected_at": "2026-10-17T13:38:15.350Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 26,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

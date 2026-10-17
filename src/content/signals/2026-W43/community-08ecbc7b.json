@@ -1,0 +1,24 @@
+{
+  "id": "community-08ecbc7b",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "community",
+  "source_name": "레딧 r/KBO",
+  "url": "https://www.reddit.com/r/KBO/comments/1x7rydl/ssg_landers_resign_pedro_avila_for_2027_season/",
+  "title": "SSG Landers re-sign Pedro Avila for 2027 season",
+  "published_at": "2026-10-16T20:38:15.350Z",
+  "collected_at": "2026-10-17T13:38:15.350Z",
+  "summary_ko": "레딧 r/KBO에 SSG 랜더스가 페드로 아빌라와 2027시즌 재계약했다는 소식이 올라왔다.",
+  "excerpt": "... Yes. He was the bright side in all of the foreign pitchers that they…",
+  "metrics": {},
+  "scores": {
+    "hot": 62,
+    "relevance": 50
+  },
+  "sentiment": "neutral",
+  "title_ko": "SSG, 페드로 아빌라와 2027시즌 재계약"
+}

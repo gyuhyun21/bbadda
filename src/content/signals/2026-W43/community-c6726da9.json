@@ -1,0 +1,23 @@
+{
+  "id": "community-c6726da9",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 SportsDataLab - 데이터로 읽는 KBO",
+  "url": "https://sportsdatalab.tistory.com/623",
+  "title": "[준PO 2차전] 10/18 데이터 프리뷰 — 선발 매치업과 예측 총정리",
+  "published_at": "2026-10-17T22:15:34.000+09:00",
+  "collected_at": "2026-10-17T13:38:15.350Z",
+  "summary_ko": "블로그가 10월 18일 준플레이오프 2차전의 선발 매치업을 데이터로 미리 살펴본 글이다.",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

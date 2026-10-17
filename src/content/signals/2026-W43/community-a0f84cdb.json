@@ -1,0 +1,24 @@
+{
+  "id": "community-a0f84cdb",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 김푸름 | 운동선수 진로 컨설턴트",
+  "url": "https://blog.naver.com/creative_wanni/224444537181",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/2mWkIq10Mlb",
+  "title": "SPQ 은퇴선수 진로컨설팅 | 부상으로 끝난 야구선수, 지금은 브랜드를 기획합니다",
+  "published_at": "2026-10-17T12:09:00.000+09:00",
+  "collected_at": "2026-10-17T13:38:15.350Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

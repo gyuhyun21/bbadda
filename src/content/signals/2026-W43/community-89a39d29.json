@@ -1,0 +1,23 @@
+{
+  "id": "community-89a39d29",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 생활 정보 story",
+  "url": "https://wmkkh.tistory.com/265",
+  "title": "2026 KBO 골든글러브 포수 후보｜허인서 20홈런, 양의지·강민호 제외 이유",
+  "published_at": "2026-10-17T12:06:32.000+09:00",
+  "collected_at": "2026-10-17T13:38:15.350Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

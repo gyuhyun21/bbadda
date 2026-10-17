@@ -1,0 +1,24 @@
+{
+  "id": "community-73af7777",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "레딧 r/KBO",
+  "url": "https://www.reddit.com/r/KBO/comments/1x591sz/2026_%EC%8B%A0%ED%95%9C_sol_kbo_league_mvp_and_rookie_of_the_year/",
+  "title": "2026 신한 SOL KBO League MVP and Rookie of the Year Candidates",
+  "published_at": "2026-10-12T15:00:00.000Z",
+  "collected_at": "2026-10-17T13:38:15.350Z",
+  "summary_ko": "",
+  "excerpt": "... SSG Landers Kim Min-jun (김민준). Samsung Lions Jang Chan-hee (장찬희). Lotte Giants Park Jeong-min…",
+  "metrics": {},
+  "scores": {
+    "hot": 26,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}
