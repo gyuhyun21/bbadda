@@ -54,7 +54,7 @@ const hostOf = (u: string) => { try { return new URL(u).hostname.replace(/^(www|
                   <span class="ps-sched-no">{g.no}차전</span>
                   <span class="ps-sched-date">{md(g)} {g.time}</span>
                   <span class="ps-sched-venue">{g.venue}</span>
-                  <span class="ps-sched-state">{g.played ? scoreLine(g) : g.skipped ? '열리지 않음' : g.date === today ? '오늘' : g.ifNeeded ? '필요 시' : ''}</span>
+                  <span class="ps-sched-state">{g.played ? scoreLine(g) : g.skipped ? '열리지 않음' : g.date === today ? '오늘' : g.ifNeeded ? '미확정' : ''}</span>
                 </li>
               ))}
             </ol>
