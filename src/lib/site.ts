@@ -71,6 +71,12 @@ export const BUILD_TIME = Date.now();
 // 화면의 '업데이트' 시각 = 마지막 기사 수집 시각(가장 늦은 collected_at), 한국 시간. 디자인 수정 배포로는 바뀌지 않는다.
 // 예: "10월 17일 (토) 06:52 업데이트"
 export const updatedLabel = (list: Signal[]) => { const last = Math.max(...list.map((s) => Date.parse(s.collected_at)).filter(Number.isFinite)); const k = new Date((Number.isFinite(last) ? last : BUILD_TIME) + 9 * 3600_000); return `${k.getUTCMonth() + 1}월 ${k.getUTCDate()}일 (${'일월화수목금토'[k.getUTCDay()]}) ${String(k.getUTCHours()).padStart(2, '0')}:${String(k.getUTCMinutes()).padStart(2, '0')} 업데이트`; };
+/** 첫 화면 갱신 표시: 마지막 수집이 정오 전이면 조간, 이후면 석간(신문식 판 이름). 예: { day: '10월 17일 (토)', edition: '석간', time: '22:38' } */
+export const editionInfo = (list: Signal[]) => {
+  const last = Math.max(...list.map((s) => Date.parse(s.collected_at)).filter(Number.isFinite));
+  const k = new Date((Number.isFinite(last) ? last : BUILD_TIME) + 9 * 3600_000);
+  return { day: `${k.getUTCMonth() + 1}월 ${k.getUTCDate()}일 (${'일월화수목금토'[k.getUTCDay()]})`, edition: k.getUTCHours() < 12 ? '조간' : '석간', time: `${String(k.getUTCHours()).padStart(2, '0')}:${String(k.getUTCMinutes()).padStart(2, '0')}` };
+};
 export const isToday = (s: Signal) => BUILD_TIME - Date.parse(s.published_at) < 86400_000;
 
 export const fmtDate = (iso: string) => {
