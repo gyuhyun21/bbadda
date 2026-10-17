@@ -74,3 +74,13 @@
 2. Vercel 이 보여 주는 DNS 레코드를 도메인 등록 업체 DNS 관리 화면에 **그대로** 넣는다(루트 도메인은 A 레코드, www 는 CNAME 으로 안내된다). 값은 Vercel 화면 기준으로 하고 다른 곳의 값을 옮겨 쓰지 않는다.
 3. 기존에 같은 이름의 A·CNAME 레코드(주차 페이지 등)가 있으면 지운다.
 4. Vercel 화면에 "Valid Configuration"이 뜨면 HTTPS 인증서는 자동 발급된다(수 분~수 시간).
+
+## 승부 예측 투표 저장소 (Upstash Redis, 무료)
+
+`api/vote.ts`(Vercel 함수)가 투표를 Upstash Redis 에 저장한다. 연결 전에는 투표 칸이 화면에 나오지 않는다.
+
+1. Vercel → bbadda 프로젝트 → **Storage** 탭 → **Create Database** → **Upstash for Redis** → 무료 플랜, 지역 `Tokyo (ap-northeast-1)` → 만들기.
+2. **Connect Project** 에서 bbadda 연결(Production·Preview). 환경변수 `KV_REST_API_URL`·`KV_REST_API_TOKEN` 이 자동으로 들어간다(값을 채팅에 붙여 넣지 않는다).
+3. Deployments → 최신 배포 **Redeploy**.
+
+저장 내용: 경기별 팀 득표 수, 중복 방지용 IP 해시(원문 IP 저장 안 함). 모두 경기 30일 뒤 자동 삭제.

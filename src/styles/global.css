@@ -600,3 +600,22 @@ button.ps-round-btn:focus-visible { outline: 2px solid var(--accent); outline-of
 .ps-sources[open] { text-align: left; }
 .ps-sources p { margin: 4px 0 0; }
 .ps-sources a { color: inherit; }
+
+/* 승부 예측(다음 경기 카드 안) */
+.ps-vote { margin-top: 6px; padding-top: 12px; border-top: 1px solid rgba(255,255,255,0.12); display: grid; gap: 8px; }
+.ps-vote[hidden], .ps-vote [hidden] { display: none; }
+.ps-vote-q { margin: 0; font-size: 13px; font-weight: 700; }
+.ps-vote-btns { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; }
+.ps-vote-btn { height: 40px; border: 0; border-radius: 12px; background: var(--team); color: #fff; font: 700 15px/1 var(--font); cursor: pointer; box-shadow: inset 0 0 0 1px rgba(255,255,255,0.18); }
+.ps-vote-btn:disabled { opacity: 0.6; }
+.ps-vote-btn:focus-visible { outline: 2px solid #FFD34D; outline-offset: 2px; }
+.ps-vote-bar { display: flex; gap: 3px; height: 10px; border-radius: 999px; overflow: hidden; }
+.ps-vote-bar span { flex: 1 1 0; background: var(--team); transition: flex-grow 0.4s ease; }
+@media (prefers-reduced-motion: reduce) { .ps-vote-bar span { transition: none; } }
+.ps-vote-nums { margin: 0; display: flex; justify-content: space-between; font-size: 13px; color: rgba(255,255,255,0.8); }
+.ps-vote-nums strong { color: #fff; font-size: 15px; }
+.ps-vote-note { margin: 0; font-size: 11px; color: rgba(255,255,255,0.5); }
+
+/* 홈 화면에 추가(저장한 소식 패널 안) */
+.install-btn { margin-top: 10px; width: 100%; height: 38px; border: 0; border-radius: 12px; background: var(--ink); color: #fff; font: 700 14px/1 var(--font); cursor: pointer; }
+.install-btn[hidden] { display: none; }

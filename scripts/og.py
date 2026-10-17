@@ -30,3 +30,20 @@ for t in teams:
     card(os.path.join(out, f"{t['id']}.png"), t['color'], t['short'], t['name'], '오늘의 소식 · 매일 아침 갱신')
 card(os.path.join(out, 'league.png'), '#1D1D1F', 'KBO', 'KBO 10개 구단 소식', '팀별로 매일 아침 정리 · 빠따닷컴')
 print('저장:', out)
+
+# 홈 화면 아이콘(앱 아이콘) — public/icons/. 파비콘과 같은 'B' 마크
+icons = os.path.join(ROOT, 'public', 'icons')
+os.makedirs(icons, exist_ok=True)
+def icon(size, name, inset=0.0, radius=True):
+    im = Image.new('RGBA', (size, size), (0, 0, 0, 0))
+    d = ImageDraw.Draw(im)
+    if radius: d.rounded_rectangle((0, 0, size - 1, size - 1), radius=int(size * 0.22), fill='#1D1D1F')
+    else: d.rectangle((0, 0, size, size), fill='#1D1D1F')  # maskable: 꽉 채우고 안전 영역 안에 글자
+    font = f(int(size * (0.62 - inset)))
+    d.text((size / 2, size / 2 + size * 0.02), 'B', font=font, fill='white', anchor='mm')
+    im.save(os.path.join(icons, name), optimize=True)
+icon(180, 'apple-touch-icon.png', radius=False)  # iOS 가 모서리를 직접 둥글게 깎는다
+icon(192, 'icon-192.png')
+icon(512, 'icon-512.png')
+icon(512, 'maskable-512.png', inset=0.16, radius=False)
+print('저장:', icons)

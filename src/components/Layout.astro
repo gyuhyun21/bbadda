@@ -46,6 +46,14 @@ const myTeamCss = TEAMS.map((t) => `html[data-my-team="${t.id}"] [data-myteam-bl
     {path === '/' && <script type="application/ld+json" is:inline set:html={JSON.stringify({ '@context': 'https://schema.org', '@type': 'WebSite', name: 'BBADDA 빠따닷컴', url: Astro.site?.href, inLanguage: 'ko', potentialAction: { '@type': 'SearchAction', target: `${Astro.site?.href}search/?q={q}`, 'query-input': 'required name=q' } })}></script>}
     {analytics && <><script is:inline>window.va = window.va || function () { (window.vaq = window.vaq || []).push(arguments); };</script><script is:inline defer src="/_vercel/insights/script.js"></script></>}
     <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    {/* 홈 화면 추가(앱처럼 열기) — 아이콘은 scripts/og.py 로 만든다 */}
+    <link rel="manifest" href="/manifest.webmanifest" />
+    <link rel="apple-touch-icon" href="/icons/apple-touch-icon.png" />
+    <meta name="theme-color" content="#ECEFF4" />
+    <meta name="apple-mobile-web-app-title" content="빠따닷컴" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="default" />
     <link rel="preload" href="/fonts/pretendard/PretendardVariable.subset.woff2" as="font" type="font/woff2" crossorigin />
     {/* 내 팀(localStorage)을 가장 먼저 읽어 html 에 표시. 저장소가 막혀 있으면 기본 화면 */}
     <script is:inline>try { var t = localStorage.getItem('bbadda:myTeam'); if (t && /^[a-z]+$/.test(t)) document.documentElement.dataset.myTeam = t; } catch (e) {}</script>
@@ -71,7 +79,9 @@ const myTeamCss = TEAMS.map((t) => `html[data-my-team="${t.id}"] [data-myteam-bl
             <p class="bm-title">저장한 소식</p>
             <ul class="bm-list" data-bm-list></ul>
             <p class="bm-empty small" data-bm-empty>기사 옆 북마크 아이콘을 누르면 여기에 모입니다. 이 기기에만 저장됩니다.</p>
-            <p class="bm-hint small">이 사이트 즐겨찾기: <kbd>⌘</kbd>+<kbd>D</kbd> (윈도 <kbd>Ctrl</kbd>+<kbd>D</kbd>)</p>
+            <p class="bm-hint small" data-desktop-hint>이 사이트 즐겨찾기: <kbd>⌘</kbd>+<kbd>D</kbd> (윈도 <kbd>Ctrl</kbd>+<kbd>D</kbd>)</p>
+            <button type="button" class="install-btn" data-install hidden>홈 화면에 추가</button>
+            <p class="bm-hint small" data-install-ios hidden>아이폰: 사파리 아래 <strong>공유</strong> 버튼 → <strong>홈 화면에 추가</strong></p>
           </div>
         </div>
         <div class="myteam">
@@ -265,6 +275,19 @@ const myTeamCss = TEAMS.map((t) => `html[data-my-team="${t.id}"] [data-myteam-bl
       });
       document.addEventListener('keydown', (e) => { if (e.key === 'Escape' && panel && !panel.hidden) { panel.hidden = true; toggle?.setAttribute('aria-expanded', 'false'); toggle?.focus(); } });
       document.addEventListener('click', (e) => { if (panel && !panel.hidden && !(e.target as Element).closest('.myteam')) { panel.hidden = true; toggle?.setAttribute('aria-expanded', 'false'); } });
+    </script>
+    <script>
+      // 홈 화면 추가: 안드로이드 크롬은 설치 창, 아이폰은 방법 안내. 이미 앱으로 열었으면 숨긴다
+      const standalone = matchMedia('(display-mode: standalone)').matches || (navigator as any).standalone;
+      const installBtn = document.querySelector<HTMLButtonElement>('[data-install]');
+      const iosHint = document.querySelector<HTMLElement>('[data-install-ios]');
+      const isIOS = /iPhone|iPad|iPod/.test(navigator.userAgent);
+      let deferred: any = null;
+      if (!standalone) {
+        if (isIOS && iosHint) { iosHint.hidden = false; document.querySelector<HTMLElement>('[data-desktop-hint]')!.hidden = true; }
+        addEventListener('beforeinstallprompt', (e) => { e.preventDefault(); deferred = e; if (installBtn) installBtn.hidden = false; });
+        installBtn?.addEventListener('click', async () => { if (!deferred) return; deferred.prompt(); await deferred.userChoice.catch(() => {}); deferred = null; installBtn.hidden = true; });
+      }
     </script>
     <script>
       document.querySelectorAll<HTMLButtonElement>('[data-share]').forEach((b) => b.addEventListener('click', async () => {
