@@ -24,7 +24,7 @@ const hostOf = (u: string) => { try { return new URL(u).hostname.replace(/^(www|
 ---
 {view && (
   <section class="block ps-block" aria-labelledby="h-postseason" data-pagefind-ignore>
-    <div class="block-head"><h2 id="h-postseason">{data!.season} 가을야구</h2><span class="small">일정: KBO 발표 · 결과·기록: 언론 보도로 확인한 것</span></div>
+    <div class="block-head"><h2 id="h-postseason">{data!.season} 가을야구</h2></div>
     <div class="ps-wrap">
       {view.next && nextRound ? (
         <div class="ps-next">
@@ -44,7 +44,6 @@ const hostOf = (u: string) => { try { return new URL(u).hostname.replace(/^(www|
               ))}
             </div>
             <p class="ps-next-when"><strong>{when(view.next)}</strong> · {view.next.venue}</p>
-            {view.next.record.starters.some(Boolean) && view.next.record.sources[0] && <a class="ps-src" href={view.next.record.sources[0]} target="_blank" rel="noopener noreferrer">예고 선발 출처 · {hostOf(view.next.record.sources[0])}</a>}
           </div>
           <div class="ps-sched">
             <p class="ps-sched-title">{nextRound.name} 일정 <span>{nextRound.toWin}선승</span></p>
@@ -105,13 +104,19 @@ const hostOf = (u: string) => { try { return new URL(u).hostname.replace(/^(www|
               <article class="ps-game">
                 <p class="ps-game-head"><strong>{g.no}차전</strong> {md(g)} · {g.venue}<span class="ps-game-score">{scoreLine(g)}</span></p>
                 <dl class="ps-game-rec">{rows.filter(([, v]) => v).map(([k, v]) => <><dt>{k}</dt><dd>{v}</dd></>)}</dl>
-                {rec.sources.length > 0 && <p class="ps-game-src">출처: {rec.sources.map((u, i) => <>{i > 0 && ', '}<a href={u} target="_blank" rel="noopener noreferrer">{hostOf(u)}</a></>)}</p>}
               </article>
             );
           })}
         </div>
       ))}
     </div>
+    <details class="ps-sources">
+      <summary>출처</summary>
+      <p>일정: <a href={data!.schedule_source} target="_blank" rel="noopener noreferrer">KBO 발표 일정 보도</a></p>
+      {view.rounds.flatMap((r) => r.games.filter((g) => g.record.sources.length).map((g) => (
+        <p>{r.short} {g.no}차전: {g.record.sources.map((u, i) => <>{i > 0 && ', '}<a href={u} target="_blank" rel="noopener noreferrer">{hostOf(u)}</a></>)}</p>
+      )))}
+    </details>
   </section>
 )}
 <script>

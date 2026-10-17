@@ -534,7 +534,6 @@ button.rail-more { font: inherit; background: none; border: 0; cursor: pointer; 
 .ps-vs { align-self: center; margin-top: -30px; font-size: 13px; font-weight: 700; color: rgba(255,255,255,0.5); }
 .ps-next-when { margin: 0; font-size: 14px; color: rgba(255,255,255,0.8); }
 .ps-next-when strong { color: #fff; font-size: 17px; }
-.ps-src { font-size: 11px; color: rgba(255,255,255,0.5); }
 .ps-sched { border-radius: 16px; background: rgba(255,255,255,0.06); padding: 14px 16px; }
 .ps-sched-title { margin: 0 0 6px; font-size: 13px; font-weight: 700; display: flex; justify-content: space-between; }
 .ps-sched-title span { font-weight: 600; color: rgba(255,255,255,0.55); }
@@ -579,7 +578,6 @@ button.ps-round-btn:focus-visible { outline: 2px solid var(--accent); outline-of
 .ps-game-rec { margin: 0; display: grid; grid-template-columns: 56px 1fr; gap: 6px 12px; font-size: 14px; }
 .ps-game-rec dt { color: var(--muted); font-weight: 600; }
 .ps-game-rec dd { margin: 0; font-weight: 600; }
-.ps-game-src { margin: 0; font-size: 12px; color: var(--muted); }
 
 /* 공유 버튼 */
 .share-row { display: flex; align-items: center; justify-content: space-between; gap: 12px; }
@@ -594,3 +592,11 @@ button.ps-round-btn:focus-visible { outline: 2px solid var(--accent); outline-of
 .ps-logo { width: 22px; height: 22px; object-fit: contain; }
 .ps-side:has(.ps-logo) { grid-template-columns: 22px 1fr auto; }
 .team-hero-logo { width: 64px; height: 64px; object-fit: contain; vertical-align: middle; margin-right: 14px; }
+
+/* 대진 출처: 블록 끝에 작게 접어 둔다(사실 정보라 표기 의무는 없지만 근거 링크는 남긴다) */
+.ps-sources { margin-top: 10px; font-size: 11px; color: var(--muted); text-align: right; }
+.ps-sources summary { cursor: pointer; list-style: none; display: inline; }
+.ps-sources summary::-webkit-details-marker { display: none; }
+.ps-sources[open] { text-align: left; }
+.ps-sources p { margin: 4px 0 0; }
+.ps-sources a { color: inherit; }

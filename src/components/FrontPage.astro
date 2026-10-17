@@ -143,7 +143,7 @@ const days = daysOf(all).slice(0, 7);
       );
     })}
   </div>
-  {standings && <p class="rail-note">{standings.label} 순위·연속 기록 · <a href={standings.source} target="_blank" rel="noopener noreferrer" data-no-modal>KBO 기록실</a> {Number(standings.as_of.slice(5, 7))}월 {Number(standings.as_of.slice(8, 10))}일 기준</p>}
+  {standings && <p class="rail-note">{standings.label} 순위 · <a href={standings.source} target="_blank" rel="noopener noreferrer" data-no-modal>{Number(standings.as_of.slice(5, 7))}월 {Number(standings.as_of.slice(8, 10))}일 기준</a></p>}
   {/* 날짜 칩(최근 7일): 고른 날짜의 소식만. 구단 배지는 그 날짜 안에서 구단을 거른다 */}
   <div class="rail-days" role="group" aria-label="날짜 선택">
     {railDays.map((d, n) => <button type="button" class="rail-day-chip" data-rail-day={d} aria-pressed={n === 0 ? 'true' : 'false'}>{dayLabel(d)}<span>{dayItems(d).length}</span></button>)}
