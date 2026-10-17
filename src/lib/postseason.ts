@@ -26,6 +26,7 @@ export const postseasonSchema = z.object({
       homers: z.array(z.string()).default([]), mvp: z.string().optional(), attendance: z.string().optional(),
       starter_notes: z.record(z.string(), z.string()).optional(), // 팀 id → 선발의 시즌 성적 한 줄(다음 경기 카드)
       facts: z.array(z.string()).default([]), // 관전 포인트(다음 경기 카드 가운데 칸)
+      highlight: z.string().url().optional(), // 하이라이트 영상(없으면 수집된 공식 YouTube 에서 자동으로 찾는다)
       sources: z.array(z.string().url()).default([]),
     })),
   })),
@@ -40,7 +41,7 @@ export function loadPostseason(root = process.cwd()): PostseasonData | null {
 
 const WEEKDAY = ['일', '월', '화', '수', '목', '금', '토'];
 export type Side = { id?: string; label: string; wins: number };
-export type GameRecord = { starters: [string?, string?]; starterNotes: [string?, string?]; facts: string[]; win?: string; loss?: string; save?: string; holds: string[]; homers: string[]; mvp?: string; attendance?: string; sources: string[] };
+export type GameRecord = { highlight?: string; starters: [string?, string?]; starterNotes: [string?, string?]; facts: string[]; win?: string; loss?: string; save?: string; holds: string[]; homers: string[]; mvp?: string; attendance?: string; sources: string[] };
 export type GameView = { round: string; roundName: string; no: number; date: string; weekday: string; time: string; venue: string; played: boolean; score?: string; sides: [Side, Side]; skipped: boolean; ifNeeded: boolean; record: GameRecord };
 export type RoundView = { id: string; name: string; short: string; toWin: number; sides: [Side, Side]; winner?: string; status: 'done' | 'live' | 'upcoming'; games: GameView[]; next?: GameView };
 
@@ -70,7 +71,7 @@ export function resolvePostseason(d: PostseasonData, today: string): { rounds: R
       return {
         round: r.id, roundName: r.name, no: g.no, date: g.date, weekday: WEEKDAY[day], time: day === 0 || day === 6 ? d.time.weekend : d.time.weekday,
         venue: venueName, played: !!score, score, skipped, ifNeeded: g.no > r.to_win,
-        record: { starters: [ids[0] ? g.starters?.[ids[0]] : undefined, ids[1] ? g.starters?.[ids[1]] : undefined], starterNotes: [ids[0] ? g.starter_notes?.[ids[0]] : undefined, ids[1] ? g.starter_notes?.[ids[1]] : undefined], facts: g.facts, win: g.win, loss: g.loss, save: g.save, holds: g.holds, homers: g.homers, mvp: g.mvp, attendance: g.attendance, sources: [...(g.source ? [g.source] : []), ...g.sources] },
+        record: { highlight: g.highlight, starters: [ids[0] ? g.starters?.[ids[0]] : undefined, ids[1] ? g.starters?.[ids[1]] : undefined], starterNotes: [ids[0] ? g.starter_notes?.[ids[0]] : undefined, ids[1] ? g.starter_notes?.[ids[1]] : undefined], facts: g.facts, win: g.win, loss: g.loss, save: g.save, holds: g.holds, homers: g.homers, mvp: g.mvp, attendance: g.attendance, sources: [...(g.source ? [g.source] : []), ...g.sources] },
         sides: [{ id: ids[0], label: labels[0], wins: 0 }, { id: ids[1], label: labels[1], wins: 0 }],
       };
     });
@@ -83,4 +84,25 @@ export function resolvePostseason(d: PostseasonData, today: string): { rounds: R
   });
   const next = rounds.map((r) => r.next).filter((g): g is GameView => !!g).sort((a, b) => a.date.localeCompare(b.date))[0];
   return { rounds, next };
+}
+
+/** 가장 최근에 끝난 경기(지난 경기 요약용) */
+export function lastPlayed(rounds: RoundView[]): GameView | undefined {
+  return rounds.flatMap((r) => r.games.filter((g) => g.played)).sort((a, b) => b.date.localeCompare(a.date))[0];
+}
+
+// 라운드별 제목 표기(공식 하이라이트 영상 제목에서 찾는다)
+const ROUND_WORDS: Record<string, string[]> = { wc: ['WC', '와일드카드'], spo: ['준PO', '준플레이오프'], po: ['PO', '플레이오프'], ks: ['KS', '한국시리즈'] };
+type Video = { url: string; title: string; published_at: string; source_type: string; official?: boolean };
+/** 수집된 공식 YouTube(KBO·구단) 영상 중 그 경기 하이라이트. 제목에 라운드·차전·'하이라이트|H/L' 이 모두 있어야 한다 */
+export function findHighlight(videos: Video[], g: GameView): string | undefined {
+  if (g.record.highlight) return g.record.highlight;
+  const words = ROUND_WORDS[g.round] ?? [];
+  const md = `${Number(g.date.slice(5, 7))}.${g.date.slice(8, 10)}`;
+  const hit = videos.filter((v) => v.source_type === 'youtube' && v.official && v.published_at.slice(0, 10) >= g.date)
+    .filter((v) => /하이라이트|H\/L|highlight/i.test(v.title))
+    .filter((v) => words.some((w) => (g.round === 'po' ? new RegExp(`(?<!준)${w}`) : new RegExp(w)).test(v.title)))
+    .filter((v) => new RegExp(`${g.no}차전|${words[0]}\\s?${g.no}(?!\\d)`).test(v.title) || v.title.includes(md))
+    .sort((a, b) => a.published_at.localeCompare(b.published_at));
+  return hit[0]?.url;
 }

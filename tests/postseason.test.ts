@@ -1,6 +1,6 @@
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
-import { loadPostseason, resolvePostseason } from '../src/lib/postseason.ts';
+import { loadPostseason, resolvePostseason, lastPlayed, findHighlight } from '../src/lib/postseason.ts';
 import { loadTeams } from '../src/lib/config.ts';
 
 const d = loadPostseason()!;
@@ -49,4 +49,15 @@ test('경기 기록: 선발은 대진 순서대로, 출처는 결과 기사 + �
   assert.ok(next!.record.facts.length >= 1);
   assert.equal(rounds[1].games[3].ifNeeded, true); // 3선승제 4차전은 미확정
   assert.equal(rounds[1].games[2].ifNeeded, false);
+});
+test('지난 경기와 하이라이트 찾기', () => {
+  const { rounds } = resolvePostseason(d, '2026-10-17');
+  const last = lastPlayed(rounds)!;
+  assert.equal(last.round, 'spo'); assert.equal(last.no, 1);
+  const wc1 = rounds[0].games[0];
+  const v = (title: string, official = true, at = '2026-10-14T13:00:00Z') => ({ url: `https://www.youtube.com/watch?v=${encodeURIComponent(title).slice(0, 11)}`, title, published_at: at, source_type: 'youtube', official });
+  const vids = [v('[두산베어스 vs LG트윈스] 10.14(수) WC 1차전 하이라이트｜2026'), v('준PO 1차전 하이라이트', true, '2026-10-17T09:00:00Z'), v('WC 1차전 하이라이트 팬 리액션', false)];
+  assert.equal(findHighlight(vids, wc1), vids[0].url);
+  assert.equal(findHighlight(vids, last), vids[1].url);
+  assert.equal(findHighlight([v('PO 1차전 하이라이트', true, '2026-10-26T00:00:00Z')], last), undefined); // 준PO 경기에 PO 영상은 안 붙는다
 });
