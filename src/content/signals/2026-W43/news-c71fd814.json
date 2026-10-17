@@ -1,0 +1,23 @@
+{
+  "id": "news-c71fd814",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://www.mt.co.kr/amp/sports/2026/10/18/202610180133775720O",
+  "title": "‘지난해 타율 .528 원맨쇼’ NC 고준휘, 두 번째 폴리그는 다르다…“부족한 부분 채우는 게 우선”",
+  "published_at": "2026-10-17T19:00:00.000Z",
+  "collected_at": "2026-10-17T21:38:12.513Z",
+  "summary_ko": "NC 고준휘가 두 번째 폴리그를 앞두고 부족한 부분을 채우는 게 우선이라고 말했다. 지난해 폴리그에서는 타율 .528을 기록했다고 기사는 전한다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "image": "https://menu.mt.co.kr/cdn-cgi/image/w=1200,h=1382,fit=cover,bg=white,f=auto,quality=high,sharpen=2,g=face/mobile/osen/data/2026/10/18/202610180133775720_1.jpg"
+}

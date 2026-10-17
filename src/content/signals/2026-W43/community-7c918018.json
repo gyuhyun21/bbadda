@@ -1,0 +1,24 @@
+{
+  "id": "community-7c918018",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 레우스 스포츠",
+  "url": "https://blog.naver.com/borussenreus/224445052298",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/1lOUVJDbFXo",
+  "title": "“2만3000석 매진” 최광야구 다른 구단도 따라 할까?",
+  "published_at": "2026-10-18T00:10:00.000+09:00",
+  "collected_at": "2026-10-17T21:38:12.513Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

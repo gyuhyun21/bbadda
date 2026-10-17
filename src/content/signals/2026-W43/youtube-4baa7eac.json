@@ -1,0 +1,26 @@
+{
+  "id": "youtube-4baa7eac",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "source_name": "⚾ 야구기록실",
+  "url": "https://www.youtube.com/watch?v=-aDoCn-Fcrg",
+  "title": "9위 한화가 꺼낸 카드 류지현 왕옌청 와이스#한화이글스 #류지현 #와이스",
+  "published_at": "2026-10-17T17:00:11Z",
+  "collected_at": "2026-10-17T21:38:12.513Z",
+  "summary_ko": "9위로 시즌을 마친 한화가 류지현 감독 체제에서 왕옌청, 와이스 카드를 꺼냈다는 내용의 영상이다.",
+  "metrics": {
+    "views": 2,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 5,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

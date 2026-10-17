@@ -1,0 +1,27 @@
+{
+  "id": "youtube-1860e4d1",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "SSG랜더스",
+  "url": "https://www.youtube.com/watch?v=4oK0M8zV3rk",
+  "title": "26시즌 랜필에서의 마지막 불꽃놀이✨",
+  "published_at": "2026-10-17T15:25:02Z",
+  "collected_at": "2026-10-17T21:38:12.513Z",
+  "summary_ko": "SSG 공식 채널이 26시즌 랜더스필드 마지막 불꽃놀이 영상을 올렸다.",
+  "metrics": {
+    "views": 10698,
+    "likes": 750,
+    "comments": 29
+  },
+  "scores": {
+    "hot": 86,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

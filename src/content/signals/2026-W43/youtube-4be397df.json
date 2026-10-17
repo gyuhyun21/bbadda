@@ -1,0 +1,26 @@
+{
+  "id": "youtube-4be397df",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "youtube",
+  "source_name": "미스터인천",
+  "url": "https://www.youtube.com/watch?v=64lBm041uYs",
+  "title": "SSG랜더스 김민준 응원가 - 기존 임근우 응원가 (261017 최광야구)",
+  "published_at": "2026-10-17T18:39:49Z",
+  "collected_at": "2026-10-17T21:38:12.513Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 11,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 12,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

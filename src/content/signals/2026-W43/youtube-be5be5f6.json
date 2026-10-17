@@ -1,0 +1,26 @@
+{
+  "id": "youtube-be5be5f6",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "함바로그",
+  "url": "https://www.youtube.com/watch?v=I27bbCm92aM",
+  "title": "김영웅 호수비 후 페덱의 팡팡 #shorts #김영웅 #페덱 #삼성라이온즈 #호수비 #덕아웃 #라이온즈파크 #KBO",
+  "published_at": "2026-10-17T16:15:25Z",
+  "collected_at": "2026-10-17T21:38:12.513Z",
+  "summary_ko": "삼성 김영웅의 호수비 뒤 더그아웃 장면을 담은 팬 쇼츠 영상이다.",
+  "metrics": {
+    "views": 140,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 25,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

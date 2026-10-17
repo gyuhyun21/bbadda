@@ -1,0 +1,26 @@
+{
+  "id": "youtube-12b5a26c",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "youtube",
+  "source_name": "TWO:SI 시우와 시온",
+  "url": "https://www.youtube.com/watch?v=Ruyf7PdmR3c",
+  "title": "2026야구안녕#두산베어스#가을야구#아쉽지만#괜찮아요#내년이 있잖아요#얘네도 열심히 할거에요#화이팅",
+  "published_at": "2026-10-17T13:44:20Z",
+  "collected_at": "2026-10-17T21:38:12.513Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 30,
+    "likes": 2,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 57,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

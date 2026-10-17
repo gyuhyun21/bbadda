@@ -1,0 +1,27 @@
+{
+  "id": "youtube-277e3963",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "골글TV",
+  "url": "https://www.youtube.com/watch?v=_U0rmevj5Fw",
+  "title": "투수 교체까지 했는데 결국 볼넷? 9회말 2아웃 만루의 충격적인 결말",
+  "published_at": "2026-10-17T03:15:32Z",
+  "collected_at": "2026-10-17T21:38:12.513Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 2138,
+    "likes": 19,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 45,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

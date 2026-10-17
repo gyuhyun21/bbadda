@@ -1,0 +1,24 @@
+{
+  "id": "community-d6961763",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": false,
+  "source_type": "community",
+  "source_name": "블로그 hidecaos40님의 블로그",
+  "url": "https://blog.naver.com/hidecaos40/224444759619",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/93LftqiMST8",
+  "title": "이범호 감독 “큰 경기 경험한 제임스 네일, 준PO 1차전 선발이 맞다”",
+  "published_at": "2026-10-17T16:23:00.000+09:00",
+  "collected_at": "2026-10-17T21:38:12.513Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

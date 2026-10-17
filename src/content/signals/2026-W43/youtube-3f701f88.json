@@ -1,0 +1,27 @@
+{
+  "id": "youtube-3f701f88",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "SSG랜더스",
+  "url": "https://www.youtube.com/watch?v=3TR8oCySpU4",
+  "title": "인천 야구의 에이스였던 우리가 막내라고?😳 ㅣ 최광야구 1429 EP.3 불꽃놀이 페이크 다큐",
+  "published_at": "2026-10-17T16:40:35Z",
+  "collected_at": "2026-10-17T21:38:12.513Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 15410,
+    "likes": 695,
+    "comments": 128
+  },
+  "scores": {
+    "hot": 88,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

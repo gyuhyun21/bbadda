@@ -1,0 +1,23 @@
+{
+  "id": "news-3f4387dc",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "뉴시스",
+  "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261017_0003829947",
+  "title": "'PS 4번 타자'로 거듭난 LG 문정빈 \"WC에서 긴장 다 풀고 왔다\"[준PO]",
+  "published_at": "2026-10-17T04:15:18.000Z",
+  "collected_at": "2026-10-17T21:38:12.513Z",
+  "summary_ko": "LG 문정빈이 포스트시즌 4번 타자로 나서고 있다. 와일드카드 결정전에서 긴장을 다 풀고 왔다고 말했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 62,
+    "relevance": 80
+  },
+  "sentiment": "neutral",
+  "image": "https://img1.newsis.com/2026/10/17/NISI20261017_0002266051_web.jpg"
+}

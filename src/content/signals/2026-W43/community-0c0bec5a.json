@@ -1,0 +1,24 @@
+{
+  "id": "community-0c0bec5a",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 이세상스포츠",
+  "url": "https://blog.naver.com/biasnews/224445057192",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/8oBseGtHYfq",
+  "title": "김도영이 가을야구 첫날 보여준 슈퍼스타의 자질... 염경엽 감독도 고개 끄덕였다",
+  "published_at": "2026-10-18T00:04:00.000+09:00",
+  "collected_at": "2026-10-17T21:38:12.513Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

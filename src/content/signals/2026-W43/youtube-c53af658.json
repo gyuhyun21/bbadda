@@ -1,0 +1,27 @@
+{
+  "id": "youtube-c53af658",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "SSG랜더스",
+  "url": "https://www.youtube.com/watch?v=8WxnSTCbk2A",
+  "title": "으쓱이 여러분 한 분 한 분의 목소리와 불빛이 모여 랜필을 가득 채운 오늘!",
+  "published_at": "2026-10-17T15:05:02Z",
+  "collected_at": "2026-10-17T21:38:12.513Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 17154,
+    "likes": 1473,
+    "comments": 63
+  },
+  "scores": {
+    "hot": 88,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

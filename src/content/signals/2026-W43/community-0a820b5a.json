@@ -1,0 +1,23 @@
+{
+  "id": "community-0a820b5a",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "엠엘비파크",
+  "url": "https://mlbpark.donga.com/mp/b.php?b=kbotown&id=202610170119474046&m=view&ref=burning",
+  "title": "기아그룹은 거지가 아닌데, 기아 타이거즈 구단이 거지일 뿐이죠....",
+  "published_at": "2026-10-16T15:00:00.000Z",
+  "collected_at": "2026-10-17T21:38:12.513Z",
+  "summary_ko": "",
+  "excerpt": "... 가이 타이거즈 구단은 모그룹에서 돈을 못 타올 뿐이고모그룹은 거지가 아닌데, 마인드가 …",
+  "metrics": {},
+  "scores": {
+    "hot": 57,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}
