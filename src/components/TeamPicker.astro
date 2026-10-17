@@ -1,10 +1,11 @@
 ---
 // 팀 칩 10개 — 누르면 내 팀으로 저장(Layout 스크립트가 data-pick-team 을 처리)
-import { TEAMS, teamColor } from '../lib/site.ts';
+import { TEAMS } from '../lib/site.ts';
+import TeamPickChip from './TeamPickChip.astro';
 ---
 <div class="team-picker" data-no-team>
-  <p class="team-picker-q">내 팀은 어디인가요?</p>
+  <p class="team-picker-q">MY팀은 어디인가요?</p>
   <div class="team-picker-chips">
-    {TEAMS.map((t) => <button type="button" class="team-chip team-chip--btn" data-pick-team={t.id} data-color={teamColor(t.id)} data-name={t.name} data-short={t.short}><span class="team-dot" style={`background:${teamColor(t.id)}`} aria-hidden="true"></span>{t.name}</button>)}
+    {TEAMS.map((t) => <TeamPickChip t={t} />)}
   </div>
 </div>

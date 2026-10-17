@@ -52,7 +52,7 @@ const days = daysOf(all).slice(0, 7);
   <ul>
     <li><a href="#h-postseason" data-spy="h-postseason">가을야구 대진</a></li>
     <li><a href="#h-headline" data-spy="h-headline">헤드라인</a></li>
-    <li data-side-myteam hidden><a href="#" data-spy="myteam">내 팀</a></li>
+    <li data-side-myteam hidden><a href="#" data-spy="myteam">MY팀</a></li>
     <li><a href="#h-team-rail" data-spy="h-team-rail">구단별 소식</a></li>
     <li><a href="#h-season" data-spy="h-season">{seasonTitle()}</a></li>
     <li><a href="#h-official-videos" data-spy="h-official-videos">오피셜 영상</a></li>
@@ -97,7 +97,7 @@ const days = daysOf(all).slice(0, 7);
   const list = newFirst(recent(ofTeam(all, t.id), 7)).slice(0, 8);
   return (
     <section class="block myteam-now" id={`myteam-${t.id}`} data-myteam-block={t.id} aria-label={`${t.name} 최근 소식`}>
-      <div class="block-head"><h2><TeamChip id={t.id} /> 내 팀 소식</h2><a href={`/teams/${t.id}`}>팀 페이지 →</a></div>
+      <div class="block-head"><h2><TeamChip id={t.id} /> MY팀 소식</h2><a href={`/teams/${t.id}`}>팀 페이지 →</a></div>
       {list.length ? <div class="row-cards">{list.map((s) => <SignalCard signal={s} />)}</div> : <p class="empty-hint">아직 {t.name} 소식이 없습니다.</p>}
     </section>
   );
