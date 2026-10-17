@@ -1,0 +1,11 @@
+---
+// MY팀 고르기 칩 하나: 로고 + 애칭(없으면 팀 컬러 점 + 짧은 이름). 누르면 Layout 스크립트가 data-pick-team 을 처리
+import { teamColor, teamLogo } from '../lib/site.ts';
+import type { Team } from '../lib/config.ts';
+const { t } = Astro.props as { t: Team };
+const logo = teamLogo(t.id);
+const nick = t.nickname ?? t.short;
+---
+<button type="button" class="team-chip team-chip--btn" data-pick-team={t.id} data-color={teamColor(t.id)} data-name={t.name} data-short={t.short} data-nick={nick} data-logo={logo} title={t.name} aria-label={`${t.name}(${nick})`}>
+  {logo ? <img class="team-chip-logo" src={logo} alt="" width="22" height="22" /> : <span class="team-dot" style={`background:${teamColor(t.id)}`} aria-hidden="true"></span>}{nick}
+</button>

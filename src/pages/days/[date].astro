@@ -42,7 +42,7 @@ const order = [...TEAMS].sort((a, b) => list.filter((s) => s.teams.includes(b.id
     </section>
   )}
   <section class="block teams" aria-labelledby="h-day-teams">
-    <div class="block-head"><h2 id="h-day-teams">팀별</h2><span class="small">내 팀이 맨 위에 펼쳐집니다</span></div>
+    <div class="block-head"><h2 id="h-day-teams">팀별</h2><span class="small">MY팀이 맨 위에 펼쳐집니다</span></div>
     <div class="team-sections" data-team-sort>
       {order.map((t, n) => <TeamSection id={t.id} signals={list} open={n === 0} />)}
     </div>

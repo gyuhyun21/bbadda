@@ -21,7 +21,7 @@ const teamDays = daysOf(mine);
     <p class="eyebrow">{t.city} · KBO 리그</p>
     <h1 class="page-title">{teamLogo(t.id) && <img class="team-hero-logo" src={teamLogo(t.id)} alt="" width="64" height="64" />}{t.name}</h1>
     <div class="team-hero-actions" data-pagefind-ignore>
-      <button type="button" class="team-chip team-chip--btn" data-pick-team={t.id} data-color={teamColor(t.id)} data-name={t.name} data-short={t.short}>★ 내 팀으로</button>
+      <button type="button" class="team-chip team-chip--btn" data-pick-team={t.id} data-color={teamColor(t.id)} data-name={t.name} data-short={t.short} data-nick={t.nickname ?? t.short} data-logo={teamLogo(t.id)}>★ MY팀으로</button>
       <ShareButton />
       {t.website && <a class="small" href={t.website} target="_blank" rel="noopener noreferrer">공식 웹사이트</a>}
       {t.youtube && <a class="small" href={t.youtube} target="_blank" rel="noopener noreferrer">공식 YouTube</a>}

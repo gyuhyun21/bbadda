@@ -4,6 +4,7 @@ import '../styles/magazine.css';
 import '../styles/apple.css';
 import '../styles/soft.css';
 import OfficialLinks from './OfficialLinks.astro';
+import TeamPickChip from './TeamPickChip.astro';
 import { siteLayout, articleModal } from '../lib/config.ts';
 import { SITE_NAME, TEAMS, teamColor } from '../lib/site.ts';
 interface Props { title?: string; description?: string; sample?: boolean; searchable?: boolean; image?: string }
@@ -86,12 +87,12 @@ const myTeamCss = TEAMS.map((t) => `html[data-my-team="${t.id}"] [data-myteam-bl
         </div>
         <div class="myteam">
           <button type="button" class="myteam-btn" data-myteam-toggle aria-expanded="false" aria-controls="myteam-panel">
-            <span class="team-dot" data-myteam-dot aria-hidden="true"></span><span data-myteam-label>내 팀 고르기</span>
+            <span class="team-dot" data-myteam-dot aria-hidden="true"></span><span data-myteam-label>MY팀 고르기</span>
           </button>
           <div class="myteam-panel" id="myteam-panel" hidden>
-            <p class="small">내 팀을 고르면 그 팀 소식이 맨 위에 옵니다. 이 기기에만 저장됩니다.</p>
+            <p class="small">MY팀을 고르면 그 팀 소식이 맨 위에 옵니다. 이 기기에만 저장됩니다.</p>
             <div class="team-picker-chips">
-              {TEAMS.map((t) => <button type="button" class="team-chip team-chip--btn" data-pick-team={t.id} data-color={teamColor(t.id)} data-name={t.name} data-short={t.short}><span class="team-dot" style={`background:${teamColor(t.id)}`} aria-hidden="true"></span>{t.name}</button>)}
+              {TEAMS.map((t) => <TeamPickChip t={t} />)}
             </div>
             <button type="button" class="link-btn" data-pick-team="">선택 해제</button>
           </div>
@@ -238,13 +239,16 @@ const myTeamCss = TEAMS.map((t) => `html[data-my-team="${t.id}"] [data-myteam-bl
       const apply = (id: string) => {
         const b = btns.find((x) => x.dataset.pickTeam === id && id);
         if (b) html.dataset.myTeam = id; else delete html.dataset.myTeam;
-        // 넓은 화면은 '내 팀 · 롯데 자이언츠', 휴대폰은 '롯데'(짧은 이름)
+        // 넓은 화면은 'MY팀 · 갈매기', 휴대폰은 '갈매기'(애칭). 점 자리에 구단 로고
         if (label) {
-          const long = document.createElement('span'); long.className = 'mt-long'; long.textContent = b ? `내 팀 · ${b.dataset.name}` : '내 팀 고르기';
-          const short = document.createElement('span'); short.className = 'mt-short'; short.textContent = b ? (b.dataset.short ?? b.dataset.name ?? '') : '내 팀';
+          const long = document.createElement('span'); long.className = 'mt-long'; long.textContent = b ? `MY팀 · ${b.dataset.nick ?? b.dataset.short}` : 'MY팀 고르기';
+          const short = document.createElement('span'); short.className = 'mt-short'; short.textContent = b ? (b.dataset.nick ?? b.dataset.short ?? '') : 'MY팀';
           label.replaceChildren(long, short);
         }
-        if (dot) dot.style.background = b?.dataset.color ?? 'transparent';
+        if (dot) {
+          dot.classList.toggle('has-logo-dot', !!b?.dataset.logo);
+          dot.style.background = b?.dataset.logo ? `#fff url("${b.dataset.logo}") center / 80% no-repeat` : b?.dataset.color ?? 'transparent';
+        }
         btns.forEach((x) => x.setAttribute('aria-pressed', String(!!id && x.dataset.pickTeam === id)));
         document.querySelectorAll<HTMLElement>('[data-team-sort]').forEach((box) => {
           const mine = box.querySelector<HTMLElement>(`:scope > [data-team-section="${id}"]`);

@@ -10,6 +10,7 @@ const teamSchema = z.object({
   id: z.string().regex(/^[a-z]+$/),
   name: z.string(),
   short: z.string(),
+  nickname: z.string().optional(),
   city: z.string(),
   color: z.string().regex(/^#[0-9A-Fa-f]{6}$/).nullable().default(null),
   website: url,
