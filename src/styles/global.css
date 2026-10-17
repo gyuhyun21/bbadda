@@ -208,7 +208,6 @@ p { margin: 0 0 1em; }
 .community-list .chip--slang { grid-column: 2; grid-row: 2; justify-self: start; }
 .community-sum { grid-column: 2 / -1; margin: 0; font-size: 14px; color: var(--muted); }
 .community-note { margin-bottom: 16px; max-width: 720px; }
-.community-foot { margin-top: 12px; }
 @media (max-width: 640px) {
   .community-list li { grid-template-columns: 1fr; }
   .community-list li > * { grid-column: 1 !important; grid-row: auto !important; }
