@@ -30,7 +30,9 @@ const examples = ['LG 트윈스', '한화', '포스트시즌', '한국시리즈'
     <script is:inline>
       window.addEventListener('DOMContentLoaded', function () {
         if (!window.PagefindUI) { document.getElementById('search-fallback').hidden = false; return; }
-        var ui = new window.PagefindUI({ element: '#search', showSubResults: true, showImages: false, autofocus: false, translations: { placeholder: '팀·선수·키워드를 입력하세요' } });
+        var ui = new window.PagefindUI({ element: '#search', showSubResults: true, showImages: false, autofocus: false, translations: { placeholder: '팀·선수·키워드를 입력하세요' },
+          // 한글은 글자 단위로 색인돼 '이도영'이 '이'·'도'·'영'이 흩어져 있는 글에도 걸린다 — 단어마다 따옴표를 씌워 구절 그대로 일치하는 글만 찾는다
+          processTerm: function (term) { return term.replace(/"/g, ' ').trim().split(/\s+/).filter(Boolean).map(function (w) { return '"' + w + '"'; }).join(' '); } });
         // 머리말 검색창에서 넘어온 검색어(?q=)로 바로 검색한다
         var q = new URLSearchParams(location.search).get('q');
         if (q && q.trim()) { ui.triggerSearch(q.trim()); setTimeout(function () { var el = document.querySelector('#search input'); if (el) { el.value = q.trim(); document.body.classList.add('search-active'); } }, 0); }
