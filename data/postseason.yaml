@@ -46,7 +46,7 @@ rounds:
         win: 네일
         loss: 톨허스트
         save: 전상현
-        holds: [성영탁]
+        holds: ["성영탁(KIA)"] # 홀드는 '이름(팀)'
         homers: ["송찬의(LG) 2회 솔로", "카스트로(KIA) 2회 솔로", "김도영(KIA) 4회 솔로", "김도영(KIA) 8회 투런"]
         sources: ["https://www.newsis.com/view/NISX20261016_0003828587"] # 예고 선발
       - no: 2
