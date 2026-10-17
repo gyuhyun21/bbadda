@@ -1,0 +1,38 @@
+{
+  "id": "youtube-da3ed98f",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "lg"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "기아타이거즈 KIA TIGERS",
+  "url": "https://www.youtube.com/watch?v=wAYg69AID9k",
+  "title": "준플레이오프 1차전 승리!!!! | 10월 17일 KIA vs LG 하이라이트",
+  "published_at": "2026-10-17T08:53:19Z",
+  "collected_at": "2026-10-17T12:25:43.619Z",
+  "summary_ko": "KIA 구단 공식 채널이 준PO 1차전 승리 하이라이트 영상을 올렸다.",
+  "metrics": {
+    "views": 173657,
+    "likes": 4296,
+    "comments": 386
+  },
+  "scores": {
+    "hot": 79,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB4QmZEX01JOEhLT3FHYWN4MnIzMExXV21NMFRvQ3lvNDVUbmVaMWFTZ2JPVnVHNUNPcGlJQVdyUms1dnFpQjRTa3pNMDZlR3QzLVR0bEpvU2V3TmhGS1FUX2xNbkxFNVJ6ZzlSZjdzMNIBb0FVX3lxTFB4QmZEX01JOEhLT3FHYWN4MnIzMExXV21NMFRvQ3lvNDVUbmVaMWFTZ2JPVnVHNUNPcGlJQVdyUms1dnFpQjRTa3pNMDZlR3QzLVR0bEpvU2V3TmhGS1FUX2xNbkxFNVJ6ZzlSZjdzMA?oc=5"
+    },
+    {
+      "source_name": "스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAycnNoZGN4LVhRMnZQTzc1NmNoZTZTTHBWbHF4UXN1cG1yMm5NRExDYzFBckVBZk1Hejk4ZDNsUUs5eTFXQ2d3VWxBekhjbjMtaDlBR2tOU1NZdTl3NmNaa3d3MWpfd3ZzdURvaFVURFFCcnhxMVE?oc=5"
+    }
+  ]
+}

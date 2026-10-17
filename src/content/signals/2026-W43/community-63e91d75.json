@@ -1,0 +1,24 @@
+{
+  "id": "community-63e91d75",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&document_srl=10454400039",
+  "title": "사무국이 저딴 제안 한 심리 분석 (장문) - 야구",
+  "published_at": "2026-10-16T17:25:43.619Z",
+  "collected_at": "2026-10-17T12:25:43.619Z",
+  "summary_ko": "",
+  "excerpt": "... 삼성라이온즈 이번에 우승 못하면 27년 삼성팬 접는다. 타팀에 대해 잘 모르면 안 다루는 게…",
+  "metrics": {},
+  "scores": {
+    "hot": 61,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

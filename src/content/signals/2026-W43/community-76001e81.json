@@ -1,0 +1,23 @@
+{
+  "id": "community-76001e81",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 민군's 인물트렌드",
+  "url": "https://blog.naver.com/ibpms/224444821367",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/Bng3z7TiB99",
+  "title": "\"김영웅이냐, 전병우냐\"…PO 앞둔 박진만 감독의 깊어지는 고민, 삼성 3루수 주인은 누구?",
+  "published_at": "2026-10-17T17:45:00.000+09:00",
+  "collected_at": "2026-10-17T12:25:43.619Z",
+  "summary_ko": "PO를 앞두고 삼성 박진만 감독이 3루수로 김영웅과 전병우 중 누구를 쓸지 고민한다는 블로그 글이다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

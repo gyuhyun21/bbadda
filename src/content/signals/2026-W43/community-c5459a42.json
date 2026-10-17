@@ -1,0 +1,24 @@
+{
+  "id": "community-c5459a42",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 승부기차",
+  "url": "https://blog.naver.com/seungbutrain/224443159511",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/IJZG7IafdcN",
+  "title": "프로야구 와일드카드전, 역대 가장 극적인 승부는? 5위 팀의 반란과 이변의 순간",
+  "published_at": "2026-10-17T16:00:00.000+09:00",
+  "collected_at": "2026-10-17T12:25:43.619Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

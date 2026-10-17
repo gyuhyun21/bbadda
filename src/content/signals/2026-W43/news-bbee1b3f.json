@@ -1,0 +1,22 @@
+{
+  "id": "news-bbee1b3f",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "news",
+  "source_name": "OhmyNews",
+  "url": "https://m.ohmynews.com/NWS_Web/Mobile/amp.aspx?CNTN_CD=A0003275397",
+  "title": "두산의 가을야구는 끝났지만... '대한민국 1선발' 자격 증명한 곽빈",
+  "published_at": "2026-10-15T00:33:00.000Z",
+  "collected_at": "2026-10-17T12:25:43.619Z",
+  "summary_ko": "두산의 가을야구는 끝났지만 와일드카드전에서 곽빈이 '대한민국 1선발' 자격을 보여줬다는 오마이뉴스의 평가다.",
+  "metrics": {},
+  "scores": {
+    "hot": 47,
+    "relevance": 80
+  },
+  "sentiment": "neutral"
+}

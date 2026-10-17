@@ -1,0 +1,27 @@
+{
+  "id": "youtube-b055afa9",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "더블스틸  DOUBLE STEAL",
+  "url": "https://www.youtube.com/watch?v=y6IOqe_S6QE",
+  "title": "NC의 플레이를 활용하는 삼성의 작전 #야구 #프로야구",
+  "published_at": "2026-10-17T01:42:24Z",
+  "collected_at": "2026-10-17T12:25:43.619Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 42872,
+    "likes": 207,
+    "comments": 15
+  },
+  "scores": {
+    "hot": 55,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

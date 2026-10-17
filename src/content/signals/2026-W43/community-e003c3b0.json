@@ -1,0 +1,23 @@
+{
+  "id": "community-e003c3b0",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 혀니의 생활경제 연구소",
+  "url": "https://blog.naver.com/metalxena/224443087271",
+  "title": "역대 한국시리즈 우승팀 총정리 1982~2025년 연도별 우승 기록",
+  "published_at": "2026-10-16T19:50:00.000+09:00",
+  "collected_at": "2026-10-17T12:25:43.619Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 59,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

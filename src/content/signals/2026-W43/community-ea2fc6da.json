@@ -1,0 +1,24 @@
+{
+  "id": "community-ea2fc6da",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "디시 야구 갤러리",
+  "url": "https://gall.dcinside.com/mgallery/board/lists/?id=winorwow",
+  "title": "승리의 라이온즈 마이너 갤러리 - 커뮤니티 포털 디시인사이드",
+  "published_at": "2026-10-14T15:00:00.000Z",
+  "collected_at": "2026-10-17T12:25:43.619Z",
+  "summary_ko": "",
+  "excerpt": "... 삼성라이온즈의 승리를 위해 팬들이 모여 응원하고 토론하는 갤러리입니다. - 승리의 라이온즈 갤러리에 다양한 이야기를…",
+  "metrics": {},
+  "scores": {
+    "hot": 43,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

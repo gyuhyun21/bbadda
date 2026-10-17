@@ -1,0 +1,23 @@
+{
+  "id": "news-bc7783e6",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1LODRqSlZodEVjVnZUZ1A4T1g0eVBFMnp5RnN5RERvSkxvQ1Ixb1MxbmhONkN3WEd0c09RVWZVUVQtUXNQeFZnbVJoTWtuTV9SVDRBR0t1dy1xX0x5VTdzUF9FMGxsZ3VZMnp4aEpsY9IBb0FVX3lxTE1LODRqSlZodEVjVnZUZ1A4T1g0eVBFMnp5RnN5RERvSkxvQ1Ixb1MxbmhONkN3WEd0c09RVWZVUVQtUXNQeFZnbVJoTWtuTV9SVDRBR0t1dy1xX0x5VTdzUF9FMGxsZ3VZMnp4aEpsYw?oc=5",
+  "title": "[사진] 카스트로, 순식간에 동점 솔로포",
+  "published_at": "2026-10-17T05:47:00.000Z",
+  "collected_at": "2026-10-17T12:25:43.619Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 82,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "news-fa523463",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "SPOTV NEWS",
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1QdHVyRDdwaHZua3I2eTZxTVBRYXNPMlYxb0JFMGdIM3J4TjFFSFptYTlhSFB6MV9kSWdndmR3Y3duTU1tckxudTc5cEhTTkZsZi1UZ3NvanBNS2dQMWQ3Nlo1Wmw5QVc5aThReE5kbW0?oc=5",
+  "title": "[부고] LG 트윈스 투수 임찬규 빙모상",
+  "published_at": "2026-10-17T09:31:18.000Z",
+  "collected_at": "2026-10-17T12:25:43.619Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 99,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9DdnA4bExLWENITHpaNEFFSWdlbS1fdFRaWU1NMGo4S3FzYjZYcG4yZVVocDQ1d1lRdWVuZENVclFNZlRxLXROZmdHWGMxQ0R6RzRUX01SUQ?oc=5"
+    },
+    {
+      "source_name": "한스경제",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB6NU1fRURuNVVESzVlY3BzM1NKdE1nVzFjMFU4NWFKTzd0OFl4ckk0YVBZVUtJRHVzZmRRVXcwNlhsSE9OWVdCTjVXQUl0MWRtME1FZlZPN21qdWNSNEotMW1FdENoaXRZVGg00gFvQVVfeXFMTUp6cWRPNGk4SWtoVGNLeWp0T0dCbWthQkxZeDIySXNoQ21jbVhBM29Cd3lhNVpTOFJReUlQNlpQUHpUYXNBRDBDVC10cDVNTGR2aVZVOHd4ZVMta0FJaUZNV2lac2ZkMnBmQk5IT3l3?oc=5"
+    },
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5sWnp4TzR2Ujd4Z2l1dWFFVkxscTBOdEd0TUVud3U2LWVyVjZJUTdWWG1jbklqNmhkcTBiLWVPTnc1cGhxcnlpR0l5RU5HTG5hUk9PdzRVbFdTYmFEUDFSYjIwOUkxUkpSaEHSAW9BVV95cUxOZ2lyWl9lNmZNbVlDZlZudWNUSGtjRWtHQktZZHE5LUd6dWNKOVRGNzllYm84MUdXS24zLUM0ZU5meGVKM09UbFZuT0U1VWpwRGxRVXFibVQzclVqUHhVMG1KanFZVmVqZ3kwcnRpRlk?oc=5"
+    },
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPLWNwdjFRbVJ0U2QwNHRXS3hQTnZYclBjUTJ3WGw1M0JMNDZ5b1RLOGRnUl96R3pDZ3A0djUwNC11YzdRTHZ5cmFWZjI0S0QtYktCRXdrU1oycE9UUWQzLVQwamlfcWlEMmxTYV80bTc4aHZSNlFvMzdjc1hkWUJ3WkZxYw?oc=5"
+    }
+  ]
+}

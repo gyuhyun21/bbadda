@@ -1,0 +1,23 @@
+{
+  "id": "community-d79a9459",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "community",
+  "source_name": "디시 야구 갤러리",
+  "url": "https://gall.dcinside.com/board/view/?id=ktwiz&no=6272762",
+  "title": "kt 위즈",
+  "published_at": "2026-10-14T15:00:00.000Z",
+  "collected_at": "2026-10-17T12:25:43.619Z",
+  "summary_ko": "",
+  "excerpt": "... 느그 깡철이 긁혀서 현민으로 스퀴즈하려고 연습하는거지.",
+  "metrics": {},
+  "scores": {
+    "hot": 43,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "youtube-72b7fbee",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "youtube",
+  "source_name": "야빗",
+  "url": "https://www.youtube.com/watch?v=31CQOn4STGM",
+  "title": "前 두산 베어스 김재환 응원가 M/V",
+  "published_at": "2026-10-17T10:50:37Z",
+  "collected_at": "2026-10-17T12:25:43.619Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 9,
+    "likes": 2,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 51,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

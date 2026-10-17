@@ -1,0 +1,23 @@
+{
+  "id": "community-f0a415ac",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "community",
+  "source_name": "다음카페 쭉빵카페",
+  "url": "https://cafe.daum.net/ok1221/8mNz/1176707",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/6vPwfNVFN3Y",
+  "title": "안녕하십니까 두산베어스 김민석입니다",
+  "published_at": "2026-10-16T19:51:58.000+09:00",
+  "collected_at": "2026-10-17T12:25:43.619Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 59,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

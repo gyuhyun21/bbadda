@@ -1,0 +1,23 @@
+{
+  "id": "news-9e3c8456",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "뉴시스",
+  "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261017_0003830065",
+  "title": "'승리 주역' KIA 김도영 \"카스트로 고백보다 네일 뽀뽀가 더 기억 남아\"[준PO]",
+  "published_at": "2026-10-17T09:14:09.000Z",
+  "collected_at": "2026-10-17T12:25:43.619Z",
+  "summary_ko": "KIA 김도영이 준PO 1차전 승리 뒤 인터뷰에서 카스트로의 고백보다 네일의 뽀뽀가 더 기억에 남는다고 말했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 80
+  },
+  "sentiment": "positive",
+  "image": "https://img1.newsis.com/2026/10/17/NISI20261017_0021492678_web.jpg"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "youtube-289169ac",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "lg"
+  ],
+  "source_type": "youtube",
+  "source_name": "노래하는종싱",
+  "url": "https://www.youtube.com/watch?v=q7MNN_WgSXM",
+  "title": "(가을야구)  2026. 10. 17일 기아타이거즈 vs LG트윈스 준플레이오프 1차전 경기결과",
+  "published_at": "2026-10-17T10:17:16Z",
+  "collected_at": "2026-10-17T12:25:43.619Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 475,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 29,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

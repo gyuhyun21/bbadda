@@ -1,0 +1,26 @@
+{
+  "id": "news-b192c857",
+  "issue": "2026-W43",
+  "module": "league",
+  "teams": [],
+  "source_type": "news",
+  "source_name": "뉴스1",
+  "url": "https://www.news1.kr/sports/baseball/6323370",
+  "title": "KBO, 포스트시즌 우천 중단 기준 마련…최대 50분 뒤 재개 여부 결정",
+  "published_at": "2026-10-17T10:20:21.000Z",
+  "collected_at": "2026-10-17T12:25:43.619Z",
+  "summary_ko": "KBO가 포스트시즌 우천 중단 기준을 마련했다. 중단 후 최대 50분 뒤에 재개 여부를 결정한다고 뉴스1이 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 30
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "한국연예스포츠신문",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5pY2pVc0tESlhQek9HdmJtdjcwNjA0dFBKVUNsYVhlbGlaRzdkODBVMmd6TGlZc084bDNPTk9hck9ubG0zSHdBdFo3YmxVZ041ci0wbjc1WDd0R2ZLYURNaWdUelBpWTRrc0E?oc=5"
+    }
+  ],
+  "image": "https://i3n.news1.kr/system/photos/2024/10/22/6942704/high.jpg"
+}

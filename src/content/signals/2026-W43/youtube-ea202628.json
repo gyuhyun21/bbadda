@@ -1,0 +1,27 @@
+{
+  "id": "youtube-ea202628",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "SSG랜더스",
+  "url": "https://www.youtube.com/watch?v=TzunCSawrp4",
+  "title": "2026 랜더스페셜매치, 뜨거운 승부의 시작🔥 | 최광야구 1429 LIVE",
+  "published_at": "2026-10-17T11:58:26Z",
+  "collected_at": "2026-10-17T12:25:43.619Z",
+  "summary_ko": "SSG 구단 공식 채널이 '최광야구 1429' 이벤트 경기 라이브 영상을 올렸다.",
+  "metrics": {
+    "views": 222036,
+    "likes": 3340,
+    "comments": 57
+  },
+  "scores": {
+    "hot": 71,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

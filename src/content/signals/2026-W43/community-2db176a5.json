@@ -1,0 +1,23 @@
+{
+  "id": "community-2db176a5",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "community",
+  "source_name": "디시 야구 갤러리",
+  "url": "https://gall.dcinside.com/mini/board/lists/?id=heroes",
+  "title": "키움히어로즈 미니 갤러리 - 커뮤니티 포털 디시인사이드",
+  "published_at": "2026-10-14T15:00:00.000Z",
+  "collected_at": "2026-10-17T12:25:43.619Z",
+  "summary_ko": "",
+  "excerpt": "... 키움 히어로즈 화이팅! - 키움히어로즈 갤러리에 다양한 이야기를 남겨주세요.",
+  "metrics": {},
+  "scores": {
+    "hot": 43,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

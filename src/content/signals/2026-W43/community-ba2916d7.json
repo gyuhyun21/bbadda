@@ -1,0 +1,24 @@
+{
+  "id": "community-ba2916d7",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 스포츠 이슈톡",
+  "url": "https://blog.naver.com/jjiwoo1027/224444917438",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/8vOeqx3dtmL",
+  "title": "“슬픔 속에서도 출격”...손나은 어머니 별세, 57세 장모상 임찬규 준PO 선발",
+  "published_at": "2026-10-17T20:21:00.000+09:00",
+  "collected_at": "2026-10-17T12:25:43.619Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

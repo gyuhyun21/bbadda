@@ -1,0 +1,23 @@
+{
+  "id": "news-0be0650a",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9jTHFJZnM5TWI5SjNRV2J5ODVuUkxkdVI4cE5fRDFVYnZVc1VNNGpqTExhakltc0lQdnFMYnRyOEE1Z1I3eTBzX2gxamZHTjJQQzNDNjFLWlkxeklTQXZSU3JOWmtRYzk2ellkdC1nQdIBb0FVX3lxTE9jTHFJZnM5TWI5SjNRV2J5ODVuUkxkdVI4cE5fRDFVYnZVc1VNNGpqTExhakltc0lQdnFMYnRyOEE1Z1I3eTBzX2gxamZHTjJQQzNDNjFLWlkxeklTQXZSU3JOWmtRYzk2ellkdC1nQQ?oc=5",
+  "title": "'ERA 1.44 초대박' 치고도 왜 韓 남았나, 美 냉정 평가 \"지금 가봤자 마이너 계약 유력\"",
+  "published_at": "2026-10-17T00:55:00.000Z",
+  "collected_at": "2026-10-17T12:25:43.619Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

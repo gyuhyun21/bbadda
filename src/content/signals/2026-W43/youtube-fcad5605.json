@@ -1,0 +1,26 @@
+{
+  "id": "youtube-fcad5605",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "youtube",
+  "source_name": "언덕위의작은집 TV",
+  "url": "https://www.youtube.com/watch?v=NYNTopeL-uA",
+  "title": "2026년 두산 베어스 사진전 | 웃고 울었던 한 시즌, 기억하고 싶은 15개의 순간!",
+  "published_at": "2026-10-17T09:57:14Z",
+  "collected_at": "2026-10-17T12:25:43.619Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 40,
+    "likes": 7,
+    "comments": 2
+  },
+  "scores": {
+    "hot": 58,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

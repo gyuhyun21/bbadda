@@ -1,0 +1,24 @@
+{
+  "id": "news-800b1d50",
+  "issue": "2026-W43",
+  "module": "rivalry",
+  "team": "lg",
+  "teams": [
+    "lg",
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://www.mt.co.kr/amp/sports/2026/10/17/2026101710565214552",
+  "title": "[선발 라인업] LG 드디어 오지환 전격 복귀! KIA전 '신민재 제외-홍창기 1번' [준PO1 현장]",
+  "published_at": "2026-10-17T03:08:11.000Z",
+  "collected_at": "2026-10-17T12:25:43.619Z",
+  "summary_ko": "LG가 준PO 1차전 선발 라인업에 오지환을 복귀시키고 홍창기를 1번으로 내세웠다. 신민재는 선발에서 빠졌다.",
+  "metrics": {},
+  "scores": {
+    "hot": 73,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "image": "https://thumb.mt.co.kr/cdn-cgi/image/w=1200,h=872,fit=cover,bg=white,f=auto,quality=high,sharpen=2,g=face/21/2026/10/2026101710565214552_1.jpg"
+}

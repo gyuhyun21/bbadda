@@ -1,0 +1,23 @@
+{
+  "id": "news-20fbcd90",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠경향",
+  "url": "https://sports.khan.co.kr/article/202610172112003",
+  "title": "최정-김광현 감독에 한두솔 퍼포먼스까지…SSG만의 축제, 가을밤 뜨겁게 달궜다",
+  "published_at": "2026-10-17T12:12:00.000Z",
+  "collected_at": "2026-10-17T12:25:43.619Z",
+  "summary_ko": "SSG의 이벤트 경기 '최광야구'가 최정·김광현 감독 대결과 한두솔의 퍼포먼스 등으로 가을밤 축제로 열렸다고 스포츠경향이 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "image": "https://images.khan.co.kr/article/2026/10/17/news-p.v1.20261017.fb1864de2c164995b5d2499b5b38a620_P1.jpg"
+}

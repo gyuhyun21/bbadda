@@ -1,0 +1,23 @@
+{
+  "id": "community-80a7307a",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 경제 연구소",
+  "url": "https://blog.naver.com/unknown_th/224444680523",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/B45IHuqS8A3",
+  "title": "SSG 최민준이리안 결혼, 야구장 로맨스 비하인드 스토리",
+  "published_at": "2026-10-17T17:20:00.000+09:00",
+  "collected_at": "2026-10-17T12:25:43.619Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

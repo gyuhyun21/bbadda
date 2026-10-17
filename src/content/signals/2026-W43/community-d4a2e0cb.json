@@ -1,0 +1,24 @@
+{
+  "id": "community-d4a2e0cb",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 KBO 매니아",
+  "url": "https://blog.naver.com/iousang/224444660286",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/CUFzzehBJsV",
+  "title": "211안타 레이예스도 안심 못 한다…외야수 골든글러브 3자리의 변수",
+  "published_at": "2026-10-17T18:09:00.000+09:00",
+  "collected_at": "2026-10-17T12:25:43.619Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

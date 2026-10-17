@@ -1,0 +1,23 @@
+{
+  "id": "community-c63cdafa",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 카무싸리의 푸짐한 블로그",
+  "url": "https://blog.naver.com/kamussari/224444788155",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/GVCItqk8DkC",
+  "title": "구자욱 FA 참전 예정, 삼성 비FA 제안 두 번 거절했다는 말 팩트체크",
+  "published_at": "2026-10-17T20:11:00.000+09:00",
+  "collected_at": "2026-10-17T12:25:43.619Z",
+  "summary_ko": "구자욱이 FA 시장에 나설 예정이라는 소식과 삼성이 비FA 제안을 두 번 거절당했다는 말의 사실 여부를 따진 블로그 글이다.",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

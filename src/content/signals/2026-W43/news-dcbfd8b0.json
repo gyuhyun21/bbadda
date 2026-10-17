@@ -1,0 +1,23 @@
+{
+  "id": "news-dcbfd8b0",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "한겨레",
+  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBmSXlkV1dZRV9WaUpmaWxCb2dHTlZxa09jeXJuM2piTHFzUTVmdXN2d3JuM3p3R1hCTTVMeENXeEYxN3htYzZXNWYzS19HTlBPNi1GSkpyR2NfMDJacmtlcFlyRXlaUFk?oc=5",
+  "title": "AG 5연패 주역 김도영·김주원 또 태극마크…APBC 대표팀 33명 발표",
+  "published_at": "2026-10-13T08:45:00.000Z",
+  "collected_at": "2026-10-17T12:25:43.619Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 32,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

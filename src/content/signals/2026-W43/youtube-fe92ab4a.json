@@ -1,0 +1,26 @@
+{
+  "id": "youtube-fe92ab4a",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "라이온즈 직관노트",
+  "url": "https://www.youtube.com/watch?v=NEXZQ3luG7g",
+  "title": "삼성라이온즈 응원가 - 푸른사자들의 함성 #삼성라이온즈 #응원가 #자작곡",
+  "published_at": "2026-10-17T08:50:33Z",
+  "collected_at": "2026-10-17T12:25:43.619Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 2,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 5,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "community-4f1973dc",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 hidecaos50님의 블로그",
+  "url": "https://blog.naver.com/hidecaos50/224444796654",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/5EOzP7wV4PK",
+  "title": "ERA 1.44 아빌라, SSG와 최대 2년 재계약",
+  "published_at": "2026-10-17T17:17:00.000+09:00",
+  "collected_at": "2026-10-17T12:25:43.619Z",
+  "summary_ko": "SSG가 ERA 1.44의 아빌라와 최대 2년 재계약을 했다는 내용의 블로그 글이다.",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4wUkZFbEJmd2JhUEplV3FBOHYtSU9Dc25aTkdjalozWmR4dE9DWTdFc3BMYlZPSGVWd0cwRno3R19KbjBIS0cwUXJpZzJaUEdKTU5lTUdMN093djZkc2RfeFpmUzdxdUdMVERKWGZSWdIBb0FVX3lxTE4wUkZFbEJmd2JhUEplV3FBOHYtSU9Dc25aTkdjalozWmR4dE9DWTdFc3BMYlZPSGVWd0cwRno3R19KbjBIS0cwUXJpZzJaUEdKTU5lTUdMN093djZkc2RfeFpmUzdxdUdMVERKWGZSWQ?oc=5"
+    }
+  ]
+}

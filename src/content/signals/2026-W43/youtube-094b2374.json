@@ -1,0 +1,26 @@
+{
+  "id": "youtube-094b2374",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "source_name": "한화에 묻어다오",
+  "url": "https://www.youtube.com/watch?v=BigfJ7cnjHU",
+  "title": "품절 10초컷 김경문 잠바ㄷㄷ #한화이글스 #김경문 #경문잠바",
+  "published_at": "2026-10-17T10:45:42Z",
+  "collected_at": "2026-10-17T12:25:43.619Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 5699,
+    "likes": 115,
+    "comments": 4
+  },
+  "scores": {
+    "hot": 58,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

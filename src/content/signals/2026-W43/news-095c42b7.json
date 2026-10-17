@@ -1,0 +1,23 @@
+{
+  "id": "news-095c42b7",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스핌",
+  "url": "https://www.newspim.com/news/view/20261017000058",
+  "title": "[준PO] LG 염경엽 감독 \"포스트시즌 가장 중요한 건 수비\", 오지환 복귀 반가운 이유",
+  "published_at": "2026-10-17T04:18:00.000Z",
+  "collected_at": "2026-10-17T12:25:43.619Z",
+  "summary_ko": "LG 염경엽 감독이 준PO를 앞두고 포스트시즌에서 가장 중요한 것으로 수비를 꼽았다. 오지환의 복귀가 반가운 이유도 함께 밝혔다고 한다.",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 80
+  },
+  "sentiment": "positive",
+  "image": "https://img.newspim.com/news/2026/10/17/2610171314335923_632_tc.jpg"
+}

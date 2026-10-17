@@ -1,0 +1,22 @@
+{
+  "id": "news-586ec381",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스핌",
+  "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE96SmQ5MG1lMzZ1NnBHbDJ6VW5pT3NVYVY4Ry1CaVVRa3VlWDlzUk0yYnNOYjF6QWIteHBiSUhjd25GaDQyWnUya255UzZMejNKSW5CTUstUVVJWVVl?oc=5",
+  "title": "[AI그래픽] KBO 준PO 1차전, LG 송찬의 2회 선제 솔로포",
+  "published_at": "2026-10-17T05:50:00.000Z",
+  "collected_at": "2026-10-17T12:25:43.619Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 80
+  },
+  "sentiment": "neutral"
+}

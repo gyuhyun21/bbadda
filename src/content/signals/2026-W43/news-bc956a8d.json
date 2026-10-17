@@ -1,0 +1,30 @@
+{
+  "id": "news-bc956a8d",
+  "issue": "2026-W43",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20261017_0003829972",
+  "title": "'10년 만에 가을 맞대결' KIA-LG 1차전 만원관중…PS 39경기 연속 매진[준PO]",
+  "published_at": "2026-10-17T06:59:42.000Z",
+  "collected_at": "2026-10-17T12:25:43.619Z",
+  "summary_ko": "KIA와 LG가 10년 만에 가을야구에서 맞붙은 준PO 1차전이 만원 관중을 이뤘다. 포스트시즌 연속 매진은 39경기로 늘었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 80
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "한스경제",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9KWG95M3BmbW1MU0hScXoxdGNzZnp1Nm42WHNrS2RvS0Q5U2oyU3ZFVjhVWmNGdGI2M3cwbXZjUlJFcDd1ZkFJU2lSWGZ5MUx2enduc2dFd1E2b01TWkN6MXlndVJqR0d4WTBN0gFvQVVfeXFMTjF0My1DRzJzS1BWX0ttdVVrX1Z1UVZBTFNhdC10R0taQjcybTRhU0wzTEdjQV9ZUUJlUGlrMmc5NEhxY3h4VDFzRmVEaVBieFgtcS1GdW9Xa3JPNEN3MmF3MDZzMDBrS1gzdHdMd0gw?oc=5"
+    }
+  ],
+  "image": "https://img1.newsis.com/2026/10/17/NISI20261017_0002266046_web.jpg"
+}

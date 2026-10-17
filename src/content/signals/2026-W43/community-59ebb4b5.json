@@ -1,0 +1,30 @@
+{
+  "id": "community-59ebb4b5",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "lg"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 WoniSoli 님의 블로그",
+  "url": "https://wonisoli.tistory.com/466",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/3AfL0a1plBs",
+  "title": "기아타이거즈 준PO 1차전 승리! LG 작전 간파와 명품 수비의 순간들",
+  "published_at": "2026-10-17T20:50:24.000+09:00",
+  "collected_at": "2026-10-17T12:25:43.619Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBPMUxJcWNYSUNiWTNlelpPYVZTamVYWEVzRFBRb1REZDVPRFpEYXhGWHBuTW5SZllIclEyeUpJVHlIaUVtYjZXNUZiZUJNWGVWNE1JYmVncDZRVmpNNnNtUNIBYEFVX3lxTFBPMUxJcWNYSUNiWTNlelpPYVZTamVYWEVzRFBRb1REZDVPRFpEYXhGWHBuTW5SZllIclEyeUpJVHlIaUVtYjZXNUZiZUJNWGVWNE1JYmVncDZRVmpNNnNtUA?oc=5"
+    }
+  ]
+}

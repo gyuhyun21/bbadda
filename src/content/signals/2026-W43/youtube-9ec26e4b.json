@@ -1,0 +1,26 @@
+{
+  "id": "youtube-9ec26e4b",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "source_name": "벤치썰",
+  "url": "https://www.youtube.com/watch?v=SBbJMiukCuU",
+  "title": "FA에 228억 쓰고 9위 했다는 한화 이글스 근황",
+  "published_at": "2026-10-17T10:30:11Z",
+  "collected_at": "2026-10-17T12:25:43.619Z",
+  "summary_ko": "FA에 228억을 쓰고도 9위를 한 한화의 근황을 다룬 팬 채널 영상이다.",
+  "metrics": {
+    "views": 9,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 11,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

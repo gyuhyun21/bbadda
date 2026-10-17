@@ -1,0 +1,23 @@
+{
+  "id": "community-cf463977",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 이슈 한 스푼",
+  "url": "https://blog.naver.com/issue_spoon/224444549222",
+  "title": "구자욱 FA 참전 예고, 최대 200억 원 몸값 전망과 구단별 영입 경쟁",
+  "published_at": "2026-10-17T11:31:00.000+09:00",
+  "collected_at": "2026-10-17T12:25:43.619Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

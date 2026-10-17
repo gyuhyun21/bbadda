@@ -1,0 +1,24 @@
+{
+  "id": "community-1e63d863",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 카무싸리의 푸짐한 블로그",
+  "url": "https://blog.naver.com/kamussari/224444833876",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/Ba00DiocHte",
+  "title": "김도영 2홈런 4타점 준PO 1차전, 올 시즌 홈런개수 45개 찍고 염경엽도 혀 내둘렀다",
+  "published_at": "2026-10-17T20:20:00.000+09:00",
+  "collected_at": "2026-10-17T12:25:43.619Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

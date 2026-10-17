@@ -1,0 +1,23 @@
+{
+  "id": "news-f1bdb799",
+  "issue": "2026-W43",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "www.xportsnews.com",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5UZS01RlRvQjlGQ3FGQ1g0QXNUcEJEQmtxMkpEQjEzeVhlR2N4YVFFc2w3NHBEaWRQSl9XemdHUjVYT2VYWVpHbGlSMTlzUldJS2E5SQ?oc=5",
+  "title": "'광주 1만8900석 꽉 찼다!' KIA-LG 준PO 첫판부터 매진 열기 폭발…KBO 포스트시즌 39경기 연속 만원 관중 [준PO1 현장]",
+  "published_at": "2026-10-17T07:12:28.000Z",
+  "collected_at": "2026-10-17T12:25:43.619Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 80
+  },
+  "sentiment": "neutral"
+}

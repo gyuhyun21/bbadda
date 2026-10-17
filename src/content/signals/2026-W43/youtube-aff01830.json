@@ -1,0 +1,26 @@
+{
+  "id": "youtube-aff01830",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "youtube",
+  "source_name": "TWOBINPAPA",
+  "url": "https://www.youtube.com/watch?v=NhldCe9RAuk",
+  "title": "두산베어스 사직원정 떼창응원 데시벨 엄청납니다 261006",
+  "published_at": "2026-10-17T11:35:02Z",
+  "collected_at": "2026-10-17T12:25:43.619Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 19,
+    "likes": 2,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 54,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

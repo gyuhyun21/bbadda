@@ -1,0 +1,23 @@
+{
+  "id": "news-3a946050",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9BeHVPNjJmU2FHLXpHS2Zmc1FvUW9IQlRRcWZDRjZZOHVnYkE4b1dJbmpYQ25sX3dZY2FBT1RTOXByRm5ST25zODR3NndPbk02TEQ1S3Z4bDZjMDNaWnp4WXNQQmhCSG56cjM2M2dnY9IBb0FVX3lxTE9BeHVPNjJmU2FHLXpHS2Zmc1FvUW9IQlRRcWZDRjZZOHVnYkE4b1dJbmpYQ25sX3dZY2FBT1RTOXByRm5ST25zODR3NndPbk02TEQ1S3Z4bDZjMDNaWnp4WXNQQmhCSG56cjM2M2dnYw?oc=5",
+  "title": "[사진] 준PO 1차전 '오늘의 타격감'상 수상한 김도영",
+  "published_at": "2026-10-17T08:16:00.000Z",
+  "collected_at": "2026-10-17T12:25:43.619Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

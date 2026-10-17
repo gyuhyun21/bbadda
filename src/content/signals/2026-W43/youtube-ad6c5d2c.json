@@ -1,0 +1,26 @@
+{
+  "id": "youtube-ad6c5d2c",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "youtube",
+  "source_name": "마치 마치 조마치",
+  "url": "https://www.youtube.com/watch?v=hwmNVg2E-KA",
+  "title": "KT wiz 사랑한다 케이티 위즈 팀 응원가",
+  "published_at": "2026-10-17T10:15:17Z",
+  "collected_at": "2026-10-17T12:25:43.619Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1,
+    "likes": 1,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 43,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

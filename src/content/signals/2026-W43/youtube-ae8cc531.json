@@ -1,0 +1,28 @@
+{
+  "id": "youtube-ae8cc531",
+  "issue": "2026-W43",
+  "module": "league",
+  "teams": [
+    "kia",
+    "lg"
+  ],
+  "team": "kia",
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=F3Tdnku3QWQ",
+  "title": "KIA의 든든한 불펜진! 리드를 지키는 성영탁, 전상현의 8회 초 역투! | 준PO1_LG vs KIA | 10.17 | 크보모먼트 | KBO 야구 하이라이트",
+  "published_at": "2026-10-17T07:57:54Z",
+  "collected_at": "2026-10-17T12:25:43.619Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 60283,
+    "likes": 414,
+    "comments": 81
+  },
+  "scores": {
+    "hot": 59,
+    "relevance": 80
+  },
+  "sentiment": "neutral"
+}
