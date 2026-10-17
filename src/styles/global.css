@@ -547,8 +547,10 @@ button.rail-more { font: inherit; background: none; border: 0; cursor: pointer; 
 .ps-sched-list li:first-child { border-top: 0; }
 .ps-sched-no { font-weight: 700; color: #fff; }
 .ps-sched-state { min-width: 40px; white-space: nowrap; text-align: right; font-weight: 700; color: rgba(255,255,255,0.55); font-size: 12px; }
-.ps-sched-list li.is-today { color: #fff; }
-.ps-sched-list li.is-today .ps-sched-state { color: #FFD34D; }
+.ps-sched-list li.is-next, .ps-sched-list li.is-next .ps-sched-no { color: #FFD34D; font-weight: 700; } /* 다음 경기 줄 강조 */
+.ps-sched-list li.is-next { background: rgba(255, 211, 77, 0.1); margin: 0 -8px; padding-left: 8px; padding-right: 8px; border-radius: 8px; border-top-color: transparent; }
+.ps-sched-list li.is-next + li { border-top-color: transparent; }
+.ps-sched-list li.is-next .ps-sched-state { color: #FFD34D; }
 .ps-sched-list li.is-played .ps-sched-state { color: #fff; }
 .ps-sched-list li.is-skipped { opacity: 0.4; }
 /* 라운드 카드: 기록이 있으면 버튼(누르면 아래 기록 펼침) */
@@ -607,11 +609,15 @@ button.ps-round-btn:focus-visible { outline: 2px solid var(--accent); outline-of
 .ps-sources a { color: inherit; }
 
 /* 승부 예측(다음 경기 카드 안, 한 줄) */
-.ps-vote { display: grid; grid-template-columns: auto 1fr auto; align-items: center; gap: 10px; padding-top: 10px; border-top: 1px solid rgba(255,255,255,0.12); }
+.ps-vote { display: grid; grid-template-columns: auto 1fr; grid-template-areas: "q act" "note note"; align-items: center; gap: 6px 12px; padding: 10px 12px; border-radius: 14px; background: rgba(255,255,255,0.06); }
 .ps-vote[hidden], .ps-vote [hidden] { display: none; }
-.ps-vote-q { margin: 0; font-size: 12px; font-weight: 700; color: rgba(255,255,255,0.75); white-space: nowrap; }
+.ps-vote-q { grid-area: q; margin: 0; font-size: 12px; font-weight: 700; color: #FFD34D; white-space: nowrap; }
+.ps-vote-q span { margin-left: 4px; color: #fff; }
+.ps-vote-btns, .ps-vote-result { grid-area: act; justify-self: end; }
+.ps-vote-result { justify-self: stretch; }
 .ps-vote-btns { display: flex; gap: 6px; }
-.ps-vote-btn { height: 28px; padding: 0 12px; border: 0; border-radius: 999px; background: var(--team); color: #fff; font: 700 12px/1 var(--font); cursor: pointer; box-shadow: inset 0 0 0 1px rgba(255,255,255,0.18); }
+.ps-vote-btn { height: 30px; padding: 0 14px; border: 0; border-radius: 999px; background: var(--team); color: #fff; font: 700 13px/1 var(--font); cursor: pointer; box-shadow: inset 0 0 0 1px rgba(255,255,255,0.22), 0 2px 8px rgba(0,0,0,0.3); }
+.ps-vote-btn:hover { filter: brightness(1.12); }
 .ps-vote-btn:disabled { opacity: 0.6; }
 .ps-vote-btn:focus-visible { outline: 2px solid #FFD34D; outline-offset: 2px; }
 .ps-vote-result { display: flex; align-items: center; gap: 8px; min-width: 0; }
@@ -620,7 +626,7 @@ button.ps-round-btn:focus-visible { outline: 2px solid var(--accent); outline-of
 .ps-vote-bar { flex: 1; display: flex; gap: 2px; height: 6px; border-radius: 999px; overflow: hidden; min-width: 60px; }
 .ps-vote-bar span { flex: 1 1 0; background: var(--team); transition: flex-grow 0.4s ease; }
 @media (prefers-reduced-motion: reduce) { .ps-vote-bar span { transition: none; } }
-.ps-vote-note { margin: 0; font-size: 11px; color: rgba(255,255,255,0.5); white-space: nowrap; }
+.ps-vote-note { grid-area: note; margin: 0; font-size: 11px; color: rgba(255,255,255,0.55); }
 /* 관전 포인트(가운데 칸) */
 .ps-points { border-radius: 16px; padding: 12px 14px; background: rgba(255,255,255,0.04); }
 .ps-points-title { margin: 0 0 6px; font-size: 13px; font-weight: 700; }

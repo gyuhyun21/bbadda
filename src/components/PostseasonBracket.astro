@@ -20,6 +20,9 @@ const scoreLine = (g: GameView) => {
   const [w, l] = a >= b ? [0, 1] : [1, 0];
   return `${name(g.sides[w])} ${Math.max(a, b)}-${Math.min(a, b)} ${name(g.sides[l])}`;
 };
+// 승·패·세이브 투수 옆 구단명: 승·세이브는 이긴 팀, 패는 진 팀. 홀드는 데이터에 '이름(팀)'으로 적는다
+const sidesOf = (g: GameView) => { const [a, b] = (g.score ?? '0-0').split('-').map(Number); return a >= b ? [g.sides[0], g.sides[1]] : [g.sides[1], g.sides[0]]; };
+const withTeam = (p: string | undefined, s: Side) => (p ? (/\(/.test(p) ? p : `${p}(${name(s)})`) : '');
 const hostOf = (u: string) => { try { return new URL(u).hostname.replace(/^(www|m)\./, ''); } catch { return '기사'; } };
 ---
 {view && (
@@ -51,16 +54,16 @@ const hostOf = (u: string) => { try { return new URL(u).hostname.replace(/^(www|
             {view.next.sides.every((s) => s.id) && (
               /* 승부 예측(api/vote) — 한 줄. 저장소가 연결되지 않았거나 실패하면 숨긴다 */
               <div class="ps-vote" data-vote={`${view.next.round}${view.next.no}-${view.next.date}-${view.next.sides[0].id}-${view.next.sides[1].id}`} hidden>
-                <p class="ps-vote-q">승부 예측</p>
+                <p class="ps-vote-q">승부 예측 <span>누가 이길까요?</span></p>
                 <div class="ps-vote-btns">
-                  {view.next.sides.map((s) => <button type="button" class="ps-vote-btn" data-vote-team={s.id} style={`--team:${color(s)}`}>{name(s)}</button>)}
+                  {view.next.sides.map((s) => <button type="button" class="ps-vote-btn" data-vote-team={s.id} style={`--team:${color(s)}`} aria-label={`${name(s)} 승리 예측`}>{name(s)} 승</button>)}
                 </div>
                 <div class="ps-vote-result" hidden>
                   <span class="ps-vote-pct">{name(view.next.sides[0])} <strong data-vote-pct={view.next.sides[0].id}>0%</strong></span>
                   <span class="ps-vote-bar">{view.next.sides.map((s) => <span data-vote-bar={s.id} style={`--team:${color(s)}`}></span>)}</span>
                   <span class="ps-vote-pct"><strong data-vote-pct={view.next.sides[1].id}>0%</strong> {name(view.next.sides[1])}</span>
                 </div>
-                <p class="ps-vote-note" data-vote-note></p>
+                <p class="ps-vote-note" data-vote-note data-close={view.next.time}></p>
               </div>
             )}
           </div>
@@ -74,11 +77,11 @@ const hostOf = (u: string) => { try { return new URL(u).hostname.replace(/^(www|
             <p class="ps-sched-title">{nextRound.name} 일정 <span>{nextRound.toWin}선승</span></p>
             <ol class="ps-sched-list">
               {nextRound.games.map((g) => (
-                <li class={`${g.date === today ? 'is-today' : ''}${g.played ? ' is-played' : ''}${g.skipped ? ' is-skipped' : ''}`}>
+                <li class={`${g === view.next ? 'is-next' : ''}${g.played ? ' is-played' : ''}${g.skipped ? ' is-skipped' : ''}`}>
                   <span class="ps-sched-no">{g.no}차전</span>
                   <span class="ps-sched-date">{md(g)} {g.time}</span>
                   <span class="ps-sched-venue">{g.venue}</span>
-                  <span class="ps-sched-state">{g.played ? scoreLine(g) : g.skipped ? '열리지 않음' : g.date === today ? '오늘' : g.ifNeeded ? '미확정' : ''}</span>
+                  <span class="ps-sched-state">{g.played ? scoreLine(g) : g.skipped ? '열리지 않음' : g === view.next ? (g.date === today ? '오늘' : '다음 경기') : g.ifNeeded ? '미확정' : ''}</span>
                 </li>
               ))}
             </ol>
@@ -121,8 +124,8 @@ const hostOf = (u: string) => { try { return new URL(u).hostname.replace(/^(www|
           {r.games.filter((g) => g.played).map((g) => {
             const rec = g.record;
             const rows: [string, string][] = [
-              ['선발', g.sides.map((s, i) => (rec.starters[i] ? `${name(s)} ${rec.starters[i]}` : '')).filter(Boolean).join(' · ')],
-              ['승리', rec.win ?? ''], ['패전', rec.loss ?? ''], ['세이브', rec.save ?? ''], ['홀드', rec.holds.join(', ')],
+              ['선발', g.sides.map((s, i) => (rec.starters[i] ? `${rec.starters[i]}(${name(s)})` : '')).filter(Boolean).join(' · ')],
+              ['승리', withTeam(rec.win, sidesOf(g)[0])], ['패전', withTeam(rec.loss, sidesOf(g)[1])], ['세이브', withTeam(rec.save, sidesOf(g)[0])], ['홀드', rec.holds.join(', ')],
               ['홈런', rec.homers.join(', ')], ['MVP', rec.mvp ?? ''], ['관중', rec.attendance ?? ''],
             ];
             return (
@@ -156,7 +159,8 @@ const hostOf = (u: string) => { try { return new URL(u).hostname.replace(/^(www|
       box.querySelectorAll<HTMLElement>('[data-vote-bar]').forEach((el) => { const n = d.counts[el.dataset.voteBar!] ?? 0; el.style.flexGrow = String(total ? n : 1); });
       box.querySelectorAll<HTMLElement>('[data-vote-pct]').forEach((el) => { const n = d.counts[el.dataset.votePct!] ?? 0; el.textContent = `${total ? Math.round((n / total) * 100) : 0}%`; });
       const note = box.querySelector<HTMLElement>('[data-vote-note]')!;
-      note.textContent = !d.open ? '마감' : mine ? '내 예측 저장됨' : ''; // 참여 인원은 표시하지 않고 비율만
+      // 참여 인원은 표시하지 않고 비율만. 투표 전에는 사용법 한 줄
+      note.textContent = !d.open ? '투표 마감' : mine ? `내 예측: ${box.querySelector<HTMLElement>(`[data-vote-team="${mine}"]`)?.textContent ?? ''} · 경기 시작 전까지 비율이 바뀌어요` : `이길 팀을 누르면 팬들의 예측 비율이 보여요 · ${note.dataset.close} 마감`;
       const voted = !!mine || !d.open;
       box.querySelector<HTMLElement>('.ps-vote-btns')!.hidden = voted;
       box.querySelector<HTMLElement>('.ps-vote-result')!.hidden = !voted;

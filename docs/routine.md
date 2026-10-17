@@ -31,7 +31,7 @@ claude.ai 루틴(예약 작업)에 아래 프롬프트 하나를 등록한다. �
    - 인용(quote)은 15단어 이내.
 4-1. 포스트시즌(10~11월, config/site.yaml 의 postseason_bracket: true 일 때): 이번에 수집된 뉴스 기사로 최종 점수가 확인된 경기만
    data/postseason.yaml 의 그 경기에 result(팀 id: 점수)와 source(기사 주소)를 채운다. 기사로 확인 안 되면 비워 둔다.
-   같은 경기의 기록도 기사로 확인되는 것만 채운다: starters(팀 id: 선발), win·loss·save, holds(목록), homers("선수(팀) N회 투런" 형식),
+   같은 경기의 기록도 기사로 확인되는 것만 채운다: starters(팀 id: 선발), win·loss·save, holds(목록, '이름(팀)' 형식 — 진 팀 투수도 홀드를 받을 수 있다), homers("선수(팀) N회 투런" 형식),
    mvp, attendance. 근거 기사 주소는 sources 목록에. 추론 금지(예: 점수 차로 세이브를 짐작하지 않는다).
    다음 날 경기의 예고 선발 기사가 있으면 그 경기의 starters 와 sources 를 채운다.
    예고 선발 기사에 나온 시즌 성적 한 줄은 starter_notes(팀 id: 문장), 관전 포인트(상대전적·1차전 승리 팀 진출 기록 등)는 facts 목록(3개 이내, 짧게)에 넣는다. 숫자는 기사에 있는 그대로.
