@@ -1,0 +1,26 @@
+{
+  "id": "youtube-b3c3ada7",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "youtube",
+  "source_name": "YTN쏙 YTNSSOK",
+  "url": "https://www.youtube.com/watch?v=nYuFWWbz4ss",
+  "title": "[스포인트] \"LG 상대로 또 홈런 2방?!\" 가을야구마저 지배한 '슈퍼스타' 김도영 ㄷㄷ / YTN쏙",
+  "published_at": "2026-10-17T10:30:33Z",
+  "collected_at": "2026-10-17T12:25:43.619Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 3932,
+    "likes": 91,
+    "comments": 3
+  },
+  "scores": {
+    "hot": 58,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

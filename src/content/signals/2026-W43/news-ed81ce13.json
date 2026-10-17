@@ -1,0 +1,23 @@
+{
+  "id": "news-ed81ce13",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "영남일보",
+  "url": "https://www.yeongnam.com/web/view.php?key=20261017022034998",
+  "title": "PO 담금질 나선 사자군단…삼성 라이온즈 최형우 “한국시리즈에서 팬들께 인사드리고 싶다”",
+  "published_at": "2026-10-17T00:56:12.000Z",
+  "collected_at": "2026-10-17T12:25:43.619Z",
+  "summary_ko": "삼성 최형우가 PO 준비 훈련 중 한국시리즈에서 팬들에게 인사드리고 싶다고 말했다고 영남일보가 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 72,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "image": "https://www.yeongnam.com/mnt/file/202610/news-p.v1.20261017.f26490f6fa4841d5a99472ca6a55cdb0_R.png"
+}

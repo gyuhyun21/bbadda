@@ -1,0 +1,26 @@
+{
+  "id": "youtube-51c87b06",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "youtube",
+  "source_name": "으쓱채널",
+  "url": "https://www.youtube.com/watch?v=tFqay5Fbgig",
+  "title": "한마음 한목소리로 응원하는 #SSG랜더스 우리들의 가을야구",
+  "published_at": "2026-10-17T10:29:12Z",
+  "collected_at": "2026-10-17T12:25:43.619Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 6,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 9,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

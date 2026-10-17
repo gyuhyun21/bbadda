@@ -1,0 +1,24 @@
+{
+  "id": "community-0134f5a7",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 gencius",
+  "url": "https://blog.naver.com/gensa99/224444698433",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/4nzuXY6TGJG",
+  "title": "민니 야구장 사진, 분홍 글러브 들고 혀 빼꼼 내민 순간",
+  "published_at": "2026-10-17T15:08:00.000+09:00",
+  "collected_at": "2026-10-17T12:25:43.619Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

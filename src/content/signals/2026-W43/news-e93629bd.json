@@ -1,0 +1,23 @@
+{
+  "id": "news-e93629bd",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "announcement": true,
+  "source_name": "위키트리",
+  "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1aeVNHSmJFTVpSZTdIT25jazhJRDdZTmExTHJOOURzakpBNEVRVmQteXM5QngzOEtsdS12UUlEam45MlcxZ0wzWjlpTWQtX1lfTWxwVWFn?oc=5",
+  "title": "삼성 라이온즈 구자욱 부상 ‘최신 공식발표’ 떴다…야구팬 모두가 주목할 내용이다",
+  "published_at": "2026-10-15T07:12:00.000Z",
+  "collected_at": "2026-10-17T12:25:43.619Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 49,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

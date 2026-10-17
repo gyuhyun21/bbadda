@@ -1,0 +1,23 @@
+{
+  "id": "community-80a26cae",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 오프더레코드 스포츠",
+  "url": "https://blog.naver.com/offtherecordsports/224443642067",
+  "title": "\"팔에 혈관이 선명하게 드러날 정도\" KBO 유일 40-40 테임즈가 미국에 돌아가 잃어버린 것",
+  "published_at": "2026-10-16T18:20:00.000+09:00",
+  "collected_at": "2026-10-17T12:25:43.619Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 58,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

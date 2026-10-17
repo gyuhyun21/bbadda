@@ -1,0 +1,23 @@
+{
+  "id": "news-3a031891",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "news",
+  "source_name": "www.famtimes.co.kr",
+  "url": "https://www.famtimes.co.kr/news/articleView.html?idxno=702315",
+  "title": "NCT 재민, 키움 히어로즈 시구 연습서 기록한 84km/h…실전선 146km/h 기록",
+  "published_at": "2026-10-16T22:50:00.000Z",
+  "collected_at": "2026-10-17T12:25:43.619Z",
+  "summary_ko": "NCT 재민이 키움 시구 연습에서 84km/h를 기록했고 실전에서는 146km/h를 찍었다고 보도됐다.",
+  "metrics": {},
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "image": "https://img.famtimes.co.kr/famtimes/2026/10/64c8e181-7408-4266-af77-d40e9ea92333-f70336e9-og16x9.webp"
+}

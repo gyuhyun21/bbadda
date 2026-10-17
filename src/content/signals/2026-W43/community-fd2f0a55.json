@@ -1,0 +1,24 @@
+{
+  "id": "community-fd2f0a55",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 INspiration GIVER",
+  "url": "https://blog.naver.com/doubleedoublee/224444899059",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/EI6diTjSfuq",
+  "title": "1069일을 기다렸습니다 — 안우진의 두 번째 수술과 복귀",
+  "published_at": "2026-10-17T20:30:00.000+09:00",
+  "collected_at": "2026-10-17T12:25:43.619Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "mixed"
+}

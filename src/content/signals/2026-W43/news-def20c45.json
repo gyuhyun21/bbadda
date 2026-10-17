@@ -1,0 +1,23 @@
+{
+  "id": "news-def20c45",
+  "issue": "2026-W43",
+  "module": "rivalry",
+  "team": "lg",
+  "teams": [
+    "lg",
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "연합뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1hdGxUTTVmaWlrSktPdjUzUE1pUWM4VS1OY0hZOHluQTU1Z1ExUFhZcjY1bVBnZXRNYllSODBEd2ZaVVFadlJIdmpzYnE2U0NQYnFZWEJZWnh4aW5WQktTN9IBYEFVX3lxTE1hdGxUTTVmaWlrSktPdjUzUE1pUWM4VS1OY0hZOHluQTU1Z1ExUFhZcjY1bVBnZXRNYllSODBEd2ZaVVFadlJIdmpzYnE2U0NQYnFZWEJZWnh4aW5WQktTNw?oc=5",
+  "title": "염경엽 LG·이범호 KIA 감독 한목소리로 \"김도영 대단하다\"",
+  "published_at": "2026-10-17T08:25:33.000Z",
+  "collected_at": "2026-10-17T12:25:43.619Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

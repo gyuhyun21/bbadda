@@ -1,0 +1,24 @@
+{
+  "id": "community-8feb28ad",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 trendmoney",
+  "url": "https://blog.naver.com/trendmoney_/224444548216",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/7bMRfhxSkR4",
+  "title": "“도저히 못 고르겠다…” 김영웅 한 방 vs 전병우 안정감, 박진만 감독의 PO 3루수 선택은?",
+  "published_at": "2026-10-17T18:02:00.000+09:00",
+  "collected_at": "2026-10-17T12:25:43.619Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

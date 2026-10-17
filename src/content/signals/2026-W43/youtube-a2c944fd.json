@@ -1,0 +1,24 @@
+{
+  "id": "youtube-a2c944fd",
+  "issue": "2026-W43",
+  "module": "league",
+  "teams": [],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=S19IZqykXWs",
+  "title": "팬들을 열광시킨 김도영의 두번째 홈런은 쐐기 투런포💥",
+  "published_at": "2026-10-17T08:05:15Z",
+  "collected_at": "2026-10-17T12:25:43.619Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 135344,
+    "likes": 4615,
+    "comments": 232
+  },
+  "scores": {
+    "hot": 85,
+    "relevance": 30
+  },
+  "sentiment": "positive"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "community-cf23b483",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 누워서보는 연예뉴스",
+  "url": "https://blog.naver.com/hide/224444337438",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/4Q7NWcvLnCt",
+  "title": "\"17년 동안 해 온 야구도 여기서 마무리\"... 방출 뒤 은퇴 택한 키움 내야수 김병휘",
+  "published_at": "2026-10-17T08:05:00.000+09:00",
+  "collected_at": "2026-10-17T12:25:43.619Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

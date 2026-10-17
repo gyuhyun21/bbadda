@@ -1,0 +1,24 @@
+{
+  "id": "youtube-c29410fd",
+  "issue": "2026-W43",
+  "module": "league",
+  "teams": [],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=oQ1Yj2BO0v0",
+  "title": "홈런왕의 증명! 김도영의 포스트시즌 첫 홈런은 역전 홈런🐯",
+  "published_at": "2026-10-17T06:28:27Z",
+  "collected_at": "2026-10-17T12:25:43.619Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 128921,
+    "likes": 3097,
+    "comments": 111
+  },
+  "scores": {
+    "hot": 76,
+    "relevance": 30
+  },
+  "sentiment": "positive"
+}

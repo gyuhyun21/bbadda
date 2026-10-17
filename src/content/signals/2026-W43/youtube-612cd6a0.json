@@ -1,0 +1,26 @@
+{
+  "id": "youtube-612cd6a0",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "youtube",
+  "source_name": "서건창은할수있다",
+  "url": "https://www.youtube.com/watch?v=LRH7SsBVW_I",
+  "title": "서건창 응원가 프로젝트 #04 | 돌아왔다 키움 서건창",
+  "published_at": "2026-10-16T21:53:29Z",
+  "collected_at": "2026-10-17T12:25:43.619Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1218,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 34,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

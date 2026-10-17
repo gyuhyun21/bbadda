@@ -1,0 +1,23 @@
+{
+  "id": "community-85a6a043",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 오늘의 스포츠픽",
+  "url": "https://blog.naver.com/forehfrhdiddl/224444566377",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/8atTgC2JRuY",
+  "title": "“이제 유격수 걱정 덜었나 했더니” 롯데 전민재, 이번엔 방망이 고치러 미국 간다",
+  "published_at": "2026-10-17T15:34:00.000+09:00",
+  "collected_at": "2026-10-17T12:25:43.619Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

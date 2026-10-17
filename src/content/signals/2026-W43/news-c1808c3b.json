@@ -1,0 +1,24 @@
+{
+  "id": "news-c1808c3b",
+  "issue": "2026-W43",
+  "module": "rivalry",
+  "team": "doosan",
+  "teams": [
+    "doosan",
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://www.mt.co.kr/amp/estate/2026/10/17/2026101613074765068",
+  "title": "잠실야구장 떠나 '옆집'으로…두산·LG 새 안방, 뭐가 달라지나",
+  "published_at": "2026-10-16T19:40:00.000Z",
+  "collected_at": "2026-10-17T12:25:43.619Z",
+  "summary_ko": "잠실야구장을 떠나는 두산과 LG의 새 안방이 어떻게 달라지는지 머니투데이가 짚었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 62,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "image": "https://thumb.mt.co.kr/cdn-cgi/image/w=1200,h=797,fit=cover,bg=white,f=auto,quality=high,sharpen=2,g=face/21/2026/10/2026101613074765068_1.jpg"
+}

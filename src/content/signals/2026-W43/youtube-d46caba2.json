@@ -1,0 +1,28 @@
+{
+  "id": "youtube-d46caba2",
+  "issue": "2026-W43",
+  "module": "league",
+  "teams": [
+    "kia",
+    "lg"
+  ],
+  "team": "kia",
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=9O1f39cNfJ0",
+  "title": "26시즌 KBO 리그 홈런왕의 위엄! KIA 김도영의 역전 홈런! | 준PO1_LG vs KIA | 10.17 | 크보모먼트 | KBO 야구 하이라이트",
+  "published_at": "2026-10-17T06:28:05Z",
+  "collected_at": "2026-10-17T12:25:43.619Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 316904,
+    "likes": 2521,
+    "comments": 334
+  },
+  "scores": {
+    "hot": 67,
+    "relevance": 80
+  },
+  "sentiment": "positive"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "news-dcc88e71",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "연합뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1CWXdLZUdLeEhMV2U4WHVpckJkUVYwQnVXNnZhUTZzX0NpSGlGU1EwbHAxUlZNa1BsbmFqTlJmckhjaHIyb1ZRb2dxN2U0dlJHOHdaSXVBMEY5OUhyaWZoWtIBYEFVX3lxTE1CWXdLZUdLeEhMV2U4WHVpckJkUVYwQnVXNnZhUTZzX0NpSGlGU1EwbHAxUlZNa1BsbmFqTlJmckhjaHIyb1ZRb2dxN2U0dlJHOHdaSXVBMEY5OUhyaWZoWg?oc=5",
+  "title": "염경엽 LG 감독 \"김도영 앞에 주자가 없어야 한다\"",
+  "published_at": "2026-10-17T03:45:47.000Z",
+  "collected_at": "2026-10-17T12:25:43.619Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

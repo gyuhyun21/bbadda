@@ -1,0 +1,28 @@
+{
+  "id": "youtube-278d9f22",
+  "issue": "2026-W43",
+  "module": "league",
+  "teams": [
+    "kia",
+    "lg"
+  ],
+  "team": "kia",
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=s3hfV62UqjQ",
+  "title": "(삼진 모음.zip) 7이닝 6K 1실점 완벽투! KIA를 승리로 이끈 네일의 눈부신 피칭 | 준PO1_LG vs KIA | 10.17 | 크보모먼트 | KBO 야구 하이라이트",
+  "published_at": "2026-10-17T08:46:20Z",
+  "collected_at": "2026-10-17T12:25:43.619Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 10259,
+    "likes": 316,
+    "comments": 60
+  },
+  "scores": {
+    "hot": 73,
+    "relevance": 80
+  },
+  "sentiment": "positive"
+}

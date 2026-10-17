@@ -1,0 +1,27 @@
+{
+  "id": "youtube-ea97782e",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "한화에 묻어다오",
+  "url": "https://www.youtube.com/watch?v=-gVPMvG0tFE",
+  "title": "2년 연속 가을야구하는 남자 #하주석 #한화이글스 #기아타이거즈",
+  "published_at": "2026-10-17T08:36:25Z",
+  "collected_at": "2026-10-17T12:25:43.619Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 24444,
+    "likes": 297,
+    "comments": 26
+  },
+  "scores": {
+    "hot": 58,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

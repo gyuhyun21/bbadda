@@ -1,0 +1,28 @@
+{
+  "id": "news-3b54489d",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5pQ0dJV1lBTlBuTWloUmtUN0xWX0pjUEpTYVM2RlA1dl9BekM1cnVyNE5CeU1CS0FfSWJUMmZtNmV2ejVvdWxjeTMwWFk3RzhWQTlZMFBIdDFhSGJyUFJVbVZxTDd2ME9mZWltVy02NNIBb0FVX3lxTE5pQ0dJV1lBTlBuTWloUmtUN0xWX0pjUEpTYVM2RlA1dl9BekM1cnVyNE5CeU1CS0FfSWJUMmZtNmV2ejVvdWxjeTMwWFk3RzhWQTlZMFBIdDFhSGJyUFJVbVZxTDd2ME9mZWltVy02NA?oc=5",
+  "title": "'드디어 떴다' KIA, 준PO1 '선발 라인업' 발표! '2번 타자는 김선빈, 2루수 김규성-유격수 하주석 콤비 뜬다' [준PO1 현장]",
+  "published_at": "2026-10-17T02:23:05.000Z",
+  "collected_at": "2026-10-17T12:25:43.619Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 80,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9DSDBkQ2xQSXY3N3ZXUHNoM3FOQ1F4QkQwSFlkTklsa2VwM2VFMlNwd19mWDRrZDFnZjU1U3cyaXQyT2Y0cS14Y0tPNTJLMkNKRGFDaHhEd1FtaVZfbjhIaDlLRVVPb0xVOEdla0tiS2RtMXRMc2c?oc=5"
+    }
+  ]
+}

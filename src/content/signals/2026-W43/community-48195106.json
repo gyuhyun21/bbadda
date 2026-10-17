@@ -1,0 +1,23 @@
+{
+  "id": "community-48195106",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 윤슬",
+  "url": "https://blog.naver.com/kimm609410/224444457893",
+  "title": "손아섭 1억 FA 계약과 2655안타 베테랑의 가치 평가 분석",
+  "published_at": "2026-10-17T09:40:00.000+09:00",
+  "collected_at": "2026-10-17T12:25:43.619Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

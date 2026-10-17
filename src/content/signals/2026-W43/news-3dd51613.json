@@ -1,0 +1,23 @@
+{
+  "id": "news-3dd51613",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ydTVTZ2NpNmNmaThsMXMxb2FBTDRHWTJHcHlMbFI4MTF4cWdwekN1VTU4Z2o0b1B0Vm9uUHhpdHVRSDZ3NVJ1T0dqS1pTWHlCcThvdkk1a0lrNFhObmpiOTNfRU1Pa0FIRDRmcUpsQdIBb0FVX3lxTE1ydTVTZ2NpNmNmaThsMXMxb2FBTDRHWTJHcHlMbFI4MTF4cWdwekN1VTU4Z2o0b1B0Vm9uUHhpdHVRSDZ3NVJ1T0dqS1pTWHlCcThvdkk1a0lrNFhObmpiOTNfRU1Pa0FIRDRmcUpsQQ?oc=5",
+  "title": "[사진] 김도영, 팬들 설레는 타격",
+  "published_at": "2026-10-17T05:46:00.000Z",
+  "collected_at": "2026-10-17T12:25:43.619Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 90,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

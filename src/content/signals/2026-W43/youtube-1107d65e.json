@@ -1,0 +1,33 @@
+{
+  "id": "youtube-1107d65e",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "lg"
+  ],
+  "source_type": "youtube",
+  "source_name": "스탐",
+  "url": "https://www.youtube.com/watch?v=kTO5D7xqllk",
+  "title": "[준PO 1차전] 김도영 홈런 2방 KIA, LG에 승리",
+  "published_at": "2026-10-17T11:26:31Z",
+  "collected_at": "2026-10-17T12:25:43.619Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 3775,
+    "likes": 188,
+    "comments": 31
+  },
+  "scores": {
+    "hot": 79,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "뉴스핌",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBBWEhILUw1UVdZTVF4UjMxNV9FMHNfamdVYU1fLXJaVjMtWFBFdFlBSTlJV1BhR1JnRXFZM1AtUUpRblZRQWs0UDh1aHFBSER1aEZnRUdIRzNQQjJ2?oc=5"
+    }
+  ]
+}

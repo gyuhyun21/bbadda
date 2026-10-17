@@ -1,0 +1,23 @@
+{
+  "id": "news-06cf759f",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://www.mt.co.kr/amp/sports/2026/10/17/2026101714544256242",
+  "title": "\"이게 뭐라고, 이렇게 판이 커져서...\" 홈팬으로만 2.3만석 매진, '투수는 타석에-타자는 마운드에' SSG 최광야구1429 개봉박두 [인천 현장]",
+  "published_at": "2026-10-17T08:00:51.000Z",
+  "collected_at": "2026-10-17T12:25:43.619Z",
+  "summary_ko": "SSG가 '최광야구1429' 이벤트 경기를 앞두고 홈팬으로만 2.3만석을 매진시켰다. 투수가 타석에, 타자가 마운드에 서는 이색 경기다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "image": "https://thumb.mt.co.kr/cdn-cgi/image/w=1200,h=1353,fit=cover,bg=white,f=auto,quality=high,sharpen=2,g=face/21/2026/10/2026101714544256242_1.jpg"
+}

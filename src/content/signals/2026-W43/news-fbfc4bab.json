@@ -1,0 +1,29 @@
+{
+  "id": "news-fbfc4bab",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "news",
+  "source_name": "기호일보",
+  "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3037851",
+  "title": "프로야구 정규리그 1위 kt 위즈, 골든글러브 후보 최다 인원 배출",
+  "published_at": "2026-10-17T02:10:14.000Z",
+  "collected_at": "2026-10-17T12:25:43.619Z",
+  "summary_ko": "정규리그 1위 kt가 골든글러브 후보를 가장 많이 배출했다고 기호일보가 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 80,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "경기일보",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5NYmIzcVEzYktfODJxRWY3Z0xlZ1JHUG9CY1h5QmU4dTgyOG5tVk5IYUJsNnBhbkc2alBlS1RjVEZ0UVVWT2FuQ1Ezei1uYUdsTHNaX09SX0hPTkk?oc=5"
+    }
+  ],
+  "image": "https://cdn.kihoilbo.co.kr/news/photo/202610/3037851_582306_1014.jpg"
+}

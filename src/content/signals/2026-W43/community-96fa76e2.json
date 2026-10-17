@@ -1,0 +1,24 @@
+{
+  "id": "community-96fa76e2",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 GOOD NEWS",
+  "url": "https://blog.naver.com/livenews101/224444931555",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/9qMvWf7O7MQ",
+  "title": "비극 속 투혼: 임찬규, 장모상에도 준PO 2차전 선발 출격",
+  "published_at": "2026-10-17T20:50:00.000+09:00",
+  "collected_at": "2026-10-17T12:25:43.619Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

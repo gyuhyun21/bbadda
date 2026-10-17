@@ -1,0 +1,27 @@
+{
+  "id": "youtube-8197af0c",
+  "issue": "2026-W43",
+  "module": "league",
+  "teams": [
+    "lg"
+  ],
+  "team": "lg",
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=SGIEQR_375I",
+  "title": "준플레이오프의 선취점은 LG 송찬의의 홈런으로!",
+  "published_at": "2026-10-17T05:47:09Z",
+  "collected_at": "2026-10-17T12:25:43.619Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 6893,
+    "likes": 156,
+    "comments": 2
+  },
+  "scores": {
+    "hot": 60,
+    "relevance": 80
+  },
+  "sentiment": "positive"
+}

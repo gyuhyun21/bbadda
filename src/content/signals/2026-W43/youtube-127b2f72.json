@@ -1,0 +1,26 @@
+{
+  "id": "youtube-127b2f72",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "야구수다",
+  "url": "https://www.youtube.com/watch?v=tq-mTPgOqxI",
+  "title": "김도영의 명령하달  #야구 #프로야구 #기아타이거즈 #KBO",
+  "published_at": "2026-10-17T11:24:39Z",
+  "collected_at": "2026-10-17T12:25:43.619Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1704,
+    "likes": 34,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 52,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

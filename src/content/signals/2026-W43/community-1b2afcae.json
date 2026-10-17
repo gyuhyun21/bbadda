@@ -1,0 +1,23 @@
+{
+  "id": "community-1b2afcae",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "community",
+  "source_name": "디시 야구 갤러리",
+  "url": "https://gall.dcinside.com/board/lists/?id=lgtwins_new",
+  "title": "LG 트윈스 갤러리 - 커뮤니티 포털 디시인사이드",
+  "published_at": "2026-10-17T00:25:43.619Z",
+  "collected_at": "2026-10-17T12:25:43.619Z",
+  "summary_ko": "",
+  "excerpt": "... 스포츠 카테고리로 분류된 LG 트윈스 갤러리 입니다. LG 트윈스 갤러리에 다양한 이야기를 남겨주세요.",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

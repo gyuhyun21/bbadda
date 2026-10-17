@@ -1,0 +1,22 @@
+{
+  "id": "community-4d4044da",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 민군's 인물트렌드",
+  "url": "https://blog.naver.com/ibpms/224444823489",
+  "title": "\"12승 투수가 재계약을 걱정해야 한다니\"…LG 톨허스트, 결국 결별 수순 밟을까",
+  "published_at": "2026-10-17T17:49:00.000+09:00",
+  "collected_at": "2026-10-17T12:25:43.619Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

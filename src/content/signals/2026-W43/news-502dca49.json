@@ -1,0 +1,24 @@
+{
+  "id": "news-502dca49",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://www.sportschosun.com/baseball/2026-10-17/202610170100107510006948",
+  "title": "'김하성 KBO 컴백' 파격 결단 가능성! \"MLB서 일자리 장담 못 해\"…'애틀랜타 구상서 OUT' 두반 재계약 올인 주장",
+  "published_at": "2026-10-17T05:11:00.000Z",
+  "collected_at": "2026-10-17T12:25:43.619Z",
+  "summary_ko": "보도에 따르면 김하성이 MLB에서 일자리를 장담하기 어렵다는 전망과 함께 KBO 복귀 가능성이 거론됐다. 스포츠조선 보도 내용이며 확정된 소식은 아니다.",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "image": "https://www.sportschosun.com/article/html/2026/10/17/2026101701001075100069481.jpg"
+}

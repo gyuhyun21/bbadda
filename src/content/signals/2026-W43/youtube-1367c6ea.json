@@ -1,0 +1,28 @@
+{
+  "id": "youtube-1367c6ea",
+  "issue": "2026-W43",
+  "module": "league",
+  "teams": [
+    "lg",
+    "kia"
+  ],
+  "team": "lg",
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=8TW9yZfoXGw",
+  "title": "1차전 선취점을 가져가는 LG 송찬의의 선제 홈런포! | 준PO1_LG vs KIA | 10.17 | 크보모먼트 | KBO 야구 하이라이트",
+  "published_at": "2026-10-17T05:48:53Z",
+  "collected_at": "2026-10-17T12:25:43.619Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 27127,
+    "likes": 95,
+    "comments": 26
+  },
+  "scores": {
+    "hot": 52,
+    "relevance": 80
+  },
+  "sentiment": "positive"
+}

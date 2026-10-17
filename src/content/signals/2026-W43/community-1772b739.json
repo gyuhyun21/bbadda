@@ -1,0 +1,24 @@
+{
+  "id": "community-1772b739",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 JPark",
+  "url": "https://blog.naver.com/sdsdldld/224443608361",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/2K80C731jIy",
+  "title": "2026 퓨처스리그 참가팀은 모두 2군일까? 1군 구단·상무·울산의 관계",
+  "published_at": "2026-10-17T01:50:00.000+09:00",
+  "collected_at": "2026-10-17T12:25:43.619Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 61,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "youtube-798bb7ee",
+  "issue": "2026-W43",
+  "module": "league",
+  "teams": [
+    "kia",
+    "lg"
+  ],
+  "team": "kia",
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=UIyuG8L_Oco",
+  "title": "(무해설) 광주-기아 챔피언스 필드를 함성으로 가득 채운 KIA의 슈퍼스타 김도영 | 준PO1_LG vs KIA | 10.17 | 크보모먼트 | KBO 야구 하이라이트",
+  "published_at": "2026-10-17T09:32:38Z",
+  "collected_at": "2026-10-17T12:25:43.619Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 34133,
+    "likes": 1442,
+    "comments": 113
+  },
+  "scores": {
+    "hot": 86,
+    "relevance": 80
+  },
+  "sentiment": "neutral"
+}

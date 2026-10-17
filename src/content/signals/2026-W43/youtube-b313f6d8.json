@@ -1,0 +1,28 @@
+{
+  "id": "youtube-b313f6d8",
+  "issue": "2026-W43",
+  "module": "league",
+  "teams": [
+    "kia",
+    "lg"
+  ],
+  "team": "kia",
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=CpG0S65AKVg",
+  "title": "\"The Young King\" KIA 김도영의 멀티 홈런! 1차전 승리에 쐐기를 박은 순간 | 준PO1_LG vs KIA | 10.17 | 크보모먼트 | KBO 야구 하이라이트",
+  "published_at": "2026-10-17T08:45:15Z",
+  "collected_at": "2026-10-17T12:25:43.619Z",
+  "summary_ko": "KBO 공식 채널이 준PO 1차전에서 쐐기를 박은 KIA 김도영의 멀티 홈런 장면을 올렸다.",
+  "metrics": {
+    "views": 65202,
+    "likes": 1233,
+    "comments": 212
+  },
+  "scores": {
+    "hot": 70,
+    "relevance": 80
+  },
+  "sentiment": "positive"
+}

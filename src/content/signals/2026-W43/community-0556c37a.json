@@ -1,0 +1,24 @@
+{
+  "id": "community-0556c37a",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "다음카페 松 虎 堂(송 호 당)",
+  "url": "https://cafe.daum.net/3134songho/Fzal/1261",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/6OUZ72nLuJ6",
+  "title": "김도영 선수 45호 홈런",
+  "published_at": "2026-10-13T10:29:22.000+09:00",
+  "collected_at": "2026-10-17T12:25:43.619Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 30,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

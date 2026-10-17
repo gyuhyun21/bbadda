@@ -1,0 +1,23 @@
+{
+  "id": "news-266e56da",
+  "issue": "2026-W43",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스핌",
+  "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5wVDFob2xOQzUzTFFDamZxSW41VTZTT2U2WGNpOVJyRGpNcWgwdC1aR0VrbnZMZGFLV1VKSnBTemdlS0ZwbkNlVmlGZEttaVozM3lLd2t6SS02OTZG?oc=5",
+  "title": "[AI그래픽] 2026 KBO리그 준PO 1차전, 광주 KIA-LG 선발 라인업",
+  "published_at": "2026-10-17T04:13:00.000Z",
+  "collected_at": "2026-10-17T12:25:43.619Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 80
+  },
+  "sentiment": "neutral"
+}

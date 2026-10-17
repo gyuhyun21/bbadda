@@ -1,0 +1,23 @@
+{
+  "id": "news-3ca9e4ae",
+  "issue": "2026-W43",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "뉴시스",
+  "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ZT19ncWtjc0pWUGotNDNSQmlNS2JBZno0Z2owbk91N3VQeWZuN19XdVRnQjQ2S21mLWNTT1VEa0g4SVREZlY0b3NVVkVTMXBKQzZ1X2dTUDJKVGQ5RXRHN3JtN3N2Z0paallJaTVKd1BGb1ZhZGJxd9IBeEFVX3lxTE1ZT19ncWtjc0pWUGotNDNSQmlNS2JBZno0Z2owbk91N3VQeWZuN19XdVRnQjQ2S21mLWNTT1VEa0g4SVREZlY0b3NVVkVTMXBKQzZ1X2dTUDJKVGQ5RXRHN3JtN3N2Z0paallJaTVKd1BGb1ZhZGJxdw?oc=5",
+  "title": "'프로야구 준PO' KIA·LG 격돌임박…팬들 결전분위기 고조",
+  "published_at": "2026-10-17T04:14:38.000Z",
+  "collected_at": "2026-10-17T12:25:43.619Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 80
+  },
+  "sentiment": "neutral"
+}

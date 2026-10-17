@@ -1,0 +1,23 @@
+{
+  "id": "community-d4b264cd",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 trendpick_now",
+  "url": "https://blog.naver.com/trendpick_now/224444120851",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/6LzC5El2h2u",
+  "title": "\"감독님은 어디 가셨나요? 선수들은 무슨 죄인가요?\" 4년 연속 꼴찌 키움, 마지막 장면에 남은 의문",
+  "published_at": "2026-10-17T11:40:00.000+09:00",
+  "collected_at": "2026-10-17T12:25:43.619Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

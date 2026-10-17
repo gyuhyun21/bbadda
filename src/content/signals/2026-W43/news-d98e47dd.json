@@ -1,0 +1,23 @@
+{
+  "id": "news-d98e47dd",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "news",
+  "source_name": "조선일보",
+  "url": "https://www.chosun.com/sports/baseball/2026/10/13/GY2TKODEMRRWIMTCMY4TCZBWGA/",
+  "title": "19년 만에 KS→9위 추락 칼바람…'류지현호' 한화, 발표만 남았다",
+  "published_at": "2026-10-12T21:35:00.000Z",
+  "collected_at": "2026-10-17T12:25:43.619Z",
+  "summary_ko": "19년 만에 한국시리즈에 갔던 한화가 9위로 추락한 뒤 류지현 감독 체제로 간다는 발표만 남았다고 조선일보가 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 28,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "image": "https://www.chosun.com/resizer/v2/MU3TIYZWGEZGKYZWHFSWGY3FGI.jpg?auth=32c0c48e8b05c39f6bcee29c34113239258028fd1af299cab5d9549e01a8bf2f&width=700&height=367&smart=true"
+}

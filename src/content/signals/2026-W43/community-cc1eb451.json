@@ -1,0 +1,29 @@
+{
+  "id": "community-cc1eb451",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 SOM SPORTS",
+  "url": "https://blog.naver.com/somsports/224444552390",
+  "title": "“79명 중 단 10명만 웃는다” 2026 KBO 골든글러브 후보 발표…황금장갑 주인공은?",
+  "published_at": "2026-10-17T11:36:00.000+09:00",
+  "collected_at": "2026-10-17T12:25:43.619Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 72,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9VM2otbXRMOS0zZXYwMjZrT0o4czlQTmpRNzJVaHhMN2h0TW1GZGloY015RjI1enJScmVpOEtNaG01YTFCTHVrOC1IZTZuUjM0Snc3WmVabi1XVGZOVzNNQmpvTi1sOWJtUmJIalMtY1N0VXZZRWc?oc=5"
+    }
+  ]
+}

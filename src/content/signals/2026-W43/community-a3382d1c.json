@@ -1,0 +1,23 @@
+{
+  "id": "community-a3382d1c",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "community",
+  "source_name": "엠엘비파크",
+  "url": "https://mlbpark.donga.com/mp/b.php?id=202610110119328912&p=61&b=kbotown&m=view&select=spf&query=%ED%82%A4%EC%9B%80&site=donga.com",
+  "title": "키움 8명 방출",
+  "published_at": "2026-10-10T15:00:00.000Z",
+  "collected_at": "2026-10-17T12:25:43.619Z",
+  "summary_ko": "키움이 투수 박주성·오혜성·정동준·이승재, 포수 김리안 등 8명을 방출했다는 엠엘비파크 글이다.",
+  "excerpt": "... 키움히어로즈가 팀 재정비를 위해 선수단 정리를 단행했습니다. 투수 박주성, 오혜성, 정동준, 이승재 포수 김리안…",
+  "metrics": {},
+  "scores": {
+    "hot": 9,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

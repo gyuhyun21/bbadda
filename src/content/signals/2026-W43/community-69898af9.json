@@ -1,0 +1,23 @@
+{
+  "id": "community-69898af9",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 SPORTS FLOW | 스포츠플로우",
+  "url": "https://blog.naver.com/sf_caster/224444777017",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/Eh3M1Pqwx9F",
+  "title": "\"211안타 치고 왜 남을까\" 롯데 레이예스 잔류 최다안타 신기록",
+  "published_at": "2026-10-17T16:42:00.000+09:00",
+  "collected_at": "2026-10-17T12:25:43.619Z",
+  "summary_ko": "211안타로 최다안타 신기록을 세운 롯데 레이예스의 잔류 여부를 다룬 블로그 글이다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}
