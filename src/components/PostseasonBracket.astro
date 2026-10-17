@@ -142,11 +142,10 @@ const hostOf = (u: string) => { try { return new URL(u).hostname.replace(/^(www|
     try { mine = localStorage.getItem(key); } catch {}
     const show = (d: { counts: Record<string, number>; open: boolean }) => {
       const total = Object.values(d.counts).reduce((a, b) => a + b, 0);
-      if (!d.open && !total) { box.hidden = true; return; } // 마감됐는데 아무도 안 했으면 숨김
       box.querySelectorAll<HTMLElement>('[data-vote-bar]').forEach((el) => { const n = d.counts[el.dataset.voteBar!] ?? 0; el.style.flexGrow = String(total ? n : 1); });
       box.querySelectorAll<HTMLElement>('[data-vote-pct]').forEach((el) => { const n = d.counts[el.dataset.votePct!] ?? 0; el.textContent = `${total ? Math.round((n / total) * 100) : 0}%`; });
       const note = box.querySelector<HTMLElement>('[data-vote-note]')!;
-      note.textContent = `${total.toLocaleString('ko-KR')}명 참여${d.open ? '' : ' · 투표 마감'}`;
+      note.textContent = d.open ? '' : '투표 마감'; // 참여 인원은 표시하지 않고 비율만
       const voted = !!mine || !d.open;
       box.querySelector<HTMLElement>('.ps-vote-btns')!.hidden = voted;
       box.querySelector<HTMLElement>('.ps-vote-result')!.hidden = !voted;
