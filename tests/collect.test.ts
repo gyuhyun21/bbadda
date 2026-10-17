@@ -5,7 +5,7 @@ import { findTeams, classify, findPos } from '../scripts/collect/classify.ts';
 import { dedupe } from '../scripts/collect/dedupe.ts';
 import { buildFeeds, stripOutlet } from '../scripts/collect/news_rss.ts';
 import { collectVertex, findDate, normalizeLink, cleanTitle } from '../scripts/collect/vertex.ts';
-import { collectKakao } from '../scripts/collect/kakao.ts';
+import { collectKakao, docToItem } from '../scripts/collect/kakao.ts';
 import { channelRef, collectYouTube } from '../scripts/collect/youtube.ts';
 import { captionSnippet, isTokenExpired, usernameOf } from '../scripts/collect/instagram.ts';
 import type { Ctx, RawItem } from '../scripts/collect/util.ts';
@@ -177,4 +177,11 @@ import { stripTags } from '../scripts/collect/util.ts';
 test('제목 정리: 숫자·이름 형태 문자 참조를 푼다(카카오 &#34; 실측)', () => {
   assert.equal(stripTags('&#34;출혈과 부종은 잡힌 상태&#34; 3년 연속'), '"출혈과 부종은 잡힌 상태" 3년 연속');
   assert.equal(stripTags('<b>LG</b> &#x27;가을&#x27; &quot;야구&quot; &amp;amp; 끝'), "LG '가을' \"야구\" &amp; 끝");
+});
+test('카카오: 검색 미리보기 이미지 주소를 image 로(https), 없으면 비움', async () => {
+  const { toSignal } = await import('../scripts/collect/classify.ts');
+  const d = { title: '<b>롯데</b> 선발 5인', url: 'https://blog.example/1', datetime: '2026-10-17T09:00:00.000+09:00', blogname: '야구일기' };
+  assert.equal(docToItem({ ...d, thumbnail: 'http://search1.kakaocdn.net/argon/130x130_85_c/abc' }, 'blog').image, 'https://search1.kakaocdn.net/argon/130x130_85_c/abc');
+  assert.equal(docToItem({ ...d, thumbnail: '' }, 'blog').image, undefined);
+  assert.equal(toSignal({ ...docToItem({ ...d, thumbnail: 'https://t.kakaocdn.net/x' }, 'blog') }, { teams: ['lotte'], team: 'lotte', module: 'fans' }, '2026-W42', NOW, cfg).image, 'https://t.kakaocdn.net/x');
 });

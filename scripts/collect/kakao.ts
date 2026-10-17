@@ -1,15 +1,17 @@
-// 카카오(다음) 검색 API — 다음 카페·블로그의 팀 언급 글(팬 반응). 제목·링크·날짜·카페/블로그 이름만, 본문(contents) 저장 안 함.
+// 카카오(다음) 검색 API — 다음 카페·블로그의 팀 언급 글(팬 반응). 제목·링크·날짜·카페/블로그 이름 + 검색 미리보기 이미지 주소(thumbnail)만, 본문(contents) 저장 안 함.
 // 인증: KAKAO_REST_KEY(로컬, 헤더 'Authorization: KakaoAK <키>' — Bearer 아님) 또는 KAKAO_AUTH=proxy(클라우드 시크릿이 dapi.kakao.com 에 같은 헤더 주입)
 import { loadSources, loadTeams } from '../../src/lib/config.ts';
 import { stripTags, type Ctx, type RawItem } from './util.ts';
 
 const API = 'https://dapi.kakao.com/v2/search';
-type Doc = { title: string; url: string; datetime: string; cafename?: string; blogname?: string };
+type Doc = { title: string; url: string; datetime: string; cafename?: string; blogname?: string; thumbnail?: string };
 
 export function docToItem(d: Doc, target: 'cafe' | 'blog'): RawItem {
   return {
     source_type: 'community', source_name: target === 'cafe' ? `다음카페 ${d.cafename ?? ''}`.trim() : `블로그 ${d.blogname ?? ''}`.trim(),
     url: d.url, title: stripTags(d.title), published_at: d.datetime, via: 'fans',
+    // 카카오 검색이 만든 미리보기 이미지(다음 검색 서버 주소). http 는 https 로 — 사이트가 https 라 섞이면 막힌다
+    ...(d.thumbnail && /^https?:\/\//.test(d.thumbnail) ? { image: d.thumbnail.replace(/^http:/, 'https:') } : {}),
   };
 }
 
