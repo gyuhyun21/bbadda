@@ -1,0 +1,23 @@
+{
+  "id": "community-e4830109",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 오늘의 스포츠픽",
+  "url": "https://blog.naver.com/forehfrhdiddl/224444880989",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/CXmt9sL3psn",
+  "title": "“비보 속에도 공을 잡는다” LG 임찬규, 내일 광주 마운드가 더 무겁게 느껴지는 이유",
+  "published_at": "2026-10-17T19:32:00.000+09:00",
+  "collected_at": "2026-10-17T13:04:48.923Z",
+  "summary_ko": "블로그 글에 따르면 LG 임찬규가 가족의 슬픈 일 속에서도 18일 준PO 2차전에 선발로 나선다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

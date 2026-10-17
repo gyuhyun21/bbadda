@@ -1,0 +1,25 @@
+{
+  "id": "community-bc4dd5a7",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "doosan",
+    "lotte",
+    "ssg"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 매튜_하나님의 선물",
+  "url": "https://blog.naver.com/namaksin14/224444558859",
+  "title": "\"계약 조건이 관건이에요\" 구자욱 FA 삼성 잔류 두산 롯데 SSG 영입 변수",
+  "published_at": "2026-10-17T12:30:00.000+09:00",
+  "collected_at": "2026-10-17T13:04:48.923Z",
+  "summary_ko": "블로그 글이 구자욱의 FA 계약 조건과 삼성 잔류 여부를 전망했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

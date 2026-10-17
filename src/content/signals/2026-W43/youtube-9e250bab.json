@@ -1,0 +1,26 @@
+{
+  "id": "youtube-9e250bab",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "youtube",
+  "source_name": "&Culture Art",
+  "url": "https://www.youtube.com/watch?v=CSRtkvLIFCg",
+  "title": "#잠실야구장 #lg트윈스 #야구 #와일드카드 #오스틴 #홍창기 #서울의아리아 #뮤적엘지 #박혜민",
+  "published_at": "2026-10-17T12:04:55Z",
+  "collected_at": "2026-10-17T13:04:48.923Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 152,
+    "likes": 2,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 39,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

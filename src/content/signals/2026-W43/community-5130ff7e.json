@@ -1,0 +1,24 @@
+{
+  "id": "community-5130ff7e",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "lg"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 검은그림자의 알뜰정보노트",
+  "url": "https://blog.naver.com/q212300/224444937477",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/FkmTMoJOK0z",
+  "title": "김도영 미쳤다! 홈런 2방 4타점…KIA, LG 5대1 잡고 준PO 1차전 승리",
+  "published_at": "2026-10-17T21:00:00.000+09:00",
+  "collected_at": "2026-10-17T13:04:48.923Z",
+  "summary_ko": "블로그 글이 준PO 1차전에서 김도영의 홈런 2방 4타점으로 KIA가 LG를 5-1로 이겼다고 정리했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

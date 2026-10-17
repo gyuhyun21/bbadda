@@ -1,0 +1,24 @@
+{
+  "id": "youtube-ce9eaa89",
+  "issue": "2026-W43",
+  "module": "league",
+  "teams": [],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=7XO1pj9sLkA",
+  "title": "홈런으로 응수하는 카스트로의 동점포🔥",
+  "published_at": "2026-10-17T05:47:29Z",
+  "collected_at": "2026-10-17T13:04:48.923Z",
+  "summary_ko": "KBO 공식 채널이 준PO 1차전에서 KIA 카스트로가 동점포로 응수한 장면을 올렸다.",
+  "metrics": {
+    "views": 46643,
+    "likes": 906,
+    "comments": 25
+  },
+  "scores": {
+    "hot": 76,
+    "relevance": 30
+  },
+  "sentiment": "positive"
+}

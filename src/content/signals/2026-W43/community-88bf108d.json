@@ -1,0 +1,24 @@
+{
+  "id": "community-88bf108d",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 터보의 이슈레이더",
+  "url": "https://blog.naver.com/sungm1187/224444749304",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/EAGWs3040tf",
+  "title": "79명 중 단 10명…KBO 골든글러브 후보 오늘 확정",
+  "published_at": "2026-10-17T16:06:00.000+09:00",
+  "collected_at": "2026-10-17T13:04:48.923Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

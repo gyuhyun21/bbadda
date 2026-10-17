@@ -1,0 +1,24 @@
+{
+  "id": "community-b03c49ce",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 캄스포츠",
+  "url": "https://blog.naver.com/cryistal2/224444703814",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/6DNdnlBJEl8",
+  "title": "\"나 때문에 졌나 싶었다..\" 밀워키 구단 초대 거절한 테임즈",
+  "published_at": "2026-10-17T15:06:00.000+09:00",
+  "collected_at": "2026-10-17T13:04:48.923Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

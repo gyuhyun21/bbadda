@@ -1,0 +1,23 @@
+{
+  "id": "community-e10c4700",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 JNJ",
+  "url": "https://blog.naver.com/habana8240/224444473248",
+  "title": "MLB 112승 카라스코도 감탄한 박해민의 명품 호수비",
+  "published_at": "2026-10-17T13:29:00.000+09:00",
+  "collected_at": "2026-10-17T13:04:48.923Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

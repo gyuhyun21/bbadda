@@ -1,0 +1,26 @@
+{
+  "id": "youtube-dcd2f070",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "youtube",
+  "source_name": "플레이스쿨 남희",
+  "url": "https://www.youtube.com/watch?v=3kVCDOuqPt4",
+  "title": "이정도면 야구장 가능? #lg트윈스 #캐치캐치 #엑셀방송 #유니버스레이블 #스파르타레이블",
+  "published_at": "2026-10-17T11:00:26Z",
+  "collected_at": "2026-10-17T13:04:48.923Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 841,
+    "likes": 4,
+    "comments": 3
+  },
+  "scores": {
+    "hot": 44,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

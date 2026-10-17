@@ -1,0 +1,24 @@
+{
+  "id": "community-31d3445d",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "레딧 r/KBO",
+  "url": "https://www.reddit.com/r/KBO/comments/1x5mj05/2026_%EC%8B%A0%ED%95%9C_sol_kbo_postseason_wild_card_match_doosan/",
+  "title": "Partita Wild Card di Postseason KBO 2026 신한 SOL",
+  "published_at": "2026-10-13T15:00:00.000Z",
+  "collected_at": "2026-10-17T13:04:48.923Z",
+  "summary_ko": "",
+  "excerpt": "... ⚾Partita Wild Card: Il 4° seed (LG Twins) affronterà il 5° seed (Doosan) Bears.…",
+  "metrics": {},
+  "scores": {
+    "hot": 34,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

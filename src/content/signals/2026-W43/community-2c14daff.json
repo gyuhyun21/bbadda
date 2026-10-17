@@ -1,0 +1,22 @@
+{
+  "id": "community-2c14daff",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "다음카페 도탁스 (DOTAX)",
+  "url": "https://cafe.daum.net/dotax/Elgq/4799184",
+  "title": "기아타이거즈가 가을야구에 진출하면 나타나는 강성노조",
+  "published_at": "2026-10-17T18:24:32.000+09:00",
+  "collected_at": "2026-10-17T13:04:48.923Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

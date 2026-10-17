@@ -1,0 +1,24 @@
+{
+  "id": "community-35d46a38",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "레딧 r/KBO",
+  "url": "https://www.reddit.com/r/KBO/comments/1wt5klm/2026_kbo_league_september_29_october_1/",
+  "title": "2026 KBO League: September 29 - October 1",
+  "published_at": "2026-09-28T00:00:00.000Z",
+  "collected_at": "2026-10-17T13:04:48.923Z",
+  "summary_ko": "",
+  "excerpt": "... NC Dinos, Doosan Bears. 9/29/26 - 9/30/26, Sajik Baseball Stadium, Kiwoom Heroes, Lotte Giants.…",
+  "metrics": {},
+  "scores": {
+    "hot": 8,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

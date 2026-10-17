@@ -1,0 +1,23 @@
+{
+  "id": "community-05668b6c",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "community",
+  "source_name": "엠엘비파크",
+  "url": "https://mlbpark.donga.com/mp/b.php?id=202610010119095905&p=91&b=kbotown&m=view&site=donga.com",
+  "title": "2026 NC 다이노스 마무리",
+  "published_at": "2026-09-30T00:00:00.000Z",
+  "collected_at": "2026-10-17T13:04:48.923Z",
+  "summary_ko": "",
+  "excerpt": "... 선수, G, 타율, 안타, 홈런, 타점, OPS. 김주원, 121 .288, 138, 18, 59 .815.…",
+  "metrics": {},
+  "scores": {
+    "hot": 8,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

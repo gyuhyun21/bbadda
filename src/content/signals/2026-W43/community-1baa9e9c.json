@@ -1,0 +1,23 @@
+{
+  "id": "community-1baa9e9c",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "엠엘비파크",
+  "url": "https://mlbpark.donga.com/mp/b.php?id=202610140119435262&p=1&b=kbotown&m=view&select=spf&query=%EC%82%BC%EC%84%B1&site=donga.com",
+  "title": "더 현대 대구 삼성 라이온즈 포스트시즌 팝업 후기",
+  "published_at": "2026-10-13T15:00:00.000Z",
+  "collected_at": "2026-10-17T13:04:48.923Z",
+  "summary_ko": "엠엘비파크 글이 더현대 대구의 삼성 포스트시즌 팝업 후기를 올렸다.",
+  "excerpt": "... 삼성더 현대 대구 삼성 라이온즈 포스트 ... 지난 정규시즌 버전은 1등하면 삼성 유니폼 한…",
+  "metrics": {},
+  "scores": {
+    "hot": 34,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

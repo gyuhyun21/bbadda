@@ -1,0 +1,22 @@
+{
+  "id": "news-cb491480",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "뉴시스",
+  "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9DSHBIRG5RNTVOdGI3SExZYzloem14U191b3VLNU5qUlpFSDdiVWZJdHJsQm5KLVNpMHI2VDhGcTctYWJ3SDZhc1I3bFMzZ0s5QlMxSEp3cW5wTUtZMVVaZ0dtNnh4M1BkNTRDU2cwSUU2TklVQXg3VtIBeEFVX3lxTE9DSHBIRG5RNTVOdGI3SExZYzloem14U191b3VLNU5qUlpFSDdiVWZJdHJsQm5KLVNpMHI2VDhGcTctYWJ3SDZhc1I3bFMzZ0s5QlMxSEp3cW5wTUtZMVVaZ0dtNnh4M1BkNTRDU2cwSUU2TklVQXg3Vg?oc=5",
+  "title": "\"KIA 타이거즈 승리하라\"",
+  "published_at": "2026-10-17T06:52:33.000Z",
+  "collected_at": "2026-10-17T13:04:48.923Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

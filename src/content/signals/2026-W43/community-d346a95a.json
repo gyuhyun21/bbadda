@@ -1,0 +1,24 @@
+{
+  "id": "community-d346a95a",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "nc"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 엔터스포츠",
+  "url": "https://blog.naver.com/lastyoon1/224443847433",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/7Wg9s9Irr1t",
+  "title": "삼성이 넘긴 지명권으로 NC가 뽑은 선수…타율 0.438 거포의 정체",
+  "published_at": "2026-10-17T05:31:00.000+09:00",
+  "collected_at": "2026-10-17T13:04:48.923Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 62,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

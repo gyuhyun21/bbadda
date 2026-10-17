@@ -1,0 +1,28 @@
+{
+  "id": "news-9a6331da",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "진일보 | 전남일보",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5EalFRS0txN1oxUDdkSGpEN2xfM1JrcXgtNU53Nks5OTFORDNxXy1SeHV3bm5IQW9zNFowTDhQQzFobE03dWlzQ0s2MDREOTBoRXpjRkZIRExxcllBZFMwNUlVWDR3Z0t1TGp4UmNzVQ?oc=5",
+  "title": "수창초, KIA 타이거즈기 7번째 정상 탈환",
+  "published_at": "2026-10-17T04:16:13.000Z",
+  "collected_at": "2026-10-17T13:04:48.923Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 73,
+    "relevance": 50
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "더게이트",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1pU2FNcmF1VjVIQ2hLUkFUQXBQYnZiOXBTV0E1RVRkNkNsZ29KSFU0MnhDMXJGX1JzQ3JyWThoaXVBQXc5Rkw3QUdpdXAtN05ucG5xWWs4UlR5LUVXTTdxR1hySExoakVTaTRZbtIBbEFVX3lxTE1pU2FNcmF1VjVIQ2hLUkFUQXBQYnZiOXBTV0E1RVRkNkNsZ29KSFU0MnhDMXJGX1JzQ3JyWThoaXVBQXc5Rkw3QUdpdXAtN05ucG5xWWs4UlR5LUVXTTdxR1hySExoakVTaTRZbg?oc=5"
+    }
+  ]
+}

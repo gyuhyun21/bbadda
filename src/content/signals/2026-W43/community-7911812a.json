@@ -1,0 +1,22 @@
+{
+  "id": "community-7911812a",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "community",
+  "source_name": "다음카페 樂soccer",
+  "url": "https://cafe.daum.net/rocksoccer/ADuT/369451",
+  "title": "\"두산 베어스는 잠실에 잔류하게 되었습니다\"",
+  "published_at": "2026-10-14T21:48:50.000+09:00",
+  "collected_at": "2026-10-17T13:04:48.923Z",
+  "summary_ko": "카페 글이 두산이 잠실에 잔류하게 됐다는 소식을 공유했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 42,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

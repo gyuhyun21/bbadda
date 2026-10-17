@@ -1,0 +1,26 @@
+{
+  "id": "youtube-4bc1fd4f",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "source_name": "한입톡",
+  "url": "https://www.youtube.com/watch?v=rP5WTKf2c2c",
+  "title": "한화이글스 감독 류지현 내년에 다시 올라서나",
+  "published_at": "2026-10-17T12:45:26Z",
+  "collected_at": "2026-10-17T13:04:48.923Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 427,
+    "likes": 2,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 38,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

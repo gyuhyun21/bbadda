@@ -1,0 +1,23 @@
+{
+  "id": "community-fc13b7be",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 이세상스포츠",
+  "url": "https://blog.naver.com/biasnews/224444703849",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/KxIWTy0BIic",
+  "title": "\"빈틈이 꽤 보인다\" 3년 20억원 류지현 감독, 한화 오자마자 선수들에 긴장감",
+  "published_at": "2026-10-17T15:06:00.000+09:00",
+  "collected_at": "2026-10-17T13:04:48.923Z",
+  "summary_ko": "블로그 글에 따르면 3년 20억 원에 한화에 온 류지현 감독이 선수단에 긴장감을 주고 있다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

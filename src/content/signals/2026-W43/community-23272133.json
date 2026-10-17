@@ -1,0 +1,23 @@
+{
+  "id": "community-23272133",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 스포츠 다이어리",
+  "url": "https://blog.naver.com/sportpulse/224444399039",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/4ITYaQWhpMi",
+  "title": "\"3년 연속 7위인데 왜 아직 못 자르나? 롯데가 김태형 재계약 고민하는 이유",
+  "published_at": "2026-10-17T09:40:00.000+09:00",
+  "collected_at": "2026-10-17T13:04:48.923Z",
+  "summary_ko": "블로그 글이 롯데가 3년 연속 7위인 김태형 감독의 재계약을 고민하는 이유를 짚었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

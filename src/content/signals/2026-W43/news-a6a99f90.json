@@ -1,0 +1,23 @@
+{
+  "id": "news-a6a99f90",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "news",
+  "source_name": "스타뉴스",
+  "url": "https://www.starnewskorea.com/sports/2026/10/17/2026101714555312232",
+  "title": "'SSG만의 가을야구' 광현팀+최정팀+만원관중 모두 즐겼다... '긴 생머리 타자' 한두솔 MVP-'2단 변신' 고명준 우수상 [인천 현장리뷰]",
+  "published_at": "2026-10-17T12:22:00.000Z",
+  "collected_at": "2026-10-17T13:04:48.923Z",
+  "summary_ko": "SSG가 만원 관중 속에 팬 참여 가을야구 이벤트를 열었다. 기사는 한두솔이 MVP, 고명준이 우수상을 받았다고 전한다.",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "image": "https://image.starnewskorea.com/cdn-cgi/image/f=auto,w=1200,h=633,fit=cover,q=high,sharpen=2/21/2026/10/2026101714555312232_1.jpg"
+}

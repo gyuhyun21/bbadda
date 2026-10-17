@@ -1,0 +1,23 @@
+{
+  "id": "news-1f3915f3",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "뉴시스",
+  "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261017_0003829973",
+  "title": "'통한의 솔로포 두 방' LG 선발 톨허스트, 5이닝 3피안타 3실점[준PO]",
+  "published_at": "2026-10-17T06:57:36.000Z",
+  "collected_at": "2026-10-17T13:04:48.923Z",
+  "summary_ko": "준PO 1차전에서 LG 선발 톨허스트는 5이닝 3피안타 3실점으로 물러났다. 보도는 솔로포 두 방이 아쉬웠다고 전한다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 80
+  },
+  "sentiment": "neutral",
+  "image": "https://img1.newsis.com/2026/10/17/NISI20261017_0021492478_web.jpg"
+}
