@@ -29,10 +29,14 @@ claude.ai 루틴(예약 작업)에 아래 프롬프트 하나를 등록한다. �
    - 은어(slang)가 붙은 글은 버리지 말고 요약에 가볍게 소개, 뜻이 확인 안 되면 "(해석)".
    - 순위·경기 결과는 출처 링크가 있는 글로만 짧게. 기록 표를 만들지 않는다.
    - 인용(quote)은 15단어 이내.
+4-1. 포스트시즌(10~11월, config/site.yaml 의 postseason_bracket: true 일 때): 이번에 수집된 뉴스 기사로 최종 점수가 확인된 경기만
+   data/postseason.yaml 의 그 경기에 result(팀 id: 점수)와 source(기사 주소)를 채운다. 기사로 확인 안 되면 비워 둔다.
+   일정·구장이 바뀌었다는 기사가 있으면 date·venue 를 고치고 schedule_source 근처 주석에 기사 주소를 남긴다.
+   한국시리즈가 끝나면 PR 본문에 "postseason_bracket 끄기 제안"을 적는다(설정 변경은 루틴이 하지 않는다).
 5. npm run enrich — 요약한 뉴스에 원 기사 주소와 대표 사진 주소를 채운다(실패해도 진행, 사진이 없으면 글자 커버).
 6. npm run validate · npm test · npm run build. 실패하면 고친다.
 7. 커밋·푸시·PR. 제목 "매일 갱신 <날짜>". 본문: 소스별 수집 건수, 삭제 건수와 이유, 팀 추정 확인 결과, 요약한 건수(팀별), 실패 소스, YouTube units.
-   콘텐츠(src/content/**, logs/**) 외의 파일은 이 PR 에 넣지 않는다.
+   콘텐츠(src/content/**, logs/**, data/postseason.yaml) 외의 파일은 이 PR 에 넣지 않는다.
 8. 검증 3종이 모두 통과했으면 PR 을 merge commit 으로 머지한다. 하나라도 실패하면 머지하지 않고 PR 본문 맨 위에 "자동 발행 보류: <실패 내용>".
 
 # 금지
