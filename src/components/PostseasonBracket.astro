@@ -160,7 +160,7 @@ const hostOf = (u: string) => { try { return new URL(u).hostname.replace(/^(www|
       box.querySelectorAll<HTMLElement>('[data-vote-pct]').forEach((el) => { const n = d.counts[el.dataset.votePct!] ?? 0; el.textContent = `${total ? Math.round((n / total) * 100) : 0}%`; });
       const note = box.querySelector<HTMLElement>('[data-vote-note]')!;
       // 참여 인원은 표시하지 않고 비율만. 투표 전에는 사용법 한 줄
-      note.textContent = !d.open ? '투표 마감' : mine ? `내 예측: ${box.querySelector<HTMLElement>(`[data-vote-team="${mine}"]`)?.textContent ?? ''} · 경기 시작 전까지 비율이 바뀌어요` : `이길 팀을 누르면 팬들의 예측 비율이 보여요 · ${note.dataset.close} 마감`;
+      note.textContent = !d.open ? '투표 마감' : mine ? `내 예측: ${box.querySelector<HTMLElement>(`[data-vote-team="${mine}"]`)?.textContent ?? ''} · 경기 시작 전까지 비율이 바뀌어요` : `${note.dataset.close} 마감`;
       const voted = !!mine || !d.open;
       box.querySelector<HTMLElement>('.ps-vote-btns')!.hidden = voted;
       box.querySelector<HTMLElement>('.ps-vote-result')!.hidden = !voted;
