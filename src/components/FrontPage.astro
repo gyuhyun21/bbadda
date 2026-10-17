@@ -7,7 +7,8 @@ import TeamPicker from './TeamPicker.astro';
 import CommunitySection from './CommunitySection.astro';
 import RailItem from './RailItem.astro';
 import FanList from './FanList.astro';
-import { communitySection, newsImages, loadStandings, streakLabel } from '../lib/config.ts';
+import PostseasonBracket from './PostseasonBracket.astro';
+import { communitySection, newsImages, loadStandings, streakLabel, postseasonBracket } from '../lib/config.ts';
 import { TEAMS, loadAll, ofTeam, recent, hot, newest, kstDay, daysOf, onDay, dayLabel, seasonTitle, displayTitle, fmtDate, teamColor, teamById, isToday, youtubeId, isCommunityPost, byDayThenHot, latestBatch, newFirst, BUILD_TIME } from '../lib/site.ts';
 const data = await loadAll();
 const all = data.signals;
@@ -48,6 +49,7 @@ const days = daysOf(all).slice(0, 7);
 <nav class="side-nav" aria-label="섹션 바로가기" data-pagefind-ignore>
   {/* 넓은 PC 화면(1360px 이상)에서만 왼쪽에 고정. 지금 보는 섹션이 강조된다 */}
   <ul>
+    <li><a href="#h-postseason" data-spy="h-postseason">가을야구 대진</a></li>
     <li><a href="#h-headline" data-spy="h-headline">헤드라인</a></li>
     <li data-side-myteam hidden><a href="#" data-spy="myteam">내 팀</a></li>
     <li><a href="#h-team-rail" data-spy="h-team-rail">구단별 소식</a></li>
@@ -62,6 +64,8 @@ const days = daysOf(all).slice(0, 7);
   <p class="eyebrow">{dayLabel(today)} · 매일 아침 갱신</p>
   <h1 class="sr-only">BBADDA 빠따닷컴</h1>
 </section>
+
+{postseasonBracket() && <PostseasonBracket />}
 
 {lead && (
   <section class="block front-headline" aria-labelledby="h-headline">

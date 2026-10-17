@@ -1,0 +1,54 @@
+---
+// 가을야구 대진(첫 화면 맨 위) — MLB.com 포스트시즌 브래킷·ESPN 시리즈 카드 방식: 다음 경기 강조 + 라운드 카드 한 줄.
+// 데이터: data/postseason.yaml(일정: KBO 발표, 결과: 수집된 기사로 확인한 경기만). 끄기: config/site.yaml postseason_bracket: false
+import { loadPostseason, resolvePostseason, type Side, type GameView } from '../lib/postseason.ts';
+import { teamById, teamColor, BUILD_TIME } from '../lib/site.ts';
+const data = loadPostseason();
+const today = new Date(BUILD_TIME + 9 * 3600_000).toISOString().slice(0, 10);
+const view = data ? resolvePostseason(data, today) : null;
+const name = (s: Side) => (s.id ? teamById.get(s.id)?.short ?? s.id : s.label);
+const color = (s: Side) => (s.id ? teamColor(s.id) : '#C7CBD3');
+const when = (g: GameView) => `${g.date === today ? '오늘' : `${Number(g.date.slice(5, 7))}월 ${Number(g.date.slice(8, 10))}일 (${g.weekday})`} ${g.time}`;
+const champion = view?.rounds.at(-1)?.winner;
+---
+{view && (
+  <section class="block ps-block" aria-labelledby="h-postseason" data-pagefind-ignore>
+    <div class="block-head"><h2 id="h-postseason">{data!.season} 가을야구</h2><span class="small">일정: KBO 발표 · 결과: 언론 보도로 확인한 경기</span></div>
+    <div class="ps-wrap">
+      {view.next ? (
+        <div class="ps-next">
+          <p class="ps-next-label">{view.next.date === today ? '오늘 경기' : '다음 경기'}</p>
+          <p class="ps-next-round">{view.next.roundName} {view.next.no}차전</p>
+          <div class="ps-next-teams">
+            {view.next.sides.map((s, i) => (
+              <>
+                {i === 1 && <span class="ps-vs">vs</span>}
+                <span class="ps-team"><span class="ps-mark" style={`--team:${color(s)}`}>{name(s)}</span><span class="ps-wins">{s.wins}승</span></span>
+              </>
+            ))}
+          </div>
+          <p class="ps-next-when"><strong>{when(view.next)}</strong> · {view.next.venue}</p>
+        </div>
+      ) : champion ? (
+        <div class="ps-next"><p class="ps-next-label">우승</p><div class="ps-next-teams"><span class="ps-team"><span class="ps-mark" style={`--team:${teamColor(champion)}`}>{teamById.get(champion)?.short}</span></span></div><p class="ps-next-when"><strong>{teamById.get(champion)?.name}</strong> {data!.season} 한국시리즈 우승</p></div>
+      ) : null}
+      <ol class="ps-rounds">
+        {view.rounds.map((r) => (
+          <li class={`ps-round is-${r.status}`}>
+            <p class="ps-round-name">{r.name}<span>{r.toWin}선승</span></p>
+            {r.sides.map((s) => (
+              <p class={`ps-side${r.winner && s.id === r.winner ? ' is-winner' : ''}${r.winner && s.id !== r.winner ? ' is-out' : ''}`}>
+                <span class="ps-dot" style={`--team:${color(s)}`}></span>
+                <span class="ps-side-name">{name(s)}</span>
+                <span class="ps-side-wins">{r.status === 'upcoming' && !s.wins ? '' : s.wins}</span>
+              </p>
+            ))}
+            <p class="ps-round-foot">
+              {r.winner ? `${teamById.get(r.winner)?.short} 진출` : r.next ? `${r.next.no}차전 ${Number(r.next.date.slice(5, 7))}.${Number(r.next.date.slice(8, 10))}(${r.next.weekday}) ${r.next.time} ${r.next.venue}` : '일정 확인 중'}
+            </p>
+          </li>
+        ))}
+      </ol>
+    </div>
+  </section>
+)}

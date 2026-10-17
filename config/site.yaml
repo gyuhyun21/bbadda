@@ -16,3 +16,5 @@ news_images: true
 #   YouTube·Instagram 은 공식 퍼가기 화면으로 연다. 아래 매체는 다른 사이트 안에 띄우는 것을 막아 두어(2026-10-17 확인) 요약과 '원문 보기'만 보여 준다.
 article_modal: true
 modal_blocked_hosts: [mt.co.kr, starnewskorea.com]
+# postseason_bracket: 첫 화면 맨 위 가을야구 대진(data/postseason.yaml). 포스트시즌이 끝나면 false. 환경변수 SITE_POSTSEASON=on|off 우선(2026-10-17 도입).
+postseason_bracket: true

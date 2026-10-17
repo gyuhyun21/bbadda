@@ -515,3 +515,33 @@ button.rail-more { font: inherit; background: none; border: 0; cursor: pointer; 
 .src-pill--blog { color: #1E7A16; background: #E6F4E3; }
 .src-pill--cafe { color: #A35A00; background: #FCEFD9; }
 .src-pill--site { color: var(--site); background: color-mix(in srgb, var(--site) 12%, white); }
+
+/* ── 가을야구 대진 ── */
+.ps-block { padding-top: 24px; }
+.ps-wrap { display: grid; gap: 18px; grid-template-columns: 1fr; }
+@media (min-width: 1000px) { .ps-wrap { grid-template-columns: 300px 1fr; align-items: stretch; } }
+.ps-next { display: grid; align-content: center; gap: 8px; padding: 22px 24px; border-radius: 22px; background: #1D1D1F; color: #fff; }
+.ps-next-label { margin: 0; font-size: 12px; font-weight: 700; color: #FFD34D; letter-spacing: 0.02em; }
+.ps-next-round { margin: 0; font-size: 15px; font-weight: 600; color: rgba(255,255,255,0.8); }
+.ps-next-teams { display: flex; align-items: center; gap: 14px; margin: 6px 0; }
+.ps-team { display: grid; justify-items: center; gap: 6px; }
+.ps-mark { width: 58px; height: 58px; border-radius: 50%; display: grid; place-items: center; background: var(--team); color: #fff; font: 800 16px/1 var(--font); box-shadow: 0 0 0 3px rgba(255,255,255,0.15); }
+.ps-wins { font-size: 12px; color: rgba(255,255,255,0.7); }
+.ps-vs { font-size: 13px; font-weight: 700; color: rgba(255,255,255,0.5); }
+.ps-next-when { margin: 0; font-size: 14px; color: rgba(255,255,255,0.8); }
+.ps-next-when strong { color: #fff; font-size: 17px; }
+.ps-rounds { list-style: none; margin: 0; padding: 4px 2px 10px; display: grid; grid-auto-flow: column; grid-auto-columns: minmax(160px, 1fr); gap: 18px; overflow-x: auto; scrollbar-width: none; counter-reset: r; }
+.ps-rounds::-webkit-scrollbar { display: none; }
+.ps-round { position: relative; display: grid; gap: 8px; align-content: start; padding: 16px; border-radius: 18px; background: #fff; box-shadow: 0 0 0 1px #E8E8ED; }
+/* 라운드 사이 연결선(진출 방향) */
+.ps-round + .ps-round::before { content: ''; position: absolute; left: -18px; top: 50%; width: 18px; height: 2px; background: #C7CBD3; }
+.ps-round.is-done { opacity: 0.85; }
+.ps-round.is-live { box-shadow: 0 0 0 2px var(--accent); }
+.ps-round-name { margin: 0; font-size: 14px; font-weight: 700; display: flex; justify-content: space-between; gap: 8px; }
+.ps-round-name span { white-space: nowrap; font-size: 11px; font-weight: 600; color: var(--muted); }
+.ps-side { margin: 0; display: grid; grid-template-columns: 12px 1fr auto; align-items: center; gap: 8px; font-size: 15px; font-weight: 600; }
+.ps-dot { width: 12px; height: 12px; border-radius: 50%; background: var(--team); }
+.ps-side-wins { font-variant-numeric: tabular-nums; font-weight: 700; }
+.ps-side.is-winner .ps-side-name::after { content: ' ✓'; color: #0A7A3D; }
+.ps-side.is-out { color: var(--muted); text-decoration: line-through; text-decoration-color: rgba(0,0,0,0.25); }
+.ps-round-foot { margin: 2px 0 0; font-size: 12px; color: var(--muted); border-top: 1px solid #E8E8ED; padding-top: 8px; }

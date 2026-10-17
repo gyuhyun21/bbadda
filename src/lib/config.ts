@@ -43,7 +43,7 @@ export function loadTeams() {
   return t;
 }
 
-const siteSchema = z.object({ layout: z.enum(['soft', 'apple', 'magazine', 'classic']).default('classic'), community_section: z.boolean().default(false), news_images: z.boolean().default(false), home: z.enum(['front', 'simple']).default('simple'), article_modal: z.boolean().default(false), modal_blocked_hosts: z.array(z.string()).default([]) });
+const siteSchema = z.object({ layout: z.enum(['soft', 'apple', 'magazine', 'classic']).default('classic'), community_section: z.boolean().default(false), news_images: z.boolean().default(false), home: z.enum(['front', 'simple']).default('simple'), article_modal: z.boolean().default(false), postseason_bracket: z.boolean().default(false), modal_blocked_hosts: z.array(z.string()).default([]) });
 /** 화면 레이아웃(config/site.yaml). 환경변수 SITE_LAYOUT 이 우선. 파일이 없으면 classic. */
 export function siteLayout(): 'soft' | 'apple' | 'magazine' | 'classic' {
   const env = process.env.SITE_LAYOUT;
@@ -55,6 +55,12 @@ export function homeLayout(): 'front' | 'simple' {
   const env = process.env.SITE_HOME;
   if (env === 'front' || env === 'simple') return env;
   try { return load('site.yaml', siteSchema).home; } catch { return 'simple'; }
+}
+/** 첫 화면 맨 위 가을야구 대진(data/postseason.yaml). 환경변수 SITE_POSTSEASON=on|off 가 우선. 비시즌엔 false 로 끈다. */
+export function postseasonBracket(): boolean {
+  const env = process.env.SITE_POSTSEASON;
+  if (env === 'on' || env === 'off') return env === 'on';
+  try { return load('site.yaml', siteSchema).postseason_bracket; } catch { return false; }
 }
 /** 기사 모달(사이트 안에서 원문을 띄움). 환경변수 SITE_MODAL=on|off 가 우선. 파일이 없으면 끔. */
 export function articleModal(): { on: boolean; blocked: string[] } {

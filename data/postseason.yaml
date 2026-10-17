@@ -1,0 +1,54 @@
+# 2026 KBO 포스트시즌 대진·일정·결과 — 첫 화면 '가을야구 대진'의 데이터.
+# 일정(날짜·구장·대진): KBO 발표 일정(저장소 주인 제공 일정표, 자료: KBO) · 보도: 강릉뉴스 '2026 한국시리즈 11월 2일 개막…일정·예매·우승 전망'(2026-10-15)
+# 요일과 시작 시각은 날짜로 계산한다(평일 18:30, 토·일 14:00). ※ 일정표의 PO 5차전 '31(목)'은 실제 10월 31일 토요일.
+# 결과는 KBO 사이트를 자동 수집하지 않는다(robots.txt 금지). 매일 루틴이 '수집된 뉴스 기사'로 확인한 경기만 result 와 source(기사 주소)를 채운다.
+# 팀 칸: 팀 id 또는 { winner_of: 라운드 id }. 구장 칸: 이름 또는 { home_of: 라운드 id }(그 라운드 승자의 홈).
+season: 2026
+schedule_source: https://news.google.com/rss/articles/CBMib0FVX3lxTE5GOUEtUi1Lejd5TzhvZXB6TjFDZWZHLWlqZ1FQaGVzaG9KeDFSNEdZOHRlVm5uZDlpcXpvNmplQzdGSE1KbEpjRk4zYXRXcHVRbDRueGpRLXdrMU9mVE5WaGVJLW9uZXdpTVQyOWZzb9IBckFVX3lxTE5FVVE5MWVpdEZVdzBuNDRMaVdKMC1pUnZaVnpyNEwxbXJtcnlEOXJZN3dmSTA5eGhCWnVXc1NSdWwyNXBYRFFXZ0h3NWo3QnFXbWUwejI5WjlEWUpNUmxFWEc4bGdndk5rWG0weGgzdzhfZw?oc=5
+time: { weekday: "18:30", weekend: "14:00" }
+home: { lg: 잠실, doosan: 잠실, kia: 광주, samsung: 대구, kt: 수원 }
+rounds:
+  - id: wc
+    name: 와일드카드 결정전
+    short: WC
+    to_win: 2
+    advantage: { lg: 1 } # 정규시즌 4위 1승 안고 시작
+    teams: [doosan, lg]
+    games:
+      - { no: 1, date: 2026-10-14, venue: 잠실, result: { lg: 4, doosan: 1 }, source: "https://www.yna.co.kr/view/IPT20261014000018365" }
+      - { no: 2, date: 2026-10-15, venue: 잠실 }
+  - id: spo
+    name: 준플레이오프
+    short: 준PO
+    to_win: 3
+    teams: [{ winner_of: wc }, kia]
+    games:
+      - { no: 1, date: 2026-10-17, venue: 광주 }
+      - { no: 2, date: 2026-10-18, venue: 광주 }
+      - { no: 3, date: 2026-10-20, venue: { home_of: wc } }
+      - { no: 4, date: 2026-10-21, venue: { home_of: wc } }
+      - { no: 5, date: 2026-10-23, venue: 광주 }
+  - id: po
+    name: 플레이오프
+    short: PO
+    to_win: 3
+    teams: [{ winner_of: spo }, samsung]
+    games:
+      - { no: 1, date: 2026-10-25, venue: 대구 }
+      - { no: 2, date: 2026-10-26, venue: 대구 }
+      - { no: 3, date: 2026-10-28, venue: { home_of: spo } }
+      - { no: 4, date: 2026-10-29, venue: { home_of: spo } }
+      - { no: 5, date: 2026-10-31, venue: 대구 }
+  - id: ks
+    name: 한국시리즈
+    short: KS
+    to_win: 4
+    teams: [{ winner_of: po }, kt]
+    games:
+      - { no: 1, date: 2026-11-02, venue: 수원 }
+      - { no: 2, date: 2026-11-03, venue: 수원 }
+      - { no: 3, date: 2026-11-05, venue: { home_of: po } }
+      - { no: 4, date: 2026-11-06, venue: { home_of: po } }
+      - { no: 5, date: 2026-11-07, venue: { home_of: po } }
+      - { no: 6, date: 2026-11-09, venue: 수원 }
+      - { no: 7, date: 2026-11-10, venue: 수원 }

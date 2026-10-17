@@ -1,6 +1,7 @@
 // npm run validate — 설정·콘텐츠 스키마와 편집 규칙 검사. 하나라도 위반이면 exit 1.
 import { basename, dirname, relative } from 'node:path';
 import { loadTeams, loadStandings } from '../src/lib/config.ts';
+import { loadPostseason } from '../src/lib/postseason.ts';
 import { readJsonDir, readMarkdownDir, contentDir } from '../src/lib/fsdata.ts';
 import { signalSchema, columnSchema, type Signal } from '../src/lib/schemas.ts';
 
@@ -44,6 +45,17 @@ export function validateAll(root: string): Report {
   let teamIds = new Set<string>();
   try { teamIds = new Set(loadTeams().teams.map((t) => t.id)); } catch (e) { errors.push(String((e as Error).message)); }
   try { loadStandings(); } catch (e) { errors.push(String((e as Error).message)); }
+  // 포스트시즌 대진: 형식, 팀 id, 결과의 팀 id, 결과에는 근거 기사(source) 필수
+  try {
+    const ps = loadPostseason(root);
+    for (const r of ps?.rounds ?? []) {
+      for (const t of r.teams) if (typeof t === 'string' && !teamIds.has(t)) errors.push(`data/postseason.yaml ${r.id}: 없는 팀 id ${t}`);
+      for (const g of r.games) {
+        if (g.result && !g.source) errors.push(`data/postseason.yaml ${r.id} ${g.no}차전: 결과에는 근거 기사(source)가 필요합니다`);
+        for (const k of Object.keys(g.result ?? {})) if (!teamIds.has(k)) errors.push(`data/postseason.yaml ${r.id} ${g.no}차전: 없는 팀 id ${k}`);
+      }
+    }
+  } catch (e) { errors.push(`data/postseason.yaml 형식 오류: ${(e as Error).message.slice(0, 200)}`); }
 
   // ── signals
   const signals = new Map<string, Signal>();
