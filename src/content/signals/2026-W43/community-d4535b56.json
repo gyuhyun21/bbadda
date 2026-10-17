@@ -1,0 +1,24 @@
+{
+  "id": "community-d4535b56",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "다음카페 樂soccer",
+  "url": "https://cafe.daum.net/rocksoccer/ADuT/369519",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/5UVVbCJG2Zo",
+  "title": "삼튜브 원이&제나 시구,시타 비하인드 잘 보겠습니다~",
+  "published_at": "2026-10-15T18:23:04.000+09:00",
+  "collected_at": "2026-10-17T13:04:48.923Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 50,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

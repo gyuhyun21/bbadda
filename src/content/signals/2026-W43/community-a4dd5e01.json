@@ -1,0 +1,24 @@
+{
+  "id": "community-a4dd5e01",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "lg"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 아는것이 힘이다",
+  "url": "https://blog.naver.com/allahim/224444963728",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/HsBMedm4rOV",
+  "title": "KIA-LG 준PO 2차전 비 예보｜10월 18일 우천 취소 가능성과 달라진 규정 총정리",
+  "published_at": "2026-10-17T21:31:00.000+09:00",
+  "collected_at": "2026-10-17T13:04:48.923Z",
+  "summary_ko": "블로그 글이 18일 광주 준PO 2차전에 비 예보가 있어 우천 취소 가능성과 달라진 규정을 정리했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

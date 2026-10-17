@@ -1,0 +1,24 @@
+{
+  "id": "community-bff3ea82",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&document_srl=10454955540",
+  "title": "법 생겨도 암표 아직 있죠? - 야구",
+  "published_at": "2026-10-17T02:04:48.923Z",
+  "collected_at": "2026-10-17T13:04:48.923Z",
+  "summary_ko": "",
+  "excerpt": "... [레벨:33] 베어스 1 분 전. 티켓베이가 교묘하게 빠져나가서 헌법이 수정 ... 두산; 10. 삼성;…",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

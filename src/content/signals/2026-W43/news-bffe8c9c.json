@@ -1,0 +1,23 @@
+{
+  "id": "news-bffe8c9c",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "연합뉴스",
+  "url": "https://www.yna.co.kr/amp/view/AKR20261017038700007",
+  "title": "김도영 홈런 2방 포함 4타점 원맨쇼…KIA, PO진출 71％ 잡았다",
+  "published_at": "2026-10-17T07:59:59.000Z",
+  "collected_at": "2026-10-17T13:04:48.923Z",
+  "summary_ko": "KIA 김도영이 준PO 1차전에서 홈런 2방 포함 4타점을 올렸다. 기사는 KIA가 5-1로 이겨 PO 진출 확률 71%를 잡았다고 전한다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "image": "https://img3.yna.co.kr/photo/yna/YH/2026/10/17/PYH2026101703790005400_P4.jpg"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "community-9099a0f6",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "레딧 r/KBO",
+  "url": "https://www.reddit.com/r/KBO/comments/1x6ivuc/samsung_lions_batting_champion_resumes_training/",
+  "title": "Samsung Lions batting champion resumes training ahead of KBO ...",
+  "published_at": "2026-10-14T15:00:00.000Z",
+  "collected_at": "2026-10-17T13:04:48.923Z",
+  "summary_ko": "",
+  "excerpt": "... [Today's KBO] Lewin Diaz walks off the Hanwha Eagles with a three run bomb…",
+  "metrics": {},
+  "scores": {
+    "hot": 43,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

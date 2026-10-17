@@ -1,0 +1,26 @@
+{
+  "id": "youtube-b1e87754",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "짱콩",
+  "url": "https://www.youtube.com/watch?v=bXGhOOlhi3k",
+  "title": "노조 호걸이 #기아타이거즈 #기아직관",
+  "published_at": "2026-10-17T12:28:46Z",
+  "collected_at": "2026-10-17T13:04:48.923Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 689,
+    "likes": 13,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 53,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

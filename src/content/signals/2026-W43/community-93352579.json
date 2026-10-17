@@ -1,0 +1,24 @@
+{
+  "id": "community-93352579",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 스포츠에미친인간",
+  "url": "https://blog.naver.com/ryan901/224444643338",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/5fzQptlzzlq",
+  "title": "인천 야구 역사상 최악의 계약, 65억 사인 뒤 방출 확정된 우완 선발",
+  "published_at": "2026-10-17T14:00:00.000+09:00",
+  "collected_at": "2026-10-17T13:04:48.923Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

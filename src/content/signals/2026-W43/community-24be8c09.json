@@ -1,0 +1,23 @@
+{
+  "id": "community-24be8c09",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "lg"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 차돌남의 세상 이야기",
+  "url": "https://blog.naver.com/duke55/224444960796",
+  "title": "KIA vs LG 드디어 격돌! 준플레이오프 승자는 누구일까?",
+  "published_at": "2026-10-17T21:27:00.000+09:00",
+  "collected_at": "2026-10-17T13:04:48.923Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

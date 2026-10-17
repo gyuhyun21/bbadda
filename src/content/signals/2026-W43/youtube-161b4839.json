@@ -1,0 +1,27 @@
+{
+  "id": "youtube-161b4839",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "SBS Sports",
+  "url": "https://www.youtube.com/watch?v=sfT7HlV1qWM",
+  "title": "\"계속 가자\" 네일, 팬들에게 하고 싶은 말 묻자... | 인터뷰 | 2026 KBO리그 (26.10.17)",
+  "published_at": "2026-10-17T11:43:08Z",
+  "collected_at": "2026-10-17T13:04:48.923Z",
+  "summary_ko": "SBS Sports가 준PO 1차전 뒤 KIA 네일을 인터뷰한 영상이다. 제목은 '계속 가자'로 팬에게 하고 싶은 말을 물었다고 소개한다.",
+  "metrics": {
+    "views": 469,
+    "likes": 35,
+    "comments": 2
+  },
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

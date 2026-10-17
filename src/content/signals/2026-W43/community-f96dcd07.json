@@ -1,0 +1,23 @@
+{
+  "id": "community-f96dcd07",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 훈바오 월드",
+  "url": "https://blog.naver.com/kth4828/224444584004",
+  "title": "KBO 골든글러브 포수 새 주인 나온다, 허인서 20홈런이 만든 변수",
+  "published_at": "2026-10-17T12:20:00.000+09:00",
+  "collected_at": "2026-10-17T13:04:48.923Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

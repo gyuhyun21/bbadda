@@ -1,0 +1,24 @@
+{
+  "id": "youtube-ad1f281a",
+  "issue": "2026-W43",
+  "module": "league",
+  "teams": [],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=vMKTNPru7bY",
+  "title": "[2026 신한 SOL KBO 준플레이오프 1차전 - 경기결과]",
+  "published_at": "2026-10-17T08:10:25Z",
+  "collected_at": "2026-10-17T13:04:48.923Z",
+  "summary_ko": "KBO 공식 채널이 준PO 1차전 경기 결과 영상을 올렸다. 이 경기는 KIA가 LG를 5-1로 이겼다.",
+  "metrics": {
+    "views": 23981,
+    "likes": 513,
+    "comments": 26
+  },
+  "scores": {
+    "hot": 74,
+    "relevance": 30
+  },
+  "sentiment": "neutral"
+}

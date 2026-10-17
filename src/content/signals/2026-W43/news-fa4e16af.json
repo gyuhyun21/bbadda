@@ -1,0 +1,22 @@
+{
+  "id": "news-fa4e16af",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "진일보 | 전남일보",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9NVTRjdDBuRTBhdlAyWHhvaEVtOWFYVlEteE9rTXU2WEp0eEhEc29zQ1hOSFI0OFkycENVU2MzMWRHcTJRTmZQTzZ1cmxCc0MwSXVRQ2hGTTQ5WTRRRkFuSURXQnpJRzc3bTh6TEhLUQ?oc=5",
+  "title": "‘3위냐 4위냐’ 단 한 계단 차이지만 우승확률은 극과극…KIA, 오늘 광주서 운명의 단두대 매치",
+  "published_at": "2026-10-11T15:00:00.000Z",
+  "collected_at": "2026-10-17T13:04:48.923Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 17,
+    "relevance": 80
+  },
+  "sentiment": "positive"
+}

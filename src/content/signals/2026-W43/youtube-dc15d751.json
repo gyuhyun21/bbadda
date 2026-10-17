@@ -1,0 +1,26 @@
+{
+  "id": "youtube-dc15d751",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "youtube",
+  "source_name": "땅에서 주운 막대기",
+  "url": "https://www.youtube.com/watch?v=bgoC3Wqvifo",
+  "title": "SSG 랜더스 불꽃놀이",
+  "published_at": "2026-10-17T11:49:47Z",
+  "collected_at": "2026-10-17T13:04:48.923Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 0,
+    "likes": 1,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 40,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

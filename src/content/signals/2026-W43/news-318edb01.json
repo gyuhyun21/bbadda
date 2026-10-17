@@ -1,0 +1,23 @@
+{
+  "id": "news-318edb01",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "news",
+  "source_name": "메가충청뉴스",
+  "url": "https://www.megaccnews.com/news/articleView.html?idxno=8249",
+  "title": "신백아동복지관 제천시리틀야구단, 한화이글스 김태연 선수와 특별한 만남",
+  "published_at": "2026-10-17T10:01:58.000Z",
+  "collected_at": "2026-10-17T13:04:48.923Z",
+  "summary_ko": "제천시리틀야구단 선수들이 한화 김태연 선수를 만났다는 지역 보도다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "image": "https://cdn.megaccnews.com/news/photo/202610/8249_8971_1007.jpg"
+}

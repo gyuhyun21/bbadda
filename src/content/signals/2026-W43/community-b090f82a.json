@@ -1,0 +1,24 @@
+{
+  "id": "community-b090f82a",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "레딧 r/KBO",
+  "url": "https://www.reddit.com/r/KBO/comments/1x36oiy/battle_for_3rd_seed_in_kbo_postseason_comes_down/",
+  "title": "Battle for 3rd seed in KBO postseason comes down to regular ...",
+  "published_at": "2026-10-10T15:00:00.000Z",
+  "collected_at": "2026-10-17T13:04:48.923Z",
+  "summary_ko": "",
+  "excerpt": "... [Today's KBO] The league's last place team, the Kiwoom Heroes, blow a 8-0 lead…",
+  "metrics": {},
+  "scores": {
+    "hot": 9,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}
