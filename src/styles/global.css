@@ -690,3 +690,7 @@ html .brand.brand--logo { display: inline-flex; align-items: center; line-height
     50% { opacity: 1; transform: scale(1.1); box-shadow: 0 0 0 6px rgba(43, 213, 118, 0); }
   }
 }
+
+/* 검색 중에는 머리말이 흐려져 눌리지 않으므로, 검색 영역 안에 홈으로 가는 링크를 둔다 */
+.search-home { display: inline-flex; align-items: center; margin: 0 0 12px; padding: 6px 14px; border-radius: 999px; font-size: 14px; font-weight: 700; text-decoration: none; color: var(--ink); background: var(--panel); border: 1px solid var(--line); }
+.search-home:hover { background: var(--ink); color: #fff; border-color: var(--ink); }
