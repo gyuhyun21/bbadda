@@ -4,6 +4,7 @@ import Layout from '../../components/Layout.astro';
 import SignalCard from '../../components/SignalCard.astro';
 import SignalList from '../../components/SignalList.astro';
 import TeamSection from '../../components/TeamSection.astro';
+import Edition from '../../components/Edition.astro';
 import ShareButton from '../../components/ShareButton.astro';
 import CommunitySection from '../../components/CommunitySection.astro';
 import { communitySection } from '../../lib/config.ts';
@@ -32,6 +33,7 @@ const order = [...TEAMS].sort((a, b) => list.filter((s) => s.teams.includes(b.id
   <section class="masthead" data-pagefind-meta={`title:${dayLabel(date)} 소식`}>
     <h1>{dayLabel(date)}</h1>
     <p class="issue-title"><strong>KBO 10개 구단 소식</strong><span class="issue-period">{list.length}건</span></p>
+    <Edition signals={list} />
     <ShareButton />
   </section>
   {league.length > 0 && (
