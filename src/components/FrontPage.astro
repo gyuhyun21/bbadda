@@ -1,5 +1,6 @@
 ---
 // 첫 화면 'front'(매일 바뀌는 스포츠 1면). config/site.yaml home: simple 로 바꾸면 이전 화면(팀 선택 + 최근 소식 격자).
+import ShareButton from './ShareButton.astro';
 import SignalCard from './SignalCard.astro';
 import SignalList from './SignalList.astro';
 import TeamChip from './TeamChip.astro';
@@ -61,7 +62,7 @@ const days = daysOf(all).slice(0, 7);
   </ul>
 </nav>
 <section class="front-masthead" aria-label="BBADDA">
-  <p class="eyebrow">{dayLabel(today)} · 매일 아침 갱신</p>
+  <div class="share-row"><p class="eyebrow">{dayLabel(today)} · 매일 아침 갱신</p><ShareButton /></div>
   <h1 class="sr-only">BBADDA 빠따닷컴</h1>
 </section>
 

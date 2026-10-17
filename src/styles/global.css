@@ -545,3 +545,10 @@ button.rail-more { font: inherit; background: none; border: 0; cursor: pointer; 
 .ps-side.is-winner .ps-side-name::after { content: ' ✓'; color: #0A7A3D; }
 .ps-side.is-out { color: var(--muted); text-decoration: line-through; text-decoration-color: rgba(0,0,0,0.25); }
 .ps-round-foot { margin: 2px 0 0; font-size: 12px; color: var(--muted); border-top: 1px solid #E8E8ED; padding-top: 8px; }
+
+/* 공유 버튼 */
+.share-row { display: flex; align-items: center; justify-content: space-between; gap: 12px; }
+.share-row .eyebrow { margin: 0; }
+.share-btn { display: inline-flex; align-items: center; gap: 6px; height: 32px; padding: 0 12px; border: 0; border-radius: 999px; background: #fff; box-shadow: 0 0 0 1px #E3E5EA; color: var(--ink); font: 600 13px/1 var(--font); cursor: pointer; }
+.share-btn svg { width: 16px; height: 16px; fill: none; stroke: currentColor; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; }
+.share-btn:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
