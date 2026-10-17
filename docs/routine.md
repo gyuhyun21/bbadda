@@ -31,6 +31,9 @@ claude.ai 루틴(예약 작업)에 아래 프롬프트 하나를 등록한다. �
    - 인용(quote)은 15단어 이내.
 4-1. 포스트시즌(10~11월, config/site.yaml 의 postseason_bracket: true 일 때): 이번에 수집된 뉴스 기사로 최종 점수가 확인된 경기만
    data/postseason.yaml 의 그 경기에 result(팀 id: 점수)와 source(기사 주소)를 채운다. 기사로 확인 안 되면 비워 둔다.
+   같은 경기의 기록도 기사로 확인되는 것만 채운다: starters(팀 id: 선발), win·loss·save, holds(목록), homers("선수(팀) N회 투런" 형식),
+   mvp, attendance. 근거 기사 주소는 sources 목록에. 추론 금지(예: 점수 차로 세이브를 짐작하지 않는다).
+   다음 날 경기의 예고 선발 기사가 있으면 그 경기의 starters 와 sources 를 채운다.
    일정·구장이 바뀌었다는 기사가 있으면 date·venue 를 고치고 schedule_source 근처 주석에 기사 주소를 남긴다.
    한국시리즈가 끝나면 PR 본문에 "postseason_bracket 끄기 제안"을 적는다(설정 변경은 루틴이 하지 않는다).
 5. npm run enrich — 요약한 뉴스에 원 기사 주소와 대표 사진 주소를 채운다(실패해도 진행, 사진이 없으면 글자 커버).

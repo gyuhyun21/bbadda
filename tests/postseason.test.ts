@@ -37,3 +37,13 @@ test('준PO 결과가 들어오면 전적·다음 경기가 바뀐다', () => {
   assert.equal(rounds[1].status, 'live');
   assert.equal(next?.no, 2);
 });
+test('경기 기록: 선발은 대진 순서대로, 출처는 결과 기사 + 기록 기사', () => {
+  const { rounds, next } = resolvePostseason(d, '2026-10-17');
+  const wc1 = rounds[0].games[0];
+  assert.deepEqual(wc1.record.starters, ['곽빈', '카라스코']); // teams: [doosan, lg]
+  assert.equal(wc1.record.win, '카라스코');
+  assert.ok(wc1.record.sources.length >= 2);
+  assert.deepEqual(next?.record.starters, ['톨허스트', '네일']); // 준PO: [WC 승자(lg), kia]
+  assert.equal(rounds[1].games[3].ifNeeded, true); // 3선승제 4차전은 필요 시
+  assert.equal(rounds[1].games[2].ifNeeded, false);
+});

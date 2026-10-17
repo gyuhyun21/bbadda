@@ -518,33 +518,68 @@ button.rail-more { font: inherit; background: none; border: 0; cursor: pointer; 
 
 /* ── 가을야구 대진 ── */
 .ps-block { padding-top: 24px; }
-.ps-wrap { display: grid; gap: 18px; grid-template-columns: 1fr; }
-@media (min-width: 1000px) { .ps-wrap { grid-template-columns: 300px 1fr; align-items: stretch; } }
-.ps-next { display: grid; align-content: center; gap: 8px; padding: 22px 24px; border-radius: 22px; background: #1D1D1F; color: #fff; }
+.ps-wrap { display: grid; gap: 18px; }
+/* 다음 경기: 왼쪽 대진·예고 선발, 오른쪽 그 시리즈 일정 */
+.ps-next { display: grid; gap: 20px; padding: 22px 24px; border-radius: 22px; background: #1D1D1F; color: #fff; }
+@media (min-width: 760px) { .ps-next { grid-template-columns: minmax(260px, 1fr) minmax(280px, 1.2fr); align-items: center; } }
+.ps-next-main { display: grid; gap: 8px; align-content: center; }
 .ps-next-label { margin: 0; font-size: 12px; font-weight: 700; color: #FFD34D; letter-spacing: 0.02em; }
 .ps-next-round { margin: 0; font-size: 15px; font-weight: 600; color: rgba(255,255,255,0.8); }
-.ps-next-teams { display: flex; align-items: center; gap: 14px; margin: 6px 0; }
-.ps-team { display: grid; justify-items: center; gap: 6px; }
+.ps-next-teams { display: flex; align-items: flex-start; gap: 18px; margin: 6px 0; }
+.ps-team { display: grid; justify-items: center; gap: 5px; min-width: 84px; text-align: center; }
 .ps-mark { width: 58px; height: 58px; border-radius: 50%; display: grid; place-items: center; background: var(--team); color: #fff; font: 800 16px/1 var(--font); box-shadow: 0 0 0 3px rgba(255,255,255,0.15); }
 .ps-wins { font-size: 12px; color: rgba(255,255,255,0.7); }
-.ps-vs { font-size: 13px; font-weight: 700; color: rgba(255,255,255,0.5); }
+.ps-starter { font-size: 12px; color: rgba(255,255,255,0.7); }
+.ps-starter strong { display: block; font-size: 15px; color: #fff; }
+.ps-vs { align-self: center; margin-top: -30px; font-size: 13px; font-weight: 700; color: rgba(255,255,255,0.5); }
 .ps-next-when { margin: 0; font-size: 14px; color: rgba(255,255,255,0.8); }
 .ps-next-when strong { color: #fff; font-size: 17px; }
-.ps-rounds { list-style: none; margin: 0; padding: 4px 2px 10px; display: grid; grid-auto-flow: column; grid-auto-columns: minmax(160px, 1fr); gap: 18px; overflow-x: auto; scrollbar-width: none; counter-reset: r; }
+.ps-src { font-size: 11px; color: rgba(255,255,255,0.5); }
+.ps-sched { border-radius: 16px; background: rgba(255,255,255,0.06); padding: 14px 16px; }
+.ps-sched-title { margin: 0 0 6px; font-size: 13px; font-weight: 700; display: flex; justify-content: space-between; }
+.ps-sched-title span { font-weight: 600; color: rgba(255,255,255,0.55); }
+.ps-sched-list { list-style: none; margin: 0; padding: 0; }
+.ps-sched-list li { display: grid; grid-template-columns: 48px 1fr auto auto; gap: 10px; align-items: center; padding: 8px 0; font-size: 13px; color: rgba(255,255,255,0.8); border-top: 1px solid rgba(255,255,255,0.08); }
+.ps-sched-list li:first-child { border-top: 0; }
+.ps-sched-no { font-weight: 700; color: #fff; }
+.ps-sched-state { min-width: 56px; text-align: right; font-weight: 700; color: rgba(255,255,255,0.55); font-size: 12px; }
+.ps-sched-list li.is-today { color: #fff; }
+.ps-sched-list li.is-today .ps-sched-state { color: #FFD34D; }
+.ps-sched-list li.is-played .ps-sched-state { color: #fff; }
+.ps-sched-list li.is-skipped { opacity: 0.4; }
+/* 라운드 카드: 기록이 있으면 버튼(누르면 아래 기록 펼침) */
+.ps-rounds { list-style: none; margin: 0; padding: 4px 2px 10px; display: grid; grid-auto-flow: column; grid-auto-columns: minmax(160px, 1fr); gap: 18px; overflow-x: auto; scrollbar-width: none; }
 .ps-rounds::-webkit-scrollbar { display: none; }
-.ps-round { position: relative; display: grid; gap: 8px; align-content: start; padding: 16px; border-radius: 18px; background: #fff; box-shadow: 0 0 0 1px #E8E8ED; }
-/* 라운드 사이 연결선(진출 방향) */
+.ps-round { position: relative; border-radius: 18px; background: #fff; box-shadow: 0 0 0 1px #E8E8ED; }
 .ps-round + .ps-round::before { content: ''; position: absolute; left: -18px; top: 50%; width: 18px; height: 2px; background: #C7CBD3; }
-.ps-round.is-done { opacity: 0.85; }
+.ps-round-btn { display: grid; gap: 8px; align-content: start; width: 100%; height: 100%; padding: 16px; border: 0; background: none; border-radius: inherit; text-align: left; font: inherit; color: inherit; }
+button.ps-round-btn { cursor: pointer; }
+button.ps-round-btn:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+.ps-round.is-done { opacity: 0.92; }
 .ps-round.is-live { box-shadow: 0 0 0 2px var(--accent); }
-.ps-round-name { margin: 0; font-size: 14px; font-weight: 700; display: flex; justify-content: space-between; gap: 8px; }
+.ps-round-name { font-size: 14px; font-weight: 700; display: flex; justify-content: space-between; gap: 8px; }
 .ps-round-name span { white-space: nowrap; font-size: 11px; font-weight: 600; color: var(--muted); }
-.ps-side { margin: 0; display: grid; grid-template-columns: 12px 1fr auto; align-items: center; gap: 8px; font-size: 15px; font-weight: 600; }
+.ps-side { display: grid; grid-template-columns: 12px 1fr auto; align-items: center; gap: 8px; font-size: 15px; font-weight: 600; }
 .ps-dot { width: 12px; height: 12px; border-radius: 50%; background: var(--team); }
 .ps-side-wins { font-variant-numeric: tabular-nums; font-weight: 700; }
 .ps-side.is-winner .ps-side-name::after { content: ' ✓'; color: #0A7A3D; }
 .ps-side.is-out { color: var(--muted); text-decoration: line-through; text-decoration-color: rgba(0,0,0,0.25); }
-.ps-round-foot { margin: 2px 0 0; font-size: 12px; color: var(--muted); border-top: 1px solid #E8E8ED; padding-top: 8px; }
+.ps-round-foot { display: flex; justify-content: space-between; gap: 6px; margin-top: 2px; font-size: 12px; color: var(--muted); border-top: 1px solid #E8E8ED; padding-top: 8px; }
+.ps-round-more { white-space: nowrap; font-weight: 700; color: var(--accent); }
+.ps-round-more::after { content: ' ▾'; }
+[aria-expanded="true"] .ps-round-more::after { content: ' ▴'; }
+/* 경기 기록(MLB.com 경기 결과 카드 참고) */
+.ps-records { display: grid; gap: 12px; padding: 18px 20px; border-radius: 18px; background: #fff; box-shadow: 0 0 0 1px #E8E8ED; }
+.ps-records[hidden] { display: none; }
+.ps-records-title { margin: 0; font-size: 15px; font-weight: 700; }
+.ps-game { display: grid; gap: 8px; padding-top: 12px; border-top: 1px solid #E8E8ED; }
+.ps-game-head { margin: 0; display: flex; flex-wrap: wrap; gap: 6px 10px; align-items: baseline; font-size: 14px; color: var(--muted); }
+.ps-game-head strong { color: var(--ink); }
+.ps-game-score { margin-left: auto; font-size: 17px; font-weight: 800; color: var(--ink); font-variant-numeric: tabular-nums; }
+.ps-game-rec { margin: 0; display: grid; grid-template-columns: 56px 1fr; gap: 6px 12px; font-size: 14px; }
+.ps-game-rec dt { color: var(--muted); font-weight: 600; }
+.ps-game-rec dd { margin: 0; font-weight: 600; }
+.ps-game-src { margin: 0; font-size: 12px; color: var(--muted); }
 
 /* 공유 버튼 */
 .share-row { display: flex; align-items: center; justify-content: space-between; gap: 12px; }

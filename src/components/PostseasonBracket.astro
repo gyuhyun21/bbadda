@@ -1,6 +1,7 @@
 ---
-// 가을야구 대진(첫 화면 맨 위) — MLB.com 포스트시즌 브래킷·ESPN 시리즈 카드 방식: 다음 경기 강조 + 라운드 카드 한 줄.
-// 데이터: data/postseason.yaml(일정: KBO 발표, 결과: 수집된 기사로 확인한 경기만). 끄기: config/site.yaml postseason_bracket: false
+// 가을야구 대진(첫 화면 맨 위) — MLB.com 포스트시즌 브래킷·ESPN 시리즈 카드 방식.
+// 위: 다음 경기(예고 선발) + 그 시리즈 일정. 아래: 라운드 카드 한 줄, 누르면 경기별 기록(선발·승패·세이브·홀드·홈런·관중)이 펼쳐진다.
+// 데이터: data/postseason.yaml(일정: KBO 발표, 결과·기록: 수집된 기사로 확인한 것만). 끄기: config/site.yaml postseason_bracket: false
 import { loadPostseason, resolvePostseason, type Side, type GameView } from '../lib/postseason.ts';
 import { teamById, teamColor, teamLogo, BUILD_TIME } from '../lib/site.ts';
 const data = loadPostseason();
@@ -8,47 +9,116 @@ const today = new Date(BUILD_TIME + 9 * 3600_000).toISOString().slice(0, 10);
 const view = data ? resolvePostseason(data, today) : null;
 const name = (s: Side) => (s.id ? teamById.get(s.id)?.short ?? s.id : s.label);
 const color = (s: Side) => (s.id ? teamColor(s.id) : '#C7CBD3');
+const md = (g: GameView) => `${Number(g.date.slice(5, 7))}.${Number(g.date.slice(8, 10))}(${g.weekday})`;
 const when = (g: GameView) => `${g.date === today ? '오늘' : `${Number(g.date.slice(5, 7))}월 ${Number(g.date.slice(8, 10))}일 (${g.weekday})`} ${g.time}`;
 const champion = view?.rounds.at(-1)?.winner;
+const nextRound = view?.next && view.rounds.find((r) => r.id === view.next!.round);
+// 점수는 이긴 팀 기준 "LG 4-1 두산"
+const scoreLine = (g: GameView) => {
+  if (!g.score) return '';
+  const [a, b] = g.score.split('-').map(Number);
+  const [w, l] = a >= b ? [0, 1] : [1, 0];
+  return `${name(g.sides[w])} ${Math.max(a, b)}-${Math.min(a, b)} ${name(g.sides[l])}`;
+};
+const hostOf = (u: string) => { try { return new URL(u).hostname.replace(/^(www|m)\./, ''); } catch { return '기사'; } };
 ---
 {view && (
   <section class="block ps-block" aria-labelledby="h-postseason" data-pagefind-ignore>
-    <div class="block-head"><h2 id="h-postseason">{data!.season} 가을야구</h2><span class="small">일정: KBO 발표 · 결과: 언론 보도로 확인한 경기</span></div>
+    <div class="block-head"><h2 id="h-postseason">{data!.season} 가을야구</h2><span class="small">일정: KBO 발표 · 결과·기록: 언론 보도로 확인한 것</span></div>
     <div class="ps-wrap">
-      {view.next ? (
+      {view.next && nextRound ? (
         <div class="ps-next">
-          <p class="ps-next-label">{view.next.date === today ? '오늘 경기' : '다음 경기'}</p>
-          <p class="ps-next-round">{view.next.roundName} {view.next.no}차전</p>
-          <div class="ps-next-teams">
-            {view.next.sides.map((s, i) => (
-              <>
-                {i === 1 && <span class="ps-vs">vs</span>}
-                <span class="ps-team"><span class={`ps-mark${s.id && teamLogo(s.id) ? ' has-logo' : ''}`} style={`--team:${color(s)}`}>{s.id && teamLogo(s.id) ? <img class="team-logo" src={teamLogo(s.id)} alt="" width="46" height="46" /> : name(s)}</span><span class="ps-wins">{s.wins}승</span></span>
-              </>
-            ))}
+          <div class="ps-next-main">
+            <p class="ps-next-label">{view.next.date === today ? '오늘 경기' : '다음 경기'}</p>
+            <p class="ps-next-round">{view.next.roundName} {view.next.no}차전</p>
+            <div class="ps-next-teams">
+              {view.next.sides.map((s, i) => (
+                <>
+                  {i === 1 && <span class="ps-vs">vs</span>}
+                  <span class="ps-team">
+                    <span class={`ps-mark${s.id && teamLogo(s.id) ? ' has-logo' : ''}`} style={`--team:${color(s)}`}>{s.id && teamLogo(s.id) ? <img class="team-logo" src={teamLogo(s.id)} alt="" width="46" height="46" /> : name(s)}</span>
+                    <span class="ps-wins">{name(s)} {s.wins}승</span>
+                    {view.next!.record.starters[i] && <span class="ps-starter">선발 <strong>{view.next!.record.starters[i]}</strong></span>}
+                  </span>
+                </>
+              ))}
+            </div>
+            <p class="ps-next-when"><strong>{when(view.next)}</strong> · {view.next.venue}</p>
+            {view.next.record.starters.some(Boolean) && view.next.record.sources[0] && <a class="ps-src" href={view.next.record.sources[0]} target="_blank" rel="noopener noreferrer">예고 선발 출처 · {hostOf(view.next.record.sources[0])}</a>}
           </div>
-          <p class="ps-next-when"><strong>{when(view.next)}</strong> · {view.next.venue}</p>
+          <div class="ps-sched">
+            <p class="ps-sched-title">{nextRound.name} 일정 <span>{nextRound.toWin}선승</span></p>
+            <ol class="ps-sched-list">
+              {nextRound.games.map((g) => (
+                <li class={`${g.date === today ? 'is-today' : ''}${g.played ? ' is-played' : ''}${g.skipped ? ' is-skipped' : ''}`}>
+                  <span class="ps-sched-no">{g.no}차전</span>
+                  <span class="ps-sched-date">{md(g)} {g.time}</span>
+                  <span class="ps-sched-venue">{g.venue}</span>
+                  <span class="ps-sched-state">{g.played ? scoreLine(g) : g.skipped ? '열리지 않음' : g.date === today ? '오늘' : g.ifNeeded ? '필요 시' : ''}</span>
+                </li>
+              ))}
+            </ol>
+          </div>
         </div>
       ) : champion ? (
-        <div class="ps-next"><p class="ps-next-label">우승</p><div class="ps-next-teams"><span class="ps-team"><span class={`ps-mark${teamLogo(champion) ? ' has-logo' : ''}`} style={`--team:${teamColor(champion)}`}>{teamLogo(champion) ? <img class="team-logo" src={teamLogo(champion)} alt="" width="46" height="46" /> : teamById.get(champion)?.short}</span></span></div><p class="ps-next-when"><strong>{teamById.get(champion)?.name}</strong> {data!.season} 한국시리즈 우승</p></div>
+        <div class="ps-next"><div class="ps-next-main"><p class="ps-next-label">우승</p><div class="ps-next-teams"><span class="ps-team"><span class={`ps-mark${teamLogo(champion) ? ' has-logo' : ''}`} style={`--team:${teamColor(champion)}`}>{teamLogo(champion) ? <img class="team-logo" src={teamLogo(champion)} alt="" width="46" height="46" /> : teamById.get(champion)?.short}</span></span></div><p class="ps-next-when"><strong>{teamById.get(champion)?.name}</strong> {data!.season} 한국시리즈 우승</p></div></div>
       ) : null}
       <ol class="ps-rounds">
-        {view.rounds.map((r) => (
-          <li class={`ps-round is-${r.status}`}>
-            <p class="ps-round-name">{r.name}<span>{r.toWin}선승</span></p>
-            {r.sides.map((s) => (
-              <p class={`ps-side${r.winner && s.id === r.winner ? ' is-winner' : ''}${r.winner && s.id !== r.winner ? ' is-out' : ''}`}>
-                {s.id && teamLogo(s.id) ? <img class="ps-logo" src={teamLogo(s.id)} alt="" width="22" height="22" /> : <span class="ps-dot" style={`--team:${color(s)}`}></span>}
-                <span class="ps-side-name">{name(s)}</span>
-                <span class="ps-side-wins">{r.status === 'upcoming' && !s.wins ? '' : s.wins}</span>
-              </p>
-            ))}
-            <p class="ps-round-foot">
-              {r.winner ? `${teamById.get(r.winner)?.short} 진출` : r.next ? `${r.next.no}차전 ${Number(r.next.date.slice(5, 7))}.${Number(r.next.date.slice(8, 10))}(${r.next.weekday}) ${r.next.time} ${r.next.venue}` : '일정 확인 중'}
-            </p>
-          </li>
-        ))}
+        {view.rounds.map((r) => {
+          const played = r.games.filter((g) => g.played);
+          const inner = (
+            <>
+              <span class="ps-round-name">{r.name}<span>{r.toWin}선승</span></span>
+              {r.sides.map((s) => (
+                <span class={`ps-side${r.winner && s.id === r.winner ? ' is-winner' : ''}${r.winner && s.id !== r.winner ? ' is-out' : ''}`}>
+                  {s.id && teamLogo(s.id) ? <img class="ps-logo" src={teamLogo(s.id)} alt="" width="22" height="22" /> : <span class="ps-dot" style={`--team:${color(s)}`}></span>}
+                  <span class="ps-side-name">{name(s)}</span>
+                  <span class="ps-side-wins">{r.status === 'upcoming' && !s.wins ? '' : s.wins}</span>
+                </span>
+              ))}
+              <span class="ps-round-foot">
+                {r.winner ? `${teamById.get(r.winner)?.short} 진출` : r.next ? `${r.next.no}차전 ${md(r.next)} ${r.next.time} ${r.next.venue}` : '일정 확인 중'}
+                {played.length > 0 && <span class="ps-round-more">경기 기록</span>}
+              </span>
+            </>
+          );
+          return (
+            <li class={`ps-round is-${r.status}`}>
+              {played.length > 0
+                ? <button type="button" class="ps-round-btn" data-ps-round={r.id} aria-expanded="false" aria-controls={`ps-rec-${r.id}`}>{inner}</button>
+                : <div class="ps-round-btn">{inner}</div>}
+            </li>
+          );
+        })}
       </ol>
+      {view.rounds.filter((r) => r.games.some((g) => g.played)).map((r) => (
+        <div class="ps-records" id={`ps-rec-${r.id}`} hidden>
+          <p class="ps-records-title">{r.name} 경기 기록</p>
+          {r.games.filter((g) => g.played).map((g) => {
+            const rec = g.record;
+            const rows: [string, string][] = [
+              ['선발', g.sides.map((s, i) => (rec.starters[i] ? `${name(s)} ${rec.starters[i]}` : '')).filter(Boolean).join(' · ')],
+              ['승리', rec.win ?? ''], ['패전', rec.loss ?? ''], ['세이브', rec.save ?? ''], ['홀드', rec.holds.join(', ')],
+              ['홈런', rec.homers.join(', ')], ['MVP', rec.mvp ?? ''], ['관중', rec.attendance ?? ''],
+            ];
+            return (
+              <article class="ps-game">
+                <p class="ps-game-head"><strong>{g.no}차전</strong> {md(g)} · {g.venue}<span class="ps-game-score">{scoreLine(g)}</span></p>
+                <dl class="ps-game-rec">{rows.filter(([, v]) => v).map(([k, v]) => <><dt>{k}</dt><dd>{v}</dd></>)}</dl>
+                {rec.sources.length > 0 && <p class="ps-game-src">출처: {rec.sources.map((u, i) => <>{i > 0 && ', '}<a href={u} target="_blank" rel="noopener noreferrer">{hostOf(u)}</a></>)}</p>}
+              </article>
+            );
+          })}
+        </div>
+      ))}
     </div>
   </section>
 )}
+<script>
+  // 라운드 카드를 누르면 그 라운드의 경기 기록을 펼친다(한 번에 하나)
+  document.querySelectorAll<HTMLButtonElement>('[data-ps-round]').forEach((b) => b.addEventListener('click', () => {
+    const open = b.getAttribute('aria-expanded') !== 'true';
+    document.querySelectorAll<HTMLButtonElement>('[data-ps-round]').forEach((x) => { x.setAttribute('aria-expanded', 'false'); const p = document.getElementById(x.getAttribute('aria-controls')!); if (p) p.hidden = true; });
+    if (open) { b.setAttribute('aria-expanded', 'true'); const p = document.getElementById(b.getAttribute('aria-controls')!); if (p) p.hidden = false; }
+  }));
+</script>
