@@ -10,6 +10,8 @@ export type RawItem = {
   published_at: string;
   // 출처 자체가 특정 팀(구단 공식 채널)이면 그 팀 id. 'kbo' 는 KBO 공식 채널
   team_hint?: string;
+  // 대표 이미지 주소(검색 API 가 주는 미리보기). 파일은 저장하지 않고 이 주소로 표시한다
+  image?: string;
   official?: boolean;
   // 어떤 검색으로 들어왔는지: 팀 검색 / 리그 검색 / 팬 반응(커뮤니티·영상 검색)
   via: 'team' | 'league' | 'fans';

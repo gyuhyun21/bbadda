@@ -84,6 +84,7 @@ export function toSignal(raw: RawItem, c: Pick<Signal, 'module' | 'team' | 'team
     ...(!raw.official && ANNOUNCEMENT.test(raw.title) ? { announcement: true } : {}),
     source_name: raw.source_name,
     url: raw.url,
+    ...(raw.image ? { image: raw.image } : {}),
     title: raw.title,
     published_at: raw.published_at,
     collected_at: now.toISOString(),
