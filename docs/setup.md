@@ -53,13 +53,14 @@
    VERTEX_AUTH=proxy
    VERTEX_ENGINE=projects/<프로젝트 번호>/locations/global/collections/default_collection/engines/<앱 ID>
    ```
-   계정당 매달 10,000회 무료. 한 번 실행 상한 `config/sources.yaml vertex.max_queries`(60) × 매일 ≈ 월 1,860회.
+   계정당 매달 10,000회 무료. 한 번 실행 상한 `config/sources.yaml vertex.max_queries`(60) × 하루 2번 ≈ 월 3,720회.
 
 키를 넣은 뒤에는 `npm run collect -- --only=<소스> --dry` 로 실측해 건수·잡음을 확인하고 필터를 조정한다.
 
 ## 3. 루틴 등록 (claude.ai)
-- 루틴 1개: `docs/routine.md` 의 프롬프트를 그대로 붙여 넣는다.
-  - 매일 갱신: 매일 06:37 (Asia/Seoul)
+- 루틴 2개(같은 프롬프트): `docs/routine.md` 의 프롬프트를 그대로 붙여 넣는다.
+  - 아침 갱신: 매일 06:37 (Asia/Seoul)
+  - 밤 갱신: 매일 22:37 (Asia/Seoul) — 비시즌에는 프롬프트가 스스로 아무것도 하지 않고 끝낸다
 - 환경은 `bbadda`, 저장소는 `gyuhyun21/bbadda`. GitHub 저장소 쓰기·PR 권한이 있어야 한다.
 - 환경의 설정 스크립트는 비워 둔다(설정 스크립트는 저장소 폴더 밖에서 돌아서 `npm ci` 가 실패한다). 설치는 루틴 안에서 한다.
 

@@ -8,7 +8,7 @@ const months = [...new Set(days.map((d) => d.slice(0, 7)))];
 ---
 <Layout title="날짜별">
   <h1 class="page-title">날짜별 소식</h1>
-  <p class="page-lead">매일 아침 갱신한 소식을 날짜별로 모았습니다. 날짜는 기사 게시일 기준입니다.</p>
+  <p class="page-lead">매일 갱신한 소식을 날짜별로 모았습니다. 날짜는 기사 게시일 기준입니다.</p>
   {months.map((m) => (
     <section class="block" aria-labelledby={`m-${m}`}>
       <h2 class="year" id={`m-${m}`}>{Number(m.slice(0, 4))}년 {Number(m.slice(5))}월</h2>
