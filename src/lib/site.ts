@@ -68,8 +68,9 @@ export function recent(list: Signal[], days = 7, fallback = 6): Signal[] {
   return r.length ? r : [...list].sort(newest).slice(0, fallback);
 }
 export const BUILD_TIME = Date.now();
-// 화면의 '업데이트' 시각 = 이 빌드(배포) 시각, 한국 시간. 예: "10월 17일 (토) 06:52 업데이트"
-export const UPDATED_LABEL = (() => { const k = new Date(BUILD_TIME + 9 * 3600_000); return `${k.getUTCMonth() + 1}월 ${k.getUTCDate()}일 (${'일월화수목금토'[k.getUTCDay()]}) ${String(k.getUTCHours()).padStart(2, '0')}:${String(k.getUTCMinutes()).padStart(2, '0')} 업데이트`; })();
+// 화면의 '업데이트' 시각 = 마지막 기사 수집 시각(가장 늦은 collected_at), 한국 시간. 디자인 수정 배포로는 바뀌지 않는다.
+// 예: "10월 17일 (토) 06:52 업데이트"
+export const updatedLabel = (list: Signal[]) => { const last = Math.max(...list.map((s) => Date.parse(s.collected_at)).filter(Number.isFinite)); const k = new Date((Number.isFinite(last) ? last : BUILD_TIME) + 9 * 3600_000); return `${k.getUTCMonth() + 1}월 ${k.getUTCDate()}일 (${'일월화수목금토'[k.getUTCDay()]}) ${String(k.getUTCHours()).padStart(2, '0')}:${String(k.getUTCMinutes()).padStart(2, '0')} 업데이트`; };
 export const isToday = (s: Signal) => BUILD_TIME - Date.parse(s.published_at) < 86400_000;
 
 export const fmtDate = (iso: string) => {
