@@ -663,3 +663,11 @@ button.ps-round-btn:focus-visible { outline: 2px solid var(--accent); outline-of
 .ps-sched-list { flex: 1; display: flex; flex-direction: column; justify-content: space-between; }
 .ps-sched-list li { padding-top: 8px; padding-bottom: 8px; }
 @media (min-width: 760px) and (max-width: 1099px) { .ps-sched { grid-column: 2; grid-row: 1; } .ps-mid { grid-row: 2; flex-direction: row; } .ps-mid > * { flex: 1; } }
+
+/* ── 섹션 제목: 눈썹 라벨 + 굵은 구분선 (config/site.yaml section_headings) ── */
+.block-head--rich { align-items: flex-end; padding-bottom: 12px; border-bottom: 2px solid var(--ink); }
+.bh-title { display: grid; gap: 4px; }
+.bh-eyebrow { margin: 0; display: flex; align-items: center; gap: 8px; font-size: 12px; font-weight: 700; letter-spacing: 0.14em; text-transform: uppercase; color: var(--accent); }
+.bh-status { font-size: 11px; font-weight: 700; letter-spacing: 0.02em; text-transform: none; color: #fff; background: var(--accent); padding: 1px 8px; border-radius: 999px; line-height: 1.7; }
+html .block-head.block-head--rich h2 { font-size: clamp(28px, 3.4vw, 40px); font-weight: 800; letter-spacing: -0.03em; }
+.block-head--rich a, .block-head--rich .small { padding-bottom: 4px; }

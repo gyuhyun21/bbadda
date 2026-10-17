@@ -8,6 +8,7 @@ import TeamPicker from './TeamPicker.astro';
 import CommunitySection from './CommunitySection.astro';
 import RailItem from './RailItem.astro';
 import FanList from './FanList.astro';
+import SectionHead from './SectionHead.astro';
 import PostseasonBracket from './PostseasonBracket.astro';
 import { communitySection, newsImages, loadStandings, streakLabel, postseasonBracket } from '../lib/config.ts';
 import { TEAMS, loadAll, ofTeam, recent, hot, newest, kstDay, daysOf, onDay, dayLabel, seasonTitle, displayTitle, fmtDate, teamColor, teamLogo, teamById, isToday, youtubeId, isCommunityPost, byDayThenHot, latestBatch, newFirst, BUILD_TIME, updatedLabel } from '../lib/site.ts';
@@ -70,7 +71,7 @@ const days = daysOf(all).slice(0, 7);
 
 {lead && (
   <section class="block front-headline" aria-labelledby="h-headline">
-    <div class="block-head"><h2 id="h-headline">오늘의 헤드라인</h2></div>
+    <SectionHead id="h-headline" title="오늘의 헤드라인" eyebrow="TOP STORIES" />
     <div class="headline-grid">
       <div class="headline-lead"><SignalCard signal={lead} big /></div>
       <ul class="headline-side">
@@ -104,7 +105,7 @@ const days = daysOf(all).slice(0, 7);
 })}
 
 <section class="block front-teams" aria-labelledby="h-teams-glance">
-  <div class="block-head"><h2 id="h-teams-glance">10개 구단 한눈에</h2><a href="/teams">팀 전체 →</a></div>
+  <SectionHead id="h-teams-glance" title="10개 구단 한눈에" eyebrow="TEAMS"><a href="/teams">팀 전체 →</a></SectionHead>
   <ul class="team-tiles">
     {tiles.map(({ t, top, more, today, official }) => (
       <li class="team-tile" style={`--team:${teamColor(t.id)}`} data-team-tile={t.id}>
@@ -126,7 +127,7 @@ const days = daysOf(all).slice(0, 7);
 
 <section class="block team-rail-block" aria-labelledby="h-team-rail">
   {/* 구단 레일(layout: soft) — '전체' + 순위순 이니셜 배지. 누르면 아래 패널이 바뀌고, '모두 보기'는 그 자리에서 펼쳐진다 */}
-  <div class="block-head"><h2 id="h-team-rail">구단별 소식</h2><a href="/teams">모든 구단</a></div>
+  <SectionHead id="h-team-rail" title="구단별 소식" eyebrow="BY TEAM"><a href="/teams">모든 구단</a></SectionHead>
   <div class="team-rail" role="tablist" aria-label="구단 선택">
     <button type="button" role="tab" class="team-badge team-badge--all" id="rail-tab-all" data-rail-team="all" aria-controls="rail-panel" aria-selected="true">
       <span class="team-badge-mark" aria-hidden="true">전체</span>
@@ -160,7 +161,7 @@ const days = daysOf(all).slice(0, 7);
 
 {league.length > 0 && (
   <section class="block front-league" aria-labelledby="h-season">
-    <div class="block-head"><h2 id="h-season">{seasonTitle()}</h2><span class="small">리그 전체·라이벌·순위 경쟁</span></div>
+    <SectionHead id="h-season" title={seasonTitle()} eyebrow="LEAGUE"><span class="small">리그 전체·라이벌·순위 경쟁</span></SectionHead>
     <div class="grid">{league.slice(0, 8).map((s) => <SignalCard signal={s} />)}</div>
     <SignalList signals={league.slice(8, 20)} />
   </section>
@@ -168,14 +169,14 @@ const days = daysOf(all).slice(0, 7);
 
 {officialVideos.length > 0 && (
   <section class="block official-block" aria-labelledby="h-official-videos">
-    <div class="block-head"><h2 id="h-official-videos">오피셜 영상</h2><span class="small">구단·KBO 공식 YouTube</span></div>
+    <SectionHead id="h-official-videos" title="오피셜 영상" eyebrow="OFFICIAL"><span class="small">구단·KBO 공식 YouTube</span></SectionHead>
     <div class="row-cards">{officialVideos.map((s) => <SignalCard signal={s} showModule={false} />)}</div>
   </section>
 )}
 
 {(fanVideos.length > 0 || fanPosts.length > 0) && (
   <section class="block front-fans" aria-labelledby="h-fans-front">
-    <div class="block-head"><h2 id="h-fans-front">팬 반응</h2><span class="small">팬 영상·블로그·카페, 최근 7일</span></div>
+    <SectionHead id="h-fans-front" title="팬 반응" eyebrow="FAN REACTION"><span class="small">팬 영상·블로그·카페, 최근 7일</span></SectionHead>
     {fanVideos.length > 0 && <div class="row-cards fan-videos">{fanVideos.map((s) => <SignalCard signal={s} showModule={false} />)}</div>}
     <FanList signals={fanPosts} />
   </section>
@@ -184,7 +185,7 @@ const days = daysOf(all).slice(0, 7);
 
 {days.length > 0 && (
   <section class="block front-days" aria-labelledby="h-days" data-pagefind-ignore>
-    <div class="block-head"><h2 id="h-days">날짜별 소식</h2><a href="/archive">전체 날짜 →</a></div>
+    <SectionHead id="h-days" title="날짜별 소식" eyebrow="ARCHIVE"><a href="/archive">전체 날짜 →</a></SectionHead>
     <ul class="day-chips">
       {days.map((d) => <li><a href={`/days/${d}/`}><strong>{dayLabel(d)}</strong><span class="small">{onDay(all, d).length}건</span></a></li>)}
     </ul>

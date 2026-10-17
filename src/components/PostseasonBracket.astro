@@ -2,6 +2,7 @@
 // 가을야구 대진(첫 화면 맨 위) — MLB.com 포스트시즌 브래킷·ESPN 시리즈 카드 방식.
 // 위: 다음 경기(예고 선발) + 그 시리즈 일정. 아래: 라운드 카드 한 줄, 누르면 경기별 기록(선발·승패·세이브·홀드·홈런·관중)이 펼쳐진다.
 // 데이터: data/postseason.yaml(일정: KBO 발표, 결과·기록: 수집된 기사로 확인한 것만). 끄기: config/site.yaml postseason_bracket: false
+import SectionHead from './SectionHead.astro';
 import { loadPostseason, resolvePostseason, lastPlayed, findHighlight, type Side, type GameView } from '../lib/postseason.ts';
 import { teamById, teamColor, teamLogo, BUILD_TIME, loadAll } from '../lib/site.ts';
 const data = loadPostseason();
@@ -31,7 +32,7 @@ const hostOf = (u: string) => { try { return new URL(u).hostname.replace(/^(www|
 ---
 {view && (
   <section class="block ps-block" aria-labelledby="h-postseason" data-pagefind-ignore>
-    <div class="block-head"><h2 id="h-postseason">{data!.season} 가을야구</h2></div>
+    <SectionHead id="h-postseason" title={`${data!.season} 가을야구`} eyebrow={`POSTSEASON ${data!.season}`} status={champion ? '종료' : nextRound ? `${nextRound.short} 진행 중` : undefined} />
     <div class="ps-wrap">
       {view.next && nextRound ? (
         <div class="ps-next">
