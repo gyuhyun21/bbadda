@@ -1,0 +1,23 @@
+{
+  "id": "community-0326e2d3",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "다음카페 도탁스 (DOTAX)",
+  "url": "https://cafe.daum.net/dotax/Elgq/4798082",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/AVOiUYTmjmK",
+  "title": "전직 삼성 투수 안지만, 지인들 상대 사기 혐의 징역...",
+  "published_at": "2026-10-14T16:27:15.000+09:00",
+  "collected_at": "2026-10-17T13:38:15.350Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 40,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

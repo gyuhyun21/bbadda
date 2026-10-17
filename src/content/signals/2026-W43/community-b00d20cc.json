@@ -1,0 +1,24 @@
+{
+  "id": "community-b00d20cc",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "레딧 r/KBO",
+  "url": "https://www.reddit.com/r/KBO/comments/1x5hcdg/2026_%EC%8B%A0%ED%95%9C_sol_kbo_league_septemberoctober_mvp/",
+  "title": "2026 신한 SOL KBO League September-October MVP Candidates",
+  "published_at": "2026-10-13T15:00:00.000Z",
+  "collected_at": "2026-10-17T13:38:15.350Z",
+  "summary_ko": "",
+  "excerpt": "... KT wiz Davis Daniel (대니엘) · SSG Landers Pedro Ávila (아빌라) · SSG Landers…",
+  "metrics": {},
+  "scores": {
+    "hot": 34,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

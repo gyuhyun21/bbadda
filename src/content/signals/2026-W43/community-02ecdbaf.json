@@ -1,0 +1,23 @@
+{
+  "id": "community-02ecdbaf",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "lg"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 먹고 보고 직접 해본 기록",
+  "url": "https://blog.naver.com/wornwor/224444901739",
+  "title": "2026 KIA LG 준플레이오프 1차전 결과｜김도영 2홈런 4타점, 18일 2차전 올러·임찬규 선발",
+  "published_at": "2026-10-17T19:57:00.000+09:00",
+  "collected_at": "2026-10-17T13:38:15.350Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "community-3252f19a",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan",
+    "lg"
+  ],
+  "source_type": "community",
+  "source_name": "엠엘비파크",
+  "url": "https://mlbpark.donga.com/mp/b.php?id=202610140119406564&p=31&b=kbotown&m=view&select=spf&query=%EB%91%90%EC%82%B0&site=donga.com&pos=reply",
+  "title": "[LG] 두산베어스 VS LG트윈스",
+  "published_at": "2026-10-13T15:00:00.000Z",
+  "collected_at": "2026-10-17T13:38:15.350Z",
+  "summary_ko": "엠엘비파크에 올라온 와일드카드 결정전 1차전 경기 글이다. 두산이 패하고 LG가 이겼으며 승리투수는 카라스코, 세이브는 김강률로 적혀 있다.",
+  "excerpt": "... 18:30 잠실 종료. 두산. 패 곽빈. 1. LG 홈. 승 카라스코. 세 김강률. 4.…",
+  "metrics": {},
+  "scores": {
+    "hot": 34,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

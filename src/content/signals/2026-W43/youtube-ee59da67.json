@@ -1,0 +1,27 @@
+{
+  "id": "youtube-ee59da67",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "GRIJUA  그리주아TV",
+  "url": "https://www.youtube.com/watch?v=-xgAbs1YwlY",
+  "title": "Jung Hee-jung(정희정)  ✨️ 안현민 응원가 2026  #케이티위즈 🩷",
+  "published_at": "2026-10-17T11:15:15Z",
+  "collected_at": "2026-10-17T13:38:15.350Z",
+  "summary_ko": "KT 위즈 안현민의 응원가를 응원단원이 부르는 2026 팬 영상이다.",
+  "metrics": {
+    "views": 676,
+    "likes": 9,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

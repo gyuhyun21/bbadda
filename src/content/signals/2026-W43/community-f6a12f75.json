@@ -1,0 +1,24 @@
+{
+  "id": "community-f6a12f75",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "lg"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 킵업 | 오늘의 이슈",
+  "url": "https://keepup.tistory.com/13",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/8Ib0cMhndk0",
+  "title": "준플레이오프 일정 2026 | KIA vs LG 1차전 5-1 결과, 2차전 18일 비 예보·3~5차전 시간",
+  "published_at": "2026-10-17T18:40:13.000+09:00",
+  "collected_at": "2026-10-17T13:38:15.350Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-f7c8b153",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "스타뉴스",
+  "url": "https://www.starnewskorea.com/sports/2026/10/12/2026101222323241164",
+  "title": "'7위·7위·7위→3년 24억 계약 만료' 롯데 김태형 마지막 인사 \"수고해 준 선수단·팬들께 진심으로 감사\"",
+  "published_at": "2026-10-12T13:37:55.000Z",
+  "collected_at": "2026-10-17T13:38:15.350Z",
+  "summary_ko": "롯데 김태형 감독이 7위에 그친 세 시즌 끝에 3년 24억 원 계약이 만료되며 선수단과 팬에게 남긴 마지막 인사를 전한 기사다.",
+  "metrics": {},
+  "scores": {
+    "hot": 25,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "image": "https://image.starnewskorea.com/21/2026/10/2026101222323241164_3.jpg"
+}

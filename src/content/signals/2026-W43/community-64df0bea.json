@@ -1,0 +1,24 @@
+{
+  "id": "community-64df0bea",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 빠빠빠의 블로그",
+  "url": "https://blog.naver.com/woksusu/224444945980",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/6i2zXgeBMEw",
+  "title": "2026 골든글러브 후보 총정리, 레이예스 3년 연속 전 경기 출전·211안타에도 안심 못 한다",
+  "published_at": "2026-10-17T21:17:00.000+09:00",
+  "collected_at": "2026-10-17T13:38:15.350Z",
+  "summary_ko": "블로그가 2026 골든글러브 후보를 정리한 글이다. 롯데 레이예스가 211안타를 쳤지만 수상은 안심할 수 없다고 본다.",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

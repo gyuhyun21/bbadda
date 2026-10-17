@@ -1,0 +1,23 @@
+{
+  "id": "news-ad82d093",
+  "issue": "2026-W43",
+  "module": "team",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://www.mt.co.kr/amp/sports/2026/10/17/202610171648773241O",
+  "title": "[사진] 김도영, 승리 쐐기포 작렬",
+  "published_at": "2026-10-17T07:48:00.000Z",
+  "collected_at": "2026-10-17T13:38:15.350Z",
+  "summary_ko": "KIA 김도영이 준플레이오프 1차전에서 승리를 굳히는 홈런을 터뜨린 장면을 담은 사진 기사다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 30
+  },
+  "sentiment": "positive",
+  "team": "kia",
+  "image": "https://menu.mt.co.kr/cdn-cgi/image/w=1200,h=719,fit=cover,bg=white,f=auto,quality=high,sharpen=2,g=face/mobile/osen/data/2026/10/17/202610171648773241_1.jpg"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "community-82b27a18",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "레딧 r/KBO",
+  "url": "https://www.reddit.com/r/KBO/comments/1x51mlv/2026_ulsankbo_fall_league/",
+  "title": "2026 Ulsan-KBO Fall League",
+  "published_at": "2026-10-12T15:00:00.000Z",
+  "collected_at": "2026-10-17T13:38:15.350Z",
+  "summary_ko": "",
+  "excerpt": "... Participating Teams Samsung Lions 2nd Team KIA Tigers 2nd Team LG Twins 2nd Team…",
+  "metrics": {},
+  "scores": {
+    "hot": 26,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

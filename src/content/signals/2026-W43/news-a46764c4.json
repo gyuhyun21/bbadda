@@ -1,0 +1,23 @@
+{
+  "id": "news-a46764c4",
+  "issue": "2026-W43",
+  "module": "team",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://www.sportschosun.com/baseball/2026-10-11/202610110100071420004627",
+  "title": "'8라운드 신인 맞아?' 박재현과 아일릿 잇츠 미 챌린지 완벽 소화한 소재휘, 타이거즈에 들어온 흥 넘치는 유틸리티",
+  "published_at": "2026-10-12T03:22:38.000Z",
+  "collected_at": "2026-10-17T13:38:15.350Z",
+  "summary_ko": "KIA가 8라운드에서 뽑은 신인 소재휘가 아일릿 챌린지를 소화하는 모습을 소개한 기사다. 제목은 그를 흥 넘치는 유틸리티 자원으로 소개한다.",
+  "metrics": {},
+  "scores": {
+    "hot": 21,
+    "relevance": 30
+  },
+  "sentiment": "neutral",
+  "team": "kia",
+  "image": "https://www.sportschosun.com/article/html/2026/10/11/2026101101000714200046271_w.jpg"
+}
