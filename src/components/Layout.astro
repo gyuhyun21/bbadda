@@ -5,7 +5,7 @@ import '../styles/apple.css';
 import '../styles/soft.css';
 import OfficialLinks from './OfficialLinks.astro';
 import TeamPickChip from './TeamPickChip.astro';
-import { siteLayout, articleModal } from '../lib/config.ts';
+import { siteLayout, articleModal, brandLogo } from '../lib/config.ts';
 import { SITE_NAME, TEAMS, teamColor } from '../lib/site.ts';
 interface Props { title?: string; description?: string; sample?: boolean; searchable?: boolean; image?: string }
 // searchable=false: 같은 내용이 호 페이지에 있어 검색 결과가 겹치는 페이지(메인)는 색인에서 뺀다
@@ -65,7 +65,9 @@ const myTeamCss = TEAMS.map((t) => `html[data-my-team="${t.id}"] [data-myteam-bl
     {sample && <div class="sample-banner">SAMPLE — 화면 확인용 가상 데이터입니다. 실제 기사·사실이 아닙니다.</div>}
     <header class="site-header" data-pagefind-ignore>
       <div class="wrap">
-        <a class="brand" href="/">BBADDA<span>.com</span></a>
+        {brandLogo()
+          ? <a class="brand brand--logo" href="/" aria-label="BBADDA 빠따닷컴 홈"><img src="/brand/bbadda-logo.webp" alt="BBADDA 빠따닷컴" width="267" height="96" /></a>
+          : <a class="brand" href="/">BBADDA<span>.com</span></a>}
         <form class="header-search" action="/search/" method="get" role="search" aria-label="사이트 검색">
           <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5" /><path d="M15.5 15.5 21 21" /></svg>
           <input type="search" name="q" placeholder="팀·선수·키워드 검색" aria-label="검색어" autocomplete="off" />
