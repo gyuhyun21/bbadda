@@ -8,6 +8,7 @@
 
 teams:
   - id: lg
+    logo_source: https://www.lgtwins.com/twins/about/bi # (img_emblem01.png) 를 public/logos/lg.png 로 (2026-10-17, 저장소 주인 결정)
     name: LG 트윈스
     short: LG
     city: 서울
@@ -20,6 +21,7 @@ teams:
     weak_aliases: [LG, 엘지]
     exclude_any: ["LG ?(전자|유플러스|U\\+|에너지|화학|디스플레이|생활건강|이노텍|CNS|그룹|헬로비전)"]
   - id: hanwha
+    logo_source: https://www.hanwhaeagles.co.kr/index.do # (머리말 h_logo.png) 를 public/logos/hanwha.png 로 (2026-10-17, 저장소 주인 결정)
     name: 한화 이글스
     short: 한화
     city: 대전
@@ -32,6 +34,7 @@ teams:
     weak_aliases: [한화]
     exclude_any: ["한화(에어로|오션|솔루션|생명|손해|투자|자산|시스템|그룹|큐셀|비전|갤러리아|호텔|건설|정밀)"]
   - id: ssg
+    logo_source: https://www.ssglanders.com/landers/emblem # (ssg_emblem1.png) 를 public/logos/ssg.png 로 (2026-10-17, 저장소 주인 결정)
     name: SSG 랜더스
     short: SSG
     city: 인천
@@ -44,6 +47,7 @@ teams:
     weak_aliases: [SSG]
     exclude_any: ["SSG ?(닷컴|\\.COM|페이|머니|푸드)", "신세계"]
   - id: samsung
+    logo_source: https://www.samsunglions.com/intro/intro04.asp # (img_emblem.png 왼쪽) 를 public/logos/samsung.png 로 (2026-10-17, 저장소 주인 결정)
     name: 삼성 라이온즈
     short: 삼성
     city: 대구
@@ -56,6 +60,7 @@ teams:
     weak_aliases: [삼성]
     exclude_any: ["삼성(전자|증권|생명|화재|카드|SDI|SDS|물산|바이오|중공업|전기|E&A|웰스토리|디스플레이|금융|자산|그룹)", "갤럭시"]
   - id: nc
+    logo_source: https://www.ncdinos.com/dinos/vi.do # (emblem01.png) 를 public/logos/nc.png 로 (2026-10-17, 저장소 주인 결정)
     name: NC 다이노스
     short: NC
     city: 창원
@@ -68,6 +73,7 @@ teams:
     weak_aliases: [NC]
     exclude_any: ["엔씨소프트", "NC ?(소프트|SOFT)", "리니지", "아이온"]
   - id: kt
+    logo_source: https://www.ktwiz.co.kr/ktwiz/bi/emblem # (bi_emblem_white.png) 를 public/logos/kt.png 로 (2026-10-17, 저장소 주인 결정)
     name: KT 위즈
     short: KT
     city: 수원
@@ -80,6 +86,7 @@ teams:
     weak_aliases: [KT, kt]
     exclude_any: ["KT ?(&G|클라우드|스카이라이프|에스테이트|텔레캅|알파|그룹|cloud)", "통신|5G|요금제|인터넷|IPTV"]
   - id: lotte
+    logo_source: https://www.giantsclub.com/html/ # (img_logo_news.png) 를 public/logos/lotte.png 로 (2026-10-17, 저장소 주인 결정)
     name: 롯데 자이언츠
     short: 롯데
     city: 부산
@@ -92,6 +99,7 @@ teams:
     weak_aliases: [롯데]
     exclude_any: ["롯데(쇼핑|마트|백화점|월드|칠성|제과|웰푸드|케미칼|하이마트|홈쇼핑|그룹|카드|손해|건설|호텔|지주|렌탈|이노베이트|ON|온)"]
   - id: kia
+    logo_source: https://tigers.co.kr # (머리말 logo_2021.png) 를 public/logos/kia.png 로 (2026-10-17, 저장소 주인 결정)
     name: KIA 타이거즈
     short: KIA
     city: 광주
@@ -104,6 +112,7 @@ teams:
     weak_aliases: [KIA, 기아]
     exclude_any: ["기아(차|자동차)", "KIA ?(EV|모터스)", "EV[0-9]", "쏘렌토|스포티지|카니발|셀토스"]
   - id: doosan
+    logo_source: https://www.doosanbears.com # (머리말 logo.svg) 를 public/logos/doosan.png 로 (2026-10-17, 저장소 주인 결정)
     name: 두산 베어스
     short: 두산
     city: 서울
@@ -116,6 +125,7 @@ teams:
     weak_aliases: [두산]
     exclude_any: ["두산(에너빌리티|밥캣|로보틱스|퓨얼셀|건설|그룹|중공업|테스나)"]
   - id: kiwoom
+    logo_source: https://heroesbaseball.co.kr/index.do # (머리말 logo_2023.png) 를 public/logos/kiwoom.png 로 (2026-10-17, 저장소 주인 결정)
     name: 키움 히어로즈
     short: 키움
     city: 서울
