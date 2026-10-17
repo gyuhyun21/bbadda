@@ -652,3 +652,15 @@ button.ps-round-btn:focus-visible { outline: 2px solid var(--accent); outline-of
 .team-chip-logo { width: 22px; height: 22px; object-fit: contain; flex: none; }
 .team-chip:has(.team-chip-logo) { gap: 7px; }
 .myteam-btn .team-dot.has-logo-dot { width: 22px; height: 22px; box-shadow: inset 0 0 0 1px rgba(0,0,0,0.08); }
+
+/* 다음 경기 카드 정렬: 세 칸 높이를 같게, 위쪽 제목 줄과 아래쪽 끝을 맞춘다 */
+.ps-next { align-items: stretch !important; }
+.ps-next-main { display: flex; flex-direction: column; gap: 12px; padding: 12px 0; }
+.ps-next-main .ps-vote { margin-top: auto; }
+.ps-mid { display: flex; flex-direction: column; gap: 10px; }
+.ps-mid > :last-child { flex: 1; }
+.ps-last { align-content: start; }
+.ps-sched { display: flex; flex-direction: column; }
+.ps-sched-list { flex: 1; display: flex; flex-direction: column; justify-content: space-between; }
+.ps-sched-list li { padding-top: 8px; padding-bottom: 8px; }
+@media (min-width: 760px) and (max-width: 1099px) { .ps-sched { grid-column: 2; grid-row: 1; } .ps-mid { grid-row: 2; flex-direction: row; } .ps-mid > * { flex: 1; } }
