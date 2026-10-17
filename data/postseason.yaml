@@ -40,9 +40,28 @@ rounds:
       - no: 1
         date: 2026-10-17
         venue: 광주
-        starters: { kia: 네일, lg: 톨허스트 } # 예고 선발
-        sources: ["https://www.newsis.com/view/NISX20261016_0003828587"]
-      - { no: 2, date: 2026-10-18, venue: 광주 }
+        result: { kia: 5, lg: 1 }
+        source: "https://www.mydaily.co.kr/page/view/2026101716204260108" # 결과·승패·세이브·홀드·홈런
+        starters: { kia: 네일, lg: 톨허스트 }
+        win: 네일
+        loss: 톨허스트
+        save: 전상현
+        holds: [성영탁]
+        homers: ["송찬의(LG) 2회 솔로", "카스트로(KIA) 2회 솔로", "김도영(KIA) 4회 솔로", "김도영(KIA) 8회 투런"]
+        sources: ["https://www.newsis.com/view/NISX20261016_0003828587"] # 예고 선발
+      - no: 2
+        date: 2026-10-18
+        venue: 광주
+        starters: { lg: 임찬규, kia: 올러 } # 예고 선발
+        starter_notes: { lg: "시즌 15승 공동 다승왕", kia: "올해 LG전 2승 1패 · ERA 2.40" }
+        facts:
+          - "역대 준PO 1차전 승리 팀 PO 진출 12/17회"
+          - "정규시즌 상대전적 KIA 9승 7패"
+          - "임찬규 포스트시즌 3연승 중"
+        sources:
+          - "https://www.nocutnews.co.kr/news/6592924" # 예고 선발·시즌 성적·임찬규 PS 3연승
+          - "https://www.mydaily.co.kr/page/view/2026101716204260108" # 1차전 승리 팀 12/17
+          - "https://www.nocutnews.co.kr/news/6591731" # 정규시즌 KIA 9승 7패
       - { no: 3, date: 2026-10-20, venue: { home_of: wc } }
       - { no: 4, date: 2026-10-21, venue: { home_of: wc } }
       - { no: 5, date: 2026-10-23, venue: 광주 }

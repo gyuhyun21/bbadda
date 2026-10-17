@@ -24,6 +24,8 @@ export const postseasonSchema = z.object({
       starters: z.record(z.string(), z.string()).optional(), // 팀 id → 선발(경기 전엔 예고 선발)
       win: z.string().optional(), loss: z.string().optional(), save: z.string().optional(), holds: z.array(z.string()).default([]),
       homers: z.array(z.string()).default([]), mvp: z.string().optional(), attendance: z.string().optional(),
+      starter_notes: z.record(z.string(), z.string()).optional(), // 팀 id → 선발의 시즌 성적 한 줄(다음 경기 카드)
+      facts: z.array(z.string()).default([]), // 관전 포인트(다음 경기 카드 가운데 칸)
       sources: z.array(z.string().url()).default([]),
     })),
   })),
@@ -38,7 +40,7 @@ export function loadPostseason(root = process.cwd()): PostseasonData | null {
 
 const WEEKDAY = ['일', '월', '화', '수', '목', '금', '토'];
 export type Side = { id?: string; label: string; wins: number };
-export type GameRecord = { starters: [string?, string?]; win?: string; loss?: string; save?: string; holds: string[]; homers: string[]; mvp?: string; attendance?: string; sources: string[] };
+export type GameRecord = { starters: [string?, string?]; starterNotes: [string?, string?]; facts: string[]; win?: string; loss?: string; save?: string; holds: string[]; homers: string[]; mvp?: string; attendance?: string; sources: string[] };
 export type GameView = { round: string; roundName: string; no: number; date: string; weekday: string; time: string; venue: string; played: boolean; score?: string; sides: [Side, Side]; skipped: boolean; ifNeeded: boolean; record: GameRecord };
 export type RoundView = { id: string; name: string; short: string; toWin: number; sides: [Side, Side]; winner?: string; status: 'done' | 'live' | 'upcoming'; games: GameView[]; next?: GameView };
 
@@ -68,7 +70,7 @@ export function resolvePostseason(d: PostseasonData, today: string): { rounds: R
       return {
         round: r.id, roundName: r.name, no: g.no, date: g.date, weekday: WEEKDAY[day], time: day === 0 || day === 6 ? d.time.weekend : d.time.weekday,
         venue: venueName, played: !!score, score, skipped, ifNeeded: g.no > r.to_win,
-        record: { starters: [ids[0] ? g.starters?.[ids[0]] : undefined, ids[1] ? g.starters?.[ids[1]] : undefined], win: g.win, loss: g.loss, save: g.save, holds: g.holds, homers: g.homers, mvp: g.mvp, attendance: g.attendance, sources: [...(g.source ? [g.source] : []), ...g.sources] },
+        record: { starters: [ids[0] ? g.starters?.[ids[0]] : undefined, ids[1] ? g.starters?.[ids[1]] : undefined], starterNotes: [ids[0] ? g.starter_notes?.[ids[0]] : undefined, ids[1] ? g.starter_notes?.[ids[1]] : undefined], facts: g.facts, win: g.win, loss: g.loss, save: g.save, holds: g.holds, homers: g.homers, mvp: g.mvp, attendance: g.attendance, sources: [...(g.source ? [g.source] : []), ...g.sources] },
         sides: [{ id: ids[0], label: labels[0], wins: 0 }, { id: ids[1], label: labels[1], wins: 0 }],
       };
     });
