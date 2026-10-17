@@ -1,0 +1,17 @@
+---
+// 섹션 제목 줄. section_headings 가 켜져 있으면 제목 위에 눈썹 라벨(+상태 칩)과 굵은 구분선, 꺼져 있으면 이전처럼 제목만.
+// 오른쪽 끝 링크·보조 글씨는 기본 슬롯.
+import { sectionHeadings } from '../lib/config.ts';
+interface Props { id?: string; title: string; eyebrow?: string; status?: string }
+const { id, title, eyebrow, status } = Astro.props;
+const rich = sectionHeadings() && !!eyebrow;
+---
+<div class={rich ? 'block-head block-head--rich' : 'block-head'}>
+  {rich ? (
+    <div class="bh-title">
+      <p class="bh-eyebrow">{eyebrow}{status && <span class="bh-status">{status}</span>}</p>
+      <h2 id={id}>{title}</h2>
+    </div>
+  ) : <h2 id={id}>{title}</h2>}
+  <slot />
+</div>

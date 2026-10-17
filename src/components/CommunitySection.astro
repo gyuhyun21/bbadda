@@ -1,6 +1,7 @@
 ---
 // Community — 커뮤니티 사이트(엠엘비파크·디시·더쿠·에펨·레딧) 글을 검색엔진 결과로 찾은 것. 사이트 배지 + 2열 카드.
 // 끄려면 config/site.yaml community_section: false
+import SectionHead from './SectionHead.astro';
 import TeamTags from './TeamTags.astro';
 import BookmarkButton from './BookmarkButton.astro';
 import { SLANG_TITLE, displayTitle, fmtDate, isCommunityPost, communityBadge, rich } from '../lib/site.ts';
@@ -11,7 +12,7 @@ const posts = signals.filter(isCommunityPost).sort((a, b) => b.published_at.loca
 ---
 {posts.length > 0 && (
   <section class="block community" id="community" aria-labelledby="h-community">
-    <div class="block-head"><h2 id="h-community">Community</h2><span class="small">엠팍·디시·더쿠·펨코·레딧, 최근 2주</span></div>
+    <SectionHead id="h-community" title="Community" eyebrow="FAN TALK"><span class="small">엠팍·디시·더쿠·펨코·레딧, 최근 2주</span></SectionHead>
     {note && <div class="community-note rich" set:html={rich(note)} />}
     <ul class="community-cards">
       {posts.map((s) => {
