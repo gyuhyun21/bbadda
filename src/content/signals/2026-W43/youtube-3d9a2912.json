@@ -1,0 +1,27 @@
+{
+  "id": "youtube-3d9a2912",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "기아타이거즈 KIA TIGERS",
+  "url": "https://www.youtube.com/watch?v=f5DbUda33Is",
+  "title": "70% 확률 잡았다! 네일 김도영 카스트로 전상현 성영탁 김규성 준PO 1차전 승리직후 (10.17)",
+  "published_at": "2026-10-17T15:07:30Z",
+  "collected_at": "2026-10-17T21:38:12.513Z",
+  "summary_ko": "KIA 공식 채널이 준PO 1차전 승리 직후 네일, 김도영, 카스트로, 전상현, 성영탁, 김규성의 모습을 올렸다.",
+  "metrics": {
+    "views": 155507,
+    "likes": 3933,
+    "comments": 572
+  },
+  "scores": {
+    "hot": 83,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

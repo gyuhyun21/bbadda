@@ -1,0 +1,24 @@
+{
+  "id": "community-eb2cb32d",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": false,
+  "source_type": "community",
+  "source_name": "블로그 라이프전략가 박병진",
+  "url": "https://blog.naver.com/pbjkrkr/224444946706",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/MCf6DHV7oK",
+  "title": "\"합쳐서 19억인데 가을엔 0명\" 이준영·홍건희 엔트리 탈락.. 이범호 어쩌나",
+  "published_at": "2026-10-17T21:38:00.000+09:00",
+  "collected_at": "2026-10-17T21:38:12.513Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

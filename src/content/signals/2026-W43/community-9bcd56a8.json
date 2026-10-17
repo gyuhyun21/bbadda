@@ -1,0 +1,23 @@
+{
+  "id": "community-9bcd56a8",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 코쿤패밀리",
+  "url": "https://blog.naver.com/cocoonfamily/224445089995",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/K5z3qy9izLf",
+  "title": "[등장곡] 🦁 삼성라이온즈 잭 오러클린 (Dom Dolla - Dreamin)",
+  "published_at": "2026-10-18T01:10:00.000+09:00",
+  "collected_at": "2026-10-17T21:38:12.513Z",
+  "summary_ko": "한 블로그가 삼성 잭 오러클린의 등장곡이 Dom Dolla의 Dreamin이라고 소개했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

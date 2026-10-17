@@ -1,0 +1,24 @@
+{
+  "id": "community-54979dd3",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 JPark",
+  "url": "https://blog.naver.com/sdsdldld/224444309088",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/AVFaYHE4KRh",
+  "title": "야구 국가대표 감독은 누가 뽑을까? KBO·KBSA·구단의 선임 방식",
+  "published_at": "2026-10-18T02:42:00.000+09:00",
+  "collected_at": "2026-10-17T21:38:12.513Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

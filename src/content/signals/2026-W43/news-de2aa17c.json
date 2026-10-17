@@ -1,0 +1,24 @@
+{
+  "id": "news-de2aa17c",
+  "issue": "2026-W43",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "엑스포츠뉴스",
+  "url": "https://www.xportsnews.com/article/2208523",
+  "title": "김도영 멀티홈런 대폭발! KIA가 먼저 웃었다!…네일 7이닝 역투→'2실책' LG 5-1 제압 [준PO1:스코어]",
+  "published_at": "2026-10-17T07:58:42.000Z",
+  "collected_at": "2026-10-17T21:38:12.513Z",
+  "summary_ko": "준PO 1차전에서 KIA가 LG를 5-1로 이겼다. 김도영이 홈런 2개를 쳤고 네일은 7이닝을 던졌으며, LG는 실책 2개를 기록했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 63,
+    "relevance": 80
+  },
+  "sentiment": "mixed",
+  "image": "https://image.xportsnews.com/contents/images/upload/article/2026/1017/1792220775494601.webp"
+}

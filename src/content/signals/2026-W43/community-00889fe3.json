@@ -1,0 +1,23 @@
+{
+  "id": "community-00889fe3",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 스포츠를 기록하는 축보트",
+  "url": "https://blog.naver.com/football_goat/224445063646",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/6INcumNl6VC",
+  "title": "김하성 KBO 복귀설 솔솔 \"키움 히어로즈로 돌아올까, 다른 팀 선택할까?\"",
+  "published_at": "2026-10-18T00:15:00.000+09:00",
+  "collected_at": "2026-10-17T21:38:12.513Z",
+  "summary_ko": "한 블로그가 김하성의 KBO 복귀설을 다뤘다. 보도에 따르면 키움 복귀 여부가 거론되지만, 확인된 내용은 아니다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

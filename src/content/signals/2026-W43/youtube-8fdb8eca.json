@@ -1,0 +1,26 @@
+{
+  "id": "youtube-8fdb8eca",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "youtube",
+  "source_name": "미스터인천",
+  "url": "https://www.youtube.com/watch?v=abDOGHrK4ts",
+  "title": "SSG랜더스 전영준 응원가 - 기존 고명준 응원가 (261017 최광야구)",
+  "published_at": "2026-10-17T17:06:38Z",
+  "collected_at": "2026-10-17T21:38:12.513Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 27,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 17,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

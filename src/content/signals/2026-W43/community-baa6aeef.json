@@ -1,0 +1,22 @@
+{
+  "id": "community-baa6aeef",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 247 스포츠 소식",
+  "url": "https://blog.naver.com/247sports/224444926249",
+  "title": "\"입으로 야구하나\" LG 선배들 장담 비웃듯 김도영 연타석포",
+  "published_at": "2026-10-18T00:50:00.000+09:00",
+  "collected_at": "2026-10-17T21:38:12.513Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

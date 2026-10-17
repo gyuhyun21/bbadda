@@ -1,0 +1,27 @@
+{
+  "id": "youtube-25588ce2",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "lg"
+  ],
+  "source_type": "youtube",
+  "source_name": "이글스 EVERYDAY",
+  "url": "https://www.youtube.com/watch?v=SRQF3SQZg3U",
+  "title": "KIA 올러 LG 임찬규 준플레이오프 2차전 선발투수 기록 완벽비교분석",
+  "published_at": "2026-10-17T12:00:24Z",
+  "collected_at": "2026-10-17T21:38:12.513Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 58330,
+    "likes": 580,
+    "comments": 93
+  },
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

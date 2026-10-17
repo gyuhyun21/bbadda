@@ -1,0 +1,24 @@
+{
+  "id": "community-1ef7b97d",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&document_srl=10457834188",
+  "title": "개쳐꼴받네 그냥 - 야구",
+  "published_at": "2026-10-17T17:38:12.513Z",
+  "collected_at": "2026-10-17T21:38:12.513Z",
+  "summary_ko": "",
+  "excerpt": "... 11 분 전 자유 개아타이거즈 조회77 추천2. 아 1차전 리딸 진짜 끝 · KIA…",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

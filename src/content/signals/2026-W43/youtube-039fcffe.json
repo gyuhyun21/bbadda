@@ -1,0 +1,26 @@
+{
+  "id": "youtube-039fcffe",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "source_name": "장유호의 마운드",
+  "url": "https://www.youtube.com/watch?v=t736jxvopJA",
+  "title": "“그냥 즐기고 내려오자” 장유호의 마운드 위 루틴 #한화이글스",
+  "published_at": "2026-10-17T13:27:35Z",
+  "collected_at": "2026-10-17T21:38:12.513Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1474,
+    "likes": 5,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 39,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

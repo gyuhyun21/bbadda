@@ -1,0 +1,23 @@
+{
+  "id": "community-b36d2cf5",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "lg"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 해용님의 블로그",
+  "url": "https://livestoryforge.com/16068",
+  "title": "KIA, LG 꺾었지만...베테랑 포수 김태군, 불펜 투구에 '쓴소리' 낸 이유",
+  "published_at": "2026-10-18T00:03:26.000+09:00",
+  "collected_at": "2026-10-17T21:38:12.513Z",
+  "summary_ko": "한 블로그에 따르면 KIA 김태군이 LG전 승리 뒤 불펜 투구에 쓴소리를 했다. 제목은 그 이유를 짚겠다고 한다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}
