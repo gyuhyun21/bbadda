@@ -25,9 +25,9 @@ test('요일·시각은 날짜로 계산(일정표의 PO 5차전 31(목) 오류 
   assert.equal(po5.time, '14:00');
   assert.equal(rounds[3].games[0].weekday, '월');
   assert.equal(rounds[3].games[0].time, '18:30');
-  assert.equal(next?.round, 'spo');
-  assert.equal(next?.no, 1);
-  assert.equal(next?.date, '2026-10-17');
+  assert.equal(next?.round, 'spo'); // 1차전 결과가 들어가 다음 경기는 2차전
+  assert.equal(next?.no, 2);
+  assert.equal(next?.date, '2026-10-18');
 });
 test('준PO 결과가 들어오면 전적·다음 경기가 바뀐다', () => {
   const copy = structuredClone(d);
@@ -43,7 +43,10 @@ test('경기 기록: 선발은 대진 순서대로, 출처는 결과 기사 + �
   assert.deepEqual(wc1.record.starters, ['곽빈', '카라스코']); // teams: [doosan, lg]
   assert.equal(wc1.record.win, '카라스코');
   assert.ok(wc1.record.sources.length >= 2);
-  assert.deepEqual(next?.record.starters, ['톨허스트', '네일']); // 준PO: [WC 승자(lg), kia]
+  assert.deepEqual(rounds[1].games[0].record.starters, ['톨허스트', '네일']); // 준PO: [WC 승자(lg), kia]
+  assert.deepEqual(next?.record.starters, ['임찬규', '올러']);
+  assert.equal(next?.record.starterNotes[1], '올해 LG전 2승 1패 · ERA 2.40');
+  assert.ok(next!.record.facts.length >= 1);
   assert.equal(rounds[1].games[3].ifNeeded, true); // 3선승제 4차전은 미확정
   assert.equal(rounds[1].games[2].ifNeeded, false);
 });
