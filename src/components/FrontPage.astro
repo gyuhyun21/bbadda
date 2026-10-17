@@ -8,12 +8,12 @@ import TeamPicker from './TeamPicker.astro';
 import CommunitySection from './CommunitySection.astro';
 import RailItem from './RailItem.astro';
 import FanList from './FanList.astro';
+import Edition from './Edition.astro';
 import SectionHead from './SectionHead.astro';
 import PostseasonBracket from './PostseasonBracket.astro';
 import { communitySection, newsImages, loadStandings, streakLabel, postseasonBracket } from '../lib/config.ts';
-import { TEAMS, loadAll, ofTeam, recent, hot, newest, kstDay, daysOf, onDay, dayLabel, seasonTitle, displayTitle, fmtDate, teamColor, teamLogo, teamById, isToday, youtubeId, isCommunityPost, byDayThenHot, latestBatch, newFirst, BUILD_TIME, editionInfo } from '../lib/site.ts';
+import { TEAMS, loadAll, ofTeam, recent, hot, newest, kstDay, daysOf, onDay, dayLabel, seasonTitle, displayTitle, fmtDate, teamColor, teamLogo, teamById, isToday, youtubeId, isCommunityPost, byDayThenHot, latestBatch, newFirst, BUILD_TIME } from '../lib/site.ts';
 const data = await loadAll();
-const ed = editionInfo(data.signals);
 const all = data.signals;
 const fresh = recent(all, 2, 12);
 // 1) 헤드라인: 이번 업데이트에 새로 들어온 기사 중 점수 상위 5건(모자라면 이전 기사로 채움). 대표는 그중 사진 있는 기사
@@ -64,7 +64,7 @@ const days = daysOf(all).slice(0, 7);
   </ul>
 </nav>
 <section class="front-masthead" aria-label="BBADDA">
-  <div class="share-row"><p class="edition" aria-label={`${ed.day} ${ed.edition} ${ed.time} 업데이트`}><span class="edition-pill"><i class="edition-dot" aria-hidden="true"></i>{ed.edition}</span><strong>{ed.day}</strong><span class="edition-time">{ed.time} 업데이트</span></p><ShareButton /></div>
+  <div class="share-row"><Edition signals={all} /><ShareButton /></div>
   <h1 class="sr-only">BBADDA 빠따닷컴</h1>
 </section>
 

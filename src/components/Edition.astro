@@ -1,0 +1,8 @@
+---
+// 갱신 표시: [● 아침판|저녁판] 날짜 시각 업데이트. 마지막 수집 시각 기준(editionInfo).
+import type { Signal } from '../lib/schemas.ts';
+import { editionInfo } from '../lib/site.ts';
+interface Props { signals: Signal[] }
+const ed = editionInfo(Astro.props.signals);
+---
+<p class="edition" aria-label={`${ed.day} ${ed.edition} ${ed.time} 업데이트`}><span class="edition-pill"><i class="edition-dot" aria-hidden="true"></i>{ed.edition}</span><strong>{ed.day}</strong><span class="edition-time">{ed.time} 업데이트</span></p>

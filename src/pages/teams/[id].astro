@@ -1,10 +1,11 @@
 ---
+import Edition from '../../components/Edition.astro';
 import Layout from '../../components/Layout.astro';
 import SignalCard from '../../components/SignalCard.astro';
 import SignalList from '../../components/SignalList.astro';
 import TeamChip from '../../components/TeamChip.astro';
 import ShareButton from '../../components/ShareButton.astro';
-import { MODULE_LABEL, SLANG_TITLE, TEAMS, loadAll, ofTeam, recent, hot, newest, teamColor, teamLogo, daysOf, onDay, dayLabel, updatedLabel } from '../../lib/site.ts';
+import { MODULE_LABEL, SLANG_TITLE, TEAMS, loadAll, ofTeam, recent, hot, newest, teamColor, teamLogo, daysOf, onDay, dayLabel } from '../../lib/site.ts';
 import type { Team } from '../../lib/config.ts';
 export function getStaticPaths() { return TEAMS.map((t) => ({ params: { id: t.id }, props: { team: t } })); }
 const { team: t } = Astro.props as { team: Team };
@@ -37,7 +38,7 @@ const teamDays = daysOf(mine);
   )}
 
   <section class="block" aria-labelledby="h-latest">
-    <div class="block-head"><h2 id="h-latest">최근 소식</h2><span class="small">{updatedLabel(data.signals)}</span></div>
+    <div class="block-head"><h2 id="h-latest">최근 소식</h2><Edition signals={data.signals} /></div>
     {latest.length ? <div class="grid">{latest.slice(0, 8).map((s) => <SignalCard signal={s} />)}</div> : <p class="empty-hint">아직 소식이 없습니다.</p>}
     <SignalList signals={latest.slice(8)} label="이 밖의 소식" />
   </section>
