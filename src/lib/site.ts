@@ -1,6 +1,8 @@
 // 사이트 공통 데이터 로더 · 라벨 · 헬퍼 (Astro 빌드 시점에 실행).
 import { getCollection, type CollectionEntry } from 'astro:content';
-import { loadTeams, type Team } from './config.ts';
+import { existsSync } from 'node:fs';
+import { join } from 'node:path';
+import { loadTeams, teamLogos, ROOT, type Team } from './config.ts';
 import type { Signal } from './schemas.ts';
 
 export const SHOW_DRAFT = process.env.SHOW_DRAFT === '1';
@@ -17,6 +19,9 @@ const cfg = loadTeams();
 export const TEAMS: Team[] = cfg.teams;
 export const LEAGUE = cfg.league;
 export const teamById = new Map(TEAMS.map((t) => [t.id, t]));
+// 구단 로고 주소(스위치가 켜져 있고 파일이 있을 때만). 없으면 undefined → 이니셜 배지
+const LOGOS = teamLogos();
+export const teamLogo = (id?: string) => (LOGOS && id && existsSync(join(ROOT, 'public', 'logos', `${id}.png`)) ? `/logos/${id}.png` : undefined);
 export const teamColor = (id?: string) => (id && teamById.get(id)?.color) || NEUTRAL_TEAM_COLOR;
 export const teamName = (id?: string) => (id ? teamById.get(id)?.name ?? id : 'KBO');
 export const teamShort = (id?: string) => (id ? teamById.get(id)?.short ?? id : 'KBO');

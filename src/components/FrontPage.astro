@@ -10,7 +10,7 @@ import RailItem from './RailItem.astro';
 import FanList from './FanList.astro';
 import PostseasonBracket from './PostseasonBracket.astro';
 import { communitySection, newsImages, loadStandings, streakLabel, postseasonBracket } from '../lib/config.ts';
-import { TEAMS, loadAll, ofTeam, recent, hot, newest, kstDay, daysOf, onDay, dayLabel, seasonTitle, displayTitle, fmtDate, teamColor, teamById, isToday, youtubeId, isCommunityPost, byDayThenHot, latestBatch, newFirst, BUILD_TIME } from '../lib/site.ts';
+import { TEAMS, loadAll, ofTeam, recent, hot, newest, kstDay, daysOf, onDay, dayLabel, seasonTitle, displayTitle, fmtDate, teamColor, teamLogo, teamById, isToday, youtubeId, isCommunityPost, byDayThenHot, latestBatch, newFirst, BUILD_TIME } from '../lib/site.ts';
 const data = await loadAll();
 const all = data.signals;
 const fresh = recent(all, 2, 12);
@@ -136,7 +136,7 @@ const days = daysOf(all).slice(0, 7);
       const st = standings?.teams[t.id];
       return (
         <button type="button" role="tab" class="team-badge" id={`rail-tab-${t.id}`} data-rail-team={t.id} aria-controls="rail-panel" aria-selected="false" aria-label={`${t.name}${st ? `, ${st.rank}위, ${streakLabel(st.streak)}` : ''}`} style={`--team:${teamColor(t.id)}`}>
-          <span class="team-badge-mark" aria-hidden="true">{t.short}</span>
+          <span class={`team-badge-mark${teamLogo(t.id) ? ' has-logo' : ''}`} aria-hidden="true">{teamLogo(t.id) ? <img class="team-logo" src={teamLogo(t.id)} alt="" width="40" height="40" /> : t.short}</span>
           {st && <span class="team-badge-rank" aria-hidden="true">{st.rank}위</span>}
           {st && <span class={`team-badge-streak ${/승$/.test(st.streak) ? 'is-win' : /패$/.test(st.streak) ? 'is-loss' : ''}`} aria-hidden="true">{streakLabel(st.streak)}</span>}
         </button>

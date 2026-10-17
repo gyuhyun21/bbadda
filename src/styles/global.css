@@ -552,3 +552,10 @@ button.rail-more { font: inherit; background: none; border: 0; cursor: pointer; 
 .share-btn { display: inline-flex; align-items: center; gap: 6px; height: 32px; padding: 0 12px; border: 0; border-radius: 999px; background: #fff; box-shadow: 0 0 0 1px #E3E5EA; color: var(--ink); font: 600 13px/1 var(--font); cursor: pointer; }
 .share-btn svg { width: 16px; height: 16px; fill: none; stroke: currentColor; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; }
 .share-btn:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+
+/* 구단 정식 로고(team_logos 스위치). 로고는 흰 원판 위에 — 팀마다 바탕색이 달라도 고르게 보이게 */
+.has-logo { background: #fff !important; box-shadow: inset 0 0 0 1px rgba(0, 0, 0, 0.06); }
+.team-logo { width: 78%; height: 78%; object-fit: contain; }
+.ps-logo { width: 22px; height: 22px; object-fit: contain; }
+.ps-side:has(.ps-logo) { grid-template-columns: 22px 1fr auto; }
+.team-hero-logo { width: 64px; height: 64px; object-fit: contain; vertical-align: middle; margin-right: 14px; }

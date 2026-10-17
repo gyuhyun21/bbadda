@@ -18,3 +18,5 @@ article_modal: true
 modal_blocked_hosts: [mt.co.kr, starnewskorea.com]
 # postseason_bracket: 첫 화면 맨 위 가을야구 대진(data/postseason.yaml). 포스트시즌이 끝나면 false. 환경변수 SITE_POSTSEASON=on|off 우선(2026-10-17 도입).
 postseason_bracket: true
+# team_logos: 구단 정식 로고(public/logos/, 출처는 config/teams.yaml logo_source). false 면 팀 컬러 이니셜 배지. 환경변수 SITE_LOGOS=on|off 우선(저장소 주인 결정, 2026-10-17).
+team_logos: true

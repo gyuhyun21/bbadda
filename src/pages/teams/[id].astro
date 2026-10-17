@@ -4,7 +4,7 @@ import SignalCard from '../../components/SignalCard.astro';
 import SignalList from '../../components/SignalList.astro';
 import TeamChip from '../../components/TeamChip.astro';
 import ShareButton from '../../components/ShareButton.astro';
-import { MODULE_LABEL, SLANG_TITLE, TEAMS, loadAll, ofTeam, recent, hot, newest, teamColor, daysOf, onDay, dayLabel } from '../../lib/site.ts';
+import { MODULE_LABEL, SLANG_TITLE, TEAMS, loadAll, ofTeam, recent, hot, newest, teamColor, teamLogo, daysOf, onDay, dayLabel } from '../../lib/site.ts';
 import type { Team } from '../../lib/config.ts';
 export function getStaticPaths() { return TEAMS.map((t) => ({ params: { id: t.id }, props: { team: t } })); }
 const { team: t } = Astro.props as { team: Team };
@@ -19,7 +19,7 @@ const teamDays = daysOf(mine);
 <Layout title={t.name} description={latest[0] ? `오늘의 ${t.short}: ${latest[0].title_ko ?? latest[0].title}` : `${t.name} 최근 소식, 공식 영상, 팬 반응`} image={`/og/${t.id}.png`} sample={mine.some((s) => s.sample)}>
   <section class="team-hero" style={`--team:${teamColor(t.id)}`}>
     <p class="eyebrow">{t.city} · KBO 리그</p>
-    <h1 class="page-title">{t.name}</h1>
+    <h1 class="page-title">{teamLogo(t.id) && <img class="team-hero-logo" src={teamLogo(t.id)} alt="" width="64" height="64" />}{t.name}</h1>
     <div class="team-hero-actions" data-pagefind-ignore>
       <button type="button" class="team-chip team-chip--btn" data-pick-team={t.id} data-color={teamColor(t.id)} data-name={t.name} data-short={t.short}>★ 내 팀으로</button>
       <ShareButton />
