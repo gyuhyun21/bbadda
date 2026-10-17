@@ -521,8 +521,8 @@ button.rail-more { font: inherit; background: none; border: 0; cursor: pointer; 
 .ps-wrap { display: grid; gap: 18px; }
 /* 다음 경기: 왼쪽 대진·예고 선발, 오른쪽 그 시리즈 일정 */
 .ps-next { display: grid; gap: 20px; padding: 22px 24px; border-radius: 22px; background: #1D1D1F; color: #fff; }
-@media (min-width: 760px) { .ps-next { grid-template-columns: 1fr 280px; align-items: start; } .ps-points { grid-column: 1 / -1; } }
-@media (min-width: 1100px) { .ps-next { grid-template-columns: minmax(320px, 1.2fr) minmax(200px, 1fr) 280px; } .ps-points { grid-column: auto; } }
+@media (min-width: 760px) { .ps-next { grid-template-columns: 1fr 280px; align-items: start; } }
+@media (min-width: 1100px) { .ps-next { grid-template-columns: minmax(320px, 1.2fr) minmax(200px, 1fr) 280px; } }
 .ps-next-main { display: grid; gap: 12px; align-content: start; }
 .ps-next-head { display: flex; justify-content: space-between; align-items: flex-end; gap: 12px; }
 .ps-next-head > div { display: grid; gap: 4px; }
@@ -628,7 +628,17 @@ button.ps-round-btn:focus-visible { outline: 2px solid var(--accent); outline-of
 @media (prefers-reduced-motion: reduce) { .ps-vote-bar span { transition: none; } }
 .ps-vote-note { grid-area: note; margin: 0; font-size: 11px; color: rgba(255,255,255,0.55); }
 /* 관전 포인트(가운데 칸) */
-.ps-points { border-radius: 16px; padding: 12px 14px; background: rgba(255,255,255,0.04); }
+.ps-mid { display: grid; gap: 10px; align-content: start; }
+@media (min-width: 760px) { .ps-mid { grid-column: 1 / -1; grid-template-columns: 1fr 1fr; } }
+@media (min-width: 1100px) { .ps-mid { grid-column: auto; grid-template-columns: 1fr; } }
+.ps-points, .ps-last { border-radius: 16px; padding: 12px 14px; background: rgba(255,255,255,0.04); }
+.ps-points-title span { margin-left: 6px; font-weight: 500; font-size: 12px; color: rgba(255,255,255,0.55); }
+.ps-last { display: grid; gap: 4px; }
+.ps-last p { margin: 0; }
+.ps-last-score { font-size: 17px; font-weight: 800; font-variant-numeric: tabular-nums; }
+.ps-last-line { font-size: 12px; line-height: 1.45; color: rgba(255,255,255,0.75); }
+.ps-last-video { justify-self: start; margin-top: 4px; padding: 6px 12px; border-radius: 999px; background: #FFD34D; color: #1D1D1F; font-size: 12px; font-weight: 700; text-decoration: none; }
+.ps-last-video:hover { filter: brightness(1.05); }
 .ps-points-title { margin: 0 0 6px; font-size: 13px; font-weight: 700; }
 .ps-points ul { margin: 0; padding: 0; list-style: none; display: grid; gap: 8px; }
 .ps-points li { font-size: 13px; line-height: 1.45; color: rgba(255,255,255,0.85); padding-left: 12px; position: relative; }

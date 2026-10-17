@@ -2,8 +2,8 @@
 // 가을야구 대진(첫 화면 맨 위) — MLB.com 포스트시즌 브래킷·ESPN 시리즈 카드 방식.
 // 위: 다음 경기(예고 선발) + 그 시리즈 일정. 아래: 라운드 카드 한 줄, 누르면 경기별 기록(선발·승패·세이브·홀드·홈런·관중)이 펼쳐진다.
 // 데이터: data/postseason.yaml(일정: KBO 발표, 결과·기록: 수집된 기사로 확인한 것만). 끄기: config/site.yaml postseason_bracket: false
-import { loadPostseason, resolvePostseason, type Side, type GameView } from '../lib/postseason.ts';
-import { teamById, teamColor, teamLogo, BUILD_TIME } from '../lib/site.ts';
+import { loadPostseason, resolvePostseason, lastPlayed, findHighlight, type Side, type GameView } from '../lib/postseason.ts';
+import { teamById, teamColor, teamLogo, BUILD_TIME, loadAll } from '../lib/site.ts';
 const data = loadPostseason();
 const today = new Date(BUILD_TIME + 9 * 3600_000).toISOString().slice(0, 10);
 const view = data ? resolvePostseason(data, today) : null;
@@ -23,6 +23,10 @@ const scoreLine = (g: GameView) => {
 // 승·패·세이브 투수 옆 구단명: 승·세이브는 이긴 팀, 패는 진 팀. 홀드는 데이터에 '이름(팀)'으로 적는다
 const sidesOf = (g: GameView) => { const [a, b] = (g.score ?? '0-0').split('-').map(Number); return a >= b ? [g.sides[0], g.sides[1]] : [g.sides[1], g.sides[0]]; };
 const withTeam = (p: string | undefined, s: Side) => (p ? (/\(/.test(p) ? p : `${p}(${name(s)})`) : '');
+// 지난 경기 요약(관전 포인트 아래): 점수·승패·홈런 + 공식 하이라이트 영상
+const last = view ? lastPlayed(view.rounds) : undefined;
+const lastVideo = last ? findHighlight((await loadAll()).signals, last) : undefined;
+const shortRound = (id: string) => view?.rounds.find((r) => r.id === id)?.short ?? '';
 const hostOf = (u: string) => { try { return new URL(u).hostname.replace(/^(www|m)\./, ''); } catch { return '기사'; } };
 ---
 {view && (
@@ -67,10 +71,25 @@ const hostOf = (u: string) => { try { return new URL(u).hostname.replace(/^(www|
               </div>
             )}
           </div>
-          {view.next.record.facts.length > 0 && (
-            <div class="ps-points">
-              <p class="ps-points-title">관전 포인트</p>
-              <ul>{view.next.record.facts.map((f) => <li>{f}</li>)}</ul>
+          {(view.next.record.facts.length > 0 || last) && (
+            <div class="ps-mid">
+              {view.next.record.facts.length > 0 && (
+                <div class="ps-points">
+                  <p class="ps-points-title">관전 포인트</p>
+                  <ul>{view.next.record.facts.map((f) => <li>{f}</li>)}</ul>
+                </div>
+              )}
+              {last && (
+                <div class="ps-last">
+                  <p class="ps-points-title">지난 경기 <span>{shortRound(last.round)} {last.no}차전 · {md(last)}</span></p>
+                  <p class="ps-last-score">{scoreLine(last)}</p>
+                  <p class="ps-last-line">
+                    {[last.record.win && `승 ${withTeam(last.record.win, sidesOf(last)[0])}`, last.record.loss && `패 ${withTeam(last.record.loss, sidesOf(last)[1])}`, last.record.save && `세 ${withTeam(last.record.save, sidesOf(last)[0])}`].filter(Boolean).join(' · ')}
+                  </p>
+                  {last.record.homers.length > 0 && <p class="ps-last-line">홈런 {last.record.homers.join(', ')}</p>}
+                  {lastVideo && <a class="ps-last-video" href={lastVideo} target="_blank" rel="noopener noreferrer">▶ 하이라이트 보기</a>}
+                </div>
+              )}
             </div>
           )}
           <div class="ps-sched">
