@@ -19,7 +19,7 @@ article_modal: true
 #   window — PC 는 작은 창, 모바일은 같은 탭(뒤로가기로 돌아옴) | tab — 항상 새 탭 | same — 항상 같은 탭 | modal — 이전처럼 모달 안에 요약과 '원문 보기'.
 #   환경변수 SITE_BLOCKED_OPEN=window|tab|same|modal 이 우선. 작은 창이 막히면(팝업 차단) 새 탭으로 연다.
 blocked_open: window
-modal_blocked_hosts: [mt.co.kr, starnewskorea.com, fmkorea.com, news.google.com, fnnews.com, kyeonggi.com, famtimes.co.kr, xportsnews.com] # 응답 헤더(X-Frame-Options·frame-ancestors)로 다른 사이트 안 표시를 막는 것을 확인(2026-10-18). fmkorea 는 빈 화면 확인(2026-10-17)
+modal_blocked_hosts: [mt.co.kr, starnewskorea.com, fmkorea.com, news.google.com, fnnews.com, kyeonggi.com, famtimes.co.kr, xportsnews.com, theqoo.net, mlbpark.donga.com] # 더쿠·엠엘비파크는 빈 화면 확인(2026-10-18).  응답 헤더(X-Frame-Options·frame-ancestors)로 다른 사이트 안 표시를 막는 것을 확인(2026-10-18). fmkorea 는 빈 화면 확인(2026-10-17)
 # postseason_bracket: 첫 화면 맨 위 가을야구 대진(data/postseason.yaml). 포스트시즌이 끝나면 false. 환경변수 SITE_POSTSEASON=on|off 우선(2026-10-17 도입).
 postseason_bracket: true
 # section_headings: 섹션 제목 위 눈썹 라벨(POSTSEASON·TOP STORIES 등)과 굵은 구분선. false 면 이전의 제목만 있는 화면. 환경변수 SITE_HEADINGS=on|off 우선(2026-10-17 도입).
