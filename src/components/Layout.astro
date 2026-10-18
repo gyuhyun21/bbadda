@@ -194,8 +194,10 @@ const myTeamCss = TEAMS.map((t) => `html[data-my-team="${t.id}"] [data-myteam-bl
             if (!embedOf(u) && blockedOpen !== 'modal' && !/youtube|youtu\.be|instagram/.test(u.hostname)) {
               // 모달에 못 띄우는 매체: PC 는 작은 창(닫으면 바로 이 화면), 모바일·팝업 차단은 새 탭
               const small = blockedOpen === 'window' && matchMedia('(min-width: 900px) and (pointer: fine)').matches;
-              const w = small ? window.open(a.href, 'bbadda-article', `popup=yes,width=1040,height=820,left=${Math.max(0, screenX + 80)},top=${Math.max(0, screenY + 60)},noopener,noreferrer`) : null;
-              if (!w) window.open(a.href, '_blank', 'noopener,noreferrer');
+              // noopener 를 features 에 넣으면 window.open 이 항상 null 을 돌려줘 '팝업이 막혔다'로 오인되고 새 탭이 또 열린다 — 열린 뒤 opener 만 끊는다
+              const w = small ? window.open(a.href, 'bbadda-article', `popup=yes,width=1040,height=820,left=${Math.max(0, screenX + 80)},top=${Math.max(0, screenY + 60)}`) : null;
+              if (w) { try { w.opener = null; } catch {} w.focus(); }
+              else window.open(a.href, '_blank', 'noopener,noreferrer');
               return;
             }
             open(a);
