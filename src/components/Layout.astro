@@ -73,20 +73,6 @@ const myTeamCss = TEAMS.map((t) => `html[data-my-team="${t.id}"] [data-myteam-bl
           <input type="search" name="q" placeholder="팀·선수·키워드 검색" aria-label="검색어" autocomplete="off" />
           <a class="header-search-mobile" href="/search/" aria-label="검색"></a>
         </form>
-        <div class="bm-menu">
-          <button type="button" class="bm-toggle" data-bm-toggle aria-expanded="false" aria-controls="bm-panel" aria-label="저장한 소식" title="저장한 소식">
-            <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6.5 3.5h11a1 1 0 0 1 1 1v16l-6.5-4.2-6.5 4.2v-16a1 1 0 0 1 1-1z" /></svg>
-            <span class="bm-count" data-bm-count hidden></span>
-          </button>
-          <div class="bm-panel" id="bm-panel" data-bm-panel hidden>
-            <p class="bm-title">저장한 소식</p>
-            <ul class="bm-list" data-bm-list></ul>
-            <p class="bm-empty small" data-bm-empty>기사 옆 북마크 아이콘을 누르면 여기에 모입니다. 이 기기에만 저장됩니다.</p>
-            <p class="bm-hint small" data-desktop-hint>이 사이트 즐겨찾기: <kbd>⌘</kbd>+<kbd>D</kbd> (윈도 <kbd>Ctrl</kbd>+<kbd>D</kbd>)</p>
-            <button type="button" class="install-btn" data-install hidden>홈 화면에 추가</button>
-            <p class="bm-hint small" data-install-ios hidden>아이폰: 사파리 아래 <strong>공유</strong> 버튼 → <strong>홈 화면에 추가</strong></p>
-          </div>
-        </div>
         <div class="myteam">
           <button type="button" class="myteam-btn" data-myteam-toggle aria-expanded="false" aria-controls="myteam-panel">
             <span class="team-dot" data-myteam-dot aria-hidden="true"></span><span data-myteam-label>MY팀 고르기</span>
@@ -102,6 +88,20 @@ const myTeamCss = TEAMS.map((t) => `html[data-my-team="${t.id}"] [data-myteam-bl
         <nav class="nav" aria-label="주 메뉴">
           {nav.map(([href, label]) => <a href={href} aria-current={path === href || (href !== '/' && path.startsWith(href)) ? 'page' : undefined}>{label}</a>)}
         </nav>
+        <div class="bm-menu">
+          <button type="button" class="bm-toggle" data-bm-toggle aria-expanded="false" aria-controls="bm-panel" aria-label="저장한 소식" title="저장한 소식">
+            <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6.5 3.5h11a1 1 0 0 1 1 1v16l-6.5-4.2-6.5 4.2v-16a1 1 0 0 1 1-1z" /></svg>
+            <span class="bm-count" data-bm-count hidden></span>
+          </button>
+          <div class="bm-panel" id="bm-panel" data-bm-panel hidden>
+            <p class="bm-title">저장한 소식</p>
+            <ul class="bm-list" data-bm-list></ul>
+            <p class="bm-empty small" data-bm-empty>기사 옆 북마크 아이콘을 누르면 여기에 모입니다. 이 기기에만 저장됩니다.</p>
+            <p class="bm-hint small" data-desktop-hint>이 사이트 즐겨찾기: <kbd>⌘</kbd>+<kbd>D</kbd> (윈도 <kbd>Ctrl</kbd>+<kbd>D</kbd>)</p>
+            <button type="button" class="install-btn" data-install hidden>홈 화면에 추가</button>
+            <p class="bm-hint small" data-install-ios hidden>아이폰: 사파리 아래 <strong>공유</strong> 버튼 → <strong>홈 화면에 추가</strong></p>
+          </div>
+        </div>
       </div>
     </header>
     <main id="main" data-pagefind-body={searchable ? '' : undefined}>
