@@ -63,6 +63,18 @@ const days = daysOf(all).slice(0, 7);
     <li><a href="#h-days" data-spy="h-days">날짜별 소식</a></li>
   </ul>
 </nav>
+<nav class="chip-nav" aria-label="섹션 바로가기(모바일)" data-pagefind-ignore>
+  {/* 폭 1360px 미만(모바일·태블릿): 머리말 아래에 붙어 다니는 섹션 칩 줄. 내리면 숨고 올리면 나온다. 지금 보는 섹션이 강조된다 */}
+  <ul>
+    <li><a href="#h-postseason" data-spy="h-postseason">가을야구</a></li>
+    <li><a href="#h-headline" data-spy="h-headline">헤드라인</a></li>
+    <li><a href="#h-team-rail" data-spy="h-team-rail">구단별</a></li>
+    <li><a href="#h-official-videos" data-spy="h-official-videos">오피셜 영상</a></li>
+    <li><a href="#h-fans-front" data-spy="h-fans-front">팬 반응</a></li>
+    <li><a href="#h-community" data-spy="h-community">Community</a></li>
+    <li><a href="#h-days" data-spy="h-days">날짜별</a></li>
+  </ul>
+</nav>
 <section class="front-masthead" aria-label="BBADDA">
   <div class="share-row"><Edition signals={all} /><ShareButton /></div>
   <h1 class="sr-only">BBADDA 빠따닷컴</h1>
@@ -248,7 +260,7 @@ const days = daysOf(all).slice(0, 7);
 
 <script>
   // 왼쪽 섹션 바: 없는 섹션은 숨기고, 지금 보는 섹션을 강조
-  const links = [...document.querySelectorAll<HTMLAnchorElement>('.side-nav [data-spy]')];
+  const links = [...document.querySelectorAll<HTMLAnchorElement>('.side-nav [data-spy], .chip-nav [data-spy]')];
   const mine = document.documentElement.dataset.myTeam;
   const myLi = document.querySelector<HTMLElement>('[data-side-myteam]');
   if (mine && myLi && document.getElementById(`myteam-${mine}`)) {
@@ -266,7 +278,24 @@ const days = daysOf(all).slice(0, 7);
     for (const t of visible) if (t[1].getBoundingClientRect().top - y <= 0) cur = t;
     visible.forEach(([a]) => a.removeAttribute('aria-current'));
     cur?.[0].setAttribute('aria-current', 'true');
+    // 칩 줄에서는 강조된 칩이 보이도록 옆으로 밀어 준다
+    const chipUl = document.querySelector<HTMLElement>('.chip-nav ul');
+    const chip = chipUl?.querySelector<HTMLElement>('[aria-current="true"]');
+    if (chipUl && chip) chipUl.scrollTo({ left: chip.offsetLeft - (chipUl.clientWidth - chip.offsetWidth) / 2, behavior: 'smooth' });
   };
+  // 아래로 내리면 칩 줄을 숨기고, 위로 올리면 다시 보인다
+  const chipNav = document.querySelector<HTMLElement>('.chip-nav');
+  // 머리말이 위에 고정돼 있으므로 칩 줄은 그 바로 아래에 붙인다
+  const headerEl = document.querySelector<HTMLElement>('.site-header');
+  const setTop = () => { if (headerEl) document.documentElement.style.setProperty('--header-h', `${headerEl.offsetHeight}px`); };
+  setTop(); addEventListener('resize', setTop);
+  let lastY = scrollY;
+  addEventListener('scroll', () => {
+    if (!chipNav) return;
+    const y = scrollY, down = y > lastY + 6, up = y < lastY - 6;
+    if (y < 120 || up) chipNav.classList.remove('is-hidden'); else if (down) chipNav.classList.add('is-hidden');
+    if (down || up) lastY = y;
+  }, { passive: true });
   addEventListener('scroll', update, { passive: true });
   update();
 </script>

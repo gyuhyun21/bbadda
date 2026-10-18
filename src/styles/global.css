@@ -705,3 +705,23 @@ a.read-link::after { content: '읽음 ✓'; display: inline-block; margin-left: 
 .install-nudge .in-go { border: 0; border-radius: 999px; padding: 6px 14px; font-weight: 700; background: #fff; color: var(--ink); cursor: pointer; }
 .install-nudge .in-close { border: 0; background: transparent; color: #fff; font-size: 16px; cursor: pointer; padding: 4px 6px; }
 @media (min-width: 900px) { .install-nudge { display: none; } }
+
+/* ── 모바일·태블릿 섹션 칩 줄 / 맨 위로 버튼 (폭 1360px 미만) ── */
+.chip-nav { display: none; }
+.to-top { display: none; }
+@media (max-width: 1359px) {
+  .chip-nav { display: block; position: sticky; top: var(--header-h, 52px); z-index: 45; margin: 0 calc(var(--gutter) * -1); padding: 8px var(--gutter); background: color-mix(in srgb, var(--bg) 92%, transparent); backdrop-filter: blur(8px); -webkit-backdrop-filter: blur(8px); border-bottom: 1px solid var(--line); transition: transform 0.22s ease; }
+  .chip-nav.is-hidden { transform: translateY(-110%); }
+  .chip-nav ul { list-style: none; margin: 0; padding: 0; display: flex; gap: 8px; overflow-x: auto; scrollbar-width: none; }
+  .chip-nav ul::-webkit-scrollbar { display: none; }
+  .chip-nav li[hidden] { display: none; }
+  .chip-nav a { display: block; white-space: nowrap; padding: 7px 14px; border-radius: 999px; font-size: 14px; font-weight: 600; text-decoration: none; color: var(--muted); background: var(--panel); }
+  .chip-nav a[aria-current="true"] { color: #fff; background: var(--ink); }
+  [id^="h-"] { scroll-margin-top: 76px; }
+  .to-top { display: grid; place-items: center; position: fixed; right: 16px; bottom: 20px; z-index: 55; width: 44px; height: 44px; border: 0; border-radius: 50%; font-size: 20px; font-weight: 800; color: #fff; background: var(--ink); box-shadow: 0 4px 14px rgba(0, 0, 0, 0.25); cursor: pointer; }
+  .to-top[hidden] { display: none; }
+  body:has(.install-nudge:not([hidden])) .to-top { bottom: 92px; }
+}
+@media (prefers-reduced-motion: reduce) { .chip-nav { transition: none; } }
+/* 폭 720~900px 에서 저장 버튼이 둘째 줄로 떨어지지 않게: 검색창이 줄어들어 한 줄에 맞춘다 */
+@media (min-width: 720px) { .site-header .wrap { flex-wrap: nowrap; } .header-search { min-width: 120px; } }
