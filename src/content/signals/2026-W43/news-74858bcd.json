@@ -5,7 +5,7 @@
   "teams": [],
   "source_type": "news",
   "source_name": "한국경제",
-  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5jSG5saFZlVHNNNUFPbk1LYllraXNVaVNKbnVoYm95RDVONkpKalJrTDQzR0NDSHVtV1U2UUpORXhYM2R1LUdualpSMy1Sdl9NUzh2QkV2dURNUQ?oc=5",
+  "url": "https://www.hankyung.com/article/2026101271751",
   "title": "[포토] 굿바이, 잠실야구장 역대 시즌 최다 관중",
   "published_at": "2026-10-12T11:05:38.000Z",
   "collected_at": "2026-10-17T21:38:12.513Z",
@@ -15,5 +15,6 @@
     "hot": 21,
     "relevance": 30
   },
-  "sentiment": "neutral"
+  "sentiment": "neutral",
+  "image": "https://img.hankyung.com/photo/202610/AA.46027744.1.jpg"
 }

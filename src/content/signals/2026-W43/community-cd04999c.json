@@ -1,0 +1,24 @@
+{
+  "id": "community-cd04999c",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 일상과 여행 그 사이 어딘가",
+  "url": "https://blog.naver.com/eunshin56/224445718201",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/Eeh1lf84PyY",
+  "title": "82년생 잠실야구장을 보내며, 추억 되돌아보기",
+  "published_at": "2026-10-18T19:20:00.000+09:00",
+  "collected_at": "2026-10-18T13:38:16.636Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

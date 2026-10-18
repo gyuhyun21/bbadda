@@ -1,0 +1,30 @@
+{
+  "id": "community-93e041ac",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "lg"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 라이프헬스랩",
+  "url": "https://health.taxinfo.kr/120",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/HufEANnsh0N",
+  "title": "[준플레이오프 #2] '파죽지세' KIA 타이거즈, LG 상대 9연승 질주! 준플레이오프 2차전 6대3 승리와...",
+  "published_at": "2026-10-18T20:49:21.000+09:00",
+  "collected_at": "2026-10-18T13:38:16.636Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "메디컬투데이",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0tZlZWOWh2eHFjN3BsV1p4OFIyUWpzTEFWd3BWdkhOWkFVOThpcVlGa2VDT0twQ3JmVkpEamh5Ty00S3lQSzZDc0RIQUlDd28tMXVZVHRYZzNEVVkwYXJ0eTNLeUpCSnpDM2xFcA?oc=5"
+    }
+  ]
+}

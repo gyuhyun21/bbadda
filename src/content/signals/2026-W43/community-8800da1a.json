@@ -1,0 +1,31 @@
+{
+  "id": "community-8800da1a",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "lg",
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 해용님의 블로그",
+  "url": "https://livestoryforge.com/16096",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/63lezRsYvc1",
+  "title": "KIA, LG 꺾고 PO까지 1승 남겨…삼성 '최악 시나리오' 현실화되나",
+  "published_at": "2026-10-18T19:05:46.000+09:00",
+  "collected_at": "2026-10-18T13:38:16.636Z",
+  "summary_ko": "블로그는 KIA가 LG를 꺾고 플레이오프에 1승만 남기면서 삼성의 대진 부담이 커졌다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4ydUNibEtpdDlQVndHNHA4Q0F6b1VtR0wxSlZ4MGFWd3I4bC15a3F3eXJYajZzWmpMQ3VyU0tIem9wNXRlblVJNlM4TGlVbDJRX2MyMTgzMElDYWwtbjZlNTZxWnJUMGhsakxUNlJQX0VHWHBBeWc?oc=5"
+    }
+  ]
+}

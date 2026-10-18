@@ -1,0 +1,23 @@
+{
+  "id": "news-f56bf52f",
+  "issue": "2026-W43",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스1",
+  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBrbDg5WWpCeEY0cGtEbG9fNkp1RXhHYURCNmNDMzVKdUl4Y0xPakRaOVpjYnozUVNTSUtGc2ZhNHZETTdUX3dRSWliQ25ZeHhwc0NZb3YzVQ?oc=5",
+  "title": "[뉴스1PICK] KIA, 준PO 1차전 LG 5대1로 제압… 85.7% 확률 잡았다",
+  "published_at": "2026-10-18T01:31:14.000Z",
+  "collected_at": "2026-10-18T13:38:16.636Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 80
+  },
+  "sentiment": "neutral"
+}

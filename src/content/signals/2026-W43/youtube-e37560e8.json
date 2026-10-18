@@ -1,0 +1,26 @@
+{
+  "id": "youtube-e37560e8",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "불방맹이TV",
+  "url": "https://www.youtube.com/watch?v=rQEVy_hGXZQ",
+  "title": "기아가 두 경기를 잡아버리네요.. 하하하..;; (10월 18일 준PO 2차 전 리뷰)",
+  "published_at": "2026-10-18T10:37:06Z",
+  "collected_at": "2026-10-18T13:38:16.636Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 67057,
+    "likes": 1506,
+    "comments": 212
+  },
+  "scores": {
+    "hot": 71,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

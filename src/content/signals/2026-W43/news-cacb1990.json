@@ -1,0 +1,24 @@
+{
+  "id": "news-cacb1990",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "announcement": true,
+  "source_name": "조선일보",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQa3hOSmxKSmN4UUxHamZvTnllRHllemhlV3FreldaQnRDZDdNNWZyY0ZrYUUyWk1VaEhPUW9ON1NhN1dyYTB6Y0FnZkw4Q3Y0bDlaSnZkMFZnT2UyMzZBM3FqQlJVaUFJNTE0c2U1ejY0enFkaFJteVZQeUZRdFg1aUF5TQ?oc=5",
+  "title": "[오피셜]'우천 순연으로 극적 성사' 추신수 잊지 않은 클리블랜드, 시구자로 초청했다",
+  "published_at": "2026-10-17T12:14:00.000Z",
+  "collected_at": "2026-10-18T13:38:16.636Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 59,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

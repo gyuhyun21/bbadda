@@ -1,0 +1,27 @@
+{
+  "id": "youtube-17934fd9",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "SSG랜더스",
+  "url": "https://www.youtube.com/watch?v=2KjPheXe30I",
+  "title": "덕아웃 응원단장, 날다람쥐 정준재🐿️",
+  "published_at": "2026-10-18T12:00:00Z",
+  "collected_at": "2026-10-18T13:38:16.636Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 6557,
+    "likes": 1314,
+    "comments": 63
+  },
+  "scores": {
+    "hot": 80,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

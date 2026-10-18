@@ -1,0 +1,23 @@
+{
+  "id": "news-08eda7b7",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "뉴시스",
+  "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261018_0003830618",
+  "title": "'철벽 마무리' KIA 전상현 \"PS 전 경기 등판도 가능하지만 타자들 믿어\"[준PO]",
+  "published_at": "2026-10-18T09:36:03.000Z",
+  "collected_at": "2026-10-18T13:38:16.636Z",
+  "summary_ko": "KIA 마무리 전상현이 준PO 연투 상황에서 '타자들을 믿는다'는 뜻을 밝혔다. 포스트시즌 전 경기 등판도 가능하다는 취지다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 80
+  },
+  "sentiment": "neutral",
+  "image": "https://img1.newsis.com/2026/10/17/NISI20261017_0021492682_web.jpg"
+}

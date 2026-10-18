@@ -1,0 +1,22 @@
+{
+  "id": "news-add4e3ec",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "광주드림",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5xV0xKSjdTOWluNjVTMmFkM3dHVlQxOGxhQ3hCY0FFMERWSHpncTVqZnFsLV8tc2VHalFGZXY1WG1GZFJtWEF4ZFFPamxzcHJYUW96eHpZcElpV1dYVDRyUmVZRTFqTHlmVmc?oc=5",
+  "title": "이이남 시구 영상, KIA 포스트시즌 ‘PLAYBALL’ 영상으로 상영",
+  "published_at": "2026-10-18T06:34:49.000Z",
+  "collected_at": "2026-10-18T13:38:16.636Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 80
+  },
+  "sentiment": "neutral"
+}

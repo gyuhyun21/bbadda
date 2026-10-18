@@ -1,0 +1,24 @@
+{
+  "id": "news-2d1a6cde",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://www.mt.co.kr/amp/sports/2026/10/16/2026101606270934373",
+  "title": "\"없으면 없는 대로 해야지\" 6월 11승 12패→AG 투수 3명 이탈→10연승 피날레, 마법사 군단의 '세 번째 KS' 왜 기다려지나",
+  "published_at": "2026-10-15T23:33:00.000Z",
+  "collected_at": "2026-10-18T13:38:16.636Z",
+  "summary_ko": "KT가 6월 부진과 투수 이탈을 딛고 10연승으로 정규시즌을 마치고 세 번째 한국시리즈에 오른 과정을 머니투데이가 짚었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 46,
+    "relevance": 70
+  },
+  "sentiment": "mixed",
+  "image": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/10/2026101606270934373_4.jpg"
+}

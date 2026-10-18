@@ -1,0 +1,24 @@
+{
+  "id": "community-dc3ed3d2",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 책 읽는 아이들",
+  "url": "https://blog.naver.com/namaksin12/224445397964",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/2FPuZ0XRDL7",
+  "title": "\"포지션이 바뀌었어요\" 최광야구 1429 최정 김광현 경기 결과 규칙 응원",
+  "published_at": "2026-10-18T14:16:00.000+09:00",
+  "collected_at": "2026-10-18T13:38:16.636Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

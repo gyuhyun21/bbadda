@@ -1,0 +1,28 @@
+{
+  "id": "youtube-3a761c33",
+  "issue": "2026-W43",
+  "module": "league",
+  "teams": [
+    "kia",
+    "lg"
+  ],
+  "team": "kia",
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=To9ICApdS3Q",
+  "title": "실점 위기에서 등판! 7회 초, 더블 플레이와 땅볼로 이닝을 마무리하는 KIA 성영탁! | 준PO2_LG vs KIA | 10.18 | 크보모먼트 | KBO 야구 하이라이트",
+  "published_at": "2026-10-18T07:37:58Z",
+  "collected_at": "2026-10-18T13:38:16.636Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 78810,
+    "likes": 474,
+    "comments": 51
+  },
+  "scores": {
+    "hot": 57,
+    "relevance": 80
+  },
+  "sentiment": "neutral"
+}

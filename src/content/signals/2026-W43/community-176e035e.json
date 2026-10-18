@@ -1,0 +1,24 @@
+{
+  "id": "community-176e035e",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&document_srl=10459880394",
+  "title": "왁 팜 방향성은 맞게 가는 중 - 야구",
+  "published_at": "2026-10-18T10:38:16.636Z",
+  "collected_at": "2026-10-18T13:38:16.636Z",
+  "summary_ko": "",
+  "excerpt": "... 롯데; 6. 삼성 +1; 7. 임찬규 -1; 8. 호령 +2; 9. 광주; 10. 이재원…",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

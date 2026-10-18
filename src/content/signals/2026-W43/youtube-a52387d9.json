@@ -1,0 +1,28 @@
+{
+  "id": "youtube-a52387d9",
+  "issue": "2026-W43",
+  "module": "league",
+  "teams": [
+    "kia",
+    "lg"
+  ],
+  "team": "kia",
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=Momc5uSIqOI",
+  "title": "준플레이오프 홈 2경기 승리 독식! 대구행까지 단 1승만을 남겨둔 KIA타이거즈! | 준PO2_LG vs KIA | 10.18 | 크보모먼트 | KBO 야구 하이라이트",
+  "published_at": "2026-10-18T08:34:12Z",
+  "collected_at": "2026-10-18T13:38:16.636Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 123331,
+    "likes": 1009,
+    "comments": 142
+  },
+  "scores": {
+    "hot": 61,
+    "relevance": 80
+  },
+  "sentiment": "positive"
+}

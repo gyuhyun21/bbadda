@@ -1,0 +1,26 @@
+{
+  "id": "youtube-9ccfe6c4",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "호랑이굴",
+  "url": "https://www.youtube.com/watch?v=Ig7jYrUGR1s",
+  "title": "김도영은 알고 있는 박재현의 발작 버튼 #기아타이거즈 #야구 #프로야구",
+  "published_at": "2026-10-18T11:51:12Z",
+  "collected_at": "2026-10-18T13:38:16.636Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 8713,
+    "likes": 705,
+    "comments": 12
+  },
+  "scores": {
+    "hot": 81,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

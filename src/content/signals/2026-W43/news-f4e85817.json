@@ -1,0 +1,24 @@
+{
+  "id": "news-f4e85817",
+  "issue": "2026-W43",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "뉴시스",
+  "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261018_0003830589",
+  "title": "'1회 5점·올러 호투' KIA, 2차전서 LG 5-2 제압…PO행 1승 남았다(종합)[준PO]",
+  "published_at": "2026-10-18T08:32:09.000Z",
+  "collected_at": "2026-10-18T13:38:16.636Z",
+  "summary_ko": "KIA가 준PO 2차전에서 LG를 꺾고 2연승, 플레이오프 진출까지 1승만 남겼다. 1회 타선 폭발과 올러의 호투가 승인으로 꼽혔다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 80
+  },
+  "sentiment": "positive",
+  "image": "https://img1.newsis.com/2026/10/18/NISI20261018_0021493555_web.jpg"
+}

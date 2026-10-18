@@ -1,0 +1,28 @@
+{
+  "id": "youtube-39eb132b",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha",
+    "kia",
+    "kiwoom"
+  ],
+  "source_type": "youtube",
+  "source_name": "김알 - 김팀장이 알아봤다!",
+  "url": "https://www.youtube.com/watch?v=_ZHCjpVZFUA",
+  "title": "강백호도 원래 투수였다?! 😱 고교 시절 투수였던 현역 KBO 타자 4명｜한화·KIA·키움 #Shorts",
+  "published_at": "2026-10-18T08:30:06Z",
+  "collected_at": "2026-10-18T13:38:16.636Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 7822,
+    "likes": 9,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 42,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

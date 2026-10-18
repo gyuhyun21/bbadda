@@ -1,0 +1,22 @@
+{
+  "id": "community-8db9d8be",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "community",
+  "source_name": "다음카페 이종격투기",
+  "url": "https://cafe.daum.net/ssaumjil/EZLX/434839",
+  "title": "롯데 새 감독 후보",
+  "published_at": "2026-10-18T21:01:25.000+09:00",
+  "collected_at": "2026-10-18T13:38:16.636Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

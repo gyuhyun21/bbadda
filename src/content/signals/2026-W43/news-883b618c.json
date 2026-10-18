@@ -1,0 +1,23 @@
+{
+  "id": "news-883b618c",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "news",
+  "source_name": "YTN",
+  "url": "https://www.ytn.co.kr/_ln/0107_202610132330181522",
+  "title": "한화 새 사령탑 류지현 \"최고의 팬과 행복한 야구 하겠다\"",
+  "published_at": "2026-10-13T14:30:00.000Z",
+  "collected_at": "2026-10-18T13:38:16.636Z",
+  "summary_ko": "류지현 신임 한화 감독이 취임하며 '최고의 팬과 행복한 야구를 하겠다'고 밝혔다.",
+  "metrics": {},
+  "scores": {
+    "hot": 25,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "image": "https://image.ytn.co.kr/general/jpg/2026/1013/202610132330181522_t.jpg"
+}

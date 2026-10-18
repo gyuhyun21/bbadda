@@ -1,0 +1,27 @@
+{
+  "id": "youtube-ceb852a1",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "SSG랜더스",
+  "url": "https://www.youtube.com/watch?v=fzEvDtU86s4",
+  "title": "경기 전 감독님들의 라인업 교환 및 현장 인터뷰🤝",
+  "published_at": "2026-10-18T05:00:01Z",
+  "collected_at": "2026-10-18T13:38:16.636Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 32363,
+    "likes": 1024,
+    "comments": 25
+  },
+  "scores": {
+    "hot": 73,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

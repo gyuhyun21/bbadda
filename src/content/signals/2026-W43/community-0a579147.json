@@ -1,0 +1,24 @@
+{
+  "id": "community-0a579147",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/10459685656",
+  "title": "댄스트로 - 야구",
+  "published_at": "2026-10-18T09:38:16.636Z",
+  "collected_at": "2026-10-18T13:38:16.636Z",
+  "summary_ko": "",
+  "excerpt": "... 해태-KIA 타이거즈,다음 경기 승리시 구단 역사상 최초로 준플레이오프 시리즈 승리. [11]. 4 분 전…",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

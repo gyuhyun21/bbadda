@@ -1,0 +1,23 @@
+{
+  "id": "news-a6b4c67d",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스타뉴스",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1iLXFCVHY4WVctc1k4Z3ZTcjBPdHRRdi1MQXFnamEtVUp6WUU0VGdrVXAyVzl6dTlhQlJTMy1uTFloRndQRThYbF9TbG52bFAxeXFJWVlTSUttSUZSUXlJZ0RkaHhuUzZhZFR6TDd3MThHQVlvclE?oc=5",
+  "title": "'작년엔 홈런→올해는 3안타+긴 생머리 퍼포먼스' MVP 한두솔 \"내년엔 팀에서 가장 많이 나가는 게 목표\"",
+  "published_at": "2026-10-17T23:46:22.000Z",
+  "collected_at": "2026-10-18T13:38:16.636Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

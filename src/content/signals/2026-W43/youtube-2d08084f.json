@@ -1,0 +1,27 @@
+{
+  "id": "youtube-2d08084f",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "야구월드",
+  "url": "https://www.youtube.com/watch?v=qzmYGhMdUrc",
+  "title": "NC 강인규 글러브 길들이기 #야구 #글러브길들이기",
+  "published_at": "2026-10-18T06:07:51Z",
+  "collected_at": "2026-10-18T13:38:16.636Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1968,
+    "likes": 30,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 47,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

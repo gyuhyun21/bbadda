@@ -1,0 +1,24 @@
+{
+  "id": "youtube-677cd941",
+  "issue": "2026-W43",
+  "module": "league",
+  "teams": [],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=18m4KAlwx8g",
+  "title": "4개의 아웃카운트를 책임진 전상현의 승리의 투구🔥",
+  "published_at": "2026-10-18T08:47:16Z",
+  "collected_at": "2026-10-18T13:38:16.636Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 78643,
+    "likes": 1742,
+    "comments": 91
+  },
+  "scores": {
+    "hot": 70,
+    "relevance": 30
+  },
+  "sentiment": "positive"
+}

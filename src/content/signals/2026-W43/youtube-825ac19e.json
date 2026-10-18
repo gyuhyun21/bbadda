@@ -1,0 +1,26 @@
+{
+  "id": "youtube-825ac19e",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "ace stories 에이스 스토리즈",
+  "url": "https://www.youtube.com/watch?v=G-gJwRtb2pk",
+  "title": "이범호가 한준수 포수를 선택한 이유 #기아타이거즈 #kbo",
+  "published_at": "2026-10-18T11:39:07Z",
+  "collected_at": "2026-10-18T13:38:16.636Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 14212,
+    "likes": 284,
+    "comments": 12
+  },
+  "scores": {
+    "hot": 60,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "news-9c3089d5",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "연합뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5nYTQwTmczT2dPbUhEWUVxLUh1ZzhiWWtrZWNjX2R0Vmh3MlNQSnJGckVCckpEZXQ2NUtianFrT2hrd2Nmak9LN0hHWVJzaC1aeldXU0t3MzcxX2fSAWBBVV95cUxPN0tSd1ZDUF9wR2NwQ1JaRmQ2MDhzQ1NKZHc0bDY1Z0lzMDJyYUFCcVB4ZDJyLXJ2NG5XT0NCS3BPczBSOHF4TkN3Zk1OeF9aaHR0NnBWa2doRnlIS0lVUG8?oc=5",
+  "title": "최다안타 승자는 롯데 레이예스…최종일 4안타로 시즌 211안타",
+  "published_at": "2026-10-12T12:46:16.000Z",
+  "collected_at": "2026-10-18T13:38:16.636Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 16,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

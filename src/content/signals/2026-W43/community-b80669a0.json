@@ -1,0 +1,24 @@
+{
+  "id": "community-b80669a0",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 재택쀼의 삶",
+  "url": "https://blog.naver.com/saidthewoman/224445366762",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/DLt1ESNpNC1",
+  "title": "“최광야구 다시보기 어디서 보나?” SPOTV 재방송 시간·OTT 중계 확인방법",
+  "published_at": "2026-10-18T18:50:00.000+09:00",
+  "collected_at": "2026-10-18T13:38:16.636Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

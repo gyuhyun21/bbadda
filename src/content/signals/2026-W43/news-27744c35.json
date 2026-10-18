@@ -1,0 +1,23 @@
+{
+  "id": "news-27744c35",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "OSEN",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBmYkE5VTBpSnZtbkZSUlJaNW45TkVyNGNKZDdfSXYtQnZZV1h6ZG9aNnNWb2FsOGV0dVFWRzJBd1B3VzQ1Q2x0dmFqaExQWS1GbUFhVQ?oc=5",
+  "title": "‘6월은 좋았는데…’ 3회 조기강판 이승호, 2이닝 6실점 부진 [오!쎈 수원]",
+  "published_at": "2026-10-14T20:54:18.000Z",
+  "collected_at": "2026-10-18T13:38:16.636Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 36,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-bb9223d3",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "news",
+  "source_name": "충청투데이",
+  "url": "https://www.cctoday.co.kr/news/articleView.html?idxno=2238453",
+  "title": "한화이글스, 준우승 팀이 1년 만에 추락하는 법",
+  "published_at": "2026-10-17T10:37:07.000Z",
+  "collected_at": "2026-10-18T13:38:16.636Z",
+  "summary_ko": "충청투데이는 지난해 준우승 팀 한화가 1년 만에 추락한 이유를 짚었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 58,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "image": "https://cdn.cctoday.co.kr/news/photo/202610/2238453_697710_15.jpg"
+}

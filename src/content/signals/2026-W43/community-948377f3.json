@@ -1,0 +1,24 @@
+{
+  "id": "community-948377f3",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "디시 야구 갤러리",
+  "url": "https://gall.dcinside.com/board/view/?id=ncdinos&no=10141334",
+  "title": "apbc 엔트리 명단.jpg",
+  "published_at": "2026-10-12T15:00:00.000Z",
+  "collected_at": "2026-10-18T13:38:16.636Z",
+  "summary_ko": "",
+  "excerpt": "... 스포츠 카테고리로 분류된 NC 다이노스 갤러리 입니다. NC 다이노스 갤러리에 다양한 이야기를 남겨주세요.",
+  "metrics": {},
+  "scores": {
+    "hot": 17,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

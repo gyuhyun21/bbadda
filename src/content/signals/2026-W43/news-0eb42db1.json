@@ -1,0 +1,24 @@
+{
+  "id": "news-0eb42db1",
+  "issue": "2026-W43",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "lg",
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "조선일보",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQlI4dHczMHpfYTM0UFJkbXRwdWowZkVZbFE4TDF4NzBzNVF6bEpBSzM5RkREWkg3cVhWNWxHcGZoN2ZHUHphV0hDcUFnOWdPcWRyV1VTdnRzdmQwNk1lMWxsTTlGQWZNSFFlN2NFUWQyTTBzNWJGNzgwQXduWGFrZlZKdw?oc=5",
+  "title": "KIA LG 공평하게 1승1패! → 김태형 롯데 감독 \"나한테 뭘 안 들고 오더라고!\" [잠실 현장]",
+  "published_at": "2026-10-12T09:47:00.000Z",
+  "collected_at": "2026-10-18T13:38:16.636Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 15,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

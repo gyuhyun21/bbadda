@@ -1,0 +1,23 @@
+{
+  "id": "news-7e8ed36c",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "연합뉴스",
+  "url": "https://www.yna.co.kr/amp/view/AKR20261018046400007",
+  "title": "준PO 탈락 위기 염경엽 LG 감독 \"추격점 못 뽑아 어려운 경기\"",
+  "published_at": "2026-10-18T08:27:09.000Z",
+  "collected_at": "2026-10-18T13:38:16.636Z",
+  "summary_ko": "준PO 탈락 위기에 몰린 염경엽 LG 감독은 추격점을 내지 못해 어려운 경기였다고 말했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "image": "https://img2.yna.co.kr/photo/yna/YH/2026/10/18/PYH2026101803850005400_P4.jpg"
+}

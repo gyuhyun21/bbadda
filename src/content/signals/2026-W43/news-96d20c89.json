@@ -1,0 +1,23 @@
+{
+  "id": "news-96d20c89",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "이투데이",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5aOFJHa1ZvQ2R6M3RlamVXQm1BblBEX2lCX00tLWhRcHJEbmJMd2dEVktCbFByZGhEUzdUYXBPcEZ0Mk1tNGp5SjlmX1FQZTN4WDJnLQ?oc=5",
+  "title": "최동원 야구교실서 시작한 두 투수⋯최수홍ㆍ김민서 나란히 프로 지명",
+  "published_at": "2026-10-13T04:50:00.000Z",
+  "collected_at": "2026-10-18T13:38:16.636Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 22,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "youtube-c8b906cb",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "youtube",
+  "source_name": "안방마님안중열",
+  "url": "https://www.youtube.com/watch?v=qwXO_Gve7g4",
+  "title": "🦖KBO NC 다이노스 NO.25 김형준 등장곡+응원가🦕",
+  "published_at": "2026-10-18T09:27:24Z",
+  "collected_at": "2026-10-18T13:38:16.636Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 5,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 8,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

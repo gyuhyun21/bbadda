@@ -1,0 +1,23 @@
+{
+  "id": "news-137da045",
+  "issue": "2026-W43",
+  "module": "rivalry",
+  "team": "doosan",
+  "teams": [
+    "doosan",
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스핌",
+  "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBKQWJJemFxYmxmbko1ZlFpNXB5MFc5Ykd6WDBNWGkzSDRkOWxoN0ZhSjEzU0kxVTlZY1VZbHh0aXFJLV9FRWs4Y094TVRtNjB4WDZDVWdKaF9GNnBl?oc=5",
+  "title": "[AI프리뷰] 12일 잠실 두산-롯데전, 최종전 등판 롯데 박세웅과 불펜 점검하는 두산",
+  "published_at": "2026-10-12T03:55:00.000Z",
+  "collected_at": "2026-10-18T13:38:16.636Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 13,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

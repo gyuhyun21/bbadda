@@ -1,0 +1,23 @@
+{
+  "id": "news-36a70531",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "국제뉴스",
+  "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5tWHJSZkxMSkQyQUxDM2pCMkRWMVZnUm96bVN3anRXQWZ3ejFfS1ItVGR0NzNkUE1jVmRjdG1HRWthR2ZybHFqZzNQX2ZXOFQyV0xJbm5Pbm14RU1HVHRaa3ZubWtZSDNWWWFYM3pB?oc=5",
+  "title": "최동원 어린이야구 교실 출신 최수홍·김민서, 나란히 프로야구 지명",
+  "published_at": "2026-10-13T06:41:05.000Z",
+  "collected_at": "2026-10-18T13:38:16.636Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 23,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

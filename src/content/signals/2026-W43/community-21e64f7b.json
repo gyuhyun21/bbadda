@@ -1,0 +1,23 @@
+{
+  "id": "community-21e64f7b",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 jay-korea",
+  "url": "https://jay-korea.tistory.com/92",
+  "title": "KBO 준플레이오프 2차전 - 왕이되기위한 도전",
+  "published_at": "2026-10-18T14:22:53.000+09:00",
+  "collected_at": "2026-10-18T13:38:16.636Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

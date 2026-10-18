@@ -1,0 +1,23 @@
+{
+  "id": "news-dd060668",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "뉴시스",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Hci16dVd1TFVpcTI5OEZ5alNsV3pRbnN6NGJFUHdhTXNaNll0OG5UWTNodkx6NnFGT1dHcTlydkZOMG9nNFZSQmRpYXUtZWhEZkh6bmZwbDlCdW9fU01IRtIBeEFVX3lxTFA2Y2ktSEJGcDJwSXMxUklhTDFzSG9vS3U5TXVsdjRXZWV1UTNjd0FPZ2JoMkJHaTlUdmhXeHdlNExacjI2eXVUNnM5SEttOVdWaXFLMnpiNlVjbVJZVlU5aUJ6Q293OEZKRnhuM3UtNURQYW5wVXJqYg?oc=5",
+  "title": "울산-KBO 폴리그 15일 개막…미국·일본·호주·중국 등 12개팀 경쟁",
+  "published_at": "2026-10-13T07:07:56.000Z",
+  "collected_at": "2026-10-18T13:38:16.636Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 23,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

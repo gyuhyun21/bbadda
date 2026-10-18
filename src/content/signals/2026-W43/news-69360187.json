@@ -1,0 +1,23 @@
+{
+  "id": "news-69360187",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "news",
+  "source_name": "더게이트",
+  "url": "http://www.spochoo.com/news/articleView.html?idxno=131000",
+  "title": "두산 1R 김지우, 김도영-두목곰 넘었다!…역대 우타자 최고 계약금 5억원에 사인 \"베어스 대표 선수 될게요\"",
+  "published_at": "2026-10-13T02:20:55.000Z",
+  "collected_at": "2026-10-18T13:38:16.636Z",
+  "summary_ko": "두산이 1라운드 지명 김지우와 역대 우타자 최고 계약금 5억원에 계약했다고 더게이트가 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 21,
+    "relevance": 80
+  },
+  "sentiment": "neutral",
+  "image": "https://cdn.spochoo.com/news/thumbnail/202610/131000_261796_1715_v150.jpg"
+}

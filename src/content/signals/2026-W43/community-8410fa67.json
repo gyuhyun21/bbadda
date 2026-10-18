@@ -1,0 +1,23 @@
+{
+  "id": "community-8410fa67",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 BBC 미디어센터",
+  "url": "https://blog.naver.com/sunhoo272/224445815039",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/4Wces7xUWYx",
+  "title": "KIA 불펜, 승리의 그림자 속 위험 신호 포착: 김태군의 쓴소리 속 숨겨진 진실",
+  "published_at": "2026-10-18T21:20:00.000+09:00",
+  "collected_at": "2026-10-18T13:38:16.636Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

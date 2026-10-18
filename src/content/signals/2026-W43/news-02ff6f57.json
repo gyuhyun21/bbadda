@@ -1,0 +1,20 @@
+{
+  "id": "news-02ff6f57",
+  "issue": "2026-W43",
+  "module": "league",
+  "teams": [],
+  "source_type": "news",
+  "source_name": "엑스포츠뉴스",
+  "url": "https://www.xportsnews.com/article/2208671",
+  "title": "'1277만' KBO리그 흥행 전세계 프로스포츠 7위, 미쳤다!…분데스리가·라리가 이겼다",
+  "published_at": "2026-10-18T04:22:46.000Z",
+  "collected_at": "2026-10-18T13:38:16.636Z",
+  "summary_ko": "엑스포츠뉴스는 올해 KBO리그 관중 1277만 명이 세계 프로스포츠 7위라고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 30
+  },
+  "sentiment": "neutral",
+  "image": "https://image.xportsnews.com/contents/images/upload/article/2026/1018/1792297230443807.webp"
+}

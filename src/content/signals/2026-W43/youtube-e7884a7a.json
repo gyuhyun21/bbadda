@@ -1,0 +1,28 @@
+{
+  "id": "youtube-e7884a7a",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "lg"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "기아타이거즈 KIA TIGERS",
+  "url": "https://www.youtube.com/watch?v=XB3dkmCQx_s",
+  "title": "네일이 막아내고 김도영이 쳐냈다!🔥 [준PO 1차전 챔필덕관] 10월 17일 KIA vs LG",
+  "published_at": "2026-10-18T01:58:03Z",
+  "collected_at": "2026-10-18T13:38:16.636Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 194648,
+    "likes": 4184,
+    "comments": 306
+  },
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

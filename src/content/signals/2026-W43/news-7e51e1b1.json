@@ -1,0 +1,23 @@
+{
+  "id": "news-7e51e1b1",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "연합뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Wc09aYUNjcWVpbUg5NjdvQy1VOXdYMjc3Ykh6aV9SZ1hnQWNSbTJORVFramctal9Nejh2QzRXcnN0MkhwbVlHOWM3TUJsNFh0LW9QbGZwOWZjOUhYaGxLZtIBYEFVX3lxTE9Wc09aYUNjcWVpbUg5NjdvQy1VOXdYMjc3Ykh6aV9SZ1hnQWNSbTJORVFramctal9Nejh2QzRXcnN0MkhwbVlHOWM3TUJsNFh0LW9QbGZwOWZjOUhYaGxLZg?oc=5",
+  "title": "연승이냐, 설욕이냐…뜨겁게 달아오른 광주벌",
+  "published_at": "2026-10-18T04:07:45.000Z",
+  "collected_at": "2026-10-18T13:38:16.636Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

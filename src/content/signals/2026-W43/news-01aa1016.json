@@ -1,0 +1,22 @@
+{
+  "id": "news-01aa1016",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "서울신문",
+  "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE00RmJidmlHS19GUnFuanYxMXJoWGROOVpGTXpDUTg1Y0lfYjFlZmgxYy1yTG9ZT0Z0OHRyOGpIeW4xX052VE1SeDk5bHpCN1h3QzRURUQ3d1dTcTMySUhZbXJfaV9IbUZnR0dzZFpwSFZ1YXVOMHhKSw?oc=5",
+  "title": "와, 롯데가 이걸 해냈다고? 투수 문제 진짜 아니었네…역대 최초 기록 썼다",
+  "published_at": "2026-10-11T16:20:00.000Z",
+  "collected_at": "2026-10-18T13:38:16.636Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 9,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

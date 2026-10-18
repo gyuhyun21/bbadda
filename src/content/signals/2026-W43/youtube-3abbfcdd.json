@@ -1,0 +1,28 @@
+{
+  "id": "youtube-3abbfcdd",
+  "issue": "2026-W43",
+  "module": "league",
+  "teams": [
+    "kia",
+    "lg"
+  ],
+  "team": "kia",
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=pjDA8lXP88U",
+  "title": "압도적인 탈삼진 능력! 6이닝 8K를 기록하는 KIA 올러의 위력적인 피칭! | 준PO2_LG vs KIA | 10.18 | 크보모먼트 | KBO 야구 하이라이트",
+  "published_at": "2026-10-18T07:28:41Z",
+  "collected_at": "2026-10-18T13:38:16.636Z",
+  "summary_ko": "KBO 공식 채널이 6이닝 8탈삼진을 기록한 KIA 올러의 준PO 2차전 투구를 올렸다.",
+  "metrics": {
+    "views": 125127,
+    "likes": 723,
+    "comments": 63
+  },
+  "scores": {
+    "hot": 59,
+    "relevance": 80
+  },
+  "sentiment": "neutral"
+}
