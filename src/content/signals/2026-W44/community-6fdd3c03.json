@@ -1,0 +1,24 @@
+{
+  "id": "community-6fdd3c03",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan",
+    "lotte"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 토온나우",
+  "url": "https://blog.naver.com/sicher782/224445794769",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/IYdtiO0DGDS",
+  "title": "두산은 왜 전민재를 보냈나, \"50억 FA도 못 풀었는데..\" 롯데서 70타점 터진 반전",
+  "published_at": "2026-10-19T03:00:00.000+09:00",
+  "collected_at": "2026-10-18T21:37:55.863Z",
+  "summary_ko": "한 블로그는 두산이 보낸 전민재가 롯데에서 70타점을 올린 반전을 짚었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

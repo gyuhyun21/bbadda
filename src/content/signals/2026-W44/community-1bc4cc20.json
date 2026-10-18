@@ -1,0 +1,23 @@
+{
+  "id": "community-1bc4cc20",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 .",
+  "url": "https://blog.naver.com/247sports/224445025423",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/EaGm3Ot8KZc",
+  "title": "구속은 153km인데 성적은 5점대, 롯데 홍민기가 미국 훈련 떠난 진짜 배경",
+  "published_at": "2026-10-19T00:30:00.000+09:00",
+  "collected_at": "2026-10-18T21:37:55.863Z",
+  "summary_ko": "한 블로그는 구속 153km인데 성적이 5점대인 롯데 홍민기가 미국 훈련을 떠난 배경을 다뤘다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

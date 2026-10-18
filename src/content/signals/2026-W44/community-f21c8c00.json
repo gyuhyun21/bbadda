@@ -1,0 +1,24 @@
+{
+  "id": "community-f21c8c00",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/10461360512",
+  "title": "1회 만루라 - 야구",
+  "published_at": "2026-10-18T15:00:00.000Z",
+  "collected_at": "2026-10-18T21:37:55.863Z",
+  "summary_ko": "",
+  "excerpt": "... 2026.10.19 06:16. 1회 만루라. [레벨:24] 최강기아타이거즈. 조회 수 18 추천 수 0 댓글 0.…",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

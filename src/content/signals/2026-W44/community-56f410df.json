@@ -1,0 +1,24 @@
+{
+  "id": "community-56f410df",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/10448883902",
+  "title": "(소리 O) 2026 KBO 정규시즌 WPA 하락 Top 1~5 - 야구",
+  "published_at": "2026-10-14T15:00:00.000Z",
+  "collected_at": "2026-10-18T21:37:55.863Z",
+  "summary_ko": "",
+  "excerpt": "... 9회말 1사 만루, 5–5에서 1루수 → 포수 → 1루수 병살타로 이닝 종료. 상대 투수:…",
+  "metrics": {},
+  "scores": {
+    "hot": 31,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

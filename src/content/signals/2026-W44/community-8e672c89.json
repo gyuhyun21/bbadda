@@ -1,0 +1,24 @@
+{
+  "id": "community-8e672c89",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "디시 야구 갤러리",
+  "url": "https://gall.dcinside.com/board/view/?id=ncdinos&no=10143578",
+  "title": "타격 좀 손해보더라도 용병 쓰는게 베스트 같은데",
+  "published_at": "2026-10-15T15:00:00.000Z",
+  "collected_at": "2026-10-18T21:37:55.863Z",
+  "summary_ko": "",
+  "excerpt": "... NC 다이노스 · 엔갤러1 (59.4). 마어게인. 10.16 14:54 · ㅇㅇ. 맞긴함 마틴루터킹 있을때가 수비안정성이던…",
+  "metrics": {},
+  "scores": {
+    "hot": 40,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "community-de5fc982",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "lg"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 찬이의 오늘 브리핑",
+  "url": "https://blog.naver.com/kyc0511/224446033268",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/9UEMSkIrpyq",
+  "title": "KIA, LG에 6대3 승리! 준플레이오프 2연승·임찬규 1회 5실점·올러 호투와 3차전 일정",
+  "published_at": "2026-10-19T02:37:00.000+09:00",
+  "collected_at": "2026-10-18T21:37:55.863Z",
+  "summary_ko": "한 블로그는 KIA가 준PO 2차전에서 LG를 6-3으로 이겼고 임찬규가 1회 5실점했다고 정리했다. 3차전 일정도 함께 안내했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

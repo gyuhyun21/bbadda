@@ -1,0 +1,24 @@
+{
+  "id": "community-d1ceccb9",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 최지윤",
+  "url": "https://brunch.co.kr/@cc8f2cafc6814d9/395",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/12ChRhISkIR",
+  "title": "준플레이오프 1,2차전",
+  "published_at": "2026-10-19T06:00:18.000+09:00",
+  "collected_at": "2026-10-18T21:37:55.863Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

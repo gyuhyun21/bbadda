@@ -1,0 +1,24 @@
+{
+  "id": "community-15dc8c4a",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 vietnam",
+  "url": "https://blog.naver.com/mk2206/224446091308",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/3jL4Z2S4V3u",
+  "title": "재계약 포함",
+  "published_at": "2026-10-19T05:04:00.000+09:00",
+  "collected_at": "2026-10-18T21:37:55.863Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

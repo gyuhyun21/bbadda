@@ -1,0 +1,24 @@
+{
+  "id": "community-7957bcf7",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 변화와변경의한끝",
+  "url": "https://blog.naver.com/decor041/224445991936",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/KDKqtXDe6C4",
+  "title": "KBO 골든글러브 외야수, 44홈런 힐리어드 탈락이 실제로 일어난다면",
+  "published_at": "2026-10-19T00:44:00.000+09:00",
+  "collected_at": "2026-10-18T21:37:55.863Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}
