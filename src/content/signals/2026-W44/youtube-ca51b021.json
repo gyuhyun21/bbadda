@@ -1,0 +1,27 @@
+{
+  "id": "youtube-ca51b021",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "기아타이거즈 KIA TIGERS",
+  "url": "https://www.youtube.com/watch?v=0mQ-NjKGDHs",
+  "title": "가을야구에 한준수 응원가가 나오면 장관입니다",
+  "published_at": "2026-10-18T16:15:41Z",
+  "collected_at": "2026-10-18T21:37:55.863Z",
+  "summary_ko": "KIA 공식 채널이 가을야구에서 한준수 응원가가 나오는 장면을 올렸다.",
+  "metrics": {
+    "views": 21826,
+    "likes": 717,
+    "comments": 53
+  },
+  "scores": {
+    "hot": 88,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

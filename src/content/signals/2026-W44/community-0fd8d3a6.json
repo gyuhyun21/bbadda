@@ -1,0 +1,24 @@
+{
+  "id": "community-0fd8d3a6",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "lg"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 정보 은행 (Bank of Information)",
+  "url": "https://bankofinformation.tistory.com/3736",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/85MJrvNA8rn",
+  "title": "이범호 감독의 \"미안함\" 속 숨겨진 전술: KIA, LG 꺾고 준PO 2연승 달려간 이유",
+  "published_at": "2026-10-19T06:33:34.000+09:00",
+  "collected_at": "2026-10-18T21:37:55.863Z",
+  "summary_ko": "한 블로그는 KIA가 LG를 꺾고 준PO 2연승을 한 이유를 이범호 감독의 발언과 함께 풀었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

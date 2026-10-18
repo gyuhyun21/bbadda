@@ -1,0 +1,24 @@
+{
+  "id": "community-ec90c8d2",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "디시 야구 갤러리",
+  "url": "https://gall.dcinside.com/board/view/?id=ncdinos&no=10143551",
+  "title": "믈브는 선수협쪽에 더 힘이실리겠네",
+  "published_at": "2026-10-15T15:00:00.000Z",
+  "collected_at": "2026-10-18T21:37:55.863Z",
+  "summary_ko": "",
+  "excerpt": "... 돈써도 우승못하고 스몰마켓팀이 월시가서셀캡 필요없는쪽에 힘실릴듯.",
+  "metrics": {},
+  "scores": {
+    "hot": 40,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

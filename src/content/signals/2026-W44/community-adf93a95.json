@@ -1,0 +1,24 @@
+{
+  "id": "community-adf93a95",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/10445316346",
+  "title": "사실 단장 잘리는거야 뭐 - 야구",
+  "published_at": "2026-10-13T15:00:00.000Z",
+  "collected_at": "2026-10-18T21:37:55.863Z",
+  "summary_ko": "",
+  "excerpt": "... 혹시 SSG랜더스 팬 페스트 가고싶은데 유니폼이 없어서 못가는 여갤러 있어??? [1]. 10.14 자유 욘사리코…",
+  "metrics": {},
+  "scores": {
+    "hot": 23,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

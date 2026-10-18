@@ -1,0 +1,24 @@
+{
+  "id": "community-7ebc7440",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 수리수리마수리! 뭐든지 나오는 마법 컨테이너",
+  "url": "https://blog.naver.com/lsw20sss/224446076211",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/5w4LbZMXgpv",
+  "title": "2026 프로야구 가을야구 일정 총정리! 한국시리즈 날짜와 포스트시즌 방식 알아보기",
+  "published_at": "2026-10-19T04:10:00.000+09:00",
+  "collected_at": "2026-10-18T21:37:55.863Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

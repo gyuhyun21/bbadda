@@ -1,0 +1,23 @@
+{
+  "id": "news-7a66ed9b",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "스타뉴스",
+  "url": "https://www.starnewskorea.com/sports/2026/10/19/2026101811074420991",
+  "title": "'2연패 뒤 3연승' LG 리버스 스윕 '기적의 드라마' 진짜 잠실구장 마지막 경기서 쓸까 [준PO2 현장]",
+  "published_at": "2026-10-18T20:02:00.000Z",
+  "collected_at": "2026-10-18T21:37:55.863Z",
+  "summary_ko": "스타뉴스가 준PO 2차전 현장에서 '2연패 뒤 3연승' 역전 시나리오와 잠실구장 마지막 경기 가능성을 다뤘다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 80
+  },
+  "sentiment": "mixed",
+  "image": "https://image.starnewskorea.com/21/2026/10/2026101811074420991_1.jpg"
+}

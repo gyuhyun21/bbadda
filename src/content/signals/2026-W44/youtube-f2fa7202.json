@@ -1,0 +1,27 @@
+{
+  "id": "youtube-f2fa7202",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "최강엘롯기",
+  "url": "https://www.youtube.com/watch?v=SYl_PX3Zi2w",
+  "title": "#lg트윈스  추격 의지 산산조각 낸 #한준수  #카스트로  합작 #kbo #기아타이거즈",
+  "published_at": "2026-10-18T20:00:22Z",
+  "collected_at": "2026-10-18T21:37:55.863Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 2257,
+    "likes": 38,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 60,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

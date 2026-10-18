@@ -1,0 +1,24 @@
+{
+  "id": "community-8c1eeda8",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "엠엘비파크",
+  "url": "https://mlbpark.donga.com/mp/b.php?id=202610170119496027&p=121&b=kbotown&m=view&select=spf&query=LG&site=donga.com",
+  "title": "결국 팀빨도 중요한게 뒷타자 만만하면 타격감 박살낼 수 있음",
+  "published_at": "2026-10-17T15:00:00.000Z",
+  "collected_at": "2026-10-18T21:37:55.863Z",
+  "summary_ko": "",
+  "excerpt": "... ... KIA · 두산 · 키움 · KBO · 스토브리그/FA · 오피셜 · 핫딜.…",
+  "metrics": {},
+  "scores": {
+    "hot": 57,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

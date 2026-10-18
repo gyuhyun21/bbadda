@@ -1,0 +1,24 @@
+{
+  "id": "news-03757b8b",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "hanwha",
+  "teams": [
+    "hanwha",
+    "doosan"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://www.mt.co.kr/amp/sports/2026/10/19/202610190100774522O",
+  "title": "'또 홈런' 임종찬 투런포 터졌다…한화, 두산 9-6 꺾고 미야자키 교육리그 6연패 탈출",
+  "published_at": "2026-10-18T17:40:00.000Z",
+  "collected_at": "2026-10-18T21:37:55.863Z",
+  "summary_ko": "한화가 미야자키 교육리그에서 두산을 9-6으로 꺾고 6연패를 끊었다고 머니투데이가 전했다. 임종찬이 투런포를 쳤다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "mixed",
+  "image": "https://menu.mt.co.kr/cdn-cgi/image/w=1200,h=802,fit=cover,bg=white,f=auto,quality=high,sharpen=2,g=face/mobile/osen/data/2026/10/19/202610190100774522_1.jpg"
+}
