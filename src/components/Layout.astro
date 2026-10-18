@@ -114,6 +114,11 @@ const myTeamCss = TEAMS.map((t) => `html[data-my-team="${t.id}"] [data-myteam-bl
         <div>기사·게시물 본문과 사진 파일은 저장하지 않습니다(뉴스 사진은 원 매체 주소에서 표시). 요약은 편집자가 쓰고 모든 항목은 원문 링크로 연결됩니다. 구단 로고·엠블럼은 쓰지 않습니다.</div>
       </div>
     </footer>
+    <aside class="install-nudge" id="install-nudge" hidden data-pagefind-ignore>
+      <p class="in-text"><strong>앱처럼 쓰기</strong> <span class="in-how"></span></p>
+      <button type="button" class="in-go" hidden>설치</button>
+      <button type="button" class="in-close" aria-label="닫기">✕</button>
+    </aside>
     {modal.on && (
       <dialog class="article-modal" id="article-modal" aria-label="기사 보기" data-blocked={JSON.stringify(modal.blocked)} data-blocked-open={modal.blockedOpen} data-pagefind-ignore>
         <div class="am-bar">
@@ -192,8 +197,10 @@ const myTeamCss = TEAMS.map((t) => `html[data-my-team="${t.id}"] [data-myteam-bl
             markRead(a);
             const u = new URL(a.href);
             if (!embedOf(u) && blockedOpen !== 'modal' && !/youtube|youtu\.be|instagram/.test(u.hostname)) {
-              // 모달에 못 띄우는 매체: PC 는 작은 창(닫으면 바로 이 화면), 모바일·팝업 차단은 새 탭
-              const small = blockedOpen === 'window' && matchMedia('(min-width: 900px) and (pointer: fine)').matches;
+              // 모달에 못 띄우는 매체: PC 는 작은 창(닫으면 바로 이 화면), 모바일은 같은 탭(뒤로가기로 돌아옴), 팝업 차단은 새 탭
+              const desktop = matchMedia('(min-width: 900px) and (pointer: fine)').matches;
+              if (blockedOpen === 'same' || (blockedOpen === 'window' && !desktop)) { location.assign(a.href); return; }
+              const small = blockedOpen === 'window' && desktop;
               // noopener 를 features 에 넣으면 window.open 이 항상 null 을 돌려줘 '팝업이 막혔다'로 오인되고 새 탭이 또 열린다 — 열린 뒤 opener 만 끊는다
               const w = small ? window.open(a.href, 'bbadda-article', `popup=yes,width=1040,height=820,left=${Math.max(0, screenX + 80)},top=${Math.max(0, screenY + 60)}`) : null;
               if (w) { try { w.opener = null; } catch {} w.focus(); }
@@ -205,6 +212,28 @@ const myTeamCss = TEAMS.map((t) => `html[data-my-team="${t.id}"] [data-myteam-bl
         }
       </script>
     )}
+    <script>
+      // 홈 화면 설치 안내(모바일): 기사를 한 번이라도 읽고 돌아온 사람에게만, 한 번 닫으면 다시 안 띄운다. 설치한 앱은 외부 기사를 닫기 버튼이 있는 앱 안 브라우저로 여는 경우가 많다.
+      const nudge = document.getElementById('install-nudge');
+      if (nudge) {
+        const NK = 'bbadda:install-nudge';
+        const mobile = matchMedia('(max-width: 899px)').matches || matchMedia('(pointer: coarse)').matches;
+        const standalone = matchMedia('(display-mode: standalone)').matches || (navigator as unknown as { standalone?: boolean }).standalone === true;
+        let dismissed = false, hasRead = false;
+        try { dismissed = localStorage.getItem(NK) === 'x'; hasRead = JSON.parse(localStorage.getItem('bbadda:read') || '[]').length > 0; } catch {}
+        if (mobile && !standalone && !dismissed && hasRead) {
+          const how = nudge.querySelector<HTMLElement>('.in-how')!;
+          const go = nudge.querySelector<HTMLButtonElement>('.in-go')!;
+          const ios = /iphone|ipad|ipod/i.test(navigator.userAgent);
+          how.textContent = ios ? '공유 버튼 → "홈 화면에 추가"를 누르면 앱처럼 열립니다.' : '메뉴 → "홈 화면에 추가"로 앱처럼 열 수 있습니다.';
+          let deferred: (Event & { prompt: () => void }) | null = null;
+          window.addEventListener('beforeinstallprompt', (e) => { e.preventDefault(); deferred = e as Event & { prompt: () => void }; how.textContent = '홈 화면에 설치하면 앱처럼 열립니다.'; go.hidden = false; });
+          go.addEventListener('click', () => { deferred?.prompt(); nudge.hidden = true; });
+          nudge.querySelector('.in-close')!.addEventListener('click', () => { nudge.hidden = true; try { localStorage.setItem(NK, 'x'); } catch {} });
+          nudge.hidden = false;
+        }
+      }
+    </script>
     <script>
       // 북마크: 기사 URL·제목·출처를 localStorage(bbadda:bookmarks)에 저장. 저장소가 막혀 있으면 이번 화면에서만 유지.
       const BM_KEY = 'bbadda:bookmarks';
