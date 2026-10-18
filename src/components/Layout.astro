@@ -114,6 +114,7 @@ const myTeamCss = TEAMS.map((t) => `html[data-my-team="${t.id}"] [data-myteam-bl
         <div>기사·게시물 본문과 사진 파일은 저장하지 않습니다(뉴스 사진은 원 매체 주소에서 표시). 요약은 편집자가 쓰고 모든 항목은 원문 링크로 연결됩니다. 구단 로고·엠블럼은 쓰지 않습니다.</div>
       </div>
     </footer>
+    <button type="button" class="to-top" id="to-top" aria-label="맨 위로" hidden>↑</button>
     <aside class="install-nudge" id="install-nudge" hidden data-pagefind-ignore>
       <p class="in-text"><strong>앱처럼 쓰기</strong> <span class="in-how"></span></p>
       <button type="button" class="in-go" hidden>설치</button>
@@ -215,6 +216,14 @@ const myTeamCss = TEAMS.map((t) => `html[data-my-team="${t.id}"] [data-myteam-bl
         }
       </script>
     )}
+    <script>
+      // 맨 위로 버튼: 많이 내려왔을 때만 나온다(CSS 로 모바일·태블릿에서만 보임)
+      const toTop = document.getElementById('to-top');
+      if (toTop) {
+        addEventListener('scroll', () => { toTop.hidden = scrollY < 900; }, { passive: true });
+        toTop.addEventListener('click', () => scrollTo({ top: 0, behavior: 'smooth' }));
+      }
+    </script>
     <script>
       // 홈 화면 설치 안내(모바일): 기사를 한 번이라도 읽고 돌아온 사람에게만, 한 번 닫으면 다시 안 띄운다. 설치한 앱은 외부 기사를 닫기 버튼이 있는 앱 안 브라우저로 여는 경우가 많다.
       const nudge = document.getElementById('install-nudge');
