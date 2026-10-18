@@ -1,0 +1,28 @@
+{
+  "id": "youtube-19ff9a95",
+  "issue": "2026-W43",
+  "module": "league",
+  "teams": [
+    "kia",
+    "lg"
+  ],
+  "team": "kia",
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=l41mJ_ZnVMg",
+  "title": "꼭 필요했던 순간 나온 추가점! KIA 박재현의 2루타에 이어 나성범의 희생플라이까지! | 준PO2_LG vs KIA | 10.18 | 크보모먼트 | KBO 야구 하이라이트",
+  "published_at": "2026-10-18T07:56:28Z",
+  "collected_at": "2026-10-18T13:38:16.636Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 98698,
+    "likes": 630,
+    "comments": 53
+  },
+  "scores": {
+    "hot": 58,
+    "relevance": 80
+  },
+  "sentiment": "neutral"
+}

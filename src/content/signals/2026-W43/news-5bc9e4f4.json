@@ -1,0 +1,23 @@
+{
+  "id": "news-5bc9e4f4",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "연합뉴스",
+  "url": "https://www.yna.co.kr/amp/view/AKR20261018045151007",
+  "title": "올러, 한국 가을야구 데뷔전서 LG 중심 완벽 봉쇄…6이닝 2실점(종합)",
+  "published_at": "2026-10-18T09:11:46.000Z",
+  "collected_at": "2026-10-18T13:38:16.636Z",
+  "summary_ko": "KIA 올러가 한국 가을야구 데뷔전에서 6이닝 2실점으로 LG 중심 타선을 막았다고 연합뉴스가 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "image": "https://img0.yna.co.kr/photo/yna/YH/2026/10/18/PYH2026101806590005400_P4.jpg"
+}

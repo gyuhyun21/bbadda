@@ -1,0 +1,26 @@
+{
+  "id": "youtube-ab186965",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "source_name": "한화에 묻어다오",
+  "url": "https://www.youtube.com/watch?v=NKDH6ANJuQM",
+  "title": "드디어 캐치볼을 시작한 대전왕자 문동주 #한화이글스 #문동주",
+  "published_at": "2026-10-18T12:54:18Z",
+  "collected_at": "2026-10-18T13:38:16.636Z",
+  "summary_ko": "팬 채널이 캐치볼을 시작한 한화 문동주의 모습을 소개했다.",
+  "metrics": {
+    "views": 5524,
+    "likes": 455,
+    "comments": 28
+  },
+  "scores": {
+    "hot": 79,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

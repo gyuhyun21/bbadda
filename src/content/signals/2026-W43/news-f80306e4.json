@@ -9,7 +9,7 @@
   ],
   "source_type": "news",
   "source_name": "서울경제",
-  "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1WckZTXzFKX1lMS1VYWGN1X1hIYWxudTgwdm93VWp5QmRUQWNoOUVGZXc4cW00aG4tYVUtSnhJYnIteDBtY01ReEZlc2xub3BIRG5YUEJJQkJNVkRNQnJFblFJR1JDd9IBU0FVX3lxTE9TWFM2TVpnRlRMbEtUUmlVQ1JRUGRUWEx6TVlHWk9DVXBEbElpOHh3azNSQWZfSmZjNFZzcHpmbjJ1bTlOVTRXbEtCSFhCZW9WSXpv?oc=5",
+  "url": "https://www.sedaily.com/article/20102809?ref=sedailyEng",
   "title": "“노게임도 콜드게임도 없다” LG·KIA 준PO 2차전 비 예보…경기 중단되면?",
   "published_at": "2026-10-17T12:55:07.000Z",
   "collected_at": "2026-10-17T21:38:12.513Z",
@@ -19,5 +19,6 @@
     "hot": 65,
     "relevance": 80
   },
-  "sentiment": "neutral"
+  "sentiment": "neutral",
+  "image": "https://wimg.sedaily.com/news/cms/2026/10/17/rcv.YNA.20261014.PYH2026101427060001300_Z1.jpg"
 }

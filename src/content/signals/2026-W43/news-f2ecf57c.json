@@ -5,7 +5,7 @@
   "teams": [],
   "source_type": "news",
   "source_name": "아주경제",
-  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1UVkpTZlZSbGZOalJReTZ1eFQ5ZmpzdFMyRVoxaXRXbWg0ZXVpbkNXTW5Fby11MXZlcjdudjJLaWdON2dNYWx1TDE5cmtmUElxSHdzd3h2eUw2d9IBWEFVX3lxTE01cFAtOUE1dUZVT1NkSG1COXVONUlOOXNNanBWOUpPc211MTNuS240YzVRRWRRUWJJNExJN2h5OC1fWHdkaGdGTmhzcXB0QUhpbjFmMDVzQ00?oc=5",
+  "url": "https://www.ajunews.com/view/20261012202731954",
   "title": "1200만 시대 활짝 연 프로야구…역대 최다 1277만 관중 신기록",
   "published_at": "2026-10-12T11:29:06.000Z",
   "collected_at": "2026-10-17T21:38:12.513Z",
@@ -15,5 +15,6 @@
     "hot": 22,
     "relevance": 30
   },
-  "sentiment": "positive"
+  "sentiment": "positive",
+  "image": "https://image.ajunews.com/content/image/2026/10/12/20261012202825780502.jpg"
 }

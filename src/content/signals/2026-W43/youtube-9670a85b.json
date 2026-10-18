@@ -1,0 +1,27 @@
+{
+  "id": "youtube-9670a85b",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "SSG랜더스",
+  "url": "https://www.youtube.com/watch?v=UQSCRONCv1w",
+  "title": "섬곤전 때와는 다르다! 박성한 불펜 피칭 대공개🔥",
+  "published_at": "2026-10-18T11:00:01Z",
+  "collected_at": "2026-10-18T13:38:16.636Z",
+  "summary_ko": "SSG 공식 채널이 박성한의 불펜 피칭 영상을 올렸다.",
+  "metrics": {
+    "views": 15151,
+    "likes": 873,
+    "comments": 36
+  },
+  "scores": {
+    "hot": 84,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

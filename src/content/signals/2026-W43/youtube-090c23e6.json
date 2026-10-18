@@ -1,0 +1,27 @@
+{
+  "id": "youtube-090c23e6",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "국격연구소",
+  "url": "https://www.youtube.com/watch?v=2iE-xxmDdVk",
+  "title": "구자욱, 2026 한국시리즈에 돌아올까?",
+  "published_at": "2026-10-18T11:00:19Z",
+  "collected_at": "2026-10-18T13:38:16.636Z",
+  "summary_ko": "팬 채널이 삼성 구자욱의 한국시리즈 복귀 가능성을 이야기했다.",
+  "metrics": {
+    "views": 835,
+    "likes": 3,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 35,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

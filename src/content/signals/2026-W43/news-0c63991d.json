@@ -1,0 +1,28 @@
+{
+  "id": "news-0c63991d",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "남도일보",
+  "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1KdjZaMnExZTRLY18wZ0FodmhVNXA2dXpYNlJyTTNaWkdYNXZ3d2VvaFNZOG5VWmxEc3hOa01ITWRhQVQ2aV8tLTAwTnFhSklRTlVXeUR2bEJfV3NIbU93d2dvUEZER1RBVlAxZ9IBcEFVX3lxTE1zeGdGX1V1bjBnLTdIN0M2aFdnazU4Y0t1RU84TWtzbERrYWM0LTBNLVA4eW5NdkptZ1gtUVdYMDQ5blp3Z1c3eDRFdkVVQmFvREJEQkFUdi1WMU1MT2ozU1ozMnJmYllrNUhGSzNIeEI?oc=5",
+  "title": "[준PO]KIA 올러 \"최고의 생일 선물을 받았다\"",
+  "published_at": "2026-10-18T09:15:16.000Z",
+  "collected_at": "2026-10-18T13:38:16.636Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4wbnNfZnU5ZDhNYjVpcEQtSlM0Zk1FUXlNMXJkU1hQY2tkNjFQQjFTVngxNkRRT0VoZlFQeDhhZU9QWUJjc0d4SXFUX2lqSjZDc1pRcXBKamsxTW9XY2lFSFFiSmVQQ1RmeTVwNy1ScW9QVDd0XzN1NtIBeEFVX3lxTE4wbnNfZnU5ZDhNYjVpcEQtSlM0Zk1FUXlNMXJkU1hQY2tkNjFQQjFTVngxNkRRT0VoZlFQeDhhZU9QWUJjc0d4SXFUX2lqSjZDc1pRcXBKamsxTW9XY2lFSFFiSmVQQ1RmeTVwNy1ScW9QVDd0XzN1Ng?oc=5"
+    }
+  ]
+}

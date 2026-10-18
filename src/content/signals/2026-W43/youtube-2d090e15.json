@@ -1,0 +1,34 @@
+{
+  "id": "youtube-2d090e15",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "lg"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "기아타이거즈 KIA TIGERS",
+  "url": "https://www.youtube.com/watch?v=qP8U1u-vrDY",
+  "title": "2차전도 타이거즈가 승리!!!! | 10월 18일 KIA vs LG 준PO 하이라이트",
+  "published_at": "2026-10-18T09:18:49Z",
+  "collected_at": "2026-10-18T13:38:16.636Z",
+  "summary_ko": "KIA 공식 채널이 준PO 2차전 승리 하이라이트를 올렸다.",
+  "metrics": {
+    "views": 178493,
+    "likes": 3238,
+    "comments": 259
+  },
+  "scores": {
+    "hot": 71,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "더코리아",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE05YUNEUlRudDU2bEQ1cVNCdzNoSk5kZEFNcDl5OUNlVUdwU1FqT01VeXFVT1BtLW9hb0JqcmFsSlFxMkszbWpxX1g4cmNoVUtnYUoxOGgzN0J0S1p5S2FOeF9jTF9NVTFZTzA5QW1vTW0?oc=5"
+    }
+  ]
+}

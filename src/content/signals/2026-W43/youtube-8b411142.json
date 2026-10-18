@@ -1,0 +1,26 @@
+{
+  "id": "youtube-8b411142",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "youtube",
+  "source_name": "야구 한입",
+  "url": "https://www.youtube.com/watch?v=7BYdX-NZqtE",
+  "title": "중1 때 이미 키 180… 롯데 신인 김한결, 유급 1년의 기억과 \"40살까지 야구\" | 롯데 자이언츠 비하인드",
+  "published_at": "2026-10-18T11:28:37Z",
+  "collected_at": "2026-10-18T13:38:16.636Z",
+  "summary_ko": "팬 채널이 롯데 신인 김한결의 학창 시절과 '40살까지 야구' 각오를 소개했다.",
+  "metrics": {
+    "views": 1068,
+    "likes": 11,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 40,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

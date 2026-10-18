@@ -1,0 +1,23 @@
+{
+  "id": "news-06a76948",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠경향",
+  "url": "https://sports.khan.co.kr/article/202610180952013/amp",
+  "title": "“이게 뭐라고” 말하지만 모두가 진심이었다…SSG가 시즌을 마무리하는 가장 특별한 방법",
+  "published_at": "2026-10-18T00:52:00.000Z",
+  "collected_at": "2026-10-18T13:38:16.636Z",
+  "summary_ko": "스포츠경향은 SSG가 시즌 마무리 행사로 연 특별 이벤트가 선수들에게 진지한 무대였다고 소개했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "image": "https://images.khan.co.kr/article/2026/10/18/news-p.v1.20261018.8633c1be11124f3ab991819057056a01_P1.jpg"
+}

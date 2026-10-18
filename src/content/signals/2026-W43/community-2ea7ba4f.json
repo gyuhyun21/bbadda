@@ -1,0 +1,24 @@
+{
+  "id": "community-2ea7ba4f",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 스포츠 이슈 센터",
+  "url": "https://blog.naver.com/sport_issue_center2/224445528490",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/EewioVsiVkH",
+  "title": "추신수 시구, 클리블랜드 ALCS 5차전 나선다｜우천 연기로 성사된 친정팀 재회",
+  "published_at": "2026-10-18T15:46:00.000+09:00",
+  "collected_at": "2026-10-18T13:38:16.636Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

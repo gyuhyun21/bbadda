@@ -1,0 +1,22 @@
+{
+  "id": "community-1985e692",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 크보한입",
+  "url": "https://blog.naver.com/dyts60/224445251423",
+  "title": "\"연봉 42억 받고 타율 0.249?\" 두산 양의지 에이징 커브 시작됐나?",
+  "published_at": "2026-10-18T09:30:00.000+09:00",
+  "collected_at": "2026-10-18T13:38:16.636Z",
+  "summary_ko": "블로그 크보한입은 두산 양의지의 올 시즌 타율 0.249를 두고 에이징 커브 논쟁을 소개했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

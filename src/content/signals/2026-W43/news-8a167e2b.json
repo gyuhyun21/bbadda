@@ -1,0 +1,25 @@
+{
+  "id": "news-8a167e2b",
+  "issue": "2026-W43",
+  "module": "rivalry",
+  "team": "lg",
+  "teams": [
+    "lg",
+    "samsung",
+    "kt"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://www.mt.co.kr/amp/sports/2026/10/18/202610180845770789O",
+  "title": "“우승반지가 마지막 소원이라고” LG→삼성→KT, 23년 만에 눈물의 KS행…통합우승에 사활 걸다, 41세 맏형을 위해",
+  "published_at": "2026-10-18T01:42:00.000Z",
+  "collected_at": "2026-10-18T13:38:16.636Z",
+  "summary_ko": "머니투데이는 LG, 삼성을 거쳐 KT에서 23년 만에 한국시리즈에 오른 41세 우규민 이야기를 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 80
+  },
+  "sentiment": "positive",
+  "image": "https://menu.mt.co.kr/cdn-cgi/image/w=1200,h=820,fit=cover,bg=white,f=auto,quality=high,sharpen=2,g=face/mobile/osen/data/2026/10/18/202610180845770789_1.jpg"
+}

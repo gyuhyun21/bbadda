@@ -1,0 +1,24 @@
+{
+  "id": "community-3c684222",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 경제 •재테크 인사이트",
+  "url": "https://blog.naver.com/cherish_xxxx/224445613750",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/GaszkJoujju",
+  "title": "최광야구 1429 결과 정리, 김광현 감독팀 8대 6 승리",
+  "published_at": "2026-10-18T17:23:00.000+09:00",
+  "collected_at": "2026-10-18T13:38:16.636Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

@@ -8,7 +8,7 @@
   ],
   "source_type": "news",
   "source_name": "스타뉴스",
-  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1sbUM4elFfMWJVT0JnYlhtYXEyQ09WekduUndMcXp5MXEzR1lySmxMaFpJbmduZDYtZUhLTS1jOFBUNUhiaTM2S2MyeDVNSk95ckUzMEhreDNCMTg5RjJRUGNJVFRKa081TlFIS2xnU1FIMWxpc1E?oc=5",
+  "url": "https://www.starnewskorea.com/sports/2026/10/12/2026101211404350978",
   "title": "\"김원중 선배 깡에 반했다\" 롯데 150㎞ 신인도 선발 아닌 마무리 꿈꾼다 \"위기 상황에서 삼진 잡는 게 재밌어요\" [인터뷰]",
   "published_at": "2026-10-12T03:48:23.000Z",
   "collected_at": "2026-10-17T21:38:12.513Z",
@@ -18,5 +18,6 @@
     "hot": 19,
     "relevance": 80
   },
-  "sentiment": "neutral"
+  "sentiment": "neutral",
+  "image": "https://image.starnewskorea.com/cdn-cgi/image/f=auto,w=1200,h=900,fit=cover,q=high,sharpen=2/21/2026/10/2026101211404350978_1.jpg"
 }

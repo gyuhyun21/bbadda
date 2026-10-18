@@ -1,0 +1,24 @@
+{
+  "id": "community-4a5ec3b6",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 비개발자의 AI 업무 실험",
+  "url": "https://blog.naver.com/hwoox/224444980131",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/Aoq6jyuAKoy",
+  "title": "KBO FA 보상제도 바꿔야 하는 이유: 보상선수·보상금에 경쟁균형세까지 (미국·일본 비교)",
+  "published_at": "2026-10-18T16:01:00.000+09:00",
+  "collected_at": "2026-10-18T13:38:16.636Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

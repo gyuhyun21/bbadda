@@ -1,0 +1,26 @@
+{
+  "id": "youtube-dd876ddd",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "youtube",
+  "source_name": "야구 사운드",
+  "url": "https://www.youtube.com/watch?v=I53FF4LpIxI",
+  "title": "KT위즈 한승택 Music Video(신청곡)",
+  "published_at": "2026-10-18T08:29:11Z",
+  "collected_at": "2026-10-18T13:38:16.636Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 56,
+    "likes": 3,
+    "comments": 6
+  },
+  "scores": {
+    "hot": 58,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

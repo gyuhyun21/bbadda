@@ -1,0 +1,28 @@
+{
+  "id": "youtube-85fe9582",
+  "issue": "2026-W43",
+  "module": "league",
+  "teams": [
+    "kia",
+    "lg"
+  ],
+  "team": "kia",
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=rTYVQz_1Cy8",
+  "title": "(풀버전) 2사 1, 2루 실점 위기에서 꺼내 든 KIA의 승부수, 전상현 등판! 그 결과는? | 준PO2_LG vs KIA | 10.18 | 크보모먼트 | KBO 야구 하이라이트",
+  "published_at": "2026-10-18T08:11:04Z",
+  "collected_at": "2026-10-18T13:38:16.636Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 78712,
+    "likes": 526,
+    "comments": 141
+  },
+  "scores": {
+    "hot": 58,
+    "relevance": 80
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "youtube-c027a81e",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "댕채",
+  "url": "https://www.youtube.com/watch?v=Cty6NQmbwWE",
+  "title": "'우승 4연패 왕조' 2014년 삼성 라이온즈 우승 라인업 응원가 모음 Playlist",
+  "published_at": "2026-10-18T12:00:39Z",
+  "collected_at": "2026-10-18T13:38:16.636Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 37,
+    "likes": 0,
+    "comments": 3
+  },
+  "scores": {
+    "hot": 57,
+    "relevance": 70
+  },
+  "sentiment": "mixed"
+}

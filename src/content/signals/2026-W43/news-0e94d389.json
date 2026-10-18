@@ -1,0 +1,23 @@
+{
+  "id": "news-0e94d389",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "뉴시스",
+  "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261018_0003830542",
+  "title": "사라진 해결사, 답답한 공격…중심타선 침묵에 벼랑 끝 몰린 LG[준PO]",
+  "published_at": "2026-10-18T08:21:46.000Z",
+  "collected_at": "2026-10-18T13:38:16.636Z",
+  "summary_ko": "뉴시스는 LG가 중심 타선 침묵으로 준PO 2패, 벼랑 끝에 몰렸다고 짚었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 80
+  },
+  "sentiment": "neutral",
+  "image": "https://img1.newsis.com/2026/10/18/NISI20261018_0021493421_web.jpg"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "community-f4d54982",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 골(GOLF)치는 박간지",
+  "url": "https://blog.naver.com/total_feel/224445286498",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/7Uq0NInPszp",
+  "title": "골든글러브 투표는 한국시리즈 전에 끝난다, 가을에 미친 선수는 손해일까 공정일까",
+  "published_at": "2026-10-18T10:32:00.000+09:00",
+  "collected_at": "2026-10-18T13:38:16.636Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

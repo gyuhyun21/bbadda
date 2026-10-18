@@ -1,0 +1,26 @@
+{
+  "id": "youtube-5a7c50c9",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "youtube",
+  "source_name": "크보딱",
+  "url": "https://www.youtube.com/watch?v=PXUfy0ieT84",
+  "title": "2패에 몰린 LG 트윈스 염경엽 감독이 밝힌 3차전 각오",
+  "published_at": "2026-10-18T10:11:03Z",
+  "collected_at": "2026-10-18T13:38:16.636Z",
+  "summary_ko": "팬 채널이 2패에 몰린 염경엽 LG 감독의 3차전 각오 발언을 소개했다.",
+  "metrics": {
+    "views": 29845,
+    "likes": 383,
+    "comments": 135
+  },
+  "scores": {
+    "hot": 61,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

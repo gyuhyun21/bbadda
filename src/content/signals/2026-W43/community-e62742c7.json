@@ -1,0 +1,23 @@
+{
+  "id": "community-e62742c7",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 야생야사(야구에 살고 야구에 죽는다.)",
+  "url": "https://blog.naver.com/yulha0312/224445411184",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/JtcagUA6q3N",
+  "title": "키움에서 방출된지 엿새가 지난 어제 은퇴를 선언하며 야구아카데미 수비코치로 새 출발을 하게 된 키움...",
+  "published_at": "2026-10-18T12:47:00.000+09:00",
+  "collected_at": "2026-10-18T13:38:16.636Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

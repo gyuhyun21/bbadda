@@ -1,0 +1,22 @@
+{
+  "id": "news-21c8f1b0",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠동아",
+  "url": "https://sports.donga.com/sports/article/all/20261018/134861053/1",
+  "title": "“우승에 보탬 되겠다” SSG, 아빌라와 최대 2년 계약 합의…청라돔서도 뛸 수 있다",
+  "published_at": "2026-10-18T06:13:22.000Z",
+  "collected_at": "2026-10-18T13:38:16.636Z",
+  "summary_ko": "SSG가 외국인 투수 아빌라와 최대 2년 계약에 합의했다고 스포츠동아가 전했다. 청라돔에서도 뛸 수 있는 계약이다.",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

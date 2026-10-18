@@ -1,0 +1,27 @@
+{
+  "id": "youtube-fe61b0d6",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "SSG랜더스",
+  "url": "https://www.youtube.com/watch?v=lhOiAf4_0N0",
+  "title": "표현은 서툴러도 눈물로 전해진 사랑💦 | 김민준 부자의 시구 비하인드🫶",
+  "published_at": "2026-10-18T09:00:26Z",
+  "collected_at": "2026-10-18T13:38:16.636Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 44313,
+    "likes": 1378,
+    "comments": 180
+  },
+  "scores": {
+    "hot": 77,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

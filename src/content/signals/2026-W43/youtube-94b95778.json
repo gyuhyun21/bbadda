@@ -1,0 +1,27 @@
+{
+  "id": "youtube-94b95778",
+  "issue": "2026-W43",
+  "module": "league",
+  "teams": [
+    "kia"
+  ],
+  "team": "kia",
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=6syxHJEsV54",
+  "title": "KIA의 든든한 선발투수 올러의 삼진은 계속됩니다💯",
+  "published_at": "2026-10-18T07:01:56Z",
+  "collected_at": "2026-10-18T13:38:16.636Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 34963,
+    "likes": 449,
+    "comments": 23
+  },
+  "scores": {
+    "hot": 59,
+    "relevance": 80
+  },
+  "sentiment": "neutral"
+}

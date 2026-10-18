@@ -1,0 +1,23 @@
+{
+  "id": "news-de5073a6",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "조선일보",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOa2xRaTdvR3RXSF9aWFpVTFNRUC10YlJHSl9HTDhSVExERzVRSFJBVnByaVZxSXRlUUFMVlpzYjZqWEJweEdmMW5BZFVSRWRJZ3Zoamx3Qkg4VkQtNE5QbG1wS2RldG01YlVaeWFtR1pXTndtR3Izb0JzbGFjRDJkNXFCYw?oc=5",
+  "title": "눈부신 호투 각이었는데… 임시선발 양창섭 허리불편 24구 조기강판, \"불안함 느꼈다\"[대구현장]",
+  "published_at": "2026-10-12T11:35:00.000Z",
+  "collected_at": "2026-10-18T13:38:16.636Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 16,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

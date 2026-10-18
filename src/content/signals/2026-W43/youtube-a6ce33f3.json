@@ -1,0 +1,27 @@
+{
+  "id": "youtube-a6ce33f3",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "기아타이거즈 KIA TIGERS",
+  "url": "https://www.youtube.com/watch?v=IGRxFbZDnPQ",
+  "title": "챔필에서 펼쳐진 명품 응원전! 준PO 1차전 챔필을 가득 채운 관중석 응원 모음",
+  "published_at": "2026-10-18T03:00:04Z",
+  "collected_at": "2026-10-18T13:38:16.636Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 57040,
+    "likes": 1308,
+    "comments": 82
+  },
+  "scores": {
+    "hot": 70,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

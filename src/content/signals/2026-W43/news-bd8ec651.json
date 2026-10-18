@@ -1,0 +1,22 @@
+{
+  "id": "news-bd8ec651",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "news",
+  "source_name": "매일일보",
+  "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1lZXFlbm4yMXRlSmNtcG9JN0RQd3Z6NGNkb09IZmh6cWNHbnpEQzBWYlNMQ25aZlR5a2QyMXFUQXYzVDRrVC04ZDRuaWV0MG0wSmhJdElUcjJUMG44Q09ramxya0g?oc=5",
+  "title": "야구로 지역사회 잇는다…인천대·SSG, 다문화가족 470명 초청",
+  "published_at": "2026-10-11T16:58:06.000Z",
+  "collected_at": "2026-10-18T13:38:16.636Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 9,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

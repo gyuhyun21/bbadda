@@ -1,0 +1,30 @@
+{
+  "id": "news-8f8be1c0",
+  "issue": "2026-W43",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "뉴시스",
+  "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261018_0003830235",
+  "title": "'비 예보에도 구름 관중' KIA-LG 2차전도 만원…PS 40경기 연속 매진[준PO]",
+  "published_at": "2026-10-18T06:22:35.000Z",
+  "collected_at": "2026-10-18T13:38:16.636Z",
+  "summary_ko": "비 예보 속에서도 KIA-LG 준PO 2차전이 만원 관중을 채워 포스트시즌 40경기 연속 매진을 이어 갔다.",
+  "metrics": {},
+  "scores": {
+    "hot": 73,
+    "relevance": 80
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "스포츠동아",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1HOFhnZDk2VGd2V1lLem9OSnBJaUFpcEtYeXN4MUJKeEplaGJFMUpEWVpWbzVIdmR1aVdkZjVKWXZfdk92NnRYNnhHZEp0UFFiSUEyYUladWZ3N0QzWHJVc0xYMUJoZGFiZmFwRWIwaWprUQ?oc=5"
+    }
+  ],
+  "image": "https://img1.newsis.com/2026/10/18/NISI20261018_0021493396_web.jpg"
+}

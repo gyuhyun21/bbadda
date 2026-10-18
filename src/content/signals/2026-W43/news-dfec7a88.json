@@ -1,0 +1,23 @@
+{
+  "id": "news-dfec7a88",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "매일신문",
+  "url": "https://www.imaeil.com/page/view/2026101814121429059",
+  "title": "\"구자욱·최형우 최적 조합 찾아라\"…삼성 라이온즈, 가을야구 묘수 고민",
+  "published_at": "2026-10-18T06:40:28.000Z",
+  "collected_at": "2026-10-18T13:38:16.636Z",
+  "summary_ko": "매일신문은 삼성이 가을야구에서 구자욱·최형우의 최적 조합을 찾는 중이라고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "image": "https://www.imaeil.com/photos/2026/10/18/2026101818263263597_l.jpg"
+}

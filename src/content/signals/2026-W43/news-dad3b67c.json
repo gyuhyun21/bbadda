@@ -1,0 +1,23 @@
+{
+  "id": "news-dad3b67c",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "연합뉴스",
+  "url": "https://www.yna.co.kr/amp/view/AKR20261018044900007",
+  "title": "임찬규 5실점 후 LG 불펜 1점만 줬지만…타선은 고작 3점 만회",
+  "published_at": "2026-10-18T08:12:21.000Z",
+  "collected_at": "2026-10-18T13:38:16.636Z",
+  "summary_ko": "임찬규가 5실점한 뒤 LG 불펜은 1점만 내줬지만 타선은 3점을 만회하는 데 그쳤다고 연합뉴스가 정리했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "image": "https://img6.yna.co.kr/photo/yna/YH/2026/10/18/PYH2026101804990005400_P4.jpg"
+}

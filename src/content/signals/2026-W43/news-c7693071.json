@@ -1,0 +1,23 @@
+{
+  "id": "news-c7693071",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "금강일보",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBaQmgzOEczRmtVOUhYb2FadWJxOHRibXpIVVplRGhnU3lmMHBiNDhoRlpYLTU5ZVVMQUUyOFZNNFBhSGhVb3AzRlJoQkdrQmJnOGpEOUwyeDVxME1MSml1N21RRXQ2UWxDZ3c?oc=5",
+  "title": "‘불꽃야구2’ 현빈·임영기, 육성선수로 프로행... 어느 팀으로?",
+  "published_at": "2026-10-12T07:45:35.000Z",
+  "collected_at": "2026-10-18T13:38:16.636Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 14,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

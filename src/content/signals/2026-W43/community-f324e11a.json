@@ -1,0 +1,24 @@
+{
+  "id": "community-f324e11a",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 곱쑬머리 상태점검 보고서",
+  "url": "https://blog.naver.com/love17call/224445254537",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/9Dja5k5AmIh",
+  "title": "\"45홈런 김도영 vs 2관왕 곽빈\" 2026 KBO 정규시즌 MVP 영예의 주인공은? 4인 4색 레이스 총정리",
+  "published_at": "2026-10-18T08:40:00.000+09:00",
+  "collected_at": "2026-10-18T13:38:16.636Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

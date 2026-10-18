@@ -1,0 +1,24 @@
+{
+  "id": "community-ced6b3df",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg",
+    "doosan"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 한국연예스포츠신문",
+  "url": "https://koreaesp.tistory.com/6801",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/D7IEO6fcTvt",
+  "title": "LG, 두산 꺾고 준PO 진출…오스틴 결승포·박해민 호수비",
+  "published_at": "2026-10-18T18:28:52.000+09:00",
+  "collected_at": "2026-10-18T13:38:16.636Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

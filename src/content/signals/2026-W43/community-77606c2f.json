@@ -1,0 +1,24 @@
+{
+  "id": "community-77606c2f",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&document_srl=10458556511",
+  "title": "오늘 야구 할 거 같음?",
+  "published_at": "2026-10-18T03:38:16.636Z",
+  "collected_at": "2026-10-18T13:38:16.636Z",
+  "summary_ko": "",
+  "excerpt": "... KIA 타이거즈 제임스 네일 체인지업&스위퍼 오버레이. 인기 한신 사토 테루아키 포스팅 이적 허용 방침…",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

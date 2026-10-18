@@ -1,0 +1,24 @@
+{
+  "id": "community-24b9ef44",
+  "issue": "2026-W43",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "디시 야구 갤러리",
+  "url": "https://gall.dcinside.com/board/view/?id=skwyverns_new1&no=7275652",
+  "title": "최광야구 중계해주는 술집 있을까요",
+  "published_at": "2026-10-14T15:00:00.000Z",
+  "collected_at": "2026-10-18T13:38:16.636Z",
+  "summary_ko": "",
+  "excerpt": "... SSG 랜더스 · 솩갤러1 (223.38). 집. 10.15 22:49 · ㅇㅇ (39.113). 쓱튜브. 10.15 22:53.",
+  "metrics": {},
+  "scores": {
+    "hot": 34,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

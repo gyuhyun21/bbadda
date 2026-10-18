@@ -1,0 +1,24 @@
+{
+  "id": "news-30528f1a",
+  "issue": "2026-W43",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "연합뉴스",
+  "url": "https://www.yna.co.kr/amp/view/AKR20261018025800007",
+  "title": "KIA에 8번 내리 진 염경엽 LG 감독 \"이재원의 '한 방'에 기대\"",
+  "published_at": "2026-10-18T03:38:34.000Z",
+  "collected_at": "2026-10-18T13:38:16.636Z",
+  "summary_ko": "염경엽 LG 감독이 KIA에 8번 연속 졌다며 이재원의 '한 방'에 기대를 걸었다고 연합뉴스가 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "image": "https://img7.yna.co.kr/photo/yna/YH/2026/10/17/PYH2026101702230005400_P4.jpg"
+}

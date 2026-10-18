@@ -1,0 +1,23 @@
+{
+  "id": "news-782b21a3",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "news",
+  "source_name": "경남신문",
+  "url": "https://m.knnews.co.kr/mView.php?idxno=1552997",
+  "title": "[기고] NC 다이노스 창원 연고 유지 환영- 김상수(경남야구소프트볼협회장)",
+  "published_at": "2026-10-18T10:05:22.000Z",
+  "collected_at": "2026-10-18T13:38:16.636Z",
+  "summary_ko": "NC 다이노스의 창원 연고 유지를 환영하는 지역 야구계 인사의 기고가 경남신문에 실렸다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "image": "https://cdn.knnews.co.kr/edbthumbnail/2026/10/1552997_520_images.jpg"
+}

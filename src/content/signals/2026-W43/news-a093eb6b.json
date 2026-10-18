@@ -1,0 +1,23 @@
+{
+  "id": "news-a093eb6b",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://www.mt.co.kr/amp/sports/2026/10/18/2026101811071948286",
+  "title": "'위기의' LG 결국 칼 빼들었다! 전격 선발 라인업 변화 '홍창기 명단 제외-이재원 RF 출격-송찬의 2번 전진 배치' [준PO2 현장]",
+  "published_at": "2026-10-18T03:30:01.000Z",
+  "collected_at": "2026-10-18T13:38:16.636Z",
+  "summary_ko": "LG가 준PO 2차전에서 홍창기를 명단에서 빼고 이재원을 우익수로, 송찬의를 2번에 올리는 라인업 변화를 줬다.",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "image": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/10/2026101811071948286_1.jpg"
+}

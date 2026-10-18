@@ -1,0 +1,23 @@
+{
+  "id": "news-87059f51",
+  "issue": "2026-W43",
+  "module": "team",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "국제신문",
+  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPU0ZaSHRUWnhRc1hydE5GRVJpTUR1NGRIQzJaYUZKUWxqX3VySVg5VVJTbGc2eUViQ1pYN2dHcTVueHRTUGtlSkdRNnJ2UmU5aWk0aWpjZTF6UG9vMkhTRVFldnhiQTFMdlo0d3duakpMWFRObGJmOUhaVHFUWEZ3TU9rWGlIT1Jic2FxRWRn?oc=5",
+  "title": "최동원 어린이 야구교실, 출범 11년 만에 프로선수 배출",
+  "published_at": "2026-10-14T05:52:00.000Z",
+  "collected_at": "2026-10-18T13:38:16.636Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 31,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}
