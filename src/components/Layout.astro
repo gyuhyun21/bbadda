@@ -148,12 +148,15 @@ const myTeamCss = TEAMS.map((t) => `html[data-my-team="${t.id}"] [data-myteam-bl
           let read: string[] = [];
           try { read = JSON.parse(localStorage.getItem(READ_KEY) || '[]'); if (!Array.isArray(read)) read = []; } catch { read = []; }
           const cardOf = (a: Element) => a.closest<HTMLElement>('[data-card], li');
+          // 제목 글자 링크에만 '읽음 ✓' 칩을 붙인다(사진·썸네일 링크, 가을야구 출처 링크 제외)
+          const titleLink = (a: HTMLAnchorElement) => !a.matches('[tabindex="-1"]') && !a.querySelector('img') && !a.closest('.ps-block') && a.textContent!.trim().length > 0;
+          const flag = (href: string) => document.querySelectorAll<HTMLAnchorElement>('main a[target="_blank"]').forEach((x) => { if (x.href === href && titleLink(x)) x.classList.add('read-link'); });
           const markRead = (a: HTMLAnchorElement) => {
-            cardOf(a)?.classList.add('is-read');
+            cardOf(a)?.classList.add('is-read'); flag(a.href);
             if (!read.includes(a.href)) { read = [a.href, ...read].slice(0, 500); try { localStorage.setItem(READ_KEY, JSON.stringify(read)); } catch {} }
           };
           const done = new Set(read);
-          document.querySelectorAll<HTMLAnchorElement>('main a[target="_blank"]').forEach((a) => { if (done.has(a.href)) cardOf(a)?.classList.add('is-read'); });
+          document.querySelectorAll<HTMLAnchorElement>('main a[target="_blank"]').forEach((a) => { if (done.has(a.href)) { cardOf(a)?.classList.add('is-read'); if (titleLink(a)) a.classList.add('read-link'); } });
           const frame = dlg.querySelector<HTMLIFrameElement>('.am-frame')!;
           const fb = dlg.querySelector<HTMLElement>('.am-fallback')!;
           const opens = dlg.querySelectorAll<HTMLAnchorElement>('.am-open, .am-fb-open');
