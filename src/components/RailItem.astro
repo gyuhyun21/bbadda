@@ -14,13 +14,13 @@ const thumb = yt ? `https://i.ytimg.com/vi/${yt}/mqdefault.jpg` : newsImages() ?
 const team = s.team ? teamById.get(s.team) : undefined;
 ---
 <li data-teams={s.teams.join(' ')}>
-  <span class="rail-thumb" style={`--team:${s.team ? teamColor(s.team) : '#1D1D1F'}`}>
+  <a class="rail-thumb" href={s.url} target="_blank" rel="noopener noreferrer" tabindex="-1" aria-hidden="true" style={`--team:${s.team ? teamColor(s.team) : '#1D1D1F'}`}>
     {thumb && <img src={thumb} alt="" loading="lazy" referrerpolicy="no-referrer" width="320" height="180" onerror="this.remove()" />}
     <span class="rail-thumb-cover" aria-hidden="true">
       <span class="rail-thumb-mark">{team?.short ?? 'KBO'}</span>
       <span class="rail-thumb-src">{s.source_type === 'instagram' ? 'Instagram' : s.official ? '오피셜' : SOURCE_LABEL[s.source_type]}</span>
     </span>
-  </span>
+  </a>
   <div>
     <a href={s.url} target="_blank" rel="noopener noreferrer">{displayTitle(s)}</a>
     <p>{s.summary_ko}</p>
