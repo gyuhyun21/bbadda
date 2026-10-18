@@ -44,7 +44,7 @@ export function loadTeams() {
   return t;
 }
 
-const siteSchema = z.object({ layout: z.enum(['soft', 'apple', 'magazine', 'classic']).default('classic'), community_section: z.boolean().default(false), news_images: z.boolean().default(false), home: z.enum(['front', 'simple']).default('simple'), article_modal: z.boolean().default(false), postseason_bracket: z.boolean().default(false), section_headings: z.boolean().default(false), brand_logo: z.boolean().default(false), team_logos: z.boolean().default(false), modal_blocked_hosts: z.array(z.string()).default([]) });
+const siteSchema = z.object({ layout: z.enum(['soft', 'apple', 'magazine', 'classic']).default('classic'), community_section: z.boolean().default(false), news_images: z.boolean().default(false), home: z.enum(['front', 'simple']).default('simple'), article_modal: z.boolean().default(false), postseason_bracket: z.boolean().default(false), section_headings: z.boolean().default(false), brand_logo: z.boolean().default(false), team_logos: z.boolean().default(false), modal_blocked_hosts: z.array(z.string()).default([]), blocked_open: z.enum(['window', 'tab', 'modal']).default('modal') });
 /** 화면 레이아웃(config/site.yaml). 환경변수 SITE_LAYOUT 이 우선. 파일이 없으면 classic. */
 export function siteLayout(): 'soft' | 'apple' | 'magazine' | 'classic' {
   const env = process.env.SITE_LAYOUT;
@@ -82,11 +82,12 @@ export function brandLogo(): boolean {
   try { return load('site.yaml', siteSchema).brand_logo; } catch { return false; }
 }
 /** 기사 모달(사이트 안에서 원문을 띄움). 환경변수 SITE_MODAL=on|off 가 우선. 파일이 없으면 끔. */
-export function articleModal(): { on: boolean; blocked: string[] } {
+export function articleModal(): { on: boolean; blocked: string[]; blockedOpen: 'window' | 'tab' | 'modal' } {
   const env = process.env.SITE_MODAL;
-  let cfg = { article_modal: false, modal_blocked_hosts: [] as string[] };
+  const envOpen = process.env.SITE_BLOCKED_OPEN;
+  let cfg = { article_modal: false, modal_blocked_hosts: [] as string[], blocked_open: 'modal' as 'window' | 'tab' | 'modal' };
   try { cfg = load('site.yaml', siteSchema); } catch { /* 기본값 */ }
-  return { on: env === 'on' ? true : env === 'off' ? false : cfg.article_modal, blocked: cfg.modal_blocked_hosts };
+  return { on: env === 'on' ? true : env === 'off' ? false : cfg.article_modal, blocked: cfg.modal_blocked_hosts, blockedOpen: envOpen === 'window' || envOpen === 'tab' || envOpen === 'modal' ? envOpen : cfg.blocked_open };
 }
 /** 뉴스 사진(원 매체 대표 이미지를 원 주소로 표시). 환경변수 SITE_NEWS_IMAGES=on|off 가 우선. 파일이 없으면 끔. */
 export function newsImages(): boolean {
