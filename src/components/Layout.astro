@@ -115,7 +115,7 @@ const myTeamCss = TEAMS.map((t) => `html[data-my-team="${t.id}"] [data-myteam-bl
       </div>
     </footer>
     {modal.on && (
-      <dialog class="article-modal" id="article-modal" aria-label="기사 보기" data-blocked={JSON.stringify(modal.blocked)} data-pagefind-ignore>
+      <dialog class="article-modal" id="article-modal" aria-label="기사 보기" data-blocked={JSON.stringify(modal.blocked)} data-blocked-open={modal.blockedOpen} data-pagefind-ignore>
         <div class="am-bar">
           <span class="am-src"></span>
           <span class="am-title"></span>
@@ -137,6 +137,18 @@ const myTeamCss = TEAMS.map((t) => `html[data-my-team="${t.id}"] [data-myteam-bl
         const dlg = document.getElementById('article-modal') as HTMLDialogElement | null;
         if (dlg) {
           const blocked: string[] = JSON.parse(dlg.dataset.blocked || '[]');
+          const blockedOpen = dlg.dataset.blockedOpen || 'modal';
+          // 읽은 기사 표시(이 브라우저에만 저장)
+          const READ_KEY = 'bbadda:read';
+          let read: string[] = [];
+          try { read = JSON.parse(localStorage.getItem(READ_KEY) || '[]'); if (!Array.isArray(read)) read = []; } catch { read = []; }
+          const cardOf = (a: Element) => a.closest<HTMLElement>('[data-card], li');
+          const markRead = (a: HTMLAnchorElement) => {
+            cardOf(a)?.classList.add('is-read');
+            if (!read.includes(a.href)) { read = [a.href, ...read].slice(0, 500); try { localStorage.setItem(READ_KEY, JSON.stringify(read)); } catch {} }
+          };
+          const done = new Set(read);
+          document.querySelectorAll<HTMLAnchorElement>('main a[target="_blank"]').forEach((a) => { if (done.has(a.href)) cardOf(a)?.classList.add('is-read'); });
           const frame = dlg.querySelector<HTMLIFrameElement>('.am-frame')!;
           const fb = dlg.querySelector<HTMLElement>('.am-fallback')!;
           const opens = dlg.querySelectorAll<HTMLAnchorElement>('.am-open, .am-fb-open');
@@ -177,6 +189,15 @@ const myTeamCss = TEAMS.map((t) => `html[data-my-team="${t.id}"] [data-myteam-bl
             const a = (e.target as Element).closest<HTMLAnchorElement>('main a[target="_blank"], [data-bm-panel] a[target="_blank"]');
             if (!a || a.closest('[data-no-modal], .team-hero-actions') || !/^https?:/.test(a.href) || new URL(a.href).host === location.host) return;
             e.preventDefault();
+            markRead(a);
+            const u = new URL(a.href);
+            if (!embedOf(u) && blockedOpen !== 'modal' && !/youtube|youtu\.be|instagram/.test(u.hostname)) {
+              // 모달에 못 띄우는 매체: PC 는 작은 창(닫으면 바로 이 화면), 모바일·팝업 차단은 새 탭
+              const small = blockedOpen === 'window' && matchMedia('(min-width: 900px) and (pointer: fine)').matches;
+              const w = small ? window.open(a.href, 'bbadda-article', `popup=yes,width=1040,height=820,left=${Math.max(0, screenX + 80)},top=${Math.max(0, screenY + 60)},noopener,noreferrer`) : null;
+              if (!w) window.open(a.href, '_blank', 'noopener,noreferrer');
+              return;
+            }
             open(a);
           });
         }
