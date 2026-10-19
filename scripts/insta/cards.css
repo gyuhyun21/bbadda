@@ -2,7 +2,7 @@
 @font-face { font-family: P; src: url(font.woff2) format('woff2'); font-weight: 100 900; }
 :root { --ink: #1D1D1F; --card: #1D1D1F; --card2: #2A2A2D; --yel: #FFD43B; --soft: #ECEFF4; --hi: #fff; --lo: rgba(166, 178, 196, .6); --muted: #5B5B60; }
 * { box-sizing: border-box; margin: 0; }
-body { font-family: P, 'Noto Sans CJK KR', 'Apple SD Gothic Neo', sans-serif; -webkit-font-smoothing: antialiased; }
+body { word-break: keep-all; overflow-wrap: anywhere; font-family: P, 'Noto Sans CJK KR', 'Apple SD Gothic Neo', sans-serif; -webkit-font-smoothing: antialiased; }
 .s { width: 1080px; height: 1350px; position: relative; overflow: hidden; display: none; padding: 80px; }
 .s.story { height: 1920px; padding: 200px 80px; }
 .s.on { display: flex; flex-direction: column; }
@@ -123,3 +123,6 @@ h2 { margin-top: 40px; font-size: 64px; line-height: 1.15; font-weight: 800; let
 .g-steps b { font-weight: 900; }
 .g-steps small { display: block; margin-top: 6px; font-size: 26px; font-weight: 600; color: rgba(29, 29, 31, .7); }
 .g-note { margin-top: 24px; font-size: 28px; font-weight: 700; color: rgba(29, 29, 31, .7); }
+
+/* 한국어 줄바꿈: 어절 단위(keep-all) + 제목은 줄 길이 균형 */
+h1, h2, .stat-line, .n-item b, .points li, .facts li { text-wrap: balance; }
