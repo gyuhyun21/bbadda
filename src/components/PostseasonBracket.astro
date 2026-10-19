@@ -120,7 +120,7 @@ const hostOf = (u: string) => { try { return new URL(u).hostname.replace(/^(www|
                 <span class={`ps-side${r.winner && s.id === r.winner ? ' is-winner' : ''}${r.winner && s.id !== r.winner ? ' is-out' : ''}`}>
                   {s.id && teamLogo(s.id) ? <img class="ps-logo" src={teamLogo(s.id)} alt="" width="22" height="22" /> : <span class="ps-dot" style={`--team:${color(s)}`}></span>}
                   <span class="ps-side-name">{name(s)}</span>
-                  <span class="ps-side-wins">{r.status === 'upcoming' && !s.wins ? '' : s.wins}</span>
+                  <span class="ps-side-wins">{r.winner && s.id !== r.winner ? '탈락' : r.status === 'upcoming' && !s.wins ? '' : `${s.wins}승`}</span>
                 </span>
               ))}
               <span class="ps-round-foot">
