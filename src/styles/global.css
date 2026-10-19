@@ -733,3 +733,6 @@ html .about-compact h1.page-title { font-size: 22px; letter-spacing: -0.01em; ma
 .about-compact p { margin: 0; }
 .about-compact ul { margin: 0; padding-left: 18px; }
 .about-compact a { color: inherit; }
+.ps-side.is-out .ps-side-wins { font-size: 12px; font-weight: 600; color: var(--muted); text-decoration: none; }
+.ps-side.is-out { text-decoration: none; }
+.ps-side.is-out .ps-side-name { text-decoration: line-through; text-decoration-color: rgba(0,0,0,0.25); }
