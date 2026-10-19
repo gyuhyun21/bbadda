@@ -725,3 +725,11 @@ a.read-link::after { content: '읽음 ✓'; display: inline-block; margin-left: 
 @media (prefers-reduced-motion: reduce) { .chip-nav { transition: none; } }
 /* 폭 720~900px 에서 저장 버튼이 둘째 줄로 떨어지지 않게: 검색창이 줄어들어 한 줄에 맞춘다 */
 @media (min-width: 720px) { .site-header .wrap { flex-wrap: nowrap; } .header-search { min-width: 120px; } }
+
+/* 소개 페이지: 작은 글자, 공지문처럼 간결하게 */
+.about-compact { max-width: 640px; padding: 24px 0 48px; font-size: 13px; line-height: 1.7; color: var(--muted); }
+html .about-compact h1.page-title { font-size: 22px; letter-spacing: -0.01em; margin: 0 0 12px; color: var(--ink); }
+.about-compact h2 { margin: 24px 0 6px; font-size: 14px; font-weight: 700; color: var(--ink); }
+.about-compact p { margin: 0; }
+.about-compact ul { margin: 0; padding-left: 18px; }
+.about-compact a { color: inherit; }
