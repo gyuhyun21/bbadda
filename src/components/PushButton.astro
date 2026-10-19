@@ -32,7 +32,7 @@
       const on = !!sub && Notification.permission === 'granted';
       btn.setAttribute('aria-pressed', String(on));
       label.textContent = on ? '알림 받는 중' : '알림받기';
-      hint.textContent = Notification.permission === 'denied' ? '브라우저 설정에서 알림이 차단돼 있어요' : on ? '경기 전·후 소식이 나오면 알려 드릴게요' : '등록하면 경기 전·후 소식이 나올 때 알려 드려요';
+      hint.textContent = Notification.permission === 'denied' ? '브라우저 설정에서 알림이 차단돼 있어요' : on ? '경기 전·후 소식이 나오면 알려 드릴게요' : '알림받기를 켜 두면 경기 전·후에 알려 드려요';
       btn.disabled = Notification.permission === 'denied';
       hint.hidden = !hint.textContent;
     };
