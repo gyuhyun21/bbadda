@@ -1,6 +1,6 @@
 ---
 // 응원가 연습: MY팀 선수·팀 응원가를 구단 공식 유튜브 모음 영상으로 구간 재생. 가사·음원은 싣지 않는다(저작권).
-// 데이터: data/cheer/<팀 id>.yaml (공식 영상 설명란 타임코드). 외운 곡 표시는 이 기기 localStorage 에만.
+// 데이터: data/cheer/<팀 id>.yaml (공식 영상 설명란 타임코드).
 import { readdirSync, readFileSync, existsSync } from 'node:fs';
 import { join } from 'node:path';
 import { parse } from 'yaml';
@@ -29,10 +29,7 @@ const teams = all.map((c) => { const t = TEAMS.find((x) => x.id === c.team)!; re
     </div>
 
     <section class="cheer-main" data-cheer-main hidden>
-      <div class="cheer-team">
-        <span class="cheer-team-name" data-cheer-name></span>
-        <span class="cheer-progress"><strong data-cheer-done>0</strong>/<span data-cheer-total>0</span> 외움</span>
-      </div>
+      <div class="cheer-team"><span class="cheer-team-name" data-cheer-name></span></div>
 
       <div class="cheer-player">
         <div class="cheer-frame"><div id="cheer-yt"></div></div>
@@ -90,7 +87,6 @@ const teams = all.map((c) => { const t = TEAMS.find((x) => x.id === c.team)!; re
   let yt: YTPlayer | undefined;
   let ytReady: Promise<void> | undefined;
 
-  const doneKey = (t: Team, k: string, name: string) => `bbadda:cheer:${t.team}:${k}:${name}`;
   const part = () => team![kind];
   const endOf = (i: number) => part().items[i + 1]?.start ?? part().end;
 
@@ -127,7 +123,6 @@ const teams = all.map((c) => { const t = TEAMS.find((x) => x.id === c.team)!; re
   }
 
   function renderList() {
-    const t = team!;
     const list = $('[data-cheer-list]');
     list.replaceChildren(...part().items.map((it, i) => {
       const li = document.createElement('li'); li.className = 'cheer-row'; li.dataset.cheerRow = '';
@@ -138,20 +133,9 @@ const teams = all.map((c) => { const t = TEAMS.find((x) => x.id === c.team)!; re
       if (it.note) { const n = document.createElement('em'); n.className = 'cheer-note'; n.textContent = it.note; name.append(n); }
       b.append(name);
       b.addEventListener('click', () => play(i));
-      const label = document.createElement('label'); label.className = 'cheer-done';
-      const cb = document.createElement('input'); cb.type = 'checkbox'; cb.checked = !!store.get(doneKey(t, kind, it.name));
-      cb.addEventListener('change', () => { store.set(doneKey(t, kind, it.name), cb.checked ? '1' : null); renderProgress(); });
-      label.append(cb, document.createTextNode('외웠어요'));
-      li.append(b, label);
+      li.append(b);
       return li;
     }));
-  }
-
-  function renderProgress() {
-    const t = team!;
-    const keys = (['players', 'team_songs'] as const).flatMap((k) => t[k].items.map((it) => doneKey(t, k, it.name)));
-    $('[data-cheer-done]').textContent = String(keys.filter((k) => store.get(k)).length);
-    $('[data-cheer-total]').textContent = String(keys.length);
   }
 
   function open(id: string) {
@@ -167,7 +151,7 @@ const teams = all.map((c) => { const t = TEAMS.find((x) => x.id === c.team)!; re
     root.querySelectorAll<HTMLElement>('[data-cheer-count]').forEach((el) => (el.textContent = String(team![el.dataset.cheerCount as 'players'].items.length)));
     root.querySelectorAll('[data-cheer-tab]').forEach((x) => x.setAttribute('aria-selected', String((x as HTMLElement).dataset.cheerTab === kind)));
     $('[data-cheer-now]').textContent = '곡을 고르세요';
-    renderList(); renderProgress();
+    renderList();
     loadYT(); // 플레이어를 미리 불러 둔다 — 휴대폰은 첫 탭에서 바로 재생돼야 한다(탭 뒤 기다리면 자동 재생이 막힘)
   }
 
@@ -201,8 +185,6 @@ const teams = all.map((c) => { const t = TEAMS.find((x) => x.id === c.team)!; re
   .cheer-pick-btns { display: flex; flex-wrap: wrap; gap: 8px; }
   .cheer-team { display: flex; align-items: baseline; justify-content: space-between; gap: 12px; margin: 20px 0 12px; }
   .cheer-team-name { font-size: 18px; font-weight: 800; }
-  .cheer-progress { font-size: 13px; color: var(--muted); }
-  .cheer-progress strong { color: var(--ink); font-size: 16px; }
   .cheer-player { display: grid; gap: 14px; padding: 14px; border-radius: 22px; background: #1D1D1F; color: #fff; box-shadow: 0 10px 28px rgba(29, 29, 31, 0.25); }
   @media (min-width: 720px) { .cheer-player { position: sticky; top: 72px; z-index: 3; grid-template-columns: 300px 1fr; align-items: center; } }
   .cheer-frame { position: relative; aspect-ratio: 16 / 9; border-radius: 14px; overflow: hidden; background: #000; }
@@ -223,16 +205,15 @@ const teams = all.map((c) => { const t = TEAMS.find((x) => x.id === c.team)!; re
   .cheer-tab { height: 36px; padding: 0 16px; border: 0; border-radius: 999px; background: transparent; color: var(--muted); font: 700 14px/1 var(--font); cursor: pointer; }
   .cheer-tab[aria-selected="true"] { background: var(--ink); color: #fff; }
   .cheer-tab span { margin-left: 2px; font-weight: 600; opacity: 0.7; }
-  .cheer-list { list-style: none; margin: 0; padding: 0; display: grid; gap: 6px; }
-  .cheer-row { display: flex; align-items: center; gap: 10px; padding: 6px 12px 6px 6px; border-radius: 14px; background: rgba(255, 255, 255, 0.6); }
+  .cheer-list { list-style: none; margin: 0; padding: 0; display: grid; gap: 4px; }
+@media (min-width: 720px) { .cheer-list { grid-template-columns: 1fr 1fr; } }
+  .cheer-row { display: flex; align-items: center; border-radius: 12px; background: rgba(255, 255, 255, 0.6); }
   .cheer-row.is-current { box-shadow: inset 0 0 0 2px var(--ink); background: #fff; }
-  .cheer-play { flex: 1; min-width: 0; display: flex; align-items: center; gap: 12px; padding: 6px; border: 0; background: transparent; color: var(--ink); font: 700 15px/1.3 var(--font); text-align: left; cursor: pointer; }
-  .cheer-play svg { flex: none; width: 30px; height: 30px; padding: 8px; border-radius: 50%; background: var(--ink); fill: #fff; box-sizing: border-box; }
+  .cheer-play { flex: 1; min-width: 0; display: flex; align-items: center; gap: 10px; padding: 5px 10px 5px 6px; border: 0; background: transparent; color: var(--ink); font: 700 14.5px/1.3 var(--font); text-align: left; cursor: pointer; }
+  .cheer-play svg { flex: none; width: 24px; height: 24px; padding: 6px; border-radius: 50%; background: var(--ink); fill: #fff; box-sizing: border-box; }
   .cheer-row.is-current .cheer-play svg { background: #FFD43B; fill: #1D1D1F; }
   .cheer-name { min-width: 0; }
   .cheer-note { margin-left: 8px; padding: 2px 7px; border-radius: 6px; background: #E0002A; color: #fff; font-size: 11px; font-style: normal; font-weight: 800; white-space: nowrap; }
-  .cheer-done { display: inline-flex; align-items: center; gap: 6px; flex: none; font-size: 12.5px; color: var(--muted); cursor: pointer; }
-  .cheer-done input { width: 18px; height: 18px; accent-color: #1D1D1F; }
   .cheer-foot { margin: 18px 0 0; font-size: 12.5px; color: var(--muted); }
   .cheer-change { margin-left: 6px; padding: 0; border: 0; background: none; color: var(--accent); font: inherit; text-decoration: underline; cursor: pointer; }
 </style>
