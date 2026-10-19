@@ -5,7 +5,7 @@ import SignalCard from '../components/SignalCard.astro';
 import TeamPicker from '../components/TeamPicker.astro';
 import TeamChip from '../components/TeamChip.astro';
 import { homeLayout } from '../lib/config.ts';
-import { TEAMS, loadAll, ofTeam, recent, hot } from '../lib/site.ts';
+import { TEAMS, loadAll, ofTeam, recent, hot , hasCheer } from '../lib/site.ts';
 const data = await loadAll();
 // 되돌리기: config/site.yaml home: simple (환경변수 SITE_HOME 우선)
 const front = homeLayout() === 'front';
@@ -19,7 +19,7 @@ const latestLeague = recent(data.signals, 7, 12).sort(hot).slice(0, 12);
         const list = recent(ofTeam(data.signals, t.id), 7).slice(0, 6);
         return (
           <section class="block myteam-now" data-myteam-block={t.id} aria-label={`${t.name} 최근 소식`}>
-            <div class="block-head"><h2><TeamChip id={t.id} /> 최근 소식</h2><a href={`/teams/${t.id}`}>팀 페이지 →</a></div>
+            <div class="block-head"><h2><TeamChip id={t.id} /> 최근 소식</h2><span class="block-links">{hasCheer(t.id) && <a href="/cheer">응원가 연습 →</a>}<a href={`/teams/${t.id}`}>팀 페이지 →</a></span></div>
             {list.length ? <div class="grid">{list.map((s) => <SignalCard signal={s} />)}</div> : <p class="empty-hint">아직 {t.name} 소식이 없습니다.</p>}
           </section>
         );

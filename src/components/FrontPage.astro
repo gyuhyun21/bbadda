@@ -14,7 +14,7 @@ import Edition from './Edition.astro';
 import SectionHead from './SectionHead.astro';
 import PostseasonBracket from './PostseasonBracket.astro';
 import { communitySection, newsImages, loadStandings, streakLabel, postseasonBracket } from '../lib/config.ts';
-import { TEAMS, loadAll, ofTeam, recent, hot, newest, kstDay, daysOf, onDay, dayLabel, seasonTitle, displayTitle, fmtDate, teamColor, teamLogo, teamById, isToday, youtubeId, isCommunityPost, byDayThenHot, latestBatch, newFirst, isWire, BUILD_TIME, UPDATE_SCHEDULE } from '../lib/site.ts';
+import { TEAMS, loadAll, ofTeam, recent, hot, newest, kstDay, daysOf, onDay, dayLabel, seasonTitle, displayTitle, fmtDate, teamColor, teamLogo, teamById, isToday, youtubeId, isCommunityPost, byDayThenHot, latestBatch, newFirst, isWire, BUILD_TIME, UPDATE_SCHEDULE , hasCheer } from '../lib/site.ts';
 const data = await loadAll();
 const all = data.signals;
 const fresh = recent(all, 2, 12);
@@ -117,7 +117,7 @@ const pushOn = pushButton();
   const list = newFirst(recent(ofTeam(all, t.id), 7)).slice(0, 8);
   return (
     <section class="block myteam-now" id={`myteam-${t.id}`} data-myteam-block={t.id} aria-label={`${t.name} 최근 소식`}>
-      <div class="block-head"><h2><TeamChip id={t.id} /> MY팀 소식</h2><a href={`/teams/${t.id}`}>팀 페이지 →</a></div>
+      <div class="block-head"><h2><TeamChip id={t.id} /> MY팀 소식</h2><span class="block-links">{hasCheer(t.id) && <a href="/cheer">응원가 연습 →</a>}<a href={`/teams/${t.id}`}>팀 페이지 →</a></span></div>
       {list.length ? <div class="row-cards">{list.map((s) => <SignalCard signal={s} />)}</div> : <p class="empty-hint">아직 {t.name} 소식이 없습니다.</p>}
     </section>
   );

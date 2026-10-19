@@ -17,6 +17,8 @@ export const NEUTRAL_TEAM_COLOR = '#8E8E93';
 
 const cfg = loadTeams();
 export const TEAMS: Team[] = cfg.teams;
+/** 응원가 연습 자료가 있는 팀(data/cheer/<id>.yaml) */
+export const hasCheer = (id: string) => existsSync(join(ROOT, 'data', 'cheer', `${id}.yaml`));
 export const LEAGUE = cfg.league;
 export const teamById = new Map(TEAMS.map((t) => [t.id, t]));
 // 팀 캐릭터 마크(애칭 기반, 우리가 그린 그림 public/mascots/<id>.svg — 구단 정식 로고 아님). 스위치가 꺼져 있거나 파일이 없으면 undefined → 이니셜 배지
