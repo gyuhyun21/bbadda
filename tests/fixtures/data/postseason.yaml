@@ -1,0 +1,92 @@
+# 테스트용 고정 사본(2026-10-19 기준, 준PO 1차전 결과까지). 운영 데이터와 따로 둔다 — 고치지 말 것.
+# 2026 KBO 포스트시즌 대진·일정·결과 — 첫 화면 '가을야구 대진'의 데이터.
+# 일정(날짜·구장·대진): KBO 발표 일정(저장소 주인 제공 일정표, 자료: KBO) · 보도: 강릉뉴스 '2026 한국시리즈 11월 2일 개막…일정·예매·우승 전망'(2026-10-15)
+# 요일과 시작 시각은 날짜로 계산한다(평일 18:30, 토·일 14:00). ※ 일정표의 PO 5차전 '31(목)'은 실제 10월 31일 토요일.
+# 결과는 KBO 사이트를 자동 수집하지 않는다(robots.txt 금지). 매일 루틴이 '수집된 뉴스 기사'로 확인한 경기만 result 와 source(기사 주소)를 채운다.
+# 경기 기록(starters·win·loss·save·holds·homers·mvp·attendance)도 기사로 확인한 것만 채우고 기사 주소를 sources 에 넣는다. 세이브·홀드처럼 기사에 없으면 비워 둔다.
+# 팀 칸: 팀 id 또는 { winner_of: 라운드 id }. 구장 칸: 이름 또는 { home_of: 라운드 id }(그 라운드 승자의 홈).
+season: 2026
+schedule_source: https://news.google.com/rss/articles/CBMib0FVX3lxTE5GOUEtUi1Lejd5TzhvZXB6TjFDZWZHLWlqZ1FQaGVzaG9KeDFSNEdZOHRlVm5uZDlpcXpvNmplQzdGSE1KbEpjRk4zYXRXcHVRbDRueGpRLXdrMU9mVE5WaGVJLW9uZXdpTVQyOWZzb9IBckFVX3lxTE5FVVE5MWVpdEZVdzBuNDRMaVdKMC1pUnZaVnpyNEwxbXJtcnlEOXJZN3dmSTA5eGhCWnVXc1NSdWwyNXBYRFFXZ0h3NWo3QnFXbWUwejI5WjlEWUpNUmxFWEc4bGdndk5rWG0weGgzdzhfZw?oc=5
+time: { weekday: "18:30", weekend: "14:00" }
+home: { lg: 잠실, doosan: 잠실, kia: 광주, samsung: 대구, kt: 수원 }
+rounds:
+  - id: wc
+    name: 와일드카드 결정전
+    short: WC
+    to_win: 2
+    advantage: { lg: 1 } # 정규시즌 4위 1승 안고 시작
+    teams: [doosan, lg]
+    games:
+      - no: 1
+        date: 2026-10-14
+        venue: 잠실
+        result: { lg: 4, doosan: 1 }
+        source: "https://www.yna.co.kr/view/IPT20261014000018365"
+        starters: { lg: 카라스코, doosan: 곽빈 }
+        win: 카라스코
+        loss: 곽빈
+        homers: ["오스틴(LG) 1회 투런"]
+        attendance: "2만 3650석 매진"
+        sources:
+          - "https://isplus.com/article/view/isp202610150109" # 승리 카라스코·패전 곽빈, 선발 각 6이닝
+          - "https://isplus.com/article/view/isp202610140257" # 오스틴 1회 투런
+          - "https://www.mt.co.kr/amp/sports/2026/10/14/2026101413242976787" # 2만 3650석 매진
+      - { no: 2, date: 2026-10-15, venue: 잠실 }
+  - id: spo
+    name: 준플레이오프
+    short: 준PO
+    to_win: 3
+    teams: [{ winner_of: wc }, kia]
+    games:
+      - no: 1
+        date: 2026-10-17
+        venue: 광주
+        result: { kia: 5, lg: 1 }
+        source: "https://www.mydaily.co.kr/page/view/2026101716204260108" # 결과·승패·세이브·홀드·홈런
+        starters: { kia: 네일, lg: 톨허스트 }
+        win: 네일
+        loss: 톨허스트
+        save: 전상현
+        holds: ["성영탁(KIA)"] # 홀드는 '이름(팀)'
+        homers: ["송찬의(LG) 2회 솔로", "카스트로(KIA) 2회 솔로", "김도영(KIA) 4회 솔로", "김도영(KIA) 8회 투런"]
+        sources: ["https://www.newsis.com/view/NISX20261016_0003828587"] # 예고 선발
+      - no: 2
+        date: 2026-10-18
+        venue: 광주
+        starters: { lg: 임찬규, kia: 올러 } # 예고 선발
+        starter_notes: { lg: "시즌 15승 공동 다승왕", kia: "올해 LG전 2승 1패 · ERA 2.40" }
+        facts:
+          - "역대 준PO 1차전 승리 팀 PO 진출 12/17회"
+          - "정규시즌 상대전적 KIA 9승 7패"
+          - "임찬규 포스트시즌 3연승 중"
+        sources:
+          - "https://www.nocutnews.co.kr/news/6592924" # 예고 선발·시즌 성적·임찬규 PS 3연승
+          - "https://www.mydaily.co.kr/page/view/2026101716204260108" # 1차전 승리 팀 12/17
+          - "https://www.nocutnews.co.kr/news/6591731" # 정규시즌 KIA 9승 7패
+      - { no: 3, date: 2026-10-20, venue: { home_of: wc } }
+      - { no: 4, date: 2026-10-21, venue: { home_of: wc } }
+      - { no: 5, date: 2026-10-23, venue: 광주 }
+  - id: po
+    name: 플레이오프
+    short: PO
+    to_win: 3
+    teams: [{ winner_of: spo }, samsung]
+    games:
+      - { no: 1, date: 2026-10-25, venue: 대구 }
+      - { no: 2, date: 2026-10-26, venue: 대구 }
+      - { no: 3, date: 2026-10-28, venue: { home_of: spo } }
+      - { no: 4, date: 2026-10-29, venue: { home_of: spo } }
+      - { no: 5, date: 2026-10-31, venue: 대구 }
+  - id: ks
+    name: 한국시리즈
+    short: KS
+    to_win: 4
+    teams: [{ winner_of: po }, kt]
+    games:
+      - { no: 1, date: 2026-11-02, venue: 수원 }
+      - { no: 2, date: 2026-11-03, venue: 수원 }
+      - { no: 3, date: 2026-11-05, venue: { home_of: po } }
+      - { no: 4, date: 2026-11-06, venue: { home_of: po } }
+      - { no: 5, date: 2026-11-07, venue: { home_of: po } }
+      - { no: 6, date: 2026-11-09, venue: 수원 }
+      - { no: 7, date: 2026-11-10, venue: 수원 }
