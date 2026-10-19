@@ -1,0 +1,27 @@
+{
+  "id": "youtube-8b46fbd0",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "SSG랜더스",
+  "url": "https://www.youtube.com/watch?v=hd8g9VQKcdA",
+  "title": "스타일 좀 아니고 많이 구겨지네요..🥴 | 최광야구 1429 EP.5 퍼포먼스 모음집",
+  "published_at": "2026-10-19T09:01:39Z",
+  "collected_at": "2026-10-19T13:38:34.709Z",
+  "summary_ko": "SSG 공식 채널이 '최광야구 1429' 행사의 퍼포먼스 장면을 모은 영상을 올렸다.",
+  "metrics": {
+    "views": 45858,
+    "likes": 1232,
+    "comments": 158
+  },
+  "scores": {
+    "hot": 79,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

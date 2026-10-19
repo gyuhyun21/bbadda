@@ -1,0 +1,24 @@
+{
+  "id": "community-09aadd29",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "레딧 r/KBO",
+  "url": "https://www.reddit.com/r/KBO/comments/1x9nh2d/kbo_names_79_golden_glove_nominees_as_race_for_10/",
+  "title": "KBO names 79 Golden Glove nominees as race for 10 awards begins",
+  "published_at": "2026-10-19T04:38:34.709Z",
+  "collected_at": "2026-10-19T13:38:34.709Z",
+  "summary_ko": "",
+  "excerpt": "... The KBO has named 79 nominees for its 2026 Golden Glove Awards, with KT…",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "community-6329aaa5",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "lg"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 스포츠 줌인",
+  "url": "https://blog.naver.com/sport_log/224446889646",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/Bqkzlj0G3mh",
+  "title": "'KIA 상대 9연패' 탈출 꿈꾸는 LG, 박해민의 8타수 6안타 고군분투가 반전의 신호탄 될까",
+  "published_at": "2026-10-19T19:36:00.000+09:00",
+  "collected_at": "2026-10-19T13:38:34.709Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

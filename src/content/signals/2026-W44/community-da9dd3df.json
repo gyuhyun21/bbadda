@@ -1,0 +1,24 @@
+{
+  "id": "community-da9dd3df",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "엠엘비파크",
+  "url": "https://mlbpark.donga.com/mp/b.php?id=202610190119538294&p=1&b=kbotown&m=view&select=spf&query=%EB%91%90%EC%82%B0&site=donga.com",
+  "title": "타격 육성 실패로 김태룡 단장 나가라고 글 많이 썼는데...",
+  "published_at": "2026-10-19T10:38:34.709Z",
+  "collected_at": "2026-10-19T13:38:34.709Z",
+  "summary_ko": "",
+  "excerpt": "... ... SSG · 삼성 · NC · kt · 롯데 · KIA · 두산…",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

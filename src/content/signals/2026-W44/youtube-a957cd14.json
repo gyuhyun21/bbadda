@@ -1,0 +1,26 @@
+{
+  "id": "youtube-a957cd14",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "youtube",
+  "source_name": "직장인",
+  "url": "https://www.youtube.com/watch?v=8bo8bm3XBbg",
+  "title": "안타왕 손아섭 결국 방출 충격 #손아섭 #두산베어스 #KBO",
+  "published_at": "2026-10-19T12:11:19Z",
+  "collected_at": "2026-10-19T13:38:34.709Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1408,
+    "likes": 11,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 43,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

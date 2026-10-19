@@ -1,0 +1,22 @@
+{
+  "id": "news-7b11e9fc",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "부산일보",
+  "url": "https://www.busan.com/view/busan/view.php?code=2026101916532363102",
+  "title": "롯데 자이언츠 선수단, 발달장애인과 함께 ‘일일 바리스타’ 변신",
+  "published_at": "2026-10-19T07:53:42.000Z",
+  "collected_at": "2026-10-19T13:38:34.709Z",
+  "summary_ko": "롯데 선수단이 발달장애인과 함께 일일 바리스타로 나섰다고 부산일보가 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

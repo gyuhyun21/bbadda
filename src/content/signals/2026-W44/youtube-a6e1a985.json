@@ -1,0 +1,26 @@
+{
+  "id": "youtube-a6e1a985",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "윤잼",
+  "url": "https://www.youtube.com/watch?v=O2tqpPdExYU",
+  "title": "기아 타이거즈 김도영 신규 응원가 공개!!",
+  "published_at": "2026-10-19T10:49:36Z",
+  "collected_at": "2026-10-19T13:38:34.709Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 8,
+    "likes": 1,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 51,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

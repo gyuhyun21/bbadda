@@ -1,0 +1,23 @@
+{
+  "id": "community-15bb5c0c",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "community",
+  "source_name": "디시 야구 갤러리",
+  "url": "https://gall.dcinside.com/board/lists/?id=giants_new3",
+  "title": "롯데 자이언츠 갤러리 - 커뮤니티 포털 디시인사이드",
+  "published_at": "2026-10-18T23:38:34.709Z",
+  "collected_at": "2026-10-19T13:38:34.709Z",
+  "summary_ko": "",
+  "excerpt": "... 스포츠 카테고리로 분류된 롯데 자이언츠 갤러리 입니다. 롯데 자이언츠 갤러리에 다양한 이야기를 남겨주세요.",
+  "metrics": {},
+  "scores": {
+    "hot": 63,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

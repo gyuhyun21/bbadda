@@ -1,0 +1,26 @@
+{
+  "id": "youtube-565eba60",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "youtube",
+  "source_name": "야구 사운드",
+  "url": "https://www.youtube.com/watch?v=-Mvw0yMpneM",
+  "title": "KT 위즈 안현민 응원가 Music Video (신청곡)",
+  "published_at": "2026-10-19T12:06:09Z",
+  "collected_at": "2026-10-19T13:38:34.709Z",
+  "summary_ko": "KT 안현민 응원가를 뮤직비디오로 만든 팬 영상이다.",
+  "metrics": {
+    "views": 2,
+    "likes": 1,
+    "comments": 2
+  },
+  "scores": {
+    "hot": 46,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

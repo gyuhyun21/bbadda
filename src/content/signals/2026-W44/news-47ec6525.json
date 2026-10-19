@@ -1,0 +1,23 @@
+{
+  "id": "news-47ec6525",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "조선일보",
+  "url": "https://www.chosun.com/sports/baseball/2026/10/19/GA4DCMRQMZQTMNZZGI2TOMZZHA/",
+  "title": "'이런! 최악의 시나리오가…' 삼성 패닉 오나, '천적' KIA 3연승 땐 무려 4일을 쉰다",
+  "published_at": "2026-10-19T06:07:00.000Z",
+  "collected_at": "2026-10-19T13:38:34.709Z",
+  "summary_ko": "조선일보는 KIA가 준PO를 3연승으로 끝내면 PO 상대 삼성이 4일을 쉬게 된다고 짚었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

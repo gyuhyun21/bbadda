@@ -1,0 +1,24 @@
+{
+  "id": "community-69444cca",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 My life written by me",
+  "url": "https://blog.naver.com/elinlee_/224446723994",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/HNgotHBOass",
+  "title": "[인천/랜더스필드] 최광야구1429⚾🎆",
+  "published_at": "2026-10-19T17:06:00.000+09:00",
+  "collected_at": "2026-10-19T13:38:34.709Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

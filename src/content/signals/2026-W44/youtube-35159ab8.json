@@ -1,0 +1,26 @@
+{
+  "id": "youtube-35159ab8",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "함바로그",
+  "url": "https://www.youtube.com/watch?v=YOci9GrSQwE",
+  "title": "쇼!쇼! 삼성의 최형우🔥 팬들 응원 떼창 (직관) #롯데자이언츠#삼성라이온즈#롯데삼성#라팍직관#삼성라이온즈파크#최형우#삼성응원#응원가#야구직관#야구쇼츠",
+  "published_at": "2026-10-19T13:15:33Z",
+  "collected_at": "2026-10-19T13:38:34.709Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 7,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 11,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

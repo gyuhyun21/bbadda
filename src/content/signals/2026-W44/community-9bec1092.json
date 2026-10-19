@@ -1,0 +1,23 @@
+{
+  "id": "community-9bec1092",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 핫픽뉴스",
+  "url": "https://blog.naver.com/hotpicknews/224446683050",
+  "title": "한국시리즈 취소표 보는 법 풀리는 시간 확인하기",
+  "published_at": "2026-10-19T16:49:00.000+09:00",
+  "collected_at": "2026-10-19T13:38:34.709Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

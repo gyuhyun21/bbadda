@@ -1,0 +1,23 @@
+{
+  "id": "community-f8a4edb8",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 용기자의 돋보기",
+  "url": "https://blog.naver.com/y16966/224446735699",
+  "title": "\"KBO 통산 최다 안타왕의 충격 추락\"… 손아섭, '3000안타' 대기록 앞두고 방출 통보 '충격'",
+  "published_at": "2026-10-19T17:25:00.000+09:00",
+  "collected_at": "2026-10-19T13:38:34.709Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "youtube-3aab4154",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg",
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "불팬 _ 불타는야구팬",
+  "url": "https://www.youtube.com/watch?v=qS0NBNuhu3g",
+  "title": "LG트윈스 KIA에게 10연패는 안돼!! / KIA 스윕을 다오!!!!! [불타는 야구팬 불팬]",
+  "published_at": "2026-10-19T13:05:03Z",
+  "collected_at": "2026-10-19T13:38:34.709Z",
+  "summary_ko": "LG 팬 채널이 KIA 상대 10연패를 막아야 한다며 3차전을 앞두고 이야기를 나눴다.",
+  "metrics": {
+    "views": 1521,
+    "likes": 131,
+    "comments": 10
+  },
+  "scores": {
+    "hot": 78,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

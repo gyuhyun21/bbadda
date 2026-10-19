@@ -1,0 +1,23 @@
+{
+  "id": "community-163c5e87",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 토온나우",
+  "url": "https://blog.naver.com/sicher782/224446451679",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/5VmspyHWXZF",
+  "title": "LG 고우석, \"1.57인데 TV로 가을야구 본다고?\".. 7월 31일이 가른 운명의 반전",
+  "published_at": "2026-10-19T21:19:00.000+09:00",
+  "collected_at": "2026-10-19T13:38:34.709Z",
+  "summary_ko": "한 블로그는 평균자책 1.57의 LG 고우석이 가을야구를 TV로 보게 된 배경을 짚었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

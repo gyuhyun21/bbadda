@@ -1,0 +1,24 @@
+{
+  "id": "community-8b1f55d3",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&page=5&document_srl=10462923014",
+  "title": "하다못해 뮌돌뮌돌한 훔멜스도 실력으로 여론 돌렸던거보면 - 야구",
+  "published_at": "2026-10-19T08:38:34.709Z",
+  "collected_at": "2026-10-19T13:38:34.709Z",
+  "summary_ko": "",
+  "excerpt": "... 롯데 자이언츠 은퇴식및 영결식 확정인분 [9]. 5 분 전 자유 반름달 조회237 추천6. 롯데…",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

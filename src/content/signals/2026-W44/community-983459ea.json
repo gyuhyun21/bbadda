@@ -1,0 +1,23 @@
+{
+  "id": "community-983459ea",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 이슈인사이트(ISSUE INSIGHT)",
+  "url": "https://blog.naver.com/jpeace70/224446995023",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/4b6ZilulXgj",
+  "title": "[KBO 준플레이오프] '슈퍼스타' 김도영 집중 해부: KIA 타이거즈가 연승을 달리는 결정적 이유",
+  "published_at": "2026-10-19T21:30:00.000+09:00",
+  "collected_at": "2026-10-19T13:38:34.709Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

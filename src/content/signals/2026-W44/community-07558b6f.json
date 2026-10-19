@@ -1,0 +1,24 @@
+{
+  "id": "community-07558b6f",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 루나의 스포츠픽",
+  "url": "https://blog.naver.com/susu8522/224446955487",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/4t0TA5iT27Q",
+  "title": "이임생 국감 불참, 캄보디아 훈련은 책임 회피일까",
+  "published_at": "2026-10-19T20:50:00.000+09:00",
+  "collected_at": "2026-10-19T13:38:34.709Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "youtube-0ecb14a1",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "sports응원 여행기",
+  "url": "https://www.youtube.com/watch?v=YdE6wsnL4rY",
+  "title": "가자 안타치러요~ 삼성라이온즈@ 규리님@ 추억@2026",
+  "published_at": "2026-10-19T12:25:03Z",
+  "collected_at": "2026-10-19T13:38:34.709Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 473,
+    "likes": 7,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 43,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

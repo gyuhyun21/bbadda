@@ -1,0 +1,24 @@
+{
+  "id": "community-3e1a3adf",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&page=5&document_srl=10462926192",
+  "title": "방출명단 보니깐 홍원표 선수님이랑 김명신 선수님도 영입하고 싶네",
+  "published_at": "2026-10-19T08:38:34.709Z",
+  "collected_at": "2026-10-19T13:38:34.709Z",
+  "summary_ko": "",
+  "excerpt": "... 롯데 자이언츠 은퇴식및 영결식 확정인분 [9]. 5 분 전 자유 반름달 조회237 추천6. 롯데…",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

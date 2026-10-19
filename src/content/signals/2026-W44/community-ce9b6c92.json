@@ -1,0 +1,24 @@
+{
+  "id": "community-ce9b6c92",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 스텝 바이 스포츠(Step by Sports)",
+  "url": "https://health.taxinfo.kr/123",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/AjwMQmGpbRR",
+  "title": "[프로야구 구단 소개 시리즈 구성] 대한민국 프로야구 10개 구단 완전정복 — 역사와 열정, 그리고 팬들...",
+  "published_at": "2026-10-19T21:17:24.000+09:00",
+  "collected_at": "2026-10-19T13:38:34.709Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

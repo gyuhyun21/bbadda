@@ -1,0 +1,26 @@
+{
+  "id": "youtube-2c742226",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "youtube",
+  "source_name": "주니 트윈스",
+  "url": "https://www.youtube.com/watch?v=c4d8G_sRSVY",
+  "title": "우리 아직 안끝났습니다🔥 #준플옵 # #야구 #엘지트윈스",
+  "published_at": "2026-10-19T12:12:17Z",
+  "collected_at": "2026-10-19T13:38:34.709Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 4687,
+    "likes": 33,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 49,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

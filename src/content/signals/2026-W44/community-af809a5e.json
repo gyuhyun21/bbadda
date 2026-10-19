@@ -1,0 +1,23 @@
+{
+  "id": "community-af809a5e",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "community",
+  "source_name": "디시 야구 갤러리",
+  "url": "https://gall.dcinside.com/board/view?id=doosanbears_new1&no=11870438",
+  "title": "두산 베어스",
+  "published_at": "2026-10-16T15:00:00.000Z",
+  "collected_at": "2026-10-19T13:38:34.709Z",
+  "summary_ko": "",
+  "excerpt": "... 스포츠 카테고리로 분류된 두산 베어스 갤러리 입니다. 두산 베어스 갤러리에 다양한 이야기를 남겨주세요.",
+  "metrics": {},
+  "scores": {
+    "hot": 43,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

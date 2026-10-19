@@ -1,0 +1,26 @@
+{
+  "id": "youtube-93538429",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "youtube",
+  "source_name": "PB",
+  "url": "https://www.youtube.com/watch?v=frntBIwMubo",
+  "title": "평고 잡도리하러 출마 #ssg랜더스 #박성한",
+  "published_at": "2026-10-19T13:03:21Z",
+  "collected_at": "2026-10-19T13:38:34.709Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 346,
+    "likes": 8,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 48,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

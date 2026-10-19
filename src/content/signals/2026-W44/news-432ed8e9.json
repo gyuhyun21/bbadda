@@ -1,0 +1,22 @@
+{
+  "id": "news-432ed8e9",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "남도일보",
+  "url": "https://www.namdonews.com/news/articleView.html?idxno=926553",
+  "title": "[준PO]KIA, 44년 잠실구장 ‘마지막 승자’ 노린다",
+  "published_at": "2026-10-19T07:10:00.000Z",
+  "collected_at": "2026-10-19T13:38:34.709Z",
+  "summary_ko": "준PO 3차전을 앞두고 KIA가 잠실구장의 '마지막 승자'를 노린다고 남도일보가 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}
