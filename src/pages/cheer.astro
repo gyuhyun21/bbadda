@@ -35,7 +35,7 @@ const teams = all.map((c) => { const t = TEAMS.find((x) => x.id === c.team)!; re
         <div class="cheer-frame"><div id="cheer-yt"></div></div>
         <div class="cheer-now">
           <p class="cheer-now-label">지금 연습 중</p>
-          <p class="cheer-now-title" data-cheer-now>곡을 고르세요</p>
+          <p class="cheer-now-title" data-cheer-now>선수를 선택하세요</p>
           <div class="cheer-ctrl">
             <button type="button" class="cheer-btn" data-cheer-prev aria-label="이전 곡">
               <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 5v14M19 6l-9 6 9 6z"/></svg>
@@ -88,6 +88,7 @@ const teams = all.map((c) => { const t = TEAMS.find((x) => x.id === c.team)!; re
   let ytReady: Promise<void> | undefined;
 
   const part = () => team![kind];
+  const pickHint = () => { $('[data-cheer-now]').textContent = kind === 'players' ? '선수를 선택하세요' : '곡을 선택하세요'; };
   const endOf = (i: number) => part().items[i + 1]?.start ?? part().end;
 
   function loadYT(): Promise<void> {
@@ -150,14 +151,14 @@ const teams = all.map((c) => { const t = TEAMS.find((x) => x.id === c.team)!; re
     $('[data-cheer-season]').textContent = `${team.season}`;
     root.querySelectorAll<HTMLElement>('[data-cheer-count]').forEach((el) => (el.textContent = String(team![el.dataset.cheerCount as 'players'].items.length)));
     root.querySelectorAll('[data-cheer-tab]').forEach((x) => x.setAttribute('aria-selected', String((x as HTMLElement).dataset.cheerTab === kind)));
-    $('[data-cheer-now]').textContent = '곡을 고르세요';
+    pickHint();
     renderList();
     loadYT(); // 플레이어를 미리 불러 둔다 — 휴대폰은 첫 탭에서 바로 재생돼야 한다(탭 뒤 기다리면 자동 재생이 막힘)
   }
 
   root.querySelectorAll<HTMLButtonElement>('[data-cheer-team]').forEach((b) => b.addEventListener('click', () => open(b.dataset.cheerTeam!)));
   root.querySelectorAll<HTMLButtonElement>('[data-cheer-tab]').forEach((b) => b.addEventListener('click', () => {
-    kind = b.dataset.cheerTab as typeof kind; cur = -1;
+    kind = b.dataset.cheerTab as typeof kind; cur = -1; pickHint();
     root.querySelectorAll('[data-cheer-tab]').forEach((x) => x.setAttribute('aria-selected', String(x === b)));
     renderList();
   }));
