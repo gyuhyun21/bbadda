@@ -9,8 +9,8 @@ body { word-break: keep-all; overflow-wrap: anywhere; font-family: P, 'Noto Sans
 .top { display: flex; justify-content: space-between; align-items: center; }
 .tag { font-size: 28px; font-weight: 800; padding: 10px 22px; border-radius: 999px; background: var(--yel); color: var(--ink); }
 .pg { font-size: 28px; font-weight: 700; color: #8E8E93; }
-.foot { position: absolute; left: 80px; right: 80px; bottom: 56px; display: flex; justify-content: space-between; align-items: center; font-size: 28px; font-weight: 700; color: #8E8E93; }
-.logo-chip { background: #fff; border-radius: 16px; padding: 8px 14px; display: inline-flex; } .logo-chip img { height: 52px; }
+.foot { position: absolute; left: 80px; right: 80px; bottom: 48px; display: flex; justify-content: space-between; align-items: center; font-size: 28px; font-weight: 700; color: #8E8E93; }
+.logo-chip { background: #fff; border-radius: 20px; padding: 12px 20px; display: inline-flex; box-shadow: 0 6px 18px rgba(0, 0, 0, .25); } .logo-chip img { height: 84px; }
 .swipe { color: var(--yel); font-weight: 800; }
 h2 { margin-top: 40px; font-size: 64px; line-height: 1.15; font-weight: 800; letter-spacing: -0.035em; }
 .sub { margin-top: 40px; font-size: 34px; color: var(--muted); }
@@ -127,3 +127,15 @@ h2 { margin-top: 40px; font-size: 64px; line-height: 1.15; font-weight: 800; let
 /* 한국어 줄바꿈: 어절 단위(keep-all) + 제목은 줄 길이 균형 */
 h1, h2, .stat-line, .n-item b, .points li, .facts li { text-wrap: balance; }
 .masc.static { position: static; justify-content: center; margin-top: 60px; }
+
+/* 팀 배지(큰 자리): 팀 색 원 + 팀 이름 */
+.tbadge { display: inline-grid; place-items: center; width: 200px; height: 200px; border-radius: 50%; background: radial-gradient(circle at 30% 25%, color-mix(in srgb, var(--tc) 70%, #fff), var(--tc) 60%); color: #fff; font-size: 64px; font-weight: 900; letter-spacing: -0.03em; box-shadow: 0 18px 40px rgba(0, 0, 0, .45), inset 0 -8px 20px rgba(0, 0, 0, .25); }
+.score .tbadge { width: 210px; height: 210px; }
+.score .lose .tbadge { filter: grayscale(.5) brightness(.7); }
+.vote div { justify-content: center; min-height: 200px; font-size: 52px; }
+.score > div:not(.num) { display: flex; flex-direction: column; align-items: center; gap: 14px; }
+.matchup { position: absolute; left: 80px; right: 80px; bottom: 190px; display: grid; grid-template-columns: 1fr auto 1fr; align-items: center; gap: 20px; }
+.matchup div { display: flex; flex-direction: column; align-items: center; gap: 14px; font-size: 54px; font-weight: 900; letter-spacing: -0.03em; }
+.matchup small { font-size: 26px; font-weight: 700; color: rgba(255,255,255,.7); }
+.matchup .tbadge { width: 150px; height: 150px; font-size: 48px; }
+.matchup > span { font-size: 40px; font-weight: 800; color: #8E8E93; }
