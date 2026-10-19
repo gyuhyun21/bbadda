@@ -1,0 +1,26 @@
+# 인스타 릴스 게시(수동 실행): public/insta/<post>/reel.mp4 를 bbadda.com 공개 주소로, 본문은 post.json 의 reel_caption(없으면 caption)
+# 시크릿 INSTAGRAM_PAGE_TOKEN, 변수 INSTAGRAM_USER_ID. 토큰은 출력하지 않는다
+name: ig-reel
+on:
+  workflow_dispatch:
+    inputs:
+      post: { description: 'public/insta 아래 폴더(예 2026-10-19-intro)', required: true }
+permissions:
+  contents: read
+jobs:
+  reel:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - name: 릴스 게시
+        env:
+          TOKEN: ${{ secrets.INSTAGRAM_PAGE_TOKEN }}
+          IG: ${{ vars.INSTAGRAM_USER_ID }}
+          POST: ${{ inputs.post }}
+        run: |
+          set -euo pipefail
+          [[ "$POST" =~ ^[0-9a-z-]+$ ]] || { echo "잘못된 폴더 이름"; exit 1; }
+          jq -r '.reel_caption // .caption' "public/insta/$POST/post.json" > /tmp/cap.txt
+          res=$(bash scripts/insta/reel.sh "https://bbadda.com/insta/$POST/reel.mp4" /tmp/cap.txt)
+          echo "게시: $res" | tee -a "$GITHUB_STEP_SUMMARY"
