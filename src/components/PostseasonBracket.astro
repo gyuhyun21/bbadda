@@ -32,7 +32,7 @@ const shortRound = (id: string) => view?.rounds.find((r) => r.id === id)?.short 
 // 승부예측 적중 기록(revisit 스위치): 끝난 경기의 투표 id·이긴 팀. 내가 찍은 팀은 이 기기 localStorage 에만 있다(서버는 IP 해시만)
 const voteId = (g: GameView) => `${g.round}${g.no}-${g.date}-${g.sides[0].id}-${g.sides[1].id}`;
 const rv = !!view && revisit();
-const graded = rv ? view!.rounds.flatMap((r) => r.games.filter((g) => g.played && g.sides.every((x) => x.id)).map((g) => ({ d: g.date, id: voteId(g), w: sidesOf(g)[0].id, t: `${r.short} ${g.no}차전`, n: Object.fromEntries(g.sides.map((x) => [x.id, name(x)])) }))).sort((a, b) => a.d.localeCompare(b.d)) : [];
+const graded = rv ? view!.rounds.flatMap((r) => r.games.filter((g) => g.played && g.sides.every((x) => x.id)).map((g) => ({ d: g.date, id: voteId(g), w: sidesOf(g)[0].id, t: `${r.short} ${g.no}차전 · ${md(g)}`, s: scoreLine(g), n: Object.fromEntries(g.sides.map((x) => [x.id, name(x)])) }))).sort((a, b) => a.d.localeCompare(b.d)) : [];
 const hostOf = (u: string) => { try { return new URL(u).hostname.replace(/^(www|m)\./, ''); } catch { return '기사'; } };
 ---
 {view && (
@@ -76,7 +76,12 @@ const hostOf = (u: string) => { try { return new URL(u).hostname.replace(/^(www|
                 <p class="ps-vote-note" data-vote-note data-close={view.next.time}></p>
               </div>
             )}
-            {graded.length > 0 && <p class="ps-myrec" data-myrec={JSON.stringify(graded)} hidden></p>}
+            {graded.length > 0 && (
+              <div class="ps-myrec" data-myrec={JSON.stringify(graded)} hidden>
+                <p class="ps-myrec-sum"><span data-myrec-sum></span><button type="button" class="ps-myrec-btn" data-myrec-toggle aria-expanded="false" aria-controls="ps-myrec-list">예측 결과 보기</button></p>
+                <ol class="ps-myrec-list" id="ps-myrec-list" hidden></ol>
+              </div>
+            )}
           </div>
           {(view.next.record.facts.length > 0 || last) && (
             <div class="ps-mid">
@@ -207,17 +212,31 @@ const hostOf = (u: string) => { try { return new URL(u).hostname.replace(/^(www|
       } catch {} finally { box.querySelectorAll<HTMLButtonElement>('[data-vote-team]').forEach((x) => (x.disabled = false)); }
     }));
   });
-  // 승부예측 적중 기록: 끝난 경기 중 이 기기에서 찍은 경기만 센다. 한 번도 안 찍었으면 숨김
+  // 승부예측 결과: 요약(이 기기에서 찍은 경기만) + '예측 결과 보기'(기본 접힘)를 누르면 최근 5경기 적중·실패·미참여
   document.querySelectorAll<HTMLElement>('[data-myrec]').forEach((el) => {
-    type G = { id: string; w: string; t: string; n: Record<string, string> };
-    const picks = (JSON.parse(el.dataset.myrec!) as G[]).flatMap((g) => { let p: string | null = null; try { p = localStorage.getItem(`bbadda:vote:${g.id}`); } catch {} return p ? [{ ...g, p, hit: p === g.w }] : []; });
-    if (!picks.length) return;
-    const hits = picks.filter((x) => x.hit).length;
-    let streak = 0; for (let i = picks.length - 1; i >= 0 && picks[i].hit; i--) streak++;
-    const last = picks[picks.length - 1];
-    const b = document.createElement('strong'); b.textContent = `내 예측 ${hits}/${picks.length} 적중`;
-    const r = document.createElement('span'); r.className = last.hit ? 'is-hit' : 'is-miss'; r.textContent = `${last.t} ${last.n[last.p]} 승 ${last.hit ? '✓ 적중' : '✗ 빗나감'}`;
-    el.replaceChildren(b, streak >= 2 ? ` · ${streak}연속 적중 · ` : ' · ', r);
+    type G = { id: string; w: string; t: string; s: string; n: Record<string, string> };
+    const games = (JSON.parse(el.dataset.myrec!) as G[]).map((g) => { let p: string | null = null; try { p = localStorage.getItem(`bbadda:vote:${g.id}`); } catch {} return { ...g, p }; });
+    const picks = games.filter((g) => g.p);
+    const sum = el.querySelector<HTMLElement>('[data-myrec-sum]')!;
+    if (picks.length) {
+      const hits = picks.filter((x) => x.p === x.w).length;
+      let streak = 0; for (let i = picks.length - 1; i >= 0 && picks[i].p === picks[i].w; i--) streak++;
+      const b = document.createElement('strong'); b.textContent = `내 예측 ${hits}/${picks.length} 적중`;
+      sum.replaceChildren(b, streak >= 2 ? ` · ${streak}연속 적중` : '');
+    }
+    const list = el.querySelector<HTMLOListElement>('.ps-myrec-list')!;
+    list.replaceChildren(...games.slice(-5).reverse().map((g) => {
+      const li = document.createElement('li');
+      const state = !g.p ? ['is-none', '미참여'] : g.p === g.w ? ['is-hit', '적중'] : ['is-miss', '실패'];
+      const badge = document.createElement('span'); badge.className = `ps-badge ${state[0]}`; badge.textContent = state[1];
+      const t = document.createElement('span'); t.className = 'ps-myrec-t'; t.textContent = g.t;
+      const sc = document.createElement('span'); sc.className = 'ps-myrec-s'; sc.textContent = g.s;
+      const p = document.createElement('span'); p.className = 'ps-myrec-p'; p.textContent = g.p ? `내 예측 ${g.n[g.p]}` : '';
+      li.append(badge, t, sc, p);
+      return li;
+    }));
+    const btn = el.querySelector<HTMLButtonElement>('[data-myrec-toggle]')!;
+    btn.addEventListener('click', () => { const open = list.hidden; list.hidden = !open; btn.setAttribute('aria-expanded', String(open)); btn.textContent = open ? '예측 결과 접기' : '예측 결과 보기'; });
     el.hidden = false;
   });
   // 라운드 카드를 누르면 그 라운드의 경기 기록을 펼친다(한 번에 하나)
