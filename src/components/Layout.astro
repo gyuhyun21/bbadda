@@ -48,7 +48,7 @@ const myTeamCss = TEAMS.map((t) => `html[data-my-team="${t.id}"] [data-myteam-bl
     <meta name="twitter:card" content="summary_large_image" />
     <link rel="sitemap" href="/sitemap.xml" />
     {path === '/' && <script type="application/ld+json" is:inline set:html={JSON.stringify({ '@context': 'https://schema.org', '@type': 'WebSite', name: 'BBADDA 빠따닷컴', url: Astro.site?.href, inLanguage: 'ko', potentialAction: { '@type': 'SearchAction', target: `${Astro.site?.href}search/?q={q}`, 'query-input': 'required name=q' } })}></script>}
-    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <link rel="icon" href="/favicon.png" type="image/png" sizes="48x48" />
     {/* 홈 화면 추가(앱처럼 열기) — 아이콘은 scripts/og.py 로 만든다 */}
     <link rel="manifest" href="/manifest.webmanifest" />
     <link rel="apple-touch-icon" href="/icons/apple-touch-icon.png" />
