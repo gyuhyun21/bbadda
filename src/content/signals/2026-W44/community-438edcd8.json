@@ -1,0 +1,23 @@
+{
+  "id": "community-438edcd8",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte",
+    "lg"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 스포츠를 기록하는 축보트",
+  "url": "https://blog.naver.com/football_goat/224446157291",
+  "title": "롯데 자이언츠 차기 감독, LG 1군 수석코치 김정준 급부상 \"데이터 야구가 사직을 바꿀까?\"",
+  "published_at": "2026-10-19T08:18:00.000+09:00",
+  "collected_at": "2026-10-19T13:38:34.709Z",
+  "summary_ko": "한 블로그는 LG 김정준 수석코치가 롯데 차기 감독 후보로 거론된다고 전했다. 구단 공식 발표는 아니다.",
+  "metrics": {},
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "youtube-d3b2b700",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "Eagles TV",
+  "url": "https://www.youtube.com/watch?v=k6ZeJc1badg",
+  "title": "‘류지현 감독의 한화이글스’ 대전 첫 훈련",
+  "published_at": "2026-10-19T09:34:41Z",
+  "collected_at": "2026-10-19T13:38:34.709Z",
+  "summary_ko": "한화 공식 채널이 류지현 감독의 대전 첫 훈련 영상을 올렸다.",
+  "metrics": {
+    "views": 121432,
+    "likes": 3380,
+    "comments": 688
+  },
+  "scores": {
+    "hot": 87,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

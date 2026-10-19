@@ -1,0 +1,23 @@
+{
+  "id": "community-b45094eb",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 이슈크림",
+  "url": "https://blog.naver.com/yogiissue/224446636808",
+  "title": "김도영 준플레이오프 8타석 타율 0.400, 병원 안 가고 서울行",
+  "published_at": "2026-10-19T16:22:00.000+09:00",
+  "collected_at": "2026-10-19T13:38:34.709Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

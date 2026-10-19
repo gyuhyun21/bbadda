@@ -1,0 +1,26 @@
+{
+  "id": "youtube-626e0faf",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "youtube",
+  "source_name": "엠뉴 | MBC경남 NEWS",
+  "url": "https://www.youtube.com/watch?v=2mCDxbxUoKc",
+  "title": "리그 8위 NC.. 최우선 과제는 \"불펜·승부처 집중력 강화\"(2026.10.19/뉴스데스크/MBC경남)",
+  "published_at": "2026-10-19T12:31:54Z",
+  "collected_at": "2026-10-19T13:38:34.709Z",
+  "summary_ko": "MBC경남 뉴스가 리그 8위 NC의 최우선 과제로 불펜과 승부처 집중력 강화를 꼽았다.",
+  "metrics": {
+    "views": 9,
+    "likes": 1,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 52,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

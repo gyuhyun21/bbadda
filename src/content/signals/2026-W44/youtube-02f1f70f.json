@@ -1,0 +1,29 @@
+{
+  "id": "youtube-02f1f70f",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan",
+    "kia",
+    "lotte",
+    "kiwoom"
+  ],
+  "source_type": "youtube",
+  "source_name": "썸타임즈Ssumtimes",
+  "url": "https://www.youtube.com/watch?v=If6c6lb6lO0",
+  "title": "두산 신임 단장에게 물었다!｜KIA 양현종 아닌 시라카와 이유는｜롯데 감독 면접 본 야구인은?｜대표팀 임시 감독 정해졌다｜김하성 키움서 훈련하나｜야구이슈다 라이브",
+  "published_at": "2026-10-19T10:17:07Z",
+  "collected_at": "2026-10-19T13:38:34.709Z",
+  "summary_ko": "야구 채널 영상이 두산 신임 단장과의 질문 답변, 대표팀 임시 감독 등 야구계 소식을 모아 다뤘다.",
+  "metrics": {
+    "views": 96599,
+    "likes": 1187,
+    "comments": 23
+  },
+  "scores": {
+    "hot": 69,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

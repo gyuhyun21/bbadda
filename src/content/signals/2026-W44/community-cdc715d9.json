@@ -1,0 +1,24 @@
+{
+  "id": "community-cdc715d9",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 뉴스 그 이상의 이야기",
+  "url": "https://blog.naver.com/newsneomeo/224446902162",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/9eUyHI2pcBq",
+  "title": "“감독 연봉이 무려 8억?” 3년 34억 계약 터뜨린 야구 감독의 정체",
+  "published_at": "2026-10-19T19:52:00.000+09:00",
+  "collected_at": "2026-10-19T13:38:34.709Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

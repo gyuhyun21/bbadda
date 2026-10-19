@@ -1,0 +1,22 @@
+{
+  "id": "community-0abfae17",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 레우스 스포츠",
+  "url": "https://blog.naver.com/borussenreus/224446912727",
+  "title": "“은퇴 수순 VS 로스터 낭비” 손아섭 롯데 복귀 받아줘야 하나?",
+  "published_at": "2026-10-19T20:03:00.000+09:00",
+  "collected_at": "2026-10-19T13:38:34.709Z",
+  "summary_ko": "한 블로그는 손아섭이 롯데로 복귀하는 것이 맞는지를 두고 은퇴 수순과 로스터 낭비라는 시각을 비교했다. 구단 발표는 없다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "youtube-2e755007",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "LGTWINSTV",
+  "url": "https://www.youtube.com/watch?v=lW6FrdUYi9o",
+  "title": "TWINS GO! 끝까지 힘차게 💪 2026 준플레이오프 1, 2차전 관중석 직캠 [트윈스 치얼업]",
+  "published_at": "2026-10-19T08:30:22Z",
+  "collected_at": "2026-10-19T13:38:34.709Z",
+  "summary_ko": "LG 공식 채널이 준PO 1·2차전 관중석 직캠 영상을 올렸다.",
+  "metrics": {
+    "views": 11954,
+    "likes": 341,
+    "comments": 86
+  },
+  "scores": {
+    "hot": 77,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

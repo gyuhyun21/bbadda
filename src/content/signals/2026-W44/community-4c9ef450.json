@@ -1,0 +1,23 @@
+{
+  "id": "community-4c9ef450",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 이과장의 스포츠",
+  "url": "https://blog.naver.com/caleb0901/224446708073",
+  "title": "\"2655안타 쳤는데...\" 6개월 만에 방출된 38세 야구 레전드의 씁쓸한 현실",
+  "published_at": "2026-10-19T17:03:00.000+09:00",
+  "collected_at": "2026-10-19T13:38:34.709Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

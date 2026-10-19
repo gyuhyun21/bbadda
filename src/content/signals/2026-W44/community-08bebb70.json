@@ -1,0 +1,23 @@
+{
+  "id": "community-08bebb70",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 선 넘는 스포츠",
+  "url": "https://blog.naver.com/sion4772/224446668426",
+  "title": "오승환 근황, 마운드에서 내려와 대학 강단에 선 ‘끝판왕’의 새 이야기",
+  "published_at": "2026-10-19T16:42:00.000+09:00",
+  "collected_at": "2026-10-19T13:38:34.709Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "youtube-d92ddf86",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "youtube",
+  "source_name": "서진이에 게임 일상 채널",
+  "url": "https://www.youtube.com/watch?v=DrDFICFWFx4",
+  "title": "키움히어로즈 서건창 응원가",
+  "published_at": "2026-10-19T11:35:27Z",
+  "collected_at": "2026-10-19T13:38:34.709Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 8,
+    "likes": 1,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 51,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

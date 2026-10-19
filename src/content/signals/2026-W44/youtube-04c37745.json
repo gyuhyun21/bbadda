@@ -1,0 +1,27 @@
+{
+  "id": "youtube-04c37745",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte",
+    "lg"
+  ],
+  "source_type": "youtube",
+  "source_name": "크보쌍둥이",
+  "url": "https://www.youtube.com/watch?v=QxExDPGTES8",
+  "title": "롯데 차기단장 후보가 엘지 김정준 수석코치라고? 롯데 면접본 감독 후보는? #롯데자이언츠 #엘지트윈스 #김정준 #김태형 #조성환 #이동욱",
+  "published_at": "2026-10-19T10:46:47Z",
+  "collected_at": "2026-10-19T13:38:34.709Z",
+  "summary_ko": "팬 채널이 롯데 차기 단장 후보로 LG 김정준 수석코치가 거론된다고 다뤘다. 공식 발표는 아니다.",
+  "metrics": {
+    "views": 13154,
+    "likes": 226,
+    "comments": 117
+  },
+  "scores": {
+    "hot": 69,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

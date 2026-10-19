@@ -1,0 +1,23 @@
+{
+  "id": "community-52ed0309",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 덕이매거진 | 스포츠에 진심인 덕후 오리",
+  "url": "https://blog.naver.com/schinmagazine/224444309570",
+  "title": "KBO 30-30 클럽 총정리, 7명이 남긴 9번의 기록",
+  "published_at": "2026-10-19T08:17:00.000+09:00",
+  "collected_at": "2026-10-19T13:38:34.709Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

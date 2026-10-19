@@ -1,0 +1,22 @@
+{
+  "id": "news-ff722021",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "대구MBC",
+  "url": "https://dgmbc.com/NewsArticle/868195",
+  "title": "PO 기다리는 삼성라이온즈···준PO '3차전'? 혹은 '5차전'?",
+  "published_at": "2026-10-19T06:02:14.000Z",
+  "collected_at": "2026-10-19T13:38:34.709Z",
+  "summary_ko": "대구MBC가 PO를 기다리는 삼성의 사정을 다뤘다. 준PO가 3차전에서 끝날지 5차전까지 갈지가 변수다.",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "community-30f5723e",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 정보 은행 (Bank of Information)",
+  "url": "https://bankofinformation.tistory.com/3739",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/EwjuaJ07BJB",
+  "title": "2,655안타 베테랑 손아섭 방출, 3,000안타 도전과 스토브리그 행선지 전망",
+  "published_at": "2026-10-19T20:35:38.000+09:00",
+  "collected_at": "2026-10-19T13:38:34.709Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

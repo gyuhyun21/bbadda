@@ -1,0 +1,26 @@
+{
+  "id": "youtube-caa9f4d2",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "youtube",
+  "source_name": "어제한입",
+  "url": "https://www.youtube.com/watch?v=IfVG0p_rNJQ",
+  "title": "KT 이강철 감독 3년 34억 재계약",
+  "published_at": "2026-10-19T12:30:36Z",
+  "collected_at": "2026-10-19T13:38:34.709Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 809,
+    "likes": 4,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 39,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

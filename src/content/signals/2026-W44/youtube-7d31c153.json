@@ -1,0 +1,26 @@
+{
+  "id": "youtube-7d31c153",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "youtube",
+  "source_name": "엘냠씨",
+  "url": "https://www.youtube.com/watch?v=QamVgGtGzsk",
+  "title": "내일 지면 끝이다. (2차전 리뷰&3차전 프리뷰) #엘지트윈스 #LG트윈스 #KBO #야구 #야구팬 #크보",
+  "published_at": "2026-10-19T09:12:33Z",
+  "collected_at": "2026-10-19T13:38:34.709Z",
+  "summary_ko": "LG 팬 채널이 준PO 2차전을 되돌아보고 3차전을 미리 살피는 영상을 올렸다.",
+  "metrics": {
+    "views": 8395,
+    "likes": 216,
+    "comments": 104
+  },
+  "scores": {
+    "hot": 77,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "youtube-1040140f",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "youtube",
+  "source_name": "TWOBINPAPA",
+  "url": "https://www.youtube.com/watch?v=cIUS1IT6hzQ",
+  "title": "NC 다이노스 사직원정경기 아웃송 260624",
+  "published_at": "2026-10-19T11:00:37Z",
+  "collected_at": "2026-10-19T13:38:34.709Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 6,
+    "likes": 1,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 50,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

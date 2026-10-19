@@ -1,0 +1,24 @@
+{
+  "id": "community-e5feae9c",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 라이온즈노트",
+  "url": "https://blog.naver.com/lionsnote/224446994342",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/LEkmmw3iiHJ",
+  "title": "50홈런은 아니어도 충분했다, 디아즈의 진짜 가치는 1루에서도 빛났다",
+  "published_at": "2026-10-19T21:29:00.000+09:00",
+  "collected_at": "2026-10-19T13:38:34.709Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

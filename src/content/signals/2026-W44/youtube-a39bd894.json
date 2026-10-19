@@ -1,0 +1,26 @@
+{
+  "id": "youtube-a39bd894",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "오늘도혜빈",
+  "url": "https://www.youtube.com/watch?v=m3CG1VamhHA",
+  "title": "ㅋㅋㅋㅋㅋ스스로 만족하는거 킹받아 #야구 #야구꿈나무 #삼성라이온즈 #삼린이 #kbo",
+  "published_at": "2026-10-19T11:35:04Z",
+  "collected_at": "2026-10-19T13:38:34.709Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 810,
+    "likes": 5,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 39,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

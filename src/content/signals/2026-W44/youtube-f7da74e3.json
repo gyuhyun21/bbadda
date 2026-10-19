@@ -1,0 +1,32 @@
+{
+  "id": "youtube-f7da74e3",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "youtube",
+  "source_name": "이영우의 라이브 TV",
+  "url": "https://www.youtube.com/watch?v=__836se-YI4",
+  "title": "[ 오피셜 ] 이강철 감독 34억원 재계약! KBO 역대 최고 대우...KT와 11년 동행 확정!!!#한화이글스#lg트윈스#기아타이거즈#삼성라이온즈#kt위즈#kbo리그#이글스tv",
+  "published_at": "2026-10-19T10:45:07Z",
+  "collected_at": "2026-10-19T13:38:34.709Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 2049,
+    "likes": 80,
+    "comments": 7
+  },
+  "scores": {
+    "hot": 73,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "피플투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1oSnpqM2t3VEZydkpPZWFGZ3pwT2ZqX3REWFY3a1FPQ280NUVkY3FpcGFLNVVnMTJwYTdZWGN1c3FlWmIyR2U5Ujd6RG0zUm5TT3VQV1hoY2FnTW5xV1NFVTRxV1pIeDJRa2Vhc2dNVQ?oc=5"
+    }
+  ]
+}

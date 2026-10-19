@@ -1,0 +1,24 @@
+{
+  "id": "community-aad5578b",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 카무싸리의 푸짐한 블로그",
+  "url": "https://blog.naver.com/kamussari/224446577247",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/HyRKWiTrLQK",
+  "title": "16년 만에 日 투수가 KBO 포스트시즌 선발 올랐다, 외국인 영입 총정리",
+  "published_at": "2026-10-19T15:29:00.000+09:00",
+  "collected_at": "2026-10-19T13:38:34.709Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

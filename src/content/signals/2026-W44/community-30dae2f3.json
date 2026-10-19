@@ -1,0 +1,23 @@
+{
+  "id": "community-30dae2f3",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 곰곰이슈",
+  "url": "https://blog.naver.com/jjuniel_91/224446509790",
+  "title": "손나은 모친상, 어머니를 위해 시구까지 했던 \"그때의 기억\"",
+  "published_at": "2026-10-19T19:00:00.000+09:00",
+  "collected_at": "2026-10-19T13:38:34.709Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "community-ba2fc380",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "community",
+  "source_name": "디시 야구 갤러리",
+  "url": "https://gall.dcinside.com/board/view/?id=giants_new3&no=6240858",
+  "title": "롯데 자이언츠",
+  "published_at": "2026-10-16T15:00:00.000Z",
+  "collected_at": "2026-10-19T13:38:34.709Z",
+  "summary_ko": "",
+  "excerpt": "... 왼팔에 회색은 왜 넣은거?올검이 훨씬 강해보이고 이쁜데 오죽했으면 50% 할인해도 유일하게 한사이즈도 품절 안됨.",
+  "metrics": {},
+  "scores": {
+    "hot": 43,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

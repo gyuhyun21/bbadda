@@ -1,0 +1,24 @@
+{
+  "id": "community-6657a142",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "레딧 r/KBO",
+  "url": "https://www.reddit.com/r/KBO/comments/1wyxypm/2026_kbo_league_october_67/",
+  "title": "2026 KBO League: October 6-7",
+  "published_at": "2026-10-05T00:00:00.000Z",
+  "collected_at": "2026-10-19T13:38:34.709Z",
+  "summary_ko": "",
+  "excerpt": "... SSG Landers, Hanwha Eagles. 10/6/26, Gwangju-KIA Champions Field, Samsung Lions ... Samsung Lions, KT…",
+  "metrics": {},
+  "scores": {
+    "hot": 8,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}
