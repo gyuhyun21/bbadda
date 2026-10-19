@@ -1,0 +1,22 @@
+{
+  "id": "news-57311812",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "news",
+  "source_name": "연합뉴스",
+  "url": "https://www.yna.co.kr/view/AKR20261019054500007",
+  "title": "프로야구 SSG, 2만3천명 팬과 함께 '최광야구 1429' 성료",
+  "published_at": "2026-10-19T01:10:29.000Z",
+  "collected_at": "2026-10-19T07:38:26.414Z",
+  "summary_ko": "SSG가 팬 2만3천명과 함께한 '최광야구 1429' 행사를 마쳤다고 연합뉴스가 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

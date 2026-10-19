@@ -1,0 +1,23 @@
+{
+  "id": "community-2721e9ea",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 실전정보",
+  "url": "https://blog.naver.com/insure_82/224446425353",
+  "title": "장모상에도 마운드에 오른 임찬규… 1회에 벌어진 충격적인 상황",
+  "published_at": "2026-10-19T13:13:00.000+09:00",
+  "collected_at": "2026-10-19T07:38:26.414Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

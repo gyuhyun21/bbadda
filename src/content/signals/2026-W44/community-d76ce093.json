@@ -1,0 +1,27 @@
+{
+  "id": "community-d76ce093",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "ssg",
+    "lotte",
+    "kiwoom",
+    "hanwha"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 봉숙이의 슬리피한 하루",
+  "url": "https://blog.naver.com/bbollllls/224446456960",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/EjxRo7UVJqX",
+  "title": "2026 KBO 방출 선수 명단｜삼성·SSG·롯데·키움·한화 (추후 업데이트)",
+  "published_at": "2026-10-19T13:10:00.000+09:00",
+  "collected_at": "2026-10-19T07:38:26.414Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

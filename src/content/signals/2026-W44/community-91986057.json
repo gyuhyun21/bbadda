@@ -1,0 +1,23 @@
+{
+  "id": "community-91986057",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 여유로운 일상 기록",
+  "url": "https://blog.naver.com/uljumin/224446234380",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/Awr7nQmxZop",
+  "title": "롯데자이언츠 홈 경기 최종전 직관후기",
+  "published_at": "2026-10-19T09:43:00.000+09:00",
+  "collected_at": "2026-10-19T07:38:26.414Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

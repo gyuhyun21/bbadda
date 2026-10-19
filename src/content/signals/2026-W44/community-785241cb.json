@@ -1,0 +1,23 @@
+{
+  "id": "community-785241cb",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "community",
+  "source_name": "디시 야구 갤러리",
+  "url": "https://gall.dcinside.com/board/view/?id=ncdinos&no=10141434",
+  "title": "27 NC다이노스 드림라인업",
+  "published_at": "2026-10-12T15:00:00.000Z",
+  "collected_at": "2026-10-19T07:38:26.414Z",
+  "summary_ko": "",
+  "excerpt": "... 선발라인업1번 오태양(CF) - 150안타, 출루율 .450, 50도루2번 김주원(SS) - 타율 .300, 20-20달성3번 박민우(2B) -…",
+  "metrics": {},
+  "scores": {
+    "hot": 11,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

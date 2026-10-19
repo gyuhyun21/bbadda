@@ -1,0 +1,22 @@
+{
+  "id": "news-3c6d4e36",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "news",
+  "source_name": "조선일보",
+  "url": "https://www.chosun.com/sports/baseball/2026/10/19/MQZDKNBVGA2DSNZUMFQTAMRZMQ/",
+  "title": "\"KBO 역대 최고 대우\" 3년 총액 34억원! KT, '강철매직'과 2029년까지 11년 동행 확정 [공식입장]",
+  "published_at": "2026-10-19T06:22:00.000Z",
+  "collected_at": "2026-10-19T07:38:26.414Z",
+  "summary_ko": "KT가 이강철 감독과 3년 총액 34억원에 재계약해 2029년까지 동행한다고 공식 발표했다고 조선일보가 전했다. 기사는 KBO 역대 최고 대우라고 소개했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

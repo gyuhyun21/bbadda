@@ -1,0 +1,26 @@
+{
+  "id": "youtube-9eda4686",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "youtube",
+  "source_name": "동묘아산정형외과",
+  "url": "https://www.youtube.com/watch?v=SEN67Wkts2U",
+  "title": "LG트윈스 레전드 이동현 선수, 무릎 치료 위해 찾은 곳은?",
+  "published_at": "2026-10-19T04:01:15Z",
+  "collected_at": "2026-10-19T07:38:26.414Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1049,
+    "likes": 13,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 46,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "youtube-93ad6625",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "SSG랜더스",
+  "url": "https://www.youtube.com/watch?v=kpDiSZRYs1k",
+  "title": "🔥 분위기 제대로 끌어올리는 벤치 클리어링🔥",
+  "published_at": "2026-10-19T04:00:29Z",
+  "collected_at": "2026-10-19T07:38:26.414Z",
+  "summary_ko": "SSG 공식 채널이 벤치 클리어링 장면을 모은 영상을 올렸다.",
+  "metrics": {
+    "views": 19340,
+    "likes": 1244,
+    "comments": 57
+  },
+  "scores": {
+    "hot": 91,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

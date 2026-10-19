@@ -1,0 +1,23 @@
+{
+  "id": "news-7ab29039",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "조선일보",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxON00teHEzR2txZ1NlbVRQN21iTHBMaFo5STJTUDNrZTh0ejk1M3JhSnFvOEZyNEE3NnNiU1YwMXV5N0I1bG05Qm1QNDR0R1lpMnB5N3ZGUGE4aEVkb2JBTjg0TFVydFlib3FhZmRrcEFYOTJzOGoyUnM0QXozbXVMa29Maw?oc=5",
+  "title": "이승민보다 앞선 '2차 1R'였는데… 소형준과 투톱, 7년 만의 안타까운 이별, '구속 증가' 꿈은 이루어지지 않았다",
+  "published_at": "2026-10-19T04:40:00.000Z",
+  "collected_at": "2026-10-19T07:38:26.414Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

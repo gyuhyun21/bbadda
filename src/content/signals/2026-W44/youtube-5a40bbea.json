@@ -1,0 +1,24 @@
+{
+  "id": "youtube-5a40bbea",
+  "issue": "2026-W44",
+  "module": "league",
+  "teams": [],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=66AtHSGjwcE",
+  "title": "크보가 담은 준플레이오프의 다채로운 순간들📸",
+  "published_at": "2026-10-19T03:00:35Z",
+  "collected_at": "2026-10-19T07:38:26.414Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 19228,
+    "likes": 642,
+    "comments": 20
+  },
+  "scores": {
+    "hot": 79,
+    "relevance": 30
+  },
+  "sentiment": "neutral"
+}

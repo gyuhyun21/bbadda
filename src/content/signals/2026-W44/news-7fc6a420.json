@@ -1,0 +1,29 @@
+{
+  "id": "news-7fc6a420",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "news",
+  "announcement": true,
+  "source_name": "머니투데이",
+  "url": "https://www.mt.co.kr/amp/sports/2026/10/19/202610191104778932O",
+  "title": "'KS 우승 3회' 김태룡 시대 15년 만에 막 내린다...두산 정재훈 신임단장 선임 [공식발표]",
+  "published_at": "2026-10-19T02:06:00.000Z",
+  "collected_at": "2026-10-19T07:38:26.414Z",
+  "summary_ko": "두산이 김태룡 단장 체제를 마무리하고 정재훈 신임 단장을 선임했다고 공식 발표했다고 머니투데이가 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPR25pc3ZRZlU1UXlKYlE0UG9Lb2x3TFJsaFR6UVdtQVdGOU5sVllUM0RQckRVRUZrN3JaQnh6NG9sTzlTcC1VckdXSDdPbFRMNnh4djdRQWlaVnY0TDlLZnhWQkZUVTVhYU5EYnpjdVhBd1loWURxOW0tWVZCQm1ldW1Uam84RnV5MVVLVFJFQ19SU294NFJr0gGXAUFVX3lxTE9HbmlzdlFmVTVReUpiUTRQb0tvbHdMUmxoVHpRV21BV0Y5TmxWWVQzRFByRFVFRms3clpCeHo0b2xPOVNwLVVyR1dIN09sVEw2eHh2N1FBaVpWdjRMOUtmeFZCRlRVNWFhTkRiemN1WEF3WWhZRHE5bS1ZVkJCbWV1bVRqbzhGdXkxVUtUUkVDX1JTb3g0Ums?oc=5"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": "community-4ab9b917",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 지유",
+  "url": "https://blog.naver.com/wjaxkr/224446408742",
+  "title": "두산 베어스 '김태룡 시대' 16년 마감, 정재훈 신임 단장 선임이 가진 진짜 의미",
+  "published_at": "2026-10-19T12:31:00.000+09:00",
+  "collected_at": "2026-10-19T07:38:26.414Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNGl5bGRQYXJyRmZhcUNEVTZsa2p0N0JSUUExOEZ5OHZWemZ4R0VBcnV0d3NVbDB2Sml5UHNCa0xSd1ZTVHcycG1rNllwemN0aUpHVlFKWFdUQnlERU1CWDYwWmpLc2RIZHVtOHV5ZmpLcVh4MFQySjFHMjR2WkZsdzBFdw?oc=5"
+    }
+  ]
+}

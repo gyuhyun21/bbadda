@@ -1,0 +1,26 @@
+{
+  "id": "youtube-b1a2f930",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "youtube",
+  "source_name": "야구는 풀스윙",
+  "url": "https://www.youtube.com/watch?v=KW9rkMXqGrc",
+  "title": "탄탄한 센터라인, NC에 필요한 한 방은?👀 [2026 NC 다이노스 시즌 결산]",
+  "published_at": "2026-10-19T03:00:24Z",
+  "collected_at": "2026-10-19T07:38:26.414Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 782,
+    "likes": 14,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 49,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

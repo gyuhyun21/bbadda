@@ -1,0 +1,26 @@
+{
+  "id": "youtube-214cf31c",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "source_name": "한화에 묻어다오",
+  "url": "https://www.youtube.com/watch?v=Ba11xtfKN_A",
+  "title": "본격적으로 시작된 류지현호의 한화 #한화이글스 #문현빈 #허인서 #정은원 #류지현",
+  "published_at": "2026-10-19T05:41:39Z",
+  "collected_at": "2026-10-19T07:38:26.414Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 7679,
+    "likes": 494,
+    "comments": 17
+  },
+  "scores": {
+    "hot": 86,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

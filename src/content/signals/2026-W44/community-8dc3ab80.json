@@ -1,0 +1,24 @@
+{
+  "id": "community-8dc3ab80",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "엠엘비파크",
+  "url": "https://mlbpark.donga.com/mp/b.php?id=202610190119531832&p=1&b=kbotown&m=view&select=spf&query=%EB%91%90%EC%82%B0&site=donga.com",
+  "title": "김태룡 전 단장 \"지금이 변화를 줄 타이밍\"",
+  "published_at": "2026-10-19T02:38:26.414Z",
+  "collected_at": "2026-10-19T07:38:26.414Z",
+  "summary_ko": "",
+  "excerpt": "... ... SSG랜더스필드 최광야구 직관 후기.jpg. 2. 오스틴 법규 영상 찾아봤어요. 3. 오랜만입니다. 4. 타이거즈…",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

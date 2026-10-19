@@ -1,0 +1,32 @@
+{
+  "id": "youtube-5a9b37bd",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "youtube",
+  "source_name": "크보판",
+  "url": "https://www.youtube.com/watch?v=F2ZPlCCN7Xk",
+  "title": "두산 베어스,  손아섭 등 11명 방출 ㄷㄷ",
+  "published_at": "2026-10-19T07:23:16Z",
+  "collected_at": "2026-10-19T07:38:26.414Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 5074,
+    "likes": 87,
+    "comments": 6
+  },
+  "scores": {
+    "hot": 59,
+    "relevance": 70
+  },
+  "sentiment": "negative",
+  "also_in": [
+    {
+      "source_name": "부산일보",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1uV3E2UlF5TmZuR3RJeVB1dWlaMWdlcThHd3hvV3dOWkVtYUR6M3pabVpfbkthTm5NTHJIRjVVRFR3S2pzVGdjaGNFSlFocTFZY0FCdFp3SVluWTFyMThXd1NYZFJMOGhUN3lDNU8wLTBDWjRO?oc=5"
+    }
+  ]
+}

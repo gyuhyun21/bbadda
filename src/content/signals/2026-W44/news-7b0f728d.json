@@ -1,0 +1,89 @@
+{
+  "id": "news-7b0f728d",
+  "issue": "2026-W44",
+  "module": "league",
+  "teams": [],
+  "source_type": "news",
+  "source_name": "싱글리스트",
+  "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9zODFuY1RXOGUzWENDMldFQXdjZU82NGN5UE1qaERPTlltV055ZGFMZVlGWFpYZEpZLUY2VVhTbjhXNGhSOEZHUTd5TnVmNkpjWXBMTHVWM1hscDA5bDFRZng4UWpxQQ?oc=5",
+  "title": "농심, KBO 포스트시즌 결승타 선수에 '오늘의 타격감상' 시상",
+  "published_at": "2026-10-18T23:50:47.000Z",
+  "collected_at": "2026-10-19T07:38:26.414Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 97,
+    "relevance": 30
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "한국정경신문",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE14VENJdkhYajZKWWF1bHpMM3cxdUYwaEJoUDh6VHBWMF9NWEpYb2JkUFRqek9kSm5xd29MV1R3alJGeUVBODEyLUtncjhiWDd2WUE?oc=5"
+    },
+    {
+      "source_name": "일간투데이",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5XTmVFYXloN3ZxWlJURU10bjc1RFA2ZG5ydEdwZUlNYzYwWVZwREplVnpkRi1qYmtqeFRKSjVfM3VYWEZZSUVsWUFlZllvWFhBOFhCUjRqalZxaVJfOVFNTE0tMWFPcXJOakNB?oc=5"
+    },
+    {
+      "source_name": "팍스경제TV",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5sdVhnREJ6ckFvQ2VnUzlBNkEyeHlxQnQxOHJ1UENsd1RzX0w2enFmNVlZc1R2cmRicGlnVDY5SjFiYVBMVlI5WXZiLVg2SzZST0pveUNnOEl6RFRZcXdOb3hXbjRZWHc?oc=5"
+    },
+    {
+      "source_name": "전자신문",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBYX3FtYnFDSy0tRDd4dHR3UWxEYkxrakRINl9EcVRWUnh1SDVZMEJ1YnNVSG82MENIaXVsRFpVMWNRcy1sNlpVbF9YZlY4QQ?oc=5"
+    },
+    {
+      "source_name": "서울뉴스통신",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ZVlFNU1NzR2hnS0VmeVdzd3R2b3U2SldXdlNOSkJwOFRMVWozY3hhaUxqbmQxdklvYVA2WVVOT3ZMeGkzVlh5X2h4aDMydlZqbTVDMGNlQXp0MDhTUG9MdWs2Q1g5VnNoamxn?oc=5"
+    },
+    {
+      "source_name": "로이슈",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9mSmx6MDhBRktLbVhhT0FadnJwQXJJUVdROU1TUWFhRkJlU1NWa0pEVTJBVTFOSGs5UGRkNkZid0NSS25NcURVRFVpMXJHcmc5b0tsUmpCZGFTVTg5Vk5RalpIRVdjWlFGbWtCWWpJQlBPR0JjUmxSM1BB?oc=5"
+    },
+    {
+      "source_name": "브릿지경제",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5IU2pmRWl6dkI5Vm9oVnVCd0RkWUZBVVhlSHBmblRZVXpZV2ZDSFRoeEczbHZldzA2d3NmSkE5bDNNMERGOEY5VDhyYlUwRkJjNkZDeEJSQl9Hdw?oc=5"
+    },
+    {
+      "source_name": "넥스트데일리",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9URDdPSkZzZ3BOQmhrSTExMnRRdDZXRUl3TE9Na3J0RnhKQWVwZVk5Tmg4NEYyRU03ZjFoa3EwNXpPT01LLUlXY1NYZndnbVprV2QwR2RhWnhuOWlCMlJiZDBmdXd3UVZGekY3NTJ4WdIBc0FVX3lxTE0wT1Z3RjJsemE0T1NPcGlhdVp5aWV5Z3ViMmVTSWgzRHlHT1gtU29JY3BqR2xZY2h2UjJCRjNsX1ZWdE9iSlJjYmlxckVoU1FvSXAyd29yMXdvUkZ1YkVfYk1Ua1dDQnViaktqTktUbzhzUk0?oc=5"
+    },
+    {
+      "source_name": "스마트경제",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBnUTloZTBmLUtGa3gyMTVROXZsb185TUxMRTB6dkZpclYyT0JTZ1BiUkhrSU9oTDZ6SUV3R0ZpZl9vSk5XRjZYSnRFa2tLREtGQ3VPZEdVb1hOeWpBNlRiSXdzQlpjYzhBN3FOX05QYkU?oc=5"
+    },
+    {
+      "source_name": "나눔경제뉴스",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Pb0lVVlJQMnFIa1hpUkxNU3gwaEJQUFFhQWJ2UGVCdUFEM0xjNzgwdnYyYi10MVlVRHBwVUNZTW5JQ3FfSHRGNFRGUEJXTFMxemdXZEJ3eE8tWGg2QUd2amZhT2RfaXZQTUttUw?oc=5"
+    },
+    {
+      "source_name": "오늘경제",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE54eDhtWkxTZnQzdWFwLUgxaWNmX21tUmJMMWdmZ1pkdF9JU0hTR2NLd051YlNVazZpS0FFUE1zVXFtOG93NmhURzJuTUJIbkxMdE41c2RVWHg5Z1BkU2Z4TkdBNDh3bnVfNDVRdzJqWnZzWjA?oc=5"
+    },
+    {
+      "source_name": "메트로신문",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9xVGI0YlpzWVlPRjVhenR5VUtpRkM0dmU2Xzg4MWdjMlpoX3JhSnZxY2xjOXpKT19UQ2VmQW5XckF2SlJ5NVZsQUNGZWk3aXJGMlZoek5GdUZmWHV4TVZwaQ?oc=5"
+    },
+    {
+      "source_name": "뉴스로드",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE52V0M2LVg5UHpVLU5ycEFfS3JWOGoxVE9UaTExaDZjTkRIY280U2taa1M1SmNIYTlMNHA3MmFvempielRhVk5Fb1dpNlBqeVhnY3paY00tNUZZMEVjeUpvaFFQOGdQTkRaWkhPU9IBb0FVX3lxTE1aZmQ3bUI5TlBYelpJRkR3Wi1lcDNNaVNQNXRfVm9wNkhzWjVPSU5NMGllQm1uaTR4T3FhcXJuVEdxbnNlemRfemhsMDRESGZvTWJOWDNQSmZyOVpxMzhGTnhNem0zQjlTem1hRGtqQQ?oc=5"
+    },
+    {
+      "source_name": "핀포인트뉴스",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA3VFZPWHpNVzdDamNiSVRBblUxWWpBcV91M2p5QURZbHlzNklQUGdPZW9IazBiZG5KRnkzeHNOZTluVTJmR1N3LUxYcVFyX3NaLXIxZ2tTSHZZWUNZcFBDQ2lHSjFPcVl2Qzh3Q251SndTUUHSAXdBVV95cUxQWnA4SlBoS3doWW5QclFwQzJCaExLMzlabW8yWW9FbWR3M3lvUk05RE5ieGZib0xrTktQVldpSEJ5WGp2X1h6c1pOekNBZTBxTUFaeXhhYVNUcTJ4TWQ1SzMxNDVLamx5NVlSb3JxY0MtOTdiTU5BVQ?oc=5"
+    },
+    {
+      "source_name": "뉴스락",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9oajd6STY5NDU4dk5SZkxZOXVfdklXeVNNYUpxeFZub2tQcGdadnBhTFdSREY0MFJ6aktJaGl4cExpM2tfVE9QaF9fXzUwdnV1aW8wckVhSDVGT1ZXRWlmUnNDYXNHcHhHRGJyOQ?oc=5"
+    },
+    {
+      "source_name": "푸드투데이",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE03QXZ6NFExb3o1cE5XTm5KMEYtc0xWdzcwQzNzWm1FYkU1ajMxS0FOSWJiS2VDckpUWWJFcWVMUXBnRHdzMlBqSnBBRzZoNm5tQnZWZlhQbU9LTXI0QVZQcHZ0dWQ4QQ?oc=5"
+    },
+    {
+      "source_name": "파이낸셜신문",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1odHpiVHJpZllDclQ3TmctMWs0SFVZWVhIUjNWY3RMcnVRVzdiZG85QWNxVmNoblZsekowSkxpZ2ZHTDZGakc1bmZIZmM5UENKZEJVVUJ4bmlENVJGbVdhZTM2eUF1ZmJOYk5N?oc=5"
+    }
+  ]
+}

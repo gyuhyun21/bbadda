@@ -1,0 +1,36 @@
+{
+  "id": "youtube-4bccdc28",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "youtube",
+  "source_name": "인사이트스포츠",
+  "url": "https://www.youtube.com/watch?v=BNNXTtqIj4M",
+  "title": "두산 베어스 16년 만의 단장 교체 이유는? 김태룡 퇴진·정재훈 신임 단장 총정리",
+  "published_at": "2026-10-19T05:27:43Z",
+  "collected_at": "2026-10-19T07:38:26.414Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 669,
+    "likes": 11,
+    "comments": 4
+  },
+  "scores": {
+    "hot": 52,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPOW5VYmliUjFpVmxiSEJQQjFQSmh5TTdTU0Z3bnB5ejdjaWViU1ZTOTRrc1RpUU1DSFN0NWRtYVNPTWd3UHpfa2poaGtaQUY1M0ZuR3lxT19GZ0NXMDZwR2FlMi02by0tdGloT3dvS204VWMtdXhyQ3ZpZWFsZjVuYzNkdw?oc=5"
+    },
+    {
+      "source_name": "한겨레",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1jZXk2NXFLLTNJaTNSU0dTazJoUEdWemlNRmg2Z0NaQ3l6b2JUVi1FeXpVSkpuc1lWLWxMdzZ3Tlo4MERnQlBiQzJTclRxNmlfVmlSYlRWSVFZTThGSlVuRjhYdS1lMms?oc=5"
+    }
+  ]
+}

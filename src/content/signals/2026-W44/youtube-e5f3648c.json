@@ -1,0 +1,26 @@
+{
+  "id": "youtube-e5f3648c",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "youtube",
+  "source_name": "오늘의 스포츠KBO",
+  "url": "https://www.youtube.com/watch?v=Xl4-mMhiIvw",
+  "title": "🚨 [긴급] 롯데 자이언츠, 2027 육성선수 8명 전격 영입!...무명 대학 유망주들이 사직의 미래를 뒤흔들 숨은 카드로 떠올랐다!",
+  "published_at": "2026-10-19T03:21:04Z",
+  "collected_at": "2026-10-19T07:38:26.414Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1231,
+    "likes": 23,
+    "comments": 3
+  },
+  "scores": {
+    "hot": 54,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

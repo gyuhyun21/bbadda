@@ -1,0 +1,27 @@
+{
+  "id": "youtube-db03a14c",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "야구몰라욪",
+  "url": "https://www.youtube.com/watch?v=M_guxP2onaM",
+  "title": "엘지vs기아 준플 1,2차전 리뷰  #엘지트윈스 #기아타이거즈 #야구 #네일아트 #올러 #도.끼. #짜증나",
+  "published_at": "2026-10-19T02:41:05Z",
+  "collected_at": "2026-10-19T07:38:26.414Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 993,
+    "likes": 4,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 39,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

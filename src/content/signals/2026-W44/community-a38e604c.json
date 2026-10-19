@@ -1,0 +1,24 @@
+{
+  "id": "community-a38e604c",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 알럽스포츠",
+  "url": "https://rachacha.tistory.com/278",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/DNTiNJPkHvB",
+  "title": "야구 도루 성공률, 가장 잘 통하는 순간은 언제일까",
+  "published_at": "2026-10-19T15:03:22.000+09:00",
+  "collected_at": "2026-10-19T07:38:26.414Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "news-f14fe178",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "news",
+  "source_name": "디트NEWS24",
+  "url": "https://www.dtnews24.com/news/articleView.html?idxno=816175",
+  "title": "‘꾀돌이’ 류지현 시대 맞은 한화이글스의 2027시즌",
+  "published_at": "2026-10-19T02:23:33.000Z",
+  "collected_at": "2026-10-19T07:38:26.414Z",
+  "summary_ko": "디트NEWS24가 류지현 감독을 맞은 한화의 2027시즌을 전망하는 기사를 냈다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

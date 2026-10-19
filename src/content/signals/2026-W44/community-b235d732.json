@@ -1,0 +1,23 @@
+{
+  "id": "community-b235d732",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 레우스 스포츠",
+  "url": "https://blog.naver.com/borussenreus/224446475909",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/CtvPamCi1Ue",
+  "title": "“김태형 재계약 VS 교체” 롯데 감독 홍성흔 양상문 올까?",
+  "published_at": "2026-10-19T13:26:00.000+09:00",
+  "collected_at": "2026-10-19T07:38:26.414Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

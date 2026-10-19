@@ -1,0 +1,23 @@
+{
+  "id": "community-104b4fcb",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 북경중국어교습소의 블로그",
+  "url": "https://blog.naver.com/godofgambler/224446451226",
+  "title": "한국야구사에서 150m 홈런을 제일 많이 친 타자는 김우열",
+  "published_at": "2026-10-19T13:03:00.000+09:00",
+  "collected_at": "2026-10-19T07:38:26.414Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}
