@@ -25,7 +25,13 @@ const teams = all.sort((a, b) => TEAMS.findIndex((t) => t.id === a.team) - TEAMS
       {teams.map((t) => <button type="button" class="cheer-tchip" data-cheer-team={t.team} aria-pressed="false">{t.logo && <img src={t.logo} alt="" width="22" height="22" />}{t.nick}<em class="cheer-my" hidden>MY</em></button>)}
     </div>
 
-    <section class="cheer-main" data-cheer-main>
+    <div class="cheer-guide" data-cheer-guide hidden>
+      <p class="cheer-guide-title">MY팀을 선택하세요</p>
+      <p class="cheer-guide-text">MY팀을 고르면 응원가 연습이 그 팀으로 바로 열려요. 위 구단을 눌러 둘러볼 수도 있어요.</p>
+      <button type="button" class="cheer-guide-btn" data-cheer-pickmy>MY팀 고르기</button>
+    </div>
+
+    <section class="cheer-main" data-cheer-main hidden>
       <div class="cheer-team"><span class="cheer-team-name" data-cheer-name></span></div>
 
       <div class="cheer-player">
@@ -80,6 +86,7 @@ const teams = all.sort((a, b) => TEAMS.findIndex((t) => t.id === a.team) - TEAMS
   let cur = -1;
   let repeat = false;
   let slow = false;
+  let armed = false; // 지금 곡이 실제로 재생을 시작했는지
   let yt: YTPlayer | undefined;
   let ytReady: Promise<void> | undefined;
 
@@ -107,15 +114,19 @@ const teams = all.sort((a, b) => TEAMS.findIndex((t) => t.id === a.team) - TEAMS
   function onState(state: number) {
     $('[data-cheer-toggle]').classList.toggle('is-playing', state === 1);
     $('[data-cheer-toggle]').setAttribute('aria-label', state === 1 ? '일시정지' : '재생');
-    if (state === 0 && cur >= 0) play(repeat ? cur : cur + 1 < part().items.length ? cur + 1 : cur, !repeat && cur + 1 >= part().items.length);
+    if (state === 1) armed = true;
+    // 구간 끝(endSeconds)에서 '끝' 신호가 두 번 오는 때가 있다 — 재생이 시작된 뒤 첫 신호에서만 넘긴다(한 칸씩 건너뛰던 문제)
+    if (state !== 0 || cur < 0 || !armed) return;
+    armed = false;
+    if (repeat) play(cur);
+    else if (cur + 1 < part().items.length) play(cur + 1);
   }
 
-  async function play(i: number, stop = false) {
+  async function play(i: number) {
     if (!yt) await loadYT();
-    cur = i;
+    cur = i; armed = false;
     const it = part().items[i];
     yt!.loadVideoById({ videoId: part().video, startSeconds: it.start, endSeconds: endOf(i) });
-    if (stop) yt!.pauseVideo();
     yt!.setPlaybackRate(slow ? 0.75 : 1);
     $('[data-cheer-now]').textContent = `${it.name}${kind === 'players' ? ' 응원가' : ''}`;
     root.querySelectorAll('[data-cheer-row]').forEach((r, k) => r.classList.toggle('is-current', k === i));
@@ -140,6 +151,8 @@ const teams = all.sort((a, b) => TEAMS.findIndex((t) => t.id === a.team) - TEAMS
   function open(id: string) {
     team = teams.find((t) => t.team === id);
     if (!team) return;
+    $('[data-cheer-guide]').hidden = true;
+    $('[data-cheer-main]').hidden = false;
     root.querySelectorAll<HTMLElement>('[data-cheer-team]').forEach((b) => {
       b.setAttribute('aria-pressed', String(b.dataset.cheerTeam === id));
       if (b.dataset.cheerTeam === id) { const strip = b.parentElement!; strip.scrollLeft = b.offsetLeft - strip.offsetLeft - 16; }
@@ -171,11 +184,23 @@ const teams = all.sort((a, b) => TEAMS.findIndex((t) => t.id === a.team) - TEAMS
   $('[data-cheer-repeat]').addEventListener('click', (e) => { repeat = !repeat; (e.currentTarget as HTMLElement).setAttribute('aria-pressed', String(repeat)); });
   $('[data-cheer-slow]').addEventListener('click', (e) => { slow = !slow; (e.currentTarget as HTMLElement).setAttribute('aria-pressed', String(slow)); yt?.setPlaybackRate(slow ? 0.75 : 1); });
 
-  // 기본은 MY팀(없으면 첫 구단). 위 구단 줄로 MY팀을 바꾸지 않고 다른 팀 응원가를 본다
-  const my = store.get('bbadda:myTeam');
-  const myChip = root.querySelector<HTMLElement>(`[data-cheer-team="${my}"]`);
-  if (myChip) { myChip.querySelector('.cheer-my')?.removeAttribute('hidden'); myChip.parentElement!.prepend(myChip); }
-  open(my && teams.some((t) => t.team === my) ? my : teams[0].team);
+  // 기본은 MY팀. 없으면 MY팀 고르기 안내(위 구단 줄로 둘러보기는 가능). 다른 구단을 봐도 MY팀은 그대로
+  function markMy() {
+    const my = store.get('bbadda:myTeam');
+    root.querySelectorAll<HTMLElement>('.cheer-my').forEach((e) => (e.hidden = true));
+    const chip = root.querySelector<HTMLElement>(`[data-cheer-team="${my}"]`);
+    if (chip) { chip.querySelector<HTMLElement>('.cheer-my')!.hidden = false; chip.parentElement!.prepend(chip); }
+    return chip ? my! : null;
+  }
+  const my = markMy();
+  if (my) open(my);
+  else $('[data-cheer-guide]').hidden = false;
+  // 안내의 'MY팀 고르기' → 머리말 MY팀 창을 연다. 거기서 고르면 바로 그 팀 응원가
+  $('[data-cheer-pickmy]').addEventListener('click', (e) => { e.stopPropagation(); scrollTo({ top: 0, behavior: 'smooth' }); document.querySelector<HTMLButtonElement>('[data-myteam-toggle]')?.click(); });
+  document.addEventListener('click', (e) => {
+    if (!(e.target as Element).closest('[data-pick-team]')) return;
+    setTimeout(() => { const m = markMy(); if (m) open(m); }, 0);
+  });
 </script>
 
 <style is:global>
@@ -189,6 +214,12 @@ const teams = all.sort((a, b) => TEAMS.findIndex((t) => t.id === a.team) - TEAMS
   .cheer-tchip:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
   .cheer-my { padding: 2px 5px; border-radius: 5px; background: #FFD43B; color: #1D1D1F; font-size: 10px; font-style: normal; font-weight: 800; }
   .cheer-my[hidden] { display: none; }
+  .cheer-guide { margin-top: 18px; padding: 28px 24px; border-radius: 22px; background: #1D1D1F; color: #fff; text-align: center; }
+  .cheer-guide[hidden], .cheer-main[hidden] { display: none; }
+  .cheer-guide-title { margin: 0; font-size: 20px; font-weight: 800; }
+  .cheer-guide-text { margin: 8px 0 16px; font-size: 14px; color: #C9C9CE; }
+  .cheer-guide-btn { height: 40px; padding: 0 20px; border: 0; border-radius: 999px; background: #FFD43B; color: #1D1D1F; font: 800 14px/1 var(--font); cursor: pointer; }
+  .cheer-guide-btn:focus-visible { outline: 2px solid #fff; outline-offset: 2px; }
   .cheer-team { display: flex; align-items: baseline; justify-content: space-between; gap: 12px; margin: 20px 0 12px; }
   .cheer-team-name { font-size: 18px; font-weight: 800; }
   .cheer-player { display: grid; gap: 14px; padding: 14px; border-radius: 22px; background: #1D1D1F; color: #fff; box-shadow: 0 10px 28px rgba(29, 29, 31, 0.25); }
