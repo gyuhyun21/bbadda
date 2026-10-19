@@ -126,3 +126,4 @@ h2 { margin-top: 40px; font-size: 64px; line-height: 1.15; font-weight: 800; let
 
 /* 한국어 줄바꿈: 어절 단위(keep-all) + 제목은 줄 길이 균형 */
 h1, h2, .stat-line, .n-item b, .points li, .facts li { text-wrap: balance; }
+.masc.static { position: static; justify-content: center; margin-top: 60px; }
