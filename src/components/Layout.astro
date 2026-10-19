@@ -6,8 +6,8 @@ import '../styles/soft.css';
 import OfficialLinks from './OfficialLinks.astro';
 import TeamPickChip from './TeamPickChip.astro';
 import Analytics from '@vercel/analytics/astro';
-import { siteLayout, articleModal, brandLogo } from '../lib/config.ts';
-import { SITE_NAME, TEAMS, teamColor } from '../lib/site.ts';
+import { siteLayout, articleModal, brandLogo, revisit } from '../lib/config.ts';
+import { SITE_NAME, TEAMS, teamColor, loadAll, BUILD_TIME } from '../lib/site.ts';
 interface Props { title?: string; description?: string; sample?: boolean; searchable?: boolean; image?: string }
 // searchable=false: 같은 내용이 호 페이지에 있어 검색 결과가 겹치는 페이지(메인)는 색인에서 뺀다
 const { title, description = 'KBO 10개 구단 팀별 소식을 매일·매주 모아 요약하는 팬 매거진', sample = false, searchable = true, image = '/og/league.png' } = Astro.props;
@@ -23,6 +23,8 @@ const layout = siteLayout();
 const modal = articleModal(); // config/site.yaml article_modal (환경변수 SITE_MODAL 우선) // config/site.yaml layout (환경변수 SITE_LAYOUT 우선)
 // 내 팀 전용 블록은 CSS 로 미리 보이게 해서 화면이 깜빡이지 않게 한다
 // 내 팀 타일은 '10개 구단 한눈에'에서 맨 앞으로
+// 지난 방문 이후 새 소식(revisit): 최근 3일 요약 글의 주소 → [수집 시각, 팀]. 방문 시각은 이 기기 localStorage 에만
+const freshMap = revisit() ? Object.fromEntries((await loadAll()).signals.filter((x) => x.summary_ko && Date.parse(x.collected_at) > BUILD_TIME - 3 * 86400_000).map((x) => [x.url, [Date.parse(x.collected_at), x.teams.join(' ')]])) : null;
 const myTeamCss = TEAMS.map((t) => `html[data-my-team="${t.id}"] [data-myteam-block="${t.id}"]{display:block}html[data-my-team="${t.id}"] [data-team-tile="${t.id}"]{order:-1;box-shadow:0 0 0 2px var(--ink)}`).join('');
 ---
 <!doctype html>
@@ -75,7 +77,7 @@ const myTeamCss = TEAMS.map((t) => `html[data-my-team="${t.id}"] [data-myteam-bl
         </form>
         <div class="myteam">
           <button type="button" class="myteam-btn" data-myteam-toggle aria-expanded="false" aria-controls="myteam-panel">
-            <span class="team-dot" data-myteam-dot aria-hidden="true"></span><span data-myteam-label>MY팀 고르기</span>
+            <span class="team-dot" data-myteam-dot aria-hidden="true"></span><span data-myteam-label>MY팀 고르기</span>{freshMap && <span class="mt-new" data-myteam-new hidden></span>}
           </button>
           <div class="myteam-panel" id="myteam-panel" hidden>
             <p class="small">MY팀을 고르면 그 팀 소식이 맨 위에 옵니다. 이 기기에만 저장됩니다.</p>
@@ -369,6 +371,31 @@ const myTeamCss = TEAMS.map((t) => `html[data-my-team="${t.id}"] [data-myteam-bl
           if (label) { label.textContent = '주소 복사됨'; setTimeout(() => (label.textContent = old ?? '공유'), 1600); }
         } catch {}
       }));
+    </script>
+    {freshMap && <script type="application/json" id="fresh-map" set:html={JSON.stringify(freshMap)} />}
+    <script>
+      // 지난 방문 이후 새 소식: 이번 방문의 기준 시각은 탭을 닫을 때까지 유지(sessionStorage), 다음 방문용 시각은 매번 갱신. 첫 방문은 표시 없음
+      const src = document.getElementById('fresh-map');
+      if (src) {
+        const map = JSON.parse(src.textContent ?? '{}') as Record<string, [number, string]>;
+        let base = 0;
+        try {
+          let b = sessionStorage.getItem('bbadda:base');
+          if (b === null) { b = localStorage.getItem('bbadda:lastSeen') ?? ''; sessionStorage.setItem('bbadda:base', b); }
+          localStorage.setItem('bbadda:lastSeen', String(Date.now()));
+          base = Number(b) || 0;
+        } catch {}
+        const fresh = base ? Object.keys(map).filter((u) => map[u][0] > base) : [];
+        if (fresh.length) {
+          const set = new Set(fresh);
+          document.querySelectorAll<HTMLAnchorElement>('a[href]').forEach((a) => { if (set.has(a.getAttribute('href') ?? '') && a.tabIndex !== -1 && a.textContent?.trim()) a.classList.add('is-fresh'); });
+          document.querySelectorAll<HTMLElement>('[data-fresh-count]').forEach((el) => { el.textContent = `지난 방문 이후 새 소식 ${fresh.length}개`; el.hidden = false; });
+          const my = document.documentElement.dataset.myTeam;
+          const n = my ? fresh.filter((u) => map[u][1].split(' ').includes(my)).length : 0;
+          const bubble = document.querySelector<HTMLElement>('[data-myteam-new]');
+          if (bubble && n) { bubble.textContent = String(n); bubble.title = `MY팀 새 소식 ${n}개`; bubble.hidden = false; }
+        }
+      }
     </script>
     {analytics && <Analytics />}
   </body>

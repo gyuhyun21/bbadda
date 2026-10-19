@@ -739,3 +739,29 @@ html .about-compact h1.page-title { font-size: 22px; letter-spacing: -0.01em; ma
 .ps-side.is-out .ps-side-wins { font-size: 12px; font-weight: 600; color: var(--muted); text-decoration: none; }
 .ps-side.is-out { text-decoration: none; }
 .ps-side.is-out .ps-side-name { text-decoration: line-through; text-decoration-color: rgba(0,0,0,0.25); }
+/* 승부예측 결과(revisit) */
+.ps-myrec { margin: 12px 0 0; font-size: 13px; color: #C9C9CE; }
+.ps-myrec-sum { margin: 0; display: flex; flex-wrap: wrap; align-items: center; gap: 4px 10px; }
+.ps-myrec-sum strong { color: #fff; font-weight: 800; }
+.ps-myrec-btn { margin-left: auto; padding: 5px 12px; border: 1px solid rgba(255,255,255,0.25); border-radius: 999px; background: transparent; color: #fff; font: 700 12px/1.2 var(--font); cursor: pointer; }
+.ps-myrec-btn:focus-visible { outline: 2px solid #FFD43B; outline-offset: 2px; }
+.ps-myrec-list { list-style: none; margin: 10px 0 0; padding: 0; display: grid; gap: 6px; }
+.ps-myrec-list li { display: grid; grid-template-columns: 66px 1fr auto; grid-template-areas: 'badge t s' 'badge p p'; align-items: center; gap: 2px 10px; padding: 8px 12px; border-radius: 12px; background: rgba(255,255,255,0.06); }
+.ps-myrec-t { grid-area: t; color: #fff; font-weight: 600; }
+.ps-myrec-s { grid-area: s; font-weight: 700; color: #E5E5EA; white-space: nowrap; }
+.ps-myrec-p { grid-area: p; font-size: 12px; color: #A1A1A6; }
+.ps-myrec-p:empty { display: none; }
+/* 적중·실패·미참여 배지: 도형(채운 원+체크 / 원+엑스 / 점선 원) + 글자 */
+.ps-badge { grid-area: badge; display: inline-flex; align-items: center; gap: 5px; font-size: 12px; font-weight: 800; }
+.ps-badge::before { content: ''; flex: none; width: 16px; height: 16px; border-radius: 50%; box-sizing: border-box; background-position: center; background-repeat: no-repeat; background-size: 10px; }
+.ps-badge.is-hit { color: #2BD576; }
+.ps-badge.is-hit::before { background-color: #2BD576; background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 10 10'%3E%3Cpath d='M2 5.2 4.2 7.3 8 3' fill='none' stroke='%231D1D1F' stroke-width='1.8' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E"); }
+.ps-badge.is-miss { color: #FF5A5F; }
+.ps-badge.is-miss::before { border: 2px solid #FF5A5F; background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 10 10'%3E%3Cpath d='M3 3l4 4M7 3 3 7' stroke='%23FF5A5F' stroke-width='1.8' stroke-linecap='round'/%3E%3C/svg%3E"); background-size: 8px; }
+.ps-badge.is-none { color: #8E8E93; }
+.ps-badge.is-none::before { border: 1.5px dashed #8E8E93; }
+/* 지난 방문 이후 새 소식(revisit) */
+a.is-fresh::before { content: 'NEW'; display: inline-block; margin-right: 6px; padding: 1px 6px; border-radius: 6px; background: #E0002A; color: #fff; font-size: 10px; font-weight: 800; line-height: 1.5; vertical-align: 2px; letter-spacing: 0.02em; }
+.edition-fresh { margin: 8px 0 0; font-size: 13px; font-weight: 700; color: #E0002A; }
+.mt-new { display: inline-grid; place-items: center; min-width: 18px; height: 18px; margin-left: 6px; padding: 0 5px; border-radius: 999px; background: #E0002A; color: #fff; font-size: 11px; font-weight: 800; line-height: 1; }
+.mt-new[hidden] { display: none; }
