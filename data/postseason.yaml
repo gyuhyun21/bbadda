@@ -52,17 +52,27 @@ rounds:
       - no: 2
         date: 2026-10-18
         venue: 광주
-        starters: { lg: 임찬규, kia: 올러 } # 예고 선발
-        starter_notes: { lg: "시즌 15승 공동 다승왕", kia: "올해 LG전 2승 1패 · ERA 2.40" }
+        result: { kia: 6, lg: 3 } # 수집 당시 제목 '5-2'는 뉴시스가 이후 6-3 으로 고침(2026-10-19 확인)
+        source: "https://www.newsis.com/view/NISX20261018_0003830589" # 결과·선발·승패·데일리 MVP
+        starters: { lg: 임찬규, kia: 올러 }
+        win: 올러
+        loss: 임찬규
+        mvp: "전상현(KIA)"
+        attendance: "매진"
+        sources: ["https://mobile.newsis.com/view_amp.html?ar_id=NISX20261018_0003830235"] # 2차전 만원(매진)
+      - no: 3
+        date: 2026-10-20
+        venue: { home_of: wc }
+        starters: { lg: 카라스코, kia: 시라카와 } # 예고 선발
+        starter_notes: { lg: "WC 1차전 6이닝 1실점 승", kia: "올해 LG전 1패 · ERA 7.71" }
         facts:
-          - "역대 준PO 1차전 승리 팀 PO 진출 12/17회"
-          - "정규시즌 상대전적 KIA 9승 7패"
-          - "임찬규 포스트시즌 3연승 중"
+          - "준PO 1·2차전 승리 팀 PO 진출 7/9회(5전 3선승제)"
+          - "KIA 1승 더하면 2년 만의 PO 진출"
         sources:
-          - "https://www.nocutnews.co.kr/news/6592924" # 예고 선발·시즌 성적·임찬규 PS 3연승
-          - "https://www.mydaily.co.kr/page/view/2026101716204260108" # 1차전 승리 팀 12/17
-          - "https://www.nocutnews.co.kr/news/6591731" # 정규시즌 KIA 9승 7패
-      - { no: 3, date: 2026-10-20, venue: { home_of: wc } }
+          - "https://www.newspim.com/news/view/20261018000126" # 시라카와 예고·시즌·LG전 성적
+          - "https://www.etoday.co.kr/news/view/2637096" # 카라스코 예고
+          - "https://isplus.com/article/view/isp202610150109" # 카라스코 WC 1차전
+          - "https://www.newsis.com/view/NISX20261018_0003830589" # 1·2차전 승리 팀 7/9, 2년 만의 PO
       - { no: 4, date: 2026-10-21, venue: { home_of: wc } }
       - { no: 5, date: 2026-10-23, venue: 광주 }
   - id: po
