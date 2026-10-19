@@ -1,0 +1,92 @@
+# 인스타 자동 게시(하루 최대 3번): 루틴이 콘텐츠를 main 에 머지하면 그 시간대 세트(아침·경기 전·경기 후, 5장)를 만들어 게시한다.
+# 1) build: scripts/insta/build.ts → 크롬으로 JPEG → insta-media 브랜치 <key>/ 에 올림(공개 주소). 조건이 안 맞거나 이미 게시한 key 면 건너뜀
+# 2) publish: environment 'instagram'(필수 승인자 = 저장소 주인). 승인하면 게시, 게시 기록을 insta-media 에 남김
+# 수동 실행: kind(auto|morning|pregame|postgame), date(YYYY-MM-DD, 지난 세트 다시 만들기), dry_run(true 면 만들기만)
+name: ig-auto
+on:
+  push:
+    branches: [main]
+    paths: ['src/content/**', 'data/postseason.yaml']
+  workflow_dispatch:
+    inputs:
+      kind: { description: 'auto | morning | pregame | postgame', default: auto }
+      date: { description: '날짜(비우면 오늘, KST)', default: '' }
+      dry_run: { description: 'true 면 게시하지 않고 미리보기만', default: 'false' }
+concurrency: { group: ig-auto, cancel-in-progress: false }
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    outputs:
+      key: ${{ steps.make.outputs.key }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 22, cache: npm }
+      - run: npm ci
+      - name: 세트 만들기
+        id: make
+        env:
+          KIND: ${{ inputs.kind || 'auto' }}
+          INSTA_DATE: ${{ inputs.date }}
+        run: |
+          set -euo pipefail
+          [[ "$KIND" =~ ^(auto|morning|pregame|postgame)$ ]] || { echo "잘못된 kind"; exit 1; }
+          out=$(npx tsx scripts/insta/build.ts "$KIND" /tmp/set)
+          echo "$out" > /tmp/result.json
+          if jq -e .skip /tmp/result.json >/dev/null; then echo "건너뜀: $(jq -r .skip /tmp/result.json) ($(jq -r .kind /tmp/result.json))" | tee -a "$GITHUB_STEP_SUMMARY"; exit 0; fi
+          key=$(jq -r .key /tmp/result.json)
+          git fetch -q origin insta-media 2>/dev/null || true
+          if git cat-file -e "origin/insta-media:$key/published.json" 2>/dev/null; then echo "이미 게시함: $key" | tee -a "$GITHUB_STEP_SUMMARY"; exit 0; fi
+          echo "key=$key" >> "$GITHUB_OUTPUT"
+      - name: 그림 찍기(JPEG)
+        if: steps.make.outputs.key != ''
+        run: |
+          set -euo pipefail
+          sudo apt-get -qq install -y fonts-noto-cjk >/dev/null
+          mkdir -p /tmp/img
+          for s in 1 2 3 4 5 story; do
+            h=1350; [ "$s" = story ] && h=1920
+            google-chrome --headless=new --no-sandbox --hide-scrollbars --allow-file-access-from-files --window-size=1080,$h --virtual-time-budget=3000 --screenshot=/tmp/img/$s.png "file:///tmp/set/index.html?s=$s" >/dev/null 2>&1
+            convert /tmp/img/$s.png -quality 92 /tmp/img/$s.jpg
+          done
+      - name: insta-media 브랜치에 올리기
+        if: steps.make.outputs.key != ''
+        env:
+          KEY: ${{ steps.make.outputs.key }}
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"; git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git worktree add -q /tmp/media origin/insta-media 2>/dev/null || { git worktree add -q --orphan -b insta-media /tmp/media; }
+          cd /tmp/media
+          git checkout -q -B insta-media
+          mkdir -p "$KEY"; cp /tmp/img/*.jpg "$KEY/"
+          jq '{images: ["1.jpg","2.jpg","3.jpg","4.jpg","5.jpg"], caption}' /tmp/result.json > "$KEY/post.json"
+          git add "$KEY"; git commit -qm "insta: $KEY 세트"; git push -q origin insta-media
+          raw="https://raw.githubusercontent.com/${GITHUB_REPOSITORY}/insta-media/$KEY"
+          { echo "## $KEY"; for s in 1 2 3 4 5; do echo "<img src=\"$raw/$s.jpg\" width=\"180\">"; done; echo; echo "스토리: [story.jpg]($raw/story.jpg)"; echo; echo '```'; jq -r .caption /tmp/result.json; echo '```'; } >> "$GITHUB_STEP_SUMMARY"
+  publish:
+    needs: build
+    if: needs.build.outputs.key != '' && inputs.dry_run != 'true'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    environment: instagram
+    steps:
+      - uses: actions/checkout@v4
+      - name: 게시
+        env:
+          TOKEN: ${{ secrets.INSTAGRAM_PAGE_TOKEN }}
+          IG: ${{ vars.INSTAGRAM_USER_ID }}
+          KEY: ${{ needs.build.outputs.key }}
+        run: |
+          set -euo pipefail
+          git fetch -q origin insta-media
+          if git cat-file -e "origin/insta-media:$KEY/published.json" 2>/dev/null; then echo "이미 게시함"; exit 0; fi
+          git show "origin/insta-media:$KEY/post.json" > /tmp/post.json
+          res=$(bash scripts/insta/publish.sh "https://raw.githubusercontent.com/${GITHUB_REPOSITORY}/insta-media/$KEY" /tmp/post.json)
+          echo "게시: $res" | tee -a "$GITHUB_STEP_SUMMARY"
+          git config user.name "github-actions[bot]"; git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git worktree add -q /tmp/media origin/insta-media && cd /tmp/media && git checkout -q -B insta-media
+          echo "$res" > "$KEY/published.json"; git add "$KEY/published.json"; git commit -qm "insta: $KEY 게시"; git push -q origin insta-media
