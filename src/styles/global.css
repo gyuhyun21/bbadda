@@ -50,6 +50,11 @@ p { margin: 0 0 1em; }
 .brand span { color: var(--accent); }
 .nav { display: flex; flex-wrap: wrap; gap: 2px 20px; font-size: 14px; font-weight: 500; }
 .nav a { text-decoration: none; padding: 6px 0; border-bottom: 2px solid transparent; }
+/* 응원가 메뉴: 눈에 띄게(노란 알약 + 음표) */
+.nav a.nav-cheer { display: inline-flex; align-items: center; gap: 5px; padding: 5px 12px; border: 0; border-radius: 999px; background: #FFD43B; color: #1D1D1F; font-weight: 800; box-shadow: 0 2px 8px rgba(255, 196, 0, 0.45); }
+.nav a.nav-cheer svg { width: 14px; height: 14px; fill: none; stroke: currentColor; stroke-width: 2.4; stroke-linecap: round; stroke-linejoin: round; }
+.nav a.nav-cheer:hover { filter: brightness(1.05); }
+.nav a.nav-cheer[aria-current="page"] { box-shadow: inset 0 0 0 2px #1D1D1F; }
 .nav a:hover, .nav a[aria-current="page"] { border-bottom-color: var(--accent); color: var(--ink); }
 
 /* 공통 */
@@ -464,31 +469,9 @@ button.rail-more { font: inherit; background: none; border: 0; cursor: pointer; 
 .site-badge { display: grid; place-items: center; width: 52px; height: 52px; border-radius: 14px; background: var(--site); color: #fff; font: 800 14px/1 var(--font); letter-spacing: -0.02em; }
 
 /* 북마크 */
-.bm-menu { position: relative; align-self: center; }
-.bm-toggle { position: relative; width: 34px; height: 34px; border-radius: 50%; border: 0; background: transparent; color: var(--muted); cursor: pointer; display: grid; place-items: center; }
-.bm-toggle:hover, .bm-toggle[aria-expanded="true"] { color: var(--ink); background: rgba(0, 0, 0, 0.05); }
-.bm-toggle svg, .bm-btn svg { width: 17px; height: 17px; fill: none; stroke: currentColor; stroke-width: 1.8; stroke-linejoin: round; }
-.bm-count { position: absolute; top: 2px; right: 0; min-width: 15px; height: 15px; padding: 0 4px; border-radius: 999px; background: var(--accent); color: #fff; font: 700 10px/15px var(--font); }
-.bm-panel { position: absolute; right: 0; top: calc(100% + 8px); z-index: 60; width: min(92vw, 380px); max-height: 70vh; overflow: auto; background: #fff; border-radius: 16px; padding: 14px 16px; box-shadow: 0 12px 40px rgba(0, 0, 0, 0.16); }
-.bm-title { margin: 0 0 8px; font-weight: 700; }
-.bm-list { list-style: none; margin: 0; padding: 0; display: grid; }
-.bm-list li { display: grid; grid-template-columns: 1fr auto; gap: 2px 8px; padding: 10px 0; border-bottom: 1px solid #E8E8ED; }
-.bm-list li a { font-weight: 600; font-size: 14px; color: var(--ink); text-decoration: none; }
-.bm-list li span { grid-column: 1; font-size: 12px; color: var(--muted); }
-.bm-remove { grid-column: 2; grid-row: 1 / span 2; align-self: center; border: 0; background: none; color: var(--muted); cursor: pointer; font-size: 13px; }
-.bm-hint { margin: 10px 0 0; }
-.bm-hint kbd { font: inherit; font-size: 11px; border: 1px solid #D2D2D7; border-bottom-width: 2px; border-radius: 4px; padding: 0 4px; }
 /* 기사 옆 북마크 버튼: 평소엔 옅게, 저장하면 강조색으로 채움 */
-.bm-btn { border: 0; background: none; padding: 4px; margin: 0; cursor: pointer; color: #A1A1A6; line-height: 0; justify-self: end; }
-.bm-btn:hover { color: var(--ink); }
-.bm-btn[aria-pressed="true"] { color: var(--accent); }
-.bm-btn[aria-pressed="true"] svg { fill: currentColor; }
 .card { position: relative; }
-.card > .bm-btn { position: absolute; top: 10px; right: 10px; z-index: 2; background: rgba(255, 255, 255, 0.9); border-radius: 50%; padding: 7px; box-shadow: 0 1px 4px rgba(0, 0, 0, 0.12); }
 .rail-list li > div, .fan-body, .community-cards li > div { position: relative; }
-.rail-list li > div > .bm-btn, .fan-body > .bm-btn, .community-cards li > div > .bm-btn { position: absolute; right: -4px; bottom: -4px; }
-@media (hover: hover) { .card > .bm-btn:not([aria-pressed="true"]) { opacity: 0; transition: opacity 0.15s; } .card:hover > .bm-btn, .card > .bm-btn:focus-visible { opacity: 1; } }
-@media (max-width: 719px) { .bm-menu { position: static; } .bm-panel { left: var(--gutter); right: var(--gutter); width: auto; } }
 
 /* 왼쪽 섹션 바(넓은 PC 화면) */
 .side-nav { display: none; }
@@ -646,8 +629,6 @@ button.ps-round-btn:focus-visible { outline: 2px solid var(--accent); outline-of
 .ps-points li::before { content: ''; position: absolute; left: 0; top: 0.6em; width: 4px; height: 4px; border-radius: 50%; background: #FFD34D; }
 
 /* 홈 화면에 추가(저장한 소식 패널 안) */
-.install-btn { margin-top: 10px; width: 100%; height: 38px; border: 0; border-radius: 12px; background: var(--ink); color: #fff; font: 700 14px/1 var(--font); cursor: pointer; }
-.install-btn[hidden] { display: none; }
 
 /* MY팀: 칩·버튼에 구단 로고 */
 .team-chip-logo { width: 22px; height: 22px; object-fit: contain; flex: none; }

@@ -4,7 +4,6 @@
 // 같은 크기의 팀 컬러 카드(이니셜 + 출처)로 채워 줄이 가지런하게. 인스타그램 원래 사진은 모달의 공식 퍼가기 화면에서 본다.
 import { newsImages } from '../lib/config.ts';
 import TeamTags from './TeamTags.astro';
-import BookmarkButton from './BookmarkButton.astro';
 import { displayTitle, fmtDate, teamById, teamColor, youtubeId, SOURCE_LABEL } from '../lib/site.ts';
 import type { Signal } from '../lib/schemas.ts';
 interface Props { signal: Signal; showTeams?: boolean }
@@ -24,7 +23,6 @@ const team = s.team ? teamById.get(s.team) : undefined;
   <div>
     <a href={s.url} target="_blank" rel="noopener noreferrer">{displayTitle(s)}</a>
     <p>{s.summary_ko}</p>
-    <BookmarkButton signal={s} />
     <span class="rail-meta">{s.official ? '오피셜 · ' : ''}{s.source_name} · {fmtDate(s.published_at)}{showTeams && <TeamTags ids={s.teams} />}</span>
   </div>
 </li>

@@ -112,8 +112,6 @@
 
 /* 섹션 바·북마크 아이콘: 현재 섹션은 눌림, 북마크 아이콘은 볼록 */
 @media (min-width: 1360px) { .layout-soft .side-nav a[aria-current="true"] { background: var(--soft-bg); box-shadow: var(--press); } }
-.layout-soft .bm-toggle { background: var(--soft-bg); box-shadow: var(--raise-sm); }
-.layout-soft .bm-toggle[aria-expanded="true"] { box-shadow: var(--press); background: var(--soft-bg); }
 
 /* 팬 반응·Community: 글마다 바탕색과 같은 볼록 타일, 올리면 살짝 눌림. 홀짝 배경 대신 타일 간격으로 구분(2026-10-17) */
 .layout-soft .fan-list { background: transparent; box-shadow: none; padding: 6px 4px; gap: 18px; }
