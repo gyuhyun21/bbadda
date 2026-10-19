@@ -12,14 +12,15 @@ import Edition from './Edition.astro';
 import SectionHead from './SectionHead.astro';
 import PostseasonBracket from './PostseasonBracket.astro';
 import { communitySection, newsImages, loadStandings, streakLabel, postseasonBracket } from '../lib/config.ts';
-import { TEAMS, loadAll, ofTeam, recent, hot, newest, kstDay, daysOf, onDay, dayLabel, seasonTitle, displayTitle, fmtDate, teamColor, teamLogo, teamById, isToday, youtubeId, isCommunityPost, byDayThenHot, latestBatch, newFirst, BUILD_TIME } from '../lib/site.ts';
+import { TEAMS, loadAll, ofTeam, recent, hot, newest, kstDay, daysOf, onDay, dayLabel, seasonTitle, displayTitle, fmtDate, teamColor, teamLogo, teamById, isToday, youtubeId, isCommunityPost, byDayThenHot, latestBatch, newFirst, isWire, BUILD_TIME } from '../lib/site.ts';
 const data = await loadAll();
 const all = data.signals;
 const fresh = recent(all, 2, 12);
 // 1) 헤드라인: 이번 업데이트에 새로 들어온 기사 중 점수 상위 5건(모자라면 이전 기사로 채움). 대표는 그중 사진 있는 기사
 const isNew = latestBatch(all);
-const ranked = [...all.filter((s) => s.module !== 'fans')].sort((a, b) => Number(isNew(b)) - Number(isNew(a)) || hot(a, b)).slice(0, 5);
-const lead = (newsImages() ? ranked.find((s) => s.image) : undefined) ?? ranked[0];
+// 통신사 기사는 헤드라인에서 제외. 대표 자리는 공식 영상(YouTube 썸네일) 우선 — 뉴스 사진을 쓰지 않으므로
+const ranked = [...all.filter((s) => s.module !== 'fans' && !isWire(s))].sort((a, b) => Number(isNew(b)) - Number(isNew(a)) || hot(a, b)).slice(0, 5);
+const lead = ranked.find((s) => s.source_type === 'youtube' && isNew(s)) ?? (newsImages() ? ranked.find((s) => s.image) : undefined) ?? ranked[0];
 const side = ranked.filter((s) => s !== lead).slice(0, 4);
 // 3) 10개 구단 한눈에
 const today = kstDay(new Date(BUILD_TIME).toISOString());
