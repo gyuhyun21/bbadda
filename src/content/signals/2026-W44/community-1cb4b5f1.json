@@ -1,0 +1,23 @@
+{
+  "id": "community-1cb4b5f1",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 세상 모든 이슈",
+  "url": "https://blog.naver.com/ykl0096/224446895847",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/Hn7Mv109zxV",
+  "title": "김하성 복귀, 미국 야구가 멈춰도 자동으로 오는 길은 없습니다 | 김하성 국내복귀·키움 복귀·직장폐쇄",
+  "published_at": "2026-10-19T23:20:00.000+09:00",
+  "collected_at": "2026-10-19T21:38:19.811Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

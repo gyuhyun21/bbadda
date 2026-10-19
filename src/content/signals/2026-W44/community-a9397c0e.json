@@ -1,0 +1,24 @@
+{
+  "id": "community-a9397c0e",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 낭만골퍼",
+  "url": "https://blog.naver.com/chyuns2001/224447132652",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/EwgSiEuEQhR",
+  "title": "KBO 포스트시즌 플레이오프 한국시리즈 일정 정확하게 정리해드립니다!!",
+  "published_at": "2026-10-20T00:11:00.000+09:00",
+  "collected_at": "2026-10-19T21:38:19.811Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "youtube-502e5d56",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "youtube",
+  "source_name": "린지",
+  "url": "https://www.youtube.com/watch?v=ckLnSr14xIM",
+  "title": "2026시즌 두산 베어스 곽빈 삼진모음 (207K)",
+  "published_at": "2026-10-19T15:00:28Z",
+  "collected_at": "2026-10-19T21:38:19.811Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 84,
+    "likes": 4,
+    "comments": 2
+  },
+  "scores": {
+    "hot": 62,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

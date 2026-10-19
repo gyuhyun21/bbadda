@@ -1,0 +1,23 @@
+{
+  "id": "community-b8313cdc",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "community",
+  "source_name": "레딧 r/KBO",
+  "url": "https://www.reddit.com/r/KBO/comments/1xa2qqf/doosan_bears_cut_son_ahseop_third_in_career_kbo/",
+  "title": "Doosan Bears cut Son Ah-seop, third in career KBO hits",
+  "published_at": "2026-10-19T17:38:19.811Z",
+  "collected_at": "2026-10-19T21:38:19.811Z",
+  "summary_ko": "",
+  "excerpt": "... [KBO] Hanwha Eagles, trailing 9-0 in the third, pulled off an unbelievable comeback to…",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

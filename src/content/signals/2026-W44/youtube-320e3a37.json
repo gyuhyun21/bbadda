@@ -1,0 +1,26 @@
+{
+  "id": "youtube-320e3a37",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "광주MBC",
+  "url": "https://www.youtube.com/watch?v=j_AieR9aeVU",
+  "title": "KIA, 3차전까지 승리하고 한국시리즈까지 진출할까 #플레이오프 #기아타이거즈 #LG",
+  "published_at": "2026-10-19T11:20:28Z",
+  "collected_at": "2026-10-19T21:38:19.811Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 471,
+    "likes": 13,
+    "comments": 2
+  },
+  "scores": {
+    "hot": 56,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

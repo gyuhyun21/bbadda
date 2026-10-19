@@ -1,0 +1,22 @@
+{
+  "id": "news-3ef53b00",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://www.mt.co.kr/amp/sports/2026/10/20/2026102002382973130",
+  "title": "KBO 최다안타 신기록 썼는데 '설마' GG 못 받겠나! 타격왕·208안타·139타점왕과 맞붙은 롯데 레이예스, 외인 최초 3연패 도전",
+  "published_at": "2026-10-19T18:33:00.000Z",
+  "collected_at": "2026-10-19T21:38:19.811Z",
+  "summary_ko": "머니투데이는 KBO 최다안타 신기록을 쓴 롯데 레이예스가 골든글러브 외국인 최초 3연패에 도전한다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "mixed"
+}

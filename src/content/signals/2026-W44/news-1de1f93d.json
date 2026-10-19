@@ -1,0 +1,23 @@
+{
+  "id": "news-1de1f93d",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "일간스포츠",
+  "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5WMFBmdnhuMVpEY2VSbl9xRTkybW9qXy15Qy1seDg5bHVHeFVyUHNKbWpaOWF4MV95TEM5WGU2c2ZHSlVNcWloS1MwcDVVLVRERU1yVGtmTTJVNUE?oc=5",
+  "title": "[IS 피플] '확신', 2026년 한동희 야구를 관통하는 주제어",
+  "published_at": "2026-10-18T22:00:00.000Z",
+  "collected_at": "2026-10-19T21:38:19.811Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 60,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

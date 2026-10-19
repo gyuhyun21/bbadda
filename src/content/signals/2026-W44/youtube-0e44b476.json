@@ -1,0 +1,28 @@
+{
+  "id": "youtube-0e44b476",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia",
+    "kt"
+  ],
+  "source_type": "youtube",
+  "source_name": "세임 | SEIM",
+  "url": "https://www.youtube.com/watch?v=-tKH17qshC8",
+  "title": "삼성라이온즈 팬의 원정일기 | 가을야구 미리보기 기아, KT 전 결과는? | 대구,광주,수원을 뚜벅이로 | 야구에 미쳤냐고 하신다면?",
+  "published_at": "2026-10-19T17:21:33Z",
+  "collected_at": "2026-10-19T21:38:19.811Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 6,
+    "likes": 1,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 50,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

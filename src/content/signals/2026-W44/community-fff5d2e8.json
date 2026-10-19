@@ -1,0 +1,23 @@
+{
+  "id": "community-fff5d2e8",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "community",
+  "source_name": "엠엘비파크",
+  "url": "https://mlbpark.donga.com/mp/b.php?id=202610200119542608&p=1&b=bullpen&m=view&select=spf&query=%EC%95%BC%EA%B5%AC&site=donga.com",
+  "title": "롯데 감독 후보 4인",
+  "published_at": "2026-10-19T15:38:19.811Z",
+  "collected_at": "2026-10-19T21:38:19.811Z",
+  "summary_ko": "",
+  "excerpt": "... 김태형조성환이동욱 전 NC 감독다카쓰 신고 전 넥센 히어로즈 외국인 투수.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}
