@@ -1,0 +1,39 @@
+# 응원가 연습(kia) — 구단 공식 유튜브 응원가 모음 영상의 설명란 타임코드. 가사·음원은 싣지 않고 공식 영상 구간 재생만 한다.
+# 출처: https://www.youtube.com/watch?v=_muWreRr1t0 "무조건 응원!!! 포스트시즌 응원가 안무 복습합시다 (최신 버전)"(2026-10-16 게시, 2026-10-19 확인)
+team: kia
+season: 2026
+players:
+  video: _muWreRr1t0
+  end: 710
+  items:
+    - { name: 박정우, start: 117 }
+    - { name: 박민, start: 150 }
+    - { name: 김선빈, start: 193 }
+    - { name: 김도영, start: 252 }
+    - { name: 정현창, start: 288 }
+    - { name: 김규성, start: 323 }
+    - { name: 박재현, start: 358 }
+    - { name: 주효상, start: 390 }
+    - { name: 한준수, start: 424 }
+    - { name: 카스트로, start: 459 }
+    - { name: 김호령, start: 498 }
+    - { name: 하주석, start: 530 }
+    - { name: 이호연, start: 564 }
+    - { name: 김민규, start: 596 }
+    - { name: 김태군, start: 644 }
+    - { name: 나성범, start: 676 }
+team_songs:
+  video: _muWreRr1t0
+  end: 1724
+  items:
+    - { name: 라인업송, start: 12, end: 117 }
+    - { name: 광주의 함성, start: 710 }
+    - { name: 미치도록 사랑한다, start: 807 }
+    - { name: 최강 KIA를 위해, start: 899 }
+    - { name: 승리를 위해 함께 부르자, start: 1003 }
+    - { name: 우리는 하나, start: 1039 }
+    - { name: 열광하라 타이거즈, start: 1124 }
+    - { name: KIA를 응원하라, start: 1229 }
+    - { name: 남행열차, start: 1322 }
+    - { name: 외쳐라 최강 KIA, start: 1494 }
+    - { name: 최강 KIA 승리하리라, start: 1607 }

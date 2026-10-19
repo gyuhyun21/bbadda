@@ -1,0 +1,57 @@
+# 응원가 연습(kiwoom) — 구단 공식 유튜브 응원가 모음 영상의 설명란 타임코드. 가사·음원은 싣지 않고 공식 영상 구간 재생만 한다.
+# 출처: https://www.youtube.com/watch?v=bGoso_4ibeo "야구장에 울려퍼질 그 노래들 응원가 플레이리스트"(2026-04-20 게시, 2026-10-19 확인)
+team: kiwoom
+season: 2026
+players:
+  video: bGoso_4ibeo
+  end: 2858
+  items:
+    - { name: 김태진, start: 1908 }
+    - { name: 이주형, start: 1942 }
+    - { name: 이재상, start: 1994 }
+    - { name: 오선진, start: 2030 }
+    - { name: 안치홍, start: 2065 }
+    - { name: 김웅빈, start: 2123 }
+    - { name: 김건희, start: 2162 }
+    - { name: 서건창, start: 2206 }
+    - { name: 이용규, start: 2240 }
+    - { name: 임병욱, start: 2276 }
+    - { name: 브룩스, start: 2314 }
+    - { name: 주성원, start: 2365 }
+    - { name: 임지열, start: 2405 }
+    - { name: 김재현, start: 2443 }
+    - { name: 원성준, start: 2464 }
+    - { name: 이형종, start: 2501 }
+    - { name: 박찬혁, start: 2537 }
+    - { name: 김동헌, start: 2580 }
+    - { name: 최주환, start: 2617 }
+    - { name: 박주홍, start: 2653 }
+    - { name: 박수종, start: 2688 }
+    - { name: 어준서, start: 2724 }
+    - { name: 여동욱, start: 2765 }
+    - { name: 전태현, start: 2801 }
+team_songs:
+  video: bGoso_4ibeo
+  end: 1908
+  items:
+    - { name: 라인업송, start: 0 }
+    - { name: 영웅출정가, start: 70 }
+    - { name: 승리의함성, start: 168 }
+    - { name: 히어로즈의 노래, start: 279 }
+    - { name: 히어로, start: 396 }
+    - { name: WIN THE CHAMPIONSHIP, start: 497 }
+    - { name: 승리를 위하여, start: 588 }
+    - { name: 하늘끝까지, start: 685 }
+    - { name: 외쳐라 히어로즈, start: 815 }
+    - { name: 꿈이여 하나가 되자, start: 900 }
+    - { name: 히어로즈 만만세, start: 992 }
+    - { name: 나의 사랑 히어로, start: 1097 }
+    - { name: 사랑한다 키움, start: 1213 }
+    - { name: 우리가 승리한다, start: 1320 }
+    - { name: "오 키움, 키움히어로즈", start: 1427 }
+    - { name: NEW HEROES COME HERE, start: 1508 }
+    - { name: 승리가, start: 1624 }
+    - { name: 기를 높여라, start: 1655 }
+    - { name: 영웅필승, start: 1687 }
+    - { name: 안타송-신나게 외치자, start: 1817 }
+    - { name: 안타송-안타 저 멀리, start: 1867 }

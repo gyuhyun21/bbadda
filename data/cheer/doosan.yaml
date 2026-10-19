@@ -1,0 +1,55 @@
+# 응원가 연습(doosan) — 구단 공식 유튜브 응원가 모음 영상의 설명란 타임코드. 가사·음원은 싣지 않고 공식 영상 구간 재생만 한다.
+# 출처: https://www.youtube.com/watch?v=Cs6u1CZzkbE "지금부터 외쳐보자 두산베어스 2026 두산베어스 응원가 플레이리스트"(2026-03-27 게시, 2026-10-19 확인)
+team: doosan
+season: 2026
+players:
+  video: Cs6u1CZzkbE
+  end: 2701
+  items:
+    - { name: 강승호, start: 1997 }
+    - { name: 김기연, start: 2033 }
+    - { name: 김대한, start: 2067 }
+    - { name: 김동준, start: 2104 }
+    - { name: 김민석, start: 2156 }
+    - { name: 김민혁, start: 2198 }
+    - { name: 김인태, start: 2232 }
+    - { name: 카메론, start: 2268 }
+    - { name: 박계범, start: 2299 }
+    - { name: 박준순, start: 2336 }
+    - { name: 박지훈, start: 2368 }
+    - { name: 박찬호, start: 2405 }
+    - { name: 안재석, start: 2441 }
+    - { name: 양석환, start: 2477 }
+    - { name: 양의지, start: 2511 }
+    - { name: 오명진, start: 2543 }
+    - { name: 이유찬, start: 2569 }
+    - { name: 정수빈, start: 2600 }
+    - { name: 조수행, start: 2635 }
+    - { name: 홍성호, start: 2665 }
+team_songs:
+  video: Cs6u1CZzkbE
+  end: 1997
+  items:
+    - { name: PLAY BALL, start: 0 }
+    - { name: 라인업 송, start: 72 }
+    - { name: ROCK TO THE DOOSAN, start: 187 }
+    - { name: "가자! 두산베어스", start: 311 }
+    - { name: 다 함께 허슬두, start: 400 }
+    - { name: 두산 승리하리라, start: 487 }
+    - { name: 서울두산 승리하리라, start: 579 }
+    - { name: 승리를 위하여, start: 673 }
+    - { name: 승리의 두산, start: 766 }
+    - { name: 승리의 송가, start: 857 }
+    - { name: 승리를 위해, start: 941 }
+    - { name: 야야야 두산, start: 976 }
+    - { name: 우리 두산 멋진 두산, start: 1052 }
+    - { name: 우리의 베어스, start: 1168 }
+    - { name: 챔피언 두산, start: 1200 }
+    - { name: 최강두산 승리하리라, start: 1284 }
+    - { name: 최강두산 구호, start: 1377 }
+    - { name: 해냈다 두산, start: 1415 }
+    - { name: 해야, start: 1506 }
+    - { name: 해야 해야, start: 1595 }
+    - { name: 허리케인, start: 1699 }
+    - { name: 허슬두, start: 1789 }
+    - { name: 서울의 베어스, start: 1879 }
