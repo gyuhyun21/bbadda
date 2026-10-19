@@ -17,7 +17,8 @@ const ogImage = new URL(image, Astro.site).href;
 // 방문 측정: Vercel Web Analytics(쿠키 없음, @vercel/analytics 의 Astro 컴포넌트 — Routes 탭에 /teams/[id] 처럼 묶여 보인다). Vercel 빌드에서만 넣는다 — 되돌리기: 환경변수 SITE_ANALYTICS=false
 const analytics = !!process.env.VERCEL && process.env.SITE_ANALYTICS !== 'false';
 const full = title ? `${title} · ${SITE_NAME}` : `${SITE_NAME} 빠따닷컴`;
-const nav = [['/cheer', '선수응원가 연습'], ['/game/', '매니저 게임'], ['/about', '소개']];
+// [주소, 이름, 휴대폰용 짧은 이름]. 휴대폰 머리말은 알약 버튼 2개만 들어간다(응원가·게임)
+const nav = [['/cheer', '선수응원가 연습', '응원가'], ['/game/', '매니저 게임', '게임'], ['/about', '소개', '']];
 const path = Astro.url.pathname.replace(/\/$/, '') || '/';
 const layout = siteLayout();
 const modal = articleModal(); // config/site.yaml article_modal (환경변수 SITE_MODAL 우선) // config/site.yaml layout (환경변수 SITE_LAYOUT 우선)
@@ -88,7 +89,7 @@ const myTeamCss = TEAMS.map((t) => `html[data-my-team="${t.id}"] [data-myteam-bl
           </div>
         </div>
         <nav class="nav" aria-label="주 메뉴">
-          {nav.map(([href, label]) => <a href={href} class={href === '/cheer' ? 'nav-cheer' : undefined} aria-current={path === href || (href !== '/' && path.startsWith(href)) ? 'page' : undefined}>{href === '/cheer' && <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 18V5l12-2v13"/><circle cx="6" cy="18" r="3"/><circle cx="18" cy="16" r="3"/></svg>}{label}</a>)}
+          {nav.map(([href, label, short]) => <a href={href} class={href === '/cheer' ? 'nav-cheer' : href === '/game/' ? 'nav-cheer nav-game' : undefined} aria-label={short ? label : undefined} aria-current={path === href.replace(/\/$/, '') || (href !== '/' && path.startsWith(href.replace(/\/$/, ''))) ? 'page' : undefined}>{href === '/cheer' && <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 18V5l12-2v13"/><circle cx="6" cy="18" r="3"/><circle cx="18" cy="16" r="3"/></svg>}{href === '/game/' && <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M7.5 5.5c2 2 2 11 0 13M16.5 5.5c-2 2-2 11 0 13"/></svg>}{short ? <><span class="lbl-full">{label}</span><span class="lbl-short">{short}</span></> : label}</a>)}
         </nav>
       </div>
     </header>
