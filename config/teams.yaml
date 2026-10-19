@@ -34,7 +34,7 @@ teams:
     weak_aliases: [한화]
     exclude_any: ["한화(에어로|오션|솔루션|생명|손해|투자|자산|시스템|그룹|큐셀|비전|갤러리아|호텔|건설|정밀)"]
   - id: ssg
-    nickname: 쓱 # MY팀 버튼·칩 표시용 애칭(SSG 의 별칭 쓱, 저장소 주인 결정, 2026-10-17)
+    nickname: 씈 # MY팀 버튼·칩 표시용 애칭(전신 SK 를 담은 별칭, 저장소 주인 결정, 2026-10-19)
     name: SSG 랜더스
     short: SSG
     city: 인천
