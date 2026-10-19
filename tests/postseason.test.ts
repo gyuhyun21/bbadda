@@ -3,10 +3,13 @@ import assert from 'node:assert/strict';
 import { loadPostseason, resolvePostseason, lastPlayed, findHighlight } from '../src/lib/postseason.ts';
 import { loadTeams } from '../src/lib/config.ts';
 
-const d = loadPostseason()!;
-test('포스트시즌: 파일 형식·팀 id', () => {
+// 계산 테스트는 고정 사본(tests/fixtures/data/postseason.yaml, 준PO 1차전까지 결과)으로 한다.
+// 운영 데이터(data/postseason.yaml)는 매일 루틴이 결과를 채우므로, 테스트가 그 값에 묶이면 루틴이 결과를 넣을 때마다 테스트가 깨진다.
+const d = loadPostseason('tests/fixtures')!;
+const live = loadPostseason()!;
+test('포스트시즌: 운영 데이터 형식·팀 id', () => {
   const ids = new Set(loadTeams().teams.map((t) => t.id));
-  for (const r of d.rounds) for (const t of r.teams) if (typeof t === 'string') assert.ok(ids.has(t), t);
+  for (const r of live.rounds) for (const t of r.teams) if (typeof t === 'string') assert.ok(ids.has(t), t);
 });
 test('와일드카드: LG 1승 안고 1차전 승리 → 진출, 2차전은 열리지 않음', () => {
   const { rounds } = resolvePostseason(d, '2026-10-17');
