@@ -12,7 +12,7 @@ type Part = { video: string; end: number; items: Item[] };
 type Cheer = { team: string; season: number; players: Part; team_songs: Part };
 const dir = join(process.cwd(), 'data', 'cheer');
 const all: Cheer[] = existsSync(dir) ? readdirSync(dir).filter((f) => f.endsWith('.yaml') && !f.startsWith('.')).map((f) => parse(readFileSync(join(dir, f), 'utf8'))) : [];
-const teams = all.map((c) => { const t = TEAMS.find((x) => x.id === c.team)!; return { ...c, name: t.name, short: t.short, nick: t.nickname ?? t.short, color: teamColor(t.id), logo: teamLogo(t.id) }; });
+const teams = all.sort((a, b) => TEAMS.findIndex((t) => t.id === a.team) - TEAMS.findIndex((t) => t.id === b.team)).map((c) => { const t = TEAMS.find((x) => x.id === c.team)!; return { ...c, name: t.name, short: t.short, nick: t.nickname ?? t.short, color: teamColor(t.id), logo: teamLogo(t.id) }; });
 ---
 <Layout title="응원가 연습" description="MY팀 선수 응원가와 팀 응원가를 구단 공식 영상으로 따라 불러 보세요.">
   <div class="cheer" data-cheer={JSON.stringify(teams)}>
@@ -21,14 +21,11 @@ const teams = all.map((c) => { const t = TEAMS.find((x) => x.id === c.team)!; re
       <p class="cheer-sub">MY팀 응원가를 구단 공식 영상으로 따라 불러 보세요. 직관 가기 전에 한 번씩.</p>
     </header>
 
-    <div class="cheer-pick" data-cheer-pick hidden>
-      <p>응원가를 연습할 팀을 고르세요.</p>
-      <div class="cheer-pick-btns">
-        {teams.map((t) => <button type="button" class="team-chip team-chip--btn" data-cheer-team={t.team}>{t.logo && <img class="team-chip-logo" src={t.logo} alt="" width="22" height="22" />}{t.nick}</button>)}
-      </div>
+    <div class="cheer-teams" aria-label="구단 고르기">
+      {teams.map((t) => <button type="button" class="cheer-tchip" data-cheer-team={t.team} aria-pressed="false">{t.logo && <img src={t.logo} alt="" width="22" height="22" />}{t.nick}<em class="cheer-my" hidden>MY</em></button>)}
     </div>
 
-    <section class="cheer-main" data-cheer-main hidden>
+    <section class="cheer-main" data-cheer-main>
       <div class="cheer-team"><span class="cheer-team-name" data-cheer-name></span></div>
 
       <div class="cheer-player">
@@ -63,7 +60,6 @@ const teams = all.map((c) => { const t = TEAMS.find((x) => x.id === c.team)!; re
 
       <p class="cheer-foot">
         영상: <span data-cheer-source></span> 공식 유튜브 <span data-cheer-season></span> 모음 영상. 가사는 구단 공식 앱·홈페이지에서 확인하세요.
-        <button type="button" class="cheer-change" data-cheer-change>다른 팀</button>
       </p>
     </section>
   </div>
@@ -73,7 +69,7 @@ const teams = all.map((c) => { const t = TEAMS.find((x) => x.id === c.team)!; re
   type Item = { name: string; start: number; end?: number; note?: string };
   type Part = { video: string; end: number; items: Item[] };
   type Team = { team: string; season: number; name: string; nick: string; players: Part; team_songs: Part };
-  type YTPlayer = { loadVideoById(o: { videoId: string; startSeconds: number; endSeconds: number }): void; playVideo(): void; pauseVideo(): void; setPlaybackRate(r: number): void; getPlayerState(): number };
+  type YTPlayer = { cueVideoById(o: { videoId: string; startSeconds: number }): void; loadVideoById(o: { videoId: string; startSeconds: number; endSeconds: number }): void; playVideo(): void; pauseVideo(): void; setPlaybackRate(r: number): void; getPlayerState(): number };
   const root = document.querySelector<HTMLElement>('[data-cheer]')!;
   const teams = JSON.parse(root.dataset.cheer!) as Team[];
   const $ = <T extends HTMLElement>(s: string) => root.querySelector<T>(s)!;
@@ -88,6 +84,8 @@ const teams = all.map((c) => { const t = TEAMS.find((x) => x.id === c.team)!; re
   let ytReady: Promise<void> | undefined;
 
   const part = () => team![kind];
+  // 팀·탭을 바꾸면 그 목록의 영상으로 바꿔 둔다(재생은 안 함)
+  const cue = () => { if (yt) yt.cueVideoById({ videoId: part().video, startSeconds: part().items[0].start }); };
   const pickHint = () => { $('[data-cheer-now]').textContent = kind === 'players' ? '선수를 선택하세요' : '곡을 선택하세요'; };
   const endOf = (i: number) => part().items[i].end ?? part().items[i + 1]?.start ?? part().end; // end: 영상에서 바로 뒤가 다른 목록인 곡
 
@@ -141,10 +139,11 @@ const teams = all.map((c) => { const t = TEAMS.find((x) => x.id === c.team)!; re
 
   function open(id: string) {
     team = teams.find((t) => t.team === id);
-    $('[data-cheer-pick]').hidden = !!team;
-    $('[data-cheer-main]').hidden = !team;
     if (!team) return;
-    store.set('bbadda:cheerTeam', id);
+    root.querySelectorAll<HTMLElement>('[data-cheer-team]').forEach((b) => {
+      b.setAttribute('aria-pressed', String(b.dataset.cheerTeam === id));
+      if (b.dataset.cheerTeam === id) { const strip = b.parentElement!; strip.scrollLeft = b.offsetLeft - strip.offsetLeft - 16; }
+    });
     cur = -1; kind = 'players';
     $('[data-cheer-name]').textContent = `${team.nick} · ${team.name}`;
     $('[data-cheer-source]').textContent = team.name;
@@ -152,13 +151,13 @@ const teams = all.map((c) => { const t = TEAMS.find((x) => x.id === c.team)!; re
     root.querySelectorAll<HTMLElement>('[data-cheer-count]').forEach((el) => (el.textContent = String(team![el.dataset.cheerCount as 'players'].items.length)));
     root.querySelectorAll('[data-cheer-tab]').forEach((x) => x.setAttribute('aria-selected', String((x as HTMLElement).dataset.cheerTab === kind)));
     pickHint();
-    renderList();
+    renderList(); cue();
     loadYT(); // 플레이어를 미리 불러 둔다 — 휴대폰은 첫 탭에서 바로 재생돼야 한다(탭 뒤 기다리면 자동 재생이 막힘)
   }
 
   root.querySelectorAll<HTMLButtonElement>('[data-cheer-team]').forEach((b) => b.addEventListener('click', () => open(b.dataset.cheerTeam!)));
   root.querySelectorAll<HTMLButtonElement>('[data-cheer-tab]').forEach((b) => b.addEventListener('click', () => {
-    kind = b.dataset.cheerTab as typeof kind; cur = -1; pickHint();
+    kind = b.dataset.cheerTab as typeof kind; cur = -1; pickHint(); cue();
     root.querySelectorAll('[data-cheer-tab]').forEach((x) => x.setAttribute('aria-selected', String(x === b)));
     renderList();
   }));
@@ -171,19 +170,25 @@ const teams = all.map((c) => { const t = TEAMS.find((x) => x.id === c.team)!; re
   $('[data-cheer-next]').addEventListener('click', () => play(Math.min(part().items.length - 1, cur + 1)));
   $('[data-cheer-repeat]').addEventListener('click', (e) => { repeat = !repeat; (e.currentTarget as HTMLElement).setAttribute('aria-pressed', String(repeat)); });
   $('[data-cheer-slow]').addEventListener('click', (e) => { slow = !slow; (e.currentTarget as HTMLElement).setAttribute('aria-pressed', String(slow)); yt?.setPlaybackRate(slow ? 0.75 : 1); });
-  $('[data-cheer-change]').addEventListener('click', () => { $('[data-cheer-main]').hidden = true; $('[data-cheer-pick]').hidden = false; });
 
-  // MY팀 → 그 팀 응원가, 없거나 준비 안 된 팀이면 고르기
-  open(store.get('bbadda:myTeam') && teams.some((t) => t.team === store.get('bbadda:myTeam')) ? store.get('bbadda:myTeam')! : store.get('bbadda:cheerTeam') ?? '');
+  // 기본은 MY팀(없으면 첫 구단). 위 구단 줄로 MY팀을 바꾸지 않고 다른 팀 응원가를 본다
+  const my = store.get('bbadda:myTeam');
+  const myChip = root.querySelector<HTMLElement>(`[data-cheer-team="${my}"]`);
+  if (myChip) { myChip.querySelector('.cheer-my')?.removeAttribute('hidden'); myChip.parentElement!.prepend(myChip); }
+  open(my && teams.some((t) => t.team === my) ? my : teams[0].team);
 </script>
 
 <style is:global>
   .cheer { max-width: 760px; margin: 0 auto; padding: 8px 0 48px; }
   .cheer-sub { margin: 6px 0 0; color: var(--muted); font-size: 15px; }
-  .cheer-pick { margin-top: 24px; }
-  .cheer-pick p { margin: 0 0 12px; color: var(--muted); }
-  .cheer-pick[hidden], .cheer-main[hidden] { display: none; }
-  .cheer-pick-btns { display: flex; flex-wrap: wrap; gap: 8px; }
+  .cheer-teams { display: flex; gap: 6px; margin: 18px calc(var(--gutter) * -1) 0; padding: 4px var(--gutter) 8px; overflow-x: auto; scrollbar-width: none; }
+  .cheer-teams::-webkit-scrollbar { display: none; }
+  .cheer-tchip { flex: none; display: inline-flex; align-items: center; gap: 6px; height: 36px; padding: 0 12px 0 6px; border: 0; border-radius: 999px; background: rgba(255, 255, 255, 0.7); color: var(--ink); font: 700 13.5px/1 var(--font); cursor: pointer; box-shadow: inset 0 0 0 1px var(--line); }
+  .cheer-tchip img { width: 24px; height: 24px; }
+  .cheer-tchip[aria-pressed="true"] { background: var(--ink); color: #fff; box-shadow: none; }
+  .cheer-tchip:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+  .cheer-my { padding: 2px 5px; border-radius: 5px; background: #FFD43B; color: #1D1D1F; font-size: 10px; font-style: normal; font-weight: 800; }
+  .cheer-my[hidden] { display: none; }
   .cheer-team { display: flex; align-items: baseline; justify-content: space-between; gap: 12px; margin: 20px 0 12px; }
   .cheer-team-name { font-size: 18px; font-weight: 800; }
   .cheer-player { display: grid; gap: 14px; padding: 14px; border-radius: 22px; background: #1D1D1F; color: #fff; box-shadow: 0 10px 28px rgba(29, 29, 31, 0.25); }
@@ -216,5 +221,4 @@ const teams = all.map((c) => { const t = TEAMS.find((x) => x.id === c.team)!; re
   .cheer-name { min-width: 0; }
   .cheer-note { margin-left: 8px; padding: 2px 7px; border-radius: 6px; background: #E0002A; color: #fff; font-size: 11px; font-style: normal; font-weight: 800; white-space: nowrap; }
   .cheer-foot { margin: 18px 0 0; font-size: 12.5px; color: var(--muted); }
-  .cheer-change { margin-left: 6px; padding: 0; border: 0; background: none; color: var(--accent); font: inherit; text-decoration: underline; cursor: pointer; }
 </style>
