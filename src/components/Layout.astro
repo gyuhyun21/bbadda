@@ -169,7 +169,7 @@ const myTeamCss = TEAMS.map((t) => `html[data-my-team="${t.id}"] [data-myteam-bl
               return id ? `https://www.youtube-nocookie.com/embed/${id}?autoplay=1` : null;
             }
             if (h === 'instagram.com') { const m = /^\/(p|reel)\/([\w-]+)/.exec(u.pathname); return m ? `https://www.instagram.com/${m[1]}/${m[2]}/embed` : null; }
-            if (blocked.some((b) => h === b || h.endsWith('.' + b))) return null;
+            if (blocked.includes('*') || blocked.some((b) => h === b || h.endsWith('.' + b))) return null; // '*' = 모든 기사 사이트를 우리 페이지 안에 띄우지 않음
             if (u.protocol !== 'https:') return null; // http 주소는 https 사이트 안에 띄울 수 없다
             return u.href;
           };
@@ -313,7 +313,7 @@ const myTeamCss = TEAMS.map((t) => `html[data-my-team="${t.id}"] [data-myteam-bl
         }
         if (dot) {
           dot.classList.toggle('has-logo-dot', !!b?.dataset.logo);
-          dot.style.background = b?.dataset.logo ? `#fff url("${b.dataset.logo}") center / 80% no-repeat` : b?.dataset.color ?? 'transparent';
+          dot.style.background = b?.dataset.logo ? `url("${b.dataset.logo}") center / 100% no-repeat` : b?.dataset.color ?? 'transparent';
         }
         btns.forEach((x) => x.setAttribute('aria-pressed', String(!!id && x.dataset.pickTeam === id)));
         document.querySelectorAll<HTMLElement>('[data-team-sort]').forEach((box) => {

@@ -13,7 +13,7 @@ exclude_title_patterns: ["카지노", "토토 ?사이트", "먹튀", "슬롯", "
 
 # 사진 보강(npm run enrich): 요약을 쓴 뉴스의 원 기사 주소를 풀고 대표 이미지 주소(og:image)만 찾는다. 이미지 파일은 저장하지 않는다.
 # 화면 표시 여부는 config/site.yaml news_images 가 정한다.
-enrich: { resolve_google_news: true, og_image: true, max_items: 80 }
+enrich: { resolve_google_news: true, og_image: false, max_items: 80 } # og_image: 뉴스 사진을 쓰지 않으므로 끔(2026-10-19)
 
 news_rss:
   enabled: true
