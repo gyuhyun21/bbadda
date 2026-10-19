@@ -1,0 +1,56 @@
+---
+// 경기 알림 받기(웹 푸시). 지원하지 않는 브라우저·설정 안 된 서버면 숨김.
+// 아이폰은 홈 화면에 추가한 경우에만 알림을 받을 수 있어 안내 문구로 바꾼다. 끄기: config/site.yaml push: false
+---
+<p class="push-row" data-push-row hidden>
+  <button type="button" class="push-btn" data-push aria-pressed="false">
+    <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 8a6 6 0 1 1 12 0c0 7 3 9 3 9H3s3-2 3-9"/><path d="M10.3 21a1.94 1.94 0 0 0 3.4 0"/></svg>
+    <span data-push-label>경기 알림 받기</span>
+  </button>
+  <span class="push-hint" data-push-hint></span>
+</p>
+<script>
+  const row = document.querySelector<HTMLElement>('[data-push-row]');
+  const btn = document.querySelector<HTMLButtonElement>('[data-push]');
+  const label = document.querySelector<HTMLElement>('[data-push-label]');
+  const hint = document.querySelector<HTMLElement>('[data-push-hint]');
+  const ios = /iPhone|iPad|iPod/.test(navigator.userAgent);
+  const standalone = matchMedia('(display-mode: standalone)').matches || (navigator as { standalone?: boolean }).standalone === true;
+  const toKey = (b64: string) => { const s = atob((b64 + '='.repeat((4 - (b64.length % 4)) % 4)).replace(/-/g, '+').replace(/_/g, '/')); return Uint8Array.from(s, (c) => c.charCodeAt(0)); };
+  (async () => {
+    if (!row || !btn || !label || !hint) return;
+    if (!('serviceWorker' in navigator) || !('PushManager' in window) || !('Notification' in window)) {
+      // 아이폰 사파리(홈 화면 추가 전): 방법만 알려 준다
+      if (ios && !standalone) { btn.hidden = true; hint.textContent = '홈 화면에 추가하면 경기 알림을 받을 수 있어요'; row.hidden = false; }
+      return;
+    }
+    let publicKey = '';
+    try { const r = await fetch('/api/push'); if (!r.ok) return; publicKey = (await r.json()).publicKey; } catch { return; }
+    const reg = await navigator.serviceWorker.register('/sw.js');
+    let sub = await reg.pushManager.getSubscription();
+    const render = () => {
+      const on = !!sub && Notification.permission === 'granted';
+      btn.setAttribute('aria-pressed', String(on));
+      label.textContent = on ? '경기 알림 켜짐' : '경기 알림 받기';
+      hint.textContent = Notification.permission === 'denied' ? '브라우저 설정에서 알림이 차단돼 있어요' : on ? '경기 결과·예고 선발이 나오면 알려 드려요' : '';
+      btn.disabled = Notification.permission === 'denied';
+    };
+    render();
+    row.hidden = false;
+    btn.addEventListener('click', async () => {
+      btn.disabled = true;
+      try {
+        if (sub) {
+          await fetch('/api/push', { method: 'DELETE', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify({ endpoint: sub.endpoint }) });
+          await sub.unsubscribe(); sub = null;
+        } else if ((await Notification.requestPermission()) === 'granted') {
+          sub = await reg.pushManager.subscribe({ userVisibleOnly: true, applicationServerKey: toKey(publicKey) });
+          const r = await fetch('/api/push', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify({ subscription: sub.toJSON() }) });
+          if (!r.ok) { await sub.unsubscribe(); sub = null; }
+        }
+      } catch {}
+      btn.disabled = false;
+      render();
+    });
+  })();
+</script>

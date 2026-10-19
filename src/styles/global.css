@@ -769,3 +769,11 @@ a.is-fresh::before { content: 'NEW'; display: inline-block; margin-right: 6px; p
 .edition-fresh { margin: 8px 0 0; font-size: 13px; font-weight: 700; color: #E0002A; }
 .mt-new { display: inline-grid; place-items: center; min-width: 18px; height: 18px; margin-left: 6px; padding: 0 5px; border-radius: 999px; background: #E0002A; color: #fff; font-size: 11px; font-weight: 800; line-height: 1; }
 .mt-new[hidden] { display: none; }
+/* 경기 알림 받기 */
+.push-row { margin: 8px 0 0; display: flex; flex-wrap: wrap; align-items: center; gap: 6px 10px; font-size: 12.5px; color: var(--muted); }
+.push-row[hidden], .push-btn[hidden] { display: none; }
+.push-btn { display: inline-flex; align-items: center; gap: 6px; height: 30px; padding: 0 12px; border: 0; border-radius: 999px; background: var(--ink); color: #fff; font: 700 12.5px/1 var(--font); cursor: pointer; white-space: nowrap; }
+.push-btn svg { width: 15px; height: 15px; fill: none; stroke: currentColor; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; }
+.push-btn[aria-pressed="true"] { background: transparent; color: var(--ink); box-shadow: inset 0 0 0 1.5px var(--ink); }
+.push-btn:disabled { opacity: 0.5; cursor: default; }
+.push-btn:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }

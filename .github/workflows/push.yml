@@ -1,0 +1,35 @@
+# 경기 알림 발송: main 의 data/postseason.yaml 이 바뀌면(루틴이 결과·예고 선발을 채우면) 새로 채워진 것만 알림으로 보낸다.
+# 시크릿: PUSH_SECRET (Vercel 환경변수와 같은 값). 사이트 배포가 끝나도록 잠시 기다린 뒤 보낸다.
+name: push
+on:
+  push:
+    branches: [main]
+    paths: [data/postseason.yaml]
+permissions:
+  contents: read
+jobs:
+  send:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with: { fetch-depth: 2 }
+      - uses: actions/setup-node@v4
+        with: { node-version: 22, cache: npm }
+      - run: npm ci
+      - name: 메시지 만들기
+        id: msg
+        run: |
+          mkdir -p /tmp/prev/data
+          git show HEAD~1:data/postseason.yaml > /tmp/prev/data/postseason.yaml 2>/dev/null || true
+          echo "json=$(npx tsx scripts/push-message.ts /tmp/prev)" >> "$GITHUB_OUTPUT"
+      - name: 발송
+        if: steps.msg.outputs.json != '[]' && steps.msg.outputs.json != ''
+        env:
+          PUSH_SECRET: ${{ secrets.PUSH_SECRET }}
+          MSGS: ${{ steps.msg.outputs.json }}
+        run: |
+          sleep 150
+          echo "$MSGS" | node -e 'const m=JSON.parse(require("fs").readFileSync(0,"utf8"));for(const x of m)console.log(JSON.stringify(x))' | while read -r one; do
+            curl -sS -f -X POST https://bbadda.com/api/push-send -H "Authorization: Bearer $PUSH_SECRET" -H 'Content-Type: application/json' -d "$one"; echo
+          done
