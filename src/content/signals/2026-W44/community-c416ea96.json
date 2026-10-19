@@ -1,0 +1,23 @@
+{
+  "id": "community-c416ea96",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "community",
+  "source_name": "엠엘비파크",
+  "url": "https://mlbpark.donga.com/mp/b.php?b=bullpen&id=202610160119466600&m=view",
+  "title": "롯데 자이언츠 18일부터 특훈 돌입",
+  "published_at": "2026-10-15T15:00:00.000Z",
+  "collected_at": "2026-10-19T21:38:19.811Z",
+  "summary_ko": "",
+  "excerpt": "... 롯데, 고승민·전민재 포함 8인 美 급파…18일부터 3주간 데이터 특훈m.sports.n…",
+  "metrics": {},
+  "scores": {
+    "hot": 31,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

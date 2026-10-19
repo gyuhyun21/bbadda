@@ -1,0 +1,24 @@
+{
+  "id": "community-04e973c5",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "디시 야구 갤러리",
+  "url": "https://gall.dcinside.com/board/view?id=sh_new&no=9030522",
+  "title": "진지하게 송찬의 볼넷 오지환 안타",
+  "published_at": "2026-10-16T15:00:00.000Z",
+  "collected_at": "2026-10-19T21:38:19.811Z",
+  "summary_ko": "",
+  "excerpt": "... 박동원에서 조상우로 투교이러고 동점될듯.",
+  "metrics": {},
+  "scores": {
+    "hot": 40,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

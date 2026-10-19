@@ -1,0 +1,23 @@
+{
+  "id": "news-c907cb4d",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "news",
+  "source_name": "KBS 뉴스",
+  "url": "https://news.kbs.co.kr/news/view.do?ncd=8688751",
+  "title": "프로야구 NC, 창원·일본서 마무리 훈련 돌입",
+  "published_at": "2026-10-18T22:48:00.000Z",
+  "collected_at": "2026-10-19T21:38:19.811Z",
+  "summary_ko": "KBS 뉴스에 따르면 NC가 창원과 일본에서 마무리 훈련에 들어갔다.",
+  "metrics": {},
+  "scores": {
+    "hot": 60,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "NC, 마무리 훈련 돌입"
+}

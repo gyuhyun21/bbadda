@@ -1,0 +1,23 @@
+{
+  "id": "community-50f7c7c5",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 순간캐치",
+  "url": "https://blog.naver.com/momentcatch/224447159518",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/KUYTcV9bAdU",
+  "title": "KIA 전상현, 준플레이오프 1차전 1.1이닝 무실점…\"내 기록은 의미 없다\"",
+  "published_at": "2026-10-20T02:40:00.000+09:00",
+  "collected_at": "2026-10-19T21:38:19.811Z",
+  "summary_ko": "블로그에 따르면 KIA 전상현은 준PO 1차전에서 1.1이닝 무실점을 기록하고 \"내 기록은 의미 없다\"고 말했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

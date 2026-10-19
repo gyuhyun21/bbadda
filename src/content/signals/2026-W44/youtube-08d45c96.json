@@ -1,0 +1,27 @@
+{
+  "id": "youtube-08d45c96",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "최군의 이슈",
+  "url": "https://www.youtube.com/watch?v=vCQ45NVHj0k",
+  "title": "🔥레전드 손아섭 ㅠㅠ 🔥손아섭 결국 방출 ㅠㅠ #손아섭 #두산베어스 #KBO #두산 #LG #기아 #한화이글스",
+  "published_at": "2026-10-19T16:24:12Z",
+  "collected_at": "2026-10-19T21:38:19.811Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 23,
+    "likes": 0,
+    "comments": 2
+  },
+  "scores": {
+    "hot": 56,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

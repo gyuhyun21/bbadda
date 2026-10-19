@@ -1,0 +1,26 @@
+{
+  "id": "youtube-e4c6fa4a",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "youtube",
+  "source_name": "으쓱채널",
+  "url": "https://www.youtube.com/watch?v=fQogQWlgJ0g",
+  "title": "듀격수 박성한 등장곡 #ssg랜더스 #박성한",
+  "published_at": "2026-10-19T16:26:15Z",
+  "collected_at": "2026-10-19T21:38:19.811Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 84,
+    "likes": 7,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 62,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

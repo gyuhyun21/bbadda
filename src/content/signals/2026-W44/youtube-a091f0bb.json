@@ -1,0 +1,26 @@
+{
+  "id": "youtube-a091f0bb",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "오늘의 1분 브리핑",
+  "url": "https://www.youtube.com/watch?v=gPGoYXJ91ts",
+  "title": "삼성, 171만 관중 열기 안고 정규시즌 2위…플레이오프 직행",
+  "published_at": "2026-10-19T21:00:23Z",
+  "collected_at": "2026-10-19T21:38:19.811Z",
+  "summary_ko": "영상에 따르면 삼성이 171만 관중 속에 정규시즌 2위를 차지해 플레이오프에 직행했다.",
+  "metrics": {
+    "views": 291,
+    "likes": 1,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 31,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

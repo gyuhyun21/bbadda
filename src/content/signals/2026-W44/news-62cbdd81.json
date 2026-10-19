@@ -1,0 +1,24 @@
+{
+  "id": "news-62cbdd81",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "lg",
+  "teams": [
+    "lg",
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "BNT뉴스",
+  "url": "https://www.bntnews.co.kr/article/view/bnt202610200006",
+  "title": "LG트윈스, KIA전 10연패 위기…잠실서 반격할까",
+  "published_at": "2026-10-19T21:00:58.000Z",
+  "collected_at": "2026-10-19T21:38:19.811Z",
+  "summary_ko": "BNT뉴스는 LG가 KIA전 10연패 위기에서 잠실 홈에서 반격할 수 있을지를 다뤘다.",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "negative",
+  "brief_ko": "LG, 잠실서 반격 노린다"
+}

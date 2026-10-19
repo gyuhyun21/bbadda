@@ -1,0 +1,23 @@
+{
+  "id": "news-e418d0c8",
+  "issue": "2026-W44",
+  "module": "league",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "news",
+  "source_name": "조선일보",
+  "url": "https://www.chosun.com/sports/baseball/2026/10/19/HA3DKZLFG5TDSNJQG5RDENTEGU/",
+  "title": "\"베어스는 내 인생의 전부였습니다\" 36년 인생을 잠실에 바친, KBO 최고 단장이 떠납니다",
+  "published_at": "2026-10-19T11:18:00.000Z",
+  "collected_at": "2026-10-19T21:38:19.811Z",
+  "summary_ko": "조선일보는 36년간 두산(베어스)에서 일한 단장이 구단을 떠난다고 전했다. 제목 기준 \"베어스는 내 인생의 전부였다\"는 소회가 담겼다.",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 30
+  },
+  "sentiment": "neutral",
+  "team": "doosan",
+  "brief_ko": "김태룡 단장, 두산 떠난다"
+}

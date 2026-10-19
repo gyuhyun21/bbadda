@@ -1,0 +1,27 @@
+{
+  "id": "youtube-19c0ce08",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt",
+    "doosan"
+  ],
+  "source_type": "youtube",
+  "source_name": "RallyPick",
+  "url": "https://www.youtube.com/watch?v=UKnvjJ-UCdU",
+  "title": "야없날 쏟아지는 소식 KT 이강철 감독 재계약 | 두산 16년만에 단장 교체 | 준PO 3차전 관전포인트 | 야없날 랠리톡과 함께 KBO 이슈 총정리",
+  "published_at": "2026-10-19T19:28:04Z",
+  "collected_at": "2026-10-19T21:38:19.811Z",
+  "summary_ko": "RallyPick 영상이 KT 이강철 감독 재계약, 두산 단장 교체, 준PO 3차전 관전 포인트를 묶어 정리했다.",
+  "metrics": {
+    "views": 1866,
+    "likes": 17,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 45,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "youtube-30c836f0",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "youtube",
+  "source_name": "점심뭐먹지",
+  "url": "https://www.youtube.com/watch?v=vL3TmjykQaw",
+  "title": "지금 난리 난 'lg 트윈스' 핵심 총정리! 😱 #Shorts",
+  "published_at": "2026-10-19T21:01:09Z",
+  "collected_at": "2026-10-19T21:38:19.811Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 0,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

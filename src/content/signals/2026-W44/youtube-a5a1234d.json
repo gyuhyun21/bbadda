@@ -1,0 +1,26 @@
+{
+  "id": "youtube-a5a1234d",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "source_name": "한화에 묻어다오",
+  "url": "https://www.youtube.com/watch?v=8BZKG7jtvTo",
+  "title": "감동적인 건우의 게시물에 등장한 악플러들 #강건우 #정우주 #오재원 #황준서 #한화이글스",
+  "published_at": "2026-10-19T16:35:03Z",
+  "collected_at": "2026-10-19T21:38:19.811Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 8915,
+    "likes": 169,
+    "comments": 7
+  },
+  "scores": {
+    "hot": 61,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

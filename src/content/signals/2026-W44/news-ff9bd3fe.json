@@ -1,0 +1,23 @@
+{
+  "id": "news-ff9bd3fe",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "부산일보",
+  "url": "https://mobile.busan.com/view/election/view.php?code=2026101914220750400",
+  "title": "1주일 째 ‘장고’…롯데 사령탑 인선 ‘안갯속’",
+  "published_at": "2026-10-19T07:59:03.000Z",
+  "collected_at": "2026-10-19T21:38:19.811Z",
+  "summary_ko": "부산일보는 롯데 사령탑 인선이 1주일째 결론 없이 안갯속이라고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "롯데 감독 인선, 고심 1주째"
+}

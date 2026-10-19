@@ -1,0 +1,27 @@
+{
+  "id": "youtube-cc0de063",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "제육볶음 한화이글스",
+  "url": "https://www.youtube.com/watch?v=kuyhnxN6v_k",
+  "title": "1할에서 29홈런까지 다사다난했던 노시환의 2026년",
+  "published_at": "2026-10-19T13:15:12Z",
+  "collected_at": "2026-10-19T21:38:19.811Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 5098,
+    "likes": 43,
+    "comments": 28
+  },
+  "scores": {
+    "hot": 54,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}
