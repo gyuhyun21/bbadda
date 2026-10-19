@@ -86,3 +86,9 @@
 3. Deployments → 최신 배포 **Redeploy**.
 
 저장 내용: 경기별 팀 득표 수, 중복 방지용 IP 해시(원문 IP 저장 안 함). 모두 경기 30일 뒤 자동 삭제.
+
+## 경기 알림(웹 푸시)
+- 구독: `api/push.ts`(Upstash 해시 `push:subs`), 발송: `api/push-send.ts`, 서비스워커: `public/sw.js`, 버튼: `src/components/PushButton.astro`(끄기: `config/site.yaml` push: false).
+- 발송 시점: `.github/workflows/push.yml` — main 의 `data/postseason.yaml` 이 바뀌면 새로 채워진 경기 결과·예고 선발만 알림(최대 2개).
+- Vercel 환경변수(Production): `VAPID_PUBLIC_KEY`, `VAPID_PRIVATE_KEY`, `PUSH_SECRET`. GitHub 시크릿: `PUSH_SECRET`(같은 값). 2026-10-19 설정. 키를 바꾸면 기존 구독자는 다시 알림을 켜야 한다.
+- 아이폰은 홈 화면에 추가한 경우(iOS 16.4 이상)에만 알림을 받는다.

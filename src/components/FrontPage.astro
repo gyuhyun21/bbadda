@@ -1,5 +1,7 @@
 ---
 // 첫 화면 'front'(매일 바뀌는 스포츠 1면). config/site.yaml home: simple 로 바꾸면 이전 화면(팀 선택 + 최근 소식 격자).
+import PushButton from './PushButton.astro';
+import { pushButton } from '../lib/config.ts';
 import ShareButton from './ShareButton.astro';
 import SignalCard from './SignalCard.astro';
 import SignalList from './SignalList.astro';
@@ -49,6 +51,7 @@ const fanVideos = fanAll.filter((s) => s.source_type === 'youtube').slice(0, 12)
 const fanPosts = fanAll.filter((s) => s.source_type !== 'youtube' && !isCommunityPost(s)).slice(0, 20);
 // 7) 날짜별 소식(최근 7일)
 const days = daysOf(all).slice(0, 7);
+const pushOn = pushButton();
 ---
 <nav class="side-nav" aria-label="섹션 바로가기" data-pagefind-ignore>
   {/* 넓은 PC 화면(1360px 이상)에서만 왼쪽에 고정. 지금 보는 섹션이 강조된다 */}
@@ -79,6 +82,7 @@ const days = daysOf(all).slice(0, 7);
 <section class="front-masthead" aria-label="BBADDA">
   <div class="share-row"><Edition signals={all} /><ShareButton /></div>
   <p class="edition-fresh" data-fresh-count hidden></p>
+  {pushOn && <PushButton />}
   <p class="edition-sched">{UPDATE_SCHEDULE.daily}<span> · {UPDATE_SCHEDULE.weekend}</span></p>
   <h1 class="sr-only">BBADDA 빠따닷컴</h1>
 </section>

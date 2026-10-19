@@ -3,17 +3,7 @@
 //   POST /api/vote { game, team }     → 한 IP 한 경기 1표(IP 원문은 저장하지 않고 해시만, 경기 30일 뒤 삭제)
 // 환경변수(연동이 자동으로 넣는다): KV_REST_API_URL + KV_REST_API_TOKEN (또는 UPSTASH_REDIS_REST_URL + UPSTASH_REDIS_REST_TOKEN). VOTE_SALT(선택).
 import { parseGameId, isOpen, isVisible, startsAt, sha256 } from './_vote.js';
-
-const URL_ = process.env.KV_REST_API_URL ?? process.env.UPSTASH_REDIS_REST_URL;
-const TOKEN = process.env.KV_REST_API_TOKEN ?? process.env.UPSTASH_REDIS_REST_TOKEN;
-
-const json = (body: unknown, status = 200) => new Response(JSON.stringify(body), { status, headers: { 'Content-Type': 'application/json', 'Cache-Control': 'no-store' } });
-
-async function redis(cmds: (string | number)[][]): Promise<{ result: unknown }[]> {
-  const res = await fetch(`${URL_}/pipeline`, { method: 'POST', headers: { Authorization: `Bearer ${TOKEN}` }, body: JSON.stringify(cmds) });
-  if (!res.ok) throw new Error(`redis ${res.status}`);
-  return res.json();
-}
+import { redis, redisReady, json } from './_redis.js';
 
 async function counts(id: string, teams: [string, string]) {
   const [r] = await redis([['HMGET', `vote:${id}`, ...teams]]);
@@ -22,7 +12,7 @@ async function counts(id: string, teams: [string, string]) {
 }
 
 export async function GET(request: Request) {
-  if (!URL_ || !TOKEN) return json({ error: 'not configured' }, 503);
+  if (!redisReady()) return json({ error: 'not configured' }, 503);
   const g = parseGameId(new URL(request.url).searchParams.get('game'));
   const now = Date.now();
   if (!g || !isVisible(g, now)) return json({ error: 'bad game' }, 400);
@@ -30,7 +20,7 @@ export async function GET(request: Request) {
 }
 
 export async function POST(request: Request) {
-  if (!URL_ || !TOKEN) return json({ error: 'not configured' }, 503);
+  if (!redisReady()) return json({ error: 'not configured' }, 503);
   let body: { game?: unknown; team?: unknown };
   try { body = await request.json(); } catch { return json({ error: 'bad body' }, 400); }
   const g = parseGameId(body.game);
