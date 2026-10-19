@@ -27,6 +27,11 @@ export const postseasonSchema = z.object({
       starter_notes: z.record(z.string(), z.string()).optional(), // 팀 id → 선발의 시즌 성적 한 줄(다음 경기 카드)
       facts: z.array(z.string()).default([]), // 관전 포인트(다음 경기 카드 가운데 칸)
       highlight: z.string().url().optional(), // 하이라이트 영상(없으면 수집된 공식 YouTube 에서 자동으로 찾는다)
+      // 인스타 카드 문구(루틴이 기사로 확인된 사실로 쓴다). pre = 경기 전 세트, post = 경기 후 세트
+      ig: z.object({
+        pre: z.object({ hook: z.string().max(24), sub: z.string().max(40).optional() }).optional(),
+        post: z.object({ hook: z.string().max(24), sub: z.string().max(40).optional(), points: z.array(z.string().max(44)).max(3).default([]) }).optional(),
+      }).optional(),
       sources: z.array(z.string().url()).default([]),
     })),
   })),
@@ -41,7 +46,8 @@ export function loadPostseason(root = process.cwd()): PostseasonData | null {
 
 const WEEKDAY = ['일', '월', '화', '수', '목', '금', '토'];
 export type Side = { id?: string; label: string; wins: number };
-export type GameRecord = { highlight?: string; starters: [string?, string?]; starterNotes: [string?, string?]; facts: string[]; win?: string; loss?: string; save?: string; holds: string[]; homers: string[]; mvp?: string; attendance?: string; sources: string[] };
+export type IgCopy = { pre?: { hook: string; sub?: string }; post?: { hook: string; sub?: string; points: string[] } };
+export type GameRecord = { ig?: IgCopy; highlight?: string; starters: [string?, string?]; starterNotes: [string?, string?]; facts: string[]; win?: string; loss?: string; save?: string; holds: string[]; homers: string[]; mvp?: string; attendance?: string; sources: string[] };
 export type GameView = { round: string; roundName: string; no: number; date: string; weekday: string; time: string; venue: string; played: boolean; score?: string; sides: [Side, Side]; skipped: boolean; ifNeeded: boolean; record: GameRecord };
 export type RoundView = { id: string; name: string; short: string; toWin: number; sides: [Side, Side]; winner?: string; status: 'done' | 'live' | 'upcoming'; games: GameView[]; next?: GameView };
 
@@ -71,7 +77,7 @@ export function resolvePostseason(d: PostseasonData, today: string): { rounds: R
       return {
         round: r.id, roundName: r.name, no: g.no, date: g.date, weekday: WEEKDAY[day], time: day === 0 || day === 6 ? d.time.weekend : d.time.weekday,
         venue: venueName, played: !!score, score, skipped, ifNeeded: g.no > r.to_win,
-        record: { highlight: g.highlight, starters: [ids[0] ? g.starters?.[ids[0]] : undefined, ids[1] ? g.starters?.[ids[1]] : undefined], starterNotes: [ids[0] ? g.starter_notes?.[ids[0]] : undefined, ids[1] ? g.starter_notes?.[ids[1]] : undefined], facts: g.facts, win: g.win, loss: g.loss, save: g.save, holds: g.holds, homers: g.homers, mvp: g.mvp, attendance: g.attendance, sources: [...(g.source ? [g.source] : []), ...g.sources] },
+        record: { ig: g.ig, highlight: g.highlight, starters: [ids[0] ? g.starters?.[ids[0]] : undefined, ids[1] ? g.starters?.[ids[1]] : undefined], starterNotes: [ids[0] ? g.starter_notes?.[ids[0]] : undefined, ids[1] ? g.starter_notes?.[ids[1]] : undefined], facts: g.facts, win: g.win, loss: g.loss, save: g.save, holds: g.holds, homers: g.homers, mvp: g.mvp, attendance: g.attendance, sources: [...(g.source ? [g.source] : []), ...g.sources] },
         sides: [{ id: ids[0], label: labels[0], wins: 0 }, { id: ids[1], label: labels[1], wins: 0 }],
       };
     });
