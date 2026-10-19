@@ -608,8 +608,9 @@ button.ps-round-btn:focus-visible { outline: 2px solid var(--accent); outline-of
 .ps-sources a { color: inherit; }
 
 /* 승부 예측(다음 경기 카드 안, 한 줄) */
-.ps-vote { display: grid; grid-template-columns: auto 1fr; grid-template-areas: "q act" "note note"; align-items: center; gap: 6px 12px; padding: 10px 12px; border-radius: 14px; background: rgba(255,255,255,0.06); }
+.ps-vote { position: relative; display: grid; grid-template-columns: auto 1fr; grid-template-areas: "q act" "note rec" "list list"; align-items: center; gap: 6px 12px; padding: 10px 12px; border-radius: 14px; background: rgba(255,255,255,0.06); }
 .ps-vote[hidden], .ps-vote [hidden] { display: none; }
+@media (max-width: 519px) { .ps-vote { grid-template-columns: 1fr auto; grid-template-areas: "q q" "act act" "note rec" "list list"; } .ps-vote-btns { justify-self: start; } }
 .ps-vote-q { grid-area: q; margin: 0; font-size: 12px; font-weight: 700; color: #FFD34D; white-space: nowrap; }
 .ps-vote-q span { margin-left: 4px; color: #fff; }
 .ps-vote-btns, .ps-vote-result { grid-area: act; justify-self: end; }
@@ -740,15 +741,18 @@ html .about-compact h1.page-title { font-size: 22px; letter-spacing: -0.01em; ma
 .ps-side.is-out { text-decoration: none; }
 .ps-side.is-out .ps-side-name { text-decoration: line-through; text-decoration-color: rgba(0,0,0,0.25); }
 /* 승부예측 결과(revisit) */
-.ps-myrec { margin: 12px 0 0; font-size: 13px; color: #C9C9CE; }
-.ps-myrec-sum { margin: 0; display: flex; flex-wrap: wrap; align-items: center; gap: 4px 10px; }
+.ps-myrec { grid-area: list; margin: 4px 0 0; font-size: 13px; color: #C9C9CE; }
+@media (min-width: 760px) { .ps-myrec { position: absolute; top: calc(100% + 6px); left: 0; right: 0; z-index: 5; margin: 0; padding: 10px; border-radius: 14px; background: #2A2A2D; box-shadow: 0 12px 30px rgba(0,0,0,0.45); } }
+.ps-myrec-sum { margin: 0 0 8px; }
+.ps-myrec-sum:empty { display: none; }
 .ps-myrec-sum strong { color: #fff; font-weight: 800; }
-.ps-myrec-btn { margin-left: auto; padding: 5px 12px; border: 1px solid rgba(255,255,255,0.25); border-radius: 999px; background: transparent; color: #fff; font: 700 12px/1.2 var(--font); cursor: pointer; }
+.ps-myrec-btn { grid-area: rec; justify-self: end; white-space: nowrap; padding: 4px 11px; border: 1px solid rgba(255,255,255,0.25); border-radius: 999px; background: transparent; color: #fff; font: 700 12px/1.2 var(--font); cursor: pointer; }
 .ps-myrec-btn:focus-visible { outline: 2px solid #FFD43B; outline-offset: 2px; }
-.ps-myrec-list { list-style: none; margin: 10px 0 0; padding: 0; display: grid; gap: 6px; }
-.ps-myrec-list li { display: grid; grid-template-columns: 66px 1fr auto; grid-template-areas: 'badge t s' 'badge p p'; align-items: center; gap: 2px 10px; padding: 8px 12px; border-radius: 12px; background: rgba(255,255,255,0.06); }
-.ps-myrec-t { grid-area: t; color: #fff; font-weight: 600; }
+.ps-myrec-list { list-style: none; margin: 0; padding: 0; display: grid; gap: 6px; }
+.ps-myrec-list li { display: grid; grid-template-columns: 62px minmax(0, 1fr) auto; grid-template-areas: 'badge t s' 'badge p p'; align-items: center; gap: 2px 10px; padding: 8px 12px; border-radius: 12px; background: rgba(255,255,255,0.06); }
+.ps-myrec-t { grid-area: t; color: #fff; font-weight: 600; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
 .ps-myrec-s { grid-area: s; font-weight: 700; color: #E5E5EA; white-space: nowrap; }
+@media (max-width: 519px) { .ps-myrec-list li { grid-template-columns: 62px minmax(0, 1fr); grid-template-areas: 'badge t' 'badge s' 'badge p'; } }
 .ps-myrec-p { grid-area: p; font-size: 12px; color: #A1A1A6; }
 .ps-myrec-p:empty { display: none; }
 /* 적중·실패·미참여 배지: 도형(채운 원+체크 / 원+엑스 / 점선 원) + 글자 */

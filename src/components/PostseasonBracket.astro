@@ -74,12 +74,16 @@ const hostOf = (u: string) => { try { return new URL(u).hostname.replace(/^(www|
                   <span class="ps-vote-pct"><strong data-vote-pct={view.next.sides[1].id}>0%</strong> {name(view.next.sides[1])}</span>
                 </div>
                 <p class="ps-vote-note" data-vote-note data-close={view.next.time}></p>
-              </div>
-            )}
-            {graded.length > 0 && (
-              <div class="ps-myrec" data-myrec={JSON.stringify(graded)} hidden>
-                <p class="ps-myrec-sum"><span data-myrec-sum></span><button type="button" class="ps-myrec-btn" data-myrec-toggle aria-expanded="false" aria-controls="ps-myrec-list">예측 결과 보기</button></p>
-                <ol class="ps-myrec-list" id="ps-myrec-list" hidden></ol>
+                {graded.length > 0 && (
+                  /* 예측 결과(기본 접힘): 넓은 화면은 투표 칸 아래로 겹쳐 펼쳐져 카드 높이가 바뀌지 않는다 */
+                  <>
+                    <button type="button" class="ps-myrec-btn" data-myrec-toggle aria-expanded="false" aria-controls="ps-myrec">예측 결과 보기</button>
+                    <div class="ps-myrec" id="ps-myrec" data-myrec={JSON.stringify(graded)} hidden>
+                      <p class="ps-myrec-sum" data-myrec-sum></p>
+                      <ol class="ps-myrec-list"></ol>
+                    </div>
+                  </>
+                )}
               </div>
             )}
           </div>
@@ -224,7 +228,7 @@ const hostOf = (u: string) => { try { return new URL(u).hostname.replace(/^(www|
       const b = document.createElement('strong'); b.textContent = `내 예측 ${hits}/${picks.length} 적중`;
       sum.replaceChildren(b, streak >= 2 ? ` · ${streak}연속 적중` : '');
     }
-    const list = el.querySelector<HTMLOListElement>('.ps-myrec-list')!;
+    const list = el.querySelector<HTMLOListElement>('.ps-myrec-list')!; // 목록은 미리 채워 두고 버튼으로 패널을 연다
     list.replaceChildren(...games.slice(-5).reverse().map((g) => {
       const li = document.createElement('li');
       const state = !g.p ? ['is-none', '미참여'] : g.p === g.w ? ['is-hit', '적중'] : ['is-miss', '실패'];
@@ -235,9 +239,11 @@ const hostOf = (u: string) => { try { return new URL(u).hostname.replace(/^(www|
       li.append(badge, t, sc, p);
       return li;
     }));
-    const btn = el.querySelector<HTMLButtonElement>('[data-myrec-toggle]')!;
-    btn.addEventListener('click', () => { const open = list.hidden; list.hidden = !open; btn.setAttribute('aria-expanded', String(open)); btn.textContent = open ? '예측 결과 접기' : '예측 결과 보기'; });
-    el.hidden = false;
+    const btn = document.querySelector<HTMLButtonElement>('[data-myrec-toggle]')!;
+    const set = (open: boolean) => { el.hidden = !open; btn.setAttribute('aria-expanded', String(open)); btn.textContent = open ? '예측 결과 접기' : '예측 결과 보기'; };
+    btn.addEventListener('click', () => set(el.hidden));
+    document.addEventListener('keydown', (e) => { if (e.key === 'Escape' && !el.hidden) { set(false); btn.focus(); } });
+    document.addEventListener('click', (e) => { if (!el.hidden && !(e.target as Element).closest('.ps-vote')) set(false); });
   });
   // 라운드 카드를 누르면 그 라운드의 경기 기록을 펼친다(한 번에 하나)
   document.querySelectorAll<HTMLButtonElement>('[data-ps-round]').forEach((b) => b.addEventListener('click', () => {
