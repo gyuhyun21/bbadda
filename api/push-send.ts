@@ -1,11 +1,20 @@
 // 경기 알림 발송(Vercel 함수). GitHub Actions(.github/workflows/push.yml)가 경기 결과·예고 선발이 갱신될 때 부른다.
 //   POST /api/push-send  Authorization: Bearer <PUSH_SECRET>  { title, body, url, tag? } → 모든 구독자에게 발송
+//   GET  /api/push-send  Authorization: Bearer <PUSH_SECRET>  → { subscribers } (구독자 수만)
 // 환경변수: VAPID_PUBLIC_KEY, VAPID_PRIVATE_KEY, VAPID_SUBJECT(선택, 기본 https://bbadda.com), PUSH_SECRET
 import webpush from 'web-push';
 import { parseMsg, safeEqual, type PushSub } from './_push.js';
 import { redis, redisReady, json } from './_redis.js';
 
 export const config = { maxDuration: 60 };
+
+export async function GET(request: Request) {
+  const secret = process.env.PUSH_SECRET;
+  if (!secret || !redisReady()) return json({ error: 'not configured' }, 503);
+  if (!safeEqual(request.headers.get('authorization') ?? '', `Bearer ${secret}`)) return json({ error: 'unauthorized' }, 401);
+  const [n] = await redis([['HLEN', 'push:subs']]);
+  return json({ subscribers: Number(n.result) });
+}
 
 export async function POST(request: Request) {
   const { VAPID_PUBLIC_KEY: pub, VAPID_PRIVATE_KEY: priv, PUSH_SECRET: secret } = process.env;
