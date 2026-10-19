@@ -1,11 +1,12 @@
 ---
-// 경기 알림 받기(웹 푸시). 지원하지 않는 브라우저·설정 안 된 서버면 숨김.
+// 알림받기(웹 푸시). 지원하지 않는 브라우저·설정 안 된 서버면 숨김.
 // 아이폰은 홈 화면에 추가한 경우에만 알림을 받을 수 있어 안내 문구로 바꾼다. 끄기: config/site.yaml push: false
 ---
 <p class="push-row" data-push-row hidden>
   <button type="button" class="push-btn" data-push aria-pressed="false">
-    <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 8a6 6 0 1 1 12 0c0 7 3 9 3 9H3s3-2 3-9"/><path d="M10.3 21a1.94 1.94 0 0 0 3.4 0"/></svg>
-    <span data-push-label>경기 알림 받기</span>
+    <svg class="ico-off" viewBox="0 0 24 24" aria-hidden="true"><path d="M6 8a6 6 0 1 1 12 0c0 7 3 9 3 9H3s3-2 3-9"/><path d="M10.3 21a1.94 1.94 0 0 0 3.4 0"/><path d="M12 2v1"/></svg>
+    <svg class="ico-on" viewBox="0 0 24 24" aria-hidden="true"><path d="M6 8a6 6 0 1 1 12 0c0 7 3 9 3 9H3s3-2 3-9"/><path d="M10.3 21a1.94 1.94 0 0 0 3.4 0"/><path d="M2.5 8.5a9 9 0 0 1 2.2-4.6M21.5 8.5a9 9 0 0 0-2.2-4.6"/></svg>
+    <span data-push-label>알림받기</span>
   </button>
   <span class="push-hint" data-push-hint></span>
 </p>
@@ -21,7 +22,7 @@
     if (!row || !btn || !label || !hint) return;
     if (!('serviceWorker' in navigator) || !('PushManager' in window) || !('Notification' in window)) {
       // 아이폰 사파리(홈 화면 추가 전): 방법만 알려 준다
-      if (ios && !standalone) { btn.hidden = true; hint.textContent = '홈 화면에 추가하면 경기 알림을 받을 수 있어요'; row.hidden = false; }
+      if (ios && !standalone) { btn.hidden = true; hint.textContent = '홈 화면에 추가하면 알림받기를 쓸 수 있어요. 새 소식이 나올 때 알려 드려요'; row.hidden = false; }
       return;
     }
     let publicKey = '';
@@ -31,8 +32,8 @@
     const render = () => {
       const on = !!sub && Notification.permission === 'granted';
       btn.setAttribute('aria-pressed', String(on));
-      label.textContent = on ? '경기 알림 켜짐' : '경기 알림 받기';
-      hint.textContent = Notification.permission === 'denied' ? '브라우저 설정에서 알림이 차단돼 있어요' : on ? '경기 결과·예고 선발이 나오면 알려 드려요' : '';
+      label.textContent = on ? '알림 받는 중' : '알림받기';
+      hint.textContent = Notification.permission === 'denied' ? '브라우저 설정에서 알림이 차단돼 있어요' : on ? '경기 전·후 소식이 나오면 알려 드릴게요' : '등록하면 경기 전·후 소식이 나올 때 알려 드려요';
       btn.disabled = Notification.permission === 'denied';
     };
     render();

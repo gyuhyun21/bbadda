@@ -82,8 +82,8 @@ const pushOn = pushButton();
 <section class="front-masthead" aria-label="BBADDA">
   <div class="share-row"><Edition signals={all} /><ShareButton /></div>
   <p class="edition-fresh" data-fresh-count hidden></p>
+  <p class="edition-sched"><strong>{UPDATE_SCHEDULE.lead}</strong> {UPDATE_SCHEDULE.daily}<span> · {UPDATE_SCHEDULE.weekend}</span></p>
   {pushOn && <PushButton />}
-  <p class="edition-sched">{UPDATE_SCHEDULE.daily}<span> · {UPDATE_SCHEDULE.weekend}</span></p>
   <h1 class="sr-only">BBADDA 빠따닷컴</h1>
 </section>
 
