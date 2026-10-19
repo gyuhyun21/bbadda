@@ -1,0 +1,17 @@
+# 인스타 게시 계정 확인(수동 실행): 페이지 토큰으로 연결된 계정의 아이디·이름과 게시 한도만 조회한다. 토큰은 출력하지 않는다.
+# 시크릿 INSTAGRAM_PAGE_TOKEN, 변수 INSTAGRAM_USER_ID
+name: ig-check
+on: workflow_dispatch
+permissions:
+  contents: read
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 계정·게시 한도 조회
+        env:
+          TOKEN: ${{ secrets.INSTAGRAM_PAGE_TOKEN }}
+          IG: ${{ vars.INSTAGRAM_USER_ID }}
+        run: |
+          curl -sS -f -H "Authorization: Bearer $TOKEN" "https://graph.facebook.com/v21.0/$IG?fields=username,name" | jq '{username, name}'
+          curl -sS -f -H "Authorization: Bearer $TOKEN" "https://graph.facebook.com/v21.0/$IG/content_publishing_limit?fields=quota_usage,config" | jq '.data'
