@@ -1,0 +1,48 @@
+# 응원가 연습(kt) — 구단 공식 유튜브 응원가 모음 영상의 설명란 타임코드. 가사·음원은 싣지 않고 공식 영상 구간 재생만 한다.
+# 출처: https://www.youtube.com/watch?v=2kJf0pbtajA "직관 전 필수시청 2026 kt wiz 응원가 전곡 플레이리스트"(2026-03-23 게시, 2026-10-19 확인)
+team: kt
+season: 2026
+players:
+  video: 2kJf0pbtajA
+  end: 2105
+  items:
+    - { name: 최원준, start: 1275 }
+    - { name: 오윤석, start: 1309 }
+    - { name: 이강민, start: 1339 }
+    - { name: 김상수, start: 1375 }
+    - { name: 안치영, start: 1452 }
+    - { name: 류현인, start: 1484 }
+    - { name: 김현수, start: 1523 }
+    - { name: 허경민, start: 1560 }
+    - { name: 장성우, start: 1601 }
+    - { name: 안현민, start: 1643 }
+    - { name: 문상철, start: 1683 }
+    - { name: 배정대, start: 1716 }
+    - { name: 이정훈, start: 1752 }
+    - { name: 힐리어드, start: 1785 }
+    - { name: 조대현, start: 1814 }
+    - { name: 한승택, start: 1851 }
+    - { name: 장진혁, start: 1891 }
+    - { name: 권동진, start: 1924 }
+    - { name: 김민혁, start: 1992 }
+    - { name: 강현우, start: 2033 }
+    - { name: 임상우, start: 2069 }
+team_songs:
+  video: 2kJf0pbtajA
+  end: 1275
+  items:
+    - { name: kt wiz clap, start: 0 }
+    - { name: 우리는 kt wiz, start: 30 }
+    - { name: 안타송, start: 63 }
+    - { name: kt wiz 영원하리라, start: 99 }
+    - { name: oh kt wiz, start: 190 }
+    - { name: we are the kt wiz, start: 274 }
+    - { name: 사랑한다 수원 KT, start: 384 }
+    - { name: 승리를 위하여, start: 477 }
+    - { name: 승리를 향해 비상하라, start: 542 }
+    - { name: 승리의 함성, start: 658 }
+    - { name: 외쳐라 승리의 kt wiz, start: 759 }
+    - { name: 으랏차차, start: 841 }
+    - { name: 투혼 KT, start: 970 }
+    - { name: 위닝케이티, start: 1053 }
+    - { name: 아웃송, start: 1175 }

@@ -1,0 +1,54 @@
+# 응원가 연습(nc) — 구단 공식 유튜브 응원가 모음 영상의 설명란 타임코드. 가사·음원은 싣지 않고 공식 영상 구간 재생만 한다.
+# 출처: 선수 https://www.youtube.com/watch?v=XV44hT1jIvI "NC 다이노스 2026시즌 선수 응원가"(2026-03-26), 팀 https://www.youtube.com/watch?v=XvOb7Nx3co0 "NC 다이노스 2026시즌 팀 응원가"(2026-03-27) — 2026-10-19 확인
+team: nc
+season: 2026
+players:
+  video: XV44hT1jIvI
+  end: 908
+  items:
+    - { name: 박민우 ver.1, start: 5 }
+    - { name: 박민우 ver.2, start: 40 }
+    - { name: 서호철, start: 74 }
+    - { name: 김주원, start: 105 }
+    - { name: 신재인, start: 142, note: 신규 }
+    - { name: 홍종표, start: 180 }
+    - { name: 김한별, start: 232 }
+    - { name: 최정원, start: 258 }
+    - { name: 도태훈, start: 289 }
+    - { name: 안중열, start: 322 }
+    - { name: 천재환, start: 363 }
+    - { name: 데이비슨, start: 399 }
+    - { name: 김형준, start: 442 }
+    - { name: 이희성, start: 486, note: 신규 }
+    - { name: 한석현, start: 523 }
+    - { name: 오영수, start: 560 }
+    - { name: 권희동, start: 598 }
+    - { name: 박건우, start: 634 }
+    - { name: 김정호, start: 664, note: 신규 }
+    - { name: 김휘집, start: 699 }
+    - { name: 고준휘, start: 732, note: 신규 }
+    - { name: 박시원, start: 773 }
+    - { name: 이우성, start: 805 }
+    - { name: 오장한, start: 845, note: 신규 }
+team_songs:
+  video: XvOb7Nx3co0
+  end: 1530
+  items:
+    - { name: 다이노스 찬가, start: 6 }
+    - { name: "다이노스여 일어나라!", start: 70 }
+    - { name: 다이노스 다이겨쓰, start: 169 }
+    - { name: 승리를 위하여, start: 267 }
+    - { name: 승리의 깃발, start: 372 }
+    - { name: 승리의 함성, start: 467 }
+    - { name: 창원의 NC, start: 589 }
+    - { name: NC 위하여, start: 699 }
+    - { name: Together NC, start: 799 }
+    - { name: We are NC, start: 906 }
+    - { name: 사랑한다 NC, start: 1016 }
+    - { name: 승리의 NC 질주의 다이노스, start: 1053 }
+    - { name: 우리의 NC, start: 1086 }
+    - { name: NC를 위하여, start: 1124 }
+    - { name: 외쳐라 다이노스, start: 1241 }
+    - { name: 하나가 되어, start: 1314 }
+    - { name: 미친듯 놀자, start: 1354 }
+    - { name: 마산 스트리트, start: 1432 }

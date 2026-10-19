@@ -1,0 +1,53 @@
+# 응원가 연습(samsung) — 구단 공식 유튜브 응원가 모음 영상의 설명란 타임코드. 가사·음원은 싣지 않고 공식 영상 구간 재생만 한다.
+# 출처: https://www.youtube.com/watch?v=HAPsuHspHn8 "2026 삼성라이온즈 응원가 PLAYLIST"(2026-04-28 게시, 2026-10-19 확인)
+team: samsung
+season: 2026
+players:
+  video: HAPsuHspHn8
+  end: 1816
+  items:
+    - { name: 디아즈, start: 116 }
+    - { name: 김재성, start: 169 }
+    - { name: 이해승, start: 246 }
+    - { name: 구자욱, start: 302 }
+    - { name: 심재훈, start: 401 }
+    - { name: 이재현, start: 449 }
+    - { name: 김재혁, start: 499 }
+    - { name: 이성규, start: 570 }
+    - { name: 김재상, start: 634 }
+    - { name: 류지혁, start: 687 }
+    - { name: 이병헌, start: 762 }
+    - { name: 김도환, start: 816 }
+    - { name: 김태훈, start: 871 }
+    - { name: 김영웅, start: 926 }
+    - { name: 윤정빈, start: 990 }
+    - { name: 김헌곤, start: 1047 }
+    - { name: 최형우, start: 1109 }
+    - { name: 김성윤, start: 1178 }
+    - { name: 함수호, start: 1243 }
+    - { name: 류승민, start: 1292 }
+    - { name: 강민호, start: 1348 }
+    - { name: 이창용, start: 1423 }
+    - { name: 박세혁, start: 1479 }
+    - { name: 양우현, start: 1557 }
+    - { name: 김지찬, start: 1608 }
+    - { name: 전병우, start: 1668 }
+    - { name: 박승규, start: 1749 }
+team_songs:
+  video: HAPsuHspHn8
+  end: 2991
+  items:
+    - { name: 라인업송, start: 0, end: 116 }
+    - { name: 지중해, start: 1816 }
+    - { name: 승리하라 최강삼성, start: 1848 }
+    - { name: 승리의 그 이름, start: 1958 }
+    - { name: 승리를 위해, start: 2032 }
+    - { name: 투게더, start: 2109 }
+    - { name: 혼연일체, start: 2178 }
+    - { name: 우리들의 함성, start: 2297 }
+    - { name: 언제나, start: 2397 }
+    - { name: 나의 라이온즈, start: 2543 }
+    - { name: 이 파도의 저끝에서, start: 2638 }
+    - { name: 영원하라 라이온즈여, start: 2719 }
+    - { name: 최강삼성 하나되어, start: 2818 }
+    - { name: 승리의 라이온즈, start: 2880 }

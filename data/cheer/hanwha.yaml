@@ -1,0 +1,38 @@
+# 응원가 연습(hanwha) — 구단 공식 유튜브 응원가 모음 영상의 설명란 타임코드. 가사·음원은 싣지 않고 공식 영상 구간 재생만 한다.
+# 출처: https://www.youtube.com/watch?v=3xzAdp1MFoY "신규 팀응원가 공개 2026 한화이글스 등장곡+응원가 완벽 정리"(2026-03-31 게시, 2026-10-19 확인)
+team: hanwha
+season: 2026
+players:
+  video: 3xzAdp1MFoY
+  end: 1321
+  items:
+    - { name: 이도윤, start: 0 }
+    - { name: 심우준, start: 67 }
+    - { name: 노시환, start: 136 }
+    - { name: 임종찬, start: 198 }
+    - { name: 이진영, start: 265 }
+    - { name: 최재훈, start: 328 }
+    - { name: 하주석, start: 394 }
+    - { name: 권광민, start: 455 }
+    - { name: 이재원, start: 480 }
+    - { name: 채은성, start: 530 }
+    - { name: 김태연, start: 601 }
+    - { name: 페라자, start: 655 }
+    - { name: 손아섭, start: 706 }
+    - { name: 장규현, start: 756 }
+    - { name: 유로결, start: 774 }
+    - { name: 이원석, start: 793 }
+    - { name: 최인호, start: 848 }
+    - { name: 박상언, start: 907 }
+    - { name: 강백호, start: 967 }
+    - { name: 문현빈, start: 1030 }
+    - { name: 오재원, start: 1098 }
+    - { name: 허인서, start: 1116 }
+    - { name: 박정현, start: 1172 }
+    - { name: 황영묵, start: 1252 }
+team_songs:
+  video: 3xzAdp1MFoY
+  end: 1540
+  items:
+    - { name: 영원히 최강한화, start: 1321 }
+    - { name: 우리의 사랑 한화이글스, start: 1433 }

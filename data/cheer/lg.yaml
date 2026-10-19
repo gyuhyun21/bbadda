@@ -1,0 +1,41 @@
+# 응원가 연습(lg) — 구단 공식 유튜브 응원가 모음 영상의 설명란 타임코드. 가사·음원은 싣지 않고 공식 영상 구간 재생만 한다.
+# 출처: https://www.youtube.com/watch?v=67YSHhdg1Sc "계속될 우리의 함성 LG트윈스 응원가 모음.zip"(2026-10-13 게시, 2026-10-19 확인)
+team: lg
+season: 2026
+players:
+  video: 67YSHhdg1Sc
+  end: 819
+  items:
+    - { name: 홍창기, start: 149 }
+    - { name: 박해민, start: 195 }
+    - { name: 오스틴, start: 260 }
+    - { name: 문정빈, start: 334 }
+    - { name: 문보경, start: 386 }
+    - { name: 송찬의, start: 438 }
+    - { name: 이재원, start: 526 }
+    - { name: 오지환, start: 579 }
+    - { name: 구본혁, start: 629 }
+    - { name: 박동원, start: 682 }
+    - { name: 신민재, start: 741 }
+    - { name: 이영빈, start: 775 }
+team_songs:
+  video: 67YSHhdg1Sc
+  end: 1789
+  items:
+    - { name: 라인업송 + 뉴셀리오, start: 14, end: 149 }
+    - { name: 공통 안타송, start: 819 }
+    - { name: 풀카운트송, start: 851 }
+    - { name: 볼넷송, start: 884 }
+    - { name: 아웃카운트송 1, start: 900 }
+    - { name: 아웃카운트송 2, start: 915 }
+    - { name: 아웃카운트송 3, start: 925 }
+    - { name: LG의 승리를 위하여, start: 941 }
+    - { name: 사랑한다 LG, start: 968 }
+    - { name: 나의 사랑 서울 LG, start: 997 }
+    - { name: 승리의 포효, start: 1028 }
+    - { name: 서울 메들리, start: 1107 }
+    - { name: FOREVER LG, start: 1235 }
+    - { name: 서울의 아리아, start: 1338 }
+    - { name: 최후의 결투, start: 1454 }
+    - { name: 여행을 떠나요, start: 1566 }
+    - { name: 아파트, start: 1673 }

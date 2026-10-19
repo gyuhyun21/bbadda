@@ -1,0 +1,51 @@
+# 응원가 연습(ssg) — 구단 공식 유튜브 응원가 모음 영상의 설명란 타임코드. 가사·음원은 싣지 않고 공식 영상 구간 재생만 한다.
+# 출처: 선수 https://www.youtube.com/watch?v=k9mKPD1j4Mk "2026 SSG랜더스 타자 응원가"(2026-03-27), 팀 https://www.youtube.com/watch?v=zPGEpmBj4iw "2026 SSG랜더스 팀 응원가"(2026-03-26) — 2026-10-19 확인
+team: ssg
+season: 2026
+players:
+  video: k9mKPD1j4Mk
+  end: 780
+  items:
+    - { name: 박성한, start: 0 }
+    - { name: 정준재, start: 28 }
+    - { name: 김성현, start: 62 }
+    - { name: 최준우, start: 91 }
+    - { name: 안상현, start: 123 }
+    - { name: 하재훈, start: 152 }
+    - { name: 최정, start: 191 }
+    - { name: 고명준, start: 281 }
+    - { name: 조형우, start: 314 }
+    - { name: 김민식, start: 349 }
+    - { name: 신범수, start: 381 }
+    - { name: 에레디아, start: 418 }
+    - { name: 김성욱, start: 447 }
+    - { name: 김재환, start: 477 }
+    - { name: 이정범, start: 513 }
+    - { name: 한유섬, start: 553 }
+    - { name: 오태곤, start: 584 }
+    - { name: 류효승, start: 616 }
+    - { name: 최지훈, start: 648 }
+    - { name: 이지영, start: 679 }
+    - { name: 김창평, start: 713 }
+    - { name: 박지환, start: 745 }
+team_songs:
+  video: zPGEpmBj4iw
+  end: 1824
+  items:
+    - { name: 불꽃투혼 랜더스, start: 0 }
+    - { name: 되고송, start: 149 }
+    - { name: 라인업송, start: 255 }
+    - { name: Landing High Together, start: 337 }
+    - { name: 랜더스여, start: 453 }
+    - { name: 승리의 깃발, start: 539 }
+    - { name: 승리를 외쳐라, start: 656 }
+    - { name: 랜더스의 승리를 위해, start: 743 }
+    - { name: 투혼의 랜더스, start: 831 }
+    - { name: 외쳐라 랜더스, start: 923 }
+    - { name: 우린 랜더스, start: 1004 }
+    - { name: "We are the Landers!", start: 1092 }
+    - { name: 프론티어 랜더스, start: 1197 }
+    - { name: 항해하라 랜더스, start: 1307 }
+    - { name: J에게, start: 1432 }
+    - { name: 불티, start: 1534 }
+    - { name: 연안부두, start: 1662 }
