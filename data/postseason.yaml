@@ -66,7 +66,7 @@ rounds:
         starters: { lg: 카라스코, kia: 시라카와 } # 예고 선발
         starter_notes: { lg: "WC 1차전 6이닝 1실점 승", kia: "올해 LG전 1패 · ERA 7.71" }
         facts:
-          - "준PO 1·2차전 승리 팀 PO 진출 7/9회(5전 3선승제)"
+          - "준PO 1·2차전 승리 팀 PO 진출 확률 78%"
           - "KIA 1승 더하면 2년 만의 PO 진출"
         sources:
           - "https://www.newspim.com/news/view/20261018000126" # 시라카와 예고·시즌·LG전 성적
