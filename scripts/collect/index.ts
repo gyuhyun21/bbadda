@@ -64,7 +64,7 @@ export async function runPipeline(ctx: Ctx, week: string, history: Signal[], exi
     { id: 'youtube', run: () => collectYouTube(ctx) },
     { id: 'kakao', run: () => collectKakao(ctx) },
     { id: 'instagram', run: () => collectInstagram(ctx) },
-    { id: 'vertex', run: () => collectVertex(ctx) },
+    { id: 'vertex', run: () => collectVertex(ctx, undefined, [...history, ...existingThisWeek].map((x) => x.url)) },
   ];
   for (const s of runs) {
     if (ctx.only?.length && !ctx.only.includes(s.id)) continue;

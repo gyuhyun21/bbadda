@@ -185,3 +185,15 @@ test('카카오: 검색 미리보기 이미지 주소를 image 로(https), 없�
   assert.equal(docToItem({ ...d, thumbnail: '' }, 'blog').image, undefined);
   assert.equal(toSignal({ ...docToItem({ ...d, thumbnail: 'https://t.kakaocdn.net/x' }, 'blog') }, { teams: ['lotte'], team: 'lotte', module: 'fans' }, '2026-W42', NOW, cfg).image, 'https://t.kakaocdn.net/x');
 });
+
+test('커뮤니티 옛글: 글 번호로 걸러내고 엠엘비파크는 id 날짜', async () => {
+  const { postNumber, mlbparkDate, dropOldByNumber } = await import('../scripts/collect/vertex.ts');
+  assert.equal(postNumber('https://theqoo.net/square/4176076639'), 4176076639);
+  assert.equal(postNumber('https://www.fmkorea.com/index.php?mid=ib&document_srl=10447927414'), 10447927414);
+  assert.equal(mlbparkDate('https://mlbpark.donga.com/mp/b.php?b=bullpen&id=202610090119282088'), '2026-10-08T15:00:00.000Z');
+  const it = (url: string) => ({ source_type: 'community', source_name: 'x', url, title: 't', published_at: '2026-10-18T00:00:00Z' }) as any;
+  const kept = dropOldByNumber([it('https://theqoo.net/square/4176076639'), it('https://theqoo.net/square/4378567038')], 15);
+  assert.deepEqual(kept.map((k: any) => k.url), ['https://theqoo.net/square/4378567038']);
+  // 이번 실행에 옛글만 있어도 이미 모은 글 번호로 거른다
+  assert.equal(dropOldByNumber([it('https://theqoo.net/square/4176076639')], 15, ['https://theqoo.net/kbaseball/4377429044']).length, 0);
+});
