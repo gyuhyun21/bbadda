@@ -1,0 +1,24 @@
+{
+  "id": "community-51f7c049",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 하이스포츠 인사이드",
+  "url": "https://blog.naver.com/historycar/224446621273",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/84mF40O0omU",
+  "title": "\"45홈런에 수비율도 1위\" 김도영 골든글러브 만장일치 도전… 양의지 99.4% 기록까지 넘을까?",
+  "published_at": "2026-10-19T15:26:00.000+09:00",
+  "collected_at": "2026-10-19T07:38:26.414Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

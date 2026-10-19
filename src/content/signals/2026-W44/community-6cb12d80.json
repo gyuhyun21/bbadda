@@ -1,0 +1,48 @@
+{
+  "id": "community-6cb12d80",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "community",
+  "source_name": "다음카페 쭉빵카페",
+  "url": "https://cafe.daum.net/ok1221/8mNz/1179431",
+  "title": "두산베어스가 19일(월) 신임 단장으로 정재훈 운영팀장...",
+  "published_at": "2026-10-19T11:04:01.000+09:00",
+  "collected_at": "2026-10-19T07:38:26.414Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 98,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBwTElxbUlfNEQ3U1FIejhZQzR0d3FpZUhsbkFHMFRSLVhtOEtEYmxPSTM2M01xUVRPWDlDcThWRnQwbXZIUmNxNTY0eERrUVcyeUZfaWpBR2JSampGbkFVadIBYEFVX3lxTFBwTElxbUlfNEQ3U1FIejhZQzR0d3FpZUhsbkFHMFRSLVhtOEtEYmxPSTM2M01xUVRPWDlDcThWRnQwbXZIUmNxNTY0eERrUVcyeUZfaWpBR2JSampGbkFVaQ?oc=5"
+    },
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5KRW5TYW52NlRSNWM1amNWVUNLS21ZckFVeUhpVDVIU0U3Ni1FWUk3ZUtwMTFKMXhaZjhwVzFfcW10ai1Nbm9EajFqNHJhMUZXT09kX1BwWlpLT0VvRnFiUWZXUHpKcEtLQVpZTVNGSdIBb0FVX3lxTE5KRW5TYW52NlRSNWM1amNWVUNLS21ZckFVeUhpVDVIU0U3Ni1FWUk3ZUtwMTFKMXhaZjhwVzFfcW10ai1Nbm9EajFqNHJhMUZXT09kX1BwWlpLT0VvRnFiUWZXUHpKcEtLQVpZTVNGSQ?oc=5"
+    },
+    {
+      "source_name": "뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBsYW1sc3FSMWxFd0p6UUxBcVNMZXR3c3dpcTJCa0oxc3lWTmhIank0Z1FLLWpuTW5rQTA1cHRsTFRFbWQ4NmZOWWc2aThGTHVScWlTSWNLVQ?oc=5"
+    },
+    {
+      "source_name": "뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBHa0lrT2p3bXFRQXFwYTdNNHhkRjYxT01la0xvcEh1RkI4TjU0UDk0YmF0VU1vZHVNWjdGNFM2Skw3eHRWYTdqX3NYM1NJSTBUbWlYR0lhblpIUExqX2ZjSXk4UDhOUlVXbzNKVEZnUlAyd2FYQ3IyV9IBeEFVX3lxTFBHa0lrT2p3bXFRQXFwYTdNNHhkRjYxT01la0xvcEh1RkI4TjU0UDk0YmF0VU1vZHVNWjdGNFM2Skw3eHRWYTdqX3NYM1NJSTBUbWlYR0lhblpIUExqX2ZjSXk4UDhOUlVXbzNKVEZnUlAyd2FYQ3IyVw?oc=5"
+    },
+    {
+      "source_name": "뉴스핌",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBES2ZFWE1ZSjd4Z0VyOFp1Y2xCUWpnWjBYdkFFeVFiS3l0X0xHZkNyal85NEpsM1lUOGNBU1BZLVpad2lULWZJWERRWkNJaGpuRXRWbzByRUR5SFNE?oc=5"
+    },
+    {
+      "source_name": "연합뉴스TV",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBNMmtxRWZmblA0VHZGLUp6UFhZc3dETmFiYm5sT1BOTk5WQ1pObTZKODZXeThsS3k4cWVwTDgzUWlxOXJNdFR3R1pXclZVNDd3bks5YUFNeUtTVjhCZzVFMFJ1cDZjYWs?oc=5"
+    }
+  ]
+}

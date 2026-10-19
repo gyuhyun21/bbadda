@@ -1,0 +1,23 @@
+{
+  "id": "community-12f1b14d",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg",
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 건강 한 스푼",
+  "url": "https://blog.naver.com/health_spoon/224446456443",
+  "title": "2026년 10월 18일 LG KIA 준플레이오프 2차전 결과 및 3차전 전망",
+  "published_at": "2026-10-19T13:19:00.000+09:00",
+  "collected_at": "2026-10-19T07:38:26.414Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

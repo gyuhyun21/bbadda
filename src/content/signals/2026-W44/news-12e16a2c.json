@@ -1,0 +1,23 @@
+{
+  "id": "news-12e16a2c",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "매일신문",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ZRElTQTduMS1kN0xXZDdRUTJuSU1tX1ZYakVIM2ljQjQ0cjlSRkVJdnRsQVFYdHFvVVRRZzlzNFJMa3lnQ1V5ck1zbVdzRy1BQU9VMkR5SzlBWlhMaHpEVVRR?oc=5",
+  "title": "준플레이오프서 2연승한 KIA, 부담 커진 삼성 라이온즈",
+  "published_at": "2026-10-19T03:52:15.000Z",
+  "collected_at": "2026-10-19T07:38:26.414Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

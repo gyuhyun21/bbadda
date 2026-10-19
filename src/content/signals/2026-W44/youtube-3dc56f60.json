@@ -1,0 +1,26 @@
+{
+  "id": "youtube-3dc56f60",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "youtube",
+  "source_name": "요즘뭔데",
+  "url": "https://www.youtube.com/watch?v=7WnKMWHIr2M",
+  "title": "이슈 3줄 #8 | KT 이강철 감독 3년 34억, 몸값 8년 만에 3배? #shorts",
+  "published_at": "2026-10-19T07:32:38Z",
+  "collected_at": "2026-10-19T07:38:26.414Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 54,
+    "likes": 3,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 61,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

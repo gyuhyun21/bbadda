@@ -1,0 +1,27 @@
+{
+  "id": "youtube-797d8328",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "요한",
+  "url": "https://www.youtube.com/watch?v=55UytMqh2Tc",
+  "title": "26.10.17 준P.O 1차전 카스트로 동점 솔로포 #카스트로 #기아타이거즈 #Kiatigers #프로야구 #준플레이오프 #LG트윈스",
+  "published_at": "2026-10-19T04:48:47Z",
+  "collected_at": "2026-10-19T07:38:26.414Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 855,
+    "likes": 4,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 39,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

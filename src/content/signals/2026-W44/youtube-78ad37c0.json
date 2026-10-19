@@ -1,0 +1,26 @@
+{
+  "id": "youtube-78ad37c0",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "youtube",
+  "source_name": "야구 뉴스",
+  "url": "https://www.youtube.com/watch?v=yFpVEgddcEw",
+  "title": "엘지 트윈스 리버스 스윕 기적 만들까?",
+  "published_at": "2026-10-19T03:47:23Z",
+  "collected_at": "2026-10-19T07:38:26.414Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1077,
+    "likes": 1,
+    "comments": 3
+  },
+  "scores": {
+    "hot": 39,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

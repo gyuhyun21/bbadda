@@ -1,0 +1,24 @@
+{
+  "id": "community-b38b6f6d",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 제이콥의 일상 탐구",
+  "url": "https://blog.naver.com/cpath/224446140796",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/5V2drE394cb",
+  "title": "[야구경제학] 2026 가을야구 너머의 머니게임: 2027 KBO FA 10개 구단 대상자 총정리 & 샐러리캡 변수 분석",
+  "published_at": "2026-10-19T07:35:00.000+09:00",
+  "collected_at": "2026-10-19T07:38:26.414Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

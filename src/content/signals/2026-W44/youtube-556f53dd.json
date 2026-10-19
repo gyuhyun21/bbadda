@@ -1,0 +1,26 @@
+{
+  "id": "youtube-556f53dd",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "youtube",
+  "source_name": "OBS TV",
+  "url": "https://www.youtube.com/watch?v=b8rcHYLXZ04",
+  "title": "SSG 랜더스의 최고참 외야수 후배들이 말하는 김강민? #외야수 #김강민 [돌아온 불타는 그라운드]",
+  "published_at": "2026-10-19T03:00:28Z",
+  "collected_at": "2026-10-19T07:38:26.414Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 374,
+    "likes": 1,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 33,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

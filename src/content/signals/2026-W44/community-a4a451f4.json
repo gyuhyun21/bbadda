@@ -1,0 +1,23 @@
+{
+  "id": "community-a4a451f4",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 남자이야기",
+  "url": "https://losiomo.tistory.com/186",
+  "title": "KBO 1,277만 관중, 다음 23만 명은 어디서 올까",
+  "published_at": "2026-10-19T10:00:48.000+09:00",
+  "collected_at": "2026-10-19T07:38:26.414Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

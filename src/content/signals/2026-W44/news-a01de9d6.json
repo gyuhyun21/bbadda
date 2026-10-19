@@ -1,0 +1,23 @@
+{
+  "id": "news-a01de9d6",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "파이낸셜뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4SmlfeWtHaFNyYmdpRV9mRnVidGZYSzVZYTl2WTFhRHVWOWRnWHFYWFJCSmJianlkX1A3QW0tcUdJekx2Vy1BQWJzYTdBTm1kdXBYUXIxQ3VoQQ?oc=5",
+  "title": "[뉴스1 PICK] KIA, LG에 2연승 거두고 PO 진출까지 1승…'77.8% 확률 잡았다'",
+  "published_at": "2026-10-18T22:03:05.000Z",
+  "collected_at": "2026-10-19T07:38:26.414Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 80
+  },
+  "sentiment": "positive"
+}

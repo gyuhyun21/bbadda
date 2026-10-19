@@ -1,0 +1,29 @@
+{
+  "id": "community-27c3d5dc",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 성장주 복기 노트",
+  "url": "https://blog.naver.com/bmj311/224446528809",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/8KUW9wBwRny",
+  "title": "[KBO/야구] '1라운더 좌완' 허윤동, 삼성 떠난다…삼성 라이온즈 선수단 10명 방출 정리",
+  "published_at": "2026-10-19T14:16:00.000+09:00",
+  "collected_at": "2026-10-19T07:38:26.414Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "negative",
+  "also_in": [
+    {
+      "source_name": "뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE83X1NVMVhGVnNaM2hBU2FjbkZmcEhtUGU3TlBta1pfQnJPYjUwTnUyZl9ZNXJmZ0gwTWxPT1NUemlWb25tcVlIYkVUX19zWFhweEdEbEw2SU5XVWlOa0ZXa0FUR1pESE9fSXFHalZiWUhPdU5ueU9yYdIBeEFVX3lxTE83X1NVMVhGVnNaM2hBU2FjbkZmcEhtUGU3TlBta1pfQnJPYjUwTnUyZl9ZNXJmZ0gwTWxPT1NUemlWb25tcVlIYkVUX19zWFhweEdEbEw2SU5XVWlOa0ZXa0FUR1pESE9fSXFHalZiWUhPdU5ueU9yYQ?oc=5"
+    }
+  ]
+}

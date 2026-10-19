@@ -1,0 +1,27 @@
+{
+  "id": "youtube-2a13c357",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "lg"
+  ],
+  "source_type": "youtube",
+  "source_name": "사륙삼 463",
+  "url": "https://www.youtube.com/watch?v=yTaHvSOg9Ww",
+  "title": "[🔴사륙삼 준PO 라이브] 기아 타이거즈 VS LG 트윈스 3차전 예상 라인업은? | 기아 PO 진출 가능성 77.8% 변수는 불펜 기용? | 반격이 필요한 LG 카라스코 등판!",
+  "published_at": "2026-10-19T04:10:16Z",
+  "collected_at": "2026-10-19T07:38:26.414Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 18944,
+    "likes": 435,
+    "comments": 10
+  },
+  "scores": {
+    "hot": 70,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

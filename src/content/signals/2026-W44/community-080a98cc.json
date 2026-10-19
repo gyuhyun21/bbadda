@@ -1,0 +1,24 @@
+{
+  "id": "community-080a98cc",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 스포츠 이슈 센터",
+  "url": "https://blog.naver.com/sport_issue_center2/224446657655",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/HkUk2iEXMfN",
+  "title": "추신수 소속팀·포지션·시즌별 공식 기록과 주요 경력 총정리｜MLB·KBO 선수 이력",
+  "published_at": "2026-10-19T15:56:00.000+09:00",
+  "collected_at": "2026-10-19T07:38:26.414Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

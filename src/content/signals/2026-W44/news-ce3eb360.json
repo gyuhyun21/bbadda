@@ -1,0 +1,22 @@
+{
+  "id": "news-ce3eb360",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "경북도민일보",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE02djlhMWpPVGpPQldwTGE3VEoxM2h4UmMzZjF6djBiYkxyMXE2SWxXQ1c0MWRsZDNJaXB3eEtSbGRldzA5VHZLbEtqdmtuU0xsMW9yRzAzSEx4V19yWXNXWmxvYUhGV3RkU2c?oc=5",
+  "title": "삼성라이온즈, 미계약 선수 명단 발표...2차 1라운드 지명 허윤동 포함",
+  "published_at": "2026-10-19T04:32:00.000Z",
+  "collected_at": "2026-10-19T07:38:26.414Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

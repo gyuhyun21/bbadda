@@ -1,0 +1,23 @@
+{
+  "id": "community-3a21b7d7",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 SportsDataLab - 데이터로 읽는 KBO",
+  "url": "https://sportsdatalab.tistory.com/626",
+  "title": "[준PO 3차전] 10/20 데이터 프리뷰 — 선발 매치업과 예측 총정리",
+  "published_at": "2026-10-19T15:51:38.000+09:00",
+  "collected_at": "2026-10-19T07:38:26.414Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

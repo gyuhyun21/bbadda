@@ -1,0 +1,28 @@
+{
+  "id": "youtube-2307ec06",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "lg"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "기아타이거즈 KIA TIGERS",
+  "url": "https://www.youtube.com/watch?v=F9cXSUCXjCk",
+  "title": "올러 6이닝 8K QS, 1회말 빅이닝, 전상현 이틀 연속 세이브!｜10월 18일 KIA vs LG [준PO 2차전 챔필덕관]",
+  "published_at": "2026-10-19T03:00:17Z",
+  "collected_at": "2026-10-19T07:38:26.414Z",
+  "summary_ko": "KIA 공식 채널이 준PO 2차전(10월 18일 KIA vs LG) 하이라이트를 올렸다. 올러의 6이닝 8탈삼진과 전상현의 이틀 연속 세이브가 담겼다.",
+  "metrics": {
+    "views": 107813,
+    "likes": 2522,
+    "comments": 247
+  },
+  "scores": {
+    "hot": 81,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

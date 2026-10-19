@@ -1,0 +1,41 @@
+{
+  "id": "youtube-5e6c9697",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "야구인물사전",
+  "url": "https://www.youtube.com/watch?v=RS3XlTIIUKY",
+  "title": "이강철 감독 재계약 발표 #shorts",
+  "published_at": "2026-10-19T06:30:02Z",
+  "collected_at": "2026-10-19T07:38:26.414Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 8078,
+    "likes": 297,
+    "comments": 23
+  },
+  "scores": {
+    "hot": 78,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "스포츠타임스",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5qNFJrczhNRkhBV1hEbVE0QTk0UmUyVzhuMnpfZkNUd0puSTZCSVZTWFd6LU1oVzBQbXh0SkFhRHhGTXhTV3VOSW5rSFF5YUJTS3RTdnFMUTVlWndVVVUxdnFZQVVTQmhBb01POVpBTzRuSC1YMFE?oc=5"
+    },
+    {
+      "source_name": "경기일보",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9uSDhPWlZCTXViV05QTE5MaXZXbmxZYk9ySGwyNElSdDFtQVNkVER6M1ZOWHplZlVUc091bTAzR0RIX2l1YlFuRjl6LWlfZEJmeHEzM2ktOWhOS0E?oc=5"
+    },
+    {
+      "source_name": "스포츠동아",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1xUlNtQnNoWnliSzcxek50NXF0ZzlQOWg5Y3EwOEpTN2FZV3hmR1dCUjFPTmRQVFRteEJ2V0FWcFdOMU90VFhfbU1BeTBRZnltY2xMS0xsWWFPcWIwVHg5N2F3eWVFSXFTcDJ6ZkdlUGZ5dw?oc=5"
+    }
+  ]
+}

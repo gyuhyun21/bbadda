@@ -1,0 +1,22 @@
+{
+  "id": "news-e298f1c3",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "진일보 | 전남일보",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5VM1hNT0tjWmwyejg1QTBzQjdwZTR1QzI5eFpySmhmcEg4dW9nZ1ZyaV9GbHhKRmltcVpHQ0pwWkpEaW5TVkMxcWwzMFY3TnNtTTNhZE44ZnE0RFZodU9KY1JYZHRaRDZkRjZNWkM4QQ?oc=5",
+  "title": "삼성라이온즈, 허윤동 등 방출 결정...투수 비중 높아",
+  "published_at": "2026-10-19T04:10:36.000Z",
+  "collected_at": "2026-10-19T07:38:26.414Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

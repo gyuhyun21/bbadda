@@ -1,0 +1,24 @@
+{
+  "id": "community-cdf687ca",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg",
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 하이스포츠 인사이드",
+  "url": "https://blog.naver.com/historycar/224446611763",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/I37wm5eIFtp",
+  "title": "\"김도영 피했더니 타율 0.447 괴물이 기다렸다\" LG 염경엽 감독도 당황할 KIA 카스트로의 소름 돋는 기록",
+  "published_at": "2026-10-19T15:18:00.000+09:00",
+  "collected_at": "2026-10-19T07:38:26.414Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

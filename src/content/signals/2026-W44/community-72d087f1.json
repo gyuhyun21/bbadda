@@ -1,0 +1,23 @@
+{
+  "id": "community-72d087f1",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&page=5&document_srl=10461928644",
+  "title": "두산베어스 혹시 큰거 오나 - 야구",
+  "published_at": "2026-10-19T02:38:26.414Z",
+  "collected_at": "2026-10-19T07:38:26.414Z",
+  "summary_ko": "",
+  "excerpt": "... 단장도 바뀌었는데 뭔가 틀드 할거 같은 느낌은 뭐지 이거.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

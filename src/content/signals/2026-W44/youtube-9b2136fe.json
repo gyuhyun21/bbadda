@@ -1,0 +1,27 @@
+{
+  "id": "youtube-9b2136fe",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "TBC뉴스",
+  "url": "https://www.youtube.com/watch?v=B2Vgagtiemo",
+  "title": "플레이오프 D-6_이 호투, 올가을에도 다시 보여줘! [#그날의라이온즈]",
+  "published_at": "2026-10-19T06:10:48Z",
+  "collected_at": "2026-10-19T07:38:26.414Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 713,
+    "likes": 6,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 41,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

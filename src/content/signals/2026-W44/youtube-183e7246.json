@@ -1,0 +1,27 @@
+{
+  "id": "youtube-183e7246",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha",
+    "doosan"
+  ],
+  "source_type": "youtube",
+  "source_name": "06시즌 한화팬",
+  "url": "https://www.youtube.com/watch?v=ZovpK15OeQQ",
+  "title": "한화 이글스 (승) VS 두산 베어스 (패) [이사만루 2026]",
+  "published_at": "2026-10-19T06:01:59Z",
+  "collected_at": "2026-10-19T07:38:26.414Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 8,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 11,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

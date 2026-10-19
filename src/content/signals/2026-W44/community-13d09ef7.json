@@ -1,0 +1,24 @@
+{
+  "id": "community-13d09ef7",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/10461363226",
+  "title": "오 나 야갤 밴당한듯 - 야구",
+  "published_at": "2026-10-18T21:38:26.414Z",
+  "collected_at": "2026-10-19T07:38:26.414Z",
+  "summary_ko": "",
+  "excerpt": "... 인기 KIA 구단 관계자 \"김도영 큰 이상 없다. 병원 검진 계... [4] ... 9…",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

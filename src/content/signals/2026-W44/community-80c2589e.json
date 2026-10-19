@@ -1,0 +1,24 @@
+{
+  "id": "community-80c2589e",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "디시 야구 갤러리",
+  "url": "https://gall.dcinside.com/board/view/?id=doosanbears_new1&no=11874937",
+  "title": "5년뒤 라인업 이거임",
+  "published_at": "2026-10-18T14:38:26.414Z",
+  "collected_at": "2026-10-19T07:38:26.414Z",
+  "summary_ko": "",
+  "excerpt": "... 스포츠 카테고리로 분류된 두산 베어스 갤러리 입니다. 두산 베어스 갤러리에 다양한 이야기를 남겨주세요.",
+  "metrics": {},
+  "scores": {
+    "hot": 62,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

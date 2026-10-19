@@ -1,0 +1,24 @@
+{
+  "id": "community-e2356ed6",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&document_srl=10462633513",
+  "title": "윤석민의 외야수 골든글러브 픽 - 야구",
+  "published_at": "2026-10-19T07:14:26.414Z",
+  "collected_at": "2026-10-19T07:38:26.414Z",
+  "summary_ko": "",
+  "excerpt": "... 두산베어스가 투수 김명신·김지윤·박강민·장우진·이기석·백승우, 내야수 김민혁·이종혁·지강혁, 외야수 손아섭·양현진 등 총 11명에게 재계약 불가를 통보.",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "community-e7065002",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 GOOD NEWS",
+  "url": "https://blog.naver.com/livenews101/224446619143",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/Az8UHeKw7iZ",
+  "title": "양의지, 2년 42억 옵션 포기? 30대 후반 포수의 현실과 FA 시장의 냉혹함",
+  "published_at": "2026-10-19T15:30:00.000+09:00",
+  "collected_at": "2026-10-19T07:38:26.414Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

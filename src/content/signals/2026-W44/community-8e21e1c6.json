@@ -1,0 +1,23 @@
+{
+  "id": "community-8e21e1c6",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 세계는 지금",
+  "url": "https://blog.naver.com/now_news/224446614978",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/KmwxDBmOfMr",
+  "title": "8회 위기서 나가기로 했다던 KIA 전상현, 준플레이오프서 1.1이닝 막은 배경은?",
+  "published_at": "2026-10-19T15:21:00.000+09:00",
+  "collected_at": "2026-10-19T07:38:26.414Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

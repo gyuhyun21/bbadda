@@ -1,0 +1,26 @@
+{
+  "id": "youtube-ac1e36db",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "youtube",
+  "source_name": "크쏭",
+  "url": "https://www.youtube.com/watch?v=o29I6AXkbtE",
+  "title": "前 롯데 자이언츠 박기혁 응원가",
+  "published_at": "2026-10-19T05:30:31Z",
+  "collected_at": "2026-10-19T07:38:26.414Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 4,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 8,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

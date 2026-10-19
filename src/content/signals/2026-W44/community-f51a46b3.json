@@ -1,0 +1,23 @@
+{
+  "id": "community-f51a46b3",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "community",
+  "source_name": "디시 야구 갤러리",
+  "url": "https://gall.dcinside.com/board/view/?id=ncdinos&no=10144058",
+  "title": "NC 다이노스",
+  "published_at": "2026-10-16T15:00:00.000Z",
+  "collected_at": "2026-10-19T07:38:26.414Z",
+  "summary_ko": "",
+  "excerpt": "... NC 다이노스. 설정new 연관 글쓰기. 이용자 메모; 차단 설정; 자동 짤방 이미지 설정; 머리말∙꼬리말…",
+  "metrics": {},
+  "scores": {
+    "hot": 45,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

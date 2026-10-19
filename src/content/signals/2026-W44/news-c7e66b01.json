@@ -1,0 +1,22 @@
+{
+  "id": "news-c7e66b01",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "https://www.asportstv.kr/",
+  "url": "https://www.asportstv.kr/news/articleView.html?idxno=2076",
+  "title": "[준플레이오프] \"내일이 없는 총력전\" 3연승 외통수 걸린 LG, 카라스코 어깨에 운명 맡긴다",
+  "published_at": "2026-10-19T00:51:49.000Z",
+  "collected_at": "2026-10-19T07:38:26.414Z",
+  "summary_ko": "준플레이오프 3차전을 앞두고 2연패로 몰린 LG가 카라스코를 선발로 내세운다고 에이스포츠티비가 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

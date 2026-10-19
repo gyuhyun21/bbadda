@@ -1,0 +1,29 @@
+{
+  "id": "community-e2540a84",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 숨은 맛집찾기 & 여행기",
+  "url": "https://blog.naver.com/juone42/224446319770",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/1cMxdLykVuI",
+  "title": "2026 SSG 랜더스 최광야구 직관후기",
+  "published_at": "2026-10-19T11:00:00.000+09:00",
+  "collected_at": "2026-10-19T07:38:26.414Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "노컷뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9JNlp1N1ZsWHQ4ZkNXU2hPUkRXWWdvdldQOC1MZ1Z1bTJ2UzhULVhkeTBDYmdfanFYYmc0aVJvemdMZWgxdGxBZ0pJM1BoYVg4c1E?oc=5"
+    }
+  ]
+}

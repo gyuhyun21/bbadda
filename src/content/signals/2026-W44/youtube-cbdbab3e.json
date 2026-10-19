@@ -1,0 +1,27 @@
+{
+  "id": "youtube-cbdbab3e",
+  "issue": "2026-W44",
+  "module": "league",
+  "teams": [
+    "kia"
+  ],
+  "team": "kia",
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=vj1OUYX9d5A",
+  "title": "하늘에서 바라본 준플레이오프 날의 광주-기아 챔피언스 필드!✨💕",
+  "published_at": "2026-10-19T05:01:00Z",
+  "collected_at": "2026-10-19T07:38:26.414Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 6441,
+    "likes": 261,
+    "comments": 11
+  },
+  "scores": {
+    "hot": 79,
+    "relevance": 80
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-0f501ffa",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "announcement": true,
+  "source_name": "머니투데이",
+  "url": "https://www.mt.co.kr/amp/sports/2026/10/19/2026101910592641634",
+  "title": "[오피셜] 삼성, 양현·허윤동·홍현빈 등 10명 재계약 불가 통보 \"추후 정비→선수단 역량 강화에 매진\"",
+  "published_at": "2026-10-19T02:10:54.000Z",
+  "collected_at": "2026-10-19T07:38:26.414Z",
+  "summary_ko": "삼성이 양현·허윤동·홍현빈 등 10명에게 재계약 불가를 통보했다고 머니투데이가 전했다. 구단은 선수단 정비와 역량 강화를 이유로 들었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

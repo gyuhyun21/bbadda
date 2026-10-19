@@ -1,0 +1,23 @@
+{
+  "id": "community-0e1678d4",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg",
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 경기는 재밌게 분석은 제대로",
+  "url": "https://blog.naver.com/baery_good/224446048197",
+  "title": "\"초구부터 번트였는데\" LG의 작전이 KIA에 읽히며 잡은 기회까지 놓친 경기",
+  "published_at": "2026-10-19T13:31:00.000+09:00",
+  "collected_at": "2026-10-19T07:38:26.414Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

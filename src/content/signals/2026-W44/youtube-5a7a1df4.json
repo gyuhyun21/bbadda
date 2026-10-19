@@ -1,0 +1,33 @@
+{
+  "id": "youtube-5a7a1df4",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "youtube",
+  "announcement": true,
+  "source_name": "크보쌍둥이",
+  "url": "https://www.youtube.com/watch?v=6M5LDTuHyfo",
+  "title": "[오피셜] 이강철 감독 kt와 3년 34억! 11년 동행 이어진다! #kt위즈 #이강철 #최원준",
+  "published_at": "2026-10-19T06:25:41Z",
+  "collected_at": "2026-10-19T07:38:26.414Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1111,
+    "likes": 71,
+    "comments": 16
+  },
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "기호일보",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0wbUFiQ2NWaVNxYjFwc3VKUnFPVlNFNWo2R09MRzFOcnFYRzV6aGkyc2w4a0hGMVdKdE9wUXpZWnpzUWxxdklXMmRoaTB2Rll3R3NBQ2JJUnVqOGVSTW1TVU9FYi1IOXYxM3hDRTlPQQ?oc=5"
+    }
+  ]
+}

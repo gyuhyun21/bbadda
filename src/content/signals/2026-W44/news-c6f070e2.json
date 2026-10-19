@@ -1,0 +1,22 @@
+{
+  "id": "news-c6f070e2",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "연합뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1xQVJWemY0OEljMXFxOFZsS3JFcDhkS3Rfdk90bmJaTHBUM1RQaEtHbi1tOGJoa1NqUlZtaFhMWTI1V1haMEZHWmI0NGhWUHFhUUo3SFdld2tCYzDSAWBBVV95cUxPLXVNdG5WdHQzUXBLYzBKM0tleC1kVmk3dXQ2UVExR3drTFFNbWZZeGFvb1JTeFRFUjV0RVh4QTRaVmVOc0IwZWNZMlpTQjJrckNSampnSVBITkpkVGRMbW8?oc=5",
+  "title": "프로야구 롯데, 발달장애인 자립 돕는 '제3회 드림 카페' 개최",
+  "published_at": "2026-10-19T07:08:55.000Z",
+  "collected_at": "2026-10-19T07:38:26.414Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "youtube-644779cf",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "youtube",
+  "source_name": "그깟공놀이가뭐라고",
+  "url": "https://www.youtube.com/watch?v=ynWrZsz8Mzw",
+  "title": "두산 손아섭, 김명신 포함 11명 정리  #두산베어스 #kbo #야구 #김명신 #손아섭",
+  "published_at": "2026-10-19T06:45:07Z",
+  "collected_at": "2026-10-19T07:38:26.414Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 908,
+    "likes": 5,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 40,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}
