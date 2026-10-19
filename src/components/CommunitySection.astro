@@ -3,7 +3,6 @@
 // 끄려면 config/site.yaml community_section: false
 import SectionHead from './SectionHead.astro';
 import TeamTags from './TeamTags.astro';
-import BookmarkButton from './BookmarkButton.astro';
 import { SLANG_TITLE, displayTitle, fmtDate, isCommunityPost, communityBadge, rich } from '../lib/site.ts';
 import type { Signal } from '../lib/schemas.ts';
 interface Props { signals: Signal[]; note?: string }
@@ -23,7 +22,6 @@ const posts = signals.filter(isCommunityPost).sort((a, b) => b.published_at.loca
               <a href={s.url} target="_blank" rel="noopener noreferrer">{displayTitle(s)}</a>
               {s.slang && <span class="chip chip--slang" title={SLANG_TITLE}>은어 · {s.slang}</span>}
               <p>{s.summary_ko}</p>
-              <BookmarkButton signal={s} />
               <span class="fan-meta"><span class="src-pill src-pill--site" style={`--site:${b.color}`} title={s.source_name}>{b.label}</span>{fmtDate(s.published_at)}<TeamTags ids={s.teams} /></span>
             </div>
           </li>

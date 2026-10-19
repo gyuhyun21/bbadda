@@ -17,7 +17,7 @@ const ogImage = new URL(image, Astro.site).href;
 // 방문 측정: Vercel Web Analytics(쿠키 없음, @vercel/analytics 의 Astro 컴포넌트 — Routes 탭에 /teams/[id] 처럼 묶여 보인다). Vercel 빌드에서만 넣는다 — 되돌리기: 환경변수 SITE_ANALYTICS=false
 const analytics = !!process.env.VERCEL && process.env.SITE_ANALYTICS !== 'false';
 const full = title ? `${title} · ${SITE_NAME}` : `${SITE_NAME} 빠따닷컴`;
-const nav = [['/', '홈'], ['/teams', '팀'], ['/archive', '날짜별'], ['/search', '검색'], ['/cheer', '응원가'], ['/about', '소개']];
+const nav = [['/cheer', '응원가'], ['/about', '소개']];
 const path = Astro.url.pathname.replace(/\/$/, '') || '/';
 const layout = siteLayout();
 const modal = articleModal(); // config/site.yaml article_modal (환경변수 SITE_MODAL 우선) // config/site.yaml layout (환경변수 SITE_LAYOUT 우선)
@@ -88,22 +88,8 @@ const myTeamCss = TEAMS.map((t) => `html[data-my-team="${t.id}"] [data-myteam-bl
           </div>
         </div>
         <nav class="nav" aria-label="주 메뉴">
-          {nav.map(([href, label]) => <a href={href} aria-current={path === href || (href !== '/' && path.startsWith(href)) ? 'page' : undefined}>{label}</a>)}
+          {nav.map(([href, label]) => <a href={href} class={href === '/cheer' ? 'nav-cheer' : undefined} aria-current={path === href || (href !== '/' && path.startsWith(href)) ? 'page' : undefined}>{href === '/cheer' && <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 18V5l12-2v13"/><circle cx="6" cy="18" r="3"/><circle cx="18" cy="16" r="3"/></svg>}{label}</a>)}
         </nav>
-        <div class="bm-menu">
-          <button type="button" class="bm-toggle" data-bm-toggle aria-expanded="false" aria-controls="bm-panel" aria-label="저장한 소식" title="저장한 소식">
-            <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6.5 3.5h11a1 1 0 0 1 1 1v16l-6.5-4.2-6.5 4.2v-16a1 1 0 0 1 1-1z" /></svg>
-            <span class="bm-count" data-bm-count hidden></span>
-          </button>
-          <div class="bm-panel" id="bm-panel" data-bm-panel hidden>
-            <p class="bm-title">저장한 소식</p>
-            <ul class="bm-list" data-bm-list></ul>
-            <p class="bm-empty small" data-bm-empty>기사 옆 북마크 아이콘을 누르면 여기에 모입니다. 이 기기에만 저장됩니다.</p>
-            <p class="bm-hint small" data-desktop-hint>이 사이트 즐겨찾기: <kbd>⌘</kbd>+<kbd>D</kbd> (윈도 <kbd>Ctrl</kbd>+<kbd>D</kbd>)</p>
-            <button type="button" class="install-btn" data-install hidden>홈 화면에 추가</button>
-            <p class="bm-hint small" data-install-ios hidden>아이폰: 사파리 아래 <strong>공유</strong> 버튼 → <strong>홈 화면에 추가</strong></p>
-          </div>
-        </div>
       </div>
     </header>
     <main id="main" data-pagefind-body={searchable ? '' : undefined}>
@@ -197,7 +183,7 @@ const myTeamCss = TEAMS.map((t) => `html[data-my-team="${t.id}"] [data-myteam-bl
           dlg.addEventListener('click', (e) => { if (e.target === dlg) close(); }); // 흐린 바깥 누르면 닫기
           document.addEventListener('click', (e) => {
             if (e.defaultPrevented || e.button !== 0 || e.metaKey || e.ctrlKey || e.shiftKey || e.altKey) return;
-            const a = (e.target as Element).closest<HTMLAnchorElement>('main a[target="_blank"], [data-bm-panel] a[target="_blank"]');
+            const a = (e.target as Element).closest<HTMLAnchorElement>('main a[target="_blank"]');
             if (!a || a.closest('[data-no-modal], .team-hero-actions') || !/^https?:/.test(a.href) || new URL(a.href).host === location.host) return;
             e.preventDefault();
             markRead(a);
@@ -247,53 +233,6 @@ const myTeamCss = TEAMS.map((t) => `html[data-my-team="${t.id}"] [data-myteam-bl
           nudge.hidden = false;
         }
       }
-    </script>
-    <script>
-      // 북마크: 기사 URL·제목·출처를 localStorage(bbadda:bookmarks)에 저장. 저장소가 막혀 있으면 이번 화면에서만 유지.
-      const BM_KEY = 'bbadda:bookmarks';
-      type Bm = { url: string; title: string; src: string; at: number };
-      let bms: Bm[] = [];
-      try { bms = JSON.parse(localStorage.getItem(BM_KEY) || '[]'); if (!Array.isArray(bms)) bms = []; } catch { bms = []; }
-      const saveBm = () => { try { localStorage.setItem(BM_KEY, JSON.stringify(bms)); } catch {} };
-      const bmList = document.querySelector<HTMLElement>('[data-bm-list]');
-      const bmEmpty = document.querySelector<HTMLElement>('[data-bm-empty]');
-      const bmCount = document.querySelector<HTMLElement>('[data-bm-count]');
-      const renderBm = () => {
-        const saved = new Set(bms.map((b) => b.url));
-        document.querySelectorAll<HTMLButtonElement>('[data-bm]').forEach((b) => {
-          const on = saved.has(b.dataset.bmUrl!);
-          b.setAttribute('aria-pressed', String(on));
-          b.setAttribute('aria-label', on ? '북마크에서 빼기' : '북마크에 저장');
-        });
-        if (bmCount) { bmCount.hidden = bms.length === 0; bmCount.textContent = String(bms.length); }
-        if (bmEmpty) bmEmpty.hidden = bms.length > 0;
-        if (bmList) {
-          bmList.replaceChildren(...bms.map((b) => {
-            const li = document.createElement('li');
-            const a = document.createElement('a'); a.href = b.url; a.target = '_blank'; a.rel = 'noopener noreferrer'; a.textContent = b.title;
-            const meta = document.createElement('span'); meta.textContent = b.src;
-            const rm = document.createElement('button'); rm.type = 'button'; rm.className = 'bm-remove'; rm.textContent = '✕'; rm.setAttribute('aria-label', `${b.title} 북마크 빼기`);
-            rm.addEventListener('click', () => { bms = bms.filter((x) => x.url !== b.url); saveBm(); renderBm(); });
-            li.append(a, meta, rm);
-            return li;
-          }));
-        }
-      };
-      document.addEventListener('click', (e) => {
-        const b = (e.target as Element).closest<HTMLButtonElement>('[data-bm]');
-        if (!b) return;
-        e.preventDefault();
-        const url = b.dataset.bmUrl!;
-        bms = bms.some((x) => x.url === url) ? bms.filter((x) => x.url !== url) : [{ url, title: b.dataset.bmTitle ?? url, src: b.dataset.bmSrc ?? '', at: Date.now() }, ...bms].slice(0, 200);
-        saveBm();
-        renderBm();
-      });
-      const bmToggle = document.querySelector<HTMLButtonElement>('[data-bm-toggle]');
-      const bmPanel = document.querySelector<HTMLElement>('[data-bm-panel]');
-      bmToggle?.addEventListener('click', () => { if (!bmPanel) return; bmPanel.hidden = !bmPanel.hidden; bmToggle.setAttribute('aria-expanded', String(!bmPanel.hidden)); });
-      document.addEventListener('click', (e) => { if (bmPanel && !bmPanel.hidden && !(e.target as Element).closest('.bm-menu') && !(e.target as Element).closest('dialog')) { bmPanel.hidden = true; bmToggle?.setAttribute('aria-expanded', 'false'); } });
-      document.addEventListener('keydown', (e) => { if (e.key === 'Escape' && bmPanel && !bmPanel.hidden) { bmPanel.hidden = true; bmToggle?.setAttribute('aria-expanded', 'false'); bmToggle?.focus(); } });
-      renderBm();
     </script>
     <script>
       // 내 팀 선택: localStorage 저장(try/catch), 머리말 칩 갱신, [data-team-sort] 안의 팀 섹션을 내 팀이 맨 위·펼침, 나머지는 접힘
@@ -347,19 +286,6 @@ const myTeamCss = TEAMS.map((t) => `html[data-my-team="${t.id}"] [data-myteam-bl
       });
       document.addEventListener('keydown', (e) => { if (e.key === 'Escape' && panel && !panel.hidden) { panel.hidden = true; toggle?.setAttribute('aria-expanded', 'false'); toggle?.focus(); } });
       document.addEventListener('click', (e) => { if (panel && !panel.hidden && !(e.target as Element).closest('.myteam')) { panel.hidden = true; toggle?.setAttribute('aria-expanded', 'false'); } });
-    </script>
-    <script>
-      // 홈 화면 추가: 안드로이드 크롬은 설치 창, 아이폰은 방법 안내. 이미 앱으로 열었으면 숨긴다
-      const standalone = matchMedia('(display-mode: standalone)').matches || (navigator as any).standalone;
-      const installBtn = document.querySelector<HTMLButtonElement>('[data-install]');
-      const iosHint = document.querySelector<HTMLElement>('[data-install-ios]');
-      const isIOS = /iPhone|iPad|iPod/.test(navigator.userAgent);
-      let deferred: any = null;
-      if (!standalone) {
-        if (isIOS && iosHint) { iosHint.hidden = false; document.querySelector<HTMLElement>('[data-desktop-hint]')!.hidden = true; }
-        addEventListener('beforeinstallprompt', (e) => { e.preventDefault(); deferred = e; if (installBtn) installBtn.hidden = false; });
-        installBtn?.addEventListener('click', async () => { if (!deferred) return; deferred.prompt(); await deferred.userChoice.catch(() => {}); deferred = null; installBtn.hidden = true; });
-      }
     </script>
     <script>
       document.querySelectorAll<HTMLButtonElement>('[data-share]').forEach((b) => b.addEventListener('click', async () => {
