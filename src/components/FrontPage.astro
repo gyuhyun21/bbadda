@@ -12,7 +12,7 @@ import Edition from './Edition.astro';
 import SectionHead from './SectionHead.astro';
 import PostseasonBracket from './PostseasonBracket.astro';
 import { communitySection, newsImages, loadStandings, streakLabel, postseasonBracket } from '../lib/config.ts';
-import { TEAMS, loadAll, ofTeam, recent, hot, newest, kstDay, daysOf, onDay, dayLabel, seasonTitle, displayTitle, fmtDate, teamColor, teamLogo, teamById, isToday, youtubeId, isCommunityPost, byDayThenHot, latestBatch, newFirst, isWire, BUILD_TIME } from '../lib/site.ts';
+import { TEAMS, loadAll, ofTeam, recent, hot, newest, kstDay, daysOf, onDay, dayLabel, seasonTitle, displayTitle, fmtDate, teamColor, teamLogo, teamById, isToday, youtubeId, isCommunityPost, byDayThenHot, latestBatch, newFirst, isWire, BUILD_TIME, UPDATE_SCHEDULE } from '../lib/site.ts';
 const data = await loadAll();
 const all = data.signals;
 const fresh = recent(all, 2, 12);
@@ -78,6 +78,7 @@ const days = daysOf(all).slice(0, 7);
 </nav>
 <section class="front-masthead" aria-label="BBADDA">
   <div class="share-row"><Edition signals={all} /><ShareButton /></div>
+  <p class="edition-sched">{UPDATE_SCHEDULE.daily}<span> · {UPDATE_SCHEDULE.weekend}</span></p>
   <h1 class="sr-only">BBADDA 빠따닷컴</h1>
 </section>
 
