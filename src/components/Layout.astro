@@ -17,7 +17,7 @@ const ogImage = new URL(image, Astro.site).href;
 // 방문 측정: Vercel Web Analytics(쿠키 없음, @vercel/analytics 의 Astro 컴포넌트 — Routes 탭에 /teams/[id] 처럼 묶여 보인다). Vercel 빌드에서만 넣는다 — 되돌리기: 환경변수 SITE_ANALYTICS=false
 const analytics = !!process.env.VERCEL && process.env.SITE_ANALYTICS !== 'false';
 const full = title ? `${title} · ${SITE_NAME}` : `${SITE_NAME} 빠따닷컴`;
-const nav = [['/cheer', '응원가'], ['/about', '소개']];
+const nav = [['/cheer', '선수응원가 연습'], ['/about', '소개']];
 const path = Astro.url.pathname.replace(/\/$/, '') || '/';
 const layout = siteLayout();
 const modal = articleModal(); // config/site.yaml article_modal (환경변수 SITE_MODAL 우선) // config/site.yaml layout (환경변수 SITE_LAYOUT 우선)
