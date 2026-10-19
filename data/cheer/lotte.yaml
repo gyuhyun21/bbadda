@@ -1,0 +1,58 @@
+# 응원가 연습(롯데) — 구단 공식 유튜브(Giants TV) 모음 영상의 설명란 타임코드. 가사·음원은 싣지 않고 공식 영상을 사이트 안에서 재생만 한다.
+# 출처: 각 video 의 설명란(2026-10-19 확인). 다음 시즌 영상이 올라오면 video·start 를 바꾼다.
+team: lotte
+season: 2026
+players:
+  video: oZ1daUC4lGk # https://www.youtube.com/watch?v=oZ1daUC4lGk "2026 야수 등장곡 + 응원가 PLAYLIST"
+  end: 1351 # 22:31 로고
+  items:
+    - { name: 황성빈, start: 0 }
+    - { name: 고승민, start: 50 }
+    - { name: 신윤후, start: 106 }
+    - { name: 한태양, start: 155 }
+    - { name: 장두성, start: 245 }
+    - { name: 전준우, start: 293 }
+    - { name: 조세진, start: 353 }
+    - { name: 전민재, start: 404 }
+    - { name: 최항, start: 463 }
+    - { name: 김민성, start: 527, note: NEW 등장곡 }
+    - { name: 한동희, start: 586, note: 기존 응원가 리메이크 }
+    - { name: 유강남, start: 673 }
+    - { name: 손성빈, start: 724 }
+    - { name: 레이예스, start: 785 }
+    - { name: 이호준, start: 850 }
+    - { name: 손호영, start: 907 }
+    - { name: 정보근, start: 963 }
+    - { name: 김동혁, start: 1018 }
+    - { name: 나승엽, start: 1071 }
+    - { name: 노진혁, start: 1127 }
+    - { name: 박승욱, start: 1198 }
+    - { name: 박찬형, start: 1247 }
+    - { name: 윤동희, start: 1295 }
+team_songs:
+  video: AtyqKrWmvGE # https://www.youtube.com/watch?v=AtyqKrWmvGE "2026 롯데자이언츠 팀 응원가 PLAYLIST"
+  end: 2665 # 44:25 로고
+  items:
+    - { name: 승리를 외치자, start: 0 }
+    - { name: 열정과 낭만, start: 107 }
+    - { name: 올웨이즈 롯데, start: 244 }
+    - { name: 소리높여 외쳐보자, start: 365 }
+    - { name: 오~ 최강 롯데, start: 490 }
+    - { name: 파이팅송, start: 599 }
+    - { name: 투혼투지, start: 713 }
+    - { name: 승전가, start: 807 }
+    - { name: 롯데의 승리를 외치자, start: 894 }
+    - { name: 오늘도 승리한다, start: 981 }
+    - { name: Dream of Ground, start: 1095 }
+    - { name: 챔피언 롯데, start: 1224 }
+    - { name: 힘차게 외쳐보자, start: 1308 }
+    - { name: 롯데만을 사랑하리, start: 1413 }
+    - { name: 자이언츠 러브송, start: 1570 }
+    - { name: 부산 갈매기, start: 1773 }
+    - { name: 돌아와요 부산항에, start: 1851 }
+    - { name: 바다새, start: 1916 }
+    - { name: 승리는 누구, start: 2025 }
+    - { name: 영광의 순간, start: 2158 }
+    - { name: 우리들의 빛나는 이 순간, start: 2290 }
+    - { name: 승리를 위한 전진, start: 2415 }
+    - { name: 영광을 위해, start: 2544, note: 신규 응원가 }

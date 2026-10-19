@@ -1,0 +1,238 @@
+---
+// 응원가 연습: MY팀 선수·팀 응원가를 구단 공식 유튜브 모음 영상으로 구간 재생. 가사·음원은 싣지 않는다(저작권).
+// 데이터: data/cheer/<팀 id>.yaml (공식 영상 설명란 타임코드). 외운 곡 표시는 이 기기 localStorage 에만.
+import { readdirSync, readFileSync, existsSync } from 'node:fs';
+import { join } from 'node:path';
+import { parse } from 'yaml';
+import Layout from '../components/Layout.astro';
+import { TEAMS, teamColor, teamLogo } from '../lib/site.ts';
+
+type Item = { name: string; start: number; note?: string };
+type Part = { video: string; end: number; items: Item[] };
+type Cheer = { team: string; season: number; players: Part; team_songs: Part };
+const dir = join(process.cwd(), 'data', 'cheer');
+const all: Cheer[] = existsSync(dir) ? readdirSync(dir).filter((f) => f.endsWith('.yaml') && !f.startsWith('.')).map((f) => parse(readFileSync(join(dir, f), 'utf8'))) : [];
+const teams = all.map((c) => { const t = TEAMS.find((x) => x.id === c.team)!; return { ...c, name: t.name, short: t.short, nick: t.nickname ?? t.short, color: teamColor(t.id), logo: teamLogo(t.id) }; });
+---
+<Layout title="응원가 연습" description="MY팀 선수 응원가와 팀 응원가를 구단 공식 영상으로 따라 불러 보세요.">
+  <div class="cheer" data-cheer={JSON.stringify(teams)}>
+    <header class="cheer-head">
+      <h1 class="page-title">응원가 연습</h1>
+      <p class="cheer-sub">MY팀 응원가를 구단 공식 영상으로 따라 불러 보세요. 직관 가기 전에 한 번씩.</p>
+    </header>
+
+    <div class="cheer-pick" data-cheer-pick hidden>
+      <p>응원가를 연습할 팀을 고르세요. 지금은 아래 팀만 준비돼 있어요.</p>
+      <div class="cheer-pick-btns">
+        {teams.map((t) => <button type="button" class="team-chip team-chip--btn" data-cheer-team={t.team}>{t.logo && <img class="team-chip-logo" src={t.logo} alt="" width="22" height="22" />}{t.nick}</button>)}
+      </div>
+    </div>
+
+    <section class="cheer-main" data-cheer-main hidden>
+      <div class="cheer-team">
+        <span class="cheer-team-name" data-cheer-name></span>
+        <span class="cheer-progress"><strong data-cheer-done>0</strong>/<span data-cheer-total>0</span> 외움</span>
+      </div>
+
+      <div class="cheer-player">
+        <div class="cheer-frame"><div id="cheer-yt"></div></div>
+        <div class="cheer-now">
+          <p class="cheer-now-label">지금 연습 중</p>
+          <p class="cheer-now-title" data-cheer-now>곡을 고르세요</p>
+          <div class="cheer-ctrl">
+            <button type="button" class="cheer-btn" data-cheer-prev aria-label="이전 곡">
+              <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 5v14M19 6l-9 6 9 6z"/></svg>
+            </button>
+            <button type="button" class="cheer-btn cheer-btn--main" data-cheer-toggle aria-label="재생">
+              <svg class="i-play" viewBox="0 0 24 24" aria-hidden="true"><path d="M7 5l12 7-12 7z"/></svg>
+              <svg class="i-pause" viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5v14M16 5v14"/></svg>
+            </button>
+            <button type="button" class="cheer-btn" data-cheer-next aria-label="다음 곡">
+              <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M18 5v14M5 6l9 6-9 6z"/></svg>
+            </button>
+            <button type="button" class="cheer-opt" data-cheer-repeat aria-pressed="false">
+              <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M17 2l3 3-3 3"/><path d="M4 11V9a4 4 0 0 1 4-4h12"/><path d="M7 22l-3-3 3-3"/><path d="M20 13v2a4 4 0 0 1-4 4H4"/></svg>한 곡 반복
+            </button>
+            <button type="button" class="cheer-opt" data-cheer-slow aria-pressed="false">0.75배속</button>
+          </div>
+        </div>
+      </div>
+
+      <div class="cheer-tabs" role="tablist">
+        <button type="button" role="tab" class="cheer-tab" data-cheer-tab="players" aria-selected="true">선수 응원가 <span data-cheer-count="players"></span></button>
+        <button type="button" role="tab" class="cheer-tab" data-cheer-tab="team_songs" aria-selected="false">팀 응원가 <span data-cheer-count="team_songs"></span></button>
+      </div>
+      <ol class="cheer-list" data-cheer-list></ol>
+
+      <p class="cheer-foot">
+        영상: <span data-cheer-source></span> 공식 유튜브 <span data-cheer-season></span> 모음 영상. 가사는 구단 공식 앱·홈페이지에서 확인하세요.
+        <button type="button" class="cheer-change" data-cheer-change>다른 팀</button>
+      </p>
+    </section>
+  </div>
+</Layout>
+
+<script>
+  type Item = { name: string; start: number; note?: string };
+  type Part = { video: string; end: number; items: Item[] };
+  type Team = { team: string; season: number; name: string; nick: string; players: Part; team_songs: Part };
+  type YTPlayer = { loadVideoById(o: { videoId: string; startSeconds: number; endSeconds: number }): void; playVideo(): void; pauseVideo(): void; setPlaybackRate(r: number): void; getPlayerState(): number };
+  const root = document.querySelector<HTMLElement>('[data-cheer]')!;
+  const teams = JSON.parse(root.dataset.cheer!) as Team[];
+  const $ = <T extends HTMLElement>(s: string) => root.querySelector<T>(s)!;
+  const store = { get: (k: string) => { try { return localStorage.getItem(k); } catch { return null; } }, set: (k: string, v: string | null) => { try { v === null ? localStorage.removeItem(k) : localStorage.setItem(k, v); } catch {} } };
+
+  let team: Team | undefined;
+  let kind: 'players' | 'team_songs' = 'players';
+  let cur = -1;
+  let repeat = false;
+  let slow = false;
+  let yt: YTPlayer | undefined;
+  let ytReady: Promise<void> | undefined;
+
+  const doneKey = (t: Team, k: string, name: string) => `bbadda:cheer:${t.team}:${k}:${name}`;
+  const part = () => team![kind];
+  const endOf = (i: number) => part().items[i + 1]?.start ?? part().end;
+
+  function loadYT(): Promise<void> {
+    ytReady ??= new Promise((resolve) => {
+      (window as unknown as { onYouTubeIframeAPIReady: () => void }).onYouTubeIframeAPIReady = () => {
+        const YT = (window as unknown as { YT: { Player: new (id: string, o: object) => YTPlayer } }).YT;
+        yt = new YT.Player('cheer-yt', {
+          width: '100%', height: '100%', videoId: part().video,
+          playerVars: { playsinline: 1, rel: 0, start: part().items[0].start, end: endOf(0) },
+          events: { onReady: () => resolve(), onStateChange: (e: { data: number }) => onState(e.data) },
+        });
+      };
+      const s = document.createElement('script'); s.src = 'https://www.youtube.com/iframe_api'; document.head.append(s);
+    });
+    return ytReady;
+  }
+
+  function onState(state: number) {
+    $('[data-cheer-toggle]').classList.toggle('is-playing', state === 1);
+    $('[data-cheer-toggle]').setAttribute('aria-label', state === 1 ? '일시정지' : '재생');
+    if (state === 0 && cur >= 0) play(repeat ? cur : cur + 1 < part().items.length ? cur + 1 : cur, !repeat && cur + 1 >= part().items.length);
+  }
+
+  async function play(i: number, stop = false) {
+    if (!yt) await loadYT();
+    cur = i;
+    const it = part().items[i];
+    yt!.loadVideoById({ videoId: part().video, startSeconds: it.start, endSeconds: endOf(i) });
+    if (stop) yt!.pauseVideo();
+    yt!.setPlaybackRate(slow ? 0.75 : 1);
+    $('[data-cheer-now]').textContent = `${it.name}${kind === 'players' ? ' 응원가' : ''}`;
+    root.querySelectorAll('[data-cheer-row]').forEach((r, k) => r.classList.toggle('is-current', k === i));
+  }
+
+  function renderList() {
+    const t = team!;
+    const list = $('[data-cheer-list]');
+    list.replaceChildren(...part().items.map((it, i) => {
+      const li = document.createElement('li'); li.className = 'cheer-row'; li.dataset.cheerRow = '';
+      if (i === cur) li.classList.add('is-current');
+      const b = document.createElement('button'); b.type = 'button'; b.className = 'cheer-play';
+      b.innerHTML = '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 5l12 7-12 7z"/></svg>';
+      const name = document.createElement('span'); name.className = 'cheer-name'; name.textContent = it.name;
+      if (it.note) { const n = document.createElement('em'); n.className = 'cheer-note'; n.textContent = it.note; name.append(n); }
+      b.append(name);
+      b.addEventListener('click', () => play(i));
+      const label = document.createElement('label'); label.className = 'cheer-done';
+      const cb = document.createElement('input'); cb.type = 'checkbox'; cb.checked = !!store.get(doneKey(t, kind, it.name));
+      cb.addEventListener('change', () => { store.set(doneKey(t, kind, it.name), cb.checked ? '1' : null); renderProgress(); });
+      label.append(cb, document.createTextNode('외웠어요'));
+      li.append(b, label);
+      return li;
+    }));
+  }
+
+  function renderProgress() {
+    const t = team!;
+    const keys = (['players', 'team_songs'] as const).flatMap((k) => t[k].items.map((it) => doneKey(t, k, it.name)));
+    $('[data-cheer-done]').textContent = String(keys.filter((k) => store.get(k)).length);
+    $('[data-cheer-total]').textContent = String(keys.length);
+  }
+
+  function open(id: string) {
+    team = teams.find((t) => t.team === id);
+    $('[data-cheer-pick]').hidden = !!team;
+    $('[data-cheer-main]').hidden = !team;
+    if (!team) return;
+    store.set('bbadda:cheerTeam', id);
+    cur = -1; kind = 'players';
+    $('[data-cheer-name]').textContent = `${team.nick} · ${team.name}`;
+    $('[data-cheer-source]').textContent = team.name;
+    $('[data-cheer-season]').textContent = `${team.season}`;
+    root.querySelectorAll<HTMLElement>('[data-cheer-count]').forEach((el) => (el.textContent = String(team![el.dataset.cheerCount as 'players'].items.length)));
+    root.querySelectorAll('[data-cheer-tab]').forEach((x) => x.setAttribute('aria-selected', String((x as HTMLElement).dataset.cheerTab === kind)));
+    $('[data-cheer-now]').textContent = '곡을 고르세요';
+    renderList(); renderProgress();
+    loadYT(); // 플레이어를 미리 불러 둔다 — 휴대폰은 첫 탭에서 바로 재생돼야 한다(탭 뒤 기다리면 자동 재생이 막힘)
+  }
+
+  root.querySelectorAll<HTMLButtonElement>('[data-cheer-team]').forEach((b) => b.addEventListener('click', () => open(b.dataset.cheerTeam!)));
+  root.querySelectorAll<HTMLButtonElement>('[data-cheer-tab]').forEach((b) => b.addEventListener('click', () => {
+    kind = b.dataset.cheerTab as typeof kind; cur = -1;
+    root.querySelectorAll('[data-cheer-tab]').forEach((x) => x.setAttribute('aria-selected', String(x === b)));
+    renderList();
+  }));
+  $('[data-cheer-toggle]').addEventListener('click', async () => {
+    if (cur < 0) return play(0);
+    await loadYT();
+    yt!.getPlayerState() === 1 ? yt!.pauseVideo() : yt!.playVideo();
+  });
+  $('[data-cheer-prev]').addEventListener('click', () => play(Math.max(0, cur - 1)));
+  $('[data-cheer-next]').addEventListener('click', () => play(Math.min(part().items.length - 1, cur + 1)));
+  $('[data-cheer-repeat]').addEventListener('click', (e) => { repeat = !repeat; (e.currentTarget as HTMLElement).setAttribute('aria-pressed', String(repeat)); });
+  $('[data-cheer-slow]').addEventListener('click', (e) => { slow = !slow; (e.currentTarget as HTMLElement).setAttribute('aria-pressed', String(slow)); yt?.setPlaybackRate(slow ? 0.75 : 1); });
+  $('[data-cheer-change]').addEventListener('click', () => { $('[data-cheer-main]').hidden = true; $('[data-cheer-pick]').hidden = false; });
+
+  // MY팀 → 그 팀 응원가, 없거나 준비 안 된 팀이면 고르기
+  open(store.get('bbadda:myTeam') && teams.some((t) => t.team === store.get('bbadda:myTeam')) ? store.get('bbadda:myTeam')! : store.get('bbadda:cheerTeam') ?? '');
+</script>
+
+<style is:global>
+  .cheer { max-width: 760px; margin: 0 auto; padding: 8px 0 48px; }
+  .cheer-sub { margin: 6px 0 0; color: var(--muted); font-size: 15px; }
+  .cheer-pick { margin-top: 24px; }
+  .cheer-pick p { margin: 0 0 12px; color: var(--muted); }
+  .cheer-pick[hidden], .cheer-main[hidden] { display: none; }
+  .cheer-pick-btns { display: flex; flex-wrap: wrap; gap: 8px; }
+  .cheer-team { display: flex; align-items: baseline; justify-content: space-between; gap: 12px; margin: 20px 0 12px; }
+  .cheer-team-name { font-size: 18px; font-weight: 800; }
+  .cheer-progress { font-size: 13px; color: var(--muted); }
+  .cheer-progress strong { color: var(--ink); font-size: 16px; }
+  .cheer-player { display: grid; gap: 14px; padding: 14px; border-radius: 22px; background: #1D1D1F; color: #fff; box-shadow: 0 10px 28px rgba(29, 29, 31, 0.25); }
+  @media (min-width: 720px) { .cheer-player { position: sticky; top: 72px; z-index: 3; grid-template-columns: 300px 1fr; align-items: center; } }
+  .cheer-frame { position: relative; aspect-ratio: 16 / 9; border-radius: 14px; overflow: hidden; background: #000; }
+  .cheer-frame iframe, .cheer-frame > div { position: absolute; inset: 0; width: 100%; height: 100%; }
+  .cheer-now-label { margin: 0; font-size: 12px; font-weight: 700; color: #FFD43B; }
+  .cheer-now-title { margin: 2px 0 10px; font-size: 20px; font-weight: 800; letter-spacing: -0.02em; }
+  .cheer-ctrl { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; }
+  .cheer-btn { display: grid; place-items: center; width: 40px; height: 40px; border: 0; border-radius: 50%; background: rgba(255, 255, 255, 0.1); color: #fff; cursor: pointer; }
+  .cheer-btn--main { width: 48px; height: 48px; background: #FFD43B; color: #1D1D1F; }
+  .cheer-btn svg, .cheer-opt svg { width: 18px; height: 18px; fill: currentColor; stroke: currentColor; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; }
+  .cheer-opt svg { fill: none; }
+  .cheer-btn--main .i-pause, .cheer-btn--main.is-playing .i-play { display: none; }
+  .cheer-btn--main.is-playing .i-pause { display: block; }
+  .cheer-opt { display: inline-flex; align-items: center; gap: 5px; height: 32px; padding: 0 12px; border: 1px solid rgba(255, 255, 255, 0.25); border-radius: 999px; background: transparent; color: #fff; font: 700 12px/1 var(--font); cursor: pointer; }
+  .cheer-opt[aria-pressed="true"] { background: #39FF14; border-color: #39FF14; color: #1D1D1F; }
+  .cheer-btn:focus-visible, .cheer-opt:focus-visible { outline: 2px solid #FFD43B; outline-offset: 2px; }
+  .cheer-tabs { display: flex; gap: 6px; margin: 22px 0 10px; }
+  .cheer-tab { height: 36px; padding: 0 16px; border: 0; border-radius: 999px; background: transparent; color: var(--muted); font: 700 14px/1 var(--font); cursor: pointer; }
+  .cheer-tab[aria-selected="true"] { background: var(--ink); color: #fff; }
+  .cheer-tab span { margin-left: 2px; font-weight: 600; opacity: 0.7; }
+  .cheer-list { list-style: none; margin: 0; padding: 0; display: grid; gap: 6px; }
+  .cheer-row { display: flex; align-items: center; gap: 10px; padding: 6px 12px 6px 6px; border-radius: 14px; background: rgba(255, 255, 255, 0.6); }
+  .cheer-row.is-current { box-shadow: inset 0 0 0 2px var(--ink); background: #fff; }
+  .cheer-play { flex: 1; min-width: 0; display: flex; align-items: center; gap: 12px; padding: 6px; border: 0; background: transparent; color: var(--ink); font: 700 15px/1.3 var(--font); text-align: left; cursor: pointer; }
+  .cheer-play svg { flex: none; width: 30px; height: 30px; padding: 8px; border-radius: 50%; background: var(--ink); fill: #fff; box-sizing: border-box; }
+  .cheer-row.is-current .cheer-play svg { background: #FFD43B; fill: #1D1D1F; }
+  .cheer-name { min-width: 0; }
+  .cheer-note { margin-left: 8px; padding: 2px 7px; border-radius: 6px; background: #E0002A; color: #fff; font-size: 11px; font-style: normal; font-weight: 800; white-space: nowrap; }
+  .cheer-done { display: inline-flex; align-items: center; gap: 6px; flex: none; font-size: 12.5px; color: var(--muted); cursor: pointer; }
+  .cheer-done input { width: 18px; height: 18px; accent-color: #1D1D1F; }
+  .cheer-foot { margin: 18px 0 0; font-size: 12.5px; color: var(--muted); }
+  .cheer-change { margin-left: 6px; padding: 0; border: 0; background: none; color: var(--accent); font: inherit; text-decoration: underline; cursor: pointer; }
+</style>
