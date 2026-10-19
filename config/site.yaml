@@ -29,3 +29,4 @@ section_headings: true
 brand_logo: true
 # team_logos: 애칭 캐릭터 마크(public/mascots/<id>.svg, 우리가 그림 — 구단 정식 로고는 쓰지 않음, 저장소 주인 결정 2026-10-19). false 면 팀 컬러 이니셜 배지. 환경변수 SITE_LOGOS=on|off 우선.
 team_logos: true
+revisit: true # 재방문 장치: 승부예측 적중 기록 + 지난 방문 이후 새 소식(NEW·개수) 표시. false 면 둘 다 숨김(저장소 주인 결정, 2026-10-19)

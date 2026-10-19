@@ -739,3 +739,13 @@ html .about-compact h1.page-title { font-size: 22px; letter-spacing: -0.01em; ma
 .ps-side.is-out .ps-side-wins { font-size: 12px; font-weight: 600; color: var(--muted); text-decoration: none; }
 .ps-side.is-out { text-decoration: none; }
 .ps-side.is-out .ps-side-name { text-decoration: line-through; text-decoration-color: rgba(0,0,0,0.25); }
+/* 승부예측 적중 기록(revisit) */
+.ps-myrec { margin: 10px 0 0; font-size: 13px; color: #C9C9CE; }
+.ps-myrec strong { color: #fff; font-weight: 800; }
+.ps-myrec .is-hit { color: #FFD43B; font-weight: 700; }
+.ps-myrec .is-miss { color: #A1A1A6; }
+/* 지난 방문 이후 새 소식(revisit) */
+a.is-fresh::before { content: 'NEW'; display: inline-block; margin-right: 6px; padding: 1px 6px; border-radius: 6px; background: #E0002A; color: #fff; font-size: 10px; font-weight: 800; line-height: 1.5; vertical-align: 2px; letter-spacing: 0.02em; }
+.edition-fresh { margin: 8px 0 0; font-size: 13px; font-weight: 700; color: #E0002A; }
+.mt-new { display: inline-grid; place-items: center; min-width: 18px; height: 18px; margin-left: 6px; padding: 0 5px; border-radius: 999px; background: #E0002A; color: #fff; font-size: 11px; font-weight: 800; line-height: 1; }
+.mt-new[hidden] { display: none; }
