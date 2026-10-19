@@ -45,7 +45,7 @@ jobs:
         if: steps.make.outputs.key != ''
         run: |
           set -euo pipefail
-          sudo apt-get -qq install -y fonts-noto-cjk >/dev/null
+          sudo apt-get -qq update >/dev/null && sudo apt-get -qq install -y fonts-noto-cjk imagemagick >/dev/null
           mkdir -p /tmp/img
           for s in 1 2 3 4 5 story; do
             h=1350; [ "$s" = story ] && h=1920
