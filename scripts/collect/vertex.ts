@@ -12,6 +12,34 @@ type Result = { document?: { derivedStructData?: { title?: string; link?: string
 
 const hostOf = (u: string) => { try { return new URL(u).hostname.replace(/^www\.|^m\./, ''); } catch { return ''; } };
 const SUSPECT_SAME_DATE = 3;
+// 글 번호가 사이트 전체에서 늘어나는 곳: 하루에 늘어나는 번호(실측의 약 1.5배, 2026-10-12~18 수집분: 더쿠 약 190만·에펨 약 250만/일).
+// 발췌의 '14시간 전'(댓글 시각 등)을 작성 시각으로 잘못 읽은 몇 달 전 글을 번호로 걸러낸다.
+const POSTS_PER_DAY: Record<string, number> = { 'theqoo.net': 3_000_000, 'fmkorea.com': 4_000_000 };
+
+/** 글 번호: 더쿠 /<게시판>/<번호>, 에펨 /<번호> 또는 document_srl=<번호> */
+export function postNumber(u: string): number | undefined {
+  try {
+    const x = new URL(u);
+    const m = /\/(\d{8,})$/.exec(x.pathname) ?? /^(\d{8,})$/.exec(x.searchParams.get('document_srl') ?? '');
+    return m ? Number(m[1]) : undefined;
+  } catch { return undefined; }
+}
+
+/** 엠엘비파크 글 id 앞 8자리는 작성일(YYYYMMDD) */
+export function mlbparkDate(u: string): string | undefined {
+  const m = /[?&]id=(20\d\d)(\d\d)(\d\d)\d{6,}/.exec(u);
+  return m ? new Date(`${m[1]}-${m[2]}-${m[3]}T00:00:00+09:00`).toISOString() : undefined;
+}
+
+/** 이번 실행과 이미 모은 글(refs) 중 가장 큰 글 번호보다 (기간 × 하루 번호) 넘게 작은 글은 옛글로 보고 버린다. */
+export function dropOldByNumber(items: RawItem[], days: number, refs: string[] = []): RawItem[] {
+  const max = new Map<string, number>();
+  for (const it of [...items, ...refs.map((url) => ({ url }))]) { const h = hostOf(it.url), n = postNumber(it.url); if (POSTS_PER_DAY[h] && n) max.set(h, Math.max(max.get(h) ?? 0, n)); }
+  return items.filter((it) => {
+    const h = hostOf(it.url), n = postNumber(it.url), top = max.get(h);
+    return !(POSTS_PER_DAY[h] && n && top && top - n > POSTS_PER_DAY[h] * days);
+  });
+}
 /** 시각 없이 날짜만 있는 값: 한국 자정(15:00Z) 또는 UTC 자정 */
 export const isDateOnly = (iso: string) => /T(15|00):00:00(\.000)?Z$/.test(iso);
 const MONTHS = ['jan', 'feb', 'mar', 'apr', 'may', 'jun', 'jul', 'aug', 'sep', 'oct', 'nov', 'dec'];
@@ -68,7 +96,7 @@ export function buildQueries(sites: Site[]): Query[] {
   return sites.flatMap((site) => teams.map((t) => ({ site, team: t.id, q: site.lang === 'en' ? t.aliases.find((a) => /^[\x00-\x7F]+$/.test(a)) ?? t.name : t.name })));
 }
 
-export async function collectVertex(ctx: Ctx, override?: Record<string, any>) {
+export async function collectVertex(ctx: Ctx, override?: Record<string, any>, refs: string[] = []) {
   const cfg = override ?? loadSources().vertex;
   const out = { items: [] as RawItem[], failures: [] as string[], requests: 0, dropped_undated: 0, dropped_suspect_date: 0 };
   if (!cfg.enabled) return { ...out, skipped: 'disabled' };
@@ -102,7 +130,9 @@ export async function collectVertex(ctx: Ctx, override?: Record<string, any>) {
         const snippet = (d.snippets ?? []).map((s) => s.snippet ?? '').join(' ');
         const found = findDateWithSource(d.pagemap?.metatags?.[0], snippet, ctx.now);
         if (!found) { out.dropped_undated++; continue; }
-        const date = found.iso;
+        // 엠엘비파크는 글 id 의 날짜가 정확하다 — 발췌에서 읽은 날짜와 하루 넘게 다르면 id 날짜를 쓴다
+        const idDate = host === 'mlbpark.donga.com' ? mlbparkDate(link) : undefined;
+        const date = idDate && Math.abs(Date.parse(idDate) - Date.parse(found.iso)) > 86400_000 ? idDate : found.iso;
         if (found.from === 'meta') metaDated.add(link);
         seen.add(link);
         const title = cleanTitle(d.title);
@@ -124,7 +154,8 @@ export async function collectVertex(ctx: Ctx, override?: Record<string, any>) {
   const suspectable = (it: RawItem) => metaDated.has(it.url) && !isDateOnly(it.published_at);
   for (const it of out.items) if (suspectable(it)) n.set(`${it.source_name}|${it.published_at}`, (n.get(`${it.source_name}|${it.published_at}`) ?? 0) + 1);
   const keep = out.items.filter((it) => !suspectable(it) || (n.get(`${it.source_name}|${it.published_at}`) ?? 0) < SUSPECT_SAME_DATE);
-  out.dropped_suspect_date = out.items.length - keep.length;
-  out.items = keep;
+  const fresh = dropOldByNumber(keep, Number(cfg.lookback_days ?? 14) + 1, refs);
+  out.dropped_suspect_date = out.items.length - fresh.length;
+  out.items = fresh;
   return out;
 }
