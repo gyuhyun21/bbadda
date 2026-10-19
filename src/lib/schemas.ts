@@ -38,6 +38,8 @@ export const signalSchema = z.object({
   summary_ko: z.string().default(''),
   // 인스타 아침 카드용 한 줄(우리 문장, 24자 이내, 명사형). 아침 실행에서 구단별 대표 뉴스에만 루틴이 쓴다
   brief_ko: z.string().max(30).optional(),
+  // 인스타 아침 첫 장 후크(그날 가장 큰 소식 1건에만, 24자 이내 우리 문장)
+  hook_ko: z.string().max(24).optional(),
   // 검색 결과 발췌 15단어 이내(편집 참고용, 화면에 쓰지 않는다)
   excerpt: z.string().optional(),
   // 화면에 싣는 인용 15단어 이내. 출처는 url.
