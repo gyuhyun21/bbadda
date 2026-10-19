@@ -1,10 +1,13 @@
-# 인스타 릴스 게시(수동 실행): public/insta/<post>/reel.mp4 를 bbadda.com 공개 주소로, 본문은 post.json 의 reel_caption(없으면 caption)
+# 인스타 릴스 게시: public/insta/<post>/reel.mp4 를 bbadda.com 공개 주소로, 본문은 post.json 의 reel_caption(없으면 caption)
+# 수동 실행(post 입력) 또는 예약: 매일 07:25 KST 에 public/insta/reel-queue.json 의 오늘(KST) 항목을 게시. GitHub 예약 실행은 몇~십여 분 늦을 수 있다
 # 시크릿 INSTAGRAM_PAGE_TOKEN, 변수 INSTAGRAM_USER_ID. 토큰은 출력하지 않는다
 name: ig-reel
 on:
   workflow_dispatch:
     inputs:
       post: { description: 'public/insta 아래 폴더(예 2026-10-19-intro)', required: true }
+  schedule:
+    - cron: '25 22 * * *'
 permissions:
   contents: read
 jobs:
@@ -20,6 +23,10 @@ jobs:
           POST: ${{ inputs.post }}
         run: |
           set -euo pipefail
+          if [ -z "$POST" ]; then
+            POST=$(jq -r --arg d "$(TZ=Asia/Seoul date +%F)" '.[$d] // empty' public/insta/reel-queue.json 2>/dev/null || true)
+            [ -n "$POST" ] || { echo "오늘 예약 릴스 없음" | tee -a "$GITHUB_STEP_SUMMARY"; exit 0; }
+          fi
           [[ "$POST" =~ ^[0-9a-z-]+$ ]] || { echo "잘못된 폴더 이름"; exit 1; }
           jq -r '.reel_caption // .caption' "public/insta/$POST/post.json" > /tmp/cap.txt
           res=$(bash scripts/insta/reel.sh "https://bbadda.com/insta/$POST/reel.mp4" /tmp/cap.txt)
