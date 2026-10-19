@@ -23,24 +23,4 @@ jobs:
         run: |
           set -euo pipefail
           [[ "$POST" =~ ^[0-9a-z-]+$ ]] || { echo "잘못된 폴더 이름"; exit 1; }
-          DIR="public/insta/$POST"; BASE="https://bbadda.com/insta/$POST"
-          G="https://graph.facebook.com/v21.0"; AUTH="Authorization: Bearer $TOKEN"
-          for f in $(jq -r '.images[]' "$DIR/post.json"); do curl -sS -f -o /dev/null "$BASE/$f" || { echo "이미지 주소 없음: $BASE/$f (배포 확인)"; exit 1; }; done
-          ids=()
-          for f in $(jq -r '.images[]' "$DIR/post.json"); do
-            id=$(curl -sS -f -X POST -H "$AUTH" "$G/$IG/media" --data-urlencode "image_url=$BASE/$f" -d is_carousel_item=true | jq -r .id)
-            ids+=("$id")
-          done
-          children=$(IFS=,; echo "${ids[*]}")
-          cap=$(jq -r .caption "$DIR/post.json")
-          if [ "${#ids[@]}" -gt 1 ]; then
-            cid=$(curl -sS -f -X POST -H "$AUTH" "$G/$IG/media" -d media_type=CAROUSEL -d "children=$children" --data-urlencode "caption=$cap" | jq -r .id)
-          else
-            cid=$(curl -sS -f -X POST -H "$AUTH" "$G/$IG/media" --data-urlencode "image_url=$BASE/$(jq -r '.images[0]' "$DIR/post.json")" --data-urlencode "caption=$cap" | jq -r .id)
-          fi
-          for i in $(seq 1 30); do
-            st=$(curl -sS -f -H "$AUTH" "$G/$cid?fields=status_code" | jq -r .status_code)
-            [ "$st" = "FINISHED" ] && break; [ "$st" = "ERROR" ] && { echo "컨테이너 오류"; exit 1; }; sleep 5
-          done
-          mid=$(curl -sS -f -X POST -H "$AUTH" "$G/$IG/media_publish" -d "creation_id=$cid" | jq -r .id)
-          curl -sS -f -H "$AUTH" "$G/$mid?fields=permalink,timestamp" | jq '{permalink, timestamp}'
+          bash scripts/insta/publish.sh "https://bbadda.com/insta/$POST" "public/insta/$POST/post.json"

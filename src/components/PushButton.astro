@@ -19,6 +19,12 @@
   const toKey = (b64: string) => { const s = atob((b64 + '='.repeat((4 - (b64.length % 4)) % 4)).replace(/-/g, '+').replace(/_/g, '/')); return Uint8Array.from(s, (c) => c.charCodeAt(0)); };
   (async () => {
     if (!row || !btn || !label || !hint) return;
+    // 인스타·페이스북·카카오톡·네이버·라인 앱 안 브라우저: 알림을 켤 수 없어 외부 브라우저로 여는 방법을 알려 준다
+    if (/Instagram|FBAN|FBAV|KAKAOTALK|NAVER\(inapp|Line\//i.test(navigator.userAgent)) {
+      hint.textContent = ios ? '알림을 받으려면 ⋯ → 외부 브라우저로 열기 후 홈 화면에 추가하세요' : '알림을 받으려면 ⋯ → 외부 브라우저로 열기를 눌러 주세요';
+      hint.hidden = false;
+      return;
+    }
     if (!('serviceWorker' in navigator) || !('PushManager' in window) || !('Notification' in window)) {
       // 아이폰 사파리(홈 화면 추가 전): 방법만 알려 준다
       if (ios && !standalone) { hint.textContent = '홈 화면에 추가하면 알림받기를 쓸 수 있어요. 새 소식이 나올 때 알려 드려요'; hint.hidden = false; }
