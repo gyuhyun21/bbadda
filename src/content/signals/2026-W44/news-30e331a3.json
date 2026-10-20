@@ -1,0 +1,23 @@
+{
+  "id": "news-30e331a3",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "조선일보",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMjRrYnRYazh0UFZpT0JlV2RtQ3ZKTk41dHNIVkFlcWdTRHNsZ3l2Z3pSMDFER3d2eHZPa2lhOEtZVlptN0ZuYVFMcHF2NW9IczFjSTZzemlyRVc0LWpwT1F5SlJkX1M0ZjljaXdFd0w1d2pQb0dKdGxsOFRSd0tJTmZDNA?oc=5",
+  "title": "무명 설움→1군 매니저→단장 되기까지 너무 똑같다...'제2의 김태룡' 신화 시작인가",
+  "published_at": "2026-10-20T02:17:00.000Z",
+  "collected_at": "2026-10-20T07:38:44.782Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

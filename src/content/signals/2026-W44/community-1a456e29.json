@@ -1,0 +1,76 @@
+{
+  "id": "community-1a456e29",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 norn57님의 블로그",
+  "url": "https://blog.naver.com/norn57_/224447576370",
+  "title": "지성의 준PO 3차전 시구와 LG 트윈스 승리 응원",
+  "published_at": "2026-10-20T12:01:00.000+09:00",
+  "collected_at": "2026-10-20T07:38:44.782Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 98,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBscnJXM3Z3aWxBNHFqOE5DeENaX0ZzUFhPQmRYWmdsdkloaDRSamIxZnVmNGtNRGl0dU5pVEF0ZGtxZGJxbUVlbnpLaE91TUlqN2REX2ZfcjZhUDZ5aDZ2Sk1vYXlkMmt0U2hjQy1RQdIBb0FVX3lxTFBscnJXM3Z3aWxBNHFqOE5DeENaX0ZzUFhPQmRYWmdsdkloaDRSamIxZnVmNGtNRGl0dU5pVEF0ZGtxZGJxbUVlbnpLaE91TUlqN2REX2ZfcjZhUDZ5aDZ2Sk1vYXlkMmt0U2hjQy1RQQ?oc=5"
+    },
+    {
+      "source_name": "스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1OX0dUT3piOEsyR2xrd3BQd3Nsb2R0Vmp0bC1Vd0s5MHJEV3pVRjdxY0VORG5wLUJnanRpZ1Zxc05HU2oxQmJjQS1EWUdIXzhvUTlwUHk2QmJOaXA4WFQ5eDZxMWVwemZmZHZ3RlhlaU4xcEZEdVE?oc=5"
+    },
+    {
+      "source_name": "매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1QUkRLcFJpblNzMDBjb2FmcGY3OWl5ell0b2FHOE5Edm1WQ0xFSDlOTzZORkFqMXBfcjlWODhuR3JLeFlmaWc?oc=5"
+    },
+    {
+      "source_name": "중앙신문",
+      "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxOZ3RDZE16MUs5eFl0OXVtZ1RRQUtsdk95dmk4SEl5NEdnaHRkQ21OQ1o2VFVyYURDVDMzeTdCRFpOWDhIS29QODBRZWhxS3Y5XzYzZGpRM0c0QXVsZW40bTBJVDN1N0hTM1FvZnJ2c3k2b0hqLU5EeTZLOUhCVmEzblB4ZXZsQkZPU2RpQ3VEX0pDVGY5dlNzT1F5QUxNRWE5Y1NoWlJmZDZWMEpSNE5BSjJfT004eVF4XzBsVEN4TUhuWkFPRmZFN0VZNDRJVEt1VWpRbEZxSU5WcW94VjBfZVdkTkhqSTBER24xME16MndXT1hwOHZMenFLZW9peC1nMW9vVk93QWZrbXV3WjJqTVQ1RHpXSlJPbjVQeGhPV3FrTU5ybzdkZmZVSWpLR05sUVc0bGVUR0VsV2U3NlltR1A1N0dLZUNoN1E3OXNUTTRaVy10a0Y3YjFFc0JNcTg?oc=5"
+    },
+    {
+      "source_name": "뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0wcGxTZ3FZb2hEdGVYUHpUbkRoakVEanlucUlMOGczVm0ycnFlRWV3ZElsWXE2bmF5ZWViclVZVzlQRW5jSkdFN3RCZUk1Um5BQkZxSER6bzRFdE1nUzl2X3Q0eFo1Yk8zLXF1dVJvVDhNbWxaVEhlZ9IBeEFVX3lxTE0wcGxTZ3FZb2hEdGVYUHpUbkRoakVEanlucUlMOGczVm0ycnFlRWV3ZElsWXE2bmF5ZWViclVZVzlQRW5jSkdFN3RCZUk1Um5BQkZxSER6bzRFdE1nUzl2X3Q0eFo1Yk8zLXF1dVJvVDhNbWxaVEhlZw?oc=5"
+    },
+    {
+      "source_name": "톱스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE50SDN4SnN6YmhBOGE1V1U2V2ROa3dHajQxUU9CeE4temJRMTFUU0FLazgyZER1LUFEOFNkeUlLTHV2UzJwcmJzaFNGa0JMN3BubjF1M3VZT3NwZUdOWG5kZHdUVGJUdExvZDJhQWhqemdzQQ?oc=5"
+    },
+    {
+      "source_name": "뉴스핌",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9OVTVZTThZeDlKc3VGRmUtLUJTWjFVcG1LSVhCM1R6Nk9LWUtJdFNxNER2YVI1Vi1NYlpUT000THZ1dkFQdzFHSFZyQjhLZ0pBbDZUQ1JhWGYxSHBx?oc=5"
+    },
+    {
+      "source_name": "이데일리",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNaUxtd2xDdEVtRjhuRkwzSVp5U0NDa0dxUWk3WWlpRTVuelFuMlBYc0pIbFRWVy15MHhQLU9sQmZwaHlhUnlCaGdsdHF4RDl5Ynp4U2dVVXBXdHFSeWRjeG9SaHpXUmg2N3FxQU5tM183N3cxdTg0SzYyLWdMQWN1SA?oc=5"
+    },
+    {
+      "source_name": "이투데이",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1TU3lnUVJFSlNiN1VvTUtpSUtKOERXeTRsSXBMTno4MWV6ZnhBSHN4aWhIdXJKaFJZeENfTWZkSlRvUTBibVBmcUdNZjMySzFJV2RjTnB4X0Eybk9Fanl2cXhsLTlNVldDRGVCMi1zNkxwd1pS?oc=5"
+    },
+    {
+      "source_name": "https://spt.co.kr/",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1qaXpxOHRYbURQcFA2alh3cGZwMmY1YWt5aUI4Z1VPSkFqMk5VWldleVItR2tfVl9VWHRNZ2hFRndrXy14Uy1lQW03UkpfdE9PeUtZSXhENEVWV1Mx?oc=5"
+    },
+    {
+      "source_name": "싱글리스트",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1teklhejhHSERSN2FXcFQzN3VBb25TUEc5SlNWa0JJRkJRY1llMDlnOUo3b1R2Smp1MDZKQnJsazZRdjJpeU9PYWZ3Y2ZrRXZWRmthNVdwemJjWEl4LVFPQXhXSU5IQQ?oc=5"
+    },
+    {
+      "source_name": "미주중앙일보",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9EbV8tZnlpc1pQVEJjQ29BUmU5RGI5dFliaUJxSEJsMXV4X0dOOHdaeWtfcTZCRXpER2oxYWlObEphVmp1eVFGc3RlYThqUXBzMzNUVEs0bnFxMm9sWm91S0RB?oc=5"
+    },
+    {
+      "source_name": "에너지코리아뉴스",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE95d0xuYnFtNXpNOF9KN054bGlwOXU5a2Z5VWJESndnNXFRT09qVXZJSE1MN1hYVnlqRHlMYU8zLUdaX3ZaR0YtckNXS25DZHVQR3FXUVdxSm1qODRpWFgyQ293cnp4dnVxa2FSMGtla2M?oc=5"
+    }
+  ]
+}

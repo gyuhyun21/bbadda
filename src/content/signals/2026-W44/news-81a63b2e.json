@@ -1,0 +1,44 @@
+{
+  "id": "news-81a63b2e",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "완주신문",
+  "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0tQWdma0pmZFZyc1NUR29wWE9ENGxDWmZEQ1RWSlYzOUxHYW9qeVVlMk80S2R2T3c0ZHdGZGd0MURzMzZ2Tk1FTzlmSGpiaVJkS25xcUd0VFJLa3gyODBv?oc=5",
+  "title": "KIA 김도영, 완주 선덕보육원에 야구용품 후원",
+  "published_at": "2026-10-20T02:19:40.000Z",
+  "collected_at": "2026-10-20T07:38:44.782Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 98,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "전북도민일보",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObmVZMl9pcVVGNkpMX01nWXVwSUwyamY2NGEtS2Nnc0NvaUg1SnFtemVzUUp1QjdlUlFfZDBqaVRLczZjRjV4a0xDNi03ZkJTSVpSNEZzTlZ3eF9UWVFVVExVUEpJMm96eFNxTG9ZaGltSGFsbkdmRGU1ZkZoeVpwMXZQSE1KRkE?oc=5"
+    },
+    {
+      "source_name": "투데이안",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBlZGFmSmpSYXFiTXBCSTZmMW1GREp3a1F1SW9vS2tYdl9RSmZhRlotR0JSSWtVNmQwX3cwMGEzb3JlLTZ3eG9IaF9iUlIzMmhkTEMxZ2tkREJUTG5FODM5bzJ3Q2NPVGtr?oc=5"
+    },
+    {
+      "source_name": "아주경제",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB6N3dNS2JPRmQwR05XNTVEd2l3QVJyem1HZ2VUQS0yNkRiM2dyZ0p4alNrMUtldHNVSEtMQmtybXJWMG8xNlhGREQ2bVQtdzdHMUw1alF2ZErSAVhBVV95cUxQejd3TUtiT0ZkMEdOVzU1RHdpd0FScnptR2dlVEEtMjZEYjNncmdKeGpTazFLZXRzVUhLTEJrcm1yVjBvMTZYRkRENm1ULXc3RzFMNWpRdmRK?oc=5"
+    },
+    {
+      "source_name": "더파워",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAzY1JuQkZBMEVoRUNwNjN0bk9Ba29KVi1BOF92dHhscHdBbGJkZHVONFJLdVpBdGRiaWE4UWN1Z1FJelRfQXR1OEZkRUhpczVXcVRYSG9jZk1IaHVpR1VxcndnUnBjVDEtTEZ2b01Ldk9WT3ZYN0c3T2VwZlZ0Zw?oc=5"
+    },
+    {
+      "source_name": "전북일보 인터넷신문",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE85TlhId2lPT3FqQlF1RExUNkdqOGdaOVBGLW94SEZDUGJ0Z0JjWmVDTC1iYnhtd1VOdk0zUFNyeGI2ekNBaThYcmRnQ3VoMld3NnNuS1dIOWnSAVhBVV95cUxPOU5YSHdpT09xakJRdURMVDZHajhnWjlQRi1veEhGQ1BidGdCY1plQ0wtYmJ4bXdVTnZNM1BTcnhiNnpDQWk4WHJkZ0N1aDJXdzZzbktXSDlp?oc=5"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-f9643c21",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "대전일보",
+  "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5qTkhBOFpHb1laX0tMWmtlcGZkczlaQjdUR2dFTklWb3ppYmR1dzBOMDd1VVFIMGtSeWpNTEZaNUFwTEVDMTA5dFFtZTdGR2p0X0JLSFBKWm53ODNvaFhPWEJMZDh4dVY1N1RJdkxqaEtyMW_SAXNBVV95cUxOak5IQThaR29ZWl9LTFprZXBmZHM5WkI3VEdnRU5JVm96aWJkdXcwTjA3dVVRSDBrUnlqTUxGWjVBcExFQzEwOXRRbWU3RkdqdF9CS0hQSlpudzgzb2hYT1hCTGQ4eHVWNTdUSXZMamhLcjFv?oc=5",
+  "title": "단체훈련 이어가는 류지현호… 30일 '미야자키 캠프'서 2027시즌 돌입",
+  "published_at": "2026-10-20T01:57:51.000Z",
+  "collected_at": "2026-10-20T07:38:44.782Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-55077119",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "https://www.2news.co.kr/",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBhNkljUkZwVmNONktqTDdRTG1SQmpvblZaeFpTX1NXUTdab2xTZ05Vc3NhcTJ6RVJ2dlBRdjhrZjhNcXlyNzIzUG5mRWlDc1MxT1Q3QnZhSlRrU2h3SFB0UEhqOWc5U0pQ?oc=5",
+  "title": "KIA 시라카와, LG전 깜짝 카드… PO 진출 및 대기록 도전",
+  "published_at": "2026-10-20T02:29:00.000Z",
+  "collected_at": "2026-10-20T07:38:44.782Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

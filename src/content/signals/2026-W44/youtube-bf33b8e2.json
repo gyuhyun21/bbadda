@@ -1,0 +1,27 @@
+{
+  "id": "youtube-bf33b8e2",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "SSG랜더스",
+  "url": "https://www.youtube.com/watch?v=iKghEM51y00",
+  "title": "POV : 올리고 싶은 사진은 많은데 쓱케치 분량은 한정적일 때🤦‍♀️",
+  "published_at": "2026-10-20T03:00:24Z",
+  "collected_at": "2026-10-20T07:38:44.782Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 34531,
+    "likes": 1539,
+    "comments": 43
+  },
+  "scores": {
+    "hot": 95,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

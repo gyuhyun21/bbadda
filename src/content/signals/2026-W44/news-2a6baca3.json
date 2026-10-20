@@ -1,0 +1,28 @@
+{
+  "id": "news-2a6baca3",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBmQXRENGYybk5jem5VakplMWNzS1phenVVYXBsUC10b1lmN1hOcm1Sa3d0cFRIc05wZWxSQ1U1cktzVWE4OXR0RERtb0RuazZJUE55R0RtQU4wT2JubjNJNFUwZkdXTXBwNFkyZFBGQdIBb0FVX3lxTFBmQXRENGYybk5jem5VakplMWNzS1phenVVYXBsUC10b1lmN1hOcm1Sa3d0cFRIc05wZWxSQ1U1cktzVWE4OXR0RERtb0RuazZJUE55R0RtQU4wT2JubjNJNFUwZkdXTXBwNFkyZFBGQQ?oc=5",
+  "title": "日 독립리그→韓 진출→수술→韓 복귀→데뷔 첫 PS, 인간 승리 꿈꾸는 25살 영건…KIA 최초 준PO 승리 이끌까",
+  "published_at": "2026-10-20T01:40:00.000Z",
+  "collected_at": "2026-10-20T07:38:44.782Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 90,
+    "relevance": 70
+  },
+  "sentiment": "mixed",
+  "also_in": [
+    {
+      "source_name": "OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA4cWFKNmgtdUw4VDZVZ25FcU5IWFJDbm93cEpaajkzRmM2OVltLUtKQ1h4RG1iQzJfMUJ5RUhENXFheXFIR2Ryb1h5aVdLMUJoR21Lag?oc=5"
+    }
+  ]
+}

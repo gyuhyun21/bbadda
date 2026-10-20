@@ -1,0 +1,23 @@
+{
+  "id": "community-4405a578",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 루나의 스포츠픽",
+  "url": "https://blog.naver.com/susu8522/224447873787",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/JePUZ6V6iLz",
+  "title": "KIA 원투펀치, 38도 고열 뒤에 완성한 준PO의 반전",
+  "published_at": "2026-10-20T16:20:00.000+09:00",
+  "collected_at": "2026-10-20T07:38:44.782Z",
+  "summary_ko": "한 블로그는 KIA 원투펀치가 고열을 이겨내고 준PO에서 반전을 만든 과정을 다뤘다.",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

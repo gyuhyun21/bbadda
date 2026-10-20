@@ -1,0 +1,23 @@
+{
+  "id": "community-282e7fbc",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 변화의 시작점",
+  "url": "https://blog.naver.com/platelier/224447649263",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/4xQbSkUsU6",
+  "title": "손아섭 두산 방출 3000안타 도전 불투명 은퇴 위기 분석",
+  "published_at": "2026-10-20T13:13:00.000+09:00",
+  "collected_at": "2026-10-20T07:38:44.782Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

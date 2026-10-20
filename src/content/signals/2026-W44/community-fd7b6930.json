@@ -1,0 +1,23 @@
+{
+  "id": "community-fd7b6930",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 퇴근 후 스타디움",
+  "url": "https://blog.naver.com/afterworkstadium/224447607521",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/1kIvrgSZlOw",
+  "title": "청백전 직관 방법 삼성 라이온즈, 구자욱 복귀 안타 본 날",
+  "published_at": "2026-10-20T13:20:00.000+09:00",
+  "collected_at": "2026-10-20T07:38:44.782Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

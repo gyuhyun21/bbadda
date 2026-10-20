@@ -1,0 +1,23 @@
+{
+  "id": "community-b19e0f19",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 머니노믹스의 돈과 경제이야기",
+  "url": "https://blog.naver.com/moneynomics/224447857700",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/KcPELIgzImT",
+  "title": "구본혁 연봉 2억 3천만 원, LG “홈런은 0개인데 왜 2억 넘게 받을까?”",
+  "published_at": "2026-10-20T16:07:00.000+09:00",
+  "collected_at": "2026-10-20T07:38:44.782Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

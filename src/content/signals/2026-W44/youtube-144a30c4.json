@@ -1,0 +1,27 @@
+{
+  "id": "youtube-144a30c4",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "SSG 랜더소식",
+  "url": "https://www.youtube.com/watch?v=slpHgsl4-Nk",
+  "title": "박성한 vs 김주원 유격수 골든글러브 스탯 비교  #ssg랜더스 #박성한 #nc다이노스 #김주원 #골든글러브 #유격수",
+  "published_at": "2026-10-20T06:09:10Z",
+  "collected_at": "2026-10-20T07:38:44.782Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 318,
+    "likes": 3,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 40,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

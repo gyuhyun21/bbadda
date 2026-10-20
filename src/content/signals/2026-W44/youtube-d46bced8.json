@@ -1,0 +1,26 @@
+{
+  "id": "youtube-d46bced8",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "youtube",
+  "source_name": "야구는 왜그럴까",
+  "url": "https://www.youtube.com/watch?v=qiHy9hAUG8c",
+  "title": "NC를 울렸던 양의지가, NC를 우승시킨 과정.",
+  "published_at": "2026-10-20T07:00:14Z",
+  "collected_at": "2026-10-20T07:38:44.782Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 282,
+    "likes": 2,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 37,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

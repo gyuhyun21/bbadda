@@ -1,0 +1,24 @@
+{
+  "id": "community-8c9bcfb2",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "lg"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 TrendPick",
+  "url": "https://trendpickkorea.tistory.com/1398",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/vAm04T8BO7",
+  "title": "KIA·LG 준플레이오프 3차전 오늘 오후 6시 30분…KIA는 진출까지 1승",
+  "published_at": "2026-10-20T13:36:39.000+09:00",
+  "collected_at": "2026-10-20T07:38:44.782Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

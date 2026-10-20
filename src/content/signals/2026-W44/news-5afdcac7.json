@@ -1,0 +1,22 @@
+{
+  "id": "news-5afdcac7",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "news",
+  "source_name": "싱글리스트",
+  "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE94UzhEWG1LMVhzOTA0eG96M3M0RnFNR3VacEVDODVkZml3cm5Ib01IaXBESXZYWThvZ2F5S05CaGZfTGVCbkNjVDhQaXVIcy1mLUNNZk5GUFlxdW4wTFdQeElGeTY3QQ?oc=5",
+  "title": "'KBO 통산 안타 3위' 손아섭, 두산서 방출…새 둥지 찾나",
+  "published_at": "2026-10-19T23:55:36.000Z",
+  "collected_at": "2026-10-20T07:38:44.782Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 80
+  },
+  "sentiment": "negative"
+}

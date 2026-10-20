@@ -1,0 +1,22 @@
+{
+  "id": "news-b5526ef2",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "news",
+  "source_name": "중부매일",
+  "url": "https://www.jbnews.com/news/articleViewAmp.html?idxno=1513937",
+  "title": "한화 류지현 감독, 첫 훈련서 ‘수비 기본기’ 강조",
+  "published_at": "2026-10-20T05:00:26.000Z",
+  "collected_at": "2026-10-20T07:38:44.782Z",
+  "summary_ko": "중부매일에 따르면 한화 류지현 감독이 첫 훈련에서 수비 기본기를 강조했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

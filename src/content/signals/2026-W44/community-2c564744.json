@@ -1,0 +1,24 @@
+{
+  "id": "community-2c564744",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 더 해피라이프",
+  "url": "https://blog.naver.com/kwonhc11/224447276614",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/4txkx3R2by2",
+  "title": "손아섭 3000안타 도전 그리고 방출, 2655에서 멈춰 질 듯, 서건창 아니니까?",
+  "published_at": "2026-10-20T06:10:00.000+09:00",
+  "collected_at": "2026-10-20T07:38:44.782Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

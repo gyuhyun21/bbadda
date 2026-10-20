@@ -1,0 +1,24 @@
+{
+  "id": "community-8a94770a",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "레딧 r/KBO",
+  "url": "https://www.reddit.com/r/KBO/comments/1x1caom/2026_kbo_league_october_910/",
+  "title": "2026 KBO League: October 9-10",
+  "published_at": "2026-10-08T00:00:00.000Z",
+  "collected_at": "2026-10-20T07:38:44.782Z",
+  "summary_ko": "",
+  "excerpt": "... 2026 신한 SOL KBO League Schedule Date | Venue | Away | Home |…",
+  "metrics": {},
+  "scores": {
+    "hot": 8,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "news-4594963a",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "news",
+  "source_name": "뉴시스",
+  "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261020_0003833350",
+  "title": "KT 정규리그 우승 이끈 힐리어드, 9~10월 KBO리그 월간 MVP 선정",
+  "published_at": "2026-10-20T05:27:35.000Z",
+  "collected_at": "2026-10-20T07:38:44.782Z",
+  "summary_ko": "뉴시스에 따르면 KT 힐리어드가 9~10월 KBO리그 월간 MVP로 선정됐다.",
+  "metrics": {},
+  "scores": {
+    "hot": 99,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "서울신문",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5RakZBM1hWRTZWbmdyb3RuWGhXS0x6dzUtQ1NyREM4bHRpNGZFekk0Sl9ZTWxITWZfZ3BEd0hOT2hYY3JRV0lwNVF1c21QdGxCZmo2WE1IYw?oc=5"
+    },
+    {
+      "source_name": "기호일보",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4wZzdUYU5tYjRXclRfZlYxUWJXWlNaMW5wVmlXS1JBZTdJOWtRc2NnRzlFQ09GY0ZrckNXM2hMRUh1NzZFa2JWd3dQQnMwR0xDaEdFSXgxZnQ0ZDJSTTBmQkU5WDNBZ1ZVUzNIUFFYSQ?oc=5"
+    }
+  ]
+}

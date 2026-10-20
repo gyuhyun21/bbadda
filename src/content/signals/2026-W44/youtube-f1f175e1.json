@@ -1,0 +1,26 @@
+{
+  "id": "youtube-f1f175e1",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "youtube",
+  "source_name": "하2남 스타디움 Shaving Editor Stadium",
+  "url": "https://www.youtube.com/watch?v=HH2f8UMW02U",
+  "title": "이 영상이 빵 터질 것 같다면 하트를 눌러 주세요 SSG 랜더스 김도아 아웃송 EPIIK - REWIND",
+  "published_at": "2026-10-20T03:45:09Z",
+  "collected_at": "2026-10-20T07:38:44.782Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 945,
+    "likes": 13,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 49,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

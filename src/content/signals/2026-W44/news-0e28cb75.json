@@ -1,0 +1,22 @@
+{
+  "id": "news-0e28cb75",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "news",
+  "source_name": "아주경제",
+  "url": "https://www.ajunews.com/amp/20261020082728252",
+  "title": "프로야구 두산, 16년 만에 단장 교체…정재훈 운영팀장 선임",
+  "published_at": "2026-10-19T23:28:35.000Z",
+  "collected_at": "2026-10-20T07:38:44.782Z",
+  "summary_ko": "아주경제에 따르면 두산이 16년 만에 단장을 바꿔 정재훈 운영팀장을 새 단장으로 선임했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

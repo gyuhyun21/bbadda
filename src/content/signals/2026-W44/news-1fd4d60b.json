@@ -1,0 +1,24 @@
+{
+  "id": "news-1fd4d60b",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "hanwha",
+  "teams": [
+    "hanwha",
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5XbHg0bXc3QVZXTDd1QkdLQVhiclhYN1c1eDZZWWhPWE4zMjdLR2VBVXg1TGRjRjYtMmdPbThRSkVYeW16d19KUmtzeXlKb3d1RHFheXBZRUVvRXV3UEl6d2ZNR1YzUkExaDQ5dTF0NNIBb0FVX3lxTE5XbHg0bXc3QVZXTDd1QkdLQVhiclhYN1c1eDZZWWhPWE4zMjdLR2VBVXg1TGRjRjYtMmdPbThRSkVYeW16d19KUmtzeXlKb3d1RHFheXBZRUVvRXV3UEl6d2ZNR1YzUkExaDQ5dTF0NA?oc=5",
+  "title": "'3000안타까지 345개' 한때 KBO 최다안타 주인공, 연봉보다 이젠 '타석 수'가 문제다... 10개 구단 외야 보니",
+  "published_at": "2026-10-19T21:11:00.000Z",
+  "collected_at": "2026-10-20T07:38:44.782Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 80,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

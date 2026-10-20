@@ -1,0 +1,23 @@
+{
+  "id": "news-e1a8ec0a",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "SPOTV NEWS",
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA4ZVIwaERjSTBQTkt2dDdpWGY0NXg2Q2JDb3c4Vnl5NkMyS0JUdzNubjZDMG9aY3hNVFktTXFkZE5TSkM2dmJrbFdzMEQ4b3VpYjhobGx5Sy1Tb0NFMDJKaGp0LVctSnRDaU5OSGc3MVo?oc=5",
+  "title": "'33세에 방출 시련' 15승 45홀드 베테랑 새출발 예고…\"다른 팀에서도 웃으며 반겨 주시길\"",
+  "published_at": "2026-10-19T17:02:00.000Z",
+  "collected_at": "2026-10-20T07:38:44.782Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

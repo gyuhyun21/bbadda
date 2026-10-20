@@ -1,0 +1,34 @@
+{
+  "id": "news-4686ce11",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "announcement": true,
+  "source_name": "OSEN",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5TYUxzOER3RmxjNW04RmlCYVZCcUlBcURGdlVJVGpvN3gtcjd2QmpZXzhaWDZBc2ExamtyZUVMYlpCQUF5ak1UQzQ0SndRdG1yY1g4WA?oc=5",
+  "title": "수장 떠난 대표팀, APBC는 최원호 감독 체제로 치른다...\"대표팀 운영, 국제대회 환경 이해도 높다\" [공식발표]",
+  "published_at": "2026-10-19T07:39:00.000Z",
+  "collected_at": "2026-10-20T07:38:44.782Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1RRTE3Tk1ZazlSTzZfVDlEc2FOLWY1cGpFZkszd2FuelFDMGlBaFJvWUJtUXVpNGgzTC03UEg3MWIzZXprZUMtTUJMcXJSUmEzYVNpa0d4WmFYYlhkVjN1SlVobHVIOEppektJelJvTkJBcjMtX2tybdIBeEFVX3lxTE1RRTE3Tk1ZazlSTzZfVDlEc2FOLWY1cGpFZkszd2FuelFDMGlBaFJvWUJtUXVpNGgzTC03UEg3MWIzZXprZUMtTUJMcXJSUmEzYVNpa0d4WmFYYlhkVjN1SlVobHVIOEppektJelJvTkJBcjMtX2tybQ?oc=5"
+    },
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNR0xDbGJjRzlRRVZSdExvT1pzWGRoV3RmcWVVcXFpaW4xVWpqRWd2TElmRzk2OS1HcGpPQ2hWZGpuckR4UGM2djhCOEpXeVY1cVhkWTgtRWR3bERJTFUzOFNNX2JSZkJwY2pYZGhPbWNVQW9oUUFSaWdBcXFCU3VLUVJLZw?oc=5"
+    }
+  ]
+}

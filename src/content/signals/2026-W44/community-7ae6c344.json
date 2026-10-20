@@ -1,0 +1,24 @@
+{
+  "id": "community-7ae6c344",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&document_srl=10464286433",
+  "title": "잉토 아직 한번도 안해봤는데 - 야구",
+  "published_at": "2026-10-19T15:38:44.782Z",
+  "collected_at": "2026-10-20T07:38:44.782Z",
+  "summary_ko": "",
+  "excerpt": "... 망곰두산베어스 얍얍. 1. [레벨:23] 망곰두산베어스 5 분 전. 오재일 와 좀있으면 망곰인데 이때까지 안했다니…",
+  "metrics": {},
+  "scores": {
+    "hot": 62,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

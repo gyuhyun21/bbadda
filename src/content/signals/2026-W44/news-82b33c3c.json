@@ -1,0 +1,23 @@
+{
+  "id": "news-82b33c3c",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "FT스포츠",
+  "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBlOUx2OVhPblYtYTRYNlNuUzVhMG0yZ1htNTBodjdKcWVKRVpSeVdjMWFRSHozZmlfQnNKanFoSGx1Mi1EdXZWWnVJYjVudlBybWlJQzctZVhWRHRoeHhKTUZvcjlxZw?oc=5",
+  "title": "류지현 후임은 최원호…젊어진 야구 대표팀, 대전서 첫 뼛속 다지기",
+  "published_at": "2026-10-20T00:16:36.000Z",
+  "collected_at": "2026-10-20T07:38:44.782Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

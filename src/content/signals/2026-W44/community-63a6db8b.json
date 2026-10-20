@@ -1,0 +1,23 @@
+{
+  "id": "community-63a6db8b",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 엔터캐스터",
+  "url": "https://blog.naver.com/mobilifeplus/224447538910",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/IsAjdppIH3k",
+  "title": "'언팔'에 결별설까지…원태인 삼성 FA, 10억 연봉이 만든 또 다른 변수",
+  "published_at": "2026-10-20T13:05:00.000+09:00",
+  "collected_at": "2026-10-20T07:38:44.782Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

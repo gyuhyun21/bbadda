@@ -1,0 +1,23 @@
+{
+  "id": "news-9cea085e",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1yZVViZzlpTUVHUXhSeXh1b2JRU0ZhWXB0al9Zc1BEM1NUNGdCYlpoTklBN3N2TWRfa3M3TTdHakpFcWQxUHBFV2x6LTkyYWFJYUQ2WFpRVngwUGQ5VVphVjhNNHo3N1IzVDhNN0FpY9IBb0FVX3lxTE1yZVViZzlpTUVHUXhSeXh1b2JRU0ZhWXB0al9Zc1BEM1NUNGdCYlpoTklBN3N2TWRfa3M3TTdHakpFcWQxUHBFV2x6LTkyYWFJYUQ2WFpRVngwUGQ5VVphVjhNNHo3N1IzVDhNN0FpYw?oc=5",
+  "title": "'퍼펙트 5아웃' PS 데뷔 2연속 홀드 강심장, 무적 마무리 닮고 싶은 10R 기적남 \"가을야구까지 하다니 꿈 같은 시즌\"",
+  "published_at": "2026-10-19T07:40:00.000Z",
+  "collected_at": "2026-10-20T07:38:44.782Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

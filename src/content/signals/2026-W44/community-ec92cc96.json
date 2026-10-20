@@ -1,0 +1,24 @@
+{
+  "id": "community-ec92cc96",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&page=7&document_srl=10465586316",
+  "title": "최승용 왜 상무 안썼냐고? - 야구",
+  "published_at": "2026-10-20T05:38:44.782Z",
+  "collected_at": "2026-10-20T07:38:44.782Z",
+  "summary_ko": "",
+  "excerpt": "... SSG 랜더스 프런트는 외국인 투수 1명 누구 데려올까나? 구원 못사더라도 비싸게 지르는게 합리적 무브죠.…",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

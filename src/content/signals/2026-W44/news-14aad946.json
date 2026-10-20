@@ -1,0 +1,23 @@
+{
+  "id": "news-14aad946",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "아시아투데이",
+  "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9NaHA1aGY3a0NzQ1JmMGpIaG1WUkxOa3RZcldPMjYwUkNVQlhyNzZ1WWdYOWxTQkpiVkQwTEE4S0YwaFFlUVdyaWxXMnVFSHZGM2REb0VhbERZeHp4OWxiUzFFSXAtXy1ndEV5Znln?oc=5",
+  "title": "KIA 스윕이냐, LG 반격이냐...김도영·오스틴 방망이에 달렸다",
+  "published_at": "2026-10-19T08:21:40.000Z",
+  "collected_at": "2026-10-20T07:38:44.782Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

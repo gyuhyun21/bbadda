@@ -1,0 +1,23 @@
+{
+  "id": "community-4387d1d2",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 스포츠 이슈룸: 한눈에 보는 경기와 뉴스",
+  "url": "https://blog.naver.com/whalegreeks/224447674382",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/9z17hAAf8D8",
+  "title": "\"진 방출?\" 두산서 짐 싼 손아섭, 뜻밖에 흘러나오는 '친정팀 복귀설'",
+  "published_at": "2026-10-20T13:38:00.000+09:00",
+  "collected_at": "2026-10-20T07:38:44.782Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "mixed"
+}

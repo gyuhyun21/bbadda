@@ -1,0 +1,29 @@
+{
+  "id": "news-f8de1163",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "news",
+  "announcement": true,
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1lNHo2V2xrR3ltS0tKSDdmODVIdjltQm5STl9WMFhtbTdISGpZUVR2NzRxdVd6S0NRanlTZDdPNmd4ZXJRVWdCTDZQZHBlOEFjNzk5aUc5aHZ3OHVWUmQ5SVZMWlF5Z0ZLNkgtTWJsUdIBb0FVX3lxTE1lNHo2V2xrR3ltS0tKSDdmODVIdjltQm5STl9WMFhtbTdISGpZUVR2NzRxdVd6S0NRanlTZDdPNmd4ZXJRVWdCTDZQZHBlOEFjNzk5aUc5aHZ3OHVWUmQ5SVZMWlF5Z0ZLNkgtTWJsUQ?oc=5",
+  "title": "[공식발표] 한화 떠난 류지현 빈자리, '전 한화 감독' 최원호가 채웠다! 11월 APBC 이끌 韓 대표팀 사령탑 부임",
+  "published_at": "2026-10-19T08:01:00.000Z",
+  "collected_at": "2026-10-20T07:38:44.782Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE01ZlFpaG5nMFJHQTZ6WWM3VHhoZi1naDNLLVVOazVzWk5xUnNGVHVaa0wzYURLUWhPVk5Bd2tQOGd4QzFoOVZWaDhWb3B2RVhrY05RWmpRN2RfNjE4N1o5UXk2bDVDMEtjalo0VTBseUgzRW90aVE?oc=5"
+    }
+  ]
+}

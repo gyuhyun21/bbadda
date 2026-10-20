@@ -1,0 +1,28 @@
+{
+  "id": "news-9b166997",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "매일경제",
+  "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5XVDk1bFdMSGRkdnhpejVyN1dmcG56YTc2aUVrU0hDYnV0ZDdJNWdRc3FtWlhjNmV0VFZUNjZxNG5PQjg1R05YejVuMUdkcThmRTV3?oc=5",
+  "title": "진짜 벼랑 끝이다…‘ML 112승’ 카라스코, 위기에 몰린 LG 구할까 [준PO3]",
+  "published_at": "2026-10-19T22:40:00.000Z",
+  "collected_at": "2026-10-20T07:38:44.782Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 97,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "m.mksports.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1pTUxOSGd5X3lzWDVBUVR2bXdxbVFIbUZVOThaTEZZdWd0dEEtS3U4cUlzRWJFSjQ0YVdUY3BzZjFHZGFiRTdzWnpoWldXMGFaajJuTXpFUURSYW9LUlZ5VGZUSFg?oc=5"
+    }
+  ]
+}

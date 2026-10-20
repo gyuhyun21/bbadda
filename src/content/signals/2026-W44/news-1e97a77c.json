@@ -1,0 +1,22 @@
+{
+  "id": "news-1e97a77c",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://www.mt.co.kr/amp/sports/2026/10/20/202610200911778034O",
+  "title": "‘충격’ 두산 보물로 불렸는데, 10년 만에 방출 통보 왜? 현역 연장 의지 굳건하다 ”야구선수 김명신은 조금 더 이어갈 생각“",
+  "published_at": "2026-10-20T01:11:00.000Z",
+  "collected_at": "2026-10-20T07:38:44.782Z",
+  "summary_ko": "머니투데이는 두산에서 방출 통보를 받은 김명신이 현역을 더 이어갈 뜻을 밝혔다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

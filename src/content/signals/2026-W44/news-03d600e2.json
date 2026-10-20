@@ -1,0 +1,29 @@
+{
+  "id": "news-03d600e2",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBUa096M0pSaXZQNElRMHNZcjM1cHdCRWFjSkszaWl1YlBDSWZsd1UtamFqUldXeXhxUlc3N0oyVk12YThSdUI2OC1jNFBNNTVpQUhSZXYyOTNlT0EzNFYybzhZQnl2MFlzTFBGMkt1X0I3TTlpaHFHaUlKODNJdw?oc=5",
+  "title": "감독님, FA 하셨어요? 11년 87억 계약이네...사령탑도 '야구 재벌' 될 수 있다",
+  "published_at": "2026-10-19T15:07:07.000Z",
+  "collected_at": "2026-10-20T07:38:44.782Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 78,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWDBScGkzSkpJd0c2d1gxb1NyYTJkNmlqYjVCb2tSeXBYZ2hOYjhsR3d5a2Z3dkJpS2NKcjhmeEdHMUJDUk9ycm9QUTRFZEpMR1E1VFZtWjI2Mmd1bUZ1SHFwdWpGS0N3dWdWMFFDVDV4a2lQa2EtN1lyMFdibWVlMUE4TQ?oc=5"
+    }
+  ]
+}

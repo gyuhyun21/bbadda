@@ -1,0 +1,24 @@
+{
+  "id": "news-43c6ab5d",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "lg",
+  "teams": [
+    "lg",
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠동아",
+  "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1Ca1lXQ21RNWNzQll1dzJnU3FXTS1mSmpLdUFBb2VrTlhYVFVUYmRLaEFrOHJ1RG9ua3FMRVRDX2FpVWRCV3YybjZhbmI1YUc4MG00bkM0MXpGT3VRdjBjbGhBSGlMQnlaUURuOFFVTUhfZw?oc=5",
+  "title": "“홈런 잘 치는 타격 자세 미리 만들었다”…경계해도 김도영은 김도영",
+  "published_at": "2026-10-20T03:51:05.000Z",
+  "collected_at": "2026-10-20T07:38:44.782Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

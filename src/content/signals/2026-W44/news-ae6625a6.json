@@ -1,0 +1,23 @@
+{
+  "id": "news-ae6625a6",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "https://www.asportstv.kr/",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Db2tVZFhCQUV5NHhBVGlHd0Z2ZmplaF9kZURhZVF3bXNrdHFvSU9kQlNweC1fU2YtSFRlNUJpbGdfRjVRUzFYa0NEQjVUVGhWa0pzaDRiVUFJclFwRFduZWJVTlZhR1V3?oc=5",
+  "title": "'AG 금메달 조련사' 최원호 코치, 야구 국가 대표팀 감독으로 승격",
+  "published_at": "2026-10-20T01:15:40.000Z",
+  "collected_at": "2026-10-20T07:38:44.782Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

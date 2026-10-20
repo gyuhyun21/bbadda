@@ -1,0 +1,24 @@
+{
+  "id": "news-8cc758e8",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "lg",
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "조선일보",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbVA3S3FRcjUzU1czaHhoNHN5dlZHeU80MVRaUnFFQlFhUDhEemYxaTlhT1VwcUpmVTdsUkEwRm1NbktoVUo1c1VmS0dIR1d3bjlkNzFNS3JwZEJuMFMwanpEeTljYVdsVTc3bDQwaFNUOHVLT3ZmcUw0dC1WSElQclFLbw?oc=5",
+  "title": "KIA 불펜 강한데? → LG는 밀봉. 삼성도 자신있나",
+  "published_at": "2026-10-19T16:13:00.000Z",
+  "collected_at": "2026-10-20T07:38:44.782Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 70,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

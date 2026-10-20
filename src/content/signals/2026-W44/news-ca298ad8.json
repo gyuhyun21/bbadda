@@ -1,0 +1,22 @@
+{
+  "id": "news-ca298ad8",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "SPOTV NEWS",
+  "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1014029",
+  "title": "그렇게 힘들다는 포수 육성이라는데…롯데가 해냈다, 그래서 손성빈은 \"누가와도 안 뺏긴다\" 다짐했다",
+  "published_at": "2026-10-20T01:40:00.000Z",
+  "collected_at": "2026-10-20T07:38:44.782Z",
+  "summary_ko": "SPOTV NEWS에 따르면 롯데 포수 손성빈이 포수 육성의 성과를 이야기하며 주전 자리를 지키겠다고 다짐했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

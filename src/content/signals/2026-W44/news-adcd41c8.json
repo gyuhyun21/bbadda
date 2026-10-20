@@ -1,0 +1,37 @@
+{
+  "id": "news-adcd41c8",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "연합뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9WV19sN0VUMlFlTXdfUXN3bW91SVN3U1ktbndFVmtQMVFaeVVQd3JzTlZKakZfejRkUzhPYi1vWVMwY0VBYktyejYtWFRsdlpESE9WSFRqUmV2NTBkT3M2YdIBYEFVX3lxTE9WV19sN0VUMlFlTXdfUXN3bW91SVN3U1ktbndFVmtQMVFaeVVQd3JzTlZKakZfejRkUzhPYi1vWVMwY0VBYktyejYtWFRsdlpESE9WSFRqUmV2NTBkT3M2YQ?oc=5",
+  "title": "NCT 지성, 준PO 3차전 시구…잠실구장 마지막 시구자 되나",
+  "published_at": "2026-10-20T01:25:04.000Z",
+  "collected_at": "2026-10-20T07:38:44.782Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 98,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "BNT뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8zTVhHRFhBdE5QYW9VRU5SWlU4T001NTkxRk4xbmRkUTlvV1dtRnJrbVhNLW1wcWpQNENHNzQzMm8za2F0ZXpxUXVFb1p4Y3BwMHZ3UnVQQnB5RF9Hdmthck9nMHQ?oc=5"
+    },
+    {
+      "source_name": "Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQempTMlNOd2Foc2ZSZmxoVl9QYVFZS2RwX3dQdTVodnFsWGtiaXVxaVRWeUpQZUtTOHpQd2JrTDB3Wk5RbTdiVV9LMlRjV1JQZEZhWExWWVdnTnZvSnd5c09OZGhkdFMtY1JuZVVJRFIzMUZQUUpWTi1vY3MxZGtvUndNQWNpWk9JNzI0aHc3ME1GM2PSAacBQVVfeXFMTkhWaS1JSUJkWlB0YkJpQS1WSU9iVHFxMmo1bjJpVWI2bzlLZXIwTWRXdEI2czhVeWZQbW1yWE9FQ2hGT2Y5b2hTMG5JWnloLUlSZVNwbXBaMjZodHZNYS01U0RCekpGSkZVbEp5UFc4NVp0UUdIekdnTU1DQlBUZVhNOHVteF9BbGV5QXhxSWxRY0pGYU5FRDFnWXd2NEFwZ0pPWGRVTVU?oc=5"
+    },
+    {
+      "source_name": "진일보 | 전남일보",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1GT0tRM2E1SVQ2NFB1bFJnaEJFT2hBRTZSaF9DSEh2MUljR2JyUjEyMWsyNkMwa1NMZDdxQmtWOFpVT1NUS0JFVVlnMmg5NEEtZ09Ob0hDWXp5el9sczdrVnV3MXVzUmJpeXIzaVlEZw?oc=5"
+    }
+  ]
+}

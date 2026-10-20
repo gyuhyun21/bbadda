@@ -1,0 +1,27 @@
+{
+  "id": "youtube-a1e6cea1",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "SSG랜더스",
+  "url": "https://www.youtube.com/watch?v=BkDP02QIFTk",
+  "title": "언제나 빛나는 우리의 주인공, 으쓱이❤️",
+  "published_at": "2026-10-20T07:00:38Z",
+  "collected_at": "2026-10-20T07:38:44.782Z",
+  "summary_ko": "SSG 공식 채널이 마스코트 으쓱이를 소개하는 영상을 올렸다.",
+  "metrics": {
+    "views": 2523,
+    "likes": 386,
+    "comments": 22
+  },
+  "scores": {
+    "hot": 84,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

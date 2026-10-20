@@ -1,0 +1,23 @@
+{
+  "id": "news-55ef3cbf",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "lg",
+  "teams": [
+    "lg",
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스핌",
+  "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE04NFpBWEE2RFctczJROWVET3c3SVFlZUhDYUFlX2hCODRDcE1lNU0wTjVoWmduU2loSFVSa0c3bFVEajZ2aHRfQkFlMGZFZnRpQm90eTJKXzB3RG56?oc=5",
+  "title": "[AI프리뷰] 20일 잠실 LG-KIA 준PO 3차전, '벼랑 끝' LG와 스윕 노리는 KIA",
+  "published_at": "2026-10-20T05:39:00.000Z",
+  "collected_at": "2026-10-20T07:38:44.782Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "community-ae951c14",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 멍냥이의 소식",
+  "url": "https://blog.naver.com/specialmel/224447440682",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/I84yfuZz2lv",
+  "title": "KIA 전상현, 1.1이닝 무실점 막고도…\"내가 더 관리를 잘해야\"",
+  "published_at": "2026-10-20T15:40:00.000+09:00",
+  "collected_at": "2026-10-20T07:38:44.782Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

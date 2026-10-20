@@ -1,0 +1,24 @@
+{
+  "id": "community-12ec582d",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte",
+    "nc"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 크모스의 스포츠 ⚾️. BLAHBLAH",
+  "url": "https://blog.naver.com/sportshub_/224447620898",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/BgChDydsClG",
+  "title": "“마지막은 창원에서 어때요?” 롯데 노진혁, 계약 끝나면 NC가 다시 품을까",
+  "published_at": "2026-10-20T12:45:00.000+09:00",
+  "collected_at": "2026-10-20T07:38:44.782Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

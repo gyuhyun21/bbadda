@@ -1,0 +1,24 @@
+{
+  "id": "news-b5e43f42",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "hanwha",
+  "teams": [
+    "hanwha",
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "SPOTV NEWS",
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE92ZkNRVlFvSVF3SjIwb0w4c0FwVDJPdVVrQTBlQ1hfQUFGdUl5eTlkeDJiOVNHOGl6eUR6WmEyWnJmOGZoLWdsZWJjaEhnS2dwcGdsRUFpaEpLc2ljcy1LS01CTDlnU3NoODFyQzI0anE?oc=5",
+  "title": "손아섭이 도대체 어쩌다가, 충격의 방출→커리어 마침표 위기…1년 1억 계약도 쉽지 않았는데, 원하는 팀 나타날까",
+  "published_at": "2026-10-19T15:06:00.000Z",
+  "collected_at": "2026-10-20T07:38:44.782Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 70,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

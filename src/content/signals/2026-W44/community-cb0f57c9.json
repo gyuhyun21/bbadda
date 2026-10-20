@@ -1,0 +1,24 @@
+{
+  "id": "community-cb0f57c9",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&document_srl=10464843018",
+  "title": "방금 스윙 같은데 ㅋㅋ - 야구",
+  "published_at": "2026-10-20T00:38:44.782Z",
+  "collected_at": "2026-10-20T07:38:44.782Z",
+  "summary_ko": "",
+  "excerpt": "... 점수가 안나겠군이라고 하자 점수가 났다. 1 분 전 자유 최강기아타이거즈 조회18 ... 2 분…",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

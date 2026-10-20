@@ -1,0 +1,26 @@
+{
+  "id": "youtube-6241c8a8",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "youtube",
+  "source_name": "픽앤숏",
+  "url": "https://www.youtube.com/watch?v=USe9rDHqJFc",
+  "title": "내년 KS우승이 보이는 키움 #kbo #야구",
+  "published_at": "2026-10-20T07:00:27Z",
+  "collected_at": "2026-10-20T07:38:44.782Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 3592,
+    "likes": 104,
+    "comments": 51
+  },
+  "scores": {
+    "hot": 80,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}
