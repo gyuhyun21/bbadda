@@ -1,17 +1,27 @@
 ---
-// 빌드 시 만드는 타이포 커버. 뉴스 사진은 쓰지 않는다.
-import { fmtDate, wrapTitle, displayTitle, MODULE_LABEL, teamShort, teamColor } from '../lib/site.ts';
+// 빌드 시 만드는 커버. 뉴스 사진은 쓰지 않는다. news_cover=mascot 이면 팀 컬러 + 애칭 캐릭터(제목은 카드 아래에만), 캐릭터가 없으면 제목 글자 커버
+import { fmtDate, wrapTitle, displayTitle, MODULE_LABEL, teamShort, teamColor, teamLogo } from '../lib/site.ts';
+import { newsCover } from '../lib/config.ts';
 import type { Signal } from '../lib/schemas.ts';
 interface Props { signal: Signal; big?: boolean }
 const { signal, big = false } = Astro.props;
+const mascot = newsCover() === 'mascot' ? teamLogo(signal.team) : undefined;
 const lines = wrapTitle(displayTitle(signal), big ? 18 : 22, big ? 5 : 4);
 const size = big ? 30 : 25;
 ---
-<svg class={`cover cover--${signal.module}`} viewBox="0 0 400 300" role="img" aria-label={`${MODULE_LABEL[signal.module]} 커버: ${displayTitle(signal)}`} preserveAspectRatio="xMidYMid slice">
-  <rect width="400" height="300" class="cover-bg" />
-  <rect x="0" y="0" width="400" height="8" fill={teamColor(signal.team)} />
-  <text x="24" y="44" class="cover-label">{MODULE_LABEL[signal.module]}</text>
-  <text x="376" y="44" class="cover-label" text-anchor="end">{teamShort(signal.team)}</text>
-  {lines.map((l, i) => <text x="24" y={96 + i * (size + 8)} class="cover-title" font-size={size}>{l}</text>)}
-  <text x="24" y="280" class="cover-issue">{fmtDate(signal.published_at)}{signal.sample ? ' · SAMPLE' : ''}</text>
-</svg>
+{mascot ? (
+  <svg class="cover cover--mascot" viewBox="0 0 400 300" role="img" aria-label={`${teamShort(signal.team)} ${MODULE_LABEL[signal.module]} · ${signal.source_name}`} preserveAspectRatio="xMidYMid slice">
+    <rect width="400" height="300" fill={teamColor(signal.team)} />
+    <circle cx="200" cy="150" r="104" fill="#fff" opacity=".16" />
+    <image href={mascot} x="120" y="70" width="160" height="160" />
+  </svg>
+) : (
+  <svg class={`cover cover--${signal.module}`} viewBox="0 0 400 300" role="img" aria-label={`${MODULE_LABEL[signal.module]} 커버: ${displayTitle(signal)}`} preserveAspectRatio="xMidYMid slice">
+    <rect width="400" height="300" class="cover-bg" />
+    <rect x="0" y="0" width="400" height="8" fill={teamColor(signal.team)} />
+    <text x="24" y="44" class="cover-label">{MODULE_LABEL[signal.module]}</text>
+    <text x="376" y="44" class="cover-label" text-anchor="end">{teamShort(signal.team)}</text>
+    {lines.map((l, i) => <text x="24" y={96 + i * (size + 8)} class="cover-title" font-size={size}>{l}</text>)}
+    <text x="24" y="280" class="cover-issue">{fmtDate(signal.published_at)}{signal.sample ? ' · SAMPLE' : ''}</text>
+  </svg>
+)}
