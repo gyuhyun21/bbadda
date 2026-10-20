@@ -17,8 +17,8 @@ const ogImage = new URL(image, Astro.site).href;
 // 방문 측정: Vercel Web Analytics(쿠키 없음, @vercel/analytics 의 Astro 컴포넌트 — Routes 탭에 /teams/[id] 처럼 묶여 보인다). Vercel 빌드에서만 넣는다 — 되돌리기: 환경변수 SITE_ANALYTICS=false
 const analytics = !!process.env.VERCEL && process.env.SITE_ANALYTICS !== 'false';
 const full = title ? `${title} · ${SITE_NAME}` : `${SITE_NAME} 빠따닷컴`;
-// [주소, 이름, 휴대폰용 짧은 이름]. 휴대폰 머리말은 알약 2개만 들어간다(응원가 · 게임). 휴대폰 '게임'은 /games/ 고르기 화면, PC는 두 게임 알약을 따로
-const nav = [['/cheer', '선수응원가 연습', '응원가'], ['/games/', '게임', '게임'], ['/game/', '매니저 게임', ''], ['/game/arcade/', '아케이드 야구', ''], ['/about', '소개', '']];
+// [주소, 이름, 휴대폰용 짧은 이름]. 휴대폰 머리말은 알약 버튼 2개만 들어간다(응원가·게임)
+const nav = [['/cheer', '선수응원가 연습', '응원가'], ['/game/', '아케이드 야구', '게임'], ['/about', '소개', '']];
 const path = Astro.url.pathname.replace(/\/$/, '') || '/';
 const layout = siteLayout();
 const modal = articleModal(); // config/site.yaml article_modal (환경변수 SITE_MODAL 우선) // config/site.yaml layout (환경변수 SITE_LAYOUT 우선)
@@ -89,7 +89,7 @@ const myTeamCss = TEAMS.map((t) => `html[data-my-team="${t.id}"] [data-myteam-bl
           </div>
         </div>
         <nav class="nav" aria-label="주 메뉴">
-          {nav.map(([href, label, short]) => <a href={href} class={href === '/cheer' ? 'nav-cheer' : href === '/games/' ? 'nav-cheer nav-game nav-m' : href === '/game/' ? 'nav-cheer nav-game nav-pc' : href === '/game/arcade/' ? 'nav-cheer nav-arcade nav-pc' : undefined} aria-label={short ? label : undefined} aria-current={path === href.replace(/\/$/, '') || (href !== '/' && href !== '/game/' && path.startsWith(href.replace(/\/$/, ''))) ? 'page' : undefined}>{href === '/cheer' && <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 18V5l12-2v13"/><circle cx="6" cy="18" r="3"/><circle cx="18" cy="16" r="3"/></svg>}{(href === '/game/' || href === '/games/') && <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M7.5 5.5c2 2 2 11 0 13M16.5 5.5c-2 2-2 11 0 13"/></svg>}{href === '/game/arcade/' && <svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="7" width="18" height="11" rx="3"/><path d="M8 10.5v4M6 12.5h4"/><circle cx="15.5" cy="12" r="1"/><circle cx="18" cy="14" r="1"/></svg>}{short ? <><span class="lbl-full">{label}</span><span class="lbl-short">{short}</span></> : label}</a>)}
+          {nav.map(([href, label, short]) => <a href={href} class={href === '/cheer' ? 'nav-cheer' : href === '/game/' ? 'nav-cheer nav-game' : undefined} aria-label={short ? label : undefined} aria-current={path === href.replace(/\/$/, '') || (href !== '/' && path.startsWith(href.replace(/\/$/, ''))) ? 'page' : undefined}>{href === '/cheer' && <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 18V5l12-2v13"/><circle cx="6" cy="18" r="3"/><circle cx="18" cy="16" r="3"/></svg>}{href === '/game/' && <svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="7" width="18" height="11" rx="3"/><path d="M8 10.5v4M6 12.5h4"/><circle cx="15.5" cy="12" r="1"/><circle cx="18" cy="14" r="1"/></svg>}{short ? <><span class="lbl-full">{label}</span><span class="lbl-short">{short}</span></> : label}</a>)}
         </nav>
       </div>
     </header>
