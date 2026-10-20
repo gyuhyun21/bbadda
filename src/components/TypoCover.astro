@@ -1,19 +1,19 @@
 ---
-// 빌드 시 만드는 커버. 뉴스 사진은 쓰지 않는다. news_cover=mascot 이면 팀 컬러 + 애칭 캐릭터(제목은 카드 아래에만), 캐릭터가 없으면 제목 글자 커버
-import { fmtDate, wrapTitle, displayTitle, MODULE_LABEL, teamShort, teamColor, teamLogo } from '../lib/site.ts';
+// 빌드 시 만드는 커버. 뉴스 사진은 쓰지 않는다. news_cover=text 면 팀 컬러 바탕에 구단명·매체명만(제목은 카드 아래에만)
+import { fmtDate, wrapTitle, displayTitle, MODULE_LABEL, teamShort, teamColor, teamName } from '../lib/site.ts';
 import { newsCover } from '../lib/config.ts';
 import type { Signal } from '../lib/schemas.ts';
 interface Props { signal: Signal; big?: boolean }
 const { signal, big = false } = Astro.props;
-const mascot = newsCover() === 'mascot' ? teamLogo(signal.team) : undefined;
+const plain = newsCover() === 'text';
 const lines = wrapTitle(displayTitle(signal), big ? 18 : 22, big ? 5 : 4);
 const size = big ? 30 : 25;
 ---
-{mascot ? (
-  <svg class="cover cover--mascot" viewBox="0 0 400 300" role="img" aria-label={`${teamShort(signal.team)} ${MODULE_LABEL[signal.module]} · ${signal.source_name}`} preserveAspectRatio="xMidYMid slice">
+{plain ? (
+  <svg class="cover cover--text" viewBox="0 0 400 300" role="img" aria-label={`${teamName(signal.team)} · ${signal.source_name}`} preserveAspectRatio="xMidYMid slice">
     <rect width="400" height="300" fill={teamColor(signal.team)} />
-    <circle cx="200" cy="150" r="104" fill="#fff" opacity=".16" />
-    <image href={mascot} x="120" y="70" width="160" height="160" />
+    <text x="200" y="152" text-anchor="middle" fill="#fff" font-size="34" font-weight="800" letter-spacing="-0.02em" style="font-family: var(--font)">{teamName(signal.team)}</text>
+    <text x="200" y="192" text-anchor="middle" fill="#fff" fill-opacity=".78" font-size="18" font-weight="600" style="font-family: var(--font)">{signal.source_name}</text>
   </svg>
 ) : (
   <svg class={`cover cover--${signal.module}`} viewBox="0 0 400 300" role="img" aria-label={`${MODULE_LABEL[signal.module]} 커버: ${displayTitle(signal)}`} preserveAspectRatio="xMidYMid slice">

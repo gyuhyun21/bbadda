@@ -44,7 +44,7 @@ export function loadTeams() {
   return t;
 }
 
-const siteSchema = z.object({ layout: z.enum(['soft', 'apple', 'magazine', 'classic']).default('classic'), community_section: z.boolean().default(false), news_images: z.boolean().default(false), home: z.enum(['front', 'simple']).default('simple'), article_modal: z.boolean().default(false), postseason_bracket: z.boolean().default(false), section_headings: z.boolean().default(false), brand_logo: z.boolean().default(false), team_logos: z.boolean().default(false), modal_blocked_hosts: z.array(z.string()).default([]), blocked_open: z.enum(['window', 'tab', 'same', 'modal']).default('modal'), revisit: z.boolean().default(false), push: z.boolean().default(false), news_cover: z.enum(['mascot', 'typo']).default('typo') });
+const siteSchema = z.object({ layout: z.enum(['soft', 'apple', 'magazine', 'classic']).default('classic'), community_section: z.boolean().default(false), news_images: z.boolean().default(false), home: z.enum(['front', 'simple']).default('simple'), article_modal: z.boolean().default(false), postseason_bracket: z.boolean().default(false), section_headings: z.boolean().default(false), brand_logo: z.boolean().default(false), team_logos: z.boolean().default(false), modal_blocked_hosts: z.array(z.string()).default([]), blocked_open: z.enum(['window', 'tab', 'same', 'modal']).default('modal'), revisit: z.boolean().default(false), push: z.boolean().default(false), news_cover: z.enum(['text', 'typo']).default('typo') });
 /** 화면 레이아웃(config/site.yaml). 환경변수 SITE_LAYOUT 이 우선. 파일이 없으면 classic. */
 export function siteLayout(): 'soft' | 'apple' | 'magazine' | 'classic' {
   const env = process.env.SITE_LAYOUT;
@@ -95,10 +95,10 @@ export function newsImages(): boolean {
   if (env === 'on' || env === 'off') return env === 'on';
   try { return load('site.yaml', siteSchema).news_images; } catch { return false; }
 }
-/** 사진 없는 뉴스 카드 커버: mascot(팀 컬러 + 애칭 캐릭터, 제목 반복 없음) | typo(제목 글자 커버). 환경변수 SITE_NEWS_COVER 가 우선. */
-export function newsCover(): 'mascot' | 'typo' {
+/** 사진 없는 뉴스 카드 커버: text(팀 컬러 바탕 + 구단명·매체명, 제목 반복 없음) | typo(제목 글자 커버). 환경변수 SITE_NEWS_COVER 가 우선. */
+export function newsCover(): 'text' | 'typo' {
   const env = process.env.SITE_NEWS_COVER;
-  if (env === 'mascot' || env === 'typo') return env;
+  if (env === 'text' || env === 'typo') return env;
   try { return load('site.yaml', siteSchema).news_cover; } catch { return 'typo'; }
 }
 /** 재방문 장치(승부예측 적중 기록·지난 방문 이후 새 소식 표시, config/site.yaml revisit). 환경변수 SITE_REVISIT=on|off 가 우선. */
