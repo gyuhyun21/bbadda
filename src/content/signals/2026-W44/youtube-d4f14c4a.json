@@ -1,0 +1,27 @@
+{
+  "id": "youtube-d4f14c4a",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "한화에 묻어다오",
+  "url": "https://www.youtube.com/watch?v=_2xXYXGL6bM",
+  "title": "뭔가 친근하게 느껴지는 가을야구 #하주석 #이태양 #김범수 #이범호 #한화이글스 #기아타이거즈",
+  "published_at": "2026-10-20T21:00:22Z",
+  "collected_at": "2026-10-20T21:37:51.700Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 4032,
+    "likes": 26,
+    "comments": 6
+  },
+  "scores": {
+    "hot": 46,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

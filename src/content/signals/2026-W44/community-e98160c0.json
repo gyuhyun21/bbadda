@@ -1,0 +1,23 @@
+{
+  "id": "community-e98160c0",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 업글생활",
+  "url": "https://blog.naver.com/ss_yk/224448318420",
+  "title": "안녕, 잠실야구장! 마지막 카운트다운",
+  "published_at": "2026-10-21T02:29:00.000+09:00",
+  "collected_at": "2026-10-20T21:37:51.700Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

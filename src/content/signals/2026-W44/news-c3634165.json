@@ -1,0 +1,22 @@
+{
+  "id": "news-c3634165",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "메디컬투데이",
+  "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE92bXh0SGxQSHFnTVE3WFMxZVRVdXBnZTJLSmliclk0dHlLNzUzRERLZk5zUXZkS3NONVlGaWF3UDNPcjNYaEdXMEhXejdJbktSTHBQeVhOd0xlTF9YTExsV1VhRHZyMWdQZTJoMQ?oc=5",
+  "title": "KIA 김도영, 포스트시즌 최연소 만루 홈런…비거리 145m 신기록",
+  "published_at": "2026-10-20T14:03:26.000Z",
+  "collected_at": "2026-10-20T21:37:51.700Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 80
+  },
+  "sentiment": "positive"
+}

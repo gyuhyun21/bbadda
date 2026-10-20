@@ -1,0 +1,23 @@
+{
+  "id": "community-cba89c40",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "community",
+  "source_name": "디시 야구 갤러리",
+  "url": "https://gall.dcinside.com/board/view/?id=hanwhaeagles_new&no=17910474",
+  "title": "한화 이글스",
+  "published_at": "2026-10-14T15:00:00.000Z",
+  "collected_at": "2026-10-20T21:37:51.700Z",
+  "summary_ko": "",
+  "excerpt": "... 스포츠 카테고리로 분류된 한화 이글스 갤러리 입니다. 한화 이글스 갤러리에 다양한 이야기를 남겨주세요.",
+  "metrics": {},
+  "scores": {
+    "hot": 14,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

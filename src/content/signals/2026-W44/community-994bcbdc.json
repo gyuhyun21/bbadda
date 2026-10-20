@@ -1,0 +1,29 @@
+{
+  "id": "community-994bcbdc",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 Total 컨설턴트",
+  "url": "https://blogkoreas.tistory.com/8347",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/LAtuvoGVRLY",
+  "title": "KIA 준PO 3연승으로 플레이오프 진출",
+  "published_at": "2026-10-21T02:50:45.000+09:00",
+  "collected_at": "2026-10-20T21:37:51.700Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "진일보 | 전남일보",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5QUnZGQW1teFd1X3BwYXNURWZvNDFCTDdsWGNVanZkX3JPOVdCa29SRzQwa2RkOVFicHNYazJMTmpBUDNkUDZjVURycktMOUs3UW1RV3ZXRFpYeUFaR0NialJjZGdMelVVbjZUY2tIOA?oc=5"
+    }
+  ]
+}

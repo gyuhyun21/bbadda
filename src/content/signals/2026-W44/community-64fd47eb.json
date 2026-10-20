@@ -1,0 +1,24 @@
+{
+  "id": "community-64fd47eb",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 스포츠에 빠지다",
+  "url": "https://blog.naver.com/kida02_/224448319493",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/56pfy2bM2G9",
+  "title": "“다시 맡길 수도?” 김태형 재계약 검토, 3년 연속 7위와 선수단 변화 사이",
+  "published_at": "2026-10-20T23:53:00.000+09:00",
+  "collected_at": "2026-10-20T21:37:51.700Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

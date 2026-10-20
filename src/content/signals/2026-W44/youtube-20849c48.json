@@ -1,0 +1,29 @@
+{
+  "id": "youtube-20849c48",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg",
+    "samsung",
+    "kt",
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "source_name": "김알 - 김팀장이 알아봤다!",
+  "url": "https://www.youtube.com/watch?v=Tg_DL-ym2jM",
+  "title": "2026 KBO 골든글러브 후보 최다 구단은?🏆 LG·삼성·KT 10명 vs 한화 9명! #KBO #골든글러브 #한화이글스 #shorts",
+  "published_at": "2026-10-20T14:54:54Z",
+  "collected_at": "2026-10-20T21:37:51.700Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 911,
+    "likes": 3,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 35,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

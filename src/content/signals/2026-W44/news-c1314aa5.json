@@ -1,0 +1,28 @@
+{
+  "id": "news-c1314aa5",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "연합뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE84VVNvSXljWXFEYmUwZzNlYk12bThCWFUtRndkZzNuYzBvRFRFQ2hNaU5YLWFDbWhjZHQ1cl9qV1d6VmlZR3FHUDNDMVdMYndIcjZLb0VFUndDSFJkbkk0S9IBYEFVX3lxTE84VVNvSXljWXFEYmUwZzNlYk12bThCWFUtRndkZzNuYzBvRFRFQ2hNaU5YLWFDbWhjZHQ1cl9qV1d6VmlZR3FHUDNDMVdMYndIcjZLb0VFUndDSFJkbkk0Sw?oc=5",
+  "title": "역대 PS 최장 비거리 타이 '145ｍ'…KIA 김도영 초대형 만루포",
+  "published_at": "2026-10-20T10:27:32.000Z",
+  "collected_at": "2026-10-20T21:37:51.700Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 88,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "스포츠타임스",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB6NGs3RjJDN3ZGdkZ5U2gtR09qU0hJYUR6c2NBdTBFNEZrUTd4MVFVSmhFazJMZmhtbzdyRVRsMFF4MUkwU3V1VUJ4RXRVZTdCSXNVT2ZENUM1a3pFVzQ5UHB6RUxRRnM4OEJuMWFfZzVwQQ?oc=5"
+    }
+  ]
+}

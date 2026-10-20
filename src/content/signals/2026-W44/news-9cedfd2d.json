@@ -1,0 +1,23 @@
+{
+  "id": "news-9cedfd2d",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "국민일보",
+  "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE81T0MtX184SlozTXRiNWRGV1ktXzczRkJ0c3lmSTNoaVB6LWhDU05jdzlOZWk5S3lOZWpvSnYyYm9WYmhabWpndHZhMEk4TEZUd2hpVW1ONW0?oc=5",
+  "title": "‘강철야구’는 계속된다",
+  "published_at": "2026-10-20T16:34:03.000Z",
+  "collected_at": "2026-10-20T21:37:51.700Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

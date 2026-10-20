@@ -1,0 +1,23 @@
+{
+  "id": "community-9dc126a7",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha",
+    "ssg"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 인플레이",
+  "url": "https://blog.naver.com/pangya1212/224448227786",
+  "title": "한화 5연승 끊은 아빌라, SSG가 최대 2년 계약한 이유",
+  "published_at": "2026-10-20T22:12:00.000+09:00",
+  "collected_at": "2026-10-20T21:37:51.700Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

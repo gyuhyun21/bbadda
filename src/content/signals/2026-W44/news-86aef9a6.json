@@ -1,0 +1,22 @@
+{
+  "id": "news-86aef9a6",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "뉴시스",
+  "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261020_0003834066",
+  "title": "투혼도 막을 수 없는 부상 악재…'디펜딩 챔프' LG, 잠실과 씁쓸한 안녕[준PO]",
+  "published_at": "2026-10-20T13:07:46.000Z",
+  "collected_at": "2026-10-20T21:37:51.700Z",
+  "summary_ko": "뉴시스는 부상 악재 속에 준플레이오프를 마친 디펜딩 챔피언 LG가 잠실구장과 작별했다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 80
+  },
+  "sentiment": "negative"
+}

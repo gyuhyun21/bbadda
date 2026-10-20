@@ -1,0 +1,24 @@
+{
+  "id": "community-c1c6b904",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&page=3&document_srl=10467930234",
+  "title": "기사 사진에 실루엣이 박제되어버렸네 - 야구",
+  "published_at": "2026-10-20T17:37:51.700Z",
+  "collected_at": "2026-10-20T21:37:51.700Z",
+  "summary_ko": "",
+  "excerpt": "... 비시즌 ssg랜더스 토론대회개최예정 [22]. 12 분 전 자유 드릴여우신정부키 조회127 추천1. 비시즌 ssg랜더스 토론대회개최예정…",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

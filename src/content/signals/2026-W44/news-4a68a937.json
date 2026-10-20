@@ -1,0 +1,22 @@
+{
+  "id": "news-4a68a937",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "진일보 | 전남일보",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB0ZHlPa2RJX3dPTkI2LUVwV19yUXZRRWVmcWNLRDg1TndLWGxOekJIb1VIWDhIWEZ5RjZxelhleFBPWFVPMElHdm9xZWRNeW11SkRJMERRUHFRdWJXYjh6bmVrY1FOdDRpa2pVRm9jYw?oc=5",
+  "title": "\"잠실구장이 안 부럽다\"…KIA 타이거즈 PO진출에 광주 도심 '들썩'",
+  "published_at": "2026-10-20T13:45:40.000Z",
+  "collected_at": "2026-10-20T21:37:51.700Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 73,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

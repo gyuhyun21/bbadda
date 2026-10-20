@@ -1,0 +1,29 @@
+{
+  "id": "community-1a469404",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 수수의 소소한 이야기",
+  "url": "https://blog.naver.com/borry78/224448262741",
+  "title": "2026 KBO 플레이오프 예매 언제? 삼성 KIA 경기 일정 및 NOL 티켓팅 방법",
+  "published_at": "2026-10-20T22:49:00.000+09:00",
+  "collected_at": "2026-10-20T21:37:51.700Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 73,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "이투데이",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9hOUhaOVVPd3BGb1RXVUJNbDdVNXV2MXMxT0djN0dILVlveU5md2ZvZFpvVWFScVFieEphV2FSVkhROFhPeXlSS05rUkJfXzFSVlJOWHExTlVkUXZoazZxbGszby1QZC1SWndDWU5B?oc=5"
+    }
+  ]
+}

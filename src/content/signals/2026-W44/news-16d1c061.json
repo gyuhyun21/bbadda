@@ -1,0 +1,23 @@
+{
+  "id": "news-16d1c061",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://www.mt.co.kr/amp/sports/2026/10/21/202610210124778355O",
+  "title": "'FA 0입' 부채의식 때문일까, 김태형 재계약까지 논의 대상이라니…롯데의 결정, 왜 오래 걸리나",
+  "published_at": "2026-10-20T18:20:00.000Z",
+  "collected_at": "2026-10-20T21:37:51.700Z",
+  "summary_ko": "머니투데이는 롯데가 김태형 감독 재계약까지 논의 대상에 올리면서 결정이 오래 걸리는 이유를 짚었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "롯데, 김태형 재계약 논의"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "youtube-b2416aa6",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "source_name": "이글수다",
+  "url": "https://www.youtube.com/watch?v=Axds_uK7XKE",
+  "title": "2016년 3월 12일 한화이글스 시범경기 사진 mv",
+  "published_at": "2026-10-20T17:05:19Z",
+  "collected_at": "2026-10-20T21:37:51.700Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 760,
+    "likes": 1,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 33,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

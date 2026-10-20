@@ -1,0 +1,22 @@
+{
+  "id": "news-d75799b6",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9FLUNFd0JuOFFQc1hFcThIUjZMSFhJSnNrMFpLeEozWWxIQkhMVkJ1VUZpM0wxYVhTdS1qUWY2aHppbl9VMGlsTjlBQmVxcncwclk2UUI0UzZ6cnNWMld6d2V6VGdNb0syZnd3X0pNONIBb0FVX3lxTE9FLUNFd0JuOFFQc1hFcThIUjZMSFhJSnNrMFpLeEozWWxIQkhMVkJ1VUZpM0wxYVhTdS1qUWY2aHppbl9VMGlsTjlBQmVxcncwclk2UUI0UzZ6cnNWMld6d2V6VGdNb0syZnd3X0pNOA?oc=5",
+  "title": "[사진]KIA 박민, '준PO 3차전서 2타점 2루타'",
+  "published_at": "2026-10-20T12:34:00.000Z",
+  "collected_at": "2026-10-20T21:37:51.700Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 73,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

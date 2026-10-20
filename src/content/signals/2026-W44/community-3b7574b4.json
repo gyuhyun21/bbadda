@@ -1,0 +1,24 @@
+{
+  "id": "community-3b7574b4",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 엔터스포츠",
+  "url": "https://blog.naver.com/lastyoon1/224448437145",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/UTZoREhf6G",
+  "title": "“3경기 3홈런” 김도영, 삼성도 막기 어려울까…달라진 KIA 타선",
+  "published_at": "2026-10-21T03:20:00.000+09:00",
+  "collected_at": "2026-10-20T21:37:51.700Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

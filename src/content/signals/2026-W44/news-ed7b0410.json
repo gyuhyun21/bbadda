@@ -1,0 +1,22 @@
+{
+  "id": "news-ed7b0410",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://www.sportschosun.com/baseball/2026-10-21/202610210100131830008605",
+  "title": "'등판 무산' KIA 대투수, 조용히 잠실 흙 담았다…\"당연히 던지고 싶지만\" 이렇게 베테랑이 된다",
+  "published_at": "2026-10-20T16:22:00.000Z",
+  "collected_at": "2026-10-20T21:37:51.700Z",
+  "summary_ko": "스포츠조선은 준PO 3차전에서 등판하지 못한 KIA 양현종이 잠실구장 흙을 담아 갔다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

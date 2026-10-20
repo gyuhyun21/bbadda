@@ -1,0 +1,22 @@
+{
+  "id": "community-01c28a37",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 이거저거요고조고",
+  "url": "https://blog.naver.com/vevinus/224447986166",
+  "title": "SSG 조형우, 후반기 타율 0.325 반등｜2027년 안방이 더 기대되는 이유",
+  "published_at": "2026-10-20T17:53:00.000+09:00",
+  "collected_at": "2026-10-20T21:37:51.700Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

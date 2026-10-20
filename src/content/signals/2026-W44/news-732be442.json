@@ -1,0 +1,24 @@
+{
+  "id": "news-732be442",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "lg",
+  "teams": [
+    "lg",
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBrWjE3Q00xbGZUWlM2cXBoTTU0eDlFZlJWd1ZXWnRlS2stU0xqUlpQVndtN0w0TlA2TE1qVlMxeXpYQjVBWU5wNUozamw4eWRUM1dqWXVjaUFSQ1NCc3FneWtORjFzNDY1X0RRTzR2eWp4TndOWUYzWENQay1Ddw?oc=5",
+  "title": "\"빨리 끝내고 한국시리즈 올라가겠습니다\" 김도영 한마디에 잠실 들썩, 타이거즈 팬들 열광",
+  "published_at": "2026-10-20T18:20:12.000Z",
+  "collected_at": "2026-10-20T21:37:51.700Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 83,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

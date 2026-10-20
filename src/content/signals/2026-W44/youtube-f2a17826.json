@@ -1,0 +1,26 @@
+{
+  "id": "youtube-f2a17826",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "youtube",
+  "source_name": "오늘도 좋은것들",
+  "url": "https://www.youtube.com/watch?v=6mw3JfHRd9Y",
+  "title": "두산 떠난 손아섭 충격 방출 이유 #손아섭 #두산베어스 #프로야구",
+  "published_at": "2026-10-20T16:32:41Z",
+  "collected_at": "2026-10-20T21:37:51.700Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 4455,
+    "likes": 10,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 42,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "youtube-d2dce68e",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "이참새",
+  "url": "https://www.youtube.com/watch?v=bjDxV7La9zI",
+  "title": "기아타이거즈 미쳐버린 떼창 잠실구장에 퍼지는 아파트 잠실은 기아 제2의 홈구장 #김도영 #박재현 #나성범  #양현종 #준플레이오프 #플레이오프 #한국시리즈 #야구 #shorts",
+  "published_at": "2026-10-20T15:36:38Z",
+  "collected_at": "2026-10-20T21:37:51.700Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 3815,
+    "likes": 38,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 47,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-21949339",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스핌",
+  "url": "https://www.newspim.com/news/view/20261020001241",
+  "title": "[준PO] '3연패 탈락' LG 염경엽 감독 \"타선에서 밀려…팬들 기대에 부응 못해 죄송\"",
+  "published_at": "2026-10-20T14:06:00.000Z",
+  "collected_at": "2026-10-20T21:37:51.700Z",
+  "summary_ko": "뉴스핌에 따르면 3연패로 탈락한 LG 염경엽 감독은 타선에서 밀렸고 팬들 기대에 부응하지 못해 죄송하다고 말했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 80
+  },
+  "sentiment": "negative",
+  "brief_ko": "LG, 준PO 3연패 탈락"
+}

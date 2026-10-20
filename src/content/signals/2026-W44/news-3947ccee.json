@@ -1,0 +1,23 @@
+{
+  "id": "news-3947ccee",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠Q",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE85Wl9helBaTWZ3YlZLenZvczd1Y3ZlMDdxQ2dSZmQzQ3JIX09SbXdOb01yTEwwUnhnN0FidHRwTF9EWnJwZ05FbVFsRkdPZVdYYzBoU3h4eVhHNGdHZm4yczlRV3N3UGNBM2c?oc=5",
+  "title": "나흘 휴식+타격감 절정, KIA '삼성 나와라' [프로야구]",
+  "published_at": "2026-10-20T14:54:51.000Z",
+  "collected_at": "2026-10-20T21:37:51.700Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

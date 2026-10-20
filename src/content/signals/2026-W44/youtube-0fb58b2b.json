@@ -1,0 +1,27 @@
+{
+  "id": "youtube-0fb58b2b",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "lg"
+  ],
+  "source_type": "youtube",
+  "source_name": "DKTV Daniel",
+  "url": "https://www.youtube.com/watch?v=7Y7qhfCj6Ho",
+  "title": "준PO 3차전 KIA 타이거즈 vs LG 트윈스 | 시라카와, 카르스코 선발 | 리드오프 박정우, 3번 김도영 | 상상 입중계",
+  "published_at": "2026-10-20T16:15:35Z",
+  "collected_at": "2026-10-20T21:37:51.700Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 73795,
+    "likes": 572,
+    "comments": 3
+  },
+  "scores": {
+    "hot": 60,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

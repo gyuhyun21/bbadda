@@ -1,0 +1,23 @@
+{
+  "id": "news-0a5678d1",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9oTzd5Q19lQWRkRzlKc1VVSGdybG5PVkVQbW83Z1Q3cFdTYVZBNVBHWE9HX0JOUWtianl5VzBQb3YwUENjQVh5QTB4SWl5UzVRRXhLRkVaLXBJdzZXamhqZlgwMHhpSU1wRmVEY0l6WdIBb0FVX3lxTE9oTzd5Q19lQWRkRzlKc1VVSGdybG5PVkVQbW83Z1Q3cFdTYVZBNVBHWE9HX0JOUWtianl5VzBQb3YwUENjQVh5QTB4SWl5UzVRRXhLRkVaLXBJdzZXamhqZlgwMHhpSU1wRmVEY0l6WQ?oc=5",
+  "title": "[사진]솔로포 한준수, 포스트시즌은 기세!",
+  "published_at": "2026-10-20T11:50:00.000Z",
+  "collected_at": "2026-10-20T21:37:51.700Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

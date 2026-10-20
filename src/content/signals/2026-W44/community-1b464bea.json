@@ -1,0 +1,23 @@
+{
+  "id": "community-1b464bea",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 첼로그",
+  "url": "https://blog.naver.com/chelseachel/224448268731",
+  "title": "2026 KBO 준플레이오프 결과 및 플레이오프 일정",
+  "published_at": "2026-10-20T22:56:00.000+09:00",
+  "collected_at": "2026-10-20T21:37:51.700Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

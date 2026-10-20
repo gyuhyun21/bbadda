@@ -1,0 +1,23 @@
+{
+  "id": "news-1da0be50",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "진일보 | 전남일보",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE54NG5tbzE0RnBGdk9iWEVmOU1zcDlPbU5TNURpNXc0c0xrMEMwMFFhelZILTV0YzZYVXY4QVBwejY4bW1XdURIUWxzR2JwOU5ZSUpFTHk3dUZ1Z19ub0dPanU2WUlLczBoNUktMDA2aw?oc=5",
+  "title": "‘2024 우승 신화 재현한다’ KIA, 대구서 삼성과 플레이오프 격돌",
+  "published_at": "2026-10-20T13:23:41.000Z",
+  "collected_at": "2026-10-20T21:37:51.700Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 81,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "community-2b95033b",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "lg"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 모이소",
+  "url": "https://blog.naver.com/oops211/224448305645",
+  "title": "KIA 김도영 만루홈런 폭발, LG 13-1 완파…23년 만의 PO 진출과 잠실야구장 마지막 경기",
+  "published_at": "2026-10-20T23:48:00.000+09:00",
+  "collected_at": "2026-10-20T21:37:51.700Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBIZmk4ODN4ZEVTb29nMHhfd3hTam9aWDBFYTdoclBKYnZnc3FYYmFnMUcyV2RFWHhVcG81dHRwQ0JLQV9xSWdVQ0RDTmFQeGtiOFFVTlRPQzkyam9ZYW1UcDFoMUpPUUoxQjhVWlJtONIBb0FVX3lxTFBIZmk4ODN4ZEVTb29nMHhfd3hTam9aWDBFYTdoclBKYnZnc3FYYmFnMUcyV2RFWHhVcG81dHRwQ0JLQV9xSWdVQ0RDTmFQeGtiOFFVTlRPQzkyam9ZYW1UcDFoMUpPUUoxQjhVWlJtOA?oc=5"
+    }
+  ]
+}

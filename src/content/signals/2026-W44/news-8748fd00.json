@@ -1,0 +1,24 @@
+{
+  "id": "news-8748fd00",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "lg",
+  "teams": [
+    "lg",
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "연합뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE96Qk9FakpNTjZySm1aVmYzRlQ5ZzJqNmtxQXNYa283OHVoZXFOQmZEWGg1X0s0bWNjcGtVY2dUSUloS0R2UmFMWDZidWNZZU1yaWg5X05mT1dOZERCall2ZtIBYEFVX3lxTE96Qk9FakpNTjZySm1aVmYzRlQ5ZzJqNmtxQXNYa283OHVoZXFOQmZEWGg1X0s0bWNjcGtVY2dUSUloS0R2UmFMWDZidWNZZU1yaWg5X05mT1dOZERCall2Zg?oc=5",
+  "title": "가장 완벽했던 잠실 고별사…145ｍ 만루포로 준PO 지배한 김도영(종합)",
+  "published_at": "2026-10-20T14:01:32.000Z",
+  "collected_at": "2026-10-20T21:37:51.700Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 81,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "youtube-662fbb4d",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "youtube",
+  "source_name": "케루루",
+  "url": "https://www.youtube.com/watch?v=UTLya1DIS1Q",
+  "title": "KT 위즈 팬의 고척돔 원정 직관, 먹산과 함께",
+  "published_at": "2026-10-20T14:00:23Z",
+  "collected_at": "2026-10-20T21:37:51.700Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 268,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 27,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "youtube-dea15102",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "마멜녀",
+  "url": "https://www.youtube.com/watch?v=WNRnRFbY9nk",
+  "title": "준플레이오프 보고 왔어요 #기아타이거즈 #lg트윈스 #가을야구 #야구",
+  "published_at": "2026-10-20T17:54:03Z",
+  "collected_at": "2026-10-20T21:37:51.700Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 844,
+    "likes": 4,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 36,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "news-4a7d5dcd",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "hanwha",
+  "teams": [
+    "hanwha",
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5HZFFaWllHTlJPWmhhQzZMMlJEWjVTUFg0MFNReHl3UTJXVnhjT0tfYmgzTElFd0pzZklSTmdVbEU5NnVpYWM4eVBzcmdUZEVQQlVpSS10dHptUnRNdjg1U1BOQjdodThvMFhkcERMMNIBb0FVX3lxTE5HZFFaWllHTlJPWmhhQzZMMlJEWjVTUFg0MFNReHl3UTJXVnhjT0tfYmgzTElFd0pzZklSTmdVbEU5NnVpYWM4eVBzcmdUZEVQQlVpSS10dHptUnRNdjg1U1BOQjdodThvMFhkcERMMA?oc=5",
+  "title": "준PO 지켜본 박진만 소감 \"김도영 슈퍼스타다운 모습→우리도 준비 잘해, 대처할 수 있는 능력 갖춰\"",
+  "published_at": "2026-10-20T15:01:00.000Z",
+  "collected_at": "2026-10-20T21:37:51.700Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 82,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-b983c703",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠월드",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBPWDdrY1VGM1M1UTZpcFFtLVQ5VWhyMzJpUTBWcjdpNm51UzBJZEYzYmVQRzhLZWVPbmZXMTg1QzE5dTNybTUwX2lwZjByRjYyTWY5UWNCNDhVd0h4M2R1OQ?oc=5",
+  "title": "마침내 상대가 정해졌다…박진만 감독 “준비한 대로, 가을 축제 즐기길”",
+  "published_at": "2026-10-20T14:03:14.000Z",
+  "collected_at": "2026-10-20T21:37:51.700Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

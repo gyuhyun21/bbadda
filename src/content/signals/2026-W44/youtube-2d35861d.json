@@ -1,0 +1,27 @@
+{
+  "id": "youtube-2d35861d",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "기아타이거즈 KIA TIGERS",
+  "url": "https://www.youtube.com/watch?v=mCuugh_3QbY",
+  "title": "이제 다음은 플레이오프! 이범호 감독 시라카와 김도영 나성범 김태형 이의리 한준수 박정우 승리직후 (10.20)",
+  "published_at": "2026-10-20T19:01:04Z",
+  "collected_at": "2026-10-20T21:37:51.700Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 24136,
+    "likes": 1854,
+    "comments": 280
+  },
+  "scores": {
+    "hot": 88,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

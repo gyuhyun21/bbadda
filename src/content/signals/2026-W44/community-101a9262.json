@@ -1,0 +1,23 @@
+{
+  "id": "community-101a9262",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 뉴스포워더 수지의 핫한 최신 이슈/뉴스 공간",
+  "url": "https://blog.naver.com/newsforwarder/224448425660",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/AfPQT70QHMN",
+  "title": "김도연 가전야구 최연소 그랜드슬램 경악, 삼성 팬들 지금 뒤집어진 이유",
+  "published_at": "2026-10-21T02:50:00.000+09:00",
+  "collected_at": "2026-10-20T21:37:51.700Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

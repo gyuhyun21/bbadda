@@ -1,0 +1,24 @@
+{
+  "id": "community-f8ab3fdf",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&page=7&document_srl=10467444382",
+  "title": "욱비기닝2일차 - 야구",
+  "published_at": "2026-10-20T14:37:51.700Z",
+  "collected_at": "2026-10-20T21:37:51.700Z",
+  "summary_ko": "",
+  "excerpt": "... [레벨:40] 두산비어즈 5 분 전. 오피셜 - 두산 베어스 박승욱 영입. 1. [레벨:24] 혀놀림마스터키부…",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

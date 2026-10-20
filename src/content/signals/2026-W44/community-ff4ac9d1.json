@@ -1,0 +1,23 @@
+{
+  "id": "community-ff4ac9d1",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 크라운의 이슈픽",
+  "url": "https://blog.naver.com/crownsando_828/224448286520",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/9pYLRiJe3LW",
+  "title": "“좌완 투수에 현금까지 내줬는데”…손아섭 두산 방출, 3000안타 꿈도 흔들렸다",
+  "published_at": "2026-10-20T23:15:00.000+09:00",
+  "collected_at": "2026-10-20T21:37:51.700Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

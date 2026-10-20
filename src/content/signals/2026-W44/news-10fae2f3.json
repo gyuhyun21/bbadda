@@ -1,0 +1,23 @@
+{
+  "id": "news-10fae2f3",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "OSEN",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5GNXRYUC04UVptZEMyOUI5dGFQX2FkdHg2dHA2OHAxWlZ6elM3aHVUanBhZ1Zxd21IU1d1VTBRc1lGZzhlR3VzLTFJQU4yZGxqMl9feA?oc=5",
+  "title": "고작 30살인데 방출 충격! 제2의 김동주로 불렸던 거포, 11년 프로생활 끝→왜 고개 숙였나 “죄송한 마음 갖고 떠난다”",
+  "published_at": "2026-10-20T21:12:00.000Z",
+  "collected_at": "2026-10-20T21:37:51.700Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

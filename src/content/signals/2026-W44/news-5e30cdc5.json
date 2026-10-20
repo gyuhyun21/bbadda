@@ -1,0 +1,22 @@
+{
+  "id": "news-5e30cdc5",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스1",
+  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5MQVpTN25BX1VxZXpWUnpENmlaa01zY0dQSFZFcHBzQm1SYnRBTUpVMmNIYmlHZVdWQnM4VlltcGN4N2FkV2ZnTXlsRjdXZ2YtZmV3dlF3NA?oc=5",
+  "title": "삼성 만나는 이범호 \"우린 도전자, 두려움 없이 과감하게\"[준PO3]",
+  "published_at": "2026-10-20T13:38:23.000Z",
+  "collected_at": "2026-10-20T21:37:51.700Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

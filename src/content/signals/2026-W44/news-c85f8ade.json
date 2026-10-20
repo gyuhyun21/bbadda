@@ -1,0 +1,23 @@
+{
+  "id": "news-c85f8ade",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "경북도민일보",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE90c3o3bV9mN0ZNVTY0NzNBc29uS0haT21wQlc3VW9XOWsweXlSSEV1Z3kzZHk2ODJINzlJUlJ6c1Vwd3RGVndsQTdRbU40QzBfQTM4SGhOTkxBZU1UX3FDdzBVYU1JLVh4Zmc?oc=5",
+  "title": "\"우려가 현실로\" 삼성, 한국시리즈 티켓 두고 기아와 격돌",
+  "published_at": "2026-10-20T13:49:28.000Z",
+  "collected_at": "2026-10-20T21:37:51.700Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 73,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "community-b4be2687",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "다음카페 하늘이여 땅이여",
+  "url": "https://cafe.daum.net/enpyung/IWeN/12467",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/Iar9Ms6HRnl",
+  "title": "슈퍼스타 145m 전율의 만루포, 잠실 가운데 관중석...",
+  "published_at": "2026-10-20T21:06:57.000+09:00",
+  "collected_at": "2026-10-20T21:37:51.700Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 73,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE16RG81azdVOG1QSldPV2dMRm94TGZfMk9NelB0SkJyY0h6WE9FbzRxcEpCdkE2UDVKRzBkSGQwQmtKYnRPY0dzdk9weXRLYkZkME15b1JMV2VFZjluUGJQV0p4Sl9fX0UwQnhXcE45ONIBb0FVX3lxTE16RG81azdVOG1QSldPV2dMRm94TGZfMk9NelB0SkJyY0h6WE9FbzRxcEpCdkE2UDVKRzBkSGQwQmtKYnRPY0dzdk9weXRLYkZkME15b1JMV2VFZjluUGJQV0p4Sl9fX0UwQnhXcE45OA?oc=5"
+    }
+  ]
+}

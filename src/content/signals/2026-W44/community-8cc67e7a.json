@@ -1,0 +1,33 @@
+{
+  "id": "community-8cc67e7a",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 DBA가 전하는 정확한 IT 금융 및 시사 인사이트",
+  "url": "https://hampi2.tistory.com/1806",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/8vRF0OFVMgL",
+  "title": "김도영 만루홈런 145m·MVP, KIA 타이거즈 준플레이오프 3연승 PO 진출",
+  "published_at": "2026-10-20T23:27:27.000+09:00",
+  "collected_at": "2026-10-20T21:37:51.700Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 97,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4yeVpaeTdHYXg2dWRYUnhYRExxWXcyX09ZdmZnZC1oLXJZQkx5bk5YeXpwOHByUmU2OFZuaG5ISFRvV0N4STJJQWkzaEFUZXJiWlpWWF9sLTVNN2ZXR1NBY2J0anF2N010Vl8zTTZzUdIBb0FVX3lxTE4yeVpaeTdHYXg2dWRYUnhYRExxWXcyX09ZdmZnZC1oLXJZQkx5bk5YeXpwOHByUmU2OFZuaG5ISFRvV0N4STJJQWkzaEFUZXJiWlpWWF9sLTVNN2ZXR1NBY2J0anF2N010Vl8zTTZzUQ?oc=5"
+    },
+    {
+      "source_name": "STN SPORTS",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBCbWh0RDVsU1Y1WGNlbTBJMzFVbkV4UGRzWXFVN3JNUHp0S0JTblhtTGFoV2pzaFFBX25LRE5NdjRlUmJlczBKeklvVXp3T2xySElsY21OMWY4TUVmY0VyUHlZZ1VUSGpQcnZfWDcwRQ?oc=5"
+    }
+  ]
+}

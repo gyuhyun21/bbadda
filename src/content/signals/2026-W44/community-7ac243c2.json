@@ -1,0 +1,24 @@
+{
+  "id": "community-7ac243c2",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt",
+    "hanwha",
+    "lotte"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 알아두면 좋은 것들",
+  "url": "https://blog.naver.com/hotdeal_no1/224448199239",
+  "title": "KT 34억 재계약, 한화도 새 감독... 롯데만 남은 고민",
+  "published_at": "2026-10-20T22:50:00.000+09:00",
+  "collected_at": "2026-10-20T21:37:51.700Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

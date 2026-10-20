@@ -1,0 +1,25 @@
+{
+  "id": "news-b4caae80",
+  "issue": "2026-W44",
+  "module": "league",
+  "teams": [],
+  "source_type": "news",
+  "source_name": "매일경제",
+  "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1rOGRMdmhVclF5Vm1VNUtEdnZlZDZ1VjQ2dDd3QkpFQmZiaUMteUtFQzlUOFVUaGgxZGFVRjV6cUJBdnlyb3c?oc=5",
+  "title": "“2연패 도전 실패, 절실한 야구 필요”…시즌 마감한 염갈량의 다짐 [준PO3]",
+  "published_at": "2026-10-20T14:14:00.000Z",
+  "collected_at": "2026-10-20T21:37:51.700Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 73,
+    "relevance": 30
+  },
+  "sentiment": "negative",
+  "also_in": [
+    {
+      "source_name": "m.mksports.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBvdC1PUEhRQW93UkNPRlA5MmpsOTVvVzk2N0c1WnBsdk9HUnkxN1U3YmYwbDZONFpqenBWLXBBVVRPZkU2ZFdDYTROeU1HZw?oc=5"
+    }
+  ]
+}

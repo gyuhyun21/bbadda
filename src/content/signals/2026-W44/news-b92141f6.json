@@ -1,0 +1,24 @@
+{
+  "id": "news-b92141f6",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "lg",
+  "teams": [
+    "lg",
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0yczVFdDA5OWI5R3NucWpqTmFieVNCTnhmakh4RTIyazNvRC1tYUJIbmFfX1RVa3NUc1gwOEVnb3duanZnaG96LTlKbThzV1BDcjRQWTJ4TnlwcUhUOVhKeEkyTWF1T3RJakpUcVBMWdIBb0FVX3lxTE0yczVFdDA5OWI5R3NucWpqTmFieVNCTnhmakh4RTIyazNvRC1tYUJIbmFfX1RVa3NUc1gwOEVnb3duanZnaG96LTlKbThzV1BDcjRQWTJ4TnlwcUhUOVhKeEkyTWF1T3RJakpUcVBMWQ?oc=5",
+  "title": "[사진]황동하, 준PO 3차전 내가 마무리 짓는다",
+  "published_at": "2026-10-20T12:55:00.000Z",
+  "collected_at": "2026-10-20T21:37:51.700Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 73,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

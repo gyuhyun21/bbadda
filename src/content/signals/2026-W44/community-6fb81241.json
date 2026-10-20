@@ -1,0 +1,24 @@
+{
+  "id": "community-6fb81241",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "엠엘비파크",
+  "url": "https://mlbpark.donga.com/mp/b.php?id=202610210119573664&p=1&b=bullpen&m=view&select=spf&query=%EC%95%BC%EA%B5%AC&site=donga.com&pos=reply",
+  "title": "플레이오프 1차전 예상",
+  "published_at": "2026-10-20T16:37:51.700Z",
+  "collected_at": "2026-10-20T21:37:51.700Z",
+  "summary_ko": "",
+  "excerpt": "... 스포TV 인공지능 예측 삼성 승기아 선발 네일삼성 선발 페덱.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

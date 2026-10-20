@@ -1,0 +1,22 @@
+{
+  "id": "news-b0a293c6",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "이데일리",
+  "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdW9Id0xRazM1VGFLTjd6VWx2SzlWOWhIdFhwOW4tRk1WV2pKLTFVN0M1X1p6X3hqUXRNbXRTMVJtc3VHTXBtVHFDak81amJkcV9vRm5WeXFGaEpWRC0zMXRKeHBiNmdpbjBCeU9XblFRdzk0QVp3bWh5WmM3UFFPeQ?oc=5",
+  "title": "KIA에 내리 10연패…고개 숙인 염경엽 감독 “준비가 부족했다”",
+  "published_at": "2026-10-20T13:37:31.000Z",
+  "collected_at": "2026-10-20T21:37:51.700Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 80
+  },
+  "sentiment": "negative"
+}

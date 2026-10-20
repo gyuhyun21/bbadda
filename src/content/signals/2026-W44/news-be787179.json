@@ -1,0 +1,29 @@
+{
+  "id": "news-be787179",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠경향",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5tTEtIY1hoMUsxUF9nMDl3aDZoYzRBT09rR2h0UzJQeHZ2UVhuMzNrNGhWNERUbGp3LVFCSzdWc1NmWEtsM2h0bkNjZF9hZEoxVk9DX0JKMThLSHBKeUZ6S3c0Y9IBY0FVX3lxTE5tTEtIY1hoMUsxUF9nMDl3aDZoYzRBT09rR2h0UzJQeHZ2UVhuMzNrNGhWNERUbGp3LVFCSzdWc1NmWEtsM2h0bkNjZF9hZEoxVk9DX0JKMThLSHBKeUZ6S3c0Yw?oc=5",
+  "title": "KIA 만나는 박진만 삼성 감독 “김도영 슈퍼스타다운 모습” 경계 “우리도 잘 준비했다, 우리 선수들 가을 축제...",
+  "published_at": "2026-10-20T13:47:00.000Z",
+  "collected_at": "2026-10-20T21:37:51.700Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 81,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBCZHM4RVdjVnVCaW9qNC1ueHVOZmotXzgwZHZ0REdqX05YRG1KbGVjTmJlV1FKSkRNOGZ3V2JuTkllVVNCSWRhWHFqSXROSHpUSkRuLThDN0RNVmpCMTFKZDB4WTNZMW5rdGFuMDZ4RWFqbEgyMHE4a9IBeEFVX3lxTFBCZHM4RVdjVnVCaW9qNC1ueHVOZmotXzgwZHZ0REdqX05YRG1KbGVjTmJlV1FKSkRNOGZ3V2JuTkllVVNCSWRhWHFqSXROSHpUSkRuLThDN0RNVmpCMTFKZDB4WTNZMW5rdGFuMDZ4RWFqbEgyMHE4aw?oc=5"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-58fa43ba",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "조선일보",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQcEc4bmtHdUhxaVVfUVROZzlZWERqMURlek5neDJMcEloTDAwNWluaXlDVEtVNk9pNmc0a2pOZXdUTk00bWtzTEZhUGdwOXZSTURiZUNFT0ZCR1VxR1dFODR4M0RCUUQ3UVJUOFB4ZXotSVJjRzl1Uno3ZVBFSE5sZDg4VQ?oc=5",
+  "title": "\"김도영 확실히 슈퍼스타, 하지만...\" 나 떨고 있니? 당당함 속 감출 수 없는 긴장감, 박진만 감독의 출사표",
+  "published_at": "2026-10-20T16:42:00.000Z",
+  "collected_at": "2026-10-20T21:37:51.700Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

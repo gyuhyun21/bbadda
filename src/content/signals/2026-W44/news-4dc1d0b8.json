@@ -1,0 +1,23 @@
+{
+  "id": "news-4dc1d0b8",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "www.xportsnews.com",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBQY0VNazhET04xeDJ3WGVDVHB2cGlHd21RNEYxM2JrSmRRVHJHaDdURU96NmM1VC1JZXZBQk1OUzNMcTc1M2pRbTNQa1ZWUW9SdXBxVA?oc=5",
+  "title": "'슈퍼스타' 김도영에 감탄한 국민유격수, 하지만 KS 진출 자신 있다…\"열심히 해서 이기면 돼\" [PO]",
+  "published_at": "2026-10-20T17:40:58.000Z",
+  "collected_at": "2026-10-20T21:37:51.700Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}
