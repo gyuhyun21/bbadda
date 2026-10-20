@@ -1,0 +1,25 @@
+{
+  "id": "news-5f62f2a9",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "kt",
+  "teams": [
+    "kt",
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "announcement": true,
+  "source_name": "스포츠조선",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE81MHJKdFEwUkkxMHVXSVNDRmoxMElDaFNrRmVfODRwRzhUa3RUMlFMZnBGWFZTNDF1WHd3ZHpTalZlOEFldkZlQW0wNkNvQW9yV0MyOGU0NUQ1Ry1FN1BBZFdtUFhVWlZjaWxsZGhCdldRakdQcTlIQXpOX2tLUQ?oc=5",
+  "title": "[공식발표] 이 선수 아니면 사기였다...힐리어드, 외인 최초 한 시즌 월간 MVP 2관왕",
+  "published_at": "2026-10-20T05:36:06.000Z",
+  "collected_at": "2026-10-20T07:38:44.782Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

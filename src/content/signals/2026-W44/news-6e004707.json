@@ -1,0 +1,22 @@
+{
+  "id": "news-6e004707",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "news",
+  "source_name": "충청신문",
+  "url": "https://www.dailycc.net/news/articleViewAmp.html?idxno=877463",
+  "title": "한화 문현빈·허인서·조동욱, APBC 대표팀 선발",
+  "published_at": "2026-10-20T02:09:20.000Z",
+  "collected_at": "2026-10-20T07:38:44.782Z",
+  "summary_ko": "충청신문은 한화 문현빈·허인서·조동욱이 APBC 대표팀에 선발됐다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

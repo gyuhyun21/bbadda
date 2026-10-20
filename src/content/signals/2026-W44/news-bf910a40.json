@@ -1,0 +1,29 @@
+{
+  "id": "news-bf910a40",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBCUVJjUzlIeHBmMjdQV1J5TUo4UlFOemtTbGQ1RDhQYWFjMWFYR0ZGU2ViMkZJZVdENnVhVTRXUlYzMkVKaV9wZlpjSjc4Tlh4eW1tX2tvZldrdGQ0RnQ0NlVZYWwxdFJ6aFUwczJnWDEyN2tFcjZCZlFGRGI0Zw?oc=5",
+  "title": "통산 3000안타는 꿈이었나, 왕좌 내주고 방출, 멈춰버린 2655안타 시계, 최형우 vs 김현수 2파전 재편",
+  "published_at": "2026-10-19T21:38:48.000Z",
+  "collected_at": "2026-10-20T07:38:44.782Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 88,
+    "relevance": 70
+  },
+  "sentiment": "negative",
+  "also_in": [
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeDZnZXdEdndYdWFWWDZ2SUZXZXVQaHpPNkZrUTkwNEk0bkRMZmFkZHR1YU1xdzdwX1B2ZFJxQ05EVHlUMHJjZThDdFdqcG9mRGtSRVBsX3hoSS00RmZ2Z1VPX3ZlYkN5VG1qMEhCSWk0bUlfdGR6YzlWOW9rdFJNWnVzSQ?oc=5"
+    }
+  ]
+}

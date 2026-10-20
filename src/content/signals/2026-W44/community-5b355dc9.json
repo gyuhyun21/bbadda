@@ -1,0 +1,24 @@
+{
+  "id": "community-5b355dc9",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 세계는 지금",
+  "url": "https://blog.naver.com/now_news/224447306658",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/6NeGVBtJ0Zp",
+  "title": "\"폰세를 능가하는 투수를 처음 봤다\" 이강철 혀 내두른 아빌라, KBO 잔류 왜",
+  "published_at": "2026-10-20T07:09:00.000+09:00",
+  "collected_at": "2026-10-20T07:38:44.782Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

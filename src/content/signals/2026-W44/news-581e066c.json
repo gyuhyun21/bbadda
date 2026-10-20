@@ -1,0 +1,30 @@
+{
+  "id": "news-581e066c",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "lg",
+  "teams": [
+    "lg",
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5rclVDLVBacU5oMnFfZmw1dlR1TXFXb043VDdveHVpLWNubUhBWkZLbXhSV1dVN0t2MTd1ek5kSEpqM3g5MDRhd3ZDcm9tOExDVDBWREgwOWp6bmQwbWFLc3dmT3JMYU9nX1E4cmxub9IBb0FVX3lxTE5rclVDLVBacU5oMnFfZmw1dlR1TXFXb043VDdveHVpLWNubUhBWkZLbXhSV1dVN0t2MTd1ek5kSEpqM3g5MDRhd3ZDcm9tOExDVDBWREgwOWp6bmQwbWFLc3dmT3JMYU9nX1E4cmxubw?oc=5",
+  "title": "\"홈런 치고 왜 울어?\" 5타수 5삼진 잠실 빅보이, '멘탈' 시험대 다시 오르다",
+  "published_at": "2026-10-20T00:25:23.000Z",
+  "collected_at": "2026-10-20T07:38:44.782Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 89,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9YMUc2NWUwR3ZidGtXT2Qtb2NlbTZSUmdjZWIyV3dhWERKZFNRRmYtWFBqLWNWeFlMTVdUc1dibGlMeEg0bHVXMmlMSTRtQ2M5MldMbFFLMGhiczgySHdRdDNfYkxjdU1QbW5KQ2V6U1dFc2xKWUE?oc=5"
+    }
+  ]
+}

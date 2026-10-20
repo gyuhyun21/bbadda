@@ -1,0 +1,27 @@
+{
+  "id": "youtube-2096c641",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "Eagles TV",
+  "url": "https://www.youtube.com/watch?v=1-oEvxPy1w0",
+  "title": "너도 지현이니?",
+  "published_at": "2026-10-20T03:15:38Z",
+  "collected_at": "2026-10-20T07:38:44.782Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 39753,
+    "likes": 1020,
+    "comments": 36
+  },
+  "scores": {
+    "hot": 81,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

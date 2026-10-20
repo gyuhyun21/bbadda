@@ -1,0 +1,28 @@
+{
+  "id": "news-560b1209",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "스타뉴스",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1jcHJlei1MYUNHcncxY0kwdm1hSjFJSlVvNDByZC01X0FTWXR6YUdOaVFCaklwVHNGdmpTc0VqTUdha3BPdWR1anlDQzV4N1BmdzJURVNsamxFallJZFgtNHk2a01uWUpLdHdPbEFRWWswS19KNHc?oc=5",
+  "title": "'PS 7타수 1안타' 홍창기 '끝내' 선발 제외→오지환-문성주가 나선다! 벼랑 끝 LG 라인업 전격 공개 [준PO3 현장]",
+  "published_at": "2026-10-20T06:59:00.000Z",
+  "collected_at": "2026-10-20T07:38:44.782Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 100,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA4aGlkSjdKdmZEZUNZQ18zcEU1d1VhYkxPU21ZcFI2dXFoNXQ5TmdfQUdlSW1Jc1RMT0NiTzFfTnlyNy1CTXNUdTVreDIzbFkxYThfbGJyYw?oc=5"
+    }
+  ]
+}

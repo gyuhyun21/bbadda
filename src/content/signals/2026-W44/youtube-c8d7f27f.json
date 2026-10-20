@@ -1,0 +1,27 @@
+{
+  "id": "youtube-c8d7f27f",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "BOXSCORE",
+  "url": "https://www.youtube.com/watch?v=THaqcir2I3Q",
+  "title": "이강철 감독 34억 역대 최고 재계약, 이제 남은 건 통합 우승 #Shorts",
+  "published_at": "2026-10-20T04:48:31Z",
+  "collected_at": "2026-10-20T07:38:44.782Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 749,
+    "likes": 3,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 41,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-b2a600c4",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠경향",
+  "url": "https://sports.khan.co.kr/article/202610201107013/amp",
+  "title": "오늘밤 KIA-LG 준PO 3차전 ‘깊은 맛’ 버전 ‘관전포인트’챙기세요",
+  "published_at": "2026-10-20T02:07:00.000Z",
+  "collected_at": "2026-10-20T07:38:44.782Z",
+  "summary_ko": "스포츠경향이 KIA-LG 준PO 3차전의 관전 포인트를 정리했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

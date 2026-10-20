@@ -1,0 +1,23 @@
+{
+  "id": "news-b5bcac61",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "일간스포츠",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE03eHdMZ0pNTmFzVS04TFBxSDE4VXN1c2M1MDJGVmctVUk3dnlrYWhQcHpvZzl6ZXN1d3RlUkNwV3V5czdkYjFtQ2FTLXBVRk9fOUtrM04wckhsQmJyRERUSkZB?oc=5",
+  "title": "[IS 피플] 정규시즌 조심스러웠던 아내의 직관...하주석 \"그냥 잘하라고\"",
+  "published_at": "2026-10-20T03:34:00.000Z",
+  "collected_at": "2026-10-20T07:38:44.782Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

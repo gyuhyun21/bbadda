@@ -1,0 +1,23 @@
+{
+  "id": "news-b3bf81c2",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "서울신문",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9JRXhld05jdlR4NTNYSHFlWmZad3IzZmFLRUNyMDQ4bnAwdjBudFlLcWQ2eEd1WmR6NlpXdXJBRW5IT09JSWs1QTJtQ0djMlpjSFhydG5MUml5cklsN3V6MmFoaXZ4cFdPLUs5dU5OMDE1ZFNRWEE?oc=5",
+  "title": "소형준 친구 허윤동 결국 방출…1라운드 대형 유망주, 끝내 못 피운 꽃",
+  "published_at": "2026-10-19T09:42:45.000Z",
+  "collected_at": "2026-10-20T07:38:44.782Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

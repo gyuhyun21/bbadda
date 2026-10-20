@@ -1,0 +1,26 @@
+{
+  "id": "youtube-17463709",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "youtube",
+  "source_name": "끼끼",
+  "url": "https://www.youtube.com/watch?v=m5LLLqSoRoI",
+  "title": "2026시즌 롯데자이언츠 전민재 호수비 모음 매드무비",
+  "published_at": "2026-10-20T03:41:22Z",
+  "collected_at": "2026-10-20T07:38:44.782Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 108,
+    "likes": 10,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

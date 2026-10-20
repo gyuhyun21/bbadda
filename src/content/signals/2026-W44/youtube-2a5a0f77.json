@@ -1,0 +1,26 @@
+{
+  "id": "youtube-2a5a0f77",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "미키",
+  "url": "https://www.youtube.com/watch?v=XkNXrpbnBo8",
+  "title": "김도영 말 한마디 붉게 물든 광주 #김도영 #기아타이거즈 #KIA타이거즈",
+  "published_at": "2026-10-20T06:28:13Z",
+  "collected_at": "2026-10-20T07:38:44.782Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 858,
+    "likes": 26,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 62,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

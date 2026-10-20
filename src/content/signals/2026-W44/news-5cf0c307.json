@@ -1,0 +1,24 @@
+{
+  "id": "news-5cf0c307",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "kt",
+  "teams": [
+    "kt",
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1vYmZjSllTQTcyZVpHaGtaa2xEekNHc2VSTTZNR1RNeGthNWRSenNXcjA4MWQyemFmTEg1TG1PaHhQT3FTei1IZ1NYQ1loc2tSQlNuQTJJWi1ZU245YV9YdDJUNUxDQUZXQktVRGtTV3VKQ1dUQWMzelE4bklrQQ?oc=5",
+  "title": "34억원vs6억원. 감독 몸값이 28억 차이... '프로는 돈' 현실이된 부익부 빈익빈",
+  "published_at": "2026-10-20T01:53:29.000Z",
+  "collected_at": "2026-10-20T07:38:44.782Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 82,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

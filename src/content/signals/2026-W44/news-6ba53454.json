@@ -1,0 +1,31 @@
+{
+  "id": "news-6ba53454",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "lotte",
+  "teams": [
+    "lotte",
+    "nc",
+    "hanwha",
+    "doosan"
+  ],
+  "source_type": "news",
+  "source_name": "조선일보",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQ2k0cV9NUnRzdzd3ZlhfQ3FtMUlCV3ctcFhmQkhIWE90ZkRGN2t1eHgzNkVKSmxKYWtVQVlKMEg5TVFnMEt5OEtrVVhhR1BialBFWFlvb0xERTNGSnJKdXl0amVvTGtSRzlhMldVV05uRUJfNXctQUdIRldoNmN2aFdqTQ?oc=5",
+  "title": "꿈의 3000안타 1순위였는데…'롯데→NC→한화→두산' 저니맨 신세 된 안타기계, 경력 이어갈 팀 있을까",
+  "published_at": "2026-10-19T16:10:00.000Z",
+  "collected_at": "2026-10-20T07:38:44.782Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 78,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1TZjkxOWN0U1hGQksxektNeFNvNG1hTUlpUmtMNE9xZjRHVkQwSVZvTFd2YTRGcXAzYXFQVzNDNVFISkNWT2tpU3lQMklSQUhLRWw4bWRWaEx6SVVWOHJ5TEttOVp3dERQMGJHeDM0QdIBb0FVX3lxTE1TZjkxOWN0U1hGQksxektNeFNvNG1hTUlpUmtMNE9xZjRHVkQwSVZvTFd2YTRGcXAzYXFQVzNDNVFISkNWT2tpU3lQMklSQUhLRWw4bWRWaEx6SVVWOHJ5TEttOVp3dERQMGJHeDM0QQ?oc=5"
+    }
+  ]
+}

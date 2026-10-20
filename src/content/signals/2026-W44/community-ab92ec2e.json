@@ -1,0 +1,24 @@
+{
+  "id": "community-ab92ec2e",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "엠엘비파크",
+  "url": "https://mlbpark.donga.com/mp/b.php?id=202610200119549070&p=1&b=kbotown&m=view&select=spf&query=KBO&site=donga.com",
+  "title": "호세가 참교육 사건으로 MVP 후보에도 못 들었는데 당시에는 말이 ...",
+  "published_at": "2026-10-20T04:38:44.782Z",
+  "collected_at": "2026-10-20T07:38:44.782Z",
+  "summary_ko": "",
+  "excerpt": "... 이때 투표결과인데, 호세가 들어갔으면 최소한 결선투표는 갔을 것 같네요. ‍ ‍ LG 현재 순위와…",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

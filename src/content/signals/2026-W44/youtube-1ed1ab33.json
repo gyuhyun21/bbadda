@@ -1,0 +1,26 @@
+{
+  "id": "youtube-1ed1ab33",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "youtube",
+  "source_name": "큠플릭스",
+  "url": "https://www.youtube.com/watch?v=CQSLjkWetEg",
+  "title": "[숏플릭스]키움 데이비슨-히우라 둘다 재계약?",
+  "published_at": "2026-10-20T02:14:59Z",
+  "collected_at": "2026-10-20T07:38:44.782Z",
+  "summary_ko": "키움 관련 채널이 데이비슨과 히우라의 재계약 가능성을 다룬 쇼츠를 올렸다.",
+  "metrics": {
+    "views": 1062,
+    "likes": 7,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 45,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "community-4ff8a04f",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "엠엘비파크",
+  "url": "https://mlbpark.donga.com/mp/b.php?id=202610190119539956&p=121&b=kbotown&m=view&select=spf&query=LG&site=donga.com&pos=reply",
+  "title": "후배들이 훈련 덜하고 실수하고 우는게 꼴보기 싫었던 김현수.jpg",
+  "published_at": "2026-10-18T15:00:00.000Z",
+  "collected_at": "2026-10-20T07:38:44.782Z",
+  "summary_ko": "",
+  "excerpt": "... ... LG · 한화 · SSG · 삼성 · NC · kt · 롯데…",
+  "metrics": {},
+  "scores": {
+    "hot": 53,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

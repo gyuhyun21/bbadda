@@ -1,0 +1,23 @@
+{
+  "id": "news-982ab2dd",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "OSEN",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42QjRvdEJOQjlnWncyeEM0RmJlM00yS2FmRTBHN19CN3B5aUV4TS01d1RZNU5rVEE5VWhtQzQ3X3JWcTc2LVZFVE1IMmdCQ043YUZXOA?oc=5",
+  "title": "[6일 프리뷰] 연패 스토퍼 윌커슨, 스윕패 위기 극복할까",
+  "published_at": "2026-10-19T16:34:46.000Z",
+  "collected_at": "2026-10-20T07:38:44.782Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

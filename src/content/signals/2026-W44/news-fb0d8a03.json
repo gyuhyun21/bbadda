@@ -1,0 +1,29 @@
+{
+  "id": "news-fb0d8a03",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "더게이트",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Ya1czRldneVF3emtfR0ZGb0lpY1QzYXRfMjMzVFR6Nk1GTUgzbDVFc1VaVmlfU2dtVm05ZEs4SHR0QW9Rd04yR0ItR2J0SjFjYmJQYk1qVDlHaHNuMU1LX2tDakp5M2k4cnfSAWxBVV95cUxNMFJnclF1bXh1NGE1dS1iLTZ5UlY2c0wtLTNJSXU4bXFrVWNETGpWcjBWSGZWQUpPeU1sMUp0UXZGQmNoQ2ExWVR3MGtRa2drOXBlUVhxQjJsZmM5NHgyTDFlaTE1c08zMC1nSkE?oc=5",
+  "title": "최동원상은 외국인 투수 천하? 곽빈이 끝냈다…국가대표 에이스의 ‘국내 우완 최초’ 수상",
+  "published_at": "2026-10-19T10:55:55.000Z",
+  "collected_at": "2026-10-20T07:38:44.782Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 77,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "연합뉴스TV",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8wenVqUC15Qlp2UjlIRjBLVTVoYW1VNDFCTmFaVkdYeDR2X3BnWVBrdjMzb09ESUZoZjBnRTRBUEs1RS1JSVB0Vm1FZUhaWEFSLTFSUVlBY0NFM3hEQjhRYV9VdHNuN3M?oc=5"
+    }
+  ]
+}

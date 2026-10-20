@@ -1,0 +1,23 @@
+{
+  "id": "news-eca3d94d",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "lg",
+  "teams": [
+    "lg",
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "https://www.asportstv.kr/",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE84cXVyblJMYlVpa1E4QXhTMHMteEM1UGhmRVNVend1Y3FadFl6VzBXM2QwZkNOZk0yWHY1UFc1LTZ0NU1oTnpVcGRjSVlLSE1sczRBQXFhZGwwaFdKSG12ak0xZDJmS3Zz?oc=5",
+  "title": "[준플레이오프] 'LG전 ERA 7.71' 시라카와 vs 'KIA전 8.31' 카라스코",
+  "published_at": "2026-10-20T01:35:04.000Z",
+  "collected_at": "2026-10-20T07:38:44.782Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 82,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

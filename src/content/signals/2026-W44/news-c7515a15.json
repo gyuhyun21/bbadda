@@ -1,0 +1,29 @@
+{
+  "id": "news-c7515a15",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE82VTNpczZsNlNmcjlBRmZLb05Na2dydFd5OUhZY2RfTTNYTlFPXzJydUp0T1FLZDVpaGMwSFUyeHNfb3dBc0FRYkRSRkhaSEt2SFJsZ0hVZ3NxVXI2NGxBU3oxZXhRbndwY0k2WU11VdIBb0FVX3lxTE82VTNpczZsNlNmcjlBRmZLb05Na2dydFd5OUhZY2RfTTNYTlFPXzJydUp0T1FLZDVpaGMwSFUyeHNfb3dBc0FRYkRSRkhaSEt2SFJsZ0hVZ3NxVXI2NGxBU3oxZXhRbndwY0k2WU11VQ?oc=5",
+  "title": "'3년 24억 받고 7위-7위-7위' 김태형 재계약 가능성 있다고? 선택지 거론 자체가 현장서는 '의아'",
+  "published_at": "2026-10-19T21:29:00.000Z",
+  "collected_at": "2026-10-20T07:38:44.782Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 72,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0xWDhILW8weXNJTVNLMF8tZjk0RWVMQWsxTkdWZTBsclpSUW5tRE03Q3dGeTJNOFktVGNjTVJKdTZ2VUNGLVRRUEx5RVN5ZzRYbjZHSG5zV0dYWXg2WjhiT2tYY0NuU3RsLUdRSG5DeFhiTXo3eWc?oc=5"
+    }
+  ]
+}

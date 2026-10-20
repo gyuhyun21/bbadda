@@ -1,0 +1,23 @@
+{
+  "id": "community-a40246f5",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 오늘의쉼표",
+  "url": "https://blog.naver.com/grrinoa/224447478470",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/BLMgzD8tsfF",
+  "title": "페드로 아빌라 SSG 재계약, 14경기 9승 ERA 1.44인데 왜 다년계약인가",
+  "published_at": "2026-10-20T10:37:00.000+09:00",
+  "collected_at": "2026-10-20T07:38:44.782Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "news-bdf544dc",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "lg",
+  "teams": [
+    "lg",
+    "samsung",
+    "kia",
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "마이데일리",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE02LUpPbTlaaWlKOFRTc1BYX0VEaXl5TVFET2NhU2VHeGoyZkdBa1ZTWlVoSmlaUzB4VnA1SzFGRUd1dEFyckx0Y0ZZd0c5NXR5dVM1Y0NmWk9rbzFDRVdHYw?oc=5",
+  "title": "김도영이 또? 오늘밤, 어쩌면 잠실구장은 문을 닫는다…KBO리그 45년 역사에 남는 경기일까",
+  "published_at": "2026-10-20T04:00:00.000Z",
+  "collected_at": "2026-10-20T07:38:44.782Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 99,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

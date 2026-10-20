@@ -1,0 +1,23 @@
+{
+  "id": "news-382b876a",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "SPOTV NEWS",
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE03WGxCUUsxcE1BYXBnX2RiZVo2TGhRUHdHVXlDNGxxZnl4bVU1cERXSC1UeGY0Y1ZhVHhVbW5WR3FlZDdKN1BmbUtfX2RjYTFyU1JmaTBLalh3U0pmTzNMY3M1WE5oM08zSWUyTjNmS1c?oc=5",
+  "title": "구자욱 PO서 전격 복귀? 햄스트링 괜찮나, 벌써 경기 뛰었다!…안타+볼넷 '멀티 출루'",
+  "published_at": "2026-10-19T22:29:00.000Z",
+  "collected_at": "2026-10-20T07:38:44.782Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

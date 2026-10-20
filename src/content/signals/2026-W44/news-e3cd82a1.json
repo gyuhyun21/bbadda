@@ -1,0 +1,32 @@
+{
+  "id": "news-e3cd82a1",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBrYjNSdjgxRDlzMHhtSERDd2JSc3FCczh2dU1FcGs4enZuUTdZaEs0UjMzb21pX2R6N2hrRDNpS3A0WWQ1RG9DdHQwT0RnRmg4amFWUEx3NUdYamlIaWIza0M0cnRHcUJZLWx0eFUyNNIBb0FVX3lxTFBrYjNSdjgxRDlzMHhtSERDd2JSc3FCczh2dU1FcGs4enZuUTdZaEs0UjMzb21pX2R6N2hrRDNpS3A0WWQ1RG9DdHQwT0RnRmg4amFWUEx3NUdYamlIaWIza0M0cnRHcUJZLWx0eFUyNA?oc=5",
+  "title": "“걱정 많았는데 생각보다 괜찮다” 햄스트링 부상 털고 돌아온 삼성 캡틴의 한마디, 가을야구 희망이 다시 피어났다 [오!쎈 대구]",
+  "published_at": "2026-10-19T15:10:00.000Z",
+  "collected_at": "2026-10-20T07:38:44.782Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 86,
+    "relevance": 70
+  },
+  "sentiment": "negative",
+  "also_in": [
+    {
+      "source_name": "Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZ25HaFducHNkUkpPVElOS1JrVHFtTGx4d3VDOC1EZ1p5WWppN0JqM2o4QnJ1VTF2Y3JqNTNfdW5MRVQ5VXVERExkOHFVQXRuSjdxRk5sTXRZYnJxTFVackt4QXYxdllLOER1dk1xNlFZTjdyenhMdjRfZXhVT25WWUU3M28wVHg3TkxtWVB4STVfOFBYZkZZ0gGXAUFVX3lxTE1nbkdoV25wc2RSSk9USU5LUmtUcW1MbHh3dUM4LURnWnlZamk3QmozajhCcnVVMXZjcmo1M191bkxFVDlVdURETGQ4cVVBdG5KN3FGTmxNdFlicnFMVVpyS3hBdjF2WUs4RHV2TXE2UVlON3J6eEx2NF9leFVPblZZRTczbzBUeDdOTG1ZUHhJNV84UFhmRlk?oc=5"
+    },
+    {
+      "source_name": "OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9rdVlGMkNyRTBhMEZtU1hYdHZ4ZTVfSGI5dmVXSXA4dWN0QmlINERmTmd0T2pxNk52bTYtQXJaeUFiYk51SjJrbGlhMFpNdnhxNkJGMA?oc=5"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "news-f94b578e",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "진일보 | 전남일보",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5NcGpjQ2pzRzRxeWY5TkVkRm1BOVAzUERxOThaWVI3c1BSbDRoMEhpYVM1NlRYdWpMbGktazVDSGExN3hIQlNQRHFnLXNWVXhGRGZJWHJQTGhUU3d6VGpDREhhOHZpZmRnTWF6T2VIYw?oc=5",
+  "title": "KIA가 이기면 잠실구장도 마지막…오늘 준PO 3차전",
+  "published_at": "2026-10-20T05:22:23.000Z",
+  "collected_at": "2026-10-20T07:38:44.782Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 83,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

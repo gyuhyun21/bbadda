@@ -1,0 +1,30 @@
+{
+  "id": "community-d64be5b2",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&document_srl=10464838358",
+  "title": "손아섭 재취업, 방망이만으로는 어렵다 '엔트리 한 자리' 걸 리더십 있나 ...",
+  "published_at": "2026-10-20T00:38:44.782Z",
+  "collected_at": "2026-10-20T07:38:44.782Z",
+  "summary_ko": "",
+  "excerpt": "... 6 분 전 자유 최강기아타이거즈 조회18. Walk · 메사 주니어의 볼넷 출루로 주자를 쌓는…",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "MHN스포츠",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1jbndaR2VTZGJ2bHkwand1cWxab2s2dlVBMklpMnRqazJmMnZTSFNVbUdUakZUaTFCQXBHZ1UxMC1JbDNzLWtYMU9IbnZReHJRTzJiLUZJVm9jc2hfZFdSejVoRQ?oc=5"
+    }
+  ]
+}

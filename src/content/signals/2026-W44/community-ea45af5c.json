@@ -1,0 +1,23 @@
+{
+  "id": "community-ea45af5c",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 핫스토리박스 (Hot Story Box)",
+  "url": "https://blog.naver.com/hotstorybox/224447765493",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/JbaE2fF4dpk",
+  "title": "손아섭 두산 방출 - 2,655안타 베테랑의 재계약 불가 통보 배경과 향후 거취 전망",
+  "published_at": "2026-10-20T15:27:00.000+09:00",
+  "collected_at": "2026-10-20T07:38:44.782Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

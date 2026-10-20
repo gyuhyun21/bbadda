@@ -1,0 +1,27 @@
+{
+  "id": "youtube-f1f15a1f",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "Eagles TV",
+  "url": "https://www.youtube.com/watch?v=UTgPKkTjTII",
+  "title": "류지현 감독이 말하는 수비 잘하는 사람 특",
+  "published_at": "2026-10-20T00:00:16Z",
+  "collected_at": "2026-10-20T07:38:44.782Z",
+  "summary_ko": "한화 공식 채널이 류지현 감독이 말하는 수비 잘하는 선수의 특징 영상을 올렸다.",
+  "metrics": {
+    "views": 43962,
+    "likes": 993,
+    "comments": 77
+  },
+  "scores": {
+    "hot": 79,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

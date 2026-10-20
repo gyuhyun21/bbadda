@@ -1,0 +1,28 @@
+{
+  "id": "community-8b402942",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 어쩌다,스포츠 한 스푼",
+  "url": "https://blog.naver.com/drjhy1982/224447528959",
+  "title": "'안타 기계' 손아섭의 충격적인 두산 방출, KBO 전설은 이대로 은퇴 기로에 서나",
+  "published_at": "2026-10-20T11:55:00.000+09:00",
+  "collected_at": "2026-10-20T07:38:44.782Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "negative",
+  "also_in": [
+    {
+      "source_name": "마니아타임즈",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9zNU5MNGliN2hxV2JXc2o3Skh1cHRrSDRsaW5XeENxclBpejFPUHlGd3hkYW1Zdmw1THVEdTZBVENPNDdPVzdBQ0dDZ29hV2NBdzdnVnd6ZGVscEdZUkZoVXpnRWdWbzVmbDNxY3NiR3pkVUdNQXRpLWNBdw?oc=5"
+    }
+  ]
+}

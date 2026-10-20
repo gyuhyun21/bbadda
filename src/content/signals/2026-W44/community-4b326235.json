@@ -1,0 +1,24 @@
+{
+  "id": "community-4b326235",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&page=4&document_srl=10465543413",
+  "title": "요즘 좆기 에프킬라 홈메트 이런거도 소용이없네 - 야구",
+  "published_at": "2026-10-20T05:38:44.782Z",
+  "collected_at": "2026-10-20T07:38:44.782Z",
+  "summary_ko": "",
+  "excerpt": "... 롯데자이언츠 8 분 전. 홈매트도 뚫으면 ㅅㅂ. 1. [레벨:31] 소한빈 5 분 전. 롯데자이언츠…",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "news-fdbcb7e7",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "news",
+  "source_name": "연합뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9VMzdxSTBuVkZLRks4eWZuZXY5SHRCQTR3bmNTSEhQX0xkMThKSDJwNEt4UExHM1pwVnRYeUVlUm9tRmJHem9Md2Zqd0s5dmk0MFhldlR5R0V4Mk5jMkJ1Z9IBYEFVX3lxTE9VMzdxSTBuVkZLRks4eWZuZXY5SHRCQTR3bmNTSEhQX0xkMThKSDJwNEt4UExHM1pwVnRYeUVlUm9tRmJHem9Md2Zqd0s5dmk0MFhldlR5R0V4Mk5jMkJ1Zw?oc=5",
+  "title": "'화수분' 일군 김태룡 전 두산 단장 \"책장 한 장 넘길 때\"",
+  "published_at": "2026-10-20T05:10:13.000Z",
+  "collected_at": "2026-10-20T07:38:44.782Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

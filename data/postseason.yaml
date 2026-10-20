@@ -65,6 +65,8 @@ rounds:
         venue: { home_of: wc }
         starters: { lg: 카라스코, kia: 시라카와 } # 예고 선발
         starter_notes: { lg: "WC 1차전 6이닝 1실점 승", kia: "올해 LG전 1패 · ERA 7.71" }
+        ig:
+          pre: { hook: "LG, 오늘 지면 끝", sub: "1·2차전 이긴 팀 PO 진출 확률 78%" }
         facts:
           - "준PO 1·2차전 승리 팀 PO 진출 확률 78%"
           - "KIA 1승 더하면 2년 만의 PO 진출"

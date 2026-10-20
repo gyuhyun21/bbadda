@@ -1,0 +1,23 @@
+{
+  "id": "news-9a1dde88",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠경향",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5EdEZMWHFDODROQ0RDa3dhbEZ2Vm5IQ2hnVVlCSWN4ZzI0VVpVTklXVXRTZnZSTTB3R20xSHVNLVFqVi1DU04zQzhhY2F3SlVyeU8zZG9sUmVTMy1yWHU2WHQxY9IBY0FVX3lxTE5EdEZMWHFDODROQ0RDa3dhbEZ2Vm5IQ2hnVVlCSWN4ZzI0VVpVTklXVXRTZnZSTTB3R20xSHVNLVFqVi1DU04zQzhhY2F3SlVyeU8zZG9sUmVTMy1yWHU2WHQxYw?oc=5",
+  "title": "AG에서 APBC까지···최원호 감독의 KBO 미래 마운드 ‘연속성 만들기’",
+  "published_at": "2026-10-20T03:52:00.000Z",
+  "collected_at": "2026-10-20T07:38:44.782Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

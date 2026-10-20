@@ -1,0 +1,24 @@
+{
+  "id": "youtube-c927a6f6",
+  "issue": "2026-W44",
+  "module": "league",
+  "teams": [],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=8wK4lbHCDpc",
+  "title": "어깨·팔꿈치 부상, 팔만의 문제일까? | 운동사슬 1편 | 의무위원회",
+  "published_at": "2026-10-20T06:34:34Z",
+  "collected_at": "2026-10-20T07:38:44.782Z",
+  "summary_ko": "KBO 공식 채널이 의무위원회의 운동사슬 1편으로 어깨·팔꿈치 부상을 다뤘다.",
+  "metrics": {
+    "views": 80,
+    "likes": 9,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 65,
+    "relevance": 30
+  },
+  "sentiment": "negative"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "news-8ffa83f8",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "영남일보",
+  "url": "https://www.yeongnam.com/web/view.php?key=20261020029365463",
+  "title": "‘정규시즌 35세이브’ 삼성 라이온즈 김재윤... “가을야구 끝까지 집중력 유지할 것”",
+  "published_at": "2026-10-20T00:50:43.000Z",
+  "collected_at": "2026-10-20T07:38:44.782Z",
+  "summary_ko": "영남일보는 정규시즌 35세이브를 올린 삼성 김재윤이 가을야구에서 끝까지 집중력을 유지하겠다고 말했다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

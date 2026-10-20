@@ -1,0 +1,22 @@
+{
+  "id": "news-cdf74384",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "news",
+  "source_name": "한스경제",
+  "url": "https://www.hansbiz.co.kr/news/articleView.html?idxno=874263",
+  "title": "프로야구 SSG, '최광야구 1429' 만원 관중 앞 성공리에 마쳐",
+  "published_at": "2026-10-19T11:05:20.000Z",
+  "collected_at": "2026-10-20T07:38:44.782Z",
+  "summary_ko": "한스경제는 SSG의 '최광야구 1429' 행사가 만원 관중 앞에서 마무리됐다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 61,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

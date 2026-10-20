@@ -1,0 +1,24 @@
+{
+  "id": "news-d7d3c00e",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "한겨레",
+  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE16NmJ5eXJGd0xQT1VLbG9iUEg1YWJwc1IzRFo5UG9tMTFDVVF6X2ZfYU9fTldjNVVVWDJEMGJsY1YzOHg0TXB0QTlaclFDV2tVTEhZRFlJNmdDVFA5VWI3ZlNwM3hrUlE?oc=5",
+  "title": "호랑이의 끝내기냐, 쌍둥이의 반격이냐…준PO 3차전 시라카와 vs 카라스코",
+  "published_at": "2026-10-19T09:43:00.000Z",
+  "collected_at": "2026-10-20T07:38:44.782Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

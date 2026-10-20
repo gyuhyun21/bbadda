@@ -1,0 +1,23 @@
+{
+  "id": "news-8eee77f0",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "톱스타뉴스",
+  "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA0Y2lCRHZvdWV2bnpyWVBBRG4zaTJYdUpRMGNoT0I1X1puS2MwM3h2NzhrWDNzR2J3dzM5YjA1Vzc3NlpOMmRvVlZ4THFUa2tnZFVONG9EelJXNUdoSTV6Qlk5NzQ5SnhqVDl3Y29sMGRsdw?oc=5",
+  "title": "‘화수분 야구’ 세운 김태룡, 잠실과 함께 단장 자리 내려놨다",
+  "published_at": "2026-10-20T05:22:12.000Z",
+  "collected_at": "2026-10-20T07:38:44.782Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

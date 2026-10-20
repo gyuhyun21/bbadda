@@ -1,0 +1,24 @@
+{
+  "id": "community-6f5d1a94",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&page=5&document_srl=10465823517",
+  "title": "아 모르겠다 김상수 사자! - 야구",
+  "published_at": "2026-10-20T07:08:44.782Z",
+  "collected_at": "2026-10-20T07:38:44.782Z",
+  "summary_ko": "",
+  "excerpt": "... 아아 오늘이 LG 트윈스 환희의 10연승 열차가 출발하는 기념비적인 날인가? 선발싸움에서 우위만 점하면 엘지도…",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

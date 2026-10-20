@@ -1,0 +1,45 @@
+{
+  "id": "community-b401bcc8",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 baseball reference",
+  "url": "https://blog.naver.com/r9644328/224447817093",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/IxcnXrgcA7Z",
+  "title": "KT 힐리어드, 퇴출 위기 딛고 KBO 새 역사…외국인 최초 월간 MVP 2회 달성",
+  "published_at": "2026-10-20T15:37:00.000+09:00",
+  "collected_at": "2026-10-20T07:38:44.782Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 100,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1rb3JYM2ZOT1M0cXVjNE1ZZW1vdDhoQmVIT0pNNmVpRGg0UzhFSXdvVkJBOFNvNDNVMGFGMzlKejJjV01tN2xPelZPMGFCTDZLV3BldDE5TVBrMVnSAWBBVV95cUxQNEVjTEhNUGYyQVZyRnpEd3FaNExqaWpTTjhMQy02bFZ1bkdkaEZVZER6aEF1NHFIZ1h6UEwzRVQ4cGhQMDlyeXpNQjBIdDdCT0oyQTdKM20yUWRCNzlUT2I?oc=5"
+    },
+    {
+      "source_name": "https://www.2news.co.kr/",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9EeldpZ0I2X1JFYnQtRHcyYWRyenZqMl9HOFk2UHNndXhmVkI4dndzTncxN2ZzOF9ORGljeFVVVHBoQ2h2blE1NlpmQ1luaVhxM1R6NU9PbGtaRHBrbjJxeEVsWllDZzRT?oc=5"
+    },
+    {
+      "source_name": "스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBLN1M4enY2V0VmR3Z5aHAzOUtKSzR3T3FvTzBjYjVYZ0E1Uk1DV3VfYXphZUJ4QWxsQTUwUVBoWElEd2FUdk1qMHJSbFMyRnJueUcydzhBS01ySFFEXzlXUDdrdVdLRk1OT0FJYUFHU3JHNE5MaEE?oc=5"
+    },
+    {
+      "source_name": "이데일리",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNd09yZV9qMUVCLV9kVTlzUERCWjNiVDd6Yjh2WTJpbDVFTDZUOW1qTkxaOUhNZDlyUUMtd0wtX1NfTDZFanJjcG5rdWNfNUl4MzhfaW0xUmc4a0tlY3BGYXpMdmlqLXBtT0JodnlKZzVDVlA0SkdGb1oyVGJDS0luRA?oc=5"
+    },
+    {
+      "source_name": "스포츠월드",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5GelVpcDQ3em8zU2JzWHllMTRIUHlmSVN5Q09PeG9UdUNIRTlyYzhDa1FMb1JIRVlGZllnQ2xRdzNBckFra0dabFMyMXRVTTJncEVwYjZTWmxESkFBcFhzR0h3?oc=5"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "community-07468820",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 세상 돌아가는 이야기",
+  "url": "https://blog.naver.com/kch7055/224447828115",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/Hj2vkm6mQVu",
+  "title": "KIA 네일, 송찬의 홈런에도 흔들림 없었던 이유는 무엇이었을까?",
+  "published_at": "2026-10-20T15:46:00.000+09:00",
+  "collected_at": "2026-10-20T07:38:44.782Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

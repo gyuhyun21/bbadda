@@ -1,0 +1,29 @@
+{
+  "id": "news-72d2020f",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "news",
+  "announcement": true,
+  "source_name": "MHN스포츠",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5ZVEp6RkVJR3B0bm1fNC01bV9CbFRlNUkzS1ZZVm5RNXBRMVEyQ2ZTeUd4VzQtcTdyQmFyYmh5QTl4TTZQM0MwejBTOWpGZnZfUlhFeWFlSVRCakNoaXFTRWV4UQ?oc=5",
+  "title": "[오피셜] KT 힐리어드, ‘외국인 최초’ 시즌 두 번째 월간 MVP 선정…아빌라 팬 투표로 제쳤다",
+  "published_at": "2026-10-20T05:52:38.000Z",
+  "collected_at": "2026-10-20T07:38:44.782Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 83,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "스포츠경향",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA1bHhvZk1DNkZIX3BDaUpyMWRXT3R2UkN6UFNGbFliMWZEeDRDR2Fzc0hvai1HVV9veUU4bmtRNG5fM1d4TjZEOXFHdE40Ujc2Qm1IU3BJeTNfdDNLT1llaU5za9IBY0FVX3lxTFA1bHhvZk1DNkZIX3BDaUpyMWRXT3R2UkN6UFNGbFliMWZEeDRDR2Fzc0hvai1HVV9veUU4bmtRNG5fM1d4TjZEOXFHdE40Ujc2Qm1IU3BJeTNfdDNLT1llaU5zaw?oc=5"
+    }
+  ]
+}

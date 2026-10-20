@@ -1,0 +1,22 @@
+{
+  "id": "news-17f40bf7",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "일간스포츠",
+  "url": "http://isplus.joins.com/article/view/isp202610200150",
+  "title": "\"결국은 타선, 2번이 고민\" 시즌 2호 오지환 2번 카드 꺼낸 2패 LG [IS 잠실]",
+  "published_at": "2026-10-20T07:33:00.000Z",
+  "collected_at": "2026-10-20T07:38:44.782Z",
+  "summary_ko": "일간스포츠에 따르면 LG 염경엽 감독은 2패 뒤 타선 고민 끝에 오지환을 시즌 두 번째로 2번에 기용했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 92,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

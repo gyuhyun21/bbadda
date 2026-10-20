@@ -1,0 +1,28 @@
+{
+  "id": "news-0b46a2c2",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "OSEN",
+  "url": "https://www.osen.co.kr/article/G1112895403",
+  "title": "'패배하면 탈락' 벼랑 끝이다...LG 파격 라인업, 우익수 문성주-2번 오지환-4번 송찬의, 선발투수 카라스코 [준PO3]",
+  "published_at": "2026-10-20T07:00:00.000Z",
+  "collected_at": "2026-10-20T07:38:44.782Z",
+  "summary_ko": "OSEN은 벼랑 끝에 선 LG가 3차전에 문성주를 우익수, 오지환을 2번, 송찬의를 4번에 세우는 라인업을 냈다고 전했다. 선발은 카라스코다.",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "negative",
+  "also_in": [
+    {
+      "source_name": "일간스포츠",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9yNXNmd0pWZWp1NktrZXMxLXJhc1RONHFzSHd4T2VaYXFUN3Jwa25MVWNvN3RTVGkyckppRHhxUDZKcGZSN09KLXdXWXB5bFRIWmx2Rm1pYUQxWWdNUERzOVFB?oc=5"
+    }
+  ]
+}

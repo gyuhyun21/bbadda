@@ -1,0 +1,22 @@
+{
+  "id": "news-cd820047",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "Tbc.co.kr",
+  "url": "https://www.tbc.co.kr/news/view?c1=&c2=&pno=20261019150431AE07081&id=212339",
+  "title": "삼성라이온즈, 2027 시즌 미계약 선수 10명 발표",
+  "published_at": "2026-10-20T01:46:18.000Z",
+  "collected_at": "2026-10-20T07:38:44.782Z",
+  "summary_ko": "TBC는 삼성이 2027시즌 미계약 선수 10명을 발표했다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

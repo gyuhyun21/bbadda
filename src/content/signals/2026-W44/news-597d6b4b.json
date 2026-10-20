@@ -1,0 +1,28 @@
+{
+  "id": "news-597d6b4b",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5TdkNkWTVXNlBLUVR3TmNLaDNXZkZfRXNYSVpMOFcwanBlTnF2RnExRmhJYUU2amc1REJMdFIzbDYyTUdCYl8zRTB3WkpieTVONmpPZzZwdi1VWGVXVllBQ0FfSUhKUG9FVlFUQTNpd9IBb0FVX3lxTE5TdkNkWTVXNlBLUVR3TmNLaDNXZkZfRXNYSVpMOFcwanBlTnF2RnExRmhJYUU2amc1REJMdFIzbDYyTUdCYl8zRTB3WkpieTVONmpPZzZwdi1VWGVXVllBQ0FfSUhKUG9FVlFUQTNpdw?oc=5",
+  "title": "KIA 대구로 이끌까? AQ 최초로 가을선발 등판, 책임감 느끼는 시라카와 투지 \"쫄지 않고 보여주겠다\"",
+  "published_at": "2026-10-19T15:40:00.000Z",
+  "collected_at": "2026-10-20T07:38:44.782Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 86,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORE0zMGNNYk1XWmYtSDRCOGJrMlJlZEx2bTJpMVd6cUFFSG1PUElDUk00N2V1TFM4RlBQaW5aak1rOWlPdHdXT0swZXJBTXNXdWpjSGtXcmg3V01TRk54elQxTkMtc05CV2NMUkxycHZfRWRFUDRxM2RZaHN5QmxVaWdaaw?oc=5"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "news-9bdac9b5",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE43cUJ6WThUY2pyWHBwQ0lhYlljWXhNTkxFMXFnMElETlRPZnJEMjlmRTR2akJJNU55WVFmdGVPQ19vM0ZWcUduMVFjUG1oQ2Fwa1RZQnVUV0l3X2RwYkhQZ0x0bnJjemtvMm1Sc1NQMNIBb0FVX3lxTE43cUJ6WThUY2pyWHBwQ0lhYlljWXhNTkxFMXFnMElETlRPZnJEMjlmRTR2akJJNU55WVFmdGVPQ19vM0ZWcUduMVFjUG1oQ2Fwa1RZQnVUV0l3X2RwYkhQZ0x0bnJjemtvMm1Sc1NQMA?oc=5",
+  "title": "ML 112승→KBO 와서 생애 첫 ‘가을야구’ 승리...39세 베테랑, LG 시즌 마지막 경기 위기 막아낼까",
+  "published_at": "2026-10-19T22:43:00.000Z",
+  "collected_at": "2026-10-20T07:38:44.782Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 97,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "미주중앙일보",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5uMzNnN2E0R2hqc3pkRDRQQ1cwZjRTZG1ZMHRpVE1QMlljV1pYYnpPOFpwWW1KNmxfemZCVG9zOVVJT2FNZWtZQXVpTjlmczFLbFB0SXJuVF9aTE82a2t0RzlR?oc=5"
+    },
+    {
+      "source_name": "OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE51QzRDSEl2UnI2WnNTSThkcVhfdXNHSnZFTXBac0V1NlllUkNiRnB2ODhGRDVPVlhsMmR3aFF5S294X0hXcjdUdEJpNDU4dTJYYkJ0Yg?oc=5"
+    },
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZV9hOHN3bWN1TzFndkREaDNaUGlWXzRzdnFSTnBERzVhTjJDZTF6TEdaZWdFdWhIOGFNSERENl9MN1p2TENtT0JEWWdjWUxaS0I3ZzhYTlJ2a0xhSmhqUktSRnJPQVJrS2VqSkdtMEpMVDk4MUpiV2kyZmd6YmVfZ3BIZw?oc=5"
+    }
+  ]
+}

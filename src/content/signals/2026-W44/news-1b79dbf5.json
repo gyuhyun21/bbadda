@@ -1,0 +1,33 @@
+{
+  "id": "news-1b79dbf5",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9RXy1DekpLTmJKOTVYUUhkU2g0M21wcmRGRmZGMm02dEkwdFhpZEJTSzFNM21DOGVBMGJXQktrdTZQN3ZfbnF1WmsxX2V0UFJ2a0FWYUF4N2JkVzMyWDBUVVlMdlRQb1k5ZVA2eFdwNNIBb0FVX3lxTE9RXy1DekpLTmJKOTVYUUhkU2g0M21wcmRGRmZGMm02dEkwdFhpZEJTSzFNM21DOGVBMGJXQktrdTZQN3ZfbnF1WmsxX2V0UFJ2a0FWYUF4N2JkVzMyWDBUVVlMdlRQb1k5ZVA2eFdwNA?oc=5",
+  "title": "'전상현 연이틀 4아웃 SV' 2연승 KIA도 불안감 있다... '7⅔이닝 1실점' LG 불펜이 찾은 반격의 실마리 [준PO3]",
+  "published_at": "2026-10-19T23:01:00.000Z",
+  "collected_at": "2026-10-20T07:38:44.782Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 97,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9KclFMNnFIUnF6YWZHVldBR3BvbElFNW1fZGpnQnNMVFp1YlNlOXRzT3EtbUpVY1N6MmZ1TjUwTFVtWlEycVhmbm9CWmpVWm5OX3gzRUw4SkhQV0lFbWdBS1ZFYU9ZNEZiUHMzcHBkQlZTV1V3Umc?oc=5"
+    },
+    {
+      "source_name": "재경일보",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1RTnNzVGtjc29Hb0hZODBWUlpCQ2g5N3hvblFhLTlNSG5KemsxZEJnVnFBOXlfckJIZnRtWE9nVlN5OXJHX2UyTmpDUQ?oc=5"
+    }
+  ]
+}

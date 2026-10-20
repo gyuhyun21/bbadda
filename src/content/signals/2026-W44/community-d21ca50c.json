@@ -1,0 +1,23 @@
+{
+  "id": "community-d21ca50c",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 러니윤의 비비드라이프",
+  "url": "https://blog.naver.com/nan0709/224447634337",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/GpM6zWvDOBZ",
+  "title": "“20억 투자했는데 어쩌나” KIA 좌완 불펜 비상…곽도규 흔들리자 김범수에게 쏠리는 시선",
+  "published_at": "2026-10-20T13:11:00.000+09:00",
+  "collected_at": "2026-10-20T07:38:44.782Z",
+  "summary_ko": "한 블로그는 곽도규가 흔들리면서 KIA 좌완 불펜에서 김범수에게 시선이 쏠린다고 짚었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "community-e7ed9d5a",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 하니의 소소한 하루",
+  "url": "https://blog.naver.com/minjosuk2/224447308519",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/CmKZA6akVva",
+  "title": "클리블랜드의 심장으로 돌아온 추신수 메이저리그 챔피언십시리즈 시구가 남긴 깊은 울림",
+  "published_at": "2026-10-20T07:13:00.000+09:00",
+  "collected_at": "2026-10-20T07:38:44.782Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

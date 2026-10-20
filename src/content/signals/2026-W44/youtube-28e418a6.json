@@ -1,0 +1,26 @@
+{
+  "id": "youtube-28e418a6",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "광주CBS",
+  "url": "https://www.youtube.com/watch?v=j_AGTbWwsv8",
+  "title": "한국시리즈 12승, KIA의 미친 비결 #기아타이거즈 #lg트윈스 #야구 #한국시리즈 #야구분석",
+  "published_at": "2026-10-20T07:30:33Z",
+  "collected_at": "2026-10-20T07:38:44.782Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 148,
+    "likes": 3,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 44,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

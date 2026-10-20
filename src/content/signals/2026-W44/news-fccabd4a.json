@@ -1,0 +1,29 @@
+{
+  "id": "news-fccabd4a",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "연합뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9KanJVWF9DLW1GLV9tajJGQ3ZaV0wwMWN0SVVYVE9aNlEyX0hJN2pBRTRwS3piUWlQQUJCWS1IbHpuYktKVmFTYWV5Y3FaQ1dEYnlDcV9yYmp0cknSAWBBVV95cUxQV0dnWjloRHZVRGFOWGRXZFNtQXZxYXgtT0RoUnUzeDhUSktxZnNkSlhycHhMSnppTFNCVVVKSktCcXN1eU4zUzBlX3FMYkhQVHBYM1BJbEIxelZRVWNwUEs?oc=5",
+  "title": "최원호 감독, 한국 야구대표팀 사령탑 선임…내달 APBC 지휘",
+  "published_at": "2026-10-19T07:47:15.000Z",
+  "collected_at": "2026-10-20T07:38:44.782Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "재경일보",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9TVWlFYWI0MFl1RUprb3oyVXNpQU56RGd3UkVSTE41Nk1UYjU2aXltaF84c2FwX0RDWlJYdk8tWjY5dlYwZUFZWTIyOA?oc=5"
+    }
+  ]
+}

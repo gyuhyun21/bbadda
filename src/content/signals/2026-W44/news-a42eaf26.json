@@ -1,0 +1,22 @@
+{
+  "id": "news-a42eaf26",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠경향",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE80VjhtaTE1cGlxcHBLVVVIbDhXaDhxeEFKUVlSbnZWNnFNdmRYcWpwZE8yaVJsTHMxVThrTHRNRkt1RzAtbzczQVE1WjNXZFllZnFObktZNVVqcGxROC1Oa2U3VdIBY0FVX3lxTE80VjhtaTE1cGlxcHBLVVVIbDhXaDhxeEFKUVlSbnZWNnFNdmRYcWpwZE8yaVJsTHMxVThrTHRNRkt1RzAtbzczQVE1WjNXZFllZnFObktZNVVqcGxROC1Oa2U3VQ?oc=5",
+  "title": "6년 기다린 삼성 이재희, 첫 PS 조준 “가을야구, 더는 관중석에서 보기 싫다”",
+  "published_at": "2026-10-19T20:00:00.000Z",
+  "collected_at": "2026-10-20T07:38:44.782Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-c5521b7f",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "뉴스1",
+  "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5uYzdmLVFzcHhwaGRNYldFWS00WDUwcTFRdTRLZ09wNWtqMmVOcGV3TFg2aDVhdFhSLTllSTNRa0FfQXl3WGkxbFBiMA?oc=5",
+  "title": "질문에 답하는 염경엽 감독",
+  "published_at": "2026-10-20T07:15:44.000Z",
+  "collected_at": "2026-10-20T07:38:44.782Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

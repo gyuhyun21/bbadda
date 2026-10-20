@@ -1,0 +1,22 @@
+{
+  "id": "news-d0234ff9",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "news",
+  "source_name": "MHN스포츠",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5MclJXWWdJc3FvQkh4RG41SEtmX2pUamVWbFA2dTByb2hVLU1MOWdTM2MtRzd0aVAyN01IQ0Zoc1UxTHRkOVVxZm9wUU9DYVJjc1didFhUU3VXbFA0ekFjZU9sdw?oc=5",
+  "title": "\"고마해라, 마이 무따 아이가”…통산 ‘2655안타’ 손아섭, 두산서 아쉬운 방출",
+  "published_at": "2026-10-20T00:26:50.000Z",
+  "collected_at": "2026-10-20T07:38:44.782Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

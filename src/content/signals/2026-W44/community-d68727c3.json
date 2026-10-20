@@ -1,0 +1,24 @@
+{
+  "id": "community-d68727c3",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "엠엘비파크",
+  "url": "https://mlbpark.donga.com/mp/b.php?id=202610190119542449&p=121&b=kbotown&m=view&select=spf&query=LG&site=donga.com&pos=reply",
+  "title": "근데 프로 선수중에 훈련을 안해서 기량이 떨어지는 사람이 ...",
+  "published_at": "2026-10-18T15:00:00.000Z",
+  "collected_at": "2026-10-20T07:38:44.782Z",
+  "summary_ko": "",
+  "excerpt": "... ... SSG · 삼성 · NC · kt · 롯데 · KIA · 두산…",
+  "metrics": {},
+  "scores": {
+    "hot": 53,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}
