@@ -1,0 +1,24 @@
+{
+  "id": "community-38dc6f15",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan",
+    "lotte"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 퍼팩트 스포츠 뉴스 알림",
+  "url": "https://blog.naver.com/dkdk521/224447691770",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/B8qZxut9tuV",
+  "title": "2655안타 손아섭 두산 방출, 롯데 복귀설 나온 진짜 이유",
+  "published_at": "2026-10-20T19:00:00.000+09:00",
+  "collected_at": "2026-10-20T13:40:20.145Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "mixed"
+}

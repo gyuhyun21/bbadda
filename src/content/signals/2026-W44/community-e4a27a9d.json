@@ -1,0 +1,24 @@
+{
+  "id": "community-e4a27a9d",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "엠엘비파크",
+  "url": "https://mlbpark.donga.com/mp/b.php?id=202610200119562840&p=1&b=kbotown&m=view&select=spf&query=KBO&site=donga.com",
+  "title": "일본 독립야구 수준이...",
+  "published_at": "2026-10-19T15:00:00.000Z",
+  "collected_at": "2026-10-20T13:40:20.145Z",
+  "summary_ko": "",
+  "excerpt": "... 18:30 잠실 6회말. KIA. 9. LG 홈. 0. 전력기록 · 포스트시즌 대진 · KBO일본…",
+  "metrics": {},
+  "scores": {
+    "hot": 60,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

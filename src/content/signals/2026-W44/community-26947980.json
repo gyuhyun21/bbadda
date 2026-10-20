@@ -1,0 +1,24 @@
+{
+  "id": "community-26947980",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "엠엘비파크",
+  "url": "https://mlbpark.donga.com/mp/b.php?id=202610190119531061&p=91&b=kbotown&m=view&select=spf&query=%EC%82%BC%EC%84%B1&site=donga.com&pos=reply",
+  "title": "10명 방출ㄷㄷㄷㄷㄷㄷ",
+  "published_at": "2026-10-18T15:00:00.000Z",
+  "collected_at": "2026-10-20T13:40:20.145Z",
+  "summary_ko": "",
+  "excerpt": "... 삼성 라이온즈는 다음 시즌 재계약하지 않기로 한 선수 명단을 발표했다. 우선 투수진에선 양 현,…",
+  "metrics": {},
+  "scores": {
+    "hot": 51,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

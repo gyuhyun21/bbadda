@@ -1,0 +1,28 @@
+{
+  "id": "youtube-ef6c2f23",
+  "issue": "2026-W44",
+  "module": "league",
+  "teams": [
+    "kia",
+    "lg"
+  ],
+  "team": "kia",
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=MlmxjEnFv4U",
+  "title": "NCT 지성의 힘찬 시구! 잠실에서 준플레이오프 3차전이 시작됩니다 | 준PO3_KIA vs LG | 10.20 | 크보모먼트 | KBO 야구 하이라이트",
+  "published_at": "2026-10-20T09:52:07Z",
+  "collected_at": "2026-10-20T13:40:20.145Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 6397,
+    "likes": 67,
+    "comments": 27
+  },
+  "scores": {
+    "hot": 59,
+    "relevance": 80
+  },
+  "sentiment": "neutral"
+}

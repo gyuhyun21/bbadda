@@ -1,0 +1,26 @@
+{
+  "id": "youtube-e0b594fd",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "source_name": "김민수의 삼성 KBO 토크",
+  "url": "https://www.youtube.com/watch?v=o4BoKTYxyh4",
+  "title": "노시환 MLB 도전…정말 떠날까? #노시환 #한화이글스 #MLB포스팅",
+  "published_at": "2026-10-20T10:55:34Z",
+  "collected_at": "2026-10-20T13:40:20.145Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 6,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 10,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

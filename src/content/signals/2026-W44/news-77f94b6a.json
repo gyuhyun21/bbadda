@@ -1,0 +1,24 @@
+{
+  "id": "news-77f94b6a",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "lg",
+  "teams": [
+    "lg",
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE04VUZVTTVhMnBobGNyVEYzdjd5ZWlkMmlrOHJOYUdzczJmVjFFYWJwMXlBdnh4djhGcnAwRWlvVFV0ZWY2YVRqRmhpcGFGbkRPOTNWZTBuNDR4dnRBZFZpUVE2bDBMYWY3Tk9XV3hEVFItOC1XRFU3VDhpV05hUQ?oc=5",
+  "title": "'우승→3위→우승→4위' 염갈량의 다짐 \"분명히 준비 부족. 생각들을 바꿔야 할 것 같다\"[잠실 코멘트]",
+  "published_at": "2026-10-20T13:25:38.000Z",
+  "collected_at": "2026-10-20T13:40:20.145Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

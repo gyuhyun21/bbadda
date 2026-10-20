@@ -1,0 +1,27 @@
+{
+  "id": "youtube-517aaad3",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "딱, 알고 보면",
+  "url": "https://www.youtube.com/watch?v=w4v01VMb5_o",
+  "title": "삼성–KIA 플레이오프, 김도영 앞 타석을 봐야 하는 이유",
+  "published_at": "2026-10-20T13:03:49Z",
+  "collected_at": "2026-10-20T13:40:20.145Z",
+  "summary_ko": "딱, 알고 보면 채널이 삼성-KIA PO에서 김도영 앞 타석을 봐야 하는 이유를 다뤘다.",
+  "metrics": {
+    "views": 359,
+    "likes": 5,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 43,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

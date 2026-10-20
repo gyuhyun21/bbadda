@@ -1,0 +1,26 @@
+{
+  "id": "community-2afb9116",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan",
+    "lotte",
+    "nc",
+    "hanwha"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 유림여사 제4의 활동",
+  "url": "https://blog.naver.com/5004yurim/224448135334",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/Gxg76kzvay1",
+  "title": "손아섭 방출, 두산 6개월 만에 재계약 불가 - 롯데·NC·한화 거친 경력과 이유",
+  "published_at": "2026-10-20T20:33:00.000+09:00",
+  "collected_at": "2026-10-20T13:40:20.145Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

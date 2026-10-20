@@ -1,0 +1,27 @@
+{
+  "id": "youtube-a51306c7",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "눈야구",
+  "url": "https://www.youtube.com/watch?v=EFBg8YOWqWw",
+  "title": "KBO 역사상 가장 느렸던 우승 세리머니",
+  "published_at": "2026-10-20T11:13:00Z",
+  "collected_at": "2026-10-20T13:40:20.145Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 496,
+    "likes": 2,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 36,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

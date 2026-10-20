@@ -1,0 +1,23 @@
+{
+  "id": "community-f92d7403",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 오늘의 레이더",
+  "url": "https://blog.naver.com/fellix67/224443627726",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/3XHV3cKdykM",
+  "title": "김하성 키움 복귀설, 현실이 될까? MLB 부진에 친정팀 히어로즈 재입성 관심",
+  "published_at": "2026-10-20T13:47:00.000+09:00",
+  "collected_at": "2026-10-20T13:40:20.145Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

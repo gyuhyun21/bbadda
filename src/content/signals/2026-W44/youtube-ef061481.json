@@ -1,0 +1,33 @@
+{
+  "id": "youtube-ef061481",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "스탯레이스",
+  "url": "https://www.youtube.com/watch?v=j3YNjc82-kE",
+  "title": "KIA 3연승으로 플레이오프행! 다음은 삼성 | 준플레이오프 3차전 정리 #shorts",
+  "published_at": "2026-10-20T13:23:48Z",
+  "collected_at": "2026-10-20T13:40:20.145Z",
+  "summary_ko": "스탯레이스 채널이 KIA의 3연승 PO 진출과 준PO 3차전 정리를 쇼츠로 올렸다.",
+  "metrics": {
+    "views": 181,
+    "likes": 3,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 41,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5VT2pLMWF2OXFCLTNXV2lCOHVVZzlLWHE1T09tYXh2cU9HSUd5N2dUbUJZYlJBLXFkeGZuajdQbmdRNEhOaFlyb3F3YWppczl3LXc0Uzc5NA?oc=5"
+    }
+  ]
+}

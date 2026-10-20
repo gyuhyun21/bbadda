@@ -1,0 +1,24 @@
+{
+  "id": "community-f758f4de",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&page=5&document_srl=10466017418",
+  "title": "요즘엔 야구장같은 거 재건축할때 폭파 안 하지? - 야구",
+  "published_at": "2026-10-20T08:40:20.145Z",
+  "collected_at": "2026-10-20T13:40:20.145Z",
+  "summary_ko": "",
+  "excerpt": "... [레벨:24] 롯데자이언츠 10 분 전. 폭파하면 민원이 ㅈ될듯. 댓글 쓰기. 댓글 작성 하시려면 로그인…",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

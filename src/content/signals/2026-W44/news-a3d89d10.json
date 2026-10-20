@@ -1,0 +1,29 @@
+{
+  "id": "news-a3d89d10",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스타뉴스",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBTS29LTTVRTFR6RkhsQWdacDk3ZEs3NVoxMDh1ZlVYeWxVSC1za0Q3ZHpSOV96NlJGaHlPQVV6TnV2YWN5VHJMUlBFYWdrcFlOS1cxT282N0NpazFBUUhhRGk4OUJ0WndJdE5UZFBDMTU3eGxHbHc?oc=5",
+  "title": "'매진-매진-매진-매진' KBO 가을야구 열기 미쳤다! 41G 연속 만원관중... 김도영 만루포로 '더' 뜨거워졌다 [준PO3 현장]",
+  "published_at": "2026-10-20T10:56:52.000Z",
+  "collected_at": "2026-10-20T13:40:20.145Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 91,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5vd0ptcW9aa0RtTEdzSnpwekc0dFRvNWJHNWpOQ3pOTy1sUENZaDJOOU5EaDM2Z01QV0c2SlUzUUxlRnNRaTVNVU9RMTlsUG5xTzJiNFJGZXJ3a3pBR1ZiMXROdmZTZXMwbU1GZUgyWdIBb0FVX3lxTE5vd0ptcW9aa0RtTEdzSnpwekc0dFRvNWJHNWpOQ3pOTy1sUENZaDJOOU5EaDM2Z01QV0c2SlUzUUxlRnNRaTVNVU9RMTlsUG5xTzJiNFJGZXJ3a3pBR1ZiMXROdmZTZXMwbU1GZUgyWQ?oc=5"
+    }
+  ]
+}

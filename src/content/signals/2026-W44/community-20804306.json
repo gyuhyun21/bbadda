@@ -1,0 +1,24 @@
+{
+  "id": "community-20804306",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 AI제니 님의 블로그",
+  "url": "https://today.livestoryforge.com/15412",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/9Dy14zlUt7x",
+  "title": "김도영, 179km/h·145m 만루포로 역대 최장거리 타이 기록 달성!",
+  "published_at": "2026-10-20T21:35:22.000+09:00",
+  "collected_at": "2026-10-20T13:40:20.145Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

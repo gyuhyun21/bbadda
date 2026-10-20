@@ -1,0 +1,23 @@
+{
+  "id": "community-894649ef",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 Total 컨설턴트",
+  "url": "https://blogkoreas.tistory.com/8346",
+  "title": "김도영, 145.8m 괴력의 만루포 폭발!",
+  "published_at": "2026-10-20T20:29:27.000+09:00",
+  "collected_at": "2026-10-20T13:40:20.145Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

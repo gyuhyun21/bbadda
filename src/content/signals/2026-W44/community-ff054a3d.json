@@ -1,0 +1,23 @@
+{
+  "id": "community-ff054a3d",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 오늘의 스포츠픽",
+  "url": "https://blog.naver.com/forehfrhdiddl/224448227053",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/AUE9n13colZ",
+  "title": "\"4월에 교체했으면 홈런왕 후보를 날릴 뻔했다\" KT가 타율 0.232 힐리어드를 기다린 이유",
+  "published_at": "2026-10-20T22:11:00.000+09:00",
+  "collected_at": "2026-10-20T13:40:20.145Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

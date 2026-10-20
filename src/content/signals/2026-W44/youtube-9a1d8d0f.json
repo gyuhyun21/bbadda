@@ -1,0 +1,26 @@
+{
+  "id": "youtube-9a1d8d0f",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "youtube",
+  "source_name": "갈매기의 고향",
+  "url": "https://www.youtube.com/watch?v=_L6guVUCGt4",
+  "title": "롯데 자이언츠 21일차",
+  "published_at": "2026-10-20T13:03:02Z",
+  "collected_at": "2026-10-20T13:40:20.145Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 145,
+    "likes": 1,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 32,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

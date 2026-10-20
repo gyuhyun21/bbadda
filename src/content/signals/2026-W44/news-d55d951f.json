@@ -1,0 +1,23 @@
+{
+  "id": "news-d55d951f",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠월드",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9FSFFyQ0ktMmZnenR0U0Z0M2ZES1Y1N0VLczVFenBsTi14SXZGYWpsZ1VOcjl4YmlyZlF6WEc3c0lteDFmQWN0SjJIdmc5VTNJUU42bWhpLTJCRW9FQmpZMUhR?oc=5",
+  "title": "[준PO3] 가을야구 매진 행렬 계속… KIA-LG 3차전도 만원 관중",
+  "published_at": "2026-10-20T10:42:47.000Z",
+  "collected_at": "2026-10-20T13:40:20.145Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 80
+  },
+  "sentiment": "neutral"
+}

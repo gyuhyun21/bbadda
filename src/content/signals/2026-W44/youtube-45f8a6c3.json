@@ -1,0 +1,38 @@
+{
+  "id": "youtube-45f8a6c3",
+  "issue": "2026-W44",
+  "module": "league",
+  "teams": [],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=qSuRsMuT7SY",
+  "title": "타이거즈의 캡틴, 나성범의 선제 홈런🎇",
+  "published_at": "2026-10-20T10:30:39Z",
+  "collected_at": "2026-10-20T13:40:20.145Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 8366,
+    "likes": 509,
+    "comments": 15
+  },
+  "scores": {
+    "hot": 88,
+    "relevance": 30
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBFUksxZFlrVUJqckZ2REluZGJ3R0d5NjU5eE1qMTVRRzRwYVpET25Kb1pTcHB2SEx3Y0tyQ2Q2MlVMelFVcGNaWl93RXA0VFdEaVR1ajhNTnhhd1FONENKM2t0Wk1YWXpOVzdRdHE2ajRxaHlQajA0dNIBeEFVX3lxTFBFUksxZFlrVUJqckZ2REluZGJ3R0d5NjU5eE1qMTVRRzRwYVpET25Kb1pTcHB2SEx3Y0tyQ2Q2MlVMelFVcGNaWl93RXA0VFdEaVR1ajhNTnhhd1FONENKM2t0Wk1YWXpOVzdRdHE2ajRxaHlQajA0dA?oc=5"
+    },
+    {
+      "source_name": "m.mksports.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA5VjZPR0VSUjZ3aUZtaUFhRDYxaTR3VWhIT2FSeXdkbWhIaU9aQjFDbEJQUDFIa1kwUkFsV2tuM21QQzZEb1NCaWVKNDRGS2pUMDNneWJSVUl0cEU?oc=5"
+    },
+    {
+      "source_name": "매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5yWFJsSTlrMkI3QTQxRXlCSlBhYk9rakdrbEwxRHVDd3QxbGNRSThwazBiTkJQQ0ZXb1hLLU1GcTJ4SG1jSkE?oc=5"
+    }
+  ]
+}

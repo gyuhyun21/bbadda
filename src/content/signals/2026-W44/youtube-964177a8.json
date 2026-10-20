@@ -1,0 +1,24 @@
+{
+  "id": "youtube-964177a8",
+  "issue": "2026-W44",
+  "module": "league",
+  "teams": [],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=ZoA6NOcaLFw",
+  "title": "[2026 신한 SOL KBO 준플레이오프 3차전 - 경기결과]",
+  "published_at": "2026-10-20T13:27:28Z",
+  "collected_at": "2026-10-20T13:40:20.145Z",
+  "summary_ko": "KBO 공식 채널이 준PO 3차전 경기결과 영상을 올렸다.",
+  "metrics": {
+    "views": 1068,
+    "likes": 57,
+    "comments": 2
+  },
+  "scores": {
+    "hot": 77,
+    "relevance": 30
+  },
+  "sentiment": "neutral"
+}

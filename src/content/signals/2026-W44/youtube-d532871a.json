@@ -1,0 +1,28 @@
+{
+  "id": "youtube-d532871a",
+  "issue": "2026-W44",
+  "module": "league",
+  "teams": [
+    "kia",
+    "lg"
+  ],
+  "team": "kia",
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=sgQjN2yjSPo",
+  "title": "선발 전원 안타 달성! 교체 출전한 박민까지 2타점 2루타로 응답한 KIA타이거즈 | 준PO3_KIA vs LG | 10.20 | 크보모먼트 | KBO 야구 하이라이트",
+  "published_at": "2026-10-20T12:59:11Z",
+  "collected_at": "2026-10-20T13:40:20.145Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 3890,
+    "likes": 826,
+    "comments": 84
+  },
+  "scores": {
+    "hot": 84,
+    "relevance": 80
+  },
+  "sentiment": "neutral"
+}

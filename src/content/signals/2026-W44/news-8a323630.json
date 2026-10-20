@@ -1,0 +1,24 @@
+{
+  "id": "news-8a323630",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "lg",
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "파이낸셜뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1idFdaLXhfMTFscDczSnp3WW1ybzBTa3lvVE9tWE1odUdSWnIwb3hIcFI2WTQ2QWNwaFNmRW1IRHZJSnJLWUVoWnlvS0YtTVdFVm4yMENjbjZsQQ?oc=5",
+  "title": "삼성은 LG의 선전을 기대한다. 하지만 KS 우승을 목표로 한다면 KIA도 오늘 승리가 정말 중요하다",
+  "published_at": "2026-10-20T07:46:13.000Z",
+  "collected_at": "2026-10-20T13:40:20.145Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

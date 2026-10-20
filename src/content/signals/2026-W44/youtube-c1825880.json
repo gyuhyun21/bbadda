@@ -1,0 +1,26 @@
+{
+  "id": "youtube-c1825880",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "source_name": "노세광tv",
+  "url": "https://www.youtube.com/watch?v=gefctms9sc8",
+  "title": "한화 왕조 만들기 #류지현#트레이드#FA#한화#이글스",
+  "published_at": "2026-10-20T11:03:07Z",
+  "collected_at": "2026-10-20T13:40:20.145Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 8,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 12,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

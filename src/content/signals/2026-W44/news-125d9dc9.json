@@ -1,0 +1,25 @@
+{
+  "id": "news-125d9dc9",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "lg",
+  "teams": [
+    "lg",
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "announcement": true,
+  "source_name": "스포츠조선",
+  "url": "https://www.sportschosun.com/baseball/2026-10-20/202610200100129630008443",
+  "title": "[오피셜] '잠실이 흔들, 피치컴이 안들려요'…PS 41G연속 매진 대기록 '취소표도 못구해요'",
+  "published_at": "2026-10-20T10:26:55.000Z",
+  "collected_at": "2026-10-20T13:40:20.145Z",
+  "summary_ko": "스포츠조선에 따르면 가을야구가 포스트시즌 41경기 연속 매진 기록을 이어갔다.",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

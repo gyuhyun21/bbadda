@@ -1,0 +1,27 @@
+{
+  "id": "youtube-28825747",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg",
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "더로키 야구중계",
+  "url": "https://www.youtube.com/watch?v=ckXCpBZhmRg",
+  "title": "LG트윈스 편파입중계  오늘 끝나지는 말자 반드시 승리 LG vs 기아 10/20",
+  "published_at": "2026-10-20T13:22:25Z",
+  "collected_at": "2026-10-20T13:40:20.145Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 2195,
+    "likes": 26,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 51,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

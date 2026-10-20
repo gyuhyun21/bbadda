@@ -1,0 +1,23 @@
+{
+  "id": "community-9dd99574",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 남양주시 블로그",
+  "url": "https://blog.naver.com/nyjloving/224442740862",
+  "title": "[남다른 인터뷰] 정우주, 김윤하 등 프로야구 선수 다수 배출! 남양주에서 시작한 야구가 더 큰 꿈으로...",
+  "published_at": "2026-10-20T16:26:00.000+09:00",
+  "collected_at": "2026-10-20T13:40:20.145Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

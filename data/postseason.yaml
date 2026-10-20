@@ -63,14 +63,20 @@ rounds:
       - no: 3
         date: 2026-10-20
         venue: { home_of: wc }
+        result: { kia: 13, lg: 1 }
+        source: "https://news.google.com/rss/articles/CBMibEFVX3lxTFBEblVINWNSQUt3M1hKbmhWclNlbDNidGs3TFQ2cUE4aU1WRFUzSnlZZEtfWE1iRzZ3bXZlOG1JWWtDZjhqM3VNUldtTVJYelNHTGhiVEZxUzBVOFV2dkx6dzBlZS01M21UZ2tGMNIBcEFVX3lxTE9rRzE5WU5oZ0ZTa3kzY01IQVlsLUIxR21EZDBzLW84UVd5VHFIV3NJdzlET1RtOUY1VjVlZk83SFRVdjdvQ3FXV1ZMN3p1TkVRazBhNlFEZWw1N05UMHNvRlV3Mnd1ak1YOGxwSTFneUw?oc=5" # 남도일보 'KIA, LG 13-1 대파'
         starters: { lg: 카라스코, kia: 시라카와 } # 예고 선발
         starter_notes: { lg: "WC 1차전 6이닝 1실점 승", kia: "올해 LG전 1패 · ERA 7.71" }
         ig:
           pre: { hook: "LG, 오늘 지면 끝", sub: "1·2차전 이긴 팀 PO 진출 확률 78%" }
+          post: { hook: "KIA, 3연승\nPO 간다", sub: "LG 꺾고 준PO 셧아웃", points: ["김도영, 3차전 만루포", "나성범 멀티 홈런", "시라카와, 5이닝 9K 1실점"] }
         facts:
           - "준PO 1·2차전 승리 팀 PO 진출 확률 78%"
           - "KIA 1승 더하면 2년 만의 PO 진출"
+        homers: ["김도영(KIA) 만루", "나성범(KIA) 멀티 홈런(선제 솔로 포함)", "한준수(KIA) 솔로"]
+        attendance: "만원 관중 (포스트시즌 41경기 연속 매진)"
         sources:
+          - "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9FSFFyQ0ktMmZnenR0U0Z0M2ZES1Y1N0VLczVFenBsTi14SXZGYWpsZ1VOcjl4YmlyZlF6WEc3c0lteDFmQWN0SjJIdmc5VTNJUU42bWhpLTJCRW9FQmpZMUhR?oc=5" # 3차전 만원 관중
           - "https://www.newspim.com/news/view/20261018000126" # 시라카와 예고·시즌·LG전 성적
           - "https://www.etoday.co.kr/news/view/2637096" # 카라스코 예고
           - "https://isplus.com/article/view/isp202610150109" # 카라스코 WC 1차전

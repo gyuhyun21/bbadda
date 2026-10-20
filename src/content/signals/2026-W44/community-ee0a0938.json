@@ -1,0 +1,24 @@
+{
+  "id": "community-ee0a0938",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "엠엘비파크",
+  "url": "https://mlbpark.donga.com/mp/b.php?id=202610200119550240&p=61&b=kbotown&m=view&select=spf&query=%EB%A1%AF%EB%8D%B0&site=donga.com&pos=reply",
+  "title": "김하진 기자 튼동 계약 관련 글",
+  "published_at": "2026-10-20T05:40:20.145Z",
+  "collected_at": "2026-10-20T13:40:20.145Z",
+  "summary_ko": "",
+  "excerpt": "... ... SSG; KBO; 방송; 아마야구; 포시; 스캠; 스토브리그; FA; 트레이드 ... SSG · 삼성…",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

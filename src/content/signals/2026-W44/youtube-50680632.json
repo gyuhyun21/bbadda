@@ -1,0 +1,26 @@
+{
+  "id": "youtube-50680632",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": " WOw 라이온즈",
+  "url": "https://www.youtube.com/watch?v=bBFvSLJYhZk",
+  "title": "가성비짱 외야#삼성라이온즈#라팍",
+  "published_at": "2026-10-20T13:26:35Z",
+  "collected_at": "2026-10-20T13:40:20.145Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 135,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 26,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

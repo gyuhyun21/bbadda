@@ -1,0 +1,24 @@
+{
+  "id": "community-89fbde04",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 마미의 생활매거진",
+  "url": "https://blog.naver.com/shiny747/224448196993",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/31FA4Ia1s1u",
+  "title": "2026 가을야구 일정·대진표｜진출팀 5곳과 한국시리즈 날짜 총정리",
+  "published_at": "2026-10-20T21:40:00.000+09:00",
+  "collected_at": "2026-10-20T13:40:20.145Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

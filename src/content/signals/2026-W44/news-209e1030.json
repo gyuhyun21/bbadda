@@ -1,0 +1,22 @@
+{
+  "id": "news-209e1030",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "m.mksports.co.kr",
+  "url": "https://www.mksports.co.kr/news/sports/12181059",
+  "title": "“빠른 교체 가능”→5이닝 KKKKKKKKK 1실점…인생투 펼친 KIA 시라카와 [준PO3]",
+  "published_at": "2026-10-20T11:40:57.000Z",
+  "collected_at": "2026-10-20T13:40:20.145Z",
+  "summary_ko": "MK스포츠는 KIA 시라카와가 포스트시즌 첫 등판에서 5이닝 9탈삼진 1실점으로 던졌다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 80
+  },
+  "sentiment": "neutral"
+}

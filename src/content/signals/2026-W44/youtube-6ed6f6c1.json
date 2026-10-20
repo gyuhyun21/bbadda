@@ -1,0 +1,26 @@
+{
+  "id": "youtube-6ed6f6c1",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "youtube",
+  "source_name": "김알 - 김팀장이 알아봤다!",
+  "url": "https://www.youtube.com/watch?v=WtaxqfpBA_k",
+  "title": "2026 KBO MVP 후보 14명!🏆 KT는 무려 5명? 후보 없는 4개 구단은? #KBO #MVP #프로야구 #shorts#Short s",
+  "published_at": "2026-10-20T11:09:35Z",
+  "collected_at": "2026-10-20T13:40:20.145Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 2170,
+    "likes": 9,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 44,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

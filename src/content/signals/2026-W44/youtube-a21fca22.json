@@ -1,0 +1,26 @@
+{
+  "id": "youtube-a21fca22",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "source_name": "한화에 묻어다오",
+  "url": "https://www.youtube.com/watch?v=GLtMlxy6ww4",
+  "title": "한국선수들이 너무 반가웠던 왕옌청 #한화이글스 #왕옌청 #문현빈 #노시환 #王彥程",
+  "published_at": "2026-10-20T12:20:17Z",
+  "collected_at": "2026-10-20T13:40:20.145Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 6906,
+    "likes": 654,
+    "comments": 8
+  },
+  "scores": {
+    "hot": 87,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

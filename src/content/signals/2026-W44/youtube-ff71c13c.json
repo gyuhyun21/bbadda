@@ -1,0 +1,27 @@
+{
+  "id": "youtube-ff71c13c",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "SSG랜더스",
+  "url": "https://www.youtube.com/watch?v=n7DjIfzhxR4",
+  "title": "우리의 밤은 불꽃처럼 빛났다🎆",
+  "published_at": "2026-10-20T10:35:35Z",
+  "collected_at": "2026-10-20T13:40:20.145Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 3040,
+    "likes": 492,
+    "comments": 10
+  },
+  "scores": {
+    "hot": 83,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

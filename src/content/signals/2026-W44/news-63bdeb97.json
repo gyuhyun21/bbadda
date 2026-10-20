@@ -1,0 +1,32 @@
+{
+  "id": "news-63bdeb97",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "OSEN",
+  "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1UbVAzRUtFSmh3bWtRR2xxTlFPUnlaeG1oZnJWUk5Eck05blVwdWpGbk1ra2FNMmFjS2lMaThhWVpXVWczLU1aM2F0T0NtV2Iwc2Fr?oc=5",
+  "title": "[사진]준PO 3차전 앞두고 파이팅 다짐하는 LG 트윈스",
+  "published_at": "2026-10-20T10:34:00.000Z",
+  "collected_at": "2026-10-20T13:40:20.145Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 83,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBDNVFXaWxvU0M3Q1ByMGFhRm5Qc1cwNHBUWVBTMmtpeDc0bW4wLU95WVIzRUkweGlCbHhReHJNaUFLNGJldFVjemN2bFF5NlN1VFdZX2dUblFwWkVkSlZkdWhLRGZfcWVpUmfSAW9BVV95cUxOb3BwOV9EaDk2ZmZ0bThBYWVZaUNlN3hqWmxqZFZUb3pQV0dOdGlJUXBzRWNJU21SdXZNdjR2TEEwUlFSdUF5eUFRb3FHWEZmb3FUMUJlMnJRWVRlU19TdVhENG1TcEpsanB3bDNxdE0?oc=5"
+    },
+    {
+      "source_name": "Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQThNSzhuSksxNXJLMlM2em9FelF3T0tJZVUxaVh3SmRFQ194dTFYaGR6amkwS29oZmFGeXRmY19VRGxwcVl6enpjSXNONDFtaW9Gb2VFZUMtWF93c2hZTGV2b2VIRVBrWEU3c2k4R1p1Q2hKMHAzTEpKVDNmZUhBNTJqS28yZnZr0gGcAUFVX3lxTE1KU0N5X0NtTTFHYW5TalJ1RmR2ckswRVBCUmpsTXExMzdyUXVsc2MwRnpOdTlCUklnZkIwZkFFTTlMLXdsYTdyaWpXajdPLWRaU0NmdE8tRHYyOUhVdVpMNTV5Z0VJNVNFczh1eUxOX242M1UtUkdPNjZMVjR1cFowY3B0LU9nYzlocW5GY3ZiQUhiWEZrLXVmYm1jYQ?oc=5"
+    }
+  ]
+}

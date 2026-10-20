@@ -1,0 +1,23 @@
+{
+  "id": "community-f487613f",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 로그수집가",
+  "url": "https://blog.naver.com/jhh3555/224447929193",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/8RAsY7XKyAg",
+  "title": "2만3000석 매진 SSG 최광야구, \"팬이 있기에 구단과 스페셜 매치도 존재\" 왜 통했나",
+  "published_at": "2026-10-20T17:18:00.000+09:00",
+  "collected_at": "2026-10-20T13:40:20.145Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

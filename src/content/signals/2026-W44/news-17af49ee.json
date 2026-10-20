@@ -1,0 +1,23 @@
+{
+  "id": "news-17af49ee",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "www.xportsnews.com",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBIYllKZWlSRC1xLUNwSWpKWlRHTUs0bF81OUxwbHlROV83ai1JZjd4UTByZlBWdnl6amp2VGJzUkkyUHR3YVMtMnktdnNqRXNyaDJjQw?oc=5",
+  "title": "말 그대로 '김도영 시리즈'였다…홈런 쾅쾅쾅+8타점→韓 신기록에 준PO MVP 영예까지 [준PO3 현장]",
+  "published_at": "2026-10-20T13:04:54.000Z",
+  "collected_at": "2026-10-20T13:40:20.145Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

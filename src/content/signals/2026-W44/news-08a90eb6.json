@@ -1,0 +1,22 @@
+{
+  "id": "news-08a90eb6",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "무등일보",
+  "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFAtWW90YmxkLTdsV1pKY3ZDY1MyazBTODlIbC1KZWJEeHBVQ3d2dEMyS1JmdGdZc2Qxd2Raa2puTWVrbDdseTFqOS1TcjI?oc=5",
+  "title": "'슈퍼스타' 김도영 일 냈다···LG와 준PO 3차전서 그랜드슬램 폭발",
+  "published_at": "2026-10-20T10:30:00.000Z",
+  "collected_at": "2026-10-20T13:40:20.145Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 80
+  },
+  "sentiment": "neutral"
+}

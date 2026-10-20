@@ -1,0 +1,26 @@
+{
+  "id": "youtube-1e06d7f2",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "youtube",
+  "source_name": "세모퀴즈 - 세상의 모든 퀴즈",
+  "url": "https://www.youtube.com/watch?v=fhkD8L-fseo",
+  "title": "만점 가능??💥 SSG 랜더스 인물퀴즈 2편 #인물퀴즈 #야구퀴즈 #야구",
+  "published_at": "2026-10-20T12:00:30Z",
+  "collected_at": "2026-10-20T13:40:20.145Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 27,
+    "likes": 3,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 58,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

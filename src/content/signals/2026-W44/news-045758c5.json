@@ -1,0 +1,24 @@
+{
+  "id": "news-045758c5",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "hanwha",
+  "teams": [
+    "hanwha",
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "한스경제",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1Xd0ViX0YzT0JvalZWdFh6aHBsVmpZaXY5RmFmcTBtd1BNcTZWNFVxS3Fsc0tQTW9jZlV3UU5YclRrNU9NUEVyRjhIQnQzWEdlQWhHZ2lncTBObzhDV19tOENpU0pyM0xUV2lfWU1xZ9IBb0FVX3lxTE1Xd0ViX0YzT0JvalZWdFh6aHBsVmpZaXY5RmFmcTBtd1BNcTZWNFVxS3Fsc0tQTW9jZlV3UU5YclRrNU9NUEVyRjhIQnQzWEdlQWhHZ2lncTBObzhDV19tOENpU0pyM0xUV2lfWU1xZw?oc=5",
+  "title": "'안타 기계' 손아섭 방출이 보여준 프로야구 트렌드 변화",
+  "published_at": "2026-10-20T09:53:46.000Z",
+  "collected_at": "2026-10-20T13:40:20.145Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

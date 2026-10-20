@@ -1,0 +1,24 @@
+{
+  "id": "community-4ad1a831",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 오늘의 스타일 이슈",
+  "url": "https://blog.naver.com/stylezip/224448188183",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/9osKt9XNLX2",
+  "title": "“케이크 만들더니 이번엔 야구장?”…둘째 출산 후 근황 전한 ‘최태준♥’ 박신혜",
+  "published_at": "2026-10-20T21:31:00.000+09:00",
+  "collected_at": "2026-10-20T13:40:20.145Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

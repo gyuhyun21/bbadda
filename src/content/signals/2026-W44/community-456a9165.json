@@ -1,0 +1,23 @@
+{
+  "id": "community-456a9165",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "lg"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 알아두면 쓸모있는 다양한 정보마을",
+  "url": "https://skhmom.com/1204",
+  "title": "KBO 준플레이오프 일정, KIA LG 중계, 선발투수, 경기결과, 4차전 바로 확인",
+  "published_at": "2026-10-20T21:30:26.000+09:00",
+  "collected_at": "2026-10-20T13:40:20.145Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

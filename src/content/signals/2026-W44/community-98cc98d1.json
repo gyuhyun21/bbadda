@@ -1,0 +1,33 @@
+{
+  "id": "community-98cc98d1",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 👦🏻 형기쿠 info",
+  "url": "https://info.soullhk.kr/2111",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/6VlALUPf8l3",
+  "title": "김도영 만루포, 준플레이오프 역대 최장 145m 홈런으로 KIA 플레이오프 진출 청신호",
+  "published_at": "2026-10-20T22:04:39.000+09:00",
+  "collected_at": "2026-10-20T13:40:20.145Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 84,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "KBS 뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1WNWF3aWxfQWJiU25rUFpmNXl4c2ZfTktnMDRuSlY3cW9fNEZ1cU9BSk5pUXZnenZXQ2xlaE5uRVR3SVZIN2N2eURRY3RwcjJKYUN6d2NjTE9lMmM?oc=5"
+    },
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRm1CSkNjVUx2TC1QQkwtN2NuUjV6b00yXzZhSElwdm9UTVFBQUlOVWJfejViWjVzRlY4U1lvUklVcl9ZVXJVSTdxbXJ0VXUzLUVKQnZUQUR5YkhTMERjaTB6eTNrd21jbG9VQUdqdzJEb2IwRHdwRV8xTXk1WGVFOVczYw?oc=5"
+    }
+  ]
+}

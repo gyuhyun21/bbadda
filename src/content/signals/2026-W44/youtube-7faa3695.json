@@ -1,0 +1,28 @@
+{
+  "id": "youtube-7faa3695",
+  "issue": "2026-W44",
+  "module": "league",
+  "teams": [
+    "kia",
+    "lg"
+  ],
+  "team": "kia",
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=RPp8CBj8C2Q",
+  "title": "역대 포스트시즌 최장거리 홈런 타이! 오늘도 슈퍼스타임을 증명하는 KIA 김도영의 만루 홈런! | 준PO3_KIA vs LG | 10.20 | 크보모먼트 | KBO 야구 하이라이트",
+  "published_at": "2026-10-20T10:58:26Z",
+  "collected_at": "2026-10-20T13:40:20.145Z",
+  "summary_ko": "KBO 공식 채널이 준PO 3차전 김도영의 만루 홈런 영상을 올렸다. 제목은 포스트시즌 최장거리 홈런 타이라고 소개한다.",
+  "metrics": {
+    "views": 67400,
+    "likes": 5898,
+    "comments": 1123
+  },
+  "scores": {
+    "hot": 99,
+    "relevance": 80
+  },
+  "sentiment": "positive"
+}

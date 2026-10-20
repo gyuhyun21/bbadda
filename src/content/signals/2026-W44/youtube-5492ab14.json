@@ -1,0 +1,28 @@
+{
+  "id": "youtube-5492ab14",
+  "issue": "2026-W44",
+  "module": "league",
+  "teams": [
+    "kia",
+    "lg"
+  ],
+  "team": "kia",
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=B51lvidtYrA",
+  "title": "맞는 순간 직감한 대형 아치! 0의 균형을 깨는 KIA 나성범의 선제 솔로 홈런! | 준PO3_KIA vs LG | 10.20 | 크보모먼트 | KBO 야구 하이라이트",
+  "published_at": "2026-10-20T10:12:14Z",
+  "collected_at": "2026-10-20T13:40:20.145Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 74046,
+    "likes": 1111,
+    "comments": 149
+  },
+  "scores": {
+    "hot": 74,
+    "relevance": 80
+  },
+  "sentiment": "positive"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "community-99cbd41e",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 하이스포츠 인사이드",
+  "url": "https://blog.naver.com/historycar/224448032938",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/Hb4IlHDa2KK",
+  "title": "\"감독 계약금만 10억원?\" 이강철 34억 초대형 계약에 KBO 감독 몸값 폭등, 롯데는 어쩌나",
+  "published_at": "2026-10-20T18:53:00.000+09:00",
+  "collected_at": "2026-10-20T13:40:20.145Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

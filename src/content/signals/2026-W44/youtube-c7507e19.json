@@ -1,0 +1,26 @@
+{
+  "id": "youtube-c7507e19",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "youtube",
+  "source_name": "미니마니모",
+  "url": "https://www.youtube.com/watch?v=IPbElzUFzzM",
+  "title": "SSG랜더스필드 불꽃놀이🎆",
+  "published_at": "2026-10-20T12:38:23Z",
+  "collected_at": "2026-10-20T13:40:20.145Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 133,
+    "likes": 1,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 32,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}
