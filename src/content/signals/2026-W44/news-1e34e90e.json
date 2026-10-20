@@ -1,0 +1,23 @@
+{
+  "id": "news-1e34e90e",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "티제이비",
+  "url": "https://www.tjb.co.kr/news06/category/view/id/105098",
+  "title": "[자막뉴스] \"문현빈 다시 2루수로?\"…류지현호 첫 훈련부터 파격 변화",
+  "published_at": "2026-10-20T05:16:49.000Z",
+  "collected_at": "2026-10-20T13:40:20.145Z",
+  "summary_ko": "티제이비 자막뉴스는 한화 류지현 감독의 첫 훈련에서 문현빈의 2루수 복귀 등 변화가 눈에 띈다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

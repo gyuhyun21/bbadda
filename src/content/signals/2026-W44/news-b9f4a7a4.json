@@ -1,0 +1,23 @@
+{
+  "id": "news-b9f4a7a4",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "www.xportsnews.com",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE55dzJoTXBXcFRNdXpSVHVWeDJTcUM5YXE5Y1hCTUIxeEVZTGdybTRRMkJEVkQ0dElreUtEVWZweTRwWmZmNUx5MExYUzBKVVowZ1NBTw?oc=5",
+  "title": "'또또또 매진!' 가을야구, 41G 연속 완판 신화…김도영이 축포도 쏴줬다 [준PO3]",
+  "published_at": "2026-10-20T11:02:21.000Z",
+  "collected_at": "2026-10-20T13:40:20.145Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

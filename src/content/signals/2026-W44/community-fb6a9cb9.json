@@ -1,0 +1,23 @@
+{
+  "id": "community-fb6a9cb9",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 로그수집가",
+  "url": "https://blog.naver.com/jhh3555/224448139471",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/DFd5bKQUsMR",
+  "title": "네일도 링거 투혼, KIA 올러 독감 준PO 진짜 초비상이었던 이유는?",
+  "published_at": "2026-10-20T21:24:00.000+09:00",
+  "collected_at": "2026-10-20T13:40:20.145Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

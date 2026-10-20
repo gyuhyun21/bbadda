@@ -1,0 +1,23 @@
+{
+  "id": "news-e885f8a1",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠경향",
+  "url": "https://sports.khan.co.kr/article/202610201631003/amp",
+  "title": "[스경X현장]‘천만다행’ 구자욱, 방망이 치는 데에 문제없다···그런데 좌승현·백정현이 PO에서 빠진다",
+  "published_at": "2026-10-20T07:31:00.000Z",
+  "collected_at": "2026-10-20T13:40:20.145Z",
+  "summary_ko": "스포츠경향은 삼성 구자욱이 방망이를 치는 데 문제가 없다고 전했다. 좌승현·백정현은 PO에서 빠진다고 덧붙였다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

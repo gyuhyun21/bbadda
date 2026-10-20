@@ -1,0 +1,23 @@
+{
+  "id": "community-e9b79b43",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "lg"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 테크모터스 노트",
+  "url": "https://blog.naver.com/wing2722/224448184686",
+  "title": "김도영 잠실구장 145m 만루홈런 폭발! KIA, LG 준플레이오프 3차전서 7-0 리드",
+  "published_at": "2026-10-20T21:27:00.000+09:00",
+  "collected_at": "2026-10-20T13:40:20.145Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

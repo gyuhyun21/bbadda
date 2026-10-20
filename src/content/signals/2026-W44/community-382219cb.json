@@ -1,0 +1,26 @@
+{
+  "id": "community-382219cb",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte",
+    "nc",
+    "hanwha",
+    "doosan"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 누워서보는 연예뉴스",
+  "url": "https://blog.naver.com/hide/224447450084",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/92oZMKzpBRf",
+  "title": "\"2655안타에도 새 팀이 없다...\" 롯데 NC 한화 두산 거친 손아섭 다음 행선지",
+  "published_at": "2026-10-20T19:20:00.000+09:00",
+  "collected_at": "2026-10-20T13:40:20.145Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

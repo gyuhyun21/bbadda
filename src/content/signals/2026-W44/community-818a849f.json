@@ -1,0 +1,23 @@
+{
+  "id": "community-818a849f",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 아산데일리 [공식 뉴스]",
+  "url": "https://blog.naver.com/asandailynew/224448167258",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/HZAAGyg6w8A",
+  "title": "SSG랜더스, 팬 감사 이벤트 ‘최광야구 1429’ 전석 매진…2만3000명과 시즌 마무리",
+  "published_at": "2026-10-20T21:08:00.000+09:00",
+  "collected_at": "2026-10-20T13:40:20.145Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

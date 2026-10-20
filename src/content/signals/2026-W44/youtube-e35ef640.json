@@ -1,0 +1,27 @@
+{
+  "id": "youtube-e35ef640",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "야구일기장",
+  "url": "https://www.youtube.com/watch?v=vGr9Bsd3DC8",
+  "title": "온라인 팀별 약칭 유래  #kbo #엘지트윈스 #두산베어스 #삼성라이온즈 #키움히어로즈",
+  "published_at": "2026-10-20T11:38:42Z",
+  "collected_at": "2026-10-20T13:40:20.145Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 0,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

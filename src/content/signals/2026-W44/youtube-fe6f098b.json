@@ -1,0 +1,27 @@
+{
+  "id": "youtube-fe6f098b",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "lg"
+  ],
+  "source_type": "youtube",
+  "source_name": "뉴오올스타​​",
+  "url": "https://www.youtube.com/watch?v=2srM_LCn-3k",
+  "title": "[기아 vs LG] 10월 20일 화요일 준플레이오프3차전 \" 3승하면 대구로 간다. 내일은 없다  오늘 끝낸다 타이거즈 정신으로 \"기아타이거즈 승리기원 특별시 표준어 편파방송",
+  "published_at": "2026-10-20T13:32:35Z",
+  "collected_at": "2026-10-20T13:40:20.145Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 8615,
+    "likes": 1091,
+    "comments": 3
+  },
+  "scores": {
+    "hot": 88,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

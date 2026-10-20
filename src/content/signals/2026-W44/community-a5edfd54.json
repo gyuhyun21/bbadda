@@ -1,0 +1,22 @@
+{
+  "id": "community-a5edfd54",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 이슈데일리의 뉴스",
+  "url": "https://blog.naver.com/yd0189816/224448145433",
+  "title": "김지찬은 주축인데…삼성 라이온즈 방출 10명, 같은 2020 드래프트서 갈린 명암",
+  "published_at": "2026-10-20T20:50:00.000+09:00",
+  "collected_at": "2026-10-20T13:40:20.145Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

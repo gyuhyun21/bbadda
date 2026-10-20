@@ -1,0 +1,23 @@
+{
+  "id": "news-bc7bfacf",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠한국",
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBBVUF3dG9wOTlDQkU0UTdCcGhUMHJUY3RJWm5Ka3VyZ2cwcUpCOEJmbXladklXRGY0SG0zVkotUjlsdzFWWVNtc2hfcmpmQnY5Q2VyZWVUd1paYXdES2sxaVVVRVNLcjVVNC1QQXVfYlbSAXRBVV95cUxQdWpGbHpOdG9XbDBPY3FYdTczMzJhVmtEM0JzTWJ3VVIwWHNDdzlUQU0teXdzRFlHVFh3T25tcXpjdDlmSHNQWXpUc1NsalhPTGZMTmwtUTBrN1RVb1V5S1hDZHF5MFdfS2gzeWZ6MngtaXBORQ?oc=5",
+  "title": "'기록 제조기' 김도영, 또 역사썼다… 이번엔 준PO 역대 최장 거리 홈런",
+  "published_at": "2026-10-20T10:25:28.000Z",
+  "collected_at": "2026-10-20T13:40:20.145Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

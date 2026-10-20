@@ -1,0 +1,27 @@
+{
+  "id": "youtube-ea923c79",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "kt wiz - 위즈TV",
+  "url": "https://www.youtube.com/watch?v=06Slkj9HlV0",
+  "title": "🎉달빛중년의 300번째 2루타 기념구 이벤트 당첨자 발표!🎉",
+  "published_at": "2026-10-20T09:00:35Z",
+  "collected_at": "2026-10-20T13:40:20.145Z",
+  "summary_ko": "KT 공식 채널이 300번째 2루타 기념구 이벤트 당첨자를 발표했다.",
+  "metrics": {
+    "views": 3154,
+    "likes": 254,
+    "comments": 8
+  },
+  "scores": {
+    "hot": 83,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

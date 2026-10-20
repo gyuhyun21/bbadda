@@ -1,0 +1,24 @@
+{
+  "id": "community-b18f32cc",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "엠엘비파크",
+  "url": "https://mlbpark.donga.com/mp/b.php?id=202610200119552505&p=1&b=bullpen&m=view&select=spf&query=%EC%95%BC%EA%B5%AC&site=donga.com",
+  "title": "어느 은퇴한 단장이 회고한 프로야구",
+  "published_at": "2026-10-19T15:00:00.000Z",
+  "collected_at": "2026-10-20T13:40:20.145Z",
+  "summary_ko": "",
+  "excerpt": "... ... 기아가 기억에 남는 ... 타이거즈 그 김태룡이 아니네요. 프르츠2026-10-20 17:18IP: 1.230.*.150.",
+  "metrics": {},
+  "scores": {
+    "hot": 60,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

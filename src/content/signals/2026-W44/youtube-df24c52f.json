@@ -1,0 +1,26 @@
+{
+  "id": "youtube-df24c52f",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "야구소년",
+  "url": "https://www.youtube.com/watch?v=l8K4MU-69-w",
+  "title": "잠실 담장이 줄어들었나요? 💥 나성범 멀티홈런 #kbo #기아타이거즈 #나성범 #홈런 #가을야구",
+  "published_at": "2026-10-20T12:50:14Z",
+  "collected_at": "2026-10-20T13:40:20.145Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 168,
+    "likes": 2,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 37,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

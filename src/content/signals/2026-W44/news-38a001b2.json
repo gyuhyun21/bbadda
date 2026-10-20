@@ -1,0 +1,28 @@
+{
+  "id": "news-38a001b2",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "뉴시스",
+  "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1xZENOTlFaRTExSm1zQjFUczBSQUNWSFVaNUpTZzN1T3NZNXM4OXZCVzY0WGl2akVlVHhSYlRpaktmZmQxLXlpMGZKOVVQWlJ1d20xTUZIVkNSUWNSeVpVMG9xbWxXY0hveG95UU94NVI3VDFGWkFYRtIBeEFVX3lxTE1xZENOTlFaRTExSm1zQjFUczBSQUNWSFVaNUpTZzN1T3NZNXM4OXZCVzY0WGl2akVlVHhSYlRpaktmZmQxLXlpMGZKOVVQWlJ1d20xTUZIVkNSUWNSeVpVMG9xbWxXY0hveG95UU94NVI3VDFGWkFYRg?oc=5",
+  "title": "좌타자만 7명 배치…KIA 이범호 감독 \"카라스코 공략 더 잘했다\"[준PO]",
+  "published_at": "2026-10-20T08:36:44.000Z",
+  "collected_at": "2026-10-20T13:40:20.145Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 82,
+    "relevance": 80
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ZbFBlTFVVZ0dQVXdjMlJxUHNQTkJGVHVtRU15QWJSM280UFZRVUJrdm5JR2RZczBuUmpldEdURXRSU01iVVk5Mko5ODg1VE9Ja2h4bWg5cmJraXhCNXZqQ9IBYEFVX3lxTE9ZbFBlTFVVZ0dQVXdjMlJxUHNQTkJGVHVtRU15QWJSM280UFZRVUJrdm5JR2RZczBuUmpldEdURXRSU01iVVk5Mko5ODg1VE9Ja2h4bWg5cmJraXhCNXZqQw?oc=5"
+    }
+  ]
+}

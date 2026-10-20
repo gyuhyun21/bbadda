@@ -1,0 +1,24 @@
+{
+  "id": "community-3440c6b7",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 굿모닝인포",
+  "url": "https://blog.naver.com/goodmorninginfo/224448195434",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/KOp8x0SpstF",
+  "title": "\"김도영 만루홈런 145m\" 잠실 아듀! 25년 만의 대기록…우즈와 동률",
+  "published_at": "2026-10-20T21:39:00.000+09:00",
+  "collected_at": "2026-10-20T13:40:20.145Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

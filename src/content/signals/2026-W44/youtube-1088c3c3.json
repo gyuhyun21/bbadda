@@ -1,0 +1,26 @@
+{
+  "id": "youtube-1088c3c3",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "youtube",
+  "source_name": "야등(야구 등장곡)",
+  "url": "https://www.youtube.com/watch?v=1DNUS3s0qto",
+  "title": "LG트윈스 문보경 등장곡!! #LG트윈스 #문보경",
+  "published_at": "2026-10-20T13:13:25Z",
+  "collected_at": "2026-10-20T13:40:20.145Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 3,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 7,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "news-80fba7ce",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://www.sportschosun.com/baseball/2026-10-20/202610200100130640008524",
+  "title": "LG 역대 최악의 참패 → '5전제 셧아웃'은 구단 역사상 최초의 수모",
+  "published_at": "2026-10-20T13:10:09.000Z",
+  "collected_at": "2026-10-20T13:40:20.145Z",
+  "summary_ko": "스포츠조선은 LG가 5전제 시리즈에서 셧아웃으로 진 것이 구단 역사상 처음이라고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

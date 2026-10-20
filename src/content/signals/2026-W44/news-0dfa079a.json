@@ -1,0 +1,22 @@
+{
+  "id": "news-0dfa079a",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "매일경제",
+  "url": "https://m.mk.co.kr/amp/12180977",
+  "title": "ML 112승 투수가 무너졌다…카라스코, 1.1이닝 5실점 4자책점 충격 조기 강판→LG 어쩌나 [준PO3]",
+  "published_at": "2026-10-20T10:16:33.000Z",
+  "collected_at": "2026-10-20T13:40:20.145Z",
+  "summary_ko": "매일경제에 따르면 LG 선발 카라스코는 준PO 3차전에서 1.1이닝 5실점(4자책)으로 일찍 마운드를 내려갔다.",
+  "metrics": {},
+  "scores": {
+    "hot": 83,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

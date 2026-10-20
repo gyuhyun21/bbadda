@@ -1,0 +1,23 @@
+{
+  "id": "news-a0e94f6d",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "lg",
+  "teams": [
+    "lg",
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "일간스포츠",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE80LXRKMUxPdG5OeWdXLVdDVWhiNDFzV0d1NkYtYTRKUExVQVA0OC14bUVxWkxicGoyMDJBUUpyWHdPZWoxaE1NdlFKS2haaExDX1VOU0VqSG9Cdm9RbXNOb0ZhLTVhRWxF?oc=5",
+  "title": "2026년 10월, LG는 '김도영 악몽'에 몸서리쳤다...KIA전 10연패라니",
+  "published_at": "2026-10-20T13:10:00.000Z",
+  "collected_at": "2026-10-20T13:40:20.145Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

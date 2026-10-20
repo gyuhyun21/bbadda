@@ -1,0 +1,23 @@
+{
+  "id": "news-9e639b82",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "스타뉴스",
+  "url": "https://www.starnewskorea.com/sports/2026/10/20/2026102017071326004",
+  "title": "김도영 PS 최연소·최장거리 만루포→준PO 3홈런! KIA 역사 바꾼 '도니살', 3연승으로 창단 첫 준PO 통과... LG 꺾고 대구 간다 [준PO3 현장리뷰]",
+  "published_at": "2026-10-20T13:10:00.000Z",
+  "collected_at": "2026-10-20T13:40:20.145Z",
+  "summary_ko": "스타뉴스에 따르면 김도영이 포스트시즌 최연소·최장거리 만루포를 치며 준PO 3홈런을 기록했고, KIA는 3연승으로 준PO를 통과했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 84,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

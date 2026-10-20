@@ -1,0 +1,23 @@
+{
+  "id": "news-daf41cc1",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8yejgxYkRteDl0UF9vWU91NThaOWZ2ZjZBQ2RWeEpUMWZvMGxlcENmYmF0bkR5UUktQ1cwMmNBdEMtb2xvNWxFemVFYW8yQTZjbTlGYmhVUTlhdGsyZWsxVGtLRi1rUE01N2ZpUEFwd9IBb0FVX3lxTE8yejgxYkRteDl0UF9vWU91NThaOWZ2ZjZBQ2RWeEpUMWZvMGxlcENmYmF0bkR5UUktQ1cwMmNBdEMtb2xvNWxFemVFYW8yQTZjbTlGYmhVUTlhdGsyZWsxVGtLRi1rUE01N2ZpUEFwdw?oc=5",
+  "title": "[사진]나성범 '잠실 가장 먼 곳을 넘기는 선제 솔로포'",
+  "published_at": "2026-10-20T09:53:00.000Z",
+  "collected_at": "2026-10-20T13:40:20.145Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 99,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

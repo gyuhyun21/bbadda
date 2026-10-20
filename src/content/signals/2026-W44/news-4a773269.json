@@ -1,0 +1,23 @@
+{
+  "id": "news-4a773269",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://www.sportschosun.com/baseball/2026-10-20/202610200100131120008560",
+  "title": "'셧아웃 PO행' 이범호 감독 \"삼성 우리보다 강팀, 하지만 두려울 것 없다\" [준PO3 현장]",
+  "published_at": "2026-10-20T13:30:20.000Z",
+  "collected_at": "2026-10-20T13:40:20.145Z",
+  "summary_ko": "스포츠조선에 따르면 셧아웃으로 PO에 오른 KIA 이범호 감독은 삼성이 KIA보다 강팀이지만 두려울 것은 없다고 말했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

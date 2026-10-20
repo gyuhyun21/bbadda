@@ -1,0 +1,28 @@
+{
+  "id": "youtube-c29c2276",
+  "issue": "2026-W44",
+  "module": "league",
+  "teams": [
+    "kia",
+    "lg"
+  ],
+  "team": "kia",
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=ikjloYSh4tQ",
+  "title": "(노컷) 플레이오프 진출을 확정 짓는 KIA의 9회 말 아웃카운트 세 개! | 준PO3_KIA vs LG | 10.20 | 크보모먼트 | KBO 야구 하이라이트",
+  "published_at": "2026-10-20T13:34:40Z",
+  "collected_at": "2026-10-20T13:40:20.145Z",
+  "summary_ko": "KBO 공식 채널이 KIA의 PO 진출을 확정한 9회 말 아웃카운트 세 개 영상을 올렸다.",
+  "metrics": {
+    "views": 1533,
+    "likes": 115,
+    "comments": 23
+  },
+  "scores": {
+    "hot": 79,
+    "relevance": 80
+  },
+  "sentiment": "neutral"
+}

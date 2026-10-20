@@ -1,0 +1,22 @@
+{
+  "id": "news-1a0009d9",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "스타뉴스",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1ZQ1R1blJIZnlfTnpSTC04Mm16c1FsQ3YxNzlWSmNWYmpIQ1RUcGEtNzV6X0oxTXpCZVhqYS1ReExvdlZubnlCeW56Ym1VRmZaeXFRVXhrNmw2cm5NS0k5ZktzWG9yVWNMQzF1Y2FZLXVHXzE5ZEE?oc=5",
+  "title": "'김도영 3번·카스트로 4번 그대로!' 좌타자 7명 배치 KIA, 시라카와 앞세워 잠실서 끝낸다 [준PO3 현장]",
+  "published_at": "2026-10-20T08:01:44.000Z",
+  "collected_at": "2026-10-20T13:40:20.145Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 80
+  },
+  "sentiment": "neutral"
+}

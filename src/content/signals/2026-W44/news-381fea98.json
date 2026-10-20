@@ -1,0 +1,24 @@
+{
+  "id": "news-381fea98",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "lg",
+  "teams": [
+    "lg",
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9BOGhQRHhlQnVTaEpnbk8waGN2WVVWSUNHTHFjTjhsR053aG9mOTFvQW1sVmdjUzkyU01GU1I4dHhwNWpkMWEwbFlyMnRfRHF0UzZFTTFEWTVQOUw3NWl6Z3BlV2gyV1dQek9FWmtSWdIBb0FVX3lxTE9BOGhQRHhlQnVTaEpnbk8waGN2WVVWSUNHTHFjTjhsR053aG9mOTFvQW1sVmdjUzkyU01GU1I4dHhwNWpkMWEwbFlyMnRfRHF0UzZFTTFEWTVQOUw3NWl6Z3BlV2gyV1dQek9FWmtSWQ?oc=5",
+  "title": "[사진]시라카와, 4이닝 무실점이야",
+  "published_at": "2026-10-20T10:58:00.000Z",
+  "collected_at": "2026-10-20T13:40:20.145Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

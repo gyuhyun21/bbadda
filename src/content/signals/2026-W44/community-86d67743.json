@@ -1,0 +1,23 @@
+{
+  "id": "community-86d67743",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 세상의 모든 것",
+  "url": "https://blog.naver.com/gung_joo2/224448102788",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/BBYwTAT33FU",
+  "title": "손아섭 두산 방출, 통산 2,655안타에도 3000안타 꿈은 끝나지 않았다",
+  "published_at": "2026-10-20T20:00:00.000+09:00",
+  "collected_at": "2026-10-20T13:40:20.145Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "community-4631716b",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 달달see l 여행 맛집 큐레이션",
+  "url": "https://blog.naver.com/dalhh817/224448228001",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/8BgvSCRglFf",
+  "title": "인천문학경기장주차장 실제 주차 후기 주차요금 출차꿀팁",
+  "published_at": "2026-10-20T22:13:00.000+09:00",
+  "collected_at": "2026-10-20T13:40:20.145Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

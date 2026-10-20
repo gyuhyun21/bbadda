@@ -1,0 +1,27 @@
+{
+  "id": "youtube-6f536b4d",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "정병야구",
+  "url": "https://www.youtube.com/watch?v=EfqSEWI9zaU",
+  "title": "앙증맞게 항의하는 김상수 #야구 #프로야구 #kbo #삼성라이온즈 #키움히어로즈 #김상수 #이지영 #구자욱",
+  "published_at": "2026-10-20T11:00:33Z",
+  "collected_at": "2026-10-20T13:40:20.145Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 6205,
+    "likes": 32,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 51,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "news-dcb5e7bf",
+  "issue": "2026-W44",
+  "module": "league",
+  "teams": [],
+  "source_type": "news",
+  "source_name": "경기일보",
+  "url": "https://www.kyeonggi.com/article/20261020580444",
+  "title": "문체부, 포스트시즌 암표상 의심자 31명 경찰 수사 의뢰",
+  "published_at": "2026-10-20T07:37:59.000Z",
+  "collected_at": "2026-10-20T13:40:20.145Z",
+  "summary_ko": "경기일보에 따르면 문체부가 포스트시즌 암표상 의심자 31명을 경찰에 수사 의뢰했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 90,
+    "relevance": 30
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "아주경제",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1KYXpGeTRlUTZmWmNjU0hIZjkxS2NzWmF4WDNLOGtDS0t4Uk9iMTJXN3ljSG56Z3NDWHdZWWpDRlc4c3BKSlFLbGZ1eE1uSXQ2X0lCQ1pTUDPSAVhBVV95cUxNSmF6Rnk0ZVE2ZlpjY1NISGY5MUtjc1pheFgzSzhrQ0tLeFJPYjEyVzd5Y0huemdzQ1h3WVlqQ0ZXOHNwSkpRS2xmdXhNbkl0Nl9JQkNaU1Az?oc=5"
+    },
+    {
+      "source_name": "정책브리핑",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdDU0anBjNU1wT25LeU02T09KQXNYRXdkdGpYVTJabkI1Y1ozYVlFQ2VHRldwLURCc0Ztal9IblBwcVlhT3lzTjFnb2tENVBpcVdIX0x5eE5PT3Y2aW0yZUVFREliWWFKbzBGRGhrREQ0YzlENTRROXk3U3gwY3EwTWM3dDA5bWVWNlE?oc=5"
+    }
+  ]
+}

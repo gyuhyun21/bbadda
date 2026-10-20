@@ -1,0 +1,23 @@
+{
+  "id": "community-a1d79b8b",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 K-Contents Review",
+  "url": "https://gilnami.tistory.com/123",
+  "title": "한국시리즈 역대 우승팀·우승 횟수 총정리, 1982년부터 2025년까지",
+  "published_at": "2026-10-20T09:29:01.000+09:00",
+  "collected_at": "2026-10-20T13:40:20.145Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

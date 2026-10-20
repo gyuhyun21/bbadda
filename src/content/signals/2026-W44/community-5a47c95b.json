@@ -1,0 +1,23 @@
+{
+  "id": "community-5a47c95b",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 tunakim0603님의 블로그",
+  "url": "https://blog.naver.com/tunakim0603/224446594451",
+  "title": "KBO 야구선수와 치어리더의 사랑! 결혼에 골인한 커플은 누구?",
+  "published_at": "2026-10-20T08:10:00.000+09:00",
+  "collected_at": "2026-10-20T13:40:20.145Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

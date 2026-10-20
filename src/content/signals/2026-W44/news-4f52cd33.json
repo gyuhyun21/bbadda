@@ -1,0 +1,28 @@
+{
+  "id": "news-4f52cd33",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5PVDFFYzk0eGQ1dnBlOXJZQjJrZ2QyTzBvellENHBNV3I5QkdYWlJBcUVtdk5lam4zZ3gtd25LNi13QzZ2dXB0T3Z4M2JwTE5Qa0NfS3hfSHNOcGpmNWJrdjRKbFJ6TWZfNUN3STJkZ9IBb0FVX3lxTE5PVDFFYzk0eGQ1dnBlOXJZQjJrZ2QyTzBvellENHBNV3I5QkdYWlJBcUVtdk5lam4zZ3gtd25LNi13QzZ2dXB0T3Z4M2JwTE5Qa0NfS3hfSHNOcGpmNWJrdjRKbFJ6TWZfNUN3STJkZw?oc=5",
+  "title": "[사진]LG 박해민, '삼구삼진 아쉽다'",
+  "published_at": "2026-10-20T09:48:00.000Z",
+  "collected_at": "2026-10-20T13:40:20.145Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOckdWQlNnbml2aC1ZVE1RSlFwc09nalZ1bjhFemtMUFlpN3ZpM3B5M3h3cG85aVZIalE4RHE3X2lzaEYwZl8zMnNhUzc3eDNIQmdqbHFqQUNGR0RZVnBJZl9iNGFxNUFncjRaOEhUejJHaDU3QjRHclBBV09oYmhDaEFJVjdIWkZS?oc=5"
+    }
+  ]
+}

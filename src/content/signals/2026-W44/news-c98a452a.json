@@ -1,0 +1,22 @@
+{
+  "id": "news-c98a452a",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "국제신문",
+  "url": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0600&key=20261021.22015005901&kid=",
+  "title": "마무리 캠프 코앞인데…롯데 감독·단장 인선 언제쯤",
+  "published_at": "2026-10-20T09:51:00.000Z",
+  "collected_at": "2026-10-20T13:40:20.145Z",
+  "summary_ko": "국제신문은 마무리캠프를 앞둔 롯데의 감독·단장 인선이 언제쯤 이뤄질지 짚었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 83,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "youtube-a6ecbd60",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "youtube",
+  "source_name": "까리카누",
+  "url": "https://www.youtube.com/watch?v=6DeOrOaMTMI",
+  "title": "#롯데 #롯데자이언츠 #감독 #야구 #우승 #추천",
+  "published_at": "2026-10-20T12:31:21Z",
+  "collected_at": "2026-10-20T13:40:20.145Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 341,
+    "likes": 3,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 38,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

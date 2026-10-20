@@ -1,0 +1,27 @@
+{
+  "id": "youtube-891ad4da",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "SportsTalk킹",
+  "url": "https://www.youtube.com/watch?v=xh5N4CGj3uA",
+  "title": "감독의 노여움을 산 자들의 험난한 크보 표류기 #SportsTalk킹",
+  "published_at": "2026-10-20T08:50:25Z",
+  "collected_at": "2026-10-20T13:40:20.145Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 57713,
+    "likes": 1105,
+    "comments": 271
+  },
+  "scores": {
+    "hot": 78,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

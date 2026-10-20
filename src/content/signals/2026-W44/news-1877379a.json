@@ -1,0 +1,24 @@
+{
+  "id": "news-1877379a",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "lg",
+  "teams": [
+    "lg",
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE50b1hzQnl1V0RRVTRmV1g0ckdVc0J5bWFyNG14OVNFQzFyc2hkUXBvbXRSTWt5a1hqZGgwaWRMRHdiSjVFNHZkNy0xdnlKQnAwak5DLUo0aWxURExfVEFiNXg4b1c2VTFoOGhldHZka9IBb0FVX3lxTE50b1hzQnl1V0RRVTRmV1g0ckdVc0J5bWFyNG14OVNFQzFyc2hkUXBvbXRSTWt5a1hqZGgwaWRMRHdiSjVFNHZkNy0xdnlKQnAwak5DLUo0aWxURExfVEFiNXg4b1c2VTFoOGhldHZkaw?oc=5",
+  "title": "[사진]박정우, 카라스코 끌어내린 1타점 적시타",
+  "published_at": "2026-10-20T10:06:00.000Z",
+  "collected_at": "2026-10-20T13:40:20.145Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 99,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

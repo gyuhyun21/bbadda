@@ -1,0 +1,24 @@
+{
+  "id": "community-1190cf99",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 h.y's",
+  "url": "https://blog.naver.com/khnkkh/224448188699",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/ErOvASFcShH",
+  "title": "“김도영이라 가능했다!” 145m 초대형 만루홈런…잠실을 뒤집은 괴력",
+  "published_at": "2026-10-20T21:31:00.000+09:00",
+  "collected_at": "2026-10-20T13:40:20.145Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

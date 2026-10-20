@@ -1,0 +1,23 @@
+{
+  "id": "news-882251e7",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "일간스포츠",
+  "url": "https://isplus.com/article/view/isp202610200193",
+  "title": "'KIA 3연승 PO행' 삼성엔 최악의 시나리오…푹 쉰 네일·올러에 미친 타격감 김도영까지 만난다",
+  "published_at": "2026-10-20T12:58:00.000Z",
+  "collected_at": "2026-10-20T13:40:20.145Z",
+  "summary_ko": "일간스포츠는 KIA의 PO 진출로 삼성이 푹 쉰 네일·올러와 타격감이 오른 김도영을 상대하게 됐다고 짚었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

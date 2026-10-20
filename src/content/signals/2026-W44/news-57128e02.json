@@ -1,0 +1,29 @@
+{
+  "id": "news-57128e02",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "m.edaily.co.kr",
+  "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOY2o5dWg1TVFlTUdWRDdwWGp2dFdiQVZDd0FZcmx1SXhYVEJIM2c5UDc1N1ZZV012TmRrMURCMDlvOXFlYUhoN0w3XzhyVmIzLXh2UVM5Q0dYWHM4T1BvUXRrc21FRTRCam5OTExTWVBiTFNlZWtGWE5pSXFrYU4yRg?oc=5",
+  "title": "김도영 145m 만루포…KIA, LG 3연승 제압하고 23년 만에 PO",
+  "published_at": "2026-10-20T13:06:49.000Z",
+  "collected_at": "2026-10-20T13:40:20.145Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 92,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "뉴스핌",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1mRzB4WFlTZml3Vk9wcmozeFdMejFvY0hFYVloT3pfUG9oV3hQZ0VoaEdlS3pCdFIwaGhuRm0wZjh2d1NuUmo3RjZCbHNUMThfeUJ5a2dsX0JzT3hW?oc=5"
+    }
+  ]
+}

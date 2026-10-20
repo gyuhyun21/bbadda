@@ -1,0 +1,25 @@
+{
+  "id": "news-29fbd8a7",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "lg",
+  "teams": [
+    "lg",
+    "nc",
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "조선일보",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSnBCYnc5SkFMR0lObjVLWnUxaWlVRXFPeDhTNTZsT0x2RDFXV1pUQjl3NGpLM000MlpIMTB6Q0pVOTcxTGJ3eUZGNUtld3lVSmRkSHpLdGRfUTJNUzZSV1M4WkNYLVhjd1BoODhlS1ctNkJ2WFNCeldOS2NVaFk1UnJPYw?oc=5",
+  "title": "나성범에게 150억 왜 썼냐고? 이래서 썼다 [준PO3 현장]",
+  "published_at": "2026-10-20T13:14:00.000Z",
+  "collected_at": "2026-10-20T13:40:20.145Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 84,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

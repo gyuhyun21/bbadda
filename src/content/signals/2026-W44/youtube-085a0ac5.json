@@ -1,0 +1,44 @@
+{
+  "id": "youtube-085a0ac5",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "youtube",
+  "source_name": "BaeBaeMU",
+  "url": "https://www.youtube.com/watch?v=gYMnnWKHNoI",
+  "title": "KT 힐리어드, 외국인 최초 한 시즌 월간 MVP 2회",
+  "published_at": "2026-10-20T11:06:44Z",
+  "collected_at": "2026-10-20T13:40:20.145Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 423,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 32,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "이투데이",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8wNy1RVWdfMXdPa2pqMzhPRzR4WEEzTWpFLTlLQ3BMWW13MnZpeHREaXMyRXl4Y3lmNEtTS00tdTZGd2pDNFFVVnlrSEZBSnJfanJiX0FXTE56LTBsMDJ2djFkMjBrSFRaSWhubVVB?oc=5"
+    },
+    {
+      "source_name": "톱스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1BcmtCdjlZajhfRkExc2t4bWltdlluU1IxQ1VmSWlZdEo5dnlIM1dfVVdxZlFuR3ZsUnZ0ZzQwMkRxekhmNEt4YjV6N1VCM0VzakZFMzhpdVRkM0UxTjNuOG14OE45NUJsbVFDeWtxYnIzZw?oc=5"
+    },
+    {
+      "source_name": "뉴스핌",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE54SHJHaDdRWkpvTU1hYS14NGNUN3pXM1N6MGROeVRKUXM1OFlmZnBPSWlBejg5eEM2OEtZVmZiZ2ZnbHNGX2Q3VGxpTzV6NWVqMmRZUUVyX0lCSGx5?oc=5"
+    },
+    {
+      "source_name": "일간스포츠",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE03NnlsTjRpM1JTOGVzWllnQl9Id3NHdmJVaDJ0WVU2aFE0N3E4YThoUkdRMjJPYmJxUmNTeFNNcEE4b0l3RTMwV0lmTERBYWJhWlRvQkJDYkVhdGhBUUtiZkR3?oc=5"
+    }
+  ]
+}

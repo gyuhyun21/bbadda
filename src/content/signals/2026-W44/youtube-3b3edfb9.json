@@ -1,0 +1,27 @@
+{
+  "id": "youtube-3b3edfb9",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg",
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "엘지사모",
+  "url": "https://www.youtube.com/watch?v=nurO5VS2x2M",
+  "title": "[LG트윈스 응원 방송] 준PO 3차전 VS 기아",
+  "published_at": "2026-10-20T13:16:30Z",
+  "collected_at": "2026-10-20T13:40:20.145Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 2267,
+    "likes": 35,
+    "comments": 4
+  },
+  "scores": {
+    "hot": 55,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

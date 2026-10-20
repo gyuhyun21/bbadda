@@ -1,0 +1,24 @@
+{
+  "id": "news-ef36e3aa",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "lg",
+  "teams": [
+    "lg",
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE13RkhNQkpTdWJ1WnNyRC1KSi1jZl9zU0pJNWZDZng1SnRpWFpSYWY4V1pXYUhsS3E3TWVFdi1obzhLU2pWR0U1NEt3MzE3d1V3ZzdtTk5HUXFDck9iR0w5YUMwejRDNlVuTDJ4NnUyRy05OHIyNm1DdXlQdVVKUQ?oc=5",
+  "title": "우승→8위 추락 아픔이, 이범호를 더 단단하게 만들었나...용병술 무섭다, PS 판도 다 뒤집나 [준PO3 현장]",
+  "published_at": "2026-10-20T13:03:00.000Z",
+  "collected_at": "2026-10-20T13:40:20.145Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

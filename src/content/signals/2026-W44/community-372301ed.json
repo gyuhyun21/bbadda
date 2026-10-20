@@ -1,0 +1,24 @@
+{
+  "id": "community-372301ed",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 세계는 지금",
+  "url": "https://blog.naver.com/now_news/224447994878",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/FPaUSbvvYMu",
+  "title": "최광야구 3회째에 '재계약' 아빌라 등장…알고 보니 선수들이 직접 기획한 경기",
+  "published_at": "2026-10-20T18:43:00.000+09:00",
+  "collected_at": "2026-10-20T13:40:20.145Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-16e32529",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠경향",
+  "url": "https://sports.khan.co.kr/article/202610201700003/amp",
+  "title": "또 다시 추운 겨울 맞이하게 된 손아섭, 야구 인생은 어떻게 이어질까",
+  "published_at": "2026-10-20T08:00:00.000Z",
+  "collected_at": "2026-10-20T13:40:20.145Z",
+  "summary_ko": "스포츠경향은 두산에서 방출된 손아섭이 다시 맞은 겨울과 앞으로의 행보를 짚었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

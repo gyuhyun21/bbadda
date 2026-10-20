@@ -1,0 +1,22 @@
+{
+  "id": "community-00ee62d7",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 트렌드한 소식",
+  "url": "https://blog.naver.com/trendsosic/224447998191",
+  "title": "롯데 김태형 재계약 최종안 포함 소식, 가을야구 운명 가를 선택은?",
+  "published_at": "2026-10-20T18:39:00.000+09:00",
+  "collected_at": "2026-10-20T13:40:20.145Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

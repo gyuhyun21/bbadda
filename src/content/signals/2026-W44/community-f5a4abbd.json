@@ -1,0 +1,24 @@
+{
+  "id": "community-f5a4abbd",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt",
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 크모스의 스포츠 ⚾️. BLAHBLAH",
+  "url": "https://blog.naver.com/sportshub_/224448089151",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/Jp7lOGgUH8L",
+  "title": "“형우 형도 돌아왔잖아요?” KT 김상수 FA, 삼성도 다시 부를까",
+  "published_at": "2026-10-20T19:38:00.000+09:00",
+  "collected_at": "2026-10-20T13:40:20.145Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

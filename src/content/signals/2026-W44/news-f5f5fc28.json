@@ -1,0 +1,32 @@
+{
+  "id": "news-f5f5fc28",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9meGNqT0EtOXpJNGxMMXF6TkhSc0lvT0tUOGs1U2NBVGU4SHlySlpPVzdYeWlDSmZvWlFNSmxrLUg0dERQdllvMEZHc19QMm53N2c2dE5TVUFVWXdORVJGUjk2UU03U014enfSAW9BVV95cUxNRk1MQVFwNjk0N0ExX25NY0JwNkVaX0FyOGRJVzV5cGQwb1IzRkNONDZnTlN5SmNXTWp5RnNiR0FzdXFPdzQxa3A5elpsNDh4NEJXNXI1djVVTndpaVZqMVl1UEh0bWsxQUlzck5MdUU?oc=5",
+  "title": "[사진]나성범 선취 솔로포 환호하는 KIA 타이거즈",
+  "published_at": "2026-10-20T09:57:00.000Z",
+  "collected_at": "2026-10-20T13:40:20.145Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 83,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUmhuZmlwdTJ3XzdERWpyU3kwQjFvcDgyVUotelhNMGJTdnRKNVlZbDNEUlhpREFnc0czUWxlU3hOWUtrbV8xU3BxOTFSS1QwR0g0MXZMcGZrcTVGamIyVWNNQUNSa3JWN3JKanZXck1ibHBPWFNjX1g5eEdvVG9rZlgwNE5IMHpM?oc=5"
+    },
+    {
+      "source_name": "Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRGdXMmlxbnV5dF92YnV6djE3Z0cyT0MyNUR1Q01IUzgyckU4ZXBuVl9qV0p4bWxvV0tPSG5ZWVBVS2J4X3FHZVpNc29EeUhORnRodS1iTkZnXzIyYmxfbHNmc0c3ZHNXbDlnUjVKVnJjUXpiZlE1QnJMSnA2WGE0WE1UZkJSVG9J0gGcAUFVX3lxTE5oTmR1TTlFYkVjMmRqdlNVSHhDMmNvWjZfWEZYb0J1ZHBWS204NE5WcGlhNVp6dE1RRkNXTTM1Tng5Zm1LMWZlTWR1SmdYdUdVRTMzZXhnYmV2UUZRcHZDTjUteW8zM0Q5akx3b0tqVURVTGo1R1pNSDhrcHkzamZmUlo0RVVIaXBma2ozVjJycU02SFg3QWg2RGFOYQ?oc=5"
+    }
+  ]
+}

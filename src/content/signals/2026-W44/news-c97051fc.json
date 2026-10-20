@@ -1,0 +1,29 @@
+{
+  "id": "news-c97051fc",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8tREZXcTFXamJYRnRpTU5GZ2xtUllHbmUzNWR2NjJhTjl0YllTTGNPanR5UWI1Y0JaNnk0OGxHWDFBZ3VRTndxdXB1Tk1JcXdDMEhLN0Z4aTZfeXFIaWdWWkZOSlpkeEU3YjdZWl9uONIBb0FVX3lxTE8tREZXcTFXamJYRnRpTU5GZ2xtUllHbmUzNWR2NjJhTjl0YllTTGNPanR5UWI1Y0JaNnk0OGxHWDFBZ3VRTndxdXB1Tk1JcXdDMEhLN0Z4aTZfeXFIaWdWWkZOSlpkeEU3YjdZWl9uOA?oc=5",
+  "title": "[사진]슈퍼스타 김도영, '만루포에 펄쩍펄쩍'",
+  "published_at": "2026-10-20T10:11:00.000Z",
+  "collected_at": "2026-10-20T13:40:20.145Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 99,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "스포츠조선",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5fQ0htWXFTT0o3VVRXX2c2d2NFUnY4SDlPRUJlZl8zRWJnN2JvdE9yTC1HNkNPZE9ETkVERjREVWVpQnA1SWlmY2ZySzJHOU5QdU1ydExvUFg5Q0FJZjFwUkxnWjN2Y0dwUjRJc0xUbWNWV3NkaFkwb1JhSG1Bdw?oc=5"
+    }
+  ]
+}

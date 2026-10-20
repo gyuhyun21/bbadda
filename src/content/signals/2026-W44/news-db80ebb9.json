@@ -1,0 +1,29 @@
+{
+  "id": "news-db80ebb9",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://www.mt.co.kr/amp/sports/2026/10/20/202610201650776532O",
+  "title": "구자욱 회복세에 반색한 박진만 감독, 최형우 좌익수 기용은 여전히 고민…“단기전은 수비가 중요” [오!쎈 대구]",
+  "published_at": "2026-10-20T08:45:00.000Z",
+  "collected_at": "2026-10-20T13:40:20.145Z",
+  "summary_ko": "머니투데이에 따르면 구자욱의 회복에 반색한 삼성 박진만 감독은 최형우의 좌익수 기용을 여전히 고민하고 있다.",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWWMxMmFVOEp5QzlNNkxNaXZYRTB5TXh1bkhDRGQtQUt6eEVzZl9EcGhYVlZWamM1SFBzVGFQMUtpTnp0b2s0MFJmbWh2V0Ezd3Zsd25zVXd0cHBzNGRkcDgyWHFMR0RUaVNHVmJicWhkSUZQVGlQenZZSENLUUJoV1VnRjVjUGVvRmU0cEpPWEcySDhOTGow0gGXAUFVX3lxTE9ZYzEyYVU4SnlDOU02TE1pdlhFMHlNeHVuSENEZC1BS3p4RXNmX0RwaFhWVlZqYzVIUHNUYVAxS2lOenRvazQwUmZtaHZXQTN3dmx3bnNVd3RwcHM0ZGRwODJYcUxHRFRpU0dWYmJxaGRJRlBUaVB6dllIQ0tRQmhXVWdGNWNQZW9GZTRwSk9YRzJIOE5MajA?oc=5"
+    }
+  ]
+}

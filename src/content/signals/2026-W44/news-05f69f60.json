@@ -1,0 +1,23 @@
+{
+  "id": "news-05f69f60",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "일간스포츠",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1fQ2l5RDhLX0pyMFNCcDhoT0M3RUxtNEptbjNMWTc3dldrQW8wWU80ODQ2Qkg0YTN4V1dkRFhZRjFfRzZZU3phZXVtMHB1R2FQNDM4TklBanVyUXhncGxabENR?oc=5",
+  "title": "프로야구 가을야구 암표 거래 의심액만 7억3000만원…31명 경찰 수사 의뢰",
+  "published_at": "2026-10-20T07:46:00.000Z",
+  "collected_at": "2026-10-20T13:40:20.145Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

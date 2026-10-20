@@ -1,0 +1,28 @@
+{
+  "id": "youtube-18e2b505",
+  "issue": "2026-W44",
+  "module": "league",
+  "teams": [
+    "kia",
+    "lg"
+  ],
+  "team": "kia",
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=qpuNs6TtVSY",
+  "title": "타구를 놓치지 않는 집중력! 흐름을 지켜내는 KIA 카스트로의 호수비! | 준PO3_KIA vs LG | 10.20 | 크보모먼트 | KBO 야구 하이라이트",
+  "published_at": "2026-10-20T12:40:05Z",
+  "collected_at": "2026-10-20T13:40:20.145Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 4438,
+    "likes": 416,
+    "comments": 46
+  },
+  "scores": {
+    "hot": 85,
+    "relevance": 80
+  },
+  "sentiment": "neutral"
+}

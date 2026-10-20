@@ -1,0 +1,27 @@
+{
+  "id": "youtube-2b04f99d",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "SSG랜더스",
+  "url": "https://www.youtube.com/watch?v=3kTGakcMECY",
+  "title": "광현 팀은 다 생각이 있습니다💥 | 최광야구 1429 EP.7 승리의 덕캠",
+  "published_at": "2026-10-20T10:00:37Z",
+  "collected_at": "2026-10-20T13:40:20.145Z",
+  "summary_ko": "SSG 공식 채널이 '최광야구 1429' 7편 승리의 덕캠 영상을 올렸다.",
+  "metrics": {
+    "views": 20526,
+    "likes": 1229,
+    "comments": 314
+  },
+  "scores": {
+    "hot": 93,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

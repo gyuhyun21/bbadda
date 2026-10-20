@@ -1,0 +1,24 @@
+{
+  "id": "news-23d3ccdd",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia",
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "미주중앙일보",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBockN4Zm56QjBIRVFVN1NiNGE3OWpOUThtSDIwbWpHb2xaWDF4MWZIX1dDYWhhYWloREF2UERVbnBlRzFST2xLY2FhLVdsNnQyYUF3MWtHYjF5R3g3clE5R0Jn?oc=5",
+  "title": "‘삼성 나와라' 김도영 만루포+나성범 멀티포+한준수 쐐기포 대폭발...KIA, 승승승 PO 진출, LG는 잠실 고별전 참패 [준PO3 리뷰]",
+  "published_at": "2026-10-20T13:03:00.000Z",
+  "collected_at": "2026-10-20T13:40:20.145Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "youtube-7942891d",
+  "issue": "2026-W44",
+  "module": "league",
+  "teams": [
+    "kia",
+    "lg"
+  ],
+  "team": "kia",
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=wWoWX3vYaW8",
+  "title": "격차를 벌리는 KIA 박정우-박재현의 연속 적시타! | 준PO3_KIA vs LG | 10.20 | 크보모먼트 | KBO 야구 하이라이트",
+  "published_at": "2026-10-20T10:43:14Z",
+  "collected_at": "2026-10-20T13:40:20.145Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 40465,
+    "likes": 1065,
+    "comments": 98
+  },
+  "scores": {
+    "hot": 80,
+    "relevance": 80
+  },
+  "sentiment": "neutral"
+}

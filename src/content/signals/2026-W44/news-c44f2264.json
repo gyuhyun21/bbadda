@@ -1,0 +1,22 @@
+{
+  "id": "news-c44f2264",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "엑스포츠뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1VTUUzNVJSUk5XSEI0X1dlMmMya2hIb2gtQTNPUnJQdUpxWnFJZkM4eVdlaUtIVWFPcjV0c3p1VWNZUFlxSWh0Nl9vcXRMOWQ3aDE2Rw?oc=5",
+  "title": "'삼성 KS 진출 열쇠' 구자욱, 부상 털고 돌아왔다…실전 복귀서 후라도 상대 안타 '쾅'",
+  "published_at": "2026-10-19T15:48:23.000Z",
+  "collected_at": "2026-10-20T13:40:20.145Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 60,
+    "relevance": 70
+  },
+  "sentiment": "mixed"
+}

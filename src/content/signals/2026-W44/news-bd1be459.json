@@ -1,0 +1,23 @@
+{
+  "id": "news-bd1be459",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "중앙일보",
+  "url": "https://www.joongang.co.kr/article/25471307",
+  "title": "김도영 한마디에 붉게 물든 관중석…요즘 가을야구 트렌드는 ‘드레스코드’",
+  "published_at": "2026-10-20T08:17:15.000Z",
+  "collected_at": "2026-10-20T13:40:20.145Z",
+  "summary_ko": "중앙일보는 올해 가을야구 관중석의 트렌드가 '드레스코드'라고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}
