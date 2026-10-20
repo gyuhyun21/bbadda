@@ -3,5 +3,27 @@
   "framework": "astro",
   "installCommand": "npm ci",
   "buildCommand": "npm run build",
-  "outputDirectory": "dist"
+  "outputDirectory": "dist",
+  "redirects": [
+    {
+      "source": "/game/arcade",
+      "destination": "/game/",
+      "permanent": false
+    },
+    {
+      "source": "/game/arcade/",
+      "destination": "/game/",
+      "permanent": false
+    },
+    {
+      "source": "/games",
+      "destination": "/game/",
+      "permanent": false
+    },
+    {
+      "source": "/games/",
+      "destination": "/game/",
+      "permanent": false
+    }
+  ]
 }
