@@ -49,7 +49,7 @@ test('뉴스 피드: 10팀 + 리그 검색어, 한국어 로케일', () => {
   const f = buildFeeds();
   assert.equal(f.filter((x) => x.via === 'team').length, 10);
   assert.ok(f.every((x) => x.url.includes('hl=ko') && x.url.includes('gl=KR')));
-  assert.equal(new URL(f[0].url).searchParams.get('q'), '"LG 트윈스" OR LG트윈스 when:7d');
+  assert.equal(new URL(f[0].url).searchParams.get('q'), '"LG 트윈스" OR LG트윈스 when:1d');
 });
 
 test('Vertex: 날짜 인식(메타 작성 시각·한국어·영문·상대 시간), 수정 시각은 무시', () => {
