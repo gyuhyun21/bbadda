@@ -29,5 +29,9 @@ jobs:
           fi
           [[ "$POST" =~ ^[0-9a-z-]+$ ]] || { echo "잘못된 폴더 이름"; exit 1; }
           jq -r '.reel_caption // .caption' "public/insta/$POST/post.json" > /tmp/cap.txt
+          # 같은 본문이 최근 게시물에 이미 있으면 건너뛴다(수동으로 먼저 올렸거나 예약 실행이 늦게 돈 경우 중복 방지)
+          if curl -sS -f -H "Authorization: Bearer $TOKEN" "https://graph.facebook.com/v21.0/$IG/media?fields=caption&limit=15" | jq -e --rawfile c /tmp/cap.txt 'any(.data[]; (.caption // "") == ($c | rtrimstr("\n")))' >/dev/null; then
+            echo "이미 게시됨, 건너뜀: $POST" | tee -a "$GITHUB_STEP_SUMMARY"; exit 0
+          fi
           res=$(bash scripts/insta/reel.sh "https://bbadda.com/insta/$POST/reel.mp4" /tmp/cap.txt)
           echo "게시: $res" | tee -a "$GITHUB_STEP_SUMMARY"
