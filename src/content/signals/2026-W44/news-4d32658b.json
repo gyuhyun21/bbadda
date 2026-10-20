@@ -1,0 +1,23 @@
+{
+  "id": "news-4d32658b",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "BNT뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE50Z01SMklRUTE2M3BoRHc5NGNUTG9sQVg3QnFfZkJvNDgtdXNYNWU0bFE4M0VVZE1zUmZxbE80bmUwaFpxbi1RUUtnblBXNUstVmtKRy1iYnZtdHBPMXl0V09ad2c?oc=5",
+  "title": "기아 vs 엘지 야구 준플레이오프 3차전 중계 MBC",
+  "published_at": "2026-10-20T09:24:02.000Z",
+  "collected_at": "2026-10-20T21:37:51.700Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 80
+  },
+  "sentiment": "neutral"
+}

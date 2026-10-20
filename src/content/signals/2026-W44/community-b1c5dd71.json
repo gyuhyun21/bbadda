@@ -1,0 +1,23 @@
+{
+  "id": "community-b1c5dd71",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 Korivue 코리뷰 | 한국 여행·문화·생활",
+  "url": "https://blog.naver.com/korea-information/224447208150",
+  "title": "프로야구 직관 처음이라면?｜KBO 예매·좌석 선택·응원문화·준비물",
+  "published_at": "2026-10-20T13:59:00.000+09:00",
+  "collected_at": "2026-10-20T21:37:51.700Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 62,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

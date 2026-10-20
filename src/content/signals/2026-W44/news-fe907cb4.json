@@ -1,0 +1,28 @@
+{
+  "id": "news-fe907cb4",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "스타뉴스",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1sMVRsYnAteG5hQzljVGtiLXN3Z1Y2aUZqSXY0TlhydmJTck51UjZNUko4ZVF2QWZHRFV3LV8yM1dqN3FFRUFQRTc5dEdjZ2pMOEFnVmZCLWt6TGd3bjlWdFRSZGJWdC1oU2JvOWRRVk1TYVJ0bkE?oc=5",
+  "title": "'이럴 수가' ML 112승 외인 충격 1⅓이닝 강판! 나성범 솔로포→김도영 만루포까지, 벼랑 끝 LG 2회에 무너졌다 [준PO3 현장]",
+  "published_at": "2026-10-20T10:24:03.000Z",
+  "collected_at": "2026-10-20T21:37:51.700Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 72,
+    "relevance": 80
+  },
+  "sentiment": "negative",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBrMDNaVVk2V1dNVF91bEV3STgydVg5N0luMjZzWS1UdUhqNlhZZkFLbENOMzY5UXZjOVJwVGtMNnVpN2JMbU5DQ2p1bDY5WWEyWEYtMnRnZFdHR1VRVGQ2WHRYVTFMLTkwZDA1TklFSdIBb0FVX3lxTFBrMDNaVVk2V1dNVF91bEV3STgydVg5N0luMjZzWS1UdUhqNlhZZkFLbENOMzY5UXZjOVJwVGtMNnVpN2JMbU5DQ2p1bDY5WWEyWEYtMnRnZFdHR1VRVGQ2WHRYVTFMLTkwZDA1TklFSQ?oc=5"
+    }
+  ]
+}

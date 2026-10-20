@@ -1,0 +1,22 @@
+{
+  "id": "news-e58b913d",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "일간스포츠",
+  "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9xLVM3OTAxSjZoQ2JIUXJhTTU2YWdmYm4xQV9NLVJva3JacmM2NV90ZXNaWGZHVXpwOWc5cjVkR1ZVbUNwX0NLY25CdVFiN2N0bFM0b0lKYnBVVFE?oc=5",
+  "title": "시리즈 스윕 기대 못했던 이범호 감독...\"삼성은 우리보다 강팀, 신나는 야구 해야\"",
+  "published_at": "2026-10-20T15:11:00.000Z",
+  "collected_at": "2026-10-20T21:37:51.700Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

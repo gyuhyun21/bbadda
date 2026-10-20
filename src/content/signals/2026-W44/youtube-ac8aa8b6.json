@@ -1,0 +1,27 @@
+{
+  "id": "youtube-ac8aa8b6",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "부볼의 야구공방",
+  "url": "https://www.youtube.com/watch?v=Jls0DXyVlnQ",
+  "title": "260702 SSG 최용준 (vs 한화) #최용준 #투수 #SSG #SSG랜더스 #한화 #한화이글스 #야구 #KBO",
+  "published_at": "2026-10-20T12:16:52Z",
+  "collected_at": "2026-10-20T21:37:51.700Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 3,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

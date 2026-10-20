@@ -1,0 +1,28 @@
+{
+  "id": "youtube-5ec6834f",
+  "issue": "2026-W44",
+  "module": "league",
+  "teams": [
+    "kia",
+    "lg"
+  ],
+  "team": "kia",
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=t0u8QWEYg54",
+  "title": "[KIA타이거즈 vs LG트윈스] 10.20(화) 준PO 3차전 하이라이트｜2026 신한 SOL KBO 포스트시즌｜준플레이오프 3차전｜KBO X TVING",
+  "published_at": "2026-10-20T13:46:25Z",
+  "collected_at": "2026-10-20T21:37:51.700Z",
+  "summary_ko": "KBO 공식 채널이 KIA와 LG의 준플레이오프 3차전 하이라이트를 올렸다.",
+  "metrics": {
+    "views": 136440,
+    "likes": 1147,
+    "comments": 228
+  },
+  "scores": {
+    "hot": 64,
+    "relevance": 80
+  },
+  "sentiment": "neutral"
+}

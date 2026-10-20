@@ -1,0 +1,23 @@
+{
+  "id": "news-4ce38825",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "뉴시스",
+  "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE41Z1VYdjJtVE5QNExsU2pfb2d2WmM1YXV4WlgxZnVNUjJBNFRxenFEb3RKUldjU3B6SUN5bU5rUGdIOF9hVUR2a2hCUm9OUm5mVGpFYnFmQlVrdWRoalZKYnJTTUhHZThyQUdLU3kyNGVDbEFTZ2cwVdIBeEFVX3lxTE41Z1VYdjJtVE5QNExsU2pfb2d2WmM1YXV4WlgxZnVNUjJBNFRxenFEb3RKUldjU3B6SUN5bU5rUGdIOF9hVUR2a2hCUm9OUm5mVGpFYnFmQlVrdWRoalZKYnJTTUhHZThyQUdLU3kyNGVDbEFTZ2cwVQ?oc=5",
+  "title": "삼성 잡으러 가는 KIA 김도영 \"방심·자만 절대 안 해\"(종합)[준PO]",
+  "published_at": "2026-10-20T14:27:09.000Z",
+  "collected_at": "2026-10-20T21:37:51.700Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 97,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

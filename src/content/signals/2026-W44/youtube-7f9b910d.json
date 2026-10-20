@@ -1,0 +1,26 @@
+{
+  "id": "youtube-7f9b910d",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "대구1등술집 \"구구포차\"",
+  "url": "https://www.youtube.com/watch?v=LuMa5PJRAH0",
+  "title": "삼성라이온즈🦁 플레이오프 전 경기 생중계합니다(낮2시 경기 포함!!)구구포차 경북대 본점에서삼성라이온즈 한국시리즈우승을 함께 응원합시다💙예약문의 DM주세요 :)",
+  "published_at": "2026-10-20T15:19:06Z",
+  "collected_at": "2026-10-20T21:37:51.700Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1123,
+    "likes": 2,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 35,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

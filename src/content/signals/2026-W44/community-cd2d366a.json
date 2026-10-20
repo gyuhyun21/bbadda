@@ -1,0 +1,24 @@
+{
+  "id": "community-cd2d366a",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "엠엘비파크",
+  "url": "https://mlbpark.donga.com/mp/b.php?id=202610200119554434&p=31&b=kbotown&m=view&select=spf&query=%EB%91%90%EC%82%B0&site=donga.com",
+  "title": "야 씨락까와 출세했네 가을야구에 선발",
+  "published_at": "2026-10-20T09:37:51.700Z",
+  "collected_at": "2026-10-20T21:37:51.700Z",
+  "summary_ko": "",
+  "excerpt": "... 두산에서는 그냥 착한 청년일뿐이었는데출세헸다!!",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

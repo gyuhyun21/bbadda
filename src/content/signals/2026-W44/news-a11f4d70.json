@@ -1,0 +1,22 @@
+{
+  "id": "news-a11f4d70",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "연합뉴스",
+  "url": "https://www.yna.co.kr/amp/view/MYH20261020024300038",
+  "title": "플레이오프 대비 나선 삼성…'타격왕' 구자욱 합류",
+  "published_at": "2026-10-20T14:18:17.000Z",
+  "collected_at": "2026-10-20T21:37:51.700Z",
+  "summary_ko": "연합뉴스는 플레이오프를 준비하는 삼성 훈련에 타격왕 구자욱이 합류했다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

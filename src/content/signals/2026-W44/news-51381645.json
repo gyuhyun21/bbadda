@@ -1,0 +1,23 @@
+{
+  "id": "news-51381645",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "일간스포츠",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBmQnZyeGlYeFQxZDlUaC12ZnpZSnV5TGRQX0xxMkVJaGpjX3hndHdlZm5VWEFLRDNtZm4yRGxlOUI3N0piOGZ1bzMwUEJ3dUoyUHp4c0hDWkpnN243T2dNYnBR?oc=5",
+  "title": "'삼성 떨고 있나' 구단주·단장까지 총출동, 삼성 박진만 감독 \"KIA 전력 탄탄, 김도영 경계 대상\"",
+  "published_at": "2026-10-20T20:27:00.000Z",
+  "collected_at": "2026-10-20T21:37:51.700Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

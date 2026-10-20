@@ -1,0 +1,26 @@
+{
+  "id": "youtube-068f842b",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "youtube",
+  "source_name": "오늘의 스포츠KBO",
+  "url": "https://www.youtube.com/watch?v=njVenvn34Uo",
+  "title": "🚨 롯데 자이언츠, 9년 잔혹사 끝낼 마지막 승부수 던졌다! 김태형·단장 전격 교체와 손아섭 충격 복귀가 가져올 미친 반전!",
+  "published_at": "2026-10-20T13:45:03Z",
+  "collected_at": "2026-10-20T21:37:51.700Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 2433,
+    "likes": 32,
+    "comments": 3
+  },
+  "scores": {
+    "hot": 49,
+    "relevance": 70
+  },
+  "sentiment": "mixed"
+}

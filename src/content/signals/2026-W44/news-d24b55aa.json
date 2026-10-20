@@ -1,0 +1,29 @@
+{
+  "id": "news-d24b55aa",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://www.mt.co.kr/amp/sports/2026/10/21/202610201718779244O",
+  "title": "“아시안게임 다녀오더니 확 달라졌다” 박진만 감독이 칭찬한 배찬승…사토시·이재희도 PS 핵심 카드 [오!쎈 대구]",
+  "published_at": "2026-10-20T15:11:00.000Z",
+  "collected_at": "2026-10-20T21:37:51.700Z",
+  "summary_ko": "OSEN은 박진만 삼성 감독이 배찬승을 칭찬했고 사토시·이재희도 포스트시즌 핵심 카드로 꼽았다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE10T1M1SDkyOFFqRnQ0ZklwNVlVcnNWa2Nsc1IycTZpaDAySi1UdW0wYlBWU2F5TS1Nblo5bTExNm5TNEQya2xCb2lKMlB4Q20xbmN4Zg?oc=5"
+    }
+  ]
+}

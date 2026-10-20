@@ -1,0 +1,22 @@
+{
+  "id": "news-d16ff898",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5pREIzMkg4ZHU3Vk1tOUx2TWVSb0dPZ3ZOX2NaclhZajZmOVJ6N2dacVpSRHl3N3hrODNVTFdOWWZJM2ZJQUlYLXZsODduWVFka0pzN2p1S3BzRWVmYzhuMnYyYkxMZHVYbThkUmJvZ9IBb0FVX3lxTE5pREIzMkg4ZHU3Vk1tOUx2TWVSb0dPZ3ZOX2NaclhZajZmOVJ6N2dacVpSRHl3N3hrODNVTFdOWWZJM2ZJQUlYLXZsODduWVFka0pzN2p1S3BzRWVmYzhuMnYyYkxMZHVYbThkUmJvZw?oc=5",
+  "title": "[사진]'마지막 잠실일 수도 있는데..' 경기장 빠져나가는 LG 관중들",
+  "published_at": "2026-10-20T12:36:00.000Z",
+  "collected_at": "2026-10-20T21:37:51.700Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 97,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

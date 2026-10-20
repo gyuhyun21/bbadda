@@ -1,0 +1,28 @@
+{
+  "id": "news-b2532a65",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "매일경제",
+  "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB0SG4zQmt2NDZfczFMdWd6YXRLWkVYSktOaFFfVnRmYk1OZm5pMDdkMWNHSll4V011cm5DeFktWU43WXBYWTVEUWhENklxemk1elFR?oc=5",
+  "title": "LG 트윈스 ‘가을야구와 정든 잠실야구장과도 아쉬운 작별’ [MK포토]",
+  "published_at": "2026-10-20T13:19:01.000Z",
+  "collected_at": "2026-10-20T21:37:51.700Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 73,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "m.mksports.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE51WFUxV0hCZUlaZTBodktzeUUxcDlXaDE5TXhucVAtWFdOeVRNU0VQNVdWYlU0dkxqa2RTaVh4bHpENGQteGE5YU00Wmo3anJVLS1zN0NQU2hVRUE?oc=5"
+    }
+  ]
+}

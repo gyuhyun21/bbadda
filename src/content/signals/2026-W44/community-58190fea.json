@@ -1,0 +1,24 @@
+{
+  "id": "community-58190fea",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&page=5&document_srl=10467916497",
+  "title": "꼴데식 데이터야구 절망편 2",
+  "published_at": "2026-10-20T17:37:51.700Z",
+  "collected_at": "2026-10-20T21:37:51.700Z",
+  "summary_ko": "",
+  "excerpt": "... 윤동희를 키움과 트레이드 <> 4라 + 6라 한 뒤 홍창기를 4년 50억에 쿨거 ...…",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

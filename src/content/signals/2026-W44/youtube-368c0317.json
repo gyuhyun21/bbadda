@@ -1,0 +1,26 @@
+{
+  "id": "youtube-368c0317",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "이영우의 라이브 TV",
+  "url": "https://www.youtube.com/watch?v=SVJoPvgQh2A",
+  "title": "기아 탄탄한 마운드 강력한 타선 무결점 3연승! 플레이오프 진출! #한화이글스#lg트윈스#기아타이거즈#삼성라이온즈#kt위즈#kbo리그#이글스tv",
+  "published_at": "2026-10-20T14:27:56Z",
+  "collected_at": "2026-10-20T21:37:51.700Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 3070,
+    "likes": 73,
+    "comments": 2
+  },
+  "scores": {
+    "hot": 58,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

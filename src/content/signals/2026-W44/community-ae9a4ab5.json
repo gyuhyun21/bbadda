@@ -1,0 +1,22 @@
+{
+  "id": "community-ae9a4ab5",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 스포츠 데이터리포트",
+  "url": "https://blog.naver.com/korea_politicaldata/224448000027",
+  "title": "SSG 최지훈 FA, 50억 거절은 정답이었을까…이제는 몸값을 증명할 시간",
+  "published_at": "2026-10-20T18:01:00.000+09:00",
+  "collected_at": "2026-10-20T21:37:51.700Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

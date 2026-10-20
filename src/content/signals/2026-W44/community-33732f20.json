@@ -1,0 +1,22 @@
+{
+  "id": "community-33732f20",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 빠빠빠의 블로그",
+  "url": "https://blog.naver.com/woksusu/224448200305",
+  "title": "\"유임이었으면 벌써 들었을 것\" 롯데 김태형, 이제 와서 1+1년 재계약할까",
+  "published_at": "2026-10-20T21:46:00.000+09:00",
+  "collected_at": "2026-10-20T21:37:51.700Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

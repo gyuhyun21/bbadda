@@ -1,0 +1,24 @@
+{
+  "id": "news-a0bb6b8a",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "진일보 | 전남일보",
+  "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000075233",
+  "title": "KIA 김도영 준플레이프 MVP 선정…3경기 3홈런 8타점",
+  "published_at": "2026-10-20T15:00:00.000Z",
+  "collected_at": "2026-10-20T21:37:51.700Z",
+  "summary_ko": "전남일보는 KIA 김도영이 준플레이오프 MVP로 뽑혔고 3경기에서 3홈런 8타점을 기록했다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "brief_ko": "KIA PO 진출, 김도영 MVP",
+  "hook_ko": "김도영, 준PO MVP"
+}

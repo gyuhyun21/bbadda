@@ -1,0 +1,23 @@
+{
+  "id": "news-58fb94aa",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9XRktiY0pXQW1xWXQzQ1JZdHY5QWxNeFExR2FqQmxzaDVjbkVZUXpaSXVaa2xmZ2laWWNaVWhwMGNZSjQ5bHhRSVJVUXRsdTVOVk9CcWFxTklnTFFsR2k5TXRudktaTXlncUpEQ1dpNWk0QUtYMmlwNmpLbTZBdw?oc=5",
+  "title": "\"이정후 1498억이 출발선\"…ML 포스팅 日 3관왕 사토 초대형 계약 전망! 예상 금액이 무려",
+  "published_at": "2026-10-20T16:31:39.000Z",
+  "collected_at": "2026-10-20T21:37:51.700Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

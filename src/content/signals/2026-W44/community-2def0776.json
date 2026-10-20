@@ -1,0 +1,24 @@
+{
+  "id": "community-2def0776",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 썸타는 뉴스룸",
+  "url": "https://blog.naver.com/issumaker/224448395071",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/6YFALDefTwl",
+  "title": "백구영, 스디파 최종 우승 트로피 들어올리며 감격의 첫 승리",
+  "published_at": "2026-10-21T01:42:00.000+09:00",
+  "collected_at": "2026-10-20T21:37:51.700Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

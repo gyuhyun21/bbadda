@@ -1,0 +1,22 @@
+{
+  "id": "news-ead53db6",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE15cGJrNnJBR2ZmQ2x0QS1zcDNoOFZFQnB1aW5CQXRQNWIwMXo3N0tPVV9TU2laUlZfSDRFU2t4VzhWU0lqbWkxZU9GYXlEVUt2ZXFvdGY0T0V4Y1NVako0UWhCampxME04eFpVbUh0Z9IBb0FVX3lxTE15cGJrNnJBR2ZmQ2x0QS1zcDNoOFZFQnB1aW5CQXRQNWIwMXo3N0tPVV9TU2laUlZfSDRFU2t4VzhWU0lqbWkxZU9GYXlEVUt2ZXFvdGY0T0V4Y1NVako0UWhCampxME04eFpVbUh0Zw?oc=5",
+  "title": "[사진]분위기 어두운 LG 더그아웃",
+  "published_at": "2026-10-20T12:01:00.000Z",
+  "collected_at": "2026-10-20T21:37:51.700Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

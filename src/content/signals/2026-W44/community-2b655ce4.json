@@ -1,0 +1,22 @@
+{
+  "id": "community-2b655ce4",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 야구 읽어주는 사람",
+  "url": "https://blog.naver.com/ddaassrr/224446984425",
+  "title": "[분석] 김태룡 시대의 끝, 정재훈 단장은 두산을 다시 강팀으로 만들 수 있을까?",
+  "published_at": "2026-10-21T00:30:00.000+09:00",
+  "collected_at": "2026-10-20T21:37:51.700Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "youtube-2e67e0d7",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "youtube",
+  "source_name": "준희야구",
+  "url": "https://www.youtube.com/watch?v=_A1K6ErveAo",
+  "title": "야구 보러 왜 이렇게 일찍 가?🤣⚾️ #준희야구 #야구맘 #초등야구 #최광야구 #SSG랜더스",
+  "published_at": "2026-10-20T11:09:51Z",
+  "collected_at": "2026-10-20T21:37:51.700Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1738,
+    "likes": 5,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 38,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

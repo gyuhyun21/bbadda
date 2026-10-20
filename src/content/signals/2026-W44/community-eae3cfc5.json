@@ -1,0 +1,24 @@
+{
+  "id": "community-eae3cfc5",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "엠엘비파크",
+  "url": "https://mlbpark.donga.com/mp/b.php?id=202610200119572689&p=31&b=kbotown&m=view&select=spf&query=LG&site=donga.com&pos=reply",
+  "title": "다시보는 박동원 수비이닝.jpg",
+  "published_at": "2026-10-19T15:00:00.000Z",
+  "collected_at": "2026-10-20T21:37:51.700Z",
+  "summary_ko": "",
+  "excerpt": "... ... LG · 한화 · SSG · 삼성 · NC · kt · 롯데…",
+  "metrics": {},
+  "scores": {
+    "hot": 57,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

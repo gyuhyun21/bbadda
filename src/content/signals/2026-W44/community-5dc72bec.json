@@ -1,0 +1,29 @@
+{
+  "id": "community-5dc72bec",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "다음카페 알 수 없는 동아리ㅤ",
+  "url": "https://cafe.daum.net/un-known-club/M9sr/96886",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/B2TENQDJc3H",
+  "title": "KIA, 플레이오프 진출",
+  "published_at": "2026-10-20T22:38:44.000+09:00",
+  "collected_at": "2026-10-20T21:37:51.700Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 81,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBzWUFwLXkyVFpHVTFOVU5nZ24tU2pKWWktcUxkRWs5RTFQZC11Z2pNbmFlenFUcXpHVG55MFVHM3c3WU5IY0E5YkU3bnlwdzNiaGh6QjNqczRwU3JqOFAtdzBDWnRVRWpSdlh0YllsSdIBb0FVX3lxTFBzWUFwLXkyVFpHVTFOVU5nZ24tU2pKWWktcUxkRWs5RTFQZC11Z2pNbmFlenFUcXpHVG55MFVHM3c3WU5IY0E5YkU3bnlwdzNiaGh6QjNqczRwU3JqOFAtdzBDWnRVRWpSdlh0YllsSQ?oc=5"
+    }
+  ]
+}

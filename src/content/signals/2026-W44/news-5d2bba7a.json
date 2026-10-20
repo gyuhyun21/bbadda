@@ -1,0 +1,29 @@
+{
+  "id": "news-5d2bba7a",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "연합뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5kYWM1VGFYUzRScUQ3VGRTY1Z2d2J0c3NIdllwVVpaV05POE1YWC1mTDhJRERDWGpraEwxT283S0pvaDg1elFjMzYyRktpdlo0Rno1M0Npd3BRZVkyckNBUdIBYEFVX3lxTE5kYWM1VGFYUzRScUQ3VGRTY1Z2d2J0c3NIdllwVVpaV05POE1YWC1mTDhJRERDWGpraEwxT283S0pvaDg1elFjMzYyRktpdlo0Rno1M0Npd3BRZVkyckNBUQ?oc=5",
+  "title": "대구 향하는 이범호 KIA 감독 \"삼성은 강팀…공격적으로 맞선다\"",
+  "published_at": "2026-10-20T13:43:39.000Z",
+  "collected_at": "2026-10-20T21:37:51.700Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 97,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1XQWQ1S0lna25uUFlSd2hoTEtfUno4MUxVY3FnelA5Vi13aEhIbHhlZm5qbmVXR3M0VTZHamw1TWM0Sk1CU2c?oc=5"
+    }
+  ]
+}

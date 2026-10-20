@@ -1,0 +1,24 @@
+{
+  "id": "news-c34aa50e",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "lg",
+  "teams": [
+    "lg",
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9aYjBVbjRxZFJ6SWlfd2ltS3ZPMHZfb0JVbEYwOHNkSVV6YmFpTjZxRXBlN0s3UlRnQnd2WEZjVXkzak1jVEM4QXdIUHNMOVByczJwRVBFenZEODl3VWx0dUdxQkZzVHF6R2tJMWs1b9IBb0FVX3lxTE9aYjBVbjRxZFJ6SWlfd2ltS3ZPMHZfb0JVbEYwOHNkSVV6YmFpTjZxRXBlN0s3UlRnQnd2WEZjVXkzak1jVEM4QXdIUHNMOVByczJwRVBFenZEODl3VWx0dUdxQkZzVHF6R2tJMWs1bw?oc=5",
+  "title": "[사진]솔로포 나성범, 준PO 3차전 멀티포",
+  "published_at": "2026-10-20T11:37:00.000Z",
+  "collected_at": "2026-10-20T21:37:51.700Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 72,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "community-e5afcea9",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 순간캐치",
+  "url": "https://blog.naver.com/momentcatch/224448348963",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/2JturRNPhlw",
+  "title": "KIA 준플레이오프 포수 견제, 올러 6이닝 2실점 뒤에 숨은 한준수의 선택은…",
+  "published_at": "2026-10-21T06:00:00.000+09:00",
+  "collected_at": "2026-10-20T21:37:51.700Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

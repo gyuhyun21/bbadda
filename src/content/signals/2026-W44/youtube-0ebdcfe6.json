@@ -1,0 +1,28 @@
+{
+  "id": "youtube-0ebdcfe6",
+  "issue": "2026-W44",
+  "module": "league",
+  "teams": [
+    "kia",
+    "lg"
+  ],
+  "team": "kia",
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=aHIWz5VByMM",
+  "title": "(삼진 모음.zip) KIA 시라카와의 5이닝 9K 눈부신 피칭! | 준PO3_KIA vs LG | 10.20 | 크보모먼트 | KBO 야구 하이라이트",
+  "published_at": "2026-10-20T13:43:36Z",
+  "collected_at": "2026-10-20T21:37:51.700Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 45879,
+    "likes": 731,
+    "comments": 137
+  },
+  "scores": {
+    "hot": 66,
+    "relevance": 80
+  },
+  "sentiment": "neutral"
+}

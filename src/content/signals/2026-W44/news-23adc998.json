@@ -1,0 +1,23 @@
+{
+  "id": "news-23adc998",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "서울신문",
+  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1yX2ZQZGdnNktpdW44VlJ6Z1JrY1M2WDdkdTI4bDV3amMwUzV2bDFPNUdLWmZweGxiSVpPTEJZVmtMdklUWHUxV3ktRGhPSVhENlRsdGJQOA?oc=5",
+  "title": "‘슈스’ 김도영 145m 슈퍼 만루포…가을야구 최장 타이·최연소 기록",
+  "published_at": "2026-10-20T13:35:02.000Z",
+  "collected_at": "2026-10-20T21:37:51.700Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

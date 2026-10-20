@@ -1,0 +1,27 @@
+{
+  "id": "youtube-6396ea91",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "kt"
+  ],
+  "source_type": "youtube",
+  "source_name": "이슈 실검 알려드림",
+  "url": "https://www.youtube.com/watch?v=t9RrfKuTgUw",
+  "title": "KIA 플레이오프 상대 확정! 이기면 kt와 한국시리즈 #Shorts",
+  "published_at": "2026-10-20T15:35:59Z",
+  "collected_at": "2026-10-20T21:37:51.700Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1304,
+    "likes": 10,
+    "comments": 3
+  },
+  "scores": {
+    "hot": 42,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

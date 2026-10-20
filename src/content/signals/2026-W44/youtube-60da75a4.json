@@ -1,0 +1,28 @@
+{
+  "id": "youtube-60da75a4",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "lg"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "기아타이거즈 KIA TIGERS",
+  "url": "https://www.youtube.com/watch?v=Ebo54v9oL0g",
+  "title": "플레이오프 진출!!! | 10월 20일 하이라이트 | KIA vs LG 준플레이오프 3차전",
+  "published_at": "2026-10-20T14:07:05Z",
+  "collected_at": "2026-10-20T21:37:51.700Z",
+  "summary_ko": "KIA 공식 채널이 준플레이오프 3차전 하이라이트와 플레이오프 진출 장면을 올렸다.",
+  "metrics": {
+    "views": 141992,
+    "likes": 3756,
+    "comments": 473
+  },
+  "scores": {
+    "hot": 80,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

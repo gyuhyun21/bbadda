@@ -1,0 +1,28 @@
+{
+  "id": "youtube-719d1cea",
+  "issue": "2026-W44",
+  "module": "league",
+  "teams": [
+    "kia",
+    "lg"
+  ],
+  "team": "kia",
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=6fSJUjhU_G4",
+  "title": "(무해설)로 다시 보는 그 순간! 만루의 기회를 놓치지 않은 KIA 슈퍼스타 김도영! | 준PO3_KIA vs LG | 10.20 | 크보모먼트 | KBO 야구 하이라이트",
+  "published_at": "2026-10-20T13:54:00Z",
+  "collected_at": "2026-10-20T21:37:51.700Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 111795,
+    "likes": 2688,
+    "comments": 269
+  },
+  "scores": {
+    "hot": 77,
+    "relevance": 80
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-f9b85fd4",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "뉴시스",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ocWtuZmpoUTZjUkg5U3pJWE91azRWbmJvRU9LVldnb0s3U1M3MVl0NVhUWVl3UmtXRkVFdjFISzE3MHphdHpSS2xMdVcwVVpEdHNlM29yeUFxSzBvSThpc9IBeEFVX3lxTE4yeW4yaFdqc0NOalBxNm00VzRtRGVBZFBmZEFCdUNRRmx2eUQxOUVCU3FGU3IzaWxBTzJuR2kxZHNKZksteC1tWGczcGlDb3QzN1hWWlRrQ2xDYXFzVldXNTExMDU3VDAzTmNMTkczV0Uwa1NSZ01Fbg?oc=5",
+  "title": "2년 전 KS서 만났던 삼성 vs KIA, 가을야구 리턴매치…'너 잘 만났다'[PO]",
+  "published_at": "2026-10-20T21:00:00.000Z",
+  "collected_at": "2026-10-20T21:37:51.700Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 84,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

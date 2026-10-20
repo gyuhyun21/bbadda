@@ -1,0 +1,27 @@
+{
+  "id": "youtube-dd700527",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "NC 다이노스 김박사",
+  "url": "https://www.youtube.com/watch?v=IvuEeEMCSJI",
+  "title": "준PO 2차전, 1회에 끝난 경기",
+  "published_at": "2026-10-20T15:14:57Z",
+  "collected_at": "2026-10-20T21:37:51.700Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1285,
+    "likes": 9,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 40,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

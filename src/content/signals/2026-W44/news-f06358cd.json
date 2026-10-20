@@ -1,0 +1,23 @@
+{
+  "id": "news-f06358cd",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "한겨레",
+  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9pVmJxdWYxQ3ZrdWNtS3h2bUpPUFc3M2psYUpUY0l4MVFxSVl2V1lSNUtmeV91NlhPUWd1TXNKdWs5ZmF6cnBjY2ZyZTlJUzhkdWFKTmd1OWxlU3UxaDU5Qm4zTkNPMEk?oc=5",
+  "title": "‘초대형 만루포’로 준PO 끝낸 김도영 “PO와 KS에서도 잘하겠다”",
+  "published_at": "2026-10-20T14:40:00.000Z",
+  "collected_at": "2026-10-20T21:37:51.700Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

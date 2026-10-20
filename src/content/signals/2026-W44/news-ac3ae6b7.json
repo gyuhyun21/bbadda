@@ -1,0 +1,32 @@
+{
+  "id": "news-ac3ae6b7",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9ES1czNFNwS2xqYUtBRlkzemc0WWd0SVUzOFRTWUxsTlhwVjl1UnF0UW5iZy1hZUVMNUVLaHlpelI5UnRWbzZUcGxVV3RGRDJybTBXUV94Q2h1UWNQSG1BUTFGdzJPSzFZSjc1ZTZlUdIBb0FVX3lxTE9ES1czNFNwS2xqYUtBRlkzemc0WWd0SVUzOFRTWUxsTlhwVjl1UnF0UW5iZy1hZUVMNUVLaHlpelI5UnRWbzZUcGxVV3RGRDJybTBXUV94Q2h1UWNQSG1BUTFGdzJPSzFZSjc1ZTZlUQ?oc=5",
+  "title": "“김도영, 역시 슈퍼스타다운 모습” KIA 전력 인정한 박진만 감독…“우리도 충분히 이길 수 있다”",
+  "published_at": "2026-10-20T13:46:00.000Z",
+  "collected_at": "2026-10-20T21:37:51.700Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 81,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB5RXlPRndyNEVpSVpuTWdnY1FlYTQ2ZWpkMzNwWV9ydDB3RHljUW5OQ3hqdWtBZi02ZGFHNDFqb1pSRzJPckJUTWkzWFRveXRsT09RVQ?oc=5"
+    },
+    {
+      "source_name": "미주중앙일보",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE52aGFxZWhnaUF5X2xKSjUxVjVDNl9ZY1lJbXQwS1NXX1p5VGcyRVVQQ0tZR1g0bnZvbTNZQlYwZ2Z2alRZUm05ZGNIb2FpSURKV2pJUVZxNlJoR1lDbjBBVkZn?oc=5"
+    }
+  ]
+}

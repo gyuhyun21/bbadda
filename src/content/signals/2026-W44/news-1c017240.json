@@ -1,0 +1,28 @@
+{
+  "id": "news-1c017240",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "연합뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4tMHVHVlBKMUpCaWJqRUVOYWVmMzJSTDRmZjFfSlI3ZGwyWElJanBRdW1oSzNDVnpzd1pqSjJleFN6WnQ5OWczcTF0cEh2eG5LQTcxMTVsa3JTU2NCTHhWZNIBYEFVX3lxTE4tMHVHVlBKMUpCaWJqRUVOYWVmMzJSTDRmZjFfSlI3ZGwyWElJanBRdW1oSzNDVnpzd1pqSjJleFN6WnQ5OWczcTF0cEh2eG5LQTcxMTVsa3JTU2NCTHhWZA?oc=5",
+  "title": "박진만 삼성 감독 \"김도영은 스타…우리는 대처할 능력 갖췄다\"",
+  "published_at": "2026-10-20T14:02:41.000Z",
+  "collected_at": "2026-10-20T21:37:51.700Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 73,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "스포츠타임스",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1wZ1BoVEExUjFFOERNU0ZzdHd5Q0l0MU5idHJmbmpxNmV2OE1TYWpMZ2ZZaWdjS3p4SmhoN3lMZ3RKNjFFd2NBNU9EdDh4Y3JMWUVDM2VqRWl5OVNuajlRTWw0aVNpemNRVktzZks4WDE4ZExQcEE?oc=5"
+    }
+  ]
+}
