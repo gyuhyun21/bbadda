@@ -1,0 +1,23 @@
+{
+  "id": "community-27f8b1fe",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 BlueShaSha(블루샤샤)",
+  "url": "https://blog.naver.com/smmjtw/224448777688",
+  "title": "야구굿즈 야구키링 / KBO 야구장 미니어처 키링 (+사직야구장)",
+  "published_at": "2026-10-21T11:37:00.000+09:00",
+  "collected_at": "2026-10-21T21:38:26.643Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 61,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

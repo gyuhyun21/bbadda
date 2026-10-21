@@ -1,0 +1,24 @@
+{
+  "id": "news-1294ae3c",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "lg",
+  "teams": [
+    "lg",
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "서울신문",
+  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9nV0JOU1RNRm9zdVhjQm8yN1JZWHlQbTNwaVZpTlJKVVFDdFd3Szc2c3NBS2dMQ1ZtMVhFUks5QTB0V0pMcWp6ZWlGSk5hU2t6ejZVMUlPcw?oc=5",
+  "title": "가을야구 홈런 6방 때린 삼총사… 호랑이 군단, 사자 심장 노린다",
+  "published_at": "2026-10-21T16:54:36.000Z",
+  "collected_at": "2026-10-21T21:38:26.643Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

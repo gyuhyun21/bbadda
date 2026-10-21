@@ -1,0 +1,23 @@
+{
+  "id": "news-ba02c597",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "announcement": true,
+  "source_name": "MHN스포츠",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5LdUx6V3Y2MjdxRlhiOW5TeG4tamNfS1NONEdVRXlrNmU0aTZBTDBPeGlPQzVrRjBxbGpGRDc4R0RDZXRpQlM0WG1TVjZoS0NHSnRVUVJCTFJEYnJweGdoUzBwQQ?oc=5",
+  "title": "[오피셜]다카쓰 아니라고? 그럼 누군데? 이미 만신창이 된 롯데 감독설…더 이상 상처 받는 사람 나오지 말아야",
+  "published_at": "2026-10-21T09:50:16.000Z",
+  "collected_at": "2026-10-21T21:38:26.643Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

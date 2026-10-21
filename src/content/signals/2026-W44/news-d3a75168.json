@@ -1,0 +1,23 @@
+{
+  "id": "news-d3a75168",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5IZW5BNzZ6dW1iS2lyWTV0dUJJcnhvbXEzUk9ldVIwbGUxRnBUd3BIU2txSTUzTTNxRUltRVI5Ql9JbnIwcVRwR0E4Zm5xNVoydHhURnM1by1MalRYVWNlTmxoSjJZZ204eV96elJRUdIBb0FVX3lxTE5IZW5BNzZ6dW1iS2lyWTV0dUJJcnhvbXEzUk9ldVIwbGUxRnBUd3BIU2txSTUzTTNxRUltRVI5Ql9JbnIwcVRwR0E4Zm5xNVoydHhURnM1by1MalRYVWNlTmxoSjJZZ204eV96elJRUQ?oc=5",
+  "title": "\"한국야구 수준 낮으니까, 기록 믿지 말라\" KBO 역수출 이렇게 무시받다니…내년 주전 1루수 장담 못한다",
+  "published_at": "2026-10-21T15:47:00.000Z",
+  "collected_at": "2026-10-21T21:38:26.643Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

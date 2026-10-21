@@ -1,0 +1,26 @@
+{
+  "id": "youtube-d80a451b",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "source_name": "Daily Eagles (수리수리)",
+  "url": "https://www.youtube.com/watch?v=PeQAKRKGfsM",
+  "title": "한화 투수 4명 일본 맞춤훈련 #shorts #한화이글스 #한화 #정우주 #박준영 #황준서 #강건우",
+  "published_at": "2026-10-21T15:51:39Z",
+  "collected_at": "2026-10-21T21:38:26.643Z",
+  "summary_ko": "팬 영상은 한화 투수 4명이 일본에서 맞춤 훈련을 한다고 전한다.",
+  "metrics": {
+    "views": 1067,
+    "likes": 3,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 37,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

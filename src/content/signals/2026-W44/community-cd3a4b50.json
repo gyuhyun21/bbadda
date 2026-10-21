@@ -1,0 +1,30 @@
+{
+  "id": "community-cd3a4b50",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 무대와 경기장 — 트로트·스포츠 기록 노트",
+  "url": "https://oivlover.tistory.com/90",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/BPwVcVO0JMv",
+  "title": "KBO 플레이오프 KIA vs 삼성 일정·상대 전적 — 25일 대구 1차전, 달빛시리즈 김도영·구자욱 기록...",
+  "published_at": "2026-10-22T05:35:56.000+09:00",
+  "collected_at": "2026-10-21T21:38:26.643Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "ER 이코노믹리뷰",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBLWkR6UW11N0I2UmRBTVl1RktsaExDT1VSTERmTFpMWWZjU1RJaUxwbng3T2s3TnFhamV2UUctdUo4WF9TeTFTUWJULXA3N1g0dUIzR2NERDRDQWR0QVhCZG9IUXRENnN1eEdrUw?oc=5"
+    }
+  ]
+}

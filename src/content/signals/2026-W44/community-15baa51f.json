@@ -1,0 +1,23 @@
+{
+  "id": "community-15baa51f",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "엠엘비파크",
+  "url": "https://mlbpark.donga.com/mp/b.php?id=202610210119586462&p=1&b=kbotown&m=view&select=spf&query=LG&site=donga.com",
+  "title": "기아전 10연패중 9경기가 김도영",
+  "published_at": "2026-10-20T15:00:00.000Z",
+  "collected_at": "2026-10-21T21:38:26.643Z",
+  "summary_ko": "",
+  "excerpt": "... ... LG · 한화 · SSG · 삼성 · NC · kt · 롯데…",
+  "metrics": {},
+  "scores": {
+    "hot": 57,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

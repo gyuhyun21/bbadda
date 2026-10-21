@@ -1,0 +1,23 @@
+{
+  "id": "news-54221ae2",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "뉴시스",
+  "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE44d3NLTjd2NWJZc290aWFfWW5kMW9seEM4WVFJMFY1VHJITm9sVENDSFFTTV9VVXdyOS1hV21YN2xyc0JJbThRaGlxdDhWcjNOVXV5Y292Q01NNjZoZWVnZWZKZ1hJTU10R2pvZ0VOVTdNTmVhOXZQV9IBeEFVX3lxTE44d3NLTjd2NWJZc290aWFfWW5kMW9seEM4WVFJMFY1VHJITm9sVENDSFFTTV9VVXdyOS1hV21YN2xyc0JJbThRaGlxdDhWcjNOVXV5Y292Q01NNjZoZWVnZWZKZ1hJTU10R2pvZ0VOVTdNTmVhOXZQVw?oc=5",
+  "title": "'음주 교통사고로 은퇴' 전 프로야구 선수 이용규, 재판행",
+  "published_at": "2026-10-21T08:35:35.000Z",
+  "collected_at": "2026-10-21T21:38:26.643Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

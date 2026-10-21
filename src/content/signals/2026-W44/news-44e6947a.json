@@ -1,0 +1,23 @@
+{
+  "id": "news-44e6947a",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "OSEN",
+  "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFByelhzMWE4LVhlYXlCb1ZnMy11eVVmWlY4UVM5VXEzNUZvYlJhaDd1UW9ZTDk2ak1qUkxxQkl5OEdCMjJBTXlYTEZDM2FoV1RJYk5V?oc=5",
+  "title": "[사진] 곽동효, 만루 홈런 하이파이브",
+  "published_at": "2026-10-21T07:39:00.000Z",
+  "collected_at": "2026-10-21T21:38:26.643Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 95,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "news-e9b8faaa",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "news",
+  "source_name": "국제뉴스",
+  "url": "https://www.gukjenews.com/news/articleView.html?idxno=3728501",
+  "title": "\"한화 복귀 진짜일까\"… '대전 예수' 라이언 와이스 아내 발언 보니",
+  "published_at": "2026-10-21T10:00:26.000Z",
+  "collected_at": "2026-10-21T21:38:26.643Z",
+  "summary_ko": "국제뉴스는 라이언 와이스의 한화 복귀설과 관련해 그의 아내 발언을 짚었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 72,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

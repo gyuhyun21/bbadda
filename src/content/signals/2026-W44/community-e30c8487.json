@@ -1,0 +1,24 @@
+{
+  "id": "community-e30c8487",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 WoniSoli 님의 블로그",
+  "url": "https://wonisoli.tistory.com/529",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/LHu1ueacm6b",
+  "title": "송성문 도움 안 돼 이럴수가! 4년 200억 계약 후 美 냉정한 평가와 2027 시즌 전망",
+  "published_at": "2026-10-22T02:10:06.000+09:00",
+  "collected_at": "2026-10-21T21:38:26.643Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

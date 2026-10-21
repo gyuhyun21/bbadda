@@ -1,0 +1,23 @@
+{
+  "id": "news-dc4165ad",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "announcement": true,
+  "source_name": "MHN스포츠",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5mNGY3U2I2b2k2THpaM0NScEJNeVozc296dXpaZjBKTXNxa3h4RkYyR08xYlByRjVWQVhlS1JQOWFVQkJXQUZ2dE5GNjBGOUVmUG83bDVTZlczSXAxZUVzVjRNWQ?oc=5",
+  "title": "[오피셜]롯데 침묵 길어지니 그러지, 이제 별 얘기가 다 나온다…다카쓰 감독 제안 사실 무근",
+  "published_at": "2026-10-21T07:54:50.000Z",
+  "collected_at": "2026-10-21T21:38:26.643Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "community-4784b6b4",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 트라허 스포츠",
+  "url": "https://sports.trendylifehub.com/178",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/BaxSkyC2I5b",
+  "title": "추억의 잠실 야구장 3루 먹거리(매장 위치, 메뉴 등)",
+  "published_at": "2026-10-21T23:22:45.000+09:00",
+  "collected_at": "2026-10-21T21:38:26.643Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

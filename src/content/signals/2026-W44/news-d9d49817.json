@@ -1,0 +1,23 @@
+{
+  "id": "news-d9d49817",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "세계뉴스통신",
+  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBOQTJKWkE3ZEJ6dWtRM3NLemJCa2Q3akZTSXVIVE9LT3AwaU9ScW0tb3R6UG1vMWFJSmFQWU1aWkFaVTVCdUY4YWRYZ09IZUNNRVNMM05oZW40OEx3S1lfTzFMQU93MHBRTVVxZkhIaVd3cjBY?oc=5",
+  "title": "전 프로야구 선수 이용규, 만취 음주운전 사고로 불구속 기소…2명 부상",
+  "published_at": "2026-10-21T07:20:27.000Z",
+  "collected_at": "2026-10-21T21:38:26.643Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

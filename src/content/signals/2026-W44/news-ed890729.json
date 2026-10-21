@@ -1,0 +1,23 @@
+{
+  "id": "news-ed890729",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "한국경제",
+  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBqU1l0XzVRY2hqT2E0b1lIb2Q4eEVvc19mbEtDaDBLaWhHU05TM0hNS3dRRFljYjdadkJpRkZ2S0d3WnZvT2FXWFZCeXdTaWJUNS1Bb3k5TEFuQQ?oc=5",
+  "title": "44년 야구 역사 '잠실구장' 굿바이…3만석 돔구장 '대변신'",
+  "published_at": "2026-10-21T08:50:19.000Z",
+  "collected_at": "2026-10-21T21:38:26.643Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "news-c419d56b",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "엑스포츠뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9BeWJ5bVJsTUg3U3BETUswb3dXaTNJSDB6WHhONTlvRHEzVEJ4MEllVG5VS2tON011bjRiQW56WVBGMjltM2lBZE1SOU5KbC16MUhLNQ?oc=5",
+  "title": "'韓 야구 자존심 세웠다!' KIA 슈퍼스타 김도영, 2026시즌 전세계 WAR 2위…오타니 제치고 크로우-암스트롱 바로 뒤에 섰다",
+  "published_at": "2026-10-20T23:28:49.000Z",
+  "collected_at": "2026-10-21T21:38:26.643Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 60,
+    "relevance": 80
+  },
+  "sentiment": "neutral"
+}

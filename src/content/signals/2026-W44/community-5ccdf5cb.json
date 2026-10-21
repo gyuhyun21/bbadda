@@ -1,0 +1,23 @@
+{
+  "id": "community-5ccdf5cb",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 글사랑이 조동표",
+  "url": "https://brunch.co.kr/@chodp328/920",
+  "title": "야구의 시선 제79화",
+  "published_at": "2026-10-21T12:00:12.000+09:00",
+  "collected_at": "2026-10-21T21:38:26.643Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 61,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

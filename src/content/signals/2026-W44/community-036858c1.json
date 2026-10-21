@@ -1,0 +1,24 @@
+{
+  "id": "community-036858c1",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&document_srl=10469506818",
+  "title": "이건 아까 뜬 뉴스인가 - 야구",
+  "published_at": "2026-10-21T07:38:26.643Z",
+  "collected_at": "2026-10-21T21:38:26.643Z",
+  "summary_ko": "",
+  "excerpt": "... 하지만 감독 선임 과정이 길어지면서 다카츠 어드바이저의 거취와 역할을 둘러싼 소문까지 불거졌다. 롯데는 지난…",
+  "metrics": {},
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

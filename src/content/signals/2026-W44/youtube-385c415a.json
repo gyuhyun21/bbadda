@@ -1,0 +1,26 @@
+{
+  "id": "youtube-385c415a",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "youtube",
+  "source_name": "박주홍은터진다",
+  "url": "https://www.youtube.com/watch?v=pQBxjwQFE7s",
+  "title": "3전 3승 스윕 #2019 #송성문 #키움 #드림팀",
+  "published_at": "2026-10-21T16:55:28Z",
+  "collected_at": "2026-10-21T21:38:26.643Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1199,
+    "likes": 0,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 35,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

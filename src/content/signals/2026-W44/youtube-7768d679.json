@@ -1,0 +1,27 @@
+{
+  "id": "youtube-7768d679",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "한입톡",
+  "url": "https://www.youtube.com/watch?v=i6S61u8mb7k",
+  "title": "드레스 코드 기세로 3연승한 KIA, 삼성까지 잡을 수 있을까",
+  "published_at": "2026-10-21T12:45:04Z",
+  "collected_at": "2026-10-21T21:38:26.643Z",
+  "summary_ko": "팬 영상은 드레스 코드 기세로 3연승한 KIA가 삼성까지 잡을 수 있을지를 다룬다.",
+  "metrics": {
+    "views": 14010,
+    "likes": 271,
+    "comments": 3
+  },
+  "scores": {
+    "hot": 62,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

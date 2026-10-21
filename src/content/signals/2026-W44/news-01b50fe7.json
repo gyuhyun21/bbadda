@@ -1,0 +1,23 @@
+{
+  "id": "news-01b50fe7",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "한국미디어일보",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1QdFhRNUV3SDJyZUlNT3RWalJTbmZDSHUzR0lzWjhvNjA1WmVlMDdvTlhMMXR0OFdnMWtHNkNocF9mdzdDTXhmVzJ3YVc0YnAzeDYxOEd4RDVsbFA0UDlNby12TDBJbDNjdUdHOHZiVXcyUGx5SW9HTVlrSGdaZw?oc=5",
+  "title": "단독) 연봉 3000만원 신인 김민준, KBO 투수 ‘가성비’ 1위",
+  "published_at": "2026-10-21T14:45:00.000Z",
+  "collected_at": "2026-10-21T21:38:26.643Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

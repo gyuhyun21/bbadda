@@ -1,0 +1,23 @@
+{
+  "id": "news-d6d05ab5",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스핌",
+  "url": "https://www.newspim.com/news/view/20261021001281",
+  "title": "[PO 포커스] 2년 전 광주서 겪은 KS 악몽…삼성, KIA에 설욕할까",
+  "published_at": "2026-10-21T21:00:00.000Z",
+  "collected_at": "2026-10-21T21:38:26.643Z",
+  "summary_ko": "뉴스핌은 2년 전 광주에서 KS 패배를 겪은 삼성이 KIA에 설욕할 수 있을지를 다뤘다.",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

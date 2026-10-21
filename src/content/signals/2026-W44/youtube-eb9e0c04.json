@@ -1,0 +1,33 @@
+{
+  "id": "youtube-eb9e0c04",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "광주MBC뉴스",
+  "url": "https://www.youtube.com/watch?v=2HtTg00oyAA",
+  "title": "잠실의 마지막 승자 KIA…삼성 넘어 한국시리즈로? #shorts #기아타이거즈 #삼성라이온즈 #김도영 #한국시리즈  #광주mbc #광주mbc뉴스",
+  "published_at": "2026-10-21T12:31:29Z",
+  "collected_at": "2026-10-21T21:38:26.643Z",
+  "summary_ko": "광주MBC뉴스 쇼츠는 잠실의 마지막 승자 KIA가 삼성을 넘어 한국시리즈로 갈지를 짚는다.",
+  "metrics": {
+    "views": 1374,
+    "likes": 31,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 53,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "여수MBC",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1TOXdFcjJCUjJjWGs1WEx3ajdDRGNxQWJ1Z1VRdjBaMkxZZTVwRWlVUUtXaFdZS0h4Z3puN2FwdVlQN1JIdUd2b2ROMm42Rm11?oc=5"
+    }
+  ]
+}

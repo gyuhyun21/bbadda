@@ -1,0 +1,23 @@
+{
+  "id": "news-89dbf4d0",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "강릉뉴스",
+  "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBKMkNnMXRwRDFobXhGVTV6MFpPWmhjdF9UdXZyUi1wY3duVUkxZ050ckpwby1FU2ZaODI2M2ttYXRXamxoazVEaWhYbjNtUDFVZ21VSGRGLWpxRUswNTJ3QVN2MHpPaTJsOHl5Tlo4UW5TZ9IBckFVX3lxTFBKMkNnMXRwRDFobXhGVTV6MFpPWmhjdF9UdXZyUi1wY3duVUkxZ050ckpwby1FU2ZaODI2M2ttYXRXamxoazVEaWhYbjNtUDFVZ21VSGRGLWpxRUswNTJ3QVN2MHpPaTJsOHl5Tlo4UW5TZw?oc=5",
+  "title": "삼성의 선발진, KIA의 장타력…한국시리즈행 놓고 25일 격돌",
+  "published_at": "2026-10-21T14:47:30.000Z",
+  "collected_at": "2026-10-21T21:38:26.643Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

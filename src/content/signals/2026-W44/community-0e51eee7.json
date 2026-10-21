@@ -1,0 +1,24 @@
+{
+  "id": "community-0e51eee7",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "디시 야구 갤러리",
+  "url": "https://gall.dcinside.com/board/view/?id=tigers_new2&no=3318116",
+  "title": "Official ) 준플레이오프 MVP 신도영",
+  "published_at": "2026-10-20T15:00:00.000Z",
+  "collected_at": "2026-10-21T21:38:26.643Z",
+  "summary_ko": "",
+  "excerpt": "... 스포츠 카테고리로 분류된 KIA 타이거즈 갤러리 입니다. KIA 타이거즈 갤러리에 다양한 이야기를 남겨주세요.",
+  "metrics": {},
+  "scores": {
+    "hot": 57,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

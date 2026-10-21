@@ -1,0 +1,22 @@
+{
+  "id": "news-92ec1f66",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "news",
+  "source_name": "일요신문",
+  "url": "https://www.ilyo.co.kr/?ac=article_view&entry_id=513248",
+  "title": "정규리그 우승 KT가 ‘가성비’도 1위…KBO 구단별 ‘1승당 몸값’",
+  "published_at": "2026-10-21T08:40:54.000Z",
+  "collected_at": "2026-10-21T21:38:26.643Z",
+  "summary_ko": "일요신문은 정규리그 우승 KT가 구단별 1승당 몸값에서도 1위라고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 71,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

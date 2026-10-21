@@ -1,0 +1,33 @@
+{
+  "id": "news-f76baba5",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1SeEN6bkwyYmg3TDZNVzhlTmhCTHM0ZmJOUlZ1dUt0MExjQW0wankxVEVwaHZPM2NpbnFIRlJJM1JOWTNodDh1OEVqR1JERE1aOWtsLXl6bmNvTkhZcldKZFh1dVd6eEdTZThxenJoWdIBb0FVX3lxTE1SeEN6bkwyYmg3TDZNVzhlTmhCTHM0ZmJOUlZ1dUt0MExjQW0wankxVEVwaHZPM2NpbnFIRlJJM1JOWTNodDh1OEVqR1JERE1aOWtsLXl6bmNvTkhZcldKZFh1dVd6eEdTZThxenJoWQ?oc=5",
+  "title": "[사진] 박상준, 투런포 작렬",
+  "published_at": "2026-10-21T08:25:00.000Z",
+  "collected_at": "2026-10-21T21:38:26.643Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 95,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5fbjZYUXNxODliYTNHc3o1SWlzd2xvTGo3OFZEbWJ1QksxMnI5NE1aOG1weWRyb0lBMnFNbmd2cVg1MjdMT0JrUkdjUjZQQTBtOFlmUw?oc=5"
+    },
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONG9tcTlMRUVKMGd6T1REb0JuMmZYTjVsSHVOejFycE1HN1pLU0FhakpMWWV2MHlfbnlLZ1EzR3FVZERySERWc3ZNYWFPZ29CREsycm8yVF9oYjFpX0NrSm1NSnpVamxuUnJHMDBLLVBxeElhZE1qYi1oVTM3cEdtRnBYQWRwU1E2?oc=5"
+    }
+  ]
+}

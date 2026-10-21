@@ -1,0 +1,23 @@
+{
+  "id": "news-64f14064",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "www.xportsnews.com",
+  "url": "https://www.xportsnews.com/article/2210115",
+  "title": "삼성 또또 날벼락!…준PO KIA 승승승 이어 '슈퍼태풍 참피 돌발 변수' 25일 대구 종일 비 예보→KIA 하루 더 휴식?",
+  "published_at": "2026-10-21T14:55:56.000Z",
+  "collected_at": "2026-10-21T21:38:26.643Z",
+  "summary_ko": "엑스포츠뉴스는 25일 대구에 종일 비 예보가 있어 PO 1차전 일정에 변수가 될 수 있다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

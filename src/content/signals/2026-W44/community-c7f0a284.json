@@ -1,0 +1,23 @@
+{
+  "id": "community-c7f0a284",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 아린의 한쪽",
+  "url": "https://blog.naver.com/rubi1105/224448793205",
+  "title": "작년 뒷말 컸던 빅터 레이예스 골든글러브, 올해는 누가 등을 돌렸나",
+  "published_at": "2026-10-21T12:10:00.000+09:00",
+  "collected_at": "2026-10-21T21:38:26.643Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 61,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}
