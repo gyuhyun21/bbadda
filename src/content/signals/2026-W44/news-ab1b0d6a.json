@@ -1,0 +1,23 @@
+{
+  "id": "news-ab1b0d6a",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "뉴스1",
+  "url": "https://www.news1.kr/sports/baseball/6327126",
+  "title": "데뷔 이래 첫 방출 통보…손아섭, '3000안타 꿈' 이어갈 수 있을까",
+  "published_at": "2026-10-21T04:01:00.000Z",
+  "collected_at": "2026-10-21T07:38:16.526Z",
+  "summary_ko": "뉴스1에 따르면 손아섭이 데뷔 이래 처음 방출 통보를 받았다. 3000안타 도전을 이어갈 수 있을지가 관심이다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

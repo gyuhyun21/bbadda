@@ -1,0 +1,33 @@
+{
+  "id": "news-49aad0bd",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "톡톡뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5FM3ZtQlBiRXpXbFBPX1VmNmVQYm5JdUY2WWFCajZhMnZCUF9PQmozczNnNkVPQXJZOFY5SnlXMzFrQ1N2aGtxTC1aWElBRW82TUxRRldxLTJDdFI2d0E?oc=5",
+  "title": "나주교육 빅뱅, 광남고 야구부 2년 연속 KBO 프로선수 배출",
+  "published_at": "2026-10-21T02:23:00.000Z",
+  "collected_at": "2026-10-21T07:38:16.526Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 82,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "미디어투데이",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFAwWVh0R1JuaFFEZm9wLXdLMlNRd2kyQ05FQ21tLXNsRVRZemVaT0ZlalpwWFNKcmlnd3ZWQ0xJUllyTE1yZmR3Y3Jn?oc=5"
+    },
+    {
+      "source_name": "교육연합신문",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1icHJhU2I3bGQ3YndURXp4MXpyeW9rVmFXUDZSSlc4eTNkcnpOc0x6Ui1PcmU4QVZuT0ZieE9jLU83eW1ORG5iQ3NyUXpCSjhwLTQwemJoTUNhMUw3?oc=5"
+    }
+  ]
+}

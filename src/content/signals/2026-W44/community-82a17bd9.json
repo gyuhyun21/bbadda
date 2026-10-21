@@ -1,0 +1,24 @@
+{
+  "id": "community-82a17bd9",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 싸루의 꿀팁, 꿀템",
+  "url": "https://blog.naver.com/hobbypick/224448851952",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/6JlUgsQ89Ax",
+  "title": "2026 가을야구 일정 총정리｜삼성 vs KIA 플레이오프·한국시리즈 일정",
+  "published_at": "2026-10-21T13:11:00.000+09:00",
+  "collected_at": "2026-10-21T07:38:16.526Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

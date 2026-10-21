@@ -1,0 +1,22 @@
+{
+  "id": "news-85d4dc17",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "이데일리",
+  "url": "https://www.edaily.co.kr/News/Read?newsId=03608006645615216&mediaCodeNo=257",
+  "title": "준PO서 무너진 LG, ‘붙박이 주전’ 시대 끝나나…세대교체 불가피",
+  "published_at": "2026-10-21T04:42:14.000Z",
+  "collected_at": "2026-10-21T07:38:16.526Z",
+  "summary_ko": "준PO에서 무너진 LG가 붙박이 주전 중심 운영을 끝내고 세대교체에 나서야 한다는 진단이 나왔다.",
+  "metrics": {},
+  "scores": {
+    "hot": 83,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

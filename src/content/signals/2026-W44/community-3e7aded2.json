@@ -1,0 +1,24 @@
+{
+  "id": "community-3e7aded2",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&page=4&document_srl=10468563870",
+  "title": "헬스장에 나이가 짐작 안되는 여자있음 - 야구",
+  "published_at": "2026-10-21T01:38:16.526Z",
+  "collected_at": "2026-10-21T07:38:16.526Z",
+  "summary_ko": "",
+  "excerpt": "... 7 분 전 자유 두산베어스 조회156 추천1. 김지우 고교 슬래시라인이 447이구나 · 나성범은 코치잘할거같음…",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

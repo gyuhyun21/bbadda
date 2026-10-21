@@ -1,0 +1,28 @@
+{
+  "id": "community-7a812be4",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 광이의 크로스핏, 운동은 장비빨!",
+  "url": "https://blog.naver.com/writedo/224448471790",
+  "title": "\"일본 독립리거였는데\" KIA 시라카와, 잠실 마지막 승리투수 된 이유",
+  "published_at": "2026-10-21T05:09:00.000+09:00",
+  "collected_at": "2026-10-21T07:38:16.526Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 80,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9CQlRCWVVMa2tBdnRBQjVRYmd5LTd3Wm5Oak02UkM2S0RkMFhURFFvUUlhYVJmM3VfM1F2VmMza3Q2QktJZ1BQaHNCUnpacFNJNXM2NlphdmdjYXNHV2VlZWRhb1pJNkdacl9WRTB1cnBkZ1dqYXdWX9IBeEFVX3lxTE9CQlRCWVVMa2tBdnRBQjVRYmd5LTd3Wm5Oak02UkM2S0RkMFhURFFvUUlhYVJmM3VfM1F2VmMza3Q2QktJZ1BQaHNCUnpacFNJNXM2NlphdmdjYXNHV2VlZWRhb1pJNkdacl9WRTB1cnBkZ1dqYXdWXw?oc=5"
+    }
+  ]
+}

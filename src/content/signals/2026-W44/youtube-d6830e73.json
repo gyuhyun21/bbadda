@@ -1,0 +1,28 @@
+{
+  "id": "youtube-d6830e73",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "lg"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "기아타이거즈 KIA TIGERS",
+  "url": "https://www.youtube.com/watch?v=Wbbu7TpMh8Q",
+  "title": "선발 전원 안타&득점, 투수진 호투로 3연승!!!｜10월 20일 준PO 3차전 KIA vs LG [원정덕관]",
+  "published_at": "2026-10-21T03:59:43Z",
+  "collected_at": "2026-10-21T07:38:16.526Z",
+  "summary_ko": "KIA 구단 채널이 준PO 3차전 원정 응원석 영상을 올렸다. 선발 전원 안타·득점으로 3연승을 거둔 경기다.",
+  "metrics": {
+    "views": 83072,
+    "likes": 4406,
+    "comments": 540
+  },
+  "scores": {
+    "hot": 93,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

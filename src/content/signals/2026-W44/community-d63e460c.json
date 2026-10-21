@@ -1,0 +1,29 @@
+{
+  "id": "community-d63e460c",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 dambau",
+  "url": "https://dambau6210.tistory.com/5081",
+  "title": "'괴물' 김도영 귀엽다...145.8m 전율의 만루포",
+  "published_at": "2026-10-21T13:47:52.000+09:00",
+  "collected_at": "2026-10-21T07:38:16.526Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 83,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPYmFoNS1fYXpMVWczVmFjT1U2VkIxdGhhTkdXMGFZVU9FRVpYZ05BVjJicTdud1JMVkx2M2FQUXIxS2dtYkFyOGpvMGhkcHB1dGswblA0azRzeHJwSEtZaG5PeHllX3RnM2NiMUN6a0RGRzdfMlVaa0xwY2VSUU9MQk9STQ?oc=5"
+    }
+  ]
+}

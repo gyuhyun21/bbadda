@@ -1,0 +1,30 @@
+{
+  "id": "community-c7dd7ac9",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&category=4332282&document_srl=10469130309",
+  "title": "깜짝' 국대 외야수 2루수 복귀 선언…\"미련 남아 후회하고 싶지 않았어요\"",
+  "published_at": "2026-10-21T05:38:16.526Z",
+  "collected_at": "2026-10-21T07:38:16.526Z",
+  "summary_ko": "",
+  "excerpt": "... 이렇게 해야 미련이 안 남을 것 같아서요.\"문현빈(22·한화 이글스)은 올 시즌을 마치고 2루수에 다시 도전하고…",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTXI2ZVNnbFhGeWNxLUdUbUVKdGFfWHEzZVBEVlBBUnQwajZ5RElZdWdCTnd6NXNGYVYyWGk5UFF2LUMzT1RlakJFd2s4ZjgyU0VZNXRtNmM4dm5xZGVIdDVjazlmRnJYOWRucC1SaUt4Q0h0ZHhkZ3U2MXRIOWxZcU1jYw?oc=5"
+    }
+  ]
+}

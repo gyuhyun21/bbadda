@@ -1,0 +1,28 @@
+{
+  "id": "news-95a9fe7f",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "미주중앙일보",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBlSi01WFg3Q3dkcjhnbW5NTzdISjlSaHN4N0JLRmE1SWFCaVZPSVU1MkpPR044eG9UX3RzWGxiRzhucDYtZG8tR0hFTHltT0xiUDVCSDFnQmRlY2lkTmJzbWR3?oc=5",
+  "title": "'가을 영웅 김영웅이냐, 12홈런 전병우냐' 삼성 3루수 경쟁…박진만 감독의 선택은? [오!쎈 대구]",
+  "published_at": "2026-10-20T22:40:00.000Z",
+  "collected_at": "2026-10-21T07:38:16.526Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 73,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBGdVB0ZWg3WXI0ZTVJcWZ6OVVFUUptOEFuZ0FQWTRGOGpqNUdTbG5XWTdGQ0c1RHd5cFdlS2pISnNYbmFYaVhuajhZYi12T1gyLTdBbFpkUmpRdHV4ZVRGRVJpdnl4dE5tU3fSAW9BVV95cUxPbnVpdGw1a1A5OVZvb2dvdFhBXzIyNEU5NDh2UXlKRlZtWjlOZGlLeS1xWHo0ZXJXMmkwanlVMVF2YWNWTjNqUXpPemRMaVBUdjhiYV8wZ1lUMVQ2YkcyUHJWV0VHR1QtRC1Vei1RSlk?oc=5"
+    }
+  ]
+}

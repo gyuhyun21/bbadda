@@ -1,0 +1,26 @@
+{
+  "id": "youtube-9c626fdf",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "이영 KIA",
+  "url": "https://www.youtube.com/watch?v=VYIMkMDj7Ic",
+  "title": "기아타이거즈 시라카와 투수",
+  "published_at": "2026-10-21T05:39:13Z",
+  "collected_at": "2026-10-21T07:38:16.526Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 863,
+    "likes": 8,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 39,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

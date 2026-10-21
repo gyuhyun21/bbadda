@@ -1,0 +1,24 @@
+{
+  "id": "community-7491ecec",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 스포트라이트",
+  "url": "https://blog.naver.com/sion4772_/224449029946",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/1swOQRXGdtu",
+  "title": "애런 저지 프로필｜62홈런의 양키스 주장, 2026 가을을 벤치에서 보낸 이유",
+  "published_at": "2026-10-21T15:22:00.000+09:00",
+  "collected_at": "2026-10-21T07:38:16.526Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

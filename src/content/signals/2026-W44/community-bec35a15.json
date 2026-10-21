@@ -1,0 +1,23 @@
+{
+  "id": "community-bec35a15",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 생활밀착 정보통",
+  "url": "https://blog.naver.com/trendzip0001/224448892788",
+  "title": "야구 플레이오프 예매 전쟁, 대기 1만 번대도 뚫는 현실 공략법",
+  "published_at": "2026-10-21T13:33:00.000+09:00",
+  "collected_at": "2026-10-21T07:38:16.526Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

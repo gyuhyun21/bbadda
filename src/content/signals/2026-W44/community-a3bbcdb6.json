@@ -1,0 +1,23 @@
+{
+  "id": "community-a3bbcdb6",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 일상이 행복",
+  "url": "https://happy.vistatu.com/5",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/mzk0J2ylon",
+  "title": "준플레이오프 3차전 KIA 김도영 145m 만루홈런 폭발! 3연승 플레이오프 진출",
+  "published_at": "2026-10-21T16:27:34.000+09:00",
+  "collected_at": "2026-10-21T07:38:16.526Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

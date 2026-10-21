@@ -1,0 +1,24 @@
+{
+  "id": "community-583c1c4c",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&document_srl=10468458847",
+  "title": "동빈아 돈좀줘라 좀 - 야구",
+  "published_at": "2026-10-21T01:38:16.526Z",
+  "collected_at": "2026-10-21T07:38:16.526Z",
+  "summary_ko": "",
+  "excerpt": "... 홈시 삼성 라이온즈 우승하면 ram ssd도 할인해줌? 잠실의 주인은 오세훈이죠 [4]. 3 분 전…",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

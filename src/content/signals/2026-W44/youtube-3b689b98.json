@@ -1,0 +1,27 @@
+{
+  "id": "youtube-3b689b98",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "kt wiz - 위즈TV",
+  "url": "https://www.youtube.com/watch?v=D3H5ZHNdSQg",
+  "title": "두더지 It's ME! 아일릿에게서 온 특별한 선물😍",
+  "published_at": "2026-10-21T03:00:05Z",
+  "collected_at": "2026-10-21T07:38:16.526Z",
+  "summary_ko": "kt wiz 구단 채널이 그룹 아일릿에게서 받은 선물 영상을 올렸다.",
+  "metrics": {
+    "views": 10510,
+    "likes": 606,
+    "comments": 35
+  },
+  "scores": {
+    "hot": 83,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

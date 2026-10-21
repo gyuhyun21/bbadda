@@ -1,0 +1,29 @@
+{
+  "id": "news-7af9b748",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "lg",
+  "teams": [
+    "lg",
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9OMWw0b0tkcXBocmNDWTBEdl9naXg3b3Z0WFpIdWIyUUJFR3ZXUE9WNjQ5MzNLWFFEWkF6dXFyRUpaXzFFZWVkNnd5VkJzX2ZpWEZMN1FIeXYxOVIwU0kzVXBzTDRpcnJ4TjMyQWpsSEo0dlFELXNMU3BsdUdFdw?oc=5",
+  "title": "LG는 셧아웃, 삼성은 이 선수 어떻게 막나, 유일한 약점은 전 동료 하나 뿐...통산 37홀드 잠수함은 이미 방출",
+  "published_at": "2026-10-20T22:34:27.000Z",
+  "collected_at": "2026-10-21T07:38:16.526Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 73,
+    "relevance": 70
+  },
+  "sentiment": "negative",
+  "also_in": [
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOS2VJNjBOQk9mVDI1NVFEN3Itb1FROU1CRjhQRDF2T1BOdjlXc3JvNDMwUVpGQXpkV2d5UXVFdGNxcTE5UE9lRlhvdDRlcmhDSWlLSEVGRkZTOXBBc1FSNnN1RUVDb0stRm1LSDFuNnhyUWZqV2FMNE53aU9NRnVvSnpHSQ?oc=5"
+    }
+  ]
+}

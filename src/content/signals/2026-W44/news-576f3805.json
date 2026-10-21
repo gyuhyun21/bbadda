@@ -1,0 +1,23 @@
+{
+  "id": "news-576f3805",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "마이데일리",
+  "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBtNzZmRmsyUnk0anVjYi1NdkItYW9oSjZIUjBaVDRVYmR0MUstQmRTcmVSMEE2US1TZDVhX0FNLWZ5Vm90SjEyX2EzU1B0U1hpdGNNd3hPbUx1R3kxczd2Nko3YUlsQQ?oc=5",
+  "title": "삼성 최악 시나리오 완성→KIA전 PS 승률 겨우 0.304…하지만 역사는 삼성 우위라 말한다, 응답하라 1990",
+  "published_at": "2026-10-21T02:41:00.000Z",
+  "collected_at": "2026-10-21T07:38:16.526Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 90,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

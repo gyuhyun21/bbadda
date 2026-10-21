@@ -1,0 +1,25 @@
+{
+  "id": "community-e1c8f837",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia",
+    "kt"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 Today's Search Notes",
+  "url": "https://blog.naver.com/todaysearchnote/224448864046",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/J4RrK5h5xjc",
+  "title": "⚾ 2026 프로야구 플레이오프 일정 총정리! 삼성 vs KIA, 한국시리즈 KT의 상대는 누?",
+  "published_at": "2026-10-21T13:01:00.000+09:00",
+  "collected_at": "2026-10-21T07:38:16.526Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

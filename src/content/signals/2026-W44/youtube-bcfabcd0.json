@@ -1,0 +1,26 @@
+{
+  "id": "youtube-bcfabcd0",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "source_name": "Sports Passion Daily",
+  "url": "https://www.youtube.com/watch?v=r2KiD4hQZIc",
+  "title": "⚠️ “이 전력으로 우승을 꿈꾼다고?” 류지현 감독이 마주한 한화 이글스의 충격적인 현실! 무너진 투수진부터 꼬인 야수진까지… 지금 바꾸지 않으면 또다시 추락할 수 있다!💣",
+  "published_at": "2026-10-21T05:31:48Z",
+  "collected_at": "2026-10-21T07:38:16.526Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 147,
+    "likes": 9,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "mixed"
+}

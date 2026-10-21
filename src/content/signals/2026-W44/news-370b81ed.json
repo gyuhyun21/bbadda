@@ -1,0 +1,23 @@
+{
+  "id": "news-370b81ed",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "연합뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9iVEVaYzJ6NGlxa3F0eEZ1dGJLS1FkMzllQ3RQRzZBWnA1cUhidkRlbk1KTHpLR0JrYWJpZ2p0ZUxUM3pfRmhXMUF1QzJ2RVAxQWRmYVRhSVFhSzDSAWBBVV95cUxQOHhyNmRfOEI1TDBWeTRTWUlwUkdOeDNsa1VHU3VGMnZOUXpWY2o5Y2x0WHlIWmNGRExKZThmOVVkbFNUWS1zOEZPVC1Vd0R5RjVXLUk3dTFpNzR1Wi1vemQ?oc=5",
+  "title": "KIA 박정우의 9구 볼넷, LG 카라스코 무너뜨린 시발점",
+  "published_at": "2026-10-21T01:15:10.000Z",
+  "collected_at": "2026-10-21T07:38:16.526Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

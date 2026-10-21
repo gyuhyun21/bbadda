@@ -1,0 +1,23 @@
+{
+  "id": "news-4b11c3f7",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "TopStarNews",
+  "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1JREgxZV95MWROVFMxQXlVbHlEZ0RKVWdjb2NfY3V2aDZTTUgzamF6Tm14dC0tdW11dXBSSnJxTmp2VlJuRFVMSm8wNmd3dlo3WFFseEthekk2bFdXdlVMNFNob1FsMVgzdWUtMXJNRjV2dw?oc=5",
+  "title": "CGV, KBO 포스트시즌 극장 단독 생중계…오늘(21일) 삼성-기아 플레이오프 예매 오픈",
+  "published_at": "2026-10-21T00:32:11.000Z",
+  "collected_at": "2026-10-21T07:38:16.526Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 80
+  },
+  "sentiment": "neutral"
+}

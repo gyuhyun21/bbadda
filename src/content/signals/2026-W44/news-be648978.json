@@ -1,0 +1,23 @@
+{
+  "id": "news-be648978",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "마이데일리",
+  "url": "https://mydaily.co.kr/page/view/2026102114240615546",
+  "title": "전상현 6일 쉰다, 이의리는 9일 쉬고 또 4일 쉰다…KIA 어제 승리조 아예 안 썼다, 삼성이 제법 긴장하겠어요[MD잠실]",
+  "published_at": "2026-10-21T06:00:00.000Z",
+  "collected_at": "2026-10-21T07:38:16.526Z",
+  "summary_ko": "KIA가 준PO 3차전에서 승리조를 쓰지 않아 전상현 등이 충분히 쉬고 플레이오프에 나선다고 보도했다. 삼성이 긴장할 만한 대목으로 짚었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 83,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

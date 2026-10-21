@@ -1,0 +1,22 @@
+{
+  "id": "news-1cd0da98",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "더게이트",
+  "url": "http://www.spochoo.com/news/articleView.html?idxno=131293",
+  "title": "2연패 도전→4위 추락→3연패 탈락…LG는 어디서부터 잘못됐나, “생각의 전환 필요하다”",
+  "published_at": "2026-10-21T03:31:28.000Z",
+  "collected_at": "2026-10-21T07:38:16.526Z",
+  "summary_ko": "LG가 준PO 3연패로 탈락한 뒤 어디서부터 잘못됐는지 짚는 기사다. '생각의 전환이 필요하다'는 진단이 나왔다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

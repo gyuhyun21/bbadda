@@ -1,0 +1,23 @@
+{
+  "id": "news-9375c095",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠동아",
+  "url": "https://sports.donga.com/sports/article/all/20261021/134881844/1",
+  "title": "삼성 페덱+후라도 vs KIA 네일+올러…특급 외인 원투펀치 맞대결, PO 관통할 키워드",
+  "published_at": "2026-10-21T05:56:48.000Z",
+  "collected_at": "2026-10-21T07:38:16.526Z",
+  "summary_ko": "삼성 페덱·후라도와 KIA 네일·올러, 두 팀 외국인 원투펀치의 맞대결이 플레이오프 승부를 가를 키워드라고 짚었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

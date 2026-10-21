@@ -1,0 +1,23 @@
+{
+  "id": "community-b7b942b9",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 볼몽 | sports blog",
+  "url": "https://blog.naver.com/bolmong/224449049848",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/CbX1Jshwi6c",
+  "title": "\"두 명 다 잡을 수 있을까?\" LG 가을야구 허무한 탈락.. FA 홍창기 박동원 계약 어쩌나",
+  "published_at": "2026-10-21T15:37:00.000+09:00",
+  "collected_at": "2026-10-21T07:38:16.526Z",
+  "summary_ko": "한 블로그가 LG 탈락 뒤 FA 홍창기·박동원을 모두 잡을 수 있을지 짚었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

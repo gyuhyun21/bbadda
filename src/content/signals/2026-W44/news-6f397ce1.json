@@ -1,0 +1,22 @@
+{
+  "id": "news-6f397ce1",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "매일경제",
+  "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1lV0VYNlkteHJtSjFyYlpkWXdFZmkxakpyc2U0VmdIYUhvTEM5RVpadkRiVmpHdjRBTG81NTBsTGwxNWhFMlE?oc=5",
+  "title": "“확실히 슈퍼스타 다운 모습 보여”…김도영 향해 경계심 드러낸 박진만 삼성 감독 [PO]",
+  "published_at": "2026-10-20T22:40:00.000Z",
+  "collected_at": "2026-10-21T07:38:16.526Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 73,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

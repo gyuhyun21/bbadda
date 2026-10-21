@@ -1,0 +1,24 @@
+{
+  "id": "news-5b4b19e0",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "lg",
+  "teams": [
+    "lg",
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠경향",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ucW1QUlpEVFFZVFNoQXkyaGNndlZkeEpOUTBFTkdvWWkzdGxubEpnajhXdjRHMjJxRXRTUzJSMUFmQXVra2FEWTM1cFVfWlJlazFqR0hGV3p4MHFRNjJSZ0FRUdIBY0FVX3lxTE1ucW1QUlpEVFFZVFNoQXkyaGNndlZkeEpOUTBFTkdvWWkzdGxubEpnajhXdjRHMjJxRXRTUzJSMUFmQXVra2FEWTM1cFVfWlJlazFqR0hGV3p4MHFRNjJSZ0FRUQ?oc=5",
+  "title": "‘3경기 5득점’ 역대급 가을야구 빈공, ‘기계처럼 야구했던’ 디펜딩 챔피언의 추락",
+  "published_at": "2026-10-21T01:13:00.000Z",
+  "collected_at": "2026-10-21T07:38:16.526Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

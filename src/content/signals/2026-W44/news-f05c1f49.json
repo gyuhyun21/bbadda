@@ -1,0 +1,22 @@
+{
+  "id": "news-f05c1f49",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠한국",
+  "url": "https://sports.hankooki.com/news/articleView.html?idxno=6942020",
+  "title": "선동열·이종범도 넘지 못한 준PO…김도영과 함께 새 역사 쓴 KIA",
+  "published_at": "2026-10-21T01:00:30.000Z",
+  "collected_at": "2026-10-21T07:38:16.526Z",
+  "summary_ko": "KIA가 준PO를 3연승으로 마치며 선동열·이종범 시대도 넘지 못한 기록을 새로 썼다고 보도했다. 김도영의 활약이 중심에 있었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "community-3865eadf",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&document_srl=10468899799",
+  "title": "황영묵 미친 올해 타율이 2할도 안되네 - 야구",
+  "published_at": "2026-10-21T03:38:16.526Z",
+  "collected_at": "2026-10-21T07:38:16.526Z",
+  "summary_ko": "",
+  "excerpt": "... 만약 신동빈이 롯데자이언츠 매각으로 내놓으면 어느 기업이 달려들려나? [12]. 3 분 전 자유 소한빈…",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

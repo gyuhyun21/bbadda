@@ -1,0 +1,27 @@
+{
+  "id": "youtube-585ccde8",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "정병야구",
+  "url": "https://www.youtube.com/watch?v=_mvZ7fZGUD0",
+  "title": "경기에 집중 안 하는 홍창기 #kbo #야구 #프로야구 #엘지트윈스 #kt위즈 #홍창기",
+  "published_at": "2026-10-21T03:00:19Z",
+  "collected_at": "2026-10-21T07:38:16.526Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1999,
+    "likes": 6,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 38,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

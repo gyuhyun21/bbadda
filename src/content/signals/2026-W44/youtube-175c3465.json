@@ -1,0 +1,27 @@
+{
+  "id": "youtube-175c3465",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "제임스본드",
+  "url": "https://www.youtube.com/watch?v=Op3wkjcWjwg",
+  "title": "플레이오프 예매 중 (구독과좋아요)#플레이오프 #삼성라이온즈 #기아타이거즈 #nol티켓 #예매실패 #라이온즈파크",
+  "published_at": "2026-10-21T05:43:01Z",
+  "collected_at": "2026-10-21T07:38:16.526Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 744,
+    "likes": 1,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 32,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

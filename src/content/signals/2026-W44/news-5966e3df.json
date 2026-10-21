@@ -1,0 +1,22 @@
+{
+  "id": "news-5966e3df",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202610202212514421",
+  "title": "\"잠실구장 마지막 불꽃, 김도영이 쐈다\" 145m 괴력 만루포… KIA, 13-1 압승 'PO 직행'",
+  "published_at": "2026-10-20T13:15:35.000Z",
+  "collected_at": "2026-10-21T07:38:16.526Z",
+  "summary_ko": "KIA가 잠실에서 열린 준PO 3차전에서 LG를 13-1로 꺾고 플레이오프에 올랐다. 김도영의 145m 만루포가 눈길을 끌었다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 61,
+    "relevance": 80
+  },
+  "sentiment": "neutral"
+}

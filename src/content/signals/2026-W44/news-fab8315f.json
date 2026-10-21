@@ -1,0 +1,28 @@
+{
+  "id": "news-fab8315f",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBIbWJZQmJrdGRWRTlwRFlocUQ2Z3lnWDBjN1g4TUNhSkFuS0F0R2VSNmxlTno4bnF0alFEeUVrYzJCV09ITWFJQzVYQm1neko1Mnd1SC1kVGl4dEtpdGNsZDdlLXhUdjlHQkc0bnJPWdIBb0FVX3lxTFBIbWJZQmJrdGRWRTlwRFlocUQ2Z3lnWDBjN1g4TUNhSkFuS0F0R2VSNmxlTno4bnF0alFEeUVrYzJCV09ITWFJQzVYQm1neko1Mnd1SC1kVGl4dEtpdGNsZDdlLXhUdjlHQkc0bnJPWQ?oc=5",
+  "title": "'끝판대장 오승환이 쏜다!' 은퇴 후에도 변함없는 후배 사랑…올해도 사비로 삼성 가을야구 응원",
+  "published_at": "2026-10-21T01:41:00.000Z",
+  "collected_at": "2026-10-21T07:38:16.526Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE45YWYzSVNpZGh5OFF6N0tPcUxVZEV2MlZPZUlKbTRRVFdJbTlTOFM0STdVaFg1emU4U0IzUkgydzZoZnI2bE5pTDNkdmNRY2RfUUdOOQ?oc=5"
+    }
+  ]
+}

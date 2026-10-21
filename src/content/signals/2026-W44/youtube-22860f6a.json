@@ -1,0 +1,26 @@
+{
+  "id": "youtube-22860f6a",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "youtube",
+  "source_name": "엘냠씨",
+  "url": "https://www.youtube.com/watch?v=ycI3ygvKyhc",
+  "title": "준PO 3차전 리액션 나성범 홈런 #엘지트윈스 #LG트윈스 #KBO #야구 #야구팬 #크보",
+  "published_at": "2026-10-21T07:11:05Z",
+  "collected_at": "2026-10-21T07:38:16.526Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 406,
+    "likes": 15,
+    "comments": 6
+  },
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

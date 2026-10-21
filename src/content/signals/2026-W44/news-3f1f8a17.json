@@ -1,0 +1,25 @@
+{
+  "id": "news-3f1f8a17",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "lg",
+  "teams": [
+    "lg",
+    "samsung",
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "한겨레",
+  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9telZLV3RhSE5adVQxclhYajhQSmhFUXVza0VIckh6NHNaUXJIdkpzeDVMWU1VNXphRUNLZmJ3bTFlZjBQcDczOEl6ekpIZzRDMy1VbXo3cEhOWDJ1R21OV3NIenV1MEE?oc=5",
+  "title": "2년 만에 다시 뜬 ‘달빛시리즈’…타격왕 구자욱 vs 홈런왕 김도영",
+  "published_at": "2026-10-21T07:19:00.000Z",
+  "collected_at": "2026-10-21T07:38:16.526Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 92,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

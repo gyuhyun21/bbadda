@@ -1,0 +1,24 @@
+{
+  "id": "community-a9c20410",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "엠엘비파크",
+  "url": "https://mlbpark.donga.com/mp/b.php?id=202610210119575512&p=331&b=bullpen&m=view&site=donga.com",
+  "title": "한국시리즈 우승확률, 제미나이 vs 챗지피티",
+  "published_at": "2026-10-21T00:38:16.526Z",
+  "collected_at": "2026-10-21T07:38:16.526Z",
+  "summary_ko": "",
+  "excerpt": "... 재미로만 보시죠.둘다 KT위즈를 정배로 꼽았습니다.차이는 삼성과 기아를 정반대로 봅니다제…",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "community-34cda6f0",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 앙꼬미의 달콤한 이야기",
+  "url": "https://blog.naver.com/ina4610/224449042743",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/B0l6tZcfuly",
+  "title": "삼성, 10명 재계약 포기…허윤동 방출, 25세 왼손 현역 이어갈 수 있을까?",
+  "published_at": "2026-10-21T15:31:00.000+09:00",
+  "collected_at": "2026-10-21T07:38:16.526Z",
+  "summary_ko": "한 블로그에 따르면 삼성이 10명과 재계약을 포기했고 허윤동도 방출 명단에 올랐다.",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

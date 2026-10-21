@@ -1,0 +1,23 @@
+{
+  "id": "community-093e866a",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 로그수집가",
+  "url": "https://blog.naver.com/jhh3555/224448857573",
+  "title": "정재훈 신임 단장 선임…김태룡 단장 퇴임, 43년 만에 꺼내 든 이유",
+  "published_at": "2026-10-21T12:54:00.000+09:00",
+  "collected_at": "2026-10-21T07:38:16.526Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

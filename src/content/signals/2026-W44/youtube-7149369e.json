@@ -1,0 +1,26 @@
+{
+  "id": "youtube-7149369e",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "youtube",
+  "source_name": "쇼핑잇",
+  "url": "https://www.youtube.com/watch?v=W8P5zFWHH6w",
+  "title": "41홈런 오스틴 가을엔 왜 이럴까 #LG트윈스 #오스틴 #가을야구",
+  "published_at": "2026-10-21T05:18:35Z",
+  "collected_at": "2026-10-21T07:38:16.526Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 853,
+    "likes": 6,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 37,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

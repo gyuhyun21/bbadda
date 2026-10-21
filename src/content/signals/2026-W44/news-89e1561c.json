@@ -1,0 +1,25 @@
+{
+  "id": "news-89e1561c",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "lg",
+  "teams": [
+    "lg",
+    "lotte",
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "OhmyNews",
+  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1XVzI0amh4dDBNdk9LUHFFVDlHcVQwRHIzQWRYSnZQYk51VUNsNUdFZ3BNQklyejJPM19xWmlxYVdWR3lDSVJsWmNhM1NLSUo5a2tHeDdITkVwdy1PQURKWF96QmxRcnppbmVfQ0htSkQyVFlf?oc=5",
+  "title": "'아듀, 잠실야구장' 45년 역사가 남긴 것",
+  "published_at": "2026-10-21T01:39:00.000Z",
+  "collected_at": "2026-10-21T07:38:16.526Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 90,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

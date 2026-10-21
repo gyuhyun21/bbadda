@@ -1,0 +1,26 @@
+{
+  "id": "youtube-ff770cca",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "youtube",
+  "source_name": "CJI",
+  "url": "https://www.youtube.com/watch?v=EV9z30if3WQ",
+  "title": "⚾️마산야구장 시절 NC다이노스 등장곡 및 응원가 모음 전광판 버전 🦕🦖",
+  "published_at": "2026-10-21T00:52:57Z",
+  "collected_at": "2026-10-21T07:38:16.526Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 184,
+    "likes": 18,
+    "comments": 5
+  },
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

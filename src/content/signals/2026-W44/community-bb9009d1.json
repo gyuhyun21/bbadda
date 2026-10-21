@@ -1,0 +1,24 @@
+{
+  "id": "community-bb9009d1",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=humor&page=2&document_srl=10468847197",
+  "title": "'위험천만 경기장' 고척돔, 수만명 관람하는데…지붕 뼈대 휘고 지지대 ...",
+  "published_at": "2026-10-21T03:38:16.526Z",
+  "collected_at": "2026-10-21T07:38:16.526Z",
+  "summary_ko": "",
+  "excerpt": "... 고척스카이돔은 프로야구팀 키움히어로즈가 홈구장으로 쓰고 있으며, 콘서트 등 대형 공연도 자주 열리는 곳이다. 공단은…",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

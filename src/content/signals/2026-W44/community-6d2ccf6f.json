@@ -1,0 +1,33 @@
+{
+  "id": "community-6d2ccf6f",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&page=7&document_srl=10468787563",
+  "title": "롯데 감독 단장 아직 안 떴네 - 야구",
+  "published_at": "2026-10-21T03:38:16.526Z",
+  "collected_at": "2026-10-21T07:38:16.526Z",
+  "summary_ko": "",
+  "excerpt": "... 거침없이 가자~ nc다이노스 승리를 위해 워어워어워어워x2 [1]. 8 분 전 자유 엔구행5959 조회23 추천2.…",
+  "metrics": {},
+  "scores": {
+    "hot": 83,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8xTWJYSm8xMjlXLXJxR2xPLXlTcE1ZdzV2emF1MUFJOXo3TFk2R093ck1OaU94cHV4T2lJVDY0SGM4bFFPMGNRQUF5WTNEc2phRjR6M3VXUTNmNC16VGFzSjE3dllQNzRzTUlzTE9hSdIBb0FVX3lxTE8xTWJYSm8xMjlXLXJxR2xPLXlTcE1ZdzV2emF1MUFJOXo3TFk2R093ck1OaU94cHV4T2lJVDY0SGM4bFFPMGNRQUF5WTNEc2phRjR6M3VXUTNmNC16VGFzSjE3dllQNzRzTUlzTE9hSQ?oc=5"
+    },
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZjBMdmdQS21NSDdXaUpnaVoxTHFtVG5GbU1jY3FuT19UaTVkYXVfNVZyT1BuZXZ3QjFGdHpBX0hlT0V6cmVERy1sTUp4QnZVOV91akwzYXI5RHNDbzlMd0o3d0U4bnY2aGpOZnJ2ZFY5YzZ2cG5oNVMxaGlVbjJxQmpZdw?oc=5"
+    }
+  ]
+}

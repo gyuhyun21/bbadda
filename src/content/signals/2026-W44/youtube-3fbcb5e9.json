@@ -1,0 +1,26 @@
+{
+  "id": "youtube-3fbcb5e9",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "youtube",
+  "source_name": "OBS TV",
+  "url": "https://www.youtube.com/watch?v=Gy3nVjCtAQ4",
+  "title": "한화의 지명으로 떠난 김강민의 SSG 랜더스 시절 #김강민 #한화 [돌아온 불타는 그라운드]",
+  "published_at": "2026-10-21T03:00:32Z",
+  "collected_at": "2026-10-21T07:38:16.526Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 445,
+    "likes": 3,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 34,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

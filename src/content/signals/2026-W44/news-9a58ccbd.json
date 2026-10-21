@@ -1,0 +1,23 @@
+{
+  "id": "news-9a58ccbd",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "hanwha",
+  "teams": [
+    "hanwha",
+    "doosan"
+  ],
+  "source_type": "news",
+  "source_name": "www.xportsnews.com",
+  "url": "https://www.xportsnews.com/article/2209966",
+  "title": "한화, '韓 최초' 스리쿼터 4이닝 2실점 호투→히로시마전 5-5 무승부…'김주오 홈런' 두산 시코쿠전 4-5 패배",
+  "published_at": "2026-10-21T07:14:16.000Z",
+  "collected_at": "2026-10-21T07:38:16.526Z",
+  "summary_ko": "한화가 히로시마전에서 5-5로 비겼고, 스리쿼터 투수가 4이닝 2실점으로 호투했다. 두산은 시코쿠전에서 4-5로 졌다.",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "mixed"
+}

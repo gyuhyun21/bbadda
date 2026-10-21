@@ -1,0 +1,23 @@
+{
+  "id": "news-e628bcc5",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "파이낸셜뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE53c0FKc3lMYUd5OFh3UkdwbENSdmwyUjVNSm5wTnRRYlZPazVRTW9ya2d6eVB0ZjhUMHhZOEVFR2Nsb3RtOEdueFNWbGdnSWJ3dmV0dG1wNjdtZw?oc=5",
+  "title": "'가을야구 암표' 고액·다량 판매 의심자 31명 수사 의뢰",
+  "published_at": "2026-10-20T08:08:52.000Z",
+  "collected_at": "2026-10-21T07:38:16.526Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 60,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "community-af41a75a",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "엠엘비파크",
+  "url": "https://mlbpark.donga.com/mp/b.php?id=202610210119577834&p=1&b=kbotown&m=view&select=spf&query=%EC%82%BC%EC%84%B1&site=donga.com&pos=reply",
+  "title": "기다리던 삼성라이온즈, KIA와 맞대결 앞둬···3연승 팀? '업셋' 없었다",
+  "published_at": "2026-10-21T02:38:16.526Z",
+  "collected_at": "2026-10-21T07:38:16.526Z",
+  "summary_ko": "",
+  "excerpt": "... 최근 준플레이오프 3연승의 주인공은 2023년 NC다이노스였는데, SSG를 연승으로 누르고 플레이오프에 진출한 NC는 KT를 상대로…",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "대구MBC",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBicjJBQklxWTZhVmxyTUU2N09YSlY3SmxSRzdnNzlPV1hmemRVYnRKRXJLSm52VEpHLTFueG5ESk04SXBuRm4za2EzZkw?oc=5"
+    }
+  ]
+}

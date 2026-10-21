@@ -1,0 +1,23 @@
+{
+  "id": "community-55e3a746",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 세상 돌아가는 이야기",
+  "url": "https://blog.naver.com/kch7055/224448651445",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/68h1an1S2lC",
+  "title": "페드로 아빌라 SSG 재계약, \"여기서 야구하면 안 돼\" 외친 그 투수가 남은 까닭",
+  "published_at": "2026-10-21T09:47:00.000+09:00",
+  "collected_at": "2026-10-21T07:38:16.526Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

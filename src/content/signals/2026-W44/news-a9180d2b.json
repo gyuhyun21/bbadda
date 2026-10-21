@@ -1,0 +1,22 @@
+{
+  "id": "news-a9180d2b",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스1",
+  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1WOE1JckVRbDlTSktvekVheWhlVHdRQi1FWlJFWTUwSVdCTGoyU1RWTUhtZXBqbXpEaF9FMG9CMDk5UzVfd0VOTlVxZk1JN00yeDJUTHc5NA?oc=5",
+  "title": "'2연패' 자신했던 LG, 부상 도미노에 무너졌다…씁쓸한 '굿바이 잠실'",
+  "published_at": "2026-10-21T01:48:58.000Z",
+  "collected_at": "2026-10-21T07:38:16.526Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "youtube-58a67591",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "youtube",
+  "source_name": "베이스볼 뮤지엄",
+  "url": "https://www.youtube.com/watch?v=N_0SWjj2xHs",
+  "title": "\"두산 베어스는 처음부터 두산이었을까? OB에서 현재까지! ⚾ #Shorts\"",
+  "published_at": "2026-10-21T06:15:14Z",
+  "collected_at": "2026-10-21T07:38:16.526Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 207,
+    "likes": 1,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 29,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

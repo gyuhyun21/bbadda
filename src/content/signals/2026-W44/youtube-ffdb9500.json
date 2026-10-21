@@ -1,0 +1,26 @@
+{
+  "id": "youtube-ffdb9500",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "응one",
+  "url": "https://www.youtube.com/watch?v=ELCZsSBU8Ac",
+  "title": "기아타이거즈 #미리보는플레이오프 #삼성라이온즈 #싸워라 #이겨라 #타이거즈",
+  "published_at": "2026-10-21T07:30:08Z",
+  "collected_at": "2026-10-21T07:38:16.526Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 5,
+    "likes": 1,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 48,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

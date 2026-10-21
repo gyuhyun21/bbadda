@@ -1,0 +1,23 @@
+{
+  "id": "news-4011ba55",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE53QkFST21MSnNTVkY1WV84bkZsdmNnaGJETXdTYU5Gdk9SRGJLRVpoQ0RVaFhtbkVBZVRpdEV0QjV2dkNKdC1DeUlnXy02LTM5OFpHU29QaVdObUEyODZpTnhyby1HMkhnUV92NlFCRdIBb0FVX3lxTE53QkFST21MSnNTVkY1WV84bkZsdmNnaGJETXdTYU5Gdk9SRGJLRVpoQ0RVaFhtbkVBZVRpdEV0QjV2dkNKdC1DeUlnXy02LTM5OFpHU29QaVdObUEyODZpTnhyby1HMkhnUV92NlFCRQ?oc=5",
+  "title": "PO도 김도영시리즈 예고인가. '전율의 145m 만루포' 자만하지 않는 MVP 슈퍼스타, \"대구 가서도 버금가게 잘하겠다\"",
+  "published_at": "2026-10-20T23:10:00.000Z",
+  "collected_at": "2026-10-21T07:38:16.526Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 73,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}
