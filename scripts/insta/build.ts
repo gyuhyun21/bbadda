@@ -2,6 +2,7 @@
 // 사용: npx tsx scripts/insta/build.ts <auto|morning|pregame|postgame> <출력 폴더>   (INSTA_DATE 로 날짜 지정 가능)
 //   → 출력 폴더에 index.html(?s=1..5, ?s=story)·자산 복사, 표준 출력에 JSON { key, kind, caption } 또는 { skip: 이유 }
 // 세트: 아침(구단별 한 줄, 최근 이틀 안의 brief_ko 가 하나라도 있으면) / 경기 전(오늘 경기 예고 선발이 있을 때) / 경기 후(오늘 경기 결과가 있을 때)
+//   경기 없는 날의 경기 전·경기 후 자리는 그 실행에 새로 요약된 소식으로 '오후판'·'저녁판'을 만든다(하루 세 번 게시, 2026-10-21)
 import { readFileSync, readdirSync, mkdirSync, writeFileSync, copyFileSync, existsSync } from 'node:fs';
 import { join } from 'node:path';
 import { loadPostseason, resolvePostseason, lastPlayed, type GameView, type RoundView } from '../../src/lib/postseason.ts';
@@ -51,7 +52,11 @@ const guide = `<section class="s guide">${top('빠따닷컴 쓰는 법', '5/5')}
 
 type Made = { slides: string[]; story: string; caption: string; key: string };
 
-function morning(): Made | string {
+/** 경기 없는 날 낮·밤 자리: 그 실행에 새로 요약한 소식(가장 최근 수집 묶음) 위주 */
+type Slot = { id: 'pm' | 'night'; tag: string; when: string; icon: string };
+const SLOT: Record<Slot['id'], Slot> = { pm: { id: 'pm', tag: '오후판', when: '오늘 오후', icon: '🌤️' }, night: { id: 'night', tag: '저녁판', when: '오늘 밤', icon: '🌙' } };
+
+function morning(slot?: Slot): Made | string {
   const sigs: (Sig & { hook_ko?: string; summary_ko?: string })[] = [];
   for (const w of readdirSync(join(ROOT, 'src/content/signals'))) {
     const dir = join(ROOT, 'src/content/signals', w);
@@ -61,7 +66,14 @@ function morning(): Made | string {
   // 매일 아침 반드시 만든다. 구단별 한 줄 고르는 순서: 오늘 brief_ko → 최근 7일 brief_ko → 최근 7일 뉴스 요약 앞부분(어절 단위로 자름)
   const dayOf = (x: Sig) => new Date(Date.parse(x.collected_at) + 9 * 3600_000).toISOString().slice(0, 10);
   const weekAgo = new Date(Date.parse(`${today}T00:00:00Z`) - 7 * 86400_000).toISOString().slice(0, 10);
-  const recent = sigs.filter((s) => s.team && T.has(s.team) && dayOf(s) >= weekAgo && dayOf(s) <= today);
+  let recent = sigs.filter((s) => s.team && T.has(s.team) && dayOf(s) >= weekAgo && dayOf(s) <= today);
+  if (slot) {
+    // 오늘 수집분 중 가장 최근 묶음(3시간 안). 요약이 있는 것만
+    const todays = recent.filter((s) => dayOf(s) === today && ((s as { summary_ko?: string }).summary_ko ?? '').trim());
+    const last = Math.max(0, ...todays.map((s) => Date.parse(s.collected_at)));
+    const batch = todays.filter((s) => Date.parse(s.collected_at) >= last - 3 * 3600_000);
+    recent = batch.length ? batch : todays;
+  }
   const score = (x: Sig) => (dayOf(x) === today ? 1000 : 0) + (x.brief_ko ? 500 : 0) + x.scores.hot;
   // 비상용 한 줄: 요약 첫 문장에서 매체 이름 주어·기사체 꼬리를 떼고 어절 단위로 24자 안팎
   const clip = (x: Sig & { summary_ko?: string; source_name?: string }) => {
@@ -74,15 +86,15 @@ function morning(): Made | string {
     return (sp > 12 ? cut.slice(0, sp) : cut) + '…';
   };
   const best = new Map<string, (typeof recent)[number]>();
-  for (const s of recent) if ((s.brief_ko || (s.source_type === 'news' && s.summary_ko && !/^보도에 따르면|루머|설$/.test(s.summary_ko))) && (!best.has(s.team!) || score(s) > score(best.get(s.team!)!))) best.set(s.team!, s);
+  for (const s of recent) if ((s.brief_ko || ((s.source_type === 'news' || (slot && (s as { official?: boolean }).official)) && s.summary_ko && !/^보도에 따르면|루머|설$/.test(s.summary_ko))) && (!best.has(s.team!) || score(s) > score(best.get(s.team!)!))) best.set(s.team!, s);
   for (const [k, s] of best) if (!s.brief_ko) best.set(k, { ...s, brief_ko: clip(s), clipped: true } as typeof s);
-  if (best.size === 0) return '최근 7일 안에 구단 소식이 하나도 없음';
+  if (best.size === 0) return slot ? '오늘 새로 요약된 구단 소식 없음' : '최근 7일 안에 구단 소식이 하나도 없음';
   const ranked = [...best.values()].sort((a, b) => (b.hook_ko ? 1 : 0) - (a.hook_ko ? 1 : 0) || score(b) - score(a));
   const lead = ranked[0];
   // 첫 장 제목은 잘린 문장을 쓰지 않는다: 루틴 후크 → 루틴 한 줄 → 오늘 경기 → '오늘 아침 KBO 소식'
   const gToday = view()?.next;
-  const headline = lead.hook_ko ?? (!(lead as { clipped?: boolean }).clipped ? lead.brief_ko! : gToday && gToday.date === today ? `오늘 ${gToday.roundName}\n${gToday.no}차전` : '오늘 아침\nKBO 소식');
-  const gameHead = !lead.hook_ko && (lead as { clipped?: boolean }).clipped && gToday && gToday.date === today;
+  const headline = (slot ? undefined : lead.hook_ko) ?? (!(lead as { clipped?: boolean }).clipped ? lead.brief_ko! : gToday && gToday.date === today ? `오늘 ${gToday.roundName}\n${gToday.no}차전` : slot ? `${slot.when}\nKBO 소식` : '오늘 아침\nKBO 소식');
+  const gameHead = (slot || !lead.hook_ko) && (lead as { clipped?: boolean }).clipped && gToday && gToday.date === today;
   const headMasc = gameHead ? `${mascot(gToday!.sides[0].id)}<span class="vs">vs</span>${mascot(gToday!.sides[1].id)}` : mascot(lead.team);
   const tops = ranked.slice(0, 3);
   const rows = TEAMS.filter((t) => best.has(t.id)).map((t) => ({ id: t.id, line: best.get(t.id)!.brief_ko! }));
@@ -92,11 +104,12 @@ function morning(): Made | string {
   const half = Math.ceil(n / 2);
   // 한 줄이 적은 날은 4장째를 다른 내용으로: 오늘 가을야구 경기가 있으면 예고, 없으면 선수응원가 연습
   const g = view()?.next;
-  const extra = g && g.date === today && g.sides.every((x) => x.id)
-    ? `<section class="s dark">${top('오늘의 가을야구', '4/5')}<h2>${esc(g.roundName)} ${g.no}차전<br>오늘 ${esc(g.time)} ${esc(g.venue)}</h2><div class="masc static">${badge(g.sides[0].id)}<span class="vs">vs</span>${badge(g.sides[1].id)}</div>${g.record.starters.every(Boolean) ? `<p class="series-line center">선발 ${esc(nm(g.sides[0]))} ${esc(g.record.starters[0]!)} vs ${esc(nm(g.sides[1]))} ${esc(g.record.starters[1]!)}</p>` : ''}<p class="series-line center">예고 선발·관전 포인트는 경기 전에 올려 드려요</p>${foot('bbadda.com')}</section>`
+  const gWhen = g ? (g.date === today ? '오늘' : `${md(g.date)}(${wd(g.date)})`) : '';
+  const extra = g && g.date >= today && g.sides.every((x) => x.id)
+    ? `<section class="s dark">${top(g.date === today ? '오늘의 가을야구' : '다음 가을야구', '4/5')}<h2>${esc(g.roundName)} ${g.no}차전<br>${gWhen} ${esc(g.time)} ${esc(g.venue)}</h2><div class="masc static">${badge(g.sides[0].id)}<span class="vs">vs</span>${badge(g.sides[1].id)}</div>${g.record.starters.every(Boolean) ? `<p class="series-line center">선발 ${esc(nm(g.sides[0]))} ${esc(g.record.starters[0]!)} vs ${esc(nm(g.sides[1]))} ${esc(g.record.starters[1]!)}</p>` : ''}<p class="series-line center">예고 선발·관전 포인트는 경기 날 올려 드려요</p>${foot('bbadda.com')}</section>`
     : `<section class="s brief">${top('선수응원가 연습', '4/5')}<h2>직관 가기 전에<br>응원가 한 번씩</h2><div class="steps"><p><i>♪</i>MY팀 선수 응원가를 공식 영상으로</p><p><i>↻</i>한 곡 반복 · 0.75배속으로 따라 부르기</p><p><i>→</i>bbadda.com 메뉴 '선수응원가 연습'</p></div>${foot('자세한 건 bbadda.com')}</section>`;
   const slides = [
-    `<section class="s dark hook"${photo('balls')}>${top('아침판', '1/5')}<p class="kicker">${md(today)} (${wd(today)}) 오늘 아침</p><h1>${hl(headline)}</h1><p class="stat-line">넘기면 ${teamsLabel} 소식이 한 줄씩 있어요</p>${foot(logo, `<span class="swipe">넘겨서 ${teamsLabel} 보기 ›</span>`)}</section>`,
+    `<section class="s dark hook"${photo(slot ? 'stadium' : 'balls')}>${top(slot?.tag ?? '아침판', '1/5')}<p class="kicker">${md(today)} (${wd(today)}) ${slot?.when ?? '오늘 아침'}</p><h1>${hl(headline)}</h1><p class="stat-line">넘기면 ${teamsLabel} 소식이 한 줄씩 있어요</p>${foot(logo, `<span class="swipe">넘겨서 ${teamsLabel} 보기 ›</span>`)}</section>`,
     `<section class="s dark">${top('오늘의 큰 소식', '2/5')}<div class="news">${tops.map((x) => `<div class="n-item">${mascot(x.team)}<div><b>${esc(x.brief_ko!)}</b><p>${esc((x.summary_ko ?? '').slice(0, 90))}</p></div></div>`).join('')}</div>${foot('출처: 언론 보도 · 우리 요약')}</section>`,
     ...(n >= 6
       ? [`<section class="s brief">${top(`${teamsLabel} 한 줄`, '3/5')}<div class="rows">${rows.slice(0, half).map(row).join('')}</div>${foot('자세한 소식은 bbadda.com')}</section>`,
@@ -104,9 +117,9 @@ function morning(): Made | string {
       : [`<section class="s brief">${top('구단 한 줄', '3/5')}<div class="rows">${rows.map(row).join('')}</div>${foot('자세한 소식은 bbadda.com')}</section>`, extra]),
     guide,
   ];
-  const caption = [`☀️ ${flat(headline)}`, '', `오늘 아침 ${teamsLabel} 소식, 한 줄로 정리했어요.`, '', ...rows.map((r) => `${short(r.id)}  ${r.line}`), '', '우리 팀 소식은 어땠나요? 댓글로 남겨 주세요 👇', '더 자세한 소식은 프로필 링크에서 볼 수 있어요.', '', '#KBO #프로야구 #야구 #야구팬 #빠따닷컴'].join('\n');
-  const story = `<section class="s story dark hook"${photo('balls')}><p class="kicker">${md(today)} 오늘 아침</p><h1>${hl(headline)}</h1><div class="sticker">여기에 링크 스티커</div></section>`;
-  return { slides, story, caption, key: `${today}-morning` };
+  const caption = [`${slot?.icon ?? '☀️'} ${flat(headline)}`, '', `${slot?.when ?? '오늘 아침'} ${teamsLabel} 소식, 한 줄로 정리했어요.`, '', ...rows.map((r) => `${short(r.id)}  ${r.line}`), '', '우리 팀 소식은 어땠나요? 댓글로 남겨 주세요 👇', '더 자세한 소식은 프로필 링크에서 볼 수 있어요.', '', '#KBO #프로야구 #야구 #야구팬 #빠따닷컴'].join('\n');
+  const story = `<section class="s story dark hook"${photo(slot ? 'stadium' : 'balls')}><p class="kicker">${md(today)} ${slot?.when ?? '오늘 아침'}</p><h1>${hl(headline)}</h1><div class="sticker">여기에 링크 스티커</div></section>`;
+  return { slides, story, caption, key: slot ? `${today}-${slot.id}` : `${today}-morning` };
 }
 
 const nm = (s: GameView['sides'][number]) => (s.id ? short(s.id) : s.label);
@@ -172,7 +185,12 @@ if (process.argv[1]?.endsWith('build.ts')) {
   const arg = process.argv[2] ?? 'auto';
   const out = process.argv[3] ?? 'insta-out';
   const kind: Kind = arg === 'auto' ? kindAt(kst.getUTCDay(), kst.getUTCHours()) : (arg as Kind);
-  const made = kind === 'morning' ? morning() : kind === 'pregame' ? pregame() : postgame();
+  let made = kind === 'morning' ? morning() : kind === 'pregame' ? pregame() : postgame();
+  // 경기 없는 날(또는 결과·선발 미확정)에는 그 시간대 소식 세트로 대신한다
+  if (typeof made === 'string' && kind !== 'morning' && /경기 없음|결과 없음|데이터 없음/.test(made)) {
+    const alt = morning(SLOT[kind === 'pregame' ? 'pm' : 'night']);
+    made = typeof alt === 'string' ? `${made} · ${alt}` : alt;
+  }
   if (typeof made === 'string') { console.log(JSON.stringify({ skip: made, kind })); process.exit(0); }
   mkdirSync(join(out, 'm'), { recursive: true });
   for (const t of TEAMS) if (existsSync(join(ROOT, 'public/mascots', `${t.id}.svg`))) copyFileSync(join(ROOT, 'public/mascots', `${t.id}.svg`), join(out, 'm', `${t.id}.svg`));
