@@ -1,0 +1,29 @@
+{
+  "id": "news-e95e6ec1",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5QSHJEWVhYTGlCamo4MVpFM3U1YWxaOWRhcXEzbFFkVUZDdWVGRzdldDAtdlZBWmEtQjZzZUxoOHljTXVwbl9tVENzdWFobFBERWd2Q00xTXdjN1g3NHZfNmphcVVEVXY2aTRkbFJFUdIBb0FVX3lxTE5QSHJEWVhYTGlCamo4MVpFM3U1YWxaOWRhcXEzbFFkVUZDdWVGRzdldDAtdlZBWmEtQjZzZUxoOHljTXVwbl9tVENzdWFobFBERWd2Q00xTXdjN1g3NHZfNmphcVVEVXY2aTRkbFJFUQ?oc=5",
+  "title": "[사진] 박헌, 시원하게 1타점",
+  "published_at": "2026-10-21T07:39:00.000Z",
+  "collected_at": "2026-10-21T21:38:26.643Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 71,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9NMzN1dWhDRDBmS1hoblkzOF9uRThZc3FGUUxHa3d3NF83RWN6QnoyQUtUVWQwTnE5V19NMk45VkNRSHcwZ2JzSUQ1ZWkzY2xnd3pidA?oc=5"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "news-ca34cfe2",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "한국증권신문",
+  "url": "http://www.ksdaily.co.kr/news/articleView.html?idxno=111234",
+  "title": "삼성-KIA, 2년 만에 PO 격돌...라이온즈파크서 1차전 치른다",
+  "published_at": "2026-10-21T08:19:14.000Z",
+  "collected_at": "2026-10-21T21:38:26.643Z",
+  "summary_ko": "한국증권신문은 삼성과 KIA의 PO가 2년 만에 성사됐고 1차전은 라이온즈파크에서 열린다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 71,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "삼성, 25일 KIA와 PO 1차전"
+}

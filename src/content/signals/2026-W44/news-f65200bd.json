@@ -1,0 +1,23 @@
+{
+  "id": "news-f65200bd",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE44MWt1amcyS0ZRQUFzUEFyZG1WdWc2YXFhOGVrR1loczBBNk1HWTY1R25ZRXBickFha2M3T0xOdmJKRk1YYVdiaW03WmpRRml3U29VckpaY3F2cnZuUTRIS3BlT1pvTTBqQ281bFkyUXhnMDNlU0hBT29uVDlIQQ?oc=5",
+  "title": "'충격' 김재환 법 만들지도 않았다...'편법 옵트아웃'에 FA 시장 계속 망가질 위기",
+  "published_at": "2026-10-21T15:07:07.000Z",
+  "collected_at": "2026-10-21T21:38:26.643Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

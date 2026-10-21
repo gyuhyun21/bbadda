@@ -1,0 +1,23 @@
+{
+  "id": "news-d86d6403",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1NRjhVS2VCX3BKRHJpQWNPa1ZDcTdKaXZLX05qREFBSmpHUnRCR0xsaVNyWWZpc2VvRzhXT2I1eHNQV1pmRnpxdndWdFBQM2VaTkQ1cU9Zcm5jdlhDMlRtb2FWT2Y0MjM0M2xJeWFwZ9IBb0FVX3lxTE1NRjhVS2VCX3BKRHJpQWNPa1ZDcTdKaXZLX05qREFBSmpHUnRCR0xsaVNyWWZpc2VvRzhXT2I1eHNQV1pmRnpxdndWdFBQM2VaTkQ1cU9Zcm5jdlhDMlRtb2FWT2Y0MjM0M2xJeWFwZw?oc=5",
+  "title": "‘승승승’ 준PO 순식간에 끝낸 KIA, 4일 쉬고 삼성 만난다…네일-올러 원투펀치 1·2차전, 삼성에 안 밀린다",
+  "published_at": "2026-10-20T21:40:00.000Z",
+  "collected_at": "2026-10-21T21:38:26.643Z",
+  "summary_ko": "머니투데이는 준PO를 3연승으로 끝낸 KIA가 4일 쉬고 삼성과 만나며 네일-올러가 1·2차전을 맡을 것으로 전망했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 59,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-ec9dba6d",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "m.maniareport.com",
+  "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA1dGJzSDVTTno2akI5ZzlUeUM4cmNoZE5GMHFoSkM2T2tBYkp1WXJkajJTUjFrOW9sRXVBXy1hSlVnQThNT3MxVmRGb3laUE1uOFY4SVZXandxX2dOb0RDZlNsNlI3WVR1M0ZMRGpzNDhicTMySU9ZV0RVcw?oc=5",
+  "title": "'부상 도미노에 KIA 10연패' 2연패 꿈꾸던 LG, 잠실 마지막 시즌 허무한 마침표...FA·외국인·선수층 숙제 산적",
+  "published_at": "2026-10-21T02:18:16.000Z",
+  "collected_at": "2026-10-21T21:38:26.643Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 61,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

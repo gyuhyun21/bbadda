@@ -1,0 +1,29 @@
+{
+  "id": "news-7f5bb5a0",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스타뉴스",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBqTWVDVjZVUTZPOTQzRjZCT1BXWXFhdGNDb3l4TGFKMk02cjZ4S1ZwalNuNThDNWlXYjMtSlBXbmZnaUZkQXBvQXlIQjlKNUE5OGplRlJqUTBVa1RYLWlnVTF3RWhVdmpZbDFCUmVzUjAwX2syN2c?oc=5",
+  "title": "'132⅓이닝 1896구' 18세 고교 투수가 안우진보다 더 던졌다... 프로 계약 후에도 '6일간 169구', 끝나지 않은 투구",
+  "published_at": "2026-10-21T12:14:27.000Z",
+  "collected_at": "2026-10-21T21:38:26.643Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 97,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE96VklicGExUmNncjdpN1F1UXkxVDA5cXlscjNqOW5ubWdNQTNOOFpSUDNnWE12TzZBY3o1ZVJsQjdJYWhZS0ROSkZYcWU4LVhySFkwYTBlQkRDMS1KcXB5ejh4cmkzV2MyanZaU3ZaQdIBb0FVX3lxTE96VklicGExUmNncjdpN1F1UXkxVDA5cXlscjNqOW5ubWdNQTNOOFpSUDNnWE12TzZBY3o1ZVJsQjdJYWhZS0ROSkZYcWU4LVhySFkwYTBlQkRDMS1KcXB5ejh4cmkzV2MyanZaU3ZaQQ?oc=5"
+    }
+  ]
+}

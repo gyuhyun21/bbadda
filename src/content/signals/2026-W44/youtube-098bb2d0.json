@@ -1,0 +1,27 @@
+{
+  "id": "youtube-098bb2d0",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "youtube",
+  "source_name": "두산야구_로맨틱콘치펀치",
+  "url": "https://www.youtube.com/watch?v=AOjEtVB8RM4",
+  "title": "양의지마저 두산을 떠날까...? 김재환과 같은 계약 상황, 과연 양의지의 선택은?",
+  "published_at": "2026-10-21T12:59:10Z",
+  "collected_at": "2026-10-21T21:38:26.643Z",
+  "summary_ko": "팬 채널은 양의지가 김재환과 같은 계약 상황이라며 선택을 전망한다.",
+  "metrics": {
+    "views": 11538,
+    "likes": 156,
+    "comments": 61
+  },
+  "scores": {
+    "hot": 61,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "두산, 양의지 거취 관심"
+}

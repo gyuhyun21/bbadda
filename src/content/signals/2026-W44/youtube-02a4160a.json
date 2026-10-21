@@ -1,0 +1,26 @@
+{
+  "id": "youtube-02a4160a",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "youtube",
+  "source_name": "숭숭",
+  "url": "https://www.youtube.com/watch?v=79sgyg3FtoM",
+  "title": "요즘 LG트윈스 실력 #lg트윈스 #야구 #야구분석 #kbo #kbo리그 #kbo순위",
+  "published_at": "2026-10-21T11:53:54Z",
+  "collected_at": "2026-10-21T21:38:26.643Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 12,
+    "likes": 1,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 53,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

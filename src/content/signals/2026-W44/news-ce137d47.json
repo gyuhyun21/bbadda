@@ -1,0 +1,31 @@
+{
+  "id": "news-ce137d47",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "lg",
+  "teams": [
+    "lg",
+    "samsung",
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5VR3FmbmNHNUNmYmhyb2Q4cUJLTUp5UnppcG4wWTZMV1BMMVEzV3FiMFZjYkJFcUZJbVhNeUNSX2hpWjJOWE0yNUxTeTRsRnNJSHdaOVhXdjlfVzVCd3AyLUlZaFJmcllTWDdLS2ptY9IBb0FVX3lxTE5VR3FmbmNHNUNmYmhyb2Q4cUJLTUp5UnppcG4wWTZMV1BMMVEzV3FiMFZjYkJFcUZJbVhNeUNSX2hpWjJOWE0yNUxTeTRsRnNJSHdaOVhXdjlfVzVCd3AyLUlZaFJmcllTWDdLS2ptYw?oc=5",
+  "title": "‘타율 .167’ 최악의 시즌 보낸 김영웅, 그래도 가을에는 ‘45홈런’ 김도영보다 무섭다…2003년생 동갑내기 PO 격돌",
+  "published_at": "2026-10-21T16:20:00.000Z",
+  "collected_at": "2026-10-21T21:38:26.643Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 90,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9feU0wRkRzc2oxcUtka0JvdlBQaV8tYWlXZ0VFOHF3encxSzV3alBJRk1xNjRaWHBoNlYxVldCUnY1cnBwSFZzUjZRRERvSjJxVHV3?oc=5"
+    }
+  ]
+}

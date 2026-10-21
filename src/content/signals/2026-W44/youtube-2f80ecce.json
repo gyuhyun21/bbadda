@@ -1,0 +1,26 @@
+{
+  "id": "youtube-2f80ecce",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "youtube",
+  "source_name": "크보시대",
+  "url": "https://www.youtube.com/watch?v=U2Ue7dRxgek",
+  "title": "[크보시대] 꼴찌인데 반지를 다 모았다?! 💍 2026 키움 히어로즈 시즌결산 ",
+  "published_at": "2026-10-21T11:56:03Z",
+  "collected_at": "2026-10-21T21:38:26.643Z",
+  "summary_ko": "영상은 꼴찌에도 반지를 모았다는 관점에서 2026 키움 시즌을 결산한다.",
+  "metrics": {
+    "views": 34,
+    "likes": 2,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 57,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "news-ac60ebdb",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "마이데일리",
+  "url": "https://mydaily.co.kr/page/view/2026102122061282628",
+  "title": "KIA 150SV 마무리 이대로 안 죽는다…정해영 유종의 미를 위하여, 가을은 마지막 보답의 시간[MD잠실]",
+  "published_at": "2026-10-21T13:06:34.000Z",
+  "collected_at": "2026-10-21T21:38:26.643Z",
+  "summary_ko": "마이데일리는 150세이브 마무리 정해영이 가을야구에서 보답하겠다는 각오를 다뤘다.",
+  "metrics": {},
+  "scores": {
+    "hot": 73,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

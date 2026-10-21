@@ -1,0 +1,23 @@
+{
+  "id": "community-122c6d38",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 정보꿀떡",
+  "url": "https://monspecial.tistory.com/477",
+  "title": "한국시리즈 예매 방법 NOL 티켓 1인 4장, 11월 2일(월) 수원 1차전부터 7차전 11월 10일까지 차전별...",
+  "published_at": "2026-10-21T17:00:05.000+09:00",
+  "collected_at": "2026-10-21T21:38:26.643Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

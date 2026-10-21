@@ -1,0 +1,23 @@
+{
+  "id": "news-24ebb146",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "OhmyNews",
+  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8wZE9zSUxQcl9oZm5kR3RNS1VkNG9EUnJOVmlnc19CWEgwNUVGOUJlc2VndXB2bUhwd0JKTHU0b0I0aDJPVkVkc3BmckZIQWFuZjRuZ0V3cTdETUxBbGUwTGt6OUxjd3piTnJEcDRZZlFpeWlD?oc=5",
+  "title": "'잠실 피날레 만루포' 김도영, 역사를 쓰다",
+  "published_at": "2026-10-21T00:20:00.000Z",
+  "collected_at": "2026-10-21T21:38:26.643Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

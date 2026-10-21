@@ -1,0 +1,24 @@
+{
+  "id": "community-a3f302fd",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "레딧 r/KBO",
+  "url": "https://www.reddit.com/r/KBO/comments/1x26juf/oakland_ballers_contingent_to_play_in_2026_kbo/",
+  "title": "Oakland Ballers contingent to play in 2026 KBO Fall ...",
+  "published_at": "2026-10-09T00:00:00.000Z",
+  "collected_at": "2026-10-21T21:38:26.643Z",
+  "summary_ko": "",
+  "excerpt": "... Matt Damon at the Kiwoom Heroes vs SSG Landers match in Seoul, South Korea…",
+  "metrics": {},
+  "scores": {
+    "hot": 8,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

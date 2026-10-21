@@ -1,0 +1,24 @@
+{
+  "id": "community-581fa431",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/10469562734",
+  "title": "외근나갔다 방금 사무실에 앉았는데... - 야구",
+  "published_at": "2026-10-21T08:38:26.643Z",
+  "collected_at": "2026-10-21T21:38:26.643Z",
+  "summary_ko": "",
+  "excerpt": "... 배지헌) 제가 현재까지 파악한 바로는 롯데 자이언츠 관련 발표가 하루이틀 안에 나올 것 같지는…",
+  "metrics": {},
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

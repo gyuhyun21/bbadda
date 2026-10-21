@@ -1,0 +1,23 @@
+{
+  "id": "news-a6fd766f",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠한국",
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1sYThfbkVOaVIyOGxrLXRYOHo0RFFtYnBYTmM5VDREOHBJNnhQRVdWUWRKRmhvNXdqcDQya09INFA1cm5WTzZRZUozb0dyUUJRTmlGb0dacEQ1NU5nNG5wUWJfNnRfMlNDSnh5dFFrTWbSAXRBVV95cUxPb3lqeTJtd1J5VlBOdjJialJSSmx3V2c0Z0tvUTFPNEVVWTluWVpIcElnTGN2aTRwLTM1WFYwZWFWc2EtWkx5RVVtLTk1cXA3SWRfeE10VXFpajdkV1I5NXl6RHpmUE5VN1VTV19DYkRDM1JzRQ?oc=5",
+  "title": "'역대 3번째 준PO 스윕’ KIA 기세 너무 뜨거운데…삼성은 ‘구자욱 공백’ 좌익수 고민",
+  "published_at": "2026-10-21T07:43:18.000Z",
+  "collected_at": "2026-10-21T21:38:26.643Z",
+  "summary_ko": "스포츠한국은 KIA가 역대 3번째 준PO 스윕을 했고, 삼성은 구자욱 공백으로 좌익수 고민이 있다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

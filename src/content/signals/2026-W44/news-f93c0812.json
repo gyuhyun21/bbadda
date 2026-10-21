@@ -1,0 +1,22 @@
+{
+  "id": "news-f93c0812",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "SPOTV NEWS",
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBSLVlFN1d2TTFsUy1VamtXa1NCVWZ2UHZWSXZHOTRzNFdvbkRYdjhNZHQ3OWR0S3hDS3RJSTFqMEYyZmFhWlFqQ3BGUjE0MmtKSEM5TXNQZ3J2S2dfNU1qMmN6S3llTVcxT3djSzUxYUQ?oc=5",
+  "title": "롯데 사령탑 여전히 '오리무중'…하지만 한 가지 확실해졌다, 'JS 우승' 타카츠는 아니다 \"감독직 제안한 적 없어\"",
+  "published_at": "2026-10-21T08:16:42.000Z",
+  "collected_at": "2026-10-21T21:38:26.643Z",
+  "summary_ko": "SPOTV NEWS는 롯데 사령탑이 여전히 안갯속이지만 JS 우승 감독 다카쓰는 아니라고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

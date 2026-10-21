@@ -1,0 +1,24 @@
+{
+  "id": "community-3a941f23",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&document_srl=10469186944",
+  "title": "오늘 4차전도 화이팅!! - 야구",
+  "published_at": "2026-10-21T05:38:26.643Z",
+  "collected_at": "2026-10-21T21:38:26.643Z",
+  "summary_ko": "",
+  "excerpt": "... 엘지트윈스 리버스스윕 할수있다아자아자!!",
+  "metrics": {},
+  "scores": {
+    "hot": 62,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

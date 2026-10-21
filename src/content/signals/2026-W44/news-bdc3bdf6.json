@@ -1,0 +1,22 @@
+{
+  "id": "news-bdc3bdf6",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "KBS 뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE94R2RmV2hoZVVSYmQzUmtDSEd4NUotRGt4YTFjejZ1ektNWURsNGxOM0pwdmJzMmF4aDM4aHluZ1V6VkNTY0c4Rkt1TEx1TVltMGl4eXN2NnRtcXZnWGFmSUxOU2JHdw?oc=5",
+  "title": "[궁금한 유] 다시 뜨겁게!…KIA타이거즈 응원단장 서한국",
+  "published_at": "2026-10-21T10:52:00.000Z",
+  "collected_at": "2026-10-21T21:38:26.643Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 72,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

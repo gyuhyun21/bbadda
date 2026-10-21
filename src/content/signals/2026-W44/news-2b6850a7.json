@@ -1,0 +1,23 @@
+{
+  "id": "news-2b6850a7",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "KBS 뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8tLXdBWWZnU0dNa0Z3T1Vrc1RSS2JyLWViaXBrYUt0RTdfNjhJdnh2UGczNS1JVWphX1hWeUlRTWl5dVVrLVg2ZmJLZkxydlZGMDZibFBJNTIwd3M?oc=5",
+  "title": "롯데 “다카쓰 감독 제의 없었다”…새 사령탑 이달 내 결정",
+  "published_at": "2026-10-21T08:22:00.000Z",
+  "collected_at": "2026-10-21T21:38:26.643Z",
+  "summary_ko": "KBS는 롯데가 다카쓰 감독에게 제의한 적이 없으며 새 사령탑을 이달 안에 정한다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "롯데, 다카쓰 제의 없었다"
+}

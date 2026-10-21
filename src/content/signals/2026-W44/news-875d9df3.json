@@ -1,0 +1,23 @@
+{
+  "id": "news-875d9df3",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "마이데일리",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5BVzNBRlNRTy1ydVJxc193YThpLWRPUXVTZWMxcWlrcXMzdGUyX3JMUzhkZ1VyNHVHVlJvR3d4QldDOTVVRE84cFREbzFlVWVJdzJrbHFsdnhxMVNIcVNqUQ?oc=5",
+  "title": "벌써 도파민 팡팡! 구자욱의 삼성 vs 김도영의 KIA PO서 격돌…박진만 출사표 \"김도영 확실히 슈퍼스타, 우리 대처 능력 있어\"",
+  "published_at": "2026-10-20T23:41:00.000Z",
+  "collected_at": "2026-10-21T21:38:26.643Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 60,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

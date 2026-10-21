@@ -1,0 +1,28 @@
+{
+  "id": "news-524a445e",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://www.mt.co.kr/sports/2026/10/22/2026101811073891063",
+  "title": "'무려' 한화 승리 ¼ 책임졌는데 '왜' 왕옌청 몸값 고작 30만 달러인가, 내년 아시아쿼터 수준 높일 수 있나 [류선규의 비즈볼]",
+  "published_at": "2026-10-21T21:14:00.000Z",
+  "collected_at": "2026-10-21T21:38:26.643Z",
+  "summary_ko": "머니투데이는 왕옌청이 한화 승리의 4분의 1에 기여했는데도 몸값이 30만 달러에 그친 점을 짚었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 84,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE45OHhUMF9DeHBJak41QmhSOEFBc2tYNDVaQTRMTzRFYVBFUGtlSXdORGs1SjhOWDBHN2FlRGlKQXA3X1laaGlIUVBoUnlBQzVrM19SMWVwdVhkNFp2VHlGMFVxNlRFSFZhMHd5S2JkUXZ3Mm55a1E?oc=5"
+    }
+  ]
+}

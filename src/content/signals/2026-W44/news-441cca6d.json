@@ -1,0 +1,25 @@
+{
+  "id": "news-441cca6d",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "남도일보",
+  "url": "https://www.namdonews.com/news/articleViewAmp.html?idxno=926850",
+  "title": "KIA의 가을 야구는 계속된다…삼성과 36년만 PO 격돌",
+  "published_at": "2026-10-21T09:27:00.000Z",
+  "collected_at": "2026-10-21T21:38:26.643Z",
+  "summary_ko": "남도일보는 KIA가 삼성과 36년 만에 플레이오프에서 맞붙는다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 96,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "KIA, 삼성과 36년 만의 PO",
+  "hook_ko": "KIA·삼성, 25일 PO 격돌"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-c9b70068",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스엔",
+  "url": "https://m.newsen.com/news_view.php?uid=202610211009531031",
+  "title": "유영찬 고우석 김진성 없이도 버텼다..준PO 참패 속에서도 빛난 LG 불펜",
+  "published_at": "2026-10-21T01:10:12.000Z",
+  "collected_at": "2026-10-21T21:38:26.643Z",
+  "summary_ko": "뉴스엔은 유영찬·고우석·김진성 없이도 LG 불펜이 준PO에서 버텼다고 평가했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 61,
+    "relevance": 80
+  },
+  "sentiment": "neutral",
+  "brief_ko": "LG 불펜, 준PO서 버텼다"
+}

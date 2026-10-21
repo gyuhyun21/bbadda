@@ -1,0 +1,26 @@
+{
+  "id": "youtube-bc05723b",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "야구여왕 아진이",
+  "url": "https://www.youtube.com/watch?v=C-i9pMUfAFc",
+  "title": "FA 최대어 삼성라이온즈 구자욱 얼마에 어디로? #야구 #프로야구 #야구여왕아진이 #shorts #구자욱 #삼성 #삼성라이온즈",
+  "published_at": "2026-10-21T13:30:14Z",
+  "collected_at": "2026-10-21T21:38:26.643Z",
+  "summary_ko": "팬 채널은 FA 최대어로 꼽히는 삼성 구자욱의 행선지와 몸값을 다룬다.",
+  "metrics": {
+    "views": 1101,
+    "likes": 1,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 35,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

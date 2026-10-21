@@ -1,0 +1,24 @@
+{
+  "id": "news-cb76852e",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "lg",
+  "teams": [
+    "lg",
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "마이데일리",
+  "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE00LU0tbDVZam9DN2JqMFZOVmx1Sm1XN2xaRG84M2FXSGNkdUtaUklfRnVYUzRqYW5LTUVJVTBIUFQyQkplYnFpc1NiQkt1MloyUTBBeHA2RFFvZG5CZGtZS3hJMFNRUQ?oc=5",
+  "title": "“(김)도영이 정말 대단해, 어느 기록까지 세울까” 나성범의 후배 리스펙트…이젠 유격수 50홈런이다",
+  "published_at": "2026-10-21T17:58:24.000Z",
+  "collected_at": "2026-10-21T21:38:26.643Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

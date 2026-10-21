@@ -1,0 +1,27 @@
+{
+  "id": "youtube-0ec7e954",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte",
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "source_name": "크보쌍둥이",
+  "url": "https://www.youtube.com/watch?v=PoWHRNamDBE",
+  "title": "롯데 팬들도 답답하다! 롯데 감독 후보 3인 확실하다고 하네요! 한화는 훈련한다! #롯데자이언츠 #김태형 #조성환 #이동욱 #한화이글스",
+  "published_at": "2026-10-21T18:22:08Z",
+  "collected_at": "2026-10-21T21:38:26.643Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 5178,
+    "likes": 95,
+    "comments": 40
+  },
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-fbb34ac4",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "뉴스핌",
+  "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1yaG91LVM0bXRrV3RRdDhjU2RPbTJGZTdybTl0RU1HQy00QzNrNFdSWGwxTDVJTURFYlpMRUJuUERrVkVQZTZUX0RlZ1ZnYkZVOUVQOFdUWnNCVGtL?oc=5",
+  "title": "[프로야구] 감사원 \"고척돔·잠실종합운동장·인천구장 중대 결함 무시 중…시설 개선 필요\"",
+  "published_at": "2026-10-21T10:47:00.000Z",
+  "collected_at": "2026-10-21T21:38:26.643Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

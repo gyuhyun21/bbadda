@@ -1,0 +1,24 @@
+{
+  "id": "news-fc78ea0e",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "lg",
+  "teams": [
+    "lg",
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9Eb1locTBBLXB1TTdUTURQVXJRN2l6OUF5WXN1T21HYzNqazFUNlEzZGdncnh6MG8xX0pUMnlCakRNbVU1ZVg3LTVrejFxTHV3QkxVdVFTUzRsVF9HcXhDNll6bzVaTlY5WDVBZ2NHYzRxV3ZGcHFsRmJ5MVR2dw?oc=5",
+  "title": "'욕심쟁이' 나성범, 홈런 2방 쳤는데…\"그것보단 마지막 타석 삼진이 아쉬워\" [준PO3 현장]",
+  "published_at": "2026-10-21T15:11:16.000Z",
+  "collected_at": "2026-10-21T21:38:26.643Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

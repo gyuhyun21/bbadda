@@ -1,0 +1,27 @@
+{
+  "id": "youtube-28996396",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "Giants TV",
+  "url": "https://www.youtube.com/watch?v=K15xV373Aa8",
+  "title": "굿바이 No.16 | 선수 김민성의 마지막 인사",
+  "published_at": "2026-10-21T12:00:22Z",
+  "collected_at": "2026-10-21T21:38:26.643Z",
+  "summary_ko": "Giants TV는 김민성이 등번호 16번과 작별하는 마지막 인사 영상을 올렸다.",
+  "metrics": {
+    "views": 43509,
+    "likes": 1679,
+    "comments": 225
+  },
+  "scores": {
+    "hot": 87,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}
