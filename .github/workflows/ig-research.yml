@@ -33,5 +33,7 @@ jobs:
             jq -r '.[-1] | "\(.username): \(.followers // .error)"' out.json
           done
           mv out.json ig-research.json
+          # 아웃라이어: 계정마다 (좋아요+댓글)이 그 계정 중앙값의 3배 이상인 게시물 → 요약에 첫 줄 표시(docs/insta-style.md 7절)
+          jq -r '.[] | select(.posts) | . as $a | ([.posts[] | (.likes // 0) + (.comments // 0)] | sort) as $v | ($v[($v|length/2|floor)] // 0) as $m | .posts[] | select($m > 0 and ((.likes // 0) + (.comments // 0)) >= 3 * $m) | "- \($a.username) ×\((((.likes // 0) + (.comments // 0)) / $m * 10 | floor) / 10) \(.product // .type) \(.first)"' ig-research.json | tee -a "$GITHUB_STEP_SUMMARY" || true
       - uses: actions/upload-artifact@v4
         with: { name: ig-research, path: ig-research.json, retention-days: 7 }

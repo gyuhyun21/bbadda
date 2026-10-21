@@ -139,3 +139,11 @@ h1, h2, .stat-line, .n-item b, .points li, .facts li { text-wrap: balance; }
 .matchup small { font-size: 26px; font-weight: 700; color: rgba(255,255,255,.7); }
 .matchup .tbadge { width: 150px; height: 150px; font-size: 48px; }
 .matchup > span { font-size: 40px; font-weight: 800; color: #8E8E93; }
+
+/* docs/insta-style.md 반영(2026-10-21): 큰 소식 장·참여 질문 장 */
+.lead-badge { margin-top: 70px; }
+.lead-badge .tbadge { width: 150px; height: 150px; font-size: 40px; }
+.s h2 + .lead-sub, .lead-sub { margin-top: 36px; font-size: 38px; line-height: 1.55; color: #D1D1D6; font-weight: 600; }
+.pick { margin-top: 50px; padding: 0; display: grid; gap: 20px; }
+.pick li { list-style: none; display: flex; gap: 22px; align-items: center; padding: 28px 34px; border-radius: 28px; background: var(--card2); font-size: 36px; font-weight: 700; line-height: 1.35; }
+.pick i { font-style: normal; font-size: 48px; color: var(--yel); flex: none; }
