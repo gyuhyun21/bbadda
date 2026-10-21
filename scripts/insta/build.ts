@@ -16,8 +16,6 @@ const T = new Map(TEAMS.map((t) => [t.id, t]));
 const short = (id?: string) => (id ? T.get(id)?.short ?? id : '');
 const esc = (s: string) => s.replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' })[c]!);
 /** 제목: 루틴이 줄바꿈 자리에 넣은 \n 을 살린다(어절 중간에서 끊기지 않게) */
-// 2줄 이상이면 마지막 줄만 노랗게 강조(docs/insta-style.md 1절: 핵심 줄 하나만 강조)
-const hl = (s: string) => { const l = esc(s).split('\n'); return l.length > 1 ? `${l.slice(0, -1).join('<br>')}<br><em>${l[l.length - 1]}</em>` : l[0]; };
 const flat = (s: string) => s.replace(/\s*\n\s*/g, ' ');
 // INSTA_DATE=YYYY-MM-DD 로 지난·다음 날짜 세트를 다시 만들 수 있다(수동 실행·미리보기용)
 const kst = new Date(Date.now() + 9 * 3600_000);
@@ -34,22 +32,20 @@ export function kindAt(day: number, hour: number): Kind {
 /** 게시물의 큰 자리에는 마스코트 대신 팀 색 원형 배지(팀 이름) — 큰 마스코트는 어색하다는 주인 의견(2026-10-19) */
 const badge = (id?: string, cls = '') => (id ? `<span class="tbadge ${cls}" style="--tc:${T.get(id)?.color ?? '#333'}">${esc(short(id))}</span>` : '');
 const mascot = (id?: string, cls = '') => (id ? `<img class="${cls}" src="m/${id}.svg" alt="">` : '');
-const foot = (left: string, right = 'bbadda.com') => `<div class="foot"><span>${left}</span><span>${right}</span></div>`;
-const top = (tag: string, pg: string) => `<div class="top"><span class="tag">${esc(tag)}</span><span class="pg">${pg}</span></div>`;
-const logo = '<span class="logo-chip"><img src="logo.webp" alt=""></span>';
 // 첫 장 배경 사진(무료 라이선스, scripts/insta/photos/SOURCES.md). 로고·간판이 읽히지 않게 흐리게 깐다(balls 는 깨끗해서 덜 흐리게). 없으면 그라디언트만
 const BLUR: Record<string, number> = { balls: 2 };
 const photo = (name: string) => (existsSync(join(ROOT, 'scripts/insta/photos', `${name}.jpg`)) ? ` style="--bg:url(p/${name}.jpg);--blur:${BLUR[name] ?? 12}px" data-photo` : '');
 
-/** 모든 세트의 마지막 장: 빠따닷컴 쓰는 법(접속·홈 화면 추가·알림) */
-const guide = `<section class="s guide">${top('빠따닷컴 쓰는 법', '5/5')}<h2>야구 소식,<br>하루 두세 번만 보세요</h2>
-<div class="g-steps">
-<div><i>1</i><p><b>프로필 링크</b> 누르기<small>bbadda.com · 10개 구단 소식 한 곳에</small></p></div>
-<div><i>2</i><p><b>MY팀</b> 고르기<small>우리 팀 소식·선수응원가가 먼저</small></p></div>
-<div><i>3</i><p><b>홈 화면에 추가</b><small>아이폰: 사파리 공유 → 홈 화면에 추가 · 안드로이드: 메뉴 → 홈 화면에 추가</small></p></div>
-<div><i>4</i><p><b>알림받기</b> 켜기<small>경기 전 예고 선발·경기 후 결과를 바로 알려 드려요</small></p></div>
-</div>
-<p class="g-note">인스타 안에서 열리면 ⋯ → 외부 브라우저로 열기</p>${foot(logo, '비공식 팬 사이트')}</section>`;
+// 릴스 스타일(2026-10-21, 주인 결정): 첫 장 노란 바탕 + 큰 숫자·점수 + 마지막 줄 밑줄, 안쪽 장은 흐린 사진 위 둥근 카드. 고정 안내 장 없음(4장)
+/** 2줄 이상이면 마지막 줄에 굵은 밑줄 */
+const ul = (s: string) => { const l = esc(s).split('\n'); return l.length > 1 ? `${l.slice(0, -1).join('<br>')}<br><u>${l[l.length - 1]}</u>` : `<u>${l[0]}</u>`; };
+const mark = '<img class="mark" src="logo.webp" alt="">';
+const yHook = (o: { kick: string; big: string; head: string; sub?: string; pg: string; story?: boolean }) =>
+  `<section class="s y${o.story ? ' story' : ''}"><div class="yt"><span class="kick">${esc(o.kick)}</span>${o.story ? '' : `<span class="pg">${o.pg}</span>`}</div><div class="yb${o.big.replace(/<[^>]+>/g, '').length > 5 ? ' sm' : ''}">${o.big}</div><h1>${ul(o.head)}</h1>${o.sub ? `<p class="ys">${esc(o.sub)}</p>` : ''}${o.story ? '<div class="sticker">여기에 링크 스티커</div>' : mark}</section>`;
+const panel = (o: { step: string; head: string; pg: string; body: string; bg?: string; note?: string }) =>
+  `<section class="s pn"${photo(o.bg ?? 'stadium')}><div class="yt"><span class="step">${esc(o.step)}</span><span class="pg">${o.pg}</span></div><h2>${ul(o.head)}</h2><div class="pcard">${o.body}</div><div class="pf"><span>${o.note ?? ''}</span>${mark}</div></section>`;
+/** 큰 글자: 문장 속 첫 숫자 덩어리(예: 34억·78%·3년), 없으면 팀 이름 */
+const bigOf = (line: string, team?: string) => esc(/\d[\d,.]*\s?(%|년|억|만|승|패|연승|연패|홈런|안타|타점|위|명|경기|차전)?/.exec(line)?.[0] ?? short(team));
 
 type Made = { slides: string[]; story: string; caption: string; key: string };
 
@@ -95,34 +91,30 @@ function morning(slot?: Slot): Made | string {
   // 첫 장 제목은 잘린 문장을 쓰지 않는다: 루틴 후크 → 루틴 한 줄 → 오늘 경기 → '오늘 아침 KBO 소식'
   const gToday = view()?.next;
   const headline = (slot ? undefined : lead.hook_ko) ?? (!(lead as { clipped?: boolean }).clipped ? lead.brief_ko! : gToday && gToday.date === today ? `오늘 ${gToday.roundName}\n${gToday.no}차전` : slot ? `${slot.when}\nKBO 소식` : '오늘 아침\nKBO 소식');
-  const gameHead = (slot || !lead.hook_ko) && (lead as { clipped?: boolean }).clipped && gToday && gToday.date === today;
-  const headMasc = gameHead ? `${mascot(gToday!.sides[0].id)}<span class="vs">vs</span>${mascot(gToday!.sides[1].id)}` : mascot(lead.team);
   const tops = ranked.slice(0, 3);
   const rows = TEAMS.filter((t) => best.has(t.id)).map((t) => ({ id: t.id, line: best.get(t.id)!.brief_ko! }));
   const n = rows.length;
   const teamsLabel = n === TEAMS.length ? '10개 구단' : '구단';
-  const row = (r: { id: string; line: string }) => `<div class="row">${mascot(r.id)}<b>${esc(short(r.id))}</b><span>${esc(r.line)}</span></div>`;
-  const half = Math.ceil(n / 2);
   // 한 줄이 적은 날은 4장째를 다른 내용으로: 오늘 가을야구 경기가 있으면 예고, 없으면 선수응원가 연습
   const g = view()?.next;
   const gWhen = g ? (g.date === today ? '오늘' : `${md(g.date)}(${wd(g.date)})`) : '';
   const extra = g && g.date >= today && g.sides.every((x) => x.id)
-    ? `<section class="s dark">${top(g.date === today ? '오늘의 가을야구' : '다음 가을야구', '4/5')}<h2>${esc(g.roundName)} ${g.no}차전<br>${gWhen} ${esc(g.time)} ${esc(g.venue)}</h2><div class="masc static">${badge(g.sides[0].id)}<span class="vs">vs</span>${badge(g.sides[1].id)}</div>${g.record.starters.every(Boolean) ? `<p class="series-line center">선발 ${esc(nm(g.sides[0]))} ${esc(g.record.starters[0]!)} vs ${esc(nm(g.sides[1]))} ${esc(g.record.starters[1]!)}</p>` : ''}<p class="series-line center">예고 선발·관전 포인트는 경기 날 올려 드려요</p>${foot('bbadda.com')}</section>`
-    : `<section class="s brief">${top('선수응원가 연습', '4/5')}<h2>직관 가기 전에<br>응원가 한 번씩</h2><div class="steps"><p><i>♪</i>MY팀 선수 응원가를 공식 영상으로</p><p><i>↻</i>한 곡 반복 · 0.75배속으로 따라 부르기</p><p><i>→</i>bbadda.com 메뉴 '선수응원가 연습'</p></div>${foot('자세한 건 bbadda.com')}</section>`;
-  // 장 구성(docs/insta-style.md 3절): 후킹 → 큰 소식 → 소식 2·3 → 참여 질문 → 고정 안내. 구단별 한 줄은 본문(캡션)에 둔다
-  const sub = (x: (typeof tops)[number]) => esc(((x as { summary_ko?: string }).summary_ko ?? '').slice(0, 90));
+    ? panel({ step: g.date === today ? '오늘의 가을야구' : '다음 가을야구', head: `${g.roundName} ${g.no}차전\n${gWhen} ${g.time} ${g.venue}`, pg: '4/5', note: '예고 선발·관전 포인트는 경기 날 올려 드려요', body: `<div class="masc static">${badge(g.sides[0].id)}<span class="vs">vs</span>${badge(g.sides[1].id)}</div>` })
+    : panel({ step: '선수응원가 연습', head: '직관 가기 전에\n응원가 한 번씩', pg: '4/5', note: 'bbadda.com 메뉴 선수응원가 연습', body: `<p class="pq">MY팀 선수 응원가를 공식 영상으로, 한 곡 반복 · 0.75배속까지</p>` });
+  // 장 구성(docs/insta-style.md 3절): 후킹 → 큰 소식 → 소식 2·3 → 참여 질문. 구단별 한 줄은 본문(캡션)에 둔다
+  const sub = (x: (typeof tops)[number]) => esc(((x as { summary_ko?: string }).summary_ko ?? '').slice(0, 110));
   const nums = ['①', '②', '③'];
+  const bg = slot ? 'stadium' : 'balls';
   const slides = [
-    `<section class="s dark hook"${photo(slot ? 'stadium' : 'balls')}>${top(slot?.tag ?? '아침판', '1/5')}<p class="kicker">${md(today)} (${wd(today)}) ${slot?.when ?? '오늘 아침'}</p><h1>${hl(headline)}</h1><p class="stat-line">${n}개 구단 소식 중 큰 것 ${tops.length}개만 골랐어요</p>${foot(logo, '<span class="swipe">옆으로 넘겨 보기 ›</span>')}</section>`,
-    `<section class="s dark">${top(`${short(tops[0].team)} · 오늘의 큰 소식`, '2/5')}<div class="lead-badge">${badge(tops[0].team)}</div><h2>${esc(tops[0].brief_ko!)}</h2><p class="lead-sub">${sub(tops[0])}</p>${foot('출처: 언론 보도 · 우리 요약')}</section>`,
+    yHook({ kick: `${md(today)} ${slot?.tag ?? '아침판'}`, big: bigOf(lead.brief_ko!, lead.team), head: headline, sub: `${n}개 구단 소식 중 큰 것 ${tops.length}개만 골랐어요`, pg: '1/4' }),
+    panel({ step: '오늘의 큰 소식', head: tops[0].brief_ko!.replace(/, /, ',\n'), pg: '2/4', bg, note: '출처: 언론 보도 · 우리 요약', body: `<p class="plab"><b>${esc(short(tops[0].team))}</b>${esc(md(today))}</p><p class="pq">${sub(tops[0])}</p>` }),
     tops.length > 1
-      ? `<section class="s dark">${top('이것도 놓치지 마세요', '3/5')}<div class="news">${tops.slice(1).map((x) => `<div class="n-item">${mascot(x.team)}<div><b>${esc(x.brief_ko!)}</b><p>${sub(x)}</p></div></div>`).join('')}</div>${foot('출처: 언론 보도 · 우리 요약')}</section>`
-      : extra.replace("'4/5'", "'3/5'"),
-    `<section class="s dark cta">${top('여러분 생각은?', '4/5')}<h2>오늘 가장 큰 소식,<br>몇 번인가요?</h2><ol class="pick">${tops.map((x, i) => `<li><i>${nums[i]}</i>${esc(short(x.team))} · ${esc(x.brief_ko!)}</li>`).join('')}</ol><p class="series-line center">댓글로 번호를 남겨 주세요</p>${foot(logo)}</section>`,
-    guide,
+      ? panel({ step: '이것도 놓치지 마세요', head: `같이 보면 좋은\n소식 ${tops.length - 1}개`, pg: '3/4', bg, note: '출처: 언론 보도 · 우리 요약', body: `<div class="news">${tops.slice(1).map((x) => `<div class="n-item">${mascot(x.team)}<div><b>${esc(x.brief_ko!)}</b><p>${sub(x)}</p></div></div>`).join('')}</div>` })
+      : extra.replace("'4/5'", "'3/4'"),
+    panel({ step: '여러분 생각은?', head: '오늘 가장 큰 소식,\n몇 번인가요?', pg: '4/4', bg, note: '댓글로 번호를 남겨 주세요', body: `<ol class="pick">${tops.map((x, i) => `<li><i>${nums[i]}</i>${esc(short(x.team))} · ${esc(x.brief_ko!)}</li>`).join('')}</ol>` }),
   ];
   const caption = [`${slot?.icon ?? '☀️'} ${flat(headline)}`, '', ...tops.map((x, i) => `${nums[i]} ${short(x.team)} ${x.brief_ko}`), '', `${slot?.when ?? '오늘 아침'} ${teamsLabel} 한 줄`, ...rows.map((r) => `${short(r.id)}  ${r.line}`), '', '오늘 가장 큰 소식은 몇 번? 댓글로 남겨 주세요 👇', '더 자세한 소식은 프로필 링크에서 볼 수 있어요.', '', '#KBO #프로야구 #야구 #야구팬 #빠따닷컴'].join('\n');
-  const story = `<section class="s story dark hook"${photo(slot ? 'stadium' : 'balls')}><p class="kicker">${md(today)} ${slot?.when ?? '오늘 아침'}</p><h1>${hl(headline)}</h1><div class="sticker">여기에 링크 스티커</div></section>`;
+  const story = yHook({ kick: `${md(today)} ${slot?.when ?? '오늘 아침'}`, big: bigOf(lead.brief_ko!, lead.team), head: headline, pg: '', story: true });
   return { slides, story, caption, key: slot ? `${today}-${slot.id}` : `${today}-morning` };
 }
 
@@ -144,14 +136,13 @@ function pregame(): Made | string {
   const lastLine = last && last.score ? (() => { const p = scoreParts(last); return `${v.rounds.find((x) => x.id === last.round)!.short} ${last.no}차전 ${nm(last.sides[p.w])} ${p.ws}-${p.ls} ${nm(last.sides[p.l])}`; })() : '';
   const lastRec = last ? [last.record.win && `승 ${last.record.win}`, last.record.loss && `패 ${last.record.loss}`, last.record.mvp && `MVP ${last.record.mvp}`].filter(Boolean).join(' · ') : '';
   const slides = [
-    `<section class="s dark hook"${photo('lights')}>${top(`${r.short} ${g.no}차전 · 오늘 ${g.time}`, '1/5')}<h1>${hl(hook)}</h1><p class="stat-line">${esc(ig?.sub ?? facts[0] ?? `${g.venue}, 시리즈 ${nm(a)} ${a.wins}승 · ${nm(b)} ${b.wins}승`)}</p><div class="matchup">${[0, 1].map((i) => `<div>${badge(g.sides[i].id)}${esc(g.record.starters[i]!)}<small>${esc(nm(g.sides[i]))} 선발</small></div>`).join('<span>vs</span>')}</div>${foot(logo, '<span class="swipe">옆으로 넘겨 보기 ›</span>')}</section>`,
-    `<section class="s dark">${top('예고 선발', '2/5')}<h2>${esc(g.time)} ${esc(g.venue)}</h2><div class="vsgrid">${[0, 1].map((i) => `<div class="side">${badge(g.sides[i].id)}<div class="t">${esc(nm(g.sides[i]))} ${g.sides[i].wins}승</div><div class="lab">선발</div><div class="p">${esc(g.record.starters[i]!)}</div><div class="n">${esc(g.record.starterNotes[i] ?? '')}</div></div>`).join('<div class="v">vs</div>')}</div><p class="series-line center">시리즈 <b>${esc(nm(a))} ${a.wins}승</b> · <b>${esc(nm(b))} ${b.wins}승</b> · ${r.toWin}선승제</p>${foot(`${esc(r.short)} ${g.no}차전`)}</section>`,
-    `<section class="s dark">${top('관전 포인트', '3/5')}<ul class="facts">${(facts.length ? facts : [`시리즈 ${nm(a)} ${a.wins}승 · ${nm(b)} ${b.wins}승`]).map((f) => `<li>${esc(f)}</li>`).join('')}</ul>${lastLine ? `<div class="last"><span>지난 경기</span><b>${esc(lastLine)}</b><p>${esc(lastRec)}</p></div>` : ''}${foot('출처: 언론 보도')}</section>`,
-    `<section class="s dark cta">${top('승부 예측', '4/5')}<h2>오늘,<br>누가 이길까요?</h2><div class="vote">${[a, b].map((s) => `<div style="background:${T.get(s.id!)?.color ?? '#333'}">${esc(nm(s))} 승</div>`).join('')}</div><p class="series-line center">댓글로 예측을 남기거나<br>사이트에서 투표해 보세요</p>${foot(logo)}</section>`,
-    guide,
+    yHook({ kick: `${r.short} ${g.no}차전 · 오늘 ${g.time}`, big: `${esc(nm(a))}<i>vs</i>${esc(nm(b))}`, head: hook, sub: `선발 ${g.record.starters[0]} vs ${g.record.starters[1]}`, pg: '1/4' }),
+    panel({ step: '예고 선발', head: `${g.time} ${g.venue}\n선발 맞대결`, pg: '2/4', bg: 'lights', note: `시리즈 ${nm(a)} ${a.wins}승 · ${nm(b)} ${b.wins}승 · ${r.toWin}선승제`, body: `<div class="vsgrid">${[0, 1].map((i) => `<div class="side">${badge(g.sides[i].id)}<div class="t">${esc(nm(g.sides[i]))} ${g.sides[i].wins}승</div><div class="lab">선발</div><div class="p">${esc(g.record.starters[i]!)}</div><div class="n">${esc(g.record.starterNotes[i] ?? '')}</div></div>`).join('<div class="v">vs</div>')}</div>` }),
+    panel({ step: '관전 포인트', head: '오늘은\n이것만 보세요', pg: '3/4', bg: 'lights', note: '출처: 언론 보도', body: `<ul class="facts">${(facts.length ? facts : [`시리즈 ${nm(a)} ${a.wins}승 · ${nm(b)} ${b.wins}승`]).slice(0, 3).map((f) => `<li>${esc(f)}</li>`).join('')}</ul>${lastLine ? `<div class="last"><span>지난 경기</span><b>${esc(lastLine)}</b><p>${esc(lastRec)}</p></div>` : ''}` }),
+    panel({ step: '승부 예측', head: '오늘,\n누가 이길까요?', pg: '4/4', bg: 'lights', note: '댓글로 남기거나 사이트에서 투표', body: `<div class="vote">${[a, b].map((x) => `<div style="background:${T.get(x.id!)?.color ?? '#333'}">${esc(nm(x))} 승</div>`).join('')}</div>` }),
   ];
   const caption = [`⚾ ${flat(hook)}`, '', `오늘 ${g.time}, ${g.venue}`, `${nm(a)} ${g.record.starters[0]} vs ${nm(b)} ${g.record.starters[1]}`, '', ...facts.map((f) => `📌 ${f}`), ...(facts.length ? [''] : []), '이길 팀을 댓글로 남겨 주세요 👇', '승부예측 투표는 프로필 링크에서 할 수 있어요 🗳️', '', `#KBO #가을야구 #${g.roundName.replace(/\s/g, '')} #${T.get(a.id!)?.name.replace(/\s/g, '')} #${T.get(b.id!)?.name.replace(/\s/g, '')} #빠따닷컴`].join('\n');
-  const story = `<section class="s story dark hook"${photo('lights')}><p class="kicker">${esc(g.roundName)} ${g.no}차전 · 오늘 ${esc(g.time)}</p><h1>${hl(hook)}</h1><p class="stat-line">${esc(g.record.starters[0]!)} vs ${esc(g.record.starters[1]!)}</p><div class="sticker">여기에 링크 스티커</div></section>`;
+  const story = yHook({ kick: `${g.roundName} ${g.no}차전 · 오늘 ${g.time}`, big: `${esc(nm(a))}<i>vs</i>${esc(nm(b))}`, head: hook, sub: `${g.record.starters[0]} vs ${g.record.starters[1]}`, pg: '', story: true });
   return { slides, story, caption, key: `${today}-pregame-${g.round}${g.no}` };
 }
 
@@ -169,17 +160,17 @@ function postgame(): Made | string {
   const rec = [['MVP', g.record.mvp], ['승리', g.record.win && `${g.record.win} (${nm(W)})`], ['패전', g.record.loss && `${g.record.loss} (${nm(L)})`], ['세이브', g.record.save && `${g.record.save} (${nm(W)})`], ['홈런', g.record.homers.slice(0, 3).join(', ')]].filter(([, x]) => x) as [string, string][];
   const games = r.games.filter((x) => !x.skipped).slice(0, 5);
   const nx = r.next;
+  const series = `시리즈 ${nm(r.sides[0])} ${r.sides[0].wins}승 · ${nm(r.sides[1])} ${r.sides[1].wins}승`;
   const slides = [
-    `<section class="s dark hook"${photo('stadium')}>${top(`${r.short} ${g.no}차전 결과`, '1/5')}<h1>${hl(hook)}</h1><p class="big-score">${esc(nm(W))} ${p.ws} : ${p.ls} ${esc(nm(L))}</p><p class="stat-line">${esc(ig?.sub ?? `시리즈 ${nm(r.sides[0])} ${r.sides[0].wins}승 · ${nm(r.sides[1])} ${r.sides[1].wins}승`)}</p>${foot(logo, '<span class="swipe">옆으로 넘겨 보기 ›</span>')}</section>`,
-    `<section class="s dark">${top('경기 결과', '2/5')}<div class="score">${'<div>' + badge(W.id) + `<span class="wb">승리</span></div>`}<div class="num">${p.ws}<i>:</i>${p.ls}</div><div class="lose">${badge(L.id)}</div></div><dl class="rec compact">${rec.map(([k, x]) => `<div class="${k === 'MVP' ? 'mvp' : ''}"><dt>${k}</dt><dd>${esc(x)}</dd></div>`).join('')}</dl>${foot(`${md(g.date)} · ${esc(g.venue)}${g.record.attendance ? ` · ${esc(g.record.attendance)}` : ''}`)}</section>`,
+    yHook({ kick: `${r.short} ${g.no}차전 결과`, big: `${p.ws}<i>:</i>${p.ls}`, head: hook, sub: ig?.sub ?? `${nm(W)} ${p.ws}-${p.ls} ${nm(L)} · ${series}`, pg: '1/4' }),
+    panel({ step: '경기 결과', head: `${nm(W)} 승리\n오늘의 기록`, pg: '2/4', note: `${md(g.date)} · ${g.venue}${g.record.attendance ? ` · ${g.record.attendance}` : ''}`, body: `<div class="score">${'<div>' + badge(W.id) + `<span class="wb">승리</span></div>`}<div class="num">${p.ws}<i>:</i>${p.ls}</div><div class="lose">${badge(L.id)}</div></div><dl class="rec compact">${rec.slice(0, 3).map(([k, x]) => `<div class="${k === 'MVP' ? 'mvp' : ''}"><dt>${k}</dt><dd>${esc(x)}</dd></div>`).join('')}</dl>` }),
     ig?.points.length
-      ? `<section class="s dark">${top('승부처', '3/5')}<h2>오늘 경기를 가른 장면</h2><ol class="points">${ig.points.map((x) => `<li>${esc(x)}</li>`).join('')}</ol>${foot('출처: 언론 보도')}</section>`
-      : `<section class="s dark">${top('경기 기록', '3/5')}<h2>오늘의 주인공</h2><dl class="rec">${rec.slice(0, 3).map(([k, x]) => `<div class="${k === 'MVP' ? 'mvp' : ''}"><dt>${k}</dt><dd>${esc(x)}</dd></div>`).join('')}</dl>${foot('출처: 언론 보도')}</section>`,
-    `<section class="s dark cta">${top('여러분 생각은?', '4/5')}<h2>오늘 경기<br>MVP는 누구?</h2><p class="series-line center">댓글로 선수 이름을 남겨 주세요</p><p class="series-line center">시리즈 ${esc(nm(r.sides[0]))} ${r.sides[0].wins}승 · ${esc(nm(r.sides[1]))} ${r.sides[1].wins}승</p><div class="games">${games.map((x) => `<div class="g${x === nx ? ' next' : ''}${!x.played && x !== nx ? ' later' : ''}"><b>${x.no}차전</b><span>${Number(x.date.slice(5, 7))}.${Number(x.date.slice(8, 10))} ${esc(x.venue)}</span><span class="r">${x.played && x.score ? (() => { const q = scoreParts(x); return `${esc(nm(x.sides[q.w]))} ${q.ws}-${q.ls}`; })() : x === nx ? '다음 경기' : x.ifNeeded ? '미확정' : ''}</span></div>`).join('')}</div>${nx ? `<p class="series-line">다음 경기는 ${nx.no}차전, ${Number(nx.date.slice(5, 7))}월 ${Number(nx.date.slice(8, 10))}일 ${esc(nx.time)} ${esc(nx.venue)} </p>` : ''}${foot('일정: KBO 발표')}</section>`,
-    guide,
+      ? panel({ step: '승부처', head: '오늘 경기를\n가른 장면', pg: '3/4', note: '출처: 언론 보도', body: `<ol class="points">${ig.points.map((x) => `<li>${esc(x)}</li>`).join('')}</ol>` })
+      : panel({ step: '경기 기록', head: '오늘의\n주인공', pg: '3/4', note: '출처: 언론 보도', body: `<dl class="rec">${rec.slice(0, 3).map(([k, x]) => `<div class="${k === 'MVP' ? 'mvp' : ''}"><dt>${k}</dt><dd>${esc(x)}</dd></div>`).join('')}</dl>` }),
+    panel({ step: '여러분 생각은?', head: '오늘 경기\nMVP는 누구?', pg: '4/4', note: nx ? `다음 경기 ${nx.no}차전 · ${Number(nx.date.slice(5, 7))}월 ${Number(nx.date.slice(8, 10))}일 ${nx.time} ${nx.venue}` : series, body: `<p class="pq">댓글로 선수 이름을 남겨 주세요</p><div class="games">${games.map((x) => `<div class="g${x === nx ? ' next' : ''}${!x.played && x !== nx ? ' later' : ''}"><b>${x.no}차전</b><span>${Number(x.date.slice(5, 7))}.${Number(x.date.slice(8, 10))} ${esc(x.venue)}</span><span class="r">${x.played && x.score ? (() => { const q = scoreParts(x); return `${esc(nm(x.sides[q.w]))} ${q.ws}-${q.ls}`; })() : x === nx ? '다음 경기' : x.ifNeeded ? '미확정' : ''}</span></div>`).join('')}</div>` }),
   ];
   const caption = [`⚾ ${flat(hook)}`, '', `${nm(W)} ${p.ws}-${p.ls} ${nm(L)}`, ...(ig?.sub ? [ig.sub] : []), '', ...(ig?.points.length ? ig.points.map((x) => `✔ ${x}`) : rec.map(([k, x]) => `${k} ${x}`)), '', ...(nx ? [`다음 경기는 ${Number(nx.date.slice(5, 7))}월 ${Number(nx.date.slice(8, 10))}일 ${nx.time}, ${nx.venue}에서 열려요.`] : []), '오늘 MVP는 누구였나요? 댓글로 남겨 주세요 👇', '하이라이트와 기록은 프로필 링크에서 볼 수 있어요 🎬', '', `#KBO #가을야구 #${g.roundName.replace(/\s/g, '')} #${T.get(W.id!)?.name.replace(/\s/g, '')} #${T.get(L.id!)?.name.replace(/\s/g, '')} #빠따닷컴`].join('\n');
-  const story = `<section class="s story dark hook"${photo('stadium')}><p class="kicker">${esc(g.roundName)} ${g.no}차전 결과</p><h1>${hl(hook)}</h1><p class="big-score">${esc(nm(W))} ${p.ws} : ${p.ls} ${esc(nm(L))}</p><div class="sticker">여기에 링크 스티커</div></section>`;
+  const story = yHook({ kick: `${g.roundName} ${g.no}차전 결과`, big: `${p.ws}<i>:</i>${p.ls}`, head: hook, sub: `${nm(W)} ${p.ws}-${p.ls} ${nm(L)}`, pg: '', story: true });
   return { slides, story, caption, key: `${today}-postgame-${g.round}${g.no}` };
 }
 
