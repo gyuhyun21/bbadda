@@ -1,0 +1,22 @@
+{
+  "id": "news-0b811fe5",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스핌",
+  "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0wQWgtbWhCMVRVd2dpanZjdk9jdDNIY0lZdHFPSWNKQTBaYmFMc0ZXdGJVTFV3c0ZRLUFfTnVvelVmOW1jbkFuWERKeTcyMDBIcGlXazFWME5ra0xU?oc=5",
+  "title": "[준PO 포커스] LG 조기 탈락, 임찬규·카라스코 동반 붕괴...믿었던 선발진 부진",
+  "published_at": "2026-10-20T21:10:00.000Z",
+  "collected_at": "2026-10-21T07:38:16.526Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

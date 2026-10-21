@@ -1,0 +1,22 @@
+{
+  "id": "news-7f51d111",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://www.sportschosun.com/baseball/2026-10-21/202610210100128520008345",
+  "title": "\"플레이오프 못 뛴다\" 삼성, 또 부상 악몽, 좌완 불펜 둘 날아갔다, 가을 '평자 0.00' 리그 최고 좌완 강속구에 쏠리는 눈",
+  "published_at": "2026-10-21T00:38:42.000Z",
+  "collected_at": "2026-10-21T07:38:16.526Z",
+  "summary_ko": "삼성 좌완 불펜 두 명이 부상으로 플레이오프에 뛰지 못한다고 스포츠조선이 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

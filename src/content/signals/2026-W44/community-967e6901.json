@@ -1,0 +1,24 @@
+{
+  "id": "community-967e6901",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 FULL COUNT",
+  "url": "https://blog.naver.com/fullcount9/224448826436",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/873cjyy6g9e",
+  "title": "통산 안타 3위인데.. 6개월 만에 방출된 이 선수의 정체",
+  "published_at": "2026-10-21T13:00:00.000+09:00",
+  "collected_at": "2026-10-21T07:38:16.526Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

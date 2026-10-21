@@ -1,0 +1,23 @@
+{
+  "id": "community-61f49fc8",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 이슈데일리의 뉴스",
+  "url": "https://blog.naver.com/yd0189816/224449019255",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/2L9jOW5KnKe",
+  "title": "이선주 대표 \"KBO 최고의 감독\"…KT 이강철 감독 재계약 3년 34억",
+  "published_at": "2026-10-21T15:12:00.000+09:00",
+  "collected_at": "2026-10-21T07:38:16.526Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

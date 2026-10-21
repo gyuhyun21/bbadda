@@ -1,0 +1,22 @@
+{
+  "id": "news-e4f5a79d",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "조선일보",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNzFicGVveUpuTTZxa3ZaSGhDQWVOYTJsOFBkcDFCVkdHVF9hQmlqRE1heks3VW5fM1d3MnlaR3lHaFFiZ2VlUzQ1bEpnMFcwRjd5eG5fcjhrYnZlQ3ZSZjl6MnNieUR5M0E0WW12Sk5hVGctS1JxTmo1VmxoZGRfRVppRQ?oc=5",
+  "title": "롯데 화들짝 → \"다카쓰 감독 제안하지 않았고 다카쓰가 누굴 추천하지도 않았다\"",
+  "published_at": "2026-10-21T07:24:00.000Z",
+  "collected_at": "2026-10-21T07:38:16.526Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

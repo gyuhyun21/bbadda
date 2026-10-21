@@ -1,0 +1,23 @@
+{
+  "id": "news-d860de43",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "마이데일리",
+  "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBQQWM1NGNkLTlUdHRxejI5eGtYS2Q1VTF6Z1JkX3lieHhpcUptMEF0RkZBdlZuVG9BbUJiWV9QQVhPZm1NNGdDbDRQUHhESm9nQW5YSE5RU2c5V2dXRXVpYWs3N2plUQ?oc=5",
+  "title": "삼성 사장님과 단장님이 잠실은 어쩐 일이신가요…KIA 김도영 지배력 직관, 전력분석까지 ‘못 말려’[MD잠실]",
+  "published_at": "2026-10-20T23:10:00.000Z",
+  "collected_at": "2026-10-21T07:38:16.526Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 73,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

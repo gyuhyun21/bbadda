@@ -1,0 +1,24 @@
+{
+  "id": "community-22f9bb9f",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 말로차싸커",
+  "url": "https://blog.naver.com/littlezip/224448691129",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/6wICgNX1SNd",
+  "title": "\"30대 여배우의 깜짝고백” 야구에서 포착된 핑크빛?",
+  "published_at": "2026-10-21T10:25:00.000+09:00",
+  "collected_at": "2026-10-21T07:38:16.526Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

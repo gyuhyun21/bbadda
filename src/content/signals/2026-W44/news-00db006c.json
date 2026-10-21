@@ -1,0 +1,20 @@
+{
+  "id": "news-00db006c",
+  "issue": "2026-W44",
+  "module": "league",
+  "teams": [],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠동아",
+  "url": "https://sports.donga.com/sports/article/all/20261021/134878361/1",
+  "title": "잠실구장 마지막 함께한 2만3650관중…KBO, PS 41연속 경기 매진 [현장리포트]",
+  "published_at": "2026-10-21T02:58:57.000Z",
+  "collected_at": "2026-10-21T07:38:16.526Z",
+  "summary_ko": "잠실구장 마지막 경기에 2만3650명이 들어차 KBO 포스트시즌이 41경기 연속 매진을 이어갔다.",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "news-42422f00",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "미주중앙일보",
+  "url": "https://www.koreadaily.com/article/20261020171109974",
+  "title": "‘우승→3위→우승→4위’ 개막부터 시즌 끝까지 부상 악재, LG의 한국시리즈 2연패 꿈은 무리였다",
+  "published_at": "2026-10-21T00:10:00.000Z",
+  "collected_at": "2026-10-21T07:38:16.526Z",
+  "summary_ko": "미주중앙일보는 개막부터 시즌 끝까지 이어진 부상 악재 탓에 LG의 한국시리즈 2연패는 무리였다고 짚었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 89,
+    "relevance": 70
+  },
+  "sentiment": "mixed",
+  "also_in": [
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZXVpMEtSc1ZwWGNoWlMxQXlHOFhBWHd4TlJJOEZ6SEVCX0k5eVp4bE54Nk1iR0ZlaWEyaUN5N3lKVXlxcDNGcUpnQjhYbFZCQUoteXZhRlNLVkpFcW9nMFo0cEo1NnNseWlsTDJLWDRYZGgwa0JNSS1HTVBQOTJyM2pGdw?oc=5"
+    },
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8wWm5WNVViQ3JvMEJCUXpBZVpjRUFfZjJJYVZGRENFYTZsaHpEbU9aZVZjYVBwdkxBdzJISmtLRFZYbUtmWm90aUJlQjRsT2ZYMXUwa05sQW96V0ZjbzVRVThZYXAwcUtoQWfSAW9BVV95cUxOdmdRbUNTdkNPV1Y3TGt2TnI0MDNoaUlpTUtGWXo5anhxZmRmVXJFQ2NmMWtyamFESGtUUDVWVXhENEFQOE9Udm80WThFQU53TXcwUkZaTHMxTFhHLWxHMGlyUjR0THRiNVc3NnZtUjg?oc=5"
+    }
+  ]
+}

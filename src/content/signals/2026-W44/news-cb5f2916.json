@@ -1,0 +1,22 @@
+{
+  "id": "news-cb5f2916",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "조이뉴스24",
+  "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9HT3RkNF94eGFaZXMyNXQ2em1KLTNvSkdKTlBNWVBJcWx5c1lQUDk5Z3BvRWx2Y2lMS3Y0QWlwZGFMQ1hYUmlld2RZU05UZm8?oc=5",
+  "title": "'통산 삼성전 홈런 18개' 김도영 “절대 자만하지 않겠다” PO 다짐",
+  "published_at": "2026-10-21T04:24:54.000Z",
+  "collected_at": "2026-10-21T07:38:16.526Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 80
+  },
+  "sentiment": "positive"
+}

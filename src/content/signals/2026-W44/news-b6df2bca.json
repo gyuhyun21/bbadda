@@ -1,0 +1,29 @@
+{
+  "id": "news-b6df2bca",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "OSEN",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBCSVZQdEhDQWRRTkFFMmQ2WHJLUGNnUkFObzJXdl9tb2h5bGlidGVFSS0xLWR5eVdFaW5qcXlIZFNXWDVPdzNwRmxBV1B1cjFiTm12UQ?oc=5",
+  "title": "“광주 원정 덕아웃이 그렇게 낯설더니…” 친정 KIA와 가을 맞대결, 삼성 임기영, “이기는 수밖에 없다” [오!쎈 대구]",
+  "published_at": "2026-10-21T05:45:00.000Z",
+  "collected_at": "2026-10-21T07:38:16.526Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQR1lnakZBbzExdnhWa2E4VjNRVThhRDdpNFloU2lXc05EQW9kNjZXd3gwWi00S2lfRnN3ZnMwb212TFJ4bkpRaUdEOVVKSzliNHpZT2VPVjczZ3ZqSzcxSVdiVFY2T3hCdWt0NlA3LTVfYml6eS1tclVjeFVwWXRGZHFGUzFMYmNnU2hVLVcyZWdManRZVHNr0gGXAUFVX3lxTFBHWWdqRkFvMTF2eFZrYThWM1FVOGFEN2k0WWhTaVdzTkRBb2Q2Nld3eDBaLTRLaV9Gc3dmczBvbXZMUnhuSlFpR0Q5VUpLOWI0ellPZU9WNzNndmpLNzFJV2JUVjZPeEJ1a3Q2UDctNV9iaXp5LW1yVWN4VXBZdEZkcUZTMUxiY2dTaFUtVzJlZ0xqdFlUc2s?oc=5"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-f71127be",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "서울신문",
+  "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5kWUUzMXJ2ZUQ3dzlmcm44b0IxaHQyX3B0a0JjdS1aVm84V0NHWVctdlE3bGNKWTllSXl5N2lsMC1LRmRZTGlpQW5GN2dnUmFuVTZSN3N2OVc4cDhuSEZqdWhuTFY2UlVrX0NDOA?oc=5",
+  "title": "준PO에서 KIA가 세운 기록들...삼성이 긴장할 이유 보여줬다",
+  "published_at": "2026-10-21T07:16:57.000Z",
+  "collected_at": "2026-10-21T07:38:16.526Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

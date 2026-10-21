@@ -1,0 +1,24 @@
+{
+  "id": "community-2836cf04",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "lg"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 오늘의 이슈슈슈슈",
+  "url": "https://kimghoul.tistory.com/477",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/Eavz4qxjzez",
+  "title": "KIA 13-1 LG 리뷰 — 김도영이 145m 만루홈런을 쳐서 잠실 고별전에서 대승을 거두었다",
+  "published_at": "2026-10-21T15:55:28.000+09:00",
+  "collected_at": "2026-10-21T07:38:16.526Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

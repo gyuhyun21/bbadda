@@ -1,0 +1,29 @@
+{
+  "id": "news-7a11eb74",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE13R3lpdXpqanlIaE1DVk41LUtiZjhXNkVEdEJEUlNheXZTQU1HN044Q0JLMHNGbVVsLTN4X1VneGkyMUhKYmlYQ1hzUDNlRmV0bW1KVHBvWkhod1RCU3loVlEyNzFjNE00R1JuWTJTMTlFemlpVjJKSkxwdkJhQQ?oc=5",
+  "title": "딱 한 타자만 더 살아나갔더라면...'눈물의 거포' 이재원, 대기 타석에서 방망이를 돌리고 있었다",
+  "published_at": "2026-10-21T05:06:53.000Z",
+  "collected_at": "2026-10-21T07:38:16.526Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbGMxYl9hQ3RiVHZGWUlOblRlb0Z5T0Z2Qzd5a2ttYXptTzN6bmFFZnF3NXNJajF2WkhDaG1pTTB0MWxMdHpkVW1fbVhUa3RoRk5US2xmUDRxbFFPR3czdDJoZ0d4RlJrN3VLY3I4NktQYVN2VDRYM19tdG5EVUlGWmR3SQ?oc=5"
+    }
+  ]
+}

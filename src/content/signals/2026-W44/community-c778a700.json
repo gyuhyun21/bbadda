@@ -1,0 +1,23 @@
+{
+  "id": "community-c778a700",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "엠엘비파크",
+  "url": "https://mlbpark.donga.com/mp/b.php?id=202610210119575875&p=31&b=kbotown&m=view&select=spf&query=LG&site=donga.com",
+  "title": "그냥 기아랑 우리팀 선수들하고 야구대하는 자세가 틀렸던거 같아요",
+  "published_at": "2026-10-21T00:38:16.526Z",
+  "collected_at": "2026-10-21T07:38:16.526Z",
+  "summary_ko": "",
+  "excerpt": "... ... 삼성 · NC · kt · 롯데 · KIA · 두산 · 키움…",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

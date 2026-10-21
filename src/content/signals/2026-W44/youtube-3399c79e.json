@@ -1,0 +1,27 @@
+{
+  "id": "youtube-3399c79e",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "프로야구 화일라이트",
+  "url": "https://www.youtube.com/watch?v=kRysP2S3LC0",
+  "title": "사구 맞은 김도영, 이범호감독 다라이 살벌하네 #kbo #shorts",
+  "published_at": "2026-10-20T23:37:56Z",
+  "collected_at": "2026-10-21T07:38:16.526Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 36158,
+    "likes": 258,
+    "comments": 12
+  },
+  "scores": {
+    "hot": 55,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

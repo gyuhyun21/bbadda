@@ -1,0 +1,27 @@
+{
+  "id": "youtube-56eb7991",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "Eagles TV",
+  "url": "https://www.youtube.com/watch?v=6nfXZEpqEgM",
+  "title": "금메달..골든글러브..다 잊고 초심부터! 내야수들의 기본기찾기 마무리 훈련",
+  "published_at": "2026-10-21T03:31:28Z",
+  "collected_at": "2026-10-21T07:38:16.526Z",
+  "summary_ko": "한화 구단 채널이 마무리 훈련에서 내야수들이 기본기를 다지는 모습을 공개했다.",
+  "metrics": {
+    "views": 57300,
+    "likes": 2227,
+    "comments": 493
+  },
+  "scores": {
+    "hot": 89,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

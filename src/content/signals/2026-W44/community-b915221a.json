@@ -1,0 +1,24 @@
+{
+  "id": "community-b915221a",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 앙꼬미의 달콤한 이야기",
+  "url": "https://blog.naver.com/ina4610/224449051069",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/DzdVIQ2FeSX",
+  "title": "김태형 감독 재계약, \"로이스터·조원우도 잘렸다\" 현장의 직격",
+  "published_at": "2026-10-21T15:38:00.000+09:00",
+  "collected_at": "2026-10-21T07:38:16.526Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

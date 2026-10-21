@@ -1,0 +1,30 @@
+{
+  "id": "community-58d9ceb7",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 Yestistory",
+  "url": "https://newsgdr.com/13454",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/9elEH0KzC38",
+  "title": "KIA 좌완 이의리, 삼성전 핵심 X팩터 급부상…최형우·디아즈·구자욱 상대법은?",
+  "published_at": "2026-10-21T14:35:03.000+09:00",
+  "collected_at": "2026-10-21T07:38:16.526Z",
+  "summary_ko": "한 블로그가 KIA 좌완 이의리를 삼성전 핵심 변수로 꼽으며 최형우·디아즈·구자욱 상대법을 짚었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 91,
+    "relevance": 70
+  },
+  "sentiment": "negative",
+  "also_in": [
+    {
+      "source_name": "마이데일리",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9YbE5xemVyMU04UzZLNWxaNlJEYzhKTGJiM3FmR0VNNXJtS0tEN1hrR3hnejlRd2VMSUtUaGJ1Y3JMQnRtWF9fOHNDbTlxb3l4c2RtREhkX2dCQ2tqdzFXUA?oc=5"
+    }
+  ]
+}

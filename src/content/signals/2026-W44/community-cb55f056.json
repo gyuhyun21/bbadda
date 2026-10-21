@@ -1,0 +1,23 @@
+{
+  "id": "community-cb55f056",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 막시무스님의 블로그",
+  "url": "https://blog.naver.com/jjy5673/224448444626",
+  "title": "프로야구 역대 우승팀·한국시리즈 MVP 총정리｜1982~2025년 연도별 명단",
+  "published_at": "2026-10-21T03:42:00.000+09:00",
+  "collected_at": "2026-10-21T07:38:16.526Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

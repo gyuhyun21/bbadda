@@ -1,0 +1,23 @@
+{
+  "id": "news-dd5d146c",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "이데일리TV",
+  "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5WZWY3WUVhMmhESzAzeHlfUnNKT29oMmRNekF0TTBzeERiOW1vZG1BQnRLNjFrZ1BOVGVfcXJYNlBESlF4Q01OSnRiUXZBVWdZMnR0U0JUT3lMcWFtTktSZVE4bjZOMUFMeHBxbnJYcGd2SzMyOWlNMF9ORQ?oc=5",
+  "title": "“사고 나야 고칠 건가”…고척돔·상암경기장 안전 '구멍'",
+  "published_at": "2026-10-21T03:00:00.000Z",
+  "collected_at": "2026-10-21T07:38:16.526Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-74907848",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠경향",
+  "url": "https://sports.khan.co.kr/article/202610210955013/amp",
+  "title": "[스경X인터뷰]삼성 임기영 “2년 전 KIA 우승 축포에는 웃지 못했지만···그때의 분한 기억 되살려 더 잘 던...",
+  "published_at": "2026-10-21T00:55:00.000Z",
+  "collected_at": "2026-10-21T07:38:16.526Z",
+  "summary_ko": "삼성 임기영이 2년 전 KIA 우승 축포를 지켜본 분한 기억을 떠올리며 플레이오프에서 더 잘 던지겠다고 말했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

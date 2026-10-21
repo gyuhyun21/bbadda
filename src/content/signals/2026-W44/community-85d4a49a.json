@@ -1,0 +1,24 @@
+{
+  "id": "community-85d4a49a",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 변화와변경의한끝",
+  "url": "https://blog.naver.com/decor041/224448935256",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/JhMgQysn7Wj",
+  "title": "김성윤과 131표 대 116표 갈렸던 빅터 레이예스, 올해 골든글러브 왜 못 장담하나",
+  "published_at": "2026-10-21T14:59:00.000+09:00",
+  "collected_at": "2026-10-21T07:38:16.526Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

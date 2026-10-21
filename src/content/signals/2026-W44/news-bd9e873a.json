@@ -1,0 +1,23 @@
+{
+  "id": "news-bd9e873a",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9GVHJPWWp0R1ZkcndyV094WWRJZFRZdXc4UEFLQkNrSHRsSHRFaXZsLWNuUW9rNUlXSGdreW5GeGR6Z1ozR1RFc3JMR21SeURoVkJtLWZSWkJMb3FUT0RtOVRlS1lyUEU4VmxtcFgzWdIBb0FVX3lxTE9GVHJPWWp0R1ZkcndyV094WWRJZFRZdXc4UEFLQkNrSHRsSHRFaXZsLWNuUW9rNUlXSGdreW5GeGR6Z1ozR1RFc3JMR21SeURoVkJtLWZSWkJMb3FUT0RtOVRlS1lyUEU4VmxtcFgzWQ?oc=5",
+  "title": "김도영의 PO 경계 1순위는 최형우…\"정말 무서운 선수\"",
+  "published_at": "2026-10-20T23:58:52.000Z",
+  "collected_at": "2026-10-21T07:38:16.526Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "youtube-dc215274",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "announcement": true,
+  "source_name": "짤막생활",
+  "url": "https://www.youtube.com/watch?v=JRRrfUGJpsk",
+  "title": "한화 이글스 류지현 신임 감독 선임 (3년 총액 20억원, 2026.10.13 공식 발표)",
+  "published_at": "2026-10-21T07:34:00Z",
+  "collected_at": "2026-10-21T07:38:16.526Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 42,
+    "likes": 1,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 37,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

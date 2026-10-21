@@ -1,0 +1,22 @@
+{
+  "id": "news-b6ea4993",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "서울신문",
+  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE55UXFUX05OdGdkZ3NvQmRmVUZSQ3Nja0ZpSU9obXp3RGljY0pTN1Exa3NYYkgySlN1VFpQZnJXOUtVejF0VUY0NEJFSHBpZXVsaHhpMTNPMA?oc=5",
+  "title": "LG 야구가 어쩌다…‘역대급 참사’ 염경엽 최악의 시리즈 “절실하게 해야 한다”",
+  "published_at": "2026-10-20T17:52:23.000Z",
+  "collected_at": "2026-10-21T07:38:16.526Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

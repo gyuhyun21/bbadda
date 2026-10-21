@@ -1,0 +1,27 @@
+{
+  "id": "youtube-6c5fdc4f",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "스포츠머그 - SPORTSMUG",
+  "url": "https://www.youtube.com/watch?v=DktF0s_UkqY",
+  "title": "또 김도영에게 홈런 맞은 케네디, 희비가 엇갈린 순간 #Shorts / 스포츠머그",
+  "published_at": "2026-10-21T04:05:43Z",
+  "collected_at": "2026-10-21T07:38:16.526Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 18309,
+    "likes": 332,
+    "comments": 14
+  },
+  "scores": {
+    "hot": 61,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

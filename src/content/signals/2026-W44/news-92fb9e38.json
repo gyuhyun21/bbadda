@@ -1,0 +1,37 @@
+{
+  "id": "news-92fb9e38",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "뉴스1",
+  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1FT0pvYmNrazJ5WFB1b3ZfV3VodTRCekRGeWtjN0Njd2NMSWVEZ0k3VE00UzhpaG1Zci1CSndwN05udUJlVDFOandYWS1YUHZ5aVhuT3VoUQ?oc=5",
+  "title": "'굿바이 잠실' 김도영은 만루포로 작별, 양현종은 흙 담아 추억으로",
+  "published_at": "2026-10-20T22:00:00.000Z",
+  "collected_at": "2026-10-21T07:38:16.526Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 97,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "파이낸셜뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBtQ1JadWktQWkzSXlHTl9MWnd3Q3lmQUZMUUd2MEg3NUR0M3JxU05iY3d2WEFNVlB6R2ZlNlFpdnBXY2lPR3M4OGd6M2V6TE5DRVEtajB2TzJTZw?oc=5"
+    },
+    {
+      "source_name": "뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9vRmU5UXZlZ1lOa2huc29xc2J5d2pMZ2xuQXBWakF1a3J4MjMxVmNMRjZFVExYNFZvbmd3cEE2X2U4RlhYQmdBQUlpR2hGeGxORlVSd0VDLWFndDBOYjlJenlxWWo3TUM5Y3BBb1pTdi1DVnhiZ0VSUNIBeEFVX3lxTE9vRmU5UXZlZ1lOa2huc29xc2J5d2pMZ2xuQXBWakF1a3J4MjMxVmNMRjZFVExYNFZvbmd3cEE2X2U4RlhYQmdBQUlpR2hGeGxORlVSd0VDLWFndDBOYjlJenlxWWo3TUM5Y3BBb1pTdi1DVnhiZ0VSUA?oc=5"
+    },
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBtaGRWSEIwRENsNm13WUJkT1l4QVBXb3dvdm94UmFZUnRsaVpwbHI1TXVWbVpuTS1ibTJva2laN0luZzRHaVFiUjhVb1F4c0lCQkVxVERXOFA5dU1ZUzZWazhhazh4MHVmaWV2UFpCLWZ3UDNBMnU4?oc=5"
+    }
+  ]
+}

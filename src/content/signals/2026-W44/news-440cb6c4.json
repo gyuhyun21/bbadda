@@ -1,0 +1,22 @@
+{
+  "id": "news-440cb6c4",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "news",
+  "source_name": "https://www.2news.co.kr/",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5SaXBJN2dUSmFVU2hIcnRzZG4xb090VmVmeVdDVTliUWJQc1pFN3pPclMzaUtOVFk0U3U5MUZnbkN0NlZmZktKOGdCOVNfY2tzT1ZLUlNFU09fbUprM3FkbE1Vb1pxMjhx?oc=5",
+  "title": "통산 최다 안타 대기록 흔들… 손아섭 두산서 전격 방출",
+  "published_at": "2026-10-21T04:22:00.000Z",
+  "collected_at": "2026-10-21T07:38:16.526Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

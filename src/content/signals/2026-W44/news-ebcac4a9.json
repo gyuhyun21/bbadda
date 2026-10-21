@@ -1,0 +1,23 @@
+{
+  "id": "news-ebcac4a9",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "announcement": true,
+  "source_name": "SPOTV NEWS",
+  "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1014597",
+  "title": "[오피셜] 타카츠 어드바이저 감독직 고사? 롯데 확실히 못 박았다 \"제안 사실 없다, 추천도 없었다\"",
+  "published_at": "2026-10-21T06:18:32.000Z",
+  "collected_at": "2026-10-21T07:38:16.526Z",
+  "summary_ko": "롯데가 다카쓰 어드바이저에게 감독직을 제안한 사실도, 그가 누군가를 추천한 사실도 없다고 공식 부인했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

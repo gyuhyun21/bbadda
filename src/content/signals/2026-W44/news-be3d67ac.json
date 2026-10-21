@@ -1,0 +1,22 @@
+{
+  "id": "news-be3d67ac",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "OhmyNews",
+  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0zWDd3ekhuT3RWVjhBVy1DbjZGd0NXRHlsVWduMmtZS25UWTVEcVFuaWVMZ0tLdVhXU2VaUjE1aVVsR2pHY1J5S2w4bktKWENhSFpTcUZ6NzhWaEpMdmEycmE4VXlzZmhNblNoMDkxT2lsYnY4?oc=5",
+  "title": "'시즌 마감' LG, 2026년의 문제점 3가지",
+  "published_at": "2026-10-21T01:40:00.000Z",
+  "collected_at": "2026-10-21T07:38:16.526Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 98,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

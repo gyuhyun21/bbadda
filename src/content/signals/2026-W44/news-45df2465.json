@@ -1,0 +1,23 @@
+{
+  "id": "news-45df2465",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "노컷뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1kS2s1Z1p2MlNqS2VtMWpjYUNIcWV4dFZERXZqSEhHblJOajc3YUplUlJEeXItQmpCTm9RYjFNV012SnR1M2lzYV9vYlllbEgzMEE?oc=5",
+  "title": "25년 전 우즈·김동주를 기억하시나요?…'잠실 대기록' 폭행한 김도영의 미친 방망이",
+  "published_at": "2026-10-21T06:52:21.000Z",
+  "collected_at": "2026-10-21T07:38:16.526Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}
