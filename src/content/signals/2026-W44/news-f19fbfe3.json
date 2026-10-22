@@ -1,0 +1,22 @@
+{
+  "id": "news-f19fbfe3",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "news",
+  "source_name": "중도일보",
+  "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBzb3pHQW1VQXE1akpLeGVYODloU0kyaF9qT19OSVpzM2RYaGFsX0kyQ3dOT1RZZXFUdmptU2ZxUnphY29qaHI4NEJLWktLZTVmdDByRmZ2MFpILUV3bmtDUW5Fd2pNSjczc25qTw?oc=5",
+  "title": "반등의 열쇠는 전력 재편… 한화, 스토브리그 선택에 달렸다",
+  "published_at": "2026-10-22T07:45:53.000Z",
+  "collected_at": "2026-10-22T13:39:29.111Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

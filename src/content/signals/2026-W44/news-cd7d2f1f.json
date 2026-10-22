@@ -1,0 +1,22 @@
+{
+  "id": "news-cd7d2f1f",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "재경일보",
+  "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA1d1lYQk9aZVg5Nm84aVc5d3BhOHBYaEVTdFl2bndDcVJWRmIzMXF3MHI4WjhQMkp3NFhMTHlabDhLa2xTSmN4NG5oOA?oc=5",
+  "title": "LG 트윈스 진우영·김준태 등 11명 방출…준PO 탈락 직후 선수단 개편 : 스포츠",
+  "published_at": "2026-10-22T05:31:15.000Z",
+  "collected_at": "2026-10-22T13:39:29.111Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

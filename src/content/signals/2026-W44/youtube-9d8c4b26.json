@@ -1,0 +1,26 @@
+{
+  "id": "youtube-9d8c4b26",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "💙최삼TV💙",
+  "url": "https://www.youtube.com/watch?v=eZUDJgwfnZ0",
+  "title": "기필코!!! 정상에서 !!!!#삼성라이온즈 #최강삼성 #lions #samsunglions #삼성라이온즈우승 #champion",
+  "published_at": "2026-10-22T12:49:50Z",
+  "collected_at": "2026-10-22T13:39:29.111Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 223,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 28,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

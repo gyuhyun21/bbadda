@@ -1,0 +1,23 @@
+{
+  "id": "news-4681baeb",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "청년일보",
+  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Ib3NvUXFCc1B2VEp0NHZXNjlLMUlqVnhJc0UxUFlqOFg1c0R5bVBQal9rVzhmemJmSTA0Qlp6WGhnUDZkM1hwRUVJdTFNZEotaFhFZW1XcGV3OTdEbzE1bVJCSWd3elE?oc=5",
+  "title": "36년 만에 플레이오프서 재회…삼성·KIA 25일 대구서 격돌",
+  "published_at": "2026-10-22T02:18:56.000Z",
+  "collected_at": "2026-10-22T13:39:29.111Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 80,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

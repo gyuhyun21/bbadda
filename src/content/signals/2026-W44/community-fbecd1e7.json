@@ -1,0 +1,24 @@
+{
+  "id": "community-fbecd1e7",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "엠엘비파크",
+  "url": "https://mlbpark.donga.com/mp/b.php?id=202610220119593482&p=151&b=kbotown&m=view&select=spf&query=LG&site=donga.com&pos=reply",
+  "title": "11명 방출ㄷㄷㄷㄷㄷㄷ",
+  "published_at": "2026-10-21T15:00:00.000Z",
+  "collected_at": "2026-10-22T13:39:29.111Z",
+  "summary_ko": "",
+  "excerpt": "... ... SSG · 삼성 · NC · kt · 롯데 · KIA · 두산…",
+  "metrics": {},
+  "scores": {
+    "hot": 60,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

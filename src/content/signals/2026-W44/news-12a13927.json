@@ -1,0 +1,24 @@
+{
+  "id": "news-12a13927",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "폴리타임즈",
+  "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5tNDgtNXJENWlGbWF5UmRGenNvbGpKZlcyT0cwXzRJaDFaa2V4a0lJNFBnTy1XZTJGZ0h4cHlnbkY0aXBuajdkLXNlY1hvMUgybldubXNKNWlROWhRTnp5dGdPZGdsMmFJSHJudg?oc=5",
+  "title": "홈런 포함 4안타 '예열 완료'…'순수재미 GOAT' 김영웅, 가을의 지배자 부활 선언!",
+  "published_at": "2026-10-22T13:04:13.000Z",
+  "collected_at": "2026-10-22T13:39:29.111Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "news-968ac6e8",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "lg",
+  "teams": [
+    "lg",
+    "kt"
+  ],
+  "source_type": "news",
+  "announcement": true,
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAzZGFMQkdoVTNfNjk2a045ckR6M3ZyWmRlR19ITGNfUEVrSmhIWkdnMDB2eld5V0d6X29ISVc0YVRxd010TkNyLWhFbDgwWmNWd2dKSDV0aEU4YlI2SkxEUjItRVNtS1lhZzVyd3liQdIBb0FVX3lxTFAzZGFMQkdoVTNfNjk2a045ckR6M3ZyWmRlR19ITGNfUEVrSmhIWkdnMDB2eld5V0d6X29ISVc0YVRxd010TkNyLWhFbDgwWmNWd2dKSDV0aEU4YlI2SkxEUjItRVNtS1lhZzVyd3liQQ?oc=5",
+  "title": "[오피셜] 'LG서 16년' 장발 투수 '끝내' 반등 실패... '광주→서울→제주→대전→인천→수원' 전국일주 우완도 떠난다! KS 앞둔 KT, 10명 재계약 불가 통보",
+  "published_at": "2026-10-22T08:31:00.000Z",
+  "collected_at": "2026-10-22T13:39:29.111Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 90,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA5Y3NWQnIxcDVpYTJ5LVVvekpyWXZxaXlrMWdUSS15MldSdGRJR0lxOE4wTlQwQ3RlM042X1BlVHIyMm1TdFV6Vy1zUW5tR1l4NEw2bTMxc21IWnBsX1Btc0dzNWs2TWl2a2JMbkUyeGdVLUUwVUE?oc=5"
+    }
+  ]
+}

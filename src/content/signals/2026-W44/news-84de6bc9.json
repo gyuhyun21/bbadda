@@ -1,0 +1,23 @@
+{
+  "id": "news-84de6bc9",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "경기뉴스원",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE40eHNMSXRHcG5fZWdJVm1PY1VzbU5FZ0Fsd01iMUhUbFJlUjhDbFJQU2Rjd2VEV3F0REc0WDctTk05R0dFTkpvZmVSbnZvYTc3MklXSUg5N3NOTmdRSmFiRnhMRQ?oc=5",
+  "title": "포항시, 양준혁 전 프로야구 선수 초청 ‘10월 시민교양대학’ 개최",
+  "published_at": "2026-10-22T07:30:21.000Z",
+  "collected_at": "2026-10-22T13:39:29.111Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

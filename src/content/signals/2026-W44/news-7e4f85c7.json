@@ -1,0 +1,23 @@
+{
+  "id": "news-7e4f85c7",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "매일신문",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9RbnZvRU5fZkpzdjFjRG8yTHVPQUMxUW5IS3Nkci1SOWRCMk9kUkxXUWJwWXAyMS1fc3BqeFV0TEF4b2pyN3lYd0hmMEtMNDNQeFhKV3NQVjc3VHpTdHllVGh3?oc=5",
+  "title": "표는 1분 만에 증발, 웃돈은 280만원…암표법 비웃는 `라팍` 가을야구",
+  "published_at": "2026-10-22T08:43:00.000Z",
+  "collected_at": "2026-10-22T13:39:29.111Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

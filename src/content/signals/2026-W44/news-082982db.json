@@ -1,0 +1,23 @@
+{
+  "id": "news-082982db",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAwX1Q2cUltNWRsSnhYX1BuRndEMG1Wbk1Ya1Q4dVlRLUxaUU1ycC1JZkJRZzJRTS1sa1lCQURwQkRaLXlHYl9NdFZub29faG1Mb3BYWkFtVjIzZmpTOUk0U2hjZFl1YWUyemdzTjFONNIBb0FVX3lxTFAwX1Q2cUltNWRsSnhYX1BuRndEMG1Wbk1Ya1Q4dVlRLUxaUU1ycC1JZkJRZzJRTS1sa1lCQURwQkRaLXlHYl9NdFZub29faG1Mb3BYWkFtVjIzZmpTOUk0U2hjZFl1YWUyemdzTjFONA?oc=5",
+  "title": "'프차 유일 GG-국대 외야수' 다시 2루서 경쟁, 꾀돌이 감독의 첫 테스트... 정은원-문현빈 누가 생존할까",
+  "published_at": "2026-10-22T08:41:06.000Z",
+  "collected_at": "2026-10-22T13:39:29.111Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

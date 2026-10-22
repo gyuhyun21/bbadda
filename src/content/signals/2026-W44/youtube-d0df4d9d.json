@@ -1,0 +1,28 @@
+{
+  "id": "youtube-d0df4d9d",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "키움히어로즈",
+  "url": "https://www.youtube.com/watch?v=bRcuJNcFBXg",
+  "title": "세상은 꿈 꾸는 자의 것🌟I 2027 신인 만다라트",
+  "published_at": "2026-10-22T09:30:10Z",
+  "collected_at": "2026-10-22T13:39:29.111Z",
+  "summary_ko": "키움 히어로즈 공식 채널이 2027 신인 만다라트 영상을 올렸다.",
+  "metrics": {
+    "views": 6277,
+    "likes": 309,
+    "comments": 53
+  },
+  "scores": {
+    "hot": 85,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "키움, 2027 신인 만다라트"
+}

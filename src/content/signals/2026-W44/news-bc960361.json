@@ -1,0 +1,23 @@
+{
+  "id": "news-bc960361",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "뉴스인",
+  "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE50cEtfQ19XTW5YUndYX2ZKem15MExZWS1rWVlEcVFhZUkxTmotM1l0WHVzVXpSTmVCU2JlOUt2cTlQSjBFSnVnbmN3RVNUanVUaDZRZzJpSm5PYVI1SC1OaFNveERBQTNfSFVn?oc=5",
+  "title": "최정·최가온·이강인 애장품 한자리에…위아자 나눔상점 22일 개막",
+  "published_at": "2026-10-22T02:04:36.000Z",
+  "collected_at": "2026-10-22T13:39:29.111Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

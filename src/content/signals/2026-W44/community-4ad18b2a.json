@@ -1,0 +1,30 @@
+{
+  "id": "community-4ad18b2a",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/10473166470",
+  "title": "“개인 성적보다 팀 승리”…'부상 복귀' 구자욱 가을야구 출사표 던졌다",
+  "published_at": "2026-10-22T09:39:29.111Z",
+  "collected_at": "2026-10-22T13:39:29.111Z",
+  "summary_ko": "",
+  "excerpt": "... 하지만 삼성 투수들이 잘 막아줄 것으로 믿는다. 저희 타선이 일찍 점수를 뽑아내 투수들의 부담을…",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "mixed",
+  "also_in": [
+    {
+      "source_name": "영남일보",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5xQXFDN3Rpa1p3a1ZZME81ZnZ0WnJTMlA2a0doZHptNXA4Y1JGbE9oSTN5MHdENjRmVWVGd3pxM0xhU3RPeDh1WTRacnd6WTh2R1h3YmExSWVYVFBQS0hGOHdzUnBYLU9mZG1N?oc=5"
+    }
+  ]
+}

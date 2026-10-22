@@ -1,0 +1,23 @@
+{
+  "id": "community-9e669998",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 Tiswriter 님의 블로그",
+  "url": "https://bignewsforge.com/6596",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/dctNVQE03h",
+  "title": "롯데 새 단장 후보 김정준 수석, '연락 받은 것 없다'며 선 긋다",
+  "published_at": "2026-10-22T21:05:22.000+09:00",
+  "collected_at": "2026-10-22T13:39:29.111Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

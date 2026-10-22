@@ -1,0 +1,23 @@
+{
+  "id": "news-7ae731a8",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "한스경제",
+  "url": "https://www.hansbiz.co.kr/news/articleView.html?idxno=875430",
+  "title": "정규 3위-준PO 선전… KIA, 10주 연속 KBO리그 관심도 1위",
+  "published_at": "2026-10-22T12:16:39.000Z",
+  "collected_at": "2026-10-22T13:39:29.111Z",
+  "summary_ko": "KIA가 정규 3위와 준PO 선전에 힘입어 10주 연속 KBO리그 관심도 1위에 올랐다고 보도됐다.",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 80
+  },
+  "sentiment": "positive",
+  "brief_ko": "KIA, 10주 연속 관심도 1위"
+}

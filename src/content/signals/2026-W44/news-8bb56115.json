@@ -1,0 +1,23 @@
+{
+  "id": "news-8bb56115",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "전남일보",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBha1ZzNEVEWFBoWC1rTDBjMlBHT3JNSU44Vjc4OVNIdjVBQjBNckFpZFlJWWc4akRCdXRTZXVqS3QweWFNU2M0ZWJGLUJDQmVDYjBkNTdObFB2TUl0ZzlYU19NWGptQkV5Yk1QdXhHUQ?oc=5",
+  "title": "삼성 좌타선 봉쇄가 승부 가른다…KIA, 좌완 불펜으로 플레이오프 기선제압 노린다",
+  "published_at": "2026-10-22T02:09:51.000Z",
+  "collected_at": "2026-10-22T13:39:29.111Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

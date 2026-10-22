@@ -1,0 +1,23 @@
+{
+  "id": "community-3d5c6053",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 야구디코더의 분석 리포트",
+  "url": "https://baseball-decoder.tistory.com/156",
+  "title": "[KBO 레전드 열전] 잠실의 니느님 더스틴 니퍼트: 외인 최초 100승-1000K 신화부터 2016년 22승 MVP까지...",
+  "published_at": "2026-10-22T21:59:42.000+09:00",
+  "collected_at": "2026-10-22T13:39:29.111Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

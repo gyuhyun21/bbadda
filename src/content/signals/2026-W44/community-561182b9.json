@@ -1,0 +1,23 @@
+{
+  "id": "community-561182b9",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "다음카페 쭉빵카페",
+  "url": "https://cafe.daum.net/ok1221/8mNz/1179496",
+  "title": "ㅁㅊ 손아섭 방출됐다",
+  "published_at": "2026-10-19T15:01:02.000+09:00",
+  "collected_at": "2026-10-22T13:39:29.111Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 40,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

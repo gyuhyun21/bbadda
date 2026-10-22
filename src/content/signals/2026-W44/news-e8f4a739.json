@@ -1,0 +1,23 @@
+{
+  "id": "news-e8f4a739",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "광주드림",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0wWXo3bFA1R3pxaDBzX2RDb0ZXREhkS0o4Y2VKc3JyVVAwN2dNMVJtYWdJMEdsMmJOR1Q4cy1IUEpwZXFJMHl2Z0xxNjNJZVZsM1pGdHRkQzZ0ZnVydmsxOFZvdzZQdERQdnc?oc=5",
+  "title": "가을야구 ‘티켓 전쟁’…학생들은 참전도 못해",
+  "published_at": "2026-10-21T15:00:00.000Z",
+  "collected_at": "2026-10-22T13:39:29.111Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 60,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-8e564afe",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "내외경제TV",
+  "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBqRVFyNkg1VTNtcDlpU3FqVTFBd3REQ0xhMzM2WTlyUHhETnozNjB6VGV2VjdsZEF6Uk1OaHJZV01CSnBUOHJPSFVONWZGTjRwZ0pjeTNqcFpJRGhkajExRnJMN0xzdm9tM0Zj?oc=5",
+  "title": "[헐크 이만수의 힘] 8개월의 기적, '하늘로 쳐' 야구팀과 함께 쏘아 올린 희망의 홈런",
+  "published_at": "2026-10-21T21:00:00.000Z",
+  "collected_at": "2026-10-22T13:39:29.111Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 62,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "news-82fe3077",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "충청타임즈",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1aUDBrV1czZU0zd3A1MFlYTVFqNmRhSDBhNERjTDlkTndad2FNcTlhQVoxS25JYjFoZTBvNy1TemJVa0RqdGwxalBxSU11NXI3NWQ0NGdTODBkc1oxR2t2ZjhPNlNxNFlV?oc=5",
+  "title": "KBO 스타 9명, 홍성 결성면서 야구 꿈나무 키운다",
+  "published_at": "2026-10-22T02:35:00.000Z",
+  "collected_at": "2026-10-22T13:39:29.111Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 80,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "충남내포뉴스",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBwUHVfRGJuRXpIMHhiNDlPSDNjQjdVLVQ4YjB4bUJxUWIycERlUXZmaDlBQkE0ZmlVQXo2VVNZZHFmZHhFV0hacXVUVGdldXNFWUZlTHNuckpCMm1iOFlFYW9aeFFHbVc5clZPWWJn?oc=5"
+    },
+    {
+      "source_name": "중부매일",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1EdVZ4dkU0OXBpZzBtTnYxY3FONzV0eDJLSWpMQ3Q4bURxT2VCaDNKc3VuVGJfemIzWnlkZEctT052NDhfdWowTTJneTI5YkoxWlpfRl9LXzB5RFFORWx3dEczRmJpNGxCQjg1N3V30gFuQVVfeXFMTUR1Vnh2RTQ5cGlnMG1OdjFjcU43NXR4MktJakxDdDhtRHFPZUJoM0pzdW5UYl96YjNaeWRkRy1PTnY0OF91ajBNMmd5MjliSjFaWl9GX0tfMHlEUU5FbHd0RzNGYmk0bEJCODU3dXc?oc=5"
+    }
+  ]
+}

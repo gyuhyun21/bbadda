@@ -1,0 +1,23 @@
+{
+  "id": "news-7a828d20",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "매일신문",
+  "url": "https://www.imaeil.com/page/view/2026102217591484242",
+  "title": "하필 PO 1차전 날 태풍비…`가을비 징크스` 삼성, 또 울까",
+  "published_at": "2026-10-22T08:59:55.000Z",
+  "collected_at": "2026-10-22T13:39:29.111Z",
+  "summary_ko": "플레이오프 1차전 날 태풍비 예보가 나오면서 삼성의 '가을비 징크스'가 다시 거론된다는 매일신문 기사다.",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "삼성, PO 1차전 날 태풍비 변수"
+}

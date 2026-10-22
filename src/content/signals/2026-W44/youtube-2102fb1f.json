@@ -1,0 +1,26 @@
+{
+  "id": "youtube-2102fb1f",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "source_name": "하미",
+  "url": "https://www.youtube.com/watch?v=RpxaFG4EhtM",
+  "title": "한화이글스 연말 결산 해봤습니다.",
+  "published_at": "2026-10-22T11:58:56Z",
+  "collected_at": "2026-10-22T13:39:29.111Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 4,
+    "likes": 1,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 48,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

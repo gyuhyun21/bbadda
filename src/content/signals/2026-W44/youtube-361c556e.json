@@ -1,0 +1,27 @@
+{
+  "id": "youtube-361c556e",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "골글TV",
+  "url": "https://www.youtube.com/watch?v=r--3rhbjsIs",
+  "title": "안타 훔친 정수빈 슈퍼캐치 뒤에 이어진 박준순 결승 3점 홈런! 5회초 말이 만든 기적",
+  "published_at": "2026-10-22T09:15:07Z",
+  "collected_at": "2026-10-22T13:39:29.111Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 703,
+    "likes": 3,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 37,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

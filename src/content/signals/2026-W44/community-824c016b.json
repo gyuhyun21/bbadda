@@ -1,0 +1,24 @@
+{
+  "id": "community-824c016b",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 트라허 스포츠",
+  "url": "https://sports.trendylifehub.com/179",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/9XDxufbIvl8",
+  "title": "야구 홈팀 덕아웃(1루와 3루, 구장별 차이, 응원석 확인)",
+  "published_at": "2026-10-22T21:54:33.000+09:00",
+  "collected_at": "2026-10-22T13:39:29.111Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

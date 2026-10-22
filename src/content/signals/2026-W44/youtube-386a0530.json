@@ -1,0 +1,26 @@
+{
+  "id": "youtube-386a0530",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "youtube",
+  "source_name": "오늘스포츠",
+  "url": "https://www.youtube.com/watch?v=FS5G8EJGF84",
+  "title": "두산 베어스 이영하 — 선발을 접고 9회로 #Shorts",
+  "published_at": "2026-10-22T10:30:34Z",
+  "collected_at": "2026-10-22T13:39:29.111Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 297,
+    "likes": 2,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 34,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

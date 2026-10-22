@@ -1,0 +1,24 @@
+{
+  "id": "community-7623001a",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "레딧 r/KBO",
+  "url": "https://www.reddit.com/r/KBO/comments/1xb0iqb/2026_%EC%8B%A0%ED%95%9C_sol_kbo_postseason_semiplayoff_series_mvp/",
+  "title": "2026 신한 SOL KBO Postseason Semi-Playoff Series MVP",
+  "published_at": "2026-10-19T15:00:00.000Z",
+  "collected_at": "2026-10-22T13:39:29.111Z",
+  "summary_ko": "레딧 KBO 게시판에 KIA 김도영이 준PO MVP에 뽑혔다는 글이 올라왔다.",
+  "excerpt": "... ... KIA Tigers Kim Do-yeong (김도영). News.",
+  "metrics": {},
+  "scores": {
+    "hot": 43,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

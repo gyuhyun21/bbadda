@@ -1,0 +1,23 @@
+{
+  "id": "news-dde53157",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "서울신문",
+  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE01S0FUclRiVlA1SGhDVzVGS3p1YjgwUXVZZjNDT21jenRlSm1halJjTEpfSUV1OUdDS2tYbE1kTG5OUko5OHI4eDNXeXlkSHZ2NEhnSTc0aw?oc=5",
+  "title": "사자 군단, 안방서 호랑이 사냥… 우승 반지 6개 낀 ‘최형우 더비’",
+  "published_at": "2026-10-22T08:52:26.000Z",
+  "collected_at": "2026-10-22T13:39:29.111Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

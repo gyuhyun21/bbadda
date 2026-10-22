@@ -1,0 +1,22 @@
+{
+  "id": "community-9c868b95",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 Ryan's Blog",
+  "url": "https://ryan.tistory.com/956",
+  "title": "LG 트윈스 11명 방출… 장시환 은퇴, 박동원 FA는",
+  "published_at": "2026-10-22T20:24:55.000+09:00",
+  "collected_at": "2026-10-22T13:39:29.111Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-4e21e3e9",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "대구신문",
+  "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0tTGVkX3dhTE9hb2tmWEI4WHNmYm5BSE9NekZ1WHBXVDExdU5UZEptZ2V0U0NRbFFkOFF3SGhJVFppdmxyenp2Z1JFS1hKMFVzUXlvRWdEWUI0MkxCX1FCbUROT3pIQVVQTDhB?oc=5",
+  "title": "청백전 '4안타' 김영웅, 이번 PO서도 만점 활약 펼칠까",
+  "published_at": "2026-10-22T11:18:47.000Z",
+  "collected_at": "2026-10-22T13:39:29.111Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

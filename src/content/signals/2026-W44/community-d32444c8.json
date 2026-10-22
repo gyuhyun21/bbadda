@@ -1,0 +1,24 @@
+{
+  "id": "community-d32444c8",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&page=3&document_srl=10473835695",
+  "title": "아니 나랑 같은 생각 한 애가 풔텡에 있었네 - 야구",
+  "published_at": "2026-10-22T13:23:29.111Z",
+  "collected_at": "2026-10-22T13:39:29.111Z",
+  "summary_ko": "",
+  "excerpt": "... 이번 닛폰햄 방출된 마츠오카랑 롯데 이이무라랑 비교하면 어떰? 한화 이글스 3대 지현 [2]. 8…",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "youtube-a54bc991",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "youtube",
+  "source_name": "세모퀴즈 - 세상의 모든 퀴즈",
+  "url": "https://www.youtube.com/watch?v=sWlvMnhr1_c",
+  "title": "찐 키움팬만 맞힌다!!💥 키움 히어로즈 선수 이름 맞히기 3편⚾️ #인물퀴즈 #야구퀴즈",
+  "published_at": "2026-10-22T12:00:25Z",
+  "collected_at": "2026-10-22T13:39:29.111Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 6,
+    "likes": 1,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 50,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

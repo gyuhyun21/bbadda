@@ -1,0 +1,28 @@
+{
+  "id": "news-b0a223ee",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBfUEtnTHVQVnl0b0xyaVFOYi1zdmx3dzJsYllJVko5UjlVLVVTU2tON3BHRVFMTFVEODl4anlwOGsxVEExZ1pGZ2o5d2FXWmJxQ1JvSmZhM2ZnOWwtQjNQSmhHcVlZbDl6Vk5vbW9aN0R3Uk1FSE1VTjNralNNdw?oc=5",
+  "title": "\"비 온다고? 삼성 악재라고?\" 천만에…2년 전 'KS 잔혹사' 씻을 반전의 먹구름",
+  "published_at": "2026-10-22T09:18:05.000Z",
+  "collected_at": "2026-10-22T13:39:29.111Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 82,
+    "relevance": 70
+  },
+  "sentiment": "negative",
+  "also_in": [
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZ3JremlQT0ZrX1VHNko1OFM5YWFOcG1RbzJUOXNSOHBldVlHN1Y1WXdCeG5iN21xQndzZHExaTFGdjFpQTBJNS1tWUJ5OHRLdjh5N1dWenhuMHZ3ZERzaWVnYzlRdTRCQTVXZS1wQW9MMVJHVnlZTGl1WWR1YzJDZUo5NA?oc=5"
+    }
+  ]
+}
