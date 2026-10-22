@@ -1,0 +1,24 @@
+{
+  "id": "news-a80f68ae",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "SPOTV NEWS",
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA1YzNzX3ZndGhwT3NTS051VWVJV2JtSjNBYVBWTnN3NWRBNlp0Q3ZuWm12VVpnbjdyVlpUZng1VUNPRGZtSUdaVnJwRE54MEExRndyaFZObzF4ZjY1b09pQUJyZEQyT3ozSkU4cmRHR00?oc=5",
+  "title": "가을 김영웅 미쳤다! 홈런+4안타 폭발! 구자욱도 2안타…근데 디아즈 무안타, 최원태 4이닝 4실점",
+  "published_at": "2026-10-22T07:23:46.000Z",
+  "collected_at": "2026-10-22T13:39:29.111Z",
+  "summary_ko": "삼성 김영웅이 홈런 포함 4안타를 쳤고 구자욱도 2안타를 보탰다. 반면 디아즈는 무안타, 최원태는 4이닝 4실점이었다고 보도됐다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "brief_ko": "삼성 김영웅, 홈런+4안타"
+}

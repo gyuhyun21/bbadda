@@ -1,0 +1,24 @@
+{
+  "id": "community-8e1680d4",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "엠엘비파크",
+  "url": "https://mlbpark.donga.com/mp/b.php?id=202610220119598012&p=301&b=bullpen&m=view&site=donga.com&pos=reply",
+  "title": "플레이오프 1차전 전문가 예상",
+  "published_at": "2026-10-22T06:39:29.111Z",
+  "collected_at": "2026-10-22T13:39:29.111Z",
+  "summary_ko": "",
+  "excerpt": "... 스포츠 투아이 인공지능 예측기아 승스포TV 인공지능 예측 삼성 승플레이오프 1차전기아 선…",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

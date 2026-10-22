@@ -1,0 +1,26 @@
+{
+  "id": "youtube-49d97e78",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "youtube",
+  "source_name": "오늘핫이슈",
+  "url": "https://www.youtube.com/watch?v=G_51cKN1GMA",
+  "title": "KT 스기모토 소프트뱅크 지명, 평균자책점 5.90 홀드왕을 일본은 몇 순위로 불렀나",
+  "published_at": "2026-10-22T12:20:30Z",
+  "collected_at": "2026-10-22T13:39:29.111Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 2248,
+    "likes": 9,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 43,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

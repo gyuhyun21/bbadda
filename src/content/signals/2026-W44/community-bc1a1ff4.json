@@ -1,0 +1,24 @@
+{
+  "id": "community-bc1a1ff4",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "레딧 r/KBO",
+  "url": "https://www.reddit.com/r/KBO/comments/1xb0mpa/2026_%EC%8B%A0%ED%95%9C_sol_kbo_postseason_bracket_playoffs/",
+  "title": "2026 신한 SOL KBO Postseason Bracket - Playoffs",
+  "published_at": "2026-10-19T15:00:00.000Z",
+  "collected_at": "2026-10-22T13:39:29.111Z",
+  "summary_ko": "",
+  "excerpt": "... Lions needs to hope they've fixed whatever made them so ... Samsung lions president…",
+  "metrics": {},
+  "scores": {
+    "hot": 43,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

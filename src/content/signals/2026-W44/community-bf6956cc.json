@@ -1,0 +1,23 @@
+{
+  "id": "community-bf6956cc",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "다음카페 쭉빵카페",
+  "url": "https://cafe.daum.net/ok1221/8mNz/1181873",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/C4yt203yOwC",
+  "title": "기아타이거즈 13,517일 만에 포스트시즌 시리즈 승(코시...",
+  "published_at": "2026-10-20T21:58:54.000+09:00",
+  "collected_at": "2026-10-22T13:39:29.111Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 51,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

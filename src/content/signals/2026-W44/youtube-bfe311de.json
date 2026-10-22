@@ -1,0 +1,26 @@
+{
+  "id": "youtube-bfe311de",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "한량대기자",
+  "url": "https://www.youtube.com/watch?v=wxFcJlbb-1Q",
+  "title": "킹을 위한 두루치기 #야구 #기아타이거즈 #김도영 #홈런",
+  "published_at": "2026-10-22T08:45:29Z",
+  "collected_at": "2026-10-22T13:39:29.111Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 4162,
+    "likes": 84,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 59,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

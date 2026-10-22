@@ -1,0 +1,24 @@
+{
+  "id": "community-6bb61719",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&page=8&document_srl=10472104791",
+  "title": "KBO 20개 구단 창설 건의합니다. - 야구",
+  "published_at": "2026-10-22T04:39:29.111Z",
+  "collected_at": "2026-10-22T13:39:29.111Z",
+  "summary_ko": "",
+  "excerpt": "... 삼성 라이온즈SK 와이번스기아 타이거즈LG 트윈스한화 이글스롯데 자이언츠포스코 철붕이즈현대 유니콘스농협 카우즈GS 편붕이즈SSG 랜더스한진 피넛 ...",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

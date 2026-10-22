@@ -1,0 +1,26 @@
+{
+  "id": "youtube-870b6545",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "youtube",
+  "source_name": "트윈스 중독구역",
+  "url": "https://www.youtube.com/watch?v=6QZu9AWnHD8",
+  "title": "#잠실야구장 #굿바이잠실 #LG트윈스 #엘지트윈스",
+  "published_at": "2026-10-22T09:30:39Z",
+  "collected_at": "2026-10-22T13:39:29.111Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 352,
+    "likes": 12,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 57,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "news-104c231f",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "announcement": true,
+  "source_name": "MHN스포츠",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE82MllabmU5RWxqLWVuTU0wdzhCVkdRTVB2dDBnUlpkQV9wMDZ1RDJ4MmZzODJfaE5WQ3c5WjdrZmlGa2F4aDNnSjlMYU52NW9fVjA2bmV1c0tTSEVaMUJxRnliVQ?oc=5",
+  "title": "[오피셜]가을 영웅 김영웅, PO 앞두고 또 터졌다…첫 타석 홈런에 4안타 '공포의 가을 타자' 돌아왔다",
+  "published_at": "2026-10-22T09:59:34.000Z",
+  "collected_at": "2026-10-22T13:39:29.111Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

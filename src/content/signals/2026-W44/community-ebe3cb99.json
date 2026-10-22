@@ -1,0 +1,24 @@
+{
+  "id": "community-ebe3cb99",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/10473432754",
+  "title": "유스팀 기사 한번 올렸었는데 - 야구",
+  "published_at": "2026-10-22T11:39:29.111Z",
+  "collected_at": "2026-10-22T13:39:29.111Z",
+  "summary_ko": "",
+  "excerpt": "... 삼성 라이온즈 지명하겠습니다. 6 분 전 자유 초강력 조회21. 삼성 라이온즈 지명하겠습니다 · 오…",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "news-8e75df9a",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "일간스포츠",
+  "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE53TmZQZEw0UkZ2NzVOTXNOclpmYnkyN2dGcklEaGc5ZnFMYmtJLUE5eDBCMzhhY0tfNVh6Qk1CbGpvdFVKUkduRG5MRzZtdTVHV3JaTnI0a0xNaXM?oc=5",
+  "title": "[IS 피플] '고작 4⅔이닝?' 세월 앞에 낮춘 욕심, 가을 앞에 세운 책임감…양현종의 PS 승부",
+  "published_at": "2026-10-21T21:04:00.000Z",
+  "collected_at": "2026-10-22T13:39:29.111Z",
+  "summary_ko": "양현종이 포스트시즌 등판을 앞두고 욕심을 낮추고 책임감을 앞세웠다는 일간스포츠 인터뷰 기사다.",
+  "metrics": {},
+  "scores": {
+    "hot": 62,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "양현종, 가을엔 책임감 먼저"
+}

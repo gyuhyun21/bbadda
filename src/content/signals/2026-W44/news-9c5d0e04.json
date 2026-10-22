@@ -1,0 +1,23 @@
+{
+  "id": "news-9c5d0e04",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스타뉴스",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBDeDRnUmQxek9HYmJlMWdEVGU0WjB0YzRGSkhQbEwyVVdyZFZjQkVCNEVMTEFpUzVNRG5lV0ZPODZPNWRQMGRFNDhUdEMxNHJzT1ZGcTlPVjlYdWo0VlZjUURnekxhbHNVaV9jRVEwdUZ1dzFQTmc?oc=5",
+  "title": "'한대화 전 감독 참석 눈길' 김포시유소년야구단, 안동시장배 전국대회 우승",
+  "published_at": "2026-10-22T05:59:54.000Z",
+  "collected_at": "2026-10-22T13:39:29.111Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

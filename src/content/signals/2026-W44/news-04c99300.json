@@ -1,0 +1,23 @@
+{
+  "id": "news-04c99300",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "경향신문",
+  "url": "https://www.khan.co.kr/article/202610222037005/amp",
+  "title": "KS행 가르는 ‘원투펀치’…사자·호랑이, 누가 더 강할까",
+  "published_at": "2026-10-22T11:37:00.000Z",
+  "collected_at": "2026-10-22T13:39:29.111Z",
+  "summary_ko": "플레이오프를 앞두고 삼성과 KIA의 원투펀치를 견줘 본 경향신문 기사다. 한국시리즈 진출을 가를 변수로 두 팀 선발진을 짚었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-f45715fa",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "무등일보",
+  "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBlaF8zdzVhRHFEUzVVSFBWNDZUTmRJNm5PS1FxMW1oNHNuNEFmT0dKeE5MSzFCeTVPY0FqWDhYWFZSVk1kNDJYaVQ4RDg?oc=5",
+  "title": "4일 쉬고 원투펀치 재가동···KIA, 삼성과 ´달빛 플레이오프´ 격돌",
+  "published_at": "2026-10-22T07:28:00.000Z",
+  "collected_at": "2026-10-22T13:39:29.111Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 82,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

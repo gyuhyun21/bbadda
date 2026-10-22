@@ -1,0 +1,23 @@
+{
+  "id": "news-ac52aa9c",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠Q",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9zQTBISmtBYlNBeU9XSUtXaFVNajNSX3hYbmFpQnpnTHZMR0hLYmdCbTR3UnlrR3R3aXBENmNDNVhhVi02ZFdHVURvTThPM1lGQmh3dC1QSUlEYTVIa2lBSl9KY29uSzNSdEE?oc=5",
+  "title": "'삼성 천적' 나성범, KIA팬은 설렌다 [플레이오프]",
+  "published_at": "2026-10-22T02:07:28.000Z",
+  "collected_at": "2026-10-22T13:39:29.111Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 72,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

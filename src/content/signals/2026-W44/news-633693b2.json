@@ -1,0 +1,23 @@
+{
+  "id": "news-633693b2",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "SPOTV NEWS",
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9PRGdUOTc1Y0hjbk55SjEzc0VZM0loWlVBYjRDeFRhc2pMRGVrNDhWX0I5Y0JqQmY5bnhlU1Z1RmRnQnN3R2d5WE10X3U2dHVJdWtMTXlDNGcxTkNhQ0tDZ1RBRzktemhqXzRld3pfbFk?oc=5",
+  "title": "日 국가대표+66승 투수가 한국서 처절한 실패라니… 긴급 처지마저 실패, 씁쓸한 작별이다",
+  "published_at": "2026-10-22T08:05:21.000Z",
+  "collected_at": "2026-10-22T13:39:29.111Z",
+  "summary_ko": "일본 국가대표 출신 66승 투수가 한국에서 뜻을 이루지 못하고 작별한다는 SPOTV NEWS 기사다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

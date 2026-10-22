@@ -1,0 +1,23 @@
+{
+  "id": "news-46013410",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "지디넷코리아",
+  "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBIMmJFaFA4c1pxVEU1T1NlaVdfRHF5WndGYlllU2psVnpGTHdhT2FVVGczQ1ZVR2NXOGpJaExtTkQ0cGU4RG56NzNmeFNYU3JLMGIxWE53?oc=5",
+  "title": "\"김도영, 힘차게 날려라~\"…CGV서 가을야구 응원해보니",
+  "published_at": "2026-10-22T06:43:48.000Z",
+  "collected_at": "2026-10-22T13:39:29.111Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "news-3a9b4756",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia",
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠동아",
+  "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE42d08wWDZXTi1mMlN6OVlhcVktcmVlU2YxM2F5TGRsNlFINFJVa1M2enpZUFN0ZGZfekFhcHhFZ2p0bC10TlZzTmtOUUhJOGVlZ2hSOWZUdE1vbFVheFYwd1JTSkRmUjE2Z2RJdXl6VDJiZw?oc=5",
+  "title": "가을야구 최대 변수는 수비…하주석 vs 이재현, PO 타격전 예상 속 야전사령관 대결 눈길",
+  "published_at": "2026-10-22T08:04:23.000Z",
+  "collected_at": "2026-10-22T13:39:29.111Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 82,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

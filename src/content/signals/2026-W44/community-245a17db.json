@@ -1,0 +1,23 @@
+{
+  "id": "community-245a17db",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 스포츠 줌인",
+  "url": "https://blog.naver.com/sport_log/224448695536",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/C3dO81Fqgnw",
+  "title": "준플레이오프서 홈런포 가동한 LG 송찬의 '뼈아픈 수비 실책으로 배운 가을야구의 무게'",
+  "published_at": "2026-10-21T11:25:00.000+09:00",
+  "collected_at": "2026-10-22T13:39:29.111Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 55,
+    "relevance": 70
+  },
+  "sentiment": "mixed"
+}

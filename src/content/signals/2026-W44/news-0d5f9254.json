@@ -1,0 +1,22 @@
+{
+  "id": "news-0d5f9254",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "광주드림",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5lLUZxc0N5NjBKd2U4QUg1eE9JbkVaU0xxMXpiQTI2Ul9SRHhLc3hzeTJleEVYUkRjeW1rMW5XY2tyb200WWp5aVJ3bTU1alNmMmhIZ18wbGhpV2JEbjZ0VDFscl9USmsxRmc?oc=5",
+  "title": "‘KIA’만큼 치열한 팬들의 가을 야구",
+  "published_at": "2026-10-21T15:15:00.000Z",
+  "collected_at": "2026-10-22T13:39:29.111Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 60,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

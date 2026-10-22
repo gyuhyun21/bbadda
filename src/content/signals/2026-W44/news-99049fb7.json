@@ -1,0 +1,23 @@
+{
+  "id": "news-99049fb7",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "조선일보",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaVg4T0l1RlBPVHRCVnJadERyd1lldjJBOV8tcS1WQkcxT2x1MGFPTEZCdEo1T2VQLWVkaUtVWlR1YnNrMlFXOWVURVJHejJvU05MMHNlN3VScU9nQVFPTnVEcEpydnZXTUNhTEMtUjZ1cjhuUWtjcVZyMjBOVm93cng5RQ?oc=5",
+  "title": "'개막전 주전 써볼까' 그러다 사라진, 충격의 1군 0경기 신인...19안타 중 10개가 장타라는데",
+  "published_at": "2026-10-22T09:18:00.000Z",
+  "collected_at": "2026-10-22T13:39:29.111Z",
+  "summary_ko": "조선일보는 1군 0경기에 그친 두산 신인의 교육리그 성적을 소개했다. 19안타 중 10개가 장타라고 한다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-3ec59f40",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "이투데이",
+  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE51N3hTSVozelFTQmdUZ2xPbXRjZ1l1YWpmSDlfclg1MUI5S1haaVFwUWpyOHJieUI5ZGpocWczYVNfUmNfbWk4VW1mVUhCWHc3dzZXdTFSc1JnYnVQbk1wZ3NrNHdxbjJ1NlloVU1SX3RMbG1X?oc=5",
+  "title": "준PO 탈락 LG, 선수 11명과 결별⋯장시환ㆍ송대현 은퇴",
+  "published_at": "2026-10-22T05:34:00.000Z",
+  "collected_at": "2026-10-22T13:39:29.111Z",
+  "summary_ko": "준PO에서 탈락한 LG가 선수 11명과 결별했고 장시환·송대현은 은퇴한다고 보도됐다.",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "LG, 11명 결별·장시환 은퇴"
+}

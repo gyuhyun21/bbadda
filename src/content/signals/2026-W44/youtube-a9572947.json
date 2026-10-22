@@ -1,0 +1,27 @@
+{
+  "id": "youtube-a9572947",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "직관마려워",
+  "url": "https://www.youtube.com/watch?v=QUvLasPxDYI",
+  "title": "기아vs삼성 몇 차전까지 갈까?  #삼성라이온즈 #기아타이거즈 #야구",
+  "published_at": "2026-10-22T08:54:51Z",
+  "collected_at": "2026-10-22T13:39:29.111Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 129435,
+    "likes": 1999,
+    "comments": 261
+  },
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

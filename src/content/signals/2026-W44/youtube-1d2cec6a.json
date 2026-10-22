@@ -1,0 +1,26 @@
+{
+  "id": "youtube-1d2cec6a",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "youtube",
+  "source_name": "느낌표",
+  "url": "https://www.youtube.com/watch?v=cpoXnJI-DQ4",
+  "title": "2026 두산베어스 결산 | KickFlip(킥플립) - Twenty",
+  "published_at": "2026-10-22T10:30:34Z",
+  "collected_at": "2026-10-22T13:39:29.111Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 65,
+    "likes": 15,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 61,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

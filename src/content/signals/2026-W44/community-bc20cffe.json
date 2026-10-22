@@ -1,0 +1,24 @@
+{
+  "id": "community-bc20cffe",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&page=5&document_srl=10472335742",
+  "title": "대구 가면 1박 어케하지 - 야구",
+  "published_at": "2026-10-21T15:00:00.000Z",
+  "collected_at": "2026-10-22T13:39:29.111Z",
+  "summary_ko": "",
+  "excerpt": "... 삼성 라이온즈 자체 청백전(2026.10.22) 라팍. 7 분 전 자유 브포유럽삼성우승 조회82 추천2. [TBC뉴스] 여기로!…",
+  "metrics": {},
+  "scores": {
+    "hot": 60,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-182dcb41",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠서울",
+  "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9EOTBCZ1Vmb2ZLUE5DSjJUZ3BQbGxUX19KdlRCakxDWm85cUV1ZjYyME9Tdm5oaldUeDVqM01LUjdOemtVU0ZYLU81dTRJc0Y3YkhKR3p4V2E?oc=5",
+  "title": "‘최원태 상대 홈런’ 김영웅 “어제 (최)원태 형이 밥 사줬는데”…후배 ‘기’ 제대로 살려줬네! [백스톱]",
+  "published_at": "2026-10-22T09:13:31.000Z",
+  "collected_at": "2026-10-22T13:39:29.111Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

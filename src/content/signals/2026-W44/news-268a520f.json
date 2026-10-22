@@ -1,0 +1,23 @@
+{
+  "id": "news-268a520f",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "연합뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9HVDEwbUpTMWhCcUVYcTgta2pjVjhKZWhROGpqeDZPY1VQMFNYZGxHQl8wVFp1NG5NWnFjMkRfM3FueWhNTGV6MTFvY1E1dXZjZlhyeEQ0RnNuQUJVLWFzM9IBYEFVX3lxTE9HVDEwbUpTMWhCcUVYcTgta2pjVjhKZWhROGpqeDZPY1VQMFNYZGxHQl8wVFp1NG5NWnFjMkRfM3FueWhNTGV6MTFvY1E1dXZjZlhyeEQ0RnNuQUJVLWFzMw?oc=5",
+  "title": "알몬티대한중석, 폐교 위기 넘긴 상동고 야구부 4년째 후원",
+  "published_at": "2026-10-22T02:02:54.000Z",
+  "collected_at": "2026-10-22T13:39:29.111Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "community-e8099c19",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "community",
+  "source_name": "디시 야구 갤러리",
+  "url": "https://gall.dcinside.com/board/view?id=ktwiz&no=6269721",
+  "title": "kt 위즈",
+  "published_at": "2026-10-13T00:00:00.000Z",
+  "collected_at": "2026-10-22T13:39:29.111Z",
+  "summary_ko": "",
+  "excerpt": "... 제일 최근 이슈 많이된사람 부르니까 누구려나. 10.14 20:53. '콱갤러'는 갤러리에서 권장하는 비회원 전용 갤닉네임입니다.",
+  "metrics": {},
+  "scores": {
+    "hot": 8,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

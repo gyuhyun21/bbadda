@@ -1,0 +1,24 @@
+{
+  "id": "community-6a212746",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "레딧 r/KBO",
+  "url": "https://www.reddit.com/r/KBO/comments/1x2z5u4/2026_kbo_league_october_1112/",
+  "title": "2026 KBO League: October 11-12",
+  "published_at": "2026-10-10T00:00:00.000Z",
+  "collected_at": "2026-10-22T13:39:29.111Z",
+  "summary_ko": "",
+  "excerpt": "... [Updated Today's KBO] This EV of 178 km/111 mph ends NC Dinos pitcher Lim…",
+  "metrics": {},
+  "scores": {
+    "hot": 8,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

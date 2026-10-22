@@ -1,0 +1,27 @@
+{
+  "id": "youtube-0d69487e",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "youtube",
+  "source_name": "김알 - 김팀장이 알아봤다!",
+  "url": "https://www.youtube.com/watch?v=3NnTGWoMYMY",
+  "title": "키움 히어로즈 8명 방출! 1차 지명 박주성도 결국 떠났다… ⚾ #키움히어로즈 #KBO #박주성 #shorts",
+  "published_at": "2026-10-22T08:28:58Z",
+  "collected_at": "2026-10-22T13:39:29.111Z",
+  "summary_ko": "키움이 1차 지명 박주성 등 8명을 방출했다는 팬 채널 영상이다.",
+  "metrics": {
+    "views": 3937,
+    "likes": 8,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 44,
+    "relevance": 70
+  },
+  "sentiment": "negative",
+  "brief_ko": "키움, 박주성 등 8명 방출"
+}

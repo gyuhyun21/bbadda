@@ -1,0 +1,23 @@
+{
+  "id": "news-14b52f7d",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "news",
+  "source_name": "한스경제",
+  "url": "https://www.hansbiz.co.kr/news/articleView.html?idxno=875433",
+  "title": "KT 힐리어드, 아빌라·최원준 제치고 9~10월 MVP",
+  "published_at": "2026-10-22T12:33:07.000Z",
+  "collected_at": "2026-10-22T13:39:29.111Z",
+  "summary_ko": "KT 힐리어드가 아빌라·최원준을 제치고 9~10월 MVP로 뽑혔다고 보도됐다.",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "brief_ko": "KT 힐리어드, 9~10월 MVP"
+}

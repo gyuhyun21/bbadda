@@ -1,0 +1,22 @@
+{
+  "id": "news-47f0a844",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠서울",
+  "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE83ajZtNlFlVkNaSC1wQ1NpZmRpeHVxdllHMlJ5LVo2OTdmNVhQaGh4MXVZTHF1Z005Tkh2aUg2anhqUkMxeE9fbjFhZnhlcnhscnNwZWV4enQ?oc=5",
+  "title": "‘홈런+4안타’ 김영웅-김지찬·김성윤 ‘6안타 합작’-구자욱 2안타…삼성, 최종 리허설 끝냈다 [SS대구in]",
+  "published_at": "2026-10-22T08:16:37.000Z",
+  "collected_at": "2026-10-22T13:39:29.111Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

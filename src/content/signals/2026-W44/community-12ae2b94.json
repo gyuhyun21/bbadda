@@ -1,0 +1,24 @@
+{
+  "id": "community-12ae2b94",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&category=4332282&document_srl=10472819536",
+  "title": "10개 구단 체제 팀 준플레이오프 OPS TOP 8 - 야구",
+  "published_at": "2026-10-22T08:39:29.111Z",
+  "collected_at": "2026-10-22T13:39:29.111Z",
+  "summary_ko": "",
+  "excerpt": "... [오피셜]LG, FA 박동원 잡을 수 있다는 자신감의 표현일까...베테랑 포수 ... 준PO 탈락 LG, 선수단…",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}
