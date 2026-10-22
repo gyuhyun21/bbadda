@@ -1,0 +1,24 @@
+{
+  "id": "community-1b962c45",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "엠엘비파크",
+  "url": "https://mlbpark.donga.com/mp/b.php?id=202610220119596905&p=1&b=kbotown&m=view&select=spf&query=KIA&site=donga.com&pos=reply",
+  "title": "역대 타이거즈 War 연도별 1위 (타자편)",
+  "published_at": "2026-10-22T05:38:10.169Z",
+  "collected_at": "2026-10-22T07:38:10.169Z",
+  "summary_ko": "",
+  "excerpt": "... 2026 KBO. 팀 순위 바로가기. 10월 25일 (일). 14:00 대구 경기전. KIA. 삼성 홈.…",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

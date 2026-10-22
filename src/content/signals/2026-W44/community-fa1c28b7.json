@@ -1,0 +1,24 @@
+{
+  "id": "community-fa1c28b7",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&document_srl=10471938394",
+  "title": "김주성 툴가이로 뽑아서 남주면 터질까봐 트레이드나 방출은 못하겠고",
+  "published_at": "2026-10-22T02:38:10.169Z",
+  "collected_at": "2026-10-22T07:38:10.169Z",
+  "summary_ko": "",
+  "excerpt": "... [전국체전]키움 히어로즈 6라운더 충암고 내야수 배정호 오늘자 홈런 포함 멀티 히트 및 3루 수비…",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

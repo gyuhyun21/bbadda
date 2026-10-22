@@ -1,0 +1,34 @@
+{
+  "id": "news-6d803ab6",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스1",
+  "url": "https://www.news1.kr/sports/baseball/6327728",
+  "title": "'우승 함께한 동료가 적으로'…삼성-KIA PO는 '최형우 더비'",
+  "published_at": "2026-10-21T21:00:00.000Z",
+  "collected_at": "2026-10-22T07:38:10.169Z",
+  "summary_ko": "뉴스1은 삼성-KIA PO를 우승을 함께한 동료가 적으로 만나는 '최형우 더비'라고 소개했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 96,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1zbC1pQWxVYVVONTRtYXNka2llQmhIYjBPS1V0Yk82bzNHUjJ5Z1poT2NFWkdXVmx3amNucHNHNjlWbFN1OTNsbXJiN0dJZnQ1NVVNQzREWTRkVUZieFVpMklnYTNFcWNBaURoUTY5R2dUSDJmeFV6WNIBeEFVX3lxTE1zbC1pQWxVYVVONTRtYXNka2llQmhIYjBPS1V0Yk82bzNHUjJ5Z1poT2NFWkdXVmx3amNucHNHNjlWbFN1OTNsbXJiN0dJZnQ1NVVNQzREWTRkVUZieFVpMklnYTNFcWNBaURoUTY5R2dUSDJmeFV6WA?oc=5"
+    },
+    {
+      "source_name": "이투데이",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5TTXJoYTQ4WFNUUENzNUV2ZWxqWWFtbHZXeXBVSG9MOS0zUkZuczlHQlkzblAtbUtxTUFTMnZobldLZGFjLXN6RDkyQ3pDR05kZk1mWQ?oc=5"
+    }
+  ],
+  "brief_ko": "삼성-KIA PO는 '최형우 더비'"
+}

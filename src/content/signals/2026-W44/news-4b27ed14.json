@@ -1,0 +1,23 @@
+{
+  "id": "news-4b27ed14",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "대구MBC",
+  "url": "https://dgmbc.com/NewsArticle/868938",
+  "title": "라팍은 벌써 가을 모드···삼성라이온즈 자체 청백전, 타격감 회복 엿보여",
+  "published_at": "2026-10-22T07:07:28.000Z",
+  "collected_at": "2026-10-22T07:38:10.169Z",
+  "summary_ko": "대구MBC는 삼성이 자체 청백전에서 타격감 회복의 가능성을 보였다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "삼성, 청백전서 타격감 회복"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "community-6148ce50",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&page=6&document_srl=10472240300",
+  "title": "오늘 먹은 빅아치 후기 - 야구",
+  "published_at": "2026-10-22T04:38:10.169Z",
+  "collected_at": "2026-10-22T07:38:10.169Z",
+  "summary_ko": "",
+  "excerpt": "... 10만번이요? 10 분 전 자유 최강기아타이거즈 조회221. ㅇ? 10만번이요? 또 쳐 안 뜨 네.…",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

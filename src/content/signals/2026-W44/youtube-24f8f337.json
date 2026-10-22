@@ -1,0 +1,28 @@
+{
+  "id": "youtube-24f8f337",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "kt wiz - 위즈TV",
+  "url": "https://www.youtube.com/watch?v=v7r7XEnnD5w",
+  "title": "최애에게 이름을 알린 스기 성덕되다🥳",
+  "published_at": "2026-10-22T03:00:00Z",
+  "collected_at": "2026-10-22T07:38:10.169Z",
+  "summary_ko": "KT 공식 채널 위즈TV가 스기 선수가 최애 선수에게 이름을 알린 '성덕' 영상을 올렸다.",
+  "metrics": {
+    "views": 13413,
+    "likes": 814,
+    "comments": 62
+  },
+  "scores": {
+    "hot": 91,
+    "relevance": 50
+  },
+  "sentiment": "neutral",
+  "brief_ko": "스기, 성덕 됐다"
+}

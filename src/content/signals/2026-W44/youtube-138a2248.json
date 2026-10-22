@@ -1,0 +1,26 @@
+{
+  "id": "youtube-138a2248",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "youtube",
+  "source_name": "안방마님안중열",
+  "url": "https://www.youtube.com/watch?v=eTCEyC6pJ6U",
+  "title": "🦖KBO NC 다이노스 NO.5 서호철 등장곡+응원가🦕",
+  "published_at": "2026-10-22T06:24:42Z",
+  "collected_at": "2026-10-22T07:38:10.169Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1,
+    "likes": 1,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 44,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

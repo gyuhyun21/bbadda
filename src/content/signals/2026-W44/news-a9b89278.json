@@ -1,0 +1,23 @@
+{
+  "id": "news-a9b89278",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠서울",
+  "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9LTkFpTnhRSGl3N253TENOMmtSODk0NTZtdkVYLXVXSVktb3d5VWNCMFM3bnBkS3RGNml0SmtHSklxU0c0NE01Rm5rQTUwd3JMd240THZRQUk?oc=5",
+  "title": "“키 플레이어 구자욱” 핵심은 결국 ‘수비’…캡틴이 ‘DH’ 나가면 어떻게 되나 [SS대구in]",
+  "published_at": "2026-10-22T04:30:34.000Z",
+  "collected_at": "2026-10-22T07:38:10.169Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-e5d069d0",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "news",
+  "source_name": "일요신문",
+  "url": "https://www.ilyo.co.kr/?ac=article_view&entry_id=513254",
+  "title": "중견수 FA 시장 참전할까…한화 이글스 류지현 신임 감독이 풀어야 할 과제",
+  "published_at": "2026-10-22T02:27:31.000Z",
+  "collected_at": "2026-10-22T07:38:10.169Z",
+  "summary_ko": "일요신문은 한화 류지현 신임 감독이 풀어야 할 과제로 중견수 FA 시장 참전 여부를 꼽았다.",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "한화, 중견수 FA 참전할까"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "community-1ab6029d",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&page=3&document_srl=10472044671",
+  "title": "김주성은 방출 안시킨게 아니라 못 시킨거지 - 야구",
+  "published_at": "2026-10-22T03:38:10.169Z",
+  "collected_at": "2026-10-22T07:38:10.169Z",
+  "summary_ko": "",
+  "excerpt": "... 장시환이 은퇴하며 우리-서울 히어로즈 출신도 전원 은퇴함 [2]. 5 분 전 ... 롯; 9.…",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

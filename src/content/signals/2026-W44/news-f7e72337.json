@@ -1,0 +1,29 @@
+{
+  "id": "news-f7e72337",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9KVlN0WXJmTVBtZVd5UmIyUnFtY0V5SERNc05qRnJNNE8yVnYyNjhiX1BENnFqbnNnRVl6Qm5tM1c5bVBsS0lPd0N4NEhNbzdMSVpsVWhTcklsZHp5azR2dk4tZzg4YURRZHVNSGEzQdIBb0FVX3lxTE9KVlN0WXJmTVBtZVd5UmIyUnFtY0V5SERNc05qRnJNNE8yVnYyNjhiX1BENnFqbnNnRVl6Qm5tM1c5bVBsS0lPd0N4NEhNbzdMSVpsVWhTcklsZHp5azR2dk4tZzg4YURRZHVNSGEzQQ?oc=5",
+  "title": "150km 되찾은 우승 클로저→첫 가을 152km 무실점 영건→박해민 잡은 155km 좌완특급...삼성 강타선 만나는 KIA 불펜 뒷배 생겼다",
+  "published_at": "2026-10-22T00:10:00.000Z",
+  "collected_at": "2026-10-22T07:38:10.169Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 81,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "미주중앙일보",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBwWlVTV3VhWGxySGVGTEF5VzgtWUo5a1R5aTRZMUY1OVZLZmlDLUh5OG96UTJiQktUaURUaGZOME10Q0Y0VkFKWGlGSUxnLTVxUHZZbENObEZ0MjZ1cVhzSkRn?oc=5"
+    }
+  ]
+}

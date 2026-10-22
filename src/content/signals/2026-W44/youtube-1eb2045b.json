@@ -1,0 +1,26 @@
+{
+  "id": "youtube-1eb2045b",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "스포츠머그 - SPORTSMUG",
+  "url": "https://www.youtube.com/watch?v=yGUtSgPbqL8",
+  "title": "뜨거운 KIA 타선에도 최형우가 크게 신경 쓰지 않는 이유 #Shorts / 스포츠머그",
+  "published_at": "2026-10-22T06:16:56Z",
+  "collected_at": "2026-10-22T07:38:10.169Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 10715,
+    "likes": 104,
+    "comments": 27
+  },
+  "scores": {
+    "hot": 60,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

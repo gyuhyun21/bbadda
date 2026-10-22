@@ -1,0 +1,22 @@
+{
+  "id": "news-bdb1a863",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠동아",
+  "url": "https://sports.donga.com/sports/article/all/20261022/134890392/1",
+  "title": "‘2차례 실전도 완벽’ AG 다녀와 확 달라진 삼성 배찬승, ‘0이닝 3실점’ 첫 PO의 아픔을 지울까",
+  "published_at": "2026-10-22T06:45:45.000Z",
+  "collected_at": "2026-10-22T07:38:10.169Z",
+  "summary_ko": "스포츠동아는 삼성 배찬승이 아시안게임을 다녀온 뒤 달라졌다며 첫 PO에서 지난 아픔을 지울지 짚었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

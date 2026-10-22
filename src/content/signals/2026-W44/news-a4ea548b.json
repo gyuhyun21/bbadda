@@ -1,0 +1,22 @@
+{
+  "id": "news-a4ea548b",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "news",
+  "source_name": "여성신문",
+  "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB4aXRwelpIa09Wb29lMFZVTWh3c3VlVE9kWEpvTGp3cUVNRE9UWUk4YVQ3cGJzcklEZVIzcUd3cUx5MDZLazFhQ0FsZU51Wmg2amNIMGhxMlVLa1RtX3Q4al9KZjVLdVZwWjI0WXFOVkFSa0HSAXNBVV95cUxQeGl0cHpaSGtPVm9vZTBWVU1od3N1ZVRPZFhKb0xqd3FFTURPVFlJOGFUN3Bic3JJRGVSM3FHd3FMeTA2S2sxYUNBbGVOdVpoNmpjSDBocTJVS2tUbV90OGpfSmY1S3VWcFoyNFlxTlZBUmtB?oc=5",
+  "title": "'음주 교통사고' 이용규 전 키움 코치 불구속 기소",
+  "published_at": "2026-10-22T02:28:41.000Z",
+  "collected_at": "2026-10-22T07:38:10.169Z",
+  "summary_ko": "여성신문에 따르면 이용규 전 키움 코치가 음주 교통사고 혐의로 불구속 기소됐다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

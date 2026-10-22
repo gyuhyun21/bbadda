@@ -1,0 +1,24 @@
+{
+  "id": "news-798d775e",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스1",
+  "url": "https://www.news1.kr/local/gwangju-jeonnam/6328703",
+  "title": "KIA·삼성 플레이오프 3차전, 2분도 안 돼 매진…곧장 '5배 암표'",
+  "published_at": "2026-10-22T06:05:17.000Z",
+  "collected_at": "2026-10-22T07:38:10.169Z",
+  "summary_ko": "뉴스1은 KIA·삼성 플레이오프 3차전 표가 2분도 안 돼 매진됐다고 전했다. 곧바로 5배 가격의 암표가 나왔다고 한다.",
+  "metrics": {},
+  "scores": {
+    "hot": 83,
+    "relevance": 80
+  },
+  "sentiment": "neutral",
+  "brief_ko": "PO 3차전 표 2분 만에 매진"
+}

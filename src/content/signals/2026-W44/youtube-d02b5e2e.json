@@ -1,0 +1,27 @@
+{
+  "id": "youtube-d02b5e2e",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "밤톨파파",
+  "url": "https://www.youtube.com/watch?v=U6d4ovZ7HMQ",
+  "title": "가을 달빛시리즈 개막! #달빛시리즈 #KIA타이거즈 #삼성라이온즈 #KBO #2026KBO #가을야구 #플레이오프 #김도영 #구자욱 #야구쇼츠",
+  "published_at": "2026-10-22T04:30:16Z",
+  "collected_at": "2026-10-22T07:38:10.169Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 2,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 6,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

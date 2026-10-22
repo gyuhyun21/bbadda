@@ -1,0 +1,30 @@
+{
+  "id": "news-f45e9326",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung",
+    "kt"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9WRU5MZEJTWGVRelY4eDNLVzIwWVM3M0lpZGxOb19leGM5bUhGZTRrTWpkNXl1LW9kUldYY3RvR1JqbU4teFF0UlBaRzZLRXQzX09NWHlkU0ExdV91aWNUWkduNXZHdHZPclhIdVE1QdIBb0FVX3lxTE9WRU5MZEJTWGVRelY4eDNLVzIwWVM3M0lpZGxOb19leGM5bUhGZTRrTWpkNXl1LW9kUldYY3RvR1JqbU4teFF0UlBaRzZLRXQzX09NWHlkU0ExdV91aWNUWkduNXZHdHZPclhIdVE1QQ?oc=5",
+  "title": "\"우리 마무리가 강하지 않을까\" KS MVP도 믿는 23세 국대 수호신, KIA·삼성 상대 ERA 1점대... KT도 조용히 웃는다",
+  "published_at": "2026-10-22T01:54:31.000Z",
+  "collected_at": "2026-10-22T07:38:10.169Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 90,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBOc3h6UTR5RXNLUi1MTC1saWMzdUtZOTU2bkJCRjQ2UFVIVFRfNnlrc1dJOGxUZVd6ZDJmX2lWVk5XUTRGMzJOOXpHS1RibGo3dHhFZC1BT2pwaEVzUndOYkJjRENYQldJcUdBdTNVck80aWo4NlE?oc=5"
+    }
+  ]
+}

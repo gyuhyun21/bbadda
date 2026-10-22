@@ -1,0 +1,23 @@
+{
+  "id": "news-1d8dd98f",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "아이뉴스24",
+  "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5JU1YwVzE0NHg2aEUyaWVDMkxQSmd4TkVEUmlzVW5VQk9RNDl3M01lb2pWN0RtZVh4b2k0YVJQNU1mbEZrOUxMWQ?oc=5",
+  "title": "'前 야구 국가대표' 이용규, '음주사고' 혐의로 기소⋯경찰차까지 들이받아",
+  "published_at": "2026-10-22T00:37:00.000Z",
+  "collected_at": "2026-10-22T07:38:10.169Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

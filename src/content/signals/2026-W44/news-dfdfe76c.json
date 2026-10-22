@@ -1,0 +1,23 @@
+{
+  "id": "news-dfdfe76c",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "위키트리",
+  "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5wVWtKQWR6akpPTnNSZ2JMN2ZoMHBsNGJ6NnAtLU5pbUpTQ2ptbU03VE5Mcml1X1dxcGxHQ0JGVjlvVnVxWHFrUnFiRnVmODEzalJ5SnF3?oc=5",
+  "title": "경찰차까지 들이받고 멈춰… 음주사고 낸 전 야구 국가대표, 결국 ‘이렇게’ 됐다",
+  "published_at": "2026-10-22T02:46:00.000Z",
+  "collected_at": "2026-10-22T07:38:10.169Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

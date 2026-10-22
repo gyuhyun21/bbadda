@@ -1,0 +1,29 @@
+{
+  "id": "news-1d5d9e2d",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5VQmZuLVRvUTlacmRLS1p2V3VzMklBbXhtazJMcjZrVXJBVl9sYzYtMFRGYkpxZHdiR2lKcm0zYmc5b2dJQlNXRmc4OFg3Y19PUEpYZkhIUnJXZi03elZ1RUlEZXFqSE1yRzZzc2hDMW4xLWFub0JHblRnS0xwQQ?oc=5",
+  "title": "\"우승 비결? 묻는 사람 1도 없다\" 데뷔 21년차, 한국시리즈 MVP가 곁에 있는데 외면? 이유가 뭘까 [수원포커스]",
+  "published_at": "2026-10-22T01:20:11.000Z",
+  "collected_at": "2026-10-22T07:38:10.169Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 90,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNS2VMc0dKOHlvNm1uT0Q5dl94c1FkcFFBcVBESjBINEV1WldtUmJMVnpiWHlYV0NMX09EWHpJYnNlekxwSExGellOSkRqeGFBV3cxdVVOZWZuV1JQVlg2VGNST0RrVE1Xa3RTUU1ocHhxS0pUSWl5LVZqV0VEYUwyUE53aw?oc=5"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "news-0018ac5a",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "KBC광주방송",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5yUXhWQWJSaC14SWNUb1NNVkVtT1VLZndFQy1iRHp4N0pySk92YnVhYlFHZTlfdTdEcFRrVW0wQ21xS1hhNWR6bEJWMlZwcXlWRWt6a2dGWHhoemQ3RVFhaQ?oc=5",
+  "title": "45홈런 중 9개가 삼성전…'자연재해급' 김도영, 더 뜨거워져 돌아왔다",
+  "published_at": "2026-10-21T23:30:01.000Z",
+  "collected_at": "2026-10-22T07:38:10.169Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

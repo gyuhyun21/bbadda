@@ -1,0 +1,26 @@
+{
+  "id": "youtube-5b27991a",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "youtube",
+  "source_name": "엘지사모",
+  "url": "https://www.youtube.com/watch?v=JePA9HYJ8t0",
+  "title": "'엘지트윈스' 단장의 시간이 오다. 차단장이 당장 해결해야 되는 우선순위.",
+  "published_at": "2026-10-22T00:40:58Z",
+  "collected_at": "2026-10-22T07:38:10.169Z",
+  "summary_ko": "LG 팬 채널 '엘지사모'가 새 단장이 당장 해결해야 할 우선순위를 짚었다.",
+  "metrics": {
+    "views": 8852,
+    "likes": 95,
+    "comments": 48
+  },
+  "scores": {
+    "hot": 62,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

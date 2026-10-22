@@ -1,0 +1,22 @@
+{
+  "id": "news-f7f346b2",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스투데이",
+  "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8ydXBjWm01NHV3Tzh5VkNRWVhSLWFyNkxjcWV0VS1QMDNSUUxLSkE0U2RmWWY3UDhhZGtLQTZzMEF6ZlRZakI1RVFiR2hXcWlyMDV1eE1jeTJGaHZUbUE?oc=5",
+  "title": "[재계 인사이드] 롯데, 주목받는 신유열 부사장 승진과 야구감독",
+  "published_at": "2026-10-22T04:25:00.000Z",
+  "collected_at": "2026-10-22T07:38:10.169Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

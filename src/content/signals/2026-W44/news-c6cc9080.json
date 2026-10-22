@@ -1,0 +1,22 @@
+{
+  "id": "news-c6cc9080",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "news",
+  "source_name": "일간스포츠",
+  "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5iRGNoUWF2R2xmZC1kcE8yZ0wwajdEU1gzUEJpcWNQZERJRlRHSDVYalBTc2xoaDQzT2hseWtvR0xwUkx2ODF2QTctWXVkdmZWeTVxMV9WZnRMdzQ?oc=5",
+  "title": "'3트랙' SSG, 핵심 투수 5명 일본 선행 파견…바이오메카닉스로 기량 점검",
+  "published_at": "2026-10-22T01:56:00.000Z",
+  "collected_at": "2026-10-22T07:38:10.169Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

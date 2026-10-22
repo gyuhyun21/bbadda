@@ -1,0 +1,26 @@
+{
+  "id": "youtube-0ec15cce",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "youtube",
+  "source_name": "ProAction Spot",
+  "url": "https://www.youtube.com/watch?v=Fst3O6EsSLw",
+  "title": "롯데 자이언츠 왜 아직도 침묵하나? 11월 4일 미야자키 캠프 임박! 롯데 감독 인선, 시간 없다 #김태형감독 #롯데자이언츠뉴스",
+  "published_at": "2026-10-22T05:34:59Z",
+  "collected_at": "2026-10-22T07:38:10.169Z",
+  "summary_ko": "롯데 팬 채널이 11월 4일 미야자키 캠프가 다가오는데 감독 인선이 늦어지고 있다고 짚었다.",
+  "metrics": {
+    "views": 156,
+    "likes": 2,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 38,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

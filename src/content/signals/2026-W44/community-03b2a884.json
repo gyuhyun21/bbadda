@@ -1,0 +1,24 @@
+{
+  "id": "community-03b2a884",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "엠엘비파크",
+  "url": "https://mlbpark.donga.com/mp/b.php?id=202610220119594568&p=121&b=kbotown&m=view&site=donga.com&pos=reply",
+  "title": "외국인 선수들은 어케 될까요..?",
+  "published_at": "2026-10-22T03:38:10.169Z",
+  "collected_at": "2026-10-22T07:38:10.169Z",
+  "summary_ko": "",
+  "excerpt": "... 웨스 벤자민 잭 로그 타카다 타쿠토 유니오 세베리노 솔직히 저는 벤자민이랑 타카다는 계속 데리고…",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

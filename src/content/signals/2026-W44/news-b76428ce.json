@@ -1,0 +1,23 @@
+{
+  "id": "news-b76428ce",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "www.hidomin.com",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBvR3VvRk9Eck5ReC1LdVFQZVVWNG1lRU1udm03S1dYVHgyVVBRWUkyMlZILXlkc2U4OGxRdmxwTDRBbzMyU2NHbUFxcTgyZURreDA1SDZaaFpIaUFaU2tkZjAxNUZPelFaMEE?oc=5",
+  "title": "3만원짜리 표가 14만원... 프로야구 플레이오프 암표 극성",
+  "published_at": "2026-10-22T04:38:00.000Z",
+  "collected_at": "2026-10-22T07:38:10.169Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

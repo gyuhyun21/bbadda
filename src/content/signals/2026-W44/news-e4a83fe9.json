@@ -1,0 +1,24 @@
+{
+  "id": "news-e4a83fe9",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "ssg",
+  "teams": [
+    "ssg",
+    "lg",
+    "kt"
+  ],
+  "source_type": "news",
+  "source_name": "SPOTV NEWS",
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE03SXJaMUw4TkZGTWwxUl9oRVZnbWhnLW9aeFNkWEtGbWhuVm0tTktUZFNieGhpeWZYUl9UMnp0cGlGZk0tTDZ6Q01odkhmbldwNU9FbGd5aXpuLVV4em4yd0ZYc1M5QnczbGNkTE82enU?oc=5",
+  "title": "SSG 방출생도, LG에 방출 요청 투수도, KT서 칼바람 맞았다…선수 10명 재계약 불발",
+  "published_at": "2026-10-22T06:16:16.000Z",
+  "collected_at": "2026-10-22T07:38:10.169Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

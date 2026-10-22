@@ -1,0 +1,23 @@
+{
+  "id": "news-3ecbce8e",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "뉴스워커",
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBWWEN0TmFic0NCNmpJOXducDZPdDN3N01ndEs0dGl1elhjLW9RdFoyNS1GT0ZXWVFtdTlWTmk4OWZfRXM5NlVZRTVqc0FIZFM1OHY4dlh4bW5ZWVpjNTl5TDQtcmFpaERKTy1xZ29wbWzSAXRBVV95cUxPd0dydlNMQTBsclNMTy1ETF83T3JNYktObmF6UHNPb2xtYnlIbDVkM21xdGkxVUVINnRzbXdOQmNHdkVETkF6YUQ2akxsUFdSLXRLYVFBX1RwTWU5NFdZN0VMMW9Ib3V0UzhqelYzN0lKT19ZMg?oc=5",
+  "title": "[뉴스워커_스포츠] 폭풍전야 대구야구장, 월드컵 부적 vs 통산 최초 업셋... 한국시리즈 기록 깰 승자는?",
+  "published_at": "2026-10-22T02:15:01.000Z",
+  "collected_at": "2026-10-22T07:38:10.169Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

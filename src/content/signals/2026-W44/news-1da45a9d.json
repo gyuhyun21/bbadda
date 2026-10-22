@@ -1,0 +1,23 @@
+{
+  "id": "news-1da45a9d",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "한스경제",
+  "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1NU2RvYnFrMFk4czdhOXhqV0REZEQ1U3hKYWZXOFRqVmdEcUlQRGthZi1oVGRBYXdrTHhJMGxMaEhtaDB0Sk5Ca2JOT3otME5wRzZtUDZ4ekxCN2laei00YW83REp0M05TQkdn?oc=5",
+  "title": "준PO 건너뛴 KIA 양현종 \"후배들 활약 보면 소름 돋아\"",
+  "published_at": "2026-10-22T00:09:18.000Z",
+  "collected_at": "2026-10-22T07:38:10.169Z",
+  "summary_ko": "한스경제는 준PO를 건너뛴 KIA 양현종이 후배들의 활약을 보면 소름이 돋는다고 말했다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "양현종 \"후배들 활약에 소름\""
+}

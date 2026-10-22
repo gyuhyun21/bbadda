@@ -1,0 +1,23 @@
+{
+  "id": "community-f8c032fd",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 groundtalk",
+  "url": "https://groundtalk.tistory.com/24",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/9cHxUoQbm2h",
+  "title": "한화 이글스 직관 입문서: 홈구장 정보부터 유니폼 선택과 야구 규칙까지",
+  "published_at": "2026-10-22T11:14:57.000+09:00",
+  "collected_at": "2026-10-22T07:38:10.169Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

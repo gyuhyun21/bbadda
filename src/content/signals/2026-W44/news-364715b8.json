@@ -1,0 +1,23 @@
+{
+  "id": "news-364715b8",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "남도일보",
+  "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9pbUpNanpQWDFQX2NFQUltbk1nd1JaT25EVld6TWJQRjM2cHBIYm1VWEJzWHh2OEo1aE9CeTRMU3dSSUg4NnI3VGk5Vm4waGdCcTZpbVdzTlY0dTNMd0NJelktT2tJYUktMFoxdNIBcEFVX3lxTE9HSG84UE5sWG5abXowbTFwaDZSN0E2aDgzU1RFN184UVBHblp2Um1nM2RjUGhzaUtDaGc4cE5MRjZQdENRUl9raWJVdGN4VXo5MUEwMVhkRFZBZFl4U2VGN0VjeFVPS1h3TDd5bnZwcWQ?oc=5",
+  "title": "[프로야구PO]잠실 뒤흔든 타이거즈 함성…이번엔 대구다",
+  "published_at": "2026-10-22T07:10:00.000Z",
+  "collected_at": "2026-10-22T07:38:10.169Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

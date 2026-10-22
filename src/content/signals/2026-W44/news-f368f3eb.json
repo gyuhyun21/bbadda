@@ -1,0 +1,22 @@
+{
+  "id": "news-f368f3eb",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "위키트리",
+  "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5OcUdXTDRmM01nNDBkbEpleVo4Zlh1Mzd3elI0ZWwtbmVYb00tUDdnOWdWRm5uSkQtSVhTSi10ZnJ2YjFjREdVWVI3SUhkeWRVLWhKSTJ3?oc=5",
+  "title": "LG 트윈스 방출자 명단 11명 공개… 방금 전해진 소식",
+  "published_at": "2026-10-22T03:25:00.000Z",
+  "collected_at": "2026-10-22T07:38:10.169Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 82,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

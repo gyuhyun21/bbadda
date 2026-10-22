@@ -1,0 +1,23 @@
+{
+  "id": "news-b4802e83",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "서울신문",
+  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBkN2pEajEwRktHVGkxaWpPZzFOX1M4bHhMZkZMUUhfXzktdHdqZ1VwcFBRUzBtVnR3S3MxemxzYXU2VW9EQTZMOWp5X0VpRHN4cFBybS1Sdw?oc=5",
+  "title": "안방 1차전 사자군단의 믿는 구석, ‘반지 사냥꾼’ 최형우+타격왕 구자욱",
+  "published_at": "2026-10-22T04:00:44.000Z",
+  "collected_at": "2026-10-22T07:38:10.169Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

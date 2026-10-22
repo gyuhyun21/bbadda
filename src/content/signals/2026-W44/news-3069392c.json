@@ -1,0 +1,23 @@
+{
+  "id": "news-3069392c",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "MHN스포츠",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5SSm1hWkMtWG5JemNqalQ3ZWRELUp1OXl0QmZ6Mk5oekFZVFBVaHhpT2NLVmZLeEZfRDZNcXA4S19kdVNNWjNNQ0VsVktBaU1wQnlBeHJ6WWNxYTBaa3Q0SWNVMA?oc=5",
+  "title": "가을야구 안 하는 롯데가 가을야구를 삼킨다…감독 문제, 남의 잔치 재 뿌리지 않으려면 24일이 분기점",
+  "published_at": "2026-10-22T01:21:55.000Z",
+  "collected_at": "2026-10-22T07:38:10.169Z",
+  "summary_ko": "MHN스포츠는 가을야구를 하지 않는 롯데의 감독 문제가 이달 24일이 분기점이라고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "롯데 감독 문제, 24일이 분기점"
+}

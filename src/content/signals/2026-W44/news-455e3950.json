@@ -1,0 +1,23 @@
+{
+  "id": "news-455e3950",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "news",
+  "source_name": "FT스포츠",
+  "url": "https://www.ftimes.kr/news/articleView.html?idxno=40569",
+  "title": "두산서 방출된 손아섭, KBO 내 거취에 야구계 시선 집중",
+  "published_at": "2026-10-22T05:43:04.000Z",
+  "collected_at": "2026-10-22T07:38:10.169Z",
+  "summary_ko": "FT스포츠는 두산에서 방출된 손아섭의 KBO 내 거취에 야구계 시선이 쏠린다고 보도했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 80
+  },
+  "sentiment": "negative",
+  "brief_ko": "손아섭 거취에 시선 집중"
+}

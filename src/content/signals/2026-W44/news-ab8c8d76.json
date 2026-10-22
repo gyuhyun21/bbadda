@@ -1,0 +1,29 @@
+{
+  "id": "news-ab8c8d76",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "OhmyNews",
+  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9qdmdhQnRzOERvakJtb0FPcXhKTW5hSmRqWldMSVZ6VzFTXzVkeERySmpmTHh6SGM3V21MWGtOTS1zZWJJalQzWExqSkFxd2VORkJxTGFIWGUyNTMzMnRaN09sNDFkNjZYaWk3SHlKZ2VGM004?oc=5",
+  "title": "양현종 밀어낸 일본인 투수, 잠실이 남긴 마지막 승리투수",
+  "published_at": "2026-10-22T05:34:00.000Z",
+  "collected_at": "2026-10-22T07:38:10.169Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 83,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "오마이스타",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5jZkVaSnVLUWktTllMUkNqT284dlF2d3BHUjl3eUlfSDVFSWR4aUpNcUpOVURqSHVndm9ybF82ZnpuTWd6ZXlYcmRaXzk4dG1WcG9VcDZwelBKem8xSFRyemluZ2JNeC1UeDF2NTg5ZXo1djhXem1EZnZhVkVqdw?oc=5"
+    }
+  ]
+}

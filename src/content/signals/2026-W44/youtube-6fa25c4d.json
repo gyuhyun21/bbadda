@@ -1,0 +1,26 @@
+{
+  "id": "youtube-6fa25c4d",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "source_name": "야구정리당",
+  "url": "https://www.youtube.com/watch?v=cM2JhygbLj4",
+  "title": "헤일리가 직접 밝힌 와이스 한화 복귀 썰",
+  "published_at": "2026-10-22T06:37:48Z",
+  "collected_at": "2026-10-22T07:38:10.169Z",
+  "summary_ko": "야구 채널 '야구정리당'이 헤일리가 직접 밝힌 와이스의 한화 복귀 이야기를 다뤘다.",
+  "metrics": {
+    "views": 3614,
+    "likes": 54,
+    "comments": 3
+  },
+  "scores": {
+    "hot": 57,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-21f9a9ac",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "전남일보",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB1eXVONFNSaW5iRXpwZG0xQVBKTVRBV1hmTlB3QlRqdW5DUXpYbUJXRkZGVTFqbmFybk5rT0Y5bmVxcVQ5QVppQ3dLbEJHU3BvVEFCdFZMdmFZOHFvcEN3bjk3Yy0wd3pDMUtSVGFTcw?oc=5",
+  "title": "김도영 vs 구자욱, 나성범 vs 최형우…KIA·삼성 방망이 전쟁 시작된다",
+  "published_at": "2026-10-22T06:33:13.000Z",
+  "collected_at": "2026-10-22T07:38:10.169Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

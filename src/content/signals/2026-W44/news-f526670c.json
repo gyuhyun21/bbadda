@@ -1,0 +1,23 @@
+{
+  "id": "news-f526670c",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "kt",
+  "teams": [
+    "kt",
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "쿠키뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8zeW9oZzB6WU13WGQ3VkpHUVp1VUxJVEhXMFM1N2w1UG5FVm5KRXlIVENUXzRzME1lQXZ4bWhvUkI1X2lqZlBJdFZFVlMtMEdFMDlIYmgxLURWY2pya01RTmp4aw?oc=5",
+  "title": "‘어린이날 징크스’ 깼다…프로야구 kt, 롯데 꺾고 1위 수성",
+  "published_at": "2026-10-21T07:45:29.000Z",
+  "collected_at": "2026-10-22T07:38:10.169Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 59,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

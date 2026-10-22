@@ -1,0 +1,29 @@
+{
+  "id": "news-89bc2a7c",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://www.sportschosun.com/baseball/2026-10-22/202610220100139290009090",
+  "title": "'3경기 24점→3연승' 쾌속통과 KIA의 나흘 휴식, 무조건 웃을 일일까?",
+  "published_at": "2026-10-21T23:40:17.000Z",
+  "collected_at": "2026-10-22T07:38:10.169Z",
+  "summary_ko": "스포츠조선은 3경기 24점으로 3연승을 거둔 KIA의 나흘 휴식이 무조건 유리하기만 한지 짚었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 97,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPcUhTWWJQWlc4WHR5RU5MUTgweTBMRHRXTlp6ekhMVkQzbDZ2ZEFacEZINWFveEpUNkgxb1R3WTF3VEdLOHlrRGJETnI1YTgzbDY4S0JXOVhESXVQc2RVYnc1ZXBnZ2dJNEpEOXR2Tk1ZendVR3RGc2o1aGdNZXJoYnA4QQ?oc=5"
+    }
+  ],
+  "brief_ko": "KIA 나흘 휴식, 득일까 실일까"
+}

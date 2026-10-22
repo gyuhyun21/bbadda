@@ -1,0 +1,28 @@
+{
+  "id": "news-c4470e86",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "news",
+  "source_name": "일간스포츠",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBHclVlTmtfX2RDNE53NXVUY0poSmQ4OHFGUG9iV21URGVneUNOQjJHVzA2eWxua21venFvV0lCSU9peXAyRjJtQTk0UDBCWk9aNDAyelhBYUtERjE3Z3I0THd3?oc=5",
+  "title": "정규시즌 우승 팀도 칼바람…KT, 최동환·조이현 등 10명과 결별",
+  "published_at": "2026-10-22T06:14:00.000Z",
+  "collected_at": "2026-10-22T07:38:10.169Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "이데일리",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTzlkMGYyQVRXdDZLUWdPOGZYRGdVR3MzUkZsUWw2US1tSmprYUVzNkNuTlJ2UVY5TGN4ekZyQ0NQbTVhZnoxa1g1bDVBeFV1WjlrQU1IWngwSkRuWXlMay1sQ05wUFJwY3FKcGNiS0cxQ3NBdy1GdV8xWFljWW80Tg?oc=5"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "youtube-d37ee8a1",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "오늘의야구붕신",
+  "url": "https://www.youtube.com/watch?v=9xv4d7xs8cM",
+  "title": "가을 명장 감다살 꽃범호 #kbo #야구 #프로야구 #기아타이거즈 #이범호감독 #이범호 #명장",
+  "published_at": "2026-10-22T02:42:15Z",
+  "collected_at": "2026-10-22T07:38:10.169Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1187,
+    "likes": 15,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 48,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "news-64d183ca",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "news",
+  "source_name": "연합뉴스",
+  "url": "https://www.yna.co.kr/amp/view/AKR20261022086100007",
+  "title": "'끝내기 4회' kt 문상철, 은퇴 선언 \"뜨거운 응원 잊지 못할 것\"",
+  "published_at": "2026-10-22T02:15:48.000Z",
+  "collected_at": "2026-10-22T07:38:10.169Z",
+  "summary_ko": "연합뉴스는 끝내기 안타를 4번 친 KT 문상철이 은퇴를 선언했다고 전했다. 문상철은 뜨거운 응원을 잊지 못할 것이라고 밝혔다.",
+  "metrics": {},
+  "scores": {
+    "hot": 90,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "마이데일리",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBpNzVXWGQ5UDI3Q1hwakE4d09YN2VIUTNLOWF2ajdTZHh5Z09ZTURpUGNrMEdxSHA4N3ZRYVFVZEQwWVhsX3h6VFYwUmVMOUdpZ2YyN2NnTTJ0RmU2SHpzbGFKQ3daQQ?oc=5"
+    }
+  ]
+}

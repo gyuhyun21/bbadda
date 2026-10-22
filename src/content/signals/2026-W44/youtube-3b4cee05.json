@@ -1,0 +1,27 @@
+{
+  "id": "youtube-3b4cee05",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "야찍먹",
+  "url": "https://www.youtube.com/watch?v=hUXO_uJitgc",
+  "title": "삼성 vs 기아 플레이오프 1~2차전 선발 예상&관전 포인트&승부 예측",
+  "published_at": "2026-10-22T04:49:28Z",
+  "collected_at": "2026-10-22T07:38:10.169Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 5627,
+    "likes": 105,
+    "comments": 53
+  },
+  "scores": {
+    "hot": 69,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

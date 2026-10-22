@@ -1,0 +1,25 @@
+{
+  "id": "community-95cd49d3",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "lg",
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 가벼운 야구이야기",
+  "url": "https://blog36177.tistory.com/1",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/Fbk6JGjXBRY",
+  "title": "[KBO 가을야구] 2026 준플레이오프 결과 총정리: KIA, LG 꺾고 삼성과 PO 맞대결",
+  "published_at": "2026-10-21T19:42:28.000+09:00",
+  "collected_at": "2026-10-22T07:38:10.169Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 61,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}
