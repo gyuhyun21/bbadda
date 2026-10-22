@@ -1,0 +1,23 @@
+{
+  "id": "news-907b7fa6",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "www.xportsnews.com",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5JaS1CQjVaUWhabUp0X2tvVWtaOEF3THB4N3R1emxBWXZHQkswOUtfc0RETjZKUEQ4QWJrSm5FQ2l6SDJWU0VJUGZaV2RydmZSdW42TA?oc=5",
+  "title": "KIA, 이 투수만 안 썼네! '20억 장발 좌완' PO 삼성 좌타 저격 히든카드?→알고 보니 가을야구 'ERA 0' 위엄",
+  "published_at": "2026-10-22T17:11:53.000Z",
+  "collected_at": "2026-10-22T21:37:53.291Z",
+  "summary_ko": "엑스포츠뉴스는 KIA가 이번 가을야구에서 쓰지 않은 좌완 투수를 PO 삼성전 히든카드로 꼽았다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

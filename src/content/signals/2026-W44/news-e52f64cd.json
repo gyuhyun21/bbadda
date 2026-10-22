@@ -1,0 +1,24 @@
+{
+  "id": "news-e52f64cd",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "hanwha",
+  "teams": [
+    "hanwha",
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "www.maniareport.com",
+  "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBxZ3NJUmgxc2xwdmpidnZJRzViUzJUMUlIMjQyUjJhNmcycGlnWHBLd1pRVFB3S0tHaTM1b2VyYzN5bDQ0UEFQT1U1bGhJSnJOcE8ycHpPaHZPOFR2RjhiTGktX0RxZmRWYWJGZWVSNUlSOFFTTDRTb19QVQ?oc=5",
+  "title": "김도영, 지금 비FA 다년 계약한다면?…11년 400억~500억 원 가능할까, 노시환 307억은 시작에 불과",
+  "published_at": "2026-10-22T07:22:49.000Z",
+  "collected_at": "2026-10-22T21:37:53.291Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 71,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

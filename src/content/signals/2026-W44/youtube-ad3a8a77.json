@@ -1,0 +1,27 @@
+{
+  "id": "youtube-ad3a8a77",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "앵고 Aengo",
+  "url": "https://www.youtube.com/watch?v=uS0uv9cDqcw",
+  "title": "많이 늦은 #최광야구 후기... 랜더스 마니 싸랑해❤️‍🔥",
+  "published_at": "2026-10-22T14:30:37Z",
+  "collected_at": "2026-10-22T21:37:53.291Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1822,
+    "likes": 6,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 41,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

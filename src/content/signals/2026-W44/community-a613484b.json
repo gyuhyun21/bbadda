@@ -1,0 +1,24 @@
+{
+  "id": "community-a613484b",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "다음카페 행복한 충주 전원주택",
+  "url": "https://cafe.daum.net/durechon/PJux/108",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/HWtMG79Q37s",
+  "title": "2026 가을야구 플레이오프 일정 취소표 구하기 중계방송...",
+  "published_at": "2026-10-23T05:44:16.000+09:00",
+  "collected_at": "2026-10-22T21:37:53.291Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "news-bd2a8058",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "미주중앙일보",
+  "url": "https://www.koreadaily.com/article/20261022080142882",
+  "title": "감독 연봉킹 이강철 “KS 구상 끝났다…우승으로 보답”",
+  "published_at": "2026-10-22T15:01:00.000Z",
+  "collected_at": "2026-10-22T21:37:53.291Z",
+  "summary_ko": "미주중앙일보는 KT 이강철 감독이 한국시리즈 구상을 마쳤고 우승으로 보답하겠다고 밝혔다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 90,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "중앙일보",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9KUDRxR0phOEtzdzJIMGxDZjRQcFVoUjFZcXUxNDc1YXdHX2FrTE9jZ1JYZXdRVHdTazFfc1ZRd2ZoVU0wUlEzMkUxNGoxSjJYeHcxcm9n?oc=5"
+    }
+  ]
+}

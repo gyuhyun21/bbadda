@@ -1,0 +1,23 @@
+{
+  "id": "news-6cd96bdb",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠동아",
+  "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5McmtoRjRkdzU4OXJVYTJDTVVmRlQxeGVEdHVQZXNOcmZGYUdGWTRkUTZrN3QxdjBnVnlOc3A4dXUybGs5TjVlR29RYlgxeXhwVDFweGVuaWEtMkVELWkwc2FFR2pVVEE3MlkwTV8yT2l2QQ?oc=5",
+  "title": "KS만 잘 쳤는데 올해는 다르다…타순 오가는 김선빈, 라인업 활력소",
+  "published_at": "2026-10-22T15:01:00.000Z",
+  "collected_at": "2026-10-22T21:37:53.291Z",
+  "summary_ko": "스포츠동아는 KIA 김선빈이 타순을 오가며 라인업의 활력소 역할을 한다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

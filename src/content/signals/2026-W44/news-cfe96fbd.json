@@ -1,0 +1,23 @@
+{
+  "id": "news-cfe96fbd",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "대구신문",
+  "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5hTjl6LXlOMlJNWk1taEJvSl9sY1VreFVHYVU0VUhpX1RQQ2JLbVJFb0N4WS1RYVhPTXNibWllTllZeU1HazF0Mjl1VUVhcGFGbXB0ekd6OXJ2am9sRENUV0steTlyZTBuVGg0?oc=5",
+  "title": "구자욱 “부상 걱정 없다” PO 출격 준비",
+  "published_at": "2026-10-22T12:12:00.000Z",
+  "collected_at": "2026-10-22T21:37:53.291Z",
+  "summary_ko": "대구신문에 따르면 삼성 구자욱이 부상 걱정 없이 PO 출전 준비를 하고 있다.",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

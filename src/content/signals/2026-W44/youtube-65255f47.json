@@ -1,0 +1,26 @@
+{
+  "id": "youtube-65255f47",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "Hannah",
+  "url": "https://www.youtube.com/watch?v=8qpI45JOfCg",
+  "title": "261020 준플레이오프 3차전 최강기아 승리하리라 #기아타이거즈 #kbo #야구",
+  "published_at": "2026-10-22T14:17:27Z",
+  "collected_at": "2026-10-22T21:37:53.291Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1043,
+    "likes": 7,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 41,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

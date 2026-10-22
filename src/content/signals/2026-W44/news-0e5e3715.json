@@ -1,0 +1,29 @@
+{
+  "id": "news-0e5e3715",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://www.mt.co.kr/sports/2026/10/23/2026102300042812743",
+  "title": "'KIA·삼성 레전드' 임창용의 PO 전망 \"팽팽한 접전, 타이거즈 약우위→마음은 중립\"",
+  "published_at": "2026-10-22T18:33:00.000Z",
+  "collected_at": "2026-10-22T21:37:53.291Z",
+  "summary_ko": "머니투데이는 KIA·삼성 레전드 임창용이 PO를 팽팽한 접전으로 보고 타이거즈의 약우위를 점쳤다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE12LXRGQkhQVE5jUDN0bXhNbEtQT3B5OVdXN294ZVVvazNWZ3h4UXNOSmJnUi1CNl9yOHZiVWUzVGhoaFYzVjJmeEVnZ0RoMGpGdVpjclh6TGRrTkFLN3RGZmR4VG1VY1hFSWtSYjRZUHpvZ2ZKMEE?oc=5"
+    }
+  ]
+}

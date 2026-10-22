@@ -1,0 +1,23 @@
+{
+  "id": "news-44d42564",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "대구신문",
+  "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE91TS1aU0NDTEc4SFlicllKRUpZVE1BN01LcmJqV2tSU3JjVl9hdnFvTVdpTVgtQTVncXF6ZkJiVk1XREdTRU5rRHlVMnRfQ01kbFY4T2lSX0xkdXRaY0F1bHoyWXlnZF9maU1v?oc=5",
+  "title": "사자군단, 가을야구 ‘호랑이 공포증’ 극복할까",
+  "published_at": "2026-10-22T12:12:00.000Z",
+  "collected_at": "2026-10-22T21:37:53.291Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

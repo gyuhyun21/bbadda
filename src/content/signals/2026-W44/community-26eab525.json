@@ -1,0 +1,24 @@
+{
+  "id": "community-26eab525",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "엠엘비파크",
+  "url": "https://mlbpark.donga.com/mp/b.php?id=202610220119601879&p=121&b=kbotown&m=view&site=donga.com",
+  "title": "원래 감독 이렇게 늦게 발표하나요?",
+  "published_at": "2026-10-22T11:37:53.291Z",
+  "collected_at": "2026-10-22T21:37:53.291Z",
+  "summary_ko": "",
+  "excerpt": "... 롯데팬 원데이 투데이하는것도 아니고 왜이리 초조해 하는지 모르겠네요 10월말쯤 김태형감독 올 때도 했었고 작년용병도…",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

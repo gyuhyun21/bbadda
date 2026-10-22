@@ -1,0 +1,23 @@
+{
+  "id": "community-eff75dcd",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "다음카페 세상에 무릎 꿇지 않은 칠천의인기도단",
+  "url": "https://cafe.daum.net/jonglh681106/MGm4/326",
+  "title": "야구 경기에서 경기 중 사망이나 부상당하는 경우에...",
+  "published_at": "2026-10-20T17:07:33.000+09:00",
+  "collected_at": "2026-10-22T21:37:53.291Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 46,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

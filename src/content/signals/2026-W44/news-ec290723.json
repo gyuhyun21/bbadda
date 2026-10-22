@@ -1,0 +1,24 @@
+{
+  "id": "news-ec290723",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "hanwha",
+  "teams": [
+    "hanwha",
+    "ssg",
+    "kt"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://www.mt.co.kr/sports/2026/10/23/202610230011777043O",
+  "title": "‘이름까지 바꿨는데’ 31살 방출 충격! 한화→SK→SSG→KT, 정우람 보상선수 현역 연장 가능할까",
+  "published_at": "2026-10-22T21:12:00.000Z",
+  "collected_at": "2026-10-22T21:37:53.291Z",
+  "summary_ko": "머니투데이는 정우람 보상선수로 한화를 거쳐 KT에 있던 31세 선수가 방출됐다며 현역 연장 가능성을 짚었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

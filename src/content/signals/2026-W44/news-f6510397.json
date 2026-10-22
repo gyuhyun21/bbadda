@@ -1,0 +1,23 @@
+{
+  "id": "news-f6510397",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "매일일보",
+  "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE40NGJBbXhjU1IzWDVaXzRWY1RHbVMzek1Db1kzUTNMR0NLeGlTUkxBaXozUVc3ZHdoWUlKUHk1QUVxQ1dpZ0VtZzZRXzdZMHEyNkNSVkdlRXlORV85emJJa1Jzckw?oc=5",
+  "title": "‘홍성군과 함께하는 제4회 김태균 야구캠프’에 선수 9명 참여",
+  "published_at": "2026-10-22T02:13:21.000Z",
+  "collected_at": "2026-10-22T21:37:53.291Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 61,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

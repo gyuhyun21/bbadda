@@ -1,0 +1,27 @@
+{
+  "id": "youtube-898b5a74",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "야구소년",
+  "url": "https://www.youtube.com/watch?v=C-0AeBRHHUc",
+  "title": "다승왕이 두 명인데 둘 다 못 받는다?⚾️ 곽빈의 골든글러브 도전 #kbo #두산베어스 #기아타이거즈 #kt위즈 #lg트윈스 #곽빈",
+  "published_at": "2026-10-22T12:22:09Z",
+  "collected_at": "2026-10-22T21:37:53.291Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 3692,
+    "likes": 25,
+    "comments": 2
+  },
+  "scores": {
+    "hot": 47,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

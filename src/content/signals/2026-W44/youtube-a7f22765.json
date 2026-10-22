@@ -1,0 +1,26 @@
+{
+  "id": "youtube-a7f22765",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "youtube",
+  "source_name": "좋아짐 BEGOODGYM",
+  "url": "https://www.youtube.com/watch?v=jL4f4xuZ5IQ",
+  "title": "마무리캠프 합류 전, 롯데 한태양이 먼저 찾은 곳",
+  "published_at": "2026-10-22T13:36:39Z",
+  "collected_at": "2026-10-22T21:37:53.291Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 38,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 19,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

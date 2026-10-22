@@ -1,0 +1,24 @@
+{
+  "id": "news-7cb58ae6",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠동아",
+  "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1iQkEyUWpkbGNaMGxUVDdCWnRMWEpLZmFfX1dUS1duTjRoalRiY1ZMN0V0dlZXbkpraW82Y2xWeXg3MFkyZTlzdXpoQnJCY3JSMWlSUU11djRKQWJnbmJ0ODFkU3NZMVpSVmFZbk83cXBpdw?oc=5",
+  "title": "PO는 화력전?…김지찬·박재현 타선 폭발 이끌 ‘밥상 차리기’ 싸움",
+  "published_at": "2026-10-22T21:02:00.000Z",
+  "collected_at": "2026-10-22T21:37:53.291Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

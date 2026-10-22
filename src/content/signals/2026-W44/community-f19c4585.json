@@ -1,0 +1,23 @@
+{
+  "id": "community-f19c4585",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 K팝 대중문화 평론",
+  "url": "https://blog.naver.com/myhurai/224448411140",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/K3WTwTDPxki",
+  "title": "LG 트윈스 X 트리플에스 시구 승률 83.33%",
+  "published_at": "2026-10-21T02:15:00.000+09:00",
+  "collected_at": "2026-10-22T21:37:53.291Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 49,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

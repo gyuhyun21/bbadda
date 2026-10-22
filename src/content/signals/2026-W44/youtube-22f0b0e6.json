@@ -1,0 +1,26 @@
+{
+  "id": "youtube-22f0b0e6",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "youtube",
+  "source_name": "크보쌍둥이",
+  "url": "https://www.youtube.com/watch?v=wp8GhtWfCV0",
+  "title": "KT 문상철 포함 10명방출! 창단멤버 문상철 특별 대우 해준 KT 멋진 구단이다! #kt위즈 #이강철 #안현민 #힐리어드 #문상철 #고영표",
+  "published_at": "2026-10-22T14:26:42Z",
+  "collected_at": "2026-10-22T21:37:53.291Z",
+  "summary_ko": "야구 팬 채널이 KT가 문상철 등 10명을 방출한 소식을 다뤘다.",
+  "metrics": {
+    "views": 17175,
+    "likes": 155,
+    "comments": 10
+  },
+  "scores": {
+    "hot": 57,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}
