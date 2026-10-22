@@ -1,0 +1,26 @@
+{
+  "id": "youtube-70ddc6e9",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "광주일보",
+  "url": "https://www.youtube.com/watch?v=m9AHXVX_Pxs",
+  "title": "치통투혼 박정우, 플레이오프는 도전자의 자세로 ㅣ 사랑니 발치 완료 ㅣ 볼넷, 적시타, 헤퍼슬까지 ㅣ 함께 만든 3연승ㅣ 기아타이거즈 ㅣ사라진 준PO 기억",
+  "published_at": "2026-10-22T12:00:30Z",
+  "collected_at": "2026-10-22T21:37:53.291Z",
+  "summary_ko": "광주일보 영상이 사랑니를 뺀 KIA 박정우의 준PO 3연승 뒤 PO 각오를 담았다.",
+  "metrics": {
+    "views": 61319,
+    "likes": 1177,
+    "comments": 128
+  },
+  "scores": {
+    "hot": 73,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

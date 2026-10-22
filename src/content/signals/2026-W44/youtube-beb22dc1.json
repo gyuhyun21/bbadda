@@ -1,0 +1,27 @@
+{
+  "id": "youtube-beb22dc1",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "몽실이슈",
+  "url": "https://www.youtube.com/watch?v=Eo0ChHy5rKk",
+  "title": "25일 달빛시리즈 개막, KIA냐 삼성이냐 가을야구 왕좌는? #Shorts",
+  "published_at": "2026-10-22T14:03:47Z",
+  "collected_at": "2026-10-22T21:37:53.291Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1206,
+    "likes": 5,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 39,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

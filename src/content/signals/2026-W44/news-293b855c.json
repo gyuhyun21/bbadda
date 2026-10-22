@@ -1,0 +1,23 @@
+{
+  "id": "news-293b855c",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "마이데일리",
+  "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBfSGpFcFRuN2VGUDlDc0dxdFVvWGw5YXh5dXJCTXk4RVMwT19DMmhCTGYwOWVWWld5Z0F4RzVSTDVVbFFoWU9ySS1TZzJkdEtiZWE4TlJCcThJM1d6V183a0JzVUk2QQ?oc=5",
+  "title": "“2024 MVP, 연예인급으로 바빴어…운동 좀 해야 하는데” 김도영은 이렇게 부활했다…트레이너의 증언",
+  "published_at": "2026-10-22T17:29:27.000Z",
+  "collected_at": "2026-10-22T21:37:53.291Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

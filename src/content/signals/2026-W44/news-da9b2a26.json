@@ -1,0 +1,23 @@
+{
+  "id": "news-da9b2a26",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "SPOTV NEWS",
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9MZXpLdFlYRmJnMDdhRl9faVhHbFFrSVpiOW1RX3MxSlhkQkhsX2M1ejJScFhvOFhKS25raFNOTE1IY3RuYXItUWNSQWdWdS1HbHc4OVBKenpBOEF4R2ZVRDVrNkY5YmMwR1pFLUpBQkg?oc=5",
+  "title": "최원태가 오리까지 구워줬는데, 김영웅 매정한 홈런?…\"형한테 봐달라고 했다\" 위풍당당",
+  "published_at": "2026-10-22T20:05:00.000Z",
+  "collected_at": "2026-10-22T21:37:53.291Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

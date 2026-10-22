@@ -1,0 +1,26 @@
+{
+  "id": "youtube-653d93cb",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "방구석 야구장",
+  "url": "https://www.youtube.com/watch?v=IZ7s36p4Mfg",
+  "title": "잠실에서 대구로 날려버린 김도영 만루홈런 #김도영 #기아타이거즈",
+  "published_at": "2026-10-22T14:20:39Z",
+  "collected_at": "2026-10-22T21:37:53.291Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 6577,
+    "likes": 108,
+    "comments": 2
+  },
+  "scores": {
+    "hot": 58,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

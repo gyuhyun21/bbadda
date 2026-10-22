@@ -1,0 +1,27 @@
+{
+  "id": "youtube-79d3ea28",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "KIA김기야TV",
+  "url": "https://www.youtube.com/watch?v=BwelmR3jlno",
+  "title": "KIA vs 삼성, KS행 가르는 원투펀치 대격돌! 🔥 네일·올러 vs 후라도·페덱…사자 잡고 한국시리즈 간다?!",
+  "published_at": "2026-10-22T13:38:23Z",
+  "collected_at": "2026-10-22T21:37:53.291Z",
+  "summary_ko": "KIA 팬 채널이 PO에서 맞붙는 네일·올러와 후라도·페덱의 선발 대결을 다뤘다.",
+  "metrics": {
+    "views": 2976,
+    "likes": 90,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "community-5a7c09bc",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 세상읽는지혜",
+  "url": "https://kkn1006.tistory.com/17",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/KWLRegddA9C",
+  "title": "한국야구심장 역사속으로 2032년 돔구장변",
+  "published_at": "2026-10-22T22:59:58.000+09:00",
+  "collected_at": "2026-10-22T21:37:53.291Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

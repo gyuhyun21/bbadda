@@ -1,0 +1,23 @@
+{
+  "id": "news-71a2ab8e",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "마이데일리",
+  "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1zY0EyRlIxMUpsSG9BYkJ0YzJZT0lBaW5zbUV4R1hpRzJTaEgwNVZHNWZxOXk1UzZQUVpsUkJURmtZcjdoaVBKWDYxNmd6ZFlxRVJ4RXNRTjdkTEswenMzeHRtc0RaZw?oc=5",
+  "title": "김도영보다 삼성 킬러 김태군보다 경계해야 한다? AVG 0.444·3홈런, KIA 박재현 대구만 가면 미쳤다",
+  "published_at": "2026-10-22T19:30:00.000Z",
+  "collected_at": "2026-10-22T21:37:53.291Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 83,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

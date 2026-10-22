@@ -1,0 +1,27 @@
+{
+  "id": "youtube-9513ae66",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "삼미노_삼성라이온즈 이야기",
+  "url": "https://www.youtube.com/watch?v=04OvyQ1zTKQ",
+  "title": "2026 플레이오프 프리뷰!! 삼성 VS KIA 어디가 더 강할까?",
+  "published_at": "2026-10-22T17:23:55Z",
+  "collected_at": "2026-10-22T21:37:53.291Z",
+  "summary_ko": "삼성 팬 채널이 삼성과 KIA의 2026 플레이오프를 프리뷰했다.",
+  "metrics": {
+    "views": 19655,
+    "likes": 135,
+    "comments": 13
+  },
+  "scores": {
+    "hot": 56,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

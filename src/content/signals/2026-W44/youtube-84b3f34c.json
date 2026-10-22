@@ -1,0 +1,26 @@
+{
+  "id": "youtube-84b3f34c",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "youtube",
+  "source_name": "야구자판기",
+  "url": "https://www.youtube.com/watch?v=HSE1wO8fS6A",
+  "title": "박종훈 방출 | 5년 65억 국내 첫 비FA 다년계약, 마지막 해 1군 0경기 #박종훈 #SSG랜더스",
+  "published_at": "2026-10-22T14:07:57Z",
+  "collected_at": "2026-10-22T21:37:53.291Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1470,
+    "likes": 5,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 40,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

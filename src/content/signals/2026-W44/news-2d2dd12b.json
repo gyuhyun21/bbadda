@@ -1,0 +1,22 @@
+{
+  "id": "news-2d2dd12b",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "Naver Blog",
+  "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaHc3MGVHVXc4UlRFbHZWSVpZNTdnNjVsYjFTZHdqNnllRER5VlA5N3M1VnRCSkRkSWFjU2g1TnQ5enBFZWVGVmxXN2lPck1mMXhOT2VaazA4WS1hZHhqZFAtdmdNRXYwU2JMRm9oYThoalJNbkRTbGUxSFc4aFVkTnE4NWY2bmlEQW92VDlMMHo3Z2Q4?oc=5",
+  "title": "‘미국 유턴파로 기대를 받았던’ 1군 6경기를 끝으로 LG를 떠나게 된 이 선수, LG 진우영(KBO) : 네이버 블로그",
+  "published_at": "2026-10-22T16:20:43.000Z",
+  "collected_at": "2026-10-22T21:37:53.291Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

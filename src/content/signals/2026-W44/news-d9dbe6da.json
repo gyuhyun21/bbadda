@@ -1,0 +1,23 @@
+{
+  "id": "news-d9dbe6da",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "조선일보",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQOFNWZHhNSjNMV1pEUmNNS0I1WTZ4MTVfZ25pZHpWTVJiUktFSXpnMTZwUnRaaFNOd3puajFZNl96dUNGZFIzVFg0eGdNSjVvUHNRclVfZUM3amdFQ1ZGR2s2SUpVanlvaGVDYks0d1hnMlN2NjFKQ3o2VmlJZlBsU1EtOA?oc=5",
+  "title": "홈런왕 對 타격왕… 누구 방망이가 더 매서울까",
+  "published_at": "2026-10-22T15:41:00.000Z",
+  "collected_at": "2026-10-22T21:37:53.291Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

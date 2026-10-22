@@ -1,0 +1,24 @@
+{
+  "id": "community-b274d6e7",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "엠엘비파크",
+  "url": "https://mlbpark.donga.com/mp/b.php?id=202610230119605305&p=1&b=bullpen&m=view&site=donga.com",
+  "title": "골글/MVP/신인왕 예상",
+  "published_at": "2026-10-22T20:54:53.291Z",
+  "collected_at": "2026-10-22T21:37:53.291Z",
+  "summary_ko": "",
+  "excerpt": "... 포수 허인서 (한화 이글스) 1루수 오스틴 딘 (LG 트윈스) 2루수 박민우 (NC 다이노스) 3루수…",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

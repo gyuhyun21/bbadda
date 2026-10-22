@@ -1,0 +1,23 @@
+{
+  "id": "news-3ad99a32",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://www.mt.co.kr/amp/sports/2026/10/23/202610230302775412O",
+  "title": "1군 타율 .214의 설움, 한 방에 날렸다! NC 고준휘, 3점포 포함 4타점 폭발…“한 단계 더 성장하고 싶다”",
+  "published_at": "2026-10-22T18:40:00.000Z",
+  "collected_at": "2026-10-22T21:37:53.291Z",
+  "summary_ko": "머니투데이는 NC 고준휘가 3점포 포함 4타점을 올리며 1군 타율 .214의 아쉬움을 털었다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "NC 고준휘, 3점포 4타점"
+}

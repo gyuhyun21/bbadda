@@ -1,0 +1,24 @@
+{
+  "id": "community-02482490",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&page=7&document_srl=10474095855",
+  "title": "먹는 얘기 하니까 야식 땡기네 - 야구",
+  "published_at": "2026-10-22T14:37:53.291Z",
+  "collected_at": "2026-10-22T21:37:53.291Z",
+  "summary_ko": "",
+  "excerpt": "... 롯데자이언츠 라인업 [4]. 19 분 전 자유 제레미비즐리 ...",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

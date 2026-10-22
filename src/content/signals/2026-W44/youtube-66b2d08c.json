@@ -1,0 +1,26 @@
+{
+  "id": "youtube-66b2d08c",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "source_name": "김아라 음악방송",
+  "url": "https://www.youtube.com/watch?v=ahC59rVa-KU",
+  "title": "#문현빈 #타격폼 #한화 #타격  #이글스 #한화이글스 #이글스tv",
+  "published_at": "2026-10-22T16:22:37Z",
+  "collected_at": "2026-10-22T21:37:53.291Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1243,
+    "likes": 6,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 41,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

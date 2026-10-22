@@ -1,0 +1,24 @@
+{
+  "id": "news-95b051e8",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "전남일보",
+  "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000075996",
+  "title": "‘2년 전 서스펜디드 재현될까’ KIA·삼성 PO 1차전, 가을비 최대 변수",
+  "published_at": "2026-10-22T15:00:00.000Z",
+  "collected_at": "2026-10-22T21:37:53.291Z",
+  "summary_ko": "전남일보는 KIA·삼성 PO 1차전의 최대 변수로 가을비를 꼽으며 2년 전 서스펜디드 경기를 떠올렸다.",
+  "metrics": {},
+  "scores": {
+    "hot": 82,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "KIA-삼성 PO, 가을비 변수"
+}

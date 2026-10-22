@@ -1,0 +1,24 @@
+{
+  "id": "community-a4e296fd",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&page=2&document_srl=10474230216",
+  "title": "굿바이 - 야구",
+  "published_at": "2026-10-22T15:37:53.291Z",
+  "collected_at": "2026-10-22T21:37:53.291Z",
+  "summary_ko": "",
+  "excerpt": "... [대구MBC뉴스] 가을야구 앞둔 삼성라이온즈··· '구자욱' 복귀에 기대 커진다. 7 분 전 뉴스 브포유럽삼성우승 조회21.…",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

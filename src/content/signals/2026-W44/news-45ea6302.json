@@ -1,0 +1,22 @@
+{
+  "id": "news-45ea6302",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "news",
+  "source_name": "조선일보",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUnpBcWhEM2N1OTdXSHJBTmdyMlp4SnhLODNneXktUFZ1eUhkalpuZzViejhDU2RCWmdxbGU0X0NIWENvcndibElHMGxMcFpaUGVDS1lzcmpyeXFDam40cm52Nk1uZTcxRkwxN1RzdTdwTlZ3LUl1Z2Zwcl96amx6N29LSQ?oc=5",
+  "title": "'KBO에서 인생 대역전' KT 홀드왕 한국 떠나나? 이름이 불렸다 \"숨은 보석\"",
+  "published_at": "2026-10-22T16:20:00.000Z",
+  "collected_at": "2026-10-22T21:37:53.291Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

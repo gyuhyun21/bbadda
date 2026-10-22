@@ -1,0 +1,24 @@
+{
+  "id": "news-0974df47",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스핌",
+  "url": "https://www.newspim.com/news/view/20261022001449",
+  "title": "[프로야구] KBO '아쿼' 첫 타이틀홀더 KT 스기모토, 日 소프트뱅크 지명…\"이례적 역수입\"",
+  "published_at": "2026-10-22T14:45:00.000Z",
+  "collected_at": "2026-10-22T21:37:53.291Z",
+  "summary_ko": "뉴스핌은 KBO 아시아쿼터 첫 타이틀홀더인 KT 스기모토가 일본 소프트뱅크에 지명됐다고 전했다. 이례적인 역수입 사례라고 짚었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 80
+  },
+  "sentiment": "neutral",
+  "brief_ko": "KT 스기모토, 소프트뱅크행",
+  "hook_ko": "일본이 KT 홀드왕을 불렀다"
+}

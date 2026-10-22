@@ -1,0 +1,24 @@
+{
+  "id": "community-9eebd7b3",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "lg"
+  ],
+  "source_type": "community",
+  "source_name": "다음카페 하늘이여 땅이여",
+  "url": "https://cafe.daum.net/enpyung/IWeN/12465",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/CXrDhZ5R7A2",
+  "title": "KIA 김도영 그랜드슬램...홈런 타이거즈, LG 마운드...",
+  "published_at": "2026-10-20T21:05:08.000+09:00",
+  "collected_at": "2026-10-22T21:37:53.291Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 47,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "youtube-68237c79",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "0pen",
+  "url": "https://www.youtube.com/watch?v=KjDPhjdGxiA",
+  "title": "261017 최광야구 최지훈 워밍업 & 불펜피칭",
+  "published_at": "2026-10-22T11:37:57Z",
+  "collected_at": "2026-10-22T21:37:53.291Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1147,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 36,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

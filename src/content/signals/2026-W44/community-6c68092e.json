@@ -1,0 +1,23 @@
+{
+  "id": "community-6c68092e",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "lg"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 힐링캠프",
+  "url": "https://blog.naver.com/hun4339/224448216796",
+  "title": "‘김도영 초대형 만루포!’ KIA, LG 13-1 대파…잠실 마지막 승자로 PO 진출",
+  "published_at": "2026-10-20T22:01:00.000+09:00",
+  "collected_at": "2026-10-22T21:37:53.291Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 48,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-046c36b2",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "한국일보",
+  "url": "https://www.hankookilbo.com/news/article/amp/A2026102114130005802",
+  "title": "“우리 만나겠네요” 현실로… KS행 길목에서 만난 삼성-KIA, ‘최형우 시리즈’의 승자는",
+  "published_at": "2026-10-22T19:30:00.000Z",
+  "collected_at": "2026-10-22T21:37:53.291Z",
+  "summary_ko": "한국일보는 KS행 길목 PO에서 삼성과 KIA가 만나게 됐다며 '최형우 시리즈'로 부각했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

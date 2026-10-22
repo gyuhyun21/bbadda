@@ -1,0 +1,27 @@
+{
+  "id": "youtube-8987ea3a",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg",
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "플렉시블라이프",
+  "url": "https://www.youtube.com/watch?v=7O4RUD5LvUI",
+  "title": "김도영 걸러도 딜레마, LG 3연패가 삼성에 남긴 숙제",
+  "published_at": "2026-10-22T14:00:08Z",
+  "collected_at": "2026-10-22T21:37:53.291Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 12154,
+    "likes": 90,
+    "comments": 2
+  },
+  "scores": {
+    "hot": 54,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

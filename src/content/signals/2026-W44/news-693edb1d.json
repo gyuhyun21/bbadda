@@ -1,0 +1,29 @@
+{
+  "id": "news-693edb1d",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "news",
+  "source_name": "OSEN",
+  "url": "https://www.osen.co.kr/article/G1112896935",
+  "title": "'또 홈런 폭발' 임종찬 기대해도 되나? 한화, 닛폰햄에 6-0 완승…이기창 5이닝 노히터 무실점",
+  "published_at": "2026-10-22T15:40:00.000Z",
+  "collected_at": "2026-10-22T21:37:53.291Z",
+  "summary_ko": "OSEN은 한화가 일본 교육리그에서 닛폰햄을 6-0으로 이겼고 임종찬이 홈런을 쳤다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5pS2ZYbGsxbDVGS3ROREZxN05CN1BMOGhvcEM4RVhvekJXbzlrYW5RaXpUU3pvc0lndEx2RDNBYzM5YWVybEZlZmhkQzYzNXB3d0tqYU4xYWtEVmFVYmIyOWVZSldfZ3ZBYmcybGJuWdIBb0FVX3lxTE5pS2ZYbGsxbDVGS3ROREZxN05CN1BMOGhvcEM4RVhvekJXbzlrYW5RaXpUU3pvc0lndEx2RDNBYzM5YWVybEZlZmhkQzYzNXB3d0tqYU4xYWtEVmFVYmIyOWVZSldfZ3ZBYmcybGJuWQ?oc=5"
+    }
+  ],
+  "brief_ko": "한화, 닛폰햄에 6-0 완승"
+}

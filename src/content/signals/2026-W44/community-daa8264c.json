@@ -1,0 +1,24 @@
+{
+  "id": "community-daa8264c",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "다음카페 하늘이여 땅이여",
+  "url": "https://cafe.daum.net/enpyung/IWeN/12466",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/7M2d0W8rJRM",
+  "title": "KBO 무대가 너무 좁다! '1차전 멀티홈런→3차전 만루포...",
+  "published_at": "2026-10-20T21:06:08.000+09:00",
+  "collected_at": "2026-10-22T21:37:53.291Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 47,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

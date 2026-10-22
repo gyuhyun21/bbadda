@@ -1,0 +1,26 @@
+{
+  "id": "youtube-79f7ba30",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "youtube",
+  "source_name": "야구자판기",
+  "url": "https://www.youtube.com/watch?v=EZSTRh8JaT8",
+  "title": "롯데 방출 16명 | 2억 주고 데려온 금메달리스트 최충연도 떠났다 #롯데 #최충연 #방출",
+  "published_at": "2026-10-22T14:05:19Z",
+  "collected_at": "2026-10-22T21:37:53.291Z",
+  "summary_ko": "야구자판기가 롯데의 16명 방출 소식을 전하며 최충연의 이탈을 짚었다.",
+  "metrics": {
+    "views": 16574,
+    "likes": 46,
+    "comments": 14
+  },
+  "scores": {
+    "hot": 52,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

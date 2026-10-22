@@ -1,0 +1,24 @@
+{
+  "id": "community-71b6bdf6",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "lg"
+  ],
+  "source_type": "community",
+  "source_name": "레딧 r/KBO",
+  "url": "https://www.reddit.com/r/KBO/comments/1xau7yk/highlights_highlights_2026_kbo_postseason/",
+  "title": "KIA Tigers vs. LG Twins (Partita 3)",
+  "published_at": "2026-10-20T15:00:00.000Z",
+  "collected_at": "2026-10-22T21:37:53.291Z",
+  "summary_ko": "",
+  "excerpt": "... [In evidenza] [In evidenza] Semifinale della Postseason KBO 2026: KIA Tigers vs. LG Twins…",
+  "metrics": {},
+  "scores": {
+    "hot": 48,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}
