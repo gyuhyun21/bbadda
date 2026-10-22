@@ -1,0 +1,22 @@
+{
+  "id": "community-380efec1",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 오늘의 알짜 정보",
+  "url": "https://blog.naver.com/gus5547/224448807649",
+  "title": "두산 손아섭 김명신 김민혁 방출 재계약 불가의 사회적 파장",
+  "published_at": "2026-10-21T12:20:00.000+09:00",
+  "collected_at": "2026-10-22T07:38:10.169Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 58,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

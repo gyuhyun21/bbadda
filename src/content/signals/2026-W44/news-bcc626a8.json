@@ -1,0 +1,24 @@
+{
+  "id": "news-bcc626a8",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "announcement": true,
+  "source_name": "스타뉴스",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAtdFBZbHRBZjlWMVYzSlBkcDk1cGRSeHo0WVp2Zmx1ZW1MMW5sYXlNZjkwbnhtUUdVS0NXSjhaV3VEUTRZNzlUUjFnUF85ZEtJWVptMV9JalY0dmNUaWRwWDlhZUhvN181ZlZHSURnYkNwcHd1QlE?oc=5",
+  "title": "[공식발표] '45년 잠실의 진짜 마지막 이닝' 이승엽·이대호·박용택 등 레전드 58명 뜬다... 외야석 3000원",
+  "published_at": "2026-10-22T06:31:00.000Z",
+  "collected_at": "2026-10-22T07:38:10.169Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "community-6219052b",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "엠엘비파크",
+  "url": "https://mlbpark.donga.com/mp/b.php?id=202610220119593827&p=1&b=kbotown&m=view&site=donga.com",
+  "title": "양의지 = 20홈런 치는 김선빈",
+  "published_at": "2026-10-22T02:38:10.169Z",
+  "collected_at": "2026-10-22T07:38:10.169Z",
+  "summary_ko": "",
+  "excerpt": "... ... 롯데야구 - 공격 롤 모델 삼성. 7. 크보는 감독들이 돈을 너무 많이 받음.…",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

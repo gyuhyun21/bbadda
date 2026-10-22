@@ -1,0 +1,23 @@
+{
+  "id": "community-3fa3a312",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 팩트 파인더 (Fact Finder)",
+  "url": "https://jumyung7519.tistory.com/14",
+  "title": "[2026 KBO 플레이오프 분석] 가을야구 ‘달빛 시리즈’ 성사! 삼성 라이온즈 vs KIA 타이거즈 매치업...",
+  "published_at": "2026-10-22T14:04:08.000+09:00",
+  "collected_at": "2026-10-22T07:38:10.169Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

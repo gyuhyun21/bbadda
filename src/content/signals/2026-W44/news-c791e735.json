@@ -1,0 +1,24 @@
+{
+  "id": "news-c791e735",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "뉴시스",
+  "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261022_0003836546",
+  "title": "화끈한 타격전? 삼성-KIA, 리그 최강 원투펀치 맞대결도 기대감↑[PO]",
+  "published_at": "2026-10-22T03:31:53.000Z",
+  "collected_at": "2026-10-22T07:38:10.169Z",
+  "summary_ko": "뉴시스는 PO를 앞두고 삼성과 KIA의 리그 최강 원투펀치 맞대결이 기대된다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 99,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "삼성-KIA, 원투펀치 대결"
+}

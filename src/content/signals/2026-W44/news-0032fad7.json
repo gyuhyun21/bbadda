@@ -1,0 +1,22 @@
+{
+  "id": "news-0032fad7",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스1",
+  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE40TzBVQzB0QnMwRWlQY1FhUjAtc1RxVV9yVDc3b1hhcVFLNEtxY3h1c1c3aTc2QVQ2Vno3MFNEU1Baal9GaFBRVnBtTnJjNTFqMVR1czlFSQ?oc=5",
+  "title": "'삼성에 약한' 전상현 vs '대구 징크스' 김재윤…PO '수호신'은 누구",
+  "published_at": "2026-10-22T04:33:00.000Z",
+  "collected_at": "2026-10-22T07:38:10.169Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

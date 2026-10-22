@@ -1,0 +1,23 @@
+{
+  "id": "news-f8f50d40",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "뉴시스",
+  "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261022_0003836595",
+  "title": "시즌 마무리한 LG, 11명 방출하며 선수단 정리…장시환·송대현은 은퇴",
+  "published_at": "2026-10-22T02:57:39.000Z",
+  "collected_at": "2026-10-22T07:38:10.169Z",
+  "summary_ko": "뉴시스는 LG가 시즌을 마치며 11명을 방출해 선수단을 정리했다고 전했다. 장시환·송대현은 은퇴한다.",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "negative",
+  "brief_ko": "LG, 11명 방출·장시환 은퇴"
+}

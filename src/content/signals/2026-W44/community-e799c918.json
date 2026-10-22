@@ -1,0 +1,22 @@
+{
+  "id": "community-e799c918",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 백산새봄 검색형 블로그",
+  "url": "https://blog.naver.com/mandal/224448910661",
+  "title": "최다 안타의 전설 손아섭 결국 두산 떠난다… 베테랑 포함 11명 방출 소식",
+  "published_at": "2026-10-21T13:42:00.000+09:00",
+  "collected_at": "2026-10-22T07:38:10.169Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 58,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

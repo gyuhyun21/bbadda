@@ -1,0 +1,29 @@
+{
+  "id": "news-7ddb1554",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "헤럴드경제 미주판",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBIaW9wRlVQazhLUk4yUVByaUJmME1sb0dZbVZITnVSM21vNklKQ2Fjcl82OVlxckxLcWZQSjN0UFFDQl91OWtyUU43bXlyTTU1UDlhRXkyWVFmZUlwLVhFeQ?oc=5",
+  "title": "‘KIA전 2패’ 페덱, 가을엔 다를까…삼성 선발진 설욕 주목",
+  "published_at": "2026-10-21T09:34:00.000Z",
+  "collected_at": "2026-10-22T07:38:10.169Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "헤럴드경제",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ia0gxU1g5Xy1XMGR5WHRRd1paQUpSN0tQZXRuclZLZWlwOFozdVdoSEdIV1gxREtzX25QRmVLVzc0alNHbVFTSjZ2cS1GVkhIZ2stdGdR?oc=5"
+    }
+  ]
+}

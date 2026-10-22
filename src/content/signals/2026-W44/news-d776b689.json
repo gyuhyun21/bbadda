@@ -1,0 +1,23 @@
+{
+  "id": "news-d776b689",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "네이트뷰",
+  "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE05Y2ZrSnp4dTZodDI3OThUR1h5eXVVZThYWVEzTDE4OHktd2J6ZU9VM2tURDNDSnZhblY1NGdmWm9VMVFUV3ZtMHhVU1RZc1dMNWfSAVdBVV95cUxNZGtXN2RLbmlSQWE1RGFMOTRfcFN6RWJHaVlCSVJidG1xV1lLaFBxa19pLWZJNkt2SC04UkNKT2txTlh5T2o4V1VTbHlzQVNha2RFZG5tdm8?oc=5",
+  "title": "“박찬호·김현수 다음은 김주원? 韓 야구 초대형 경사”…MLB 명문구단에서 주목",
+  "published_at": "2026-10-21T23:54:00.000Z",
+  "collected_at": "2026-10-22T07:38:10.169Z",
+  "summary_ko": "네이트뷰에 따르면 MLB 명문 구단이 NC 김주원에게 주목하고 있다고 한다.",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

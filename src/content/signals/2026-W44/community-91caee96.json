@@ -1,0 +1,23 @@
+{
+  "id": "community-91caee96",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "community",
+  "source_name": "디시 야구 갤러리",
+  "url": "https://gall.dcinside.com/mini/board/lists/?id=ssglanders",
+  "title": "SSG 랜더스 미니 갤러리 - 커뮤니티 포털 디시인사이드",
+  "published_at": "2026-10-20T15:00:00.000Z",
+  "collected_at": "2026-10-22T07:38:10.169Z",
+  "summary_ko": "",
+  "excerpt": "... KBO 리그 소속 프로야구단. 연고지는 인천광역시이며 신세계그룹의 계열사 이마트를 모기업으로 두고 있다. - SSG…",
+  "metrics": {},
+  "scores": {
+    "hot": 53,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

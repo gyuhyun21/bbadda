@@ -1,0 +1,23 @@
+{
+  "id": "community-e77b9593",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 Tiswriter 님의 블로그",
+  "url": "https://bignewsforge.com/6593",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/8PIoGEnI8Q",
+  "title": "태풍 '참피' 북상, 삼성 라이온즈 플레이오프 일정에 변수 발생",
+  "published_at": "2026-10-22T10:05:31.000+09:00",
+  "collected_at": "2026-10-22T07:38:10.169Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

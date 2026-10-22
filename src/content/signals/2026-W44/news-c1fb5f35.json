@@ -1,0 +1,23 @@
+{
+  "id": "news-c1fb5f35",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9hcHpLbWRiWFFjY1VJMG5iVUJ6ZUJwUXQ1aXZ5M1ZjanZfUG42SHhvLW04QUVBRGREcFVWUFB3ZnZYZWFfYUp4bHVUaElkaXVMNDF0QndXZTl1YzVlMW5YNDRCZ1pNdGJoVWZSTnI0bTdaMkxCcWhoWmhMMFpCdw?oc=5",
+  "title": "'핵심 투수 5명 이미 일본으로 떠났다' SSG, 가고시마-인천-강화 체계적 마무리 훈련 실시",
+  "published_at": "2026-10-22T01:03:42.000Z",
+  "collected_at": "2026-10-22T07:38:10.169Z",
+  "summary_ko": "스포츠조선은 SSG 핵심 투수 5명이 이미 일본으로 떠났다며 가고시마·인천·강화로 이어지는 마무리 훈련 체계를 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "SSG, 핵심 투수 5명 일본 선행"
+}

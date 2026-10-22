@@ -1,0 +1,36 @@
+{
+  "id": "news-d93ae525",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "news",
+  "source_name": "연합뉴스",
+  "url": "https://www.yna.co.kr/amp/view/AKR20261022064400007",
+  "title": "프로야구 SSG, 가고시마·문학·강화서 맞춤형 '레벨업 캠프'",
+  "published_at": "2026-10-22T01:17:38.000Z",
+  "collected_at": "2026-10-22T07:38:10.169Z",
+  "summary_ko": "연합뉴스는 SSG가 가고시마·문학·강화에서 맞춤형 '레벨업 캠프'를 연다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 90,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "TopStarNews",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB1R0g0Yk5ldEo0eEFmMnFFWDFZekF4dU0zWGpxOURkbmNBVUVtTjE4aVV1cDdjUUVVNVN2ODdBcFlOVHF0TFppRmtEQm9GRV9KaXVwVldOLVVLVHNfYzhldW5sWVNRbjltcDA1ZnFMUHdDQQ?oc=5"
+    },
+    {
+      "source_name": "더게이트",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9FUUg5cHl3UnBhbVF0THRMOHdhX0NNSVFKbWFhY1BSU01jR0UzS3NNMzJHZ25NaG1CTThnMFJDZ0FlT0dBTXdsaUpkbGh0MW5tTWVoRDB5dHJTRDExU0ZOOW96TWpiN0tK0gFsQVVfeXFMT3o4MFYtdTVlRXJyeGVVd3R4RWVjazk3ZXhTZGx6VDVfNTVJbE5yZzItYVl4eW1nRVl2clF1aENncXdyQ1ltYXB3c29JNUM5QWpyQjJ4OThTWGdKYzFELVpZYUY4VFpQMFNURFho?oc=5"
+    },
+    {
+      "source_name": "뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBVdmVBTFZRN0J5djNacFJpVy03akI4OHotVHdtUHBvanZuZDk4aG5SZVlPR0lTckdVZTVNNk9VRTRja2pQN3RzWXBiNkdJSGhVMnJMd0U4TQ?oc=5"
+    }
+  ]
+}

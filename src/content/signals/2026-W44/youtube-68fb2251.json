@@ -1,0 +1,26 @@
+{
+  "id": "youtube-68fb2251",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "정병야구",
+  "url": "https://www.youtube.com/watch?v=uzkszubhTuo",
+  "title": "다리 세 번 맞은 김태군 #kbo #야구 #프로야구 #기아타이거즈 #엔씨다이노스 #김태군",
+  "published_at": "2026-10-22T00:00:23Z",
+  "collected_at": "2026-10-22T07:38:10.169Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 2113,
+    "likes": 22,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 50,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "community-06f78e87",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 Ryan's Blog",
+  "url": "https://ryan.tistory.com/938",
+  "title": "삼성-KIA 플레이오프 25일 개막… 1차전 페덱·네일 맞대결",
+  "published_at": "2026-10-22T09:10:09.000+09:00",
+  "collected_at": "2026-10-22T07:38:10.169Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 81,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "TSN KOREA",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE84MlVOM2pKeTBtbjZVM1Y4clk4TkpGYUllS0RyTVNrWkhqRlFSYVhwdmtIVVJ1RnduWVNfNUFrWWdRaHg2T1FTZmpTZlZtbVJjRTQtSzlnZzNucEJoVWxvdA?oc=5"
+    }
+  ]
+}

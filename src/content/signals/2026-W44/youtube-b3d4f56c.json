@@ -1,0 +1,26 @@
+{
+  "id": "youtube-b3d4f56c",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "외야석야구",
+  "url": "https://www.youtube.com/watch?v=XseI_Up5DiM",
+  "title": "KBO 역사상 가장 멀리 날아간 만루홈런 #김도영 #KIA타이거즈 #KBO",
+  "published_at": "2026-10-22T05:30:16Z",
+  "collected_at": "2026-10-22T07:38:10.169Z",
+  "summary_ko": "야구 팬 채널 '외야석야구'가 김도영의 만루홈런을 KBO 역사상 가장 멀리 날아간 만루홈런이라며 소개했다.",
+  "metrics": {
+    "views": 991,
+    "likes": 24,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 57,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-c7f2d0c4",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "news",
+  "source_name": "m.maniareport.com",
+  "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBfRHNJbXd0R1EzNU5FdjV3ZEt2SklTSElYeXhhbjdhWDBHd0dkMlJpMkVHWHRnSWlkaHZRNkJIc3FubEN4UzBFU3FTeW95YzEwbnR6MTRKeHoxNFdDUEg4LW1TN2ttdHNIcHl6Qm8wbElwME4tUkNOclJ5bw?oc=5",
+  "title": "'그것이 알고싶다' SSG, 아빌라 계약 규모 발표 왜 미루나?",
+  "published_at": "2026-10-21T21:19:15.000Z",
+  "collected_at": "2026-10-22T07:38:10.169Z",
+  "summary_ko": "마니아리포트는 SSG가 아빌라의 계약 규모 발표를 미루는 이유를 짚었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "SSG, 아빌라 계약 규모 발표 미뤄"
+}

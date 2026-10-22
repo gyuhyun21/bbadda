@@ -1,0 +1,22 @@
+{
+  "id": "news-e6c1aac2",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "파이낸셜뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9MZXdZOFE3SjJTQzZnS0tRemNRUWlfTEpYanV2RXJ5QjhoTWx2MWdOekVxLWNfN0haZEx4TW9Sdk9PX3A1X2V0T0E1Mk12dGRKWl84QWFUZ2pidw?oc=5",
+  "title": "\"홈런 맞고, 붉은 함성에 질리고\"... 삼성이 진짜 두려워하는 것은 김도영의 '거대한 파급력'",
+  "published_at": "2026-10-22T01:36:53.000Z",
+  "collected_at": "2026-10-22T07:38:10.169Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

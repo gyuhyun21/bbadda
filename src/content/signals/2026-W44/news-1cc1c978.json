@@ -1,0 +1,24 @@
+{
+  "id": "news-1cc1c978",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "남도일보",
+  "url": "https://www.namdonews.com/news/articleView.html?idxno=926917",
+  "title": "[프로야구 PO]승부처는 왼손 싸움…KIA, 삼성 ‘좌타 군단’ 잠재워라",
+  "published_at": "2026-10-22T05:01:00.000Z",
+  "collected_at": "2026-10-22T07:38:10.169Z",
+  "summary_ko": "남도일보는 KIA와 삼성의 플레이오프 승부처로 왼손 싸움을 꼽았다. 삼성의 좌타 군단을 어떻게 막느냐가 관건이라는 내용이다.",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "KIA, 삼성 좌타 군단 막아라"
+}

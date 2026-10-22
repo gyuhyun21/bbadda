@@ -1,0 +1,26 @@
+{
+  "id": "youtube-289c272c",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "youtube",
+  "source_name": "부산부동산 1분브리핑",
+  "url": "https://www.youtube.com/watch?v=FQ9ZBgCWrlE",
+  "title": "[부산살이 팁] 롯데 자이언츠 감독, 구단도 이대호도 마다할 이유 있나?",
+  "published_at": "2026-10-22T03:00:32Z",
+  "collected_at": "2026-10-22T07:38:10.169Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1173,
+    "likes": 1,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 39,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-ffec8da4",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "news",
+  "source_name": "스포탈코리아",
+  "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOS1hZZGRSTVdNcXhLRVo0YTUzOUFnMXpNWk54MkNGS3puUFQ3dGd4Vldvenc3MEsxWV9RajdibU9OdmJncl9YQnFSZ2cxZ1hZRjVsTUxTdGhNSGFIcklzS3ZmcjdJTFNfNUlCT0x4b0VfMkxnbnZrd3huNkpHX3pxbXZR?oc=5",
+  "title": "12년 동안 두산만 바라봤는데 1군 출전 단 120경기...끝내 방출된 거포 유망주 \"죄송한 마음 가지고 떠납니다\"",
+  "published_at": "2026-10-21T12:40:00.000Z",
+  "collected_at": "2026-10-22T07:38:10.169Z",
+  "summary_ko": "스포탈코리아는 두산에서 12년을 뛴 거포 유망주가 1군 120경기만 뛰고 방출됐다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 61,
+    "relevance": 70
+  },
+  "sentiment": "negative",
+  "brief_ko": "두산, 거포 유망주 방출"
+}

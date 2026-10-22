@@ -1,0 +1,28 @@
+{
+  "id": "news-070ee6d8",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8ySVFtTExnendiT2QxRjhkTy1uVVdFWUkybEs5MDhmTC1ZVkZraDJTSWpST2Z1SFozLVp4T0ZmNmdpNWpPT3RvTjd2SHgydEppbGxoMzdXdHBkQXhxV2JrUVdQTU4xX0FWYzlXbDdIQdIBb0FVX3lxTE8ySVFtTExnendiT2QxRjhkTy1uVVdFWUkybEs5MDhmTC1ZVkZraDJTSWpST2Z1SFozLVp4T0ZmNmdpNWpPT3RvTjd2SHgydEppbGxoMzdXdHBkQXhxV2JrUVdQTU4xX0FWYzlXbDdIQQ?oc=5",
+  "title": "日언론 고우석과 원수졌나, 또 맹비난 왜? “ML서 방출된 고우석, LG 복귀 후 또다시 문제 행동”",
+  "published_at": "2026-10-21T23:22:00.000Z",
+  "collected_at": "2026-10-22T07:38:10.169Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 73,
+    "relevance": 70
+  },
+  "sentiment": "mixed",
+  "also_in": [
+    {
+      "source_name": "미주중앙일보",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBGbnZIUDV2SFdCOHpXRHBVV0laNlQxOV8wSkFZMDlRcWY3Zm9jYlVLcTVqVU43TjU4UVRSdEVSSVY1YW9VSkdCek9iQzBZbk9VbjAyeTNPNGJCc3hyNDg5YWp3?oc=5"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "news-e674d810",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "news",
+  "announcement": true,
+  "source_name": "스포츠조선",
+  "url": "https://www.sportschosun.com/baseball/2026-10-22/202610220100143040009312",
+  "title": "한국시리즈 앞둔 KT, 선수단 정리 완료…최동환·조이현 등 10명 떠났다 [공식발표]",
+  "published_at": "2026-10-22T05:25:39.000Z",
+  "collected_at": "2026-10-22T07:38:10.169Z",
+  "summary_ko": "스포츠조선은 KT가 한국시리즈를 앞두고 최동환·조이현 등 10명과 이별하며 선수단 정리를 마쳤다고 공식 발표를 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 99,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5wRnlsbzlkM2h1eElxU0J4ZWx1LWdEbEdmaFhIOVN1U2twZ2JhUmJtOWYxWmxOeGJ0RkY0MTBfSTFqSWhIYmtJX1lOcF9aLWhsbjdEeUp3UGJNQ0wxTWVBX9IBeEFVX3lxTE9KY3BKczEyUzdhUHg2MzhvV0JNT1ZyMk91WEIySDFnUmRnVkVDdkE0dHo3M2dkTEJpSjE1b3dFaDYyQTE4VWFsWXA5NDBlZ1RmWFVlUDJxXzQzNDdoRnZ3VU16T0lySHF3ODRHaVd6dUlpNFpoQkhZZw?oc=5"
+    },
+    {
+      "source_name": "뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE50bThDT1ZiVFZ6SmFEMy1rdy1pazJ0TFhsdHV0NXpVa1h6ZnYtV0lwS0UxeW5IQjNMUnJWN3E1V1lTS1czdFBGUV95QmdiSmtjYXoyQ2lDTQ?oc=5"
+    },
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRjJReTV6SzdKSjVPWWVZLVZ3QWhZbXZaNmc1aS1KN045MnFGc0FUUG9lVF94alJVY3pRd0p3RFV6OS1EZW4wZG5BNmV3eXZzeWthTll0N25SYVNUVVRZZk1jclU0OXNwNkdMOXhBWkg1MzB5TmRjdzVqYkRGbEJwbTMyNA?oc=5"
+    },
+    {
+      "source_name": "스포츠한국",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5DeGpveW5tZ2dIcHEtZ0xVaHZjZi0xckkteFdGb3VCZW1LaDUzbC1KTFp4NWVXeGZ3NzlDM0JqU1ItUUpxMTNCZGhkeWliTTI5VE9nN09vRHRjM0Rvc2V1RThfcEJtb19mZGpHYlhLYVDSAXRBVV95cUxOMFRLal9iN1Y1M2tGNkV1OTlTcmw4aWVNM3lYaG16YlJoQVhrTnE0d0J0a0ZXR1Jhb3Rnd1FlbTNhbUUyaW5rWFZrRkRERmxQM1ctZHVCdVc4V2M5SzhxUk9LeGlkdUpYa3d5THVrWFluZmpSUA?oc=5"
+    }
+  ],
+  "brief_ko": "KT, 선수 10명 정리"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "youtube-bd11b19a",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "youtube",
+  "source_name": "KBOSpotlight24h",
+  "url": "https://www.youtube.com/watch?v=OjRTn_OmZVM",
+  "title": "롯데 차기 단장 이택근? 다카쓰의 뜻밖의 추천!#롯데자이언츠 #롯데감독#KBO",
+  "published_at": "2026-10-22T03:00:21Z",
+  "collected_at": "2026-10-22T07:38:10.169Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 148,
+    "likes": 1,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 32,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

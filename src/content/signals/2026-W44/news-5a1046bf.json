@@ -1,0 +1,23 @@
+{
+  "id": "news-5a1046bf",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠경향",
+  "url": "https://sports.khan.co.kr/article/202610221535003",
+  "title": "잠실 마지막 해, 두산 핵심 타자로 자리매김한 김민석 “시즌 완주에 큰 의미”",
+  "published_at": "2026-10-22T06:35:00.000Z",
+  "collected_at": "2026-10-22T07:38:10.169Z",
+  "summary_ko": "스포츠경향은 두산 김민석이 잠실 마지막 해에 핵심 타자로 자리 잡았다며 시즌 완주의 의미를 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "김민석, 잠실 마지막 해 핵심 타자"
+}

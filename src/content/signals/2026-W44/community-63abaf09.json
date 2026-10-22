@@ -1,0 +1,24 @@
+{
+  "id": "community-63abaf09",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&page=7&document_srl=10471956822",
+  "title": "아 그 팀한테 삐져서 떠나신다는분도 걍 옵트아웃전에 방출 때려주지",
+  "published_at": "2026-10-22T02:38:10.169Z",
+  "collected_at": "2026-10-22T07:38:10.169Z",
+  "summary_ko": "",
+  "excerpt": "... [전국체전]SSG 랜더스 5라운더 충암고 외야수 장민제 오늘자 1안타.GIF. 16 분 전 아마&사회인야구 스퍼스랩 조회69…",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

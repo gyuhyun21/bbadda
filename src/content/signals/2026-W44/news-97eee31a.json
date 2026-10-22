@@ -1,0 +1,23 @@
+{
+  "id": "news-97eee31a",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "무등일보",
+  "url": "https://m.mdilbo.com/detail/nVtPPU/759896",
+  "title": "'가을 DNA'가 폭발한다···'포스트시즌 무패 행진' KIA, 역대 가을야구 지배자 증명",
+  "published_at": "2026-10-22T06:58:00.000Z",
+  "collected_at": "2026-10-22T07:38:10.169Z",
+  "summary_ko": "무등일보는 포스트시즌 무패 행진을 이어가는 KIA를 두고 가을야구 지배자를 증명하고 있다고 썼다.",
+  "metrics": {},
+  "scores": {
+    "hot": 84,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "KIA, 가을야구 무패 행진"
+}

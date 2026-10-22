@@ -1,0 +1,22 @@
+{
+  "id": "news-a90e0408",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠경향",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1IVGd4QlJZTW5aR3pqRGE2eGZGOU5PNkF2VzVfSVJwUmMwSGItb2lNN0Qwbl9fXzVQcjRKZmRaWmM5QktPd21sY2s5ckN4SkFJcE50U0ZkOUtEanFzUEpBbms5QdIBY0FVX3lxTE1IVGd4QlJZTW5aR3pqRGE2eGZGOU5PNkF2VzVfSVJwUmMwSGItb2lNN0Qwbl9fXzVQcjRKZmRaWmM5QktPd21sY2s5ckN4SkFJcE50U0ZkOUtEanFzUEpBbms5QQ?oc=5",
+  "title": "최형우가 다시 KIA를 만난다, 이번에는 적으로…PO에서 펼쳐지는 ‘최형우 시리즈’",
+  "published_at": "2026-10-21T08:20:00.000Z",
+  "collected_at": "2026-10-22T07:38:10.169Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 60,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

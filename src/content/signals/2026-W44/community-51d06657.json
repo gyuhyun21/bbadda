@@ -1,0 +1,44 @@
+{
+  "id": "community-51d06657",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "community",
+  "source_name": "다음카페 쭉빵카페",
+  "url": "https://cafe.daum.net/ok1221/8mNz/1183105",
+  "title": "KT 위즈 창단 멤버 내야수 문상철(35)이 12년 선수 생활...",
+  "published_at": "2026-10-22T10:52:30.000+09:00",
+  "collected_at": "2026-10-22T07:38:10.169Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 98,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5SUGV2eHVhLTRiSFRaRHp6MWhfWFJQcHhVY2dTaDlDU0lxZ1dNcHFPNFhXZVlOS2lPQUg0YnhrNWtqWXlJeUE?oc=5"
+    },
+    {
+      "source_name": "뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFByc1lCeEpnVVY5a2djZ0ZzTE9kRjh4UDFhRW1oZWo5SVV4Y0xtdGJBR1Y1UHhzVUtibmtZRnhQZkRaRHdxUGpObEs3UWw1WVBLcVVCQTJ5UlpQek9QbzgtcFp3emRFVXRJT0dDVzZ6eUxDTVg2ZVJZVNIBeEFVX3lxTFByc1lCeEpnVVY5a2djZ0ZzTE9kRjh4UDFhRW1oZWo5SVV4Y0xtdGJBR1Y1UHhzVUtibmtZRnhQZkRaRHdxUGpObEs3UWw1WVBLcVVCQTJ5UlpQek9QbzgtcFp3emRFVXRJT0dDVzZ6eUxDTVg2ZVJZVA?oc=5"
+    },
+    {
+      "source_name": "뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBoLWRJMW16TmpxenZ3b3IwaTlmUUUwUjV4X3BVWFV4cERPZ0FqOWpmczFMWE1qdkZZa3hraGc4Z3hCT2tKbTNEbEJGOWZ1WERFMGljVlYyZw?oc=5"
+    },
+    {
+      "source_name": "뉴스핌",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBiRDRrVGdnTVZkcFpNY0F3eUNpeG9JRThqVXZTZzdpdF96YVpIYjJMX0xTYlZySnNBR2xTWXNwcU5oNmdBbW9XYXV3WjZzREFRWHI0a19aWEdJMUZB?oc=5"
+    },
+    {
+      "source_name": "기호일보",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBLd3Z5SDZ5ZmxnNlhNdldvNkE2ZGktbWdiaFV3YmdJaTZtSFg4ckR1NUQtNC14YWdTc0VTYmE2YnozWVNPTGg2T3F0bDVIUGJYNVl5dVJhcWFTY3NTZzd5OFdlZkluOFpTREVxd1ZZSQ?oc=5"
+    }
+  ]
+}

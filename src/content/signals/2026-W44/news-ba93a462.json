@@ -1,0 +1,23 @@
+{
+  "id": "news-ba93a462",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "신아일보",
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBWQUppZFgtbnV2ZnFOR0I3UkF3dVpFUWJrV3k2aFRwMGllMEs0OWFHRUsyaHU5OERjUDJyRk1TT1FiTTJlc3A5Wkkya3hiZjRPMUdoSWxnRk5DX05ITXdJYmhTNFMzTFJza1luV0JUSlo?oc=5",
+  "title": "삼성·KIA 격돌 KBO 플레이오프, 25일 대구서 시작…5전 3선승제 승부",
+  "published_at": "2026-10-22T04:23:09.000Z",
+  "collected_at": "2026-10-22T07:38:10.169Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 91,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

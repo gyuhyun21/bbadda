@@ -1,0 +1,33 @@
+{
+  "id": "community-4fc79d26",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "community",
+  "source_name": "더쿠",
+  "url": "https://theqoo.net/square/4383102083",
+  "title": "[KBO] kt 위즈 창단멤버 문상철 은퇴",
+  "published_at": "2026-10-22T03:38:10.169Z",
+  "collected_at": "2026-10-22T07:38:10.169Z",
+  "summary_ko": "",
+  "excerpt": "... 사실 이번 시즌에는 1군에 거의 올라오지 못했고 정규시즌 말미에 콜업되었는데. 정규시즌 우승이 확정된 날에…",
+  "metrics": {},
+  "scores": {
+    "hot": 83,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "이투데이",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5OV3dOcnk5RlNRWWRDaDJLSWFxN0VobFh2ZWUyLUZZaU9LLXJhMUtxcFBTbV8tSVJOamNZa3FLa05mN19ybWVITElBWEF5aUdiQlBUQTgxdTF3Y2V3UnFRUGlvRDhINm9xQjQzRDFR?oc=5"
+    },
+    {
+      "source_name": "TSN KOREA",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1vMGNZajk2bUNHOEZFelYzY3NyRjlWRWJZbUxsS1pVbTRYT1JqNXQxcklLXzl3N3Y5RlJ6ck9aWi1qQ1lBYW9qZmxMTF9CeWxBVDFIZXpYZ1RXcUxndy1pTQ?oc=5"
+    }
+  ]
+}

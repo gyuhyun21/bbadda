@@ -1,0 +1,24 @@
+{
+  "id": "community-23db774e",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 오늘의 한국사",
+  "url": "https://todaykhistory.tistory.com/445",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/EHbnHdp3ipw",
+  "title": "[풍속의 기록] 1986년 10월 22일 한국시리즈 3차전 해태 버스 방화 사건으로 본 1980년대 프로야구 응원...",
+  "published_at": "2026-10-22T16:29:01.000+09:00",
+  "collected_at": "2026-10-22T07:38:10.169Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

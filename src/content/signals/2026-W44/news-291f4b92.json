@@ -1,0 +1,24 @@
+{
+  "id": "news-291f4b92",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAxN3NReEZ6VER3czBFZTdmM01COEFjdl9EamtPUGlwQmVVeHRZQ3VPdkRpRV9ESF9iQlBVTnpvellNTGlOaDZwYTNfRkN0ZGNpdnhfUkZkWDFVb2FzbTlPNnh0NGpqOHRTQUR0dHJ4SzlibW9qcm5RS2o4U2tGUQ?oc=5",
+  "title": "'이제 서른' 모두가 탐낸 홈런왕 재능 아직 안 터졌다…충격의 방출 통보, \"한 번 더 해보겠습니다\" [인터뷰]",
+  "published_at": "2026-10-22T01:36:47.000Z",
+  "collected_at": "2026-10-22T07:38:10.169Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "mixed"
+}

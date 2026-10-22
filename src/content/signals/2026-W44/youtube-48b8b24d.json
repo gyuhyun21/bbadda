@@ -1,0 +1,27 @@
+{
+  "id": "youtube-48b8b24d",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "youtube",
+  "source_name": "한장백과",
+  "url": "https://www.youtube.com/watch?v=T4WqDGRFkWg",
+  "title": "1순위는 키움 하현승! 2027 KBO 1라운드 지명 10명 #KBO",
+  "published_at": "2026-10-21T21:00:04Z",
+  "collected_at": "2026-10-22T07:38:10.169Z",
+  "summary_ko": "야구 채널 '한장백과'가 2027 KBO 1라운드 지명 10명을 소개했다. 1순위는 키움 하현승이다.",
+  "metrics": {
+    "views": 393,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 32,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "키움, 1순위 하현승 지명"
+}

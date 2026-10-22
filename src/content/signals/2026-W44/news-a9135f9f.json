@@ -1,0 +1,26 @@
+{
+  "id": "news-a9135f9f",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "lg",
+  "teams": [
+    "lg",
+    "samsung",
+    "kia",
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "JTBC",
+  "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE44Wmx5M2tCZzhvUzMwT1BMOTdrSkhfQkFQT25sakEwRDdfUFNYZjBweXQwMloxUk0zcDlVLWEzV0xQLVRQdFpJbHBiZklSejNtZ2c?oc=5",
+  "title": "김도영이 김도영했다...슈퍼스타란 이런것, 잠실구장 마지막 만루홈런을",
+  "published_at": "2026-10-22T03:36:47.000Z",
+  "collected_at": "2026-10-22T07:38:10.169Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 91,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-cf589410",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠경향",
+  "url": "https://sports.khan.co.kr/article/202610221625003",
+  "title": "제대로 붙자! 원투펀치 강한 삼성-KIA의 PO 외나무 대결…2년 전 KS보다 더 강해졌다",
+  "published_at": "2026-10-22T07:25:00.000Z",
+  "collected_at": "2026-10-22T07:38:10.169Z",
+  "summary_ko": "스포츠경향은 원투펀치가 강한 삼성과 KIA의 PO가 2년 전 한국시리즈보다 더 강해진 대결이라고 평가했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

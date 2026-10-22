@@ -1,0 +1,24 @@
+{
+  "id": "community-04f709d9",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 radetz1307",
+  "url": "https://radetz1307.tistory.com/984",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/63XN9F2lcSH",
+  "title": "이제 '잠실올림픽주경기장' 시대, 무엇이 변하는가[초점]",
+  "published_at": "2026-10-22T10:42:54.000+09:00",
+  "collected_at": "2026-10-22T07:38:10.169Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

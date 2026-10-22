@@ -1,0 +1,25 @@
+{
+  "id": "youtube-56246d1e",
+  "issue": "2026-W44",
+  "module": "league",
+  "teams": [],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=dMjTt4b8-TA",
+  "title": "'부산고 오타니' 하현승의 선택은?",
+  "published_at": "2026-10-22T01:58:10Z",
+  "collected_at": "2026-10-22T07:38:10.169Z",
+  "summary_ko": "KBO 공식 채널이 '부산고 오타니'로 불린 하현승의 선택을 다룬 영상을 올렸다.",
+  "metrics": {
+    "views": 3965,
+    "likes": 125,
+    "comments": 4
+  },
+  "scores": {
+    "hot": 71,
+    "relevance": 10
+  },
+  "sentiment": "neutral",
+  "brief_ko": "KBO, 하현승의 선택 공개"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-8681540b",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "영남일보",
+  "url": "https://www.yeongnam.com/web/view.php?key=20261022028236235",
+  "title": "박진만 삼성 라이온즈 감독 “안방서 PO 1·2차전 잡고 한국시리즈 간다… ‘힘 대 힘’ 정면승부”",
+  "published_at": "2026-10-22T07:12:36.000Z",
+  "collected_at": "2026-10-22T07:38:10.169Z",
+  "summary_ko": "영남일보는 삼성 박진만 감독이 안방에서 PO 1·2차전을 잡고 한국시리즈에 가겠다며 힘 대 힘 승부를 예고했다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "박진만 \"1·2차전 잡고 KS 간다\""
+}

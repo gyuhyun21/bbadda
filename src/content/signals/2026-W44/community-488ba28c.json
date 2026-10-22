@@ -1,0 +1,41 @@
+{
+  "id": "community-488ba28c",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&page=2&document_srl=10472180742",
+  "title": "준PO 탈락 LG, 선수단 정리…현대 마지막 유산 장시환 은퇴",
+  "published_at": "2026-10-22T04:38:10.169Z",
+  "collected_at": "2026-10-22T07:38:10.169Z",
+  "summary_ko": "",
+  "excerpt": "... 올시즌 프로야구 준플레이오프(PO)에서 탈락한 LG트윈스가 선수단을 정리했다.22일 LG 구단에 따르면 11명의 선수들과 재계약하지 않기로…",
+  "metrics": {},
+  "scores": {
+    "hot": 99,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "마이데일리",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1JT3R6dzVncFF0VzNJNlNlZFh6d1dGQ0dGTWpqTWNNM3BxZHB6ckFvV0pqVE5obmJEVVkyWFJFRWIxZWJaOFdXa0dWdWhVQjdxanhwd1RSQ2hOTm5OWnNYYk5HWHZBZw?oc=5"
+    },
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1HajJ2Ukg3bEVxdjMzdGxyYWs1Y0hRUjFvckJqUkV0R091XzNHNVJDSXZaNm53MnhhZDYteHdLanByQVJqWWtOdG5pNlZHMHJmcVRoU0VnU2tMOTV6aVdmanhodVRzbnVDWFpla2VvQdIBb0FVX3lxTE1HajJ2Ukg3bEVxdjMzdGxyYWs1Y0hRUjFvckJqUkV0R091XzNHNVJDSXZaNm53MnhhZDYteHdLanByQVJqWWtOdG5pNlZHMHJmcVRoU0VnU2tMOTV6aVdmanhodVRzbnVDWFpla2VvQQ?oc=5"
+    },
+    {
+      "source_name": "스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1jTGVkZXhnQXVJZlFGQlQzNkVlQkRpbS1QZDNESFNVVWkwTGh4dVJrUFl3VmpPWGg1emR2d2N5cXhUUzIxYjZlWVFMWE81ODRJVktQaGNmb0JGWVY2MU1qZEV0Y1dLdTNvaGM3bVVmaFhjaDZpY1E?oc=5"
+    },
+    {
+      "source_name": "동행미디어 시대",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBwcW56b01GcjVIZU5YbmZibUZqVEd6b1pjbnRuSTJkQnJSdGJYMjlIXy1pTHNyanFCTzZuQ05md0NyWTNYQ2VZZTM1cnYyRjhmMGozOFNvcV9waXFvdlE?oc=5"
+    }
+  ]
+}

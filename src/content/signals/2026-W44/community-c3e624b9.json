@@ -1,0 +1,25 @@
+{
+  "id": "community-c3e624b9",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "lg",
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 블로그",
+  "url": "https://blog.naver.com/onni16/224448401105",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/6Dt2AmRqktU",
+  "title": "KIA 3연승으로 준플레이오프 끝냈다｜LG전 13대1 승리와 삼성전 일정",
+  "published_at": "2026-10-21T12:30:00.000+09:00",
+  "collected_at": "2026-10-22T07:38:10.169Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 58,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

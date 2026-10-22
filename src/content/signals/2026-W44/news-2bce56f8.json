@@ -1,0 +1,24 @@
+{
+  "id": "news-2bce56f8",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://www.mt.co.kr/amp/sports/2026/10/22/2026102211572063266",
+  "title": "'10G 4홈런 폭발' 日 교육리그 지배, 아기곰 김주오 '배트 무게 낮추고 장타력 폭등'... 2년차 반란을 꿈꾼다",
+  "published_at": "2026-10-22T04:38:20.000Z",
+  "collected_at": "2026-10-22T07:38:10.169Z",
+  "summary_ko": "머니투데이는 두산 2년차 김주오가 일본 교육리그 10경기에서 4홈런을 쳤다고 전했다. 배트 무게를 낮춘 뒤 장타력이 늘었다는 내용이다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "brief_ko": "김주오, 교육리그 10G 4홈런"
+}
