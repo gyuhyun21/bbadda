@@ -133,3 +133,12 @@
 .layout-soft .ps-next { box-shadow: 0 10px 28px rgba(29, 29, 31, 0.25); }
 .layout-soft .share-btn { background: var(--soft-bg); box-shadow: var(--raise-sm); }
 .layout-soft .share-btn:active { box-shadow: var(--press); }
+
+/* 사진 없는 소식 카드: 마스코트 + 팀 이름 + 매체 이름(2026-10-23) */
+.layout-soft .rail-thumb-cover.has-emb { grid-auto-flow: column; justify-content: center; align-items: center; gap: 14px; }
+.layout-soft .rail-thumb-emb { width: auto; height: 72%; aspect-ratio: 1; object-fit: contain; filter: drop-shadow(0 6px 14px rgba(0,0,0,.3)); }
+.layout-soft .rail-list .rail-thumb .rail-thumb-emb { position: static; inset: auto; width: auto; height: 72%; border-radius: 0; z-index: auto; background: none; object-fit: contain; box-shadow: none; }
+.layout-soft .rail-thumb-txt { display: grid; gap: 6px; text-align: left; }
+.layout-soft .rail-thumb-cover:not(.has-emb) .rail-thumb-txt { text-align: center; }
+.layout-soft .rail-list .rail-thumb-cover .rail-thumb-mark { font-size: 22px; }
+.layout-soft .rail-list .rail-thumb-cover .rail-thumb-src { font-size: 13px; }

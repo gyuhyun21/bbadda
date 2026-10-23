@@ -4,7 +4,7 @@
 // 같은 크기의 팀 컬러 카드(이니셜 + 출처)로 채워 줄이 가지런하게. 인스타그램 원래 사진은 모달의 공식 퍼가기 화면에서 본다.
 import { newsImages } from '../lib/config.ts';
 import TeamTags from './TeamTags.astro';
-import { displayTitle, fmtDate, teamById, teamColor, youtubeId, SOURCE_LABEL } from '../lib/site.ts';
+import { displayTitle, fmtDate, teamById, teamColor, teamLogo, youtubeId, SOURCE_LABEL } from '../lib/site.ts';
 import type { Signal } from '../lib/schemas.ts';
 interface Props { signal: Signal; showTeams?: boolean }
 const { signal: s, showTeams = true } = Astro.props;
@@ -15,9 +15,13 @@ const team = s.team ? teamById.get(s.team) : undefined;
 <li data-teams={s.teams.join(' ')}>
   <a class="rail-thumb" href={s.url} target="_blank" rel="noopener noreferrer" tabindex="-1" aria-hidden="true" style={`--team:${s.team ? teamColor(s.team) : '#1D1D1F'}`}>
     {thumb && <img src={thumb} alt="" loading="lazy" referrerpolicy="no-referrer" width="320" height="180" onerror="this.remove()" />}
-    <span class="rail-thumb-cover" aria-hidden="true">
-      <span class="rail-thumb-mark">{team?.short ?? 'KBO'}</span>
-      <span class="rail-thumb-src">{s.source_type === 'instagram' ? 'Instagram' : s.official ? '오피셜' : SOURCE_LABEL[s.source_type]}</span>
+    {/* 사진 없는 글: 팀 마스코트 + 팀 이름 + 매체 이름(2026-10-23 주인 요청) */}
+    <span class={`rail-thumb-cover${teamLogo(s.team) ? ' has-emb' : ''}`} aria-hidden="true">
+      {teamLogo(s.team) && <img class="rail-thumb-emb" src={teamLogo(s.team)} alt="" width="96" height="96" loading="lazy" />}
+      <span class="rail-thumb-txt">
+        <span class="rail-thumb-mark">{team?.name ?? 'KBO'}</span>
+        <span class="rail-thumb-src">{s.source_type === 'instagram' ? 'Instagram' : s.official ? `오피셜 · ${s.source_name}` : s.source_name || SOURCE_LABEL[s.source_type]}</span>
+      </span>
     </span>
   </a>
   <div>
