@@ -1,0 +1,22 @@
+{
+  "id": "news-6c07767d",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠경향",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9mVzNiZ3h2MWh4U1c4LTlPb1M2MkhiWU9XTlVtMWlFOTdyakNJR184amRCWVp1Rkh4dy1DOVdZN0w2Mnl3eEVhYjN6VmFSN2xUY01GRVo2cTBTcjUtbENvZUtqc9IBY0FVX3lxTE9mVzNiZ3h2MWh4U1c4LTlPb1M2MkhiWU9XTlVtMWlFOTdyakNJR184amRCWVp1Rkh4dy1DOVdZN0w2Mnl3eEVhYjN6VmFSN2xUY01GRVo2cTBTcjUtbENvZUtqcw?oc=5",
+  "title": "절망 속에서 희망 꽃피운 SSG, 김광현은 ‘우승’을 외쳤다",
+  "published_at": "2026-10-23T04:39:00.000Z",
+  "collected_at": "2026-10-23T07:37:55.592Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

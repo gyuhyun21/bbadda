@@ -1,0 +1,29 @@
+{
+  "id": "community-e93a92aa",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 세상의 모든 정보",
+  "url": "https://blog.naver.com/upland_/224451371279",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/IUNneTXTBkX",
+  "title": "KIA 홍건희 방출 | 프로필, 나이, 연봉",
+  "published_at": "2026-10-23T15:51:00.000+09:00",
+  "collected_at": "2026-10-23T07:37:55.592Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 84,
+    "relevance": 70
+  },
+  "sentiment": "negative",
+  "also_in": [
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORnpUY2RFanFFandOUDJ1elZNdGN5QlhVUXpqb1RYWWNBVHJrYkVFOVNIQ3VSNGV3R2x1M2MzNllBYkpYRGZMTWh5U1M0U3VaUlByRzJob0R2dlpWUHdMRzk4QzExa0tKNG4yczIwZmtNT0JYbmRlV0k3aFVQN2duUzJFTQ?oc=5"
+    }
+  ]
+}

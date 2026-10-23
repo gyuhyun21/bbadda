@@ -1,0 +1,26 @@
+{
+  "id": "youtube-606d3e7d",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "꿀반장TV",
+  "url": "https://www.youtube.com/watch?v=GEWCh_PxgxI",
+  "title": "김도영에게 빠져들 수 밖에 없는 이유 #김도영 #기아타이거즈",
+  "published_at": "2026-10-23T05:55:32Z",
+  "collected_at": "2026-10-23T07:37:55.592Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1164,
+    "likes": 24,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 57,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

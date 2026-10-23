@@ -1,0 +1,24 @@
+{
+  "id": "news-6386eae4",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠타임스",
+  "url": "http://m.thesportstimes.co.kr/news/articleView.html?idxno=376786",
+  "title": "'13일 만에 경기' 삼성 vs '나흘 쉬고 실전' KIA...25일 대구에서 플레이오프 격돌",
+  "published_at": "2026-10-22T22:05:21.000Z",
+  "collected_at": "2026-10-23T07:37:55.592Z",
+  "summary_ko": "삼성은 13일 만에 실전을 치르고 KIA는 나흘 쉰 뒤 25일 대구에서 플레이오프를 시작한다.",
+  "metrics": {},
+  "scores": {
+    "hot": 81,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "PO 1차전 25일 대구 KIA-삼성"
+}

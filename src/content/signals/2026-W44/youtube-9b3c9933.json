@@ -1,0 +1,26 @@
+{
+  "id": "youtube-9b3c9933",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "youtube",
+  "source_name": "스포츠 유",
+  "url": "https://www.youtube.com/watch?v=FZPEYukX5AI",
+  "title": "LG 충격 결단! 김준태 방출, 박동원 FA 잔류 자신감인가?#LG트윈스 #김준태#KBO #김준태방출",
+  "published_at": "2026-10-23T06:00:07Z",
+  "collected_at": "2026-10-23T07:37:55.592Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 77,
+    "likes": 2,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 45,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "news-3079c197",
+  "issue": "2026-W44",
+  "module": "league",
+  "teams": [],
+  "source_type": "news",
+  "source_name": "재경일보",
+  "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1KYjBxLTBtV0lmRkVBM05zYnF3cV8tMnViSmZWWjctdVNLQzc5TVoyOUcxWWdvV3NyNFhRVENOa2NhaldjV3J0cHpMaw?oc=5",
+  "title": "프로야구 PO 11번 중 '업셋' 5번…1차전 승리팀 72.7% KS행 : 스포츠",
+  "published_at": "2026-10-23T02:50:31.000Z",
+  "collected_at": "2026-10-23T07:37:55.592Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 30
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "m.maniareport.com",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1RZlJuU2FfMlNPVExaRjdjYksxM2tTcnRzTGpBN1RqMFlkejdCdGJTME9McnZtdGdxOXBBODNUYUs4eXRzUm5MZV9fa2E5RVNDYzJyWkJCRXVDWGh0ZVZOTlptQmVsTmpMM25xN0h6VWFMa1haOHBvNVJsbw?oc=5"
+    }
+  ]
+}

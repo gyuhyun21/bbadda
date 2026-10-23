@@ -1,0 +1,23 @@
+{
+  "id": "news-daef5e1d",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "뉴시스",
+  "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBCQWQ2d1hGdWx3RUE2ck4wVlBwb1o4b1FhOEtyWTd1YU0yVGlNenVXMEZMMnZRT0FwVFJrdklYMjJzcV9KaFdhb0Y3ZkV3M3VtQnlDVVYwaVJjOW1ibjE0RG54SlluMzJ4eW5EcG9GZ1FsYTB3Ykc0btIBeEFVX3lxTFBCQWQ2d1hGdWx3RUE2ck4wVlBwb1o4b1FhOEtyWTd1YU0yVGlNenVXMEZMMnZRT0FwVFJrdklYMjJzcV9KaFdhb0Y3ZkV3M3VtQnlDVVYwaVJjOW1ibjE0RG54SlluMzJ4eW5EcG9GZ1FsYTB3Ykc0bg?oc=5",
+  "title": "2년 전 승부 흔든 가을비…다시 만난 삼성-KIA, 하늘은 누구 편?[PO]",
+  "published_at": "2026-10-22T21:30:00.000Z",
+  "collected_at": "2026-10-23T07:37:55.592Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 88,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

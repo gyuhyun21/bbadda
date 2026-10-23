@@ -1,0 +1,23 @@
+{
+  "id": "community-3faf7184",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/10474944116",
+  "title": "기아타이거즈 김도영 인지도 - 숲(SOOP)",
+  "published_at": "2026-10-23T00:37:55.592Z",
+  "collected_at": "2026-10-23T07:37:55.592Z",
+  "summary_ko": "",
+  "excerpt": "... 야구팬 외에 유명했던 선수 자체가 김도영 이전에 류현진임 더 전으로 가면 이승엽,이종범,장종훈,선동열,최동원 김도영은 이제…",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-70b121d9",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "매일경제",
+  "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1kWXJwbDZyaWZIZF9PQXE3dGdaczVhN2tYOVlRQmR5MFNNUzVpQUNSdUdYQVBVMnVjdVl1NS1LbVJDRUk1Q1E?oc=5",
+  "title": "1200만명 관중 신기록 프로야구…이 녀석도 ‘역대급’ 무려 3천톤 육박",
+  "published_at": "2026-10-23T02:01:33.000Z",
+  "collected_at": "2026-10-23T07:37:55.592Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "youtube-9b63baf4",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "더블스틸  DOUBLE STEAL",
+  "url": "https://www.youtube.com/watch?v=g5rg0nMIibQ",
+  "title": "2026 프로야구 구종별 1위 투수 #야구 #프로야구",
+  "published_at": "2026-10-22T13:07:28Z",
+  "collected_at": "2026-10-23T07:37:55.592Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 47046,
+    "likes": 413,
+    "comments": 20
+  },
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

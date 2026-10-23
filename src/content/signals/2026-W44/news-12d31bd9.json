@@ -1,0 +1,23 @@
+{
+  "id": "news-12d31bd9",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "조선일보",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUFAtZEx1dTVTSkRZUGl4bk5Id1YyOHNqRy1vQkNGeFNTOGVHUnctbU9lU0doQ0gxMjA2OGdRNG5DRHM3RUFObU85UlhzMm92R1NfSzVINUlTaEJHSzlsNENVOHVpSC0wcUZWVXRwRmNlWmZURUo5WGxqd3A4aC1KNERpZw?oc=5",
+  "title": "정답 없는 무한 딜레마, 43세 타격장인의 좌익수 투혼, 비와도 가능한 옵션일까",
+  "published_at": "2026-10-22T23:57:00.000Z",
+  "collected_at": "2026-10-23T07:37:55.592Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "community-517ce839",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 열정세포 매거진",
+  "url": "https://blog.naver.com/passion_cell/224450411368",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/9p9mGDQhnHj",
+  "title": "장원영, 3달 만에 확 달라진 비율…미국 시구 vs 싱가폴 F1 사진 비교",
+  "published_at": "2026-10-23T16:00:00.000+09:00",
+  "collected_at": "2026-10-23T07:37:55.592Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "youtube-f909eac2",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "youtube",
+  "source_name": "로컬디스크C",
+  "url": "https://www.youtube.com/watch?v=4xgm9BhWoUg",
+  "title": "ep 148. 타이밍 놓친 '롯데'...결국엔 '이 사람'이 감독 될 것",
+  "published_at": "2026-10-23T06:16:50Z",
+  "collected_at": "2026-10-23T07:37:55.592Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 3226,
+    "likes": 129,
+    "comments": 44
+  },
+  "scores": {
+    "hot": 85,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "community-9d50b476",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 잡다한 지식창고",
+  "url": "https://blog.naver.com/hotpickbox/224451319710",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/F3wedEgEUzi",
+  "title": "전체 1순위 키움 박준현, 무릎 부상으로 2개월 회복…루키 첫 시즌의 마무리",
+  "published_at": "2026-10-23T15:07:00.000+09:00",
+  "collected_at": "2026-10-23T07:37:55.592Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 99,
+    "relevance": 70
+  },
+  "sentiment": "negative",
+  "also_in": [
+    {
+      "source_name": "OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9QM0MyZVl6dXpkUXY0bFhrWThsdUFnUk9wU29yOXk5TjRSNW5zOV9nN0huNkgxanRsQU1TQ2Y3NUFOMS05X0dZMnZaNTJvMnlTWTgzdA?oc=5"
+    },
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBtdlVWRmlOV0I0bXl0ZHp6SmZid3p1NFZIaTBWZTF1SUw4Y0FEdnh1Z0xhMjlxTUNGR0FIX0tzUkxVaE1GT0lVaDQwVUhwcDFSbzByOEZzRHFZWDFZNlJ3R0tTakNsOFJWeXFqMG9VRdIBb0FVX3lxTFBtdlVWRmlOV0I0bXl0ZHp6SmZid3p1NFZIaTBWZTF1SUw4Y0FEdnh1Z0xhMjlxTUNGR0FIX0tzUkxVaE1GT0lVaDQwVUhwcDFSbzByOEZzRHFZWDFZNlJ3R0tTakNsOFJWeXFqMG9VRQ?oc=5"
+    },
+    {
+      "source_name": "뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFByLUJuYW9XcFNiZEl2ZmFrYmJkc3llamhVTzNNS0lwVVBxSVpnTS1SaldwT3g4NFdfWHM2b3VSbEMxTGxWSmFJLUFJZEV3Ykk5LTBKM0RIU1RvT294dktRetIBeEFVX3lxTFBza2VuWlFOcFFIbHJSQVl5Rnh0X1lsTHNjeVBWeFRkMkYzTkF1M0I3dFFsUVptX0JMajF0YzB4NXB4VWNnTExsN1p4YmxaSGp4d2ZRN051TTVkVWpiS25tMFlPaWwzRXVSeXNQaWVLazU2U0t5WXBCeQ?oc=5"
+    },
+    {
+      "source_name": "이투데이",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1iWXlqVmtCd0ZHMDN2ZjR0LUtyazl4Y3diWW1qSG93X3I0X3lnTEc5NG5SeEVDTmhFRnQzc0JTWmk3MElsOGJPRm9xSU54dGc1RDljclk0NHQ3aVYzZWo1RTlZaFVLTHJQeFpIakFFRGhFYVBBTEZn?oc=5"
+    }
+  ]
+}

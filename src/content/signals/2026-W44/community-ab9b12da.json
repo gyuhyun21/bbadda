@@ -1,0 +1,24 @@
+{
+  "id": "community-ab9b12da",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&page=5&document_srl=10474937357",
+  "title": "듀오 보러 홍대갔다올까 - 야구",
+  "published_at": "2026-10-23T00:37:55.592Z",
+  "collected_at": "2026-10-23T07:37:55.592Z",
+  "summary_ko": "",
+  "excerpt": "... 롯데 자이언츠 감독 선임만큼은 신동빈 회장이 직접챙김 [3]. 14 분 전 자유 제구왕석상호 조회153…",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

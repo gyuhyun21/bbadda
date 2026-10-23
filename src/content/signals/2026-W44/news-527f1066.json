@@ -1,0 +1,22 @@
+{
+  "id": "news-527f1066",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "SBS 뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1kMDJGWFFsTDFkeWx5cWM4MTc0NnRvQUMxdE1xRjBma080Y1Q2MTAyNnI2eFVZckk5MFNZa3luOGlYRnFLMVJITWhMakxLcnZhLXhpMkQ0TmlCN3dwUVFyMllWMUdIekJGVlE?oc=5",
+  "title": "프로야구 LG, 철거 앞둔 잠실구장서 마라톤 대회 개최",
+  "published_at": "2026-10-23T04:12:20.000Z",
+  "collected_at": "2026-10-23T07:37:55.592Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

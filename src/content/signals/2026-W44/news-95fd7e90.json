@@ -1,0 +1,23 @@
+{
+  "id": "news-95fd7e90",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "마이데일리",
+  "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE91Ym9fcUduV2I4Q1Ezc3pyOHFKdm1QckpxUUJOZWlSdnUwajA5bDlvWExOTml0ZjZuRm13M2Y5WXFMV2YxTzhrcDlyOGE4bE1ad1ItQnJJYmpocjRoQ05UMmJVX0padw?oc=5",
+  "title": "이 구단 왜 이러나, 왜 일주일 전 美 선언한 선수 뽑았나…\"지명 영광이지만 마음 흔들리지 않아\" 오타니 재현할 수 있나",
+  "published_at": "2026-10-23T04:03:00.000Z",
+  "collected_at": "2026-10-23T07:37:55.592Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

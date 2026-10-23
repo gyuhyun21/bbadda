@@ -1,0 +1,23 @@
+{
+  "id": "news-dcc1b3a2",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "news",
+  "source_name": "스타뉴스",
+  "url": "https://www.starnewskorea.com/sports/2026/10/23/2026102314312799874",
+  "title": "\"김도영 홈런왕 진심으로 축하한다\" 44홈런·139타점 괴력의 KT 외인도 리스펙 \"나도 아직 최고의 모습 안 보여줬다\"",
+  "published_at": "2026-10-23T07:27:43.000Z",
+  "collected_at": "2026-10-23T07:37:55.592Z",
+  "summary_ko": "KT 외국인 타자가 44홈런·139타점을 기록한 뒤 김도영의 홈런왕을 축하하며 자신도 아직 최고의 모습을 보여주지 않았다고 밝혔다.",
+  "metrics": {},
+  "scores": {
+    "hot": 100,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "brief_ko": "KT 외인, 김도영 홈런왕 축하"
+}

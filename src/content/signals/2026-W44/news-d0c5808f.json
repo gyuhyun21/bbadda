@@ -1,0 +1,23 @@
+{
+  "id": "news-d0c5808f",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠서울",
+  "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ybmJtNVJVM3o2QlFlVUxaNHJqSVhFc0lBeXV6d04tZG1JcEJHVVF3ZGdDakpuMWQydkdVYTNYbFFtb2hKazlHVGxJNkZWckIwV1FoMWtLLVc?oc=5",
+  "title": "‘슈퍼스타’ 김도영→삼성엔 김영웅!…‘PO의 사나이’ 부활, “어차피 난 본전 아닌가요” [SS대구in]",
+  "published_at": "2026-10-23T00:28:21.000Z",
+  "collected_at": "2026-10-23T07:37:55.592Z",
+  "summary_ko": "삼성 김영웅이 PO를 앞두고 '플레이오프의 사나이' 부활을 노린다는 현장 기사다.",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "삼성 김영웅, PO의 사나이 부활 예고"
+}

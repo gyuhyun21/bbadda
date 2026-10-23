@@ -1,0 +1,26 @@
+{
+  "id": "youtube-5366e23f",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "돌아온 칠가이",
+  "url": "https://www.youtube.com/watch?v=JqLoJ61niHc",
+  "title": "이번역은 김도영역 입니다 #구독부탁합니다 #기아타이거즈 #김도영",
+  "published_at": "2026-10-22T23:43:56Z",
+  "collected_at": "2026-10-23T07:37:55.592Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 3,
+    "likes": 1,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 48,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

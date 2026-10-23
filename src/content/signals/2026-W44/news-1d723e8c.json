@@ -1,0 +1,33 @@
+{
+  "id": "news-1d723e8c",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE03NXctcUZMcThyVmw4MDBPbk1FOWQ5dW9MMVlTUDM5SW1JQUFpWUQzbnA4MVdMTWtBZklDOXFSOFIzNjBFaGstcllPYnRNUzh6VXNqNHE0VnNTZW5iQUVXcXNaMUlmcUxXQThrZVQyTdIBb0FVX3lxTE03NXctcUZMcThyVmw4MDBPbk1FOWQ5dW9MMVlTUDM5SW1JQUFpWUQzbnA4MVdMTWtBZklDOXFSOFIzNjBFaGstcllPYnRNUzh6VXNqNHE0VnNTZW5iQUVXcXNaMUlmcUxXQThrZVQyTQ?oc=5",
+  "title": "800일 만에 이런 일이! 김영웅, 홈런 포함 4안타 대폭발...지난해 PO 타율 .625 3홈런 12타점의 미친 존재감 뽐내나",
+  "published_at": "2026-10-22T22:40:00.000Z",
+  "collected_at": "2026-10-23T07:37:55.592Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 81,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4tSDNiZWdLNzVoaC14ZUU5R3hkVGFtaS1TRXJuR08yMWZvaFloMEZuVzZWMGc0TXB6WmZFWW5GbFptaE94WG5ZbEJNcVFhcWFvdllYdQ?oc=5"
+    },
+    {
+      "source_name": "Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZlR1ZEFTaEUwc3Nub3dHaHdzSmRQU0tqX0tqZG4yTlkxZGp0SXp1bnBBR2tySDkyRW1wRkNtcXNyN2tKRDNWNGlWSjJyVmdhb2l0Y1N5Nkd3azh6MTFmU2hJTUl0NE5WUHdtZVltVXRSakdHOGJpY1Y2X1BqTGxJRThIWnNGMlVxYlpsQ3FnQjN0OWJMalJz0gGXAUFVX3lxTE1mVHVkQVNoRTBzc25vd0dod3NKZFBTS2pfS2pkbjJOWTFkanRJenVucEFHa3JIOTJFbXBGQ21xc3I3a0pEM1Y0aVZKMnJWZ2FvaXRjU3k2R3drOHoxMWZTaElNSXQ0TlZQd21lWW1VdFJqR0c4YmljVjZfUGpMbElFOEhac0YyVXFiWmxDcWdCM3Q5YkxqUnM?oc=5"
+    }
+  ]
+}

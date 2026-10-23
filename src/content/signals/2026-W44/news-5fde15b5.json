@@ -1,0 +1,34 @@
+{
+  "id": "news-5fde15b5",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://www.mt.co.kr/amp/sports/2026/10/23/202610230906774645O",
+  "title": "‘준PO 3홈런 MVP’ LG 박살낸 김도영, 삼성은 막을 수 있을까…정규시즌 9홈런 허용, PO는 어쩌면 좋나",
+  "published_at": "2026-10-23T02:40:00.000Z",
+  "collected_at": "2026-10-23T07:37:55.592Z",
+  "summary_ko": "준PO 3홈런으로 MVP에 오른 김도영은 정규시즌 삼성전에서 9홈런을 쳤다. 삼성이 그를 막을 수 있을지가 PO의 관건으로 꼽힌다.",
+  "metrics": {},
+  "scores": {
+    "hot": 90,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZmlUaTI0Q1QtS0hZRFhrRGF6VXNuYXZTMm9ZcFBNTk1meW5EbE5RM3ZSQW92SWYwLVBsNTdFNGtNYVp4VUlscFhKbnUwMmpYNDlFYkZlb3c1bnduN2pWSnlXQmxIdVVFSkt3aEZYQnU1TE5sQWNDQ1Z3c1ZwNGVEcS1jLTA0aUptSW0tZ1o5NWdvSEVVczRR0gGXAUFVX3lxTE5maVRpMjRDVC1LSFlEWGtEYXpVc25hdlMyb1lwUE1OTWZ5bkRsTlEzdlJBb3ZJZjAtUGw1N0U0a01hWnhVSWxwWEpudTAyalg0OUViRmVvdzVud243alZKeVdCbEh1VUVKS3doRlhCdTVMTmxBY0NDVndzVnA0ZURxLWMtMDRpSm1JbS1nWjk1Z29IRVVzNFE?oc=5"
+    },
+    {
+      "source_name": "OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE56amNxNHJrS2tYQk9JOXo4dXdfUExNUkdIODgzZGZ2MjlNbko3ZFBBS2RnZjk4amZCclVOZlR2U3c0NHVmWnljX3d5RnJuUWNyX25z?oc=5"
+    }
+  ],
+  "brief_ko": "김도영, 삼성전 정규시즌 9홈런"
+}

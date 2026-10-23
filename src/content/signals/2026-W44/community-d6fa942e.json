@@ -1,0 +1,24 @@
+{
+  "id": "community-d6fa942e",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "엠엘비파크",
+  "url": "https://mlbpark.donga.com/mp/b.php?id=202610230119609337&p=361&b=bullpen&m=view&site=donga.com",
+  "title": "추신수 박찬호는 왜 크보감독안해요?",
+  "published_at": "2026-10-23T03:37:55.592Z",
+  "collected_at": "2026-10-23T07:37:55.592Z",
+  "summary_ko": "",
+  "excerpt": "... 정용진이 예전에 박찬호한테 랜더스 감독 제의 했었는데, 거절한걸로 알고 있음. ... 추신수도 아직 SSG…",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

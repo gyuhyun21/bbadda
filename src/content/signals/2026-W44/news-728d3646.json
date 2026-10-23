@@ -1,0 +1,23 @@
+{
+  "id": "news-728d3646",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "아시아투데이",
+  "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5DaDZhd2FiQ2VsdVR3X2pYSzd6TVZBZEZSVkx4QWlvTnhNaGsxNEV0M3lXMzk5S1FNcDVla3dHa2dPNkNzZWt5V2FRMldOa0R4aGFySG5LZ0Y5ZnVaM0poaFQ1QnNMVi0wTXAzMk1B?oc=5",
+  "title": "다승왕 공동 1위 임찬규 아쉬운 가을 야구 “더 강해져서 돌아오겠다”",
+  "published_at": "2026-10-23T05:07:11.000Z",
+  "collected_at": "2026-10-23T07:37:55.592Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

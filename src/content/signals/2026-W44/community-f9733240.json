@@ -1,0 +1,23 @@
+{
+  "id": "community-f9733240",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 .",
+  "url": "https://blog.naver.com/pkwhappy/224450839042",
+  "title": "양의지 경기 기록 및 성적, 2026시즌 타율·홈런·타점 분석",
+  "published_at": "2026-10-23T06:05:00.000+09:00",
+  "collected_at": "2026-10-23T07:37:55.592Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

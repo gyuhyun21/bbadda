@@ -1,0 +1,24 @@
+{
+  "id": "community-98bbb7b9",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&page=7&document_srl=10475213288",
+  "title": "어쩌다 카스트로 유격 수비 영상이 알고리즘에 떴는데",
+  "published_at": "2026-10-23T02:37:55.592Z",
+  "collected_at": "2026-10-23T07:37:55.592Z",
+  "summary_ko": "",
+  "excerpt": "... 12 분 전 자유 넥센히어로즈 조회142. Abs 설치 하셨으면 이제 ... 근데 키움은 짜피…",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

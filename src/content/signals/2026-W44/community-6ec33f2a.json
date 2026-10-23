@@ -1,0 +1,33 @@
+{
+  "id": "community-6ec33f2a",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/10475956123",
+  "title": "'日 지명' KBO 홀드왕, 우승에 진심이다…\"지금은 KT 선수 ...",
+  "published_at": "2026-10-23T07:18:55.592Z",
+  "collected_at": "2026-10-23T07:37:55.592Z",
+  "summary_ko": "",
+  "excerpt": "... [스포츠조선 이종서 기자] \"지금은 KT 일원이다.\"스기모토 코우키(26·KT 위즈)는 22일 열린 일본 프로야구(NPB) 신인드래프트에서 소프트뱅크…",
+  "metrics": {},
+  "scores": {
+    "hot": 100,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "MHN스포츠",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBibm02YnZPX0xaUFc0dGhHaVJPcEl6ZlJKbEdPZTFuU3hsYmtHZUxiTUowNVJ5bDJlT0hlX0wtN2RyNU9yc3czSE5WSXVYVFg3QzlJeXF2bzFyM3JtTEtDZnNfTQ?oc=5"
+    },
+    {
+      "source_name": "스포츠조선",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9lTWFTMDdDcmZLWFozZkF0YUE4MGFkLXBnZ0tfSFhIOUVmWXlGZEJrRFJIa2NLZWVZLU0yYmQ1c29FY3VWaHpvZGZ1NmRrZmZXNm9IbVJSaG1RcGhwSXdtdXFzOW0xZkJpZER0ZVpFRVdRU2U3bkh4V0xvT2w1QQ?oc=5"
+    }
+  ]
+}

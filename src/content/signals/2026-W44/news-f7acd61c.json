@@ -1,0 +1,28 @@
+{
+  "id": "news-f7acd61c",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5KWVlPTVd6VnBuUnpvSW02UjFjMG8xSXZGSkdBRHE1eTk4dWN2Z0lrd2g0T080TXd5RUYwLWFYTDQ4dTkwYUc3dkh2TGR6emRyOUpoUWRaMjR5S3pMeExtVnloOEU2bjRqcU5Ob3BKRHpwdFJzemc5aFpKY3NHUQ?oc=5",
+  "title": "\"KIA? 마무리는 우리가 낫지\" 38세 노장의 호언장담, '30Sv' 주인공의 반응은? \"KS는 4전 전승으로 끝내고 싶다\" [인터뷰]",
+  "published_at": "2026-10-22T22:00:37.000Z",
+  "collected_at": "2026-10-23T07:37:55.592Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 89,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbGpWcVA5Vk9PMlQ5YzRXNEIxZGthR0JXLUlWQnc2REJaZkxhbDhhUEFpZEt6aEcxT19PMVFXZ2tpeDV3Yi1VTm44LW4yNFNkS09WZF8weWp2VERxbDZoVkJOZXl5d2ZwOXcyZWpOWUhkemhyY1NhUF9HZjJ2WmxtbVEzNA?oc=5"
+    }
+  ]
+}

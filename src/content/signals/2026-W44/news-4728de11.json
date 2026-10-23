@@ -1,0 +1,23 @@
+{
+  "id": "news-4728de11",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "조선일보",
+  "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNHliMWRQeFVyQmhmMDBwWUdfcE5BNVcxemE3Tko3MWdGeTRtMUJaQ3VZOEhfOW5BekRHZ2xhUjJOTGRHcTJEQUFFQzYzSEdxcTNSeE1DY2E5cTcxb3RON0pZOUw2VXhsS3RLQ0R3RzdDVFdNRC1QcE1kX0dhODF1Y2MwcGRQQQ?oc=5",
+  "title": "대구 경찰, ‘가을 야구’ 노린 암표에 칼 빼들었다",
+  "published_at": "2026-10-23T05:24:00.000Z",
+  "collected_at": "2026-10-23T07:37:55.592Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

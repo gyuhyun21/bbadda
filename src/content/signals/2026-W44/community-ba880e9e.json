@@ -1,0 +1,24 @@
+{
+  "id": "community-ba880e9e",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "엠엘비파크",
+  "url": "https://mlbpark.donga.com/mp/b.php?b=kbotown&id=202610120119355399",
+  "title": "[속보] 김경문 감독과 결별→코치도 줄줄이 떠난다 \"양승관 양상문 ...",
+  "published_at": "2026-10-11T00:00:00.000Z",
+  "collected_at": "2026-10-23T07:37:55.592Z",
+  "summary_ko": "",
+  "excerpt": "... 한화는 앞서 10일 오후 \"한화이글스 제14대 김경문 감독이 10일 NC 다이노스전을 끝으로 계약 만료에…",
+  "metrics": {},
+  "scores": {
+    "hot": 8,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

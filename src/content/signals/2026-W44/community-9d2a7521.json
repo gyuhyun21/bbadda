@@ -1,0 +1,23 @@
+{
+  "id": "community-9d2a7521",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "다음카페 야구용품싸게사기",
+  "url": "https://cafe.daum.net/baseballsale/79XF/1074686",
+  "title": "제트 프로스테이터스 김택연 투수",
+  "published_at": "2026-10-23T16:14:28.000+09:00",
+  "collected_at": "2026-10-23T07:37:55.592Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

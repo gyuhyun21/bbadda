@@ -1,0 +1,26 @@
+{
+  "id": "news-db867bd1",
+  "issue": "2026-W44",
+  "module": "league",
+  "teams": [],
+  "source_type": "news",
+  "source_name": "연합뉴스",
+  "url": "https://www.yna.co.kr/amp/view/AKR20261023081300007",
+  "title": "2015년 이래 프로야구 PO서 '업셋'은 5번…2위가 이긴 적은 6번",
+  "published_at": "2026-10-23T02:42:00.000Z",
+  "collected_at": "2026-10-23T07:37:55.592Z",
+  "summary_ko": "2015년 이후 프로야구 PO에서 업셋은 5번 나왔고, 2위 팀이 이긴 적은 6번이다.",
+  "metrics": {},
+  "scores": {
+    "hot": 98,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "https://spt.co.kr/",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1RMVYyTlpTVUtNNWRpOERzZ1hwcmVGM0hNekJybWFwZlRzcnQwek1Vam9PU3ZBVjR0OWo3aXhieWplaWpvdFlGeTVwSlhuWU9ENEpocUVHOUIxLV96?oc=5"
+    }
+  ],
+  "brief_ko": "PO 업셋 5번, 2위 승리 6번"
+}
