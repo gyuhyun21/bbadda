@@ -38,16 +38,17 @@ const photo = (name: string) => (existsSync(join(ROOT, 'scripts/insta/photos', `
 // 릴스 스타일(2026-10-21, 주인 결정): 첫 장 노란 바탕 + 큰 숫자·점수 + 마지막 줄 밑줄, 안쪽 장은 흐린 사진 위 둥근 카드. 고정 안내 장 없음(4장)
 /** 2줄 이상이면 마지막 줄에 굵은 밑줄 */
 const ul = (s: string) => { const l = esc(s).split('\n'); return l.length > 1 ? `${l.slice(0, -1).join('<br>')}<br><u>${l[l.length - 1]}</u>` : `<u>${l[0]}</u>`; };
-const mark = '<img class="mark" src="logo.webp" alt="">';
+// 로고는 모든 장 오른쪽 위(2026-10-23 주인 요청), 쪽 번호는 넣지 않는다(인스타가 점으로 보여 줌)
+const mark = '<img class="mark" src="logo.webp" alt="빠따닷컴">';
 const yHook = (o: { kick: string; big: string; head: string; sub?: string; pg: string; story?: boolean; tease?: string[] }) =>
-  `<section class="s y${o.story ? ' story' : ''}"><div class="yt"><span class="kick">${esc(o.kick)}</span>${o.story ? '' : `<span class="pg">${o.pg}</span>`}</div><div class="yb${o.big.replace(/<[^>]+>/g, '').length > 5 ? ' sm' : ''}">${o.big}</div><h1>${ul(o.head)}</h1>${o.sub ? `<p class="ys">${esc(o.sub)}</p>` : ''}${o.tease?.length ? `<ul class="tease">${o.tease.map((t) => `<li>${t}</li>`).join('')}</ul>` : ''}${o.story ? '<div class="sticker">여기에 링크 스티커</div>' : mark}</section>`;
+  `<section class="s y${o.story ? ' story' : ''}"><div class="yt"><span class="kick">${esc(o.kick)}</span>${o.story ? '' : mark}</div><div class="yb${o.big.replace(/<[^>]+>/g, '').length > 5 ? ' sm' : ''}">${o.big}</div><h1>${ul(o.head)}</h1>${o.sub ? `<p class="ys">${esc(o.sub)}</p>` : ''}${o.tease?.length ? `<ul class="tease">${o.tease.map((t) => `<li>${t}</li>`).join('')}</ul>` : ''}${o.story ? '<div class="sticker">여기에 링크 스티커</div>' : ''}</section>`;
 const panel = (o: { step: string; head: string; pg: string; body: string; bg?: string; note?: string }) =>
-  `<section class="s pn"${photo(o.bg ?? 'stadium')}><div class="yt"><span class="step">${esc(o.step)}</span><span class="pg">${o.pg}</span></div><h2>${ul(o.head)}</h2><div class="pcard">${o.body}</div><div class="pf"><span>${o.note ?? ''}</span>${mark}</div></section>`;
+  `<section class="s pn"${photo(o.bg ?? 'stadium')}><div class="yt"><span class="step">${esc(o.step)}</span>${mark}</div><h2>${ul(o.head.replace(/\s*\n\s*/g, ' '))}</h2><div class="pcard">${o.body}</div><div class="pf"><span>${o.note ?? ''}</span></div></section>`;
 /** 첫 장 예고: 앞 몇 글자만 보이고 나머지는 흐림 → 넘겨 보게 */
 const peek = (label: string, line: string) => `<b>${esc(label)}</b>${esc(line.slice(0, 7))}<span class="blur">${esc(line.slice(7))}</span>`;
 /** 마지막 장: 빠따닷컴으로 끌어오는 후킹(2026-10-22 주인 요청 — 5장, 하얀 장 대신) */
 const ctaEnd = (q: string) =>
-  `<section class="s y end"><div class="yt"><span class="kick logo-k"><img src="logo.webp" alt="빠따닷컴"></span><span class="pg">5/5</span></div><h1>나머지 소식은<br><u>빠따닷컴에서</u></h1><ul class="ylist"><li>10개 구단 소식 전부, 하루 세 번</li><li>MY팀만 골라 보기 · 경기 알림</li><li>가을야구 대진 · 승부예측 · 응원가</li></ul><div class="ask">프로필 링크 → bbadda.com<small>무료 · 가입 없음</small></div><p class="yq">${esc(q)}</p>${mark}</section>`;
+  `<section class="s y end"><div class="yt"><span class="kick">더 보러 가기</span>${mark}</div><h1>나머지 소식은<br><u>빠따닷컴에서</u></h1><ul class="ylist"><li>10개 구단 소식 전부, 하루 세 번</li><li>MY팀만 골라 보기 · 경기 알림</li><li>가을야구 대진 · 승부예측 · 응원가</li></ul><div class="ask">프로필 링크 → bbadda.com<small>무료 · 가입 없음</small></div><p class="yq">${esc(q)}</p></section>`;
 
 type Made = { slides: string[]; story: string; caption: string; key: string };
 
