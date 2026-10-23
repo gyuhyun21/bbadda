@@ -1,0 +1,23 @@
+{
+  "id": "community-f69cd5e8",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 GAVIS BASEBALL KBO 분석",
+  "url": "https://blog.naver.com/gavis_/224451867801",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/UTZoREhf6G",
+  "title": "KIA 홍건희 더 오래 뛰고 싶었을 뿐인데... 15억 포기하고 돌아와 1년 만에 방출",
+  "published_at": "2026-10-24T05:20:00.000+09:00",
+  "collected_at": "2026-10-23T21:37:47.056Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

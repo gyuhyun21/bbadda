@@ -1,0 +1,24 @@
+{
+  "id": "community-2c03f544",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 스포테인먼트 월드",
+  "url": "https://blog.naver.com/urizun03/224445906879",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/6d3ONulyZ1V",
+  "title": "김주원 홈런 얼마나 대단하길래? 일본전 9회 2사에 터진 한 방의 뒷이야기",
+  "published_at": "2026-10-24T01:00:00.000+09:00",
+  "collected_at": "2026-10-23T21:37:47.056Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

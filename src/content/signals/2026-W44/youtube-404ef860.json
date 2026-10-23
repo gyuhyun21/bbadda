@@ -1,0 +1,26 @@
+{
+  "id": "youtube-404ef860",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "youtube",
+  "source_name": "NURIM튜브",
+  "url": "https://www.youtube.com/watch?v=m71jj19PXN8",
+  "title": "\"두 줄짜리 보도자료로 끝났습니다\" KT 선수 10명 재계약 불발, 문상철 은퇴만 3시간 먼저 따로 알린 이유는? (12년 의리)",
+  "published_at": "2026-10-23T14:15:16Z",
+  "collected_at": "2026-10-23T21:37:47.056Z",
+  "summary_ko": "NURIM튜브가 KT 선수 10명 재계약 불발과 문상철 은퇴 발표 방식을 다룬 영상을 올렸다.",
+  "metrics": {
+    "views": 26,
+    "likes": 0,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 48,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

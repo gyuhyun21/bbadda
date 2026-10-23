@@ -1,0 +1,22 @@
+{
+  "id": "community-3821207d",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 야구덕후일기",
+  "url": "https://blog.naver.com/sportsandfood/224451797842",
+  "title": "감독 발표도 PO까지 밀리나! 롯데, '신중'인가 '답답'인가..",
+  "published_at": "2026-10-24T00:11:00.000+09:00",
+  "collected_at": "2026-10-23T21:37:47.056Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

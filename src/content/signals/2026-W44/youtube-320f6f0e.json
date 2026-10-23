@@ -1,0 +1,27 @@
+{
+  "id": "youtube-320f6f0e",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "갸.숏",
+  "url": "https://www.youtube.com/watch?v=-1cZe1dx2xo",
+  "title": "만루는 안 무서워하는데 벌레는 무서워하는 이의리",
+  "published_at": "2026-10-23T14:54:49Z",
+  "collected_at": "2026-10-23T21:37:47.056Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 4059,
+    "likes": 108,
+    "comments": 5
+  },
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

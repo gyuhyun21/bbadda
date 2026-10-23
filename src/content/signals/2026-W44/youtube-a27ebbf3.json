@@ -1,0 +1,24 @@
+{
+  "id": "youtube-a27ebbf3",
+  "issue": "2026-W44",
+  "module": "league",
+  "teams": [],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=UUQtv2h7eYA",
+  "title": "2026 울산-KBO Fall League LIVE | 일본독립리그선발팀 vs 울산웨일즈",
+  "published_at": "2026-10-23T16:20:54Z",
+  "collected_at": "2026-10-23T21:37:47.056Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 81538,
+    "likes": 190,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 62,
+    "relevance": 30
+  },
+  "sentiment": "neutral"
+}

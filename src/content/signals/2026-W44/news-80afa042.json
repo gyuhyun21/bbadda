@@ -1,0 +1,23 @@
+{
+  "id": "news-80afa042",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스핌",
+  "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBPa2xnSEdTZXVsYktCelBKTVFJd2x5T3czVzcwQ3ZJMTkzaG12QjdsS3Z5ZVVrYnB1VXJReXZMWVBVcHlNbnJuOWs1MmVWUHdsVkJqbXZVTExvY0dP?oc=5",
+  "title": "[PO 포커스] 정규시즌 부진은 잊어라…삼성의 가을, 주축 4인방 부활에 달렸다",
+  "published_at": "2026-10-23T20:57:00.000Z",
+  "collected_at": "2026-10-23T21:37:47.056Z",
+  "summary_ko": "뉴스핌은 삼성의 가을이 정규시즌에 부진했던 주축 4인방의 부활에 달렸다고 짚었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "삼성 PO, 주축 4인방 부활 관건"
+}

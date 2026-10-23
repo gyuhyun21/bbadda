@@ -1,0 +1,24 @@
+{
+  "id": "community-adebfd83",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/10477700885",
+  "title": "리뷰딸이라기보단 요즘 야구에 미쳐서 유튜버들 다 보긴하는데",
+  "published_at": "2026-10-23T15:37:47.056Z",
+  "collected_at": "2026-10-23T21:37:47.056Z",
+  "summary_ko": "",
+  "excerpt": "... 어우 그래도 여기서 악평높은데는 다 이유가 있더라그리고 이런말해도될지 모르겠는데엘지트윈스가 유독 감독님에대한 평이 진짜 박한거같던디요.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

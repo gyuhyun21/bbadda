@@ -1,0 +1,24 @@
+{
+  "id": "community-83d87c52",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 소씨 만물상회",
+  "url": "https://blog.naver.com/sosu4412/224451820274",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/JmcZxje084X",
+  "title": "SK 와이번스 우승 후 문학구장 방문, 땡큐 페스티벌과 불꽃축제",
+  "published_at": "2026-10-24T00:49:00.000+09:00",
+  "collected_at": "2026-10-23T21:37:47.056Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

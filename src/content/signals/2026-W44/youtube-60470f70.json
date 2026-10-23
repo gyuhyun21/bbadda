@@ -1,0 +1,26 @@
+{
+  "id": "youtube-60470f70",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "youtube",
+  "source_name": "로블록스토끼맨",
+  "url": "https://www.youtube.com/watch?v=Kg5xIF2SsGc",
+  "title": "前 KT 위즈 문상철 응원가",
+  "published_at": "2026-10-23T15:44:51Z",
+  "collected_at": "2026-10-23T21:37:47.056Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 6,
+    "likes": 1,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 50,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

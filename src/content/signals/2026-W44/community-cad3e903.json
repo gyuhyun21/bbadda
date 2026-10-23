@@ -1,0 +1,23 @@
+{
+  "id": "community-cad3e903",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 연예 소식 전하는 예쁜 언니",
+  "url": "https://blog.naver.com/gmlwns8787/224451813127",
+  "title": "KIA 김도영 만루홈런 145m 신기록, 플레이오프 삼성전 관전 포인트",
+  "published_at": "2026-10-24T02:50:00.000+09:00",
+  "collected_at": "2026-10-23T21:37:47.056Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

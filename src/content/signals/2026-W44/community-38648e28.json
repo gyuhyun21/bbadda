@@ -1,0 +1,24 @@
+{
+  "id": "community-38648e28",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&page=4&document_srl=10477760942",
+  "title": "최원태 완투가 있구나 - 야구",
+  "published_at": "2026-10-23T15:37:47.056Z",
+  "collected_at": "2026-10-23T21:37:47.056Z",
+  "summary_ko": "",
+  "excerpt": "... 2018년 4월 18일 (NC 다이노스전, 당시 넥센 히어로즈 소속):서울 고척스카이돔에서 열린 NC 다이노스와의 경기에서…",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

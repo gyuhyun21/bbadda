@@ -1,0 +1,22 @@
+{
+  "id": "community-bb7764d6",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 사람과 이슈를 읽다",
+  "url": "https://blog.naver.com/picknote888/224451389682",
+  "title": "김도영만 막으면 될까…삼성 안방서 7경기 3홈런 친 2년 차",
+  "published_at": "2026-10-24T00:30:00.000+09:00",
+  "collected_at": "2026-10-23T21:37:47.056Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

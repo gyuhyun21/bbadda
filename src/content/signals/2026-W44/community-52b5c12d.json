@@ -1,0 +1,23 @@
+{
+  "id": "community-52b5c12d",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 이세상스포츠",
+  "url": "https://blog.naver.com/biasnews/224451871243",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/D9tWWlt94my",
+  "title": "삼성에 천군만마 돌아오나... \"타율 0.429\" 구자욱, 가을야구 출격 청신호",
+  "published_at": "2026-10-24T03:50:00.000+09:00",
+  "collected_at": "2026-10-23T21:37:47.056Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

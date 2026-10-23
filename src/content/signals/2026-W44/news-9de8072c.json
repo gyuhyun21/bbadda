@@ -1,0 +1,23 @@
+{
+  "id": "news-9de8072c",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "SPOTV NEWS",
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBfRUo4TFAyWUxjUEp4MmQ5aU82VG5aNjhicXp0RERTWEpBX25SVGhKTkZsaFBVWU1jalVaenRTZDlOYl9vQWNvQ01XcmN6Nmx2M3MyYjk1eVN6cXZaSUtyRjJnazc5WG0wWUIyUGRwME4?oc=5",
+  "title": "\"한국 오길 정말 잘했다\" 자동차 영업사원에서 KBO 마무리가 되다니…'부산 시장 메시지까지' 드래프트 탈락의 기적",
+  "published_at": "2026-10-23T15:35:00.000Z",
+  "collected_at": "2026-10-23T21:37:47.056Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

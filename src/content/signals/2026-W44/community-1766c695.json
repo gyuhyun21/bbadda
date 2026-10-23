@@ -1,0 +1,24 @@
+{
+  "id": "community-1766c695",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "엠엘비파크",
+  "url": "https://mlbpark.donga.com/mp/b.php?id=202610230119619483&p=1&b=kbotown&m=view&select=spf&query=KBO&site=donga.com&pos=reply",
+  "title": "가을야구는 우취 없이 그냥 진행해야함",
+  "published_at": "2026-10-22T15:00:00.000Z",
+  "collected_at": "2026-10-23T21:37:47.056Z",
+  "summary_ko": "",
+  "excerpt": "... ... 한화 · SSG · 삼성 · NC · kt · 롯데 · KIA…",
+  "metrics": {},
+  "scores": {
+    "hot": 57,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

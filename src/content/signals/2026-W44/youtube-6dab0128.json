@@ -1,0 +1,24 @@
+{
+  "id": "youtube-6dab0128",
+  "issue": "2026-W44",
+  "module": "league",
+  "teams": [],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=X9Kzhwi7DC8",
+  "title": "실전에 강한 끼끼 It's Me‼️🐵",
+  "published_at": "2026-10-23T07:02:45Z",
+  "collected_at": "2026-10-23T21:37:47.056Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 10410,
+    "likes": 147,
+    "comments": 3
+  },
+  "scores": {
+    "hot": 61,
+    "relevance": 10
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "community-d8ce1a7a",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 순간캐치",
+  "url": "https://blog.naver.com/momentcatch/224451906001",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/B60r73pLW3X",
+  "title": "KT 문상철 은퇴…1군 등록 17일·6경기 8타석, 12년 마무리는 어떻게?",
+  "published_at": "2026-10-24T06:00:00.000+09:00",
+  "collected_at": "2026-10-23T21:37:47.056Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

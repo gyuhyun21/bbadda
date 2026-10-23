@@ -1,0 +1,23 @@
+{
+  "id": "news-4baf2e9b",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "마이데일리",
+  "url": "https://mydaily.co.kr/page/view/2026102316204213709",
+  "title": "경헌호→김경태→김광삼까지... 준PO 탈락도 아픈데, LG 3년 연속 투수 코치 유출이라니",
+  "published_at": "2026-10-23T15:20:00.000Z",
+  "collected_at": "2026-10-23T21:37:47.056Z",
+  "summary_ko": "마이데일리는 LG가 경헌호·김경태에 이어 김광삼까지 3년 연속 투수 코치를 떠나보냈다고 짚었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 82,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "LG, 3년 연속 투수 코치 유출"
+}
