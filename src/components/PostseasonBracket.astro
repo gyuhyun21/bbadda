@@ -41,8 +41,8 @@ const hostOf = (u: string) => { try { return new URL(u).hostname.replace(/^(www|
     <div class="ps-wrap">
       {view.next && nextRound ? (
         <div class="ps-next">
+          {matchupPoster(view.next.sides[0].id, view.next.sides[1].id) && <img class="ps-poster" src={matchupPoster(view.next.sides[0].id, view.next.sides[1].id)} alt={`${name(view.next.sides[0])} 대 ${name(view.next.sides[1])} 대진 그림`} width="1080" height="1350" loading="lazy" />}
           <div class="ps-next-main">
-            {matchupPoster(view.next.sides[0].id, view.next.sides[1].id) && <img class="ps-poster" src={matchupPoster(view.next.sides[0].id, view.next.sides[1].id)} alt={`${name(view.next.sides[0])} 대 ${name(view.next.sides[1])} 대진 그림`} width="1080" height="1350" loading="lazy" />}
             <div class="ps-next-head">
               <div>
                 <p class="ps-next-label">{view.next.date === today ? '오늘 경기' : '다음 경기'}</p>
@@ -65,7 +65,7 @@ const hostOf = (u: string) => { try { return new URL(u).hostname.replace(/^(www|
             {view.next.sides.every((s) => s.id) && (
               /* 승부 예측(api/vote) — 한 줄. 저장소가 연결되지 않았거나 실패하면 숨긴다 */
               <div class="ps-vote" data-vote={voteId(view.next)} data-revisit={rv ? '1' : undefined} hidden>
-                <p class="ps-vote-q">승부 예측 <span>누가 이길까요?</span></p>
+                <p class="ps-vote-q">승부 예측 <span>승리팀을 맞춰라!</span></p>
                 <div class="ps-vote-btns">
                   {view.next.sides.map((s) => <button type="button" class="ps-vote-btn" data-vote-team={s.id} style={`--team:${color(s)}`} aria-label={`${name(s)} 승리 예측`}>{name(s)} 승</button>)}
                 </div>

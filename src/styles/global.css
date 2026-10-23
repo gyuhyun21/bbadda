@@ -788,4 +788,5 @@ a.is-fresh::before { content: 'NEW'; display: inline-block; margin-right: 6px; p
 .push-btn:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
 
 /* 대진 포스터(2026-10-23) */
-.ps-next .ps-next-main .ps-poster { width: 100%; height: auto; max-height: none; aspect-ratio: 16 / 10; flex: none; object-fit: cover; object-position: 50% 28%; border-radius: 16px; display: block; }
+.ps-next > .ps-poster { grid-column: 1 / -1; width: 100%; height: auto; aspect-ratio: 16 / 9; object-fit: cover; object-position: 50% 28%; border-radius: 16px; display: block; }
+@media (min-width: 760px) { .ps-next > .ps-poster { aspect-ratio: auto; height: 260px; object-position: 50% 32%; } }
