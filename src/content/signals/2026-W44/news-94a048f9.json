@@ -1,0 +1,24 @@
+{
+  "id": "news-94a048f9",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "announcement": true,
+  "source_name": "MHN스포츠",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1vb2VfUl9LRVE3Y2hNQjdQN0Y4LW5pSk5Fc29ieDgtZC1VbmxJbTRLdXhLR2RSVFREZF8zTFl5eTAxMXdCUVowdGFqcGhkVUNDWHMtUnJwV1JvMDBKSzd3MzJadw?oc=5",
+  "title": "[오피셜]야구단이 만든 마라톤에 1만 명을 모은다고?…‘굿바이 잠실’ 그 이름의 무게",
+  "published_at": "2026-10-23T02:13:41.000Z",
+  "collected_at": "2026-10-23T07:37:55.592Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

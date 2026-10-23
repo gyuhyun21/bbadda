@@ -1,0 +1,24 @@
+{
+  "id": "community-5d9729c2",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&page=2&document_srl=10475104487",
+  "title": "집안자랑은 한 연예인이 방송에서 하시긴 했는데.... - 야구",
+  "published_at": "2026-10-23T01:37:55.592Z",
+  "collected_at": "2026-10-23T07:37:55.592Z",
+  "summary_ko": "",
+  "excerpt": "... 롯데자이언츠 불매 운동 시작하겠습니다 [1]. 4 분 전 자유 dnf0709 조회23 추천1. 롯데자이언츠 불매…",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

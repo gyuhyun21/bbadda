@@ -1,0 +1,23 @@
+{
+  "id": "community-6a520599",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 피플릿(Peoplit)",
+  "url": "https://blog.naver.com/peoplit/224450688636",
+  "title": "22홈런 기대주에게 무슨 일이 김영웅 프로필 나이 키 연봉 성적까지",
+  "published_at": "2026-10-23T07:13:00.000+09:00",
+  "collected_at": "2026-10-23T07:37:55.592Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-187b8a8b",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "news",
+  "source_name": "SBS 뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBhbGdEMDFueXFvNDNqVm53VEJUNHJsN1NEYUlhSXl2b3pVb0VkUjdWSGh2Q3ByLW5fOGU3Mlc3MjB2STFfNmF1QUtaMUdLUm5HM29MUjhVNnlUbnBla01rcG43M1RuVUoyeVE?oc=5",
+  "title": "키움 투수 박준현, 왼쪽 무릎 인대 미세 손상…회복까지 2개월",
+  "published_at": "2026-10-23T06:32:10.000Z",
+  "collected_at": "2026-10-23T07:37:55.592Z",
+  "summary_ko": "보도에 따르면 키움 투수 박준현이 왼쪽 무릎 인대 미세 손상으로 회복까지 2개월 걸린다.",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "키움 박준현, 무릎 인대 미세 손상"
+}

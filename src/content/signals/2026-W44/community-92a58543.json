@@ -1,0 +1,31 @@
+{
+  "id": "community-92a58543",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha",
+    "lg",
+    "nc"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 온숨 | 부동산·경매·주식.생활정보를 기록하는 공간",
+  "url": "https://blog.naver.com/onsumway/224451326551",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/5BDtiYRYZt5",
+  "title": "한화 류지현 감독, LG·NC 우승 경험 코치 영입…새 코치진 윤곽",
+  "published_at": "2026-10-23T15:13:00.000+09:00",
+  "collected_at": "2026-10-23T07:37:55.592Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "이투데이",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBRbS0xY3RJNzZRM1BnYVN6b2x5T2ViVFJNcl9raUNNT05IbllQemVYR2pXYnRNcjlCWDNKN0tvYVR2TTZfOU9oUEVSRmxteU9mdkFveU9HNDhySVVLQTkzRVZfci1UWTh3WjF5UXhkRlA?oc=5"
+    }
+  ]
+}

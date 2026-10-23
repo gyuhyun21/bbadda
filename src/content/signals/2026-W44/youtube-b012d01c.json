@@ -1,0 +1,26 @@
+{
+  "id": "youtube-b012d01c",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "source_name": "백만볼트커피츄",
+  "url": "https://www.youtube.com/watch?v=m_c6R-To1YQ",
+  "title": "2027 한화이글스 예상 코치진(?)",
+  "published_at": "2026-10-23T06:51:12Z",
+  "collected_at": "2026-10-23T07:37:55.592Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 48,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 22,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

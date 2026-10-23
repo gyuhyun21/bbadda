@@ -1,0 +1,24 @@
+{
+  "id": "news-ca3c4643",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠경향",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBEYzVibGRnRXBkeVNpaFVfVXJtal80SDd4bmhFYldsZF9KM1ZPU3dka0Z5N2ZZMWxJdnNqY3E5R29sa2lvLVotMVNnZElYcURwbGY3eTd3MjN5eXoxN0M2TnkwTdIBY0FVX3lxTFBEYzVibGRnRXBkeVNpaFVfVXJtal80SDd4bmhFYldsZF9KM1ZPU3dka0Z5N2ZZMWxJdnNqY3E5R29sa2lvLVotMVNnZElYcURwbGY3eTd3MjN5eXoxN0M2TnkwTQ?oc=5",
+  "title": "홀드왕 스기모토, 日 프로팀 지명 받았다···AG 한국전 상대 日 히구치는 라쿠텐행",
+  "published_at": "2026-10-23T02:18:00.000Z",
+  "collected_at": "2026-10-23T07:37:55.592Z",
+  "summary_ko": "KT 홀드왕 스기모토가 일본 프로팀 지명을 받았다. 경쟁 구단 소식은 기사에서 확인할 수 있다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "KT 홀드왕 스기모토, 일본 지명"
+}

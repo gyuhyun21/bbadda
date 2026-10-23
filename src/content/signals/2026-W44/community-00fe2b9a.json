@@ -1,0 +1,36 @@
+{
+  "id": "community-00fe2b9a",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 사금남 스포츠 캐비닛",
+  "url": "https://blog.naver.com/soristudio80/224451296266",
+  "title": "KIA 플레이오프 앞두고 고종욱·이창진·홍건희 등 6명과 결별, 육성선수 10명까지 정리 충격",
+  "published_at": "2026-10-23T14:47:00.000+09:00",
+  "collected_at": "2026-10-23T07:37:55.592Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 99,
+    "relevance": 70
+  },
+  "sentiment": "negative",
+  "also_in": [
+    {
+      "source_name": "싱글리스트",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5xbThhd3l3WlNVa0VvclhKVU1EdHNZNUlXZVdMNC1ncXNxYm5BOEt1WUx3T3J5WDZTTnNvRDN2SnQwN0RnR3pvcl9oQjF0SUlULXFnQTh4S25mOWQzTEowNW9KbTdYUQ?oc=5"
+    },
+    {
+      "source_name": "데일리안",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxObVVWVDg1WXp0UWdaOFZkMDZ2eWxpWjRIV1duSHNCWUN2Y1ZCdVIzUEdJd2c4MGt3cG1Kb3AtUDBqdFoycS1mWGF2ZzhFZjhJb3NVQkxXbTJ4YVBSM2RHalppbDYtaTZUNEpUNXJ0blE5Zm81ZVE1aDVVclJmQ0lHN2Z0bHN6LTZBc0UxdzRtVHJIRU14NEhrMnYySTY5Mlhhd01VUWJhNTRaZTNxTDhVbGNEMnZKM3JCU1M0TDNMZjNlaFF6ZERKUlp1bWJFLW9fNGdWN3hmZGpCWmQyNVBPZnpMU2dqZ1BQZFJGZzhpbC1DMWRYaTIzMw?oc=5"
+    },
+    {
+      "source_name": "알파경제",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5CUWpiMmVlc1htV2ZKYlp4ZmhBaC1lOWdiT1poeC1BLVozVG40MGNNbk9kRFVxOVVsVmdyNXQ5dmJyNHZMajVfSjhGcmV4dElhdmNhUXk2dWJILW5oQVRoNEVZSnRPN3d0QWk2VVlR?oc=5"
+    }
+  ]
+}

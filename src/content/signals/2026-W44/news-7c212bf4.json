@@ -1,0 +1,29 @@
+{
+  "id": "news-7c212bf4",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "lotte",
+  "teams": [
+    "lotte",
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5sUGlFaVZPb2dnTE1yRGdmTjdUQXlXb05pWDFpSlNHSmI3V25oTWFsS29LSm9wWF9NbHl1UW1saEhZRnY2TGNOZ1BybF9Ua1gwZEJPbFNoNzFuNTAtbHNydHEyQ1k0Rm5MNjVBUUMzNNIBb0FVX3lxTE5sUGlFaVZPb2dnTE1yRGdmTjdUQXlXb05pWDFpSlNHSmI3V25oTWFsS29LSm9wWF9NbHl1UW1saEhZRnY2TGNOZ1BybF9Ua1gwZEJPbFNoNzFuNTAtbHNydHEyQ1k0Rm5MNjVBUUMzNA?oc=5",
+  "title": "\"이렇게 끝내고 싶어?\"…'롯데→LG' 아직 1군에서 불리지 못한 이름 '김정율', 현역 포기는 없다",
+  "published_at": "2026-10-23T01:39:00.000Z",
+  "collected_at": "2026-10-23T07:37:55.592Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 98,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9yTzhJa2JpdTZwT1lvMUhxMWd3NHRZZ1BtS0FOQjRtQ0syVjJqMVN6d0ZBTDU3UjE4UUk1Mm5QU2hEaXFHdjN4OHFxenFPd2ltZFRQTA?oc=5"
+    }
+  ]
+}

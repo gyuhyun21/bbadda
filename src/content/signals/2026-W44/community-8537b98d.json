@@ -1,0 +1,24 @@
+{
+  "id": "community-8537b98d",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 스포츠에 미치다",
+  "url": "https://blog.naver.com/ilovelybeari/224451018262",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/LW4zT1XDgjF",
+  "title": "\"단 한 순간도 후회하지 않았다\" 김혜성, 포스트시즌 대수비 한 번에도 배당금 약 2억 원 전망",
+  "published_at": "2026-10-23T10:53:00.000+09:00",
+  "collected_at": "2026-10-23T07:37:55.592Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

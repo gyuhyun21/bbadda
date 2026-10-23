@@ -1,0 +1,23 @@
+{
+  "id": "community-8e2ce550",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 부자형님네",
+  "url": "https://blog.naver.com/spssp8888/224451250220",
+  "title": "“45홈런 김도영 막을 수 있나?” 삼성·KIA 플레이오프, 최형우가 더 무서운 이유",
+  "published_at": "2026-10-23T14:30:00.000+09:00",
+  "collected_at": "2026-10-23T07:37:55.592Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

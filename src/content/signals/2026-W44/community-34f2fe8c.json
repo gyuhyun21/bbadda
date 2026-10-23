@@ -1,0 +1,23 @@
+{
+  "id": "community-34f2fe8c",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 스포츠에빠진자의 블로그",
+  "url": "https://blog.naver.com/sportswomania/224450838191",
+  "title": "삼성·KIA PO 승자, 3경기에 끝내면 나흘 쉬는데 5차전까지 가면 얼마나 쉬나",
+  "published_at": "2026-10-23T14:40:00.000+09:00",
+  "collected_at": "2026-10-23T07:37:55.592Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

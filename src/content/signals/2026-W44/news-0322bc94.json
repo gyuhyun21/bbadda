@@ -1,0 +1,30 @@
+{
+  "id": "news-0322bc94",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://www.mt.co.kr/amp/sports/2026/10/23/202610231226775507O",
+  "title": "“15승의 환희보다 ⅓이닝 5실점의 아픔이 컸다” 임찬규의 약속, “더 강해져 돌아오겠다”",
+  "published_at": "2026-10-23T03:40:00.000Z",
+  "collected_at": "2026-10-23T07:37:55.592Z",
+  "summary_ko": "다승 공동 1위 임찬규가 준PO 부진을 돌아보며 더 강해져 돌아오겠다고 밝혔다.",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9XLXJELVFtUkRzR3puZlZCQWJaR3Z4enZLWHYtckxXM0hhY0JiSjZwdGd4cnpqX0F5eGFYc0tMQzVLekFuOWFXM2NuUjhRX2V0d1JaTw?oc=5"
+    }
+  ],
+  "brief_ko": "임찬규 \"더 강해져 돌아오겠다\""
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-eddb1ef1",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "hanwha",
+  "teams": [
+    "hanwha",
+    "kt"
+  ],
+  "source_type": "news",
+  "source_name": "Naver Blog",
+  "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRU55VzdCX1dsVHdJY0s1YTFrWmZ4c0FNcXVISVpqSXRrcldsRGRaWkRZYWhqY3kxa2tBcjVqbzE3LVpzcG9KT3NHV01LYUJFYnFOLUk5WWlrXzIteWJhZjMyMGQ3dVhISi1BeF95dUF1eGVTRHlQbHVuaUpxdDRTUWFwSmd0WmE3NlRCWXR1bmtIMGJ3?oc=5",
+  "title": "‘여전히 수비는 준수한 중견수’ FA로 풀리는 한때 한화 트레이드설의 단골손님, KT 배정대(KBO)",
+  "published_at": "2026-10-23T02:20:14.000Z",
+  "collected_at": "2026-10-23T07:37:55.592Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

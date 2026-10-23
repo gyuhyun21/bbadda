@@ -1,0 +1,26 @@
+{
+  "id": "youtube-3549e8f0",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "youtube",
+  "source_name": "그깟공놀이가뭐라고",
+  "url": "https://www.youtube.com/watch?v=c21myhk45bI",
+  "title": "방출된 홍건희, 두산 복귀할까 #두산베어스 #kbo #야구 #홍건희 #기아타이거즈",
+  "published_at": "2026-10-23T07:33:56Z",
+  "collected_at": "2026-10-23T07:37:55.592Z",
+  "summary_ko": "방출된 홍건희가 두산에 복귀할지를 다룬 팬 영상이다.",
+  "metrics": {
+    "views": 94,
+    "likes": 1,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 34,
+    "relevance": 70
+  },
+  "sentiment": "mixed"
+}

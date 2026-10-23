@@ -1,0 +1,23 @@
+{
+  "id": "community-b9076d83",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 대구 경북 맛집. 카페. 일상 리뷰리뷰",
+  "url": "https://blog.naver.com/cloud1956/224451282871",
+  "title": "2026 대구 동구 막창축제 내일 개막! 오승환은 금요일만｜10월 23~24일 일정·주차",
+  "published_at": "2026-10-23T14:35:00.000+09:00",
+  "collected_at": "2026-10-23T07:37:55.592Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

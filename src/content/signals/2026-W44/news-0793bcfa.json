@@ -1,0 +1,22 @@
+{
+  "id": "news-0793bcfa",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "대경일보",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5kaXRLOXpORlRMSm5ZQjlGNkJhdFY5VTdxMkxKLUFUX0NlaW9IdXhXeERQQWkwWFJqcWhPRTdzZlFRWkF5cjhzUWp1X0d5b0VPdE4yd1JuTWJQekU0U0hlaWJ4ZmtfVGM0?oc=5",
+  "title": "전국 야구장 쓰레기 1년 새 24%↑··· 삼성라이온즈파크는 2년 새 2배",
+  "published_at": "2026-10-23T05:11:28.000Z",
+  "collected_at": "2026-10-23T07:37:55.592Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

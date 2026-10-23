@@ -1,0 +1,23 @@
+{
+  "id": "news-da11d067",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "마이데일리",
+  "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9paE14ajdpc2dqZDRhejdnTnNuY2tmdEZJOFJKS2F6dmw5YWFJU2JUcEdOU0RpRzg5bWJaOXZUZU9ZVy1jeG5QYXZBakhseHowVVpNT1M0eFZpanRObTRpQ0xDLVVPQQ?oc=5",
+  "title": "“KIA 3승1패 or 3승2패” KIA와 삼성에서 뛴 임창용의 PO 예상…김도영 만루포가 결정타, 네일부터 나간다",
+  "published_at": "2026-10-22T22:21:50.000Z",
+  "collected_at": "2026-10-23T07:37:55.592Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 81,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

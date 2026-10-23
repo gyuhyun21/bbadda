@@ -1,0 +1,23 @@
+{
+  "id": "community-55482dfd",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 스포츠에빠진자의 블로그",
+  "url": "https://blog.naver.com/sportswomania/224450831570",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/74sCqfJoXwg",
+  "title": "두산 양의지, 이적 보상금 63억이 0원 될 수 있다는데 타율은 0.249",
+  "published_at": "2026-10-23T12:42:00.000+09:00",
+  "collected_at": "2026-10-23T07:37:55.592Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

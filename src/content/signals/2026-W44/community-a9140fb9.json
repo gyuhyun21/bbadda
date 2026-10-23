@@ -1,0 +1,23 @@
+{
+  "id": "community-a9140fb9",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 이슈 알려주는 아기 사자",
+  "url": "https://blog.naver.com/bmjmo5/224451348250",
+  "title": "여서정 전국체전 MVP.. 14년 만에 체조선수 수상과 금메달 4관왕의 기록",
+  "published_at": "2026-10-23T15:31:00.000+09:00",
+  "collected_at": "2026-10-23T07:37:55.592Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

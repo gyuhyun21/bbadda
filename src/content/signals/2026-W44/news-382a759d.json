@@ -1,0 +1,22 @@
+{
+  "id": "news-382a759d",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "대구MBC",
+  "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9IUFlzNk9xQk9nQk9qZFVuN0hZNldOU2IxZFRQMFhwRm44RzNmQjFveTFkbGV2dF9pTDNMbFlGdzEyeUc0dF9oSl93VmE?oc=5",
+  "title": "[만평] '플레이오프 삼성' 박진만 감독 \"힘 대 힘으로 붙어 좋은 결과 낼 것\"",
+  "published_at": "2026-10-22T23:30:00.000Z",
+  "collected_at": "2026-10-23T07:37:55.592Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

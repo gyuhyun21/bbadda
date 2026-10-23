@@ -1,0 +1,32 @@
+{
+  "id": "community-4e00c77d",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 baseball reference",
+  "url": "https://blog.naver.com/r9644328/224451125704",
+  "title": "롯데 새 감독 발표 또 미뤄지나…마무리캠프 코앞, 선수단도 기다린다",
+  "published_at": "2026-10-23T12:06:00.000+09:00",
+  "collected_at": "2026-10-23T07:37:55.592Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 98,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9xeU4zcG1BSHNCNzZLQ2V3eHdjNFVuQ3NEMFYxazlQU0pIeXBZeHh1WUQ0VjRJS2NDeGszZERwT2dlelBESDFuOEJYTmlRWDNrSUN2Y2tOOVVsZzNkc1ZCaDVzT1lGUks5aWJ3S2t1MNIBb0FVX3lxTE9xeU4zcG1BSHNCNzZLQ2V3eHdjNFVuQ3NEMFYxazlQU0pIeXBZeHh1WUQ0VjRJS2NDeGszZERwT2dlelBESDFuOEJYTmlRWDNrSUN2Y2tOOVVsZzNkc1ZCaDVzT1lGUks5aWJ3S2t1MA?oc=5"
+    },
+    {
+      "source_name": "스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE05Sm1xTFVUb0lHd0FpYkRuUl9wLUZoVWJHZ2l5cUQ3Z0NPZ21fRVFpbzZXc2o1V3lzaVVpYmNBaE9zVmVzeW1OcFk0QThmV1BTNldSbVBBYzhRX3o4WXc4dVZGektFdnFOdmpzUnlNaFpaczBSdVE?oc=5"
+    }
+  ]
+}

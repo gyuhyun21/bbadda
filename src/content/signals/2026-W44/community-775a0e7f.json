@@ -1,0 +1,24 @@
+{
+  "id": "community-775a0e7f",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 INspiration GIVER",
+  "url": "https://blog.naver.com/doubleedoublee/224451411123",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/AWo69D685Ud",
+  "title": "백혈병을 이겨낸 투수가 오늘 잠실 마운드에 섭니다",
+  "published_at": "2026-10-23T16:25:00.000+09:00",
+  "collected_at": "2026-10-23T07:37:55.592Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

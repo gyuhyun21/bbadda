@@ -1,0 +1,27 @@
+{
+  "id": "youtube-022d6b68",
+  "issue": "2026-W44",
+  "module": "league",
+  "teams": [
+    "kia"
+  ],
+  "team": "kia",
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=fxLv9dqYB7Q",
+  "title": "[4K] '외쳐라 최강 KIA' 현장 M/V | 2026 KBO 준플레이오프 최종전",
+  "published_at": "2026-10-23T04:10:40Z",
+  "collected_at": "2026-10-23T07:37:55.592Z",
+  "summary_ko": "KBO 공식 채널이 2026 준PO 최종전 KIA 현장 뮤직비디오를 올렸다.",
+  "metrics": {
+    "views": 34273,
+    "likes": 2482,
+    "comments": 178
+  },
+  "scores": {
+    "hot": 98,
+    "relevance": 80
+  },
+  "sentiment": "neutral"
+}

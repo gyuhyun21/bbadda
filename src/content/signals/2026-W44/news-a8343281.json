@@ -1,0 +1,25 @@
+{
+  "id": "news-a8343281",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "lg",
+  "teams": [
+    "lg",
+    "hanwha",
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "에너지경제신문",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBSa09HZnRLSFphOTZFWWZDbWZid0JacHRremlsOHg0dW5LdVdsYVVmM2d2bkFURmxWT0ZTOUx2RXI4aXJlNGZSNjMxWXFrTVFEblhhVlBSRnFZZEp5cXd5dDlR?oc=5",
+  "title": "[현장] “영화관 정숙은 옛말”…CGV에서 야구 관람 해보니",
+  "published_at": "2026-10-23T01:00:00.000Z",
+  "collected_at": "2026-10-23T07:37:55.592Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 82,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

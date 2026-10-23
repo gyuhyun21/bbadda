@@ -1,0 +1,27 @@
+{
+  "id": "youtube-7a8866d6",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "레알이글스",
+  "url": "https://www.youtube.com/watch?v=vbZQZtGvWYo",
+  "title": "[레알이글스 심층분석] 2루와 중견수 아킬레스건을 덮어줄 유일한 구원자! 사치세 무서워 원태인 포기하면 20년 우승 한 평생 못 푼다.",
+  "published_at": "2026-10-23T06:56:00Z",
+  "collected_at": "2026-10-23T07:37:55.592Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 52,
+    "likes": 8,
+    "comments": 2
+  },
+  "scores": {
+    "hot": 62,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

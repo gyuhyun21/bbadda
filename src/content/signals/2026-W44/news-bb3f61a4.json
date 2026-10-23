@@ -1,0 +1,22 @@
+{
+  "id": "news-bb3f61a4",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "대구MBC",
+  "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBHSmg2bTR1Z0NKc1NTMkJUOFhRZDAwOHlTQm42UUFFeVJJQkFmakhsUXpKZjBYdVJleHNiUklqTnMxYkpaa3ZRLVppcU4?oc=5",
+  "title": "2위 이점 약해진 삼성라이온즈···우천 영향 받을지에도 우려",
+  "published_at": "2026-10-23T01:45:46.000Z",
+  "collected_at": "2026-10-23T07:37:55.592Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

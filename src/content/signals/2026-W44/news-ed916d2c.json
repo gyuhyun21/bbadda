@@ -1,0 +1,22 @@
+{
+  "id": "news-ed916d2c",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스핌",
+  "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8zMXNiRER0YjhrZ3dzSzJvd0ZaTlRBYUFqNE0xX2JpMGRzdW15OV9RMDFqbEVQaEZiZzNiQVkyNktxYU42UTVObzJNMlNnZE1jOUtfN2EzNTUyVjNh?oc=5",
+  "title": "[PO 포커스] '이적생' KIA 하주석, 2년 연속 KS 밟을까",
+  "published_at": "2026-10-23T05:58:00.000Z",
+  "collected_at": "2026-10-23T07:37:55.592Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

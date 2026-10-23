@@ -1,0 +1,22 @@
+{
+  "id": "news-40089b7f",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "전남일보",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE44WEVELVdRQllsWE1LQ3BaUXYtVjNxZDZYRkxEbzF0M0NuTlphTTV5b0tFRDloWS1iNEIyX0l5LVNoZEJRRl9LeFVIeVVFYmp5bDhwazF3cXI4bmh6cF9fMk5vb01VaGFlVmVlVDY2UQ?oc=5",
+  "title": "‘대구 타율 0.444’ 박재현 vs ‘KIA전 0.360’ 김지찬…선봉장 대결",
+  "published_at": "2026-10-22T23:14:47.000Z",
+  "collected_at": "2026-10-23T07:37:55.592Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 73,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

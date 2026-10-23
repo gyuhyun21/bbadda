@@ -1,0 +1,27 @@
+{
+  "id": "youtube-1d0c851c",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "NC 다이노스",
+  "url": "https://www.youtube.com/watch?v=rVpgccdxMGo",
+  "title": "1휘집과 17영우의 국대 등번호 비하인드! #ncdinos #위풍당당 #거침없이가자 #2026  #김휘집 #신영우 #APBC",
+  "published_at": "2026-10-23T01:07:09Z",
+  "collected_at": "2026-10-23T07:37:55.592Z",
+  "summary_ko": "NC 공식 채널이 두 선수의 국가대표 등번호에 얽힌 비하인드를 공개했다.",
+  "metrics": {
+    "views": 12732,
+    "likes": 502,
+    "comments": 19
+  },
+  "scores": {
+    "hot": 85,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

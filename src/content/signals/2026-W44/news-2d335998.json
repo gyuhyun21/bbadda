@@ -1,0 +1,25 @@
+{
+  "id": "news-2d335998",
+  "issue": "2026-W44",
+  "module": "league",
+  "teams": [],
+  "source_type": "news",
+  "source_name": "연합뉴스TV",
+  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1FMDhXMXVrYUQ5TWhkUy05eGdBLXNxMGk5eEtJc2xRNzlnWFk1cGRGa0dKMG9uQ0JxYXBfUW8wb1NOZGswUm40MTc4a1pLVFdncS1jSVpjeTJPeXZRTjRZejdoc2lwT2M?oc=5",
+  "title": "프로야구 관중 13% 늘자 쓰레기는 24% 증가…처리비도 폭증",
+  "published_at": "2026-10-23T00:42:00.000Z",
+  "collected_at": "2026-10-23T07:37:55.592Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 30
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "뉴스핌",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAzXzZ0eDVQR2pwNkJWLVltY2hHeGNnZnlJSVRqX29mMjZwajZUQWdJT2R5QjZQMDlvRk5DSXh4eEE4QTc3S0dYTVpEWDVSSmYtekdhVzZPUTZaMWJv?oc=5"
+    }
+  ]
+}

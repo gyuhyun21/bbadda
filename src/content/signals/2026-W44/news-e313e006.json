@@ -1,0 +1,23 @@
+{
+  "id": "news-e313e006",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "announcement": true,
+  "source_name": "MHN스포츠",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBmc3BVSHM3TzFIazc2TV9nazd3djdSTkQyenkxZEhfdGdqVm5QanQ4U2dJODFCNGhsc3RJNWlMazJfdlhFc1YtSVFDaHlDMTkyeEVxWGNfVEV3el9SY1JEcEVqWQ?oc=5",
+  "title": "[오피셜]KIA, PO 앞두고 충격의 대방출…명단만 보면 거의 올스타급, 한 시대가 저문다",
+  "published_at": "2026-10-23T06:44:35.000Z",
+  "collected_at": "2026-10-23T07:37:55.592Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

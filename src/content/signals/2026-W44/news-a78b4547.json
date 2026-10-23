@@ -1,0 +1,29 @@
+{
+  "id": "news-a78b4547",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB4R3JkV0dKOEpLOU9sR09pWFllcU8yMVVqLUc3eGZzZmxUUU5CT2dnT181LVdnOWt2VjFHZk9VcDY5Z3dSa3ZmSnBrWDhJOEhNeWJqTTY3SXJBTWxuQXY5ZTl6ZFg0NktzUW03QXYyTdIBb0FVX3lxTFB4R3JkV0dKOEpLOU9sR09pWFllcU8yMVVqLUc3eGZzZmxUUU5CT2dnT181LVdnOWt2VjFHZk9VcDY5Z3dSa3ZmSnBrWDhJOEhNeWJqTTY3SXJBTWxuQXY5ZTl6ZFg0NktzUW03QXYyTQ?oc=5",
+  "title": "삼성 좌좌좌 강타선 승부처에서 어떻게 막나? \"자욱 형우 디아즈에 맞춰 내보낸다\" KIA 158km 특급좌완. PO 키맨으로 지목받다",
+  "published_at": "2026-10-23T03:10:00.000Z",
+  "collected_at": "2026-10-23T07:37:55.592Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 82,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "미주중앙일보",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9nLVR6S3FDcHNPWDhBaWZpZDlXSVA5UzFMemtuYmg4bjhPT01KTDhqZzB2M1EybUlWaVNoMG5hMUZWS1JZc3lwN3hITXFjSWpvaEs1QjZVVWdmMnJkVl9JcW5n?oc=5"
+    }
+  ]
+}

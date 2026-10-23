@@ -1,0 +1,37 @@
+{
+  "id": "community-cd3bf982",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "community",
+  "source_name": "엠엘비파크",
+  "url": "https://mlbpark.donga.com/mp/b.php?id=202610230119609100&p=1&b=kbotown&m=view&select=spf&query=SSG&site=donga.com&pos=reply",
+  "title": "Ssg 랜더스 새로운 대표이사",
+  "published_at": "2026-10-22T15:00:00.000Z",
+  "collected_at": "2026-10-23T07:37:55.592Z",
+  "summary_ko": "",
+  "excerpt": "... SSGSsg 랜더스 새로운 대표이사 2026-10-23 11:54. 1선발로운. 추천 0 조회 432 댓글 1. 가…",
+  "metrics": {},
+  "scores": {
+    "hot": 86,
+    "relevance": 50
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "스포츠조선",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5CbG5uWTN2QVMxOVpGc3JZTTBibmt2SUxnLWxFS1lYQXN5YVdYc3c5ZzB0UEFYTnJJTi1MX2w1eXNDUzFMTkVsU1U5UGl6aEtXanZhTUpKR3Q5QXZPUmJCcndXSjBLMEhHUXI2R0MtNFdGMGIybHlnTmNncEVQdw?oc=5"
+    },
+    {
+      "source_name": "뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5aWEJwLU50blZndFhtT0xVa2VpMW9SeEF6Z1pJY19MdFJfOG01RGlNVzVYdzBoaE1ETmVWdEVsQ0NBLTR5LXRabjFjZ2NLbmZxdFkyb2NtZw?oc=5"
+    },
+    {
+      "source_name": "일간스포츠",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE94a2lta09VT1M0ZWx6NUtnZXl5QzVDV3dCUjlKNXVfTEU3bXFld1ZBOUMxclQzQ3h1YzNxVEdKOEVoMFRCWi13NVB5Vi1OUW5sVU0wR0xMbTVvODA?oc=5"
+    }
+  ]
+}

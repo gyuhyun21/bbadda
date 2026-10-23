@@ -1,0 +1,23 @@
+{
+  "id": "community-7e04f4b4",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 아승백과사전",
+  "url": "https://aseungpedia.tistory.com/36",
+  "title": "잠실 콘서트 이제 어디서 볼까? 잠실실내체육관 마지막 공연·주경기장 2031년까지 공백·서울아레나...",
+  "published_at": "2026-10-23T13:16:48.000+09:00",
+  "collected_at": "2026-10-23T07:37:55.592Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

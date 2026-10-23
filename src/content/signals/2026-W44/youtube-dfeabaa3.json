@@ -1,0 +1,40 @@
+{
+  "id": "youtube-dfeabaa3",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "source_name": "밤바",
+  "url": "https://www.youtube.com/watch?v=LQeDB7kJe8o",
+  "title": "한화 수비 살릴 진종길 코치 영입 #한화이글스 #진종길 #진종길코치",
+  "published_at": "2026-10-23T07:34:02Z",
+  "collected_at": "2026-10-23T07:37:55.592Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 10,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 13,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBLQmx5VnVfSDlRZ1ZFUG1ETVdmMm56QVg3LVotY3M5Q2oxaDVXdWhPVDh2UWZWQmpUZjBYN3lrRmY1OWtHa0NGSmx2TWNBNDNVMml6T1dvczRDOTjSAWBBVV95cUxNWEhjcF9PdWdpUUFidGxabkkxV0VpcWFFY0Z6YkVDa2ZKaHEyTFA5X2FnNTNuNWFkeDBiZ3o0R2laN2pqa1FxZzYwNmpEdmsybVRpLUNNTnhMcUxwUXh6ZFM?oc=5"
+    },
+    {
+      "source_name": "SBS 뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5qVnlzbkJxN0E0WjM0NF9ZNEhCbXFsYno3cGdmT1J3ZndPLUJpWVhEbjg2ckg0R2dHM0xVWEpPWVZYUTlPSEtVVHlUU1YyRTB4blU2NGIySmYxRjliam5YNE9qVWFzZ3VqdFE?oc=5"
+    },
+    {
+      "source_name": "데일리안",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBYcmpwVXRDVkZLNmx6M1Z6Tll4MkJRalpQVmxudUNySVROU21CVTB5bWswc0NlUS1hQURMcHZ1RVlVVmdqM3FmcmJMa2tJX2UtWk0xRTVmUQ?oc=5"
+    }
+  ]
+}

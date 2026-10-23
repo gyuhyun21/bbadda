@@ -1,0 +1,23 @@
+{
+  "id": "community-ead13da4",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 필드인사이드",
+  "url": "https://blog.naver.com/value486/224450566316",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/Jl9LB7rriFR",
+  "title": "\"가을야구 자신있어요, 2년 300만 달러 주세요\" SSG 아빌라가 꺼낸 요구 조건…구단 반응이 더 놀랍습니다",
+  "published_at": "2026-10-23T12:09:00.000+09:00",
+  "collected_at": "2026-10-23T07:37:55.592Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

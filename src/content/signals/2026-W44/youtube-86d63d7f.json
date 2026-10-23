@@ -1,0 +1,26 @@
+{
+  "id": "youtube-86d63d7f",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "youtube",
+  "source_name": "엘지사모",
+  "url": "https://www.youtube.com/watch?v=8tdZ6EodL-Y",
+  "title": "엘지트윈스 용병 4인방의 재계약 여부를 예상해 봤습니다. #LG트윈스 #오스틴 #톨허스트 #케네디 #카라스코",
+  "published_at": "2026-10-23T06:18:39Z",
+  "collected_at": "2026-10-23T07:37:55.592Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 437,
+    "likes": 25,
+    "comments": 8
+  },
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

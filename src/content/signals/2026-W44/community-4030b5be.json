@@ -1,0 +1,24 @@
+{
+  "id": "community-4030b5be",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 스포츠 인사이드",
+  "url": "https://blog.naver.com/lifeidea366/224450961628",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/6mZuusFjF1z",
+  "title": "류현진 126승 vs 김광현 180승, KBO 최고 좌완 선발 한 명만 고른다면?",
+  "published_at": "2026-10-23T10:27:00.000+09:00",
+  "collected_at": "2026-10-23T07:37:55.592Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

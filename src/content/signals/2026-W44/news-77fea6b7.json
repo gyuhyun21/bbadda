@@ -1,0 +1,34 @@
+{
+  "id": "news-77fea6b7",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://www.mt.co.kr/amp/sports/2026/10/23/202610230232777553O",
+  "title": "\"문동주, 계획보다 빠르다\" 이보다 반가운 소식 또 있을까…대전왕자 복귀 플랜 어떻게 되나",
+  "published_at": "2026-10-22T22:01:00.000Z",
+  "collected_at": "2026-10-23T07:37:55.592Z",
+  "summary_ko": "한화 문동주의 재활이 계획보다 빠르게 진행되고 있다고 보도됐다.",
+  "metrics": {},
+  "scores": {
+    "hot": 81,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5Pb0lvVWpoNWNReDdDNGo5U1BORURuWXlQMXdYd1hzRDJ6djdnMm9Kc0UxRWF3TTFzRTdhUXJrckZGYnQ4cW5DOGZ3bENXa21KOE1qUg?oc=5"
+    },
+    {
+      "source_name": "미주중앙일보",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1kdnZQbTRMOE0xMlVpUXhLQWZKN3lNRnRYN0pvM3lEUnl2TGFVZy1fT1R1aTJZTm5DcWtkR3lydjQwUWNQUS1teWxwb0I5UkRRNERuX0NpazdjOURDdU4yWVdB?oc=5"
+    }
+  ],
+  "brief_ko": "문동주 재활, 계획보다 빠르다"
+}

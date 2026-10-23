@@ -1,0 +1,24 @@
+{
+  "id": "community-ee42a123",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 서드앵글",
+  "url": "https://blog.naver.com/3rdangle/224451395856",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/7UkNWfc2SxY",
+  "title": "가을 야구의 지배자는 누구?…타이거즈-라이온즈, 운명의 6번째 맞대결",
+  "published_at": "2026-10-23T16:12:00.000+09:00",
+  "collected_at": "2026-10-23T07:37:55.592Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

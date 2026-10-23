@@ -1,0 +1,24 @@
+{
+  "id": "community-b62ec6ac",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 스포츠 헌터의 핫이슈 브리핑",
+  "url": "https://blog.naver.com/tongtii/224450952710",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/KXiig1Fqgj5",
+  "title": "🚨 [경악] \"진짜 중학생을 뽑았습니다!\" 프로야구 드래프트 역사 뒤흔든 14세 포수 지명의 대이변!",
+  "published_at": "2026-10-23T10:18:00.000+09:00",
+  "collected_at": "2026-10-23T07:37:55.592Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

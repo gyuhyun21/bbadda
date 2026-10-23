@@ -1,0 +1,27 @@
+{
+  "id": "youtube-a8d139da",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "스포츠조선",
+  "url": "https://www.youtube.com/watch?v=kpua2Xq3jkA",
+  "title": "아쿼 홀드왕을 일본에 뺏기나",
+  "published_at": "2026-10-23T04:17:38Z",
+  "collected_at": "2026-10-23T07:37:55.592Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1064,
+    "likes": 1,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 40,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

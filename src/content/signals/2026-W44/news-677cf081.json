@@ -1,0 +1,24 @@
+{
+  "id": "news-677cf081",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "서울경제",
+  "url": "https://m.sedaily.com/amparticle/20105361",
+  "title": "팀 운명 짊어진 두 ‘外人 에이스’…삼성·KIA ‘핵타선’을 막아라",
+  "published_at": "2026-10-23T05:29:11.000Z",
+  "collected_at": "2026-10-23T07:37:55.592Z",
+  "summary_ko": "삼성과 KIA의 PO는 양 팀 외국인 에이스가 상대 강타선을 얼마나 막느냐가 변수로 꼽힌다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 80
+  },
+  "sentiment": "neutral",
+  "brief_ko": "삼성·KIA PO, 외인 에이스 맞대결"
+}

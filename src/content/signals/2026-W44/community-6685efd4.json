@@ -1,0 +1,23 @@
+{
+  "id": "community-6685efd4",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 하이스포츠 인사이드",
+  "url": "https://blog.naver.com/historycar/224451369734",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/3INUTLytihA",
+  "title": "\"2군 다승왕이 1년 만에 0승 방출이라니…\" KT 조이현, 충격적인 성적 추락에 결국 결별",
+  "published_at": "2026-10-23T15:50:00.000+09:00",
+  "collected_at": "2026-10-23T07:37:55.592Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

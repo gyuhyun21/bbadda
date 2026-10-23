@@ -1,0 +1,26 @@
+{
+  "id": "youtube-43cff05a",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "youtube",
+  "source_name": "위대한 한국의 기업인들",
+  "url": "https://www.youtube.com/watch?v=FgwdQDRrrIg",
+  "title": "두산 회장님이 말하는 두산베어스 운영 원칙",
+  "published_at": "2026-10-23T06:00:28Z",
+  "collected_at": "2026-10-23T07:37:55.592Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 873,
+    "likes": 7,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 44,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

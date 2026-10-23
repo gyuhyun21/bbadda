@@ -1,0 +1,23 @@
+{
+  "id": "news-2109c5e6",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "https://www.asportstv.kr/",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ka21LZEJQLVpqTEI4aVhSb2pEMUktUlpLWDRkT0V1N1VDVlJNN3JmNkl6VmZfTjZPa2hsNFh4MU9GWWt3YVdOVVZBYmQwdlNyUDZuUV9keWhtUU51VzZaSXNmSmplSTht?oc=5",
+  "title": "[PO 시선] 2년 전엔 KIA 우승포, 올해는 삼성 해결사… 최형우의 뒤바뀐 가을",
+  "published_at": "2026-10-23T04:57:39.000Z",
+  "collected_at": "2026-10-23T07:37:55.592Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

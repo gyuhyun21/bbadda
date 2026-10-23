@@ -1,0 +1,24 @@
+{
+  "id": "community-d8d8f05c",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 하이스포츠 인사이드",
+  "url": "https://blog.naver.com/historycar/224451330201",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/5b5SWKRi1X4",
+  "title": "\"KIA 3연승 기세냐, 삼성 2주 휴식이냐\" 플레이오프 승부 가를 결정적 변수 3가지",
+  "published_at": "2026-10-23T15:15:00.000+09:00",
+  "collected_at": "2026-10-23T07:37:55.592Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

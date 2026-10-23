@@ -1,0 +1,24 @@
+{
+  "id": "news-f8a05eb0",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠월드",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9POXRLOTZ6Qzk5MHFVM1BQSW4tWHduTmJFWHlYRjZ3R2lzSUU0QW5BSEY3UGVpbU9HRDI2eUNoRjlhYjZwMXk4cWtNaDVCZ1JRLUNmVl9ob3JmSmVnTFVjSWdR?oc=5",
+  "title": "[달빛시리즈④] 승부는 결국 뒷문에서?…믿는 불펜에도 고민은 있다",
+  "published_at": "2026-10-23T04:26:43.000Z",
+  "collected_at": "2026-10-23T07:37:55.592Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 83,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

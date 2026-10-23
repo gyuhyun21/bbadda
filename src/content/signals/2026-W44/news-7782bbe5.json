@@ -1,0 +1,42 @@
+{
+  "id": "news-7782bbe5",
+  "issue": "2026-W44",
+  "module": "league",
+  "source_type": "news",
+  "source_name": "연합뉴스",
+  "url": "https://www.yna.co.kr/amp/view/AKR20261022196500007",
+  "title": "관중 13% 늘 때 쓰레기 24% 급증…프로야구장 쓰레기 3천t 육박",
+  "published_at": "2026-10-22T23:00:06.000Z",
+  "collected_at": "2026-10-23T07:37:55.592Z",
+  "summary_ko": "관중이 13% 늘 때 야구장 쓰레기는 24% 늘어 3천t에 육박했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 97,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "SBS 뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5EQ18tTkxzMjlSczlNbUVjUFBkb0ZHajVHN0UyQ1hfSF9WbjJYS3Y2eXFZanJlQ2J5MkNCcGlXajZKRWpmQ1VucHZGV3NIYU9tczdIQXd0b3U2M2VJN0oyWEpfUEVNc0VOUFE?oc=5"
+    },
+    {
+      "source_name": "YTN",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5iLXh5NEU0TmJzaGFWSGxwVnVvMlJPeHQ2ZlRzWEFsWXNRUEZubWVIeDR3bTVGSXg4UWRpODVFeWVORUc1TlVBcWNZUDdXQ2VhQ3hSckh4Y2t2Zm53ckJ4NUthSXh3X1pMbnlqX1Y0V1laN2IxTmc?oc=5"
+    },
+    {
+      "source_name": "자유일보",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE55X1U1c2pqNUxuNnNkcVFLZWZyeDc3YUZuaXNjTms0WFZZSHRkd1Y0RlkyUGQ2MFJ6TmdJMTF4YUs4NTZrUDUtOTVJWTRSanREd0xualhzQXBWR3RGQkIybjdyT3hWaWE1TnVhVXRUb9IBb0FVX3lxTE55X1U1c2pqNUxuNnNkcVFLZWZyeDc3YUZuaXNjTms0WFZZSHRkd1Y0RlkyUGQ2MFJ6TmdJMTF4YUs4NTZrUDUtOTVJWTRSanREd0xualhzQXBWR3RGQkIybjdyT3hWaWE1TnVhVXRUbw?oc=5"
+    },
+    {
+      "source_name": "TBS 서울",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcW02SGpNMi1hQmszZUxLSWtBOHh2d1dQTXFUQ2tWSzFfY1ltV2JEMGtjbXR5X19RU0NVcFk0LWotd0FEa2VBanNJYV8zYTdRSUh3TWZsMFd0dUdxakV4cHdrUVloajhrdUItelRZSGxQWTNKV3NEYUw3MXVzTDJkMm0zUmR2UQ?oc=5"
+    },
+    {
+      "source_name": "아시아경제",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1sTkRpdTlyZE40b3ROQXdYSk5QNVpnQ3c4OTRVd0FGOFNUUTlESEp6TmV1Rk9MeG9Hd1VPRVk4YlhGZmFDaVl3UHYyTGN2Qkp4ZElFaExVc3g0YXNVVHZEMg?oc=5"
+    }
+  ],
+  "brief_ko": "야구장 쓰레기 3천t 육박",
+  "teams": []
+}

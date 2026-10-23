@@ -1,0 +1,24 @@
+{
+  "id": "news-ba4e37d6",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "lg",
+  "teams": [
+    "lg",
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "파이낸셜뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1EYUd4UXFuTWZ3ZzNFcGZaVG9xbVBfN21PLTNCVm0yMDJpbHBUaDlPWEZoR3lkUzktTkc1Z0Vqb3Z0NnpXNVc4Y2VPNXNEY0NrZHh1ams1aGd4dw?oc=5",
+  "title": "오늘 야구 직관 가냐고요? 그냥 놀러가는 길인데요[Weekend 스타일]",
+  "published_at": "2026-10-22T19:00:00.000Z",
+  "collected_at": "2026-10-23T07:37:55.592Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 71,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

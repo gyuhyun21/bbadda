@@ -1,0 +1,27 @@
+{
+  "id": "youtube-c9a6e8ad",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha",
+    "lg"
+  ],
+  "source_type": "youtube",
+  "source_name": "크보쌍둥이",
+  "url": "https://www.youtube.com/watch?v=2TEhyoP8q94",
+  "title": "충격! 한화 엘지 김광상 투수코치 영입성공!     #엘지트윈스 #삼성라이온즈 #롯데자이언츠  #두산베어스 #기아타이거즈 #한화이글스 #kt위즈 #ssg랜더스",
+  "published_at": "2026-10-23T06:45:43Z",
+  "collected_at": "2026-10-23T07:37:55.592Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 5498,
+    "likes": 146,
+    "comments": 6
+  },
+  "scores": {
+    "hot": 70,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}
