@@ -66,7 +66,9 @@
 - 카루셀(사진 묶음)에는 API 로 음악을 넣을 수 없다. 음악은 릴스에만.
 
 ## 10. 릴스 음성(내레이션, 2026-10-23 주인 결정)
-- 목소리: Higgsfield `elevenlabs_v4`, 프리셋 Dylan(voice_id `b847bc29-f184-583a-8ad9-d1f1e16d1a60`). 15초 안팎 1개 약 0.7 크레딧.
+- 목소리: Higgsfield `elevenlabs_v4`, 프리셋 **Benji**(voice_id `e6f9b893-51b1-51d3-afe9-9e0482cb7ac1`, 남성, 2026-10-24 주인 결정 — 이전 Dylan 대체). 15초 안팎 1개 약 0.6 크레딧.
+- 말투: 정보형 릴스처럼 짧은 반말 구어체("이거 나만 몰랐어?", "~하나면 끝이야", "~눌러 봐!"). 안내체("~해 드려요")는 쓰지 않는다.
+- 속도: 생성한 뒤 `ffmpeg -af "silenceremove=start_periods=1:start_threshold=-45dB:stop_periods=-1:stop_duration=0.18:stop_threshold=-45dB,atempo=1.18,loudnorm=I=-14:TP=-1.5"` 로 문장 사이 쉼을 0.18초로 줄이고 1.18배 빠르게(음 높이는 그대로).
 - 영문 약칭은 한글 발음으로 바꿔 넣는다(그대로 쓰면 알파벳으로 읽음):
   KBO→케이비오, KIA→기아, KT→케이티, LG→엘지, SSG→에스에스지, NC→엔씨, PO→플레이오프, KS→한국시리즈, 준PO→준플레이오프, MVP→엠브이피, FA→에프에이.
 - 숫자는 읽는 대로(오후 2시→오후 두 시, 3-1→3 대 1). 사실 확인 원칙은 화면 글과 같다.
