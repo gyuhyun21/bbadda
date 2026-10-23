@@ -786,3 +786,6 @@ a.is-fresh::before { content: 'NEW'; display: inline-block; margin-right: 6px; p
 .push-btn[aria-pressed="true"] .ico-on { display: block; }
 .push-btn:disabled { opacity: 0.5; cursor: default; }
 .push-btn:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+
+/* 대진 포스터(2026-10-23) */
+.ps-next .ps-next-main .ps-poster { width: 100%; height: auto; max-height: none; aspect-ratio: 16 / 10; flex: none; object-fit: cover; object-position: 50% 28%; border-radius: 16px; display: block; }

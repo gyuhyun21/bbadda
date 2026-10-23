@@ -5,7 +5,7 @@
 import SectionHead from './SectionHead.astro';
 import { loadPostseason, resolvePostseason, lastPlayed, findHighlight, type Side, type GameView } from '../lib/postseason.ts';
 import { teamById, teamColor, teamLogo, BUILD_TIME, loadAll } from '../lib/site.ts';
-import { revisit } from '../lib/config.ts';
+import { revisit, matchupPoster } from '../lib/config.ts';
 const data = loadPostseason();
 const today = new Date(BUILD_TIME + 9 * 3600_000).toISOString().slice(0, 10);
 const view = data ? resolvePostseason(data, today) : null;
@@ -42,6 +42,7 @@ const hostOf = (u: string) => { try { return new URL(u).hostname.replace(/^(www|
       {view.next && nextRound ? (
         <div class="ps-next">
           <div class="ps-next-main">
+            {matchupPoster(view.next.sides[0].id, view.next.sides[1].id) && <img class="ps-poster" src={matchupPoster(view.next.sides[0].id, view.next.sides[1].id)} alt={`${name(view.next.sides[0])} 대 ${name(view.next.sides[1])} 대진 그림`} width="1080" height="1350" loading="lazy" />}
             <div class="ps-next-head">
               <div>
                 <p class="ps-next-label">{view.next.date === today ? '오늘 경기' : '다음 경기'}</p>

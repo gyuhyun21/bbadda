@@ -44,7 +44,7 @@ export function loadTeams() {
   return t;
 }
 
-const siteSchema = z.object({ layout: z.enum(['soft', 'apple', 'magazine', 'classic']).default('classic'), community_section: z.boolean().default(false), news_images: z.boolean().default(false), home: z.enum(['front', 'simple']).default('simple'), article_modal: z.boolean().default(false), postseason_bracket: z.boolean().default(false), section_headings: z.boolean().default(false), brand_logo: z.boolean().default(false), team_logos: z.boolean().default(false), modal_blocked_hosts: z.array(z.string()).default([]), blocked_open: z.enum(['window', 'tab', 'same', 'modal']).default('modal'), revisit: z.boolean().default(false), push: z.boolean().default(false), insta_yt_thumbs: z.boolean().default(false), mascot_style: z.enum(['emblem', 'classic']).default('classic'), news_cover: z.enum(['text', 'typo']).default('typo') });
+const siteSchema = z.object({ layout: z.enum(['soft', 'apple', 'magazine', 'classic']).default('classic'), community_section: z.boolean().default(false), news_images: z.boolean().default(false), home: z.enum(['front', 'simple']).default('simple'), article_modal: z.boolean().default(false), postseason_bracket: z.boolean().default(false), section_headings: z.boolean().default(false), brand_logo: z.boolean().default(false), team_logos: z.boolean().default(false), modal_blocked_hosts: z.array(z.string()).default([]), blocked_open: z.enum(['window', 'tab', 'same', 'modal']).default('modal'), revisit: z.boolean().default(false), push: z.boolean().default(false), insta_yt_thumbs: z.boolean().default(false), mascot_style: z.enum(['emblem', 'classic']).default('classic'), matchup_posters: z.boolean().default(false), news_cover: z.enum(['text', 'typo']).default('typo') });
 /** 화면 레이아웃(config/site.yaml). 환경변수 SITE_LAYOUT 이 우선. 파일이 없으면 classic. */
 export function siteLayout(): 'soft' | 'apple' | 'magazine' | 'classic' {
   const env = process.env.SITE_LAYOUT;
@@ -112,6 +112,15 @@ export function mascotStyle(): 'emblem' | 'classic' {
   const env = process.env.SITE_MASCOT;
   if (env === 'emblem' || env === 'classic') return env;
   try { return load('site.yaml', siteSchema).mascot_style; } catch { return 'classic'; }
+}
+/** 매치업 포스터(public/matchups/<팀id-팀id 알파벳순>.webp, Higgsfield 생성). 사이트 다음 경기 카드·인스타 경기 전 첫 장. 환경변수 SITE_POSTERS=on|off 우선 */
+export function matchupPoster(a?: string, b?: string): string | undefined {
+  const env = process.env.SITE_POSTERS;
+  let on = env === 'on' ? true : env === 'off' ? false : false;
+  if (env !== 'on' && env !== 'off') { try { on = load('site.yaml', siteSchema).matchup_posters; } catch { on = false; } }
+  if (!on || !a || !b) return undefined;
+  const key = [a, b].sort().join('-');
+  return existsSync(join(ROOT, 'public', 'matchups', `${key}.webp`)) ? `/matchups/${key}.webp` : undefined;
 }
 /** 재방문 장치(승부예측 적중 기록·지난 방문 이후 새 소식 표시, config/site.yaml revisit). 환경변수 SITE_REVISIT=on|off 가 우선. */
 export function revisit(): boolean {

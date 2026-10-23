@@ -40,3 +40,6 @@ insta_yt_thumbs: true
 # mascot_style: 팀 마스코트 그림. emblem — 원형 엠블럼(구단 애칭 마스코트, 팀 색 모자, Higgsfield 로 생성, 저장소 주인 결정 2026-10-23, public/mascots/emblem)
 #   classic — 이전 캐릭터(public/mascots/<id>.svg). 마음에 들지 않으면 classic 으로 바꿔 머지. 환경변수 SITE_MASCOT=emblem|classic 우선. 사이트·인스타 세트 모두 적용
 mascot_style: emblem
+# matchup_posters: 대진 포스터(두 팀 마스코트 맞대결 그림, public/matchups/<팀id-팀id>.webp, Higgsfield 로 생성, 저장소 주인 결정 2026-10-23).
+#   사이트 '다음 경기' 카드 위와 인스타 경기 전 세트 첫 장에 들어간다. 그림이 없는 대진은 이전 모양. false 로 끄면 둘 다 이전 모양. 환경변수 SITE_POSTERS=on|off 우선.
+matchup_posters: true
