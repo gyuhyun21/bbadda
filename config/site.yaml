@@ -37,3 +37,6 @@ push: true # 첫 화면 '경기 알림 받기'(웹 푸시). false 면 버튼 숨
 # insta_yt_thumbs: 인스타 세트에 구단·KBO 공식 유튜브 영상 썸네일(i.ytimg.com)을 넣는다. 출처(채널) 표기 필수. 뉴스·통신사 사진은 쓰지 않는다.
 #   공식 썸네일도 저작권은 구단·KBO 에 있다 — 문제 제기가 오면 false 로 끄고 해당 게시물을 내린다(저장소 주인 결정, 2026-10-23). 환경변수 INSTA_YT_THUMBS=on|off 우선.
 insta_yt_thumbs: true
+# mascot_style: 팀 마스코트 그림. emblem — 원형 엠블럼(구단 애칭 마스코트, 팀 색 모자, Higgsfield 로 생성, 저장소 주인 결정 2026-10-23, public/mascots/emblem)
+#   classic — 이전 캐릭터(public/mascots/<id>.svg). 마음에 들지 않으면 classic 으로 바꿔 머지. 환경변수 SITE_MASCOT=emblem|classic 우선. 사이트·인스타 세트 모두 적용
+mascot_style: emblem

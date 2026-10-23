@@ -6,7 +6,7 @@
 import { readFileSync, readdirSync, mkdirSync, writeFileSync, copyFileSync, existsSync } from 'node:fs';
 import { join } from 'node:path';
 import { loadPostseason, resolvePostseason, lastPlayed, type GameView, type RoundView } from '../../src/lib/postseason.ts';
-import { loadTeams, instaYtThumbs } from '../../src/lib/config.ts';
+import { loadTeams, instaYtThumbs, mascotStyle } from '../../src/lib/config.ts';
 
 type Kind = 'morning' | 'pregame' | 'postgame';
 type Sig = { team?: string; source_type: string; brief_ko?: string; collected_at: string; scores: { hot: number } };
@@ -30,7 +30,8 @@ export function kindAt(day: number, hour: number): Kind {
 }
 
 /** 게시물의 큰 자리에는 마스코트 대신 팀 색 원형 배지(팀 이름) — 큰 마스코트는 어색하다는 주인 의견(2026-10-19) */
-const badge = (id?: string, cls = '') => (id ? `<span class="tbadge ${cls}" style="--tc:${T.get(id)?.color ?? '#333'}">${esc(short(id))}</span>` : '');
+const EMBLEM = mascotStyle() === 'emblem';
+const badge = (id?: string, cls = '') => (!id ? '' : EMBLEM && existsSync(join(ROOT, 'public/mascots/emblem', `${id}@2x.webp`)) ? `<img class="tbadge emb ${cls}" src="m/${id}.webp" alt="${esc(short(id))}">` : `<span class="tbadge ${cls}" style="--tc:${T.get(id)?.color ?? '#333'}">${esc(short(id))}</span>`);
 // 첫 장 배경 사진(무료 라이선스, scripts/insta/photos/SOURCES.md). 로고·간판이 읽히지 않게 흐리게 깐다(balls 는 깨끗해서 덜 흐리게). 없으면 그라디언트만
 const BLUR: Record<string, number> = { balls: 2 };
 const photo = (name: string) => (existsSync(join(ROOT, 'scripts/insta/photos', `${name}.jpg`)) ? ` style="--bg:url(p/${name}.jpg);--blur:${BLUR[name] ?? 12}px" data-photo` : '');
@@ -213,6 +214,7 @@ if (process.argv[1]?.endsWith('build.ts')) {
   if (typeof made === 'string') { console.log(JSON.stringify({ skip: made, kind })); process.exit(0); }
   mkdirSync(join(out, 'm'), { recursive: true });
   for (const t of TEAMS) if (existsSync(join(ROOT, 'public/mascots', `${t.id}.svg`))) copyFileSync(join(ROOT, 'public/mascots', `${t.id}.svg`), join(out, 'm', `${t.id}.svg`));
+  for (const t of TEAMS) if (existsSync(join(ROOT, 'public/mascots/emblem', `${t.id}@2x.webp`))) copyFileSync(join(ROOT, 'public/mascots/emblem', `${t.id}@2x.webp`), join(out, 'm', `${t.id}.webp`));
   copyFileSync(join(ROOT, 'public/brand/bbadda-logo.webp'), join(out, 'logo.webp'));
   copyFileSync(join(ROOT, 'public/fonts/pretendard/PretendardVariable.subset.woff2'), join(out, 'font.woff2'));
   const pdir = join(ROOT, 'scripts/insta/photos');

@@ -2,7 +2,7 @@
 import { getCollection, type CollectionEntry } from 'astro:content';
 import { existsSync } from 'node:fs';
 import { join } from 'node:path';
-import { loadTeams, teamLogos, ROOT, type Team } from './config.ts';
+import { loadTeams, teamLogos, mascotStyle, ROOT, type Team } from './config.ts';
 import type { Signal } from './schemas.ts';
 
 export const SHOW_DRAFT = process.env.SHOW_DRAFT === '1';
@@ -23,7 +23,13 @@ export const LEAGUE = cfg.league;
 export const teamById = new Map(TEAMS.map((t) => [t.id, t]));
 // 팀 캐릭터 마크(애칭 기반, 우리가 그린 그림 public/mascots/<id>.svg — 구단 정식 로고 아님). 스위치가 꺼져 있거나 파일이 없으면 undefined → 이니셜 배지
 const LOGOS = teamLogos();
-export const teamLogo = (id?: string) => (LOGOS && id && existsSync(join(ROOT, 'public', 'mascots', `${id}.svg`)) ? `/mascots/${id}.svg` : undefined);
+// mascot_style: emblem 이면 원형 엠블럼(Higgsfield 로 만든 그림, 2026-10-23), 파일이 없으면 이전 캐릭터
+const EMBLEM = mascotStyle() === 'emblem';
+export const teamLogo = (id?: string) => {
+  if (!LOGOS || !id) return undefined;
+  if (EMBLEM && existsSync(join(ROOT, 'public', 'mascots', 'emblem', `${id}.webp`))) return `/mascots/emblem/${id}.webp`;
+  return existsSync(join(ROOT, 'public', 'mascots', `${id}.svg`)) ? `/mascots/${id}.svg` : undefined;
+};
 // 통신사 기사(사진·기사 재전송 권리 관리가 엄격) — 헤드라인에서 뺀다(저장소 주인 결정, 2026-10-19)
 export const isWire = (s: Signal) => s.source_type === 'news' && /^(연합뉴스|뉴스1|뉴시스)/.test(s.source_name);
 export const teamColor = (id?: string) => (id && teamById.get(id)?.color) || NEUTRAL_TEAM_COLOR;
