@@ -1,0 +1,26 @@
+{
+  "id": "youtube-1c93fb85",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "source_name": "야구조아라",
+  "url": "https://www.youtube.com/watch?v=CHqMFOUdI0U",
+  "title": "한화이글스 가을야구 진출 200% 가능!?",
+  "published_at": "2026-10-23T11:13:15Z",
+  "collected_at": "2026-10-23T13:38:25.090Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1859,
+    "likes": 60,
+    "comments": 11
+  },
+  "scores": {
+    "hot": 70,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

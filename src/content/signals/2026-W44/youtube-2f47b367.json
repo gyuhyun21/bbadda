@@ -1,0 +1,24 @@
+{
+  "id": "youtube-2f47b367",
+  "issue": "2026-W44",
+  "module": "league",
+  "teams": [],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=VXddrYFeRy8",
+  "title": "[2026 울산-KBO Fall League H/L] 일본독립리그선발팀 vs 울산웨일즈(10.23)",
+  "published_at": "2026-10-23T05:12:26Z",
+  "collected_at": "2026-10-23T13:38:25.090Z",
+  "summary_ko": "KBO 공식 채널이 2026 울산-KBO Fall League 일본독립리그선발팀 대 울산웨일즈(10월 23일) 하이라이트를 올렸다.",
+  "metrics": {
+    "views": 6525,
+    "likes": 27,
+    "comments": 2
+  },
+  "scores": {
+    "hot": 49,
+    "relevance": 30
+  },
+  "sentiment": "neutral"
+}

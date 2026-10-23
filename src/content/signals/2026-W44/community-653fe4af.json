@@ -1,0 +1,22 @@
+{
+  "id": "community-653fe4af",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 아랑이의 스포츠 트래블 (Sports Travel)",
+  "url": "https://blog.naver.com/magpia10/224451555421",
+  "title": "'KIA 가을야구 한창인데' 결국 피하지 못한 칼바람! FA 베테랑·통산 1,133경기 타자 포함 6명 방출...",
+  "published_at": "2026-10-23T19:05:00.000+09:00",
+  "collected_at": "2026-10-23T13:38:25.090Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

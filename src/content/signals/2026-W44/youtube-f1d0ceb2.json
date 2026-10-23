@@ -1,0 +1,26 @@
+{
+  "id": "youtube-f1d0ceb2",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "youtube",
+  "source_name": "미스터 마하무드",
+  "url": "https://www.youtube.com/watch?v=YoXHU8gneaY",
+  "title": "kt위즈 이대형 응원가",
+  "published_at": "2026-10-23T12:18:43Z",
+  "collected_at": "2026-10-23T13:38:25.090Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 2,
+    "likes": 2,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 46,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

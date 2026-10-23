@@ -1,0 +1,23 @@
+{
+  "id": "community-7c3dd7d1",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 온유한 하루",
+  "url": "https://blog.naver.com/amica3/224451575192",
+  "title": "\"안타는 없는데 홈런만\" 김도영 준PO MVP…최연소 만루홈런 다음은 무엇?",
+  "published_at": "2026-10-23T19:40:00.000+09:00",
+  "collected_at": "2026-10-23T13:38:25.090Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

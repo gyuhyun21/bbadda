@@ -1,0 +1,22 @@
+{
+  "id": "news-21b88d95",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "전남일보",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE96OXRHTnlPZHpoSENRLTFPdXdudF8tVlBkejlpWXZrVElLSjVfVXlFZkg4d2tnamFqeGFqQ292Qk0zUE1OMm11b0hlRWF4dzdRZGFJc2xWSW05cGlRVXIwTEpUbmN5cm0zSUUxX0c4bw?oc=5",
+  "title": "\"라이벌 사자 군단 꺾어라\"…KIA PO 1차전 앞두고 지역민 기대감 '최고조'",
+  "published_at": "2026-10-23T08:05:52.000Z",
+  "collected_at": "2026-10-23T13:38:25.090Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "youtube-b88cd67d",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "PEAK SUNG(피크성)",
+  "url": "https://www.youtube.com/watch?v=pjV3TV2Qm2w",
+  "title": "김지찬 KIA전 타율 .360! 그런데 박재현은 대구에서 .444? PO 리드오프 전쟁#삼성라이온즈 #김지찬 #KIA타이거즈 #박재현 #삼성기아 #플레이오프 #라이온즈 #피크성",
+  "published_at": "2026-10-23T12:00:16Z",
+  "collected_at": "2026-10-23T13:38:25.090Z",
+  "summary_ko": "삼성 김지찬의 KIA전 타율 .360과 KIA 박재현의 대구 타율 .444를 비교하며 플레이오프 리드오프 대결을 짚은 영상이다.",
+  "metrics": {
+    "views": 1033,
+    "likes": 18,
+    "comments": 2
+  },
+  "scores": {
+    "hot": 52,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "news-bf804944",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "OSEN",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ocWhIVmNZaTdqS2QtdU9rbUJFWkU2SHBiY3VPZjZaN0hyeG01YUJOU1VGRzBsMVBwZHBpTFN0OEdNRzF2bTZjT3BoQVFCeTB5SDVXRg?oc=5",
+  "title": "7억팔 특급신인, 마무리캠프 스트레칭중 황당 부상…감독도 놀랐다 “내년 캠프 합류는 문제없어”",
+  "published_at": "2026-10-23T09:40:00.000Z",
+  "collected_at": "2026-10-23T13:38:25.090Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "negative",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB1bGdlRVNqeEVCVUltZjRwRzNjeU9xak5NTlh1ZDlfa3NJaTZrbnBiajZlbHZZSGRCUjkxNGNiYWU0NXFiSExkWncxWVdmVzAzdV80UkhqSzZmOXRUVnEwOUpManQwcDlaUnNRVlhTY9IBb0FVX3lxTFB1bGdlRVNqeEVCVUltZjRwRzNjeU9xak5NTlh1ZDlfa3NJaTZrbnBiajZlbHZZSGRCUjkxNGNiYWU0NXFiSExkWncxWVdmVzAzdV80UkhqSzZmOXRUVnEwOUpManQwcDlaUnNRVlhTYw?oc=5"
+    }
+  ]
+}

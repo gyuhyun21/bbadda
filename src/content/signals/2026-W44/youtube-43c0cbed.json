@@ -1,0 +1,26 @@
+{
+  "id": "youtube-43c0cbed",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "youtube",
+  "source_name": "미스터 마하무드",
+  "url": "https://www.youtube.com/watch?v=HLPNWn-VUjU",
+  "title": "Nc다이노스 김종호 응원가",
+  "published_at": "2026-10-23T12:42:01Z",
+  "collected_at": "2026-10-23T13:38:25.090Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 0,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

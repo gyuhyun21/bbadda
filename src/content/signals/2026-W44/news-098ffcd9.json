@@ -1,0 +1,23 @@
+{
+  "id": "news-098ffcd9",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "매일경제",
+  "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBNUHo0ZWZ1Z2dNaHp3SktNdkhrem9NdmVHUE9KTzJNcG1TUTg5U2IzeEJQXzZLWm5FS1NRbjUzZTIxQ0Nkb0E?oc=5",
+  "title": "\"방망이로 끝장 보자\" 삼성·KIA 화력 전쟁",
+  "published_at": "2026-10-23T08:26:11.000Z",
+  "collected_at": "2026-10-23T13:38:25.090Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 82,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "news-806fe955",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "마이데일리",
+  "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBkSS1YNmEyNWFxRVBvejhTRjV0bTB4UzhqNFY2UU05SHd2V0hzY2h5RzBYOUlwRHNsYkY1MWxvaTF0b2YzWWltWVdGWUt3LTcwZEY4TFlqc0taNmxDclVWVUl2ZGdmZw?oc=5",
+  "title": "44홈런 미남 외인의 그림자, '175K' 韓 역대 최고 불명예…약점 명확한데 KS는 어쩌나? \"어쨌거나 투수도 실투를 던진다\"",
+  "published_at": "2026-10-23T09:01:00.000Z",
+  "collected_at": "2026-10-23T13:38:25.090Z",
+  "summary_ko": "마이데일리는 44홈런을 친 KT 외국인 타자의 175삼진이 KBO 역대 최다라며 한국시리즈에서 약점이 될 수 있는지 짚었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "brief_ko": "KT 외인, 175K가 KS 변수?"
+}

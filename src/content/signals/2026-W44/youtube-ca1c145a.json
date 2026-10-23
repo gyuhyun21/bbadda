@@ -1,0 +1,27 @@
+{
+  "id": "youtube-ca1c145a",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg",
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "source_name": "야구짤츠",
+  "url": "https://www.youtube.com/watch?v=M6XNitrsmMY",
+  "title": "LG 우승 투수코치 김광삼이 가져올 한화 마운드의 변화는?",
+  "published_at": "2026-10-23T07:50:26Z",
+  "collected_at": "2026-10-23T13:38:25.090Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 9256,
+    "likes": 30,
+    "comments": 3
+  },
+  "scores": {
+    "hot": 51,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

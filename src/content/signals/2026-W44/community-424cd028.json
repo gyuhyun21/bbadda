@@ -1,0 +1,24 @@
+{
+  "id": "community-424cd028",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg",
+    "nc",
+    "hanwha"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 오늘의 경기",
+  "url": "https://blog.naver.com/joojoo-secret/224451528240",
+  "title": "\"LG 투수코치에 NC 우승 코치까지?\" 류지현 감독의 한화에 합류한 두 사람",
+  "published_at": "2026-10-23T18:29:00.000+09:00",
+  "collected_at": "2026-10-23T13:38:25.090Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

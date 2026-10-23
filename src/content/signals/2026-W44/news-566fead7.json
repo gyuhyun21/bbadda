@@ -1,0 +1,28 @@
+{
+  "id": "news-566fead7",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBtZFlUTlFJcU1kWmpxOTY0U3FzNGxjczAtUE90Q1NDWnhZQ25oOGstS2JxeEx3THF2MDdfdS1PYThuQ3hhR2F1TWNBOGZwS1A0bVE5NS05WTFRNXhLOXJPbTY1dzNaVG5NV2pUbWNzWEpTREd6NkpLOC1paGdpZw?oc=5",
+  "title": "\"은퇴 의사 없다\" KIA 우승까지 함께 했는데 방출 칼바람…이들의 운명은?",
+  "published_at": "2026-10-23T09:30:23.000Z",
+  "collected_at": "2026-10-23T13:38:25.090Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "mixed",
+  "also_in": [
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWmVmbFBYVzJHbjBSNlFLR3lzSF9qZ3VtLWpfdVFwRnFrWEM4Y1p6UGZzSmRGc2VSS2FOTHlWcnpkX1d3aGNEamFLdXhKd2hLQm9nd3VBQmtwalFWWjdxTklBWFIwWEdkZ3FqZ1VURVlDVFE5N1VjeGY2eXBNVHk3a2JYUQ?oc=5"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "community-9e8dd0cc",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 스포츠는 호디디",
+  "url": "https://blog.naver.com/frame5390/224451639347",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/UTZoREhf6G",
+  "title": "홍건희 기아 계약 7억의 역설, 2년 15억 옵션보다 짧았던 1년",
+  "published_at": "2026-10-23T21:20:00.000+09:00",
+  "collected_at": "2026-10-23T13:38:25.090Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

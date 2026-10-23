@@ -1,0 +1,26 @@
+{
+  "id": "youtube-9e95cf05",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "youtube",
+  "source_name": "상식의지식",
+  "url": "https://www.youtube.com/watch?v=ufWUPqDDMwI",
+  "title": "레이예스 202안타와 동률이던 KT 최원준",
+  "published_at": "2026-10-23T13:00:27Z",
+  "collected_at": "2026-10-23T13:38:25.090Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 2,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 6,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

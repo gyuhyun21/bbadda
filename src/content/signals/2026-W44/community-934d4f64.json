@@ -1,0 +1,24 @@
+{
+  "id": "community-934d4f64",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 세계는 지금",
+  "url": "https://blog.naver.com/now_news/224451523900",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/3VLrAJEIZam",
+  "title": "KT 문상철 은퇴, 통산 609경기 39홈런 남기고 유니폼 벗는다",
+  "published_at": "2026-10-23T18:37:00.000+09:00",
+  "collected_at": "2026-10-23T13:38:25.090Z",
+  "summary_ko": "블로그에 따르면 KT 문상철이 통산 609경기 39홈런을 남기고 유니폼을 벗는다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "brief_ko": "KT 문상철, 은퇴"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "youtube-695bc7e2",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "꿀반장TV",
+  "url": "https://www.youtube.com/watch?v=IYV3HgRdatA",
+  "title": "기아 타이거즈 승리요정 와주세요 #기아타이거즈",
+  "published_at": "2026-10-23T10:11:41Z",
+  "collected_at": "2026-10-23T13:38:25.090Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1714,
+    "likes": 63,
+    "comments": 2
+  },
+  "scores": {
+    "hot": 69,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "youtube-dba24993",
+  "issue": "2026-W44",
+  "module": "league",
+  "teams": [],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=7XAFfRtSmvI",
+  "title": "안녕하세요라팍입니다잘부탁드립니다 | 2026 KBO 플레이오프",
+  "published_at": "2026-10-23T11:00:01Z",
+  "collected_at": "2026-10-23T13:38:25.090Z",
+  "summary_ko": "KBO 공식 채널이 2026 플레이오프를 앞두고 대구 라팍(삼성 홈구장)을 소개하는 영상을 올렸다.",
+  "metrics": {
+    "views": 13030,
+    "likes": 557,
+    "comments": 161
+  },
+  "scores": {
+    "hot": 89,
+    "relevance": 30
+  },
+  "sentiment": "neutral"
+}

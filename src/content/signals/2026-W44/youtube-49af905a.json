@@ -1,0 +1,26 @@
+{
+  "id": "youtube-49af905a",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "youtube",
+  "source_name": "야구 한 장면",
+  "url": "https://www.youtube.com/watch?v=jKX_laHOr28",
+  "title": "1군 데뷔 못 했던 두산 신인… 일본에서 4홈런 터졌다",
+  "published_at": "2026-10-23T08:04:55Z",
+  "collected_at": "2026-10-23T13:38:25.090Z",
+  "summary_ko": "1군 데뷔를 못 했던 두산 신인이 일본에서 4홈런을 쳤다는 영상이다.",
+  "metrics": {
+    "views": 1031,
+    "likes": 1,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 37,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

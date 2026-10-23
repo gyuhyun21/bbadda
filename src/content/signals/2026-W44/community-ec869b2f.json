@@ -1,0 +1,29 @@
+{
+  "id": "community-ec869b2f",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&page=5&document_srl=10476834769",
+  "title": "플레이오프 장성호는 3승 1패 KIA 우세 예측, 정민철은 3 ...",
+  "published_at": "2026-10-23T11:38:25.090Z",
+  "collected_at": "2026-10-23T13:38:25.090Z",
+  "summary_ko": "에펨코리아에 플레이오프에서 장성호는 KIA 3승 1패 우세를 예상했고 정민철의 예상은 다르다는 글이 올라왔다.",
+  "excerpt": "... 롯데 자이언츠 2020년대 타자 누적 홈런 순위 [4]. 10 분 전 자유 드류앤더슨 조회95…",
+  "metrics": {},
+  "scores": {
+    "hot": 83,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "일요신문",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ZS2hSb1MxS3VTMVo0WUZ6WkwxSUR6TXNzM0xLemNpYnNkZlA2M0FBWTc5cng1VzNZajYzb1VQdGMzbGVSZDRERnpmMHVHWTNBQUlFaDVOLUFISVZScVpUejF6QmJmUQ?oc=5"
+    }
+  ]
+}

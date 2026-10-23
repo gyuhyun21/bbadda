@@ -1,0 +1,27 @@
+{
+  "id": "youtube-e9835456",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "이유진",
+  "url": "https://www.youtube.com/watch?v=KD2MBSrT7-k",
+  "title": "순위 2개차이 됐음 ㅠ #기아타이거즈 #두산 #두산베어스 #kbo #야알못 #야알못중계 #난쟁이성현",
+  "published_at": "2026-10-23T12:33:23Z",
+  "collected_at": "2026-10-23T13:38:25.090Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 518,
+    "likes": 1,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 34,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

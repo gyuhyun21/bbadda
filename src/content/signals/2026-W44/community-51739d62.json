@@ -1,0 +1,23 @@
+{
+  "id": "community-51739d62",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 실과바늘",
+  "url": "https://1120kbh.tistory.com/13655",
+  "title": "홈런왕 대 타격왕 .누구 방망이가 더 매서울까",
+  "published_at": "2026-10-23T20:02:14.000+09:00",
+  "collected_at": "2026-10-23T13:38:25.090Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}
