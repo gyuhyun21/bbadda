@@ -6,7 +6,7 @@
 import { readFileSync, readdirSync, mkdirSync, writeFileSync, copyFileSync, existsSync } from 'node:fs';
 import { join } from 'node:path';
 import { loadPostseason, resolvePostseason, lastPlayed, type GameView, type RoundView } from '../../src/lib/postseason.ts';
-import { loadTeams } from '../../src/lib/config.ts';
+import { loadTeams, instaYtThumbs } from '../../src/lib/config.ts';
 
 type Kind = 'morning' | 'pregame' | 'postgame';
 type Sig = { team?: string; source_type: string; brief_ko?: string; collected_at: string; scores: { hot: number } };
@@ -47,7 +47,7 @@ const panel = (o: { step: string; head: string; pg: string; body: string; bg?: s
 const peek = (label: string, line: string) => `<b>${esc(label)}</b>${esc(line.slice(0, 7))}<span class="blur">${esc(line.slice(7))}</span>`;
 /** 마지막 장: 빠따닷컴으로 끌어오는 후킹(2026-10-22 주인 요청 — 5장, 하얀 장 대신) */
 const ctaEnd = (q: string) =>
-  `<section class="s y end"><div class="yt"><span class="kick">빠따닷컴</span><span class="pg">5/5</span></div><h1>여기서 본 건<br><u>오늘 소식의 일부</u></h1><ul class="ylist"><li>10개 구단 소식 전부, 하루 세 번</li><li>MY팀만 골라 보기 · 경기 알림</li><li>가을야구 대진 · 승부예측 · 응원가</li></ul><div class="ask">프로필 링크 → bbadda.com<small>무료 · 가입 없음</small></div><p class="yq">${esc(q)}</p>${mark}</section>`;
+  `<section class="s y end"><div class="yt"><span class="kick logo-k"><img src="logo.webp" alt="빠따닷컴"></span><span class="pg">5/5</span></div><h1>여기서 본 건<br><u>오늘 소식의 일부</u></h1><ul class="ylist"><li>10개 구단 소식 전부, 하루 세 번</li><li>MY팀만 골라 보기 · 경기 알림</li><li>가을야구 대진 · 승부예측 · 응원가</li></ul><div class="ask">프로필 링크 → bbadda.com<small>무료 · 가입 없음</small></div><p class="yq">${esc(q)}</p>${mark}</section>`;
 
 type Made = { slides: string[]; story: string; caption: string; key: string };
 
@@ -55,13 +55,31 @@ type Made = { slides: string[]; story: string; caption: string; key: string };
 type Slot = { id: 'pm' | 'night'; tag: string; when: string; icon: string };
 const SLOT: Record<Slot['id'], Slot> = { pm: { id: 'pm', tag: '오후판', when: '오늘 오후', icon: '🌤️' }, night: { id: 'night', tag: '저녁판', when: '오늘 밤', icon: '🌙' } };
 
-function morning(slot?: Slot): Made | string {
-  const sigs: (Sig & { hook_ko?: string; summary_ko?: string })[] = [];
+type FullSig = Sig & { hook_ko?: string; summary_ko?: string; url?: string; official?: boolean; source_name?: string };
+let SIGS: FullSig[] | undefined;
+function loadSigs(): FullSig[] {
+  if (SIGS) return SIGS;
+  SIGS = [];
   for (const w of readdirSync(join(ROOT, 'src/content/signals'))) {
     const dir = join(ROOT, 'src/content/signals', w);
     if (!/^\d{4}-W\d{2}$/.test(w)) continue;
-    for (const f of readdirSync(dir)) if (f.endsWith('.json') && !f.startsWith('.')) sigs.push(JSON.parse(readFileSync(join(dir, f), 'utf8')));
+    for (const f of readdirSync(dir)) if (f.endsWith('.json') && !f.startsWith('.')) SIGS.push(JSON.parse(readFileSync(join(dir, f), 'utf8')));
   }
+  return SIGS;
+}
+/** 그 팀의 최근 이틀 안 공식 유튜브 영상 썸네일(주인 결정 2026-10-23, 출처 채널 표기). 뉴스 사진은 쓰지 않는다 */
+function ytThumb(team?: string): { img: string; src: string } | undefined {
+  if (!team || !instaYtThumbs()) return undefined;
+  const since = Date.parse(`${today}T00:00:00+09:00`) - 2 * 86400_000;
+  const v = loadSigs().filter((s) => s.source_type === 'youtube' && s.official && s.team === team && Date.parse(s.collected_at) >= since && /[?&]v=([\w-]{11})|youtu\.be\/([\w-]{11})|\/shorts\/([\w-]{11})/.test(s.url ?? '')).sort((a, b) => b.scores.hot - a.scores.hot)[0];
+  const m = v && /[?&]v=([\w-]{11})|youtu\.be\/([\w-]{11})|\/shorts\/([\w-]{11})/.exec(v.url!);
+  const id = m && (m[1] ?? m[2] ?? m[3]);
+  return id ? { img: `https://i.ytimg.com/vi/${id}/hqdefault.jpg`, src: v!.source_name ?? short(team) } : undefined;
+}
+const thumbFig = (t?: { img: string; src: string }, cls = '') => (t ? `<figure class="ytf ${cls}"><img src="${t.img}" alt=""><figcaption>영상: ${esc(t.src)} 공식 유튜브</figcaption></figure>` : '');
+
+function morning(slot?: Slot): Made | string {
+  const sigs = loadSigs();
   // 매일 아침 반드시 만든다. 구단별 한 줄 고르는 순서: 오늘 brief_ko → 최근 7일 brief_ko → 최근 7일 뉴스 요약 앞부분(어절 단위로 자름)
   const dayOf = (x: Sig) => new Date(Date.parse(x.collected_at) + 9 * 3600_000).toISOString().slice(0, 10);
   const weekAgo = new Date(Date.parse(`${today}T00:00:00Z`) - 7 * 86400_000).toISOString().slice(0, 10);
@@ -109,9 +127,9 @@ function morning(slot?: Slot): Made | string {
   const curious = `${when}, ${n}개 구단에\n무슨 일이?`;
   const slides = [
     yHook({ kick: `${md(today)} (${wd(today)}) ${slot?.tag ?? '아침판'}`, big: `${n}<small>개 구단</small>`, head: curious, sub: `①번은 ${short(lead.team)} 소식 · 넘겨서 전부 확인 →`, pg: '1/5', tease: tops.map((x, i) => peek(`${nums[i]} ${short(x.team)}`, x.brief_ko!)) }),
-    panel({ step: `① ${short(tops[0].team)} · 가장 큰 소식`, head: (lead.hook_ko ?? tops[0].brief_ko!).replace(/, /, ',\n'), pg: '2/5', bg, note: `출처: ${srcOf(tops[0])} 보도 · 우리 요약`, body: `<p class="plab"><b>${esc(short(tops[0].team))}</b>${esc(tops[0].brief_ko!)}</p><p class="pq dense">${sumOf(tops[0])}</p>` }),
+    panel({ step: `① ${short(tops[0].team)} · 가장 큰 소식`, head: (lead.hook_ko ?? tops[0].brief_ko!).replace(/, /, ',\n'), pg: '2/5', bg, note: `출처: ${srcOf(tops[0])} 보도 · 우리 요약`, body: `${thumbFig(ytThumb(tops[0].team))}<p class="plab"><b>${esc(short(tops[0].team))}</b>${esc(tops[0].brief_ko!)}</p><p class="pq dense">${sumOf(tops[0])}</p>` }),
     tops.length > 1
-      ? panel({ step: `②~${nums[tops.length - 1]} 이것도 터졌다`, head: `놓치면 아쉬운\n소식 ${tops.length - 1}개`, pg: '3/5', bg, note: '출처: 언론 보도 · 우리 요약', body: `<div class="news dense">${tops.slice(1).map((x, i) => `<div class="n-item"><i>${nums[i + 1]}</i><div><b>${esc(short(x.team))} · ${esc(x.brief_ko!)}</b><p>${sumOf(x)}</p></div></div>`).join('')}</div>` })
+      ? panel({ step: `②~${nums[tops.length - 1]} 이것도 터졌다`, head: `놓치면 아쉬운\n소식 ${tops.length - 1}개`, pg: '3/5', bg, note: `출처: 언론 보도 · 우리 요약${tops.slice(1).some((x) => ytThumb(x.team)) ? ' · 사진: 구단·KBO 공식 유튜브' : ''}`, body: `<div class="news dense">${tops.slice(1).map((x, i) => `<div class="n-item"><i>${nums[i + 1]}</i><div><b>${esc(short(x.team))} · ${esc(x.brief_ko!)}</b><p>${sumOf(x)}</p></div>${(() => { const t = ytThumb(x.team); return t ? `<img class="yts" src="${t.img}" alt="">` : ''; })()}</div>`).join('')}</div>` })
       : extra.replace("'4/5'", "'3/5'"),
     panel({ step: `${teamsLabel} 한 줄`, head: '우리 팀은\n어땠을까?', pg: '4/5', bg, note: '자세한 소식은 bbadda.com', body: `<div class="trows">${rows.map((r) => `<p><b style="--tc:${T.get(r.id)?.color ?? '#555'}">${esc(short(r.id))}</b>${esc(r.line)}</p>`).join('')}</div>` }),
     ctaEnd('오늘 가장 큰 소식은 몇 번? 댓글로 👇'),
@@ -141,7 +159,7 @@ function pregame(): Made | string {
   const slides = [
     yHook({ kick: `${r.short} ${g.no}차전 · 오늘 ${g.time}`, big: `${esc(nm(a))}<i>vs</i>${esc(nm(b))}`, head: hook, sub: `선발 ${g.record.starters[0]} vs ${g.record.starters[1]} · 승부 포인트 ${Math.max(facts.length, 1)}개, 넘겨서 확인 →`, pg: '1/5', tease: facts.slice(0, 3).map((f, i) => peek(`포인트 ${i + 1}`, f)) }),
     panel({ step: '예고 선발', head: `${g.time} ${g.venue}\n선발 맞대결`, pg: '2/5', bg: 'lights', note: `시리즈 ${nm(a)} ${a.wins}승 · ${nm(b)} ${b.wins}승 · ${r.toWin}선승제`, body: `<div class="vsgrid">${[0, 1].map((i) => `<div class="side">${badge(g.sides[i].id)}<div class="t">${esc(nm(g.sides[i]))} ${g.sides[i].wins}승</div><div class="lab">선발</div><div class="p">${esc(g.record.starters[i]!)}</div><div class="n">${esc(g.record.starterNotes[i] ?? '')}</div></div>`).join('<div class="v">vs</div>')}</div>` }),
-    panel({ step: '관전 포인트', head: '오늘은\n이것만 보세요', pg: '3/5', bg: 'lights', note: '출처: 언론 보도', body: `<ul class="facts">${(facts.length ? facts : [`시리즈 ${nm(a)} ${a.wins}승 · ${nm(b)} ${b.wins}승`]).slice(0, 3).map((f) => `<li>${esc(f)}</li>`).join('')}</ul>${lastLine ? `<div class="last"><span>지난 경기</span><b>${esc(lastLine)}</b><p>${esc(lastRec)}</p></div>` : ''}` }),
+    panel({ step: '관전 포인트', head: '오늘은\n이것만 보세요', pg: '3/5', bg: 'lights', note: `출처: 언론 보도${ytThumb(b.id) ?? ytThumb(a.id) ? ' · 사진: 공식 유튜브' : ''}`, body: `${thumbFig(ytThumb(b.id) ?? ytThumb(a.id), 'short')}<ul class="facts">${(facts.length ? facts : [`시리즈 ${nm(a)} ${a.wins}승 · ${nm(b)} ${b.wins}승`]).slice(0, 3).map((f) => `<li>${esc(f)}</li>`).join('')}</ul>${lastLine ? `<div class="last"><span>지난 경기</span><b>${esc(lastLine)}</b><p>${esc(lastRec)}</p></div>` : ''}` }),
     panel({ step: '승부 예측', head: '오늘,\n누가 이길까요?', pg: '4/5', bg: 'lights', note: '댓글로 남기거나 사이트에서 투표', body: `<div class="vote">${[a, b].map((x) => `<div style="background:${T.get(x.id!)?.color ?? '#333'}">${esc(nm(x))} 승</div>`).join('')}</div>` }),
     ctaEnd(`${nm(a)} vs ${nm(b)}, 이길 팀을 댓글로 👇`),
   ];
@@ -169,7 +187,7 @@ function postgame(): Made | string {
     yHook({ kick: `${r.short} ${g.no}차전 결과`, big: `${p.ws}<i>:</i>${p.ls}`, head: hook, sub: `${ig?.sub ?? `${nm(W)} ${p.ws}-${p.ls} ${nm(L)} · ${series}`} · 승부를 가른 장면, 넘겨서 →`, pg: '1/5', tease: (ig?.points ?? []).slice(0, 3).map((x, i) => peek(`장면 ${i + 1}`, x)) }),
     panel({ step: '경기 결과', head: `${nm(W)} 승리\n오늘의 기록`, pg: '2/5', note: `${md(g.date)} · ${g.venue}${g.record.attendance ? ` · ${g.record.attendance}` : ''}`, body: `<div class="score">${'<div>' + badge(W.id) + `<span class="wb">승리</span></div>`}<div class="num">${p.ws}<i>:</i>${p.ls}</div><div class="lose">${badge(L.id)}</div></div><dl class="rec compact">${rec.slice(0, 3).map(([k, x]) => `<div class="${k === 'MVP' ? 'mvp' : ''}"><dt>${k}</dt><dd>${esc(x)}</dd></div>`).join('')}</dl>` }),
     ig?.points.length
-      ? panel({ step: '승부처', head: '오늘 경기를\n가른 장면', pg: '3/5', note: '출처: 언론 보도', body: `<ol class="points">${ig.points.map((x) => `<li>${esc(x)}</li>`).join('')}</ol>` })
+      ? panel({ step: '승부처', head: '오늘 경기를\n가른 장면', pg: '3/5', note: `출처: 언론 보도${ytThumb(W.id) ? ' · 사진: 공식 유튜브' : ''}`, body: `${thumbFig(ytThumb(W.id), 'short')}<ol class="points">${ig.points.map((x) => `<li>${esc(x)}</li>`).join('')}</ol>` })
       : panel({ step: '경기 기록', head: '오늘의\n주인공', pg: '3/5', note: '출처: 언론 보도', body: `<dl class="rec">${rec.slice(0, 3).map(([k, x]) => `<div class="${k === 'MVP' ? 'mvp' : ''}"><dt>${k}</dt><dd>${esc(x)}</dd></div>`).join('')}</dl>` }),
     panel({ step: '여러분 생각은?', head: '오늘 경기\nMVP는 누구?', pg: '4/5', note: nx ? `다음 경기 ${nx.no}차전 · ${Number(nx.date.slice(5, 7))}월 ${Number(nx.date.slice(8, 10))}일 ${nx.time} ${nx.venue}` : series, body: `<p class="pq">댓글로 선수 이름을 남겨 주세요</p><div class="games">${games.map((x) => `<div class="g${x === nx ? ' next' : ''}${!x.played && x !== nx ? ' later' : ''}"><b>${x.no}차전</b><span>${Number(x.date.slice(5, 7))}.${Number(x.date.slice(8, 10))} ${esc(x.venue)}</span><span class="r">${x.played && x.score ? (() => { const q = scoreParts(x); return `${esc(nm(x.sides[q.w]))} ${q.ws}-${q.ls}`; })() : x === nx ? '다음 경기' : x.ifNeeded ? '미확정' : ''}</span></div>`).join('')}</div>` }),
     ctaEnd('오늘 MVP는 누구? 댓글로 👇'),

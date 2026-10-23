@@ -208,3 +208,12 @@ h1, h2, .stat-line, .n-item b, .points li, .facts li { text-wrap: balance; }
 .news.dense b { font-size: 38px; } .news.dense p { font-size: 31px; -webkit-line-clamp: 4; }
 .trows { gap: 16px; } .trows p { font-size: 36px; } .trows b { font-size: 30px; min-width: 100px; }
 .pcard .vsgrid, .pcard .facts, .pcard .points, .pcard .games, .pcard .rec, .pcard .vote, .pcard .last { zoom: 1.18; }
+
+/* 2026-10-23: 로고 꼬리표, 공식 유튜브 썸네일(출처 표기) */
+.kick.logo-k { padding: 8px 16px; background: #141416; display: inline-flex; } .kick.logo-k img { height: 56px; display: block; }
+.ytf { margin: 0 0 26px; border-radius: 26px; overflow: hidden; position: relative; }
+.ytf img { width: 100%; aspect-ratio: 2 / 1; object-fit: cover; display: block; }
+.ytf.short img { aspect-ratio: 3.4 / 1; }
+.ytf figcaption { position: absolute; right: 14px; bottom: 12px; padding: 6px 14px; border-radius: 10px; background: rgba(0, 0, 0, .65); font-size: 22px; font-weight: 700; color: #fff; }
+.news.dense .n-item { align-items: center; }
+.yts { width: 230px; aspect-ratio: 16 / 10; object-fit: cover; border-radius: 16px; flex: none; }
