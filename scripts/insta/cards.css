@@ -175,3 +175,36 @@ h1, h2, .stat-line, .n-item b, .points li, .facts li { text-wrap: balance; }
 .pcard .n-item { background: rgba(255, 255, 255, .06); }
 .pcard .pick li, .pcard .facts li, .pcard .g, .pcard .rec div, .pcard .points li { background: rgba(255, 255, 255, .07); }
 .yb.sm { font-size: 190px; margin-top: 110px; } .y.story .yb.sm { font-size: 210px; }
+
+/* 2026-10-22: 5장(마지막 장 빠따닷컴 후킹), 빽빽한 카드 */
+.yb small { font-size: .3em; letter-spacing: -0.02em; margin-left: .1em; }
+.y.end h1 { margin-top: 90px; }
+.ylist { margin-top: 44px; padding: 0; display: grid; gap: 16px; }
+.ylist li { list-style: none; font-size: 40px; font-weight: 800; padding-left: 48px; position: relative; }
+.ylist li::before { content: '✔'; position: absolute; left: 0; color: #EA0029; }
+.y .ask { margin-top: 50px; padding: 34px 40px; border-radius: 32px; background: #141416; color: #FFD43B; font-size: 50px; font-weight: 900; letter-spacing: -0.03em; }
+.y .ask small { display: block; margin-top: 8px; font-size: 28px; color: rgba(255, 255, 255, .7); font-weight: 700; letter-spacing: 0; }
+.yq { margin-top: 34px; font-size: 36px; font-weight: 800; color: rgba(20, 20, 22, .75); }
+.y.end .mark { background: #141416; }
+.pq.dense { font-size: 36px; line-height: 1.55; font-weight: 600; color: #EDEDF0; }
+.news.dense { margin-top: 0; gap: 16px; }
+.news.dense .n-item { padding: 24px 28px; gap: 18px; }
+.news.dense .n-item i { font-style: normal; font-size: 40px; color: var(--yel); flex: none; }
+.news.dense b { font-size: 34px; }
+.news.dense p { font-size: 27px; margin-top: 8px; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
+.trows { display: grid; gap: 10px; }
+.trows p { display: flex; gap: 18px; align-items: baseline; font-size: 30px; font-weight: 600; line-height: 1.35; color: #EDEDF0; }
+.trows b { flex: none; min-width: 86px; padding: 4px 12px; border-radius: 10px; background: var(--tc); color: #fff; font-size: 26px; font-weight: 800; text-align: center; }
+.pcard:has(.trows) { padding: 34px 36px; }
+
+/* 첫 장 예고 목록·카드 확대(빽빽하게) */
+.tease { margin-top: 40px; padding: 0; display: grid; gap: 14px; }
+.tease li { list-style: none; padding: 22px 28px; border-radius: 22px; background: rgba(20, 20, 22, .9); color: #fff; font-size: 36px; font-weight: 700; white-space: nowrap; overflow: hidden; }
+.tease b { color: #FFD43B; margin-right: 16px; }
+.tease .blur { filter: blur(9px); opacity: .8; }
+.y .yb { margin-top: 40px; } .y h1 { margin-top: 40px; }
+.pq.dense { font-size: 44px; line-height: 1.6; }
+.plab { font-size: 34px; }
+.news.dense b { font-size: 38px; } .news.dense p { font-size: 31px; -webkit-line-clamp: 4; }
+.trows { gap: 16px; } .trows p { font-size: 36px; } .trows b { font-size: 30px; min-width: 100px; }
+.pcard .vsgrid, .pcard .facts, .pcard .points, .pcard .games, .pcard .rec, .pcard .vote, .pcard .last { zoom: 1.18; }
