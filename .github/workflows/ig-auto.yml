@@ -47,7 +47,8 @@ jobs:
           set -euo pipefail
           sudo apt-get -qq update >/dev/null && sudo apt-get -qq install -y fonts-noto-cjk imagemagick >/dev/null
           mkdir -p /tmp/img
-          for s in 1 2 3 4 5 story; do
+          n=$(jq -r '.n // 5' /tmp/result.json)
+          for s in $(seq 1 "$n") story; do
             h=1350; [ "$s" = story ] && h=1920
             google-chrome --headless=new --no-sandbox --hide-scrollbars --allow-file-access-from-files --window-size=1080,$h --virtual-time-budget=3000 --screenshot=/tmp/img/$s.png "file:///tmp/set/index.html?s=$s" >/dev/null 2>&1
             convert /tmp/img/$s.png -quality 92 /tmp/img/$s.jpg
@@ -63,10 +64,10 @@ jobs:
           cd /tmp/media
           git checkout -q -B insta-media
           mkdir -p "$KEY"; cp /tmp/img/*.jpg "$KEY/"
-          jq '{images: ["1.jpg","2.jpg","3.jpg","4.jpg","5.jpg"], caption}' /tmp/result.json > "$KEY/post.json"
+          jq '{images: [range(1; (.n // 5) + 1) | "\(.).jpg"], caption}' /tmp/result.json > "$KEY/post.json"
           git add "$KEY"; git commit -qm "insta: $KEY 세트"; git push -q origin insta-media
           raw="https://raw.githubusercontent.com/${GITHUB_REPOSITORY}/insta-media/$KEY"
-          { echo "## $KEY"; for s in 1 2 3 4 5; do echo "<img src=\"$raw/$s.jpg\" width=\"180\">"; done; echo; echo "스토리: [story.jpg]($raw/story.jpg)"; echo; echo '```'; jq -r .caption /tmp/result.json; echo '```'; } >> "$GITHUB_STEP_SUMMARY"
+          { echo "## $KEY"; for s in $(seq 1 "$(jq -r '.n // 5' /tmp/result.json)"); do echo "<img src=\"$raw/$s.jpg\" width=\"180\">"; done; echo; echo "스토리: [story.jpg]($raw/story.jpg)"; echo; echo '```'; jq -r .caption /tmp/result.json; echo '```'; } >> "$GITHUB_STEP_SUMMARY"
   publish:
     needs: build
     if: needs.build.outputs.key != '' && inputs.dry_run != 'true'
