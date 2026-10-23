@@ -1,0 +1,24 @@
+{
+  "id": "community-6b10b13a",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 나린데이",
+  "url": "https://blog.naver.com/hkhan001/224451795731",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/KCn2seuqhc",
+  "title": "김태룡 단장 퇴임, \"43년 했으면 오래했다\"…쉬고 싶었던 진짜 속내",
+  "published_at": "2026-10-24T00:29:00.000+09:00",
+  "collected_at": "2026-10-23T21:37:47.056Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

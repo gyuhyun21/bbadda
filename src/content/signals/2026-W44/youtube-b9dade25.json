@@ -1,0 +1,26 @@
+{
+  "id": "youtube-b9dade25",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "youtube",
+  "source_name": "Aiman Aiman",
+  "url": "https://www.youtube.com/watch?v=6f2R-JMZ_lo",
+  "title": "⚾ 수원 KT위즈파크 구도일 레전드.zip",
+  "published_at": "2026-10-23T16:59:32Z",
+  "collected_at": "2026-10-23T21:37:47.056Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 329,
+    "likes": 3,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 38,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

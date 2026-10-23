@@ -1,0 +1,30 @@
+{
+  "id": "news-7106cc75",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://www.mt.co.kr/amp/sports/2026/10/24/202610231911771066O",
+  "title": "‘2차례 통합 우승→가을야구 엔트리 탈락’ 38억 FA 함덕주, 옵트 아웃 선언할까, 명예회복 도전할까",
+  "published_at": "2026-10-23T16:10:00.000Z",
+  "collected_at": "2026-10-23T21:37:47.056Z",
+  "summary_ko": "머니투데이는 38억 FA 함덕주가 가을야구 엔트리에서 빠졌다며 옵트 아웃 여부를 짚었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 82,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB5czBkcFhWLVp5UHFjbXUyYmpvbTJyZ29YRXJaT0xoc3RfSndQWmlpQkZjcUlleXY0ZHZ3ZmsxellINmZKTnQzMHgtczVrdXJxdm56dw?oc=5"
+    }
+  ],
+  "brief_ko": "함덕주, 옵트 아웃 선택은"
+}

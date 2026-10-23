@@ -1,0 +1,23 @@
+{
+  "id": "news-30ffbbf7",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "한국경제",
+  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Fem1nWUpGZWNucEluLU00NGRsZ08zZ0JEanZ5MnRJZTFUQWE2MzRyTGVGTzF0TkVGcVFNUzdoVks5bWg0aTBORkZEVlh3V2oxMTV3M2w1Uk0tUQ?oc=5",
+  "title": "\"치우는데 45억\"…'관중 1200만' 야구 덮친 '쓰레기 대란'",
+  "published_at": "2026-10-22T23:24:18.000Z",
+  "collected_at": "2026-10-23T21:37:47.056Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 60,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

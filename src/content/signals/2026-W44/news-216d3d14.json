@@ -1,0 +1,24 @@
+{
+  "id": "news-216d3d14",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠한국",
+  "url": "https://sports.hankooki.com/news/articleView.html?idxno=6942198",
+  "title": "'또 KIA, 또 비?' PO 1차전 변수로 떠오른 태풍 '참피', 삼성 2년전 악몽 재현되나",
+  "published_at": "2026-10-23T21:00:00.000Z",
+  "collected_at": "2026-10-23T21:37:47.056Z",
+  "summary_ko": "스포츠한국은 태풍 '참피'가 KIA와 삼성의 플레이오프 1차전 변수로 떠올랐다고 전했다. 삼성이 2년 전 비로 겪은 일이 되풀이될지 짚었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 84,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "PO 1차전, 태풍이 변수"
+}

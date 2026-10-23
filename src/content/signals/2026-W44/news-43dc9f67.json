@@ -1,0 +1,24 @@
+{
+  "id": "news-43dc9f67",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "KBC광주방송",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1KMW16M1duN281bkZIYVhxNk94WmdJZkduSlZuZUtST1NZVUhvbzd1WFNlMzZBbkV3dkVNdHRWbF81WEQteEE0VkdNam9JRllDclU3MkZQVXNRb3BmdjRLMg?oc=5",
+  "title": "KIA, 플레이오프 준비 완료...삼성 '좌타' 봉쇄 관건",
+  "published_at": "2026-10-23T12:22:18.000Z",
+  "collected_at": "2026-10-23T21:37:47.056Z",
+  "summary_ko": "KBC광주방송은 KIA가 플레이오프 준비를 마쳤으며 삼성 좌타자 봉쇄가 관건이라고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "KIA, 삼성 좌타 봉쇄가 관건"
+}

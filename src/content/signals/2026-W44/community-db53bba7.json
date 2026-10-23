@@ -1,0 +1,23 @@
+{
+  "id": "community-db53bba7",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 카무싸리의 푸짐한 블로그",
+  "url": "https://blog.naver.com/kamussari/224451804354",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/2dxl7m0u6oZ",
+  "title": "롯데 투수 16명 방출, 아시안게임 금메달리스트 최충연 이름에 다들 놀란 이유",
+  "published_at": "2026-10-24T04:30:00.000+09:00",
+  "collected_at": "2026-10-23T21:37:47.056Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "youtube-0baad945",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "뉴뉴뉴스",
+  "url": "https://www.youtube.com/watch?v=r2RRXDsfe00",
+  "title": "김도영 vs 구자욱 / 홈런왕과 타격왕 #구자욱 #김도영 #삼성라이온즈 #타격왕 #플레이오프 #디아즈 #최형우 #KBO #쇼츠 #야구",
+  "published_at": "2026-10-23T16:00:04Z",
+  "collected_at": "2026-10-23T21:37:47.056Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1204,
+    "likes": 4,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 41,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-06d38af2",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "KBS 뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA2U0ZNWDJWNHVfTjY3dE5sY2pXMDRsbU1XaWJKN3RaWms3MWRfTW0yVEVaTDhaLVYyNU5sWk5iNXBTZVh5VFgxb2FmcTJDc1JaUHdMYThpVWdiZzQ?oc=5",
+  "title": "[집중취재] 야구하는 날, 도시가 움직인다",
+  "published_at": "2026-10-22T22:49:00.000Z",
+  "collected_at": "2026-10-23T21:37:47.056Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 60,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

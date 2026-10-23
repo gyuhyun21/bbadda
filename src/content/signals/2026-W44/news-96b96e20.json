@@ -1,0 +1,23 @@
+{
+  "id": "news-96b96e20",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "www.cctoday.co.kr",
+  "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Ub2VXd2MybDFNeXFYT0lOaElQaElCenplczVnaldvQnpyTm1oeEZjdUlFdmpKZDdJekVrV0xqN3g0Y2VYcDZIeG1qMWNLX2V2SFBYZW9oQUxvZUpOV3lXQ2JXaV9sMVU0VTdpSzVB?oc=5",
+  "title": "작은 학교에 찾아온 야구 영웅들, 홍성 결성초서 김태균 야구캠프 전야제",
+  "published_at": "2026-10-23T13:30:02.000Z",
+  "collected_at": "2026-10-23T21:37:47.056Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

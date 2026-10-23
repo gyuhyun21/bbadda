@@ -1,0 +1,24 @@
+{
+  "id": "community-a538cef4",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 피플릿(Peoplit)",
+  "url": "https://blog.naver.com/peoplit/224451650439",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/1YA962FzHdF",
+  "title": "빠른 공 없이도 타자를 잡는다니 고영표 프로필 나이 키 연봉 성적 체인지업",
+  "published_at": "2026-10-24T02:00:00.000+09:00",
+  "collected_at": "2026-10-23T21:37:47.056Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "youtube-74e4d4c2",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "스탯레이스",
+  "url": "https://www.youtube.com/watch?v=HdlUi5KYnek",
+  "title": "삼성 vs KIA 플레이오프, 1차전 지면 끝? KIA 4번 모두 탈락 · 삼성 9번 중 8번 탈락 #shorts",
+  "published_at": "2026-10-23T21:00:30Z",
+  "collected_at": "2026-10-23T21:37:47.056Z",
+  "summary_ko": "스탯레이스가 삼성 대 KIA 플레이오프 1차전 승부의 역대 기록을 짚은 쇼츠를 올렸다.",
+  "metrics": {
+    "views": 352,
+    "likes": 2,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 36,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

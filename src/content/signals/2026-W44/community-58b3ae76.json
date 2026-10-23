@@ -1,0 +1,24 @@
+{
+  "id": "community-58b3ae76",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 소씨 만물상회",
+  "url": "https://blog.naver.com/sosu4412/224451816309",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/Gigond5ezpI",
+  "title": "고척스카이돔 야구 관람, 외야 시야와 돔구장 풍경",
+  "published_at": "2026-10-24T00:42:00.000+09:00",
+  "collected_at": "2026-10-23T21:37:47.056Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

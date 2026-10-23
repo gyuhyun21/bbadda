@@ -1,0 +1,23 @@
+{
+  "id": "news-0dbca907",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "연합뉴스TV",
+  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA0dHVKbk52VExidENpLXB5a1lPOUM5c0t3a0lBTnZTZ1dkX1JZU2VfVFZ6ODVSUldMU3c2eWZyd0tzelpFMHRYSnFnUEd3eGJfaU1pOVg3YkNVTWVqM2tpZW5PZ0tOdXc?oc=5",
+  "title": "달빛시리즈 코앞…KIA, PO 기선 제압 예고",
+  "published_at": "2026-10-23T14:27:00.000Z",
+  "collected_at": "2026-10-23T21:37:47.056Z",
+  "summary_ko": "연합뉴스TV는 KIA가 플레이오프 1차전 기선 제압을 예고했다고 전했다. 삼성과의 '달빛시리즈'가 코앞이다.",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "KIA, PO 1차전 기선 제압 예고"
+}

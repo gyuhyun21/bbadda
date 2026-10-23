@@ -1,0 +1,23 @@
+{
+  "id": "community-f60ba03c",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 맛집 소개하는 예쁜 언니",
+  "url": "https://blog.naver.com/whdb8787/224451847913",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/LIklgLR1aXx",
+  "title": "KIA 김도영 145m 만루홈런 폭발 준플레이오프 MVP 활약상 정리",
+  "published_at": "2026-10-24T05:20:00.000+09:00",
+  "collected_at": "2026-10-23T21:37:47.056Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "youtube-3f315c2c",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "youtube",
+  "source_name": "야구보는 아빠",
+  "url": "https://www.youtube.com/watch?v=ijPU3OPlb5k",
+  "title": "롯데 최고의 용병타자는? #롯데자이언츠 #야구 #kbo #레이예스",
+  "published_at": "2026-10-23T16:01:00Z",
+  "collected_at": "2026-10-23T21:37:47.056Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1204,
+    "likes": 2,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 39,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

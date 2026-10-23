@@ -1,0 +1,24 @@
+{
+  "id": "community-1fc7f07d",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha",
+    "lg",
+    "nc"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 언덕위의작은집 이야기 (로비의 스포츠 칼럼)",
+  "url": "https://blog.naver.com/kshabsolute1/224451678506",
+  "title": "[KBO] 류지현의 한화, 김광삼·진종길 코치 영입…LG와 NC의 지도자가 모였다!",
+  "published_at": "2026-10-24T00:10:00.000+09:00",
+  "collected_at": "2026-10-23T21:37:47.056Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

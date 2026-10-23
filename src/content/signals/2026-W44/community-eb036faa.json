@@ -1,0 +1,24 @@
+{
+  "id": "community-eb036faa",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 로다스포츠",
+  "url": "https://blog.naver.com/rodasports/224451898591",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/Ia5T5gxce8b",
+  "title": "삼성-KIA 플레이오프, 첫판부터 페덱-네일…김도영·구자욱이 가를 대구 1차전",
+  "published_at": "2026-10-24T05:00:00.000+09:00",
+  "collected_at": "2026-10-23T21:37:47.056Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "community-496173e5",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 moment_note11님의 블로그",
+  "url": "https://blog.naver.com/moment_note11/224451726953",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/KmNgXWkaoEA",
+  "title": "[양의지 침묵의 선택]양의지 옵트아웃, 42억 남기고 새 계약 잡을까…손아섭과 갈린 두 그림자",
+  "published_at": "2026-10-23T22:33:00.000+09:00",
+  "collected_at": "2026-10-23T21:37:47.056Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

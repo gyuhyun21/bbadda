@@ -1,0 +1,23 @@
+{
+  "id": "community-abf33ea7",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&page=6&document_srl=10477181006",
+  "title": "JBO안봐서 그런가 지바롯데 로고가 근본있어보임 - 야구",
+  "published_at": "2026-10-23T13:37:47.056Z",
+  "collected_at": "2026-10-23T21:37:47.056Z",
+  "summary_ko": "",
+  "excerpt": "... 롯데자이언츠에 비해 쓰는 색도 깔끔함.",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

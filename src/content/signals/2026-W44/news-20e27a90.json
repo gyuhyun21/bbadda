@@ -1,0 +1,23 @@
+{
+  "id": "news-20e27a90",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스1",
+  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA4RzVXTWd0LTBvYjlhM2QwU1RIRko3Q0toOTVqd1VUNWVxWWZPajFJX3FMWmtUSDhaYklTcldheFVNNmtrdWg5X1lkOXNJTVV2SjExOUhNNA?oc=5",
+  "title": "'홀드왕' KT 스기모토, 日 소프트선수 육성선수 지명 받아",
+  "published_at": "2026-10-23T05:12:39.000Z",
+  "collected_at": "2026-10-23T21:37:47.056Z",
+  "summary_ko": "뉴스1에 따르면 KT 홀드왕 스기모토가 일본 소프트뱅크의 육성선수 지명을 받았다.",
+  "metrics": {},
+  "scores": {
+    "hot": 62,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "KT 스기모토, 日 육성선수 지명"
+}

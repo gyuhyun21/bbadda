@@ -1,0 +1,23 @@
+{
+  "id": "news-fc5cb066",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "한스경제",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBQd2ktdHkzZmNMSFYtRThtT0oyc2FrQ3Nyc1JvYTF2T0xTVVU1SzdtSS0tYnhLbXZ4SFM2Vi1QVEp2TmJ3dU00SXk5aUNvYXNBdU9lbndlV1hXOEJNUnp5OEY2WkN6X1hTa1NreGZYNNIBb0FVX3lxTFBQd2ktdHkzZmNMSFYtRThtT0oyc2FrQ3Nyc1JvYTF2T0xTVVU1SzdtSS0tYnhLbXZ4SFM2Vi1QVEp2TmJ3dU00SXk5aUNvYXNBdU9lbndlV1hXOEJNUnp5OEY2WkN6X1hTa1NreGZYNA?oc=5",
+  "title": "프로야구 KIA, 고종욱·홍건희 포함 16명과 결별",
+  "published_at": "2026-10-23T11:10:44.000Z",
+  "collected_at": "2026-10-23T21:37:47.056Z",
+  "summary_ko": "한스경제에 따르면 KIA가 고종욱·홍건희를 포함한 16명과 결별했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "KIA, 16명과 결별"
+}

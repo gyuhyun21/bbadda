@@ -1,0 +1,23 @@
+{
+  "id": "community-b97a3bac",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 슬로우러너님의 블로그",
+  "url": "https://blog.naver.com/infoforest/224451423612",
+  "title": "\"미국에 남을까, 한국으로 올까\" 김하성 FA 거취가 궁금한 이유",
+  "published_at": "2026-10-23T16:35:00.000+09:00",
+  "collected_at": "2026-10-23T21:37:47.056Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "news-32d74910",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "재경일보",
+  "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE04QUhKRnBsMk91T1dwYXVmRW9Ic3dyT3VEbVdZT1BSdDNPSkQta2ZDZWVHNnZMdE14MGVISXZteDRJa3ZfQndHUlB0RQ?oc=5",
+  "title": "김용수, LG 최종전 시구 고사 '너무 자주 올라 송구' : 스포츠",
+  "published_at": "2026-10-23T16:27:00.000Z",
+  "collected_at": "2026-10-23T21:37:47.056Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

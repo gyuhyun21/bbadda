@@ -1,0 +1,24 @@
+{
+  "id": "community-c31ca955",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 성균관대학교 스포츠매거진",
+  "url": "https://blog.naver.com/eskaka/224451853660",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/B4tJTLHqjxL",
+  "title": "[2027 KBO 신인 드래프트] 이제는 프로 선수, 성균관대 야구부 신인 미리보기",
+  "published_at": "2026-10-24T03:03:00.000+09:00",
+  "collected_at": "2026-10-23T21:37:47.056Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

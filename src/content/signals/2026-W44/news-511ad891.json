@@ -1,0 +1,29 @@
+{
+  "id": "news-511ad891",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "조선일보",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWmlfZkctbGhaZWhtbkw0aXFKQzFSQ2tuSUlteV94cjVzMzAycmtCSmJHTE5zMEdTZUVfMktqWTA4dEpZYVpUWkEtU3ZzemNnRHNUQ0szNU9iVkI0czhRX2paMktabm53Nk9LVW1aWi16UzJsbTdlb1lUSjN0YndQZ0t0cw?oc=5",
+  "title": "연봉 6억5000만원 받았는데, 고작 4이닝 던지고 방출…왜 15억 옵트 아웃 대모험 선택했었나",
+  "published_at": "2026-10-23T21:11:00.000Z",
+  "collected_at": "2026-10-23T21:37:47.056Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "negative",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9WaURQb24wbnFtbDVWOHA0ZmZyWmVVRnJud1BCVmlrRnhaeXV0OUs4Y0FzaF8zS052QjQ0d0d1ckRRaE81UVhGaU9veTNvaE5mTFlFZzBCMko3VEt1d3ZWVmRMbDNvZmE3MUHSAW9BVV95cUxQdEg2RGtNQXJ6MUJsRGNUa2NrWkZoZTI0V2pIcF96aTR5cVRkNEFsa2QzbHAtbzFaMnJmT3pkM0xaaWtHNUFVQU45Um14bG1EU0RkS1UyLWtJS2NxMjc2UzFnZE1vQkZqaFFwOXo2MVE?oc=5"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "youtube-9f47f81e",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "youtube",
+  "source_name": "스포츠 카르텔",
+  "url": "https://www.youtube.com/watch?v=bIXpyXuXais",
+  "title": "문상철 은퇴, KT 타선의 큰 공백? 먼저 볼 8타석",
+  "published_at": "2026-10-23T14:10:31Z",
+  "collected_at": "2026-10-23T21:37:47.056Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 375,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 31,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

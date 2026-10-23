@@ -1,0 +1,24 @@
+{
+  "id": "community-2e74875f",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 알고보면",
+  "url": "https://blog.naver.com/algobo/224451811405",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/29DwzM4MyRz",
+  "title": "KBO 역대 홈런 순위 TOP 10｜통산 홈런 기록 정리",
+  "published_at": "2026-10-24T01:01:00.000+09:00",
+  "collected_at": "2026-10-23T21:37:47.056Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

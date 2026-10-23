@@ -1,0 +1,24 @@
+{
+  "id": "community-809f2ed0",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 오늘도 운동합니다 ‘또운’",
+  "url": "https://blog.naver.com/lifebystride/224450262885",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/7WB1Ngz7ehX",
+  "title": "2026 KBO 수비상 유틸리티 신설｜구본혁·안상현·박지훈, 후보가 3명뿐인 이유",
+  "published_at": "2026-10-24T04:21:00.000+09:00",
+  "collected_at": "2026-10-23T21:37:47.056Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}
