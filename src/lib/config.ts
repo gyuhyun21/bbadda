@@ -44,7 +44,7 @@ export function loadTeams() {
   return t;
 }
 
-const siteSchema = z.object({ layout: z.enum(['soft', 'apple', 'magazine', 'classic']).default('classic'), community_section: z.boolean().default(false), news_images: z.boolean().default(false), home: z.enum(['front', 'simple']).default('simple'), article_modal: z.boolean().default(false), postseason_bracket: z.boolean().default(false), section_headings: z.boolean().default(false), brand_logo: z.boolean().default(false), team_logos: z.boolean().default(false), modal_blocked_hosts: z.array(z.string()).default([]), blocked_open: z.enum(['window', 'tab', 'same', 'modal']).default('modal'), revisit: z.boolean().default(false), push: z.boolean().default(false), news_cover: z.enum(['text', 'typo']).default('typo') });
+const siteSchema = z.object({ layout: z.enum(['soft', 'apple', 'magazine', 'classic']).default('classic'), community_section: z.boolean().default(false), news_images: z.boolean().default(false), home: z.enum(['front', 'simple']).default('simple'), article_modal: z.boolean().default(false), postseason_bracket: z.boolean().default(false), section_headings: z.boolean().default(false), brand_logo: z.boolean().default(false), team_logos: z.boolean().default(false), modal_blocked_hosts: z.array(z.string()).default([]), blocked_open: z.enum(['window', 'tab', 'same', 'modal']).default('modal'), revisit: z.boolean().default(false), push: z.boolean().default(false), insta_yt_thumbs: z.boolean().default(false), news_cover: z.enum(['text', 'typo']).default('typo') });
 /** 화면 레이아웃(config/site.yaml). 환경변수 SITE_LAYOUT 이 우선. 파일이 없으면 classic. */
 export function siteLayout(): 'soft' | 'apple' | 'magazine' | 'classic' {
   const env = process.env.SITE_LAYOUT;
@@ -100,6 +100,12 @@ export function newsCover(): 'text' | 'typo' {
   const env = process.env.SITE_NEWS_COVER;
   if (env === 'text' || env === 'typo') return env;
   try { return load('site.yaml', siteSchema).news_cover; } catch { return 'typo'; }
+}
+/** 인스타 세트에 구단·KBO 공식 유튜브 썸네일 사용(config/site.yaml insta_yt_thumbs). 환경변수 INSTA_YT_THUMBS=on|off 우선 */
+export function instaYtThumbs(): boolean {
+  const env = process.env.INSTA_YT_THUMBS;
+  if (env === 'on' || env === 'off') return env === 'on';
+  try { return load('site.yaml', siteSchema).insta_yt_thumbs; } catch { return false; }
 }
 /** 재방문 장치(승부예측 적중 기록·지난 방문 이후 새 소식 표시, config/site.yaml revisit). 환경변수 SITE_REVISIT=on|off 가 우선. */
 export function revisit(): boolean {
