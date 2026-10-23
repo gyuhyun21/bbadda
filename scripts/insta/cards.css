@@ -224,3 +224,6 @@ h1, h2, .stat-line, .n-item b, .points li, .facts li { text-wrap: balance; }
 .pn h2 { font-size: 64px; line-height: 1.25; }
 .pn h2 u { box-shadow: inset 0 -5px 0 #fff; }
 .pf { padding-right: 0; }
+
+/* 원형 엠블럼 마스코트(2026-10-23) */
+.tbadge.emb { background: none; box-shadow: none; object-fit: contain; filter: drop-shadow(0 12px 24px rgba(0, 0, 0, .45)); }
