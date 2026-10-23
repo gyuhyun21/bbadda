@@ -1,0 +1,27 @@
+{
+  "id": "youtube-a030f015",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom",
+    "ssg"
+  ],
+  "source_type": "youtube",
+  "source_name": "TV제물포역",
+  "url": "https://www.youtube.com/watch?v=JGXHG0QwsIM",
+  "title": "인천1호선 문학경기장역 명소 : 20260920 KBO리그 키움히어로즈 대 SSG랜더스 2회초 키움히어로즈 1번타자 서건창 유격수 내야안타 비디오 판독 중 - 세이프",
+  "published_at": "2026-10-23T09:45:28Z",
+  "collected_at": "2026-10-23T13:38:25.090Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 315,
+    "likes": 4,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 40,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

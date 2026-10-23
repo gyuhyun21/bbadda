@@ -1,0 +1,24 @@
+{
+  "id": "community-e2e958bf",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 캄스포츠",
+  "url": "https://blog.naver.com/cryistal2/224451400032",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/9jPKi4zSNCk",
+  "title": "\"어디서 나온 논리인지\" 장성호, 김태형 재계약설에 던진 의문.. 진짜 후보는 누굴까?",
+  "published_at": "2026-10-23T16:30:00.000+09:00",
+  "collected_at": "2026-10-23T13:38:25.090Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

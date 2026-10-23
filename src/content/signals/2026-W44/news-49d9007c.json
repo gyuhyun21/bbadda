@@ -1,0 +1,24 @@
+{
+  "id": "news-49d9007c",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "헤럴드경제",
+  "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1VYk5sQzk5X0E2Nk1zUGdVcGd6SW10Y3NEQl95d1hhR1JOdUtxRjJLNm5MLTdJMGFsVVlOS0tURFBvbGNiUGpQMV9xUmlsSTZfZG5ScVp3?oc=5",
+  "title": "‘KIA 상대 선발승 고작 2승’ 삼성, 페덱 어깨에 1차전 걸었다",
+  "published_at": "2026-10-23T02:03:35.000Z",
+  "collected_at": "2026-10-23T13:38:25.090Z",
+  "summary_ko": "헤럴드경제는 삼성이 KIA와의 플레이오프 1차전 선발로 페덱을 내세운다고 전했다. 제목 기준 삼성은 KIA 상대 선발승이 2승뿐이다.",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "삼성 PO 1차전 선발 낙점"
+}

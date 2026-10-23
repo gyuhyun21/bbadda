@@ -1,0 +1,24 @@
+{
+  "id": "community-55d1bafa",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "디시 야구 갤러리",
+  "url": "https://gall.dcinside.com/board/view/?id=hanwhaeagles_new&no=17903297",
+  "title": "박상원 계약법 딱 나와있음",
+  "published_at": "2026-10-12T00:00:00.000Z",
+  "collected_at": "2026-10-23T13:38:25.090Z",
+  "summary_ko": "",
+  "excerpt": "... 우선 협상할때 2년 4억 3년 6억 던지고시장의 평가 받겠다고 나가면 놔두면됨.20인 로스터 빼고 선수…",
+  "metrics": {},
+  "scores": {
+    "hot": 8,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

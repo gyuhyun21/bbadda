@@ -1,0 +1,26 @@
+{
+  "id": "youtube-3b2147f4",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "youtube",
+  "source_name": "TWOBINPAPA",
+  "url": "https://www.youtube.com/watch?v=YBXB50-5WMM",
+  "title": "롯데자이언츠 누굴까요? 맞춰보세요",
+  "published_at": "2026-10-23T13:00:39Z",
+  "collected_at": "2026-10-23T13:38:25.090Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 6,
+    "likes": 1,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 50,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "news-c1351a16",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스1",
+  "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB5TDFJSnlmYWYzeGRRUy1sdGtEZGJlTVl4WmY1WElHYlRnTEZ5OWJBcjJLQjZXTm9JbUZHUWd3ZVhxWkQ3Wmh2ZnRVUXBNVzJlREJkZVM1OUFPcjJLTUVz?oc=5",
+  "title": "대구경찰, 프로야구 삼성-KIA 플레이오프 앞두고 암표 단속 강화",
+  "published_at": "2026-10-23T01:09:53.000Z",
+  "collected_at": "2026-10-23T13:38:25.090Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 72,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "경북매일",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9YeTNBQmtjZU9DelpiZGN0ZFdnU1lMT1lzMEstZ0lnTDgxUVVxQzVVNVdZOGQ0RDlJT1ZhelVBSURjUXF0ZFJiMEZlakNHVnl5RjhnS093eTJ3QQ?oc=5"
+    }
+  ]
+}

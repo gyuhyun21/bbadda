@@ -1,0 +1,24 @@
+{
+  "id": "community-be9dff79",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 유부뉴스",
+  "url": "https://blog.naver.com/yubunews/224451385443",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/ENbwbAAJSQM",
+  "title": "김하성 4800만 달러 거절 왜? 애틀랜타 2000만 달러 선택 후 타율 0.116·2027 FA 전망",
+  "published_at": "2026-10-23T16:04:00.000+09:00",
+  "collected_at": "2026-10-23T13:38:25.090Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "news-4ac32923",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "news",
+  "source_name": "OhmyNews",
+  "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9nS0RvSTVKNTRnVkQ4VlZ4TE1CMlU3ZzRBWFJmNmFDM1J0WEpKWVBqYkJHQ2ZlSnlMdDlfSHlyN1VGUGZ4ZmlvT1ZibU1nQ2lGS2VZNlNJVm8yYlRIU3J6QzdIUTJERG5sWUFma0RVaVU3cFZqeUZIdg?oc=5",
+  "title": "kt wiz 문상철 [연합뉴스 자료사...",
+  "published_at": "2026-10-23T05:13:25.000Z",
+  "collected_at": "2026-10-23T13:38:25.090Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "community-dc5cda73",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "엠엘비파크",
+  "url": "https://mlbpark.donga.com/mp/b.php?id=202610230119611329&p=31&b=kbotown&m=view&select=spf&query=%ED%95%9C%ED%99%94&site=donga.com",
+  "title": "김광삼 코치는 어떻습니까?",
+  "published_at": "2026-10-23T05:38:25.090Z",
+  "collected_at": "2026-10-23T13:38:25.090Z",
+  "summary_ko": "",
+  "excerpt": "... ... 한화 · SSG · 삼성 · NC · kt · 롯데 · KIA…",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

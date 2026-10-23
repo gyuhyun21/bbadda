@@ -1,0 +1,23 @@
+{
+  "id": "community-bd79c33f",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 세상 돌아가는 이야기",
+  "url": "https://blog.naver.com/kch7055/224451577302",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/HG3r5NOq9BP",
+  "title": "46만 조회 유튜브 생중계까지, SSG 최광야구가 이벤트 경기에서 보여준 반전은?",
+  "published_at": "2026-10-23T19:52:00.000+09:00",
+  "collected_at": "2026-10-23T13:38:25.090Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

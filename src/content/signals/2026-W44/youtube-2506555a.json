@@ -1,0 +1,26 @@
+{
+  "id": "youtube-2506555a",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "youtube",
+  "source_name": "오늘스포츠",
+  "url": "https://www.youtube.com/watch?v=lhOSk1775Xw",
+  "title": "키움 히어로즈 히우라 — 전체 9순위 출신의 대체 외국인 #Shorts",
+  "published_at": "2026-10-23T10:00:25Z",
+  "collected_at": "2026-10-23T13:38:25.090Z",
+  "summary_ko": "키움 히어로즈 대체 외국인 히우라(전체 9순위 출신)를 소개한 쇼츠다.",
+  "metrics": {
+    "views": 617,
+    "likes": 6,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 41,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

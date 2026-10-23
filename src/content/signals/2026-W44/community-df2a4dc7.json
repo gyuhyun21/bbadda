@@ -1,0 +1,24 @@
+{
+  "id": "community-df2a4dc7",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 이세상스포츠",
+  "url": "https://blog.naver.com/biasnews/224451454040",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/8k3vVsIZjil",
+  "title": "잠실이라는 상징성도 있는데... 3만 석 돔구장 계획에 야구팬들이 아쉬워하는 이유",
+  "published_at": "2026-10-23T17:40:00.000+09:00",
+  "collected_at": "2026-10-23T13:38:25.090Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

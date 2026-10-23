@@ -1,0 +1,23 @@
+{
+  "id": "community-ac110c92",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 블로갓의 스포츠월드",
+  "url": "https://blog.naver.com/blog-god/224451395435",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/LZbrVEbDWih",
+  "title": "\"65억 계약했는데 5년간 6승이라니…\" SSG 박종훈 방출, 인천의 핵잠수함이 무너진 이유",
+  "published_at": "2026-10-23T16:11:00.000+09:00",
+  "collected_at": "2026-10-23T13:38:25.090Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

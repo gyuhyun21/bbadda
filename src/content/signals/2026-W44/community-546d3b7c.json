@@ -1,0 +1,24 @@
+{
+  "id": "community-546d3b7c",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 1분 스포츠 라이프",
+  "url": "https://blog.naver.com/sasuke1017/224451155523",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/AbpshEKQCqr",
+  "title": "프로야구 포스트시즌 업셋 기록, 2위 팀의 승리와 반전 비교",
+  "published_at": "2026-10-23T18:00:00.000+09:00",
+  "collected_at": "2026-10-23T13:38:25.090Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

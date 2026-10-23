@@ -1,0 +1,23 @@
+{
+  "id": "community-9ab27161",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 트렌드 노트",
+  "url": "https://trendnote-kr.tistory.com/136",
+  "title": "2026 프로야구 플레이오프 예매 총정리｜삼성·KIA 일정·티켓값 (10월 23일 기준)",
+  "published_at": "2026-10-23T19:48:06.000+09:00",
+  "collected_at": "2026-10-23T13:38:25.090Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

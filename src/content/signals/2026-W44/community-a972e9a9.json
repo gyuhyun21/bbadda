@@ -1,0 +1,22 @@
+{
+  "id": "community-a972e9a9",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 핑크의 뉴스",
+  "url": "https://blog.naver.com/pinkpink827/224451563580",
+  "title": "LG 트윈스 방출 장시환, 현대 유니콘스 마지막 지명 선수 은퇴…남은 기록은?",
+  "published_at": "2026-10-23T18:52:00.000+09:00",
+  "collected_at": "2026-10-23T13:38:25.090Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

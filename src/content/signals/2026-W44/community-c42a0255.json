@@ -1,0 +1,30 @@
+{
+  "id": "community-c42a0255",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "엠엘비파크",
+  "url": "https://mlbpark.donga.com/mp/b.php?id=202610230119611071&p=151&b=kbotown&m=view&site=donga.com",
+  "title": "홍건희 고종욱 이창진 방출",
+  "published_at": "2026-10-22T15:00:00.000Z",
+  "collected_at": "2026-10-23T13:38:25.090Z",
+  "summary_ko": "",
+  "excerpt": "... KIA홍건희 고종욱 이창진 방출 2026-10-23 14:02. 기아김기훈. 추천 0 조회 2,352 댓글 36. 가…",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "negative",
+  "also_in": [
+    {
+      "source_name": "더게이트",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBuVVNOSEE2SmJKV1JlRGdKaHpTT3VEOGNXRExyYnVWNFlTN3hZeGJNTDZOaE9tc1JrZEN1X3Jqc091bVBFZFVBZG5iSXA4eFlNLS1lTkZTMWZVUlFTUnAyTjFFUkVQbExU0gFsQVVfeXFMT2lobzAyU1pIWEx5dG84WWs3cFJzOGFBd29uZWRKSm0wSVJ5b2RNUVJtNFlEdXpLLTE3UkZqWE1ycDdkRHhaakl6RWZLX0N3M0RHaUZWa0ZyRDB2ZHZNSjh5bnFMU2pHU05QaE9V?oc=5"
+    }
+  ]
+}

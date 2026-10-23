@@ -1,0 +1,24 @@
+{
+  "id": "news-1dea9646",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "마이데일리",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1CSHFUNVoyMTJicF84S0VQV0JkWU1qQ0h2elV6YlBKT0ZKV0dLWDh2UUJCeDBJekRRbkRfWk9vNTg5anhoQnNsTkd0d0xZSnBlUXBhRlJXQ1hDS01zVlFDZw?oc=5",
+  "title": "'2군 131HR' 창단 원클럽맨 방망이 내려놓다 \"기분이 묘했다\" 이제야 이해되는 한마디…마지막 기억은 130m 초대형 대포",
+  "published_at": "2026-10-22T16:11:00.000Z",
+  "collected_at": "2026-10-23T13:38:25.090Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

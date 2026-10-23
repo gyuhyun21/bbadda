@@ -1,0 +1,29 @@
+{
+  "id": "community-f4a40bb7",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 사자 탈을 쓴 KBO 이야기",
+  "url": "https://blog.naver.com/clipmory/224451561098",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/4euk27jUTdS",
+  "title": "\"키움이 뽑은 특급 유망주들, 왜 자꾸 아플까?\" 장재영·정현우에 박준현마저 무릎 부상",
+  "published_at": "2026-10-23T18:49:00.000+09:00",
+  "collected_at": "2026-10-23T13:38:25.090Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "negative",
+  "also_in": [
+    {
+      "source_name": "MHN스포츠",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBiSWJrdUJkcEltcGRMX3V2RkxhVkVjampXMDRRWmxickJnNjBPa3ZtVGRZTHI4dXlWdW0yaVJ3aXV2bVdNeDFPa1RrU3BRRHVhMENCMnB3LTRDMExjYmE1OTlCUQ?oc=5"
+    }
+  ]
+}

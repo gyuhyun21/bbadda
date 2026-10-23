@@ -1,0 +1,23 @@
+{
+  "id": "community-f3cd6643",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "community",
+  "source_name": "엠엘비파크",
+  "url": "https://mlbpark.donga.com/mp/b.php?id=202610230119609625&p=1&b=kbotown&m=view&select=spf&query=%EB%A1%AF%EB%8D%B0&site=donga.com",
+  "title": "롯데 감독과 단장 선임 발표 시기와 관련한 '데드라인'은 ...",
+  "published_at": "2026-10-23T03:38:25.090Z",
+  "collected_at": "2026-10-23T13:38:25.090Z",
+  "summary_ko": "엠엘비파크에 올라온 보도 인용 글에 따르면 롯데 감독·단장 선임 발표 시기의 데드라인은 플레이오프 일정을 고려한 다음 주 이동일 무렵이다.",
+  "excerpt": "... 이번 주말을 포함해 삼성 라이온즈와 KIA 타이거즈의 플레이오프(5전 3승제) 일정을 고려하면 다음주 이동일인 27일과…",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

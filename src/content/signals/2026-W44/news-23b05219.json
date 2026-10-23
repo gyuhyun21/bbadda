@@ -1,0 +1,48 @@
+{
+  "id": "news-23b05219",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5SWnRKVkp1YUZBZEpRYUR1NHVQQjVKZTJnQ1BtMW1NOUMwYXJpT0NTUnVmMXUyV1RUSWRsQVVndnplamd4MnloRVRoWkpiYmdCTTdrTmpCSXhBRXItNmFZQ0t3Zk02bTNmelHSAW9BVV95cUxNb2F6bURIeFRWSFMtYmJCMmlwV25sd0lWVjROdlhzaWxwN0hyZ29fSkhuQkZLQmxibHRzSkFHeDZYUE9vRWxWa1VjMHB4eHFpQW9EUzI0cTV2LVpTVUZuY1VMUUQzU1Q3NFRSMzNkdzQ?oc=5",
+  "title": "[부고] 김한수 KBO 넥스트 레벨 감독(전 삼성 라이온즈 감독) 모친상",
+  "published_at": "2026-10-23T00:54:00.000Z",
+  "collected_at": "2026-10-23T13:38:25.090Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 95,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPU3RIRVhlQ2ZMZjN0dURSZXo5Ui1IS0JJNENNd1B1NjA3SHhoTGZneE9qcDg1ME0weDRXdE1MZ0VkdXNYUTBWTzVKOVlTTE5LWHU3Wkh1ak5PYm9ST2xIUWd5M1J5X3k2VndGSENNRy1PbkpqS1ZEdk84N3F4U0xEWkJLbw?oc=5"
+    },
+    {
+      "source_name": "Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQOEsweFVCMXFOTzU0ek5xU1RLNkEzVlFpREZlQWVmUHdjalFaWG1ZVzdLZUEzMXMtLWxveXk3Q2hZVXYzTmRDeURoSERKN0J0c3VlQnIxRzF2QVo0Um1SV2VxUkRRTEI2ME43VHdpWExDX0pmR0xRYzJDc2JtR19reFhMQdIBlwFBVV95cUxNWTY0aDZQR3ZEaXdiLVVrM0FqY0dJcUdBdU1CaHB6SV82S2JrZ0RKa0lHVUtIcjJqc2RMT3R6UDkxRjRJQmk1VlJpZWxEODRyVEg1bzZ5a2tld0xkYVRGb3RvMFBnajhlajNMQjd3MklJZU5yYkh3WmhzUEdvUjZpbnlUOUhqUjU4MldqdVVQbERRblR0SERv?oc=5"
+    },
+    {
+      "source_name": "연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE81ek5WaFg2REV2RW5ybFRTbzlTRFk4ZzJmV2p0aVFRVW9DaXlOOTFMaDNnRjNUUFVGeWc4MHJla1BlcDE2MXF0c1BiOXdyVGJMbmlZX1UxUExHWWfSAWBBVV95cUxNaG00ZlNjSm5nREd2UnNoOU5OS3VueXYwR1R3S0dtQWtTLU9OLUhMNVp5a19ZaHNNM0VxSk04Ry05U19aSHdCZDZUc0ZJbDg4U1JMZ1JuU1MzcjJ1YVRTdUw?oc=5"
+    },
+    {
+      "source_name": "퍼블릭타임스",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1sc0lUek5VdG5XUmFLMThJeGw5ZnJwZGMwSWpMZ3BTLUgwX2Q0cFhLMDd6dW9mR0VHS3h6R3R5WURjY2dSVk1oTE1EazM4MDFzUzh4a2xra0gwNHZTTEVEZzZYQVhVV3ZYYkHSAW5BVV95cUxPbTUwVHVHb1N5NkpNN2tzRGJWYUIyMnRBa0VnWWtzanI1ck9LVEJ1eUZxTVI5WVRtUkg4Tl9zdkdJdml0T0lVdUgweWNtVkhxTmlRSjI5cXdJeHcwSjMtY0Vvemt2U25Xd1lKblIwZw?oc=5"
+    },
+    {
+      "source_name": "뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1MbXlrb2xfaHRQTWVRWGlxZndsbHV3VVByUEY2NVBTYi1SdTFIUkhNZjFFTXRKOWpYZGR2bjBpcU4tb083VnZpdXVJbnNkejVLSWNyNWdRTQ?oc=5"
+    },
+    {
+      "source_name": "한국사회복지저널",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ZdVlXMlFPOFNvWjNoUEpfVzdacEtkcXpBSXNkNW1tSUpPWWoxaHJmUlduRmNUYUtMazNWaEg0SC1xd1YzZlp1QkdscG5QR09iTTkwcm5fbktleFRLR2NHVHUxM0JSYjZ4cWdJ?oc=5"
+    }
+  ]
+}

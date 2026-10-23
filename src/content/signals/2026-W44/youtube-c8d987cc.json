@@ -1,0 +1,27 @@
+{
+  "id": "youtube-c8d987cc",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "연합뉴스TV",
+  "url": "https://www.youtube.com/watch?v=SBfwDCNXDA4",
+  "title": "코 훌쩍이는 김도영, 플레이오프 컨디션 괜찮나 \"준PO 때도 감기 기운…팬들 응원에 보답할 생각만으로 준비 중\" [현장쏙] / 연합뉴스TV(YonhapnewsTV)",
+  "published_at": "2026-10-23T08:38:04Z",
+  "collected_at": "2026-10-23T13:38:25.090Z",
+  "summary_ko": "연합뉴스TV가 플레이오프를 준비하는 KIA 김도영의 컨디션을 전했다. 김도영은 준PO 때부터 감기 기운이 있었다고 밝혔다.",
+  "metrics": {
+    "views": 43575,
+    "likes": 635,
+    "comments": 66
+  },
+  "scores": {
+    "hot": 69,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

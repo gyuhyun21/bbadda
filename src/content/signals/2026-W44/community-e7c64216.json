@@ -1,0 +1,23 @@
+{
+  "id": "community-e7c64216",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 스포츠다모아",
+  "url": "https://blog.naver.com/sportsdamoa-/224451708942",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/5qgA1D4yKLK",
+  "title": "사상 최초 만장일치 MVP 먹고도 결국 5000만 원에 친정 돌아온 101홈런 거포의 결말(KBO, 삼성 라이온즈)",
+  "published_at": "2026-10-23T22:09:00.000+09:00",
+  "collected_at": "2026-10-23T13:38:25.090Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

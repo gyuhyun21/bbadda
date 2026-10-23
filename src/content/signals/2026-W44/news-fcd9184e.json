@@ -1,0 +1,24 @@
+{
+  "id": "news-fcd9184e",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "뉴시스",
+  "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9aWmNhY3pkS1E5QkhzWU5VLTNURXlKYzZzSUlkejd0NFM4WV9uWm9MaFc1YVVSRnBNU3JyM3Q0d3dvcy10bXgwQUxDNm4tTHNRTURzbVRoRnpwUThDRTBFcFdKSF9sU0Fxb182emlSNFkwUVpDVmJwZdIBeEFVX3lxTE9aWmNhY3pkS1E5QkhzWU5VLTNURXlKYzZzSUlkejd0NFM4WV9uWm9MaFc1YVVSRnBNU3JyM3Q0d3dvcy10bXgwQUxDNm4tTHNRTURzbVRoRnpwUThDRTBFcFdKSF9sU0Fxb182emlSNFkwUVpDVmJwZQ?oc=5",
+  "title": "'삼성-KIA' PO 25일 돌입…대구경찰, 사복입고 암표 단속",
+  "published_at": "2026-10-23T00:12:58.000Z",
+  "collected_at": "2026-10-23T13:38:25.090Z",
+  "summary_ko": "뉴시스에 따르면 대구경찰이 25일 시작하는 삼성-KIA 플레이오프를 앞두고 사복 차림으로 암표 단속을 벌인다.",
+  "metrics": {},
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "PO 앞두고 암표 단속"
+}

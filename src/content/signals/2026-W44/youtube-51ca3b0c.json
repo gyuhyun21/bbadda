@@ -1,0 +1,27 @@
+{
+  "id": "youtube-51ca3b0c",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "SSG랜더스",
+  "url": "https://www.youtube.com/watch?v=fOXds6hwz2M",
+  "title": "최광야구 1429 끝나고 심심할 으쓱이들을 위해🎁",
+  "published_at": "2026-10-23T09:00:34Z",
+  "collected_at": "2026-10-23T13:38:25.090Z",
+  "summary_ko": "SSG 공식 채널이 '최광야구' 1429회 방송 뒤 팬들을 위한 선물 영상을 올렸다.",
+  "metrics": {
+    "views": 33411,
+    "likes": 1702,
+    "comments": 65
+  },
+  "scores": {
+    "hot": 94,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

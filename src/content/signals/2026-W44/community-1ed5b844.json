@@ -1,0 +1,24 @@
+{
+  "id": "community-1ed5b844",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan",
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 크모스의 스포츠 ⚾️. BLAHBLAH",
+  "url": "https://blog.naver.com/sportshub_/224451661096",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/HxWspKXGAEq",
+  "title": "“형, 그냥 두산에 있을 걸 그랬나요?” 홍건희 KIA 복귀 1년 만에 방출",
+  "published_at": "2026-10-23T21:08:00.000+09:00",
+  "collected_at": "2026-10-23T13:38:25.090Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "mixed"
+}
