@@ -227,3 +227,9 @@ h1, h2, .stat-line, .n-item b, .points li, .facts li { text-wrap: balance; }
 
 /* 원형 엠블럼 마스코트(2026-10-23) */
 .tbadge.emb { background: none; box-shadow: none; object-fit: contain; filter: drop-shadow(0 12px 24px rgba(0, 0, 0, .45)); }
+
+/* 대진 포스터를 첫 장 큰 그림으로(2026-10-23) */
+.yb:has(.poster) { margin-top: 26px; line-height: 0; }
+.yb .poster { width: 100%; height: 600px; object-fit: cover; object-position: 50% 30%; border-radius: 28px; box-shadow: 0 18px 40px rgba(0,0,0,.25); }
+.y.story .yb .poster { height: 900px; }
+.y:has(.poster) .tease { display: none; }

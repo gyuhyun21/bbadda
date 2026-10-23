@@ -6,7 +6,7 @@
 import { readFileSync, readdirSync, mkdirSync, writeFileSync, copyFileSync, existsSync } from 'node:fs';
 import { join } from 'node:path';
 import { loadPostseason, resolvePostseason, lastPlayed, type GameView, type RoundView } from '../../src/lib/postseason.ts';
-import { loadTeams, instaYtThumbs, mascotStyle } from '../../src/lib/config.ts';
+import { loadTeams, instaYtThumbs, mascotStyle, matchupPoster } from '../../src/lib/config.ts';
 
 type Kind = 'morning' | 'pregame' | 'postgame';
 type Sig = { team?: string; source_type: string; brief_ko?: string; collected_at: string; scores: { hot: number } };
@@ -51,6 +51,7 @@ const peek = (label: string, line: string) => `<b>${esc(label)}</b>${esc(line.sl
 const ctaEnd = (q: string) =>
   `<section class="s y end"><div class="yt"><span class="kick">더 보러 가기</span>${mark}</div><h1>나머지 소식은<br><u>빠따닷컴에서</u></h1><ul class="ylist"><li>10개 구단 소식 전부, 하루 세 번</li><li>MY팀만 골라 보기 · 경기 알림</li><li>가을야구 대진 · 승부예측 · 응원가</li></ul><div class="ask">프로필 링크 → bbadda.com<small>무료 · 가입 없음</small></div><p class="yq">${esc(q)}</p></section>`;
 
+let POSTER: string | undefined; // 경기 전 세트 대진 포스터(사이트 public 경로)
 type Made = { slides: string[]; story: string; caption: string; key: string };
 
 /** 경기 없는 날 낮·밤 자리: 그 실행에 새로 요약한 소식(가장 최근 수집 묶음) 위주 */
@@ -159,14 +160,15 @@ function pregame(): Made | string {
   const lastLine = last && last.score ? (() => { const p = scoreParts(last); return `${v.rounds.find((x) => x.id === last.round)!.short} ${last.no}차전 ${nm(last.sides[p.w])} ${p.ws}-${p.ls} ${nm(last.sides[p.l])}`; })() : '';
   const lastRec = last ? [last.record.win && `승 ${last.record.win}`, last.record.loss && `패 ${last.record.loss}`, last.record.mvp && `MVP ${last.record.mvp}`].filter(Boolean).join(' · ') : '';
   const slides = [
-    yHook({ kick: `${r.short} ${g.no}차전 · 오늘 ${g.time}`, big: `${esc(nm(a))}<i>vs</i>${esc(nm(b))}`, head: hook, sub: `선발 ${g.record.starters[0]} vs ${g.record.starters[1]} · 관전 포인트는 넘겨서 →`, pg: '1/5', tease: facts.slice(0, 3).map((f, i) => peek(`포인트 ${i + 1}`, f)) }),
+    yHook({ kick: `${r.short} ${g.no}차전 · 오늘 ${g.time}`, big: matchupPoster(a.id, b.id) ? '<img class="poster" src="poster.webp" alt="">' : `${esc(nm(a))}<i>vs</i>${esc(nm(b))}`, head: hook, sub: `선발 ${g.record.starters[0]} vs ${g.record.starters[1]} · 관전 포인트는 넘겨서 →`, pg: '1/5', tease: facts.slice(0, 3).map((f, i) => peek(`포인트 ${i + 1}`, f)) }),
     panel({ step: '예고 선발', head: `${g.time} ${g.venue}\n선발 맞대결`, pg: '2/5', bg: 'lights', note: `시리즈 ${nm(a)} ${a.wins}승 · ${nm(b)} ${b.wins}승 · ${r.toWin}선승제`, body: `<div class="vsgrid">${[0, 1].map((i) => `<div class="side">${badge(g.sides[i].id)}<div class="t">${esc(nm(g.sides[i]))} ${g.sides[i].wins}승</div><div class="lab">선발</div><div class="p">${esc(g.record.starters[i]!)}</div><div class="n">${esc(g.record.starterNotes[i] ?? '')}</div></div>`).join('<div class="v">vs</div>')}</div>` }),
     panel({ step: '관전 포인트', head: '오늘의\n관전 포인트', pg: '3/5', bg: 'lights', note: `출처: 언론 보도${ytThumb(b.id) ?? ytThumb(a.id) ? ' · 사진: 공식 유튜브' : ''}`, body: `${thumbFig(ytThumb(b.id) ?? ytThumb(a.id), 'short')}<ul class="facts">${(facts.length ? facts : [`시리즈 ${nm(a)} ${a.wins}승 · ${nm(b)} ${b.wins}승`]).slice(0, 3).map((f) => `<li>${esc(f)}</li>`).join('')}</ul>${lastLine ? `<div class="last"><span>지난 경기</span><b>${esc(lastLine)}</b><p>${esc(lastRec)}</p></div>` : ''}` }),
     panel({ step: '승부 예측', head: '오늘,\n누가 이길까요?', pg: '4/5', bg: 'lights', note: '댓글로 남기거나 사이트에서 투표', body: `<div class="vote">${[a, b].map((x) => `<div style="background:${T.get(x.id!)?.color ?? '#333'}">${esc(nm(x))} 승</div>`).join('')}</div>` }),
     ctaEnd(`${nm(a)} vs ${nm(b)}, 이길 팀을 댓글로 👇`),
   ];
   const caption = [`⚾ ${flat(hook)}`, '', `오늘 ${g.time}, ${g.venue}`, `${nm(a)} ${g.record.starters[0]} vs ${nm(b)} ${g.record.starters[1]}`, '', ...facts.map((f) => `📌 ${f}`), ...(facts.length ? [''] : []), '이길 팀을 댓글로 남겨 주세요 👇', '승부예측 투표는 프로필 링크에서 할 수 있어요 🗳️', '', `#KBO #가을야구 #${g.roundName.replace(/\s/g, '')} #${T.get(a.id!)?.name.replace(/\s/g, '')} #${T.get(b.id!)?.name.replace(/\s/g, '')} #빠따닷컴`].join('\n');
-  const story = yHook({ kick: `${g.roundName} ${g.no}차전 · 오늘 ${g.time}`, big: `${esc(nm(a))}<i>vs</i>${esc(nm(b))}`, head: hook, sub: `${g.record.starters[0]} vs ${g.record.starters[1]}`, pg: '', story: true });
+  POSTER = matchupPoster(a.id, b.id);
+  const story = yHook({ kick: `${g.roundName} ${g.no}차전 · 오늘 ${g.time}`, big: POSTER ? '<img class="poster" src="poster.webp" alt="">' : `${esc(nm(a))}<i>vs</i>${esc(nm(b))}`, head: hook, sub: `${g.record.starters[0]} vs ${g.record.starters[1]}`, pg: '', story: true });
   return { slides, story, caption, key: `${today}-pregame-${g.round}${g.no}` };
 }
 
@@ -216,6 +218,7 @@ if (process.argv[1]?.endsWith('build.ts')) {
   for (const t of TEAMS) if (existsSync(join(ROOT, 'public/mascots', `${t.id}.svg`))) copyFileSync(join(ROOT, 'public/mascots', `${t.id}.svg`), join(out, 'm', `${t.id}.svg`));
   for (const t of TEAMS) if (existsSync(join(ROOT, 'public/mascots/emblem', `${t.id}@2x.webp`))) copyFileSync(join(ROOT, 'public/mascots/emblem', `${t.id}@2x.webp`), join(out, 'm', `${t.id}.webp`));
   copyFileSync(join(ROOT, 'public/brand/bbadda-logo.webp'), join(out, 'logo.webp'));
+  if (POSTER) copyFileSync(join(ROOT, 'public', POSTER), join(out, 'poster.webp'));
   copyFileSync(join(ROOT, 'public/fonts/pretendard/PretendardVariable.subset.woff2'), join(out, 'font.woff2'));
   const pdir = join(ROOT, 'scripts/insta/photos');
   if (existsSync(pdir)) { mkdirSync(join(out, 'p'), { recursive: true }); for (const f of readdirSync(pdir)) if (f.endsWith('.jpg') && !f.startsWith('.')) copyFileSync(join(pdir, f), join(out, 'p', f)); }
