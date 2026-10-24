@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 # 릴스 게시 실행(ig-reel.yml 이 부름): reel-run.sh <폴더 이름|빈칸> <fallback: true|false>
-# 1) 폴더(입력 또는 reel-queue.json 의 오늘 항목)를 게시. reel.mp4 가 없고 reel.json 만 있으면 조립해 insta-media 에 올리고 jsDelivr 주소로 게시
+# 1) media/insta/<폴더>(입력 또는 media/insta/reel-queue.json 의 오늘 항목)를 게시. reel.mp4 가 있으면 그대로, 없고 reel.json 만 있으면 조립해서 insta-media 에 올리고 jsDelivr 주소로 게시
+#    (재료는 사이트 배포에 실리지 않게 public 밖 media/ 에 둔다 — 2026-10-24 Vercel 배포 용량 급증)
 # 2) 그게 실패했거나, fallback 실행(13:30 KST)인데 오늘 릴스가 아직 없으면: 오늘 자동 카드 세트(insta-media)로 릴스를 만들어 게시 — 그날 릴스를 빠뜨리지 않는다(2026-10-24 주인)
 # 환경변수 TOKEN(출력 안 함), IG, GITHUB_REPOSITORY, GITHUB_STEP_SUMMARY
 set -euo pipefail
@@ -16,6 +17,8 @@ prep() {
 }
 # 조립한 영상을 insta-media/reel/<이름>/reel.mp4 에 올리고 공개 주소를 출력
 upload() {
+  # jsDelivr 는 GitHub 파일 20MB 까지만 내준다 — 넘으면 화질을 낮춰 다시 묶는다
+  if [ "$(stat -c %s "$1")" -gt 18000000 ]; then ffmpeg -y -loglevel error -i "$1" -c:v libx264 -crf 28 -preset slow -c:a copy -movflags +faststart /tmp/small.mp4 && cp /tmp/small.mp4 "$1"; fi
   git fetch -q origin insta-media
   rm -rf /tmp/media; git worktree prune
   git worktree add -q /tmp/media origin/insta-media
@@ -29,16 +32,21 @@ reel_today() { curl -sS -f -H "$AUTH" "$G/$IG/media?fields=media_product_type,ti
 
 main_post() {
   [[ "$POST" =~ ^[0-9a-z-]+$ ]] || { say "잘못된 폴더 이름: $POST"; return 1; }
-  local dir="public/insta/$POST"
+  local dir="media/insta/$POST"
   jq -r '.reel_caption // .caption' "$dir/post.json" > /tmp/cap.txt
   if posted_caption /tmp/cap.txt; then say "이미 게시됨, 건너뜀: $POST"; return 0; fi
-  local url="https://bbadda.com/insta/$POST/reel.mp4"
-  if [ ! -f "$dir/reel.mp4" ] && [ -f "$dir/reel.json" ]; then
+  local url
+  if [ -f "$dir/reel.mp4" ]; then
+    prep
+    cp "$dir/reel.mp4" /tmp/reel.mp4
+    url=$(upload /tmp/reel.mp4 "$POST") || return 1
+  elif [ -f "$dir/reel.json" ]; then
     prep
     # if 안에서는 set -e 가 꺼지므로 단계마다 실패를 직접 돌려준다
     npx tsx scripts/insta/reel-make.ts "$dir" /tmp/reel.mp4 > /tmp/make.log 2>&1 || { cat /tmp/make.log; return 1; }
     grep '경고' /tmp/make.log | while read -r l; do say "$l"; done
     url=$(upload /tmp/reel.mp4 "$POST") || return 1
+  else say "영상도 재료도 없음: $dir"; return 1
   fi
   local res; res=$(bash scripts/insta/reel.sh "$url" /tmp/cap.txt) || { echo "$res"; return 1; }
   say "게시: $res"
@@ -58,7 +66,7 @@ cards_post() {
   say "대체 릴스(카드 $key, ${n}장): $(bash scripts/insta/reel.sh "$(upload /tmp/reel.mp4 "$D-cards")" /tmp/cap.txt)"
 }
 
-if [ -z "$POST" ]; then POST=$(jq -r --arg d "$D" '.[$d] // empty' public/insta/reel-queue.json 2>/dev/null || true); fi
+if [ -z "$POST" ]; then POST=$(jq -r --arg d "$D" '.[$d] // empty' media/insta/reel-queue.json 2>/dev/null || true); fi
 if [ -n "$POST" ]; then
   if main_post; then exit 0; fi
   say "경고: $POST 게시 실패 → 카드 세트로 대체 릴스"

@@ -2,18 +2,19 @@
 
 claude.ai 루틴 'BBADDA 릴스(매일)'(trig_01X6qpmccCS2Ef62Hm5mGK3g)가 매일 10:17 KST 에 아래 프롬프트를 실행한다. 루틴에는 Higgsfield 커넥터가 붙어 있다.
 목표는 좋아요·댓글·사이트 유입. 카드 세트(ig-auto)를 되풀이하지 말고, 그날 가장 이야깃거리가 되는 소식 하나를 짧은 이야기로 만든다.
-흐름: 루틴이 재료(그림·짧은 영상·목소리)와 `reel.json` 을 `public/insta/<날짜>-reel/` 에 올리고 `reel-queue.json` 에 오늘 항목을 넣어 머지 → `ig-reel.yml` 이 영상을 조립(`scripts/insta/reel-make.ts`)해 게시.
-첫 사례: `public/insta/2026-10-24-po1-typhoon`(PO 1차전 + 태풍 + 2년 전 서스펜디드).
+재료는 `media/insta/`(public 밖)에 둔다 — public 에 두면 사이트 배포마다 복사되어 Vercel 용량이 급증한다(2026-10-24).
+흐름: 루틴이 재료(그림·짧은 영상·목소리)와 `reel.json` 을 `media/insta/<날짜>-reel/` 에 올리고 `reel-queue.json` 에 오늘 항목을 넣어 머지 → `ig-reel.yml` 이 영상을 조립(`scripts/insta/reel-make.ts`)해 게시.
+첫 사례: `media/insta/2026-10-24-po1-typhoon`(PO 1차전 + 태풍 + 2년 전 서스펜디드).
 
 ```
 너는 BBADDA(빠따닷컴)의 릴스 편집자다. CLAUDE.md, docs/insta-style.md(2절·2-1절 후킹 3단계·10절 목소리), 이 문서를 읽고 따른다.
 
-0. 오늘(KST) 날짜 D. public/insta/reel-queue.json 에 D 항목이 이미 있으면 아무것도 하지 않고 끝낸다.
+0. 오늘(KST) 날짜 D. media/insta/reel-queue.json 에 D 항목이 이미 있으면 아무것도 하지 않고 끝낸다.
    Higgsfield balance 를 확인한다. 10 미만이면 만들지 않고 끝낸다(요약에 "크레딧 부족").
 1. 주제 하나 고르기(사이트 데이터만, 추론 금지): 우선순위
    ① 오늘·내일 포스트시즌 경기(data/postseason.yaml — 시각·구장·예고 선발·facts·ig) ② 어제 경기 결과(ig.post, homers)
    ③ 오늘 수집된 소식 중 hook_ko 또는 화제(scores.hot) 1위 ④ 비시즌엔 스토브리그 큰 소식.
-   최근 3일 릴스(public/insta/*/post.json 의 reel_caption)와 같은 이야기는 고르지 않는다(같은 경기라도 각도를 바꾼다: 예고 → 결과 → 승부처 숫자).
+   최근 3일 릴스(media/insta/*/post.json 의 reel_caption)와 같은 이야기는 고르지 않는다(같은 경기라도 각도를 바꾼다: 예고 → 결과 → 승부처 숫자).
    사실마다 출처(기사 주소 또는 postseason.yaml)를 확인한다. 과거 기록을 덧붙일 때는 WebSearch 로 기사 2곳 이상에서 확인한 것만.
 2. 대본: 장면 4개 + 끝 장면. 장면마다 말(say) 1~2문장, 화면 머리표(kick, 18자 이내), 큰 제목(head, 두 줄, 줄당 9자 안팎, 강조 1곳 <b>).
    - 첫 장면 3초 안에 궁금증. 첫 장면 head·say 후보를 5개 쓰고, insta-style 2-1절 자기 점검 4개로 점수(0~4)를 매겨 4점 중 가장 센 것을 고른다. 2-1절 '탈락 신호'(A vs B만, 숫자만, '무슨 일이?', '변수', '격돌')가 있으면 0점. PR 본문에 후보 5개·점수·고른 이유를 적는다.
@@ -27,10 +28,10 @@ claude.ai 루틴 'BBADDA 릴스(매일)'(trig_01X6qpmccCS2Ef62Hm5mGK3g)가 매�
 4. 영상은 만들지 않는다(2026-10-24 주인 결정: 크레딧 절약, 릴스는 그림으로만). 장면은 모두 그림(png)이고 조립할 때 천천히 확대된다. kling·seedance 등 영상 모델을 부르지 않는다.
 5. 목소리를 만들기 전에 장면마다 대본을 `npx tsx scripts/insta/ko-num.ts "<대본>"` 으로 바꾸고(숫자→읽는 소리: 24 대 5→이십사 대 오, 오후 2시→오후 두 시, 3경기→세 경기), 바뀐 문장을 그대로 목소리 text 와 reel.json 의 text 에 쓴다. 결과에 숫자가 남거나 어색하면 손으로 고친다.
    목소리(elevenlabs_v4, dialogue=[{text, voice_type:'preset', voice_id:'e6f9b893-51b1-51d3-afe9-9e0482cb7ac1'}], prompt 는 아무 설명): 장면마다 따로 1개(장면 길이가 목소리 길이로 정해진다). 끝 장면 말은 넣지 않아도 된다.
-6. 결과 주소를 curl 로 public/insta/D-reel/ 에 받는다: 1.png …, a1.mp3 …. 파일이 비었거나 받기 실패면 1회 다시 받고, 그래도 안 되면 만들지 않고 끝낸다.
+6. 결과 주소를 curl 로 media/insta/D-reel/ 에 받는다: 1.png …, a1.mp3 …. 파일이 비었거나 받기 실패면 1회 다시 받고, 그래도 안 되면 만들지 않고 끝낸다.
    reel.json: {"music":"bgm-breaking"(큰 경기·속보) 또는 "bgm-morning", "segments":[{"src","say","text"(그 목소리의 대본 그대로, 숫자는 한글),"kick","head","note"(출처 한 줄, 선택)}], "end":{"kick","head","a","b","cta"}}
    post.json: {"reel_caption": 첫 줄 후크(이모지 1개) + 빈 줄 + 사실 2~3줄 + 시청자 질문(댓글 유도) + "⚾ 승리팀 맞히기·실시간 결과는\n👉 프로필 링크 bbadda.com" + 빈 줄 + "출처: 언론 보도 · 그림은 빠따닷컴 자체 캐릭터 · KBO·구단과 관계없는 비공식 팬 사이트예요." + 해시태그 6~8개(#빠따닷컴 포함)}
-   public/insta/reel-queue.json 에 "D": "D-reel" 을 더한다(다른 항목은 그대로).
+   media/insta/reel-queue.json 에 "D": "D-reel" 을 더한다(다른 항목은 그대로).
 7. 브랜치 daily/D-reel → PR(제목 "인스타 릴스: <주제> (D)", 본문에 사실·출처·쓴 크레딧) → 검사 통과하면 머지(merge commit). 코드·설정 파일은 고치지 않는다.
    머지되면 ig-reel 이 영상을 조립해 게시한다(몇 분). 직접 게시하지 않는다.
    어느 단계에서 막혀도 그날 릴스는 빠지지 않는다: 대본에 숫자가 남은 장면은 목소리만 꺼지고, 조립·게시가 실패하거나 루틴이 아무것도 못 올리면 ig-reel 이 13:30 KST 에 오늘 카드 세트로 대체 릴스를 올린다(scripts/insta/reel-run.sh). 그래도 막히면 요약에 이유를 적는다.
