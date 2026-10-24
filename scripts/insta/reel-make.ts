@@ -1,0 +1,80 @@
+// 매일 릴스 조립(2026-10-24 주인 결정: 하루 1개 자동 릴스). 루틴(docs/reel-routine.md)이 만든 재료 폴더를 영상 하나로 합친다.
+// 사용: npx tsx scripts/insta/reel-make.ts <재료 폴더> <출력 mp4>   (크롬: CHROME 환경변수, 없으면 google-chrome / ffmpeg 필요)
+// 재료 폴더의 reel.json:
+//   { music?: 'bgm-breaking', segments: [{ src: '1.mp4'|'1.png', say: 'a1.mp3', kick: '짧은 머리표', head: '큰 제목(<b>강조</b>, <br> 줄바꿈)', note?: '아래 작은 글(출처 등)' }],
+//     end: { kick, head, a?: 'kia', b?: 'samsung', cta: '빠따닷컴에서 예측 투표', say?: 'a9.mp3' } }
+// 장면 길이 = 그 장면 목소리 길이(쉼 0.18초·1.18배로 다듬은 뒤) + 0.25초. 그림(png)은 천천히 확대, 영상은 길이에 맞춰 자르거나 늘린다.
+import { readFileSync, writeFileSync, mkdirSync, copyFileSync, existsSync } from 'node:fs';
+import { join, resolve } from 'node:path';
+import { execFileSync } from 'node:child_process';
+
+type Seg = { src: string; say: string; kick?: string; head: string; note?: string };
+type End = { kick?: string; head: string; a?: string; b?: string; cta: string; say?: string };
+const ROOT = process.cwd();
+const [dirArg, outArg] = process.argv.slice(2);
+if (!dirArg || !outArg) { console.error('사용: reel-make.ts <재료 폴더> <출력 mp4>'); process.exit(1); }
+const DIR = resolve(dirArg), OUT = resolve(outArg), TMP = join(DIR, '.make');
+mkdirSync(TMP, { recursive: true });
+const spec = JSON.parse(readFileSync(join(DIR, 'reel.json'), 'utf8')) as { music?: string; segments: Seg[]; end: End };
+const ff = (...a: string[]) => execFileSync('ffmpeg', ['-y', '-loglevel', 'error', ...a], { stdio: 'inherit' });
+const dur = (f: string) => Number(execFileSync('ffprobe', ['-v', 'error', '-show_entries', 'format=duration', '-of', 'csv=p=0', f]).toString());
+const CHROME = process.env.CHROME || 'google-chrome';
+const shot = (html: string, png: string) => {
+  writeFileSync(join(TMP, 'ov.html'), html);
+  execFileSync(CHROME, ['--headless=new', '--no-sandbox', '--hide-scrollbars', '--allow-file-access-from-files', '--default-background-color=00000000', '--window-size=1080,1920', '--virtual-time-budget=3000', `--screenshot=${png}`, `file://${join(TMP, 'ov.html')}`], { stdio: 'ignore', timeout: 90_000 });
+};
+for (const [f, to] of [['public/brand/bbadda-logo.webp', 'logo.webp'], ['public/fonts/pretendard/PretendardVariable.subset.woff2', 'font.woff2']]) copyFileSync(join(ROOT, f), join(TMP, to));
+
+const CSS = `@font-face{font-family:P;src:url(font.woff2) format('woff2');font-weight:100 900}
+*{box-sizing:border-box;margin:0} html,body{background:transparent} body{font-family:P;word-break:keep-all;width:1080px;height:1920px;position:relative;color:#fff}
+body>*{position:absolute}
+.logo{right:60px;top:80px;height:64px;background:#fff;border-radius:14px;padding:8px 14px}
+.kick{left:70px;top:200px;font-size:42px;font-weight:800;padding:12px 24px;border-radius:14px;background:#ffe03a;color:#111}
+h1{left:70px;right:60px;top:290px;font-size:112px;font-weight:900;line-height:1.12;letter-spacing:-.02em;text-shadow:0 0 18px rgba(0,0,0,.6),6px 6px 0 #111;-webkit-text-stroke:3px #111;paint-order:stroke fill}
+h1 b{color:#ffe03a;font-weight:900}
+.note{left:70px;bottom:70px;font-size:26px;opacity:.85;text-shadow:0 0 8px #000}
+body.end{background:#ffe03a;color:#111}
+.end .kick{top:300px;background:#111;color:#ffe03a;font-size:48px}
+.end h1{top:400px;font-size:150px;color:#111;text-shadow:none;-webkit-text-stroke:0}
+.vs{left:80px;right:80px;top:780px;display:flex;gap:30px}
+.vs div{flex:1;height:420px;border:8px solid #111;border-radius:30px;box-shadow:14px 14px 0 #111;display:flex;flex-direction:column;align-items:center;justify-content:center;font-size:90px;font-weight:900;color:#fff}
+.vs img{height:250px}
+.cta{left:80px;right:80px;top:1320px;background:#111;color:#fff;border-radius:28px;padding:40px 46px;font-size:62px;font-weight:900;line-height:1.3}
+.cta small{display:block;font-size:40px;font-weight:700;color:#ffe03a;margin-top:10px}`;
+const page = (body: string, cls = '') => `<!doctype html><html lang="ko"><head><meta charset="utf-8"><style>${CSS}</style></head><body class="${cls}">${body}</body></html>`;
+const esc = (s = '') => s.replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' })[c]!);
+/** 제목은 <b>·<br> 만 살린다 */
+const head = (s: string) => esc(s).replace(/&lt;(\/?b|br)&gt;/g, '<$1>');
+const TEAM: Record<string, { name: string; color: string }> = {};
+for (const t of (await import('../../src/lib/config.ts')).loadTeams().teams) TEAM[t.id] = { name: t.short, color: (t as { color?: string }).color ?? '#333' };
+
+const voice = (src: string, out: string) => ff('-i', join(DIR, src), '-af', 'silenceremove=start_periods=1:start_threshold=-45dB:stop_periods=-1:stop_duration=0.18:stop_threshold=-45dB,atempo=1.18', '-ar', '44100', '-ac', '2', out);
+const parts: string[] = [];
+spec.segments.forEach((s, i) => {
+  const a = join(TMP, `a${i}.wav`), ov = join(TMP, `o${i}.png`), v = join(TMP, `s${i}.mp4`);
+  voice(s.say, a);
+  const d = Math.max(dur(a) + 0.25, 1.8).toFixed(2);
+  shot(page(`<img class="logo" src="logo.webp">${s.kick ? `<span class="kick">${esc(s.kick)}</span>` : ''}<h1>${head(s.head)}</h1>${s.note ? `<p class="note">${esc(s.note)}</p>` : ''}`), ov);
+  const src = join(DIR, s.src), still = /\.(png|jpe?g|webp)$/i.test(s.src);
+  const base = still
+    ? `[0]scale=2160:3840:force_original_aspect_ratio=increase,crop=2160:3840,zoompan=z='1+0.0016*on':x='iw/2-(iw/zoom/2)':y='ih/2-(ih/zoom/2)':d=${Math.ceil(Number(d) * 30)}:s=1080x1920:fps=30`
+    : `[0]scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,fps=30,tpad=stop_mode=clone:stop_duration=10`;
+  ff(...(still ? ['-loop', '1'] : []), '-i', src, '-i', ov, '-i', a, '-filter_complex', `${base},trim=0:${d},setpts=PTS-STARTPTS[v];[v][1]overlay,format=yuv420p[o];[2]apad,atrim=0:${d}[au]`, '-map', '[o]', '-map', '[au]', '-t', d, '-c:v', 'libx264', '-crf', '22', '-c:a', 'aac', '-ar', '44100', '-ac', '2', v);
+  parts.push(v);
+});
+{
+  const e = spec.end, ov = join(TMP, 'end.png'), v = join(TMP, 'send.mp4');
+  for (const id of [e.a, e.b]) if (id && existsSync(join(ROOT, `public/mascots/emblem/${id}@2x.webp`))) ff('-i', join(ROOT, `public/mascots/emblem/${id}@2x.webp`), join(TMP, `${id}.png`));
+  const box = (id?: string) => (id && TEAM[id] ? `<div style="background:${TEAM[id].color}"><img src="${id}.png">${esc(TEAM[id].name)}</div>` : '');
+  shot(page(`<img class="logo" src="logo.webp">${e.kick ? `<span class="kick">${esc(e.kick)}</span>` : ''}<h1>${head(e.head)}</h1>${e.a || e.b ? `<div class="vs">${box(e.a)}${box(e.b)}</div>` : ''}<p class="cta">${esc(e.cta)}<small>프로필 링크 → bbadda.com</small></p>`, 'end'), ov);
+  let d = '2.8';
+  if (e.say) { voice(e.say, join(TMP, 'aend.wav')); d = Math.max(dur(join(TMP, 'aend.wav')) + 0.5, 2.8).toFixed(2); }
+  ff('-loop', '1', '-i', ov, ...(e.say ? ['-i', join(TMP, 'aend.wav')] : ['-f', 'lavfi', '-i', 'anullsrc=r=44100:cl=stereo']), '-filter_complex', `[0]fps=30,format=yuv420p[o];[1]apad,atrim=0:${d}[au]`, '-map', '[o]', '-map', '[au]', '-t', d, '-c:v', 'libx264', '-crf', '22', '-c:a', 'aac', '-ar', '44100', '-ac', '2', v);
+  parts.push(v);
+}
+writeFileSync(join(TMP, 'list.txt'), parts.map((p) => `file '${p}'`).join('\n'));
+ff('-f', 'concat', '-safe', '0', '-i', join(TMP, 'list.txt'), '-c', 'copy', join(TMP, 'cat.mp4'));
+const total = dur(join(TMP, 'cat.mp4'));
+const music = join(ROOT, `scripts/insta/music/${spec.music ?? 'bgm-breaking'}.mp3`);
+ff('-i', join(TMP, 'cat.mp4'), '-i', music, '-filter_complex', `[1]volume=0.2,atrim=0:${total},afade=t=out:st=${Math.max(total - 1, 0)}:d=1[b];[0:a][b]amix=inputs=2:duration=first:normalize=0,loudnorm=I=-14:TP=-1.5[m]`, '-map', '0:v', '-map', '[m]', '-c:v', 'copy', '-c:a', 'aac', '-b:a', '160k', '-movflags', '+faststart', OUT);
+console.log(JSON.stringify({ out: OUT, seconds: Number(total.toFixed(1)) }));
