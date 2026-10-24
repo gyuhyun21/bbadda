@@ -1,0 +1,23 @@
+{
+  "id": "news-ccaf89c9",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "진일보 | 전남일보",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5oMXZhREVmM3pZZzdFdlcxc3I0eEREVzZqV1NadkhBaDNEaFdrZEFERjBHZGRTY0Z6QzRIeF9mWkJWeUc3SXBzVEg1Zk1YTXZKZG5mNXdWV1RFZlBIZXRDWUtLUDhMTHR2Q2RFLXNzUQ?oc=5",
+  "title": "광주와 대구의 야구 자존심 맞붙는다…KIA·삼성, 가을야구 라이벌전",
+  "published_at": "2026-10-24T15:00:00.000Z",
+  "collected_at": "2026-10-24T21:38:10.916Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 82,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

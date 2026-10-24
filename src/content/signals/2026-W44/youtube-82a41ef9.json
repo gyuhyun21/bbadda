@@ -1,0 +1,26 @@
+{
+  "id": "youtube-82a41ef9",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "KBO 러버 김아라 음악방송",
+  "url": "https://www.youtube.com/watch?v=9YIZ1xlLA54",
+  "title": "⚾ 김도영 플레이오프 1차전! KIA 타이거즈 , 슈퍼스타의 존재감 🔥 #KBO #김도영 #기아타이거즈",
+  "published_at": "2026-10-24T13:15:49Z",
+  "collected_at": "2026-10-24T21:38:10.916Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1534,
+    "likes": 15,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 52,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

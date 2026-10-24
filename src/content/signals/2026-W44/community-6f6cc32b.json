@@ -1,0 +1,24 @@
+{
+  "id": "community-6f6cc32b",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 여가우 - 여행가자 우리",
+  "url": "https://blog.naver.com/mkim9002/224452747611",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/K4nIIWHjAvs",
+  "title": "[강조어 논란]29년 만의 통합 우승 현장 지킨 차영현, 맥심서 밝힌 진짜 매력은 \"알수록 편해지는 성격…\"",
+  "published_at": "2026-10-25T04:35:00.000+09:00",
+  "collected_at": "2026-10-24T21:38:10.916Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "mixed"
+}

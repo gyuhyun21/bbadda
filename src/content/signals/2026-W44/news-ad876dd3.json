@@ -1,0 +1,23 @@
+{
+  "id": "news-ad876dd3",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "진일보 | 전남일보",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBnSERmcUlKX1A5WWFQS0x5WGhDNUZnZ2N0aWtXR3dOVGpKRmtlRFgxV3ZOM2c4US1ucVZRc0R5czAwSHFOeTZENVRGS1FMSXJxTTVqaTI5YzFYaVQ3Vk42VEFRcGhoc002eFR5OERaRQ?oc=5",
+  "title": "박지현·영탁도 타이거즈 응원…KIA 가을야구에 더해진 트로트 스타들의 팬심",
+  "published_at": "2026-10-24T16:00:00.000Z",
+  "collected_at": "2026-10-24T21:38:10.916Z",
+  "summary_ko": "진일보 전남일보는 박지현·영탁 등 트로트 스타들도 KIA 가을야구를 응원한다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "트로트 스타도 타이거즈 응원"
+}

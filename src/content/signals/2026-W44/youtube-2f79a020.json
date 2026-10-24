@@ -1,0 +1,26 @@
+{
+  "id": "youtube-2f79a020",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "광주 아재 ",
+  "url": "https://www.youtube.com/watch?v=PT4GBcpciAo",
+  "title": "지명타자 구자욱이 기아타이거즈에게 끼치는 영향? #기아타이거즈",
+  "published_at": "2026-10-24T12:58:03Z",
+  "collected_at": "2026-10-24T21:38:10.916Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 22458,
+    "likes": 820,
+    "comments": 61
+  },
+  "scores": {
+    "hot": 91,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

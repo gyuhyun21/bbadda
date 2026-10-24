@@ -1,0 +1,26 @@
+{
+  "id": "youtube-0a7361a0",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "야구 응원가 제작소",
+  "url": "https://www.youtube.com/watch?v=OnkrAlvF3-U",
+  "title": "前(전) 기아 타이거즈 이창진 응원가",
+  "published_at": "2026-10-24T12:38:31Z",
+  "collected_at": "2026-10-24T21:38:10.916Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1261,
+    "likes": 5,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 46,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

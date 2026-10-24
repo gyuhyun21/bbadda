@@ -1,0 +1,25 @@
+{
+  "id": "news-12280ae7",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "hanwha",
+  "teams": [
+    "hanwha",
+    "lotte",
+    "doosan"
+  ],
+  "source_type": "news",
+  "source_name": "www.xportsnews.com",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8zVzl2a3lQNGpOVmM5V0ZoMkprdW5fYTgzUGJicGV6Xy1NZ0pkRlRNTy00OGFRMHNpVDFvZ1NDUWtkMTY1WUdkUi1JN0UtMDVoa21mNw?oc=5",
+  "title": "'류지현 감독 답답하겠네!' 한화, 2안타 빈공+2실책 실점→'日 교육리그' 롯데전 0-7 완봉패…두산 연이틀 우천 취소",
+  "published_at": "2026-10-24T13:30:45.000Z",
+  "collected_at": "2026-10-24T21:38:10.916Z",
+  "summary_ko": "엑스포츠뉴스에 따르면 한화가 일본 교육리그에서 롯데에 0-7로 졌다. 2안타 빈공에 실책 2개가 겹쳤다.",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "mixed",
+  "brief_ko": "교육리그 롯데전 0-7 완패"
+}

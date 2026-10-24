@@ -1,0 +1,24 @@
+{
+  "id": "community-5503345b",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&document_srl=10480270417",
+  "title": "생폰충 없나 - 야구",
+  "published_at": "2026-10-24T11:38:10.916Z",
+  "collected_at": "2026-10-24T21:38:10.916Z",
+  "summary_ko": "",
+  "excerpt": "... 롯데자이언츠 2027년 용병,아시아쿼터 구성완료 [2]. 3 분 전 허언 물떨어진다 조회56 추천2. 롯데자이언츠 2027년…",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

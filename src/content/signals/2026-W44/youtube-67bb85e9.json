@@ -1,0 +1,26 @@
+{
+  "id": "youtube-67bb85e9",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "youtube",
+  "source_name": "야빗",
+  "url": "https://www.youtube.com/watch?v=kUGOyqm00DE",
+  "title": "\"문장군\" 前 KT 위즈 문상철 응원가 M/V",
+  "published_at": "2026-10-24T14:33:54Z",
+  "collected_at": "2026-10-24T21:38:10.916Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 31,
+    "likes": 2,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 61,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "youtube-79252ec1",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "크보랭",
+  "url": "https://www.youtube.com/watch?v=9l9BP-BnRrU",
+  "title": "박종훈,  그의 야구는 아직 끝나지 않았다 #박종훈 #방출",
+  "published_at": "2026-10-24T17:20:24Z",
+  "collected_at": "2026-10-24T21:38:10.916Z",
+  "summary_ko": "팬 채널이 방출된 SSG 박종훈의 야구가 아직 끝나지 않았다는 영상을 올렸다.",
+  "metrics": {
+    "views": 924,
+    "likes": 3,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 43,
+    "relevance": 70
+  },
+  "sentiment": "negative",
+  "brief_ko": "박종훈, 방출 뒤에도 야구"
+}

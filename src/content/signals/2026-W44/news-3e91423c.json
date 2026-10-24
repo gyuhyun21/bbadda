@@ -1,0 +1,24 @@
+{
+  "id": "news-3e91423c",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "news",
+  "announcement": true,
+  "source_name": "MHN스포츠",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE92MFVLd3JJX3pranpNMFpIZDVZZEczNzFkZ2RuVldOMFZ3MUVlMGs1U0lmV0xkS0poa0h5WnpPVWg1Ty1yUDg0dDNxSmp0bU8yMkhwSnlfaXY1UE1iUmg3TTR6RQ?oc=5",
+  "title": "[오피셜]김재윤 충격 이탈, 그러나 최악은 피했다…KIA에 ERA 1.17, 삼성엔 '숨겨둔 마무리' 이승민이 있다",
+  "published_at": "2026-10-24T06:31:50.000Z",
+  "collected_at": "2026-10-24T21:38:10.916Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

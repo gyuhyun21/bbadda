@@ -1,0 +1,27 @@
+{
+  "id": "youtube-9139aed7",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "youtube",
+  "source_name": "내꿈은롯데우승",
+  "url": "https://www.youtube.com/watch?v=b1csEFwLpqM",
+  "title": "\"유치원 선생님도 아니고\" 혼내고 기다려 키운 포수… 김태형과 손성빈 #롯데자이언츠 #shorts",
+  "published_at": "2026-10-24T15:30:49Z",
+  "collected_at": "2026-10-24T21:38:10.916Z",
+  "summary_ko": "팬 채널이 김태형 감독이 혼내고 기다려 키운 포수 손성빈을 다룬 쇼츠를 올렸다.",
+  "metrics": {
+    "views": 1656,
+    "likes": 8,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 48,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "김태형과 포수 손성빈"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "news-4eb08da9",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "hanwha",
+  "teams": [
+    "hanwha",
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8ySEptNW5scDNkRFlyM3RQcWZCTndiS2poRzZoMzN3RkJiZV9jQ0hIM1FYeHlXRHFvTW9kRmxuUDdpSGQ1OEs1Y1ZDZFRPM214bFZjTnpOdkxub29JMEU3UzRuSXFWVGh6cnlZNkt0YjZBbzFPWVMwbXVuS0xCUQ?oc=5",
+  "title": "'국대 포수'부터 '재활 선수'까지 뭉쳤다→\"못 와서 미안\" 깜짝 커피차까지…벌써 4회째, 김태균이 유소년에게 선사한 추억",
+  "published_at": "2026-10-24T15:36:12.000Z",
+  "collected_at": "2026-10-24T21:38:10.916Z",
+  "summary_ko": "스포츠조선은 김태균이 유소년 선수들을 위한 행사를 벌써 4회째 열었다고 전했다. 깜짝 커피차도 함께했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "김태균, 유소년 행사 4회째"
+}

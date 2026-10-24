@@ -1,0 +1,24 @@
+{
+  "id": "community-e5e5b6ec",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 오늘의 스포츠픽",
+  "url": "https://blog.naver.com/forehfrhdiddl/224452560351",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/HZfD01wc6Mx",
+  "title": "\"작년엔 삼성 상대로 0점이었는데 올해는?\" KIA 김범수의 믿기 힘든 변화! 플레이오프에서 다시 만났네요..",
+  "published_at": "2026-10-25T04:23:00.000+09:00",
+  "collected_at": "2026-10-24T21:38:10.916Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "news-e8e00995",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "서울경제",
+  "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ybHhmZnFnZ1lfSWRramM1OXJZY2ZESXp5N3pzX3VkSnY3cnhtZ3VkM1BodC05d25kUXU0ckcwVzB4YmphZWJZN1hEblJtbFFoUjMw0gFTQVVfeXFMTXJseGZmcWdnWV9JZGtqYzU5clljZkRJenk3enNfdWRKdjdyeG1ndWQzUGh0LTl3bmRRdTRyRzBXMHhiamFlYlk3WERuUm1sUWhSMzA?oc=5",
+  "title": "‘달빛 시리즈’ 앞둔 삼성 날벼락...35세이브왕 빠진다",
+  "published_at": "2026-10-24T09:27:46.000Z",
+  "collected_at": "2026-10-24T21:38:10.916Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 88,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

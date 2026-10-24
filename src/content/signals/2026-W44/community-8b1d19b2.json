@@ -1,0 +1,24 @@
+{
+  "id": "community-8b1d19b2",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 두 아이와 함께 체험·여행 기록",
+  "url": "https://blog.naver.com/shinehnaul/224452725770",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/DYGLVTqL6gp",
+  "title": "삼성 KIA 플레이오프 1차전 우천 가능성, 대구 날씨·삼성 응원굿즈 배포",
+  "published_at": "2026-10-25T03:16:00.000+09:00",
+  "collected_at": "2026-10-24T21:38:10.916Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

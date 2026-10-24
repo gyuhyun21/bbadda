@@ -1,0 +1,26 @@
+{
+  "id": "youtube-9732c830",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "쌈뽕이S놀이터",
+  "url": "https://www.youtube.com/watch?v=3AkKOlNRkDQ",
+  "title": "#야구 🦁💙 #구독부탁합니다 #좋아요환영 #삼성라이온즈 우승하자💙🦁",
+  "published_at": "2026-10-24T14:59:49Z",
+  "collected_at": "2026-10-24T21:38:10.916Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 385,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 36,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

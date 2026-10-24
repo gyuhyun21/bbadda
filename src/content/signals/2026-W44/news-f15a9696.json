@@ -1,0 +1,26 @@
+{
+  "id": "news-f15a9696",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "lotte",
+  "teams": [
+    "lotte",
+    "kia",
+    "samsung",
+    "kt"
+  ],
+  "source_type": "news",
+  "source_name": "조선일보",
+  "url": "https://www.chosun.com/sports/baseball/2026/10/25/GFRDGMZQG4ZDGZJXGNTGCMRQGU/",
+  "title": "롯데 감독, KIA·삼성·KT서 빼오나 → 이것도 아니면 도대체 왜? 야구계 전체가 궁금한 미스터리",
+  "published_at": "2026-10-24T16:13:00.000Z",
+  "collected_at": "2026-10-24T21:38:10.916Z",
+  "summary_ko": "조선일보는 롯데 차기 감독이 KIA·삼성·KT 쪽에서 나올지 야구계가 궁금해한다고 전했다. 보도에 따르면 아직 정해진 바는 없다.",
+  "metrics": {},
+  "scores": {
+    "hot": 90,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "롯데 차기 감독, 야구계 궁금증"
+}

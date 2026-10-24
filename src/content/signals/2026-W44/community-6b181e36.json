@@ -1,0 +1,24 @@
+{
+  "id": "community-6b181e36",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 오늘도 운동합니다 ‘또운’",
+  "url": "https://blog.naver.com/lifebystride/224447696665",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/DVIIpqdSnyY",
+  "title": "프로야구 우승상금은 얼마일까? 선수들은 보너스를 얼마나 받을까?",
+  "published_at": "2026-10-25T04:00:00.000+09:00",
+  "collected_at": "2026-10-24T21:38:10.916Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

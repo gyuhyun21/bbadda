@@ -1,0 +1,23 @@
+{
+  "id": "community-613b6db7",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 하이스포츠 인사이드",
+  "url": "https://blog.naver.com/historycar/224452405740",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/Caba1b45qKV",
+  "title": "\"1순위 투수들이 왜 자꾸 다칠까?\" 박준현 무릎 부상, 키움 히어로즈에 또 터진 악재",
+  "published_at": "2026-10-24T18:32:00.000+09:00",
+  "collected_at": "2026-10-24T21:38:10.916Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}
