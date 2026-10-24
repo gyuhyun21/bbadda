@@ -25,5 +25,6 @@
       "destination": "/game/",
       "permanent": false
     }
-  ]
+  ],
+  "ignoreCommand": "case \"$VERCEL_GIT_COMMIT_REF\" in daily/*) exit 0;; *) exit 1;; esac"
 }

@@ -1,11 +1,11 @@
-# 인스타 게시(수동 실행): public/insta/<post>/post.json 의 이미지(bbadda.com 공개 주소)와 본문으로 카루셀을 올린다.
+# 인스타 게시(수동 실행): media/insta/<post>/post.json 의 이미지(GitHub raw 공개 주소 — 사이트 배포에는 싣지 않음)와 본문으로 카루셀을 올린다.
 # 사람이 미리보기를 승인한 게시물만 실행한다. 시크릿 INSTAGRAM_PAGE_TOKEN, 변수 INSTAGRAM_USER_ID. 토큰은 출력하지 않는다.
 name: ig-post
 on:
   workflow_dispatch:
     inputs:
       post:
-        description: public/insta 아래 폴더 이름(예 2026-10-19-intro)
+        description: media/insta 아래 폴더 이름(예 2026-10-19-intro)
         required: true
 permissions:
   contents: read
@@ -23,4 +23,4 @@ jobs:
         run: |
           set -euo pipefail
           [[ "$POST" =~ ^[0-9a-z-]+$ ]] || { echo "잘못된 폴더 이름"; exit 1; }
-          bash scripts/insta/publish.sh "https://bbadda.com/insta/$POST" "public/insta/$POST/post.json"
+          bash scripts/insta/publish.sh "https://raw.githubusercontent.com/${GITHUB_REPOSITORY}/main/media/insta/$POST" "media/insta/$POST/post.json"

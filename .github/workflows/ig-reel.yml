@@ -1,5 +1,6 @@
-# 인스타 릴스 게시: public/insta/<post>/reel.mp4 를 bbadda.com 공개 주소로, 본문은 post.json 의 reel_caption(없으면 caption)
-# 수동 실행(post 입력) 또는 예약: 매일 07:25 KST·reel-queue.json 이 main 에 바뀔 때 public/insta/reel-queue.json 의 오늘(KST) 항목을 게시. GitHub 예약 실행은 몇~십여 분 늦을 수 있다
+# 인스타 릴스 게시: media/insta/<post>/ 의 reel.mp4(없으면 reel.json 으로 조립)를 insta-media 브랜치·jsDelivr 주소로, 본문은 post.json 의 reel_caption(없으면 caption)
+# 재료는 public 밖(media/)에 둔다 — 사이트 배포마다 복사되어 Vercel 배포 용량이 급증했다(2026-10-24)
+# 수동 실행(post 입력) 또는 예약: 매일 07:25 KST·reel-queue.json 이 main 에 바뀔 때 media/insta/reel-queue.json 의 오늘(KST) 항목을 게시. GitHub 예약 실행은 몇~십여 분 늦을 수 있다
 # 13:30 KST 실행: 오늘 릴스가 아직 없으면(루틴 실패 등) 오늘 카드 세트로 대체 릴스를 만든다 — 그날 릴스를 빠뜨리지 않는다(scripts/insta/reel-run.sh)
 # 폴더에 reel.mp4 대신 reel.json(매일 릴스 루틴 재료, docs/reel-routine.md)만 있으면 여기서 영상을 조립해 insta-media 브랜치에 올리고 jsDelivr 주소로 게시한다
 # 시크릿 INSTAGRAM_PAGE_TOKEN, 변수 INSTAGRAM_USER_ID. 토큰은 출력하지 않는다
@@ -7,14 +8,14 @@ name: ig-reel
 on:
   workflow_dispatch:
     inputs:
-      post: { description: 'public/insta 아래 폴더(예 2026-10-19-intro). 비우면 오늘 예약 항목', required: false, default: '' }
+      post: { description: 'media/insta 아래 폴더(예 2026-10-19-intro). 비우면 오늘 예약 항목', required: false, default: '' }
       fallback: { description: 'true 면 오늘 릴스가 없을 때 카드 세트로 대체 릴스', default: 'false' }
   schedule:
     - cron: '25 22 * * *'
     - cron: '30 4 * * *'
   push:
     branches: [main]
-    paths: ['public/insta/reel-queue.json']
+    paths: ['media/insta/reel-queue.json']
 permissions:
   contents: write
 concurrency: { group: ig-reel, cancel-in-progress: false }
