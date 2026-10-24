@@ -1,0 +1,27 @@
+{
+  "id": "youtube-4eeb9885",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "코리아 언리미티드",
+  "url": "https://www.youtube.com/watch?v=NsoGu7lppEo",
+  "title": "🚨🔥 KIA 타이거즈 충격의 방출 발표! 고종욱·이창진·홍건희 등 6명 결별… 2027시즌 대개편 신호탄인가?",
+  "published_at": "2026-10-24T00:35:10Z",
+  "collected_at": "2026-10-24T03:38:14.072Z",
+  "summary_ko": "코리아 언리미티드 채널이 KIA가 고종욱·이창진·홍건희 등 6명과 결별한다고 다룬 영상을 올렸다.",
+  "metrics": {
+    "views": 86,
+    "likes": 2,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 42,
+    "relevance": 70
+  },
+  "sentiment": "negative",
+  "brief_ko": "KIA 방출 6명 짚은 영상"
+}

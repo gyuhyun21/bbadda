@@ -1,0 +1,23 @@
+{
+  "id": "community-cc808ef8",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 갓플베 : 갓키 플레이 베이스",
+  "url": "https://blog.naver.com/yfg7459/224452099912",
+  "title": "\"LG 선수단 정리\" 방출 11명 명단과 장시환·송대현 은퇴 총정리",
+  "published_at": "2026-10-24T11:37:00.000+09:00",
+  "collected_at": "2026-10-24T03:38:14.072Z",
+  "summary_ko": "블로그가 LG 방출 선수 11명 명단과 장시환·송대현 은퇴를 정리한 글이다.",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "negative",
+  "brief_ko": "LG 방출 11명, 은퇴 2명"
+}

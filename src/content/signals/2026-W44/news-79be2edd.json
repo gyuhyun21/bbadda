@@ -1,0 +1,24 @@
+{
+  "id": "news-79be2edd",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "OSEN",
+  "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9TdFpWVDMwUm52ZGdORjd3TXJoTUVtbDNIVkZaWE9Yd2c5ajh3SnlvRnlrWFVnR0tKQlB3X2pMVTd2Z1BmeGVDQjluNVkxLTA0SWxR?oc=5",
+  "title": "류지현 감독은 \"희망 봤다\" 2루수 GG 다시 날개 펼까…정은원 \"과거는 잊고, 마지막 기회라는 각오로 준비\" [오!쎈 대전]",
+  "published_at": "2026-10-24T01:40:00.000Z",
+  "collected_at": "2026-10-24T03:38:14.072Z",
+  "summary_ko": "OSEN은 한화 류지현 감독이 '희망을 봤다'고 말한 2루수 정은원을 전했다. 정은원은 마지막 기회라는 각오로 준비한다고 밝혔다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "정은원, 마지막 기회 각오"
+}

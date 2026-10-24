@@ -1,0 +1,24 @@
+{
+  "id": "community-b9e3263e",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "엠엘비파크",
+  "url": "https://mlbpark.donga.com/mp/b.php?id=202610230119619585&p=91&b=kbotown&m=view&site=donga.com&pos=reply",
+  "title": "송정규의 야구직썰보니깐",
+  "published_at": "2026-10-23T14:38:14.072Z",
+  "collected_at": "2026-10-24T03:38:14.072Z",
+  "summary_ko": "",
+  "excerpt": "... ... 삼성 · NC · kt · 롯데 · KIA · 두산 · 키움…",
+  "metrics": {},
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

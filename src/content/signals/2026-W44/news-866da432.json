@@ -1,0 +1,23 @@
+{
+  "id": "news-866da432",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "조선일보",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWE15eEUzNnhHa21FRVhKc1lmOWlaZTVINGFVc1JoRnhWSG14dTQ1NTlxYi1GblhoNjBnaktweFBjY1dfRG00UmtsTXVWdzFWWm9YdERQeXBaWURwbUk0Q3lOV1l0VHZjZGJ3dVRzd0J5NDFEMWw2NHJ0TlBzX2c3N3BBOA?oc=5",
+  "title": "\"이 도시에 우승 반지를 선사하고 싶다\" 페덱의 약속, 이제 가을무대에서 증명할 시간...상대는 삼성전 승률 100% 네일",
+  "published_at": "2026-10-24T03:10:00.000Z",
+  "collected_at": "2026-10-24T03:38:14.072Z",
+  "summary_ko": "조선일보는 페덱이 이 도시에 우승 반지를 선사하겠다고 약속했다고 전했다. 상대 KIA 네일은 삼성전 승률 100%라고 소개했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "brief_ko": "네일, 삼성전 승률 100%"
+}

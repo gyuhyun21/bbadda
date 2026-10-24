@@ -1,0 +1,25 @@
+{
+  "id": "youtube-4573f55d",
+  "issue": "2026-W44",
+  "module": "league",
+  "teams": [],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=q2BpeX0M4hs",
+  "title": "[2026 울산-KBO Fall League H/L] 고양히어로즈 vs 멜버른에이시스(10.23)",
+  "published_at": "2026-10-24T00:37:07Z",
+  "collected_at": "2026-10-24T03:38:14.072Z",
+  "summary_ko": "KBO 공식 채널이 울산-KBO Fall League 고양히어로즈 대 멜버른에이시스(10.23) 하이라이트를 올렸다.",
+  "metrics": {
+    "views": 1559,
+    "likes": 20,
+    "comments": 2
+  },
+  "scores": {
+    "hot": 50,
+    "relevance": 30
+  },
+  "sentiment": "neutral",
+  "brief_ko": "Fall League, 고양 대 멜버른"
+}

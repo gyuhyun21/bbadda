@@ -1,0 +1,27 @@
+{
+  "id": "youtube-173dc412",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "한국의 창",
+  "url": "https://www.youtube.com/watch?v=hJNJkbbXaak",
+  "title": "한국 프로야구를 처음 보러 간 외국인 커플이 \"한국 야구가 대단한 건 팬들 덕분\"이라 한 이유 #shorts",
+  "published_at": "2026-10-24T02:00:02Z",
+  "collected_at": "2026-10-24T03:38:14.072Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 766,
+    "likes": 9,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 44,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

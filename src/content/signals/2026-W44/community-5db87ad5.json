@@ -1,0 +1,24 @@
+{
+  "id": "community-5db87ad5",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte",
+    "doosan"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 대왕식빵의 일기장",
+  "url": "https://blog.naver.com/spafx1/224452096218",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/HH8rvyP3lml",
+  "title": "261012 롯데 VS 두산 / 잠실야구장 두산베어스 마지막 홈경기 굿바이 잠실, 땡큐 잠실",
+  "published_at": "2026-10-24T11:32:00.000+09:00",
+  "collected_at": "2026-10-24T03:38:14.072Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

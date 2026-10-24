@@ -1,0 +1,27 @@
+{
+  "id": "youtube-04af494d",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "야구피디",
+  "url": "https://www.youtube.com/watch?v=rTI1rg3mhlc",
+  "title": "놓치면 아쉬운 PO 관전 포인트 3가지 | 라이브클립 (10.23)",
+  "published_at": "2026-10-24T03:35:12Z",
+  "collected_at": "2026-10-24T03:38:14.072Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 40,
+    "likes": 1,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 40,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

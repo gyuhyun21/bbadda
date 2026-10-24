@@ -1,0 +1,25 @@
+{
+  "id": "news-c254e016",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "announcement": true,
+  "source_name": "mhnse.com",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1mcndlMjU5MU1QdzQ1VWRqQTg0ZlJRYlpObUZQckdCYk9ZbzFHaTYzMTF2T1Y5U3V6bDRub0lUMC1zMzRRb0U1OWlDWnpEWVZOWE9YNFEzOUQxd0NzOWM5SExrdw?oc=5",
+  "title": "[오피셜]'FA 0입' 반성보다 '3연속 7위' 책임이 더 컸다…팀 재생 실패한 김태형, 명장 자존심에 남은 깊은 상처",
+  "published_at": "2026-10-24T03:01:28.000Z",
+  "collected_at": "2026-10-24T03:38:14.072Z",
+  "summary_ko": "롯데가 김태형 감독과 재계약하지 않기로 했다고 공식 발표됐다. 기사는 FA 영입이 없었던 것보다 3년 연속 7위 책임이 더 컸다고 짚었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "김태형 감독, 롯데와 결별"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-4f69b437",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "동아일보",
+  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE95MW8tS3d5QjI2MVluWlNWTkxrZXJnVmo3VVdKSEZPdVphTkJpOEZTUGoySU9FTkw0V3lqaVlEeXNEWGg3R1pxaFJHMUwzWEJDdzNhSmdBc0VoNWVCTHNzaVZvdXNFNTd4NVBtWnRmYzQ5SmNw0gFmQVVfeXFMTk1UNl9LLWdIWkhIQ19uVXhqeTBlVlByWG1uTml4eUpsQnNCOGtUcW1VUk1tdFp5aTA5bVJJMjlXR0tZT08wNWJsN2VkbTl5UXFsTkd1aGpTemxRS1RyajVud0dMRDZn?oc=5",
+  "title": "PO서 만난 KIA-삼성 “원투펀치로 기선제압”",
+  "published_at": "2026-10-23T16:40:00.000Z",
+  "collected_at": "2026-10-24T03:38:14.072Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 80
+  },
+  "sentiment": "neutral"
+}

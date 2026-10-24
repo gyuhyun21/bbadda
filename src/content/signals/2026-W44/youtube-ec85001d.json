@@ -1,0 +1,28 @@
+{
+  "id": "youtube-ec85001d",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "Eagles TV",
+  "url": "https://www.youtube.com/watch?v=d0Kq6KcNk8M",
+  "title": "진종길&김광삼 코치 한화이글스 선수단과 첫 인사!",
+  "published_at": "2026-10-24T02:48:08Z",
+  "collected_at": "2026-10-24T03:38:14.072Z",
+  "summary_ko": "한화 공식 채널 Eagles TV가 진종길·김광삼 코치와 선수단의 첫 인사 영상을 올렸다.",
+  "metrics": {
+    "views": 16850,
+    "likes": 885,
+    "comments": 42
+  },
+  "scores": {
+    "hot": 91,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "진종길·김광삼 코치, 첫 인사"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "community-17b7bde1",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 FEEDER",
+  "url": "https://blog.naver.com/billionseed/224452084434",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/CAw8VFn2WgX",
+  "title": "\"1차전 이기면 한국시리즈 진출 77.1%?\" 삼성·KIA, 첫 승부터 중요한 이유",
+  "published_at": "2026-10-24T11:16:00.000+09:00",
+  "collected_at": "2026-10-24T03:38:14.072Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

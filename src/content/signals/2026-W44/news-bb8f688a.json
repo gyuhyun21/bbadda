@@ -1,0 +1,23 @@
+{
+  "id": "news-bb8f688a",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "news",
+  "source_name": "FT스포츠",
+  "url": "https://www.ftimes.kr/news/articleView.html?idxno=40634",
+  "title": "KBO 키움 히어로즈, 1순위 유망주 박준현 무릎 부상 소식에 깊어지는 한숨",
+  "published_at": "2026-10-24T02:14:24.000Z",
+  "collected_at": "2026-10-24T03:38:14.072Z",
+  "summary_ko": "FT스포츠는 키움 1순위 유망주 박준현의 무릎 부상 소식에 구단의 한숨이 깊어졌다고 보도했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "negative",
+  "brief_ko": "박준현, 무릎 부상 소식"
+}

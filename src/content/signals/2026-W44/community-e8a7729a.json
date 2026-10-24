@@ -1,0 +1,23 @@
+{
+  "id": "community-e8a7729a",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 스포츠를 쓰는 남자",
+  "url": "https://blog.naver.com/qudckd1399/224451641092",
+  "title": "서건창도 놀란 레이예스 200안타, “내가 어떻게 쳤었지?” 감탄한 이유",
+  "published_at": "2026-10-23T20:40:00.000+09:00",
+  "collected_at": "2026-10-24T03:38:14.072Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 62,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

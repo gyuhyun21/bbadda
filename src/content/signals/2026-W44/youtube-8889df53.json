@@ -1,0 +1,26 @@
+{
+  "id": "youtube-8889df53",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "source_name": "야구정리당",
+  "url": "https://www.youtube.com/watch?v=hKh7COZtae0",
+  "title": "야구부장이 밝힌 한화의 FA 계획ㄷㄷ",
+  "published_at": "2026-10-24T00:15:26Z",
+  "collected_at": "2026-10-24T03:38:14.072Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 18336,
+    "likes": 227,
+    "comments": 48
+  },
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

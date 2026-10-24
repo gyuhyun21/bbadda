@@ -1,0 +1,25 @@
+{
+  "id": "news-64994bb4",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "https://www.2news.co.kr/",
+  "url": "https://www.2news.co.kr/news/articleView.html?idxno=30233",
+  "title": "PO 집안싸움 가를 천적 대결, 강민호 vs 김태군 방망이에 쏠린 눈",
+  "published_at": "2026-10-23T23:11:00.000Z",
+  "collected_at": "2026-10-24T03:38:14.072Z",
+  "summary_ko": "PO를 앞두고 삼성 강민호와 KIA 김태군의 방망이에 눈길이 쏠린다는 기사다. 두 포수의 천적 대결을 짚었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "PO 천적 대결, 강민호 대 김태군"
+}

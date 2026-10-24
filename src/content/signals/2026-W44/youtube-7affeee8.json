@@ -1,0 +1,27 @@
+{
+  "id": "youtube-7affeee8",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "뉴뉴뉴스",
+  "url": "https://www.youtube.com/watch?v=7t6lPcaeKB4",
+  "title": "플레이오프 / 관전 포인트 3가지: #플레이오프 #삼성라이온즈 #KIA타이거즈 #페덱 #네일 #김도영 #관전포인트 #KBO #쇼츠 #야구",
+  "published_at": "2026-10-24T03:00:19Z",
+  "collected_at": "2026-10-24T03:38:14.072Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1184,
+    "likes": 4,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 40,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

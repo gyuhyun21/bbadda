@@ -1,0 +1,23 @@
+{
+  "id": "news-81d53d6c",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스1",
+  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB6c2ExQmRrem5FSUVRV2swUjZYRlFOS0dtYUVQX05HM0NDN3lVeElNRTJGY0ZuWjR5RDBNX2NaZ3hWSFJ4YW1leU9maDdZdGZuQXlPNWFvUQ?oc=5",
+  "title": "삼성-KIA, PO 첫판 이기면 KS 보인다…확률 77.1% 놓고 격돌",
+  "published_at": "2026-10-23T21:00:00.000Z",
+  "collected_at": "2026-10-24T03:38:14.072Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 82,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

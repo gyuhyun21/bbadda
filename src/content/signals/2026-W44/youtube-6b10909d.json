@@ -1,0 +1,26 @@
+{
+  "id": "youtube-6b10909d",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "youtube",
+  "source_name": "크보뮤직",
+  "url": "https://www.youtube.com/watch?v=pkt2vieoKRY",
+  "title": "kt 위즈 역대 베스트 라인업 #kt위즈",
+  "published_at": "2026-10-24T01:21:12Z",
+  "collected_at": "2026-10-24T03:38:14.072Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1454,
+    "likes": 0,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 39,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

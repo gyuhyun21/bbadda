@@ -1,0 +1,27 @@
+{
+  "id": "youtube-f3e95662",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "방야TV",
+  "url": "https://www.youtube.com/watch?v=PsbrwQnJ4Q4",
+  "title": "2014 서건창 vs 2026 서건창 타격폼 비교",
+  "published_at": "2026-10-23T15:07:35Z",
+  "collected_at": "2026-10-24T03:38:14.072Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 17968,
+    "likes": 332,
+    "comments": 33
+  },
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

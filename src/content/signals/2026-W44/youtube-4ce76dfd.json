@@ -1,0 +1,26 @@
+{
+  "id": "youtube-4ce76dfd",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "youtube",
+  "source_name": "엘지사모",
+  "url": "https://www.youtube.com/watch?v=5G9cv_QlqBY",
+  "title": "LG트윈스의 유능한 코치들이 모두 떠나고 있습니다. 그 이유가 뭘까요? #김광삼 #염경엽 #류지현 #경헌호 #김경태 #엘지트윈스",
+  "published_at": "2026-10-24T01:03:30Z",
+  "collected_at": "2026-10-24T03:38:14.072Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1437,
+    "likes": 44,
+    "comments": 17
+  },
+  "scores": {
+    "hot": 72,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

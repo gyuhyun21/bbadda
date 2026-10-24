@@ -1,0 +1,28 @@
+{
+  "id": "youtube-dac891fd",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "kt wiz - 위즈TV",
+  "url": "https://www.youtube.com/watch?v=alxttfJJPkM",
+  "title": "[대학생리포터] 11월에도 행복하실 수 있게 저도 열심히 할 테니까요",
+  "published_at": "2026-10-23T23:30:01Z",
+  "collected_at": "2026-10-24T03:38:14.072Z",
+  "summary_ko": "kt wiz 공식 채널이 대학생 리포터 영상을 올렸다. 11월에도 행복하시도록 열심히 하겠다는 제목이다.",
+  "metrics": {
+    "views": 6473,
+    "likes": 310,
+    "comments": 18
+  },
+  "scores": {
+    "hot": 86,
+    "relevance": 50
+  },
+  "sentiment": "neutral",
+  "brief_ko": "위즈TV, 대학생리포터 영상"
+}

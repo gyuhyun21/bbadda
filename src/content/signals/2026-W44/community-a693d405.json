@@ -1,0 +1,23 @@
+{
+  "id": "community-a693d405",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 동원과학기술대학교 ANCHOR 사업단",
+  "url": "https://blog.naver.com/standup2014/224449985967",
+  "title": "동원과학기술대학교 KBO 4년 연속 진출 쾌거",
+  "published_at": "2026-10-24T06:20:00.000+09:00",
+  "collected_at": "2026-10-24T03:38:14.072Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

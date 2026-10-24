@@ -1,0 +1,26 @@
+{
+  "id": "youtube-98b1cd03",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "youtube",
+  "source_name": "대한민국 야구 및 사회 발전 운동본부",
+  "url": "https://www.youtube.com/watch?v=O66vc2AEZiw",
+  "title": "김태형 감독과 결별한 꼴데(롯데) 자이언츠. 가장 잘못이 큰 두 인간 하고도 결별해야 욕 안 먹는다.",
+  "published_at": "2026-10-24T03:26:16Z",
+  "collected_at": "2026-10-24T03:38:14.072Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 163,
+    "likes": 1,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 32,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

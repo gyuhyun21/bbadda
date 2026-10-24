@@ -1,0 +1,24 @@
+{
+  "id": "community-35392de6",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 주도",
+  "url": "https://blog.naver.com/bammmer/224441913027",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/B7Hi2n1dFQq",
+  "title": "2026년 전국 9개 구장, 23번 방문한 야구장 RECAP",
+  "published_at": "2026-10-24T07:00:00.000+09:00",
+  "collected_at": "2026-10-24T03:38:14.072Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

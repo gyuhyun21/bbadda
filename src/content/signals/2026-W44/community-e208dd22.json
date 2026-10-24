@@ -1,0 +1,24 @@
+{
+  "id": "community-e208dd22",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 더블체커(DC)",
+  "url": "https://blog.naver.com/edwin9407/224452005964",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/HOJZ74zaJsd",
+  "title": "SSG 13연패에 9위까지 추락했는데…아빌라 오자 후반기 2위, 내년 3강설까지 나온 이유",
+  "published_at": "2026-10-24T09:23:00.000+09:00",
+  "collected_at": "2026-10-24T03:38:14.072Z",
+  "summary_ko": "블로그가 13연패로 9위까지 떨어졌던 SSG가 아빌라 합류 뒤 후반기 2위를 했다고 짚은 글이다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "negative",
+  "brief_ko": "아빌라 합류 뒤 후반기 2위"
+}

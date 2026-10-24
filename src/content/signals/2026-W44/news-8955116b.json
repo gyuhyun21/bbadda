@@ -1,0 +1,24 @@
+{
+  "id": "news-8955116b",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "오마이스타",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE95blBsUFdfMUd4aHdVSms1QXl4UnlvQ2dxU0pCeGM2U011d2U3S0RMajF6MDk1cnpGcXpYSno2TVlEbko2RDdiS0lYUjNaM3h3eG13X2ExUW5zUENiM0wwQTFKM3c3aHZlN1BYbXNQS052MmFhQ3ZYdG5zMmwxdw?oc=5",
+  "title": "2년 전 'KS 파트너', 이번엔 플레이오프서 만난다",
+  "published_at": "2026-10-24T02:01:00.000Z",
+  "collected_at": "2026-10-24T03:38:14.072Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 83,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

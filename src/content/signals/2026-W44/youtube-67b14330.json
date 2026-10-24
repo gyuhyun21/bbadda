@@ -1,0 +1,28 @@
+{
+  "id": "youtube-67b14330",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "youtube",
+  "announcement": true,
+  "source_name": "정승베 [정신승리 베이스볼]",
+  "url": "https://www.youtube.com/watch?v=TV8Frw0hlrE",
+  "title": "[오피셜] '3년 계약 만료' 롯데를 떠나는 김태형 감독, 지난 3년 돌아보기",
+  "published_at": "2026-10-24T01:56:22Z",
+  "collected_at": "2026-10-24T03:38:14.072Z",
+  "summary_ko": "정승베 채널이 3년 계약이 끝나 롯데를 떠나는 김태형 감독의 지난 3년을 돌아보는 영상을 올렸다.",
+  "metrics": {
+    "views": 5102,
+    "likes": 163,
+    "comments": 124
+  },
+  "scores": {
+    "hot": 85,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "김태형 감독의 3년 돌아보기"
+}

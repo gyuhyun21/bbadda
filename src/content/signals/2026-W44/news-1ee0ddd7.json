@@ -1,0 +1,29 @@
+{
+  "id": "news-1ee0ddd7",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBRTVhBUzlLRHExRXJiTG9TWGlKcHZnS3BtdTFRZkJiaUNOSzFhX0g5cTRpVDBDSkgxMVItMjVJTEVvQm9mdmh0alRNOEFiNWtWRWgzZnlhcnR0azJUM2M0WHVCeHkya2M3RTUxVHh3d9IBb0FVX3lxTFBRTVhBUzlLRHExRXJiTG9TWGlKcHZnS3BtdTFRZkJiaUNOSzFhX0g5cTRpVDBDSkgxMVItMjVJTEVvQm9mdmh0alRNOEFiNWtWRWgzZnlhcnR0azJUM2M0WHVCeHkya2M3RTUxVHh3dw?oc=5",
+  "title": "“후라도, 정규시즌처럼 던지면 안 된다” ‘빅게임 피처’ 장원삼이 전한 포스트시즌 승부수",
+  "published_at": "2026-10-24T01:10:00.000Z",
+  "collected_at": "2026-10-24T03:38:14.072Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOalJDVGdVczNWaXVBb1ROTW5ZN3ZtTDhhTnhqQWlQN0VqeHZUX0NYUlIwMlVQbTljV2dYNGQwNjdFZzY5WHQ3OHJ1SU5GSHZLV1ZzZEsta2UtMkI2OTZrSUZXVHFTdmxxRktqYTQzZWFBd19ocTFPUkhsdFZQX05YVW4wY9IBlwFBVV95cUxOQlpGM012bDNmZDlpLVI5LTg1UklZb0xmczJVX3ZVbncyeHA0WW1SWGw3NU1CdHRTZmpnc0o2bGFwN2tWS2VsNEdVX2M5RGFLQ0phZmE1S3ZvOENPX0kwNDk5Q01NdV80aXNQaVFlSUJyYTlHMktPaEQyLXZZU3dieklxQ1NkVzcxMEJBcW82aTJjYWVjc0M4?oc=5"
+    }
+  ]
+}

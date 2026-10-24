@@ -1,0 +1,26 @@
+{
+  "id": "youtube-7b963a0b",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "youtube",
+  "source_name": "이슬빈 티비 SEUL BIN TV",
+  "url": "https://www.youtube.com/watch?v=1fzZoMZknWI",
+  "title": "[국내] \"이동욱, 롯데 감독 면접! 차기 사령탑 유력?\" 김태형 전 감독 결별.",
+  "published_at": "2026-10-24T03:10:01Z",
+  "collected_at": "2026-10-24T03:38:14.072Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 312,
+    "likes": 2,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 35,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

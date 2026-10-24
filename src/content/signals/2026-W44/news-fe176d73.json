@@ -1,0 +1,29 @@
+{
+  "id": "news-fe176d73",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "연합뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBmMV9uM0hfSFdSWld3V1FyTHNJM3FBWVU5WE92d1dqRnFfVzJ2YlBVZERWU2VvYkFRV1Y4ZDExRTFTcFAxci1YUGY4MlZUMmhWTVp6NEs5ZWF1MWNhSnZHQtIBYEFVX3lxTFBmMV9uM0hfSFdSWld3V1FyTHNJM3FBWVU5WE92d1dqRnFfVzJ2YlBVZERWU2VvYkFRV1Y4ZDExRTFTcFAxci1YUGY4MlZUMmhWTVp6NEs5ZWF1MWNhSnZHQg?oc=5",
+  "title": "프로야구 플레이오프 1차전 페덱 vs 네일 선발 투수 빅뱅",
+  "published_at": "2026-10-24T00:17:47.000Z",
+  "collected_at": "2026-10-24T03:38:14.072Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 91,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "news.sbs.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaW9nU3lsRFdEaXJCUmtaYU9CXzFxdVJhbTZ5MlRwWVQxbDhocEVWd2F2a2lkVVR1MU5KSll1clZTVHNwRGVkNjhUNTBQc1kxV0xUd2hycVlqQk95SHlZUVB0NEhQa2FwOWNPUzRpQTEyZUc5WVpSc01hREJTcEF3NTlmRExLUnBXeHQ0?oc=5"
+    }
+  ]
+}

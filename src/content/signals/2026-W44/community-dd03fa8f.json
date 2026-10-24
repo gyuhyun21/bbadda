@@ -1,0 +1,24 @@
+{
+  "id": "community-dd03fa8f",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=ib&category=494441501&document_srl=10478206009",
+  "title": "오? 역전하나요 - 치지직",
+  "published_at": "2026-10-23T21:38:14.072Z",
+  "collected_at": "2026-10-24T03:38:14.072Z",
+  "summary_ko": "",
+  "excerpt": "... 끝나나요? 2 분 전 잡담 최강기아타이거즈 조회20. 끝나나요? 이걸 딮기의 철학이 ?? 2 분…",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "youtube-a37d4b6e",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "김덜",
+  "url": "https://www.youtube.com/watch?v=QMD8TS7klC4",
+  "title": "내가 보려고 만든 삼성라이온즈 응원모음집#삼성라이온즈 #shorts #kbo #응원 #응원가",
+  "published_at": "2026-10-24T03:25:49Z",
+  "collected_at": "2026-10-24T03:38:14.072Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 146,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 26,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

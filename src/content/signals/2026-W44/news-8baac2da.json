@@ -1,0 +1,29 @@
+{
+  "id": "news-8baac2da",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "매일경제",
+  "url": "https://m.mk.co.kr/amp/12184380",
+  "title": "“좋은 분위기 유지+긴장감 가지고 임하겠다”…KIA 김도영, PO서도 맹활약할까 [PO]",
+  "published_at": "2026-10-23T22:40:00.000Z",
+  "collected_at": "2026-10-24T03:38:14.072Z",
+  "summary_ko": "매일경제는 KIA 김도영이 PO를 앞두고 좋은 분위기를 유지하며 긴장감을 갖고 임하겠다고 밝혔다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 98,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "m.mksports.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ncEoyTlpQdTZYT1ZKbTdCMEx1R1FZdGNyQ0Z5SDZENW5mZDcxT3ZLNDhGR09jSVdqR0pqQmtIWVowOE04UWFUeEt2aHZybUxHZ3YyQmJkUWU4MXpKOExNcE5MTTA?oc=5"
+    }
+  ],
+  "brief_ko": "김도영, PO 앞두고 각오"
+}

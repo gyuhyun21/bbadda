@@ -1,0 +1,26 @@
+{
+  "id": "youtube-c66b1e95",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "youtube",
+  "source_name": "조커게임샵",
+  "url": "https://www.youtube.com/watch?v=fCH0FSRly_c",
+  "title": "KT위즈 박영현 라쿠텐으로 영입완료!! [프로야구 스피리츠 2026] #야구",
+  "published_at": "2026-10-24T02:30:36Z",
+  "collected_at": "2026-10-24T03:38:14.072Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 578,
+    "likes": 0,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 35,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}
