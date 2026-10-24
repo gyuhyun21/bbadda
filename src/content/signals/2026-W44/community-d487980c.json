@@ -1,0 +1,23 @@
+{
+  "id": "community-d487980c",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 시선 stop",
+  "url": "https://blog.naver.com/ohmelrang/224452123955",
+  "title": "\"최고 등급 받았다\" 추신수 차남 에이든 추, 미국 대학야구 명문 오클라호마대 입학 소식",
+  "published_at": "2026-10-24T12:08:00.000+09:00",
+  "collected_at": "2026-10-24T09:37:59.397Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

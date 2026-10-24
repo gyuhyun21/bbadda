@@ -1,0 +1,24 @@
+{
+  "id": "community-e35a0ce3",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 게코 스튜디오",
+  "url": "https://blog.naver.com/review_fox/224452365555",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/CaTEBnQt6B6",
+  "title": "케이브 KBO 5년 보류권 논란, 계약이 끝나도 이적이 막힌 이유",
+  "published_at": "2026-10-24T17:30:00.000+09:00",
+  "collected_at": "2026-10-24T09:37:59.397Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

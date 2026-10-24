@@ -1,0 +1,40 @@
+{
+  "id": "news-4a37255c",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스1",
+  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBkVkhTX1RCMWVpeUVmdUFGRHZ4LWVodnZlY1JIYmZmd21lUWtIQV9WOXdjbEs4STdzWXpDbDR2ME5xUG9mdHRZMWJhMDhodTVrMkdSSHZlQQ?oc=5",
+  "title": "프로야구 SSG, 2027시즌 신인 선수 입단식 '더 퍼스트 랜딩' 진행",
+  "published_at": "2026-10-24T05:43:07.000Z",
+  "collected_at": "2026-10-24T09:37:59.397Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 99,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "뉴스핌",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1EazNacXIxaWxWRXdOamRuZDhhbTVpUk5nMGxjbWRZbVB5cUhYdElFNkZjQVpMSlhZREo0TFNxbWZLYlI5aEUtb09lbHh0MkpfR0NMQ3ZTS3FlSlFa?oc=5"
+    },
+    {
+      "source_name": "매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9raHZBbkZRMHEtX2NmeDRrRUpVOG9PU0xlenEtYW80YU5JdVlyNEE0UTVRN3pnblQzY1ZINTY2YjJES0E1M185aWZJRnQzRnViUThr?oc=5"
+    },
+    {
+      "source_name": "연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5QNlNPRHpyYmFBczVBQVZ3MTZ1NUdXeVl4WldtaVlrcFgzdEZrZjB5R1NtdWNYSEtnNEFpOHJyeVlMOUF1aEZmZWNuXzdUV29JM3RxN2h6Yi14bEZ6ZkpaV9IBYEFVX3lxTE5QNlNPRHpyYmFBczVBQVZ3MTZ1NUdXeVl4WldtaVlrcFgzdEZrZjB5R1NtdWNYSEtnNEFpOHJyeVlMOUF1aEZmZWNuXzdUV29JM3RxN2h6Yi14bEZ6ZkpaVw?oc=5"
+    },
+    {
+      "source_name": "스포츠서울",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBib2NPZE5DTmJtYjZwM295Z1J1bHpuRDlmZlR4NHZGWHdnOFFvdGNYRWFUd1V2cld6Y01vU3dfN053UXM4a2NMMmtOUTIydmxIU2NOMmJDWm0?oc=5"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "community-f3408d37",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 1분 스포츠 뉴스",
+  "url": "https://blog.naver.com/alhelbudglk526/224452214832",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/8VXXzSX3Hvw",
+  "title": "\"친정 돌아온 지 1년 만인데\" 홍건희가 결국 방출 통보를 받을 수밖에 없었던 충격적 이유",
+  "published_at": "2026-10-24T17:36:00.000+09:00",
+  "collected_at": "2026-10-24T09:37:59.397Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

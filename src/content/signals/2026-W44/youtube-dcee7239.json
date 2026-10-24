@@ -1,0 +1,26 @@
+{
+  "id": "youtube-dcee7239",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "한량대기자",
+  "url": "https://www.youtube.com/watch?v=HVZYaluXCfA",
+  "title": "플옵? 도영이가 해주겠지 #야구 #기아타이거즈 #김도영 #홈런",
+  "published_at": "2026-10-24T05:17:50Z",
+  "collected_at": "2026-10-24T09:37:59.397Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 2200,
+    "likes": 54,
+    "comments": 2
+  },
+  "scores": {
+    "hot": 61,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

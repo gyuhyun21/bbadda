@@ -1,0 +1,27 @@
+{
+  "id": "youtube-a7c96ca8",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "SEOULsaram 서울사람",
+  "url": "https://www.youtube.com/watch?v=DzH-yPhDtwQ",
+  "title": "기아? 삼성? 수원행 KS 원정버스는 누가 타게 될까!!",
+  "published_at": "2026-10-24T06:51:59Z",
+  "collected_at": "2026-10-24T09:37:59.397Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 8122,
+    "likes": 171,
+    "comments": 11
+  },
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

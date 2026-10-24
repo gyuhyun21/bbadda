@@ -1,0 +1,30 @@
+{
+  "id": "news-beed3d3c",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://www.mt.co.kr/amp/sports/2026/10/24/202610241459771307O",
+  "title": "구자욱, PO 1차전 지명타자? 대타? “담장 밖으로 넘기고 살살 뛰면 최고” 박진만 감독의 유쾌한 바람 [오!쎈 대구]",
+  "published_at": "2026-10-24T06:40:00.000Z",
+  "collected_at": "2026-10-24T09:37:59.397Z",
+  "summary_ko": "머니투데이는 박진만 감독이 PO 1차전 구자욱의 지명타자 또는 대타 기용을 두고 유쾌한 바람을 밝혔다고 전했다. 감독은 \"담장 밖으로 넘기고 살살 뛰면 최고\"라고 말했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE56bTRadENFa1ZzTUd6TkhueFFOQjk5UGpwSVF6WWNOUlA2R1JsVlh2LUNmUzBDT0R2VUhILThBTjU4Zlc2NXdSaVlkU0VsLTJiYy1lSQ?oc=5"
+    }
+  ],
+  "brief_ko": "구자욱, PO 1차전 DH 거론"
+}

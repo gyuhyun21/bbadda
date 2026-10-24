@@ -1,0 +1,27 @@
+{
+  "id": "youtube-e0d03d77",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "youtube",
+  "source_name": "야구소년",
+  "url": "https://www.youtube.com/watch?v=zLtCUcZJliM",
+  "title": "곽빈은 어떻게 달라졌을까⚾ 달라진 투구의 핵심 3가지 #kbo #두산베어스 #곽빈",
+  "published_at": "2026-10-24T04:00:30Z",
+  "collected_at": "2026-10-24T09:37:59.397Z",
+  "summary_ko": "야구소년 채널이 두산 곽빈의 달라진 투구 핵심 3가지를 다룬 영상을 올렸다.",
+  "metrics": {
+    "views": 1294,
+    "likes": 8,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 43,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "곽빈 투구, 달라진 3가지"
+}

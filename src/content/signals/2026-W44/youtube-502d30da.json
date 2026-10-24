@@ -1,0 +1,27 @@
+{
+  "id": "youtube-502d30da",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "source_name": "야구짤츠",
+  "url": "https://www.youtube.com/watch?v=KB1RaMRVc7g",
+  "title": "한화 마무리 캠프에서 퇴근시간 없앤 류지현ㄷㄷ 마무리 훈련이 아닌 이유 ㄷㄷ",
+  "published_at": "2026-10-24T04:29:07Z",
+  "collected_at": "2026-10-24T09:37:59.397Z",
+  "summary_ko": "야구짤츠 채널이 한화 마무리 캠프에서 퇴근 시간을 없앤 류지현 감독을 다룬 영상을 올렸다.",
+  "metrics": {
+    "views": 65508,
+    "likes": 422,
+    "comments": 54
+  },
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "류지현, 마무리캠프 퇴근시간 없앴다"
+}

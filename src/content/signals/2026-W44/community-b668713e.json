@@ -1,0 +1,23 @@
+{
+  "id": "community-b668713e",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 아는것이 힘이다",
+  "url": "https://blog.naver.com/allahim/224452218028",
+  "title": "2026 프로야구 포스트시즌 총정리｜가을야구 대진표·경기 일정·주목할 선수",
+  "published_at": "2026-10-24T14:18:00.000+09:00",
+  "collected_at": "2026-10-24T09:37:59.397Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

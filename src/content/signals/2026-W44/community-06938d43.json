@@ -1,0 +1,24 @@
+{
+  "id": "community-06938d43",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "엠엘비파크",
+  "url": "https://mlbpark.donga.com/mp/b.php?id=202610230119616522&p=211&b=kbotown&m=view&site=donga.com",
+  "title": "폴리그 장타율1위",
+  "published_at": "2026-10-23T10:37:59.397Z",
+  "collected_at": "2026-10-24T09:37:59.397Z",
+  "summary_ko": "",
+  "excerpt": "... ... 자이언츠 감독 취임[22]3070 · 샌프 이정후 계약 규모[26] ... 키움팬으로서, 타팀 기아 롯데…",
+  "metrics": {},
+  "scores": {
+    "hot": 60,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

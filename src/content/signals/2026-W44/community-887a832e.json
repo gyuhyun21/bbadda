@@ -1,0 +1,23 @@
+{
+  "id": "community-887a832e",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 이노테크랩",
+  "url": "https://blog.naver.com/inoinova/224452290953",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/5syclmAUKkh",
+  "title": "LG트윈스 코치진 줄줄이 이탈, 책임진다는 감독은?",
+  "published_at": "2026-10-24T15:56:00.000+09:00",
+  "collected_at": "2026-10-24T09:37:59.397Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

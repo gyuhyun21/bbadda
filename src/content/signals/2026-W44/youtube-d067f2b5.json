@@ -1,0 +1,27 @@
+{
+  "id": "youtube-d067f2b5",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "사람이되자",
+  "url": "https://www.youtube.com/watch?v=i-McCD4PXAY",
+  "title": "[KBO]기아 vs 삼성 누가 이길까?#kbo #릴스 #릴스추천 #삼성라이온즈 #기아타이거즈",
+  "published_at": "2026-10-24T09:25:34Z",
+  "collected_at": "2026-10-24T09:37:59.397Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 142,
+    "likes": 5,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 54,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-20eb9fbf",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "news",
+  "source_name": "더게이트",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE42bEdWbjl4cktVZnFsWEJTdUtZSVlMNUp2TG40dERuMm1hSHIzeGExNFNQLVZqV2pMd3pqbXdOem0wOUsxX0ltYTloa0oxWEVfLWtiNnhrb3FNZjloUTgxYm82dWZpNE5JU1HSAWxBVV95cUxNbF9uQXU0c1k5Z3ZwbVItWllsUm5RcWdNbEtvMXFIR2oxOXBBZm1jaTFGV3JXWHRiQzBYNnFsekF2UWJXTjgxQ1hhWEhWYzNZaF9tZFJvY3NVby1DdjhCemJvRUtoV08wdE9uZEE?oc=5",
+  "title": "포수 마스크 벗더니 3할·14홈런…두산 박성재, 일본서도 타율 0.387 '불방망이'",
+  "published_at": "2026-10-24T04:58:17.000Z",
+  "collected_at": "2026-10-24T09:37:59.397Z",
+  "summary_ko": "더게이트는 두산 박성재가 일본에서 타율 0.387을 기록 중이라고 전했다. 포수 마스크를 벗고 3할·14홈런을 쳤다는 내용이다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "brief_ko": "박성재, 일본서 타율 0.387"
+}

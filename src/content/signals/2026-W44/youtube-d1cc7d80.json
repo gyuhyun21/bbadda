@@ -1,0 +1,26 @@
+{
+  "id": "youtube-d1cc7d80",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "source_name": "한화에 묻어다오",
+  "url": "https://www.youtube.com/watch?v=mKSC4gCWu0Q",
+  "title": "한화포수즈의 기합을 클럽음악에 입히면? #한화이글스 #허인서 #장규현 #박상언",
+  "published_at": "2026-10-24T04:52:32Z",
+  "collected_at": "2026-10-24T09:37:59.397Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 10792,
+    "likes": 260,
+    "comments": 11
+  },
+  "scores": {
+    "hot": 69,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

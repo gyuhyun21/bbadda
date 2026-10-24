@@ -1,0 +1,27 @@
+{
+  "id": "youtube-fd89b076",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "서건창은할수있다",
+  "url": "https://www.youtube.com/watch?v=dEm9nEjUHcs",
+  "title": "서건창 응원가 프로젝트 #08 | 승리위해 달려간다",
+  "published_at": "2026-10-24T08:40:25Z",
+  "collected_at": "2026-10-24T09:37:59.397Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 160,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 27,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

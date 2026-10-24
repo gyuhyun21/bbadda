@@ -1,0 +1,23 @@
+{
+  "id": "community-07ba5b00",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 부산 베이스볼 클럽",
+  "url": "https://blog.naver.com/jinbk2480/224452032842",
+  "title": "캐치볼,기본기 집중훈련🔥",
+  "published_at": "2026-10-24T10:16:00.000+09:00",
+  "collected_at": "2026-10-24T09:37:59.397Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

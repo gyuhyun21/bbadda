@@ -1,0 +1,36 @@
+{
+  "id": "news-f7353157",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "뉴시스",
+  "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1pNkhlZVFfcXVwQ09sZ3JWbHpVMERPS3JhTnp1NTRNRkdqZ3Fvd2N5SUpPWEduV0pZZS1yYnNVU2RXLXoyOFJEUm03aWU5bDJ2ME5BMjVhWFlXbEhUblBkeDBpSmRZQlBhQ01lMGlUcTd5WkZkR1FaYtIBeEFVX3lxTE1pNkhlZVFfcXVwQ09sZ3JWbHpVMERPS3JhTnp1NTRNRkdqZ3Fvd2N5SUpPWEduV0pZZS1yYnNVU2RXLXoyOFJEUm03aWU5bDJ2ME5BMjVhWFlXbEhUblBkeDBpSmRZQlBhQ01lMGlUcTd5WkZkR1FaYg?oc=5",
+  "title": "'세이브왕' 김재윤 전거근 손상으로 이탈…삼성, 뒷문 공백 악재[PO]",
+  "published_at": "2026-10-24T05:26:23.000Z",
+  "collected_at": "2026-10-24T09:37:59.397Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 99,
+    "relevance": 70
+  },
+  "sentiment": "negative",
+  "also_in": [
+    {
+      "source_name": "스포츠조선",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB3RTRpTGVhdU5kNWw1SlJYRE84Tk1CM2tub01BLXVTQUowNkRLMUN0cEJjRi1QLXVVdXEwU3F0VlNPUkpVLVV5R2JZbXZqX3hvN2ZHcUtEMEl6cG9rWlltOVV4NkVNV0lEaFhrMTJkd1lqUEJld1JwOHdCdU9TQQ?oc=5"
+    },
+    {
+      "source_name": "뉴스핌",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4tbkpSTGE2Y1dfVHMtaU9pU1BGZEhIUHZaZHgwVWpia3NrdTlWR28wV2hvQjZnQm1ON1c5LUdiZUpObkJyeU1LMHZzcDNSX2RCbndJVmpHeTlzaUZF?oc=5"
+    },
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSm9MTWxwc29BWF9DaWdJQUFrS1RnV3lra19vVmZEbjRLaUZvUWxueGpxNWVqcjcwZkZwM1JkaThQQV9RRnBXWk5yc0Jkc3lwdF96OEZxdENPSHZWX3FhU2ZsMjkyckxXbVZtYWJuQlpvYVUyRTMtaTd5eTVaQ2wwRWwyUQ?oc=5"
+    }
+  ]
+}

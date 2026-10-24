@@ -1,0 +1,26 @@
+{
+  "id": "youtube-a67532d9",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "youtube",
+  "source_name": "뭉탱2",
+  "url": "https://www.youtube.com/watch?v=7ZHVi4bVqRI",
+  "title": "Kt 위즈 장성우 前응원가",
+  "published_at": "2026-10-24T05:34:04Z",
+  "collected_at": "2026-10-24T09:37:59.397Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 8,
+    "likes": 1,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 52,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

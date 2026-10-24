@@ -1,0 +1,24 @@
+{
+  "id": "community-fb46edc3",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 Cola 곰의 이야기",
+  "url": "https://blog.naver.com/tim0510/224452383142",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/1enXNPkK3lz",
+  "title": "삼성 KIA 드디어 격돌! 김도영 돌풍 막을 수 있을까? 페덱 vs 네일 선발 확정｜플레이오프 일정 총정리",
+  "published_at": "2026-10-24T17:56:00.000+09:00",
+  "collected_at": "2026-10-24T09:37:59.397Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

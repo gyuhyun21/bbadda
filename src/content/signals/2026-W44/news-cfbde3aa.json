@@ -1,0 +1,28 @@
+{
+  "id": "news-cfbde3aa",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ycjNfdXFIOXJHQzQ3T1B0U3FhZW5iRjN6cTRVMGdGRE1wdWE1a3ZUNmFBWEFEZzRCOV9pZFcwZlRXOXMwT0NLUXl5SldaRnhzeHkwRWdIc2JzVWNPWl9GM3N4MGhVRk13Q1HSAW9BVV95cUxNQ3U5VVNGQ2lrRlR3VFpHUlRLQ1k0SFFXWFVpWG1fUVdNcXJySzhDRmcydmRQMm4xMUlVSkpvZEZPWmVsN2ZQVlN6QXgzM3VQMzQwMzFqWjJuQmJ5c1VzR09ib0F5Q3hiMl81Mm96NGc?oc=5",
+  "title": "“그냥 다 미쳤으면 좋겠다” 삼성 류지혁의 유쾌한 바람…“타선 전체가 터졌으면” [오!쎈 대구]",
+  "published_at": "2026-10-24T08:40:00.000Z",
+  "collected_at": "2026-10-24T09:37:59.397Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 100,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1qbDJsdzVjQ1FXYWg3Yldjdmo4Ymdwb0JUVEsyWkFqQWN1MUhSUnlmbGRVT2NVQUFoY2M5Zm4wNW9DUldseEtMY041dndSR0VxRnI2Yw?oc=5"
+    }
+  ]
+}
