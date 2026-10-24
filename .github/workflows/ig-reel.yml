@@ -1,5 +1,6 @@
 # 인스타 릴스 게시: public/insta/<post>/reel.mp4 를 bbadda.com 공개 주소로, 본문은 post.json 의 reel_caption(없으면 caption)
-# 수동 실행(post 입력) 또는 예약: 매일 07:25 KST 에 public/insta/reel-queue.json 의 오늘(KST) 항목을 게시. GitHub 예약 실행은 몇~십여 분 늦을 수 있다
+# 수동 실행(post 입력) 또는 예약: 매일 07:25 KST·reel-queue.json 이 main 에 바뀔 때 public/insta/reel-queue.json 의 오늘(KST) 항목을 게시. GitHub 예약 실행은 몇~십여 분 늦을 수 있다
+# 폴더에 reel.mp4 대신 reel.json(매일 릴스 루틴 재료, docs/reel-routine.md)만 있으면 여기서 영상을 조립해 insta-media 브랜치에 올리고 jsDelivr 주소로 게시한다
 # 시크릿 INSTAGRAM_PAGE_TOKEN, 변수 INSTAGRAM_USER_ID. 토큰은 출력하지 않는다
 name: ig-reel
 on:
@@ -8,14 +9,20 @@ on:
       post: { description: 'public/insta 아래 폴더(예 2026-10-19-intro)', required: true }
   schedule:
     - cron: '25 22 * * *'
+  push:
+    branches: [main]
+    paths: ['public/insta/reel-queue.json']
 permissions:
-  contents: read
+  contents: write
+concurrency: { group: ig-reel, cancel-in-progress: false }
 jobs:
   reel:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 25
     steps:
       - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 22, cache: npm }
       - name: 릴스 게시
         env:
           TOKEN: ${{ secrets.INSTAGRAM_PAGE_TOKEN }}
@@ -33,5 +40,15 @@ jobs:
           if curl -sS -f -H "Authorization: Bearer $TOKEN" "https://graph.facebook.com/v21.0/$IG/media?fields=caption&limit=15" | jq -e --rawfile c /tmp/cap.txt 'any(.data[]; (.caption // "") == ($c | rtrimstr("\n")))' >/dev/null; then
             echo "이미 게시됨, 건너뜀: $POST" | tee -a "$GITHUB_STEP_SUMMARY"; exit 0
           fi
-          res=$(bash scripts/insta/reel.sh "https://bbadda.com/insta/$POST/reel.mp4" /tmp/cap.txt)
+          url="https://bbadda.com/insta/$POST/reel.mp4"
+          if [ ! -f "public/insta/$POST/reel.mp4" ] && [ -f "public/insta/$POST/reel.json" ]; then
+            for t in 1 2 3; do timeout 300 sudo apt-get -qq update >/dev/null && timeout 300 sudo apt-get -qq install -y ffmpeg fonts-noto-cjk >/dev/null && break; echo "apt 재시도 $t"; sleep 10; done
+            timeout 600 npm ci --silent
+            npx tsx scripts/insta/reel-make.ts "public/insta/$POST" /tmp/reel.mp4
+            git config user.name "github-actions[bot]"; git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git fetch -q origin insta-media
+            git worktree add -q /tmp/media origin/insta-media && ( cd /tmp/media && git checkout -q -B insta-media && mkdir -p "reel/$POST" && cp /tmp/reel.mp4 "reel/$POST/reel.mp4" && git add reel && git commit -qm "reel: $POST" && git push -q origin insta-media )
+            url="https://cdn.jsdelivr.net/gh/${GITHUB_REPOSITORY}@insta-media/reel/$POST/reel.mp4"
+          fi
+          res=$(bash scripts/insta/reel.sh "$url" /tmp/cap.txt)
           echo "게시: $res" | tee -a "$GITHUB_STEP_SUMMARY"
