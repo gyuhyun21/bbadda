@@ -6,7 +6,7 @@ import '../styles/soft.css';
 import OfficialLinks from './OfficialLinks.astro';
 import TeamPickChip from './TeamPickChip.astro';
 import Analytics from '@vercel/analytics/astro';
-import { siteLayout, articleModal, brandLogo, revisit } from '../lib/config.ts';
+import { siteLayout, articleModal, brandLogo, revisit, sectionTint } from '../lib/config.ts';
 import { SITE_NAME, TEAMS, teamColor, loadAll, BUILD_TIME } from '../lib/site.ts';
 interface Props { title?: string; description?: string; sample?: boolean; searchable?: boolean; image?: string }
 // searchable=false: 같은 내용이 호 페이지에 있어 검색 결과가 겹치는 페이지(메인)는 색인에서 뺀다
@@ -30,7 +30,7 @@ const myTeamCss = TEAMS.map((t) => `html[data-my-team="${t.id}"] [data-myteam-bl
 ---
 <!doctype html>
 {/* apple 은 magazine 위에 덧입힌다 — 규칙은 모두 .layout-apple 아래(src/styles/apple.css) */}
-<html lang="ko" class={layout === 'soft' ? 'layout-magazine layout-apple layout-soft' : layout === 'apple' ? 'layout-magazine layout-apple' : `layout-${layout}`}>
+<html lang="ko" class={`${layout === 'soft' ? 'layout-magazine layout-apple layout-soft' : layout === 'apple' ? 'layout-magazine layout-apple' : `layout-${layout}`}${sectionTint() ? ' tint-sections' : ''}`}>
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
