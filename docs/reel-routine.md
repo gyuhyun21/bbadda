@@ -1,6 +1,6 @@
 # 매일 릴스 루틴 — 하루 1개(2026-10-24 주인 결정)
 
-claude.ai 루틴 'BBADDA 릴스(매일)'가 매일 10:17 KST 에 아래 프롬프트를 실행한다. 루틴에는 Higgsfield 커넥터가 붙어 있다.
+claude.ai 루틴 'BBADDA 릴스(매일)'(trig_01X6qpmccCS2Ef62Hm5mGK3g)가 매일 10:17 KST 에 아래 프롬프트를 실행한다. 루틴에는 Higgsfield 커넥터가 붙어 있다.
 목표는 좋아요·댓글·사이트 유입. 카드 세트(ig-auto)를 되풀이하지 말고, 그날 가장 이야깃거리가 되는 소식 하나를 짧은 이야기로 만든다.
 흐름: 루틴이 재료(그림·짧은 영상·목소리)와 `reel.json` 을 `public/insta/<날짜>-reel/` 에 올리고 `reel-queue.json` 에 오늘 항목을 넣어 머지 → `ig-reel.yml` 이 영상을 조립(`scripts/insta/reel-make.ts`)해 게시.
 첫 사례: `public/insta/2026-10-24-po1-typhoon`(PO 1차전 + 태풍 + 2년 전 서스펜디드).
@@ -13,6 +13,7 @@ claude.ai 루틴 'BBADDA 릴스(매일)'가 매일 10:17 KST 에 아래 프롬�
 1. 주제 하나 고르기(사이트 데이터만, 추론 금지): 우선순위
    ① 오늘·내일 포스트시즌 경기(data/postseason.yaml — 시각·구장·예고 선발·facts·ig) ② 어제 경기 결과(ig.post, homers)
    ③ 오늘 수집된 소식 중 hook_ko 또는 화제(scores.hot) 1위 ④ 비시즌엔 스토브리그 큰 소식.
+   최근 3일 릴스(public/insta/*/post.json 의 reel_caption)와 같은 이야기는 고르지 않는다(같은 경기라도 각도를 바꾼다: 예고 → 결과 → 승부처 숫자).
    사실마다 출처(기사 주소 또는 postseason.yaml)를 확인한다. 과거 기록을 덧붙일 때는 WebSearch 로 기사 2곳 이상에서 확인한 것만.
 2. 대본: 장면 4개 + 끝 장면. 장면마다 말(say) 1~2문장, 화면 머리표(kick, 18자 이내), 큰 제목(head, 두 줄, 줄당 9자 안팎, 강조 1곳 <b>).
    - 첫 장면 3초 안에 궁금증(상식 깨기·숫자·대결·"근데"). 셋째 장면에 반전이나 결정적 숫자. 넷째 장면은 시청자에게 질문.
