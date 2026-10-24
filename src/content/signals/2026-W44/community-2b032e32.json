@@ -1,0 +1,24 @@
+{
+  "id": "community-2b032e32",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 이랑이랑 맛집찾기",
+  "url": "https://blog.naver.com/eueuy/224452026867",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/CVzKiFFrqkF",
+  "title": "추신수 아들 대학야구 명문 진학 에이든 추건우 오클라호마대",
+  "published_at": "2026-10-24T11:00:00.000+09:00",
+  "collected_at": "2026-10-24T03:38:14.072Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

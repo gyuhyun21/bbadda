@@ -1,0 +1,29 @@
+{
+  "id": "news-940da07f",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://www.mt.co.kr/amp/sports/2026/10/24/2026102321062553719",
+  "title": "[인터뷰] '떠나는' 두산 김태룡 단장 \"저는 복이 참 많은 사람, 베어스로 와서... 팬 분들 야구 많이 사랑해주셔서 감사했습니다\"",
+  "published_at": "2026-10-23T22:30:00.000Z",
+  "collected_at": "2026-10-24T03:38:14.072Z",
+  "summary_ko": "머니투데이는 두산을 떠나는 김태룡 단장이 인터뷰에서 팬들에게 감사 인사를 전했다고 보도했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1ERmgyeHlvY1RDejZtSzIzNzJpR2M2NkVoRXdJdm5WcjlzS3V0b05MQzFEdDFmZmlRSm5URGxFSVBia25lbkNvYlhETkNBUFc4djhjS1AwZ3ZHQTJIRmJUdjlXUHZWTnFRN1NkLTc0a0xSOWctT1E?oc=5"
+    }
+  ],
+  "brief_ko": "김태룡 단장, 작별 인사"
+}

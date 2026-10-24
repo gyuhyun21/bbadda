@@ -1,0 +1,28 @@
+{
+  "id": "youtube-cd3bb68e",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "LGTWINSTV",
+  "url": "https://www.youtube.com/watch?v=DW01mvUwoYY",
+  "title": "다시 날아오를 우리를 위해ㅣ2026 LG트윈스",
+  "published_at": "2026-10-24T03:00:38Z",
+  "collected_at": "2026-10-24T03:38:14.072Z",
+  "summary_ko": "LG 공식 채널이 '다시 날아오를 우리를 위해'라는 제목의 2026 LG트윈스 영상을 올렸다.",
+  "metrics": {
+    "views": 4821,
+    "likes": 665,
+    "comments": 137
+  },
+  "scores": {
+    "hot": 85,
+    "relevance": 50
+  },
+  "sentiment": "neutral",
+  "brief_ko": "LG 2026 시즌 영상 공개"
+}

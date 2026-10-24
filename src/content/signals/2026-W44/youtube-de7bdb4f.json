@@ -1,0 +1,24 @@
+{
+  "id": "youtube-de7bdb4f",
+  "issue": "2026-W44",
+  "module": "league",
+  "teams": [],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=YKw4jmEwZcE",
+  "title": "결과가 좋지 않았을 때는? 리뷰! 장성호의 타격 티칭🧑‍🏫",
+  "published_at": "2026-10-24T01:25:14Z",
+  "collected_at": "2026-10-24T03:38:14.072Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 978,
+    "likes": 12,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 47,
+    "relevance": 30
+  },
+  "sentiment": "neutral"
+}

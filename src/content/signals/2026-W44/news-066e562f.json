@@ -1,0 +1,33 @@
+{
+  "id": "news-066e562f",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스타뉴스",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1TOWotcjJERjU4UTRMZTVKbnotUnFad3cwMnlRRkJidGU3WGVxVUx1ZjV5YXFwQ1NuZTBxNUJmWWRXejFOSVlsZ3JKenNGWDN1M1lyVFpLM2dXRjZVMkFDN1NZTGEwX19HcWdUQkY2cnZncHZiLXc?oc=5",
+  "title": "PO 1차전 선발 투수 공개! 페덱vs네일 빅뱅 성사→2차전은 후라도vs올러 유력",
+  "published_at": "2026-10-24T00:38:29.000Z",
+  "collected_at": "2026-10-24T03:38:14.072Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 99,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBBQ09PanZrZFotNmFuNHpfQzNiZnhBMEI4dXBTdUVicGtJcTNXbDhkbFlPaUlGVU1HMEM5cU9xOEYwZVZ0TGhlYTFzb1NNbWxzTHdRUnhxUC1kanV3SEV6YWxZR1E0R1BVOUxZWUs1ONIBb0FVX3lxTFBBQ09PanZrZFotNmFuNHpfQzNiZnhBMEI4dXBTdUVicGtJcTNXbDhkbFlPaUlGVU1HMEM5cU9xOEYwZVZ0TGhlYTFzb1NNbWxzTHdRUnhxUC1kanV3SEV6YWxZR1E0R1BVOUxZWUs1OA?oc=5"
+    },
+    {
+      "source_name": "https://spt.co.kr/",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5IWFJZTm1kVGN3Q2ZydjNmRmROSlpqOGpjaGJ3aUd6d1JTc3B6VTh4R2s2LTJmU0hPOXo1dmx3ODJLR1BTQUJoWXgwTFQ3MGdWUk5pSjQ1aTF2dEk3?oc=5"
+    }
+  ]
+}

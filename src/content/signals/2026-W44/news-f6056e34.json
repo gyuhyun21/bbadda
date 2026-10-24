@@ -1,0 +1,23 @@
+{
+  "id": "news-f6056e34",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "오마이스타",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB1SWVITU9jdmctZm82OHVoeENLa005d2p0Mk83QXhoRzJxRFBZMUwwbFZEZ2ZXVHQta3ZNalZtbXFkY3BScFJqaThpSThpTVU1ei1GS2w5TmZXeTJHZWZ4VFBvMjE1YkI1Wk5sQmo4Y0FnUXFLZ0pfYmpBVXVnZw?oc=5",
+  "title": "김도영과 '삼나쌩' 타선 믿는 KIA... '가을야구 호랑이 징크스' 깨야 할 삼성",
+  "published_at": "2026-10-24T01:55:00.000Z",
+  "collected_at": "2026-10-24T03:38:14.072Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "youtube-0d330202",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "youtube",
+  "source_name": "ひらのすけ히라노스케平乃助",
+  "url": "https://www.youtube.com/watch?v=6PzJVVUTV54",
+  "title": "SSG LANDERS 랜더스 #35 ハン ユソム 한유섬　選手応援歌",
+  "published_at": "2026-10-23T16:00:11Z",
+  "collected_at": "2026-10-24T03:38:14.072Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 16,
+    "likes": 3,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 55,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "community-121d6227",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 SPOTLIGHT",
+  "url": "https://blog.naver.com/agentwannabe/224451963739",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/1XyQ7xlki50",
+  "title": "‘롯데 새로운 좌완 필승조의 등장?’ 입단 후 비약적인 구속 상승을 이뤄낸, 롯데 이영재(KBO)",
+  "published_at": "2026-10-24T09:50:00.000+09:00",
+  "collected_at": "2026-10-24T03:38:14.072Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "Naver Blog",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdkpOTDg4MjQ1emFHb290YTJtM0VfSHdSbmltdGdJVFlJSW5NcmU1cHh0ZkRWQmJlb2p5azh2NWpFM2tfcUFyNFZxNlltbUhWMDFQX3ZLRHVjb210bG9kYzFTSVlQZ0xoQkZGT3hqNHZ3ZDhXdU95TnNyVHNoLXg5NVJBQ1pjRmdYSnRlOU53M3hVdExC?oc=5"
+    }
+  ]
+}

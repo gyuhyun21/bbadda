@@ -1,0 +1,33 @@
+{
+  "id": "community-3beb8cd9",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 ChuckPark한 삶",
+  "url": "https://blog.naver.com/chuck_park/224452100107",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/EYOVKOQkLys",
+  "title": "[KBO 롯데 자이언츠 이야기] '11일만에 통보' '3년 계약 종료' 롯데 자이언츠 김태형 감독 결국 떠난다...",
+  "published_at": "2026-10-24T11:38:00.000+09:00",
+  "collected_at": "2026-10-24T03:38:14.072Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 84,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "스포츠조선",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5NS3dWaUZxMEVreS0wVVFEOGFJUFFmd2VOTUlrOGtTZ1ZvVzJ6c0xqZFJTLWtEclJkd3BheDI3Z2RLUDJuR003QXRWcWlua0JrelVXcXVNb0N2YUdXYnBUckFBR3JJNlJKcG9PNFpXY3hZX0wxYlRTTk5TbWZaQQ?oc=5"
+    },
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdlJPd2R1UXNlZlc2TklmOVUwN2dGOWs0WXNJaFBGRjA5Sk9LaXlPMU1KaUxCbzFzcF9TYUdLNWV3ZFJKU3cxclpjSW81ZkRIYzJJWF9fVU5weC1LbWN2SVJTdW52R1R0SF9sQ2tyTU9aRFFEVVJhRm5aTm81M0NseEtuZw?oc=5"
+    }
+  ]
+}

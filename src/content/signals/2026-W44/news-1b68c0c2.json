@@ -1,0 +1,23 @@
+{
+  "id": "news-1b68c0c2",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "https://www.2news.co.kr/",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5YTGRaelh5WVY0c044blRxdHB2R1NQVC15QndnNVVzSmtBWTdKWGZHOXlXbkhDb0l0a3VLLUk2b1ZrbWRlQm9PaTJGam9OWDFLc2pYbk43NkpWQmRUTE1nMnVWVHY1M1Ix?oc=5",
+  "title": "포테토칩 쏟아진 김도영, 가을야구 대박에 웃는 식품업계",
+  "published_at": "2026-10-24T02:33:00.000Z",
+  "collected_at": "2026-10-24T03:38:14.072Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

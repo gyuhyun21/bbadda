@@ -1,0 +1,25 @@
+{
+  "id": "community-14366abc",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 축구,야구,농구,골프",
+  "url": "https://blog.naver.com/sunyeaea/224452111847",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/JqYdz68F0vL",
+  "title": "플레이오프 1차전 비 와도 열릴까, 삼성 페덱vs기아 네일 우천취소시 삼성0승6패 징크스",
+  "published_at": "2026-10-24T11:53:00.000+09:00",
+  "collected_at": "2026-10-24T03:38:14.072Z",
+  "summary_ko": "블로그가 PO 1차전이 비 와도 열릴지, 우천 취소 시 삼성이 0승 6패라는 징크스를 다룬 글이다.",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "PO 1차전 우천 취소 징크스"
+}

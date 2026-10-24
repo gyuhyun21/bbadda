@@ -1,0 +1,23 @@
+{
+  "id": "community-43a80b37",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 쓰포띠비",
+  "url": "https://spotivi.tistory.com/139",
+  "title": "2026시즌 KBO리그 연봉 순위 산정 기준과 주요 지표 이해하기",
+  "published_at": "2026-10-24T01:24:39.000+09:00",
+  "collected_at": "2026-10-24T03:38:14.072Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

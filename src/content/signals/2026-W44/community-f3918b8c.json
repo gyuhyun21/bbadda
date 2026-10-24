@@ -1,0 +1,30 @@
+{
+  "id": "community-f3918b8c",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 태정의 블로그",
+  "url": "https://blog.naver.com/totoro432/224452030031",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/Fo7xHTuh4c6",
+  "title": "삼성 vs KIA 플레이오프 내일 개막! - 36년 만의 PO 맞대결, 1차전 페덱 vs 네일 선발부터 일정·예매...",
+  "published_at": "2026-10-24T10:00:00.000+09:00",
+  "collected_at": "2026-10-24T03:38:14.072Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "KBS 뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9zVlJrWFIyWW1GdTFweTFJX3RPNGlseHhYaW5jc3FiN2Q0dmJrN3hfR2U0cGJYRHA0TjVXRGRWZTVFZ1ZweTBzOGJLR0k0eC1kN212ajFqRDFKc21iWF9EQ0R3WGUtZw?oc=5"
+    }
+  ]
+}

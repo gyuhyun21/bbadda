@@ -1,0 +1,28 @@
+{
+  "id": "youtube-5377a513",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "KBO Talk 박현서",
+  "url": "https://www.youtube.com/watch?v=03BsDCWAAnI",
+  "title": "PO 1차전 프리뷰 | KIA 타이거즈 vs 삼성 라이온즈 | 네일·페덱 선발 맞대결 | 10.25.(일) 14:00",
+  "published_at": "2026-10-24T02:25:35Z",
+  "collected_at": "2026-10-24T03:38:14.072Z",
+  "summary_ko": "KBO Talk 박현서 채널이 KIA 대 삼성 PO 1차전 프리뷰를 올렸다. 네일·페덱 선발 맞대결이 25일(일) 14시에 열린다고 소개했다.",
+  "metrics": {
+    "views": 171,
+    "likes": 17,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "PO 1차전 프리뷰, 25일 14시"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "news-aa52744a",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스핌",
+  "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0yNURnTm5IS1ZvSkhEZTBUcDdLQXdVaXQ2SHFubF9kMWZHTVZFOHF5dmI2OWdoMUtrVWVBNXpfaTVyX25QR0RUb1NjQlRJN19HRElhdHplbE9sYXJJ?oc=5",
+  "title": "[PO 포커스] '다사다난' KIA 좌완 이의리, '좌타 즐비' 삼성 상대로 가치 증명할까",
+  "published_at": "2026-10-24T02:24:00.000Z",
+  "collected_at": "2026-10-24T03:38:14.072Z",
+  "summary_ko": "뉴스핌은 KIA 좌완 이의리가 좌타자가 즐비한 삼성을 상대로 가치를 증명할지 짚었다. 기사는 이의리를 '다사다난'했던 투수로 소개했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "이의리, 좌타 삼성 상대 시험대"
+}

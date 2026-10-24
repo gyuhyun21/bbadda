@@ -1,0 +1,23 @@
+{
+  "id": "news-1a432b60",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "엑스포츠뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9oYnRCbU1wRV85QTMtY1puUlhVOHdRM0NuMTVUQUVIX0lFLUhCZkpqOF9Pb3Z0X1A3T3Z5Y0RLRXlaZHlWRzJXM25qbmtaQXVQcDNTUw?oc=5",
+  "title": "김도영 칭찬, 해도 해도 끝이 없네!…\"MVP 손색 없어, 배울 점 많아, 내년이 더 기대\"→\"같은 팀인게 감사, 홈런 비결 알려줘라\"",
+  "published_at": "2026-10-23T17:00:29.000Z",
+  "collected_at": "2026-10-24T03:38:14.072Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 72,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

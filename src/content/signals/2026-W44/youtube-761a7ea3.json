@@ -1,0 +1,26 @@
+{
+  "id": "youtube-761a7ea3",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "youtube",
+  "source_name": "큠팬",
+  "url": "https://www.youtube.com/watch?v=C6N3IZbbTlw",
+  "title": "#키움히어로즈 #쿰팬 #직관",
+  "published_at": "2026-10-24T02:37:21Z",
+  "collected_at": "2026-10-24T03:38:14.072Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 419,
+    "likes": 4,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 39,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

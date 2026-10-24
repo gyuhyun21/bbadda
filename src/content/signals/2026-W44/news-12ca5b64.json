@@ -1,0 +1,23 @@
+{
+  "id": "news-12ca5b64",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE96am5uY19FZmxodHNPajN5QTZsc0VSdUdTbDVJVDl0XzJvWmFNZ20tMm1wZEpmRmpxdTJ0ZVR6d1VNUjZjbklpbzRsb01PLWR1X24xa0xpbnhRZUNrTzU1UE5uc3lJRUFTN1dPYWlyTdIBb0FVX3lxTE96am5uY19FZmxodHNPajN5QTZsc0VSdUdTbDVJVDl0XzJvWmFNZ20tMm1wZEpmRmpxdTJ0ZVR6d1VNUjZjbklpbzRsb01PLWR1X24xa0xpbnhRZUNrTzU1UE5uc3lJRUFTN1dPYWlyTQ?oc=5",
+  "title": "추신수 차남, 美 명문 오클라호마대 진학 확정! \"괴물급 타구속도에 강견\" 유망주 최고 등급",
+  "published_at": "2026-10-23T21:36:40.000Z",
+  "collected_at": "2026-10-24T03:38:14.072Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

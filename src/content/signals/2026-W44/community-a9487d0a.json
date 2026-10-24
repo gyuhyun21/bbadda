@@ -1,0 +1,24 @@
+{
+  "id": "community-a9487d0a",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 10년차 직장인의 끄적끄적",
+  "url": "https://blog.naver.com/count-/224452073509",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/1xtYGVJQmk7",
+  "title": "“48연승 안세영, 오늘 또 뛴다” 프랑스오픈 4강 경기시간·상대·중계·결승 일정 총정리",
+  "published_at": "2026-10-24T11:02:00.000+09:00",
+  "collected_at": "2026-10-24T03:38:14.072Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

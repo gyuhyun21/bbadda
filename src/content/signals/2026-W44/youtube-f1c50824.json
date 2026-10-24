@@ -1,0 +1,26 @@
+{
+  "id": "youtube-f1c50824",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "꿀반장TV",
+  "url": "https://www.youtube.com/watch?v=3hGbbQ-Avxo",
+  "title": "하주석 볼넷의 가치 #기아타이거즈 #하주석",
+  "published_at": "2026-10-24T00:39:05Z",
+  "collected_at": "2026-10-24T03:38:14.072Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 6345,
+    "likes": 259,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 79,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

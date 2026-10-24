@@ -1,0 +1,25 @@
+{
+  "id": "news-9d2ef828",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "news",
+  "announcement": true,
+  "source_name": "스포츠조선",
+  "url": "https://www.sportschosun.com/baseball/2026-10-24/202610240100150870009824",
+  "title": "[오피셜] 'KBO 역대 최초 기세' KIA, 삼성 68.8% 무력화시킬까…PO 1차전, 이변 없는 에이스 매치 성사됐다",
+  "published_at": "2026-10-24T01:45:10.000Z",
+  "collected_at": "2026-10-24T03:38:14.072Z",
+  "summary_ko": "스포츠조선은 KIA와 삼성의 PO 1차전 선발이 네일 대 페덱으로 공식 발표됐다고 전했다. 기사는 에이스 매치가 성사됐다고 짚었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 83,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "PO 1차전 선발, 네일 대 페덱"
+}

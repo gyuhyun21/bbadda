@@ -1,0 +1,24 @@
+{
+  "id": "community-dad85717",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&page=8&document_srl=10475458720",
+  "title": "창기오빠 올해 수비는 어땠음 - 야구",
+  "published_at": "2026-10-23T04:38:14.072Z",
+  "collected_at": "2026-10-24T03:38:14.072Z",
+  "summary_ko": "",
+  "excerpt": "... 웃음후보트윈스 코너 외야로도 괜찮지? [레벨:34] 웃음후보트윈스 22 분 ... 총재 대안 이종훈씨인데 따지고보면 LG…",
+  "metrics": {},
+  "scores": {
+    "hot": 60,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

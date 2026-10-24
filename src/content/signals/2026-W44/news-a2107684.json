@@ -1,0 +1,24 @@
+{
+  "id": "news-a2107684",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "조선일보",
+  "url": "https://www.chosun.com/sports/baseball/2026/10/24/HBZSCXI4ANAHJJV4KQYYPYJFVA/",
+  "title": "기다린 삼성, 달아오른 KIA…36년 만에 PO서 맞붙는다",
+  "published_at": "2026-10-24T01:01:44.000Z",
+  "collected_at": "2026-10-24T03:38:14.072Z",
+  "summary_ko": "조선일보는 삼성과 KIA가 36년 만에 플레이오프에서 맞붙는다고 전했다. 2주를 기다린 삼성과 기세가 오른 KIA의 대결이라고 짚었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 83,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "36년 만의 KIA-삼성 PO"
+}

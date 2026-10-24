@@ -1,0 +1,29 @@
+{
+  "id": "community-54db6c4b",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 .",
+  "url": "https://blog.naver.com/247sports/224451795454",
+  "title": "확률 77.1% 잡는다, KIA 네일 vs 삼성 페덱 가을야구 1차전 맞대결",
+  "published_at": "2026-10-24T08:20:00.000+09:00",
+  "collected_at": "2026-10-24T03:38:14.072Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 82,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "데일리안",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5yamR0TUpHdGhEME5tTGQ1TWhsbGd6REEtVDh0Rld6cmduQldkalB2MkhTY1VJLXpPUFYwX0RHaGpIcERLeTBEM1VSM3k2ZnFON056Mw?oc=5"
+    }
+  ]
+}

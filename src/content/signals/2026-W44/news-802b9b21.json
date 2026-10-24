@@ -1,0 +1,23 @@
+{
+  "id": "news-802b9b21",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스1",
+  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1id0k0VTB5V2FBMVlWdW5xSFdYR01CWXZ1eUhlOUUzQVQzbk13N0htclZqU1dRQU5NbFY5OG13UUlsYlhDVElaNXFYV2xOT1VQOUMtMnVoZw?oc=5",
+  "title": "상대 에이스에 강했던 안방마님…삼성 강민호 vs KIA 김태군[PO]",
+  "published_at": "2026-10-23T23:00:00.000Z",
+  "collected_at": "2026-10-24T03:38:14.072Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

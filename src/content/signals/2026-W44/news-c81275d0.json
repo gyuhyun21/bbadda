@@ -1,0 +1,23 @@
+{
+  "id": "news-c81275d0",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "대구MBC",
+  "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1wdEtUclN1MENiY3ZjUXdHakZ5bFdqR3owUzBybU90R3cyUkF5enZZWHFqVHRxMUlzNVZfRk9NSnpoRUwyVU1VQzN3dU8?oc=5",
+  "title": "[스포츠+] 2주 간 기다린 삼성라이온즈···박진만 감독 \"힘 대 힘, 대결 예고\"",
+  "published_at": "2026-10-23T23:40:00.000Z",
+  "collected_at": "2026-10-24T03:38:14.072Z",
+  "summary_ko": "대구MBC는 2주를 기다린 삼성 박진만 감독이 PO를 앞두고 힘 대 힘의 대결을 예고했다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "박진만 감독, PO 앞 각오"
+}

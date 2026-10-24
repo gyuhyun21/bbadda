@@ -1,0 +1,24 @@
+{
+  "id": "news-957106fb",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "이데일리",
+  "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNalk3eS1FUnpSQkxfYjJWUEM4ZmE4eV9EcWh2YWxmNUFRbWQtNjJQUi1yRWpxdVc4dWo3Tzh5OVJ5bGxhVnBfNnZxNG9qbzB3M1pwM2dMaV9LWkIwNjBNcDhtMGwwREczcUlrWmFlSWE1X3lSYnh0WGxpTGthdTZMLQ?oc=5",
+  "title": "‘우승 청부사’ 페덱 vs ‘가을 에이스’ 네일...'77.1% 확률 잡아라'",
+  "published_at": "2026-10-24T01:29:01.000Z",
+  "collected_at": "2026-10-24T03:38:14.072Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 83,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}
