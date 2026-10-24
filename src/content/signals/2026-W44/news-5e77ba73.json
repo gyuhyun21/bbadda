@@ -1,0 +1,22 @@
+{
+  "id": "news-5e77ba73",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "조선일보",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcWtkSUFsbDIwZTJCOFRTMUVmaEY5T3NsTDRvdmJEdXkzM2ppR0tlRDBwVXpKY190SVN5eE1yMW1sUmI1MGFzWlJQZDY4Mk1BQ3pmaTZzUzBBMUs4bjdiZUFURENjY0dzVTdvUnVaRWFDRURtZDFIV292M3J3TjF2enU0UQ?oc=5",
+  "title": "포는 반만 돌아왔는데 불펜은 차상마가 빠졌다, 삼성, 1차전에 모든 걸 걸어야 하는 이유",
+  "published_at": "2026-10-24T16:14:00.000Z",
+  "collected_at": "2026-10-24T21:38:10.916Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "community-95e66657",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "엠엘비파크",
+  "url": "https://mlbpark.donga.com/mp/b.php?id=202610240119624520&p=61&b=kbotown&m=view&select=spf&query=%EB%A1%AF%EB%8D%B0&site=donga.com",
+  "title": "이 팀의 문제점 감독이 4년이상을 못함(반박시 님들 말 다맞음)",
+  "published_at": "2026-10-23T15:00:00.000Z",
+  "collected_at": "2026-10-24T21:38:10.916Z",
+  "summary_ko": "",
+  "excerpt": "... 삼성 · NC · kt · 롯데 · KIA · 두산 · 키움 ·…",
+  "metrics": {},
+  "scores": {
+    "hot": 57,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

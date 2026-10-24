@@ -1,0 +1,24 @@
+{
+  "id": "community-9be7683b",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 매치노트의 블로그",
+  "url": "https://blog.naver.com/aboutworld_/224452767907",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/JY0YYalOylU",
+  "title": "[공지] [KBO]2026 삼성 KIA 플레이오프 1차전 승부예측｜선발투수·예상스코어·8.5점 언더오버 분석",
+  "published_at": "2026-10-25T05:49:00.000+09:00",
+  "collected_at": "2026-10-24T21:38:10.916Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

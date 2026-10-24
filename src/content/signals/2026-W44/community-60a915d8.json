@@ -1,0 +1,24 @@
+{
+  "id": "community-60a915d8",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 ENTJ 지니의 블로그",
+  "url": "https://blog.naver.com/sotoss/224452393027",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/HkewprKVXf6",
+  "title": "프로야구 시청 티빙 요금제 비교 2026｜광고형·베이직·스탠다드·프리미엄 가격 총정리(feat 야구는...",
+  "published_at": "2026-10-24T18:32:00.000+09:00",
+  "collected_at": "2026-10-24T21:38:10.916Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "youtube-e7074c86",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "youtube",
+  "source_name": "베어스 화이팅",
+  "url": "https://www.youtube.com/watch?v=MdYBu6XHT5k",
+  "title": "2026년 두산베어스 최고의 선수는?",
+  "published_at": "2026-10-24T14:41:47Z",
+  "collected_at": "2026-10-24T21:38:10.916Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 20,
+    "likes": 4,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 58,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

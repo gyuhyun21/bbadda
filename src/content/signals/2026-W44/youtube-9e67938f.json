@@ -1,0 +1,26 @@
+{
+  "id": "youtube-9e67938f",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "youtube",
+  "source_name": "90년부터LG팬",
+  "url": "https://www.youtube.com/watch?v=UDfktHDxPUE",
+  "title": "LG 팬이 절대 못 잊는 장면 순위",
+  "published_at": "2026-10-24T15:00:26Z",
+  "collected_at": "2026-10-24T21:38:10.916Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1085,
+    "likes": 5,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 46,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

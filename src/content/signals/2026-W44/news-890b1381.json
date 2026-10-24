@@ -1,0 +1,28 @@
+{
+  "id": "news-890b1381",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "재경일보",
+  "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1NXzc2V2ZaV21aQUZXYUtac3h0N1BYeEF5YTgtZy1OZHB4RlJWZW5lV3pTdFpzOHJYVFVwUGRNamg3bVNzcU9qS0VfZw?oc=5",
+  "title": "삼성 김재윤 우측 전거근 손상 PO 엔트리 제외 : 스포츠",
+  "published_at": "2026-10-24T06:30:32.000Z",
+  "collected_at": "2026-10-24T21:38:10.916Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 79,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "엑스포츠뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE44Q3R4LVNnY3Q5Q2RNRGFZa2VQWTlVLUdFaWNLRWxHVTNyYVo4WF81dFBkWU1HZ0JpTjJYdHM1cFJuT2pnNnk3UC02SnNPZU9Gb2xXdw?oc=5"
+    }
+  ]
+}

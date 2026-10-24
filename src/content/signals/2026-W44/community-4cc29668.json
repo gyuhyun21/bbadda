@@ -1,0 +1,24 @@
+{
+  "id": "community-4cc29668",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 오늘의 정보노트",
+  "url": "https://blog.naver.com/dailyinsight26/224452711055",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/DmISqv4hyiC",
+  "title": "2026 KBO 플레이오프 삼성 KIA 일정·중계와 김재윤 부상 엔트리 변수",
+  "published_at": "2026-10-25T03:21:00.000+09:00",
+  "collected_at": "2026-10-24T21:38:10.916Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

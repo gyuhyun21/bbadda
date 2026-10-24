@@ -1,0 +1,23 @@
+{
+  "id": "community-1643f903",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 baseball reference",
+  "url": "https://blog.naver.com/r9644328/224451998019",
+  "title": "서건창, 레이예스 211안타에 리스펙…“대단하다는 생각밖에”",
+  "published_at": "2026-10-24T10:09:00.000+09:00",
+  "collected_at": "2026-10-24T21:38:10.916Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 61,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

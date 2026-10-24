@@ -1,0 +1,26 @@
+{
+  "id": "youtube-4682c6e3",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "source_name": "이글스 타임캡슐",
+  "url": "https://www.youtube.com/watch?v=Sl9HA6_wjo8",
+  "title": "선 하나 차이로 지나가는 미친 제구력... 베테랑 양의지 상대로 존 지배해 버린 조동욱 #한화이글스 #조동욱 #양의지",
+  "published_at": "2026-10-24T13:23:54Z",
+  "collected_at": "2026-10-24T21:38:10.916Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 3445,
+    "likes": 33,
+    "comments": 2
+  },
+  "scores": {
+    "hot": 57,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

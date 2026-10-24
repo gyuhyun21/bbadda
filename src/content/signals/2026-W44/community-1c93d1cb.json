@@ -1,0 +1,24 @@
+{
+  "id": "community-1c93d1cb",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 세상의소리",
+  "url": "https://blog.naver.com/aytekin_diary/224452760121",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/3q8mTu92Q9c",
+  "title": "태풍 참피 북상 속 KIA 가을야구와 삼성 우승 키 플레이어의 운명은?",
+  "published_at": "2026-10-25T05:22:00.000+09:00",
+  "collected_at": "2026-10-24T21:38:10.916Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

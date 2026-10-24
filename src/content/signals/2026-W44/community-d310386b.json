@@ -1,0 +1,23 @@
+{
+  "id": "community-d310386b",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 갓플베 : 갓키 플레이 베이스",
+  "url": "https://blog.naver.com/yfg7459/224452557901",
+  "title": "\"정수빈 당구선수\" 4천만원 우승 직후 2대3 역전패, 무슨 일이?",
+  "published_at": "2026-10-25T04:00:00.000+09:00",
+  "collected_at": "2026-10-24T21:38:10.916Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

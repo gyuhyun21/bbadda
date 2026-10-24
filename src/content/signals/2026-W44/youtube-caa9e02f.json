@@ -1,0 +1,26 @@
+{
+  "id": "youtube-caa9e02f",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "youtube",
+  "source_name": "리코더쌤",
+  "url": "https://www.youtube.com/watch?v=JOUZSWPwGpw",
+  "title": "2026 NC 다이노스 선수 응원가 리코더 모음",
+  "published_at": "2026-10-24T10:30:00Z",
+  "collected_at": "2026-10-24T21:38:10.916Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 363,
+    "likes": 4,
+    "comments": 2
+  },
+  "scores": {
+    "hot": 49,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

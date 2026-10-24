@@ -1,0 +1,26 @@
+{
+  "id": "youtube-0366af45",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "Freedom-d tv",
+  "url": "https://www.youtube.com/watch?v=zeMMkHZTaQw",
+  "title": "🦁 사자냐 🐯 호랑이냐, 그것이 문제로다! #야구 #삼성라이온즈 #프로야구",
+  "published_at": "2026-10-24T20:44:16Z",
+  "collected_at": "2026-10-24T21:38:10.916Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 613,
+    "likes": 9,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 50,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "community-c2ae783e",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 오프더레코드 스포츠",
+  "url": "https://blog.naver.com/offtherecordsports/224452322567",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/IjXPcvEr4YM",
+  "title": "1,000안타까지 8개 남기고 방출된 고종욱, 마지막 8개는 어느 팀 유니폼으로 칠까?",
+  "published_at": "2026-10-25T00:00:00.000+09:00",
+  "collected_at": "2026-10-24T21:38:10.916Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

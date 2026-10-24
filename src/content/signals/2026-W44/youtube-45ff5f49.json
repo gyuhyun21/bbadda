@@ -1,0 +1,27 @@
+{
+  "id": "youtube-45ff5f49",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "주인공연구소",
+  "url": "https://www.youtube.com/watch?v=hVijdlfW50w",
+  "title": "현재진행형 kbo레전드#기아#김도영#기아타이거즈#가을야구#lg트윈스",
+  "published_at": "2026-10-24T19:30:30Z",
+  "collected_at": "2026-10-24T21:38:10.916Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 4228,
+    "likes": 100,
+    "comments": 3
+  },
+  "scores": {
+    "hot": 69,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

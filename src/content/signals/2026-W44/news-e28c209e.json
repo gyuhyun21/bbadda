@@ -1,0 +1,23 @@
+{
+  "id": "news-e28c209e",
+  "issue": "2026-W44",
+  "module": "league",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "JTBC",
+  "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ZR0dreklOaGRtc2Y1S0xjVEQ5RDFiZ2pNY2ZxRElGNi1TaGZ0clE5dUYwemd2ZTVFUWpTZEtYVEdFNWk0Z2hRSE1DVGFGV0FRZ2c?oc=5",
+  "title": "비거리 125m, 맞는 순간 다 알았다…KBO 홈런 1위 김도영 또 터졌다",
+  "published_at": "2026-10-24T11:52:08.000Z",
+  "collected_at": "2026-10-24T21:38:10.916Z",
+  "summary_ko": "JTBC는 KBO 홈런 1위 KIA 김도영이 비거리 125m 홈런을 또 터뜨렸다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 30
+  },
+  "sentiment": "positive",
+  "team": "kia",
+  "brief_ko": "김도영, 125m 홈런"
+}

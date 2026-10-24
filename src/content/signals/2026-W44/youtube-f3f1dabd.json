@@ -1,0 +1,26 @@
+{
+  "id": "youtube-f3f1dabd",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "youtube",
+  "source_name": "내꿈은롯데우승",
+  "url": "https://www.youtube.com/watch?v=7ooruFvaUrc",
+  "title": "롯데를 떠나는 김태형 감독의 3년 | 우승 청부사가 남긴 것과 남은 숙제",
+  "published_at": "2026-10-24T11:41:48Z",
+  "collected_at": "2026-10-24T21:38:10.916Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 165,
+    "likes": 3,
+    "comments": 3
+  },
+  "scores": {
+    "hot": 60,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

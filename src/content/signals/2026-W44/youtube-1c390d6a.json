@@ -1,0 +1,26 @@
+{
+  "id": "youtube-1c390d6a",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "youtube",
+  "source_name": "두부는네모",
+  "url": "https://www.youtube.com/watch?v=GtHnrG3ZTjs",
+  "title": "야구 지분이 상당한 일상 브이로그 컴백 ⚾️ | kt위즈파크 직관, 잠실 산책, 야구 굿즈 언박싱",
+  "published_at": "2026-10-24T14:23:47Z",
+  "collected_at": "2026-10-24T21:38:10.916Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 3,
+    "likes": 2,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 48,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

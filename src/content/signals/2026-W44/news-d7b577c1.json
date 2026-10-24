@@ -1,0 +1,22 @@
+{
+  "id": "news-d7b577c1",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "마이데일리",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5JVTQ1UndpaTFSNEJFMW9IdGVmRm9xYWVjLVF6bTc2bHJwOUZEWmVTLTJTQ2lxNXYwMmhlWnlEMVJYd251TDVzMGdabE9reWZrcWZENUVJOEJoU1p5RGx6VQ?oc=5",
+  "title": "'죽으라는 법은 없다' 삼성, SV왕 엔트리 탈락 속 위안→구자욱 힘줄 부상 이겨냈다…변수는 '최형우'",
+  "published_at": "2026-10-24T16:11:00.000Z",
+  "collected_at": "2026-10-24T21:38:10.916Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

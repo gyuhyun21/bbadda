@@ -1,0 +1,22 @@
+{
+  "id": "news-546f8b0d",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "매일경제",
+  "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1DMlZyLVJNenpnajdxY3I0djF5djFLVlJjWHdGUkFya0tmTV9sNzNETjR6bklzeng1bXR1VTJTb3pLa1VLZUE?oc=5",
+  "title": "‘삼성 어쩌나’…김재윤, 우측 전거근 부상으로 PO 출전 불가→“약 2주간 휴식 필요”",
+  "published_at": "2026-10-24T05:12:31.000Z",
+  "collected_at": "2026-10-24T21:38:10.916Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 62,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

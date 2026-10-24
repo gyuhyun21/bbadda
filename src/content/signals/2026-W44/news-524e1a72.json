@@ -1,0 +1,23 @@
+{
+  "id": "news-524e1a72",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "엑스포츠뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5BMHVkMkJmRkRHdFNHT2NndTcyYmdraUE5QVo4bl9UcEZzV1RKYVpZX0xiRTVJYWdNdzJWLTNNZHRjU2dTX2F5anNiV0NXRWwtMEVWZA?oc=5",
+  "title": "태풍 참피 빠르게 북상! KIA 웃고 삼성 우나?…PO 1차전 '진짜 우천 취소' 위기→대구 25일 오후 6시까지 종일 비 예보",
+  "published_at": "2026-10-24T15:03:47.000Z",
+  "collected_at": "2026-10-24T21:38:10.916Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

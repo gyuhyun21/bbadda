@@ -1,0 +1,23 @@
+{
+  "id": "community-92228014",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 스포링크",
+  "url": "https://blog.naver.com/link_wow/224452293052",
+  "title": "김혜성 \"예측 불가\" 발언에 미국 언론 반박…챔피언십 엔트리 밀린 진짜 이유",
+  "published_at": "2026-10-24T17:49:00.000+09:00",
+  "collected_at": "2026-10-24T21:38:10.916Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

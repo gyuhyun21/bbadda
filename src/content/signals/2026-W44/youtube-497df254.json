@@ -1,0 +1,27 @@
+{
+  "id": "youtube-497df254",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "youtube",
+  "source_name": "가든든",
+  "url": "https://www.youtube.com/watch?v=WzoJLg2_fCM",
+  "title": "너를 만나 정말 다행이라고 얘기해 줄게🍀  |  NC DINOS 팬메이드 영상  |  🎵 TWS - hey! hey!",
+  "published_at": "2026-10-24T15:26:58Z",
+  "collected_at": "2026-10-24T21:38:10.916Z",
+  "summary_ko": "팬 채널이 NC 선수들을 담은 팬메이드 영상을 올렸다.",
+  "metrics": {
+    "views": 31,
+    "likes": 9,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 61,
+    "relevance": 50
+  },
+  "sentiment": "neutral",
+  "brief_ko": "NC 팬메이드 영상"
+}

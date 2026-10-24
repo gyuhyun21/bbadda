@@ -1,0 +1,28 @@
+{
+  "id": "youtube-9af4da81",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "NC 다이노스",
+  "url": "https://www.youtube.com/watch?v=8GCO58-in3M",
+  "title": "한별이와 함께하는(?) 웜업 👀 | CAMP 1 창원",
+  "published_at": "2026-10-24T12:00:05Z",
+  "collected_at": "2026-10-24T21:38:10.916Z",
+  "summary_ko": "NC 공식 채널이 창원에서 열린 CAMP 1 웜업 영상을 올렸다.",
+  "metrics": {
+    "views": 10632,
+    "likes": 296,
+    "comments": 70
+  },
+  "scores": {
+    "hot": 83,
+    "relevance": 50
+  },
+  "sentiment": "neutral",
+  "brief_ko": "NC, 창원 CAMP 1 웜업"
+}

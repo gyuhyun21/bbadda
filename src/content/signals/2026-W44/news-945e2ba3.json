@@ -1,0 +1,23 @@
+{
+  "id": "news-945e2ba3",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "announcement": true,
+  "source_name": "엑스포츠뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5obE5ickRtNUxFLTR3MVhaV1U5U2pKRDNJeGI0NTJVc3k3RENIT2ZGRVJaQy0tdVBYRmI1YWk3LXoxRmxaZXdnUTZZNnJFclFweHR5Ng?oc=5",
+  "title": "'삼성 날벼락' 진짜 큰일 났다…김재윤 우측 근막 출혈 부상→2주 휴식 필요→PO 못 던진다 [오피셜]",
+  "published_at": "2026-10-24T05:28:03.000Z",
+  "collected_at": "2026-10-24T21:38:10.916Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 62,
+    "relevance": 80
+  },
+  "sentiment": "negative"
+}

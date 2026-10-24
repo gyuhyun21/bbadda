@@ -1,0 +1,23 @@
+{
+  "id": "community-d53a0189",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 스포존 (SpoZone)",
+  "url": "https://blog.naver.com/spozone_official/224452560193",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/AEwxU0U15tT",
+  "title": "\"KT 감독이기 전에 해태 레전드\" 데뷔하자마자 4년 연속 15승, 3년 연속 200이닝, 감독님이기 전에...",
+  "published_at": "2026-10-24T22:34:00.000+09:00",
+  "collected_at": "2026-10-24T21:38:10.916Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

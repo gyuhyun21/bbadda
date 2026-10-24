@@ -1,0 +1,25 @@
+{
+  "id": "news-3ab5a360",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "마이데일리",
+  "url": "https://mydaily.co.kr/page/view/2026102416204637583",
+  "title": "'무려 5856일' 43세 최형우, 삼성을 한국시리즈로 이끌까…타율 1할9푼인데, 미션명 : 친정 KIA 울려라",
+  "published_at": "2026-10-24T13:41:00.000Z",
+  "collected_at": "2026-10-24T21:38:10.916Z",
+  "summary_ko": "마이데일리는 43세 삼성 최형우가 타율 1할9푼에 그친 가운데 친정 KIA를 상대한다고 전했다. 기사는 삼성을 한국시리즈로 이끌지 주목했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 97,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "최형우, 친정 KIA 상대",
+  "hook_ko": "타율 1할9푼 최형우, 친정 KIA 울릴까"
+}

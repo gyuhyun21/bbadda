@@ -1,0 +1,27 @@
+{
+  "id": "youtube-ccbfe00d",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "lg"
+  ],
+  "source_type": "youtube",
+  "source_name": "NUDETV 진행자 클로이",
+  "url": "https://www.youtube.com/watch?v=AM-OA1OiPCk",
+  "title": "김도영 145m 만루홈런! 일본 팬 “한신으로 와”…MLB도 주목한 타자 | KIA LG 준PO",
+  "published_at": "2026-10-24T13:21:00Z",
+  "collected_at": "2026-10-24T21:38:10.916Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1556,
+    "likes": 7,
+    "comments": 2
+  },
+  "scores": {
+    "hot": 49,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

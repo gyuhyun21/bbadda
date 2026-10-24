@@ -1,0 +1,23 @@
+{
+  "id": "news-6f6d107f",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "SPOTV NEWS",
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBocVBCQ2N4RHYtdXYtMmtzaTJBaVI0UDBVdU84eUMwb2hqT2lGdHVnaW1hbExlMjZUSTNkUmZFOFZOZTYyUlhmNkhTQkpyb1Rab1NadUlEenpyMWFJMHJpQUx2bnZ1VXVvX0I2dnpxTXU?oc=5",
+  "title": "오승환 씨 혹시 마무리 할래요? 시구 말고요…그만큼 절박한 삼성, 김재윤 빈자리 어쩌지",
+  "published_at": "2026-10-24T15:12:00.000Z",
+  "collected_at": "2026-10-24T21:38:10.916Z",
+  "summary_ko": "SPOTV NEWS는 김재윤이 빠진 삼성의 마무리 자리가 그만큼 절박하다고 짚었다. 오승환의 이름까지 거론한 기사다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "삼성, 김재윤 빈자리 고민"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "youtube-46b6abc4",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "youtube",
+  "source_name": "야구보는 아빠",
+  "url": "https://www.youtube.com/watch?v=vfrgTLeIJ0w",
+  "title": "김태형 감독 3년간의 결과  #롯데자이언츠 #야구 #kbo #baseball",
+  "published_at": "2026-10-24T14:39:33Z",
+  "collected_at": "2026-10-24T21:38:10.916Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1500,
+    "likes": 1,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 44,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

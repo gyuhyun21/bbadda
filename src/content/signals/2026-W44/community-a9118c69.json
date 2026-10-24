@@ -1,0 +1,24 @@
+{
+  "id": "community-a9118c69",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 빌리온의 야구 리포트：데이터로 뚫어보는 KBO의 진실",
+  "url": "https://blog.naver.com/villionaireme/224452325048",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/EgBKAq75UgW",
+  "title": "마지막 유니콘\" 장시환 은퇴, 현대 출신 선수 이제 0명… 이름을 이은 건 감독 넷",
+  "published_at": "2026-10-24T17:29:00.000+09:00",
+  "collected_at": "2026-10-24T21:38:10.916Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

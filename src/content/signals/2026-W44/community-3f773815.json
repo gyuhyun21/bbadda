@@ -1,0 +1,23 @@
+{
+  "id": "community-3f773815",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan",
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 KBO 오늘의 프로야구",
+  "url": "https://blog.naver.com/qkrwlsgh1122/224452518744",
+  "title": "“80억 투자할 만했나?” 두산 박찬호, KIA 시절과 비교하니 드러난 FA 첫해의 민낯",
+  "published_at": "2026-10-24T21:24:00.000+09:00",
+  "collected_at": "2026-10-24T21:38:10.916Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-cf130b9d",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "마이데일리",
+  "url": "https://www.mydaily.co.kr/page/view/2026102501063195236",
+  "title": "“떨지 않고 대범해, 경기를 읽는다…김도영에게 좋은 연결” 윤석민이 찍은 KIA PO 키맨, 야잘잘 김선빈",
+  "published_at": "2026-10-24T21:10:00.000Z",
+  "collected_at": "2026-10-24T21:38:10.916Z",
+  "summary_ko": "마이데일리는 윤석민이 KIA의 PO 키맨으로 김선빈을 꼽았다고 전했다. 김도영에게 좋은 연결이 된다는 평가다.",
+  "metrics": {},
+  "scores": {
+    "hot": 84,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "윤석민이 꼽은 PO 키맨"
+}

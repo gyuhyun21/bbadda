@@ -1,0 +1,27 @@
+{
+  "id": "youtube-98c3caa6",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "크보쌍둥이",
+  "url": "https://www.youtube.com/watch?v=rWFXqmqnd3Y",
+  "title": "기아 삼성 po 1차전 태풍영향으로 비오는중! 최형우 박재현 활약에 승부가 결정된다? #삼성라이온즈 #기아타이거즈 #최형우 #박재현 #구자욱 #김도영",
+  "published_at": "2026-10-24T16:28:01Z",
+  "collected_at": "2026-10-24T21:38:10.916Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 21708,
+    "likes": 278,
+    "comments": 53
+  },
+  "scores": {
+    "hot": 72,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}
