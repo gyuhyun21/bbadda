@@ -2,23 +2,24 @@
 // 사용: npx tsx scripts/insta/reel-make.ts <재료 폴더> <출력 mp4>   (크롬: CHROME 환경변수, 없으면 google-chrome / ffmpeg 필요)
 // 재료 폴더의 reel.json:
 //   { music?: 'bgm-breaking', segments: [{ src: '1.mp4'|'1.png', say: 'a1.mp3', kick: '짧은 머리표', head: '큰 제목(<b>강조</b>, <br> 줄바꿈)', note?: '아래 작은 글(출처 등)' }],
-//     end: { kick, head, a?: 'kia', b?: 'samsung', cta: '빠따닷컴에서 예측 투표', say?: 'a9.mp3' } }
-// 장면 길이 = 그 장면 목소리 길이(쉼 0.18초·1.18배로 다듬은 뒤) + 0.25초. 그림(png)은 천천히 확대, 영상은 길이에 맞춰 자르거나 늘린다.
+//     end?: { kick, head, a?: 'kia', b?: 'samsung', cta: '빠따닷컴에서 예측 투표', say?: 'a9.mp3' } }
+// 장면 길이 = 그 장면 목소리 길이(쉼 0.18초·1.18배로 다듬은 뒤) + 0.25초(목소리가 없으면 dur, 기본 3초). 그림(png)은 천천히 확대, 영상은 길이에 맞춰 자르거나 늘린다.
+// fit: true 인 그림(카드 이미지 등)은 자르지 않고 흐린 배경 위에 통째로 놓는다. 어떤 경우에도 영상은 만든다(그날 릴스를 빠뜨리지 않는다, 2026-10-24 주인).
 import { readFileSync, writeFileSync, mkdirSync, copyFileSync, existsSync } from 'node:fs';
 import { join, resolve } from 'node:path';
 import { execFileSync } from 'node:child_process';
 
-type Seg = { src: string; say: string; text?: string; kick?: string; head: string; note?: string };
+type Seg = { src: string; say?: string; text?: string; kick?: string; head?: string; note?: string; dur?: number; fit?: boolean };
 type End = { kick?: string; head: string; a?: string; b?: string; cta: string; say?: string };
 const ROOT = process.cwd();
 const [dirArg, outArg] = process.argv.slice(2);
 if (!dirArg || !outArg) { console.error('사용: reel-make.ts <재료 폴더> <출력 mp4>'); process.exit(1); }
 const DIR = resolve(dirArg), OUT = resolve(outArg), TMP = join(DIR, '.make');
 mkdirSync(TMP, { recursive: true });
-const spec = JSON.parse(readFileSync(join(DIR, 'reel.json'), 'utf8')) as { music?: string; segments: Seg[]; end: End };
-// 목소리 대본에 아라비아 숫자가 있으면 잘못 읽힌다('24 대 5'→'스물네 대 오', 2026-10-24) — 조립을 멈춘다
-const digits = spec.segments.filter((s) => /\d/.test(s.text ?? ''));
-if (digits.length) { console.error(`대본에 숫자가 남음(한글로 풀어 써야 함): ${digits.map((s) => s.text).join(' / ')}`); process.exit(1); }
+const spec = JSON.parse(readFileSync(join(DIR, 'reel.json'), 'utf8')) as { music?: string; segments: Seg[]; end?: End };
+// 목소리 대본에 아라비아 숫자가 있으면 잘못 읽혔을 수 있다('24 대 5'→'스물네 대 오', 2026-10-24) — 그 장면만 목소리를 끄고 화면 글·음악으로 내보낸다
+for (const s of spec.segments) if (/\d/.test(s.text ?? '')) { console.error(`경고: 대본에 숫자가 남아 이 장면 목소리를 끔 — ${s.text}`); s.say = undefined; }
+const hasVoice = (s: { say?: string }) => !!s.say && existsSync(join(DIR, s.say));
 const ff = (...a: string[]) => execFileSync('ffmpeg', ['-y', '-loglevel', 'error', ...a], { stdio: 'inherit' });
 const dur = (f: string) => Number(execFileSync('ffprobe', ['-v', 'error', '-show_entries', 'format=duration', '-of', 'csv=p=0', f]).toString());
 const CHROME = process.env.CHROME || 'google-chrome';
@@ -55,17 +56,20 @@ const voice = (src: string, out: string) => ff('-i', join(DIR, src), '-af', 'sil
 const parts: string[] = [];
 spec.segments.forEach((s, i) => {
   const a = join(TMP, `a${i}.wav`), ov = join(TMP, `o${i}.png`), v = join(TMP, `s${i}.mp4`);
-  voice(s.say, a);
-  const d = Math.max(dur(a) + 0.25, 1.8).toFixed(2);
-  shot(page(`<img class="logo" src="logo.webp">${s.kick ? `<span class="kick">${esc(s.kick)}</span>` : ''}<h1>${head(s.head)}</h1>${s.note ? `<p class="note">${esc(s.note)}</p>` : ''}`), ov);
+  let d = (s.dur ?? 3).toFixed(2);
+  if (hasVoice(s)) { try { voice(s.say!, a); d = Math.max(dur(a) + 0.25, 1.8).toFixed(2); } catch { console.error(`경고: 목소리 처리 실패, 음악만 — ${s.say}`); } }
+  if (!existsSync(a)) ff('-f', 'lavfi', '-i', 'anullsrc=r=44100:cl=stereo', '-t', d, a);
+  shot(page(s.head || s.kick ? `<img class="logo" src="logo.webp">${s.kick ? `<span class="kick">${esc(s.kick)}</span>` : ''}${s.head ? `<h1>${head(s.head)}</h1>` : ''}${s.note ? `<p class="note">${esc(s.note)}</p>` : ''}` : ''), ov);
   const src = join(DIR, s.src), still = /\.(png|jpe?g|webp)$/i.test(s.src);
-  const base = still
+  const base = still && s.fit
+    ? `[0]split[p][q];[p]scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,boxblur=24:2,eq=brightness=-0.15[bg];[q]scale=1040:-2[fg];[bg][fg]overlay=(W-w)/2:(H-h)/2,fps=30`
+    : still
     ? `[0]scale=2160:3840:force_original_aspect_ratio=increase,crop=2160:3840,zoompan=z='1+0.0016*on':x='iw/2-(iw/zoom/2)':y='ih/2-(ih/zoom/2)':d=${Math.ceil(Number(d) * 30)}:s=1080x1920:fps=30`
     : `[0]scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,fps=30,tpad=stop_mode=clone:stop_duration=10`;
   ff(...(still ? ['-loop', '1'] : []), '-i', src, '-i', ov, '-i', a, '-filter_complex', `${base},trim=0:${d},setpts=PTS-STARTPTS[v];[v][1]overlay,format=yuv420p[o];[2]apad,atrim=0:${d}[au]`, '-map', '[o]', '-map', '[au]', '-t', d, '-c:v', 'libx264', '-crf', '22', '-c:a', 'aac', '-ar', '44100', '-ac', '2', v);
   parts.push(v);
 });
-{
+if (spec.end) {
   const e = spec.end, ov = join(TMP, 'end.png'), v = join(TMP, 'send.mp4');
   for (const id of [e.a, e.b]) if (id && existsSync(join(ROOT, `public/mascots/emblem/${id}@2x.webp`))) ff('-i', join(ROOT, `public/mascots/emblem/${id}@2x.webp`), join(TMP, `${id}.png`));
   const box = (id?: string) => (id && TEAM[id] ? `<div style="background:${TEAM[id].color}"><img src="${id}.png">${esc(TEAM[id].name)}</div>` : '');
@@ -79,5 +83,5 @@ writeFileSync(join(TMP, 'list.txt'), parts.map((p) => `file '${p}'`).join('\n'))
 ff('-f', 'concat', '-safe', '0', '-i', join(TMP, 'list.txt'), '-c', 'copy', join(TMP, 'cat.mp4'));
 const total = dur(join(TMP, 'cat.mp4'));
 const music = join(ROOT, `scripts/insta/music/${spec.music ?? 'bgm-breaking'}.mp3`);
-ff('-i', join(TMP, 'cat.mp4'), '-i', music, '-filter_complex', `[1]volume=0.2,atrim=0:${total},afade=t=out:st=${Math.max(total - 1, 0)}:d=1[b];[0:a][b]amix=inputs=2:duration=first:normalize=0,loudnorm=I=-14:TP=-1.5[m]`, '-map', '0:v', '-map', '[m]', '-c:v', 'copy', '-c:a', 'aac', '-b:a', '160k', '-movflags', '+faststart', OUT);
+ff('-i', join(TMP, 'cat.mp4'), '-i', music, '-filter_complex', `[1]volume=${spec.segments.some(hasVoice) ? 0.2 : 0.7},atrim=0:${total},afade=t=out:st=${Math.max(total - 1, 0)}:d=1[b];[0:a][b]amix=inputs=2:duration=first:normalize=0,loudnorm=I=-14:TP=-1.5[m]`, '-map', '0:v', '-map', '[m]', '-c:v', 'copy', '-c:a', 'aac', '-b:a', '160k', '-movflags', '+faststart', OUT);
 console.log(JSON.stringify({ out: OUT, seconds: Number(total.toFixed(1)) }));

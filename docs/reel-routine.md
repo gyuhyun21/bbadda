@@ -25,13 +25,15 @@ claude.ai 루틴 'BBADDA 릴스(매일)'(trig_01X6qpmccCS2Ef62Hm5mGK3g)가 매�
    프롬프트 공통: "Bold 2D cartoon illustration in the exact style of the reference mascots ... plain white baseball jerseys with no logos or letters ... characters in the middle third, space at top for text. No text, no logos, no letters, no numbers."
    과거 회상 장면은 "faded sepia flashback tone with film grain". 실제 선수는 그리지 않는다(마스코트만).
 4. 영상은 만들지 않는다(2026-10-24 주인 결정: 크레딧 절약, 릴스는 그림으로만). 장면은 모두 그림(png)이고 조립할 때 천천히 확대된다. kling·seedance 등 영상 모델을 부르지 않는다.
-5. 목소리(elevenlabs_v4, dialogue=[{text, voice_type:'preset', voice_id:'e6f9b893-51b1-51d3-afe9-9e0482cb7ac1'}], prompt 는 아무 설명): 장면마다 따로 1개(장면 길이가 목소리 길이로 정해진다). 끝 장면 말은 넣지 않아도 된다.
+5. 목소리를 만들기 전에 장면마다 대본을 `npx tsx scripts/insta/ko-num.ts "<대본>"` 으로 바꾸고(숫자→읽는 소리: 24 대 5→이십사 대 오, 오후 2시→오후 두 시, 3경기→세 경기), 바뀐 문장을 그대로 목소리 text 와 reel.json 의 text 에 쓴다. 결과에 숫자가 남거나 어색하면 손으로 고친다.
+   목소리(elevenlabs_v4, dialogue=[{text, voice_type:'preset', voice_id:'e6f9b893-51b1-51d3-afe9-9e0482cb7ac1'}], prompt 는 아무 설명): 장면마다 따로 1개(장면 길이가 목소리 길이로 정해진다). 끝 장면 말은 넣지 않아도 된다.
 6. 결과 주소를 curl 로 public/insta/D-reel/ 에 받는다: 1.png …, a1.mp3 …. 파일이 비었거나 받기 실패면 1회 다시 받고, 그래도 안 되면 만들지 않고 끝낸다.
    reel.json: {"music":"bgm-breaking"(큰 경기·속보) 또는 "bgm-morning", "segments":[{"src","say","text"(그 목소리의 대본 그대로, 숫자는 한글),"kick","head","note"(출처 한 줄, 선택)}], "end":{"kick","head","a","b","cta"}}
    post.json: {"reel_caption": 첫 줄 후크(이모지 1개) + 빈 줄 + 사실 2~3줄 + 시청자 질문(댓글 유도) + "⚾ 승리팀 맞히기·실시간 결과는\n👉 프로필 링크 bbadda.com" + 빈 줄 + "출처: 언론 보도 · 그림은 빠따닷컴 자체 캐릭터 · KBO·구단과 관계없는 비공식 팬 사이트예요." + 해시태그 6~8개(#빠따닷컴 포함)}
    public/insta/reel-queue.json 에 "D": "D-reel" 을 더한다(다른 항목은 그대로).
 7. 브랜치 daily/D-reel → PR(제목 "인스타 릴스: <주제> (D)", 본문에 사실·출처·쓴 크레딧) → 검사 통과하면 머지(merge commit). 코드·설정 파일은 고치지 않는다.
    머지되면 ig-reel 이 영상을 조립해 게시한다(몇 분). 직접 게시하지 않는다.
+   어느 단계에서 막혀도 그날 릴스는 빠지지 않는다: 대본에 숫자가 남은 장면은 목소리만 꺼지고, 조립·게시가 실패하거나 루틴이 아무것도 못 올리면 ig-reel 이 13:30 KST 에 오늘 카드 세트로 대체 릴스를 올린다(scripts/insta/reel-run.sh). 그래도 막히면 요약에 이유를 적는다.
 8. 끝나면 한 단락 요약: 주제, PR 링크, 쓴 크레딧, 남은 크레딧.
 ```
 
