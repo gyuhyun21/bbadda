@@ -1,0 +1,14 @@
+# 알림(웹 푸시) 구독자 수 보기(수동 실행). 시크릿 PUSH_SECRET 은 출력하지 않는다
+name: push-stats
+on: { workflow_dispatch: {} }
+permissions: { contents: read }
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    timeout-minutes: 3
+    steps:
+      - name: 구독자 수
+        env: { PUSH_SECRET: "${{ secrets.PUSH_SECRET }}" }
+        run: |
+          n=$(curl -sS -f -H "Authorization: Bearer $PUSH_SECRET" https://bbadda.com/api/push-send | jq -r .subscribers)
+          echo "구독자: $n" | tee -a "$GITHUB_STEP_SUMMARY"
