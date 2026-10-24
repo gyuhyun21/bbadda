@@ -1,7 +1,7 @@
-# 인스타 자동 게시(하루 최대 3번): 루틴이 콘텐츠를 main 에 머지하면 그 시간대 세트(아침·경기 전·경기 후, 5장)를 만들어 게시한다.
+# 인스타 자동 게시(하루 최대 3번): 루틴이 콘텐츠를 main 에 머지하면 그 시간대 세트(아침 5장·오후·밤 — 밤판은 하루 정리라 장 수가 늘 수 있음, 최대 10장, scripts/insta/build.ts)를 만들어 게시한다.
 # 1) build: scripts/insta/build.ts → 크롬으로 JPEG → insta-media 브랜치 <key>/ 에 올림(공개 주소). 조건이 안 맞거나 이미 게시한 key 면 건너뜀
 # 2) publish: environment 'instagram'(승인 단계 없음 — 2026-10-21 제거, 다시 켜려면 환경에 필수 승인자 추가). 게시하고 게시 기록을 insta-media 에 남김
-# 수동 실행: kind(auto|morning|pregame|postgame), date(YYYY-MM-DD, 지난 세트 다시 만들기), dry_run(true 면 만들기만)
+# 수동 실행: kind(auto|morning|afternoon|night), date(YYYY-MM-DD, 지난 세트 다시 만들기), dry_run(true 면 만들기만)
 name: ig-auto
 on:
   push:
@@ -9,7 +9,7 @@ on:
     paths: ['src/content/**', 'data/postseason.yaml']
   workflow_dispatch:
     inputs:
-      kind: { description: 'auto | morning | pregame | postgame', default: auto }
+      kind: { description: 'auto | morning | afternoon | night', default: auto }
       date: { description: '날짜(비우면 오늘, KST)', default: '' }
       dry_run: { description: 'true 면 게시하지 않고 미리보기만', default: 'false' }
 concurrency: { group: ig-auto, cancel-in-progress: false }
@@ -33,7 +33,7 @@ jobs:
           INSTA_DATE: ${{ inputs.date }}
         run: |
           set -euo pipefail
-          [[ "$KIND" =~ ^(auto|morning|pregame|postgame)$ ]] || { echo "잘못된 kind"; exit 1; }
+          [[ "$KIND" =~ ^(auto|morning|afternoon|night|pregame|postgame)$ ]] || { echo "잘못된 kind"; exit 1; }
           out=$(npx tsx scripts/insta/build.ts "$KIND" /tmp/set)
           echo "$out" > /tmp/result.json
           if jq -e .skip /tmp/result.json >/dev/null; then echo "건너뜀: $(jq -r .skip /tmp/result.json) ($(jq -r .kind /tmp/result.json))" | tee -a "$GITHUB_STEP_SUMMARY"; exit 0; fi

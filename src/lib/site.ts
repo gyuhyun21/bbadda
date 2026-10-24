@@ -81,10 +81,10 @@ export const BUILD_TIME = Date.now();
 // 화면의 '업데이트' 시각 = 마지막 기사 수집 시각(가장 늦은 collected_at), 한국 시간. 디자인 수정 배포로는 바뀌지 않는다.
 // 예: "10월 17일 (토) 06:52 업데이트"
 export const updatedLabel = (list: Signal[]) => { const last = Math.max(...list.map((s) => Date.parse(s.collected_at)).filter(Number.isFinite)); const k = new Date((Number.isFinite(last) ? last : BUILD_TIME) + 9 * 3600_000); return `${k.getUTCMonth() + 1}월 ${k.getUTCDate()}일 (${'일월화수목금토'[k.getUTCDay()]}) ${String(k.getUTCHours()).padStart(2, '0')}:${String(k.getUTCMinutes()).padStart(2, '0')} 업데이트`; };
-/** 갱신 표시: 마지막 수집 시각으로 판 이름을 정한다(docs/routine.md 와 같은 규칙 — 평일 12·20시, 주말 10·16시 경계). 예: { day: '10월 17일 (토)', edition: '경기 후', time: '18:38' } */
-export const editionName = (day: number, hour: number) => { const [a, b] = day === 0 || day === 6 ? [10, 16] : [12, 20]; return hour < a ? '아침판' : hour < b ? '경기 전' : '경기 후'; };
+/** 갱신 표시: 마지막 수집 시각으로 판 이름을 정한다(docs/routine.md 와 같은 규칙 — 평일 12·20시, 주말 10·16시 경계). 예: { day: '10월 17일 (토)', edition: '밤판', time: '18:38' } */
+export const editionName = (day: number, hour: number) => { const [a, b] = day === 0 || day === 6 ? [10, 16] : [12, 20]; return hour < a ? '아침판' : hour < b ? '오후판' : '밤판'; };
 /** 첫 화면에 보이는 정기 갱신 시각(루틴 일정, docs/routine.md) */
-export const UPDATE_SCHEDULE = { lead: '하루 두세 번, 잠깐만 들러도 충분해요.', daily: '아침 · 경기 전 · 경기 후에 새 소식이 올라와요.' };
+export const UPDATE_SCHEDULE = { lead: '하루 두세 번, 잠깐만 들러도 충분해요.', daily: '아침 · 오후 · 밤에 새 소식이 올라와요.' };
 export const editionInfo = (list: Signal[]) => {
   const last = Math.max(...list.map((s) => Date.parse(s.collected_at)).filter(Number.isFinite));
   const k = new Date((Number.isFinite(last) ? last : BUILD_TIME) + 9 * 3600_000);

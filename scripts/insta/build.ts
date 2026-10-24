@@ -1,14 +1,15 @@
-// 인스타 카루셀 세트(5장 + 스토리 1장) HTML 만들기. 사이트 데이터만 쓴다(추론 없음). 그림은 .github/workflows/ig-auto.yml 이 크롬으로 찍는다.
-// 사용: npx tsx scripts/insta/build.ts <auto|morning|pregame|postgame> <출력 폴더>   (INSTA_DATE 로 날짜 지정 가능)
-//   → 출력 폴더에 index.html(?s=1..5, ?s=story)·자산 복사, 표준 출력에 JSON { key, kind, caption } 또는 { skip: 이유 }
-// 세트: 아침(구단별 한 줄, 최근 이틀 안의 brief_ko 가 하나라도 있으면) / 경기 전(오늘 경기 예고 선발이 있을 때) / 경기 후(오늘 경기 결과가 있을 때)
-//   경기 없는 날의 경기 전·경기 후 자리는 그 실행에 새로 요약된 소식으로 '오후판'·'저녁판'을 만든다(하루 세 번 게시, 2026-10-21)
+// 인스타 카루셀 세트(장 수는 판마다 다름, 최대 10장 + 스토리 1장) HTML 만들기. 사이트 데이터만 쓴다(추론 없음). 그림은 .github/workflows/ig-auto.yml 이 크롬으로 찍는다.
+// 사용: npx tsx scripts/insta/build.ts <auto|morning|afternoon|night> <출력 폴더>   (INSTA_DATE 로 날짜 지정 가능, 옛 이름 pregame=afternoon·postgame=night)
+//   → 출력 폴더에 index.html(?s=1..n, ?s=story)·자산 복사, 표준 출력에 JSON { key, kind, caption, n } 또는 { skip: 이유 }
+// 판(2026-10-24 주인 결정: 경기 전·후 구분 대신 아침·오후·밤, 경기 유무로 나누지 않고 그 시점에 맞는 내용을 넣는다):
+//   아침 — 구단별 한 줄(5장). 오후 — 그 시점 소식 + 오늘 경기가 있으면 예고 선발·관전 포인트·승부 예측을 함께.
+//   밤 — 하루 마감 정리. 오늘 경기 결과(있으면) + 오늘 나온 야구 소식을 촘촘히. 이 게시물만 봐도 그날 야구 소식을 다 알 수 있게, 소식이 많으면 장 수가 늘어난다(최대 10장).
 import { readFileSync, readdirSync, mkdirSync, writeFileSync, copyFileSync, existsSync } from 'node:fs';
 import { join } from 'node:path';
 import { loadPostseason, resolvePostseason, lastPlayed, type GameView, type RoundView } from '../../src/lib/postseason.ts';
 import { loadTeams, instaYtThumbs, mascotStyle, matchupPoster } from '../../src/lib/config.ts';
 
-type Kind = 'morning' | 'pregame' | 'postgame';
+type Kind = 'morning' | 'afternoon' | 'night';
 type Sig = { team?: string; source_type: string; brief_ko?: string; collected_at: string; scores: { hot: number } };
 const ROOT = process.cwd();
 const TEAMS = loadTeams().teams;
@@ -26,7 +27,7 @@ const wd = (d: string) => '일월화수목금토'[new Date(`${d}T00:00:00Z`).get
 /** 루틴·사이트와 같은 판 경계: 평일 12·20시, 주말 10·16시 */
 export function kindAt(day: number, hour: number): Kind {
   const [a, b] = day === 0 || day === 6 ? [10, 16] : [12, 20];
-  return hour < a ? 'morning' : hour < b ? 'pregame' : 'postgame';
+  return hour < a ? 'morning' : hour < b ? 'afternoon' : 'night';
 }
 
 /** 게시물의 큰 자리에는 마스코트 대신 팀 색 원형 배지(팀 이름) — 큰 마스코트는 어색하다는 주인 의견(2026-10-19) */
@@ -56,7 +57,7 @@ type Made = { slides: string[]; story: string; caption: string; key: string };
 
 /** 경기 없는 날 낮·밤 자리: 그 실행에 새로 요약한 소식(가장 최근 수집 묶음) 위주 */
 type Slot = { id: 'pm' | 'night'; tag: string; when: string; icon: string };
-const SLOT: Record<Slot['id'], Slot> = { pm: { id: 'pm', tag: '오후판', when: '오늘 오후', icon: '🌤️' }, night: { id: 'night', tag: '저녁판', when: '오늘 밤', icon: '🌙' } };
+const SLOT: Record<Slot['id'], Slot> = { pm: { id: 'pm', tag: '오후판', when: '오늘 오후', icon: '🌤️' }, night: { id: 'night', tag: '밤판', when: '오늘 밤', icon: '🌙' } };
 
 type FullSig = Sig & { hook_ko?: string; summary_ko?: string; url?: string; official?: boolean; source_name?: string };
 let SIGS: FullSig[] | undefined;
@@ -81,10 +82,21 @@ function ytThumb(team?: string): { img: string; src: string } | undefined {
 }
 const thumbFig = (t?: { img: string; src: string }, cls = '') => (t ? `<figure class="ytf ${cls}"><img src="${t.img}" alt=""><figcaption>영상: ${esc(t.src)} 공식 유튜브</figcaption></figure>` : '');
 
+const dayOf = (x: Sig) => new Date(Date.parse(x.collected_at) + 9 * 3600_000).toISOString().slice(0, 10);
+// 비상용 한 줄: 요약 첫 문장에서 매체 이름 주어·기사체 꼬리를 떼고 어절 단위로 24자 안팎
+const clip = (x: Sig & { summary_ko?: string; source_name?: string }) => {
+  let t = (x.summary_ko ?? '').split(/(?<=[.다요])\s/)[0];
+  const src = (x.source_name ?? '').replace(/[()]/g, '');
+  if (src) t = t.replace(new RegExp(`^${src.replace(/[.*+?^${}|[\]\\]/g, '\\$&')}(가|는|이|에서는|에서)\\s*`), '');
+  t = t.replace(/^(한 매체가|매체는|보도에 따르면|\S+에 따르면)\s*/, '').replace(/\s*(고|다고|라고)\s*\S+(가|이)\s*전했다\.?$/, '').replace(/했다고 공식 발표했다\.?$/, '').replace(/[.。]$/, '');
+  if (t.length <= 26) return t;
+  const cut = t.slice(0, 26); const sp = cut.lastIndexOf(' ');
+  return (sp > 12 ? cut.slice(0, sp) : cut) + '…';
+};
+
 function morning(slot?: Slot): Made | string {
   const sigs = loadSigs();
   // 매일 아침 반드시 만든다. 구단별 한 줄 고르는 순서: 오늘 brief_ko → 최근 7일 brief_ko → 최근 7일 뉴스 요약 앞부분(어절 단위로 자름)
-  const dayOf = (x: Sig) => new Date(Date.parse(x.collected_at) + 9 * 3600_000).toISOString().slice(0, 10);
   const weekAgo = new Date(Date.parse(`${today}T00:00:00Z`) - 7 * 86400_000).toISOString().slice(0, 10);
   let recent = sigs.filter((s) => s.team && T.has(s.team) && dayOf(s) >= weekAgo && dayOf(s) <= today);
   if (slot) {
@@ -95,16 +107,6 @@ function morning(slot?: Slot): Made | string {
     recent = batch.length ? batch : todays;
   }
   const score = (x: Sig) => (dayOf(x) === today ? 1000 : 0) + (x.brief_ko ? 500 : 0) + x.scores.hot;
-  // 비상용 한 줄: 요약 첫 문장에서 매체 이름 주어·기사체 꼬리를 떼고 어절 단위로 24자 안팎
-  const clip = (x: Sig & { summary_ko?: string; source_name?: string }) => {
-    let t = (x.summary_ko ?? '').split(/(?<=[.다요])\s/)[0];
-    const src = (x.source_name ?? '').replace(/[()]/g, '');
-    if (src) t = t.replace(new RegExp(`^${src.replace(/[.*+?^${}|[\]\\]/g, '\\$&')}(가|는|이|에서는|에서)\\s*`), '');
-    t = t.replace(/^(한 매체가|매체는|보도에 따르면)\s*/, '').replace(/\s*(고|다고|라고)\s*\S+(가|이)\s*전했다\.?$/, '').replace(/했다고 공식 발표했다\.?$/, '').replace(/[.。]$/, '');
-    if (t.length <= 26) return t;
-    const cut = t.slice(0, 26); const sp = cut.lastIndexOf(' ');
-    return (sp > 12 ? cut.slice(0, sp) : cut) + '…';
-  };
   const best = new Map<string, (typeof recent)[number]>();
   for (const s of recent) if ((s.brief_ko || ((s.source_type === 'news' || (slot && (s as { official?: boolean }).official)) && s.summary_ko && !/^보도에 따르면|루머|설$/.test(s.summary_ko))) && (!best.has(s.team!) || score(s) > score(best.get(s.team!)!))) best.set(s.team!, s);
   for (const [k, s] of best) if (!s.brief_ko) best.set(k, { ...s, brief_ko: clip(s), clipped: true } as typeof s);
@@ -202,18 +204,74 @@ function postgame(): Made | string {
   return { slides, story, caption, key: `${today}-postgame-${g.round}${g.no}` };
 }
 
+const CAP = 2200; // 인스타 본문 글자 한도
+const capTrim = (t: string) => (t.length <= CAP ? t : t.slice(0, CAP - 1) + '…');
+const NUMS = '①②③④⑤⑥⑦⑧⑨⑩⑪⑫⑬⑭⑮⑯⑰⑱⑲⑳㉑㉒㉓㉔';
+/** 팀 이름 + 한 줄에서 한 줄 앞의 같은 팀 이름은 뗀다("LG · LG, 3년 …" → "LG · 3년 …") */
+const lbl = (x: { team?: string }) => (x.team ? short(x.team) : 'KBO');
+const noTeam = (x: { team?: string }, line: string) => line.replace(new RegExp(`^${lbl(x).replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}[,·]?\\s+`), '');
+
+/** 오후판: 그 시점 소식 + 오늘 경기가 있으면 경기 전에 볼 것(예고 선발·관전 포인트·승부 예측)을 한 세트로 */
+function afternoon(): Made | string {
+  const pre = pregame();
+  const news = morning(SLOT.pm);
+  if (typeof pre === 'string' && typeof news === 'string') return `${pre} · ${news}`;
+  const key = `${today}-afternoon`;
+  if (typeof pre === 'string') return { ...(news as Made), key };
+  if (typeof news === 'string') return { ...pre, key };
+  const [hook, starters, facts, vote, end] = pre.slides;
+  const lines = news.caption.split('\n').filter((l) => /^[①②③④] /.test(l));
+  const caption = capTrim([...pre.caption.split('\n').slice(0, -1), '🌤️ 오늘 오후 소식', ...lines, '', '#KBO #가을야구 #프로야구 #빠따닷컴'].join('\n'));
+  return { slides: [hook, starters, facts, news.slides[1], news.slides[2], vote, end], story: pre.story, caption, key };
+}
+
+/** 밤판의 '오늘의 야구' 소식 목록: 오늘 요약된 뉴스·공식 글 전부(같은 한 줄은 하나만), 후크 → 화제 순 */
+function digestItems(max: number) {
+  const seen = new Set<string>();
+  return loadSigs()
+    .filter((x) => dayOf(x) === today && (x.summary_ko ?? '').trim() && (x.source_type === 'news' || x.official))
+    .sort((a, b) => Number(!!b.hook_ko) - Number(!!a.hook_ko) || b.scores.hot - a.scores.hot)
+    .map((x) => ({ x, line: x.brief_ko ?? clip(x) }))
+    .filter(({ line }) => !seen.has(line) && seen.add(line))
+    .slice(0, max);
+}
+const digestCards = (items: ReturnType<typeof digestItems>) => {
+  const cards: string[] = [];
+  for (let i = 0; i < items.length; i += 3) {
+    const chunk = items.slice(i, i + 3);
+    cards.push(panel({ step: `오늘의 야구 ${i + 1}~${i + chunk.length}`, head: chunk[0].line.replace(/, /, ',\n'), pg: '', bg: 'stadium', note: '출처: 언론 보도 · 우리 요약', body: `<div class="news dense">${chunk.map(({ x, line }, k) => `<div class="n-item"><i>${NUMS[i + k]}</i><div><b>${esc(lbl(x))} · ${esc(noTeam(x, line))}</b><p>${esc((x.summary_ko ?? '').trim())}</p></div></div>`).join('')}</div>` }));
+  }
+  return cards;
+};
+const digestCaption = (items: ReturnType<typeof digestItems>) => items.map(({ x, line }, i) => `${NUMS[i]} ${lbl(x)} · ${noTeam(x, line)}`);
+
+/** 밤판: 하루 마감 정리. 이 게시물만 봐도 그날 야구 소식을 알 수 있게 촘촘히(2026-10-24 주인). 최대 10장 */
+function night(): Made | string {
+  const post = postgame();
+  const key = `${today}-night`;
+  if (typeof post !== 'string') {
+    const [hook, rec, points, , end] = post.slides;
+    const items = digestItems(18); // 결과 3장 + 소식 최대 6장 + 끝 1장
+    const caption = capTrim([...post.caption.split('\n').slice(0, -1), ...(items.length ? ['🌙 오늘의 야구 소식', ...digestCaption(items), ''] : []), post.caption.split('\n').at(-1)!].join('\n'));
+    return { slides: [hook, rec, points, ...digestCards(items), end], story: post.story, caption, key };
+  }
+  const items = digestItems(24); // 첫 장 1 + 소식 최대 8장 + 끝 1장
+  if (!items.length) return `${post} · 오늘 요약된 소식 없음`;
+  const head = items.find(({ x }) => x.hook_ko)?.x.hook_ko ?? '오늘 야구,\n이것만 보면 끝';
+  const hook = yHook({ kick: `${md(today)} (${wd(today)}) 밤판 · 하루 정리`, big: `${items.length}<small>개 소식</small>`, head, sub: '넘겨서 오늘 야구 소식 전부 확인 →', pg: '', tease: items.slice(0, 4).map(({ x, line }, i) => peek(`${NUMS[i]} ${lbl(x)}`, noTeam(x, line))) });
+  const caption = capTrim([`🌙 ${flat(head)}`, '', `${md(today)} 오늘의 야구 ${items.length}개 소식`, ...digestCaption(items), '', '가장 놀란 소식은 몇 번? 댓글로 남겨 주세요 👇', '팀별로 골라 보려면 프로필 링크 bbadda.com', '', '#KBO #프로야구 #야구 #야구팬 #빠따닷컴'].join('\n'));
+  const story = yHook({ kick: `${md(today)} 밤판`, big: `${items.length}<small>개 소식</small>`, head, sub: '오늘 야구 소식 한 번에', pg: '', story: true });
+  return { slides: [hook, ...digestCards(items), ctaEnd('가장 놀란 소식은 몇 번? 댓글로 👇')], story, caption, key };
+}
+
 const CSS = readFileSync(join(ROOT, 'scripts/insta/cards.css'), 'utf8');
 
 if (process.argv[1]?.endsWith('build.ts')) {
   const arg = process.argv[2] ?? 'auto';
   const out = process.argv[3] ?? 'insta-out';
-  const kind: Kind = arg === 'auto' ? kindAt(kst.getUTCDay(), kst.getUTCHours()) : (arg as Kind);
-  let made = kind === 'morning' ? morning() : kind === 'pregame' ? pregame() : postgame();
-  // 경기 없는 날(또는 결과·선발 미확정)에는 그 시간대 소식 세트로 대신한다
-  if (typeof made === 'string' && kind !== 'morning' && /경기 없음|결과 없음|데이터 없음/.test(made)) {
-    const alt = morning(SLOT[kind === 'pregame' ? 'pm' : 'night']);
-    made = typeof alt === 'string' ? `${made} · ${alt}` : alt;
-  }
+  const legacy: Record<string, Kind> = { pregame: 'afternoon', postgame: 'night' };
+  const kind: Kind = arg === 'auto' ? kindAt(kst.getUTCDay(), kst.getUTCHours()) : legacy[arg] ?? (arg as Kind);
+  const made = kind === 'morning' ? morning() : kind === 'afternoon' ? afternoon() : night();
   if (typeof made === 'string') { console.log(JSON.stringify({ skip: made, kind })); process.exit(0); }
   mkdirSync(join(out, 'm'), { recursive: true });
   for (const t of TEAMS) if (existsSync(join(ROOT, 'public/mascots', `${t.id}.svg`))) copyFileSync(join(ROOT, 'public/mascots', `${t.id}.svg`), join(out, 'm', `${t.id}.svg`));
