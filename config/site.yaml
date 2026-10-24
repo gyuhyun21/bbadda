@@ -15,6 +15,9 @@ news_images: false # 저작권 위험으로 끔(저장소 주인 결정, 2026-10
 # news_cover: 사진 없는 뉴스 카드 커버. text — 팀 컬러 바탕에 구단명·매체명 글자(제목은 아래에만, 2026-10-20 도입) | typo — 제목 글자 커버(이전 화면).
 #   마음에 들지 않으면 typo 로 바꿔 머지한다. 환경변수 SITE_NEWS_COVER=text|typo 우선.
 news_cover: text
+# section_tint: 첫 화면 섹션마다 배경을 기존 색(#ECEFF4)과 같은 푸른 회색 계열로 밝기만 달리 깐다(톤온톤 둥근 판, 2026-10-24 주인 결정).
+#   마음에 들지 않으면 false 로 바꿔 머지한다(이전 화면). 환경변수 SITE_SECTION_TINT=on|off 우선.
+section_tint: true
 # article_modal: 기사를 누르면 새 탭 대신 사이트 안 모달 브라우저로 연다(배경 흐림, 닫기·✕·Esc). false 면 새 탭. 환경변수 SITE_MODAL=on|off 우선(2026-10-17 도입).
 #   YouTube·Instagram 은 공식 퍼가기 화면으로 연다. 아래 매체는 다른 사이트 안에 띄우는 것을 막아 두어(2026-10-17 확인) 요약과 '원문 보기'만 보여 준다.
 article_modal: true
