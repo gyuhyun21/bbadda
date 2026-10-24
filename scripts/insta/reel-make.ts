@@ -8,7 +8,7 @@ import { readFileSync, writeFileSync, mkdirSync, copyFileSync, existsSync } from
 import { join, resolve } from 'node:path';
 import { execFileSync } from 'node:child_process';
 
-type Seg = { src: string; say: string; kick?: string; head: string; note?: string };
+type Seg = { src: string; say: string; text?: string; kick?: string; head: string; note?: string };
 type End = { kick?: string; head: string; a?: string; b?: string; cta: string; say?: string };
 const ROOT = process.cwd();
 const [dirArg, outArg] = process.argv.slice(2);
@@ -16,6 +16,9 @@ if (!dirArg || !outArg) { console.error('사용: reel-make.ts <재료 폴더> <�
 const DIR = resolve(dirArg), OUT = resolve(outArg), TMP = join(DIR, '.make');
 mkdirSync(TMP, { recursive: true });
 const spec = JSON.parse(readFileSync(join(DIR, 'reel.json'), 'utf8')) as { music?: string; segments: Seg[]; end: End };
+// 목소리 대본에 아라비아 숫자가 있으면 잘못 읽힌다('24 대 5'→'스물네 대 오', 2026-10-24) — 조립을 멈춘다
+const digits = spec.segments.filter((s) => /\d/.test(s.text ?? ''));
+if (digits.length) { console.error(`대본에 숫자가 남음(한글로 풀어 써야 함): ${digits.map((s) => s.text).join(' / ')}`); process.exit(1); }
 const ff = (...a: string[]) => execFileSync('ffmpeg', ['-y', '-loglevel', 'error', ...a], { stdio: 'inherit' });
 const dur = (f: string) => Number(execFileSync('ffprobe', ['-v', 'error', '-show_entries', 'format=duration', '-of', 'csv=p=0', f]).toString());
 const CHROME = process.env.CHROME || 'google-chrome';
