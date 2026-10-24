@@ -45,12 +45,13 @@ jobs:
         if: steps.make.outputs.key != ''
         run: |
           set -euo pipefail
-          sudo apt-get -qq update >/dev/null && sudo apt-get -qq install -y fonts-noto-cjk imagemagick >/dev/null
+          # 2026-10-24: 이 단계가 15분 멈춰 아침 세트가 취소됨 → 설치·찍기마다 시간 제한과 재시도
+          for t in 1 2 3; do timeout 300 sudo apt-get -qq update >/dev/null && timeout 300 sudo apt-get -qq install -y fonts-noto-cjk imagemagick >/dev/null && break; echo "apt 재시도 $t"; sleep 10; done
           mkdir -p /tmp/img
           n=$(jq -r '.n // 5' /tmp/result.json)
           for s in $(seq 1 "$n") story; do
             h=1350; [ "$s" = story ] && h=1920
-            google-chrome --headless=new --no-sandbox --hide-scrollbars --allow-file-access-from-files --window-size=1080,$h --virtual-time-budget=3000 --screenshot=/tmp/img/$s.png "file:///tmp/set/index.html?s=$s" >/dev/null 2>&1
+            for t in 1 2 3; do timeout 90 google-chrome --headless=new --no-sandbox --hide-scrollbars --allow-file-access-from-files --window-size=1080,$h --virtual-time-budget=3000 --screenshot=/tmp/img/$s.png "file:///tmp/set/index.html?s=$s" >/dev/null 2>&1 && [ -s /tmp/img/$s.png ] && break; echo "찍기 재시도 $s/$t"; done
             convert /tmp/img/$s.png -quality 92 /tmp/img/$s.jpg
           done
       - name: insta-media 브랜치에 올리기
