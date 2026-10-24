@@ -1,0 +1,26 @@
+{
+  "id": "youtube-47f5807c",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "youtube",
+  "source_name": "크보오프너",
+  "url": "https://www.youtube.com/watch?v=X1kgGGUjUXY",
+  "title": "[크보오프너 LIVE] 한명재X송재우X김하진X육튜브 l 김태형과 끝낸 롯데의 이별 방식 & PO 시리즈 프리뷰 l 10월 24일(토)",
+  "published_at": "2026-10-24T07:19:41Z",
+  "collected_at": "2026-10-24T09:37:59.397Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 5378,
+    "likes": 1225,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 85,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

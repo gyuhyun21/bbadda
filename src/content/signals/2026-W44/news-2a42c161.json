@@ -1,0 +1,30 @@
+{
+  "id": "news-2a42c161",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://www.mt.co.kr/amp/sports/2026/10/24/202610241422774505O",
+  "title": "‘이게 예우였나’ 김태형 재계약 불가, 열흘 넘게 끌어야 했을까…잡음만 키웠다",
+  "published_at": "2026-10-24T05:40:00.000Z",
+  "collected_at": "2026-10-24T09:37:59.397Z",
+  "summary_ko": "머니투데이는 김태형 감독 재계약 불가 통보를 열흘 넘게 끌어야 했느냐며 잡음만 키웠다고 지적했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZlZuMXl2aDVqVWFhV1ZMakNPdDJSUjhuM1JzMmpwa1ptNUJUZFV2dlhlcXl0OWxQbGo0WFRlWGdxVVpaM0dGS1VyT1Y2M3dGRmJBT21YSkZpanJuUjZqMjdmVFprTHlObVNiR09yOV9SRk51d3FGa1Izbjl2MXRlc1Q4VQ?oc=5"
+    }
+  ],
+  "brief_ko": "재계약 불가 발표, 왜 늦었나"
+}

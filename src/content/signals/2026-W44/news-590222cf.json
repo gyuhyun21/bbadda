@@ -1,0 +1,23 @@
+{
+  "id": "news-590222cf",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "톱스타뉴스",
+  "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9BU3ZIS2xCMnJ1cVhwQU1JZEx5NjkyTS1mNGRIY0pXTlRYMUVTYm9ZZTJvcnc2dHNxOVowS3puUE1EQmxZRmZScndtbWNncjZVaFJTZTItN29GdHBWaVVsb3hVQ3VlblVTcWxJeXhWX3BkQQ?oc=5",
+  "title": "삼성-KIA KBO 플레이오프 출장자 명단 공개…전체 일정 보니",
+  "published_at": "2026-10-24T09:17:14.000Z",
+  "collected_at": "2026-10-24T09:37:59.397Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

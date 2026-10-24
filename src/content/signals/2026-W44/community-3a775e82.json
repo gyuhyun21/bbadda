@@ -1,0 +1,24 @@
+{
+  "id": "community-3a775e82",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 기겨의 마구잡이 클라이밍",
+  "url": "https://blog.naver.com/kkh9638/224452297193",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/IkkEwWTw7DT",
+  "title": "\"2027년 빨리 왔으면\" 아내 SNS 반응에 '대전 예수' 와이스 복귀설",
+  "published_at": "2026-10-24T16:04:00.000+09:00",
+  "collected_at": "2026-10-24T09:37:59.397Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

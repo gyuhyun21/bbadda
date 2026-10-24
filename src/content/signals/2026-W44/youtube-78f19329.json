@@ -1,0 +1,26 @@
+{
+  "id": "youtube-78f19329",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "youtube",
+  "source_name": "외야석야구",
+  "url": "https://www.youtube.com/watch?v=kiZwRjHFNdE",
+  "title": "KBO 역사상 가장 착했던 1000경기 #신본기 #KT위즈 #KBO",
+  "published_at": "2026-10-24T08:30:30Z",
+  "collected_at": "2026-10-24T09:37:59.397Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 669,
+    "likes": 7,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 43,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,61 @@
+{
+  "id": "community-45156e00",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 덕이매거진 | 스포츠에 진심인 덕후 오리",
+  "url": "https://blog.naver.com/schinmagazine/224452247630",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/1w1rTBgveov",
+  "title": "삼성 마무리 김재윤 부상 이탈…2주 휴식 진단, PO 등판 사실상 불발",
+  "published_at": "2026-10-24T14:59:00.000+09:00",
+  "collected_at": "2026-10-24T09:37:59.397Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 99,
+    "relevance": 70
+  },
+  "sentiment": "negative",
+  "also_in": [
+    {
+      "source_name": "스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1ad1VQZ3ZBRVRicE5id0xidzZUVXZvTTVtR1EtN1FjV3RnaTZ1TWw0eWNIdGJjWmQtcVBVZVVpcHYzOURCZFhiM3ltNmhKMlJKb296T2t5SXplRW1tU3RISkNJQzN1MXBjWmhFOVhrdTNMaXlMRkE?oc=5"
+    },
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1XbUVxRUhfY19TLVZPOXdSZXlpWlEtVUE3SmFtZ0tmS2tNbE93eEFLSVZtclBRSGlhRzNOVGMwWXdHeHNORUZZdVlOMG0xek1jakRtT0VnczR1MUdPZ3RTZlpaeGhUT3JOTGREck1SUdIBb0FVX3lxTE1XbUVxRUhfY19TLVZPOXdSZXlpWlEtVUE3SmFtZ0tmS2tNbE93eEFLSVZtclBRSGlhRzNOVGMwWXdHeHNORUZZdVlOMG0xek1jakRtT0VnczR1MUdPZ3RTZlpaeGhUT3JOTGREck1SUQ?oc=5"
+    },
+    {
+      "source_name": "스포츠경향",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBTUVYzOWV5bHpxRndoTlZKU1FTd2dBeTVSaEV0c0RxR0lrdUFmdU9nVTVvZVVwOHdtXzE1dU5keVhKYmJyWkhLWGRMaXhEYjdhcEdVcVhoalhiTDVPQWFXNGRhY9IBY0FVX3lxTFBTUVYzOWV5bHpxRndoTlZKU1FTd2dBeTVSaEV0c0RxR0lrdUFmdU9nVTVvZVVwOHdtXzE1dU5keVhKYmJyWkhLWGRMaXhEYjdhcEdVcVhoalhiTDVPQWFXNGRhYw?oc=5"
+    },
+    {
+      "source_name": "한스경제",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBjS196Zm11RkJqUnJzZ3M0VHk0d21MNWhqdUN0b241ZGtWREJpVzZKWkh1X0dweUZlb0t6U0w0R1ZkZXJwRUlKSXUwcmV1NzBVZ0RGbjNqTkNJSU5fNS1JcWRZa2dBU3pTN1phdGRSZ9IBb0FVX3lxTFBjS196Zm11RkJqUnJzZ3M0VHk0d21MNWhqdUN0b241ZGtWREJpVzZKWkh1X0dweUZlb0t6U0w0R1ZkZXJwRUlKSXUwcmV1NzBVZ0RGbjNqTkNJSU5fNS1JcWRZa2dBU3pTN1phdGRSZw?oc=5"
+    },
+    {
+      "source_name": "뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5LMG9sSW9PTmVyQ1FGQ096emNrX1VoQlRLbGhkbXBfZjlYQTdneF9PWjk2WGc1QWxwUWZIZTNYQzUtTzBHdVpDUVBlSnVGalZTWXRuNXB6Zw?oc=5"
+    },
+    {
+      "source_name": "스포츠한국",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBjbkhZQ3Bza3pkMFVMYUhQemtuZWxwVXhLQ2xPWUZETlhrWDZHUXh0TWQtVmpvaXBfLVVPbVV0aVZMdU1KMVhzeUxIWlRiMTctM1lrQnJSellPNm1BUFlYbVk0aU5tUV9GZ1NmVW1qdTfSAXRBVV95cUxOalRkMnd0Q2Znd0VQckdTekNULXRYMGw0UWRLdHV3WF81SGlsYkRJQVFoNzNlOVpmNXpoUy1UTmRRbUlHZG1JV0txUkQ1bDlfd0NDaXhQWHJkcGRFRlN5WklENXFrN0FwZUZHenZvQWZLb1V4dQ?oc=5"
+    },
+    {
+      "source_name": "톱스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBSSzhjOFNWZnFKX0pqQi14RGpXUm5HUVNLckthRUxsSXBkNUV1dXlDT3FPX2s5d282T0NCOVR6LVhydmk2Y2xIdV9YSWVqeERMRGxnVjB1N0oyOTVBVkMxTnFQczJ1ZHZzMkhkSG82T1NvZw?oc=5"
+    },
+    {
+      "source_name": "한국아이닷컴",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE51cXNDSThVeld0Z2FRZ3JfS2ROSGdONkRDUnljMVRWbDNhbDlaUFA3MGtZV1VrTjJ2bHlERFd1TTAwZlNzLTFvdE50YW5nUDFfbGRQTnFVMm81aUtLdmlUYmU0MXRnQzBsWHNQRF9xRdIBb0FVX3lxTE51cXNDSThVeld0Z2FRZ3JfS2ROSGdONkRDUnljMVRWbDNhbDlaUFA3MGtZV1VrTjJ2bHlERFd1TTAwZlNzLTFvdE50YW5nUDFfbGRQTnFVMm81aUtLdmlUYmU0MXRnQzBsWHNQRF9xRQ?oc=5"
+    },
+    {
+      "source_name": "SBS 뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1GdGl1Q3cwLUp0cnJQVjlmNmNoczljVmdIOEtVd19tdDh2RjJsZUYwcGkwMUlFWDhnRDU5V2FfaGNVc0J6eDhCSFVLRUQyTUJvSU9fcUw4dE9tYllFbVNkNFNkVUE0d1ROREE?oc=5"
+    }
+  ]
+}

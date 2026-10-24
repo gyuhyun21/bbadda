@@ -1,0 +1,26 @@
+{
+  "id": "youtube-9dd50127",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "youtube",
+  "source_name": "MNK BASEBALL(MLB,NPB,KBO)",
+  "url": "https://www.youtube.com/watch?v=NQucTR5TO9E",
+  "title": "KBO 스타 제2탄)두산베어스 곽빈",
+  "published_at": "2026-10-24T06:22:23Z",
+  "collected_at": "2026-10-24T09:37:59.397Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 4,
+    "likes": 1,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 49,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

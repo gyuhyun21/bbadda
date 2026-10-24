@@ -1,0 +1,27 @@
+{
+  "id": "youtube-27f8f270",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "크보쌍둥이",
+  "url": "https://www.youtube.com/watch?v=qX-DsjuSyuk",
+  "title": "[김재윤 부상] po 시리즈 미치는 영향 너무 크다!    #엘지트윈스 #삼성라이온즈 #롯데자이언츠  #두산베어스 #기아타이거즈 #한화이글스 #kt위즈 #ssg랜더스",
+  "published_at": "2026-10-24T08:52:03Z",
+  "collected_at": "2026-10-24T09:37:59.397Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 85502,
+    "likes": 547,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

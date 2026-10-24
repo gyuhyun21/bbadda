@@ -1,0 +1,23 @@
+{
+  "id": "community-65cd3b8c",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 꼬맹이 배우의 작지만 큰 세상",
+  "url": "https://blog.naver.com/yura_dadam/224452378548",
+  "title": "[오늘도 야구에 과몰입 #12] 기아 vs 삼성 플레이오프, 내일도 호랑이의 가을은 계속됩니다! 🐯⚾",
+  "published_at": "2026-10-24T17:49:00.000+09:00",
+  "collected_at": "2026-10-24T09:37:59.397Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

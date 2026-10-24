@@ -1,0 +1,36 @@
+{
+  "id": "news-9b30a65a",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "SPOTV NEWS",
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBzenJtT3Z1ckpSanNzZkRZMWpudGpSb1ZHeFJtRDF6blJyOGVGTTlERmVEMmhCZWRYV1QxWlJSYVA1bUozY3NtckN3WHBwMFFlQmFSTlNra0pZTkU5T05xVmZKSm1QNThHQ1FCYUtiUVA?oc=5",
+  "title": "삼성 초대형 악재! 김재윤 부상→2주 OUT 날벼락…PO 등판 불가능, 마무리 누가 맡나",
+  "published_at": "2026-10-24T05:26:28.000Z",
+  "collected_at": "2026-10-24T09:37:59.397Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 99,
+    "relevance": 70
+  },
+  "sentiment": "negative",
+  "also_in": [
+    {
+      "source_name": "연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA0Y2pWRWpfQzFGQlk5c2RwMjNCZEJjckNSXy1sYjZxWDhCeU44QTdjQzJicVdUVkItUm5PRnd1YkhSdTVZQnNQaEdyOXlTa0hJUWwwVzJFZHNCeTTSAWBBVV95cUxNTVhRRUs2RW9GQXJIQ080UHJaaTNhaGR4Mzc3OFJQMGhURnRsOHJ3YkRMOVpYYlhTMF9lSmt3SmFEZ0dJYlZOc0UyNEdXNnktX1pDWGJWby1tS2hlTFRma2Q?oc=5"
+    },
+    {
+      "source_name": "news.sbs.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE94elozWDZkNUFNZHpTS2R2eTBCUEhJMzdnUk1iT0N2dGtZWVdRel9Yb0RleEdTRThqYS1vai1Ec2loU3pDYzZUTVhGVDN2cXFrRV8xbjU5Ymlqd3FGYkhCSnBOLXRLdw?oc=5"
+    },
+    {
+      "source_name": "SBS 뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE03ZktCSmRFVHdmYzdrekZucUFEMzBxWHRZQXNZd2lYeXp4TWZJYmU4ZWZIQzJlLS0xemlZVGlYVEphTFI5OTVtTVlvVEVKd1lWSEtBZ0lVczl3SnA2M1RqUkZpamV6d2xrUVE?oc=5"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "news-1a3e89ea",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1IS09DTm42Mk54Nl9qblI5ZUk0NTRYVV80TjUySUhzS21ZUVU0RFhjbWs5bzlCd2FkbzQxbXhUclpmcDUtQzB1dkFZQ0JsZGl5azQzdUxEODFLSDJOTm9Va2JubTEtSnc1U3ZzbHFHONIBb0FVX3lxTE1IS09DTm42Mk54Nl9qblI5ZUk0NTRYVV80TjUySUhzS21ZUVU0RFhjbWs5bzlCd2FkbzQxbXhUclpmcDUtQzB1dkFZQ0JsZGl5azQzdUxEODFLSDJOTm9Va2JubTEtSnc1U3ZzbHFHOA?oc=5",
+  "title": "\"사상 최초의 일 벌어졌다! '역수입' 처음\" KBO 홀드왕 소프트뱅크 육성 3R 지명, 日 매체도 주목",
+  "published_at": "2026-10-24T07:00:00.000Z",
+  "collected_at": "2026-10-24T09:37:59.397Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 91,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "미주중앙일보",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1pZXJocEN0c2dLeEFNM213QzRnMEMwc2VFWFlMcjM3NEFweWVxMzdRODlDNU5vY3JpN2lFODIzeHFEcVFmZC1JRDJKb3QzcnBSSHVoYjAyakloVWlGckpRNnRR?oc=5"
+    },
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOb181clpnZjRyMzdRNWxlQmZ3WWtvb1cxeGFxNUNwZ21OSkcybk95U3JkYWllLXN1N0ZHdFhMOUhqWnJCQkV1dTZUMFI5aWc1ZnlEMFNJVGN3Wk9RbkROeXREVE1qeFdZUktBMExkT2VUYW00NzZlbXNuXzRBMnktMFNDcw?oc=5"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "community-4a5ef3ea",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "엠엘비파크",
+  "url": "https://mlbpark.donga.com/mp/b.php?id=202610240119622993&p=91&b=kbotown&m=view&site=donga.com",
+  "title": "저는 반튼동파였기에 재계약 안하기로 한 건 좋은 소식이지만",
+  "published_at": "2026-10-24T02:37:59.397Z",
+  "collected_at": "2026-10-24T09:37:59.397Z",
+  "summary_ko": "",
+  "excerpt": "... 이게 프로야구단의 일처리 맞습니까? 정말 왜 롯데 자이언츠가 팬들이 염원하는 성적을 못내는지, 보법이 다른…",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

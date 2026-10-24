@@ -1,0 +1,23 @@
+{
+  "id": "news-c65ea6a2",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://www.mt.co.kr/amp/sports/2026/10/24/202610241438770815O",
+  "title": "'PS 등판 불가' 김재윤 빠진 삼성 뒷문 누가 지키나? “상황에 따라 필승조 기용” [오!쎈 대구]",
+  "published_at": "2026-10-24T05:42:00.000Z",
+  "collected_at": "2026-10-24T09:37:59.397Z",
+  "summary_ko": "머니투데이는 PS 등판이 불가능한 김재윤 없이 삼성이 뒷문을 어떻게 지킬지 다뤘다. 기사는 상황에 따라 필승조를 기용한다는 방침을 소개했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "김재윤 빠진 뒷문, 필승조로"
+}

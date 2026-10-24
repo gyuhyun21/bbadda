@@ -1,0 +1,24 @@
+{
+  "id": "community-1a08aecc",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&page=2&document_srl=10479059384",
+  "title": "김현수가 잡도리하면 할말 없긴할듯 - 야구",
+  "published_at": "2026-10-24T04:37:59.397Z",
+  "collected_at": "2026-10-24T09:37:59.397Z",
+  "summary_ko": "",
+  "excerpt": "... 5 분 전 자유 두산베어스 조회163 추천7. 솔직히 국대 사태는 자꾸 외부에 흘리는 새끼가…",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

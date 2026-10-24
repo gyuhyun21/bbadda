@@ -1,0 +1,29 @@
+{
+  "id": "news-6ce2d6a1",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "진일보 | 전남일보",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBkYTNPUnlqQWxSeTNiNFlzRjh4bVVQZ1h3R3ZOdi1oWWtxSUhkS1ROVTVOWDc0aVl5bjRxYzJmSFVPZWE3X2FwRW9BdkcxT2hIVUNoelBOamI0aUlGRTlTZmROY041MWM4dU1LTlhINA?oc=5",
+  "title": "\"KIA전 어쩌나…\" 삼성 세이브 1위 김재윤, 부상으로 PO 전격 제외",
+  "published_at": "2026-10-24T06:45:24.000Z",
+  "collected_at": "2026-10-24T09:37:59.397Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "mixed",
+  "also_in": [
+    {
+      "source_name": "중앙일보",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5lQ1ZqRnhTc1ZSZkp0alUtenpNLVN4LVpmbXBFbWJhWmRRUmVjUG5MMW9DUk9HV3U2Y041LS02bnlHZDVwXzdwdVhhd0ZqcERHdnMwaTl3?oc=5"
+    }
+  ]
+}

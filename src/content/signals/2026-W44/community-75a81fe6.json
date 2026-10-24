@@ -1,0 +1,24 @@
+{
+  "id": "community-75a81fe6",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "엠엘비파크",
+  "url": "https://mlbpark.donga.com/mp/b.php?id=202610240119623575&p=1&b=kbotown&m=view&select=spf&query=KBO&site=donga.com",
+  "title": "솔직히 야구 감독이 뭐 그리 중요한지 몰겠네요",
+  "published_at": "2026-10-23T15:00:00.000Z",
+  "collected_at": "2026-10-24T09:37:59.397Z",
+  "summary_ko": "",
+  "excerpt": "... ... LG · 한화 · SSG · 삼성 · NC · kt · 롯데…",
+  "metrics": {},
+  "scores": {
+    "hot": 61,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

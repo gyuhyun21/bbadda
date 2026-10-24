@@ -1,0 +1,26 @@
+{
+  "id": "youtube-bf419c32",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "youtube",
+  "source_name": "원베이스채널 (1BASE)",
+  "url": "https://www.youtube.com/watch?v=LfHEwnnC6Gw",
+  "title": "LG 트윈스 퀴즈 Part1",
+  "published_at": "2026-10-24T04:00:10Z",
+  "collected_at": "2026-10-24T09:37:59.397Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 0,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

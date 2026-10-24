@@ -1,0 +1,22 @@
+{
+  "id": "community-e0b3af9c",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 슬로우러너님의 블로그",
+  "url": "https://blog.naver.com/infoforest/224452240988",
+  "title": "두산과 재계약도 못 했는데 다른 KBO 구단도 안 된다? 케이브의 5년 보류권",
+  "published_at": "2026-10-24T14:49:00.000+09:00",
+  "collected_at": "2026-10-24T09:37:59.397Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

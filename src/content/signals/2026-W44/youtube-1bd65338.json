@@ -1,0 +1,32 @@
+{
+  "id": "youtube-1bd65338",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "youtube",
+  "source_name": "바가민은 외롭다진짜",
+  "url": "https://www.youtube.com/watch?v=Z0RVN6V05sU",
+  "title": "롯데 골수팬의 김태형 감독 후기",
+  "published_at": "2026-10-24T07:00:31Z",
+  "collected_at": "2026-10-24T09:37:59.397Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1585,
+    "likes": 26,
+    "comments": 8
+  },
+  "scores": {
+    "hot": 56,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "스포츠경향",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9ETU9HS1lqWkZ4a0xocVB1LUI2SUtvcVdxUlh3ejZoNW9ISlMwcjBMMlNkVGxyTGdCSVFmVU5tYkJCRXA3Ynh6dndWaEdwSjBwa0pRcnlKcFlTNl9TLTY1TVJfb9IBY0FVX3lxTE9ETU9HS1lqWkZ4a0xocVB1LUI2SUtvcVdxUlh3ejZoNW9ISlMwcjBMMlNkVGxyTGdCSVFmVU5tYkJCRXA3Ynh6dndWaEdwSjBwa0pRcnlKcFlTNl9TLTY1TVJfbw?oc=5"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "youtube-003fdce4",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt",
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "source_name": "오늘의 KBO ⚾",
+  "url": "https://www.youtube.com/watch?v=pxf0m1HdFAE",
+  "title": "충격! KT 배정대, 생애 첫 FA 앞두고 위기… 한화행 가능성은?#배정대 #배정대FA #KT위즈 #한화이글스 #KBO",
+  "published_at": "2026-10-24T06:30:28Z",
+  "collected_at": "2026-10-24T09:37:59.397Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 404,
+    "likes": 8,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 50,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

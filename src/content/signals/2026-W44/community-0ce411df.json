@@ -1,0 +1,23 @@
+{
+  "id": "community-0ce411df",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 갓플베 : 갓키 플레이 베이스",
+  "url": "https://blog.naver.com/yfg7459/224452297130",
+  "title": "\"케이브 KBO 5년 보류권 제약\" 두산과 결별했는데 미국에서는 이적 성공?",
+  "published_at": "2026-10-24T17:00:00.000+09:00",
+  "collected_at": "2026-10-24T09:37:59.397Z",
+  "summary_ko": "블로그가 두산과 결별한 케이브의 KBO 5년 보류권 제약을 짚으며 미국 이적 가능성을 따졌다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "케이브 5년 보류권 논란"
+}

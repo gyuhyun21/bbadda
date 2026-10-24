@@ -1,0 +1,23 @@
+{
+  "id": "community-71e265a2",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 매일 새로운 이슈 & 라이프 매거진",
+  "url": "https://blog.naver.com/director_kj/224452110278",
+  "title": "\"미국 명문대 야구팀 확정?\" 레전드 야구선수 아들, 유망주 최고 등급 찍고 난리 났다 ㄷㄷ",
+  "published_at": "2026-10-24T12:49:00.000+09:00",
+  "collected_at": "2026-10-24T09:37:59.397Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

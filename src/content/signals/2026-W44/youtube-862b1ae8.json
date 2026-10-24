@@ -1,0 +1,26 @@
+{
+  "id": "youtube-862b1ae8",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "피프티쇼핑쇼츠",
+  "url": "https://www.youtube.com/watch?v=UqvUway6-cs",
+  "title": "#김도영#한국시리즈#기아타이거즈",
+  "published_at": "2026-10-24T06:19:14Z",
+  "collected_at": "2026-10-24T09:37:59.397Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 190,
+    "likes": 5,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 53,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-901e47c4",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "연합뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA5RkNqVU44UGd3TTZjNDJyTXM5c243VU9aaU53b1p0Zks3OGlEV1VpbEFhTE45WV9PUzl5a0R1Y1hSV00yT2xwdnhBcFpmUXNJcWpMS21ZYUpnODDSAWBBVV95cUxOOXVic3NSQVExMHQwR2NhNXhDRHp4RzM3TTlXUl9iRTVSM2xSU18yWDNhY2VaODY3QzNrUHZKLVdOSUFVSnN1OTU1ZmpGVnRocmliSmJYNjgtWDBFUmVKMnE?oc=5",
+  "title": "프로야구 삼성, PO 엔트리서 김재윤 제외…KIA는 준PO와 동일",
+  "published_at": "2026-10-24T09:15:35.000Z",
+  "collected_at": "2026-10-24T09:37:59.397Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}
