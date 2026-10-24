@@ -127,14 +127,15 @@ function morning(slot?: Slot): Made | string {
   const nums = ['①', '②', '③', '④'];
   const bg = slot ? 'stadium' : 'balls';
   const when = slot?.when ?? '오늘 아침';
-  const curious = `${when}, ${n}개 구단에\n무슨 일이?`;
+  // 첫 장 제목은 루틴이 '잘되는 후킹'으로 쓴 hook_ko(docs/insta-style.md 2-1절). 없을 때만 일반 문구(2026-10-24 주인: "결과물 후킹이 약하다")
+  const curious = lead.hook_ko ?? `${when}, ${n}개 구단에\n무슨 일이?`;
   const slides = [
     yHook({ kick: `${md(today)} (${wd(today)}) ${slot?.tag ?? '아침판'}`, big: `${n}<small>개 구단</small>`, head: curious, sub: `①번은 ${short(lead.team)} 소식 · 넘겨서 전부 확인 →`, pg: '1/5', tease: tops.map((x, i) => peek(`${nums[i]} ${short(x.team)}`, x.brief_ko!)) }),
-    panel({ step: `① ${short(tops[0].team)} · 오늘의 큰 소식`, head: (lead.hook_ko ?? tops[0].brief_ko!).replace(/, /, ',\n'), pg: '2/5', bg, note: `출처: ${srcOf(tops[0])} 보도 · 우리 요약`, body: `${thumbFig(ytThumb(tops[0].team))}<p class="plab"><b>${esc(short(tops[0].team))}</b>${esc(tops[0].brief_ko!)}</p><p class="pq dense">${sumOf(tops[0])}</p>` }),
+    panel({ step: `① ${short(tops[0].team)} · 오늘의 큰 소식`, head: tops[0].brief_ko!.replace(/, /, ',\n'), pg: '2/5', bg, note: `출처: ${srcOf(tops[0])} 보도 · 우리 요약`, body: `${thumbFig(ytThumb(tops[0].team))}<p class="plab"><b>${esc(short(tops[0].team))}</b>${esc(tops[0].brief_ko!)}</p><p class="pq dense">${sumOf(tops[0])}</p>` }),
     tops.length > 1
-      ? panel({ step: `②~${nums[tops.length - 1]} 이어서 볼 소식`, head: '이 소식도\n챙겨 보세요', pg: '3/5', bg, note: `출처: 언론 보도 · 우리 요약${tops.slice(1).some((x) => ytThumb(x.team)) ? ' · 사진: 구단·KBO 공식 유튜브' : ''}`, body: `<div class="news dense">${tops.slice(1).map((x, i) => `<div class="n-item"><i>${nums[i + 1]}</i><div><b>${esc(short(x.team))} · ${esc(x.brief_ko!)}</b><p>${sumOf(x)}</p></div>${(() => { const t = ytThumb(x.team); return t ? `<img class="yts" src="${t.img}" alt="">` : ''; })()}</div>`).join('')}</div>` })
+      ? panel({ step: `②~${nums[tops.length - 1]} 이어서 볼 소식`, head: '놓치면 대화에\n못 끼는 소식', pg: '3/5', bg, note: `출처: 언론 보도 · 우리 요약${tops.slice(1).some((x) => ytThumb(x.team)) ? ' · 사진: 구단·KBO 공식 유튜브' : ''}`, body: `<div class="news dense">${tops.slice(1).map((x, i) => `<div class="n-item"><i>${nums[i + 1]}</i><div><b>${esc(short(x.team))} · ${esc(x.brief_ko!)}</b><p>${sumOf(x)}</p></div>${(() => { const t = ytThumb(x.team); return t ? `<img class="yts" src="${t.img}" alt="">` : ''; })()}</div>`).join('')}</div>` })
       : extra.replace("'4/5'", "'3/5'"),
-    panel({ step: `${teamsLabel} 한 줄`, head: '구단별\n오늘 한 줄', pg: '4/5', bg, note: '자세한 소식은 bbadda.com', body: `<div class="trows">${rows.map((r) => `<p><b style="--tc:${T.get(r.id)?.color ?? '#555'}">${esc(short(r.id))}</b>${esc(r.line)}</p>`).join('')}</div>` }),
+    panel({ step: `${teamsLabel} 한 줄`, head: '우리 팀은\n오늘 무슨 일?', pg: '4/5', bg, note: '자세한 소식은 bbadda.com', body: `<div class="trows">${rows.map((r) => `<p><b style="--tc:${T.get(r.id)?.color ?? '#555'}">${esc(short(r.id))}</b>${esc(r.line)}</p>`).join('')}</div>` }),
     ctaEnd('오늘 가장 큰 소식은 몇 번? 댓글로 👇'),
   ];
   const caption = [`${slot?.icon ?? '☀️'} ${flat(curious)}`, '', ...tops.map((x, i) => `${nums[i]} ${short(x.team)} ${x.brief_ko}`), '', `${slot?.when ?? '오늘 아침'} ${teamsLabel} 한 줄`, ...rows.map((r) => `${short(r.id)}  ${r.line}`), '', '오늘 가장 큰 소식은 몇 번? 댓글로 남겨 주세요 👇', '더 자세한 소식은 프로필 링크에서 볼 수 있어요.', '', '#KBO #프로야구 #야구 #야구팬 #빠따닷컴'].join('\n');
