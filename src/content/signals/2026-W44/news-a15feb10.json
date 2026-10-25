@@ -1,0 +1,23 @@
+{
+  "id": "news-a15feb10",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9lMU1qRnd6UFoxaUUtTWN4XzBDSGpUd1AtR1p1elMzRERXak5CV1lCaDM2dUE3aVZtNjNOZlh4WkwzVlhfNGhDT3FZNlIxZDNGZEdZUXlGcU9ub295a2V2bk1teEpJSnpfU0dVSjI1Nk12VldqV3dfU2hMQm5GUQ?oc=5",
+  "title": "'디아즈·최형우는 약했다' 통곡의 벽 뚫을 열쇠 '8할 타자'와 '멀티홈런' 듀오에 쏠리는 눈[PO1]",
+  "published_at": "2026-10-25T00:35:59.000Z",
+  "collected_at": "2026-10-25T03:38:03.629Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "youtube-6d0fc107",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "youtube",
+  "source_name": "민휘현",
+  "url": "https://www.youtube.com/watch?v=C_20Y9TS74M",
+  "title": "KBO 유니폼 변천사 EP.01 | KT 위즈",
+  "published_at": "2026-10-25T01:00:21Z",
+  "collected_at": "2026-10-25T03:38:03.629Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 221,
+    "likes": 7,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 56,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

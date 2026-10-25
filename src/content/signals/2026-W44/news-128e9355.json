@@ -1,0 +1,23 @@
+{
+  "id": "news-128e9355",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "일간스포츠",
+  "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1HYlRmaEN2OUlEMnNrS2Jmb0FWV1lBNEZPTWNUTDB4aG1UTFNqXzhGVXdwcUZZQU4yc05mWk9JYTF3TVhDQV9Belo3OWR1V1RYc00xWXR2LUtzR0E?oc=5",
+  "title": "'예매 겨우 했는데 비라니' 삼성-KIA PO 1차전 우천 취소, 26일로 순연",
+  "published_at": "2026-10-25T03:24:00.000Z",
+  "collected_at": "2026-10-25T03:38:03.629Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

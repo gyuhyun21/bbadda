@@ -1,0 +1,24 @@
+{
+  "id": "community-85915c54",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 오늘도",
+  "url": "https://ondlife.tistory.com/259",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/LT5teQUvQK",
+  "title": "[공연장·경기장 분실물] 행사장 먼저 문의하고 경찰민원24 조회하는 순서",
+  "published_at": "2026-10-24T15:08:00.000+09:00",
+  "collected_at": "2026-10-25T03:38:03.629Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 60,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

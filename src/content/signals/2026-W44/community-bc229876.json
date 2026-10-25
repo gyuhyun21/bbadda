@@ -1,0 +1,23 @@
+{
+  "id": "community-bc229876",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 sda6589님의 블로그",
+  "url": "https://blog.naver.com/sda6589/224452865983",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/GTN8orSZy38",
+  "title": "본 세션은\" 한국관광공사는 지난해 키움 히어로즈와 업무협약을 맺고 한국의 독특한 야구 응원 문화를...",
+  "published_at": "2026-10-25T09:51:00.000+09:00",
+  "collected_at": "2026-10-25T03:38:03.629Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

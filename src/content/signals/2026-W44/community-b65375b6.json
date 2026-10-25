@@ -1,0 +1,23 @@
+{
+  "id": "community-b65375b6",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "community",
+  "source_name": "다음카페 도탁스 (DOTAX)",
+  "url": "https://cafe.daum.net/dotax/Elgq/4801791",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/LdCZX5LrRU1",
+  "title": "아직 시즌이 끝나지 않은 두산베어스 팬들",
+  "published_at": "2026-10-24T22:56:54.000+09:00",
+  "collected_at": "2026-10-25T03:38:03.629Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 63,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

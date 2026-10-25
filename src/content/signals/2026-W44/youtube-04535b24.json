@@ -1,0 +1,26 @@
+{
+  "id": "youtube-04535b24",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "펀샷",
+  "url": "https://www.youtube.com/watch?v=VlwaWRfkK9o",
+  "title": "김도영 삼성만 만나면 홈런",
+  "published_at": "2026-10-25T02:00:15Z",
+  "collected_at": "2026-10-25T03:38:03.629Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 777,
+    "likes": 11,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 49,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "youtube-90cd68b3",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "youtube",
+  "source_name": "야구너울",
+  "url": "https://www.youtube.com/watch?v=BBxu5cE09rs",
+  "title": "우승 청부사 김태형, 롯데에선 3년 연속 7위… 결국 재계약 불가",
+  "published_at": "2026-10-25T01:45:24Z",
+  "collected_at": "2026-10-25T03:38:03.629Z",
+  "summary_ko": "롯데가 김태형 감독과 재계약하지 않는다는 내용의 팬 영상이다. 롯데에서 3년 연속 7위였다는 점을 짚는다.",
+  "metrics": {
+    "views": 1343,
+    "likes": 8,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 46,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "brief_ko": "김태형 재계약 불가 정리"
+}

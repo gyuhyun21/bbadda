@@ -1,0 +1,27 @@
+{
+  "id": "youtube-335f603d",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "MBCNEWS",
+  "url": "https://www.youtube.com/watch?v=pqPyMyFBtlc",
+  "title": "VAMOS 가자! 삼성라이온즈 플레이오프 돌입‥ KS 도전 (2026.10.24/뉴스데스크/대구MBC)",
+  "published_at": "2026-10-25T03:00:01Z",
+  "collected_at": "2026-10-25T03:38:03.629Z",
+  "summary_ko": "대구MBC 뉴스데스크가 삼성의 플레이오프 돌입과 한국시리즈 도전을 다뤘다.",
+  "metrics": {
+    "views": 209,
+    "likes": 3,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 45,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "대구MBC, 삼성 KS 도전 조명"
+}

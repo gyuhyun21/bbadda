@@ -1,0 +1,23 @@
+{
+  "id": "news-d877929f",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "www.xportsnews.com",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE12LTVmcUpzX1d0Q1k1cjBjR3pSYnpnLUVYY25sTlBkUXduU2lyWE56Y3g3TWRNb19KNGxBX3dseWljc0U5UkxheVN1Mll2RlFwSGdTYw?oc=5",
+  "title": "日 교육리그 0.387 맹타! '분위기 메이커→게임 체인저' 8R 기적 쓰나?…\"1군 데뷔 첫 안타 안 나와 조급했어\"",
+  "published_at": "2026-10-24T16:35:09.000Z",
+  "collected_at": "2026-10-25T03:38:03.629Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

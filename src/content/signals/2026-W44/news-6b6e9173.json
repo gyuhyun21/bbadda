@@ -1,0 +1,24 @@
+{
+  "id": "news-6b6e9173",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20261025_0003839911",
+  "title": "'최형우 선발 제외' 박진만 감독 \"단기전 수비 중요…구자욱 타격 문제 없어\"[PO]",
+  "published_at": "2026-10-25T02:59:44.000Z",
+  "collected_at": "2026-10-25T03:38:03.629Z",
+  "summary_ko": "25일 PO 1차전 라인업에서 삼성 박진만 감독이 최형우를 제외한 이유로 단기전 수비를 꼽았다. 구자욱은 타격에 문제가 없다고 했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 84,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "최형우 제외, 구자욱 DH 기용"
+}

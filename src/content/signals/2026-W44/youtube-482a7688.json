@@ -1,0 +1,26 @@
+{
+  "id": "youtube-482a7688",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "오행사",
+  "url": "https://www.youtube.com/watch?v=AdwoLWoRQeo",
+  "title": "2026 KBO  KIA 타이거즈 통합우승 기원 '끝까지 가자' #기아타이거즈 #김도영 #2026우승기원 #KIA타이거즈 #KBO #기아타이거즈응원가 #프로야구 #홈런 #만루홈런",
+  "published_at": "2026-10-25T01:04:56Z",
+  "collected_at": "2026-10-25T03:38:03.629Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 866,
+    "likes": 6,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 44,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

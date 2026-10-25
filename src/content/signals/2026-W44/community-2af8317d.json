@@ -1,0 +1,24 @@
+{
+  "id": "community-2af8317d",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 국내외 다양한 스포츠 이야기",
+  "url": "https://blog.naver.com/bus5070/224452920092",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/1Bz8NUnUlcx",
+  "title": "\"11일동안 무슨일이?\" 롯데 김태형감독에게 재계약 불가 통보...내년 시즌도 망했습니다..",
+  "published_at": "2026-10-25T11:50:00.000+09:00",
+  "collected_at": "2026-10-25T03:38:03.629Z",
+  "summary_ko": "한 블로그가 롯데가 김태형 감독에게 재계약 불가를 통보했다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "김태형 감독에 재계약 불가"
+}

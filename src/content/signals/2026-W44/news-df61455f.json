@@ -1,0 +1,23 @@
+{
+  "id": "news-df61455f",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "announcement": true,
+  "source_name": "https://www.mlbkor.com/",
+  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9OSy05aXpZY0VySnlGblA2UVFiMW1pS0g0ZG93cFdfUllncTh0a21wTUN4YjVGRXlrYWl5RGpUOWNFQVRXd3pXWHNQdG1uOVprNkY0UWxxZnFjY0pfX0ttUFhyMTB5cXM?oc=5",
+  "title": "[오피셜] 삼성 비난하고 떠난 투수, 이제 후회하고 있나… 또 방출 확정, 일이 계속 꼬인다",
+  "published_at": "2026-10-24T05:12:36.000Z",
+  "collected_at": "2026-10-25T03:38:03.629Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 60,
+    "relevance": 80
+  },
+  "sentiment": "negative"
+}

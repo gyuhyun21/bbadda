@@ -1,0 +1,24 @@
+{
+  "id": "news-d7e9b916",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "마이데일리",
+  "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1YbjE1TXZWU1V2dVRSLXpILXNEaUJmTFZ2em1jVDBSR2dxanF3SzgxamZibFRYME83MFNUUHdlUXI3aDNwMTdWbE1CbmNSc2w1QmMzZGNzMDBKLUFaRkdHTnR4b3NYdw?oc=5",
+  "title": "박진만 감독 용단! 구자욱 DH는 OK, 최형우 벤치 놀랍네→어떻게 결단 내렸나 \"단기전이니까\" [MD대구 PO1]",
+  "published_at": "2026-10-25T02:47:45.000Z",
+  "collected_at": "2026-10-25T03:38:03.629Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 84,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "community-cf89d876",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 장면수집 | 스포츠 이야기",
+  "url": "https://blog.naver.com/paleorecord/224452301278",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/6ImIvSjzFWO",
+  "title": "\"저만한 선수가 없다\" 데뷔 후 최저 타율에도 첫 FA 최지훈 잡겠다는 SSG가 먼저 꺼낼 숫자",
+  "published_at": "2026-10-24T19:50:00.000+09:00",
+  "collected_at": "2026-10-25T03:38:03.629Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 62,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

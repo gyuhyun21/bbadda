@@ -1,0 +1,23 @@
+{
+  "id": "news-e1fc7b27",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE95WXdiNnR3UkVMekEya1ByaVJQaVhuWkI3Tkdwd1hsZ3VwdzEyZVYyeUZwa2daencxRVl3V3c5c2F0YXllYlJibURmemxPWHlVcG9WbW5iRlA4MTA0MHo4Ni1KNEtDWUVyNjEwLUdTRGpfenRrakR3aXI3ZFJPUQ?oc=5",
+  "title": "김도영·구자욱 홈런 훔치기 도전? 빅리그에서 7년, 한번도 못가본 가을무대…1m96 거포가 꿈꾸는 한국시리즈 [인터뷰]",
+  "published_at": "2026-10-25T02:25:09.000Z",
+  "collected_at": "2026-10-25T03:38:03.629Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

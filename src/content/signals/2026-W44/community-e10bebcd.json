@@ -1,0 +1,24 @@
+{
+  "id": "community-e10bebcd",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 하루의 일기",
+  "url": "https://blog.naver.com/ijandak/224452921698",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/6AFmS7Vv0SR",
+  "title": "안세영 프랑스 오픈, 라이벌 왕즈이 16강에서 무너지며 우승 길 열렸다",
+  "published_at": "2026-10-25T11:17:00.000+09:00",
+  "collected_at": "2026-10-25T03:38:03.629Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

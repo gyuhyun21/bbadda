@@ -1,0 +1,23 @@
+{
+  "id": "news-7f4c7017",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스1",
+  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5VY293a2VvR3c1a0hnVGxSUXFsaXp3ODNCMW9zX2JDWmFicGtHZHIwTmliQi1UMXlvS0lPWWdlUzVUckplMm5KUm1JQTNsQ2sxb1JuTERBWQ?oc=5",
+  "title": "'2년 전 KIA와 KS 결장' 삼성 구자욱, 이번엔 부상 털고 PO 출격",
+  "published_at": "2026-10-25T01:37:30.000Z",
+  "collected_at": "2026-10-25T03:38:03.629Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "news-41a76b92",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBMblRZT2xTalgyNW05R0p6RkRxaUg5eXJHS09uMlBaTHJGSHpyZkZXaUVHc1NkMGh2ampZZzRZZEpKOGtpXzEycmJJTzdHbGsxOTVQNEFQcjFqTm9qZ0dlZHBBcTlxdnJBSnlwRU0tVdIBb0FVX3lxTFBMblRZT2xTalgyNW05R0p6RkRxaUg5eXJHS09uMlBaTHJGSHpyZkZXaUVHc1NkMGh2ampZZzRZZEpKOGtpXzEycmJJTzdHbGsxOTVQNEFQcjFqTm9qZ0dlZHBBcTlxdnJBSnlwRU0tVQ?oc=5",
+  "title": "‘KIA는 가을 마무리 찾았는데’ 삼성, 갑자기 228세이브 마무리가 사라졌다…PO 뒷문 싸움 최대 변수될까",
+  "published_at": "2026-10-24T22:40:00.000Z",
+  "collected_at": "2026-10-25T03:38:03.629Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 82,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4wcnZzeHF3bl9DbTdhbUxZSFFFV2REOVhLVkxuWnVrMzFKLXByOEhCOUk3WlJsa250bTZiRllBR0l6aFU0dWIyX01TeFpqeURvMGpJRg?oc=5"
+    }
+  ]
+}

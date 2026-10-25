@@ -1,0 +1,24 @@
+{
+  "id": "community-077839b6",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 온유한 하루",
+  "url": "https://blog.naver.com/amica3/224452885437",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/5dEJj7mG26L",
+  "title": "임창용 KIA 삼성 플레이오프 예상, 나흘 휴식이 갈랐다",
+  "published_at": "2026-10-25T11:40:00.000+09:00",
+  "collected_at": "2026-10-25T03:38:03.629Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

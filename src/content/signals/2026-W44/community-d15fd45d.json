@@ -1,0 +1,23 @@
+{
+  "id": "community-d15fd45d",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 카무싸리의 푸짐한 블로그",
+  "url": "https://blog.naver.com/kamussari/224452763792",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/4lWHVnHH6q9",
+  "title": "삼성 구자욱, 한 달 만에 PO 엔트리 복귀했지만 '반쪽짜리'인 이유",
+  "published_at": "2026-10-25T08:30:00.000+09:00",
+  "collected_at": "2026-10-25T03:38:03.629Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

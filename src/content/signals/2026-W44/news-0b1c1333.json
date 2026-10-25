@@ -1,0 +1,22 @@
+{
+  "id": "news-0b1c1333",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "뉴시스",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ONEVZcnRuVGtudXdfT1pEWVppVUphTXlyNDE3Q3pLMDFlOXdhZkZOOG9XTUVIZEJwMkdLRDdFVy1WbXdGVXVjejBiVUNYV1FQaXV1VnRKX3RTaFZKS2t0MtIBeEFVX3lxTE1TakNyY2JqYWhJRXNmSXZudFVTREJmeDcxclZHTkJPSmpnekwxSDdxeDlza2J4LUR2czVtTGJXcFQ2X25aU2Z1TzB3WHotRDZiRG1ZeG9ERzBVMXRqWkUtOExyXzFHckw0dEVQbUFLM2tsM2xBdW9NYQ?oc=5",
+  "title": "'새 클로저 후보' 삼성 이승민 \"보직 상관없이 내 공에만 신경 쓰겠다\"[PO]",
+  "published_at": "2026-10-25T03:20:40.000Z",
+  "collected_at": "2026-10-25T03:38:03.629Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

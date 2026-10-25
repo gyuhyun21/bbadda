@@ -1,0 +1,24 @@
+{
+  "id": "news-19c7680c",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "뉴시스",
+  "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261024_0003839725",
+  "title": "KIA, 삼성 '좌타라인' 봉쇄 관건…이의리·곽도규 중책[PO]",
+  "published_at": "2026-10-24T22:00:00.000Z",
+  "collected_at": "2026-10-25T03:38:03.629Z",
+  "summary_ko": "KIA가 삼성의 좌타 라인을 얼마나 막느냐가 PO의 관건이라는 분석이다. 이의리와 곽도규가 중책을 맡을 것으로 전해졌다.",
+  "metrics": {},
+  "scores": {
+    "hot": 82,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "삼성 좌타라인 봉쇄가 관건"
+}

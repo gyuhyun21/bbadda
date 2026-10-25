@@ -1,0 +1,33 @@
+{
+  "id": "news-f49c1e74",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://www.mt.co.kr/amp/sports/2026/10/25/202610250651776411O",
+  "title": "‘우승하고 김도영 뽀뽀하고 싶어’ KIA 사랑꾼 네일, 우승하고 싶으면 ML 32승 에이스 잡아야 한다",
+  "published_at": "2026-10-25T00:40:00.000Z",
+  "collected_at": "2026-10-25T03:38:03.629Z",
+  "summary_ko": "머니투데이는 네일이 우승하고 김도영에게 뽀뽀하고 싶다고 했다고 전했다. 우승하려면 메이저리그 32승 에이스를 넘어야 한다는 내용이다.",
+  "metrics": {},
+  "scores": {
+    "hot": 99,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5FUTRQb29KU2FnT3RHdzU1RDhRZFpWZTRWdWVpQ2hpeXRXai1pQ3lTNVRZM0lxYXhya09md2h3QWFjTUNZek5jTTd3RVNjRnVqLXdHSA?oc=5"
+    },
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQY0VtaVc3REVWRG1vZF9Tamh4UVFKNnBmcWN1SHhmOVd4WUk0ci12QklkdUJaSklFZldTV3hZOVV5eHdaRTRVSmdmM1B5UEFnM091MmtSVG9hb2pQSnNkcER5cHpWY0Q5T1Jlc3JmQk9LSHFJR3p5Z0FFVlkzRFY0a1pTUQ?oc=5"
+    }
+  ],
+  "brief_ko": "네일, 우승하면 김도영 뽀뽀"
+}

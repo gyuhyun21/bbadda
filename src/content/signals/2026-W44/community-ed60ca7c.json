@@ -1,0 +1,30 @@
+{
+  "id": "community-ed60ca7c",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 카무싸리의 푸짐한 블로그",
+  "url": "https://blog.naver.com/kamussari/224452893235",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/1cM0Q1QVSdL",
+  "title": "대구에 태풍까지, KIA-삼성 PO 1차전 열리나 일정 총정리",
+  "published_at": "2026-10-25T12:10:00.000+09:00",
+  "collected_at": "2026-10-25T03:38:03.629Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 92,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQX01MbHpfT3ByRFdFZmUxSGVKUVVCalJXR1NhNi1aSkpTNGd5Ui0xS1hVY3l0enpuekFMUTd5SXQ3dmpGWloyMS0ydjIzUkZ4S2F3NnpIY0J2clU1bWd4cTJFZmkzQ3F1eEprV0ZRMGpUcUVyZ3N1YWJ2NExUUUd4d2dqZw?oc=5"
+    }
+  ]
+}

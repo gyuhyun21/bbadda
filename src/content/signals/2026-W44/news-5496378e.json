@@ -1,0 +1,23 @@
+{
+  "id": "news-5496378e",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "조선일보",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOblIxeE9vV2xiNlU0a1R4QXZ5aXozZFdVUVd0Y1RjTDRGU1hzT0t4TDhrUjBhejliVkEyOGp2M0lnQXpnZmhlQnEybzV5ZmpVQjhJcUtLVnFYSzZINUtXWmxtdUJXZjZoenY4YXpYaVJLVGQ3UkFrc3pnVGNTZ1ZpZmVVbw?oc=5",
+  "title": "'김재윤 부상→마무리 1옵션' 23홀드 좌완, 2년전 KS 설욕 다짐 \"2등은 아무도 알아주지 않더라, 꼭 복수하고 싶어\" [PO1]",
+  "published_at": "2026-10-25T03:10:00.000Z",
+  "collected_at": "2026-10-25T03:38:03.629Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

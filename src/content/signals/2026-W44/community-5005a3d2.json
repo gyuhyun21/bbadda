@@ -1,0 +1,33 @@
+{
+  "id": "community-5005a3d2",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 덕이매거진 | 스포츠에 진심인 덕후 오리",
+  "url": "https://blog.naver.com/schinmagazine/224452964344",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/GAnwqZoqTSJ",
+  "title": "‘KIA전 타율 0.190’ 최형우 선발 제외…구자욱 3번 DH 출격",
+  "published_at": "2026-10-25T12:12:00.000+09:00",
+  "collected_at": "2026-10-25T03:38:03.629Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 100,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "스포츠경향",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAxa2g3bnNqdmN3UlZBZ3FGVDlJNmRYVkxtdDRCZ0JpWC1sSWRxSGMyX3I1b3dPOGNVZ2U3OHFTMl9ZSU56NnJzcEJmS2JMMjUxNDRiblJxZDNFejYtenfSAWNBVV95cUxPZm1oTUhsb2dmOEd2bUxiTmZSeXBGTWNUbmpfT3U4YW5lemhXaGZMdUFMdXFXVUhjYjVBazNGSDdaWDZ0LW1vUWc2cXFXUnRLUmRBNHJhajU5aHpwQVRELTg5clk?oc=5"
+    },
+    {
+      "source_name": "데일리안",
+      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOWG0xQ3VDaFJCWm9tbGQ5YnZwZzZjYlVLdXZNZ0V4ZGZOUnBFVnVqSy1WWGNIaVZDZXRQUXExUzhNbEUwZVE2RmhqRmpmcEJqR2E4R1JVMzdrMnhSRGZwSjdmMXliWXNLX2h5V1dPTGxiUEN2THpEWklGdHRlYnpqVGxxV1prVVBDYi1wRmtGYnFMZHJrTGF2Yld1M1BZNkh5bGJjVlB2VUZWa045S2JKTl9FdEVfSE1XSmFWOGFWci0zU0JKa2pzNjZnQXhpbkJjeE9RcDZSX2FEaVc0cEt1WVpsbzZVekhzZUtnZDlUWG85WkJ4LWtRU1hiX2UtX0JyQmRubERDWEVteHE5X2hRNENnS0JIcmN2?oc=5"
+    }
+  ]
+}

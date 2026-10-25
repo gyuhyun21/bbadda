@@ -1,0 +1,28 @@
+{
+  "id": "news-c9ebb2b0",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "조선일보",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUDFJdE9pNHFBOHZxcVFsSzNSY0NNTW5EWVJYaC1OYUxWaFpKZm9kd2phOVJEVFdTM3FlckZJeUlvYUZvNFFhRVVyazRWYkFVV0w3YXA4cFQ3NUpqV0JVSExMREVmdEtYcUNtYl85X0RuS0RqMXFrVVY0aG9tbTNHYXNwbw?oc=5",
+  "title": "'아, 하필 태풍이 이때' 비 내리는 대구, PO 1차전 열릴 수 있나...취소되면 KIA가 유리?",
+  "published_at": "2026-10-25T00:22:00.000Z",
+  "collected_at": "2026-10-25T03:38:03.629Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 99,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE91TmN1M0xuUElkNFVMbzlzSjlOYS1wVEJ4OV9LSnJSVUZWVW5fR0VmMnlDTXNzcjdVZjRhdlVrbS1NQjQ2UkduU0dVM05LdjBLdEYw?oc=5"
+    }
+  ]
+}

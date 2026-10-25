@@ -1,0 +1,24 @@
+{
+  "id": "news-59ad48aa",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "ssg",
+  "teams": [
+    "ssg",
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE10UTlJd1c0QktZSFpwZ1VfLXNQQUloQjFkV21xRFkxQ3lwZlV4eW1uOHVLcV9ZUWROS2V2bFFrUHlPT2xXcWxLX2lFSUs0MFk1N0Q3R3oxZm5pXzZjcEY5Tk9YLTRwVUVyU21QajBOYXM0ckR2QUVGdVFocTczdw?oc=5",
+  "title": "\"단기전 수비 고려\" 최형우 시리즈에 최형우가 없다, 구자욱 DH '플랜C' 현실화, \"경기 후반 수비 투입 열린 가능성\"[PO1]",
+  "published_at": "2026-10-25T02:48:38.000Z",
+  "collected_at": "2026-10-25T03:38:03.629Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 84,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

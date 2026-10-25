@@ -1,0 +1,24 @@
+{
+  "id": "community-de53d61e",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha",
+    "lotte"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 Yestistory",
+  "url": "https://newsgdr.com/13598",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/FBv2QWmiGQV",
+  "title": "한화 이글스, 롯데에 0-7 완패…타선 침묵과 실책으로 무너진 경기력",
+  "published_at": "2026-10-25T10:36:57.000+09:00",
+  "collected_at": "2026-10-25T03:38:03.629Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

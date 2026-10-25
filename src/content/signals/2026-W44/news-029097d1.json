@@ -1,0 +1,24 @@
+{
+  "id": "news-029097d1",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBKV250MHhDZ29jdHpGOHFPeUJjY0M2dEJ6azNXMzN3eGxmbkN1cGVtOUNxQ3B5RzEtaC15R2M2UWZRM2NHN0FFbGxoZm1VSlkyQVdwd2F5VTVsZWp3UzNLR0MyTFpHLWdNcUFQLWZEaXVsenhhbHJrc2VlRHFFZw?oc=5",
+  "title": "하, 35개 세이브왕 공백 메울 수 있는 건가...박진만 감독, 대책을 이렇게 설명했다 [PO1 현장]",
+  "published_at": "2026-10-25T02:46:48.000Z",
+  "collected_at": "2026-10-25T03:38:03.629Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 84,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "community-0ca1141e",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 소소한 일상",
+  "url": "https://blog.naver.com/sonrea51/224452746512",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/JjGrxBPDo2",
+  "title": "(평점3점) 김민재 교체 부상, 타보다 앞선 주전 경쟁…정밀검사 결과는 어떻게 나올지가",
+  "published_at": "2026-10-25T04:30:00.000+09:00",
+  "collected_at": "2026-10-25T03:38:03.629Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

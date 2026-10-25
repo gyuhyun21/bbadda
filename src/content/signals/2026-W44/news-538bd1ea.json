@@ -1,0 +1,23 @@
+{
+  "id": "news-538bd1ea",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "STN SPORTS",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9nWjVaQk52T240OWQ5cHFCYnpjM01UeGI5MFhlQVMxdGstdkJ6SW1nbmFXUGtTTTlpaURXMTk1UHpSbGd1bEJ0YTBYX0VycmZIOWZPYW5iWi1VRFlmYWFZWXR6cldKT0tCS21xYmg3QQ?oc=5",
+  "title": "두산에선 7년 연속 한국시리즈, 롯데에선 세 번의 7위… 김태형 감독 떠난다",
+  "published_at": "2026-10-24T14:05:48.000Z",
+  "collected_at": "2026-10-25T03:38:03.629Z",
+  "summary_ko": "보도에 따르면 롯데 김태형 감독이 팀을 떠난다. 롯데에서 7위만 세 번 했다는 점을 짚었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 71,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "김태형 감독, 롯데 떠난다"
+}

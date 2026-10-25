@@ -1,0 +1,24 @@
+{
+  "id": "community-99c9d202",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "엠엘비파크",
+  "url": "https://mlbpark.donga.com/mp/b.php?id=202610240119624772&p=1&b=kbotown&m=view&select=spf&query=KBO&site=donga.com&pos=reply",
+  "title": "크보에서는 감독이 꽤 중요합니다",
+  "published_at": "2026-10-24T03:38:03.629Z",
+  "collected_at": "2026-10-25T03:38:03.629Z",
+  "summary_ko": "",
+  "excerpt": "... ... LG · 한화 · SSG · 삼성 · NC · kt · 롯데…",
+  "metrics": {},
+  "scores": {
+    "hot": 59,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

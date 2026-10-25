@@ -1,0 +1,24 @@
+{
+  "id": "community-1ff0cb5a",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 정보매니아",
+  "url": "https://blog.naver.com/chltjsdn1994/224452864738",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/DoTLc72T8TZ",
+  "title": "류현진·이대호·김도영 다음은 힐리어드! KBO 역사상 외인 최초 MVP 2회 수상",
+  "published_at": "2026-10-25T09:48:00.000+09:00",
+  "collected_at": "2026-10-25T03:38:03.629Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "news-ab665b72",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE91RVd2UVd0RkVRRjM4RW9fZ2xDVTJQcGt5R29wZnJyNjFEX3k1UlA3eVpTZEhxNHNGenhUa3hIYzR2b3Y1UGV3OW9YdHFsdEZQU3VBUllnU0RaTGcyS0tTck5MVWVxMFVoY3FYdGNoNNIBb0FVX3lxTE91RVd2UVd0RkVRRjM4RW9fZ2xDVTJQcGt5R29wZnJyNjFEX3k1UlA3eVpTZEhxNHNGenhUa3hIYzR2b3Y1UGV3OW9YdHFsdEZQU3VBUllnU0RaTGcyS0tTck5MVWVxMFVoY3FYdGNoNA?oc=5",
+  "title": "‘10월에 태풍이라니’ 삼성-KIA PO, 설마 1차전부터 우천취소되나…라팍 방수포 설치, 오후 6시까지 비 예고 [PO1]",
+  "published_at": "2026-10-25T00:57:00.000Z",
+  "collected_at": "2026-10-25T03:38:03.629Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 99,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBvWExsU3FTUndpdHJNZm56N2g3Rm9HYkRXb01QVWpnQWRvenR0MUpxUGg2QV9hUHVXbXZETlpZd0hSS1dzZU1oZ29wZUhLY3FjUDFVMQ?oc=5"
+    },
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNUxBRWlQUFhNTVN6UWt6LVh0M1lYMWdTSW1YQ0UtSUg1bGxlZ1dCMVF1Wm5qY1lwS3Y4clZJYWJ2NU51V3RxZ2N0aDM1VTJBMGc2cmoyTUNOM0Y5MFg3YXpYenVNQjdJOWtjWkh3clZXbkJSc095TmxvTWVhaTVPUUVPaw?oc=5"
+    },
+    {
+      "source_name": "한스경제",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9kZWU3cU1QVWU4Unc3dk05b1hwWV9hNnU3UGlzYmdBWmNoT0tlMmdKZGZZZzFyWndXRlRJREJ4UEViOFNDQXFxMHpvSEtyTHdqMlZSd0IwZ0JhbWl0UThTdVBsa25Wc0h4MWJvStIBb0FVX3lxTE9lNVh4SlUwQzN0YlRzZGdVa1VfNDJna0NfVFFMNUxfY2ZBQUtsRUNxelk0aTRaUkNtYlhyQVVQeVJZckk0cEZnYVBPVzJCZ0RMbGtSMnlGNDF1MFNncWVseHY0dzU3LWZlcjZWRFljZw?oc=5"
+    }
+  ]
+}

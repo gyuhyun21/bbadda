@@ -1,0 +1,22 @@
+{
+  "id": "news-3065a04d",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "데일리안",
+  "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE50VkFmRWlQVlR3WTM0bVNGVEF3bWhjRVBvSlVjRVlXOUl0WlRPMjU2S3N3VF9UQW05OG5UaTRxc0w1aEZ5a05McVQxZE03LXFlVG9r?oc=5",
+  "title": "출전 불발 김재윤·수비 어려운 구자욱…KIA에 쏠리는 우주의 기운",
+  "published_at": "2026-10-24T21:59:00.000Z",
+  "collected_at": "2026-10-25T03:38:03.629Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-04685b7e",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "마이데일리",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBPaWtudWlBa05uR3RBcUZFcTIzOG5hdzBEX3k3Yi1fcWNNSjFYbUlna3R1MEE0U1M1UFJQc1pKRm1qRUIyOWhHVmoxSkFyTVhzS1l1U0hiQjg5bXc4T2ROZA?oc=5",
+  "title": "야구 못 하겠는데? 이틀간 대구 적신 가을비, KIA-삼성 PO 1차전 열릴 수 있나 [MD대구]",
+  "published_at": "2026-10-25T01:09:17.000Z",
+  "collected_at": "2026-10-25T03:38:03.629Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}
