@@ -1,0 +1,22 @@
+{
+  "id": "news-6970730a",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "www.kyongbuk.co.kr",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE94SVFuaUl5bzRIMEJYTFhiajZWMUZRWGIzVWVUTlpCWmRjV1dXYWlhVm9jZmhCZGp6dGNpcW5aZjZMdFE5bGpWYUJtdGR6ODBHeDg4d3VuZjhaVERiZUxfd0FqTUs3SnR3Y2Rucm1zdw?oc=5",
+  "title": "삼성라이온즈파크 쓰레기 2년 새 두 배…관중보다 빨리 늘었다",
+  "published_at": "2026-10-25T07:52:38.000Z",
+  "collected_at": "2026-10-25T09:38:14.686Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

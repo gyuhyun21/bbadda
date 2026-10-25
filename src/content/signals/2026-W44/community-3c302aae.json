@@ -1,0 +1,24 @@
+{
+  "id": "community-3c302aae",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 H",
+  "url": "https://blog.naver.com/heojung89/224453228271",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/CRtP7s04K8Z",
+  "title": "오늘 야구 못 본다고? KIA·삼성 플레이오프 우천 취소 일정까지 싹 바뀌었다!",
+  "published_at": "2026-10-25T17:49:00.000+09:00",
+  "collected_at": "2026-10-25T09:38:14.686Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

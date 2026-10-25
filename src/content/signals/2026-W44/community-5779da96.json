@@ -1,0 +1,24 @@
+{
+  "id": "community-5779da96",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 .",
+  "url": "https://blog.naver.com/247sports/224453071019",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/G6yuU2K57cm",
+  "title": "삼성 KIA 플레이오프 우천 순연, 26일부터 시작되는 대구 2연전",
+  "published_at": "2026-10-25T14:32:00.000+09:00",
+  "collected_at": "2026-10-25T09:38:14.686Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-bc37a407",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "무등일보",
+  "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9LcTduRHBwdUVYUGM5dEJjUGlEWVRwVU5oYl9DME5yQ2hVWHpHc18wUHVDRkRmUXNBWVktYVdaZ3dQMnNGeXZZbmRKS18?oc=5",
+  "title": "‘태풍 때문에’ KIA-삼성 PO 1차전 하루 순연···이번엔 누가 웃을까",
+  "published_at": "2026-10-25T06:57:00.000Z",
+  "collected_at": "2026-10-25T09:38:14.686Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 83,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

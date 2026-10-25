@@ -1,0 +1,26 @@
+{
+  "id": "youtube-13a60e82",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "youtube",
+  "source_name": "김알 - 김팀장이 알아봤다!",
+  "url": "https://www.youtube.com/watch?v=gnnEXOv0_vg",
+  "title": "두산 베어스 3승 8패 충격 성적! 일본 교육리그에서 무슨 일이? ⚾ #두산베어스 #KBO #shorts",
+  "published_at": "2026-10-25T09:03:33Z",
+  "collected_at": "2026-10-25T09:38:14.686Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 325,
+    "likes": 1,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 34,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

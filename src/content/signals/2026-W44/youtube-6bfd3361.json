@@ -1,0 +1,26 @@
+{
+  "id": "youtube-6bfd3361",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "youtube",
+  "source_name": "작은손 피아노",
+  "url": "https://www.youtube.com/watch?v=5eHq0tOSCuM",
+  "title": "NC 다이노스 - 고준휘 응원가 피아노 | piano cover🎹 | Arr. 작은손 피아노 ",
+  "published_at": "2026-10-25T06:42:38Z",
+  "collected_at": "2026-10-25T09:38:14.686Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 4,
+    "likes": 2,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 49,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

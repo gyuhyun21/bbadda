@@ -1,0 +1,23 @@
+{
+  "id": "news-e034dc1c",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠월드",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1BaHlGM0JCa24wLUtKYUQxclhEd1NlS2thMFc4THpyc0cydmRQTkk0UTc3OFBxZ2E4eURxZ04tUzdkTlBxTVBsUGlNb01yTlhtNWNLbzVGNGtkaUZTMlhTYnZB?oc=5",
+  "title": "[PO1] 한준수가 DH로?…이범호 감독이 무게중심을 더한 곳 ‘상대성’",
+  "published_at": "2026-10-25T06:15:39.000Z",
+  "collected_at": "2026-10-25T09:38:14.686Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

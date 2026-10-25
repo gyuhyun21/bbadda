@@ -1,0 +1,24 @@
+{
+  "id": "community-9bf55bf7",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "community",
+  "source_name": "다음카페 도탁스 (DOTAX)",
+  "url": "https://cafe.daum.net/dotax/Elgq/4801971",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/Dy5qORkDmXL",
+  "title": "[스포츠경향 단독] 롯데 자이언츠, 이택근 단장 선임 예정",
+  "published_at": "2026-10-25T17:32:21.000+09:00",
+  "collected_at": "2026-10-25T09:38:14.686Z",
+  "summary_ko": "스포츠경향 단독 보도에 따르면 롯데가 이택근 단장 선임을 앞두고 있다. 구단이 공식 발표한 내용은 아니다.",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "이택근 단장 선임 예정 보도"
+}

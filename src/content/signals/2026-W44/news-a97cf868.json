@@ -1,0 +1,29 @@
+{
+  "id": "news-a97cf868",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스타뉴스",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9wMW16ZHZKZXdyemxfQW9pS0VqNzBEenlQdDJtb2RvcXJPV2tFckV5Q2g5SUUzb0Ntcl9NZ0R0dmtSMTlpYXVWQTRvZHJqaWpldV85MzhzM0RLX0pyZGYzZ05GNkhrQzgwNGhqY2lsX3A1dURDaHc?oc=5",
+  "title": "43세 베테랑도 깜짝 놀란 '마무리' 전격 이탈→최형우 \"당황스러웠지만 동요 없다, 메울 선수 많아\"",
+  "published_at": "2026-10-25T04:57:30.000Z",
+  "collected_at": "2026-10-25T09:38:14.686Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 98,
+    "relevance": 70
+  },
+  "sentiment": "negative",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5SeUtvNUEwT2tILVlnYmxoMnk1bWdEN1RfRU5xb2pFMGw5Slg2RE8ySENBQ0pBT2czQ2ctUkYyc191M2o1a2MyYVdLTHpCc25TSVV0MzVZdnJWVUhKeGRPdWhKd2JLTzFLeHfSAW9BVV95cUxONXVGNDd1VVVtVjNUZGlMNDVFWTItYzVJR0lfX2U1TzhITk0wbFMwLVBoX1RLbVpiOHdYclFaaXBvczRaZElmaFU1dF9TQTVrWjViZFl3bm84ZE4yVWtNMWoxWllMZk44eHkyOW9CU2c?oc=5"
+    }
+  ]
+}

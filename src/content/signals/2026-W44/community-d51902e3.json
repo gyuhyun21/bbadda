@@ -1,0 +1,24 @@
+{
+  "id": "community-d51902e3",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 코드 뉴스",
+  "url": "https://nachodasi.tistory.com/5",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/3jWtfHLeJai",
+  "title": "삼성 KIA 플레이오프 1차전 우천취소, 재개일 10월 26일 정리",
+  "published_at": "2026-10-25T17:20:29.000+09:00",
+  "collected_at": "2026-10-25T09:38:14.686Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

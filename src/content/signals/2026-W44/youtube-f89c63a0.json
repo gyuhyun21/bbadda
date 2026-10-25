@@ -1,0 +1,26 @@
+{
+  "id": "youtube-f89c63a0",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "외야석야구",
+  "url": "https://www.youtube.com/watch?v=uhuCAoaILUU",
+  "title": "KBO 역사상 가장 간결한 연속 적시타 #박정우 #박재현 #KIA타이거즈 #KBO",
+  "published_at": "2026-10-25T08:30:13Z",
+  "collected_at": "2026-10-25T09:38:14.686Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1056,
+    "likes": 20,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 53,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

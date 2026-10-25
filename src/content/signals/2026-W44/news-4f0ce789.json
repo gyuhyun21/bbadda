@@ -1,0 +1,24 @@
+{
+  "id": "news-4f0ce789",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA5ZUJwLUxEeXctc2d5cThOYzRKQjVPU0tsNEdEcnI0VzU3eGcxMXh0M2ZFQWlYYmJwNVN6QkRQSnRDQ3Z2c3hXY25RVUJfWkdJa0wxdTVNNWtidlVCbDV2VnM5dFFzWHp0bHfSAW9BVV95cUxNNWlyaGdNRXFJRU8xOVFzaHIxX0JkaEx2V09kd08wOWhwdGthcFNGa1I0MDZfVkJCa1l1T290dFVtWVgzX1A2NzRnaldRa0dlQzdINzVHSzBCQkM5UnNvYVd5RlU0UnEwUjBLQ2lOQjA?oc=5",
+  "title": "\"우리가 유리하다\" 최형우 라인업 빠지자 깜놀, 부상 타격왕 출전에 걱정...그럼에도 슈퍼스타는 업셋 자신감 왜?",
+  "published_at": "2026-10-25T06:40:00.000Z",
+  "collected_at": "2026-10-25T09:38:14.686Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

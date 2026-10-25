@@ -1,0 +1,22 @@
+{
+  "id": "news-a9065416",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "영남일보",
+  "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBCRkZMeHZ5dE9aeWRkT3Y3M2FUYnE3T2NzNlgzcEVoS0hjVklHR1VQNHVfRHBaTWFtT2hkRTBZNW02TkRQM3o2WkVEQzc4RTA2MUxNQlNZQnp1b1NCZFhkcmwwOUljZW4zX0V3?oc=5",
+  "title": "[포토뉴스] 우천순연 안내문 붙은 삼성라이온즈파크",
+  "published_at": "2026-10-25T06:29:34.000Z",
+  "collected_at": "2026-10-25T09:38:14.686Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

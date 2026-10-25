@@ -1,0 +1,33 @@
+{
+  "id": "news-83909910",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "뉴시스",
+  "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261025_0003839958",
+  "title": "KIA 이범호 감독, 우천 취소에 \"마지막에 웃는 팀이 오늘 비에 이득 본 팀\"[PO]",
+  "published_at": "2026-10-25T05:17:35.000Z",
+  "collected_at": "2026-10-25T09:38:14.686Z",
+  "summary_ko": "KIA 이범호 감독은 우천 취소에 대해 마지막에 웃는 팀이 비에 이득을 본 팀이라고 말했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 90,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9sdFpGajB5QnN4RGhjc2c3QVVQQXNQcjhZT21EeDhHUTVsd1dWNzVvbXdFeTBxSU52YVNOcEpHWG8tOUoxeUE?oc=5"
+    },
+    {
+      "source_name": "www.stnsports.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBoTzRJRkpMTFBlc3V4NmpERFZHU043bDBLSW52Z3drVi16YjY1aHNqWmFZT3plRzVxUjJ2ZVpkeUhSZjdKUVlTbnJwaDVSU1dObDFpdDI4WVlkckJ2VGE5TldJbWZxcElxZjRjMTI5aw?oc=5"
+    }
+  ],
+  "brief_ko": "이범호 \"웃는 팀이 비 이득\""
+}

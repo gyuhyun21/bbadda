@@ -1,0 +1,23 @@
+{
+  "id": "news-a50749f9",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "뉴시스",
+  "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261025_0003840019",
+  "title": "KIA 김도영 \"드레스코드 응원 경쟁? 팬들도 함께 경기하는 느낌\"[PO]",
+  "published_at": "2026-10-25T05:46:57.000Z",
+  "collected_at": "2026-10-25T09:38:14.686Z",
+  "summary_ko": "KIA 김도영은 드레스코드 응원 경쟁에 대해 팬들도 함께 경기하는 느낌이라고 말했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 83,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "김도영 \"팬들도 함께 경기\""
+}

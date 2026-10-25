@@ -1,0 +1,29 @@
+{
+  "id": "community-19a413c8",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 지식 한 스푼",
+  "url": "https://blog.naver.com/help2000/224453212772",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/2Spenu4hCKZ",
+  "title": "[2027 롯데 자이언츠] '이동욱 감독 - 이택근 단장' 체제가 가져올 사직의 새로운 바람",
+  "published_at": "2026-10-25T17:29:00.000+09:00",
+  "collected_at": "2026-10-25T09:38:14.686Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQTNCNkt5dGhqWEsyZUZjSTl0YVVBR0JFbDN5aENPN3h0ZnVsNlZTRnRubnVPamdvcXFiOTl5WTNaQ05oNXhITDRLRERDeF9OWlRlNFhocGpjT0Z0dFJHOGw0WU5RaUpKa2V3THpzZU54SW1JOVJIeW94LXh2WndNbVR4aw?oc=5"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-a7a40cfb",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "매일신문",
+  "url": "https://www.imaeil.com/page/view/2026102513084195804",
+  "title": "삼성 라이온즈 `빨간불`, 타율 1위 구자욱 돌아오니 세이브 1위 김재윤 이탈",
+  "published_at": "2026-10-25T05:27:47.000Z",
+  "collected_at": "2026-10-25T09:38:14.686Z",
+  "summary_ko": "매일신문은 타율 1위 구자욱이 돌아온 삼성에서 세이브 1위 김재윤이 빠졌다며 빨간불이 켜졌다고 짚었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 83,
+    "relevance": 70
+  },
+  "sentiment": "mixed",
+  "brief_ko": "구자욱 복귀, 김재윤은 이탈"
+}

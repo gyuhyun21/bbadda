@@ -1,0 +1,29 @@
+{
+  "id": "community-04e0a423",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 리도의 생활 노트",
+  "url": "https://blog.naver.com/james_parku/224453108390",
+  "title": "삼성 KIA PO 1차전 우천취소, 26일 저녁 6시 30분으로 밀린 일정과 예매표",
+  "published_at": "2026-10-25T16:00:00.000+09:00",
+  "collected_at": "2026-10-25T09:38:14.686Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "뉴스핌",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4yR1V1QWR5NGIzY2ppVFlrZXFCcjdVZE1tckhZcGh1dFFHUGdza2pIVTFmd2ZCRHBGQ3RMNjFRZnlnZ2JkYW5PZ1h6em91a1BoUDk4YTdoWEV3ZXRq?oc=5"
+    }
+  ]
+}

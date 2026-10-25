@@ -1,0 +1,24 @@
+{
+  "id": "community-a207b673",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 보고 잊기엔 아까워서",
+  "url": "https://nowplayingg.com/143",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/Ic3ZlEzU6EN",
+  "title": "APBC 국가대표 (2) 좌완투수",
+  "published_at": "2026-10-25T16:28:22.000+09:00",
+  "collected_at": "2026-10-25T09:38:14.686Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

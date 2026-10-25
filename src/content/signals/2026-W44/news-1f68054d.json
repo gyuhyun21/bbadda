@@ -1,0 +1,23 @@
+{
+  "id": "news-1f68054d",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "더게이트",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5iN2pEZ196eVRVeHJObFd0UkFaS3NhYURwV2tyQUpma3IyS3djdXZ2ZU1Sa1dqaUxYdzNMWUR0UG5FZUluMDlLZDBUanBmZUZsVmc2VGxGdmVYUFA2aGJaVVlZWG51bExP0gFsQVVfeXFMTUVlWGlubmRuSUI3M1g0cmFQN25NaHN5QmtmOGlWUFJLdjRYWk84Z0pIUW5Ta0xuYTd0TmNIVTRONFlGSDlSWERvbzJxNVJaQVlnYmVadXphVlZ6eG9Md1dMRS1MT1JEV0xOZFJL?oc=5",
+  "title": "준PO 전승 통과 팀 3분의 2가 한국시리즈 진출…KIA-삼성 PO 운명, 1차전 1회 보면 보인다?",
+  "published_at": "2026-10-25T03:01:33.000Z",
+  "collected_at": "2026-10-25T09:38:14.686Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 80
+  },
+  "sentiment": "neutral"
+}

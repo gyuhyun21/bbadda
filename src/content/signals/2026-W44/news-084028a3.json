@@ -1,0 +1,23 @@
+{
+  "id": "news-084028a3",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "광주드림",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5NaF9RNHcxem5HWk8wME5oR25BZmU5dUJSbUFyYmFWQXcteDY5TWFVLU1EcGdCSWFWSTczdzFCTUlWbzBWeng0akFYZlNUOUFhRzZLOUo3Ym1yajNMdzhIdkFqSzFNTXgtUkE?oc=5",
+  "title": "가을비에 멈춘 KIA-삼성 PO…광주 경기는 29·30일로",
+  "published_at": "2026-10-25T06:39:01.000Z",
+  "collected_at": "2026-10-25T09:38:14.686Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

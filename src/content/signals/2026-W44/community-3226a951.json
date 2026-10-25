@@ -1,0 +1,30 @@
+{
+  "id": "community-3226a951",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 마린이의 생활경제",
+  "url": "https://blog.naver.com/marininfo/224453034336",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/GnavGa2PJ16",
+  "title": "플레이오프 1차전 우천 취소, 26일 오후 6시 30분 재개 | 삼성 페덱 vs 기아 네일 그대로.",
+  "published_at": "2026-10-25T13:45:00.000+09:00",
+  "collected_at": "2026-10-25T09:38:14.686Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 82,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "한국일보",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5lRjJPeC1VSndZRGxnZ0llcnNjUXRPc3NpYTFVYU5fd1ItYjJ1SHBFelVNRXdkZVV6RTc4dWhFc0pCZk1pU3R5VEVaOFZLcWFrNHViUFlRZUszbENRdk1wUzJGdU5YelpnUUxWcmN3OVdfcjTSAXNBVV95cUxOZUYyT3gtVUp3WURsZ2dJZXJzY1F0T3NzaWExVWFOX3dSLWIydUhwRXpVTUV3ZGVVekU3OHVoRXNKQmZNaVN0eVRFWjhWS3FhazR1YlBZUWVLM2xDUXZNcFMyRnVOWHpaZ1FMVnJjdzlXX3I0?oc=5"
+    }
+  ]
+}

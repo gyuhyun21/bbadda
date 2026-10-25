@@ -1,0 +1,29 @@
+{
+  "id": "news-7e238023",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "톱스타뉴스",
+  "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ycHJ1TVF0T1JrV1Q0SUhMRHZSU2FHRGJhS2FiVG5rTFNpQ0QzVmdLM0ZpM0NWamJHaHlvc0JMa3FXOWhuMFB4anVYU1pRSDlLWk5VNHprcHVMbHhHM010ekJoblpkand1dnF0Q0UyY3ZPQQ?oc=5",
+  "title": "“비로 멈춘 PO 개막전”…KIA-삼성, 26일 대구서 다시 맞붙는다",
+  "published_at": "2026-10-25T03:22:20.000Z",
+  "collected_at": "2026-10-25T09:38:14.686Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "콕스뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBFQ1lxLWJWY2RfVFpMaThXNmRhSmVSel9nQkdHaVNmTU9DaWdCd0REcHhqR1dsV1R3ZDdKQVZ2YUtDTXg3SXY4dzFwN01tLXdoSHVDcnVsY1JDVkpicTFoUnBxa0RsRDZZdUE?oc=5"
+    }
+  ]
+}

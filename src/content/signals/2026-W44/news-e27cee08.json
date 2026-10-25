@@ -1,0 +1,22 @@
+{
+  "id": "news-e27cee08",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "엑스포츠뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE51QmVSRDVTRnBrcjBNa0plMTRZWXdaWnA1dnd5d2dHc2JDeXFjWEJPY1A3V1lGaFV0Ym1ULXN3QWJtSm5pYmNsWFVaTDVGcDN3N0dBeQ?oc=5",
+  "title": "KIA 방망이 식을까 걱정? 꽃감독은 생각은 다르다!…\"타격감은 변수 많아, 당일 컨디션에 좌우\" [PO 현장]",
+  "published_at": "2026-10-25T05:17:40.000Z",
+  "collected_at": "2026-10-25T09:38:14.686Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

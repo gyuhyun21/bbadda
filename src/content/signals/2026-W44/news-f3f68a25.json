@@ -1,0 +1,24 @@
+{
+  "id": "news-f3f68a25",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스타뉴스",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5COGVDdC1aM24teW5oNHFrck9EeGtqaktlcnhsdnUzd3ExV09QTWsyRDZsWjd6UkptQWdLNkJFc010SDNBOFAtYWVSVmMxcUtFRFNtRTVXQ0hMY1hPWGVGSEJyV1VvUi1nZzZ6NVVRaHN5SVNGY2c?oc=5",
+  "title": "'내가 선발이라고?' 김영웅도 깜놀 \"지난 가을 잘했던 기억은 다 잊었다, (김)도영이와 비교는...\"",
+  "published_at": "2026-10-25T03:13:03.000Z",
+  "collected_at": "2026-10-25T09:38:14.686Z",
+  "summary_ko": "삼성 김영웅이 PO 1차전 선발 3루수로 나서게 되자 놀랐다고 했다. 지난 가을 잘했던 기억은 잊었고 김도영과 비교도 의식하지 않는다는 입장이다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "김영웅 \"내가 선발이라고?\""
+}

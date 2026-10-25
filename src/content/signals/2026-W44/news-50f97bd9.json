@@ -1,0 +1,31 @@
+{
+  "id": "news-50f97bd9",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://www.sportschosun.com/baseball/2026-10-25/202610250100156220010205",
+  "title": "'백업' 최형우 장난 아니다, 승리 위해 진지하다 \"나도 나를 뺀 라인업이 맞다고 생각\" [PO1 현장]",
+  "published_at": "2026-10-25T07:07:07.000Z",
+  "collected_at": "2026-10-25T09:38:14.686Z",
+  "summary_ko": "삼성 최형우는 자신을 뺀 PO 1차전 라인업이 맞다고 생각한다고 말했다. 스포츠조선은 백업으로 물러난 최형우가 승리를 위해 진지하다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 83,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNT0NLd0pTaTdYRm5yQXNjemRpMlVoeTNUX3lCUkY1bTVuOURGNEJybEYzNlNsVzFZTUpIaWhVNVlDYzViaDhZTVcwXzRwdlZQbkNGa21jdmxkUFFiZkhDdzFWcmNUNWVoNUwtMU1LVERueTJ0T21oeEpuck5LT0FJclhqRQ?oc=5"
+    }
+  ],
+  "brief_ko": "최형우 \"나를 뺀 라인업이 맞다\""
+}

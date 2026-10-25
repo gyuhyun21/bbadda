@@ -1,0 +1,24 @@
+{
+  "id": "community-5547c45b",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "lotte"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 별별이슈",
+  "url": "https://blog.naver.com/lmj7710/224453238910",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/Ar9AyqD0rhs",
+  "title": "김재윤 부상 이승민, KIA전 땅볼/뜬공 0.45인데 롯데전 0.87보다 나은 이유…",
+  "published_at": "2026-10-25T18:03:00.000+09:00",
+  "collected_at": "2026-10-25T09:38:14.686Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

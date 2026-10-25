@@ -1,0 +1,30 @@
+{
+  "id": "news-e6c18437",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Sb0RVSUdhdlBYaHVxWDhKMl90VGxYU3ZNU1kySWxoRlNnd0ZZRzliQkxNM0tsejY5OUdiRG4xTjBGZVNDazNObXF4cEtualQ4Yl9pTFhpaDVWZS1fYUF2RDEtZ0sxWHVnLVHSAW9BVV95cUxQeE14RFVhWjlyZXRTN2UzelAzb25YU0hhOC1WcVgwZ1RQVmQ5a0RNVUhZZFd3YnRxN1JNQnJwQ2xRemEza2UwVTU3Wld4UVZ4Zmp0NkdFSDgzYTZRNzhrUDNzekR5dGNqU1dwQTJZd2s?oc=5",
+  "title": "2024 한국시리즈의 V추억, 우취 싫지만은 않은 이범호 감독 \"2년전 일이 새록새록 난다\"",
+  "published_at": "2026-10-25T05:47:00.000Z",
+  "collected_at": "2026-10-25T09:38:14.686Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 91,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaFZGaC1MOEcxZnBWaXc2YmJQaWJrVXdpY285ZjlOX1pob0U5M29iMVRqZjFkTnpDVGdXWWdxbTFLbGNMNUpUbVdSZ0tXSkM4Rm9DT21oemt2aDJxVEFjMVVVRHlLei1obUZXQkhBR1c1VURCYjB2V2RTS2JyOWszNy0yWQ?oc=5"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "community-541b4d15",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 야구를 알려주는 남자",
+  "url": "https://yaalnam.tistory.com/15",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/8SwQxFDQqip",
+  "title": "구단 이름과 응원 문화, 팀마다 뭐가 다를까?",
+  "published_at": "2026-10-25T11:00:00.000+09:00",
+  "collected_at": "2026-10-25T09:38:14.686Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "news-6c721aa0",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "https://www.2news.co.kr/",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBuXzFYYkxLRkJKaFd0NGtXQnoyZFlzYVhNNmEwRTN0NjFsYXV0M3VYUkZZRU1DY0hjbURRaWZ0eGhyQ21ja1NVdHQ1LXhGclowcFpEaFN1QnZfZUtQUHJjeVNTeDBpYTFf?oc=5",
+  "title": "삼성 누를 김도영의 방망이, 플레이오프 기선 제압할까",
+  "published_at": "2026-10-25T05:22:00.000Z",
+  "collected_at": "2026-10-25T09:38:14.686Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

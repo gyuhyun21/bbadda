@@ -1,0 +1,33 @@
+{
+  "id": "news-be564fa6",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스1",
+  "url": "https://www.news1.kr/sports/baseball/6331077",
+  "title": "LG 마무리 캠프 실시…고우석·손주영·유영찬 등 참가",
+  "published_at": "2026-10-25T05:32:13.000Z",
+  "collected_at": "2026-10-25T09:38:14.686Z",
+  "summary_ko": "LG가 마무리 캠프를 열고 고우석·손주영·유영찬 등이 참가한다고 뉴스1이 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 91,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1BSlBuaHVSOTlpTE5KVi1oQlZiVDhwQ3RQaFdPWWg3OGVQNWRWVWRvUzNleXE0U05ZSFE0Wm02RlhGWEY0aDlhNG52aDFGTGJCOEVuaHJIeTR2b0RvZ0NOejZRRXZfd3pHTUYwcTNLWXpJSFM0SHM3QtIBeEFVX3lxTE1BSlBuaHVSOTlpTE5KVi1oQlZiVDhwQ3RQaFdPWWg3OGVQNWRWVWRvUzNleXE0U05ZSFE0Wm02RlhGWEY0aDlhNG52aDFGTGJCOEVuaHJIeTR2b0RvZ0NOejZRRXZfd3pHTUYwcTNLWXpJSFM0SHM3Qg?oc=5"
+    },
+    {
+      "source_name": "스포츠조선",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9tR0lGVUdkNUQ5QVNHU0J2d29vbzNjczNuQndiOVMtYmdpc2YyZGNGT1FudVFoVWdYUWdINXhWR0I5ajk2b1VxUXFDcDNhblBNT1BHQmVKVFBwUUhSajJhNTgzZ3ZqR2NGWnE3akFKV2dMZ2VwVTVtX0NiY2RUUQ?oc=5"
+    }
+  ],
+  "brief_ko": "LG 마무리 캠프 명단 발표"
+}

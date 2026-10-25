@@ -1,0 +1,30 @@
+{
+  "id": "community-17978a3c",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 정안뉴스",
+  "url": "https://blog.naver.com/esan2222/224453061974",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/2RVz7eIEkjA",
+  "title": "“인생은 9회말 투아웃부터 시작”… 메이저리그 야구전문가 유선우가 전하는 도전과 희망",
+  "published_at": "2026-10-25T14:20:00.000+09:00",
+  "collected_at": "2026-10-25T09:38:14.686Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "정안뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBoVlItSXdrM21IcWVkMmRVak1hMDVZclJvY0dUclQ5NzFrRFFaQkdxdmxRWlFrVF84NmFJNUNNVW1WRVV6ZlYtZW5NV2NFVlVnZUZoamxUbndha3ZHaGVoU0FOYmQ?oc=5"
+    }
+  ]
+}

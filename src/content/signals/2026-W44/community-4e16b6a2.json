@@ -1,0 +1,24 @@
+{
+  "id": "community-4e16b6a2",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 시현의 인사이트 라운지",
+  "url": "https://blog.naver.com/sojunglog22/224452888455",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/Jj1iHH3Tg7K",
+  "title": "⚾ 이승엽과 이대호 vs 이종범과 김태균, 잠실 마지막 경기 승자는? 잠실 더 라스트 이닝 11월 14일 출전...",
+  "published_at": "2026-10-25T13:38:00.000+09:00",
+  "collected_at": "2026-10-25T09:38:14.686Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

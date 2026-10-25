@@ -1,0 +1,28 @@
+{
+  "id": "youtube-28d96bb8",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "SSG랜더스",
+  "url": "https://www.youtube.com/watch?v=CfyN6Z_I7Lo",
+  "title": "지금보다 더 강해질 우리를 위해💪 | 가고시마 레벨업 캠프 출국 스케치",
+  "published_at": "2026-10-25T09:30:05Z",
+  "collected_at": "2026-10-25T09:38:14.686Z",
+  "summary_ko": "SSG 구단 채널이 가고시마 레벨업 캠프 출국 스케치 영상을 올렸다.",
+  "metrics": {
+    "views": 1353,
+    "likes": 139,
+    "comments": 27
+  },
+  "scores": {
+    "hot": 80,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "가고시마 캠프 출국 스케치"
+}

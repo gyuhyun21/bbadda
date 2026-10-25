@@ -1,0 +1,27 @@
+{
+  "id": "youtube-194cfc8a",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "꿀반장TV",
+  "url": "https://www.youtube.com/watch?v=Ok54Ta_wHcM",
+  "title": "우천취소된 날 KIA는 뭐 했을까 #기아타이거즈 #kbo",
+  "published_at": "2026-10-25T09:01:56Z",
+  "collected_at": "2026-10-25T09:38:14.686Z",
+  "summary_ko": "우천 취소된 날 KIA 선수단의 하루를 다룬 팬 영상이다.",
+  "metrics": {
+    "views": 2243,
+    "likes": 55,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 62,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "우천 취소 날 선수단 하루"
+}

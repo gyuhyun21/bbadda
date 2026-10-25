@@ -1,0 +1,22 @@
+{
+  "id": "news-04c385fd",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠경향",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5nNnAzQzFISHRwTU9YaERkZjAzNWJ4eFFheVVOaGNmX2Jkc3I2Y0JvQmFabk9WN21Wc0trcU1BbEJnSEpBRmxMUVJQVTZfM2lYYzlRTW9HQUo1SGs2OUF5ODJ6c9IBY0FVX3lxTE5nNnAzQzFISHRwTU9YaERkZjAzNWJ4eFFheVVOaGNmX2Jkc3I2Y0JvQmFabk9WN21Wc0trcU1BbEJnSEpBRmxMUVJQVTZfM2lYYzlRTW9HQUo1SGs2OUF5ODJ6cw?oc=5",
+  "title": "정규시즌 종료 후 열흘 뒤에야 재계약 불가 통보…롯데의 가을은 어디로 흘러가는가",
+  "published_at": "2026-10-25T05:25:00.000Z",
+  "collected_at": "2026-10-25T09:38:14.686Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

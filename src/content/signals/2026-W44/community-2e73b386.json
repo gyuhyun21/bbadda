@@ -1,0 +1,24 @@
+{
+  "id": "community-2e73b386",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 홈판 1열",
+  "url": "https://blog.naver.com/chana_blo/224452840792",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/EjMcSIdribe",
+  "title": "선발에서 밀린 김호령, 알고 보니 대구에선 3할 타자였다",
+  "published_at": "2026-10-25T09:44:00.000+09:00",
+  "collected_at": "2026-10-25T09:38:14.686Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "youtube-19bc1c74",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg",
+    "doosan"
+  ],
+  "source_type": "youtube",
+  "source_name": "방구석 세계탐사",
+  "url": "https://www.youtube.com/watch?v=WucA5z4QKps",
+  "title": "44년 만에 헐리는 잠실야구장과 길 하나 건너 올림픽주경기장으로 가는 LG 두산",
+  "published_at": "2026-10-25T09:00:10Z",
+  "collected_at": "2026-10-25T09:38:14.686Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 703,
+    "likes": 11,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 49,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

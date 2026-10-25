@@ -1,0 +1,28 @@
+{
+  "id": "youtube-9de00d6b",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "기아타이거즈 KIA TIGERS",
+  "url": "https://www.youtube.com/watch?v=qGLGvXpFthg",
+  "title": "훈련에 매진하고 있는 선수들 (대구 현장)",
+  "published_at": "2026-10-25T06:20:03Z",
+  "collected_at": "2026-10-25T09:38:14.686Z",
+  "summary_ko": "KIA 구단 채널이 대구 현장에서 훈련에 매진하는 선수들의 모습을 올렸다.",
+  "metrics": {
+    "views": 54490,
+    "likes": 3266,
+    "comments": 152
+  },
+  "scores": {
+    "hot": 100,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "대구 현장 훈련 영상"
+}

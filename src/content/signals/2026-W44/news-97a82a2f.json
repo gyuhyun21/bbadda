@@ -1,0 +1,29 @@
+{
+  "id": "news-97a82a2f",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1XZkc3NmVvU3lSRnNDSVVOWGZvaEc5OG5NSGN4VzRiTjU4d0VBSFVvdUl0Tkx4RDlKVjlHTDRDMXh1YnVLVWtESElfZ1RSLVNCd0NMWmZuRmNGcVhYNURicHhsNHo3clJTQXfSAW9BVV95cUxOSVlfOE51dXR2N3VOU05VaEtzaF9nVnF5TUcwRjZwMFkzR0xwMGtrcUlCMl9JM2Y0bi1QMTQybUMwSUVmSXRTbUdVRFUyOUxXVzd5b0lvSmZ3NVA2SS1hWHoxckE0cnJkVW1DZkpQbG8?oc=5",
+  "title": "\"정확히 기억나요\" 10월 26일은 '김태군의 그날', 우승 이끈 만루홈런 추억 '최악도 피했다' [대구 현장]",
+  "published_at": "2026-10-25T07:01:00.000Z",
+  "collected_at": "2026-10-25T09:38:14.686Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 83,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5vLVNhTEwyWFN5OS02RHcybnNBRUtJbzRiVHUxd2VTZmJBbVgwU2gzUm12dkpDWl9uYk5rRlUwTURocC0tTlJQX2UzZXI4Nm1KUGxqZXMzYzZYcDdkZzFrQW5sWjN1Tjlob0RxZzNpbmI0Wkp0MkE?oc=5"
+    }
+  ]
+}

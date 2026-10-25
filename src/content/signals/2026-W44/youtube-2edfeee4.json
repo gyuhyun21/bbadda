@@ -1,0 +1,26 @@
+{
+  "id": "youtube-2edfeee4",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "youtube",
+  "source_name": "외야석야구",
+  "url": "https://www.youtube.com/watch?v=u1B05XFG1vE",
+  "title": "KBO 역사상 가장 의리 있는 시구 #지성 #NCT #LG트윈스 #KBO",
+  "published_at": "2026-10-25T05:30:07Z",
+  "collected_at": "2026-10-25T09:38:14.686Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 2762,
+    "likes": 85,
+    "comments": 2
+  },
+  "scores": {
+    "hot": 69,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

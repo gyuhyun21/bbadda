@@ -1,0 +1,26 @@
+{
+  "id": "youtube-87c7bce4",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "youtube",
+  "source_name": "원가 공개 경제학",
+  "url": "https://www.youtube.com/watch?v=KUWyczCsngk",
+  "title": "[원가공개] 프로야구 정규시즌 1위로 한국시리즈 직행, KT 구단은 얼마를 버나?",
+  "published_at": "2026-10-25T08:00:04Z",
+  "collected_at": "2026-10-25T09:38:14.686Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 141,
+    "likes": 6,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 61,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}
