@@ -1,0 +1,23 @@
+{
+  "id": "news-cf1618ab",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "진일보 | 전남일보",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5VdHR6eHRMWi0yOGxQUFVSTTBhZEstSU0tcGpFVFhEWUV1YVNGMmRodjcxd2pKY0xzemp1U2pkRzFyLTJGaGF1TXpXVFBUTFFMQUtkZDJteTZhM0xIbmk4YmNJUHhsb2toWnhCZ1d4NA?oc=5",
+  "title": "\"달빛동맹 라이벌전 뚫고 V13으로\"…PO 앞둔 전남광주 '들썩'",
+  "published_at": "2026-10-25T01:40:00.000Z",
+  "collected_at": "2026-10-25T09:38:14.686Z",
+  "summary_ko": "전남일보는 PO를 앞둔 전남광주가 달빛동맹 라이벌전을 뚫고 V13을 노리며 들썩인다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 73,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "PO 앞둔 전남광주 들썩"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "community-b066b51e",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&page=6&document_srl=10481449337",
+  "title": "제미나이고장났네 - 야구",
+  "published_at": "2026-10-24T16:38:14.686Z",
+  "collected_at": "2026-10-25T09:38:14.686Z",
+  "summary_ko": "",
+  "excerpt": "... 두산 -1; 1. 롯데. 검색어 순위. 검색어 순위는 최근 24시간 동안 ... 베어스 영결컷도…",
+  "metrics": {},
+  "scores": {
+    "hot": 62,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

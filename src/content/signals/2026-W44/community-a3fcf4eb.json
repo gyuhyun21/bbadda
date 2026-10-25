@@ -1,0 +1,23 @@
+{
+  "id": "community-a3fcf4eb",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 T Life의 블로그",
+  "url": "https://blog.naver.com/elontrump/224453074710",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/8XsdLROO4NN",
+  "title": "박진만 감독, KIA와의 플레이오프 1차전 '김태군 경계' 강조",
+  "published_at": "2026-10-25T14:37:00.000+09:00",
+  "collected_at": "2026-10-25T09:38:14.686Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

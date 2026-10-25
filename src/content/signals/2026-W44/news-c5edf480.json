@@ -1,0 +1,23 @@
+{
+  "id": "news-c5edf480",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB0a1hVLWpKdGNYVGhYbEVjZVhWLWZVRHJvMDJ5SHhFSGEwNmpPMHVaWnAwQUdteVhsbWJiOV93Zm1NNnkzbl9yRnhlbFJOZlRPQWYyLU1CYWx6M0VMZXg3djFjeGJRSjVOb015VVF1djVfdWhCbkNvSGFDR2hzUQ?oc=5",
+  "title": "'이동욱 감독설+이택근 단장설' 연타로 맞은 롯데 → 앵무새처럼 \"결정된 것 없다\" 반복",
+  "published_at": "2026-10-25T08:23:09.000Z",
+  "collected_at": "2026-10-25T09:38:14.686Z",
+  "summary_ko": "스포츠조선에 따르면 롯데는 이동욱 감독설과 이택근 단장설이 이어지자 결정된 것이 없다는 입장을 반복했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "\"결정된 것 없다\" 롯데 입장"
+}

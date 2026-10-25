@@ -1,0 +1,24 @@
+{
+  "id": "community-7666575d",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 카무싸리의 푸짐한 블로그",
+  "url": "https://blog.naver.com/kamussari/224453052727",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/7rLEaygrO3q",
+  "title": "하주석 홈런존 맞고도 자동차 못 받은 이유, 비디오판독 결과 보니",
+  "published_at": "2026-10-25T16:20:00.000+09:00",
+  "collected_at": "2026-10-25T09:38:14.686Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

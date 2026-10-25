@@ -1,0 +1,24 @@
+{
+  "id": "community-991cc1d7",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&page=4&document_srl=10480377772",
+  "title": "2031 KBO Golden Glove - 야구",
+  "published_at": "2026-10-24T11:38:14.686Z",
+  "collected_at": "2026-10-25T09:38:14.686Z",
+  "summary_ko": "",
+  "excerpt": "... 두산첼시 11 분 전. 두산 베어스콘(머하마드) ✚. 1. [레벨:21] 엘머로드리게스 10 분 전. 정현창은ㅅㅂ엠엘비냐고.…",
+  "metrics": {},
+  "scores": {
+    "hot": 60,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

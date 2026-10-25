@@ -1,0 +1,24 @@
+{
+  "id": "community-ea2b855b",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&document_srl=10482859952",
+  "title": "가장 최근 팀 우승 - 야구",
+  "published_at": "2026-10-25T04:38:14.686Z",
+  "collected_at": "2026-10-25T09:38:14.686Z",
+  "summary_ko": "",
+  "excerpt": "... FC서울-2026 K리그1 우승뉴욕닉스- 25/26 NBA 파이널 우승씨발트윈스- 2025 KBO 우승보.돌- 20/21 포칼 우승. ...…",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

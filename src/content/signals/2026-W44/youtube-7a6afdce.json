@@ -1,0 +1,28 @@
+{
+  "id": "youtube-7a6afdce",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "kt wiz - 위즈TV",
+  "url": "https://www.youtube.com/watch?v=QaSjjP0OvEY",
+  "title": "무슨 소리야 너 꿈꿨어? 올(드)스타 라인업 짜기 [WIZIP]",
+  "published_at": "2026-10-25T05:07:20Z",
+  "collected_at": "2026-10-25T09:38:14.686Z",
+  "summary_ko": "kt wiz 위즈TV가 올드스타 라인업을 짜 보는 WIZIP 영상을 올렸다.",
+  "metrics": {
+    "views": 7565,
+    "likes": 263,
+    "comments": 7
+  },
+  "scores": {
+    "hot": 78,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "올(드)스타 라인업 짜기"
+}

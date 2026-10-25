@@ -1,0 +1,26 @@
+{
+  "id": "youtube-7d6a7e4f",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "원맨야구",
+  "url": "https://www.youtube.com/watch?v=Rx-U-0sD3Xk",
+  "title": "前 KIA 타이거즈 이창진 응원가 lyrics",
+  "published_at": "2026-10-25T09:35:37Z",
+  "collected_at": "2026-10-25T09:38:14.686Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 2,
+    "likes": 1,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 46,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "community-617a3b4b",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 이슈 알려주는 아기 사자",
+  "url": "https://blog.naver.com/bmjmo5/224452982595",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/21H7XaIo2mP",
+  "title": "KT 창단 첫 10연승과 시즌 90승 달성, KBO 역대 4번째 기록",
+  "published_at": "2026-10-25T12:33:00.000+09:00",
+  "collected_at": "2026-10-25T09:38:14.686Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

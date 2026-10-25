@@ -1,0 +1,22 @@
+{
+  "id": "news-62ef13c2",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "연합뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBJTFF3aUwxUXpLU1Q1N1NMSWRtWlQxdzhwVzF3QTJ2ZWpfZERMdHJsUDRic2N1aHZnWUpXZVBHSUFGRFBCeXphV1VaU3NzUTNGN09vV0hVaDA3SzdRZHc5QdIBYEFVX3lxTFBJTFF3aUwxUXpLU1Q1N1NMSWRtWlQxdzhwVzF3QTJ2ZWpfZERMdHJsUDRic2N1aHZnWUpXZVBHSUFGRFBCeXphV1VaU3NzUTNGN09vV0hVaDA3SzdRZHc5QQ?oc=5",
+  "title": "박진만 삼성 감독 \"구자욱 타격은 문제없다…마무리는 총력전\"",
+  "published_at": "2026-10-25T02:57:45.000Z",
+  "collected_at": "2026-10-25T09:38:14.686Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

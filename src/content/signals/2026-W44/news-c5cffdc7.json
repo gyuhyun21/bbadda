@@ -1,0 +1,28 @@
+{
+  "id": "news-c5cffdc7",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1raFctSXhGR0RvaHdkX0dRTWpMZmtWZ3hPR1pnNWxiN3VRclJVbzZOS3ZPNzZHV2c4SjdqZnBmeWF6cElrQjNHSm81MTBPNnZoTldGcU5sODJiam9GY3BSdTdpOTVsMHhUWE5uWEdodlV1Z1paY3JYUlBIcEg5dw?oc=5",
+  "title": "내일도 KIA 선발 라인업 안 바뀐다...이범호 또 한 번 파격수, 한준수 DH 왜? [PO1 현장]",
+  "published_at": "2026-10-25T05:10:08.000Z",
+  "collected_at": "2026-10-25T09:38:14.686Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPYzB3THVfbzlsWDA0S1BQNlBIVkQ5Sl9JOTZZdTdiV2tJVU1xWm4yVTQyTFR3YUl2SmhBVTRtN3h4NGRkYkkwVXlTU2Ezdi1udEpuVzZFQlNWVTQ3U3NyN3JPWHRlVGlvRVZpN3pkU2IyeTdZZzBBUjlkQW1mRWpiaV9iWQ?oc=5"
+    }
+  ]
+}

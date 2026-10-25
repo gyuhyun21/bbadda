@@ -1,0 +1,24 @@
+{
+  "id": "community-31263383",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 1분 스포츠 뉴스",
+  "url": "https://blog.naver.com/alhelbudglk526/224453055718",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/EvLaJX9GWg7",
+  "title": "\"최형우가 선발이 아니라고?\" 베테랑의 희생을 감수하고서라도 승리 잡아야 하는 단기전 운영의 현실적...",
+  "published_at": "2026-10-25T17:32:00.000+09:00",
+  "collected_at": "2026-10-25T09:38:14.686Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

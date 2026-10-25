@@ -1,0 +1,23 @@
+{
+  "id": "news-0de215bd",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠타임스",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE56dnNIQm03TnBfX01ZMXNDTUdJanZvS005d0d6blhwU0J3dXVJcXRtdmU1VHQwYVdFbGxuVDROQUk0dzlWdmR0ZkFmdmZnMUNlQUFmMVRrclNZaUcxLTNJWXlqQl9ucjZ3QjVYTzE5dGw0ejM5cEE?oc=5",
+  "title": "25일 플레이오프 1차전, 대구에 내린 비로 취소...포스트시즌 일정 하루씩 밀려",
+  "published_at": "2026-10-25T03:36:13.000Z",
+  "collected_at": "2026-10-25T09:38:14.686Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 82,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

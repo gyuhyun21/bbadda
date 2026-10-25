@@ -1,0 +1,23 @@
+{
+  "id": "news-7bf5ef9d",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠동아",
+  "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0xeGxjeFRVa0xIQjh6NjZZaktSQXMzbzZ2UFAxMkFBSlBWTHFQZF8tRllyZkZvV1loaXlIblNDQlRTd0ZBT1NfRllkNEdJcHFyYS1HN2dNbHE1Z2hGWUNBRzhIYXItUE5LVnMyTDVNamZfUQ?oc=5",
+  "title": "‘태풍 여파→비 내리는 라팍’ KIA VS 삼성 ‘PO 1차전 비로 연기되나’",
+  "published_at": "2026-10-25T00:16:52.000Z",
+  "collected_at": "2026-10-25T09:38:14.686Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 80
+  },
+  "sentiment": "neutral"
+}

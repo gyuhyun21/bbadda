@@ -1,0 +1,37 @@
+{
+  "id": "community-3f73a2f1",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&document_srl=10483306646",
+  "title": "롯데 공식입장 \"이동욱 전 감독, 후보군에 있지만 최종 절차 진행 중 ...",
+  "published_at": "2026-10-25T07:38:14.686Z",
+  "collected_at": "2026-10-25T09:38:14.686Z",
+  "summary_ko": "",
+  "excerpt": "... 롯데 자이언츠가 차기 사령탑으로 이동욱(53) 전 NC 다이노스 감독이 내정됐다는 보도에 대해 공식 입장을…",
+  "metrics": {},
+  "scores": {
+    "hot": 99,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ERlU1NTNNNElkRWpjeGs4bksybVVLNmd3NGV2LVg4YjJYYXhlR09TOGhrQjJfTE14VEtiQ0xpQWJjUmpMbkpBSjQtenVQTlB5ekh4U3VnTUtVUUY0TE1FU3N2dk8xTVhBakHSAW9BVV95cUxNU1dCVHFSYTdMNkVPZGxXVkdPVVNhRVF3VVJfeGpzejVWdk1TUXBLWDdxNGFaRWJ0Rmt4c0d5eTFaYnhSS1piRHhfbTNPaFFNdFdQRWRqVG5zck1vR1lyTzdUTWhaRkczem9qLXJZX1k?oc=5"
+    },
+    {
+      "source_name": "스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5BZlBtVFlzUkZEWEFLcmZNaUtfaDZvcTd1XzJTd2tmX2tJUkFxWUw3N1Jic2Znc0tZeThhMWFuU1A2ZW9LWXZRcDRrMm9RZnFQbVFGRDdSQmY0VmxpTWo4MEVhRUxrNWxNbkRzYXFXVzg4MGYtSFE?oc=5"
+    },
+    {
+      "source_name": "재경일보",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE12OVNqdUt2dTNVb0g0VVV4YktxYm9iSWZORkdaWVM1c2hwc0VmLW9BclVQQmtXVmVhSld3aXhPb20tTHdCOUZmaG43cw?oc=5"
+    }
+  ]
+}

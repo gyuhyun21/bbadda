@@ -1,0 +1,24 @@
+{
+  "id": "news-b65e98c2",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "뉴시스",
+  "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261025_0003839975",
+  "title": "삼성-KIA, 우천 순연에도 선발 카드 유지…페덱-네일, 1차전 선발 출격[PO]",
+  "published_at": "2026-10-25T04:16:02.000Z",
+  "collected_at": "2026-10-25T09:38:14.686Z",
+  "summary_ko": "PO 1차전이 우천 순연됐지만 삼성과 KIA는 선발을 그대로 유지한다. 1차전은 삼성 페덱과 KIA 네일이 맡는다.",
+  "metrics": {},
+  "scores": {
+    "hot": 82,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "페덱 vs 네일, 선발 그대로"
+}

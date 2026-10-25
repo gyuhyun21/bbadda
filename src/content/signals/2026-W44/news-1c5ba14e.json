@@ -1,0 +1,29 @@
+{
+  "id": "news-1c5ba14e",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스핌",
+  "url": "https://www.newspim.com/news/view/20261025000049",
+  "title": "[PO] '1차전 우천 취소' KIA 이범호 감독 의중은 장타력 극대화…한준수 DH·김태군 포수",
+  "published_at": "2026-10-25T04:01:00.000Z",
+  "collected_at": "2026-10-25T09:38:14.686Z",
+  "summary_ko": "KIA 이범호 감독이 PO에서 한준수를 지명타자, 김태군을 포수로 쓰며 장타력을 높이는 라인업을 택했다. 1차전이 우천 취소됐지만 이 구상은 이어진다는 보도다.",
+  "metrics": {},
+  "scores": {
+    "hot": 82,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1XaDZITFYtNUExd3I1ZEpzVGdRRzlXT3BKamRqQXptcTNPekhGdnh2cC1rb3JHMEFuUHhLOUREdlJ3bk5PS2ZqVU5KQVBGUC00MFQ3RGRNOA?oc=5"
+    }
+  ],
+  "brief_ko": "한준수 DH·김태군 포수 구상"
+}

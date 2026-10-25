@@ -1,0 +1,24 @@
+{
+  "id": "community-ac27331f",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 토온나우",
+  "url": "https://blog.naver.com/sicher782/224452925495",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/Ab0O6ICgDgw",
+  "title": "두산 박성재 포수 마스크 벗자 14홈런 폭발? 일본서 0.387 쳤는데 1군은 아직",
+  "published_at": "2026-10-25T13:30:00.000+09:00",
+  "collected_at": "2026-10-25T09:38:14.686Z",
+  "summary_ko": "한 블로그가 두산 박성재가 일본에서 0.387을 치며 홈런을 쌓았지만 1군 기회는 아직이라고 짚었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "brief_ko": "박성재, 일본서 0.387"
+}

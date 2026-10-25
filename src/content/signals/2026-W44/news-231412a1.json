@@ -1,0 +1,29 @@
+{
+  "id": "news-231412a1",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5CUlZBdEdCb3BoaElvQlo3SURVanlUVFh1TlB6VmlPaGpvclNWaGNqM1pITmwzWlBnVTVINzdPaTVpdDl1WTQyNG96STZ6U1hOM2M2bjUyRl9YRVR2ZXZGbEhlakJWVUN1dFHSAW9BVV95cUxQMUVYU3BuVjVla3k2VlE1WDNWaVBZZ0JjTG9JTGhDMm94MGlsRldFdzRPUU1XMXpfNzhveGwxc1JWNGxzWVJ5bHJrcGhJOUtCUi00ZmoyNXA1bDdKRzdmZmk1eTZnRWstbXlkRHZEaTg?oc=5",
+  "title": "\"우천취소? 끝난 뒤 이기는 팀에 유리한 비 될 것→어차피 타격전이 아니라\" 유쾌한 이범호",
+  "published_at": "2026-10-25T05:49:00.000Z",
+  "collected_at": "2026-10-25T09:38:14.686Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 83,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1sV3hlNjk4R0tPQU5qR1kwOXl3MExLU2dzT09KN05TZUNJYk94MnJOWkxZb2pvdG9pUkxIYmtqTHJUaDVYSmQ4aW9mei1McXlEdUJLMU9JdEo5R0oxUW9kVG5sZG90YkJwTVBna25GOEZWT3R3b1E?oc=5"
+    }
+  ]
+}

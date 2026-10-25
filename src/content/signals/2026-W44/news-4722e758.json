@@ -1,0 +1,22 @@
+{
+  "id": "news-4722e758",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "연합뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1RM2wxWWtVcXdxdFdDNmlzSTR4eEZBRlFvVTZRZVhkeVFtb3FSdnNrbHZxSUM1STU5YmlrMjJZNmFGbEZkWmxLQzhHWlNjUXI4bkVZc3lkMnNxQzZXSFF3aNIBYEFVX3lxTE1RM2wxWWtVcXdxdFdDNmlzSTR4eEZBRlFvVTZRZVhkeVFtb3FSdnNrbHZxSUM1STU5YmlrMjJZNmFGbEZkWmxLQzhHWlNjUXI4bkVZc3lkMnNxQzZXSFF3aA?oc=5",
+  "title": "PO 1차전 선발 빠진 삼성 최형우 \"굳이 수비 나갈 필요 있을지\"",
+  "published_at": "2026-10-25T06:52:48.000Z",
+  "collected_at": "2026-10-25T09:38:14.686Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "youtube-5038505f",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "youtube",
+  "source_name": "박주홍은터진다",
+  "url": "https://www.youtube.com/watch?v=R54zoxYpnCw",
+  "title": "이정후의 고척을 깨우는 적시타 #이정후 #키움히어로즈 #2019",
+  "published_at": "2026-10-25T07:06:14Z",
+  "collected_at": "2026-10-25T09:38:14.686Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 899,
+    "likes": 0,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 38,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "news-50d3209a",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠한국",
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1HQ0VnTFJfUHN1aXFBenRCV0lDR1lhWjVicnhCVE1mRlhsSXZYU2NDdTBEZWl4MzJCdEw5ZkV5cU42MWNjYk1vd0xpbTZ4MzE5Nm1GcDBiNkw3UjhaUW1lWG1UU2ZIbHBXNHRHT3p1THfSAXRBVV95cUxNRzloUHFzaDlHQThaSDhSby1GYVRDWEcyOXFGTVRwR2t4ZmFfWmM1Z0pDaUhJZkhrUnhmRnJvX05lWTJScnRkTERYMUc5RGtwQUVRUDI0ek1xeWRudUE1emI1U29WVVpPWXBFZEZ6OHM0elVRbA?oc=5",
+  "title": "롯데, 이동욱 선임하나 '후보군은 맞아, 선임 절차 마무리되는대로 발표'",
+  "published_at": "2026-10-25T07:40:55.000Z",
+  "collected_at": "2026-10-25T09:38:14.686Z",
+  "summary_ko": "롯데는 이동욱 전 NC 감독이 후보군에 있는 것은 맞고 선임 절차가 마무리되는 대로 발표하겠다고 밝혔다.",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "이동욱, 후보군 맞다",
+  "hook_ko": "롯데 감독 후보, NC 우승 감독"
+}

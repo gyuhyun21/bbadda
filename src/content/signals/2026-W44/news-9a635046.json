@@ -1,0 +1,23 @@
+{
+  "id": "news-9a635046",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "news",
+  "source_name": "기호일보",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE14UWpiWVhtdFRuWUNLOFdlcEU0QmVSQlVJSzc5ZXpVdlY5Y0o4NjZlTUhNX3V2VzdGYk5COU9CM3d2RnRhMGU5WHNJVnI3b2h1VFFqMFdpZG41bTBKTnR2MGh3ekdfMG0yd3VXc1AtSQ?oc=5",
+  "title": "프로야구 SSG랜더스, 2027 신인선수 입단식 ‘더 퍼스트 랜딩’ 성료",
+  "published_at": "2026-10-25T07:32:16.000Z",
+  "collected_at": "2026-10-25T09:38:14.686Z",
+  "summary_ko": "SSG가 2027 신인선수 입단식 '더 퍼스트 랜딩'을 열었다고 기호일보가 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "SSG 신인 입단식 성료"
+}

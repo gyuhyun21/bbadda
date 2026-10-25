@@ -1,0 +1,24 @@
+{
+  "id": "community-26042322",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 류님의블로그",
+  "url": "https://blog.naver.com/aoxkfflvj/224452981119",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/JlV0YRaeiaL",
+  "title": "\"평균 키 186.5cm!\" 키움히어로즈 2027 신인 11명 피지컬 데이터 총정리",
+  "published_at": "2026-10-25T12:32:00.000+09:00",
+  "collected_at": "2026-10-25T09:38:14.686Z",
+  "summary_ko": "한 블로그가 키움 2027 신인 11명의 평균 키가 186.5cm라며 피지컬 데이터를 정리했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "신인 11명 평균 186.5cm"
+}

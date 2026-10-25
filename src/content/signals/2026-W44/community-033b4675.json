@@ -1,0 +1,24 @@
+{
+  "id": "community-033b4675",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 나도텐인텐 일상생활 이야기",
+  "url": "https://blog.naver.com/bitmcse/224453206984",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/1lw04UGEGmn",
+  "title": "삼성 마무리 김재윤 부상 이탈, 2주 진단 나온 진짜 이유",
+  "published_at": "2026-10-25T17:23:00.000+09:00",
+  "collected_at": "2026-10-25T09:38:14.686Z",
+  "summary_ko": "한 블로그가 삼성 마무리 김재윤의 부상 이탈과 2주 진단이 나온 배경을 다뤘다.",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "negative",
+  "brief_ko": "김재윤 2주 진단 배경"
+}

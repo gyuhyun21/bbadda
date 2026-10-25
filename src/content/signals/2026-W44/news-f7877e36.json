@@ -1,0 +1,23 @@
+{
+  "id": "news-f7877e36",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠동아",
+  "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1IUGhxVUREeE1LeFl0bk5zOVZkMjNkZE05Z3dfUFhaTXFrUVd1djlVcmNPXy1OUS12M2t3NlB2MFpseWZNc3REekc5cEl5bmhteUN1MEt6QkREQ3lnQmdLNGtnbGI0bFR0aTNIVUdQa3dKUQ?oc=5",
+  "title": "시작부터 폭우라니…삼성-KIA PO의 변수, 날씨와 부상 [SD 대구 리포트]",
+  "published_at": "2026-10-25T06:43:14.000Z",
+  "collected_at": "2026-10-25T09:38:14.686Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 83,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

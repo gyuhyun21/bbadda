@@ -1,0 +1,26 @@
+{
+  "id": "youtube-6ba9711f",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "youtube",
+  "source_name": "Yellow Note",
+  "url": "https://www.youtube.com/watch?v=Gray93VtTbI",
+  "title": "#트월킹아웃송 #KTWiz #KT위즈 #Twerking #KBO #DanceCover #DanceChallenge #YellowNote #Shorts",
+  "published_at": "2026-10-25T09:00:01Z",
+  "collected_at": "2026-10-25T09:38:14.686Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 50,
+    "likes": 5,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 62,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

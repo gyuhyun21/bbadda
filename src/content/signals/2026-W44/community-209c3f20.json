@@ -1,0 +1,23 @@
+{
+  "id": "community-209c3f20",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 새로운 도전을 위하여",
+  "url": "https://myblog21350.tistory.com/12",
+  "title": "프로야구 예매 방법 총정리: 구단별 예매처, 오픈 시간, 좌석 선택 가이드",
+  "published_at": "2026-10-25T14:48:21.000+09:00",
+  "collected_at": "2026-10-25T09:38:14.686Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

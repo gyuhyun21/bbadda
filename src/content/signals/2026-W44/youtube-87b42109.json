@@ -1,0 +1,26 @@
+{
+  "id": "youtube-87b42109",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "youtube",
+  "source_name": "엘냠씨",
+  "url": "https://www.youtube.com/watch?v=c7uE9zq-YBk",
+  "title": "홍창기, 박동원 FA 잡아야 할까? #엘지트윈스 #LG트윈스 #KBO #야구 #야구팬 #크보",
+  "published_at": "2026-10-25T05:26:43Z",
+  "collected_at": "2026-10-25T09:38:14.686Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 3158,
+    "likes": 110,
+    "comments": 76
+  },
+  "scores": {
+    "hot": 84,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

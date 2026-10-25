@@ -1,0 +1,26 @@
+{
+  "id": "youtube-f26ed222",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "씨유티비",
+  "url": "https://www.youtube.com/watch?v=Si9Ukd6bm7s",
+  "title": "#스포츠중계 #shorts #프로야구 #kbo #기아타이거즈 #삼성라이온즈 #야구쇼츠 #프로야구쇼츠 24점 폭발한 KIA 타선, 비 때문에 식어버리나 이범호 감독의 반응",
+  "published_at": "2026-10-25T06:22:57Z",
+  "collected_at": "2026-10-25T09:38:14.686Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 921,
+    "likes": 4,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 41,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

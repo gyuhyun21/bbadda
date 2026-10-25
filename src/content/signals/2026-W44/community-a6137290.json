@@ -1,0 +1,29 @@
+{
+  "id": "community-a6137290",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "community",
+  "source_name": "다음카페 樂soccer",
+  "url": "https://cafe.daum.net/rocksoccer/ADuT/370477",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/DmXOJGqT8eL",
+  "title": "롯데 자이언츠 새 단장은 이택근",
+  "published_at": "2026-10-25T17:13:23.000+09:00",
+  "collected_at": "2026-10-25T09:38:14.686Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 99,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBLNVE5UFpNTGhfR1BCZGVTdzYxYndhZFduX0F4a1QyTmhNOWpHNDlhaVREeXdkcmpWcC0tcTl2NkN5cUdyY2F0SjhOQzBXd3IyQTdJZXdVRVVEVFkwZ0ZnLXMtaFI5UW13ekg0bGRpR0lVNTVtdFE?oc=5"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "community-b4a5502e",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 팩트랩님의 블로그",
+  "url": "https://factlab365.tistory.com/361",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/GoDXdjQiggi",
+  "title": "'가을비에 멈춰 선 가을야구…' 삼성 vs KIA PO 1차전 전격 연기, 누구에게 호재일까?",
+  "published_at": "2026-10-25T15:01:05.000+09:00",
+  "collected_at": "2026-10-25T09:38:14.686Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

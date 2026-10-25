@@ -1,0 +1,23 @@
+{
+  "id": "news-3c6c1833",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "SPOTV NEWS",
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9JbmpFQjNLOGNidFdLREZadjVDaHo1VjhUdE5MZ0x3dnJmRE1mdUxUV05VRWk1WHkteF85NHFpWFNIYks2ZVFnc2U2cXRIc1p6WW1YLUFMcUxsT0tUSUJhWWo4ZzZNZkdQRUduLVV3d1g?oc=5",
+  "title": "근데 한준수 왜 포수 안 해요? 네일 때문만은 아니다?…이의리+곽도규 활용법은",
+  "published_at": "2026-10-25T05:35:00.000Z",
+  "collected_at": "2026-10-25T09:38:14.686Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

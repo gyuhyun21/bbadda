@@ -1,0 +1,38 @@
+{
+  "id": "community-49f38cc6",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 Social Studies",
+  "url": "https://hongikstory.tistory.com/1812",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/FcPhIDikbse",
+  "title": "PO 1차전 우천 취소…태풍 참피에 KIA·삼성 대구 대결 하루 연기",
+  "published_at": "2026-10-25T17:54:31.000+09:00",
+  "collected_at": "2026-10-25T09:38:14.686Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 92,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "미주중앙일보",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE16dmNBR3ZHV01zeDNheW01NnFKVFVpU2tEMVZzbkljQnhBeWRkQUpaTV91OHNobUNQZHJXTmZ3X19hMFFGcGc4UHlRR1pPMzRSZy0tWlBQRTJnSy12V2NMdXV3?oc=5"
+    },
+    {
+      "source_name": "중앙일보",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5xUzBhQmhHelVZak1Zbml6Wi1scFVHY0JLUnVvbG0tYTM0TUdadERTRktpNkp0eUlLVlFmWm42UU5rb2o2QWNpa0JKbFBVMm9SSVFZQ1VR?oc=5"
+    },
+    {
+      "source_name": "문화일보",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4xVm54SWpKRGp1ZFl5cmVrbm4wbnl6YzJsOVc0SUk0WEZvYll6dUI0eGRHS0VRRHRLZURBZ2RZT1dwbnZhek5SSFc2QVd3Um0y?oc=5"
+    }
+  ]
+}
