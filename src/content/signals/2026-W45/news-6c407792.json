@@ -1,0 +1,23 @@
+{
+  "id": "news-6c407792",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "진일보 | 전남일보",
+  "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000076501",
+  "title": "“예전 해태 분위기 난다”…한국시리즈 8차례 우승한 김정수가 본 KIA의 가을야구",
+  "published_at": "2026-10-25T15:00:00.000Z",
+  "collected_at": "2026-10-25T21:37:50.034Z",
+  "summary_ko": "한국시리즈 8차례 우승을 경험한 김정수가 KIA의 가을야구를 평가했다. 그는 \"예전 해태 분위기 난다\"고 말했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "brief_ko": "KS 8회 우승 김정수의 KIA 평가"
+}

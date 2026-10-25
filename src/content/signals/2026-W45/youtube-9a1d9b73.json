@@ -1,0 +1,26 @@
+{
+  "id": "youtube-9a1d9b73",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "스페셜타임스",
+  "url": "https://www.youtube.com/watch?v=_IjnvcmPUcg",
+  "title": "[LIVE] 플레이오프 1차전 삼성 라이온즈 실시간｜대구 삼성라이온즈파크 가는 길",
+  "published_at": "2026-10-25T17:17:26Z",
+  "collected_at": "2026-10-25T21:37:50.034Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1814,
+    "likes": 4,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 44,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "youtube-6ee6f7be",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "youtube",
+  "source_name": "린지",
+  "url": "https://www.youtube.com/watch?v=bqmc5M7YiYg",
+  "title": "2026시즌 롯데 자이언츠 제레미 비슬리 삼진모음 (159K)",
+  "published_at": "2026-10-25T15:00:10Z",
+  "collected_at": "2026-10-25T21:37:50.034Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 103,
+    "likes": 1,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 42,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "news-7a27e25a",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://www.mt.co.kr/amp/sports/2026/10/26/2026102514204281260",
+  "title": "'김재윤 이탈' 비상 걸린 삼성 불펜, 마무리 대체 1순위 좌완 \"몇 회든 내 피칭만 다하면 돼\"",
+  "published_at": "2026-10-25T16:11:00.000Z",
+  "collected_at": "2026-10-25T21:37:50.034Z",
+  "summary_ko": "삼성은 김재윤이 빠지면서 불펜에 비상이 걸렸고, 마무리 대체 1순위로 좌완 투수가 꼽혔다. 이 투수는 \"몇 회든 내 피칭만 다하면 돼\"라고 말했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 90,
+    "relevance": 70
+  },
+  "sentiment": "negative",
+  "also_in": [
+    {
+      "source_name": "https://spt.co.kr/",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1IOXJEZzNrWmNaY05aTkp1Y1hPUmFlR3daNjhoX0VTX0k2TTdEcnQ3bmt1Uk5FSks4Z0dlZlBzZkZZMjlnaVBwSHJYUWtBNXNwSVFGbHB0d3daRUot?oc=5"
+    },
+    {
+      "source_name": "스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5jWVNlUlBYRy1qR3pYazhjTG9pRzNxUkVaUHgwY01RMWIyQXVZUlZmcHJEWl94aXhvX2dXenlJbGlIbmhTa2FXeEw4Q1lzTVRhdmFuNF9OQ1g1NEtadU5tUmNXbUJadGlfRldOY0p1VGM4MVJxZnc?oc=5"
+    }
+  ],
+  "brief_ko": "김재윤 빈자리, 좌완이 1순위"
+}

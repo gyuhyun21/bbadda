@@ -1,0 +1,26 @@
+{
+  "id": "youtube-11979a2f",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "youtube",
+  "source_name": "베스트티비 스포츠 7s3",
+  "url": "https://www.youtube.com/watch?v=1IzOQpa1zHY",
+  "title": "박동원 홍창기 lg트윈스 중계 하이라이트 영상 #박동원 #홍창기 #lg트윈스 영상 실시간 분석 뉴스 다시보기 #국내야구 #프로야구 #kbo #크보 #야구픽 #야구영상 #야구분석",
+  "published_at": "2026-10-25T15:47:15Z",
+  "collected_at": "2026-10-25T21:37:50.034Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 321,
+    "likes": 1,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 35,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

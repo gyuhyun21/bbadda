@@ -1,0 +1,23 @@
+{
+  "id": "news-6c32ff8d",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://www.mt.co.kr/amp/sports/2026/10/26/202610252348778486O",
+  "title": "'1군 등판 0경기→끝내 방출' KIA 떠나는 우승 멤버의 먹먹한 작별…“아쉬움보다 행복한 기억이 많았다”",
+  "published_at": "2026-10-25T16:10:00.000Z",
+  "collected_at": "2026-10-25T21:37:50.034Z",
+  "summary_ko": "1군 등판 없이 방출된 KIA 우승 멤버가 작별 인사를 남겼다. 보도에 따르면 그는 \"아쉬움보다 행복한 기억이 많았다\"고 말했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "mixed",
+  "brief_ko": "1군 등판 0경기, 우승 멤버의 작별"
+}

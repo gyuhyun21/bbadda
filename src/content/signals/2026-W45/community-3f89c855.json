@@ -1,0 +1,23 @@
+{
+  "id": "community-3f89c855",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 이피룸",
+  "url": "https://blog.naver.com/yipi_teyo/224453652414",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/CFja9AXCqoD",
+  "title": "김태형 롯데 재계약 불가, 통보는 하루 전이었던 12일 공백",
+  "published_at": "2026-10-26T05:32:00.000+09:00",
+  "collected_at": "2026-10-25T21:37:50.034Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-efa19535",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "일간스포츠",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB0VUEteFNDT3NjT0I4MmhyNl94ajZoeUhNSEk4bk9hUXFudzVhN3JGb0xEMmxSeUNJOTliVldValMwWHJyQ3F2M0pKOTBqSEo4dl8xZWY3MEVMSEUxRERpLUhR?oc=5",
+  "title": "이렇게 성숙한 루키 보셨나요? '운'으로만 설명할 수 없는 시즌 보낸 장찬희, 이젠 우승 꿈꾼다",
+  "published_at": "2026-10-25T15:00:00.000Z",
+  "collected_at": "2026-10-25T21:37:50.034Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

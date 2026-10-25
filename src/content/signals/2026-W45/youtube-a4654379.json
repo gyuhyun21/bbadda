@@ -1,0 +1,26 @@
+{
+  "id": "youtube-a4654379",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "youtube",
+  "source_name": "부싯돌",
+  "url": "https://www.youtube.com/watch?v=lyORO9_dcz4",
+  "title": "2015년 두산 베어스 한국시리즈 우승구 3종 #야구공 #우승구 #한국시리즈 #싸인볼",
+  "published_at": "2026-10-25T18:09:10Z",
+  "collected_at": "2026-10-25T21:37:50.034Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 181,
+    "likes": 0,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 34,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "youtube-64c08b9c",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "youtube",
+  "source_name": "랜더스 이즈",
+  "url": "https://www.youtube.com/watch?v=mxOmkGf3pQw",
+  "title": "살짝 부끄러운 3루수 하지만 귀여운(?) 컨츄리꿀꿀 김민 활약 모음!  #ssglanders #야구 #ssg랜더스 #김민 #3루수",
+  "published_at": "2026-10-25T15:23:51Z",
+  "collected_at": "2026-10-25T21:37:50.034Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1303,
+    "likes": 4,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 43,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

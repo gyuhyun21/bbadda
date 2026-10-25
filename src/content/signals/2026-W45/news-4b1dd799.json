@@ -1,0 +1,23 @@
+{
+  "id": "news-4b1dd799",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠경향",
+  "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBUVmhJUVAyTmswX0ZNUE5VazBkNGZ4NzAweXpCUWtqRFpHdUY0YUxxNlk5cFlNcFhJaUVqOUFNSEhOcVZqNHYyT0EtYXdZS05QMXJNY3NNb3Zyc1BQUHfSAWNBVV95cUxPeGZsWmY3N2hrYWVQbmtHaXNKbUhYbVFuZHAxSHJOZTBQRjdRcVA3R3BDSmIxWE1ERnZHYWh4Rmp1clBJeENuZUJ4XzFWQVdJZzZqTUpXbkxKRnh5dWgwaTY4ZHc?oc=5",
+  "title": "가을비에 밀린 ‘PS 재회’…누구에게 유리할까",
+  "published_at": "2026-10-25T20:00:00.000Z",
+  "collected_at": "2026-10-25T21:37:50.034Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "community-1daebb83",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 이피룸",
+  "url": "https://blog.naver.com/yipi_teyo/224453652008",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/1cYN3Cp2Qwa",
+  "title": "1.17 김재윤 부상 이승민, KIA 상대로 이 기록 진짜 통할까?",
+  "published_at": "2026-10-26T05:33:00.000+09:00",
+  "collected_at": "2026-10-25T21:37:50.034Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

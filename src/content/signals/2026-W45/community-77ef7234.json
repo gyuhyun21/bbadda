@@ -1,0 +1,24 @@
+{
+  "id": "community-77ef7234",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/10459882433",
+  "title": "황성빈이 수비를 잘하는 편이 아닌가? - 야구",
+  "published_at": "2026-10-17T15:00:00.000Z",
+  "collected_at": "2026-10-25T21:37:50.034Z",
+  "summary_ko": "",
+  "excerpt": "... 김태형 유임이냐, 이동욱 전 NC 다이노스 감독·조성환 해설위원 등 새 얼굴이냐 [6]. 10.18 뉴스…",
+  "metrics": {},
+  "scores": {
+    "hot": 8,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

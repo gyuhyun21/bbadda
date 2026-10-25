@@ -1,0 +1,26 @@
+{
+  "id": "youtube-f82e7540",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "youtube",
+  "source_name": "최니로",
+  "url": "https://www.youtube.com/watch?v=KvanNzKuMDI",
+  "title": "롯데자이언츠 ESG 리사이클 카드지갑 언박싱!",
+  "published_at": "2026-10-25T17:22:03Z",
+  "collected_at": "2026-10-25T21:37:50.034Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1285,
+    "likes": 5,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 43,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

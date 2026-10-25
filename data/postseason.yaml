@@ -90,7 +90,7 @@ rounds:
     teams: [{ winner_of: spo }, samsung]
     games:
       - no: 1
-        date: 2026-10-26 # 25일 우천 취소, 하루 순연(마이데일리 '모든 PO 일정 하루씩 연기', 일간스포츠 '26일로 순연', 2026-10-25). 예고 선발은 25일 발표 기준 — 26일 선발 재확인 필요
+        date: 2026-10-26 # 25일 우천 취소, 하루 순연(마이데일리 '모든 PO 일정 하루씩 연기', 일간스포츠 '26일로 순연', 2026-10-25). 예고 선발은 26일 그대로 확인(스포츠동아 '페덱vs네일 그대로', 2026-10-26)
         venue: 대구
         starters: { kia: 네일, samsung: 페덱 } # 예고 선발
         starter_notes: { kia: "삼성전 승률 100%" }
@@ -100,6 +100,7 @@ rounds:
           - "https://news.google.com/rss/articles/CBMifkFVX3lxTFBOc3BJZ1JFdWs2WlVfZDduMmVCWHVZeHFsUmxCX2ZaYi1IaFdHWlhUaHI2WWoxdHg2c1l2V09jR0JPdlpONDdJZG1wSFdDNk9KN2dacko3dmVKMS1MV1JzckZPVERUQm5IcnZVbFdaU0xfT0E1MlJEMmtvRFJsUQ?oc=5" # 1차전 선발 공식 발표
           - "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWE15eEUzNnhHa21FRVhKc1lmOWlaZTVINGFVc1JoRnhWSG14dTQ1NTlxYi1GblhoNjBnaktweFBjY1dfRG00UmtsTXVWdzFWWm9YdERQeXBaWURwbUk0Q3lOV1l0VHZjZGJ3dVRzd0J5NDFEMWw2NHJ0TlBzX2c3N3BBOA?oc=5" # 네일 삼성전 승률 100%
           - "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB6c2ExQmRrem5FSUVRV2swUjZYRlFOS0dtYUVQX05HM0NDN3lVeElNRTJGY0ZuWjR5RDBNX2NaZ3hWSFJ4YW1leU9maDdZdGZuQXlPNWFvUQ?oc=5" # 1차전 승리 팀 KS 진출 77.1%
+          - "https://news.google.com/rss/articles/CBMickFVX3lxTE1EcFp6NE9CRk9VcWJmWmplVmNONmgtd0tTTnZ5VWhBajZObjctQk0xcEl3MjRWWnp3YVEzcU1McW1HSFhtVm1rSy1mbUZzRVBkV3hiSk44Um5MOElKTjdaRkE2UUtEX3lOSVpKbGlSRnJfUQ?oc=5" # 26일 선발 그대로(페덱·네일)
       - { no: 2, date: 2026-10-27, venue: 대구 }
       - { no: 3, date: 2026-10-29, venue: { home_of: spo } }
       - { no: 4, date: 2026-10-30, venue: { home_of: spo } }

@@ -1,0 +1,23 @@
+{
+  "id": "news-fdbbbe1f",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://www.mt.co.kr/amp/sports/2026/10/26/202610251421776445O",
+  "title": "“홈런 욕심보다 출루, 수비는 과감하게” 삼성 이재현의 세 번째 가을야구 출사표 [PO1]",
+  "published_at": "2026-10-25T15:10:00.000Z",
+  "collected_at": "2026-10-25T21:37:50.034Z",
+  "summary_ko": "삼성 이재현이 세 번째 가을야구를 앞두고 \"홈런 욕심보다 출루, 수비는 과감하게\"라는 각오를 밝혔다. PO 1차전을 앞둔 출사표다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 80
+  },
+  "sentiment": "positive",
+  "brief_ko": "이재현, 출루에 수비는 과감하게"
+}

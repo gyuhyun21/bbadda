@@ -1,0 +1,24 @@
+{
+  "id": "community-aa4b90c0",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 이기자의 스포츠 리뷰",
+  "url": "https://blog.naver.com/spo_tv/224453680919",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/I3l3CDIMrGp",
+  "title": "ATL 유격수 오토 로페즈 영입 가능성 과연 김하성의 미래는",
+  "published_at": "2026-10-26T06:13:00.000+09:00",
+  "collected_at": "2026-10-25T21:37:50.034Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

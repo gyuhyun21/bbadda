@@ -1,0 +1,25 @@
+{
+  "id": "youtube-683a98fd",
+  "issue": "2026-W45",
+  "module": "league",
+  "teams": [],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=Wthqt_4nnDA",
+  "title": "울산웨일즈와 함께하는 우천 라이브 토크쇼 | 2026 울산-KBO Fall League LIVE",
+  "published_at": "2026-10-25T19:53:39Z",
+  "collected_at": "2026-10-25T21:37:50.034Z",
+  "summary_ko": "KBO 공식 채널이 우천 상황에서 울산 웨일즈와 함께한 폴 리그 라이브 토크쇼를 올렸다.",
+  "metrics": {
+    "views": 42741,
+    "likes": 120,
+    "comments": 2
+  },
+  "scores": {
+    "hot": 62,
+    "relevance": 30
+  },
+  "sentiment": "neutral",
+  "brief_ko": "울산 폴 리그 우천 라이브 토크쇼"
+}
