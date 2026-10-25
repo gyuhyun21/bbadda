@@ -1,0 +1,23 @@
+{
+  "id": "news-b157b218",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스핌",
+  "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9idmFwVnFibGpyTTEzQUh4azIyeTNMN0tXcUNFXzQtWWxfbUYzN19XUkpkNmIySHdpNnhDbDQzSFV6cEF5VlFVMTdiN3A2UGgwM0pOOExCbTd2MlJP?oc=5",
+  "title": "[PO 포커스] 삼성 부상 회복·KIA 체력 충전…1차전 우천 취소, 누구에게 유리할까",
+  "published_at": "2026-10-25T21:09:00.000Z",
+  "collected_at": "2026-10-25T21:37:50.034Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

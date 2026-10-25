@@ -1,0 +1,24 @@
+{
+  "id": "news-39dfbc65",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "서울신문",
+  "url": "https://www.seoul.co.kr/news/sport/baseball/2026/10/26/20261026034002",
+  "title": "삼성 야속한 비·KIA 반가운 비… ‘플레이오프 판도’ 흔들까",
+  "published_at": "2026-10-25T15:05:13.000Z",
+  "collected_at": "2026-10-25T21:37:50.034Z",
+  "summary_ko": "서울신문은 비로 밀린 PO 1차전이 삼성과 KIA 중 어느 쪽에 유리할지 짚었다. 제목은 삼성에는 야속한 비, KIA에는 반가운 비라고 표현했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 80
+  },
+  "sentiment": "neutral",
+  "brief_ko": "비 순연, 삼성·KIA 유불리는"
+}

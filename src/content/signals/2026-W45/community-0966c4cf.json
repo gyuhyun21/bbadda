@@ -1,0 +1,24 @@
+{
+  "id": "community-0966c4cf",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 스포트렌드(SPOTREND)",
+  "url": "https://blog.naver.com/01697676807/224453489950",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/AkFzdELmbyV",
+  "title": "2027 프로야구 FA 시장 총정리, 홍창기·박동원 포함 유력 선수 분석",
+  "published_at": "2026-10-26T00:37:00.000+09:00",
+  "collected_at": "2026-10-25T21:37:50.034Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

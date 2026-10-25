@@ -1,0 +1,24 @@
+{
+  "id": "community-b526c846",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/10483631531",
+  "title": "실시간 꺼무위키 순위 - 야구",
+  "published_at": "2026-10-25T09:37:50.034Z",
+  "collected_at": "2026-10-25T21:37:50.034Z",
+  "summary_ko": "",
+  "excerpt": "... 롯데자이언츠 <<< 이제 이 새끼들도 데이터 야구 할 수 있는거임? [2]. 11 분 전…",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

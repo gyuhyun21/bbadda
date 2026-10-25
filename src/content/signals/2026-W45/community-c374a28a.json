@@ -1,0 +1,24 @@
+{
+  "id": "community-c374a28a",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 이과장의 스포츠",
+  "url": "https://blog.naver.com/caleb0901/224453615825",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/HgehmIxvA7v",
+  "title": "\"박동원에서 허인서로...\" 프로야구 포수 수비 이닝 순위가 1년 만에 확 달라졌다",
+  "published_at": "2026-10-26T05:50:00.000+09:00",
+  "collected_at": "2026-10-25T21:37:50.034Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

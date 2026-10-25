@@ -1,0 +1,23 @@
+{
+  "id": "news-53318904",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "한국연예스포츠신문",
+  "url": "https://www.koreaes.com/news/articleView.html?idxno=406855",
+  "title": "김태형과 동행 끝낸 롯데, 이동욱·이택근 선임설…구단 “확정 아냐”",
+  "published_at": "2026-10-25T15:26:00.000Z",
+  "collected_at": "2026-10-25T21:37:50.034Z",
+  "summary_ko": "김태형 감독과 결별한 롯데에 이동욱 감독·이택근 단장 선임설이 나왔다. 구단은 확정된 것이 아니라고 밝혔다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "이동욱·이택근 선임설, 확정 아냐"
+}

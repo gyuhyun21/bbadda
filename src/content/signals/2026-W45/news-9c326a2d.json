@@ -1,0 +1,23 @@
+{
+  "id": "news-9c326a2d",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20261025_0003840043",
+  "title": "'최형우 더비'인데 선발 제외…삼성 최형우 \"거창하게 해주셔서 감사하지만\"[PO]",
+  "published_at": "2026-10-25T21:00:00.000Z",
+  "collected_at": "2026-10-25T21:37:50.034Z",
+  "summary_ko": "PO 1차전 '최형우 더비'에서 삼성 최형우가 선발 명단에서 빠졌다. 보도에 따르면 최형우는 \"거창하게 해주셔서 감사하지만\"이라고 말했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "최형우, 선발 제외"
+}

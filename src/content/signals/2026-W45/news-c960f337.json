@@ -1,0 +1,29 @@
+{
+  "id": "news-c960f337",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "OSEN",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBfcUtkTkwta1p6SzljaGR4ODNUdUVubVhVTUZFVXdyMy1sOWZqSW9nWHlKU3NkSjJrblFBcFZmamI2U2o4SktXbThZREI0LWxSV2tyMA?oc=5",
+  "title": "“김도영 막아야 이긴다, 어떻게든 막아야죠” 데뷔 시즌 우승 도전하는 19살 신인, 최강 슈퍼스타 막을 수 있을까",
+  "published_at": "2026-10-25T20:40:00.000Z",
+  "collected_at": "2026-10-25T21:37:50.034Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAyU3JLcktpc3I4UVExOGNvLTBBUnZUUXRUSFVWWW50cF9xbmVSaG8zWXRJREc0eWhpZWh4M3dHdHJpYU5sQWhKTDRJU0xJWml5NGxFd3ZiMkNpQWdDS0RYaXVFVHhvbDhUMGfSAW9BVV95cUxOTm5fSUV5a29MWmxJLTVIUzhyai0yT2ozNm9Bc1FMdzhaNW5hR3lMLXppb1FUR3lteGF5UmVwNDJZOVk3MWVsQXZ1NWh2dDlQTWN1UDVQVlF2UHpfd2pZc0VsYmtZdmZkQTVDQXMwLUE?oc=5"
+    }
+  ]
+}

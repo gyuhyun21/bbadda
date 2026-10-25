@@ -1,0 +1,23 @@
+{
+  "id": "news-62009e1b",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "마이데일리",
+  "url": "https://mydaily.co.kr/page/view/2026102516152310238",
+  "title": "KIA 예비 FA 중견수 외면받다니, 이범호 27세 젊은 피 제대로 밀어준다…\"이 선수 출루 능력 필요해\" [MD대구]",
+  "published_at": "2026-10-25T15:41:00.000Z",
+  "collected_at": "2026-10-25T21:37:50.034Z",
+  "summary_ko": "KIA 이범호 감독이 예비 FA 중견수 대신 27세 젊은 선수를 밀어준다고 보도됐다. 감독은 \"이 선수 출루 능력 필요해\"라고 말했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 82,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "이범호, 27세 중견수에 출루 기대"
+}

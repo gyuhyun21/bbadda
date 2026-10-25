@@ -1,0 +1,26 @@
+{
+  "id": "news-c7ffefdd",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠동아",
+  "url": "https://sports.donga.com/sports/article/all/20261026/134903578/1",
+  "title": "페덱vs네일 그대로 PO 1차전 격돌…‘77%’ 승리 비율 거머쥘 팀은 누구",
+  "published_at": "2026-10-25T19:35:00.000Z",
+  "collected_at": "2026-10-25T21:37:50.034Z",
+  "summary_ko": "PO 1차전 선발은 삼성 페덱과 KIA 네일로 그대로 간다. 기사는 '77%' 승리 비율을 가져갈 팀이 어디일지 짚었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 83,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "brief_ko": "PO 1차전, 페덱 대 네일 그대로",
+  "hook_ko": "하루 밀린 PO, 1차전 이기면 KS 77%"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-aab3fd99",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스타뉴스",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5VanE5X19fRUhEOUlPcGdEYzREVmJNa2ZjeW90WEJfQjhPaUZjVWtnVDYtdTZHYzRKQWpvWXJHeVlCdlpuS2VrelBQNEFXd3RMZ3I4dkhJak1KVVEwajlRUWdDOWJQNUx5djdSRW9HS21Jd1ozSWc?oc=5",
+  "title": "하현승·이호민부터 박근서·김민훈까지... 한국 야구 미래들, 오늘(26일) 시상식서 영예 가려진다 [2026 퓨처스 스타대상]",
+  "published_at": "2026-10-25T21:00:00.000Z",
+  "collected_at": "2026-10-25T21:37:50.034Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

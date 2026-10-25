@@ -1,0 +1,23 @@
+{
+  "id": "news-b9646412",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1CMXJnUVR1b0dNMmduZm1VMVhLaUhUZmxmSEpGNkRxbDNqbnlxM2hMaFp1S2RCQzNqblRteWVNZ1NLUGRnT3ZOcURKcmNvNlhMSHhCbF9LeHU4OTNlWFlBOXI0Mll0ckxkcDlpaDdLbVEtOU5DM21wcDgxT1N3dw?oc=5",
+  "title": "'초비상' 35SV 마무리가 사라졌다…1순위 대체자의 피눈물 각오, \"2등은 정말 알아주지 않더라\" [PO1]",
+  "published_at": "2026-10-25T20:24:24.000Z",
+  "collected_at": "2026-10-25T21:37:50.034Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

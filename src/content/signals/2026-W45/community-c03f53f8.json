@@ -1,0 +1,23 @@
+{
+  "id": "community-c03f53f8",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 야구 좋아하세요?",
+  "url": "https://blog.naver.com/datamong/224453639899",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/ExZvWx645bC",
+  "title": "[PO 1차전] 준PO 휩쓴 기아 타이거즈, 가을야구 첫판부터 이겨야 하는 이유",
+  "published_at": "2026-10-26T04:01:00.000+09:00",
+  "collected_at": "2026-10-25T21:37:50.034Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}
