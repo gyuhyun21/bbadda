@@ -1,0 +1,24 @@
+{
+  "id": "news-e5e9b1fd",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "SPOTV NEWS",
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8wSENrWG5sXzg1aTRFbmFjV0d6aHBlZ290TWROZEtNZjhwLVJDM2EwMDFYZG1TRUhBN1N0YkVjOUNkWFBiZzlFcklzNHI1OXdmN3lXZzFZNWI3Q0w4ZWdxSk1HQXZjbXJYVlhzOUIxM3E?oc=5",
+  "title": "네일한테 8할 치는 타자가 있다? 이 선수가 복병…연습경기 타율도 '0.667' 훌륭하네",
+  "published_at": "2026-10-25T00:05:00.000Z",
+  "collected_at": "2026-10-25T03:38:03.629Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

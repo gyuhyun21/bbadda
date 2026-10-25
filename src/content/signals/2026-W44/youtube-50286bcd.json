@@ -1,0 +1,26 @@
+{
+  "id": "youtube-50286bcd",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "youtube",
+  "source_name": "엘냠씨",
+  "url": "https://www.youtube.com/watch?v=1CyBsvsB1to",
+  "title": "엘냠씨가 생각 하는 톨허스트 #엘지트윈스 #LG트윈스 #KBO #야구 #야구팬 #크보",
+  "published_at": "2026-10-25T02:00:05Z",
+  "collected_at": "2026-10-25T03:38:03.629Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 332,
+    "likes": 9,
+    "comments": 3
+  },
+  "scores": {
+    "hot": 61,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

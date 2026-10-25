@@ -1,0 +1,30 @@
+{
+  "id": "news-773df89e",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "뉴시스",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1xOUFkYTV6T29ucE9XQUNmQVc2cVhxdUJucXNRWGYwdHg1VjNiM3NmRU9HRXZrQlNUTHZpclY5RjU4VVdoc1dxMzlDM2llWXd5UXdTTk0tV0libG9ISVVnRg?oc=5",
+  "title": "플레이오프 1차전 앞두고 내리는 빗줄기",
+  "published_at": "2026-10-25T01:50:34.000Z",
+  "collected_at": "2026-10-25T03:38:03.629Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 91,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9GMExqckhraS0ydEdOb1BaV05IZ21vR1RPeDlpdFBSbmhOWE5vQW52QkRiZTZPdU9HVWEzVzUxVHp0T2ZPcE5kTExZR0ZOX01sRUFN?oc=5"
+    }
+  ]
+}

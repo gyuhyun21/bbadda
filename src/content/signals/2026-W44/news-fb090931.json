@@ -1,0 +1,23 @@
+{
+  "id": "news-fb090931",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4tTlppaWYxNUVQRkZBcmxibUoxbm1IT2ZWaG9yTjFmTmRpWGdUMXpPRzMydDF2MllkZ09BeVN5R0s4cDRmX3MyVEhyRGFCSVVvWDlZTkMxZ252SUoxTmdKUURVWkpVQTJxS2fSAW9BVV95cUxNZ0I4SFpmaGtQVE1hQ2oyRkxqU25ETWNKX3FjNVMzUTFEWXNRYWhRejFqbm1feFZteG5vbGVaTEllTnd1UHgwMlcxYzBtdDJUN0F4TXVxT2RuU0gxOGlDWEI5NEdrejNDY1FORURVY2M?oc=5",
+  "title": "[포토] 박진만 감독 '갈증 달래는 대장사자'",
+  "published_at": "2026-10-25T02:38:07.000Z",
+  "collected_at": "2026-10-25T03:38:03.629Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 84,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

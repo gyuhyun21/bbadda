@@ -1,0 +1,23 @@
+{
+  "id": "news-259f0fac",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "조선일보",
+  "url": "https://www.chosun.com/sports/baseball/2026/10/25/GI4TCZDBGU3GKYRWMI3TAMZWME/",
+  "title": "\"TV로만 보던 가을야구, 이제는 내가 던진다\" 삼성 이재희의 설레는 첫 도전…\"성적으로 증명하고 싶다\" [PO1]",
+  "published_at": "2026-10-25T01:31:00.000Z",
+  "collected_at": "2026-10-25T03:38:03.629Z",
+  "summary_ko": "삼성 이재희가 TV로만 보던 가을야구에서 처음 던지는 설렘과 성적으로 증명하겠다는 각오를 밝혔다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 80
+  },
+  "sentiment": "neutral",
+  "brief_ko": "이재희, 첫 가을야구 각오"
+}

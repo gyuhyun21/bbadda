@@ -1,0 +1,33 @@
+{
+  "id": "news-e04578ae",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "조선일보",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVmVXNllackNhTlAzMEo0c3liR0hYSE00ZUFiMS1NcDk1NEF5eDhRSkhoNk1zRVE4SzRZdGtVbnFGR2kxZ1gyajJ4T3ZWTGNqVHNIOVNodjFvTzJXX1hRMkdpWkJiZE1ZUHViYmxzV19ud0g5MTBVNE10d25ac21ydTJ4SQ?oc=5",
+  "title": "슈트 입은 카우보이,’PO 1차전 선발 페덱 출근길’ [O! SPORTS 숏폼]",
+  "published_at": "2026-10-25T02:22:00.000Z",
+  "collected_at": "2026-10-25T03:38:03.629Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 92,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5Yd0QyRlZES3M0d3E3ZlVQMEZDRmlJN2lxNTYxSFYwQTFQdjhQMXM4TnZFZ2haaVp4ZXBDMnZmTmZHUWlGcXJPMlhGemlLSUpxM0NiVQ?oc=5"
+    },
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBEckVHRTQzMEI4YXNKckVxVERxVTdWWlNuYlAwdncteTJUNVZPVXkwYkNnR0xsY3ZPUjExZG5aLW5aLVpfODFiY2M4UmFUZzhSNXEzQTV6NmNPdkxBaWg4NXNyLW8wS3c2VWfSAW9BVV95cUxOQ3U4OUFVdERnT203WGZabzM0dHA5M1FRN1dDQjh2cFZWNkdYcjVpNXVqU0tXbnkwdldzeGxqUHFYSV9GdVlOekZqc2d1dUVSemxtU1B0Mk9vbTNDeUFEYTlwbnphaHpOa3FGQmR1ekU?oc=5"
+    }
+  ]
+}

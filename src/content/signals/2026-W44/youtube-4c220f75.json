@@ -1,0 +1,28 @@
+{
+  "id": "youtube-4c220f75",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "이슈쏘머치",
+  "url": "https://www.youtube.com/watch?v=V2igxBeW7k8",
+  "title": "PO서 다시 만난 KIA·삼성, 40년 전 대구에선 해태 버스가 불탔다 #KIA타이거즈 #삼성라이온즈 #한국시리즈",
+  "published_at": "2026-10-25T03:00:32Z",
+  "collected_at": "2026-10-25T03:38:03.629Z",
+  "summary_ko": "PO에서 다시 만난 KIA와 삼성의 대구 악연을 40년 전 해태 버스 사건과 엮은 팬 영상이다.",
+  "metrics": {
+    "views": 392,
+    "likes": 3,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 40,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "40년 전 대구, 해태 버스 사건"
+}

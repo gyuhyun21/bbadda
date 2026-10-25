@@ -1,0 +1,30 @@
+{
+  "id": "community-7219f8dc",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 baseball reference",
+  "url": "https://blog.naver.com/r9644328/224452935706",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/8GRWtv7JJr",
+  "title": "KIA-삼성 PO 1차전 초비상…23일부터 비 계속, 결국 26일로 밀리나",
+  "published_at": "2026-10-25T11:35:00.000+09:00",
+  "collected_at": "2026-10-25T03:38:03.629Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 84,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9WaVNQX0ktWHZ1TnlIZ3A1b2hJYmN2b2tPZTVXUFA0a0M1T2laTDYtRjkzVnRXWlBzV190Vl8wM01YNzI5NjRiNnV6NThZUmtlS3NuT01YazNXWm9hVlNKVzJXc2x0RGJIaWlXY3prcTBuV0VTUXc?oc=5"
+    }
+  ]
+}

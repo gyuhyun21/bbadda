@@ -1,0 +1,29 @@
+{
+  "id": "news-0a2746d8",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://www.mt.co.kr/sports/2026/10/25/202610251145773987O",
+  "title": "“마무리 정해지지 않았다” 김재윤 빠진 삼성, 집단 마무리 가동…박진만 감독, “이승민 가장 믿음직하다” [PO1]",
+  "published_at": "2026-10-25T02:47:00.000Z",
+  "collected_at": "2026-10-25T03:38:03.629Z",
+  "summary_ko": "삼성이 김재윤이 빠진 PO에서 마무리를 정하지 않고 집단 마무리로 간다. 박진만 감독은 이승민이 가장 믿음직하다고 밝혔다.",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9wbElQZFlFRE42bHQzTGtaZjVZNEVzVGN3cTQ5Z01mZjBHVFdVNjRZNnRsbno1cEQ3enJ0ems0aS0td2xhM09DUndvUV92R0VFQ0RiSg?oc=5"
+    }
+  ],
+  "brief_ko": "김재윤 빠진 뒷문, 집단 마무리"
+}

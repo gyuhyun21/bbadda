@@ -1,0 +1,26 @@
+{
+  "id": "youtube-f40530e4",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "베샥",
+  "url": "https://www.youtube.com/watch?v=c5rHKtLwPjg",
+  "title": "밀어도 안타 당겨도 안타! 🐯 박재현 응원가 #박재현 #기아타이거즈 #응원가 #야구 #shortsvideo",
+  "published_at": "2026-10-25T03:37:56Z",
+  "collected_at": "2026-10-25T03:38:03.629Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 0,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

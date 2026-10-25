@@ -1,0 +1,23 @@
+{
+  "id": "community-98376b71",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 유림여사 제4의 활동",
+  "url": "https://blog.naver.com/5004yurim/224452904853",
+  "title": "2026 플레이오프 오늘 경기 될까? 대구 비 예보와 우천 서스펜디드 규정",
+  "published_at": "2026-10-25T12:00:00.000+09:00",
+  "collected_at": "2026-10-25T03:38:03.629Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

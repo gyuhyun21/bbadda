@@ -1,0 +1,28 @@
+{
+  "id": "youtube-6ab94d2d",
+  "issue": "2026-W44",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "kt wiz - 위즈TV",
+  "url": "https://www.youtube.com/watch?v=6Cq4dpb5uds",
+  "title": "[대학생리포터] 손민석의 다시 쓰는 프로필",
+  "published_at": "2026-10-24T23:30:25Z",
+  "collected_at": "2026-10-25T03:38:03.629Z",
+  "summary_ko": "kt wiz 위즈TV가 대학생 리포터 손민석의 프로필 영상을 올렸다.",
+  "metrics": {
+    "views": 5401,
+    "likes": 170,
+    "comments": 7
+  },
+  "scores": {
+    "hot": 74,
+    "relevance": 50
+  },
+  "sentiment": "neutral",
+  "brief_ko": "위즈TV, 손민석 프로필 영상"
+}

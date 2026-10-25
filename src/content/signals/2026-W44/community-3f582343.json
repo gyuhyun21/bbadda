@@ -1,0 +1,23 @@
+{
+  "id": "community-3f582343",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 스포츠에 스며든 이슬",
+  "url": "https://blog.naver.com/sde77/224452842817",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/8glym1je5uC",
+  "title": "“김태형은 떠나도 이 사람은 잡아라!” 롯데가 놓치면 후회할 코치",
+  "published_at": "2026-10-25T09:09:00.000+09:00",
+  "collected_at": "2026-10-25T03:38:03.629Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

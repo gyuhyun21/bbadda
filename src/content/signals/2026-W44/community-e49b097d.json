@@ -1,0 +1,24 @@
+{
+  "id": "community-e49b097d",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "엠엘비파크",
+  "url": "https://mlbpark.donga.com/mp/b.php?id=202610240119628357&p=151&b=kbotown&m=view&site=donga.com",
+  "title": "김태형 단일 감독, 특정 팀 7-7-7 KBO 최초 맞나요?",
+  "published_at": "2026-10-24T08:38:03.629Z",
+  "collected_at": "2026-10-25T03:38:03.629Z",
+  "summary_ko": "",
+  "excerpt": "... ... ‌. KBO 역사상 유례없는 7-7-7 계약 만료 결별. 구글 AI가 그렇다고 하는데. 맞든…",
+  "metrics": {},
+  "scores": {
+    "hot": 61,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "youtube-72c1b543",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "꿀반장TV",
+  "url": "https://www.youtube.com/watch?v=29TFa3YK-_o",
+  "title": "김도영 만루포에 불펜까지 뒤집어진 날 #kbo #기아타이거즈 #김도영",
+  "published_at": "2026-10-25T03:05:06Z",
+  "collected_at": "2026-10-25T03:38:03.629Z",
+  "summary_ko": "김도영의 만루포로 불펜까지 뒤집어진 날을 되짚은 팬 영상이다.",
+  "metrics": {
+    "views": 549,
+    "likes": 8,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 47,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "김도영 만루포 되돌아보기"
+}

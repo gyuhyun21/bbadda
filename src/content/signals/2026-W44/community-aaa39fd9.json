@@ -1,0 +1,23 @@
+{
+  "id": "community-aaa39fd9",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 갑드와 파이널보스",
+  "url": "https://blog.naver.com/dendenlog/224452834564",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/9nVvPcN0pXr",
+  "title": "\"이쯤 되면 미스테리\" 롯데 자이언츠 김태형 감독은 아니었다, 9년 연속 가을야구 탈락 끊을 차기...",
+  "published_at": "2026-10-25T09:29:00.000+09:00",
+  "collected_at": "2026-10-25T03:38:03.629Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

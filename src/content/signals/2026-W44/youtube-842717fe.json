@@ -1,0 +1,26 @@
+{
+  "id": "youtube-842717fe",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "youtube",
+  "source_name": "역사김씨",
+  "url": "https://www.youtube.com/watch?v=1luyKzN75ZQ",
+  "title": "롯데 자이언츠 역대 로고 변천사 ⚾ 당신의 최애는?",
+  "published_at": "2026-10-25T00:37:52Z",
+  "collected_at": "2026-10-25T03:38:03.629Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 3,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 8,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

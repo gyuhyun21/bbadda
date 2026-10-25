@@ -1,0 +1,24 @@
+{
+  "id": "community-fada7def",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 스포츠를 기록하는 축보트",
+  "url": "https://blog.naver.com/football_goat/224452959414",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/HlHHlX5XoOw",
+  "title": "MLB 메이저리그 56홈런 MJ 멜렌데즈 KBO행 급부상? 트리플A 22홈런 거포의 치명적 약점",
+  "published_at": "2026-10-25T12:07:00.000+09:00",
+  "collected_at": "2026-10-25T03:38:03.629Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "mixed"
+}

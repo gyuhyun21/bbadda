@@ -1,0 +1,24 @@
+{
+  "id": "community-7ac2917e",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 ONF 종합 ISSUE",
+  "url": "https://blog.naver.com/spmj2022/224452812687",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/A3jaCSuMqBg",
+  "title": "문동주 거르고 김도영 선택했던 조계현 전 단장의 뜻밖의 큰 그림",
+  "published_at": "2026-10-25T08:03:00.000+09:00",
+  "collected_at": "2026-10-25T03:38:03.629Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

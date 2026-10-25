@@ -1,0 +1,24 @@
+{
+  "id": "community-a25da954",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 하루 5분투자!",
+  "url": "https://blog.naver.com/day_pause79/224452947468",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/7GIcbgHy7RF",
+  "title": "\"3옵션 탈출\" 김민재, 뮌헨 주전 경쟁서 우위…타는 후순위로 밀려나",
+  "published_at": "2026-10-25T11:51:00.000+09:00",
+  "collected_at": "2026-10-25T03:38:03.629Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

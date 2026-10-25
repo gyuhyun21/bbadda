@@ -1,0 +1,24 @@
+{
+  "id": "news-5c00d31f",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "조선일보",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRnNSWVRLQXgxS0JveE5lanQxU1RtTGd0Z0t3NGUxZmY0b1RGUkh2WG5KQ0tOeDVRb0o5TFo5bjRUM1VxaDM2emNYZi00MWFNaFJwUG4xV2VaeXhYMC1XemFaVDNPQ0FJeHA2TnFuMGJ6R2lJbkJmRGhNb0hudXk1T21UQQ?oc=5",
+  "title": "'초비상' PS 일정 전부 밀리나…'라팍에 계속 비온다→경기 개시 장담 못해",
+  "published_at": "2026-10-25T02:47:00.000Z",
+  "collected_at": "2026-10-25T03:38:03.629Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

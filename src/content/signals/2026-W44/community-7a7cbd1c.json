@@ -1,0 +1,22 @@
+{
+  "id": "community-7a7cbd1c",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 GOOD NEWS",
+  "url": "https://blog.naver.com/livenews101/224452827260",
+  "title": "LG, 베테랑 포수 방출… 박동원 FA 앞두고 '세대교체' 신호탄인가",
+  "published_at": "2026-10-25T08:40:00.000+09:00",
+  "collected_at": "2026-10-25T03:38:03.629Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

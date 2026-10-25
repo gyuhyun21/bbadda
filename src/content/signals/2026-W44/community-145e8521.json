@@ -1,0 +1,22 @@
+{
+  "id": "community-145e8521",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 스카이라운지",
+  "url": "https://blog.naver.com/ljmjm25/224452227484",
+  "title": "KT 한국시리즈 5년 만 정상 탈환 자신 있나?",
+  "published_at": "2026-10-25T06:05:00.000+09:00",
+  "collected_at": "2026-10-25T03:38:03.629Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

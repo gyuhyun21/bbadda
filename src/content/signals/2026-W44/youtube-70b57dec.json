@@ -1,0 +1,27 @@
+{
+  "id": "youtube-70b57dec",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "스포츠월드",
+  "url": "https://www.youtube.com/watch?v=QNk_dhBXnwQ",
+  "title": "김태형, 결국 롯데 떠난다 #shorts #kbo",
+  "published_at": "2026-10-25T02:30:13Z",
+  "collected_at": "2026-10-25T03:38:03.629Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 868,
+    "likes": 5,
+    "comments": 2
+  },
+  "scores": {
+    "hot": 44,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

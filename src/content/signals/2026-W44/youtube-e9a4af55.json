@@ -1,0 +1,27 @@
+{
+  "id": "youtube-e9a4af55",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "야구소년",
+  "url": "https://www.youtube.com/watch?v=22XEI1C42xk",
+  "title": "돌아온 구자욱과 사라진 마무리… 삼성의 9회는 누가? #kbo #삼성라이온즈 #구자욱",
+  "published_at": "2026-10-25T02:00:23Z",
+  "collected_at": "2026-10-25T03:38:03.629Z",
+  "summary_ko": "구자욱이 돌아왔지만 마무리 김재윤이 빠진 삼성의 9회를 누가 맡을지 짚은 팬 영상이다.",
+  "metrics": {
+    "views": 692,
+    "likes": 6,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 45,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "구자욱 복귀, 9회는 누가?"
+}

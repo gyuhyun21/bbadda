@@ -1,0 +1,22 @@
+{
+  "id": "community-edb00a48",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 스포츠를 기록하는 축보트",
+  "url": "https://blog.naver.com/football_goat/224452823557",
+  "title": "KBO KT 스기모토 코우키, 소프트뱅크 지명에 깜짝! \"홀드왕이 일본으로 떠날까?\"",
+  "published_at": "2026-10-25T08:28:00.000+09:00",
+  "collected_at": "2026-10-25T03:38:03.629Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

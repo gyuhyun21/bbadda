@@ -1,0 +1,24 @@
+{
+  "id": "news-e4f80771",
+  "issue": "2026-W44",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "데일리안",
+  "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOLWhkV0tTQVRTd2x5Vms0RGF6SlJSVWlvY2RNR2VrOUd6WVVyTm11Q3c5cFRmVkV0ZXU5TFVYaXhmUXRNNElQNmtFSzFZc0FxZk9YdXVaVC1JOHNULVYwVm1Md1otYTZHS1V5S1lBVDIyMUROTjhWczc1Q3V3RVEyTG5DM1NsOVNZM2hKMUhJOUl1SFZ4Mlk4aHVvQmEyLW5XdTV3R0RrTjNoenBpSmc2WWxRdFhBTHBmZmtFZ2dMay1PMEp1ME5RM1U3VUg1bEZrVnBSc190SEY4S2VkYnI4MTNEVGJWcU1pNnUtOG0yeHczWWxSUTJac0dRbjQ1SWlDY0ZrX2dvUW5aLWtUcUpWcFdmYmVJUXc?oc=5",
+  "title": "“결국 비 때문에\" 프로야구 플레이오프 25일 1차전 취소, 26일로 순연",
+  "published_at": "2026-10-25T03:29:00.000Z",
+  "collected_at": "2026-10-25T03:38:03.629Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 84,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

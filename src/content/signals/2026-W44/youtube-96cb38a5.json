@@ -1,0 +1,27 @@
+{
+  "id": "youtube-96cb38a5",
+  "issue": "2026-W44",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha",
+    "lotte"
+  ],
+  "source_type": "youtube",
+  "source_name": "야구짤츠",
+  "url": "https://www.youtube.com/watch?v=2apGDZP6uJM",
+  "title": "한화가 김경문 감독을 보낸 방식 롯데랑은 이렇게 달랐다 ㄷㄷ",
+  "published_at": "2026-10-24T23:10:50Z",
+  "collected_at": "2026-10-25T03:38:03.629Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 44167,
+    "likes": 392,
+    "comments": 59
+  },
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}
