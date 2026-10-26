@@ -1,0 +1,26 @@
+{
+  "id": "youtube-ef0e86db",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "youtube",
+  "source_name": "도토리 히어로즈",
+  "url": "https://www.youtube.com/watch?v=cP8V5ZrpOXw",
+  "title": "KT위즈 9번 선수 류현인 응원가",
+  "published_at": "2026-10-26T15:34:10Z",
+  "collected_at": "2026-10-26T21:38:32.484Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 172,
+    "likes": 1,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 29,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "news-8c85f395",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "OSEN",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE05a21WQVFmdEJvWTh6UE4tVUE2YmV2N0UtV1BESHRCRHViSzRZdHJaZlV3aUFYSmF1aGZheE9NM1VsdnRzYlVEUDRocG9JekRHYkMzWQ?oc=5",
+  "title": "한국서 처참하게 실패했는데…왜 월드시리즈에 있지? 前 LG 외인 타자 'WS 우승 눈앞' 밀워키 숨은 공신이다",
+  "published_at": "2026-10-26T15:08:00.000Z",
+  "collected_at": "2026-10-26T21:38:32.484Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1kLWQ0OUM0eTg3WnQ5clNOTmpOejloMFh2bFhzbDBNY0hsV1dTUzhGTFI3Y2o5SjRmek5EWlRmM212TWZHT3VVNTB0VERWMzFyUENCdlF3S2t1ZWNCbTc5WUZ5SmFZMmlBTy1IZmRVRdIBb0FVX3lxTE1kLWQ0OUM0eTg3WnQ5clNOTmpOejloMFh2bFhzbDBNY0hsV1dTUzhGTFI3Y2o5SjRmek5EWlRmM212TWZHT3VVNTB0VERWMzFyUENCdlF3S2t1ZWNCbTc5WUZ5SmFZMmlBTy1IZmRVRQ?oc=5"
+    }
+  ]
+}

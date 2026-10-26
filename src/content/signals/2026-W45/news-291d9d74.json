@@ -1,0 +1,22 @@
+{
+  "id": "news-291d9d74",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "news",
+  "source_name": "https://www.2news.co.kr/",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ycm1yTldKYlBnUnUtR3NLaTBzR0FyQTluMzJTQUpRR1VSRzZSXzludFEwczQ4WXUtOE1sZktaTmJDZDczemNGcHR2aXMxVkl0eUFOX1NaNXhNSHJ6RWVJNVJzUzRCVmhC?oc=5",
+  "title": "한화 이글스 신인선수 입단식 개최, 14명의 미래 스타 첫발",
+  "published_at": "2026-10-26T02:07:00.000Z",
+  "collected_at": "2026-10-26T21:38:32.484Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 61,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

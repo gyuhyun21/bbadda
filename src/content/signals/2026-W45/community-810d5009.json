@@ -1,0 +1,65 @@
+{
+  "id": "community-810d5009",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "디시 야구 갤러리",
+  "url": "https://gall.dcinside.com/mgallery/board/view/?id=minjudang&no=5502067&t=cv&page=1",
+  "title": "플레이오프 1차전 삼성 라이온즈 라인업",
+  "published_at": "2026-10-25T15:00:00.000Z",
+  "collected_at": "2026-10-26T21:38:32.484Z",
+  "summary_ko": "",
+  "excerpt": "... 야외용에어컨대여-선진렌탈AD 이동식에어컨, 야외용에어컨 등 냉난방기 대여전문 선진렌탈. [일반] 플레이오프 1차전 삼성 라이온즈 라인업. 잼통령사랑해.…",
+  "metrics": {},
+  "scores": {
+    "hot": 89,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "스포츠조선",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1wNE5UM3k3UEpZb2FLS3BGMUw3Yms5ZGpsbFh3WS15WkhNR0drY1dIeExpVGg3WFF1QnhPendPZGFRUHM2UXRaY200Vmp6TWF2c3dleUNlcUVsaTVXR0FVNTRGMVZ4YS1CTXd4NERxZWQ0UkZDcGx5Z0wtbVlydw?oc=5"
+    },
+    {
+      "source_name": "위키트리",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE01V2p3b2cxSDIwMHdlQXV6RjBKOEtrRFc3UXVWVkE1ZDh3dWsyYnQ2TzdEMmNWc3o3LXFuLWZfZGpMdHY2d1haOTdHN3QwQUw0eFFtM3Z3?oc=5"
+    },
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRWZMTEVpaFpaM0plS3A5Z1c1SlZCOW1Jc202Zm5xOFV6T1ltcFFqLV9FVHBhQnFhU08zQS16NTNmOExTTVZfWFJZRmpNVExkR1VHczBWdzhPNGdCRkpyQjI5bkZJSHNtY0VjeldrVWVibUxselY5UXBJNDB0ZGd4ZERRTQ?oc=5"
+    },
+    {
+      "source_name": "https://www.2news.co.kr/",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Dcmg3NTlIX2pSaUtjdGRHX0hCUnJrcFBQNGs3UjdyNENiUmo4ZW91S25peFFHcnluTGwwa2ItREdmRzhmR3pSd2Y4RDhsbXFpQzkxM0hVckNOSk9xQm95R2dLVXdXUXBK?oc=5"
+    },
+    {
+      "source_name": "재경일보",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5mTnFfaDRzaDRuNzlMWHdhQVJNUVJOVHJXQWpNQmlibHJEME5VZDY0TVowdmJMR3JyWksyWmxoQV90dkVlS0dlTll4QQ?oc=5"
+    },
+    {
+      "source_name": "영남일보",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBTbVVSZTFrTVlrQWl1VjVGTnBrSENuRGlFRHlabmxSU2xOTlpELWhMeXpTUWs0RXdHa1RQdE05M2hlZ01Ub0l1Um10UVdYM3Qya1BZcFFxYkpRV3NWRlk1UDdYcGtrMkFWclBF?oc=5"
+    },
+    {
+      "source_name": "마이데일리",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBzaEUtR2ZxTnR4TElzZUV2a0ZDaWZ5T0JvV1l2VDh1eWRzTHVhR2ZVVjYzOURvazJ3S2xUcHJockV0NHZVenJ5aVQ1UkNTcE5idmE1aTNORlg2TGthRDRfRUJUYks3dw?oc=5"
+    },
+    {
+      "source_name": "KBC광주방송",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5LSHJhQndsUm5FLXpoLXRjM1hjeEZDc3JkeEpkNmdWc0NhcXdiV2gzWFFtMm9wWU5RZzJzdVhWc05iUE90NTVFRzFaTzNkT2VWaHIwMjlEZTNOMWhWUnkzZg?oc=5"
+    },
+    {
+      "source_name": "뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBDZFNzaGV2bGpYZVA1cTQ2RjFJRTVFQmZ4M2ZXQ3Ytak9VVDN4U0VTMHE1REJjYVM1bmhrQkNKWkhCaTg2Q0Q5WFBTN2Fid3lfVl9aTTAzRFI4WXpnQU1RTHZQLWFIYW5ENDFtc080elF0UGlRMm1hZdIBeEFVX3lxTFBDZFNzaGV2bGpYZVA1cTQ2RjFJRTVFQmZ4M2ZXQ3Ytak9VVDN4U0VTMHE1REJjYVM1bmhrQkNKWkhCaTg2Q0Q5WFBTN2Fid3lfVl9aTTAzRFI4WXpnQU1RTHZQLWFIYW5ENDFtc080elF0UGlRMm1hZQ?oc=5"
+    },
+    {
+      "source_name": "톱스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE02OEtlM2V2UWN5ZnI2WFVLQ2NCdUhVV0x4YlFsVnZvOUgyUVE5Tm8xVk5BODUtOUZmZ1BHc2Z3NnRELVFWUnE4c2xsb0Z3YXFsMm8xczh3Yms3WmxsRUtLTnQzRlR4aU1RNGo5R29TRnREQQ?oc=5"
+    }
+  ]
+}

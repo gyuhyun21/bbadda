@@ -1,0 +1,30 @@
+{
+  "id": "community-83738a39",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 dambau",
+  "url": "https://dambau6210.tistory.com/5088",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/HrTGnynCxb8",
+  "title": "카스트로·한준수 홈런포… KIA, 삼성 5-1 제압하고 PO 첫판 선점",
+  "published_at": "2026-10-27T04:38:10.000+09:00",
+  "collected_at": "2026-10-26T21:38:32.484Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "문화일보",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBhRmRVYnF1STk2MnNEbXhENWY2dEdWTVJUTFBHaU5vaXdjQVZoRTlsX2FZTXFDOGtQYTd1TjhZTW1RdHBzcm9VNGJlaEZ5WlNi?oc=5"
+    }
+  ]
+}

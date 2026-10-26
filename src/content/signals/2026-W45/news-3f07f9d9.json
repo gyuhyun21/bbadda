@@ -1,0 +1,24 @@
+{
+  "id": "news-3f07f9d9",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "조선일보",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOemk2WU4zOWJ1ZWpmZnhwUzBpN2lNX2ZPYU5hMEVNcmkzTWFsX0dhRnFzSll6ai1KT3M4YzJJR29iWnJDa1BfSk9VVWkxTGdGZFRBM01ObERzSjYzUHRCQzQ2aFB5bUFZaWNqUHVBeEZFWkRLbTlaeHVFRmxkS2oxeTJYcw?oc=5",
+  "title": "'날벼락' 헤드샷 변수도, '사령탑 걱정'도 모두 지웠다…릴레이 철벽투가 빚어낸 '기선제압' [PO1 히어로]",
+  "published_at": "2026-10-26T14:01:00.000Z",
+  "collected_at": "2026-10-26T21:38:32.484Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 73,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

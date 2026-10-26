@@ -1,0 +1,23 @@
+{
+  "id": "community-7d808311",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "community",
+  "source_name": "엠엘비파크",
+  "url": "https://mlbpark.donga.com/mp/b.php?id=202610200119572407&p=121&b=kbotown&m=view&select=spf&query=LG&site=donga.com",
+  "title": "[AI] 결국 칼 빼든 LG트윈스",
+  "published_at": "2026-10-20T15:00:00.000Z",
+  "collected_at": "2026-10-26T21:38:32.484Z",
+  "summary_ko": "",
+  "excerpt": "... 프로야구 LG 트윈스가 결국 대대적인 선수단 개편에 나선다. 2025년 통합우승을 이끌었던 주전 포수 박동원과…",
+  "metrics": {},
+  "scores": {
+    "hot": 14,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

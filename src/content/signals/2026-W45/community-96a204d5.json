@@ -1,0 +1,24 @@
+{
+  "id": "community-96a204d5",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&document_srl=10488505922",
+  "title": "내야에 서호철 외야에 손아섭 - 야구",
+  "published_at": "2026-10-26T15:38:32.484Z",
+  "collected_at": "2026-10-26T21:38:32.484Z",
+  "summary_ko": "",
+  "excerpt": "... 인기 2025 기아 타이거즈 퓰리처상 [22]. 10.26 자유 쇼진의창 조회3098 추천41. 2025 기아 타이거즈…",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

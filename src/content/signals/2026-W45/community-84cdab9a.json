@@ -1,0 +1,29 @@
+{
+  "id": "community-84cdab9a",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 먹고 보고 직접 해본 기록",
+  "url": "https://blog.naver.com/wornwor/224454862345",
+  "title": "KIA 삼성 플레이오프 2차전 프리뷰｜후라도 vs 올러, 2연승이냐 반격이냐",
+  "published_at": "2026-10-27T03:36:00.000+09:00",
+  "collected_at": "2026-10-26T21:38:32.484Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE13bHNCZVZlZ2g2Qkl4Z1YxQU9YRmpSeE94LTF1a19yOE85YWhaRXQ1NC1WVnR5bWlTeUl4V00wbzRNR3VQRVRkRVctaERxY2hOOTRRWEdEOFpORGNxZWx0NtIBeEFVX3lxTE0xdGFyamc0NkJ1ZjN0TWtaRWV3RWRVV3M5dkU5YXpmUjdTV2wwSUh0ZGtFNURiTERQLWZjeTVUdThGV2FJeUtFcVdOOHZJNG84Tm83NGNRbktHYXJhdjcyLUl4dk91TDJuSzlKRURwQmNPYy1MUFYtOA?oc=5"
+    }
+  ]
+}

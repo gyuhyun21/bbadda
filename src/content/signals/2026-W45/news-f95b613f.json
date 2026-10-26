@@ -1,0 +1,23 @@
+{
+  "id": "news-f95b613f",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "일간스포츠",
+  "url": "http://isplus.joins.com/article/view/isp202610260188",
+  "title": "[IS 포커스] 눈가림에 그친 7년 전 선택...롯데, 두 번째 '선출' 단장 시대는 다를까",
+  "published_at": "2026-10-26T07:49:00.000Z",
+  "collected_at": "2026-10-26T21:38:32.484Z",
+  "summary_ko": "7년 전 선택과 비교하며 롯데의 두 번째 선수 출신 단장 시대가 다를지 짚은 기사다.",
+  "metrics": {},
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "롯데, 두 번째 선출 단장"
+}

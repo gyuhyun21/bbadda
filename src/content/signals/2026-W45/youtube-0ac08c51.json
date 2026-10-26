@@ -1,0 +1,28 @@
+{
+  "id": "youtube-0ac08c51",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "LGTWINSTV",
+  "url": "https://www.youtube.com/watch?v=sI7NkKO1jyU",
+  "title": "홀리몰리👌💫🙋‍♂️심상치 않은 루키즈의 흥 폭발 잠실 직관 브이로그 [LP]",
+  "published_at": "2026-10-26T08:30:33Z",
+  "collected_at": "2026-10-26T21:38:32.484Z",
+  "summary_ko": "LG 트윈스 공식 채널이 루키들이 잠실 직관에서 흥을 폭발시키는 브이로그를 올렸다.",
+  "metrics": {
+    "views": 23186,
+    "likes": 481,
+    "comments": 49
+  },
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "루키들의 잠실 직관 브이로그"
+}

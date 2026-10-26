@@ -1,0 +1,23 @@
+{
+  "id": "news-bfb256c5",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "메디컬투데이",
+  "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9FR0E0VHdpbzJkNU1MY1hGSG9xcUxrcmJ4TjcxYnFNem5EaUQ1eXN2Z0hySjJtdHdaNWFHNGNnNGdQU1VhTktOZDJUWnhndElSUjBYNFdVMDdNU0UxZUdNM0o2eHhoMVNibkI1Zw?oc=5",
+  "title": "KIA, 삼성 5-1 제압…가을야구 4연승 질주, 한국시리즈 진출에 한 걸음 더",
+  "published_at": "2026-10-26T14:08:10.000Z",
+  "collected_at": "2026-10-26T21:38:32.484Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 80
+  },
+  "sentiment": "positive"
+}

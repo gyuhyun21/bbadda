@@ -1,0 +1,27 @@
+{
+  "id": "youtube-28e05f6e",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte",
+    "nc"
+  ],
+  "source_type": "youtube",
+  "source_name": "과거를 들추는 채널(과들채)",
+  "url": "https://www.youtube.com/watch?v=4M7se_Qv1dk",
+  "title": "롯데인 줄 알았는데… 손아섭, NC 복귀 유력",
+  "published_at": "2026-10-26T16:11:47Z",
+  "collected_at": "2026-10-26T21:38:32.484Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 2300,
+    "likes": 13,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 42,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

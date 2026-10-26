@@ -1,0 +1,25 @@
+{
+  "id": "community-34bf40c0",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte",
+    "nc",
+    "doosan"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 스포츠에 빠지다",
+  "url": "https://blog.naver.com/kida02_/224454814578",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/IQuII6rPMx9",
+  "title": "\"손아섭 복귀한다고?\" 롯데가 아닌 NC로 간다 유력 보도, 두산 방출 뒤 반전",
+  "published_at": "2026-10-27T04:05:00.000+09:00",
+  "collected_at": "2026-10-26T21:38:32.484Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "mixed"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "community-6be67804",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 이기자의 스포츠 리뷰",
+  "url": "https://blog.naver.com/spo_tv/224454705146",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/5MFnL95EyUS",
+  "title": "삼성-KIA PO 1차전 매진 42경기 연속 기록이 말하는 것",
+  "published_at": "2026-10-26T23:57:00.000+09:00",
+  "collected_at": "2026-10-26T21:38:32.484Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 90,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9GazgtdjdfdkFoUUMyWk83RlFTWnJfNmpKbEpzeVlWX0RaSE5LM3ZmVzY2czVWTW56YXpKU2ZRb2diVFBlLUtBczhiUmFFZkdJMkxIUzBSVGhmZVd1aFZWZ9IBYEFVX3lxTE9GazgtdjdfdkFoUUMyWk83RlFTWnJfNmpKbEpzeVlWX0RaSE5LM3ZmVzY2czVWTW56YXpKU2ZRb2diVFBlLUtBczhiUmFFZkdJMkxIUzBSVGhmZVd1aFZWZw?oc=5"
+    },
+    {
+      "source_name": "m.maniareport.com",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5UenRoMVRCQnFPMUkxSWpJSjBuX2dJaFhRZldBLVdiczNJZVFZZWE4VVhXRkxNRlpqbUR6UjJrdmJzR1FsRF80RTJFUkktVTIzNE5Ncy11UUM2WFQ0cE9UOXR0TkVieDVlQVloNkp3YUs1MkxhRjdWTVRiNA?oc=5"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "community-d6d7cd77",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 스포츠노트 by 라이프 에디터",
+  "url": "https://blog.naver.com/lifenote_ed/224454636717",
+  "title": "\"2028년까지 기다려야 한다더니\" 문동주, 예상보다 빠른 복귀 가능성",
+  "published_at": "2026-10-26T22:12:00.000+09:00",
+  "collected_at": "2026-10-26T21:38:32.484Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

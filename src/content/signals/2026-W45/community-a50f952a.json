@@ -1,0 +1,29 @@
+{
+  "id": "community-a50f952a",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 스포츠에 빠지다",
+  "url": "https://blog.naver.com/kida02_/224454807435",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/2Lnkid9qg0n",
+  "title": "“제가 승리투수예요?” KIA 이의리 PO 첫 승, MVP 농담까지",
+  "published_at": "2026-10-27T05:05:00.000+09:00",
+  "collected_at": "2026-10-26T21:38:32.484Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 83,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBSczY5QWswajZrN2NZVXM3MjV1bEQ4VnE3WUtueXk2cmVQRWtfV1FRaUxXa1pWMHNHNjRGZkNBRzk1a0tocXhuMUM2M2Nvd2pKWmV5Q00yMFk2bExEeXZtWjl3cG9SMkVYSHdIRUVHNmh1dWh0T3BBZNIBeEFVX3lxTFBSczY5QWswajZrN2NZVXM3MjV1bEQ4VnE3WUtueXk2cmVQRWtfV1FRaUxXa1pWMHNHNjRGZkNBRzk1a0tocXhuMUM2M2Nvd2pKWmV5Q00yMFk2bExEeXZtWjl3cG9SMkVYSHdIRUVHNmh1dWh0T3BBZA?oc=5"
+    }
+  ]
+}

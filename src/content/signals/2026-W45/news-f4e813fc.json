@@ -1,0 +1,28 @@
+{
+  "id": "news-f4e813fc",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9BaDIyTWo4UHlESzE3Vk1BWDhoWUtnTGtHX3IxNjBXaktLYnB1SUR6SG9zR1Q0Sm02UHBlQkZTUHk1c2lPLXFqSUpXTTU4SkVKLXgyV2tXYnh4amE1RE9wYVdWOVdhQkR0QUR0S2d5NNIBb0FVX3lxTE9BaDIyTWo4UHlESzE3Vk1BWDhoWUtnTGtHX3IxNjBXaktLYnB1SUR6SG9zR1Q0Sm02UHBlQkZTUHk1c2lPLXFqSUpXTTU4SkVKLXgyV2tXYnh4amE1RE9wYVdWOVdhQkR0QUR0S2d5NA?oc=5",
+  "title": "[사진]승리 다짐하는 삼성 라이온즈",
+  "published_at": "2026-10-26T09:10:00.000Z",
+  "collected_at": "2026-10-26T21:38:32.484Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 80,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQzBSUnp2aU1RTHNmRmdNZmJOYTBGWEhnYXkxV2RSV2hnWGM3Y1Z1YURFWHFXQzdaaGtHMEx4N1FSQWxzRS1nWkpyWVYxNzg0X0hncWFnU3ZBckxmTXFxN2NNc3UxSnIyUEluMmV3aDBWSld1TWw4RE9BMWFLNlU4am9ybnJycmxq?oc=5"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "news-cccd1d7d",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "뉴시스",
+  "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1BaS1rZDFIcnRycExxTThUR2Z6UWowLXcwTlJxdU5GQ2VZNGZwN0RiYUFKeDRFUmhIbFhrSzlsTEJyQ1ltaUVzWm9xcngwMGRqY3hLUzdIbkJqVmptX2pxaU9RbXRuU0RZTC1EOTdIbjBBZFVqejB4TdIBeEFVX3lxTE1BaS1rZDFIcnRycExxTThUR2Z6UWowLXcwTlJxdU5GQ2VZNGZwN0RiYUFKeDRFUmhIbFhrSzlsTEJyQ1ltaUVzWm9xcngwMGRqY3hLUzdIbkJqVmptX2pxaU9RbXRuU0RZTC1EOTdIbjBBZFVqejB4TQ?oc=5",
+  "title": "KIA 카스트로, 홈런 포함 3안타 폭발…\"커터 노렸는데 예상 적중\"[PO]",
+  "published_at": "2026-10-26T13:58:01.000Z",
+  "collected_at": "2026-10-26T21:38:32.484Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 81,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

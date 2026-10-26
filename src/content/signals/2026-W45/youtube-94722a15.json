@@ -1,0 +1,28 @@
+{
+  "id": "youtube-94722a15",
+  "issue": "2026-W45",
+  "module": "league",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "team": "kia",
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=fF3lGGde1Lk",
+  "title": "아웃 카운트를 올리는 KIA 박정우의 깔끔한 수비! | PO1_KIA vs 삼성 | 10.26 | 크보모먼트 | KBO 야구 하이라이트",
+  "published_at": "2026-10-26T11:12:25Z",
+  "collected_at": "2026-10-26T21:38:32.484Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 56113,
+    "likes": 486,
+    "comments": 32
+  },
+  "scores": {
+    "hot": 60,
+    "relevance": 80
+  },
+  "sentiment": "neutral"
+}

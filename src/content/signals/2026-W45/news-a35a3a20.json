@@ -1,0 +1,29 @@
+{
+  "id": "news-a35a3a20",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBlWWszRTAtQlhSdWJDaVdHUzg3bUsxTWZpMVlISWd2dFNSdFBvdklKdzJ3THBHeDZ4UnF6Z0dlNGxoTFlaeGoyY2lkSjhFYXg1aWxXSXNGN3dJdFQ4LVZhRTByS1JENmhZaDFTSDBpQdIBb0FVX3lxTFBlWWszRTAtQlhSdWJDaVdHUzg3bUsxTWZpMVlISWd2dFNSdFBvdklKdzJ3THBHeDZ4UnF6Z0dlNGxoTFlaeGoyY2lkSjhFYXg1aWxXSXNGN3dJdFQ4LVZhRTByS1JENmhZaDFTSDBpQQ?oc=5",
+  "title": "원태인 전격 출장 명단 포함→이범호 깜짝 놀랐다! \"설마 마무리로 나오진 않겠죠? 정보 있으면 좀 주세요\"",
+  "published_at": "2026-10-26T08:26:03.000Z",
+  "collected_at": "2026-10-26T21:38:32.484Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 87,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1kZnRZNTZzS0c0em9hZTBfMFV1dm1TZXB6Yll4NU15LUFKcU5fbWROT1pKNXQ4ZDlYQUFscjBQQnhtSnM5ZUdBREdSZVVfU0g5VFpVYWczSjNyaVBhSWQ2QjU4b1hSZU1HMHA5VFhRM0JXWGtJWWc?oc=5"
+    }
+  ]
+}

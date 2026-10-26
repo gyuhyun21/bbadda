@@ -1,0 +1,29 @@
+{
+  "id": "community-93ef103d",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 똑카의 정보 바구니",
+  "url": "https://blog.naver.com/birdrosy_work/224454702310",
+  "title": "2026년 10월 27일 KIA 타이거즈 삼성 라이온즈 플레이오프 2차전 중계 경기일정 선발 올러 후라도",
+  "published_at": "2026-10-26T23:13:00.000+09:00",
+  "collected_at": "2026-10-26T21:38:32.484Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 81,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "뉴스핌",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9Zbk1UWXZkenRCLU0tUk9GclBRQWVqSnd2YjZEZ2ZSOFBSREpzQy02VW8wSVRVR0dmbVNGOGVpNjIzV2d1amotRm12QjRSc1VWN21sdVlfZE05T29o?oc=5"
+    }
+  ]
+}

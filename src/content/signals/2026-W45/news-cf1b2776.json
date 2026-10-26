@@ -1,0 +1,32 @@
+{
+  "id": "news-cf1b2776",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "스타뉴스",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5kOGtxX2F4R29HVEN4SThWUUtSSUNvb1g0YUtObm5QZ0dQYU1RTkVIWThEaXV6WGZjQWFxQjhqaGpYQ2hNYkVEM01WMG9iRnFYdTVHZE1ZNkNYRUsyamZqd2NSVHZ0QkhYd0MyLUs5VGFEQ0pydUE?oc=5",
+  "title": "'우취에도 변함없다' KIA, 파격 'DH 한준수' 카드 유지! 선발 라인업 그대로 간다",
+  "published_at": "2026-10-26T07:55:46.000Z",
+  "collected_at": "2026-10-26T21:38:32.484Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 79,
+    "relevance": 80
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA2YnhWRTlLT1lfT1ZvS2dfNktWZjFXbFROWmhSNmxMTGtDVU1qaEZaTk92LWE4T3h4VWZuUW5FdkJoME5mWXpQV2szcXREX0V0dEFwLXRNcHZxQ0YwM2hKX0NTbmVxb0VlZWx5V1FBZ9IBb0FVX3lxTFA2YnhWRTlLT1lfT1ZvS2dfNktWZjFXbFROWmhSNmxMTGtDVU1qaEZaTk92LWE4T3h4VWZuUW5FdkJoME5mWXpQV2szcXREX0V0dEFwLXRNcHZxQ0YwM2hKX0NTbmVxb0VlZWx5V1FBZw?oc=5"
+    },
+    {
+      "source_name": "https://spt.co.kr/",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1IYUo4QkZBeDVyLS1KZU8tNGg2TDRwdmQ3VXcwZ2lhVmllWFJDeGZxMXhyeVIyaTBINWoyWk1BUkh0anJVdzJ5WTJDYnpGdzZ4NWlrQ2h6MGF3b0xm?oc=5"
+    }
+  ]
+}

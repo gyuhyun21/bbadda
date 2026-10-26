@@ -1,0 +1,24 @@
+{
+  "id": "news-227fd300",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "한겨레",
+  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9kbC02M05FTzdYTXVudFJNVlhrdXpPMmQyLXFUX2c0c25xTlZGYm1OSzc0ZzNGd0psV3BLZkw1aTd4TTMwU3JuSklTTDRQb0lEUTRtallpN0g4QkdRdkNxTGtXQ1FGXzQ?oc=5",
+  "title": "‘3회 투런 홈런’ 카스트로 “페덱이 커터를 던질 것 같았다”",
+  "published_at": "2026-10-26T13:46:00.000Z",
+  "collected_at": "2026-10-26T21:38:32.484Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 73,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

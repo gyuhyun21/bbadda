@@ -1,0 +1,23 @@
+{
+  "id": "news-0edb3bce",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠동아",
+  "url": "https://sports.donga.com/sports/article/all/20261026/134910471/1",
+  "title": "“트라우마 생각하지 않는다, 마운드에 다시 서겠다”…안면 골절 딛고 일어서려는 NC 마무리",
+  "published_at": "2026-10-26T21:05:00.000Z",
+  "collected_at": "2026-10-26T21:38:32.484Z",
+  "summary_ko": "안면 골절을 이겨내고 있는 NC 마무리가 \"마운드에 다시 서겠다\"고 밝혔다.",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "NC 마무리, 복귀 의지"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-bc64111b",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠타임스",
+  "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0yN0dZNE1CS0lYelFYQlFWMlo4dFN5MVo2bjZ0TlM5QVVQRmt4cTk0bGdEOVVCM0VLeTZOS1Q1WUU3QVRPekk1bkRrVFZLRDBPTXNPVmc5eWxZUzJRSThrXzlOU2ZlanZfMjc0a3F1eVlqZw?oc=5",
+  "title": "'네일 호투ㆍ카스트로 홈런 포함 3타점' KIA, 삼성에 5-1 완승으로 PO 기선 제압",
+  "published_at": "2026-10-26T13:07:13.000Z",
+  "collected_at": "2026-10-26T21:38:32.484Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 80
+  },
+  "sentiment": "positive"
+}

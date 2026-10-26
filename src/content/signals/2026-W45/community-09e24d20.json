@@ -1,0 +1,24 @@
+{
+  "id": "community-09e24d20",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&page=5&document_srl=10488855397",
+  "title": "아 존나 기분 좋네 - 야구",
+  "published_at": "2026-10-26T18:38:32.484Z",
+  "collected_at": "2026-10-26T21:38:32.484Z",
+  "summary_ko": "",
+  "excerpt": "... [레벨:24] 최민석 1 시간 전. 꼬북져아 두산 베어스콘(따봉동주) ✚. [레벨:24] H3R0 1 시간 전.…",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

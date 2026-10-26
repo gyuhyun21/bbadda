@@ -1,0 +1,28 @@
+{
+  "id": "youtube-967fcd24",
+  "issue": "2026-W45",
+  "module": "league",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "team": "kia",
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=sbHw8VDdFh4",
+  "title": "대단한 수비 집중력! KIA 김도영이 아웃 카운트를 만들어 냅니다! | PO1_KIA vs 삼성 | 10.26 | 크보모먼트 | KBO 야구 하이라이트",
+  "published_at": "2026-10-26T12:49:24Z",
+  "collected_at": "2026-10-26T21:38:32.484Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 151799,
+    "likes": 1622,
+    "comments": 178
+  },
+  "scores": {
+    "hot": 67,
+    "relevance": 80
+  },
+  "sentiment": "neutral"
+}

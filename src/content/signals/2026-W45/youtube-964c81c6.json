@@ -1,0 +1,28 @@
+{
+  "id": "youtube-964c81c6",
+  "issue": "2026-W45",
+  "module": "league",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "team": "kia",
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=qsDxP6YXiXw",
+  "title": "플레이오프 포문을 여는 KIA 카스트로의 선취점! | PO1_KIA vs 삼성 | 10.26 | 크보모먼트 | KBO 야구 하이라이트",
+  "published_at": "2026-10-26T10:23:20Z",
+  "collected_at": "2026-10-26T21:38:32.484Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 217844,
+    "likes": 1574,
+    "comments": 156
+  },
+  "scores": {
+    "hot": 65,
+    "relevance": 80
+  },
+  "sentiment": "neutral"
+}

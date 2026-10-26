@@ -1,0 +1,26 @@
+{
+  "id": "youtube-165b28de",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "source_name": "작은손 피아노",
+  "url": "https://www.youtube.com/watch?v=_s0_Ru7flrU",
+  "title": "한화 이글스 - 사랑한다 이글스 피아노 | 사랑한다 이글스 | 한화 응원가 | 피아노 편곡 | 작은손 피아노",
+  "published_at": "2026-10-26T12:37:40Z",
+  "collected_at": "2026-10-26T21:38:32.484Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 480,
+    "likes": 3,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 35,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

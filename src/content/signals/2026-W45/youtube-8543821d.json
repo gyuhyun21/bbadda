@@ -1,0 +1,26 @@
+{
+  "id": "youtube-8543821d",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "youtube",
+  "source_name": "ㅇㅊ",
+  "url": "https://www.youtube.com/watch?v=WK7LlUFgOzA",
+  "title": "체포하겠어 - 키움히어로즈 하현승",
+  "published_at": "2026-10-26T14:06:52Z",
+  "collected_at": "2026-10-26T21:38:32.484Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 7,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 10,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

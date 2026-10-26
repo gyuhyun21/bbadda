@@ -1,0 +1,28 @@
+{
+  "id": "news-0d335a20",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0yeWJkS3VxOFFvOUw5a19PU3ZEemR2LXdUdG10aUllTWxSdmpZQ1lzR3Y0NDY4N3hjZExjcXR0Wk5tY2RnanJkQWlYQ1RQOW1pOVhHN2RaNURneEd4SzNGWmlYZFdyWWdGbkHSAW9BVV95cUxPV3JlT3VRREFLdzNqQ2xWLUxXT19VY1pIdzgyNmZHRXVWMXUtY0NLQ2xGTVJXaGR5bEU3TG85WVFTUEd5ZVFkME9FWUtDeWQwaDJhNnYyQV80anM4NEpCUk5MdzBJV0d3NkwwRnZSMms?oc=5",
+  "title": "'초대박' KIA 돌연 떠난 '10홈런' 대체 외인 생각도 안난다! '퇴출 위기' 13억 정식 외인 가을 대폭발",
+  "published_at": "2026-10-26T20:21:00.000Z",
+  "collected_at": "2026-10-26T21:38:32.484Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 92,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9jNlVDWnktVE1OTUhEcFNZWlJNUm1TRTJhMndBNHBzNktlbUlfaFFucGhnN1Z1T3BJbDJqamRic3M4T2pRTlVnNjZQZFpMbXNtcDhXYWZpdXVSTDljZUtHM0tJdE9ScWx4d25CZng3U29HUVdERWc?oc=5"
+    }
+  ]
+}

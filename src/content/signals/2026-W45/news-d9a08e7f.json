@@ -1,0 +1,23 @@
+{
+  "id": "news-d9a08e7f",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "일간스포츠",
+  "url": "http://isplus.joins.com/article/view/isp202610260168",
+  "title": "'박해민-임찬규 빼고 다 나와' 2년 전과 비교해도, LG 염경엽의 '독한 마무리 캠프'",
+  "published_at": "2026-10-26T07:42:00.000Z",
+  "collected_at": "2026-10-26T21:38:32.484Z",
+  "summary_ko": "LG 마무리캠프가 2년 전과 비교해도 강도가 높다는 보도다. 염경엽 감독이 대대적인 변화를 시작했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "LG, 독한 마무리캠프"
+}

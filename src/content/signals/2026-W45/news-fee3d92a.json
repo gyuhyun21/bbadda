@@ -1,0 +1,29 @@
+{
+  "id": "news-fee3d92a",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "스타뉴스",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1ub3gteGxpYzIxajJqUFVjTDFFMHlQN3dJMHZhYjBrOVNjT3l0V3RVZUJUUFFRcFRhaHRsLUZzZXBmZjk3SzB1YUl0UEpSUlBFVjhiWWZNZzFickc5aktFWEx1MGVIalF5RGtadXI0ZWdjYVZob3c?oc=5",
+  "title": "'KIA 타선 안 식었네' 카스트로 투런→한준수 솔로포, 믿었던 페덱에 발등 찍힌 삼성... 2년 전 오버랩되는 우천취소 [PO1]",
+  "published_at": "2026-10-26T10:39:12.000Z",
+  "collected_at": "2026-10-26T21:38:32.484Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 80,
+    "relevance": 80
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1FX1hvcVRqNWU1WmdkaVRKUlVVNk51clNTbGJheUFLbFM4VVhyOXZ4RnBLajZFOUlJSDZKakdyQUlwbDY1OUpzMWNTaU4xRFRaQmJuVG1ud0pkSHNFWXZKbWZKT01PN093cjRhUDZNQdIBb0FVX3lxTE1FX1hvcVRqNWU1WmdkaVRKUlVVNk51clNTbGJheUFLbFM4VVhyOXZ4RnBLajZFOUlJSDZKakdyQUlwbDY1OUpzMWNTaU4xRFRaQmJuVG1ud0pkSHNFWXZKbWZKT01PN093cjRhUDZNQQ?oc=5"
+    }
+  ]
+}

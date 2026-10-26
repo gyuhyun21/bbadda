@@ -92,10 +92,17 @@ rounds:
       - no: 1
         date: 2026-10-26 # 25일 우천 취소, 하루 순연(마이데일리 '모든 PO 일정 하루씩 연기', 일간스포츠 '26일로 순연', 2026-10-25). 예고 선발은 26일 그대로 확인(스포츠동아 '페덱vs네일 그대로', 2026-10-26)
         venue: 대구
+        result: { kia: 5, samsung: 1 }
+        source: "https://news.google.com/rss/articles/CBMickFVX3lxTE0yN0dZNE1CS0lYelFYQlFWMlo4dFN5MVo2bjZ0TlM5QVVQRmt4cTk0bGdEOVVCM0VLeTZOS1Q1WUU3QVRPekk1bkRrVFZLRDBPTXNPVmc5eWxZUzJRSThrXzlOU2ZlanZfMjc0a3F1eVlqZw?oc=5" # 스포츠타임스 'KIA, 삼성에 5-1 완승'(2026-10-26)
         starters: { kia: 네일, samsung: 페덱 } # 예고 선발
         starter_notes: { kia: "삼성전 승률 100%" }
+        win: 이의리 # 연합뉴스 'PS 첫 승리 챙긴 KIA 이의리'
+        mvp: "카스트로(KIA)" # KBO 공식 하이라이트 제목 '데일리 MVP KIA 카스트로'
+        homers: ["카스트로(KIA) 3회 투런", "한준수(KIA) 솔로"] # 스타뉴스 '카스트로 투런→한준수 솔로포'
+        attendance: "2만 3550석 매진 (포스트시즌 42경기 연속 매진)"
         ig:
           pre: { hook: "하루 밀린 PO\n오늘 막 오른다", sub: "1차전 이긴 팀 KS 진출 확률 77.1%" }
+          post: { hook: "KIA, PO 1차전\n먼저 웃었다", sub: "삼성 꺾고 KS 진출 확률 77.1% 선점", points: ["카스트로, 3회 투런 포함 3안타 3타점", "네일 헤드샷 퇴장에도 불펜 철벽", "삼성 페덱, 4⅔이닝 5실점 강판"] }
         facts:
           - "PO 1차전 승리 팀 KS 진출 확률 77.1%"
         sources:

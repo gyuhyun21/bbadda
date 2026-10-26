@@ -1,0 +1,29 @@
+{
+  "id": "youtube-b56b7a69",
+  "issue": "2026-W45",
+  "module": "league",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "team": "kia",
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=A7ekeDRdjp4",
+  "title": "[KIA타이거즈 vs 삼성라이온즈] 10.26(월) PO 1차전 하이라이트｜2026 신한 SOL KBO 포스트시즌｜플레이오프 1차전｜KBO X TVING",
+  "published_at": "2026-10-26T13:23:20Z",
+  "collected_at": "2026-10-26T21:38:32.484Z",
+  "summary_ko": "KBO 공식 채널이 PO 1차전 KIA와 삼성의 하이라이트를 올렸다.",
+  "metrics": {
+    "views": 262295,
+    "likes": 1730,
+    "comments": 326
+  },
+  "scores": {
+    "hot": 66,
+    "relevance": 80
+  },
+  "sentiment": "neutral",
+  "brief_ko": "PO 1차전 하이라이트"
+}

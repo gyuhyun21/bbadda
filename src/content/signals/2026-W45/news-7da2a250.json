@@ -1,0 +1,29 @@
+{
+  "id": "news-7da2a250",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://www.sportschosun.com/baseball/2026-10-26/202610260100166870010899",
+  "title": "[PO 1차전]\"기회도, 찬스도 없었다\" 벼랑 끝 삼성, 2차전 대대적 변화 예고 \"원태인 투입도 가능\"",
+  "published_at": "2026-10-26T13:47:54.000Z",
+  "collected_at": "2026-10-26T21:38:32.484Z",
+  "summary_ko": "1차전을 내준 삼성이 2차전에서 대대적인 변화를 예고했다. 원태인 투입 가능성도 언급됐다.",
+  "metrics": {},
+  "scores": {
+    "hot": 81,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNaXk3WnduRElnbC0wVW1DMnVVZjdNQndLSHhRT19mZnVnTzIzWDlGLWVBbjF3eXJYZ2NfbmxTNGlLRU5jYUtBeUY3c1BLVmpWSmdRa2ZEbVlhb0F3X0hkN2J3Ym01NmMtdUg1c0JqUVVsdnIyb3hDTncwdzB4WndzakZTaw?oc=5"
+    }
+  ],
+  "brief_ko": "삼성, 2차전 변화 예고"
+}

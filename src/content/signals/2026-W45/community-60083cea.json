@@ -1,0 +1,24 @@
+{
+  "id": "community-60083cea",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 나나의 실험실",
+  "url": "https://blog.naver.com/ssting_up/224454542988",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/6Wt0YfiVrss",
+  "title": "불꽃야구 오늘 26일 결방, 기다렸던 24회가 갑자기 미뤄진 이유",
+  "published_at": "2026-10-26T21:18:00.000+09:00",
+  "collected_at": "2026-10-26T21:38:32.484Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

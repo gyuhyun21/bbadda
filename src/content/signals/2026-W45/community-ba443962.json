@@ -1,0 +1,24 @@
+{
+  "id": "community-ba443962",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 이피룸",
+  "url": "https://blog.naver.com/yipi_teyo/224454900163",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/7Z9DJADeAIA",
+  "title": "65승 1패 승률 98.48%, 49연승 안세영 프랑스오픈 결승 진출했다",
+  "published_at": "2026-10-27T05:20:00.000+09:00",
+  "collected_at": "2026-10-26T21:38:32.484Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "community-81671aff",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&document_srl=10487919258",
+  "title": "3차전에 끝날거 같지? - 야구",
+  "published_at": "2026-10-26T12:38:32.484Z",
+  "collected_at": "2026-10-26T21:38:32.484Z",
+  "summary_ko": "",
+  "excerpt": "... 삼성 라이온즈 플레이오프 기준 [8]. 2 분 전 PO 토미틸리카이넨 조회144. 삼성 라이온즈 플레이오프…",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

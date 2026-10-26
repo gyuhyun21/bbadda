@@ -1,0 +1,23 @@
+{
+  "id": "news-32b87ac1",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠한국",
+  "url": "https://sports.hankooki.com/news/articleView.html?idxno=6942269",
+  "title": "‘부산고 오타니→전체 1순위 키움 입단’ 하현승, 2026 퓨처스 야구 스타대상",
+  "published_at": "2026-10-26T07:13:41.000Z",
+  "collected_at": "2026-10-26T21:38:32.484Z",
+  "summary_ko": "키움 1순위 신인 하현승이 2026 퓨처스 야구 스타대상을 받았다.",
+  "metrics": {},
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "하현승, 퓨처스 스타대상"
+}

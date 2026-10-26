@@ -1,0 +1,22 @@
+{
+  "id": "news-7d1d5a18",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "fn스타",
+  "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE15Z01SbWNaZDBLTE5FZE00b05xWG5scER6akt4bnVxVUF2eFpSODhpdjR2SGRHcVhwQ2pGWExVOV8tdjdSYi1WNWhKOWlJaHI5aFE4QU5MZ3JmNV9vVndR0gFjQVVfeXFMUGF4T1YtazdBUE5JWnUxbmxLNzk5bWx1VG9qd3NOOFM3Sm9CLTltVkhJdWxiNDZHa2w3V1hjRDUtZERUUzJGNm93Q3VMWTdoMW9SRXgyTEJxV0FuMV96MFJKQ0dV?oc=5",
+  "title": "'김도영이 밥상 차리고 카스트로가 엎었다' KIA, 24년 만의 PO 승리... KS 직행 77%확률 선점",
+  "published_at": "2026-10-26T13:01:00.000Z",
+  "collected_at": "2026-10-26T21:38:32.484Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 73,
+    "relevance": 80
+  },
+  "sentiment": "positive"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-4c9fcf7f",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠서울",
+  "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5jaFp5SzRGTUdlVl9SSGFIN0R0Mm5xTThVcVJWbUZuN0U3SlkyWVdFMThaRG83Mm1rQVNvM3VGLVZRQ0J5OWNtVXlvbGlJakFxRy1mbTJOUVE?oc=5",
+  "title": "삼성 vs KIA, KS 티켓 놓고 격돌…가을야구 열기에 연금복권도 시간 변경",
+  "published_at": "2026-10-26T00:39:10.000Z",
+  "collected_at": "2026-10-26T21:38:32.484Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 61,
+    "relevance": 80
+  },
+  "sentiment": "neutral"
+}

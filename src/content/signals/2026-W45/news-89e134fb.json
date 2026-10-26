@@ -1,0 +1,23 @@
+{
+  "id": "news-89e134fb",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "뉴시스",
+  "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1zMmk4a0RXWTFFenc1ZjFZSERtWHhDSEE5cjdUYjZ1SFV4NXgzMmNUV1pmU0xTd0cxUHJSUC0zTXAwOTUxcjdaRW1PLUdQSzhZV1RDZlB4LTczNW5YTWdhSU04amE1dl80YWZOU2gxLUhEc3RqSi1yS9IBeEFVX3lxTE1zMmk4a0RXWTFFenc1ZjFZSERtWHhDSEE5cjdUYjZ1SFV4NXgzMmNUV1pmU0xTd0cxUHJSUC0zTXAwOTUxcjdaRW1PLUdQSzhZV1RDZlB4LTczNW5YTWdhSU04amE1dl80YWZOU2gxLUhEc3RqSi1ySw?oc=5",
+  "title": "비로 하루 미뤄졌어도 만원 관중 라팍…PS 42경기 연속 매진[PO]",
+  "published_at": "2026-10-26T10:45:49.000Z",
+  "collected_at": "2026-10-26T21:38:32.484Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 72,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

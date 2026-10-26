@@ -1,0 +1,24 @@
+{
+  "id": "news-e93f4bc3",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "MHN스포츠",
+  "url": "https://mhnse.com/news/articleView.html?idxno=1624068",
+  "title": "“단장은 욕먹는 자리\"...프론트 책임 강조해온 이택근 신임 단장, ‘육성·책임·전문성’은 어떤 의미일까",
+  "published_at": "2026-10-26T07:49:39.000Z",
+  "collected_at": "2026-10-26T21:38:32.484Z",
+  "summary_ko": "롯데 이택근 신임 단장이 \"육성·책임·전문성\"을 강조해 온 배경을 다룬 기사다.",
+  "metrics": {},
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "이택근 신임 단장의 원칙"
+}

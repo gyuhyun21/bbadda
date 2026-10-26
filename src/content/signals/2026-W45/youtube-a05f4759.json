@@ -1,0 +1,27 @@
+{
+  "id": "youtube-a05f4759",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "이영우의 라이브 TV",
+  "url": "https://www.youtube.com/watch?v=MAWgQn2bdqg",
+  "title": "[ 입중계 라이브 ] PO 1차전 기아 vs 삼성  #lg트윈스#기아타이거즈#삼성라이온즈#kt위즈#kbo리그#이글스tv",
+  "published_at": "2026-10-26T13:56:09Z",
+  "collected_at": "2026-10-26T21:38:32.484Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 96399,
+    "likes": 916,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

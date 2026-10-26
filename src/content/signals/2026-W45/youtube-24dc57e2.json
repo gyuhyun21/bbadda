@@ -1,0 +1,28 @@
+{
+  "id": "youtube-24dc57e2",
+  "issue": "2026-W45",
+  "module": "league",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "team": "kia",
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=hlqipqYn9SY",
+  "title": "엄청난 타격감! KIA 카스트로의 두 번째 타석은 홈런을 기록합니다!! | PO1_KIA vs 삼성 | 10.26 | 크보모먼트 | KBO 야구 하이라이트",
+  "published_at": "2026-10-26T10:52:45Z",
+  "collected_at": "2026-10-26T21:38:32.484Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 224680,
+    "likes": 1837,
+    "comments": 253
+  },
+  "scores": {
+    "hot": 67,
+    "relevance": 80
+  },
+  "sentiment": "positive"
+}

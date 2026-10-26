@@ -1,0 +1,26 @@
+{
+  "id": "youtube-ed8f5818",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "youtube",
+  "source_name": "작은손 피아노",
+  "url": "https://www.youtube.com/watch?v=R-Bs2oqupgI",
+  "title": "SSG 랜더스 랜더스여 피아노 | 랜더스여 | SSG 응원가 | 피아노 편곡 | 작은손 피아노",
+  "published_at": "2026-10-26T13:24:56Z",
+  "collected_at": "2026-10-26T21:38:32.484Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 11,
+    "likes": 2,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 52,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

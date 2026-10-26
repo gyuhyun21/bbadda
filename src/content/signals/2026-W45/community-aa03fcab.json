@@ -1,0 +1,23 @@
+{
+  "id": "community-aa03fcab",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 ,",
+  "url": "https://blog.naver.com/twig_zip/224454867600",
+  "title": "김도영, 홈런인 줄 알고 천천히 뛰었다…이범호 감독은 왜 안도했을까?",
+  "published_at": "2026-10-27T03:47:00.000+09:00",
+  "collected_at": "2026-10-26T21:38:32.484Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

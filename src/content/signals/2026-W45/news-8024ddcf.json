@@ -1,0 +1,24 @@
+{
+  "id": "news-8024ddcf",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "조선일보",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZXl4R19VMWVkNDY5bkp5dnVWcTlQTThPUDl3d3ZfTmJrbkY5X3J4WFJDTmlIMnBWbkRQN0wtOFVPRERqRWpsazN5aHlqeWFwS1g3MnBMZFAwOXFoanJ5NEVEM0tCWUVqQm1VVkJvR2dyLVE5Rk9CYnEtX094aVhvS3pKVQ?oc=5",
+  "title": "1회부터 154㎞ KK 거침없이 출발, 빅리그 32승 외인, 왜 5이닝도 채우지 못하고 고개를 숙였을까[PO1]",
+  "published_at": "2026-10-26T12:41:55.000Z",
+  "collected_at": "2026-10-26T21:38:32.484Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 73,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

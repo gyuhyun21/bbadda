@@ -1,0 +1,23 @@
+{
+  "id": "news-8899307d",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "STN SPORTS",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9VeTRzRi1SVUJQZ1hqdnRFOHY1WEV5dXVqcU5OZ2ZtNjgzRE95MGF5aFNodjExeHFGWl9KMEc3aGdKMW1SSElVSFdVQllfT05mZlJ6b1JIaEQ1M3pWT25BNjk0TUhma2x6b3FWSmxTMA?oc=5",
+  "title": "‘마무리 투수 부재’ 삼성·KIA, 누가 웃을까?",
+  "published_at": "2026-10-26T06:37:42.000Z",
+  "collected_at": "2026-10-26T21:38:32.484Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 63,
+    "relevance": 80
+  },
+  "sentiment": "neutral"
+}

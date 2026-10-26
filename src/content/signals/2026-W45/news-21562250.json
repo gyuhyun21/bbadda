@@ -1,0 +1,31 @@
+{
+  "id": "news-21562250",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "헤럴드경제",
+  "url": "https://biz.heraldcorp.com/article/10915411",
+  "title": "카스트로 공수 날았다…KIA, 삼성 꺾고 PO 기선 제압",
+  "published_at": "2026-10-26T13:00:18.000Z",
+  "collected_at": "2026-10-26T21:38:32.484Z",
+  "summary_ko": "KIA가 삼성을 꺾고 플레이오프 1차전을 가져갔다. 카스트로가 공격과 수비 모두에서 눈에 띄었다는 보도다.",
+  "metrics": {},
+  "scores": {
+    "hot": 73,
+    "relevance": 80
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "KBS 뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1RX3ZnQ1pXWXh4MzZhREI5b3VnV1J4ZWd1VS1BalJWVTVXNkhXbHozX0cydFZ6QWVWcXpHdTJ5M2dWeVZHVkxacHVEX1dkTldfM3ktTFZIbWoyQlk?oc=5"
+    }
+  ],
+  "brief_ko": "PO 1차전, KIA가 선승",
+  "hook_ko": "KS행 77.1% 쥔 팀은 KIA"
+}

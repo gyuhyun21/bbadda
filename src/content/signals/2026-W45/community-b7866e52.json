@@ -1,0 +1,23 @@
+{
+  "id": "community-b7866e52",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 mopy_studio님의 블로그",
+  "url": "https://blog.naver.com/mopy_studio/224454195205",
+  "title": "“메이저 진출 확정?” 추신수 17세 아들, 타구속도 166km에 미국 최고 등급까지 받은 이유",
+  "published_at": "2026-10-26T15:55:00.000+09:00",
+  "collected_at": "2026-10-26T21:38:32.484Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

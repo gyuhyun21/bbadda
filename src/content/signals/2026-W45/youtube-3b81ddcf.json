@@ -1,0 +1,28 @@
+{
+  "id": "youtube-3b81ddcf",
+  "issue": "2026-W45",
+  "module": "league",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "team": "kia",
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=EXN3oMTOps4",
+  "title": "(9회 말 노컷) 플레이오프 1차전 승리를 가져가는 KIA타이거즈! | PO1_KIA vs 삼성 | 10.26 | 크보모먼트 | KBO 야구 하이라이트",
+  "published_at": "2026-10-26T13:39:28Z",
+  "collected_at": "2026-10-26T21:38:32.484Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 42304,
+    "likes": 600,
+    "comments": 63
+  },
+  "scores": {
+    "hot": 64,
+    "relevance": 80
+  },
+  "sentiment": "positive"
+}

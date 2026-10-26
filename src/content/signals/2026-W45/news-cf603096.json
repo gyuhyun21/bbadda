@@ -1,0 +1,37 @@
+{
+  "id": "news-cf603096",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "m.mksports.co.kr",
+  "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Hemx2N1Z6VEI4V1dHcTJHS1BBSDNBZ0M3N01mN2xQWGZ1ZXY4SVhOX3hoZ3JVQzJWYUxSb1BqQnhuZHVKazZNc25yVjExUUlWQ0QwNmRvX3F5bUE?oc=5",
+  "title": "77.1% 확률 잡았다!…‘김도영 2안타 3출루 2득점+카스트로·한준수 쾅쾅!’ KIA, 삼성 꺾고 PO 기선제압 [PO1]",
+  "published_at": "2026-10-26T12:41:56.000Z",
+  "collected_at": "2026-10-26T21:38:32.484Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 97,
+    "relevance": 80
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFAtME1jNFpXYXFJc0xnQWZNUGxISm5TbFN0R3pSREd0SEZzWXZFZGNrcGhEbkszczdqQWhkZ1dXRFhZblpHLWc?oc=5"
+    },
+    {
+      "source_name": "뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1nQ2pydXlCWWNNbXF4REFGNTV6MmQzNHByUWlGOTljRlBFbFd3bGN3RU9TVHNkdHU0S0hRZjhFeHQ1eTNickw0cWR1ZENvbll0bUZmME15SzdsUlpSM24waGZ3d29rSWJfYWE3LVhQQmIyY3BBLVpMbtIBeEFVX3lxTE1nQ2pydXlCWWNNbXF4REFGNTV6MmQzNHByUWlGOTljRlBFbFd3bGN3RU9TVHNkdHU0S0hRZjhFeHQ1eTNickw0cWR1ZENvbll0bUZmME15SzdsUlpSM24waGZ3d29rSWJfYWE3LVhQQmIyY3BBLVpMbg?oc=5"
+    },
+    {
+      "source_name": "연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBtYTZlcEMwME53VFhvYXJEeDF2WFRwR3FSZ2J3ZnVWNnJRTDhnUGZDS3NOTzhZdkRUYk1FaXdQSEt2c3Q1eTVFS2F0akZZdmo5dXY3ZkVwd3BSbXBydWdSb9IBYEFVX3lxTFBtYTZlcEMwME53VFhvYXJEeDF2WFRwR3FSZ2J3ZnVWNnJRTDhnUGZDS3NOTzhZdkRUYk1FaXdQSEt2c3Q1eTVFS2F0akZZdmo5dXY3ZkVwd3BSbXBydWdSbw?oc=5"
+    }
+  ]
+}

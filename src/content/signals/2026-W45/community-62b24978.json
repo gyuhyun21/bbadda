@@ -1,0 +1,30 @@
+{
+  "id": "community-62b24978",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc",
+    "lotte"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 상상이네 일상의 블로그",
+  "url": "https://blog.naver.com/east10004/224454759305",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/4tioPW2kwFm",
+  "title": "[단독] 손아섭 NC 복귀 임박, 롯데 아닌 창원 선택한 진짜 이유",
+  "published_at": "2026-10-27T00:15:00.000+09:00",
+  "collected_at": "2026-10-26T21:38:32.484Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "더게이트",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBuMW9QZUhiTnVHbTJiSGkyajdNNVFtNjZ6czFVSm1VOVJsaFk4VEN1em42bVgwMlB1MGFrTmJuWFRzbXVMa3B4N1Rhc1RDMDVFMllpRnBUWi1ab1RVeUViT0xxUlZsb3RM0gFsQVVfeXFMT0xMNUV1NEx5RGRRSk9fMDNtTm9TTlo2d1RZaXdiZHl2cjBGRTY4RlpTR3Z2MVBjMnBTR3RfZ3BsOHluYy0zeV9pZlhjRXE0SjViQW5aT2huLVZxLVZ5RXV1eExtSVY0OTdMTmpF?oc=5"
+    }
+  ]
+}

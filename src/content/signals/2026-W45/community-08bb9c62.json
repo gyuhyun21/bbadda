@@ -1,0 +1,24 @@
+{
+  "id": "community-08bb9c62",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 The Alchemist",
+  "url": "https://blog.naver.com/garnett3123/224454686547",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/4JNFvbyExa5",
+  "title": "“이제 조상우 빼야 하나?” 이름값 믿고 올렸다가…불펜 운용에 쏟아지는 의문",
+  "published_at": "2026-10-26T23:16:00.000+09:00",
+  "collected_at": "2026-10-26T21:38:32.484Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "community-5e99fd11",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 매일 파헤치는 오늘의 연예이슈 ⭐",
+  "url": "https://blog.naver.com/jiankong0503/224454536161",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/5wNHFwRyCNj",
+  "title": "\"야구장 응원석에서만 입던 유니폼\" 이제는 일상복이 된 블록코어, 2030 여성 팬들의 소비까지 바꾸다",
+  "published_at": "2026-10-26T20:18:00.000+09:00",
+  "collected_at": "2026-10-26T21:38:32.484Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

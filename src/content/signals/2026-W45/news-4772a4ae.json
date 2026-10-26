@@ -1,0 +1,29 @@
+{
+  "id": "news-4772a4ae",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "연합뉴스",
+  "url": "https://www.yna.co.kr/amp/view/AKR20261026167900007",
+  "title": "믿었던 삼성 페덱, PO 1차전 '와르르'…4⅔이닝 5실점 강판",
+  "published_at": "2026-10-26T11:06:41.000Z",
+  "collected_at": "2026-10-26T21:38:32.484Z",
+  "summary_ko": "삼성 선발 페덱이 PO 1차전에서 4⅔이닝 5실점으로 강판됐다. KIA 타선을 막지 못했다는 보도다.",
+  "metrics": {},
+  "scores": {
+    "hot": 96,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "https://spt.co.kr/",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ZLWVYTTRZa0tmaF9nRnZoaVNCdWJHTUNndzYtUnItaVhBclRXSUxEdHFhNFczM3NBX1FGQVM1dGREQ01CY1RuYWhQemlFQ05vWmlPaGpUSUdTcW1z?oc=5"
+    }
+  ],
+  "brief_ko": "페덱, 4⅔이닝 5실점"
+}
