@@ -2,7 +2,7 @@
 # 릴스 게시 실행(ig-reel.yml 이 부름): reel-run.sh <폴더 이름|빈칸> <fallback: true|false>
 # 1) media/insta/<폴더>(입력 또는 media/insta/reel-queue.json 의 오늘 항목)를 게시. reel.mp4 가 있으면 그대로, 없고 reel.json 만 있으면 조립해서 insta-media 에 올리고 jsDelivr 주소로 게시
 #    (재료는 사이트 배포에 실리지 않게 public 밖 media/ 에 둔다 — 2026-10-24 Vercel 배포 용량 급증)
-# 2) 그게 실패했거나, fallback 실행(13:30 KST)인데 오늘 릴스가 아직 없으면: 오늘 자동 카드 세트(insta-media)로 릴스를 만들어 게시 — 그날 릴스를 빠뜨리지 않는다(2026-10-24 주인)
+# 2) 그게 실패했거나, fallback 실행(13:30 KST)인데 오늘 릴스가 아직 없으면: 가장 최근 자동 카드 세트(어제 밤 또는 오늘, insta-media)로 릴스를 만들어 게시 — 그날 릴스를 빠뜨리지 않는다(2026-10-24 주인)
 # 환경변수 TOKEN(출력 안 함), IG, GITHUB_REPOSITORY, GITHUB_STEP_SUMMARY
 set -euo pipefail
 POST="${1:-}"; FALLBACK="${2:-false}"
@@ -55,8 +55,10 @@ main_post() {
 cards_post() {
   if reel_today; then say "오늘 릴스 이미 있음 — 대체 릴스 안 만듦"; return 0; fi
   git fetch -q origin insta-media
-  local key; key=$(git ls-tree --name-only origin/insta-media | grep "^$D-" | while read k; do git cat-file -e "origin/insta-media:$k/1.jpg" 2>/dev/null && git cat-file -e "origin/insta-media:$k/post.json" 2>/dev/null && echo "$k"; done | tail -1)
-  [ -n "$key" ] || { say "대체 릴스 실패: 오늘 카드 세트도 없음"; return 1; }
+  # 카드 세트는 밤에만 만든다(2026-10-26~) — 낮 대체 릴스는 어제 밤 세트로
+  local Y; Y=$(TZ=Asia/Seoul date -d yesterday +%F)
+  local key; key=$(git ls-tree --name-only origin/insta-media | grep -E "^($Y|$D)-" | sort | while read k; do git cat-file -e "origin/insta-media:$k/1.jpg" 2>/dev/null && git cat-file -e "origin/insta-media:$k/post.json" 2>/dev/null && echo "$k"; done | tail -1)
+  [ -n "$key" ] || { say "대체 릴스 실패: 어제·오늘 카드 세트도 없음"; return 1; }
   prep
   local dir=/tmp/cards; rm -rf "$dir"; mkdir -p "$dir"
   local n=0; for i in 1 2 3 4 5 6; do git show "origin/insta-media:$key/$i.jpg" > "$dir/$i.jpg" 2>/dev/null && n=$i || { rm -f "$dir/$i.jpg"; break; }; done
@@ -66,10 +68,13 @@ cards_post() {
   say "대체 릴스(카드 $key, ${n}장): $(bash scripts/insta/reel.sh "$(upload /tmp/reel.mp4 "$D-cards")" /tmp/cap.txt)"
 }
 
-if [ -z "$POST" ]; then POST=$(jq -r --arg d "$D" '.[$d] // empty' media/insta/reel-queue.json 2>/dev/null || true); fi
-if [ -n "$POST" ]; then
-  if main_post; then exit 0; fi
-  say "경고: $POST 게시 실패 → 카드 세트로 대체 릴스"
+# 오늘 항목은 폴더 이름 하나 또는 배열(하루 2개 — 아침·밤, 2026-10-26~). 이미 게시한 것은 main_post 가 본문으로 알아보고 건너뛴다
+if [ -z "$POST" ]; then POSTS=$(jq -r --arg d "$D" '.[$d] // empty | if type == "array" then .[] else . end' media/insta/reel-queue.json 2>/dev/null || true); else POSTS="$POST"; fi
+if [ -n "$POSTS" ]; then
+  failed=0
+  for POST in $POSTS; do main_post || { say "경고: $POST 게시 실패"; failed=1; }; done
+  [ "$failed" = 0 ] && exit 0
+  say "→ 카드 세트로 대체 릴스(오늘 릴스가 하나도 없을 때만)"
   cards_post; exit $?
 fi
 if [ "$FALLBACK" = true ]; then cards_post; exit $?; fi
