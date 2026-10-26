@@ -9,3 +9,4 @@ dist/
 # macOS 가 exFAT 드라이브에 만드는 메타 파일
 ._*
 .vercel
+.claude/settings.local.json
