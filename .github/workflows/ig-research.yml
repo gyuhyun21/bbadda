@@ -31,7 +31,8 @@ jobs:
           for u in "${arr[@]}"; do
             u=$(echo "$u" | tr -d ' '); [[ "$u" =~ ^[A-Za-z0-9._]+$ ]] || continue
             f="business_discovery.username($u){username,name,biography,followers_count,media_count,media.limit($LIMIT){caption,media_type,media_product_type,like_count,comments_count,view_count,timestamp,permalink}}"
-            r=$(curl -sS -G -H "Authorization: Bearer $TOKEN" "https://graph.facebook.com/v21.0/$IG" --data-urlencode "fields=$f")
+            # 2026-10-26: HTTP/2 연결 끊김(curl 92) 한 번에 전체가 멈춤 → 재시도, 그래도 실패면 그 계정만 오류로 남김
+            r=$(curl -sS -G --retry 3 --retry-all-errors --retry-delay 3 -H "Authorization: Bearer $TOKEN" "https://graph.facebook.com/v21.0/$IG" --data-urlencode "fields=$f") || r='{"error":{"message":"curl 실패"}}'
             echo "$r" | jq -c --arg u "$u" 'if .business_discovery then .business_discovery | {username, name, bio: ((.biography // "")[0:80]), followers: .followers_count, media_count, posts: [(.media.data // [])[] | {type: .media_type, product: .media_product_type, likes: .like_count, comments: .comments_count, views: .view_count, url: .permalink, ts: .timestamp, cap_len: ((.caption // "") | length), tags: ((.caption // "") | [scan("#[^\\s#]+")] | length), first: ((.caption // "") | split("\n")[0][0:40])}]} else {username: $u, error: (.error.message // "unknown")[0:120]} end' > one.json
             jq -s '.[0] + [.[1]]' out.json one.json > tmp.json && mv tmp.json out.json
             jq -r '.[-1] | "\(.username): \(.followers // .error)"' out.json

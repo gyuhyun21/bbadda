@@ -26,15 +26,15 @@ jobs:
           set -uo pipefail
           [[ "$LIMIT" =~ ^[0-9]+$ ]] || LIMIT=40
           G="https://graph.facebook.com/v21.0"; AUTH="Authorization: Bearer $TOKEN"
-          acct=$(curl -sS -G -H "$AUTH" "$G/$IG" --data-urlencode "fields=username,followers_count,media_count")
-          media=$(curl -sS -G -H "$AUTH" "$G/$IG/media" --data-urlencode "fields=id,caption,media_type,media_product_type,timestamp,permalink,like_count,comments_count" -d "limit=$LIMIT")
+          acct=$(curl -sS -G --retry 3 --retry-all-errors --retry-delay 3 -H "$AUTH" "$G/$IG" --data-urlencode "fields=username,followers_count,media_count")
+          media=$(curl -sS -G --retry 3 --retry-all-errors --retry-delay 3 -H "$AUTH" "$G/$IG/media" --data-urlencode "fields=id,caption,media_type,media_product_type,timestamp,permalink,like_count,comments_count" -d "limit=$LIMIT")
           echo "$media" | jq -e '.data' >/dev/null || { echo "게시물 조회 실패: $(echo "$media" | jq -r '.error.message // "unknown"' | cut -c1-160)" | tee -a "$GITHUB_STEP_SUMMARY"; exit 1; }
           echo '[]' > out.json
           for row in $(echo "$media" | jq -r '.data[] | @base64'); do
             m=$(echo "$row" | base64 -d)
             id=$(echo "$m" | jq -r .id); prod=$(echo "$m" | jq -r '.media_product_type // ""')
             if [ "$prod" = "REELS" ]; then met="views,reach,saved,shares,total_interactions,ig_reels_avg_watch_time,ig_reels_video_view_total_time"; else met="views,reach,saved,shares,total_interactions"; fi
-            ins=$(curl -sS -G -H "$AUTH" "$G/$id/insights" -d "metric=$met")
+            ins=$(curl -sS -G --retry 3 --retry-all-errors --retry-delay 3 -H "$AUTH" "$G/$id/insights" -d "metric=$met")
             echo "$m" | jq -c --argjson ins "$ins" '{id, ts: .timestamp, type: .media_type, product: .media_product_type, url: .permalink, likes: .like_count, comments: .comments_count,
               first: ((.caption // "") | split("\n")[0][0:40]),
               m: (if $ins.data then ($ins.data | map({(.name): (.values[0].value)}) | add) else {} end),
