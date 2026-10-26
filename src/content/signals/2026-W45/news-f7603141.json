@@ -1,0 +1,30 @@
+{
+  "id": "news-f7603141",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE91cFFSNEhFVlNVdk41ekc5cEZudXVxaFpUc25WUzhhREFYNU8zajRpX1hmZk00dC1uNnBWaDRUM1YwSDM0bzhJNVF1VGw3b1puLWZBSWVxa1lxT3ktbWpaUVRPdDFnZGtHMjdwcmhXNNIBb0FVX3lxTE91cFFSNEhFVlNVdk41ekc5cEZudXVxaFpUc25WUzhhREFYNU8zajRpX1hmZk00dC1uNnBWaDRUM1YwSDM0bzhJNVF1VGw3b1puLWZBSWVxa1lxT3ktbWpaUVRPdDFnZGtHMjdwcmhXNA?oc=5",
+  "title": "‘우취 때문에 연차 날렸다’ 비 오면 모든 팬들 난리나는 가을야구, 교통·숙박 대란 반복…MLB는 다르다",
+  "published_at": "2026-10-26T00:40:00.000Z",
+  "collected_at": "2026-10-26T07:38:33.759Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 90,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5zOUt5Z09VM1hGdkJ6UEZJanFMSFRBV0xxM3cwYThoMWMxMGFaN2RoYU44ZEpfWU9sOWtwLVRGdmg1dWVVUzlXOUZHaGpsRGpKbkJaVg?oc=5"
+    }
+  ]
+}

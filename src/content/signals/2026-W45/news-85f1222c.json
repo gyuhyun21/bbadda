@@ -1,0 +1,23 @@
+{
+  "id": "news-85f1222c",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠경향",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1EektSZjdJM09HYTJxRlNLc1NHS1I1TUhJSmppNDNmanBZWWtZajdYdDRaWFhJczVZRGJjbGFhVkswQTctdW1FdFJiekVhRUliSkFuTWtNajV5clIzY0NqVFFQd9IBY0FVX3lxTE1EektSZjdJM09HYTJxRlNLc1NHS1I1TUhJSmppNDNmanBZWWtZajdYdDRaWFhJczVZRGJjbGFhVkswQTctdW1FdFJiekVhRUliSkFuTWtNajV5clIzY0NqVFFQdw?oc=5",
+  "title": "‘드레스코드’ 한 마디로 시작된 PO 응원 전쟁…김도영은 대만족 “팬들도 같이 경기해요”",
+  "published_at": "2026-10-26T03:48:00.000Z",
+  "collected_at": "2026-10-26T07:38:33.759Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

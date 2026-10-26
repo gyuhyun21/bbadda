@@ -1,0 +1,26 @@
+{
+  "id": "youtube-a8607eb1",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "데보야",
+  "url": "https://www.youtube.com/watch?v=3Wj1RszbhLY",
+  "title": "마흔둘 최형우, 2년 26억의 결과 #최형우 #삼성라이온즈",
+  "published_at": "2026-10-26T03:50:28Z",
+  "collected_at": "2026-10-26T07:38:33.759Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1060,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 35,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

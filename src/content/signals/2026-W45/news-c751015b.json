@@ -1,0 +1,29 @@
+{
+  "id": "news-c751015b",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5pT01KWlNqVFdscFdlWGZsd0JZcGpCZzdHb3FOWUNBTi1Kd0pmYjkzSXMyMy1NWEJCaklQelh0ZWJMNVJLMG9uNFo1dWRKRlM4Wkh6QUNlbkU4OUNGOXY0WGI2UlJnRk1TYnNRTk5jb9IBb0FVX3lxTE5pT01KWlNqVFdscFdlWGZsd0JZcGpCZzdHb3FOWUNBTi1Kd0pmYjkzSXMyMy1NWEJCaklQelh0ZWJMNVJLMG9uNFo1dWRKRlM4Wkh6QUNlbkU4OUNGOXY0WGI2UlJnRk1TYnNRTk5jbw?oc=5",
+  "title": "“유일한 약점마저 지웠다” 2734안타 437홈런 레전드도 감탄…김도영에게 벽이 느껴진다, ‘완벽’ [PO1]",
+  "published_at": "2026-10-25T22:40:00.000Z",
+  "collected_at": "2026-10-26T07:38:33.759Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 73,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "미주중앙일보",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE93Z19KNW9Nd1hVbnVMZWhDWlJCQmM1WnVYVmhtZ2ZRWGxQMUVPekthLXBnVFZSUDBGNWxrWElMNnRzY0kzRjdkSnh0YmNfUkRmYmpfZzEzYzh3YTdNc1BFY0Jn?oc=5"
+    }
+  ]
+}

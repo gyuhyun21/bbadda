@@ -1,0 +1,23 @@
+{
+  "id": "news-c36e8cc2",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "대구MBC",
+  "url": "https://dgmbc.com/NewsArticle/869405",
+  "title": "'1선발 대결' PO 1차전···삼성라이온즈 가장 믿는 페덱 vs 가장 어려운 네일",
+  "published_at": "2026-10-26T02:07:56.000Z",
+  "collected_at": "2026-10-26T07:38:33.759Z",
+  "summary_ko": "대구MBC는 PO 1차전을 삼성이 가장 믿는 페덱과 KIA의 네일이 맞붙는 1선발 대결로 소개했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "PO1, 페덱 대 네일 1선발전"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "news-0d82497d",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5nMVZwSDJzVzZhaVYwY2dBa1dBcGo5SFBwQVFPaS1VeDRHckQyM1l5dWxzU212ZHZGZ2ZMV3VSMWdWQzBCZEFZX2YyX1gybEdFUHE3UFR0ZExzY2RqNzFmQ3FCWWFvckF1cXfSAW9BVV95cUxOZFg5b21HQkVUTXdTZHRBa1hIZVZnbkxZY19KaEpYRnlFSEd3ODNUY2Y2Y3dpcmVRaWo4aFFqcUxLeE42ejU4VGU1aF83Q25SYlNDeWhKejNuVjdaUExIM3RJeGpwWXJNcFE5bGVjV2c?oc=5",
+  "title": "[사진]라팍, 가을야구 시작",
+  "published_at": "2026-10-26T05:36:00.000Z",
+  "collected_at": "2026-10-26T07:38:33.759Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 99,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNUVKSjZ0TUNOTmlEVFdfODVYQ0hUSXRoeGx5aWF0UnhqZUJsaFp4T1JuMzVLY3k0NDFSQkRtNHhhS19lNTVNWi1sc19jcjM1ZHNPbllOaFZBNi1haElDUjdZZFRiTlNaVk9oMGpQYXY1dTRmUHFMMGhqTTlaek5sU3RtN0xyNEZQ?oc=5"
+    },
+    {
+      "source_name": "OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1LYlFtQl9tVXlxNWY1SHI1ZTJJNERmSFJxY3NKVTN6OERvVU0xcThncE14UFVxcEdfdXRIRHRKdWZxSXVUTHMwNF9Penl5b2l4MWVF?oc=5"
+    }
+  ]
+}

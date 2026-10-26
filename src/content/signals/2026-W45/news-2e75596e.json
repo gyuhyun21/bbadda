@@ -1,0 +1,22 @@
+{
+  "id": "news-2e75596e",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "OSEN",
+  "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ScFoyazQ2aDZYSDAwaWN0UjhVRHlzSXN2S1NvenNPYW84NE43Ul8tSzl4LWZpejBWa0h5cm94b3dMNGpzNUJtVjliM3k1QTRoalNN?oc=5",
+  "title": "[사진]이재현,'KIA전 승리한다'",
+  "published_at": "2026-10-26T05:53:00.000Z",
+  "collected_at": "2026-10-26T07:38:33.759Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

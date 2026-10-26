@@ -1,0 +1,23 @@
+{
+  "id": "news-3a2d15bb",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "조선일보",
+  "url": "https://www.chosun.com/sports/baseball/2026/10/26/GM3TEYZXGAYTONBQMRTDSMBVGA/",
+  "title": "너무 궁금하다...롯데와 아무 접점도 없었는데, 갑자기 왜 이택근 단장인가",
+  "published_at": "2026-10-26T05:17:00.000Z",
+  "collected_at": "2026-10-26T07:38:33.759Z",
+  "summary_ko": "조선일보는 롯데와 접점이 없던 이택근이 단장으로 온 배경에 의문을 제기했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "이택근 단장 선임 배경은?"
+}

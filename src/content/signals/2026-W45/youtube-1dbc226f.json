@@ -1,0 +1,26 @@
+{
+  "id": "youtube-1dbc226f",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "닌자티비",
+  "url": "https://www.youtube.com/watch?v=Z8ERR2Kn8DU",
+  "title": "#스포츠중계 #shorts #프로야구 #kbo #기아타이거즈 #시라카와 #야구쇼츠 #프로야구쇼츠 일본서 지명 불발됐는데 KIA는 대박 시라카와의 반전",
+  "published_at": "2026-10-26T03:02:36Z",
+  "collected_at": "2026-10-26T07:38:33.759Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1365,
+    "likes": 15,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 45,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

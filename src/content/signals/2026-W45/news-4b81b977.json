@@ -1,0 +1,24 @@
+{
+  "id": "news-4b81b977",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "lg",
+  "teams": [
+    "lg",
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "마이데일리",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE92Y0hudDE3OW9RWlI5Z3JWbTBBMWVPR1BMTWwxaEt3T25ES2xfRVJNbWhWMjNqc1hKdlBJbXZScktkUWhqSkRYbzhxWTVMRWVaUzJpQzZ0RXlfRFRNYzU1Yw?oc=5",
+  "title": "“두 살 늙었어…몸쪽 잘 쓰라고 계속 뭐라고 했어” 김태군이 본 2024 KS 1차전 히어로 전상현과 2026 크레이지모드 전상현[MD대구]",
+  "published_at": "2026-10-26T04:00:00.000Z",
+  "collected_at": "2026-10-26T07:38:33.759Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

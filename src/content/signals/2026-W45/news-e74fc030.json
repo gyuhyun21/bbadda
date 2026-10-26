@@ -1,0 +1,28 @@
+{
+  "id": "news-e74fc030",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "news",
+  "source_name": "이데일리",
+  "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRGoyaTdVUEV4Z0p3UzZtT2I4YVk1QVE5TEk4T1FLMmx4SHNEb29ESmlMUmVJZ3RkYW5pRG1kMTlQY29DSHlmOTBzMWI3Q0hxbk9FMGllbjdLMmJnbWhCRmFndHZIdnJ3UUZ3V1h1UnBJTFA2eWxYTTQwbUUyMm0yaw?oc=5",
+  "title": "“내년에 증명하겠다”…한화이글스 신인 14명, 프로 무대 첫인사",
+  "published_at": "2026-10-26T01:58:13.000Z",
+  "collected_at": "2026-10-26T07:38:33.759Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "www.cctoday.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5IQUhKWU5tU3JDbjJ0MFBjQ2tielhDaHpQM3Fqcko4WGRXazFRang3VmMzRV9NSDhGbUFHMXFhbnUteTJ3NGtHQkttZXlCOE9RYmJMeVhNbDBTcjRtdnotZDBxVmxWTjJyMDB5MGdB?oc=5"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-ed078e2d",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "일간스포츠",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5TV19wNTVvWVQ1QXdxRGR6UlI1TVFNanhIM0MyQ3FKODdKajVZUkMyZS1aOTNvV2RuNE9KZWZqbmpVaHRZMmhlMFhlMEpscmVxajV2RW0xSGYwMUtJUExXcHF3eEJRUHc3?oc=5",
+  "title": "[IS 이슈] 구단보다 태극마크가 대세? 야구 대표팀에서만 '감독 3명' 나왔다",
+  "published_at": "2026-10-26T02:55:00.000Z",
+  "collected_at": "2026-10-26T07:38:33.759Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 82,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

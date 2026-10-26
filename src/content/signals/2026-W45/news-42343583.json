@@ -1,0 +1,23 @@
+{
+  "id": "news-42343583",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "KBC광주방송",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE95YmhuUVROdU1lcVNrX2dZVFZtRjVzMTNoN0w5SlM1bVRoOWFPRi1YZmNGdlZzY2pWZDdpZ2JuaktoOTh0ckR5dXkxRldObkZmUmp2U3V3VHRLVUwzWHAyNw?oc=5",
+  "title": "하루 늦은 PO 1차전, '붉은색 vs 하늘색' 응원전 시작된다",
+  "published_at": "2026-10-26T07:02:15.000Z",
+  "collected_at": "2026-10-26T07:38:33.759Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "news-f5b4f867",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "lg",
+  "teams": [
+    "lg",
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스타뉴스",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5DMU1pZWxPYUpTb25mYWU0QzQ3bHJzbXBtUDNkN3hCbFYzVWlVdktGYXVHbTIxM3IyU05hQ09fbkR6LVVqQVNaOU5aa3IwQ1RwaEVqcG1pRVo1d0tzTXNfT21WamZYRkgxbng5ZlV2RXFvWUVNWVE?oc=5",
+  "title": "구자욱, 부상 털어내고 돌아온다! \"트레이닝 파트가 만든 기적→이기는 것만 생각하겠다\"",
+  "published_at": "2026-10-26T07:15:00.000Z",
+  "collected_at": "2026-10-26T07:38:33.759Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "news-6fe7c826",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBmUGRCYm03VVZMemRjUDhNWWptNy1GbHV6TExKTE11QzlpOURMVm5DRi00Sng4TG85bkRrMXlrMEM2MHRJRWxwbHltQ1JyTFZYcnRLcmF4bl9HMkJQd1NVSzNtSGQ2MmFPRXfSAW9BVV95cUxOQUJZQWlEM0w1U0JmUzh1MDRiVlgwejRQbEJETkJNZlNySzVvNjFHTXlpYkJTdVZ6cFQ4Vk5aNFBkc01rd2k2cXV5VFBGT05CSGZIQ2I3ZkJsN2ZTZ3daNm1hVmJKTDdJYzJJejdDUHc?oc=5",
+  "title": "훈련 구자욱,’몸상태 이상무’ [O! SPORTS 숏폼]",
+  "published_at": "2026-10-26T06:54:00.000Z",
+  "collected_at": "2026-10-26T07:38:33.759Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 92,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "미주중앙일보",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5EUFFCNkpYZHpPQjV3TV9qcWpWLVdUUGhwcHc5WTNpUm93akxubVNJTncyeHpKX2tBanBySWlxeUw0UjFYQUlJd2hiNlVKcTZ0VGh4eUs1YjdsMTVyODlBbHF3?oc=5"
+    }
+  ]
+}

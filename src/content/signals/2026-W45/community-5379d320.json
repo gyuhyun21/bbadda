@@ -1,0 +1,30 @@
+{
+  "id": "community-5379d320",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 FULL COUNT",
+  "url": "https://blog.naver.com/fullcount9/224454171635",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/ARxKdJ9kxvA",
+  "title": "KIA 타이거즈 삼성 라이온즈, 하루 미뤄진 PO 1차전…페덱·네일에 승부 달렸다",
+  "published_at": "2026-10-26T14:48:00.000+09:00",
+  "collected_at": "2026-10-26T07:38:33.759Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 83,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "KBC광주방송",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE83bDVTTGk5b0FDWHMtUUtGcFRhYUNhVXBLSXFVbFZDVDUzY242Q1dTY04yNEdGWTg5WVlGRkwtczI3RlNOY2VaejNHTnR2bUMxcUlQWE9WczZoam9fUWFmNA?oc=5"
+    }
+  ]
+}

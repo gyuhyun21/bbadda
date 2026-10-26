@@ -1,0 +1,23 @@
+{
+  "id": "news-1226a4d2",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "충청타임즈",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBuUmZrUVBhN0VzN1JJeEg0V3ZEaWo2MDZkeU04X3cybk55Zzcwb08wZUh1SGMycTBHODRLYUZXS2poYlQ5UnBhRHhzelRLeTVxOXhGU1RvVmh0QlM5OUtKUzdMUlB0VjV0?oc=5",
+  "title": "증평 송진우배 유소년 야구대회 성료",
+  "published_at": "2026-10-26T04:08:00.000Z",
+  "collected_at": "2026-10-26T07:38:33.759Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

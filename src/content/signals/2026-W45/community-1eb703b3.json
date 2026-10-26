@@ -1,0 +1,23 @@
+{
+  "id": "community-1eb703b3",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 꿀팁 저장소",
+  "url": "https://blog.naver.com/alsdk7232/224454254037",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/HmoDTzjgeeF",
+  "title": "기아타이거즈 플레이오프 일정 변경, 우천 취소 시 티켓 환불은?",
+  "published_at": "2026-10-26T15:49:00.000+09:00",
+  "collected_at": "2026-10-26T07:38:33.759Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "youtube-353ffed1",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "youtube",
+  "source_name": "그깟공놀이가뭐라고",
+  "url": "https://www.youtube.com/watch?v=3Fy249Gfjec",
+  "title": "안재석, 정말 3루수가 맞을까? #두산베어스 #kbo #야구 #안재석 #박찬호",
+  "published_at": "2026-10-26T05:11:33Z",
+  "collected_at": "2026-10-26T07:38:33.759Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 874,
+    "likes": 8,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 41,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

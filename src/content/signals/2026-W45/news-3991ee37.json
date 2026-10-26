@@ -1,0 +1,23 @@
+{
+  "id": "news-3991ee37",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "이투데이",
+  "url": "https://www.etoday.co.kr/news/view/2640159?trc=main_list_news",
+  "title": "'불꽃야구' 신경헌, LG 유니폼 입는다",
+  "published_at": "2026-10-26T06:27:00.000Z",
+  "collected_at": "2026-10-26T07:38:33.759Z",
+  "summary_ko": "이투데이는 '불꽃야구' 출신 신경헌이 LG 유니폼을 입는다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "신경헌, LG 유니폼 입는다"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-86506691",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "무등일보",
+  "url": "https://m.mdilbo.com/detail/759989",
+  "title": "KIA ´8회 매직´, 포스트시즌에서도 통할까",
+  "published_at": "2026-10-26T06:01:00.000Z",
+  "collected_at": "2026-10-26T07:38:33.759Z",
+  "summary_ko": "무등일보는 KIA의 '8회 매직'이 포스트시즌에서도 통할지 짚었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 91,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "KIA '8회 매직', 가을에도?"
+}

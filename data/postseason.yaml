@@ -94,6 +94,8 @@ rounds:
         venue: 대구
         starters: { kia: 네일, samsung: 페덱 } # 예고 선발
         starter_notes: { kia: "삼성전 승률 100%" }
+        ig:
+          pre: { hook: "하루 밀린 PO\n오늘 막 오른다", sub: "1차전 이긴 팀 KS 진출 확률 77.1%" }
         facts:
           - "PO 1차전 승리 팀 KS 진출 확률 77.1%"
         sources:

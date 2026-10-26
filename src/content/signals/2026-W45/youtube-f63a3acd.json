@@ -1,0 +1,27 @@
+{
+  "id": "youtube-f63a3acd",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "신시아 타이거즈",
+  "url": "https://www.youtube.com/watch?v=ygdku6LAbUo",
+  "title": "정신 똑바로 안 차릴 거여 방구석 군기반장 감독빙의 #기아타이거즈 #야구 #삼성라이온즈",
+  "published_at": "2026-10-26T07:00:26Z",
+  "collected_at": "2026-10-26T07:38:33.759Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 619,
+    "likes": 38,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 72,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

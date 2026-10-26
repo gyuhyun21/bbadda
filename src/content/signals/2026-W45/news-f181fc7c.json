@@ -1,0 +1,24 @@
+{
+  "id": "news-f181fc7c",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "lg",
+  "teams": [
+    "lg",
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE84Smp4NFBrTXBsOTRrX2NWY3ZYTmtFLWoxVVRXQ2lGdzNja3F5SUNtTjUxYzFiVnlfR1VuNXk1MjVvNy1fWG9FSzZYaDJFc0tNTGxmb0NhOUdaVVpNRk5leklpbTI2WGN2UFkyNVFUUDV6YUxEY3ZReVB1U3gwUQ?oc=5",
+  "title": "커리어 마지막 타석에서 홈런! '인생역전' 아이콘의 영화 같은 작별인사 \"13년 원클럽맨으로 떠나고 싶었다\" [인터뷰]",
+  "published_at": "2026-10-26T03:30:04.000Z",
+  "collected_at": "2026-10-26T07:38:33.759Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

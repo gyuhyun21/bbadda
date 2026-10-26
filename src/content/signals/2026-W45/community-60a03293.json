@@ -1,0 +1,25 @@
+{
+  "id": "community-60a03293",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia",
+    "kt"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 다조아",
+  "url": "https://blog.naver.com/dajoa8899/224453970991",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/BfZJ35wpuL1",
+  "title": "“태풍에 하루 밀린 삼성·KIA 플레이오프 1차전!” 누가 진짜 태풍이 되어 \"KT 위즈\"와 맞붙을까?",
+  "published_at": "2026-10-26T12:33:00.000+09:00",
+  "collected_at": "2026-10-26T07:38:33.759Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

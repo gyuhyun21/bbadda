@@ -1,0 +1,23 @@
+{
+  "id": "community-cebe77a6",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 이도의 작은집",
+  "url": "https://blog.naver.com/sozon/224453593744",
+  "title": "“KBO 역대 최다 19연패 투수였는데”…20년 끝까지 버틴 마지막 현대 유니콘스 선수의 은퇴",
+  "published_at": "2026-10-26T02:21:00.000+09:00",
+  "collected_at": "2026-10-26T07:38:33.759Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

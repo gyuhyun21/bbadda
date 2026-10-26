@@ -1,0 +1,28 @@
+{
+  "id": "community-67e9df89",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "community",
+  "source_name": "다음카페 I Love NBA",
+  "url": "https://cafe.daum.net/ilovenba/2ljt/118321",
+  "title": "롯데 새 감독 이동욱, 새 단장 이택근",
+  "published_at": "2026-10-26T10:48:50.000+09:00",
+  "collected_at": "2026-10-26T07:38:33.759Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "www.maniareport.com",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBKd2sweGYtbUdDbFp0VkZ5VVZfd21uVndaRzBEMU5UU1A5SzdXQWZldjBhVVNWMmtVOHI5SjRWTnJMV3dnWFltcTdKYVB1Z0pFZjZkNUQ1bjA0NWQwbk9FWFRaTFVwZEYzb1JDRVlETW54cE5kYmtMRG1Saw?oc=5"
+    }
+  ]
+}

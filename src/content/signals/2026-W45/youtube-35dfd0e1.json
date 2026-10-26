@@ -1,0 +1,26 @@
+{
+  "id": "youtube-35dfd0e1",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "source_name": "야구짤츠",
+  "url": "https://www.youtube.com/watch?v=cdW3_u7M_kM",
+  "title": "한화 떠나며 손혁 단장이 남긴 말 최강 한화 응원이 창피했던 이유..",
+  "published_at": "2026-10-26T06:07:41Z",
+  "collected_at": "2026-10-26T07:38:33.759Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 4950,
+    "likes": 114,
+    "comments": 18
+  },
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

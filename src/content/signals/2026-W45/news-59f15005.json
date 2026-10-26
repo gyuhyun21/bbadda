@@ -1,0 +1,25 @@
+{
+  "id": "news-59f15005",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "lotte",
+  "teams": [
+    "lotte",
+    "kia",
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "조선일보",
+  "url": "https://www.chosun.com/sports/baseball/2026/10/26/MRTDSY3BG42DQOJUG5TGKOLBMM/",
+  "title": "불문율 지키려고 했지만.. 롯데, 얼마나 미안했으면 → KIA-삼성-KBO 양해 전화 싹 돌렸다",
+  "published_at": "2026-10-26T05:32:00.000Z",
+  "collected_at": "2026-10-26T07:38:33.759Z",
+  "summary_ko": "조선일보에 따르면 롯데가 감독·단장 발표가 PO 일정과 겹치자 KIA·삼성·KBO에 양해 전화를 돌렸다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "롯데, PO 앞서 양해 전화"
+}

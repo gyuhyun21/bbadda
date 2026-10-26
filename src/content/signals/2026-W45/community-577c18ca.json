@@ -1,0 +1,24 @@
+{
+  "id": "community-577c18ca",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 센스쟁이 프로그래머, 비트센스",
+  "url": "https://picory.com/3703",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/Cl820zrDEBa",
+  "title": "드라마 결방시킨 KBO 포스트시즌, 암표값 14만원까지 치솟은 이유",
+  "published_at": "2026-10-26T10:40:13.000+09:00",
+  "collected_at": "2026-10-26T07:38:33.759Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-0ab6b22e",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "더게이트",
+  "url": "http://www.spochoo.com/news/articleView.html?idxno=131437",
+  "title": "마지막까지 사과나무 심고 떠나는, 롯데밖에 몰랐던 사나이…박준혁 단장의 두 번째 작별",
+  "published_at": "2026-10-26T03:57:06.000Z",
+  "collected_at": "2026-10-26T07:38:33.759Z",
+  "summary_ko": "더게이트는 롯데에서 오래 일한 박준혁 단장이 두 번째로 구단을 떠나는 소회를 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "negative",
+  "brief_ko": "박준혁 단장의 두 번째 작별"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "news-e8c3e03c",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE44eWgtNkxvOVk3dG51U3JMU2Iybm03bUtqR28wOHkxSlV5SnFmTVZ1Vm15d1hVS1R6V2hDeWgxQlhOc0xSeS01cF9tbmQtLVhDV0N6bUFYNWFoSnpKNlZSUmRvdWVwaURLdW91S2FrNNIBb0FVX3lxTE44eWgtNkxvOVk3dG51U3JMU2Iybm03bUtqR28wOHkxSlV5SnFmTVZ1Vm15d1hVS1R6V2hDeWgxQlhOc0xSeS01cF9tbmQtLVhDV0N6bUFYNWFoSnpKNlZSUmRvdWVwaURLdW91S2FrNA?oc=5",
+  "title": "당당히 PS 엔트리에 입성한 삼성 1년차 신인의 포부 \"첫 가을야구 설렌다, 하지만 팀에 너무 감사\"",
+  "published_at": "2026-10-26T00:01:00.000Z",
+  "collected_at": "2026-10-26T07:38:33.759Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 97,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA5YXpqWkRZRzRfU29sV2RsQTJUVnFxN3FuWmc0clk3TkhLa1BwQXh1SWhiWWJNVDVPaXVnbElfaWRSdEZleFJUV2oyRjhqWlJzOGtHNWVJcEU4aThkS2gxU0p6ZTVwTDZlNFZWY25IaVRVaVlEaWc?oc=5"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "community-75509e00",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 블로갓의 스포츠월드",
+  "url": "https://blog.naver.com/blog-god/224454016704",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/8QYnvlRMUh8",
+  "title": "“야구장 지붕이 위험하다?” 고척돔·잠실·SSG랜더스필드 안전 결함 적발, 2027시즌 괜찮을까",
+  "published_at": "2026-10-26T12:41:00.000+09:00",
+  "collected_at": "2026-10-26T07:38:33.759Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

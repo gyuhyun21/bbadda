@@ -1,0 +1,24 @@
+{
+  "id": "community-754bdafe",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "엠엘비파크",
+  "url": "https://mlbpark.donga.com/mp/b.php?id=202610240119628357&p=211&b=kbotown&m=view&site=donga.com&pos=reply",
+  "title": "김태형 단일 감독, 특정 팀 7-7-7 KBO 최초 맞나요?",
+  "published_at": "2026-10-23T15:00:00.000Z",
+  "collected_at": "2026-10-26T07:38:33.759Z",
+  "summary_ko": "",
+  "excerpt": "... ... KIA · 두산 · 키움 · KBO · 스토브리그/FA · 오피셜 · 핫딜.…",
+  "metrics": {},
+  "scores": {
+    "hot": 45,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

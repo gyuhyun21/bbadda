@@ -1,0 +1,23 @@
+{
+  "id": "community-a8684aec",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 REUS SPORTS",
+  "url": "https://blog.naver.com/borussenreus/224453762578",
+  "title": "“박해민 65억이 기준선?” 정수빈 FA 마지막 90트리오 몸값은? 동갑이라 비교되는데요..",
+  "published_at": "2026-10-26T08:57:00.000+09:00",
+  "collected_at": "2026-10-26T07:38:33.759Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

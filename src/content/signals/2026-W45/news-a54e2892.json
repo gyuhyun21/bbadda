@@ -1,0 +1,29 @@
+{
+  "id": "news-a54e2892",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://www.sportschosun.com/baseball/2026-10-25/202610260100157240010249",
+  "title": "김지찬-김성윤-구자욱-디아즈-최형우-김영웅...좌타자들 와 숨막힌다, KIA 어떻게 막을 것인가 [PO1 현장]",
+  "published_at": "2026-10-26T00:07:07.000Z",
+  "collected_at": "2026-10-26T07:38:33.759Z",
+  "summary_ko": "스포츠조선은 삼성 타선에 김지찬·김성윤·구자욱·디아즈·김영웅 등 좌타자가 많아 KIA가 어떻게 막을지가 PO 1차전의 관건이라고 짚었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 81,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQOEh2T01rMGs3YmNnWlhXaVVvb0FXR05pb2haRkNZbHhpRWhjYTdMVmJuNGZBNjVQbmY1cjdHNTlMMnZORDVDOXBReVVreW1zS245dVpXTUxCQldHOUM1TmJoRkl6dmtuNVhKMG9vUXVjZllxdmM3cU1Ya3FOMGFHZG9rWQ?oc=5"
+    }
+  ],
+  "brief_ko": "삼성 좌타 라인, KIA의 숙제"
+}
