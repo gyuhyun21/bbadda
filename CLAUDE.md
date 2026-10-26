@@ -37,5 +37,5 @@ KBO 10개 구단 팀별 소식 매거진(bbadda.com). Astro 정적 사이트, �
 - 매일 갱신만 한다. 주간호는 없다(저장소 주인 결정, 2026-10-16). 화면은 날짜 기준(`/days/<날짜>`, 첫 화면, 팀 페이지).
 - 하루 3번, 1년 내내(저장소 주인 결정, 2026-10-19): 아침 06:37 · 경기 전 평일 16:37/주말 12:37 · 경기 후 평일 22:37/주말 18:37 (KST). 경기 없는 날·비시즌에도 돌고, 비시즌은 스토브리그 중심으로 적게 고른다. 새 소식이 없으면 PR 을 만들지 않는다.
 - 절차: `docs/routine.md` (매일 갱신 루틴 프롬프트). 제품 기준·갭·다음 단계: `docs/prd.md`. 기능을 더하거나 빼는 PR(콘텐츠 PR 제외)은 같은 PR 에서 prd.md 의 기능 지도·갭을 고치고, 머리 날짜를 바꾼다(저장소 주인 결정, 2026-10-19).
-- 인스타(@bbadda_officials): 콘텐츠가 main 에 머지되면 `.github/workflows/ig-auto.yml` 이 그 시간대 세트(아침·경기 전·경기 후, 5장)를 만들고, 환경 'instagram' 을 거쳐 바로 게시한다(승인 단계 없음, 2026-10-21~). 카드 문구는 사이트 데이터(brief_ko·postseason.yaml)만 쓴다. 이미지는 insta-media 브랜치. 인스타 게시물·릴스의 후킹·장 구성·캡션은 `docs/insta-style.md` 를 따른다.
+- 인스타(@bbadda_officials): 피드는 하루 1번(밤판) — 콘텐츠가 main 에 머지되면 `.github/workflows/ig-auto.yml` 이 밤판 세트를 만들고 환경 'instagram' 을 거쳐 바로 게시한다(승인 단계 없음). 릴스는 하루 2번(낮 13:17·밤 23:17 루틴, `docs/reel-routine.md`), 비슷한 계정에서 반응이 터진 형식을 참고해 만든다(`docs/insta-swipe.md`, 스킬 `.claude/skills/ig-*`). 인스타에서 승부 예측 투표는 유도하지 않는다(저장소 주인 결정, 2026-10-26). 카드 문구는 사이트 데이터(brief_ko·postseason.yaml)만 쓴다. 이미지는 insta-media 브랜치. 인스타 게시물·릴스의 후킹·장 구성·캡션은 `docs/insta-style.md` 를 따른다.
 - 샘플 데이터는 `sample: true` + SAMPLE 배지. 실제처럼 보이게 만들지 않는다.

@@ -1,4 +1,4 @@
-// 매일 릴스 조립(2026-10-24 주인 결정: 하루 1개 자동 릴스). 루틴(docs/reel-routine.md)이 만든 재료 폴더를 영상 하나로 합친다.
+// 매일 릴스 조립(2026-10-26~ 하루 2개: 낮·밤). 루틴(docs/reel-routine.md)이 만든 재료 폴더를 영상 하나로 합친다.
 // 사용: npx tsx scripts/insta/reel-make.ts <재료 폴더> <출력 mp4>   (크롬: CHROME 환경변수, 없으면 google-chrome / ffmpeg 필요)
 // 재료 폴더의 reel.json:
 //   { music?: 'bgm-breaking', segments: [{ src: '1.mp4'|'1.png', say: 'a1.mp3', kick: '짧은 머리표', head: '큰 제목(<b>강조</b>, <br> 줄바꿈)', note?: '아래 작은 글(출처 등)' }],

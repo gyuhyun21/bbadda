@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 # 릴스 게시 실행(ig-reel.yml 이 부름): reel-run.sh <폴더 이름|빈칸> <fallback: true|false>
-# 1) media/insta/<폴더>(입력 또는 media/insta/reel-queue.json 의 오늘 항목)를 게시. reel.mp4 가 있으면 그대로, 없고 reel.json 만 있으면 조립해서 insta-media 에 올리고 jsDelivr 주소로 게시
+# 1) media/insta/<폴더>(입력 또는 media/insta/reel-queue.json 의 오늘 항목 — 문자열 하나 또는 배열, 하루 2개까지 2026-10-26~)를 차례로 게시. 이미 올라간 것(같은 본문)은 건너뜀. reel.mp4 가 있으면 그대로, 없고 reel.json 만 있으면 조립해서 insta-media 에 올리고 jsDelivr 주소로 게시
 #    (재료는 사이트 배포에 실리지 않게 public 밖 media/ 에 둔다 — 2026-10-24 Vercel 배포 용량 급증)
-# 2) 그게 실패했거나, fallback 실행(13:30 KST)인데 오늘 릴스가 아직 없으면: 오늘 자동 카드 세트(insta-media)로 릴스를 만들어 게시 — 그날 릴스를 빠뜨리지 않는다(2026-10-24 주인)
+# 2) 그게 실패했거나, fallback 실행(15:00 KST)인데 오늘 릴스가 아직 없으면: 오늘 자동 카드 세트(insta-media)로 릴스를 만들어 게시 — 그날 릴스를 빠뜨리지 않는다(2026-10-24 주인)
 # 환경변수 TOKEN(출력 안 함), IG, GITHUB_REPOSITORY, GITHUB_STEP_SUMMARY
 set -euo pipefail
 POST="${1:-}"; FALLBACK="${2:-false}"
@@ -66,11 +66,16 @@ cards_post() {
   say "대체 릴스(카드 $key, ${n}장): $(bash scripts/insta/reel.sh "$(upload /tmp/reel.mp4 "$D-cards")" /tmp/cap.txt)"
 }
 
-if [ -z "$POST" ]; then POST=$(jq -r --arg d "$D" '.[$d] // empty' media/insta/reel-queue.json 2>/dev/null || true); fi
-if [ -n "$POST" ]; then
-  if main_post; then exit 0; fi
-  say "경고: $POST 게시 실패 → 카드 세트로 대체 릴스"
-  cards_post; exit $?
+POSTS="$POST"
+if [ -z "$POSTS" ]; then POSTS=$(jq -r --arg d "$D" '.[$d] // empty | if type == "array" then .[] else . end' media/insta/reel-queue.json 2>/dev/null || true); fi
+if [ -n "$POSTS" ]; then
+  rc=0
+  for POST in $POSTS; do
+    main_post && continue
+    say "경고: $POST 게시 실패 → 카드 세트로 대체 릴스(오늘 릴스가 하나도 없을 때만)"
+    cards_post || rc=1
+  done
+  exit $rc
 fi
 if [ "$FALLBACK" = true ]; then cards_post; exit $?; fi
-say "오늘 예약 릴스 없음(13:30 KST 에 없으면 카드 세트로 대체)"
+say "오늘 예약 릴스 없음(15:00 KST 에 없으면 카드 세트로 대체)"

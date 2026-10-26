@@ -1,13 +1,17 @@
-# 인스타 계정 분석(수동 실행): 공식 Business Discovery 로 다른 비즈니스·크리에이터 계정의 팔로워 수와 최근 게시물 지표를 조회한다.
-# 본문은 저장하지 않고 길이·해시태그 수·첫 줄 앞부분(40자)만 남긴다(분석용). 결과는 아티팩트 ig-research.json
+# 인스타 계정 분석(매주 월요일 09:07 KST + 수동 실행): 공식 Business Discovery 로 다른 비즈니스·크리에이터 계정의 팔로워 수와 최근 게시물 지표를 조회한다.
+# 본문은 저장하지 않고 길이·해시태그 수·첫 줄 앞부분(40자)·게시물 주소만 남긴다(분석용). 결과는 아티팩트 ig-research.json + insta-media 브랜치 research/latest.json
+# 릴스 루틴이 이 결과로 참고 파일(docs/insta-swipe.md)을 만든다(docs/reel-routine.md, 2026-10-26 주인: '터지는 영상을 참고해서').
+# 계정 목록: 수동 입력 > 저장소 변수 IG_RESEARCH_USERS > 아래 기본값(config/teams.yaml 에 출처가 있는 구단·KBO 공식 계정)
 name: ig-research
 on:
+  schedule:
+    - cron: '7 0 * * 1'
   workflow_dispatch:
     inputs:
-      usernames: { description: '쉼표로 구분한 인스타 아이디', required: true }
+      usernames: { description: '쉼표로 구분한 인스타 아이디(비우면 기본 목록)', required: false, default: '' }
       limit: { description: '계정당 최근 게시물 수', default: '30' }
 permissions:
-  contents: read
+  contents: write
 jobs:
   research:
     runs-on: ubuntu-latest
@@ -17,8 +21,8 @@ jobs:
         env:
           TOKEN: ${{ secrets.INSTAGRAM_PAGE_TOKEN }}
           IG: ${{ vars.INSTAGRAM_USER_ID }}
-          USERS: ${{ inputs.usernames }}
-          LIMIT: ${{ inputs.limit }}
+          USERS: ${{ inputs.usernames || vars.IG_RESEARCH_USERS || 'kbo.official,always_kia_tigers,lgtwinsbaseballclub,hanwhaeagles_soori,ssglanders.incheon,ncdinos2011,ktwiz.pr,busanlottegiants,heroesbaseballclub' }}
+          LIMIT: ${{ inputs.limit || '30' }}
         run: |
           set -uo pipefail
           [[ "$LIMIT" =~ ^[0-9]+$ ]] || LIMIT=30
@@ -26,14 +30,26 @@ jobs:
           IFS=',' read -ra arr <<< "$USERS"
           for u in "${arr[@]}"; do
             u=$(echo "$u" | tr -d ' '); [[ "$u" =~ ^[A-Za-z0-9._]+$ ]] || continue
-            f="business_discovery.username($u){username,name,biography,followers_count,media_count,media.limit($LIMIT){caption,media_type,media_product_type,like_count,comments_count,timestamp}}"
+            f="business_discovery.username($u){username,name,biography,followers_count,media_count,media.limit($LIMIT){caption,media_type,media_product_type,like_count,comments_count,timestamp,permalink}}"
             r=$(curl -sS -G -H "Authorization: Bearer $TOKEN" "https://graph.facebook.com/v21.0/$IG" --data-urlencode "fields=$f")
-            echo "$r" | jq -c --arg u "$u" 'if .business_discovery then .business_discovery | {username, name, bio: ((.biography // "")[0:80]), followers: .followers_count, media_count, posts: [(.media.data // [])[] | {type: .media_type, product: .media_product_type, likes: .like_count, comments: .comments_count, ts: .timestamp, cap_len: ((.caption // "") | length), tags: ((.caption // "") | [scan("#[^\\s#]+")] | length), first: ((.caption // "") | split("\n")[0][0:40])}]} else {username: $u, error: (.error.message // "unknown")[0:120]} end' > one.json
+            echo "$r" | jq -c --arg u "$u" 'if .business_discovery then .business_discovery | {username, name, bio: ((.biography // "")[0:80]), followers: .followers_count, media_count, posts: [(.media.data // [])[] | {type: .media_type, product: .media_product_type, likes: .like_count, comments: .comments_count, ts: .timestamp, cap_len: ((.caption // "") | length), tags: ((.caption // "") | [scan("#[^\\s#]+")] | length), first: ((.caption // "") | split("\n")[0][0:40]), url: .permalink}]} else {username: $u, error: (.error.message // "unknown")[0:120]} end' > one.json
             jq -s '.[0] + [.[1]]' out.json one.json > tmp.json && mv tmp.json out.json
             jq -r '.[-1] | "\(.username): \(.followers // .error)"' out.json
           done
           mv out.json ig-research.json
-          # 아웃라이어: 계정마다 (좋아요+댓글)이 그 계정 중앙값의 3배 이상인 게시물 → 요약에 첫 줄 표시(docs/insta-style.md 7절)
-          jq -r '.[] | select(.posts) | . as $a | ([.posts[] | (.likes // 0) + (.comments // 0)] | sort) as $v | ($v[($v|length/2|floor)] // 0) as $m | .posts[] | select($m > 0 and ((.likes // 0) + (.comments // 0)) >= 3 * $m) | "- \($a.username) ×\((((.likes // 0) + (.comments // 0)) / $m * 10 | floor) / 10) \(.product // .type) \(.first)"' ig-research.json | tee -a "$GITHUB_STEP_SUMMARY" || true
+          # 아웃라이어: 계정마다 (좋아요+댓글)이 그 계정 중앙값의 3배 이상인 게시물 → 요약에 첫 줄 표시(docs/insta-swipe.md 재료)
+          jq -r '.[] | select(.posts) | . as $a | ([.posts[] | (.likes // 0) + (.comments // 0)] | sort) as $v | ($v[($v|length/2|floor)] // 0) as $m | .posts[] | select($m > 0 and ((.likes // 0) + (.comments // 0)) >= 3 * $m) | "- \($a.username) ×\((((.likes // 0) + (.comments // 0)) / $m * 10 | floor) / 10) \(.product // .type) \(.first) \(.url // "")"' ig-research.json | tee -a "$GITHUB_STEP_SUMMARY" || true
       - uses: actions/upload-artifact@v4
         with: { name: ig-research, path: ig-research.json, retention-days: 7 }
+      - uses: actions/checkout@v4
+        with: { path: repo }
+      - name: insta-media 브랜치에 남기기(릴스 루틴이 읽음)
+        run: |
+          set -euo pipefail
+          cd repo
+          git config user.name "github-actions[bot]"; git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git fetch -q origin insta-media
+          git worktree add -q /tmp/media origin/insta-media && cd /tmp/media && git checkout -q -B insta-media
+          mkdir -p research; d=$(TZ=Asia/Seoul date +%F)
+          cp "$GITHUB_WORKSPACE/ig-research.json" "research/$d.json"; cp "$GITHUB_WORKSPACE/ig-research.json" research/latest.json
+          git add research; git commit -qm "research: $d" && git push -q origin insta-media || echo "바뀐 것 없음"

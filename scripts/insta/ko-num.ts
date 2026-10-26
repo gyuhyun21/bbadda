@@ -1,5 +1,5 @@
 // 릴스 목소리 대본의 아라비아 숫자를 읽을 소리 그대로 한글로 바꾼다(2026-10-24: '24 대 5'를 '스물네 대 오'로 읽은 일).
-// 사용: npx tsx scripts/insta/ko-num.ts "대본"  → 표준 출력에 바꾼 대본. 규칙은 docs/insta-style.md 10절.
+// 사용: npx tsx scripts/insta/ko-num.ts "대본"  → 표준 출력에 바꾼 대본. 규칙은 docs/insta-style.md 4절.
 const D = ['영', '일', '이', '삼', '사', '오', '육', '칠', '팔', '구'];
 
 /** 한자어 수(0 ~ 9999억) */
