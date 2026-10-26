@@ -1,0 +1,60 @@
+# 우리 계정 성과 수집(매일 08:53 KST + 수동): 최근 게시물마다 조회·도달·저장·공유·반응, 릴스는 평균 시청 시간까지.
+# 결과는 insta-media 브랜치 stats/<날짜>.json 에 쌓고(같은 게시물의 하루하루 변화를 비교), 요약 표를 실행 요약에 남긴다. 게시물 본문은 첫 줄 40자만.
+# 토큰에 instagram_manage_insights 권한이 없으면 지표 칸이 비고 오류 문구가 요약에 남는다(그 경우 Meta 앱에서 권한 추가 필요).
+name: ig-insights
+on:
+  schedule:
+    - cron: '53 23 * * *'
+  workflow_dispatch:
+    inputs:
+      limit: { description: '최근 게시물 수', default: '40' }
+concurrency: { group: ig-insights, cancel-in-progress: false }
+permissions:
+  contents: write
+jobs:
+  insights:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - name: 수집
+        env:
+          TOKEN: ${{ secrets.INSTAGRAM_PAGE_TOKEN }}
+          IG: ${{ vars.INSTAGRAM_USER_ID }}
+          LIMIT: ${{ inputs.limit || '40' }}
+        run: |
+          set -uo pipefail
+          [[ "$LIMIT" =~ ^[0-9]+$ ]] || LIMIT=40
+          G="https://graph.facebook.com/v21.0"; AUTH="Authorization: Bearer $TOKEN"
+          acct=$(curl -sS -G -H "$AUTH" "$G/$IG" --data-urlencode "fields=username,followers_count,media_count")
+          media=$(curl -sS -G -H "$AUTH" "$G/$IG/media" --data-urlencode "fields=id,caption,media_type,media_product_type,timestamp,permalink,like_count,comments_count" -d "limit=$LIMIT")
+          echo "$media" | jq -e '.data' >/dev/null || { echo "게시물 조회 실패: $(echo "$media" | jq -r '.error.message // "unknown"' | cut -c1-160)" | tee -a "$GITHUB_STEP_SUMMARY"; exit 1; }
+          echo '[]' > out.json
+          for row in $(echo "$media" | jq -r '.data[] | @base64'); do
+            m=$(echo "$row" | base64 -d)
+            id=$(echo "$m" | jq -r .id); prod=$(echo "$m" | jq -r '.media_product_type // ""')
+            if [ "$prod" = "REELS" ]; then met="views,reach,saved,shares,total_interactions,ig_reels_avg_watch_time,ig_reels_video_view_total_time"; else met="views,reach,saved,shares,total_interactions"; fi
+            ins=$(curl -sS -G -H "$AUTH" "$G/$id/insights" -d "metric=$met")
+            echo "$m" | jq -c --argjson ins "$ins" '{id, ts: .timestamp, type: .media_type, product: .media_product_type, url: .permalink, likes: .like_count, comments: .comments_count,
+              first: ((.caption // "") | split("\n")[0][0:40]),
+              m: (if $ins.data then ($ins.data | map({(.name): (.values[0].value)}) | add) else {} end),
+              err: ($ins.error.message // null | if . then .[0:120] else . end)}' > one.json
+            jq -s '.[0] + [.[1]]' out.json one.json > tmp.json && mv tmp.json out.json
+          done
+          D=$(TZ=Asia/Seoul date +%F)
+          jq -n --arg d "$D" --argjson a "$acct" --slurpfile p out.json '{date: $d, account: {username: $a.username, followers: $a.followers_count, media: $a.media_count}, posts: $p[0]}' > stats.json
+          echo "D=$D" >> "$GITHUB_ENV"
+          {
+            echo "### @$(jq -r .account.username stats.json) 팔로워 $(jq -r .account.followers stats.json) · $D"
+            echo "| 게시 | 형식 | 조회 | 도달 | 저장 | 공유 | 반응 | 평균 시청(초) | 첫 줄 |"; echo "|---|---|---|---|---|---|---|---|---|"
+            jq -r '.posts[] | "| \(.ts[5:16]) | \(.product // .type) | \(.m.views // "-") | \(.m.reach // "-") | \(.m.saved // "-") | \(.m.shares // "-") | \(.m.total_interactions // "-") | \(if .m.ig_reels_avg_watch_time then ((.m.ig_reels_avg_watch_time / 100 | floor) / 10) else "-" end) | \(.first | gsub("\\|"; "/")) |"' stats.json
+            e=$(jq -r '[.posts[] | .err // empty] | first // empty' stats.json); [ -n "$e" ] && echo && echo "지표 오류(예): $e"
+          } >> "$GITHUB_STEP_SUMMARY"
+      - name: insta-media 브랜치에 쌓기
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"; git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git fetch -q origin insta-media
+          git worktree add -q /tmp/media origin/insta-media
+          mkdir -p /tmp/media/stats && cp stats.json "/tmp/media/stats/$D.json"
+          cd /tmp/media && git checkout -q -B insta-media && git add stats && (git commit -qm "insta: 성과 $D" && git push -q origin insta-media) || echo "바뀐 것 없음"

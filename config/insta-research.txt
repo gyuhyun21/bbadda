@@ -1,0 +1,17 @@
+# ig-research.yml 기본 조사 목록(한 줄에 아이디 하나). 비즈니스·크리에이터 계정만 조회된다(개인 계정은 오류로 남고 건너뜀).
+# KBO·구단 공식(config/teams.yaml 에 확인된 것)
+kbo.official
+lgtwinsbaseballclub
+hanwhaeagles_soori
+ssglanders.incheon
+ncdinos2011
+ktwiz.pr
+busanlottegiants
+always_kia_tigers
+heroesbaseballclub
+# 중계·스포츠 채널(이름 확인 전 — 조회 결과에 오류면 다음 주 목록에서 고친다)
+tving.official
+tvingsports
+spotv_official
+sbssports_official
+mbcsportsplus
