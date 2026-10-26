@@ -1,15 +1,15 @@
-# 인스타 계정 분석(수동 실행 + 매주 월요일): 공식 Business Discovery 로 다른 비즈니스·크리에이터 계정의 팔로워 수와 최근 게시물 지표(좋아요·댓글·조회수 view_count)를 조회한다.
-# 본문은 저장하지 않고 길이·해시태그 수·첫 줄 앞부분(40자)만 남긴다(분석용). 결과는 아티팩트 ig-research.json
+# 인스타 계정 분석(수동 실행 + 매일 09:07 KST, 2026-10-26~ 매주→매일): 공식 Business Discovery 로 다른 비즈니스·크리에이터 계정의 팔로워 수와 최근 게시물 지표(좋아요·댓글·조회수 view_count)를 조회한다.
+# 본문은 저장하지 않고 길이·해시태그 수·첫 줄 앞부분(40자)만 남긴다(분석용). 결과는 아티팩트 ig-research.json + insta-media 브랜치 research/<날짜>.json(매일 점검 루틴이 읽음, docs/insta-review.md)
 name: ig-research
 on:
   schedule:
-    - cron: '7 0 * * 1' # 월요일 09:07 KST
+    - cron: '7 0 * * *' # 매일 09:07 KST
   workflow_dispatch:
     inputs:
       usernames: { description: '쉼표로 구분한 인스타 아이디(비우면 기본 목록 config/insta-research.txt)', default: '' }
       limit: { description: '계정당 최근 게시물 수', default: '30' }
 permissions:
-  contents: read
+  contents: write
 jobs:
   research:
     runs-on: ubuntu-latest
@@ -44,3 +44,16 @@ jobs:
           jq -r '.[] | select(.posts) | . as $a | ([.posts[] | (.likes // 0) + (.comments // 0)] | sort) as $v | ($v[($v|length/2|floor)] // 0) as $m | .posts[] | select($m > 0 and ((.likes // 0) + (.comments // 0)) >= 3 * $m) | "- \($a.username) ×\((((.likes // 0) + (.comments // 0)) / $m * 10 | floor) / 10) \(.product // .type) \(.first)"' ig-research.json | tee -a "$GITHUB_STEP_SUMMARY" || true
       - uses: actions/upload-artifact@v4
         with: { name: ig-research, path: ig-research.json, retention-days: 7 }
+      - name: insta-media 브랜치에 쌓기
+        run: |
+          set -euo pipefail
+          D=$(TZ=Asia/Seoul date +%F)
+          git config user.name "github-actions[bot]"; git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git fetch -q origin +refs/heads/insta-media:refs/remotes/origin/insta-media
+          git worktree add -q /tmp/media origin/insta-media
+          mkdir -p /tmp/media/research && cp ig-research.json "/tmp/media/research/$D.json"
+          cd /tmp/media && git checkout -q -B insta-media && git add research
+          git commit -qm "insta: 경쟁 계정 $D" || { echo "바뀐 것 없음"; exit 0; }
+          # 다른 작업(성과 수집·릴스)이 같은 브랜치에 먼저 올렸으면 그 위로 다시 얹어 올린다
+          for t in 1 2 3; do git push -q origin insta-media && exit 0; sleep 5; git fetch -q origin insta-media && git rebase -q origin/insta-media; done
+          exit 1
