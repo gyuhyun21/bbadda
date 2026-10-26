@@ -1,0 +1,34 @@
+{
+  "id": "news-58c7a551",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "미주중앙일보",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5aUlhDLWR1M2tUNUVBTUYxczRzclU1ZVV0TzBlMFFheGZYY1ZpQmdVNDlWcHdBcDNEZFJPeFVYRFhoVUduQ3FLblVheWN2bVZzUlRvOVVwdTE0SnVpclE2aHBR?oc=5",
+  "title": "'김도영이 가장 경계하는 타자가 돌아왔다' 햄스트링 부상 딛고 기적의 복귀…“누가 잘하든 무조건 이겨야 한다” [PO1]",
+  "published_at": "2026-10-26T06:53:00.000Z",
+  "collected_at": "2026-10-26T07:38:33.759Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 100,
+    "relevance": 70
+  },
+  "sentiment": "mixed",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5PdWxlUFljeWdRdW9xbWhtTW5YT2RTemV1SVA3NHdCOWZhUk5VLXgyaXFkRWU2SWhtTUJNQlctMG5QQlVHZWw5X1pBWGZYTnlEZjREbUZJTzZFWGxiX0JsMTJIcEYxT0gyYmfSAW9BVV95cUxPUzRlNVJEaElRaldieVJuX296SmJPS1g1YVQwbEpremJnR2JaVDV5U3pKMzlwcXhVSXQ0UlVrUjh5ZWJvMnU3bm9Sb3BQRXkxbC1ZODJWeTUzbzl3OG0zTmV0Q1M4dF9IVXZvQnJidjg?oc=5"
+    },
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOS25HTGpTQXdOamRkaTdrRzk4YTB6d2lYYndFanRBSTRjbGxRNDBIY0tVeHpfRHl4dXh6RnJqWnNSNWc4Wi1RVXg1MTVLSXI1SjNReEhOal9JektKTUtHQ0g3anZuMl9Ib2ctYU1OamNuYjBkUTBXUHhIUmQxN1VTMnFjcw?oc=5"
+    }
+  ]
+}

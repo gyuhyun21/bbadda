@@ -1,0 +1,27 @@
+{
+  "id": "youtube-54865c4b",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "기아타이거즈 V13",
+  "url": "https://www.youtube.com/watch?v=D3iPh_mwTHg",
+  "title": "\"우타자에게 약했고 좌타자에게 강했다\" 그런데 기아는 우타자 김호령을 빼고 왼손 타자 여섯을 세웠다",
+  "published_at": "2026-10-26T05:00:24Z",
+  "collected_at": "2026-10-26T07:38:33.759Z",
+  "summary_ko": "팬 채널이 KIA가 우타자 김호령을 빼고 왼손 타자 여섯을 세운 PO 1차전 라인업을 짚은 영상이다.",
+  "metrics": {
+    "views": 2143,
+    "likes": 52,
+    "comments": 4
+  },
+  "scores": {
+    "hot": 59,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "좌타 여섯, KIA 라인업 해설"
+}

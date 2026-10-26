@@ -1,0 +1,23 @@
+{
+  "id": "news-aec51929",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠경향",
+  "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5lYU1BRlRfVDByQVNlQm15b19xd1hDWVZwUjhkU2Z0TUhOZ0RfTnV2d25KRTNpckRSVExXV3dJNE4wOVBDbkthVGlKc0NrcG4zWnRZTHhZNWxMcDlwMFHSAWNBVV95cUxQRmZfVVR5UGJuLV9MWGpEYXdNYklwbk9SdlZaV3FibGpfdG5tLUIzMTFkWVVTRzZ0d0t5WjdiX3dYRmVpVGpvR2JGcVp3dlNXUnkyNXUxcy1kSm04ejQ3RWJYWWs?oc=5",
+  "title": "[스경x인터뷰] 드디어, 곽도규와 같이 하는 이의리의 가을야구 “우리 즐겨보자”",
+  "published_at": "2026-10-26T06:36:00.000Z",
+  "collected_at": "2026-10-26T07:38:33.759Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "community-eaa43ebd",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 키쿠의 직관로그",
+  "url": "https://blog.naver.com/kuki_unnie/224453826128",
+  "title": "10/12(월) 정규시즌 잠실야구장 마지막 경기 - 2탄 (은퇴식, 불꽃놀이)",
+  "published_at": "2026-10-26T10:40:00.000+09:00",
+  "collected_at": "2026-10-26T07:38:33.759Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

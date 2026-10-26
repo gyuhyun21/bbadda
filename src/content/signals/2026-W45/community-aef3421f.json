@@ -1,0 +1,24 @@
+{
+  "id": "community-aef3421f",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 피플릿(Peoplit)",
+  "url": "https://blog.naver.com/peoplit/224453376309",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/DWHKujMpE7X",
+  "title": "키 163cm인데 2년 연속 3할이라니… 연봉 2억까지 오른 이유 김성윤 프로필 나이 키 학교 연봉 타율",
+  "published_at": "2026-10-26T09:40:00.000+09:00",
+  "collected_at": "2026-10-26T07:38:33.759Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

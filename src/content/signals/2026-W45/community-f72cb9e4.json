@@ -1,0 +1,24 @@
+{
+  "id": "community-f72cb9e4",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 하이스포츠 인사이드",
+  "url": "https://blog.naver.com/historycar/224454235505",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/GJvDemeiu0I",
+  "title": "“타율 0.297 외야수가 왜 굳이?” 문현빈 2루수 복귀, 류지현 감독이 올해까지 기한 정한 이유",
+  "published_at": "2026-10-26T15:36:00.000+09:00",
+  "collected_at": "2026-10-26T07:38:33.759Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

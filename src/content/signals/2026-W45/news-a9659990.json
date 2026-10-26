@@ -1,0 +1,22 @@
+{
+  "id": "news-a9659990",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스1",
+  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5MSHVPRmhPZmtwLU1TbnZycDB5ZEJmU2hyM0JCTDlsUXUwdmlKNnlHRGlOb2Q3OFNMM21BY2o4WjFkNXlZcGhhdWtUdXNQcWVCczNrcmFLNA?oc=5",
+  "title": "'10월 26일 대구'가 특별한 KIA 김태군…\"2년 전 KS서 만루홈런\"[PO]",
+  "published_at": "2026-10-26T00:52:19.000Z",
+  "collected_at": "2026-10-26T07:38:33.759Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 80
+  },
+  "sentiment": "positive"
+}

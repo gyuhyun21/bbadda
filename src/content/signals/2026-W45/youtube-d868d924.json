@@ -1,0 +1,28 @@
+{
+  "id": "youtube-d868d924",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "youtube",
+  "announcement": true,
+  "source_name": "크보판",
+  "url": "https://www.youtube.com/watch?v=3-9xviy5Ezg",
+  "title": "[오피셜] 롯데 자이언츠, 이동욱 감독-이택근 단장 동시 선임",
+  "published_at": "2026-10-26T05:22:21Z",
+  "collected_at": "2026-10-26T07:38:33.759Z",
+  "summary_ko": "팬 채널이 롯데가 이동욱 감독과 이택근 단장을 동시에 선임했다고 전한 영상이다.",
+  "metrics": {
+    "views": 21216,
+    "likes": 623,
+    "comments": 50
+  },
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "이동욱 감독·이택근 단장 동시 선임"
+}

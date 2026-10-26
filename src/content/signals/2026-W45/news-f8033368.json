@@ -1,0 +1,30 @@
+{
+  "id": "news-f8033368",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ZNHJCbnpNMmMwZHpubnVxbGNKcWlXb0JMTFhJUENfYzk3MnZkMjlJb240NDR4c25zNENYT19nRV9SdW56NXh5Ry0xNU9ueS1aY3oySVZVdlBZbFBTQ3VTSEVOcVhuT1hzY2Npako0RdIBb0FVX3lxTE5ZNHJCbnpNMmMwZHpubnVxbGNKcWlXb0JMTFhJUENfYzk3MnZkMjlJb240NDR4c25zNENYT19nRV9SdW56NXh5Ry0xNU9ueS1aY3oySVZVdlBZbFBTQ3VTSEVOcVhuT1hzY2Npako0RQ?oc=5",
+  "title": "[사진]그라운드 상태 살피는 허삼영 경기감독관",
+  "published_at": "2026-10-26T05:18:00.000Z",
+  "collected_at": "2026-10-26T07:38:33.759Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 83,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTUV1alhucl9OT3hlZncza2FJRVhTb29HbEZTREtieWc0UU4xWmE3UXo2YUM0VEV0SzJLcDVpSi14LTU4alp6U01UTE91MmVLZnFxN2VraVp0Y2hmM1BNbmprY3pQb05lbEFSVV80djNMUENPcENCTjJTVzZSWGJoTndPNXJ3SXJf?oc=5"
+    }
+  ]
+}

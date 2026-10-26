@@ -1,0 +1,23 @@
+{
+  "id": "community-b5f8ba78",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 건준찬 야구 일기",
+  "url": "https://blog.naver.com/10313183030/224454070204",
+  "title": "2026 송진우 배 유소년 야구대회 개막 대회 대진표 청주 석교초",
+  "published_at": "2026-10-26T13:27:00.000+09:00",
+  "collected_at": "2026-10-26T07:38:33.759Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

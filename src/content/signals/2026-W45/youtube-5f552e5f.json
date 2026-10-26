@@ -1,0 +1,26 @@
+{
+  "id": "youtube-5f552e5f",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "youtube",
+  "source_name": "부자검은콩",
+  "url": "https://www.youtube.com/watch?v=RBiYBUdWR7k",
+  "title": "롯데 자이언츠 파격적인 선택 #롯데자이언츠 #이동욱감독 #이택근단장",
+  "published_at": "2026-10-26T06:51:55Z",
+  "collected_at": "2026-10-26T07:38:33.759Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 3783,
+    "likes": 11,
+    "comments": 6
+  },
+  "scores": {
+    "hot": 45,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

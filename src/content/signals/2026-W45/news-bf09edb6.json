@@ -1,0 +1,23 @@
+{
+  "id": "news-bf09edb6",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "노컷뉴스",
+  "url": "https://www.nocutnews.co.kr/news/6596969",
+  "title": "하늘도 KIA 편?…비 덕에 '36년 만의 5일 휴식' PO 변수로",
+  "published_at": "2026-10-26T03:23:03.000Z",
+  "collected_at": "2026-10-26T07:38:33.759Z",
+  "summary_ko": "노컷뉴스는 비로 PO가 하루 밀리면서 KIA가 준PO 이후 36년 만의 5일 휴식을 얻게 됐고 이것이 변수가 될 수 있다고 짚었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "KIA, 36년 만의 5일 휴식"
+}

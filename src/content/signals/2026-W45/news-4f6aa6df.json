@@ -1,0 +1,37 @@
+{
+  "id": "news-4f6aa6df",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "조선일보",
+  "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQU2pZSk81U0s1ZWN3RDc2NkZjVnRaOURGMktTM0ctZy1IbnVoMXNCbXNwR0Z2eTBfeVNaeUVUdnlJTkhaYk80aWctdm1aZG9GeGRYOGFFZnlIMy0tbUlQRTVaX2M3WGVDdE5ickhGdExhS2VaR1ZxU2x4bjI4X292R0lKbTZLMS1Oalpr?oc=5",
+  "title": "[토토 투데이] 하루 미뤄진 삼성-KIA 가을야구 첫 승부, 프로토 승부식 127회차 발매",
+  "published_at": "2026-10-26T05:50:00.000Z",
+  "collected_at": "2026-10-26T07:38:33.759Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 99,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5fVHhvZnlJSi1vWUJEUDJmQ21mNGlZb0E5ZjlOcXlKc2VZWTFVZUpLSVBGdkxEUExNSWhOU2VLV2F4M0JBbTU1ZlNHOTNtUnBUNkpSSTRMd0l2cEptMFYxTEZveFQxbHM3anfSAW9BVV95cUxQNDdVMkY4TEx1VUluRW1iaUxwSVBkZGNNZDRWczNKZlpsYXlBMnVqWGxvTlNxUTJfWmpocEc5emNhZVJka2tTZnBWRDctUWptNmhxWEw0UF9QdWpfdmY4ajJieGpTS2N2U1FGZWE4Mms?oc=5"
+    },
+    {
+      "source_name": "OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8wTmFVQUhtek9LQ3BhOV9iTG1RVE4teHZmdmxPUFhBVENiXzNEbUlQRTh2SHVGQmFpS3k0SW5mamFfSHgwNFVnYVhHVHo0NURheWMzMg?oc=5"
+    },
+    {
+      "source_name": "스포츠경향",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBqLU1yeTFBanBkcmh0R2s1a2JOd1ZMd1V6bG1RZXJ0anZJSU1GVHRJWWlOeFJISGs0SkpSalFteVVZVkl0RjdnYzlGd2hwX3Q4OTU2a0ZYbWRTOHg4T0HSAWNBVV95cUxONjRObTYwMENacGQtdG1TaFA4NmpJcUpPVlFuZzhJQV9hVVBFbzA2ZVNOZno3TVBDamNBZjhsSjZzd1ZvVzF5U1JIMTIzWUlEMXRBY2tabGgxR1hqV1dONjc5Zkk?oc=5"
+    }
+  ]
+}

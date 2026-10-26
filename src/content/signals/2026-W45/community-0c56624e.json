@@ -1,0 +1,24 @@
+{
+  "id": "community-0c56624e",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 스포츠 이슈픽",
+  "url": "https://blog.naver.com/nbprime/224454025350",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/3LFB8nA0LNY",
+  "title": "삼성 기아 플레이오프 1차전 26일 경기일정 안내 및 1차전 선발투수 우천순연은 누가 유리,,, 일정총정리",
+  "published_at": "2026-10-26T13:18:00.000+09:00",
+  "collected_at": "2026-10-26T07:38:33.759Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-91e559e2",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스타뉴스",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5iSzZmeFRYMWZwdnpHUmRwMHBpZjhLU0VxZmdQNDhSaUw4UjVJTnF6YnRDZWsxWTFtc2FBZVE1cTA3ZWZycW9DN0ZtUzVsT0o4em1HMHMtWDN1NENJV1FSYVB6VllsYS1odllwQW1fTmNhYjBsbGc?oc=5",
+  "title": "\"다리 떨린다\"던 최형우의 수비 부담→박진만 믿음 \"큰 경기 경험 많아, 열심히 준비하고 있으라 했다\"",
+  "published_at": "2026-10-26T07:29:23.000Z",
+  "collected_at": "2026-10-26T07:38:33.759Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

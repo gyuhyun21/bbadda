@@ -1,0 +1,23 @@
+{
+  "id": "news-a43aa856",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스핌",
+  "url": "https://www.newspim.com/news/view/20261026001080",
+  "title": "[PO] '구자욱 지명타자·최형우 벤치' 삼성, 우천 순연에도 라인업 큰 틀 유지",
+  "published_at": "2026-10-26T07:31:00.000Z",
+  "collected_at": "2026-10-26T07:38:33.759Z",
+  "summary_ko": "뉴스핌에 따르면 삼성은 비로 순연된 PO 1차전에서 구자욱을 지명타자로, 최형우를 벤치에 두는 큰 틀을 유지한다.",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "PO1 라인업, 최형우 벤치 유지"
+}

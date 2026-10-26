@@ -1,0 +1,29 @@
+{
+  "id": "news-6a8f7f54",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBfaXVJU3RMOElQTnJoMjJ4OVd2M2gyb2lXRHVyQU1reWFZRDRUQ0ZUbHgxV2pHZmhuRWJQam82anZ6Y1pCNWJ4aWhreVVZQ1ZqcVlra0ExSmliMUM4NGxpM2htOWdRMlBWSXdSUGx2Y9IBb0FVX3lxTFBfaXVJU3RMOElQTnJoMjJ4OVd2M2gyb2lXRHVyQU1reWFZRDRUQ0ZUbHgxV2pHZmhuRWJQam82anZ6Y1pCNWJ4aWhreVVZQ1ZqcVlra0ExSmliMUM4NGxpM2htOWdRMlBWSXdSUGx2Yw?oc=5",
+  "title": "\"전 무조건 잘해야 합니다\" 199일 생애 첫 엔트리 개근, 설레는 가을 멀티히트&타점에도 불만족...박정우 자기 채찍질 왜?",
+  "published_at": "2026-10-26T02:40:00.000Z",
+  "collected_at": "2026-10-26T07:38:33.759Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "미주중앙일보",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1LdXExV0lRdW1PMG5xZFFwUU5oR1l2WUo2Z3pXQU1mckYzVzFHaEVFOTAtTjhaNnFJTE9mZHhvRkYxa3pPcXJ5M1EzN2c2Q1NJbGN3M3l1ejZxUzRPTFBFY2N3?oc=5"
+    }
+  ]
+}

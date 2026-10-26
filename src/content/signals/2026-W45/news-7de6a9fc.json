@@ -1,0 +1,29 @@
+{
+  "id": "news-7de6a9fc",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://www.mt.co.kr/amp/sports/2026/10/26/202610260659774914O",
+  "title": "\"오전 7시 시작, 종료 시간은 없다\" 왜? 류지현호 첫 마무리캠프, 한화에 '부지런한 습관' 심는다",
+  "published_at": "2026-10-26T00:00:00.000Z",
+  "collected_at": "2026-10-26T07:38:33.759Z",
+  "summary_ko": "머니투데이는 류지현 감독 체제 첫 마무리캠프가 오전 7시에 시작하고 종료 시간을 두지 않는다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 73,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVUJOSjdNTjM0Tk04MnFXcjlrbThLSzc4R1h0SkdHZWRjVzg1dUs5d203RlRIbHRDX29vMkxYZExpcGVNRWY5Y1RVY3h0Tmw0cEdsTVp6RUZEX3c2RENCUy1EMVlSSm81TmRmSFFXOG56Y29nQzlIZzlCYmpRZFkyenI5R3RhSFEzNHN4ZTV5LXMtcHV5dVNr0gGXAUFVX3lxTE5VQk5KN01OMzROTTgycVdyOWttOEtLNzhHWHRKR0dlZGNXODV1Szl3bTdGVEhsdENfb28yTFhkTGlwZU1FZjljVFVjeHRObDRwR2xNWnpFRkRfdzZEQ0JTLUQxWVJKbzVOZGZIUVc4bnpjb2dDOUhnOUJialFkWTJ6cjlHdGFIUTM0c3hlNXktcy1wdXl1U2s?oc=5"
+    }
+  ],
+  "brief_ko": "마무리캠프, 오전 7시 시작"
+}

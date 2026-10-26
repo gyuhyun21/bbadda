@@ -1,0 +1,27 @@
+{
+  "id": "youtube-7564bcce",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "성재-문학대스타의 야구이야기★",
+  "url": "https://www.youtube.com/watch?v=Cn7_CLrbpNg",
+  "title": "(깜짝LIVE) 태풍으로 인해 미뤄진 플레이오프... vs 랜더스가 붙여본팀의 성향은? 심심하신 야구팬분들 모여라~",
+  "published_at": "2026-10-25T19:35:43Z",
+  "collected_at": "2026-10-26T07:38:33.759Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 734,
+    "likes": 29,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

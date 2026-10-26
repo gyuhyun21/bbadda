@@ -1,0 +1,30 @@
+{
+  "id": "news-2f0ac178",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "hanwha",
+  "teams": [
+    "hanwha",
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "아주경제",
+  "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9jYjA3eHhhRVMxeURpMXd5MVRNNWs4MEZmX2V5WE1kcUlSOGlMZ1lsbGVCSGYyOVV2ZllkQnQ1RXFsSUlFbm5RTUZRNUx2WTNIZmhVMkNka0jSAVhBVV95cUxPY2IwN3h4YUVTMXlEaTF3eTFUTTVrODBGZl9leVhNZHFJUjhpTGdZbGxlQkhmMjlVdmZZZEJ0NUVxbElJRW5uUU1GUTVMdlkzSGZoVTJDZGtI?oc=5",
+  "title": "홍성군에 뜬 김태균·문동주…야구 꿈나무 52명과 특별한 만남",
+  "published_at": "2026-10-26T01:08:18.000Z",
+  "collected_at": "2026-10-26T07:38:33.759Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 82,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "더게이트",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5WRXZpVEdkSEdSbWtPNEV1ZTQ2QlFiTnVPV19adldSNFBPLWppMjdydzNaZS1qNzVZSGR2c05LeHpaM09PeUFpaW1PSWdFUVVtLTJIa2U0VTZVZmtqa3R1QmhwUzFrWXI40gFsQVVfeXFMUDdaWXpoVkJXRUdWendJUnhtVkJVUTJTTnQ1MU9BZmtqaThsMXlsUXdOTnR6UXkxcXBpdWtSMVFLQzZnbmRDQXNZMWJ0MlFvTWdiWGJOc2FfVkN5YUJWUlBBY2IxelZIQ0JwRXNU?oc=5"
+    }
+  ]
+}

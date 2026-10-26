@@ -1,0 +1,24 @@
+{
+  "id": "news-da7384ae",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://www.sportschosun.com/baseball/2026-10-26/202610260100163550010669",
+  "title": "\"밤새 빗소리 들으며 고민\" 박진만 감독, '5할타자' 대신 '1할타자' 전진 배치 이유[PO1 현장]",
+  "published_at": "2026-10-26T07:24:10.000Z",
+  "collected_at": "2026-10-26T07:38:33.759Z",
+  "summary_ko": "스포츠조선에 따르면 박진만 감독은 밤새 빗소리를 들으며 고민한 끝에 타순을 바꿨다고 밝혔다.",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "박진만, 빗소리 듣고 타순 고민"
+}

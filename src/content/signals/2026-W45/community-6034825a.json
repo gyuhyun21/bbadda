@@ -1,0 +1,23 @@
+{
+  "id": "community-6034825a",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 이슈 한 스푼",
+  "url": "https://blog.naver.com/issue_spoon/224453828546",
+  "title": "추신수 아들 에이든 추, 타구속 166km 기록한 괴물 유망주 화제",
+  "published_at": "2026-10-26T09:57:00.000+09:00",
+  "collected_at": "2026-10-26T07:38:33.759Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

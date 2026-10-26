@@ -1,0 +1,29 @@
+{
+  "id": "news-80d20d48",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://www.mt.co.kr/amp/sports/2026/10/26/2026102606423758646",
+  "title": "'지난해 우승팀이 4위 추락하자 결국...' LG 마무리캠프에 문보경·손주영·고우석까지 총출동! 염경엽 예고한 변화 시작됐다",
+  "published_at": "2026-10-25T22:42:19.000Z",
+  "collected_at": "2026-10-26T07:38:33.759Z",
+  "summary_ko": "머니투데이는 LG 마무리캠프에 문보경·손주영·고우석 등이 참가하며 염경엽 감독이 예고한 변화가 시작됐다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 81,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA0aWF5c01BWUdxajVoMFU5LWYwQWtBZG55aDJCZm1iRFpmVUJ3cXFVbWZMZFpycVhNcGpkaVdWYjl6NWdsNFRLZHRjdTJDTWtEVFp2MUp2ZjF6SE1DeHJHRlN6TThEUGI5QU9SOFhJeXdmaDUtY3c?oc=5"
+    }
+  ],
+  "brief_ko": "마무리캠프서 시작된 변화"
+}

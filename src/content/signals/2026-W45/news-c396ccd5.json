@@ -1,0 +1,22 @@
+{
+  "id": "news-c396ccd5",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "진일보 | 전남일보",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1FOVBGQ2hzQUxtMk55bTczVTl4QUsyUWhpcDNUUkNTVzE2bTlmOV9ncUZyT04yNGFDWncxc2hmWkg3QlBUcmYwT2E1NTRzVS1XY0tGaDVIYUZBV1pCSE1nNFVZaGJMaklfc1g3TEpiOA?oc=5",
+  "title": "비에 막힌 플레이오프…KIA 팬들 희비 엇갈렸다",
+  "published_at": "2026-10-26T01:41:25.000Z",
+  "collected_at": "2026-10-26T07:38:33.759Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

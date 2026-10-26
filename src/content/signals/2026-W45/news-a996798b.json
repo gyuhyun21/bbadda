@@ -1,0 +1,30 @@
+{
+  "id": "news-a996798b",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://www.mt.co.kr/sports/2026/10/26/202610261510772873O",
+  "title": "‘양키스 40억 거절→신인 최고액 경신’ 부산고 오타니 대상 받았다, “안우진 선배님 밑에서 많이 배우고 성장하겠다” [오!쎈 현장]",
+  "published_at": "2026-10-26T07:10:00.000Z",
+  "collected_at": "2026-10-26T07:38:33.759Z",
+  "summary_ko": "머니투데이에 따르면 부산고 오타니로 불린 신인이 대상을 받고 '안우진 선배님 밑에서 많이 배우고 성장하겠다'고 했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 84,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdWV3OHJVMThCdEdNWHlyWlUxUkNfdFFsQTNwYmp1ZXItb2ZJbUV5bXRDMG5PLW9jWHByMGp1dGI3MmtBUEt0bG50SDFVU2g3UUQyTkcwb3hpTDg1UXAzOEM5OEpVZGg2MDUzZ2R4R2F3c3h2U1p4aFBTYVJoTWxfc2Vwa9IBlwFBVV95cUxQMmZHUFh2N1VjWnRPSzRrT2FnbVZYSzZhNjhEUXRRUnhYR1EyYWkxWXZKRi12M1ZmbFEzc0pJenZSWFBrTmU4eTJtMjdWb0NFU2NMMnNVTWpGS01DMXJEeTdpYnlYZXJHemxIbVFEWVFvRXNORGUyWkZ1NEN4bkxmbnJQTHpCN1ZpTEw3aGF6QVVjYVhpZ2sw?oc=5"
+    }
+  ],
+  "brief_ko": "신인 대상, 안우진 밑에서 성장"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "news-b26e349c",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "FT스포츠",
+  "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1UdDQyYWFocFhaT1hoNjdHcnE1X3Z5ZjktNmMyYlMyeXFvaWNYRHJrLU9MVUZtcG5EZk9Jal9mZzlHeU1NSDNCSE1XbkJuYjQ4aEJFMTNQVlNYVkdnRG00a2JPbnM?oc=5",
+  "title": "“동네야구 한다더니 34억?”…KBO 감독 몸값 공개되자 터져 나온 ‘성적값’ 논쟁",
+  "published_at": "2026-10-26T00:57:16.000Z",
+  "collected_at": "2026-10-26T07:38:33.759Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 90,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "네이트뷰",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBsUG4xNl9rOWIzaS1EWTJ4T0NwcUF6QTNoUS10WVl3T052QnhoZkI2OVRaRjFqWTlnN0RwRVA1T2F1c3U1LWtkYjQ3LWtDdTNGVnfSAVdBVV95cUxNc3NYUkdURDFsSmM4VEJLMDk1VTY3U2ROUW1zV1drZi1mbUUyaG1UdF9xU3U1YThPSi1Ua0tsRVpuSTdCNWppYUEtUnZYc2RSd0dpMGlsb2s?oc=5"
+    }
+  ]
+}

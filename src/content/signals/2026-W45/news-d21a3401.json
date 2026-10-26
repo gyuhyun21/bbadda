@@ -1,0 +1,23 @@
+{
+  "id": "news-d21a3401",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "연합뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBkTnEtSFYxS3NOYmpVLXZ1dGhHZncwa21KR05WREM0dnRkUHZLZ2IzZTRoeHE0SzVPOVctdFdCMjJUNjBPNHlHbjhRZlNSNUdZNy1aMm8wR2ZFdlZ3UWhYa9IBYEFVX3lxTFBkTnEtSFYxS3NOYmpVLXZ1dGhHZncwa21KR05WREM0dnRkUHZLZ2IzZTRoeHE0SzVPOVctdFdCMjJUNjBPNHlHbjhRZlNSNUdZNy1aMm8wR2ZFdlZ3UWhYaw?oc=5",
+  "title": "준PO 이후 5일 휴식은 36년만…KIA-삼성, PO '동등한 출발선'",
+  "published_at": "2026-10-26T01:48:31.000Z",
+  "collected_at": "2026-10-26T07:38:33.759Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 82,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

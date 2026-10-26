@@ -1,0 +1,24 @@
+{
+  "id": "community-9ed97920",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 선 넘는 스포츠",
+  "url": "https://blog.naver.com/sion4772/224454278385",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/8xAO49b7VBh",
+  "title": "양의지 연봉 42억, 최고 연봉의 시즌은 어땠나…23홈런 뒤 근황",
+  "published_at": "2026-10-26T16:07:00.000+09:00",
+  "collected_at": "2026-10-26T07:38:33.759Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

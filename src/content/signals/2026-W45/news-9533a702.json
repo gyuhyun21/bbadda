@@ -1,0 +1,22 @@
+{
+  "id": "news-9533a702",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "KBC광주방송",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5mVmEwMVg0YlA5UmVDSFlBcFJIcWtvZ2JqLW9aM1Vqa194Qlp6SXMtOF9ha201ZkNLdFpzOEVFUkRNa3MtbXhsMzNyc0pMaVJVTGZkcFR0QlZmQWQ4NnFLQw?oc=5",
+  "title": "\"뒤에 좋은 형들 많잖아요\"…KIA 박재현, PO 출루 특명",
+  "published_at": "2026-10-26T03:30:01.000Z",
+  "collected_at": "2026-10-26T07:38:33.759Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

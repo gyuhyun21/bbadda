@@ -1,0 +1,22 @@
+{
+  "id": "news-b08e655f",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "금강일보",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBtT1RYVXF0V1NPOGI0Wk55OWIwcDNSVUo2dWhMX2w2Vm1mSlpjQVM2YTA3YTMzRU9vTmE3Zy00OUJuNjlwd2l2eG5OVFFhT2diNkI5SGptM19OOFYxTFZCRDlSNDZISWxp?oc=5",
+  "title": "삼성 라이온즈, PO 1차 라인업 바꿨다…무슨 일?",
+  "published_at": "2026-10-26T07:30:36.000Z",
+  "collected_at": "2026-10-26T07:38:33.759Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

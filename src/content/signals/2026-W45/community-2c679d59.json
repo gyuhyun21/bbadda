@@ -1,0 +1,24 @@
+{
+  "id": "community-2c679d59",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "엠엘비파크",
+  "url": "https://mlbpark.donga.com/mp/b.php?id=202610210119586504&p=91&b=kbotown&m=view&site=donga.com",
+  "title": "박재현 어제 쫌 못했다~ 안타1개, 삼진 3개, 아쉬었다",
+  "published_at": "2026-10-20T15:00:00.000Z",
+  "collected_at": "2026-10-26T07:38:33.759Z",
+  "summary_ko": "",
+  "excerpt": "... 롯데가 제시한 손아섭 계약은 쓰레기수준이었음. 6. 충격 정보) 프로 지명이 됐음에도 마지막까지 KT 위즈…",
+  "metrics": {},
+  "scores": {
+    "hot": 19,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

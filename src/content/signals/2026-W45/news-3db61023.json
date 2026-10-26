@@ -1,0 +1,24 @@
+{
+  "id": "news-3db61023",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "마이데일리",
+  "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE85blNWNnZ2Y1hZMGtTajcwNDlPalhhVnFKM040WXVQYXNlSFlYTjBjRkFJS0x1enFpRW1MZ21JWkdHRGZqU09jcWZPU3pXWkRvZm4tYjhQTnhkclRTY0hGcEJZYVZnQQ?oc=5",
+  "title": "“자욱이는 컴퍼스가 길어서 쑥쑥 간다” 기자회견장 빵 터트린 박진만 감독의 한 마디, 주루 걱정 날렸다 [MD대구 PO1]",
+  "published_at": "2026-10-26T07:25:56.000Z",
+  "collected_at": "2026-10-26T07:38:33.759Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 84,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

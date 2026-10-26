@@ -1,0 +1,24 @@
+{
+  "id": "news-6641a21d",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "nc",
+  "teams": [
+    "nc",
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "MHN스포츠",
+  "url": "https://mhnse.com/news/articleView.html?idxno=1623171",
+  "title": "\"프로도 아니다\" 비아냥 듣던 NC 수비 끌어올린 이동욱…롯데서도 땀의 기적 만들까",
+  "published_at": "2026-10-26T03:43:55.000Z",
+  "collected_at": "2026-10-26T07:38:33.759Z",
+  "summary_ko": "MHN스포츠는 NC 수비를 끌어올렸던 이동욱 감독이 롯데에서도 같은 변화를 만들지 짚었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "이동욱, 롯데서도 수비 변화?"
+}

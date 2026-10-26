@@ -1,0 +1,23 @@
+{
+  "id": "news-465163e5",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "조선일보",
+  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaHlqM0NCVmFETl9OUTRoTFNyV05BdXVtRlB4MFRLMEp4OTNyby1iVTFWVF9sYWFOeHdFTkd1TXI1bEEtaS1FaVRnX1IyQW5UTDF6ckE2eWZtek9paWRNcHp6TkNCR2JIWk5zWW9xUVBUaTZIRDE3SmcwRzNxaHJBMjVrU2N6M1k2?oc=5",
+  "title": "[사진]김도영, 훈련 구슬땀",
+  "published_at": "2026-10-26T07:23:00.000Z",
+  "collected_at": "2026-10-26T07:38:33.759Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

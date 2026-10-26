@@ -1,0 +1,23 @@
+{
+  "id": "news-586cb0f3",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://www.mt.co.kr/amp/sports/2026/10/26/2026102611281982494",
+  "title": "\"왜 1R인지 증명하겠다\" 한화, '2.5억' 민주홍 포함 신인 14명 입단식 개최",
+  "published_at": "2026-10-26T02:36:56.000Z",
+  "collected_at": "2026-10-26T07:38:33.759Z",
+  "summary_ko": "한화가 1라운드 민주홍을 포함한 신인 14명의 입단식을 열었다. 머니투데이에 따르면 민주홍은 '왜 1라운드인지 증명하겠다'고 했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "신인 14명 입단식, 민주홍 각오"
+}

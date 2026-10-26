@@ -1,0 +1,23 @@
+{
+  "id": "news-303d260d",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "한스경제",
+  "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=876349",
+  "title": "타순 바꾼 삼성… 박진만 감독 \"박승규 주력 고려\"",
+  "published_at": "2026-10-26T07:25:21.000Z",
+  "collected_at": "2026-10-26T07:38:33.759Z",
+  "summary_ko": "한스경제는 타순을 바꾼 삼성 박진만 감독이 박승규의 주력을 고려했다고 밝혔다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "박승규 주력 보고 타순 조정"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "news-c704ac44",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "news",
+  "source_name": "디트NEWS24",
+  "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBlRHZ3cEljV0kyMUVfOUs1WkE5Wlk0WHh4eFNBUlhLa1lHa0RpaS1EWWM4bTdCQllUdkRkNmZ6S2VBOG9qZFNYZzFCbEY2LWR4enl0R3dTZmVEcjNXTm5jVzgybEF0TENzMldv?oc=5",
+  "title": "[시즌 마감] ‘야구에 산다!’ 2026 한화이글스 어워드!",
+  "published_at": "2026-10-26T05:02:42.000Z",
+  "collected_at": "2026-10-26T07:38:33.759Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

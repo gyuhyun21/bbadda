@@ -1,0 +1,29 @@
+{
+  "id": "news-a538741e",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "투데이플러스",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE90aVFDaWtGVjFoSGM3VUNIc0JodUUyblRkOGUxbGEwOWpfWWtvSTFKUVBSay1iU1dzcDUyTnFtUnpTLUxJY3NfbFcxS0taaE1NQTdYcjBvT2NCazZqSkowNllDRDJ2R1lh?oc=5",
+  "title": "홍성군, 김태균 야구캠프 개최… 전국 유소년 52명 꿈 키워",
+  "published_at": "2026-10-25T20:57:18.000Z",
+  "collected_at": "2026-10-26T07:38:33.759Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 80,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "뉴스파고",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE8zOUdYRWphMVhsNVBZTkZHQXNvWE84eHQxYmROMHJiT2s4bXVhYVczX0l2X2NZTTlYTS1maGZ1cEV2S240?oc=5"
+    }
+  ]
+}

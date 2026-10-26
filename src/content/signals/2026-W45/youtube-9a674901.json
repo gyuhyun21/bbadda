@@ -1,0 +1,26 @@
+{
+  "id": "youtube-9a674901",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "youtube",
+  "source_name": "엘지사모",
+  "url": "https://www.youtube.com/watch?v=flWBO8Oa44A",
+  "title": "'LG트윈스' 코치 교체 메시지는 적절한 타이밍이었나? #차명석 #염경엽 #마무리캠프",
+  "published_at": "2026-10-26T04:02:41Z",
+  "collected_at": "2026-10-26T07:38:33.759Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 3352,
+    "likes": 46,
+    "comments": 11
+  },
+  "scores": {
+    "hot": 54,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

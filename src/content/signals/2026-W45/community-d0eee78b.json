@@ -1,0 +1,31 @@
+{
+  "id": "community-d0eee78b",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia",
+    "lotte"
+  ],
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/10486564610",
+  "title": "KBO는 물론 삼성-KIA에 연신 고개 숙인 롯데 - 야구",
+  "published_at": "2026-10-26T05:38:33.759Z",
+  "collected_at": "2026-10-26T07:38:33.759Z",
+  "summary_ko": "",
+  "excerpt": "... https://m.sports.naver.com/kbaseball/article/477/0000635021지난 25일 NC 다이노스 창단 첫 통합우승을 이끈 이동욱 감독이 롯데 차기 사령탑, ...",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "SPOTV NEWS",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9nN0tzcVQzUWJkazZncmlxR09RZEpBVlJHMGtiT1dpMjkyY1QxMmNIa19RM1ZqNTY1STRkMkFrVDFNZmFPcWlHWE9sckxkdFI4V0NkalptbVhZZ1hLWFh4bFRtNGljaU1FcHFENWF1djI?oc=5"
+    }
+  ]
+}

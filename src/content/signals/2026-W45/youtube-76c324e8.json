@@ -1,0 +1,27 @@
+{
+  "id": "youtube-76c324e8",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "딱 그 플레이",
+  "url": "https://www.youtube.com/watch?v=jc0TV35hfmI",
+  "title": "땅에 닿기 직전인데? 이정후가 몸을 날려 지운 안타",
+  "published_at": "2026-10-25T17:12:50Z",
+  "collected_at": "2026-10-26T07:38:33.759Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 0,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}
