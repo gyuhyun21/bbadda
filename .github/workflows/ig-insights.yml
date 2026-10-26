@@ -48,8 +48,10 @@ jobs:
             echo "### @$(jq -r .account.username stats.json) 팔로워 $(jq -r .account.followers stats.json) · $D"
             echo "| 게시 | 형식 | 조회 | 도달 | 저장 | 공유 | 반응 | 평균 시청(초) | 첫 줄 |"; echo "|---|---|---|---|---|---|---|---|---|"
             jq -r '.posts[] | "| \(.ts[5:16]) | \(.product // .type) | \(.m.views // "-") | \(.m.reach // "-") | \(.m.saved // "-") | \(.m.shares // "-") | \(.m.total_interactions // "-") | \(if .m.ig_reels_avg_watch_time then ((.m.ig_reels_avg_watch_time / 100 | floor) / 10) else "-" end) | \(.first | gsub("\\|"; "/")) |"' stats.json
-            e=$(jq -r '[.posts[] | .err // empty] | first // empty' stats.json); [ -n "$e" ] && echo && echo "지표 오류(예): $e"
+            e=$(jq -r '[.posts[] | .err // empty] | first // empty' stats.json)
+            if [ -n "$e" ]; then echo; echo "지표 오류(예): $e"; fi
           } >> "$GITHUB_STEP_SUMMARY"
+          true
       - name: insta-media 브랜치에 쌓기
         run: |
           set -euo pipefail
