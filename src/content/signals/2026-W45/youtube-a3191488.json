@@ -1,0 +1,26 @@
+{
+  "id": "youtube-a3191488",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "youtube",
+  "source_name": "응원가브리살",
+  "url": "https://www.youtube.com/watch?v=bncb8AEyrKc",
+  "title": "前 두산 베어스 박계범 응원가 Music Video",
+  "published_at": "2026-10-26T13:11:27Z",
+  "collected_at": "2026-10-26T21:38:32.484Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 22,
+    "likes": 1,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 55,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

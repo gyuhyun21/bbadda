@@ -1,0 +1,23 @@
+{
+  "id": "news-ee656860",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "www.stnsports.co.kr",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBULXZDSHNpSnp4SWVMbHFmYllwN25GcUxxX1djYkRIWnFxY0lJbnhnZHh0TEg1UWRBUWkzN3JvQ0FzR2M5dktra2NHa1NCN0RXYnlaVkhlU3llVGI0V2tQcmZfNmxXNWwyNHZ0aC0wOA?oc=5",
+  "title": "가을야구 42경기 연속 매진... 올해 누적 관중 10만8650명",
+  "published_at": "2026-10-26T18:46:56.000Z",
+  "collected_at": "2026-10-26T21:38:32.484Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 83,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

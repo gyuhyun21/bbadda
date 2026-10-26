@@ -1,0 +1,26 @@
+{
+  "id": "youtube-dd5a852d",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "youtube",
+  "source_name": "호랭이 덕아웃",
+  "url": "https://www.youtube.com/watch?v=S3o48FHiyns",
+  "title": "9년의 기다림, 롯데 판을 바꿨다 | 새 감독 이동욱·새 단장 이택근 #shorts",
+  "published_at": "2026-10-26T15:15:07Z",
+  "collected_at": "2026-10-26T21:38:32.484Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1415,
+    "likes": 8,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 39,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

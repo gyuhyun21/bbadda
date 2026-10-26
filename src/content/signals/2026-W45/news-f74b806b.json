@@ -1,0 +1,24 @@
+{
+  "id": "news-f74b806b",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://www.sportschosun.com/baseball/2026-10-26/202610270100166900010901",
+  "title": "\"비밀 카드였다\" 원태인, 1차전 불펜 대기했다...2차전도 한다, 선발은 언제 던지나 [PO 현장]",
+  "published_at": "2026-10-26T21:07:07.000Z",
+  "collected_at": "2026-10-26T21:38:32.484Z",
+  "summary_ko": "원태인이 1차전에 불펜으로 대기했고 2차전에도 대기한다는 보도다. 선발 등판 시점이 관심사다.",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "원태인, 2차전도 대기"
+}

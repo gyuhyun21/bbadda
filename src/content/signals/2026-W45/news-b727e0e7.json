@@ -1,0 +1,29 @@
+{
+  "id": "news-b727e0e7",
+  "issue": "2026-W45",
+  "module": "league",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://www.mt.co.kr/sports/2026/10/27/202610262230777326O",
+  "title": "\"내가 실수하면 잡은 경기 내줄 것 같았다\" 네일 헤드샷 돌발 퇴장, 급박했던 불펜...이범호는 어떻게 최상 결과 냈나",
+  "published_at": "2026-10-26T16:30:00.000Z",
+  "collected_at": "2026-10-26T21:38:32.484Z",
+  "summary_ko": "네일이 헤드샷으로 퇴장한 급박했던 상황과 이범호 감독의 불펜 운용을 다룬 기사다.",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 30
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMVFtWTVlcTgxV2lxTVRlaE9FQkhYLU1Gd0VDZGtrajR4b3FrVUhxNFpFT18zZUp1MGZVSW9FYU5sb1ZsQnRiWktyS28xWXROWlpaZVd3TzIzMHZvemJmWWkxZHJxMFF3S0lDQjJ1TnZLemh0dmI4RnZOMzJ5RC1DdXhMaw?oc=5"
+    }
+  ],
+  "brief_ko": "네일 퇴장, 급박했던 불펜",
+  "team": "kia"
+}

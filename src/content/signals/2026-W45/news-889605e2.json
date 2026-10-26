@@ -1,0 +1,22 @@
+{
+  "id": "news-889605e2",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "매일경제",
+  "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFB1aVJWSlE2c282UE1KNlNlWi1KdzdLOHJkS0dPQlNNZHVFX1NKVG0tUnhBRWFSV09xOC1sUFZ6QzVHYTlzOVE?oc=5",
+  "title": "2패 ERA 5.25→4.2이닝 5실점…끝내 호랑이 공포증 떨쳐내지 못한 삼성 페덱",
+  "published_at": "2026-10-26T10:56:30.000Z",
+  "collected_at": "2026-10-26T21:38:32.484Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 72,
+    "relevance": 80
+  },
+  "sentiment": "neutral"
+}

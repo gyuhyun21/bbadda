@@ -1,0 +1,23 @@
+{
+  "id": "news-9284fd8b",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스핌",
+  "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8wd3R6bWtKMVRvZk1oNFJYQ2ZreHR5aXVuQnVLb05pQUFVaFNPMTA4bHRLN1M0aXptZjl3VWNUcGZrcUwwblctS2lXRVM2eVhDR09zclFDRFRVZ2Iz?oc=5",
+  "title": "[AI상보] '김도영 3출루+카스트로 3타점' KIA, 1차전서 삼성 제압",
+  "published_at": "2026-10-26T12:52:00.000Z",
+  "collected_at": "2026-10-26T21:38:32.484Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 80
+  },
+  "sentiment": "neutral"
+}

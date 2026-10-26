@@ -1,0 +1,26 @@
+{
+  "id": "youtube-f7016845",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "youtube",
+  "source_name": "선미 SUNMI",
+  "url": "https://www.youtube.com/watch?v=DKLHff3h90g",
+  "title": "[BEHIND] 선미(SUNMI) 두산 베어스 시구 비하인드",
+  "published_at": "2026-10-26T11:00:33Z",
+  "collected_at": "2026-10-26T21:38:32.484Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 4887,
+    "likes": 258,
+    "comments": 32
+  },
+  "scores": {
+    "hot": 81,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

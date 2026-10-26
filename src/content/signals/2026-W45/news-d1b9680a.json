@@ -1,0 +1,24 @@
+{
+  "id": "news-d1b9680a",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "ssg",
+  "teams": [
+    "ssg",
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "조선일보",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNmNJNW8wbDgzbnZkZS0xbmNzbGpnN1I0aG5FNzBzc2FrVnFMeHFINTROLU1idmtrQ1BzRXUxS0NjVTZ5Tm83RHJONmE5S3dweGYxa3B3QVBlUDFEVDlpOElhaWNIbWFYSUxuWDZ0bWg2bnVIeFdpVTNsY0hSckVvc3NpSQ?oc=5",
+  "title": "\"제가 빠지는 게 맞다\" 우승청부사의 진심에 사령탑의 단호한 한마디[PO1 현장]",
+  "published_at": "2026-10-26T08:47:00.000Z",
+  "collected_at": "2026-10-26T21:38:32.484Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 71,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

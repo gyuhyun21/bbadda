@@ -1,0 +1,23 @@
+{
+  "id": "news-fe352d23",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "데일리스포츠한국",
+  "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9hNEI2ZFc3V01oZUp0R0d6cmFjVFdMbS1meGdZMGdqbERjOHEzajl4TVJTaUtJUFJ6eTQtdV9naGVNQXZMY0VTRjhyMDUtOTNtdlBRcG42UHFPZy1PWXo5NWRoV1ZFM25mRFN0RzNCZUNyYlc0bnFBZjF2ONIBf0FVX3lxTE1uXzRnUWRDa1JjQXlxbVNyTWpiRldDdm4zVDUyb2hCZU9XN3poSjM1Xy00Mjd5RUpuR2JTSTg4S0g4S2FvcnVibElVcHNYbWRxRmVsa25UZXIxVF82Z0VLbGhnYkh2VXBtQldiNTlBaXk4bVNsRVZJd05sMGttc3M?oc=5",
+  "title": "'카스트로 3타점·불펜진 철벽 계투' KIA, 삼성 꺾고 PO 1차전 선점",
+  "published_at": "2026-10-26T13:09:17.000Z",
+  "collected_at": "2026-10-26T21:38:32.484Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 80
+  },
+  "sentiment": "neutral"
+}

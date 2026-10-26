@@ -1,0 +1,22 @@
+{
+  "id": "community-bba72849",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 성균관대학교 스포츠매거진",
+  "url": "https://blog.naver.com/eskaka/224454348258",
+  "title": "[2026 선수 인터뷰] 타격왕에서 두산의 미래로, 김준우의 새로운 시작",
+  "published_at": "2026-10-26T18:14:00.000+09:00",
+  "collected_at": "2026-10-26T21:38:32.484Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

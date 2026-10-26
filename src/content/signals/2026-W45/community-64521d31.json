@@ -1,0 +1,22 @@
+{
+  "id": "community-64521d31",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 베이스볼투데이",
+  "url": "https://blog.naver.com/cartech-insite/224454802520",
+  "title": "“불꽃야구 이택근이 롯데 단장?” 9년째 가을야구 못 간 롯데의 파격 선택",
+  "published_at": "2026-10-27T05:00:00.000+09:00",
+  "collected_at": "2026-10-26T21:38:32.484Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

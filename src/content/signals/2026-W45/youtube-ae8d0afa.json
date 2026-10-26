@@ -1,0 +1,27 @@
+{
+  "id": "youtube-ae8d0afa",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "롯끼룩",
+  "url": "https://www.youtube.com/watch?v=KpEPniAyUzY",
+  "title": "지금은 도나스가 최고 [9년 연속 프로불참러가 방구석에서 책임감 없이 구경하는 플레이오프 1차전]",
+  "published_at": "2026-10-26T16:50:30Z",
+  "collected_at": "2026-10-26T21:38:32.484Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 11467,
+    "likes": 184,
+    "comments": 28
+  },
+  "scores": {
+    "hot": 60,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

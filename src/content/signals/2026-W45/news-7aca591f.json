@@ -1,0 +1,22 @@
+{
+  "id": "news-7aca591f",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠월드",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5mc3lJeE1TOWJGMEhKNTQzN1hCWUVkY2hvSVpkSE1SQTJDM2tOT2gyWmNKcDRJOGxGbEtMZTNzUWhENkwwbzVMVzJQSnJCMThHNUJrWEp6RlY3cmlLZU9JVm9n?oc=5",
+  "title": "[SW시선] 구단이 배제된 인사…롯데만 있고, 자이언츠는 없었다",
+  "published_at": "2026-10-26T21:00:00.000Z",
+  "collected_at": "2026-10-26T21:38:32.484Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

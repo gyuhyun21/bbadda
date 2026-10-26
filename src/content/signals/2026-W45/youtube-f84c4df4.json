@@ -1,0 +1,26 @@
+{
+  "id": "youtube-f84c4df4",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "source_name": "린지",
+  "url": "https://www.youtube.com/watch?v=Bay0KWmvyIA",
+  "title": "2026시즌 한화 이글스 오웬 화이트 삼진모음 (99K)",
+  "published_at": "2026-10-26T15:00:13Z",
+  "collected_at": "2026-10-26T21:38:32.484Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 87,
+    "likes": 2,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 49,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "community-6abfde45",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 다양한 정보 l 꿀팁",
+  "url": "https://blog.naver.com/honeybeeinfo/224450206359",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/Ev7NGcMjljE",
+  "title": "역대급 야구선수 치어리더 부부 모음",
+  "published_at": "2026-10-26T19:35:00.000+09:00",
+  "collected_at": "2026-10-26T21:38:32.484Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

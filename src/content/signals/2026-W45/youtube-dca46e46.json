@@ -1,0 +1,33 @@
+{
+  "id": "youtube-dca46e46",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "오브릭 ORBRIC",
+  "url": "https://www.youtube.com/watch?v=Z5_oZ5Ffry8",
+  "title": "삼성 KIA 플레이오프 2차전: 정규시즌 3위 기아, 2위 삼성 안방서 1차전 승리 · 포스트시즌 6연승 #KBO #삼성 #오브릭 #기아타이거즈 #플레이오프 #삼성라이온즈",
+  "published_at": "2026-10-26T16:05:07Z",
+  "collected_at": "2026-10-26T21:38:32.484Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1443,
+    "likes": 15,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 44,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "국제뉴스",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9rX0RKSmtvMkhZN0ZLNEp5TEYwZFFKNnBaQzdwMVduWm0xVTcxZlRlN0ZqRXpYVmU2TW5Kb1EwTnlJZnBObktYVGlRbXMxOUR5Umg0X0hUMjRWbzk3ZkxGTHNvUF9VbEZoWE9VaHFR?oc=5"
+    }
+  ]
+}

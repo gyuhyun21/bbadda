@@ -1,0 +1,23 @@
+{
+  "id": "news-5c3a688e",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "연합뉴스",
+  "url": "https://www.yna.co.kr/amp/view/AKR20261026173600007",
+  "title": "PS 첫 승리 챙긴 KIA 이의리 \"공격적으로 던진 게 통했다\"",
+  "published_at": "2026-10-26T13:38:20.000Z",
+  "collected_at": "2026-10-26T21:38:32.484Z",
+  "summary_ko": "이의리가 포스트시즌 첫 승리를 올린 뒤 \"공격적으로 던진 게 통했다\"고 말했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 81,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "brief_ko": "이의리, PS 첫 승"
+}

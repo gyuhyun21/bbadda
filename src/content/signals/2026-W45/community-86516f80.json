@@ -1,0 +1,23 @@
+{
+  "id": "community-86516f80",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 롱시피 Longcipe",
+  "url": "https://blog.naver.com/thadl106/224454810419",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/EmPul0UAvSc",
+  "title": "[속보] '레전드 타자' 손아섭, 왜 다시 NC 다이노스로 향하나?",
+  "published_at": "2026-10-27T01:33:00.000+09:00",
+  "collected_at": "2026-10-26T21:38:32.484Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

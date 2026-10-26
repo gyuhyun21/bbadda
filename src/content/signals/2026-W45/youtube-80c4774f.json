@@ -1,0 +1,41 @@
+{
+  "id": "youtube-80c4774f",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "NURIM튜브",
+  "url": "https://www.youtube.com/watch?v=eJs1cnjvNSc",
+  "title": "“단 2안타였습니다” 삼성이 KIA에 5-1로 PO 1차전을 내줬습니다, 박진만 감독은 2차전에서 무엇을 바꿀까? (카스트로 3타점·77.1%)",
+  "published_at": "2026-10-26T15:30:36Z",
+  "collected_at": "2026-10-26T21:38:32.484Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 4,
+    "likes": 0,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 48,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "연합뉴스TV",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9lb3BsNFQtSnlGVGdFV2M2ZVlHaXJTTlRUN0o5dk82SFBwcmhLbHU5OUEzUC12MGR1RlhEdWVrZUFrQ015YTFMbmRmQWZyc2huNVdlTDlxYm4tTnpET3llOWxlem50ZlE?oc=5"
+    },
+    {
+      "source_name": "https://www.theleader.co.kr/",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9jY0toZkhEMDAtMElsZ1k0dERyUk5EN1p2TVJpREw0dEpla3JvWHNVekJ2ZlNyc1pGWmtCTUJENGhDUktkeDMwb2MxNWx3TUpTXzBRNlVrdE11eWVfVzJDbktvZmRTMmVCSDBqNDZR?oc=5"
+    },
+    {
+      "source_name": "아시아뉴스통신",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE52cnJfM1lJQzA0VEJWdC1BOERfbDA3eGVLZnJQTVUxRThSajcwNzZUaFM1eVpqaEVMRXI2YUtSb3VyVnN6eFJRaC1VOVljQ3ZsZ090RUNrWWlYLVFm?oc=5"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "news-d83d4e3f",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE95bHlmQUNKQjRYOGJrOGZVTHhqS0pkX204Z1hqYndSa2tzZUVlU1FuRjNVQzdwazh3ajY0aXRtdFAzU3JxZ3FOOW5xaGlaU2ZZNkJoaFRRaG5xTUh1TVhzNnRyd3lMTVRQNU9wSHNTdGFldjBmMHNnc2dkcG1nQQ?oc=5",
+  "title": "'역시 슈퍼스타' 김도영, 또 기록 불러냈다…투수 피 말린다, 26년 묵은 기록 소환 [PO1]",
+  "published_at": "2026-10-26T12:04:18.000Z",
+  "collected_at": "2026-10-26T21:38:32.484Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 81,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTV8zM2loUU5TTmNBZ0gyM1dnekRYcG9VWm5qb29LVE5hZk9yRUZ6SFZWMUJXM0ZSUUZnY0JES0h6MlFWZHVQNWQ2YVBKQjVBb0hETUx2Qnc1eEs0Tzc0X19JRFdocFlxdUJDRTNmb0hXbEhHN2tWRG1jeDNkYVV5R3ltNA?oc=5"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "community-624d08b0",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 공감 블로그 시선집중",
+  "url": "https://blog.naver.com/yhmlkh/224454640624",
+  "title": "카스트로 3타점 폭발! KIA, 삼성 5-1 제압…한국시리즈 진출 확률 77.1% 잡았다",
+  "published_at": "2026-10-26T22:10:00.000+09:00",
+  "collected_at": "2026-10-26T21:38:32.484Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 97,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Wdnp0XzBfaFdSWVoyM05OaFhvZHZhb2FpRUVQVVRPTXpzOHBISDJXeEhZR3BZQjhWaTZncS1HNExGR01YSE1RWk1TRkhjYzl6R3NsRlI2aHJJenhkTTF2aTVPMHAweGFENEHSAW9BVV95cUxOQUpxV21naENMNW95MlloNldySXdxVi1tZGNwRWZHMktaZzhlUHFPMzhjS3R1WFdhRi1JT2VIZ2Z4MzRaeGc5SkZ3TFI5b3p3TzJIVjN3ekVqZ1VpajEzZ0pZemNjVEtQaDROZEVkUkE?oc=5"
+    },
+    {
+      "source_name": "Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNR1pMSmJOQnE0RU1oZ3hmSllqZzNjSUFQbHFxYll6U0s4SXdBV2pyRDVMMEhxWjFCSGZ3Wm5uME1EZi1HX0J2akNLeTdjUkRKZzIzeDctMWlicEYtTUVWVG5tNlY4VWc2UDFvNUNqV3ZTb0ktQWRrUlRoSTBXYzhlWnFOY3BZSXJJa1NVT01zalk3NFhzM0M5ZG9lVUnSAZwBQVVfeXFMTUdaTEpiTkJxNEVNaGd4ZkpZamczY0lBUGxxcWJZelNLOEl3QVdqckQ1TDBIcVoxQkhmd1pubjBNRGYtR19CdmpDS3k3Y1JESmcyM3g3LTFpYnBGLU1FVlRubTZWOFVnNlAxbzVDald2U29JLUFka1JUaEkwV2M4ZVpxTmNwWUlySWtTVU9Nc2pZNzRYczNDOWRvZVVJ?oc=5"
+    },
+    {
+      "source_name": "서울경제",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAxR1VvenloclZlX1Z3ZHRTVWE0WEVCMmlKZnVBRG9MenVsRmxETXlUQ3lkRFU3QmozT3duaU4tNmQ5U2Y0Wm1mVVAtSFlOeUZTcTZB0gFTQVVfeXFMUDFHVW96eWhyVmVfVndkdFNVYTRYRUIyaUpmdUFEb0x6dWxGbERNeVRDeWREVTdCajNPd25pTi02ZDlTZjRabWZVUC1IWU55RlNxNkE?oc=5"
+    },
+    {
+      "source_name": "미디어펜",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE96VjJkbkxJU3hneU42WTJfbmlzcjVwUy1lcWhmMk1DR2xqcU1NTXBZcVZVMlc4S3RQUHRXU1FfLXJaWFhwNmNOc0pOcWRlVzRRZF9hMnhIR1fSAVhBVV95cUxPelYyZG5MSVN4Z3lONlkyX25pc3I1cFMtZXFoZjJNQ0dsanFNTU1wWXFWVTJXOEt0UFB0V1NRXy1yWlhYcDZjTnNKTnFkZVc0UWRfYTJ4SEdX?oc=5"
+    }
+  ]
+}

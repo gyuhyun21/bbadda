@@ -1,0 +1,24 @@
+{
+  "id": "community-97375c6e",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc",
+    "lotte"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 스포츠 인사이트",
+  "url": "https://blog.naver.com/good_basket/224454863852",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/DEqq50T7kmk",
+  "title": "손아섭 NC 복귀설, 롯데보다 맞아 보이는 이유",
+  "published_at": "2026-10-27T03:41:00.000+09:00",
+  "collected_at": "2026-10-26T21:38:32.484Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

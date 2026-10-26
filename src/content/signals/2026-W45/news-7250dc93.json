@@ -1,0 +1,23 @@
+{
+  "id": "news-7250dc93",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "경북일보",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1VRl9oRDAxd3oyVTdSMFJOUEpyZFFnaUtwN0JvY2UteXZ3eVdSd3AwLUZ2Q2ZteTBIOEE3UWc0RjdLWEQ5cUNibS1taUtUakZGWTEwNjRaUlZwSm5NM1VMWWVvTEhLYkNOdXh3YTdJWQ?oc=5",
+  "title": "삼성, 네일 퇴장에도 반격 불발…KIA에 PO 첫판 1대5 패",
+  "published_at": "2026-10-26T13:14:10.000Z",
+  "collected_at": "2026-10-26T21:38:32.484Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 73,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

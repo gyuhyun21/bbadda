@@ -1,0 +1,30 @@
+{
+  "id": "news-6bcc720b",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://www.mt.co.kr/amp/sports/2026/10/26/202610261942775295O",
+  "title": "‘우천취소도 가을야구 흥행 막을 수 없다’ 삼성-KIA 1차전, 2만3550석 매진…PS 42G 연속 매진 행진 [PO1]",
+  "published_at": "2026-10-26T10:44:00.000Z",
+  "collected_at": "2026-10-26T21:38:32.484Z",
+  "summary_ko": "비로 하루 미뤄진 PO 1차전이 2만3550석 매진을 기록해 포스트시즌 42경기 연속 매진을 이었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 72,
+    "relevance": 80
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "스포츠월드",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9QN3YwVFhlQk8tb0VUVlpwdi1LWEhmX3NHbkw1akJramlSZ0x4M2Zxa1VRQWtPUHBHZUpMR3pwV2FSOWloaGVsS3ZEblBhR3FxOE5VMDVhaEhrNEI3clNkcGp3?oc=5"
+    }
+  ],
+  "brief_ko": "PS 42경기 연속 매진"
+}

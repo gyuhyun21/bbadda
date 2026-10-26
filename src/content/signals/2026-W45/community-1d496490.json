@@ -1,0 +1,24 @@
+{
+  "id": "community-1d496490",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/10488221092",
+  "title": "\"품질 보증\" - 야구",
+  "published_at": "2026-10-26T13:38:32.484Z",
+  "collected_at": "2026-10-26T21:38:32.484Z",
+  "summary_ko": "",
+  "excerpt": "... 기아타이거즈 포스트시즌 6연승 [7]. 3 분 전 자유 홍현우 조회235 추천8. 기아타이거즈 포스트시즌 6연승…",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

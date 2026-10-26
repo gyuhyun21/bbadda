@@ -1,0 +1,32 @@
+{
+  "id": "youtube-7c05d108",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "source_name": "KKK사랑",
+  "url": "https://www.youtube.com/watch?v=KEdrahloEdg",
+  "title": "한화이글스 신인선수 성재우 입단식",
+  "published_at": "2026-10-26T13:10:53Z",
+  "collected_at": "2026-10-26T21:38:32.484Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1178,
+    "likes": 4,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 37,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "대전일보",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAyWW9ZVjZNYW1wSkVVYVZmUWJ6aHNGdFh2SmRUbnZUcjNxd19PNHdXYTRRd1A4SjVPRkhVekxJRFplamhOSzVuQ0t2bXBEQ25WNW1ZRmhoNXFnNW9uLUxQS1p0V1JpM3ZaeGU5a0lkNHhXS1nSAXNBVV95cUxQMllvWVY2TWFtcEpFVWFWZlFiemhzRnRYdkpkVG52VHIzcXdfTzR3V2E0UXdQOEo1T0ZIVXpMSURaZWpoTks1bkNLdm1wRENuVjVtWUZoaDVxZzVvbi1MUEtadFdSaTN2WnhlOWtJZDR4V0tZ?oc=5"
+    }
+  ]
+}

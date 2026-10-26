@@ -1,0 +1,24 @@
+{
+  "id": "community-d226abf2",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 오늘의핵심",
+  "url": "https://blog.naver.com/todayissuee/224454622739",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/L9Dx6dOKQOR",
+  "title": "추신수 아들 타구속 166km, 2028년 괴물 유망주 정체",
+  "published_at": "2026-10-26T22:24:00.000+09:00",
+  "collected_at": "2026-10-26T21:38:32.484Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

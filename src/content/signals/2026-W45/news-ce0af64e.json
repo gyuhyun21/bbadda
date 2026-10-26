@@ -1,0 +1,23 @@
+{
+  "id": "news-ce0af64e",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE91TVRWN0pYTU1SUExhZWRhNFI5N3NNYWQ3MWZtbFI3R2t3dTlLVXZ6aWJrRldMTHdtQ2UtaVZwcDVNZ3BEa2hwaFhJV3ZLcFlaR0Z4d09ZS1BLaWNQRTlpbnRLZkJlb3pfMU5qOHI3WVprTDlCbm9VUDBPZWxWQQ?oc=5",
+  "title": "'홈런인가' 대형 타구 감상…'슈퍼스타'가 '월드스타' 될 뻔 했다고? '질주 본능'에도 3루타 계획에 없었다",
+  "published_at": "2026-10-26T20:23:26.000Z",
+  "collected_at": "2026-10-26T21:38:32.484Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

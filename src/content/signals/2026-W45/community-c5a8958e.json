@@ -1,0 +1,24 @@
+{
+  "id": "community-c5a8958e",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&page=5&document_srl=10488855460",
+  "title": "챔필 근데 쓰레기 수치가 이게 맞나 비정상적인데 - 야구",
+  "published_at": "2026-10-26T18:38:32.484Z",
+  "collected_at": "2026-10-26T21:38:32.484Z",
+  "summary_ko": "",
+  "excerpt": "... alpha07 전국 프로야구장의 일반폐기물 배출량이 증가하는 가운데 광주-KIA 챔피언스필드는 오히려 쓰레기가 줄어든 것으로 나타났다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "news-56b41e7f",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5qUnVOTzFKMXRCWndQejRWSDhIemhtdHBWVV9DNmhnQUs3R096MWllU1hsWTd5MnVvbDRhLXAtVW9hMnJoQjFkRTNGYnNYTno4bWMwU1NkSW9TS3hLbjBHNjduemZhMVBWdHhNZHhxc9IBb0FVX3lxTE5qUnVOTzFKMXRCWndQejRWSDhIemhtdHBWVV9DNmhnQUs3R096MWllU1hsWTd5MnVvbDRhLXAtVW9hMnJoQjFkRTNGYnNYTno4bWMwU1NkSW9TS3hLbjBHNjduemZhMVBWdHhNZHhxcw?oc=5",
+  "title": "[사진]가을야구 열기 가득한 삼성라이온즈파크",
+  "published_at": "2026-10-26T11:11:00.000Z",
+  "collected_at": "2026-10-26T21:38:32.484Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 80,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYVZ1ZFFZdjlZQUVGeVlNaGRwWUhkRE1HYzhSbHBsRlN1Um9RNHE1NGVDUThCY2dCS3JQc0c0Z3lmVnExYWJuMGtFc1pxSFMtSVN2VldCTWZYQW9VeVludWRaVW05M2pfdXFLR0lOdEN2dV9SVzV4emZWNDVVZThfd0NWWFRYWDRs0gGcAUFVX3lxTE82bUhZd3R2ZTZSQjJWVGpkYzlDVDVNak8yZ05sNWgyRW9Kc09iVGZFdGVsQVJpR2M3Q2hRYkxfZjZxRWw0VloycmtDTEF1QnNCY2lCemFRc3pjeTJXcXQ1UjZBR2ZCT2tvR0dLcUY1R3FzcjlVQk5KRjRCeFAxR1dZNVJfU0oyUFFMcTZYdGFOTDlic2NFY2p6QU9heA?oc=5"
+    },
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaldhallncUtOUHZOZFFGZjd5RlNSM00wYTZSeHN6QkFmLTVwNlJOYzJFV09PbUJ1V244WVFFNC1PZWt6ZTBNNW5OaHJWQlRxWGFpNjQ4a0tqdFd6b3NjZ0ltVFNacEcxX0JHQjdZWG5RdUdLXzZvUFVHSk94bXU4dHlseFJJQm9M?oc=5"
+    }
+  ]
+}

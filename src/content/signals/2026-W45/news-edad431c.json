@@ -1,0 +1,23 @@
+{
+  "id": "news-edad431c",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠한국",
+  "url": "https://sports.hankooki.com/news/articleView.html?idxno=6942277",
+  "title": "PO 엔트리 이탈한 ‘클로저’ 김재윤 “이승민과 배찬승 다 좋다”[PO1]",
+  "published_at": "2026-10-26T08:18:26.000Z",
+  "collected_at": "2026-10-26T21:38:32.484Z",
+  "summary_ko": "부상으로 PO 엔트리에서 빠진 김재윤이 마무리 후보 이승민·배찬승에 대해 말했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "negative",
+  "brief_ko": "김재윤, 후배 마무리 응원"
+}

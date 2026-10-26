@@ -1,0 +1,27 @@
+{
+  "id": "youtube-19e75f1f",
+  "issue": "2026-W45",
+  "module": "league",
+  "teams": [
+    "kia"
+  ],
+  "team": "kia",
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=5vj8XqtY06c",
+  "title": "KIA에는 카스트로도 있습니다! 카스트로의 투런포💥💥",
+  "published_at": "2026-10-26T10:51:15Z",
+  "collected_at": "2026-10-26T21:38:32.484Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 44141,
+    "likes": 1010,
+    "comments": 32
+  },
+  "scores": {
+    "hot": 70,
+    "relevance": 80
+  },
+  "sentiment": "neutral"
+}

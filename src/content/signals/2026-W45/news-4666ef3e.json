@@ -1,0 +1,29 @@
+{
+  "id": "news-4666ef3e",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "연합뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1LdDFNUzBVNnNadHZTTVJER3Jtb0xlTTd2TTN2Rm1DQWxOREg3ODEweFo5Nlp4cUREa1F4eEZnNklkRW55bzJTTzVXNnlrbmRkaHZ6TjV2NUJZbzVXY0pza9IBYEFVX3lxTE1LdDFNUzBVNnNadHZTTVJER3Jtb0xlTTd2TTN2Rm1DQWxOREg3ODEweFo5Nlp4cUREa1F4eEZnNklkRW55bzJTTzVXNnlrbmRkaHZ6TjV2NUJZbzVXY0pzaw?oc=5",
+  "title": "잔디 예초는 2㎝로…KBO, PO 1차전 앞두고 그라운드 점검",
+  "published_at": "2026-10-26T09:24:16.000Z",
+  "collected_at": "2026-10-26T21:38:32.484Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 72,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0zaVBsM3FhTmphMEFNc1pDOGktb3JlTFlXeHRUQkZtTlp1WFVFWG9SM0lIMThHdl9DVzI0cFN1S3NPSGxxZWdDaUVpTGxsX25zT0FORlB6TVlNRFRfU2luV09lYmVreVVEOXU4SE1FWjZTSHhTcmhBatIBeEFVX3lxTE0zaVBsM3FhTmphMEFNc1pDOGktb3JlTFlXeHRUQkZtTlp1WFVFWG9SM0lIMThHdl9DVzI0cFN1S3NPSGxxZWdDaUVpTGxsX25zT0FORlB6TVlNRFRfU2luV09lYmVreVVEOXU4SE1FWjZTSHhTcmhBag?oc=5"
+    }
+  ]
+}

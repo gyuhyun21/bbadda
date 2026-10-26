@@ -1,0 +1,26 @@
+{
+  "id": "youtube-40c7e9da",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "최강엘롯기",
+  "url": "https://www.youtube.com/watch?v=vRcK7jVBrEY",
+  "title": "오늘도 수달즈는 타이거즈를 든든하게 지켜줍니다 #김도영 #박재현  #kbo #기아타이거즈",
+  "published_at": "2026-10-26T20:30:14Z",
+  "collected_at": "2026-10-26T21:38:32.484Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 837,
+    "likes": 14,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 46,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

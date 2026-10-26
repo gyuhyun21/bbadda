@@ -1,0 +1,24 @@
+{
+  "id": "community-12675efb",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&page=8&document_srl=10486987297",
+  "title": "오해원 근데 뭐 충격받은일 있나 - 야구",
+  "published_at": "2026-10-26T07:38:32.484Z",
+  "collected_at": "2026-10-26T21:38:32.484Z",
+  "summary_ko": "",
+  "excerpt": "... 인기 [공원 펌] 이성열- 키움 히어로즈. [9]. 10.26 썰 대전루빅손 조회1.1만 추천38. [공원 펌]…",
+  "metrics": {},
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

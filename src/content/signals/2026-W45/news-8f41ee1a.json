@@ -1,0 +1,29 @@
+{
+  "id": "news-8f41ee1a",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5fYWhrem15NFh4RUw5SEFIYzcwWjEtUjdydmJnWTFqQ1ExaDkwRlpZWXhPdm9pWkZZaVdFRFg3QUpkMTdoa2NYaEx3cG80R01CcFdfbXZ5aXlyNDZUdW5GVTMwbkFocDc3V2Z4Skx6MGthYm5rTktaWmU5VHJ2QQ?oc=5",
+  "title": "'내 감자칩!' 결승타 상품이 사라졌다고? MVP의 비애, \"라커에 뒀는데…\" [PO1]",
+  "published_at": "2026-10-26T15:15:15.000Z",
+  "collected_at": "2026-10-26T21:38:32.484Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 82,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQLTBnS1VDOG5mektTaVEtS1dSRmF2MmFTdnY3Qy1Pb21Vd1ppOGVpTTNrWVpRYVJHaXdtYXVTTW5xNHFlb01SWGhUbE5xc1VuTEVtd2JwcDFQNlQ3THlXQkFUR1M3bTVINGJaTmVWaG83QVhudEhtaW1jQnB2UUhTTlNqZw?oc=5"
+    }
+  ]
+}

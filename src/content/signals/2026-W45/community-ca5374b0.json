@@ -1,0 +1,29 @@
+{
+  "id": "community-ca5374b0",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 생각나누기since200310",
+  "url": "https://blog.naver.com/minamida0712/224454748591",
+  "title": "“카스트로·한준수 홈런 폭발!” KIA, 삼성 5-1 완파…플레이오프 1차전 승리, 한국시리즈 진출 확률...",
+  "published_at": "2026-10-27T00:10:00.000+09:00",
+  "collected_at": "2026-10-26T21:38:32.484Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "톱스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBNQWR5MHJ2eWF3bzFCNkRpcnhQNWxIeHZmaWZDc3hJM01tS3NTT0RQeUQzM2hvT05mcjNnQjhWeDlObGpJSkNZUTBsR1pMcVZuSlctWnJHeXJlZ19pQlQyUG9Ldk9qa1hDMjlSTDMxTEhoUQ?oc=5"
+    }
+  ]
+}

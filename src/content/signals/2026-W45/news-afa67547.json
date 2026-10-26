@@ -1,0 +1,32 @@
+{
+  "id": "news-afa67547",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9MdGt2Rkk5elVmTWpQM2xmMzRlTVhnRXhuNURCc3g1bDB3RVhkeWRkTDlFRlo0aWlXLXUwcVhSYkl2NUtQbVB4c2xnV294cFc2RElrMUVWUUdoLVNTV2x1SHh0ZTdxQVMyM0HSAW9BVV95cUxQNzlUeHlKX1AxRDhMUW5KcFRWUVZIaXFOT0ZIUjEtNmU5Ylp2MV84YzVnUGxrNWRMSTB0b000Z0ZqdTBEVGpGdkZnWlpOdTZlTEtKVG1tcVpyM2JzNEpSMDBJQkR6VWVPaXB3bmF3Z2M?oc=5",
+  "title": "[사진] 나성범 추가 타점에 KIA 타이거즈 동료들 환호",
+  "published_at": "2026-10-26T10:06:00.000Z",
+  "collected_at": "2026-10-26T21:38:32.484Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 88,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVV9YOVlFZ2JvVFlYdGJOM3h0bGVPTFNDODNNRmhEMDNkMkFJMk1zejl5V1pLSHR5VVVXZUVSTkt3Yzh2aFpkbV9OVHVBMVQ0UEg0dUFVVkF5VnZidTBub0RBMXV3VGJZRGIySF9LUkhpVm5uU2NvaXRuSkcxcmNsUWo5Q29Bc1ZU0gGcAUFVX3lxTE1XZWN4WjJEcG9YMGxyeDVlVlhtX2VKQ3ZmV1F5Ml96X1VHVHJGUHFVejJKbFdLUDlrUC1VRVl5QVlyaUxCVW04RjNJbUZCYi1qYi14SnBDQ1BKLTVzMDlmQ3g1MC1IVTRZQjlHTldPMDg1cEdRZEVaNXVDY0VkeFhYR3JqNHBtTHRqZ05sdHNsVDJ6YlVOUlhXajRtRQ?oc=5"
+    },
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNU216TkhzSVRZcWR5VzJBTXVVX3EteFItNllhY2doSXR6dl9ZZml3YXMtaU52U2wtWnR5dDBvblhGQU9zanEta3k5dkhHODRfZmFEODdxRGtiMDBjSFVTVDBwN3FZQXJwWVBmUzRta0pJWURtZzBLcVNUMEV4elhtdGI2YW52eld6?oc=5"
+    }
+  ]
+}

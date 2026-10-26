@@ -1,0 +1,23 @@
+{
+  "id": "news-3e94f904",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스핌",
+  "url": "https://www.newspim.com/news/view/20261026001252",
+  "title": "[PO] 잡을 공 놓치고, 던진 공 빗나가고...삼성, 수비 불안에 1차전부터 와르르",
+  "published_at": "2026-10-26T21:00:00.000Z",
+  "collected_at": "2026-10-26T21:38:32.484Z",
+  "summary_ko": "삼성이 1차전에서 수비 실수와 송구 불안으로 흔들렸다고 짚은 기사다.",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "삼성, 수비 불안에 흔들"
+}

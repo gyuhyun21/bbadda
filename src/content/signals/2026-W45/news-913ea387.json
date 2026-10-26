@@ -1,0 +1,23 @@
+{
+  "id": "news-913ea387",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "news",
+  "source_name": "FT스포츠",
+  "url": "https://www.ftimes.kr/news/articleView.html?idxno=40665",
+  "title": "KBO 한화 달군 라이언 와이스 복귀설… 207K 재현 가능할까",
+  "published_at": "2026-10-26T12:11:19.000Z",
+  "collected_at": "2026-10-26T21:38:32.484Z",
+  "summary_ko": "보도에 따르면 지난해 207K를 기록한 라이언 와이스의 한화 복귀설이 나온다. 재현 가능성이 관심사다.",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 80
+  },
+  "sentiment": "positive",
+  "brief_ko": "와이스 복귀설 불거졌다"
+}

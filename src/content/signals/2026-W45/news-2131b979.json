@@ -1,0 +1,23 @@
+{
+  "id": "news-2131b979",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20261026_0003841926",
+  "title": "'네일 퇴장' 돌발 변수에도 굳건했던 KIA 불펜…박재현 '슈퍼캐치'도 빛났다[PO]",
+  "published_at": "2026-10-26T13:04:49.000Z",
+  "collected_at": "2026-10-26T21:38:32.484Z",
+  "summary_ko": "네일이 헤드샷으로 갑작스럽게 퇴장했지만 KIA 불펜이 흔들리지 않았다. 박재현의 호수비도 함께 조명됐다.",
+  "metrics": {},
+  "scores": {
+    "hot": 81,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "네일 퇴장에도 불펜 철벽"
+}

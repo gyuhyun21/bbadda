@@ -1,0 +1,27 @@
+{
+  "id": "youtube-1947b70a",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "DKTV Daniel",
+  "url": "https://www.youtube.com/watch?v=lfwIrvrqZW8",
+  "title": "KIA vs 삼성 \"운명의 1차전\" | 네일, 페덱 선발 맞대결 | 김도영 & 구자욱 3번 타자 출격 | 단기전은 결국 큰거 한 방? | 상상 입중계 플레이오프 1차전",
+  "published_at": "2026-10-26T16:47:35Z",
+  "collected_at": "2026-10-26T21:38:32.484Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 53147,
+    "likes": 465,
+    "comments": 5
+  },
+  "scores": {
+    "hot": 59,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

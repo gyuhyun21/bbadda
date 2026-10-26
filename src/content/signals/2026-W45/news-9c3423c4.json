@@ -1,0 +1,28 @@
+{
+  "id": "news-9c3423c4",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "미주중앙일보",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9XUGlna0RQOFlEaWVPeW9kb1ZyQzNKWTBNZFkzS0hBMHFxd0RmOUhVWDluQXk3cFhBQjRoUmhfVmxEbTFSakVvaVgyRXFQUVdsUHNUb3VGekxEZUFSYXExdFhB?oc=5",
+  "title": "“원태인이 왜 출장 명단에?” 적장도 의아했던 삼성의 선택…박진만 감독 “상황에 따라 꺼낼 비밀 카드였다” [PO1]",
+  "published_at": "2026-10-26T20:40:00.000Z",
+  "collected_at": "2026-10-26T21:38:32.484Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5IQUR1U1hscmpqR0pfWDdtdmFOeTNqcGRYN1lJdmYzLWw4b0c0N2xtQ08yMFFDd1MxSkxGaWtIcWI3aHVZNmxBbEFxNHU5bldLbkd1VmxpeExmVHBHSkFlVlBMQm5CQnpQekHSAW9BVV95cUxPNjl4WC01VlQxeWF5RWhJb0puNl9zaXRRSWxIVFhVeXBJU1JUaXZuOUV2VTZxRUNXY04xajFmVWVTMFByZS10TEJCNnBkVm15c3R5bXFMcjhNZ2hfQ3F5bDNWNjNIeWhLTHBmaFg0U28?oc=5"
+    }
+  ]
+}

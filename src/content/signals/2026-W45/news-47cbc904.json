@@ -1,0 +1,22 @@
+{
+  "id": "news-47cbc904",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "뉴시스",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1XUmFvbmRMT21TU3pYZ3gyUU9QOHpxeXpKbXRKNTlBT2RlUVpiWS1EZGZpQVBsU2p6ajU4eUh1cnNaZEdWdFhCY1NLM0RmRk5hM2QtdTRKdDZrVkhzUzl1WtIBeEFVX3lxTE13VHdjQTM0dF8xWUVMakJ4LV9qdm9TOHV5YkxwUzhZR09Nb2lVUW5kVnNLMG9ybVRSU09UR0xoaXRIVTVlR0kzeXZuRWg0M29SMTZueXVrNUx3Q3hyN1hwR3E0cDZxTzJzUGxLYmZBU2R3R0FpVDZLYg?oc=5",
+  "title": "\"이 기세로 한국시리즈까지\"…KIA 승리에 광주 가을밤 '들썩'",
+  "published_at": "2026-10-26T13:26:41.000Z",
+  "collected_at": "2026-10-26T21:38:32.484Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 81,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

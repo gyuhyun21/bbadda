@@ -1,0 +1,24 @@
+{
+  "id": "community-85d73b6b",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 몽키 스포츠로그",
+  "url": "https://blog.naver.com/swdd105/224454579921",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/8fu4J2srxEF",
+  "title": "\"야구 보러 가는데 목숨 걱정까지 해야 한다고?\" 고척돔 철골 23곳 변형에 문학까지…사고 나면 누가...",
+  "published_at": "2026-10-26T21:06:00.000+09:00",
+  "collected_at": "2026-10-26T21:38:32.484Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

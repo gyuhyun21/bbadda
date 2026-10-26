@@ -1,0 +1,28 @@
+{
+  "id": "youtube-b1b6bbc5",
+  "issue": "2026-W45",
+  "module": "league",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "team": "kia",
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=nr6xOqnIsgo",
+  "title": "(무해설) 데일리 MVP KIA 카스트로의 홈런을 현장의 소리로 타격 감상! | PO1_KIA vs 삼성 | 10.26 | 크보모먼트 | KBO 야구 하이라이트",
+  "published_at": "2026-10-26T13:49:33Z",
+  "collected_at": "2026-10-26T21:38:32.484Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 25560,
+    "likes": 518,
+    "comments": 56
+  },
+  "scores": {
+    "hot": 67,
+    "relevance": 80
+  },
+  "sentiment": "positive"
+}

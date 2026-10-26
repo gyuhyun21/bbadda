@@ -1,0 +1,23 @@
+{
+  "id": "news-1b333f1e",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://www.mt.co.kr/amp/sports/2026/10/27/202610262218772200O",
+  "title": "이글스에 공격형 포수 또 등장? '이승현 결승포→강재민 KK 세이브' 한화, 류지현 감독 앞 오릭스 4-3 제압",
+  "published_at": "2026-10-26T17:40:00.000Z",
+  "collected_at": "2026-10-26T21:38:32.484Z",
+  "summary_ko": "한화가 류지현 감독 앞에서 오릭스를 4-3으로 눌렀다. 이승현이 결승포, 강재민이 세이브를 올렸다는 보도다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "이승현 결승포, 오릭스 격파"
+}
