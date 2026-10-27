@@ -1,0 +1,27 @@
+{
+  "id": "youtube-fad0934e",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "정병야구",
+  "url": "https://www.youtube.com/watch?v=sPBh7DgKiPA",
+  "title": "깡통존 맛본 후라도 #kbo #야구 #프로야구 #삼성라이온즈 #기아타이거즈 #후라도",
+  "published_at": "2026-10-27T06:00:21Z",
+  "collected_at": "2026-10-27T07:38:38.822Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 5048,
+    "likes": 61,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 49,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

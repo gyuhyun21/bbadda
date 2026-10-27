@@ -1,0 +1,23 @@
+{
+  "id": "news-931fbadc",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "www.xportsnews.com",
+  "url": "https://www.xportsnews.com/article/2211802",
+  "title": "1차전 충격패 삼성, '155km 쾅' 배찬승이 그나마 희망이었다…'AG 금메달→10G 연속 무실점' 후반기 기세 이어갔다 [PO]",
+  "published_at": "2026-10-27T01:25:25.000Z",
+  "collected_at": "2026-10-27T07:38:38.822Z",
+  "summary_ko": "삼성 배찬승이 155km 직구로 1차전의 희망이었다는 평가다. 후반기 10경기 연속 무실점도 언급됐다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 80
+  },
+  "sentiment": "negative",
+  "brief_ko": "배찬승, 155km 쾅"
+}

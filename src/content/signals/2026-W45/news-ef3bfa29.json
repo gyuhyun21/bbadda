@@ -1,0 +1,23 @@
+{
+  "id": "news-ef3bfa29",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "일간스포츠",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE02eTZhbDNlMVdmX01iNDl0VmxMb3kwbnBSRzh4YVFaQy1rZmNnaXl0NlZ6b0tnemJlUUZ0aUR5Q0pmcTZvMjZLZ1FLN0NJNk9FdTNELUl0UjkwVlZkY3VVUDd3?oc=5",
+  "title": "김도영은 왜 뛰고 또 뛰었을까 \"단기전이니까...열정과 승리 의지 보여주려고\" [IS 대구]",
+  "published_at": "2026-10-27T02:03:00.000Z",
+  "collected_at": "2026-10-27T07:38:38.822Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

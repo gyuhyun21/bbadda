@@ -1,0 +1,37 @@
+{
+  "id": "community-1789c0df",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 청년스카우터의 기록실",
+  "url": "https://blog.naver.com/hantw08/224455238232",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/8s3Dq5cfuWz",
+  "title": "두산 베어스 타카다 타쿠토, 2027시즌도 함께 간다! 연봉 22만 달러 재계약…내년엔 선발 도전까지?",
+  "published_at": "2026-10-27T12:52:00.000+09:00",
+  "collected_at": "2026-10-27T07:38:38.822Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 91,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "톱스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9pMUVsYkx2LUNlWE1KSWo4MjdyUXl5Q3NLbGs0UVM5ejZtem0wYVVqajVlV1UtaVRSRlZUYlBNdzR6Z3lIbm1yQUc4b0FacjRNeHNZa1YtbGFXZ3dsWllNZndqa3BkeU5LNHg2Q3dabTdydw?oc=5"
+    },
+    {
+      "source_name": "재경일보",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE50ZlEwMDZEUE1HbFA3REdrT2VNR3dfUmljWnZKbFUxYXFQODN0LTB2dkc4MU9ZOEJOYXFYazhKbmhRMy1wZkJFSTQ2VQ?oc=5"
+    },
+    {
+      "source_name": "메디컬투데이",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1xc2F3cjBCSW50VW9oekRFTWU3XzhjSWF1RW1rQ3JBdlJqN1oxcFVRYTVtY1NfaE9DOFo4M3pERTFEeG8xMmljcXg3M2drMnh4c25scUo5S1dyZS1ua3AyMGlSbGJCeS1yTXJOTQ?oc=5"
+    }
+  ]
+}

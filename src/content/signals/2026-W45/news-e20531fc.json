@@ -1,0 +1,23 @@
+{
+  "id": "news-e20531fc",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://www.mt.co.kr/amp/sports/2026/10/27/202610270816776941O",
+  "title": "\"수비 안정감, 조직력 떨어졌다\"…'찐' 수비 조련사 감독이 롯데로, 마무리캠프 지옥 예고할까",
+  "published_at": "2026-10-26T23:39:00.000Z",
+  "collected_at": "2026-10-27T07:38:38.822Z",
+  "summary_ko": "롯데 새 감독이 수비 안정감과 조직력 회복을 위해 마무리캠프를 강하게 이끌 것이라는 전망이다.",
+  "metrics": {},
+  "scores": {
+    "hot": 73,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "수비 조련사 감독, 롯데 마캠"
+}

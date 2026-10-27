@@ -1,0 +1,28 @@
+{
+  "id": "news-1a1257c2",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "미주중앙일보",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1LSUQxUGp5LVpOU2laYXFOajhyYmM1UjFvR2RmZC1WTTRNYUs4TF9HWGtkQld5emhraDhUcDlUVnktaDAxN1NWLVlUMk5sVzNKSXRpMWVPb0ZVeGw5RnlVQU1n?oc=5",
+  "title": "‘1차전 2안타 빈공’ 삼성, 최형우 좌익수·박승규 2번 승부수…박진만 감독, “공격력 극대화” [PO2]",
+  "published_at": "2026-10-27T07:20:00.000Z",
+  "collected_at": "2026-10-27T07:38:38.822Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 84,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBlRldPaFpkcjdDbzQtS0JxeDlZYUlaNEhwX2xwNGd6dzBKOTZHcU80MnlFWmNWbHJPTHJ3bHBzNks2VXF0MEpPXzdvOGxXRnZ6cThrNFdCbw?oc=5"
+    }
+  ]
+}

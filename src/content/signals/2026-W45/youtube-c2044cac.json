@@ -1,0 +1,32 @@
+{
+  "id": "youtube-c2044cac",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "대구MBC뉴스",
+  "url": "https://www.youtube.com/watch?v=bAuQB_m0CvA",
+  "title": "KS진출 확률 77.1%, 1차전 놓친 삼성라이온즈···2차전 모든 걸 건다 #shorts (대구MBC)",
+  "published_at": "2026-10-27T07:00:16Z",
+  "collected_at": "2026-10-27T07:38:38.822Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 25,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 15,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "대구MBC",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE52eHhwX1JpMWpWa0tqZGJqR0w5cXB0YjBrNUJvVVVtb1hDR3BhWUQtd3FlZ0xibk1ESkZuaHhVWUFnVEotSDQ3UGNsM28?oc=5"
+    }
+  ]
+}

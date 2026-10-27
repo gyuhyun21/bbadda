@@ -1,0 +1,29 @@
+{
+  "id": "news-0d607476",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9GOXlqYm1iamxUQTN3aUdGbVRXcURvMzd0TGlvektycWM1VHA3TlUxTDFPUWlXbVlabDQ0RXM5a1RMdkNWRVFtaEhLUkdjZGhHdlg0eHM0U3I2QWNMQzBXVUVrMTNINndRdFHSAW9BVV95cUxQT1gyT2IzR0JxNEREYk1QN2wwVllZTWhhdTh4RE1kRE15QmwtUU9rTTczMGs3Y3M0QTFLSU9xNDhMTnpJaHNlenVqQ1lZLVliX3hIZGhxTTFVSU4xYk0zaFQ2eDN1amhGMUpSS2RRaEk?oc=5",
+  "title": "[한번에쓱] 가을에도 타격감은 최고조! '첫 타석 홈런 신고하는' 힐리어드",
+  "published_at": "2026-10-27T05:30:18.000Z",
+  "collected_at": "2026-10-27T07:38:38.822Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 91,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5LYjdad2Q2RnU2X0VaMUhNMlZwdTh5ZEFHRmpOZldYbmFmbGpGR1lrN0V2bjM3Ul9iV2ZidkVNUmJNVUo1aXpwd0x4N2Qwd0JpWDVBbHBza0pCdlNEWEhyQUhEcTloRkZtUWxIUDFNNXUwdHpJa1E?oc=5"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "news-3317380d",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE51MHdxcEFCMjYteE9LNU1wdTBhS09xeHFaMjgwZmY2M2JEaUh6NGRLd0REekFQZjZsVVV0cnJnRmhzNWpJSkVLcnhWRWktQmdaRlE1S0NxTURNM1IxeDZDY2ZCbDR6UjV0OWfSAW9BVV95cUxNY09EM0FQci1LazY2Q0JjbUQ1RzhtOG1md1ZrdENRT25fVFN4WTJmMkw3VnJ4M3NWT2ttTURJLTRkTDhKR0ZnUHRydG9ndlVoQVhhejNhcXl6Y3Q3b2hmOWNIdGdTMzdUNEZ2RTNIRFU?oc=5",
+  "title": "'구자욱-최형우 공존 불가'→결과는 2안타 완패, \"타선 변화주겠다\" 박진만 감독 '외야수 최형우' 라인업에 올릴까 [PO2]",
+  "published_at": "2026-10-27T06:16:57.000Z",
+  "collected_at": "2026-10-27T07:38:38.822Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

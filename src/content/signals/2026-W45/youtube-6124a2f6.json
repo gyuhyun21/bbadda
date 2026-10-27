@@ -1,0 +1,26 @@
+{
+  "id": "youtube-6124a2f6",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "source_name": "이글스 한조각",
+  "url": "https://www.youtube.com/watch?v=KeFqeg31naA",
+  "title": "사람 말문 막혀버리게 하는 신흥바보 오재원 #한화이글스 #오재원",
+  "published_at": "2026-10-27T06:02:31Z",
+  "collected_at": "2026-10-27T07:38:38.822Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 804,
+    "likes": 6,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 38,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

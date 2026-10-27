@@ -1,0 +1,29 @@
+{
+  "id": "youtube-56a4587b",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "기아타이거즈 KIA TIGERS",
+  "url": "https://www.youtube.com/watch?v=8YaB25jGBJ8",
+  "title": "단 2피안타 호투 + 적시타의 연속! | 10월 26일 PO 1차전 KIA vs 삼성 [원정덕관]",
+  "published_at": "2026-10-27T03:12:45Z",
+  "collected_at": "2026-10-27T07:38:38.822Z",
+  "summary_ko": "KIA 공식 채널이 10월 26일 PO 1차전 하이라이트를 올렸다. 2피안타 호투와 적시타 장면을 담았다.",
+  "metrics": {
+    "views": 154149,
+    "likes": 4296,
+    "comments": 488
+  },
+  "scores": {
+    "hot": 80,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "brief_ko": "PO1 하이라이트, 2피안타 호투"
+}

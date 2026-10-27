@@ -1,0 +1,29 @@
+{
+  "id": "news-8eab0723",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "news",
+  "announcement": true,
+  "source_name": "매일경제",
+  "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5IZ0NDRE9kVWpkN1JZcTJadWc1QnJOdjg0WC0yOWxPN2l0MkxqcERxd0QtSnBhM0JjUGowUEp5aVlvdE05cFE?oc=5",
+  "title": "“내년에도 좋은 모습 보여드리겠다” 타카다, 두산과 동행 이어간다…22만 달러에 재계약 체결 [공식발표]",
+  "published_at": "2026-10-27T02:15:00.000Z",
+  "collected_at": "2026-10-27T07:38:38.822Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "m.mksports.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1wQzd3YlZTc0FqNXZDRE54QTVvc0Fzb0tnc2VrTk1FZFduYnRzbWFva00yZjBVNjkxTC1mQTlZY211eVkxU2F2RjFnQnpfUQ?oc=5"
+    }
+  ]
+}

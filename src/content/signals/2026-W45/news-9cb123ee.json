@@ -1,0 +1,28 @@
+{
+  "id": "news-9cb123ee",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "news",
+  "source_name": "스타뉴스",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5jSkdFX01ZUk5JenFKZXVXNW5fVzNpMl9JMXUwZGtqRjBXT3VxVFVldE9QdHMxYVpiOFRGemNmWnlfQ0I3VnA1cVlSNDFHU0xaeFN3TDNpS0c0WnRBeXRBQWc3Y2tGVmw0RnFpQ2hNdURRNk8zX2c?oc=5",
+  "title": "'삼성-KIA 누구든 와라' 대니엘 5이닝 10K 노히트+힐리어드 1홈런 3타점! KT, 보름 실전 공백에도 9안타 7득점 대폭발! 상무에 7-0 완승 [수원 현장리뷰]",
+  "published_at": "2026-10-27T07:29:16.000Z",
+  "collected_at": "2026-10-27T07:38:38.822Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE51MmRpdktWbkJ1bWpSTjZGM0luclVkQmhsbnQ2V3BFUWZWZ2pnMkYxbU5sazVDYjJhN0VkTzBoWDRLRW1URnBfejcwdHVoZDdRek9zajY2WWV6d0E5bnFuTmRpTkF1THd0TnfSAW9BVV95cUxNckRfSDA5cjlwVFdDOWs0VkVDcExiYVlhTjZUYjNnaTBNVzgtVnIxdE5ITDJBUzRTdjFjeUdkWUtzZURUSkhTUHNDbFBMWGZ3eFBvT3dMcVl3TnJFb0lLRS1ob0phV1JmZ3I2b1NBdnM?oc=5"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "news-d7e2f44f",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "news",
+  "source_name": "노컷뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5JZ1BXYUdnM1JFbTZ1eFhMbDQyTFJjZm9KR214aW53MG9HU2VBYWx2dnpFQlpwT2VOWHcwRUxXYkU2U1IzTlA4V0phWHBVbHVXRlE?oc=5",
+  "title": "절치부심 두산, 28일부터 日 미야자키서 고강도 마무리캠프 돌입",
+  "published_at": "2026-10-27T04:24:25.000Z",
+  "collected_at": "2026-10-27T07:38:38.822Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-64294841",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "일간스포츠",
+  "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBLUGxkZDF6N3lCLTVlOEJuYXBjZ2RlcUVJS3VJNkVubUE1S21kQV80Ymg3WUp5VTZ0V0N3aEdqN3pybG5SMHMzUWRjQlNfZjFqQUNrNF9MNmFQY0k?oc=5",
+  "title": "[IS 포커스] 이성과 감성의 조화? 수비 철학 뚜렷한 단감 구성...치료 돌입하는 거인의 고질병",
+  "published_at": "2026-10-27T01:33:00.000Z",
+  "collected_at": "2026-10-27T07:38:38.822Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

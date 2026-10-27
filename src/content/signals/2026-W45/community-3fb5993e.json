@@ -1,0 +1,29 @@
+{
+  "id": "community-3fb5993e",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 Ryan's Blog",
+  "url": "https://ryan.tistory.com/1071",
+  "title": "KIA, 삼성 5-1 완파… PO 1차전 승리로 한국시리즈 77.1% 확률 잡았다",
+  "published_at": "2026-10-27T09:13:01.000+09:00",
+  "collected_at": "2026-10-27T07:38:38.822Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 73,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "세계일보",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBmb0RoNWNWYUN1Z2FlQ3YyVnpVaEVlYjktaVNmMU0yT056aENCMlVwZm5nSGVmNEJ4a1F5bTFlTHFZb2VoM0JBTnl2LXJkc3RwTUprbVdaVjljNmFOR0FpMWpMb1RNSHJGbFFB0gFUQVVfeXFMTmE5VG5weXNrSVZOVHZ2dm4zTkY2SmpaMmRjM3FwMXBfNGRzQWJXZVZFckY4QWZKY29uMU1kOGszd2NvT1BxQWJrOVdQUFdRclFFLUlG?oc=5"
+    }
+  ]
+}

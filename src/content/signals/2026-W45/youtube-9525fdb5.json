@@ -1,0 +1,27 @@
+{
+  "id": "youtube-9525fdb5",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "기아타이거즈 KIA TIGERS",
+  "url": "https://www.youtube.com/watch?v=bI5Cao7YzAM",
+  "title": "원정 경기여도 플레이오프 1차전을 가득 채운 RED♥️",
+  "published_at": "2026-10-27T04:05:27Z",
+  "collected_at": "2026-10-27T07:38:38.822Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 23632,
+    "likes": 1026,
+    "comments": 68
+  },
+  "scores": {
+    "hot": 83,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "community-42302f04",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 라이프전략가 박병진",
+  "url": "https://blog.naver.com/pbjkrkr/224455183474",
+  "title": "\"후반기 1.58 찍더니 결국\" 두산 타카다 22만 달러 재계약.. 선발도 넘보나",
+  "published_at": "2026-10-27T11:37:00.000+09:00",
+  "collected_at": "2026-10-27T07:38:38.822Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 98,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "스포츠월드",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA3YXB6c1psbDZzbEdLUm5YYkM2U0E0YnpMUmxsVUdkTGNvLWNGczE4elhaeHhxb2pNcmdhLTZhdGdLaGFaY0dTUEVJU1F3b3JSM2lhMnRzajRmZjlPZkhkN3pn?oc=5"
+    },
+    {
+      "source_name": "더게이트",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBhVmxyMkNBZ2FlX2tfc2hPX3E3b3FQVDFVMmgxWW9NZkctS3d0QzZFSFhEdEVsT1BGQUVQY0hqNlJyT0pCTWpuYWVLTmxSSEhkcnVjVm9Ob1N0OWZ4VTNJbHRtQzhuNjFOeFlMSQ?oc=5"
+    },
+    {
+      "source_name": "뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1vb05wYk5tbjJScWt0anZCMjlyZGMwTDdPSkhrc25OTnhWZzNzVzh6bHkzZHVMTGJTRmtzTjBKNzRjNXhEaTlMdjlGbFVVZ2xyaFEtLUhmSkVuQkZ5ZmRsVWR4Y25FT2EzaTNrckszVTJHSkctbkdBZtIBeEFVX3lxTE1vb05wYk5tbjJScWt0anZCMjlyZGMwTDdPSkhrc25OTnhWZzNzVzh6bHkzZHVMTGJTRmtzTjBKNzRjNXhEaTlMdjlGbFVVZ2xyaFEtLUhmSkVuQkZ5ZmRsVWR4Y25FT2EzaTNrckszVTJHSkctbkdBZg?oc=5"
+    },
+    {
+      "source_name": "일간스포츠",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5rTWlfdVhrLVR2V1hhWm5PdDk5X3dCYWw0Y2J0XzBnYjVkd0NDUlQ0Wjlib2E3dmpqUmFMUjRtOTBBVnNrOFNqaVc1MWc4Sl9DdFRiZWJDandmUVE?oc=5"
+    }
+  ]
+}

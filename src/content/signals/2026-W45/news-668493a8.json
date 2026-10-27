@@ -1,0 +1,29 @@
+{
+  "id": "news-668493a8",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://www.sportschosun.com/baseball/2026-10-27/202610270100169370011165",
+  "title": "\"손아섭 영입 제안했다\" NC 파격 결단, 그런데 아직 답이 없다…마지막 변수 발생?",
+  "published_at": "2026-10-27T02:05:44.000Z",
+  "collected_at": "2026-10-27T07:38:38.822Z",
+  "summary_ko": "두산에서 방출된 손아섭에게 NC가 영입 의사를 전달했지만 아직 답은 없다는 보도다.",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbEJ1YW9ZRUZ0SlAybEFqR19LUmQ2VGluMXlacDNxYnNCWnNKaGpaYTVZREUxZDN3b3owSkhTYkdLa1U5SFVNa3FpcFcwVm92NjBoanBFX3dVOVNmY3VGeTNnS3NxRm1ZS0YtaHk0LUNrRjFjU01weUctR3VhWWZaQUdvNA?oc=5"
+    }
+  ],
+  "brief_ko": "손아섭에 영입 제안 건넸다"
+}

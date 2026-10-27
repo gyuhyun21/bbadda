@@ -1,0 +1,26 @@
+{
+  "id": "youtube-94420bc7",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "꿀반장TV",
+  "url": "https://www.youtube.com/watch?v=2uoJiAdCHkA",
+  "title": "우리가 기아를 응원하는 또 하나의 이유 #기아타이거즈 #kbo #양현종",
+  "published_at": "2026-10-27T03:47:01Z",
+  "collected_at": "2026-10-27T07:38:38.822Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 13722,
+    "likes": 671,
+    "comments": 20
+  },
+  "scores": {
+    "hot": 84,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

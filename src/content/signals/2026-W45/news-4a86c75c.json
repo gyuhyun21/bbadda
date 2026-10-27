@@ -1,0 +1,22 @@
+{
+  "id": "news-4a86c75c",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스1",
+  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE04M1RXS1VHSlJTcE05VFNDdTg1eEVFOE5oak9EcGF5X2wxSzRiLVBPTkVvNkhQOXRmdm5SNTFQbHNuSkZ1RDNidmJlb2VFa0xkTUlyTFdnbw?oc=5",
+  "title": "박민우·이재학 감독 변신…NC 15주년 행사에 해커·노성호도 출격",
+  "published_at": "2026-10-27T02:18:50.000Z",
+  "collected_at": "2026-10-27T07:38:38.822Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

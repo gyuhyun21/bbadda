@@ -1,0 +1,23 @@
+{
+  "id": "news-faf26b6d",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "doosan",
+  "teams": [
+    "doosan",
+    "nc"
+  ],
+  "source_type": "news",
+  "source_name": "뉴시스",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBEbEYxMGwyLWl4WUZHVF8ydVZlWUx6dU9XekVTeHU4QnpBcDNVM1pBUXV0bDBVTTFiekthTjhmTFBDRnlLMDRnQVJFQjBBa0lFaDBtSktSTWpscllPaU9FTNIBeEFVX3lxTFA2MkV3b2lEWFRxdmVHa0dqRWpnV0ZyZEVkckp2UDUzR0NFRFUzWGdxdl84M1ZZNzFlLVhQME4ydDVqa3BSQXJqM21oXzdhNW42cGFkdlFqSnNjOXVVV2NJdTBiTkQxSkxKY3hxQ3FfcUtPTGNCMU9Ecw?oc=5",
+  "title": "'두산 방출' 손아섭, 현역 생활 이어가나…NC \"영입 제안\"",
+  "published_at": "2026-10-27T07:17:26.000Z",
+  "collected_at": "2026-10-27T07:38:38.822Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 92,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

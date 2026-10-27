@@ -1,0 +1,24 @@
+{
+  "id": "community-3fdd4797",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&page=8&document_srl=10489682725",
+  "title": "차 단장은 \"메이저리그가 직장폐쇄를 할 것으로 보이는데 그게 언제 ...",
+  "published_at": "2026-10-27T02:38:38.822Z",
+  "collected_at": "2026-10-27T07:38:38.822Z",
+  "summary_ko": "",
+  "excerpt": "... 엘지트윈스, 미저라우스키, 캠 슐리틀러, 야마모토 요시노부 집중 관찰중 ㄷㄷ.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

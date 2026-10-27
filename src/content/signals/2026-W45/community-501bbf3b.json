@@ -1,0 +1,24 @@
+{
+  "id": "community-501bbf3b",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "엠엘비파크",
+  "url": "https://mlbpark.donga.com/mp/b.php?id=202610260119657733&p=1&b=kbotown&m=view&select=spf&query=SSG&site=donga.com&pos=reply",
+  "title": "저만 최지훈 계약 별 걱정 안드는건가요",
+  "published_at": "2026-10-26T08:38:38.822Z",
+  "collected_at": "2026-10-27T07:38:38.822Z",
+  "summary_ko": "",
+  "excerpt": "... ... 한화 · SSG · 삼성 · NC · kt · 롯데 · KIA…",
+  "metrics": {},
+  "scores": {
+    "hot": 60,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

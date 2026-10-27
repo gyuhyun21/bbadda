@@ -1,0 +1,33 @@
+{
+  "id": "youtube-a9e65d94",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "대구MBC뉴스",
+  "url": "https://www.youtube.com/watch?v=-qOXCZUE970",
+  "title": "77% 넘는 확률 걸린 1차전 놓친 삼성라이온즈···페덱, KIA 타선에 무너지다 #shorts (대구MBC)",
+  "published_at": "2026-10-27T04:51:34Z",
+  "collected_at": "2026-10-27T07:38:38.822Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1186,
+    "likes": 16,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 43,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "대구MBC",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9QNWgtUVY3a1NraDMzMUFHeGx3U2h5WFdWdGFvYVpYZXBFQTc3NTJwekdvTl9oVkp0UkI0eFFDYlMwZmxWWlJQWDFtY1g?oc=5"
+    }
+  ]
+}

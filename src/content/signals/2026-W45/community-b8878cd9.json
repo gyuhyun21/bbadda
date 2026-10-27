@@ -1,0 +1,24 @@
+{
+  "id": "community-b8878cd9",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 스윔의데이터로보는세상",
+  "url": "https://blog.naver.com/jsy8481/224454745629",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/6BjLSZzXoEV",
+  "title": "최지훈 2026 성적, 7개의 3루타와 21도루를 함께 보면",
+  "published_at": "2026-10-27T07:06:00.000+09:00",
+  "collected_at": "2026-10-27T07:38:38.822Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

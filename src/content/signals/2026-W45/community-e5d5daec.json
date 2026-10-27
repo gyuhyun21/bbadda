@@ -1,0 +1,24 @@
+{
+  "id": "community-e5d5daec",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 올빼미 기자의 기사 돋보기",
+  "url": "https://blog.naver.com/exercisenews/224455193661",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/9qMLwWGS2YG",
+  "title": "“인터뷰할 자격도 없다”더니…삼성 강민호 안타 훔친 KIA 20세, 무슨 일?",
+  "published_at": "2026-10-27T15:50:00.000+09:00",
+  "collected_at": "2026-10-27T07:38:38.822Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

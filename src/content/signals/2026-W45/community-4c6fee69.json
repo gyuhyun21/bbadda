@@ -1,0 +1,24 @@
+{
+  "id": "community-4c6fee69",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 MTK 미디어",
+  "url": "https://mtknews.tistory.com/865",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/KXtzM6LXJHY",
+  "title": "플레이오프 1차전 취소 후, 삼성 라이온즈와 KIA 타이거즈의 향방에 대한 논의",
+  "published_at": "2026-10-27T15:52:52.000+09:00",
+  "collected_at": "2026-10-27T07:38:38.822Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

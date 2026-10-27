@@ -1,0 +1,27 @@
+{
+  "id": "youtube-0861450a",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "youtube",
+  "source_name": "직구한빵",
+  "url": "https://www.youtube.com/watch?v=K4tpvhp8RUI",
+  "title": "빠져나갈 타구가 · 글러브에 멈췄다 #박성한 #SSG랜더스 #호수비 #KBO #shorts",
+  "published_at": "2026-10-27T05:51:24Z",
+  "collected_at": "2026-10-27T07:38:38.822Z",
+  "summary_ko": "SSG 박성한이 빠져나갈 타구를 글러브로 잡아낸 호수비 영상이다.",
+  "metrics": {
+    "views": 355,
+    "likes": 5,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 38,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "박성한 호수비"
+}

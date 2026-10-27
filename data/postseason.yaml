@@ -110,7 +110,21 @@ rounds:
           - "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWE15eEUzNnhHa21FRVhKc1lmOWlaZTVINGFVc1JoRnhWSG14dTQ1NTlxYi1GblhoNjBnaktweFBjY1dfRG00UmtsTXVWdzFWWm9YdERQeXBaWURwbUk0Q3lOV1l0VHZjZGJ3dVRzd0J5NDFEMWw2NHJ0TlBzX2c3N3BBOA?oc=5" # 네일 삼성전 승률 100%
           - "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB6c2ExQmRrem5FSUVRV2swUjZYRlFOS0dtYUVQX05HM0NDN3lVeElNRTJGY0ZuWjR5RDBNX2NaZ3hWSFJ4YW1leU9maDdZdGZuQXlPNWFvUQ?oc=5" # 1차전 승리 팀 KS 진출 77.1%
           - "https://news.google.com/rss/articles/CBMickFVX3lxTE1EcFp6NE9CRk9VcWJmWmplVmNONmgtd0tTTnZ5VWhBajZObjctQk0xcEl3MjRWWnp3YVEzcU1McW1HSFhtVm1rSy1mbUZzRVBkV3hiSk44Um5MOElKTjdaRkE2UUtEX3lOSVpKbGlSRnJfUQ?oc=5" # 26일 선발 그대로(페덱·네일)
-      - { no: 2, date: 2026-10-27, venue: 대구 }
+      - no: 2
+        date: 2026-10-27
+        venue: 대구
+        starters: { kia: 올러, samsung: 후라도 } # 예고 선발(마이데일리 'KIA-삼성 외야 수비 초비상', 뉴스핌 'AI프리뷰 27일 후라도 등판', 2026-10-27)
+        starter_notes: { samsung: "포스트시즌 첫 승 도전" } # 매일경제 '후라도, PS 첫 승 챙기며 위기에 몰린 삼성 구할까'
+        ig:
+          pre: { hook: "삼성 반격 카드\n후라도가 나선다", sub: "KIA 6연승 vs 삼성 PS 첫 승 도전" }
+        facts:
+          - "경기 시간 대구 초속 5m 강풍 예고"
+          - "삼성 최형우 좌익수·구자욱 동시 선발"
+        sources:
+          - "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9RcHJTZGF4NkY3bmhHNkpsWnNiV1phR080T2hBaDJqN2sxbUlYS21GXy1TWGdyZWdITmZDV25HSkxkaDhvNGVGRndON2RJNXNWUGQzVmw4cXZOWWVsMUlxbENZTFBmZw?oc=5" # 강풍 예고·후라도/올러
+          - "https://news.google.com/rss/articles/CBMiXEFVX3lxTE45emp0YmhuOXRIMHo3S21pMnRXMlN1OUtFMTFRcGU4M3dSVmxpbjBOOFVqemwzYjlpSEx1M1FpN3VST2x2Wmo3MU1ULVJPSC0zcU41V3llWm5mSlZh?oc=5" # 뉴스핌 후라도 등판
+          - "https://news.google.com/rss/articles/CBMiRkFVX3lxTE42NGVhSm1LSElITjBRSzc2WVBjNUprcXNSVmFYUnplUXRYc19Ndk5sMkdjYWxGREVRNFV5d3Q1eDZ2R29KV2c?oc=5" # 후라도 PS 첫 승
+          - "https://news.google.com/rss/articles/CBMidkFVX3lxTFBGVnQzaHNxYy00bm0wVnltdmR6TE85WlRfVi1Ya0pQd3hHd3d0aU16LVZQejdZTV9sRkxxYng0dWFFV2ppZElZalFidERxTE8yRTBPUUdhZmVhQnU4c0FWLVJhb1lnLXhfR0Uxc2FwVkc2ZTVEUHc?oc=5" # 삼성 PO2 선발 라인업
       - { no: 3, date: 2026-10-29, venue: { home_of: spo } }
       - { no: 4, date: 2026-10-30, venue: { home_of: spo } }
       - { no: 5, date: 2026-11-01, venue: 대구 }

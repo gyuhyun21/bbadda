@@ -1,0 +1,24 @@
+{
+  "id": "news-8e48e3ff",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung",
+    "kt"
+  ],
+  "source_type": "news",
+  "source_name": "스타뉴스",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB0bGRzNTlQZm5YVzNTWE1IU3QwZHA2MGNQSnIzOVRxcmhOWlpIQWRXVm5tazZVNHJkWDcyamlHZjRFeVU5cldmckRqUDNHT1ktcGxwTjJDU1pKX21QazIxWmZJZy1fRUUwbHpGdnl3WU95a20yc1E?oc=5",
+  "title": "\"KIA든 삼성이든 상관없다\" 90승 KT 자신감, 이강철 감독 \"누구든 많이 싸우고 올라오길\" [수원 현장]",
+  "published_at": "2026-10-27T06:19:38.000Z",
+  "collected_at": "2026-10-27T07:38:38.822Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}
