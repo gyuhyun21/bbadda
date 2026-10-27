@@ -1,0 +1,27 @@
+{
+  "id": "youtube-494ad099",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "엘냠씨",
+  "url": "https://www.youtube.com/watch?v=HD1hUMnJpmQ",
+  "title": "디펜딩챔피언의 추락? #엘지트윈스 #LG트윈스 #기아타이거즈 #한화이글스 #KBO #야구 #야구팬 #크보",
+  "published_at": "2026-10-27T05:35:30Z",
+  "collected_at": "2026-10-27T07:38:38.822Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 431,
+    "likes": 40,
+    "comments": 19
+  },
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

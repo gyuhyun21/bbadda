@@ -1,0 +1,23 @@
+{
+  "id": "news-acf17b0f",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "news",
+  "source_name": "마이데일리",
+  "url": "https://www.mydaily.co.kr/page/view/2026102714464418311",
+  "title": "\"더 열심히 노력하라는 의미\" 2026 퓨처스 스타대상 선정 키움 하현승",
+  "published_at": "2026-10-27T05:50:38.000Z",
+  "collected_at": "2026-10-27T07:38:38.822Z",
+  "summary_ko": "키움 하현승이 2026 퓨처스 스타대상에 선정됐다. 더 열심히 노력하라는 의미로 받아들인다고 말했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "하현승, 퓨처스 스타대상"
+}

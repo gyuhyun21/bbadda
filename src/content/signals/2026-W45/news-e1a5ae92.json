@@ -1,0 +1,23 @@
+{
+  "id": "news-e1a5ae92",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "세계일보",
+  "url": "https://www.segye.com/newsView/20261027505172",
+  "title": "“도영아, 전력 질주하지마!” KIA 이범호 감독이 ‘슈퍼스타’ 김도영을 자제시킨 이유는?",
+  "published_at": "2026-10-27T00:56:11.000Z",
+  "collected_at": "2026-10-27T07:38:38.822Z",
+  "summary_ko": "이범호 KIA 감독이 김도영에게 전력 질주를 자제하라고 한 이유를 전한 기사다.",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "이범호, 김도영 질주 자제시킨 이유"
+}

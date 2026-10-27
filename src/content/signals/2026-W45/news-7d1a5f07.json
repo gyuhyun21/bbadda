@@ -1,0 +1,28 @@
+{
+  "id": "news-7d1a5f07",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1aczlDTzZLQktuWUZuUkhRVllKVW5BWHY3cGVqOFJFTGctMTUzdmh5T0tBc1RaSnJHdjVRQl9Mc1Qyd3hnajVySWFGbno5QlFLcEhNRHc1R0dwenFvTUlNZ1pUb2ppNks0VkhJbS03SdIBb0FVX3lxTE1aczlDTzZLQktuWUZuUkhRVllKVW5BWHY3cGVqOFJFTGctMTUzdmh5T0tBc1RaSnJHdjVRQl9Mc1Qyd3hnajVySWFGbno5QlFLcEhNRHc1R0dwenFvTUlNZ1pUb2ppNks0VkhJbS03SQ?oc=5",
+  "title": "[포토] '상무와의 연습경기 지휘하는' KT 이강철 감독",
+  "published_at": "2026-10-27T05:21:05.000Z",
+  "collected_at": "2026-10-27T07:38:38.822Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 91,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1pc0xnVUlxSVNseXpjR0dWUnY3RF82TVFrUVhFaXpZbnRDZ3JaSnVmTDNhOWhQODFVNDlSbTk1OHlhVXZWeFZFeWk5Tk1lUlVPSW5DZmJ4M25TNEN1Wnc0QUxZQm1EWTg0MUdheEdkdEdaVUZ4WFE?oc=5"
+    }
+  ]
+}

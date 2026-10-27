@@ -1,0 +1,28 @@
+{
+  "id": "news-237c1beb",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "스타뉴스",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5TekZQSWVscHRsaEYyZ0VQcGFGWUZ6elZ1cURHUVdqNXlHRUJpTFhBWWFNYWkxcUJORkJJOEpyOFBjQ2liZTlodVdveUdCblZWUFZqcFBRVGRLWHZPRFBYXzYyWUpSWTJiWGFoZ0pjNlZYaXk1M1E?oc=5",
+  "title": "'마무리 원태인' 삼성 파격 승부수 던졌다! 박진만 \"이기고 있다면 무조건 등판, 3차전 최원태 내정\"",
+  "published_at": "2026-10-27T07:27:00.000Z",
+  "collected_at": "2026-10-27T07:38:38.822Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 92,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBNbV80aFEyYkFzLXVTX1EteG1ySjlRWlo2SzN0YzEwYWduQ18weUNndWU3U2x0NlM3ejVVYW5KZEpzR2lFTThXdUtJRFh3YUFkdU52SzVPZlgwUUxpc19kaDZoM2d0c21zVFHSAW9BVV95cUxQeE5pUUl5SktuTUFKRExKQTNja3RhMjhKbE83OTB0MWZscnlXYXFUUC1DM0dDQ2ZRRmJHYUMzNjZVMmNwX3FNSnkzMjBpYUtlTFNZQndnbk5RdENFRENYdU9FeDhqVllZWXhYQmsyaFE?oc=5"
+    }
+  ]
+}

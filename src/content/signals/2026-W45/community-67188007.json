@@ -1,0 +1,24 @@
+{
+  "id": "community-67188007",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 오늘의 뜨거운 핫이슈",
+  "url": "https://blog.naver.com/falling_rain/224454967864",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/1ewnPtfvQw2",
+  "title": "[랜더스 이야기 10화] 1홈런 신인이 538홈런의 왕이 되기까지 💪 '소년장사' 최정",
+  "published_at": "2026-10-27T08:12:00.000+09:00",
+  "collected_at": "2026-10-27T07:38:38.822Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

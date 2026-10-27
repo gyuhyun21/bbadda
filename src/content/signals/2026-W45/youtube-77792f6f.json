@@ -1,0 +1,26 @@
+{
+  "id": "youtube-77792f6f",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "youtube",
+  "source_name": "크보뮤직",
+  "url": "https://www.youtube.com/watch?v=iyH1qOgxmLM",
+  "title": "NC 다이노스 역대 베스트 라인업 #NC다이노스",
+  "published_at": "2026-10-27T05:29:41Z",
+  "collected_at": "2026-10-27T07:38:38.822Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1021,
+    "likes": 0,
+    "comments": 2
+  },
+  "scores": {
+    "hot": 33,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "news-adfa2d84",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "마이데일리",
+  "url": "https://www.mydaily.co.kr/page/view/2026102715001406889",
+  "title": "KIA-삼성 외야 수비 초비상! 경기 시간 초속 5m 강풍 예고…‘땅볼 투수’ 후라도는 OK→’뜬공 투수’ 올러 직격탄? [MD대구]",
+  "published_at": "2026-10-27T06:11:32.000Z",
+  "collected_at": "2026-10-27T07:38:38.822Z",
+  "summary_ko": "경기 시간대 대구에 초속 5m 강풍이 예고돼 외야 수비가 변수라는 분석이다. 땅볼 투수 후라도와 뜬공 투수 올러의 유불리를 짚었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 83,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "PO2 대구, 초속 5m 강풍 예고"
+}

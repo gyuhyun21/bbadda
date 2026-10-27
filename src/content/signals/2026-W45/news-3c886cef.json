@@ -1,0 +1,23 @@
+{
+  "id": "news-3c886cef",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스핌",
+  "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5GTllWWkM3Y3NpT0NQR0daN1AwN3hRNGJYcFpkdFoxMWFkS1JYdUVWMEJaX2dJLUV6THNnUkNRMkVLcGNSNG5ZLUtLUVpzMnZVaGF6TDZzOXB3LVRS?oc=5",
+  "title": "[PO] 삼성 디아즈 '눈수비'·KIA 박재현 '투혼'에서 갈린 1차전…단기전 수비의 중요성",
+  "published_at": "2026-10-27T05:13:00.000Z",
+  "collected_at": "2026-10-27T07:38:38.822Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

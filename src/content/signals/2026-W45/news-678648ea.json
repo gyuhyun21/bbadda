@@ -1,0 +1,33 @@
+{
+  "id": "news-678648ea",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAtSW9PekdVODAxMnhqeV84aEVWem0xSjhxVjY0anJPak9VVzJyTGo2V01NTWhObE5udjMwTGJMUTZ1ZVBQeW92UkFfaEpGUmxjRDJPYVRKamhOZHRDdS14Y1M5UEZsS3d2N0HSAW9BVV95cUxNN2pDZzFMZ19sb0tyYkg3cENZUTFmYzF4ZzkwOVllQ2lJbFY5T3NKWThzYWVQWkRyWjBNWl8tX19nbFRpVnV1ZW5nNE9WSXAzZlJrSHhtWmNYT1hlay1BQ0lwM1J2bUZibTlNa2NmNWM?oc=5",
+  "title": "[포토] '홈런, 2루타, 안타 기록한' 힐리어드",
+  "published_at": "2026-10-27T06:26:11.000Z",
+  "collected_at": "2026-10-27T07:38:38.822Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 100,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBXMU9LTUFyVFd2ZktVMm1yZHNBNkNGdmdqVWNVS0hldjh5MG1JcTl2dGdocGhycnZmcUF1cmFBNklfZG1UTW9mOXQ1RmV2UE8zd1FDUDZ4LXdlTFRFNVlBaXBmS3Y2SV8zMG43RFM1bEM0aHZCa2c?oc=5"
+    },
+    {
+      "source_name": "Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPYVdtblNrNzc1NENJZmZ0T3VBaUhUWFFVelhwWGJ2dVMxQnhiZjMwQUkzWENzdEozLVBMTnZNdVkxQmRzUVRha1NwOUZvQUt2c0htTjQtRkVqbmktMEVYcldORWZZTzM0U0w0R1oxSjdBZV9RQXUtLUpVUTVpWGM4S3VWTdIBlwFBVV95cUxPNFkyYld3MGlmWU5GQnpuTVAweDU4S3loYlltNzFuZmFJaHFqT3QzLVp3UEdIeWdMSFRWdWZPRjNjTC1JLVFhcjJmWkliMHBRekx2RXI2QzJEZTE3d1dDNEI2TG80YjNHV2M3Si1UYzlTT3FTanlBNUIxOU04allnUjhHYjU1S0J1U2VvTExaSkxYRVRJajVB?oc=5"
+    }
+  ]
+}

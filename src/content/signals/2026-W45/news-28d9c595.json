@@ -1,0 +1,23 @@
+{
+  "id": "news-28d9c595",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "국제신문",
+  "url": "https://www.kookje.co.kr/contents/newsbody.asp?code=0600&key=20261027.99099007594",
+  "title": "[뭐라노] 데이터 기반 똑똑한 야구·수비강화…롯데의 ‘새판 짜기’",
+  "published_at": "2026-10-27T00:11:39.000Z",
+  "collected_at": "2026-10-27T07:38:38.822Z",
+  "summary_ko": "롯데가 데이터 기반 야구와 수비 강화를 앞세워 새판을 짠다는 기사다.",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "새판 짜는 롯데, 데이터·수비"
+}

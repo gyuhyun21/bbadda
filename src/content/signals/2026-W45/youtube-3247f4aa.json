@@ -1,0 +1,26 @@
+{
+  "id": "youtube-3247f4aa",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "youtube",
+  "source_name": "쏙이슈",
+  "url": "https://www.youtube.com/watch?v=Xgz-_X2qf5o",
+  "title": "우승이 확정됐는데, KT 선수들은 왜 마운드에서 기다렸을까요? | 박경수 #야구 #한국시리즈 #쏙이슈",
+  "published_at": "2026-10-27T04:50:09Z",
+  "collected_at": "2026-10-27T07:38:38.822Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1646,
+    "likes": 66,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

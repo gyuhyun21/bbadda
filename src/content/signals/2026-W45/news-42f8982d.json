@@ -1,0 +1,23 @@
+{
+  "id": "news-42f8982d",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠경향",
+  "url": "https://sports.khan.co.kr/article/202610271551013/amp",
+  "title": "손아섭에 손 내민 NC, 3년 만에 FA 지갑도 열까",
+  "published_at": "2026-10-27T06:51:00.000Z",
+  "collected_at": "2026-10-27T07:38:38.822Z",
+  "summary_ko": "손아섭에게 손을 내민 NC가 3년 만에 FA 시장에서 지갑을 열지 주목된다는 기사다.",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "3년 만에 FA 지갑 열까"
+}

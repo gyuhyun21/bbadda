@@ -1,0 +1,27 @@
+{
+  "id": "youtube-6053dfb3",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "정병야구",
+  "url": "https://www.youtube.com/watch?v=upqORAkv4qs",
+  "title": "판독 실패해도 웃는 롯데 #야구 #프로야구 #kbo #롯데자이언츠 #kt위즈 #손성빈",
+  "published_at": "2026-10-27T00:00:18Z",
+  "collected_at": "2026-10-27T07:38:38.822Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 49525,
+    "likes": 124,
+    "comments": 5
+  },
+  "scores": {
+    "hot": 52,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

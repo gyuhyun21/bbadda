@@ -1,0 +1,23 @@
+{
+  "id": "news-20890910",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스1",
+  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9qd3k2cmdJUmJyMDQwMTdrRklPNFRVSzRnQVRld0FBbTg5NEdEYTM5cVJLWUh5UDlBd0RDZ2piNTYwYjhFQkdVQy1FSWxwWHREWUxzNTNKOA?oc=5",
+  "title": "KIA 카스트로 펄펄 나는데…삼성, '4번타자' 디아즈 '한방' 절실[PO]",
+  "published_at": "2026-10-27T03:00:00.000Z",
+  "collected_at": "2026-10-27T07:38:38.822Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

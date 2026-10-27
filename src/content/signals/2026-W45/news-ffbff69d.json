@@ -1,0 +1,33 @@
+{
+  "id": "news-ffbff69d",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5jZ1N5ZkJNaFVpUl92T0h6SWFzel9oYUJnOHRSdlNBTTVOSDJvbFgzbC1fZ2JNWl9WVl8wa1RwZ2lyaDRadlNNeVlWdlJ2RmV3YzFxb0F1UmxQNk1MeEdDU3Rwa3U1bUgxV2fSAW9BVV95cUxOOWFrTTRWWDZSWjMwOTF3WFdncVQxMVhqdDZRbkZlbV9uaHl0WFUzb2VSd1YtSWJ2X2JoVmlTUEh5V2lkZnBOb2hJdnN4M05nVl8tcllmRmt5SzFxb0V1Znl3Ml9EdUZNM0xwM0VYRUE?oc=5",
+  "title": "KIA 84%? 삼성 31%? 2차전에 운명이 걸렸다…후라도 믿는 삼성, 6연승 노리는 KIA [PO2]",
+  "published_at": "2026-10-27T06:10:00.000Z",
+  "collected_at": "2026-10-27T07:38:38.822Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 91,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "미주중앙일보",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBRd3k5NUM0MXRTN1JuT2g5b1F4VjNOVnBPMlFSSXU0eHR2TmFpYl91V0R4Q0k5MXM1QlNmcThQbjZJeTg1UEVsYXNCX2FDWEwya2lFN2ZtRnpUZ2NRb2JncnFn?oc=5"
+    },
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWHlyVEJCOTBuOFRxWlFJN2lKLW1DVklIRUxpLVlxMFY5LTc2RmQ5MlJXU0VLeThVcjQ1dmFyUlZBU0ZZRENtT2RqeVRNR0NWaTlOTlFfYU5KVWxfLU5GZ3JjSDZOb1V0VFpva3VTbjR2QTVhamc0MDYyUlphZk55SjFjQQ?oc=5"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "community-3390c164",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 스포터 매치로그",
+  "url": "https://blog.naver.com/sodam_soda/224455171411",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/4TOgxTqt9f7",
+  "title": "이강철 감독 재계약 3년 34억이면 연봉이 얼마냐, 계약금 10억과 연봉 8억의 구조",
+  "published_at": "2026-10-27T11:21:00.000+09:00",
+  "collected_at": "2026-10-27T07:38:38.822Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "news-284ad8d8",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBkZi1QT2JZRk9idEs3ZEpzMWJEUVhtb3RGaEIxbjh4dUpHT3dRYmN4by1JRU5mYzNENGViWWExZ0RFRkFpSktVc1FleHJpWjQ2QTZQaFF0Y0lIY2xrQjJ5TTJmTlBScWdsZ0HSAW9BVV95cUxPUUg3bWVPSGdjMzBuRUZ1UWpXUEpSdnhLc0hzNGxHX2FaTkoxRUtsVkhlWVVoU1dGZ3BLa1F4b1hNZGt1aVpzNDBOb2J2cU5aR2w1dEZlT1NMaEhzbE9vNHpCTGZRSzBHV2piZzlfcGc?oc=5",
+  "title": "\"최형우가 그렇게 저평가 될 선수 아니다\" 라팍에 부는 강풍 경계령, 수비 약점은 타격으로 메운다 [PO2 감독 인터뷰]",
+  "published_at": "2026-10-27T07:25:20.000Z",
+  "collected_at": "2026-10-27T07:38:38.822Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 84,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE05Zi1LWWtXaF9EZ1B0WW1hdnhFSXdXY2VVUmc5YmxrNVJLcC1FZVAxNGhtRkNBRWpYSk8zUmpuQkdHVDhVZU1mUzh0MW9qelJJbTZZNXc4MERVdTRDT2pOdFQyVFoxTndfNkZSOXluOTFfOERPUFE?oc=5"
+    }
+  ]
+}

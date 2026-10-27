@@ -1,0 +1,22 @@
+{
+  "id": "news-c5fb2bec",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "news",
+  "source_name": "일간스포츠",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBuTXRWdTQ5aWRYcWJoei1RTnZxb0NoeDlSbjdTTS1JRF95bTB5bS14RWtmNFZxR3Bsc25VNjJuZEJ5QkdrLXY2TmNBVFZMY1JVZDR3SWd1V003S1RZY1k3elRR?oc=5",
+  "title": "'방출생' 손아섭 현역 연장 기회 얻었다, NC \"영입 제안 건넸다\"",
+  "published_at": "2026-10-27T04:38:00.000Z",
+  "collected_at": "2026-10-27T07:38:38.822Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

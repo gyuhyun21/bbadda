@@ -1,0 +1,22 @@
+{
+  "id": "news-042b8762",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "매일신문",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBPZ3k1MlNabE11dXo5LU1Ba01TNlctTlVKQlNqd0IzVkkwSHdId2VYdml5bnp4cFpJemlndGVhalEtUU96VzQ5eUlZLXJ3X2NubWlMYU1RMFN4WjhCRV9ybnpR?oc=5",
+  "title": "`페덱 비틀+ 타선 침묵` 삼성 라이온즈, PO 1차전서 고배",
+  "published_at": "2026-10-26T12:44:32.000Z",
+  "collected_at": "2026-10-27T07:38:38.822Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 77,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

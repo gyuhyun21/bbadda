@@ -1,0 +1,25 @@
+{
+  "id": "news-6a5a9b17",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "lg",
+  "teams": [
+    "lg",
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://www.sportschosun.com/baseball/2026-10-27/202610270100169430011168",
+  "title": "카라스코? 톨허스트까지 바뀔수도... 돌아온 차단장의 시간 \"좋은 투수 나오면 잡는다\"",
+  "published_at": "2026-10-27T02:12:35.000Z",
+  "collected_at": "2026-10-27T07:38:38.822Z",
+  "summary_ko": "LG 차명석 단장이 좋은 투수가 나오면 잡겠다고 밝혀 카라스코·톨허스트 교체 가능성이 거론된다.",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "차 단장, 외국인 투수 교체 시사"
+}

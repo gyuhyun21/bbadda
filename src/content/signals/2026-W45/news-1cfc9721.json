@@ -1,0 +1,29 @@
+{
+  "id": "news-1cfc9721",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://www.mt.co.kr/sports/2026/10/27/202610271258778772O",
+  "title": "팬들의 '최강한화' 떳떳하게 듣고 싶었다…한화 떠나는 손혁 단장 \"앞으로 더 강한 팀 될 거라 믿는다\"",
+  "published_at": "2026-10-27T05:00:00.000Z",
+  "collected_at": "2026-10-27T07:38:38.822Z",
+  "summary_ko": "손혁 단장이 한화를 떠나며 앞으로 더 강한 팀이 될 것이라 믿는다는 뜻을 전했다는 보도다.",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNG5TZzJFdkJFbWpTbTJieGJ6QWg0a2VKUjJleWxKQ2UxRDk3dE9maGZSTnVuekVRMEtsdk5faU9SdUlVaWpaRlFGaWtJc3E2R0xJOUU1cThXblVYX1EwUVRjbWRrc1M1cmM2NnFNS1JSMXl3YWtlNUZ3Z3U2TGZqdGRaUQ?oc=5"
+    }
+  ],
+  "brief_ko": "손혁 단장, 한화와 작별"
+}

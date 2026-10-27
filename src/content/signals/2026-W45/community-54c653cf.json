@@ -1,0 +1,29 @@
+{
+  "id": "community-54c653cf",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 BoxScore",
+  "url": "https://blog.naver.com/today_sportskr/224454945357",
+  "title": "하현승 퓨처스 스타대상 야구 대상, 16억 신인 기록",
+  "published_at": "2026-10-27T07:18:00.000+09:00",
+  "collected_at": "2026-10-27T07:38:38.822Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 81,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "m.maniareport.com",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE03UWZOc21EdVlrVEIzR05ka09DVzk0cXFldDVILWIyeHpZS3BGMlRNQnltN25rMV9jUHlEcWdKaUlIdm95Q1JiMk5rMG1NMHhFZjRWMThpeEJtZm1YUVBZa2dDUDdKTnRIYzdjUTVGRHU1OUdIalVJOXJR?oc=5"
+    }
+  ]
+}

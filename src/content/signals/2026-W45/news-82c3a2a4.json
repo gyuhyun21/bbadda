@@ -1,0 +1,29 @@
+{
+  "id": "news-82c3a2a4",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "OSEN",
+  "url": "http://www.osen.co.kr/article/G1112898855",
+  "title": "“더 절실하게, 더 노력하는 야구” 우승→4위 추락 LG, 역대급 마무리캠프부터 다르다. 고우석도 예외없다",
+  "published_at": "2026-10-27T01:42:00.000Z",
+  "collected_at": "2026-10-27T07:38:38.822Z",
+  "summary_ko": "우승에서 4위로 내려앉은 LG가 더 절실한 야구를 내세우며 마무리캠프를 시작한다. 고우석도 예외 없다는 보도다.",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObDJfVUpSeENiLThBeUlNU0RxcEhYM0tEWnY4bXlSU3RVNWhzMnFPRlNBcjZDc29JMnVqNFdNSl8ydTZaUXQ0ZmVYQU9YWHdTVzBpd3pTYnpZUnRfYk1hV3JxSFhyZ2ZzMktoMXFEOGs4MTlmVWFNQ0JVNW16UmhCbkZ2MNIBlwFBVV95cUxNUUg0MldIb19zaXhuVHF2UGItZzIwdWNSb3NYcnhlanRhWTBDMGNabzA1U0dfQUtqN1NDZE8tSDV1azNHTWxwWDNBdVZpOG1Ld191OE9BQndSaENfNE9zalNBUjNFT1l2WnY0clh3UXZuc2NhZ0NMYUdrYU5sQ1hfNUxKREpoa20xSTZ2TnhraGJDR1FjY1dn?oc=5"
+    }
+  ],
+  "brief_ko": "역대급 마무리캠프 예고"
+}

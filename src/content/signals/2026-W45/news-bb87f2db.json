@@ -1,0 +1,22 @@
+{
+  "id": "news-bb87f2db",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "www.xportsnews.com",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5SUVhuLWZISjFJUGw4M051Qk14X2lTcmduM1pZR2E2eU0wME5TY3d1anBOaWpfSzBWZm1kbnBQTGstSWRfVmxsekR3bmVESWktM2VNNQ?oc=5",
+  "title": "'네일 헤드샷 퇴장' KIA, 돌발 변수에도 77% 확률 잡았다!…\"불펜진 잘 막아줬다\" 이범호 감독 만족 [PO1]",
+  "published_at": "2026-10-26T13:43:09.000Z",
+  "collected_at": "2026-10-27T07:38:38.822Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 62,
+    "relevance": 80
+  },
+  "sentiment": "neutral"
+}

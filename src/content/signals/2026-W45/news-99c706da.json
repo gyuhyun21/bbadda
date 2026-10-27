@@ -1,0 +1,27 @@
+{
+  "id": "news-99c706da",
+  "issue": "2026-W45",
+  "module": "league",
+  "teams": [],
+  "source_type": "news",
+  "announcement": true,
+  "source_name": "스포츠조선",
+  "url": "https://www.sportschosun.com/baseball/2026-10-27/202610270100170970011272",
+  "title": "[오피셜] '단독 후보' 허구연 총재 3연임 눈앞, KBO 이사회 심의 통과→총회만 남았다",
+  "published_at": "2026-10-27T05:21:11.000Z",
+  "collected_at": "2026-10-27T07:38:38.822Z",
+  "summary_ko": "KBO 이사회가 단독 후보 허구연 총재의 3연임 안을 심의 통과시켰다. 총회만 남았다.",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 30
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAxdlJMNEhYclRSTXNOSEZmaTA5WHpZN2swaFVyWmpmMk5NUGtHVHEzRkRxZUhUVmJ4NHFISkkxNjJSeUhmd3hTSTk1cGtCMTItZThvSndPM05zb0hRbm9DUGxLZFBaRjNSRzVMdnRxUWliZFV0NHc?oc=5"
+    }
+  ],
+  "brief_ko": "허구연 총재, 3연임 눈앞"
+}

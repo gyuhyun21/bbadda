@@ -1,0 +1,22 @@
+{
+  "id": "news-bd99f6c4",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9yMkpoSmVmRlU5V3NVX0RzN1lmazNseGFUekdmLXZlakZjdzE2U2RzU2htREtDNTJFMGpnRm5CMXpjRXhONldObjRlNXgyOTVmNmptUmM1OHdEbGhwTmY1d3lvSGdCMU45d0FkMNIBckFVX3lxTE13ckpNUnAtMGQ2QmE3cTNNTUlkVTllYW51djFyWmozVDBTTm90UXpZSUI0cWhDMS1RYmx4UGZQUTdzUDdyM0lzdDJMUXo3dFB5NS02b0NiMW84UDE2bFlOX2VraWY2d1F0cVI5VEpOTm1rdw?oc=5",
+  "title": "삼성갤럭시 '1위', 야구는 'LG트윈스'…'2026 국가브랜드경쟁력'은?",
+  "published_at": "2026-10-26T19:00:01.000Z",
+  "collected_at": "2026-10-27T07:38:38.822Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

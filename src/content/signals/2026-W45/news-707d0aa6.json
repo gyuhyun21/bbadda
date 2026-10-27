@@ -1,0 +1,22 @@
+{
+  "id": "news-707d0aa6",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "문화일보",
+  "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE03MlJsNFAwdjlVVGxDeGUxcmQ5Q1h0dmdPdFZVa2NvcnRtR2ZDMWx6WU9ZY0lyMUJEQ28xZXFYOVZXTFozMkIxVmt3UHVsSlp1?oc=5",
+  "title": "PO 1차전서 단 2안타 삼성… 2차전엔 최형우 카드 쓸까?",
+  "published_at": "2026-10-27T02:19:02.000Z",
+  "collected_at": "2026-10-27T07:38:38.822Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 80
+  },
+  "sentiment": "neutral"
+}

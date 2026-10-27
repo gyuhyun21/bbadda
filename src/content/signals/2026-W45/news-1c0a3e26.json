@@ -1,0 +1,23 @@
+{
+  "id": "news-1c0a3e26",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "MHN스포츠",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBhdFdwMU42ZVJuM3VHUVVHUmZFMEhXYXdWVlMzNnFKYmswSmg4LWNBUEEyZjJMYWd6cUdIUU13RFFKck9zbnlTUUlvZjRWOFZzWUJZcWtkNEtJVWRGY1FsTUI5RQ?oc=5",
+  "title": "‘전력 약하면 리더십도 발휘 못한다?’…김태형 감독, 김재박 감독의 악몽 따라갈까",
+  "published_at": "2026-10-27T00:48:04.000Z",
+  "collected_at": "2026-10-27T07:38:38.822Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

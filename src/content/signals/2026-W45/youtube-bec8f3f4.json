@@ -1,0 +1,33 @@
+{
+  "id": "youtube-bec8f3f4",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte",
+    "nc"
+  ],
+  "source_type": "youtube",
+  "source_name": "씨유티비",
+  "url": "https://www.youtube.com/watch?v=AdWvp-RJatE",
+  "title": "#스포츠중계 #shorts #손아섭 #야구 #야구쇼츠 #KBO #롯데자이언츠 #nc다이노스 #야구쇼츠 #프로야구 롯데 복귀인 줄 알았는데 대반전! 손아섭 결국 NC로 돌아가나",
+  "published_at": "2026-10-27T02:43:25Z",
+  "collected_at": "2026-10-27T07:38:38.822Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1302,
+    "likes": 6,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 37,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "네이트뷰",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5RRFgxRUdDRVZ1ZkFZcmhkbG1MeGlRVk5jbzh0NTN5VUM1RjV5RVFxellUaVl4UEV2WFo1VDZSczFXNVNnMEtxUnNPT2R2bkluQmfSAVdBVV95cUxQVFIybEtwREFLSHc0UjAxWmg1b2dqSVZKOHZrR3VhTmYxNTBvTWVjTU1SNXhFQ016bTdZVmFNNHhwZnRDQ0RjLUlweUFfNTg1ZXY3MjRCeUE?oc=5"
+    }
+  ]
+}

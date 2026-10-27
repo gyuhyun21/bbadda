@@ -1,0 +1,49 @@
+{
+  "id": "youtube-76a15950",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "youtube",
+  "source_name": "allsport",
+  "url": "https://www.youtube.com/watch?v=RqCSb27tyk8",
+  "title": "두산, 내년에도 함께한다! 전격 계약 발표 '아시아 쿼터' 투수 타카다와 22만$ 재계약",
+  "published_at": "2026-10-27T07:12:03Z",
+  "collected_at": "2026-10-27T07:38:38.822Z",
+  "summary_ko": "두산이 아시아쿼터 투수 타카다와 22만 달러에 재계약했다고 발표한 소식을 다룬 영상이다.",
+  "metrics": {
+    "views": 132,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 22,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBuaUpucVpuX1p3LUtScG16MGtkYWJNUGVFUldaLXRFUi1ZRjkyZHNFV3VSQW1wLWNoRWZBck82S0RPZ1VmRnIyV01IaklFSXl1Y0h4TEo3TU44T2hjeGpaOF84ODlrNjNYOENXTndBWdIBb0FVX3lxTFBuaUpucVpuX1p3LUtScG16MGtkYWJNUGVFUldaLXRFUi1ZRjkyZHNFV3VSQW1wLWNoRWZBck82S0RPZ1VmRnIyV01IaklFSXl1Y0h4TEo3TU44T2hjeGpaOF84ODlrNjNYOENXTndBWQ?oc=5"
+    },
+    {
+      "source_name": "https://spt.co.kr/",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1yek5Yazg2YXZRYUNOZFBLVkY5V0R0dmFfcmNwa3JfckpFaUdNN0NGeUw0cU5JbVNJVmZfdEVRVUFKUEhrTktUQVNZRzVYMmdkQVowYlhwY3Rlb2RV?oc=5"
+    },
+    {
+      "source_name": "뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8yRE9tT24tOU5BRXdib1UtY2ZGazR2QWdGQ0UwZ0VxWDE4Y3FFSHJjY0ZPX3E2TmN0TlBHaHhnLVpEUEFjUzdhYXRRRnlMZXZEWWY4N3UyTQ?oc=5"
+    },
+    {
+      "source_name": "연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9WZ2FEdTBaQmkyU0t3RE1uUEUzU1RBejVRNTIxRV9mb3ZpRkljNWV4TFg1bmc3Q0RkaFpvRTJDZG5NRE9FUFJvS2RINEhCVE9tcExuYk5KaVBMX1REQXhWN9IBYEFVX3lxTE9WZ2FEdTBaQmkyU0t3RE1uUEUzU1RBejVRNTIxRV9mb3ZpRkljNWV4TFg1bmc3Q0RkaFpvRTJDZG5NRE9FUFJvS2RINEhCVE9tcExuYk5KaVBMX1REQXhWNw?oc=5"
+    },
+    {
+      "source_name": "BNT뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9qdzhsUWFPaGRLVHc1RGhUeHBrTFdkX0EzUTVrVHNEQ2V6U3h6aHZITDZiTG45MXpPR2ozR25Ec1dkN1RfaWc1MVQtODVkN1dhUlJIaGpjZXY3ZzNOaV94UmVVWG0?oc=5"
+    }
+  ],
+  "brief_ko": "타카다 재계약 발표 영상"
+}

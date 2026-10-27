@@ -1,0 +1,23 @@
+{
+  "id": "news-174bdb81",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE85c01OTlVRRlE0UkJhNEVPM3dwdkhhQVc3MHlRZnhsY1RadmhjUGFBWFdyaVJQQ1c0VWtFUkp6ajNXX0ZtSVBxZXdsR2ZJQjJ5cmYyZ1pZZmZnem1QYlVtRERzc21mcXRkQlF5WmU2NNIBb0FVX3lxTE85c01OTlVRRlE0UkJhNEVPM3dwdkhhQVc3MHlRZnhsY1RadmhjUGFBWFdyaVJQQ1c0VWtFUkp6ajNXX0ZtSVBxZXdsR2ZJQjJ5cmYyZ1pZZmZnem1QYlVtRERzc21mcXRkQlF5WmU2NA?oc=5",
+  "title": "[포토] '상무와의 연습경기에서 선발로 나선' 대니엘",
+  "published_at": "2026-10-27T05:18:00.000Z",
+  "collected_at": "2026-10-27T07:38:38.822Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 83,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

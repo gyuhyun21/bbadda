@@ -1,0 +1,29 @@
+{
+  "id": "news-5d87c234",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스타뉴스",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9yakl3bGU3MXRKclc0ZUZnMVkwcU41T2JfZVl1cjRGRm5UQmJQY1JYbkdOVXhPT0pad2ExWXFHOGZQSllaaUkzUjZIX1FGSTdLMlotODVfczdJLVRhTzBVTVhiOFlzY3hpN00tWjF3X19qaWI1Q3c?oc=5",
+  "title": "[포토] '가을야구 헤어스타일은 브로콜리' 안현민",
+  "published_at": "2026-10-27T06:10:30.000Z",
+  "collected_at": "2026-10-27T07:38:38.822Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 83,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9PbDR5WEVVa284SDZmV3B4WXpPSW5iUjQ3MXBlSUlDVl92ZUlVbk52M3Z3YkVEb0hfX2xwdF9vZWRteTQ0QTNJaV9HSURiQ0Nrc1Bkd0I3c0YwSjBZSkFscnA1elpDbEJURFHSAW9BVV95cUxOb1BZM0xZUHVndzJiTWpCUUx3X3RjNmFXSHBudEhrNEpjU3dGbE45d2p1NHN1NDNseXFrSEswWGhsYTZFTDAyRXZ4enJGbG9BS3NnN3g2ZkhBMy15djI2NEdCV3VjQlktaGVuV2hUNUE?oc=5"
+    }
+  ]
+}

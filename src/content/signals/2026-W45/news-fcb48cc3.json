@@ -1,0 +1,23 @@
+{
+  "id": "news-fcb48cc3",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "news",
+  "source_name": "매일경제",
+  "url": "https://m.mk.co.kr/amp/12186144",
+  "title": "“신인왕 꼭 한 번 받아보고파”…역대 신인 최고액 경신한 키움 하현승의 목표 [MK인터뷰]",
+  "published_at": "2026-10-27T02:40:00.000Z",
+  "collected_at": "2026-10-27T07:38:38.822Z",
+  "summary_ko": "키움 하현승이 역대 신인 최고액을 경신한 뒤 신인왕을 받고 싶다는 목표를 밝혔다.",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "하현승, 신인 최고액 16억"
+}

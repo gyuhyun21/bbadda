@@ -1,0 +1,24 @@
+{
+  "id": "news-3c83eb51",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "news",
+  "announcement": true,
+  "source_name": "SPOTV NEWS",
+  "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1015605",
+  "title": "[오피셜] \"2027년에도 두산에서 뛰고 싶었다\" 타카다 22만 달러에 재계약…\"선발 도전 역량 갖출 것\"",
+  "published_at": "2026-10-27T01:13:18.000Z",
+  "collected_at": "2026-10-27T07:38:38.822Z",
+  "summary_ko": "두산이 아시아쿼터 투수 타카다와 22만 달러에 2027시즌 재계약을 공식 발표했다. 타카다는 선발 도전에 필요한 역량을 갖추겠다고 밝혔다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "타카다, 두산과 22만 달러 재계약"
+}

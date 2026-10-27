@@ -1,0 +1,26 @@
+{
+  "id": "youtube-5c39a071",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "국민트럭매매상사신부장",
+  "url": "https://www.youtube.com/watch?v=hBGTD8O4gpo",
+  "title": "#삼성라이온즈 #엘도라도 #라팍 #플레이오프 #삼성라이온즈파크 #삼성 #최강삼성",
+  "published_at": "2026-10-27T06:11:42Z",
+  "collected_at": "2026-10-27T07:38:38.822Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 563,
+    "likes": 7,
+    "comments": 2
+  },
+  "scores": {
+    "hot": 42,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

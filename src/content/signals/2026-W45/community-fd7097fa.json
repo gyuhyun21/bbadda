@@ -1,0 +1,37 @@
+{
+  "id": "community-fd7097fa",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "다음카페 이종격투기",
+  "url": "https://cafe.daum.net/ssaumjil/LnOm/3377936",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/CtKkdTbTlVW",
+  "title": "1차전 승리하는 KIA 타이거즈",
+  "published_at": "2026-10-26T21:42:01.000+09:00",
+  "collected_at": "2026-10-27T07:38:38.822Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 85,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9oS1ZmYjEtc0RNQXRTd2VOZEgxa1d2VC0zeWZrcUtrN3lkRmNYQW5WUGZ4NXpkMXlVY19BTXdrcDRTNXhXcjZrbDFKTlJ2Z3RYRDdpaFZNZWhOb3JRN0RDeXlUbWhPYlJnYTNMcmpDY9IBb0FVX3lxTE9oS1ZmYjEtc0RNQXRTd2VOZEgxa1d2VC0zeWZrcUtrN3lkRmNYQW5WUGZ4NXpkMXlVY19BTXdrcDRTNXhXcjZrbDFKTlJ2Z3RYRDdpaFZNZWhOb3JRN0RDeXlUbWhPYlJnYTNMcmpDYw?oc=5"
+    },
+    {
+      "source_name": "Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTFI1dWhBdEF1Mlh6SDl2WU5KcTE2dDRINGRSMlpnYmZjalNuUEgxYml1NTBzWUt1OUxrMlVaQy0tS3o5alBhYVVpNmxvWWhxWWRKTDJLVjNFN2FPTVhBR2RqODFhcC12T0l5ZXRENm5GNDZRREg1RmpOUFJKdHVjUWpmWEQxMWd00gGcAUFVX3lxTE9ueVpNSmRubUhtWGhiSzBxemFCcFJMWlBnRURaZnFRSERrLXFPd0g2NVlBOXBua1BLeEVpekQ0cW43dXFKU21DZmtxdjVpLXFMNVEycUE5OGpMcnVBNExyZW1oZU1zRmI0YUVwc0VqdUpLcVFFWmV1Q2pnQXNWWmFRQTBrQUlmem85SXVpTXpXd3V6T0ZuX01vRzhkSQ?oc=5"
+    },
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQlZBRm5DR1JYaHhkenlUMll5SGVhbVhZd3UzY3RPckd0eVhLWVB3cVRwU2RtcGp4ZERXWE1wU2YydkFRZkR1SVRxTVduZURIOGxGNmpfTUZ0VzRKa1VjVldCN1RyRjNELWxqenRWbjlfNndTUEhFdWV2UGwtWXItQUd4MmMxenRM?oc=5"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-470aa4ce",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠경향",
+  "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9uTXp3RVphOHl4N3daOXY3R0pJd1cyek42SUFXQ0pEYTdVODhJUjhnTU43Q0VLMTl3S1VtQXpGZTlKbDhxSnVha3Nmak43WnYzTzdzMmRLY1dLMFA5aUHSAWNBVV95cUxNNDh6MjJIVWZRRUc2S0QxUzdIa2hGaHFMYzdYY25kZTJPclF3eGVVVmxybGtDNnY2Z0J2cUwzb2FZd2FQUUJPVldfS3hNOVhWU0cwbWRqODVyUVVXaF9jT3haQ2s?oc=5",
+  "title": "“누가 와도 상관 없다” ‘홈런 포함 3안타 3타점’ 힐리어드 방망이는 식지 않았다···KS 1차전 선발 유력한...",
+  "published_at": "2026-10-27T07:26:00.000Z",
+  "collected_at": "2026-10-27T07:38:38.822Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

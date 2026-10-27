@@ -1,0 +1,28 @@
+{
+  "id": "youtube-e94bc65c",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "Eagles TV",
+  "url": "https://www.youtube.com/watch?v=udfz5NHqGPg",
+  "title": "(류지현 감독 합류) 이겼어도 엑스트라까지! 하루 꽉 채운 교육리그 현장 밀착취재",
+  "published_at": "2026-10-27T03:07:34Z",
+  "collected_at": "2026-10-27T07:38:38.822Z",
+  "summary_ko": "한화 공식 채널이 류지현 감독이 합류한 교육리그 현장을 밀착 취재한 영상을 올렸다. 연장까지 간 경기를 하루 종일 따라갔다.",
+  "metrics": {
+    "views": 78103,
+    "likes": 1558,
+    "comments": 150
+  },
+  "scores": {
+    "hot": 69,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "류지현 감독, 교육리그 첫 현장"
+}
