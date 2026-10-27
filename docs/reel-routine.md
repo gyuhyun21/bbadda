@@ -16,6 +16,7 @@ claude.ai 루틴 'BBADDA 릴스(매일)'(trig_01X6qpmccCS2Ef62Hm5mGK3g)는 대�
 
 0. 오늘(KST) 날짜 D, 칸 S = 지시에 칸이 있으면 그것, 없으면 지금 KST 12시 전 아침(폴더 D-reel) / 12~21시 오후(폴더 D-pm) / 21시 뒤 저녁(폴더 D-night). media/insta/reel-queue.json 의 D 항목(폴더 이름 하나 또는 배열)에 이 칸 폴더가 이미 있으면 아무것도 하지 않고 끝낸다.
    Higgsfield balance 를 확인한다. 10 미만이면 만들지 않고 끝낸다(요약에 "크레딧 부족"). 저녁 칸은 40 미만이면 만들지 않는다(앞 칸 몫을 남김).
+   주인 지정 소재(2026-10-27~): `media/insta/reel-requests.json` 의 D → 칸(아침 morning / 오후 afternoon / 저녁 night) 항목이 있으면 그 칸 릴스는 이 소재를 중심에 둔다(저녁 칸은 경기 결과와 함께). 항목은 {url, memo}. memo(주인이 적은 핵심)가 있으면 그것을 사실의 근거로 쓴다. memo 가 비었으면 url 의 기사를 수집된 소식(src/content/signals)·검색엔진 결과(제목·링크·날짜·짧은 발췌)에서 찾아 쓴다. 네이버 스포츠·뉴스 기사 본문은 robots.txt 가 막고 있어 직접 가져오지 않는다(CLAUDE.md). 근거를 못 찾으면 그 소재는 빼고 칸 기본 주제로 만들고, PR 본문 맨 위에 "지정 소재 근거 없음: <url>"을 적는다. 출처 줄에는 그 기사 링크를 넣는다.
    docs/insta-log.md 맨 위 '지금 적용' 항목(매일 점검 루틴이 정함 — 후킹 패턴·길이·주제 비중)을 읽고 따른다. 이 문서와 부딪히면 insta-log 가 우선한다(단, CLAUDE.md·저작권 규칙은 못 바꾼다).
 1. 주제 하나 고르기(사이트 데이터만, 추론 금지): 우선순위
    ① 오늘·내일 포스트시즌 경기(data/postseason.yaml — 시각·구장·예고 선발·facts·ig) ② 어제 경기 결과(ig.post, homers)
