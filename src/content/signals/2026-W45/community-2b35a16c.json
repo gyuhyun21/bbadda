@@ -1,0 +1,24 @@
+{
+  "id": "community-2b35a16c",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&page=8&document_srl=10489830330",
+  "title": "야구중독 미국인이랑 일본인들도 볼거없어서 크보 보려나",
+  "published_at": "2026-10-27T03:38:07.541Z",
+  "collected_at": "2026-10-27T21:38:07.541Z",
+  "summary_ko": "",
+  "excerpt": "... 월시랑 재팬시리즈 끝나면NC 다이노스가 노스캐롤라이나의 지지를 받던 시절 생각나게.",
+  "metrics": {},
+  "scores": {
+    "hot": 62,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

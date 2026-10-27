@@ -1,0 +1,23 @@
+{
+  "id": "community-905ccdb8",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 에이스의 환상야구",
+  "url": "https://blog.naver.com/rchhg36/224455943033",
+  "title": "[KBO] 플옵 2차전-???: 히히 아직도 나지롱",
+  "published_at": "2026-10-27T22:54:00.000+09:00",
+  "collected_at": "2026-10-27T21:38:07.541Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

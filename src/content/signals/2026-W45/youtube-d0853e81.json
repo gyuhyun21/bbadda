@@ -1,0 +1,26 @@
+{
+  "id": "youtube-d0853e81",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "얄팍",
+  "url": "https://www.youtube.com/watch?v=AodRF4T6bHE",
+  "title": "[삼성] 최형우 쇼 반응 #삼성라이온즈 #야구",
+  "published_at": "2026-10-27T17:34:22Z",
+  "collected_at": "2026-10-27T21:38:07.541Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 2,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 6,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

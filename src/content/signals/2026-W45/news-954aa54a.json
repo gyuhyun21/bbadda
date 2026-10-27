@@ -1,0 +1,23 @@
+{
+  "id": "news-954aa54a",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5jZk1TZWl4VW5rM0h6UGRiZXVWVW5fRzc4NS1TckM0c1ZCWFlpcVpRcUNfTWtQVDlJUUg2aEJWV2hGY2p4ZVBGZnpKcW54dlU0bldZaXdENlIwY3IzTmVzdG9XTkVpc19kRTYyT1JEUdIBb0FVX3lxTE5jZk1TZWl4VW5rM0h6UGRiZXVWVW5fRzc4NS1TckM0c1ZCWFlpcVpRcUNfTWtQVDlJUUg2aEJWV2hGY2p4ZVBGZnpKcW54dlU0bldZaXdENlIwY3IzTmVzdG9XTkVpc19kRTYyT1JEUQ?oc=5",
+  "title": "[사진] 디아즈, 간절했던 투런포",
+  "published_at": "2026-10-27T10:54:00.000Z",
+  "collected_at": "2026-10-27T21:38:07.541Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 72,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

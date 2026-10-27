@@ -1,0 +1,22 @@
+{
+  "id": "news-8f8f7355",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "뉴시스",
+  "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ObUN5SktpUU90YjJmX0RaUnZRNlFXcEtqUHJpLUVweFRCQjVMNTEzd3pPekZZeG4tcXhHUFRaM3MwU053c0tqcGRMUTRZcjRXcDNUeTRES1VkOFpOLWZvbVlGM1JBNGcwWEVfSHk0US1xaFdqMW5QMdIBeEFVX3lxTE5ObUN5SktpUU90YjJmX0RaUnZRNlFXcEtqUHJpLUVweFRCQjVMNTEzd3pPekZZeG4tcXhHUFRaM3MwU053c0tqcGRMUTRZcjRXcDNUeTRES1VkOFpOLWZvbVlGM1JBNGcwWEVfSHk0US1xaFdqMW5QMQ?oc=5",
+  "title": "수비도 타격도 완벽했다…삼성 최형우, 환상 보살에 대포까지 '쾅'[PO]",
+  "published_at": "2026-10-27T12:55:51.000Z",
+  "collected_at": "2026-10-27T21:38:07.541Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 80
+  },
+  "sentiment": "neutral"
+}

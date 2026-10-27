@@ -1,0 +1,22 @@
+{
+  "id": "news-e2150a6e",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "마이데일리",
+  "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE42S3ZvSzhTZmRFVmc3SElIRjlJOGZ2WVE0U1F4enlPZURDUDhzSG00WldKU3R0MkxJWnBtNGIzSUt0N2dNaDNEZkFLbHlDVFpiRkVSek5LT1l6cVJmQ2I4dUVFYVVLZw?oc=5",
+  "title": "“KIA 타선 만만치 않아요” 원태인 5점차 마무리, 누가 박진만에게 돌을 던지랴…또 마무리? 선발 유턴? 안 알려줌[MD대구]",
+  "published_at": "2026-10-27T21:10:00.000Z",
+  "collected_at": "2026-10-27T21:38:07.541Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 84,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

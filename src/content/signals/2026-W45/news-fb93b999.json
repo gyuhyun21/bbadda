@@ -1,0 +1,22 @@
+{
+  "id": "news-fb93b999",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "뉴시스",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5nc3FIaDk0aDJkRVR5bTc2dmVOLWZCejNlOUgxaEljTmx0MG1Gc2FicXhOOFJUQ1N6LXNjVlRKRjFUT1Y3Ykd4a0lTYXQ3RUdORVkwSGczVkRKZDFrbk81VtIBeEFVX3lxTE5WZzlHUVdsWDNOYmtRVUVLdWJlQUwzcjNOOUlaUkJuMUhjcFIyaEtHTW5jNnd2S0ZYdEFCc1lWVHJ6djNXM1NrWkhMX2NERnZaVGVpaVh4NUdDSU8xZ2oxX0FPZnF1eHFER2t6NW8tSlgyNmJFcDhYaw?oc=5",
+  "title": "'2차전 패배' KIA 이범호 감독 \"후라도 공략 못 해…적지서 1승1패 만족\"[PO]",
+  "published_at": "2026-10-27T13:44:19.000Z",
+  "collected_at": "2026-10-27T21:38:07.541Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 73,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

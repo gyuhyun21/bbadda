@@ -1,0 +1,23 @@
+{
+  "id": "community-c7b4b801",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 야구를 알려주는 남자",
+  "url": "https://yaalnam.tistory.com/23",
+  "title": "고척스카이돔 직관 가이드, 비 와도 야구 보는 곳",
+  "published_at": "2026-10-27T10:00:00.000+09:00",
+  "collected_at": "2026-10-27T21:38:07.541Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 61,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

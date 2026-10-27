@@ -1,0 +1,22 @@
+{
+  "id": "news-b5112894",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "남도일보",
+  "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1kQkxlOWxBM1Fla2FJU2tIRi1aanZ1Y2pLN3BKdFo3RXYwSEJhWlZvX0p3QXV1OF9mcFc0azRyQm43d3JpRDFnUzJVT0RfTlR3NlZHS0pwN3RyZzZ1akpCczVMS0NIWU9VQllFTtIBcEFVX3lxTE5ObEZlaW8tZjRLbVgzamNXVmhxVjVnR050dURaWDNSUHFrY0JhcG5qSjA2Z2dqY1RTNWdIaUJxMXRrenRSM243cG1jemM5bDFoOVpsb0dZUEJ0MUxxRlR1S0VOeFVOTXJ6TEg2UG1tR3E?oc=5",
+  "title": "[프로야구 PO]후라도에 막힌 KIA, 가을야구 첫 패…1승 1패로 광주행",
+  "published_at": "2026-10-27T12:45:02.000Z",
+  "collected_at": "2026-10-27T21:38:07.541Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 73,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

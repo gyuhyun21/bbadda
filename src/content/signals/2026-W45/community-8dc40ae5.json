@@ -1,0 +1,24 @@
+{
+  "id": "community-8dc40ae5",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 베이스볼 러브",
+  "url": "https://blog.naver.com/info_777/224451123693",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/UaNxpAFhXZ",
+  "title": "문상철 은퇴, 내년 은퇴식까지 선수로 계속 뛰는 걸까?",
+  "published_at": "2026-10-28T06:00:00.000+09:00",
+  "collected_at": "2026-10-27T21:38:07.541Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "youtube-35ef6e91",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "푸른피강순",
+  "url": "https://www.youtube.com/watch?v=hfBiG5V4X4s",
+  "title": "#kbo #야구 #삼성라이온즈 #삼성라이온즈파크 #플레이오프",
+  "published_at": "2026-10-27T16:33:36Z",
+  "collected_at": "2026-10-27T21:38:07.541Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 76,
+    "likes": 1,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 33,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

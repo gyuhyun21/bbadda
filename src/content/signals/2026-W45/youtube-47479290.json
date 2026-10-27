@@ -1,0 +1,27 @@
+{
+  "id": "youtube-47479290",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "수염오빠",
+  "url": "https://www.youtube.com/watch?v=QF5VXh7WeHI",
+  "title": "플레이오프 2차전 리뷰 ㅣ후라도와 최형우의 야구주머니",
+  "published_at": "2026-10-27T13:44:56Z",
+  "collected_at": "2026-10-27T21:38:07.541Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 2100,
+    "likes": 72,
+    "comments": 3
+  },
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

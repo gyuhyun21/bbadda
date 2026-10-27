@@ -1,0 +1,24 @@
+{
+  "id": "news-071dd957",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스핌",
+  "url": "https://www.newspim.com/news/view/20261027001523",
+  "title": "[PO 포커스] 2366일 만에 불펜 나선 원태인, 삼성의 뒷문 지켰다",
+  "published_at": "2026-10-27T20:52:00.000Z",
+  "collected_at": "2026-10-27T21:38:07.541Z",
+  "summary_ko": "원태인이 2366일 만에 불펜으로 나서 삼성의 뒷문을 지켰다.",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "원태인, 2366일 만의 불펜",
+  "hook_ko": "2366일 만의 불펜\n5점 차 원태인은 왜?"
+}

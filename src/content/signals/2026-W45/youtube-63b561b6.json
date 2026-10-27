@@ -1,0 +1,26 @@
+{
+  "id": "youtube-63b561b6",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "훈 튜브",
+  "url": "https://www.youtube.com/watch?v=sLYk_3cDJ3E",
+  "title": "삼성라이온즈 역대 플레이오프 성적표",
+  "published_at": "2026-10-27T20:34:00Z",
+  "collected_at": "2026-10-27T21:38:07.541Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1065,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 35,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

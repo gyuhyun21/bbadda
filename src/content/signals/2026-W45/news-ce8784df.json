@@ -1,0 +1,23 @@
+{
+  "id": "news-ce8784df",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "폴리타임즈",
+  "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9HWGpVV2FUQ2xTZGxpODdFMHBRTGlGRENoMEE2bXgwbWF2YzRmTFV4dU90WjA3YU5aNzl6dWs1bWtvUUpDMHZISXRaMnlXS3YzOHFkTWtvT2lMWnFUSVYzeHFLbEF2SFpTaDlWVg?oc=5",
+  "title": "삼성, KIA의 파죽지세 꺾고 대반격…논란의 '마무리 원태인' 카드에 야구팬 웅성웅성",
+  "published_at": "2026-10-27T14:59:03.000Z",
+  "collected_at": "2026-10-27T21:38:07.541Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 80
+  },
+  "sentiment": "negative"
+}

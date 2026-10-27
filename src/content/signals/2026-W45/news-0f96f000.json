@@ -1,0 +1,29 @@
+{
+  "id": "news-0f96f000",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "OSEN",
+  "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1yZXkydzQwc2V0Tk9fU1NocFE5SFFHMm1JSTRLRnZjNXJCQlRPOWhaZHlMZjhYaDMyVlNXR0JHVGFIeUtrUzNOTy1MRmNESkpVNmx3?oc=5",
+  "title": "'ML도 탐냈던' 9억팔의 타자 전향, 아직 1군은 무리인가…삼진-삼진-내야뜬공, 4번타자 체면 구기다",
+  "published_at": "2026-10-27T15:19:00.000Z",
+  "collected_at": "2026-10-27T21:38:07.541Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE15SGhuRDhFRm1MT0d0bVVDZ0Fjc21ubnUwMkhvLTJpRmMtNUZvUldEUGZLM2c4bWtiNEJ3U2l2YzVWT05IQjFZQTVtSm5tb2dCNzhMdFNwYURKMEZXWmgxaFRpX2pBdnpzekc5aUstZ9IBb0FVX3lxTE15SGhuRDhFRm1MT0d0bVVDZ0Fjc21ubnUwMkhvLTJpRmMtNUZvUldEUGZLM2c4bWtiNEJ3U2l2YzVWT05IQjFZQTVtSm5tb2dCNzhMdFNwYURKMEZXWmgxaFRpX2pBdnpzekc5aUstZw?oc=5"
+    }
+  ]
+}

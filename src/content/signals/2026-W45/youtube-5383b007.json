@@ -1,0 +1,27 @@
+{
+  "id": "youtube-5383b007",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha",
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "오늘핫이슈",
+  "url": "https://www.youtube.com/watch?v=sAzyhcEzfPo",
+  "title": "하주석, 한화 2군이었는데 석 달 만에 KIA 가을야구 주전",
+  "published_at": "2026-10-27T19:59:06Z",
+  "collected_at": "2026-10-27T21:38:07.541Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 4496,
+    "likes": 45,
+    "comments": 4
+  },
+  "scores": {
+    "hot": 51,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

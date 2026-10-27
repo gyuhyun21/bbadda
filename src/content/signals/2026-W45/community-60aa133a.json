@@ -1,0 +1,23 @@
+{
+  "id": "community-60aa133a",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 순간캐치",
+  "url": "https://blog.naver.com/momentcatch/224456021042",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/LdfqWdmFGlg",
+  "title": "라이언 와이스 한화 복귀설, 2025년 WHIP 1.02에서 2026년 2.12로",
+  "published_at": "2026-10-28T00:27:00.000+09:00",
+  "collected_at": "2026-10-27T21:38:07.541Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

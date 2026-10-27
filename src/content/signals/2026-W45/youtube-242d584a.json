@@ -1,0 +1,27 @@
+{
+  "id": "youtube-242d584a",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "fnzh",
+  "url": "https://www.youtube.com/watch?v=hVtITT6bLAw",
+  "title": "광주의 함성 갸루코 #루코 #치지직스트리머 #lg트윈스 #kbo #kia타이거즈 #김도영",
+  "published_at": "2026-10-27T17:56:49Z",
+  "collected_at": "2026-10-27T21:38:07.541Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1311,
+    "likes": 13,
+    "comments": 2
+  },
+  "scores": {
+    "hot": 46,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

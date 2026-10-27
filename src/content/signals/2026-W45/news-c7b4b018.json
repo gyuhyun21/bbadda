@@ -1,0 +1,23 @@
+{
+  "id": "news-c7b4b018",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠한국",
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE54MG9DUWlVYmJTd2Q1UkJ4dXhvYm9sM2hhMFhzRXo5aWdQNzRsbjR3R2NLWTdRMFVjY1Y5LWVMekJDeHNTblE5Q19zVDFOME9IQ250MEpLOVNCZXhNbml0MWhmMTV3X29wanA4eDIxbU7SAXRBVV95cUxPQTEySXU0bDZYTnVCcV9DenV4d21qd0xYVFd6SHo2VlN0ZWNjUWZtSnhySlZYNlQyZkN6b1ZYLUlYWkk3dWwzOUVWLUJqN1RGSDBaQ2l5Y3pVU2g4RHNobFVmSE5jMjlJWmRTY0dubU1kUFRLOA?oc=5",
+  "title": "마무리 원태인이라니…이범호 감독 '원태인 올라오지 않도록 하는게 중요'[PO2]",
+  "published_at": "2026-10-27T08:19:59.000Z",
+  "collected_at": "2026-10-27T21:38:07.541Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

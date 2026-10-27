@@ -1,0 +1,23 @@
+{
+  "id": "news-98a91140",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "news",
+  "source_name": "마이데일리",
+  "url": "https://mydaily.co.kr/page/view/2026102718051562321",
+  "title": "'한화 팬들도 궁금' 대만 특급 왜 한화 다년 계약 거절했나…\"천천히 가고 싶었다, ML 기회 있었으면\" 4억 재계약 막전막후 전격 공개",
+  "published_at": "2026-10-27T19:41:00.000Z",
+  "collected_at": "2026-10-27T21:38:07.541Z",
+  "summary_ko": "왕옌청이 한화의 다년 계약 제안을 거절하고 4억 재계약을 택한 막전막후를 다룬 기사다. 제목에는 '천천히 가고 싶었다'는 본인 말이 담겼다.",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "왕옌청, 다년 계약 거절"
+}

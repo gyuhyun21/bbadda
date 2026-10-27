@@ -1,0 +1,30 @@
+{
+  "id": "community-2a4ec2a2",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 dambau",
+  "url": "https://dambau6210.tistory.com/5091",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/ACfdJ5ZyL23",
+  "title": "42세 최형우의 ‘퍼펙트 데이’…PS 최고령 홈런·타점·보살까지",
+  "published_at": "2026-10-28T03:35:02.000+09:00",
+  "collected_at": "2026-10-27T21:38:07.541Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 99,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE50ZHZUWnhiN0t5RGFUUVZSSlVYNEk4RzVlRm5tenVhdFp6OHI3cEJoVDVtZDZXdFlCU3VJODg0Q3JVNFR1WnJSOHl3ZERGc3F4SWRQZV9TNlhIRkVlWFpBStIBYEFVX3lxTE50ZHZUWnhiN0t5RGFUUVZSSlVYNEk4RzVlRm5tenVhdFp6OHI3cEJoVDVtZDZXdFlCU3VJODg0Q3JVNFR1WnJSOHl3ZERGc3F4SWRQZV9TNlhIRkVlWFpBSg?oc=5"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "news-224cf396",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스타뉴스",
+  "url": "https://www.starnewskorea.com/sports/2026/10/28/2026102721495826003",
+  "title": "'카스트로도 디아즈도 터졌다고?' 누구든 와라! 44홈런 타점왕 힐리어드도 홈런 포함 3안타 폭발 \"KS서 준비한 거 모두 쏟아내겠다\"",
+  "published_at": "2026-10-27T21:16:32.000Z",
+  "collected_at": "2026-10-27T21:38:07.541Z",
+  "summary_ko": "44홈런 타점왕 힐리어드가 홈런 포함 3안타를 쳤다. KS에서 준비한 것을 모두 쏟아내겠다고 했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBzUzNXN3JlcXo1bnZWNHJhTzFlR1hieHpqTWNBQUFySXE1ZXpRQWg5SE5STUp6T2RxUk9oekd3Q0tCYmVFLU5hQXEwVHNVT1FvRlF5VEd3S1NvTl8zaGUySFllMjZHRG5YTHfSAW9BVV95cUxQYmZRbmttZmU3c3VCZ3JJOU55VVdKY2N2M3BteU1CMmxic0pxc3JYcnRxV1NJcjdlZXdwS0tKYjN5LWFvUHpubXprRlVXYVluOUU2dHk0RzVsRUh5LWVrZDVnQXlIWW5YU0l4ek1wZ3M?oc=5"
+    }
+  ],
+  "brief_ko": "힐리어드, 홈런 포함 3안타"
+}
