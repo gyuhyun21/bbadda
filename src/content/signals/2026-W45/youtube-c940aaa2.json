@@ -1,0 +1,29 @@
+{
+  "id": "youtube-c940aaa2",
+  "issue": "2026-W45",
+  "module": "league",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "team": "samsung",
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=OcQe8C4mSic",
+  "title": "주자를 잡아낸 삼성 좌익수 최형우의 펜스플레이와 완벽한 보살! | PO2_KIA vs 삼성 | 10.27 | 크보모먼트 | KBO 야구 하이라이트",
+  "published_at": "2026-10-27T12:11:50Z",
+  "collected_at": "2026-10-27T13:48:03.314Z",
+  "summary_ko": "KBO 공식 채널이 삼성 좌익수 최형우의 펜스 플레이와 보살 장면을 올렸다.",
+  "metrics": {
+    "views": 5115,
+    "likes": 655,
+    "comments": 94
+  },
+  "scores": {
+    "hot": 79,
+    "relevance": 80
+  },
+  "sentiment": "neutral",
+  "brief_ko": "최형우 보살 영상"
+}

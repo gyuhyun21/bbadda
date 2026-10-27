@@ -1,0 +1,24 @@
+{
+  "id": "community-a67053a4",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 햄휴먼과 떠나는 세상",
+  "url": "https://blog.naver.com/gustmd927/224455877454",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/AXjixP7ACQG",
+  "title": "기아 삼성 플레이오프 2차전 중계 오늘의 관전포인트",
+  "published_at": "2026-10-27T21:42:00.000+09:00",
+  "collected_at": "2026-10-27T13:48:03.314Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

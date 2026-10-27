@@ -1,0 +1,23 @@
+{
+  "id": "community-2974052e",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 경제 한 스푼",
+  "url": "https://blog.naver.com/economy_1spoon/224455558694",
+  "title": "이대형 코치직 행선지 깜짝 예고, 유력 후보와 향후 전망 정리",
+  "published_at": "2026-10-27T16:31:00.000+09:00",
+  "collected_at": "2026-10-27T13:48:03.314Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "news-806df813",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "마이데일리",
+  "url": "https://www.mydaily.co.kr/page/view/2026102720243847825",
+  "title": "올러는 대구와 안 맞는다? 박승규→구자욱→디아즈에게 와르르…이의리 볼넷→사구→볼넷 난조까지 ‘최악의 하루’[MD대구 PO2]",
+  "published_at": "2026-10-27T11:24:43.000Z",
+  "collected_at": "2026-10-27T13:48:03.314Z",
+  "summary_ko": "마이데일리는 KIA 올러가 대구에서 다시 흔들렸고, 이의리의 볼넷·사구 난조까지 겹쳤다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "올러 흔든 대구, 이의리도"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "news-1afc0895",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "조선일보",
+  "url": "https://www.chosun.com/sports/baseball/2026/10/27/HA2DOMZQMI2DQOLEGM3TAOBZGY/",
+  "title": "\"한국시리즈 1선발? 현실이 된다면…생애 첫 가을야구 떨리지만, 추운 날씨는 자신있다\" 대니엘의 벅찬 진심 [인터뷰]",
+  "published_at": "2026-10-27T10:12:00.000Z",
+  "collected_at": "2026-10-27T13:48:03.314Z",
+  "summary_ko": "조선일보는 KT 대니엘이 한국시리즈 1선발 가능성에 대해 생애 첫 가을야구가 떨리지만 추운 날씨는 자신 있다고 말했다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "대니엘 \"추운 날씨 자신있다\""
+}

@@ -1,0 +1,29 @@
+{
+  "id": "news-e7fe86d3",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9zZkxqUUhDYTV1Q2MwUXhlS1BMQkFCRVNtR19ZYkY5RVFaRFVJYnFwSm9fR0ZRbGdHOTV3eTd2b2gtN21xak5XSjhmQnN0Ym1nWkNLM2VxX3dNZFRBeTluTDVmR1hqUVdfRzFnX3F2VdIBb0FVX3lxTE9zZkxqUUhDYTV1Q2MwUXhlS1BMQkFCRVNtR19ZYkY5RVFaRFVJYnFwSm9fR0ZRbGdHOTV3eTd2b2gtN21xak5XSjhmQnN0Ym1nWkNLM2VxX3dNZFRBeTluTDVmR1hqUVdfRzFnX3F2VQ?oc=5",
+  "title": "'삼성 최형우 출격'→김호령 카드로 수비 강화... 중심타자만 터진 KIA, 타선 바꿔 2연승 노린다 [PO2 KIA 선발라인업]",
+  "published_at": "2026-10-27T07:59:47.000Z",
+  "collected_at": "2026-10-27T13:48:03.314Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 80
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE10Nm9LM18wZGN2ckJtck9HY1pHRnVSbmk3enBuOHdDUnNWeHJvYmotbTRDUC1hdG9qWDQ0Um8yak90OTdZTEJvalFyZWRpcHYzOHlob2ZkSFN1SnJhcmdPUzF0VVdod2czTzQ1V3ZqcmFSZm8tc1E?oc=5"
+    }
+  ]
+}

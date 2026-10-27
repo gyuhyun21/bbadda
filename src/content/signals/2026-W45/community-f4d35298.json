@@ -1,0 +1,23 @@
+{
+  "id": "community-f4d35298",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 BBC 미디어센터",
+  "url": "https://blog.naver.com/sunhoo272/224455828621",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/LUywZ3AIEl1",
+  "title": "팬심에 응답하다: 선수들의 요청으로 열린 KT 위즈 한국시리즈 담금질",
+  "published_at": "2026-10-27T21:40:00.000+09:00",
+  "collected_at": "2026-10-27T13:48:03.314Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

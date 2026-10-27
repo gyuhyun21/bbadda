@@ -1,0 +1,27 @@
+{
+  "id": "youtube-df883a12",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "youtube",
+  "source_name": "외야석야구",
+  "url": "https://www.youtube.com/watch?v=DfrdWShWYI4",
+  "title": "KBO 역사상 가장 화려한 마지막 타석 #데이비슨 #NC다이노스 #KBO",
+  "published_at": "2026-10-27T08:30:32Z",
+  "collected_at": "2026-10-27T13:48:03.314Z",
+  "summary_ko": "한 팬 채널이 NC 데이비슨의 마지막 타석을 담은 영상을 올렸다.",
+  "metrics": {
+    "views": 1262,
+    "likes": 4,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 35,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "데이비슨 마지막 타석"
+}

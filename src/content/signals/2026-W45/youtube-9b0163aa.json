@@ -1,0 +1,26 @@
+{
+  "id": "youtube-9b0163aa",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "밤바",
+  "url": "https://www.youtube.com/watch?v=5XeIxt1wVrA",
+  "title": "삼성의 대반격 디아즈 홈런 폭발 #삼성라이온즈 #기아타이거즈 #프로야구",
+  "published_at": "2026-10-27T13:02:46Z",
+  "collected_at": "2026-10-27T13:48:03.314Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 735,
+    "likes": 8,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 39,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

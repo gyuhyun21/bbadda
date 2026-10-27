@@ -1,0 +1,22 @@
+{
+  "id": "community-30ab85f3",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 이기자의 스포츠 리뷰",
+  "url": "https://blog.naver.com/spo_tv/224455582203",
+  "title": "두산 타카다 22만 달러 재계약 소식에 팬들 반응은",
+  "published_at": "2026-10-27T16:39:00.000+09:00",
+  "collected_at": "2026-10-27T13:48:03.314Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

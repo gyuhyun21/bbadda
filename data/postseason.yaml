@@ -113,14 +113,22 @@ rounds:
       - no: 2
         date: 2026-10-27
         venue: 대구
+        result: { kia: 3, samsung: 8 }
+        source: "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4tdnpqOUE1bld5TnpFckRDeEFSMW1sdlowQjdVVjA3dXQ1Rk1mUlhQTFo4bGlGT1p4bGxLSFJaNDdGdHhMN0pHaWpQZ0NYSDFTcl91VG9hNA?oc=5" # 뉴스1 종합 8-3
+        mvp: "후라도(삼성)" # 뉴스1 '삼성, KIA 8-3 제압 1승 1패 원점…후라도 데일리 MVP(종합)'
+        homers: ["디아즈(삼성) 3회 투런", "최형우(삼성) 솔로"] # 뉴스핌 'AI그래픽 디아즈 3회 4-1 투런', KBO 공식 '최형우의 솔로 홈런'
+        attendance: "만원 관중 (포스트시즌 43경기 연속 매진)" # 뉴시스
         starters: { kia: 올러, samsung: 후라도 } # 예고 선발(마이데일리 'KIA-삼성 외야 수비 초비상', 뉴스핌 'AI프리뷰 27일 후라도 등판', 2026-10-27)
         starter_notes: { samsung: "포스트시즌 첫 승 도전" } # 매일경제 '후라도, PS 첫 승 챙기며 위기에 몰린 삼성 구할까'
         ig:
           pre: { hook: "삼성 반격 카드\n후라도가 나선다", sub: "KIA 6연승 vs 삼성 PS 첫 승 도전" }
+          post: { hook: "하루 만에 8점\n삼성, 원점으로", sub: "KIA 꺾고 PO 1승 1패", points: ["후라도, 6⅔이닝 2실점 108구 역투", "디아즈 3회 투런, 최형우 솔로포", "5점 차 9회, 원태인 마무리 등판"] }
         facts:
           - "경기 시간 대구 초속 5m 강풍 예고"
           - "삼성 최형우 좌익수·구자욱 동시 선발"
         sources:
+          - "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9UZ1RNbkpiYXlibm00MGpNMl9wYWhhVFVHbC1TVWdNVkE3b0g0dkZ6R0Z5MTNQR0FDSDNlelNzWTRHMnBnQW5SaUF0NFpnVEFIWDlyamg4ck0wcU1I?oc=5" # 디아즈 3회 투런(뉴스핌)
+          - "https://news.google.com/rss/articles/CBMiYEFVX3lxTE15LVRWR3QtLXpRYmxTTGdGOU1oNFhqQ3lsci1FZDBvQUdEblktVFA2Q0VNaWFseUxzejRfdURGaDN4ZVJwNWpQWVgtWDBXT3l4NElYNktONmV2cThHdUZGWdIBeEFVX3lxTE40QUc2SDJEMDlaRXNyaEpwUG1xZGtjaVp0TG9tY215S3FmdmI0TDBNMndSNk1qeTFhbVBhcy15SFJzQVBNcnBTWE9wbEI5ZEJWZWlGdGNObnJxRkRhRXZiNjR1M2hJR25YVFQxcmRnS0wzYmdsOFBISw?oc=5" # 만원 관중·43경기 연속 매진(뉴시스)
           - "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9RcHJTZGF4NkY3bmhHNkpsWnNiV1phR080T2hBaDJqN2sxbUlYS21GXy1TWGdyZWdITmZDV25HSkxkaDhvNGVGRndON2RJNXNWUGQzVmw4cXZOWWVsMUlxbENZTFBmZw?oc=5" # 강풍 예고·후라도/올러
           - "https://news.google.com/rss/articles/CBMiXEFVX3lxTE45emp0YmhuOXRIMHo3S21pMnRXMlN1OUtFMTFRcGU4M3dSVmxpbjBOOFVqemwzYjlpSEx1M1FpN3VST2x2Wmo3MU1ULVJPSC0zcU41V3llWm5mSlZh?oc=5" # 뉴스핌 후라도 등판
           - "https://news.google.com/rss/articles/CBMiRkFVX3lxTE42NGVhSm1LSElITjBRSzc2WVBjNUprcXNSVmFYUnplUXRYc19Ndk5sMkdjYWxGREVRNFV5d3Q1eDZ2R29KV2c?oc=5" # 후라도 PS 첫 승

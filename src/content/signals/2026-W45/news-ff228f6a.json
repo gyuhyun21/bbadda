@@ -1,0 +1,24 @@
+{
+  "id": "news-ff228f6a",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "뉴스엔",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5kX1JjN0Z2UzdWTUFwMVJjd0pyNWZidzIxb1hGWUV2NkNVVHVBc1U2a3dfM21zNDNHeVJZR3ZQOFNxVU1sX2FvYlpUbTliWHdaLVdUbkU4ajg0eTJLUEtCeDE3R3g5S2VJ?oc=5",
+  "title": "이택근 ‘불꽃야구’ 하차, 중요한 시기 동료 외면? 해명 요구에 “부인 못해, 사실 너무 좋다”",
+  "published_at": "2026-10-27T05:11:18.000Z",
+  "collected_at": "2026-10-27T13:48:03.314Z",
+  "summary_ko": "뉴스엔에 따르면 이택근이 '불꽃야구'에서 하차한 배경에 대한 해명 요구에 \"부인 못해, 사실 너무 좋다\"고 답했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "이택근 불꽃야구 하차 해명"
+}

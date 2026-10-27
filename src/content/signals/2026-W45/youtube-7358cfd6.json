@@ -1,0 +1,28 @@
+{
+  "id": "youtube-7358cfd6",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom",
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "야구너울",
+  "url": "https://www.youtube.com/watch?v=XsesPgEV0_I",
+  "title": "키움이 놓친 이닝왕 후라도, 파나마에서 삼성 에이스가 되기까지 ㄷㄷ",
+  "published_at": "2026-10-27T13:16:15Z",
+  "collected_at": "2026-10-27T13:48:03.314Z",
+  "summary_ko": "한 팬 채널이 키움이 놓친 이닝왕 후라도가 파나마에서 삼성 에이스가 되기까지를 다룬 영상을 올렸다.",
+  "metrics": {
+    "views": 322,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 26,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "후라도, 삼성 에이스까지"
+}

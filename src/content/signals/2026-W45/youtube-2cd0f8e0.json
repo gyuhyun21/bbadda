@@ -1,0 +1,26 @@
+{
+  "id": "youtube-2cd0f8e0",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "youtube",
+  "source_name": "아치하이넷",
+  "url": "https://www.youtube.com/watch?v=RQFCoypEJ1k",
+  "title": "견제구 맞은 장두성, 피를 흘리면서도 일단 2루까지 갔다 #장두성 #롯데자이언츠",
+  "published_at": "2026-10-27T12:00:33Z",
+  "collected_at": "2026-10-27T13:48:03.314Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 297,
+    "likes": 1,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 29,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

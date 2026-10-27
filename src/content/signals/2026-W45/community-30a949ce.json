@@ -1,0 +1,25 @@
+{
+  "id": "community-30a949ce",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 캄스포츠",
+  "url": "https://blog.naver.com/cryistal2/224455687010",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/3qTGkHryH84",
+  "title": "\"박수받으며 떠나고 싶었다..\" 장시환, 1군도 2군도 못 던지고 짐 쌌다",
+  "published_at": "2026-10-27T19:40:00.000+09:00",
+  "collected_at": "2026-10-27T13:48:03.314Z",
+  "summary_ko": "한 블로그에 따르면 장시환이 1군·2군 모두 던지지 못한 채 짐을 쌌다. \"박수받으며 떠나고 싶었다\"는 말을 다뤘다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "장시환, 박수받고 싶었다"
+}

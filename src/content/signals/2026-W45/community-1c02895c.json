@@ -1,0 +1,38 @@
+{
+  "id": "community-1c02895c",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 해용님의 블로그",
+  "url": "https://livestoryforge.com/16452",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/JcgrdJhs3YD",
+  "title": "2주 공백 딛고 44홈런 외인 거포, 한국시리즈 앞두고 맹타 폭발!",
+  "published_at": "2026-10-27T21:05:48.000+09:00",
+  "collected_at": "2026-10-27T13:48:03.314Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 99,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE85Mkg5MjZEXzFKdDdJenB5aGluMmh0QmJyR21qREY2SkdVR0pKLVRFd3lCdGRZelF1WjI0RzJqaEV5by1OSHFFUTVUN25zNjFheFRpTzlLdW95cm1oSllwY1I2UXNDUVVjZUwxZVFNRdIBb0FVX3lxTE85Mkg5MjZEXzFKdDdJenB5aGluMmh0QmJyR21qREY2SkdVR0pKLVRFd3lCdGRZelF1WjI0RzJqaEV5by1OSHFFUTVUN25zNjFheFRpTzlLdW95cm1oSllwY1I2UXNDUVVjZUwxZVFNRQ?oc=5"
+    },
+    {
+      "source_name": "Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWUNuMjQ2dTdxa1Yzd3RPUUdla0FpcEk1Q2FNZDZONEQxeWZfQlRzdTZQOGNiZElnSVpOeHZSR2NZSTQyRURueWRhZFA0UXg5aC1qd1hQNU53TVU0TU40eU9wanl0cGo3NUJWQllsU19vQ2IxdDZCOGNqajdhRHNkM3B0bGZnOXBfVUYxQmVEODBjbkZEcU040gGXAUFVX3lxTFBZQ24yNDZ1N3FrVjN3dE9RR2VrQWlwSTVDYU1kNk40RDF5Zl9CVHN1NlA4Y2JkSWdJWk54dlJHY1lJNDJFRG55ZGFkUDRReDloLWp3WFA1TndNVTRNTjR5T3BqeXRwajc1QlZCWWxTX29DYjF0NkI4Y2pqN2FEc2QzcHRsZmc5cF9VRjFCZUQ4MGNuRkRxTTg?oc=5"
+    },
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTFJ4cjRYbG9ZU1lKeDdsNTZfZllLU1pGSHFfU0hjeHdnZ2xGRW80Yk8wSlNrQzVHN24wX2dkWjRNQklaX2Y1TF9lX2dNTzZjOEhIeGxrRS1WU01wb1FFa3pwR2RDZEV0UUxwWWE3RjZfcEtfNkVwdnB5d3FlbWxhckVqTQ?oc=5"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "youtube-fca0ea2e",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "youtube",
+  "source_name": "서리",
+  "url": "https://www.youtube.com/watch?v=M2ZwhlFg1yo",
+  "title": "동글 동글 동글이 #두산베어스 #김택연 #타쿠 #타카다 #髙田琢登 들어보세요!",
+  "published_at": "2026-10-27T08:57:24Z",
+  "collected_at": "2026-10-27T13:48:03.314Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 394,
+    "likes": 3,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 33,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

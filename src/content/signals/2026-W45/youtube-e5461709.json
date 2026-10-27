@@ -1,0 +1,26 @@
+{
+  "id": "youtube-e5461709",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "youtube",
+  "source_name": "픽스티비",
+  "url": "https://www.youtube.com/watch?v=xwxo2GFfiWY",
+  "title": "손아섭 NC 복귀 급물살…이호준 감독까지 직접 연락했다! #손아섭 #스포츠중계",
+  "published_at": "2026-10-27T08:13:01Z",
+  "collected_at": "2026-10-27T13:48:03.314Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 758,
+    "likes": 6,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 37,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-5ff56901",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "뉴시스",
+  "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0zTkdWeDNyazdtWkNmVU5YZFhCc2tDNXZUS2tpcUtCOHh5dWx1UXQzX2g1NHEweDBMd0wwU3M1b19WUXVxQkdVY3Jxd0YtN1c0aklJV0dPQ1JoTG42eE1hbVI0SzlKeFozLUxCNzJsT3RHN3RweG9HUNIBeEFVX3lxTE0zTkdWeDNyazdtWkNmVU5YZFhCc2tDNXZUS2tpcUtCOHh5dWx1UXQzX2g1NHEweDBMd0wwU3M1b19WUXVxQkdVY3Jxd0YtN1c0aklJV0dPQ1JoTG42eE1hbVI0SzlKeFozLUxCNzJsT3RHN3RweG9HUA?oc=5",
+  "title": "시구자로 마운드 선 오승환 \"패대기 안 쳐서 만족…원태인 이 갈고 있을 것\"[PO]",
+  "published_at": "2026-10-27T10:27:31.000Z",
+  "collected_at": "2026-10-27T13:48:03.314Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 83,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

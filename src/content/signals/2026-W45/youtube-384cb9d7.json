@@ -1,0 +1,26 @@
+{
+  "id": "youtube-384cb9d7",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "꿀반장TV",
+  "url": "https://www.youtube.com/watch?v=kX03NGHQ20k",
+  "title": "나성범이 바라던 그 빨간 물결 응원 #기아타이거즈 #kbo #나성범",
+  "published_at": "2026-10-27T11:32:10Z",
+  "collected_at": "2026-10-27T13:48:03.314Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1093,
+    "likes": 22,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 48,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "community-804ff736",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 일상 심리 편의점",
+  "url": "https://blog.naver.com/jnblab1001/224451479882",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/JlGuQHUZHeH",
+  "title": "\"치우는 데만 45억\" 관중 13% 늘 때 쓰레기 55% 급증, 프로야구 흥행 이면의 쓰레기 대란",
+  "published_at": "2026-10-27T20:14:00.000+09:00",
+  "collected_at": "2026-10-27T13:48:03.314Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

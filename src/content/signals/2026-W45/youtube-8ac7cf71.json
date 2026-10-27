@@ -1,0 +1,27 @@
+{
+  "id": "youtube-8ac7cf71",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "블루 라이온즈_Blue Lions",
+  "url": "https://www.youtube.com/watch?v=PS50pEsa1gk",
+  "title": "261027 삼성라이온즈 후라도 선수 인터뷰 | 역시 에이스, 포스트시즌 첫 승 달성!",
+  "published_at": "2026-10-27T13:31:36Z",
+  "collected_at": "2026-10-27T13:48:03.314Z",
+  "summary_ko": "한 팬 채널이 PO 2차전 뒤 후라도의 포스트시즌 첫 승 인터뷰 영상을 올렸다.",
+  "metrics": {
+    "views": 484,
+    "likes": 54,
+    "comments": 9
+  },
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "후라도 PS 첫 승 인터뷰"
+}

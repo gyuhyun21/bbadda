@@ -1,0 +1,23 @@
+{
+  "id": "news-0f3efc40",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "조선일보",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONTlXMHJXaF81RnJ2QWZreWJjUUlMYWM5SDJ4S0RuZzRrZ0pEWVUtbGpYVmRfU0dndGNCU2EyZ1RnVTZ6ZzFuZXpKSEF5VGctc0p0aHUxbW00NklNQk9lZndCQmV1RUlxZk5HcGpsVlZMWHRndzhMX3hKdkJZMEx2SXRCSQ?oc=5",
+  "title": "사이클링 히트도 가능했는데…'2점홈런-1타점 2루타-안타' 불방망이 거포 → '5이닝 10K 노히트 완벽투' 에이스, 강철매직 웃었다 [수원리뷰]",
+  "published_at": "2026-10-27T09:05:00.000Z",
+  "collected_at": "2026-10-27T13:48:03.314Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

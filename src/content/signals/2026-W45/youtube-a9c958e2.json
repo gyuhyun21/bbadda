@@ -1,0 +1,26 @@
+{
+  "id": "youtube-a9c958e2",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "MUZI | 무지",
+  "url": "https://www.youtube.com/watch?v=ShBrP5LRNek",
+  "title": "플레이오프 2차전 기아 득점 하이라이트(10.27.) #기아타이거즈 #이호연 #카스크로 #후라도 #수달 #광주천",
+  "published_at": "2026-10-27T13:18:13Z",
+  "collected_at": "2026-10-27T13:48:03.314Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 268,
+    "likes": 1,
+    "comments": 2
+  },
+  "scores": {
+    "hot": 34,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "news-b6b95b16",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5RMktyR2lzTVlzQVpyWEhoLXF5VEVxSnRoRU5UZUl2a0RoUTBTd2ZKTDJSc3VMemF5a2JYRF8zVEc2RlB3dHBoUGpFZFBqWWlEY1NhUGF2VElHbTNnMGNtQ2Q3NW9zWnBoSUhyWlJGWGVHZEZiMkJMYWNiR0pxZw?oc=5",
+  "title": "'최고령 보살?' 기념구는 꿀밤으로 거부, 이래서 큰 경기는 최형우구나, 박진만 감독의 예언적중[PO2 현장]",
+  "published_at": "2026-10-27T11:53:37.000Z",
+  "collected_at": "2026-10-27T13:48:03.314Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQREQ0SmxxdHJITC1OTklwU0tRNFRZa3dneVE2aUMwMjlBaDF2T1I0R191QWxka0FCY243czlzMzNKRzZLUW81M0RsQkNEcS1nLTJrVkNFLVBLOEVtdXFuR3I0ZVdMSWozdlQycEhzREVIV0VJY1dTUnNhNjduWFNTeUUzOA?oc=5"
+    }
+  ]
+}

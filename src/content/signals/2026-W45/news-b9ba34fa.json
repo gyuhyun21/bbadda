@@ -1,0 +1,29 @@
+{
+  "id": "news-b9ba34fa",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0xQndIYUxwZFlpYXR3MnZYVXlTZGlzNE5YUzBlXzNPZDhneUtpdWtCOEJWWkN2RzlzbFRoWkREdlo4YmZNWWVpd2RGaUhYY0l3X3BseXQ3TU43UUJkdVNGSl8wN0JWYkZQaTEwcUZLQnN0UWg3VlB0eEZ6MFRQdw?oc=5",
+  "title": "\"박승규 2번 전진 배치? 우리에겐 잘된 일\" '꽃감독'의 이유 있는 미소 \"마무리 원태인, 못 올라오게 만들 것\"[PO2 현장]",
+  "published_at": "2026-10-27T09:01:32.000Z",
+  "collected_at": "2026-10-27T13:48:03.314Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQcjJQUjlrVjhoTEpKRmp6NmZWTGxfRDhRclczOWh0MUtod3AyMWFwMnBoemVva0xZUURmSmhuZGRWa0lmN0xzcEhXX2poYVFjVWxNQmxpZHA5VjlXdlg3WWVDQkNVekF4NVNDbWVEWk9VMFg4TDV4Zk9QZC13TDAyZUJEVQ?oc=5"
+    }
+  ]
+}

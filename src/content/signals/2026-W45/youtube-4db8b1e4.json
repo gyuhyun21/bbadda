@@ -1,0 +1,26 @@
+{
+  "id": "youtube-4db8b1e4",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "youtube",
+  "source_name": "TWS",
+  "url": "https://www.youtube.com/watch?v=gb08STFLKB0",
+  "title": "[TWS:ERIES] TWS (투어스) 경민 키움 히어로즈 시구 비하인드",
+  "published_at": "2026-10-27T11:00:04Z",
+  "collected_at": "2026-10-27T13:48:03.314Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 13766,
+    "likes": 1679,
+    "comments": 184
+  },
+  "scores": {
+    "hot": 83,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

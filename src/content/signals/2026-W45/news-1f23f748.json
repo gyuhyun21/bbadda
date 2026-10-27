@@ -1,0 +1,23 @@
+{
+  "id": "news-1f23f748",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "데일리스포츠한국",
+  "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1vb0UtazBOdGlGQmRUdWtVakZKVHJPSFZVaHM0VmE3TmZhd3VvVUc4Mm5QdGxYR3FVSUU0UHJfS0lIMHZ1OXl0NGFrNlRqTExXcmZYbVdhTGlOSjBqT3E0b0RhTl95cGxpd2VpVVQyVnRqUW1Ebmk3YUFJb9IBf0FVX3lxTE9aaWxPa2MxVmUwNTlNZlRHUU9VZDd4QjcyN0lER2tLRE82OHpXNU5VaFZLZjNncEtRYm42QUk2Zi1SanhOVzFyWXc4ZlhtZmxkVGRxcmtVS0V5N2lEd0k2WENaYmNDRl8tQXo4RzhMTTd3ZmswREtkcXRDcmh1U2c?oc=5",
+  "title": "‘후라도 역투·거포 본능 폭발’ 삼성, KIA에 설욕…PO 1승 1패",
+  "published_at": "2026-10-27T13:19:58.000Z",
+  "collected_at": "2026-10-27T13:48:03.314Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 92,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

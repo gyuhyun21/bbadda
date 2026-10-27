@@ -1,0 +1,26 @@
+{
+  "id": "youtube-5e91736e",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "youtube",
+  "source_name": "오늘의 뉴스",
+  "url": "https://www.youtube.com/watch?v=F4TCrbrvkHY",
+  "title": "9년째 가을야구 못 간 롯데, 감독·단장 싹 바꿨다… 이동욱·이택근 체제 출범 #Shorts",
+  "published_at": "2026-10-27T08:21:47Z",
+  "collected_at": "2026-10-27T13:48:03.314Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 551,
+    "likes": 4,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 36,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

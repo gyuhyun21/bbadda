@@ -1,0 +1,26 @@
+{
+  "id": "youtube-8aedcaed",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "youtube",
+  "source_name": "야구보는집안",
+  "url": "https://www.youtube.com/watch?v=qyEtgKpS0YU",
+  "title": "#두산베어스 #한국시리즈 #3루수 #에러",
+  "published_at": "2026-10-27T08:15:22Z",
+  "collected_at": "2026-10-27T13:48:03.314Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 2655,
+    "likes": 4,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 37,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

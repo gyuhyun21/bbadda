@@ -1,0 +1,26 @@
+{
+  "id": "youtube-2bb7d081",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "youtube",
+  "source_name": "엘냠씨",
+  "url": "https://www.youtube.com/watch?v=gIiXm-NyzQM",
+  "title": "히든싱어 도전 해봤습니다! #엘지트윈스 #LG트윈스 #KBO #야구 #야구팬 #크보",
+  "published_at": "2026-10-27T12:05:25Z",
+  "collected_at": "2026-10-27T13:48:03.314Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 846,
+    "likes": 26,
+    "comments": 6
+  },
+  "scores": {
+    "hot": 61,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

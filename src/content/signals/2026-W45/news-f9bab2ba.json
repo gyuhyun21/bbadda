@@ -1,0 +1,29 @@
+{
+  "id": "news-f9bab2ba",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8yeFB6RHpWeFNUNzBlRkt6ZV9RMmhlZTdBVW4zZGdlcUJlR0lxY1Z1RGxrUkRpUVVqaGR1QllDakNzRmtoTTNMN3l1QlQxNjJHTnhNX042OC1TSzBzU3RGOTVhTm9wNUdWMHdZNm9zVdIBb0FVX3lxTE8yeFB6RHpWeFNUNzBlRkt6ZV9RMmhlZTdBVW4zZGdlcUJlR0lxY1Z1RGxrUkRpUVVqaGR1QllDakNzRmtoTTNMN3l1QlQxNjJHTnhNX042OC1TSzBzU3RGOTVhTm9wNUdWMHdZNm9zVQ?oc=5",
+  "title": "'구자욱 적시타→디아즈 투런 홈런' 라팍 공기 바뀌었다... 어젠 KIA-오늘은 삼성 '결국' 중심 타선 싸움 [PO2]",
+  "published_at": "2026-10-27T10:54:31.000Z",
+  "collected_at": "2026-10-27T13:48:03.314Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 91,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBhZ3hBSWppRUJpM0s5bEJ6eVhtamZqWHhscFhSYVJ3SUV0T2xZN25EdGdWR3ZvLW5hNWVtaUoyT0gyVTEyQjFsSXZCb01aeHg3c3llbHpRZGYxUFBjeDdjcU85RXMyazYycUJaUjE5VTVDSFpydHc?oc=5"
+    }
+  ]
+}

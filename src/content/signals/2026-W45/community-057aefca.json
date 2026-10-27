@@ -1,0 +1,24 @@
+{
+  "id": "community-057aefca",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 Petrucci님의 블로그",
+  "url": "https://blog.naver.com/psychy0096/224455905053",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/8fh31F7l1oq",
+  "title": "[결과는 몸 풀린 쪽] KIA-삼성 플레이오프 우천으로 하루 밀렸는데, 웃는 쪽과 우는 쪽",
+  "published_at": "2026-10-27T22:13:00.000+09:00",
+  "collected_at": "2026-10-27T13:48:03.314Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

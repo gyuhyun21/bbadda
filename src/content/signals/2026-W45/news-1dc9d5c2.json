@@ -1,0 +1,22 @@
+{
+  "id": "news-1dc9d5c2",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "뉴시스",
+  "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1jcy1rNlhId2hzUTlRNG9NRmtFY0xidmQ2UXEzcFdKZHR4eTR2bmltTEtjMWxPQl85Y0MxZXFLZ0JXLVg3cGNHaXBkaElBN0pJSWhkc3J0dlpfMUcxYjVLb3gzaTlucW5NUHNhVWNRRkdNVzR5ZDBuSdIBeEFVX3lxTE1jcy1rNlhId2hzUTlRNG9NRmtFY0xidmQ2UXEzcFdKZHR4eTR2bmltTEtjMWxPQl85Y0MxZXFLZ0JXLVg3cGNHaXBkaElBN0pJSWhkc3J0dlpfMUcxYjVLb3gzaTlucW5NUHNhVWNRRkdNVzR5ZDBuSQ?oc=5",
+  "title": "'6⅔이닝 2실점' 후라도, 위기의 삼성 건져낸 호투…가을 무대 첫 승 눈앞[PO]",
+  "published_at": "2026-10-27T12:15:04.000Z",
+  "collected_at": "2026-10-27T13:48:03.314Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

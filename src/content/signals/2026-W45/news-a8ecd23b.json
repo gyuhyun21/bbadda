@@ -1,0 +1,22 @@
+{
+  "id": "news-a8ecd23b",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "국제신문",
+  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNM29QS3huOWtFRFVteVJ1Q25sRktrUzVCWUpkRjA2aXRIVUI2LTdCZEVLaHF2QWlIOGNGSGdqRHlpN0JSeXQ3Z19ZemdQT3k2YzRaSHNZWG9jOVVLUHlrUk9KS2xvUGE0RTFaQUFDZ1BxNlFpZnNqYWxuY2xRQm1wcjEzWm91dElMclA4SjNR?oc=5",
+  "title": "롯데, 공격서 수비로 중심 이동…주전 새판짜기 예고",
+  "published_at": "2026-10-27T10:31:00.000Z",
+  "collected_at": "2026-10-27T13:48:03.314Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

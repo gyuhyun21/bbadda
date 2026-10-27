@@ -1,0 +1,28 @@
+{
+  "id": "youtube-3ff1965a",
+  "issue": "2026-W45",
+  "module": "league",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "team": "samsung",
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=d8MjHqTyhDQ",
+  "title": "한 점 한 점 더 달아나는 삼성 김지찬의 추가 적시타와 박승규의 희생타까지! | PO2_KIA vs 삼성 | 10.27 | 크보모먼트 | KBO 야구 하이라이트",
+  "published_at": "2026-10-27T12:22:41Z",
+  "collected_at": "2026-10-27T13:48:03.314Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 4929,
+    "likes": 242,
+    "comments": 19
+  },
+  "scores": {
+    "hot": 79,
+    "relevance": 80
+  },
+  "sentiment": "neutral"
+}

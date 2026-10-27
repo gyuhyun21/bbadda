@@ -1,0 +1,23 @@
+{
+  "id": "news-9a55e32b",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "연합뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8tUjZ6Q1p6UzV2dkhGNGhmdTBiZDdPckVseUNWejUweTloUTZFVzdxZVdvQ1Nab0Q0R1lXM3E5R3Q2QzdLWGJEdWpERFQ0N0Y2aEFQNTFfZW9HQzZtcGt4WdIBYEFVX3lxTE8tUjZ6Q1p6UzV2dkhGNGhmdTBiZDdPckVseUNWejUweTloUTZFVzdxZVdvQ1Nab0Q0R1lXM3E5R3Q2QzdLWGJEdWpERFQ0N0Y2aEFQNTFfZW9HQzZtcGt4WQ?oc=5",
+  "title": "허구연 KBO총재, 3연임 눈앞…이사회서 단독 후보 추천",
+  "published_at": "2026-10-27T05:31:29.000Z",
+  "collected_at": "2026-10-27T13:48:03.314Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

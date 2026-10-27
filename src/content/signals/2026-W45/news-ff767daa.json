@@ -1,0 +1,23 @@
+{
+  "id": "news-ff767daa",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "한국연예스포츠신문",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1JRWUzWGUtMmd6ek5xd1Baem5EbUtvRDJHa1QzZVluTXhSZHhUeUoyYTU3Ulh3UG5FMy0xT3NTOV96WHVBQnFtS1N5TkpubUZVTmoxb1VBS2N6T25aUVdrNTNaT0hJZmlmWXc?oc=5",
+  "title": "아들과 마운드 오른 오승환…“경기 지켜보는 게 더 떨린다”",
+  "published_at": "2026-10-27T12:44:00.000Z",
+  "collected_at": "2026-10-27T13:48:03.314Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}
