@@ -24,7 +24,7 @@ claude.ai 루틴 'BBADDA 인스타 점검(매일)'이 매일 09:41 KST 에 아�
    - 표: 최근 7일 릴스 상위 3·하위 3(날짜·칸·첫 줄 20자·조회·평균 시청·저장+공유) [계산:insta-media stats/D.json]
    - 경쟁 아웃라이어 3줄 [계산:insta-media research/D.json]
    - 판단 2~4줄
-   - "지금 적용:" 오늘 릴스 2개가 따를 것 3줄 이내(예: "첫 장면은 경기 장면 썸네일 + 숫자 한 개", "아침 칸은 어제 결과 → 오늘 예고 순").
+   - "지금 적용:" 오늘 릴스 3개(아침·오후·저녁)가 따를 것 3줄 이내(예: "첫 장면은 경기 장면 썸네일 + 숫자 한 개", "저녁 칸은 결과 → 승부처 숫자 순").
    30일 지난 항목은 지운다.
 5. 브랜치 daily/D-insta-review → PR(제목 "인스타 점검 (D)", 본문 = 그날 항목 + 제안) → npm run validate·npm test·npm run build 통과하면 머지(merge commit). docs/insta-log.md·docs/insta-style.md 말고는 고치지 않는다.
 6. 끝나면 한 단락 요약: 오늘 바꾼 것, 근거 숫자, PR 링크.

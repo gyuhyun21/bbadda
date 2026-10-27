@@ -68,7 +68,7 @@ cards_post() {
   say "대체 릴스(카드 $key, ${n}장): $(bash scripts/insta/reel.sh "$(upload /tmp/reel.mp4 "$D-cards")" /tmp/cap.txt)"
 }
 
-# 오늘 항목은 폴더 이름 하나 또는 배열(하루 2개 — 아침·밤, 2026-10-26~). 이미 게시한 것은 main_post 가 본문으로 알아보고 건너뛴다
+# 오늘 항목은 폴더 이름 하나 또는 배열(하루 3개 — 아침·오후·저녁, 2026-10-27~). 이미 게시한 것은 main_post 가 본문으로 알아보고 건너뛴다
 if [ -z "$POST" ]; then POSTS=$(jq -r --arg d "$D" '.[$d] // empty | if type == "array" then .[] else . end' media/insta/reel-queue.json 2>/dev/null || true); else POSTS="$POST"; fi
 if [ -n "$POSTS" ]; then
   failed=0
