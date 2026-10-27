@@ -1,0 +1,23 @@
+{
+  "id": "news-ece71619",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5pdjRLN0lOUUNxNDRxc0JBTjVQbC1iUW50MURfQjJWdzctbnRlSDJua040eFVwbm1ydEdfYmNXS01fNXNoMjc0a1NzQ2hfTjY2Vk5temJPY3l6UUM1QWgxZ2Q5MlktREtpc0HSAW9BVV95cUxPRlNqYlpJN2EzZ1NsSGs5cFI1dFpzd3pfMHU5RHBaUWRmVWlyc3AzZU50WmtIb2c2Y2VseFNYRGdKY3hJOXVJWVBMQUJtR3NyWUJBazUtVzdCWU5JN0I3ODhOdlBDTHZCczFrZ282V28?oc=5",
+  "title": "[사진]원태인-강민호, 승리 포옹",
+  "published_at": "2026-10-27T13:22:00.000Z",
+  "collected_at": "2026-10-27T21:38:07.541Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 73,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

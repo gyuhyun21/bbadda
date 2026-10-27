@@ -1,0 +1,24 @@
+{
+  "id": "community-bebcf51b",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "레딧 r/KBO",
+  "url": "https://www.reddit.com/r/KBO/comments/1xgzg6n/highlights_2026_%EC%8B%A0%ED%95%9C_sol_kbo_postseason_playoff/",
+  "title": "Highlights] 2026 신한 SOL KBO Postseason Playoff Match",
+  "published_at": "2026-10-27T17:38:07.541Z",
+  "collected_at": "2026-10-27T21:38:07.541Z",
+  "summary_ko": "",
+  "excerpt": "... KIA Tigers · r/KBO - 2026 신한 SOL KBO Postseason Semi-Playoff Match - LG…",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

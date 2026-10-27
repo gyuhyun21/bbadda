@@ -1,0 +1,23 @@
+{
+  "id": "news-982454ac",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "톱스타뉴스",
+  "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9FR2dKbVBkLVFaajJnaGlqS1JIcUVMLUVRcC1lSE5zRy04UTNKRDJncUI3YVJSVlplWUN6aFdZWFhwQTE3RnFvQlBtVGExU1pKblY5bkx6cWxHalRJNjJHOUNkTko4Z19PS0JEV0lLaFdyUQ?oc=5",
+  "title": "KBO 플레이오프 2차전 삼성, KIA 꺾고 스코어 맞췄다…다음 경기 일정?",
+  "published_at": "2026-10-27T13:45:08.000Z",
+  "collected_at": "2026-10-27T21:38:07.541Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 80
+  },
+  "sentiment": "neutral"
+}

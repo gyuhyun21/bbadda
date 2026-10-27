@@ -1,0 +1,24 @@
+{
+  "id": "news-a7ef0b09",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "뉴스1",
+  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1pSUtsM2xOUk85Tm9INWJRLWpWWVptUnFRUHlNRU5aVktETkQzYXN5UHlIZUt2dko2TnVNZGkwbFRrRWdxb21UR1A5cFZPdXFlWVE1RzZOOA?oc=5",
+  "title": "뒷문 지킨 원태인 \"팀이 원하면 어떤 보직이든 상관없어\"[PO]",
+  "published_at": "2026-10-27T21:10:00.000Z",
+  "collected_at": "2026-10-27T21:38:07.541Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

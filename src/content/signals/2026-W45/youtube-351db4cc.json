@@ -1,0 +1,26 @@
+{
+  "id": "youtube-351db4cc",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "youtube",
+  "source_name": "스포츠마니아TV",
+  "url": "https://www.youtube.com/watch?v=c-hblZALwKc",
+  "title": "롯데에 똑쟁이 포수가 들어왔습니다🧠",
+  "published_at": "2026-10-27T12:45:28Z",
+  "collected_at": "2026-10-27T21:38:07.541Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 4246,
+    "likes": 82,
+    "comments": 4
+  },
+  "scores": {
+    "hot": 59,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

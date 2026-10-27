@@ -1,0 +1,24 @@
+{
+  "id": "community-2affe88e",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 ground_note님의 블로그",
+  "url": "https://blog.naver.com/ground_note/224455857379",
+  "title": "2026 한국시리즈 일정 총정리, 11월 2일 수원 1차전부터 장소·예매까지",
+  "published_at": "2026-10-27T22:00:00.000+09:00",
+  "collected_at": "2026-10-27T21:38:07.541Z",
+  "summary_ko": "한 블로그가 한국시리즈가 11월 2일 수원 1차전으로 시작한다며 일정과 예매를 정리했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "KS, 11월 2일 수원서 개막"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "youtube-18a57a39",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "뉴뉴뉴스",
+  "url": "https://www.youtube.com/watch?v=UvZ-j0vVrrI",
+  "title": "사자의 포효, 3회에만 4점 | 삼성 8대 3 KIA  #삼성라이온즈 #구자욱 #디아즈 #박승규 #최형우 #플레이오프 #PO2차전 #KIA #KBO #뉴뉴뉴스 #야구쇼츠",
+  "published_at": "2026-10-27T14:25:40Z",
+  "collected_at": "2026-10-27T21:38:07.541Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1364,
+    "likes": 5,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 40,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

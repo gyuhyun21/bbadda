@@ -1,0 +1,29 @@
+{
+  "id": "community-68068544",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 찬란한 생활팁",
+  "url": "https://blog.naver.com/chanran222/224455983357",
+  "title": "[PO2] 삼성 디아즈 투런포 터졌다! KIA 꺾고 승부 원점, 2026 KBO 플레이오프 2차전 완승 분석",
+  "published_at": "2026-10-28T02:46:00.000+09:00",
+  "collected_at": "2026-10-27T21:38:07.541Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE81dFFmYVI1WTBvMkcweWpfNk1vTmxmQjl5bThJSk9wT0Fscm9GSldnSVRGTl9LVVFwcWt2NlIyQ0haR3FEcmk2Z2MxdUtUdlp0aW9XNnhyempIeExJV2c3aXJDUmhBRnZHeGNfNDRpONIBb0FVX3lxTE81dFFmYVI1WTBvMkcweWpfNk1vTmxmQjl5bThJSk9wT0Fscm9GSldnSVRGTl9LVVFwcWt2NlIyQ0haR3FEcmk2Z2MxdUtUdlp0aW9XNnhyempIeExJV2c3aXJDUmhBRnZHeGNfNDRpOA?oc=5"
+    }
+  ]
+}

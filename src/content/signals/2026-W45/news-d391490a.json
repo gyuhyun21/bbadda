@@ -1,0 +1,52 @@
+{
+  "id": "news-d391490a",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "news",
+  "source_name": "연합뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9xcFdSMGxCYzlsTU9BOXlJaGxKazlaM2ZDQUpKUktEcDlia1VtdFhCZ2VGRi1NT3JLTm8zWGlkcGpCSEVtakg1MDF3T2xvNDg0c3JudHpJU1pFVmstbG95R9IBYEFVX3lxTE9xcFdSMGxCYzlsTU9BOXlJaGxKazlaM2ZDQUpKUktEcDlia1VtdFhCZ2VGRi1NT3JLTm8zWGlkcGpCSEVtakg1MDF3T2xvNDg0c3JudHpJU1pFVmstbG95Rw?oc=5",
+  "title": "[부고] 손정훈(프로야구 한화 이글스 스카우트팀 프로)씨 부친상",
+  "published_at": "2026-10-27T05:03:45.000Z",
+  "collected_at": "2026-10-27T21:38:07.541Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 94,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "퍼블릭타임스",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBvMWExVGxYY3dKLUxBVnpWT1dPNUJtVnV5VFRIaHNabE4zZ1FyeHhhWEU2VXNVYnlIdm81c0I5RUI2YnRZLWpIeEtXOGxoNnpKVTI4RndXaHZ6Yk1lOTZIdlVUSTFHY3paVlHSAW5BVV95cUxQUzhYb0RFRGRMeWxVQVBMQ284dW9pRkFwbnVoV0NGYUhOdFpydllnRnYxVHQ1UVZwdk5hcmRVbTFuVkNyczg5OVRzeXZNV1dzRV9oMGFEcEFHREFRMW05Z1RzcTJNSlpjZ2pkUkN3UQ?oc=5"
+    },
+    {
+      "source_name": "경향신문",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTXFXVU1YRTJScV95aG1DblBRLXd5ZWZtRDdBeEcxQ1I4MlVfNjk3UDVNaXVLclM4Q2xfclltcmhScnZBcThlLVZPWWZQSklCX0RwdXg1MlFFSHo5bzJZYTFENnRDS2Vmc2VCR1g2Qi04OEh2RjlWS2dyZkI4clJhMUFwTDV3YUg4NFVNcmptNDFoYjBXTHB4bDBlMFZabmM4YXVYYUZPSVY1QdIBX0FVX3lxTE80cWNDcEdUZFJPaXp4Z2otUUh4WFhjT2Nwbl9ZcXhGdU94SUZKRzdLQVFRTTlJVWxQVDE0SW92blJuZFVyV1FfRWhlaGtGM3pEc0RLelJEQnFmelRyOUVR?oc=5"
+    },
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4tTTFBSFpGZHJCaWJZZ1dCQVBabXlnTDVLYi1jMkVIa292aFhmX244dkYzUVBVTXJ5VEtKaE12SWtZYmpJcm5rSWJjME1qZnB0cTBXdnVxZmVQa2tia2c2RTlLTERGZ3lnNjFubVQya9IBb0FVX3lxTE4tTTFBSFpGZHJCaWJZZ1dCQVBabXlnTDVLYi1jMkVIa292aFhmX244dkYzUVBVTXJ5VEtKaE12SWtZYmpJcm5rSWJjME1qZnB0cTBXdnVxZmVQa2tia2c2RTlLTERGZ3lnNjFubVQyaw?oc=5"
+    },
+    {
+      "source_name": "뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9YSHl4UkVabFYxM2taTW1mYWswbVl0Z1ZJQWN6TXc1bzNaNWR0STBhRWE5S3ViVGRVbnBiRzhjbGpKcnZDVTVwVG5KQzdyZDhEY0M4WFlSQQ?oc=5"
+    },
+    {
+      "source_name": "대전일보",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1Xb3E5NThTaHhjNDJtSHFnMjlKdFFubjdsOV83Z1p3MGsyLWktcktpRFJpRFFnZHNhejBZV0xFUUt5TzhtbVJwYTRpU20xZnF3LVd4OUU1T0JJNXNYdUM3a0djWElLdURiMkU5T2JJTHhpVFnSAXNBVV95cUxNV29xOTU4U2h4YzQybUhxZzI5SnRRbm43bDlfN2dadzBrMi1pLXJLaURSaURRZ2RzYXowWVdMRVFLeU84bW1ScGE0aVNtMWZxdy1XeDlFNU9CSTVzWHVDN2tHY1hJS3VEYjJFOU9iSUx4aVRZ?oc=5"
+    },
+    {
+      "source_name": "한국사회복지저널",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE81R1RnMmRxaDlrd0hXcnppT3J5ZjQ5dVBLSUFQTUR3R3V1eWh3cXBGTDJ5Si1ra2pDMFNqREUwSHhhZTBuLWZQLTNHUXU0VDZqb3J4amRmZ3N5dXB0TWJ5NTgxSVNVeHBuXzVB?oc=5"
+    },
+    {
+      "source_name": "이뉴스투데이",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5VYzFIWm9yZG9WLVotb1lEQWtYdFphSnpNd1RmNkRCZTVSUW5RMld6UWpSSWxGZTB4VFl6YWkzcnpmakpCLTN3WFJzbTluM2F2dWJMX3FhcDI1b3hrbHI0X2U1c09qcjRGZVU1dTBCSHrSAXRBVV95cUxQb29RYnI2elFUTktNeFNIQkFsNl9YMFdXblpjT1RoOWVxWHo3RnZpYjNtQ1NzX0Zsa195Y1Z4RzE0S3Fwb19mS0ZQak80WHEzUFRCUHdpU1psb2c3bW5uVW45aGhVaGtKRGp2YldmSC1PT3VlRw?oc=5"
+    }
+  ]
+}

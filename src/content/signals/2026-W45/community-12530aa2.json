@@ -1,0 +1,23 @@
+{
+  "id": "community-12530aa2",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 머니 트렌드 리포트 77",
+  "url": "https://blog.naver.com/tark0629/224455924555",
+  "title": "\"20시즌 만에 방출 통보라니\" 벼랑 끝 손아섭에게 손 내민 이호준 감독",
+  "published_at": "2026-10-27T22:34:00.000+09:00",
+  "collected_at": "2026-10-27T21:38:07.541Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "news-e5ee7043",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAxS3lmeDRuZEM4bGxoTXU5U2tZUDN2UEVVQ2cwMWFZcnVkZWhaTURDUjZqc21JXzVTbS1DcXRYZTlZdUFrSVN1SHJJUnlmNFEtdFVtbTNvNjRrNUtxc2VKTEZOcTVqTzk5bEHSAW9BVV95cUxOTUtTcEozMWQ5Tm41Q2FfX2pYZVVqeEtYV0tobm5uTllnVnRjQXNrTTNMcVdQUExPMUkwaHNNZXpVMW44clhpRUZDOTJ4aXdFOHdITE1UalhFVjcxc1R5LUVNenhkXzV4RzNudVBYdUk?oc=5",
+  "title": "'FA 코앞인데 진짜?' 가을야구에 진심인 대구 로컬보이들, 구자욱·원태인의 눈물겨운 투혼",
+  "published_at": "2026-10-27T20:25:00.000Z",
+  "collected_at": "2026-10-27T21:38:07.541Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 84,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9NM2lMME5mcW9TaGRuYlhNNGlCa2M2UVZPYVM5MlRiaFZtZDQ4Q3BxVTk0S3ZfQUJudkVpdHdmZHotWFJteFR5blhwR0FFdVhWYS1BSzl0aVVtZUxfeHRMeHlWOXJkTjRzOUx3SEtkblJBY3hWR2c?oc=5"
+    }
+  ]
+}

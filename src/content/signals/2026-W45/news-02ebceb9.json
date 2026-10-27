@@ -1,0 +1,23 @@
+{
+  "id": "news-02ebceb9",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://www.sportschosun.com/baseball/2026-10-27/202610270100175250011614",
+  "title": "'상진 매직'도 떠난다! → '김태형 지우기' 나선 롯데, 김상진 코치 재계약 않기로",
+  "published_at": "2026-10-27T21:30:10.000Z",
+  "collected_at": "2026-10-27T21:38:07.541Z",
+  "summary_ko": "롯데가 김상진 코치와 재계약하지 않기로 했다. 기사는 이를 '김태형 지우기'의 하나로 짚었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "롯데, 김상진 코치와 결별"
+}

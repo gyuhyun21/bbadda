@@ -1,0 +1,22 @@
+{
+  "id": "news-02258edd",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "연합뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1odWxmM3lLN0FpbWFWMEpQZGRVZ3QwdmoyWjFnOWtpa2Z5VnpDMEdYQVQxc3Z5dExyMHJMTFdvVmlUaXl5NXE2MEx5Tnk1RGxSSlBNYzN2X2d5MTAwVmxOSNIBYEFVX3lxTE1odWxmM3lLN0FpbWFWMEpQZGRVZ3QwdmoyWjFnOWtpa2Z5VnpDMEdYQVQxc3Z5dExyMHJMTFdvVmlUaXl5NXE2MEx5Tnk1RGxSSlBNYzN2X2d5MTAwVmxOSA?oc=5",
+  "title": "부상에도 기다린 삼성…후라도는 가을야구로 답했다",
+  "published_at": "2026-10-27T13:59:29.000Z",
+  "collected_at": "2026-10-27T21:38:07.541Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 73,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

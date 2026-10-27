@@ -1,0 +1,23 @@
+{
+  "id": "community-6c0eb658",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 스텝 바이 스포츠(Step by Sports)",
+  "url": "https://health.taxinfo.kr/149",
+  "title": "삼성, 디아즈·최형우 홈런으로 반격 성공! KIA와 1승 1패, 2차전에서 달라진 점은?",
+  "published_at": "2026-10-28T02:58:34.000+09:00",
+  "collected_at": "2026-10-27T21:38:07.541Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

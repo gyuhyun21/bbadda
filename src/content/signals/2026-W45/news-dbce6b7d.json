@@ -1,0 +1,23 @@
+{
+  "id": "news-dbce6b7d",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "매일신문",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4wUU9YZWI3V1owUzB2elZzbE5XQkxJanNsN1ZFazlhTDZjYkNCQ3ZhZ0p5Z01XT0lLMmtHSkJMbWlMZHhnQ2xmUmtBQ1g1YmRxX2dDN1hTMUhWTkxmT1VaNFRB?oc=5",
+  "title": "`에이스 후라도의 108구 역투` 삼성 라이온즈, PO 2차전서 KIA 타이거즈 꺾어",
+  "published_at": "2026-10-27T12:55:57.000Z",
+  "collected_at": "2026-10-27T21:38:07.541Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 73,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

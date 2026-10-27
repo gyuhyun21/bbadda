@@ -1,0 +1,23 @@
+{
+  "id": "news-bb4faf48",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB3NjYzUFMxTDNiYVdOYjdzQmF3MUV3UlEzNC1rUTZfaHJEZktaQUlSYllGTUc5UE41VTRBc3hVV01hMVQzbnJWZkdVTTFVNkppN3dhVFRLSndlSTVGaUtPNWxOMDE2R3pqbGxzNERrb9IBb0FVX3lxTFB3NjYzUFMxTDNiYVdOYjdzQmF3MUV3UlEzNC1rUTZfaHJEZktaQUlSYllGTUc5UE41VTRBc3hVV01hMVQzbnJWZkdVTTFVNkppN3dhVFRLSndlSTVGaUtPNWxOMDE2R3pqbGxzNERrbw?oc=5",
+  "title": "[사진] 디아즈, 홈런 연락 받았죠?",
+  "published_at": "2026-10-27T10:53:00.000Z",
+  "collected_at": "2026-10-27T21:38:07.541Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 80,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

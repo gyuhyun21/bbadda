@@ -1,0 +1,24 @@
+{
+  "id": "community-93cc9df8",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&document_srl=10491756201",
+  "title": "네일이 경기운영 진짜 잘하긴하지 - 야구",
+  "published_at": "2026-10-27T13:38:07.541Z",
+  "collected_at": "2026-10-27T21:38:07.541Z",
+  "summary_ko": "",
+  "excerpt": "... ' 삼성 라이온즈 아리엘 후라도 오늘 주요 투구 모음 (vs KIA 타이거즈). 인기 [PO…",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

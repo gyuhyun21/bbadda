@@ -1,0 +1,23 @@
+{
+  "id": "news-522b7b1e",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "진일보 | 전남일보",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5CaVBUN0cySzVpS1FtMkM2c19VbWEzUnZqbEtMbXBxQVJoTVlGbWgzZVFWb3A5eFRaOWdFaGF0V0lmZzR6djFMVzk4OU01T2NxVTlHX2V6ZTExd0Zmb2cwRC1TRW1MeW1ESlpKM1owaw?oc=5",
+  "title": "\"광주서 끝낸다\" KIA, 29일 안방서 삼성과 PO 3차전 격돌",
+  "published_at": "2026-10-27T15:00:00.000Z",
+  "collected_at": "2026-10-27T21:38:07.541Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

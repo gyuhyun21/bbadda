@@ -1,0 +1,24 @@
+{
+  "id": "community-ce6dc3ba",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 개미는뚠뚠열심히블로거",
+  "url": "https://issues.comingmoney.com/945",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/GlOV2oDlqHj",
+  "title": "재계약 불가 명단과 은퇴 결정",
+  "published_at": "2026-10-28T03:06:19.000+09:00",
+  "collected_at": "2026-10-27T21:38:07.541Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

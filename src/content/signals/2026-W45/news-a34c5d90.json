@@ -1,0 +1,24 @@
+{
+  "id": "news-a34c5d90",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스핌",
+  "url": "https://www.newspim.com/news/view/20261027001520",
+  "title": "[PO 포커스] 1차전은 KIA, 2차전은 삼성…하루 만에 뒤바뀐 중심타선의 희비",
+  "published_at": "2026-10-27T20:27:00.000Z",
+  "collected_at": "2026-10-27T21:38:07.541Z",
+  "summary_ko": "PO 1차전은 KIA, 2차전은 삼성이 이기며 중심타선의 희비가 하루 만에 뒤바뀌었다고 짚은 기사다.",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "중심타선 희비 뒤바뀐 하루"
+}

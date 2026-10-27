@@ -1,0 +1,24 @@
+{
+  "id": "news-5934e017",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE42YXA0M010UHQ5T20xRngzTjVxRUgyeUlCbDJtc0hHOURULVJaNjNzanhDYVluVUE3bHRUZHVkUnhwMjNKc2hjTkpKcjBBZjFRMEZlSHNoTjMzdF9Ia25JdEZyOWZLdExLcWfSAW9BVV95cUxNVzJFQWRvU0kxLUZ5T0s2ZDlvLUFXUDR1Y0hxa0tkemNxNFJqbXFaQlAxLWl6OTlCS0hFallENnQ5aHhDdHF1OWl1MC1UQkdkZUM1cDYzS2lfUGVvOFJ2RWdsQUlEUk45U2ZDcGNONm8?oc=5",
+  "title": "\"좋은 투수에게 연타 어렵다\" 김도영 1안타, 카스트로 1안타 1타점, 나성범 2볼넷, 못하지 않았는데 엇박자였다",
+  "published_at": "2026-10-27T17:20:00.000Z",
+  "collected_at": "2026-10-27T21:38:07.541Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

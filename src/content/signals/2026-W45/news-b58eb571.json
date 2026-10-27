@@ -1,0 +1,22 @@
+{
+  "id": "news-b58eb571",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "SPOTV NEWS",
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9DOTN3bVdFRElzQVZ1OGd3UTRSenhPNFZ4dmZpS3JYM1BEY1l1WGlWT2xhVGRBeXNTYXhlaVJhWWFudDlNWkhKS19yZVlnRUQ0M0pNRFZkWHVWZi1saXZ0VExvZll2LV9LVG9RZGFWYlU?oc=5",
+  "title": "가을야구 연승 깨진 KIA, 이범호는 \"적진에 와서 1승1패면… 3차전에 이기면 된다\" 격려",
+  "published_at": "2026-10-27T14:10:00.000Z",
+  "collected_at": "2026-10-27T21:38:07.541Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 80
+  },
+  "sentiment": "positive"
+}

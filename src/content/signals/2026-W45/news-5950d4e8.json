@@ -1,0 +1,24 @@
+{
+  "id": "news-5950d4e8",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1HM1dDbHZJYm85UXYtNnA4QTlwWWRTVU04bDFhZDlWX1ZVRlRXR3MwRXJYQ1ZDMVRzeEk0U01zbEVFdzFTSE5vMURaNlFjNFMyTWhxM0M2T2M5MVB3VzZJUjZMWF96YWE1Wnd1MDA1VdIBb0FVX3lxTE1HM1dDbHZJYm85UXYtNnA4QTlwWWRTVU04bDFhZDlWX1ZVRlRXR3MwRXJYQ1ZDMVRzeEk0U01zbEVFdzFTSE5vMURaNlFjNFMyTWhxM0M2T2M5MVB3VzZJUjZMWF96YWE1Wnd1MDA1VQ?oc=5",
+  "title": "5년 전 쫓겨났던 감독의 컴백…이동욱호 수석코치 허문회 내정, 15년 만에 의기투합 타선 개혁까지 동시에",
+  "published_at": "2026-10-27T19:40:00.000Z",
+  "collected_at": "2026-10-27T21:38:07.541Z",
+  "summary_ko": "5년 전 롯데를 떠났던 허문회가 이동욱 감독 체제의 수석코치로 내정됐다고 전한다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "허문회, 롯데 수석코치 내정"
+}

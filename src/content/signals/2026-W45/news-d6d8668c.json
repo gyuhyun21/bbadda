@@ -1,0 +1,29 @@
+{
+  "id": "news-d6d8668c",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "미주중앙일보",
+  "url": "https://www.koreadaily.com/article/20261027122103642",
+  "title": "‘1승 1패 허용’ KIA, 3차전 선발은 시라카와…4차전은 ‘헤드샷 퇴장’ 네일 투입할까, 이범호 \"3차전 이기면 고민\"",
+  "published_at": "2026-10-27T19:20:00.000Z",
+  "collected_at": "2026-10-27T21:38:07.541Z",
+  "summary_ko": "KIA는 PO 3차전 선발로 시라카와를 내세운다. 4차전 네일 투입 여부는 3차전 결과를 보고 고민하겠다고 이범호 감독이 밝혔다.",
+  "metrics": {},
+  "scores": {
+    "hot": 83,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9uYWk4N3UwSDQ3cGVHTXBuTHI5aW92bTVlWFd5c3NaN2VfMWV1TkFYcFlBZGxidkJ1X29yUXQxZkVxQU1JU2c5VFJua2o1bjI0eXlkMXNzYTZPaXN0dmxLbnB4N0ptdjJmN3fSAW9BVV95cUxQX2lJWGJEaEdGWW82anZTM3JJZ0JWel9JWmw3eVlYMHQ3RU01WXpWSklVWVpOVVFDMmNFamxwME8ybjBHZmN3S3JMcGhCRkN5Q0dVc3MzdGZ3dUstMlJIeXUwcUJJME05bEN0bWNIeDA?oc=5"
+    }
+  ],
+  "brief_ko": "KIA 3차전 선발은 시라카와"
+}

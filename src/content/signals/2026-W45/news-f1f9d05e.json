@@ -1,0 +1,24 @@
+{
+  "id": "news-f1f9d05e",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "news",
+  "announcement": true,
+  "source_name": "스포츠경향",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1kdHMwS2YzcmRfc3RIVTRXaDhlbk9jNXhoYm1qdUctUllBOGx6OU5mWE0ybG9xZGxjXzlWZEh0Q0NuUHVTVDFIS1NxUEs2SlZzeUdXMmwzZm5vcllCc1ZSQlpCTdIBY0FVX3lxTE1kdHMwS2YzcmRfc3RIVTRXaDhlbk9jNXhoYm1qdUctUllBOGx6OU5mWE0ybG9xZGxjXzlWZEh0Q0NuUHVTVDFIS1NxUEs2SlZzeUdXMmwzZm5vcllCc1ZSQlpCTQ?oc=5",
+  "title": "[오피셜] 후반기 불펜 에이스 타카다, 2027시즌도 두산에서 뛴다···마무리 캠프 참가도 자청",
+  "published_at": "2026-10-27T01:55:00.000Z",
+  "collected_at": "2026-10-27T21:38:07.541Z",
+  "summary_ko": "두산이 후반기 불펜 에이스 타카다와 2027시즌 재계약을 구단 공식으로 알렸다. 타카다는 마무리 캠프 참가도 직접 자청했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 61,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "타카다, 2027년도 두산 잔류"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-efbdbf1a",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스1",
+  "url": "https://www.news1.kr/sports/baseball/6334013",
+  "title": "이범호 KIA 감독 \"선발 싸움서 밀렸다…후라도 공략 실패\"[PO2]",
+  "published_at": "2026-10-27T13:44:34.000Z",
+  "collected_at": "2026-10-27T21:38:07.541Z",
+  "summary_ko": "PO 2차전을 내준 이범호 감독은 선발 싸움에서 밀렸다며 후라도 공략에 실패했다고 돌아봤다.",
+  "metrics": {},
+  "scores": {
+    "hot": 73,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "이범호 '후라도 공략 실패'"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "news-e064c92b",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "미주중앙일보",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1WRnQteW9YRmlGb25tMVlQamZ5OVdQeFN0VzlDQkRHRGhxc2d1WFF4ZjFCWEdLRzFFRDBqT002WGRtTlpoakppQWlkN2JfbC1JWnNXQlQxUkNwOXJhMkJJbldB?oc=5",
+  "title": "“동네야구도 아니고 말이 안 된다” 임창용 작심 비판…'3타자 연속 사사구' KIA 이의리 기용에 직격탄 [PO2]",
+  "published_at": "2026-10-27T18:40:00.000Z",
+  "collected_at": "2026-10-27T21:38:07.541Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 83,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBVcnJQeTZ6YTdCNjBwV2MwSkVPREdlZkZ6ZzNxUExqc1RIdEZDNzZ2Y3VCUlpxZWt5VFlFY1FaNS13N3NNQm04cmZMdndyOTdFUVdwTVVVN3JDT2pXZlhDX0xlRU1rcVR3Z1HSAW9BVV95cUxPZjRCWktKWFFDY1dORF81S3l3cDBVNGpmUUJBTnB0Wld4Y204Y3hQc2czMnhzMzRUQmltZ0V4YUExLU81QTRxN2diN0RpMWRjOXFLSFVMVmVlMXN6TlV3eE5oUk8yY0FGWlBXMXVDeXc?oc=5"
+    }
+  ]
+}

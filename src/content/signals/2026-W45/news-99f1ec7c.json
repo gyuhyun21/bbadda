@@ -1,0 +1,23 @@
+{
+  "id": "news-99f1ec7c",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE85NFh6UE42cm9xWHpLaEhxZkxhV0oxWGxFMjI4bDI2RnVTRnBqSWpub1VIVE9XQzdLaW1nTU96bmNURTBETVRhUy0wYUJCRUtyY3ZRTDAzU1ZsV0liRXhGV05mQVBLdER5VEHSAW9BVV95cUxNTkQ3Qm5memVBMmRZRHNNRXoxWnZlVDd5M3NfdEZGS24zS2U5dDVIMTF6TUZ5Smt4V19OdTlrVHdFVjgxV3VDa0REMnFKMzFUa0h1ZXNqVldZdllGWUNmQy0yRTR4Y2w3OEJwTG02SkE?oc=5",
+  "title": "[사진]원태인, 마무리는 내가 한다",
+  "published_at": "2026-10-27T12:48:00.000Z",
+  "collected_at": "2026-10-27T21:38:07.541Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 73,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

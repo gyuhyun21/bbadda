@@ -1,0 +1,27 @@
+{
+  "id": "youtube-3390f690",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "youtube",
+  "source_name": "두산 한 장면",
+  "url": "https://www.youtube.com/watch?v=8ju3sRKxXUo",
+  "title": "타카다 두산 잔류 확정! 22만 달러 재계약… 다음 목표는 선발?",
+  "published_at": "2026-10-27T10:58:35Z",
+  "collected_at": "2026-10-27T21:38:07.541Z",
+  "summary_ko": "팬 채널은 타카다가 22만 달러에 두산 잔류를 확정했다며 다음 목표가 선발이라고 전한다.",
+  "metrics": {
+    "views": 35,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 18,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "타카다 22만 달러 재계약"
+}

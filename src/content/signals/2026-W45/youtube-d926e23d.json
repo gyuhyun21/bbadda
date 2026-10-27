@@ -1,0 +1,29 @@
+{
+  "id": "youtube-d926e23d",
+  "issue": "2026-W45",
+  "module": "league",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "team": "samsung",
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=y3EjGe4boVQ",
+  "title": "(무해설) 삼성 디아즈의 달아나는 투런 홈런에 터져 나온 팬들의 함성! | PO2_KIA vs 삼성 | 10.27 | 크보모먼트 | KBO 야구 하이라이트",
+  "published_at": "2026-10-27T14:10:20Z",
+  "collected_at": "2026-10-27T21:38:07.541Z",
+  "summary_ko": "KBO 공식 채널이 PO 2차전 삼성 디아즈의 달아나는 투런 홈런과 팬들의 함성을 무해설 영상으로 올렸다.",
+  "metrics": {
+    "views": 28603,
+    "likes": 485,
+    "comments": 47
+  },
+  "scores": {
+    "hot": 67,
+    "relevance": 80
+  },
+  "sentiment": "positive",
+  "brief_ko": "디아즈 투런, 무해설 영상"
+}

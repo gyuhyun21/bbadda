@@ -1,0 +1,23 @@
+{
+  "id": "community-797c6fbd",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "community",
+  "source_name": "엠엘비파크",
+  "url": "https://mlbpark.donga.com/mp/b.php?id=202610250119643921&p=661&b=bullpen&m=view&site=donga.com",
+  "title": "롯데 자이언츠 이제 고생 끝났네요",
+  "published_at": "2026-10-24T15:00:00.000Z",
+  "collected_at": "2026-10-27T21:38:07.541Z",
+  "summary_ko": "",
+  "excerpt": "... 우승 청부사 이동욱 감독을 데려왔네요전력 보강만 제대로 되면 가을 그 이상을 노릴수 있겠…",
+  "metrics": {},
+  "scores": {
+    "hot": 40,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

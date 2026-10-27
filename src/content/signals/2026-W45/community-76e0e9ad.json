@@ -1,0 +1,23 @@
+{
+  "id": "community-76e0e9ad",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "엠엘비파크",
+  "url": "https://mlbpark.donga.com/mp/b.php?id=202610220119602830&p=211&b=kbotown&m=view&site=donga.com",
+  "title": "역대 삼성 라이온즈 War 연도별 1위 (타자편)",
+  "published_at": "2026-10-22T15:00:00.000Z",
+  "collected_at": "2026-10-27T21:38:07.541Z",
+  "summary_ko": "",
+  "excerpt": "... ‌1982 : 장태수 3.46 1983 : 장효조 7.54 1984 : 이만수 5.41 …",
+  "metrics": {},
+  "scores": {
+    "hot": 23,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

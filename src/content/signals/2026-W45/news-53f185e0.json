@@ -1,0 +1,23 @@
+{
+  "id": "news-53f185e0",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBZcG1qVUxiZVRNSGhaQmFHZmZlb3NBcmppWXM0OWJIazJpU0hqN0oxd2NpejhicFpUN0lYalRYNEw5dktCTVVvRXBxRU9WYkpvRWZZWlNwVW1ja1c3SnN6cy1GQmxXT2Q1UzZibE41TdIBb0FVX3lxTFBZcG1qVUxiZVRNSGhaQmFHZmZlb3NBcmppWXM0OWJIazJpU0hqN0oxd2NpejhicFpUN0lYalRYNEw5dktCTVVvRXBxRU9WYkpvRWZZWlNwVW1ja1c3SnN6cy1GQmxXT2Q1UzZibE41TQ?oc=5",
+  "title": "[사진] 김범수, 최형우 홈런에 허탈",
+  "published_at": "2026-10-27T12:24:00.000Z",
+  "collected_at": "2026-10-27T21:38:07.541Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 73,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}
