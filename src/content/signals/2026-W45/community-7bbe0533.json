@@ -1,0 +1,46 @@
+{
+  "id": "community-7bbe0533",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 트위터를할래말래",
+  "url": "https://idea09376.tistory.com/17",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/8NBSaIOUoLe",
+  "title": "42세 최형우, 가을 최고령 홈런",
+  "published_at": "2026-10-27T22:21:09.000+09:00",
+  "collected_at": "2026-10-27T13:48:03.314Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 100,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5nRk82WFNWQ3RvMVFiYXpFaG5xX3lxLWVXdmNFVURCajdXUjI1ZkZXNDFpc2ROZUtOTTZVcXJBSDhUMF9pQnhBM3FOanpFazljZ3NNd2RpbkpPYVhhV2ROeVlSZnptVWItdGfSAW9BVV95cUxPVVV0Y2otZk0yS01hLXNqdGVjVU92a1RmR1lEdG5fT1VGN0lfWDN2NUtta0NjNzNUb0ZidlVlaDhhMUVVTHVoVF9NR1Nsc2xocW00S2RONXhiMllVODVxekE4TTkxbks3UEJMX19KYkk?oc=5"
+    },
+    {
+      "source_name": "일간스포츠",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1GQlpiUGhiUFZxeU1jVEZVTnRhNVl5TEx0TWRkcjYydVdpNFpxQnc0ZV9kSlBCRklvMU1jWkQwR3M5MjZjMXNGYXZiQ1JTQVUzTGEtWU1EQmRaa0tqZHJNcEVR?oc=5"
+    },
+    {
+      "source_name": "마이데일리",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE53bFp4OWRKOFdqeHVsdHRCWWdac0ZXUXpUZ0lJQ093RnBGRERockJSaEgxQW5lMF9OdzR4b0lySG5UOWJWUEE5ZE5NQVFobTZkZHZTVW1LVC11UG9WOEgzZm1aNFJOZw?oc=5"
+    },
+    {
+      "source_name": "뉴스핌",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA0Z3VZOHpvcldHeDZBNG9lVFdGdHNZSzFXbnpYRTlPX2VuZnVQVVRXY011a3ltOEdZX0lISEhqNHUyQnM2Ynp0anRvV3ktdUtmdUdkemV1eDVVT1lM?oc=5"
+    },
+    {
+      "source_name": "연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5FcHdSeFBKTV9NcTlyS25vUEdxU2pMZXZEX1JGMlhYSGt3SWJiY2lWRi1ETXNOQzItR1htQUFnUUF5SVpBZ1FseWhtOGdQalZaZUhSdzE4eG5jUGvSAWBBVV95cUxPckhCdHRyYi1vQS14QmdNZjYtaFdOSjZpejR0N25LUkswa01oeDNON3JlQXBtVVVDNmR3RzNrYU40Z2FtTUZ3QkJaMFRJN25TLTlFbjdtUkZRWU1aeDJSam8?oc=5"
+    }
+  ]
+}

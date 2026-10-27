@@ -1,0 +1,23 @@
+{
+  "id": "news-af65f64e",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "news",
+  "source_name": "조선일보",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNOTdwcGJwbXo2ZlRQQVRhR21nZHBnbHdPUUk5VzVZZExRSUVha2dlRDVrYldKRjNkZk1hcVdILTBBODQycm0zWVpiWDVUNUpjUTRTX2kzYmZMUzZldjdMRXcyOFBCUnUtZ2UxX0V3RnZVSzdSVDd1c1doUVBQeVBDX20xVQ?oc=5",
+  "title": "'이기창 2G 연속 무실점 선발승' 한화, 요코하마 2-0 제압하고 2연승…임종찬 2안타 1타점",
+  "published_at": "2026-10-27T08:14:00.000Z",
+  "collected_at": "2026-10-27T13:48:03.314Z",
+  "summary_ko": "조선일보는 한화가 요코하마를 2-0으로 눌러 2연승했다고 전했다. 이기창이 2경기 연속 무실점 선발승을 거뒀다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "brief_ko": "이기창, 2G 연속 무실점승"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "community-0ee616bb",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 세상 읽기",
+  "url": "https://yoanarc.com/1462",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/DmEZCzAaJpy",
+  "title": "최형우 최고령 홈런｜나이·포스트시즌 신기록·삼성 KIA",
+  "published_at": "2026-10-27T22:02:58.000+09:00",
+  "collected_at": "2026-10-27T13:48:03.314Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 100,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE04UUNjZmxONmdRS3dFLVhIajU4MmRqUTFqal9kaFQyb0lZR0t1aUxrSjl4ZW9NUmRHcVFESTF3YmlFRnpaMHV6Y1R0VnFSZnhKaWkxYXRYZGZoeE8xc2FOUNIBeEFVX3lxTE1kRVAtdGpmUU15b2NlM3FpdXpFYjktRDV1MnVkU1Vja0RqMU9NVHNNN0VpcUg3ZUxZOHVGcFNtYUhuUU95UVVHd1Jrd05XSUVCX3RiU2phV0E1ck40bWNhaUZOdEhadW9vUUhTM0ZFSDVkYVVoVHdWVg?oc=5"
+    },
+    {
+      "source_name": "한스경제",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9GRUhLb2dJdmRhZjM2bW5qZEdPMUwtSU1pM2lYN01jOHN5OEd6NnZwV2lPMW8zM3ZDYl9aM1NBX1hjRE55bEkyYncwcjcxODRieFMtcm9HSjRWVVl3Z0NKVWZqOGdxSkoxWjNF0gFvQVVfeXFMUGNOb09XUTJmUGktQUZxZDhxV2ZQOWxneVhvY2FCYmRmNERsQy1GcndlU0tWLUsycTlkeGJZUUp5cDFhejYzd0VqamNnZElCSGlSd1NWR2s3b2dtOV91M3JnYU9Ldzk1RlZjZzdrWUZV?oc=5"
+    },
+    {
+      "source_name": "영남일보",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5BUUNkMGltSVZuVXZvdlo1OXl4WE54VkJvdVJEQjdBLVZHbHQ4Qm5ES1ZwTGpzT0dTMU9JMWpndlJCYUJpQzA1YW9NTVlPeVlQSXRKbGpTUzZlYXdwTnd1SDB2SldVX29iWXc4?oc=5"
+    },
+    {
+      "source_name": "서울경제",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE82bTd1MmxPYVFydmNYREtUWXVQNVdNdjk0ZW1RSE1UZDNfZTJFX3RuSTZaNkFhQi1BUWVGVjVhVzdROHpnZGljTUxYeU1pMnM0blHSAVNBVV95cUxOVFdsMkI4bDJtbHNfazNWNGhzV2VWand5OXc3QXdoTVpoVXJrU19kcTJDMjkwNThwUW9IbHFUQ05tWFFrbnNCZjRkRFNKT1ppaVFYMA?oc=5"
+    }
+  ]
+}

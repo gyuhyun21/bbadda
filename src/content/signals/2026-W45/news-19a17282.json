@@ -1,0 +1,23 @@
+{
+  "id": "news-19a17282",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "news",
+  "source_name": "MHN스포츠",
+  "url": "https://mhnse.com/news/articleView.html?idxno=1629795",
+  "title": "‘194cm 장신 투수’ 서의태, 야구공 대신 주먹 쥔다…NC 방출 1년 만에 격투기 데뷔",
+  "published_at": "2026-10-27T13:18:45.000Z",
+  "collected_at": "2026-10-27T13:48:03.314Z",
+  "summary_ko": "MHN스포츠는 NC에서 방출된 194cm 투수 서의태가 1년 만에 격투기로 데뷔한다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "negative",
+  "brief_ko": "서의태, 격투기 데뷔"
+}

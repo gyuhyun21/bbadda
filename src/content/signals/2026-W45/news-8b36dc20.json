@@ -1,0 +1,23 @@
+{
+  "id": "news-8b36dc20",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9lYnhWUFI2S3EzNEpLMnN5QlAySlU1cVYybmVmTmJFVHo2RVk0M2ZjREhIczRjdXNlNk5Jd3B0ZENQblF4dy1nLW1kVUpJcHZVQmpXUnp0OG5Dem11ZlJ0UC1XUEZwVVoxMkYyUXB0Zjd4QzI0b00yekJ4U3dSdw?oc=5",
+  "title": "\"비밀 지켜라\" SV왕 사라지고 내려진 함구령→'푸른 피 에이스'도 기꺼이 받아들였다, \"KS 나갈 수만 있다면…준비 많이 했다\" [PO2]",
+  "published_at": "2026-10-27T07:04:05.000Z",
+  "collected_at": "2026-10-27T13:48:03.314Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

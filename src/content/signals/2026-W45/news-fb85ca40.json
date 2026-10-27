@@ -1,0 +1,23 @@
+{
+  "id": "news-fb85ca40",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "한겨레",
+  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBsWHZmeFAwZXZlYUhDaHlMbnZjSzhpUmpWZ2dfZWZNbmFIVktkMzdWV0xhVGpzNW1pektwTEVjcFVkdGFLYms3TXdWZHJNcG45WEQ0LUVhUnNVQTZ6Qm5UY2NqVDZocTg?oc=5",
+  "title": "‘최고령 해결사’ 최형우가 깨운 사자 군단…삼성, KIA 꺾고 PO 원점",
+  "published_at": "2026-10-27T13:04:00.000Z",
+  "collected_at": "2026-10-27T13:48:03.314Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 84,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

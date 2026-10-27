@@ -1,0 +1,23 @@
+{
+  "id": "news-bbd54ed3",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "데일리25",
+  "url": "https://www.daily25news.com/news/articleView.html?idxno=8231",
+  "title": "7년 연속 한국시리즈 이끈 명장이 어쩌다…김태형, 롯데서 3년 내리 7위 '충격 성적표'",
+  "published_at": "2026-10-27T07:30:00.000Z",
+  "collected_at": "2026-10-27T13:48:03.314Z",
+  "summary_ko": "데일리25는 김태형 감독이 롯데에서 3년 연속 7위에 그쳤다며 7년 연속 한국시리즈를 이끈 명장의 성적표를 짚었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 82,
+    "relevance": 70
+  },
+  "sentiment": "negative",
+  "brief_ko": "3년 연속 7위 성적표"
+}

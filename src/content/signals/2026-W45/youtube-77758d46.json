@@ -1,0 +1,27 @@
+{
+  "id": "youtube-77758d46",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "youtube",
+  "source_name": "롯미남",
+  "url": "https://www.youtube.com/watch?v=FvpQxtUQARM",
+  "title": "이동욱 감독은 어떤 지도자일까? 롯데가 기대할 수 있는 변화",
+  "published_at": "2026-10-27T10:30:30Z",
+  "collected_at": "2026-10-27T13:48:03.314Z",
+  "summary_ko": "한 팬 채널이 롯데 이동욱 감독이 어떤 지도자인지, 롯데가 기대할 변화를 짚은 영상을 올렸다.",
+  "metrics": {
+    "views": 861,
+    "likes": 23,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 53,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "이동욱 감독은 어떤 지도자"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "news-d3b421e7",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "스타뉴스",
+  "url": "https://www.starnewskorea.com/sports/2026/10/27/2026102714231858300",
+  "title": "'롯데→KT→KIA' 대타 스페셜리스트, 커리어 첫 PS 선발 출장! \"끓어오르는 느낌, 인터뷰가 더 떨려\"",
+  "published_at": "2026-10-27T08:27:09.000Z",
+  "collected_at": "2026-10-27T13:48:03.314Z",
+  "summary_ko": "스타뉴스는 롯데·KT를 거친 KIA 이호연이 커리어 첫 포스트시즌 선발로 나선다고 전했다. 본인은 인터뷰가 더 떨린다고 했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 90,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE91eWUwWHQ1WkVmcV9Ld21uRE8xaGtLc1FqMGhGcU5YRW5KYzNoanBBQnI2d0doek1tOTVzMVBQN2xQWWw3VjRpaFczV2ROdjFCR1cwN0puYm9DemtUcHhreVctT1ZJR284TG9memdCc9IBb0FVX3lxTE91eWUwWHQ1WkVmcV9Ld21uRE8xaGtLc1FqMGhGcU5YRW5KYzNoanBBQnI2d0doek1tOTVzMVBQN2xQWWw3VjRpaFczV2ROdjFCR1cwN0puYm9DemtUcHhreVctT1ZJR284TG9memdCcw?oc=5"
+    }
+  ],
+  "brief_ko": "이호연, 첫 PS 선발"
+}

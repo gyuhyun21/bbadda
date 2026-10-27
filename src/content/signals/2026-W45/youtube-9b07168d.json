@@ -1,0 +1,24 @@
+{
+  "id": "youtube-9b07168d",
+  "issue": "2026-W45",
+  "module": "league",
+  "teams": [],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=ynNAXzoP-z0",
+  "title": "흐름을 이어가는 류지혁의 멋진 호수비‼️‼️",
+  "published_at": "2026-10-27T11:49:13Z",
+  "collected_at": "2026-10-27T13:48:03.314Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 3717,
+    "likes": 150,
+    "comments": 4
+  },
+  "scores": {
+    "hot": 71,
+    "relevance": 30
+  },
+  "sentiment": "neutral"
+}

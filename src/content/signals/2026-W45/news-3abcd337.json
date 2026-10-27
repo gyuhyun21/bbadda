@@ -1,0 +1,22 @@
+{
+  "id": "news-3abcd337",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스1",
+  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1LaFl4dl9xcWllYlFVTGdVcS1GS2xPamw0dWpJT3BZUk84XzMzd1U4VUttV2FCcXFtdDRDdDU4MDU1Wlk4UlRnSFZlWTBtTXpwWTBfOUZlaw?oc=5",
+  "title": "'역시 에이스' 삼성 후라도, PS 불운 씻고 위기의 사자 구했다[PO2]",
+  "published_at": "2026-10-27T13:09:43.000Z",
+  "collected_at": "2026-10-27T13:48:03.314Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

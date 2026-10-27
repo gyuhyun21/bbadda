@@ -1,0 +1,33 @@
+{
+  "id": "news-0dea87e5",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1tWm1Ld0hNOVE1T1BuSVU4aHNvQmtzQ3hYd0ZabGdYdkw2d2NEUHRtTTBLcnpELVRRWE5jdlppVUZENFBPODNrQlZFSVRuTFp0bzh4c1JKRUp0UzFObjNOcmQtTWhBU3lzeXfSAW9BVV95cUxQbGx1dEVGTVVGLW5ib2V0UkQ3TURtVkFFS1VuUEtBeTJBa2s4Q0hjOFVKUDNFR0tSQm5UMzJKQkkwQ01SbmszRkl5ejl6R3JxWkc4WFJJSXhxME5wd2N3dGZGOG56RnV4RUFKNXVXeGs?oc=5",
+  "title": "역시 최형우 있어야 삼성이지! '디아즈·최형우 홈런 쾅쾅→원태인 마무리' 삼성, KIA 잡고 PO 1승 1패 원점 [대구 현장리뷰]",
+  "published_at": "2026-10-27T12:56:21.000Z",
+  "collected_at": "2026-10-27T13:48:03.314Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 100,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5id3J2d085dW5fUllFcjNBT1ZHa3JuNzZuYTZJM1RBUVgwMFFOanVUTEZEZFJybXBka1FaaVNYcWV3NXdvMkZPT1I2dFNPaThCRkk1MmtTRTluVFRUN1hBNUxPQXFkdHRvbEtnLWVaWk5oRFFMT1E?oc=5"
+    },
+    {
+      "source_name": "매일일보",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5pWTFkcEdYV01CbkJpWlNZZHNCSmhYaDg3UlMwTHhpM2QxS1E2QngtYTZLeG9Rb3ZEaG5uUjJfOUdOel9xaTJrcTM2U0NsdFNaNWZLYi1ub1BRc1Z6OUJMRlBrYno?oc=5"
+    }
+  ]
+}

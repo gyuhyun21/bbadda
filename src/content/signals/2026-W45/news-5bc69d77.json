@@ -1,0 +1,23 @@
+{
+  "id": "news-5bc69d77",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "연합뉴스",
+  "url": "https://www.yna.co.kr/amp/view/AKR20261027183000007",
+  "title": "구자욱 뛰기 힘드니 홈런 때린 삼성 디아즈…PS 통산 7호포",
+  "published_at": "2026-10-27T10:49:22.000Z",
+  "collected_at": "2026-10-27T13:48:03.314Z",
+  "summary_ko": "연합뉴스는 삼성 디아즈가 홈런을 쳐 포스트시즌 통산 7호포를 기록했다고 전했다. 구자욱이 뛰기 힘든 상황이었다고 한다.",
+  "metrics": {},
+  "scores": {
+    "hot": 83,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "brief_ko": "디아즈, PS 통산 7호포"
+}

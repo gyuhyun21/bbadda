@@ -1,0 +1,23 @@
+{
+  "id": "news-f23e8f31",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "news",
+  "source_name": "조선일보",
+  "url": "https://www.chosun.com/sports/baseball/2026/10/27/GRTDSNBYGZSWMN3CMI2DCNJWGI/",
+  "title": "\"현장 목소리 적극 반영\" 한국시리즈 본격 담금질! '100만 야구팬' KT, 무관중 연습경기 대신 '관중석 개방' 확정 [수원현장]",
+  "published_at": "2026-10-27T10:22:00.000Z",
+  "collected_at": "2026-10-27T13:48:03.314Z",
+  "summary_ko": "조선일보에 따르면 KT는 한국시리즈 대비 연습경기를 무관중 대신 관중석을 개방해 치르기로 확정했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "연습경기 관중석 개방"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-7f83e7c2",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://www.sportschosun.com/baseball/2026-10-27/202610270100172690011409",
+  "title": "\"한화 다년계약 거절\" 깜짝 발언, 왜 3억 재계약에 만족했나…대만 금의환향, ML 도전 의지도 보였다",
+  "published_at": "2026-10-27T08:55:00.000Z",
+  "collected_at": "2026-10-27T13:48:03.314Z",
+  "summary_ko": "스포츠조선은 한화 왕옌청이 다년계약 제안을 거절하고 3억 재계약에 만족한 이유를 전했다. ML 도전 의지도 보였다고 한다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 80
+  },
+  "sentiment": "neutral",
+  "brief_ko": "왕옌청, 다년계약 거절"
+}

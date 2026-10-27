@@ -1,0 +1,24 @@
+{
+  "id": "news-527dc46b",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스타뉴스",
+  "url": "https://www.starnewskorea.com/sports/2026/10/27/2026102720112265440",
+  "title": "'와! 108구 역투' 6⅔이닝 2실점 잘 버틴 후라도, 라팍에 '뜨거운 기립박수' 쏟아졌다",
+  "published_at": "2026-10-27T12:14:27.000Z",
+  "collected_at": "2026-10-27T13:48:03.314Z",
+  "summary_ko": "스타뉴스는 후라도가 108구를 던지며 6⅔이닝 2실점으로 버텼고, 대구 팬들이 기립박수를 보냈다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "108구 역투에 기립박수"
+}

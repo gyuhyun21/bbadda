@@ -1,0 +1,22 @@
+{
+  "id": "news-f7cbc444",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스핌",
+  "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9UZ1RNbkpiYXlibm00MGpNMl9wYWhhVFVHbC1TVWdNVkE3b0g0dkZ6R0Z5MTNQR0FDSDNlelNzWTRHMnBnQW5SaUF0NFpnVEFIWDlyamg4ck0wcU1I?oc=5",
+  "title": "[AI그래픽] KBO PO 2차전, 삼성 디아즈 3회 4-1으로 벌리는 2점 홈런",
+  "published_at": "2026-10-27T10:57:00.000Z",
+  "collected_at": "2026-10-27T13:48:03.314Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 80
+  },
+  "sentiment": "positive"
+}

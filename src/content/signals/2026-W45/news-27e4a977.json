@@ -1,0 +1,23 @@
+{
+  "id": "news-27e4a977",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "미주중앙일보",
+  "url": "https://www.koreadaily.com/article/20261027061544978",
+  "title": "어제 그 삼성 맞아? 2안타 굴욕 하루 만에 대반전…박진만의 타순 변경 승부수, 제대로 통했다 [PO2]",
+  "published_at": "2026-10-27T13:15:00.000Z",
+  "collected_at": "2026-10-27T13:48:03.314Z",
+  "summary_ko": "미주중앙일보는 전날 2안타에 그쳤던 삼성이 박진만 감독의 타순 변경으로 하루 만에 반전을 만들었다고 짚었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "타순 변경 승부수 통했다"
+}

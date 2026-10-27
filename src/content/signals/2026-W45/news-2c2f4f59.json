@@ -1,0 +1,24 @@
+{
+  "id": "news-2c2f4f59",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠경향",
+  "url": "https://sports.khan.co.kr/article/202610271950003/amp",
+  "title": "‘찬바람도, 2주 공백도 막지 못한’ 힐리어드의 못 말리는 타격감 “경기장에서 모든 것을 쏟아낼 것”",
+  "published_at": "2026-10-27T10:50:00.000Z",
+  "collected_at": "2026-10-27T13:48:03.314Z",
+  "summary_ko": "스포츠경향은 2주 공백에도 KT 힐리어드의 타격감이 식지 않았다고 전했다. 힐리어드는 경기장에서 모든 것을 쏟아내겠다고 했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "힐리어드, 2주 공백 무색"
+}

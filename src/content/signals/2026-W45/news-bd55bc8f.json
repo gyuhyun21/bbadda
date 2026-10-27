@@ -1,0 +1,23 @@
+{
+  "id": "news-bd55bc8f",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "https://www.2news.co.kr/",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5QSi1vV3JROE12eDJVcWFxa0ZYQ3QtOWdjQktuUUNNdzdZTndNSGJNajJfZ1VPM01aTlFLZTNUdUxfODFVbWktTzJCaWpueGg3dFBmUXZYbzBOc1JIOVoyZG1jdkZ4d2FB?oc=5",
+  "title": "KIA 이범호의 삼성 잡기 선점 카드, 원태인 등판 봉쇄 작전 선언",
+  "published_at": "2026-10-27T08:40:00.000Z",
+  "collected_at": "2026-10-27T13:48:03.314Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

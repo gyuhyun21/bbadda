@@ -1,0 +1,24 @@
+{
+  "id": "news-f0cd633f",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20261027_0003843598",
+  "title": "쌀쌀한 가을 바람에도 삼성-KIA 2차전 만원관중…PS 43경기 연속 매진[PO]",
+  "published_at": "2026-10-27T10:38:42.000Z",
+  "collected_at": "2026-10-27T13:48:03.314Z",
+  "summary_ko": "뉴시스에 따르면 쌀쌀한 날씨에도 PO 2차전이 만원 관중을 기록해 포스트시즌 43경기 연속 매진을 이어갔다.",
+  "metrics": {},
+  "scores": {
+    "hot": 83,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "PS 43경기 연속 매진"
+}

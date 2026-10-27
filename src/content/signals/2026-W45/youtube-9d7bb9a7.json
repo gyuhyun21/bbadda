@@ -1,0 +1,26 @@
+{
+  "id": "youtube-9d7bb9a7",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "youtube",
+  "source_name": "기아7월31일",
+  "url": "https://www.youtube.com/watch?v=WNXUjiImuIU",
+  "title": "前 kt위즈 천성호 응원가",
+  "published_at": "2026-10-27T08:38:01Z",
+  "collected_at": "2026-10-27T13:48:03.314Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 4,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 7,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

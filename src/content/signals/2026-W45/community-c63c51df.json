@@ -1,0 +1,24 @@
+{
+  "id": "community-c63c51df",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 하니의 소소한 하루",
+  "url": "https://blog.naver.com/minjosuk2/224455783438",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/DR352JmCPYM",
+  "title": "홈런 타자에서 가을 야구의 승부사로 변신한 김도영의 순간과 그 이면의 치열함",
+  "published_at": "2026-10-27T20:40:00.000+09:00",
+  "collected_at": "2026-10-27T13:48:03.314Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

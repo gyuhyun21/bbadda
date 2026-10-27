@@ -1,0 +1,27 @@
+{
+  "id": "youtube-4621c3d0",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "스포츠클래식 SportsClassic",
+  "url": "https://www.youtube.com/watch?v=72tIP06X-Qs",
+  "title": "[스클 LIVE] 2026 KBO리그 포스트시즌 플레이오프 2차전 KIA 타이거즈 : 삼성 라이온즈 / 2026.10.26 경기 (올러 vs 후라도)",
+  "published_at": "2026-10-27T13:10:58Z",
+  "collected_at": "2026-10-27T13:48:03.314Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 106100,
+    "likes": 849,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 59,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}
