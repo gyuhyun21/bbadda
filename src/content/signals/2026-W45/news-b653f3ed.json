@@ -1,0 +1,22 @@
+{
+  "id": "news-b653f3ed",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "조이뉴스24",
+  "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4xQms5VkNMVHUxNVY4bExIaGZ2ZTNQa2VzQWo3eGtRYW9kTnJocVFrdmZwZG5TVFl2aElZLTJRSmdZWE9aQUNwbHRPaFNlSjA?oc=5",
+  "title": "[PO] '2안타 굴욕 씻었다' 삼성, 홈런 2방으로 제압… 시리즈 원점",
+  "published_at": "2026-10-28T04:50:00.000Z",
+  "collected_at": "2026-10-28T21:38:34.347Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 70,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

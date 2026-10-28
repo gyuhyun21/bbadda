@@ -1,0 +1,23 @@
+{
+  "id": "community-1c7584c9",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 GOOD NEWS",
+  "url": "https://blog.naver.com/livenews101/224456766958",
+  "title": "APBC 대표팀, 조성환 수석코치·이대형 해설위원 합류…최원호 감독 체제 완성",
+  "published_at": "2026-10-28T16:21:00.000+09:00",
+  "collected_at": "2026-10-28T21:38:34.347Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

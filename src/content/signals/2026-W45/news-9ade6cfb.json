@@ -1,0 +1,23 @@
+{
+  "id": "news-9ade6cfb",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "노컷뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5KcmFKVlAxUUtWVU9ZTkxob0Y2STZaSmpIRW5TNTV4RkZ1R016UHhtY0E2M0FzdW01OXpIZTViUlMxcXdTZ0pBRG94WVNSd0pNVmc?oc=5",
+  "title": "원태인, 제2의 문동주가 될 수 있을까…풀 타임 선발→PO 필승 카드 대변신",
+  "published_at": "2026-10-28T03:05:14.000Z",
+  "collected_at": "2026-10-28T21:38:34.347Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 61,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

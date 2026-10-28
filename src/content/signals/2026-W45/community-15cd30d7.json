@@ -1,0 +1,22 @@
+{
+  "id": "community-15cd30d7",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 지금 이 이슈",
+  "url": "https://blog.naver.com/nowmoon101/224456773337",
+  "title": "방출의 아픔 딛고 친정팀 NC로, 손아섭의 '인생 2막'은?",
+  "published_at": "2026-10-28T16:20:00.000+09:00",
+  "collected_at": "2026-10-28T21:38:34.347Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

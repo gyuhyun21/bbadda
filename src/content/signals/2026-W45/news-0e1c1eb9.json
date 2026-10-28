@@ -1,0 +1,23 @@
+{
+  "id": "news-0e1c1eb9",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "https://www.asportstv.kr/",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5WUl9CSVd6UHRndmJoMld4M1hMMi00cDVlSm9PU1M1a0drZ3o3ZmlxNmpTdkgwUnFLcnpvZmxaV3AyVklITGFvQ0FueWI3b080VjdFQV9iMnJLcU5scUJscC1DZDFUSjkt?oc=5",
+  "title": "[플레이오프] \"9홈런 사자 킬러 어디 갔나\"… 꽁꽁 묶인 김도영, 광주서 깨어날까",
+  "published_at": "2026-10-28T00:25:27.000Z",
+  "collected_at": "2026-10-28T21:38:34.347Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 60,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

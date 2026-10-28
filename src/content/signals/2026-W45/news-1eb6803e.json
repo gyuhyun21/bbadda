@@ -1,0 +1,24 @@
+{
+  "id": "news-1eb6803e",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "한국아이닷컴",
+  "url": "https://www.hankooki.com/news/articleView.html?idxno=347053",
+  "title": "토종 에이스 마무리로 쓴 삼성, ‘KIA 포비아’ 최원태의 어깨가 무겁다[PO3 프리뷰]",
+  "published_at": "2026-10-28T20:30:00.000Z",
+  "collected_at": "2026-10-28T21:38:34.347Z",
+  "summary_ko": "한국아이닷컴은 원태인을 마무리로 쓴 삼성이 3차전에서 'KIA 포비아' 최원태의 어깨에 기대야 한다고 짚었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "마무리 원태인, 최원태 어깨 무겁다"
+}

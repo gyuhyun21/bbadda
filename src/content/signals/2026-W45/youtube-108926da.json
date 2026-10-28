@@ -1,0 +1,26 @@
+{
+  "id": "youtube-108926da",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "빵빵광주택시 | 택시로 만나는 광주",
+  "url": "https://www.youtube.com/watch?v=VBBV8rSoMnU",
+  "title": "KIA 팬들도 모르는 챔피언스필드의 비밀?! ⚾🔥 #KIA타이거즈 #챔피언스필드 #광주야구 #야구쇼츠",
+  "published_at": "2026-10-28T13:15:05Z",
+  "collected_at": "2026-10-28T21:38:34.347Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1689,
+    "likes": 6,
+    "comments": 4
+  },
+  "scores": {
+    "hot": 45,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

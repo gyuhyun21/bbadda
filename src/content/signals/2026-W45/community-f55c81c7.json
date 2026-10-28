@@ -1,0 +1,24 @@
+{
+  "id": "community-f55c81c7",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 스포츠니",
+  "url": "https://sportdaily.tistory.com/26",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/Gw9Tzq8YkeY",
+  "title": "KIA 삼성 플레이오프 2차전 8-3, 최형우 최고령 홈런·후라도 첫 포스트시즌 승리",
+  "published_at": "2026-10-29T05:11:57.000+09:00",
+  "collected_at": "2026-10-28T21:38:34.347Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

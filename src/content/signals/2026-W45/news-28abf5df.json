@@ -1,0 +1,23 @@
+{
+  "id": "news-28abf5df",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠경향",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1wZTNCQi1yUEhUVnp3dUFOMVhvcmJyMS10NElFQ1hVcHViRG5hUnNPLUpZNWpKWElzVmVwS2JxS2taSXoyZ21SMGlmT1lRQjRGNExTUlRCSDYxbjBvOHl1RUVUWdIBY0FVX3lxTE1wZTNCQi1yUEhUVnp3dUFOMVhvcmJyMS10NElFQ1hVcHViRG5hUnNPLUpZNWpKWElzVmVwS2JxS2taSXoyZ21SMGlmT1lRQjRGNExTUlRCSDYxbjBvOHl1RUVUWQ?oc=5",
+  "title": "[스경x비하인드] KIA 타이거즈 주목!…김도영이 바란다 “카스트로가 빨리 계약하면 좋겠다”",
+  "published_at": "2026-10-28T01:28:00.000Z",
+  "collected_at": "2026-10-28T21:38:34.347Z",
+  "summary_ko": "스포츠경향에 따르면 김도영은 카스트로가 빨리 재계약하면 좋겠다고 바랐다.",
+  "metrics": {},
+  "scores": {
+    "hot": 61,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "김도영 \"카스트로 빨리 계약\""
+}

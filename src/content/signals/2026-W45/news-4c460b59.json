@@ -1,0 +1,24 @@
+{
+  "id": "news-4c460b59",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "더게이트",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5YdGF2RmhoQmdSeWJOaEZlQUQ2VlA4MXloNFhuWERUMm9RSVJxZkhrWlcya19kV2N5ZkhyQUhmbGJ6c0gwaHFIVXlacUI1XzlxSGJCeWtvRGc2em5ta2FoX0REb2VId1pQ0gFsQVVfeXFMUDBPTTdxOGg3azFyUG9FVmJWbnhJY1dWa2tham5EdDdFNndIMkgwc1RPN3BYZGlpdlNLZ1E1bVlST3c3XzJwM2hJWHcyQWVUSUhTcTVfQTBlZ3ZvaGU1TjlGTXBaT01BQUVtUzJh?oc=5",
+  "title": "'마황' 황성빈, 외야 수비 배우러 일본 요미우리 캠프 간다...'수비 중시' 이동욱 감독 체제 생존 경쟁 시작",
+  "published_at": "2026-10-28T09:26:07.000Z",
+  "collected_at": "2026-10-28T21:38:34.347Z",
+  "summary_ko": "더게이트에 따르면 롯데 황성빈이 외야 수비를 배우러 일본 요미우리 캠프에 간다. 수비를 중시하는 이동욱 감독 체제에서 생존 경쟁이 시작됐다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "황성빈, 요미우리 캠프행"
+}

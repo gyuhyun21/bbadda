@@ -1,0 +1,22 @@
+{
+  "id": "news-d72ffaf5",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "https://www.asportstv.kr/",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1qNG5CZnpjNjJnajFBRzhvOWZIQ1NIbWFfR0k4YTVRUkRJcnZtcjdheDVTUFVsTDFVMFNrdGxaeHFNeHNGRjU2RElHMlU2VTNIcDEybEN1U0ZzMmhxejM3QnhGOFF3MmV6?oc=5",
+  "title": "[플레이오프] '108구 역투' 후라도에 타선 터졌다… 2안타 수모 씻은 삼성",
+  "published_at": "2026-10-28T00:02:41.000Z",
+  "collected_at": "2026-10-28T21:38:34.347Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 60,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

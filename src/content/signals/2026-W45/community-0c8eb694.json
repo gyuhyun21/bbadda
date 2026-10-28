@@ -1,0 +1,23 @@
+{
+  "id": "community-0c8eb694",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 스포록",
+  "url": "https://blog.naver.com/biztory26/224456697183",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/K7wwyKQaEnK",
+  "title": "\"마무리가 PO에서 빠진다고?\" 삼성 김재윤 결국 엔트리 제외",
+  "published_at": "2026-10-28T18:00:00.000+09:00",
+  "collected_at": "2026-10-28T21:38:34.347Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

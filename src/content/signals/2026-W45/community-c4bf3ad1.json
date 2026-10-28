@@ -1,0 +1,23 @@
+{
+  "id": "community-c4bf3ad1",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 이지복지 – 놓치면 아까운 정부지원",
+  "url": "https://blog.naver.com/easystorybokji/224456252232",
+  "title": "최형우 42세에 최고령 홈런, KIA 상대로 가을야구 기록 4개 갈아치웠다 (포스트시즌·삼성라이온즈...",
+  "published_at": "2026-10-28T10:40:00.000+09:00",
+  "collected_at": "2026-10-28T21:38:34.347Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 61,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

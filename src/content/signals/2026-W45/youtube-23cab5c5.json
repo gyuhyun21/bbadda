@@ -1,0 +1,26 @@
+{
+  "id": "youtube-23cab5c5",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "source_name": "푸하하하하",
+  "url": "https://www.youtube.com/watch?v=lVhc3wkELsw",
+  "title": "동주야 보고싶다 #한화이글스 #이글스tv #문동주 #노시환",
+  "published_at": "2026-10-28T16:58:08Z",
+  "collected_at": "2026-10-28T21:38:34.347Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1436,
+    "likes": 5,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 42,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

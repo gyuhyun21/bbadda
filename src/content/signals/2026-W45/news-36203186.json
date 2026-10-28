@@ -1,0 +1,23 @@
+{
+  "id": "news-36203186",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "KBC광주방송",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9DaVJSaTMxRkhVNWJpam0tNFl1d2FtUUtGbG9TYmhadU1yZHFTd0JpdFRTWk5BSllDTTdReGdFRFN0a1VyT1pjUXI1N0FFcmViM2RtNkNoZVNoUThpdGh3MQ?oc=5",
+  "title": "'가을야구서 빛난' KIA 시라카와, 광주서 또 일낼까",
+  "published_at": "2026-10-28T01:52:47.000Z",
+  "collected_at": "2026-10-28T21:38:34.347Z",
+  "summary_ko": "KBC광주방송은 가을야구에서 빛난 KIA 시라카와가 광주에서 다시 활약할지 주목했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 61,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "시라카와, 광주서 또 일낼까"
+}

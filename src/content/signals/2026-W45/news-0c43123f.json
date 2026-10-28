@@ -1,0 +1,22 @@
+{
+  "id": "news-0c43123f",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠Q",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBZNVpXcDhGQmt3NmVrVE5YN2V1cFZndFk1elF6VGo2bjhmdGZBUVVDdmtZakxCUS0xQThrby1tS3dKR1RSR1ZzVjlIdEo4WlRzSm1hcllEd3FRNjdhOWFNYmtOS0NoQW9NaVE?oc=5",
+  "title": "원태인 불펜 전환, 삼성 초강수 통할까 [플레이오프]",
+  "published_at": "2026-10-28T02:57:18.000Z",
+  "collected_at": "2026-10-28T21:38:34.347Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 61,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

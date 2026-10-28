@@ -1,0 +1,23 @@
+{
+  "id": "news-325d1c9e",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "조선일보",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQd05zQnlEaDk1SENBSFFCUlItN0VVTW9maUNyMktJc04xQXBRTkRlVEN4ajB2UEJPcmxBNHpFX2ptS0UzaXZKbVlGa1RmSVowekhSU3BkaTFyOU0xQ2J2bFJIamwteWhlQ0xpYW5UdWhoa3UzYkVZeklfcTY4Z1MxdW5Tcw?oc=5",
+  "title": "\"팝플라이만 잡아도 벤치 난리난다\" 최덕스' 수비는 벤치의 도파민, 최고령 보살로 확인된 뜻밖의 효과 \"놀라웠고, 대단했고, 존경스럽다\"",
+  "published_at": "2026-10-27T23:32:00.000Z",
+  "collected_at": "2026-10-28T21:38:34.347Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 60,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

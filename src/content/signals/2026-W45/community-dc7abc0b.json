@@ -1,0 +1,24 @@
+{
+  "id": "community-dc7abc0b",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 Human Stories: 인간과 AI의 세상살이",
+  "url": "https://zooey31.tistory.com/181",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/Jmzg2QYbl5U",
+  "title": "[PO 3차전 프리뷰] KIA vs 삼성, 시라카와 vs 최원태… 키 플레이어 박재현·이재현과 예상 스코어",
+  "published_at": "2026-10-29T03:38:26.000+09:00",
+  "collected_at": "2026-10-28T21:38:34.347Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

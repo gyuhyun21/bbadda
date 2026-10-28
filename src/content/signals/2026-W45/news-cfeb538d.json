@@ -1,0 +1,23 @@
+{
+  "id": "news-cfeb538d",
+  "issue": "2026-W45",
+  "module": "league",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "SPOTV NEWS",
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE51TUlMRmlqZXRfSmZYWmR3VlFrMXJOYks0eFlQMFdpZ2NCTkVrenZ4MktKcS1IR3p2MFJqU3hIZjVqbnRDaEdZd1k2UXNZQ2ZKOS1NR01RRGJsUlJybDJNLUdDNG1SQW8xZDljcndFMG4?oc=5",
+  "title": "구자욱 3년 연속 울분의 가을야구… 올해는 다른 엔딩일까, 타격왕 시동 걸렸다",
+  "published_at": "2026-10-28T21:20:00.000Z",
+  "collected_at": "2026-10-28T21:38:34.347Z",
+  "summary_ko": "스포티비뉴스는 3년 연속 울분의 가을야구를 겪은 구자욱이 올해는 다른 엔딩을 맞을지 짚었다. 타격왕 시동이 걸렸다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 30
+  },
+  "sentiment": "neutral",
+  "brief_ko": "구자욱, 올해는 다른 엔딩?",
+  "team": "samsung"
+}

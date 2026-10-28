@@ -1,0 +1,26 @@
+{
+  "id": "youtube-ec2345d3",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "무등산랑이",
+  "url": "https://www.youtube.com/watch?v=dqet45bjkdk",
+  "title": "꿈꾸던 선수가 되었나요? 작은거인 김선빈 #기아타이거즈 #야구",
+  "published_at": "2026-10-28T11:51:54Z",
+  "collected_at": "2026-10-28T21:38:34.347Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 6133,
+    "likes": 179,
+    "comments": 9
+  },
+  "scores": {
+    "hot": 71,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

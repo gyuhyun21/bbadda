@@ -1,0 +1,22 @@
+{
+  "id": "community-cd34e5b7",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "다음카페 밀토피아",
+  "url": "https://cafe.daum.net/miltopia/WT2I/142439",
+  "title": "나 요즘 야구에 빠졌잔아;; 기아타이거즈 오라이",
+  "published_at": "2026-10-27T19:49:02.000+09:00",
+  "collected_at": "2026-10-28T21:38:34.347Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 56,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}
