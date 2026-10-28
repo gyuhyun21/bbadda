@@ -1,0 +1,25 @@
+{
+  "id": "news-27eef428",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "OSEN",
+  "url": "https://www.osen.co.kr/article/G1112900117",
+  "title": "‘PS 에이스의 치명적 약점, KIA전 ERA 8.10’ 최원태, 운명의 3차전에서 다시 만난 천적 [PO3]",
+  "published_at": "2026-10-28T21:11:00.000Z",
+  "collected_at": "2026-10-28T21:38:34.347Z",
+  "summary_ko": "OSEN은 PO 3차전 삼성 선발 최원태가 포스트시즌 에이스지만 KIA전 평균자책점이 8.10으로 약점이라고 짚었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 80
+  },
+  "sentiment": "neutral",
+  "brief_ko": "최원태, KIA전 평균자책 8.10",
+  "hook_ko": "최원태, KIA만 만나면 ERA 8.10"
+}

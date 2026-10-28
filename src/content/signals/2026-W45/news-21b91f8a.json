@@ -1,0 +1,23 @@
+{
+  "id": "news-21b91f8a",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "news",
+  "source_name": "조선일보",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMDVSRWlzeXJPbjdBUk13elo2ZlNtRnNublZSX1Y4MkFsbGh6RGlDQ1FLZnZRSF9NMjFnVGhUdUJ2UGtJdG1QRWR1MUhLM2FHWG15NWtLb0JmM1c1QlFDRXlpVWQ4Q25JZi0xNmpnb19iQlZzUmxnVnNPRFZfQWhBT2Z4bw?oc=5",
+  "title": "39세인데 QS, ERA 1.47…KT 첫 우승 도왔던 특급 외인, 아직도 '펄펄'",
+  "published_at": "2026-10-28T16:21:00.000Z",
+  "collected_at": "2026-10-28T21:38:34.347Z",
+  "summary_ko": "조선일보는 KT 첫 우승을 도운 39세 외국인 투수가 QS와 평균자책점 1.47로 여전히 좋은 투구를 한다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "brief_ko": "KT 첫 우승 외인, 39세 ERA 1.47"
+}

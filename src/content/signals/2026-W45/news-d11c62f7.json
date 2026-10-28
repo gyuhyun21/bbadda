@@ -1,0 +1,23 @@
+{
+  "id": "news-d11c62f7",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스핌",
+  "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBfR2diZ29ET2otRldWNWJydElodHhqaEVoVmFtN0Jpa1dDLVh6WEFUcWg0cEFneTFBUkZSeDl3SGhvWFpvOFdXRm1NRlRVTTlpZlpaWV9TaE82SVlj?oc=5",
+  "title": "[PO 포커스] 중견수 김호령과 박정우, 둘 중 한 명 터져야 KIA가 산다",
+  "published_at": "2026-10-28T20:27:00.000Z",
+  "collected_at": "2026-10-28T21:38:34.347Z",
+  "summary_ko": "뉴스핌은 KIA가 살아나려면 중견수 김호령과 박정우 중 한 명이 터져야 한다고 짚었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "KIA, 김호령·박정우가 열쇠"
+}

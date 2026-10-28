@@ -1,0 +1,26 @@
+{
+  "id": "youtube-ae1eb690",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "youtube",
+  "source_name": "탱짱일기 Beyond Daily",
+  "url": "https://www.youtube.com/watch?v=wKqDA5FVB0U",
+  "title": "LG 직관 갔는데 호빵맨이 시구함 #호빵맨 #LG트윈스 #shorts",
+  "published_at": "2026-10-28T15:14:50Z",
+  "collected_at": "2026-10-28T21:38:34.347Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 859,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 36,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

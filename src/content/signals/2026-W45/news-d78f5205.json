@@ -1,0 +1,23 @@
+{
+  "id": "news-d78f5205",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스핌",
+  "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBCc1E2UEdodFNBSUJXZHhMN0NPVUV5bHF1UVlZOVZWSDExb0huU1lMYWVDeTE3OG1ZZDlHbkdxaXJ5aUNYSU1vU3FOczRZdkVXaXFla0tSemNSOXFx?oc=5",
+  "title": "[PO] 정규시즌은 잊어라…'PS 각성 모드' KIA 정해영, 입대 전 유종의미 노린다",
+  "published_at": "2026-10-28T20:01:00.000Z",
+  "collected_at": "2026-10-28T21:38:34.347Z",
+  "summary_ko": "뉴스핌은 KIA 정해영이 정규시즌과 달리 포스트시즌에서 각성했고, 입대 전 좋은 마무리를 노린다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "정해영, 입대 전 PS 각성"
+}

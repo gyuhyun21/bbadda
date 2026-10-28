@@ -1,0 +1,23 @@
+{
+  "id": "news-5d27663b",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "news",
+  "source_name": "네이트",
+  "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1sRGVlUHZMOV9YVExmaktsZG81eExRSnBDeDFOWllTUF85RG9COGZ1Y051LUlnS0RmeE4zR2RMR3pObGd3MDU3R0JGWTZ1TVJnSnJVOFhR?oc=5",
+  "title": "\"고강도 지옥 훈련\" 두산, 히로시마전 19안타 대폭발!…11-0 대승→日 교육리그 4승9패 \"29일 마무리캠프 시작\" [미야자키 현장]",
+  "published_at": "2026-10-28T15:00:00.000Z",
+  "collected_at": "2026-10-28T21:38:34.347Z",
+  "summary_ko": "네이트에 실린 기사에 따르면 두산이 일본 교육리그 히로시마전에서 19안타로 11-0 대승을 거뒀다. 교육리그는 4승 9패로 마쳤고 29일 마무리캠프가 시작된다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "두산, 교육리그 11-0 대승"
+}

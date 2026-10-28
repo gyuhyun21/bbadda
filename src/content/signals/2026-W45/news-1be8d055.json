@@ -1,0 +1,22 @@
+{
+  "id": "news-1be8d055",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "쿠키뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAzeTdSTDhpU1h0VmdaVjE1bUQ5dllwX1ZKM3Y1TmJXRUdVREQ0SVhJZFJWek05elhwOVFwZkJLaVA3M0hGWFY1NnA3UGUtNEljbUZPR2JtZjF3N1NXTDY4eUVFYw?oc=5",
+  "title": "김학홍 문경시장, ‘9번’ 달고 삼성라이온즈파크 마운드 오른다",
+  "published_at": "2026-10-28T00:53:53.000Z",
+  "collected_at": "2026-10-28T21:38:34.347Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 61,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "news-73def4ad",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "news",
+  "source_name": "OSEN",
+  "url": "https://www.osen.co.kr/article/G1112900111",
+  "title": "류지현 감독 오자 전부 이겼다! 한화, 세이부 3-2 제압하고 승승승…교육리그 6승8패3무 마무리",
+  "published_at": "2026-10-28T20:10:00.000Z",
+  "collected_at": "2026-10-28T21:38:34.347Z",
+  "summary_ko": "OSEN에 따르면 한화가 일본 교육리그 마지막 경기에서 세이부를 3-2로 이겼다. 교육리그는 6승 8패 3무로 마쳤다.",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE96czltQlpQYktzRFNNY1ptYWtIZEJraXdsV0d3dzRoaGw0THU1U0Y1ZUtzRnFaUVgzMnFWQWxRQTd1cGVDbEFzcmlDSjZ6TGlrQkZBcjJyaWdkNWozbXB6MkJmb3FJOU9UdFHSAW9BVV95cUxNNHVsZG5GaWZtSjNKZDNQb1ZmWHRhTjlhSXczdDViTGNWcG5JUTR1VTRTbXhQY0hNSXhHbDdDU2w4RE1YX3BjYUt4djBUYUJON0RvcG1TS3lMQlVHaWFzMEVrMjNYSGV0MTZ4aHJVTkk?oc=5"
+    }
+  ]
+}

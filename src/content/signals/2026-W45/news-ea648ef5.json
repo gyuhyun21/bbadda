@@ -1,0 +1,23 @@
+{
+  "id": "news-ea648ef5",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "news",
+  "source_name": "네이트",
+  "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5tOTFkdWdMUXBHM3l2cmhGRHdMVmNHT3BES0JndDA5YktWLTN6T1dqc2xvcEM0QkZHSGJjZGtSdlREbEMyZHc2TTV0V09lVm83al9xNVVR?oc=5",
+  "title": "류현인 공수주 활약·투수 7명 점검…정규시즌 챔피언 KT, U-23 대표팀과 한국시리즈 대비 스파링 [SD 수원 리포트]",
+  "published_at": "2026-10-28T15:01:00.000Z",
+  "collected_at": "2026-10-28T21:38:34.347Z",
+  "summary_ko": "네이트에 실린 스포츠동아 기사에 따르면 KT는 U-23 대표팀과 스파링으로 한국시리즈를 대비했다. 류현인이 공수주에서 활약했고 투수 7명이 점검받았다.",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "KT, U-23과 KS 대비 스파링"
+}

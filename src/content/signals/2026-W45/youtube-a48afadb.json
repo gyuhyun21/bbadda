@@ -1,0 +1,26 @@
+{
+  "id": "youtube-a48afadb",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "youtube",
+  "source_name": "Heroes All Day Everyday | HADE | 헤이드",
+  "url": "https://www.youtube.com/watch?v=97cgBJ3AnUM",
+  "title": "한국시리즈 준비 끝낸 마이콜 안현민💪 | 26.10.28. KT위즈 vs U23대표팀",
+  "published_at": "2026-10-28T14:10:06Z",
+  "collected_at": "2026-10-28T21:38:34.347Z",
+  "summary_ko": "한 팬 채널이 KT와 U-23 대표팀 스파링에서 한국시리즈를 준비하는 안현민을 담은 영상을 올렸다.",
+  "metrics": {
+    "views": 95,
+    "likes": 1,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 33,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

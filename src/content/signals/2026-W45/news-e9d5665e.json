@@ -1,0 +1,23 @@
+{
+  "id": "news-e9d5665e",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://www.mt.co.kr/amp/sports/2026/10/29/202610281134775695O",
+  "title": "\"방출될 뻔했는데…한국 또 가고 싶다\" ML 돌아갔는데 왜? 키움과 재계약 불발 사연도 털어놓았다",
+  "published_at": "2026-10-28T16:22:00.000Z",
+  "collected_at": "2026-10-28T21:38:34.347Z",
+  "summary_ko": "머니투데이는 ML로 돌아간 키움 출신 외국인 선수가 방출될 뻔했지만 한국에 또 가고 싶다고 말했고, 키움과 재계약이 불발된 사연도 밝혔다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 82,
+    "relevance": 70
+  },
+  "sentiment": "negative",
+  "brief_ko": "\"한국 또 가고 싶다\" 키움 출신 외인"
+}

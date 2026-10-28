@@ -1,0 +1,28 @@
+{
+  "id": "news-b5251639",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "뉴시스",
+  "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1lN0VSa21VS1BNcUZQQ1F0UU5JUld5VEdNdUFFVjIybmx3amFkdnVUbEN1QXZOV2NVWlN1Zm8zd016amdzaDBfVjZqaUNza3cwUkZyeUROcGp0Q0VTMFcyd3JnNlhnNElBQk9hUHRidGZYZmxYX0ZpV9IBeEFVX3lxTE1lN0VSa21VS1BNcUZQQ1F0UU5JUld5VEdNdUFFVjIybmx3amFkdnVUbEN1QXZOV2NVWlN1Zm8zd016amdzaDBfVjZqaUNza3cwUkZyeUROcGp0Q0VTMFcyd3JnNlhnNElBQk9hUHRidGZYZmxYX0ZpVw?oc=5",
+  "title": "\"광주 충장로에 KIA타이거즈 팀스토어 유치해야\"",
+  "published_at": "2026-10-28T08:01:33.000Z",
+  "collected_at": "2026-10-28T21:38:34.347Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 71,
+    "relevance": 50
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "남도일보",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9DZlZmODVJNExQQUFDdHFzZE9mVDhEckxmcXE2UFlPbzNQaUVycWpDUHpWR3B6RzhoWWp2TnlxVk55RUJabi1zM1EtVlJmWjQtckZRX0xPaDBRUnBMODBQbXJtMmEyVlgwTFhZLVhGbknSAXBBVV95cUxPQ2ZWZjg1STRMUEFBQ3Rxc2RPZlQ4RHJMZnFxNlBZT28zUGlFcnFqQ1B6Vkdwekc4aFlqdk55cVZOeUVCWm4tczNRLVZSZlo0LXJGUV9MT2gwUVJwTDgwUG1ybTJhMlZYMExYWS1YRm5J?oc=5"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "youtube-b44974aa",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "youtube",
+  "source_name": "탱짱일기 Beyond Daily",
+  "url": "https://www.youtube.com/watch?v=Y22BCPDP3QM",
+  "title": "직관 갔다가 마닐라 여행 당첨됨 야호! #LG트윈스 #잠실직관 #shorts",
+  "published_at": "2026-10-28T15:12:01Z",
+  "collected_at": "2026-10-28T21:38:34.347Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1314,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 38,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

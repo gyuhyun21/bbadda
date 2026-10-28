@@ -1,0 +1,23 @@
+{
+  "id": "news-43e5d718",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "영남일보",
+  "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4xNFZ5VXBXX0pRMXBScGZaZmtFRl9jczZHbFJjTFV1d2lOdUxCZ0t6bkROZGo5OU9KdENpZWpmS0dMTmVQcmFwbl9wNHoyLWhtZ1NReUM2WUZ0OHBzU0xJN2hkMTJaN2tvN2VZ?oc=5",
+  "title": "“최형우가 잡고, 원태인이 끝냈다”…사자군단 승리 이끈 ‘베테랑의 투혼과 에이스의 보직 변경’",
+  "published_at": "2026-10-28T02:24:18.000Z",
+  "collected_at": "2026-10-28T21:38:34.347Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 61,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

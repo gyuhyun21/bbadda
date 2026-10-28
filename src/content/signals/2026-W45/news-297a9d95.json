@@ -1,0 +1,24 @@
+{
+  "id": "news-297a9d95",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "lg",
+  "teams": [
+    "lg",
+    "hanwha"
+  ],
+  "source_type": "news",
+  "source_name": "시민일보",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1zWS1VTDlWanh0TC1CTGZUMGsxVlJTWWhjaUVObE1iTDdKSXJFSjdNM3F3bGlPZWVzYTJRaUJFSEZ4aE5UY1oyMl9xVEFTOXE2aHVDcDVUYmx3UHk5VDE1TG1OWk0tc29XYUpUUDlTY9IBb0FVX3lxTE1zWS1VTDlWanh0TC1CTGZUMGsxVlJTWWhjaUVObE1iTDdKSXJFSjdNM3F3bGlPZWVzYTJRaUJFSEZ4aE5UY1oyMl9xVEFTOXE2aHVDcDVUYmx3UHk5VDE1TG1OWk0tc29XYUpUUDlTYw?oc=5",
+  "title": "′LG 레전드′ 박용택, 한화 이글스 타격코치 영입설 실체는?",
+  "published_at": "2026-10-28T13:08:58.000Z",
+  "collected_at": "2026-10-28T21:38:34.347Z",
+  "summary_ko": "시민일보는 LG 레전드 박용택의 한화 타격코치 영입설이 실제로 어떤지 짚었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "박용택 한화행 영입설 실체"
+}

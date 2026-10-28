@@ -1,0 +1,22 @@
+{
+  "id": "news-7ddb5e0a",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "매일신문",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBOMkVZY09mLW83cG9tT29XOE1ObDAxeVg0SjVBOW01MzQyMWhNQll2X2pvYkdocWVDTjB3U3BBelBMaFZ1Y1FvdEVpc1BHQ1RKN3JGbHFqV0U1Z00yN2tsclNB?oc=5",
+  "title": "`최형우가 치고, 원태인이 막고` 삼성 라이온즈의 투타 승부수",
+  "published_at": "2026-10-28T06:34:29.000Z",
+  "collected_at": "2026-10-28T21:38:34.347Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 71,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

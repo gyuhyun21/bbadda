@@ -1,0 +1,23 @@
+{
+  "id": "community-dc478dd1",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 올빼미 기자의 기사 돋보기",
+  "url": "https://blog.naver.com/exercisenews/224456444857",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/8rYEnf95gII",
+  "title": "“야구 인생 끝난 줄 알았다”…11승 한화 문동주, 수술 앞두고 눈물 흘린 진짜 이유",
+  "published_at": "2026-10-28T17:00:00.000+09:00",
+  "collected_at": "2026-10-28T21:38:34.347Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

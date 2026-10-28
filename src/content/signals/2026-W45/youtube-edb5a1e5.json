@@ -1,0 +1,27 @@
+{
+  "id": "youtube-edb5a1e5",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "다태자(다시 태어나도 자이언츠)",
+  "url": "https://www.youtube.com/watch?v=v_EW3clldXk",
+  "title": "사직야구장에만 있는 독특한 응원 문화",
+  "published_at": "2026-10-28T12:48:00Z",
+  "collected_at": "2026-10-28T21:38:34.347Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1251,
+    "likes": 4,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 41,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

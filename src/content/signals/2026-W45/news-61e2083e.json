@@ -1,0 +1,32 @@
+{
+  "id": "news-61e2083e",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "한국미디어뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBCbEFtSGo0dzFraDM4UEtUSk56M2JKQTVpSmhTWE5QdnZod3RiZnJmQTZIZXVac21TZkNwWEV6UUJpU1hFdk9nSHRLTU5ONmVOUUwtNEV5Yi1wc0FHcWJTYkZSdlhlQQ?oc=5",
+  "title": "박현정 동구의원, 충장로에 기아타이거즈 팀스토어 유치 제안",
+  "published_at": "2026-10-28T06:30:54.000Z",
+  "collected_at": "2026-10-28T21:38:34.347Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 79,
+    "relevance": 50
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "웹이코노미",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE81R1BKSDJ6MDV6SGYtNUx4WGkyZXNybDctUmI2SGw4cnBNbm5Ec2RCU2hQeDREdzI0cmU2Sk1idkNsX2ZpVVZlekcxdmx2WUpfY1ByLXotWFducG91MWZMRk1GZGJFVzhaZjRHVkF2b2NnQQ?oc=5"
+    },
+    {
+      "source_name": "더코리아",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE84YjJvS1FMNGNOeWtGazNfclVFa213MUhfSVItdzMwWXR0ZlZDTmVWSGJNM09hYzRxbnVIX250QzJmNFRfMTRGSWFqSUtMX2NJbENwblpQRzZpYUlGWkV4eU1LbHcyeHlqbWgyOEdSbnFuUQ?oc=5"
+    }
+  ]
+}

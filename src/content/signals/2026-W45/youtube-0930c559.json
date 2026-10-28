@@ -1,0 +1,26 @@
+{
+  "id": "youtube-0930c559",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "youtube",
+  "source_name": "신두형 응원단",
+  "url": "https://www.youtube.com/watch?v=N-s_4r3AgEo",
+  "title": "[신두형 응원단]  SSG 랜더스 최지훈 응원가 (호날두 Ver.)",
+  "published_at": "2026-10-28T15:14:18Z",
+  "collected_at": "2026-10-28T21:38:34.347Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 5,
+    "likes": 1,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 50,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

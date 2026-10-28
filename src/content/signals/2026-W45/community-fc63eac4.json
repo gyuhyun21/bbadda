@@ -1,0 +1,24 @@
+{
+  "id": "community-fc63eac4",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "디시 야구 갤러리",
+  "url": "https://gall.dcinside.com/board/view/?id=hanwhaeagles_new&no=17923752",
+  "title": "마무리 훈련 오후 2,3시 정도에 끝났나본데?",
+  "published_at": "2026-10-18T00:00:00.000Z",
+  "collected_at": "2026-10-28T21:38:34.347Z",
+  "summary_ko": "",
+  "excerpt": "... 한화 이글스 · 칰갤러1 (118.217). 아직 마무리 훈련은 아님 · 글쓴칰갤러 (211.36). 마무리 훈련…",
+  "metrics": {},
+  "scores": {
+    "hot": 8,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

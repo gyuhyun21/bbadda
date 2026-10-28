@@ -1,0 +1,23 @@
+{
+  "id": "news-83b2a736",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠동아",
+  "url": "https://sports.donga.com/sports/article/all/20261028/134926850/1",
+  "title": "역사 이끌어 가는 PS 통산 안타·타점·볼넷 1위…김현수, KT서 이어갈 가을의 전설",
+  "published_at": "2026-10-28T20:41:00.000Z",
+  "collected_at": "2026-10-28T21:38:34.347Z",
+  "summary_ko": "스포츠동아는 포스트시즌 통산 안타·타점·볼넷 1위 김현수가 KT에서 가을의 전설을 이어 갈 것이라고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 92,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "brief_ko": "김현수, KT서 가을 전설 잇는다"
+}

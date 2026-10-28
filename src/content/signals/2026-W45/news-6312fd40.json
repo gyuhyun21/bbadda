@@ -1,0 +1,22 @@
+{
+  "id": "news-6312fd40",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠경향",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9RN2NsRm5WZmtRVWYxdXpPTERzNGk3RnBrT29oa1AzOWxPZlA1UktfbGNEWUc2dHMxdC1TRHJoM25ZRUNfNUY4bE1tQzJGb0REN1Rzc2ktZzhXRlFOY1p1Ykw5VdIBY0FVX3lxTE9RN2NsRm5WZmtRVWYxdXpPTERzNGk3RnBrT29oa1AzOWxPZlA1UktfbGNEWUc2dHMxdC1TRHJoM25ZRUNfNUY4bE1tQzJGb0REN1Rzc2ktZzhXRlFOY1p1Ykw5VQ?oc=5",
+  "title": "“어제 졌으니 오늘 이기면 되죠”···삼성 불펜의 ‘강심장’ 이승민, 이번엔 김도영에게 지지 않았다",
+  "published_at": "2026-10-28T02:53:00.000Z",
+  "collected_at": "2026-10-28T21:38:34.347Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 61,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

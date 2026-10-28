@@ -1,0 +1,23 @@
+{
+  "id": "news-d8ab7485",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "뉴스1",
+  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE81SmRkT2hWNlRyRElUZk9MdzZUTFlvQjBXMU9tOWxHVkI4dzhPN0l1d1k3TXdPdGtQMF9oZHJHYmYtZGF3LUVQeHFzYTNyNVpQdHhrN0JEQQ?oc=5",
+  "title": "김도영 vs 구자욱…난타전 예상 PO 3차전, 열쇠 쥔 '3번타자'",
+  "published_at": "2026-10-28T21:00:00.000Z",
+  "collected_at": "2026-10-28T21:38:34.347Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}
