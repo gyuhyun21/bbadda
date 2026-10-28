@@ -1,0 +1,22 @@
+{
+  "id": "news-132229fd",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "www.xportsnews.com",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9VOW11M3U3eWJzRm5paHZ4VXlNazNEZXJmWHp3YzBtVjBtalExZzBwanQ4Sl90VWdoVkpBWVIzeXNfV0w1amxVTURYbGZkMzl4b3hDRg?oc=5",
+  "title": "원태인을 5점 차, 왜? 박진만 감독 \"KIA 타선 만만치 않으니까\"…마지막까지 방심 없었다 [PO2]",
+  "published_at": "2026-10-27T14:51:37.000Z",
+  "collected_at": "2026-10-28T13:41:00.884Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 60,
+    "relevance": 80
+  },
+  "sentiment": "neutral"
+}

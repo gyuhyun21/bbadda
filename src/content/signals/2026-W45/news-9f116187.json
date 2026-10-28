@@ -1,0 +1,23 @@
+{
+  "id": "news-9f116187",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "브레이크뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE0xX0FVbHRScEU4c0JnTDBENzlCSjFkYkF1c2YtX21Fa01kOFJfZENsZ3ZXZkcwdFhLcmVma2lvOXJ0b2xxalhj?oc=5",
+  "title": "\"한국시리즈 티켓 잡아라\"… 전남광주특별시, 2026 KBO 플레이오프 맞춤형 종합 지원 총력",
+  "published_at": "2026-10-28T08:21:00.000Z",
+  "collected_at": "2026-10-28T13:41:00.884Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

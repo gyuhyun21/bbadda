@@ -1,0 +1,29 @@
+{
+  "id": "community-d5b835c1",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 스포츠 헌터의 핫이슈 브리핑",
+  "url": "https://blog.naver.com/tongtii/224456893471",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/GslEp492Llj",
+  "title": "정구범 NC 다이노스 은퇴 선언, 전체 1순위 유망주의 안타까운 퇴장",
+  "published_at": "2026-10-28T17:58:00.000+09:00",
+  "collected_at": "2026-10-28T13:41:00.884Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "한국연예스포츠신문",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBQZzVTSXpxdWhRQnlQU0EzelRUcF85eG5hc0RYMFY0V2VkaVZxLVBXaXdGQ1l3VGlEMENqaTJ1VXdfSkFoTXBoVENHTHowcDdHOFNGdWFKZlFQLUlpMkJXMFZsNjc4WWNFYkE?oc=5"
+    }
+  ]
+}

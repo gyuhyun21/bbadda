@@ -1,0 +1,23 @@
+{
+  "id": "news-5e148361",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "news",
+  "source_name": "www.xportsnews.com",
+  "url": "https://www.xportsnews.com/article/2212621",
+  "title": "고영표+로건 2실점 합작→14안타 폭발, KT 한국시리즈 전 투타 점검 순조롭다...U-23 대표팀 상대 7-2 승리 [수원:스코어]",
+  "published_at": "2026-10-28T11:42:05.000Z",
+  "collected_at": "2026-10-28T13:41:00.884Z",
+  "summary_ko": "KT가 한국시리즈를 앞두고 U-23 대표팀과 연습 경기를 치러 7-2로 이겼다. 14안타를 쳤고 고영표와 로건이 합쳐 2실점했다고 엑스포츠뉴스가 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 80
+  },
+  "sentiment": "positive",
+  "brief_ko": "U-23 상대 7-2 연습 승리"
+}

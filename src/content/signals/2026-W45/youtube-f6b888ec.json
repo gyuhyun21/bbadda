@@ -1,0 +1,27 @@
+{
+  "id": "youtube-f6b888ec",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "youtube",
+  "source_name": "오늘스포츠",
+  "url": "https://www.youtube.com/watch?v=9shl2WXxs80",
+  "title": "SSG 랜더스 전의산 — 전역 직후 4번 타순을 꿰찼다 #Shorts",
+  "published_at": "2026-10-28T10:30:43Z",
+  "collected_at": "2026-10-28T13:41:00.884Z",
+  "summary_ko": "팬 채널이 SSG 전의산이 전역 직후 4번 타순을 맡았다고 소개한 쇼츠다.",
+  "metrics": {
+    "views": 471,
+    "likes": 2,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 34,
+    "relevance": 50
+  },
+  "sentiment": "neutral",
+  "brief_ko": "전의산, 전역 직후 4번 타자"
+}

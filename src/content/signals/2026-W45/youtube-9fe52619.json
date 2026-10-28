@@ -1,0 +1,26 @@
+{
+  "id": "youtube-9fe52619",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "source_name": "위니비니수리",
+  "url": "https://www.youtube.com/watch?v=O7zkd1x-II0",
+  "title": "이팁한테 약점 잡힌 허인서ㅋㅋ 니욘앤비욘부터 멧돼지까지 #허인서 #한화이글스",
+  "published_at": "2026-10-28T10:24:06Z",
+  "collected_at": "2026-10-28T13:41:00.884Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 590,
+    "likes": 2,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 36,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

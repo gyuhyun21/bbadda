@@ -1,0 +1,29 @@
+{
+  "id": "news-1cd6f37c",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠서울",
+  "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9va3MteVBFMnA2b2duNHhhbmFEU09SWm1XWFZHcTZIbS1jYXJoM3BOMDlsUUdJOXF5OXU1MHVoaU9wUGtLbS1tMl9SbWk0S1JON3QxbkptaEM?oc=5",
+  "title": "롯데자이언츠 선수단, 롯데월드서 신인 환영…‘2027 루키 패밀리데이’ 개최",
+  "published_at": "2026-10-28T11:20:39.000Z",
+  "collected_at": "2026-10-28T13:41:00.884Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "울산신문",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1XVGI4S1BGV2FzRXR2b0dLRTc4RjhMcDdCYUFNN1RCWWtvY2tRbm1sQ1JiaUZlVFl5TnFfSzVfNE1PcTZ1RW1wc1hXbGNkeGZJZzcxWWhFSDdqMS1jMnlIY0xyLXExdXZoa2JXMTRnbE54d9IBckFVX3lxTE1XVGI4S1BGV2FzRXR2b0dLRTc4RjhMcDdCYUFNN1RCWWtvY2tRbm1sQ1JiaUZlVFl5TnFfSzVfNE1PcTZ1RW1wc1hXbGNkeGZJZzcxWWhFSDdqMS1jMnlIY0xyLXExdXZoa2JXMTRnbE54dw?oc=5"
+    }
+  ]
+}

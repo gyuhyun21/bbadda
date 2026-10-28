@@ -1,0 +1,24 @@
+{
+  "id": "community-bd8c146b",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 moment_note11님의 블로그",
+  "url": "https://blog.naver.com/moment_note11/224456905201",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/LKQJ2i7mbYz",
+  "title": "[김도영 폭발]김도영 준플레이오프 4타점 원맨쇼, 염경엽 \"인정할 건 인정해야 한다\"",
+  "published_at": "2026-10-28T18:11:00.000+09:00",
+  "collected_at": "2026-10-28T13:41:00.884Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

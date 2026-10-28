@@ -1,0 +1,22 @@
+{
+  "id": "community-05804536",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 슬로우러너님의 블로그",
+  "url": "https://blog.naver.com/infoforest/224456775717",
+  "title": "'한화는 코치를 영입했는데' 이대형의 이름은 발표에 없었다",
+  "published_at": "2026-10-28T16:19:00.000+09:00",
+  "collected_at": "2026-10-28T13:41:00.884Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "news-a5298ee4",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "남도일보",
+  "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1aZHlKU0lJc1J4c3NSTmZtNzdITkdNYTY4QzRyMlZIZkZsX1B2WmlCT0FtdlJ5UDdoTXpGbHU4UER6NlNlNmNLb1J0ZFdfMDRQazRCWDh0X0h0dDMxTjY5ODZRcHNQRjNCb0l3YdIBcEFVX3lxTFBaQ0tHdDIwMjZmMmgyOWk3VnN6Q2JiZU1uV240LXR6a1hyTkdPNUNEQTc0SzFsbjE3d3pKWVBHdlVNVXQzZ1hvQWdxWlQwTzJ3N3BVcktSTnk3M0s4X1pZZ0lQTTdlczFEYU5nTl9IQTA?oc=5",
+  "title": "[프로야구 PO]KIA, 테이블세터가 뚫어야 산다",
+  "published_at": "2026-10-28T08:52:00.000Z",
+  "collected_at": "2026-10-28T13:41:00.884Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

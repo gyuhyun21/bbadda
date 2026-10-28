@@ -1,0 +1,22 @@
+{
+  "id": "news-dbf277ca",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "남도방송",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBoOGk1RmRrUXd5aE0yeHpLazV6S1ZleGRRdWRRSHY2eXZrZ1hfR0ViQ1VkU0F5bWdBM3pkbkt6XzNQbWowb0phQmlCVkhUeC1HSkpxSHBFNjNZZk5vdUhGX2Nzb1ZTcUg5YkZPa3FOTdIBb0FVX3lxTFBoOGk1RmRrUXd5aE0yeHpLazV6S1ZleGRRdWRRSHY2eXZrZ1hfR0ViQ1VkU0F5bWdBM3pkbkt6XzNQbWowb0phQmlCVkhUeC1HSkpxSHBFNjNZZk5vdUhGX2Nzb1ZTcUg5YkZPa3FOTQ?oc=5",
+  "title": "KIA 타이거즈 V13 염원…광주 플레이오프 열기 달군다",
+  "published_at": "2026-10-28T07:31:22.000Z",
+  "collected_at": "2026-10-28T13:41:00.884Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

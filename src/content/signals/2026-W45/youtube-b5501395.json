@@ -1,0 +1,41 @@
+{
+  "id": "youtube-b5501395",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte",
+    "nc"
+  ],
+  "source_type": "youtube",
+  "source_name": "맛있스포츠 Deliciousports",
+  "url": "https://www.youtube.com/watch?v=Lsx8s0Kt5SU",
+  "title": "\"섭 어게인\" 손아섭 롯데아닌 NC 복귀!!",
+  "published_at": "2026-10-28T11:00:36Z",
+  "collected_at": "2026-10-28T13:41:00.884Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1697,
+    "likes": 42,
+    "comments": 4
+  },
+  "scores": {
+    "hot": 59,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8wTGxucWgxX2VuN3hvV3NYV1U1TkNMeXVWZkNkdldqZGQ5c0Z6YzRBV3NicmpNMlhzZzVKMVFpeGQtQzF2LW9DWWlzQ0VsUWVSUUhiMw?oc=5"
+    },
+    {
+      "source_name": "경남일보",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBFYS1jRkhNUi1qakNQZDNqQ2s4dXhSS3JHZ3dHWm1nX3k4WGJ4Q3lNSWNTZEpvbEg1a1RVZWluSFhqNTlBWEw0WnFNWGRnUEEtLW44RFpOUlluZDlWemgyaW9GYVFmZ2hkQ0VB?oc=5"
+    },
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBsZkVOeVloalVvdkJQcXhhQUpmeUljREFiaE05akpqQXNCRlE2NDNnZlBEWUlvTDdtY1ZRTW85OFlWTE5KY3VoZm5YejdoeFZPVmN2dnJPYzhwdGd2OGVpNndIRm9DcVhBSGJXNHM0VdIBb0FVX3lxTFBsZkVOeVloalVvdkJQcXhhQUpmeUljREFiaE05akpqQXNCRlE2NDNnZlBEWUlvTDdtY1ZRTW85OFlWTE5KY3VoZm5YejdoeFZPVmN2dnJPYzhwdGd2OGVpNndIRm9DcVhBSGJXNHM0VQ?oc=5"
+    }
+  ]
+}

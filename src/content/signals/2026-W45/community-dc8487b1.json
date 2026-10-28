@@ -1,0 +1,23 @@
+{
+  "id": "community-dc8487b1",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte",
+    "nc"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 여기저기 가보나연",
+  "url": "https://blog.naver.com/skdus173/224456820490",
+  "title": "“끝까지 롯데는 아닌 손아섭”또 NC 선택, 연봉 5000만원에 복귀",
+  "published_at": "2026-10-28T16:54:00.000+09:00",
+  "collected_at": "2026-10-28T13:41:00.884Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

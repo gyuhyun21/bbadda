@@ -1,0 +1,27 @@
+{
+  "id": "youtube-f87767f7",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "벤치썰",
+  "url": "https://www.youtube.com/watch?v=9ZcYExhSH0E",
+  "title": "64억 FA였던 팀에 연봉 5천만 원으로 돌아갔다는 손아섭 근황",
+  "published_at": "2026-10-28T10:30:13Z",
+  "collected_at": "2026-10-28T13:41:00.884Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 970,
+    "likes": 4,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 38,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

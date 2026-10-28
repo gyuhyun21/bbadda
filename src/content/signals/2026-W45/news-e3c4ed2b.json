@@ -1,0 +1,28 @@
+{
+  "id": "news-e3c4ed2b",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1mRTlMT2F3Ql9adUIwcno3b2dOY0RSM2VWTExsZkVLTl83ZGJ0Z0tzQ3RrX1JfeHB0bVpfbDNBbHlmYnptNEViaFFpWEJnTUxIMDEwZU4yNUV1bkFLbHllQVhBYnJIU0gwMGF0Rk5UMNIBb0FVX3lxTE1mRTlMT2F3Ql9adUIwcno3b2dOY0RSM2VWTExsZkVLTl83ZGJ0Z0tzQ3RrX1JfeHB0bVpfbDNBbHlmYnptNEViaFFpWEJnTUxIMDEwZU4yNUV1bkFLbHllQVhBYnJIU0gwMGF0Rk5UMA?oc=5",
+  "title": "\"롯데의 핵심 주역으로 성장하길\" 신동빈 회장 신인들 직접 챙겼다!...롯데 루키 패밀리데이 개최",
+  "published_at": "2026-10-28T02:07:00.000Z",
+  "collected_at": "2026-10-28T13:41:00.884Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 72,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBPOWVlQWliM3RBVUFNS1NiTmJPRkJyS01semR5NzYyU1ZnSUdQWlk2YVdMRGtUQ0FfRjF3WTlGVUFhNFQwTkQyeUpPVURoVkpRdGQ5dA?oc=5"
+    }
+  ]
+}

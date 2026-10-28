@@ -1,0 +1,27 @@
+{
+  "id": "youtube-f478cc61",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "Eagles TV",
+  "url": "https://www.youtube.com/watch?v=EA_wGyy4I8U",
+  "title": "프로야구 코치는 제자들의 목소리를 다 알까?",
+  "published_at": "2026-10-28T13:36:15Z",
+  "collected_at": "2026-10-28T13:41:00.884Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1139,
+    "likes": 147,
+    "comments": 8
+  },
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

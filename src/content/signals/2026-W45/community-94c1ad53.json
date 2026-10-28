@@ -1,0 +1,24 @@
+{
+  "id": "community-94c1ad53",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 ground_note님의 블로그",
+  "url": "https://blog.naver.com/ground_note/224456769855",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/FWIOUl6lAbt",
+  "title": "선발서 빠졌던 43세 최형우, PO 2차전서 결국 최고령 홈런 쳤다",
+  "published_at": "2026-10-28T16:14:00.000+09:00",
+  "collected_at": "2026-10-28T13:41:00.884Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

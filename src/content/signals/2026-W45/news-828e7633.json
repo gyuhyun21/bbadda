@@ -1,0 +1,29 @@
+{
+  "id": "news-828e7633",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "대구MBC",
+  "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1KQ1FsOGhWQXBHV01xN1JOQkd3TGwtOG0yZUlzY0tWU1BGS2c5Z0ZRU1d3bGxDelg4eGRjRkNZbk9LM0lQM0gzQUVBTWI?oc=5",
+  "title": "[스포츠+] '승리요정 끝판대장' 오승환 시구로 시작한 PO 2차전···삼성 승리 불렀다",
+  "published_at": "2026-10-28T01:59:29.000Z",
+  "collected_at": "2026-10-28T13:41:00.884Z",
+  "summary_ko": "오승환이 시구한 PO 2차전을 삼성이 이겼다고 대구MBC가 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 72,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "영남일보",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAyeXpjMXAtcVRGS3htUUNNTFpQaGJPVm8wMC13ZDAxYkE0MVVxTWFuX0ptSk5lZkJzaDlma1FFU0pDQW9Jckx1cTByNmQzeTVWUURHVG14Q01oNHROU1pCaE93emotUUdJbGRn?oc=5"
+    }
+  ],
+  "brief_ko": "오승환 시구, 삼성 승리 불러"
+}

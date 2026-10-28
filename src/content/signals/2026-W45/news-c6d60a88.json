@@ -1,0 +1,23 @@
+{
+  "id": "news-c6d60a88",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스마트경제",
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBVOXNQM3dBdlhiRlVxUXdWd0d2ekNCbTVNRjdZZ1NpbXRZY2h1QThCUlhoRnlhblE1MjBDZEJTY1V6NkNZQ0xZLVRabHZwd2JFY0pmRURGOEZwMG1nRmdzOFNvQkVldmI4dVNyQWpvc3Q?oc=5",
+  "title": "롯데자이언츠 선수단, 롯데월드 어드벤처·서울스카이 방문…신인 선수 환영",
+  "published_at": "2026-10-28T01:46:31.000Z",
+  "collected_at": "2026-10-28T13:41:00.884Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

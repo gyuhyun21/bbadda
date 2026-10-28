@@ -1,0 +1,23 @@
+{
+  "id": "news-0d059e36",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "조선일보",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOOVYtbjRIaTROS1hNM2JhZXpTUWtkR3hreUJISG9INkFzc2NRNXJEWV9Za2Y3R1k3QlVvbGRmUVFOc0pGekdLczhfR2xRWXNVMVRjMnZBMzVxN1pQUHdmNXdWOTFSV2pyeXdVNnZIZUlUWF9rNWdSNUhaMG5NZlpwQ1NrRQ?oc=5",
+  "title": "'선발→마무리' 파격 승부수→이 악물고 KK 1이닝 삭제…안방마님도 활짝 웃었다 \"가을이 왔구나\"",
+  "published_at": "2026-10-28T09:47:00.000Z",
+  "collected_at": "2026-10-28T13:41:00.884Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

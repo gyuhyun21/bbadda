@@ -1,0 +1,24 @@
+{
+  "id": "news-b423822f",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "연합뉴스TV",
+  "url": "https://www.yonhapnewstv.co.kr/news/MYH20261028190026DW1",
+  "title": "김도영 \"알았죠\"·최형우 \"버렸죠\"…플레이오프 장식한 입담",
+  "published_at": "2026-10-28T10:00:00.000Z",
+  "collected_at": "2026-10-28T13:41:00.884Z",
+  "summary_ko": "PO 2차전 뒤 김도영이 \"알았죠\", 최형우가 \"버렸죠\"라고 말한 입담을 연합뉴스TV가 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "김도영 \"알았죠\" 최형우 \"버렸죠\""
+}

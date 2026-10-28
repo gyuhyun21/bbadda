@@ -1,0 +1,24 @@
+{
+  "id": "community-bffc11bb",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 축구 야구 자동차매니아 일상블로그",
+  "url": "https://blog.naver.com/nkkite1002/224456401480",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/KbTkl2aCYKW",
+  "title": "MLB 넬슨 벨라스케스 KBO행선지 10개구단중어디로 갈지",
+  "published_at": "2026-10-28T11:17:00.000+09:00",
+  "collected_at": "2026-10-28T13:41:00.884Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

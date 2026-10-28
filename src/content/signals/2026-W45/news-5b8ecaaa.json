@@ -1,0 +1,24 @@
+{
+  "id": "news-5b8ecaaa",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "연합뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBFcDUtMC01Q2hxVmlvOUh2RnFPdzhTNkhuVEsxTmJ1SWRoLWlSQzgtRHBpWG9ZVHdjRTQ1aTFMRnRXTFI1WThWbmlJZVl6ODVWZ2Y1M3JIUzM5SW4yOE1RYtIBYEFVX3lxTFBFcDUtMC01Q2hxVmlvOUh2RnFPdzhTNkhuVEsxTmJ1SWRoLWlSQzgtRHBpWG9ZVHdjRTQ1aTFMRnRXTFI1WThWbmlJZVl6ODVWZ2Y1M3JIUzM5SW4yOE1RYg?oc=5",
+  "title": "타격전으로 흐를 PO 3∼4차전서 '두 번째 투수'가 승패 가른다",
+  "published_at": "2026-10-28T01:17:49.000Z",
+  "collected_at": "2026-10-28T13:41:00.884Z",
+  "summary_ko": "PO 3~4차전은 타격전이 될 것으로 보여 두 번째 투수가 승부를 가를 것이라고 연합뉴스가 전망했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 72,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "PO 3·4차전, 두 번째 투수가 변수",
+  "team": "samsung"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "news-6152ffdc",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스핌",
+  "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE14bkhVTGtIMWJaZlllZUxqYU9ZNmtfSUROWWVXQTZ1RFYtTFJFYmt1ZnBLbHNSenB0Wm9RZWdRUUFZaWNlZmREN19MLWp3azh2Y2EzWkhNVzE2Q0tU?oc=5",
+  "title": "[프로야구] '류지현호' 한화, 30일 일본 미야자키 육성캠프 출국",
+  "published_at": "2026-10-28T11:25:00.000Z",
+  "collected_at": "2026-10-28T13:41:00.884Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "community-1b013cb3",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/10494385789",
+  "title": "4차전 시구자 알려드림 - 야구",
+  "published_at": "2026-10-28T10:41:00.884Z",
+  "collected_at": "2026-10-28T13:41:00.884Z",
+  "summary_ko": "",
+  "excerpt": "... 나유리 기자) 랜더스 새 대표이사가 이번주부터 출근중이다. 5 분 전 자유 ... 김호령 안잡고…",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}
