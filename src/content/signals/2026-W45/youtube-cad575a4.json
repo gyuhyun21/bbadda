@@ -1,0 +1,26 @@
+{
+  "id": "youtube-cad575a4",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "youtube",
+  "source_name": "최강건승",
+  "url": "https://www.youtube.com/watch?v=kJqDR22wBiE",
+  "title": "#NC다이노스 김휘건 #농구선수",
+  "published_at": "2026-10-28T10:32:56Z",
+  "collected_at": "2026-10-28T13:41:00.884Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 4,
+    "likes": 1,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 48,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

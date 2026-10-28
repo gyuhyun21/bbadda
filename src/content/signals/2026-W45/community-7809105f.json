@@ -1,0 +1,29 @@
+{
+  "id": "community-7809105f",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 한국농어민뉴스(kffnews.com)",
+  "url": "https://blog.naver.com/sky3artt/224456914733",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/G7eeD7S4ojR",
+  "title": "KIA 타이거즈 플레이오프 광주 홈경기…전남광주통합특별시, 교통·문화·관광 총력 지원",
+  "published_at": "2026-10-28T18:21:00.000+09:00",
+  "collected_at": "2026-10-28T13:41:00.884Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 82,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "남도일보",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBvQXoyaUR5NGEyS2M3VU9zZUxacXZ1MGdwRjg1aUxFSlpPUFZ1S000UnE2bmNidE1DM0xfRWFyT3N2SldBeGZITk1xWWVYSzc1UWlSY1dlSFdsM1V0VDZKcmVxNW56VmJJaVZvM1FzZFnSAXBBVV95cUxQb0F6MmlEeTRhMktjN1VPc2VMWnF2dTBncEY4NWlMRUpaT1BWdUtNNFJxNm5jYnRNQzNMX0Vhck9zdkpXQXhmSE5NcVllWEs3NVFpUmNXZUhXbDNVdFQ2SnJlcTVuelZiSWlWbzNRc2RZ?oc=5"
+    }
+  ]
+}

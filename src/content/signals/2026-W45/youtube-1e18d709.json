@@ -1,0 +1,26 @@
+{
+  "id": "youtube-1e18d709",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "youtube",
+  "source_name": "뭉탱2",
+  "url": "https://www.youtube.com/watch?v=USWrFa26pck",
+  "title": "Nc 다이노스 손아섭 응원가",
+  "published_at": "2026-10-28T09:53:39Z",
+  "collected_at": "2026-10-28T13:41:00.884Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 7,
+    "likes": 3,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 50,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

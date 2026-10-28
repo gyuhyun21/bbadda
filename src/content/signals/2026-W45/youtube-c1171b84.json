@@ -1,0 +1,27 @@
+{
+  "id": "youtube-c1171b84",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "youtube",
+  "source_name": "KNN NEWS",
+  "url": "https://www.youtube.com/watch?v=ed_KknYyYtw",
+  "title": "실책 107개의 굴욕 '뒤에서 3번째'...이동욱 감독, 롯데 환골탈태 예고?/ KNN",
+  "published_at": "2026-10-28T10:22:06Z",
+  "collected_at": "2026-10-28T13:41:00.884Z",
+  "summary_ko": "KNN이 실책 107개로 뒤에서 세 번째였던 롯데를 이동욱 감독이 어떻게 바꿀지 다뤘다.",
+  "metrics": {
+    "views": 13617,
+    "likes": 161,
+    "comments": 94
+  },
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "negative",
+  "brief_ko": "실책 107개, 롯데의 숙제"
+}

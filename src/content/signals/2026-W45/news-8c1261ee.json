@@ -1,0 +1,27 @@
+{
+  "id": "news-8c1261ee",
+  "issue": "2026-W45",
+  "module": "league",
+  "teams": [],
+  "source_type": "news",
+  "announcement": true,
+  "source_name": "SPOTV NEWS",
+  "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1016023",
+  "title": "[오피셜] 조성환 수석-이대형 QC/1루 코치 합류…'최원호호' APBC 대표팀 코치 구성 완료",
+  "published_at": "2026-10-28T08:13:21.000Z",
+  "collected_at": "2026-10-28T13:41:00.884Z",
+  "summary_ko": "APBC 대표팀 코치진이 확정됐다. 조성환 수석코치와 이대형 QC·1루 코치가 최원호 감독을 보좌한다는 보도다.",
+  "metrics": {},
+  "scores": {
+    "hot": 82,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBXRkJJcEF6dkNoSzBSUUhJVkhxZUNkZ3pHSGRPTzlHcERNZGZkUHRIeV9qeU9GSVpZdTk2Z2Z0WjVUSUJ6RGhNaU5TWmtlSlJyWTdJLVk4RGJHaGEzOXNhbtIBYEFVX3lxTFBXRkJJcEF6dkNoSzBSUUhJVkhxZUNkZ3pHSGRPTzlHcERNZGZkUHRIeV9qeU9GSVpZdTk2Z2Z0WjVUSUJ6RGhNaU5TWmtlSlJyWTdJLVk4RGJHaGEzOXNhbg?oc=5"
+    }
+  ],
+  "brief_ko": "APBC 대표팀 코치진 확정"
+}

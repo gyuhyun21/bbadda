@@ -1,0 +1,27 @@
+{
+  "id": "youtube-e44d4e6a",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "youtube",
+  "source_name": "그해 오늘",
+  "url": "https://www.youtube.com/watch?v=jQn9_sD5-Bs",
+  "title": "2001/10/28 오늘, 두산 베어스, 6년 만에 한국시리즈 우승",
+  "published_at": "2026-10-28T10:00:01Z",
+  "collected_at": "2026-10-28T13:41:00.884Z",
+  "summary_ko": "팬 채널이 2001년 10월 28일 두산이 6년 만에 한국시리즈 우승을 차지한 날을 소개한 영상이다.",
+  "metrics": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 0,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "brief_ko": "2001년 오늘, 두산 KS 우승"
+}

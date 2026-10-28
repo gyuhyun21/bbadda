@@ -1,0 +1,22 @@
+{
+  "id": "news-6a309a42",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "전남일보",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5VaUJjNnlXY2ZfSTRjVk93cWh0OW04QWNZSW9lMHBCVzdoX2VlbGt4M0FVbTM3RmlSeUU1S3JRUFNZaXZRdEdTektldmNSY21EVkhJOUhGMVBURVg2TUZoSFQ2aFUtVmFQaV9abW9jMA?oc=5",
+  "title": "KIA 원정팬 맞이하는 전남광주…귀갓길부터 관광까지 챙긴다",
+  "published_at": "2026-10-28T06:51:05.000Z",
+  "collected_at": "2026-10-28T13:41:00.884Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

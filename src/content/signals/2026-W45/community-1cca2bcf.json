@@ -1,0 +1,33 @@
+{
+  "id": "community-1cca2bcf",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 한국연예스포츠신문",
+  "url": "https://koreaesp.tistory.com/6881",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/D45crmyx4VC",
+  "title": "‘전체 1순위 유망주’ 정구범, 어깨 통증에 은퇴…NC, 5명과도 결별",
+  "published_at": "2026-10-28T21:43:19.000+09:00",
+  "collected_at": "2026-10-28T13:41:00.884Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 84,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "스포츠월드",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5qOVhNUjFWYWY3Z0pnbjViT0NKMy1tLVkwMnNsWVZZWS1pN09Sc2VaMWg2Wm1iOHNaX3VUSU44bjNleUhnWXpyazNtUjg0NUQ3N0R0eTR6NkpZZ01MZnNWc1VB?oc=5"
+    },
+    {
+      "source_name": "뉴스핌",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE94NkllRGtqeGpaN2ZFa1RaTDZ6NjA3YnZoS25CaUZFQ2pCYTF0cmxiekg3ajRVaEdEckQ4UnR6bTBLNk95ckV6ZUExS1BRaUdKVXpoblAwNUVheW9U?oc=5"
+    }
+  ]
+}

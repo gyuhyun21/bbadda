@@ -1,0 +1,24 @@
+{
+  "id": "community-6c768cd1",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=humor&page=2&document_srl=10493754894",
+  "title": "삼성-KIA, 내일 운명의 PO 3차전…이기면 KS 진출 확률 75%",
+  "published_at": "2026-10-28T07:41:00.884Z",
+  "collected_at": "2026-10-28T13:41:00.884Z",
+  "summary_ko": "",
+  "excerpt": "... 1승 1패로 팽팽하게 맞선 삼성 라이온즈와 KIA 타이거즈가 한국시리즈(KS) 진출의 분수령이 될 플레이오프(PO·5전 3선승제)…",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "news-e8ef383b",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "메디컬투데이",
+  "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Uam9FNlJjNTEwTXJVa3VraXlWb3MwU2diTHNRNy10SnJSZUVEOTVMem90ZXpaRkJUNmpKYmhoTURBcVNHaVhlWkliNmxoZTQ5bWgtYU5xbDRjb2JpdFZHZ0RRZ3NIVHpLaUtRMA?oc=5",
+  "title": "삼성에는 최형우가 있었고, LG에는 김현수가 없었다…엇갈린 베테랑 선택, 가을야구의 운명을 갈랐다",
+  "published_at": "2026-10-27T23:36:02.000Z",
+  "collected_at": "2026-10-28T13:41:00.884Z",
+  "summary_ko": "PO를 두고 삼성에는 최형우가 있었고 LG에는 김현수가 없었다며 베테랑 선택이 엇갈렸다고 메디컬투데이가 짚었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 71,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "최형우 있던 삼성, 김현수 없던 LG"
+}

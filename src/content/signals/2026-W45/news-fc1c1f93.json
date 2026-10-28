@@ -1,0 +1,29 @@
+{
+  "id": "news-fc1c1f93",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "연합뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE01d0Y0MEd3SFZyazZ1MkV1c25BWmlTa20zanl1MC0yWUd5cXA0VVBVbExFZnI1bW5Xb1lQcDN3YnNTQ19aUk01ZzYtczg5d2ZiRTA4eFBpSE50emVlb21MYdIBYEFVX3lxTE01d0Y0MEd3SFZyazZ1MkV1c25BWmlTa20zanl1MC0yWUd5cXA0VVBVbExFZnI1bW5Xb1lQcDN3YnNTQ19aUk01ZzYtczg5d2ZiRTA4eFBpSE50emVlb21MYQ?oc=5",
+  "title": "5점 차에 투입한 마무리 원태인…PO 향방에 어떤 영향 미칠까",
+  "published_at": "2026-10-27T23:00:02.000Z",
+  "collected_at": "2026-10-28T13:41:00.884Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 79,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "데일리안",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNWFVmaTJpM21aUlFDXzJSNnJtb2NGd0huQWkxdHQ0QjdzUjN3M1Z4RjF6Z3Z4Y0VtZ3hoVVJOQkJaZHZhaHlnTDlvSWF6MW02dS1Qd1RnWkN2QTlYcVliSzg5TW43blFYcUgybGN6Skd6VjluRWJ1YnlkN3p5a2hBal9ZMFpVdzE3NDRNYWNpckZVTWFza1dxWXY4WnRQbzBCbnR5Wlh0dXcyQTJUUmt2M2VRQTF3RjJYM0liNkNlOHhKVEtDd3h5dWhCVV9UM3dZeFBBQjZGc04wYkRQTnZCTVI1OXE4TThraHVmZWhIZTR2bndZY3hv?oc=5"
+    }
+  ]
+}

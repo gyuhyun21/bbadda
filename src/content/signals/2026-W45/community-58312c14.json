@@ -1,0 +1,24 @@
+{
+  "id": "community-58312c14",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 하이스포츠 인사이드",
+  "url": "https://blog.naver.com/historycar/224456773160",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/z0IrsHby0i",
+  "title": "“문동주가 장발로 나타났다?” 김태균 야구캠프에 모인 초호화 코치진, 어린 선수들 난리 난 이유",
+  "published_at": "2026-10-28T16:20:00.000+09:00",
+  "collected_at": "2026-10-28T13:41:00.884Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "news-c953f9e0",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "hanwha",
+  "teams": [
+    "hanwha",
+    "nc",
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5CaTFIQktuaEwyUHR6d1RFd3BhU19BVFEyUDg5SUV5RkQ4bkx1b1h0cnVwQ2dkUEFHYnFDdUNxVDlvOWtfZkFTbllvQngwM3BpR0h0MDFESWNOdkw5clhia1ItV1VKODN5c092bHRDQdIBb0FVX3lxTE5CaTFIQktuaEwyUHR6d1RFd3BhU19BVFEyUDg5SUV5RkQ4bkx1b1h0cnVwQ2dkUEFHYnFDdUNxVDlvOWtfZkFTbllvQngwM3BpR0h0MDFESWNOdkw5clhia1ItV1VKODN5c092bHRDQQ?oc=5",
+  "title": "‘98억→64억→1억→5000만원’ 손아섭 백의종군, 3000안타의 꿈은 아직 저물지 않았다",
+  "published_at": "2026-10-28T08:20:00.000Z",
+  "collected_at": "2026-10-28T13:41:00.884Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 82,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

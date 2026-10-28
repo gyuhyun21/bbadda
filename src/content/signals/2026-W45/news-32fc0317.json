@@ -1,0 +1,22 @@
+{
+  "id": "news-32fc0317",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "news",
+  "source_name": "중앙일보",
+  "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9TYk1tcWlfbmxsWU1qTGVWZGRaU1RLbEV0OUd4QTh2eHcxd2w0TG45R0s3U0ZTX0V3Rkx1OG5HZTYzYmJUb2NDWjhJRDVIYlFxVnM2NnV3?oc=5",
+  "title": "한화 떠나는 손혁 전 단장의 작별 인사 “죄송하고 감사했습니다”",
+  "published_at": "2026-10-28T00:03:00.000Z",
+  "collected_at": "2026-10-28T13:41:00.884Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

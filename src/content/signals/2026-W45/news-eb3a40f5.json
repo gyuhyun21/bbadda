@@ -1,0 +1,23 @@
+{
+  "id": "news-eb3a40f5",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "매일경제",
+  "url": "https://m.mk.co.kr/amp/12188183",
+  "title": "‘ERA 8.10’ 삼성 최원태, 호랑이 공포증 털어내며 사자군단에 소중한 승리 안길까 [PO3]",
+  "published_at": "2026-10-28T01:40:00.000Z",
+  "collected_at": "2026-10-28T13:41:00.884Z",
+  "summary_ko": "삼성 3차전 선발 최원태는 시즌 KIA전 평균자책점이 8.10으로 약했다고 매일경제가 전했다. 호랑이 공포증을 털어낼지가 관건이다.",
+  "metrics": {},
+  "scores": {
+    "hot": 80,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "brief_ko": "최원태, KIA전 ERA 8.10 부담"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "news-664ba979",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "news",
+  "announcement": true,
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBWQURGU1JfTVVVWnV3Y0dNREROek9MbFlXUWw2YVlCMWxnTllsZzJWRGJDYUxXLWZxQXJVTmJibkhQeTRROGotMkpZTno5MjFlNXpJb19jcUZ5UkVTdmtTYmF6S1hqUnlJRUFLRHZhMNIBb0FVX3lxTFBWQURGU1JfTVVVWnV3Y0dNREROek9MbFlXUWw2YVlCMWxnTllsZzJWRGJDYUxXLWZxQXJVTmJibkhQeTRROGotMkpZTno5MjFlNXpJb19jcUZ5UkVTdmtTYmF6S1hqUnlJRUFLRHZhMA?oc=5",
+  "title": "[공식발표] ‘두산 감독대행→해설위원’ 지도자 전격 복귀! 조성환 수석 겸 수비코치, 최원호 국대 감독 보좌한다",
+  "published_at": "2026-10-28T08:52:00.000Z",
+  "collected_at": "2026-10-28T13:41:00.884Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "미주중앙일보",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE56bWFwd19yRVYtTHpuR2tiWUl6NUtSWkwzbklYSVo4WG4tOXo0SzlZZmQ4VzRnYXNNd0xPRnNyekpuVkRucnc3MVBnMVc1b2twNmV4clFXZXAtMVhkdTM3TUVB?oc=5"
+    }
+  ]
+}

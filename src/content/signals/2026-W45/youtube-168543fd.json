@@ -1,0 +1,26 @@
+{
+  "id": "youtube-168543fd",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "youtube",
+  "source_name": "음표야구",
+  "url": "https://www.youtube.com/watch?v=1-68r5F5hB4",
+  "title": "고영표, 졸업식 날 불리지 않은 이름 #고영표 #KT위즈",
+  "published_at": "2026-10-28T10:15:41Z",
+  "collected_at": "2026-10-28T13:41:00.884Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 121,
+    "likes": 8,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 64,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

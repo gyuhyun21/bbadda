@@ -1,0 +1,23 @@
+{
+  "id": "news-0dae1ada",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "일간스포츠",
+  "url": "http://isplus.live.joins.com/article/view/isp202610280228",
+  "title": "\"4할 타율도 가능헤\" 가을 야구서 정말 4할대 치는 카스트로, 나홀로 전 경기 안타",
+  "published_at": "2026-10-28T08:12:00.000Z",
+  "collected_at": "2026-10-28T13:41:00.884Z",
+  "summary_ko": "KIA 카스트로가 가을야구에서 4할대 타율로 전 경기 안타를 이어 가고 있다고 일간스포츠가 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "카스트로, 가을 4할 타율"
+}

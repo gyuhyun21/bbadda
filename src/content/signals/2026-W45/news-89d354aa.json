@@ -1,0 +1,22 @@
+{
+  "id": "news-89d354aa",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "대구MBC",
+  "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBXcnlPSGRpbW9jZ3YzZ0tZRTh0ODVmRVhvTEtWSGFtU21yRFVzZGZMY0ZBVUR5Q1FQYkgzd0JNLURtY0FjWFpZdmdEMzg?oc=5",
+  "title": "원태인 PO 첫 승 마무리한 삼성라이온즈···PO 3차전 최원태 선발, 연승 도전",
+  "published_at": "2026-10-28T04:38:58.000Z",
+  "collected_at": "2026-10-28T13:41:00.884Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

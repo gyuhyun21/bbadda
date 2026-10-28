@@ -1,0 +1,23 @@
+{
+  "id": "news-062168c6",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "뉴시스",
+  "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5uQWl5YnZ1eEJTNWxiNGZwWVdjMm1vQkhBbGdMa1F0djVyd0Z3RkpzVG9HMk5mbndBU2t1bFpUaTFHQVF4blJpWmFZYjIyVkQyRmJJUEVGQWtUZzk3VzJtNXoybU5HYmdHVDVLdDBvNW52R3R1cjBVddIBeEFVX3lxTE5uQWl5YnZ1eEJTNWxiNGZwWVdjMm1vQkhBbGdMa1F0djVyd0Z3RkpzVG9HMk5mbndBU2t1bFpUaTFHQVF4blJpWmFZYjIyVkQyRmJJUEVGQWtUZzk3VzJtNXoybU5HYmdHVDVLdDBvNW52R3R1cjBVdQ?oc=5",
+  "title": "전남광주, 프로야구 PO 홈경기 교통·문화·여행 지원",
+  "published_at": "2026-10-28T06:37:56.000Z",
+  "collected_at": "2026-10-28T13:41:00.884Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "youtube-0d49fc4c",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "youtube",
+  "source_name": "크보쏭",
+  "url": "https://www.youtube.com/watch?v=PuzK5l1yen8",
+  "title": "\"NC복귀\" NC 다이노스 손아섭 응원가 Music Video",
+  "published_at": "2026-10-28T13:31:04Z",
+  "collected_at": "2026-10-28T13:41:00.884Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 10,
+    "likes": 2,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 52,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

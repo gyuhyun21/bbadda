@@ -1,0 +1,22 @@
+{
+  "id": "news-7f91998e",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "재경일보",
+  "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9xOFFqeEJ4T0otSjl1Q1plVkxBc1hNX3lzZTN3TVRLcVlEQVI2V2hQbHVaMHZiUmtSV0NVR2c2NHJLMHVnbHl1ak1rVQ?oc=5",
+  "title": "롯데, 허문회 수석코치 영입…박승민 퓨처스 감독 선임 : 스포츠",
+  "published_at": "2026-10-28T07:00:39.000Z",
+  "collected_at": "2026-10-28T13:41:00.884Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

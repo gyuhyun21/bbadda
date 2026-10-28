@@ -1,0 +1,23 @@
+{
+  "id": "news-1d9ee96c",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "인사이트",
+  "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBibXpNc09pZDZjQlFCT0lUNUI3eW1OcjFvU1pHclk0QUhEa2FrMmdZejZ5bG9iSUIzRFgtY09tdjRzMS1WRVR0M2ticjA2Zw?oc=5",
+  "title": "\"당찬 신인들도 툼오브호러에선 덜덜\"...전준우·김원중과 롯데월드 간 자이언츠 루키들",
+  "published_at": "2026-10-28T02:16:01.000Z",
+  "collected_at": "2026-10-28T13:41:00.884Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-fe0ec959",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "news",
+  "announcement": true,
+  "source_name": "www.xportsnews.com",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBlVU5JWWIyZkVBSnNpM2I1SGVWRVpVOFIwSlNlTG5SNV9CZVhqQXQ3WlhMMFhTWmFMOTNDSEpEOFp1ZVRQMl9vTllFY3p2R09FNjI3Sw?oc=5",
+  "title": "[오피셜] 오전 7시부터 훈련! 한화 달라지나?…'구단 최초 2루수+韓 최초 사이드암' 요코하마 캠프 파견→미야자키 캠프 이원화",
+  "published_at": "2026-10-28T07:56:33.000Z",
+  "collected_at": "2026-10-28T13:41:00.884Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

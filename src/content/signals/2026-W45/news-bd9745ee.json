@@ -1,0 +1,24 @@
+{
+  "id": "news-bd9745ee",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "한국일보",
+  "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE15bUNrN1hoMFpWZE9CeDVqVHNVTUpxX0ZzdnpVdDVBTU4wNVBTRVZIMm9HWUlRSzZmX0NMZzAzWDk1NGlWdy1Pak8zc29ENC1tQk4zX1FacFZFc0FicW95MnRNT3ZJWE5SX29HSU41QUVoNXPSAXNBVV95cUxNeW1DazdYaDBaVmRPQng1alRzVU1KcV9Gc3Z6VXQ1QU1OMDVQU0VWSDJvR1lJUUs2Zl9DTGcwM1g5NTRpVnctT2pPM3NvRDQtbUJOM19RWnBWRXNBYnFveTJ0TU92SVhOUl9vR0lONUFFaDVz?oc=5",
+  "title": "\"야구만 보고 가나? 지역 관광도 한다\"... 돔구장 짓고 '달빛 철도' 뚫고",
+  "published_at": "2026-10-27T19:30:00.000Z",
+  "collected_at": "2026-10-28T13:41:00.884Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 70,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

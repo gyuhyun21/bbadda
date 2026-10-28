@@ -1,0 +1,28 @@
+{
+  "id": "youtube-fa360850",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "기아타이거즈 KIA TIGERS",
+  "url": "https://www.youtube.com/watch?v=3TCE2nBDABk",
+  "title": "이게 된다고? 타이거즈만의 V13 카드 섹션",
+  "published_at": "2026-10-26T17:22:24Z",
+  "collected_at": "2026-10-28T13:41:00.884Z",
+  "summary_ko": "KIA 공식 채널이 타이거즈만의 V13 카드 섹션을 소개한 영상이다.",
+  "metrics": {
+    "views": 147641,
+    "likes": 4154,
+    "comments": 218
+  },
+  "scores": {
+    "hot": 84,
+    "relevance": 50
+  },
+  "sentiment": "neutral",
+  "brief_ko": "V13 카드 섹션 공개"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "youtube-b63b626c",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "키움히어로즈",
+  "url": "https://www.youtube.com/watch?v=5V7ATeqHcEc",
+  "title": "밥 먹는 건 핑계고🍚 후배들 이야기부터 훈련소 썰까지🍽️",
+  "published_at": "2026-10-28T09:30:35Z",
+  "collected_at": "2026-10-28T13:41:00.884Z",
+  "summary_ko": "키움 공식 채널이 선수들이 밥을 먹으며 후배 이야기와 훈련소 이야기를 나누는 영상을 올렸다.",
+  "metrics": {
+    "views": 16735,
+    "likes": 612,
+    "comments": 92
+  },
+  "scores": {
+    "hot": 83,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "선수들의 밥 먹는 수다"
+}

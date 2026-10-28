@@ -1,0 +1,22 @@
+{
+  "id": "news-b5685501",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "일간스포츠",
+  "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5vM2RnSFF3eEpub0Z4ak9fQnhwaFJLc2FPZFRiX0tjamtjNjAzYWM0aXV5RjRVQmt5QkIzU3pncGxBTEJnMVBTOVV6eFZISmFreGg1NDRXY1FxMDA?oc=5",
+  "title": "\"김도영-카스트로-나성범 외에는 썩...\" 밥상 못 차리는 '타율 0.167' KIA의 고민 [IS 대구]",
+  "published_at": "2026-10-28T00:38:00.000Z",
+  "collected_at": "2026-10-28T13:41:00.884Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 71,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

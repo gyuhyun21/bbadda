@@ -1,0 +1,23 @@
+{
+  "id": "news-e3bb4548",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://www.sportschosun.com/baseball/2026-10-28/202610280100181700012229",
+  "title": "이택근 '육성 철학'의 첫 야심작은 '현대 인연' 박승민 2군감독 → 롯데도 화수분 장착하나",
+  "published_at": "2026-10-28T09:10:18.000Z",
+  "collected_at": "2026-10-28T13:41:00.884Z",
+  "summary_ko": "롯데가 박승민을 2군 감독으로 선임했다. 스포츠조선은 이택근 단장이 육성 철학의 첫 카드로 현대 시절 인연이 있는 박승민을 골랐다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "박승민 2군 감독 선임"
+}

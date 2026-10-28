@@ -1,0 +1,22 @@
+{
+  "id": "news-f51cd353",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "지이코노미",
+  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9uSkJ6VkFtYnZ5R2xwbHk3ZnhsajdGVTdKYUNIQ1pNNl91Q25DdXJuNGhTTmk3eWUxamZGMTI2MUpBRDdZbVF5TUhDQjlpMWRJQWo4V2hGY3NEeFpnVzI2QlpIR1IxaHM?oc=5",
+  "title": "KIA 광주 플레이오프 2연전…경기 끝나면 송정역행 버스 10대 운행",
+  "published_at": "2026-10-28T13:07:31.000Z",
+  "collected_at": "2026-10-28T13:41:00.884Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

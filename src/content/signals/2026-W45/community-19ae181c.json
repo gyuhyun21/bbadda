@@ -1,0 +1,23 @@
+{
+  "id": "community-19ae181c",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 핑크어흥 님의 블로그",
+  "url": "https://news.livestoryforge.com/7967",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/15lPLJVoz9N",
+  "title": "KIA 타이거즈, 가을야구 연승 마감 후 이범호 감독의 3차전 승리 다짐",
+  "published_at": "2026-10-28T21:05:20.000+09:00",
+  "collected_at": "2026-10-28T13:41:00.884Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

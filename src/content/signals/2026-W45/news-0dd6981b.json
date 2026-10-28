@@ -1,0 +1,23 @@
+{
+  "id": "news-0dd6981b",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "Nate News",
+  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE43dnNYVXh3VWppREV5SEFjY295MVFfNHZzcWFWekpUbzNKZHhOOVZrTXlzdGI0alE2UlFRU0ZnbWpublRoMExuX29XV3g3Q1pOWG5RQjRpQ3QzTTc4Mkl6WmhpdlYtVXVERHczdE5QUkk0Z1hZ?oc=5",
+  "title": "프로야구 화제의 뉴스",
+  "published_at": "2026-10-28T11:10:00.000Z",
+  "collected_at": "2026-10-28T13:41:00.884Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}
