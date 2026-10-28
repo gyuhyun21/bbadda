@@ -1,0 +1,10 @@
+{
+  "music": "bgm-morning",
+  "segments": [
+    {"src": "clip1.mp4", "from": 0, "to": 6, "credit": "KBO", "say": "a1.mp3", "text": "내일 광주 플레이오프 삼 차전, 기아 선발 시라카와는 가을 첫 등판에서 삼진을 아홉 개 잡았어. 근데 삼성이 어제 팔 대 삼으로 이겼거든.", "kick": "PO 3차전 · 29일 광주", "head": "9K 던진 투수가<br><b>광주에 선다</b>", "note": "출처: MK스포츠(시라카와 5이닝 9K) · data/postseason.yaml"},
+    {"src": "clip2.mp4", "from": 0, "to": 6, "credit": "KBO", "say": "a2.mp3", "text": "삼성은 삼 회에만 네 점을 내서 일 승 일 패 원점을 만들었어. 삼 차전 삼성 선발은 최원태.", "kick": "PO 2차전 · 삼성 8-3", "head": "삼성 한 이닝<br><b>네 점</b>", "note": "출처: 뉴스1·뉴스핌(PO 2차전 8-3) · data/postseason.yaml"},
+    {"src": "clip3.mp4", "from": 0, "to": 6, "credit": "TVING SPORTS", "say": "a3.mp3", "text": "최원태는 시리즈 전 마지막 실전에서 사 이닝 사 실점이었다고 보도됐어. 근데 삼 차전을 이기면 한국시리즈 진출 확률이 칠십오 퍼센트라고 해.", "kick": "KS 진출 확률", "head": "삼 차전 이기면<br><b>75%</b>", "note": "출처: SPOTV NEWS(최원태 4이닝 4실점) · 뉴스1(KS 진출 75%)"},
+    {"src": "clip4.mp4", "from": 0, "to": 6, "credit": "KBO", "say": "a4.mp3", "text": "기아 시라카와냐, 삼성 최원태냐. 내일 광주, 누가 웃을 것 같아?", "kick": "내일 광주", "head": "시라카와냐<br><b>최원태냐</b>", "note": "출처: data/postseason.yaml(PO 3차전 예고 선발)"}
+  ],
+  "end": {"kick": "PO 3차전 · 29일 광주", "head": "시라카와 vs 최원태<br>누가 이길까?", "a": "kia", "b": "samsung", "cta": "나머지 소식은 빠따닷컴에서"}
+}
