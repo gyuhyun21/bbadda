@@ -1,0 +1,22 @@
+{
+  "id": "news-f2aa763c",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "일간스포츠",
+  "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TTjdkTFVKcC15YzhKNWZIeVRLQ1p5Z2tMQTNZR0lTQzFjUzNPTkZJbGFfR0piOEliMnlTbUtvZU43ZGNpR2E3OHdoczhIVlJRNUxiRlVkaHMxblE?oc=5",
+  "title": "김용달·황병일·김무관 잇는 타격 전문가...허문회가 롯데로 컴백한다",
+  "published_at": "2026-10-28T00:40:00.000Z",
+  "collected_at": "2026-10-28T07:38:45.564Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

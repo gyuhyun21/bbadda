@@ -1,0 +1,24 @@
+{
+  "id": "community-7aff73eb",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&page=8&document_srl=10493639586",
+  "title": "김상진씨 당신 아들을 인질로 잡고 있습니다 - 야구",
+  "published_at": "2026-10-28T06:57:45.564Z",
+  "collected_at": "2026-10-28T07:38:45.564Z",
+  "summary_ko": "",
+  "excerpt": "... 당장 엘지트윈스에 입단하지 않을 시 당신 아들 이름으로 닉변하겠어.",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

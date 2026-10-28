@@ -1,0 +1,26 @@
+{
+  "id": "youtube-f98b840a",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "youtube",
+  "source_name": "남서울대학교 방송국 NSBS",
+  "url": "https://www.youtube.com/watch?v=XzpH9DkIK0Q",
+  "title": "야구팬 주목⚾️ 우리 학교 선배가 SSG 랜더스 코치라고?🔥 | N터뷰 졸업생 특집 With. SSG 랜더스 컨디셔닝 코치 임석훈",
+  "published_at": "2026-10-28T02:57:09Z",
+  "collected_at": "2026-10-28T07:38:45.564Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 72,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 22,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

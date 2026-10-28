@@ -1,0 +1,26 @@
+{
+  "id": "news-c868fb3e",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "doosan",
+  "teams": [
+    "doosan",
+    "kiwoom",
+    "ssg",
+    "hanwha",
+    "nc"
+  ],
+  "source_type": "news",
+  "source_name": "마니아타임즈",
+  "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE55WlNRRlNVeEQ2M0NhQ2tYQ0lNWkd4d2FPZzBORjYwb2U3LVQyRWM2NEprbDNjLUZIMzI0WGVNcHJvd3pHTWlHbXhDOUNpbDBvXzAtWm1TLVVqTzRMY3BQWjRzZlB2bi0xYXkyektrdldQbzAwSjI1SGg1VQ?oc=5",
+  "title": "'삼진 아니면 홈런' MLB 37홈런 넬슨 벨라스케즈, KBO행?…두산·키움·SSG·한화·NC 주목",
+  "published_at": "2026-10-27T21:24:18.000Z",
+  "collected_at": "2026-10-28T07:38:45.564Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 80
+  },
+  "sentiment": "positive"
+}

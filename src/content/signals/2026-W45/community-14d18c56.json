@@ -1,0 +1,23 @@
+{
+  "id": "community-14d18c56",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 야구를 알려주는 남자",
+  "url": "https://yaalnam.tistory.com/30",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/LkE0F1lJIb0",
+  "title": "키움 히어로즈 입문, 처음 응원하는 사람을 위한 안내",
+  "published_at": "2026-10-28T11:00:00.000+09:00",
+  "collected_at": "2026-10-28T07:38:45.564Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

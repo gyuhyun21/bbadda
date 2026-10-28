@@ -1,0 +1,57 @@
+{
+  "id": "youtube-48349df4",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "RallyPick",
+  "url": "https://www.youtube.com/watch?v=I2z8pp5OAng",
+  "title": "오피셜) 손아섭 다이노스 오빠로 복귀!",
+  "published_at": "2026-10-28T07:00:08Z",
+  "collected_at": "2026-10-28T07:38:45.564Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 388,
+    "likes": 4,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 38,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "m.mksports.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE81YzFFMHJYb0lJZjJRU0FReG9JRVdMYmRLQk83UGE3QkJBSDBuYUZOQ0ZGTTZFOHZvY2JwYzVUeTRBMElyQ09FWm9iMjJOZw?oc=5"
+    },
+    {
+      "source_name": "스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9YRXBETTRoQ2tSd0FFLS1jdDhZS3p2dHFDcTNlWjJoYTJKanZWbnFpYl9fbTE4dDZ4VlJBWTJKYndWMDNFTXl2dmJfUUs5dy1KRVpsTjlBWmNhakI2WlJRTVhPZGtucWRZTXZNMHdmSDIxaGJqS2c?oc=5"
+    },
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBoRXZ6TzZGN01aNmJja3hFMjZRQTg1cktDYmVnXzM5UFh6T2NJRUhtcFdPamJyV0N1cjA5aG9hR21CODVKckNCWmFMTGlDTkRIVUM1TjUtZEswaFotRmZ4aHpnT2FoUGJGVVHSAW9BVV95cUxOd2djU2RiN00yU1JMb2pJSzQxYUh5Ui1qREp6aHV5NzZBUTBYTVRtbTJfTjVzcTB1Q1VrV3IzSWhBNi15ZzJaZzQ2OVhKa0c2cWF4MEdmNTZpNUN4cmd5VzJyVnlPUkhfT1VLZWZFc3M?oc=5"
+    },
+    {
+      "source_name": "https://spt.co.kr/",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB0T1ZmUDR3c1ZhdEtCcUNRblNNSW9PUENMODdKRHE2OFdDVEZ6SlhrLTVjRms0MEVLWHhjbmNKUzIzc2hLbEdBZ3RsZXY5dWxWekNYaUllNjJTZHpl?oc=5"
+    },
+    {
+      "source_name": "스포츠경향",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBSUFBSWDRiZWFHNTJGTjBiMTB3NlJ1NzlOQ01kVTFNR0xqeENEY1JEUVZjdzBxQXBubXowTmVOb0s2cmhfcGtyOE5faUgzODRIM255T0pPQXcxM2ZLQzVEQ2dNb9IBY0FVX3lxTFBSUFBSWDRiZWFHNTJGTjBiMTB3NlJ1NzlOQ01kVTFNR0xqeENEY1JEUVZjdzBxQXBubXowTmVOb0s2cmhfcGtyOE5faUgzODRIM255T0pPQXcxM2ZLQzVEQ2dNbw?oc=5"
+    },
+    {
+      "source_name": "www.xportsnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE45bFRSY3otV2tOS1lWVmZpdW5OeGV1QmlkSURJclhVYXBVMlJsRzZReWNpNUZaMUhDNnBUbGlJTk9Vd2NCMUpuTFFXNGtNSWp5MkVsZQ?oc=5"
+    },
+    {
+      "source_name": "스포츠동아",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBIZldJTldPV0d2UE5lNGE1cHkwOXVrUjltZUtCWFNlYjhzZkR0a3AydGFnZ3pTTFlIN0Z3ZnhzckZoc2hYSTMzbWo1d0VtZnUySzdoeWVwQURSNV8xU1hlSndsMHAtcmNFb2FQQXEzMkRxUQ?oc=5"
+    }
+  ]
+}

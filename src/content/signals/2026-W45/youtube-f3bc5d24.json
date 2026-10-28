@@ -1,0 +1,27 @@
+{
+  "id": "youtube-f3bc5d24",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "정병야구",
+  "url": "https://www.youtube.com/watch?v=YXigzT7hHcs",
+  "title": "욕심부리다 트롤 한 노시환 #kbo #야구 #프로야구 #한화이글스 #엘지트윈스",
+  "published_at": "2026-10-28T03:00:35Z",
+  "collected_at": "2026-10-28T07:38:45.564Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 18851,
+    "likes": 46,
+    "comments": 3
+  },
+  "scores": {
+    "hot": 52,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

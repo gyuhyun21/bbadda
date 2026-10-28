@@ -1,0 +1,23 @@
+{
+  "id": "community-110f1189",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 카무싸리의 푸짐한 블로그",
+  "url": "https://blog.naver.com/kamussari/224456480462",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/uzMVCO1AUy",
+  "title": "42세 최형우 홈런 터졌다…삼성 8대3 완승 뒤 숨은 반전",
+  "published_at": "2026-10-28T15:30:00.000+09:00",
+  "collected_at": "2026-10-28T07:38:45.564Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

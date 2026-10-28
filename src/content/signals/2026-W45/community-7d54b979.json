@@ -1,0 +1,23 @@
+{
+  "id": "community-7d54b979",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan",
+    "nc"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 코리아이글뉴스",
+  "url": "https://blog.naver.com/koreaeaglenews/224456572092",
+  "title": "[코리아이글뉴스 제휴]두산서 방출된 손아섭, 다시 창원으로…NC와 5천만원 계약",
+  "published_at": "2026-10-28T13:37:00.000+09:00",
+  "collected_at": "2026-10-28T07:38:45.564Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

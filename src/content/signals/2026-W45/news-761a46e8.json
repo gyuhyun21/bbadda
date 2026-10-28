@@ -1,0 +1,22 @@
+{
+  "id": "news-761a46e8",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스핌",
+  "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFByT2swZmwydVhENms2aXl6NFRfY1lHNGd6aFc3VVpPN3RGRDFSOC1rMHhJTTZleDFNaDdwNXRvaVlHVFh0Znh5NHFZTG13NzhZWmd1Q3hsY1dIV1lK?oc=5",
+  "title": "[PO 포커스] 삼성 박승규 출루가 가른 2차전...시리즈 키워드로 부상한 '2번타자'",
+  "published_at": "2026-10-28T03:48:00.000Z",
+  "collected_at": "2026-10-28T07:38:45.564Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "youtube-c8e02409",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "youtube",
+  "source_name": "그깟공놀이가뭐라고",
+  "url": "https://www.youtube.com/watch?v=nrmAQouMILI",
+  "title": "두산 마무리캠프 31명 공개, 윤준호 불참 #두산베어스 #kbo #야구 #마무리캠프 #윤준호 #김택연 #이영하",
+  "published_at": "2026-10-28T06:13:16Z",
+  "collected_at": "2026-10-28T07:38:45.564Z",
+  "summary_ko": "팬 채널이 두산 마무리캠프 참가 31명 명단을 공개했고 윤준호는 불참한다고 전했다.",
+  "metrics": {
+    "views": 620,
+    "likes": 2,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 35,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "마무리캠프 31명, 윤준호 불참"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "community-888e46c5",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 필드 밖 이야기",
+  "url": "https://blog.naver.com/v0722/224456732161",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/6QwSZTVBesu",
+  "title": "[KBO MVP 후보 5] 12시즌 연속 세 자릿수 안타 달성, 꾸준함과 정교함으로 삼성을 채운 구자욱의 2026년",
+  "published_at": "2026-10-28T15:46:00.000+09:00",
+  "collected_at": "2026-10-28T07:38:45.564Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

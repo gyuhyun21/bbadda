@@ -1,0 +1,24 @@
+{
+  "id": "news-2291e7e2",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "한겨레",
+  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE94RGFzcDVjT0M1YmZpNGlONmZQbGNseUFaVEM5dTE0UXpXWG1ybE1DT3VXMWZXY1dFaUsxTWVYSFZBYVVfWWZRbW5EQXFtdGJLTThGeVg5Ym1pNWlVVzRSME1sdktlT2s?oc=5",
+  "title": "PO 3차전, 결국 방망이가 터져야 웃는다…최원태 vs 시라카와",
+  "published_at": "2026-10-28T07:10:00.000Z",
+  "collected_at": "2026-10-28T07:38:45.564Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

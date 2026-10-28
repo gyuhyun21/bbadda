@@ -1,0 +1,28 @@
+{
+  "id": "community-2971e843",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 녹석빛",
+  "url": "https://brunch.co.kr/@greenrock00/113",
+  "title": "2026년 두산 베어스, 기적의 2021시즌 가을야구",
+  "published_at": "2026-10-28T12:00:08.000+09:00",
+  "collected_at": "2026-10-28T07:38:45.564Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "브런치",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE41bS1nX1RJTTRRdFRXRHdQM0o5dWFyZnNuVG5HQm5zUjZiSnRldGY1QnF2cjBfZ3llZ3c3YkhaRVNyU1JiYUV3V3lBNW1QQQ?oc=5"
+    }
+  ]
+}

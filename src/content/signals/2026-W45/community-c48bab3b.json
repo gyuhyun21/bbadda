@@ -1,0 +1,24 @@
+{
+  "id": "community-c48bab3b",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 전국뉴스",
+  "url": "https://blog.naver.com/kingoftheone/224456724444",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/EYrQSM8SXVX",
+  "title": "[베테랑의 저력과 반격의 불씨]삼성, KIA에 8-3 역전승…플레이오프 승부 원점으로 돌렸다",
+  "published_at": "2026-10-28T15:39:00.000+09:00",
+  "collected_at": "2026-10-28T07:38:45.564Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

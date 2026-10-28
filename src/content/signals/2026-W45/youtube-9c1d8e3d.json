@@ -1,0 +1,26 @@
+{
+  "id": "youtube-9c1d8e3d",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "숲 (SOOP)",
+  "url": "https://www.youtube.com/watch?v=gleW2-dw1FU",
+  "title": "기아 타이거즈 오덕 사이다 #여르미 #사이다 #마로니 #미르 #하로하 #유키라 #기아타이거즈 #하츄핑",
+  "published_at": "2026-10-28T07:12:17Z",
+  "collected_at": "2026-10-28T07:38:45.564Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 481,
+    "likes": 7,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 43,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-657dfb0f",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "농민신문",
+  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE13dFh1Sll2dG5WQ2xudnNBX1pCbzlFWDdpMloxME56Z2FlUWFhQ3ZrNzZSZkZpa2FmdUpnUkdybDJoOTJuVnUtTlAycGlGaU9Rb3dHaDBzcUExUQ?oc=5",
+  "title": "NH농협은행 경남본부, 스포츠구단과 함께 ‘농심천심’ 실천",
+  "published_at": "2026-10-28T01:59:00.000Z",
+  "collected_at": "2026-10-28T07:38:45.564Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

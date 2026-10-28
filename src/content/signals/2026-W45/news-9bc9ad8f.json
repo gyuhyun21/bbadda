@@ -1,0 +1,25 @@
+{
+  "id": "news-9bc9ad8f",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "announcement": true,
+  "source_name": "MHN스포츠",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5BX1c4YjVfdE40RzhJd3BfRjZqSV95ZjVsUHhrZ3J6VHJlYUl1cnduc1MySldDbTE0Tl9VYnl2SlBzWGdibXBLeklwRWk4dk41NGtqM0tXbU5oS1VWMlVrM0VwUQ?oc=5",
+  "title": "[오피셜]이호준 감독 \"손아섭, 기껏해야 대타? 제 생각은 다릅니다만\"...감독은 손아섭 역할 제한 두지 않았다",
+  "published_at": "2026-10-28T03:33:45.000Z",
+  "collected_at": "2026-10-28T07:38:45.564Z",
+  "summary_ko": "이호준 NC 감독은 손아섭의 역할에 제한을 두지 않겠다고 했다. 대타 요원 아니냐는 시각에 다른 생각이라고 밝혔다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "이호준 '손아섭, 대타만 아냐'"
+}

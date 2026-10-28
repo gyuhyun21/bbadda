@@ -1,0 +1,24 @@
+{
+  "id": "community-bd200fe5",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&page=6&document_srl=10493629059",
+  "title": "팥죽 = 팥칼국수를 전라도 사투리로 부르는 말 - 야구",
+  "published_at": "2026-10-28T06:53:45.564Z",
+  "collected_at": "2026-10-28T07:38:45.564Z",
+  "summary_ko": "",
+  "excerpt": "... 한화 +1; 7. 기아 -2; 8. 손아섭 +1; 9. 삼성 -1; 10. 두산; 1.…",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

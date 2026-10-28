@@ -1,0 +1,22 @@
+{
+  "id": "news-3b358c2d",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "재경일보",
+  "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBtR1h2S2pNUjRyU0JXUTJQS1JPR2tndGRRaEJhVE5lMW5SQUpOSDZGZmVuUXBvekd6RXVraXQ4UFlEdlh2Qzk5MXlySQ?oc=5",
+  "title": "롯데, 허문회 수석 겸 타격코치 영입…계약 확정 : 스포츠",
+  "published_at": "2026-10-28T00:45:05.000Z",
+  "collected_at": "2026-10-28T07:38:45.564Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

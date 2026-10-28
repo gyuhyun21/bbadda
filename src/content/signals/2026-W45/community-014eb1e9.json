@@ -1,0 +1,29 @@
+{
+  "id": "community-014eb1e9",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 헬조선의알파고",
+  "url": "https://hellphago.tistory.com/1044",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/F3L1xrBpUkQ",
+  "title": "허문회 롯데 수석코치 복귀, 5년 만에 왜? (경질 이후·지도자 경력·코치진)",
+  "published_at": "2026-10-28T09:45:06.000+09:00",
+  "collected_at": "2026-10-28T07:38:45.564Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 82,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4zQ1dTUWF1R0x2UDI5SVhWeTYxdFpKUzNyWXZwTk9pMzdFYk1iWDVkdDVaRmZlMHdzT1VjX05waVNma3luREJrSS04QVMtRkh2M1p0bmdnTjhZTFBLaWxUcFV6dUsyaXMtMUVpRWw3bHZOUkszaURmNdIBeEFVX3lxTE4zQ1dTUWF1R0x2UDI5SVhWeTYxdFpKUzNyWXZwTk9pMzdFYk1iWDVkdDVaRmZlMHdzT1VjX05waVNma3luREJrSS04QVMtRkh2M1p0bmdnTjhZTFBLaWxUcFV6dUsyaXMtMUVpRWw3bHZOUkszaURmNQ?oc=5"
+    }
+  ]
+}

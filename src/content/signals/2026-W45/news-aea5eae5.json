@@ -1,0 +1,23 @@
+{
+  "id": "news-aea5eae5",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "doosan",
+  "teams": [
+    "doosan",
+    "nc"
+  ],
+  "source_type": "news",
+  "source_name": "동행미디어 시대",
+  "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9scWxUQjdQUkNuc3JPOC1BSnNqa05abGlQVG4tbGRlVTg4MS05YjdWNWRlR29Mel9MdHoxWlJINFVLcXFJQUJseV9VUi1aQXRnRkZ4dmxwOTkwQW9RWnc?oc=5",
+  "title": "두산과 결별한 손아섭, 연봉 5000만원에 친정팀 NC행",
+  "published_at": "2026-10-28T02:22:14.000Z",
+  "collected_at": "2026-10-28T07:38:45.564Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 82,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "community-b9474460",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 한국연예스포츠신문",
+  "url": "https://koreaesp.tistory.com/6879",
+  "title": "아들과 마운드 오른 오승환…“경기 지켜보는 게 더 떨린다”",
+  "published_at": "2026-10-28T14:19:16.000+09:00",
+  "collected_at": "2026-10-28T07:38:45.564Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "community-b34f990d",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 지지투",
+  "url": "https://blog.naver.com/shining-25/224455951713",
+  "title": "타율은 0.237인데 홈런은 12개... 키움 박찬혁, 이제 터질 때가 됐다",
+  "published_at": "2026-10-28T06:10:00.000+09:00",
+  "collected_at": "2026-10-28T07:38:45.564Z",
+  "summary_ko": "한 블로그가 타율 0.237에 홈런 12개를 친 키움 박찬혁이 이제 터질 때가 됐다고 짚었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "brief_ko": "박찬혁, 타율 0.237에 홈런 12개"
+}

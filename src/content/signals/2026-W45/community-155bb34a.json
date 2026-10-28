@@ -1,0 +1,30 @@
+{
+  "id": "community-155bb34a",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/10492618729",
+  "title": "[단독] '지도력 인정' 조성환 코치, 최원호 감독 보좌 -> APBC 수석코치 ...",
+  "published_at": "2026-10-28T00:38:45.564Z",
+  "collected_at": "2026-10-28T07:38:45.564Z",
+  "summary_ko": "",
+  "excerpt": "... ... 삼성 라이온즈에서 투수-불펜 코치를 역임했던 권오준 코치도 APBC 대표팀에 합류한다. https://m.sports.naver.com/kbaseball/article/477 ...",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "SPOTV NEWS",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9EQ2luOHVmQXlTMTY0b19jVV9ZdlpTdEcxTHkybW1kbGtyZ2Z0bDFmbnRrR3Q1MWE0d04yWDVNNGtWY1dscGRoV3JMOHo4TXBqODlRa281WVB6bzFqdGl6TDRJcVB4RXRlMjRqZmsxeFE?oc=5"
+    }
+  ]
+}

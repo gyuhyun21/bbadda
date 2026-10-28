@@ -1,0 +1,26 @@
+{
+  "id": "youtube-be866a01",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "지금 zig_M",
+  "url": "https://www.youtube.com/watch?v=mZSs48QTuv4",
+  "title": "43살 최형우, 가을야구 새 역사! 최고령 출장·홈런 신기록…삼성 살린 2안타 2타점 #최형우 #삼성라이온즈 #KIA타이거즈 #KBO #플레이오프 #가을야구",
+  "published_at": "2026-10-28T00:31:22Z",
+  "collected_at": "2026-10-28T07:38:45.564Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 958,
+    "likes": 14,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 46,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

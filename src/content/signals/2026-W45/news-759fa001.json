@@ -1,0 +1,22 @@
+{
+  "id": "news-759fa001",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "뉴시스",
+  "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9nYlRBaHo3a3B6SVVOanV3aElXeEFUTkZPTFlEOFFfN3ZTQXNPTFJzVno2TmNPTVdCVmhKNzNBaUJmZHJpT0I4clRDQWJDNEFqTFplb3Z2RmtDQmN6TlFkQ2g1NmJqWWFGYXdSb3dCdWZseW5JRGxZTdIBeEFVX3lxTE9nYlRBaHo3a3B6SVVOanV3aElXeEFUTkZPTFlEOFFfN3ZTQXNPTFJzVno2TmNPTVdCVmhKNzNBaUJmZHJpT0I4clRDQWJDNEFqTFplb3Z2RmtDQmN6TlFkQ2g1NmJqWWFGYXdSb3dCdWZseW5JRGxZTQ?oc=5",
+  "title": "깨진 방패…마운드 난조에 가을야구 상승세 꺾인 KIA[PO]",
+  "published_at": "2026-10-28T01:33:21.000Z",
+  "collected_at": "2026-10-28T07:38:45.564Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 90,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

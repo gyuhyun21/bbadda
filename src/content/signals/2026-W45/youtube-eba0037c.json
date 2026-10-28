@@ -1,0 +1,26 @@
+{
+  "id": "youtube-eba0037c",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "source_name": "한화에 묻어다오",
+  "url": "https://www.youtube.com/watch?v=Hgv_Q7PCnXs",
+  "title": "세심한 강백호에게 감동받았었다는 왕옌청 #한화이글스 #강백호 #왕옌청",
+  "published_at": "2026-10-28T06:48:15Z",
+  "collected_at": "2026-10-28T07:38:45.564Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 7184,
+    "likes": 123,
+    "comments": 6
+  },
+  "scores": {
+    "hot": 59,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

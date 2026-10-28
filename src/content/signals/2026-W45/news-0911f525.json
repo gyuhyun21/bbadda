@@ -1,0 +1,23 @@
+{
+  "id": "news-0911f525",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "announcement": true,
+  "source_name": "스포츠경향",
+  "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5JM2hueTdxLW81Q1BEZmFrZWplWHF4aE5TVU9IQlBrZWZoNmpGXzBlZkNLUlk2TUNjOUNSczRLLXo5OVR0bnA3Q1JfVUdaZXRLaU1aelVSdzFrNUNNTWfSAWNBVV95cUxPY2JmR25wRy1PemFVNDlRQnB3bE93ZmRlaFIwLTQtRGxTTXRJclNCSTdTSVZ4MVpnTUx4am1mdWdZOXFjaWhreG8ycVFzMjI3dTdXaEZjUlBmWFFHRFhUM1U4RjQ?oc=5",
+  "title": "[공식발표]허문회 전 감독이 1군 수석 코치로 컴백…롯데, 1군 코칭스태프와 퓨처스 감독 선임 “수비 강화와 데...",
+  "published_at": "2026-10-28T06:35:00.000Z",
+  "collected_at": "2026-10-28T07:38:45.564Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

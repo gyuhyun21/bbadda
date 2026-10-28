@@ -1,0 +1,23 @@
+{
+  "id": "community-acd190f9",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 야구덕후일기",
+  "url": "https://blog.naver.com/sportsandfood/224456624010",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/Bu7hgRDsF8L",
+  "title": "경질 5년 만에 돌아온다, 허문회 전 감독이 롯데 수석코치로",
+  "published_at": "2026-10-28T14:30:00.000+09:00",
+  "collected_at": "2026-10-28T07:38:45.564Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

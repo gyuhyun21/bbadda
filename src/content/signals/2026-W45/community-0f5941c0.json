@@ -1,0 +1,24 @@
+{
+  "id": "community-0f5941c0",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 에디터 이음의 이슈 파헤치기",
+  "url": "https://blog.naver.com/sldnj3xj/224456624203",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/K0sX3kHrNKu",
+  "title": "\"42세 최고령 홈런\" 최형우, 여전히 현역에서 날아다니는 이유",
+  "published_at": "2026-10-28T16:00:00.000+09:00",
+  "collected_at": "2026-10-28T07:38:45.564Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

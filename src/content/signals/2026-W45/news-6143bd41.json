@@ -1,0 +1,30 @@
+{
+  "id": "news-6143bd41",
+  "issue": "2026-W45",
+  "module": "league",
+  "teams": [],
+  "source_type": "news",
+  "source_name": "뉴스1",
+  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1XbldkNFdVQkU4aERHczZ2X3dwNS1LN0NzOVkwbWtnR3FXbUJZLVpBS09PNlhzdzRGOEt4eEw3STFnSkdzMXFPLVVIRC1SMEctR3RsVEhVdw?oc=5",
+  "title": "일구회, 허구연 KBO 총재 3연임 추진 환영…\"한국야구 발전 기대\"",
+  "published_at": "2026-10-28T01:14:03.000Z",
+  "collected_at": "2026-10-28T07:38:45.564Z",
+  "summary_ko": "일구회가 허구연 KBO 총재의 3연임 추진을 환영하며 한국야구 발전을 기대한다고 밝혔다.",
+  "metrics": {},
+  "scores": {
+    "hot": 90,
+    "relevance": 30
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4zelJtUnlNeVBmTE9TWGUtT1FKeEVlSm5sUHNuWTBqWUVjaXc5TzZzT0lvMEppVnhoRUNRVVZhbVRPUDROZ0lBUmo1VnJjMHNoalhRU09EakVnZkxPWk9WbjBtbG43V0FOdnFnZDB1RVptMzQ0bzBkUNIBeEFVX3lxTE4zelJtUnlNeVBmTE9TWGUtT1FKeEVlSm5sUHNuWTBqWUVjaXc5TzZzT0lvMEppVnhoRUNRVVZhbVRPUDROZ0lBUmo1VnJjMHNoalhRU09EakVnZkxPWk9WbjBtbG43V0FOdnFnZDB1RVptMzQ0bzBkUA?oc=5"
+    },
+    {
+      "source_name": "마이데일리",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5tZUVjRmhhUkxYdUp4NUE4alNHa3U3Z1Y3Rk9MajRGS19DNlEza1JVWWE2UU41UW9YbDhoR0MwdzV0WEs1NkQ4VXZULWoyUHd4bkQyY0txUkVaaU94c0laNw?oc=5"
+    }
+  ],
+  "brief_ko": "일구회, 허구연 총재 3연임 환영"
+}

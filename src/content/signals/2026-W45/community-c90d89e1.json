@@ -1,0 +1,37 @@
+{
+  "id": "community-c90d89e1",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&document_srl=10492659585",
+  "title": "손아섭, NC와 연봉 5000만원에 계약… 2027년 1월 합류",
+  "published_at": "2026-10-28T00:38:45.564Z",
+  "collected_at": "2026-10-28T07:38:45.564Z",
+  "summary_ko": "",
+  "excerpt": "... NC 다이노스가 베테랑 외야수 손아섭(38)을 영입했다. NC는 27일(화) 오후 창원NC파크에서 손아섭 선수와 연봉 5,000만…",
+  "metrics": {},
+  "scores": {
+    "hot": 98,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "스포츠월드",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9EQnNWc0o1RnI5cGJIVzB6c0I2ZTlZRWtOdFFBOFUzd05VUDJVNk9TVW0wSXpMQzM3OTBhb1Zya2h2SWlZYmRVNlhKU2RaNGRkVXNzZTQzd3gyaFpJNjM4MEp3?oc=5"
+    },
+    {
+      "source_name": "마이데일리",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9IZVNndldVYjFiS295NTNib2ZvSkV4eEpSTi1BSW1qSVdfaUVJZEM0QkRqUWhzLWktNS16YXIwNEVyblYtb09WcXpzdGlIUlNaamRfakhQZ09UcW1wTXJNRA?oc=5"
+    },
+    {
+      "source_name": "데일리안",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE94TmRVdWl0bEp1a3lfaVV0N1J2Z01RcHd1NmRiU0VCQlNPbEE0Y0NmVFpVMUhHc0lwNUF3NVUtOUJoODZuMHNHbHdOUjhnUGUwcnd0cg?oc=5"
+    }
+  ]
+}

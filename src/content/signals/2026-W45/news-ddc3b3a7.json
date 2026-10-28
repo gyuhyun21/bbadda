@@ -1,0 +1,22 @@
+{
+  "id": "news-ddc3b3a7",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "news",
+  "source_name": "https://www.2news.co.kr/",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBXeWstOXRKQ21US2tJRUJYdHh0blRMdzJzcDN5R1h0S2hjQnZja3hwVFczM3N1ZnJ0NEwxbDBOVl9jMzJPYzM4MmZKd3ZiTFRxdnNJaEZ4TkkwbFBRVFlPR21wOTZna1Az?oc=5",
+  "title": "한화 유망주 육성 총력, 일본 미야자키 마무리캠프 전격 돌입",
+  "published_at": "2026-10-28T06:04:00.000Z",
+  "collected_at": "2026-10-28T07:38:45.564Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

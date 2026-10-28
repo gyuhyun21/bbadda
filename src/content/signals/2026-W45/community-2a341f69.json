@@ -1,0 +1,24 @@
+{
+  "id": "community-2a341f69",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 ffakim 님의 블로그",
+  "url": "https://ffakim.com/24",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/FNbBCFXaOyr",
+  "title": "기아 대 삼성 1차전 리뷰 MVP와 숨은 공신 총정리",
+  "published_at": "2026-10-28T15:54:53.000+09:00",
+  "collected_at": "2026-10-28T07:38:45.564Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

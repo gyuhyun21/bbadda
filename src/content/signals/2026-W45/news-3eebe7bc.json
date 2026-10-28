@@ -1,0 +1,22 @@
+{
+  "id": "news-3eebe7bc",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠동아",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAzQ2FkWTVBUEVmbElNMENmRkVoUUVOMXQtVWJkNmZyMDFkcUVqOGRaeWpkbFFCRU14N1lIVHF4MFFDVmYxd2pBaERIYzZjZm5VeHdtUnEyZWRVbDVWdWdQY04zU0Y5SGZDbzdPLUVjWQ?oc=5",
+  "title": "롯데자이언츠 신인 11명, 첫 상대는 투수 아닌 유령 [PS]",
+  "published_at": "2026-10-28T07:18:11.000Z",
+  "collected_at": "2026-10-28T07:38:45.564Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

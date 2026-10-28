@@ -1,0 +1,23 @@
+{
+  "id": "community-b5149971",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 스포츠랑 함께하는 일상",
+  "url": "https://blog.naver.com/juhyun002/224456641444",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/CQ2HWA90pX3",
+  "title": "충격! 롯데 김상진 투수코치 떠난다... 그런데 후임도 충격이다",
+  "published_at": "2026-10-28T14:32:00.000+09:00",
+  "collected_at": "2026-10-28T07:38:45.564Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

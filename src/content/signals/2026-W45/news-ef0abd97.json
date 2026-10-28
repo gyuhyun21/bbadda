@@ -1,0 +1,24 @@
+{
+  "id": "news-ef0abd97",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "nc",
+  "teams": [
+    "nc",
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "위키트리",
+  "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1lMTNSQ0dPcEZySE5Fd1kwY1R1QnhveC1LTDQ4ckhabHA0NlgyVXIyaTBPOE13TmI5OHhOV0dqVDd2N1JGMlVmV1hhT2V6UG1VQmd1ekVB?oc=5",
+  "title": "방출된 지 8일 만에…손아섭, '이 구단'과 연봉 5000만원에 깜짝 계약",
+  "published_at": "2026-10-28T01:55:00.000Z",
+  "collected_at": "2026-10-28T07:38:45.564Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}
