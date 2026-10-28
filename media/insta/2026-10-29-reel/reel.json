@@ -1,0 +1,56 @@
+{
+  "music": "bgm-morning",
+  "segments": [
+    {
+      "src": "clip1.mp4",
+      "from": 0,
+      "to": 6,
+      "credit": "연합뉴스TV",
+      "say": "a1.mp3",
+      "text": "가을야구 에이스 최원태. 근데 기아만 만나면 이상하게 흔들려.",
+      "kick": "PO 3차전 · 오늘 광주",
+      "head": "가을 에이스가<br><b>기아만 만나면</b>",
+      "note": "출처: OSEN(최원태 KIA전 ERA 8.10)"
+    },
+    {
+      "src": "clip2.mp4",
+      "from": 0,
+      "to": 6,
+      "credit": "YTN",
+      "say": "a2.mp3",
+      "text": "지난해 포스트시즌에서 십삼 이닝 일 실점. 가을엔 무적이었어.",
+      "kick": "지난해 포스트시즌",
+      "head": "13이닝<br><b>1실점</b>",
+      "note": "출처: YTN(최원태 지난해 PS 2승 13이닝 1실점)"
+    },
+    {
+      "src": "clip3.mp4",
+      "from": 0,
+      "to": 6,
+      "credit": "연합뉴스TV",
+      "say": "a3.mp3",
+      "text": "그런데 기아전 평균자책점은 팔 점 일공. 반전은 여기야.",
+      "kick": "그런데 KIA전은",
+      "head": "평균자책점<br><b>8.10</b>",
+      "note": "출처: OSEN(KIA전 ERA 8.10)"
+    },
+    {
+      "src": "clip4.mp4",
+      "from": 0,
+      "to": 8,
+      "credit": "YTN",
+      "say": "a4.mp3",
+      "text": "오늘 광주 삼 차전, 이기는 팀이 한국시리즈 갈 확률 칠십오 퍼센트래. 천적 징크스가 깨질까?",
+      "kick": "오늘 광주",
+      "head": "이기면 KS<br><b>75%</b>",
+      "note": "출처: 뉴스1(3차전 승리 팀 KS 진출 확률 75%) · data/postseason.yaml"
+    }
+  ],
+  "end": {
+    "kick": "PO 3차전 · 오늘 광주",
+    "head": "최원태, 천적을<br>넘을까?",
+    "a": "samsung",
+    "b": "kia",
+    "cta": "나머지 소식은 빠따닷컴에서"
+  }
+}
