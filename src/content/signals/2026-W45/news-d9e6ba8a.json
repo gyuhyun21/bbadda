@@ -1,0 +1,28 @@
+{
+  "id": "news-d9e6ba8a",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9pdlA5T2ZLQWZqLWQtTEFsM0Jha0FPMEJvTGpBWXBNR3NheF9HZENnYU5JTTlla3BFVEVNYmdqMFBBYmRxYUpKSjBvRllHanA5QWVuQTFTTVZRVE1PVkRzbGh4Z3hidU1RWHZQRFd1Y1JmWll2aXRBckp4cjJsUQ?oc=5",
+  "title": "롯데 또 파격! 전준우 보다 어린 코치 선임 → '은퇴' 김민성 바로 수비코치로. 리더 역할까지 기대",
+  "published_at": "2026-10-28T02:35:01.000Z",
+  "collected_at": "2026-10-28T07:38:45.564Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 82,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVk1UTE5WZFN0WmJ0OGNmc2lXVUVHMzl0WjRjblJ0N3VSV0FpV1Q5YWRmQkN3WEpMUFpzQ285VUJVNVhLQ25QSlFXUVBUQjg2Q1FUVjFvMHNCZFlDZUU5aHNUZzVaV3dpR2E0SlJ5T3ZLRjdVQ2w3d0laOWF2R1Rla0NaZw?oc=5"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "community-318459e3",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 멍냥이의 소식",
+  "url": "https://blog.naver.com/specialmel/224456752733",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/FQ0Gnju6Rol",
+  "title": "라이언 와이스 한화 복귀, 22경기 5승5패 ERA 5.42의 의미",
+  "published_at": "2026-10-28T16:01:00.000+09:00",
+  "collected_at": "2026-10-28T07:38:45.564Z",
+  "summary_ko": "한 블로그가 와이스의 한화 복귀 의미를 22경기 5승 5패, 평균자책점 5.42 성적과 함께 짚었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "brief_ko": "와이스 복귀, 22경기 ERA 5.42"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "news-d6f6ad46",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "lg",
+  "teams": [
+    "lg",
+    "samsung",
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스엔",
+  "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1wdGIwUmhCamFWMVQwRktOTXpPdFI0SWxUV3V6SVRReDF1c0xBZVNmX0pZRFJGY0tOSTdiaHVqN0d2OF9ZMGdSakl6ZkFaeGJ4QjQ3Ym16TU11QWRxdUE1YmtrR0xGRjBKdjFTX3NIU2FVa05pdFhMNE1kcw?oc=5",
+  "title": "유명 LG팬 최강창민 “나는 가전동맹, 플레이오프 삼성 VS 기아 응원은요”(12시엔)",
+  "published_at": "2026-10-28T05:09:41.000Z",
+  "collected_at": "2026-10-28T07:38:45.564Z",
+  "summary_ko": "유명 LG팬 최강창민이 플레이오프 삼성 대 KIA에서 누구를 응원하는지 밝혔다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "LG팬 최강창민의 PO 응원"
+}

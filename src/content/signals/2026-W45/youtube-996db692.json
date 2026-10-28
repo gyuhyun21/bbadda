@@ -1,0 +1,27 @@
+{
+  "id": "youtube-996db692",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "youtube",
+  "source_name": "내꿈은롯데우승",
+  "url": "https://www.youtube.com/watch?v=-BQfokVkAhI",
+  "title": "이동욱 감독이 본 롯데 \"세계 최고였다가 최악이었다가\" 첫 상견례 #롯데자이언츠 #shorts",
+  "published_at": "2026-10-28T04:12:44Z",
+  "collected_at": "2026-10-28T07:38:45.564Z",
+  "summary_ko": "롯데 팬 채널이 이동욱 감독이 첫 상견례에서 롯데를 '세계 최고였다가 최악이었다가'라고 본 장면을 올렸다.",
+  "metrics": {
+    "views": 1178,
+    "likes": 7,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 41,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "이동욱 감독 '세계 최고였다가 최악'"
+}

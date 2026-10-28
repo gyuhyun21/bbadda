@@ -1,0 +1,28 @@
+{
+  "id": "news-37ebb156",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "스타뉴스",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5FcWF2WFNFUTFBS3B6V2h5WEEwMG1oOTB3TVE5ai1ZRU1BeTJSZFp5N29nZ1BJbGhUV1BTR0J4UTJQcDVoYVJCMW1WcHZPRi1LQ3I0cUlGSmxPbnRNSHNfcTlHWmVXVmhZWUs2cWctZWZiSElpNUE?oc=5",
+  "title": "'5점 차에 대체 왜?' 원태인 \"마무리로 생각하시는 듯\", 배경엔 'KIA 킬러' 장찬희 선발 계획있었나 [PO2]",
+  "published_at": "2026-10-27T22:51:44.000Z",
+  "collected_at": "2026-10-28T07:38:45.564Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 81,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5NYzJqZXhGOGNBTUpQQUpHTnl0N2U0UzVVS1RTZ1p6NTlyeUt6aWxEVE03b0lRUFJxanVEbkxnaEU4enBIUEVRVmxnaHhINGlqc2N4YXJJRnNQSi0xZ05SM2cyZk9CYmRPdFHSAW9BVV95cUxNcU9pM0xYU3N4bU5WRXd5SF9vbzBFTFdsMXJxeU91WEFrSDBvOS0tQnlRcVNIZ0g4YlhBcDlrRkl3ZmU2UTVpR1NaYnJHaDhLaV9sRlJuM2p2VWRGM2N6QktlMEp4SWhlcFNUdmlGVGs?oc=5"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "youtube-9fcba3d8",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "youtube",
+  "source_name": "외야석야구",
+  "url": "https://www.youtube.com/watch?v=dIxlg7n7Zjw",
+  "title": "KBO 역사상 가장 뭉클한 레전드 시구 #이병규 #박용택 #LG트윈스 #KBO",
+  "published_at": "2026-10-28T05:30:11Z",
+  "collected_at": "2026-10-28T07:38:45.564Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1394,
+    "likes": 12,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 43,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

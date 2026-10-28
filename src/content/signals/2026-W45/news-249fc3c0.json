@@ -1,0 +1,23 @@
+{
+  "id": "news-249fc3c0",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "조선일보",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRkpCWkJYbjdKdktjN2k3NjcyX3diODE0aG04VlAzSnF1RnV2NjBmaUtvQWRXZmRHTmNISU1UWTNoc1N6ZDNrandfZlFiWnFFZHppZGUxSTBWemV1X3M2RW1Bdk1QRjlFc1FMRk1tVDR0R2J0RWJOXzdqUkcwTW1zY2VDbw?oc=5",
+  "title": "수술이 만든 'MVP 조기 재회'…국경 넘은 문동주X폰세 우정, \"죽기 전까지 기억할 시간\" [인터뷰②]",
+  "published_at": "2026-10-28T05:46:00.000Z",
+  "collected_at": "2026-10-28T07:38:45.564Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "mixed"
+}

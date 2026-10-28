@@ -1,0 +1,24 @@
+{
+  "id": "community-421f3c2d",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 노엘로그(Noelle Log)",
+  "url": "https://blog.naver.com/the1stnoelle/224456508922",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/AB06jVj2Kqg",
+  "title": "고척돔 직관 후기⚾️ 불꽃야구 2번 다녀온 솔플러의 좌석 후기 (1루 202구역·104구역)",
+  "published_at": "2026-10-28T14:30:00.000+09:00",
+  "collected_at": "2026-10-28T07:38:45.564Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

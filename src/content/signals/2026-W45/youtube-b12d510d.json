@@ -1,0 +1,28 @@
+{
+  "id": "youtube-b12d510d",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc",
+    "hanwha",
+    "doosan"
+  ],
+  "source_type": "youtube",
+  "source_name": "꽃챠밍",
+  "url": "https://www.youtube.com/watch?v=Ah1vG1lMG6A",
+  "title": "롯데팬이 찍은 NC다이노스 한화이글스 두산베어스 손아섭선수 #shorts",
+  "published_at": "2026-10-28T05:51:34Z",
+  "collected_at": "2026-10-28T07:38:45.564Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 824,
+    "likes": 5,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 39,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

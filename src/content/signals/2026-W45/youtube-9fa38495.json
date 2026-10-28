@@ -1,0 +1,26 @@
+{
+  "id": "youtube-9fa38495",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "youtube",
+  "source_name": "태룡부동산",
+  "url": "https://www.youtube.com/watch?v=yx0yDgBw9HA",
+  "title": "SSG 홈구장이 청라 돔구장으로 완전 바뀐다고?! 우천 취소 없는 새 야구장#SSG랜더스 #청라돔구장 #스타필드청라 #야구직관 #한국시리즈 #KBO #프로야구 #우천취소 #청라",
+  "published_at": "2026-10-28T05:14:48Z",
+  "collected_at": "2026-10-28T07:38:45.564Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 164,
+    "likes": 3,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 40,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

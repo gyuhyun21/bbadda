@@ -1,0 +1,23 @@
+{
+  "id": "news-9cf07e32",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "doosan",
+  "teams": [
+    "doosan",
+    "nc"
+  ],
+  "source_type": "news",
+  "source_name": "노컷뉴스",
+  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVVZSMk8yUjQ0TFVJZFlIOVAzeXJJUjhqamdPb1pDM2lJdk9vWV9xcVlEOXJPYWo1U2FMaE52Wk01cE1FMFNpSWNrSkQ4Z2hMV0VPNDlzUUNFUXFjdDJzTlNyakdENV9VMzdJOFBJclBJVkltOVdiMDdXTW5hbEpSMDJXY2VaTzlIZFRMRzFhV1VrM3hRRUxoSmsxMkFJUTIwSUFRcnNUd1N1RDROUnN5TA?oc=5",
+  "title": "'두산 방출 설움 딛고 친정으로' 손아섭, NC 유니폼 다시 입는다",
+  "published_at": "2026-10-28T01:07:19.000Z",
+  "collected_at": "2026-10-28T07:38:45.564Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

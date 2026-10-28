@@ -1,0 +1,29 @@
+{
+  "id": "news-4cf944ce",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "news",
+  "source_name": "스타뉴스",
+  "url": "https://www.starnewskorea.com/sports/2026/10/28/2026102721500971025",
+  "title": "'한국 11월 강추위?' 난 눈 오는 도시서 4년 뛰었다! 5이닝 노히트 10K 괴력투 KT 외인 자신감 \"첫 KS 기대된다\"",
+  "published_at": "2026-10-27T23:31:00.000Z",
+  "collected_at": "2026-10-28T07:38:45.564Z",
+  "summary_ko": "KT 외국인 투수가 5이닝 노히트 10K를 던진 뒤 첫 한국시리즈가 기대된다고 말했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 73,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4xV0V6NEprUDFRdG15RW5RRzFJalEzeHZXeFV5TXBaQ0d0N0h1NVZ2WU5xdk80bnJGUkZfcGk4OWxrVk5PRGNGSlQ4UkNPc1lqMzVNaXpLc1hjS19vSENqQm02NTRoWTlUUG52SzU3d9IBb0FVX3lxTE4xV0V6NEprUDFRdG15RW5RRzFJalEzeHZXeFV5TXBaQ0d0N0h1NVZ2WU5xdk80bnJGUkZfcGk4OWxrVk5PRGNGSlQ4UkNPc1lqMzVNaXpLc1hjS19vSENqQm02NTRoWTlUUG52SzU3dw?oc=5"
+    }
+  ],
+  "brief_ko": "KT 외인 '첫 KS 기대된다'"
+}

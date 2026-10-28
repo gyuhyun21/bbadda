@@ -1,0 +1,23 @@
+{
+  "id": "news-ac0257ac",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "news",
+  "announcement": true,
+  "source_name": "MHN스포츠",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9BN2tpWFViVGQyblpOSWI1NFNNVGVOSWFGZ2poZUdnUlJpelU3enNueEE3MGZyU3NsUW8yNFZwa2YyVDZ6MFprdXRydnRxMkM1THBFSlhQaDdkMmRsSHhRSmE0OA?oc=5",
+  "title": "[오피셜]한화 마무리캠프, 시작은 7시로 똑같은데 끝나는 시간은 제각각?...뭐 이런 팀 훈련이 다 있지?",
+  "published_at": "2026-10-28T07:04:59.000Z",
+  "collected_at": "2026-10-28T07:38:45.564Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

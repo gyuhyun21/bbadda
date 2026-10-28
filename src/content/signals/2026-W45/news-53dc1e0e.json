@@ -1,0 +1,23 @@
+{
+  "id": "news-53dc1e0e",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "더게이트",
+  "url": "http://www.spochoo.com/news/articleView.html?idxno=131520",
+  "title": "\"롯데의 일원이라는 자긍심\" 신인선수-가족과 함께 특별한 입단 환영식…신동빈 구단주도 축전 보냈다",
+  "published_at": "2026-10-28T02:36:23.000Z",
+  "collected_at": "2026-10-28T07:38:45.564Z",
+  "summary_ko": "롯데가 신인 선수와 가족을 초대해 입단 환영식을 열었고 신동빈 구단주가 축전을 보냈다.",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "신인 가족과 입단 환영식"
+}

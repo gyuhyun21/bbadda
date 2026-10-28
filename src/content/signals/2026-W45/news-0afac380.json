@@ -1,0 +1,30 @@
+{
+  "id": "news-0afac380",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "lotte",
+  "teams": [
+    "lotte",
+    "nc",
+    "doosan"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠한국",
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9aSklpQUhEYVdoSUxReTBYeWxJVEZ3QlBCMG5hNU1vR2pzTXExYmJLUG41WlRSTjd3X3RtbVQ5TGRNWlFQWDl6Q3A2NFJuR00zaXNKWW81UktJVVJHNkxTLUtwbjYxOURaQ2JsTllxQkLSAXRBVV95cUxOOS1OS3NMS0VrbTYyd0psMEl2Rkc0anItRXRsNVFOZGdhY3dDOXZQQmxiX3FlYmd3MW9HU0JkMERQODRrRDEtZ21ISjM5RVQxMVJKVjFjTkE4cFd0OXFOb1BhUjFxcm1pX3o4bjFoc014THFIMg?oc=5",
+  "title": "결국 롯데 아닌 NC였다…'두산서 방출' 손아섭, 연봉 5000만원에 NC행",
+  "published_at": "2026-10-28T00:40:42.000Z",
+  "collected_at": "2026-10-28T07:38:45.564Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "negative",
+  "also_in": [
+    {
+      "source_name": "한국아이닷컴",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBBNVRVTjRoNndBb3RhNTV0VUVCNlJudy1uNXdZV09pSUlNMFFqWFlwSTNzTEZYeDlDV01weWkwNXhGNjZtczAtYTVOMGQ1YVNidWV0OTZSc1dZWjJncmxyQ3V6OWVOdGVsOThucFgxRdIBb0FVX3lxTFBBNVRVTjRoNndBb3RhNTV0VUVCNlJudy1uNXdZV09pSUlNMFFqWFlwSTNzTEZYeDlDV01weWkwNXhGNjZtczAtYTVOMGQ1YVNidWV0OTZSc1dZWjJncmxyQ3V6OWVOdGVsOThucFgxRQ?oc=5"
+    }
+  ]
+}

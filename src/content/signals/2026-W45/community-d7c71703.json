@@ -1,0 +1,23 @@
+{
+  "id": "community-d7c71703",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 Dailyinfo 마루",
+  "url": "https://blog.naver.com/thomas-8272/224455329100",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/4SmGHl0wsOn",
+  "title": "두산 베어스 타카다 타쿠토 재계약 후반기 평균자책점 1.58의 가치",
+  "published_at": "2026-10-28T14:30:00.000+09:00",
+  "collected_at": "2026-10-28T07:38:45.564Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-e9085bf6",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBBcUFqc3ppcUVzNFJiemxza2tQXzUyc2RHSDdjM05TN2ppQ3dMNGE4OVZOMTh5enRvT2UzMjhvM1ZrWkxscUlORW82NFp5a1A2SWp6TkNIVHh1LVRnMnFqN1RhQ0J5WC0zMEFqYmZTbVNkUVZySVdLOTFKYi1oUQ?oc=5",
+  "title": "홈런 포함 3안타! 여전한 괴물 타자의 위용 \"투수별 맞춤 전략 준비했다\" [수원포커스]",
+  "published_at": "2026-10-28T00:33:32.000Z",
+  "collected_at": "2026-10-28T07:38:45.564Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 73,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

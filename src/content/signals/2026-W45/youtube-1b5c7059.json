@@ -1,0 +1,27 @@
+{
+  "id": "youtube-1b5c7059",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "Fresh Angle 24h",
+  "url": "https://www.youtube.com/watch?v=uCDh9U9yApQ",
+  "title": "시라카와 케이쇼 vs 최원태, 운명을 가를 마운드 대결 #KIA타이거즈 #삼성라이온즈",
+  "published_at": "2026-10-28T05:15:19Z",
+  "collected_at": "2026-10-28T07:38:45.564Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 148,
+    "likes": 4,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 47,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

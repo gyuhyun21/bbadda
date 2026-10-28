@@ -1,0 +1,22 @@
+{
+  "id": "news-eba419f6",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "일간스포츠",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1yNlRwNWVxYXNIMTJCdG0yLUo1eFJSMFZsOFBqQ0UxUHM4b2d1NllwZDgxZXdIUktiV2ZncWlLdzBGdE9iUGFyNTdGemdVY0Foejl1TVpWVGFsNFpsOGExbFF3?oc=5",
+  "title": "[IS 포커스] 김범수 피홈런에 이의리 제구 불안까지…KIA 왼손 불펜의 '딜레마'",
+  "published_at": "2026-10-28T02:58:00.000Z",
+  "collected_at": "2026-10-28T07:38:45.564Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

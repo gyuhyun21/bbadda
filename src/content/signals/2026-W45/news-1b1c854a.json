@@ -1,0 +1,23 @@
+{
+  "id": "news-1b1c854a",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "부산일보",
+  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB1MWJKT21vUnRGaWJMNG45emI0VE1tS2tJVS14eDNQNlNqUDZwUXB4WkoyMFlQXzFTUUg1d1BwUzAydzVvTTVXaG1aaEJlTUFJWS1ReVh3b09zVUxFVlljZ3p3WkRPNXBjSWQxazdhbDlDM25E?oc=5",
+  "title": "최동원 유소년 야구단, ‘최동원 불굴의 영웅상’ 수상",
+  "published_at": "2026-10-28T06:53:37.000Z",
+  "collected_at": "2026-10-28T07:38:45.564Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

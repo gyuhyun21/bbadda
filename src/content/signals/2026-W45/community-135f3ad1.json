@@ -1,0 +1,24 @@
+{
+  "id": "community-135f3ad1",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&page=5&document_srl=10493705628",
+  "title": "지상파고 뭐고를 떠나 걍 엠비씨 중계가 별로같음 - 야구",
+  "published_at": "2026-10-28T07:23:45.564Z",
+  "collected_at": "2026-10-28T07:38:45.564Z",
+  "summary_ko": "",
+  "excerpt": "... nc 다이노스 방출명단 [1]. 6 분 전 정보 악셀러레이터 ...",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

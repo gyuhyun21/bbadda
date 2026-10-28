@@ -1,0 +1,24 @@
+{
+  "id": "community-ca13fab6",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/10492660362",
+  "title": "5천이면 섭어게인 괜찮은데 - 야구",
+  "published_at": "2026-10-28T00:38:45.564Z",
+  "collected_at": "2026-10-28T07:38:45.564Z",
+  "summary_ko": "",
+  "excerpt": "... NC 다이노스가 베테랑 외야수 손아섭(38)을 영입했다. NC는 27일(화) 오후 창원NC파크에서 손아섭 선수와 연봉 5,000만…",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

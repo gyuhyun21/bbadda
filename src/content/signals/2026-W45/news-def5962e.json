@@ -1,0 +1,23 @@
+{
+  "id": "news-def5962e",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "일간스포츠",
+  "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBtNVZiemlFN0NLa1d4RDB4dGIwemNHaUFlU0JOQ2c1UHFMV1l3NlhMRkNQVU1yaWZjRW5UT0hTMW12emoxZ1VNakJyQV83bXlqeWhOdmpOdmRLd3M?oc=5",
+  "title": "'팀보다 위대한 선수는 없다' 박승규의 '팀 퍼스트 정신', 가을야구에서도 빛났다",
+  "published_at": "2026-10-28T06:47:00.000Z",
+  "collected_at": "2026-10-28T07:38:45.564Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

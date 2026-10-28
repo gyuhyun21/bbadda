@@ -1,0 +1,23 @@
+{
+  "id": "news-aa2a590e",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "news",
+  "source_name": "뉴시스",
+  "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261028_0003844433",
+  "title": "내년에도 한화서 뛰는 왕옌청 \"160이닝·ERA 3점대·KS 선발 목표\"",
+  "published_at": "2026-10-28T03:03:24.000Z",
+  "collected_at": "2026-10-28T07:38:45.564Z",
+  "summary_ko": "한화와 재계약한 왕옌청이 내년 160이닝, 평균자책점 3점대, 한국시리즈 선발을 목표로 내걸었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 82,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "왕옌청, 160이닝·KS 선발 목표"
+}

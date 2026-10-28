@@ -1,0 +1,28 @@
+{
+  "id": "news-ca8df23a",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "미주중앙일보",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4tTFJ5aWZYejNqdVpVUTVhTG5ZeDJNLVBwNG1La1RPNjQ5WTJ5TVhObWhJbUktQjZwYmFhb3RvWVB6OVRCSE53ZGhFaGJ3YmQ4ZHRaU3BrbmhXd3RzcVdORmdn?oc=5",
+  "title": "페덱 5실점 충격, 후라도는 달랐다…“야구는 원래 그런 것” 6⅔이닝 호투로 삼성 구했다 [PO2]",
+  "published_at": "2026-10-28T01:40:00.000Z",
+  "collected_at": "2026-10-28T07:38:45.564Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 90,
+    "relevance": 70
+  },
+  "sentiment": "mixed",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1kak90cHQtenlqODdBck5wVW1wRW5MdmR0VDhnTWlYMVQtUnF0X3dpSzdkSG43czZ6VFhzTkktT2M4R3VrcHJRVEpYU2liZXMxTVk3N1FWSV9NOWZZNDl2c3Q2LW55aWsyR1HSAW9BVV95cUxNRUljMVhaRFlSZUtmVmp4WjhPNUwzejQ5TDBQaktDZ2MzZWQ2UHcyaFMySWVNVWRMVnFxMEFoUHNTaWx4NzU3MzN6eVFES1VPVjBGOVQ3SDFTd0dhaW96YWdnZVZ1bmdFRC1IQVQ1bmM?oc=5"
+    }
+  ]
+}

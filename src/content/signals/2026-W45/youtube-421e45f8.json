@@ -1,0 +1,26 @@
+{
+  "id": "youtube-421e45f8",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "MYKORI",
+  "url": "https://www.youtube.com/watch?v=lly-3W9FdPM",
+  "title": "1027 PO2차전_삼성vs기아 스나이퍼~ 최형우! #삼성라이온즈 #최형우 #tbc #김대진 #",
+  "published_at": "2026-10-28T04:14:22Z",
+  "collected_at": "2026-10-28T07:38:45.564Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 2203,
+    "likes": 83,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 69,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

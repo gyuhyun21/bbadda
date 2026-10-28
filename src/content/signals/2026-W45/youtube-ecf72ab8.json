@@ -1,0 +1,28 @@
+{
+  "id": "youtube-ecf72ab8",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc",
+    "lotte"
+  ],
+  "source_type": "youtube",
+  "source_name": "오늘의 KBO",
+  "url": "https://www.youtube.com/watch?v=rEL8R2Jbykw",
+  "title": "손아섭 NC 복귀, 연봉 5천만 원…롯데는 왜 늦었나? #손아섭 #ncdinos #kbo",
+  "published_at": "2026-10-28T04:11:11Z",
+  "collected_at": "2026-10-28T07:38:45.564Z",
+  "summary_ko": "팬 채널이 손아섭의 NC 복귀와 연봉 5천만 원을 전하며 롯데가 왜 늦었는지를 짚었다.",
+  "metrics": {
+    "views": 1079,
+    "likes": 10,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 43,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "brief_ko": "손아섭 NC행, 롯데는 왜 늦었나"
+}

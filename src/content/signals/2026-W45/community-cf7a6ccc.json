@@ -1,0 +1,24 @@
+{
+  "id": "community-cf7a6ccc",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 마법사의 보물상자",
+  "url": "https://blog.naver.com/chj23/224456770489",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/3uX2aIow11a",
+  "title": "펜스 충돌 파울플라이 캐치 김도영 플레이오프, \"홈런인 줄 알고 안 뛰었다\" 왜?",
+  "published_at": "2026-10-28T16:14:00.000+09:00",
+  "collected_at": "2026-10-28T07:38:45.564Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

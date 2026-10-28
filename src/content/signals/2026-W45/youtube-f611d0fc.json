@@ -1,0 +1,28 @@
+{
+  "id": "youtube-f611d0fc",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "NC 다이노스",
+  "url": "https://www.youtube.com/watch?v=yKNLF5WTlr0",
+  "title": "WELCOME BACK 다시, 손아섭 | 손아섭 엔터뷰",
+  "published_at": "2026-10-28T01:50:04Z",
+  "collected_at": "2026-10-28T07:38:45.564Z",
+  "summary_ko": "NC 다이노스 공식 채널이 복귀한 손아섭의 인터뷰 영상 'WELCOME BACK 다시, 손아섭'을 올렸다.",
+  "metrics": {
+    "views": 96343,
+    "likes": 2497,
+    "comments": 536
+  },
+  "scores": {
+    "hot": 83,
+    "relevance": 50
+  },
+  "sentiment": "neutral",
+  "brief_ko": "NC 공식 '다시, 손아섭' 영상"
+}

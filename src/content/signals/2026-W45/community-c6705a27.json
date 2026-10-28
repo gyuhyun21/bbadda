@@ -1,0 +1,24 @@
+{
+  "id": "community-c6705a27",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "엠엘비파크",
+  "url": "https://mlbpark.donga.com/mp/b.php?id=202610250119637096&p=1&b=kbotown&m=view&user=jym0112&site=donga.com",
+  "title": "[KIA] 삼성라이온즈 VS 기아타이거즈",
+  "published_at": "2026-10-24T15:00:00.000Z",
+  "collected_at": "2026-10-28T07:38:45.564Z",
+  "summary_ko": "",
+  "excerpt": "... KIA. 네일. 삼성 홈. 페덱. 전력 · 포스트시즌 대진 · 삼성[KIA] 삼성라이온즈 VS 기아타이거즈…",
+  "metrics": {},
+  "scores": {
+    "hot": 36,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

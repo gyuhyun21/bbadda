@@ -1,0 +1,24 @@
+{
+  "id": "community-5a64b448",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 영종도 핫플 Bravo, My Life! 영종도 구석구석 여행",
+  "url": "https://blog.naver.com/pepepe99/224455948985",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/1vdRsEh6qN2",
+  "title": "최형우 최고령 홈런 신기록, 42세에 다시 쓴 역사 이전 기록은 누구?",
+  "published_at": "2026-10-28T07:00:00.000+09:00",
+  "collected_at": "2026-10-28T07:38:45.564Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

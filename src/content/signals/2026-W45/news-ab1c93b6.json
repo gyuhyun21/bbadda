@@ -1,0 +1,28 @@
+{
+  "id": "news-ab1c93b6",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE14SXhBSmNCb29OUUR0OVdSdHh0WGZrMW5PZVppSUZOMUM1cGlrTjhhRlBxTzFqOEpCR1gwZmVpTTNIVTlHVlN4ZEVlRXpnSnVTT3k4RU9KbjNqNkJBWURvelJjS1VnLTZkZGpzdUJWYW5MNDJGOFFOVEIybnhudw?oc=5",
+  "title": "내년엔 일본서 뛰나? 선택받은 홀드왕의 진심, \"클러치에서 KIA 김도영 만나면…\" 가을야구 간절하다 [인터뷰]",
+  "published_at": "2026-10-28T02:00:13.000Z",
+  "collected_at": "2026-10-28T07:38:45.564Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPT1JtcldQeUhxaEZvZWk5OUJLZDU5Z2ozaVBwM1FnVFplUlNPd2tTTnJ2NkZBTzRPQlpoNVRPTWRMYnlLM05wN1pjY2lfTWpUbXRDTHdYS1k3a1YyeEhZQkpzN2VyeWQ3djNVWkx0Uzk1cDljWVhvZ2pWOXlTRFMxTXNFNA?oc=5"
+    }
+  ]
+}

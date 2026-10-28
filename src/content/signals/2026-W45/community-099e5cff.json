@@ -1,0 +1,23 @@
+{
+  "id": "community-099e5cff",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 여행에 로그인 (Travel login)",
+  "url": "https://blog.naver.com/kyuniworld/224455944329",
+  "title": "[일상] KBO 야구 순위 ('26년10월27일), 플레이오프2차전",
+  "published_at": "2026-10-27T23:23:00.000+09:00",
+  "collected_at": "2026-10-28T07:38:45.564Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 62,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

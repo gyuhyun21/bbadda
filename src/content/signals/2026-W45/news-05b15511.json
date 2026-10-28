@@ -1,0 +1,24 @@
+{
+  "id": "news-05b15511",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "아시아투데이",
+  "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9lMUVFUHByZjJ5UEhxSGF6b21UekgzeTFKOC12Q1VjNzk2U1JNQU1WcmNrYUZXOWE2bThFN2tvZ1NhZmc0QkdOa2s0WWVzeXFnTGh2TTJZcVBabHA3bG9ZXzBXckNkYm1UcWUzb1Fn?oc=5",
+  "title": "최원태 vs 시라카와… KS행 분수령서 격돌",
+  "published_at": "2026-10-28T07:05:42.000Z",
+  "collected_at": "2026-10-28T07:38:45.564Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "youtube-dc9b6129",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "SBS Sports",
+  "url": "https://www.youtube.com/watch?v=iRallTApDSk",
+  "title": "'최형우 돌아오니 완승' 질문에 최형우 반응? #플레이오프 #삼성라이온즈",
+  "published_at": "2026-10-28T02:18:35Z",
+  "collected_at": "2026-10-28T07:38:45.564Z",
+  "summary_ko": "SBS Sports가 '최형우가 돌아오니 완승'이라는 질문에 최형우가 보인 반응을 영상으로 올렸다.",
+  "metrics": {
+    "views": 2589,
+    "likes": 20,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 46,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "'최형우 돌아오니 완승' 반응"
+}

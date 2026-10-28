@@ -1,0 +1,22 @@
+{
+  "id": "news-c1bd5cc0",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "노컷뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBhOTR5SmUxWjVpRzRTZzhiT3hHNjZfUWc4Y3gzcHZNbVFoUmxPMFN3TW1MVURSN0ZDcVBTNDFGMU40Q2I5bkpKVlRITE1EU2ZYc1E?oc=5",
+  "title": "불방맹이TV \"삼성라이온즈 첫 PO 경기 아쉽다…두 번째 7:3 승리 예상\"",
+  "published_at": "2026-10-27T11:09:25.000Z",
+  "collected_at": "2026-10-28T07:38:45.564Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 61,
+    "relevance": 80
+  },
+  "sentiment": "positive"
+}

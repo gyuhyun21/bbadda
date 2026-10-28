@@ -1,0 +1,29 @@
+{
+  "id": "news-e8b233eb",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://www.sportschosun.com/baseball/2026-10-28/202610270100176160011675",
+  "title": "'임작가' 임경완 드디어 1군으로 → 롯데 메인 투수코치 확정",
+  "published_at": "2026-10-28T00:31:56.000Z",
+  "collected_at": "2026-10-28T07:38:45.564Z",
+  "summary_ko": "롯데가 임경완 코치를 1군 메인 투수코치로 확정했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 81,
+    "relevance": 80
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcGh1T2YtdXliTFRFcDRVUXpVX2lIVkZxZXYxWXZDQW9YUGN0ZkU4WnlfNjhYVGFrV0drT25SV01yY0NBS3F0QUFieldTWVdzbld6Y3Bnc3hKMlhQUVRKTWU4Z3pDQ3BVWF9wMXZMNjlZT0Jkb2NMSEdFMkh3VUt3LXhISQ?oc=5"
+    }
+  ],
+  "brief_ko": "임경완, 메인 투수코치로 1군행"
+}

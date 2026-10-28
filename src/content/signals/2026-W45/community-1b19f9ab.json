@@ -1,0 +1,23 @@
+{
+  "id": "community-1b19f9ab",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 포도잼",
+  "url": "https://blog.naver.com/shye3030/224456288918",
+  "title": "돈 많은 다저스도 조심해야 한다…미국 매체가 말린 영입 3가지",
+  "published_at": "2026-10-28T09:43:00.000+09:00",
+  "collected_at": "2026-10-28T07:38:45.564Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

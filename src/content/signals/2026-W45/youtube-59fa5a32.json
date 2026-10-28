@@ -1,0 +1,28 @@
+{
+  "id": "youtube-59fa5a32",
+  "issue": "2026-W45",
+  "module": "league",
+  "teams": [
+    "samsung"
+  ],
+  "team": "samsung",
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=4G8yXrcXmg0",
+  "title": "2026 플레이오프 1·2차전 in 대구삼성라이온즈파크🍂",
+  "published_at": "2026-10-28T02:32:59Z",
+  "collected_at": "2026-10-28T07:38:45.564Z",
+  "summary_ko": "KBO 공식 채널이 대구삼성라이온즈파크에서 열린 플레이오프 1·2차전 영상을 올렸다.",
+  "metrics": {
+    "views": 2290,
+    "likes": 113,
+    "comments": 4
+  },
+  "scores": {
+    "hot": 79,
+    "relevance": 80
+  },
+  "sentiment": "neutral",
+  "brief_ko": "대구에서 열린 PO 1·2차전"
+}

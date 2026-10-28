@@ -1,0 +1,23 @@
+{
+  "id": "news-0e54483f",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "조선일보",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOR2tLRVJGTDdNd1dtU0ZLcHJUUjlrTXg5djUwWnlybEdjSDZGOEVLY041YmhuWjd5T0gxc2txVFVwYmFHV1VqZ0MwdjIxLWJ5WTNUS1c4NDdacVZXcGdfTHVtVEFsSDN0aW9zZ0ZNTjRNNmlUX2hHaVZDWjFKTFoyZHJsSQ?oc=5",
+  "title": "\"KIA-삼성 끝까지 가라!\" 1위팀은 한마음, 바람 통했다! 일단 4차전까진 확정…사령탑이 꼽은 핵심 포인트 [수원포커스]",
+  "published_at": "2026-10-28T04:10:00.000Z",
+  "collected_at": "2026-10-28T07:38:45.564Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 91,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

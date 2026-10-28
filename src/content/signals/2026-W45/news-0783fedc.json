@@ -1,0 +1,23 @@
+{
+  "id": "news-0783fedc",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스1",
+  "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5TNzhoSllYNVZwMERlMFVaMTRjak13N2dGLWNsRTRZeGhkQnR4QTNrNWpsdjExemg5eW44ajhGUzNlMUMxc2c1R0NtWkduLUZBemZDcnlhNU5YbVVBZDEw?oc=5",
+  "title": "\"야구팬 발길 충장로로\"…전남광주 동구에 KIA 팀스토어 유치 제안",
+  "published_at": "2026-10-28T05:25:55.000Z",
+  "collected_at": "2026-10-28T07:38:45.564Z",
+  "summary_ko": "전남광주 동구에 KIA 팀스토어를 유치하자는 제안이 나왔다. 야구팬 발길을 충장로로 끌어오자는 취지다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "충장로에 KIA 팀스토어 제안"
+}

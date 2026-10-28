@@ -1,0 +1,33 @@
+{
+  "id": "news-84a4c0af",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "news",
+  "announcement": true,
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1IQ1pMWEZqZ05xaFIyRmo1RkM2WUJ4UjRqcUhZZ0N2UmR5MDRYVzRsS0p2RllYLVFIcGE1bzZ2RklsY0FfQWxyRzVsamM3MEhRQ2xPdXIzb1pYbVpodkF5a0R6UWJYQlJDTzgtOWowY9IBb0FVX3lxTE1IQ1pMWEZqZ05xaFIyRmo1RkM2WUJ4UjRqcUhZZ0N2UmR5MDRYVzRsS0p2RllYLVFIcGE1bzZ2RklsY0FfQWxyRzVsamM3MEhRQ2xPdXIzb1pYbVpodkF5a0R6UWJYQlJDTzgtOWowYw?oc=5",
+  "title": "'손어게인'은 NC였다!...2년 만에 엔팍 복귀, 연봉 5000만원 [공식발표]",
+  "published_at": "2026-10-28T00:37:00.000Z",
+  "collected_at": "2026-10-28T07:38:45.564Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 89,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "미주중앙일보",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE13VTNHQzZya0F4MEVTaWdPZWt5Q3RNdVhGOWRidmp3ZUl0aWZPRG05S2lmOV9MY3pYTTN2RDUzVnM3d1ZqRXI0S2NaVkd4ajB6N3pCbFJmbEJpWTYxb3lCZEhB?oc=5"
+    },
+    {
+      "source_name": "Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQU1ZsbWhDcVE2ZFF6amRBYnl2ZDV3eVdVbDlNc1pTMGhuTzFUZWh6VXVhVElmTTBzSlQ1X0s0SE1IY01Ec0d3WXd1cEpwRDVPdlh3d2hrSldBYTJubVRJSEZId1BqM3piVzRZZlp4NGdSQVpESnZTNkZQdDZKazBQdnF3b9IBlwFBVV95cUxORGNfdVBQWVVRQ3JpcktCb0xLdFhKTzZ0VVRWQ1pyemZoQmdNQXNKZklwck5yZDY2aV95YUVwRUN3bGFDaGNpR2NmTlhzZUlJQ29DbW1VMEcxa09DcnpxaTlmamNGLXkweEY0bjQ5akpsZGhCN0daTVBxUVE1THVtdFhMZHltVkc1T2pUNTZCRXNRZDg4Z0Vr?oc=5"
+    }
+  ]
+}

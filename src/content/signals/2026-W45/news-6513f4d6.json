@@ -1,0 +1,29 @@
+{
+  "id": "news-6513f4d6",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스타뉴스",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBFRlFGbk5pMlZHbFpCX0Fsd0lYNjZMcGFxLTAyQkFGVTYwX1dIM195blFJT2J4eEhpa0RYY0hNVHJMTEt5MTY5SjgzVlRqd2tkMGFhNFdaRWF5aXgyRjN2QkZHdk1wc19YLVpvZlc5V3VJTkhHdEE?oc=5",
+  "title": "오승환도 아쉽다 \"아마 투수력 약해져, 총재님도 공감→저부터 체계적으로 공부하겠다\"",
+  "published_at": "2026-10-28T00:01:00.000Z",
+  "collected_at": "2026-10-28T07:38:45.564Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 81,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9jZFI4V2xvQjl4SU5PN2s2bnl6Vmx5dzEwQWg5YXlzbTZBelExQVdHMEU2ckhIYjdnUlVxV2lILWUxT1pSMWdNN01yZWFkaE1BSXRTUEhhM2ZjLXdGcjJNM0tuaVRQZW5BRWfSAW9BVV95cUxPSHpoYVM5ZU5oMDktVUcwbEwwMVNja2NWYTNuMUxKWVozMTRiSlVCUzRSN09WY3RGSHVVMjh4VS1ZbU9FWGEySEFwTmxUWlkxMWFianJkaUREaWJ0bHdDV1JWRGgtREdSVGxCZ1lrLVk?oc=5"
+    }
+  ]
+}

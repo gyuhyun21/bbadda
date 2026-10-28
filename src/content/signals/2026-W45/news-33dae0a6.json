@@ -1,0 +1,23 @@
+{
+  "id": "news-33dae0a6",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "뉴스1",
+  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9wWmFlYWxZWG1MZ3YteGdsYTRncnVXSE00WFI2ZmZmekVTcGZZQmJOS09ncG9yWUpxMHFLcGdMVEhQOU4ybGl4SGM5eE9EX21WMVVxNEY0VQ?oc=5",
+  "title": "대만 '금의환향' 왕옌청 \"내년 160이닝, 평균자책점 3.00 목표\"",
+  "published_at": "2026-10-28T00:41:48.000Z",
+  "collected_at": "2026-10-28T07:38:45.564Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

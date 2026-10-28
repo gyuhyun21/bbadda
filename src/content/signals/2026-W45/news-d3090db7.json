@@ -1,0 +1,30 @@
+{
+  "id": "news-d3090db7",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스타뉴스",
+  "url": "https://www.starnewskorea.com/sports/2026/10/28/2026102713494472522",
+  "title": "'최형우 무시하지마' 이범호도 인정한 무게감, \"홈런보다 호수비가 100배 기뻐\"... 3차전도 '좌형우 출격' [PO2]",
+  "published_at": "2026-10-28T02:01:00.000Z",
+  "collected_at": "2026-10-28T07:38:45.564Z",
+  "summary_ko": "이범호 KIA 감독도 최형우의 무게감을 인정했다. 삼성은 3차전에도 최형우를 내세운다.",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9mVzJpZGpuempQTUQxTzJHNl83aFB0NjZTQjhxakYzZTk1b3BYSnNRVjhiSHp0a0xKcnhJenNXUVVrdllGbXpSQ2RUNFFuNWo1SG1RemRLY2Z3NWZFX2t4anZpa2dmRTNvSzQ2WXcySdIBb0FVX3lxTE9mVzJpZGpuempQTUQxTzJHNl83aFB0NjZTQjhxakYzZTk1b3BYSnNRVjhiSHp0a0xKcnhJenNXUVVrdllGbXpSQ2RUNFFuNWo1SG1RemRLY2Z3NWZFX2t4anZpa2dmRTNvSzQ2WXcySQ?oc=5"
+    }
+  ],
+  "brief_ko": "최형우, 3차전도 출격"
+}

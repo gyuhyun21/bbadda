@@ -1,0 +1,30 @@
+{
+  "id": "news-c4d99e68",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "미주중앙일보",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1qRUtZUnpIbDZnVXZqMHkxVmhud3l5WmNocDJoZ0dibW55MWZwQ1NMTm9vZHVvTDA1OFlsYXYtZk5JaDJRbHpuaEktRWZfQVFYWW1ucWQ5TDN5cWdQZC01S1hR?oc=5",
+  "title": "'불펜 믿을맨이 없나' 5점 리드였는데, 왜 9회 원태인을 기용했나…4차전 선발 가능할까",
+  "published_at": "2026-10-28T03:42:00.000Z",
+  "collected_at": "2026-10-28T07:38:45.564Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 83,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPYm9KMUxUSUtiOXNMRXNzbF9GUEFfRGp5anctN2ctOFpsX2NhU2tnZ0xnUkRxTldHbklsYmhhRmRYblNReEcxRVp0bWlUbUZkMlFuN0JZWUZXMlhhZ3NzNF9abmx1ekdfNTR1NWVWbjM0Y05aYjdiMmlNTnlOT3o5Tjc1bw?oc=5"
+    }
+  ]
+}

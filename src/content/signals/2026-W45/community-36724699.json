@@ -1,0 +1,30 @@
+{
+  "id": "community-36724699",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg",
+    "hanwha"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 블로갓의 스포츠월드",
+  "url": "https://blog.naver.com/blog-god/224456710444",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/GZEg6TX96Sd",
+  "title": "“김광삼 내주고 손혁 데려온다?” LG·한화 코치와 단장 맞트레이드설, 염경엽 인맥까지 주목",
+  "published_at": "2026-10-28T15:27:00.000+09:00",
+  "collected_at": "2026-10-28T07:38:45.564Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 84,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "마니아타임즈",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB4OV9KWklhb19aaS1VSkhsU1drRjZxc1JJbU4tM1ZrNXY2UjZDOElfUkJhTUY5UkNUbnVDeFBWTjhISG9aSEhMUkFIajU1aV9JNng5VkdCWTlfUUtDb1RXUno5a250UERpWV9Yc01kMnIzeU5zZHlwQTZlcw?oc=5"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "youtube-90c975fd",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "youtube",
+  "source_name": "야구야구",
+  "url": "https://www.youtube.com/watch?v=8Wv6dh_AEDo",
+  "title": "NC다이노스 베테랑 외야수 손아섭 영입",
+  "published_at": "2026-10-28T07:30:52Z",
+  "collected_at": "2026-10-28T07:38:45.564Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1052,
+    "likes": 30,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 58,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "뉴스핌",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1GTHJoa2dxUlItYi1pbEdCZU5QYk5BLUVrTGg5bV9yNVZnZFh6ZE9mVzlseVNxaEc2RGUzekZldW11a3BhTkZ0Y2EtMUhRUEc0WEwxV3htSlg1cUNl?oc=5"
+    }
+  ]
+}

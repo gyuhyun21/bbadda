@@ -1,0 +1,23 @@
+{
+  "id": "news-84c58810",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "동아일보",
+  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBFYTZIMXdBb01mNGpvUy1iTC1naGFia0U4X0lWcXdEWnlsMnlyaE56VVlxOXFlTkItRU9TQ0Q1OGw2RHRvUW1aendfQjlGR1FiYXh5eHdvYkszbmJSLTJsbkNFaUNuOHd1MVdCcmxQVU9wZU1P0gFmQVVfeXFMUGdYOEdRcUYzalczZmNwV05yYkMtczZnTF9mbVk3czdEeGEzeDJvQ0c2NXJZWWdlMXRzYWpzRkhnUHljOVlwZnlsUHlPSXh1eGNVVllDZmNONU1HWHpTTF9Vd21DQk93?oc=5",
+  "title": "도나스 트리오 vs 100타점 트리오…맹수들의 화끈한 화력 싸움 돼가는 PO",
+  "published_at": "2026-10-28T07:14:33.000Z",
+  "collected_at": "2026-10-28T07:38:45.564Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

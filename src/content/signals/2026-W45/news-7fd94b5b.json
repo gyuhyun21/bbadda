@@ -1,0 +1,24 @@
+{
+  "id": "news-7fd94b5b",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "news",
+  "announcement": true,
+  "source_name": "일간스포츠",
+  "url": "https://isplus.com/article/view/isp202610280052",
+  "title": "[오피셜] 손아섭 15개월 만에 다시 NC행, 연봉 5000만원...최다안타 1위 탈환 도전 이어간다",
+  "published_at": "2026-10-28T00:54:00.000Z",
+  "collected_at": "2026-10-28T07:38:45.564Z",
+  "summary_ko": "손아섭이 연봉 5000만 원에 15개월 만에 NC로 돌아온다. 최다안타 1위 탈환에 다시 도전한다.",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "brief_ko": "손아섭, 15개월 만에 NC 복귀"
+}

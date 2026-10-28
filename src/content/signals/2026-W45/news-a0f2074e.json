@@ -1,0 +1,23 @@
+{
+  "id": "news-a0f2074e",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠동아",
+  "url": "https://sports.donga.com/sports/article/all/20261028/134925128/1",
+  "title": "‘PS만 23경기’ 삼성 리드오프 김지찬, 이제 가을 향기가 익숙하다…“더 과감하게, 자신있게”",
+  "published_at": "2026-10-28T06:14:35.000Z",
+  "collected_at": "2026-10-28T07:38:45.564Z",
+  "summary_ko": "삼성 리드오프 김지찬이 포스트시즌만 23경기째라며 더 과감하게 하겠다고 말했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 80
+  },
+  "sentiment": "neutral",
+  "brief_ko": "김지찬, 가을 향기가 익숙하다"
+}
