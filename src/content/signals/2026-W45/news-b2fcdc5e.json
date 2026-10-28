@@ -1,0 +1,24 @@
+{
+  "id": "news-b2fcdc5e",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "hanwha",
+  "teams": [
+    "hanwha",
+    "kiwoom"
+  ],
+  "source_type": "news",
+  "source_name": "SPOTV NEWS",
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE05ZnZFamRfaUJtOEc0QURHMHE1a0NJR1UyNnpacFZRUkNOam42b0duTGFGaXZPaWxIejJuYVQ4OTdhXzBBbGQwdVptWnhNbHJpTzV1blBzVEhZWkRqQjNrNWluZnRlSTRhN2hlQmJrR3A?oc=5",
+  "title": "'무쇠팔의 유산' 최동원 야구교실 출신 2명 프로행 결실, 한화-키움서 뛴다",
+  "published_at": "2026-10-28T12:08:50.000Z",
+  "collected_at": "2026-10-28T13:41:00.884Z",
+  "summary_ko": "최동원 야구교실 출신 선수 2명이 프로에 입단해 한화와 키움에서 뛴다고 SPOTV NEWS가 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "최동원 야구교실 출신 2명 프로행"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "news-2bd4a592",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "대로미디어",
+  "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5xekg0N2xNY0M2VlZFWG40N0Fscldad2ZYWjRsanZaOE4yRElHMEhfZEo3WFZYSU1OUzBGZTM3LV9ZQ1k4MUlYYkZaOTd1WU4tcFNWa2s5eHJVUnlTYlpaQm9MTXEwM2FUZG8w?oc=5",
+  "title": "광산구, KIA 타이거즈 플레이오프 2차전 시민 응원전 개최",
+  "published_at": "2026-10-28T08:03:53.000Z",
+  "collected_at": "2026-10-28T13:41:00.884Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

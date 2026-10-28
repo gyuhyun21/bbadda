@@ -1,0 +1,30 @@
+{
+  "id": "news-c1d85f9c",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "announcement": true,
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBIS1VxaVZ1VEhwUnhLaUtJQ1JQeENyTUN0YVVyVy05T3g2X2J0VDRfMmc1Qy1XMlM4dHFXa3pjbzVMQmFzd3d4OERxV3FGNE1lOXo4emk4SkVuRHlqWnBOTXZKTWRXVF9ibnlna3BEUdIBb0FVX3lxTFBIS1VxaVZ1VEhwUnhLaUtJQ1JQeENyTUN0YVVyVy05T3g2X2J0VDRfMmc1Qy1XMlM4dHFXa3pjbzVMQmFzd3d4OERxV3FGNE1lOXo4emk4SkVuRHlqWnBOTXZKTWRXVF9ibnlna3BEUQ?oc=5",
+  "title": "'제2의 구창모' 기대했는데, '전체 1순위' 좌완 정구범, 1군 6G 뛰고 은퇴 선언...강태경 등 5명 방출 [공식발표]",
+  "published_at": "2026-10-28T07:37:00.000Z",
+  "collected_at": "2026-10-28T13:41:00.884Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "negative",
+  "also_in": [
+    {
+      "source_name": "OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1ic2wzcjQteGJaSjhEUEVFbi1USXhZNWJlRE1LQ2lkRUlVOXZYTEx0QXlNa1h6THd2eFZSWkVaUHBSMW54cEkzYkxkMTF2ODVNcWxXVA?oc=5"
+    }
+  ]
+}

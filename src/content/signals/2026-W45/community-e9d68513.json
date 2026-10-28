@@ -1,0 +1,30 @@
+{
+  "id": "community-e9d68513",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 해용님의 블로그",
+  "url": "https://livestoryforge.com/16485",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/Im3wDUOLd5r",
+  "title": "조성환 코치, 최원호 감독 보좌 APBC 수석코치 합류…이대형 위원도 대표팀 합류 확정",
+  "published_at": "2026-10-28T20:05:48.000+09:00",
+  "collected_at": "2026-10-28T13:41:00.884Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "뉴스핌",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBLQzhjZlRUcWJhbVVlN2hDeWF0a01ZMGYwR05lTFdLUEF6aG1rZ1BHSzFuM0NDZm81VVBSUTVLNFNrNE5RVE5xS3FJN3VvZG56RHdvSkNLb0o5S2RS?oc=5"
+    }
+  ]
+}

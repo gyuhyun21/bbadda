@@ -1,0 +1,23 @@
+{
+  "id": "community-1c8fff69",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 지나의 리뷰",
+  "url": "https://blog.naver.com/volcamalca/224456810851",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/BcCJNGzxIw9",
+  "title": "허문회 롯데 수석코치 복귀, 2021년 경질 이유 프로필 나이",
+  "published_at": "2026-10-28T16:47:00.000+09:00",
+  "collected_at": "2026-10-28T13:41:00.884Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

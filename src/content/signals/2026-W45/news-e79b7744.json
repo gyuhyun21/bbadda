@@ -1,0 +1,24 @@
+{
+  "id": "news-e79b7744",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "lotte",
+  "teams": [
+    "lotte",
+    "hanwha"
+  ],
+  "source_type": "news",
+  "announcement": true,
+  "source_name": "조선일보",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPeDhpZTVubnN1WC01bUpMeVVPelRiUW1LeWdzZVNhUFBrWFNIeXhGV1hSLXNqdWk3WGw0Zy04X0hXNl9SYlM0clY5aTQyQnE2OWx2QWg5MS1ZU1Q1Y0xKRHZfVXFxQmp5ellYX2R4R3ZTLVdPVVplRG1XN0duUl9jUm5OZw?oc=5",
+  "title": "[공식발표] 롯데 허문회 수석, 왕의 귀환 → 2군 감독에 한화 출신 박승민",
+  "published_at": "2026-10-28T07:47:00.000Z",
+  "collected_at": "2026-10-28T13:41:00.884Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

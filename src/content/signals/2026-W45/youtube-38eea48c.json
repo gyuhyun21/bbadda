@@ -1,0 +1,25 @@
+{
+  "id": "youtube-38eea48c",
+  "issue": "2026-W45",
+  "module": "league",
+  "teams": [],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=uxJyOyoAck8",
+  "title": "멜버른 에이시스 선수들의 울산 자연 탐방기🐦🔭 | 2026 울산-KBO Fall League",
+  "published_at": "2026-10-28T02:39:52Z",
+  "collected_at": "2026-10-28T13:41:00.884Z",
+  "summary_ko": "KBO 공식 채널이 울산-KBO Fall League에 참가한 멜버른 에이시스 선수들의 울산 자연 탐방 영상을 올렸다.",
+  "metrics": {
+    "views": 6110,
+    "likes": 21,
+    "comments": 4
+  },
+  "scores": {
+    "hot": 47,
+    "relevance": 30
+  },
+  "sentiment": "neutral",
+  "brief_ko": "멜버른 선수들의 울산 탐방"
+}

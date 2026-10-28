@@ -1,0 +1,22 @@
+{
+  "id": "news-c0cab351",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "브릿지경제",
+  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB0cTlBTG1icHRPUE02bWNPQUNtbVNuUWd5TUdoTEd4OE42aUhVcmJZUS1wYXZqcVhlcElXUklET2FFa1Z4T1pmZkVtTTVXaENqR3dTNU1taUMwZw?oc=5",
+  "title": "야구 열기가 도시 경쟁력으로…전남광주, KIA 타이거즈 V13 만들기 총력 지원",
+  "published_at": "2026-10-28T06:08:00.000Z",
+  "collected_at": "2026-10-28T13:41:00.884Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

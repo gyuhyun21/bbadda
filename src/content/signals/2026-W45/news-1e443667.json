@@ -1,0 +1,22 @@
+{
+  "id": "news-1e443667",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "뉴시스",
+  "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBBN0wweDh6c1NMNTBLQVBHLUVLVDhsS2txOFpadVM1TFNJZVo4YmtndTFyTXpxTFV0QWo4NXlIb0FNSmdBX25CYTlUcXR3cURrc3A3eUxES1ZHRHNDY3BhU0oxWm93eV9YZ3lUTDJFS2dQN1d1YVdIRNIBeEFVX3lxTFBBN0wweDh6c1NMNTBLQVBHLUVLVDhsS2txOFpadVM1TFNJZVo4YmtndTFyTXpxTFV0QWo4NXlIb0FNSmdBX25CYTlUcXR3cURrc3A3eUxES1ZHRHNDY3BhU0oxWm93eV9YZ3lUTDJFS2dQN1d1YVdIRA?oc=5",
+  "title": "'환상 보살·쐐기포' 공수 완벽 삼성 최형우 \"호수비가 100배 더 좋아요!\"(종합)[PO]",
+  "published_at": "2026-10-27T14:12:05.000Z",
+  "collected_at": "2026-10-28T13:41:00.884Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 60,
+    "relevance": 80
+  },
+  "sentiment": "neutral"
+}

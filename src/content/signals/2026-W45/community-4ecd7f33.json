@@ -1,0 +1,25 @@
+{
+  "id": "community-4ecd7f33",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "community",
+  "source_name": "레딧 r/KBO",
+  "url": "https://www.reddit.com/r/KBO/comments/1xhf82g/nc_dinos_sign_son_ahseop_%EC%86%90%EC%95%84%EC%84%AD/",
+  "title": "NC Dinos sign Son Ah-seop (손아섭)",
+  "published_at": "2026-10-28T04:41:00.884Z",
+  "collected_at": "2026-10-28T13:41:00.884Z",
+  "summary_ko": "레딧 r/KBO에 NC가 손아섭과 계약했다는 소식이 올라왔다. 글에는 롯데가 보내 주지 않을 것이라는 한국 기사가 있었다는 댓글도 있다.",
+  "excerpt": "... There was a Korean article saying that Lotte wouldn't let him go to his…",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 50
+  },
+  "sentiment": "neutral",
+  "brief_ko": "레딧, 손아섭 NC 계약 화제",
+  "title_ko": "NC 다이노스, 손아섭 영입"
+}

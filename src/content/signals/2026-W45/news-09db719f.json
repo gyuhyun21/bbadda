@@ -1,0 +1,22 @@
+{
+  "id": "news-09db719f",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "아시아투데이",
+  "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5kcVRYT3JKdi1heW9EcUxhbzh2VFFHZS0wWWZBU3RLWm9GQlYyakZhQ3Fkcm93Yi02YW5lSm1fY2gtckUxTVBPNUgzTGxjT0xBamhqcHZVMnpYc01Dclp5T3lWQ3Z5WmpRazBQLVFn?oc=5",
+  "title": "삼성, 최형우의 공수 맹활약 앞세워 PO 반격 성공",
+  "published_at": "2026-10-27T13:41:13.000Z",
+  "collected_at": "2026-10-28T13:41:00.884Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 59,
+    "relevance": 80
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "youtube-11c7e54f",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "정병야구",
+  "url": "https://www.youtube.com/watch?v=E7hlnMiK_hU",
+  "title": "그래도 공보단 빠른 강민호 #kbo #야구 #프로야구 #삼성라이온즈 #kt위즈 #강민호",
+  "published_at": "2026-10-28T09:00:01Z",
+  "collected_at": "2026-10-28T13:41:00.884Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 19559,
+    "likes": 95,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 54,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

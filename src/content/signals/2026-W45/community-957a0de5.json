@@ -1,0 +1,29 @@
+{
+  "id": "community-957a0de5",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 Ryan's Blog",
+  "url": "https://ryan.tistory.com/1118",
+  "title": "PO 3차전 분수령… 삼성 최원태 vs KIA 시라카와, 광주서 주도권 다툼",
+  "published_at": "2026-10-28T19:55:37.000+09:00",
+  "collected_at": "2026-10-28T13:41:00.884Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 83,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "대구신문",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBmZWdCQ0VfX2tGQXp0bkZTaUVxNzkzUnBYZEYzX2Y0VFh2ZFZvaFJEUlRVS1A3SHM5UlotWU5UOGhwaHp6LXJnVmhiUkRtZmRZNmtLa3ZieXBZMEViNUIzTUVLZlRyZHJ6WHJr?oc=5"
+    }
+  ]
+}

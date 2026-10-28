@@ -1,0 +1,26 @@
+{
+  "id": "youtube-8065835c",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "youtube",
+  "source_name": "JTBC News",
+  "url": "https://www.youtube.com/watch?v=DP5d6ORMseQ",
+  "title": "몸값 64억→5천만원으로…손아섭, 방출 아픔 딛고 NC 복귀 / JTBC 뉴스룸",
+  "published_at": "2026-10-28T12:24:22Z",
+  "collected_at": "2026-10-28T13:41:00.884Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 909,
+    "likes": 16,
+    "comments": 12
+  },
+  "scores": {
+    "hot": 59,
+    "relevance": 70
+  },
+  "sentiment": "mixed"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "youtube-c5021867",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "Giants TV",
+  "url": "https://www.youtube.com/watch?v=hduQDIqv7x0",
+  "title": "루키데이 비하인드 ep.1 | 두근두근 첫 인사 🙌✨",
+  "published_at": "2026-10-28T03:00:29Z",
+  "collected_at": "2026-10-28T13:41:00.884Z",
+  "summary_ko": "롯데 공식 채널이 신인 루키데이 비하인드 1편을 공개했다. 신인들의 첫 인사를 담았다.",
+  "metrics": {
+    "views": 73726,
+    "likes": 1318,
+    "comments": 154
+  },
+  "scores": {
+    "hot": 72,
+    "relevance": 50
+  },
+  "sentiment": "neutral",
+  "brief_ko": "루키데이 비하인드 1편"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "community-c6f923d4",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 혜택 놀거리 생활정보 길잡이",
+  "url": "https://blog.naver.com/bokjinavigator/224456562968",
+  "title": "오늘의 이슈 10선｜10월 28일, GDP 깜짝 성장·가을야구·대법원장 국정조사",
+  "published_at": "2026-10-28T13:21:00.000+09:00",
+  "collected_at": "2026-10-28T13:41:00.884Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "news-2444bea6",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "전북일보 인터넷신문",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA1WU5RQjRVek5jZG9UU1VoQjJWMTdPelFBTlV6MTA2MXdLRUZjSkNYZ3MwcjI4WEpOZWtzQXlHQll1SS10TFBVNnFXREsweUlpdHp4SdIBWEFVX3lxTE5NaHZBb2VCUlVDaWxBRlBnRmU0WnBuR1REQkUxYUw3aFBwbjZWLWU4aWNEd1E2SkI4R3pUNnVqYzVmYllZZHMxV25VMlowT3ZTM2xQdmN1c2I?oc=5",
+  "title": "[현장] 전북 연고팀 없어도 ‘가을 야구’는 즐거워⋯전주 영화관·호프집 들썩",
+  "published_at": "2026-10-28T07:12:03.000Z",
+  "collected_at": "2026-10-28T13:41:00.884Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "news-53ee9278",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "lg",
+  "teams": [
+    "lg",
+    "hanwha",
+    "ssg",
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "뉴시스",
+  "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE94UlJsV2k5VVgtTWw1MUgydW9KRW1aUmxLa1FxZC01SHktUEtvenJ1Z1VtbWRQaFNMUHNweWNvTGlmR2dfZUlGVFNYVTFETVNQSEF4b0gybE42eUZ0M25MeUhYVVBRQlFzNTdpQjJ3SjJ3c0NMd21uetIBeEFVX3lxTE94UlJsV2k5VVgtTWw1MUgydW9KRW1aUmxLa1FxZC01SHktUEtvenJ1Z1VtbWRQaFNMUHNweWNvTGlmR2dfZUlGVFNYVTFETVNQSEF4b0gybE42eUZ0M25MeUhYVVBRQlFzNTdpQjJ3SjJ3c0NMd21ueg?oc=5",
+  "title": "아시아야구챔피언십 한국 코칭스태프 확정…조성환 수석코치 합류",
+  "published_at": "2026-10-28T08:40:53.000Z",
+  "collected_at": "2026-10-28T13:41:00.884Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 98,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "스포츠동아",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0xRGdVMkQwdGFNZUxITDF3d1JsNnpHLXpGdDFWYkNnTEtJeEVOdjA2NEMybndkVktmRnZrOEtvTXUxSFYxbm9LSEMwR0lHZC1zcnVRM1NCVm1OZEgwdGRQYzZoWEFqWmNsb29hOVpRMXh1dw?oc=5"
+    }
+  ]
+}

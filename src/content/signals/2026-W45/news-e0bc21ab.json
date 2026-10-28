@@ -1,0 +1,23 @@
+{
+  "id": "news-e0bc21ab",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "뉴시안",
+  "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5UUWpFbTBfOE9pTk5rdW93NDg3OTFaZkdDUDV2a0hGeXV5Vm0wM3YxNWVnN1Z6b0RHSlliMEN4UE9xVGtoWVJIZXNqaThjNG8zNVh3Yzh0eUsxZjlsdXRFWVRqdm1aNFU4QU5UbA?oc=5",
+  "title": "'합계 신장 326cm' 삼성의 최단신 테이블 세터, 한·미·일 야구 역사 새 지평",
+  "published_at": "2026-10-28T01:19:03.000Z",
+  "collected_at": "2026-10-28T13:41:00.884Z",
+  "summary_ko": "삼성의 최단신 테이블 세터 합계 신장이 326cm라며 한·미·일 야구 역사에 새 기록이라고 뉴시안이 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "합계 326cm 삼성 테이블 세터"
+}

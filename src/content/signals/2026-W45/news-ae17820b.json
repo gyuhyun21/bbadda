@@ -1,0 +1,24 @@
+{
+  "id": "news-ae17820b",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "announcement": true,
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBRZ0kyeVBILUNSd2lhZzNpRmpKWDhnRDltbzlFNC1pSjZlWGZ3bXRjUHh1eXM2ekM3ZmZRWUxaRWdoNDVhX1N6MEI4dWQ0WS14Qm53Y2RkTFZ0T0ZJT2UtZ1MxczRFWjFyNTZxNy1JRdIBb0FVX3lxTFBRZ0kyeVBILUNSd2lhZzNpRmpKWDhnRDltbzlFNC1pSjZlWGZ3bXRjUHh1eXM2ekM3ZmZRWUxaRWdoNDVhX1N6MEI4dWQ0WS14Qm53Y2RkTFZ0T0ZJT2UtZ1MxczRFWjFyNTZxNy1JRQ?oc=5",
+  "title": "[오피셜] '7년 동안 6G 등판' 구창모가 되지 못한 정구범, 결국 은퇴 결정 \"어깨 통증 때문에\"",
+  "published_at": "2026-10-28T08:24:07.000Z",
+  "collected_at": "2026-10-28T13:41:00.884Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

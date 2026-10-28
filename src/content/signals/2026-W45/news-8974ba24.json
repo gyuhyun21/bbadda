@@ -1,0 +1,24 @@
+{
+  "id": "news-8974ba24",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "남도일보",
+  "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9TSFhmMm81Qjl6N1dleGc1WjFRZFh0NUhJVHRQdlVidmhlY2lIN2x2X05VSmpSaUpxM2NENE1FcmVDNERjcUZNcGhvUm9LRnBmMG9YSUdvc1B3RG5wTHZrUkNnbllrWDJzWWNxaNIBcEFVX3lxTFBKWUMtN3Z0TF8wdzlhWlh4TWxIc2FyZDJDY3JHTUVVNkZ3X0JKcFBYeXNqTXBtUVV3aWlrTDBMMlBTQlNmbTRwZ2p4bkhmdWhCNHF1UVd0S2hjVlR0Rk1CTlpjMmczRnIyb0hGUFdEYnU?oc=5",
+  "title": "\"V13 가자\"…플레이오프 3차전 앞둔 광주 ‘들썩’",
+  "published_at": "2026-10-28T10:17:14.000Z",
+  "collected_at": "2026-10-28T13:41:00.884Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

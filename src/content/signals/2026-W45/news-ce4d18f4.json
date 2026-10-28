@@ -1,0 +1,29 @@
+{
+  "id": "news-ce4d18f4",
+  "issue": "2026-W45",
+  "module": "league",
+  "teams": [],
+  "source_type": "news",
+  "source_name": "더퍼블릭",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9qeW1wRUxUMENpd2FNbkNHS25RbXdMQU5tUHZrN1A2cWZnaGUyVmJxN2FxWVpDVWxDeFN0ZGxTci1XQldFM2V1VG42b3ZTbVZzazBHOTJxT2pBZ3pCWi0wckRwOURnRWR2ZmJUdTNDWdIBb0FVX3lxTE9qeW1wRUxUMENpd2FNbkNHS25RbXdMQU5tUHZrN1A2cWZnaGUyVmJxN2FxWVpDVWxDeFN0ZGxTci1XQldFM2V1VG42b3ZTbVZzazBHOTJxT2pBZ3pCWi0wckRwOURnRWR2ZmJUdTNDWQ?oc=5",
+  "title": "“한국시리즈에서도 치킨 쏜다”…삼성증권, 수원서 ‘연금 가입했닭’ 이벤트",
+  "published_at": "2026-10-27T14:18:57.000Z",
+  "collected_at": "2026-10-28T13:41:00.884Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 30
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "파이낸셜포스트",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8xSE95U3NablhkZk9QZmV3WkZBd3NqSDVVLXBsNk5zLVdBZzBpd25GT204QlhjN3ZvbzI4Wk5MbENLdG10WnVTYXlmVDlrOGN6U2lYTHFsREVqME51Z2RvNnNZRnV2QTdwalU5cDY3amNnOHdo?oc=5"
+    },
+    {
+      "source_name": "아이뉴스24",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE02MTRjUkxKTDRFTGdFWnVBWG8zVTJpQkVKQTRXNEZwQ0NDRHVRZklwVk9PUzhqNl9xNGJzWnlUdUJLLWRhOVIzcDZGNA?oc=5"
+    }
+  ]
+}

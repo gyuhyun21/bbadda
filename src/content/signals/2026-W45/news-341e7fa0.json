@@ -1,0 +1,23 @@
+{
+  "id": "news-341e7fa0",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "폴리뉴스 Polinews",
+  "url": "https://www.polinews.co.kr/news/articleView.html?idxno=747129",
+  "title": "KIA 한국시리즈 가는 길, 광주도 힘 보탠다…특별 지원은?",
+  "published_at": "2026-10-28T08:46:07.000Z",
+  "collected_at": "2026-10-28T13:41:00.884Z",
+  "summary_ko": "KIA의 한국시리즈 진출을 돕기 위해 광주가 특별 지원에 나선다고 폴리뉴스가 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "광주, 플레이오프 특별 지원"
+}
