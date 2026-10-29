@@ -1,0 +1,20 @@
+# 스토브리그 FA 행선지(첫 화면 히어로, src/components/StoveTracker.astro). 형식: src/lib/stove.ts
+# 매일 갱신 루틴이 수집된 기사·구단 발표로 확인한 것만 채운다(docs/routine.md 4-2, 추론 금지). KBO 사이트에서 가져오지 않는다.
+# players 가 비어 있으면 화면에 나오지 않는다. 끄기: config/site.yaml stove_tracker: false
+#
+# players 한 명 예시(값은 기사 그대로, 출처 URL 필수):
+#   - id: hong-gildong            # 영문 소문자·숫자·하이픈. 투표 id 가 되므로 한 번 정하면 바꾸지 않는다
+#     name: 홍길동
+#     from: lg                    # 원소속 팀 id(config/teams.yaml)
+#     pos: 선발투수
+#     age: 31                     # 기사에 나온 나이만
+#     grade: A                    # FA 등급(KBO 공시 보도)
+#     hot: true                   # 보도가 많은 화제 선수 → 위에 펼쳐 보임
+#     interest:                   # 관심 구단: 기사에 이름이 나온 구단만
+#       - { team: hanwha, sources: [https://...] }
+#     price: { text: "4년 80억~100억", sources: [https://...] }   # 보도된 범위 그대로
+#     signed: { team: hanwha, terms: "4년 최대 90억", date: 2026-11-20, source: https://... }  # 구단 공식 발표·보도
+#     pros: [{ text: "3시즌 연속 150이닝", kind: record, source: https://... }]   # record=기록, report=기사 평가. 40자 이내, 각 2개까지
+#     cons: [{ text: "후반기 구속 하락 지적", kind: report, source: https://... }]
+season: 2027
+players: []

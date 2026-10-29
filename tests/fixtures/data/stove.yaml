@@ -1,0 +1,23 @@
+# 테스트 고정 사본(가짜 선수). 운영 데이터는 data/stove.yaml
+season: 2027
+as_of: 2026-11-20
+players:
+  - id: player-a
+    name: 선수가
+    from: lg
+    pos: 포수
+    signed: { team: samsung, terms: "4년 60억", date: 2026-11-14, source: https://example.com/a }
+  - id: player-b
+    name: 선수나
+    from: kia
+    pos: 외야수
+    hot: true
+    signed: { team: kia, terms: "2년 18억", date: 2026-11-11, source: https://example.com/b }
+  - id: player-c
+    name: 선수다
+    from: lg
+    pos: 선발투수
+    hot: true
+    interest: [{ team: hanwha, sources: [https://example.com/c] }, { team: lotte, sources: [https://example.com/d] }]
+    price: { text: "4년 80억~100억", sources: [https://example.com/e] }
+    pros: [{ text: "3시즌 연속 150이닝", kind: record, source: https://example.com/f }]

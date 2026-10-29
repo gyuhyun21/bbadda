@@ -790,3 +790,76 @@ a.is-fresh::before { content: 'NEW'; display: inline-block; margin-right: 6px; p
 /* 대진 포스터(2026-10-23) */
 .ps-next > .ps-poster { grid-column: 1 / -1; width: 100%; height: auto; aspect-ratio: 16 / 9; object-fit: cover; object-position: 50% 28%; border-radius: 16px; display: block; }
 @media (min-width: 760px) { .ps-next > .ps-poster { aspect-ratio: auto; height: 260px; object-position: 50% 32%; } }
+
+/* ── FA 행선지(StoveTracker, 2026-10-29) */
+.fa-asof { margin: 8px 0 0; font-size: 12px; color: var(--muted); }
+.fa-asof a { color: inherit; }
+.fa-tally { display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; margin: 18px 0 14px; }
+.fa-tally div { background: var(--tile, #fff); border-radius: 16px; padding: 12px 14px; }
+.fa-tally strong { display: block; font-size: 24px; line-height: 1.1; font-variant-numeric: tabular-nums; }
+.fa-tally span { font-size: 12px; color: var(--muted); }
+.fa-filter { display: flex; gap: 8px; overflow-x: auto; padding: 4px 2px 12px; }
+.fa-chip { flex: none; border: 1px solid var(--line); background: var(--tile, #fff); color: var(--ink); font: 600 13px/1 var(--font); padding: 9px 13px; border-radius: 999px; cursor: pointer; }
+.fa-chip[aria-pressed="true"] { border-color: var(--ink); background: var(--ink); color: #fff; }
+.fa-chip[hidden], .fa-card[hidden], .fa-vote[hidden], .fa-vote [hidden] { display: none; }
+.fa-cards { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 16px; }
+.fa-card { background: var(--tile, #fff); border-radius: 22px; padding: 18px; display: flex; flex-direction: column; gap: 10px; min-width: 0; }
+.fa-top { display: flex; gap: 12px; align-items: center; }
+.fa-mark { flex: none; width: 48px; height: 48px; border-radius: 50%; background: var(--team); color: #fff; display: grid; place-items: center; font: 700 14px/1 var(--font); }
+.fa-who { flex: 1; min-width: 0; }
+.fa-who h3 { margin: 0; font-size: 18px; line-height: 1.25; }
+.fa-who p { margin: 2px 0 0; font-size: 13px; color: var(--muted); }
+.fa-grade { flex: none; font: 700 12px/1 var(--font); border: 1.5px solid var(--ink); border-radius: 8px; padding: 5px 7px; }
+.fa-state { display: inline-flex; align-items: center; gap: 6px; font: 600 13px/1 var(--font); }
+.fa-state::before { content: ""; width: 8px; height: 8px; border-radius: 50%; background: #F2A007; }
+.fa-state--moved::before { background: #1F9D55; }
+.fa-state--stayed::before { background: #6E6E73; }
+.fa-signed { background: var(--panel); border-radius: 12px; padding: 10px 12px; font-size: 14px; }
+.fa-src { display: block; font-size: 12px; color: var(--muted); }
+.fa-src a, .fa-pc a { color: inherit; }
+.fa-row { display: grid; grid-template-columns: 62px 1fr; gap: 8px; margin: 0; font-size: 14px; align-items: start; }
+.fa-row dt { font: 600 12px/1.8 var(--font); color: var(--muted); }
+.fa-row dd { margin: 0; min-width: 0; }
+.fa-teams { display: flex; flex-wrap: wrap; gap: 6px; }
+.fa-tm { display: inline-flex; align-items: center; gap: 5px; font: 600 12px/1 var(--font); padding: 6px 9px 6px 6px; border-radius: 999px; background: var(--panel); color: var(--ink); text-decoration: none; }
+.fa-tm i { width: 12px; height: 12px; border-radius: 50%; background: var(--team); }
+.fa-tm em { font-style: normal; font-weight: 500; color: var(--muted); }
+.fa-price { font-weight: 700; font-size: 16px; }
+.fa-tag { font-size: 11px; color: var(--muted); }
+.fa-pc { margin: 0; padding: 0; list-style: none; display: grid; gap: 4px; }
+.fa-pc li { padding-left: 16px; text-indent: -16px; }
+.fa-pc li::before { display: inline-block; width: 16px; text-indent: 0; }
+.fa-p::before { content: "+"; color: #1F9D55; font-weight: 700; }
+.fa-c::before { content: "−"; color: #C4342D; font-weight: 700; }
+.fa-vote { display: grid; gap: 8px; padding-top: 10px; border-top: 1px solid var(--line); }
+.fa-vote-q { margin: 0; font: 700 13px/1.3 var(--font); }
+.fa-vote-q span { font-weight: 500; color: var(--muted); margin-left: 4px; }
+.fa-vote-bar { display: flex; gap: 2px; height: 10px; border-radius: 999px; overflow: hidden; }
+.fa-vote-bar span { flex: 0 1 0; background: var(--team); transition: flex-grow 0.4s ease; }
+@media (prefers-reduced-motion: reduce) { .fa-vote-bar span { transition: none; } }
+.fa-vote-lead { margin: 0; font: 700 13px/1 var(--font); color: var(--team, var(--ink)); }
+.fa-vote-lead:empty { display: none; }
+.fa-vote-btns { display: flex; flex-wrap: wrap; gap: 6px; }
+.fa-vote-btn { height: 30px; padding: 0 12px; border: 0; border-radius: 999px; background: var(--team); color: #fff; font: 700 13px/1 var(--font); cursor: pointer; }
+.fa-vote-btn:hover { filter: brightness(1.1); }
+.fa-vote-btn:disabled { opacity: 0.6; }
+.fa-vote-btn:focus-visible { outline: 2px solid var(--ink); outline-offset: 2px; }
+.fa-more { border-top: 1px solid var(--line); padding-top: 8px; font-size: 13px; }
+.fa-more summary, .fa-rest > summary { cursor: pointer; font-weight: 600; color: var(--accent, var(--ink)); }
+.fa-more ul { margin: 8px 0 0; padding: 0; list-style: none; display: grid; gap: 6px; }
+.fa-more li span { color: var(--muted); font-size: 12px; }
+.fa-more a { color: var(--ink); }
+.fa-rest { margin-top: 16px; }
+.fa-rest > summary { padding: 12px 0; font-size: 14px; }
+.fa-byteam { margin-top: 24px; }
+.fa-byteam h3 { margin: 0 0 10px; font-size: 16px; }
+.fa-tiles { margin: 0; padding: 0; list-style: none; display: grid; grid-template-columns: repeat(5, 1fr); gap: 8px; }
+.fa-tiles li { background: var(--tile, #fff); border-radius: 14px; padding: 10px 6px; text-align: center; font-size: 12px; border-top: 4px solid var(--team); }
+.fa-tiles b { display: block; font-size: 13px; }
+.fa-tiles span { color: var(--muted); }
+@media (max-width: 719px) {
+  .fa-block > .fa-cards { display: flex; overflow-x: auto; scroll-snap-type: x mandatory; padding: 4px 2px 12px; }
+  .fa-block > .fa-cards > .fa-card { flex: 0 0 86%; scroll-snap-align: start; }
+  .fa-tiles { gap: 4px; }
+  .fa-tiles li { padding: 8px 2px; font-size: 11px; }
+}

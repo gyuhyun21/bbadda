@@ -145,11 +145,15 @@
 
 /* 섹션 톤온톤 배경(2026-10-24, config/site.yaml section_tint): 기존 배경과 같은 푸른 회색 계열, 섹션마다 밝기만 번갈아.
    각 섹션이 --soft-bg 를 바꾸면 안쪽 카드·그림자도 같은 톤을 따른다 */
-.layout-soft.tint-sections :is(.ps-block, .front-headline, .team-rail-block, .official-block, .front-fans, .community) { background: var(--soft-bg); border-radius: 36px; padding: 36px 32px 44px; margin: 28px -32px 0; }
+.layout-soft.tint-sections :is(.ps-block, .fa-block, .front-headline, .team-rail-block, .official-block, .front-fans, .community) { background: var(--soft-bg); border-radius: 36px; padding: 36px 32px 44px; margin: 28px -32px 0; }
 .layout-soft.tint-sections .ps-block { --soft-bg: #E2E7EF; --soft-lo: rgba(150, 163, 184, 0.6); }
 .layout-soft.tint-sections .front-headline { --soft-bg: #F5F7FA; --soft-lo: rgba(176, 186, 204, 0.55); }
 .layout-soft.tint-sections .team-rail-block { --soft-bg: #E5EAF1; --soft-lo: rgba(152, 165, 186, 0.6); }
 .layout-soft.tint-sections .official-block { --soft-bg: #DCE2EB; --soft-lo: rgba(140, 154, 178, 0.62); }
 .layout-soft.tint-sections .front-fans { --soft-bg: #F3F5F9; --soft-lo: rgba(176, 186, 204, 0.55); }
 .layout-soft.tint-sections .community { --soft-bg: #E4E8F0; --soft-lo: rgba(150, 163, 184, 0.6); }
-@media (max-width: 719px) { .layout-soft.tint-sections :is(.ps-block, .front-headline, .team-rail-block, .official-block, .front-fans, .community) { margin: 20px -16px 0; padding: 28px 16px 36px; border-radius: 28px; } }
+@media (max-width: 719px) { .layout-soft.tint-sections :is(.ps-block, .fa-block, .front-headline, .team-rail-block, .official-block, .front-fans, .community) { margin: 20px -16px 0; padding: 28px 16px 36px; border-radius: 28px; } }
+
+.layout-soft :is(.fa-card, .fa-tally div, .fa-tiles li) { background: var(--soft-bg); box-shadow: var(--raise); }
+.layout-soft .fa-chip { border: 0; background: var(--soft-bg); box-shadow: var(--raise-sm); }
+.layout-soft .fa-chip[aria-pressed="true"] { background: var(--soft-bg); color: var(--accent); box-shadow: var(--press); }

@@ -2,6 +2,7 @@
 import { basename, dirname, relative } from 'node:path';
 import { loadTeams, loadStandings } from '../src/lib/config.ts';
 import { loadPostseason } from '../src/lib/postseason.ts';
+import { loadStove } from '../src/lib/stove.ts';
 import { readJsonDir, readMarkdownDir, contentDir } from '../src/lib/fsdata.ts';
 import { signalSchema, columnSchema, type Signal } from '../src/lib/schemas.ts';
 
@@ -59,6 +60,16 @@ export function validateAll(root: string): Report {
       }
     }
   } catch (e) { errors.push(`data/postseason.yaml 형식 오류: ${(e as Error).message.slice(0, 200)}`); }
+
+  // FA 행선지: 형식(출처 URL 필수는 스키마), 팀 id, 선수 id 중복
+  try {
+    const seen = new Set<string>();
+    for (const p of loadStove(root)?.players ?? []) {
+      if (seen.has(p.id)) errors.push(`data/stove.yaml: 선수 id 중복 ${p.id}`);
+      seen.add(p.id);
+      for (const t of [p.from, ...p.interest.map((x) => x.team), ...(p.signed ? [p.signed.team] : [])]) if (!teamIds.has(t)) errors.push(`data/stove.yaml ${p.id}: 없는 팀 id ${t}`);
+    }
+  } catch (e) { errors.push(`data/stove.yaml 형식 오류: ${(e as Error).message.slice(0, 200)}`); }
 
   // ── signals
   const signals = new Map<string, Signal>();
