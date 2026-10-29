@@ -34,6 +34,15 @@ export function isVisible(g: GameId, now: number): boolean {
   return now > s - 7 * 86400_000 && now < s + 30 * 86400_000;
 }
 
+// FA 행선지 투표 id: fa<시즌>-<선수 slug>  예) fa2027-hong-gildong (화면이 data/stove.yaml 로 만든다)
+// 누적 투표: 스토브리그 내내 열려 있고 키는 마지막 투표 뒤 200일에 지운다.
+// shortcut: 계약 뒤 마감은 화면에서만 막는다(서버는 data/stove.yaml 을 모름). 남용이 보이면 열린 선수 목록을 함수에 같이 배포한다.
+export const FA_TTL = 200 * 86400;
+export function parseFaId(id: unknown): { id: string; teams: string[] } | null {
+  if (typeof id !== 'string' || id.length > 50 || !/^fa20\d{2}-[a-z0-9]+(-[a-z0-9]+)*$/.test(id)) return null;
+  return { id, teams: TEAM_IDS };
+}
+
 export async function sha256(text: string): Promise<string> {
   const buf = await crypto.subtle.digest('SHA-256', new TextEncoder().encode(text));
   return [...new Uint8Array(buf)].map((b) => b.toString(16).padStart(2, '0')).join('').slice(0, 32);

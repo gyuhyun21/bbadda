@@ -1,0 +1,151 @@
+---
+// 스토브리그 FA 행선지(첫 화면 히어로). 위: 화제 선수 카드, 아래: 나머지 FA(기본 접힘), 구단별 이동.
+// 카드마다 행선지 투표(api/vote, 누적) — 참여 인원이 적어 숫자 대신 팀 색 막대로만 보여 준다(저장소 주인 결정, 2026-10-29).
+// 데이터: data/stove.yaml(기사·구단 발표로 확인한 것만). 끄기: config/site.yaml stove_tracker: false
+import SectionHead from './SectionHead.astro';
+import { loadStove, orderPlayers, statusOf, voteTeams, faVoteId, moves, type FaPlayer } from '../lib/stove.ts';
+import { TEAMS, teamById, teamColor, loadAll, displayTitle, fmtDate } from '../lib/site.ts';
+const data = loadStove();
+const players = data ? orderPlayers(data.players) : [];
+const signals = players.length ? (await loadAll()).signals : [];
+const short = (id: string) => teamById.get(id)?.short ?? id;
+const hostOf = (u: string) => { try { return new URL(u).hostname.replace(/^(www|m)\./, ''); } catch { return '기사'; } };
+const md = (d: string) => `${Number(d.slice(5, 7))}.${Number(d.slice(8, 10))}`;
+const hot = players.filter((p) => p.hot);
+const top = hot.length ? hot : players.slice(0, 6);
+const rest = players.filter((p) => !top.includes(p));
+const signedN = players.filter((p) => p.signed).length;
+const STATE = { open: '협상 중', moved: '계약 완료 · 이적', stayed: '계약 완료 · 잔류' };
+// 관련 기사: 제목에 선수 이름이 있고 관련 팀(원소속·관심·계약) 기사인 것, 최근 4건
+const related = (p: FaPlayer) => {
+  const ts = new Set(voteTeams(p));
+  return signals.filter((s) => s.title.includes(p.name) && s.teams.some((t) => ts.has(t))).sort((a, b) => b.published_at.localeCompare(a.published_at)).slice(0, 4);
+};
+const tiles = TEAMS.map((t) => ({ t, ...moves(players, t.id) }));
+---
+{players.length > 0 && (
+  <section class="block fa-block" aria-labelledby="h-fa" data-pagefind-ignore>
+    <SectionHead id="h-fa" title="FA 행선지" eyebrow={`STOVE LEAGUE ${data!.season}`} status={signedN < players.length ? `미계약 ${players.length - signedN}명` : '계약 마감'} />
+    <p class="fa-asof">{data!.as_of && `${md(data!.as_of)} 기준 · `}{data!.list_source ? <a href={data!.list_source} target="_blank" rel="noopener noreferrer" data-no-modal>FA 승인 명단</a> : 'FA 승인 명단'} · 관심 구단·몸값은 보도 기준</p>
+    <div class="fa-tally">
+      <div><strong>{players.length}</strong><span>FA</span></div>
+      <div><strong>{signedN}</strong><span>계약 완료</span></div>
+      <div><strong>{players.length - signedN}</strong><span>미계약</span></div>
+    </div>
+    <div class="fa-filter" role="group" aria-label="FA 보기">
+      <button type="button" class="fa-chip" data-fa-filter="all" aria-pressed="true">전체</button>
+      <button type="button" class="fa-chip" data-fa-filter="open" aria-pressed="false">미계약</button>
+      <button type="button" class="fa-chip" data-fa-filter="signed" aria-pressed="false">계약 완료</button>
+      <button type="button" class="fa-chip" data-fa-filter="my" aria-pressed="false" hidden>MY팀 관련</button>
+    </div>
+    {[top, rest].map((group, gi) => {
+      const cards = group.map((p) => {
+        const st = statusOf(p);
+        const rel = related(p);
+        const vt = voteTeams(p);
+        return (
+          <article class="fa-card" data-fa-status={st === 'open' ? 'open' : 'signed'} data-fa-teams={vt.join(' ')}>
+            <div class="fa-top">
+              <span class="fa-mark" style={`--team:${teamColor(p.from)}`} aria-hidden="true">{short(p.from)}</span>
+              <div class="fa-who"><h3>{p.name}</h3><p>{short(p.from)}{st === 'moved' && ` → ${short(p.signed!.team)}`} · {p.pos}{p.age && ` · ${p.age}세`}</p></div>
+              {p.grade && <span class="fa-grade">{p.grade}등급</span>}
+            </div>
+            <span class={`fa-state fa-state--${st}`}>{STATE[st]}</span>
+            {p.signed && <div class="fa-signed"><b>{short(p.signed.team)}</b> {p.signed.terms}<span class="fa-src"><a href={p.signed.source} target="_blank" rel="noopener noreferrer">{hostOf(p.signed.source)} · {md(p.signed.date)}</a></span></div>}
+            {!p.signed && p.interest.length > 0 && (
+              <dl class="fa-row"><dt>관심 구단</dt><dd class="fa-teams">{p.interest.map((x) => <a class="fa-tm" style={`--team:${teamColor(x.team)}`} href={x.sources[0]} target="_blank" rel="noopener noreferrer"><i></i>{short(x.team)} <em>보도 {x.sources.length}</em></a>)}</dd></dl>
+            )}
+            {!p.signed && p.price && (
+              <dl class="fa-row"><dt>예상 몸값</dt><dd><span class="fa-price">{p.price.text}</span> <span class="fa-tag">(보도 범위)</span><span class="fa-src">{p.price.sources.map((u, i) => <>{i > 0 && ' · '}<a href={u} target="_blank" rel="noopener noreferrer">{hostOf(u)}</a></>)}</span></dd></dl>
+            )}
+            {(p.pros.length > 0 || p.cons.length > 0) && (
+              <dl class="fa-row"><dt>장단점</dt><dd><ul class="fa-pc">
+                {p.pros.map((x) => <li class="fa-p"><a href={x.source} target="_blank" rel="noopener noreferrer">{x.text}</a> <span class="fa-tag">{x.kind === 'record' ? '[기록]' : '(보도)'}</span></li>)}
+                {p.cons.map((x) => <li class="fa-c"><a href={x.source} target="_blank" rel="noopener noreferrer">{x.text}</a> <span class="fa-tag">{x.kind === 'record' ? '[기록]' : '(보도)'}</span></li>)}
+              </ul></dd></dl>
+            )}
+            <div class="fa-vote" data-fa-vote={faVoteId(data!.season, p)} data-fa-signed={p.signed?.team} data-fa-names={JSON.stringify(Object.fromEntries(vt.map((t) => [t, short(t)])))} hidden>
+              <p class="fa-vote-q">어디로 갈까? <span data-fa-vote-note></span></p>
+              <span class="fa-vote-bar" aria-hidden="true">{vt.map((t) => <span data-fa-bar={t} style={`--team:${teamColor(t)}`}></span>)}</span>
+              <p class="fa-vote-lead" data-fa-lead></p>
+              {!p.signed && <div class="fa-vote-btns">{vt.map((t) => <button type="button" class="fa-vote-btn" data-fa-team={t} style={`--team:${teamColor(t)}`}>{t === p.from ? `${short(t)} 잔류` : short(t)}</button>)}</div>}
+            </div>
+            {rel.length > 0 && (
+              <details class="fa-more"><summary>관련 기사 {rel.length}건</summary><ul>
+                {rel.map((s) => <li><a href={s.url} target="_blank" rel="noopener noreferrer">{displayTitle(s)}</a> <span>{s.source_name} · {fmtDate(s.published_at)}</span></li>)}
+              </ul></details>
+            )}
+          </article>
+        );
+      });
+      return gi === 0 ? <div class="fa-cards">{cards}</div> : rest.length > 0 && <details class="fa-rest" data-fa-rest><summary>나머지 FA {rest.length}명 펼치기</summary><div class="fa-cards fa-cards--rest">{cards}</div></details>;
+    })}
+    <p class="empty-hint" data-fa-empty hidden>해당하는 선수가 없습니다.</p>
+    {signedN > 0 && (
+      <div class="fa-byteam">
+        <h3>구단별 FA 이동</h3>
+        <ul class="fa-tiles">{tiles.map(({ t, gain, loss, stay }) => <li style={`--team:${teamColor(t.id)}`}><b>{t.short}</b><span>{gain + loss + stay ? [gain && `영입 ${gain}`, loss && `이탈 ${loss}`, stay && `잔류 ${stay}`].filter(Boolean).join(' · ') : '-'}</span></li>)}</ul>
+      </div>
+    )}
+  </section>
+)}
+<script>
+  // 보기 필터(전체·미계약·계약 완료·MY팀). 전체가 아니면 접힌 나머지 FA 도 펼친다
+  document.querySelectorAll<HTMLElement>('.fa-block').forEach((box) => {
+    const my = document.documentElement.dataset.myTeam;
+    const myChip = box.querySelector<HTMLButtonElement>('[data-fa-filter="my"]')!;
+    if (my) myChip.hidden = false;
+    const cards = [...box.querySelectorAll<HTMLElement>('.fa-card')];
+    const rest = box.querySelector<HTMLDetailsElement>('[data-fa-rest]');
+    box.querySelectorAll<HTMLButtonElement>('[data-fa-filter]').forEach((b) => b.addEventListener('click', () => {
+      const f = b.dataset.faFilter!;
+      box.querySelectorAll<HTMLButtonElement>('[data-fa-filter]').forEach((x) => x.setAttribute('aria-pressed', String(x === b)));
+      let shown = 0;
+      cards.forEach((c) => {
+        const ok = f === 'all' || (f === 'my' ? c.dataset.faTeams!.split(' ').includes(my!) : c.dataset.faStatus === f);
+        c.hidden = !ok;
+        if (ok) shown++;
+      });
+      if (rest && f !== 'all') rest.open = true;
+      box.querySelector<HTMLElement>('[data-fa-empty]')!.hidden = shown > 0;
+    }));
+  });
+  // 행선지 투표(누적): 한 선수에 기기당 1번(서버는 IP당 1표). 숫자 없이 팀 색 막대와 1위 팀 이름만. 저장소가 없거나 실패하면 숨긴다
+  document.querySelectorAll<HTMLElement>('[data-fa-vote]').forEach(async (box) => {
+    const id = box.dataset.faVote!;
+    const signed = box.dataset.faSigned;
+    const key = `bbadda:vote:${id}`;
+    let mine: string | null = null;
+    try { mine = localStorage.getItem(key); } catch {}
+    const names = JSON.parse(box.dataset.faNames!) as Record<string, string>;
+    const show = (counts: Record<string, number>) => {
+      const total = Object.values(counts).reduce((a, b) => a + b, 0);
+      const bars = [...box.querySelectorAll<HTMLElement>('[data-fa-bar]')];
+      bars.forEach((el) => { el.style.flexGrow = String(counts[el.dataset.faBar!] ?? 0); });
+      box.querySelector<HTMLElement>('.fa-vote-bar')!.hidden = !total;
+      const lead = bars.map((el) => el.dataset.faBar!).sort((a, b) => (counts[b] ?? 0) - (counts[a] ?? 0))[0];
+      const leadEl = box.querySelector<HTMLElement>('[data-fa-lead]')!;
+      leadEl.textContent = total ? `팬 예상 1위 ${names[lead]}` : '';
+      leadEl.style.setProperty('--team', bars.find((el) => el.dataset.faBar === lead)?.style.getPropertyValue('--team') ?? '');
+      const note = box.querySelector<HTMLElement>('[data-fa-vote-note]')!;
+      note.textContent = signed ? (mine ? (mine === signed ? '내 예상 적중' : '내 예상 빗나감') : '투표 마감') : mine ? `내 예상: ${names[mine] ?? mine}` : '계약 발표 전까지';
+      box.querySelectorAll<HTMLButtonElement>('[data-fa-team]').forEach((b) => b.setAttribute('aria-pressed', String(b.dataset.faTeam === mine)));
+      const btns = box.querySelector<HTMLElement>('.fa-vote-btns');
+      if (btns) btns.hidden = !!mine;
+      box.hidden = false;
+    };
+    try {
+      const r = await fetch(`/api/vote?game=${encodeURIComponent(id)}`);
+      if (!r.ok) return;
+      show((await r.json()).counts);
+    } catch { return; }
+    box.querySelectorAll<HTMLButtonElement>('[data-fa-team]').forEach((b) => b.addEventListener('click', async () => {
+      box.querySelectorAll<HTMLButtonElement>('[data-fa-team]').forEach((x) => (x.disabled = true));
+      try {
+        const r = await fetch('/api/vote', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify({ game: id, team: b.dataset.faTeam }) });
+        const d = await r.json();
+        if (d.counts) { mine = b.dataset.faTeam!; try { localStorage.setItem(key, mine); } catch {} show(d.counts); }
+      } catch {} finally { box.querySelectorAll<HTMLButtonElement>('[data-fa-team]').forEach((x) => (x.disabled = false)); }
+    }));
+  });
+</script>

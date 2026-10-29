@@ -13,7 +13,10 @@ import FanList from './FanList.astro';
 import Edition from './Edition.astro';
 import SectionHead from './SectionHead.astro';
 import PostseasonBracket from './PostseasonBracket.astro';
-import { communitySection, newsImages, loadStandings, streakLabel, postseasonBracket } from '../lib/config.ts';
+import StoveTracker from './StoveTracker.astro';
+import { communitySection, newsImages, loadStandings, streakLabel, postseasonBracket, stoveTracker } from '../lib/config.ts';
+import { loadPostseason, resolvePostseason } from '../lib/postseason.ts';
+import { loadStove } from '../lib/stove.ts';
 import { TEAMS, loadAll, ofTeam, recent, hot, newest, kstDay, daysOf, onDay, dayLabel, seasonTitle, displayTitle, fmtDate, teamColor, teamLogo, teamById, isToday, youtubeId, isCommunityPost, byDayThenHot, latestBatch, newFirst, isWire, BUILD_TIME, UPDATE_SCHEDULE , hasCheer } from '../lib/site.ts';
 const data = await loadAll();
 const all = data.signals;
@@ -52,11 +55,19 @@ const fanPosts = fanAll.filter((s) => s.source_type !== 'youtube' && !isCommunit
 // 7) 날짜별 소식(최근 7일)
 const days = daysOf(all).slice(0, 7);
 const pushOn = pushButton();
+// FA 행선지: 한국시리즈 우승 팀이 정해지기 전에는 가을야구 대진 아래, 정해지면 맨 위(저장소 주인 결정, 2026-10-29)
+const psOn = postseasonBracket();
+const ps = psOn ? loadPostseason() : null;
+const psLive = !!ps && !resolvePostseason(ps, today).rounds.at(-1)?.winner;
+const stoveOn = stoveTracker();
+const faNav = stoveOn && !!loadStove()?.players.length;
 ---
 <nav class="side-nav" aria-label="섹션 바로가기" data-pagefind-ignore>
   {/* 넓은 PC 화면(1360px 이상)에서만 왼쪽에 고정. 지금 보는 섹션이 강조된다 */}
   <ul>
+    {faNav && !psLive && <li><a href="#h-fa" data-spy="h-fa">FA 행선지</a></li>}
     <li><a href="#h-postseason" data-spy="h-postseason">가을야구 대진</a></li>
+    {faNav && psLive && <li><a href="#h-fa" data-spy="h-fa">FA 행선지</a></li>}
     <li><a href="#h-headline" data-spy="h-headline">헤드라인</a></li>
     <li data-side-myteam hidden><a href="#" data-spy="myteam">MY팀</a></li>
     <li><a href="#h-team-rail" data-spy="h-team-rail">구단별 소식</a></li>
@@ -70,7 +81,9 @@ const pushOn = pushButton();
 <nav class="chip-nav" aria-label="섹션 바로가기(모바일)" data-pagefind-ignore>
   {/* 폭 1360px 미만(모바일·태블릿): 머리말 아래에 붙어 다니는 섹션 칩 줄. 내리면 숨고 올리면 나온다. 지금 보는 섹션이 강조된다 */}
   <ul>
+    {faNav && !psLive && <li><a href="#h-fa" data-spy="h-fa">FA 행선지</a></li>}
     <li><a href="#h-postseason" data-spy="h-postseason">가을야구</a></li>
+    {faNav && psLive && <li><a href="#h-fa" data-spy="h-fa">FA 행선지</a></li>}
     <li><a href="#h-headline" data-spy="h-headline">헤드라인</a></li>
     <li><a href="#h-team-rail" data-spy="h-team-rail">구단별</a></li>
     <li><a href="#h-official-videos" data-spy="h-official-videos">오피셜 영상</a></li>
@@ -86,7 +99,9 @@ const pushOn = pushButton();
   <h1 class="sr-only">BBADDA 빠따닷컴</h1>
 </section>
 
-{postseasonBracket() && <PostseasonBracket />}
+{stoveOn && !psLive && <StoveTracker />}
+{psOn && <PostseasonBracket />}
+{stoveOn && psLive && <StoveTracker />}
 
 {lead && (
   <section class="block front-headline" aria-labelledby="h-headline">
