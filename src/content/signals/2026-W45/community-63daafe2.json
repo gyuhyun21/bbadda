@@ -1,0 +1,24 @@
+{
+  "id": "community-63daafe2",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/10498509012",
+  "title": "사실 2호령 이런것도 짭만 잡았으면 나올 일도 없었다는 거임 - 야구",
+  "published_at": "2026-10-29T14:38:16.996Z",
+  "collected_at": "2026-10-29T21:38:16.996Z",
+  "summary_ko": "",
+  "excerpt": "... 사실 짭찬 상대적으로 타선 약한 두산에서도 7번 보긴하는데 결국 새로운 ... 시카고 베어스 이번시즌…",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

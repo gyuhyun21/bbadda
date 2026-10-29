@@ -1,0 +1,26 @@
+{
+  "id": "youtube-86770267",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "youtube",
+  "source_name": "ThinkYOU",
+  "url": "https://www.youtube.com/watch?v=cPn_Zm0VeBs",
+  "title": "260930 박희선 - KBO SSG랜더스",
+  "published_at": "2026-10-29T14:40:13Z",
+  "collected_at": "2026-10-29T21:38:16.996Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 21,
+    "likes": 1,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 54,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

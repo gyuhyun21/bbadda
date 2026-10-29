@@ -1,0 +1,22 @@
+{
+  "id": "news-1a6d9e72",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "연합뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5nTFRzUXRnRFBLTGhUOGc4ZTIwQnBZdjFTUGg5Qk9FVEdiUEtBd0g0b2l0aEhKV255MDJGY0VtOC1iWjlBUE9zUWxuc2NRdlc4bnpWNmhFeUdyMnkyTEZOQtIBYEFVX3lxTE5nTFRzUXRnRFBLTGhUOGc4ZTIwQnBZdjFTUGg5Qk9FVEdiUEtBd0g0b2l0aEhKV255MDJGY0VtOC1iWjlBUE9zUWxuc2NRdlc4bnpWNmhFeUdyMnkyTEZOQg?oc=5",
+  "title": "'호랑이 사냥꾼' 삼성 류지혁은 가을에도 맹타…PS 첫 홈런",
+  "published_at": "2026-10-29T13:32:32.000Z",
+  "collected_at": "2026-10-29T21:38:16.996Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 81,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

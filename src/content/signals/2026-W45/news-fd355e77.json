@@ -1,0 +1,23 @@
+{
+  "id": "news-fd355e77",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "KBC광주방송",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBjNGlZLUNYTUhWLVhCQ1huMzd2LUZiSV9zM3dmbDVQN1R0SjktUjg3VmlNVENHaWpNR3ZQUkw0X1RFRlE2RDcxWF9vYm5UQUViWHNYRERDd2tudWNTcEU0cw?oc=5",
+  "title": "'끝내 터지지 않은 한 방' KIA, 삼성에 4대 6 패...한국시리즈행 먹구름",
+  "published_at": "2026-10-29T13:49:17.000Z",
+  "collected_at": "2026-10-29T21:38:16.996Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 73,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

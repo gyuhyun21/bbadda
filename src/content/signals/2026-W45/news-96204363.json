@@ -1,0 +1,33 @@
+{
+  "id": "news-96204363",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "미주중앙일보",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1FVmJGSmcyc0Z3T2xGTHlvRE5fMmFWYTA2MS15UmFzS3lxeC1tWkt0blVjY01oT19ReXZJalZFcFNnOXJvWVIzN2lheUVfTVBOXzA0T3E0b1RGTl9WbHNBRndn?oc=5",
+  "title": "'70억 FA' 최원태 1⅔이닝 강판에도 이겼다...박진만 감독이 꼽은 승리의 일등 공신은? [PO3]",
+  "published_at": "2026-10-29T14:06:00.000Z",
+  "collected_at": "2026-10-29T21:38:16.996Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 81,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBha3h3R2tQbFl3TU1wcXFWcFd5WW5NNlltTnhEM0k5X1Z6WHU3Q3dPVGFxUmZyRnZndFJ0a2RLUTFEV0FLby1pa2ZNNzluWlgzVUhVMHJJdGdqYU1rcFF6bUdUbHlrQlBEQ1HSAW9BVV95cUxNemZqalVMOXpBSl9YMHYtaHpDa3BrNUZETXBTeF9Ub1RvVDNqNEhBQnY4SUNYMXFXdGV0Yk5WeGo4bmNROGpVajZsOFNpZVpEZnZJalJEUlRfQXJLUXRZempxU2JaUVN0cjk0dE40aU0?oc=5"
+    },
+    {
+      "source_name": "OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1CU0dwNUk2SzBZRUZwbGRWVWFVT2FsaXFUSGVRVmVmelR4ZlhYdWhvWkY5Umx2all0WFplNWZKaXNYUTNsT2p5aG9NNDZpZU1lbjRCNQ?oc=5"
+    }
+  ]
+}

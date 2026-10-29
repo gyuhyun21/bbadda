@@ -1,0 +1,23 @@
+{
+  "id": "news-e07d9371",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "경북매일",
+  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4zSWlJLWpwVzlaTEx0ZnRkbW5uaXU0elhLaHZScHR3QjlkZHV3a3d6WHVCbFVqa3h5X2NlVDZoUEY5SHpwTTV0a1BiWTBBeDg0bzQwSU82dVgwUQ?oc=5",
+  "title": "삼성, 기아 꺾고 한국시리즈까지 ‘1승’… 30일 4차전서 확정 도전",
+  "published_at": "2026-10-29T13:30:00.000Z",
+  "collected_at": "2026-10-29T21:38:16.996Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 80
+  },
+  "sentiment": "neutral"
+}

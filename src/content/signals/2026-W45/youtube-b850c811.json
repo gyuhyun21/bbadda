@@ -1,0 +1,28 @@
+{
+  "id": "youtube-b850c811",
+  "issue": "2026-W45",
+  "module": "league",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "team": "samsung",
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=bjKng52zy1A",
+  "title": "[삼성라이온즈 vs KIA타이거즈] 10.29(목) PO 3차전 하이라이트｜2026 신한 SOL KBO 포스트시즌｜플레이오프 3차전｜KBO X TVING",
+  "published_at": "2026-10-29T14:08:25Z",
+  "collected_at": "2026-10-29T21:38:16.996Z",
+  "summary_ko": "KBO 공식 채널이 PO 3차전 삼성과 KIA의 하이라이트 영상을 올렸다.",
+  "metrics": {
+    "views": 129979,
+    "likes": 740,
+    "comments": 217
+  },
+  "scores": {
+    "hot": 66,
+    "relevance": 80
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "news-151e1f60",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "www.xportsnews.com",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5wSm8tdFpRTHhrLXJwRWJHR1J1RlppUjhEOXRCYzhUbVMwWk04RFJqemJyZnpLSFBCUHRtUzEzMVNWbkpSUUhXeDFubHNySWhDTHJSaw?oc=5",
+  "title": "삼성 ‘한국시리즈가 보인다’[포토]",
+  "published_at": "2026-10-29T13:39:28.000Z",
+  "collected_at": "2026-10-29T21:38:16.996Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 80
+  },
+  "sentiment": "neutral"
+}

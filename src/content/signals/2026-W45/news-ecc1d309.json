@@ -1,0 +1,23 @@
+{
+  "id": "news-ecc1d309",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1xUW1HQzBfOXE4NGNJSkF1ZHpaUlhHSzBjdWFHY0J5anZlcnJuaXhxUlBzQWZ5a0lHVmstWnV3SGd3SHhfcFVfLVhCQlhSOF8xS1U2UnloQ1BBeTlGTEF4b2xPN3RBMC1aUlBtR01Bb9IBb0FVX3lxTE1xUW1HQzBfOXE4NGNJSkF1ZHpaUlhHSzBjdWFHY0J5anZlcnJuaXhxUlBzQWZ5a0lHVmstWnV3SGd3SHhfcFVfLVhCQlhSOF8xS1U2UnloQ1BBeTlGTEF4b2xPN3RBMC1aUlBtR01Bbw?oc=5",
+  "title": "[사진] 류지혁, 파워 넘친 역전 2점 홈런",
+  "published_at": "2026-10-29T11:11:00.000Z",
+  "collected_at": "2026-10-29T21:38:16.996Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 80,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

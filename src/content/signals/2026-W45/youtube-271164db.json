@@ -1,0 +1,28 @@
+{
+  "id": "youtube-271164db",
+  "issue": "2026-W45",
+  "module": "league",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "team": "samsung",
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=oMUa0j7mnwQ",
+  "title": "(무해설)로 다시 보는 삼성 류지혁의 5회 초 역전 투런 홈런과 팬들의 함성! | PO3_삼성 vs KIA | 10.29 | 크보모먼트 | KBO 야구 하이라이트",
+  "published_at": "2026-10-29T14:21:58Z",
+  "collected_at": "2026-10-29T21:38:16.996Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 18391,
+    "likes": 407,
+    "comments": 39
+  },
+  "scores": {
+    "hot": 69,
+    "relevance": 80
+  },
+  "sentiment": "positive"
+}

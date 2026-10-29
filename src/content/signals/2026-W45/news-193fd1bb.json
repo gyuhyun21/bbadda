@@ -1,0 +1,22 @@
+{
+  "id": "news-193fd1bb",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠한국",
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9QVHMzekJnWm15VjE4a2pzNHgxVld4SlZhblJCQzFlM0NfS0hOVWpUSDJsN05laElKRVpucE41N04zS3g0bl82ZU1pNmphdDFnYTByUmdaeTBLNjJFM293T0w1WUFlTlJla0k4Z0ZLTkvSAXRBVV95cUxORDZVcHhpU09tQURYNXJOWDhGb25tWEdCWWtma29Ca2RMZE15ejdFbnB4bE9VZ0djc0dZbmQ2eWZXN1RaSE5TVDF6d241WW9HNC15aGVfMm5wN2YzRzJEWXYyaWwxSjI5bDZTWGtxcmRBRVBlWg?oc=5",
+  "title": "'벼랑 끝' KIA, 4차전 선발 양현종 아닌 네일 낙점 '팀에서 가장 좋은 투수라 선택'",
+  "published_at": "2026-10-29T13:40:53.000Z",
+  "collected_at": "2026-10-29T21:38:16.996Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 80
+  },
+  "sentiment": "neutral"
+}

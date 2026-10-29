@@ -1,0 +1,26 @@
+{
+  "id": "youtube-49f1a4a0",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "장아나",
+  "url": "https://www.youtube.com/watch?v=e0uWsZnigeE",
+  "title": "치열했던 3차전 삼성라이온즈의 승리! (10.29 PO 3차전 감상평)",
+  "published_at": "2026-10-29T14:35:40Z",
+  "collected_at": "2026-10-29T21:38:16.996Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 9918,
+    "likes": 271,
+    "comments": 22
+  },
+  "scores": {
+    "hot": 71,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

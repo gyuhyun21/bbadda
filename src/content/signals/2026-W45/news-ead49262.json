@@ -1,0 +1,23 @@
+{
+  "id": "news-ead49262",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠월드",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9BdHh5clVVbTNhdkZxdWN1cWIxNEdNRjNkd2dlZjM1M1VtclEzanUzZWliNENFOVhZV3hRWnUzSkhyWUZ5R0ZSUHQzeWlUUzBNa01uUWRyZVQwWDhxRlIzMHJB?oc=5",
+  "title": "준PO 7-6-5이닝, PO에선 모두 5회 미만… 고개 숙인 호랑이 선발진",
+  "published_at": "2026-10-29T15:02:00.000Z",
+  "collected_at": "2026-10-29T21:38:16.996Z",
+  "summary_ko": "스포츠월드는 KIA 선발진이 준PO에서 7·6·5이닝을 던졌지만 PO에서는 모두 5회 미만에 내려왔다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

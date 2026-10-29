@@ -1,0 +1,23 @@
+{
+  "id": "news-e8dd6177",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스핌",
+  "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9vUHhwclpudnlWREhvTDFLanlFYTNxRFAwbnlHdm5pMkp1Z1pIbFZNamk2UzZpcThRSTdtYzVlNjA3X25mSWRnbWdqZ1RtNC1iTDdCbER2ZTFHZjBa?oc=5",
+  "title": "[PO] KIA 주장 나성범, 6회말 삼성 원태인 상대 동점 솔로 홈런..4-4",
+  "published_at": "2026-10-29T12:17:00.000Z",
+  "collected_at": "2026-10-29T21:38:16.996Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

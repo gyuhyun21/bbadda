@@ -1,0 +1,23 @@
+{
+  "id": "news-e47ce971",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "www.xportsnews.com",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBja0t4SmkzODk3cGZDVVhoUF91ZndXWG5WUjZxWTBVTFZWell3NlVHYjlyN01hMVBVbldvOTdLSTV1RjdyMUtCRTRaY0YwWnlHUzNuWQ?oc=5",
+  "title": "'17승→26SV 깜짝 대변신' 52억 마무리, FA 유일 마캠 참가 왜?→\"선발 재도전? 다시 하고 싶지만…\" [미야자키 인터뷰]",
+  "published_at": "2026-10-29T17:03:33.000Z",
+  "collected_at": "2026-10-29T21:38:16.996Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-be204e4a",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "미주중앙일보",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBhZmliVEY0el9TUG83QWR0RVFJajNYY1FvaFMyR0ZYUlJnSVJWNThEUDg5N0drcFBxSUN0SHJxakpCcldMblItb2pROHM0U2s3U0E0T25BT013S0Rqd1YxSXh3?oc=5",
+  "title": "‘2차전 마무리→3차전 승리’ 원태인, 4차전도 출격 가능…“야마모토가 되겠습니다” 각오 현실이 됐다",
+  "published_at": "2026-10-29T14:40:00.000Z",
+  "collected_at": "2026-10-29T21:38:16.996Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "news-f417d13f",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "미주중앙일보",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5EdmdUUjQzUkpibjU1cnlSLXEwaHBrdkxpVlUyekxIR0pzNXZ2X2dXWU1vYXhGdThweENHSTNQYm93RGhILWhBN3QzTDdvbV9RNzZYSlJSMzF2UDlOdHJ2ZnB3?oc=5",
+  "title": "‘2년 전 눈물은 잊었다’ 류지혁, KIA 상대 역전 투런포 폭발…“지금은 2026년, 올가을에만 집중” [PO3]",
+  "published_at": "2026-10-29T15:40:00.000Z",
+  "collected_at": "2026-10-29T21:38:16.996Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 90,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE10ak1pV3pQSVdwOGxuRl9nWTBFMjRseERrWGVCZzhuT0dRSm9ycHlxQTZ3blFLTl90Ml9EVF95eFhnVkZ6VjRXQnNicDAwRVYzT09oMA?oc=5"
+    },
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1rOHQ1TE5Nb0VDTEhXc28xOUU1YzI2dW9IU2xwRFJxM1lqbE13QzhFLVFHeEtOTmF6Q1BKTk9qTzY2Y3pQUUFGeVVrSHJMRnpjTkxMcmRnMENwR0d0WUhwdmlqNVI3aThtclHSAW9BVV95cUxPZTN1bHNUUTVFNzVlcWtRbFBEMjZPTS1jZXJITkFaYzJJRmUzU1UxOGMzTExPOGpHVElOLUd6cDV3NnJDVEZlNExnR2hpcGpRZU0yRHM4S3BoY3pxY0dub0s0U1JIRUVLRVBfSUhwSHc?oc=5"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-318106e4",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "이데일리",
+  "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORzFLTFp6ZTRucFl5X2lkNzlNZmpIcTFPYzJaT2VLeXBuNW02TnBhQmxBUV91eHMwc3FyYzhSNkF3QnlCYVEzZGI1ajl3TWo4YVlscVpDMWZRTjR1a2tMTUU4M29nRGp6el9GSHE2bjhKUGlobWxsNU9jUEplLVRQVw?oc=5",
+  "title": "박진만 “불펜 투수들 좋은 역할”…이범호 “모든 투수 총동원”",
+  "published_at": "2026-10-29T14:35:31.000Z",
+  "collected_at": "2026-10-29T21:38:16.996Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 73,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

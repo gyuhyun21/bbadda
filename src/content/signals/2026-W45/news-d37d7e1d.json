@@ -1,0 +1,32 @@
+{
+  "id": "news-d37d7e1d",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "연합뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5YRDJqdGdweDlnRWxsUlJOckJyLXZTLTQwUzNYbE9UR1puTS13cEhhck9ZS19tQXlnZElBNmJPSy1BdG9WLWJTeEN6d3RfZjhlLUc0OFNaT3BJUWPSAWBBVV95cUxQUWEyTVg3dWExT2dxYTFIcEduX3diUnFkLVdCdXhnbFNNLVVWSjFyRXdvSUsyVzdNcm9CYzZJSjVydUJJcjVqSnQyREg0ZEp3bm5fNXFqRXpMSEY1cmdsREM?oc=5",
+  "title": "박진만 삼성 감독 \"불펜 투수들이 최소 실점으로 막아서 승리\"",
+  "published_at": "2026-10-29T13:55:07.000Z",
+  "collected_at": "2026-10-29T21:38:16.996Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 81,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE81aUV4b1VPU2hrejF5TU42V0pDQW9taEhYVmpxLVJWc3doWHo3Um9RNmlJUzJqd1lhQm1MUU4xSXc4eGRtbWc?oc=5"
+    },
+    {
+      "source_name": "라디오코리아",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE82U1ZQWEJwaE9KVTlJSnBsSkdZQU55azVmSXVXWTVKYzVlVzRpakNGNFN4SXVETTBTMmdpT0RTYlJsMkFxZDlUcm1mUVBWSGg3dU1zU3VIT3RteVJ2Y1Zrcng1SnQ?oc=5"
+    }
+  ]
+}

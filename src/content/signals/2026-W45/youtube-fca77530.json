@@ -1,0 +1,27 @@
+{
+  "id": "youtube-fca77530",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "ace stories 에이스 스토리즈",
+  "url": "https://www.youtube.com/watch?v=HWbRkOA8P7g",
+  "title": "이범호 감독은 타순을 바꿔라 #기아타이거즈 #삼성라이온즈 #플레이오프",
+  "published_at": "2026-10-29T14:31:44Z",
+  "collected_at": "2026-10-29T21:38:16.996Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 4078,
+    "likes": 38,
+    "comments": 4
+  },
+  "scores": {
+    "hot": 51,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

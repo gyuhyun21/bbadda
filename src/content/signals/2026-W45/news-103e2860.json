@@ -1,0 +1,32 @@
+{
+  "id": "news-103e2860",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB0R0NGeEJ5aVpueHo0LXZiR2dLZlF1M1Q0bGNPRjhYZjNKaFNZUGRSTVFWdm9jcnUxWEdJb0lubGJFdHE1cWFWb3dJV0RFMWlxSDBJQnVxbzcwZ0ptSVB4NEZWWTRydHN5Y1RKTWZWUdIBb0FVX3lxTFB0R0NGeEJ5aVpueHo0LXZiR2dLZlF1M1Q0bGNPRjhYZjNKaFNZUGRSTVFWdm9jcnUxWEdJb0lubGJFdHE1cWFWb3dJV0RFMWlxSDBJQnVxbzcwZ0ptSVB4NEZWWTRydHN5Y1RKTWZWUQ?oc=5",
+  "title": "[사진] 3차전 패배 어두운 표정의 KIA 타이거즈 선수들",
+  "published_at": "2026-10-29T13:38:00.000Z",
+  "collected_at": "2026-10-29T21:38:16.996Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 97,
+    "relevance": 70
+  },
+  "sentiment": "negative",
+  "also_in": [
+    {
+      "source_name": "OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBvRTJTVzBBZHhBSDVQQUs4TmtFb0NFMnhGYTFHakpoaVB4UXNISGlFRzZLRW5BQ3lXdTBSNm0wdW5YMTR5a2dueWxqN25BS1F2cTdF?oc=5"
+    },
+    {
+      "source_name": "Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNV21tMTJ0RGg1Wm1JMjRBdS1ULU9xOEUtR1JyXzdtSV8wdjJRS21YbVMtczQ5eDNMX0J3c3NRaUpXeDRlNTU0a2gzRjZoV3NaU3Rac2FaWlM1Qjl2WmM2WVJmWkUyWmo1S3ZKMW1uQm8xbEJqVWEwbUM0ZGwtZVNlSHpidnVzejBm0gGcAUFVX3lxTE5kdUQwdlhtX0ppNGotY25Ca296NWZyZVUtOFhDUHNtSmU0OXVSdzJUUjF1and6QlM2UVhPQU9rdkJiNVhIdldVU2tTM1NmRGFfWVZJa0xNNkhmc1JLRkxpdWRoclZ1aVM3ZGpySVBlQmZXSGNOZFZlOTh0cEU0aU5hRVl1OGEyV19fSkQtOE94QWtmbFFBc3o4V3FqTQ?oc=5"
+    }
+  ]
+}

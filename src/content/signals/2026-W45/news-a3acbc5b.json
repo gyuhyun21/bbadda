@@ -1,0 +1,23 @@
+{
+  "id": "news-a3acbc5b",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9vVVJ4b3laR3hmbU15UVViSnZZdnNmTG14UmVLbUt3LUpPRms3b2VDQWc5VEJBdlJOUWRQTmw2X09jYU11MmU0Y0hFdWhSSTdCcnZEQWlYeXM1M1N2S012bXR6VHpsQ1ltVndYc2dMcFNfcWp5WlJYcGFhUERQUQ?oc=5",
+  "title": "\"KIA 사적인 감정으로 붙겠다\" KS 승부수 던졌다…삼성 '필패 카드' 페덱, 대반전 드라마 쓰나",
+  "published_at": "2026-10-29T20:41:00.000Z",
+  "collected_at": "2026-10-29T21:38:16.996Z",
+  "summary_ko": "삼성이 PO 4차전 선발로 페덱을 낸다. 스포츠조선은 '필패 카드'로 불린 페덱이 대반전 드라마를 쓸지 주목했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "페덱, 4차전 반전 쓸까"
+}

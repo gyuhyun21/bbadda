@@ -1,0 +1,23 @@
+{
+  "id": "news-4a80f567",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "연합뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1HblNxZTc1WjNFdVhFRmhVa3Q5OVN3RGtsYjIxQmgtbUdyVXpPcjloSWtEWkZNd0piLUdqYUMxX3dueVJOMzJ1VkZHVGZiY0NiaUo0VE5MczBJSmfSAWBBVV95cUxPWTNrc0ExbVVJLWtCX3FoM2hwRGlXbjFha3E4Z0JYM2lmaFhMQ2syeTE2QlFOU0FlTWtEYS00a1k5X2cwQzNWdkVfSFQ3ZEkzNmdBdC16dWtOaG95Z0xNeDM?oc=5",
+  "title": "벼랑 끝 KIA 네일 vs 굳히기 삼성 페덱, 나흘 만에 PO 리턴 매치",
+  "published_at": "2026-10-29T13:31:08.000Z",
+  "collected_at": "2026-10-29T21:38:16.996Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}
