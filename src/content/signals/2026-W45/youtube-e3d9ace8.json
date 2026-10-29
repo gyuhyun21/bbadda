@@ -1,0 +1,29 @@
+{
+  "id": "youtube-e3d9ace8",
+  "issue": "2026-W45",
+  "module": "league",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "team": "kia",
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=NknW65uxfJ0",
+  "title": "플레이오프 첫 홈런을 역전 홈런으로 만든 KIA 김도영! | PO3_삼성 vs KIA | 10.29 | 크보모먼트 | KBO 야구 하이라이트",
+  "published_at": "2026-10-29T10:57:17Z",
+  "collected_at": "2026-10-29T13:41:58.275Z",
+  "summary_ko": "KBO 공식 채널이 김도영의 PO 첫 홈런이자 역전 홈런 영상을 올렸다.",
+  "metrics": {
+    "views": 57447,
+    "likes": 1150,
+    "comments": 186
+  },
+  "scores": {
+    "hot": 76,
+    "relevance": 80
+  },
+  "sentiment": "positive",
+  "brief_ko": "김도영 PO 첫 홈런은 역전포"
+}

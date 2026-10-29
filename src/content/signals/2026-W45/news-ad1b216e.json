@@ -1,0 +1,23 @@
+{
+  "id": "news-ad1b216e",
+  "issue": "2026-W45",
+  "module": "team",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "네이트",
+  "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9nUEJOMERlczFOWGFBNGxBUDVKc1ZfSThuZWtmT1drYkg5bXpOU2VUVlhGRVNSYmY1aDB2eFVmNHRRSFc4MldtVXNKWXA2emUyaENBZkN3?oc=5",
+  "title": "\"전화 안 오던데요?\" 가슴 쓸어내린(?) 박진만 감독, 다시 LF 최형우 가동…벌써 잊었나? 최형우에게 광주는 '약속의 땅'이었다 [MD광주 PO3]",
+  "published_at": "2026-10-29T10:11:00.000Z",
+  "collected_at": "2026-10-29T13:41:58.275Z",
+  "summary_ko": "박진만 삼성 감독이 PO 3차전에 최형우를 다시 좌익수로 쓴다. 광주는 최형우에게 '약속의 땅'이라는 마이데일리 기사다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 30
+  },
+  "sentiment": "neutral",
+  "team": "samsung",
+  "brief_ko": "최형우, 광주에서 다시 LF"
+}

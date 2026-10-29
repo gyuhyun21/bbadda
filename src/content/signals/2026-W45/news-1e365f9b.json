@@ -1,0 +1,30 @@
+{
+  "id": "news-1e365f9b",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "스타뉴스",
+  "url": "https://www.starnewskorea.com/sports/2026/10/29/2026102917523014713",
+  "title": "'역전 또 역전!' 삼성, '원태인 구원승·박승규 결승타' 앞세워 KIA 6-4 제압→KS 눈앞 '-1승' [PO3 현장리뷰]",
+  "published_at": "2026-10-29T13:18:28.000Z",
+  "collected_at": "2026-10-29T13:41:58.275Z",
+  "summary_ko": "삼성이 역전에 재역전을 거듭한 끝에 KIA를 6-4로 이겼다. 원태인이 구원승을 올렸고 박승규가 결승타를 쳤다.",
+  "metrics": {},
+  "scores": {
+    "hot": 92,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBPMzZ0UkpHeWpVV2d2RlRvZndveTh2ODBST1NXZV9MZTZNZEwyTnNwY2V2ZUlnTGptZlVoVTdEZXZxREMyeHZyZWhEY3JZakpObE5pWUtmY2FEdzVWempFNkp1MFdTQjdkVXfSAW9BVV95cUxPZFJyTG9pcXBhSkg3Y2VHS0lwOUdSQUVuVVpzVGdWd2NGcHlrR0xac3NfN2xWeHhlZ3BGZUF1LUt3NVM3YXdqNzdyOXVTSlkwNm5mQkQ2VVM0MzB6Vzh2RHp6aW5sdjdXNkJsRXNNb2c?oc=5"
+    }
+  ],
+  "brief_ko": "원태인 구원승, 박승규 결승타"
+}

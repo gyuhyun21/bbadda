@@ -1,0 +1,29 @@
+{
+  "id": "news-ff3eff6e",
+  "issue": "2026-W45",
+  "module": "team",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBnXzFiT3lsMjNlclJnZ2daRGgwSGEtUHp2UHVhTHB1ZnM5V0NQQjVxNEhTRnpwT2UxMzVfcTZnb0VGdExEakFiUlpoZVNDVUliYU9zN2xrM0k0cXpoUHZLdXNlalVQRVU2eWFFekpJSmlzb1VwU1lYM0tpLXJiQQ?oc=5",
+  "title": "5이닝 무실점 쾌투에도 \"불만스럽다\"…그 어느 때보다 차분한데, 올해의 고영표는 무섭기까지 하다 [인터뷰]",
+  "published_at": "2026-10-28T22:00:41.000Z",
+  "collected_at": "2026-10-29T13:41:58.275Z",
+  "summary_ko": "스포츠조선이 KT 고영표의 인터뷰를 실었다. 5이닝 무실점에도 불만스럽다고 말했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 86,
+    "relevance": 30
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPN3VfX3haT0ZldUVtZXBiN0R3UWpVU2wweEswc1NueWlaeW1DQnFQTGxNeEx0M0hOdnlOQ0VZRDA2TXRfdHc0dHB2NGM0dW1nQ19YRE05UlZybkp3TWUyd3hNTHNBRUsxNWtUS21IcE9VdUhWZVF0R0xGYkYtdEZKcUtlQQ?oc=5"
+    }
+  ],
+  "team": "kt",
+  "brief_ko": "5이닝 무실점에도 '불만스럽다'"
+}

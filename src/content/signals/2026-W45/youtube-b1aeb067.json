@@ -1,0 +1,26 @@
+{
+  "id": "youtube-b1aeb067",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "youtube",
+  "source_name": "과거를 들추는 채널(과들채)",
+  "url": "https://www.youtube.com/watch?v=8rwTV8Gm3d8",
+  "title": "2027년 롯데자이언츠 신인 분석 | 1~11라운드 핵심 정리",
+  "published_at": "2026-10-29T09:08:49Z",
+  "collected_at": "2026-10-29T13:41:58.275Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 10,
+    "likes": 2,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 52,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "news-2edc6635",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "스타뉴스",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5hY2JqeGVaLVhfYlZtLVVCVkRuLUtldWhfcnRsY3pjcXc3RE5pa0c0bjlYTTU5ajBlNkVpeU1xRVV5S2dtT3BmZkJjVWxzbVVmdkt0SmtSNVY1VlRHeEtna1o1dWwxMUFaMTRBOG5DTWt1S3JLN2c?oc=5",
+  "title": "KIA 사령탑, 왜 PO3 앞두고 \"대한민국에서 가장...\" 삼성 향해 떠난 베테랑 타자를 극찬했나 [광주 현장]",
+  "published_at": "2026-10-29T08:29:00.000Z",
+  "collected_at": "2026-10-29T13:41:58.275Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAxTm5mMFhKNS1pR25wa0tFby12bWduSWFWOExybjJwUkVZN3pVRzhEckRCMFJ4WnRITkVCSVBGMTJYcHNHUDhWQmJqY3BlS0pZeVNIZHZPVEZHdlFfeGlxeXpUSktUQ0hTQXfSAW9BVV95cUxNR3E1VHdiTDI2UWV0ajJwV05ydlc2ZXBlS18wbjJXTE1lR1BlSVREQUxIVU0xSVp6ZnN5Z2t2VXdhcUpTOVVqSWpCUkU3UWU0cXQ3UjdtWW5aV2V3SEo4NFB3aVAtSUhvbW9YSkE4ejg?oc=5"
+    }
+  ]
+}

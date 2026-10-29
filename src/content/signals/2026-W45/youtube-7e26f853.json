@@ -1,0 +1,27 @@
+{
+  "id": "youtube-7e26f853",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "스포츠클래식 SportsClassic",
+  "url": "https://www.youtube.com/watch?v=9_eN38dmv9U",
+  "title": "[스클 LIVE] 2026 KBO리그 포스트시즌 플레이오프 3차전 삼성 라이온즈 : KIA 타이거즈 / 2026.10.28 경기 (최원태 vs 시라카와)",
+  "published_at": "2026-10-29T13:37:11Z",
+  "collected_at": "2026-10-29T13:41:58.275Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 104253,
+    "likes": 952,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

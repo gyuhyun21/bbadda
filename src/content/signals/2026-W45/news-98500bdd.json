@@ -1,0 +1,22 @@
+{
+  "id": "news-98500bdd",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "마이데일리",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1GVG45X21FLTNSOGhLSmtYNHI2Ykh2MW84blIzOHNBLV9JQUVISkpLcVBOa3BjaU5idzhpNnpPTVppV19oZjZSQ1hFT214U000d3BYZGZ4M2lkSHV3SGhXMA?oc=5",
+  "title": "KIA 김도영 진짜 미쳤다, 밀어서 역전 솔로포 폭발…PO 통산 첫 홈런 신고, 왜 한 방 안 나오나 싶었어요[MD광주 PO3]",
+  "published_at": "2026-10-29T10:34:24.000Z",
+  "collected_at": "2026-10-29T13:41:58.275Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 83,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

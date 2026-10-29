@@ -1,0 +1,29 @@
+{
+  "id": "news-6b9bdeef",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "스타뉴스",
+  "url": "https://www.starnewskorea.com/sports/2026/10/29/2026102914084142224",
+  "title": "'첫 가을야구 타율 0.182' 박재현 긴장했나? \"나도 어릴 땐 그랬어\" 오히려 다독인 '주장'의 품격",
+  "published_at": "2026-10-29T09:01:00.000Z",
+  "collected_at": "2026-10-29T13:41:58.275Z",
+  "summary_ko": "첫 가을야구에서 타율 0.182인 KIA 박재현을 주장이 다독였다. '나도 어릴 땐 그랬다'는 말을 건넸다는 스타뉴스 기사다.",
+  "metrics": {},
+  "scores": {
+    "hot": 90,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE45aEVZUExRdUk5VGFXT3FNM2pIUlNWSW83Z0Z0TFBETVUxU3lUVGd4OFZDZkY0Nld6Q2paLTUzc0lxQi1jckZLWmotLWVQMHhWeFFrUUp4SEQzSmNZOXJTZzFSTEU5VkFDU3fSAW9BVV95cUxQNWNFeEthSElsT0NFZ3IxeFhRYXdsWFdUZXBkaTlpckhtVVYyYkRLNU9VQmV5VHJ4NFdKUHkweTFnektkS1pQR1NVemJkWXRMZFVLQ3BVTEQxTGVtSWh4WjRydllZak82QldMT2dadGc?oc=5"
+    }
+  ],
+  "brief_ko": "박재현에게 건넨 주장의 한마디"
+}

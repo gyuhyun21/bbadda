@@ -1,0 +1,23 @@
+{
+  "id": "news-d0af4639",
+  "issue": "2026-W45",
+  "module": "team",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠한국",
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE16MHduOENWc21RSmNVVTVIWEJkVGtZT2FBT1dDUG9STE1yZnBiS3B2U09LVGtKRzNaR05wRnpOdmdGakNlODNSUUlKUXp6S1JRWlduc00wVmVMSEhuaFdsRWpsdTRYbUdQemQzZ2ZROW3SAXRBVV95cUxNdFgwT21Ucm8yZU13X3ZtdHZyZUlGNkZpVVFjTUg0SmVDZXI4VndqQWdFeWxFV3BYQUdvaURobjZMTTlmZjloSV9LWDRPdHpFMnUtWFA3dG5GSVgtbmtNbExfMDlXaTlIOEpJSzJTUDZVeVIxVw?oc=5",
+  "title": "김태군 블로킹 미스가 불러온 나비효과…디아즈, 시라카와 상대 선제 투런포[PO3]",
+  "published_at": "2026-10-29T09:40:17.000Z",
+  "collected_at": "2026-10-29T13:41:58.275Z",
+  "summary_ko": "김태군의 블로킹 미스가 이어지며 디아즈가 시라카와를 상대로 선제 투런포를 쳤다는 스포츠한국 기사다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 30
+  },
+  "sentiment": "neutral",
+  "team": "samsung",
+  "brief_ko": "블로킹 미스 뒤 디아즈 투런"
+}

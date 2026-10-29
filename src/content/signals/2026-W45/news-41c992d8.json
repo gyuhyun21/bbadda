@@ -1,0 +1,22 @@
+{
+  "id": "news-41c992d8",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스핌",
+  "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5iVkwtdjlXY0JaWkxWNThEQlY2ckk3TFRMeHJ0TF9aR0ZMbHJ5SXlTUEhGcjFUeHZ1WU1JMjVYdWNpVnVlTEs2S2pIdWIwcy1PelpjcVAtaG55Z2ow?oc=5",
+  "title": "[AI그래픽] KBO PO 3차전, 삼성 류지혁 5회 역전 투런포",
+  "published_at": "2026-10-29T11:27:00.000Z",
+  "collected_at": "2026-10-29T13:41:58.275Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 80
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "news-944700aa",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBLYTltN1ZMTDdDSk0tbl9vQklwWjZHSGlyRzRWVjBPLWdzTHZPWjVYSVlDT3BXcnZYTExCZXJXVm1FLW4wQ2UzNk5vWmNVejNkZkJsQndlV0UyWlVqdnZ4bWk3eWlnZDFIMGplWnFOUdIBb0FVX3lxTFBLYTltN1ZMTDdDSk0tbl9vQklwWjZHSGlyRzRWVjBPLWdzTHZPWjVYSVlDT3BXcnZYTExCZXJXVm1FLW4wQ2UzNk5vWmNVejNkZkJsQndlV0UyWlVqdnZ4bWk3eWlnZDFIMGplWnFOUQ?oc=5",
+  "title": "[사진] 김도영, 카스트로와 솔로포 세리머니",
+  "published_at": "2026-10-29T10:34:00.000Z",
+  "collected_at": "2026-10-29T13:41:58.275Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE40NmZEXy1xaWIwaWdpY3RkNlY2Si05YXZvdWFsaUk4NHdMSlNac3BVaUJwRzhfWi1DQTkwdjI3R2ZuLTE4czItR1NyUkJtQjBYcURz?oc=5"
+    }
+  ]
+}

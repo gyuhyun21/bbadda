@@ -1,0 +1,24 @@
+{
+  "id": "youtube-068bb951",
+  "issue": "2026-W45",
+  "module": "league",
+  "teams": [],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=WCPT7T-vh10",
+  "title": "광주 하늘을 수놓은 김도영의 역전포🌠",
+  "published_at": "2026-10-29T10:58:19Z",
+  "collected_at": "2026-10-29T13:41:58.275Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 12372,
+    "likes": 425,
+    "comments": 19
+  },
+  "scores": {
+    "hot": 78,
+    "relevance": 30
+  },
+  "sentiment": "neutral"
+}

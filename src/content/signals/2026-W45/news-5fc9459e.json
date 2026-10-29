@@ -1,0 +1,29 @@
+{
+  "id": "news-5fc9459e",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "미주중앙일보",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5aQzVzZWI4TGRfWGJhRGVTd0RCeU9LamY5MjJHeE9rSkpFZjMxSEVuanl2WTNSa1g5UHhMd0x3Z0tfR000Wms5eXR0SkZILXQ4N0JOdGJDX0plUE1ZdW50Y2dn?oc=5",
+  "title": "‘1승 1패에서 누가 2승 선점할까’ KIA-삼성 3차전 1만8900석 매진, PS 44G 연속 매진 행진 [PO3]",
+  "published_at": "2026-10-29T10:40:00.000Z",
+  "collected_at": "2026-10-29T13:41:58.275Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "www.xportsnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBTa3pwODF4ckp6YnZRaG9idno3bmNseDRqbDY2TkpyenFDZ1hiVWJNQlBkc1lhYVVVcjBVN0xxYlowQVZUcEZmTnVuWERQLXJZX0o2SA?oc=5"
+    }
+  ]
+}

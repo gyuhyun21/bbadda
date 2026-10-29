@@ -1,0 +1,27 @@
+{
+  "id": "youtube-4e44d373",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "부볼의 야구공방",
+  "url": "https://www.youtube.com/watch?v=Bl-WJdR_QEc",
+  "title": "260728 SSG 안상현 등장 영상 (vs 두산) #안상현 #투수 #SSG #SSG랜더스 #두산 #두산베어스 #야구 #KBO",
+  "published_at": "2026-10-29T12:44:06Z",
+  "collected_at": "2026-10-29T13:41:58.275Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 0,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

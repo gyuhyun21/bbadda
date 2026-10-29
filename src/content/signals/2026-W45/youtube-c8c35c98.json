@@ -1,0 +1,29 @@
+{
+  "id": "youtube-c8c35c98",
+  "issue": "2026-W45",
+  "module": "league",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "team": "samsung",
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=9GJHc1-tMsU",
+  "title": "경기 초반 선취점을 만드는 삼성 디아즈의 선제 투런 홈런!! | PO3_삼성 vs KIA | 10.29 | 크보모먼트 | KBO 야구 하이라이트",
+  "published_at": "2026-10-29T10:09:44Z",
+  "collected_at": "2026-10-29T13:41:58.275Z",
+  "summary_ko": "KBO 공식 채널이 PO3 초반 삼성 디아즈의 선제 투런 홈런 영상을 올렸다.",
+  "metrics": {
+    "views": 36613,
+    "likes": 406,
+    "comments": 58
+  },
+  "scores": {
+    "hot": 65,
+    "relevance": 80
+  },
+  "sentiment": "positive",
+  "brief_ko": "디아즈 선제 투런"
+}

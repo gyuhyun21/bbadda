@@ -1,0 +1,33 @@
+{
+  "id": "news-856f904e",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "엑스포츠뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1HLW9tWEMweFpKZWtPZ1RIdUxXLUU5OUxVUE5sbmFTRlFKTU5Eb3ZPdmZQcFNJeEI4MERsaGtnU0hTaUd2RlFFTXJJc3d3LWM5V0pseQ?oc=5",
+  "title": "'내일' 없는 야구, 삼성이 끝내 웃었다!…박승규 결승타로 KIA 6-4 제압→KS까지 1승 남았다 [PO3:스코어]",
+  "published_at": "2026-10-29T12:47:23.000Z",
+  "collected_at": "2026-10-29T13:41:58.275Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 100,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE10WEU1dFI3TTgxTGxBYmE5Smc3d2t2X2RqbnRiSnM2SkJDcHh4VThCM0tvM3h6dmRMUmdpRU9kenE0Q01jZkt5QXBybjNRSTl0dkdMWGI4Yw?oc=5"
+    },
+    {
+      "source_name": "연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4tX1NnejF0ckJKV1BGZzN0ellzWk9rUUkxTVlJNF95Tlh2LVNUY0toRi1KMlBRQW9NblJEZ2NldGVVV2EtQTZhdGRBWkgyN2J6VzVfbWlmQ3d6LVnSAWBBVV95cUxNbG03b0JNeGVlM3lRTHlmWUdIdmZUc0VhcXZyY1k1VHZiMjVvTWo5OGtyZWZtOU5PWi03U25MVk5MWGc4U3NlUDRIYUdrZ3EtaEI3WGlVLUFxUXN5Q3Fpemo?oc=5"
+    }
+  ]
+}

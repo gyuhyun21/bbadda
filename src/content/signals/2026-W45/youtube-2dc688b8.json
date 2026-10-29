@@ -1,0 +1,26 @@
+{
+  "id": "youtube-2dc688b8",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "youtube",
+  "source_name": "작은손 피아노",
+  "url": "https://www.youtube.com/watch?v=493PF5sVS9s",
+  "title": "두산 베어스 라인업송 피아노 | 두산 라인업송 | 두산 베어스 응원가 | 피아노 편곡 | 작은손 피아노",
+  "published_at": "2026-10-29T13:39:31Z",
+  "collected_at": "2026-10-29T13:41:58.275Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1,
+    "likes": 2,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 44,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

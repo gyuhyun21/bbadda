@@ -1,0 +1,22 @@
+{
+  "id": "community-decc0722",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "다음카페 이종격투기",
+  "url": "https://cafe.daum.net/ssaumjil/LnOm/3378852",
+  "title": "3차전 승리한 삼성 라이온즈",
+  "published_at": "2026-10-29T22:22:54.000+09:00",
+  "collected_at": "2026-10-29T13:41:58.275Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

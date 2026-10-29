@@ -1,0 +1,29 @@
+{
+  "id": "news-b70906e3",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBVTHdtT0hkMUxOYXltUTBLSVpZcmJRdW9vMDZYNC01UFNEUThpcC05Ml9qcWsxRkE0cWpqSHBoVkNqWWRfNy0yOUxHUXJuV0NPZThqRVhzeGdxTUUyVWY0M2pmaURHcDM2Y2fSAW9BVV95cUxOMm1qX2JVZEdmeENJT29MNTUzSVpxWlRfdEhja1p6WEo2elU2bHpGTWltYmhpVmZrMTRtRFdqNEMyQzZfVFlnd3VGakwwRmJiWDRxU0d0YW5aNGtxY3VSMDJxcTVWYTZLc3dkcjFLNVE?oc=5",
+  "title": "삼성 사령탑 'KIA 이 선수' 극렬 경계 \"잘 요리해줬으면, 워낙 강했어\" 대체 누구길래 'PO3' 앞두고... [PO3 현장]",
+  "published_at": "2026-10-29T09:15:00.000Z",
+  "collected_at": "2026-10-29T13:41:58.275Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 90,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9TZXFYQUZSckRPZEtkd2xFRVc4cDVYdGs0cGxEMXQ0bkt0MmZzZkdaVklndnlyenFzcVh6cFN1Q3J6U1E5MDN5RUNkQ2J2cWpuRmlKNExWeC1FSjAwaTVlajR3TnN4UFhBTHRqWmd4T1picnRRQ0E?oc=5"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "news-ee25db84",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "무등일보",
+  "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1BYWhjQWdMM2w3WnlPMEk4SFozZTlIRmxwLXVkYzFHQ2wxTFo2eS1USnR1bmJOWU5Pd1ZBVlBTN0xnRXJtalozYzB3?oc=5",
+  "title": "[무잇슈] 1989년 해태 이후 없었다···KIA가 도전하는 37년 만의 우승 기록",
+  "published_at": "2026-10-29T08:03:00.000Z",
+  "collected_at": "2026-10-29T13:41:58.275Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 80
+  },
+  "sentiment": "positive"
+}

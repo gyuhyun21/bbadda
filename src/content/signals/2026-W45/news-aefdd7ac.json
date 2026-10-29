@@ -1,0 +1,23 @@
+{
+  "id": "news-aefdd7ac",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "마이데일리",
+  "url": "https://www.mydaily.co.kr/page/view/2026102922202162637",
+  "title": "2013 KS 6차전 생각나네…최원태-배찬승-이재희-원태인-이승민-김태훈-사토시 신들린 투수 교체, 삼성 이걸 이겼다 [MD광주 PO3]",
+  "published_at": "2026-10-29T13:29:56.000Z",
+  "collected_at": "2026-10-29T13:41:58.275Z",
+  "summary_ko": "삼성이 3차전에서 최원태부터 사토시까지 투수 7명을 차례로 올려 KIA를 이겼다. 마이데일리는 2013 KS 6차전이 떠오른다고 썼다.",
+  "metrics": {},
+  "scores": {
+    "hot": 92,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "투수 7명 릴레이로 버텼다"
+}

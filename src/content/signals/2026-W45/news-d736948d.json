@@ -1,0 +1,24 @@
+{
+  "id": "news-d736948d",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "무등일보",
+  "url": "https://www.mdilbo.com/detail/Gnhc66/760129",
+  "title": "'김도영·나성범 홈런 빛 바랬다' KIA, 삼성에 4-6 패배···PO 1승 2패 위기",
+  "published_at": "2026-10-29T13:26:00.000Z",
+  "collected_at": "2026-10-29T13:41:58.275Z",
+  "summary_ko": "KIA가 김도영과 나성범의 홈런에도 삼성에 4-6으로 졌다. PO 전적은 1승 2패로 벼랑 끝에 몰렸다.",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "mixed",
+  "brief_ko": "김도영·나성범 홈런에도 4-6 패"
+}

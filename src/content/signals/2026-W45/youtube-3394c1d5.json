@@ -1,0 +1,28 @@
+{
+  "id": "youtube-3394c1d5",
+  "issue": "2026-W45",
+  "module": "league",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "team": "samsung",
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=TMVsYNwySmo",
+  "title": "눈 깜짝할 사이에 삼성 이재현의 등장으로 완성된 더블 플레이! | PO3_삼성 vs KIA | 10.29 | 크보모먼트 | KBO 야구 하이라이트",
+  "published_at": "2026-10-29T13:17:44Z",
+  "collected_at": "2026-10-29T13:41:58.275Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 3065,
+    "likes": 279,
+    "comments": 85
+  },
+  "scores": {
+    "hot": 82,
+    "relevance": 80
+  },
+  "sentiment": "neutral"
+}

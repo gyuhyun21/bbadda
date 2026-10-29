@@ -1,0 +1,23 @@
+{
+  "id": "news-c139bb8c",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "남도일보",
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0yekhaWWxWRHNsNlJMT0xVWXl0MWZfQ1h2X0xoeHR3NDA3M3V6cmpBenR4SEVwdzllSG9iczRORDQtVzNISm03dm9YOUV2MEtlOG5CTHN5TG9hV1NLVDlESzJVM1NWYkxWT2J4VlpHSzLSAXBBVV95cUxNMnpIWllsVkRzbDZSTE9MVVl5dDFmX0NYdl9MaHh0dzQwNzN1enJqQXp0eEhFcHc5ZUhvYnM0TkQ0LVczSEptN3ZvWDlFdjBLZThuQkxzeUxvYVdTS1Q5REsyVTNTVmJMVk9ieFZaR0sy?oc=5",
+  "title": "[현장속으로] ‘PO넘어 V13’…광주는 지금 열광의 도가니",
+  "published_at": "2026-10-29T10:04:58.000Z",
+  "collected_at": "2026-10-29T13:41:58.275Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

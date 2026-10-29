@@ -1,0 +1,29 @@
+{
+  "id": "news-2364b07a",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBpWk1HSGp5a3JlNjN6OGE5TkFsdXk0ZmZLWWtob2xZa3Qxd0lmdnRvUGdDamNYTG54RDAtaFZmeFRXZlI0dGFYY3Y2Wm11NUF3djV2el9GaXY3YlBrNURTT3FDcjA1cGRQR0HSAW9BVV95cUxQczBnWHFnXzc0SnhWdmhydVRjUGl6a2c2WUtVUzJxV1NadlV3Q0xHelR1a2xXRUZSLVhaYmxwdVFrelUzaXYyQkd4MzR5UnA0RjVNbklUdHFPdURQbUUyU2JLc0JCNWNtNTZzN2hrRUk?oc=5",
+  "title": "[포토] '8회초 1사 만루위기 불근' 전상현",
+  "published_at": "2026-10-29T12:59:00.000Z",
+  "collected_at": "2026-10-29T13:41:58.275Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB4RGk0OWZSekV1Z01TQUZ6NXhCamswTDV5cUVsWFBhWTVPejRLdEdkRHBPd20xUGFUM1IzQjQyTlI3WkpfNHZNTnMydUxIOU56MzN3UXY5Y08wR0FPdnZWOC02ZnVzTkw1emctOWg3b1paanJXdkE?oc=5"
+    }
+  ]
+}

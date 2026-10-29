@@ -1,0 +1,28 @@
+{
+  "id": "youtube-0ceac57c",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "kt wiz - 위즈TV",
+  "url": "https://www.youtube.com/watch?v=sQuEyTD0D6M",
+  "title": "📢더 크게! 할 수 있다!  2026 한국시리즈 대비 팀 응원가 연습🔥 (feat.비트배트 필수!)",
+  "published_at": "2026-10-29T13:26:03Z",
+  "collected_at": "2026-10-29T13:41:58.275Z",
+  "summary_ko": "KT 공식 채널이 한국시리즈에 대비한 응원가 연습 영상을 올렸다.",
+  "metrics": {
+    "views": 1551,
+    "likes": 206,
+    "comments": 29
+  },
+  "scores": {
+    "hot": 78,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "KS 대비 응원가 연습"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "community-487c5804",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 gislee 님의 블로그",
+  "url": "https://gislee.tistory.com/343",
+  "title": "2026년 10월 28일_KT위즈 연습경기 무료관전",
+  "published_at": "2026-10-29T22:16:27.000+09:00",
+  "collected_at": "2026-10-29T13:41:58.275Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-e7fab6ed",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스타뉴스",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB5VWxnWWotZ2NXZkRleTNrQk1JWl9objAxNHVuekM3eTJnUklPMnUzMTRqODQ2V2cyWHN2TDZvSjc0VVhVVjdyQ1Y2UGJzZmJMY3pONEFDUkFjVmNWaEM2bFpwdnlzV0RhY0NYQ2RkclJlRnNHY1E?oc=5",
+  "title": "[포토] '플레이오프3차전 선발나선 시라카와",
+  "published_at": "2026-10-29T09:39:01.000Z",
+  "collected_at": "2026-10-29T13:41:58.275Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

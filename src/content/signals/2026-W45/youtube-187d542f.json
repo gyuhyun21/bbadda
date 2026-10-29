@@ -1,0 +1,26 @@
+{
+  "id": "youtube-187d542f",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "야구야구",
+  "url": "https://www.youtube.com/watch?v=WwlfDLP3DNs",
+  "title": "2차전에 이어 3차전에도 승리 이어가는 삼성라이온즈",
+  "published_at": "2026-10-29T13:21:09Z",
+  "collected_at": "2026-10-29T13:41:58.275Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 6466,
+    "likes": 369,
+    "comments": 94
+  },
+  "scores": {
+    "hot": 86,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

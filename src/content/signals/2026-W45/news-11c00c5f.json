@@ -1,0 +1,22 @@
+{
+  "id": "news-11c00c5f",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "데일리안",
+  "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQYmtjX0hYcklmTjFFMXc1a1I0S3YzTFZxN1hfN3ZOVldERmttLTdqQzlLR0lFeHFJM1NaVXJYaGkyRlNRY3hmcThscUNDVE5qcXk2Tk9tUHlGUGsxcDhpUkttY1dZTUVYZExpTzBhSmx3bGR4RHNnVkpGQzNhQm9reV8yc3pEbmdoYnRaMEFnYUdjb0pLNEM2c2w5UkFMbTNXeUxELWNoNGIxU1ZGRVdCZlpRb2JjQkcxN0g2SzlEWmw3TlRKOGJHSWVuQnBVUmVIR1R4VUFyN1RVUVZVSXJNVVJDOXRfWWJkcHVQSDBVOVFBUV84d0dMNFBNT2JlaWRt?oc=5",
+  "title": "빛고을 수놓은 홈런 공방전, 승자는 삼성",
+  "published_at": "2026-10-29T13:25:00.000Z",
+  "collected_at": "2026-10-29T13:41:58.275Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 80
+  },
+  "sentiment": "positive"
+}

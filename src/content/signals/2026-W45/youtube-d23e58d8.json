@@ -1,0 +1,26 @@
+{
+  "id": "youtube-d23e58d8",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "source_name": "루테라",
+  "url": "https://www.youtube.com/watch?v=DRvN_L1dNnE",
+  "title": "이글스 교육리그 막턴  3승을 하면서 마무리 #한화이글스",
+  "published_at": "2026-10-29T11:00:10Z",
+  "collected_at": "2026-10-29T13:41:58.275Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 387,
+    "likes": 32,
+    "comments": 4
+  },
+  "scores": {
+    "hot": 71,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}
