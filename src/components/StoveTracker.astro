@@ -47,7 +47,7 @@ const tiles = TEAMS.map((t) => ({ t, ...moves(players, t.id) }));
           <article class="fa-card" data-fa-status={st === 'open' ? 'open' : 'signed'} data-fa-teams={vt.join(' ')}>
             <div class="fa-top">
               <span class="fa-mark" style={`--team:${teamColor(p.from)}`} aria-hidden="true">{short(p.from)}</span>
-              <div class="fa-who"><h3>{p.name}</h3><p>{short(p.from)}{st === 'moved' && ` → ${short(p.signed!.team)}`} · {p.pos}{p.age && ` · ${p.age}세`}</p></div>
+              <div class="fa-who"><h3>{p.source ? <a href={p.source} target="_blank" rel="noopener noreferrer">{p.name}</a> : p.name}</h3><p>{short(p.from)}{st === 'moved' && ` → ${short(p.signed!.team)}`} · {p.pos}{p.age && ` · ${p.age}세`}</p></div>
               {p.grade && <span class="fa-grade">{p.grade}등급</span>}
             </div>
             <span class={`fa-state fa-state--${st}`}>{STATE[st]}</span>
