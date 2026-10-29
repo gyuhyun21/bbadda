@@ -22,30 +22,30 @@ list: expected
 as_of: 2026-10-29
 # 예상 명단: 한국미디어일보 2026-07-22 '구단별 2027 FA 예상'(SSG·키움은 이름 없음). 최지훈은 OSEN 2026-09-20 "시즌 종료 후 FA 자격"(source).
 # hot: 10월 언론 기사(수집된 signal)에 'FA'와 함께 이름이 나온 선수 — 원태인·구자욱(머니투데이 10-27, 세계일보 10-23), 박동원(MHN 10-22), 홍창기(스포츠경향 10-25), 김호령(마이데일리 10-24, 파이낸셜뉴스 10-21), 최지훈(OSEN 9-20).
-# 관심 구단·몸값·장단점: 언론 기사로 확인된 것이 없어 비워 둠(블로그·유튜브 추측은 넣지 않음).
+# 관심 구단: 언론 확인 전 블로그·영상의 영입설·이적 가능성을 rumor: true 로(저장소 주인 결정, 2026-10-29). 팬의 바람('~노려야 한다')은 뺌. 몸값·장단점은 언론 확인 전이라 비워 둠.
 list_source: https://www.koreamedia.net/news/view.asp?idx=22973&msection=5&ssection=43
 players:
-  - { id: won-taein, name: 원태인, from: samsung, pos: 투수, hot: true }
-  - { id: gu-jauk, name: 구자욱, from: samsung, pos: 외야수, hot: true }
-  - { id: park-dongwon, name: 박동원, from: lg, pos: 포수, hot: true }
-  - { id: hong-changgi, name: 홍창기, from: lg, pos: 외야수, hot: true }
-  - { id: kim-horyeong, name: 김호령, from: kia, pos: 외야수, hot: true }
-  - { id: choi-jihoon, name: 최지훈, from: ssg, pos: 외야수, hot: true, source: https://www.koreadaily.com/article/20260920054021523 }
-  - { id: bae-jeongdae, name: 배정대, from: kt, pos: 외야수 }
-  - { id: jung-subin, name: 정수빈, from: doosan, pos: 외야수 }
-  - { id: yang-euiji, name: 양의지, from: doosan, pos: 포수 }
+  - { id: won-taein, name: 원태인, from: samsung, pos: 투수, hot: true, interest: [{ team: lg, rumor: true, sources: [https://www.youtube.com/watch?v=bFbKk1CU1E0, https://www.fmkorea.com/10478790396] }, { team: hanwha, rumor: true, sources: [https://blog.naver.com/jaewon17epl/224445162247] }] }
+  - { id: gu-jauk, name: 구자욱, from: samsung, pos: 외야수, hot: true, interest: [{ team: doosan, rumor: true, sources: [https://www.youtube.com/watch?v=eic760pzjVU, https://blog.naver.com/joojoo-secret/224443695313, https://blog.naver.com/sicher782/224444212515] }, { team: lotte, rumor: true, sources: [https://blog.naver.com/value486/224444988749, https://blog.naver.com/sicher782/224444828366, https://blog.naver.com/skdus173/224444288360] }, { team: ssg, rumor: true, sources: [https://www.youtube.com/watch?v=_ZXmoR7qPjw, https://blog.naver.com/namaksin14/224444558859] }, { team: hanwha, rumor: true, sources: [https://blog.naver.com/borussenreus/224444990227] }] }
+  - { id: park-dongwon, name: 박동원, from: lg, pos: 포수, hot: true, interest: [{ team: kt, rumor: true, sources: [https://blog.naver.com/zoom3998/224454716250] }, { team: ssg, rumor: true, sources: [https://blog.naver.com/kipyo0925/224454454454] }] }
+  - { id: hong-changgi, name: 홍창기, from: lg, pos: 외야수, hot: true, interest: [{ team: hanwha, rumor: true, sources: [https://blog.naver.com/value486/224448540091, https://blog.naver.com/jjiwoo1027/224445698092, https://blog.naver.com/ghs102102/224454744027] }] }
+  - { id: kim-horyeong, name: 김호령, from: kia, pos: 외야수, hot: true, interest: [{ team: hanwha, rumor: true, sources: [https://www.youtube.com/watch?v=h_aWSY_cz-s, https://www.youtube.com/watch?v=XT3jsanPE98, https://blog.naver.com/juhyun002/224454766873] }, { team: lotte, rumor: true, sources: [https://blog.naver.com/juhyun002/224454766873] }] }
+  - { id: choi-jihoon, name: 최지훈, from: ssg, pos: 외야수, hot: true, source: https://www.koreadaily.com/article/20260920054021523, interest: [{ team: hanwha, rumor: true, sources: [https://blog.naver.com/sportsb-s/224445039796, https://www.youtube.com/watch?v=ZYg9837Z9EY, https://www.youtube.com/watch?v=h_aWSY_cz-s] }, { team: nc, rumor: true, sources: [https://www.youtube.com/watch?v=ZYg9837Z9EY] }, { team: kia, rumor: true, sources: [https://www.youtube.com/watch?v=XT3jsanPE98] }] }
+  - { id: bae-jeongdae, name: 배정대, from: kt, pos: 외야수, interest: [{ team: hanwha, rumor: true, sources: [https://www.youtube.com/watch?v=pxf0m1HdFAE] }] }
+  - { id: jung-subin, name: 정수빈, from: doosan, pos: 외야수, interest: [{ team: hanwha, rumor: true, sources: [https://blog.naver.com/sportpulse/224451097283, https://www.youtube.com/watch?v=6aYgVrMuKOM] }] }
+  - { id: yang-euiji, name: 양의지, from: doosan, pos: 포수, interest: [{ team: ssg, rumor: true, sources: [https://blog.naver.com/kipyo0925/224454454454] }] }
   - { id: park-chiguk, name: 박치국, from: doosan, pos: 투수 }
   - { id: jeon-byeongwoo, name: 전병우, from: samsung, pos: 내야수 }
   - { id: park-sehyuk, name: 박세혁, from: samsung, pos: 포수 }
   - { id: kim-minsu-kt, name: 김민수, from: kt, pos: 투수 }
   - { id: choi-donghwan, name: 최동환, from: kt, pos: 투수 }
   - { id: han-seunghyuk, name: 한승혁, from: kt, pos: 투수 }
-  - { id: kim-sangsu-kt, name: 김상수, from: kt, pos: 내야수 }
+  - { id: kim-sangsu-kt, name: 김상수, from: kt, pos: 내야수, interest: [{ team: samsung, rumor: true, sources: [https://www.youtube.com/watch?v=gSaDQ7niMJ0, https://blog.naver.com/sportshub_/224448089151, https://blog.naver.com/trendmoney_/224446013910] }] }
   - { id: oh-yunseok, name: 오윤석, from: kt, pos: 내야수 }
   - { id: kim-minhyuk-kt, name: 김민혁, from: kt, pos: 외야수 }
   - { id: lee-changjin, name: 이창진, from: kia, pos: 외야수 }
   - { id: kim-taegun, name: 김태군, from: kia, pos: 포수 }
   - { id: choi-jaehun, name: 최재훈, from: hanwha, pos: 포수 }
-  - { id: park-sangwon, name: 박상원, from: hanwha, pos: 투수 }
+  - { id: park-sangwon, name: 박상원, from: hanwha, pos: 투수, interest: [{ team: lotte, rumor: true, sources: [https://blog.naver.com/chaesports/224455930193] }] }
   - { id: kwon-heedong, name: 권희동, from: nc, pos: 외야수 }
   - { id: park-seungwook, name: 박승욱, from: lotte, pos: 내야수 }
