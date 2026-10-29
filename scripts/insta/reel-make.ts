@@ -14,6 +14,7 @@ import { execFileSync } from 'node:child_process';
 
 type Seg = { src: string; say?: string; text?: string; kick?: string; head?: string; note?: string; dur?: number; fit?: boolean; from?: number; to?: number; live?: boolean; credit?: string };
 const FOOTAGE_MAX = 39; // 티빙·KBO 허용 '40초 미만'보다 1초 여유
+const SPEED = 1.3; // 2026-10-29 주인 결정: 전개를 30% 빠르게 — 다 만든 영상 전체(목소리·전환·음악)를 1.3배로, 음 높이는 그대로
 type End = { kick?: string; head: string; a?: string; b?: string; cta: string; say?: string };
 const ROOT = process.cwd();
 const [dirArg, outArg] = process.argv.slice(2);
@@ -117,5 +118,5 @@ writeFileSync(join(TMP, 'list.txt'), parts.map((p) => `file '${p}'`).join('\n'))
 ff('-f', 'concat', '-safe', '0', '-i', join(TMP, 'list.txt'), '-c', 'copy', join(TMP, 'cat.mp4'));
 const total = dur(join(TMP, 'cat.mp4'));
 const music = join(ROOT, `scripts/insta/music/${spec.music ?? 'bgm-breaking'}.mp3`);
-ff('-i', join(TMP, 'cat.mp4'), '-i', music, '-filter_complex', `[1]volume=${spec.segments.some((x) => x.live && !isStill(x.src)) ? 0.12 : spec.segments.some(hasVoice) ? 0.2 : 0.7},atrim=0:${total},afade=t=out:st=${Math.max(total - 1, 0)}:d=1[b];[0:a][b]amix=inputs=2:duration=first:normalize=0,loudnorm=I=-14:TP=-1.5[m]`, '-map', '0:v', '-map', '[m]', '-c:v', 'copy', '-c:a', 'aac', '-b:a', '160k', '-movflags', '+faststart', OUT);
-console.log(JSON.stringify({ out: OUT, seconds: Number(total.toFixed(1)), footage: Number(footage.toFixed(1)) }));
+ff('-i', join(TMP, 'cat.mp4'), '-i', music, '-filter_complex', `[1]volume=${spec.segments.some((x) => x.live && !isStill(x.src)) ? 0.12 : spec.segments.some(hasVoice) ? 0.2 : 0.7},atrim=0:${total},afade=t=out:st=${Math.max(total - 1, 0)}:d=1[b];[0:a][b]amix=inputs=2:duration=first:normalize=0,loudnorm=I=-14:TP=-1.5,atempo=${SPEED}[m];[0:v]setpts=PTS/${SPEED}[v]`, '-map', '[v]', '-map', '[m]', '-c:v', 'libx264', '-crf', '20', '-pix_fmt', 'yuv420p', '-c:a', 'aac', '-b:a', '160k', '-movflags', '+faststart', OUT);
+console.log(JSON.stringify({ out: OUT, seconds: Number((total / SPEED).toFixed(1)), footage: Number(footage.toFixed(1)) }));
