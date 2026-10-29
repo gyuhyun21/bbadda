@@ -61,12 +61,16 @@ p { margin: 0 0 1em; }
 .site-header .nav a.nav-game { background: linear-gradient(145deg, #CFE9D6, #9FD3AE); }
 .site-header .nav a.nav-game:active, .site-header .nav a.nav-game[aria-current="page"] { background: #9FD3AE; box-shadow: inset 4px 4px 8px rgba(40, 110, 60, 0.35), inset -4px -4px 8px rgba(220, 245, 228, 0.9); }
 .nav .lbl-short { display: none; }
+.site-header .nav a.nav-ig { display: inline-flex; padding: 6px; border: 0; color: var(--ink); }
+.site-header .nav a.nav-ig svg { width: 20px; height: 20px; fill: none; stroke: currentColor; stroke-width: 2; }
+.site-header .nav a.nav-ig svg .fill { fill: currentColor; stroke: none; }
+.site-header .nav a.nav-ig:hover { opacity: 0.7; }
 @media (max-width: 719px) {
   .nav .lbl-full { display: none; }
   .nav .lbl-short { display: inline; }
   .site-header nav.nav { gap: 2px 6px; } /* 레이아웃 테마(.layout-apple .nav 20px)보다 우선 */
   .site-header .nav a.nav-cheer { padding: 8px 9px; gap: 4px; }
-  .site-header .nav a:not(.nav-cheer) { display: none; } /* 휴대폰 머리말엔 알약 2개만(소개는 바닥글·PC 메뉴) */
+  .site-header .nav a:not(.nav-cheer):not(.nav-ig) { display: none; } /* 휴대폰 머리말엔 알약 2개만(소개는 바닥글·PC 메뉴) */
 }
 /* 폭 380px 미만(갤럭시 360 등): 알약 아이콘을 빼서 두 버튼이 한 줄에 들어가게 */
 @media (max-width: 379px) { .site-header .nav a.nav-cheer svg { display: none; } }

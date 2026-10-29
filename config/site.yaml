@@ -32,6 +32,8 @@ postseason_bracket: true
 # stove_tracker: 첫 화면 FA 행선지(data/stove.yaml — FA 선수·관심 구단·보도 몸값·장단점·행선지 투표, 2026-10-29 도입).
 #   한국시리즈가 끝나기 전에는 가을야구 대진 아래, 끝나면 맨 위. 선수가 없으면 나오지 않는다. false 로 끄면 이전 화면. 환경변수 SITE_STOVE=on|off 우선.
 stove_tracker: true
+# instagram: 우리 인스타 계정(@bbadda_officials) — 머리말 오른쪽 아이콘·바닥글 '팔로우' 링크(2026-10-29 도입). 지우거나 null 이면 이전 화면. 환경변수 SITE_INSTA_LINK=off 우선.
+instagram: https://www.instagram.com/bbadda_officials/
 # section_headings: 섹션 제목 위 눈썹 라벨(POSTSEASON·TOP STORIES 등)과 굵은 구분선. false 면 이전의 제목만 있는 화면. 환경변수 SITE_HEADINGS=on|off 우선(2026-10-17 도입).
 section_headings: true
 # brand_logo: 헤더의 BBADDA 빠따닷컴 로고 이미지(public/brand/bbadda-logo.webp, 저장소 주인 제작, 2026-10-17). false 면 글자 로고. 환경변수 SITE_BRAND_LOGO=on|off 우선.
