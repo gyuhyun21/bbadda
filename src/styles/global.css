@@ -863,3 +863,4 @@ a.is-fresh::before { content: 'NEW'; display: inline-block; margin-right: 6px; p
   .fa-tiles { gap: 4px; }
   .fa-tiles li { padding: 8px 2px; font-size: 11px; }
 }
+.fa-who h3 a { color: inherit; text-decoration: none; }

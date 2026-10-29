@@ -18,6 +18,7 @@ export const stoveSchema = z.object({
   players: z.array(z.object({
     id: z.string().max(40).regex(FA_SLUG),
     name: z.string(),
+    source: src.optional(), // list_source 명단에 없는 선수의 FA(예정) 근거 기사
     from: z.string(), // 원소속 팀 id
     pos: z.string(),
     age: z.number().int().optional(),
