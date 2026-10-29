@@ -13,6 +13,9 @@ test('FA: 계약 상태·투표 보기·구단별 이동', () => {
   assert.deepEqual([a, b, c].map(statusOf), ['moved', 'stayed', 'open']);
   assert.deepEqual(voteTeams(c), ['lg', 'hanwha', 'lotte']);
   assert.deepEqual(voteTeams(a), ['lg', 'samsung']);
+  // 관심 구단 보도 없는 미계약 선수 → 10개 구단 전부, 원소속 먼저
+  assert.deepEqual(voteTeams({ ...c, interest: [] }, ['hanwha', 'lg', 'kt']), ['lg', 'hanwha', 'kt']);
+  assert.deepEqual(voteTeams(c, ['kt']), ['lg', 'hanwha', 'lotte']);
   assert.deepEqual(moves(d.players, 'lg'), { gain: 0, loss: 1, stay: 0 });
   assert.deepEqual(moves(d.players, 'samsung'), { gain: 1, loss: 0, stay: 0 });
   assert.deepEqual(moves(d.players, 'kia'), { gain: 0, loss: 0, stay: 1 });

@@ -13,7 +13,8 @@ export const FA_SLUG = /^[a-z0-9]+(-[a-z0-9]+)*$/;
 export const stoveSchema = z.object({
   season: z.number().int(), // FA 계약이 시작되는 시즌(예: 2027)
   as_of: dateStr.optional(),
-  list_source: src.optional(), // FA 승인 선수 명단 근거(KBO 공시 보도·발표)
+  list_source: src.optional(), // FA 승인 선수 명단 근거(KBO 공시 보도·발표). expected 면 예상 명단 보도
+  list: z.enum(['expected', 'approved']).default('approved'), // expected = KBO 공시 전 'FA 예정자'(보도 기준)
   players: z.array(z.object({
     id: z.string().max(40).regex(FA_SLUG),
     name: z.string(),
@@ -47,8 +48,9 @@ export function orderPlayers(players: FaPlayer[]): FaPlayer[] {
   return players.map((p, i) => ({ p, i })).sort((a, b) => Number(b.p.hot) - Number(a.p.hot) || Number(!!a.p.signed) - Number(!!b.p.signed) || a.i - b.i).map((x) => x.p);
 }
 
-/** 행선지 투표 보기: 원소속 팀 + 관심 구단(+ 계약한 팀) */
-export const voteTeams = (p: FaPlayer): string[] => [...new Set([p.from, ...p.interest.map((x) => x.team), ...(p.signed ? [p.signed.team] : [])])];
+/** 행선지 투표 보기: 원소속 팀 + 관심 구단(+ 계약한 팀). 관심 구단 보도가 없는 미계약 선수는 10개 구단 전부(원소속 먼저) */
+export const voteTeams = (p: FaPlayer, all: string[] = []): string[] =>
+  [...new Set([p.from, ...p.interest.map((x) => x.team), ...(p.signed ? [p.signed.team] : !p.interest.length ? all : [])])];
 
 /** 투표 id — api/_vote.ts parseFaId 와 같은 형식 */
 export const faVoteId = (season: number, p: FaPlayer) => `fa${season}-${p.id}`;
