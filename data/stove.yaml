@@ -16,5 +16,36 @@
 #     signed: { team: hanwha, terms: "4년 최대 90억", date: 2026-11-20, source: https://... }  # 구단 공식 발표·보도
 #     pros: [{ text: "3시즌 연속 150이닝", kind: record, source: https://... }]   # record=기록, report=기사 평가. 40자 이내, 각 2개까지
 #     cons: [{ text: "후반기 구속 하락 지적", kind: report, source: https://... }]
+# list: expected = KBO 공시 전 'FA 예정자'(예상 명단 보도 기준, 화면에 '공시 전' 표시) | approved = FA 승인 공시 뒤. 공시가 나오면 approved 로 바꾸고 명단을 공시 기준으로 고친다.
 season: 2027
-players: []
+list: expected
+as_of: 2026-10-29
+# 예상 명단: 한국미디어일보 2026-07-22 '구단별 2027 FA 예상'(SSG·키움은 이름 없음). 최지훈은 OSEN 2026-09-20 "시즌 종료 후 FA 자격"(source).
+# hot: 10월 언론 기사(수집된 signal)에 'FA'와 함께 이름이 나온 선수 — 원태인·구자욱(머니투데이 10-27, 세계일보 10-23), 박동원(MHN 10-22), 홍창기(스포츠경향 10-25), 김호령(마이데일리 10-24, 파이낸셜뉴스 10-21), 최지훈(OSEN 9-20).
+# 관심 구단·몸값·장단점: 언론 기사로 확인된 것이 없어 비워 둠(블로그·유튜브 추측은 넣지 않음).
+list_source: https://www.koreamedia.net/news/view.asp?idx=22973&msection=5&ssection=43
+players:
+  - { id: won-taein, name: 원태인, from: samsung, pos: 투수, hot: true }
+  - { id: gu-jauk, name: 구자욱, from: samsung, pos: 외야수, hot: true }
+  - { id: park-dongwon, name: 박동원, from: lg, pos: 포수, hot: true }
+  - { id: hong-changgi, name: 홍창기, from: lg, pos: 외야수, hot: true }
+  - { id: kim-horyeong, name: 김호령, from: kia, pos: 외야수, hot: true }
+  - { id: choi-jihoon, name: 최지훈, from: ssg, pos: 외야수, hot: true, source: https://www.koreadaily.com/article/20260920054021523 }
+  - { id: bae-jeongdae, name: 배정대, from: kt, pos: 외야수 }
+  - { id: jung-subin, name: 정수빈, from: doosan, pos: 외야수 }
+  - { id: yang-euiji, name: 양의지, from: doosan, pos: 포수 }
+  - { id: park-chiguk, name: 박치국, from: doosan, pos: 투수 }
+  - { id: jeon-byeongwoo, name: 전병우, from: samsung, pos: 내야수 }
+  - { id: park-sehyuk, name: 박세혁, from: samsung, pos: 포수 }
+  - { id: kim-minsu-kt, name: 김민수, from: kt, pos: 투수 }
+  - { id: choi-donghwan, name: 최동환, from: kt, pos: 투수 }
+  - { id: han-seunghyuk, name: 한승혁, from: kt, pos: 투수 }
+  - { id: kim-sangsu-kt, name: 김상수, from: kt, pos: 내야수 }
+  - { id: oh-yunseok, name: 오윤석, from: kt, pos: 내야수 }
+  - { id: kim-minhyuk-kt, name: 김민혁, from: kt, pos: 외야수 }
+  - { id: lee-changjin, name: 이창진, from: kia, pos: 외야수 }
+  - { id: kim-taegun, name: 김태군, from: kia, pos: 포수 }
+  - { id: choi-jaehun, name: 최재훈, from: hanwha, pos: 포수 }
+  - { id: park-sangwon, name: 박상원, from: hanwha, pos: 투수 }
+  - { id: kwon-heedong, name: 권희동, from: nc, pos: 외야수 }
+  - { id: park-seungwook, name: 박승욱, from: lotte, pos: 내야수 }
