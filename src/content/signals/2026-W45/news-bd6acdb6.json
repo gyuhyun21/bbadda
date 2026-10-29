@@ -1,0 +1,23 @@
+{
+  "id": "news-bd6acdb6",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "일간스포츠",
+  "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA5dmhKZnBXbHE0TTlOXzlaa1NhTExMNDRhTE5Gd0tVTkQ2ZWg4Vk9rdkktTjZMeExGT0poT3VDYnJyeEljOFBBSTYwZmdTS3AtckJiUk42S0o3ZzQ?oc=5",
+  "title": "[IS 광주] 한준수 아닌 김태군 선택...이범호 감독 \"아무래도 눈썰미가 다르지\"",
+  "published_at": "2026-10-29T07:52:00.000Z",
+  "collected_at": "2026-10-29T21:38:16.996Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

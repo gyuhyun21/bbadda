@@ -1,0 +1,29 @@
+{
+  "id": "news-e2b23971",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://www.mt.co.kr/amp/sports/2026/10/30/2026102922394641774",
+  "title": "'단 1구로 끝냈다!' 김도영 잡은 삼성 사토시, PS 역대 최초 외인 '1구' SV→1996년 이강철·2014년 한현희 이어 통산 3호",
+  "published_at": "2026-10-29T15:01:00.000Z",
+  "collected_at": "2026-10-29T21:38:16.996Z",
+  "summary_ko": "삼성 사토시가 PO 3차전 마지막 타자 김도영을 단 1구로 잡고 세이브를 챙겼다. 머니투데이는 포스트시즌 외국인 투수 최초의 '1구 세이브'이자 통산 3호라고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 98,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBCeDl4d0Z0M2tUN1UxamExYzZtemtjMGw0bHQtbGRvNVNXRmpUMkQxZU1hWWRHTF95OERXaUlaaEZqZTEtVzFSRnNNRVBHMXY2dm55dDRMUFV2LXQyVXZqOEkxZXZyY2VncVlvME92X1pmcFR2ZlE?oc=5"
+    }
+  ],
+  "brief_ko": "사토시, 1구 세이브"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-d633e84b",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "경북일보",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9SU1hNRHAzWTNCckRtSUVYTF9xTnI5bFo0NEgxM09tU0RRTkFOVldYVlpGaVZibUVHTGlweENYcjRxaUZ1QzZxX0E0MUsxb2FGYnE5a0pFOS0xRlpDbnJmMlJiR2U2eGxmRVRJV2NWaw?oc=5",
+  "title": "삼성, KIA 6대4 꺾고 PO 2승1패…한국시리즈까지 1승",
+  "published_at": "2026-10-29T13:35:30.000Z",
+  "collected_at": "2026-10-29T21:38:16.996Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 81,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

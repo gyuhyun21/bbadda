@@ -1,0 +1,29 @@
+{
+  "id": "news-b238cc1e",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "영남일보",
+  "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBvd3QtZEdOMUdneFpLRlVUQlM0MFhlMnhPVUpHX0poZ0tIQmFCZDdYTnhWTE91YjFfSkVsQmxGaHd6Wlcta2x4WGR6QXEtWFJvVl9OVVl0R2tMb3JfbXZzZnZZN2M2N2t2Mk1n?oc=5",
+  "title": "‘KS 진출 8부 능선 넘었다’ 삼성 라이온즈, 광주 원정서 난타전 끝 KIA 잡고 PO ‘2승 1패’",
+  "published_at": "2026-10-29T13:19:00.000Z",
+  "collected_at": "2026-10-29T21:38:16.996Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 81,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "아시아투데이",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9UaDV4OURreG5EVEpwV3liVzN0NWdjV09BSy1DMHVYZGI3TlRFNTNhUWNwemJTN3I1WXprRktMMS1FaTZTR2p2WkpFZWJhR2R0ZHBYUHRHRjdTZVJzdUROSW1VNmJoNnNYaE1OcGh3?oc=5"
+    }
+  ]
+}

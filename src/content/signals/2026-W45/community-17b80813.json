@@ -1,0 +1,24 @@
+{
+  "id": "community-17b80813",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&page=3&document_srl=10497212378",
+  "title": "오늘이 존나 춥긴하네 - 야구",
+  "published_at": "2026-10-29T08:38:16.996Z",
+  "collected_at": "2026-10-29T21:38:16.996Z",
+  "summary_ko": "",
+  "excerpt": "... 이제 키움히어로즈 똥글 누가 싸냐 [16] · PC · 다크ONOFF.",
+  "metrics": {},
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

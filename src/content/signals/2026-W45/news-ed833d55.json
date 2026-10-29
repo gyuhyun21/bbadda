@@ -1,0 +1,23 @@
+{
+  "id": "news-ed833d55",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠타임스",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB2MGdfeEpWbjdHdEk2VHhNWGcyaGd2eFVFZFZ0anByVzVyWFpwY2NGbEJmMVlfaVhJWEFaNWNOZGdpcmlRVVltbFU3N1k4eU5CMktiYW9jam5jUTk1d2RhMEI4QTJ3WlJSMjdMeVhfaW1CeEQxUEE?oc=5",
+  "title": "'최원태 조기 강판 승부수' 삼성, KIA 허 찌른 빠른 투수교체로 3차전 승리 움켜쥐었다",
+  "published_at": "2026-10-29T21:02:33.000Z",
+  "collected_at": "2026-10-29T21:38:16.996Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 80
+  },
+  "sentiment": "positive"
+}

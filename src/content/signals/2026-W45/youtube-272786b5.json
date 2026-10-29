@@ -1,0 +1,24 @@
+{
+  "id": "youtube-272786b5",
+  "issue": "2026-W45",
+  "module": "league",
+  "teams": [],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=D-VCocCgbuA",
+  "title": "[2026 신한 SOL KBO 플레이오프 3차전 - 경기결과]",
+  "published_at": "2026-10-29T13:38:52Z",
+  "collected_at": "2026-10-29T21:38:16.996Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 32796,
+    "likes": 571,
+    "comments": 55
+  },
+  "scores": {
+    "hot": 68,
+    "relevance": 30
+  },
+  "sentiment": "neutral"
+}

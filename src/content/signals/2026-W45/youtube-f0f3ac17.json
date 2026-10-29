@@ -1,0 +1,27 @@
+{
+  "id": "youtube-f0f3ac17",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "K-Pride",
+  "url": "https://www.youtube.com/watch?v=HAVs6q8VTAU",
+  "title": "최연소 30-30에서 홈런왕까지, 김도영의 기록 #김도영 #국뽕",
+  "published_at": "2026-10-29T16:15:36Z",
+  "collected_at": "2026-10-29T21:38:16.996Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 701,
+    "likes": 6,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 40,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

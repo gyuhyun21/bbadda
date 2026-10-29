@@ -140,6 +140,8 @@ rounds:
         result: { kia: 4, samsung: 6 }
         source: "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB1UktFZlRlcXF1N3NfdS1hcmtPNEdyY0FTU3g2OHFXclEyTldJcUMzVFU2N2g1MWFGNnFKVEtYeWl1TjdmWUR2eTVFOFVfekoxQ3dJX1dRVWxreGdIZW1fbjFxX3p4ZE0?oc=5" # 연합뉴스TV '삼성, KIA 6-4 제압…한국시리즈까지 1승 남았다'(종합 기사 제목 6-4, 스타뉴스·엑스포츠 동일)
         win: 원태인 # 스타뉴스 '원태인 구원승·박승규 결승타'
+        save: 사토시 # 머니투데이 '단 1구로 끝냈다! 김도영 잡은 삼성 사토시, PS 역대 최초 외인 1구 SV'
+        mvp: "류지혁(삼성)" # 머니투데이 '[사진]류지혁,PO 3차전 MVP 됐어요'
         homers: ["디아즈(삼성) 선제 투런", "김도영(KIA) 3회 솔로", "류지혁(삼성) 5회 투런", "나성범(KIA) 6회 솔로"] # 스포츠한국·연합뉴스·뉴스핌
         attendance: "1만 8900석 매진 (포스트시즌 44경기 연속 매진)" # 미주중앙일보
         ig:
@@ -149,6 +151,8 @@ rounds:
         facts:
           - "PO 3차전 승리 팀 KS 진출 확률 75%"
         sources:
+          - "https://news.google.com/rss/articles/CBMib0FVX3lxTE1tYUdQVGhIblE4cDE2emR6ckhsajdVQmlIX2lEMlhlWkdKb2hzZGtYTGJMQXZzWmQ0WWtvWWxrVWszVFdZOE9CM1JJOWZDV1ZCc2hFZjVyRlg3Wk94RTV2VG5CQ3k4MEROSGptR1psNNIBb0FVX3lxTE1tYUdQVGhIblE4cDE2emR6ckhsajdVQmlIX2lEMlhlWkdKb2hzZGtYTGJMQXZzWmQ0WWtvWWxrVWszVFdZOE9CM1JJOWZDV1ZCc2hFZjVyRlg3Wk94RTV2VG5CQ3k4MEROSGptR1psNA?oc=5" # 사토시 1구 세이브(머니투데이)
+          - "https://news.google.com/rss/articles/CBMidkFVX3lxTFBCeDl4d0Z0M2tUN1UxamExYzZtemtjMGw0bHQtbGRvNVNXRmpUMkQxZU1hWWRHTF95OERXaUlaaEZqZTEtVzFSRnNNRVBHMXY2dm55dDRMUFV2LXQyVXZqOEkxZXZyY2VncVlvME92X1pmcFR2ZlE?oc=5" # 3차전 MVP 류지혁(머니투데이)
           - "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5aQzVzZWI4TGRfWGJhRGVTd0RCeU9LamY5MjJHeE9rSkpFZjMxSEVuanl2WTNSa1g5UHhMd0x3Z0tfR000Wms5eXR0SkZILXQ4N0JOdGJDX0plUE1ZdW50Y2dn?oc=5" # 3차전 매진 1만8900석(미주중앙일보)
           - "https://news.google.com/rss/articles/CBMidkFVX3lxTE82dzJEQUpQazNJMENOY2hFWjJYWUFaeGxLUndBbnBsbHY3ME5BbzJEMDRweVhKS2R4X2xUc0ctWUVtUDk5RjRnanFxQS1IUGhqU1dlakE0RmdjOHhjV25fa2ZMcUc4c2kyWHdhRk5Qd2UtM2NQcWc?oc=5" # 홈런 공방·원태인 구원승(스타뉴스)
           - "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBPTVNjS194Sl9nbGsxYXRfNVYwNXZ2ZFZTWXpuUEV2UVNDNFJ4MW5jR1A3MXQ5dVdrNDhOYmxEUGtraU8xYjRTZEVzeUFteFNlNlBta2UzRQ?oc=5" # 3차전 이기면 KS 진출 확률 75%(뉴스1)
@@ -158,9 +162,10 @@ rounds:
       - no: 4
         date: 2026-10-30
         venue: { home_of: spo }
-        starters: { kia: 네일 } # 예고 선발(일간스포츠 '4차전 선발 제임스 네일 선택', 2026-10-29)
+        starters: { kia: 네일, samsung: 페덱 } # 예고 선발(일간스포츠 '4차전 선발 제임스 네일 선택', 2026-10-29)
         sources:
           - "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9OalgwbTF6ang3TlNLVTZWaUZyT0Rqc1Z4TWZTX3M1bDZVX0cxa3R3TXVOaVhYUW5UQWJPV0g3emxsQVllaXFkR2VHU25aSlNfaWlnYTlSdGlJWTQ?oc=5" # KIA 4차전 선발 네일
+          - "https://news.google.com/rss/articles/CBMiakFVX3lxTE9sRFh4YWhIQk5ncVpHaWlzOVJHZ09oUG5sekVsTE9jMzBjSFpPaWFHUUI2VTBQVWFsSVVnWC1yVURkWGlULVFlQ0l4a0F1YktuSGFOVkVHN2ExTHo3ck10aTlQRTBVVUY2S2fSAW9BVV95cUxPWlBOSkFiTzF0ZVNGRzdwbUxQQ0ZxNUZpd095Y2ZiWkFFVjA4R1B0SmdRdXBXenByU0J0UTRINTJockkxcURMbXd5dm82V0Nsb0UwcFZPUjdjTkNPaUpuOTJtMmc5RDBOd3J6ZWRIZlk?oc=5" # 삼성 4차전 선발 페덱(연합뉴스 '벼랑 끝 KIA 네일 vs 굳히기 삼성 페덱')
       - { no: 5, date: 2026-11-01, venue: 대구 }
   - id: ks
     name: 한국시리즈

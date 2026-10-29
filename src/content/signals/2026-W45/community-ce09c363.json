@@ -1,0 +1,24 @@
+{
+  "id": "community-ce09c363",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/10498533172",
+  "title": "근데 오늘 왜 포수 김태군이였음? - 야구",
+  "published_at": "2026-10-29T14:38:16.996Z",
+  "collected_at": "2026-10-29T21:38:16.996Z",
+  "summary_ko": "",
+  "excerpt": "... 경기 전 감독 브리핑에서 만난 이범호 가목은 \"(투수) 리드는 아무래도 (김)태군이가 낫다고 생각한다. (한)준수가…",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

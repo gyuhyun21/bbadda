@@ -1,0 +1,24 @@
+{
+  "id": "community-f4635746",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 디지털노마드조",
+  "url": "https://digitalnomadzo.tistory.com/5",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/bb7VDgq9ar",
+  "title": "최동환 방출",
+  "published_at": "2026-10-29T19:10:38.000+09:00",
+  "collected_at": "2026-10-29T21:38:16.996Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "youtube-a1eb70e2",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "youtube",
+  "source_name": "박주홍은터진다",
+  "url": "https://www.youtube.com/watch?v=2d3N9kSE1pU",
+  "title": "안우진을 싫어했던 삼팬 조교 #안우진 #키움히어로즈",
+  "published_at": "2026-10-29T16:55:44Z",
+  "collected_at": "2026-10-29T21:38:16.996Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1273,
+    "likes": 0,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 37,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

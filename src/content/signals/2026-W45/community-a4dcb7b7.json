@@ -1,0 +1,23 @@
+{
+  "id": "community-a4dcb7b7",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "community",
+  "source_name": "다음카페 樂soccer",
+  "url": "https://cafe.daum.net/rocksoccer/ADuT/370507",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/6mypGy2KqJ7",
+  "title": "2026시즌 롯데자이언츠 전성기 경기",
+  "published_at": "2026-10-26T12:09:34.000+09:00",
+  "collected_at": "2026-10-29T21:38:16.996Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 36,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

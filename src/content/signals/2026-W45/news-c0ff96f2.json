@@ -1,0 +1,23 @@
+{
+  "id": "news-c0ff96f2",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "뉴시스",
+  "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE03MjBXLThNeDNzY2NwS1hhU2FJWS1Id0tSc0U0Y2lRQkF2SUZDR2x3bG5BQzVEWVNEaDRVOTlDeXhpRnNJYTE2MTl4X3BtSnFLRmFTVXozQnA4TWhKSkl3eHpZVFhZUDVtMl90U21fZjBNMHZoVTQ0QdIBeEFVX3lxTE03MjBXLThNeDNzY2NwS1hhU2FJWS1Id0tSc0U0Y2lRQkF2SUZDR2x3bG5BQzVEWVNEaDRVOTlDeXhpRnNJYTE2MTl4X3BtSnFLRmFTVXozQnA4TWhKSkl3eHpZVFhZUDVtMl90U21fZjBNMHZoVTQ0QQ?oc=5",
+  "title": "우중경기에도 응원 열기 후끈…KIA, 박빙승부 끝에 삼성에 패배",
+  "published_at": "2026-10-29T14:03:24.000Z",
+  "collected_at": "2026-10-29T21:38:16.996Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 73,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

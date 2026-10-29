@@ -1,0 +1,27 @@
+{
+  "id": "youtube-66b763b5",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "지캐TV",
+  "url": "https://www.youtube.com/watch?v=eCvg5MfUT0s",
+  "title": "류!지혁이가 안타를 친!다! (10월 29일 P.O 3차전 삼성vs기아 리뷰)",
+  "published_at": "2026-10-29T14:26:15Z",
+  "collected_at": "2026-10-29T21:38:16.996Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 14141,
+    "likes": 253,
+    "comments": 47
+  },
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

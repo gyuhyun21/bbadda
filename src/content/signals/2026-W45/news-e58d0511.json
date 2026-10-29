@@ -1,0 +1,28 @@
+{
+  "id": "news-e58d0511",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스핌",
+  "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1HZE0xUnFsZ1QyY1VhX3VPVDVmdmNhZDljZl9vSTlIS0M3VmJSejNDb1dMNGhJS2JYY2JDYXU5VjZpRTBuUi1IY0lfMkVPTXBITU9meHo5ZTFhMmRQ?oc=5",
+  "title": "[PO] KIA 이범호 감독 \"시라카와 구위 좋지만 흔들리면 기다리지 않을 것\"",
+  "published_at": "2026-10-29T08:03:00.000Z",
+  "collected_at": "2026-10-29T21:38:16.996Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 71,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "네이트",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB6MlBXQkhZUDM1RWNOM3NxN3hXeEoxSzRqd1l1WDNESVhLWktkLW5tOTM4WEZqNEwyX0hUV2dYZlpSQmVDeEtlTktUWmZBbUt3dk1WTVRn?oc=5"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "community-11cc405a",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "디시 야구 갤러리",
+  "url": "https://gall.dcinside.com/board/view/?id=lgtwins_new&no=19088729",
+  "title": "소신) 너네 야구여왕이랑 하면 엄대엄일듯",
+  "published_at": "2026-10-19T00:00:00.000Z",
+  "collected_at": "2026-10-29T21:38:16.996Z",
+  "summary_ko": "",
+  "excerpt": "... 스포츠 카테고리로 분류된 LG 트윈스 갤러리 입니다. LG 트윈스 갤러리에 다양한 이야기를 남겨주세요.",
+  "metrics": {},
+  "scores": {
+    "hot": 8,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

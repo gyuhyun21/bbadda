@@ -1,0 +1,22 @@
+{
+  "id": "community-53c176bd",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "다음카페 도탁스 (DOTAX)",
+  "url": "https://cafe.daum.net/dotax/Elgq/4803705",
+  "title": "기아 타이거즈의 체크스윙 비디오 판독 요청입니다 gif",
+  "published_at": "2026-10-29T20:36:42.000+09:00",
+  "collected_at": "2026-10-29T21:38:16.996Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

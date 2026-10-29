@@ -1,0 +1,28 @@
+{
+  "id": "news-e7602f66",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "스타뉴스",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1nQTBUSTBmRDZfV1FhN3kwZFh4TzE3SHlCUzhsTm9jazhIZ3JVMFpaeUZsOHQ4RVl1OUlPdXpFLWswOXZHX2ZRck1OREY2c1htYk01RmwtR0YzQkRoUHBvYmVuTmNKMmhSeXNXRGtTd0hoTk0td2c?oc=5",
+  "title": "[한번에쓱]사토시 '마지막 아웃카운트는 김도영' 우중혈투에서 승리한 삼성라이온즈",
+  "published_at": "2026-10-29T13:51:53.000Z",
+  "collected_at": "2026-10-29T21:38:16.996Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 81,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE04aHFPcTRuSlhGYTNrVDdIdVZqcXR5dHNqT1ZGSEVEZkliV0lPUE9KQVBJOVRKaFVHZzVoZm9nSlNVZnFQVDlqei0xR3BqSVZBZHpaLUtoSWlFdFU2Q0ZmOG9yZTlLVkdHTTE5RUpwUdIBb0FVX3lxTE04aHFPcTRuSlhGYTNrVDdIdVZqcXR5dHNqT1ZGSEVEZkliV0lPUE9KQVBJOVRKaFVHZzVoZm9nSlNVZnFQVDlqei0xR3BqSVZBZHpaLUtoSWlFdFU2Q0ZmOG9yZTlLVkdHTTE5RUpwUQ?oc=5"
+    }
+  ]
+}

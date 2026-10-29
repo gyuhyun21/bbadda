@@ -1,0 +1,23 @@
+{
+  "id": "news-5c7888d8",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "Naver Blog",
+  "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSHh0Y3NQNzlidFAyUXozWmRZdUlwVHljNUtWMkJZMXdlUWtub2RTLVlDal9EdEs0bjdrNFdMWXcyYkV5RGwyNzdnT1JScDJnXzVKX19aUDFtUUktU042ek8xSGVqbVdRVDhGYkVqVnR6d3BBbHMtNVB6OE1uOW1QZkMxMjJ2eDEzcEZpOUdyN2M2RWst?oc=5",
+  "title": "'구종 가치 1위였던 직구를 다시 살려라' 손혁 코치의 최우선 과제 중 한명으로 떠오른, LG 이정용(KBO)",
+  "published_at": "2026-10-29T16:10:09.000Z",
+  "collected_at": "2026-10-29T21:38:16.996Z",
+  "summary_ko": "블로그 글은 구종 가치 1위였던 LG 이정용의 직구를 되살리는 일이 손혁 코치의 우선 과제 중 하나라고 짚었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "brief_ko": "이정용, 직구 되살리기가 과제"
+}

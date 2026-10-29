@@ -1,0 +1,28 @@
+{
+  "id": "news-648dea38",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE42Y0tRLVJEYkRCVUpJWUdNUTR2cGh4cWdzRWNHZ1BKVjRSaVVwTHlzdVhib0puSkpENXh3T2pmM19qM1FOdVBzaDduSjhBbzdYcndoa2Q3TEhLRGdJeWtEU2p1Z1poMlFhdVNSMVZkSdIBb0FVX3lxTE42Y0tRLVJEYkRCVUpJWUdNUTR2cGh4cWdzRWNHZ1BKVjRSaVVwTHlzdVhib0puSkpENXh3T2pmM19qM1FOdVBzaDduSjhBbzdYcndoa2Q3TEhLRGdJeWtEU2p1Z1poMlFhdVNSMVZkSQ?oc=5",
+  "title": "광주로 간 삼성 'PO3 라인업 전격 변화' 3루수 교체했다 '김영웅→전병우, 강민호 한 계단 전진 배치' [광주 현장]",
+  "published_at": "2026-10-29T08:01:00.000Z",
+  "collected_at": "2026-10-29T21:38:16.996Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 71,
+    "relevance": 80
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9Ra0M5R2thTEZKU0VERXVCaHA3aWlKV2k2eHVBMkhvaUNYdUo0ZV9IMFoyOTMxNG5xNU1feEEzSmlsS0RYc2hrVHN5Qk5raGpVRjhrbG16Y2EwVm4tYU9fLXFZbTRJTmFBYkZKb0x5QmlOZmt4X0E?oc=5"
+    }
+  ]
+}

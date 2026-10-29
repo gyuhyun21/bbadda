@@ -1,0 +1,24 @@
+{
+  "id": "news-6d5e46c2",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스1",
+  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4zandGcFFSTWtPSUR3Mk51b1dad1VERHpEU2lPUlBRVWk4d2NYUzhVck1oeEFFcjZYUzlkQzJob01YeUhOc1M2b1o2ZUxrYW5PeGdoTDRwTQ?oc=5",
+  "title": "테이블세터 부진 속 제한된 찬스…벼랑 끝 KIA, 기댈 건 김도영[PO]",
+  "published_at": "2026-10-29T21:10:00.000Z",
+  "collected_at": "2026-10-29T21:38:16.996Z",
+  "summary_ko": "뉴스1은 KIA가 PO 3차전에서 테이블세터 부진으로 찬스가 제한됐다고 짚었다. 벼랑 끝에 선 4차전도 김도영에게 기댈 수밖에 없다는 분석이다.",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "테이블세터 부진, 기댈 건 김도영",
+  "hook_ko": "오늘 지면 탈락, KIA 기댈 곳은 김도영"
+}

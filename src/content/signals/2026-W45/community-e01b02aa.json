@@ -1,0 +1,38 @@
+{
+  "id": "community-e01b02aa",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 담바우",
+  "url": "https://dambau9823.tistory.com/1789",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/1obBnIoA7e9",
+  "title": "'류지혁 MVP' 삼성, KIA 6-4 제압… KS 진출까지 '-1승'",
+  "published_at": "2026-10-30T04:04:58.000+09:00",
+  "collected_at": "2026-10-29T21:38:16.996Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 91,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "m.mksports.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5WTm13T1E4LXNRazJLME53RXFkdkVod2tkSkVKem9YTkNaa1hlRDM1RUJseURiekI1OWcwTW9SNXI1cFBzUG5GNEVmVzRYSDVpN1ZtWDlpUXQyOEU?oc=5"
+    },
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1CRXRYN1FTWFpleXVub1hQOGF0aldsV2RUbV8wZW5fcGI2Ml9HNlFoSVhnM1lBaWN5THhmQjV6YldpT3ZxTUJQbnB4N2FNV1ZpcTd3SDkydFhVdk4yWmNRRnlRUGlFd29uTVHSAW9BVV95cUxOVFN5MW5ONmVENVg5UzJ6TXNqRHRuLUtQS1VNZ0NINGdFZDh2V2hYYkJoWXFORDEyelBZWk9NTDlXR3NLSy1iM3ZhcFo0VDRiV0hsenRVM1lPMUh3WElzWENRdk56VWxqdFdYc19vN2c?oc=5"
+    },
+    {
+      "source_name": "OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE54d3BxUHVsejZhMXFuYXFUWjQxYkFOUHN1ckg5UGtpRHNyd2FvWVdXTTFsWENwbVJLbUxCcWllRl9ydGZfZGFZSm1FR1BfclN0V3NKTg?oc=5"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "youtube-53e8e7ac",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "직캠연구소",
+  "url": "https://www.youtube.com/watch?v=ZMPFi-VB6kw",
+  "title": "포스트시즌2차전 삼성라이온즈 응원단 라타타아웃송 이대로 우승가자!",
+  "published_at": "2026-10-29T15:00:16Z",
+  "collected_at": "2026-10-29T21:38:16.996Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1425,
+    "likes": 23,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 50,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

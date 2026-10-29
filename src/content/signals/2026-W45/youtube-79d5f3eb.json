@@ -1,0 +1,27 @@
+{
+  "id": "youtube-79d5f3eb",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "뉴오올스타​​",
+  "url": "https://www.youtube.com/watch?v=WgCJFiHRDxA",
+  "title": "[기아 vs 삼성] 10월 29일 플레이오프 3차전 \" 드레스코드 맞추고 함께 빛고을 홈경기 달빛시리즈 무조건 승리뿐이다 \"기아타이거즈 승리기원 특별시 표준어 편파방송 뉴오올스타",
+  "published_at": "2026-10-29T18:05:16Z",
+  "collected_at": "2026-10-29T21:38:16.996Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 16356,
+    "likes": 772,
+    "comments": 4
+  },
+  "scores": {
+    "hot": 87,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

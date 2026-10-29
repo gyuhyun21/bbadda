@@ -1,0 +1,32 @@
+{
+  "id": "youtube-ba7060ae",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "센 자이언츠 Cen Giants",
+  "url": "https://www.youtube.com/watch?v=sHEZrtbWj1U",
+  "title": "1패 뒤 2연승! 전세역전 삼성라이온즈 #kbo",
+  "published_at": "2026-10-29T15:06:30Z",
+  "collected_at": "2026-10-29T21:38:16.996Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 12128,
+    "likes": 118,
+    "comments": 8
+  },
+  "scores": {
+    "hot": 56,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "대구MBC",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5Ja3o2aENIbk0zMW9IVXNmckJJZVd4UE5qSlk0OU02ZXpGQlFLay1HSGFjT25ucnhqMkl5UF9WeF93aTRLTE81cnIzcnU?oc=5"
+    }
+  ]
+}
