@@ -61,9 +61,10 @@ p { margin: 0 0 1em; }
 .site-header .nav a.nav-game { background: linear-gradient(145deg, #CFE9D6, #9FD3AE); }
 .site-header .nav a.nav-game:active, .site-header .nav a.nav-game[aria-current="page"] { background: #9FD3AE; box-shadow: inset 4px 4px 8px rgba(40, 110, 60, 0.35), inset -4px -4px 8px rgba(220, 245, 228, 0.9); }
 .nav .lbl-short { display: none; }
-.site-header .nav a.nav-ig { display: inline-flex; padding: 6px; border: 0; color: var(--ink); }
-.site-header .nav a.nav-ig svg { width: 20px; height: 20px; fill: none; stroke: currentColor; stroke-width: 2; }
-.site-header .nav a.nav-ig svg .fill { fill: currentColor; stroke: none; }
+.site-header .nav a.nav-ig { display: inline-flex; padding: 4px; border: 0; }
+.site-header .nav a.nav-ig svg { width: 24px; height: 24px; fill: none; stroke: #fff; stroke-width: 1.8; } /* 인스타 공식 색(그라데이션 바탕 + 흰 글리프) */
+.site-header .nav a.nav-ig svg .bg { fill: url(#ig-grad); stroke: none; }
+.site-header .nav a.nav-ig svg .fill { fill: #fff; stroke: none; }
 .site-header .nav a.nav-ig:hover { opacity: 0.7; }
 @media (max-width: 719px) {
   .nav .lbl-full { display: none; }
