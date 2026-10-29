@@ -1,0 +1,23 @@
+{
+  "id": "news-8919ce27",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "뉴시스",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBNaExjVTlTSHBNNDJaaU42cE5mVDJ3MU8xdUNQMHN6SmctbHRqX0hXdG1HR1V6Qm4xWVYtV2plX1p5b2t4U2xSbklUcHpSemk2dl9JTHZoMzExX2NXSXlpaNIBeEFVX3lxTE9XQVpGN2daTEVJYWdKV3JWWkc2Tnc3NXU3dlk3WDZOWUpDMk1FNU5NM291SlJxVXFlZWhtdktValdLUlBhQl95cmJjZTJnVEpRcjlTQ1NsMFZfREtTcXl4WmR1RGVIV0t0V1BsNmp3eWJUNGppN2MzVA?oc=5",
+  "title": "1:1 공방 주고받은 KIA·삼성…팬들 \"2연승으로 코시까지\"",
+  "published_at": "2026-10-29T07:21:43.000Z",
+  "collected_at": "2026-10-29T07:38:49.597Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 84,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

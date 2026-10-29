@@ -1,0 +1,26 @@
+{
+  "id": "youtube-88f78950",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "youtube",
+  "source_name": "자이언츠 스토리",
+  "url": "https://www.youtube.com/watch?v=QU5CTDEzoSk",
+  "title": "이택근단장님 첫 출근길 #롯데자이언츠 #이택근",
+  "published_at": "2026-10-29T05:08:58Z",
+  "collected_at": "2026-10-29T07:38:49.597Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1692,
+    "likes": 34,
+    "comments": 5
+  },
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

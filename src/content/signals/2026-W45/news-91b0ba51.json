@@ -1,0 +1,23 @@
+{
+  "id": "news-91b0ba51",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBpbS1UM0FFZm54YjF2MUZBWHBGZ2U1YWFkUHp5UDZmanhVUjdHS212LXl1SDlkMDJpXy1lZkRacU5PZUwxeEp1T2lfWHdHbEZiMVJVZnNobGtzTzZ6SUNOcnpaZTdjQzJnOE1kRGI2UUFBSE5ON1pOenVfMTJYdw?oc=5",
+  "title": "'12억 잭팟' FA보다 방출이 낫다…'고작 5000만원' 어떤 반전 안길지 모른다, 손아섭 시작에 불과할지도",
+  "published_at": "2026-10-28T22:25:00.000Z",
+  "collected_at": "2026-10-29T07:38:49.597Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

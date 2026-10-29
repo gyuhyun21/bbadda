@@ -1,0 +1,22 @@
+{
+  "id": "news-fcf9c689",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "매일신문",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5zazd6al9wM20wS3d6NmxCaFRUTzVBOW1MSTFTblFTdnp1dEg4ZVFVcDJlZU9TOVpxNmhwa09zTFdXR2FYbTFGWFNIQU1IM1dJc2JxVWVjT0NJMFAwWDdQNXRn?oc=5",
+  "title": "KIA 한준수, PO 1·2차전 8타수 2안타 1홈런…\"타격은 기세, 볼배합은 신중\"",
+  "published_at": "2026-10-29T02:44:44.000Z",
+  "collected_at": "2026-10-29T07:38:49.597Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 82,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

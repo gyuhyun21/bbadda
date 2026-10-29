@@ -1,0 +1,23 @@
+{
+  "id": "news-2cbdec26",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "남도일보",
+  "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5XTy1ocHNWQ1lTaDBaaE5jOW9kYWxzYzFIRGNGNUV3QmdZOWtWdjluaXRvRFItMDJIcmdwekpxZzNON0k3VTcwWmYtbTVxRlZHLVVlX0hMTU5aM1dERzNuM0x2UEJjeUZMb0kwS9IBcEFVX3lxTE1Pa0V0ZWpoakRHTEItRzR3S3B2LWN1S1V0NTUyTHB5T0MtREVFUGZxeVVya2xvLWdUV3pLbzA1Y0hldFFQR0lDWXdfdmJFWG5oMGdkQlR2M015V2Q5aDJhVEpWY041ZHdTYXVLTzhnTGw?oc=5",
+  "title": "[프로야구 PO] 1차전 ‘57구’ KIA 에이스 네일, 4차전 출격하나",
+  "published_at": "2026-10-29T06:35:00.000Z",
+  "collected_at": "2026-10-29T07:38:49.597Z",
+  "summary_ko": "1차전에서 57구를 던진 KIA 네일이 4차전에 나설지 주목된다는 보도다.",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "네일, 4차전 출격하나"
+}

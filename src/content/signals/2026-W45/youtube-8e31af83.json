@@ -1,0 +1,26 @@
+{
+  "id": "youtube-8e31af83",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "youtube",
+  "source_name": "데보야",
+  "url": "https://www.youtube.com/watch?v=LgxcKer8qgw",
+  "title": "4년 연속 꼴찌 키움, 진짜 약점은? #키움 #KBO #shorts",
+  "published_at": "2026-10-29T01:14:07Z",
+  "collected_at": "2026-10-29T07:38:49.597Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 375,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 35,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

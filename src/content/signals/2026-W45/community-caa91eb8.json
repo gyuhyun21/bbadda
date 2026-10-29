@@ -1,0 +1,33 @@
+{
+  "id": "community-caa91eb8",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "community",
+  "source_name": "다음카페 쭉빵카페",
+  "url": "https://cafe.daum.net/ok1221/8mNz/1189991",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/I82zJ1BBrg7",
+  "title": "[단독] LG 정수성 코치, 염경엽 감독과 작별...재계약...",
+  "published_at": "2026-10-29T10:04:38.000+09:00",
+  "collected_at": "2026-10-29T07:38:49.597Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 82,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "일간스포츠",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5nSHF6MTh2Tm1hRjRHQ2FTU2oyb3pLbHZwQTBYajFyenRKZU5ybTgxc2xJVl9QZHZMZ2xNQnZYelFsX3ZIa3dPNTR0WjZFc0F1aVhrTmRzQXlOcUNGc0Y4djhR?oc=5"
+    },
+    {
+      "source_name": "네이트",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9seHVnUDgwaTZRZmRiU2RNWjBDdWhiV3c2ajY5Qk9FWVQ1bnZYd0tiX193czlDWVNqRWdzS2VHMjBNdnRvWUctWjhoWGpVdE1oV3NuT1FXMWVhZEN4UF9DdU5YWk54cGFX?oc=5"
+    }
+  ]
+}

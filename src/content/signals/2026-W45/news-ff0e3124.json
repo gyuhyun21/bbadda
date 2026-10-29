@@ -1,0 +1,24 @@
+{
+  "id": "news-ff0e3124",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "마이데일리",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Rb3B4TVdsemxPclJ2MTBrREJFazBNT19wQW03VTlaODR1eXh5RTJGbUNDRWxLaGRha1dFandDcXp5UmRja3BMSXQ1ZnN6MmhnOVpmbENMZU5XNElPNl9JaA?oc=5",
+  "title": "'와' 류지현 지옥 마캠 예고, 오전 7시 훈련 시작 실화인가…정우주 김서현 황준서 오재원 참가 \"맞춤형 육성 시스템 적용\"",
+  "published_at": "2026-10-28T10:41:00.000Z",
+  "collected_at": "2026-10-29T07:38:49.597Z",
+  "summary_ko": "한화 류지현 감독의 마무리캠프는 오전 7시에 훈련을 시작한다. 정우주·김서현·황준서·오재원이 참가한다.",
+  "metrics": {},
+  "scores": {
+    "hot": 61,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "류지현 마캠 오전 7시 훈련"
+}

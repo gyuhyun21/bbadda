@@ -1,0 +1,30 @@
+{
+  "id": "community-a5f22970",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 오늘의스포츠 뉴스2026",
+  "url": "https://todaysports2026.tistory.com/26",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/JZCFW9TIvBr",
+  "title": "KBO 투수 서의태, 방출 1년 만에 MMA 데뷔전 상대는 가수 출신",
+  "published_at": "2026-10-29T08:21:44.000+09:00",
+  "collected_at": "2026-10-29T07:38:49.597Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 73,
+    "relevance": 70
+  },
+  "sentiment": "negative",
+  "also_in": [
+    {
+      "source_name": "네이트",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE02WExpRVVleVFkUkdpZUJFamR3b0VJOExTTU5uZGdOQXhpWXVrVjFZM0ZSMjQyMF9taVQ3QzVlTGpkTV9rM1dGN0ZhbnFKaExtak1NXzdBcWFXTHQ1Y182MWtnYzVxcE5zbVVpT0lVOGZ4YjFNbXVxOQ?oc=5"
+    }
+  ]
+}

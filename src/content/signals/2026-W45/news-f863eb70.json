@@ -1,0 +1,30 @@
+{
+  "id": "news-f863eb70",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom",
+    "ssg"
+  ],
+  "source_type": "news",
+  "source_name": "충남일보",
+  "url": "https://www.chungnamilbo.co.kr/news/articleView.html?idxno=917581",
+  "title": "대덕대 야구부 키움·SSG 프로선수 배출… 현빈·최우석 육성선수 입단",
+  "published_at": "2026-10-29T02:15:14.000Z",
+  "collected_at": "2026-10-29T07:38:49.597Z",
+  "summary_ko": "대덕대 야구부 출신 현빈·최우석이 키움 육성선수로 입단한다는 충남일보 기사다.",
+  "metrics": {},
+  "scores": {
+    "hot": 82,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "충청뉴스",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBqSXlLQk5tWTAzbHVVT0Fhek5XcGlJcGtMOEl5ZkxNeElBNlRvN3ByU1AzQ0tjX2lZTGZ0MjZtS0pBcUN5MFhUWDN5WDdYbTBwRU5Ma3l6cnU0NUszTzlNUi1wRXprY3I3V2JCWA?oc=5"
+    }
+  ],
+  "brief_ko": "대덕대 현빈·최우석 입단"
+}

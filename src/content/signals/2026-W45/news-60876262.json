@@ -1,0 +1,23 @@
+{
+  "id": "news-60876262",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "충청일보",
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8yWWF0YVhhWENxOU5EZlVCZUlpX2wtTUtLeS1RS19iWWpDRDlsdFlRM0I5UnVYZUNzTTBJZzl2VXdVQUI2b2NjTDM2bnZUZnRQeUkwYTdWTmwyUVU0RE9oM3E4bXFsOUh4M1RGWG52S2E?oc=5",
+  "title": "드래프트 지명 없이 프로로 대덕대 현빈·최우석",
+  "published_at": "2026-10-29T02:09:50.000Z",
+  "collected_at": "2026-10-29T07:38:49.597Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

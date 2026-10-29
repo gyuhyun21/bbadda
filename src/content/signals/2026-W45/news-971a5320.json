@@ -1,0 +1,24 @@
+{
+  "id": "news-971a5320",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠경향",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBkVHl1a0JYTDRzOWZnYkVJbE1EYjRYYjlGVHFQNVZMRnVaald5Z1NDU0c0VlRBUktTTTdZREhXLTlEa0Q1RmtkTzRoVWVkQkNETDFnanktSFFUYmZuOWpIS254a9IBY0FVX3lxTFBkVHl1a0JYTDRzOWZnYkVJbE1EYjRYYjlGVHFQNVZMRnVaald5Z1NDU0c0VlRBUktTTTdZREhXLTlEa0Q1RmtkTzRoVWVkQkNETDFnanktSFFUYmZuOWpIS254aw?oc=5",
+  "title": "세 번째 KS 앞둔 김민혁 “설레기도 하고 긴장도 되지만, 즐기려고 한다”",
+  "published_at": "2026-10-29T00:38:00.000Z",
+  "collected_at": "2026-10-29T07:38:49.597Z",
+  "summary_ko": "김민혁이 세 번째 한국시리즈를 앞두고 설레기도 하고 긴장도 되지만 즐기려 한다고 말했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 73,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "김민혁, 세 번째 KS"
+}

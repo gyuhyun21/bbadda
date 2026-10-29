@@ -1,0 +1,27 @@
+{
+  "id": "youtube-f038c78a",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "youtube",
+  "source_name": "한입톡",
+  "url": "https://www.youtube.com/watch?v=waGITrjlVl0",
+  "title": "LG 트윈스 거포 이재원 고점은 아직 오지 않았다",
+  "published_at": "2026-10-29T04:15:27Z",
+  "collected_at": "2026-10-29T07:38:49.597Z",
+  "summary_ko": "한 채널이 LG 거포 이재원의 고점은 아직 오지 않았다는 영상을 올렸다.",
+  "metrics": {
+    "views": 8363,
+    "likes": 68,
+    "comments": 8
+  },
+  "scores": {
+    "hot": 61,
+    "relevance": 50
+  },
+  "sentiment": "neutral",
+  "brief_ko": "이재원 고점은 아직"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "news-0028cc64",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "서울신문",
+  "url": "https://amp.seoul.co.kr/seoul/20261029500121",
+  "title": "삼성과 KIA의 아킬레스건...한국시리즈로 가는길, 이 부분을 보완하라",
+  "published_at": "2026-10-29T04:09:26.000Z",
+  "collected_at": "2026-10-29T07:38:49.597Z",
+  "summary_ko": "서울신문이 한국시리즈로 가는 길에 삼성과 KIA가 각각 보완해야 할 약점을 짚었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 99,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "삼성·KIA의 약점은"
+}

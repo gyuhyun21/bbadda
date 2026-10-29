@@ -1,0 +1,24 @@
+{
+  "id": "news-e18d87aa",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스타뉴스",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE92LXZDSXB3LTgwclI3VjNGU0hURkhjc1FrZHpTWlFGWW1QRi1WMUlOVzdudUFDTWJQamZrQkJmRWJXZkFYTUtvMlpzUTVmN3pTWHVCLVJ5M1J4cHBHSkplYUgwUUhGb2JyV1FidlF3WjBhOWpWYkE?oc=5",
+  "title": "[★베이스볼] 최고령 베테랑 최형우의 가을야구! 홈런포에 얹은 어쩌다 수비요점",
+  "published_at": "2026-10-29T01:22:20.000Z",
+  "collected_at": "2026-10-29T07:38:49.597Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 82,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

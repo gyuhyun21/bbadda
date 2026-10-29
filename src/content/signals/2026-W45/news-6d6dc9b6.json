@@ -1,0 +1,24 @@
+{
+  "id": "news-6d6dc9b6",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "lg",
+  "teams": [
+    "lg",
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "일간스포츠",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1EWkxOZld1NW10ODh4QzJlalZibDY3WTlwem8yakF3eE5pZ1BUaTNjMi1WbFhwdkhGOUE1clctTktlckZzWDFpMzVvbUVtOHd1Z1hCNUxsSk5qVjRIcTV0aWZB?oc=5",
+  "title": "[IS 광주] 이범호 감독 \"시라카와 구위 믿어, 5이닝 버텨주길\"",
+  "published_at": "2026-10-29T07:22:00.000Z",
+  "collected_at": "2026-10-29T07:38:49.597Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

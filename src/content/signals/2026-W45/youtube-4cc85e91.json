@@ -1,0 +1,26 @@
+{
+  "id": "youtube-4cc85e91",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "youtube",
+  "source_name": "백유주",
+  "url": "https://www.youtube.com/watch?v=yNNouAFMVbE",
+  "title": "헤이수스 재계약 불발 사연 들은 키움팬 반응 #kbo #야구 #키움히어로즈",
+  "published_at": "2026-10-29T07:08:15Z",
+  "collected_at": "2026-10-29T07:38:49.597Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 236,
+    "likes": 2,
+    "comments": 4
+  },
+  "scores": {
+    "hot": 53,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

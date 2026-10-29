@@ -1,0 +1,22 @@
+{
+  "id": "news-d6f5ee99",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "パ・リーグ.com",
+  "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9DSVhZX0d0a2lqSmNFeWxxbzR1YnZjTDFqU2NhbXFjUzNyZkxMNExDQnJjR1hORXR6ZDAxbmg3TU12Nzg1ei1ZVU5YM3Q3MGtNMjNSd0JOUmlITDI5Vmtz?oc=5",
+  "title": "롯데, 롯데 자이언츠 선수 2명이 추계 캠프에 참가 | 퍼시픽 리그.com | 프로야구",
+  "published_at": "2026-10-29T04:56:04.000Z",
+  "collected_at": "2026-10-29T07:38:49.597Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

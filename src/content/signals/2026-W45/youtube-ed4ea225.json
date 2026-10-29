@@ -1,0 +1,25 @@
+{
+  "id": "youtube-ed4ea225",
+  "issue": "2026-W45",
+  "module": "league",
+  "teams": [],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=XLG-rqi0rIY",
+  "title": "롱비치 코스트의 KBO 포스트시즌 현장 방문 🇰🇷🇺🇲",
+  "published_at": "2026-10-29T06:13:24Z",
+  "collected_at": "2026-10-29T07:38:49.597Z",
+  "summary_ko": "KBO 공식 채널이 롱비치 코스트 선수단의 포스트시즌 현장 방문을 영상으로 전했다.",
+  "metrics": {
+    "views": 906,
+    "likes": 20,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 59,
+    "relevance": 30
+  },
+  "sentiment": "neutral",
+  "brief_ko": "롱비치, PS 현장 방문"
+}

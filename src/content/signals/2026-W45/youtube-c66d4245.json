@@ -1,0 +1,26 @@
+{
+  "id": "youtube-c66d4245",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "youtube",
+  "source_name": "과거를 들추는 채널(과들채)",
+  "url": "https://www.youtube.com/watch?v=0qMNTAkkYac",
+  "title": "SSG 랜더스 청라돔구장 / 최근근황",
+  "published_at": "2026-10-29T04:44:47Z",
+  "collected_at": "2026-10-29T07:38:49.597Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1044,
+    "likes": 10,
+    "comments": 5
+  },
+  "scores": {
+    "hot": 53,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "youtube-d15587f6",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "오늘핫이슈",
+  "url": "https://www.youtube.com/watch?v=MdDNithYS6s",
+  "title": "강정호 이재원 1년 전담 지도 제안, 4타수 4삼진 눈물 뒤 반전",
+  "published_at": "2026-10-29T05:56:39Z",
+  "collected_at": "2026-10-29T07:38:49.597Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 945,
+    "likes": 6,
+    "comments": 2
+  },
+  "scores": {
+    "hot": 48,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

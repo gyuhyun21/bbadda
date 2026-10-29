@@ -1,0 +1,26 @@
+{
+  "id": "youtube-b0a45cd8",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "youtube",
+  "source_name": "홍스맨\"이야기&인생\"",
+  "url": "https://www.youtube.com/watch?v=lzUs4c0TG4o",
+  "title": "#정설아#ssg랜더스\"판독해~~나도 못봤어^^비디오판독^^정설아다\"",
+  "published_at": "2026-10-29T03:25:26Z",
+  "collected_at": "2026-10-29T07:38:49.597Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 524,
+    "likes": 21,
+    "comments": 2
+  },
+  "scores": {
+    "hot": 73,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

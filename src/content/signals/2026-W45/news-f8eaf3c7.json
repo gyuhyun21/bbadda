@@ -1,0 +1,23 @@
+{
+  "id": "news-f8eaf3c7",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://www.mt.co.kr/amp/sports/2026/10/29/2026102912470441788",
+  "title": "\"삼진 4개 당해도 투수 안 합니다\" 매일 펜으로 일기 쓴 장재영, 상무서 12홈런 치고 돌아온다 \"난 기대받을 선수 아냐... 잘 준비할게요\"",
+  "published_at": "2026-10-29T04:33:44.000Z",
+  "collected_at": "2026-10-29T07:38:49.597Z",
+  "summary_ko": "장재영이 상무에서 12홈런을 치고 돌아온다. 삼진 4개를 당해도 투수는 하지 않겠다는 각오를 밝혔다.",
+  "metrics": {},
+  "scores": {
+    "hot": 83,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "brief_ko": "장재영, 상무서 12홈런"
+}

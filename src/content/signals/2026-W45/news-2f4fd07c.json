@@ -1,0 +1,33 @@
+{
+  "id": "news-2f4fd07c",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "BNT뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4zclFlNGVval9GTzNVVlBFYkpKeV96cnNZNk5jQXBiT0x3ZExiODdPWnRxQ3NjZ1J5cHR1SXFzUHo2cTFpa3dzaXgtenFNanZucXJZOUxaR2RzOWl6M2xkZEEyS2o?oc=5",
+  "title": "‘불꽃야구2’ 독립리그 대표팀과 직관",
+  "published_at": "2026-10-28T23:20:09.000Z",
+  "collected_at": "2026-10-29T07:38:49.597Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 81,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "스타데일리뉴스",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5VQjdVanhPc3cza2d6QTdobVdNdmFGRXhyekVCWEVua1JUMDk0UE9tcGI4anVkSllxYXJLT25MVVRhamJIVHBfQzNpQVhQeDJhSkVwa3hvSlJUdGg2cDNuRkpJY2tEcXJDclZQTjB6NHdjZFpC?oc=5"
+    },
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQX2tfeVc2aEdvY3JDTHFLRnF2cEhSbnR5LXZBRU1qdGE0V1RmWDJmenREUUdZUnBDRkxkOU1FVXFrekZrYy1UUm1yVGdvbmZyREpfZHR6NHZObEF2NUVfTkxrWFZoc2c5QlBJWWMwMHp1bDN0Vk9jSjRLYnVUUmpTLUNNTlFEelo1bWdCNWU0NA?oc=5"
+    }
+  ]
+}

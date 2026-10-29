@@ -1,0 +1,23 @@
+{
+  "id": "community-dddc42f8",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "다음카페 樂soccer",
+  "url": "https://cafe.daum.net/rocksoccer/ADuT/371051",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/BCWkCT1i0Ux",
+  "title": "최원태 상대 기아 타이거즈 타율",
+  "published_at": "2026-10-29T07:45:59.000+09:00",
+  "collected_at": "2026-10-29T07:38:49.597Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "news-db9e4da6",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "ssg",
+  "teams": [
+    "ssg",
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBXRi1xZko2YndHQk5sblFVS0FWUk9iRTBaSTdDQnNfakw2N0MwZ0RWZU9JbVA1dGd3Vmx2OWpfSjFlUjYzZ0FvV09uSDJrTGM0c0FWa0dtclFsSDBCT2o3QVZ5dkRQREMzWTI5eGxjYnBabEttRFdEb2JWSl8yQQ?oc=5",
+  "title": "'수비 안 되는데, 무슨 시합을 뛰나' 저승사자들의 등장, 도루왕도 생존 걱정 해야하나",
+  "published_at": "2026-10-29T07:05:27.000Z",
+  "collected_at": "2026-10-29T07:38:49.597Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 84,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

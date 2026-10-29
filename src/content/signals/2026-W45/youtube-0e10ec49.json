@@ -1,0 +1,26 @@
+{
+  "id": "youtube-0e10ec49",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "youtube",
+  "source_name": "백유주",
+  "url": "https://www.youtube.com/watch?v=0mp7RrD6ymE",
+  "title": "유토 재계약 불발에 대한 키움팬의 반응 #kbo #야구 #유토 #키움히어로즈",
+  "published_at": "2026-10-29T04:27:23Z",
+  "collected_at": "2026-10-29T07:38:49.597Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 33,
+    "likes": 2,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 61,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

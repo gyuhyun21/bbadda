@@ -1,0 +1,24 @@
+{
+  "id": "news-80bd0129",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "lg",
+  "teams": [
+    "lg",
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "네이트",
+  "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5YN3RxZ0wxUGN5a21CT1JvcU91N0xKb1dMbVpiQ3lqclIwWVdiZk5leGtTelk5WDRYUnJiaWtsaHV4OFZuZS1MMk00cDk4VGZDRWtPNlNR?oc=5",
+  "title": "'유망주 기회의 장' 울산-KBO Fall League 준결승 대진 확정 '롱비치-LG, 울산-KIA'…결승전은 31일 개최",
+  "published_at": "2026-10-29T01:52:00.000Z",
+  "collected_at": "2026-10-29T07:38:49.597Z",
+  "summary_ko": "울산-KBO 폴리그 준결승 대진이 롱비치-LG, 울산-KIA로 정해졌다. 결승전은 31일 열린다.",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "폴리그 4강, LG-롱비치"
+}

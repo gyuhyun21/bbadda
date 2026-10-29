@@ -1,0 +1,23 @@
+{
+  "id": "community-1be08e36",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "community",
+  "source_name": "다음카페 도탁스 (DOTAX)",
+  "url": "https://cafe.daum.net/dotax/Elgq/4803514",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/ICukxE7u4PR",
+  "title": "감독 경력직만 4명인 롯데자이언츠",
+  "published_at": "2026-10-29T12:48:16.000+09:00",
+  "collected_at": "2026-10-29T07:38:49.597Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "community-d369479f",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 큐픽 (Qpic)",
+  "url": "https://focus3651.tistory.com/282",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/EZlbPwTTJGF",
+  "title": "플레이오프 4차전 중계 30일 MBC, 광주 셔틀버스와 취소표",
+  "published_at": "2026-10-29T11:04:00.000+09:00",
+  "collected_at": "2026-10-29T07:38:49.597Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

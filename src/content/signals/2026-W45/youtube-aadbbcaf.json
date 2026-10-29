@@ -1,0 +1,29 @@
+{
+  "id": "youtube-aadbbcaf",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha",
+    "lotte",
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "쏙쏙야구",
+  "url": "https://www.youtube.com/watch?v=vZZ9HXPzMz8",
+  "title": "KBO 1점차 승률 TOP10｜한화 9승22패…롯데·KIA는?",
+  "published_at": "2026-10-29T03:30:04Z",
+  "collected_at": "2026-10-29T07:38:49.597Z",
+  "summary_ko": "쏙쏙야구 채널이 KBO 1점 차 승률 TOP10을 정리했다. 한화는 9승 22패로 소개됐다.",
+  "metrics": {
+    "views": 941,
+    "likes": 1,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 42,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "1점 차 승률 TOP10"
+}

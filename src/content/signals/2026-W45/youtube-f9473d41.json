@@ -1,0 +1,26 @@
+{
+  "id": "youtube-f9473d41",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "youtube",
+  "source_name": "이슈툭툭",
+  "url": "https://www.youtube.com/watch?v=TDIP-JjbU4I",
+  "title": "이택근 롯데 단장, 유튜브 영상으로 발표 시점 논란 터진 이유 #Shorts",
+  "published_at": "2026-10-29T01:23:21Z",
+  "collected_at": "2026-10-29T07:38:49.597Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 821,
+    "likes": 4,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 45,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

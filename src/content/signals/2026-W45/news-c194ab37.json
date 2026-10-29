@@ -1,0 +1,23 @@
+{
+  "id": "news-c194ab37",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "www.newsq.co.kr",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9QT0t5Z2Ffa3RUTkVhMmhzOUNpSWdBcC1zWWNZc1RNSmgzbDQzdU5KSU5hZVk1U1YyUXZmUkVIYy0teDFBSHh2NHkzc3RMd2lsN1V1MUFYX0ZFckRfZWxZUG1IeUE2R25FRmc?oc=5",
+  "title": "베테랑도 1라운더도, 피할 수 없었던 방출 칼바람 [프로야구]",
+  "published_at": "2026-10-29T05:41:18.000Z",
+  "collected_at": "2026-10-29T07:38:49.597Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

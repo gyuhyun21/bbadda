@@ -1,0 +1,23 @@
+{
+  "id": "news-42d8176d",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "MHN스포츠",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBPWTRyc2tvdGJBaGxkd2RXdzMwUzNnVGFHTnU0OE9hYjBDLTktLWxDcDN6TVl4MWpPTWR5RE81M0pEN2FxNFlkUFJsY1ZWLW5vV3MyVHZBcVU0NWZIZFRhQ2pGVQ?oc=5",
+  "title": "이대형이 짚은 롯데 외야진 교통정리…\"FA? 황성빈, 잠재력 절반도 안 터져…중견수로 가는 게 맞다\"",
+  "published_at": "2026-10-29T04:00:40.000Z",
+  "collected_at": "2026-10-29T07:38:49.597Z",
+  "summary_ko": "이대형 해설위원이 롯데 FA 황성빈은 잠재력의 절반도 안 터졌다며 중견수로 가는 게 맞다고 말했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "이대형 \"황성빈은 중견수로\""
+}

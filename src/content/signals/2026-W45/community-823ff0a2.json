@@ -1,0 +1,30 @@
+{
+  "id": "community-823ff0a2",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 길마닥",
+  "url": "https://bibi.todays-korea.com/12",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/8bMIEuPbXlu",
+  "title": "플레이오프 기아 삼성 3차전 야구 중계",
+  "published_at": "2026-10-29T15:47:58.000+09:00",
+  "collected_at": "2026-10-29T07:38:49.597Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "톱스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8xcGN1REVJZmR5REwyTm4ta3R2ZEYtLVZlVTAxLVdXY0d5bmtydG5TSG9vV2dJeXhSMTRHaVhzV3Vvbm94Nlhnd0JRYVF4LTgyTFlnUE5XSVByTzVLbTA0X1dCNElwNjE0bnY5UGFSV20xQQ?oc=5"
+    }
+  ]
+}

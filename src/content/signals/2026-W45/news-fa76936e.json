@@ -1,0 +1,23 @@
+{
+  "id": "news-fa76936e",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "KBS 뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFByZkRrVGF0VVREOF9US09RM2JEVmFCT3QyM3I5MnJGTy12TEM4Z3RJVVNreTNOOTFCbnUteU5zbEZGUUFJN0tIbHVFb3lGVzJZdVVxWGcyZEE1Y2hWc3lhdXVqbloyQQ?oc=5",
+  "title": "이범호 KIA 감독 “시라카와 5이닝 3실점으로 버텨줘야”",
+  "published_at": "2026-10-29T07:21:00.000Z",
+  "collected_at": "2026-10-29T07:38:49.597Z",
+  "summary_ko": "이범호 KIA 감독이 PO 3차전 선발 시라카와가 5이닝 3실점으로 버텨주길 바란다고 말했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "이범호 \"시라카와 5이닝 버텨야\""
+}

@@ -1,0 +1,37 @@
+{
+  "id": "news-e8783e4f",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "SPOTV NEWS",
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBpakRYNW1YRWd0MXNsUG1vQXZhdTY5UzUwWnBWMEVHNVVxU2xJTTV2SV9NT01tWGQ2MUltNkhTVm51TTBnb0RkUm5IaklWU0taQkpuZjdOZWw2dDJRVXNuNGtkNW1icWR4NkhpZXgyLTY?oc=5",
+  "title": "'무패' 美 독립리그 구단에 울산·KIA·LG가 도전한다…울산 KBO 폴리그 4강 대진 확정",
+  "published_at": "2026-10-29T01:04:46.000Z",
+  "collected_at": "2026-10-29T07:38:49.597Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 98,
+    "relevance": 80
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "매일신문",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBSdnFmMENOTnZSQTZOMmxzbHV6d0traldWQUJuemdmUTV2SUs0Ry1tUERoZGgzYTJpUzVrN1QtUU8xY194RkM3dDZLQnBSNmlvN2w5X0ZRVWxReGhHYjcyY0FB?oc=5"
+    },
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBPdXNXSDdZczZNVno0U3YtdTFSY05vak1XajhjWFJBSkxQQy1OTUVGN3d1bkpPTTVseGxQcEtZSGV0b200VXdrSUdicWc4NVZ6MjA1bl9tQmtWUTBLWVY1VWVwcmxJT2tBMUJDckpSRdIBb0FVX3lxTFBPdXNXSDdZczZNVno0U3YtdTFSY05vak1XajhjWFJBSkxQQy1OTUVGN3d1bkpPTTVseGxQcEtZSGV0b200VXdrSUdicWc4NVZ6MjA1bl9tQmtWUTBLWVY1VWVwcmxJT2tBMUJDckpSRQ?oc=5"
+    },
+    {
+      "source_name": "스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5DQ3d3MDh5aGdkSkdMSTZqNjFQcDRaSVo2V3dCWlk1bU5CWGZXdkNpeXl1cnpTSVB1SUZDcVFvQ0JBc0ZaclZUdFNFMWRTc1VXUHdjMHh2WlRiTlY4NExrWUZ3OEl1bUhUT0VfUVdUVHJNUTNxX3c?oc=5"
+    }
+  ]
+}

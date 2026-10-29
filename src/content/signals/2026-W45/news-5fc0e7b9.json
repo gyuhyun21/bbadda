@@ -1,0 +1,22 @@
+{
+  "id": "news-5fc0e7b9",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "news",
+  "source_name": "신세계그룹 뉴스룸",
+  "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObVJIdHhtemREVmZTOEdCbVNYVThsZWFYakdTT1d3RjQ4VVRPb2lLcEw2RnZlRUh3S1VKcEJTOVVuUWM3aXlGaW45SVNMMHVUUzIxQWtodlpMMmN1b0FiTnpXa0xzcHVjaW5vXzM0UUVxV2xKN1dOZ09acE0xMEhva0xvN3NrWG0zWllrTjY4dkZZeWU3Z2EwN0dVcUxKNWtYbzZMOFVHQ3M3ODRKMTJ3YUFaQkdCdWdPZmhhRUxRZ01WWm11MFM0?oc=5",
+  "title": "SSG랜더스신임대표이사",
+  "published_at": "2026-10-28T09:59:08.000Z",
+  "collected_at": "2026-10-29T07:38:49.597Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 60,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

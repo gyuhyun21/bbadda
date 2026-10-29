@@ -1,0 +1,23 @@
+{
+  "id": "news-4368a15e",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "뉴시스",
+  "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261028_0003845156",
+  "title": "'작년 한화와 닮은꼴?'…삼성의 4차전 첫 공은 누가 던질까[PO]",
+  "published_at": "2026-10-28T22:00:00.000Z",
+  "collected_at": "2026-10-29T07:38:49.597Z",
+  "summary_ko": "삼성이 PO 4차전 첫 공을 누가 던질지를 다룬 뉴시스 기사다. 지난해 한화와 닮은꼴이라는 시각도 나온다.",
+  "metrics": {},
+  "scores": {
+    "hot": 81,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "삼성 4차전 선발은 누구"
+}

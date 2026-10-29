@@ -1,0 +1,22 @@
+{
+  "id": "community-01bc7fae",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 많은 정보 나누기",
+  "url": "https://d0nginfo.tistory.com/772",
+  "title": "KBO 소식 | 손아섭, 연봉 5000만원에 NC 복귀…방출된 2655안타 전설의 마지막 도전",
+  "published_at": "2026-10-28T11:35:19.000+09:00",
+  "collected_at": "2026-10-29T07:38:49.597Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 58,
+    "relevance": 70
+  },
+  "sentiment": "mixed"
+}

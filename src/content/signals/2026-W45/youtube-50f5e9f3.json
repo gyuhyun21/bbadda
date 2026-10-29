@@ -1,0 +1,27 @@
+{
+  "id": "youtube-50f5e9f3",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "야구 클래스",
+  "url": "https://www.youtube.com/watch?v=39uTYcL2SZ0",
+  "title": "마지막 시즌 잠실야구장, 한 지붕 두 가족의 시작",
+  "published_at": "2026-10-29T03:03:37Z",
+  "collected_at": "2026-10-29T07:38:49.597Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 265,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 33,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

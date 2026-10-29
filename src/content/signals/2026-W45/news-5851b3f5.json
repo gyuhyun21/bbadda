@@ -1,0 +1,29 @@
+{
+  "id": "news-5851b3f5",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스1",
+  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE55QzRzYXN5TW1UOXItclFUWlh6RkczTzcyT2xlb003TEdnczlaZ09iWjJCNkxzTlBCeG9RZWNzUVVGUE0zMTl5ekJBeDBZaHU0S1poTklXZw?oc=5",
+  "title": "3차전 마무리? 4차전 선발?…삼성 원태인 활용법이 PO 최대 변수",
+  "published_at": "2026-10-29T01:00:00.000Z",
+  "collected_at": "2026-10-29T07:38:49.597Z",
+  "summary_ko": "삼성 원태인을 3차전 마무리로 쓸지 4차전 선발로 쓸지가 PO 최대 변수라는 뉴스1 보도다.",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "매일신문",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBYdmpnWEVGLWhwS1ZwYkxCUzFad21ZaHlpdU9iOGJXMnl6eWlkR3ltRTV5alBRMDN6YUZXUlgwWUN0MUVrRVdMcUhVSGNtWHpQdzBIOTlUOE5qc2U2MWJnel9n?oc=5"
+    }
+  ],
+  "brief_ko": "원태인 활용법이 변수"
+}

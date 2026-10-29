@@ -1,0 +1,37 @@
+{
+  "id": "youtube-b0ab1590",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg",
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "김알 - 김팀장이 알아봤다!",
+  "url": "https://www.youtube.com/watch?v=4PsJaNEDsVo",
+  "title": "KBO 폴리그 4강 확정🔥 LG vs 롱비치·KIA vs 울산! LG와 KIA 결승 맞대결 성사될까? #KBO #울산폴리그 #LG트윈스 #KIA타이거즈 #Shorts",
+  "published_at": "2026-10-29T06:45:50Z",
+  "collected_at": "2026-10-29T07:38:49.597Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 360,
+    "likes": 2,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 40,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "마이데일리",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE84b0hRbU1PakN0aUtKaWIwZU5aR01vZFJwRTZPNXBaSW1EcjJHQWwtNnY2Yll5LVk2cUp2bVoyVXpfcGVpRW4yQlBzcl9vcFc0aTlqNFM2ZG1vOVpRejJ1bTFBclpiUQ?oc=5"
+    },
+    {
+      "source_name": "뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBEcEktbFJETkgtOUJ5SHR5Szk5ZTEzYXhhQ0NHa3VkLXhIUXJqbWlHQmRWcU4tc0E4cHl6bTZJNll2eW9jLWZ1SnNTNHNmc0xOeWVEVjNxWkE1TFR3T1h5VFlyTDFUSGF2U0xmUFM1TnoxWkJjeHFpetIBeEFVX3lxTFBEcEktbFJETkgtOUJ5SHR5Szk5ZTEzYXhhQ0NHa3VkLXhIUXJqbWlHQmRWcU4tc0E4cHl6bTZJNll2eW9jLWZ1SnNTNHNmc0xOeWVEVjNxWkE1TFR3T1h5VFlyTDFUSGF2U0xmUFM1TnoxWkJjeHFpeg?oc=5"
+    }
+  ]
+}
