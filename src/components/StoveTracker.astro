@@ -28,7 +28,7 @@ const tiles = TEAMS.map((t) => ({ t, ...moves(players, t.id) }));
 {players.length > 0 && (
   <section class="block fa-block" aria-labelledby="h-fa" data-pagefind-ignore>
     <SectionHead id="h-fa" title="FA 행선지" eyebrow={`STOVE LEAGUE ${data!.season}`} status={expected ? `FA 예정 ${players.length}명` : signedN < players.length ? `미계약 ${players.length - signedN}명` : '계약 마감'} />
-    <p class="fa-asof">{data!.as_of && `${md(data!.as_of)} 기준 · `}{data!.list_source ? <a href={data!.list_source} target="_blank" rel="noopener noreferrer" data-no-modal>{expected ? 'FA 예정자(예상 명단 보도)' : 'FA 승인 명단'}</a> : expected ? 'FA 예정자(예상 명단 보도)' : 'FA 승인 명단'}{expected && ' · KBO 공시 전이라 바뀔 수 있음'} · 관심 구단·몸값은 보도 기준</p>
+    <p class="fa-asof">{data!.as_of && `${md(data!.as_of)} 기준 · `}{data!.list_source ? <a href={data!.list_source} target="_blank" rel="noopener noreferrer" data-no-modal>{expected ? 'FA 예정자(예상 명단 보도)' : 'FA 승인 명단'}</a> : expected ? 'FA 예정자(예상 명단 보도)' : 'FA 승인 명단'}{expected && ' · KBO 공시 전이라 바뀔 수 있음'} · 관심 구단·몸값은 보도 기준, 관심 구단 '루머'는 언론 확인 전 블로그·영상(출처 링크)</p>
     <div class="fa-tally">
       <div><strong>{players.length}</strong><span>{expected ? 'FA 예정' : 'FA'}</span></div>
       <div><strong>{signedN}</strong><span>계약 완료</span></div>
@@ -55,7 +55,7 @@ const tiles = TEAMS.map((t) => ({ t, ...moves(players, t.id) }));
             <span class={`fa-state fa-state--${st}`}>{STATE[st]}</span>
             {p.signed && <div class="fa-signed"><b>{short(p.signed.team)}</b> {p.signed.terms}<span class="fa-src"><a href={p.signed.source} target="_blank" rel="noopener noreferrer">{hostOf(p.signed.source)} · {md(p.signed.date)}</a></span></div>}
             {!p.signed && p.interest.length > 0 && (
-              <dl class="fa-row"><dt>관심 구단</dt><dd class="fa-teams">{p.interest.map((x) => <a class="fa-tm" style={`--team:${teamColor(x.team)}`} href={x.sources[0]} target="_blank" rel="noopener noreferrer"><i></i>{short(x.team)} <em>보도 {x.sources.length}</em></a>)}</dd></dl>
+              <dl class="fa-row"><dt>관심 구단</dt><dd class="fa-teams">{p.interest.map((x) => <a class={x.rumor ? 'fa-tm fa-tm--rumor' : 'fa-tm'} style={`--team:${teamColor(x.team)}`} href={x.sources[0]} target="_blank" rel="noopener noreferrer"><i></i>{short(x.team)} <em>{x.rumor ? '루머' : `보도 ${x.sources.length}`}</em></a>)}</dd></dl>
             )}
             {!p.signed && p.price && (
               <dl class="fa-row"><dt>예상 몸값</dt><dd><span class="fa-price">{p.price.text}</span> <span class="fa-tag">(보도 범위)</span><span class="fa-src">{p.price.sources.map((u, i) => <>{i > 0 && ' · '}<a href={u} target="_blank" rel="noopener noreferrer">{hostOf(u)}</a></>)}</span></dd></dl>

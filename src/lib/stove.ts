@@ -24,7 +24,8 @@ export const stoveSchema = z.object({
     age: z.number().int().optional(),
     grade: z.enum(['A', 'B', 'C']).optional(),
     hot: z.boolean().default(false), // 화제 선수: 위에 펼쳐 보인다. 나머지는 접힌 목록
-    interest: z.array(z.object({ team: z.string(), sources: z.array(src).min(1) })).default([]),
+    // interest.rumor: 행선지만. 언론 확인 전 블로그·영상·추측성 기사 — 화면에 '루머'로 표시, 출처 링크는 그대로 필수(저장소 주인 결정, 2026-10-29)
+    interest: z.array(z.object({ team: z.string(), sources: z.array(src).min(1), rumor: z.boolean().default(false) })).default([]),
     price: z.object({ text: z.string().max(30), sources: z.array(src).min(1) }).optional(),
     signed: z.object({ team: z.string(), terms: z.string().max(60), date: dateStr, source: src }).optional(),
     pros: z.array(point).max(2).default([]),
