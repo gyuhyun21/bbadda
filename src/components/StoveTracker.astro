@@ -15,7 +15,9 @@ const hot = players.filter((p) => p.hot);
 const top = hot.length ? hot : players.slice(0, 6);
 const rest = players.filter((p) => !top.includes(p));
 const signedN = players.filter((p) => p.signed).length;
-const STATE = { open: '협상 중', moved: '계약 완료 · 이적', stayed: '계약 완료 · 잔류' };
+const expected = data?.list === 'expected';
+const allIds = TEAMS.map((t) => t.id);
+const STATE = { open: expected ? 'FA 예정 · 공시 전' : '협상 중', moved: '계약 완료 · 이적', stayed: '계약 완료 · 잔류' };
 // 관련 기사: 제목에 선수 이름이 있고 관련 팀(원소속·관심·계약) 기사인 것, 최근 4건
 const related = (p: FaPlayer) => {
   const ts = new Set(voteTeams(p));
@@ -25,10 +27,10 @@ const tiles = TEAMS.map((t) => ({ t, ...moves(players, t.id) }));
 ---
 {players.length > 0 && (
   <section class="block fa-block" aria-labelledby="h-fa" data-pagefind-ignore>
-    <SectionHead id="h-fa" title="FA 행선지" eyebrow={`STOVE LEAGUE ${data!.season}`} status={signedN < players.length ? `미계약 ${players.length - signedN}명` : '계약 마감'} />
-    <p class="fa-asof">{data!.as_of && `${md(data!.as_of)} 기준 · `}{data!.list_source ? <a href={data!.list_source} target="_blank" rel="noopener noreferrer" data-no-modal>FA 승인 명단</a> : 'FA 승인 명단'} · 관심 구단·몸값은 보도 기준</p>
+    <SectionHead id="h-fa" title="FA 행선지" eyebrow={`STOVE LEAGUE ${data!.season}`} status={expected ? `FA 예정 ${players.length}명` : signedN < players.length ? `미계약 ${players.length - signedN}명` : '계약 마감'} />
+    <p class="fa-asof">{data!.as_of && `${md(data!.as_of)} 기준 · `}{data!.list_source ? <a href={data!.list_source} target="_blank" rel="noopener noreferrer" data-no-modal>{expected ? 'FA 예정자(예상 명단 보도)' : 'FA 승인 명단'}</a> : expected ? 'FA 예정자(예상 명단 보도)' : 'FA 승인 명단'}{expected && ' · KBO 공시 전이라 바뀔 수 있음'} · 관심 구단·몸값은 보도 기준</p>
     <div class="fa-tally">
-      <div><strong>{players.length}</strong><span>FA</span></div>
+      <div><strong>{players.length}</strong><span>{expected ? 'FA 예정' : 'FA'}</span></div>
       <div><strong>{signedN}</strong><span>계약 완료</span></div>
       <div><strong>{players.length - signedN}</strong><span>미계약</span></div>
     </div>
@@ -42,9 +44,9 @@ const tiles = TEAMS.map((t) => ({ t, ...moves(players, t.id) }));
       const cards = group.map((p) => {
         const st = statusOf(p);
         const rel = related(p);
-        const vt = voteTeams(p);
+        const vt = voteTeams(p, allIds);
         return (
-          <article class="fa-card" data-fa-status={st === 'open' ? 'open' : 'signed'} data-fa-teams={vt.join(' ')}>
+          <article class="fa-card" data-fa-status={st === 'open' ? 'open' : 'signed'} data-fa-teams={voteTeams(p).join(' ')}>
             <div class="fa-top">
               <span class="fa-mark" style={`--team:${teamColor(p.from)}`} aria-hidden="true">{short(p.from)}</span>
               <div class="fa-who"><h3>{p.name}</h3><p>{short(p.from)}{st === 'moved' && ` → ${short(p.signed!.team)}`} · {p.pos}{p.age && ` · ${p.age}세`}</p></div>
