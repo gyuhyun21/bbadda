@@ -1,0 +1,28 @@
+{
+  "id": "news-be17a500",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9hUWh5SHZkZ0YtVGJzLUMtSnJqRlI0M1RtLWZZeGlQSlVxRTRGaHBJckdLVWhRaWFmOF9hR2laN09YLXg0RVhGRFVSOWRPUDBMWlJ1UV94ckV0RDc5UUs1c0V2T19YSGdTd0cyU18yc9IBb0FVX3lxTE9hUWh5SHZkZ0YtVGJzLUMtSnJqRlI0M1RtLWZZeGlQSlVxRTRGaHBJckdLVWhRaWFmOF9hR2laN09YLXg0RVhGRFVSOWRPUDBMWlJ1UV94ckV0RDc5UUs1c0V2T19YSGdTd0cyU18ycw?oc=5",
+  "title": "‘작전명 원태인을 아껴라’ 삼성, 3차전 대승이 필요하다…KS 진출 위한 최상의 시나리오",
+  "published_at": "2026-10-29T03:40:00.000Z",
+  "collected_at": "2026-10-29T07:38:49.597Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9FQVdpWjhCOVhDMm81Wkx4d2NjUWFsaFk3eUZjdkRhcTc5cFhLWTB4cEE5QW95VXVkQVZWT3ZmQS1WX2dFcDQzWDFDMjZLMUNZYXA5aQ?oc=5"
+    }
+  ]
+}

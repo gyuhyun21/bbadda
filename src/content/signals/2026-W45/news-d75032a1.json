@@ -1,0 +1,23 @@
+{
+  "id": "news-d75032a1",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스1",
+  "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE51bDl0WEdlZzlBdWgtMmlIYlIxd09BbHFDdUt5T2FmMDVvaVlUUWk1cUVPZDN1RnFFSE1Lb3poRjk2Mno5N1VaV2FiWE9OYUM2dFlDYUFnN255YlQ4QmZj?oc=5",
+  "title": "기아팬도·삼성팬도 \"우리가 승리\"…PO 3차전 열기 추위 녹였다",
+  "published_at": "2026-10-29T07:19:01.000Z",
+  "collected_at": "2026-10-29T07:38:49.597Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

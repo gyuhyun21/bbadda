@@ -1,0 +1,23 @@
+{
+  "id": "community-fe21beb6",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "community",
+  "source_name": "디시 야구 갤러리",
+  "url": "https://gall.dcinside.com/board/view/?id=giants_new3&no=6262753",
+  "title": "롯데자이언츠 한마디 요약",
+  "published_at": "2026-10-20T00:00:00.000Z",
+  "collected_at": "2026-10-29T07:38:49.597Z",
+  "summary_ko": "",
+  "excerpt": "... 야구단은 알빠노에 팬을 개좆으로 본다 ㅋㅋ.",
+  "metrics": {},
+  "scores": {
+    "hot": 8,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

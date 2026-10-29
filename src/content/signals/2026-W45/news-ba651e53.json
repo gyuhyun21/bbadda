@@ -1,0 +1,29 @@
+{
+  "id": "news-ba651e53",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1sYjFYdGtvcnpVUFVjWkhtWFhvd2lFWkFlLVoxRFk1Y21rZXRmbHY0dnFMR2xnMEE0Sy0zR1NQSGV4RTRoLXFWR0I1WFFKYWpDZXQzc1h4SWlzaFZCUUJxLXBOZExKaTJBU2fSAW9BVV95cUxOcVVfRWdRWEJ0OTJMTFBxOEt3djljMXlFQWlxSEVmYksxS2NjeGFQdjQxLVYzSGlocUZyYnRFWUxvSlVtX2hLNG51NUNyMDdXWUpmSG9pS2JDTDNOXzJMOTl3TjA4blBRZ0JwNWVUZ00?oc=5",
+  "title": "[한번에쓱] '삼성 좌타라인 봉쇄가 관건인데.....' 기아 이범호 감독",
+  "published_at": "2026-10-29T07:18:41.000Z",
+  "collected_at": "2026-10-29T07:38:49.597Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 84,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1VZUFTYndTWVBCb2RGc2prZTVUdjRQU2NEZE9pdDBITjNkOTJRcWF4R3NYRjdyR0V3Z0FaOVVNWkh5UFpQMXJKelBBNkwzT0Zma2I0aE1udVFFZl80QThHZnhsMTd2YUo5bENOZHNxTnB2bExrMlE?oc=5"
+    }
+  ]
+}

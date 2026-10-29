@@ -1,0 +1,27 @@
+{
+  "id": "youtube-5b90928f",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "정병야구",
+  "url": "https://www.youtube.com/watch?v=ow-ZcDWfPkw",
+  "title": "한국어 패치된 에레디아 #kbo #야구 #프로야구 #두산베어스 #ssg랜더스 #에레디아",
+  "published_at": "2026-10-29T03:00:34Z",
+  "collected_at": "2026-10-29T07:38:49.597Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 10230,
+    "likes": 99,
+    "comments": 3
+  },
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

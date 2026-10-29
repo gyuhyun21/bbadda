@@ -1,0 +1,25 @@
+{
+  "id": "community-3e51879d",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt",
+    "samsung",
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 K-Contents Review",
+  "url": "https://gilnami.tistory.com/160",
+  "title": "한국시리즈 우승 확률, 정규 1위 KT 직행팀은 몇 번 우승했나? 역대 업셋 5번과 삼성·KIA 상대전적 비교",
+  "published_at": "2026-10-29T09:46:40.000+09:00",
+  "collected_at": "2026-10-29T07:38:49.597Z",
+  "summary_ko": "블로그 글은 정규시즌 1위 직행팀의 한국시리즈 우승 횟수와 삼성·KIA 상대전적을 비교했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "brief_ko": "KS 직행팀 우승 확률"
+}

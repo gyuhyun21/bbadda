@@ -1,0 +1,22 @@
+{
+  "id": "news-e43fba1b",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스1",
+  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9Ma1U1ZDJmQ2xzMkd2S08xZXlWa2pDRDFBOEVOVTlnRzFydkM3X2NDWHNFd2ltTmdaaHlFZVFpcVNDVGZ2WE9ZeVZXZFlNeHpkalR4UHRxMA?oc=5",
+  "title": "'준PO 탈락' 염경엽호 LG, 코치진 개편…정수성 코치 떠난다",
+  "published_at": "2026-10-29T02:24:10.000Z",
+  "collected_at": "2026-10-29T07:38:49.597Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

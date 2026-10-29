@@ -1,0 +1,23 @@
+{
+  "id": "community-2fc89d90",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 미완성 AI 연구소",
+  "url": "https://undefined-lab.tistory.com/1416",
+  "title": "[PO 3차전 승부예측] 2026.10.29 삼성 vs KIA, 1승 1패 균형, 3차전 잡을 팀은?",
+  "published_at": "2026-10-29T08:00:52.000+09:00",
+  "collected_at": "2026-10-29T07:38:49.597Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "youtube-9d26f05e",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt",
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "이과장의 스포츠",
+  "url": "https://www.youtube.com/watch?v=5NPdSMI4cdc",
+  "title": "2026년 프로야구 KT위즈와 삼성라이온즈 홈런 순위 비교",
+  "published_at": "2026-10-29T01:12:28Z",
+  "collected_at": "2026-10-29T07:38:49.597Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1811,
+    "likes": 2,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 46,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

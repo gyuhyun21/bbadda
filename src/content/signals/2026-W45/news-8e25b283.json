@@ -1,0 +1,29 @@
+{
+  "id": "news-8e25b283",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1LMWx4bzk1aFV6ZkhsdUxVSHdHX01EQXhSeDNvX2VNM0ZQQ205b29kdWx2TGtNTjZ1RUFEejloWThzazEyN3V0bjZlZ1k0N1Y1aE1JMUtJcWlpanV1c2d5QWk3LVRMdWlmaHU0X0kwRdIBb0FVX3lxTE1LMWx4bzk1aFV6ZkhsdUxVSHdHX01EQXhSeDNvX2VNM0ZQQ205b29kdWx2TGtNTjZ1RUFEejloWThzazEyN3V0bjZlZ1k0N1Y1aE1JMUtJcWlpanV1c2d5QWk3LVRMdWlmaHU0X0kwRQ?oc=5",
+  "title": "1~2번도 시원치 않은데 7타수 무안타 의외의 침묵...5할8푼8리 KS MVP, 3차전에서는 자존심 살리나요?",
+  "published_at": "2026-10-29T02:40:00.000Z",
+  "collected_at": "2026-10-29T07:38:49.597Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ibnVVTVFuTGlndk9ZVEd2RWdGQnExanNWd19zbGF5bmRBNk1GcDJBMUdtVmZWYnQ5Z2JNRmpmZ1Uya3hxUml4U2hrZFdDR192bC1Vag?oc=5"
+    }
+  ]
+}

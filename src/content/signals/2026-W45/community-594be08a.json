@@ -1,0 +1,23 @@
+{
+  "id": "community-594be08a",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 BB Insight",
+  "url": "https://brunch.co.kr/@bbinsight/10",
+  "title": "08. 현장 야구와 프런트 야구, 그 사이의 간극",
+  "published_at": "2026-10-29T07:00:29.000+09:00",
+  "collected_at": "2026-10-29T07:38:49.597Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

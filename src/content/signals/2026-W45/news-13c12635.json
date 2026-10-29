@@ -1,0 +1,23 @@
+{
+  "id": "news-13c12635",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "뉴시스",
+  "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1BRTIybnNXblA0YWJnQkxRZDU2YW9LYXlrSUdvS190b0JjWldIS0pmSW1UdHJGWWtnMEMtNVM5Q2Nia2lMdjJ5RGtVa0ZxS0tWMVdXOWhpdTZMWFY2bS1QcUd3MlFIeHJJU0o0UzJZcUZwRFliY3ExTNIBeEFVX3lxTE1BRTIybnNXblA0YWJnQkxRZDU2YW9LYXlrSUdvS190b0JjWldIS0pmSW1UdHJGWWtnMEMtNVM5Q2Nia2lMdjJ5RGtVa0ZxS0tWMVdXOWhpdTZMWFY2bS1QcUd3MlFIeHJJU0o0UzJZcUZwRFliY3ExTA?oc=5",
+  "title": "플레이오프 직관 못 간 시민들, 전남광주 단체 응원 어디서?",
+  "published_at": "2026-10-29T03:46:31.000Z",
+  "collected_at": "2026-10-29T07:38:49.597Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

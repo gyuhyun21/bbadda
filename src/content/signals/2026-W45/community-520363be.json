@@ -1,0 +1,25 @@
+{
+  "id": "community-520363be",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "community",
+  "source_name": "레딧 r/KBO",
+  "url": "https://www.reddit.com/r/KBO/comments/1xi2jge/lotte_giants_hire_exmanager_as_bench_coach_her/",
+  "title": "Lotte Giants hire ex-manager as bench coach Her Mun-hoe (허문회)",
+  "published_at": "2026-10-28T22:38:49.597Z",
+  "collected_at": "2026-10-29T07:38:49.597Z",
+  "summary_ko": "연합뉴스 영어판에 따르면 롯데가 전 감독 허문회를 벤치코치로 영입했다.",
+  "excerpt": "... SEOUL, Oct. 28 (Yonhap) -- The Lotte Giants on Wednesday brought back their form...",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 50
+  },
+  "sentiment": "neutral",
+  "brief_ko": "허문회, 롯데 벤치코치로",
+  "title_ko": "Lotte Giants hire ex-manager as bench coach Her Mun-hoe (허문회)"
+}

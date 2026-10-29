@@ -1,0 +1,23 @@
+{
+  "id": "news-607b01b4",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스핌",
+  "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE41aDdjVl9RU245clRJQzRuMWV5NzFKNU5vZ1dDRUU3VTZGMHQ4Uzk2SVg0V2l2RmdVNDE5dXhndFFwZjYtYmQtY0N1dkZic2x5dnJuV2t3X0puZU5C?oc=5",
+  "title": "[AI프리뷰] 29일 광주 KIA-삼성 PO 3차전, KS 진출 티켓 분수령 누가 거머쥐나",
+  "published_at": "2026-10-29T05:08:00.000Z",
+  "collected_at": "2026-10-29T07:38:49.597Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 83,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

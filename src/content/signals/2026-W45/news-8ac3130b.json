@@ -1,0 +1,23 @@
+{
+  "id": "news-8ac3130b",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "www.bplusnews.com",
+  "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5Kb1RaT192VFl3UVFaUzlXNG1WTmROZW9tUFU3SVpSdFFqMFpmMjR0OUsxeHBSUThzdFN0MzYzYjJsS21kdXhQbHE0NXJITV9hckotV3RzeklQUzRSS0tGU1VnRzhzOGZLTklj?oc=5",
+  "title": "부산 스포츠 굿즈 페스타, 벡스코서 개막",
+  "published_at": "2026-10-29T07:30:14.000Z",
+  "collected_at": "2026-10-29T07:38:49.597Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

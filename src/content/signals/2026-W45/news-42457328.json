@@ -1,0 +1,29 @@
+{
+  "id": "news-42457328",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE55YUxoNE05M242UGRqcEMtTktVbEd4c3Q4ekRNZDlWSHM2ckFDWjQ3NEtETGd1QWdWYU8tWEhpTm42eXduUDlxbEkyQVVMWDRXdDFZeGdYakZJX29SeW5zMnc4cUVuLUJxdUZwaHYzWdIBb0FVX3lxTE55YUxoNE05M242UGRqcEMtTktVbEd4c3Q4ekRNZDlWSHM2ckFDWjQ3NEtETGd1QWdWYU8tWEhpTm42eXduUDlxbEkyQVVMWDRXdDFZeGdYakZJX29SeW5zMnc4cUVuLUJxdUZwaHYzWQ?oc=5",
+  "title": "“최형우 수비 잘한다니까요” 모두가 감탄한 43세 베테랑의 보살, 구자욱과의 공존 자신감 얻었다",
+  "published_at": "2026-10-29T01:40:00.000Z",
+  "collected_at": "2026-10-29T07:38:49.597Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5yTUU2TmIxOGQtZll2Y0RkT2QybFRfVkVGZTVPZ0wzcjlGZGdaY0N3VXBxRmpkTVdTX1J1YjU0TUQtWV9EaHlrclFWQlJTSzc2a1lHSA?oc=5"
+    }
+  ]
+}

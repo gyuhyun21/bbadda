@@ -1,0 +1,26 @@
+{
+  "id": "youtube-29f61c77",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "youtube",
+  "source_name": "백유주",
+  "url": "https://www.youtube.com/watch?v=iy-SL9Fqz2Q",
+  "title": "26 키움 요약 #kbo #야구 #키움히어로즈",
+  "published_at": "2026-10-29T06:55:27Z",
+  "collected_at": "2026-10-29T07:38:49.597Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 208,
+    "likes": 1,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 36,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

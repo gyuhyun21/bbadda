@@ -1,0 +1,23 @@
+{
+  "id": "news-9bbf0a44",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "news",
+  "source_name": "www.maniareport.com",
+  "url": "https://www.maniareport.com/view.php?ud=20261029064755141291b55a0d56_19",
+  "title": "'한화의 희망사항?' 와이스, 1년 만에 복귀설…고우석도 3년 도전, 메이저리그 쉽게 포기할까",
+  "published_at": "2026-10-28T23:26:43.000Z",
+  "collected_at": "2026-10-29T07:38:49.597Z",
+  "summary_ko": "한화가 외국인 투수 와이스의 복귀를 바란다는 설이 나왔다는 보도다. 확정된 내용은 아니다.",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 80
+  },
+  "sentiment": "positive",
+  "brief_ko": "와이스 복귀설"
+}

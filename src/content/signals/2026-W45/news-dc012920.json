@@ -1,0 +1,24 @@
+{
+  "id": "news-dc012920",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠경향",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1keVFyU3BkQjkwTlM4UkNiNHAzN0VKa3pCMUlGOU5WamxCZFZDN1ZaTjRYcllmaEpia3JHdHpjZFgtdEFKcmpVVWJPMUdJZkU0ZC1CMnd1ZUZTOXlMQTRzWTlnSdIBY0FVX3lxTE1keVFyU3BkQjkwTlM4UkNiNHAzN0VKa3pCMUlGOU5WamxCZFZDN1ZaTjRYcllmaEpia3JHdHpjZFgtdEFKcmpVVWJPMUdJZkU0ZC1CMnd1ZUZTOXlMQTRzWTlnSQ?oc=5",
+  "title": "“마무리 복귀에 욕심내겠다”는 김서현, 日 마무리 캠프에서 최종적으로 투구폼 다듬는다",
+  "published_at": "2026-10-29T02:56:00.000Z",
+  "collected_at": "2026-10-29T07:38:49.597Z",
+  "summary_ko": "한화 김서현이 마무리 복귀에 욕심을 내겠다며 일본 마무리캠프에서 투구폼을 다듬는다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "brief_ko": "김서현 \"마무리 욕심\""
+}

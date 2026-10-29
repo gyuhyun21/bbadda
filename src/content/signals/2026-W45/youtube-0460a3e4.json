@@ -1,0 +1,27 @@
+{
+  "id": "youtube-0460a3e4",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "source_name": "그해 오늘",
+  "url": "https://www.youtube.com/watch?v=dgI0l9WDSHY",
+  "title": "1999/10/29 오늘, 한화 이글스, 창단 첫 한국시리즈 우승",
+  "published_at": "2026-10-29T06:00:11Z",
+  "collected_at": "2026-10-29T07:38:49.597Z",
+  "summary_ko": "'그해 오늘' 채널이 1999년 오늘 한화가 창단 첫 한국시리즈 우승을 한 날을 다뤘다.",
+  "metrics": {
+    "views": 204,
+    "likes": 1,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 36,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "brief_ko": "1999년 오늘, 첫 KS 우승"
+}

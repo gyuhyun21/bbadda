@@ -1,0 +1,24 @@
+{
+  "id": "news-fd609f82",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "announcement": true,
+  "source_name": "MHN스포츠",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1EcGw2azBxRFFfanAydDdpemk2enFub2t4NHNPRkdzbjhUN3dBWTJIa3N6TXh1dTBRYUFzS2hKNnJvN2x2N1ZUX1NsRy1rd2R2Ui1KVVBqSGhKRHlLMGc2aFFxRQ?oc=5",
+  "title": "[오피셜]한국엔 없는 ‘투수 트레이닝 전문가’ 김현욱 코치, 롯데 떠난다…벌써부터 행선지에 관심",
+  "published_at": "2026-10-29T03:15:32.000Z",
+  "collected_at": "2026-10-29T07:38:49.597Z",
+  "summary_ko": "투수 트레이닝 전문가 김현욱 코치가 롯데를 떠난다고 구단이 공식 발표했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "김현욱 코치, 롯데 떠난다"
+}

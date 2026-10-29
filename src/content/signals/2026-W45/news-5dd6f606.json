@@ -1,0 +1,23 @@
+{
+  "id": "news-5dd6f606",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "무등일보",
+  "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE02T1JVUXYzcmFBbENfcnhMQXZJU2hnejBaN0s4U3ByRl9yWmQyWDR2YjlRQlAwSVQ5YWt4UHpLUnU1UFJ3eXJUVlZIV1M?oc=5",
+  "title": "1승1패 호랑이 군단···37년 만의 ‘업셋 우승’ 가능성 보여줄까",
+  "published_at": "2026-10-29T05:05:00.000Z",
+  "collected_at": "2026-10-29T07:38:49.597Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 83,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

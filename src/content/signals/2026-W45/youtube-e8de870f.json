@@ -1,0 +1,26 @@
+{
+  "id": "youtube-e8de870f",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "ace stories 에이스 스토리즈",
+  "url": "https://www.youtube.com/watch?v=eVEzRdt12qA",
+  "title": "박재현 2026 활약 #기아타이거즈",
+  "published_at": "2026-10-29T07:29:34Z",
+  "collected_at": "2026-10-29T07:38:49.597Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 161,
+    "likes": 2,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 40,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "youtube-8fedfd14",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "youtube",
+  "source_name": "이렇게탄생한겁니다",
+  "url": "https://www.youtube.com/watch?v=kHTdSwk4hmk",
+  "title": "1,270억 야구장 짓고 6년 만에 \"창원 떠나겠다\" — NC 다이노스가 연고 이전 카드를 꺼낸 진짜 이유",
+  "published_at": "2026-10-29T06:00:24Z",
+  "collected_at": "2026-10-29T07:38:49.597Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 16,
+    "likes": 0,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 57,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

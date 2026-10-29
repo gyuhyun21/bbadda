@@ -1,0 +1,23 @@
+{
+  "id": "community-f7807414",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 Ryan's Blog",
+  "url": "https://ryan.tistory.com/1125",
+  "title": "LG 트윈스 마무리캠프, 주전까지 총출동… 이례적 44명 체제의 의미",
+  "published_at": "2026-10-29T09:05:12.000+09:00",
+  "collected_at": "2026-10-29T07:38:49.597Z",
+  "summary_ko": "블로그 글은 LG 마무리캠프에 주전까지 포함한 44명이 참가하는 의미를 짚었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "마무리캠프 44명 총출동"
+}

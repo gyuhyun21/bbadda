@@ -1,0 +1,26 @@
+{
+  "id": "youtube-c408f487",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "남다르크 - 남다른 보험설계사",
+  "url": "https://www.youtube.com/watch?v=XXDWQ7yxn3s",
+  "title": "가을야구도 온탑과 함께!! #기아타이거즈 #온탑본부 #남다르크",
+  "published_at": "2026-10-29T01:00:29Z",
+  "collected_at": "2026-10-29T07:38:49.597Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 443,
+    "likes": 3,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 42,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

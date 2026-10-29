@@ -1,0 +1,23 @@
+{
+  "id": "news-1bb728a6",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "https://spt.co.kr/",
+  "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5KUUVPUmRyUFFrWGZBV0xJb0JUSUlhbmFaQWhRbTBEX3o1SkRnbE9rYmQ1bzFEaHZMTUxKOXlKRGhTQlJVRmk5Qkg3b2Vhbmd5NmhzdkJKUnlwdE1B?oc=5",
+  "title": "'8승 2무 무패' 롱비치 돌풍⋯울산-KBO 폴리그 준결승 대진 확정 · 핵심 정리",
+  "published_at": "2026-10-29T02:56:00.000Z",
+  "collected_at": "2026-10-29T07:38:49.597Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "youtube-7322451a",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "Giants TV",
+  "url": "https://www.youtube.com/watch?v=DOdN1WSna3s",
+  "title": "루키데이 비하인드 ep.2ㅣ평생 잊지 못할 루키들의 소중한 하루💕",
+  "published_at": "2026-10-29T03:00:36Z",
+  "collected_at": "2026-10-29T07:38:49.597Z",
+  "summary_ko": "롯데 공식 채널이 루키데이 비하인드 2편을 올렸다.",
+  "metrics": {
+    "views": 22750,
+    "likes": 638,
+    "comments": 52
+  },
+  "scores": {
+    "hot": 84,
+    "relevance": 50
+  },
+  "sentiment": "neutral",
+  "brief_ko": "루키데이 비하인드 2편"
+}

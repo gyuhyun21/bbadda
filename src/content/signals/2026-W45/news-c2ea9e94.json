@@ -1,0 +1,28 @@
+{
+  "id": "news-c2ea9e94",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "뉴시스",
+  "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE84bm8xeDVGV1g5UW9nQXFJVElLV1Q4am9YUGJ0U3NjbjRqSnNoNzVQaUk0elF6clJZUHpjS2JVSFk3ZXZPcHhaUlZZUUoyYjNRYWZqWEFOR3pGel9qb0VSenVfZi1sQndmcWtRa3F2aTRhbV9VeEtLSdIBeEFVX3lxTE84bm8xeDVGV1g5UW9nQXFJVElLV1Q4am9YUGJ0U3NjbjRqSnNoNzVQaUk0elF6clJZUHpjS2JVSFk3ZXZPcHhaUlZZUUoyYjNRYWZqWEFOR3pGel9qb0VSenVfZi1sQndmcWtRa3F2aTRhbV9VeEtLSQ?oc=5",
+  "title": "'가을야구' 원정 팬에 기아챔피언스필드 일대 상권 특수 기대",
+  "published_at": "2026-10-29T02:27:07.000Z",
+  "collected_at": "2026-10-29T07:38:49.597Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 98,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "네이트",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5raEZ4OHduTWhQajZnZmxORXF3NXVOZnV6LUJTajZ5RnFmVVRvNUVOR1VIMmZzR3lUNk9oVWVLbW1tTDdSZ09CeFQyekVobDVaOG4w?oc=5"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-2029aa2e",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "마이데일리",
+  "url": "https://www.mydaily.co.kr/page/view/2026102915465031773",
+  "title": "3차전 히든카드는 김규성! 7번·2B 선발 출전→박재현·김호령 테이블 세터…KIA 선발 라인업 공개, 56.3%를 잡아라 [MD광주]",
+  "published_at": "2026-10-29T06:51:00.000Z",
+  "collected_at": "2026-10-29T07:38:49.597Z",
+  "summary_ko": "KIA가 PO 3차전 라인업을 공개했다. 김규성이 7번 2루수로 나오고 박재현·김호령이 테이블 세터를 맡는다.",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "3차전 김규성 7번 2루수"
+}

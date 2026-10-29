@@ -1,0 +1,23 @@
+{
+  "id": "news-55595691",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "news",
+  "source_name": "매일신문",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1jeFJnZ01CX2ZmM2M1ZkFocDFPYmtGMlRxUEd2Y2pzeVNMdGlERlRfQ2VaOU1CRDg2Q3RxMzRwRXpmRFFvSUEwLUJXb1J5SDEtWndvYzFrTE4ydnVCZktUX0lR?oc=5",
+  "title": "SSG, 가고시마 캠프서 내야 유틸리티 발굴…\"홍대인 같은 선수 찾아라\"",
+  "published_at": "2026-10-29T02:44:57.000Z",
+  "collected_at": "2026-10-29T07:38:49.597Z",
+  "summary_ko": "SSG가 가고시마 캠프에서 홍대인 같은 내야 유틸리티 선수를 찾고 있다는 매일신문 기사다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "가고시마서 유틸리티 찾기"
+}

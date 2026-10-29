@@ -1,0 +1,24 @@
+{
+  "id": "community-8ff9b1b8",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 스포츠정보",
+  "url": "https://happystory2016.tistory.com/98",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/IsjgIJryCrT",
+  "title": "한국시리즈 경기방식 쉽게 풀기, 연장 15회와 무승부 연전 규칙",
+  "published_at": "2026-10-29T11:07:12.000+09:00",
+  "collected_at": "2026-10-29T07:38:49.597Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

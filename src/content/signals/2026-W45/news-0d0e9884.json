@@ -1,0 +1,29 @@
+{
+  "id": "news-0d0e9884",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "마이데일리",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBhRVJPckNYRnpNY1VMVXVGNHFlOFo0OVBNdEtVREFBYjRkeFV5eW5CUkI2QS1TREpZM1JKVXlrdVRHTWdCMlNDLXJyODEtUEczS1NyNm9Rbnk0NHd0c2tBYQ?oc=5",
+  "title": "'가을 마무리' 원태인, 그래서 구위는 어땠는데? 강민호 전율→리드 전격 변경…\"완전 다르다고 느꼈다\"",
+  "published_at": "2026-10-29T00:41:00.000Z",
+  "collected_at": "2026-10-29T07:38:49.597Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "네이트",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBCd0NCdFdkd1pEOEU0bmZaUk1QajVpVHF3Qjd5T3FLNDVXeTR2clRRamZFc1BRUWE4N1JGdm91MnM4MG9BM3RJY0VFcjdDdHhpeVFoaEJ2TTg4VUg4NHpsN3JhckxneVlj?oc=5"
+    }
+  ]
+}

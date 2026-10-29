@@ -1,0 +1,29 @@
+{
+  "id": "news-1d9637cf",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://www.mt.co.kr/amp/sports/2026/10/29/2026102908094468222",
+  "title": "'FA로 163억→최악의 1년' 5000만원에 돌아온 손아섭, NC서 '통산 안타 1위' 탈환을 꿈꾼다",
+  "published_at": "2026-10-29T00:33:33.000Z",
+  "collected_at": "2026-10-29T07:38:49.597Z",
+  "summary_ko": "163억 FA 계약 뒤 부진했던 손아섭이 연봉 5000만 원에 NC로 돌아온다는 보도다. NC에서 통산 안타 1위 탈환을 노린다는 내용이다.",
+  "metrics": {},
+  "scores": {
+    "hot": 89,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "https://spt.co.kr/",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1zOGNCTHBvS3huNHBzZWJUVWpUenJsRkxCZGdoVHB4MWxnOGRTY0psbU5SREVEbllhSVhFek5kY095N0RsYkcySi1DOF9CeGpUQ2lLU2dhb0VjRV9r?oc=5"
+    }
+  ],
+  "brief_ko": "손아섭, 5천만 원에 NC 복귀"
+}

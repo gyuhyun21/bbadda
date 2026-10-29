@@ -1,0 +1,28 @@
+{
+  "id": "news-48cd282c",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "news",
+  "source_name": "마이데일리",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9vbXFIX1FCSzRiRGh5Q3BJeTByQlZub0dqRTFwSXBMQmk4eXgwVER2NWdWX3RnZjN3ajIyVDdtQ1Y0QnZRa3htR18zSjRRVXl5NlFrQ2MwMG1wajhYS2Q4QQ?oc=5",
+  "title": "\"한화 떠나게 되었습니다\" 한화 일본인 코치는 더 이상 없다…한화 포수 유망주도 마지막 인사 \"KBO 대표하는 선수 되겠습니다\"",
+  "published_at": "2026-10-29T03:01:00.000Z",
+  "collected_at": "2026-10-29T07:38:49.597Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 82,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "네이트",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTWJySHZZcWhsWk5QSEcyZ2RKMkE3b0RhLU85T0VJb1ZRRjdPczdERE9YVTNHY1pFT0QyQ0tkY195ZzVwZXRzVXhqMDk3ZjZKbVBXSktmdXRpbHRlTzlvRGlkcVdndV9wWXJIX2xUaERtTi1mZjUxS0hNaW9fVnp1cTJ3?oc=5"
+    }
+  ]
+}

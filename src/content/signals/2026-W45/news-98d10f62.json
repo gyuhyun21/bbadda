@@ -1,0 +1,30 @@
+{
+  "id": "news-98d10f62",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5FcEFTVzkyVk1yMDFYYnZhWWFMcXgwcjhLVkpDbWlVYlRYdno2ckdXTG15WUxmRDZqNjZQTEw1OFJHanBuQVZSTW1fTmVTQVRwNGVLX3NsSWVmdmlmMXpjX2s5UkZfSktFUlQ3VHFnNNIBb0FVX3lxTE5FcEFTVzkyVk1yMDFYYnZhWWFMcXgwcjhLVkpDbWlVYlRYdno2ckdXTG15WUxmRDZqNjZQTEw1OFJHanBuQVZSTW1fTmVTQVRwNGVLX3NsSWVmdmlmMXpjX2s5UkZfSktFUlQ3VHFnNA?oc=5",
+  "title": "'우승 없는' 강민호-'KS MVP' 김선빈, 둘 다 7타수 무안타... 베테랑의 힘을 보여줘",
+  "published_at": "2026-10-29T01:29:19.000Z",
+  "collected_at": "2026-10-29T07:38:49.597Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 90,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9PdGNlRjdmWEhBSWFWWHAyUjFzbWFXNjZ6U3JnSW9pakRBVm9rS1VHRHh3SnVLTnl5SjF6NjBrMTBkTHFVNFdwQlMzbXd0eUNBUDBxOTM3c2I2azRqT0FBa1BqUzEzeWFxU3YxOTh5TmlZWG1GM2c?oc=5"
+    }
+  ]
+}

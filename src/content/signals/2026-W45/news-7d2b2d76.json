@@ -1,0 +1,36 @@
+{
+  "id": "news-7d2b2d76",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE45WXRQaXJSWkVZUnQ1RlNFX2dyYjJvbFFjS1lkeTltSG51Szdjb1ZwSlR0Mm1IUjV3eE5xTVBPa3JGMmR3WWllSV82YTA4aG1JLXhhOGJmdlF4TzEySFdoWS1CQi16T1V2WWx2SG1VONIBb0FVX3lxTE45WXRQaXJSWkVZUnQ1RlNFX2dyYjJvbFFjS1lkeTltSG51Szdjb1ZwSlR0Mm1IUjV3eE5xTVBPa3JGMmR3WWllSV82YTA4aG1JLXhhOGJmdlF4TzEySFdoWS1CQi16T1V2WWx2SG1VOA?oc=5",
+  "title": "오승환,’삼성의 승리 지킴이에서 승리 요정으로 변신’ [O! SPORTS 숏폼]",
+  "published_at": "2026-10-29T02:19:00.000Z",
+  "collected_at": "2026-10-29T07:38:49.597Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 98,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVFdBMkk0OGd3aHlfMnc2WXJwR2RrbkJWcGJvNTYxaEFaSU9sbm5ZREVQYzI3UEVNM3p4aHE5OUNELXIzRS1XcmhIaHI0V2pLX3EyTjkxVWNGWUZSbF9GUXhXT1MxeG5ZZFpUbXprYnpzcFhtd3dfdnpBYjNKa1RudGlSWQ?oc=5"
+    },
+    {
+      "source_name": "OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA1dGFsNFFhUlpfWllTT2dCWDJsT1huSHduMEdVZ1RtX1RnTWhxTEVwSXdGQ3JXTjB4c1pXb0NDZ0pLdFhyVmRDQlowa0Y1aHhWNEZTdA?oc=5"
+    },
+    {
+      "source_name": "Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdS1td1JoTVczTFNNdllUX29vOERjd3c2YjdIZERkTFBjVHRpSEc1OFQ1NXJqMFJvUkY3WUtENlZlOFNSNVJtdWRjZlQ4T213aU9RelgyTWxhX1R3LU5VRXNGX2dOb1NiZHNRUWZjQVJ3djhOamtCSDQxaVRnWFBGRFc5MNIBlwFBVV95cUxOblN6UGZ5Y2pQclFsWE1KWWhxRWEtUnlacW01V0M4SzZ6RjR0a1I2eUJnTG9qQnZyRlA1VmFoYlFSY2xWdVl4bVY3QUNUTTFxRG9weU5uT2lSZkppRU94aG9zN1VYRXctZ2JlaW1UN3ZJcW0xaTFHN1ZlM09ZNHQ3OWNjek1pbkREdHA3cUJaeUpHeGdxTkU4?oc=5"
+    }
+  ]
+}

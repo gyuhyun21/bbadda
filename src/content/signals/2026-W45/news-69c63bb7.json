@@ -1,0 +1,25 @@
+{
+  "id": "news-69c63bb7",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "hanwha",
+  "teams": [
+    "hanwha",
+    "samsung",
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠동아",
+  "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1oZVUtV2JKTkxiR0Q1c1MtRG1FaURJeTVEYzRtTmgyUk1acG51VWhtTUhBcVNJNDR2a2QzNk9rREstLXU1Snpndl9OZV9lYzZab1FuNFVGdV9fTzBNT3lFV2RJSjdWTEFpZlRIc202Mk43UQ?oc=5",
+  "title": "대체자에서 가을야구 주역으로…박승규의 꿈같은 PO",
+  "published_at": "2026-10-29T06:08:17.000Z",
+  "collected_at": "2026-10-29T07:38:49.597Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 83,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

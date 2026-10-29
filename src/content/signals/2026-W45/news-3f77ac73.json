@@ -1,0 +1,24 @@
+{
+  "id": "news-3f77ac73",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE14c01hazhfLVItazR0bDhUZkU3c0ZRTTNwSTdqU08xQnRWSUkyU0k4S3R0Z3BvaHFaTnZRVFZvRXA4ZUY2amQ5UDdlaEpGMnNnRjdaeW5CV1hHRy1Sd3poa0ZlVmFuOXFmTThXTHR4YVNIOUFGeUt6T25fNWNqQQ?oc=5",
+  "title": "ML 타격왕 경쟁→충격 0.236 급추락...이정후 스스로 입 열었다 \"롤러코스터였어요\"",
+  "published_at": "2026-10-29T01:21:10.000Z",
+  "collected_at": "2026-10-29T07:38:49.597Z",
+  "summary_ko": "MLB 타격왕 경쟁에서 타율 0.236까지 내려온 이정후가 올 시즌이 롤러코스터였다고 스스로 돌아봤다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "negative",
+  "brief_ko": "이정후 \"롤러코스터였다\""
+}

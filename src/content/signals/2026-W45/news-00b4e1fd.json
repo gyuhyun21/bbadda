@@ -1,0 +1,28 @@
+{
+  "id": "news-00b4e1fd",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "뉴시스",
+  "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE55c19PbjJJMkRoekV1a0JwOFBDckFBdDBxTHNqLU9VN0hubnRsT3hVeFQ1c1B1NHEyZlpKVV9NaTVvWklLeEJTQjNMdE50ZjNqci16WXpxM3hMQktpM2FhTHBWS2gyamxHY3FpbUFGYTdfb2tWNjh4WdIBeEFVX3lxTE55c19PbjJJMkRoekV1a0JwOFBDckFBdDBxTHNqLU9VN0hubnRsT3hVeFQ1c1B1NHEyZlpKVV9NaTVvWklLeEJTQjNMdE50ZjNqci16WXpxM3hMQktpM2FhTHBWS2gyamxHY3FpbUFGYTdfb2tWNjh4WQ?oc=5",
+  "title": "터져야 이긴다…KIA 중심 타선의 화력, 승리의 열쇠[PO]",
+  "published_at": "2026-10-29T01:18:00.000Z",
+  "collected_at": "2026-10-29T07:38:49.597Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 98,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "네이트",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE92M0MwZ245X1VEaXZUd2ZISkZOaFpkbDFaTjNaeml3OVQ1MjFTNjEtdE1nQ2taanMzeGJDSlBmMmVKdG1Dcm1qV2ZsUUpQcVpMQ1R6OHFZb3dyUkpkWFlKWDNnR21jbWc2?oc=5"
+    }
+  ]
+}

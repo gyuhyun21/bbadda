@@ -1,0 +1,27 @@
+{
+  "id": "youtube-f46c3aa2",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg",
+    "doosan"
+  ],
+  "source_type": "youtube",
+  "source_name": "밍키의분석노트",
+  "url": "https://www.youtube.com/watch?v=V3gGEMGoGCQ",
+  "title": "[예상] LG-두산 와일드카드 1차전 | 카라스코 vs 곽빈, 잠실에 남을 한 팀",
+  "published_at": "2026-10-29T00:13:41Z",
+  "collected_at": "2026-10-29T07:38:49.597Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 647,
+    "likes": 5,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 45,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

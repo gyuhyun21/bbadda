@@ -1,0 +1,29 @@
+{
+  "id": "news-ae7f2b32",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9KUFMzcHdXQXNuMF9BNXZvZ3Jab2tkSWpvQTZOR3RSdmpINzFubVQ0MFRmbmRYX3Y4T1JMT25qa1BhWTlqZG1IUkpicE9lVy1IR3ZjNzdScVFSeVh6VENzZHVqeTBSNTlNaGJXbkpXa9IBb0FVX3lxTE9KUFMzcHdXQXNuMF9BNXZvZ3Jab2tkSWpvQTZOR3RSdmpINzFubVQ0MFRmbmRYX3Y4T1JMT25qa1BhWTlqZG1IUkpicE9lVy1IR3ZjNzdScVFSeVh6VENzZHVqeTBSNTlNaGJXbkpXaw?oc=5",
+  "title": "'막내 구단' 울산 웨일즈, KIA 꺾고 또 결승 가나? 가을리그 준결승 대진 확정…LG는 1위 롱비치와 격돌",
+  "published_at": "2026-10-29T02:01:00.000Z",
+  "collected_at": "2026-10-29T07:38:49.597Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 82,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "네이트",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ZVmoyc0JWVW14S3AwNjJYaV9rQjlIcnFFVjlqVUthbHFhdjU4WXRMYmpEeFI1QW1LZnR3MzlvbmNsX2UybnVGcFZLOFhtdHFxTkJEeUVn?oc=5"
+    }
+  ]
+}
