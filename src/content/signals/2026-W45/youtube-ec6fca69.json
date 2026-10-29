@@ -1,0 +1,26 @@
+{
+  "id": "youtube-ec6fca69",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "야셋",
+  "url": "https://www.youtube.com/watch?v=RSmes43AftQ",
+  "title": "前 KIA 타이거즈 고종욱 응원가 “good bye”",
+  "published_at": "2026-10-29T10:48:49Z",
+  "collected_at": "2026-10-29T13:41:58.275Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 428,
+    "likes": 3,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 37,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

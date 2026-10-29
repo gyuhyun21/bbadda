@@ -1,0 +1,29 @@
+{
+  "id": "news-578c1cd7",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5Wb0dMdUpNRXptdUNNdm1VRGRrQklSeXhZb3pyZTBwVTF4cUNmbmFRcDQzcGJFZ2JUVldlU2duc2xGenRSd2dueEozaFRobF84UjJOUEhPUE9WZGdLdzYwTWdxeXRJQmhBNVVXdmZtb9IBb0FVX3lxTE5Wb0dMdUpNRXptdUNNdm1VRGRrQklSeXhZb3pyZTBwVTF4cUNmbmFRcDQzcGJFZ2JUVldlU2duc2xGenRSd2dueEozaFRobF84UjJOUEhPUE9WZGdLdzYwTWdxeXRJQmhBNVVXdmZtbw?oc=5",
+  "title": "\"팀보다 위대한 선수는 없다\" 헤드샷 맞고도 도루→흐름 바꾼 결정적 2안타...'KIA도 경계' 박승규가 삼성 살릴 '미친 선수' 될까 [PO3]",
+  "published_at": "2026-10-29T02:20:15.000Z",
+  "collected_at": "2026-10-29T13:41:58.275Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 80,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8yTUc2SWNzdm1WLWV0U2REZFZDZVRtRm45ZVJKaGlIWTk4MkRVcFUtUkdjRWpFSl9ZV1hvcGl6dGFTRFVzSUFJYmdiRGl1enFSaTZXV2I5bnZ4ZmRGRmRsOE9EeE84cmNrMHR4RUlqVnNRYzRzX3c?oc=5"
+    }
+  ]
+}

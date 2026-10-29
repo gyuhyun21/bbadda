@@ -1,0 +1,23 @@
+{
+  "id": "news-18d04cd2",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "조선일보",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMllSZW9zSlpmaFBMMDZZWmNEdWhjc0FtX0IzeWphaWsxWjNFbkVjSnBuYTVxNnJzSzJfM09QXzRQNmJDZ19OcjJvbElGTmpWLUFPUERLclBVdTM0Q01UUC13RGVyUVloV0hmMkI3ZnhPUERjeEtIbGV3TnR6TloyRjd4Yw?oc=5",
+  "title": "천만 위엄 KBO, 가을야구 44경기 연속 매진→ 삼성-KIA 챔필은 당연히 자리 없어요. 2023년 코시 1차전부터 올킬 완판 [PO3]",
+  "published_at": "2026-10-29T11:39:00.000Z",
+  "collected_at": "2026-10-29T13:41:58.275Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 80
+  },
+  "sentiment": "neutral"
+}

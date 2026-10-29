@@ -1,0 +1,22 @@
+{
+  "id": "community-a8d794f9",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 Ryan's Blog",
+  "url": "https://ryan.tistory.com/1147",
+  "title": "LG 코치진 대개편, 준PO 탈락 후 7명과 작별",
+  "published_at": "2026-10-29T19:54:07.000+09:00",
+  "collected_at": "2026-10-29T13:41:58.275Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "news-f9fde68b",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스타뉴스",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1EbHN0bFA1Z1puRzdpamh5WThGQUNYY0diTlZFTmYtNEctQnRuN2Q2SVBsQlE5UmtDRzVmeTBqUW9QUW5fUWktQnVDRUg2VWVhck1La2JKWTZIWVNiR0lFUldfckRWQkJmMnZZTzM4QWpDclVJMmc?oc=5",
+  "title": "[포토] '배찬승 상대로 역전홈런' 슈퍼스타 김도영",
+  "published_at": "2026-10-29T10:44:02.000Z",
+  "collected_at": "2026-10-29T13:41:58.275Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 83,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "뉴스핌",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE42LWxETUoyclA2MVZtcWUxUjdfZl9mMlN0RDBubXdncFdNVzhBOXliUnNIeHQ3OVh0aGx4S1hjS3liVmtYLTBKcmdpdzFmR0twX0c4b3dfY2FfYjJL?oc=5"
+    }
+  ]
+}

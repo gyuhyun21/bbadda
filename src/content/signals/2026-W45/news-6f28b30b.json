@@ -1,0 +1,23 @@
+{
+  "id": "news-6f28b30b",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "연합뉴스",
+  "url": "https://www.yna.co.kr/view/AKR20261029207800007",
+  "title": "최원태 강판, 원태인 6회 투입…두 박자 빨랐던 삼성 마운드",
+  "published_at": "2026-10-29T13:29:38.000Z",
+  "collected_at": "2026-10-29T13:41:58.275Z",
+  "summary_ko": "삼성이 1⅔이닝 만에 선발 최원태를 내리고 6회 원태인을 투입했다. 연합뉴스는 마운드 교체가 두 박자 빨랐다고 평했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "최원태 강판, 6회 원태인"
+}

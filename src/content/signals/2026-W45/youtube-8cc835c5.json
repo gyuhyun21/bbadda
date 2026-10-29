@@ -1,0 +1,26 @@
+{
+  "id": "youtube-8cc835c5",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "youtube",
+  "source_name": "박주홍은터진다",
+  "url": "https://www.youtube.com/watch?v=D7w8Zsm40b8",
+  "title": "다시 꺼내보는 안우진 훈련소 썰ㅋㅋ #안우진 #훈련소 #키움히어로즈",
+  "published_at": "2026-10-29T13:05:00Z",
+  "collected_at": "2026-10-29T13:41:58.275Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 279,
+    "likes": 0,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 32,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

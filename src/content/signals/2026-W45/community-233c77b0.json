@@ -1,0 +1,24 @@
+{
+  "id": "community-233c77b0",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 AI제니 님의 블로그",
+  "url": "https://today.livestoryforge.com/15755",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/HgsV8KBttNI",
+  "title": "KIA 타이거즈, 김선빈 컨디션 난조로 라인업 변화…김태군 포수 복귀 결정",
+  "published_at": "2026-10-29T18:37:46.000+09:00",
+  "collected_at": "2026-10-29T13:41:58.275Z",
+  "summary_ko": "블로그 글은 KIA 김선빈의 컨디션 난조로 라인업이 바뀌고 김태군이 포수로 돌아온다고 전한다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "brief_ko": "김선빈 대신 김태군 포수"
+}

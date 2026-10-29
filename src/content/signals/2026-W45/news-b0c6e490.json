@@ -1,0 +1,29 @@
+{
+  "id": "news-b0c6e490",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBlRkFaM0twR3B2aFVnWVdKY0dxY0RFTW9CaXphbWRzeXVDRmpiN25JTjI1OEh0bW9pOWpOamswSG1oRTAtajI0OHN2eGFUQml0NWR4UUVsbHN5MW1mMENpM0Q0ZzRRQ1ZudEF2aEI5NNIBb0FVX3lxTFBlRkFaM0twR3B2aFVnWVdKY0dxY0RFTW9CaXphbWRzeXVDRmpiN25JTjI1OEh0bW9pOWpOamswSG1oRTAtajI0OHN2eGFUQml0NWR4UUVsbHN5MW1mMENpM0Q0ZzRRQ1ZudEF2aEI5NA?oc=5",
+  "title": "[포토] '5회초 김도영의 홈런을 무위로 돌리는' 역전 투런홈런 류지혁",
+  "published_at": "2026-10-29T11:15:49.000Z",
+  "collected_at": "2026-10-29T13:41:58.275Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 99,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5mT2oxRXZTTVdvQ044YlJhZmE3d1NBQzN0cTdrTi1ZTDFoLWw0endPNDd4TTN2VnpPZTY5RW9sR3FoM3FGdV9VRV9OLTZoRS1ieEI3RHNTUnlNM3pCa0twNkl0OWxXSWlOWmZMbC1NSzdhc0J4ZlE?oc=5"
+    }
+  ]
+}

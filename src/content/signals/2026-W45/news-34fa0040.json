@@ -1,0 +1,23 @@
+{
+  "id": "news-34fa0040",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20261029_0003847386",
+  "title": "'강한 2번' 삼성 박승규, 승부처서 해결사 역할…'가을 영웅' 우뚝[PO]",
+  "published_at": "2026-10-29T13:28:53.000Z",
+  "collected_at": "2026-10-29T13:41:58.275Z",
+  "summary_ko": "삼성 박승규가 PO 3차전 승부처에서 해결사 역할을 했다는 뉴시스 기사다. '가을 영웅'이라는 평가가 붙었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "승부처의 해결사 박승규"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "news-f1c72ea0",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9hb2l5RElUNGxwanlfYjBkbHVkRVFIZGlZRm9mb09fU09sWnBsWDNDc2E3eGJVcVV5MkluNWQtbjJsUWZMOVMwd2dFZmRmR29ja09UOXVJbXhIXzJaNEplSmxWZ1otN045eGfSAW9BVV95cUxOb2puUFVIRGJhNEt4RGF1VGthRmdjZGUzc0JuVXNqVEJmWlJnZDVVX0c5dm9uTDIxWUkxODV4aHFqSmVjUHFpVDRzazhDYVFlTjZMY0hDbzZBcVBaRXlnZkFmLUs5VW52Mkc1djRKc0k?oc=5",
+  "title": "[포토] '6회말 승부를 원점으로' 솔로홈런 터트린 나성범",
+  "published_at": "2026-10-29T11:55:42.000Z",
+  "collected_at": "2026-10-29T13:41:58.275Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 91,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5YUkJfS2xLUkE3Z2N6My1fd3pZVk5Hb3J5R1V4ZldCQ1Y3UDZVd2NKOTV1aGxOQm5zakNmWk03SmpQajNpMmNtdWtMX0Q1dmMycjRyVmpETkR2MldhUTk0TWZXRlBLUkh3bzRxaGdrNnNJOVktMWc?oc=5"
+    }
+  ]
+}

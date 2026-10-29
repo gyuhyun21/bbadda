@@ -1,0 +1,28 @@
+{
+  "id": "news-9c6c2d9d",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBfcm4tdEVPelExQ0p3dGJVNmpvX0VSOVhKVlVhR3hIN3FjMDFqMjJIQUFDN3o0VHlMUC1vZ3ptd1F0WlFpU3Y1WHgwS1NJYkZwZGh3TjNTX1ZTQ2NBRnZSUTlBR0tUY1V4SWgxZkFxb9IBb0FVX3lxTFBfcm4tdEVPelExQ0p3dGJVNmpvX0VSOVhKVlVhR3hIN3FjMDFqMjJIQUFDN3o0VHlMUC1vZ3ptd1F0WlFpU3Y1WHgwS1NJYkZwZGh3TjNTX1ZTQ2NBRnZSUTlBR0tUY1V4SWgxZkFxbw?oc=5",
+  "title": "'삼성 초강수' 2이닝도 못 채우고 칼 뻈다! 선발 최원태 1⅔이닝 조기 강판→배찬승이 삼진으로 진화",
+  "published_at": "2026-10-29T10:21:23.000Z",
+  "collected_at": "2026-10-29T13:41:58.275Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 99,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0xSDhRODRuUVpzWHI0QUxVbUhvVUJ5Z2RhT1h1TVBuWnRicU5zVEV1SzBJclEyTy1jYUNRekNnU3pJMFRpRE1GQUhxdnQ1Vm1NZkVlTFFFcy1zRl9kY2VWT3ZKVVZpSWlYczdjWHZQLXpoNTZaZFE?oc=5"
+    }
+  ]
+}

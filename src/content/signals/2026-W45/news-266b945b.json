@@ -1,0 +1,29 @@
+{
+  "id": "news-266b945b",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "FT스포츠",
+  "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBMUElDX2x0enRqS3JpQ2wxY1c3UjNOcE1PV1FiSU1MdTNRRUhKSUtENkViaFNZLUhkbG9qTDIwdDVHMGh4RHZCZ19UaElhcENkdGp2c2JYeWkzM21JcXdQVmp1bHZZQQ?oc=5",
+  "title": "“KIA에 10연패하더니”…LG 코치 7명 이탈, 염경엽과 정수성도 결별",
+  "published_at": "2026-10-29T01:44:05.000Z",
+  "collected_at": "2026-10-29T13:41:58.275Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 72,
+    "relevance": 70
+  },
+  "sentiment": "negative",
+  "also_in": [
+    {
+      "source_name": "네이트뷰",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Oc0dELVJ2dHgwWEYwOWhoa1RaLXpjb2JocE9mRlRkYnRZVmR3aGxCUG1kX2ZWRkZvRGlEdnBKTGtmWHF1ZE5GdUY5VG8zekNsdVHSAVdBVV95cUxOcElXTWFyUkppbDBycmdwbGNXeldCb185LXVfcHREbUlta29FMm5oYXBYSG80ZzhOcG1JOV9yWnZtVWtWNTdmMm54emJfZFN4RzgtMlMzZG8?oc=5"
+    }
+  ]
+}

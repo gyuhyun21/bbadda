@@ -1,0 +1,27 @@
+{
+  "id": "youtube-ed2a0ace",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "source_name": "누구실까요? 달빛동맹",
+  "url": "https://www.youtube.com/watch?v=tLGIfjKueDY",
+  "title": "“야구 못하나 싶었다” 문동주의 고백…류현진의 조언과 한 달 반 빠른 재활! #문동주 #류현진 #한화이글스",
+  "published_at": "2026-10-29T10:10:01Z",
+  "collected_at": "2026-10-29T13:41:58.275Z",
+  "summary_ko": "한 채널이 문동주가 류현진의 조언과 재활 상황을 털어놓았다는 영상을 올렸다.",
+  "metrics": {
+    "views": 926,
+    "likes": 18,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 52,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "문동주, 재활 고백"
+}

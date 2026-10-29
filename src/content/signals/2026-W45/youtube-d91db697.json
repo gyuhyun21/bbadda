@@ -1,0 +1,24 @@
+{
+  "id": "youtube-d91db697",
+  "issue": "2026-W45",
+  "module": "league",
+  "teams": [],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=BNzOPuy1HPg",
+  "title": "올해 홈런왕과 작년 홈런왕의 만남🤝",
+  "published_at": "2026-10-29T08:59:13Z",
+  "collected_at": "2026-10-29T13:41:58.275Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 3310,
+    "likes": 129,
+    "comments": 2
+  },
+  "scores": {
+    "hot": 74,
+    "relevance": 30
+  },
+  "sentiment": "positive"
+}

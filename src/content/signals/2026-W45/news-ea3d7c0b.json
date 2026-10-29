@@ -1,0 +1,35 @@
+{
+  "id": "news-ea3d7c0b",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "연합뉴스TV",
+  "url": "https://www.yonhapnewstv.co.kr/news/AKR20261029221812hOo",
+  "title": "’디아즈·류지혁 투런포’ 삼성, KIA 6-4 제압…한국시리즈까지 1승 남았다",
+  "published_at": "2026-10-29T13:18:00.000Z",
+  "collected_at": "2026-10-29T13:41:58.275Z",
+  "summary_ko": "삼성이 KIA를 6-4로 꺾고 PO 3차전을 가져갔다. 디아즈와 류지혁의 투런포가 터지며 한국시리즈까지 1승만 남았다.",
+  "metrics": {},
+  "scores": {
+    "hot": 92,
+    "relevance": 80
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBrOHFmMm14dHVJSnc0anRuYm1OY2tvNHVncWNhcFBGNHdDZnU5WHlXRU5ST2JlNHFnY05OLTRjRWdwTXl3Z2d3cWZ6anN6eWs2bldwMnNTcWxyY1lURGFaatIBeEFVX3lxTE01U1NzdWJUeDdPMWdNSVE2Rkt1SS16MVI1SERobDhqR2F4X0ZOa1BZdU14OFRIRHUzSEoyOWxVMzdzUThWdXN4QzNKNFdWRm5wWVdoc3Bpek1ySTI5N3F2OHRPSVpIZmVJcmdPOVpQaUc0VllJYllKcg?oc=5"
+    },
+    {
+      "source_name": "뉴스핌",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBCMFhZUWVOeldtcmdOMGp1OUtrUWFBako2Sk5QT0JFb3ZPUFQ3NGE0bkRsVER5S2dod3Y2a0dhOEY0U1NJeWl6ZUxyb3FvaXpWblEwM0IzaVVBZnA1?oc=5"
+    }
+  ],
+  "brief_ko": "PO3 삼성 6-4, KS 1승 남아",
+  "hook_ko": "홈런 4방 난타전, 웃은 쪽은 삼성"
+}

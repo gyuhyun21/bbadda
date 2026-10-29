@@ -1,0 +1,23 @@
+{
+  "id": "news-a07077d1",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "news",
+  "source_name": "재경일보",
+  "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB3Q2VHLVg1VWVRSmVLaVV1dTFlaUItcVh3MDg0emxHbjBnaXNmWjdZMnlZaVRpTUtVUmVETFJQZV9zYmwydEtpZHNsVQ?oc=5",
+  "title": "한화 떠나는 손혁 단장…5년 만에 동행 마침표 : 스포츠",
+  "published_at": "2026-10-29T03:44:13.000Z",
+  "collected_at": "2026-10-29T13:41:58.275Z",
+  "summary_ko": "재경일보에 따르면 한화 손혁 단장이 5년 만에 팀을 떠난다.",
+  "metrics": {},
+  "scores": {
+    "hot": 72,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "손혁 단장, 5년 만에 떠난다"
+}

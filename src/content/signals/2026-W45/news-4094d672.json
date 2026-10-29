@@ -1,0 +1,23 @@
+{
+  "id": "news-4094d672",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠한국",
+  "url": "https://sports.hankooki.com/news/articleView.html?idxno=6942543",
+  "title": "'저건 잡았어야 했다'…삼성에 승기 준 김규성 수비, 이순철 해설위원도 지적",
+  "published_at": "2026-10-29T13:18:48.000Z",
+  "collected_at": "2026-10-29T13:41:58.275Z",
+  "summary_ko": "스포츠한국은 KIA 김규성의 수비가 삼성에 승기를 줬다고 짚었다. 이순철 해설위원도 '잡았어야 했다'고 지적했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 80
+  },
+  "sentiment": "neutral",
+  "brief_ko": "김규성 수비에 해설위원 지적"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "community-9c6802ff",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "community",
+  "source_name": "엠엘비파크",
+  "url": "https://mlbpark.donga.com/mp/b.php?id=202610220119594274&p=31&b=kbotown&m=view&select=spf&query=LG&site=donga.com",
+  "title": "오늘자 LG 트윈스 현역 WRC+ 순위",
+  "published_at": "2026-10-20T15:00:00.000Z",
+  "collected_at": "2026-10-29T13:41:58.275Z",
+  "summary_ko": "",
+  "excerpt": "... 1위 김대원 174.52위 오스틴 1663위 유영찬 161.5(4위 홍창기 138)(어제…",
+  "metrics": {},
+  "scores": {
+    "hot": 8,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

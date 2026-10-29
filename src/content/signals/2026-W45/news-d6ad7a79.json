@@ -1,0 +1,22 @@
+{
+  "id": "news-d6ad7a79",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스1",
+  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBPWTF3RE4yUkZ1T2E4a0RUSHkwVUsxemM5V0xpbENRZ0xTMHZvZ0ZMVXJHLXpWeElmbFFSQVpUdm5fMUNYQUJ4UEMzUTQxaU1aVmZFaXdzNA?oc=5",
+  "title": "'원태인 6회 투입' 삼성, 과감한 '벌떼 야구'로 1패 뒤 2연승[PO3]",
+  "published_at": "2026-10-29T13:25:05.000Z",
+  "collected_at": "2026-10-29T13:41:58.275Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

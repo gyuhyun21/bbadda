@@ -1,0 +1,38 @@
+{
+  "id": "youtube-cbd009cf",
+  "issue": "2026-W45",
+  "module": "league",
+  "teams": [],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=uAbesE2KSiE",
+  "title": "날려라 날려라 나성범! 동점을 만드는 나성범의 솔로포🐯",
+  "published_at": "2026-10-29T12:17:24Z",
+  "collected_at": "2026-10-29T13:41:58.275Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1818,
+    "likes": 73,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 72,
+    "relevance": 30
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "마이데일리",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5wSF9ZZ2xycDBGR3Rvd2drdFdlZlRWbWx5aTNiaF9xZDNCdXdQTGJ4d1dGODB4SURSVVFCZ0pQSmJhdlV4ZTZtNkVWWmZ3WE1yTXFiV1FYV201d1VET3llNA?oc=5"
+    },
+    {
+      "source_name": "OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA2bzZUUXgxMElmaEVIRlkzMTgxWVBabGxlbC1SY0NfMFhmeWxnYW5obHAybkYxelU0RzdBTEl6bzVOSFlvZUJjdl9YWk1kQ2xHYy1V?oc=5"
+    },
+    {
+      "source_name": "뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5aS0p4VF9kTGhaSUpGVmdXSVFNLW1OY0lqaktWUTZKX1g1bW4xUWxqMnZxbkdVVUVtMFZKYnJpTzlOOGxBOVh4NWJldWpnNFhSOWc5alVHdDI0ajFMX1NXbUxvVFduRV9jUzFGNDU3QU9aTzYxRGpaTNIBeEFVX3lxTE5aS0p4VF9kTGhaSUpGVmdXSVFNLW1OY0lqaktWUTZKX1g1bW4xUWxqMnZxbkdVVUVtMFZKYnJpTzlOOGxBOVh4NWJldWpnNFhSOWc5alVHdDI0ajFMX1NXbUxvVFduRV9jUzFGNDU3QU9aTzYxRGpaTA?oc=5"
+    }
+  ]
+}

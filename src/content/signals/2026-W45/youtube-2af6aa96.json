@@ -1,0 +1,27 @@
+{
+  "id": "youtube-2af6aa96",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "youtube",
+  "source_name": "오늘스포츠",
+  "url": "https://www.youtube.com/watch?v=stTvHKn3PyU",
+  "title": "NC 다이노스 블레인 — 2년간 82홈런을 친 타자를 잘랐다 #Shorts",
+  "published_at": "2026-10-29T10:30:35Z",
+  "collected_at": "2026-10-29T13:41:58.275Z",
+  "summary_ko": "오늘스포츠 채널이 NC가 2년간 82홈런을 친 블레인을 내보냈다는 영상을 올렸다.",
+  "metrics": {
+    "views": 155,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 26,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "brief_ko": "블레인, 82홈런 치고 이별"
+}

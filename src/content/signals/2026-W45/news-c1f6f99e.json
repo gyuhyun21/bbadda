@@ -1,0 +1,23 @@
+{
+  "id": "news-c1f6f99e",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "연합뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9mX0ZNbWJqQ1poVTdtQ09TanJ4aVVzTWhJcXphV3UwRlZnb29JVF96MlVPRDN0S3ZCcmFqNHVzMnBJejVpTkI3T3ZWU2huWEIteUVVS2c4Rjg2cGlsTHVWRdIBYEFVX3lxTE9mX0ZNbWJqQ1poVTdtQ09TanJ4aVVzTWhJcXphV3UwRlZnb29JVF96MlVPRDN0S3ZCcmFqNHVzMnBJejVpTkI3T3ZWU2huWEIteUVVS2c4Rjg2cGlsTHVWRQ?oc=5",
+  "title": "'역시 슈퍼스타' KIA 김도영, 3회 역전포…올해 PS 4번째 아치",
+  "published_at": "2026-10-29T10:40:38.000Z",
+  "collected_at": "2026-10-29T13:41:58.275Z",
+  "summary_ko": "KIA 김도영이 3회 역전 솔로포를 쳤다. 연합뉴스는 올해 포스트시즌 4번째 홈런이라고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "김도영, PS 4번째 홈런"
+}

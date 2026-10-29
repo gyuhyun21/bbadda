@@ -1,0 +1,25 @@
+{
+  "id": "news-410c0e86",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "news",
+  "announcement": true,
+  "source_name": "스타뉴스",
+  "url": "https://www.starnewskorea.com/sports/2026/10/29/2026102921211618266",
+  "title": "[오피셜] '두 명문 구단' 삼성 라이온즈-KIA 타이거즈 맞대결 또 매진! 'PS 44G 연속 완판 행진'",
+  "published_at": "2026-10-29T12:28:10.000Z",
+  "collected_at": "2026-10-29T13:41:58.275Z",
+  "summary_ko": "삼성-KIA PO 3차전이 매진됐다. 포스트시즌 44경기 연속 매진이라고 스타뉴스가 구단 공식 발표를 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 100,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "PS 44경기 연속 매진"
+}

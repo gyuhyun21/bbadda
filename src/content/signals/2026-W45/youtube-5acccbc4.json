@@ -1,0 +1,26 @@
+{
+  "id": "youtube-5acccbc4",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "크보딱",
+  "url": "https://www.youtube.com/watch?v=HfEy3vFOGME",
+  "title": "김도영 막고 경기 끝 삼성 라이온즈 플레이오프 3차전 승리",
+  "published_at": "2026-10-29T13:36:00Z",
+  "collected_at": "2026-10-29T13:41:58.275Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 463,
+    "likes": 7,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 46,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

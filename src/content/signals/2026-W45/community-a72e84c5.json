@@ -1,0 +1,24 @@
+{
+  "id": "community-a72e84c5",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/10497207600",
+  "title": "1, 2차전 테이블세터 15타수 1안타로 1승 1패 했는데 그놈의 타순 타순",
+  "published_at": "2026-10-29T08:41:58.275Z",
+  "collected_at": "2026-10-29T13:41:58.275Z",
+  "summary_ko": "",
+  "excerpt": "... 두산 -1; 7. 쓱 +1; 8. 키움 +1; 9. 롯 +1; 10. kt new;…",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

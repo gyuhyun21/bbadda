@@ -1,0 +1,29 @@
+{
+  "id": "news-13e69606",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "OSEN",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE52VEtPTDgxa0tzTXlOMUxOS3duSUNCNVlLd2JJZWV4RURGV0tLLXNaaDJJemotNWtHYTdhOXBpQjNnOFEzbjdzaUpTeTBBUmtNRjVQVw?oc=5",
+  "title": "복덩이 박승규 결승타→구자욱 쐐기타, '패승승' 삼성 KS행 1승 남았다...KIA 김도영 홈런 치고 투수 9명 투입하고도 벼랑끝 [PO3 리뷰]",
+  "published_at": "2026-10-29T13:18:00.000Z",
+  "collected_at": "2026-10-29T13:41:58.275Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 84,
+    "relevance": 80
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "미주중앙일보",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9UWDNXTUxYdE43dk9OZ0NSOUZ1OFJZUEpFdFFSbmozU2xOTlRMQWZVZTdTX2JSZlM0elB5X19idENqOW05UEs4NFNHaVhoVzNmU3c2cjNOdnJLMGt5cW5kd3h3?oc=5"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": "youtube-6ec0769b",
+  "issue": "2026-W45",
+  "module": "league",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "team": "kia",
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=LHhYFdOHg7Q",
+  "title": "점수의 균형을 맞추는 KIA 김태군과 하주석의 연속 타점!! | PO3_삼성 vs KIA | 10.29 | 크보모먼트 | KBO 야구 하이라이트",
+  "published_at": "2026-10-29T10:37:11Z",
+  "collected_at": "2026-10-29T13:41:58.275Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 28048,
+    "likes": 266,
+    "comments": 45
+  },
+  "scores": {
+    "hot": 62,
+    "relevance": 80
+  },
+  "sentiment": "neutral"
+}

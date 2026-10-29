@@ -1,0 +1,23 @@
+{
+  "id": "news-d1cf3f54",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "일간스포츠",
+  "url": "https://isplus.com/article/view/isp202610290232",
+  "title": "양현종 '선발' 등판 한국시리즈로 밀렸다...'벼랑 끝' KIA, 4차전 선발 제임스 네일 선택 [PO3]",
+  "published_at": "2026-10-29T13:32:00.000Z",
+  "collected_at": "2026-10-29T13:41:58.275Z",
+  "summary_ko": "KIA가 PO 4차전 선발로 네일을 택했다. 일간스포츠는 양현종의 선발 등판이 한국시리즈로 밀렸다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 80
+  },
+  "sentiment": "neutral",
+  "brief_ko": "4차전 선발은 네일"
+}

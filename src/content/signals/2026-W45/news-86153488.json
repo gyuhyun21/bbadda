@@ -1,0 +1,23 @@
+{
+  "id": "news-86153488",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "일간스포츠",
+  "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9RV29HTnB3YjN4eEQ1eG9WMGxNY21vVUt6MlFIc1RiNHpMUlQyMmR4VDJuZkh5Qk15cnAyb2twNEd6Sll4LTV4MkJDWm5pWVdSUWNFdkpOajZIN28?oc=5",
+  "title": "'KIA가 우세하다고? 우리가 정규시즌 2위인데' 반격 성공한 삼성, 호랑이굴서도 저력 보일까",
+  "published_at": "2026-10-29T03:51:00.000Z",
+  "collected_at": "2026-10-29T13:41:58.275Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 80
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "news-65e2aa7f",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스핌",
+  "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9obll2blNRVkZVSzIxT2VQSjdGazVGaG5BaENUbjhHc3A3QmxoWnpfelNPbFRqMk9yY2QwdDV4QnM5Qi1YbmRyWmF4Y041MHFFQzdjc1U3ajJkM2NN?oc=5",
+  "title": "[AI그래픽] KBO PO 3차전, KIA 김도영 3회 역전 솔로포",
+  "published_at": "2026-10-29T10:56:00.000Z",
+  "collected_at": "2026-10-29T13:41:58.275Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 80
+  },
+  "sentiment": "neutral"
+}

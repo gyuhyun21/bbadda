@@ -1,0 +1,27 @@
+{
+  "id": "youtube-d84d7321",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc",
+    "lotte"
+  ],
+  "source_type": "youtube",
+  "source_name": "썸타임즈Ssumtimes",
+  "url": "https://www.youtube.com/watch?v=c0DtRqHn0tE",
+  "title": "손아섭 NC행 직전 이동욱 감독과 통화│롯데 복귀 바랐지만 NC 구애 마음 돌려│허구연 총재 3연임 이사회 투표 살펴보니│야구이슈다 라이브",
+  "published_at": "2026-10-29T08:00:29Z",
+  "collected_at": "2026-10-29T13:41:58.275Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 27703,
+    "likes": 196,
+    "comments": 19
+  },
+  "scores": {
+    "hot": 59,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

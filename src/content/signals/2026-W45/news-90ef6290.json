@@ -1,0 +1,29 @@
+{
+  "id": "news-90ef6290",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBJRnRDdm8wYS1INW5LWGpURGljSXc3UDc0Y3JfUHk2SnFfbFpvUlhNbkJKM1BKX2ZROHFqV0RGdkluNjYxYTJWNzlVUURpeWdwVFdKdWRQWWh2X2xOTlRySmZ6TzJ0dUNNeGc4b0dxY9IBb0FVX3lxTFBJRnRDdm8wYS1INW5LWGpURGljSXc3UDc0Y3JfUHk2SnFfbFpvUlhNbkJKM1BKX2ZROHFqV0RGdkluNjYxYTJWNzlVUURpeWdwVFdKdWRQWWh2X2xOTlRySmZ6TzJ0dUNNeGc4b0dxYw?oc=5",
+  "title": "[사진] 김도영, 역전포 넘어간다",
+  "published_at": "2026-10-29T10:44:00.000Z",
+  "collected_at": "2026-10-29T13:41:58.275Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5yVmd0RjlITWYxU1d5Q2RjYlowWFVXVkY4QUMyREQwanN2VFJmUm8yR04wUlFVVE1aaFNKTFpRTzZEWlJtMGVaUWVhMlp5U3RfcnJV?oc=5"
+    }
+  ]
+}

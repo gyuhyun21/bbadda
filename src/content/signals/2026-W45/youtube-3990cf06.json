@@ -1,0 +1,29 @@
+{
+  "id": "youtube-3990cf06",
+  "issue": "2026-W45",
+  "module": "league",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "team": "samsung",
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=feQP6ME4EPc",
+  "title": "다시 역전! 삼성 박승규가 이 경기를 다시 뒤집습니다!! | PO3_삼성 vs KIA | 10.29 | 크보모먼트 | KBO 야구 하이라이트",
+  "published_at": "2026-10-29T12:38:26Z",
+  "collected_at": "2026-10-29T13:41:58.275Z",
+  "summary_ko": "KBO 공식 채널이 PO3에서 박승규가 경기를 다시 뒤집는 장면을 올렸다.",
+  "metrics": {
+    "views": 4511,
+    "likes": 329,
+    "comments": 98
+  },
+  "scores": {
+    "hot": 84,
+    "relevance": 80
+  },
+  "sentiment": "neutral",
+  "brief_ko": "박승규, 다시 뒤집었다"
+}
