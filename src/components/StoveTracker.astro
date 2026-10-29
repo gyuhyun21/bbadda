@@ -67,7 +67,7 @@ const tiles = TEAMS.map((t) => ({ t, ...moves(players, t.id) }));
               </ul></dd></dl>
             )}
             <div class="fa-vote" data-fa-vote={faVoteId(data!.season, p)} data-fa-signed={p.signed?.team} data-fa-names={JSON.stringify(Object.fromEntries(vt.map((t) => [t, short(t)])))} hidden>
-              <p class="fa-vote-q">어디로 갈까? <span data-fa-vote-note></span></p>
+              <p class="fa-vote-q"><span data-fa-vote-note></span></p>
               <span class="fa-vote-bar" aria-hidden="true">{vt.map((t) => <span data-fa-bar={t} style={`--team:${teamColor(t)}`}></span>)}</span>
               <p class="fa-vote-lead" data-fa-lead></p>
               {!p.signed && <div class="fa-vote-btns">{vt.map((t) => <button type="button" class="fa-vote-btn" data-fa-team={t} style={`--team:${teamColor(t)}`}>{t === p.from ? `${short(t)} 잔류` : short(t)}</button>)}</div>}
