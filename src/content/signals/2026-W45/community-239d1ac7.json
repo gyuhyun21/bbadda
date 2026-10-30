@@ -1,0 +1,23 @@
+{
+  "id": "community-239d1ac7",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 오늘의 승부, 눈여겨볼 이야기",
+  "url": "https://blog.naver.com/rladbwls1303/224459708816",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/6dwLUNdVptB",
+  "title": "KIA 4차전 승리에도 이어진 이야기…김도영 향한 투구와 김호령 대타",
+  "published_at": "2026-10-31T03:01:00.000+09:00",
+  "collected_at": "2026-10-30T21:38:12.914Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

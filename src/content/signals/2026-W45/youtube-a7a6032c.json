@@ -1,0 +1,26 @@
+{
+  "id": "youtube-a7a6032c",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "youtube",
+  "source_name": "탱짱일기 Beyond Daily",
+  "url": "https://www.youtube.com/watch?v=lBHMi5rAhZw",
+  "title": "잠실야구장 마지막 시즌, 그라운드 직접 밟아봄 야호! #LG트윈스 #잠실야구장 #shorts",
+  "published_at": "2026-10-30T15:21:56Z",
+  "collected_at": "2026-10-30T21:38:12.914Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 960,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 33,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

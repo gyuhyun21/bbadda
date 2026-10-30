@@ -1,0 +1,23 @@
+{
+  "id": "community-a2dc7204",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 정보 저장소",
+  "url": "https://knowledge-repository230726.tistory.com/297",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/3Bh5WPXjml1",
+  "title": "한준수 역전 적시타로 KIA 리드",
+  "published_at": "2026-10-31T06:05:52.000+09:00",
+  "collected_at": "2026-10-30T21:38:12.914Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

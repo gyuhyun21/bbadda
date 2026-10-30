@@ -1,0 +1,27 @@
+{
+  "id": "youtube-176b2d1a",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "지캐TV",
+  "url": "https://www.youtube.com/watch?v=Npak7hyyakY",
+  "title": "11월 1일, PO 5차전 (10월 30일 P.O 4차전 삼성vs기아 리뷰)",
+  "published_at": "2026-10-30T14:09:05Z",
+  "collected_at": "2026-10-30T21:38:12.914Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 28889,
+    "likes": 510,
+    "comments": 61
+  },
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

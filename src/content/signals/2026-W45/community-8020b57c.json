@@ -1,0 +1,24 @@
+{
+  "id": "community-8020b57c",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 야호심의 가슴 뛰는 삶",
+  "url": "https://blog.naver.com/yahoshim2021/224459667004",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/FIHfPtnDj7S",
+  "title": "야구 응원가를 듣다가, 스무 살의 내가 떠올랐다 — 그때는 몰랐던 나의 무심함",
+  "published_at": "2026-10-31T01:30:00.000+09:00",
+  "collected_at": "2026-10-30T21:38:12.914Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

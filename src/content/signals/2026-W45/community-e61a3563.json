@@ -1,0 +1,24 @@
+{
+  "id": "community-e61a3563",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 룩 스크랩 | Look Scrap",
+  "url": "https://blog.naver.com/eun0dear/224457677304",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/AvPG5jmISqd",
+  "title": "'진짜 하나의 장르가 됐네...' 옷보다 라인이 먼저.. 전종서 시구 레깅스부터 니트 룩",
+  "published_at": "2026-10-30T15:09:00.000+09:00",
+  "collected_at": "2026-10-30T21:38:12.914Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 62,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

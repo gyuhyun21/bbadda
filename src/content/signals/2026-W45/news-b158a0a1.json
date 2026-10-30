@@ -1,0 +1,23 @@
+{
+  "id": "news-b158a0a1",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "제민일보",
+  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5JdkptU2J1dmJCMGtnak5NdDRIT1ZPZDYxNk1PeUhpN2JMZzdMLV9INHBSWjNRWDl6bTU4TFpXU3Z3WkxnelhHODBEaGJoZldrbHZab01XS1cyQVJLR3N0RGd0Vko2Qms?oc=5",
+  "title": "삼성, 한국시리즈까지 단 1승…KIA는 김도영 전진 배치로 반격 승부수",
+  "published_at": "2026-10-30T09:11:20.000Z",
+  "collected_at": "2026-10-30T21:38:12.914Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 72,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

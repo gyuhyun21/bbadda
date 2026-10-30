@@ -1,0 +1,23 @@
+{
+  "id": "news-39f197c1",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "연합뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0ySnc2V1JXS3FheTl0QnB2RlBhVHRFQmpEdW1hZmpndk9PYVRJTDF1MWNHaWVEV3FiemFJWFp6WF9oN0VBY3BMYk5MWm1HNU44M1lNSUtSN1lzTldBY3lCS9IBYEFVX3lxTE0ySnc2V1JXS3FheTl0QnB2RlBhVHRFQmpEdW1hZmpndk9PYVRJTDF1MWNHaWVEV3FiemFJWFp6WF9oN0VBY3BMYk5MWm1HNU44M1lNSUtSN1lzTldBY3lCSw?oc=5",
+  "title": "박진만 감독 \"그간 김도영 앞에 주자 안 내보냈으니 잘 막을 것\"",
+  "published_at": "2026-10-30T08:10:19.000Z",
+  "collected_at": "2026-10-30T21:38:12.914Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 71,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "community-d9e67f1f",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&page=4&document_srl=10501925015",
+  "title": "아오오니 버튜버는 ㅅㅂ 뭐냐 - 야구",
+  "published_at": "2026-10-30T14:38:12.914Z",
+  "collected_at": "2026-10-30T21:38:12.914Z",
+  "summary_ko": "",
+  "excerpt": "... 기아 코시불패기록이고 뭐고 열심히 응원하고 이겨보자 [6]. 6 분 전 자유 기아타이거즈쵸비 조회561 추천10.…",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

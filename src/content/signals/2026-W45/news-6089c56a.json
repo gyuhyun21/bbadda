@@ -1,0 +1,23 @@
+{
+  "id": "news-6089c56a",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스핌",
+  "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBnM2xhOTY0WGEyeHQ1SVpNcVFzWUtxNkF4TG16Ti0xZld6cW40bmktSzg4ODZtSnk2WXJ2M25EWEFSRVZkVjF2bm4zRVhJZUZaaDVSX0o2QmsyUFBF?oc=5",
+  "title": "[PO 포커스] 김영웅 치명적 실책 하나에 와르르...삼성, 눈앞에 둔 KS행 놓쳤다",
+  "published_at": "2026-10-30T20:07:00.000Z",
+  "collected_at": "2026-10-30T21:38:12.914Z",
+  "summary_ko": "뉴스핌은 삼성이 김영웅의 실책 하나에 무너지며 눈앞에 둔 한국시리즈행을 놓쳤다고 짚었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "negative",
+  "brief_ko": "김영웅 실책에 KS행 불발"
+}

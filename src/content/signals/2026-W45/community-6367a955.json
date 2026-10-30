@@ -1,0 +1,23 @@
+{
+  "id": "community-6367a955",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 KBO News",
+  "url": "https://blog.naver.com/kbo_news/224459220077",
+  "title": "20홈런·10승도 안심 못 합니다…KBO 외국인 5명, 재계약이 고민되는 이유",
+  "published_at": "2026-10-30T17:18:00.000+09:00",
+  "collected_at": "2026-10-30T21:38:12.914Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

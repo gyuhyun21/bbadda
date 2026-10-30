@@ -1,0 +1,29 @@
+{
+  "id": "community-3dfdb7a3",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/10501877301",
+  "title": "2번서도 펄펄 난 KIA 김도영 \"5차전까지 간 만큼 절대 질 수 없다\" - 야구",
+  "published_at": "2026-10-30T14:38:12.914Z",
+  "collected_at": "2026-10-30T21:38:12.914Z",
+  "summary_ko": "",
+  "excerpt": "... 4차전에서 승리하며 시리즈를 원점으로 돌린 KIA는 11월1일 오후 2시 대구 삼성라이온즈파크에서 5차전을 치른다. 이날…",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5uS3lhT3RJcmZXWjJQbGR3M0JKRFJKMWJVNXJINnoyaFJOcVpPRE5RWG56eHNYd2pDMUdWQ1htVXlWU1ZzeHp0N1F4T0tqUGh6UXhuWG1ORHN6TnpKMU9VUlJHMVdSLTA1VG5EZFlpYVNOVEZQTVdUYtIBeEFVX3lxTE5uS3lhT3RJcmZXWjJQbGR3M0JKRFJKMWJVNXJINnoyaFJOcVpPRE5RWG56eHNYd2pDMUdWQ1htVXlWU1ZzeHp0N1F4T0tqUGh6UXhuWG1ORHN6TnpKMU9VUlJHMVdSLTA1VG5EZFlpYVNOVEZQTVdUYg?oc=5"
+    }
+  ]
+}

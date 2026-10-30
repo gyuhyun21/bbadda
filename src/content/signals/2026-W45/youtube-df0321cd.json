@@ -1,0 +1,33 @@
+{
+  "id": "youtube-df0321cd",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "예진",
+  "url": "https://www.youtube.com/watch?v=k3-BWqLcsXQ",
+  "title": "26.10.30 기아타이거즈vs삼성라이온즈 플레이오프 4차전 한준수 응원가",
+  "published_at": "2026-10-30T19:12:15Z",
+  "collected_at": "2026-10-30T21:38:12.914Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 874,
+    "likes": 17,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 48,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1GcXFEdml3VFp2VnE1NGM2NWFpRzJfNUc0U0c0LVRxSUc2THkzN01WVjN5eXNvbDBPejg4Wml5X1U2WTZNVk14aE9xVmxJamE0Q0cwRFVKVkh6SlMwekFxa012Yl94TGdOVEJHU2l1RdIBb0FVX3lxTE1GcXFEdml3VFp2VnE1NGM2NWFpRzJfNUc0U0c0LVRxSUc2THkzN01WVjN5eXNvbDBPejg4Wml5X1U2WTZNVk14aE9xVmxJamE0Q0cwRFVKVkh6SlMwekFxa012Yl94TGdOVEJHU2l1RQ?oc=5"
+    }
+  ]
+}

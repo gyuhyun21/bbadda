@@ -1,0 +1,23 @@
+{
+  "id": "news-264a1d28",
+  "issue": "2026-W45",
+  "module": "league",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "news",
+  "source_name": "SBS 뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ERFN4cVVyUTl0R0VKeEdvaENiRVRaWDE5aHVDYzYxRFFPNFI4eVA0UzQ2d0dnbjFRVFN5cnZWM0RPeXZLVUJmV29CYm03aFhqbXQ3b3YtMklRcFRHMDJuOGNMRlFrQdIBZkFVX3lxTE1ERFN4cVVyUTl0R0VKeEdvaENiRVRaWDE5aHVDYzYxRFFPNFI4eVA0UzQ2d0dnbjFRVFN5cnZWM0RPeXZLVUJmV29CYm03aFhqbXQ3b3YtMklRcFRHMDJuOGNMRlFrQQ?oc=5",
+  "title": "'아들 운동회' 평정한 고영표 \"한국시리즈도!\"",
+  "published_at": "2026-10-30T11:55:00.000Z",
+  "collected_at": "2026-10-30T21:38:12.914Z",
+  "summary_ko": "SBS 뉴스에 따르면 KT 고영표가 아들 운동회를 평정한 뒤 \"한국시리즈도!\"라고 말했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 30
+  },
+  "sentiment": "neutral",
+  "brief_ko": "고영표, \"한국시리즈도!\"",
+  "team": "kt"
+}

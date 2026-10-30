@@ -1,0 +1,26 @@
+{
+  "id": "youtube-75fe813b",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "youtube",
+  "source_name": "LOTEE GIANTS",
+  "url": "https://www.youtube.com/watch?v=Nq99PiVH-4o",
+  "title": "전) LG 트윈스 No.22 김현수 응원가",
+  "published_at": "2026-10-30T16:37:19Z",
+  "collected_at": "2026-10-30T21:38:12.914Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 4,
+    "likes": 0,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 48,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "community-2a0de472",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 필드 밖 이야기",
+  "url": "https://blog.naver.com/v0722/224457060679",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/Bk0jjatRmjv",
+  "title": "[KBO 신인왕 후보 5] 24년 만의 고졸 5연속 QS, SSG 마운드의 새 희망으로 우뚝 선 김민준",
+  "published_at": "2026-10-30T23:20:00.000+09:00",
+  "collected_at": "2026-10-30T21:38:12.914Z",
+  "summary_ko": "블로그 필드 밖 이야기 글은 SSG 김민준이 24년 만에 고졸 5연속 퀄리티스타트를 기록했다고 전했다. 신인왕 후보로 꼽았다.",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "김민준, 고졸 5연속 QS"
+}

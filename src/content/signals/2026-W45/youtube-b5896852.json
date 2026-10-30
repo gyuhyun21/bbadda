@@ -1,0 +1,28 @@
+{
+  "id": "youtube-b5896852",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "기아타이거즈 KIA TIGERS",
+  "url": "https://www.youtube.com/watch?v=WsKBPhsoUXM",
+  "title": "우리는 5차전으로 갑니다! | 10월 30일 하이라이트 | KIA vs 삼성 플레이오프 4차전",
+  "published_at": "2026-10-30T14:01:36Z",
+  "collected_at": "2026-10-30T21:38:12.914Z",
+  "summary_ko": "KIA 공식 채널이 10월 30일 삼성과의 플레이오프 4차전 하이라이트 영상을 올렸다.",
+  "metrics": {
+    "views": 235368,
+    "likes": 3836,
+    "comments": 507
+  },
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

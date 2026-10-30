@@ -1,0 +1,23 @@
+{
+  "id": "news-731cebf1",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "조선일보",
+  "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOb1BXVGtNTE4ySHVXQXFiNHc5YXZ3U2dYQ0trSlRuR1d2eEpaSzVPNFBXRXZ4NldRbXV0V2QyV0xFUWdJODIwY0tLSW92TVc2T004YWtPYzlKMjZ6TTl2RkdabHhFeE5ZY01aaEVHTUxYTS1walZ3cGs3blBzaUJkMGVoYXBnRkF3clg0?oc=5",
+  "title": "가치 90% 대추락, 그런데 갓성비 활약…KBO MVP 다시 FA시장 노크, 이번엔 몸값 얼마나 뛸까",
+  "published_at": "2026-10-30T16:55:00.000Z",
+  "collected_at": "2026-10-30T21:38:12.914Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

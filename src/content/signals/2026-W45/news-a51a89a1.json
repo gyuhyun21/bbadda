@@ -1,0 +1,23 @@
+{
+  "id": "news-a51a89a1",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5EdTBJd3RwaGQ3WVVhdXBWeEZ2T2tXTms2MnZvbDBIV0N1YlpSQnZRa0VtZkkzLVJ4dGpYY3RrV0R3LU9jWG1xTjlfeWZUVjNNLU9TalNVUmlHUVpkU2RnS0kyc3pTemw3MXA3bDJSQdIBb0FVX3lxTE5EdTBJd3RwaGQ3WVVhdXBWeEZ2T2tXTms2MnZvbDBIV0N1YlpSQnZRa0VtZkkzLVJ4dGpYY3RrV0R3LU9jWG1xTjlfeWZUVjNNLU9TalNVUmlHUVpkU2RnS0kyc3pTemw3MXA3bDJSQQ?oc=5",
+  "title": "[사진] 이범호 감독, 5차전 대구 가는거야",
+  "published_at": "2026-10-30T12:46:00.000Z",
+  "collected_at": "2026-10-30T21:38:12.914Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

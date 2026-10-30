@@ -1,0 +1,26 @@
+{
+  "id": "youtube-fdb56e77",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "youtube",
+  "source_name": "갈매기의 고향",
+  "url": "https://www.youtube.com/watch?v=itZ2PdCrUwc",
+  "title": "롯데 자이언츠 27일차",
+  "published_at": "2026-10-30T13:27:02Z",
+  "collected_at": "2026-10-30T21:38:12.914Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 172,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 25,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

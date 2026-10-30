@@ -1,0 +1,23 @@
+{
+  "id": "news-c519f7c9",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "국제뉴스",
+  "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9IZ08xb2tpUTdZa1pUM3ZhbUVmWkJYemJWcVo2RjFVRFJWU2UxWWtNbllQQlU5OUgwRzN5cjVmTmhQT0RrRnlmRkRPZ09ncFRoUl9MYkVNREl4bHJ3TFl6bGFVZGRTNVV4RXcxODFR?oc=5",
+  "title": "[속보] '7회말 3득점 대역전극' 기아, 삼성 4-2 제압… 플레이오프 2승 2패",
+  "published_at": "2026-10-30T12:33:00.000Z",
+  "collected_at": "2026-10-30T21:38:12.914Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "community-f2d94325",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&page=3&document_srl=10502200784",
+  "title": "집도착 ㅅㅅ - 야구",
+  "published_at": "2026-10-30T16:38:12.914Z",
+  "collected_at": "2026-10-30T21:38:12.914Z",
+  "summary_ko": "",
+  "excerpt": "... 9 분 전 자유 롯데자이언츠 조회209. 아오 와이스 한국으로 복귀했다길래 깜짝놀랐네. 제목+내용, +요약보기, 제목,…",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

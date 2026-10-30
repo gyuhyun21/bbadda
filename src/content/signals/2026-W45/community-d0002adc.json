@@ -1,0 +1,24 @@
+{
+  "id": "community-d0002adc",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 그깟공노리",
+  "url": "https://blog.naver.com/kbo-fan/224459573989",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/IFujtopLvqG",
+  "title": "야구 심판 위치, 4심제가 나누는 역할",
+  "published_at": "2026-10-30T23:50:00.000+09:00",
+  "collected_at": "2026-10-30T21:38:12.914Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-df2f9e62",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9xV2xJQ1JmOWZXd2VFbHpFdEJYSVhBM3JnSlY1NkF2OWpYQjlKVmNQVmFhZ05CLW9mRXJZdHBxU0htUkJia2syNldtX2JiS3VXY0RnanJaVmhqQ05heU9QekM1c3pRdVBfS2pWTlRwMNIBb0FVX3lxTE9xV2xJQ1JmOWZXd2VFbHpFdEJYSVhBM3JnSlY1NkF2OWpYQjlKVmNQVmFhZ05CLW9mRXJZdHBxU0htUkJia2syNldtX2JiS3VXY0RnanJaVmhqQ05heU9QekM1c3pRdVBfS2pWTlRwMA?oc=5",
+  "title": "[사진] 중견수 앞 안타치는 강민호",
+  "published_at": "2026-10-30T10:12:00.000Z",
+  "collected_at": "2026-10-30T21:38:12.914Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}
