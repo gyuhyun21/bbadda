@@ -1,0 +1,29 @@
+{
+  "id": "news-b69359b1",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBJYUN4X0J2b2ZZdy0tczVvU2c4dTdfQUNSZXFscXA4RnJRQzZOZkdKVk4ySXV5OFFVaExfdDEzc0FtcDZOQ1FJcmJqZDBUNWZXY2dQQ0Z0TEdFcWRGVmZNR3VNaUJaMzdNTHfSAW9BVV95cUxQd2xGWHZyMDM0bml6RnFMS3dnMDA3NmhzSVpXcWQ2MFNqakF5ODB2bXNEUUVUa1ZHQlNOOFRsT2xZTmZCVm93Z092cXdHdHhzUGtMUW1RZmlqOFhpYVBEelJ6LVBEOGJfc3FsSHhRZ0E?oc=5",
+  "title": "[포토] '7회말 역전타 환호하는' 한준수",
+  "published_at": "2026-10-30T12:15:12.000Z",
+  "collected_at": "2026-10-30T14:03:28.928Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 83,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5tRlUyQnd4cVRxZ0QyT1BGQmhMQi1VUTFIclhETW40VGxCeDdzZk1uMXg0YS1nd2xVbUNxX1FwZWFndkg1bzZrMWNWeVlXM0pUQnRlTFhwN0JTZ1QwZ01CZ1MzdE5Oc21xaVhuWWFMTVJpZUNLMkE?oc=5"
+    }
+  ]
+}

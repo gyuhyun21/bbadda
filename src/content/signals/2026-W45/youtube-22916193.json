@@ -1,0 +1,53 @@
+{
+  "id": "youtube-22916193",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "밤사이글로벌뉴스-스포츠",
+  "url": "https://www.youtube.com/watch?v=2EUAYWpvKtU",
+  "title": "KIA 4-2 역전승, 삼성과 5차전 승부 #Shorts",
+  "published_at": "2026-10-30T13:24:51Z",
+  "collected_at": "2026-10-30T14:03:28.928Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 335,
+    "likes": 6,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 44,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "SPOTV NEWS",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB0ZzhHazFxTnhVWGNuZ3hlTU9ZVFNVY3MzS3E2MEljUzM1MXZmbmxQemk2OVBpX19nSDVjMEF6RE1iM0RiTnNGRk9zNVFLNmJQQWlqbHh0cDJnNjB1QWE5X1lERnBtZDBfTFBWX2tLN20?oc=5"
+    },
+    {
+      "source_name": "뉴스핌",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1HTEF2THZGeGNUWUc2NmpXOWxoejhuV2pfblFtZ3VqSnl6ZnZWbW5nanNhUGFZbjZPVHR2NUozNERZb1RjQzFqd2F0YVUzbEhzUW1wNy13ZkNTT0hy?oc=5"
+    },
+    {
+      "source_name": "톱스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE95Wi00aVhFYVFmSUNFNUVFbHFGVFRGbHY5QXIxclZqZWczOUstNkF6TUJpOThQVG1tVjF2b3VOdkhtSUF0OEpoLS1sYWFDRFd1aXpXSU9IZThMb1pYOGdXNllvd0hXdnRtQlczLWFvS1RsUQ?oc=5"
+    },
+    {
+      "source_name": "중부매일",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5NT1NQdVJMRkd5NmZUb2s3S2ZvY0xwbTJoN1o3bUNPalQxOGY3Y18xaEZyYzRPdHJvYnB0cFJoMkFDekpnYjJIenJBN1pHS1FOcDFkeTVLNEpHV2hhT2tyenpuMTIzS09oY1HSAW5BVV95cUxPcC1YS3RuU2JJdkljUi1fSy1WTUgzNjhaT0FSNlBKRGx0bkFtYVdYZHZFektqSnhsWmVtOVpTMHlQMHhrWGZqeklyaUNER1dHT29IcGY0UjFJMWQtU2Vla0R3cTByX3MxOGg0dnJIQQ?oc=5"
+    },
+    {
+      "source_name": "경북신문",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE50S3FxcU9Hc3JPQTYzdC1ONzF0Y2E5TEVicU5TLU55RXlKVThWeV9TamE0c0lYbFVjYWtaN1FQVnNIeDNwcnpWWHFCeEV1YVZleHBUcWJueEk?oc=5"
+    },
+    {
+      "source_name": "무등일보",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBydENxYVRIUGFQSzZMOFc5NGlBbGdSNlVDVXN5S2N0SHJ5NVQxcEtzQWNnUHI1OFVaTzdtVEZOTFllS2dOVV93d09VLUEzT2dOV3l3?oc=5"
+    }
+  ]
+}

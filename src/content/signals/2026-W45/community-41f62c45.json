@@ -1,0 +1,24 @@
+{
+  "id": "community-41f62c45",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/10501542508",
+  "title": "직관 이기고 왔다 하 ㅜ - 야구",
+  "published_at": "2026-10-30T13:03:28.928Z",
+  "collected_at": "2026-10-30T14:03:28.928Z",
+  "summary_ko": "",
+  "excerpt": "... 삼성 걸면 기아가 이기고 기아걸면 삼성이 이기고 · 5차전을 앞둔 박진만 감독이 삼성 라이온즈…",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

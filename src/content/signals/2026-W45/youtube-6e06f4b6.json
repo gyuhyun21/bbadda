@@ -1,0 +1,27 @@
+{
+  "id": "youtube-6e06f4b6",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "엘냠씨",
+  "url": "https://www.youtube.com/watch?v=FvU1PQOe_6c",
+  "title": "근본야구유튜버입니다 #엘지트윈스 #LG트윈스 #기아타이거즈 #삼성라이온즈 #KBO #야구 #야구팬 #크보",
+  "published_at": "2026-10-30T10:00:31Z",
+  "collected_at": "2026-10-30T14:03:28.928Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 335,
+    "likes": 15,
+    "comments": 10
+  },
+  "scores": {
+    "hot": 70,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

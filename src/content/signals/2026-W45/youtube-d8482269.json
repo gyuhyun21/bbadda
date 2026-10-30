@@ -1,0 +1,26 @@
+{
+  "id": "youtube-d8482269",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "youtube",
+  "source_name": "TWOBINPAPA",
+  "url": "https://www.youtube.com/watch?v=fa38V5xtESQ",
+  "title": "롯데자이언츠 레이예스 응원가 💙 브리즈온윈드오케스트라 트럼펫 연주와 함께 261007",
+  "published_at": "2026-10-30T11:00:38Z",
+  "collected_at": "2026-10-30T14:03:28.928Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 2,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 6,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

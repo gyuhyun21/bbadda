@@ -1,0 +1,34 @@
+{
+  "id": "community-cd7ba4cd",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia",
+    "kt"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 일상다반사",
+  "url": "https://wizgram.tistory.com/375",
+  "title": "삼성 KIA 플레이오프 4차전 결과, 2승 2패 5차전 일정·중계·예매 총정리 (한국시리즈 KT 일정)",
+  "published_at": "2026-10-30T21:53:50.000+09:00",
+  "collected_at": "2026-10-30T14:03:28.928Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 84,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdmtvWmE3dm5OQmpqWldrVXFuNGhFYmJldWo1Nm4wd2d0cnRyRk4yeG1vaUlRSE1UZlEyVTJfLUJ6ZkU5THBrQlNjQWJvMnhLbnZfaV9QVmNydzZGSEpVQlZoYTJ2dFhJSU5wejVxWXJ2b2I1c0JjNHRISE42OXRtYnFEc3BINFIw0gGcAUFVX3lxTE84eVpVYzVTa3hoS0ZMbkVXNVdHVUlRMUc1Z0NCc0cwYlQzbE9CVTVhbnBZNFN3REpPa25qWVNrNmJfVTN0YVNwNk9QZlU4TkMwb2xsRzg1U2tTNHRvd0hoMlZvdjh1emVGSDVobi1Eel9SaTZkQWRiUFNWWTlvZ2VIQ0E5dHdtWUs2a2g0ZU9MTGQ2TzRZR2lPbkdiaw?oc=5"
+    },
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPN3lXRmppT0haLVBweEE3dmx0Y0h1LXVYVWVGa0Z1MEg3cG5UWG1NRl8zV0lhSF9IckVheFJZcEdWU0RORm80c3Zoa2RwMEtJTk9jTFlaOUp6ZlZkVnVSX0lVSGJyeW1uSXB6NDBzODR2ZWZ6VnJLU2hMMWhxU2lhVlhkX19fLXZo?oc=5"
+    }
+  ]
+}

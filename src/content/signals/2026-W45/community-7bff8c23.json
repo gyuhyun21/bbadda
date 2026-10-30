@@ -1,0 +1,23 @@
+{
+  "id": "community-7bff8c23",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "community",
+  "source_name": "엠엘비파크",
+  "url": "https://mlbpark.donga.com/mp/b.php?id=202610150119440056&p=211&b=kbotown&m=view&select=spf&query=%EB%91%90%EC%82%B0&site=donga.com",
+  "title": "두산베어스 선수들 고생많았습니다.",
+  "published_at": "2026-10-14T00:00:00.000Z",
+  "collected_at": "2026-10-30T14:03:28.928Z",
+  "summary_ko": "",
+  "excerpt": "... 제대로된 1선발 용투없이 김원형 감독의 투수파트는 훌륭했다고 봅니다. 벤자민도 2% 부…",
+  "metrics": {},
+  "scores": {
+    "hot": 8,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

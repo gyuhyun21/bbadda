@@ -1,0 +1,30 @@
+{
+  "id": "news-3e38760b",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "연합뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBWV1N3Z19fWExsdnVaaDBTZ0NFcG5WcU9sUDN0R3hXVUFVY3l2bnNvc3FoTWlrVlRlNmRtU1FLMkFNdHdWUnFMdU9fRWs5YmFBVl9mUGNKZDdTemJENzkyNtIBYEFVX3lxTFBWV1N3Z19fWExsdnVaaDBTZ0NFcG5WcU9sUDN0R3hXVUFVY3l2bnNvc3FoTWlrVlRlNmRtU1FLMkFNdHdWUnFMdU9fRWs5YmFBVl9mUGNKZDdTemJENzkyNg?oc=5",
+  "title": "다시 만나는 후라도 vs 올러…KS 티켓 걸고 PO 5차전 격돌",
+  "published_at": "2026-10-30T13:01:47.000Z",
+  "collected_at": "2026-10-30T14:03:28.928Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 92,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "톱스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB4a0pMQXgxd2d6aVBmR3JkeUFtR0pQY0lJZjhvdlpWazZocklxNXgzcDFYZkRQRVc0VjFaVnR5MGNjTldCMTJoNHAydWpBWTQteDBoWUJaaVVJOVdBV3EzZGNXV3dwTHhLekEyVUc2aGJFQQ?oc=5"
+    }
+  ]
+}

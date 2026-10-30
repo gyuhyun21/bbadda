@@ -1,0 +1,27 @@
+{
+  "id": "youtube-ded8a631",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "source_name": "크보오프너",
+  "url": "https://www.youtube.com/watch?v=usmLJk3ti88",
+  "title": "[크보오프너 다시보기] 강성철X송재우X윤세호X육튜브 l 와이스 복귀설, 한화의 선택은? & PO 4차전 프리뷰 l 10월 30일(금)",
+  "published_at": "2026-10-30T09:33:51Z",
+  "collected_at": "2026-10-30T14:03:28.928Z",
+  "summary_ko": "크보오프너가 와이스 복귀설과 PO 4차전 프리뷰를 다룬 다시보기 영상을 올렸다.",
+  "metrics": {
+    "views": 67019,
+    "likes": 549,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "brief_ko": "와이스 복귀설 프리뷰"
+}

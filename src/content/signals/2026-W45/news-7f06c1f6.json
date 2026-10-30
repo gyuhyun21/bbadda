@@ -1,0 +1,37 @@
+{
+  "id": "news-7f06c1f6",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ieFlXaE9UWnZJdS1rUnRZWDhOYXRQZUVPTTRiYldydkNudm9oaThqTjludFZIbDVhdGxuNzZDMTMtbGh2VXFEWmhFTGl4U09pZHVBYVhZZndHR1d2SzhMWnRiLXJSWmpmM2puWGhNVdIBb0FVX3lxTE1ieFlXaE9UWnZJdS1rUnRZWDhOYXRQZUVPTTRiYldydkNudm9oaThqTjludFZIbDVhdGxuNzZDMTMtbGh2VXFEWmhFTGl4U09pZHVBYVhZZndHR1d2SzhMWnRiLXJSWmpmM2puWGhNVQ?oc=5",
+  "title": "“KIA가 KS 올라왔으면” 1위팀 감독 솔직 속내 공개, PO 3경기 현미경 분석→왜 KIA보다 삼성 경계했나 [오!쎈 수원]",
+  "published_at": "2026-10-30T09:31:00.000Z",
+  "collected_at": "2026-10-30T14:03:28.928Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 98,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "미주중앙일보",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE50d0JNMmEyellqQWZWbmFFZkZwM1NCQldBWkZqNU1JVFN2OTRaZ0FKNHNLQlZ6cGEzSDQySkFROUYtRFVlZEtzTjdMZ1k3cXlUSGFwdkc3d2l4dG1pUW5RRVNB?oc=5"
+    },
+    {
+      "source_name": "Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZE81OFdFQkFLZEVOQ3B0RlZhV09kRlI1NjA2MWlTMzVIRnRFQTZJRERuLWVxTEU4LWZ1VXZUTUc1Wk9tbVdBbkU4WjBEMDhlY2NhelJTelMwT0JrcXpzRlllcE9ZNlpWczlqYjV2dHRwRENTa3dUamsyRU9mRmVtWnh5QmZsckpqQU1YRjlBMUdHMlpVWHFN0gGXAUFVX3lxTFBkTzU4V0VCQUtkRU5DcHRGVmFXT2RGUjU2MDYxaVMzNUhGdEVBNklERG4tZXFMRTgtZnVVdlRNRzVaT21tV0FuRThaMEQwOGVjY2F6UlN6UzBPQmtxenNGWWVwT1k2WlZzOWpiNXZ0dHBEQ1Nrd1RqazJFT2ZGZW1aeHlCZmxySmpBTVhGOUExR0cyWlVYcU0?oc=5"
+    },
+    {
+      "source_name": "OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5OWnRJV0p4dHY0X2poUHJKR05tZ0FZZjVnOE9yT1FHOHhTRzFCOE5pUzE2TU5pV0hmLXE3b0huUDM0d0w4UnZKQXJqcUI2VFRXenVGWA?oc=5"
+    }
+  ]
+}

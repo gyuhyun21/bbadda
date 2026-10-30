@@ -1,0 +1,28 @@
+{
+  "id": "youtube-126e8a64",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "LGTWINSTV",
+  "url": "https://www.youtube.com/watch?v=TXZ4RLbv9d8",
+  "title": "루키가 묻고 루키가 답한다🔍 매운맛 질문 가득한 27루키즈 10문 10답 [LP]",
+  "published_at": "2026-10-30T08:30:23Z",
+  "collected_at": "2026-10-30T14:03:28.928Z",
+  "summary_ko": "LG 공식 채널 LGTWINSTV가 27 루키즈의 10문 10답 영상을 올렸다.",
+  "metrics": {
+    "views": 10306,
+    "likes": 349,
+    "comments": 34
+  },
+  "scores": {
+    "hot": 77,
+    "relevance": 50
+  },
+  "sentiment": "neutral",
+  "brief_ko": "27 루키즈 10문 10답"
+}

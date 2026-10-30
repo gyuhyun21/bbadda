@@ -1,0 +1,24 @@
+{
+  "id": "community-ebe64bac",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 스포츠 한 페이지 by 냥이",
+  "url": "https://blog.naver.com/e_minggg/224459458139",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/2elRs5N9uiq",
+  "title": "\"휴스턴이 500만 달러를 포기했다고?\" 와이스 1년 만에 FA.. 이거 대전 복귀 신호야?",
+  "published_at": "2026-10-30T21:29:00.000+09:00",
+  "collected_at": "2026-10-30T14:03:28.928Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

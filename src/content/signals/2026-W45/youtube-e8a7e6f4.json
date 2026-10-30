@@ -1,0 +1,28 @@
+{
+  "id": "youtube-e8a7e6f4",
+  "issue": "2026-W45",
+  "module": "team",
+  "teams": [
+    "samsung"
+  ],
+  "team": "samsung",
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=ahCVKRFVz4E",
+  "title": "맞는 순간 확신의 배트 플립! 삼성 최형우가 이 경기를 뒤집습니다! 역전 홈런!! | PO4_삼성 vs KIA | 10.30 | 크보모먼트 | KBO 야구 하이라이트",
+  "published_at": "2026-10-30T11:53:38Z",
+  "collected_at": "2026-10-30T14:03:28.928Z",
+  "summary_ko": "KBO 공식 채널이 삼성 최형우의 역전 홈런 장면 영상을 올렸다.",
+  "metrics": {
+    "views": 6189,
+    "likes": 159,
+    "comments": 54
+  },
+  "scores": {
+    "hot": 73,
+    "relevance": 80
+  },
+  "sentiment": "positive",
+  "brief_ko": "최형우 역전 홈런 영상"
+}

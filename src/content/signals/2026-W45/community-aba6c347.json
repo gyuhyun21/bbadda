@@ -1,0 +1,24 @@
+{
+  "id": "community-aba6c347",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 Miracle Sports Corporation",
+  "url": "https://blog.naver.com/sports_complex/224459504437",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/BYXex5OjaAZ",
+  "title": "경악! 박진만 투수교체 대실패...! '이번에 또 될 줄 알았나?' 3차전 승리 가져왔던 사토시·이재희...",
+  "published_at": "2026-10-30T22:01:00.000+09:00",
+  "collected_at": "2026-10-30T14:03:28.928Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

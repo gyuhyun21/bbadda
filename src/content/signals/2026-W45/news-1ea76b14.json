@@ -1,0 +1,23 @@
+{
+  "id": "news-1ea76b14",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "주간한국",
+  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBHZnBFb0Q3ZFU2QkFoU3BxQUNHajQ0Rm1WUFlTUUhTcHdiQUN1Zlh2RHdueGNVaFRDeDZnNUVYVnhVV2VnY241eGxyYnZ3eVpTY2phZnp5YmVqUE14LTRhTVpfY1pCaUFtWGNnSTFJaG15OThD0gF0QVVfeXFMUEdmcEVvRDdkVTZCQWhTcHFBQ0dqNDRGbVZQWVNRSFNwd2JBQ3VmWHZEd254Y1VoVEN4Nmc1RVhWeFVXZWdjbjV4bHJidnd5WlNjamFmenliZWpQTXgtNGFNWl9jWkJpQW1YY2dJMUlobXk5OEM?oc=5",
+  "title": "롯데의 선택은 ‘우승 청부사’ 이동욱…9년 암흑기 끝낼까",
+  "published_at": "2026-10-30T08:49:56.000Z",
+  "collected_at": "2026-10-30T14:03:28.928Z",
+  "summary_ko": "주간한국에 따르면 롯데가 이동욱 감독을 선택했다. 9년 암흑기를 끝낼 수 있을지 짚었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "brief_ko": "롯데의 선택은 이동욱"
+}

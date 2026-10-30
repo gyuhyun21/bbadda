@@ -1,0 +1,29 @@
+{
+  "id": "community-b455d247",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "디시 야구 갤러리",
+  "url": "https://gall.dcinside.com/mgallery/board/view/?id=minjudang&no=5509175&page=1",
+  "title": "플레이오프 4차전 삼성 라이온즈 라인업",
+  "published_at": "2026-10-29T15:00:00.000Z",
+  "collected_at": "2026-10-30T14:03:28.928Z",
+  "summary_ko": "",
+  "excerpt": "... ... 출시AD 단, 7.89cm 슬림함의 정점, NEW 일렉트로룩스 로봇청소기. [일반] 플레이오프 4차전 삼성 라이온즈…",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "뉴스핌",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5aR21Ba3RrYkVXY1FOQW1mYm9sTEo5bTd4UlNpR1ZNVXdIVVVMRjBnWnJ6RkwwazZXOUtIZGU5a21Va2tpQmtnRUc0YmZSeVRCaEtFSng3eFB4X0Jh?oc=5"
+    }
+  ]
+}

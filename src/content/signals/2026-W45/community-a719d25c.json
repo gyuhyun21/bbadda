@@ -1,0 +1,24 @@
+{
+  "id": "community-a719d25c",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 정보의 모든 것",
+  "url": "https://blog.naver.com/xyzsolution/224459413939",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/6rkVgcZWU5u",
+  "title": "2026 한국시리즈 일정·예매 방법 총정리, 대진표부터 구장·중계·우승 전망까지",
+  "published_at": "2026-10-30T20:11:00.000+09:00",
+  "collected_at": "2026-10-30T14:03:28.928Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

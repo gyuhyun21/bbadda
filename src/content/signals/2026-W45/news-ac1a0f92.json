@@ -1,0 +1,22 @@
+{
+  "id": "news-ac1a0f92",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "아시아투데이",
+  "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ZbEFzV2N3bnBoZHVHNGV0anhpaUVoWjhpVnktTUpDTTdVM2EwMXAzT3ZRa19hU2NWMzhRSi1MYzBjTEhUNDFjam5xRVdSTjkzRm9qbThtV0VQZG1ZVVlmcFd5Z3pQbm1zM2hMQ1hR?oc=5",
+  "title": "벼랑 끝 회생 KIA, ‘대구에서 한국시리즈 진출 가리자!’",
+  "published_at": "2026-10-30T13:54:59.000Z",
+  "collected_at": "2026-10-30T14:03:28.928Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

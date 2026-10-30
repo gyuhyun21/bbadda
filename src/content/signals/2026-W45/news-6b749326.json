@@ -1,0 +1,23 @@
+{
+  "id": "news-6b749326",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "Chosunbiz",
+  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRWM2X0MxUHVWSFY2SVZpTEEzRzVad04tT0EyR1RLUzlvd1I2MmRhZmJmV2NKc2FsR2JCMi1UVzE4alZCb29lVktsS096UzllbWtERndQUjJRTmJNSlMzRW5QR0xoWFBKaEF5eUxUSTFCT0J0NkJ0T2ZwYnQwcWQ0MjA5THZWRERMaXAyT0ZsLXc3ZVA1cXBJ0gGXAUFVX3lxTFBFYzZfQzFQdVZIVjZJVmlMQTNHNVp3Ti1PQTJHVEtTOW93UjYyZGFmYmZXY0pzYWxHYkIyLVRXMThqVkJvb2VWS2xLT3pTOWVta0RGd1BSMlFOYk1KUzNFblBHTGhYUEpoQXl5TFRJMUJPQnQ2QnRPZnBidDBxZDQyMDlMdlZERExpcDJPRmwtdzdlUDVxcEk?oc=5",
+  "title": "‘오늘 끝날 수도 있다’ KIA-삼성 4차전, 1만8900석 매진→PS 45G 연속 매진 행진 [PO4]",
+  "published_at": "2026-10-30T10:10:00.000Z",
+  "collected_at": "2026-10-30T14:03:28.928Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 80
+  },
+  "sentiment": "neutral"
+}

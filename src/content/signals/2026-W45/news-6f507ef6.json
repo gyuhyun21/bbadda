@@ -1,0 +1,23 @@
+{
+  "id": "news-6f507ef6",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "매일경제",
+  "url": "https://m.mk.co.kr/amp/12192029",
+  "title": "2패-ERA 5.25→4.2이닝 5실점→KKKKKK 1실점 99구 역투…호랑이 공포증 털어내고 포효한 삼성 페덱 [PO4]",
+  "published_at": "2026-10-30T11:44:29.000Z",
+  "collected_at": "2026-10-30T14:03:28.928Z",
+  "summary_ko": "매일경제에 따르면 삼성 페덱이 PO 4차전에서 99구를 던지며 삼진 6개에 1실점으로 막았다. 1차전 5실점의 부진을 털어낸 투구였다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 80
+  },
+  "sentiment": "neutral",
+  "brief_ko": "페덱, 99구 6K 1실점 설욕"
+}

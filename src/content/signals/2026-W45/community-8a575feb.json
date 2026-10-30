@@ -1,0 +1,24 @@
+{
+  "id": "community-8a575feb",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&page=4&document_srl=10501782135",
+  "title": "겆줌 없냐? - 야구",
+  "published_at": "2026-10-30T13:49:28.928Z",
+  "collected_at": "2026-10-30T14:03:28.928Z",
+  "summary_ko": "",
+  "excerpt": "... [레벨:33] 키움사줘정후야 5 분 전. 김윤하 히어로즈콘(날타빼) ✚. 1. 댓글 쓰기. 댓글 작성 하시려면…",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

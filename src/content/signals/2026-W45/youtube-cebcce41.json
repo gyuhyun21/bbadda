@@ -1,0 +1,28 @@
+{
+  "id": "youtube-cebcce41",
+  "issue": "2026-W45",
+  "module": "league",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "team": "kia",
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=0n1Ywpa9RSM",
+  "title": "플레이오프 4차전 KIA타이거즈의 9회 아웃 카운트 모음집! | PO4_삼성 vs KIA | 10.30 | 크보모먼트 | KBO 야구 하이라이트",
+  "published_at": "2026-10-30T13:03:31Z",
+  "collected_at": "2026-10-30T14:03:28.928Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 4569,
+    "likes": 495,
+    "comments": 128
+  },
+  "scores": {
+    "hot": 83,
+    "relevance": 80
+  },
+  "sentiment": "neutral"
+}

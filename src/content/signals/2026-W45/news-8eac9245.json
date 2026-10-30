@@ -1,0 +1,24 @@
+{
+  "id": "news-8eac9245",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "조선일보",
+  "url": "https://www.chosun.com/sports/baseball/2026/10/30/ME3TSMBQG4YTQMJWMUZDIMRZHE/",
+  "title": "'결승 3안타' 한준수, 벼랑 끝 KIA 살렸다, KIA 천신만고 역전 드라마, 승부는 결국 5차전으로…[PO4 리뷰]",
+  "published_at": "2026-10-30T13:44:00.000Z",
+  "collected_at": "2026-10-30T14:03:28.928Z",
+  "summary_ko": "조선일보는 KIA 한준수가 결승타를 포함해 3안타를 치며 벼랑 끝 팀을 살렸다고 전했다. 승부는 PO 5차전으로 넘어갔다.",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 80
+  },
+  "sentiment": "neutral",
+  "brief_ko": "한준수 3안타, 승부는 5차전",
+  "hook_ko": "KS 1승 앞 삼성, 7회에 뒤집혔다"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "community-ce9f76ba",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 레우스 스포츠",
+  "url": "https://blog.naver.com/borussenreus/224459391726",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/624qhqHf1Ka",
+  "title": "“한 달 실전까지 멈췄다” SSG 박지환 타격폼 개조 청라 주전 노린다",
+  "published_at": "2026-10-30T20:00:00.000+09:00",
+  "collected_at": "2026-10-30T14:03:28.928Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

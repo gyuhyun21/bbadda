@@ -1,0 +1,23 @@
+{
+  "id": "community-6055d7ad",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 실전정보",
+  "url": "https://blog.naver.com/insure_82/224459320100",
+  "title": "2026 한국시리즈 티켓팅, 오후 2시라고 생각했다면 한 번 더 확인하세요",
+  "published_at": "2026-10-30T19:00:00.000+09:00",
+  "collected_at": "2026-10-30T14:03:28.928Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

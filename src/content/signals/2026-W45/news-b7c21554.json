@@ -1,0 +1,22 @@
+{
+  "id": "news-b7c21554",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스핌",
+  "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9JZkxWRkJwak9XemFscGk3TVc0c2xCRG9xelR5QXVwa2R0VWQtbFhZUFNoYWN2YWFwOVJXOEhrbFRFRGdraDNfQ0ZzZWVXYjBGa1VubkhVcXlOX3dR?oc=5",
+  "title": "[PO] 삼성 원태인·이승민 4차전 출격 대기…박진만 감독 \"몸 상태 문제없다\"",
+  "published_at": "2026-10-30T08:43:00.000Z",
+  "collected_at": "2026-10-30T14:03:28.928Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 80
+  },
+  "sentiment": "neutral"
+}

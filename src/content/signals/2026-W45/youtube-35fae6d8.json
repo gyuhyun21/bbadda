@@ -1,0 +1,27 @@
+{
+  "id": "youtube-35fae6d8",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "youtube",
+  "source_name": "박주홍은터진다",
+  "url": "https://www.youtube.com/watch?v=9toBfZBMt-Q",
+  "title": "키움, 이성열 코치 영입? #이성열 #넥센 #키움히어로즈",
+  "published_at": "2026-10-30T10:53:41Z",
+  "collected_at": "2026-10-30T14:03:28.928Z",
+  "summary_ko": "팬 채널 박주홍은터진다가 키움이 이성열 코치 영입을 검토한다는 이야기를 다룬 쇼츠를 올렸다.",
+  "metrics": {
+    "views": 826,
+    "likes": 0,
+    "comments": 3
+  },
+  "scores": {
+    "hot": 38,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "이성열 코치 영입설"
+}

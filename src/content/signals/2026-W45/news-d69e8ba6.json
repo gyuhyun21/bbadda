@@ -1,0 +1,22 @@
+{
+  "id": "news-d69e8ba6",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "뉴시스",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBObzBYeXdNVTRUOHAzbjIwOS1nTmFxdkI3SWNsYzZKYXVVYnNrWUhzTk1zWWVWNHdTaF9zV2JNdTlfTmtrTE5Tc1owZFloX3Buc2pqWmM4eEN4VlgxZEZjQQ?oc=5",
+  "title": "'아쉬운 집중력' 삼성, 잇단 수비 실책에 발목…결국 '끝장 승부' 간다[PO]",
+  "published_at": "2026-10-30T12:59:40.000Z",
+  "collected_at": "2026-10-30T14:03:28.928Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

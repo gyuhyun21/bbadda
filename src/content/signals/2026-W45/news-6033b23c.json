@@ -1,0 +1,24 @@
+{
+  "id": "news-6033b23c",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "m.mksports.co.kr",
+  "url": "https://www.mksports.co.kr/news/breaking-news/12192076",
+  "title": "기사회생했다!…‘한준수 결승타 포함 3안타 2타점+하주석 쐐기타+전상현 6OUT 세이브’ KIA, 삼성 4-2 제압→PO 2승 2패 [PO4]",
+  "published_at": "2026-10-30T12:33:30.000Z",
+  "collected_at": "2026-10-30T14:03:28.928Z",
+  "summary_ko": "MK스포츠에 따르면 KIA는 한준수의 결승타와 하주석의 쐐기타, 전상현의 6아웃 세이브로 삼성을 4-2로 꺾고 PO 2승 2패를 만들었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 80
+  },
+  "sentiment": "neutral",
+  "brief_ko": "전상현 6아웃 세이브로 PO 원점"
+}

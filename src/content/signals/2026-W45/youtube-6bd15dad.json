@@ -1,0 +1,26 @@
+{
+  "id": "youtube-6bd15dad",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "youtube",
+  "source_name": "자이언츠 스토리",
+  "url": "https://www.youtube.com/watch?v=Qntsop9pfzM",
+  "title": "최준용 - 가을안부 #롯데자이언츠 #최준용",
+  "published_at": "2026-10-30T11:24:29Z",
+  "collected_at": "2026-10-30T14:03:28.928Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1001,
+    "likes": 29,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 60,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

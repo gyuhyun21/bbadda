@@ -1,0 +1,23 @@
+{
+  "id": "news-e18f6010",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBnYjk0SU1GNlBkZmg5c2RITWZUcXNXNnBPU2FCMGI1eUZ3TXJucEdvLW5WdWZmbjdTeFRlTnZhSnVuQnY0MnViZU9uWlEybkdsZ0N4bXhwVVVaU3pWVno5REd6NTBPYWI1UWw4d2luc9IBb0FVX3lxTFBnYjk0SU1GNlBkZmg5c2RITWZUcXNXNnBPU2FCMGI1eUZ3TXJucEdvLW5WdWZmbjdTeFRlTnZhSnVuQnY0MnViZU9uWlEybkdsZ0N4bXhwVVVaU3pWVno5REd6NTBPYWI1UWw4d2lucw?oc=5",
+  "title": "[사진]페덱, 삼진에 환호",
+  "published_at": "2026-10-30T10:15:00.000Z",
+  "collected_at": "2026-10-30T14:03:28.928Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

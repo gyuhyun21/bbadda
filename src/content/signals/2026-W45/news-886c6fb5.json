@@ -1,0 +1,23 @@
+{
+  "id": "news-886c6fb5",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "뉴시스",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5yU0hqNy1ZaUtmS2phd3hlb1lLeE14eUJqRkVzajQ4R2RlaGw0bFVNNUhlamtEZHNsaF9KaVdUNzRiN1pIcVVOcWxBa3VOS04zdjRUY3cxaTlUTXg5VVNDV9IBeEFVX3lxTFBnN3VKRXIzOXVrUXFRbzQ4SzNfWXczUE9KSkQ0SWVhX1htZjJNbV9KZk9SaUY2ZWxxRnFLTmcwSHBueTAxMW8yMXFKTUpkWTB6aFJqOXFBeV9SOVI1TFFxTkF2S2IzY3J1Z2V3TENOeDY2RzM2T1RkRA?oc=5",
+  "title": "삼성, 이틀 연속 총력전에도 쓴웃음…불펜 과부하 우려[PO]",
+  "published_at": "2026-10-30T13:05:11.000Z",
+  "collected_at": "2026-10-30T14:03:28.928Z",
+  "summary_ko": "뉴시스는 삼성이 이틀 연속 총력전에도 4차전을 내줬고, 불펜 과부하가 우려된다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "삼성 불펜 과부하 우려"
+}

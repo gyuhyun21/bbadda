@@ -1,0 +1,23 @@
+{
+  "id": "news-7d37d3aa",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "MBC 뉴스",
+  "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1oR1pJaGJDRWlIbVBFcjBhVEhXM2cwMWdkampiRFFYMHhabTI0dUIwSnVJT3BpbTdGa2lHOExxUTM0RDl2aDNQVUZxNUxRcHZJdTRTeHFfekZYek1uOFFKN09hbWJHZDAtbC13aHpTYmtqeTV4N1hEaNIBeEFVX3lxTE5vUURtaXFWS0l0VnkxVkFETmRaMElFWFpzaGpkQlFiOXBGQ3FXU2hWam9HT3ZiRU1hRzRkR0JaaXRfNmhmbEFHUzZEU1RhVnoySUt3SlNZSVpkT2cyUFF2UUFFMjU4VHMxcUJMYUlRc2pHVHpYU0hvUQ?oc=5",
+  "title": "'한국시리즈까지 1승' 삼성 vs '벼랑 끝' KIA‥물러설 수 없는 4차전",
+  "published_at": "2026-10-30T11:42:16.000Z",
+  "collected_at": "2026-10-30T14:03:28.928Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 80
+  },
+  "sentiment": "neutral"
+}

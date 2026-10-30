@@ -1,0 +1,27 @@
+{
+  "id": "youtube-c7f6dfbb",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "엠엘비 센터 【MLB CENTER】",
+  "url": "https://www.youtube.com/watch?v=bms7ecraxvY",
+  "title": "김도영 슈퍼 캐치! KIA 타이거즈 플레이오프 2승!",
+  "published_at": "2026-10-30T12:53:45Z",
+  "collected_at": "2026-10-30T14:03:28.928Z",
+  "summary_ko": "팬 채널 MLB CENTER가 KIA 김도영의 슈퍼 캐치 영상을 올렸다.",
+  "metrics": {
+    "views": 9162,
+    "likes": 507,
+    "comments": 59
+  },
+  "scores": {
+    "hot": 87,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "김도영 슈퍼 캐치"
+}

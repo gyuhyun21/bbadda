@@ -1,0 +1,28 @@
+{
+  "id": "youtube-081ca305",
+  "issue": "2026-W45",
+  "module": "league",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "team": "kia",
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=pLbE1jVnXfo",
+  "title": "(무해설)로 다시 보는 KIA의 동점, 역전 그리고 달아나는 적시타를 현장의 함성으로! | PO4_삼성 vs KIA | 10.30 | 크보모먼트 | KBO 야구 하이라이트",
+  "published_at": "2026-10-30T13:31:38Z",
+  "collected_at": "2026-10-30T14:03:28.928Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1922,
+    "likes": 89,
+    "comments": 18
+  },
+  "scores": {
+    "hot": 79,
+    "relevance": 80
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "youtube-b55f7064",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "이영우의 라이브 TV",
+  "url": "https://www.youtube.com/watch?v=d8V_FVmwzEU",
+  "title": "[ 입중계 라이브 ] PO 4차전 삼성 vs 기아 경기전 주요소식 라인업, 선발투수, 감독의 용병술! #한화이글스#lg트윈스#기아타이거즈#삼성라이온즈#kt위즈#kbo리그#이글스tv",
+  "published_at": "2026-10-30T13:36:36Z",
+  "collected_at": "2026-10-30T14:03:28.928Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 60636,
+    "likes": 857,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

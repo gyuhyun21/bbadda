@@ -1,0 +1,24 @@
+{
+  "id": "news-d80e239a",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5TbTl6NDBIWEozbjduZDA5VmJJZXZvalJRSWpnVWY4TjA3UENtcV9ya0ktTnNVRDAtcVptR3BadzNfQWFXR0lFNVVDLW5IUW5yMU1rZnYySWJFbHRra2M2NnliTWFfZVZQMkHSAW9BVV95cUxNMWRFMFBHNXNlQV9wakR1TWR3eWlBV0p3VTc3bW44OWFlV3JUa2NTR2RtTVdfeEQyTjlzWTlxU1VadGxFTGlDVXFQR1JsVjFWWk0tWkJoYVJWZTlrZF9nWmxRZkhNOXhQQWNLanhyZGc?oc=5",
+  "title": "대체 왜 '삼성 대참사' 김영웅 7회 치명적 실책 '충격파', KIA 역전극 '탈락 위기서 극적으로 기사회생' [PO4 현장리뷰]",
+  "published_at": "2026-10-30T13:01:29.000Z",
+  "collected_at": "2026-10-30T14:03:28.928Z",
+  "summary_ko": "머니투데이는 삼성 김영웅의 7회 실책이 KIA 역전극의 계기가 됐다고 짚었다. KIA는 탈락 위기에서 기사회생했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "negative",
+  "brief_ko": "김영웅 7회 실책, 흐름 뒤집혔다"
+}

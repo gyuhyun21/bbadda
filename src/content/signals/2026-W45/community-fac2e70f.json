@@ -1,0 +1,24 @@
+{
+  "id": "community-fac2e70f",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "다음카페 헤럴드사우회",
+  "url": "https://cafe.daum.net/heraldmediaOB/MdC0/517",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/E98S038BXuZ",
+  "title": "\"이게 야구장이야? 콘서트야?\" 한국 야구장 역대급...",
+  "published_at": "2026-10-30T08:29:34.000+09:00",
+  "collected_at": "2026-10-30T14:03:28.928Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}
