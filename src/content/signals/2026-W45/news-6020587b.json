@@ -1,0 +1,24 @@
+{
+  "id": "news-6020587b",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom",
+    "doosan"
+  ],
+  "source_type": "news",
+  "source_name": "쿠키뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBHdE9yNldfMjN3eGVESWlVQUtMVHpTb2ttOHExdnFWTVJBMS0zbnpYM1NyY2I5YkpWTFNkYlRiZVViTllHVEdNS3JhOXE0bF9DSDBmVTZIdTlVVG4yQnhnRW5QSQ?oc=5",
+  "title": "‘안장군’ 안우진 981일 만에 선발승…키움, 두산에 4-2 재역전승",
+  "published_at": "2026-10-30T08:41:34.000Z",
+  "collected_at": "2026-10-30T21:38:12.914Z",
+  "summary_ko": "쿠키뉴스에 따르면 키움 안우진이 981일 만에 선발승을 거뒀다. 키움은 두산을 4-2로 재역전승했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "brief_ko": "안우진, 981일 만의 선발승"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "community-c90b8e3b",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 배고픈 여행자의 일상",
+  "url": "https://blog.naver.com/feel9285/224458798029",
+  "title": "[창원NC파크 맛집] 야구장 직관 전후로 꼭 들러야 할 산호동 주변 맛집 BEST 4",
+  "published_at": "2026-10-30T20:47:00.000+09:00",
+  "collected_at": "2026-10-30T21:38:12.914Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

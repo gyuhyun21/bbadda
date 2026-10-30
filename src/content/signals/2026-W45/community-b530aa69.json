@@ -1,0 +1,23 @@
+{
+  "id": "community-b530aa69",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 지지투",
+  "url": "https://blog.naver.com/shining-25/224459551383",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/FzHZHV2mNcu",
+  "title": "지난해 평균자책점 2.85로 반등했는데 올해는 6.37... 두산 박신지에게 무슨 일이 있었을까",
+  "published_at": "2026-10-31T00:10:00.000+09:00",
+  "collected_at": "2026-10-30T21:38:12.914Z",
+  "summary_ko": "블로그 지지투 글은 두산 박신지의 평균자책점이 지난해 2.85에서 올해 6.37이 된 이유를 짚었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

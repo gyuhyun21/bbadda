@@ -1,0 +1,24 @@
+{
+  "id": "community-15f3eeaa",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 Something New",
+  "url": "https://blog.naver.com/todus777/224459657573",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/60NCsDvI9i7",
+  "title": "SSG랜더스 최광야구 직관 후기! SSG닷컴 티켓팅, 스카이뷰 407B 15,16 시야",
+  "published_at": "2026-10-31T01:14:00.000+09:00",
+  "collected_at": "2026-10-30T21:38:12.914Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

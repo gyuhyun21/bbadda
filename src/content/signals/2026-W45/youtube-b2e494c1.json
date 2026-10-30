@@ -1,0 +1,27 @@
+{
+  "id": "youtube-b2e494c1",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "예진",
+  "url": "https://www.youtube.com/watch?v=OgqmkfAVyU4",
+  "title": "26.10.30 기아타이거즈vs삼성라이온즈 플레이오프 4차전 박정우 응원가",
+  "published_at": "2026-10-30T19:15:13Z",
+  "collected_at": "2026-10-30T21:38:12.914Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 852,
+    "likes": 10,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 42,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

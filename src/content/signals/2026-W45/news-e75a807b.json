@@ -1,0 +1,38 @@
+{
+  "id": "news-e75a807b",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "news",
+  "announcement": true,
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5hMmdROFNqbVctMk5CdzVWakhDZEhUN3ZFY0JCSU05Nk1tT2ozbGw0WGtweUJjR0Z6MDZnVFFMVlctbnBKVEszRTFoT3J5VllFMGVlMzdWQnkzVU11cjl6UHhVQWtvODBybUg1V3YzTdIBb0FVX3lxTE5hMmdROFNqbVctMk5CdzVWakhDZEhUN3ZFY0JCSU05Nk1tT2ozbGw0WGtweUJjR0Z6MDZnVFFMVlctbnBKVEszRTFoT3J5VllFMGVlMzdWQnkzVU11cjl6UHhVQWtvODBybUg1V3YzTQ?oc=5",
+  "title": "[공식발표] ‘겨울야구 현실로’ 삼성-KIA 끝장승부 성사, 한국시리즈 일정 밀렸다! 11월 2일→3일 1차전 개최 확정",
+  "published_at": "2026-10-30T15:10:00.000Z",
+  "collected_at": "2026-10-30T21:38:12.914Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 98,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPYVVjaE1QOHNJS2R0WjhiREVhNHpINFExQnhBQ1dNOVMwWUZrU0VuSEwybWRXUjROdDJZcW9OLWF6b0xwbEpUM3V1a0FxTGU5dHJER2lMd1FLQkQxc3FERHZNWU9JeU1PeHBQMlphay1ONlNKYlpvZ2lVbktkdnZNVnhONA?oc=5"
+    },
+    {
+      "source_name": "미주중앙일보",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1oRzh3RFl1WVJxX1MycFh5OFBqMktfSkNveEVqbWZVdkgzSk5XZGc1VExnUHA2YlpZQXVobDhIa1NEWjI2S2JuRkdxUGZxUXQyakNraXFNbDZDeUJrN19zallB?oc=5"
+    },
+    {
+      "source_name": "OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0tbjdEQ0VGNFBTSEtNd2VXN2ZvZ1V4ZmU4LXBMZzNtaUdNNkU3bGhGaGlkVFluS09tVEg3OUJyR1VyNjdGSUVodlY1c3ZwQ2JNRHd4Zw?oc=5"
+    }
+  ]
+}

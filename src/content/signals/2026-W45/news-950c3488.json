@@ -1,0 +1,25 @@
+{
+  "id": "news-950c3488",
+  "issue": "2026-W45",
+  "module": "league",
+  "teams": [],
+  "source_type": "news",
+  "source_name": "연합뉴스TV",
+  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE52aHQ1Z05xSU1ycHh3OTJjTkdTRm03c1NNTERvZEhrRVJqRlJXVFJSUGNtcFpYN3dyZWtsdGFPeGxidmJPY1NlTElhWUllMVlzOVo4Z2RzTnN5WEd4UkxORnhkWjNmUEk?oc=5",
+  "title": "KS행이냐, PO 5차전이냐…뜨겁게 달아오른 광주",
+  "published_at": "2026-10-30T09:46:00.000Z",
+  "collected_at": "2026-10-30T21:38:12.914Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 72,
+    "relevance": 30
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1SZGxfbVE5T0dfSXdFdFpHeDFTX0phWTFRZnlqWmFidF9abmFYcFZVc3Y5TU1fZG1mc3ZMYU5qeHJ0bFg2cENpOUVHdi1EUXYwb05WcW9KYndLaE3SAWBBVV95cUxQSmZFd2lveTZnaFlXUXNqM0JaaXBZYzV2bFRGY1hfQ3dVZm5TMlYtN2JGYUNDaXFMZGdzUTVKcFhzbFI3bV9fX19vZGdoV0J2dWRhc3RyRnM1UG9mM0JhNk4?oc=5"
+    }
+  ]
+}

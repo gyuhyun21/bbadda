@@ -1,0 +1,26 @@
+{
+  "id": "youtube-3812284d",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "source_name": "plus플랜",
+  "url": "https://www.youtube.com/watch?v=lxHR4ToMclE",
+  "title": "26.10.30 대전 희락반점 #희락반점 #양장피 #유니짜장면 #성심당 #한화이글스 #중국집 #데이식스 #한페이지가될스있게",
+  "published_at": "2026-10-30T14:31:04Z",
+  "collected_at": "2026-10-30T21:38:12.914Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 413,
+    "likes": 2,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 33,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "community-7b3bf630",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&document_srl=10502406643",
+  "title": "도영양은 뭔가 근데 초고점이 아직 안 온거 같은데 - 야구",
+  "published_at": "2026-10-30T20:59:12.914Z",
+  "collected_at": "2026-10-30T21:38:12.914Z",
+  "summary_ko": "",
+  "excerpt": "... 엘지도 스타성 넘치는 선수가 있으면 응원이 더 재밌을텐데 [4]. 30 분 전 자유 오트윈스…",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

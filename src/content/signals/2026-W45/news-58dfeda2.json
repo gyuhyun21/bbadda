@@ -1,0 +1,23 @@
+{
+  "id": "news-58dfeda2",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9PaUw5VEZsR3RzS0RMTnRZRnBwUUlGMWt2VWY1TmVTQ0VWazRSVVExbHVjQlV4TjNKMlk4Z3ZnNXZmMS1lTldVTEM5RE1vUkZaLTRPVG14Vk9VeFNLMzlxel9vS1FtSnBOVDBrTXdPa9IBb0FVX3lxTE9PaUw5VEZsR3RzS0RMTnRZRnBwUUlGMWt2VWY1TmVTQ0VWazRSVVExbHVjQlV4TjNKMlk4Z3ZnNXZmMS1lTldVTEM5RE1vUkZaLTRPVG14Vk9VeFNLMzlxel9vS1FtSnBOVDBrTXdPaw?oc=5",
+  "title": "[포토] 6회초 등판한 곽도규",
+  "published_at": "2026-10-30T11:30:57.000Z",
+  "collected_at": "2026-10-30T21:38:12.914Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

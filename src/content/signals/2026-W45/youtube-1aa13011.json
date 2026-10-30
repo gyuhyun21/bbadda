@@ -1,0 +1,26 @@
+{
+  "id": "youtube-1aa13011",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "youtube",
+  "source_name": "쓱단장",
+  "url": "https://www.youtube.com/watch?v=pMWr2BBf--g",
+  "title": "두산 투수 종결 이거면 끝! 곽빈 도시락 준비하세요 #shorts #컴프야V26",
+  "published_at": "2026-10-30T14:59:59Z",
+  "collected_at": "2026-10-30T21:38:12.914Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 5241,
+    "likes": 54,
+    "comments": 11
+  },
+  "scores": {
+    "hot": 51,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

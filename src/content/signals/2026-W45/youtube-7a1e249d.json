@@ -1,0 +1,24 @@
+{
+  "id": "youtube-7a1e249d",
+  "issue": "2026-W45",
+  "module": "league",
+  "teams": [],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=g1g9VzJG3MI",
+  "title": "❤️💙 이거 플레이오프 이모지야",
+  "published_at": "2026-10-30T13:28:39Z",
+  "collected_at": "2026-10-30T21:38:12.914Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 20703,
+    "likes": 362,
+    "comments": 12
+  },
+  "scores": {
+    "hot": 63,
+    "relevance": 30
+  },
+  "sentiment": "neutral"
+}

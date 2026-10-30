@@ -1,0 +1,26 @@
+{
+  "id": "youtube-294caaae",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "youtube",
+  "source_name": "샤라즈",
+  "url": "https://www.youtube.com/watch?v=Cyd5rmb-Zbk",
+  "title": "스변ㅈ망 #두산베어스 #컴투스프로야구 #크보",
+  "published_at": "2026-10-30T16:15:35Z",
+  "collected_at": "2026-10-30T21:38:12.914Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 104,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 23,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

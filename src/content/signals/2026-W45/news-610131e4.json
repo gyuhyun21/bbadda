@@ -1,0 +1,22 @@
+{
+  "id": "news-610131e4",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9PVXVPVl9hMjJIQ3Y4al9ialM5bDZINk90ZVhPWnRPVGVOdW93QVpnbmVmN0xGb0xGV3FXeVZfRWNMVlhockVpTHI5ZDhtQ0ZDeENpcC1aa003UEVMYUR5aFd2TmdFMEN1b1FsWjBOb9IBb0FVX3lxTE9PVXVPVl9hMjJIQ3Y4al9ialM5bDZINk90ZVhPWnRPVGVOdW93QVpnbmVmN0xGb0xGV3FXeVZfRWNMVlhockVpTHI5ZDhtQ0ZDeENpcC1aa003UEVMYUR5aFd2TmdFMEN1b1FsWjBObw?oc=5",
+  "title": "[사진]삼성,'아쉬운 패배'",
+  "published_at": "2026-10-30T12:59:00.000Z",
+  "collected_at": "2026-10-30T21:38:12.914Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 80
+  },
+  "sentiment": "negative"
+}

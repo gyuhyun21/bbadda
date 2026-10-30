@@ -1,0 +1,24 @@
+{
+  "id": "community-bb353c30",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte",
+    "lg"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 스포츠맨이야",
+  "url": "https://blog.naver.com/sports_88/224459554158",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/EgemE4LZM1j",
+  "title": "\"15억 더 줬는데...\" 롯데와 LG의 엇갈린 포수 FA 선택",
+  "published_at": "2026-10-31T04:50:00.000+09:00",
+  "collected_at": "2026-10-30T21:38:12.914Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

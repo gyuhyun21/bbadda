@@ -1,0 +1,24 @@
+{
+  "id": "community-4f34352d",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "엠엘비파크",
+  "url": "https://mlbpark.donga.com/mp/b.php?m=search&p=1&b=kbotown&id=202610210119582208&select=spf&query=%ED%82%A4%EC%9B%80&site=donga.com&sig=h6jLSYtYkhTRKfX2hdaXHl-Ajhlq",
+  "title": "울산 풀리그 성적이라는데... 타격이 1군이나 2군이나",
+  "published_at": "2026-10-20T00:00:00.000Z",
+  "collected_at": "2026-10-30T21:38:12.914Z",
+  "summary_ko": "",
+  "excerpt": "... ‌26.10.21 울산-KBO Fall League 고양 성적 - 키움 히어로즈 갤러리2…",
+  "metrics": {},
+  "scores": {
+    "hot": 8,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "news-7608c2f1",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "조선일보",
+  "url": "https://www.chosun.com/sports/baseball/2026/10/31/GNTGMYRXMRSTSZJVHFSDKNJSHE/",
+  "title": "롯데 언제 이런 국대를 배출했나, 1위팀 55승 우완에 안타-안타 폭발! 설레는 11월 전역→이동욱호 힘 보탤까",
+  "published_at": "2026-10-30T21:11:00.000Z",
+  "collected_at": "2026-10-30T21:38:12.914Z",
+  "summary_ko": "조선일보는 11월 전역을 앞둔 롯데 선수가 1위 팀 55승 우완을 상대로 안타를 연달아 쳤다고 전했다. 이동욱호에 힘이 될지 주목했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 84,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBCanpRb1BEUzZNLUlhU01uZVBDa2tlRmVHQTJXZEctMktKWUFMYlRGSUNFOURHQ244TFJmVDRoM0hub0RvY040N3hsUlpIWkNnV3lCdzUxX0tEcnctRTUtZnhlSHgxQkRvTXfSAW9BVV95cUxPLTR1ekJDTXhTUlhNMF9yU3J1S1hKeVJwWEJqNzJFd3duNUxYQU9qX21pSnJoU0VEeTc0SUpCNnlJOVhacExfSmRrbXRCTTU4WXUyaUI3Z2VrZWFJUzZVekMtMG10cm9fYk1IVU9NRlE?oc=5"
+    },
+    {
+      "source_name": "OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9GanNDVGtHRnVrUzRNcElScVNva2FPcEg4ZklpLXFCTGloT1Rka0lLNWl1ZHBnNmxvSlNBRG1OYUpmSi16MHVsTk15WDY4dGQ3UmkzQw?oc=5"
+    }
+  ],
+  "brief_ko": "11월 전역, 이동욱호 합류 기대"
+}

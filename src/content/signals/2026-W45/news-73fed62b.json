@@ -1,0 +1,23 @@
+{
+  "id": "news-73fed62b",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "조선일보",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSjc1Z0ZVZjRmMTFuZ2VzY0tKdmdwNmpUQ2hseE00Y1l2Z0NETzdqR1hpWVhzbng1MXdFR0NmNF9rSS0xOXFlZUJvMHZTVVhSSFlxamJPZmlWX25JY0NmY2NsMW5ERkVJQ3NPaEFPS0ZfclFuN3dGQ3c3Ny0tZkxKUXNoQQ?oc=5",
+  "title": "\"너 때문에 마무리 못했잖아\" 설욕전 나설 에이스 향한 진심 \"너 뒤에 나 있다\"[PO3 현장]",
+  "published_at": "2026-10-30T07:32:00.000Z",
+  "collected_at": "2026-10-30T21:38:12.914Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

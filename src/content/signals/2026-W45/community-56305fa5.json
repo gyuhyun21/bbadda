@@ -1,0 +1,24 @@
+{
+  "id": "community-56305fa5",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "더쿠",
+  "url": "https://theqoo.net/kbaseball?group_srl=185338643&page=7",
+  "title": "국내야구",
+  "published_at": "2026-10-29T23:38:12.914Z",
+  "collected_at": "2026-10-30T21:38:12.914Z",
+  "summary_ko": "",
+  "excerpt": "... 기아) 어릴떄 기아 캐치프레이즈 새로만든데서 며칠 밤새 고민해서 냈거든? · 기아) 이기니까 좋다 ·…",
+  "metrics": {},
+  "scores": {
+    "hot": 60,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

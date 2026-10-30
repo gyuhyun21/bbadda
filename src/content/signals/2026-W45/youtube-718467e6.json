@@ -1,0 +1,27 @@
+{
+  "id": "youtube-718467e6",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "기아타이거즈 KIA TIGERS",
+  "url": "https://www.youtube.com/watch?v=_m3RCjjQfbI",
+  "title": "끝까지 포기하지 않는 저력의 타이거즈! 한준수 조상우 전상현 네일 카스트로 김도영  PO 4차전 승리직후 (10.30)",
+  "published_at": "2026-10-30T16:57:04Z",
+  "collected_at": "2026-10-30T21:38:12.914Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 39748,
+    "likes": 1684,
+    "comments": 291
+  },
+  "scores": {
+    "hot": 91,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

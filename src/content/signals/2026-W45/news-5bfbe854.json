@@ -1,0 +1,23 @@
+{
+  "id": "news-5bfbe854",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "www.xportsnews.com",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5GT2xfc0FlMDE4ZVR4aktmLW5Gc29VQmNzQzNmZUJueUZCM2hqVFNwcDlRc2lVSzc3S2dXUEpnTmdVSS1oOFZjdnkyaTZBX1FwTEFRaA?oc=5",
+  "title": "테니스장 야간 특타 전통 사라졌다?…NPB 우승팀 훈련장 대관했네→\"2군 성과 미미하면 인식 변화 필요\" 어린왕자 채찍질 [미야자키 현장]",
+  "published_at": "2026-10-30T16:45:44.000Z",
+  "collected_at": "2026-10-30T21:38:12.914Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

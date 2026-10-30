@@ -1,0 +1,26 @@
+{
+  "id": "youtube-8440e608",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "youtube",
+  "source_name": "탱짱일기 Beyond Daily",
+  "url": "https://www.youtube.com/watch?v=7MyftkYJrCQ",
+  "title": "슈퍼소닉 이대형 #이대형 #LG트윈스 #shorts",
+  "published_at": "2026-10-30T15:36:06Z",
+  "collected_at": "2026-10-30T21:38:12.914Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1138,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 34,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

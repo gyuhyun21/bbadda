@@ -1,0 +1,23 @@
+{
+  "id": "news-c34d5622",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "조선일보",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNX2YtTnhlUjlaa3FoTVJFVmNhYkE3TWVLOFBiZVFiajFLRzFVYzREU2hxa3VabjVHSEhHOUtZa0RoZkI1U1Z3X095V0pxeS1IamtjbmRHSU8xOHZ0Mzc4OENGZno1OVN3eFFURmhpeEZyZlpIMFUtWkJZbGo2dlJ5a0dqOA?oc=5",
+  "title": "'양현종 vs 원태인' 백의종군 헌신 대결 → 3일 쉰 선발 대결 만큼 중요하다 [PO4]",
+  "published_at": "2026-10-30T09:37:00.000Z",
+  "collected_at": "2026-10-30T21:38:12.914Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

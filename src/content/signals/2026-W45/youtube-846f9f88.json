@@ -1,0 +1,26 @@
+{
+  "id": "youtube-846f9f88",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "youtube",
+  "source_name": "KT전광판",
+  "url": "https://www.youtube.com/watch?v=FO_LIiuLgHE",
+  "title": "26 10/30  승리의 함성  #kt위즈  #ktwiz  #야구 #수원 #케이티위즈 #직관 #수원kt #마법의성 ",
+  "published_at": "2026-10-30T14:28:32Z",
+  "collected_at": "2026-10-30T21:38:12.914Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 6,
+    "likes": 0,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 49,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

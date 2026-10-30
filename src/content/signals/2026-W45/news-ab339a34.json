@@ -1,0 +1,23 @@
+{
+  "id": "news-ab339a34",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "뉴시스",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE56T3BUQXNoNlAxaDNhbUdYRi1qUi1rNEdNaXI2ckM1MGdyYXNEa2VhMHF4M3ctR0Y4OTlWdEpMVE9BRGJsWldQQS1FdE5pbDRRakJJcEVfdFdLUnFwRzZCbNIBeEFVX3lxTE1wUHpxd0hDVC1NWWxrYWVGYnZGb19QdXB5UmVxMUhleUIzclpNcXhTY08wQVN6bXNsOTlVeWUzSDhJc2dZOXQ0U3J5OUFpeWhSZVV3TTFzb3R6Umh1RWNEY3k5Rk5NT1lmVDNBeWEtelBZOWtjSHAtSg?oc=5",
+  "title": "KIA, 삼성 4-2로 꺾고 대구서 마지막 승부…'3안타' 한준수, MVP(종합)[PO]",
+  "published_at": "2026-10-30T12:50:58.000Z",
+  "collected_at": "2026-10-30T21:38:12.914Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

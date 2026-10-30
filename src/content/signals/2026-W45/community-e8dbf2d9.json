@@ -1,0 +1,23 @@
+{
+  "id": "community-e8dbf2d9",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 인사이트 캐비닛",
+  "url": "https://blog.naver.com/rkdkspt-no1/224459614961",
+  "title": "한준수 결승타! KIA 삼성 4차전 4대2 역전승, 7회말 극적인 순간",
+  "published_at": "2026-10-31T03:00:00.000+09:00",
+  "collected_at": "2026-10-30T21:38:12.914Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

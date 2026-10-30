@@ -1,0 +1,24 @@
+{
+  "id": "community-8aacd450",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&page=5&document_srl=10502293991",
+  "title": "포성우가 그리운밤 - 야구",
+  "published_at": "2026-10-30T17:38:12.914Z",
+  "collected_at": "2026-10-30T21:38:12.914Z",
+  "summary_ko": "",
+  "excerpt": "... 근데 KT 그 배트 ㄹㅇ ㅈ되는거같음 [1]. 1 시간 전 자유 첼붕이 조회460 추천1.…",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

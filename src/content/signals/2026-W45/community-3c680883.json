@@ -1,0 +1,24 @@
+{
+  "id": "community-3c680883",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 야구보는중 | ㄴr...는 매일.. 누워서..야구를 본ㄷr",
+  "url": "https://blog.naver.com/sportsb-s/224459701470",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/CxDwzl0AHrO",
+  "title": "\"중견수 FA 최대어는 최지훈일까 김호령일까?\" 결국 갈리는 건 \"이 차이\"",
+  "published_at": "2026-10-31T03:10:00.000+09:00",
+  "collected_at": "2026-10-30T21:38:12.914Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

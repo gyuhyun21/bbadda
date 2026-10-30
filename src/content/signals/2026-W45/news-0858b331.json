@@ -1,0 +1,22 @@
+{
+  "id": "news-0858b331",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "뉴시스",
+  "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ndFNMc2k2VnEyNnJaS0VBcXBRM1lmbXRNNXdLT3BlTFVMUTBjUHExdEl1cEFoODlvZllQX0c1ZllOWW1JSnJUbGhNY3FDM1JMOUhVUWRxdHpodTkxbExDRmozYmFUWUdRdXFZdW9xMXlSZS1FNkR5bdIBeEFVX3lxTE9ndFNMc2k2VnEyNnJaS0VBcXBRM1lmbXRNNXdLT3BlTFVMUTBjUHExdEl1cEFoODlvZllQX0c1ZllOWW1JSnJUbGhNY3FDM1JMOUhVUWRxdHpodTkxbExDRmozYmFUWUdRdXFZdW9xMXlSZS1FNkR5bQ?oc=5",
+  "title": "'배찬승 1구 만에 교체'…삼성 박진만 감독 \"운용 잘못했다\"[PO]",
+  "published_at": "2026-10-30T13:35:46.000Z",
+  "collected_at": "2026-10-30T21:38:12.914Z",
+  "summary_ko": "뉴시스에 따르면 삼성 박진만 감독이 배찬승을 1구 만에 교체한 것을 두고 \"운용 잘못했다\"고 말했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 80
+  },
+  "sentiment": "neutral"
+}

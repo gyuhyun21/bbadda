@@ -1,0 +1,23 @@
+{
+  "id": "news-af000d39",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1OYktQVWpmUkNhTldBX2JpX3FvRmxfdmQ3UFNDWGlVSDJuNkk4c3lpd2d2eHZXel9YNXVTVE9zemQ2QUtUd0RYRjlNOUJMQVZSNkJwdFVqZWJIQ3p0VFJjS05IOS0wZ0luVEMzMllJQdIBb0FVX3lxTE1OYktQVWpmUkNhTldBX2JpX3FvRmxfdmQ3UFNDWGlVSDJuNkk4c3lpd2d2eHZXel9YNXVTVE9zemQ2QUtUd0RYRjlNOUJMQVZSNkJwdFVqZWJIQ3p0VFJjS05IOS0wZ0luVEMzMllJQQ?oc=5",
+  "title": "[사진] 빠지는 타구 바라보는 하주석과 김선빈",
+  "published_at": "2026-10-30T10:12:00.000Z",
+  "collected_at": "2026-10-30T21:38:12.914Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

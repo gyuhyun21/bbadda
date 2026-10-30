@@ -1,0 +1,26 @@
+{
+  "id": "youtube-e837fd79",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "source_name": "짬뽕순대",
+  "url": "https://www.youtube.com/watch?v=YpBW2H5to5U",
+  "title": "한화이글스 시구갈때까지 한화노래 부르기 7일차 늦어서 죄송합니다 #야구 #한화이글스",
+  "published_at": "2026-10-30T14:38:26Z",
+  "collected_at": "2026-10-30T21:38:12.914Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 4,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 8,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

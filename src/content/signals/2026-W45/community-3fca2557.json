@@ -1,0 +1,24 @@
+{
+  "id": "community-3fca2557",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 워니공",
+  "url": "https://blog.naver.com/ljw79486/224459769681",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/HWYTK0SiZUz",
+  "title": "2026프로야구 집중력잃어버린 삼성라이온즈 실책과 기회날리며 플레이오프 4차전 기아타이거즈 역전패...",
+  "published_at": "2026-10-31T06:04:00.000+09:00",
+  "collected_at": "2026-10-30T21:38:12.914Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}
