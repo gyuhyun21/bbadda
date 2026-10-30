@@ -1,0 +1,25 @@
+{
+  "id": "news-8a9b2318",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "한겨레",
+  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9DSXRIMTdKVHRhaEc0dWNCbDNGSy1zczZ1cURwaEhabWFZYXJlQUE3SVhXVFhEZzlJb2tvelpiYVRKTi16WVBYRzQ1bkpRLUEwME1XS251ZTFjdXFOTzdmSmhyZjFULWs?oc=5",
+  "title": "실책 3개에 무너진 사자…벼랑 끝 호랑이, PO 2승2패 원점",
+  "published_at": "2026-10-30T12:46:00.000Z",
+  "collected_at": "2026-10-30T14:03:28.928Z",
+  "summary_ko": "한겨레는 삼성이 실책 3개에 무너져 KIA에 패하며 PO가 2승 2패 원점이 됐다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "negative",
+  "brief_ko": "실책 3개에 PO 2승 2패"
+}

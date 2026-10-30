@@ -1,0 +1,28 @@
+{
+  "id": "news-4a804145",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "연합뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBFVkhRLWU0RmtOdzVfYWZpYnRjU2o0djdfdFRJQjNZdUt1RUh3YVYyR3Q5NkRXeWJoaXZMdUdIR3NVYUxSaDluNE5hYy0yN24wZHBPLW04VnFLYmfSAWBBVV95cUxQemtDdnlSemt2ODM4US0xR1VYb3NOUUNuYjJORS1FTVpodm1pblo0eWkyTmM4SDZ4QlJVa19SQVZvaGwyLUFGaEF1aGZOY3RMRFVjRmg3TUFxQUhJZHJucjg?oc=5",
+  "title": "'공 1개로 김도영 제압' 삼성 사토시 \"야구 인생 최고의 장면!\"",
+  "published_at": "2026-10-30T08:32:37.000Z",
+  "collected_at": "2026-10-30T14:03:28.928Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB5M1BwZUJ2dFpXdExhWUhYblZjREdhNkhxTU91d3phMGludTZDTzE4SHNCRXpaOXhNSldZcEo1RWI5UUIzUUhjUENaM19tSzJHdHE3VUlVZXgwZGtwVmxndmtCM21uelpmMzN6bGZzaHRmVFg5X0cwNNIBeEFVX3lxTFB5M1BwZUJ2dFpXdExhWUhYblZjREdhNkhxTU91d3phMGludTZDTzE4SHNCRXpaOXhNSldZcEo1RWI5UUIzUUhjUENaM19tSzJHdHE3VUlVZXgwZGtwVmxndmtCM21uelpmMzN6bGZzaHRmVFg5X0cwNA?oc=5"
+    }
+  ]
+}

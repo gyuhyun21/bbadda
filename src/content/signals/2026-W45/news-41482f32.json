@@ -1,0 +1,28 @@
+{
+  "id": "news-41482f32",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9xeHl3dWRRSFI4YXU0Wk1RdUY4emRPQmFEN0pVYy00QVB1eG9NQVVsa1NGRk9SVVNKYlFQTk02elZHRWVfYy0tQVhPM19kWnc2SUJHX0tjeHdUNi1JNlNsOFh0cHlHelVrZkwtd0dXUdIBb0FVX3lxTE9xeHl3dWRRSFI4YXU0Wk1RdUY4emRPQmFEN0pVYy00QVB1eG9NQVVsa1NGRk9SVVNKYlFQTk02elZHRWVfYy0tQVhPM19kWnc2SUJHX0tjeHdUNi1JNlNsOFh0cHlHelVrZkwtd0dXUQ?oc=5",
+  "title": "‘'라이온즈의 미래가 자란다' 삼성 내야수 이한민, 9월 올곧은병원 퓨처스 MVP 영예",
+  "published_at": "2026-10-30T06:41:00.000Z",
+  "collected_at": "2026-10-30T14:03:28.928Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 81,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "경북매일",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE01OUVkNHJJb3VGS0RHY21nQ0o5QnBXY214MG5PTHhGcEI1Y01tUFZCMlZDaE1sbDhuLTYweUx1dzVwd05BRDBZUDEwS28wWGFjRnMxOUpxNFhCdw?oc=5"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "community-64838e9d",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 실전정보",
+  "url": "https://blog.naver.com/insure_82/224459497818",
+  "title": "KIA, 삼성에 4:2 승리! 최형우 홈런에도 웃지 못한 삼성",
+  "published_at": "2026-10-30T21:53:00.000+09:00",
+  "collected_at": "2026-10-30T14:03:28.928Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

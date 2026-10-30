@@ -1,0 +1,23 @@
+{
+  "id": "news-3432f4c3",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20261030_0003849094",
+  "title": "'벼랑 끝 탈출' KIA 이범호 감독 \"광주서 마지막 안 되도록 최선 다해\"[PO]",
+  "published_at": "2026-10-30T13:40:28.000Z",
+  "collected_at": "2026-10-30T14:03:28.928Z",
+  "summary_ko": "뉴시스에 따르면 벼랑 끝에서 벗어난 KIA 이범호 감독이 광주에서 시리즈가 끝나지 않도록 최선을 다했다고 밝혔다.",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "이범호 감독, 벼랑 끝 탈출 소감"
+}

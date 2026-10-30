@@ -1,0 +1,29 @@
+{
+  "id": "youtube-a6515554",
+  "issue": "2026-W45",
+  "module": "league",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "team": "kia",
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=ZrA3pIG0JEA",
+  "title": "7회 말, KIA 카스트로를 시작으로 한준수와 하주석으로 이어진 역전 빅이닝!!! | PO4_삼성 vs KIA | 10.30 | 크보모먼트 | KBO 야구 하이라이트",
+  "published_at": "2026-10-30T13:03:29Z",
+  "collected_at": "2026-10-30T14:03:28.928Z",
+  "summary_ko": "KBO 공식 채널이 7회말 KIA의 역전 빅이닝 장면 영상을 올렸다.",
+  "metrics": {
+    "views": 4557,
+    "likes": 449,
+    "comments": 58
+  },
+  "scores": {
+    "hot": 83,
+    "relevance": 80
+  },
+  "sentiment": "neutral",
+  "brief_ko": "7회말 KIA 역전 빅이닝"
+}

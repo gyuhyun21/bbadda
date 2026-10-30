@@ -1,0 +1,33 @@
+{
+  "id": "news-c4788dfc",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://www.mt.co.kr/sports/2026/10/30/202610302159777847O",
+  "title": "‘KS 눈앞에서 뼈아픈 역전패’ 박진만 감독, 실책한 선수 감쌌다…“빨리 잊고 5차전 준비하길” [PO4]",
+  "published_at": "2026-10-30T13:02:00.000Z",
+  "collected_at": "2026-10-30T14:03:28.928Z",
+  "summary_ko": "머니투데이에 따르면 삼성 박진만 감독은 실책한 선수를 감싸며 빨리 잊고 5차전을 준비하길 바란다고 말했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 92,
+    "relevance": 70
+  },
+  "sentiment": "negative",
+  "also_in": [
+    {
+      "source_name": "OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9xQVJxdlZYeXZCblJsTkFTMG5LYUZRcHhCc2VrcHM1ZkgzcXhqLW1HeVBvNXl4dmFhNHlrcFQtVGcxX2NWYU1raDdRUVhoLVZ1enNobw?oc=5"
+    },
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbWdwODVCZzZCcWJtVmN2NVFQMFRrUjFBdHZmb1FmQXdtRGdmZ2M5SlI1Y01rcXVrbUFqZkZzdTVZaWxHN0hkYTJsbGZlcTlrSG14WkdPd081N3d4aEg2cHZwc2duV09TdkdIeDlnaEh4ck42SnN1cHZKZm9GZXFVb2FCSQ?oc=5"
+    }
+  ],
+  "brief_ko": "박진만, 실책 선수 감쌌다"
+}

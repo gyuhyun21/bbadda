@@ -1,0 +1,30 @@
+{
+  "id": "community-8b5c367c",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 homeby_A N N A_",
+  "url": "https://blog.naver.com/cuteandsexy0/224459511753",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/J4nrxmt8mSj",
+  "title": "KIA 삼성 격돌 플레이오프 5차전 간다",
+  "published_at": "2026-10-30T22:10:00.000+09:00",
+  "collected_at": "2026-10-30T14:03:28.928Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 100,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9uSjQtTC1ULVQ4bzJxLThiY1hPNFhmQ3pvelR5Q2NySlpYTkJiemNLNVBlZ1BlS2lGWkxyTW00amU4dG9uUVNvN0x6X0p4RkF3ZDRFclBObGdvVGp5MHN6ZjFUcTdyZlJ2eGp1Z05jYzJPa081NEtGeNIBeEFVX3lxTE9uSjQtTC1ULVQ4bzJxLThiY1hPNFhmQ3pvelR5Q2NySlpYTkJiemNLNVBlZ1BlS2lGWkxyTW00amU4dG9uUVNvN0x6X0p4RkF3ZDRFclBObGdvVGp5MHN6ZjFUcTdyZlJ2eGp1Z05jYzJPa081NEtGeA?oc=5"
+    }
+  ]
+}

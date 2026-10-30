@@ -1,0 +1,23 @@
+{
+  "id": "news-21747cf1",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "경북매일",
+  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5jRnotZGhld052Z3g4ZnJOcmZYczN6aHBjS3FrTllEQnJGczRjNG93V1h2bUxFOVh6V0ptV2U0eU9Ham1HbHgyek9yejdzSFg5T3UxZEtPMVlHQQ?oc=5",
+  "title": "삼성, 다 잡은 승리 놓쳤다…KIA에 2대 4 역전패",
+  "published_at": "2026-10-30T13:36:00.000Z",
+  "collected_at": "2026-10-30T14:03:28.928Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "news-396f40b1",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE81cnNuRmtzZVhQSGhDdXQ5Z1dsWW1acUxkZkhiMmpNalcta1F3TW4tM3dDdHRsbkdOVGRzZDBxYUhFRUNsVF9DWmJWYkdMUHNMSkRwc255akZmc0dFTHF5b0t0bFI3YVd4OU1MY2l2RdIBb0FVX3lxTE81cnNuRmtzZVhQSGhDdXQ5Z1dsWW1acUxkZkhiMmpNalcta1F3TW4tM3dDdHRsbkdOVGRzZDBxYUhFRUNsVF9DWmJWYkdMUHNMSkRwc255akZmc0dFTHF5b0t0bFI3YVd4OU1MY2l2RQ?oc=5",
+  "title": "지명타자가 3명? 1위팀 파격 라인업 떴다! ‘韓국대 상대’ KS 최종 평가전 인기 폭발 “예매만 8000석” [오!쎈 수원]",
+  "published_at": "2026-10-30T07:56:00.000Z",
+  "collected_at": "2026-10-30T14:03:28.928Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 82,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBYaXVyUHpQVkdKSlpQdmJUVHktTnVKazdvV1NUZ3FzZVlyR3VWaGxCMlNUVTF2ZHFGWXJadzJOMlFkcE02TWVkdGdnbDEzU282QlVUQw?oc=5"
+    }
+  ]
+}

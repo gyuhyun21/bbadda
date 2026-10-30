@@ -1,0 +1,25 @@
+{
+  "id": "youtube-5b29ca68",
+  "issue": "2026-W45",
+  "module": "league",
+  "teams": [],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=2IBCn_Pk7kI",
+  "title": "[2026 신한 SOL KBO 플레이오프 4차전 - 경기결과]",
+  "published_at": "2026-10-30T12:56:24Z",
+  "collected_at": "2026-10-30T14:03:28.928Z",
+  "summary_ko": "KBO 공식 채널이 PO 4차전 경기 결과 영상을 올렸다.",
+  "metrics": {
+    "views": 4717,
+    "likes": 348,
+    "comments": 19
+  },
+  "scores": {
+    "hot": 84,
+    "relevance": 30
+  },
+  "sentiment": "neutral",
+  "brief_ko": "PO 4차전 경기 결과"
+}

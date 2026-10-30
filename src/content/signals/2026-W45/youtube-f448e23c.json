@@ -1,0 +1,26 @@
+{
+  "id": "youtube-f448e23c",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "youtube",
+  "source_name": "너루너",
+  "url": "https://www.youtube.com/watch?v=1-W1jaXdWNg",
+  "title": "롯데자이언츠 손성빈 응원가music video",
+  "published_at": "2026-10-30T11:07:38Z",
+  "collected_at": "2026-10-30T14:03:28.928Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1,
+    "likes": 1,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 44,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

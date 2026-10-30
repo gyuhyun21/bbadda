@@ -1,0 +1,29 @@
+{
+  "id": "news-a8f41c28",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "한스경제",
+  "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=878317",
+  "title": "최형우, KIA 곽도규에 역전 솔로포… 삼성 2-1 리드",
+  "published_at": "2026-10-30T11:29:25.000Z",
+  "collected_at": "2026-10-30T14:03:28.928Z",
+  "summary_ko": "한스경제에 따르면 삼성 최형우가 KIA 곽도규를 상대로 역전 솔로포를 쳐 삼성이 2-1로 앞섰다.",
+  "metrics": {},
+  "scores": {
+    "hot": 91,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4yRXB3ME1ma2ROcUJUUlYwLThsUFUtUHhRNFUtRW5kVmlyRG5ndVV5b29nZHRJcWJaN1RaSU5MSUl3eTFaRE9LWkxReTRkOG9zODNiYWZ2dEpqbEhKdm1adNIBeEFVX3lxTFBuVmVDTVR2TWpEOFRwQ0pESllMV0EzeTI1MzZ2MWRfdy1xb0htQmljckVLbVlVc1ZfdUxJVnpBaWFCTDlPX09YWDNsNjFMR1hyNF9iSHgwei1YUkwtZ0RrWkZxTmJ2U1JnbTVZOHlUMDlWTFQ3V0RmMw?oc=5"
+    }
+  ],
+  "brief_ko": "최형우 역전 솔로포, 삼성 2-1"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "news-7d2f4a25",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "OSEN",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5yRUhhSmJ0VGJIb1lldXFSWWkwVGRoenZUN2dnSFRKU2hZSVpxbTVsci0yNkxiXzg5VHNfTV91NmFVZFNwQ0ZPYWJQTURuRHczWnQ1Zw?oc=5",
+  "title": "[사진] 플레이오프 경기 5차전으로 끌고 간 KIA 타이거즈 선수들",
+  "published_at": "2026-10-30T12:46:00.000Z",
+  "collected_at": "2026-10-30T14:03:28.928Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 84,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZlR1aXIxa1FSay1SSnF3RVdvdU1INEJWNk5GZmRTTVZiWkdvemVDSlRwTjFTMWhUMkJRYUg1TW5wX1R1aE5NUEdsR1l1X3pWNDh0ZzB0bUJUbGVvaHY1djg3MmNuVzZ2YWNfNWk1TElNOXlQM2piRXU3NG42N2NNeTBVNE5pRjRD?oc=5"
+    }
+  ]
+}

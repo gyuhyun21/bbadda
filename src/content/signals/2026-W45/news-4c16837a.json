@@ -1,0 +1,23 @@
+{
+  "id": "news-4c16837a",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1uMFoxcUdpbVdXRVFVczJ2aTU4cFVlc1hnb2NDNF81eTdwQmZPZ1hWNms5MHFfclk2WDdkTS1WWGg3XzE0dWJlYVBiQm9WYjZNZTBkUmRuRnBCbVdTbW9DcE8zSGVRZmVEMGI3dHM4Z9IBb0FVX3lxTE1uMFoxcUdpbVdXRVFVczJ2aTU4cFVlc1hnb2NDNF81eTdwQmZPZ1hWNms5MHFfclk2WDdkTS1WWGg3XzE0dWJlYVBiQm9WYjZNZTBkUmRuRnBCbVdTbW9DcE8zSGVRZmVEMGI3dHM4Zw?oc=5",
+  "title": "[포토]'2회초 안타로 출루한' 김영웅",
+  "published_at": "2026-10-30T10:16:47.000Z",
+  "collected_at": "2026-10-30T14:03:28.928Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 91,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

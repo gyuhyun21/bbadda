@@ -1,0 +1,24 @@
+{
+  "id": "youtube-3db435aa",
+  "issue": "2026-W45",
+  "module": "league",
+  "teams": [],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=nYB3pblekBk",
+  "title": "큰 포물선을 그리며 담장을 넘기는 베테랑 최형우의 역전 홈런🔥",
+  "published_at": "2026-10-30T11:52:34Z",
+  "collected_at": "2026-10-30T14:03:28.928Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 6133,
+    "likes": 173,
+    "comments": 19
+  },
+  "scores": {
+    "hot": 70,
+    "relevance": 30
+  },
+  "sentiment": "positive"
+}

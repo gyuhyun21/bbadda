@@ -1,0 +1,29 @@
+{
+  "id": "community-e1e46025",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 덕이매거진 | 스포츠에 진심인 덕후 오리",
+  "url": "https://blog.naver.com/schinmagazine/224459500740",
+  "title": "1차전 5실점 악몽 지웠다…페덱, 3일 쉬고 4차전서 5⅓이닝 1실점 호투",
+  "published_at": "2026-10-30T21:56:00.000+09:00",
+  "collected_at": "2026-10-30T14:03:28.928Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNYmh0MkpsaVhLSXV6Q2dwU214anVHVG42bGI4eDl0Q21LQzFZRlFwa2lCWlBPZ3pHZ0JkNERoeDVlbF9xeHBEVEFBdTFlQTRoNXJFYmNJYWhNZXE4UzdSMXlPVFVyMU1hRDVJbWVySy0wLTVhM0pfa1BpZVpNczBBUmthVQ?oc=5"
+    }
+  ]
+}

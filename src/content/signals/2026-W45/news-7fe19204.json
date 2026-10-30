@@ -1,0 +1,33 @@
+{
+  "id": "news-7fe19204",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "연합뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE16V3JqQ0JxZGZxVE9CWU1iZTVZTFY3bEFHdWJrTGJMNkdWM3pteTJYa3psMkQzUWJ2ZnFJVUFySXoxeXdLTXplYTRrQjFDa2YyTVBtZFpxTDl1TlHSAWBBVV95cUxNWmJlY1ZaNjR4X0I1dG40X2dRTEk1VmtrRUxDa29xRmRNRExRNjB3NUhjSHNGNzhqMFY5YkRsUGJjOGlDN25kTnBTaGlzZ202clF4bHRtWkxfU2MzdTFVaFU?oc=5",
+  "title": "KIA, 7회 삼성 실책 틈타 3득점 뒤집기…대구서 PO 끝장승부(종합)",
+  "published_at": "2026-10-30T12:43:03.000Z",
+  "collected_at": "2026-10-30T14:03:28.928Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 100,
+    "relevance": 70
+  },
+  "sentiment": "negative",
+  "also_in": [
+    {
+      "source_name": "톱스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5OeFpJZjNubDYtcXlKX1g4bTV1bVJWSURWamxtWkllZ21MY0VubDd5QVIxTkRhYmI1LWdZSDFuUEh2emRGZzh0X3FmUGU1U1lNZU9zVEZpNWhjS1NCUUVZVUFaVGVsNXRHR19GMmJ0VXRWQQ?oc=5"
+    },
+    {
+      "source_name": "news.sbs.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQaHJxNWdWa0UzWXA1dFpoMlV3VC1HVm9EYnlHMERBazBac2hLbEVtb3lmeEJQY2FyVFZJOUFCNjl3Y0VITEJUcEE4M3ZFbUJnV194eHBQcWktblRvZXpnYlR4NzFzNFFmRUlxT0Q2ZlRhcnNLNWNHeDNsYkpUZGhoZHQzbi1zcWFvcWxUVDNhQQ?oc=5"
+    }
+  ]
+}

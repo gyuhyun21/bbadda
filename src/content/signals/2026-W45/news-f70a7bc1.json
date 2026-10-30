@@ -1,0 +1,29 @@
+{
+  "id": "news-f70a7bc1",
+  "issue": "2026-W45",
+  "module": "league",
+  "teams": [],
+  "source_type": "news",
+  "source_name": "OSEN",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1vVXdzc1g1ekdHdHd0dHh6S0FSSmY0RUZ2dy1oT1lRenlRSVhnUW1OTTFJblBVNy0xdjMwOFZqMFFILWlwUnFVUUpheHpUUVA2cFNEVA?oc=5",
+  "title": "[사진] 네일, 2번 이기고 한국시리즈 간다",
+  "published_at": "2026-10-30T09:39:00.000Z",
+  "collected_at": "2026-10-30T14:03:28.928Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 82,
+    "relevance": 30
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVWpMWWdVNndZa2ZFYUt1SC05MFVyZXFnc0dNX2Yzb29QQkUycnBRMlVlWHVsa0l0RVJjaWdpaDJrR0puM2hKcThVdFdXb29oYkk1VHBYYXVPRk5HUVpkX1M4ZDFBY0dvR1o2eDV2bWtsVW0xdDVhdlRub0xKdFd0M2VNOTZfUTVR0gGcAUFVX3lxTE1sSlIyM3c4bFRrT0ZjcDU1MmlFSUYzaTR5Q1hfVE5jeHF2R2pDNFBuMTBRc0l6NGpOYVZTTUY5SEN0cGhoMm9tNHJXSmxUQ1o4QTRsakQyVFN3UExrZHk4YkJOU3cxLWxaN2VReVpBenF6ZHhwVE9Da2ZOUGwtNHhHZ2xXTnVscUpVSTNjdkotU21WMzlLQ01IYWgwaA?oc=5"
+    },
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOTZhWmg1T3hvRGdPSE4xUzNkUkRsVU90ZTFiUEY1WDVhRmstS241dTdEU2pDa0VzNVJ6ZFc1cHJDZzdPbEJFaXA5WkFpT2plTjU3ZGhOUTdNbWpXSUNmUEltbzRlSFFLOFVTNHZXSC11Z3F5b0lINVZGanJ1bmhlMEpwaWNYcTFo?oc=5"
+    }
+  ]
+}

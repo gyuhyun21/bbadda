@@ -1,0 +1,28 @@
+{
+  "id": "youtube-47dfc4f7",
+  "issue": "2026-W45",
+  "module": "league",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "team": "samsung",
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=uAx3WQSsWnw",
+  "title": "어제에 이어 오늘도 이어지는 타격감! 삼성 류지혁의 선제 적시타! | PO4_삼성 vs KIA | 10.30 | 크보모먼트 | KBO 야구 하이라이트",
+  "published_at": "2026-10-30T10:25:55Z",
+  "collected_at": "2026-10-30T14:03:28.928Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 20104,
+    "likes": 121,
+    "comments": 12
+  },
+  "scores": {
+    "hot": 56,
+    "relevance": 80
+  },
+  "sentiment": "neutral"
+}

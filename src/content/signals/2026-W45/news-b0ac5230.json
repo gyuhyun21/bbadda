@@ -1,0 +1,29 @@
+{
+  "id": "news-b0ac5230",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "한스경제",
+  "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAyLUJHbngxU2gyUVQ2REZYb2xBY0NBS1BSQnFkcE03aWlEWkRfck9wX1lDVEVpT2lzNzc0OWdtNEt3SFFSbjV2Y0JVNmp3dndwQ1dIcVMzWmZZRUg0MkkxTFhtYXRmYXdKRUhB0gFvQVVfeXFMUG9ZcVh1eDVzTXBRQ0JzZVFYNW9ickN4NkUzN2tnZ3JJNVpyMUV6MWNTU1VPTWxGXzd2OS1hcXo4ZnRjdVFNOVlZTG1adlVPbW9WVEtLZkNtalNRVWI1dlF2YWhhSXVMc2cxNDhGakRz?oc=5",
+  "title": "'기사회생' KIA, PO 4차전 삼성에 역전승… 다시 대구로",
+  "published_at": "2026-10-30T12:34:05.000Z",
+  "collected_at": "2026-10-30T14:03:28.928Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "중앙신문",
+      "url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxNZ2xJaXIyakVIWHBwZFdkSnVPTG45UllYVV9rZVZKWndKdm14V0x1VHFKNGF1TFhvQzFfVGVwWVZwU0JJNHdrMHotNzZOdXNOUVNfWXFlVEhrcnFfR0xQLW1vR3UwV3hnUF9qMHRKWWJLZG1jQkFDeTl0MHptMnVwYUY5QXFpbTVhUXpiZy1VN1FRejhZRkVwMTg1VGFmcFE1Y2ZYWGlNbUR3TWhLZG1nQ1VtSTZ4R3RiX2NCZ25oVjFzSnlhdFhBcGhXZ2ZzNHNPdTFMN1RJMVFUdTctQkdWTlhUaWg0QThBZF8zTFA4QXhINXF3RjlPa1l2a1NpRzBHeGlreTkxQUNKOG52aWQ2WEM1SlJFUDZPZkJsVVJ1NnVHczVybWhTTlF4ZDhoME1SdDNrd3NIUTljMjlTRWloY3hVYmhFWjhHeEFtOEpMaUJqa2lOT2piNWRtMXBpNGVwMW51TzBCc2IwZmVQ?oc=5"
+    }
+  ]
+}

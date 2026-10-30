@@ -1,0 +1,28 @@
+{
+  "id": "news-740304fe",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1QQ0lCRmhPNGZYV0VTSHNGOFFRY2pxTzVlcnFOOGp0TE5ndDVwYUpMMVNwVDRrU21qU3NhV2JlbkU1N01uX2JwOFNwamtlaGRjYmVrbkJkTWNnbTZLN0p5ZGpvRWhBMGFuWkhPTVoxTdIBb0FVX3lxTE1QQ0lCRmhPNGZYV0VTSHNGOFFRY2pxTzVlcnFOOGp0TE5ndDVwYUpMMVNwVDRrU21qU3NhV2JlbkU1N01uX2JwOFNwamtlaGRjYmVrbkJkTWNnbTZLN0p5ZGpvRWhBMGFuWkhPTVoxTQ?oc=5",
+  "title": "KS가 보인다! 삼성, 2회 류지혁 적시타로 1-0 리드 [PO4]",
+  "published_at": "2026-10-30T10:01:00.000Z",
+  "collected_at": "2026-10-30T14:03:28.928Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 80
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "마이데일리",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9QU3BSQkVaZWphV2s4MFZQMmxmVXJpbDdFSUpGNG01NTE4NGhRZDlRQ2NfMFVQWjBCMWNRNHZ3NHdpV1otYVpVNjZVWmRSQjVVX1NnbVlQUzlzQldQUEVwaQ?oc=5"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "news-e0bbfc0b",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스1",
+  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9QNnNPNFB5TDBMOXBLMXQ1dVNJMzZtS3ZWS0l6RkNzaEVIVzVWbjFXc1Y3UzBCemE5RVMtRzU3NWc2U0NMdUoyamE0V0dZSk8zdDhHSVVxWQ?oc=5",
+  "title": "[뉴스1 PICK] '벼랑 끝 뒤집기쇼' KIA, 플레이오프 승부는 원점으로",
+  "published_at": "2026-10-30T13:11:02.000Z",
+  "collected_at": "2026-10-30T14:03:28.928Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 84,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "news-3fcfc82b",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "대동N뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE41eDVGcERtX3plcVR3N1pSRnN3LW45eWxUNFduNXRTSUVQX21WTmMyNnd0d21jSEt5anJraU5hR3pTWWd0cXBBQXY0S1hjUXRrOVFsYTNtYjZQRDE5SHJiME04Rk93WG8?oc=5",
+  "title": "대동문화재단·충장22, KIA 타이거즈 PO 3차전 단체 응원전 성료",
+  "published_at": "2026-10-30T08:01:56.000Z",
+  "collected_at": "2026-10-30T14:03:28.928Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 80
+  },
+  "sentiment": "neutral"
+}

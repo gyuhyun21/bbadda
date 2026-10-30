@@ -1,0 +1,24 @@
+{
+  "id": "community-3f3b44d7",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "레딧 r/KBO",
+  "url": "https://www.reddit.com/r/KBO/comments/1xio71e/highlights_2026_%EC%8B%A0%ED%95%9C_sol_kbo_postseason_playoff/",
+  "title": "[Highlights] 2026 신한 SOL KBO Postseason Playoff Match",
+  "published_at": "2026-10-29T16:03:28.928Z",
+  "collected_at": "2026-10-30T14:03:28.928Z",
+  "summary_ko": "",
+  "excerpt": "... [Today's KBO] The KIA Tigers sweep the LG Twins with a 13-1 Game 3…",
+  "metrics": {},
+  "scores": {
+    "hot": 60,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

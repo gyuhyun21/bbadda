@@ -1,0 +1,23 @@
+{
+  "id": "community-6998d608",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "디시 야구 갤러리",
+  "url": "https://gall.dcinside.com/board/view/?id=tigers_new2&no=3367163",
+  "title": "KIA 타이거즈",
+  "published_at": "2026-10-26T15:00:00.000Z",
+  "collected_at": "2026-10-30T14:03:28.928Z",
+  "summary_ko": "",
+  "excerpt": "... 스포츠 카테고리로 분류된 KIA 타이거즈 갤러리 입니다. KIA 타이거즈 갤러리에 다양한 이야기를 남겨주세요.",
+  "metrics": {},
+  "scores": {
+    "hot": 34,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

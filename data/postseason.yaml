@@ -162,29 +162,45 @@ rounds:
       - no: 4
         date: 2026-10-30
         venue: { home_of: spo }
+        result: { kia: 4, samsung: 2 }
+        source: "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBPYm95SG10Vi1ic1VUazZfandFV2NRMVN4ejdqdnVMTGZuU0hJRDJLZWwxYmdsV2IzYXJqZ1BDMWZBUHNMMnp4eXVpZEZaUnM5MTBTenlQalJybXJMdkN5elBqdDQ?oc=5" # MK스포츠 'KIA, 삼성 4-2 제압→PO 2승 2패'
+        save: 전상현 # MK스포츠 '전상현 6OUT 세이브'
+        homers: ["최형우(삼성) 역전 솔로"] # 한스경제 '최형우, KIA 곽도규에 역전 솔로포'
+        attendance: "만원 관중 (포스트시즌 45경기 연속 매진)" # 뉴스1
         starters: { kia: 네일, samsung: 페덱 } # 예고 선발(일간스포츠 '4차전 선발 제임스 네일 선택', 2026-10-29)
         starter_notes: { kia: "삼성전 2승 무패", samsung: "KIA전 3번 만나 3패" } # 서울경제 '삼성전 2승 무패·PO 1차전 호투…네일', 미주중앙일보 'KIA 3번 만나서 3번 다 졌다'
         ig:
           pre: { hook: "KIA 벼랑 끝\n김도영 2번 승부수", sub: "네일 vs 페덱 리턴매치, 삼성 이기면 KS행" }
+          post: { hook: "KIA, 7회에 뒤집었다\nPO 원점", sub: "삼성 꺾고 PO 2승 2패", points: ["한준수 결승타 포함 3안타 2타점", "하주석 쐐기타, 전상현 6아웃 세이브", "삼성 실책 3개, 7회 3득점 역전"] }
         facts:
           - "KIA 이범호 감독, 김도영 2번 타순 기용"
         sources:
+          - "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBPYm95SG10Vi1ic1VUazZfandFV2NRMVN4ejdqdnVMTGZuU0hJRDJLZWwxYmdsV2IzYXJqZ1BDMWZBUHNMMnp4eXVpZEZaUnM5MTBTenlQalJybXJMdkN5elBqdDQ?oc=5" # 4차전 결과(MK스포츠)
+          - "https://news.google.com/rss/articles/CBMia0FVX3lxTE16VE53bnZqWU1hamVzRTJyd2tFWWpVc05uZ2IwUXlKWlFKNy1HeHJtT19oc1UxS25PQ3VZYlhESDVNQXNqdXV3MXVkaFhJb0Q4SlgtUGtZejZ3NGJUenlBMWFyeWhXZTBuX2000gFvQVVfeXFMTUhzVmdaM1VKeDBxYVBDU1JhS3hqZUFENUN4UjdVcThEMW5mRFUyM2pxaXlDamUyckVtTElNYlRtcXdUTlI3NlNMZFpocl9BeV91YkJfMnZkQTNaY1ZNWjBlaklIbzVpTDBJc3BLTks4?oc=5" # 최형우 역전 솔로(한스경제)
+          - "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0xTF81OU9OaF9lME5oSWZKZUFVMmdDdldaNGY4dXNIdzdWeWcwQ1ozMnFlY0s1c2hrenJfUHZ2d1NHYmJWR0pPaUJqTEVMYVhaVlpRejZuWQ?oc=5" # 45경기 연속 매진(뉴스1)
           - "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9KdXdmWVlWU245X2tZaHNsTjExYVRQUXYzZGFFbHZsV3JpbmhMaTlJRE5jNGwydUs1ZVBuek5FZHRLUkRzbVQ0YmJ4Zm1Ma0pJOEJfVnRwQ1RKRkXSAWBBVV95cUxNX29fajVGV21lRFhOWFc4UUhScVlPbGQxeE80R3hGR24yRU1rMmY4RjRESk9yRlNMeERWU0taQlNQdE5nVHNFVkZJY3B2RW9sQzV1OEowZEhzUTREUHdXMzk?oc=5" # 김도영 전격 2번(연합뉴스)
           - "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9qM1lWbVJiTU10ZVdqRWVsMmtXZ0FyWmpEQkVJdmNVa2RIM01Zbld0ZGdEN1Y2VFpBX294NGpTRGU3c2drMVVsX3k4dWE1UklxRTdv0gFTQVVfeXFMT2ozWVZtUmJNTXRlV2pFZWwya1dnQXJaakRCRUl2Y1VrZEgzTVluV3RkZ0Q3VjZUWkFfb3g0alNEZTdzZ2sxVWxfeTh1YTVSSXFFN28?oc=5" # 네일 삼성전 2승 무패(서울경제)
           - "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9FRjNwWUNBZ2ZKSUFpN2oyZVR2bVV1MFpJT1RIM2x3YU1VSTMxUHhSSXdPT0RFSGNwWjNyWUs2YmNDQWNsem9tWlJHQzlwMXVsQ3I1VDdZZXB3YzJpNVM4c3BB?oc=5" # 페덱 KIA전 3패(미주중앙일보)
           - "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9OalgwbTF6ang3TlNLVTZWaUZyT0Rqc1Z4TWZTX3M1bDZVX0cxa3R3TXVOaVhYUW5UQWJPV0g3emxsQVllaXFkR2VHU25aSlNfaWlnYTlSdGlJWTQ?oc=5" # KIA 4차전 선발 네일
           - "https://news.google.com/rss/articles/CBMiakFVX3lxTE9sRFh4YWhIQk5ncVpHaWlzOVJHZ09oUG5sekVsTE9jMzBjSFpPaWFHUUI2VTBQVWFsSVVnWC1yVURkWGlULVFlQ0l4a0F1YktuSGFOVkVHN2ExTHo3ck10aTlQRTBVVUY2S2fSAW9BVV95cUxPWlBOSkFiTzF0ZVNGRzdwbUxQQ0ZxNUZpd095Y2ZiWkFFVjA4R1B0SmdRdXBXenByU0J0UTRINTJockkxcURMbXd5dm82V0Nsb0UwcFZPUjdjTkNPaUpuOTJtMmc5RDBOd3J6ZWRIZlk?oc=5" # 삼성 4차전 선발 페덱(연합뉴스 '벼랑 끝 KIA 네일 vs 굳히기 삼성 페덱')
-      - { no: 5, date: 2026-11-01, venue: 대구 }
-  - id: ks
+      - no: 5
+        date: 2026-11-01
+        venue: 대구
+        starters: { kia: 올러, samsung: 후라도 } # 예고 선발(톱스타뉴스 '삼성 후라도 vs KIA 올러, 대구서 KS행 최종전 선발 재격돌', 2026-10-30)
+        facts:
+          - "PO 5차전 승리 팀 KS 진출"
+        sources:
+          - "https://news.google.com/rss/articles/CBMickFVX3lxTFBWUklPbGpkeEJFR1lfQkZlRWRVR1RqWks3QXBVUUFiY0VlckRkZk4tR09zd0l0NzZuUVRDeEI3OVdPY3BMbnZGaFFoal9jWE1RWGRGcW1CRkRQUHVkYWtDT0FhSWE3UW5tTVRFQ3RDN2dwUQ?oc=5" # 5차전 선발 후라도 vs 올러
+  - id: ks # 일정 하루씩 순연(한겨레 '한국시리즈 일정 하루씩 순연…1차전은 11월3일 개최', 2026-10-30: https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBJWF9kV3Rmb1U1THRwRmtnT0hPSzVDU1BYOGk2YXllNXJ4Rkk4bWE2Y1B1RU8xM3AwRkdnRW5jR1pBektEbEZ4Uno2ekwzZmZZaWhkUEh4U0E3ang0Z3hWQS0ySjdJRVE?oc=5)
     name: 한국시리즈
     short: KS
     to_win: 4
     teams: [{ winner_of: po }, kt]
     games:
-      - { no: 1, date: 2026-11-02, venue: 수원 }
-      - { no: 2, date: 2026-11-03, venue: 수원 }
-      - { no: 3, date: 2026-11-05, venue: { home_of: po } }
-      - { no: 4, date: 2026-11-06, venue: { home_of: po } }
-      - { no: 5, date: 2026-11-07, venue: { home_of: po } }
-      - { no: 6, date: 2026-11-09, venue: 수원 }
-      - { no: 7, date: 2026-11-10, venue: 수원 }
+      - { no: 1, date: 2026-11-03, venue: 수원 }
+      - { no: 2, date: 2026-11-04, venue: 수원 }
+      - { no: 3, date: 2026-11-06, venue: { home_of: po } }
+      - { no: 4, date: 2026-11-07, venue: { home_of: po } }
+      - { no: 5, date: 2026-11-08, venue: { home_of: po } }
+      - { no: 6, date: 2026-11-10, venue: 수원 }
+      - { no: 7, date: 2026-11-11, venue: 수원 }

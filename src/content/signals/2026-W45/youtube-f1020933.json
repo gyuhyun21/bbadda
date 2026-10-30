@@ -1,0 +1,26 @@
+{
+  "id": "youtube-f1020933",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "youtube",
+  "source_name": "엘리니⚾️",
+  "url": "https://www.youtube.com/watch?v=upG_i73TlrA",
+  "title": "~ LG 트윈스 박해민 응원가 ~",
+  "published_at": "2026-10-30T10:50:34Z",
+  "collected_at": "2026-10-30T14:03:28.928Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 2,
+    "likes": 1,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 46,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

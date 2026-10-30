@@ -1,0 +1,24 @@
+{
+  "id": "news-7108db75",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "톱스타뉴스",
+  "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBWUklPbGpkeEJFR1lfQkZlRWRVR1RqWks3QXBVUUFiY0VlckRkZk4tR09zd0l0NzZuUVRDeEI3OVdPY3BMbnZGaFFoal9jWE1RWGRGcW1CRkRQUHVkYWtDT0FhSWE3UW5tTVRFQ3RDN2dwUQ?oc=5",
+  "title": "삼성 후라도 vs KIA 올러, 대구서 KS행 최종전 선발 재격돌",
+  "published_at": "2026-10-30T13:12:47.000Z",
+  "collected_at": "2026-10-30T14:03:28.928Z",
+  "summary_ko": "톱스타뉴스에 따르면 PO 5차전은 대구에서 삼성 후라도와 KIA 올러의 선발 재대결로 열린다.",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "5차전, 후라도 vs 올러"
+}

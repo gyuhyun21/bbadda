@@ -1,0 +1,27 @@
+{
+  "id": "youtube-284e0f6c",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "youtube",
+  "source_name": "위닝트윈스",
+  "url": "https://www.youtube.com/watch?v=QmzKXYE2I0Y",
+  "title": "2027 LG 트윈스 아시아쿼터 후보, 울산 웨일즈 오카다 교육리그 주요장면",
+  "published_at": "2026-10-30T10:26:09Z",
+  "collected_at": "2026-10-30T14:03:28.928Z",
+  "summary_ko": "팬 채널 위닝트윈스가 울산 교육리그에서 뛴 오카다 등 2027 LG 아시아쿼터 후보 장면 영상을 올렸다.",
+  "metrics": {
+    "views": 931,
+    "likes": 15,
+    "comments": 3
+  },
+  "scores": {
+    "hot": 51,
+    "relevance": 50
+  },
+  "sentiment": "neutral",
+  "brief_ko": "LG 아시아쿼터 후보 장면"
+}

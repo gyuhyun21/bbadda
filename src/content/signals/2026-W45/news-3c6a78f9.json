@@ -1,0 +1,28 @@
+{
+  "id": "news-3c6a78f9",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "스타뉴스",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9Oc3Z5b2Uxd0tEd0ZEbWJtaFNPcUpGZldYSlRFdUxjSkdmUzJYdFRNOWNURlZPakYyWFJfRk5IbUV0OFU0aWtaMUV3RGJQYWhlTTdETzA2MVpuZFcyMG1VRlM5RldtSU4zSkotZGZTUzBvYVhlQkE?oc=5",
+  "title": "[한번에쓱] 이범호 감독 '이제 대구행이다!' 4차전 승리한 기아타이거즈",
+  "published_at": "2026-10-30T12:57:29.000Z",
+  "collected_at": "2026-10-30T14:03:28.928Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 84,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0xd1RzNGhjdHc1VGc3ZTM4ZjZ3Rm93alk3T1JZTUpycnNQYUFEejlBeUtDZ05oeTJoQmtPbDB6cEl4Mnc5dlZ5Q3k1V2NFMlB6bFl5dUZ2bXk4Z01iNXk5ZmthLVhEYUVUY0HSAW9BVV95cUxORE1ObEhlWjJzbklIMVVWbnQ1dzBKN3dLSkhDYUloLTh4S1JjQWxIeGUxaThwb3RSRGxTSVdtSWJIcEExLTdYbF9aU29yLWJLYmQ3WFo4aUdxZHo0ajJEVnFlRVlSSEhfY0lsWTVQUjA?oc=5"
+    }
+  ]
+}

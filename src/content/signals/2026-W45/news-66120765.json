@@ -1,0 +1,20 @@
+{
+  "id": "news-66120765",
+  "issue": "2026-W45",
+  "module": "league",
+  "teams": [],
+  "source_type": "news",
+  "source_name": "한겨레",
+  "url": "https://www.hani.co.kr/arti/sports/baseball/1285102.html",
+  "title": "프로야구 한국시리즈 일정 하루씩 순연…1차전은 11월3일 개최",
+  "published_at": "2026-10-30T13:00:00.000Z",
+  "collected_at": "2026-10-30T14:03:28.928Z",
+  "summary_ko": "한겨레에 따르면 한국시리즈 일정이 하루씩 순연돼 1차전이 11월 3일에 열린다.",
+  "metrics": {},
+  "scores": {
+    "hot": 84,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "KS 일정 하루씩 순연"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "youtube-29a89204",
+  "issue": "2026-W45",
+  "module": "league",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "team": "kia",
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=rILHyAIqJvg",
+  "title": "'춤추는 스위퍼' KIA 네일이 KK로 이닝을 막아냅니다! | PO4_삼성 vs KIA | 10.30 | 크보모먼트 | KBO 야구 하이라이트",
+  "published_at": "2026-10-30T12:35:50Z",
+  "collected_at": "2026-10-30T14:03:28.928Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 5123,
+    "likes": 312,
+    "comments": 36
+  },
+  "scores": {
+    "hot": 84,
+    "relevance": 80
+  },
+  "sentiment": "neutral"
+}

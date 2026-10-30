@@ -1,0 +1,30 @@
+{
+  "id": "community-6a33227d",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 스포츠에 스며든 이슬",
+  "url": "https://blog.naver.com/sde77/224459503972",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/ErCKBlVJcTp",
+  "title": "“수비 중요하다던 삼성, 실책 3개로 무너졌다” KIA 한준수의 역전극 PO 결국 5차전으로",
+  "published_at": "2026-10-30T22:01:00.000+09:00",
+  "collected_at": "2026-10-30T14:03:28.928Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "negative",
+  "also_in": [
+    {
+      "source_name": "대구일보",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5UUDRRb0Z6VUdKTU5yajZkZ29sOWttWHY5T1d3Y1BlNU5DeEpwTXd6ZUU3SlQ0RTdXWnFVUHQ4dzc3MGxsY09ob0RDbklGVFVNSUh3NGxKSFZLRW9WV1dTeXNlMGNCci1i?oc=5"
+    }
+  ]
+}

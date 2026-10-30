@@ -1,0 +1,26 @@
+{
+  "id": "youtube-7338dfed",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "source_name": "나니의 야구 저장소",
+  "url": "https://www.youtube.com/watch?v=mHypgBnmWP8",
+  "title": "내년엔 비상해보자!!  #에피소드 #야구 #한화이글스",
+  "published_at": "2026-10-30T12:07:15Z",
+  "collected_at": "2026-10-30T14:03:28.928Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 142,
+    "likes": 2,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 42,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

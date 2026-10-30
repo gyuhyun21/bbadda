@@ -1,0 +1,20 @@
+{
+  "id": "news-75d3cf98",
+  "issue": "2026-W45",
+  "module": "league",
+  "teams": [],
+  "source_type": "news",
+  "source_name": "뉴스1",
+  "url": "https://www.news1.kr/sports/baseball/6338377",
+  "title": "프로야구 삼성 vs KIA PO 4차전 만원 관중…PS 45경기 연속 매진",
+  "published_at": "2026-10-30T10:13:17.000Z",
+  "collected_at": "2026-10-30T14:03:28.928Z",
+  "summary_ko": "뉴스1에 따르면 PO 4차전이 만원 관중을 기록해 포스트시즌 45경기 연속 매진이 이어졌다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 80
+  },
+  "sentiment": "neutral",
+  "brief_ko": "PS 45경기 연속 매진"
+}
