@@ -1,0 +1,27 @@
+{
+  "id": "youtube-c87d7a12",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "문화도감",
+  "url": "https://www.youtube.com/watch?v=BD21fjDEqik",
+  "title": "313만 명 몰린 잠실야구장을 허무는 이유",
+  "published_at": "2026-10-30T07:00:30Z",
+  "collected_at": "2026-10-30T07:39:02.497Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1996,
+    "likes": 11,
+    "comments": 2
+  },
+  "scores": {
+    "hot": 44,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

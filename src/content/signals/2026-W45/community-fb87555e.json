@@ -1,0 +1,23 @@
+{
+  "id": "community-fb87555e",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 전략은 상상력으로 시작해서 검증으로 기획된다",
+  "url": "https://blog.naver.com/str-image/224459124006",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/EWJJKftbglP",
+  "title": "김정은 방중 분석부터 삼성 PO 2승 1패까지, 오늘 꼭 볼 핵심 이슈 10",
+  "published_at": "2026-10-30T15:34:00.000+09:00",
+  "collected_at": "2026-10-30T07:39:02.497Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

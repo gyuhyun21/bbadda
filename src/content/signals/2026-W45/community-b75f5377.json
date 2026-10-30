@@ -1,0 +1,22 @@
+{
+  "id": "community-b75f5377",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 오늘의경기장",
+  "url": "https://blog.naver.com/dnl0315/224457551382",
+  "title": "키움 떠난 걸 후회?” ML 복귀 후에도 한국을 잊지 못한 이유",
+  "published_at": "2026-10-29T19:46:00.000+09:00",
+  "collected_at": "2026-10-30T07:39:02.497Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 61,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

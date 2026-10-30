@@ -1,0 +1,28 @@
+{
+  "id": "youtube-d527fe9c",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia",
+    "kt"
+  ],
+  "source_type": "youtube",
+  "source_name": "무료스포츠중계 ",
+  "url": "https://www.youtube.com/watch?v=RebME4AsJSY",
+  "title": "삼성·KIA는 불펜을 갈아 넣고 있다… 웃고 있는 팀은 따로 있었다! KT의 여유로운 미소 #삼성 #삼성라이온즈 #기아 #kia  #kia타이거즈 #케이티 #kt #kt위즈",
+  "published_at": "2026-10-30T05:02:12Z",
+  "collected_at": "2026-10-30T07:39:02.497Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 272,
+    "likes": 1,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 31,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

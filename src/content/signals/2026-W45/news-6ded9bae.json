@@ -1,0 +1,28 @@
+{
+  "id": "news-6ded9bae",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "네이트",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE45OHloeWJwMlUtcm9hT0djaGlrUF9scEJ4WFR2TU5vUVROOHVhNTBaMmJDRFVoRVQxNWNKbGRzYUY5Q3BGemJVbDQ1NnRFNjI3OUlKWERyX093TVZOQldFM242dWpsT1V6?oc=5",
+  "title": "삼성 류지혁, 깜짝 PS 첫 홈런 \"손맛 기가 막혔다\"[PO3]",
+  "published_at": "2026-10-29T14:24:00.000Z",
+  "collected_at": "2026-10-30T07:39:02.497Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 70,
+    "relevance": 80
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE82aUFVSFoyQ2pTb3hxNEYtUkZNSmJDMG1aeEMzWk1ZTjBjZm9nVEU1ek54Y0RFS2dvd1R6aEk2UUYzMlN6bEE?oc=5"
+    }
+  ]
+}

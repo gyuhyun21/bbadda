@@ -1,0 +1,30 @@
+{
+  "id": "community-008a5a47",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 feijoaa blog !",
+  "url": "https://feijoaa.tistory.com/24",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/2oc4LzwaqDU",
+  "title": "삼성 VS KIA 4차전 오늘 끝날까? 페덱 설욕전과 한국시리즈 진출 경우의 수",
+  "published_at": "2026-10-30T16:29:36.000+09:00",
+  "collected_at": "2026-10-30T07:39:02.497Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "톱스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE13bUhpc2N4WjlRRXRkQUdDZU5TNXdGMzUtdW5MUk1zUWc1cjJYMk9qcXA3RnU5ZE5pQ2xPRWF5UHdwTFJ6aDdqb0x1VGlmcmZ1dGRVVjFROGFTN09NSkdKMkFoaUpLOFpPbkVhRUEySGoxZw?oc=5"
+    }
+  ]
+}

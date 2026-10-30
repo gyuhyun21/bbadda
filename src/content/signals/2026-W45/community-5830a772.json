@@ -1,0 +1,24 @@
+{
+  "id": "community-5830a772",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 오늘의 경기",
+  "url": "https://blog.naver.com/joojoo-secret/224458801318",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/6ZZXXfbNd5K",
+  "title": "\"우리 자욱이 뛰게 할 수 없지!\" 구자욱 나가면 디아즈 홈런",
+  "published_at": "2026-10-30T11:10:00.000+09:00",
+  "collected_at": "2026-10-30T07:39:02.497Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

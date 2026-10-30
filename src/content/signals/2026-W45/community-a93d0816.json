@@ -1,0 +1,23 @@
+{
+  "id": "community-a93d0816",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&document_srl=10500502706",
+  "title": "롯데에 거포가 많이 배치 되어있으면 적극적 타격이 좋음",
+  "published_at": "2026-10-30T07:33:02.497Z",
+  "collected_at": "2026-10-30T07:39:02.497Z",
+  "summary_ko": "",
+  "excerpt": "... 기아타이거즈 상대로 강한 삼성투수 [1]. 3 분 전 자유 장동혁 조회67. 기아타이거즈 상대로 강한…",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "news-19d1ffd5",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "미주중앙일보",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1OcEtmblFGYTNCRXZCaDB4aEpzZ1dsVVlIRDZPaDBRX3JZdDVqOE9LMm1Uem8tQ3VPRUI3ODBIeUJCcjVYc05sekR0TmpFcExqVlFoU2NkRW5aanBQcU1sZk1n?oc=5",
+  "title": "‘PO 전 경기 출장’ 23홀드 좌완의 유쾌한 감사 인사, “하늘에 고맙다고 커피를 살 수도 없고…” [PO]",
+  "published_at": "2026-10-30T04:40:00.000Z",
+  "collected_at": "2026-10-30T07:39:02.497Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 91,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE96ZnZ6aTZQUlUwVGFLcU02bUhyYklnUXowOWxBTEZ3ZEFlMFRHRmxMTk1VUFRMUGxxS2ZaaFVqSTN4dC0zYk5uQmhsbXB3WFZ0eWZUeXUtOXpmMlNlWGJjb1JPSzNDMzFrUUk4aGNYa9IBb0FVX3lxTE96ZnZ6aTZQUlUwVGFLcU02bUhyYklnUXowOWxBTEZ3ZEFlMFRHRmxMTk1VUFRMUGxxS2ZaaFVqSTN4dC0zYk5uQmhsbXB3WFZ0eWZUeXUtOXpmMlNlWGJjb1JPSzNDMzFrUUk4aGNYaw?oc=5"
+    },
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNLUJDZk55TTQwWmlDaXU5TzY0Z3p2RTl4ak9ONktERzVsNkFKbEJpNXFsemotTldjTTc2RnZHWlFaVWpFNWRwY1pyU1c0aGN0SlE5QmF5WkIzT2p3OHpOVU52Q01sZVBqbDhGaVVQQ2ZueERtbXhNZnRHSThDbXpCdmtHdw?oc=5"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "youtube-d9942372",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "source_name": "KBOPLAYLIST",
+  "url": "https://www.youtube.com/watch?v=Dz3DoQPQ4zs",
+  "title": "※다시 높은곳으로※ 2026 한화 이글스 타자 응원가 모음 최종본 🦅",
+  "published_at": "2026-10-30T07:07:02Z",
+  "collected_at": "2026-10-30T07:39:02.497Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 159,
+    "likes": 6,
+    "comments": 3
+  },
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "community-a25284b8",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 patentjp의 생각하는 공간",
+  "url": "https://patentjp.tistory.com/104",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/J086JFwdUfx",
+  "title": "한국시리즈 상금은 얼마일까? 우승팀이 포스트시즌 배당금 절반 넘게 가져가는 이유",
+  "published_at": "2026-10-30T14:02:50.000+09:00",
+  "collected_at": "2026-10-30T07:39:02.497Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-6b901eaa",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스1",
+  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBwRzVySUJpZlVLNzlEdTRIU0lyOU9VbWt5bGRVYnlNVnJPV1ozQ0pjN2xCZ3hVSUd6c0M3WTloZW93MDlJakY4YTQtNnZKdUlTbDhob2k5cw?oc=5",
+  "title": "선발 야구 사라진 PO, 불펜 부하…KIA 네일·삼성 페덱 어깨 무겁다",
+  "published_at": "2026-10-30T01:32:58.000Z",
+  "collected_at": "2026-10-30T07:39:02.497Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "community-8ea66cd6",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&document_srl=10499448654",
+  "title": "페덱 오늘도 털리면 끔찍하겠다 - 야구",
+  "published_at": "2026-10-30T01:39:02.497Z",
+  "collected_at": "2026-10-30T07:39:02.497Z",
+  "summary_ko": "",
+  "excerpt": "... 1년전 오늘 LG 트윈스에게 있었던 일 [1]. 2 분 전 자유 LIRR 조회22 추천1.…",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

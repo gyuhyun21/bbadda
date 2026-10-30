@@ -1,0 +1,24 @@
+{
+  "id": "community-a4e8a54e",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 lahenne",
+  "url": "https://blog.naver.com/lahenne100/224458736170",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/6pVMdN3x4Xv",
+  "title": "가을야구 마지막 무대 티켓 전쟁… 예매일 놓치지 마세요",
+  "published_at": "2026-10-30T12:58:00.000+09:00",
+  "collected_at": "2026-10-30T07:39:02.497Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

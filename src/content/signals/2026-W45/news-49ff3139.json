@@ -1,0 +1,29 @@
+{
+  "id": "news-49ff3139",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "스타뉴스",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4zMUozR1VKa2lnS0FfSkl2M1kxUHQ1X19aZm9pblZyc3VLTGNicVVsMEp3SzJhRVlscDIxbFhVOW90Y21EanFGYXYxX0dyOEMzb0dqa0VGSWNoT0xxUGdqam1CZHl5Q1pzSktHVWRRRGhsd3c3OGc?oc=5",
+  "title": "KIA, 日 오릭스 마무리 캠프에 '유망주·코치진 7인' 파견한다 \"선진 육성 시스템 이식\"",
+  "published_at": "2026-10-30T05:52:36.000Z",
+  "collected_at": "2026-10-30T07:39:02.497Z",
+  "summary_ko": "스타뉴스에 따르면 KIA가 일본 오릭스의 마무리 캠프에 유망주와 코치진 7명을 보낸다. 선진 육성 시스템을 이식하겠다는 취지다.",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5iY3NiT2xMQ2VIQUw3RDJkNUdfTmxROTZIMF84dXNIQ3JVY0FyaHJnQk1NRkZGU05mR0tJVXdsNl8xSGc1WjVUSHNvSDNvMlVGWXdsX3ZyUlZuQldmT1MxZmJlVzNJZEZQT2fSAW9BVV95cUxNUUprazNnaDV6VTUxQU1qbDZmTnVEZEN3RklTa1Q3VFp1OHNHZGF1ZVVyMHp5bkJ6WHd3M2tmc1JBWkVGM3RrMjdjeXJ2Uy1yY1Y1S0lONExQeEw3OHB3NFhySHlXY1VCaGY1NnMwTVk?oc=5"
+    }
+  ],
+  "brief_ko": "오릭스 마무리캠프에 7명 파견"
+}

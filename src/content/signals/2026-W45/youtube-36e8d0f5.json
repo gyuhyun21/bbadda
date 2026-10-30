@@ -1,0 +1,26 @@
+{
+  "id": "youtube-36e8d0f5",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "youtube",
+  "source_name": "덕아웃비화",
+  "url": "https://www.youtube.com/watch?v=sL5aeaIFB-c",
+  "title": "그 시절 롯데 ㅁㅊ 타선",
+  "published_at": "2026-10-30T05:27:20Z",
+  "collected_at": "2026-10-30T07:39:02.497Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1507,
+    "likes": 11,
+    "comments": 3
+  },
+  "scores": {
+    "hot": 45,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

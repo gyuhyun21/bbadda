@@ -1,0 +1,23 @@
+{
+  "id": "news-2cfce87e",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "MHN스포츠",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5NWExISWxfMXk2Nms4Vy1EMmNFQ0xMaE9TZWo5WnllODFDX0xUUGRHeE5LTGhjdG5pS3AxbWpCOHZPdDVYNFlPN1pWWnJHZjNvOTVGSXNhbjFBN2h2SE03a2hXWQ?oc=5",
+  "title": "김태형 감독 퇴진 후 미묘하게 달라진 입지…”유강남 방출? 지금 팀 훈련 하고 있습니다만…”",
+  "published_at": "2026-10-30T01:14:20.000Z",
+  "collected_at": "2026-10-30T07:39:02.497Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "youtube-ededacf3",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "source_name": "루테라 이글스 칼럼",
+  "url": "https://www.youtube.com/watch?v=8y3sNRYLTFg",
+  "title": "이글스 와이스 어게인 각 떴냐? 제발 대전 예수 강림하자 #한화이글스",
+  "published_at": "2026-10-30T07:00:31Z",
+  "collected_at": "2026-10-30T07:39:02.497Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 73,
+    "likes": 17,
+    "comments": 2
+  },
+  "scores": {
+    "hot": 62,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "news-cdb6dab2",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스타뉴스",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9NRjFqdW90dUZOT1REbjFkM2ZNQUdJYmhfMlU5emh4LVdZYnZWMFo5OVFKRGpYRnEzYWdpVTV4eDdCa0F6d0RTVm9KUmE0QXQ3Y1RpTTI1elZLM3VlaVVuT2hBcEEtWTQ0aWdjbkpMQWZSLVlXSVE?oc=5",
+  "title": "[포토]'4차전 앞두고 타격훈련 지켜보는' 이범호 감독",
+  "published_at": "2026-10-30T06:37:20.000Z",
+  "collected_at": "2026-10-30T07:39:02.497Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 100,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

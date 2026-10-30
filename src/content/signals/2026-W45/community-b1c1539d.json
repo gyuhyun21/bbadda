@@ -1,0 +1,23 @@
+{
+  "id": "community-b1c1539d",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 쫑쓰형",
+  "url": "https://blog.naver.com/jjongs___/224459072341",
+  "title": "삼성 KIA 플레이오프 4차전 30일 오후 6시30분! 페덱·네일 선발·중계·예상 스코어",
+  "published_at": "2026-10-30T15:30:00.000+09:00",
+  "collected_at": "2026-10-30T07:39:02.497Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

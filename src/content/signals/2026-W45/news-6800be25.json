@@ -1,0 +1,29 @@
+{
+  "id": "news-6800be25",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1QUU9MeWtMLTAxOEg4UFFJcDhfbjNsVEZ5Wk5tMWotZVZMV2NJVVpZeUROcmk2b3FCQnJ4ZGJnei1mRzlvOVp6WnE0cXVDNFNVMmRDcl9Ra0Jrc3NwRHg1M1JHcGRSTzZVcklFc3JQMNIBb0FVX3lxTE1QUU9MeWtMLTAxOEg4UFFJcDhfbjNsVEZ5Wk5tMWotZVZMV2NJVVpZeUROcmk2b3FCQnJ4ZGJnei1mRzlvOVp6WnE0cXVDNFNVMmRDcl9Ra0Jrc3NwRHg1M1JHcGRSTzZVcklFc3JQMA?oc=5",
+  "title": "'아노락 자켓 첫선' KBO, 2026 한국시리즈 기념 한정판 상품 출시…30일부터 판매 시작",
+  "published_at": "2026-10-30T06:29:00.000Z",
+  "collected_at": "2026-10-30T07:39:02.497Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1RR2FsYmRuM01IdVEtRFdTdHp1MjdqS0ZzNy1QVkRJb2VMNi1uVXV3b2lnbWxCZGRrelpOUko2ZF9YeXRhd1J0ZzBhQmRKVVpUeGxMQQ?oc=5"
+    }
+  ]
+}

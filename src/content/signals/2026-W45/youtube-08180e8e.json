@@ -1,0 +1,27 @@
+{
+  "id": "youtube-08180e8e",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "쇼핑잇",
+  "url": "https://www.youtube.com/watch?v=sR-Q3duR4Eg",
+  "title": "5천만원 계약한 손아섭의 진심 #손아섭 #NC다이노스 #두산베어스",
+  "published_at": "2026-10-30T07:20:06Z",
+  "collected_at": "2026-10-30T07:39:02.497Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 231,
+    "likes": 2,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 35,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

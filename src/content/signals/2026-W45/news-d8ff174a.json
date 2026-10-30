@@ -1,0 +1,22 @@
+{
+  "id": "news-d8ff174a",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "매일경제",
+  "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE12Q3pfblpqdmh2TFF2YWszcHlTejBhbEhQTTlrNk41OTlJblBoTjNWOUpDQkxxdmF4MnhPUHZVRFVJYXh6UEE?oc=5",
+  "title": "“볼넷 줄이고 볼카운트 싸움 앞서간다면”…KIA 네일, 헤드샷 퇴장 아쉬움 털어내며 벼랑 끝 호랑이 군단 구할까 [PO4]",
+  "published_at": "2026-10-29T22:40:00.000Z",
+  "collected_at": "2026-10-30T07:39:02.497Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 80
+  },
+  "sentiment": "neutral"
+}

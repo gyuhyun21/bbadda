@@ -1,0 +1,23 @@
+{
+  "id": "community-e7d97f2a",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 워치노트 | 오늘 뭐 보지",
+  "url": "https://blog.naver.com/watchnote/224458172132",
+  "title": "플레이오프 4차전 중계 30일, MBC 차례였는데 지상파 없이 케이블",
+  "published_at": "2026-10-30T11:08:00.000+09:00",
+  "collected_at": "2026-10-30T07:39:02.497Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

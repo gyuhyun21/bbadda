@@ -1,0 +1,35 @@
+{
+  "id": "news-e29b6824",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia",
+    "kt"
+  ],
+  "source_type": "news",
+  "source_name": "연합뉴스",
+  "url": "https://www.yna.co.kr/amp/view/AKR20261030029900007",
+  "title": "내일 없는 삼성·KIA 마운드 총력전…기다리는 kt만 미소",
+  "published_at": "2026-10-29T23:39:34.000Z",
+  "collected_at": "2026-10-30T07:39:02.497Z",
+  "summary_ko": "연합뉴스에 따르면 PO 4차전을 앞두고 삼성과 KIA가 내일 없는 마운드 총력전을 준비한다. 한국시리즈에서 기다리는 KT가 웃고 있다는 내용이다.",
+  "metrics": {},
+  "scores": {
+    "hot": 97,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "SBS 뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBnRDRTeEh2NW95RFR1U185elYweW9rdmNTandrZUtxRFFmMEdEd2k0NFNVRjJSVXZaZk8ycVNPYmg1cC12QzFQekh1c0lMaWs3M3BHeFVPamJQaWZBVmhiNG9ma1lfekJnREE?oc=5"
+    },
+    {
+      "source_name": "스포츠조선",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9QUE9kYzJTUC1HR0ZhZ0ZCZ3lRYXlUS01NZXNDYXVRdzdTc3daNmVEbWctMV81SDRlZDY4RUVjZWRyWnBwTjlrV3VPb2NMR1dydjRrQ3RMUmxPUU5OZDY2LS03dzV1U2lfU2tlekhLNFVCVGNuckpDTlBUeExydw?oc=5"
+    }
+  ],
+  "brief_ko": "삼성·KIA 총력전, KT만 미소"
+}

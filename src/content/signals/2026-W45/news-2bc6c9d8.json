@@ -1,0 +1,24 @@
+{
+  "id": "news-2bc6c9d8",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "doosan",
+  "teams": [
+    "doosan",
+    "kia",
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "마이데일리",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBwRk9lbjBHV191bU5Hd3RBTUlfVWk2QWllcGVfODlIV2VURU54bTA5djRsZVZQQkpNVnJydFNtVnUtX0hGb3h4bzJmcjVzWEprYndVaVlIcklBaVdhTHMzQw?oc=5",
+  "title": "2년 전 KS 눈물 어떻게 잊었나, 심지어 친정 팀인데→두산-KIA-삼성 이적생 멘탈의 비밀 \"전 소속팀 아닌, 9개 구단 중 한 팀\" [MD광주]",
+  "published_at": "2026-10-29T23:41:00.000Z",
+  "collected_at": "2026-10-30T07:39:02.497Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 73,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

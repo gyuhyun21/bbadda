@@ -1,0 +1,24 @@
+{
+  "id": "community-e56c68b8",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 FEEDER",
+  "url": "https://blog.naver.com/billionseed/224458723671",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/9e7NTRDOEKB",
+  "title": "“문학경기장 살릴까, 북항에 새로 지을까” 인천·부산 5만석 돔구장 경쟁",
+  "published_at": "2026-10-30T11:01:00.000+09:00",
+  "collected_at": "2026-10-30T07:39:02.497Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

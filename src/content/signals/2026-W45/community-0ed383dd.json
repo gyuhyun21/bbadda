@@ -1,0 +1,24 @@
+{
+  "id": "community-0ed383dd",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 Smart Lifestyle",
+  "url": "https://blog.naver.com/selenadobby/224459072200",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/HULHgAfctke",
+  "title": "2026 한국시리즈 예매 방법 총정리! 티켓 오픈 일정·NOL 티켓 예매·좌석 가격·취소표 성공 팁",
+  "published_at": "2026-10-30T15:20:00.000+09:00",
+  "collected_at": "2026-10-30T07:39:02.497Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

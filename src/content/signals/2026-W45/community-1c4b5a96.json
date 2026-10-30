@@ -1,0 +1,24 @@
+{
+  "id": "community-1c4b5a96",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&page=4&document_srl=10499948692",
+  "title": "멘헤라라도 나같은 한남은 안만나 - 야구",
+  "published_at": "2026-10-30T03:39:02.497Z",
+  "collected_at": "2026-10-30T07:39:02.497Z",
+  "summary_ko": "",
+  "excerpt": "... 적자생존이라고 들어봄? 1. [레벨:24] 롯데자이언츠 11 분 전. SONSTAR ...",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}
