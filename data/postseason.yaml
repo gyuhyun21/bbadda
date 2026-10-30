@@ -163,7 +163,15 @@ rounds:
         date: 2026-10-30
         venue: { home_of: spo }
         starters: { kia: 네일, samsung: 페덱 } # 예고 선발(일간스포츠 '4차전 선발 제임스 네일 선택', 2026-10-29)
+        starter_notes: { kia: "삼성전 2승 무패", samsung: "KIA전 3번 만나 3패" } # 서울경제 '삼성전 2승 무패·PO 1차전 호투…네일', 미주중앙일보 'KIA 3번 만나서 3번 다 졌다'
+        ig:
+          pre: { hook: "KIA 벼랑 끝\n김도영 2번 승부수", sub: "네일 vs 페덱 리턴매치, 삼성 이기면 KS행" }
+        facts:
+          - "KIA 이범호 감독, 김도영 2번 타순 기용"
         sources:
+          - "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9KdXdmWVlWU245X2tZaHNsTjExYVRQUXYzZGFFbHZsV3JpbmhMaTlJRE5jNGwydUs1ZVBuek5FZHRLUkRzbVQ0YmJ4Zm1Ma0pJOEJfVnRwQ1RKRkXSAWBBVV95cUxNX29fajVGV21lRFhOWFc4UUhScVlPbGQxeE80R3hGR24yRU1rMmY4RjRESk9yRlNMeERWU0taQlNQdE5nVHNFVkZJY3B2RW9sQzV1OEowZEhzUTREUHdXMzk?oc=5" # 김도영 전격 2번(연합뉴스)
+          - "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9qM1lWbVJiTU10ZVdqRWVsMmtXZ0FyWmpEQkVJdmNVa2RIM01Zbld0ZGdEN1Y2VFpBX294NGpTRGU3c2drMVVsX3k4dWE1UklxRTdv0gFTQVVfeXFMT2ozWVZtUmJNTXRlV2pFZWwya1dnQXJaakRCRUl2Y1VrZEgzTVluV3RkZ0Q3VjZUWkFfb3g0alNEZTdzZ2sxVWxfeTh1YTVSSXFFN28?oc=5" # 네일 삼성전 2승 무패(서울경제)
+          - "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9FRjNwWUNBZ2ZKSUFpN2oyZVR2bVV1MFpJT1RIM2x3YU1VSTMxUHhSSXdPT0RFSGNwWjNyWUs2YmNDQWNsem9tWlJHQzlwMXVsQ3I1VDdZZXB3YzJpNVM4c3BB?oc=5" # 페덱 KIA전 3패(미주중앙일보)
           - "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9OalgwbTF6ang3TlNLVTZWaUZyT0Rqc1Z4TWZTX3M1bDZVX0cxa3R3TXVOaVhYUW5UQWJPV0g3emxsQVllaXFkR2VHU25aSlNfaWlnYTlSdGlJWTQ?oc=5" # KIA 4차전 선발 네일
           - "https://news.google.com/rss/articles/CBMiakFVX3lxTE9sRFh4YWhIQk5ncVpHaWlzOVJHZ09oUG5sekVsTE9jMzBjSFpPaWFHUUI2VTBQVWFsSVVnWC1yVURkWGlULVFlQ0l4a0F1YktuSGFOVkVHN2ExTHo3ck10aTlQRTBVVUY2S2fSAW9BVV95cUxPWlBOSkFiTzF0ZVNGRzdwbUxQQ0ZxNUZpd095Y2ZiWkFFVjA4R1B0SmdRdXBXenByU0J0UTRINTJockkxcURMbXd5dm82V0Nsb0UwcFZPUjdjTkNPaUpuOTJtMmc5RDBOd3J6ZWRIZlk?oc=5" # 삼성 4차전 선발 페덱(연합뉴스 '벼랑 끝 KIA 네일 vs 굳히기 삼성 페덱')
       - { no: 5, date: 2026-11-01, venue: 대구 }

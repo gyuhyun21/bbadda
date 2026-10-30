@@ -1,0 +1,23 @@
+{
+  "id": "news-17ca7ad3",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1iN0VvQldTMFkwSzhYLTVOdjNJWmVOX0VSYS1KUFlnR1dzVnRLaUxSWHF1UUF1SWF4RU5TWi1XdmhpRUd0eFc2emczc3NVLUg4MlJPYjh3aDAxN3g0c1kzdE02WVZZLUhHNU1BYlZvTdIBb0FVX3lxTE1iN0VvQldTMFkwSzhYLTVOdjNJWmVOX0VSYS1KUFlnR1dzVnRLaUxSWHF1UUF1SWF4RU5TWi1XdmhpRUd0eFc2emczc3NVLUg4MlJPYjh3aDAxN3g0c1kzdE02WVZZLUhHNU1BYlZvTQ?oc=5",
+  "title": "'역대 PS 홈런 신기록 보이는데' 슈퍼 스타의 가을, 이대로 끝나나",
+  "published_at": "2026-10-30T02:58:59.000Z",
+  "collected_at": "2026-10-30T07:39:02.497Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 82,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

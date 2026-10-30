@@ -1,0 +1,30 @@
+{
+  "id": "community-1133a707",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 MATCH DAY ON AIR",
+  "url": "https://blog.naver.com/zsporchive/224458901872",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/HUi3DcJr7Jl",
+  "title": "한화 출신 와이스 FA 풀렸다, 휴스턴 500만 달러 포기…대전 돌아오나",
+  "published_at": "2026-10-30T12:25:00.000+09:00",
+  "collected_at": "2026-10-30T07:39:02.497Z",
+  "summary_ko": "블로그 MATCH DAY ON AIR 글은 휴스턴이 500만 달러 옵션을 포기해 한화 출신 와이스가 FA가 됐다고 전했다. 한화 복귀 가능성에 관심이 쏠린다.",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "매일신문",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1HcmFlLVcxbDhJUFZEZHlyLTF0UHNRTXdWRlBIejVCZzZZaFlJSnpkMVpRUzQ3azVYanVhQTlISzBaM2NIT0pDY2R4cFZxVTd6OTFPTERha0tRQWpkWUZMa1dR?oc=5"
+    }
+  ],
+  "brief_ko": "와이스 FA, 대전 돌아오나"
+}

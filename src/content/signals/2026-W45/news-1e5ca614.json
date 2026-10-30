@@ -1,0 +1,23 @@
+{
+  "id": "news-1e5ca614",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "www.xportsnews.com",
+  "url": "https://www.xportsnews.com/article/2213325",
+  "title": "KIA 불방망이, PS 첫 등판 영건이 잠재웠다…이재희 \"이런 경기 던지고 싶었어\" [PO3]",
+  "published_at": "2026-10-30T02:12:03.000Z",
+  "collected_at": "2026-10-30T07:39:02.497Z",
+  "summary_ko": "엑스포츠뉴스에 따르면 PO 3차전에서 포스트시즌 첫 등판에 나선 삼성 이재희가 KIA 타선을 잠재웠다. 이재희는 \"이런 경기 던지고 싶었어\"라고 말했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 80
+  },
+  "sentiment": "neutral",
+  "brief_ko": "이재희, PS 첫 등판에 KIA 잠재웠다"
+}

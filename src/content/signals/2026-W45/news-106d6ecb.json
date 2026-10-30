@@ -1,0 +1,22 @@
+{
+  "id": "news-106d6ecb",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "동아일보",
+  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5tRzVkTjBPUDhpNmdpcnJfZnFFQWtqVHJJNHJ6VUprLXhCZzZ2T3RiekxSaTF1eURFQlRvRzNMSnQ3UWNkcVFtS2x3bHBwU2JzZnl5WU1SdTdtOTdzd1hsQzBnbGJVbFFWeVdoQm42NzJrb3Fp0gFmQVVfeXFMT1UtYUFhVUVFTW0xcld5T1p4RWw4b0lUeVg4OE1WOENYT05oOThzeVI4S19XMTlXMHVVRTN2Y2NwZ2dUcExqV1ZiNl9SbzZmYWQ5S2xmOENSaks4MmtReWM2b3BtczBR?oc=5",
+  "title": "박승규, 가을에도 ‘히트 포 더 팀’…삼성 한국시리즈까지 1승",
+  "published_at": "2026-10-29T13:55:00.000Z",
+  "collected_at": "2026-10-30T07:39:02.497Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 62,
+    "relevance": 80
+  },
+  "sentiment": "neutral"
+}

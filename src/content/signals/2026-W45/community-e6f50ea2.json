@@ -1,0 +1,24 @@
+{
+  "id": "community-e6f50ea2",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 ground_note님의 블로그",
+  "url": "https://blog.naver.com/ground_note/224458270907",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/2XTMjzAjUb7",
+  "title": "염경엽 감독, 손혁 코치와 재회설 도는 이유 뭐길래",
+  "published_at": "2026-10-29T21:56:00.000+09:00",
+  "collected_at": "2026-10-30T07:39:02.497Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 61,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

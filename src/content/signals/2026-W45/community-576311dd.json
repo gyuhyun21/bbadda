@@ -1,0 +1,23 @@
+{
+  "id": "community-576311dd",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 스포티즘",
+  "url": "https://blog.naver.com/yeorugazi/224457954832",
+  "title": "⚾ 야구 우천취소 티켓 자동 환불일까? 정규시즌·포스트시즌 취소 시한과 확인법",
+  "published_at": "2026-10-29T17:10:00.000+09:00",
+  "collected_at": "2026-10-30T07:39:02.497Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 60,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

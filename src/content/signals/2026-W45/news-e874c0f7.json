@@ -1,0 +1,22 @@
+{
+  "id": "news-e874c0f7",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "매일경제",
+  "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9EQUNObkFIM1hVRURyLTZudmgxTDR1aTN4RFBHQXplMF9tUUNJZ2NtM1FYQS0zT3pXd3NVNlN2czRtc295SUE?oc=5",
+  "title": "“초반 잘 넘기면 길게 갈 수 있는 구위 보유”→1.2이닝 2실점…사령탑 기대에 부응하지 못한 삼성 최원태 [PO3]",
+  "published_at": "2026-10-29T10:25:28.000Z",
+  "collected_at": "2026-10-30T07:39:02.497Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 60,
+    "relevance": 80
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "news-a177462c",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "연합뉴스",
+  "url": "https://www.yna.co.kr/view/AKR20261030141800007",
+  "title": "김도영 전격 2번…이범호 KIA 감독 \"페덱 공 못 치면 진다\"",
+  "published_at": "2026-10-30T07:12:05.000Z",
+  "collected_at": "2026-10-30T07:39:02.497Z",
+  "summary_ko": "연합뉴스에 따르면 KIA 이범호 감독이 PO 4차전에서 김도영을 2번 타자로 올린다. 이 감독은 삼성 선발 페덱의 공을 치지 못하면 진다고 말했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "한스경제",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE12Ylh4b3g3YW9KV2VsUUJyRGE1dUtid0NmV3plS0JVUXlXWHNsZGhBYS04b0tKUXhkQWVvem00WFpnV0JqdUFVNW1mbWJ4Wm9SUXNYdWNZRW9vcEJrYjE5TTlGNGpuTGVnbUFr?oc=5"
+    }
+  ],
+  "brief_ko": "김도영 2번, 4차전 승부수"
+}

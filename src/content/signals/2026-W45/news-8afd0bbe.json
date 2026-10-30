@@ -1,0 +1,30 @@
+{
+  "id": "news-8afd0bbe",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://www.mt.co.kr/amp/sports/2026/10/30/2026102919354567212",
+  "title": "\"못해도 끝까지 해보자\" 한 달간 경기까지 포기한 '일병' 박지환, 타격폼도 싹 바꿨다 \"청라 시대엔 주전으로 뛰겠다\" [인터뷰]",
+  "published_at": "2026-10-30T01:01:00.000Z",
+  "collected_at": "2026-10-30T07:39:02.497Z",
+  "summary_ko": "머니투데이에 따르면 군 복무 중인 박지환이 타격폼을 바꿨다. 청라 시대에는 주전으로 뛰겠다고 밝혔다.",
+  "metrics": {},
+  "scores": {
+    "hot": 82,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1vNTJzd3Z6Smp1V0pISDBqZXdoa3JuVHRzZTJqTFZIcVcyNURUREVfalgyankwNzVQZEJHa3N4MjQ4VFdFbTQyZ1JJV3Z3WDVuTG5PODh0cG0yczlJUUdRZUF0YW5tZVl0MkFUXzM5VjY0UVc1X0E?oc=5"
+    }
+  ],
+  "brief_ko": "박지환, 타격폼 싹 바꿨다"
+}

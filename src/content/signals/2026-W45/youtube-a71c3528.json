@@ -1,0 +1,28 @@
+{
+  "id": "youtube-a71c3528",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "LionsTV",
+  "url": "https://www.youtube.com/watch?v=djIQ0rZOLjQ",
+  "title": "반격은 지금부터🔥 디아즈·류지혁의 한 방! 총력전으로 완성한 짜릿한 역전승 #덕아웃1열📹",
+  "published_at": "2026-10-30T03:00:30Z",
+  "collected_at": "2026-10-30T07:39:02.497Z",
+  "summary_ko": "삼성 공식 채널 LionsTV가 PO 3차전 디아즈와 류지혁의 한 방으로 완성한 역전승 영상을 올렸다.",
+  "metrics": {
+    "views": 130628,
+    "likes": 3210,
+    "comments": 418
+  },
+  "scores": {
+    "hot": 82,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "brief_ko": "디아즈·류지혁 한 방, 총력전 역전승"
+}

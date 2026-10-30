@@ -1,0 +1,22 @@
+{
+  "id": "news-fcbd76d2",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "Naver Blog",
+  "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMno0VTU1ZTBiLVJjTEpRdDJYSUdxTll2bzJYTzBseEdwMG9GMlJZOUtHa2l0SGdhclZJLWNqY0FiRHVxYWR5WWxUakplSExvNlUySkxlcDdQcUktRGtGLVVIUXNoNFFmUDBnWW02WEM0ejNTYTg5NVc1am1JWjNpWW50YmVpNXAwdG9QRzBSVzRHTUNN?oc=5",
+  "title": "'다저스 40인 로스터 제외, 롯데가 다시 손 내밀까?' 롯데에서만 통산 35승을 거둔 이 선수, 찰리 반즈(KBO)",
+  "published_at": "2026-10-29T21:08:04.000Z",
+  "collected_at": "2026-10-30T07:39:02.497Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

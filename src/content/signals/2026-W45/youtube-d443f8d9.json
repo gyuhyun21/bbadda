@@ -1,0 +1,32 @@
+{
+  "id": "youtube-d443f8d9",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "source_name": "엠엘비 센터 【MLB CENTER】",
+  "url": "https://www.youtube.com/watch?v=Bc-b3KFv6VU",
+  "title": "대전 예수 '와이스' 한화 이글스 복귀",
+  "published_at": "2026-10-30T04:43:05Z",
+  "collected_at": "2026-10-30T07:39:02.497Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 7350,
+    "likes": 140,
+    "comments": 11
+  },
+  "scores": {
+    "hot": 62,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "마이데일리",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9fUWc0Y2diRHNsQ21zZE1mUTFIaFlxTC1oalgyUTV5QklwSjRMdXlxS3pMdnU4QW1iTVh2bFpUUjQzeU1mYjBwRlhRU0hfVzFOZUdTOXFSVjg2bUQ3TU1ySA?oc=5"
+    }
+  ]
+}

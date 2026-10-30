@@ -1,0 +1,23 @@
+{
+  "id": "community-0de76850",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 K스포츠TODAY",
+  "url": "https://blog.naver.com/ai_tutor_/224459121379",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/Ifn8al40avb",
+  "title": "포스트시즌 엔트리 탈락의 아쉬움…KIA 테이블세터, 박상준이 대안이 될까?",
+  "published_at": "2026-10-30T15:32:00.000+09:00",
+  "collected_at": "2026-10-30T07:39:02.497Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "community-f5250a35",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 스포츠 이슈룸: 한눈에 보는 경기와 뉴스",
+  "url": "https://blog.naver.com/whalegreeks/224459109582",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/UTZoREhf6G",
+  "title": "\"밑천 다 드러났네, 동네야구냐\" 임창용, KIA 독설 남긴 진짜 이유",
+  "published_at": "2026-10-30T15:23:00.000+09:00",
+  "collected_at": "2026-10-30T07:39:02.497Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

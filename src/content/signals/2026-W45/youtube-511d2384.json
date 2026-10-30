@@ -1,0 +1,26 @@
+{
+  "id": "youtube-511d2384",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "youtube",
+  "source_name": "쓱단장",
+  "url": "https://www.youtube.com/watch?v=z5jI2AVLebE",
+  "title": "컴프야 V26 두산 투수 종결! 곽빈부터 종결까지! [컴프야 가이드]",
+  "published_at": "2026-10-30T07:00:24Z",
+  "collected_at": "2026-10-30T07:39:02.497Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 117,
+    "likes": 4,
+    "comments": 7
+  },
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

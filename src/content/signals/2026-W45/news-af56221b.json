@@ -1,0 +1,36 @@
+{
+  "id": "news-af56221b",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "미주중앙일보",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBySGhjSnlFU2U2OV9yODFLWklMUE1LeU1sRmljTE4yVFl2RGtYVUN2YU5aX0toTGFEN3dHLW54RWI5bVRrTVhMek9xX2xscUNsNEo4NTRqb1owZi1CaVRjcmRn?oc=5",
+  "title": "'고민 또 고민' 김도영 2번 승부수, KIA 기사회생시킬까...한준수도 지명타자 출격 [PO4]",
+  "published_at": "2026-10-30T06:50:00.000Z",
+  "collected_at": "2026-10-30T07:39:02.497Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 100,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUmtDZFFLWDVjUnp6b0NQSTFScTJmSlZGaWZiOC1MQkZPRTRXRjAwenhoV2FEVFBjR204YXZid09mcERSMkdncS1oU3dHOHplNkdmQ0RXVXVzWU83eEhVSDdSTVA3RlFQZmduMmVOY0ppRm5DM3ptcmRpVDE1SlRGRzNRMNIBlwFBVV95cUxQYWNQeHVnbGZORTB1TXJvc29YbXd1bVNQVVl3MFdnMkNKWWdCY1gxbHR5ejVhSlVpamI2aTZDajlyc0pIa0pBTXpaMTZIUW1QWEVHYWg3bk5BY3pRQWJseWQyVVNXV3Rlb0stMzMwWFNOeFYyRldMM2xiM1Q3ZVhYUmRUVEFhdWxSWEhpYXV0WHcta0FHUWtB?oc=5"
+    },
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9hV0RGUnpvTEJKWTZFUVdPY3NRcUhXTUhkZ1VDWU1Jd3dCbnV1WGFpSG9SamJKNUN0bG8tRkp6WUo0SHhHdVJGVkVyWnJEamlvbUJRTEFkRmxFNFdHSTRWVzRyb1JBZVVVWHfSAW9BVV95cUxPNml2SG5NNkl3eG85cUtfdDRBTzN2Q0hmVS1DNEVlaDVrUWFnbDcybnp5STVkLThCdmZZNmh2RlJIamxROVNqRERQakxWQU5iS252Q2RUQ1M3bDBldndjdUFzb0xvaWdxbVZVeE9rcEU?oc=5"
+    },
+    {
+      "source_name": "스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1BU0hWS3d5ajd6QzBLcXdnWjRvNkFfUk1lRzVENUZ0NkNSdW5CSjhwQ2pCN0pGWk1OVE1iYU5rS3Ixci1JOUlYbXBVQlBGM1pjX2s5M3ZseEwyOUVTeXVfa29PY1owRFlvYlM0VDZ2NFNqalFEUXc?oc=5"
+    }
+  ]
+}

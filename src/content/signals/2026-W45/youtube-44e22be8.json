@@ -1,0 +1,28 @@
+{
+  "id": "youtube-44e22be8",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "kt wiz - 위즈TV",
+  "url": "https://www.youtube.com/watch?v=7jx3YgH4Vx8",
+  "title": "[글로벌 위즈] ep.03 외국인 관중편",
+  "published_at": "2026-10-30T07:00:35Z",
+  "collected_at": "2026-10-30T07:39:02.497Z",
+  "summary_ko": "kt wiz 공식 채널 위즈TV가 [글로벌 위즈] 3화 외국인 관중편을 올렸다.",
+  "metrics": {
+    "views": 1358,
+    "likes": 110,
+    "comments": 3
+  },
+  "scores": {
+    "hot": 77,
+    "relevance": 50
+  },
+  "sentiment": "neutral",
+  "brief_ko": "외국인 관중편 글로벌 위즈 3화"
+}

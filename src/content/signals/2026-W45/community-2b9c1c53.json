@@ -1,0 +1,25 @@
+{
+  "id": "community-2b9c1c53",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 FULL COUNT",
+  "url": "https://blog.naver.com/fullcount9/224458924672",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/1cv3oTUBM25",
+  "title": "한국시리즈 예매 기다리는데…11월 2일 개막일도 바뀔 수 있다",
+  "published_at": "2026-10-30T12:47:00.000+09:00",
+  "collected_at": "2026-10-30T07:39:02.497Z",
+  "summary_ko": "블로그 FULL COUNT 글은 한국시리즈 예매를 기다리는 가운데 11월 2일 개막일이 바뀔 수 있다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "KS 개막일 바뀔 수도"
+}

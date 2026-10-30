@@ -1,0 +1,23 @@
+{
+  "id": "news-e2e2dd08",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠월드",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9IU1NmejVXdzBkX3BhcXBGbEV3R2FzSE1QRVR5aWZvREx0dl9BTnMtQXRQSUtIUzJvQ0hhMFlucGZoX2JUb05TV0VaRGE0dkM0dlFyeHNNWlFmTlU4QTFoT1BR?oc=5",
+  "title": "‘불꽃야구2’, 독립리그 최정예 선수들과 맞대결…애청자 조째즈 애국가 제창",
+  "published_at": "2026-10-29T07:41:53.000Z",
+  "collected_at": "2026-10-30T07:39:02.497Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 59,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

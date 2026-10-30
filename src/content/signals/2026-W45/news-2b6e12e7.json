@@ -1,0 +1,29 @@
+{
+  "id": "news-2b6e12e7",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "스타뉴스",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9xUEtfd1VVWm5NcnZpcUlSallJWUVpclQ2TURrcWZTLXM3ZHNTVXh3V21aSnZVOExsZUt6eW1WM2w2aUxXYTFUc1o2LUNhTnY3MVJOa3Y2c0dWUFYwUkhUZGdfNlkzaXY5VXJHQ2tCTkxoVU5CVGc?oc=5",
+  "title": "\"내 인생 최고의 야구 경기\" KIA-삼성 가을야구, 美 독립리그 27홈런 거포도 홀렸다 \"내 강점은 장타력... KBO서 뛰고 싶다\"",
+  "published_at": "2026-10-30T06:32:27.000Z",
+  "collected_at": "2026-10-30T07:39:02.497Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5UMms5cnNfQ3NSUUFTdzRFQmNPb29ERVh0bEJVaE1WdjJ1S2Rseno3TkcxdnVPYi1OVjFOdGVRX01lS01neWxpQ2NlYm13Y0UxMGFyeTUzcFU5X1B6dnVLeVc2X0t2ems4QjRWbzEyWdIBb0FVX3lxTE5UMms5cnNfQ3NSUUFTdzRFQmNPb29ERVh0bEJVaE1WdjJ1S2Rseno3TkcxdnVPYi1OVjFOdGVRX01lS01neWxpQ2NlYm13Y0UxMGFyeTUzcFU5X1B6dnVLeVc2X0t2ems4QjRWbzEyWQ?oc=5"
+    }
+  ]
+}

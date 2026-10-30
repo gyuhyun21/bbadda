@@ -1,0 +1,27 @@
+{
+  "id": "youtube-c5054ef0",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "youtube",
+  "source_name": "키다리맨",
+  "url": "https://www.youtube.com/watch?v=caoAMfmyblk",
+  "title": "[키다리맨 LIVE] 아직까진 조용한 오프시즌, 키움 타격코치 썰? 헤이수스 비하인드",
+  "published_at": "2026-10-29T21:39:06Z",
+  "collected_at": "2026-10-30T07:39:02.497Z",
+  "summary_ko": "키다리맨 채널이 키움 타격코치 이야기와 헤이수스 비하인드를 다룬 라이브를 열었다.",
+  "metrics": {
+    "views": 4624,
+    "likes": 86,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 58,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "키움 타격코치 썰과 헤이수스 비하인드"
+}

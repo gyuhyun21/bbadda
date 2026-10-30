@@ -1,0 +1,26 @@
+{
+  "id": "youtube-f75ee8a8",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "youtube",
+  "source_name": "응최몇",
+  "url": "https://www.youtube.com/watch?v=fbRxLO8va1M",
+  "title": "NC 다이노스 오장한 응원가 Music Video",
+  "published_at": "2026-10-30T07:00:11Z",
+  "collected_at": "2026-10-30T07:39:02.497Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 54,
+    "likes": 5,
+    "comments": 2
+  },
+  "scores": {
+    "hot": 60,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

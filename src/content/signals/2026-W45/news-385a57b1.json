@@ -1,0 +1,36 @@
+{
+  "id": "news-385a57b1",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "조선일보",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUlA4TUEtRHBKdWpxVnpKblBCTlBRMjZNMXpaemF6SmpiekRvbUhRdFdBc3dCQUU0V3BuNkkzWnpQQm5VTFRmX0NwS0tVbTk5UktGc1N1dlU0YjlZV0JuZDUwM0x3WGxYNk45N3lEREQ4eDJhNEFYQmdfWTlaT05ISVRMbw?oc=5",
+  "title": "KIA 日 오릭스 마무리캠프 보낸다...최유찬-이송찬-김찬민-권다결 등 4명 파견",
+  "published_at": "2026-10-30T06:10:00.000Z",
+  "collected_at": "2026-10-30T07:39:02.497Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 91,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9lOHV0bk1Lb3Bic0hWUDRGdHpYYjFQbGJsVlNPaEozaEZkVEdTOTU1ZW1sYl9zWWluaFVValM0eTRrVjVCNnpsNkFSS0VxU0VmbGV1WVdiZzY1VktKcXQycEFXeEVKclMtb1HSAW9BVV95cUxPV1RjOUhfanFCTWtzOTBzRE53S0g5ZlBOVDJoZmZpdnlSSkpaMG13cnhfajByd2ZZLUVBRGtqalJVaWNTMWVrTU5wa3RKRWlOWFdIX2xWTXZhQUV3WExLQllKUF9GbFVPa1VfYzJ5OGM?oc=5"
+    },
+    {
+      "source_name": "뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBScUNyOTBEVFpfY2wzTTlQTTZOSU54eG9aSXRyYl9XTjRNakF4Yl91WUdOdk93N0xOX25vQWE5NzRWWEdWT1RQZDRzTjE1Zm5Vd1dWVTM2UUQ4VXd4LXBkcNIBeEFVX3lxTE9FTzgwUW1xdEZZV3FKSWd1TGlYNUNxVDhpT2RWbzB4LUoxb2RsVTFfTDNNbjgwTm9DeXZVSGtGZ2xXa2N3NVY4dFRTbnZobnRIbVN3bnFkSVA4NnBPdHJSblh4MmVwSnRKQV9Cam9mS0REcUlSZ2QydA?oc=5"
+    },
+    {
+      "source_name": "SPOTV NEWS",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5sWjJkRlBHc0RuNUg1ck10ZVhFSG1Vdk5tX2MwdTYtX2REc21naU9OeGo2MWJzQ2ZHQ3VCQTJzWTJkRkdyNWc4a1loVFlvNHhKV1NvSW1KVjFvS3ZkeGVzaGtJMk9IbURvbVRwTWdiQ1k?oc=5"
+    }
+  ]
+}

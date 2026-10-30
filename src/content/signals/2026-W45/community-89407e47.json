@@ -1,0 +1,24 @@
+{
+  "id": "community-89407e47",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 sportshub365 카달로그",
+  "url": "https://blog.naver.com/sportshub365/224458436847",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/9lyNQlH3EzX",
+  "title": "\"철벽 마운드라더니...\" 원태인, 나성범 한 방에 무너진 136km 체인지업 반전 근황",
+  "published_at": "2026-10-30T14:58:00.000+09:00",
+  "collected_at": "2026-10-30T07:39:02.497Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "youtube-3e9c4714",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "서건창은할수있다",
+  "url": "https://www.youtube.com/watch?v=QdMejU6HhEI",
+  "title": "서건창 응원가 프로젝트 #17 | 얼쑤",
+  "published_at": "2026-10-29T22:30:10Z",
+  "collected_at": "2026-10-30T07:39:02.497Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1186,
+    "likes": 3,
+    "comments": 2
+  },
+  "scores": {
+    "hot": 39,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

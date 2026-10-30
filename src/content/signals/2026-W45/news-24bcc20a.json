@@ -1,0 +1,23 @@
+{
+  "id": "news-24bcc20a",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스핌",
+  "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE03QWFHdFQ1Z21GZjNLN3JBWk5Cd3BCVklldWg3dzhvQjVXSjNYZk1JalRVZGdhWVBWWDQtazVFbUJ4V0ZqM1BzUFhBd2ZwdS1fcmQ5dzdrZUotSlZx?oc=5",
+  "title": "[AI프리뷰] 30일 광주 KIA-삼성 PO 4차전, 페덱 1차전 설욕투로 삼성 KS 이끄나",
+  "published_at": "2026-10-30T03:19:00.000Z",
+  "collected_at": "2026-10-30T07:39:02.497Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

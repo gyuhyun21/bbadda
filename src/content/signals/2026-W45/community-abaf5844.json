@@ -1,0 +1,24 @@
+{
+  "id": "community-abaf5844",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 경기를 보다가 문득",
+  "url": "https://blog.naver.com/munduksports/224458638045",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/5HIoGmRu1Bv",
+  "title": "\"노코멘트\"란 한마디.. 아시아쿼터 올스타 과연 잔류할까",
+  "published_at": "2026-10-30T10:15:00.000+09:00",
+  "collected_at": "2026-10-30T07:39:02.497Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

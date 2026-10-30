@@ -1,0 +1,28 @@
+{
+  "id": "youtube-d463d740",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "Eagles TV",
+  "url": "https://www.youtube.com/watch?v=VfSexGzJnfk",
+  "title": "미야자키 캠프 전 마지막 점검 완료! 마음껏 실수하고 보완한 3주간의 교육리그 대장정 마무리",
+  "published_at": "2026-10-29T23:00:31Z",
+  "collected_at": "2026-10-30T07:39:02.497Z",
+  "summary_ko": "한화 공식 채널 Eagles TV가 3주간의 교육리그를 마무리하고 미야자키 캠프 전 마지막 점검을 마쳤다는 영상을 올렸다.",
+  "metrics": {
+    "views": 95340,
+    "likes": 1460,
+    "comments": 109
+  },
+  "scores": {
+    "hot": 71,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "교육리그 마치고 미야자키로"
+}

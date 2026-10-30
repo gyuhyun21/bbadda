@@ -1,0 +1,23 @@
+{
+  "id": "news-4fd8b2be",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "뉴시스",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1XaXpSbXBFWlNfWm9XOXdYRjAtNlVHdW92bTdkdVVzM2hiVXROSkduWjN3T2U5NkZIVkE0RGdXMGs1T1BMdkFxcGktRFhaMlF1SVJ3aDlvYUdVQW9uN2gxStIBeEFVX3lxTFA1bU1HdWtUcm05SENGMU9KOXFSMUxPcjBuelFFYUNBdHFWQm42bkFJNG55SzBrM0JtZ3VRWnFRcTNnMHB4aW5FTGdTaDBfcXdJSERZZHVBRHA2V1FHRF9WdUVSbUZXMENnNENqcFRHS3lBNnZmVVRPdQ?oc=5",
+  "title": "9명 쏟아붓고도 불펜 싸움서 밀린 KIA…고민이 깊어진다[PO]",
+  "published_at": "2026-10-30T01:16:27.000Z",
+  "collected_at": "2026-10-30T07:39:02.497Z",
+  "summary_ko": "뉴시스에 따르면 KIA는 PO 3차전에서 투수 9명을 쓰고도 불펜 싸움에서 밀렸다. 4차전을 앞두고 고민이 깊어졌다는 보도다.",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "9명 쏟고도 불펜 싸움서 밀렸다"
+}

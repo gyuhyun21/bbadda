@@ -1,0 +1,27 @@
+{
+  "id": "youtube-dc3e6307",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "source_name": "야구정리당",
+  "url": "https://www.youtube.com/watch?v=JYiGRX45F_0",
+  "title": "야구부장이 밝힌 한화 내년 시즌 구상은?",
+  "published_at": "2026-10-30T06:46:40Z",
+  "collected_at": "2026-10-30T07:39:02.497Z",
+  "summary_ko": "야구정리당 채널이 한화의 내년 시즌 구상을 다룬 영상을 올렸다.",
+  "metrics": {
+    "views": 4452,
+    "likes": 108,
+    "comments": 15
+  },
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "한화 내년 시즌 구상은"
+}

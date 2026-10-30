@@ -1,0 +1,30 @@
+{
+  "id": "news-0c27be34",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "미주중앙일보",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5CQ2RkTkRsQnoxLXI1cVhITmxGSnBfSndJbjZSSkk2dXdaQ2k4cUJob0dZdGNpa2FUTDBXUnk0YmhreVJ2SzYzT2FkMXZGS0Z4RDJTSjJmdDMybHVmamlZNC13?oc=5",
+  "title": "‘형, 뛰지 마! 내가 넘길게’ 구자욱 출루하자 디아즈 또 홈런 폭발…2G 연속 소름 돋는 시나리오 [PO]",
+  "published_at": "2026-10-29T23:40:00.000Z",
+  "collected_at": "2026-10-30T07:39:02.497Z",
+  "summary_ko": "미주중앙일보에 따르면 삼성 디아즈가 PO에서 2경기 연속 홈런을 쳤다. 구자욱이 출루한 뒤 나온 홈런이다.",
+  "metrics": {},
+  "scores": {
+    "hot": 73,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSzZQbzVfa3NQX0FqWGRBYnd1bkJGaVJYbENUVVh1S25NaFlSTDZIei04VlVIakpOODZldDdaM2tETDh5NTZJZF9DVGwwN3d4eV84T3htR3gzamVFSEJGUWRyOVk0MEdHaGJEc0JobkpTa1lQdkNFRkJxelR5MjJyQTZNVQ?oc=5"
+    }
+  ],
+  "brief_ko": "구자욱 출루하면 디아즈가 넘긴다"
+}

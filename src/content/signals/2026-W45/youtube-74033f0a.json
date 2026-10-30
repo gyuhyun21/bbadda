@@ -1,0 +1,28 @@
+{
+  "id": "youtube-74033f0a",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt",
+    "samsung",
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "누구실까요? 달빛동맹",
+  "url": "https://www.youtube.com/watch?v=6dMWuDcjTA8",
+  "title": "최신 인공지능 챗지피티6가 분석했다, KT의 한국시리즈 상대는 삼성과 기아 중 어느 팀이 더 유리할까?",
+  "published_at": "2026-10-30T07:25:27Z",
+  "collected_at": "2026-10-30T07:39:02.497Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 147,
+    "likes": 2,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 42,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

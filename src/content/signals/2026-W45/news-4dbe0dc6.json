@@ -1,0 +1,23 @@
+{
+  "id": "news-4dbe0dc6",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "www.xportsnews.com",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5QWWp5bWlyTW5uc1k5bXZiOWl6R0JVcjBDdVB0N0NMNmZpdmltaUhyY2dCMFNBZGdUN2RyRDhUUk9mYmJFWVFyQmlKX2JlVVQ4RjhmOA?oc=5",
+  "title": "'불꽃야구2' 파이터즈, 독립리그 최정예와 격돌…시즌 목표 15승 달성할까",
+  "published_at": "2026-10-29T08:05:04.000Z",
+  "collected_at": "2026-10-30T07:39:02.497Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 60,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

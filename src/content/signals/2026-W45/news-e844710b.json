@@ -1,0 +1,22 @@
+{
+  "id": "news-e844710b",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "오마이스타",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA1N1VpYVRHZktPTWxMTDhULXJwbnA3RUhMemVjNFM2YnpBMHpHX3Z5NjVnMXZfTk5pa0U5ZGN2SzlhY1NiWG1vVURrOXh2dFdXVks1cHYtdmozTjBBUm5fTlVzblFmbG9RcklKcml2WUxsVmkyeVdwVUwtVTZGZw?oc=5",
+  "title": "공 하나로 삼성 지킨 사토시… PO 역사에 남은 1구 세이브",
+  "published_at": "2026-10-30T00:24:00.000Z",
+  "collected_at": "2026-10-30T07:39:02.497Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 80
+  },
+  "sentiment": "neutral"
+}

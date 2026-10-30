@@ -1,0 +1,23 @@
+{
+  "id": "news-8079b26b",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "뉴시스",
+  "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5SWWxqcnVBU2FFanE5eWx0SS1KTWJNWjQ4UE0waGJfeUhZUHA2NFRrSnl3UHF0bW1YYnQ4c3drTDFveGg4amU0b2VTbUdhTFcyTUt0RGxxTm1NcDVwS051emlYVFhHdUhCV3p1QTdiTHIwbGdYVW5id9IBeEFVX3lxTE5SWWxqcnVBU2FFanE5eWx0SS1KTWJNWjQ4UE0waGJfeUhZUHA2NFRrSnl3UHF0bW1YYnQ4c3drTDFveGg4amU0b2VTbUdhTFcyTUt0RGxxTm1NcDVwS051emlYVFhHdUhCV3p1QTdiTHIwbGdYVW5idw?oc=5",
+  "title": "'끝낸다' 페덱 vs '벼랑 끝 탈출' 네일, 4차전 출격…나흘 만에 '리턴매치'[PO]",
+  "published_at": "2026-10-29T22:00:00.000Z",
+  "collected_at": "2026-10-30T07:39:02.497Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 73,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

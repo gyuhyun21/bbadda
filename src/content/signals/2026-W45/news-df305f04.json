@@ -1,0 +1,22 @@
+{
+  "id": "news-df305f04",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "세계일보",
+  "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ueFRnX3ZVRkpfNzZTWHM4MHF0VDRiZTNQcVFPM3JqMlpib1dCU0NMQ3VSanJoQzJVT2ZVbmFHQUR5blVXUzd4RmJFNGw2eTZkNkstSnJBRkNCRHp4eGgyVTQ2R043Vm5pSGU00gFUQVVfeXFMUHdCZTA3WjRuMFNNOG5rU0p2U1dQVi15NXRRR1BIQVY1amRfMjBaSmVyemVDSGpjMUk5ZDBOaVNJY1VfWjJJRWpUSlBudVpxQmJMT1J1?oc=5",
+  "title": "투수 36명 쏟아붓고 마운드 ‘초토화’…페덱의 복수냐, KIA의 반격이냐",
+  "published_at": "2026-10-30T00:58:21.000Z",
+  "collected_at": "2026-10-30T07:39:02.497Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 80
+  },
+  "sentiment": "neutral"
+}

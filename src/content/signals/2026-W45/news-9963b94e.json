@@ -1,0 +1,29 @@
+{
+  "id": "news-9963b94e",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE94VFk1bVZmanpjLTFRck5oQmZUU1JWRUVpQ3NJN1I2RVBrTUNseS0yQU1uUGNIaFlKZDRIYnJKWXpvRW9GcExGTzBLOHpXNXhuRGhDYXJoWFl6dmNpR2cwOWtsa1RDa0h3TmNLX0FlSdIBb0FVX3lxTE94VFk1bVZmanpjLTFRck5oQmZUU1JWRUVpQ3NJN1I2RVBrTUNseS0yQU1uUGNIaFlKZDRIYnJKWXpvRW9GcExGTzBLOHpXNXhuRGhDYXJoWFl6dmNpR2cwOWtsa1RDa0h3TmNLX0FlSQ?oc=5",
+  "title": "\"동네야구\"→\"밑천 다 드러났다\" 임창용 '또' KIA 비판... 삼성 3승 1패 KS행 예상",
+  "published_at": "2026-10-30T00:08:12.000Z",
+  "collected_at": "2026-10-30T07:39:02.497Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 89,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9NeUlYbFVtRjdJWmdBcDE1YkJWNW9yX1RxeWt2MmVoX3k0WnpwaE9fZUVoNnU2MGJnR0hWcGw3czJQMWtRby12LThtd2hiMHJhNzFCNG8wRXdCVlZVYVZocWxEekoybUlsbmR6cnZTU2pfeHd5U3c?oc=5"
+    }
+  ]
+}

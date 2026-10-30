@@ -1,0 +1,24 @@
+{
+  "id": "community-2b42aa7d",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&document_srl=10499449228",
+  "title": "나도 오늘 과학적으로 승부예측 해봄 - 야구",
+  "published_at": "2026-10-30T01:39:02.497Z",
+  "collected_at": "2026-10-30T07:39:02.497Z",
+  "summary_ko": "",
+  "excerpt": "... 1년전 오늘 LG 트윈스에게 있었던 일 [1]. 2 분 전 자유 LIRR 조회22 추천1.…",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

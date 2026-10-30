@@ -1,0 +1,24 @@
+{
+  "id": "community-a05d4a3f",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 하루에님의 블로그",
+  "url": "https://blog.naver.com/hyunju019/224459164061",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/6PadoDLPxMa",
+  "title": "\"오늘 지면 끝\" 벼랑 끝에 선 KIA, 삼성 상대로 4차전 총력전… 선발 맞대결 승자는?",
+  "published_at": "2026-10-30T16:06:00.000+09:00",
+  "collected_at": "2026-10-30T07:39:02.497Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

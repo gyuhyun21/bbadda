@@ -1,0 +1,24 @@
+{
+  "id": "news-8ecba193",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "매일신문",
+  "url": "https://www.imaeil.com/page/view/2026103009524398942",
+  "title": "삼성, 최원태 2회 조기 강판 후 6투수 계투로 KIA 6-4 제압",
+  "published_at": "2026-10-30T01:45:52.000Z",
+  "collected_at": "2026-10-30T07:39:02.497Z",
+  "summary_ko": "매일신문에 따르면 삼성은 PO 3차전에서 최원태가 2회 조기 강판됐지만 6명의 투수가 이어 던져 KIA를 6-4로 눌렀다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 80
+  },
+  "sentiment": "neutral",
+  "brief_ko": "최원태 조기 강판, 6투수가 막았다"
+}

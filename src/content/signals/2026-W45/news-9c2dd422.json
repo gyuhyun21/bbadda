@@ -1,0 +1,23 @@
+{
+  "id": "news-9c2dd422",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "서울경제",
+  "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9qM1lWbVJiTU10ZVdqRWVsMmtXZ0FyWmpEQkVJdmNVa2RIM01Zbld0ZGdEN1Y2VFpBX294NGpTRGU3c2drMVVsX3k4dWE1UklxRTdv0gFTQVVfeXFMT2ozWVZtUmJNTXRlV2pFZWwya1dnQXJaakRCRUl2Y1VrZEgzTVluV3RkZ0Q3VjZUWkFfb3g0alNEZTdzZ2sxVWxfeTh1YTVSSXFFN28?oc=5",
+  "title": "삼성전 2승 무패·PO 1차전 호투…네일, KIA 운명 쥐고 마운드 오른다",
+  "published_at": "2026-10-29T22:18:50.000Z",
+  "collected_at": "2026-10-30T07:39:02.497Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 80
+  },
+  "sentiment": "positive"
+}

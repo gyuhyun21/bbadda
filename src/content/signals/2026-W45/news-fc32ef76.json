@@ -1,0 +1,28 @@
+{
+  "id": "news-fc32ef76",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9BZXZnZW43N2lsSXdfcG5zNi1QX3k3TWc2aDR3aFpRaE01dkRVSklXNDRvV0tuMm5rWnhmY0FmWk9jYktCUWdhQzRyUWF1emtjcWxCREpKU0Q0dHRXaVQ1cHRhVV9VREYtMmNWYzJPUdIBb0FVX3lxTE9BZXZnZW43N2lsSXdfcG5zNi1QX3k3TWc2aDR3aFpRaE01dkRVSklXNDRvV0tuMm5rWnhmY0FmWk9jYktCUWdhQzRyUWF1emtjcWxCREpKU0Q0dHRXaVQ1cHRhVV9VREYtMmNWYzJPUQ?oc=5",
+  "title": "'오타니 판박이' 가을 야구도 쉽지 않았던 삼성 불펜 지원군, 2이닝 삭제 '미친 호투'→박진만도 극찬 남겼다 [PO3 현장]",
+  "published_at": "2026-10-29T22:17:00.000Z",
+  "collected_at": "2026-10-30T07:39:02.497Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 81,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE05X3BMakNCQzg4d2hvWlM5eHowRWY0MFdvOE9TVkwtbVRnUm00QmRFZENVZkNZcnVDa0ZhdXQ4N2gyY29mcXlhdzJpZVBnVnVFcklQYklMcThLRV8zNXdoUGFIeE1fWHptVlo1Q084ajJLbUVYOUE?oc=5"
+    }
+  ]
+}
