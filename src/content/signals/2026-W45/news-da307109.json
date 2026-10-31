@@ -1,0 +1,23 @@
+{
+  "id": "news-da307109",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "미디어파인",
+  "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA2dDhFOUN0SGsySHFNdUFuSThoZGFvV1BaLVk0dmV6R2lEYjgwb2haZEVtcGNpbWdOaEFmTDVGYm1HbEthZW5FcFlDdm8tRDFNVUxmY041bUdNemdMYTRvSWNUUllqbkc4clJfNll3?oc=5",
+  "title": "KIA, 삼성에 4-2 역전승…한국시리즈 진출 최종 5차전서 결판",
+  "published_at": "2026-10-30T23:13:26.000Z",
+  "collected_at": "2026-10-31T03:38:26.410Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 80
+  },
+  "sentiment": "positive"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "community-d3c80972",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 정구쟁구의 일상 기록",
+  "url": "https://blog.naver.com/jjjeongggu/224459541454",
+  "title": "현실에서 일상블로거인 내가 이세계에선 야구선수..?!",
+  "published_at": "2026-10-30T22:58:00.000+09:00",
+  "collected_at": "2026-10-31T03:38:26.410Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

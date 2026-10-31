@@ -1,0 +1,23 @@
+{
+  "id": "community-0d7106be",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 소소한 기록의 서랍",
+  "url": "https://blog.naver.com/at4u/224459751709",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/7viy9ZSFWcH",
+  "title": "2026.10.25_SSG랜더스배 유소년야구대회",
+  "published_at": "2026-10-31T05:12:00.000+09:00",
+  "collected_at": "2026-10-31T03:38:26.410Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "community-6e456ea3",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 생활정보 노트",
+  "url": "https://bboks.tistory.com/133",
+  "title": "2026 한국시리즈 1차전은 언제 어디서? 하루 밀린 이유까지",
+  "published_at": "2026-10-31T11:16:47.000+09:00",
+  "collected_at": "2026-10-31T03:38:26.410Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

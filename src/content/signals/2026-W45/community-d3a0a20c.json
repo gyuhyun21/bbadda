@@ -1,0 +1,25 @@
+{
+  "id": "community-d3a0a20c",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 리뷰냥의 꾹꾹이노트",
+  "url": "https://blog.naver.com/review-nyang/224459966434",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/3BqufLDZL7G",
+  "title": "박진만 감독 김영웅 실책 감싸기 그리고 다가올 5차전의 운명",
+  "published_at": "2026-10-31T11:32:00.000+09:00",
+  "collected_at": "2026-10-31T03:38:26.410Z",
+  "summary_ko": "블로그 리뷰냥의 꾹꾹이노트가 삼성 박진만 감독이 김영웅의 실책을 감싸안은 일과 5차전을 다뤘다.",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "negative",
+  "brief_ko": "박진만, 김영웅 실책 감쌌다"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "news-e636c4e0",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "연합뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5MdE5nMjdXMkFkeENFa2c2YUVwT1lDX0t4bTl1ZlNTeXZ0eTl4clZIc2NEdnJKcnIwaTJvd1dDazR1TEE4RWV3ZGR5NXJPeU5JaWY3d2g2MTRZOVnSAWBBVV95cUxNekFWVWw4M3Y5UjhQdHdLN3NJemUwRzRmWW96UDFpN0puTEo3bWZ5V1VsR0NHTFE0SUQ3c0hScldVM2JTY1YycF9vbGZtbktNSWdTS3RvWHJsUUstMmxXZVo?oc=5",
+  "title": "여전히 뜨거운 김도영·완벽한 제구 후라도…PO MVP 후보",
+  "published_at": "2026-10-31T01:47:22.000Z",
+  "collected_at": "2026-10-31T03:38:26.410Z",
+  "summary_ko": "연합뉴스는 PO MVP 후보로 뜨거운 타격감의 KIA 김도영과 완벽한 제구를 보인 삼성 후라도를 꼽았다.",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "brief_ko": "PO MVP 후보 김도영·후라도"
+}

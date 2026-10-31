@@ -1,0 +1,26 @@
+{
+  "id": "community-119decef",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "kt",
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 The Alchemist",
+  "url": "https://blog.naver.com/garnett3123/224459971503",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/8EammmaM4Yr",
+  "title": "“KIA가 올라왔으면 좋겠다” KT 이강철 감독의 속내…삼성보다 KIA가 만만하다는 뜻일까?",
+  "published_at": "2026-10-31T11:38:00.000+09:00",
+  "collected_at": "2026-10-31T03:38:26.410Z",
+  "summary_ko": "블로그 The Alchemist가 KT 이강철 감독이 삼성보다 KIA가 올라오기를 원하는 속내를 다뤘다.",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "이강철 \"KIA 올라왔으면\""
+}

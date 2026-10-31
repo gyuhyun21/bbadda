@@ -1,0 +1,24 @@
+{
+  "id": "community-dab22195",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt",
+    "kia",
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 GOOD NEWS",
+  "url": "https://blog.naver.com/livenews101/224459900986",
+  "title": "KT 이강철 감독, 한국시리즈 상대 경계심 고백: KIA보다 삼성을 택한 이유는?",
+  "published_at": "2026-10-31T10:20:00.000+09:00",
+  "collected_at": "2026-10-31T03:38:26.410Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

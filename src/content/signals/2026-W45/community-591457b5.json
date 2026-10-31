@@ -1,0 +1,24 @@
+{
+  "id": "community-591457b5",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 반짝반짝♥성장하는 다이아몬드♥",
+  "url": "https://blog.naver.com/30s15/224459902354",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/Ad4kOegd99W",
+  "title": "마산 야구장 맛집 | 주차가능 맛있는 마차이짬뽕",
+  "published_at": "2026-10-31T10:13:00.000+09:00",
+  "collected_at": "2026-10-31T03:38:26.410Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

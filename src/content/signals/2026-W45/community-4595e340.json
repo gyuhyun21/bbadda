@@ -1,0 +1,24 @@
+{
+  "id": "community-4595e340",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte",
+    "lg"
+  ],
+  "source_type": "community",
+  "source_name": "엠엘비파크",
+  "url": "https://mlbpark.donga.com/mp/b.php?id=202610200119548398&p=121&b=kbotown&m=view&select=spf&query=LG&site=donga.com",
+  "title": "롯데타워에서 LG 트윈스의 승리를 기원하며",
+  "published_at": "2026-10-19T15:00:00.000Z",
+  "collected_at": "2026-10-31T03:38:26.410Z",
+  "summary_ko": "",
+  "excerpt": "... KIA. 7. LG 홈. 0. 전력기록 · 포스트시즌 대진. LG롯데타워에서 LG 트윈스의 승리를 기원하며…",
+  "metrics": {},
+  "scores": {
+    "hot": 8,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

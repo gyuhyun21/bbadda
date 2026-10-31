@@ -1,0 +1,29 @@
+{
+  "id": "community-00c15782",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 레츠고 라이프",
+  "url": "https://blog.naver.com/letsgolife/224459878830",
+  "title": "KBO 한국시리즈 1차전 11월 3일 | 하루 순연, 티빙 중계",
+  "published_at": "2026-10-31T10:37:00.000+09:00",
+  "collected_at": "2026-10-31T03:38:26.410Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "매일신문",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE83b2Z6RndxT0tCbmFOS2xBU3kwSTQ3SlJQRldTTTYyR0pKQ1NLR1lNY20zQWJ1THFQQ254R2Q2UTR1QmpVVnFGUUoteUU3X0g5TTdPRHpId1ZWZkZxZkhsQUVn?oc=5"
+    }
+  ]
+}

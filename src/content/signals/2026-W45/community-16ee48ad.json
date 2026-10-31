@@ -1,0 +1,23 @@
+{
+  "id": "community-16ee48ad",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 인천의 모든것",
+  "url": "https://hynerium.tistory.com/1404",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/BUdRdteH4Z8",
+  "title": "SSG 랜더스, 에레디아와 재계약해야 할까? 새로운 외국인 거포가 필요할까? (2026.10)",
+  "published_at": "2026-10-31T08:10:43.000+09:00",
+  "collected_at": "2026-10-31T03:38:26.410Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

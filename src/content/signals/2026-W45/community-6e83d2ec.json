@@ -1,0 +1,29 @@
+{
+  "id": "community-6e83d2ec",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 brand_yoro님의 블로그",
+  "url": "https://blog.naver.com/brand_yoro/224459910929",
+  "title": "한국시리즈 경기일정 11월 3일 시작",
+  "published_at": "2026-10-31T10:24:00.000+09:00",
+  "collected_at": "2026-10-31T03:38:26.410Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "미디어펜",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBIel9rSWdzaUdVeW1IbkVUM3Fzd1RnbklYdEoxXzZKN3JEaERZd0xhbHBFUjlnb2ZtSklETHJKV18zaG1qcWp4OXNycnl1ZE9oZWplZNIBWEFVX3lxTE9IeDhvS3RBX2lTRXpmSnh0N0xsSVRsblNqMWFtc3pfcFdGRDJpX2VYcDRHa2d4dFdpdXRTbXFwWERZejF4LXBMdW1XWmliNXItWFZnU1VNMjc?oc=5"
+    }
+  ]
+}

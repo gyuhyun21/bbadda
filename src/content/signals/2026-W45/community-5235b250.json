@@ -1,0 +1,24 @@
+{
+  "id": "community-5235b250",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 생활정보1",
+  "url": "https://3040lifeinfo.tistory.com/1179",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/6NHLA1Bzz2p",
+  "title": "2026 KBO 한국시리즈 경기일정 총정리: 경기 시간, 예매 일정, 중계 및 규정 안내",
+  "published_at": "2026-10-31T12:18:41.000+09:00",
+  "collected_at": "2026-10-31T03:38:26.410Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "youtube-63ef4fb1",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "youtube",
+  "source_name": "등산캠핑고고",
+  "url": "https://www.youtube.com/watch?v=UuyRr_5RJh4",
+  "title": "#엘지트윈스응원 #엘지트윈스      #엘지응원가 #엘지트윈스잠실구장 #잠실야구장",
+  "published_at": "2026-10-31T02:46:35Z",
+  "collected_at": "2026-10-31T03:38:26.410Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 56,
+    "likes": 1,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 36,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

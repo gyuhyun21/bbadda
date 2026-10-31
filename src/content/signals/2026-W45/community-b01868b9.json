@@ -1,0 +1,24 @@
+{
+  "id": "community-b01868b9",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 SSS LAB｜생활정보·디지털 가이드",
+  "url": "https://blog.naver.com/sss-songlab/224459981744",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/1E3pUW4Si12",
+  "title": "KIA 삼성 플레이오프 5차전｜11월 1일 오후 2시 중계·한국시리즈 진출팀 결정",
+  "published_at": "2026-10-31T11:51:00.000+09:00",
+  "collected_at": "2026-10-31T03:38:26.410Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "youtube-aa0d213a",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "정병야구",
+  "url": "https://www.youtube.com/watch?v=J9U55SjVXks",
+  "title": "오심이 만든 견제사 #kbo #야구 #프로야구 #롯데자이언츠 #kt위즈 #황성빈",
+  "published_at": "2026-10-31T00:00:11Z",
+  "collected_at": "2026-10-31T03:38:26.410Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 15092,
+    "likes": 62,
+    "comments": 2
+  },
+  "scores": {
+    "hot": 54,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

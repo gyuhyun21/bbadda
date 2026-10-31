@@ -1,0 +1,23 @@
+{
+  "id": "news-20133be0",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "진일보 | 전남일보",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1KbFQwbll4T1NJb1ozWHk2dmJUeFUtRjdqMUt4b2NxbEtnc1BxNmMxdFlBR2FxTVp2TDJsTmdqOWljSVJ3aWMwYk5fcGR3N09QdjZ6TEs5ZXBuS1hITGJlTnBkZ3JnMUhoUEZzTzIzRQ?oc=5",
+  "title": "KIA냐 삼성이냐…PO 최종 5차전서 KS행 주인공 가린다",
+  "published_at": "2026-10-30T22:50:58.000Z",
+  "collected_at": "2026-10-31T03:38:26.410Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

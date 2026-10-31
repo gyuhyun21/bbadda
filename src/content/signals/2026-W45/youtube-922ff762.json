@@ -1,0 +1,56 @@
+{
+  "id": "youtube-922ff762",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "youtube",
+  "source_name": "이슈 투데이",
+  "url": "https://www.youtube.com/watch?v=wUiYjhq-ylg",
+  "title": "김강민 NC 외야 코디네이터, KBO 최초 보직 합류",
+  "published_at": "2026-10-31T01:55:04Z",
+  "collected_at": "2026-10-31T03:38:26.410Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 782,
+    "likes": 7,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 42,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1scGswTVdjcEpqNW8xa2F4cHdTMGphMlJ0UFpXUUVWU01WM0p4OWEwbHRmX0o5RnhwQjRfTjVGQWZXaW94MVAwSWh5VWJQSk5CdG5rMW5GQjVKdzJBSE9tQ9IBYEFVX3lxTE1scGswTVdjcEpqNW8xa2F4cHdTMGphMlJ0UFpXUUVWU01WM0p4OWEwbHRmX0o5RnhwQjRfTjVGQWZXaW94MVAwSWh5VWJQSk5CdG5rMW5GQjVKdzJBSE9tQw?oc=5"
+    },
+    {
+      "source_name": "싱글리스트",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5tZnFBQ3BsSTlkZ3NKNWdHUzNoZktOWThSYVJsbkdVLUJSOWJiYTlaNXo0ZlB6QTZFQ3g3aUwzNlBRcnlRZ3lXTkpOWjZCNlh0aTZkYTMtRVVRSnJvZXg5cW5QelJodw?oc=5"
+    },
+    {
+      "source_name": "뉴스핌",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB4S2hXa1JJZkFjcDNZcXJQWC12TTJvQ19oNEJKd1REWkpCajJSSE90UmthOG1OdXRiYmJxdXhOMnEweHZPVlNuMXZWaVRjZzMwNGZFMy1mM2djSjBZ?oc=5"
+    },
+    {
+      "source_name": "스포츠월드",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1uZXNvYkZ1Nk54R1VDMHkxVWtBZl9qZXJNQnVZT1pxdHl4eVlOaE5sME5TMVFwNEpxVEw5em1qUDRQaHlPYU95ZHZnUjZOelVBMkJYTUsxMjFadjZHVHlfdEZ3?oc=5"
+    },
+    {
+      "source_name": "일간스포츠",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE80R1QtNWxOeG9VdjAwSWdzQnNJZUtnUEdLVi1qVDlldWVxTEQ1R01jd3ZxV1o4alRZQ2NxZ3NxdlFEY2V1M1BRVGVIbUtBdHZRWWI3OTd5ZTlITlk?oc=5"
+    },
+    {
+      "source_name": "더게이트",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBQZzNRbHVETkR3V0x6dzduM1RvekpOWXV3QTIwZVB2SE0ycndLT2xXdU9mUkREWmlFU2Z2UDVCT0ZxakFNRVNBS2h5Ynp2TVpZTGlrUHMtdkRXWmtRNVdFaS1rbUdva0pYeEHSAWxBVV95cUxQY0htb0V2OHh6VmFGVE56dVlKNzZ2UTFsSXYxTjF5WUhTQkdWOUt4d0kyUDF2YTgtVkNrVEY2WFhJak16bEZjeGFjcHh4eVNHemt5Zmp0LW9xWDA4Qm5PbGJaVjh5ZDgtZXRjZmE?oc=5"
+    },
+    {
+      "source_name": "뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9hUDEtSXRWM3RFOFhYYzhMN2JtYmpWNEhudG1KLXc3aUxSNHMwaUExQmRCaHl4WUNBQTlqeVNvcGlXbGNLd1FNX2ZfS0pWR3c1dTl4Ti1BSQ?oc=5"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "youtube-81913fc4",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "youtube",
+  "source_name": "SSG 랜더스 리틀",
+  "url": "https://www.youtube.com/watch?v=FRfZQ5zCiMY",
+  "title": "SSG 랜더스 리틀 라이브 방송",
+  "published_at": "2026-10-31T00:13:32Z",
+  "collected_at": "2026-10-31T03:38:26.410Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 25,
+    "likes": 2,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 57,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

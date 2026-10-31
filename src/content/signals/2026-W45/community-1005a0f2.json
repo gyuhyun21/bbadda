@@ -1,0 +1,22 @@
+{
+  "id": "community-1005a0f2",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 스포리움",
+  "url": "https://blog.naver.com/sporium_/224459689149",
+  "title": "\"롯데 한동희 2군에서 돌아와 25홈런까지\" 가장 먼저 바꾼 타격 습관",
+  "published_at": "2026-10-31T02:18:00.000+09:00",
+  "collected_at": "2026-10-31T03:38:26.410Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "news-d1b58208",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "연합뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4xX2pkUmZVVUczVGlmY2JDM0NPdV95ZFhrWFR1OEg4NUVjNlY1Q0RjOGxMUDNsSkdGdVVXV04wVzNCMHp3ZHRBLVl2UEgyLTB2bnByWUlRWTYxT0gwOEU3SNIBYEFVX3lxTE4xX2pkUmZVVUczVGlmY2JDM0NPdV95ZFhrWFR1OEg4NUVjNlY1Q0RjOGxMUDNsSkdGdVVXV04wVzNCMHp3ZHRBLVl2UEgyLTB2bnByWUlRWTYxT0gwOEU3SA?oc=5",
+  "title": "'멈춤 동작 빼고 진화' 삼성 배찬승 \"우승까지 집중할 것\"",
+  "published_at": "2026-10-30T22:25:50.000Z",
+  "collected_at": "2026-10-31T03:38:26.410Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

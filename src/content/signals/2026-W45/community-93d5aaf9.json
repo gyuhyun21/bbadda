@@ -1,0 +1,24 @@
+{
+  "id": "community-93d5aaf9",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 오늘의 핫이슈",
+  "url": "https://issueplaynote.tistory.com/67",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/iaGiCe2976",
+  "title": "삼성·KIA 플레이오프 5차전, 11월 1일 대구 끝장승부… 한국시리즈 11월 3일 개막 총정리",
+  "published_at": "2026-10-31T11:47:27.000+09:00",
+  "collected_at": "2026-10-31T03:38:26.410Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "community-77c194a2",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "다음카페 ★진달래교회★",
+  "url": "https://cafe.daum.net/woorinart/7DgP/490",
+  "title": "【KIA 타이거즈 / 삼성라이온즈】 플레이오프 5차전",
+  "published_at": "2026-10-31T08:47:23.000+09:00",
+  "collected_at": "2026-10-31T03:38:26.410Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "진일보 | 전남일보",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ubXNwT3lBVUpWV0RHYzlHbU83R2lFSlZSVFM2U0RpZ2RZWXh4ZnJJZkNDUjhDU2FFSkhOYVlRNVR4NHd4bWZEaDZPS0dVYjR5VU16bTk4ckhwSzhZVDc0NzREbFZLRXEzM0s4cUVmUQ?oc=5"
+    }
+  ]
+}

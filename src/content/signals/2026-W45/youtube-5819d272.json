@@ -1,0 +1,29 @@
+{
+  "id": "youtube-5819d272",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "기아타이거즈 KIA TIGERS",
+  "url": "https://www.youtube.com/watch?v=B7lbzCTuOLA",
+  "title": "타이거즈 가을 야구, 내일도 계속 됩니다! ｜10월 30일 PO 4차전 KIA vs 삼성 [챔필덕관]",
+  "published_at": "2026-10-31T03:24:12Z",
+  "collected_at": "2026-10-31T03:38:26.410Z",
+  "summary_ko": "KIA 공식 채널이 10월 30일 PO 4차전 현장 영상을 올렸다. 제목은 \"내일도 계속 됩니다\"다.",
+  "metrics": {
+    "views": 6646,
+    "likes": 440,
+    "comments": 90
+  },
+  "scores": {
+    "hot": 87,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "PO 4차전 챔필 현장"
+}

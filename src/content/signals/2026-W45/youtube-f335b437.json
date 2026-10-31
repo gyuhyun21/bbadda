@@ -1,0 +1,28 @@
+{
+  "id": "youtube-f335b437",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "아무나야구 완쓰리야구 ",
+  "url": "https://www.youtube.com/watch?v=g4U7sq0SYQc",
+  "title": "자기 실수로 무사 만루, 곽빈이 끝낸 방법 #shorts",
+  "published_at": "2026-10-30T23:50:02Z",
+  "collected_at": "2026-10-31T03:38:26.410Z",
+  "summary_ko": "팬 채널이 두산 곽빈이 자기 실수로 만든 무사 만루를 끝낸 장면을 올렸다.",
+  "metrics": {
+    "views": 2147,
+    "likes": 7,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 44,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "곽빈, 무사 만루 탈출"
+}

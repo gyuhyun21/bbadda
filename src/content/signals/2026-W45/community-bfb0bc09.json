@@ -1,0 +1,24 @@
+{
+  "id": "community-bfb0bc09",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 이거 궁금했죠",
+  "url": "https://blog.naver.com/curious-note/224459803916",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/1cLZpmItg3O",
+  "title": "배우 최진혁 KBO 포스트시즌 시구 화제, 광주 챔피언스필드 등장 배경과 현장 반응",
+  "published_at": "2026-10-31T12:00:00.000+09:00",
+  "collected_at": "2026-10-31T03:38:26.410Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

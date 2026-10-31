@@ -1,0 +1,23 @@
+{
+  "id": "news-575c642d",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠경향",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5OcUhURXJqNHlGc2ZJaDF3YndvRzI5LTdfcHBMWndhS2JmbFNrWWlVbUNrQUZtWEltdVVMUFZWQkVvVm95Rk5wZUhyNEN4ejBzUU1icU13ZmNSa2N6QnNqSEwyTdIBY0FVX3lxTE5OcUhURXJqNHlGc2ZJaDF3YndvRzI5LTdfcHBMWndhS2JmbFNrWWlVbUNrQUZtWEltdVVMUFZWQkVvVm95Rk5wZUhyNEN4ejBzUU1icU13ZmNSa2N6QnNqSEwyTQ?oc=5",
+  "title": "“90승 올린 팀, 저도 경험이 많이 쌓였죠” 5년 전 우승 떠올린 KT 소형준, 마지막 실전 점검 끝",
+  "published_at": "2026-10-30T21:41:00.000Z",
+  "collected_at": "2026-10-31T03:38:26.410Z",
+  "summary_ko": "스포츠경향에 따르면 KT 소형준이 한국시리즈 전 마지막 실전 점검을 마치고 경험이 쌓였다고 말했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "brief_ko": "소형준, 마지막 실전 점검"
+}

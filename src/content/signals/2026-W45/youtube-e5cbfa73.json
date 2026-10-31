@@ -1,0 +1,26 @@
+{
+  "id": "youtube-e5cbfa73",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "음표야구",
+  "url": "https://www.youtube.com/watch?v=vU6CIZPFkRs",
+  "title": "박승규, 경기 전 갑자기 물구나무 #shorts #박승규 #삼성라이온즈",
+  "published_at": "2026-10-31T00:30:18Z",
+  "collected_at": "2026-10-31T03:38:26.410Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1557,
+    "likes": 13,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 46,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "community-ec25ab78",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&document_srl=10502634607",
+  "title": "내일 올러 또 개지랄하면 기아는 그냥 끝임 - 야구",
+  "published_at": "2026-10-30T23:38:26.410Z",
+  "collected_at": "2026-10-31T03:38:26.410Z",
+  "summary_ko": "",
+  "excerpt": "... 이제 진짜 투수가 없음올러가 6이닝은 먹어줘야 한다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

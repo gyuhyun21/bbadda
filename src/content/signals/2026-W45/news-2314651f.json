@@ -1,0 +1,24 @@
+{
+  "id": "news-2314651f",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠경향",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBsUlctYnVCQmFxQ1lvYm9sWTlqb05NMXhwbHgzUmpxLWlJRGtkMjFBbGQ4N19fSzNQb3hDWjdpUzlLVE8ydDFzVk5pMzRNR1NJclNseWw4d2JMZXBxT3VUaVJjTdIBY0FVX3lxTFBsUlctYnVCQmFxQ1lvYm9sWTlqb05NMXhwbHgzUmpxLWlJRGtkMjFBbGQ4N19fSzNQb3hDWjdpUzlLVE8ydDFzVk5pMzRNR1NJclNseWw4d2JMZXBxT3VUaVJjTQ?oc=5",
+  "title": "첫 KS 무대에 설레는 우규민 “따듯하게 방에서 야구 봤던 가을에 야구라니, 기다리는 시간도 행복해”",
+  "published_at": "2026-10-30T22:00:00.000Z",
+  "collected_at": "2026-10-31T03:38:26.410Z",
+  "summary_ko": "스포츠경향에 따르면 KT 우규민이 첫 한국시리즈를 앞두고 기다리는 시간도 행복하다고 말했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "우규민, 첫 KS 설렘"
+}

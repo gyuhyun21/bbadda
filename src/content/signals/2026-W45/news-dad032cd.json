@@ -1,0 +1,25 @@
+{
+  "id": "news-dad032cd",
+  "issue": "2026-W45",
+  "module": "league",
+  "teams": [],
+  "source_type": "news",
+  "source_name": "조선일보",
+  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWUE0N1ZiQnk0OHhHSnVtbFhMRmVhZFpqOERjRzQ2d1JHN1VvZjdhWFU3c0w4UkFXdWpXMHhPLTZaVGZEanNUQTZuVENrYkMwSDNGYTcxbHllNGlEdDU3anVxLXJPUU1EWFJlaFVuYnNlc1JUTmhMUVZTS3lyemwwdGc3MnpyRzVX?oc=5",
+  "title": "[사진]김영웅,'아쉬운 삼진'",
+  "published_at": "2026-10-31T02:50:00.000Z",
+  "collected_at": "2026-10-31T03:38:26.410Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 30
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBCLVRIa1A3MHpJbFZWUDdKdkFuWV9tVVEyOXFWU21Ydjk2RGNTYnZEa1lYZFN3UGRNTjVjUlZfOEljV2pEaTF0ckFUbzF4Q0Vib0hsRw?oc=5"
+    }
+  ]
+}

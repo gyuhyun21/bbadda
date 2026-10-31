@@ -1,0 +1,22 @@
+{
+  "id": "news-ef190c2b",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "공감신문",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE05Tk5sQnd4YTZGUzlaWERPTFpaS01WZGRiY1FVSHhMRUFIMTVnSWlmQ3dkOEkxc1p2VkFvVWNlNXRxR0RGTmdRd0ltUGJ5SjRMV3JYbHlFUlVjUWFpZU02TzRwcVVYbFE1?oc=5",
+  "title": "이범호 감독의 전략, KIA 타이거즈의 대구 결전은 어떻게 펼쳐질까?",
+  "published_at": "2026-10-30T23:34:21.000Z",
+  "collected_at": "2026-10-31T03:38:26.410Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-e3288625",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "뉴시스",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBpaFdUcXpOdWJpU1JSUW5ENkduRTJ4SXBJaXdTUmlCMVhjZVVIcEVzaXpreHFzQjN0OXlzamU0eGN2aGl0a3dfTWpJYkxyOV9TSXd4T2JZWXZoYk1kYVJSQdIBeEFVX3lxTE83UExIZnM5dGVaMWJnVV9sa3pfbU5Ycmg5c00xUkdUVTZ3bWRXWFVDTGZwSDVYbGVOZDlScnNFWVBtSzAyaGZuRm1rcmJwNUJ6Y2N0QkF3SllBV0dwUFNhMXRYZGtRazQ2YngxbENZU3BRZk9OQ3JhcA?oc=5",
+  "title": "삼성 핵심 좌완 불펜 배찬승 \"목표 우승…끝까지 집중하겠다\"[PO]",
+  "published_at": "2026-10-31T01:51:23.000Z",
+  "collected_at": "2026-10-31T03:38:26.410Z",
+  "summary_ko": "뉴시스에 따르면 삼성 좌완 배찬승이 목표는 우승이라며 끝까지 집중하겠다고 말했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "brief_ko": "배찬승 \"목표는 우승\""
+}

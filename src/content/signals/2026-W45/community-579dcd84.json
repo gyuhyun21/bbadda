@@ -1,0 +1,24 @@
+{
+  "id": "community-579dcd84",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&page=5&document_srl=10503060730",
+  "title": "원희양 제가 조금만 젊었어도 고백했어요 - 야구",
+  "published_at": "2026-10-31T02:40:26.410Z",
+  "collected_at": "2026-10-31T03:38:26.410Z",
+  "summary_ko": "",
+  "excerpt": "... 시카고베어스 이.새뀐...뭐야.. 1. [레벨:27] 시카고베어스 15 분 전. 로시 ... 9 분 전 자유…",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

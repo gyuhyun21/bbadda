@@ -1,0 +1,26 @@
+{
+  "id": "youtube-e9a97396",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "source_name": "한국인사이드",
+  "url": "https://www.youtube.com/watch?v=gpjVoTvSyks",
+  "title": "가을야구 날 대구 치맥집, 한화 폰세의 미국 아빠 \"말이 돼?\" #한화이글스",
+  "published_at": "2026-10-31T00:46:40Z",
+  "collected_at": "2026-10-31T03:38:26.410Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 2431,
+    "likes": 50,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 58,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "youtube-412f1ffb",
+  "issue": "2026-W45",
+  "module": "league",
+  "teams": [],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=oEnbj30LJ7o",
+  "title": "하현승의 데뷔 시즌 목표는 바로👀",
+  "published_at": "2026-10-31T00:11:26Z",
+  "collected_at": "2026-10-31T03:38:26.410Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 2329,
+    "likes": 56,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 60,
+    "relevance": 10
+  },
+  "sentiment": "neutral"
+}
