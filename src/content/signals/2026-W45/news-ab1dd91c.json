@@ -1,0 +1,23 @@
+{
+  "id": "news-ab1dd91c",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스핌",
+  "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE80ckZ3M2hwbkJpdm9ZSVFQZzBQdnZXVHFXNWtLVkNQQ1JzN3JNQ09nSGkxUDYtRlpkTWF1NFcwLU1WeTBZcVE0RXF3ZDUtYURRYVdKZlFTbTd0dkh6?oc=5",
+  "title": "[PO 포커스] 김영웅은 결정적 실책·이재현은 공수 부진...삼성, 내야 듀오 다시 믿을까",
+  "published_at": "2026-10-31T21:00:00.000Z",
+  "collected_at": "2026-10-31T21:38:21.260Z",
+  "summary_ko": "뉴스핌은 김영웅의 결정적 실책과 이재현의 공수 부진을 짚으며 삼성이 내야 듀오를 다시 믿을지 물었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "negative",
+  "brief_ko": "김영웅 실책·이재현 부진, 믿을까"
+}

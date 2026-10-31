@@ -1,0 +1,26 @@
+{
+  "id": "youtube-e0ccd13a",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "youtube",
+  "source_name": "박주홍은터진다",
+  "url": "https://www.youtube.com/watch?v=4hHliz_QS0o",
+  "title": "김혜성, 이지영에 '글루텐프리' #김혜성 #이지영 #키움히어로즈",
+  "published_at": "2026-10-31T11:22:24Z",
+  "collected_at": "2026-10-31T21:38:21.260Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1286,
+    "likes": 0,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 36,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

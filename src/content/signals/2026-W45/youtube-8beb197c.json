@@ -1,0 +1,26 @@
+{
+  "id": "youtube-8beb197c",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "youtube",
+  "source_name": "사람입니다",
+  "url": "https://www.youtube.com/watch?v=oIA2HI6VVyA",
+  "title": "SSG 랜더스 정준재 응원가",
+  "published_at": "2026-10-31T13:46:44Z",
+  "collected_at": "2026-10-31T21:38:21.260Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1,
+    "likes": 1,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 43,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

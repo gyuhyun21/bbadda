@@ -1,0 +1,22 @@
+{
+  "id": "news-76fa1758",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "대구MBC",
+  "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5QUTI0WlBmWFdjVGdIMzUweURzalpBa1lsNjdrN2NwXzhfWUNyMkk0ZTdiTkJCOXhnZnJ1bE42VUNrbmtPMGZ3cTQ1Zmk?oc=5",
+  "title": "PO4차전, 아쉬웠던 패배 삼성라이온즈…홈 5차전 \"대구에서 끝까지 이어간다\"",
+  "published_at": "2026-10-31T01:38:12.000Z",
+  "collected_at": "2026-10-31T21:38:21.260Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 69,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

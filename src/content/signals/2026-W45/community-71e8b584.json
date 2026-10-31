@@ -1,0 +1,24 @@
+{
+  "id": "community-71e8b584",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 풀카운트 90분",
+  "url": "https://blog.naver.com/jaydenstory/224460468114",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/DqpzpaCs5O7",
+  "title": "\"10라운드 102번 흙수저가 50억 FA 대박을 노린다고?\" 연봉 212% 폭등한 호랑이 중견수의 인생 역전...",
+  "published_at": "2026-10-31T21:51:00.000+09:00",
+  "collected_at": "2026-10-31T21:38:21.260Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

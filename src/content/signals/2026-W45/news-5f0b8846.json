@@ -1,0 +1,23 @@
+{
+  "id": "news-5f0b8846",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "남도일보",
+  "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9IOVFNUEpnRzMyLUFsWVZiMWFXVHdpcHhDQlI2SWFnU3I0a2x5MUxIUC1obmFOaXZ4dlVxbnZuWU5wN2NXRC1TRGJHNS1KQTRGaGF4cTNzaWVBb1JlZDU3a3BOeVBNcGZjem9zSNIBcEFVX3lxTE1pNVFxZUxTb1ZOMlJVd2NBU052U1ljdXIxWEVfZkhzZmRzTVNfeHRIczlJWUl4U19WSWo5aGNObER2dXl6XzFpbHZycU1iRXl4bGZ6cTBjc0JjNTlJTkdQYzNvZjR2WllMR3Z0bGJPczQ?oc=5",
+  "title": "[프로야구 PO] KIA-삼성 운명의 5차전…이번에도 비가 발목 잡나",
+  "published_at": "2026-10-31T12:25:35.000Z",
+  "collected_at": "2026-10-31T21:38:21.260Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "community-0b0afadf",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 더블체커(DC)",
+  "url": "https://blog.naver.com/edwin9407/224460348690",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/EZwevXjycHY",
+  "title": "두산 세베리노 7홈런·OPS 0.874인데…김원형 감독은 30홈런 타자를 원한다",
+  "published_at": "2026-10-31T19:48:00.000+09:00",
+  "collected_at": "2026-10-31T21:38:21.260Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

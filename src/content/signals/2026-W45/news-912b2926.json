@@ -1,0 +1,23 @@
+{
+  "id": "news-912b2926",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5DeFBxSTdNNGdFOUM5am5ITTJLclR3cTJIeml1SVF5akhPbmJOUXdodU02UTF2Z0ZRTlRhOGo0d21VTWZsamJNTWozV0RtbkhPcld1ZlV3M1d1QnE0RHNRU2RGZENDTHJUTVF3ZjJLc9IBb0FVX3lxTE5DeFBxSTdNNGdFOUM5am5ITTJLclR3cTJIeml1SVF5akhPbmJOUXdodU02UTF2Z0ZRTlRhOGo0d21VTWZsamJNTWozV0RtbkhPcld1ZlV3M1d1QnE0RHNRU2RGZENDTHJUTVF3ZjJLcw?oc=5",
+  "title": "[포토] '나는 선수를 이끌테니 조단장은 응원단을 잘 부탁해요!'",
+  "published_at": "2026-10-31T06:00:55.000Z",
+  "collected_at": "2026-10-31T21:38:21.260Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 62,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

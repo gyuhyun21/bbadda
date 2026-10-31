@@ -1,0 +1,23 @@
+{
+  "id": "news-4b1a09fe",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스타뉴스",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE90YUlJdV9sYVRjOEhJb29KUlJIRTJTY0J4UGJXOExqM0cwU2FCQUhXbHBaMEdlV3doUmViZ21TR1dfU1pXRkV1Tm1ZSUk2bUNmbnBYSVloT1E4anJReml1NEx4UE94OVVFelNYSkNYdzMzb1hhOXc?oc=5",
+  "title": "'로또 16번 당첨금' 307억 포기한 노시환, \"美 3루수 자원 부족한데...\" 강속구 적응+3루 수비 가능성이 관건",
+  "published_at": "2026-10-31T20:42:44.000Z",
+  "collected_at": "2026-10-31T21:38:21.260Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

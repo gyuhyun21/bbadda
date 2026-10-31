@@ -1,0 +1,23 @@
+{
+  "id": "news-175cc4f9",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "잉크뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9HNDlCenJXYzNhMXhtbWRjN1hZdEI3NWJzYVZGbmZwcWdHanBRV05RdzRyQ1k2d3IyRjhIaHBvLXpDVzNoVkZUVkdwa1FRMUVfYktSX0dnbWhiZ2ZlR2dudktrLTJOZw?oc=5",
+  "title": "KIA, 삼성에 4-2 역전승…한국시리즈행 운명, 11월 1일 대구서 결정",
+  "published_at": "2026-10-31T08:49:09.000Z",
+  "collected_at": "2026-10-31T21:38:21.260Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 71,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

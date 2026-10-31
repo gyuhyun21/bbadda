@@ -1,0 +1,23 @@
+{
+  "id": "news-435f3d05",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠월드",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9tZTIxNXJRNjIwMXFTdW5zNWw5cTNLSVpEbXNKRFVGUUFPQ1JNa0hXVmlTMC1HN21USXFEUUszQkszZlRkOUM4SmRPdWhuNjdfd29tbTVyX0NNUlpqTTQ2bkF3?oc=5",
+  "title": "기다리던 가을에서 쟁취하는 가을로… 김도영의 낭만야구는 현재진행형",
+  "published_at": "2026-10-31T00:29:58.000Z",
+  "collected_at": "2026-10-31T21:38:21.260Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 60,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

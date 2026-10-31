@@ -1,0 +1,23 @@
+{
+  "id": "news-5bf96497",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠월드",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9qOTN3dmoxampZaU5VMkhGWkVuZlhqOTVrRU9Pc2p3eUxocURadUJSVG16Yktpc0dtRlNhd2FYQzI2c251OS1LWU5ncXJUS0l0d3YybUdrUDJUQTkxdU50akhB?oc=5",
+  "title": "[SW현장] 거인군단의 새 수장, 이동욱 감독이 녹일 색깔은? “스마트한 야구”",
+  "published_at": "2026-10-31T07:06:02.000Z",
+  "collected_at": "2026-10-31T21:38:21.260Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

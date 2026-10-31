@@ -1,0 +1,23 @@
+{
+  "id": "community-0a84fe7a",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 스포록",
+  "url": "https://blog.naver.com/biztory26/224460458188",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/HQhcAOCwRCo",
+  "title": "\"야구선수가 MMA라고?\" 전 NC 투수 서의태, 종합격투기 선수 변신",
+  "published_at": "2026-10-31T21:39:00.000+09:00",
+  "collected_at": "2026-10-31T21:38:21.260Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

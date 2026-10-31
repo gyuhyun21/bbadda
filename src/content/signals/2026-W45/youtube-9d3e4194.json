@@ -1,0 +1,26 @@
+{
+  "id": "youtube-9d3e4194",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "youtube",
+  "source_name": "LOTEE GIANTS",
+  "url": "https://www.youtube.com/watch?v=VK7m4W8tXo4",
+  "title": "롯데 자이언츠 No.64 김동현 응원가",
+  "published_at": "2026-10-31T16:52:12Z",
+  "collected_at": "2026-10-31T21:38:21.260Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 4,
+    "likes": 0,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 48,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

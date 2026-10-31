@@ -1,0 +1,23 @@
+{
+  "id": "community-34eb9f20",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 흰이 로그",
+  "url": "https://blog.naver.com/heenbini/224460595814",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/HKF6u4R4l5h",
+  "title": "LG트윈스 코칭스태프 대폭 개편｜코치 7명 이탈, 1·2군 보직 변화 총정리",
+  "published_at": "2026-11-01T00:06:00.000+09:00",
+  "collected_at": "2026-10-31T21:38:21.260Z",
+  "summary_ko": "한 블로그가 LG 코칭스태프 개편으로 코치 7명이 이탈하고 1·2군 보직이 바뀌었다고 정리했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

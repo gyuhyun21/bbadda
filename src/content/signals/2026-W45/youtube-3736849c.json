@@ -1,0 +1,26 @@
+{
+  "id": "youtube-3736849c",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "youtube",
+  "source_name": "도토리 히어로즈",
+  "url": "https://www.youtube.com/watch?v=UfvE7IztSeI",
+  "title": "롯데자이언츠 51번 선수 나승엽 응원가",
+  "published_at": "2026-10-31T13:26:15Z",
+  "collected_at": "2026-10-31T21:38:21.260Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 220,
+    "likes": 1,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 34,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "news-929f4017",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "진일보 | 전남일보",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9RLXo0Y3VIZnNUU2stT3dWT0t3WVU3OVVtZjA3cVFudFVzWHBlWlhyQVBsOW1wTnJiNGlXTnluLXBFQlYtMUxGd1RhaGdzWTFHTld4eVN3ekxHZUdWSXZvbTlfQjM1dkhNdmlnYnZ4Zw?oc=5",
+  "title": "KIA, 오키나와서 24일간 마무리 훈련…32명 참가",
+  "published_at": "2026-10-31T08:01:51.000Z",
+  "collected_at": "2026-10-31T21:38:21.260Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

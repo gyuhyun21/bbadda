@@ -1,0 +1,23 @@
+{
+  "id": "news-182901db",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1Od1VPVDNyc3pNS3VGQngwSTU1ZjM2VDkzRGtiUE05Z0N4T282a3RsbTVxX0VHTkgybGZPRkdYcEFJc2MxZ3NsdkJDZUU5MmkwQThORjVzZTdxV3NFNUY4V25YaUZUTFBPNkoyX1lCcExobF8tTktPbGZZNXh5UQ?oc=5",
+  "title": "\"타격시 불편\" 주전포수 삐그덕, 5차전 안방 비상! KS우승 향한 투혼의 전 경기 출전, 여기서 끊기나[PO5]",
+  "published_at": "2026-10-31T15:33:31.000Z",
+  "collected_at": "2026-10-31T21:38:21.260Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

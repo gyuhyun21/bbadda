@@ -1,0 +1,23 @@
+{
+  "id": "news-7b111e69",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "서울신문",
+  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBBSlBOSGcwOGVhUlN0NGNuNkFJaUVYVjhuRnVydmVvYVY2RVBjSVhpaW5DZDVERi1mUHREUnExb1l3QXlGME03djd6Q3o4Rzlmem9BeVhEZw?oc=5",
+  "title": "2027시즌 롯데의 새 패러다임은 ‘스마트한 야구’...이동욱 신임감독 취임 일성",
+  "published_at": "2026-10-31T06:26:32.000Z",
+  "collected_at": "2026-10-31T21:38:21.260Z",
+  "summary_ko": "서울신문은 롯데 이동욱 신임 감독이 취임 일성으로 '스마트한 야구'를 내세웠다고 전했다. 2027시즌 롯데의 새 패러다임이라는 내용이다.",
+  "metrics": {},
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "이동욱 감독 '스마트한 야구'"
+}

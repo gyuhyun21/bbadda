@@ -1,0 +1,23 @@
+{
+  "id": "news-b66628bb",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBBbHMxWlBYOGFtWk5IMVlTTVo1SnRndldrZWtGNXZYYW1aOHJMczVXbHFqeXJnZWNuOTRLQnJGWTlubGp5MFhoOUVneTRpQUxtQVpiT2ZFUUpnQVMteVE5WTgxOGYycUVsTTRDQ0U0d9IBb0FVX3lxTFBBbHMxWlBYOGFtWk5IMVlTTVo1SnRndldrZWtGNXZYYW1aOHJMczVXbHFqeXJnZWNuOTRLQnJGWTlubGp5MFhoOUVneTRpQUxtQVpiT2ZFUUpnQVMteVE5WTgxOGYycUVsTTRDQ0U0dw?oc=5",
+  "title": "'7도 추위에도 응원가 부른 꼬마팬들' 프로에 두 번 외면받은 23세 박문순, 3안타+끝내기 득점으로 화답했다 \"울산은 나를 구원해준 팀\"",
+  "published_at": "2026-10-31T02:01:00.000Z",
+  "collected_at": "2026-10-31T21:38:21.260Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 61,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "youtube-edbc2a14",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "KBO Talk 박현서",
+  "url": "https://www.youtube.com/watch?v=tYRsTDmFClU",
+  "title": "KIA타이거즈 vs 삼성 라이온즈 | 김도영보다 중요한 선수? 그래도 5차전 마지막 기대는 왜 다시 김도영인가 #김도영 #KIA타이거즈",
+  "published_at": "2026-10-31T19:22:59Z",
+  "collected_at": "2026-10-31T21:38:21.260Z",
+  "summary_ko": "팬 채널이 김도영보다 중요한 선수를 짚으며 PO 5차전을 전망했다.",
+  "metrics": {
+    "views": 1172,
+    "likes": 62,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 75,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

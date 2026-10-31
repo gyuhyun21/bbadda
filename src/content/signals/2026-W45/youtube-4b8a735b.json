@@ -1,0 +1,26 @@
+{
+  "id": "youtube-4b8a735b",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": " WOw 라이온즈",
+  "url": "https://www.youtube.com/watch?v=QO08lLU6_4w",
+  "title": "5차전 꼭 이겨주라#삼성라이온즈#응원가#라팍",
+  "published_at": "2026-10-31T12:41:04Z",
+  "collected_at": "2026-10-31T21:38:21.260Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 445,
+    "likes": 1,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 32,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

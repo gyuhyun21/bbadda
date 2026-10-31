@@ -1,0 +1,24 @@
+{
+  "id": "community-db78a412",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 똑똑한 하루생활",
+  "url": "https://blog.naver.com/kjifood/224460233775",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/vi1jeEinMA",
+  "title": "타율 0.116 김하성, 그런데 미국 FA 평가에서 1000만 달러?",
+  "published_at": "2026-10-31T17:45:00.000+09:00",
+  "collected_at": "2026-10-31T21:38:21.260Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "news-b0819f55",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "남도일보",
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1pNVFxZUxTb1ZOMlJVd2NBU052U1ljdXIxWEVfZkhzZmRzTVNfeHRIczlJWUl4U19WSWo5aGNObER2dXl6XzFpbHZycU1iRXl4bGZ6cTBjc0JjNTlJTkdQYzNvZjR2WllMR3Z0bGJPczTSAXBBVV95cUxNaTVRcWVMU29WTjJSVXdjQVNOdlNZY3VyMVhFX2ZIc2Zkc01TX3h0SHM5SVlJeFNfVklqOWhjTmxEdnV5el8xaWx2cnFNYkV5eGxmenEwY3NCYzU5SU5HUGMzb2Y0dlpZTEd2dGxiT3M0?oc=5",
+  "title": "[프로야구 PO]KIA-삼성 마지막 승부도 우천 순연?…대구에 5~20㎜ 예보",
+  "published_at": "2026-10-31T12:25:35.000Z",
+  "collected_at": "2026-10-31T21:38:21.260Z",
+  "summary_ko": "남도일보는 KIA-삼성 PO 5차전이 열리는 대구에 5~20㎜ 비 예보가 있다고 전했다. 이번에도 우천 순연이 변수가 될 수 있다.",
+  "metrics": {},
+  "scores": {
+    "hot": 73,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "PO5 대구에 5~20㎜ 비 예보"
+}

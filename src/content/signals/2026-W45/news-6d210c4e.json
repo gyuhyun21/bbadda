@@ -1,0 +1,23 @@
+{
+  "id": "news-6d210c4e",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "조선일보",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNOUlCLUNSM3l6ZDFocUZqaW1BUnNiWDRFN0w3cnlpODZiTTlkZXVzek1ZdG42TndDMHFvalRNWmJ5c2FiMWx2SFVscEQyTl85QTBSUEFYLWdpQVhWbG9FSFV1aVV2MUpUdmNrbWVrdVJ5emh2cW1VUENUOUFIbUIwZ0k0WQ?oc=5",
+  "title": "독해진 김원형 감독, 이러다 사람 잡겠네...여기가 프로 훈련장인가, 지옥인가",
+  "published_at": "2026-10-31T12:18:00.000Z",
+  "collected_at": "2026-10-31T21:38:21.260Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

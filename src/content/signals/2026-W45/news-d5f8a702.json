@@ -1,0 +1,23 @@
+{
+  "id": "news-d5f8a702",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "천지일보",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9UcFVfYWVMNmhfX3FaNmNlc2Nqa0xOTEtaUkJEc3hqa1oxQ2tMVFgxNHpFUmh2VHRtYUhoazBpOE9EMU1pbmp1T1dPVkZSVUNKNUl2eXVHeWtRb3J0RDIwcFE0SWxieDg2dnc?oc=5",
+  "title": "[야구] 삼성, KIA 기세 꺾고 안방 지켜낼까… 1일 대구서 PO 끝장 승부",
+  "published_at": "2026-10-31T04:09:55.000Z",
+  "collected_at": "2026-10-31T21:38:21.260Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 70,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

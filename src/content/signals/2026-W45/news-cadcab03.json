@@ -1,0 +1,23 @@
+{
+  "id": "news-cadcab03",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "SPOTV NEWS",
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ST254UlhYVUlraVVweklpU3h6ZVFGZktONU5ndFMxVGF6VjJxSlFTMUZOZHVkSjM1Q29zc052M0pVTnVGeERWX3VZSGVReVBmZmpvcGNBOXRFNldEMmZGbVZKTzRWdmJzVTBkdDd2T3o?oc=5",
+  "title": "\"생각이 많네요\" 롯데 캡틴 후보 떴다! 그런데 이동욱 감독은 확답 안 줬다, 왜?",
+  "published_at": "2026-10-31T06:47:23.000Z",
+  "collected_at": "2026-10-31T21:38:21.260Z",
+  "summary_ko": "SPOTV NEWS는 롯데 주장 후보가 거론됐지만 이동욱 감독이 확답하지 않았다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "새 주장 후보 거론, 확답은 아직"
+}

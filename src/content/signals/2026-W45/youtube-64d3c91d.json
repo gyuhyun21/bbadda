@@ -1,0 +1,27 @@
+{
+  "id": "youtube-64d3c91d",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "kt wiz - 위즈TV",
+  "url": "https://www.youtube.com/watch?v=QghSHHCUCYA",
+  "title": "밤하늘을 수놓은 마법의 빛💫 #한국시리즈_대비_응원전",
+  "published_at": "2026-10-31T10:40:38Z",
+  "collected_at": "2026-10-31T21:38:21.260Z",
+  "summary_ko": "kt wiz 공식 채널이 한국시리즈 대비 응원전 영상을 올렸다.",
+  "metrics": {
+    "views": 14983,
+    "likes": 473,
+    "comments": 27
+  },
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

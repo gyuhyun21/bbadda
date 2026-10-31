@@ -1,0 +1,24 @@
+{
+  "id": "community-6ba08329",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 이세상스포츠",
+  "url": "https://blog.naver.com/biasnews/224460701164",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/KpDDWu9A82c",
+  "title": "\"기아는 100%, 삼성은 0%?\" 운명의 플레이오프 5차전 앞두고 나온 역대 기록",
+  "published_at": "2026-11-01T03:30:00.000+09:00",
+  "collected_at": "2026-10-31T21:38:21.260Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

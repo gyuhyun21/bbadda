@@ -1,0 +1,23 @@
+{
+  "id": "news-89dc831b",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "조선일보",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbTVZdU5tMjg4eHNEUUdkZkpWQzluMFg0V1VzM2hKYXBTcGFtUXIzWWpackVxV2tFR3h2UTJpTG02NE93d0ZPcUYtUmFGbmpNbG5tX3JpRzFTYmlma2pLVUREMGh5aUZMU3Awa1pGWDJxdW9wTXl0M3FjZEpBS1JRSzRwbw?oc=5",
+  "title": "\"경험 부족 인정, 외부 영입 필요하면 설득할 것\"...'초보 프런트' 인정, '단장' 이택근의 행보 기대만발 [오!쎈 부산]",
+  "published_at": "2026-10-31T10:40:00.000Z",
+  "collected_at": "2026-10-31T21:38:21.260Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

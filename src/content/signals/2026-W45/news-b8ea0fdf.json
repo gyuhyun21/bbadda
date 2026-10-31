@@ -1,0 +1,23 @@
+{
+  "id": "news-b8ea0fdf",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스1",
+  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9WMWZ3d0JCQjY5dHd3T3BjXy1fR3FPUzRwQjhlUVl6RjdwUzVYQTIyYnQ4TGFMTEFBbnB5SVAxRVJBMzZQdFJFV1FCcE00RV9CSmQxNFZiRQ?oc=5",
+  "title": "KIA 김도영 vs 삼성 박승규, KS행 걸린 '2번 타자' 싸움[PO]",
+  "published_at": "2026-10-31T21:00:00.000Z",
+  "collected_at": "2026-10-31T21:38:21.260Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

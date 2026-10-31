@@ -1,0 +1,28 @@
+{
+  "id": "youtube-8aaa1e67",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "doosan",
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "순위백과사전",
+  "url": "https://www.youtube.com/watch?v=Mpf8fQNSVZU",
+  "title": "KBO 역대 한국시리즈 최다 진출 TOP10 ⚾ 삼성 18회 1위! 두산·KIA는 몇 회일까? 🔥 #KBO #한국시리즈 #프로야구 #Shorts",
+  "published_at": "2026-10-31T10:00:28Z",
+  "collected_at": "2026-10-31T21:38:21.260Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 7414,
+    "likes": 10,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 46,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

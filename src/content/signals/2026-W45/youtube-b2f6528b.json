@@ -1,0 +1,27 @@
+{
+  "id": "youtube-b2f6528b",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "정병야구",
+  "url": "https://www.youtube.com/watch?v=fm9-VYwDEsg",
+  "title": "선배한테 주먹쥐는 송성문 #kbo #야구 #프로야구 #한화이글스 #키움히어로즈 #송성문",
+  "published_at": "2026-10-31T12:00:16Z",
+  "collected_at": "2026-10-31T21:38:21.260Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 3401,
+    "likes": 10,
+    "comments": 2
+  },
+  "scores": {
+    "hot": 43,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-45a8b551",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "조선일보",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZEN3YUhta1RSbFJLZHRxdFRDaGlFNzA5Ym9JMURhblFZdXNLTlZDcExKZGh6YXRyLVg1RjlsdzRvLUtxVG9ScXl5aXBzTVBfUkRkREtnQXZqX01iZ3ZKTGVoSlhVT0tvX2pINEFGdDkxaVBCbXViSE1vbTB4cnZhclRHMA?oc=5",
+  "title": "황성빈은 박해민이 될 수 있을까 → 이동욱 감독이 힌트는 줬다. 되면 수십억 FA 효과다 [부산 현장]",
+  "published_at": "2026-10-31T16:13:00.000Z",
+  "collected_at": "2026-10-31T21:38:21.260Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

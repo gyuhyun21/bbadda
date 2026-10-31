@@ -1,0 +1,23 @@
+{
+  "id": "community-8425222b",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 야지도의 드리블",
+  "url": "https://blog.naver.com/sj47587/224460575128",
+  "title": "307억 계약한 노시환, 결국 MLB 도전",
+  "published_at": "2026-10-31T23:46:00.000+09:00",
+  "collected_at": "2026-10-31T21:38:21.260Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

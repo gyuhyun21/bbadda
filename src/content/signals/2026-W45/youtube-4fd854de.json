@@ -1,0 +1,27 @@
+{
+  "id": "youtube-4fd854de",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "youtube",
+  "source_name": "연합뉴스TV",
+  "url": "https://www.youtube.com/watch?v=ZDUit1m_r2c",
+  "title": "NC, 김강민 영입…KBO 최초 '외야 코디네이터' / 연합뉴스TV (YonhapnewsTV)",
+  "published_at": "2026-10-31T10:11:32Z",
+  "collected_at": "2026-10-31T21:38:21.260Z",
+  "summary_ko": "연합뉴스TV는 NC가 김강민을 영입해 KBO 최초의 '외야 코디네이터'를 맡긴다고 전했다.",
+  "metrics": {
+    "views": 18224,
+    "likes": 39,
+    "comments": 18
+  },
+  "scores": {
+    "hot": 51,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "김강민, KBO 첫 외야 코디네이터"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-8e411a0f",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠경향",
+  "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAzd1E4WVEtNEVZNGpZYnl6dHJXcGZzai14cEl5dkRhYnJ1SU1tc3NCa2N1Ul83bDBxYjdYQ2hTeTl3bzFmT0hoekdlUW01a1FQaDNiMFVoUjFmbWQtRHfSAWNBVV95cUxObmNzWEpvZkY5UmJoZmdybHhVUENlbXUteGQzSlk0YVplRktzbGVqQlZfT2QzcGc4WDJkTW9KTzFmS3h6SjJSOHk1MmFKUDVod0NlX0FDbm9ZUlBSVDN1Yklub28?oc=5",
+  "title": "[스경X현장]‘이동욱호’ 코치진에 전임 감독이 두 명이나…이동욱 감독 “나보다 롯데 많이 알고, 기량이 좋다”",
+  "published_at": "2026-10-31T07:02:00.000Z",
+  "collected_at": "2026-10-31T21:38:21.260Z",
+  "summary_ko": "스포츠경향은 이동욱호 코치진에 전임 감독이 두 명 포함됐다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "코치진에 전임 감독 두 명"
+}

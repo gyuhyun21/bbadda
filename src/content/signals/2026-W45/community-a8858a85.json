@@ -1,0 +1,24 @@
+{
+  "id": "community-a8858a85",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&page=6&document_srl=10502256412",
+  "title": "구자욱 체감만 안좋은줄 알았더니 - 야구",
+  "published_at": "2026-10-30T15:00:00.000Z",
+  "collected_at": "2026-10-31T21:38:21.260Z",
+  "summary_ko": "",
+  "excerpt": "... 저랑 키움 히어로즈 이야기 하실 분? [9]. 27 분 전 자유 주부야구특공대 조회139 추천2.…",
+  "metrics": {},
+  "scores": {
+    "hot": 57,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-8a50acbd",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "노컷뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBYNmFXOVBuYkhmeEU3RWVZV1JZaEszbW9BMGdzbHVrTUhzTnhDbnh6M2d6NkVVRzAzd19MOFNBcG5LTkdYY29CZ2R1VHJ5VldlZ21PQw?oc=5",
+  "title": "'2연속 MVP?' 김도영이냐, '가을 전설' 쓰는 최형우냐…대구의 영웅은?",
+  "published_at": "2026-10-31T15:10:00.000Z",
+  "collected_at": "2026-10-31T21:38:21.260Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

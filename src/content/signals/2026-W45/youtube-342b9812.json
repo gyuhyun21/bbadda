@@ -1,0 +1,26 @@
+{
+  "id": "youtube-342b9812",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "source_name": "위니비니수리",
+  "url": "https://www.youtube.com/watch?v=xe2wFYacW74",
+  "title": "박정현 커푸집 유신고 투수 박지현 #한화이글스 #박정현 #박영현 #박지현",
+  "published_at": "2026-10-31T14:57:25Z",
+  "collected_at": "2026-10-31T21:38:21.260Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1238,
+    "likes": 6,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 40,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

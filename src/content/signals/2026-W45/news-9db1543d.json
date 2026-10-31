@@ -1,0 +1,23 @@
+{
+  "id": "news-9db1543d",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스핌",
+  "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5vWWhEY1ZKY0IyajVnWFRGSnlmSTZleUs3RmFqdEZUeTFsREJuRHNSUnRsUERYd3d3emM5cEs3LTdyNHJSY2hDRDNfTG5sWWJlODB3d2swYnoxa2Nw?oc=5",
+  "title": "[PO 포커스] '하이존 약점 노출' 카스트로 부활에 달린 KIA의 한국시리즈 진출",
+  "published_at": "2026-10-31T12:04:00.000Z",
+  "collected_at": "2026-10-31T21:38:21.260Z",
+  "summary_ko": "뉴스핌은 하이존 약점이 드러난 카스트로의 부활에 KIA의 한국시리즈 진출이 달렸다고 짚었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 73,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "카스트로 부활이 KS행 열쇠"
+}

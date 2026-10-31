@@ -1,0 +1,28 @@
+{
+  "id": "youtube-8945eba0",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "SSG랜더스",
+  "url": "https://www.youtube.com/watch?v=uF-sJt75hsM",
+  "title": "내야부부의 관계가 흔들렸던(?) 그때",
+  "published_at": "2026-10-31T10:30:15Z",
+  "collected_at": "2026-10-31T21:38:21.260Z",
+  "summary_ko": "SSG랜더스 공식 채널이 '내야부부의 관계가 흔들렸던(?) 그때'를 돌아보는 영상을 올렸다.",
+  "metrics": {
+    "views": 28254,
+    "likes": 731,
+    "comments": 14
+  },
+  "scores": {
+    "hot": 72,
+    "relevance": 50
+  },
+  "sentiment": "neutral",
+  "brief_ko": "내야부부 '흔들렸던' 그때 영상"
+}
