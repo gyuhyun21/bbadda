@@ -1,0 +1,23 @@
+{
+  "id": "community-f6c20282",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 다비의 다이슈",
+  "url": "https://blog.naver.com/ecoyh_fno/224459924917",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/IqnequJx4AY",
+  "title": "SSG 이로운 \"하루 한 끼로 버텼다\"…필승조 이탈 후 선발 전환, 5경기 3승 평균자책 3.49",
+  "published_at": "2026-10-31T10:41:00.000+09:00",
+  "collected_at": "2026-10-31T03:38:26.410Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

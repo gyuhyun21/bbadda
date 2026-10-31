@@ -1,0 +1,26 @@
+{
+  "id": "youtube-1ad0fddd",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "youtube",
+  "source_name": "린지",
+  "url": "https://www.youtube.com/watch?v=Bhu3QxMbSPk",
+  "title": "2026시즌 LG 트윈스 고우석 삼진모음 (28K)",
+  "published_at": "2026-10-31T03:00:23Z",
+  "collected_at": "2026-10-31T03:38:26.410Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 17,
+    "likes": 1,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 55,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

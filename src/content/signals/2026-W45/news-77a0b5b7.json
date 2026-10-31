@@ -1,0 +1,23 @@
+{
+  "id": "news-77a0b5b7",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스1",
+  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1UVUx3VS1WUGhLSm82Zy1ZQjFWNExueGlGRGJ4TDdacGxwUHRiLUNJRmZBNWxBZ1lGYzhoeUh5TUtZUmZEelo0Y1hEazdqeVhMcUVlWWN1RQ?oc=5",
+  "title": "KIA 4선발인데 '유일 PS 미출장'…양현종, PO 5차전 등판 기회 얻나",
+  "published_at": "2026-10-31T03:02:51.000Z",
+  "collected_at": "2026-10-31T03:38:26.410Z",
+  "summary_ko": "뉴스1은 KIA 4선발 양현종이 이번 포스트시즌 유일하게 등판하지 않은 투수라며 PO 5차전 등판 가능성을 짚었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "양현종, 5차전 등판할까"
+}

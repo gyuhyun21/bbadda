@@ -1,0 +1,24 @@
+{
+  "id": "community-bad3882c",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 매튜_하나님의 선물",
+  "url": "https://blog.naver.com/namaksin14/224459771163",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/8nJCLhwrLth",
+  "title": "“솜방망이 처벌” 소재원 작가 아들 학교폭력 학폭위 1호 처분 대응",
+  "published_at": "2026-10-31T06:50:00.000+09:00",
+  "collected_at": "2026-10-31T03:38:26.410Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

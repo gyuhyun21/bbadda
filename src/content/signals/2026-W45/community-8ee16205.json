@@ -1,0 +1,24 @@
+{
+  "id": "community-8ee16205",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "더쿠",
+  "url": "https://theqoo.net/kbaseball?group_srl=907226216",
+  "title": "국내야구",
+  "published_at": "2026-10-29T15:00:00.000Z",
+  "collected_at": "2026-10-31T03:38:26.410Z",
+  "summary_ko": "",
+  "excerpt": "... 키움) 29일까지도 고양에서 키움 마무리 훈련에 참가하고 있었다. 배정호는 다음 달 1일 결승전까지 뛰고…",
+  "metrics": {},
+  "scores": {
+    "hot": 55,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

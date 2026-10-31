@@ -1,0 +1,23 @@
+{
+  "id": "community-0a875ddf",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 헬조선의알파고",
+  "url": "https://hellphago.tistory.com/1056",
+  "title": "플레이오프 5차전 선발 후라도 vs 올러, 누가 웃나? (4차전 결과·KS 일정)",
+  "published_at": "2026-10-31T11:22:57.000+09:00",
+  "collected_at": "2026-10-31T03:38:26.410Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

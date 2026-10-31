@@ -1,0 +1,24 @@
+{
+  "id": "news-c008cd01",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "매일신문",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE56WElNZUpDdkFRRlE0SmM5R0N2LW93ZkJ3M3RnUTdwT3k0SFRVMDRZTExpMGJ6X05KNXQ1RTdPNnRhOVNpYlhNb3ZVNlJTWWRkdjE1a1VOMUExNmpLclotWjBB?oc=5",
+  "title": "양현종, 준PO부터 7경기 대기 끝…PO 최종 5차전 불펜 출격",
+  "published_at": "2026-10-30T23:02:59.000Z",
+  "collected_at": "2026-10-31T03:38:26.410Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

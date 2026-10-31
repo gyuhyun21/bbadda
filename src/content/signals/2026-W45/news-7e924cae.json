@@ -1,0 +1,25 @@
+{
+  "id": "news-7e924cae",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "ssg",
+  "teams": [
+    "ssg",
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "마이데일리",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1KbzFBLU5RY0hINkg0ZFdjdnI2RHNybXRjTEFPWUg4MVJobVdQY2J3T21Xc3hrR25DV3pkRjg0ZFlyYWFxbnZWNTg2NFZGX3RnLUhDdGM3b1RpWWg0UUhYTg?oc=5",
+  "title": "'와 진짜?' 이 선수 하루 한 끼 먹고 어떻게 버텼나…필승조 박탈→선발 전환 대성공, 비하인드 대공개 \"밤에 배고파 힘들더라\"",
+  "published_at": "2026-10-30T23:41:00.000Z",
+  "collected_at": "2026-10-31T03:38:26.410Z",
+  "summary_ko": "마이데일리에 따르면 SSG의 한 투수가 필승조에서 선발로 전환해 성공했고 비하인드를 밝혔다.",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "필승조서 선발 전환 성공담"
+}

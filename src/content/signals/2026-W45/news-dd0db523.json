@@ -1,0 +1,23 @@
+{
+  "id": "news-dd0db523",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "news",
+  "source_name": "금강일보",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5YcTZEc2ZSRzFzVjRwVktDNVNYZ3J0Wk1zeFRtaklIMXFEbl9HeHg0ODI4d2diOGtpRHlZbHJGemppZFRKM3YtU05WN05uT2VFWFVHaDVhUDdVQnJKdXgwa1djOUtiVDlnR0E?oc=5",
+  "title": "두산, '아시아쿼터' 투수 타카다 내년 동행 확정",
+  "published_at": "2026-10-31T00:00:00.000Z",
+  "collected_at": "2026-10-31T03:38:26.410Z",
+  "summary_ko": "금강일보에 따르면 두산이 아시아쿼터 투수 타카다와 내년 동행을 확정했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "타카다, 내년도 동행"
+}

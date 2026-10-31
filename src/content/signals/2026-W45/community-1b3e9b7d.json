@@ -1,0 +1,24 @@
+{
+  "id": "community-1b3e9b7d",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 헬씨인포의 건강 블로그",
+  "url": "https://blog.naver.com/healthyinfo100/224459971784",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/hQ8u0A5Dn2",
+  "title": "LG 트윈스 코치진 7명 대거 이탈, 통합 우승 다음 해의 충격적인 대수술",
+  "published_at": "2026-10-31T11:38:00.000+09:00",
+  "collected_at": "2026-10-31T03:38:26.410Z",
+  "summary_ko": "블로그 헬씨인포의 건강 블로그가 LG 코치진 7명이 대거 팀을 떠나게 됐다는 소식을 다뤘다.",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "mixed",
+  "brief_ko": "LG 코치진 7명 정리"
+}

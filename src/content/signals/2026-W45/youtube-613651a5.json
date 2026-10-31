@@ -1,0 +1,28 @@
+{
+  "id": "youtube-613651a5",
+  "issue": "2026-W45",
+  "module": "league",
+  "teams": [
+    "lg"
+  ],
+  "team": "lg",
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=T4dy0vH0ywM",
+  "title": "[2026 울산-KBO Fall League 준결승 제1경기 H/L] LG트윈스 vs 롱비치코스트(10.30)",
+  "published_at": "2026-10-31T01:46:11Z",
+  "collected_at": "2026-10-31T03:38:26.410Z",
+  "summary_ko": "KBO 공식 채널이 울산-KBO Fall League 준결승 제1경기 LG 대 롱비치코스트 하이라이트를 올렸다.",
+  "metrics": {
+    "views": 226,
+    "likes": 4,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 43,
+    "relevance": 80
+  },
+  "sentiment": "neutral",
+  "brief_ko": "폴리그 준결승 LG-롱비치"
+}

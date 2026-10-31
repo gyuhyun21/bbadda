@@ -1,0 +1,29 @@
+{
+  "id": "news-39ecdba3",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "조선일보",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZ2F2blFiYkdZc3N2WUlVQzVRVUFST0FzY2Uxc0JBcXBvUWM4UHEtUzV5UUk4SUtaMGoyQkcyRGZMQVl2NVI0WEc3QWgtdldnT0Z2WEZ5M0hXM0FNeE5fSHp2NDg3MGZIdzQ4a0JadVJHTTJrdnpmMVhNX3h6X1ptTzI2dw?oc=5",
+  "title": "'두 번째 결승 무대' 울산 웨일즈, 다시 우승 도전 나선다… '무패 1위' 미국 팀 넘고 역사 쓸까",
+  "published_at": "2026-10-31T00:57:00.000Z",
+  "collected_at": "2026-10-31T03:38:26.410Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBHMVY0MXVadklPbkxTX0JTNmNCd2RqcTdjcWg1ZllPMDBVMjFQMzl3VkViNHhSeFdjbnVnU2lvRGhadnJjWUpneWJjaWlkTEJNYi1NTDdwbTBJUjdTMy1ienliNGFyMWV3QWJZbGhOONIBb0FVX3lxTFBHMVY0MXVadklPbkxTX0JTNmNCd2RqcTdjcWg1ZllPMDBVMjFQMzl3VkViNHhSeFdjbnVnU2lvRGhadnJjWUpneWJjaWlkTEJNYi1NTDdwbTBJUjdTMy1ienliNGFyMWV3QWJZbGhOOA?oc=5"
+    }
+  ]
+}

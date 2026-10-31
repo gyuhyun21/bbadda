@@ -1,0 +1,29 @@
+{
+  "id": "news-30700ef9",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9jWGZuNVRyZGItWkpjN2l6U0V6VUxxVURRSExkSXJyTkthR1VIQzdidmRxSDZkOEFzRTF5M3I3cWt5eG5IdXJHcnVQRE5DeVgxTEM0aEVVN21rc2xTeWVGVVY5WkstZ19JQUHSAW9BVV95cUxQTXBLWXN0QTN0MjZqSjRXOWlWdFVEUUIwZExmRWtURGc0eGt6LWw0dnY2a2hpUzdlZU50bXB4OG1JaFhRWE1ScHBOWjJ4UENVcjN5OFFQdDNWd1FQdW0zaXNibXVBZ3J5eGRhZzZnWm8?oc=5",
+  "title": "KIA 가을야구에 있어야 할 투수인데…'신인왕 2위' 포스 되찾나, 울산 폴리그 부활투 반갑다",
+  "published_at": "2026-10-31T01:40:00.000Z",
+  "collected_at": "2026-10-31T03:38:26.410Z",
+  "summary_ko": "머니투데이는 KIA 투수가 울산 폴리그에서 호투했다며 신인왕 2위였던 구위를 되찾는 모습이라고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "미주중앙일보",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1xZlB0ME1NWnVFZU9NUzgtRlJLQ2NTc085M0NRWFVuU2kwUnVkdVpXdDVUMF9jWnl0aXVISEUtYkQydzI4a0RMRDZRZWR1cFJoN2JCcWlJSVhEalR0cThPYTJ3?oc=5"
+    }
+  ],
+  "brief_ko": "폴리그 울산전 호투 반가운 얼굴"
+}

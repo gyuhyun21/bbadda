@@ -1,0 +1,23 @@
+{
+  "id": "news-08308930",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "news",
+  "source_name": "일간스포츠",
+  "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5zYkpwOUJHNVU0RDNBazR3NHhDbUZidUhMc0d6NDlBQVJycndYd0s3YnRlOTIzTWNMX25uRlVHcEtyc3RxOUdaTWtzTUtVcmt5a1ZmZDFJVkE1ZWs?oc=5",
+  "title": "[IS 포커스] '벼랑 끝 PO' 누가 올라가도 꼬이는 선발 로테이션…KT는 웃는다",
+  "published_at": "2026-10-31T01:51:00.000Z",
+  "collected_at": "2026-10-31T03:38:26.410Z",
+  "summary_ko": "일간스포츠는 PO 최종전을 앞두고 어느 팀이 올라가도 선발 로테이션이 꼬여 KT에 유리하다고 짚었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "PO 5차전, 웃는 건 KT"
+}

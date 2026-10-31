@@ -1,0 +1,23 @@
+{
+  "id": "news-11399d2d",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE40ZExWQkd0MWRnSFRPdFhleTAyS29JaWZ3NGt2NDRTcVVseU1mVmVzNUZCV0tDU1J6WVktcHpYYUZocWU3UUFGU09nUjRGdkoxYks4YjBINUVXT1lxcXNWdTNIOUJSUnMydGI5VjlESdIBb0FVX3lxTE40ZExWQkd0MWRnSFRPdFhleTAyS29JaWZ3NGt2NDRTcVVseU1mVmVzNUZCV0tDU1J6WVktcHpYYUZocWU3UUFGU09nUjRGdkoxYks4YjBINUVXT1lxcXNWdTNIOUJSUnMydGI5VjlESQ?oc=5",
+  "title": "'비행기서 처음 만난 선수들이 11G 무패라니!' 美 독립리그 연합팀의 놀라운 반전, ML 출신 사령탑이 밝힌 뒷이야기",
+  "published_at": "2026-10-31T01:01:00.000Z",
+  "collected_at": "2026-10-31T03:38:26.410Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "youtube-28388850",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "LGTWINSTV",
+  "url": "https://www.youtube.com/watch?v=ZnQgo4AJc-A",
+  "title": "가자 러닝하러🏃🏻‍♂️ The Last Run : 굿바이 잠실 [엘코더]",
+  "published_at": "2026-10-31T03:00:12Z",
+  "collected_at": "2026-10-31T03:38:26.410Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 3675,
+    "likes": 299,
+    "comments": 59
+  },
+  "scores": {
+    "hot": 83,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

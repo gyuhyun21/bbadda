@@ -1,0 +1,23 @@
+{
+  "id": "news-980f6418",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "www.xportsnews.com",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42eFUzQU5qdm5rNlRxZUxBRmdIeFZLUzNsU21ETDJBZEVSZDU2WS0yUEgzVUs3bXdQZmZHUjdnekVtMnZDQmY4dlZESXMtZEtFV1l2YQ?oc=5",
+  "title": "\"어쩌면 마지막 기로 설 수도\"…벌써 9년 차 '1차 지명' 아픈 손가락, 잠실 라이벌 '16홈런' 대기만성 뒤따를까 [미야자키 인터뷰]",
+  "published_at": "2026-10-31T03:12:20.000Z",
+  "collected_at": "2026-10-31T03:38:26.410Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-0a0a21c9",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "공감신문",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5BTUJHXzRadnFiQnFSUEEtMm5USzlsY21Yb3JwWDJVRDhPaGh4a1lWZmVLNTdOR1hQbVdZd3VuTGdOUVRVV2RLSENjLUc0cnhpWmw4aGdyZlN0SFJrZi1XZ3k0RDJ5cVB2?oc=5",
+  "title": "KIA 타이거즈, 한준수의 맹활약으로 삼성전 짜릿한 역전극…한국시리즈 진출 청신호",
+  "published_at": "2026-10-30T23:33:36.000Z",
+  "collected_at": "2026-10-31T03:38:26.410Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

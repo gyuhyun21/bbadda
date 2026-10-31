@@ -1,0 +1,29 @@
+{
+  "id": "news-21746ac0",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA1WUlMZ3RhejNXQXVOaV9kN0ZndU91S0pUTlRBdzViZUFCQXJ5U2lWNlZaeHNEWFRkQkw2SUdqM1BTWkhJUE5KOEhFQkhtdHpJWnRLZTVZc1JGa2gxbWNxS05meldEb0Z0NjkwQkNDdG5SQmdsUUkxWjFHSzlxZw?oc=5",
+  "title": "'PO 5차전 혈전' KIA-삼성은 죽을 맛인데...KBO는 웃는다 왜?",
+  "published_at": "2026-10-31T01:07:07.000Z",
+  "collected_at": "2026-10-31T03:38:26.410Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 83,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZFNDd09nNXRyS0l5UnRzY2xGRmJPLUw3WHFuX3VTV0RnaklWcHhNQlVDX01ZYXIxb2pZWVNyUE9TYUJqblQtV3Z6OFJLVVhMaVVRbktnQTNRUGk1cjFLSEc0UzB4YXZCek9rLWMtYjNpVnU2cG5kTUl0a2phZVZEVkxVOA?oc=5"
+    }
+  ]
+}

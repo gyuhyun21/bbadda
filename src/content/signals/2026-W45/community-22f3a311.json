@@ -1,0 +1,23 @@
+{
+  "id": "community-22f3a311",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 Heroes Museum",
+  "url": "https://blog.naver.com/seoul-heroes/224459863215",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/BpVbIXFLy2r",
+  "title": "[의류 151] 키움히어로즈 버건디 후드 아이싱티",
+  "published_at": "2026-10-31T09:18:00.000+09:00",
+  "collected_at": "2026-10-31T03:38:26.410Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

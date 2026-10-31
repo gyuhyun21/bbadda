@@ -1,0 +1,34 @@
+{
+  "id": "community-092ae801",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 두산베어스 공식 블로그",
+  "url": "https://blog.naver.com/1982doosanbears/224459910031",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/AMO5AArPAu0",
+  "title": "두산베어스, 잠실야구장 팬 투어 프로그램 진행",
+  "published_at": "2026-10-31T10:23:00.000+09:00",
+  "collected_at": "2026-10-31T03:38:26.410Z",
+  "summary_ko": "두산 공식 블로그가 잠실야구장 팬 투어 프로그램을 진행한다고 알렸다.",
+  "metrics": {},
+  "scores": {
+    "hot": 83,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "SPOTV NEWS",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4tWXdUZGJHc0RtMDB1SUhoT05DaG8wN2l5UmpLS0RPYWhHVW9pWl81ZzlnVkxJZW05ajhRc1FJcHBtMk4tWklfdjhhWlVXampuSVBTdEN2Znh3ZDMtTFBxUDBUODBtVTRrQ0hIOXA3enI?oc=5"
+    },
+    {
+      "source_name": "스포츠경향",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5MU0dULUk2TUMySkxWMkN2MFBxQXVJa3h3QWNPa2RwclJ0R3YtQl9IYXFFakgyX0otSm93bjRGTlJTaDFkZzliZnBmV0xDR19zWTdFSjVpM2x4YTNFYkHSAWNBVV95cUxPaUNTOUVFVVN2VTVZODV1ZURsQjloXzVhV0ExdHpROEJmNmhQWEtiV0NoVnBJSE0xSnZsbFpZWjlOQ2k1N1V2T21IQXZEZzdjeFFWcWlRRm1BNm04bEgxQXZLVDg?oc=5"
+    }
+  ],
+  "brief_ko": "잠실 팬 투어 프로그램 운영"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "news-ac8ec1dd",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "KBC광주방송",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9PMzZnbTUtX3dyQUk4WDg1aklBekRuTDZsc043Y184Q1d3aXYySDVOdVBHbkpwM1dBVFg0ZGlocnFtRGs2UVFNRjBmakdPU25kWG5zM1ZMaGJoYUZQbDhqZA?oc=5",
+  "title": "대구 악몽 씻고 KS 이끌까?...KIA 올러, 운명의 5차전 선발 출격",
+  "published_at": "2026-10-31T02:43:31.000Z",
+  "collected_at": "2026-10-31T03:38:26.410Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

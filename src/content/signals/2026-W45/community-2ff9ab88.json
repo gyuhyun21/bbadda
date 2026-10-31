@@ -1,0 +1,24 @@
+{
+  "id": "community-2ff9ab88",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 꿀버리 랜드",
+  "url": "https://blog.naver.com/honeybee_0620/224459872234",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/2PiVMpZY2qW",
+  "title": "🐬울산 웨일즈, 창단 첫해 두 번째 결승 도전! 미국 롱비치 코스트와 FALL LEAGUE 우승 맞대결",
+  "published_at": "2026-10-31T09:31:00.000+09:00",
+  "collected_at": "2026-10-31T03:38:26.410Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

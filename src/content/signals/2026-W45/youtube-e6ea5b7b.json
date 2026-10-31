@@ -1,0 +1,26 @@
+{
+  "id": "youtube-e6ea5b7b",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "빠꿈",
+  "url": "https://www.youtube.com/watch?v=R5p61hQDGRM",
+  "title": "삼성라이온즈가 강팀이 된 이유",
+  "published_at": "2026-10-31T01:00:17Z",
+  "collected_at": "2026-10-31T03:38:26.410Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 2816,
+    "likes": 85,
+    "comments": 2
+  },
+  "scores": {
+    "hot": 67,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

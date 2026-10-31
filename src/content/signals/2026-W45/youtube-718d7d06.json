@@ -1,0 +1,27 @@
+{
+  "id": "youtube-718d7d06",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "kt"
+  ],
+  "source_type": "youtube",
+  "source_name": "KBO Talk 박현서",
+  "url": "https://www.youtube.com/watch?v=PNC9b_NPC3g",
+  "title": "KIA가 이겼는데 왜 KT가 웃을까? 이강철 감독이 기다린 5차전의 비밀 #KBO #KIA타이거즈 #삼성라이온즈 #KT위즈",
+  "published_at": "2026-10-30T23:08:23Z",
+  "collected_at": "2026-10-31T03:38:26.410Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 520,
+    "likes": 36,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 73,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

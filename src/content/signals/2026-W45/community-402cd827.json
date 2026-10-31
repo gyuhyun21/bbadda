@@ -1,0 +1,30 @@
+{
+  "id": "community-402cd827",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 SPOTLIGHT",
+  "url": "https://blog.naver.com/agentwannabe/224459575108",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/JPafEhkRIOK",
+  "title": "'LG가 최원태를 위해 포기한 유망주' 최고 155km의 빠른 공을 뿌리는 투수로 성장한, 김동규(KBO)",
+  "published_at": "2026-10-31T00:50:00.000+09:00",
+  "collected_at": "2026-10-31T03:38:26.410Z",
+  "summary_ko": "블로그 SPOTLIGHT가 LG가 최원태 영입 때 내준 유망주 김동규가 최고 155km 투수로 성장했다고 소개했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 72,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "Naver Blog",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdkxwSHA5RzdZam9nUnN1TTItdWxDWlhtMDZDRDFPZlVMSUV1bzdVLXA0M3lxcEpFNGU2THAybk1DTklrczZuWDJxUHpQZGxTQVFMT2g3UXlmQjJJOXIyMnZ0ODhuTWlJZ2lqSVQwckRsXzhhdGo0eUh1bFo1ME5zbE1MUUw0UDE2RzF6RWttWmxaVnA4?oc=5"
+    }
+  ],
+  "brief_ko": "LG가 포기한 유망주 성장"
+}

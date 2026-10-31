@@ -1,0 +1,28 @@
+{
+  "id": "youtube-7c6f33cf",
+  "issue": "2026-W45",
+  "module": "league",
+  "teams": [
+    "kia"
+  ],
+  "team": "kia",
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=8AK-9b2FyBc",
+  "title": "[2026 울산-KBO Fall League 준결승 제2경기 H/L] KIA타이거즈 vs 울산웨일즈(10.30)",
+  "published_at": "2026-10-31T01:46:09Z",
+  "collected_at": "2026-10-31T03:38:26.410Z",
+  "summary_ko": "KBO 공식 채널이 울산-KBO Fall League 준결승 제2경기 KIA 대 울산 하이라이트를 올렸다.",
+  "metrics": {
+    "views": 407,
+    "likes": 8,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 47,
+    "relevance": 80
+  },
+  "sentiment": "neutral",
+  "brief_ko": "폴리그 준결승 KIA-울산"
+}

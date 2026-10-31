@@ -1,0 +1,26 @@
+{
+  "id": "youtube-6d679a45",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "source_name": "백두썰록",
+  "url": "https://www.youtube.com/watch?v=43MtsrbhdAg",
+  "title": "일본이 5~6년 못 알아본 투수 한화가 울려 버림 #이슈 #뉴스#한화이글스",
+  "published_at": "2026-10-31T03:07:15Z",
+  "collected_at": "2026-10-31T03:38:26.410Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 412,
+    "likes": 3,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 40,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

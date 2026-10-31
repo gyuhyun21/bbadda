@@ -1,0 +1,24 @@
+{
+  "id": "community-ffbf9ea5",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 스피드쌍절봉",
+  "url": "https://blog.naver.com/ssbfkorea/224459814484",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/IcSqHmia7dM",
+  "title": "한국시리즈 예매 일정 및 가격 방법 총정리 (2026 KBO)",
+  "published_at": "2026-10-31T07:52:00.000+09:00",
+  "collected_at": "2026-10-31T03:38:26.410Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

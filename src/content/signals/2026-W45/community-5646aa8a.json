@@ -1,0 +1,24 @@
+{
+  "id": "community-5646aa8a",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 목련",
+  "url": "https://blog.naver.com/jikl7201/224459923972",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/BtqW1hQdRUH",
+  "title": "\"1경기 뛰고 비하하더니 결국 복귀 불발... 36세 스미스, 기가막힌 정체 터졌다\"",
+  "published_at": "2026-10-31T11:00:00.000+09:00",
+  "collected_at": "2026-10-31T03:38:26.410Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

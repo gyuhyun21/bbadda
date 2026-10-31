@@ -1,0 +1,22 @@
+{
+  "id": "news-38b7a98d",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "매일신문",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBNNVgzRFpCUUM1UDNKSkdrMm9rM0xBT3BrNlA1bjByamVsV3ZIX3N0VU5VakpuMkFVeUtWZmFIM0NETVVwODBfOXJmejVPM2J5RXhneGRDbjdjV0lxcXRHXy1B?oc=5",
+  "title": "삼성 PO 4차전 2-4 역전패…박진만 \"어려울 때 잘 이겨냈다\" 5차전 필승 다짐",
+  "published_at": "2026-10-30T23:03:05.000Z",
+  "collected_at": "2026-10-31T03:38:26.410Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

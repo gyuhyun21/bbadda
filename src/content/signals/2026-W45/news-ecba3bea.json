@@ -1,0 +1,23 @@
+{
+  "id": "news-ecba3bea",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "톱스타뉴스",
+  "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1iQXllOGd5T20tYWM4ODU5SGcxOVB2dzQ1UzhMNXl3ZG9DOWQ3SUtvalBlM01WUFRBdTMzbTFoNjNoWkI5OFFjS19oMEhRWk15RmxuVGJNc2pUUldteGdxLVVkR21TTlRudm1CMHRZeHhOUQ?oc=5",
+  "title": "'4차전 승리 팀 78% 확률' KIA, 삼성과 PO 5차전서 한국시리즈행 정면승부",
+  "published_at": "2026-10-30T22:43:04.000Z",
+  "collected_at": "2026-10-31T03:38:26.410Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 80
+  },
+  "sentiment": "positive"
+}

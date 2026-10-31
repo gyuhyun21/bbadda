@@ -1,0 +1,23 @@
+{
+  "id": "news-b9c426b3",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "더코리아",
+  "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9hVUcyLWZMSzlzam9oLW5kdFp4T1RuYUpRcm95NW1fU3M3SVl3MUdEby16LXdxc3A0S01USDJTMXdjQVMwczR2aWhXN1cwWUhlY0Q1TFpibjRveHQxY2RQOTV1bDV2U1dGUTdsVWR6WjU4dw?oc=5",
+  "title": "타이거즈 PO 4차전 짜릿한 역전승, 대구서 마지막 승부 > 뉴스",
+  "published_at": "2026-10-31T02:21:00.000Z",
+  "collected_at": "2026-10-31T03:38:26.410Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

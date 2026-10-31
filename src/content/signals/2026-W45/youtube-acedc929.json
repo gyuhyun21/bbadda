@@ -1,0 +1,26 @@
+{
+  "id": "youtube-acedc929",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "youtube",
+  "source_name": "야구 사운드",
+  "url": "https://www.youtube.com/watch?v=Sg_g7F497cg",
+  "title": "前 NC 다이노스 나성범 응원가 Music Video",
+  "published_at": "2026-10-30T23:55:32Z",
+  "collected_at": "2026-10-31T03:38:26.410Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 13,
+    "likes": 2,
+    "comments": 3
+  },
+  "scores": {
+    "hot": 54,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

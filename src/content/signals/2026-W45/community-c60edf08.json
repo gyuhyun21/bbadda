@@ -1,0 +1,30 @@
+{
+  "id": "community-c60edf08",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/10502855022",
+  "title": "투수들의 등대였던 김현욱 코치, 롯데와 아쉬운 작별 \"내년에 더 잘할 ...",
+  "published_at": "2026-10-31T01:38:26.410Z",
+  "collected_at": "2026-10-31T03:38:26.410Z",
+  "summary_ko": "에펨코리아 글이 투수들의 등대였던 김현욱 코치가 롯데와 작별한다는 소식을 전했다.",
+  "excerpt": "... 화려한 조명이 비추는 1군 무대 뒤편, 흙먼지 날리는 상동 구장과 묵묵히 공을 던지던 불펜…",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE40QlVDQ2t2N2RXVE95SzcwZ1FyVmRZamxSV2JYREVDWXdFZThaUFFDWkxxTkt0UkdNU1FsdzVlVG1yTDBDMkVmbl92bEktUEx6ZHJqd3l1dmdCZWhoT0F3cXFnSjYxZUkwaGwwZWFoNNIBb0FVX3lxTE40QlVDQ2t2N2RXVE95SzcwZ1FyVmRZamxSV2JYREVDWXdFZThaUFFDWkxxTkt0UkdNU1FsdzVlVG1yTDBDMkVmbl92bEktUEx6ZHJqd3l1dmdCZWhoT0F3cXFnSjYxZUkwaGwwZWFoNA?oc=5"
+    }
+  ],
+  "brief_ko": "김현욱 코치, 롯데와 작별"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "community-b1efba90",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 이슈를 요리하는 곳, 데일리 브리핑",
+  "url": "https://blog.naver.com/dailybriefing/224459919754",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/KhWEAK88bIT",
+  "title": "LG 트윈스 코치진 7명 정리, 누가 떠났고 어떻게 바뀌었을까",
+  "published_at": "2026-10-31T10:35:00.000+09:00",
+  "collected_at": "2026-10-31T03:38:26.410Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

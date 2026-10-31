@@ -1,0 +1,24 @@
+{
+  "id": "news-4735801a",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "https://www.2news.co.kr/",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE55ZlRPUWFjd2lON3RLWko1SjFtdnNGRkhJeVdUZWtwLVBNQUNtS3dVRk44ZWhacjUyNVJSUXNNc1R5eWJoUzVrWmtUY09HMVZ6cmFzM1RsaGFfWEJuYURiekNLLTF5aGdW?oc=5",
+  "title": "KS행 티켓 걸고 대구서 마운드 끝장 승부",
+  "published_at": "2026-10-31T00:51:00.000Z",
+  "collected_at": "2026-10-31T03:38:26.410Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 91,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

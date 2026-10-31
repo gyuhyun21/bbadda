@@ -1,0 +1,24 @@
+{
+  "id": "community-e2ac85e2",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 굿픽의 정보노트",
+  "url": "https://blog.naver.com/goodpick1/224459931462",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/ASN9pM3FvLJ",
+  "title": "2026 가을야구 KBO 포스트시즌 일정 및 남은 일정 한눈에 보기: 플레이오프 최종전부터 한국시리즈까지...",
+  "published_at": "2026-10-31T10:49:00.000+09:00",
+  "collected_at": "2026-10-31T03:38:26.410Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "community-4eb78887",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/10502868067",
+  "title": "그러고보니 오늘은 욱동의 취임식이 열리는 날입니다 - 야구",
+  "published_at": "2026-10-31T01:38:26.410Z",
+  "collected_at": "2026-10-31T03:38:26.410Z",
+  "summary_ko": "",
+  "excerpt": "... 하루라도 빨리 마캠 영상으로 허황된 희망을 주입당하고 싶네요.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

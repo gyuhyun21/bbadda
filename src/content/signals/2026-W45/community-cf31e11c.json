@@ -1,0 +1,24 @@
+{
+  "id": "community-cf31e11c",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 AI제니 님의 블로그",
+  "url": "https://today.livestoryforge.com/15819",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/K8CkFnt30hH",
+  "title": "KBO 플레이오프 5차전, 수원행 티켓 주인공은? 후라도 vs 올러 선발 대결!",
+  "published_at": "2026-10-31T11:36:07.000+09:00",
+  "collected_at": "2026-10-31T03:38:26.410Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}
