@@ -1,0 +1,56 @@
+{
+  "music": "bgm-breaking",
+  "segments": [
+    {
+      "src": "clip1.mp4",
+      "from": 0,
+      "to": 5.5,
+      "credit": "TBC 뉴스",
+      "say": "a1.mp3",
+      "text": "닷새 전 기아 타선을 묶은 그 투수가, 내일 또 마운드에 올라.",
+      "kick": "PO 5차전 · 내일 대구",
+      "head": "닷새 전 그 투수<br><b>또</b> 나온다",
+      "note": "출처: data/postseason.yaml(5차전 11월 1일 대구, 선발 후라도 대 올러 — 톱스타뉴스)"
+    },
+    {
+      "src": "clip2.mp4",
+      "from": 0,
+      "to": 7,
+      "credit": "TVING SPORTS",
+      "say": "a2.mp3",
+      "text": "삼성 후라도. 이차전에서 육과 삼분의 이 이닝 동안 이 점만 주고, 백팔 구 던져서 포스트시즌 첫 승을 따냈어.",
+      "kick": "PO 2차전 승리투수",
+      "head": "후라도<br><b>108구</b> 역투",
+      "note": "출처: data/postseason.yaml(2차전 삼성 8-3, 후라도 6⅔이닝 2실점 108구 — 스포츠타임스·뉴스1)"
+    },
+    {
+      "src": "clip3.mp4",
+      "from": 0,
+      "to": 5.5,
+      "credit": "기아타이거즈",
+      "say": "a3.mp3",
+      "text": "기아는 그날 맞선 올러를 다시 내. 같은 두 투수인데, 이번엔 한국시리즈 티켓이 걸렸어.",
+      "kick": "KIA 선택은 올러",
+      "head": "같은 두 투수<br><b>리턴매치</b>",
+      "note": "출처: data/postseason.yaml(2차전 선발 올러 대 후라도 — 마이데일리·뉴스핌)"
+    },
+    {
+      "src": "clip4.mp4",
+      "from": 0,
+      "to": 6,
+      "credit": "KBO",
+      "say": "a4.mp3",
+      "text": "이긴 팀은 십일월 삼일 수원에서 케이티를 만나. 너는 누가 웃을 것 같아?",
+      "kick": "이기면 KS · kt 대기",
+      "head": "내일 웃는 쪽은<br><b>누구</b>?",
+      "note": "출처: data/postseason.yaml(KS 1차전 11월 3일 수원 — 한겨레)"
+    }
+  ],
+  "end": {
+    "kick": "PO 5차전 · 11월 1일 대구",
+    "head": "후라도냐 올러냐<br>누가 웃을까",
+    "a": "삼성 후라도",
+    "b": "KIA 올러",
+    "cta": "기아·삼성팬 친구한테 보내 줘"
+  }
+}
