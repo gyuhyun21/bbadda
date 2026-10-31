@@ -1,0 +1,24 @@
+{
+  "id": "community-8e4bb37b",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "더쿠",
+  "url": "https://theqoo.net/kbaseball?group_srl=184836187&page=2",
+  "title": "국내야구",
+  "published_at": "2026-10-30T23:38:49.522Z",
+  "collected_at": "2026-10-31T09:38:49.522Z",
+  "summary_ko": "",
+  "excerpt": "... 한화) 투수는 보내봤는데 야수는 또 첨이라 ( ˶ ⌒ ө ⌒ ˶ )ゝ; 16:55;…",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

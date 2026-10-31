@@ -1,0 +1,23 @@
+{
+  "id": "news-c58d93c2",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠경향",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBTMXJ1Z2lUMjV0M2Q2M09BWnFyY2xzcGRMSFBRdGlEbGhubjU3ZWUtb1NQTGkzUVRPTkJNSGp2b0NTZkhPcFI2TFR2Mm9CTjlibHpiMzVLREw2dlhtMnNXVFBzZ9IBY0FVX3lxTFBTMXJ1Z2lUMjV0M2Q2M09BWnFyY2xzcGRMSFBRdGlEbGhubjU3ZWUtb1NQTGkzUVRPTkJNSGp2b0NTZkhPcFI2TFR2Mm9CTjlibHpiMzVLREw2dlhtMnNXVFBzZw?oc=5",
+  "title": "가을야구 ‘새옹지마’ 김선빈의 PO 4차전···라팍 5차전서는 누가 반전 스토리 쓸까",
+  "published_at": "2026-10-31T06:34:00.000Z",
+  "collected_at": "2026-10-31T09:38:49.522Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

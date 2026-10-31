@@ -1,0 +1,22 @@
+{
+  "id": "news-c03964d3",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1rdDIya1BfcWc5VWpQUXpjZjdtd2JtaUZ6d0hFY1M4WmNra3R3MmRyYUtVZTd3RzJiY2Z6UldKT2k4ZnJYMEpaZFJfWVpjREI2NEVrU19JZFF5cmtGbkY1UDhFREcxaDQ4NFZBbXU1RdIBb0FVX3lxTE1rdDIya1BfcWc5VWpQUXpjZjdtd2JtaUZ6d0hFY1M4WmNra3R3MmRyYUtVZTd3RzJiY2Z6UldKT2k4ZnJYMEpaZFJfWVpjREI2NEVrU19JZFF5cmtGbkY1UDhFREcxaDQ4NFZBbXU1RQ?oc=5",
+  "title": "[사진] 인사하는 롯데 이동욱 신임 감독과 이강훈 대표",
+  "published_at": "2026-10-31T05:28:00.000Z",
+  "collected_at": "2026-10-31T09:38:49.522Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 99,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

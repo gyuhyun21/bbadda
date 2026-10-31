@@ -1,0 +1,26 @@
+{
+  "id": "youtube-24adc4bc",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "야구짤츠",
+  "url": "https://www.youtube.com/watch?v=KonHwZOZ8LE",
+  "title": "5차전 승리확률은 KIA 우세인데 대반전 예외 케이스가 하필..",
+  "published_at": "2026-10-31T06:29:58Z",
+  "collected_at": "2026-10-31T09:38:49.522Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 27724,
+    "likes": 374,
+    "comments": 18
+  },
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

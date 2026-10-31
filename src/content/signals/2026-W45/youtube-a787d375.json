@@ -1,0 +1,26 @@
+{
+  "id": "youtube-a787d375",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "youtube",
+  "source_name": "크보쏭",
+  "url": "https://www.youtube.com/watch?v=NRnD2291FW4",
+  "title": "前 KT 위즈 문상철 응원가 Music Video",
+  "published_at": "2026-10-31T07:48:29Z",
+  "collected_at": "2026-10-31T09:38:49.522Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 55,
+    "likes": 6,
+    "comments": 3
+  },
+  "scores": {
+    "hot": 61,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

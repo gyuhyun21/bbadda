@@ -1,0 +1,36 @@
+{
+  "id": "news-c4ddba93",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "announcement": true,
+  "source_name": "SPOTV NEWS",
+  "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1016699",
+  "title": "[오피셜] 노시환, 307억 포기하고 ML 진출 도전 선언…KBO \"포스팅 요청\"",
+  "published_at": "2026-10-31T07:38:08.000Z",
+  "collected_at": "2026-10-31T09:38:49.522Z",
+  "summary_ko": "KBO가 한화 노시환의 메이저리그 30개 구단 대상 포스팅을 요청했다고 SPOTV NEWS가 공식 발표로 전했다. 제목에 따르면 노시환은 307억 규모의 국내 계약 대신 미국 도전을 택했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 99,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE84RGNfUGF3cHIwaG4yM2lmM05UZWEyTWhXdjNxRnE4QzkwalBRcmY4RVhud3NIWElXWUFSaHJRcFZ0SHdXY0t1S2Q2VFF0NHBYSWRZWnpBS3o4STVkaWtVYVc5QlcycmxSOTFOcEdUendrMlBTYWc?oc=5"
+    },
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9VMVUyNkR0S2c0bXJXbkM5LTNlUXM1SzQ4VWNMZDhYQ25DcWZ6dFZJMUZ4VnhIaTdzYzBWUkVXbkVraHZfbkpSMjFubVpIZ2FkMHBMNmtJbUFMX0NJMFZWUFdsQUtGb1FLXzg0ZFZrb9IBb0FVX3lxTE9VMVUyNkR0S2c0bXJXbkM5LTNlUXM1SzQ4VWNMZDhYQ25DcWZ6dFZJMUZ4VnhIaTdzYzBWUkVXbkVraHZfbkpSMjFubVpIZ2FkMHBMNmtJbUFMX0NJMFZWUFdsQUtGb1FLXzg0ZFZrbw?oc=5"
+    }
+  ],
+  "brief_ko": "노시환, 메이저리그 포스팅 요청",
+  "hook_ko": "노시환, 307억 대신 미국 도전"
+}

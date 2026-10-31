@@ -1,0 +1,23 @@
+{
+  "id": "news-42867055",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "더리포트",
+  "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB3SGp1c1RVMTdCY3VWS2psb3hqYndPNmsteEdWNTM0dGNScGs2TURqRmhSbGlfZkJpeWFNNjZBX0xMUnRzZUVzNUdMaDZZRXdZdE9lVmpyOS00MVBuR1JIQW5sN1pvQlI5MGpUTFZB?oc=5",
+  "title": "뜨거운 김도영·완벽한 제구 후라도·양현종 불펜 준비·배찬승의 진화가 맞붙는다",
+  "published_at": "2026-10-31T06:05:44.000Z",
+  "collected_at": "2026-10-31T09:38:49.522Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

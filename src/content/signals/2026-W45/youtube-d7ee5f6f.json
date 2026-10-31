@@ -1,0 +1,26 @@
+{
+  "id": "youtube-d7ee5f6f",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "youtube",
+  "source_name": "음치탈출! 오타몬!!!",
+  "url": "https://www.youtube.com/watch?v=a8XmwpJRCvs",
+  "title": "박성한선수 응원가(SSG랜더스)-오타마톤ver.",
+  "published_at": "2026-10-31T09:00:16Z",
+  "collected_at": "2026-10-31T09:38:49.522Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 263,
+    "likes": 4,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 44,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

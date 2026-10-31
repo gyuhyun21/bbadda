@@ -1,0 +1,23 @@
+{
+  "id": "community-1aa7131a",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 BBC 미디어센터",
+  "url": "https://blog.naver.com/sunhoo272/224460209416",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/CHjFz2Ngwx6",
+  "title": "김강민, NC 외야 수비 '마법사'로 변신…새로운 지도 방식 예고",
+  "published_at": "2026-10-31T16:30:00.000+09:00",
+  "collected_at": "2026-10-31T09:38:49.522Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

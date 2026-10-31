@@ -1,0 +1,29 @@
+{
+  "id": "community-4a737982",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 갓생러의 소소한 일상",
+  "url": "https://blog.naver.com/ht5218/224460205632",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/8HF8H2C6sBp",
+  "title": "롯데 단장 됐는데도 한 경기 더? 이택근 은퇴식이 특별한 이유",
+  "published_at": "2026-10-31T16:20:00.000+09:00",
+  "collected_at": "2026-10-31T09:38:49.522Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPR0pDVEptRjlBYXdjY2Y1dHJuS0VOM090VkRhVGF1QnplOXUzSUlrZnRGaXRwdnFYVWlXWkNMLXdKM0dIeDU3R3cxbTlFRkx6WVJvSkp0YktSX01SSFBXMzdVRU8tVlZZNHJXRHFiRi1pb2NBVFFCVFg1bXhLdks1UUNNVQ?oc=5"
+    }
+  ]
+}

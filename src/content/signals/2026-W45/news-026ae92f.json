@@ -1,0 +1,24 @@
+{
+  "id": "news-026ae92f",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠경향",
+  "url": "https://sports.khan.co.kr/article/202610311143003",
+  "title": "[PO]다시 만난 삼성 후라도와 KIA 올러…KS 티켓 걸고 대격돌",
+  "published_at": "2026-10-31T02:43:00.000Z",
+  "collected_at": "2026-10-31T09:38:49.522Z",
+  "summary_ko": "PO 5차전은 삼성 후라도와 KIA 올러가 다시 맞붙는다고 스포츠경향이 전했다. 승자가 한국시리즈 티켓을 쥔다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 80
+  },
+  "sentiment": "neutral",
+  "brief_ko": "후라도·올러, KS 티켓 걸고 재격돌"
+}

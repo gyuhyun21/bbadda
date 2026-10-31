@@ -1,0 +1,26 @@
+{
+  "id": "youtube-04f6c1a9",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "youtube",
+  "source_name": "박주홍은터진다",
+  "url": "https://www.youtube.com/watch?v=dy3TQHnnHz8",
+  "title": "[𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭] 히어로 등장! 비시즌을 달래줄 2026 키움히어로즈 등장곡 모음",
+  "published_at": "2026-10-31T05:27:55Z",
+  "collected_at": "2026-10-31T09:38:49.522Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 38,
+    "likes": 3,
+    "comments": 2
+  },
+  "scores": {
+    "hot": 59,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "youtube-6a830391",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "youtube",
+  "source_name": "김알 - 김팀장이 알아봤다!",
+  "url": "https://www.youtube.com/watch?v=ZFyVV636gzg",
+  "title": "SSG 랜더스 18년 성적표🏆 우승 DNA는 살아있다! 9위에서 통합우승까지🔥 #SSG랜더스 #SK와이번스 #KBO #야구쇼츠",
+  "published_at": "2026-10-31T08:00:30Z",
+  "collected_at": "2026-10-31T09:38:49.522Z",
+  "summary_ko": "SSG의 지난 18년 성적을 돌아보며 9위에서 통합우승까지 간 과정을 다룬 팬 영상이다.",
+  "metrics": {
+    "views": 2299,
+    "likes": 7,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 42,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "brief_ko": "SSG 18년 성적표 돌아보기"
+}

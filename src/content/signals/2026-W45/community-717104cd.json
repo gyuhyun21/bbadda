@@ -1,0 +1,24 @@
+{
+  "id": "community-717104cd",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/10503929117",
+  "title": "노시환 포스팅을 한다고..? - 야구",
+  "published_at": "2026-10-31T08:40:49.522Z",
+  "collected_at": "2026-10-31T09:38:49.522Z",
+  "summary_ko": "",
+  "excerpt": "... KIA 타이거즈 마무리캠프 명단 [1]. 14 분 전 정보 타격왕 ...",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "news-eb50fa8c",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스1",
+  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1lUjk5am5iM0xaUURNR0tTVm1icFA2MEtmN0x4QWdjU3ptUmNjdjFpODZIdDBHM1VTTjF5VXBfblJqelpodlZ5TUF5OG84M0taSWZmYmFKYw?oc=5",
+  "title": "프로야구 삼성, 日 오키나와서 마무리 캠프 실시",
+  "published_at": "2026-10-31T07:28:49.000Z",
+  "collected_at": "2026-10-31T09:38:49.522Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 83,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

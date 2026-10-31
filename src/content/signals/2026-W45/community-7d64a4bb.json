@@ -1,0 +1,28 @@
+{
+  "id": "community-7d64a4bb",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 덕이매거진 | 스포츠에 진심인 덕후 오리",
+  "url": "https://blog.naver.com/schinmagazine/224460227061",
+  "title": "한화 노시환, MLB 진출 도전! 30개 구단과 협상 길 열렸다",
+  "published_at": "2026-10-31T16:46:00.000+09:00",
+  "collected_at": "2026-10-31T09:38:49.522Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "이투데이",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5DZ2xBb05NeEdpdFVBY0t3T2EzYmx4cmxLZ1dLMXBkbVNDdGlOLTBpREtUWldTLXJudTlFYnhJRE5PQjEzSktIemp2NEVheE01Q0NNbA?oc=5"
+    }
+  ]
+}

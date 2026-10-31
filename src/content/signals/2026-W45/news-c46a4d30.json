@@ -1,0 +1,24 @@
+{
+  "id": "news-c46a4d30",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "nc",
+  "teams": [
+    "nc",
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9PbEdOYW5IQno2Tkd2T3ctT253TGJ3UmhrLVpKNWhUdjR6b01xbjJHWlUzTHBlUmIyRE1HUklPUjJheEZEa3hFQUVoYk40TFF5SnVMMlN4aFZLX0F1ZjJlMkZBeGZLQUw4QUlNdDdXNNIBb0FVX3lxTE9PbEdOYW5IQno2Tkd2T3ctT253TGJ3UmhrLVpKNWhUdjR6b01xbjJHWlUzTHBlUmIyRE1HUklPUjJheEZEa3hFQUVoYk40TFF5SnVMMlN4aFZLX0F1ZjJlMkZBeGZLQUw4QUlNdDdXNA?oc=5",
+  "title": "[포토] '거인군단 이끌' 이동욱 감독과 이택근 단장",
+  "published_at": "2026-10-31T04:53:56.000Z",
+  "collected_at": "2026-10-31T09:38:49.522Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 90,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

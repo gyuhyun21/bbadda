@@ -1,0 +1,22 @@
+{
+  "id": "news-01bb3ac2",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "재경일보",
+  "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAzb2hUYmxwUm5UNmZuQjRJSENxZFRRZ0JmRlRLWG9iUXhZRHg2ZTBuWm50ZDlZZ0dFN1QwWlpwWEY2US1nREo1cUlKRQ?oc=5",
+  "title": "나성범 '수원 원정 짐까지 싸와'…KIA PO 4차전 총력 : 스포츠",
+  "published_at": "2026-10-30T12:46:13.000Z",
+  "collected_at": "2026-10-31T09:38:49.522Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 61,
+    "relevance": 80
+  },
+  "sentiment": "neutral"
+}

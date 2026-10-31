@@ -1,0 +1,23 @@
+{
+  "id": "community-996e4674",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 스포츠 큐레이터 린",
+  "url": "https://blog.naver.com/asj1875/224460002917",
+  "title": "데뷔 24년 만의 첫 한국시리즈, 41세 우규민이 기다리는 우승의 꿈",
+  "published_at": "2026-10-31T12:17:00.000+09:00",
+  "collected_at": "2026-10-31T09:38:49.522Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

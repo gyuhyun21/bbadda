@@ -1,0 +1,34 @@
+{
+  "id": "news-ee2c3cbd",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "미주중앙일보",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE95YjVlcmJCenBoVnhERWlHODNkX3dLM19seUV6aXI4Ry1FR2ZrOFEwc2J1UHo4Zm1uQ0hpd0VvZTl3WHVFbko5VlBZMnVRcFlzdlpYSU1sVWtySWtTZU90QVp3?oc=5",
+  "title": "“팀이 이기는게 첫 번째” 198승 대투수가 PS 0경기, 8번째 가을 이렇게 끝나나…무조건 한국시리즈 가야한다",
+  "published_at": "2026-10-31T03:40:00.000Z",
+  "collected_at": "2026-10-31T09:38:49.522Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 98,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBvMHRJSjB2Sm1SX3F2cjlDeHE0ODRSUEV5SnR3bmhmTERuY3R1d3l6MmZDRVdtT0R2N0EtMkloYk5XWGtOYUU3ay1fOGU4dEprQjlxaVFXMWE5UmgxQVVlS004dEtic3VCR0HSAW9BVV95cUxNN1pWV0I3Y01Gdkx4NndOVGlFbld5UnI5WWJqQldSOW1lR2ZESkJybnU5WVlVZEpRekNWalF3SlNZZ1ROUW9Ma3pDa0JlZmJmZW5NMWg2MVZoTXh0aTVuZlJ5aFdCS3R6Wm16Qy1YNmM?oc=5"
+    },
+    {
+      "source_name": "OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB4dUd5M1lrLUE3cmJYNi1lS3BEMXBYaUowaFI4T0kxVUREUlpUZXJOa3M0eUF5Uk9jTnBKQmVVS2lTQ3RUaU9PNVA1NVRpSEdYMlYteA?oc=5"
+    }
+  ]
+}

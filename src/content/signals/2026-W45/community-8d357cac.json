@@ -1,0 +1,34 @@
+{
+  "id": "community-8d357cac",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 잡다한 지식창고",
+  "url": "https://blog.naver.com/hotpickbox/224460290518",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/CuO24iEAV14",
+  "title": "노시환 MLB 포스팅 오피셜, 307억 계약 포기한 건가요?",
+  "published_at": "2026-10-31T18:07:00.000+09:00",
+  "collected_at": "2026-10-31T09:38:49.522Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 92,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "스포츠조선",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB6U0NUYW9Rcm1UaG42WWNfZmVSLTFNLWRZbWlDeFRMQUp5WE5MRmFPNmFaR1ZhU2lIclk4QnEwLTJCeFN5SFNDZkNSUDF3ZDJNeEFTWVBGTDRJeVZKc09jTl91X2t6dkVERTVLRWNsNzg4UDhSdzJNNm4zYS10Zw?oc=5"
+    },
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdUMwLTZFRy1BUkZzY2xGOGR2ZEh2Qmx3TTlkYXlmdUhacGpxYlBoLTVGYUhpa3BpcTBiaTU2amc2Z2xZMVhiYjFNX1JKTEZDdHd4c1oydTBSLUxwVjNtekhKcGFPbXdNUnlZWGJJNWZoQ2JiUlNOa3BYRFNvZXdVZkxkcw?oc=5"
+    }
+  ]
+}

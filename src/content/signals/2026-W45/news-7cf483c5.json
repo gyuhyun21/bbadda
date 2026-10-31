@@ -1,0 +1,32 @@
+{
+  "id": "news-7cf483c5",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "news",
+  "source_name": "이데일리",
+  "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdm82OHNZZGpEeWhEaHBNck1halU1bkJkQnNjbXZPT18yeEh5Yjh4WGVlOEw0bVFqd29Nekx3NGU1MXlRdGl6S3hfNjZHMVBSZFF1eVBmUmJ2VkNHU3JoQ25vYkhucmtDcFhpajNlWjlFdUNjZl91N2VnU0dOLXhmTg?oc=5",
+  "title": "한화 노시환, 메이저리그 문 두드린다…KBO, 포스팅 요청",
+  "published_at": "2026-10-31T07:43:07.000Z",
+  "collected_at": "2026-10-31T09:38:49.522Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 99,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "마이데일리",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1TSmI1MUxnOUFrRFBfdFNwX0FRUHB6OVVfSDh0UGxfN3hwZVZpVkhrbnVfellBc1otMDJoOEJhTWZoRFpNR3lwOU5qc3F4cHg2R09ONmxXSmkySll0TkVnaA?oc=5"
+    },
+    {
+      "source_name": "미주중앙일보",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1pbzZKVDZOeDhka014OGdaaDlpV3hpQm9nWkk5Q0d0QzFmOHZCSEQ0S1dwMVZYR0ktdlVvY0pyWXFBRkJCMmJMbnlTYWhabXlld0Z0anZOTFZlSlpIOU9NQkZR?oc=5"
+    }
+  ]
+}

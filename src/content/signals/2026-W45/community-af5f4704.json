@@ -1,0 +1,24 @@
+{
+  "id": "community-af5f4704",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "더쿠",
+  "url": "https://theqoo.net/kbaseball?group_srl=892335564&page=3",
+  "title": "국내야구",
+  "published_at": "2026-10-28T15:00:00.000Z",
+  "collected_at": "2026-10-31T09:38:49.522Z",
+  "summary_ko": "",
+  "excerpt": "... SSG) 가나디 파는 이마트 아직 재고 넉넉하겠지? 10-29; 조회 56; 잡담. SSG) 주안역에 깜자…",
+  "metrics": {},
+  "scores": {
+    "hot": 44,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

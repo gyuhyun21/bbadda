@@ -1,0 +1,28 @@
+{
+  "id": "news-e88a5533",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9kNWhQQUlmeXdIUWxneHZwOWowU1VpclkzdWp6SExTMF93ZGFqVDVxOW9sa25FZ1ppYXl1M2d1azFGNUlEbG13Ujk5eXZTeFUxVDNuTU92SzBad0NxZm5nZ1VXS0FLSlk2a3ZUZ3FvSdIBb0FVX3lxTE9kNWhQQUlmeXdIUWxneHZwOWowU1VpclkzdWp6SExTMF93ZGFqVDVxOW9sa25FZ1ppYXl1M2d1azFGNUlEbG13Ujk5eXZTeFUxVDNuTU92SzBad0NxZm5nZ1VXS0FLSlk2a3ZUZ3FvSQ?oc=5",
+  "title": "[포토] '선수들과 기념촬영하는' 신임 이동욱 롯데 감독과 부인",
+  "published_at": "2026-10-31T06:06:50.000Z",
+  "collected_at": "2026-10-31T09:38:49.522Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 99,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5YV0dXdEowb2JzUm94eUxJNDREZUFDZnBQNkhEZ1huVlFZd2d5RmZyYjc4UXFqZnFCZ0pUblpweTdZd01ET0F3RnFQUmhhdjl4MFY1RlRtVDROcXlWUkM1MHlWM3Q3eFlBSjh5ak81SS10dkREbWc?oc=5"
+    }
+  ]
+}

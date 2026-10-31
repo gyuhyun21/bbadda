@@ -1,0 +1,23 @@
+{
+  "id": "news-8e135926",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "이투데이",
+  "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBYQmEteU9IRVU1NklZYUNzYk9VVHhuY19tNHk1QmZaVmp2bE50VjhQdnVIcklhRGFXMHN0ZDI3ZWs3WWRsNjFwejJCNHhCZkpzX2tlMi1QcW5yVzdQU0FEd0tOV01KZXdmZ1E0TFpn?oc=5",
+  "title": "후라도ㆍ올러 다시 격돌⋯삼성ㆍKIA, 한국시리즈행 걸고 총력전",
+  "published_at": "2026-10-31T04:13:00.000Z",
+  "collected_at": "2026-10-31T09:38:49.522Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

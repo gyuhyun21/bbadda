@@ -1,0 +1,28 @@
+{
+  "id": "youtube-c2ca3cdd",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "SSG랜더스",
+  "url": "https://www.youtube.com/watch?v=Gd5seYpUZrY",
+  "title": "은퇴식의 추억을 안고 다시 모인 세 사람😋🍽️ | 김성현 은퇴식 뒤풀이 ep.1",
+  "published_at": "2026-10-31T09:01:01Z",
+  "collected_at": "2026-10-31T09:38:49.522Z",
+  "summary_ko": "SSG 구단 채널이 김성현 은퇴식 뒤풀이 첫 번째 영상을 올렸다. 은퇴식의 추억을 안고 세 사람이 다시 모였다.",
+  "metrics": {
+    "views": 5097,
+    "likes": 439,
+    "comments": 46
+  },
+  "scores": {
+    "hot": 84,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "김성현 은퇴식 뒤풀이"
+}

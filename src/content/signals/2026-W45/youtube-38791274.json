@@ -1,0 +1,28 @@
+{
+  "id": "youtube-38791274",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "디깅더볼",
+  "url": "https://www.youtube.com/watch?v=tOp06Zocvhw",
+  "title": "34세 오스틴, 다년계약 줘도 될까?",
+  "published_at": "2026-10-31T09:00:17Z",
+  "collected_at": "2026-10-31T09:38:49.522Z",
+  "summary_ko": "34세 외국인 타자 오스틴에게 다년계약을 줘도 되는지를 따져 본 팬 영상이다.",
+  "metrics": {
+    "views": 220,
+    "likes": 3,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 39,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "34세 오스틴, 다년계약 줘도 될까"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-7a49c234",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "국제신문",
+  "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNS2RYT2tQdmhSRFg1Uk1ZZGJaYlRtU2JUdXRuNlNCaE01a0FrQmVlVWw1cDZaQl9sVUQwWU1FQjA3QkltQTJfMWdDWHcyZVJDamg1aGxJMUdBbUtxdE4weTVwNGd2NE1vVkd1dW1XemJVYXVNbW1ROFZwTVRYb2N6bjlUUU43OElES0FV?oc=5",
+  "title": "‘친정 팀 복귀’ 이동욱 감독, “기본기 다져 승리하는 팀으로 만들겠다”",
+  "published_at": "2026-10-31T06:32:00.000Z",
+  "collected_at": "2026-10-31T09:38:49.522Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

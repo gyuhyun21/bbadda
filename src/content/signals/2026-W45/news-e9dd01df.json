@@ -1,0 +1,24 @@
+{
+  "id": "news-e9dd01df",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "nc",
+  "teams": [
+    "nc",
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBldkVRM1hMS3FicUJrTWZIOC0xTEFTVGJ2UTlPQ3B4TTRBWHpOSDZHRXlTaFdnOXkxbFp5dUpIWHYwZDRNS1A1bWtaQXhieFB2SFBzODViWFBCcXd2NFExbnNoZ25GRHNNT0xtZWI2QdIBb0FVX3lxTFBldkVRM1hMS3FicUJrTWZIOC0xTEFTVGJ2UTlPQ3B4TTRBWHpOSDZHRXlTaFdnOXkxbFp5dUpIWHYwZDRNS1A1bWtaQXhieFB2SFBzODViWFBCcXd2NFExbnNoZ25GRHNNT0xtZWI2QQ?oc=5",
+  "title": "[사진] 이동욱 감독, 조지훈 응원단장과 함께 오래 하고 싶습니다.",
+  "published_at": "2026-10-31T06:01:00.000Z",
+  "collected_at": "2026-10-31T09:38:49.522Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "community-0fb5f6c0",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 SPOTLIGHT",
+  "url": "https://blog.naver.com/agentwannabe/224460241046",
+  "title": "‘결국 포스팅 신청을 결정한 한화의 4번 타자’ MLB 진출에 한발짝 더 다가간 이 선수, 한화 노시환(KBO)",
+  "published_at": "2026-10-31T17:04:00.000+09:00",
+  "collected_at": "2026-10-31T09:38:49.522Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 99,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "STN SPORTS",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5NTjBhUFN6MGNveDlGRm9sZVpLT0wxR1M1VkNzMkoxUGl6NWdid01KQU5XbDFNTmM3STFpVzAySFUyS0x2TEpjcGhWUVdON1M1RW5SSk1lMFg2dC1JMkxnbUJJNEJJSnA0eDhsNllkcw?oc=5"
+    },
+    {
+      "source_name": "연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE15RF93M25ybmgwcm9xQmJFNmRxS0dKbjU4NUZpTmNyWHd2X3k3TVlwN3JzTlpCbE9TMHVSbGxDSVVGaS1ucjAwVVBSNjY4dzV4RGY2UThhazg1RUHSAWBBVV95cUxQeEZDRjlHMzF2dGRxV0ZzU29lYWdEVkVWa0trdzNocV9JTmJCelRYTE03SF81bmNlZ29VcDJ4aFRvdWtxSTNBQ1dQRWQyeUJ1cWpGU2x5Wkw0bHF2MElJYy0?oc=5"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "news-1bc06e44",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "news",
+  "source_name": "이데일리",
+  "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPOWY4SVBvbUlWb2lCZjRrQTR5Wm85bTNCV0ZzLVJKajktaW01clRsTmpRX2VOZG9oVFVDUEZmR0JyM0kyN0E2OUM0Sm9sTTFkRXdoYUZidHRJOG16U2phZUx5TGpNOEYtUy1lN0dwTUY0NlQyaEZNRVhfNXJjY2ZEaw?oc=5",
+  "title": "첫날부터 케이지 7개 풀가동…두산, ‘방망이 약점’ 지우기 돌입",
+  "published_at": "2026-10-31T04:18:02.000Z",
+  "collected_at": "2026-10-31T09:38:49.522Z",
+  "summary_ko": "두산이 마무리 캠프 첫날부터 배팅 케이지 7개를 돌리며 방망이 약점 지우기에 들어갔다고 이데일리가 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "더게이트",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5EU1NvMHJYLXMxQzVfZURQbDdYRndkamZQV1dwX2JYYzZFaWdVRm45NGlrQVpYN2ZiRjJSelppVVhQemg5Z3FtLUNCQWtYVzZKTVo4cHZmYkJxUERfdDZJM1ZvWU8tdlFS0gFsQVVfeXFMTmc3ZXowQkhBSS1GNmZHNGRmS3hWclUwM2VEYlFRVVc5UmM2ZWc3ckpPQ2xlNDBSZmd3V1BLWVRjSzVwOGk5cE01MVR0SElSWDIxZnYzbElkUWdFNVJDT2VWZ0ZscTFjMmdzNnVK?oc=5"
+    }
+  ],
+  "brief_ko": "마무리 캠프 첫날, 케이지 7개 풀가동"
+}

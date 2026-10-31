@@ -1,0 +1,23 @@
+{
+  "id": "community-a5fd8d7b",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 Heroes Museum",
+  "url": "https://blog.naver.com/seoul-heroes/224460111840",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/BpsC0bHrzvC",
+  "title": "[의류 155] 키움히어로즈 비더히어로즈 트레이닝 셋업 상의",
+  "published_at": "2026-10-31T14:29:00.000+09:00",
+  "collected_at": "2026-10-31T09:38:49.522Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-4edcab8f",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "재경일보",
+  "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE81NmlzNEdxVUpKQUdoWl9QTzUzWHFaeGp6SGRKM3lJUmNwZVZaNlpEcGpmTmJoWXVmMnBJLWlQSDV3TGZwRjVBdXdraw?oc=5",
+  "title": "삼성, KIA 6대4 제압…플레이오프 1패 뒤 2연승 : 스포츠",
+  "published_at": "2026-10-30T11:31:35.000Z",
+  "collected_at": "2026-10-31T09:38:49.522Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 60,
+    "relevance": 80
+  },
+  "sentiment": "positive"
+}

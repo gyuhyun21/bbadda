@@ -1,0 +1,22 @@
+{
+  "id": "news-b31adfed",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스핌",
+  "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9XSEdUZEVLOUJmOV9oYURkVmU0NWFlN3hmaWE2cTJPaHU3MnZCLTlDN1QySzVVNzZWYXZCRWd2SGZwQ1hidEZ6QVpmRC1TYnZVYW5JX185NllCQ19E?oc=5",
+  "title": "[프로야구] 두산 마무리캠프 타격 재정비, 17명 야수 7개 케이지서 쉼 없이 스윙",
+  "published_at": "2026-10-31T04:20:00.000Z",
+  "collected_at": "2026-10-31T09:38:49.522Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

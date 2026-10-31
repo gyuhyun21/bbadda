@@ -1,0 +1,22 @@
+{
+  "id": "news-0d5e77c6",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "뉴시스",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1KLWw5eUs5VU9ULWF1MmlSSkxwVW5YY2l5Y3V0MXdNeGhUQkpXTWFoZTZQaHlYakw1N1BGOGk0THBxdXFBSFZ4Y0dSczVXeGJRUVcxcVpxdV80TGpiMnhST9IBeEFVX3lxTFBVRTc0TnJhN1Fub2N4aXFUYlcyWmdKTmFtQkZSeUxwYkNkbDhGaWRHRzJNelNGajRYVlBJQjRKUFJtamFBbkVuM2FSU2ZkVDZmbHJJOUlDWnQ3b0RFTXJ6ZTgya3VPMlBheVM3Y2lSMGN6djkwcVhXSQ?oc=5",
+  "title": "PS 한창인 KIA, 일본 오키나와서 마무리 캠프",
+  "published_at": "2026-10-31T07:25:52.000Z",
+  "collected_at": "2026-10-31T09:38:49.522Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "community-9321e531",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt",
+    "samsung",
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 고조할애비의 스포츠",
+  "url": "https://blog.naver.com/imtiger2026/224460286454",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/FsZZvBKPEAc",
+  "title": "[한국 야구] KT는 웃고 있을까? 삼성 KIA가 5차전까지 가면서 생긴 뜻밖의 한국시리즈 변수",
+  "published_at": "2026-10-31T18:02:00.000+09:00",
+  "collected_at": "2026-10-31T09:38:49.522Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

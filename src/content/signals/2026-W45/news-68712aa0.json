@@ -1,0 +1,24 @@
+{
+  "id": "news-68712aa0",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "announcement": true,
+  "source_name": "엑스포츠뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5hMGxHd2E4dmZiTzNiNXA0WGNKSEF5cFV3eXpvTDNJMmpjcHBkb3Zza012ZWFYQ3NrZG85dUZOQlVBaF9xelVCSDNaRTFHaUNXX2U1Mw?oc=5",
+  "title": "[오피셜] 노시환, '307억' 진짜 포기? ML 포스팅 깜짝 도전!…\"선수 빠진다고 핑계 안 댔다\" 류지현 감독 이탈 예감했나",
+  "published_at": "2026-10-31T08:50:41.000Z",
+  "collected_at": "2026-10-31T09:38:49.522Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

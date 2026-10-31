@@ -1,0 +1,23 @@
+{
+  "id": "news-7f0d07d6",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "파이낸셜뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8zbFNQdGstbWJtbmxvMElEMTBnNzF1OWdzbGhoZ0hHdFZ3WjBmdHBvT3RSX1A4V0xrMDJfX09kSVVvdHFVM1R4Sl9fdnVEa19PWGZRSkhUSHZ4UQ?oc=5",
+  "title": "\"살 4kg 빠져도 안 지친다\" 삼성 핵타선 2이닝 퍼펙트 삭제… KIA 기사회생 이끈 '0의 수호신'",
+  "published_at": "2026-10-31T09:00:00.000Z",
+  "collected_at": "2026-10-31T09:38:49.522Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

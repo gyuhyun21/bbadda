@@ -1,0 +1,27 @@
+{
+  "id": "youtube-07da566d",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "엘냠씨",
+  "url": "https://www.youtube.com/watch?v=zI6zJZldpe4",
+  "title": "선수하나 몰아가기? 그만하자 이제! #엘지트윈스 #LG트윈스 #기아타이거즈 #삼성라이온즈 #포스트시즌  #KBO #야구 #야구팬 #크보",
+  "published_at": "2026-10-31T07:12:09Z",
+  "collected_at": "2026-10-31T09:38:49.522Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1233,
+    "likes": 101,
+    "comments": 88
+  },
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

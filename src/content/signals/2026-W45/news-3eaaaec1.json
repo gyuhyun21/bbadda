@@ -1,0 +1,23 @@
+{
+  "id": "news-3eaaaec1",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "진일보 | 전남일보",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE10am9nc2FEVjRDYkpfc2pGU3plcS1Za2Nxck5nWjVNVjM1YWItZ3ktalhNU0d1dWJpTXNzMUQ0NmNnZVd2QTlvRnhqRU1NLXZPeEl0OEtkT1Q5UDhuVi05RVBBS1pRN0xoNExpck9Ybw?oc=5",
+  "title": "김도영이냐 최형우냐…PO MVP도 최종 5차전서 갈린다",
+  "published_at": "2026-10-31T02:19:51.000Z",
+  "collected_at": "2026-10-31T09:38:49.522Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

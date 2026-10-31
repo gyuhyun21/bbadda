@@ -1,0 +1,24 @@
+{
+  "id": "community-4495d28d",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 퇴근후 플레이볼",
+  "url": "https://blog.naver.com/ev-baseball/224459473431",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/5h6lSZoZoDD",
+  "title": "잠실 마지막 무대에 이승엽·이대호·김태균·박병호 뜬다! 11월 14일 레전드 홈런더비·예매 총정리",
+  "published_at": "2026-10-30T21:36:00.000+09:00",
+  "collected_at": "2026-10-31T09:38:49.522Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 60,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

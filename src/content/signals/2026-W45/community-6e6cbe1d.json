@@ -1,0 +1,24 @@
+{
+  "id": "community-6e6cbe1d",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 굿픽의 정보노트",
+  "url": "https://blog.naver.com/goodpick1/224460169088",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/7dg1fei3KJ0",
+  "title": "어?! 2026 한국시리즈 일정 바뀌었다? 티켓 예매 성공을 위한 필수 체크리스트(+티켓팅 전쟁 대비하기)",
+  "published_at": "2026-10-31T15:44:00.000+09:00",
+  "collected_at": "2026-10-31T09:38:49.522Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}
