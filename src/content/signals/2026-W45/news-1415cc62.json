@@ -1,0 +1,23 @@
+{
+  "id": "news-1415cc62",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "www.xportsnews.com",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB3LV93eWhlTVR4Q2ZORWgtQjdwM044NDhXam5BUnhtTzBnNTF6OEF6RmZMQTFEWVNyNzZUQmUzNTM0Y0JqWldCWWtteUlnWnVGaWNJeQ?oc=5",
+  "title": "'뛰어난 수비 노시환 데려와라!'…MLB 포스팅 신청하자마자 '美 피츠버그 영입' 주장 등장→\"연봉 134억이면 주전 3루수 확보 가능\"",
+  "published_at": "2026-10-31T15:29:46.000Z",
+  "collected_at": "2026-10-31T21:38:21.260Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

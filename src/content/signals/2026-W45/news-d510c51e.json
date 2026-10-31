@@ -1,0 +1,28 @@
+{
+  "id": "news-d510c51e",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "진일보 | 전남일보",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBPU0JrNW11bWdZTnVtSlF0NUhsdWZOaHFGTnR6MGFsQkFqR3JneVZZdUh1Ri10TW9feE1HZC1yWEM2UlNFdmRuNjdyaWVEOUR6VGlPODYwaW5WV1I5djktT0xiemVlSHVNTE5JX2dKcw?oc=5",
+  "title": "KIA 운명의 5차전…양현종 등판 여부 주목",
+  "published_at": "2026-10-31T01:17:18.000Z",
+  "collected_at": "2026-10-31T21:38:21.260Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 77,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "스포츠타임스",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE95Qm90VmQzMlIwZHJreEo5RUc2UUM1NWJBVUtuSEJJd1dPV3RkVTBnbkZXOE9DRGNCN2E5QnZMZmw4MXgtMWtHTHI1T0w0R2Utem02NEtOQWNzdEl6ZUpRSUZMZXgzWU40aThOQ0RRdE54S29IU3c?oc=5"
+    }
+  ]
+}

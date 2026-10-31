@@ -1,0 +1,24 @@
+{
+  "id": "community-e935cbdd",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 제품 임대관리 각종 정보공유",
+  "url": "https://blog.naver.com/kseu10/224460632293",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/U8bvWqUar1",
+  "title": "레이예스 재계약 되나? 이동욱 감독 ‘무조건 같이’, 211안타·협상은 아직",
+  "published_at": "2026-11-01T01:43:00.000+09:00",
+  "collected_at": "2026-10-31T21:38:21.260Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "news-efd7a0a5",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "한국아이닷컴",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1IbDY1VFVZX3VfVzRpVDlJZnprUkJRWi1fS043Z1Z4M000d1ZkQnVLQUVsb09hWUFtSHBudGE0bnFhY0lDc3o0UTFQd01SSm9WWWdvWWJTOW5yOHgxV29CTU9QbTRxLW9VRXNxb0FkQdIBb0FVX3lxTE1IbDY1VFVZX3VfVzRpVDlJZnprUkJRWi1fS043Z1Z4M000d1ZkQnVLQUVsb09hWUFtSHBudGE0bnFhY0lDc3o0UTFQd01SSm9WWWdvWWJTOW5yOHgxV29CTU9QbTRxLW9VRXNxb0FkQQ?oc=5",
+  "title": "노시환, 빅리그 문 두드린다…KBO, MLB 사무국에 포스팅 공식 신청",
+  "published_at": "2026-10-31T13:38:42.000Z",
+  "collected_at": "2026-10-31T21:38:21.260Z",
+  "summary_ko": "KBO가 노시환의 MLB 포스팅을 메이저리그 사무국에 공식 신청했다고 한국아이닷컴이 전했다. 노시환이 빅리그 문을 두드린다.",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "노시환, MLB 포스팅 공식 신청",
+  "hook_ko": "307억 계약 두고 MLB 문 두드린 노시환"
+}

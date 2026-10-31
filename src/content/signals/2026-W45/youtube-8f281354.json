@@ -1,0 +1,27 @@
+{
+  "id": "youtube-8f281354",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "역사의 재구성: 비사(秘史) 아카이브",
+  "url": "https://www.youtube.com/watch?v=HE-RJl9Rmcc",
+  "title": "2년 연속 PO 5차전을 만든 선수?",
+  "published_at": "2026-10-31T14:42:19Z",
+  "collected_at": "2026-10-31T21:38:21.260Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1270,
+    "likes": 7,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 40,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

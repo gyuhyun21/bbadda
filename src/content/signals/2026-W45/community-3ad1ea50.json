@@ -1,0 +1,23 @@
+{
+  "id": "community-3ad1ea50",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 papaenter_님의 블로그",
+  "url": "https://blog.naver.com/papaenter_/224460537204",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/9MQHqnPRXix",
+  "title": "2026 한국시리즈 예매 시작, KT 시즌권만 현장 발권이라 논란",
+  "published_at": "2026-11-01T04:32:00.000+09:00",
+  "collected_at": "2026-10-31T21:38:21.260Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

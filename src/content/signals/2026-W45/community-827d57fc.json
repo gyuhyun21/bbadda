@@ -1,0 +1,25 @@
+{
+  "id": "community-827d57fc",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt",
+    "samsung",
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 ohhappy LAB의 행복꾸러미",
+  "url": "https://blog.naver.com/oksong49/224460474772",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/4560451LAaM",
+  "title": "KT 위즈는 삼성·KIA 중 누구를 반길까? 2026 한국시리즈 상대 전력 비교",
+  "published_at": "2026-10-31T22:53:00.000+09:00",
+  "collected_at": "2026-10-31T21:38:21.260Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

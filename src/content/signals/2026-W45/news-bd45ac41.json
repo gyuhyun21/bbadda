@@ -1,0 +1,23 @@
+{
+  "id": "news-bd45ac41",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "SPOTV NEWS",
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1DTTkyUGpCbXVVUlk4MEhESVVPdFFFOG9xV3l3OVhqdWRvWjVvQVFZSDdnOGctWVpFUDQ4Ty10SnVacG9hZFJKWVNIS0N1Z3BiMGtRS1V4LTJzTzlhLTh4c2dGWGFSQ1JFbTFXWjkzNzQ?oc=5",
+  "title": "스포티비, 포스트시즌 생중계 이어 매거진 프로도 시청률 1위",
+  "published_at": "2026-10-31T11:04:08.000Z",
+  "collected_at": "2026-10-31T21:38:21.260Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

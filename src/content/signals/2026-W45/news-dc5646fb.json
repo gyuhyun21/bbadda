@@ -1,0 +1,22 @@
+{
+  "id": "news-dc5646fb",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "진일보 | 전남일보",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5zWU1Od2FVSFNYa3VZQ0tyWVQtSGh3Nm1DaUJNanFxOFJNT25OWWF4dEVRQXpNdTVWTlpkTXFfeU9oejB4eWlWY1l0Tjg0SWJ2S0FJbV9QblNkRk50akdYTWJpV1N5X1RkdnhJSDh5TQ?oc=5",
+  "title": "5일치 짐 싸서 원정길 나선 KIA \"대구 찍고 수원 거쳐 광주로 돌아올 것\"",
+  "published_at": "2026-10-31T15:00:00.000Z",
+  "collected_at": "2026-10-31T21:38:21.260Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 82,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-42827c06",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "부산경남대표방송 KNN 뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBtcmhfMHFrSXJCRG1oNWVndF9waFlNTi03U2FJRk5rNDJ5R1RHUjFFWFlvamxxdXVfSVlvMnN3MXpHcmRhTTZoODNvWE04Y1lzRnBkNg?oc=5",
+  "title": "‘20년 만에 친정 복귀’ 이동욱..\"AI 활용 ‘스마트 야구’하겠다\"",
+  "published_at": "2026-10-31T11:03:00.000Z",
+  "collected_at": "2026-10-31T21:38:21.260Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

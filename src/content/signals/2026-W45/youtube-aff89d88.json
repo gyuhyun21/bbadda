@@ -1,0 +1,28 @@
+{
+  "id": "youtube-aff89d88",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "Eagles TV",
+  "url": "https://www.youtube.com/watch?v=SxnBn858RUQ",
+  "title": "2027 신인 입단식에 박정현이..? 응원 온 후배들 앞에서 결국 터진 눈물",
+  "published_at": "2026-10-31T11:55:50Z",
+  "collected_at": "2026-10-31T21:38:21.260Z",
+  "summary_ko": "한화 공식 채널 Eagles TV가 2027 신인 입단식 영상을 올렸다. 박정현이 응원 온 후배들 앞에서 눈물을 터뜨렸다.",
+  "metrics": {
+    "views": 101756,
+    "likes": 1561,
+    "comments": 166
+  },
+  "scores": {
+    "hot": 71,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "신인 입단식, 박정현이 흘린 눈물"
+}

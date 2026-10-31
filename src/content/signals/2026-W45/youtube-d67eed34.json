@@ -1,0 +1,26 @@
+{
+  "id": "youtube-d67eed34",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "youtube",
+  "source_name": "LOTEE GIANTS",
+  "url": "https://www.youtube.com/watch?v=jounCO6yjCE",
+  "title": "롯데 자이언츠 No.69 박건우 응원가",
+  "published_at": "2026-10-31T16:52:50Z",
+  "collected_at": "2026-10-31T21:38:21.260Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 9,
+    "likes": 0,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 51,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

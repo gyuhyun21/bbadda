@@ -1,0 +1,23 @@
+{
+  "id": "news-2ec1cfad",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "아이뉴스24",
+  "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBGOUZXNnFFM1ZPVDIzVmxMWnUyVnVtQTF4U2lfQXhRYW9LT3R6ckN0eXg5a2I4V3htRExkMEVOSklOSDNKdXV5eHQxTzI?oc=5",
+  "title": "[포토] 젠슨 황 시구-박정원 시타, 뜨거운 열기의 잠실구장",
+  "published_at": "2026-10-30T22:46:17.000Z",
+  "collected_at": "2026-10-31T21:38:21.260Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 60,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

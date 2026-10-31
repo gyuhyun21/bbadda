@@ -1,0 +1,27 @@
+{
+  "id": "youtube-2e5b32e0",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "SSG랜더스",
+  "url": "https://www.youtube.com/watch?v=mza7_01sXmA",
+  "title": "쇼트 트민남 최정에게 돌아온 그날의 매미 🙄",
+  "published_at": "2026-10-31T10:01:41Z",
+  "collected_at": "2026-10-31T21:38:21.260Z",
+  "summary_ko": "SSG랜더스 공식 채널이 최정에게 돌아온 '그날의 매미' 영상을 올렸다.",
+  "metrics": {
+    "views": 40666,
+    "likes": 1156,
+    "comments": 22
+  },
+  "scores": {
+    "hot": 76,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

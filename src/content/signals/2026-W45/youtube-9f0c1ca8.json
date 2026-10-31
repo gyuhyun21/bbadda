@@ -1,0 +1,26 @@
+{
+  "id": "youtube-9f0c1ca8",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "youtube",
+  "source_name": "항덕은호",
+  "url": "https://www.youtube.com/watch?v=FEw9ao8Kps0",
+  "title": "오늘은LG 우승날 출처 kbo #shorts #LG트윈스 #우승 #KBO",
+  "published_at": "2026-10-31T12:44:03Z",
+  "collected_at": "2026-10-31T21:38:21.260Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 351,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 29,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

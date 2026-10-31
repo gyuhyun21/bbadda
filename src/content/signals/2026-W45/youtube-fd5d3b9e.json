@@ -1,0 +1,28 @@
+{
+  "id": "youtube-fd5d3b9e",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "kt wiz - 위즈TV",
+  "url": "https://www.youtube.com/watch?v=srXOz2yEenY",
+  "title": "대형준 5이닝 6K, 11:2 대승으로 장식 마지막 연습경기 vs U-23 연습 경기 하이라이트 [위즈티비]",
+  "published_at": "2026-10-31T13:59:26Z",
+  "collected_at": "2026-10-31T21:38:21.260Z",
+  "summary_ko": "kt wiz 공식 채널이 마지막 연습경기 하이라이트를 올렸다. 대형준이 5이닝 6K를 기록했고 팀은 U-23 팀에 11대2로 이겼다.",
+  "metrics": {
+    "views": 17774,
+    "likes": 417,
+    "comments": 95
+  },
+  "scores": {
+    "hot": 72,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "마지막 연습경기 11-2 대승"
+}

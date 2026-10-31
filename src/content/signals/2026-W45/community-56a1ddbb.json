@@ -1,0 +1,24 @@
+{
+  "id": "community-56a1ddbb",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "엠엘비파크",
+  "url": "https://mlbpark.donga.com/mp/b.php?b=kbotown&id=202610190119531019&m=view&ref=burning",
+  "title": "단장 교체ㄷㄷㄷㄷㄷ",
+  "published_at": "2026-10-18T00:00:00.000Z",
+  "collected_at": "2026-10-31T21:38:21.260Z",
+  "summary_ko": "",
+  "excerpt": "... 두산베어스(사장 고영섭)가 19일(월) 신임 단장으로 정재훈 운영팀장(45)을 선임했다.…",
+  "metrics": {},
+  "scores": {
+    "hot": 8,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

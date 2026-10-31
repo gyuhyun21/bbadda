@@ -1,0 +1,24 @@
+{
+  "id": "community-a0b72e07",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 ohhappy LAB의 행복꾸러미",
+  "url": "https://blog.naver.com/oksong49/224460750412",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/1d0oKBy26xa",
+  "title": "KIA 삼성 5차전, 좌타선 봉쇄할까? 이의리·곽도규 불펜 총력전이 승부 가른다",
+  "published_at": "2026-11-01T05:05:00.000+09:00",
+  "collected_at": "2026-10-31T21:38:21.260Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

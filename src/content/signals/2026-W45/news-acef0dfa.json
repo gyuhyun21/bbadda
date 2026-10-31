@@ -1,0 +1,24 @@
+{
+  "id": "news-acef0dfa",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "OSEN",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1yeEU5SU5EamZ5enE3dVBJOFpsY0k5NmQtZE9YLU5IM1ZjaDJibS1EblRXUjZxZVc2eXZ4d0lMaXZVRThqcEdPemtIaTY0WlJZSFFXMQ?oc=5",
+  "title": "[PO5 프리뷰] ‘KS 진출팀 결정된다’ 후라도 vs 올러, 최후의 맞대결",
+  "published_at": "2026-10-31T21:19:00.000Z",
+  "collected_at": "2026-10-31T21:38:21.260Z",
+  "summary_ko": "OSEN은 PO 5차전에서 삼성 후라도와 KIA 올러가 최후의 맞대결을 벌인다고 전했다. 이기는 팀이 한국시리즈에 진출한다.",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "후라도 vs 올러, KS행 최종전"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "community-a17f6b28",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 The 소나기",
+  "url": "https://brunch.co.kr/@7650f0f46a53465/5",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/DCBYfr1j72N",
+  "title": "야구라는게 참 안되네 첫번째",
+  "published_at": "2026-10-31T19:09:29.000+09:00",
+  "collected_at": "2026-10-31T21:38:21.260Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

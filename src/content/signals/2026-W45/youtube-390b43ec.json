@@ -1,0 +1,26 @@
+{
+  "id": "youtube-390b43ec",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "youtube",
+  "source_name": "sports응원 여행기",
+  "url": "https://www.youtube.com/watch?v=JiViETb5DY8",
+  "title": "안재석 선수 응원가@ 두산베어스@ 현숙님@ 추억@2026",
+  "published_at": "2026-10-31T16:53:58Z",
+  "collected_at": "2026-10-31T21:38:21.260Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 13,
+    "likes": 2,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 53,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

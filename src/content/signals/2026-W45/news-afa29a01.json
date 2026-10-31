@@ -1,0 +1,23 @@
+{
+  "id": "news-afa29a01",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "https://www.asportstv.kr/",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1XdWJxOURmTWJBTnJ6eGxJUHVtUWJMQ0pCUE1nY19XcWFVYU54QmgzSXo1WWpZR2NfTVRQcGtfNXV2QnEtOXIyWkZmdl9ZZU1Da1NubDJhWDBWNHVScURfbzdSdE1nYWRC?oc=5",
+  "title": "[플레이오프] 7회 3득점·한준수 역전타… KIA, 삼성 꺾고 플레이오프 2승2패",
+  "published_at": "2026-10-31T09:09:00.000Z",
+  "collected_at": "2026-10-31T21:38:21.260Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 80,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

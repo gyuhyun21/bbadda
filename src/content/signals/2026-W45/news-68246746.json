@@ -1,0 +1,23 @@
+{
+  "id": "news-68246746",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "https://www.asportstv.kr/",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAyZkdNLWVOdDVOeV9kdzQzOE5GOGZ1djZOTHdlUXNiRnNkaV9icTRKM29SYmc4VHNxdnVxbWVxbmZuU1NRUk55OTdTVURSSGlKUk1SU0g2ODU2d2dGd1N1T3dCazZtNk5R?oc=5",
+  "title": "[플레이오프] 아웃카운트 9개 남았는데… 페덱 역투도 앗아간 치명적 알까기",
+  "published_at": "2026-10-31T09:22:44.000Z",
+  "collected_at": "2026-10-31T21:38:21.260Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 72,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

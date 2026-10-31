@@ -1,0 +1,23 @@
+{
+  "id": "news-5e5129c1",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "데일리안",
+  "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOaERVbDREdFNTZmVoRWFxenp2MGdkRFdLNk9IN3RSaU1MOExmTmFFaGNJRHNxSWhQejRsQXpGN1haX184WjdzV0cwbVJiMW5HZTJRWS11dkVEZXdvX2NGbHZSREVZMkRVSnVHQV96ajZhUGs3NWY3RGs4RzFZdGFMY1dYU1JkR0d2NU1fSF9rZExWWXh5b2RpckRhaFNyM1N6SlFBeTZyTTI3a1NacFMxb29XVVVReXdEdzNoeXhYRkRqV2FXUkkzT2d5QWRxNlkwYTY2dVdGZnJTV2ZHT2E4a21Wa2R3MW1YOWk4UEYwcl8tWVF4OWhMdElha0ljak9xQlBlMEFybkJiQjd4?oc=5",
+  "title": "우승 감독 출신 이동욱 신임 사령탑 \"잘 만들면 내년에도 가을야구…\"",
+  "published_at": "2026-10-31T12:24:00.000Z",
+  "collected_at": "2026-10-31T21:38:21.260Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

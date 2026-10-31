@@ -1,0 +1,23 @@
+{
+  "id": "news-1d690d34",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "OSEN",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9GWFFrRkFrSjVYUUk2eW1Gb2ViWnhfdEJHWTB3YlM2eTAyVHZaMGVxYU9ZTFhOeVh4bE5ldVc5T0Vub2ZCWkR4VV92UVU5OUVFQnhmSQ?oc=5",
+  "title": "[단독] 부산으로 헤쳐모여…'채천재' 채태인까지 롯데 코치진 합류, 2군 타격파트 맡는다",
+  "published_at": "2026-10-31T15:10:00.000Z",
+  "collected_at": "2026-10-31T21:38:21.260Z",
+  "summary_ko": "OSEN은 채태인이 롯데 코치진에 합류해 2군 타격파트를 맡는다고 단독 보도했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "채태인, 롯데 2군 타격코치로"
+}

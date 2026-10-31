@@ -1,0 +1,22 @@
+{
+  "id": "news-d12b6300",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "news",
+  "source_name": "서울신문",
+  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1jY1JDYVNBUUJCMU1jZV9GM2JFNGcyOHhhSW13cXRBaDBNb0xEM0hFblBScUpfM01zQ3R4el9KWDJrRm5Qd2hWZDhSZEVpZzBfSmRZeGhOcw?oc=5",
+  "title": "한화 노시환, 307억원 장기계약 뒤로하고 꿈 쫓아 메이저리그 도전장",
+  "published_at": "2026-10-31T09:44:47.000Z",
+  "collected_at": "2026-10-31T21:38:21.260Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-5f3b3527",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "SPOTV NEWS",
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB6SnllQkVIM3JjQ0xwcng2QnYyVHdBbXpFdkpKUTNJQUhLekRPOFV1UHhQdTMwV1ZLSVJUYnFma01hUzJLUy0xU0Q5OEtDeUkyV3huY3d1WVFOSHJOTnI0SXAtbmRvbm11T1ROZ0VpS0U?oc=5",
+  "title": "취임식 당일에도 사직구장 찍고 왔다…\"운동장서 태도 보겠다\"더니, 감독부터가 솔선수범",
+  "published_at": "2026-10-31T07:26:16.000Z",
+  "collected_at": "2026-10-31T21:38:21.260Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

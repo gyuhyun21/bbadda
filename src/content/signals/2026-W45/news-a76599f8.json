@@ -1,0 +1,23 @@
+{
+  "id": "news-a76599f8",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "KBC광주방송",
+  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5BLWlLRGtUanJqME1CcENLTmhOTENuNDdvWjBnNVZ3WlA5dTV1d3pFZjE1VEE0TEpNc3FCZlNZaTdpSFpIQTBUeEI3VmdXNEE4dlF2N2hYbU8zNUtEcmEzSDhFOVlnMkU?oc=5",
+  "title": "KIA, 내일 삼성과 PO 5차전...승리 시 KS행",
+  "published_at": "2026-10-31T12:21:09.000Z",
+  "collected_at": "2026-10-31T21:38:21.260Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 73,
+    "relevance": 80
+  },
+  "sentiment": "positive"
+}

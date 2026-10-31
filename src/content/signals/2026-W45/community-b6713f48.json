@@ -1,0 +1,24 @@
+{
+  "id": "community-b6713f48",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 CJ 경제파파",
+  "url": "https://blog.naver.com/soosoo0501/224460513647",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/F3itQrN3Ogp",
+  "title": "원필이 연 가을야구, 치킨 사장님 몫은 왜 24%뿐?",
+  "published_at": "2026-11-01T04:50:00.000+09:00",
+  "collected_at": "2026-10-31T21:38:21.260Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

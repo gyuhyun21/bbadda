@@ -1,0 +1,23 @@
+{
+  "id": "community-2c6d68dd",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 핑크어흥 님의 블로그",
+  "url": "https://news.livestoryforge.com/8029",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/At0OQLavmzM",
+  "title": "롯데, 4년 만에 새 주장 선임 임박…이동욱 감독, 전준우·김원중·한동희 중 결정",
+  "published_at": "2026-11-01T00:04:33.000+09:00",
+  "collected_at": "2026-10-31T21:38:21.260Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

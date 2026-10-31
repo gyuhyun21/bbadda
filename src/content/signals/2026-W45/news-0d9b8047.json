@@ -1,0 +1,23 @@
+{
+  "id": "news-0d9b8047",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "https://www.asportstv.kr/",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE00UTNScU5yd0VCR3d0ekJWZFBVWUd1c2dnN2k1Y3p1amptVFJ2ZDloazROWDloUFhmRjZUekRBQTJLLU96bFBhMEZPVmpmNVZzOGZHS1VwXzhhajQ2NlFHQk1sbF8zZzFN?oc=5",
+  "title": "[플레이오프] 동점타도 역전타도 한준수… 지명타자 신의 한 수 통했다",
+  "published_at": "2026-10-31T09:19:55.000Z",
+  "collected_at": "2026-10-31T21:38:21.260Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 72,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

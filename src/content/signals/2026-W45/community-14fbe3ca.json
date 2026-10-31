@@ -1,0 +1,24 @@
+{
+  "id": "community-14fbe3ca",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg",
+    "nc"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 블로갓의 스포츠월드",
+  "url": "https://blog.naver.com/blog-god/224460441002",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/KV4UvDHhfA4",
+  "title": "“SSG 레전드가 왜 NC로?” 김강민 깜짝 영입, KBO 최초 외야 코디네이터 탄생",
+  "published_at": "2026-10-31T21:20:00.000+09:00",
+  "collected_at": "2026-10-31T21:38:21.260Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

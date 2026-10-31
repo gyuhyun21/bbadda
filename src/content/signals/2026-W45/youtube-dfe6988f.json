@@ -1,0 +1,26 @@
+{
+  "id": "youtube-dfe6988f",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "source_name": "크보쌍둥이",
+  "url": "https://www.youtube.com/watch?v=5HGy1T8a1TE",
+  "title": "노시환 관심있는 ML 구단있다! 구체적인 이유도! 27시즌 적기 한화 초비상! #한화이글스 #노시환 #류현진",
+  "published_at": "2026-10-31T14:07:49Z",
+  "collected_at": "2026-10-31T21:38:21.260Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 23664,
+    "likes": 221,
+    "comments": 155
+  },
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

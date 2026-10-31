@@ -1,0 +1,24 @@
+{
+  "id": "community-ca700c6f",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&document_srl=10504129051",
+  "title": "\"수저 들 때 생각하고 드나\" 나승엽 일깨운 사령탑 한 마디 '루틴'…1 ...",
+  "published_at": "2026-10-31T09:38:21.260Z",
+  "collected_at": "2026-10-31T21:38:21.260Z",
+  "summary_ko": "",
+  "excerpt": "... 바로 최근 신임 사령탑으로 부임한 이동욱 감독이다. 이 감독은 오랜 시간 수비코치로 활약했는데, 특히…",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "news-0b4435cd",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBaTVZZZzlkRy1JYndRQlhaSDRna1NXcG9aTVI0ZjV0dmVmbGRRcHNPNXItUm1WYnNBTFJFRmtaQ0F4czZPRllXNEpsRmF6VmY3cTZ1V3d5bDVHSnhRcXk1bWNSckpHOTA0amNzSW53c9IBb0FVX3lxTFBaTVZZZzlkRy1JYndRQlhaSDRna1NXcG9aTVI0ZjV0dmVmbGRRcHNPNXItUm1WYnNBTFJFRmtaQ0F4czZPRllXNEpsRmF6VmY3cTZ1V3d5bDVHSnhRcXk1bWNSckpHOTA0amNzSW53cw?oc=5",
+  "title": "\"월드시리즈 챔피언 됐다!\" 前 한화 투수가 왜 여기에? 이런 능력자였다니…밀워키 투수들 키운 '핵심 프런트'",
+  "published_at": "2026-10-31T15:12:00.000Z",
+  "collected_at": "2026-10-31T21:38:21.260Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8tTFpreUlKaVYtOXM3OE9LUFFiVUs0TGl4WU85OVlPaThVd2tjblJYTUFHeGhDell3QkZjQ0FuYzJsT0ROWGtIUTBKblBsTFdpdVdQeg?oc=5"
+    }
+  ]
+}

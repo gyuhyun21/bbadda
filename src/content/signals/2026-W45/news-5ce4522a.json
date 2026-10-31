@@ -1,0 +1,23 @@
+{
+  "id": "news-5ce4522a",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "진일보 | 전남일보",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1TRlJCRTV4Y25yazE4a0ZKcTNsbjFQZTZFc0lPUkZDNzJzaDFKNWpId3N5NnVKVHJzbkMxTlBzZFc2dVdfa3JicE9OUDM4eS1yQnIzN241U252bzBFOFFpaTRtSjRwNnR0ZjlfdF82RQ?oc=5",
+  "title": "벼랑 끝서 살아난 KIA, 삼성 꺾고 역전 드라마 완성할까",
+  "published_at": "2026-10-31T16:00:00.000Z",
+  "collected_at": "2026-10-31T21:38:21.260Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 82,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}
