@@ -1,0 +1,26 @@
+{
+  "id": "youtube-56451ba2",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "youtube",
+  "source_name": "KBO MGVD",
+  "url": "https://www.youtube.com/watch?v=K2ksD4PJcFk",
+  "title": "두산베어스 조수행 응원가 MGVD",
+  "published_at": "2026-10-31T04:48:19Z",
+  "collected_at": "2026-10-31T09:38:49.522Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 4,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

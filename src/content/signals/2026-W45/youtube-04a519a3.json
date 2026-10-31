@@ -1,0 +1,27 @@
+{
+  "id": "youtube-04a519a3",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "LGTWINSTV",
+  "url": "https://www.youtube.com/watch?v=cfzE8geMk2M",
+  "title": "홍보할 때도 햄도리 ON",
+  "published_at": "2026-10-31T05:00:07Z",
+  "collected_at": "2026-10-31T09:38:49.522Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 4808,
+    "likes": 402,
+    "comments": 20
+  },
+  "scores": {
+    "hot": 83,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

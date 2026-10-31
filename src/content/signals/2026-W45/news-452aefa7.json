@@ -1,0 +1,23 @@
+{
+  "id": "news-452aefa7",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "데일리안",
+  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5UVmJzRlN3VmFOalY5elBKRE01X3FQNDM5ZFV0R2RlU0ZPMEMzNEZkcWlWdVFzcVJPMnpvNDBtMm9XZmgtSi16b1E5Y3VpdVZTd3JHSWQ0bw?oc=5",
+  "title": "PO 끝장승부 최대 관건 “결국 김도영 아니겠나”...대구 징크스도 변수",
+  "published_at": "2026-10-31T08:06:00.000Z",
+  "collected_at": "2026-10-31T09:38:49.522Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "youtube-efccf230",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "youtube",
+  "source_name": "KBO 승률그래프",
+  "url": "https://www.youtube.com/watch?v=_7AjfnvVvEI",
+  "title": "두산 명경기 몰아보기 #1 | 5월 29일 경기 #KBO #두산베어스",
+  "published_at": "2026-10-31T07:00:30Z",
+  "collected_at": "2026-10-31T09:38:49.522Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 8,
+    "likes": 1,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 51,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

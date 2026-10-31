@@ -1,0 +1,27 @@
+{
+  "id": "youtube-4c7e18d6",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg",
+    "doosan"
+  ],
+  "source_type": "youtube",
+  "source_name": "김알 - 김팀장이 알아봤다!",
+  "url": "https://www.youtube.com/watch?v=GujrxzeapTM",
+  "title": "44년 잠실야구장 사라진다! 3조 3천억 투입, LG·두산은 어디로? ⚾ #잠실야구장 #잠실돔구장 #KBO",
+  "published_at": "2026-10-31T08:15:12Z",
+  "collected_at": "2026-10-31T09:38:49.522Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 905,
+    "likes": 5,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 39,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

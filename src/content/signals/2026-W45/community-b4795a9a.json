@@ -1,0 +1,24 @@
+{
+  "id": "community-b4795a9a",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/10503283659",
+  "title": "차우찬 \"야구는 감독의 영향이 적다\" - 유머/움짤/이슈",
+  "published_at": "2026-10-31T04:38:49.522Z",
+  "collected_at": "2026-10-31T09:38:49.522Z",
+  "summary_ko": "",
+  "excerpt": "... [레벨:30] 롯데자이언츠꼴찌 11 분 전. 감독은 그냥 부캉이 둬도 됨 수비는 수비코치가,타격은 타격코치가,투수는 투수코치가…",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

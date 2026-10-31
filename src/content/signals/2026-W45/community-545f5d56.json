@@ -1,0 +1,24 @@
+{
+  "id": "community-545f5d56",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 데일리인사이트 (Daily Insight)",
+  "url": "https://blog.naver.com/clang73/224459920245",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/GHk39RwG5VX",
+  "title": "“후배들에게 늘 미안하다” 양현종, 7경기 연속 못 던진 38세 대투수가 5차전 불펜에서 기다리는 이유",
+  "published_at": "2026-10-31T18:00:00.000+09:00",
+  "collected_at": "2026-10-31T09:38:49.522Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

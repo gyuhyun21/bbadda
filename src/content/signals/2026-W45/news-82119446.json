@@ -1,0 +1,24 @@
+{
+  "id": "news-82119446",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202610311622356416",
+  "title": "'77.8% 대역전' KIA냐, '안방 61.5%' 삼성인가… KS 티켓 걸린 피 말리는 5차전",
+  "published_at": "2026-10-31T07:24:17.000Z",
+  "collected_at": "2026-10-31T09:38:49.522Z",
+  "summary_ko": "파이낸셜뉴스는 PO 5차전을 앞두고 KIA는 '77.8% 대역전', 삼성은 '안방 61.5%'라는 숫자를 내세웠다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 83,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "5차전 앞두고 엇갈린 확률"
+}

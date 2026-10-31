@@ -1,0 +1,23 @@
+{
+  "id": "community-6ae355db",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "디시 야구 갤러리",
+  "url": "https://gall.dcinside.com/board/view/?id=tigers_new2&no=3391409",
+  "title": "기아타이거즈 라인업 예상",
+  "published_at": "2026-10-28T15:00:00.000Z",
+  "collected_at": "2026-10-31T09:38:49.522Z",
+  "summary_ko": "",
+  "excerpt": "... 1. 박정우 CF2. 하주석 SS3. 김도영 3B4. 카스트로 1B5. 나성범 RF6. 박재현 LF7. 김선빈…",
+  "metrics": {},
+  "scores": {
+    "hot": 44,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

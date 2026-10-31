@@ -1,0 +1,22 @@
+{
+  "id": "news-551a6daa",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "조선일보",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbVNYeFdxYkdxcV9INXRWTU5HWDZYMDVYZ2hFZFBoN0s3d3JBclBYV3pqaUxZV0kwVXhmSkhMRE1BelEtLTJuRXBLSWdsN19ob0NiRHgxNEtXWjNMZGtrQkhjSmJKVFdZZElncDFwblYzQlpvR0t4aU5tZDgxTnIyN0t5MA?oc=5",
+  "title": "1이닝 8실점 대충격→가을 5실점 패전...라팍 공포증 어쩌나, KIA 운명이 달렸다",
+  "published_at": "2026-10-31T06:17:00.000Z",
+  "collected_at": "2026-10-31T09:38:49.522Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 83,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

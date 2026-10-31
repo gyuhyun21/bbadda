@@ -1,0 +1,23 @@
+{
+  "id": "news-584c2fec",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "연합뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8xSkZGMnZsTGI4anBQb2JIOVZ0UFY4OUVjeF9hY0h1eDY0RUN5cGVjcUtTQVYwTXRFU2txOEE2UVo1VWZtNzhoYzQ3VVVEUFdCdFpsTW9nSVRDM25qbGRrdNIBYEFVX3lxTE8xSkZGMnZsTGI4anBQb2JIOVZ0UFY4OUVjeF9hY0h1eDY0RUN5cGVjcUtTQVYwTXRFU2txOEE2UVo1VWZtNzhoYzQ3VVVEUFdCdFpsTW9nSVRDM25qbGRrdA?oc=5",
+  "title": "'2번 타자도 거뜬' 김도영 \"출루해 중심 타선에 기회 잇겠다\"",
+  "published_at": "2026-10-30T13:25:38.000Z",
+  "collected_at": "2026-10-31T09:38:49.522Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 61,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

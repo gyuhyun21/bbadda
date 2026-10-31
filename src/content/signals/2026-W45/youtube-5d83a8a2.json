@@ -1,0 +1,26 @@
+{
+  "id": "youtube-5d83a8a2",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "예쭈니",
+  "url": "https://www.youtube.com/watch?v=V-1bxjumOgw",
+  "title": "#스포츠리듬트레이닝 #위드스포츠 #퍼포먼스팀#우리들의함성#삼성라이온즈#첫공연",
+  "published_at": "2026-10-31T08:32:14Z",
+  "collected_at": "2026-10-31T09:38:49.522Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 208,
+    "likes": 9,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 62,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

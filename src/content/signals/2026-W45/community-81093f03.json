@@ -1,0 +1,33 @@
+{
+  "id": "community-81093f03",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 장유 컴퓨터",
+  "url": "https://blog.naver.com/byeon1004/224460157865",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/C2U14IupKDe",
+  "title": "20년 만에 롯데 돌아온 이동욱 감독, 가장 먼저 바꾸려는 것",
+  "published_at": "2026-10-31T15:22:00.000+09:00",
+  "collected_at": "2026-10-31T09:38:49.522Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 83,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "더게이트",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1RQzdJYlVWMHJvdjh2b1owVlBmVUJDaml1akczbHY2NW5nOVFvWU5iTTNrYVFBOFZrSGVZV1lXSjRzZG1XZW9FS1BWeWxRNFRnQUQ3NFhheEZ1aC1qcjlZbTZCSGplbzRY0gFsQVVfeXFMT2wtZjV6Z0RybmVWbHdnMzlWcndHVHc2aE5MR3V2MUI1V1hIMFRpZ0U2S0d0WHhqaEdkTDZIZ1dCbmozSFJ0dWYyM2tPQ3lpaXFXbzVmMWtTR3NlLU9FZmhfZTlKRm1zTDlGUFJ3?oc=5"
+    },
+    {
+      "source_name": "이투데이",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8yNVNlNHhiVWZfd1F3UGNCNjlua0RQY1MzYlVRZzBlRUtjemJadXZwdjFaX0dqOGs5cEk5OEdiSjJmUndmMHZNRFVqUzhuX1AzYjRyeQ?oc=5"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": "news-b2c836f5",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠경향",
+  "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5rQmMzSkRoSjNIbTQ5UnA0LU1ZWEpVMXlqd2JxVVZQYVoyRW5UMWdFcWlHNjdFZHF6NVcybVpxdXFqYUlHODF3OEJIQ1pKOGdTZlFTWi1aTUlsc19SSnfSAWNBVV95cUxPUDRTblpQWTFHdmNGQ1RfNzdZWDh0NlFXUGc5Z3pnVEhBZDJ0LXpqZkt5eUw0MWl1cnQxXy1SaDRfb3ZFZ0hoQVNHOVUwNGFHc2NvNlJXZ3pmYzhVRjhsNjBmYkE?oc=5",
+  "title": "[스경X현장]이동욱 롯데 신임 감독이 거듭 외친 ‘스마트한 야구’…손자병법의 ‘선승이전’ 철학이 깔려있다",
+  "published_at": "2026-10-31T07:50:00.000Z",
+  "collected_at": "2026-10-31T09:38:49.522Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBpSkltd1hJcmt5RG00YXRNUG5ObklnWk4zMUY3aFRkNmlUX3J1Y1RXM1pCdEdFdVhBTjV6ZGJTRmhESUI4REtFalZIa0xEMFlWelpXLVZLbw?oc=5"
+    }
+  ]
+}

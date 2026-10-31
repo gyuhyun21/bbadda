@@ -1,0 +1,26 @@
+{
+  "id": "youtube-5d9df55c",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "홈런치어(homeruncheer)",
+  "url": "https://www.youtube.com/watch?v=qnO-Qqd-iY8",
+  "title": "삼성 라이온즈 No.3️⃣2️⃣ 김헌곤 응원가🦁 #kbo # #야구 #플레이오프 #삼성라이온즈 #김헌곤 #응원가 #커버 #홈런 #안타 #연주 #피아노 #기타 #드럼",
+  "published_at": "2026-10-31T08:00:36Z",
+  "collected_at": "2026-10-31T09:38:49.522Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 437,
+    "likes": 5,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 40,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

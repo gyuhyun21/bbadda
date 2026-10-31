@@ -1,0 +1,26 @@
+{
+  "id": "youtube-1a80505f",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "삼미노_삼성라이온즈 이야기",
+  "url": "https://www.youtube.com/watch?v=AfJqYo0cfk8",
+  "title": "삼성라이온즈 반드시 한국시리즈!! 끝까지 가봅시다!!｜2026 플레이오프 프리뷰 8편",
+  "published_at": "2026-10-31T07:48:35Z",
+  "collected_at": "2026-10-31T09:38:49.522Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 13778,
+    "likes": 95,
+    "comments": 7
+  },
+  "scores": {
+    "hot": 55,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

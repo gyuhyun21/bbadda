@@ -1,0 +1,23 @@
+{
+  "id": "community-6a707322",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 지금 이 이슈",
+  "url": "https://blog.naver.com/nowmoon101/224460151662",
+  "title": "정규시즌 1위 감독, 한국시리즈 상대 'KIA vs 삼성' 누구를 더 경계했을까?",
+  "published_at": "2026-10-31T15:20:00.000+09:00",
+  "collected_at": "2026-10-31T09:38:49.522Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

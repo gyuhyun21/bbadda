@@ -1,0 +1,27 @@
+{
+  "id": "youtube-97e8ec28",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "youtube",
+  "source_name": "김알 - 김팀장이 알아봤다!",
+  "url": "https://www.youtube.com/watch?v=5P_Njsj9uB4",
+  "title": "두산 베어스 18년 성적표😱 왕조의 영광은 어디로? 7년 연속 한국시리즈→9위 추락! #두산베어스 #KBO #프로야구 #야구쇼츠",
+  "published_at": "2026-10-31T08:30:11Z",
+  "collected_at": "2026-10-31T09:38:49.522Z",
+  "summary_ko": "두산의 지난 18년 성적을 돌아보며 7년 연속 한국시리즈에서 9위까지 내려온 과정을 다룬 팬 영상이다.",
+  "metrics": {
+    "views": 862,
+    "likes": 3,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 37,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "두산 18년 성적표 돌아보기"
+}

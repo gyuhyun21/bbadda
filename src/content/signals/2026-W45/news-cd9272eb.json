@@ -1,0 +1,22 @@
+{
+  "id": "news-cd9272eb",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0zamN6Z0JYTzcyS0dERXFGRWhjeEgyUTJvYmlpVzNrbkVYZnhnSjhpMDNOb2I5TXFDZlBVVGJQb2w0N3UtQmZZaVppT2ZsQTdqemN5WS15YWkteFB2SFBZX1piNFh6d2JmRzhidjVRZ9IBb0FVX3lxTE0zamN6Z0JYTzcyS0dERXFGRWhjeEgyUTJvYmlpVzNrbkVYZnhnSjhpMDNOb2I5TXFDZlBVVGJQb2w0N3UtQmZZaVppT2ZsQTdqemN5WS15YWkteFB2SFBZX1piNFh6d2JmRzhidjVRZw?oc=5",
+  "title": "[포토] '기자들 질문에 답하는' 이택근 롯데 신임단장",
+  "published_at": "2026-10-31T06:13:45.000Z",
+  "collected_at": "2026-10-31T09:38:49.522Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

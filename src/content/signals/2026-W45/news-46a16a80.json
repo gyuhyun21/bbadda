@@ -1,0 +1,22 @@
+{
+  "id": "news-46a16a80",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE13MC1XeGVTQmR6MUh6WFZ0TEdVd1lVQlVDZlZVOGUxakZGREx0RjJGWlJWUUs3RHdweGxubGVmTGFsRmpTdFkxdkw1Ul93SVZhbGlsRURqVktLWng5UjFTQXVrR21IZ1lWRkd6YVd3c9IBb0FVX3lxTE13MC1XeGVTQmR6MUh6WFZ0TEdVd1lVQlVDZlZVOGUxakZGREx0RjJGWlJWUUs3RHdweGxubGVmTGFsRmpTdFkxdkw1Ul93SVZhbGlsRURqVktLWng5UjFTQXVrR21IZ1lWRkd6YVd3cw?oc=5",
+  "title": "[포토] '캡틴 전준우 축하받는' 이동욱 롯데 신임감독",
+  "published_at": "2026-10-31T05:32:14.000Z",
+  "collected_at": "2026-10-31T09:38:49.522Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 99,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

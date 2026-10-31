@@ -1,0 +1,23 @@
+{
+  "id": "news-00aebeb8",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "일간스포츠",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1BM2RQelZlNnVwclpJYWVzVDMtb1lUVy1sdmJvRHJEamtuMEY1d3drck5aNjdmVEZlTlcxdjdzSUxfd3BreVZ4aUNsSWZCbEJZbHBIQ3A2RFl1TUpvanhfYUdR?oc=5",
+  "title": "[IS 포커스] 곽도규·장찬희 태극마크, PO 5차전에 달렸다?…운명의 한판 승부",
+  "published_at": "2026-10-31T06:34:00.000Z",
+  "collected_at": "2026-10-31T09:38:49.522Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

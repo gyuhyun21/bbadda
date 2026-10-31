@@ -1,0 +1,24 @@
+{
+  "id": "news-91701726",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "SPOTV NEWS",
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1JMzRkQmdsN0F1TFBsdk5mUmdDSW1CY3ZTUzZBQ2FSZkw2SVZMalpNd01UQkZIOHdnMHl6SDJIVVFxWDY3dWxSLUhzd1J1ZVdVVU5FczVoTnJLRzRidHhJT1V2bXFKQWpwSlpObi1RWFY?oc=5",
+  "title": "\"레이예스는 재계약 안 하면 안 돼\" 타자는 확정! 그러나 이동욱 감독, 엘빈-비슬리 동행은 못 박지 않았다",
+  "published_at": "2026-10-31T09:22:22.000Z",
+  "collected_at": "2026-10-31T09:38:49.522Z",
+  "summary_ko": "SPOTV NEWS에 따르면 이동욱 롯데 감독은 타자 레이예스는 재계약해야 한다고 했다. 반면 외국인 투수 엘빈·비슬리와의 동행은 못 박지 않았다.",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "레이예스 재계약 의지, 투수는 미정"
+}

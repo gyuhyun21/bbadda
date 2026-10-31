@@ -1,0 +1,23 @@
+{
+  "id": "news-2beb5711",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "마이데일리",
+  "url": "https://mydaily.co.kr/page/view/2026103101404760310",
+  "title": "“4kg 빠졌다, 갑자기 나도 모르게…억지로 많이 먹었다” KIA 전상현 솔직고백, 143km인데 지금 KBO 최고 클로저[MD광주]",
+  "published_at": "2026-10-31T04:00:00.000Z",
+  "collected_at": "2026-10-31T09:38:49.522Z",
+  "summary_ko": "KIA 마무리 전상현이 몸무게가 4kg 빠졌다고 털어놨다고 마이데일리가 전했다. 제목은 그를 지금 KBO 최고 클로저로 꼽았다.",
+  "metrics": {},
+  "scores": {
+    "hot": 82,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "전상현, 4kg 빠지고도 최고 클로저"
+}

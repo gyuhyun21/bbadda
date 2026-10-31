@@ -1,0 +1,24 @@
+{
+  "id": "youtube-36c82058",
+  "issue": "2026-W45",
+  "module": "league",
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=lti9Sxn-Jd8",
+  "title": "2026 울산-KBO Fall League 결승 LIVE | 롱비치코스트 vs 울산웨일즈",
+  "published_at": "2026-10-31T09:33:16Z",
+  "collected_at": "2026-10-31T09:38:49.522Z",
+  "summary_ko": "KBO 채널이 2026 울산-KBO Fall League 결승 롱비치코스트 대 울산웨일즈를 생중계했다.",
+  "metrics": {
+    "views": 110071,
+    "likes": 211,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 61,
+    "relevance": 30
+  },
+  "sentiment": "neutral",
+  "brief_ko": "Fall League 결승 생중계"
+}

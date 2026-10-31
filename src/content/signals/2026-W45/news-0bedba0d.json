@@ -1,0 +1,33 @@
+{
+  "id": "news-0bedba0d",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "연합뉴스",
+  "url": "https://www.yna.co.kr/amp/view/AKR20261031032200007",
+  "title": "가을야구 한창인 삼성, 저년차 위주 오키나와 마무리 훈련",
+  "published_at": "2026-10-31T06:00:28.000Z",
+  "collected_at": "2026-10-31T09:38:49.522Z",
+  "summary_ko": "삼성이 포스트시즌 중에도 저년차 선수 위주로 일본 오키나와 마무리 훈련에 들어갔다고 연합뉴스가 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 83,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBITnl5NHFQb0szZE1iak5jOFAtVFZEUWNoSFZhLUh4c09xUUZNRU1oeGZuZzlyNC1VVi1jTWdXQnlXc3RuTjY1SVZzZmtrWTZ3dENISlBqR0ZjMUZ6NG5wY2lMMFpCc3hjZHVINVIwd1I0aWpONER5MNIBeEFVX3lxTFBITnl5NHFQb0szZE1iak5jOFAtVFZEUWNoSFZhLUh4c09xUUZNRU1oeGZuZzlyNC1VVi1jTWdXQnlXc3RuTjY1SVZzZmtrWTZ3dENISlBqR0ZjMUZ6NG5wY2lMMFpCc3hjZHVINVIwd1I0aWpONER5MA?oc=5"
+    },
+    {
+      "source_name": "스포츠경향",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBqdGVlRldUaEsyRXFMUmpOdEt0U2FaNWVKQm91NzdkZVZWRWJ0bTh0czFzWWZnZVpCMk5KTlhiMnpLYnhwY1ZGWk02ZGJyTkpzQkxid09UdFlpWFU4aGxqc0ZnNNIBY0FVX3lxTFBqdGVlRldUaEsyRXFMUmpOdEt0U2FaNWVKQm91NzdkZVZWRWJ0bTh0czFzWWZnZVpCMk5KTlhiMnpLYnhwY1ZGWk02ZGJyTkpzQkxid09UdFlpWFU4aGxqc0ZnNA?oc=5"
+    }
+  ],
+  "brief_ko": "저년차 중심 오키나와 마무리 훈련"
+}

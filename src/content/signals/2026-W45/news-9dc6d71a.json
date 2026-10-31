@@ -1,0 +1,33 @@
+{
+  "id": "news-9dc6d71a",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "스타뉴스",
+  "url": "https://www.starnewskorea.com/sports/2026/10/31/2026103112024756237",
+  "title": "\"7이닝 3실점보단 5이닝 무실점\" 지면 끝장, '작년 홀로 3패'는 약이 됐다... 삼성이 후라도에게 거는 기대 [PO4]",
+  "published_at": "2026-10-31T04:53:43.000Z",
+  "collected_at": "2026-10-31T09:38:49.522Z",
+  "summary_ko": "스타뉴스는 PO 4차전을 앞두고 삼성이 후라도에게 거는 기대를 전했다. 지난해 혼자 3패를 떠안은 경험이 약이 됐다는 내용이다.",
+  "metrics": {},
+  "scores": {
+    "hot": 90,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBtbE4zdzlxQ0R4VUR2MmJEdnlGOHpfdlJUeXBSUE5rY19YaXp6d19xN0ZPODVVTjhWMW9lV25XS3NOZ1UyYkFUV0czRk9zZkZ0cFNNT3BuSHlLMXZKQXNfZ1llcnVSbVU1ZlBEV3M2d9IBb0FVX3lxTFBtbE4zdzlxQ0R4VUR2MmJEdnlGOHpfdlJUeXBSUE5rY19YaXp6d19xN0ZPODVVTjhWMW9lV25XS3NOZ1UyYkFUV0czRk9zZkZ0cFNNT3BuSHlLMXZKQXNfZ1llcnVSbVU1ZlBEV3M2dw?oc=5"
+    },
+    {
+      "source_name": "서플 뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1YRV9Xel95TUxNZUxnV3RLX2dZdUpQb2U0RGZrQWM0TlRZeHFhdEJoLXdlVDYtUWdBNkFKQlJ2bjFIamlGZlRFS3lLYVdjNWJiMW1aMXdERHNKbTJr?oc=5"
+    }
+  ],
+  "brief_ko": "후라도에게 거는 삼성의 기대"
+}

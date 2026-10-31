@@ -1,0 +1,23 @@
+{
+  "id": "community-d02fb1e0",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 hiki의 천국보다 아름다운",
+  "url": "https://blog.naver.com/hiki7726/224460118764",
+  "title": "2026 프로야구 포스트시즌 일정 총정리! 한국시리즈까지 가을야구의 주인공은?",
+  "published_at": "2026-10-31T15:03:00.000+09:00",
+  "collected_at": "2026-10-31T09:38:49.522Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

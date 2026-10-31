@@ -1,0 +1,27 @@
+{
+  "id": "youtube-a02b6a59",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "youtube",
+  "source_name": "퇴근길 에스코트",
+  "url": "https://www.youtube.com/watch?v=u4aO_jYKB0o",
+  "title": "[정근우의 야구장 퇴근길] KT 위즈 100만 관중 돌파 축하합니다 ! \"내 피는 검은색... 큰일 날 소리 마라!\" ㅋㅋㅋ",
+  "published_at": "2026-10-31T08:00:03Z",
+  "collected_at": "2026-10-31T09:38:49.522Z",
+  "summary_ko": "KT 100만 관중 돌파를 축하하는 팬 영상이다.",
+  "metrics": {
+    "views": 862,
+    "likes": 7,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 41,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "KT 100만 관중 돌파 축하"
+}

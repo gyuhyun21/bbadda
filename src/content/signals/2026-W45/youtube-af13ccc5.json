@@ -1,0 +1,26 @@
+{
+  "id": "youtube-af13ccc5",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "youtube",
+  "source_name": "글로벌 K-스포츠",
+  "url": "https://www.youtube.com/watch?v=U76sKP5_HfE",
+  "title": "LG 10라운드 박성진, 오타니급 피지컬에 깜짝 호투! #LG트윈스 #박성진",
+  "published_at": "2026-10-31T05:25:27Z",
+  "collected_at": "2026-10-31T09:38:49.522Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 645,
+    "likes": 16,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 53,
+    "relevance": 50
+  },
+  "sentiment": "positive"
+}

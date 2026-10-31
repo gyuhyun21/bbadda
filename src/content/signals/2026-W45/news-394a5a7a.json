@@ -1,0 +1,29 @@
+{
+  "id": "news-394a5a7a",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "미주중앙일보",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1NNGN3SUNtYU1jZ2d5V2NCWndGU3EzWWFTbm5oLVFOajdqT2VudUJqTjJKOXQ3TUxGX1JUSGticmVWUWhWVlBqcVlPOVozelpVcGlub1p5NjFGdHpkbUlfNlhR?oc=5",
+  "title": "\"출루에 더욱 신경 쓰겠다\" 타석이 자주와서 더 좋은 공포의 2번타자...5차전도 찬스 메이커 예고, 그렇다고 홈런 봉인은 아니다",
+  "published_at": "2026-10-31T07:40:00.000Z",
+  "collected_at": "2026-10-31T09:38:49.522Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ETnJGQ1NEdVRVMlcweEhwSWNMc2cyUlJxRHk4WGdGN0NvemNMXzNvQ1MxZzk0UjZ3QmsxZU5GdnFJZDVVU3pYSTBiV29hR1hFbzBPcHdiZzZBTGpGTnZocEFLWXJIbDcxSkHSAW9BVV95cUxPMk92ZmtFOWJ4Z2ZqR3NiVXcyeXdkN1NheFpRV0VncElzUTFyZ3hmVzk3V3ZtUkdiREVVV0JCbHFncmVNSUVsb1BsMmxGeUVYY2dON0RuZlJyQXpYTExJMm1ta1dFamc1NWdWV1JScG8?oc=5"
+    }
+  ]
+}

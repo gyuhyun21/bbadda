@@ -1,0 +1,25 @@
+{
+  "id": "news-8d817369",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia",
+    "kt"
+  ],
+  "source_type": "news",
+  "source_name": "데일리안",
+  "url": "https://www.dailian.co.kr/news/view/1709006/%E2%80%985%EC%B0%A8%EC%A0%84-%EA%B0%80%EB%8A%94-PO%E2%80%99-%EC%82%BC%EC%84%B1KIA-%EC%9B%90%ED%88%AC-2026",
+  "title": "‘5차전 가는 PO’ 삼성·KIA, 원투펀치 소진하고 불펜 총동원…KT 방긋",
+  "published_at": "2026-10-31T04:41:00.000Z",
+  "collected_at": "2026-10-31T09:38:49.522Z",
+  "summary_ko": "데일리안은 PO가 5차전까지 가면서 삼성과 KIA가 원투펀치를 소진하고 불펜을 총동원했다고 전했다. KT는 그 사이 웃고 있다는 제목이다.",
+  "metrics": {},
+  "scores": {
+    "hot": 82,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "원투펀치 소진, 불펜 총동원"
+}

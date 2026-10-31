@@ -1,0 +1,32 @@
+{
+  "id": "youtube-2c769cbe",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "source_name": "위니비니수리",
+  "url": "https://www.youtube.com/watch?v=WOs_lqx65nY",
+  "title": "노시환 MLB 진출 도전 #한화이글스 #시시 #노시환",
+  "published_at": "2026-10-31T09:25:21Z",
+  "collected_at": "2026-10-31T09:38:49.522Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 162,
+    "likes": 0,
+    "comments": 2
+  },
+  "scores": {
+    "hot": 36,
+    "relevance": 50
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ITllVcmcwZWY0ZGQ5UldJYXptckk3MEZ5dUpvMlNocklpc2hyVEV2WVdnUXZQekpDZ1JpUjF0VDhieXZ1RUVtZ1NsYTloekRLR1Rna25STWxBcEFnZGhfNdIBeEFVX3lxTFBqQTBJdi1vQWVZaEVCVUh3ZUswblQ0SFJLMEJqb0FxaDgzN2dERVdBRzFBMlZqZ2Z4VE0yaXlBa0xRZktjY1NqM24yYVlFNTVHZ2FKaE1VN18yaEVWSEQ1Zm1MUVhVWGcyZTRvZjlhS3pEd0V4ZzUwUw?oc=5"
+    }
+  ]
+}

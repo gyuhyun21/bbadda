@@ -1,0 +1,24 @@
+{
+  "id": "community-4ddc6c78",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 갓생러의 소소한 일상",
+  "url": "https://blog.naver.com/ht5218/224460139242",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/EiuahAUxq2P",
+  "title": "하루 전 삼진 4개, 다음 날 만루 찬스까지…김호령에게 무슨 일이",
+  "published_at": "2026-10-31T15:43:00.000+09:00",
+  "collected_at": "2026-10-31T09:38:49.522Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

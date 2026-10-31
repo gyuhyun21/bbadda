@@ -1,0 +1,23 @@
+{
+  "id": "news-60b0718d",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "부산일보",
+  "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE84LW5mSkhMem9YZlNoLXl5U2d0eXllYXhSMVJDdFZNN1lRTnM3ckJBWjhCUndNSXcxQVFIU3pCMlQxcHRlYml5OW5rQkJQbHFqNWxQT0hOTmpRM0FuOGFsMEtGYWYtYXVyN0h5eWxsYzdyNmRrY2JENmtZZXM?oc=5",
+  "title": "“AI로 승리 확률 높인다”…이동욱 롯데 감독, 취임식서 ‘스마트 야구’ 선언",
+  "published_at": "2026-10-31T05:39:05.000Z",
+  "collected_at": "2026-10-31T09:38:49.522Z",
+  "summary_ko": "이동욱 롯데 감독이 취임식에서 AI로 승리 확률을 높이는 '스마트 야구'를 하겠다고 밝혔다고 부산일보가 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "brief_ko": "이동욱 감독의 스마트 야구 선언"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "youtube-d59473b4",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "source_name": "한화에 묻어다오",
+  "url": "https://www.youtube.com/watch?v=rErvy3zhJmQ",
+  "title": "메이저리그 포스팅 공시 요청한 노시환 #한화이글스 #노시환",
+  "published_at": "2026-10-31T08:09:16Z",
+  "collected_at": "2026-10-31T09:38:49.522Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 8322,
+    "likes": 180,
+    "comments": 81
+  },
+  "scores": {
+    "hot": 71,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}
