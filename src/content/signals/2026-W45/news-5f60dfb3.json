@@ -1,0 +1,23 @@
+{
+  "id": "news-5f60dfb3",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "연합뉴스",
+  "url": "https://www.yna.co.kr/amp/view/AKR20261101039400007",
+  "title": "박진만 삼성 감독 \"후라도·김지찬이 영웅…숨은 MVP는 이승민\"",
+  "published_at": "2026-11-01T08:37:46.000Z",
+  "collected_at": "2026-11-01T09:38:27.566Z",
+  "summary_ko": "연합뉴스에 따르면 박진만 삼성 감독은 후라도와 김지찬이 영웅이라고 평했다. 숨은 MVP로는 이승민을 꼽았다.",
+  "metrics": {},
+  "scores": {
+    "hot": 84,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "brief_ko": "박진만 감독의 숨은 MVP는 이승민"
+}

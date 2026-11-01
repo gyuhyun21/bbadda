@@ -1,0 +1,30 @@
+{
+  "id": "news-1e01f65a",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스타뉴스",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9taFNYREF4SU9MNEJkdng0cEIzLXdGdTNUUUh1NDJ4c3pvbkY4eThyQUFnbDlYaUM2bnl0UFJIRmg2S2kzR3FpQ2ZKal9xcU9BR0FZSzR6eHRlSzBfTFhoZUtoa2xNQXlwOVdHUThWcTVyTkFTV1E?oc=5",
+  "title": "'대인배 마인드 보소' MVP 후라도 \"실책? 오히려 그쪽으로 땅볼 유도할게, 잘 잡아줘... 이제 가장 원하는 우승 위해\" [PO5 현장]",
+  "published_at": "2026-11-01T08:34:05.000Z",
+  "collected_at": "2026-11-01T09:38:27.566Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 84,
+    "relevance": 70
+  },
+  "sentiment": "mixed",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5lS0Q0QTY4TWlnR0tUaE1XX3FuRDQxZnRqeTlkSDBjVkFheEVfSjhJdHVKVjFzaEM1U2ZkNl9ndlB0aWlnX01UdlNCRVdoS3RFZ0ZNSlNlMW8xb2NobFdOWElLX0I1QWhsWkHSAW9BVV95cUxOLXdTN2RwQlRzZUUzVjBzOVA4U29BWjlDY2NBOThlWl9zVFVRZENoT081Tnl6SjktZ0NwZGEwTVV4NWxxcUhmMXVJRW01X2E1VmZoTWpqVVBkeFV6bE03aU5TcHhJNEk3UDFfajNLQ0E?oc=5"
+    }
+  ]
+}

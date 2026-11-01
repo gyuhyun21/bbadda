@@ -1,0 +1,26 @@
+{
+  "id": "youtube-90f023e5",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "youtube",
+  "source_name": "자이언츠 스토리",
+  "url": "https://www.youtube.com/watch?v=G0LkY3EgAaw",
+  "title": "드림카페 선수단 인사 #롯데자이언츠",
+  "published_at": "2026-11-01T07:05:22Z",
+  "collected_at": "2026-11-01T09:38:27.566Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1158,
+    "likes": 29,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 60,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

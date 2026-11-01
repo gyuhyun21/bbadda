@@ -1,0 +1,29 @@
+{
+  "id": "news-fcd4717b",
+  "issue": "2026-W45",
+  "module": "league",
+  "teams": [],
+  "source_type": "news",
+  "source_name": "뉴시스",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1CLU5HdExfRHl5YTJ4VDlXcnZqNU9HcDZWaENqSXFmQjlZdUw1RE5LdUJ0WWNDak9DODB2MHRvXzJ2QWFPWnpsV29TRW14Q0lRWm5xWjdHOEVLaUVwTDBfLQ?oc=5",
+  "title": "이범호 감독, 멀어져가는 한국시리즈",
+  "published_at": "2026-11-01T07:32:04.000Z",
+  "collected_at": "2026-11-01T09:38:27.566Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 91,
+    "relevance": 30
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNy1WYi1SWW14QWUwRFlid3N2QzB4eEpLMUJhR0pERzlYdzVfMTg4em8wRzJWbURqNmdtMTczQks3dDJnWVJLdlk4LXRhV183OVIwampoNU5sUGZ6b0R5ZWxmLTQwMkluWktWNG5LNnlTZjl4b3NyWjFaaURHZEZiVUlTT1R6UGtHQldvUnFwYS1YWDJnSG5sMnBWeEHSAZwBQVVfeXFMUDctVmItUllteEFlMERZYndzdkMweHhKSzFCYUdKREc5WHc1XzE4OHpvMEcyVm1EajZnbTE3M0JLN3QyZ1lSS3ZZOC10YVdfNzlSMGpqaDVObFBmem9EeWVsZi00MDJJblpLVjRuSzZ5U2Y5eG9zcloxWmlER2RGYlVJU09UelBrR0JXb1JxcGEtWFgyZ0hubDJwVnhB?oc=5"
+    },
+    {
+      "source_name": "https://www.2news.co.kr/",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ta1BMaXhRaG00QXd4ZEp6cUFZbHp1c0hLSEVkaGhVQW9mMTY5RzlMWG9lc2FMUG5lQWRZcHF3MTBzaFhMdktaS1liMzNRVHhMSnJiTGFldnAtX3NfTnh6TmFnNk5ycG9w?oc=5"
+    }
+  ]
+}

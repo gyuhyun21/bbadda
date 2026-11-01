@@ -1,0 +1,23 @@
+{
+  "id": "news-07ed1f9e",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "https://www.2news.co.kr/",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBlSnh0WUlwcVduY3VqWjdxaUMwdlZEV0lvZmM1bnY3eTNnZnQyUTB3S0ltdW5feU5uQ1lNcy1nc2RJMkJIRnBjQzZBTVFMZUcxbkM4aDNkUmtYY1pwSzlMSExNSUVjR21v?oc=5",
+  "title": "'7이닝 무자책 역투' 삼성 후라도, KIA 제압하고 한국시리즈행 눈앞",
+  "published_at": "2026-11-01T07:27:00.000Z",
+  "collected_at": "2026-11-01T09:38:27.566Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 80
+  },
+  "sentiment": "neutral"
+}

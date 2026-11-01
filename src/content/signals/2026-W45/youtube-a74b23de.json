@@ -1,0 +1,28 @@
+{
+  "id": "youtube-a74b23de",
+  "issue": "2026-W45",
+  "module": "league",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "team": "samsung",
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=U7r89QvGgX4",
+  "title": "(무해설) 원태인의 마지막 아웃카운트와 삼성팬들의 함성!  | PO5_KIA vs 삼성 | 11.1 | 크보모먼트 | KBO 야구 하이라이트",
+  "published_at": "2026-11-01T09:08:15Z",
+  "collected_at": "2026-11-01T09:38:27.566Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 3460,
+    "likes": 279,
+    "comments": 27
+  },
+  "scores": {
+    "hot": 86,
+    "relevance": 80
+  },
+  "sentiment": "neutral"
+}

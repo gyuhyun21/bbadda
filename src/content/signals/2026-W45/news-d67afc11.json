@@ -1,0 +1,24 @@
+{
+  "id": "news-d67afc11",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia",
+    "kt"
+  ],
+  "source_type": "news",
+  "source_name": "채널A",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1YQ09uZ2tCdDBVUFU3R2RFdWFNalRqazVtZXd6UVhUZ0ZWdGNFYlEwTEl1U1F5NzY5RzlDRmpKbXI4eVdsQUJ0d0F6QlZuMnpjbnAzQUJsZExBOGMyaS1Scm9kONIBY0FVX3lxTE1YQ09uZ2tCdDBVUFU3R2RFdWFNalRqazVtZXd6UVhUZ0ZWdGNFYlEwTEl1U1F5NzY5RzlDRmpKbXI4eVdsQUJ0d0F6QlZuMnpjbnAzQUJsZExBOGMyaS1Scm9kOA?oc=5",
+  "title": "삼성라이온스, KIA타이거즈 꺾고 한국시리즈행…KT위즈와 격돌",
+  "published_at": "2026-11-01T08:13:00.000Z",
+  "collected_at": "2026-11-01T09:38:27.566Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 91,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

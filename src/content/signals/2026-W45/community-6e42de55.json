@@ -1,0 +1,23 @@
+{
+  "id": "community-6e42de55",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 쩝쩝박사의 과학잡설 ㅣ 개소리인 줄 알았는데 과학임",
+  "url": "https://blog.naver.com/magopick/224461136257",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/GEx4zEUdiNJ",
+  "title": "두산 선발 평균자책점 1위, 가을야구가 한 경기로 끝난 계산",
+  "published_at": "2026-11-01T15:13:00.000+09:00",
+  "collected_at": "2026-11-01T09:38:27.566Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

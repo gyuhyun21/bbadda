@@ -1,0 +1,26 @@
+{
+  "id": "news-d7bdd9ca",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia",
+    "kt"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://www.mt.co.kr/amp/sports/2026/11/01/2026110110194454409",
+  "title": "'후라도 7이닝 먹방 미쳤다!' 삼성, KIA 6-1 완파→KT와 KS서 만난다 [PO5 현장리뷰]",
+  "published_at": "2026-11-01T07:36:15.000Z",
+  "collected_at": "2026-11-01T09:38:27.566Z",
+  "summary_ko": "머니투데이 현장리뷰에 따르면 삼성이 PO 5차전에서 KIA를 6-1로 꺾고 KT와 한국시리즈에서 만난다. 선발 후라도가 7이닝을 던졌다.",
+  "metrics": {},
+  "scores": {
+    "hot": 83,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "PO 5차전 삼성 6-1 승리",
+  "hook_ko": "후라도 7이닝, 삼성이 KS 간다"
+}

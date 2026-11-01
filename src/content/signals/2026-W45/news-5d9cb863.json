@@ -1,0 +1,50 @@
+{
+  "id": "news-5d9cb863",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "kt",
+  "teams": [
+    "kt",
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스1",
+  "url": "https://www.news1.kr/sports/baseball/6339066",
+  "title": "이강철 KT 감독 \"삼성 만만치 않지만, 우리 야구로 통합 우승할 것\"",
+  "published_at": "2026-11-01T07:52:23.000Z",
+  "collected_at": "2026-11-01T09:38:27.566Z",
+  "summary_ko": "뉴스1에 따르면 이강철 KT 감독은 삼성이 만만치 않지만 우리 야구로 통합 우승을 하겠다고 밝혔다.",
+  "metrics": {},
+  "scores": {
+    "hot": 99,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "https://www.2news.co.kr/",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9wR1E0RnZBVjF5eVd0TzM1WGZSZnJJWFVlVzZKNTR4blg2V3ZsUlRqcGNvQ3lKR0prX09vZDRQVTYtWUpyY0JhT3VMeU16cVJWNEdUeVo0ZGY2UFJpYkpRa1dJMTBKY2dx?oc=5"
+    },
+    {
+      "source_name": "연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5UdnpQcDNsT29WeHZhaXczeGN2YWJ2RTRTVUZZXy02aXVJNGpLazZCb3AyZmQwT1JxWXZqdUxqUzliUkRCY3BMZFkzQWxhaV9IOTZkYTFpT2ljODDSAWBBVV95cUxPWVhXVk9hNEQtOXBxWFpvSTFOVng5U1NTQ1l3SjZrYi01dVpaS3N6UzA1S1RJejVkRUpZb3FpTnBTTEdaU25GR1Z1U0RoNzBpNlJmM2E3eGNYMHRuLUcyMk4?oc=5"
+    },
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1qWC1tWHl4RGN5WGFQclRicGpwUUFxM0k1UjJhYmlxZ3NYaTJzRzFPT242QzVhMUcwQ0xXTEJUZTRnSElNWnhBeUF0UkhFNk95RnlVSzhOMTBfOHdjOG1wS1MtMjhmak9fWE5sbGJNSdIBb0FVX3lxTE1qWC1tWHl4RGN5WGFQclRicGpwUUFxM0k1UjJhYmlxZ3NYaTJzRzFPT242QzVhMUcwQ0xXTEJUZTRnSElNWnhBeUF0UkhFNk95RnlVSzhOMTBfOHdjOG1wS1MtMjhmak9fWE5sbGJNSQ?oc=5"
+    },
+    {
+      "source_name": "중부일보",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBhOHNpSm5hYVRnQjZXYjVPaE5GU0pab290RzB0Q3B4ZVYwOWFDZTBveHUzOHdxRklDQWtVdmo4SFN1NUR1YzVIdG9SQmhscDFHMmNLdUtabnhpOFRfRUNFU1BsQURlZVgzSVdfcHB3?oc=5"
+    },
+    {
+      "source_name": "아주경제",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1MTlRpN3hZb0VZTXZvRUlKODQtVl9nRVdIRGw0bm5NQVE3YnRnNmMxeU4wMGx0b3BIZ2U5eWI2Qlg4OVRoUG82b3R2eUpGY19QQ1VQUngySE5nUdIBWEFVX3lxTE03WW1mQXhUR1czaWptLVI2RVVfQTRtODdDSnBaRHh3Z1puamVpcExQQnNTQ042c3JwN3VyQzUyN1dtc3h1bGR6VV8tVURXYUN5dUF6MnpsbDc?oc=5"
+    },
+    {
+      "source_name": "뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9QeTVKcFdnOVhUWUFObjN5Yy1FMUhhVWdZZlB0czBnWENualpaM2JuT1VBckJzZExEbEoydHdncUprdFJYeVVudjdOa3dqeFgwZ0FtWEJlNWE3MW5iaExqYtIBeEFVX3lxTE1FZFBvT19IOThkdWYwNmNUZzBuS1ZtYzU4UTY3VG50OU5WSG41SndJNTFsVjZ5UkhSVFRWU0lFTkNLRDlyR2t0OWNPa25RLWExTkV3WjJrZkJlbzdlWjJxZE9nNEhVVm0xLXV1Wk5qU2dBQVVQMXBpMg?oc=5"
+    }
+  ],
+  "brief_ko": "이강철 감독, 통합우승 다짐"
+}

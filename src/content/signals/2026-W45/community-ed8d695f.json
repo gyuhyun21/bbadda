@@ -1,0 +1,24 @@
+{
+  "id": "community-ed8d695f",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 제이의 스윗 홈",
+  "url": "https://blog.naver.com/kja4596/224460995879",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/LxvKpfTz3eO",
+  "title": "고척스카이돔 주차장 총정리｜야구·공연 갈 때 주차 어디?",
+  "published_at": "2026-11-01T13:02:00.000+09:00",
+  "collected_at": "2026-11-01T09:38:27.566Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

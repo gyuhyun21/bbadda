@@ -1,0 +1,27 @@
+{
+  "id": "youtube-9b11ba12",
+  "issue": "2026-W45",
+  "module": "league",
+  "teams": [
+    "samsung"
+  ],
+  "team": "samsung",
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=Yr3nlwm12Hk",
+  "title": "경기 초반부터 휘몰아치는 삼성라이온즈!🦁",
+  "published_at": "2026-11-01T06:27:21Z",
+  "collected_at": "2026-11-01T09:38:27.566Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 19158,
+    "likes": 433,
+    "comments": 20
+  },
+  "scores": {
+    "hot": 74,
+    "relevance": 60
+  },
+  "sentiment": "neutral"
+}

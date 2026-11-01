@@ -1,0 +1,23 @@
+{
+  "id": "news-8efbed61",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "조선일보",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSUhXZjhUb292VkZmaGdJQ2QyVkZDbHBLcTJ0LW5rVnJQVWtXQXp6WWlFUG5JYVJHWU1QS0ZteDBhRTJwNVQzNVpRUjk5WnNZNHRndEN5TjQ2RDBVRS1EaXBFaFE0Vm9QS2hHMzh3MFJZZDZHMUc1QmxaR2dILXNhcUZ0QQ?oc=5",
+  "title": "\"양현종 웬만하면 안 쓴다\" 프로 20년 차 대투수의 'PO 제로' 행진 이어질까[PO5 현장]",
+  "published_at": "2026-11-01T05:28:00.000Z",
+  "collected_at": "2026-11-01T09:38:27.566Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "community-21fbe761",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia",
+    "kt"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 일상다반사",
+  "url": "https://wizgram.tistory.com/386",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/C8waAURU4NW",
+  "title": "삼성, KIA 6-1 꺾고 한국시리즈 진출…KT와 1차전 11월 3일 일정·예매 방법 총정리",
+  "published_at": "2026-11-01T17:27:40.000+09:00",
+  "collected_at": "2026-11-01T09:38:27.566Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 100,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8wMXlfWVBULWNEdVhxQlNlaUMzemhxa0ZSNzhEdXlhUGk0WXFVczI2Yzk5ZnVjemh3RTFqR2hYRUcwOUl6dHNqcmpqOVlXXzU5aWRELWFBaw?oc=5"
+    },
+    {
+      "source_name": "한국NGO신문",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0tbnN6dVhzcFZWOVNEczRKdUVJVC1YUmZZLTVzT1hyOXRpMGZqME1BVlVZWnozMGIybHVpbVJpeEs1MVY0RkhVd2pyVVdCdUltSGhuSGtEaHRLUDlHM05LUDFwcElLVi1V?oc=5"
+    },
+    {
+      "source_name": "매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE01aTlzSWNsMzZfU21TeDIwT3o1N05hTGtxV0dLMjV2cUhYSE9rVVVfbWdlendLSnI5UnB1TWRQNDRGQkIyZkw4VEp0VTlaWEEtb0w0?oc=5"
+    }
+  ]
+}

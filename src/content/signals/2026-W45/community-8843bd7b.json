@@ -1,0 +1,41 @@
+{
+  "id": "community-8843bd7b",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 이지복지 – 놓치면 아까운 정부지원",
+  "url": "https://blog.naver.com/easystorybokji/224461241398",
+  "title": "삼성 후라도 7이닝 비자책, KIA 꺾고 한국시리즈 진출·PO MVP",
+  "published_at": "2026-11-01T17:10:00.000+09:00",
+  "collected_at": "2026-11-01T09:38:27.566Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 99,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "마이데일리",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9lVnJFMTc1TEtMU3NrNGlmNWpuV2FTV1FIT29ILUxDeW5uOWktczNPVm5mZW1ubXFIRk9IWWpvMms0UWJhS1JMcFZHNXk1RWdMYXFIYUZTcmlYVlF4bjA1aA?oc=5"
+    },
+    {
+      "source_name": "중앙일보",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBvYTRzcW0tWldMakhJbFdtOTJUQl8waHRHMnZDcEtMNTlJZEtsZ1BFaUV3bmo1RTh1MkxkMUdyYnBYTzR1ZWRmdGJLZ0ZVT21FaW1SbEdR?oc=5"
+    },
+    {
+      "source_name": "세계일보",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBueUh3U04wdkEzNGc4ZzUwTDdPVk1RNHZaTkU1Wl9zMnpEdzZwaVlWZGJNQXNMT3MyamJ0SlBtU3ZvWEZUMklja3hwNnlmY0ZBWmVkU1ozS19RT0VtZHdSSFhwT2dlVjh3Zlh30gFUQVVfeXFMTXJKRXYtYUdIVWlCS0FDdjdhRXFBSm10dVdHMjZVb0JNd3J6SElHdkxZaHloLU15dTFkbm5ER2FYbUJnQUVDY0pFdzZORmVXNkVrMzU3?oc=5"
+    },
+    {
+      "source_name": "뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1Jc0dXbUs1WUFkT3V0Z3J3Z3ptT0tWOG9EbTZuTXpJZDhQcGZjQ200cGo2ekFsNVdtU1MxZDJrdkFZZjRISnBnYXpGaWlTdE5XLWFwMGdJTWFvbktMUWxYSV9iRnYxQ3RUVnc3cTFMamZIYTN3M0hwMNIBeEFVX3lxTE1Jc0dXbUs1WUFkT3V0Z3J3Z3ptT0tWOG9EbTZuTXpJZDhQcGZjQ200cGo2ekFsNVdtU1MxZDJrdkFZZjRISnBnYXpGaWlTdE5XLWFwMGdJTWFvbktMUWxYSV9iRnYxQ3RUVnc3cTFMamZIYTN3M0hwMA?oc=5"
+    }
+  ]
+}

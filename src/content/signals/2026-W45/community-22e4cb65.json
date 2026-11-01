@@ -1,0 +1,24 @@
+{
+  "id": "community-22e4cb65",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "엠엘비파크",
+  "url": "https://mlbpark.donga.com/mp/b.php?id=202610190119534406&p=1&b=kbotown&m=view&select=spf&query=%EB%91%90%EC%82%B0&site=naver.com&pos=reply",
+  "title": "손아섭 등 11명 방출.twt",
+  "published_at": "2026-10-18T00:00:00.000Z",
+  "collected_at": "2026-11-01T09:38:27.566Z",
+  "summary_ko": "",
+  "excerpt": "... 두산베어스(사장 고영섭)가 19일(월) 투수 김명신·김지윤·박강민·장우진·이기석·백승우,…",
+  "metrics": {},
+  "scores": {
+    "hot": 8,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

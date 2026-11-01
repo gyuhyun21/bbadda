@@ -1,0 +1,22 @@
+{
+  "id": "news-6fdb9fb0",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "마이데일리",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBxZjQ0TVYtNm9WU3JuRHQ5cDBhY011ZG9TS2s5bXBsdFJRTTBHaDRyQ1d4SGl4cjZGMnpTZldLTFRQeVpOY2k2WUhPOXAxcjU1M2xPcVR6X3p4NDRoREhBeA?oc=5",
+  "title": "'마법사 나와라!' 삼성 '패승승패승' 이걸 이기네, 부상+날씨 연속 '억까' 어떻게 이겨냈나…다음 스텝은 KS, 마지막 가을 여정 'VAMOS' [MD대구 PO5]",
+  "published_at": "2026-11-01T07:40:39.000Z",
+  "collected_at": "2026-11-01T09:38:27.566Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 80
+  },
+  "sentiment": "negative"
+}

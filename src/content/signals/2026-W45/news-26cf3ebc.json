@@ -1,0 +1,22 @@
+{
+  "id": "news-26cf3ebc",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "대구MBC",
+  "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE56WThmYmdpR1dKMWE2Rnd5TG5uczNqVzJUU2hVTUhhZ1hCQVJ3emljSHk2Ump3RGZTc0RhcjRVYUYwWk5LbnVja242aUE?oc=5",
+  "title": "'후라도 호투·1,2번 타자 맹활약' 2년 만에 한국시리즈행 삼성라이온즈…초반 집중력, 승부 갈랐다",
+  "published_at": "2026-11-01T07:26:23.000Z",
+  "collected_at": "2026-11-01T09:38:27.566Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

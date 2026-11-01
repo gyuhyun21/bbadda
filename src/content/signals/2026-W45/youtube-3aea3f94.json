@@ -1,0 +1,27 @@
+{
+  "id": "youtube-3aea3f94",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "kt wiz - 위즈TV",
+  "url": "https://www.youtube.com/watch?v=y054H8lltTU",
+  "title": "𝟐𝟎𝟐𝟔 한국시리즈 𝐓𝐞𝐚𝐬𝐞𝐫 #𝟏 _ 𝐁𝐄𝐆𝐈𝐍𝐍𝐈𝐍𝐆",
+  "published_at": "2026-11-01T09:00:41Z",
+  "collected_at": "2026-11-01T09:38:27.566Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 3684,
+    "likes": 575,
+    "comments": 99
+  },
+  "scores": {
+    "hot": 86,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

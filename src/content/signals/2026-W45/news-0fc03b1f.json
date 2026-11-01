@@ -1,0 +1,22 @@
+{
+  "id": "news-0fc03b1f",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "news",
+  "source_name": "무예신문",
+  "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFB4YlhIdGhISFdZeTBmaHNSVlkwOHFGNVl4LW5lLUJDWnhmM05KZWVfQnpOVk9FWE9ucndVRmJXZw?oc=5",
+  "title": "한화 이글스 노시환, 307억 뒤로 하고 메이저리그 노크",
+  "published_at": "2026-11-01T08:35:00.000Z",
+  "collected_at": "2026-11-01T09:38:27.566Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

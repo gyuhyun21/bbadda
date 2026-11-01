@@ -1,0 +1,26 @@
+{
+  "id": "youtube-b71403c6",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "SSSSSiLLLLL",
+  "url": "https://www.youtube.com/watch?v=OqgpxQceIIk",
+  "title": "261101 KIA타이거즈 2026 마지막 경기 | 플레이오프 5차전",
+  "published_at": "2026-11-01T08:42:55Z",
+  "collected_at": "2026-11-01T09:38:27.566Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 603,
+    "likes": 32,
+    "comments": 8
+  },
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

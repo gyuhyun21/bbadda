@@ -1,0 +1,29 @@
+{
+  "id": "news-0c534ba6",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "announcement": true,
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5JeUdmQnhFTVlIMVBWSTF4NXhhM2RXQnBwNjc1VWthUWVqQ2ZQNkkyWW9UdXRTQ3gzS0N5cXBFSkdEc0VDdTg3Wk04NWQzZ25Gd054bVNTRUkwUmk1Wm02SVRYeUU5d2hSY0HSAW9BVV95cUxNVHQtM0xobUFGMzNVRWpXdThCNzUtNzJOcUszU29qTm9HZG51S1VMSDA2ejVjcHJWcGdQMDhUbHRPd2RXVEFvN0dCY0FvNkk3WVF3cTJoanEzZHlQVndaUGdfaXFPRFlzTFNRUHpVTHM?oc=5",
+  "title": "[공식발표] ‘삼성과 KS’ 1위팀 결단 내렸다! 승률 .870 무적의 유니폼 꺼내든다…강철매직 “통합우승 기쁨 안겨드릴 것”",
+  "published_at": "2026-11-01T08:07:00.000Z",
+  "collected_at": "2026-11-01T09:38:27.566Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 83,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbFdIblJYQXlDazlUWXRqMWx1blBHZThyVTRiODViMEVjZ1lEelRiRE4xZ0Q0dC05QUFrNXlvemdxdWg1bUpqZ3JVRUhOLUVxVHk4anFQbE95Q0h3eE9VYXVzT293MHVKdFpneHNiYzU3V3RtUzRBRFNNeXJ4Snpsai1RMNIBlwFBVV95cUxPVFRwdUxKT1NkbWp3UkpVSHR6SmZxSG5SUXJpTkpGTDloVUFueXJ2bHJWWDdidk9VOHpwdDRmZVdXSjQwMG5rVk00MENTOTBWV3ljNU5tWkpXQkxfQ2ZiRUZoUFVsbXN3LXo3NlBKeE84eHJTMjE4WkppS2xWRWlxNUE3RDZjQmNJbkx6VE95RTh1emxZbUt3?oc=5"
+    }
+  ]
+}

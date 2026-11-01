@@ -1,0 +1,27 @@
+{
+  "id": "youtube-58f78c00",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "DKTV Daniel",
+  "url": "https://www.youtube.com/watch?v=enUbjrk1gFQ",
+  "title": "\"수원행 버스!\" 운명의 5차전 KIA 타이거즈 vs 삼성 라이온즈 | 김도영 2번, 한준수 지타 | 6번 김영웅, 7번 류지혁 | 플레이오프 5차전 상상 입중계",
+  "published_at": "2026-11-01T09:05:57Z",
+  "collected_at": "2026-11-01T09:38:27.566Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 18826,
+    "likes": 182,
+    "comments": 14
+  },
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

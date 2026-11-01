@@ -1,0 +1,23 @@
+{
+  "id": "news-a4d18f05",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "뉴시스",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1YSE8wMGhhMk96bmFOV3lxcERSS0xyVWJBQl9zTGd4OTVvTHBSTFo2NFlzR3RiT3Z2RXZ4TU5nbk9Qd09MLXlSeEh0YklVa2hNSlVEVW1EQ3JhWW9QOUp0ZNIBeEFVX3lxTE9IckZwUGxkaWxYbzk3X0RNOXFJUUxVT3NjX05SdXpoQkRfZk5YN1hmdjhrNUpoWU5sSHZFUDd0ZXRGdDJEdXFUX2FnWDR6ZUdhczZxVVo3SXE3SjRXQzJZUEFYQTItd2Nydy16ZUJYbGNJWHRJMmFDTw?oc=5",
+  "title": "가을 여정 멈췄지만…'하위권' 평가 뒤집은 KIA, '저력' 보여줬다[PO]",
+  "published_at": "2026-11-01T07:57:49.000Z",
+  "collected_at": "2026-11-01T09:38:27.566Z",
+  "summary_ko": "뉴시스는 가을 여정을 멈춘 KIA가 하위권 평가를 뒤집고 저력을 보여줬다고 평가했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "하위권 평가 뒤집은 KIA"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "community-0ccd2c49",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "더쿠",
+  "url": "https://theqoo.net/kbaseball?page=16",
+  "title": "국내야구",
+  "published_at": "2026-10-31T23:38:27.566Z",
+  "collected_at": "2026-11-01T09:38:27.566Z",
+  "summary_ko": "",
+  "excerpt": "... 기아) 기아타이거즈 너무 좋다; 16:56; 조회 20; 잡담. 기아) 10월 내내 도파민 ... 기아)…",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

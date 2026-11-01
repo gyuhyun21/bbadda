@@ -1,0 +1,28 @@
+{
+  "id": "youtube-db244714",
+  "issue": "2026-W45",
+  "module": "league",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "team": "samsung",
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=uZwpJkvGDMk",
+  "title": "삼성 원태인이 한국시리즈를 향한 아웃 카운트 3개를 만들어냅니다! | PO5_KIA vs 삼성 | 11.1 | 크보모먼트 | KBO 야구 하이라이트",
+  "published_at": "2026-11-01T08:11:02Z",
+  "collected_at": "2026-11-01T09:38:27.566Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 5204,
+    "likes": 893,
+    "comments": 206
+  },
+  "scores": {
+    "hot": 88,
+    "relevance": 80
+  },
+  "sentiment": "neutral"
+}

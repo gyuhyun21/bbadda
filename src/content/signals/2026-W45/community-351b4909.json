@@ -1,0 +1,23 @@
+{
+  "id": "community-351b4909",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "엠엘비파크",
+  "url": "https://mlbpark.donga.com/mp/b.php?id=202610310119786370&p=91&b=kbotown&m=view&select=spf&query=KIA&site=donga.com",
+  "title": "KIA 타이거즈 김도영 10월 월간성적",
+  "published_at": "2026-10-30T15:00:00.000Z",
+  "collected_at": "2026-11-01T09:38:27.566Z",
+  "summary_ko": "",
+  "excerpt": "... 정규시즌 10경기 포스트시즌 7경기17경기 77타석 62타수 19안타 8홈런 24득점 3…",
+  "metrics": {},
+  "scores": {
+    "hot": 53,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

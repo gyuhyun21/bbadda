@@ -1,0 +1,26 @@
+{
+  "id": "youtube-6487cdd1",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "어항",
+  "url": "https://www.youtube.com/watch?v=EV_BQMzp5Cs",
+  "title": "사장님 울어요?     #스시어항 #광주초밥 #야구 #기아타이거즈 #기아",
+  "published_at": "2026-11-01T09:09:13Z",
+  "collected_at": "2026-11-01T09:38:27.566Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1938,
+    "likes": 55,
+    "comments": 7
+  },
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

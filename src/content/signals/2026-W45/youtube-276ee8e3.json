@@ -1,0 +1,26 @@
+{
+  "id": "youtube-276ee8e3",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "source_name": "Roberto SON",
+  "url": "https://www.youtube.com/watch?v=5muYIrV3dqM",
+  "title": "한화 노시환MLB 포스팅 신청!#한화이글스 #노시환 #노시환 포스팅 #한화 #프로야구",
+  "published_at": "2026-11-01T08:00:25Z",
+  "collected_at": "2026-11-01T09:38:27.566Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 884,
+    "likes": 14,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 51,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

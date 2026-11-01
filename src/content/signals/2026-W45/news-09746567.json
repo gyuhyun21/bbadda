@@ -1,0 +1,29 @@
+{
+  "id": "news-09746567",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8xcnFucUwyVkZSLVJYdTRrSU9MSnBMU1c0eGxIVGpfQUhfTmFGcWpnRXRBYWVwMHN3bHFPdW11Z0lqUUZOU2hxcHdTc0RoS1NRbm5vMGtWUzlDSGM0aVhNRHB5dXhKNTZhcDZUclFtQdIBb0FVX3lxTE8xcnFucUwyVkZSLVJYdTRrSU9MSnBMU1c0eGxIVGpfQUhfTmFGcWpnRXRBYWVwMHN3bHFPdW11Z0lqUUZOU2hxcHdTc0RoS1NRbm5vMGtWUzlDSGM0aVhNRHB5dXhKNTZhcDZUclFtQQ?oc=5",
+  "title": "“삼성은 홈런타자 많고, KIA는 45홈런 타자 있고…” 1위팀 투수 솔직 속내 공개! PO 끝장승부에도 왜 삼성-KIA 다 경계할까",
+  "published_at": "2026-11-01T03:43:00.000Z",
+  "collected_at": "2026-11-01T09:38:27.566Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 82,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5yZ0ZNM1gtZnNnUmRrLUFMZzBlWFVHaU9udXNfX3d5NE1pRFUzSEZpTDhvdVBocnM5QUctRUU1bUhaaWR2ZW11Tmg2dU13U19LZm5nNQ?oc=5"
+    }
+  ]
+}

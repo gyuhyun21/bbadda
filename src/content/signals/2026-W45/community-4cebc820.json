@@ -1,0 +1,45 @@
+{
+  "id": "community-4cebc820",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 산다는 거 다 그런게 아니겠니..",
+  "url": "https://100keyword.tistory.com/4727",
+  "title": "삼성, KIA 꺾고 2년 만에 한국시리즈 진출",
+  "published_at": "2026-11-01T17:31:38.000+09:00",
+  "collected_at": "2026-11-01T09:38:27.566Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 100,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "일간스포츠",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE91bXB2MVVBNkEwd2dRLS1UM1cwZEpYSVhSVE5IdUszMHA3NC1vdmdzTW9pUWdtbnoxbUhHMldqdkYzRlhSb1FpWkFrcy1wQnk1NWVHVlRHcnJLaFk?oc=5"
+    },
+    {
+      "source_name": "m.mksports.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9jNWZMN3VyY0E3WDdpY1BnenJHeEJuN1FHcWNsSDZMOUxIRF9UN1BhNHhNUDdxY2dHaXBBZkQxQ1V0ZHE0OGdPTUJMQWplRnFKdGpUSmVZRWJ6VG5ldG1zbmJWVFc?oc=5"
+    },
+    {
+      "source_name": "매일신문",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9HRWJEam5FdkJFNG0wTDZPNXBzYWpfbFlvcVVOY0ZtQUtzc1J0TGNEQmNhaE1lSXNoV0U1VTlSaVRBbHFNQUtXRFhOR0x0akZwVkFZNTdfVk52c1AwVUVTd3BR?oc=5"
+    },
+    {
+      "source_name": "문화일보",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5CX29JMjZZc2x5TmFxdUdFU3piOFcxMmVWb0RwQk1sMDFvRDQ1YndKOWhUNm5LdnZoNW9MUUMtUkk5cHpDSHBxMGpyRzVlN0Vr?oc=5"
+    },
+    {
+      "source_name": "한국일보",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBtMDR3VzBGU0E5bURBdUMwYkxoVDlWaDRlZEh1c0diYlloajU3WFA2Q0EtcEpfOUR5a1FBWldjSE1XWFhRVG1TcWowLVRDR0s3QnZXZTFoQjYtRkZ5aTRuYzQzb3dhS2dlOU4wTzRR0gFzQVVfeXFMTjRqQ2NGRk5DZVdPNmw1OTk2ZWlYZVR3VEVRWVU5UG8tUUhkbzFxb1J4WlB5UXpLR1B3TVlmb3FfR2kxeHRqMDVQQl9mVENoa1R1eEdlSkNlVnQ0OWQyY3VaZFFsVXFoWU9hMGRTakpXZjJqMA?oc=5"
+    }
+  ]
+}

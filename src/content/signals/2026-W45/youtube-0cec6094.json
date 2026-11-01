@@ -1,0 +1,29 @@
+{
+  "id": "youtube-0cec6094",
+  "issue": "2026-W45",
+  "module": "league",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "team": "samsung",
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=yteNPPg9tCU",
+  "title": "6회 말에도 삼성 김지찬과 박승규의 연속 적시타가 또 만들어집니다! | PO5_KIA vs 삼성 | 11.1 | 크보모먼트 | KBO 야구 하이라이트",
+  "published_at": "2026-11-01T08:10:42Z",
+  "collected_at": "2026-11-01T09:38:27.566Z",
+  "summary_ko": "KBO 공식 채널이 PO 5차전 6회말 삼성 김지찬과 박승규의 연속 적시타 장면을 올렸다.",
+  "metrics": {
+    "views": 4910,
+    "likes": 220,
+    "comments": 31
+  },
+  "scores": {
+    "hot": 87,
+    "relevance": 80
+  },
+  "sentiment": "neutral",
+  "brief_ko": "6회말 김지찬·박승규 연속 적시타"
+}

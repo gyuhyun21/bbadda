@@ -1,0 +1,24 @@
+{
+  "id": "news-838bcf68",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5RUmszNjVuSGM3azVETU82OWxCRUtXa0RCS0diZFJpQVVRM0U0WWZPZFBXX09UYkJoT0kxbGZxLURJWEp5RnZ5WEVhUnRiZlZNbG5MNWxIcDNvNF9TZ3V4RG9EVEgtekVqNFZVazUxSdIBb0FVX3lxTE5RUmszNjVuSGM3azVETU82OWxCRUtXa0RCS0diZFJpQVVRM0U0WWZPZFBXX09UYkJoT0kxbGZxLURJWEp5RnZ5WEVhUnRiZlZNbG5MNWxIcDNvNF9TZ3V4RG9EVEgtekVqNFZVazUxSQ?oc=5",
+  "title": "[포토] '1회말 선두타자 안타' 김지찬",
+  "published_at": "2026-11-01T05:35:55.000Z",
+  "collected_at": "2026-11-01T09:38:27.566Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 83,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

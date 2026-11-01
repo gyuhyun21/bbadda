@@ -1,0 +1,24 @@
+{
+  "id": "community-4a84bb0c",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 멍냥이의 소식",
+  "url": "https://blog.naver.com/specialmel/224460887051",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/1gmpIa9FSqn",
+  "title": "5개 구단 서현숙 치어리더 은퇴설, 본인이 꺼낸 답은 정반대였다",
+  "published_at": "2026-11-01T10:17:00.000+09:00",
+  "collected_at": "2026-11-01T09:38:27.566Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

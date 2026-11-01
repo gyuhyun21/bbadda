@@ -1,0 +1,23 @@
+{
+  "id": "community-1e2da83a",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 부산 베이스볼 클럽",
+  "url": "https://blog.naver.com/jinbk2480/224460431900",
+  "title": "부산북구리틀야구단 캡틴 “김유준”선수 대표팀 발탁! 일본출국💥",
+  "published_at": "2026-10-31T21:16:00.000+09:00",
+  "collected_at": "2026-11-01T09:38:27.566Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 60,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "community-fdfcf250",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung",
+    "kt"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 소소한 일상속 행복 찾기",
+  "url": "https://aksimisun.tistory.com/139",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/2cgd2UaUWGa",
+  "title": "기아 패배로 끝난 가을야구, 삼성 KT 한국시리즈 일정·시간·장소 총정리",
+  "published_at": "2026-11-01T18:33:08.000+09:00",
+  "collected_at": "2026-11-01T09:38:27.566Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}
