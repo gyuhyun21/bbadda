@@ -1,0 +1,32 @@
+{
+  "id": "news-017457cb",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "미주중앙일보",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5QUWpJV3M2S2Z0QmtsWklCZHhza1YzWVBLQ3ByNjlQQy0tMGJsaE8xOXI5N3lOcEc0MXoxbW9JVU5EUEw4bmotYkVlZk4wMlFSbU5VRllZd0dGSURZamhLWHBR?oc=5",
+  "title": "‘승리 기운 이어간다’ KIA, 4차전과 동일한 선발 라인업…김도영, 2G 연속 2번 3루수 출격 [PO5]",
+  "published_at": "2026-11-01T03:21:00.000Z",
+  "collected_at": "2026-11-01T03:38:27.747Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 92,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOOVlfMTkxWjUzWHNzdkppRzNzb0wtc1lfekc3akwtTTAtczlpWmVvRE9hZ0Q4TjFiWUNxa042UDRKajVfLUFZbDIzejJ2YzZOY0NrWmloaHBFVGJoSldqNjdZa0JUenBtY2NkY09lYkhFSENLUktDTnhmOGp5dDc5RWJSUdIBlwFBVV95cUxNR2s1bFozQ09KdUJaVmlkUFJ3M2hKSHhsVnVkVkxaZlMyX0ZIVlhsYzgxbnVMTWVGTnprYmtiVW9nVXB1aDhxSnVrVXJTWjlhTjRuVFUyQ3lMNW9EQVhJNUpnWXhBOFYza25mMmdRa2hXUnFwUkpYMkx2VHdxTU5YT1BJTjVwbERHcnVPMUhaT252VU5fZV9F?oc=5"
+    },
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNT184R2x3VXkwOFlkbHVoeEQyem9YOEJjYWpwRkdld0VBaC1sZmlHcF9CaTd0TkF5Mnd0NEZoUnA1eWFhbF9TMVRiWGh3dlpSUC1Ba3dGSVVmRUw1ZXFPWHpTSGVmVFQ3a3Bxb2VOWTMwMFViLUVwVnZBdWZDTEIwdjJ1Yw?oc=5"
+    }
+  ]
+}

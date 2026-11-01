@@ -1,0 +1,23 @@
+{
+  "id": "news-a4e0a60a",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠경향",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9hS3R6dVYyUlhxSXRQUXNlS3VjM1Q1WnpFWDJjREVyaVdIOXF3eDZjTlc0b0VxYmRnX2Z1R2pIOWlwM0VDWkZmR1IzYmszRGhvLVdMVUxUZ0xGZ3VMRUh2ZkxJb9IBY0FVX3lxTE9hS3R6dVYyUlhxSXRQUXNlS3VjM1Q1WnpFWDJjREVyaVdIOXF3eDZjTlc0b0VxYmRnX2Z1R2pIOWlwM0VDWkZmR1IzYmszRGhvLVdMVUxUZ0xGZ3VMRUh2ZkxJbw?oc=5",
+  "title": "노시환 MLB 도전…현지 매체 “KBO 최고의 강타자, 삼진 많은 건 우려”",
+  "published_at": "2026-11-01T00:53:00.000Z",
+  "collected_at": "2026-11-01T03:38:27.747Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

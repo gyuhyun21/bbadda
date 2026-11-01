@@ -1,0 +1,26 @@
+{
+  "id": "youtube-8e2e2c56",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "youtube",
+  "source_name": "라이브TV",
+  "url": "https://www.youtube.com/watch?v=WAx6clVRiu8",
+  "title": "어릴때랑 똑같네 #홍창기 #신민재 #박해민 #lg트윈스",
+  "published_at": "2026-11-01T02:49:18Z",
+  "collected_at": "2026-11-01T03:38:27.747Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 224,
+    "likes": 1,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 31,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

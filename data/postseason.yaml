@@ -187,8 +187,12 @@ rounds:
         date: 2026-11-01
         venue: 대구
         starters: { kia: 올러, samsung: 후라도 } # 예고 선발(톱스타뉴스 '삼성 후라도 vs KIA 올러, 대구서 KS행 최종전 선발 재격돌', 2026-10-30)
+        starter_notes: { kia: "PO 앞선 대구 등판 1이닝 8실점·4.2이닝 5실점" } # 매일경제 '1이닝 8실점→4.2이닝 5실점…KIA 올러, 대구 악몽 떨쳐내며', 2026-10-31
+        ig:
+          pre: { hook: "KS행 티켓은\n오늘 한 팀만", sub: "KIA 올러 vs 삼성 후라도, 대구 오후 2시 끝장전" }
         facts:
           - "PO 5차전 승리 팀 KS 진출"
+          - "삼성, PO 4경기 7실책(마이데일리)"
         sources:
           - "https://news.google.com/rss/articles/CBMickFVX3lxTFBWUklPbGpkeEJFR1lfQkZlRWRVR1RqWks3QXBVUUFiY0VlckRkZk4tR09zd0l0NzZuUVRDeEI3OVdPY3BMbnZGaFFoal9jWE1RWGRGcW1CRkRQUHVkYWtDT0FhSWE3UW5tTVRFQ3RDN2dwUQ?oc=5" # 5차전 선발 후라도 vs 올러
   - id: ks # 일정 하루씩 순연(한겨레 '한국시리즈 일정 하루씩 순연…1차전은 11월3일 개최', 2026-10-30: https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBJWF9kV3Rmb1U1THRwRmtnT0hPSzVDU1BYOGk2YXllNXJ4Rkk4bWE2Y1B1RU8xM3AwRkdnRW5jR1pBektEbEZ4Uno2ekwzZmZZaWhkUEh4U0E3ang0Z3hWQS0ySjdJRVE?oc=5)

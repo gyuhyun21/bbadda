@@ -1,0 +1,26 @@
+{
+  "id": "youtube-f2ee95be",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "youtube",
+  "source_name": "역대급랭킹",
+  "url": "https://www.youtube.com/watch?v=WQn1vVbh19o",
+  "title": "9회말 사직이 터졌다… 롯데 끝내기 모음집 랭킹 TOP5 #shorts",
+  "published_at": "2026-11-01T02:10:26Z",
+  "collected_at": "2026-11-01T03:38:27.747Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 228,
+    "likes": 1,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 31,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

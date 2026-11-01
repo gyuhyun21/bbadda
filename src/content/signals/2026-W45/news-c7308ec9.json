@@ -1,0 +1,29 @@
+{
+  "id": "news-c7308ec9",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBPelhYSHEtZE1rdFJ0Q3lxa3dYTUUyY1RwN3VEU0xFM1VWRWY0TjVJU0haU2dXTEJ3VlN2QmZIcXFXT0hka1JjQlRfenhfT2lFT0xUMzFLbkV2cmxZbVNsWWI0NGk4ai11M0lvQUh4TdIBb0FVX3lxTFBPelhYSHEtZE1rdFJ0Q3lxa3dYTUUyY1RwN3VEU0xFM1VWRWY0TjVJU0haU2dXTEJ3VlN2QmZIcXFXT0hka1JjQlRfenhfT2lFT0xUMzFLbkV2cmxZbVNsWWI0NGk4ai11M0lvQUh4TQ?oc=5",
+  "title": "‘4차전 뼈아픈 실책’ 김영웅, 밝은 표정으로 가장 먼저 그라운드 나왔다…운명의 5차전 6번 3루수 선발 출장 [PO5]",
+  "published_at": "2026-11-01T02:23:00.000Z",
+  "collected_at": "2026-11-01T03:38:27.747Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "negative",
+  "also_in": [
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMm9KYXVGb25JTFNSaC1OdkpJSVlFXzBNbDJxUzRiVjBnS1VTU2l3YkUzdDMtcHZlZlRjZ0ZGY3IzRVF2czdocGNHUXdqWFJyWlN0X3hsdGpTOHBXd2ZFYjY0ZkZTS0JhNHFWY3FXdFdMUFBodm1sMzlYNHd2S3pjWllqQQ?oc=5"
+    }
+  ]
+}

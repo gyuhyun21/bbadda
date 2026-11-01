@@ -1,0 +1,23 @@
+{
+  "id": "news-c085c4fa",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "조선일보",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUWJ6enhwS0N5Sm5YbUpkSXY1QUhfOE5LajZjaVZZTW9VaHVSOHlrNkl2RUdqQmRaT0VKTnlsdWpvRFk0Wll6dnpHZXltYWlCT0NISmJPb3hySHUxSGwtVlVEX3d2RUxoMzhCSElnTjd2enR3V2ZYRHdWZTBYVFVKUE9zWQ?oc=5",
+  "title": "\"노시환 메이저리그 경쟁 가능해\" 파격 선언! 그런데 307억보다 적은 계약 예상, 왜?",
+  "published_at": "2026-11-01T01:34:33.000Z",
+  "collected_at": "2026-11-01T03:38:27.747Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "news-ebc76f5d",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "SPOTV NEWS",
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1zRTBaWXEzWURDMXdRLTJ6NGtmNG9YNzFoN0xMZEprTDBabENrSjUxdEFmUVdvUDByaTF3TDVNR2Q5QnBJd3Q3Q20tWW1wN2huMTJfWE9qWHRFN0NvRFI3RktUdWhIdVVrazNtazMzcGM?oc=5",
+  "title": "[단독] 노시환 ML 진출 공식화! 근거 없는 도전? 이미 4~5구단 적극적 관심→직장폐쇄 전 승부 본다",
+  "published_at": "2026-11-01T01:20:00.000Z",
+  "collected_at": "2026-11-01T03:38:27.747Z",
+  "summary_ko": "SPOTV NEWS는 노시환의 MLB 진출이 공식화됐다며 이미 4~5개 구단이 적극적 관심을 보인다고 단독 보도했다. 직장폐쇄 전 승부를 본다는 내용이다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "노시환 ML, 4~5구단 관심",
+  "hook_ko": "노시환 ML, 이미 4~5구단 관심"
+}

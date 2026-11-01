@@ -1,0 +1,23 @@
+{
+  "id": "news-ed56d5eb",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8zQ3ZkOHJSX0l0UmNvMWtDQ3ZwbUhVcHJLY2pnUkVXazRIS21pTW9OVjNjZ05veXpWeUdoLUhlUGprNTZHamRrdXFhdHpfV0taUGlVMmlzUkxZTFJRU0NMd0tGaTdMWmJQYlU1WWdlTy10V0Z3V1hES213YXNLdw?oc=5",
+  "title": "\"이겨야 할 경기, 3루수 고민 전혀 안 했다\" 실책 후 눈물 흘린 가을영웅, 사령탑의 믿음은 흔들림이 없다[PO5 현장]",
+  "published_at": "2026-11-01T02:42:33.000Z",
+  "collected_at": "2026-11-01T03:38:27.747Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "community-a30f214a",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 진성님의블로그",
+  "url": "https://blog.naver.com/jinsungcall/224460938968",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/KBjrBo8YZ68",
+  "title": "\"오늘 어디서 보지?\" KIA 삼성 2승 2패 끝장전.. 플레이오프 5차전 중계 총정리",
+  "published_at": "2026-11-01T11:25:00.000+09:00",
+  "collected_at": "2026-11-01T03:38:27.747Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

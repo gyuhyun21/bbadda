@@ -1,0 +1,23 @@
+{
+  "id": "community-e971a678",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "다음카페 노정희수필교실",
+  "url": "https://cafe.daum.net/circle-essay/r4OD/214",
+  "title": "값진 승리",
+  "published_at": "2026-11-01T11:58:54.000+09:00",
+  "collected_at": "2026-11-01T03:38:27.747Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

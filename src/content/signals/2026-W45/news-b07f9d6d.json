@@ -1,0 +1,23 @@
+{
+  "id": "news-b07f9d6d",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "SPOTV NEWS",
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB5eUhvd2FLdV9tZ1o2SURrcS1IZTN4VjBBTTZkYVhOYThsV0REcVV5OC1PcEkzNjdHVTdka1NOaVZ3enB2bGZMRDc3WmF3YUROeDJqeVo2b0hyRHFlMGdudUpycUtJQ3FnU1ZjTEpTNW8?oc=5",
+  "title": "이동욱 있는데, 조원우에 허문회까지…\"힘든 결정 하셨다\" 1군에 사령탑만 무려 세 명, 그래서 더 고마워했다",
+  "published_at": "2026-10-31T22:20:00.000Z",
+  "collected_at": "2026-11-01T03:38:27.747Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "community-8070d190",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "다음카페 樂soccer",
+  "url": "https://cafe.daum.net/rocksoccer/ADuT/371828",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/B0eo2wxnszh",
+  "title": "삼성라이온즈 5차전 라인업",
+  "published_at": "2026-11-01T11:31:49.000+09:00",
+  "collected_at": "2026-11-01T03:38:27.747Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

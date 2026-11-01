@@ -1,0 +1,23 @@
+{
+  "id": "news-2c7a3785",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "뉴스엔",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA5VDJDX2stbFhhZDRGckVHQlZ1YTVXb25YQjFPRHo1M2V0VXUxWVlZRmcwakJnaS1FT3VHN1dYbjZXX1YxRTExNGFKOFA1RnRhUXdOYzRDT01YQkZZU2lialdDWVNsS0w4?oc=5",
+  "title": "‘끝장승부’ PO 5차전 인터뷰 가지는 박진만 감독 [포토엔HD]",
+  "published_at": "2026-11-01T02:41:18.000Z",
+  "collected_at": "2026-11-01T03:38:27.747Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

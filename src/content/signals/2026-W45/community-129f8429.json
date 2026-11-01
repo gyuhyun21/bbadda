@@ -1,0 +1,23 @@
+{
+  "id": "community-129f8429",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 트렌드한 소식",
+  "url": "https://blog.naver.com/trendsosic/224460890962",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/KLdb3YZ2sL1",
+  "title": "LG 트윈스 코치 7명 이탈, 염경엽 감독 잔류한 진짜 이유 모르면 손해",
+  "published_at": "2026-11-01T10:22:00.000+09:00",
+  "collected_at": "2026-11-01T03:38:27.747Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

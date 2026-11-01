@@ -1,0 +1,24 @@
+{
+  "id": "community-b87f5de3",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 오늘의 그라운드",
+  "url": "https://blog.naver.com/grground/224460845519",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/2UEqP5AkEM5",
+  "title": "“한국시리즈 11월 3일 시작이라고?” 2026 한국시리즈 일정·대진·경기장 총정리",
+  "published_at": "2026-11-01T09:57:00.000+09:00",
+  "collected_at": "2026-11-01T03:38:27.747Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

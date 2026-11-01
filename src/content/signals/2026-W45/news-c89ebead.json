@@ -1,0 +1,22 @@
+{
+  "id": "news-c89ebead",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "news",
+  "source_name": "마이데일리",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBGTklOeE9xNEViNmRZclBpWmw4c0djY2RhVmRfUmhzQVBtMThTUEl0NV9KdDFYOXB2bkx2V0xlbzV3Q1JsaTBsZV9FOGlWUWl3T2xRNk1JYnJORUtSMUJQdg?oc=5",
+  "title": "박진만과 꽃범호, 오늘밤 누가 후회 안 할까…변칙이 정공법이 된 시리즈, 임창용은 이미 KS 우승 KT 전망",
+  "published_at": "2026-10-31T23:10:00.000Z",
+  "collected_at": "2026-11-01T03:38:27.747Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

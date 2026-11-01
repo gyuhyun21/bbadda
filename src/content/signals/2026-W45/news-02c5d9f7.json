@@ -1,0 +1,23 @@
+{
+  "id": "news-02c5d9f7",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "매일경제",
+  "url": "https://m.mk.co.kr/amp/12192506",
+  "title": "1이닝 8실점→4.2이닝 5실점…KIA 올러, 대구 악몽 떨쳐내며 호랑이 군단 KS로 이끌까 [PO5]",
+  "published_at": "2026-10-31T22:40:00.000Z",
+  "collected_at": "2026-11-01T03:38:27.747Z",
+  "summary_ko": "매일경제는 KIA 올러가 앞선 대구 등판에서 1이닝 8실점, 4.2이닝 5실점을 기록했다고 짚었다. 5차전 선발로 KS행을 이끌 수 있을지 주목한다.",
+  "metrics": {},
+  "scores": {
+    "hot": 90,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "올러, 대구 악몽 털까"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "news-ad23d725",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "마이데일리",
+  "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1VUUZUNm12X2JFX09XckV5dEV1YjhhUWhmaUFlak1SbnJYbHJDcGdob2lBb3F6NnFldkhBVzlMTEN2TU1pOURWUmYtSnBUeDZWb1F6M2s3emdKZTZaRk5oanFYWlN2UQ?oc=5",
+  "title": "“(김영웅)울긴 왜 울어, 그 타구는 못 잡는 타구” 류지혁의 해석…김도영 타구는 외야로 빠져나갈 운명이었다[MD대구 PO5]",
+  "published_at": "2026-11-01T02:50:04.000Z",
+  "collected_at": "2026-11-01T03:38:27.747Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

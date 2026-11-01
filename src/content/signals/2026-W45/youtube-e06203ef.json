@@ -1,0 +1,27 @@
+{
+  "id": "youtube-e06203ef",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "source_name": "이슈한입",
+  "url": "https://www.youtube.com/watch?v=EC6O4XzFTWE",
+  "title": "한화 노시환, MLB 포스팅 요청…30개 구단과 협상 돌입",
+  "published_at": "2026-11-01T01:56:25Z",
+  "collected_at": "2026-11-01T03:38:27.747Z",
+  "summary_ko": "한 채널은 노시환이 MLB 포스팅을 요청해 30개 구단과 협상에 들어간다고 전했다.",
+  "metrics": {
+    "views": 716,
+    "likes": 1,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 34,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "노시환, 30개 구단 협상"
+}

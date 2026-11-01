@@ -1,0 +1,23 @@
+{
+  "id": "news-51ba32c9",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "SPOTV NEWS",
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE81ckdGVXpEUHZkSXFBdU5ZT3JMX3R4MkdJVlR2UEs5RUd4T3MxcWFGZjFvNVo2dmMzV3Q3NmVqekcxc2cwc2lrSS1ERl9rd2NTR3ZtOTNOS25iRmpJZDh6MXVTNVBPZ1R5cmRnTlZrRlY?oc=5",
+  "title": "[포토S] 박진만 감독, '이기고 수원 가야죠'",
+  "published_at": "2026-11-01T02:37:38.000Z",
+  "collected_at": "2026-11-01T03:38:27.747Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

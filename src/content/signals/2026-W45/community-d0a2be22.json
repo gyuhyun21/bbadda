@@ -1,0 +1,24 @@
+{
+  "id": "community-d0a2be22",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 인플레이",
+  "url": "https://blog.naver.com/pangya1212/224460939393",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/EKTu1VeXt8I",
+  "title": "삼성 KIA 플레이오프 5차전 날씨 변수, 대구 기온 급락과 비 예보 경기 영향 분석",
+  "published_at": "2026-11-01T12:00:00.000+09:00",
+  "collected_at": "2026-11-01T03:38:27.747Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

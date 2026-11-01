@@ -1,0 +1,22 @@
+{
+  "id": "news-c70c25a5",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠경향",
+  "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9KVFFqUzcxdDdHQWJEZVMwVXBsOTdtUHR2WHZ6cjd4V1pEUHBiMmlmTEQ1Y1I0TXFwQnBQN2Jtd2pZbHJua0RHNEM0VUZFTjZBbFNxMXkzNHRMZ1ZvVXfSAWNBVV95cUxOZXhLRnloRlZDT3NnWUpxUzBfa2RnNm1taksxZU82TEpFZjZZTkhwNDVfaVBPNl9iNU5UOTNBeWpUTmRNcG9LdldIdVlHczhZOWkwSXVKaE0zZC1uVlFnQk9KUzA?oc=5",
+  "title": "이동욱 감독이 그리는 다음 시즌 롯데 외국인 구성은 “레이예스 재계약 당연…외국인 투수는”",
+  "published_at": "2026-11-01T00:20:00.000Z",
+  "collected_at": "2026-11-01T03:38:27.747Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

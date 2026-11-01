@@ -1,0 +1,23 @@
+{
+  "id": "news-aec4b693",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "KBS 뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5WRTFpZF9GbFVPSEc1cjMxXzk4NFhYdlV3b3laWF9XZnVPUDJ6YXRiSmFzT1ZQNmNFVFhocDF2VTloa1JjZjMxLXdQeUhGTE9mdE12bTNIcDJ6SWM?oc=5",
+  "title": "오늘 KS행 걸린 ‘삼성·KIA 끝장 승부!’…KBS 2TV 생중계!",
+  "published_at": "2026-10-31T15:03:55.000Z",
+  "collected_at": "2026-11-01T03:38:27.747Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 80
+  },
+  "sentiment": "neutral"
+}

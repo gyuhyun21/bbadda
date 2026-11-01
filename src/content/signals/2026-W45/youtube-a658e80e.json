@@ -1,0 +1,27 @@
+{
+  "id": "youtube-a658e80e",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "기아타이거즈 KIA TIGERS",
+  "url": "https://www.youtube.com/watch?v=tQxfKKP0AbA",
+  "title": "이제는 층을 넘나드는 경지에 이름;;; 챔필 3, 4, 5층 홀짝 응원 💛❤️",
+  "published_at": "2026-10-30T15:34:58Z",
+  "collected_at": "2026-11-01T03:38:27.747Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 172724,
+    "likes": 2771,
+    "comments": 149
+  },
+  "scores": {
+    "hot": 74,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

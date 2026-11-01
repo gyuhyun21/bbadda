@@ -1,0 +1,23 @@
+{
+  "id": "news-dd1f165b",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "한스경제",
+  "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE51OWd1WUJHQVo3WWlZWWVaOGVSbUI1V0dPeGZqSDBCWExlUEtLYl9IVzRMY29tQnptU21yQ1VEbHhReTFlS1FyaGJjUGpJajBoS2MxRnVDVVlkb3M1S2FqVV9oTE9ZalV6MkZn0gFvQVVfeXFMT2g4ZGx1bGZpekVJQWNvQVBwR0JPRTEwSDF2Z0RxM3hTempaOGtqLUF2cW1LaWZVRmFwLVYzb2RYLWRmTHhqWEFqVEFzTFpmT2E3ZXZFaHBJdndvSC1SMHYtQVVqdkFQR3QwVlhJREFV?oc=5",
+  "title": "배팅 케이지 7개 설치… 타격 보완 나선 김원형호",
+  "published_at": "2026-11-01T00:38:04.000Z",
+  "collected_at": "2026-11-01T03:38:27.747Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

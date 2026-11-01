@@ -1,0 +1,23 @@
+{
+  "id": "news-6eb8837e",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "마이데일리",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBMZVh5YU8zRHZBS2hwdlUxZVM5UWs0ZWM4cHVaOXhCWGJTNUdKRzdPRlI1bGR1ZUpYVnVLcHVaQ0RrN04tclJlbmY5Smh2cmZxVENaVllTYm4tMmxaYWhucQ?oc=5",
+  "title": "삼성 정신 차려! 4G 7실책 실화다→최소 실책 '수비 팀'이었는데…5차전 수비 중요성 말해 뭐 해, 게다가 선발이 후라도",
+  "published_at": "2026-11-01T00:41:00.000Z",
+  "collected_at": "2026-11-01T03:38:27.747Z",
+  "summary_ko": "마이데일리는 삼성이 PO 4경기에서 7개의 실책을 기록했다고 짚었다. 최소 실책의 수비 팀이었던 만큼 5차전 수비가 중요하다는 분석이다.",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "negative",
+  "brief_ko": "삼성 4경기 7실책"
+}

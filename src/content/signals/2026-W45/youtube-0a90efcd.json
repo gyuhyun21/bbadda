@@ -1,0 +1,24 @@
+{
+  "id": "youtube-0a90efcd",
+  "issue": "2026-W45",
+  "module": "league",
+  "teams": [],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=eLDBkW8u2tg",
+  "title": "많은 훈련으로 본인만의 타격 리듬을 찾아보세요🔎",
+  "published_at": "2026-11-01T02:17:04Z",
+  "collected_at": "2026-11-01T03:38:27.747Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 4882,
+    "likes": 16,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 45,
+    "relevance": 30
+  },
+  "sentiment": "neutral"
+}

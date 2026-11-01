@@ -1,0 +1,26 @@
+{
+  "id": "youtube-d750ccbe",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "youtube",
+  "source_name": "LUDØ",
+  "url": "https://www.youtube.com/watch?v=xUBamJnisJU",
+  "title": "2027' RE:IGNITE: LG Twins - 02.문보경—새로운 왕관(The Next Crown) #lgtwins #lg트윈스 #문보경",
+  "published_at": "2026-10-31T17:00:01Z",
+  "collected_at": "2026-11-01T03:38:27.747Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 3,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 7,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

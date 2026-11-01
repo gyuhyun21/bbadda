@@ -1,0 +1,24 @@
+{
+  "id": "news-f77899b3",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "뉴스1",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE81Q2NQWWVjQWo0eHRZY05mWE5jaWowSnRCSDQ5MkNGWDAxbkh4VUR6aThXcGtrN0IxNnc1R3RTa29QLV95TFlTT2g5ZDRndnJoVlRreklEc0tSaS12dzJZVUhubw?oc=5",
+  "title": "노시환 MLB 도전…美 매체 \"FA 시장 3루수 부족…가치 상승할 수도\"",
+  "published_at": "2026-11-01T00:59:16.000Z",
+  "collected_at": "2026-11-01T03:38:27.747Z",
+  "summary_ko": "뉴스1에 따르면 미국 매체는 이번 FA 시장에 3루수가 부족해 노시환의 가치가 오를 수 있다고 봤다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "미 매체 \"3루수 귀하다\""
+}

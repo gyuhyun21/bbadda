@@ -1,0 +1,23 @@
+{
+  "id": "community-aff47f05",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 Rookie 오지상",
+  "url": "https://nihongorugby.tistory.com/170",
+  "title": "2026 KBO 구단별 주전·백업 포수 비교",
+  "published_at": "2026-10-31T22:58:49.000+09:00",
+  "collected_at": "2026-11-01T03:38:27.747Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

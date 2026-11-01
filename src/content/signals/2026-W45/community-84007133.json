@@ -1,0 +1,24 @@
+{
+  "id": "community-84007133",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 Smart News Wiz",
+  "url": "https://blog.naver.com/smartwiiz/224460006309",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/55aAcCowfd7",
+  "title": "개막전부터 끝내기 만루포였다 MBC 청룡 이종도가 1982년 프로야구 첫 경기를 8대 7로 뒤집은 순간",
+  "published_at": "2026-11-01T05:50:00.000+09:00",
+  "collected_at": "2026-11-01T03:38:27.747Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-9a577774",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1XSEZRQVRMTW5wM29TOGpRMVdzSlhvdm4zTHZnQ0t4VGpiSlZJQ2h3OU92Mk13LWdTcS1NVkctLU95MHJSaVlfMkswX3U3eGRiZjV3bW1Kdkd0OU83NmVsNFdRZ3lVZmRpcUc1N0NEc0d3ZjdyQzdmSUhCMGJtQQ?oc=5",
+  "title": "'라팍' 하늘에 가득한 먹구름…강수확률은 적은데 왜이래?→'하루 밀리면 가을야구 판도 완전히 바뀐다' [PO5 현장]",
+  "published_at": "2026-11-01T01:58:50.000Z",
+  "collected_at": "2026-11-01T03:38:27.747Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

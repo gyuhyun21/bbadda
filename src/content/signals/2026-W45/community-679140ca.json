@@ -1,0 +1,24 @@
+{
+  "id": "community-679140ca",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&page=3&document_srl=10503532473",
+  "title": "근데 이범호가 유독 이호준한테 ㅈㄴ약한거보면 - 야구",
+  "published_at": "2026-10-31T06:38:27.747Z",
+  "collected_at": "2026-11-01T03:38:27.747Z",
+  "summary_ko": "",
+  "excerpt": "... [레벨:12] 트윈스빌딩 5 분 전. 23엘지를 만낫으면 이범호가많이약햇을려나. [레벨:34] 에스페라 2 분 전. 올해…",
+  "metrics": {},
+  "scores": {
+    "hot": 61,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

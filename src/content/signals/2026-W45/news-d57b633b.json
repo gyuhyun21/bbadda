@@ -1,0 +1,23 @@
+{
+  "id": "news-d57b633b",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "데일리안",
+  "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPREVxMWxKME10NGQ2V3pkRkZxV1Z3ZDloZkdvMkh2YWQ5Qk9rMWFTVjhldlFmS3VkWGpURDBvNjlJcVpWLVNBS19rQzhrQ2xrVHVMTnV4YXBwWjJyVlVHdnNhUVk3bllKd1RHVmdkMV9BWFhGenlaNFdST2tpS2VkSkRJRVRVUmpSTGJPUmthUk91QzVpNk1KR1p3aFl4Tk0tTHZ3UlBzTHJYd1ZnU2RJR1NtbEtiTlBjSkRkNk5JRFlGbmg5RmlvZlZ5cUlDV0o1cnpIYzVGZw?oc=5",
+  "title": "확률과 기세의 KIA vs 안방 이점 삼성, PO 5차전 웃을 팀은?",
+  "published_at": "2026-11-01T01:00:00.000Z",
+  "collected_at": "2026-11-01T03:38:27.747Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 83,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}
