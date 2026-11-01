@@ -1,0 +1,23 @@
+{
+  "id": "news-823dee94",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://www.mt.co.kr/sports/2026/11/02/2026110109011398069",
+  "title": "\"계약 잘 성사된다면...\" LG 이적 무산 아픔에도 日 울산 에이스 환하게 웃었다 \"울산은 따뜻했던 도시, 다시 한국 무대 도전하겠다\" [인터뷰]",
+  "published_at": "2026-11-01T21:01:00.000Z",
+  "collected_at": "2026-11-01T21:38:29.122Z",
+  "summary_ko": "머니투데이에 따르면 LG 이적이 무산된 일본 투수가 인터뷰에서 \"다시 한국 무대에 도전하겠다\"고 밝혔다. 계약이 잘 성사되길 바란다는 말도 했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "LG 이적 무산 日 투수, KBO 재도전"
+}

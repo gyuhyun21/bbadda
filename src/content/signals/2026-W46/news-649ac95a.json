@@ -1,0 +1,23 @@
+{
+  "id": "news-649ac95a",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "조선일보",
+  "url": "https://www.chosun.com/sports/baseball/2026/11/02/ME2DQNLDGBRGGYJZGU4TAZTGGA/",
+  "title": "롯데가 실력이 없었던 게 아니라고? → 이동욱 감독의 남다른 접근법. 그렇다면 해법은 무엇인가",
+  "published_at": "2026-11-01T16:13:00.000Z",
+  "collected_at": "2026-11-01T21:38:29.122Z",
+  "summary_ko": "조선일보는 롯데 이동욱 감독이 \"롯데가 실력이 없었던 게 아니다\"라는 접근으로 팀을 보고 있다며 그 해법을 짚었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "롯데는 실력이 없었던 게 아니다"
+}

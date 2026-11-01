@@ -1,0 +1,25 @@
+{
+  "id": "news-a62b2c2f",
+  "issue": "2026-W46",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kt",
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5FbWgtM2w2Y1pSVG9EMi1pY2R2N2VCblpSMHhYUmZZSDhpbmdZNzdDSFVpMlNuVDdlSlR4aTFqaTNYcUlRMEgyY1NBbEVvV3BxWEFsOVVkUXlfalNyRTB3LUZUSjk3YmxTOWJNd2IwQ3gxTXlicE1KbGtweUtxZw?oc=5",
+  "title": "우규민X강민호 둘중 한명은 소원성취! '무관' 딱지 뗄 기회, 생애 첫 우승의 영광 누구에게 [SC포커스]",
+  "published_at": "2026-11-01T21:00:49.000Z",
+  "collected_at": "2026-11-01T21:38:29.122Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 84,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

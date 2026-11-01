@@ -1,0 +1,23 @@
+{
+  "id": "news-c902d5c0",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠타임스",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE04dmQ3Z2NBMkR3SW1XWkFvWjlXcWFMbTBWZ0dycXBDdDQ0bHhBdWF0ZXpGcGpMNTJRbXYtUHNJb0xMRno2UnUtTkthcnFnRk5GR2ZaZDZJQkNSYlg5OXE2Z25wNWdDbTBhdEFac0RxUFUtUWRSaHc?oc=5",
+  "title": "'플레이오프 MVP로 반짝반짝 빛난' 후라도의 호투…한국시리즈로 이어진다",
+  "published_at": "2026-11-01T17:45:50.000Z",
+  "collected_at": "2026-11-01T21:38:29.122Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-17e35aae",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠동아",
+  "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9RN2ZCRFU0Q0ZlQS16bFBYakpEM1NxODgyVHJKaXVGWngwM3BTUVFJelVFZnA5d2h0OXo3bnB0QkZQTFhZY2ZRMnhQc1VLanBiZlZzYkZYemF3RE1icXZOU1NFeVQ1M0tjS3ZoOF9qbEozUQ?oc=5",
+  "title": "“해외 구단 관심이 있다, 변수는 직장폐쇄”…노시환 MLB 도전→포스팅 요청",
+  "published_at": "2026-11-01T21:00:00.000Z",
+  "collected_at": "2026-11-01T21:38:29.122Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

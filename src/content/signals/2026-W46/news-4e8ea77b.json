@@ -1,0 +1,29 @@
+{
+  "id": "news-4e8ea77b",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1MT1Z6NXZEV3dZWjlZUERkQkJHRzFzcnZvZmVjaHRKZzB4M2RoOHVyYVVNMXVPRlQzM1J2TEFhM3hQa3I3TmZWR3R6RkxJd25uNXZobXc1VE10OHRLX3NKcEhUNzZtdlNpR1HSAW9BVV95cUxQb3dtSHMzamZjd2dlaFVVaFNwUTlUbWhwT1N6a29FVVk3MFhQemFoOG1jR0xNV0hYbnI5eW91TU1tUFlQZzhjd3I0OTlTd2libDZnck5jUXVXZEVWVzB3Tk9kRFRYc3AzRm9BNm5ObmM?oc=5",
+  "title": "김도영의 '아름다운 가을'도 영원하지 않았다...8경기 4홈런 뜨거웠는데, 5차전 무안타 침묵 아쉽다",
+  "published_at": "2026-11-01T15:10:00.000Z",
+  "collected_at": "2026-11-01T21:38:29.122Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8tek05VXQ3RWRpY2Q4NHhZMWQ3RFhFY0wtRF9wcW5EWDYwcVZsQmc1bzN1N2o1VjF1OUtWQkgyNFhRTjdEZW5wS2R3REdMSHprYWRmSw?oc=5"
+    }
+  ]
+}

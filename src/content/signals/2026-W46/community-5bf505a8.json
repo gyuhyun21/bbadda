@@ -1,0 +1,23 @@
+{
+  "id": "community-5bf505a8",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 스포츠 예능 야호",
+  "url": "https://blog.naver.com/yakyuya/224461514343",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/FdjnDnlCGcg",
+  "title": "\"4삽진의 여파가 마지막 경기까지?\" 기아 김호령의 부진의 나비효과가 카스트로의 수비 실수까지",
+  "published_at": "2026-11-02T02:00:00.000+09:00",
+  "collected_at": "2026-11-01T21:38:29.122Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

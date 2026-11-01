@@ -1,0 +1,23 @@
+{
+  "id": "community-2b6a50ab",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 이세상스포츠",
+  "url": "https://blog.naver.com/biasnews/224461732249",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/AmWSaQu5cRk",
+  "title": "\"삼성 우승 확률 솔직히 10% 미만\" 임창용이 이런 평가 내린 진짜 이유",
+  "published_at": "2026-11-02T03:50:00.000+09:00",
+  "collected_at": "2026-11-01T21:38:29.122Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}
