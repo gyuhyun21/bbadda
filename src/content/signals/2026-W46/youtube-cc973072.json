@@ -1,0 +1,26 @@
+{
+  "id": "youtube-cc973072",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "youtube",
+  "source_name": "뇌절야구",
+  "url": "https://www.youtube.com/watch?v=n61cLy7r7PU",
+  "title": "두산 베어스 외야수 구자욱 응원가 | 응원가 합성",
+  "published_at": "2026-11-01T15:37:58Z",
+  "collected_at": "2026-11-01T21:38:29.122Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 26,
+    "likes": 3,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 62,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

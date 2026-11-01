@@ -1,0 +1,23 @@
+{
+  "id": "news-14c079a5",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스핌",
+  "url": "https://www.newspim.com/news/view/20261101000100",
+  "title": "[PO 포커스] 해결사 김도영 막히자 얼어붙은 KIA 타선...중심타선 의존 끝내 발목",
+  "published_at": "2026-11-01T21:00:00.000Z",
+  "collected_at": "2026-11-01T21:38:29.122Z",
+  "summary_ko": "뉴스핌은 KIA 타선이 김도영이 막히자 얼어붙었다며 중심타선 의존이 PO 탈락의 발목을 잡았다고 짚었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "김도영 막히자 얼어붙은 KIA 타선"
+}

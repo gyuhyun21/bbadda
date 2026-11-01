@@ -1,0 +1,27 @@
+{
+  "id": "youtube-f859417a",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "유니사파리",
+  "url": "https://www.youtube.com/watch?v=fTkoKSZkG0s",
+  "title": "2026 KBO 플레이오프5차전 삼성라이온즈 vs 기아타이거즈 라이온즈파크 261101",
+  "published_at": "2026-11-01T15:29:10Z",
+  "collected_at": "2026-11-01T21:38:29.122Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 15,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 19,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

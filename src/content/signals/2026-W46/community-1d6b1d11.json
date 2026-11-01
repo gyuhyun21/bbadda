@@ -1,0 +1,23 @@
+{
+  "id": "community-1d6b1d11",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 언덕위의작은집 이야기 (로비의 스포츠 칼럼)",
+  "url": "https://blog.naver.com/kshabsolute1/224461596916",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/HmCUupS1kWO",
+  "title": "[KBO] 롯데 단장 이택근, '불꽃야구'서 6년 만에 은퇴식…선수 인생의 마지막 타석에 선다!",
+  "published_at": "2026-11-02T04:00:00.000+09:00",
+  "collected_at": "2026-11-01T21:38:29.122Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "community-0c30e2d2",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 밥먹고 야구만 보는 밥야구",
+  "url": "https://blog.naver.com/babbaseball/224461561263",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/9TpOWi6z1Tv",
+  "title": "“11승인데 마지막은 2이닝” KIA 올러, 재계약 판단은 무엇을 더 봐야 할까",
+  "published_at": "2026-11-02T05:20:00.000+09:00",
+  "collected_at": "2026-11-01T21:38:29.122Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

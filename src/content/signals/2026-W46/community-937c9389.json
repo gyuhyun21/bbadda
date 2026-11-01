@@ -1,0 +1,24 @@
+{
+  "id": "community-937c9389",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&document_srl=10508335821",
+  "title": "취직하고 느끼는건데 - 야구",
+  "published_at": "2026-11-01T11:38:29.122Z",
+  "collected_at": "2026-11-01T21:38:29.122Z",
+  "summary_ko": "",
+  "excerpt": "... 취직하고 느끼는건데. [레벨:21] 한화이글스손아섭. 조회 수 49 추천 수 1 ...",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

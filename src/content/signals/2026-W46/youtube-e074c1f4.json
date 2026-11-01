@@ -1,0 +1,27 @@
+{
+  "id": "youtube-e074c1f4",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt",
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "봄데 연구소",
+  "url": "https://www.youtube.com/watch?v=p66envhpBU4",
+  "title": "3주 쉰 KT vs 하루 쉰 삼성, 한국시리즈는 어디로 기울까? | 2026 한국시리즈 미리 보기",
+  "published_at": "2026-11-01T20:59:15Z",
+  "collected_at": "2026-11-01T21:38:29.122Z",
+  "summary_ko": "팬 채널 봄데 연구소가 3주 쉰 KT와 하루 쉰 삼성 중 한국시리즈에서 어느 쪽이 유리할지 짚은 미리보기 영상이다.",
+  "metrics": {
+    "views": 1,
+    "likes": 0,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 45,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

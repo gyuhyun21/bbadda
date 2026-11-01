@@ -1,0 +1,25 @@
+{
+  "id": "community-96c28a58",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg",
+    "nc"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 스포츠 인사이트",
+  "url": "https://blog.naver.com/base-goal/224461679706",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/7UocBjHWhhT",
+  "title": "\"SSG 레전드인데 첫 코치는 NC라고?” 김강민 위해 없던 자리까지 만든 이유",
+  "published_at": "2026-11-02T03:30:00.000+09:00",
+  "collected_at": "2026-11-01T21:38:29.122Z",
+  "summary_ko": "블로그 '스포츠 인사이트'는 SSG 레전드 김강민의 첫 코치 자리가 NC에서 마련된 이유를 짚었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "김강민, 첫 코치는 NC에서"
+}

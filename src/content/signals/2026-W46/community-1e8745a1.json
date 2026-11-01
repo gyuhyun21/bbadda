@@ -1,0 +1,23 @@
+{
+  "id": "community-1e8745a1",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 야구장이의 기록기록",
+  "url": "https://baseballsmith.tistory.com/18",
+  "title": "20261101 KIA vs 삼성 기록지 (플레이오프 5차전)",
+  "published_at": "2026-11-02T01:45:44.000+09:00",
+  "collected_at": "2026-11-01T21:38:29.122Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

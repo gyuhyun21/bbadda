@@ -1,0 +1,24 @@
+{
+  "id": "community-3acd8c5b",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "더쿠",
+  "url": "https://theqoo.net/index.php?mid=kbaseball&group_srl=186023785",
+  "title": "국내야구",
+  "published_at": "2026-10-31T23:38:29.122Z",
+  "collected_at": "2026-11-01T21:38:29.122Z",
+  "summary_ko": "",
+  "excerpt": "... 엘지) LG는 31일 \"포수 이주헌, 내야수 손용준, 이영빈 선수가 정주현 코치와 함께 2026년 일본…",
+  "metrics": {},
+  "scores": {
+    "hot": 60,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

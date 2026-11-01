@@ -1,0 +1,23 @@
+{
+  "id": "news-0cba5598",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9TNC1BT2g3aFNMcm43QzJhRzZjalRBME9SX0xlUElsbllIU1g0cUt5LXA2U2piZWVwX2JWYjhGaTNnLUpoSkltXzV1N2g1WHlKYXcySEdxUDFlOWRwWG93VUVIYXFiZUgydk1GVEdnOUk3alNvV2cxUzlFS2VZQQ?oc=5",
+  "title": "\"한국 타자들 MLB 성공 사례 거의 없어\" 노시환도 충격 실패?…\"FA 시장 주전급 3루수 부족\" 희망은 있다",
+  "published_at": "2026-11-01T16:40:00.000Z",
+  "collected_at": "2026-11-01T21:38:29.122Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

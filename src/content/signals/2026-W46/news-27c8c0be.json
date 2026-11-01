@@ -1,0 +1,24 @@
+{
+  "id": "news-27c8c0be",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://www.mt.co.kr/sports/2026/11/02/202611020106770951O",
+  "title": "초대박! ‘307억 포기’ 노시환, 벌써 ML 4개 구단과 연결 실화? 美 예측 “ROH, 양키스-보스턴-다저스-메츠와 어울려”",
+  "published_at": "2026-11-01T20:41:00.000Z",
+  "collected_at": "2026-11-01T21:38:29.122Z",
+  "summary_ko": "머니투데이는 미국 예측을 인용해 한화 노시환이 양키스·보스턴·다저스·메츠와 어울린다고 전했다. 노시환은 MLB 도전을 위해 포스팅을 신청했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "노시환, MLB 4개 구단 거론"
+}

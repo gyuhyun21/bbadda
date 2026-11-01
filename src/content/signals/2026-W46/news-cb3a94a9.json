@@ -1,0 +1,24 @@
+{
+  "id": "news-cb3a94a9",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://www.sportschosun.com/baseball/2026-11-01/202611020100007240000380",
+  "title": "\"피치컴 던져버려!\"…페덱 각성시킨 강민호의 한마디→이래서 가을야구엔 베테랑이 필요하다",
+  "published_at": "2026-11-01T19:53:54.000Z",
+  "collected_at": "2026-11-01T21:38:29.122Z",
+  "summary_ko": "스포츠조선에 따르면 삼성 강민호가 페덱에게 \"피치컴 던져버려!\"라고 한마디 건넸고, 이후 페덱이 살아났다. 매체는 가을야구에 베테랑이 필요한 이유로 꼽았다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "강민호 한마디가 페덱을 깨웠다"
+}

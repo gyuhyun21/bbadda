@@ -1,0 +1,24 @@
+{
+  "id": "news-949ffae2",
+  "issue": "2026-W46",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kt"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스핌",
+  "url": "https://www.newspim.com/news/view/20261101000136",
+  "title": "[KS] 페덱-후라도 카드 모두 쓴 삼성, 미소짓는 KT",
+  "published_at": "2026-11-01T20:37:00.000Z",
+  "collected_at": "2026-11-01T21:38:29.122Z",
+  "summary_ko": "뉴스핌은 삼성이 PO에서 페덱과 후라도 카드를 모두 쓴 채 한국시리즈를 맞는다고 짚었다. KT가 웃을 수 있는 상황이라는 분석이다.",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "페덱·후라도 다 쓴 삼성, KT는 미소"
+}

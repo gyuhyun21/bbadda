@@ -1,0 +1,26 @@
+{
+  "id": "youtube-16fa3eaa",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "youtube",
+  "source_name": "두산야구_로맨틱콘치펀치",
+  "url": "https://www.youtube.com/watch?v=6gaow33neO8",
+  "title": "정수빈의 FA 금액은 얼마일까? 두산의 선택은",
+  "published_at": "2026-11-01T16:52:34Z",
+  "collected_at": "2026-11-01T21:38:29.122Z",
+  "summary_ko": "팬 채널 두산야구_로맨틱콘치펀치가 두산 정수빈의 FA 금액이 얼마가 될지, 두산의 선택은 무엇일지 이야기한 영상이다.",
+  "metrics": {
+    "views": 497,
+    "likes": 15,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

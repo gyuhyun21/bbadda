@@ -1,0 +1,23 @@
+{
+  "id": "news-14952af1",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "Naver Blog",
+  "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMXJuc0VVa05SM2dMY3EwaXZxRU44bU8tYXYxajVvRVpfcGpFZ0YtaUREMUtWMmFqTnZaQkUxRFd4Ym5NTTNRTGhYODdXUzMyQ0lpUEJQQV9mdnVZb3RCWm5fZG5nM1c0MDlEMFZvSS1INlQ2eXBJS0dXcU9YQzlhNHJabjY2SmFHX3BQQXkwTGFzbzJO?oc=5",
+  "title": "‘앤서니 렌던의 재앙급 계약이 끝난 LA 에인절스’ 포스팅 신청한 노시환에게 관심을 가질까?(MLB)",
+  "published_at": "2026-11-01T21:30:41.000Z",
+  "collected_at": "2026-11-01T21:38:29.122Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

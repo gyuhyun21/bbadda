@@ -1,0 +1,23 @@
+{
+  "id": "news-71850aa7",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "마이데일리",
+  "url": "https://mydaily.co.kr/page/view/2026110119081530176",
+  "title": "“(김)도영이 버스 타러 갔다” KIA KS행 좌절 얼마나 분했으면…전광석화처럼 사라졌다, 야구는 시련이다[MD대구]",
+  "published_at": "2026-11-01T15:30:00.000Z",
+  "collected_at": "2026-11-01T21:38:29.122Z",
+  "summary_ko": "마이데일리에 따르면 KIA 김도영은 KS 진출이 좌절되자 경기 뒤 서둘러 버스로 향했다. 매체는 그만큼 분했던 모습이라고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "김도영, KS 좌절에 서둘러 버스로"
+}

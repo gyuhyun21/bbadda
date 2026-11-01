@@ -1,0 +1,26 @@
+{
+  "id": "youtube-2cc009cd",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "source_name": "야구짤츠",
+  "url": "https://www.youtube.com/watch?v=SgTNBg3S_RU",
+  "title": "한화 주루 플레이가 기대 되는 이유 새로운 진종길 코치의 주루 강의ㄷㄷ",
+  "published_at": "2026-11-01T15:17:04Z",
+  "collected_at": "2026-11-01T21:38:29.122Z",
+  "summary_ko": "팬 채널 야구짤츠가 한화 새 코치 진종길의 주루 강의를 소개하며 달라질 주루 플레이를 기대하는 영상이다.",
+  "metrics": {
+    "views": 6856,
+    "likes": 34,
+    "comments": 3
+  },
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

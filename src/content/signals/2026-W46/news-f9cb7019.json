@@ -1,0 +1,30 @@
+{
+  "id": "news-f9cb7019",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "스타뉴스",
+  "url": "https://www.starnewskorea.com/sports/2026/11/02/2026110114593041942",
+  "title": "'충격' 알고 보니 옆구리 부상 달고 뛰었다! 강민호 \"KIA에는 지고 싶지 않았다→모두 우리가 질 거라 예상했기에\"",
+  "published_at": "2026-11-01T20:19:00.000Z",
+  "collected_at": "2026-11-01T21:38:29.122Z",
+  "summary_ko": "스타뉴스 보도에 따르면 삼성 강민호는 옆구리 부상을 안고 PO 5차전에 뛰었다. 강민호는 \"KIA에는 지고 싶지 않았다\"고 말했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 84,
+    "relevance": 70
+  },
+  "sentiment": "negative",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBjcEtKTnNHVTNaSm9HX3p5Y3hrM0ZJVTRLNWtpcU5Sanh4S1UxekNSQ0ZsbEE4cjVkRmExOUpfVXNYU09aR0xDbTNVVy1RRjNQOVhnZ01YOUJoWkJaUlFOa0dkX3hTbDgtNFHSAW9BVV95cUxNV2VIZ0p0b1FGYmxfR0xXRHNzX0xFLTNyVXRlTlBJZ3hyeHhtWU1Wc0wwazdBdjJtbGNmRjdwaFpuN1MwTG9WbGZOSURWNnBkZk10b21qclNrZFVTdFZWMlJiZFg0ZVZjbHdsT1E1Skk?oc=5"
+    }
+  ],
+  "brief_ko": "강민호, 옆구리 부상 안고 5차전",
+  "hook_ko": "옆구리 다친 채 5차전 뛴 강민호"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "community-4de533ae",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "더쿠",
+  "url": "https://theqoo.net/kbaseball?group_srl=892335564",
+  "title": "국내야구",
+  "published_at": "2026-10-31T23:38:29.122Z",
+  "collected_at": "2026-11-01T21:38:29.122Z",
+  "summary_ko": "더쿠 글에 따르면 SSG 포수 조형우가 \"젊은 포수 중 최고가 되고\" 싶다는 포부를 밝혔다.",
+  "excerpt": "... 조회 94; 잡담. SSG) '국대 안방마님' 조형우의 황금빛 포부, “젊은 포수 중 최고가 되고…",
+  "metrics": {},
+  "scores": {
+    "hot": 60,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "조형우, 젊은 포수 중 최고 선언"
+}

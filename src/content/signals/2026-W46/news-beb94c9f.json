@@ -1,0 +1,22 @@
+{
+  "id": "news-beb94c9f",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "마이데일리",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1fdWlDSEREUmtNdkVxNFREb0lSeXFic1ZFbmZDNmdnSk82Q0JKWDJ1Z0NlVUNGMVg0b2x1cEVabnNrSHptaHZZOUNVSHRheVdJVHZlajU1bVZaMXdueWNrWA?oc=5",
+  "title": "'김도영 맞상대만 4번' 삼성 이 선수 없었으면 KS 못 갔다, 5G 5⅓이닝 헌신…\"도나스 상대로 자기 역할 확실했다\" [MD대구]",
+  "published_at": "2026-11-01T20:41:00.000Z",
+  "collected_at": "2026-11-01T21:38:29.122Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

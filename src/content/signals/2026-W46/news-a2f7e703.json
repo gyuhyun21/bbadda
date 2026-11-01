@@ -1,0 +1,30 @@
+{
+  "id": "news-a2f7e703",
+  "issue": "2026-W46",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE84dEJ5ZDg2cUdtSTVsM2Y0MEg2bElXaElpMDc1VWk2MGFlRFI5SFRlZTgtUDYyaFExT25wTUhvMnA5SGUwMXFPSFhiRGkxejZ1TkdDQzRDNndrQ1NRZDJnME5SdFA0ZGYweFHSAW9BVV95cUxNa3ltOHE4MVFEaXpoOXpneWx1RTdOQ2Nja1M2c3FYbXpLYjBzQ1BRYnEtLVI4bjExejd2Mk01TzVubU83RUxjVUgzazc1eG95bUd3am9MWTJkRF9ORXNad0MwT1loX2pCbFZTZGtRZ1k?oc=5",
+  "title": "'KS행' 박진만 감독이 꼽은 '숨은 MVP' 뜻밖에! 이 선수였다, PO 전 경기 역투라니 '압권' [PO5 현장]",
+  "published_at": "2026-11-01T20:29:00.000Z",
+  "collected_at": "2026-11-01T21:38:29.122Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 92,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1IVlQtSEo5eFZldHE0UUpOclA4MkRCaGxOeDc2ZE5PNldnZlkyMTRhVE5kc2lHNzdCRkpvd2F1cnRkc1IxX2RlNjN6LWxwb1F2THlaNnFiSG43eXRFd3BxalpaSVdvODFTM3hQbEs1VmxXTE5nWWc?oc=5"
+    }
+  ]
+}

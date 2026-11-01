@@ -1,0 +1,27 @@
+{
+  "id": "youtube-6afbb7aa",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt",
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "스포츠코리아",
+  "url": "https://www.youtube.com/watch?v=ptsx2jVyBk8",
+  "title": "KT 삼성 사상 첫 한국시리즈, 11월 3일 수원 개막 #쇼츠",
+  "published_at": "2026-11-01T21:01:02Z",
+  "collected_at": "2026-11-01T21:38:29.122Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 260,
+    "likes": 2,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 47,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}
