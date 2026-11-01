@@ -1,0 +1,23 @@
+{
+  "id": "news-555bc0c3",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "KBC광주방송",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAxOXN2N3pubjA2cHNSbWluRmQ3bmVZelJXS3lrZzBSZkZQNzkxWEhpbXJwZWVRcl9nVkxxdzRRQUFhS2tjMGNfRUhuV2lid1lZa0FGZi1XRXVUWGVnSzJ0Vg?oc=5",
+  "title": "후라도 벽에 막힌 KIA...올러 조기강판·타선 침묵에 KS 좌절",
+  "published_at": "2026-11-01T08:03:09.000Z",
+  "collected_at": "2026-11-01T09:38:27.566Z",
+  "summary_ko": "KBC광주방송은 KIA가 후라도에게 막히고 올러가 조기 강판당하며 한국시리즈 진출이 좌절됐다고 전했다. 타선도 침묵했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "올러 조기강판, KIA KS 좌절"
+}

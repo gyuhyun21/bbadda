@@ -1,0 +1,24 @@
+{
+  "id": "community-5b731ef6",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 씨지맨 S_Life",
+  "url": "https://blog.naver.com/cgtech0721/224461301569",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/2UZ6FjvsyFr",
+  "title": "\"11년 307억 계약했는데…\" 노시환이 미국에 갈 수 있는 이유",
+  "published_at": "2026-11-01T18:17:00.000+09:00",
+  "collected_at": "2026-11-01T09:38:27.566Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

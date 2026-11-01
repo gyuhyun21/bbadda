@@ -1,0 +1,28 @@
+{
+  "id": "youtube-475e07e5",
+  "issue": "2026-W45",
+  "module": "league",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "team": "samsung",
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=ZxZqVgReANk",
+  "title": "삼성 김지찬과 박승규의 연속 적시타로 점수 차이를 벌립니다! | PO5_KIA vs 삼성 | 11.1 | 크보모먼트 | KBO 야구 하이라이트",
+  "published_at": "2026-11-01T06:05:10Z",
+  "collected_at": "2026-11-01T09:38:27.566Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 46295,
+    "likes": 496,
+    "comments": 80
+  },
+  "scores": {
+    "hot": 70,
+    "relevance": 80
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-5882af5c",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "m.mksports.co.kr",
+  "url": "https://www.mksports.co.kr/news/interview/12192889",
+  "title": "“최선 다해 고마워, KS 갈 수 있는 팀 만들겠다”…시즌 마친 선수들에게 박수 보낸 이범호 KIA 감독 [PO5]",
+  "published_at": "2026-11-01T08:41:00.000Z",
+  "collected_at": "2026-11-01T09:38:27.566Z",
+  "summary_ko": "MK스포츠에 따르면 이범호 KIA 감독은 시즌을 마친 선수들에게 박수를 보내며 KS 갈 수 있는 팀을 만들겠다고 밝혔다.",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 80
+  },
+  "sentiment": "neutral",
+  "brief_ko": "이범호 감독, 선수단에 박수"
+}

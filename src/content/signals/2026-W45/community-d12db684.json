@@ -1,0 +1,41 @@
+{
+  "id": "community-d12db684",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "다음카페 이종격투기",
+  "url": "https://cafe.daum.net/ssaumjil/LnOm/3379463",
+  "title": "KIA 집으로 보내고 한국시리즈로 가는 삼성 라이온즈",
+  "published_at": "2026-11-01T16:36:47.000+09:00",
+  "collected_at": "2026-11-01T09:38:27.566Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 99,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "영남일보",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBVY1JzdTJTSld4TlMxTHZsN3kyRjlTZVBpYjBLNVkyTFBaNUtIRUplenJkbDRoWlk2YXdVaDQ4ZFBYaHRfTUcxVzJaTVY3U1p3TUJ6dFBCd3NFcGJUSVpzLV9EWEcxR25xMENR?oc=5"
+    },
+    {
+      "source_name": "톱스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0wdGMxWjlQcGdXeWhHTzNiTk1DUTNodG9tMm1TdXZVR0xLOUVpdWlVUkpwdDJXQk9yYVpHN0VvVnJSWVVDMTc4N1V1Y2VWNk1SamVPdTlDa010aU8wcFZOcEtBNkVJMkRlQU00c3Z5bDVRZw?oc=5"
+    },
+    {
+      "source_name": "Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVHVLRU5YdU1xY0UydDMtQnEySldYQm5sYlk1dm1hdDZlMTY1dEoxN0NfZGFUbnhkaWliWjdCMTYtT2lMMUFUWVZOdjNmY0U3SlF6OWx2eFN5UVBvUFM0MUhUMm8tMzJ3cWtpV0VoZEI2WmN4anZ0X25DWC1nVERDZDF3RGxocktQ0gGcAUFVX3lxTE82UVpjNG45cUZTUU55UGw4NEJyaXZDXzdvbjBvYXlmZkFtSGJ3a01Yc1pYcmF4YVFsalhJTXNRblQtdWZtWk0tOE9GaDhxSVVPVFJSVmZxODBscWtvSlZ0aDF0NExla2pEeUd3ODVMN2doWFg2SGhiV281Q0tDdzZNYy1tR203dmkzLUtrS1JXbmtySXVudEFzZUZ4aA?oc=5"
+    },
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUDdlYzBEOG9PYVBCVkRnc0ZnUXo0OG9MRmxzQTBEeUVBUzFMV0tHNGtHOG95Q1M4VV9ySEZEZFdhVFZQek04bUVEZ05kbXJGcUdQS2lQS0pjRV9MN1JXSEoweU1kTHowTldwMUZNWUJUc0ZGWnRJSnVLbVByNjBDeFdxeVp2N192?oc=5"
+    }
+  ]
+}

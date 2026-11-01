@@ -1,0 +1,23 @@
+{
+  "id": "news-5e34c517",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "연합뉴스",
+  "url": "https://www.yna.co.kr/view/AKR20261101041200007",
+  "title": "'데일리 MVP' 삼성 김지찬, 최형우 조언 새기고 적시타 두 방",
+  "published_at": "2026-11-01T09:12:10.000Z",
+  "collected_at": "2026-11-01T09:38:27.566Z",
+  "summary_ko": "연합뉴스는 삼성 김지찬이 5차전 데일리 MVP에 올랐다고 전했다. 최형우의 조언을 새겨 적시타 두 방을 쳤다는 내용이다.",
+  "metrics": {},
+  "scores": {
+    "hot": 84,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "brief_ko": "김지찬, 5차전 데일리 MVP"
+}

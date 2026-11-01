@@ -1,0 +1,22 @@
+{
+  "id": "news-2b097d90",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "연합뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1NdWttNXAtM214VUhjWF9vRllrYjZkc3FzMkNwMXcxT2Y2Yy10RkkxSnRRSllDbDJpb19TbVk0YXlFVF9yTHZoZlpjZ0VReDJUZkM3Y0pxVFBHeVpVUDlRQtIBYEFVX3lxTE1NdWttNXAtM214VUhjWF9vRllrYjZkc3FzMkNwMXcxT2Y2Yy10RkkxSnRRSllDbDJpb19TbVk0YXlFVF9yTHZoZlpjZ0VReDJUZkM3Y0pxVFBHeVpVUDlRQg?oc=5",
+  "title": "삼성 후라도의 헌신, PO에서도 빛났다…이견 없는 MVP",
+  "published_at": "2026-11-01T07:46:59.000Z",
+  "collected_at": "2026-11-01T09:38:27.566Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 83,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

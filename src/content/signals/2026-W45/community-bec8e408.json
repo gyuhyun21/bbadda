@@ -1,0 +1,24 @@
+{
+  "id": "community-bec8e408",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 야구별",
+  "url": "https://blog.naver.com/goldenbootpark/224460958829",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/9QamcWmAWlL",
+  "title": "22경기 연속 안타에 WAR 6.72... 박성한의 진짜 전성기는 내년이다",
+  "published_at": "2026-11-01T11:49:00.000+09:00",
+  "collected_at": "2026-11-01T09:38:27.566Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

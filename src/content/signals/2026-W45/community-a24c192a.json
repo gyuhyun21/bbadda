@@ -1,0 +1,30 @@
+{
+  "id": "community-a24c192a",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt",
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 mr.뚜비어스",
+  "url": "https://dubi0us.tistory.com/1222",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/FOAuhtGx0Fk",
+  "title": "2026 KBO 한국시리즈 예매 2일 11시! KT 삼성 경기 티켓팅 방법, NOL 티켓부터 현장 구매 조건까지 완전...",
+  "published_at": "2026-11-01T18:35:51.000+09:00",
+  "collected_at": "2026-11-01T09:38:27.566Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 84,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "한스경제",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBacVhFa2I4VGJjaTdkemFxMUp0aWdDM2lXT2xGS2lja1VmLS00aVhLbWplVjRGX3dpNlEzRW9BaElZdmhfSXVRTHRhSEhwSFpGX0sxSEdKZ3ZHVVFIUTlyV3BhZ0pKcFJidDFv?oc=5"
+    }
+  ]
+}

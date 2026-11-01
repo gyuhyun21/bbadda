@@ -1,0 +1,26 @@
+{
+  "id": "youtube-13e049ff",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "source_name": "백두썰록",
+  "url": "https://www.youtube.com/watch?v=yYtrdc_ikzY",
+  "title": "롯데 떠난 무쇠팔, 마지막 길은 한화가 지킴 #이슈#최동원 #한화이글스",
+  "published_at": "2026-11-01T09:34:19Z",
+  "collected_at": "2026-11-01T09:38:27.566Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 93,
+    "likes": 0,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 34,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

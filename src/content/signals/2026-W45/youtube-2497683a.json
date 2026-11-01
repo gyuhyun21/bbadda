@@ -1,0 +1,28 @@
+{
+  "id": "youtube-2497683a",
+  "issue": "2026-W45",
+  "module": "league",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "team": "samsung",
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=7dslv5oHzh4",
+  "title": "삼성 최형우의 선제 적시타로 베테랑의 품격을 보여줍니다! | PO5_KIA vs 삼성 | 11.1 | 크보모먼트 | KBO 야구 하이라이트",
+  "published_at": "2026-11-01T05:38:48Z",
+  "collected_at": "2026-11-01T09:38:27.566Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 29855,
+    "likes": 228,
+    "comments": 33
+  },
+  "scores": {
+    "hot": 65,
+    "relevance": 80
+  },
+  "sentiment": "neutral"
+}

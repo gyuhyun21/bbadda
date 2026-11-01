@@ -1,0 +1,23 @@
+{
+  "id": "news-aeffad2c",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "연합뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9lQUxfeHBSZ05NV1VHNFN3MVNhV1F3ZURFeFdhT1gwOWh3RlpISk1vR0dTOVJ4a3cyeVNiWGwzS3NRTS1fUFdWM0drdWVrTXlVRTMxUlplZXNhaTlHaC1BZtIBYEFVX3lxTE9lQUxfeHBSZ05NV1VHNFN3MVNhV1F3ZURFeFdhT1gwOWh3RlpISk1vR0dTOVJ4a3cyeVNiWGwzS3NRTS1fUFdWM0drdWVrTXlVRTMxUlplZXNhaTlHaC1BZg?oc=5",
+  "title": "반 박자 느렸던 양현종 투입…아쉬움 남은 KIA 투수 교체",
+  "published_at": "2026-11-01T07:42:40.000Z",
+  "collected_at": "2026-11-01T09:38:27.566Z",
+  "summary_ko": "연합뉴스는 5차전에서 양현종 투입이 반 박자 느렸다며 KIA의 투수 교체에 아쉬움이 남는다고 짚었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "양현종 투입 시점, 아쉬움"
+}

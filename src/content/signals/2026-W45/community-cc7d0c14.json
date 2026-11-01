@@ -1,0 +1,23 @@
+{
+  "id": "community-cc7d0c14",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 스포츠 줌인",
+  "url": "https://blog.naver.com/sport_log/224460907132",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/3zXqqNIT6A2",
+  "title": "롯데 자이언츠 '이택근 신임 단장' 선임 둘러싼 우려와 기대 섞인 시선",
+  "published_at": "2026-11-01T16:00:00.000+09:00",
+  "collected_at": "2026-11-01T09:38:27.566Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "news-533972ef",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia",
+    "kt"
+  ],
+  "source_type": "news",
+  "source_name": "https://www.2news.co.kr/",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ha3ZWcF8wcTdYcmxtSFUtR2FnSHdZTkZfSHVwRTlHWmdDaGRsUE0tQTN6REhkT1duaFBDSUk4bjJtWFhXU2Fua2ZoWUtZNGNYczFsLWQ1Zk1sckczbDFMYU9nRFlQUWN2?oc=5",
+  "title": "삼성, KIA 잡고 한국시리즈행…KT와 우승 다툰다",
+  "published_at": "2026-11-01T07:43:00.000Z",
+  "collected_at": "2026-11-01T09:38:27.566Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 83,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

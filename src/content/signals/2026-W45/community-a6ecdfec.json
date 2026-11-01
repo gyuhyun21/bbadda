@@ -1,0 +1,24 @@
+{
+  "id": "community-a6ecdfec",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 Smart News Wiz",
+  "url": "https://blog.naver.com/smartwiiz/224460040967",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/2xqhPW1PIIF",
+  "title": "서울이 굳건한 이유 KBO 10개 구단 연고지와 홈구장 알아보자!",
+  "published_at": "2026-11-01T09:59:00.000+09:00",
+  "collected_at": "2026-11-01T09:38:27.566Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

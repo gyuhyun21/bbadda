@@ -1,0 +1,34 @@
+{
+  "id": "community-44afbfdb",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia",
+    "kt"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 실천하는 습관(광주전라권법원경매)",
+  "url": "https://blog.naver.com/mekki2/224461220440",
+  "title": "삼성 라이온즈 한국시리즈 진출 확정! KIA 꺾고 KT와 우승 맞대결",
+  "published_at": "2026-11-01T17:34:00.000+09:00",
+  "collected_at": "2026-11-01T09:38:27.566Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 100,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "BBS불교방송",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5kYk9QU09GRXdXWmpXXzNsajVMVFFUcDJhRnRwQTBLcDBNMFlJQTN5WXYycUVjM2FLSWVHc09GR0pYYm42R0RmR0pjSWNST05DZ29SQ29WZ2JMOHotWTZyRWhmZHlITFFabmN3?oc=5"
+    },
+    {
+      "source_name": "경북매일",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1nckpsbnVYd0U3OG9kak4yOU5sV3RGSlFvQjNJYnJQOUZxM0VZTHJKVURHSklKTTNWYTVMcTVDVFBWSS11aG83UkxaeDlYV1kwWjJUN3haV19mUQ?oc=5"
+    }
+  ]
+}

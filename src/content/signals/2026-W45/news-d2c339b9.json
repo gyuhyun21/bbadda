@@ -1,0 +1,22 @@
+{
+  "id": "news-d2c339b9",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "https://www.2news.co.kr/",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1BRHZxbXhhTVFtd0V1LWliLVoyY05kNWlIclp2Z0ZhdG42UmwyR0lHUHhIbzNENFkxT0xDai1sOFdYWXN4NFJjdXhUbWNRWVNiTGdLdUZpNDhCMW5fTGtmdVViakRrSS1F?oc=5",
+  "title": "KIA, 느린 투수 교체로 플레이오프 탈락",
+  "published_at": "2026-11-01T07:47:00.000Z",
+  "collected_at": "2026-11-01T09:38:27.566Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 80
+  },
+  "sentiment": "neutral"
+}

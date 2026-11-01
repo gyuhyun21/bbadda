@@ -1,0 +1,22 @@
+{
+  "id": "news-993d4017",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "뉴시스",
+  "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9aZDBHWjktY09zSnItSVJjc0RRckFCakM2X016RHZqLXR4d0lSRUppV0RkSVBjMDlHZVo2UmhlYW5pZ3J4bTM4UGpJX3U4NkxVeHVCd1BBVnIzTEdwemVjRnNDTk15Zw?oc=5",
+  "title": "삼성, 한국시리즈로",
+  "published_at": "2026-11-01T08:08:53.000Z",
+  "collected_at": "2026-11-01T09:38:27.566Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 80
+  },
+  "sentiment": "neutral"
+}

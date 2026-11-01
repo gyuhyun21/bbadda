@@ -1,0 +1,30 @@
+{
+  "id": "community-b11d02ef",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 해용님의 블로그",
+  "url": "https://livestoryforge.com/16645",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/86pkYZCyqYG",
+  "title": "삼성, KIA 꺾고 한국시리즈 진출 확정! 후라도 7이닝 무실점 역투, 김지찬 맹타",
+  "published_at": "2026-11-01T18:05:36.000+09:00",
+  "collected_at": "2026-11-01T09:38:27.566Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "톱스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9RNlZhVG1rdVlWU1FxUHFtdnFOeWl2eWxMNF82ZlJzN1VPVEtzMnFrY2hjQko5OVJIbmc4QWp6QThRMlJseHdMbkRubkwxRTJSeWcwMWFSV3dla0F0VTBELWkwU1lvVkU0QUZXYmJBWmxyUQ?oc=5"
+    }
+  ]
+}

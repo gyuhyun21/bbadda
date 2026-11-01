@@ -1,0 +1,23 @@
+{
+  "id": "news-81e83d05",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "MHN스포츠",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBxSW43ZlV2STJlWFFZLVlTQUNYYV84VzVjOGhnUll6Tkk3T3I2YmZ2TzhfUWFkTjZsV2dhWVQxRXp0SHRLWWZWZmd6c2lvTE9pNVgtV1BzUUduWmdFaUxwYWxPcw?oc=5",
+  "title": "\"노시환 수비가 별로라고?\" NBC 뜻밖의 평가…ML 자료 부족, 노시환을 아직 잘 모른다는 증거",
+  "published_at": "2026-11-01T04:05:17.000Z",
+  "collected_at": "2026-11-01T09:38:27.566Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

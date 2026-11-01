@@ -1,0 +1,23 @@
+{
+  "id": "news-7eac8455",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "SPOTV NEWS",
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1lTVFuTEltWm1pN0REaFdobFROZklLa3BGdjMzZGY0VW9SS3VZTUR2OUdyUkpzU3R2S01mbE9lV2I5UThkckc4eTNpd0NsN1lrSUw4a3BhNGMzb2RWcHhkMVdxdDI2czVnRTQzUnVnNnk?oc=5",
+  "title": "'307억' 포기할 각오로 ML 도전…노시환 향한 美 현지 평가는? \"평균 수비되면, 가치 높아질 것\"",
+  "published_at": "2026-11-01T04:15:00.000Z",
+  "collected_at": "2026-11-01T09:38:27.566Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

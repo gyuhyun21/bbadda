@@ -1,0 +1,29 @@
+{
+  "id": "news-0b63f390",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "미주중앙일보",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Ed2NmZEhOMEN5ZXRib3BxNDhzdmpyZXh6ZVIzcmlvcHBTak00aFVZNDRKZVAtOGp1ME5kajhXQkdRdmoxem5rU0FxeXVSYURDcXhDbUJPS2pFMFNJVmV6WGxR?oc=5",
+  "title": "“우승 향한 첫 관문 통과” 국민 유격수의 자신감…“후라도 최고 활약, 숨은 MVP는 이승민” [PO5]",
+  "published_at": "2026-11-01T08:29:00.000Z",
+  "collected_at": "2026-11-01T09:38:27.566Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQnRpdlhwT0E1NVVjaGNZUzVZTVNrX3pSUk1nS2pVRWd2N2hmY2RxNjVMMUc1T3QzR3ZXXzU3RVp1dV83bDFYUG0wVmJjN3VwbE9hdVh2R3VIMUxxZGhFcVA5cWxEU2E5Z09oZVpWcXczWVRBRnFMaHBSRFVHcmpzWFZpZw?oc=5"
+    }
+  ]
+}

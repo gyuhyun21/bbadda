@@ -1,0 +1,22 @@
+{
+  "id": "news-2d245cfc",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "부산일보",
+  "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9MdHpQN3BycHl4OU9pNS1KcFo1X24xUGF0Mmh2ZThnUzZwRE56b0RMb1gzaW9jZFEtbXJzSHRMTms2bzNDMHpwUkxPdmlwaUthZmVIOU0tcEJSeF8wNlJvMG1tTUxiOXBfY0ExWkJsYk4wYkFOMmpWeGJrdw?oc=5",
+  "title": "“부산서 가을잔치 한번”…이동욱, ‘스마트 야구’로 롯데 재건",
+  "published_at": "2026-11-01T07:00:39.000Z",
+  "collected_at": "2026-11-01T09:38:27.566Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

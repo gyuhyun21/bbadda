@@ -1,0 +1,24 @@
+{
+  "id": "news-439f7ad4",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "www.xportsnews.com",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8wdU5LbFlwYmxMQjR2Mzg4N0sxTHFoaFgtam1vZmtmZmd1Z1BudnFONTc3QnN1eThMUGZXWmFFRmtpakMwaktVZVVfMVgyeWt6OUtRWA?oc=5",
+  "title": "\"꿈을 위한 도전 존중\"…노시환 307억 포기? ML 포스팅 도전→류지현 감독 \"한 달 지켜볼 것, 대안 언급 이르다\" [미야자키 현장]",
+  "published_at": "2026-11-01T03:37:59.000Z",
+  "collected_at": "2026-11-01T09:38:27.566Z",
+  "summary_ko": "엑스포츠뉴스에 따르면 류지현 감독은 노시환의 ML 포스팅 도전을 존중한다며 한 달 지켜보겠다고 밝혔다. 대안을 말하기엔 이르다고 했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "류지현 감독, 노시환 한 달 지켜본다"
+}

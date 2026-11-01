@@ -1,0 +1,23 @@
+{
+  "id": "news-c9bda744",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠경향",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA2cTVnUFVGM25tR2VSWTY2cUZzWmVHTFZqY2pwTTlJX0ZhcUczMUVibWdBTUJHZFhQQzlOLUp4TmtVWlJ0WjBkR1FDWmF6NjF0b2tnYWxnRnA1RmU5LXdaVjdUONIBY0FVX3lxTFA2cTVnUFVGM25tR2VSWTY2cUZzWmVHTFZqY2pwTTlJX0ZhcUczMUVibWdBTUJHZFhQQzlOLUp4TmtVWlJ0WjBkR1FDWmF6NjF0b2tnYWxnRnA1RmU5LXdaVjdUOA?oc=5",
+  "title": "이택근 롯데 단장 “현장 경험 無 우려 인정하지만 장점도 강하다…좋은 선수 있으면 영입 어필할 생각”",
+  "published_at": "2026-11-01T01:37:00.000Z",
+  "collected_at": "2026-11-01T09:38:27.566Z",
+  "summary_ko": "스포츠경향에 따르면 이택근 롯데 단장은 현장 경험이 없다는 우려를 인정하면서도 장점도 강하다고 말했다. 좋은 선수가 있으면 영입을 어필하겠다고 했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "이택근 단장, 현장 경험 우려 인정"
+}

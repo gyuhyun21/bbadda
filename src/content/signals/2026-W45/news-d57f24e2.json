@@ -1,0 +1,23 @@
+{
+  "id": "news-d57f24e2",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "서울신문",
+  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5NOWZmRWwtUjJNbEhnX2NHN2dfNDFLa1gwUXdjTUdwaUZ5S19kbTRSWFlkUDlpajhnQzV0SkRQX0lQT0lERWlFMXhFczlUVW43TXRvV0h5aw?oc=5",
+  "title": "MLB 못 가도 307억 ‘남는 장사’ 노시환 기회 잡을까 “3루 FA 부족…유리할 수 있다”",
+  "published_at": "2026-11-01T06:08:49.000Z",
+  "collected_at": "2026-11-01T09:38:27.566Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

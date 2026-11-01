@@ -1,0 +1,23 @@
+{
+  "id": "community-3900aac7",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 스포츠 줌인",
+  "url": "https://blog.naver.com/sport_log/224460907392",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/CiRSyYzu0s",
+  "title": "SSG 랜더스 불펜의 핵심 김민, 3년 연속 20홀드 대기록 달성의 비결은 무엇일까",
+  "published_at": "2026-11-01T16:30:00.000+09:00",
+  "collected_at": "2026-11-01T09:38:27.566Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "community-ad5cf6eb",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&document_srl=10507923619",
+  "title": "8개 구단들이 KS에서 삼성라이온즈를 응원해야 하는이유 적어본다.",
+  "published_at": "2026-11-01T09:24:27.566Z",
+  "collected_at": "2026-11-01T09:38:27.566Z",
+  "summary_ko": "",
+  "excerpt": "... SSG:범삼성가라서 형제구단임. LG:가전동맹임. 기아:기아출신 류지혁,임기영,최형우 있음. 그리고 전병우(?)도 있음.",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "community-91302bd8",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 덕이매거진 | 스포츠에 진심인 덕후 오리",
+  "url": "https://blog.naver.com/schinmagazine/224461287279",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/86PkrFpQ7Wd",
+  "title": "\"내년에 당연히 한국시리즈 간다고 생각하면 오산이다\"…이범호의 시즌 결산",
+  "published_at": "2026-11-01T18:10:00.000+09:00",
+  "collected_at": "2026-11-01T09:38:27.566Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

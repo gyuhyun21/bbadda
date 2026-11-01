@@ -1,0 +1,28 @@
+{
+  "id": "news-3b5df107",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE16YTJ6LTdHTkZ2RHRLSjhBTDdxNE1sRm04T2JTYU1ZeGlxXzBpYkZVN25WU2hYQW5McXNPYnh2eXM1ZWpMSnhibmdFUFBkbnhfVlIzZ2xFbUpHWkdiRXFqeXc2RFBWOF9PZzE0b0JiMNIBb0FVX3lxTE16YTJ6LTdHTkZ2RHRLSjhBTDdxNE1sRm04T2JTYU1ZeGlxXzBpYkZVN25WU2hYQW5McXNPYnh2eXM1ZWpMSnhibmdFUFBkbnhfVlIzZ2xFbUpHWkdiRXFqeXc2RFBWOF9PZzE0b0JiMA?oc=5",
+  "title": "[포토] '마법사 잡으러 수원으로 간다!' 플레이오프 통과한 삼성라이온즈",
+  "published_at": "2026-11-01T08:20:39.000Z",
+  "collected_at": "2026-11-01T09:38:27.566Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 84,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9KYjVKUVdXQV9oQks2bXU4QlEwTFFtZGlVODRBMEkwRzlnV0t3MnZjaWYtQjJUTmVDc0J3UnMwa0xNTmVJQm5vclktbEhWUnhyaFMtbjl0U3Z2TTRfVU5oMlZXUFBFU1B4MFB6dkVLU0RnczBSTnc?oc=5"
+    }
+  ]
+}

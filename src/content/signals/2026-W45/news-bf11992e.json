@@ -1,0 +1,29 @@
+{
+  "id": "news-bf11992e",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "OSEN",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAwMEMwN29JR0xrb0NBd1lQWkdGSDk3X2lKc0F1RWo4ZDdHaVZmNXB6dGNLVkhsVDBiS3hkUzk0NDFWOW5ZN3lkc0R0cDVURGt6UTVpTw?oc=5",
+  "title": "노시환 ML 도전 무모하다고? 307억 포기→미국발 관심 보도 떴다 “ROH 타격 뛰어나, 쓸만한 FA 3루수도 별로 없어”",
+  "published_at": "2026-11-01T07:19:00.000Z",
+  "collected_at": "2026-11-01T09:38:27.566Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "미주중앙일보",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE03TVItWVRHZVh0Y3Q5bmhtQ3lUNzdRZE5aakI5b3hWbHc0M1UyalFCQTFHdFhLUWVEMUxZWC1sRTJRd00yeHFsdk95THJxVWlDaXE1VE9pWk9xSWViVEQ1MWJ3?oc=5"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-97aaf872",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "티제이비",
+  "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5NLTJkS3NTdV9pZlJjX052dkw2V1Y0eFBxcDIwUjdJMWxHMkxMWUxYMlpDMnFoNXJMTG9nXzFZa0ZBMVBZSHE3MVNRdXRyOTdPemJQb0wyS0lCMzNs?oc=5",
+  "title": "송성문급 계약이면 손해…307억 내려놓은 노시환, 대박 가능할까?",
+  "published_at": "2026-11-01T04:14:23.000Z",
+  "collected_at": "2026-11-01T09:38:27.566Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

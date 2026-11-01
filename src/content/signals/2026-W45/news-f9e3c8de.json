@@ -1,0 +1,23 @@
+{
+  "id": "news-f9e3c8de",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "조선일보",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxON2dFRGJmN3VMTTV0Z3djaktfZmVQUE0yQ1BRSTZPTXgzUzZfZktmaUxMZnh1MkhROVc3enZFTGJEbktoWUttZXJWMFZBRGV5c0wzbEFDQnBiQml1T0dyN2hYYXhEZ2tjSk0wVktGaXh0ZTNJYkVuNlpsZm1faTJUOUlVcw?oc=5",
+  "title": "후라도 7이닝 1실점... 삼성, 벼랑 끝 5차전서 KIA 잡고 KS행",
+  "published_at": "2026-11-01T07:42:09.000Z",
+  "collected_at": "2026-11-01T09:38:27.566Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 80
+  },
+  "sentiment": "neutral"
+}

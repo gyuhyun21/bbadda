@@ -1,0 +1,60 @@
+{
+  "id": "youtube-c4720a69",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "그깟공놀이가뭐라고",
+  "url": "https://www.youtube.com/watch?v=VGzdEcRdrMk",
+  "title": "플옾5차전, 삼성 2년 만에 한국시리즈 진출 #kbo #야구 #가을야구 #포스트시즌 #플레이오프 #삼성라이온즈 #기아타이거즈 #kt위즈",
+  "published_at": "2026-11-01T08:44:19Z",
+  "collected_at": "2026-11-01T09:38:27.566Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 467,
+    "likes": 5,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 43,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5zaXJXV2wyVmpSR1lmdExTTDhRQmJQQUR0bFlNTGk4Sm5RLXhKVHY0dEdBcGxFWG9vZjFpbVlQYkl4QmduZk96clFySEMyel8tc1ROdk9jRFc0eXE2RkpHMNIBYEFVX3lxTE5zaXJXV2wyVmpSR1lmdExTTDhRQmJQQUR0bFlNTGk4Sm5RLXhKVHY0dEdBcGxFWG9vZjFpbVlQYkl4QmduZk96clFySEMyel8tc1ROdk9jRFc0eXE2RkpHMA?oc=5"
+    },
+    {
+      "source_name": "톱스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5sZFBBTDB4QzFqUTVSMGJjVmhQRUZtbHZvUGZuY0pYRzZtWEpjLXV6VWM0S2JNM09nVDdCMG1DaVQwYmdWYXE1V3F0NXRvZmZRaklzMFpnTC1PVzdGSGktLW96MGF4NVNiUklCZTZQd285QQ?oc=5"
+    },
+    {
+      "source_name": "KBS 뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1pRjZzZnEyWlFneGNFdjZfeGQySUtRTkd4WnNiZlpKWGdWRHJscXVMMGFPUThXb1U1ZEhFeV9GRzJMN2lvSEE1eFFJRVFYbWpvNFdVdF9mZi1DcFVGdWt5WWRsUEZ4UQ?oc=5"
+    },
+    {
+      "source_name": "강원도민일보",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA5YTh2cGp1Sk9peTI3MWpsOUd3SDlXa3J0ZDVrMGdGZGlkYWU4YkxkZWJCVkRXdGxpLUxBbmp5d3FjT25RdUwwTk5fR3hmU0FDZjEzM21iQzdiRTN1c3FxaGNSY0ktdGd4?oc=5"
+    },
+    {
+      "source_name": "news.sbs.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVXM3VWV5RUJsZXMtaDA5MmM2MmpCMERHaXNEbUkzZWZwYlZKaHgwME93T0x2QkoycDJ6SW5lalpOaDZQNzNwbVMzMXJWMVIySUhIa0xHMnZRSHlRazctSGFvWmFxbll4SXJmbXFLUm9idmxZdDA4ZjRRUDJwSzd1Tm1RYVE1UQ?oc=5"
+    },
+    {
+      "source_name": "mnews.sbs.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1xYjd1WWhFTDA2OF9HWk5iM295TXBOcmpoWTFzb1NlaFJZanpvNkJRUTdRWlFvSVZzbXFRalB0U0VKaWs2dTMzMURBcUtUeTdXeXNIdlFwQThmWVdfZ0Y3bC1CbjZRTTNVVkE?oc=5"
+    },
+    {
+      "source_name": "스페셜타임스",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBpYTNDbkFPQ1haSXJBTERJODNuX2ItblFTSlhSWkJoRG40c2V1dnkyWm03YjZoN0tzWTJ6bHFla3hMVExlQmc4WGo5Sy1SM2NQdklXSGI0X3lySVAwMWEzdmRhbXdLSlVQTVdWTFVWQkpBQQ?oc=5"
+    },
+    {
+      "source_name": "국제신문",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMmJ2NUhUTG5oaVpZV3Zxd0N2clA3M1JvRU4yNDNoN2JrRi1RSUZTMmRvUEVWZHI3dl84a3QyeXpzbE0wb2JXb01nVmVTbWc3blNRWTY5Tl8wT3JFaGZ0SGlBNU15aXcwb08xSmV4UFkzcy1vSGtSQkwxR0wzS1lyQVFLOG5jd2wzVlhr?oc=5"
+    }
+  ]
+}

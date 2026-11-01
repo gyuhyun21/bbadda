@@ -1,0 +1,22 @@
+{
+  "id": "news-c34dd760",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "마이데일리",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1mM0x1V0ZDQUNoUV9WSFg4RXowTlNHTWJnZE1iNGRxZ1RaSVNJYURFZ3dqa0xaQ2plcS1UeGx3dEw3VlRRRW1QdmdoZ21QWEdfck9ENW1IbUlMLW8tOWljRQ?oc=5",
+  "title": "대구 에이스는 후라도! 7이닝 비자책 쾌투 미쳤다→삼성, 수원행까지 한 발 남았다 [MD대구 PO5]",
+  "published_at": "2026-11-01T07:19:36.000Z",
+  "collected_at": "2026-11-01T09:38:27.566Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 80
+  },
+  "sentiment": "neutral"
+}

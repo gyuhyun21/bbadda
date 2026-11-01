@@ -186,9 +186,14 @@ rounds:
       - no: 5
         date: 2026-11-01
         venue: 대구
+        result: { kia: 1, samsung: 6 }
+        source: "https://news.google.com/rss/articles/CBMib0FVX3lxTE9SdEFlb3Brdmp3WGlBM3BEQ1Y2NHhJUnYxRmp3NU4xa3VYZFJPV09LYVc3bXFpQ1BhVl92SnEwdTlPdEctSzRTbDhMcTF5cnpUOHNUZV9lai1hWW5hNlBjVElYRXRqVzB4Q1llRy1VVdIBb0FVX3lxTE9SdEFlb3Brdmp3WGlBM3BEQ1Y2NHhJUnYxRmp3NU4xa3VYZFJPV09LYVc3bXFpQ1BhVl92SnEwdTlPdEctSzRTbDhMcTF5cnpUOHNUZV9lai1hWW5hNlBjVElYRXRqVzB4Q1llRy1VVQ?oc=5" # 머니투데이 PO5 현장리뷰 '삼성, KIA 6-1 완파'(2026-11-01)
+        win: 후라도 # 매일경제 '개인 PS 첫 승→7이닝 KKK 1실점 비자책점'
+        mvp: "후라도(삼성)" # 뉴스1 'MVP 후라도…[PO5]'(PO MVP), 연합뉴스 '데일리 MVP 삼성 김지찬'
         starters: { kia: 올러, samsung: 후라도 } # 예고 선발(톱스타뉴스 '삼성 후라도 vs KIA 올러, 대구서 KS행 최종전 선발 재격돌', 2026-10-30)
         starter_notes: { kia: "PO 앞선 대구 등판 1이닝 8실점·4.2이닝 5실점" } # 매일경제 '1이닝 8실점→4.2이닝 5실점…KIA 올러, 대구 악몽 떨쳐내며', 2026-10-31
         ig:
+          post: { hook: "삼성, 수원 간다\n후라도 7이닝 쾌투", sub: "KIA 꺾고 PO 3승 2패, KT와 한국시리즈", points: ["후라도, 7이닝 1실점 비자책 역투", "김지찬·박승규 6회 연속 적시타", "KIA 올러, 2이닝 4실점 조기 강판"] }
           pre: { hook: "KS행 티켓은\n오늘 한 팀만", sub: "KIA 올러 vs 삼성 후라도, 대구 오후 2시 끝장전" }
         facts:
           - "PO 5차전 승리 팀 KS 진출"

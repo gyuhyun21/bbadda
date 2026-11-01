@@ -1,0 +1,24 @@
+{
+  "id": "youtube-1bc09df8",
+  "issue": "2026-W45",
+  "module": "league",
+  "teams": [],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=2rTtshkDqpg",
+  "title": "[2026 신한 SOL KBO 플레이오프 5차전 - 경기결과]",
+  "published_at": "2026-11-01T08:13:51Z",
+  "collected_at": "2026-11-01T09:38:27.566Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 5135,
+    "likes": 411,
+    "comments": 27
+  },
+  "scores": {
+    "hot": 88,
+    "relevance": 30
+  },
+  "sentiment": "neutral"
+}

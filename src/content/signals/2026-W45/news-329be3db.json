@@ -1,0 +1,28 @@
+{
+  "id": "news-329be3db",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1kR0RYR3pfNS1DWGRteHNPbzBFNXlsdFduQjJKLW1zdzcwWGo5YTdlMnAzMC13WWxhRERvaEZmbEVIbmM3RE5VQ3poU3lRMVI4T2JfaUZGelJhazZtb18wbE9Qc042UFB5Z3lSOVJDUdIBb0FVX3lxTE1kR0RYR3pfNS1DWGRteHNPbzBFNXlsdFduQjJKLW1zdzcwWGo5YTdlMnAzMC13WWxhRERvaEZmbEVIbmM3RE5VQ3poU3lRMVI4T2JfaUZGelJhazZtb18wbE9Qc042UFB5Z3lSOVJDUQ?oc=5",
+  "title": "'지긋지긋한 라팍 악몽' KIA 올러, 벼랑 끝 PO5서도 2이닝 4실점 난조→양현종이 급한 불 껐 [PO5 현장]",
+  "published_at": "2026-11-01T06:13:40.000Z",
+  "collected_at": "2026-11-01T09:38:27.566Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 91,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE56cGxQakFpQzRMQ1JXajdFZFRfYkNwVmdrcDhjY2tiZzRfZWVPNGEtT0pZYzZiQl9kSk1zXy1RdVRoaTNWMVBLS0NDQVpKUGxSREk4SzRQXzNZc3JiUVpVMmRYOWJ6UFdyM25paE8yT0RuRTdZeXc?oc=5"
+    }
+  ]
+}

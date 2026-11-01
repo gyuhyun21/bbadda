@@ -1,0 +1,27 @@
+{
+  "id": "youtube-3dc6be57",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "LGTWINSTV",
+  "url": "https://www.youtube.com/watch?v=IjLJTt2Qc60",
+  "title": "암튼 60초 홍보 완료",
+  "published_at": "2026-11-01T05:00:14Z",
+  "collected_at": "2026-11-01T09:38:27.566Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 2992,
+    "likes": 234,
+    "comments": 19
+  },
+  "scores": {
+    "hot": 85,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

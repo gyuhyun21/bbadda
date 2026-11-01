@@ -1,0 +1,27 @@
+{
+  "id": "youtube-e85cf1ab",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "LGTWINSTV",
+  "url": "https://www.youtube.com/watch?v=Ni_ebQlENHA",
+  "title": "오지환 NG 몇 번 났는지 궁금하신 분",
+  "published_at": "2026-11-01T05:00:29Z",
+  "collected_at": "2026-11-01T09:38:27.566Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 4714,
+    "likes": 312,
+    "comments": 17
+  },
+  "scores": {
+    "hot": 87,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

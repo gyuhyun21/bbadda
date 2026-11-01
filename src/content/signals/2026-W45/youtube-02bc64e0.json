@@ -1,0 +1,26 @@
+{
+  "id": "youtube-02bc64e0",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "youtube",
+  "source_name": "롯진남",
+  "url": "https://www.youtube.com/watch?v=ebef4uIzHTI",
+  "title": "컴프야v26 마차도가 생각나는 고승민의 수비2 # #컴투스프로야구v26 #롯데자이언츠 #호수비 #딕슨마차도",
+  "published_at": "2026-11-01T04:00:10Z",
+  "collected_at": "2026-11-01T09:38:27.566Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1157,
+    "likes": 5,
+    "comments": 6
+  },
+  "scores": {
+    "hot": 47,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

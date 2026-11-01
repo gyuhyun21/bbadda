@@ -1,0 +1,27 @@
+{
+  "id": "youtube-d7d19c4b",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "Eagles TV",
+  "url": "https://www.youtube.com/watch?v=doxgaDy0s2s",
+  "title": "\"이게 한화이글스 야구야!\" 성장과 경쟁, 미야자키 캠프 첫 날",
+  "published_at": "2026-11-01T09:00:05Z",
+  "collected_at": "2026-11-01T09:38:27.566Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 12662,
+    "likes": 705,
+    "comments": 97
+  },
+  "scores": {
+    "hot": 93,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}
