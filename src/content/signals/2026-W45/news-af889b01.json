@@ -1,0 +1,29 @@
+{
+  "id": "news-af889b01",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "한스경제",
+  "url": "https://www.hansbiz.co.kr/news/articleView.html?idxno=878443",
+  "title": "박진만 삼성 감독 \"끝장 승부, 불펜 순번 없이 대기\"",
+  "published_at": "2026-11-01T02:40:55.000Z",
+  "collected_at": "2026-11-01T03:38:27.747Z",
+  "summary_ko": "박진만 삼성 감독은 5차전에서 불펜 순번 없이 대기시키겠다고 밝혔다. 한스경제가 끝장 승부를 앞둔 박 감독의 말을 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 100,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "https://www.2news.co.kr/",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBGWEJldmVxaUlJY3NKX2JjWDNxS2M3bG1OczNOOHVERzExYUdxZVdKZXY4ZnlCUTRyRzdvRnNNY01VNEo4bXQ5RGtVRjNmLTVTSmJlS2N4MkU2LUFQVlB2NndDcWtwRGRB?oc=5"
+    }
+  ],
+  "brief_ko": "삼성, 불펜 순번 없다"
+}

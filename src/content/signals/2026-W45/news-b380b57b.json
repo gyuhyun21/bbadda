@@ -1,0 +1,36 @@
+{
+  "id": "news-b380b57b",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "일간스포츠",
+  "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBtaG5HR1c5MGFGY1JHQVIzUWFma0xjdFBZRUgwa1M5Rzd0c3E5bXNsNGFyZzV0dlpsaXROZ0k5Y3lKSUJIV2FMSjdieUtydW5oQTdwcTYxM3BsZHM?oc=5",
+  "title": "'선발 3루수는?' 삼성 박진만 감독 \"고민도 얘기도 안 했다, 우리 3루수는 김영웅\" [PO5]",
+  "published_at": "2026-11-01T02:39:00.000Z",
+  "collected_at": "2026-11-01T03:38:27.747Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 100,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "스포츠경향",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9QdnJMR0JyY3VMeXkzLTk3VUJHX0ZZNFB3M2hiX25jM3VtYkpkOGhqWXVSejYySnUxWC1ucmlpbGhRMTVRcmd1OWFCOFFmMGppYTVYYUltZEFrQnloX2RWd3BmUdIBY0FVX3lxTE9QdnJMR0JyY3VMeXkzLTk3VUJHX0ZZNFB3M2hiX25jM3VtYkpkOGhqWXVSejYySnUxWC1ucmlpbGhRMTVRcmd1OWFCOFFmMGppYTVYYUltZEFrQnloX2RWd3BmUQ?oc=5"
+    },
+    {
+      "source_name": "연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1CNnkzYmhsUk1rRnBqU1YtSUFVMTl4Y2ZiNWZSX3lVSnMtNndOSzlqamxDM3d0RlF4WnE0M3AyTEV5SG9GVndMdVp6VTBOblJXSF9IV2VGa2lpR2PSAWBBVV95cUxOZEFjb3R1UWUyUDBFZmlyR2U5VmJzcm10Qng1QkExTUt1bkwwalU5ZHl4OUI3djFfcHJaS0VmeHBXWW1JbGt2bllvRGlzR1R0eFh2bEU4SktLOFZiSmNDSUg?oc=5"
+    },
+    {
+      "source_name": "스포츠월드",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5NdC1keEloeWVHVk1TT2xNZGJic0RZcEJ0T28tcy1qbDRYSWtTZkZKSjRtQmJQX0szU2hqMUNadHNRY2lVRXZScDNRdnZBRi1UdE1pWUl3dlhRbGRCQVZwQWVR?oc=5"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "youtube-45499945",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "MBCNEWS",
+  "url": "https://www.youtube.com/watch?v=R21EDx1_MfQ",
+  "title": "PO4차전 아쉬웠던 패배 삼성라이온즈‥ 홈 5차전 \"대구에서 끝까지 이어간다\" (2026.10.31/뉴스데스크/대구MBC)",
+  "published_at": "2026-11-01T03:00:37Z",
+  "collected_at": "2026-11-01T03:38:27.747Z",
+  "summary_ko": "MBC뉴스는 PO 4차전을 아쉽게 진 삼성이 홈 5차전에서 대구에서 끝까지 이어간다는 각오를 밝혔다고 전했다.",
+  "metrics": {
+    "views": 208,
+    "likes": 2,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 34,
+    "relevance": 70
+  },
+  "sentiment": "negative",
+  "brief_ko": "삼성, 홈 5차전 각오"
+}

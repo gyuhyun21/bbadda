@@ -1,0 +1,23 @@
+{
+  "id": "community-b306eaf7",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "community",
+  "source_name": "엠엘비파크",
+  "url": "https://mlbpark.donga.com/mp/b.php?b=kbotown&id=202610310119788749&m=view",
+  "title": "KT 위즈 팬덤은 좀 있는 편인가요",
+  "published_at": "2026-10-31T04:38:27.747Z",
+  "collected_at": "2026-11-01T03:38:27.747Z",
+  "summary_ko": "",
+  "excerpt": "... 우리팀이나 삼성 엘지는 인기가 많고팬덤 화력이나 규모도 전국구로 크다고 알고 있는데 (수…",
+  "metrics": {},
+  "scores": {
+    "hot": 60,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

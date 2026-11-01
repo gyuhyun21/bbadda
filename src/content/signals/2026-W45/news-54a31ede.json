@@ -1,0 +1,28 @@
+{
+  "id": "news-54a31ede",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9fSDd0S1h4NmJwVWFxRTQ1TVVCcy1pa1RQelhXTllQQmlMMjZjOWJfMVJFWkk0ckVNSEtySmx4ckhSaUpHZ1NTVWpDN2czSkg0LTg1RFVnNnI1Z0l2VVdhenU5dzZ4dHFqd0lscGhxSdIBb0FVX3lxTE9fSDd0S1h4NmJwVWFxRTQ1TVVCcy1pa1RQelhXTllQQmlMMjZjOWJfMVJFWkk0ckVNSEtySmx4ckhSaUpHZ1NTVWpDN2czSkg0LTg1RFVnNnI1Z0l2VVdhenU5dzZ4dHFqd0lscGhxSQ?oc=5",
+  "title": "'일본, 또 일본으로' LG, 이번엔 타자 유망주 日 캠프 보낸다...이주헌 이영빈 손용준, 주니치 마무리캠프 참가",
+  "published_at": "2026-10-31T22:43:00.000Z",
+  "collected_at": "2026-11-01T03:38:27.747Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5PQWVFY1RaTWJucF9oOWxNRnlTTUY4Qjl0Tnp0UzBlSnA3MnJwMzEzdUxUeG8wa25EVXVYSFpqZEJpQTdJbURMeXdPZHNpWmNzSXpZ?oc=5"
+    }
+  ]
+}

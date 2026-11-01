@@ -1,0 +1,26 @@
+{
+  "id": "youtube-0d12dc3a",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "Hit KeBO",
+  "url": "https://www.youtube.com/watch?v=yH8pv0KAgxI",
+  "title": "운명의 최종 5차전! 💥 삼성 라이온즈, 한국시리즈 티켓을 거머쥘 선발 투수 및 타선 라인업 공개!",
+  "published_at": "2026-11-01T02:45:14Z",
+  "collected_at": "2026-11-01T03:38:27.747Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 230,
+    "likes": 3,
+    "comments": 2
+  },
+  "scores": {
+    "hot": 44,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

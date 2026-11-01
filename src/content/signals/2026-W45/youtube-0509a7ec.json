@@ -1,0 +1,25 @@
+{
+  "id": "youtube-0509a7ec",
+  "issue": "2026-W45",
+  "module": "league",
+  "teams": [],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=IehHd66RC8M",
+  "title": "[2026 울산-KBO Fall League 결승 H/L] 롱비치코스트 vs 울산웨일즈(10.31)",
+  "published_at": "2026-11-01T02:07:08Z",
+  "collected_at": "2026-11-01T03:38:27.747Z",
+  "summary_ko": "KBO 공식 채널이 울산-KBO 폴리그 결승 롱비치코스트 대 울산웨일즈(10월 31일) 하이라이트를 올렸다.",
+  "metrics": {
+    "views": 295,
+    "likes": 21,
+    "comments": 2
+  },
+  "scores": {
+    "hot": 68,
+    "relevance": 30
+  },
+  "sentiment": "neutral",
+  "brief_ko": "울산 폴리그 결승 하이라이트"
+}

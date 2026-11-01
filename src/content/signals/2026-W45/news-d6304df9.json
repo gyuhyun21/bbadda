@@ -1,0 +1,23 @@
+{
+  "id": "news-d6304df9",
+  "issue": "2026-W45",
+  "module": "league",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "엑스포츠뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1xSjlvQ1ByM2NlRWNqNjhxcm5nRmRDWDdzR05kTUR6aFpjNGp0VDVjaThBVmt5YkN6ZVVXblhmSDFTNXlaNTFxSmJSYmxuamlSejJRTg?oc=5",
+  "title": "\"낭만 있는 야구 좋아해\" 김도영은 가을야구를 즐기고 있다…\"5차전까지 온 만큼 이겨야죠\" [PO5]",
+  "published_at": "2026-10-31T16:20:53.000Z",
+  "collected_at": "2026-11-01T03:38:27.747Z",
+  "summary_ko": "엑스포츠뉴스에 따르면 KIA 김도영은 5차전까지 온 만큼 이겨야 한다며 가을야구를 즐기고 있다고 말했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 30
+  },
+  "sentiment": "neutral",
+  "brief_ko": "김도영, 가을야구를 즐긴다",
+  "team": "kia"
+}

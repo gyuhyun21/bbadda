@@ -1,0 +1,24 @@
+{
+  "id": "community-795e2061",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 새벽 스코어",
+  "url": "https://blog.naver.com/leechangin1209/224460781502",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/A1Nch68EajQ",
+  "title": "\"타순이 더 빨리 온다\" 2번 김도영, 타율 0.438로 KS행 5차전 선봉",
+  "published_at": "2026-11-01T11:50:00.000+09:00",
+  "collected_at": "2026-11-01T03:38:27.747Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

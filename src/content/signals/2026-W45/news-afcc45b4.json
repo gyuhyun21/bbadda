@@ -1,0 +1,22 @@
+{
+  "id": "news-afcc45b4",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "서울신문",
+  "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5OUVBSdXJUTnRWUDBfZGh4YVc1Y3VyWDBrRGxiY2ZUYkFObkE0by1CVXJZckxlRmZScjFJU0hNMDlMeXh6T0RNZE5CRHlXbXViOWE2NmVCN2VnNGRENWdaNjgwU1ZMX2dVdzdleg?oc=5",
+  "title": "롯데 향한 이동욱 감독의 진심...감독 재수할 만큼 간절했다.",
+  "published_at": "2026-11-01T02:41:09.000Z",
+  "collected_at": "2026-11-01T03:38:27.747Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

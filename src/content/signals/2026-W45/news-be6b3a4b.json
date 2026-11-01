@@ -1,0 +1,22 @@
+{
+  "id": "news-be6b3a4b",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9IWTV0aFJXbFNzOFRtOUstdmN4ekxzRWJyUzNQdmNPMU9XaFNGTlBNa3NtekRwZEhVUEdJNklOLV9TdjV0MkdWbVBBMGRyOThsb1U5RWhUTUtfeDdkSjN0cUpvdENNejJIbEk2WkpKNNIBb0FVX3lxTE9IWTV0aFJXbFNzOFRtOUstdmN4ekxzRWJyUzNQdmNPMU9XaFNGTlBNa3NtekRwZEhVUEdJNklOLV9TdjV0MkdWbVBBMGRyOThsb1U5RWhUTUtfeDdkSjN0cUpvdENNejJIbEk2WkpKNA?oc=5",
+  "title": "[사진] 롯데 이동욱 감독, 갭 충분히 줄일 수 있다.",
+  "published_at": "2026-10-31T05:30:00.000Z",
+  "collected_at": "2026-11-01T03:38:27.747Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 60,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

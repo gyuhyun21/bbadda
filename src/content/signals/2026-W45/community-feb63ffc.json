@@ -1,0 +1,23 @@
+{
+  "id": "community-feb63ffc",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 yulrisport",
+  "url": "https://blog.naver.com/yulri_sport/224460824136",
+  "title": "2000 탈삼진 기록, 12승 세운 에이스 투수.. 벼랑 끝 불펜 대기로 향한 반전.. 승리 이끌까?",
+  "published_at": "2026-11-01T08:39:00.000+09:00",
+  "collected_at": "2026-11-01T03:38:27.747Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

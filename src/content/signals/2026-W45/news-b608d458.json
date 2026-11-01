@@ -1,0 +1,23 @@
+{
+  "id": "news-b608d458",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "ER 이코노믹리뷰",
+  "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBWLXQ2ZHlCN1J4NHQ3cVo2Wk45NWpONmQ5b2hPdXVXbVpRSi1HaTUza19UdzhnQjNPaE1MYXl4MC1weTZWeVJvdW5HeWJ3WTBoSk1qQzlyS0U4MVdLWUJ1cXhmd3RkSFJEb1N4eA?oc=5",
+  "title": "KIA vs 삼성 PO 5차전 오후 2시…대구 강수확률 40%, 우천 취소되면? [PO 5차전]",
+  "published_at": "2026-11-01T03:08:15.000Z",
+  "collected_at": "2026-11-01T03:38:27.747Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

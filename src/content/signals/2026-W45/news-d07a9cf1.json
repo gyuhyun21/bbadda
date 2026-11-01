@@ -1,0 +1,24 @@
+{
+  "id": "news-d07a9cf1",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "조선일보",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZ2RvT1F4Vl9GWTR5dW9jcGxIV2VUbkQ3bEFIOXVVZ0o4Z0JzQmNRTGFfd01ieWVwNjhGSHRzTjdSeTI2SDVtdzQ2SzlhaEd6ZW1zY2NmWWVDME1mN3BZTzdrczZ4bGxpSThlOVM2LTEzTTUwZ1MyMkRNanNUUXMza3JQZw?oc=5",
+  "title": "KBO 신기록 작성 →144G 완주까지, 그런데 고작 '7점'을 줬다…\"내년이 더 기대된다\" 왜?",
+  "published_at": "2026-11-01T01:33:00.000Z",
+  "collected_at": "2026-11-01T03:38:27.747Z",
+  "summary_ko": "조선일보에 따르면 SSG는 KBO 신기록을 쓰며 144경기를 완주했다. 내년이 더 기대된다는 평가다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "brief_ko": "SSG, 144경기 완주"
+}

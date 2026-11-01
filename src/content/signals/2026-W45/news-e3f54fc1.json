@@ -1,0 +1,22 @@
+{
+  "id": "news-e3f54fc1",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠월드",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5PY0RHbzBCU29pM01XRFg1bUJ2R2VJLWRteWg4b0VhTkhhXzdtY1pkVzVXRnM3U2NlMkN2RXRxODVxWUdrd0FKSUdMU1BZSWNyT0E4TEF4S1VRRDd4MTZjWVpn?oc=5",
+  "title": "“돌아오기 힘들 수 있다” 했지만…이동욱 감독, 돌아 돌아 롯데로",
+  "published_at": "2026-10-31T07:56:48.000Z",
+  "collected_at": "2026-11-01T03:38:27.747Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 61,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

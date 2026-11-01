@@ -1,0 +1,26 @@
+{
+  "id": "youtube-edf1fa7f",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "외야석야구",
+  "url": "https://www.youtube.com/watch?v=BSfuXkr04ww",
+  "title": "KBO 역사상 가장 절묘한 한 걸음 #이재현 #삼성라이온즈 #KBO",
+  "published_at": "2026-11-01T02:30:01Z",
+  "collected_at": "2026-11-01T03:38:27.747Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 931,
+    "likes": 13,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 46,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

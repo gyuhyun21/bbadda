@@ -1,0 +1,33 @@
+{
+  "id": "news-b674182f",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "www.xportsnews.com",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1DVnIzd0FXaUIwblA2WDdQYkwtOXlyQ2xIWjd2M1Z4VWlHV2EtNUJBSTRjUkxfZDNZb19BbllsTVpva292OEZCVnZTU1BPMlF6d0RQUQ?oc=5",
+  "title": "박진만 감독 ‘올러를 빨리 내려야’[포토]",
+  "published_at": "2026-11-01T02:36:03.000Z",
+  "collected_at": "2026-11-01T03:38:27.747Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 100,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "마이데일리",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9yUkFuWV9CMTJEamtRMkM0QkFvclNpSHQzek5CNTg5Wm44NjNnNEpVYlFuWFRhdVZmY19RemxJU0k3bG5QWnlRZ0R6bXowdHJKWEpfaGEwVDNtUEQyZV94MQ?oc=5"
+    },
+    {
+      "source_name": "뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5yUE9wcWdUYXJOR1Q3c2UtdXF2VURCd3RyOVhXQmlGMmhGMGlWaFdKMkNOT3ZpODNoT05iNlVLYUI3ZHZJN1IyWWhhYUdQaEhxb0FOdDEwOA?oc=5"
+    }
+  ]
+}

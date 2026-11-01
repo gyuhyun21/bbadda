@@ -1,0 +1,25 @@
+{
+  "id": "community-5441fdcf",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 KBO News",
+  "url": "https://blog.naver.com/kbo_news/224460965120",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/KdM7hX6R9Ka",
+  "title": "노시환 MLB 진출, 어느 팀이 데려갈까? 307억 계약과 예상 행선지 3곳",
+  "published_at": "2026-11-01T11:57:00.000+09:00",
+  "collected_at": "2026-11-01T03:38:27.747Z",
+  "summary_ko": "한 블로그는 노시환의 MLB 예상 행선지 3곳을 꼽았다. 확인된 계약이 아닌 추측성 글이다.",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "노시환 행선지 3곳 추측"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "news-915c81b2",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "KBS 뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0zZnEwY0R4VTREWWdaeVBtQ1dQYS1EUjJpVFVLTzc2aExFS1NJNV9GM0MteHhVMWJOTkd0bUtYN0hjZlUtOGlaNGV3d0YwejNzNkZocVNtelZfTm5wZURiNklld2N6Zw?oc=5",
+  "title": "‘PO 맹타’ 삼성 류지혁 “수원 갈 짐 챙겨왔다…KS 우리가 진출”",
+  "published_at": "2026-11-01T02:37:00.000Z",
+  "collected_at": "2026-11-01T03:38:27.747Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "톱스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5SbzZlNGp6ZjUyN3dqLVJaaDl3QnhTcC1BX29JRjVIN2RsU0RrdUk2Wk5ibjE1TWQ3azFVRkZaS3pxeFJvS1p5Vlh4YU5hUkNGZEJsVlZHNkxBcndCSXh4bkRVOG02R2UzWnU4clMyS01vQQ?oc=5"
+    }
+  ]
+}

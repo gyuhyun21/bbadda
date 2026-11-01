@@ -1,0 +1,23 @@
+{
+  "id": "news-ee6bccd7",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "엑스포츠뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1TaERpcWUxaXNpOE9rV1p6Q3pNcmtOSzF0NEM3ZjRiUTdqT2hSUDFBUmozTnJuTzZIaFNiRUh5VlBUQ2xpaTQ5QkRQTWpoZHAtbTJMeA?oc=5",
+  "title": "롯데 승리 함께 지키더니, 대표팀까지 동반 승선! 관심사도 비슷한 최준용·박정민, 야구 얘기에 '리프레시'까지 같이 하는 중",
+  "published_at": "2026-10-31T03:49:08.000Z",
+  "collected_at": "2026-11-01T03:38:27.747Z",
+  "summary_ko": "엑스포츠뉴스에 따르면 롯데 최준용과 박정민이 대표팀에 함께 승선했다. 둘은 관심사가 비슷해 야구 얘기를 나누며 쉬고 있다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 59,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "brief_ko": "최준용·박정민 대표팀 동반"
+}

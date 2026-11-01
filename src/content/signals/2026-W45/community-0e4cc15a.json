@@ -1,0 +1,25 @@
+{
+  "id": "community-0e4cc15a",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 스포츠 인사이트",
+  "url": "https://blog.naver.com/base-goal/224460927492",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/tlhqHKAkom",
+  "title": "\"34홈런 118타점 쳤는데 좌익수 보내겠다고?” 강백호·류지현, 포지션부터 엇갈리는 이유",
+  "published_at": "2026-11-01T12:00:00.000+09:00",
+  "collected_at": "2026-11-01T03:38:27.747Z",
+  "summary_ko": "한 블로그는 34홈런 118타점을 친 강백호의 포지션을 두고 좌익수 기용 얘기가 나온다며 류지현 감독과 시각이 엇갈린다고 짚었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "brief_ko": "강백호 포지션 엇갈림"
+}

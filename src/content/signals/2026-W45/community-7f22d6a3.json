@@ -1,0 +1,24 @@
+{
+  "id": "community-7f22d6a3",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&page=4&document_srl=10506282030",
+  "title": "삼성이든 기아든 올라오는쪽은 긴장 좀 해야될듯 - 야구",
+  "published_at": "2026-11-01T00:38:27.747Z",
+  "collected_at": "2026-11-01T03:38:27.747Z",
+  "summary_ko": "",
+  "excerpt": "... 최근 9년간 평균자책점 0, 무패의 롯데 자이언츠 만나야되니까.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

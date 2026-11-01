@@ -1,0 +1,27 @@
+{
+  "id": "youtube-e2d60185",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "youtube",
+  "source_name": "양사장의 트윈스볼",
+  "url": "https://www.youtube.com/watch?v=em94ij_L5Q4",
+  "title": "LG트윈스 예비FA 홍창기를 향한 차가운 시선..",
+  "published_at": "2026-11-01T00:00:28Z",
+  "collected_at": "2026-11-01T03:38:27.747Z",
+  "summary_ko": "한 팬 채널이 예비 FA인 LG 홍창기를 향한 팬들의 시선을 다뤘다.",
+  "metrics": {
+    "views": 8995,
+    "likes": 236,
+    "comments": 30
+  },
+  "scores": {
+    "hot": 69,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "예비 FA 홍창기 시선"
+}

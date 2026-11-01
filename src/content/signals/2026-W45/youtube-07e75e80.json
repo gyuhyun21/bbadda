@@ -1,0 +1,27 @@
+{
+  "id": "youtube-07e75e80",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "youtube",
+  "source_name": "부산MBC뉴스",
+  "url": "https://www.youtube.com/watch?v=GXe87UaqHxA",
+  "title": "새 감독·새 단장 롯데, ′스마트 야구′로 반등 노린다",
+  "published_at": "2026-11-01T02:27:53Z",
+  "collected_at": "2026-11-01T03:38:27.747Z",
+  "summary_ko": "부산MBC뉴스는 새 감독과 새 단장을 맞은 롯데가 스마트 야구로 반등을 노린다고 전했다.",
+  "metrics": {
+    "views": 904,
+    "likes": 7,
+    "comments": 3
+  },
+  "scores": {
+    "hot": 43,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "롯데, 스마트 야구로 반등"
+}

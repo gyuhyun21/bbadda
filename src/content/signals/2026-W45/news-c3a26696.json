@@ -1,0 +1,23 @@
+{
+  "id": "news-c3a26696",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "스타뉴스",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9fcHVXUi1PYWVhWm43TFpSdWlmMVAyaDVVcWlDN2NNZW83d3QyZkpOSVhjSU1POWo3SUdMWmVTdUFnTHYyTlBZMXBvSWh0MUJWYzN3V1NaNk9QRkNwa05DaWpkVW1PMXdSNGMydDhzOVNkSXNqZ0E?oc=5",
+  "title": "'치명 실책' 김영웅+'부상 투혼' 강민호 그대로! 삼성, 5차전 라인업 공개→타순만 일부 조정 [PO5 현장]",
+  "published_at": "2026-11-01T02:28:31.000Z",
+  "collected_at": "2026-11-01T03:38:27.747Z",
+  "summary_ko": "삼성이 PO 5차전 라인업을 공개했다. 4차전 실책을 범한 김영웅과 부상 중인 강민호가 그대로 선발로 나서고 타순만 일부 바뀌었다고 스타뉴스가 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "negative",
+  "brief_ko": "삼성, 5차전 라인업 공개"
+}

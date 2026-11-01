@@ -1,0 +1,23 @@
+{
+  "id": "community-03d3026c",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 스포츠랑 함께하는 일상",
+  "url": "https://blog.naver.com/juhyun002/224460964866",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/Cq4nsGEhnBB",
+  "title": "KIA 양현종, 선발 대신 불펜으로... 대투수가 걸어온 길과 달라진 현재",
+  "published_at": "2026-11-01T11:57:00.000+09:00",
+  "collected_at": "2026-11-01T03:38:27.747Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

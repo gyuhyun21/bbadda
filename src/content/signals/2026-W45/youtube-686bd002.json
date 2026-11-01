@@ -1,0 +1,26 @@
+{
+  "id": "youtube-686bd002",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "아치하이넷",
+  "url": "https://www.youtube.com/watch?v=u_d4Jjcerow",
+  "title": "KIA 불펜에서 벌어진 한준수 전용 공연 #한준수 #기아타이거즈",
+  "published_at": "2026-11-01T02:30:00Z",
+  "collected_at": "2026-11-01T03:38:27.747Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1760,
+    "likes": 28,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 50,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-cf04be6a",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20261101_0003849695",
+  "title": "실책 후 눈물 흘린 김영웅 감싼 삼성 류지혁 \"누구라도 못 잡는 타구\"[PO]",
+  "published_at": "2026-11-01T03:04:29.000Z",
+  "collected_at": "2026-11-01T03:38:27.747Z",
+  "summary_ko": "뉴시스에 따르면 삼성 류지혁은 실책 뒤 눈물을 흘린 김영웅에게 누구라도 못 잡는 타구였다며 감쌌다.",
+  "metrics": {},
+  "scores": {
+    "hot": 84,
+    "relevance": 70
+  },
+  "sentiment": "negative",
+  "brief_ko": "류지혁이 감싼 김영웅"
+}

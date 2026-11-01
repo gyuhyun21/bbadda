@@ -1,0 +1,24 @@
+{
+  "id": "community-1c30da13",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "더쿠",
+  "url": "https://theqoo.net/kbaseball?filter_mode=hot",
+  "title": "국내야구",
+  "published_at": "2026-10-31T23:38:27.747Z",
+  "collected_at": "2026-11-01T03:38:27.747Z",
+  "summary_ko": "",
+  "excerpt": "... 리얼베리어X더쿠 120시간 촉촉한 피부장벽 케어! 익스트림 프로세라 로션 체험 이벤트 268; [ 필독 ]…",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

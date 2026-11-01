@@ -1,0 +1,33 @@
+{
+  "id": "news-adfb1832",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "조선일보",
+  "url": "https://www.chosun.com/sports/baseball/2026/11/01/HE2GGNDFGUZWGMLBGI2TEZRQG4/",
+  "title": "롯데의 마지막 한국시리즈 이끈 ‘17승 에이스’, 다시 고향팀과 작별…“돌아와 행복했다”",
+  "published_at": "2026-11-01T01:40:00.000Z",
+  "collected_at": "2026-11-01T03:38:27.747Z",
+  "summary_ko": "조선일보에 따르면 롯데의 마지막 한국시리즈를 이끈 17승 에이스가 고향팀 롯데와 다시 작별한다. 선수는 돌아와 행복했다고 말했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 83,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1halFVUEJOamdRR211NG04ZTk3Wk11S1c3bVRQdWVIc3ZvX2JndzlFczZtSHl2UTVVN0VDZEgtYXUzV0t1bnM1REp1ZThMSDF0b1kxWFBjZFhQQ3U1WTZIM0gwY1o1VHJzcE5qNWhERdIBb0FVX3lxTE1halFVUEJOamdRR211NG04ZTk3Wk11S1c3bVRQdWVIc3ZvX2JndzlFczZtSHl2UTVVN0VDZEgtYXUzV0t1bnM1REp1ZThMSDF0b1kxWFBjZFhQQ3U1WTZIM0gwY1o1VHJzcE5qNWhERQ?oc=5"
+    },
+    {
+      "source_name": "OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1pQUZkRUF4MDN2dmRyOEJBcEJfSlQtc0QtZVFPVDEzRFpGOV9jblNoQ0s2cjhTTk00X0tLS0ttZzU4WkpMWURoX29wODFRUzMxcjhaNA?oc=5"
+    }
+  ],
+  "brief_ko": "롯데 17승 에이스와 작별"
+}

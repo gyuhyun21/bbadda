@@ -1,0 +1,27 @@
+{
+  "id": "youtube-fcd138df",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "정병야구",
+  "url": "https://www.youtube.com/watch?v=GbvvILhU5mE",
+  "title": "세계 최초 잡담사 #kbo #야구 #프로야구 #삼성라이온즈 #롯데자이언츠 #강민호",
+  "published_at": "2026-11-01T03:00:29Z",
+  "collected_at": "2026-11-01T03:38:27.747Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1043,
+    "likes": 5,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 39,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

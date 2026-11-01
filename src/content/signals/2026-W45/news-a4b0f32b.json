@@ -1,0 +1,30 @@
+{
+  "id": "news-a4b0f32b",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠한국",
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1YcmNZb055VktzNlE5ZUNiZ0hqVUVYOGNSdktJbWFSbURKaVpWUGlKZUxYOEtRMnprVVBDU24xS0tuVFVsdTNoMFM1WmNfYzNIRDVhRkZYM0N6Y0o3V3Y3ZnprZWpSaHlnQTlpUXN4UW_SAXRBVV95cUxQMmdtQVM2ellJQ0JKRFpCZWh3bFBFWEEwcVBIelFlRnhtZ1pwcWxmUHh6WHh2T1ZQa0hQWGtjTTNqNHZKeHRHOVhNdHY1ZjhXZlpOdlM3UTM0NzNnbUE0ZjhZY2stLXRPUFdGUU9DVkN0ZTJreg?oc=5",
+  "title": "‘PO 4차전 치명적 실책’ 김영웅, 5차전 재출격…박진만 감독 “고민 안했다”",
+  "published_at": "2026-11-01T02:35:37.000Z",
+  "collected_at": "2026-11-01T03:38:27.747Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 92,
+    "relevance": 70
+  },
+  "sentiment": "negative",
+  "also_in": [
+    {
+      "source_name": "뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8wQ1VOZVRoNFBINVNKdDVSUm1EZ3Y2SFoxM3Vua0J3LS00N1hPcjRzSUJYRlBJNXA2QW8wOXFaWElUOFVUdENOMk9NNDBqNjlLTTZZRE5yUUplSF9LM3ZxddIBeEFVX3lxTE13SWtGY0dpOU9nWUNURGsyTjdoNEVLeEt4MkRrWFJwR3NjckFGSDg5MTFaVzFzcHk5MkF1NjZ2M0FYRDVzVDZkN29scmVOVEUxVzFXaEhIQWdweHVfb3VOeTBINXNnN092ME1fMzFhMlJiUURMZU9Faw?oc=5"
+    }
+  ]
+}

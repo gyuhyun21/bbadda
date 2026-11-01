@@ -1,0 +1,23 @@
+{
+  "id": "news-ee32da86",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "한국강사신문",
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBqVFAxanM4NjItdmRiX0RNck43T1FkV1RPeTR6czJzd1dKQXJQRFhqRWJqUjgxVzBKallnV0F1ak5wZnIxSFVUN29KWVp0ZVNtbVVSSk5vYjhYTEpJaUlETGNXLXdIME9PQjVSaHFtYzE?oc=5",
+  "title": "다큐멘터리 3일, 세대를 이어온 야구팬부터 선수·그라운드 관리 직원까지… 44년 추억 깃든 잠실야구장과의 마지막 인사",
+  "published_at": "2026-10-31T23:38:00.000Z",
+  "collected_at": "2026-11-01T03:38:27.747Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

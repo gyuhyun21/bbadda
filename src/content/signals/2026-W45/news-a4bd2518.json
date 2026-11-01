@@ -1,0 +1,24 @@
+{
+  "id": "news-a4bd2518",
+  "issue": "2026-W45",
+  "module": "rivalry",
+  "team": "hanwha",
+  "teams": [
+    "hanwha",
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "스타뉴스",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBmYnZnbmg5cVVOR2VsREY2RndIOGZYYkI4VUpDZVpiSXU3MUJNS0xqY1FIbWtHMTIzSVJlMTNFSGJkZWx2V29zSm9FM0dsMkZ1dno2c09JQUhsQU8xRFBZRDZYZFlKN1JwYmFQTnAxUURlTzZkYmc?oc=5",
+  "title": "'158㎞ 한화 파이어볼러→LG 지명 포수' 韓 U-23 대표팀, 결전지 니카라과로 오늘(1일) 출국! 세계 첫 정상 도전 나선다",
+  "published_at": "2026-11-01T03:01:00.000Z",
+  "collected_at": "2026-11-01T03:38:27.747Z",
+  "summary_ko": "스타뉴스에 따르면 한화 파이어볼러와 LG 지명 포수 등이 포함된 한국 U-23 야구대표팀이 1일 세계선수권이 열리는 니카라과로 출국했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "U-23 대표팀, 니카라과행"
+}

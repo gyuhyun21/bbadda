@@ -1,0 +1,22 @@
+{
+  "id": "news-e11ae46a",
+  "issue": "2026-W45",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠경향",
+  "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5oT1h2NFBCMWp5cGNVOU1YX2lUMUxodjEzNzJrekkzZE00YThsZG5aRUFjOTU3d2VubUk2MXVVMGFxSXpmX3F2MEdmb3pkbWFNUkc2MmxmMzRtbTQyVnfSAWNBVV95cUxNM2tJZG42QnROZWdkNFJBemJicmliN0tjV3piTHRKMHNaaDB4VHUtRzJMeFhCX25YcWRvZ2FCSElSWmEyencwLUJfMnNpLXZVdWhzY3pIT2VUem1jUk5kSVY2LWM?oc=5",
+  "title": "[스경X현장]롯데 지휘봉 잡은 이동욱 감독 취임 일성 “우리의 목표는 완주가 아닌, 승리하는 팀”",
+  "published_at": "2026-10-31T05:12:00.000Z",
+  "collected_at": "2026-11-01T03:38:27.747Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 60,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

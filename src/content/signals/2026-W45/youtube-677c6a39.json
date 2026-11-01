@@ -1,0 +1,26 @@
+{
+  "id": "youtube-677c6a39",
+  "issue": "2026-W45",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "youtube",
+  "source_name": "크보분석실",
+  "url": "https://www.youtube.com/watch?v=XbSTB5QGs_w",
+  "title": "자신의 팀과 싸웠던 투수 두산베어스 곽빈",
+  "published_at": "2026-11-01T00:00:27Z",
+  "collected_at": "2026-11-01T03:38:27.747Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 820,
+    "likes": 6,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 39,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}
