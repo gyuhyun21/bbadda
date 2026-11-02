@@ -1,0 +1,24 @@
+{
+  "id": "community-e8fea781",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "레딧 r/KBO",
+  "url": "https://www.reddit.com/r/KBO/comments/1xm4z4w/suwon_2026_kbo_korean_series/",
+  "title": "Suwon: 2026 KBO KOREAN SERIES",
+  "published_at": "2026-11-02T18:38:34.009Z",
+  "collected_at": "2026-11-02T21:38:34.009Z",
+  "summary_ko": "",
+  "excerpt": "... 2026 신한 SOL KBO Postseason Semi-Playoff Match - LG Twins vs. KIA Tigers. 5.…",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

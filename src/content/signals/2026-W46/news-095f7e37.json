@@ -1,0 +1,23 @@
+{
+  "id": "news-095f7e37",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "마이데일리",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9kbUY4a1RfRl9PUUZUM281b1pwYkwySi11azJsbnJwRW10Q2xtR2VHZHpjWmJQLV9PYlowaHBqbXYxOHE3MUo1bzFBUWdXWjdnWllGU18zY0hLcXhsVTlONA?oc=5",
+  "title": "'韓 야구 팬들 궁금' 160.3km 韓 국대 에이스인데, 과연 ML 진출 꿈 이룰 수 있나…\"KWAK 선발로 뛰려면 증명해라, 아직이다\"",
+  "published_at": "2026-11-02T16:41:00.000Z",
+  "collected_at": "2026-11-02T21:38:34.009Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

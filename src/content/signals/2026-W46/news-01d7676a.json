@@ -1,0 +1,23 @@
+{
+  "id": "news-01d7676a",
+  "issue": "2026-W46",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kt"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스핌",
+  "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1BZ25qSHlJbV8xS080SG9jNC1NRmFNQVR2MWMtT2U2RmJTaTRWVy10YlZ6Q3o1cjJ0eGpkWUdndmdqMS1Md1JCQmNqVUNIOHF5c2hCSjZob2o2aGNE?oc=5",
+  "title": "[KS 포커스] '5년 전 고개 숙인' 삼성 원태인, 이번엔 KT 상대로 웃을까",
+  "published_at": "2026-11-02T20:48:00.000Z",
+  "collected_at": "2026-11-02T21:38:34.009Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

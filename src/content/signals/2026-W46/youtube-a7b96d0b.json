@@ -1,0 +1,28 @@
+{
+  "id": "youtube-a7b96d0b",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "kt wiz - 위즈TV",
+  "url": "https://www.youtube.com/watch?v=cmlgCCrlzvM",
+  "title": "2026 kt wiz 한국시리즈 D-1 [위즈티비]",
+  "published_at": "2026-11-02T16:44:35Z",
+  "collected_at": "2026-11-02T21:38:34.009Z",
+  "summary_ko": "kt wiz 공식 채널이 한국시리즈 D-1 영상 '2026 kt wiz 한국시리즈 D-1'을 올렸다.",
+  "metrics": {
+    "views": 4840,
+    "likes": 266,
+    "comments": 68
+  },
+  "scores": {
+    "hot": 84,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "위즈TV, KS D-1 공개"
+}

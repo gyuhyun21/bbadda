@@ -1,0 +1,23 @@
+{
+  "id": "news-3b929498",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "일간스포츠",
+  "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1PTUUwWVN0NGJFeV9BN3lQNkJHZHpvbXZmSUg2UkhXQmdBaW9BdmsxZHpUaG02am1aZFZBbm11dEFkU0NaenQ1YXZSVlJfRVFWZVVyRGwyZURnQW8?oc=5",
+  "title": "“상수 형, 반지 양보해 줘” “규민아, 내 반지 줄게” 우승 반지가 뭐길래, KS에서 우정은 소용없다 [IS 인터뷰]",
+  "published_at": "2026-11-02T20:04:00.000Z",
+  "collected_at": "2026-11-02T21:38:34.009Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

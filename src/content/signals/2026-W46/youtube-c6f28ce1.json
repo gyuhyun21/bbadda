@@ -1,0 +1,26 @@
+{
+  "id": "youtube-c6f28ce1",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "youtube",
+  "source_name": "박주홍은터진다",
+  "url": "https://www.youtube.com/watch?v=jPYxNWQdEAA",
+  "title": "공 대신 방망이 날린 장재영 #장재영 #키움히어로즈",
+  "published_at": "2026-11-02T15:44:01Z",
+  "collected_at": "2026-11-02T21:38:34.009Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1239,
+    "likes": 0,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 38,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

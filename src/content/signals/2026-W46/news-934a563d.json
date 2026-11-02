@@ -1,0 +1,24 @@
+{
+  "id": "news-934a563d",
+  "issue": "2026-W46",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "국제뉴스",
+  "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE54ZGxnbWViWUFmMW1Ed3JRUDMwdEg4OG4yYW84TS1IMXZqM0Y3dnM0MmlKb09rX0V1TUJycUpKY2FMRi1ha3pCR1AwS0Z1czdpWWU5MUVCd3dJTnl0Y050RHJNdVRobnpvWmMyRVlB?oc=5",
+  "title": "한국시리즈 1차전 \"현장예매 가능\" 중계일정·시간",
+  "published_at": "2026-11-02T15:02:00.000Z",
+  "collected_at": "2026-11-02T21:38:34.009Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 82,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "community-847bdd13",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 언덕위의작은집 이야기 (로비의 스포츠 칼럼)",
+  "url": "https://blog.naver.com/kshabsolute1/224462719832",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/766l6c1Ri1t",
+  "title": "[KBO] \"캐치볼도 못하는데 어떻게 프로에 왔나?\"…조성환 코치의 쓴소리, 한국 야구가 귀담아들어야 할...",
+  "published_at": "2026-11-03T00:27:00.000+09:00",
+  "collected_at": "2026-11-02T21:38:34.009Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "youtube-2d23dc8f",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "야구자판기",
+  "url": "https://www.youtube.com/watch?v=xF2z86UXmrM",
+  "title": "기아 2027 스토브리그 | 카스트로·네일·올러 남을까? 떠나는 사람·들어오는 사람 총정리",
+  "published_at": "2026-11-02T12:18:45Z",
+  "collected_at": "2026-11-02T21:38:34.009Z",
+  "summary_ko": "야구자판기 영상은 KIA의 2027 스토브리그에서 카스트로·네일·올러가 남을지, 떠나고 들어오는 선수를 정리했다.",
+  "metrics": {
+    "views": 98199,
+    "likes": 271,
+    "comments": 220
+  },
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "KIA 스토브, 외인 3인 거취"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-097ad8c0",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "마이데일리",
+  "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE14Y3RteGphQUpGUGNTSzM4M3pnOU5URnpnM2hFSUloSy1VRmhITXdZWFJ1a0JUWXNwWjQzdXNfbzlJblBUU2NxQXZmcUZsSUVJbUJHOXY1T0NYZk1ORC0wMnI2WFlqZw?oc=5",
+  "title": "'타구 개떡같이 와도 찰떡같이 잡아라' 박진만 바람에도 디아즈 불명예 타이 굴욕 \"수비 자부심 대단한 선수, 떡 먹고 잘하길\" [MD수원]",
+  "published_at": "2026-11-02T20:41:00.000Z",
+  "collected_at": "2026-11-02T21:38:34.009Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

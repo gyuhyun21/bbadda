@@ -1,0 +1,24 @@
+{
+  "id": "community-80d72a01",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 오늘의퀴즈정답",
+  "url": "https://jhs5399.tistory.com/229",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/KGfjNtE31As",
+  "title": "신한 쏠퀴즈 11월 3일 정답 공개 [야구 보고 포인트 받기]",
+  "published_at": "2026-11-03T00:32:52.000+09:00",
+  "collected_at": "2026-11-02T21:38:34.009Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

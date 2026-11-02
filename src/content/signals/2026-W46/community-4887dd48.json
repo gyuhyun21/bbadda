@@ -1,0 +1,23 @@
+{
+  "id": "community-4887dd48",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 베이스러너",
+  "url": "https://blog.naver.com/ghs102102/224462799442",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/CPKjMoMNSTs",
+  "title": "\"김도영 ML 20~25홈런 가능\" KIA 김도영의 역대급 MLB닷컴 극찬 공개! 다저스 이름까지 나왔습니다..",
+  "published_at": "2026-11-03T03:10:00.000+09:00",
+  "collected_at": "2026-11-02T21:38:34.009Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

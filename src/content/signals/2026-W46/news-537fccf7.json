@@ -1,0 +1,25 @@
+{
+  "id": "news-537fccf7",
+  "issue": "2026-W46",
+  "module": "rivalry",
+  "team": "hanwha",
+  "teams": [
+    "hanwha",
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://www.sportschosun.com/baseball/2026-11-02/202611030100014780001303",
+  "title": "\"노시환 영입전, 발등에 불이 떨어졌다\" 이런 관심이라고?…'즉전감' 평가에 구체적 구단까지 나왔다",
+  "published_at": "2026-11-02T20:36:36.000Z",
+  "collected_at": "2026-11-02T21:38:34.009Z",
+  "summary_ko": "스포츠조선은 노시환을 향한 관심이 커져 영입전에 불이 붙었고 구체적인 구단까지 거론됐다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "노시환 영입전 후끈"
+}

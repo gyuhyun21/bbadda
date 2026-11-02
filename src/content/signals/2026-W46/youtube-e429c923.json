@@ -1,0 +1,26 @@
+{
+  "id": "youtube-e429c923",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "youtube",
+  "source_name": "샤라즈",
+  "url": "https://www.youtube.com/watch?v=tm3MD3BuHm8",
+  "title": "박철순 고스변(개같이 실패) #두산베어스 #컴투스프로야구 #빠꿈 #크보",
+  "published_at": "2026-11-02T17:37:43Z",
+  "collected_at": "2026-11-02T21:38:34.009Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 27,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 17,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

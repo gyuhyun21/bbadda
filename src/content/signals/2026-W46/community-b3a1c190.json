@@ -1,0 +1,22 @@
+{
+  "id": "community-b3a1c190",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 Yestistory",
+  "url": "https://newsgdr.com/13949",
+  "title": "KIA 김도영, KS 좌절에 분노…버스 먼저 탑승한 사연은?",
+  "published_at": "2026-11-03T00:35:41.000+09:00",
+  "collected_at": "2026-11-02T21:38:34.009Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}
