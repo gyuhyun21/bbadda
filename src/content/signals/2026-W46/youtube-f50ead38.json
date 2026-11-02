@@ -1,0 +1,26 @@
+{
+  "id": "youtube-f50ead38",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "youtube",
+  "source_name": "오늘스포츠",
+  "url": "https://www.youtube.com/watch?v=CxYzupuLjLQ",
+  "title": "롯데 자이언츠 박세웅 — 팀 최고 연봉의 2승 #Shorts",
+  "published_at": "2026-11-02T10:30:31Z",
+  "collected_at": "2026-11-02T13:40:06.157Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 361,
+    "likes": 0,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 33,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

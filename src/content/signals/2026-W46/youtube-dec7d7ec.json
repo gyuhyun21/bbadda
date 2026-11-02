@@ -1,0 +1,26 @@
+{
+  "id": "youtube-dec7d7ec",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "뉴뉴뉴스",
+  "url": "https://www.youtube.com/watch?v=gbsrPCQbbrQ",
+  "title": "KIA 떠난 최형우, 호랑이 앞에서 가을 지배#최형우 #삼성라이온즈 #노익장 #플레이오프 #한국시리즈 #KBO",
+  "published_at": "2026-11-02T12:00:03Z",
+  "collected_at": "2026-11-02T13:40:06.157Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 804,
+    "likes": 5,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 40,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

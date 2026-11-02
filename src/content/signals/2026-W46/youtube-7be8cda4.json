@@ -1,0 +1,27 @@
+{
+  "id": "youtube-7be8cda4",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt",
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "오브릭 ORBRIC",
+  "url": "https://www.youtube.com/watch?v=HXsdt8u1gLE",
+  "title": "KT 삼성 한국시리즈 1차전: KT 21일 공백, 삼성 하루 휴식 #KBO #KT위즈 #kt #삼성라이온즈 #기아타이거즈 #오브릭 #한국시리즈",
+  "published_at": "2026-11-02T12:19:24Z",
+  "collected_at": "2026-11-02T13:40:06.157Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 732,
+    "likes": 0,
+    "comments": 2
+  },
+  "scores": {
+    "hot": 37,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-58c613aa",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "news",
+  "source_name": "www.xportsnews.com",
+  "url": "https://www.xportsnews.com/article/2214399",
+  "title": "한화 대형 뉴스! 대전 왕자, 스캠 합류 청신호…류지현 감독 \"문동주+엄상백+김민우 12월 동반 재활 훈련 계획\" [미야자키 현장]",
+  "published_at": "2026-11-02T09:55:26.000Z",
+  "collected_at": "2026-11-02T13:40:06.157Z",
+  "summary_ko": "엑스포츠뉴스에 따르면 한화 류지현 감독은 문동주·엄상백·김민우를 12월에 함께 재활시킬 계획이라고 밝혔다. 문동주의 스프링캠프 합류 가능성도 거론됐다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "한화, 문동주 등 12월 동반 재활"
+}

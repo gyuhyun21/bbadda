@@ -1,0 +1,44 @@
+{
+  "id": "news-37d1f9b6",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "news",
+  "source_name": "한국아이닷컴",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1neFRmVnY5Tzh0cHpoOUg2QXEyQmpaSDNqQTFiaU5rblNZR1JXRUlac19NRDhpbzB0VENyWGNLanh6S2VFOENkTE1ObjlQaWk0QjktWUtpZTM1V0JHWDJ3OTRUQVRGM1BqSnMwMzZYTdIBb0FVX3lxTE1neFRmVnY5Tzh0cHpoOUg2QXEyQmpaSDNqQTFiaU5rblNZR1JXRUlac19NRDhpbzB0VENyWGNLanh6S2VFOENkTE1ObjlQaWk0QjktWUtpZTM1V0JHWDJ3OTRUQVRGM1BqSnMwMzZYTQ?oc=5",
+  "title": "KT, 삼성전자와 KT위즈파크 AI 네트워크 검증",
+  "published_at": "2026-11-02T00:25:07.000Z",
+  "collected_at": "2026-11-02T13:40:06.157Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 95,
+    "relevance": 50
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "전자신문",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1oQTdTT2p5dW1DWHRzMlVVRFRTR1dxTThDSTRiQmtIZkYzX25Zb05uaElKazR6U09PZHZLSExwZDBFbjROWGhvZkhXMEFTdw?oc=5"
+    },
+    {
+      "source_name": "아이티데일리",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9vNzMySG9SakxrMHRuUDdLaDdFZnRRa2RLd3N2Y2d6X2thNGNoemp0Q1R4UGdObEhLSWMwcjlOYTJuNmZTUHRiOHdVT2pWOXVQVzdzTlJsUDl2OUo3TkJvaE5FYXpSQU9s?oc=5"
+    },
+    {
+      "source_name": "신아일보",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB5YVA2SW10MFdRT2pWTDNuQU0yRl9xN2VmUkVMNTVTZTFvNXJUYTQ3bmM2dV9wY3JpU1FwSnVhc3k1OVRHR05Ea0xBYzYyTmFiMDJZLWtZbHppbjNYbUtpVUhtNFhFc09ETnRwZHV0UjA?oc=5"
+    },
+    {
+      "source_name": "NSP통신",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB0YjFYNnVxdlN6aDBHNUxzZEhxTElrUTFrMHhKS015alM1WVJNaEFleHM4NndFcDdIRDJMSVVhVENvV25tM2ZJaXNjeHBpZ0ZTSGRFU0QtS1ItVXhleGdwVA?oc=5"
+    },
+    {
+      "source_name": "직썰",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBKX3NIR2FhWldXN1JkV242SXJxR1hVRTV4Mm1ZTnBHUThVNk1qLVE1Y0NYSGU1RllpcWUwOHNVRzdnZldFcUE4ME1OQV9BUkNNdGF4cWdfZHN1YndVaWNydktUYnZYRXE1Y1pGetIBbEFVX3lxTFBKX3NIR2FhWldXN1JkV242SXJxR1hVRTV4Mm1ZTnBHUThVNk1qLVE1Y0NYSGU1RllpcWUwOHNVRzdnZldFcUE4ME1OQV9BUkNNdGF4cWdfZHN1YndVaWNydktUYnZYRXE1Y1pGeg?oc=5"
+    }
+  ]
+}

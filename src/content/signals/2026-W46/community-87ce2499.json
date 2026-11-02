@@ -1,0 +1,24 @@
+{
+  "id": "community-87ce2499",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 세상레이더",
+  "url": "https://blog.naver.com/rose2370/224462554830",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/rnWS5bnssL",
+  "title": "\"캐치볼도 못 하는데 어떻게 프로에?\" 조성환 수석코치가 한국 야구에 던진 독설",
+  "published_at": "2026-11-02T18:41:00.000+09:00",
+  "collected_at": "2026-11-02T13:40:06.157Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

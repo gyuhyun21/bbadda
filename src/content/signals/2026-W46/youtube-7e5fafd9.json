@@ -1,0 +1,41 @@
+{
+  "id": "youtube-7e5fafd9",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kt"
+  ],
+  "source_type": "youtube",
+  "source_name": "삼미노_삼성라이온즈 이야기",
+  "url": "https://www.youtube.com/watch?v=qw6hyN8I3Hw",
+  "title": "삼성라이온즈 한국시리즈 우승 시나리오? [삼성 vs KT 전력분석]",
+  "published_at": "2026-11-02T11:44:27Z",
+  "collected_at": "2026-11-02T13:40:06.157Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 2187,
+    "likes": 93,
+    "comments": 23
+  },
+  "scores": {
+    "hot": 80,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "한국일보",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE84RVppMU0yQWpmTXh6QWQ0Z1pQU0tlMldHVmtDeWUzMHI2S0JwSnZqcmViZGsyak1EeC1iT1JoYW1wT1dRUGRMcDlQbWk1UkRQM01xX1ZmUHJ5Q2dfTnlSRmlFY3QxTG41Yl9XU0F30gFzQVVfeXFMT2FtV2t1WmJodFVQRUo1RldhaHg4UVJtRlFkMWx4WC1CeU1DSWplZUtVTElUSU1xZ0RvMEhTU28zNnNEZWNEeDQ1RGFUR3VDbGE5azRNbzRqc3RPM2M4aHF2MjdQQ1hnSlR4TmFMbm41OVNMTQ?oc=5"
+    },
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9jWS1Fd21kU2pRXy15bkpxQUQ5MEVSekVzOXF0aWlpelVCclVJMzZvMmJmRlBrOWZqWTBBbE5XeEh1TG1wMWkxOThqRVEwR1pHN0w0RVdyRFAyOWRSMk43VDdsNEVyM1FGX1Y1Tm5pTdIBb0FVX3lxTE9jWS1Fd21kU2pRXy15bkpxQUQ5MEVSekVzOXF0aWlpelVCclVJMzZvMmJmRlBrOWZqWTBBbE5XeEh1TG1wMWkxOThqRVEwR1pHN0w0RVdyRFAyOWRSMk43VDdsNEVyM1FGX1Y1Tm5pTQ?oc=5"
+    },
+    {
+      "source_name": "미주중앙일보",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBZWllPUHNmb2ZWTC1Sc2JIbGVTLU9UTDNkNTBrUHBTanFfQTNlREJScjVyb1lzNXBLdjZNRUpmblJoZTZlRGFNNVV6N0s2UkxCVWZjYXBSZDU2aHBlSkw0SVBn?oc=5"
+    }
+  ]
+}

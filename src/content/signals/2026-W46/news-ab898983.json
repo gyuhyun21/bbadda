@@ -1,0 +1,23 @@
+{
+  "id": "news-ab898983",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "MHN스포츠",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBpREtwSFl4YndVTi1nWm9qanRra1AtbmZXcU5La1ZWLXlscVRNajdTblVzVHlsdXVhTFF4MmR1Z1BYTEdEbjl2cktSS0xGb3ZOTm41TG5ZQnF0NlBZMjZsNWI2aw?oc=5",
+  "title": "‘MLB닷컴’ 노시환 호평 “방망이 강력해, 메이저리그급…수비는 약점”",
+  "published_at": "2026-11-02T09:01:49.000Z",
+  "collected_at": "2026-11-02T13:40:06.157Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "youtube-5d7c6d9d",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "youtube",
+  "source_name": "세이버한페이지",
+  "url": "https://www.youtube.com/watch?v=YLA6AU1lEnY",
+  "title": "선수가 감독을 맡는 NC의 특별 경기",
+  "published_at": "2026-11-02T08:38:30Z",
+  "collected_at": "2026-11-02T13:40:06.157Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 14,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 14,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

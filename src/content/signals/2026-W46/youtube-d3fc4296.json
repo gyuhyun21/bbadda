@@ -1,0 +1,26 @@
+{
+  "id": "youtube-d3fc4296",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "source_name": "위니비니수리",
+  "url": "https://www.youtube.com/watch?v=vcdtOJkWpdY",
+  "title": "뚱냥이 국대 전날 #허인서 #조동욱 #문현빈 #APBC #한화이글스 #마라탕 #뚱냥이 #돌멩이",
+  "published_at": "2026-11-02T11:14:15Z",
+  "collected_at": "2026-11-02T13:40:06.157Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 895,
+    "likes": 9,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 44,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

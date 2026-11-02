@@ -1,0 +1,23 @@
+{
+  "id": "community-226e7a79",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 뉴스 돋보기",
+  "url": "https://blog.naver.com/news-times/224462669941",
+  "title": "한국시리즈 1차전 ⚾ 11월 3일(화) 수원, 대니엘 vs 최원태",
+  "published_at": "2026-11-02T21:19:00.000+09:00",
+  "collected_at": "2026-11-02T13:40:06.157Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

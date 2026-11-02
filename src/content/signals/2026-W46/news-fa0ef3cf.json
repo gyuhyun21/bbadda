@@ -1,0 +1,24 @@
+{
+  "id": "news-fa0ef3cf",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "www.xportsnews.com",
+  "url": "https://www.xportsnews.com/article/2214398",
+  "title": "\"단순 투구수 채우기 NO\"…'어린왕자표' 불펜피칭 신박하네!→몸쪽+바깥쪽 10구 연속, 틀리면 카운트 제외 [미야자키 현장]",
+  "published_at": "2026-11-02T08:59:35.000Z",
+  "collected_at": "2026-11-02T13:40:06.157Z",
+  "summary_ko": "엑스포츠뉴스에 따르면 두산 불펜피칭이 미야자키 캠프에서 단순 투구수 채우기가 아닌 방식으로 진행됐다. 몸쪽·바깥쪽 10구 연속을 요구하고 틀리면 카운트에서 제외한다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "두산 미야자키, 불펜피칭 새 방식"
+}

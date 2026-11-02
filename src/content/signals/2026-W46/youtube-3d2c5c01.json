@@ -1,0 +1,41 @@
+{
+  "id": "youtube-3d2c5c01",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kt"
+  ],
+  "source_type": "youtube",
+  "source_name": "DKTV Daniel",
+  "url": "https://www.youtube.com/watch?v=KxKz8XvA9ug",
+  "title": "\"전통 강호, 신흥 명문!\" KS 1차전 프리뷰 | 삼성 최원태 vs KT 대니얼 | 이강철의 마법 & 박진만의 수싸움 | 야구상담소",
+  "published_at": "2026-11-02T10:38:45Z",
+  "collected_at": "2026-11-02T13:40:06.157Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1461,
+    "likes": 84,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 78,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "일간스포츠",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE44cHo2Y3Z4cHVKWHl3N1pmTnJERmh6c3FldHI4TU1zbGpTZ2tGbXRqc2puNkctY2tfeXNXbklvNGJaWHBIYno0SVNWRnNsRDVBRy1UUWlsY0dqRXBpdlh3cFFR?oc=5"
+    },
+    {
+      "source_name": "동아일보",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9RUWFfMDJvcDdzWXJ5VUliZmhKM25wLXZBUTdQSXloUTRWbk1vVnYwU0ZxNkVMVHFBeUZ3MkREelRRNGx1dXd4cWN1NTktZmJOVWNUdWdqWmlqcjVEbkZ2U29sVnVyZ9IBZkFVX3lxTE9RUWFfMDJvcDdzWXJ5VUliZmhKM25wLXZBUTdQSXloUTRWbk1vVnYwU0ZxNkVMVHFBeUZ3MkREelRRNGx1dXd4cWN1NTktZmJOVWNUdWdqWmlqcjVEbkZ2U29sVnVyZw?oc=5"
+    },
+    {
+      "source_name": "YTN",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBxU3RXYlBJd0hGd3lJSHpLU0ltMElZQUtpTmEta3RYQk1RMDBubnlfM0dFWHRJdExSQzVtZ1lkdzZTeHNRdlFEbHJRQXRQWnRYNXhiZnk0RUtvb0xaVkQxU0VmNENKNkZqdVFrWU5qaw?oc=5"
+    }
+  ]
+}

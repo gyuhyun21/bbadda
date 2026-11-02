@@ -1,0 +1,23 @@
+{
+  "id": "news-391320c4",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "KBS 뉴스",
+  "url": "https://news.kbs.co.kr/news/view.do?ncd=8701588",
+  "title": "[시사플랫폼] “KIA, 가을야구 마감했지만 예상 밖 선전…내년 우승 도전”",
+  "published_at": "2026-11-02T09:14:00.000Z",
+  "collected_at": "2026-11-02T13:40:06.157Z",
+  "summary_ko": "KBS 뉴스는 KIA가 가을야구를 마감했지만 예상 밖 선전을 했다고 평가하며 내년 우승 도전을 전망했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "brief_ko": "KIA, 내년 우승 도전 전망"
+}

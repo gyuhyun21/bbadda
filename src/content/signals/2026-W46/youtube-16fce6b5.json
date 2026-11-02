@@ -1,0 +1,26 @@
+{
+  "id": "youtube-16fce6b5",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "youtube",
+  "source_name": "조잘구리",
+  "url": "https://www.youtube.com/watch?v=WTMw-0HYNeU",
+  "title": "KT 유니폼 등번호에 왕의 병풍이? #KT위즈",
+  "published_at": "2026-11-02T12:00:32Z",
+  "collected_at": "2026-11-02T13:40:06.157Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 852,
+    "likes": 7,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 42,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

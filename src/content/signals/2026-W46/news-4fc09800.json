@@ -1,0 +1,33 @@
+{
+  "id": "news-4fc09800",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE12MzQ4TnhKRWV6SG1UcFE0YXVXaXpWcWFob2luWHNmOXBXSUUyN3FIUGVoeWJXeHNmZEVQTW9QMkFfd2dtaXRLdUFRdFFBUmtiV2dYTFk3MjFzYmlienBwYVBJWkZSaXBDbi1iTUF0VdIBb0FVX3lxTE12MzQ4TnhKRWV6SG1UcFE0YXVXaXpWcWFob2luWHNmOXBXSUUyN3FIUGVoeWJXeHNmZEVQTW9QMkFfd2dtaXRLdUFRdFFBUmtiV2dYTFk3MjFzYmlienBwYVBJWkZSaXBDbi1iTUF0VQ?oc=5",
+  "title": "‘KS 진출에 딱 1승 부족했다’ 아쉬움 가득한 주장, “7전4승이었다면 달랐을까, 내년에도 가을야구 가겠다”",
+  "published_at": "2026-11-02T08:10:00.000Z",
+  "collected_at": "2026-11-02T13:40:06.157Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 90,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "미주중앙일보",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1jY3hnMzRQczZ2dTdnNzFoX3pFbE9vX3RmdmZoU2owcjZZc1dCcDlWQ3ZuTm90ekxkbGUwa1JLUVZRNVBHTHlHbHlFaDNoLVlkd3Rzdzg0dllvNExCYW1iQWRR?oc=5"
+    },
+    {
+      "source_name": "Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNExNTlplWk9ST3JyaG0tSEFfdFdHQy1RMmt1N0xCZmljS2ZPbDNTbEVEQmo3aW1QUkh0c0IweXZxcm12SDVyZWhBQVc2dXB0aFF0Wl9WZkNfcVdfaU55OTdEcWFIWFRXaFZvY3huMkpZYXQ5NTRaVURRcDlJcnN3NzRiTkg2WjFaQVg2Mk1YV3FZaEJRUmcw0gGXAUFVX3lxTE80TE1OWmVaT1JPcnJobS1IQV90V0dDLVEya3U3TEJmaWNLZk9sM1NsRURCajdpbVBSSHRzQjB5dnFybXZINXJlaEFBVzZ1cHRoUXRaX1ZmQ19xV19pTnk5N0RxYUhYVFdoVm9jeG4ySllhdDk1NFpVRFFwOUlyc3c3NGJOSDZaMVpBWDYyTVhXcVloQlFSZzA?oc=5"
+    }
+  ]
+}

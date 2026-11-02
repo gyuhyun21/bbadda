@@ -1,0 +1,23 @@
+{
+  "id": "news-d203d036",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "남도일보",
+  "url": "https://www.namdonews.com/news/articleView.html?idxno=927946",
+  "title": "[KIA 타이거즈 결산](상)불안한 출발-주축 이탈 딛고 ‘젊은 피’로 반등의 실마리",
+  "published_at": "2026-11-02T07:32:00.000Z",
+  "collected_at": "2026-11-02T13:40:06.157Z",
+  "summary_ko": "남도일보는 KIA의 2026시즌 결산 첫 회에서 주축 이탈을 딛고 젊은 선수들로 반등의 실마리를 찾았다고 정리했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 50
+  },
+  "sentiment": "negative",
+  "brief_ko": "KIA, 젊은 피로 반등 실마리"
+}

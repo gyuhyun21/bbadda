@@ -1,0 +1,26 @@
+{
+  "id": "youtube-177aba0f",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "youtube",
+  "source_name": "그날의선수",
+  "url": "https://www.youtube.com/watch?v=rl5E-UpAfRI",
+  "title": "다음 날 동점만 치려다 넘겼다🔥 #원성준 #키움히어로즈 #야구",
+  "published_at": "2026-11-02T10:00:24Z",
+  "collected_at": "2026-11-02T13:40:06.157Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1495,
+    "likes": 16,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 47,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

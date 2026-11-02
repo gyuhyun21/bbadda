@@ -1,0 +1,25 @@
+{
+  "id": "news-0461ff36",
+  "issue": "2026-W46",
+  "module": "rivalry",
+  "team": "hanwha",
+  "teams": [
+    "hanwha",
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "announcement": true,
+  "source_name": "스타뉴스",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9XcWMxTFQ1MHhKSzZJcmo3UTVvZFdNZHBoM3dJdnFaZjVsWnlxSzV5RkJ5NllzNTZqb3dMNGt2NHpHaHp6SENRNzhZczI4ZU9NNGlMVmx4SDFyX0FPQk1rNDRjWTlRUmRLWGlWTWtLYjJ5Z1U3M0E?oc=5",
+  "title": "[오피셜] '2209안타 전설+427SV 끝판왕' 김태균·오승환, 태극마크 후배들 직접 지도한다! APBC 대표팀 인스트럭터 전격 합류",
+  "published_at": "2026-11-02T12:01:00.000Z",
+  "collected_at": "2026-11-02T13:40:06.157Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

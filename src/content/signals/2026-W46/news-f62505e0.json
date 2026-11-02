@@ -1,0 +1,23 @@
+{
+  "id": "news-f62505e0",
+  "issue": "2026-W46",
+  "module": "rivalry",
+  "team": "kt",
+  "teams": [
+    "kt",
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "국민일보",
+  "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1uRmhuNk9qblpfcGhFRnlyUjJqcFh1OE0yYS1xOTB2cjNBTDFWWEltTXRjbWdYSklWSFgxWTM4MlVzZUc3T1ZHaXRvaHBIOFFSRlUyM2VfaXg?oc=5",
+  "title": "2026 KBO리그 대미 장식할 KS…KT 대니엘·삼성 최원태 1차전 격돌",
+  "published_at": "2026-11-02T07:55:57.000Z",
+  "collected_at": "2026-11-02T13:40:06.157Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 80
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-d2d41114",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "news",
+  "source_name": "디트NEWS24",
+  "url": "https://www.dtnews24.com/news/articleView.html?idxno=816706",
+  "title": "2027시즌 한화이글스 2루수 경쟁은 지금부터!",
+  "published_at": "2026-11-02T05:39:02.000Z",
+  "collected_at": "2026-11-02T13:40:06.157Z",
+  "summary_ko": "디트NEWS24는 2027시즌 한화 2루수 경쟁이 지금부터 시작이라고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 50
+  },
+  "sentiment": "neutral",
+  "brief_ko": "한화, 2루수 경쟁 시작"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "community-db1a72b3",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 미라클라벤더의 게임 일상 일기장",
+  "url": "https://game-lavender.tistory.com/416",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/ILPHpY2GcSv",
+  "title": "[26.11.01/야구] 26시즌 KIA 타이거즈의 야구가 끝났다",
+  "published_at": "2026-11-02T21:51:25.000+09:00",
+  "collected_at": "2026-11-02T13:40:06.157Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

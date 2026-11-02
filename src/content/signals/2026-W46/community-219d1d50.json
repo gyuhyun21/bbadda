@@ -1,0 +1,23 @@
+{
+  "id": "community-219d1d50",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 스포츠정보",
+  "url": "https://happystory2016.tistory.com/107",
+  "title": "KBO 응원팀 고르는 법 연고지부터 응원 문화까지",
+  "published_at": "2026-11-02T11:05:32.000+09:00",
+  "collected_at": "2026-11-02T13:40:06.157Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

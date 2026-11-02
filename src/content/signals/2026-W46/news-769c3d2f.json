@@ -1,0 +1,37 @@
+{
+  "id": "news-769c3d2f",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5SRldQSl9FcE9xX0ljek1BRnF4aFI1V2tCZ2Z4d3hWME5saVRkbFZnZGxOM0hEMTJNa09ndnRGX3MxOC15eTdFU3BwN3VaaEdjd2NRREd3ZGhzOTNzOUNxcllrWkN2RVlJUnpXeNIBbEFVX3lxTE5SRldQSl9FcE9xX0ljek1BRnF4aFI1V2tCZ2Z4d3hWME5saVRkbFZnZGxOM0hEMTJNa09ndnRGX3MxOC15eTdFU3BwN3VaaEdjd2NRREd3ZGhzOTNzOUNxcllrWkN2RVlJUnpXeA?oc=5",
+  "title": "KT·삼성전자, AI로 야구장 통신망 최적화…기지국 부하 최대 16% 감소",
+  "published_at": "2026-11-01T23:59:03.000Z",
+  "collected_at": "2026-11-02T13:40:06.157Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 87,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "MTN 머니투데이방송",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9rNHVWRXVyTGROZ2lYMUdOVHl5TkwyWUpLOGNNVEk0VkVySHVwOFhuS21RSE5JeU5QVFA2dWRfTzdaaW52MmRGZW9PREgtWUtaVUZ4Y3NMRWhocENuMFJ3?oc=5"
+    },
+    {
+      "source_name": "스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE92NGpRNFQyMmZSbWJSTnBOeUtKRmJObVY1QTFscGZubWhWdDVaaGhzeVFYTVM5T0NrU0dsd0dmMmQwVVJEdGZDMXZJYk8zSzlhRzFmaExJUDJfT2p5eDlXQmFsSkI1U0NNN0k0ckpOaUktMnI3YlVyUDJ2ZVk1U0k?oc=5"
+    },
+    {
+      "source_name": "매일일보",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5NV3JrcUJLajJLVUdvSkFsTE9FRlU3QjRmRXBfWkVrOWU4TFVnOHlvOTFFdVJXcEM3Z0dqcUd1VFIzX3o0M2RwLWhJMjJMV3JJTjhydS1COHRfMWpiZmZla1l4NUE?oc=5"
+    }
+  ]
+}

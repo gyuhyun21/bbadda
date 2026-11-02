@@ -1,0 +1,28 @@
+{
+  "id": "news-022302fc",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스1",
+  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBPVWYyR05OQzBtSmdQS2RRd0NQYUJJNmVxeEN4c3JhYUlybl8xMm1fdlNGTnlFd2ZCZ0lIUjVfQUtnYkV5LThYWm9JbUxyR01KeW42ckhFWQ?oc=5",
+  "title": "삼성 마무리 김재윤, 결국 KS 엔트리도 제외…PO와 동일 멤버",
+  "published_at": "2026-11-02T09:08:28.000Z",
+  "collected_at": "2026-11-02T13:40:06.157Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 90,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5QanktbFhtTU5HNkd2TVA3NmRIaE5aZk41a1dpanJpZTRVbFJxOUVqMG5ZN0lrb2FjclkxVzk3cUE2cERGaWxNN3UxeTNueFpWRU5iU1ltSzhNOG5vZk5JWncyMWlTeFBoa2E0R3JybDVQU09BY0w0StIBeEFVX3lxTE5QanktbFhtTU5HNkd2TVA3NmRIaE5aZk41a1dpanJpZTRVbFJxOUVqMG5ZN0lrb2FjclkxVzk3cUE2cERGaWxNN3UxeTNueFpWRU5iU1ltSzhNOG5vZk5JWncyMWlTeFBoa2E0R3JybDVQU09BY0w0Sg?oc=5"
+    }
+  ]
+}

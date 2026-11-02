@@ -1,0 +1,29 @@
+{
+  "id": "news-4cbc8c81",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "OhmyNews",
+  "url": "https://m.ohmynews.com/NWS_Web/Mobile/amp.aspx?CNTN_CD=A0003280986",
+  "title": "'PO 강판' 최원태, 삼성 가을 에이스로 부활할까?",
+  "published_at": "2026-11-02T08:42:00.000Z",
+  "collected_at": "2026-11-02T13:40:06.157Z",
+  "summary_ko": "오마이뉴스는 PO에서 강판됐던 삼성 최원태가 KS 1차전에서 가을 에이스로 부활할지 짚었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 90,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "경북도민일보",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE04UDNpQW1Qa01ydnc2Y0xnZnNpVTc3SkdkbXlZd01CMTBMOUJBUXFkdWk3eVpSSGVfQW9LZnpRN2pzZ1BPQWl4WHJlc2YzekhlU21KOW1CTF8xTExJQnFPOF9CclJWUExldFE?oc=5"
+    }
+  ],
+  "brief_ko": "최원태, KS서 부활할까"
+}

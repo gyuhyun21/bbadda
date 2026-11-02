@@ -1,0 +1,26 @@
+{
+  "id": "youtube-bd456a81",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "엘냠씨",
+  "url": "https://www.youtube.com/watch?v=j38ssFGnA8w",
+  "title": "기아타이거즈 고생 많으셨습니다 #엘지 #엘지트윈스 #LG #LG트윈스 #기아타이거즈 #삼성라이온즈  #KBO #야구 #야구팬 #크보 #프로야구 #야구리뷰 #야구분석 #플레이오프",
+  "published_at": "2026-11-02T08:00:26Z",
+  "collected_at": "2026-11-02T13:40:06.157Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1034,
+    "likes": 16,
+    "comments": 5
+  },
+  "scores": {
+    "hot": 52,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

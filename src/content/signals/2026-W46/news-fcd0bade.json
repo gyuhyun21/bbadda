@@ -1,0 +1,23 @@
+{
+  "id": "news-fcd0bade",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "조선일보",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMTRDNlh1MFJFdEozZGFXc29vSTFPYXNfRy1FSTlEcGk3MU4tVlFSaDVFRExvRUdqMlYwdUItX2h0eHN0bEtMS21XZGVyc0NtMnhWT1dYNGlicnR4cHJkM1AtR0UxMDdMU1VSNVQ3c3h0Z1VXZkJFMUNxaVMzLTA1cDVmQQ?oc=5",
+  "title": "\"이 선수가 숨은 MVP\" 규정이닝 채운 유일 불펜투수, 이 투수 아니었음 수원 못갔다[PO5 현장]",
+  "published_at": "2026-11-01T23:06:00.000Z",
+  "collected_at": "2026-11-02T13:40:06.157Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

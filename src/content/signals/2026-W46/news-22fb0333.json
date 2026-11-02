@@ -1,0 +1,22 @@
+{
+  "id": "news-22fb0333",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "매일신문",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9xLWVSV1FtejBWSzljOEdkZmlrSUx5NmJ2YkNfX0ZTckY4ZTZwNFFjNGFzU2pMeUJvV2N3bV8tQldpOExpem14cmNHRUZwV2NpbFJWTGVDajZGT1hDa2cteEtn?oc=5",
+  "title": "`원태인과 최형우 보직·수비 집중력` 삼성 라이온즈, KS 승부의 열쇠",
+  "published_at": "2026-11-02T11:54:17.000Z",
+  "collected_at": "2026-11-02T13:40:06.157Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

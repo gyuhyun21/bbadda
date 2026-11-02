@@ -1,0 +1,28 @@
+{
+  "id": "youtube-76ac2ea8",
+  "issue": "2026-W46",
+  "module": "league",
+  "teams": [
+    "samsung"
+  ],
+  "team": "samsung",
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=ppNb2Jk850I",
+  "title": "[4K] 파랗게 물든 삼성 '엘도라도(El Dorado)' 현장 M/V | 2026 KBO 플레이오프 최종전",
+  "published_at": "2026-11-02T08:56:48Z",
+  "collected_at": "2026-11-02T13:40:06.157Z",
+  "summary_ko": "KBO 공식 채널이 PO 최종전 삼성 홈 '엘도라도' 현장 뮤직비디오를 4K로 공개했다.",
+  "metrics": {
+    "views": 38985,
+    "likes": 1159,
+    "comments": 140
+  },
+  "scores": {
+    "hot": 82,
+    "relevance": 80
+  },
+  "sentiment": "neutral",
+  "brief_ko": "PO 최종전, 엘도라도 M/V"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "youtube-35f2ebea",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "source_name": "클래식 야구단⚾️",
+  "url": "https://www.youtube.com/watch?v=4AfTp4v8054",
+  "title": "심우준 선수 응원가⚾️                                               #한화이글스 #심우준 #응원가 #바이올린 #피아노",
+  "published_at": "2026-11-02T10:23:44Z",
+  "collected_at": "2026-11-02T13:40:06.157Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 722,
+    "likes": 6,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 41,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

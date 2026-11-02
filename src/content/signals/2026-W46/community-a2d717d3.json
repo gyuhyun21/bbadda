@@ -1,0 +1,24 @@
+{
+  "id": "community-a2d717d3",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&document_srl=10511492583",
+  "title": "타격코치 이승엽은 괜찮은거 아냐? - 야구",
+  "published_at": "2026-11-02T10:40:06.157Z",
+  "collected_at": "2026-11-02T13:40:06.157Z",
+  "summary_ko": "",
+  "excerpt": "... 한화이글스 투수 양수호 내일 군입대 [5]. 6 분 전 정보 FMK 조회210 추천6. 한화이글스…",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

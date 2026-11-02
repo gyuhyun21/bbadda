@@ -1,0 +1,30 @@
+{
+  "id": "youtube-16bab31a",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt",
+    "samsung",
+    "lg",
+    "hanwha",
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "야구부장",
+  "url": "https://www.youtube.com/watch?v=2swCwEqk8ho",
+  "title": "[LIVE]KT 전력파트 \"삼성 안 지쳤더라\"/LG 외국인투수 3인 다 바꾸나/박경수코치 한화콜 결말/노시환 포스팅 뒷이야기/최지훈 4년 60억원대 세부조율중/KIA김호령 잡는다?",
+  "published_at": "2026-11-02T12:23:07Z",
+  "collected_at": "2026-11-02T13:40:06.157Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 99314,
+    "likes": 2843,
+    "comments": 21
+  },
+  "scores": {
+    "hot": 83,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

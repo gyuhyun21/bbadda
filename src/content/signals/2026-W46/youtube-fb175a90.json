@@ -1,0 +1,26 @@
+{
+  "id": "youtube-fb175a90",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "youtube",
+  "source_name": "쏙이슈",
+  "url": "https://www.youtube.com/watch?v=wpTAfLOYW1M",
+  "title": "역전 투런을 치기 직전, 박동원은 왜 3루수를 쳐다봤을까요? #야구 #박동원 #LG #쏙이슈",
+  "published_at": "2026-11-02T10:30:35Z",
+  "collected_at": "2026-11-02T13:40:06.157Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 2274,
+    "likes": 36,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 53,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}
