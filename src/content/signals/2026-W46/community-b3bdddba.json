@@ -1,0 +1,24 @@
+{
+  "id": "community-b3bdddba",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 후기박스",
+  "url": "https://blog.naver.com/jja0412/224462768777",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/3eibWfViA4x",
+  "title": "강민호 23년 한 풀까? 옆구리 투혼 | KS 우승 도전",
+  "published_at": "2026-11-02T22:27:00.000+09:00",
+  "collected_at": "2026-11-02T21:38:34.009Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

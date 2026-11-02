@@ -1,0 +1,27 @@
+{
+  "id": "youtube-4334d367",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "구질사전",
+  "url": "https://www.youtube.com/watch?v=8U_t3zAn6wI",
+  "title": "홈런보다 먼저 눈물 났던 그날",
+  "published_at": "2026-11-02T08:23:02Z",
+  "collected_at": "2026-11-02T21:38:34.009Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1290,
+    "likes": 3,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 39,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

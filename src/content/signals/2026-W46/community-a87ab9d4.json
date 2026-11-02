@@ -1,0 +1,23 @@
+{
+  "id": "community-a87ab9d4",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 스포츠 헌터의 핫이슈 브리핑",
+  "url": "https://blog.naver.com/tongtii/224462983656",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/KaupKYp5IR",
+  "title": "김도영 KIA 5명 6일 APBC 태풍의 핵! 엔트리 대변동 실화냐?",
+  "published_at": "2026-11-03T05:08:00.000+09:00",
+  "collected_at": "2026-11-02T21:38:34.009Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

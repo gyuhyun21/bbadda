@@ -1,0 +1,27 @@
+{
+  "id": "youtube-a6ba84a0",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt",
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "봄데 연구소",
+  "url": "https://www.youtube.com/watch?v=WzYhNSjh1YE",
+  "title": "역사는 KT, 맞대결은 삼성. 한국시리즈 어느 쪽이 유리할까? KT vs 삼성",
+  "published_at": "2026-11-02T20:25:48Z",
+  "collected_at": "2026-11-02T21:38:34.009Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 745,
+    "likes": 2,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 37,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "community-2a3015e6",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 스포츠 인사이트",
+  "url": "https://blog.naver.com/base-goal/224462858638",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/BGter5NuwjT",
+  "title": "\"연봉 반토막 났던 선수가 미국 20~25홈런?” 김도영, 다저스·양키스까지 거론되는 이유",
+  "published_at": "2026-11-03T03:00:00.000+09:00",
+  "collected_at": "2026-11-02T21:38:34.009Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

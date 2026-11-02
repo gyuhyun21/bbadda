@@ -1,0 +1,23 @@
+{
+  "id": "news-e6697f47",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "JTBC",
+  "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE41eS00LWExQTRELVJ3bjhlWlpWb3Q1d1c5N25uLWp2ZEdSZHQ1ZjMtWHlSN3BKRFJmZkppb25UY1BCcVcwV2dkUC1UUVVlelpXb0E?oc=5",
+  "title": "307억 포기하고 MLB 도전하는 노시환…\"양키스 등 4개 구단 적합\" 전망",
+  "published_at": "2026-11-02T05:20:31.000Z",
+  "collected_at": "2026-11-02T21:38:34.009Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 62,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

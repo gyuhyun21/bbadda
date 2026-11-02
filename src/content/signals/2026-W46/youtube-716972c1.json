@@ -1,0 +1,27 @@
+{
+  "id": "youtube-716972c1",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "쏙이슈",
+  "url": "https://www.youtube.com/watch?v=Xe4tThH5z8g",
+  "title": "한국시리즈 마운드에서 열아홉 살 김광현이 웃자, 포수는 왜 고민했을까요? #야구 #김광현 #SK #쏙이슈",
+  "published_at": "2026-11-02T12:00:25Z",
+  "collected_at": "2026-11-02T21:38:34.009Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 17496,
+    "likes": 194,
+    "comments": 5
+  },
+  "scores": {
+    "hot": 60,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

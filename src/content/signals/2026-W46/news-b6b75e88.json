@@ -1,0 +1,34 @@
+{
+  "id": "news-b6b75e88",
+  "issue": "2026-W46",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "미주중앙일보",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5aakFQM1VkZ0NOYTN3Q3NveXQ4MjduUU4ySDQyaFBTcUM1YjdfV2dleDBrLWk2SEhpZWtmOFN2U0JSRTRMSE5EckRpYlVTaXk3M1Q0bjBLSWRfcEI2N0RIM0N3?oc=5",
+  "title": "43세 최고령, 좌익수 계속 뛸까...\"너무 힘들다\" 감독 옆구리 찌르고, \"좀 더 힘내주세요\" 구자욱의 부탁",
+  "published_at": "2026-11-02T15:10:00.000Z",
+  "collected_at": "2026-11-02T21:38:34.009Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 98,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBlSDlsaUZSZ3FuM2pZUDNfeHRhNWFsVXVuR0dRYjB0ZVlaOElPWXhhLWNfVUttUUFpSFJMcHFEekVsUmN3VWRqYmZOZW12UzZoVFVvMVpTQ3JZdVNEREdTdmpBLS12MEZKWGfSAW9BVV95cUxPQnBtb3VTYi1NWHdab3hwOTRvbnh0NFZfbURIUUx3ZFhEbjQxeFBFWUV2Z0tSVDFGVDFXbjdMMjdsdnZoV2N4V2I0Z081RnU1bjJ3RVJGZHJkYTdHWW5sM1hJLUNsaldFU0xCdGF1Mmc?oc=5"
+    },
+    {
+      "source_name": "OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE11TG9CbGJqX015bHRHYUtKM1NfRkY0Slg5Z0tzT0daa3hYWkNMaVV5WmxGdFg2S1NtWk9rS2FUM3lIQ2FoX1dzZkhmcFByNzZBTDUwYw?oc=5"
+    }
+  ]
+}

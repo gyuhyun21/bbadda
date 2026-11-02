@@ -1,0 +1,26 @@
+{
+  "id": "youtube-1eb8c0ee",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "광주일보",
+  "url": "https://www.youtube.com/watch?v=ddP9BQH1rbY",
+  "title": "[늦은 업뎃] \"운전하다 울 뻔했어요\" 서로를 제일 잘 아는 KIA 01년생들의 속마음 토크 | 박민·박상준 | feat. 한승택, 박정우 | 기아타이거즈",
+  "published_at": "2026-11-02T12:43:42Z",
+  "collected_at": "2026-11-02T21:38:34.009Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 17309,
+    "likes": 396,
+    "comments": 44
+  },
+  "scores": {
+    "hot": 71,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

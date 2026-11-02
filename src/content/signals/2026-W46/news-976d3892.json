@@ -1,0 +1,23 @@
+{
+  "id": "news-976d3892",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠한국",
+  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8xcGlmZnk0cUNsQ3BISDdSNkt0c0hERWxUNmgyS2ZjTkpiY3M2MEd3Z0FISU9wVTMwSHVIV3pKMzcwMUZON2VkZ2pHb3hFNTVHRnZZeUJDQlJfYnFIQTFwclJaVzF5YTIxaDZFdU0xY1JUcGVk0gF0QVVfeXFMTzFwaWZmeTRxQ2xDcEhIN1I2S3RzSERFbFQ2aDJLZmNOSmJjczYwR3dnQUhJT3BVMzBIdUhXekozNzAxRk43ZWRnakdveEU1NUdGdll5QkNCUl9icUhBMXByUlpXMXlhMjFoNkV1TTFjUlRwZWQ?oc=5",
+  "title": "2025 문동주처럼?…‘마무리’ 원태인, KS에서는 다시 선발로 출격하나[초점]",
+  "published_at": "2026-11-01T22:05:59.000Z",
+  "collected_at": "2026-11-02T21:38:34.009Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 60,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

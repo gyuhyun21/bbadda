@@ -1,0 +1,22 @@
+{
+  "id": "news-ceee7284",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "news",
+  "source_name": "티제이비",
+  "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9pYkpVckV6QjVFM3FXYTE2ZFNLS1RfT19xdmo5WmdsMmNvQzBtSlNXRVk1cWVLaHJnY0lFellTREJKa2hQYTdIWGJfVktGVHY0eE1Hc3BWc254OHpZ?oc=5",
+  "title": "'노시환 MLB 도전장'…한화, FA 시장 큰손 되나",
+  "published_at": "2026-11-02T09:57:46.000Z",
+  "collected_at": "2026-11-02T21:38:34.009Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

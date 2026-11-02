@@ -1,0 +1,23 @@
+{
+  "id": "news-513cd374",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스핌",
+  "url": "https://www.newspim.com/news/view/20261101000135",
+  "title": "[KS 포커스] 침묵하는 3·4번…삼성, 구자욱·디아즈 반등 없인 우승도 험난",
+  "published_at": "2026-11-02T20:45:00.000Z",
+  "collected_at": "2026-11-02T21:38:34.009Z",
+  "summary_ko": "뉴스핌은 삼성이 구자욱·디아즈의 반등 없이는 한국시리즈 우승도 험난하다고 짚었다. 포스트시즌에서 3·4번 타선이 침묵했다는 분석이다.",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "brief_ko": "3·4번 침묵, 삼성의 고민"
+}

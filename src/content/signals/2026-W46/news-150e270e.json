@@ -1,0 +1,20 @@
+{
+  "id": "news-150e270e",
+  "issue": "2026-W46",
+  "module": "league",
+  "teams": [],
+  "source_type": "news",
+  "source_name": "경기일보",
+  "url": "https://www.kyeonggi.com/article/20261102580191",
+  "title": "“8만원 티켓 900만원으로”…한국시리즈 티켓 등 22억원 되팔이한 일당 체포",
+  "published_at": "2026-11-02T04:24:13.000Z",
+  "collected_at": "2026-11-02T21:38:34.009Z",
+  "summary_ko": "경기일보에 따르면 8만원짜리 한국시리즈 티켓을 900만원으로 되판 일당이 체포됐고 암표 규모는 22억원이다.",
+  "metrics": {},
+  "scores": {
+    "hot": 62,
+    "relevance": 30
+  },
+  "sentiment": "neutral",
+  "brief_ko": "KS 암표 22억 일당 검거"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "community-04c50517",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 Miracle Sports Corporation",
+  "url": "https://blog.naver.com/sports_complex/224462949058",
+  "title": "이럴수가! 원태인 초대박! 한국시리즈 우승 이어 美 진출까지 도전? \"여전히 관심 있을 수 있는 선수...",
+  "published_at": "2026-11-03T03:03:00.000+09:00",
+  "collected_at": "2026-11-02T21:38:34.009Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

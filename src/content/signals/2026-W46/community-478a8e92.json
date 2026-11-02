@@ -1,0 +1,24 @@
+{
+  "id": "community-478a8e92",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&page=4&document_srl=10512307477",
+  "title": "데미지도 원래 대미지가 맞는거라며 - 야구",
+  "published_at": "2026-11-02T14:38:34.009Z",
+  "collected_at": "2026-11-02T21:38:34.009Z",
+  "summary_ko": "",
+  "excerpt": "... 바르사 아니고 바셀 두산 아니고 D.B(농구아님) KIA 아니고 K.T(위즈아님) [3].",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

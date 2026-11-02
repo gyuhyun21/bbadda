@@ -1,0 +1,24 @@
+{
+  "id": "news-c9cbf9d2",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "마이데일리",
+  "url": "https://mydaily.co.kr/page/view/2026110301174017133",
+  "title": "“APBC 가야 할 이유가 있습니다” 김도영 2026 야구 안 끝났다…3년전 부상 악몽은 없다, 해피엔딩 다짐",
+  "published_at": "2026-11-02T16:17:50.000Z",
+  "collected_at": "2026-11-02T21:38:34.009Z",
+  "summary_ko": "마이데일리에 따르면 김도영은 APBC에 가야 할 이유가 있다며 3년 전 부상 악몽은 없을 것이라고 다짐했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "negative",
+  "brief_ko": "김도영, APBC 출전 다짐"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-ab408338",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://www.sportschosun.com/baseball/2026-11-02/202611030100014810001305",
+  "title": "벼랑 끝에서 아쉽게 무릎 꿇은 2026년…사령탑이 직접 밝힌 KIA의 가장 값진 수확은? [SC포커스]",
+  "published_at": "2026-11-02T15:55:17.000Z",
+  "collected_at": "2026-11-02T21:38:34.009Z",
+  "summary_ko": "스포츠조선에 따르면 이범호 KIA 감독이 벼랑 끝에서 시즌을 마친 2026년의 가장 값진 수확을 직접 밝혔다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "이범호가 꼽은 올해 수확"
+}

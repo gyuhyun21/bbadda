@@ -1,0 +1,24 @@
+{
+  "id": "community-f1ed3d6e",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 Sera Blog",
+  "url": "https://blog.naver.com/kymkiller/224462882588",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/Fgv7wrxV6n0",
+  "title": "불꽃야구2 시즌 마지막 직관 예매｜11월 4일 YES24 티켓팅·덕수고 최종전 일정",
+  "published_at": "2026-11-03T01:10:00.000+09:00",
+  "collected_at": "2026-11-02T21:38:34.009Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

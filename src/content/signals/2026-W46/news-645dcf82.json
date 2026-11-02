@@ -1,0 +1,24 @@
+{
+  "id": "news-645dcf82",
+  "issue": "2026-W46",
+  "module": "rivalry",
+  "team": "doosan",
+  "teams": [
+    "doosan",
+    "kia",
+    "hanwha"
+  ],
+  "source_type": "news",
+  "source_name": "www.xportsnews.com",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1yNTd0REpla2taTUV5ajVUemd6SmR6a1NXS3dSYVZ4RkVsZ0J0YVZuNzc0QTkwNGdFcUN3UklDS19Va3BZQi1jNEkyQ0pDdFJaMU5sbw?oc=5",
+  "title": "\"두산도 KIA도 첫해 우승\"…FA 보상선수→2차 드래프트→트레이드 복덩이 될까 \"액땜했다, 내년 진짜 한화 첫해\" [미야자키 인터뷰]",
+  "published_at": "2026-11-02T16:00:42.000Z",
+  "collected_at": "2026-11-02T21:38:34.009Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}
