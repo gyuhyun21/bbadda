@@ -1,0 +1,24 @@
+{
+  "id": "news-bd5fcf32",
+  "issue": "2026-W46",
+  "module": "rivalry",
+  "team": "ssg",
+  "teams": [
+    "ssg",
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "조선일보",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORUNaS3dOM1RXelhQaml6VmY0a0x6QllTSlI5UDRhY0MydDVfQTUwQ0NUZlM1SWlGOFBoOFFycmwtYWJtaWxaUGZnWXZ5UTBVTVhZaFFIeVhINGVpRzMwVnJyZXlDbXNZemFOS1pKc2ZnUnVwWGx3eWVGaXNfV1RXeGU2MA?oc=5",
+  "title": "\"한국시리즈 무대에서 홈런 치는 상상 했는데…기회가 왔다\" 4할1푼2리 → 3할3푼8리 → 다음은? 강철매직의 비밀무기 [인터뷰]",
+  "published_at": "2026-11-02T03:05:53.000Z",
+  "collected_at": "2026-11-02T07:40:04.628Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 82,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

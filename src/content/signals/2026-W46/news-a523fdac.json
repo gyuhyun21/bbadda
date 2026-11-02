@@ -1,0 +1,24 @@
+{
+  "id": "news-a523fdac",
+  "issue": "2026-W46",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung",
+    "kt"
+  ],
+  "source_type": "news",
+  "source_name": "파이낸셜뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFazNITW5KelFmMjAtWWlYaHNCZzdYZUlRT3BPVk1OT0VKc1kyUE9NVmFrWENONVk2Tk9lcXRPb3Jac2I4QnhaT3I0c21rSXVYcVEzeVRMZW1UQQ?oc=5",
+  "title": "\"2년 전보다 더 험난하다\"… KIA 꺾고 KS 오른 삼성, 이번엔 90승 괴물 kt가 기다린다",
+  "published_at": "2026-11-02T00:00:00.000Z",
+  "collected_at": "2026-11-02T07:40:04.628Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 73,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

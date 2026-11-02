@@ -1,0 +1,44 @@
+{
+  "id": "youtube-2ca1b34c",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "youtube",
+  "source_name": "그깟공놀이가뭐라고",
+  "url": "https://www.youtube.com/watch?v=vVanpnTOd1Q",
+  "title": "최민석 팔꿈치 부상, 결국 대표팀까지 낙마 #두산베어스 #kbo #야구 #APBC #최민석",
+  "published_at": "2026-11-02T07:39:48Z",
+  "collected_at": "2026-11-02T07:40:04.628Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 0,
+    "relevance": 70
+  },
+  "sentiment": "negative",
+  "also_in": [
+    {
+      "source_name": "연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5SRXItcWRiWUpxTmhJNy1IQ3JUS3o2X1pUbTBpQW0zVDYtQkctZUdCRW55dnpkVS1VWm1JZGtyVVB3bE9ReGtScWhYYnZtWjJyMEN1Z0I4R19SM2puQ0NDadIBYEFVX3lxTE5SRXItcWRiWUpxTmhJNy1IQ3JUS3o2X1pUbTBpQW0zVDYtQkctZUdCRW55dnpkVS1VWm1JZGtyVVB3bE9ReGtScWhYYnZtWjJyMEN1Z0I4R19SM2puQ0NDaQ?oc=5"
+    },
+    {
+      "source_name": "news.sbs.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSllGSVRCSk9qVzZKOWZTYllSRXZtaTFBT2M0QVpHMXBRQ2lyVHdRWVhvUW1PcXVabGdIdXlGNzIybjVXRlppQjA5RFlYMzBJVUVaQ0dYVzFQOWVyTWdUS0ZKMzQxWUlyOE5jSHh5NnFvTk9MM29tZlA1MVQtQWdqTmp2Qk1sT2VrLXFXVlZiVQ?oc=5"
+    },
+    {
+      "source_name": "뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ScjNCYWYtemFQVXI1YXhseEx6aUxEcWFuR18yZ3ZfZ2ZfZVh3c0w4Rld4Xzl4ZjZtU01JM0F5S3U0MUdUOEQ1NnY0VktfSDRiQWRfNnF6SUVWY2dlYkQ2c2RhU0M4VGVoMmhjdTlZV3h0cV9JZC00eNIBeEFVX3lxTE1ScjNCYWYtemFQVXI1YXhseEx6aUxEcWFuR18yZ3ZfZ2ZfZVh3c0w4Rld4Xzl4ZjZtU01JM0F5S3U0MUdUOEQ1NnY0VktfSDRiQWRfNnF6SUVWY2dlYkQ2c2RhU0M4VGVoMmhjdTlZV3h0cV9JZC00eA?oc=5"
+    },
+    {
+      "source_name": "뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBzOXd1Z3l2YUpyNWkwRjFsUG0zeFhsVmpONlYtS1ZJc3JNc0pTX19MTGxiOHZSWDlvWmVfeFFWcXZxTXg1R19TVzJ4Nkc4c0ZhNTQyNnJkUQ?oc=5"
+    }
+  ]
+}

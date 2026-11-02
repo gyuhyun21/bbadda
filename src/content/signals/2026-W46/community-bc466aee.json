@@ -1,0 +1,24 @@
+{
+  "id": "community-bc466aee",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&page=7&document_srl=10509791016",
+  "title": "독감에 걸려부렀다 - 야구",
+  "published_at": "2026-11-02T01:40:04.628Z",
+  "collected_at": "2026-11-02T07:40:04.628Z",
+  "summary_ko": "",
+  "excerpt": "... 두산베어스 16 분 전. 나도 오늘 맞아야지. 1. [레벨:33] 공포 15 분 전. 항체…",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

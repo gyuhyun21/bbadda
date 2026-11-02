@@ -1,0 +1,38 @@
+{
+  "id": "community-f9a93b74",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan",
+    "nc"
+  ],
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/10509962817",
+  "title": "두산 최민석·NC 신영우, 팔꿈치 부상으로 APBC 대표팀 낙마 - 야구",
+  "published_at": "2026-11-02T02:40:04.628Z",
+  "collected_at": "2026-11-02T07:40:04.628Z",
+  "summary_ko": "",
+  "excerpt": "... 오른손 투수 최민석(두산 베어스)과 신영우(NC 다이노스)가 나란히 오른쪽 팔꿈치 부상으로 2026 아시아프로야구챔피언십(APBC)에 출전하지 못한다.",
+  "metrics": {},
+  "scores": {
+    "hot": 98,
+    "relevance": 70
+  },
+  "sentiment": "negative",
+  "also_in": [
+    {
+      "source_name": "https://www.2news.co.kr/",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9LU25CQU9aN3VaUHB4VjNtdW5KLTFSRTlCMXp4XzZOZllQazJJbkVYc0RtY1prR2toeVlPWnRZSjE3STRZWXdoenRvRnFjSUtiRnMwMUNwdzFacUdLc2dnN1BrN1FvMmda?oc=5"
+    },
+    {
+      "source_name": "중앙이코노미뉴스",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5KZ2tWMzBjTGJaMklqU2FOUkNzd21TSjZpZURiZHZ6ekw5Wl8wM0ZpNEEwalVEOXBxZERmWl85V3F3VXdfUGFaUmo0ZDdTemFYWHN2T0JXdXA1dW02Q29jRE01dDZiLXphVnh1cy1RYWhrUQ?oc=5"
+    },
+    {
+      "source_name": "미디어펜",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9Wa3lIbjdnTEVSWlV2TzBPeTkwaE5TcmpQbUdrbVhwaFlWdVlyWkh1N0FXYmxoZk5fV2tLYllLWWFTXzdoQlk5Q0JESEJQQ0t3eldOatIBWEFVX3lxTE9DSWs5QkJMb2huTVdVTjZPOFlMMlhjOXBtemVwcHlfaWlGaFBVQ1RjMzhXeTlKWVVPN0VkaTZsTFBnMjZvZmczeTVNcHRpYld3N1RNZG9WNV8?oc=5"
+    }
+  ]
+}

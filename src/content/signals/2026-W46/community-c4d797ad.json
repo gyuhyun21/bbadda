@@ -1,0 +1,29 @@
+{
+  "id": "community-c4d797ad",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt",
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "다음카페 쭉빵카페",
+  "url": "https://cafe.daum.net/ok1221/8mNz/1196369",
+  "title": "kt 이강철-삼성 박진만…KS MVP 출신 사령탑, 최초 KS...",
+  "published_at": "2026-11-02T13:51:26.000+09:00",
+  "collected_at": "2026-11-02T07:40:04.628Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "톱스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9wb01YNzBrZzhTSTl3S25FNms4Vnh4TTV4cEJZNXhuZ3hYaXNwU1FCeEJEaDQ5X282dC15b0o4dGN1VmFhUGRFdW1VMEstdG53Mjc5SHdyc3BHSFhnNmNWb2w0N2NYWktOdTJGQV9aWG1MQQ?oc=5"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "news-72ba33b7",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "news",
+  "source_name": "매일경제",
+  "url": "https://m.mk.co.kr/amp/12193192",
+  "title": "2027신인 박보승·우주로 합류…NC, ‘CAMP 1 오키나와’ 실시",
+  "published_at": "2026-11-02T01:06:13.000Z",
+  "collected_at": "2026-11-02T07:40:04.628Z",
+  "summary_ko": "매일경제에 따르면 NC가 오키나와에서 마무리캠프 'CAMP 1'을 연다. 2027 신인 박보승·우주로가 합류한다.",
+  "metrics": {},
+  "scores": {
+    "hot": 82,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA4X0Z1WHJ5RkY2ZW1iOHBJZDlHWVFDWXpqamE3cDN6aDlYcTZjZ2ljeHVrYXotWGFxRHU5UkVOOXRnNnZyOTBfOUtiOFJZMmlYMDVXRW5Gdw?oc=5"
+    },
+    {
+      "source_name": "더게이트",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE53V05ubVZRbVhRaGpFZllZLTFkSWw0RDc0SWpmUkNUbU9fQ3MySnRlLU9PUGR5bnRGTFlwU1hwYUNpQmdCS3pZZzQzVmg5a3RqTGtQbnExZW4tQUxlczd0R3ZwakFjbm560gFsQVVfeXFMTkNIOUZEYVBYVmVHdENheklOYm5tTk1Ba3hzVktpS2JxVy1kSUhBd3ZjdDRQd3BaZnYwYi12b0kxanp1aVdKZU5xV19aVnJvY1NGbFNpWS1kZm83VDdmeFR0LVRGYk9RQlc5b2Y1?oc=5"
+    }
+  ],
+  "brief_ko": "NC, 오키나와 캠프 실시"
+}

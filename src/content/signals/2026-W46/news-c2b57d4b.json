@@ -1,0 +1,30 @@
+{
+  "id": "news-c2b57d4b",
+  "issue": "2026-W46",
+  "module": "rivalry",
+  "team": "lotte",
+  "teams": [
+    "lotte",
+    "hanwha",
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "스타뉴스",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1uUmp3ZTdmeGwzRkY4cS1JcXdzTmxsYjl1UEx6NkJGWWFZTU9wVFpjaWJWNVZHd1hCLU9acWVIUFRZVG1mRGlES2pncXJvX0ZxNmVsbEExUGJRNDhBNWlVV1huMGhiX0Q3TG1GX0xHN1g2T1hheFE?oc=5",
+  "title": "'어느덧' 우승 못한 기간, 롯데·한화 다음이라니... 삼성은 간절하다",
+  "published_at": "2026-11-02T00:28:15.000Z",
+  "collected_at": "2026-11-02T07:40:04.628Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 73,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBlSXpzNDZRbm9QeDZ5bE1DSmpOSXNCd2FscHhpTWJzcTJCbnBaX3FRa0NZcFpuZ1E0UlVBSkZzdHFickVfd3FmaEVLX25odWRMLVZma1VRZVlzVG1vYjRZeldGZVRKRDB5UzJzTXRBONIBb0FVX3lxTFBlSXpzNDZRbm9QeDZ5bE1DSmpOSXNCd2FscHhpTWJzcTJCbnBaX3FRa0NZcFpuZ1E0UlVBSkZzdHFickVfd3FmaEVLX25odWRMLVZma1VRZVlzVG1vYjRZeldGZVRKRDB5UzJzTXRBOA?oc=5"
+    }
+  ]
+}

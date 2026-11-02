@@ -1,0 +1,28 @@
+{
+  "id": "news-94e50528",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "일간대한뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE53U1JLWk5NekVlTnpmR2FDUUxIUnJ3SUd2a0cxQUtDYWQxMUtBSUFieFNWUEhiUXNSZUdNcjQ4WHNhYjgzS2FhN2J6YU1udVhSRmk2Ukp0akhvNUYxQS0yM055bzhLbDQ?oc=5",
+  "title": "롯데, 발달장애인 자립을 응원하는 ‘제3회 드림 카페’ 마무리",
+  "published_at": "2026-11-02T06:13:47.000Z",
+  "collected_at": "2026-11-02T07:40:04.628Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "MHN스포츠",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1lUFVCM3N0MDZiZzNTVl8xY2NoMmgxd2lyRUMzRXh3YUppazNqcWFqd1VKbjlNUGlncll2cmttSXduSV9NTnNPZFZYWFdmaG9fUkNlVWVlZEFzY1hUX3ZpdktXOA?oc=5"
+    }
+  ]
+}

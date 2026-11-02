@@ -1,0 +1,23 @@
+{
+  "id": "news-212a6987",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5Cd2hLY21WdTVUQmpvV0U3bW52UGIyVFZvVUhxU1huRjVkSWxQMGxtb3hNWGJxREw1NnhVRFh0MkkwcFUtQm9UUnk0RG1CaTNlUmZwVng1Z0tZN1JTTnBuS2JmSzJld24tRUVoRktZa0VNbHBLTmx5UG9Mdy1DUQ?oc=5",
+  "title": "\"저한테 계속 찌르고 있다\" 우승청부사 '외야 보이콧' 들은 캡틴의 읍소 \"형우형 힘 내주세요\"",
+  "published_at": "2026-11-02T06:45:11.000Z",
+  "collected_at": "2026-11-02T07:40:04.628Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

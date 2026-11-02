@@ -1,0 +1,24 @@
+{
+  "id": "community-84a92acb",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 스포츠 1분소식",
+  "url": "https://blog.naver.com/qozheqpjibgc/224462170313",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/B3w3OI2EgsW",
+  "title": "사토만 있는 게 아니었다, 메이저리그 구단들이 노시환에게 눈독 들이기 시작한 결정적 이유",
+  "published_at": "2026-11-02T13:29:00.000+09:00",
+  "collected_at": "2026-11-02T07:40:04.628Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

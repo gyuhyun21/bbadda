@@ -1,0 +1,23 @@
+{
+  "id": "news-e1c7da87",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "일간스포츠",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9kZTNKMVJwYy13el9oeXlUVGZFQUhPTXh6Z3AtdWxVRElFajN6czVUMXh4TnBSVW5yX0RBQkM5RXV3WUZySHBxM1RXY25Lem9CVUFYeF82dEtLWUp0Vi1fUDRR?oc=5",
+  "title": "노시환 행선지로 양키스 등 4개 구단 거론…계약 규모는 285억",
+  "published_at": "2026-11-02T01:39:00.000Z",
+  "collected_at": "2026-11-02T07:40:04.628Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-9026b224",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "마이데일리",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4zRFcyME9YNlppdlBLVWNOOVRLTnRvRnFpRWI1Wm1nMWN5ZkNKb1NkMUZVNGVJSnRwZkVLb0RmeW1NZko1SzJLYXN3WDcxbVYxdWZsYzVjS2xGWU84N01zQg?oc=5",
+  "title": "\"죽을 것 같아요\" 최형우 웃으며 보낸 SOS, 구디최 트리오 KS서 임시 해체?",
+  "published_at": "2026-11-02T03:41:00.000Z",
+  "collected_at": "2026-11-02T07:40:04.628Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

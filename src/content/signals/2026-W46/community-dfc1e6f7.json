@@ -1,0 +1,24 @@
+{
+  "id": "community-dfc1e6f7",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 projeckza님의 블로그",
+  "url": "https://blog.naver.com/projeckza/224462236508",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/89GOYeP2lNZ",
+  "title": "2026 불꽃야구2 인천 직관, 상대가 덕수고라니 만만치 않겠는데?",
+  "published_at": "2026-11-02T14:18:00.000+09:00",
+  "collected_at": "2026-11-02T07:40:04.628Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

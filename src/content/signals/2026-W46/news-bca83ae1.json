@@ -1,0 +1,23 @@
+{
+  "id": "news-bca83ae1",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "일간스포츠",
+  "url": "https://isplus.com/article/view/isp202611020058",
+  "title": "KIA 나성범 \"타이거즈 강한 모습 다시 증명, 내년엔 꼭 3할-30홈런-100타점을\" [IS 대구]",
+  "published_at": "2026-11-02T00:39:00.000Z",
+  "collected_at": "2026-11-02T07:40:04.628Z",
+  "summary_ko": "일간스포츠에 따르면 KIA 나성범은 내년엔 꼭 3할-30홈런-100타점을 하겠다며 타이거즈의 강한 모습을 다시 증명하겠다고 했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 73,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "brief_ko": "나성범, 내년 3할-30홈런"
+}

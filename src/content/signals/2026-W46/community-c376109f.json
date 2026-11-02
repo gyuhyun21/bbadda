@@ -1,0 +1,24 @@
+{
+  "id": "community-c376109f",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 세상의소리",
+  "url": "https://blog.naver.com/aytekin_diary/224461797301",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/HXfkLgP1Wy4",
+  "title": "노시환 메이저리그 진출, 307억 포기한 이유와 MLB 4개 구단의 관심 분석",
+  "published_at": "2026-11-02T07:00:00.000+09:00",
+  "collected_at": "2026-11-02T07:40:04.628Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

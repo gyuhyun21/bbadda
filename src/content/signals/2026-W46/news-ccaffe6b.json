@@ -1,0 +1,29 @@
+{
+  "id": "news-ccaffe6b",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5WV2I0b2h6aU1KSURUT0U0T2d3RW5ER1ZKTThqTXF2VTJ4QlhEMkpBY25sVnpYQzJtYi1lbTVtbEVxRXV1cG1RTFRjN0ZUUHRQbGt0RGdORWlFNTh6di1ZRTJCNHVZWXVSS1dnVnJKdVY3cW9pQkJnME96ZUxldw?oc=5",
+  "title": "단기전인데 RISP 8할 실화? 이 가을 '득점권 악마'가 탄생했다 \"공격적으로 집중하다보니…\" [PO]",
+  "published_at": "2026-11-01T23:58:25.000Z",
+  "collected_at": "2026-11-02T07:40:04.628Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 73,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcnc1WmRsOG93TUdzb0VwV05XVm5OVHIxYkRSZmgxZ2tBY0ljMm9Wa2hXWE9DNTV4aTRNMThEOE9MLUF1ZEpZVmVVWFdMZDh1ajRwR0k4bTNHLWJBNGVNbU9GMktHNV94VV9mZU90eFdBUU5rT0NrTWNva0RVelo2cWlYSQ?oc=5"
+    }
+  ]
+}

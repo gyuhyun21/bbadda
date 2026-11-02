@@ -1,0 +1,24 @@
+{
+  "id": "news-865239a6",
+  "issue": "2026-W46",
+  "module": "rivalry",
+  "team": "kt",
+  "teams": [
+    "kt",
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "조선일보",
+  "url": "https://www.chosun.com/sports/baseball/2026/11/02/HA3TSZLCGE2DIOJSMQ4GMMBYGM/",
+  "title": "마지막까지 감췄던 1차전 선발, KT 대니엘vs삼성 최원태…이강철 감독 \"누가 올라오든 1선발\" [수원현장]",
+  "published_at": "2026-11-02T06:39:00.000Z",
+  "collected_at": "2026-11-02T07:40:04.628Z",
+  "summary_ko": "조선일보에 따르면 한국시리즈 1차전 선발은 KT 대니엘과 삼성 최원태다. 이강철 감독은 누가 올라오든 1선발이라고 했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "KS 1차전, 대니엘 vs 최원태"
+}

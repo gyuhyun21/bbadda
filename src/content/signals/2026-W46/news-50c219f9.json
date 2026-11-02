@@ -1,0 +1,28 @@
+{
+  "id": "news-50c219f9",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBsWllpaFQ4Sk92cHdEUmxvWTlxWVhVdG5zODdVdGIwX3VZX21Ya3c2ekRraDRiTEF5ZERpQXhYNUxjXzkyTkJ2SzAtd29mMDZIZDFkVTgySWFwbFhOdkl4TmZLSVE3cTdTRXQ5MklFZ9IBb0FVX3lxTFBsWllpaFQ4Sk92cHdEUmxvWTlxWVhVdG5zODdVdGIwX3VZX21Ya3c2ekRraDRiTEF5ZERpQXhYNUxjXzkyTkJ2SzAtd29mMDZIZDFkVTgySWFwbFhOdkl4TmZLSVE3cTdTRXQ5MklFZw?oc=5",
+  "title": "'16억' 하현승에 '9억' 장재영도 합류한다…키움 45명 선수단, 5일 대만 마무리캠프 출국",
+  "published_at": "2026-11-02T03:37:00.000Z",
+  "collected_at": "2026-11-02T07:40:04.628Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBtalF3elkwMWpVY3VkdXJ1dnE4NWdnS29rR3RkN2JLaURSVmR5M3Roa245UWlHZ2N4bXFaSXE2Q3lHZmNSRXdlMnNCbkNHN1ktU0d3Ug?oc=5"
+    }
+  ]
+}

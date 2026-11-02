@@ -1,0 +1,26 @@
+{
+  "id": "youtube-74d0ca7c",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "youtube",
+  "source_name": "데보야",
+  "url": "https://www.youtube.com/watch?v=p0FvPMUl1c8",
+  "title": "[구단별 결산③] 7월 말 9위→8월부터 28승 15패, SSG는 무엇이 바뀌었나?｜2026 SSG 랜더스 결산",
+  "published_at": "2026-11-02T04:13:55Z",
+  "collected_at": "2026-11-02T07:40:04.628Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 2,
+    "likes": 0,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 47,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "news-3ee50358",
+  "issue": "2026-W46",
+  "module": "league",
+  "teams": [],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5wSWJOaHVrcGhpMWtaUTBOYU9hRWxNNklqTWhfX2JGNUNiOEJvYlY4cDMtb0VlRGJtelN5ODE4anMtbTN4dVdYVVNVbDRJb3EwaFRpVlVtQktYbTNlOXp0VUp3SHVzLWVIQlHSAW9BVV95cUxNRExUR0NmRGM2NDR2UEFhVVM4YzdBaHlSQ0tVckpfT1BkMV9nZGE1QzFLRlNwX0x6OE44eUhqbUh5TEVUVFdhQ1JFTVpTLTJZdWdXRWRkZFhEaEtNRmJubmJWUXlESDBscDRwQWRCV28?oc=5",
+  "title": "[사진]한국시리즈 우승 트로피의 주인공은?",
+  "published_at": "2026-11-02T04:36:00.000Z",
+  "collected_at": "2026-11-02T07:40:04.628Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 99,
+    "relevance": 30
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5yaHBldVFKMkZ0MU1wRTNqdGFxN3pqZzc4dnk0RlFQVjh6SHpzZnNSWndSZVE5TkdQcnlRdmlrakFYbmpMaEFGLTU4RHBkOFkwbFBsdUlpQmVMWEl5OVVsWtIBYEFVX3lxTE5yaHBldVFKMkZ0MU1wRTNqdGFxN3pqZzc4dnk0RlFQVjh6SHpzZnNSWndSZVE5TkdQcnlRdmlrakFYbmpMaEFGLTU4RHBkOFkwbFBsdUlpQmVMWEl5OVVsWg?oc=5"
+    },
+    {
+      "source_name": "뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8tSlRfSjFzUHRhakNiaGhtZC1abjJ6UWprU3BxSkpYTVBxMUxJcXFkYVYxYmlaZEU4a3BUMVJOcWxUTHFPOTU2YnVQTkFVaEVqMGFuVWJyVTNnQjFScGhVTVJpd01mdw?oc=5"
+    },
+    {
+      "source_name": "뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE96LXVEbm83SGhPR1h1bGJENDVBcU92eHl6VDR4NXlwdW1CWE0xOEZVWDhzcU9nWDhCelBFUHg0RTBuNVhiSG5hcTdJWQ?oc=5"
+    },
+    {
+      "source_name": "경인일보",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBhU2VUWHV0c2pPczJkaFZTUEV5QVgtLUJqWDlqTkl5U1ZMSHZZUkR4YVY2aDRHNXRVQTl5bzVTNWZwTlBYNDNkcXVkNlJBaGtzVnc?oc=5"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "youtube-50a0f79d",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "youtube",
+  "source_name": "이슈인걸",
+  "url": "https://www.youtube.com/watch?v=VuUCkLZn1Ws",
+  "title": "메이저리그에 선수 6명 보낸 키움, 이적료만 얼마 벌었을까? ⚾💰 #키움히어로즈 #메이저리그 #MLB",
+  "published_at": "2026-11-02T03:00:36Z",
+  "collected_at": "2026-11-02T07:40:04.628Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1042,
+    "likes": 3,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 45,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

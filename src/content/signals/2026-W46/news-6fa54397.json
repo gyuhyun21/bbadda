@@ -1,0 +1,24 @@
+{
+  "id": "news-6fa54397",
+  "issue": "2026-W46",
+  "module": "rivalry",
+  "team": "hanwha",
+  "teams": [
+    "hanwha",
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "노컷뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBVZGhuWjdlTV9EeGpxVGVzbHhhWGJCMndpaFJzVVIxeVRFUmxtR3I4N0xqb3cxSkM0LVFTUTRGMXBHNFhFUm9Ka29PTnFfd2ttUjNwVA?oc=5",
+  "title": "\"타격은 빅리그급인데\"…'MLB 도전' 노시환, 현지 평가는?",
+  "published_at": "2026-11-02T02:44:00.000Z",
+  "collected_at": "2026-11-02T07:40:04.628Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 82,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

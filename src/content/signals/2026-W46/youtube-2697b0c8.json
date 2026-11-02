@@ -1,0 +1,26 @@
+{
+  "id": "youtube-2697b0c8",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "youtube",
+  "source_name": "야구로그",
+  "url": "https://www.youtube.com/watch?v=aALlw-se3k8",
+  "title": "\"수비는 승리를 부른다\" 롯데 새 수장 이동욱, 롯데 수비를 바꿀 수 있을까?",
+  "published_at": "2026-11-02T02:00:16Z",
+  "collected_at": "2026-11-02T07:40:04.628Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 3395,
+    "likes": 56,
+    "comments": 18
+  },
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

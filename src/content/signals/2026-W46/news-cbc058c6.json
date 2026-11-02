@@ -1,0 +1,22 @@
+{
+  "id": "news-cbc058c6",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "대구MBC",
+  "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE8zZ3RIVnE0UHMzVEMxWHplbENobHc3eFVtY2hRM2I0allkemdIb21hWkNTUnFpajN5d0MyUlJtN2xqZ0U2WjNiT1FCSzE?oc=5",
+  "title": "한국시리즈 진출 성공한 삼성라이온즈, '숙제 가득한 투타' 어떻게 풀까?",
+  "published_at": "2026-11-02T02:13:58.000Z",
+  "collected_at": "2026-11-02T07:40:04.628Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

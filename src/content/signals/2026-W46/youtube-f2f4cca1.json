@@ -1,0 +1,26 @@
+{
+  "id": "youtube-f2f4cca1",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "youtube",
+  "source_name": "역대급랭킹",
+  "url": "https://www.youtube.com/watch?v=R80yZSPQRlk",
+  "title": "이게 내야 수비다… 두산 철벽 수비 랭킹 TOP5 #shorts",
+  "published_at": "2026-11-01T23:10:42Z",
+  "collected_at": "2026-11-02T07:40:04.628Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1560,
+    "likes": 4,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 47,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

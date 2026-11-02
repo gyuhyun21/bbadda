@@ -1,0 +1,22 @@
+{
+  "id": "news-702ab4fa",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "news",
+  "source_name": "기호일보",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5tWEhuTklldlI4OXk1all5Yi1GNWszdldza3N1M3NRUEJ4MG1CVU51QjNLcnpWTklZVTFZUmxnX0xmZ2toSng3U0R3all0M1dhb1dDM25KYzBYdXNQcVAzZTFfMHVWWmU5ZTRyOUh6VQ?oc=5",
+  "title": "프로야구 kt 위즈, ‘V2 향한 역주 시작’",
+  "published_at": "2026-11-02T05:27:00.000Z",
+  "collected_at": "2026-11-02T07:40:04.628Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}
