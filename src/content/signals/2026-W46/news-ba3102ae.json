@@ -1,0 +1,33 @@
+{
+  "id": "news-ba3102ae",
+  "issue": "2026-W46",
+  "module": "rivalry",
+  "team": "kt",
+  "teams": [
+    "kt",
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "서울경제",
+  "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE96dWFDRnJueXVsNWQ3X2s5WFRvb0xCNHBSMmxlYnZkRHpSVUk1YVduWXhGVm9JbnkxNE5Kc2t2T05oZ2kwMFNkQVJUMkNTeGpsaXhr0gFTQVVfeXFMT3p1YUNGcm55dWw1ZDdfazlYVG9vTEI0cFIybGVidmREelJVSTVhV25ZeEZWb0lueTE0Tkpza3ZPTmhnaTAwU2RBUlQyQ1N4amxpeGs?oc=5",
+  "title": "한국시리즈 앞둔 KT·삼성, 야구장 AI 트래픽 분산 기술 함께 검증",
+  "published_at": "2026-11-02T00:07:24.000Z",
+  "collected_at": "2026-11-02T13:40:06.157Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 79,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE92bDh1bXkxOE0zbUw4UWZTSkQ1dlRpdnhodDdtRmozR0l4SVZaMlJrVXdUbFRwUzRUWV9vMzRCdDRocW9idXJfNUxNeDMxcTNyMmF2c1FmQWZ3Um9YMU1MZ1VpcmtLSjNPeDVCZ3BMb09TOG5vanEyd9IBeEFVX3lxTE92bDh1bXkxOE0zbUw4UWZTSkQ1dlRpdnhodDdtRmozR0l4SVZaMlJrVXdUbFRwUzRUWV9vMzRCdDRocW9idXJfNUxNeDMxcTNyMmF2c1FmQWZ3Um9YMU1MZ1VpcmtLSjNPeDVCZ3BMb09TOG5vanEydw?oc=5"
+    },
+    {
+      "source_name": "더나은미래",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5XT3F4Qmt4cERPbGJ2SmtNOXVQU2d1bzIwTlNONlgtbkRaM3VVcy0xb05sckk1ZDYtMUdLSFFDckFOTHJVWnVlb1k1cmVzQV9MbkE?oc=5"
+    }
+  ]
+}

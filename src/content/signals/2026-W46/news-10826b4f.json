@@ -1,0 +1,28 @@
+{
+  "id": "news-10826b4f",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "news",
+  "source_name": "연합뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ieXpjMUd3bnIyNWdMVm4tdmxyT3dETkJtOUhibEFEVmlEYzNVUFJrZzNZUVRqY0NscGtVWEQ5Smw1dkxTWTFqbDBCOGJnWVRkVmtjamx5MG9teWxBN1pyUdIBYEFVX3lxTE5ieXpjMUd3bnIyNWdMVm4tdmxyT3dETkJtOUhibEFEVmlEYzNVUFJrZzNZUVRqY0NscGtVWEQ5Smw1dkxTWTFqbDBCOGJnWVRkVmtjamx5MG9teWxBN1pyUQ?oc=5",
+  "title": "'16억 신인' 키움 하현승, 대만 마무리 캠프로 프로 생활 시작",
+  "published_at": "2026-11-02T07:46:20.000Z",
+  "collected_at": "2026-11-02T13:40:06.157Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 90,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "news.sbs.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcWVIR1hTNHljNldld1NnQm1XZF9zZ1VvZEpCdUlIaDFYRVZNMnloSUJvN2pILVlWQVRHcE93Wi1vQmlIdE9zYjRVVzJnb0hHT2lieGFYNXdMNzFHV0dmcW9EaThrcVRfdU00V0k3LTVRc09XVUNtMEVzSnM4b1I5TmhxNzBKT0Jhc2VRUk92SQ?oc=5"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "community-7fbf2a1d",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 덕이매거진 | 스포츠에 진심인 덕후 오리",
+  "url": "https://blog.naver.com/schinmagazine/224462567034",
+  "title": "‘1996년 이강철•2006년 박진만’ KS MVP 출신 감독들의 첫 대결",
+  "published_at": "2026-11-02T18:54:00.000+09:00",
+  "collected_at": "2026-11-02T13:40:06.157Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

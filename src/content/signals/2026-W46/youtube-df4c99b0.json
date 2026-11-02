@@ -1,0 +1,27 @@
+{
+  "id": "youtube-df4c99b0",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "Eagles TV",
+  "url": "https://www.youtube.com/watch?v=uY4HqRM7Zow",
+  "title": "돼지야!!!",
+  "published_at": "2026-11-02T11:28:15Z",
+  "collected_at": "2026-11-02T13:40:06.157Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 21456,
+    "likes": 1487,
+    "comments": 42
+  },
+  "scores": {
+    "hot": 92,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

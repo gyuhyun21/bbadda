@@ -1,0 +1,23 @@
+{
+  "id": "news-422d99c2",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "재경일보",
+  "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBZUDdOeTlTb09yMzlXRlRmLXRpVFhyallxbV9EMUQ3bEpyX3A2d1haQzgxM1A4Nmp5Zkw3eGV6ZHAyMkstR2V3dTBqZw?oc=5",
+  "title": "KBO 슈퍼스타 김도영, 메이저리그 스카우팅 대상 올랐다…부상 털고 홈런왕 오른 김도영…MLB는 “타격만으로도 가치”",
+  "published_at": "2026-11-02T09:58:00.000Z",
+  "collected_at": "2026-11-02T13:40:06.157Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "mixed"
+}

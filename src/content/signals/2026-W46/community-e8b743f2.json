@@ -1,0 +1,24 @@
+{
+  "id": "community-e8b743f2",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 Life is either a daring adventure or nothing",
+  "url": "https://blog.naver.com/ldw0430/224462719222",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/80VJM7g5X33",
+  "title": "야구팬 가슴 뛰게 할 2026 한국시리즈 일정 오픈! 수원·대구 대진표 및 중계 방송 안내",
+  "published_at": "2026-11-02T21:37:00.000+09:00",
+  "collected_at": "2026-11-02T13:40:06.157Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

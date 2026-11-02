@@ -1,0 +1,26 @@
+{
+  "id": "youtube-f3a19f2f",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "한컷리포트",
+  "url": "https://www.youtube.com/watch?v=OO7T2-aWxoo",
+  "title": "기아 타이거즈 역대 기록 | 양현종 198승·나지완 221홈런·정해영 150세이브·선동열 0.78, 해태 포함 부문별 1위 #한컷리포트 #shorts",
+  "published_at": "2026-11-02T10:00:38Z",
+  "collected_at": "2026-11-02T13:40:06.157Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 15198,
+    "likes": 14,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 51,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

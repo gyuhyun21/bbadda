@@ -1,0 +1,26 @@
+{
+  "id": "youtube-3722859c",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "youtube",
+  "source_name": "언덕위의작은집 TV",
+  "url": "https://www.youtube.com/watch?v=8o_IvTHk2eE",
+  "title": "로비의 KBO 뉴스 뒷담화 (26.11.02 / 두산 베어스, 소통방)",
+  "published_at": "2026-11-02T10:18:40Z",
+  "collected_at": "2026-11-02T13:40:06.157Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 515,
+    "likes": 13,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 53,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

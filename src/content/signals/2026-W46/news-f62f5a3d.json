@@ -1,0 +1,41 @@
+{
+  "id": "news-f62f5a3d",
+  "issue": "2026-W46",
+  "module": "league",
+  "teams": [],
+  "source_type": "news",
+  "source_name": "인더스트리뉴스",
+  "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1vMjJ1VThvTXhTUFludUd0NWhSaEVJVVJTbTc1cm4zaUU4MVg2QVJXLWs2ZnR2RERXUy1VRDFncTZCMHRFZzBRcFJBdW82T19ob2hTbnpPbHNZQTBhN0VDLTBneUV0S3VsX3RuTFVaNGFZZw?oc=5",
+  "title": "bhc, 한국시리즈 전 경기 직영점 중계…강남역점에 응원존 마련",
+  "published_at": "2026-11-02T02:21:35.000Z",
+  "collected_at": "2026-11-02T13:40:06.157Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 96,
+    "relevance": 30
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "뉴스락",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE55bHNGT2FNS1ZvbkRTZ0FndjdMRlNQS0pneXVfUGFWanRNd2JDMFVvd0o5X2xOT2Y4X3NhZmRHTlcxYm9oMU8tMk1UdnVReGR4V3ZSMkhPQi10WTdzbE8xVG9YR1dzN2dGS2dadQ?oc=5"
+    },
+    {
+      "source_name": "연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9wUUZRRHdzV21HRzlVclhEa0JIcTA0TUdaUDROVXp0Y1czUVVYYlkwQzBBYUhNS1FaWlppTWtHQjZLbmduR3paREtGMEJSZk9hY3BNR3JBeGNQZWvSAWBBVV95cUxNX1FmWlNFTV9TZnAyM1BiVFpldkZnajRUMnpyZEVFODhaX09HTEpiek01XzVtUTQtS0pEU3FuRmYzZXpadldXaWg5bUxPMzVMQnhCaHBwdlFzZEQ0X2JvdVE?oc=5"
+    },
+    {
+      "source_name": "뉴스웰",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5oNGVTZS1PRjlpVDVYX18zanYwem92bXAxT3RMS3VRV2h2R0FGTG1UbGpLbjRJeDExWDdrWDQ0X1duSGh3NDJxRUFTTUw2a1VaMXFtRzl0TlVGeVpKYXljTHNJYXEzeVd5VDE2UA?oc=5"
+    },
+    {
+      "source_name": "Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbGdtTXFPSG9fMFdIZ01PSDFWQ2hjVVpsTVByMEp0a1d5NUtTZHdvN2ZWMF9tQXdKNXRsd0JFTGFmbEZ1bGo1V2g4YThVTmF3RHJ2SlBvTFE0V0NvZWt0Zjg1eXlRTS15RXlFSXZmVU9lRTFNYVJFTmZtOXRGY2hINXRHS1FqQdIBmgFBVV95cUxPSFQ3WDhUcmhWbEN2a1oxLVNkZXh2eEh1UF9WYmpCUFY5VXRGSWZVS1NqYjVlWV9rXzlYeXk4YmNFQzN3UU43WDZjVEtiX211dW41dzZrVzhhMkRUZHN2c1hUVXlKWUd4RHFlZE5tUFU4YkxuZnlWTjVodUZRSXluQkRoZFdkalFXS3lEa1MyZjVhTXlsalB6eTlR?oc=5"
+    },
+    {
+      "source_name": "Queen 이코노미퀸",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE56YWdJMXI4RWxlaENPcU5NemhXLU03VVRPTUZBQVRfbXM4ZVJQVXpMbWZ6NmVkZWtiYXpQblc2b19fLXlIWk9Qd1l2Q2J4S3F4RGdEWVNUVXFNSUFFcldCOXhhUjVjMUFK?oc=5"
+    }
+  ]
+}

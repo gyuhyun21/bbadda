@@ -1,0 +1,22 @@
+{
+  "id": "news-26f64a2f",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "매일경제",
+  "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBVZy1rZ2lvMHdfa3A4Y2R2OEJYNDhGZnVyMnRJbGR5YnBtQklPdkR3SnoxQXNaZFdnR1hlYVh5WVo3eVpmUlE?oc=5",
+  "title": "“팀 우승 위해 모든 힘 쏟아내겠다”…삼성 KS로 이끈 후라도의 당찬 한 마디 [PO5]",
+  "published_at": "2026-11-01T22:40:00.000Z",
+  "collected_at": "2026-11-02T13:40:06.157Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 63,
+    "relevance": 80
+  },
+  "sentiment": "positive"
+}

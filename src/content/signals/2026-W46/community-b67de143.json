@@ -1,0 +1,22 @@
+{
+  "id": "community-b67de143",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 엉짱",
+  "url": "https://kixxf.tistory.com/438",
+  "title": "[2026 KBO 준플레이오프] '네일 호투·김도영 연타석포' KIA 타이거즈, 1차전 완승하며 V13 청신호!",
+  "published_at": "2026-11-02T20:13:27.000+09:00",
+  "collected_at": "2026-11-02T13:40:06.157Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

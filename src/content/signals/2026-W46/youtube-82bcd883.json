@@ -1,0 +1,27 @@
+{
+  "id": "youtube-82bcd883",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "kt wiz - 위즈TV",
+  "url": "https://www.youtube.com/watch?v=BxKSuBaOHms",
+  "title": "우리 모두의 간절함을 담아ㅣ2026 한국시리즈 각오 [위즈티비]",
+  "published_at": "2026-11-02T08:23:24Z",
+  "collected_at": "2026-11-02T13:40:06.157Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 17041,
+    "likes": 1014,
+    "comments": 181
+  },
+  "scores": {
+    "hot": 91,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "community-2b83c77f",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "community",
+  "announcement": true,
+  "source_name": "엠엘비파크",
+  "url": "https://mlbpark.donga.com/mp/b.php?id=202611010119817519&p=1&b=kbotown&m=view&select=spf&query=%EC%82%BC%EC%84%B1&site=donga.com",
+  "title": "[오피셜] 삼성 라이온즈, KBO 역대 전구단 상대 포스트시즌 대결 달성",
+  "published_at": "2026-10-31T15:00:00.000Z",
+  "collected_at": "2026-11-02T13:40:06.157Z",
+  "summary_ko": "",
+  "excerpt": "... 이미 해체된 쌍방울 레이더스, 현대 유니콘스 맞대결까지 포함)유일하게 kt와의 맞대결…",
+  "metrics": {},
+  "scores": {
+    "hot": 51,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-c3ab199d",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "news",
+  "source_name": "경기신문",
+  "url": "https://www.kgnews.co.kr/news/article.html?no=917855",
+  "title": "이강철 KT 위즈 감독 “이번엔 수원 시민 앞에서 우승의 기쁨 나누겠다”",
+  "published_at": "2026-11-02T08:48:40.000Z",
+  "collected_at": "2026-11-02T13:40:06.157Z",
+  "summary_ko": "경기신문에 따르면 이강철 KT 감독은 이번엔 수원 시민 앞에서 우승의 기쁨을 나누겠다고 말했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "brief_ko": "이강철, 수원서 우승 기쁨 나눈다"
+}

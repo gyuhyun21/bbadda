@@ -1,0 +1,23 @@
+{
+  "id": "news-3958230c",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "연합뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1yeGpWN2s5T1pIeE4xeUdBdVBfaUh6ZlREYTA2UEY5V2N0VGQ1TG4xdll1T3d0Sl9wMk1LOEFKcDJXODF5ZGtGZjNDbEJvV3NVQmtfdUtUQ1BpU2JRMWhLeNIBYEFVX3lxTE1yeGpWN2s5T1pIeE4xeUdBdVBfaUh6ZlREYTA2UEY5V2N0VGQ1TG4xdll1T3d0Sl9wMk1LOEFKcDJXODF5ZGtGZjNDbEJvV3NVQmtfdUtUQ1BpU2JRMWhLeA?oc=5",
+  "title": "'대전시 야구장 무상이용' 의혹…이장우 전 시장 공소청 송치(종합)",
+  "published_at": "2026-11-02T05:16:05.000Z",
+  "collected_at": "2026-11-02T13:40:06.157Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

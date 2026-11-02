@@ -1,0 +1,23 @@
+{
+  "id": "community-d545f2f7",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 영감의또또",
+  "url": "https://blog.naver.com/jjinenius/224462248907",
+  "title": "탈락팀 김도영에게 플레이오프 MVP 2표, 기자단 투표 이대로 괜찮나?",
+  "published_at": "2026-11-02T20:28:00.000+09:00",
+  "collected_at": "2026-11-02T13:40:06.157Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

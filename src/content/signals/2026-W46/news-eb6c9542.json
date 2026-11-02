@@ -1,0 +1,22 @@
+{
+  "id": "news-eb6c9542",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "news",
+  "source_name": "경남신문",
+  "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9kRDJDRTlUcFQzWkhVeTJzcy1HclJrTTUzRU5QMWlreGR1emVLVE9WdmlxcE8yVWZuVGNDblJpNlhtX2RCSXdZaEQzXzN3RDBpaEZKYlNBYnc?oc=5",
+  "title": "[세상을 보며] 90만 관중을 돌파한 NC 다이노스- 권태영(사회1·2부 부장대우)",
+  "published_at": "2026-11-02T10:21:47.000Z",
+  "collected_at": "2026-11-02T13:40:06.157Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

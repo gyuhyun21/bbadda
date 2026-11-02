@@ -1,0 +1,24 @@
+{
+  "id": "news-1ca8c08f",
+  "issue": "2026-W46",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠동아",
+  "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1CUXEtXzExa1Q1MUt0QzltLVllM2pLWVBWM2NhSWtPWG5PVk1hcW94bkV0NlduTmc1UE16NlFNSEJqamJBUE9WSlRTSXNxNEx6WDhXRjlTX3hhYzJ1TXlERFJFVDA3aXA0RnRLZS1BY1A4QQ?oc=5",
+  "title": "“미안해. 다음에 해” 한 명만 웃는 우규민-강민호의 첫 KS 우승 도전",
+  "published_at": "2026-11-02T08:04:15.000Z",
+  "collected_at": "2026-11-02T13:40:06.157Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

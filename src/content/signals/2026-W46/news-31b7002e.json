@@ -1,0 +1,23 @@
+{
+  "id": "news-31b7002e",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "미주중앙일보",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBWYm9Jam5RV0NGbFZ5enA0MVJmdlZOUGhLQUpicDJtWk1TUnR4UzhXV2hHUWpmYXBLVHNmNXNGb1FMQVR0T1FCcC1hck1mdTRVUDg2a1NfRWtCSi15Ynpkc29R?oc=5",
+  "title": "‘국대 안방마님’ 조형우의 황금빛 포부, “젊은 포수 중 최고가 되고 싶어”",
+  "published_at": "2026-11-01T19:13:00.000Z",
+  "collected_at": "2026-11-02T13:40:06.157Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 61,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "news-bb6a7112",
+  "issue": "2026-W46",
+  "module": "league",
+  "teams": [],
+  "source_type": "news",
+  "source_name": "서울경제TV",
+  "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE43UkZ2eklzRlVmZnVmd2MwR0x1a2VpT0R4OXppXzFOSmNVT0hUSXF2d3dQbjRUMFJrSnRrbFVlU2Z3UEFMeGNDbHMxSC1tVDNjZlBuQm5BY1Y0UzVVbm5FbDVFZnk?oc=5",
+  "title": "“한국시리즈 열기 치킨과 함께”…bhc, 직영점서 공식 중계 및 응원",
+  "published_at": "2026-11-02T02:34:01.000Z",
+  "collected_at": "2026-11-02T13:40:06.157Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 72,
+    "relevance": 30
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "문화일보",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4wUVNNUTltTzN1d1ljTUE2ZVBxaExvQ2J2MzlLU2d3Z1hjUEhfV1pOY0l3ckh3RE9Od1R5MXE1OC04WDdldlNLX1d2bUhtbGdr?oc=5"
+    }
+  ]
+}

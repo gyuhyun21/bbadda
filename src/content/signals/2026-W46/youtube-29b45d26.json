@@ -1,0 +1,26 @@
+{
+  "id": "youtube-29b45d26",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "youtube",
+  "source_name": "째깍 타임머신",
+  "url": "https://www.youtube.com/watch?v=vkZ14vVLA00",
+  "title": "롯데 야구단은 일본에서 먼저 우승했다 | 롯데 자이언츠 비화",
+  "published_at": "2026-11-02T10:53:11Z",
+  "collected_at": "2026-11-02T13:40:06.157Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1003,
+    "likes": 8,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 43,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

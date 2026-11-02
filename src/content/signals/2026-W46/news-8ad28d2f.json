@@ -1,0 +1,25 @@
+{
+  "id": "news-8ad28d2f",
+  "issue": "2026-W46",
+  "module": "league",
+  "teams": [],
+  "source_type": "news",
+  "source_name": "JTBC",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4yTjRuR1drck5GRlg3UXI0ZFM5WWYwLWVFVWhQUnQtWHVFSTY3NHk4YnZ5ZHJENTZlMW5RVUdpSC1lTU9yRjBiV1FwLV9ZUE9QSGozTA?oc=5",
+  "title": "8만원 한국시리즈 티켓을 900만원에…매크로 암표상 검거",
+  "published_at": "2026-11-02T05:38:00.000Z",
+  "collected_at": "2026-11-02T13:40:06.157Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 73,
+    "relevance": 30
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "YTN",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBzdm5SeXhSNDJranl5X09rZXVvNGdDM0pGNUM5N3NkdktObTFuV05zcGtreExOVkZJZDFsdkMxLV9ybW9MS1ZTUmhLaXZ5RUY2U2MzdW1ZelpfTTRIdXYtUmJtb0ktcU53SnNlRm5JN1hUZDQyMUE?oc=5"
+    }
+  ]
+}

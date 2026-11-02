@@ -1,0 +1,26 @@
+{
+  "id": "youtube-1121fe81",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "youtube",
+  "source_name": "가족베이스볼",
+  "url": "https://www.youtube.com/watch?v=A8t56sM3g3k",
+  "title": "nc다이노스 천재환 한재환 선수님 둘다 원피스 주루장갑을 사용해주시네요.",
+  "published_at": "2026-11-02T08:05:02Z",
+  "collected_at": "2026-11-02T13:40:06.157Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 876,
+    "likes": 15,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 49,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

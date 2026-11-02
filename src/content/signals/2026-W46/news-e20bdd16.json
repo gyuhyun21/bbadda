@@ -1,0 +1,28 @@
+{
+  "id": "news-e20bdd16",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "news",
+  "source_name": "디트NEWS24",
+  "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9fSzlCNmlWaXhpelBPLTh2SXBLU2haR1l6MDBrN2IzWkdwX3ZkMHdOVC1aTHFfT1k5T1Z1RVVweEpCRmRQVFVKWTNZVTdiei1uNnFWMW1WVnBHYVhTb2M5WEhEbFpFcHh5OXcw?oc=5",
+  "title": "이장우 ‘한화야구장 스카이박스 사유화’ 선거법 위반 송치",
+  "published_at": "2026-11-02T02:41:21.000Z",
+  "collected_at": "2026-11-02T13:40:06.157Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 72,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "경향신문",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ManNZV1FNWFU4cmVFWk1kTmtXNkZQdEhMb1UyaHNjbXBvNjJadmxQVUxjZU4zaGQ1b0o5MkFDU3R1RE9iejZYb2RwMmoyX0pwUGFValRzX2FzZ3pMZGlF0gFfQVVfeXFMTkxqc1lXUU1YVThyZUVaTWROa1c2RlB0SExvVTJoc2NtcG82Mlp2bFBVTGNlTjNoZDVvSjkyQUNTdHVET2J6NlhvZHAyajJfSnBQYVVqVHNfYXNnekxkaUU?oc=5"
+    }
+  ]
+}

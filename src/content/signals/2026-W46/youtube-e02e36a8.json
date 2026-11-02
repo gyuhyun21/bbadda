@@ -1,0 +1,28 @@
+{
+  "id": "youtube-e02e36a8",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "기아타이거즈 KIA TIGERS",
+  "url": "https://www.youtube.com/watch?v=EgrhhbWTA3s",
+  "title": "내년 시즌 준비하러 갑니다! [2026 마무리캠프 인터뷰]",
+  "published_at": "2026-11-02T09:00:00Z",
+  "collected_at": "2026-11-02T13:40:06.157Z",
+  "summary_ko": "KIA 타이거즈 공식 채널이 2026 마무리캠프 선수 인터뷰 영상을 공개했다. 내년 시즌 준비 이야기다.",
+  "metrics": {
+    "views": 68170,
+    "likes": 2118,
+    "comments": 196
+  },
+  "scores": {
+    "hot": 85,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "KIA 마무리캠프 인터뷰"
+}

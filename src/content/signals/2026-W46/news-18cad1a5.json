@@ -1,0 +1,29 @@
+{
+  "id": "news-18cad1a5",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9JOC1NREFJUE1sTGpWakxFTFhRMFFfeVNMOVZaOWZMVkR3QjFEUHljMVB5MDVuYUE4WElZUmlXcGVjR2NVTnRRekVmYVZSamxHY0ZLTDBIZzNnM2tDOXFGbWY3WUhvdUFFdGxMVFVWLUdGcUR4QkZYQVZib3JHQQ?oc=5",
+  "title": "할아버지 스윙에 안타 맞으면 상대는 '멘붕'...강민호 옆구리가, KS 판도 뒤흔드나",
+  "published_at": "2026-11-02T10:07:07.000Z",
+  "collected_at": "2026-11-02T13:40:06.157Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWXdKRTQxMUxLOUhNaFRJWk9FUUFrNE9EUk95UHBwbkJKM1NJR05oMEp4WDdrbVVSQjZtT3JpRjdja3Z3ZGRDUkZFWmd0QW9ROGJDTzVwWVBlVDcwOXVjLXRVM0dxTnB0SWV4ZEpsbkw3azRKOFN0MUZnZ3JWSEhlOVdENA?oc=5"
+    }
+  ]
+}

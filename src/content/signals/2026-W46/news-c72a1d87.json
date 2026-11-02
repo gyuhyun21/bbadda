@@ -1,0 +1,23 @@
+{
+  "id": "news-c72a1d87",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE44VUZvejRRQ1l0dHI5Q0pIeXA1RjVtek05X09qRmx5bUJObXdsM3NjM3hGYWdjYkxEY1FzQXFTNUQzRUZEUV92MXhrbFBMVERPWExTWWgtWnN6ZVlQZUp2Q09kQlZackNVX2t6OUk3WdIBb0FVX3lxTE44VUZvejRRQ1l0dHI5Q0pIeXA1RjVtek05X09qRmx5bUJObXdsM3NjM3hGYWdjYkxEY1FzQXFTNUQzRUZEUV92MXhrbFBMVERPWExTWWgtWnN6ZVlQZUp2Q09kQlZackNVX2t6OUk3WQ?oc=5",
+  "title": "“김도영 메츠-양키스-다저스-보스턴-에인절스 딱이야” 韓슈퍼스타 관심 폭발! 벌써 ML이 주목한다 “미국 와도 20~25홈런 칠 것”",
+  "published_at": "2026-11-02T01:11:00.000Z",
+  "collected_at": "2026-11-02T13:40:06.157Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "youtube-57391d14",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "직관수첩",
+  "url": "https://www.youtube.com/watch?v=YNGiB_bT6WI",
+  "title": "첫 시구 성공 다음엔 더 빨리",
+  "published_at": "2026-11-02T08:23:34Z",
+  "collected_at": "2026-11-02T13:40:06.157Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1176,
+    "likes": 3,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 39,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}
