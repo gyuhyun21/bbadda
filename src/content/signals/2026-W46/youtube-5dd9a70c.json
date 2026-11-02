@@ -1,0 +1,26 @@
+{
+  "id": "youtube-5dd9a70c",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "youtube",
+  "source_name": "스포츠머그 - SPORTSMUG",
+  "url": "https://www.youtube.com/watch?v=jB5HuXAhGQQ",
+  "title": "\"좋은 신구의 대결\" 이강철 감독이 밝힌 KT의 한국시리즈 각오 #Shorts / 스포츠머그",
+  "published_at": "2026-11-02T07:15:39Z",
+  "collected_at": "2026-11-02T07:40:04.628Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 4655,
+    "likes": 34,
+    "comments": 2
+  },
+  "scores": {
+    "hot": 57,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

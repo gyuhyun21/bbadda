@@ -1,0 +1,26 @@
+{
+  "id": "youtube-c8dbcdae",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "신시아 타이거즈",
+  "url": "https://www.youtube.com/watch?v=115KTbay89A",
+  "title": "뜨거웠던 10월, 고마워 기아타이거즈!  #기아타이거즈 #야구",
+  "published_at": "2026-11-02T05:20:39Z",
+  "collected_at": "2026-11-02T07:40:04.628Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 810,
+    "likes": 22,
+    "comments": 4
+  },
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

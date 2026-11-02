@@ -1,0 +1,24 @@
+{
+  "id": "community-78c95610",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 대한기자신문 l 大韩记者新闻",
+  "url": "https://blog.naver.com/kjnnews/224461835806",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/J9Y55kbtRMH",
+  "title": "[대한기자신문] 스포츠루다, 2026 고교야구 우수선수 선정식 개최",
+  "published_at": "2026-11-02T08:12:00.000+09:00",
+  "collected_at": "2026-11-02T07:40:04.628Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

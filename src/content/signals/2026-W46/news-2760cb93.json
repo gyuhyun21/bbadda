@@ -1,0 +1,23 @@
+{
+  "id": "news-2760cb93",
+  "issue": "2026-W46",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "https://www.asportstv.kr/",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4tU0MtM09RV0IwSkhNRGx3ajJfVDZJREVvOWYyVVpzM3VGTmxlVGZuTEQ2QkNLUHRHaTE2SzRHWEQyQ3BnSkY4R2s3UDF3dEJTaVVvQW9zMmM0YTBOMUc5djhnTWFVRFdK?oc=5",
+  "title": "[A-포커스] 2024년 악몽 설욕했다! 삼성, KIA 꺾고 12년 만의 우승 정조준",
+  "published_at": "2026-11-02T00:52:41.000Z",
+  "collected_at": "2026-11-02T07:40:04.628Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

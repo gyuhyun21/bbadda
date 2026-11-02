@@ -1,0 +1,30 @@
+{
+  "id": "community-c2bd9bfa",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "다음카페 이종격투기",
+  "url": "https://cafe.daum.net/ssaumjil/EZLX/436562",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/9kjtmQJYOhs",
+  "title": "한국시리즈 1차전 : 선발투수",
+  "published_at": "2026-11-02T16:04:47.000+09:00",
+  "collected_at": "2026-11-02T07:40:04.628Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 84,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "중부일보",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE11czZTdWFKSklIdjNHbEJpN0NnVjRZVld3cUQ2RGI5OUlvdDdQQWg0VEQzT3NpdmVsaHRrQzBkcm1vSmV6aW1tZlNockt0bURFR3MwTjZOckF1TnhwQ0RIamtkWXJ1cFhjY0pseEFtOA?oc=5"
+    }
+  ]
+}

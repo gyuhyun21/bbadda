@@ -1,0 +1,23 @@
+{
+  "id": "community-8cf08431",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "엠엘비파크",
+  "url": "https://mlbpark.donga.com/mp/b.php?id=202611010119818182&p=91&b=kbotown&m=view&select=spf&query=KIA&site=donga.com",
+  "title": "기적을 그린 KIA 타이거즈, 당신들의 가을은 충분히 아름다웠습니다",
+  "published_at": "2026-11-01T07:40:04.628Z",
+  "collected_at": "2026-11-02T07:40:04.628Z",
+  "summary_ko": "",
+  "excerpt": "... 시즌 내내 기적을 써 내려간 KIA 타이거즈 선수단과 코칭스태프, 정말 고생 많으셨습니다…",
+  "metrics": {},
+  "scores": {
+    "hot": 59,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

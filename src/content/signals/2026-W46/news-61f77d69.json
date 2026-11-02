@@ -1,0 +1,25 @@
+{
+  "id": "news-61f77d69",
+  "issue": "2026-W46",
+  "module": "rivalry",
+  "team": "hanwha",
+  "teams": [
+    "hanwha",
+    "nc",
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "연합뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9WSUxtTllsc2UwRnN4UlNEcmtNYnExRk5qYmxSRHpsengwOHVsWEpITXNvOGtmX25pWWxqZ3NBUkxYTFcwdUY5d2tVbnFKdXBpOGhlNzhNQTVuNF9JUDV1ddIBYEFVX3lxTE9WSUxtTllsc2UwRnN4UlNEcmtNYnExRk5qYmxSRHpsengwOHVsWEpITXNvOGtmX25pWWxqZ3NBUkxYTFcwdUY5d2tVbnFKdXBpOGhlNzhNQTVuNF9JUDV1dQ?oc=5",
+  "title": "MLB닷컴 \"노시환, 빅리그서 통할 장타력\"…수비는 보완 과제",
+  "published_at": "2026-11-02T01:55:32.000Z",
+  "collected_at": "2026-11-02T07:40:04.628Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 90,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

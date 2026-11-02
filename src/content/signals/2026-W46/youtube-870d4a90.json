@@ -1,0 +1,27 @@
+{
+  "id": "youtube-870d4a90",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "이글스 인사이드",
+  "url": "https://www.youtube.com/watch?v=8p349OZ2108",
+  "title": "지성준 끝내기 쓰리런",
+  "published_at": "2026-11-02T01:36:49Z",
+  "collected_at": "2026-11-02T07:40:04.628Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 2190,
+    "likes": 15,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 52,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

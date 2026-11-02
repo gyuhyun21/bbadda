@@ -1,0 +1,22 @@
+{
+  "id": "news-ce28b868",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "news",
+  "source_name": "일간스포츠",
+  "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0tTFlKN1lyRnBNenJJR3IweXBDRVByRms1TmY5M3NiYk1HMDlVU0VPTWFTWEN4NGl4YXZuT2dDYnBDc3BqVmhuWVRDZWVGbTVZdTFUNFJkRFNNN0k?oc=5",
+  "title": "안우진·장재영·하현승 참가...키움, 5일부터 마무리 캠프 돌입",
+  "published_at": "2026-11-02T06:12:00.000Z",
+  "collected_at": "2026-11-02T07:40:04.628Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

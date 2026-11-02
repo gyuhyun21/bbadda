@@ -1,0 +1,24 @@
+{
+  "id": "community-2ee47b0e",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 별의 꺄비",
+  "url": "https://blog.naver.com/77rb2/224461839194",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/ET7xSeDdarS",
+  "title": "2026 마산 가고파 국화축제 개막식 일정 창원여행 볼거리 정리",
+  "published_at": "2026-11-02T08:31:00.000+09:00",
+  "collected_at": "2026-11-02T07:40:04.628Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

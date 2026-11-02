@@ -1,0 +1,23 @@
+{
+  "id": "news-48d3e17d",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠한국",
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5xYWhKTGNOeHhweU5XY0pLZDdMVlVYdVBUcFhKaV9CVUt0Y0VDckR6bVQ3SkVKOFI2Tl9CNVplc1l0MHgwNGo2VGJHUGQ4ZGliWjZZbDdBdHRpZG5wNlpFYVdJMTNpZDVrMzZueFMtbFnSAXRBVV95cUxOM21QWnFkVGJtamFuc0hFNTZFS0dCVE5OSGxHX0lSNUk2NWlVWXd4eDRyLURYdjZiZllPa3dFeDEwMGdpNWhuQ3EySG9lMmxnZ19IR1VLYWZ3ekF3c3EwcWNoVzJLaGdrREF2VERVVDVJLVN6Qw?oc=5",
+  "title": "'대니엘vs최원태'…KS 1차전 선발투수 발표[KS 미디어데이]",
+  "published_at": "2026-11-02T05:21:19.000Z",
+  "collected_at": "2026-11-02T07:40:04.628Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -206,7 +206,13 @@ rounds:
     to_win: 4
     teams: [{ winner_of: po }, kt]
     games:
-      - { no: 1, date: 2026-11-03, venue: 수원 }
+      - no: 1
+        date: 2026-11-03
+        venue: 수원
+        starters: { kt: 대니엘, samsung: 최원태 } # 예고 선발(조선일보 '마지막까지 감췄던 1차전 선발, KT 대니엘vs삼성 최원태', 2026-11-02 미디어데이)
+        sources:
+          - "https://news.google.com/rss/articles/CBMigwFBVV95cUxNLUdjZnY1LUVBU1RnVGNVVHFxRVJMZGI2djYwTWpvSHRGUEFlTFNoQ1hsaHJEYUVCMnBJSkxlNGxJVm9kakthRllDZ090dXFybmprSVFyZF9lWHFmdmMyVllvSGY4UnJvMHZRR3VFejFncUJuTnpncVJ0clBaNTlUZ2ZOOA?oc=5" # 1차전 선발 대니엘 vs 최원태(조선일보)
+          - "https://news.google.com/rss/articles/CBMicEFVX3lxTE5xYWhKTGNOeHhweU5XY0pLZDdMVlVYdVBUcFhKaV9CVUt0Y0VDckR6bVQ3SkVKOFI2Tl9CNVplc1l0MHgwNGo2VGJHUGQ4ZGliWjZZbDdBdHRpZG5wNlpFYVdJMTNpZDVrMzZueFMtbFnSAXRBVV95cUxOM21QWnFkVGJtamFuc0hFNTZFS0dCVE5OSGxHX0lSNUk2NWlVWXd4eDRyLURYdjZiZllPa3dFeDEwMGdpNWhuQ3EySG9lMmxnZ19IR1VLYWZ3ekF3c3EwcWNoVzJLaGdrREF2VERVVDVJLVN6Qw?oc=5" # 1차전 선발 발표(스포츠한국)
       - { no: 2, date: 2026-11-04, venue: 수원 }
       - { no: 3, date: 2026-11-06, venue: { home_of: po } }
       - { no: 4, date: 2026-11-07, venue: { home_of: po } }

@@ -1,0 +1,29 @@
+{
+  "id": "news-8d9c2291",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스타뉴스",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0xaERLVjVyLXpybTB4LXZ5cnlfQVU3bXgtTFdwNUhQTjRnODIzbFdXdWhYLTczOEV4WWdSTlpPQTljSVdWWk80RnFZQ1FfTDRQb1JGN0NkZDZFRlc3TEw2ck96NW9iTU84RHpadUVCTk04WEpZOGc?oc=5",
+  "title": "\"노시환은 NYY-STL-SEA-LAA가 딱이야\" MLB, 벌써 김도영까지 콕 찍었다 \"美 진출해도 20~25홈런 가능\"",
+  "published_at": "2026-11-01T23:32:47.000Z",
+  "collected_at": "2026-11-02T07:40:04.628Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 73,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBObHJBaHpmZFFEMC1adklqWnZFT1d0TXBoV19qRjVheXI5bEtGNDdpM0owS0ZKMlNlNWtjRUFrVzNOeGZEOE83ZTdmV09OUTdPUnVDVDdqWm9feGpTTUQyWlNkNGFFT1NUSmk5VnNJTdIBb0FVX3lxTFBObHJBaHpmZFFEMC1adklqWnZFT1d0TXBoV19qRjVheXI5bEtGNDdpM0owS0ZKMlNlNWtjRUFrVzNOeGZEOE83ZTdmV09OUTdPUnVDVDdqWm9feGpTTUQyWlNkNGFFT1NUSmk5VnNJTQ?oc=5"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-dcc0e8f9",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "조선일보",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOM3RVa013dDIxOF9iblBwLWxFb0pHNE5oVmN6RGkyaHRhcVlEU2szWEZlQmRrQ0I0RHk5Tk9TaXU4UUxJd0EtMVJJZlI1LXFQQ1pzM1ZXcXNQbGkyekpHRzNQRFctbjRVVEhrQ2cwSGYxQWFrS3BOMHdPckVJRmUycFBmVQ?oc=5",
+  "title": "2년 반짝한 선수가 200억 받고 갔다...'충격 계약' 307억 사나이, 미국 못 갈 이유 없다",
+  "published_at": "2026-11-01T16:17:00.000Z",
+  "collected_at": "2026-11-02T07:40:04.628Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 71,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

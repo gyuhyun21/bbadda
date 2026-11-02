@@ -1,0 +1,26 @@
+{
+  "id": "youtube-db301121",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "youtube",
+  "source_name": "꽃챠밍",
+  "url": "https://www.youtube.com/watch?v=nIIMGh17cQw",
+  "title": "2026시즌 롯데자이언츠 야구 직관경기 부부 거울샷 모음집 #shorts #커플",
+  "published_at": "2026-11-02T03:24:12Z",
+  "collected_at": "2026-11-02T07:40:04.628Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 982,
+    "likes": 5,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 46,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

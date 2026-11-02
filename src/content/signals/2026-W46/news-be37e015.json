@@ -1,0 +1,22 @@
+{
+  "id": "news-be37e015",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "콜뉴스24",
+  "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9YZ2xkVGlCUEpCNEdhVXdnUlRnaU1oZnJoRmtxTzlVdDBsSnZib0FyVGJVV2RGT3ZRaGV4VFAxd29SZ1NNcjFGNWlSdlRNSmM3VmVwUnBXX21XVzRkX0tTSXFoZlJTLWxvXzc2UA?oc=5",
+  "title": "빗속 끝까지 외친 ‘KIA’…한국시리즈 문턱서 멈춰",
+  "published_at": "2026-11-01T21:54:28.000Z",
+  "collected_at": "2026-11-02T07:40:04.628Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 73,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

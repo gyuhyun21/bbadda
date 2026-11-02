@@ -1,0 +1,23 @@
+{
+  "id": "community-312e6330",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 Heroes Museum",
+  "url": "https://blog.naver.com/seoul-heroes/224462099319",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/9J60NJdGSf4",
+  "title": "[스마트톡/거치대 14] 키움히어로즈 K 세리머니 그립톡",
+  "published_at": "2026-11-02T12:22:00.000+09:00",
+  "collected_at": "2026-11-02T07:40:04.628Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

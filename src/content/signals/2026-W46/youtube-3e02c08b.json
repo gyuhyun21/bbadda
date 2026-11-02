@@ -1,0 +1,26 @@
+{
+  "id": "youtube-3e02c08b",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "source_name": "한화에 묻어다오",
+  "url": "https://www.youtube.com/watch?v=yWkEig-eZeg",
+  "title": "나 왜 맞은거야 #페라자 #김태군 #한화이글스",
+  "published_at": "2026-11-02T07:00:02Z",
+  "collected_at": "2026-11-02T07:40:04.628Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 826,
+    "likes": 20,
+    "comments": 2
+  },
+  "scores": {
+    "hot": 62,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

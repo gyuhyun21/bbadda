@@ -1,0 +1,23 @@
+{
+  "id": "news-9f4015a0",
+  "issue": "2026-W46",
+  "module": "rivalry",
+  "team": "kt",
+  "teams": [
+    "kt",
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "한겨레",
+  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBvdHE4WUY3clg5VGJIWF9zNWF6ODlMWUVHQ2xZbVhFU2t0dVdlZlpvX1BEUkhuZ0tLS0FUSjBDVUhFU1JaM1pXcm5JOG1BcjUwbTU1YU4zeGFkVzZfWHg4SHFoZlVuVkk?oc=5",
+  "title": "KT는 기다렸고 삼성은 달려왔다…한국시리즈서 첫 맞대결",
+  "published_at": "2026-11-02T07:06:00.000Z",
+  "collected_at": "2026-11-02T07:40:04.628Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 84,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

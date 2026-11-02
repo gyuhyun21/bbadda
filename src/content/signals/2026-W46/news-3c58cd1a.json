@@ -1,0 +1,29 @@
+{
+  "id": "news-3c58cd1a",
+  "issue": "2026-W46",
+  "module": "rivalry",
+  "team": "kt",
+  "teams": [
+    "kt",
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "OSEN",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1pWFFiVWpPU2p0b3Q0b2s3UElYWUV5LVowdlQ4NnNzX1ZnMHVKR2phOVF0WmhCTm9mOXE4YzRseEpBX2psdVFRdDZsc0haYVVCYVRwWg?oc=5",
+  "title": "[사진]KT-삼성, '한국시리즈 선전 다짐하며'",
+  "published_at": "2026-11-02T06:06:00.000Z",
+  "collected_at": "2026-11-02T07:40:04.628Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 80
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTHNxckxPNUExNW1qdHNjMllDQlRJelRFdXAxUHMzX1pqVWpwT0ZCMmRvSVNUTHZpRTBPUzQ3YzBCeTNLZ1o3N1htRUR4clJ3X3NZQ2pHUTJGOW40NlR5U2NiWU53OG4tbjgwOGJEc1F6MmsxLUp1cHBtVTFtMmtOeUFlaG83MEUy0gGcAUFVX3lxTE9ycHpvZXk3Tm5fTlRWYXcwOGJNc01IUUFydFo4LVRCbzhBcHgzSXFOV2Rfdkt6UHk3VTJTR2VaNHAyZHZhNHFSNGRaREdUeDlPWGFJeUg2ZG9xR0szcWtteGJrU24xcnJEWDhVODBfZ2YyNVRVeGxlZTA5QjVURFlqTG96WnUtUTV3MUdLNER5elg0NVJGSG1KYUNMNw?oc=5"
+    }
+  ]
+}

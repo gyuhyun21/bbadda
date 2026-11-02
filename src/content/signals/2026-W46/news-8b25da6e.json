@@ -1,0 +1,23 @@
+{
+  "id": "news-8b25da6e",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "한스경제",
+  "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1VZkMtV2RQdE1aT2d0ZElvdWp5ck8zNWp0MFl1WG9WcFdaVm9wc25pYmVGWDd5dW9GcC11MFVDRTE2dTRTVzZkd0RhUFdRd3FKZWdGMzNkMVRVajQ0dWo5MWtlVXR1SV95SVVVVtIBb0FVX3lxTE4tUmtMcVRwMHFkTE9ZWS0wWU5zX0lYRXM5QU9uS1ZXRFRmdG9lSndJeEtRUVdCeU1OTHdXb3BmS185U1pqdkNLNGtycmE4N3NBZFFxZ3NkSUNUYktYOWtKQVl6MXNCV0R5MXZxWDFhcw?oc=5",
+  "title": "'레전드' 김태균·오승환, 후배 위해 나섰다... 야구 대표팀 훈련 지도",
+  "published_at": "2026-11-02T05:12:49.000Z",
+  "collected_at": "2026-11-02T07:40:04.628Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

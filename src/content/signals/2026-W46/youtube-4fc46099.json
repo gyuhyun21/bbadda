@@ -1,0 +1,26 @@
+{
+  "id": "youtube-4fc46099",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "k 스포츠 허브",
+  "url": "https://www.youtube.com/watch?v=SytPX2f3dDk",
+  "title": "기아 타이거즈, 8위 예상 뒤집고…이범호 감독의 마지막 한마디",
+  "published_at": "2026-11-02T04:43:08Z",
+  "collected_at": "2026-11-02T07:40:04.628Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1218,
+    "likes": 53,
+    "comments": 2
+  },
+  "scores": {
+    "hot": 79,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "news-e48b09a4",
+  "issue": "2026-W46",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "제민일보",
+  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE12M1Z4WXluajUtV0Q4SGJCUnp5a1FVY010NDAzVlE5RG9mTGhpblFLTS1tM0lCSElHLTNYdC1MeHJwbVp0dF9ESU4tcmlJVjNDcEVrQTQwQ1A4WVI3Y1BsbDVDUEM4dlk?oc=5",
+  "title": "데니얼·최원태, 한국시리즈 첫판 선발 격돌…미디어데이서 공개된 마운드 승부수",
+  "published_at": "2026-11-02T05:23:47.000Z",
+  "collected_at": "2026-11-02T07:40:04.628Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 83,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

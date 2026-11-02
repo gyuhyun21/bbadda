@@ -1,0 +1,27 @@
+{
+  "id": "news-4db92507",
+  "issue": "2026-W46",
+  "module": "league",
+  "teams": [],
+  "source_type": "news",
+  "announcement": true,
+  "source_name": "마이데일리",
+  "url": "https://mydaily.co.kr/page/view/2026110213013376844",
+  "title": "[공식발표] '미쳤다' 한국야구 레전드 뭉쳤다! 김태균+오승환, 韓 대표팀 인스트럭터 전격 합류→후배들에게 노하우 전수한다 [MD대전]",
+  "published_at": "2026-11-02T04:21:00.000Z",
+  "collected_at": "2026-11-02T07:40:04.628Z",
+  "summary_ko": "마이데일리에 따르면 김태균과 오승환이 한국 야구대표팀 인스트럭터로 합류한다. 후배들에게 노하우를 전수한다.",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 30
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "미디어펜",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5TcGVPTkpkTWtsc1MwQ2FWcTFwOXJrYVNBVE94ODA3R3JJRkpMaTJKWUhDOEFleXdNWHZCTDZ3bVpROU13UGZQNlpVR2RiVVFGd3lDalk0NEXSAVhBVV95cUxOU3BlT05KZE1rbHNTMENhVnExcDlya2FTQVRPeDgwN0dySUZKTGkySllIQzhBZXl3TVh2Qkw2d21aUTlNd1BmUDZaVUdkYlVRRnd5Q2pZNDRF?oc=5"
+    }
+  ],
+  "brief_ko": "김태균·오승환, 대표팀 합류"
+}

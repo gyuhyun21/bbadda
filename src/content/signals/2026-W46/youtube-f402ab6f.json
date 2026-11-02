@@ -1,0 +1,26 @@
+{
+  "id": "youtube-f402ab6f",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "source_name": "린지",
+  "url": "https://www.youtube.com/watch?v=zdCWKb0ShMY",
+  "title": "2026시즌 한화 이글스 정우주 삼진모음 (54K)",
+  "published_at": "2026-11-02T03:00:14Z",
+  "collected_at": "2026-11-02T07:40:04.628Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 52,
+    "likes": 1,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 39,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

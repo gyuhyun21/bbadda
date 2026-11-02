@@ -1,0 +1,36 @@
+{
+  "id": "news-bcd5ef03",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBNSjJfbXhXV2F6NEdxU0tQelA0NVpFbVpFZnB4NlF5Smc0YnZVZ1ZBRTlSdFkwZUl4M1I5QmRYRm55d3czR1VpdTNvem9ORWZlRThtYkZaRWV1Uk1NMzUtbzlYTUV0RllrQl9fblZma9IBb0FVX3lxTFBNSjJfbXhXV2F6NEdxU0tQelA0NVpFbVpFZnB4NlF5Smc0YnZVZ1ZBRTlSdFkwZUl4M1I5QmRYRm55d3czR1VpdTNvem9ORWZlRThtYkZaRWV1Uk1NMzUtbzlYTUV0RllrQl9fblZmaw?oc=5",
+  "title": "'석교초-한밭중-북일고 우승' 제38회 한화기차지 초중고 야구대회 성료",
+  "published_at": "2026-11-02T03:43:00.000Z",
+  "collected_at": "2026-11-02T07:40:04.628Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 91,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAtR1VUN2gtWFJaRzd3TWEwSmo3WmJvdmg4bnItYzNYNU1pNUVralJKUjhhd0lkWWhsMHl4ZlVWdjZNM29tU3BsTGhYU0RjN3EyaDFR?oc=5"
+    },
+    {
+      "source_name": "충남일보",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5JdjJoY0V1SkJIY1hqbDBIb0dXcjdKaW4tQU9mUG9WN2hHMHFZRjdvLVBUbzdYb2ZJQlctUlp4eFVTdk9zc0xpOXkwMk5PZ2RRVGlrR05qcTVWaHdEQk5lZURiQkI1V0dqZTdMd2FRc3cwUQ?oc=5"
+    },
+    {
+      "source_name": "더게이트",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB5TUROdGVrOXJjUGFLeUlscTRleTlnUFlQM0dOVmFFZDJNTlh2RzgtVlQwSXVaVG9LVFY0VHpZbWlyTFFUUEJXZmRSaVF4X21LMUxwS3dSTmFpNzZNYWdTaTQ1aVV6eVlM0gFsQVVfeXFMUEZiZ2s0NjZ6THQ4QnlrWGVyRnFQMzBjbXdTQzU1bVBoaEVLZUF3VjYtcnQzLU9rNjBfbHk0UFpYWkpCcy10cV9qUmRuMGRPMzJlWnBnNEp5Q2h6X3BrUElYcVZFZ1A1cnVWZ212?oc=5"
+    }
+  ]
+}

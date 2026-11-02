@@ -1,0 +1,30 @@
+{
+  "id": "community-f1608e88",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 요즘 뭐지",
+  "url": "https://blog.naver.com/yojeum_-/224462257075",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/14oRnZZYm1",
+  "title": "노시환, MLB 명문 4개 구단 후보로 거론…양키스·다저스도 관심 가질 만한 이유",
+  "published_at": "2026-11-02T15:05:00.000+09:00",
+  "collected_at": "2026-11-02T07:40:04.628Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "스포츠경향",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8tNDRtTEZBWWk5OTJmRUZEaWFSenBsS1FSdEFKTnRKaWRTT1d6bXlXMVEyM3BiT3BQUE00R21sQjNXdC1QOU00OU5fMkM1a0Z1Q3NWaEhlZHZmQno2Z0VTYjQ3QdIBY0FVX3lxTE8tNDRtTEZBWWk5OTJmRUZEaWFSenBsS1FSdEFKTnRKaWRTT1d6bXlXMVEyM3BiT3BQUE00R21sQjNXdC1QOU00OU5fMkM1a0Z1Q3NWaEhlZHZmQno2Z0VTYjQ3QQ?oc=5"
+    }
+  ]
+}

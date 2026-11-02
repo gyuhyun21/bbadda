@@ -1,0 +1,23 @@
+{
+  "id": "news-a2ad6c0b",
+  "issue": "2026-W46",
+  "module": "rivalry",
+  "team": "kt",
+  "teams": [
+    "kt",
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "경기신문",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBUeWsweXNRU1ZVN0pJODNLSTJzSnQ3RDR6U2QxQmZpOElaOW84QUsxY2I5UlJYMjVyOVNaanJjRHVWTjlNdEI3NzNFYzRWMVlGbDFJbWExVlhZazR0SUpmYUpB?oc=5",
+  "title": "[프로야구 전망] ‘왕좌를 향한 7전 4승’ KT 위즈, 삼성 잡고 5년 만의 정상 탈환 도전",
+  "published_at": "2026-11-02T06:32:14.000Z",
+  "collected_at": "2026-11-02T07:40:04.628Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

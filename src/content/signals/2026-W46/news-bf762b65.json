@@ -1,0 +1,24 @@
+{
+  "id": "news-bf762b65",
+  "issue": "2026-W46",
+  "module": "rivalry",
+  "team": "hanwha",
+  "teams": [
+    "hanwha",
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "OhmyNews",
+  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4xYzJJUVNQc1gwUHhQWnZrM2pYSk9KRVB3dXhrcTJiWE1ZUUhNekFHcFpOUy1UbW9JeF9mcUtSMWN2Y085QWtqNGhKUjltWmJqcGkxTk9rSnVoc1NnNUkwOTNOcFdVRXNIclhna3BWeU9rTV9E?oc=5",
+  "title": "\"타격은 괜찮은데\"... '빅리그 도전' 노시환, 현지 반응은?",
+  "published_at": "2026-11-02T03:54:00.000Z",
+  "collected_at": "2026-11-02T07:40:04.628Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 83,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

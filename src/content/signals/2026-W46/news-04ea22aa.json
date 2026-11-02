@@ -1,0 +1,23 @@
+{
+  "id": "news-04ea22aa",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "마이데일리",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5BcGpvNTdxRmpVTDBPVWRMSG9GOVlmNE1NcHZLRHJZTElpWmJSbzhIY1B6R2ZNbmFxNV90MFJkN0pPLUtEcUptR3ZLQ19GRnlUaXlFSHluZXBYUWgwTkk5Qw?oc=5",
+  "title": "퉁버지 또 당신입니까, '타율 0.176→0.750' 163cm 작은 거인 어떻게 부활했나…\"(최)형우 형이 지고 후회하지 말라고\" [MD대구]",
+  "published_at": "2026-11-02T02:11:00.000Z",
+  "collected_at": "2026-11-02T07:40:04.628Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

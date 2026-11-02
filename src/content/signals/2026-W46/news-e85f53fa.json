@@ -1,0 +1,30 @@
+{
+  "id": "news-e85f53fa",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "연합뉴스",
+  "url": "https://www.yna.co.kr/amp/view/AKR20261102051800007",
+  "title": "김하성·노시환, MLB닷컴 선정 '2027 FA 톱30'서 제외",
+  "published_at": "2026-11-02T01:07:18.000Z",
+  "collected_at": "2026-11-02T07:40:04.628Z",
+  "summary_ko": "연합뉴스에 따르면 MLB닷컴이 뽑은 2027 FA 톱30에 김하성과 노시환은 들지 못했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "SBS 뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE15cjRWV3B1YWxmOXo5aTNEM0lzY2pfMDZ2WlFGYlBiUzdVX2ktSjZCaElPdy0xcFp6UjBuX2ZhRDVEQXdKS29fWlVyU0RMdVZzZzhFenBrbUphVVVlSFlhZGRGT3pXZ3EwS3c?oc=5"
+    }
+  ],
+  "brief_ko": "노시환, MLB닷컴 FA 톱30 제외"
+}

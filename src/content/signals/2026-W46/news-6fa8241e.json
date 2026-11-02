@@ -1,0 +1,23 @@
+{
+  "id": "news-6fa8241e",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "위키트리",
+  "url": "https://www.wikitree.co.kr/articles/1171095",
+  "title": "한국시리즈 시작인데…'원정 ERA 0.00' 삼성 마무리 김재윤 등판 여부는?",
+  "published_at": "2026-11-02T06:02:00.000Z",
+  "collected_at": "2026-11-02T07:40:04.628Z",
+  "summary_ko": "위키트리에 따르면 삼성 마무리 김재윤은 원정 평균자책 0.00이다. 한국시리즈 등판 여부가 관심이다.",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "김재윤, 원정 ERA 0.00"
+}

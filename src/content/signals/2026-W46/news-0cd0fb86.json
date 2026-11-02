@@ -1,0 +1,23 @@
+{
+  "id": "news-0cd0fb86",
+  "issue": "2026-W46",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "JTBC",
+  "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE90WVcxd3IwRm0xdzRxTXB1cHYyMHplb3VwSnZ2S3ZoT1ZtamVRRzh1TDFST0ZoM2IxY1kzU1kxZ0R1ZlNTNVBybDY5Yy1Fd0pLQVE?oc=5",
+  "title": "삼성, KIA 잡고 2년 만에 한국시리즈행…설욕 기회 잡았다",
+  "published_at": "2026-11-02T03:47:30.000Z",
+  "collected_at": "2026-11-02T07:40:04.628Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 80
+  },
+  "sentiment": "neutral"
+}
