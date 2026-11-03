@@ -1,0 +1,48 @@
+{
+  "music": "bgm-breaking",
+  "segments": [
+    {
+      "src": "clip1.mp4",
+      "from": 0,
+      "to": 5,
+      "credit": "KBO",
+      "kick": "KS 1차전 · 수원",
+      "head": "8-0 리드가<br><b>1점</b> 차가 됐다",
+      "note": "출처: data/postseason.yaml(KS 1차전 KT 8-7 삼성 — 엑스포츠뉴스·스포츠조선 '8-0→8-7')"
+    },
+    {
+      "src": "clip2.mp4",
+      "from": 0,
+      "to": 5,
+      "credit": "KBS 뉴스",
+      "kick": "안현민·한승택·김현수",
+      "head": "KT 홈런 <b>3방</b><br>8-0까지 달아나",
+      "note": "출처: data/postseason.yaml(KT 홈런 안현민 투런·한승택 솔로·김현수 투런 — 스타뉴스·머니투데이)"
+    },
+    {
+      "src": "clip3.mp4",
+      "from": 0,
+      "to": 5,
+      "credit": "KBO",
+      "kick": "삼성 구자욱 투런",
+      "head": "삼성 7점 추격<br>끝내 <b>8-7</b>",
+      "note": "출처: data/postseason.yaml(구자욱 투런 — 스타뉴스) · 스포츠조선 '0-8→8-7'"
+    },
+    {
+      "src": "clip4.mp4",
+      "from": 0,
+      "to": 6,
+      "credit": "KBO",
+      "kick": "KT 마무리 박영현",
+      "head": "<b>5아웃</b> 세이브로<br>1점 지켰다",
+      "note": "출처: data/postseason.yaml(박영현 5아웃 세이브 — 엑스포츠뉴스·스타뉴스)"
+    }
+  ],
+  "end": {
+    "kick": "KS 2차전 · 11월 4일 수원",
+    "head": "우승 확률 73.8%<br>KT가 이어갈까",
+    "a": "KT",
+    "b": "삼성",
+    "cta": "KT·삼성팬 친구한테 보내 줘"
+  }
+}
