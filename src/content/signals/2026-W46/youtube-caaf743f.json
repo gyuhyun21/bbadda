@@ -1,0 +1,26 @@
+{
+  "id": "youtube-caaf743f",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "source_name": "KBO 역대급랭킹",
+  "url": "https://www.youtube.com/watch?v=GT6HPQxctoA",
+  "title": "[KBO 레전드 그날] 비거리 145m·PO 역전포… 한화 거포 노시환 홈런 TOP4 ⚾ #shorts",
+  "published_at": "2026-11-03T14:39:05Z",
+  "collected_at": "2026-11-03T21:39:05.091Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1151,
+    "likes": 3,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 37,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-5d832bc4",
+  "issue": "2026-W46",
+  "module": "rivalry",
+  "team": "kt",
+  "teams": [
+    "kt",
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "뉴시스",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9xcDBIQmRsaUVQdk1IZXdZLTcxWmpzNUFyZF9uang1S2N3VjhELTNmMnlxLVk2YTZQdm9JcERpdU5nbC1acFhpa3RnWERCMm9uMHRYcnZfNjJ0cGY0QjlsQw?oc=5",
+  "title": "'KT 1선발' 대니엘, 기세 오른 삼성 상대로 호투…6이닝 3실점[KS]",
+  "published_at": "2026-11-03T11:59:08.000Z",
+  "collected_at": "2026-11-03T21:39:05.091Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 73,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

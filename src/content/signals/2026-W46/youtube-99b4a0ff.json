@@ -1,0 +1,28 @@
+{
+  "id": "youtube-99b4a0ff",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "samsung",
+    "kt"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "kt wiz - 위즈TV",
+  "url": "https://www.youtube.com/watch?v=KFeLVESES8w",
+  "title": "11월 3일 삼성 vs KT [2026 한국시리즈 1차전 H/L]",
+  "published_at": "2026-11-03T14:56:51Z",
+  "collected_at": "2026-11-03T21:39:05.091Z",
+  "summary_ko": "KT 위즈 공식 채널이 11월 3일 삼성전 KS 1차전 하이라이트를 올렸다.",
+  "metrics": {
+    "views": 7982,
+    "likes": 327,
+    "comments": 90
+  },
+  "scores": {
+    "hot": 85,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

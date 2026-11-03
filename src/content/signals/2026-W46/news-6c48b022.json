@@ -1,0 +1,24 @@
+{
+  "id": "news-6c48b022",
+  "issue": "2026-W46",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스타뉴스",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5DNkJFRXk5WmtHZzJ4SnYxQ0h4ZXdxSWIxUWRoeDN5V1B6Z0NhVkdBZWFqbEhJS1otTVFNcWxiNUxzemZyMjg0eGZJandpZ0Y5YUdmOUdqVjhoNTliX2pwRUl2MndlbVZlMTMtMUpaUmxtdHRENEE?oc=5",
+  "title": "\"TV 볼륨 끄고 봤다\" KS 명승부 속 '옥에 티'→앰프 소음 '분통'...'원정 앰프만이라도 금지해야 하나'",
+  "published_at": "2026-11-03T20:32:00.000Z",
+  "collected_at": "2026-11-03T21:39:05.091Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 84,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

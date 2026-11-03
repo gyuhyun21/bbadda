@@ -1,0 +1,26 @@
+{
+  "id": "youtube-47ba5ee8",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "광주일보",
+  "url": "https://www.youtube.com/watch?v=8-0kRKQojvI",
+  "title": "[짧은 클립] 한승택이 후배를 강하게 키우는 방법 | 박정우 난입 | 잔소리 속 숨은 진심 | 박민 | 박상준 | 기아타이거즈",
+  "published_at": "2026-11-03T13:08:18Z",
+  "collected_at": "2026-11-03T21:39:05.091Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 9723,
+    "likes": 118,
+    "comments": 4
+  },
+  "scores": {
+    "hot": 56,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

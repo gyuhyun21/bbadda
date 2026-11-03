@@ -1,0 +1,26 @@
+{
+  "id": "youtube-98cd6810",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "큽응원가",
+  "url": "https://www.youtube.com/watch?v=zzgJPrHYLso",
+  "title": "前 KIA 타이거즈 소크라테스 브리토 응원가",
+  "published_at": "2026-11-03T14:01:16Z",
+  "collected_at": "2026-11-03T21:39:05.091Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 6,
+    "likes": 1,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 50,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

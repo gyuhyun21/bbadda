@@ -1,0 +1,19 @@
+{
+  "id": "news-64fdcd59",
+  "issue": "2026-W46",
+  "module": "league",
+  "teams": [],
+  "source_type": "news",
+  "source_name": "뉴스1",
+  "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE81NElXRHF2RDFPU0hKdk5TazcwUGtCTlltRThCTmgtSWRDRkJGWVZvSFhfX0VVNVRROFRkeWNfWlZ2a25IeVk4YlJzUQ?oc=5",
+  "title": "화려한 불꽃과 함께 개막한 2026 한국시리즈",
+  "published_at": "2026-11-03T09:38:01.000Z",
+  "collected_at": "2026-11-03T21:39:05.091Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 30
+  },
+  "sentiment": "neutral"
+}

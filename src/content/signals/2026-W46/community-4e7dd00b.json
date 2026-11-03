@@ -1,0 +1,24 @@
+{
+  "id": "community-4e7dd00b",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 ⭐ 별별 스타가 다있노 ⭐",
+  "url": "https://blog.naver.com/odengm/224462845049",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/BAzljXPEV7g",
+  "title": "야구 치어리더 은퇴한다더니 대만으로? 부산대 출신 박선주의 놀라운 반전 근황",
+  "published_at": "2026-11-03T22:30:00.000+09:00",
+  "collected_at": "2026-11-03T21:39:05.091Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

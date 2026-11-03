@@ -1,0 +1,23 @@
+{
+  "id": "news-e66da3b8",
+  "issue": "2026-W46",
+  "module": "rivalry",
+  "team": "kt",
+  "teams": [
+    "kt",
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "뉴시스",
+  "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE45WG41Y0ZjTUNYVURBNDVESkp4N01DS05iSm54ckxPdkMyMXU5UHVReW11VlFSTTZBNUZEdmpxWWJaODhDN2NKR1VKZHZnNFFmUjJrakVSREtOSTIwQnlHM1I2VmJBR3JYeTZ6bWdjemdHOFg3V09tadIBeEFVX3lxTE45WG41Y0ZjTUNYVURBNDVESkp4N01DS05iSm54ckxPdkMyMXU5UHVReW11VlFSTTZBNUZEdmpxWWJaODhDN2NKR1VKZHZnNFFmUjJrakVSREtOSTIwQnlHM1I2VmJBR3JYeTZ6bWdjemdHOFg3V09taQ?oc=5",
+  "title": "KT 간판 안현민, 생애 첫 KS에 대포 폭발…삼성 최원태 상대 투런포[KS]",
+  "published_at": "2026-11-03T10:40:26.000Z",
+  "collected_at": "2026-11-03T21:39:05.091Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 80
+  },
+  "sentiment": "neutral"
+}

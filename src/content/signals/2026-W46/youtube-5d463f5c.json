@@ -1,0 +1,27 @@
+{
+  "id": "youtube-5d463f5c",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "오늘의 정보노트",
+  "url": "https://www.youtube.com/watch?v=ZjROlevFjOo",
+  "title": "2026 한국시리즈 2차전 중계 시간과 취소표 예매#2026한국시리즈 #한국시리즈2차전 #삼성라이온즈 #KT위즈 #원태인 #박영현",
+  "published_at": "2026-11-03T18:30:03Z",
+  "collected_at": "2026-11-03T21:39:05.091Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 731,
+    "likes": 4,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 38,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

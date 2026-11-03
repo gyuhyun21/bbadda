@@ -1,0 +1,22 @@
+{
+  "id": "news-7a8005d0",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스핌",
+  "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1kRVQxNkNyTnlpXzBQb1YtRm9pdFJkZi1SazlHeXpNUU1iMVc2M1A2QnBHM0RHMlJ3NFBrM2F5Z09aRHhfOUlLdXdNa09MNTU2VGRmdU9XaC1fUFpf?oc=5",
+  "title": "[KS 포커스] 8점 차에서 1점 차까지…삼성, 패배에도 얻은 5가지 수확",
+  "published_at": "2026-11-03T20:33:00.000Z",
+  "collected_at": "2026-11-03T21:39:05.091Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

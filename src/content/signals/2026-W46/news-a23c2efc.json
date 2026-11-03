@@ -1,0 +1,24 @@
+{
+  "id": "news-a23c2efc",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "SPOTV NEWS",
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBOdGEyOWJKanhxMDlQUFlaT2E2VnJReDdHd290M3dmWUJfX0daa1ljdVQ2LVlvdEh2elBWMktqZkZsWlAzVW9zU05CNE5BaGwtM1NrazRjaHd6UU1paGV4bGIwYzI3UExtaVV3UFpLQVQ?oc=5",
+  "title": "\"노시환에게 투자할 가치 있어\" 美 빅마켓 팀까지 주시, 대박 계약 가능성 커진다…타격 잠재력에 높은 평가, 美 매체 제기 유일한 관건은",
+  "published_at": "2026-11-03T16:50:00.000Z",
+  "collected_at": "2026-11-03T21:39:05.091Z",
+  "summary_ko": "SPOTV NEWS는 미국 매체가 노시환의 타격 잠재력을 높게 평가하며 빅마켓 팀이 주시한다고 전했다. 계약 가능성이 커졌다는 보도이며, 유일한 관건도 함께 언급됐다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "美 빅마켓, 노시환 주시"
+}

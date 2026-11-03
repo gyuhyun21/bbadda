@@ -1,0 +1,22 @@
+{
+  "id": "news-3c585c90",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠Q",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Kd09sSlYxUmI3cC1TTW1kcVZ6VDVZd0NpbEs3R1pCWHRoaHRQU3hOaXctTm1lMlItR2xJdURGYTFrS0Q2MnFCd3R6V3JTcVBPVmdvX3o1S0w2VUU0Um1mQzI5RGNuZ2hrMEE?oc=5",
+  "title": "\"기다려서 지쳤다\"던 KT 안현민, 1차전부터 미쳤다 [한국시리즈]",
+  "published_at": "2026-11-03T14:14:13.000Z",
+  "collected_at": "2026-11-03T21:39:05.091Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 80
+  },
+  "sentiment": "neutral"
+}

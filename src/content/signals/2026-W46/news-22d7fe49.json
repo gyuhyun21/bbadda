@@ -1,0 +1,23 @@
+{
+  "id": "news-22d7fe49",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "www.xportsnews.com",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1lVUNfcUVxNGhXT2pmVjFaMTdTdUJ4OFo2OWZ2U1dtNkxTbzZrUFNCRG56QzY5NlNMTzc2Z3NOVjhhQ0xkb0lEcElaa1ZKZm9PM0Nlcg?oc=5",
+  "title": "\"2루수 미련 조금 남아\"→\"내년 테스트 절대 NO\" 류지현 감독 단호하네!…문현빈 깜짝 도전 11월 데드라인 재확인 [미야자키 현장]",
+  "published_at": "2026-11-03T15:59:02.000Z",
+  "collected_at": "2026-11-03T21:39:05.091Z",
+  "summary_ko": "엑스포츠뉴스에 따르면 한화 류지현 감독은 미야자키에서 문현빈의 2루수 도전에 대해 내년 테스트는 없다고 밝혔다. 11월 데드라인을 다시 확인했다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

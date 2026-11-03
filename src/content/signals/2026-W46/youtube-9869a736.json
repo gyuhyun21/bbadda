@@ -1,0 +1,26 @@
+{
+  "id": "youtube-9869a736",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "youtube",
+  "source_name": "SHOW-K SPORTS BASEBALL / SHOW-K PITCHING LAB",
+  "url": "https://www.youtube.com/watch?v=3bnN-3FYkFM",
+  "title": "쇼케이 스포츠 베이스볼 (경기도 군포점) 두산베어스 김윤석선수 Step Box Throw #프로야구 #야구 #baseball #야구레슨 #투수레슨 #pitching #야구선수",
+  "published_at": "2026-11-03T15:17:01Z",
+  "collected_at": "2026-11-03T21:39:05.091Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1440,
+    "likes": 5,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 39,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

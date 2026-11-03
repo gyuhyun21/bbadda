@@ -1,0 +1,29 @@
+{
+  "id": "news-c718f8fe",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://www.sportschosun.com/baseball/2026-11-04/202611040100025630002519",
+  "title": "ML 오퍼도 거절, 역대 최고 5억이나 안겼는데...두산은 왜 초대형 신인, 마캠에 안 데려갔나",
+  "published_at": "2026-11-03T20:07:07.000Z",
+  "collected_at": "2026-11-03T21:39:05.091Z",
+  "summary_ko": "스포츠조선은 역대 최고 계약금 5억을 받은 두산 신인 박준현이 마무리캠프 명단에서 빠진 배경을 다뤘다. ML 오퍼를 거절하고 입단한 선수라는 점도 함께 짚었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 80
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVldaOTdrVW5RR1Bka3FVS3Y1bU94ZmxOeDFwMmttYlJFWjBvNkMyeWVEbldKdFZzZU5xODFIb0NJT2c4bUUtck1FcFdKQ21lcDN4N0VEQUk3aV8yNW9iRXNNZXlLNzJqQjMtZTlMOXgtbjMxN3Bvc3lLSmZSck1fRDhvaw?oc=5"
+    }
+  ],
+  "brief_ko": "신인 박준현, 마캠 제외 이유"
+}

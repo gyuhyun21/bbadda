@@ -1,0 +1,29 @@
+{
+  "id": "news-1ad74545",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스타뉴스",
+  "url": "https://www.starnewskorea.com/sports/2026/11/04/2026110321100432206",
+  "title": "'코디 폰태'는 없었다! 박진만 결단 임박 \"다음 선발 등판 쉽지 않아→양창섭·장찬희 중 하나로 갈듯\"",
+  "published_at": "2026-11-03T18:33:00.000Z",
+  "collected_at": "2026-11-03T21:39:05.091Z",
+  "summary_ko": "스타뉴스는 삼성 박진만 감독이 최원태의 다음 선발 등판이 쉽지 않다고 밝혔다고 전했다. 양창섭이나 장찬희 중 한 명이 대신 나설 것으로 봤다.",
+  "metrics": {},
+  "scores": {
+    "hot": 91,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9hOTd4akpWdkNBTzVhTk1Od2dGdHY5RVZkV0xBQ05GZklUbkJjNExybktxT3hJVXFSMmVxVEdpU2c5b2hhazRTSlJGdks2VkZ5TDNNMnhFWExiS2VlSkJmVFNDOEVxZHROU1HSAW9BVV95cUxQQ2VuSlVvU1BMYzlQeU03WE9reHdFVERsNjJPWGRGVEhUZlY4ZjdpdkJ4N3lWbC1pQzc2eVpfVWR1QjBxckhqVGQtVTFUN1lGdzZxNy1oM2l0VWliUnJ1Yy1KVkc1V0JLSnFmWFJDdEk?oc=5"
+    }
+  ]
+}

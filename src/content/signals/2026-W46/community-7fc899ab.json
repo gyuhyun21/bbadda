@@ -1,0 +1,24 @@
+{
+  "id": "community-7fc899ab",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&document_srl=10516568513",
+  "title": "LGBTQ+ 지지합니다 - 야구",
+  "published_at": "2026-11-03T19:39:05.091Z",
+  "collected_at": "2026-11-03T21:39:05.091Z",
+  "summary_ko": "",
+  "excerpt": "... LG트윈스갤러리의 LG를 치면 [1]. 2 분 전 자유 발라조빅 조회19. LG트윈스갤러리의 LG를 치면 ·…",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

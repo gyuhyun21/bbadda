@@ -1,0 +1,24 @@
+{
+  "id": "news-e7dedd51",
+  "issue": "2026-W46",
+  "module": "rivalry",
+  "team": "hanwha",
+  "teams": [
+    "hanwha",
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5HSHJSWDcxZUZTc0ZtQzB1Ul9ZdXR3di1JTFJTZ0FtdlEwbWg3UjltbkRscGlmRDBsVWdUdTg5TWtLa29ldVhOaEF0UFBGTV9KWVh3WnVKTklpYVNEYkxmbHhJajhtd1dWT3I0VGd1QdIBb0FVX3lxTE5HSHJSWDcxZUZTc0ZtQzB1Ul9ZdXR3di1JTFJTZ0FtdlEwbWg3UjltbkRscGlmRDBsVWdUdTg5TWtLa29ldVhOaEF0UFBGTV9KWVh3WnVKTklpYVNEYkxmbHhJajhtd1dWT3I0VGd1QQ?oc=5",
+  "title": "‘코디 폰태’는 어디로 갔나…'또 조기 강판' 최원태, 2이닝 5실점 대참사 \"선발 활용 쉽지 않을 것 같다\" [KS1]",
+  "published_at": "2026-11-03T16:10:00.000Z",
+  "collected_at": "2026-11-03T21:39:05.091Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

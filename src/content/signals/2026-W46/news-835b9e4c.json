@@ -1,0 +1,23 @@
+{
+  "id": "news-835b9e4c",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "마이데일리",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Od19zTmx3R1NVcG9VT3B0ZnJ0emhKRXRoeWtUZE9MV05sUkZ4LWM1ODNhYjAwMlFrTGhmUzJoMjlBUTltRDZwbS1ya1gyYU9ma294dmM4UWVkMmd1cktTNA?oc=5",
+  "title": "야마모토 태인? 크리스 태인! 26 KS 헌신의 아이콘 예약했다…\"저런 고액 연봉자도 PS는 다 바치네요\" [MD수원]",
+  "published_at": "2026-11-03T20:41:00.000Z",
+  "collected_at": "2026-11-03T21:39:05.091Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

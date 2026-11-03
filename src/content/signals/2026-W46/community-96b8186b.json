@@ -1,0 +1,23 @@
+{
+  "id": "community-96b8186b",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt",
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 세상의 모든 이야기",
+  "url": "https://blog.naver.com/promotionblog/224464192441",
+  "title": "KT 위즈, 한국시리즈 1차전 8-7 승리…8-0 리드 뒤 삼성 추격 뿌리쳤다",
+  "published_at": "2026-11-04T04:12:00.000+09:00",
+  "collected_at": "2026-11-03T21:39:05.091Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

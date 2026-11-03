@@ -1,0 +1,26 @@
+{
+  "id": "youtube-9b18fe3a",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "youtube",
+  "source_name": "쏙이슈",
+  "url": "https://www.youtube.com/watch?v=0P03b_qkES0",
+  "title": "박병호는 가을야구 9회에 동점 홈런을 두 번 치고도, 두 번 다 웃지 못했습니다 #야구 #박병호 #키움 #쏙이슈",
+  "published_at": "2026-11-03T16:30:16Z",
+  "collected_at": "2026-11-03T21:39:05.091Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1739,
+    "likes": 7,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 41,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "youtube-fb70e5c6",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kt"
+  ],
+  "source_type": "youtube",
+  "source_name": "이영우의 라이브 TV",
+  "url": "https://www.youtube.com/watch?v=Gw2DUM1JwKE",
+  "title": "[ KS 1차전 입중계 ] 26시즌 KS 우승팀은? 삼성 vs KT ,  경기전 라인업 주요소식! #한화이글스#lg트윈스#기아타이거즈#삼성라이온즈#kt위즈#kbo리그#이글스tv",
+  "published_at": "2026-11-03T17:22:39Z",
+  "collected_at": "2026-11-03T21:39:05.091Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 95475,
+    "likes": 835,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}
