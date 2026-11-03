@@ -1,0 +1,28 @@
+{
+  "id": "news-78a41226",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "news",
+  "source_name": "이데일리",
+  "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPOG9POVlWTkExMGVVTDdGTGJ2QUJiTU43YkdaMjdGQTc1VWVEY2ZlakVwWEVhMERLSmJTX2sxVkFQcHdER2N0dGxZNkY2Qm9CemZDc3dtdmVnMWp2cFVzamhSTDhSTy1lWjM0S3hGbFQ4UWp1YmhJeGc0clZvcFBFRQ?oc=5",
+  "title": "'2021년 KT 첫 통합우승 주역' 박경수, KS 1차전 시구 던진다",
+  "published_at": "2026-11-03T06:41:01.000Z",
+  "collected_at": "2026-11-03T07:38:12.807Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 84,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "뉴스핌",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5DSHpHd3lGbWVQWHBLeXBkQk1sV3B1cWlzOWg5WlRwWHpvQ19lUXZGalRlYkVGOEsyLURMX2w4UE9Ic2lvSjlhV2lmX28xN3M2LXJPd3lqdy1iQjVQ?oc=5"
+    }
+  ]
+}

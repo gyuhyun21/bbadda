@@ -1,0 +1,27 @@
+{
+  "id": "youtube-569cf989",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "더블스틸  DOUBLE STEAL",
+  "url": "https://www.youtube.com/watch?v=_FURvKJniaw",
+  "title": "감각적인 더블플레이를 보여주는 두산 박찬호 이유찬 #야구 #프로야구",
+  "published_at": "2026-11-03T04:12:36Z",
+  "collected_at": "2026-11-03T07:38:12.807Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 14293,
+    "likes": 84,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 61,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

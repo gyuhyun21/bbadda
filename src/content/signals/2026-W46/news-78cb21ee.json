@@ -1,0 +1,25 @@
+{
+  "id": "news-78cb21ee",
+  "issue": "2026-W46",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kt",
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠동아",
+  "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB4SWJUcGJWZTZTLTc1U2dRakdLdG1JcDNUVjVaOTl2V1Y3Y010VTcyUUIwNWlUUWxRWE5WLUFUTTFCMXdIMTh4TG1LSjE2UDRpQy1GTS11R19oekU2dV8zbjlGX1VRV1pzV054ZTRLQy1nUQ?oc=5",
+  "title": "“친해도 안 돼. 안 봐줘” 18년 만에 처음 KS서 맞붙는 안방마님 강민호-장성우의 지략 대결",
+  "published_at": "2026-11-03T07:31:45.000Z",
+  "collected_at": "2026-11-03T07:38:12.807Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 84,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

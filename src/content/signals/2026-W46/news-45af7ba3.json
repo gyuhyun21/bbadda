@@ -1,0 +1,23 @@
+{
+  "id": "news-45af7ba3",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠동아",
+  "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAtYnk3Z3NGUlc0YVBZQ0szbnJ5eGdDLW96Wm9HdE9ZTWJNMUVXYlZxTWdnLS1WcWVueGNSX2hmYnl5bkQ5cm9TNmEzc3RlWG53azVvV1pldlZWRDFWZWVrT3dpN3piVTBncnd3ZE95SFJqUQ?oc=5",
+  "title": "“장타력 좋지만 글쎄~” 노시환에 대한 ML 평가는? ‘FA 30위권 밖’",
+  "published_at": "2026-11-02T21:22:42.000Z",
+  "collected_at": "2026-11-03T07:38:12.807Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

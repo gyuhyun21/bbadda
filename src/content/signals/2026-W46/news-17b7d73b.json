@@ -1,0 +1,23 @@
+{
+  "id": "news-17b7d73b",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "MHN스포츠",
+  "url": "https://mhnse.com/news/articleView.html?idxno=1667063",
+  "title": "KIA 외국인 선수 3명 모두 재계약? 꼭 그런 것 만은 아니라는데…올러 협상, 장기화 될 수도",
+  "published_at": "2026-11-03T02:31:32.000Z",
+  "collected_at": "2026-11-03T07:38:12.807Z",
+  "summary_ko": "MHN스포츠에 따르면 KIA 외국인 선수 3명이 모두 재계약하는 것은 아니며 올러와의 협상은 길어질 수 있다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "외국인 3명 재계약, 올러 변수"
+}

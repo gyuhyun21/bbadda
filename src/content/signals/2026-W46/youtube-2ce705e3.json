@@ -1,0 +1,26 @@
+{
+  "id": "youtube-2ce705e3",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "ㄹㅇ뉴스",
+  "url": "https://www.youtube.com/watch?v=Dw7iQX2EVBo",
+  "title": "이제 안아픕니다! 윤영철, 다시 마운드를 향해...#윤영철 #기아타이거즈 #스마일가이 #토미존수술 #윤영철복귀 #ㄹㅇ뉴스 #쇼츠",
+  "published_at": "2026-11-03T07:00:03Z",
+  "collected_at": "2026-11-03T07:38:12.807Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 396,
+    "likes": 5,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 46,
+    "relevance": 70
+  },
+  "sentiment": "mixed"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "news-b3acebc8",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "매일신문",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE12ODhqUzNCWmdxemtsZlY5TTdzMHFPb2hlTmFTTzNQaWdCdy1Yc0kwUFVOMFE2a0dLMUtzaHY3dXBLNk1EOW9EZ09rRlFIWmFyeEQyZGp0VkFCQ1lmSGdJNndB?oc=5",
+  "title": "PO 흔들린 디아즈, 삼성 KS 우승 열쇠 쥐었다…연이은 악재 극복할까",
+  "published_at": "2026-11-03T01:31:43.000Z",
+  "collected_at": "2026-11-03T07:38:12.807Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 82,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

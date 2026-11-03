@@ -1,0 +1,27 @@
+{
+  "id": "youtube-6645e7a9",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt",
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "최군의 이슈",
+  "url": "https://www.youtube.com/watch?v=j9zfVsZnuHE",
+  "title": "🔥한국시리즈 1차전 오늘🔥 kt vs 삼성, 역대 1차전 승리팀 우승 비율 73.8% #한국시리즈 #kt #삼성라이온즈",
+  "published_at": "2026-11-03T06:00:02Z",
+  "collected_at": "2026-11-03T07:38:12.807Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 712,
+    "likes": 10,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 51,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

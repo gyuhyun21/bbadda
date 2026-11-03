@@ -1,0 +1,25 @@
+{
+  "id": "news-e9186b52",
+  "issue": "2026-W46",
+  "module": "rivalry",
+  "team": "nc",
+  "teams": [
+    "nc",
+    "kt",
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "마이데일리",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1qdEJrQkRFNmxOa05zZTcwXzd1SXNjQnUxcnRJbW9MOVg3VUpVeHIwSXYwaWNmUlF4Ty1vME8tcHR5SllEejZFQnZQcHdJb0hTdk9zZG82dFJuR1BfdDAzcw?oc=5",
+  "title": "테이핑 하도 감아 다리 안 올라갈 정도…구자욱 왜 이리 간절한가, 2년 전 악몽 털어낼까 \"첫 홈런 제가 칠게요!\"",
+  "published_at": "2026-11-03T04:31:00.000Z",
+  "collected_at": "2026-11-03T07:38:12.807Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 83,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

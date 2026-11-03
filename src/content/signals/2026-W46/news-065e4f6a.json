@@ -1,0 +1,30 @@
+{
+  "id": "news-065e4f6a",
+  "issue": "2026-W46",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "미주중앙일보",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBVV3NVd1hHN29KT2N4RERfYi1uTGRWcWN1UVAzU3pIR3JtdWNSOVAyYl91amZzWFJYUUVhdl9zYS1IS2JjWTM0bmVQeS1WUzVxMzdWY0FyTEZsNnhONzVrcElB?oc=5",
+  "title": "“형우 형과 가을 무대 함께 뛰는 자체가 영광” 12년 전 끝내기 기억하는 박승규, 이제는 함께 우승 도전 [KS]",
+  "published_at": "2026-11-02T23:40:00.000Z",
+  "collected_at": "2026-11-03T07:38:12.807Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 89,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8xdGt5MUNReHp3aXozbVd2NzJxRm53UXppNmJmamRzXzhPR2NlcXhnam44UmotRmZOUFkwdmZzNWRGaTI0dDlld2lkaWZRTEh4TjFHc2g5WUdtQ0dhekgyZ1hoeGlLeW5yYUHSAW9BVV95cUxNa2RtQkZYb3VhYm8xeWMwT1ZtcEI1a1lyd3U2NElkMkxTX3NnOEx2b2NwLTBlallSNVAtazVkcktmVHJkMjFFNFZGU1RHNmhmaS1xRnNKNzBkRmF6LUVDU1VraklaOGRtRVBLTE9ndEk?oc=5"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "youtube-0c0bae9a",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "youtube",
+  "source_name": "VSport",
+  "url": "https://www.youtube.com/watch?v=nFeYraVObqk",
+  "title": "LG 트윈스, 외국인 선수 대대적 개편? 2027 우승 도전의 승부수! '바꿔 바꿔, 다 바꿔' LG, 용투, 아쿼 다 바꾼다? 당연한 수순...톨허스트",
+  "published_at": "2026-11-03T04:49:03Z",
+  "collected_at": "2026-11-03T07:38:12.807Z",
+  "summary_ko": "VSport 채널 영상은 LG가 2027시즌을 앞두고 외국인 선수단을 대대적으로 바꿀 수 있다는 전망을 다뤘다.",
+  "metrics": {
+    "views": 24,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 19,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "brief_ko": "LG 외국인 개편 전망 영상"
+}

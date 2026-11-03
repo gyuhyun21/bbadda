@@ -1,0 +1,23 @@
+{
+  "id": "news-5b40e6cc",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "일간스포츠",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBGUzNPRktKWk9VV1NLek9kRXFZclRlLVJtdDctMS1LU0tQSlk0SDdKRnZwWFFOTVFKaWtJb3NBTldwRW1KR01MRzluNkIzdlFub3JkbkxzYzNXMkxFTmlja0F3?oc=5",
+  "title": "김도영 떠난 가을, '영현 현민·영웅 재현' KS 수놓을 또 다른 2003년생들을 주목하라 [IS 피플]",
+  "published_at": "2026-11-03T00:04:00.000Z",
+  "collected_at": "2026-11-03T07:38:12.807Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

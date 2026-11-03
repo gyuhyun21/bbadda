@@ -1,0 +1,24 @@
+{
+  "id": "community-e27247fd",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 퇴근길 스포츠 톡톡",
+  "url": "https://blog.naver.com/sw2109-/224462808753",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/FJ2VPreyKud",
+  "title": "2027 KBO FA 대어는 누구? 10개 구단 주요 자격 선수 및 등급 전망",
+  "published_at": "2026-11-03T08:47:00.000+09:00",
+  "collected_at": "2026-11-03T07:38:12.807Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "news-e50973e2",
+  "issue": "2026-W46",
+  "module": "league",
+  "teams": [],
+  "source_type": "news",
+  "source_name": "스포츠경향",
+  "url": "https://sports.khan.co.kr/article/202611031041003/amp",
+  "title": "APBC 대표팀 마운드 비상…핵심 선발·불펜 자원 줄이탈",
+  "published_at": "2026-11-03T01:41:00.000Z",
+  "collected_at": "2026-11-03T07:38:12.807Z",
+  "summary_ko": "스포츠경향은 APBC 대표팀에서 핵심 선발·불펜 자원이 잇따라 빠져 마운드에 비상이 걸렸다고 보도했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "negative",
+  "brief_ko": "APBC 대표팀 마운드 비상"
+}

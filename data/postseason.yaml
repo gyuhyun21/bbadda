@@ -210,7 +210,15 @@ rounds:
         date: 2026-11-03
         venue: 수원
         starters: { kt: 대니엘, samsung: 최원태 } # 예고 선발(조선일보 '마지막까지 감췄던 1차전 선발, KT 대니엘vs삼성 최원태', 2026-11-02 미디어데이)
+        starter_notes: { kt: "좌타자 피안타율 0.192", samsung: "이번 가을 ERA 7.74" } # 스포츠한국 '좌타자 피안타율 0.192'…대니엘, 1차전 선발로 낙점된 이유 / 머니투데이 '가을 ERA 7.74' 최원태
+        facts:
+          - "1차전 승리 팀 우승 확률 73.8%"
+        ig:
+          pre: { hook: "1차전 이기면\n우승 확률 73.8%", sub: "KT 대니엘 vs 삼성 최원태, 수원 KS 개막" }
         sources:
+          - "https://news.google.com/rss/articles/CBMiV0FVX3lxTE44eGJhRndWRi1palN3NU52THg4eURiMkxyUFVlUG1uU2x4N1J5bGlOaDJ3SHRPczFPNnMwTDZjM0ZETzc4RElQX3NwU0phSWJhbFBOazAtOA?oc=5" # 1차전 승리 팀 우승 73.8%(뉴스1)
+          - "https://news.google.com/rss/articles/CBMicEFVX3lxTE5KOTNfVkpMWThSR0FMNjVVaENMZl9DUHFOcXRQZldGRklQaVpaTHhWRTNCRVhiVFRkVS0zNElGcmVCQ1otSml4bk9TQmtYWGFCMU92UjFBcWQ0MDRhNFlXdXlSdjlQOEdIWVRMeHFwWUjSAXRBVV95cUxOeUszSGcxOEFLUDBxbjFxWWtaSmRITVJkVmt4eVY0S012Yl9mNEZDckdNMVhzUmxfRm9LVlExZDM4SnU0bHdyUnJBc1NMZ2YxbEJabzF2a1VXOFh4ZVBVREFoREZKWnF1d2VqSUU1OXVMZzh3MQ?oc=5" # 대니엘 좌타자 피안타율 0.192(스포츠한국)
+          - "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ZYnZRZUxfS2d4UFVKV3JJVGZhaXpSemdCb090MHhXMFhha0c2OVBMRVBKMzFsa09ISmZubDRQSWx3aTVCRnR6algyaDFYUTY0UFVZVGZveXFuVDNBSVhKYnRVU3BoZFViaDI2OThpSdIBb0FVX3lxTE5ZYnZRZUxfS2d4UFVKV3JJVGZhaXpSemdCb090MHhXMFhha0c2OVBMRVBKMzFsa09ISmZubDRQSWx3aTVCRnR6algyaDFYUTY0UFVZVGZveXFuVDNBSVhKYnRVU3BoZFViaDI2OThpSQ?oc=5" # 최원태 가을 ERA 7.74(머니투데이)
           - "https://news.google.com/rss/articles/CBMigwFBVV95cUxNLUdjZnY1LUVBU1RnVGNVVHFxRVJMZGI2djYwTWpvSHRGUEFlTFNoQ1hsaHJEYUVCMnBJSkxlNGxJVm9kakthRllDZ090dXFybmprSVFyZF9lWHFmdmMyVllvSGY4UnJvMHZRR3VFejFncUJuTnpncVJ0clBaNTlUZ2ZOOA?oc=5" # 1차전 선발 대니엘 vs 최원태(조선일보)
           - "https://news.google.com/rss/articles/CBMicEFVX3lxTE5xYWhKTGNOeHhweU5XY0pLZDdMVlVYdVBUcFhKaV9CVUt0Y0VDckR6bVQ3SkVKOFI2Tl9CNVplc1l0MHgwNGo2VGJHUGQ4ZGliWjZZbDdBdHRpZG5wNlpFYVdJMTNpZDVrMzZueFMtbFnSAXRBVV95cUxOM21QWnFkVGJtamFuc0hFNTZFS0dCVE5OSGxHX0lSNUk2NWlVWXd4eDRyLURYdjZiZllPa3dFeDEwMGdpNWhuQ3EySG9lMmxnZ19IR1VLYWZ3ekF3c3EwcWNoVzJLaGdrREF2VERVVDVJLVN6Qw?oc=5" # 1차전 선발 발표(스포츠한국)
       - { no: 2, date: 2026-11-04, venue: 수원 }

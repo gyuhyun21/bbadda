@@ -1,0 +1,26 @@
+{
+  "id": "youtube-5ff274d0",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "youtube",
+  "source_name": "KBOSpotlight24h",
+  "url": "https://www.youtube.com/watch?v=HOMNfg9zmw0",
+  "title": "롯데 자이언츠 초대형 승부수! TJ 프리들·알렉 토마스, 제2의 짐 아두치 탄생할까?#롯데자이언츠 #롯데자이언츠2027",
+  "published_at": "2026-11-03T05:00:04Z",
+  "collected_at": "2026-11-03T07:38:12.807Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 271,
+    "likes": 5,
+    "comments": 2
+  },
+  "scores": {
+    "hot": 54,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

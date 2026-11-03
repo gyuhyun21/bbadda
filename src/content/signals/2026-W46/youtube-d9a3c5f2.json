@@ -1,0 +1,26 @@
+{
+  "id": "youtube-d9a3c5f2",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "youtube",
+  "source_name": "KBOSpotlight24h",
+  "url": "https://www.youtube.com/watch?v=Zc1A1NXmCkA",
+  "title": "롯데 자이언츠 초대형 변화 예고! 170억 FA 실패 딛고 다시 지갑 열까?",
+  "published_at": "2026-11-03T07:00:33Z",
+  "collected_at": "2026-11-03T07:38:12.807Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 19,
+    "likes": 1,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 58,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

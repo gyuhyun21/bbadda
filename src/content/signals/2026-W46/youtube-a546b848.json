@@ -1,0 +1,27 @@
+{
+  "id": "youtube-a546b848",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "youtube",
+  "source_name": "이일구",
+  "url": "https://www.youtube.com/watch?v=9GiEfPt2mbk",
+  "title": "네 꿈을 모아 날려 | 2026 두산베어스 결산",
+  "published_at": "2026-11-02T23:36:08Z",
+  "collected_at": "2026-11-03T07:38:12.807Z",
+  "summary_ko": "이일구 채널이 2026 두산 베어스 시즌 결산 영상을 올렸다.",
+  "metrics": {
+    "views": 8,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 13,
+    "relevance": 50
+  },
+  "sentiment": "neutral",
+  "brief_ko": "두산 2026 결산 영상"
+}

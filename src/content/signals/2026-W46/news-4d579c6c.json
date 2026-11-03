@@ -1,0 +1,30 @@
+{
+  "id": "news-4d579c6c",
+  "issue": "2026-W46",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5NMWRldWlCZENteGtJVTJYdks5SXZlNV9nR2xZeTNCLXREMmF5ZU9IZ0tJM0Z2WFNkVC1SSzFONkFTYXNwZjRwS3A0N215M1FGc2o3MVZUS0JyR2s1QzF3VmdpWVU0VllITDMwYXVOVdIBb0FVX3lxTE5NMWRldWlCZENteGtJVTJYdks5SXZlNV9nR2xZeTNCLXREMmF5ZU9IZ0tJM0Z2WFNkVC1SSzFONkFTYXNwZjRwS3A0N215M1FGc2o3MVZUS0JyR2s1QzF3VmdpWVU0VllITDMwYXVOVQ?oc=5",
+  "title": "“이제 우승할 때가 된 것 같다” 2년 전 아픔 털어낸 '캡틴' 구자욱, 생애 첫 정상 도전 [KS]",
+  "published_at": "2026-11-03T01:40:00.000Z",
+  "collected_at": "2026-11-03T07:38:12.807Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 82,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdzVrZXhmNGc3ZjJ5VWpaMnBUZUR6aWhONlZFVlJUOGpVNmtHcEhBajVEeTRmNE5Fd3N5clJ2Ul9ZTWVVMkRDaC1mbmRsNVZPdUR5WjR6cXNoWVBwWnF2WVdoR09CWGdZQlFlZ2FaT2FrSmNkMkt2NWMtYmhmOEI0ZjZpdw?oc=5"
+    }
+  ]
+}

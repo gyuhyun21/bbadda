@@ -1,0 +1,26 @@
+{
+  "id": "youtube-1ab42b01",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "source_name": "닌자티비",
+  "url": "https://www.youtube.com/watch?v=6KknTWn3kmA",
+  "title": "#스포츠중계 #shorts #프로야구 #노시환 #MLB #야구쇼츠 #한화이글스 #kbo 307억 노시환 충격! 미국은 왜 외면했나 MLB 진출 빨간불",
+  "published_at": "2026-11-03T03:31:30Z",
+  "collected_at": "2026-11-03T07:38:12.807Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1038,
+    "likes": 1,
+    "comments": 7
+  },
+  "scores": {
+    "hot": 47,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

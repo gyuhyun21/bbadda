@@ -1,0 +1,23 @@
+{
+  "id": "news-e5c703c6",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "일간스포츠",
+  "url": "http://isplus.live.joins.com/article/view/isp202611030067",
+  "title": "LG서 13승 올렸는데…볼티모어 칼바람, 47억 구단 옵션 거절",
+  "published_at": "2026-11-03T02:23:00.000Z",
+  "collected_at": "2026-11-03T07:38:12.807Z",
+  "summary_ko": "일간스포츠는 LG에서 13승을 올린 투수에게 볼티모어가 47억 원 규모 구단 옵션을 행사하지 않았다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "LG서 13승, 볼티모어 옵션 거절"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "community-724b0b89",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 두산베어스 공식 블로그",
+  "url": "https://blog.naver.com/1982doosanbears/224463575629",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/HzdBPKJk2NQ",
+  "title": "[2026 마무리캠프]BearsTV - 힘든만큼 성장한다 │내야, 포수 펑고 훈련",
+  "published_at": "2026-11-03T15:42:00.000+09:00",
+  "collected_at": "2026-11-03T07:38:12.807Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

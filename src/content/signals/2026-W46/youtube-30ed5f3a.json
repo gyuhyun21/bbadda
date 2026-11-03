@@ -1,0 +1,28 @@
+{
+  "id": "youtube-30ed5f3a",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "Giants TV",
+  "url": "https://www.youtube.com/watch?v=ZOSV5T9UmDA",
+  "title": "많이 배우고 많이 얻었다💪 | 2026 울산-KBO Fall League 이모저모",
+  "published_at": "2026-11-03T03:00:08Z",
+  "collected_at": "2026-11-03T07:38:12.807Z",
+  "summary_ko": "Giants TV가 2026 울산-KBO Fall League 이모저모 영상을 올렸다.",
+  "metrics": {
+    "views": 21954,
+    "likes": 467,
+    "comments": 40
+  },
+  "scores": {
+    "hot": 78,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "울산 KBO 폴리그 이모저모"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "news-978c23ff",
+  "issue": "2026-W46",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kt"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9HemRTbExUZnZ1bHMwWmFRcjg0ZmtCQlJrQmRKcU54NkN6a01Kb1B6ODlOZWpoV1g4QzgzX2xvcXpCcnhJVm1LaW5vcGQ3UkFDSTVhUWxGa2hFcG1WeEtwR3RBYTFMMUNPTTNKM253QzQ0bmpDMXNxUGFXdS1ldw?oc=5",
+  "title": "캡틴이 없네? 한국시리즈 1차전 삼성전 임하는 탑독 KT, 안현민-힐리어드-김현수 클린업 출격…장성우 빠졌다 [KS1 라인업]",
+  "published_at": "2026-11-03T06:35:28.000Z",
+  "collected_at": "2026-11-03T07:38:12.807Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 84,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9VZ212UW9HT20yV0Fzamd0YVlpQVp1M3NpS0pCSzg4Q3RhcTl4ZUt3RmxJdnNYbnZONi1IQ2J6ck8yTjlvX2ZOdDBxUkZOdUpWWHlfSg?oc=5"
+    }
+  ]
+}

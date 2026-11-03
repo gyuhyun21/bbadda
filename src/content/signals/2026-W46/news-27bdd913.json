@@ -1,0 +1,23 @@
+{
+  "id": "news-27bdd913",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "마이데일리",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB4Z0JPU2FjNW1Gb0JmbV9JZzJPOG5OTzZ3QnRqdmt0UFgwWmV0SnJQa1hzN3RqSTAyaXpLcExucEJfUEdBR1NnSlIwYU1oTElsWEk4SVdUMkw4bHp2RnlTSQ?oc=5",
+  "title": "'307억 포기' 노시환 날벼락, 美 충격 전망 떴다…\"KBO리그는 더블A보다 약간 높다, 27세 ROH 삼진율 높고 수비 범위 제한적\"",
+  "published_at": "2026-11-02T22:41:00.000Z",
+  "collected_at": "2026-11-03T07:38:12.807Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 73,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

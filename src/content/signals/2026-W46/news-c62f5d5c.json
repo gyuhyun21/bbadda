@@ -1,0 +1,24 @@
+{
+  "id": "news-c62f5d5c",
+  "issue": "2026-W46",
+  "module": "rivalry",
+  "team": "lg",
+  "teams": [
+    "lg",
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "포커스타임즈",
+  "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE04aU9jWUhzQ01ncmsxWnJwTUk4Y2ZieG5oT01XWjhnNnJpaTJZaFdJZEN6NkpPT2oxaXM1cVRiVE05SjVLcXpOQndOLUhTa08xRmprUThObzY?oc=5",
+  "title": "한국시리즈 암표 8만1천원→893만원...매크로 암표상 24명 송치",
+  "published_at": "2026-11-03T01:19:14.000Z",
+  "collected_at": "2026-11-03T07:38:12.807Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

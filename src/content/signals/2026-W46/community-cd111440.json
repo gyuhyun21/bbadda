@@ -1,0 +1,23 @@
+{
+  "id": "community-cd111440",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 박칠의 야구로그",
+  "url": "https://blog.naver.com/parkdosan7/224463412628",
+  "title": "KIA타이거즈 이범호 감독 11월 5일 오키나와 합류, 마무리캠프 추가 명단 공개",
+  "published_at": "2026-11-03T13:35:00.000+09:00",
+  "collected_at": "2026-11-03T07:38:12.807Z",
+  "summary_ko": "블로그 글에 따르면 KIA 이범호 감독이 11월 5일 오키나와 마무리캠프에 합류한다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "이범호 감독 5일 오키나와 합류"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "youtube-243fcbf9",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "전설의 타이거즈",
+  "url": "https://www.youtube.com/watch?v=adLbyhDhM1U",
+  "title": "하위권 예상 뒤집은 기아타이거즈! 2026년 시즌 웃으며 마무리하다 #전설의타이거즈",
+  "published_at": "2026-11-03T04:00:32Z",
+  "collected_at": "2026-11-03T07:38:12.807Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 2334,
+    "likes": 67,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 69,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

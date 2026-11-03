@@ -1,0 +1,30 @@
+{
+  "id": "community-bd829968",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/10513708062",
+  "title": "체력 고갈 걱정?…PO 5차전 거친 팀이 KS '반란' 더 잦았다",
+  "published_at": "2026-11-03T04:38:12.807Z",
+  "collected_at": "2026-11-03T07:38:12.807Z",
+  "summary_ko": "",
+  "excerpt": "... 물론 최근 두 차례 PO 5차전 승리 팀인 2023년 kt와 2025년 한화 이글스가 모두…",
+  "metrics": {},
+  "scores": {
+    "hot": 91,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE96ZDNIbjdCQ1QxR3ZpcjUzNmY0ZW0wMFNuN1QtMG9SX00zMThQZXJudi1NOTJIc280aUduOElvVk43cGNhWVFtOEFTWW5aRXVKUnJQdUdqb0tnZW96S2JJdNIBYEFVX3lxTE96ZDNIbjdCQ1QxR3ZpcjUzNmY0ZW0wMFNuN1QtMG9SX00zMThQZXJudi1NOTJIc280aUduOElvVk43cGNhWVFtOEFTWW5aRXVKUnJQdUdqb0tnZW96S2JJdA?oc=5"
+    }
+  ]
+}

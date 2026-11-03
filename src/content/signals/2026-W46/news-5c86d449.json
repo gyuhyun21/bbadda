@@ -1,0 +1,23 @@
+{
+  "id": "news-5c86d449",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "news",
+  "source_name": "한스경제",
+  "url": "http://www.hansbiz.co.kr/news/articleViewAmp.html?idxno=879112",
+  "title": "독특한 불펜피칭, 두산 마운드 화두는 '기본기'",
+  "published_at": "2026-11-02T23:58:37.000Z",
+  "collected_at": "2026-11-03T07:38:12.807Z",
+  "summary_ko": "한스경제는 두산 마무리캠프 마운드의 화두가 기본기라고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "불펜피칭 화두는 기본기"
+}

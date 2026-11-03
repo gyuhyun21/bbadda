@@ -1,0 +1,20 @@
+{
+  "id": "news-64cd58bc",
+  "issue": "2026-W46",
+  "module": "league",
+  "teams": [],
+  "source_type": "news",
+  "source_name": "연합뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE13bzJJZjVsN3hUUkJJRklGbVVxLXFHNWVfTFpNNHRvUnItUldHZ29wbkNXTmYtdWQwY1BsZmYtRmd2eGlCMlVsZjBsaUpBVnJjZHFZWkNLUTFXVVBvc1JHQdIBYEFVX3lxTE13bzJJZjVsN3hUUkJJRklGbVVxLXFHNWVfTFpNNHRvUnItUldHZ29wbkNXTmYtdWQwY1BsZmYtRmd2eGlCMlVsZjBsaUpBVnJjZHFZWkNLUTFXVVBvc1JHQQ?oc=5",
+  "title": "[스포츠엔터] '왕좌의 주인은?' 대망의 한국시리즈 개봉박두",
+  "published_at": "2026-11-03T04:05:25.000Z",
+  "collected_at": "2026-11-03T07:38:12.807Z",
+  "summary_ko": "연합뉴스가 KT와 삼성이 맞붙는 한국시리즈 개막을 앞두고 왕좌의 주인을 짚었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 30
+  },
+  "sentiment": "neutral",
+  "brief_ko": "한국시리즈 개봉박두"
+}

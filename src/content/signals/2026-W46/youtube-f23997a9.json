@@ -1,0 +1,26 @@
+{
+  "id": "youtube-f23997a9",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "source_name": "린지",
+  "url": "https://www.youtube.com/watch?v=40PjKBuEE_c",
+  "title": "2026시즌 한화 이글스 이민우 삼진모음 (30K)",
+  "published_at": "2026-11-03T03:00:32Z",
+  "collected_at": "2026-11-03T07:38:12.807Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 38,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 22,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

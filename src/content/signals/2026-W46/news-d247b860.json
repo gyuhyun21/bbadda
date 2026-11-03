@@ -1,0 +1,23 @@
+{
+  "id": "news-d247b860",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "news",
+  "source_name": "SPOTV NEWS",
+  "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1017243",
+  "title": "우승확률 73.8% 잡아라! 안현민 3번 DH 출격 \"감독님이 더 긴장한 듯\"…최원준 리드오프-힐리어드 4번 배치",
+  "published_at": "2026-11-03T06:50:37.000Z",
+  "collected_at": "2026-11-03T07:38:12.807Z",
+  "summary_ko": "SPOTV NEWS에 따르면 KT는 한국시리즈 1차전에 최원준을 리드오프, 안현민을 3번 지명타자, 힐리어드를 4번에 세웠다.",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "brief_ko": "안현민 3번 DH, 최원준 선두"
+}

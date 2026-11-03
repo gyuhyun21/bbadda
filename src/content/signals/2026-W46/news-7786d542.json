@@ -1,0 +1,29 @@
+{
+  "id": "news-7786d542",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://www.mt.co.kr/amp/sports/2026/11/03/202611030747776808O",
+  "title": "한국인 구속 160.3km 실화냐, 美스카우트 앞 광속구 쾅→ML 5개 구단 영입설 떴다 “곽빈, NYM-CHC-WHS-HOU-ARI와 어울려”",
+  "published_at": "2026-11-02T23:10:00.000Z",
+  "collected_at": "2026-11-03T07:38:12.807Z",
+  "summary_ko": "머니투데이는 곽빈이 미국 스카우트 앞에서 시속 160.3km를 던져 MLB 5개 구단의 영입설이 나왔다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 73,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "미주중앙일보",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE45OHc5TEcyX01UdW9vNjg5MkRUVEdZMGFEakRXYjhOcHBxRDQ5WF94M0NmdUptVDduZTJBdFpCdVlua1pIb1hJVldJVkZHX3BNQzVGWXJlQlJhX3JiRm1fQ29n?oc=5"
+    }
+  ],
+  "brief_ko": "곽빈 160.3km, MLB 5개 구단설"
+}
