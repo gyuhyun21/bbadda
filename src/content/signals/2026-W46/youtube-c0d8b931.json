@@ -1,0 +1,27 @@
+{
+  "id": "youtube-c0d8b931",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "SSG랜더스",
+  "url": "https://www.youtube.com/watch?v=L9we0kQfYeg",
+  "title": "오야rrRrR르~ 유행은 돌고 돈다🌀",
+  "published_at": "2026-11-03T10:00:12Z",
+  "collected_at": "2026-11-03T13:38:15.758Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 11509,
+    "likes": 798,
+    "comments": 32
+  },
+  "scores": {
+    "hot": 96,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

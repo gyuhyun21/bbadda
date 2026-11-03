@@ -1,0 +1,37 @@
+{
+  "id": "youtube-213a6562",
+  "issue": "2026-W46",
+  "module": "league",
+  "teams": [
+    "kt"
+  ],
+  "team": "kt",
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=_7C0jipeUIk",
+  "title": "KT위즈의 김현수 선수가 PS 통산 최다 루타 신기록을 달성했습니다‼️",
+  "published_at": "2026-11-03T11:30:43Z",
+  "collected_at": "2026-11-03T13:38:15.758Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 5084,
+    "likes": 50,
+    "comments": 5
+  },
+  "scores": {
+    "hot": 60,
+    "relevance": 80
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1QTWQ3VFBTWjVxTktMaTdiYU92WjhkcTQ5WmF2Y1NFd3RsRkZVcWp1UlFMNE1hcnRZRHVoSU1pbklPSEQwajFyS2JUR2tfaUgyZGlrUUlSenlLN1otSms1VGVFVnpsZHhlR1NLcFpTY9IBb0FVX3lxTE1QTWQ3VFBTWjVxTktMaTdiYU92WjhkcTQ5WmF2Y1NFd3RsRkZVcWp1UlFMNE1hcnRZRHVoSU1pbklPSEQwajFyS2JUR2tfaUgyZGlrUUlSenlLN1otSms1VGVFVnpsZHhlR1NLcFpTYw?oc=5"
+    },
+    {
+      "source_name": "뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE93b0YybzI2ZG9YX09yaGxZdnc5UjFSSWV2NUpGXzZrd2ViLVNCTGI2cmJoSi1RQzg5QnNyUFBxcmxvbV8zNFp1WTFHZlNJYmdnM1ZvYkMwR2J4MjRqVk5hYUljWFR4ekhFOXFyR0hTU0Y3Tzd5UzhKUNIBeEFVX3lxTE93b0YybzI2ZG9YX09yaGxZdnc5UjFSSWV2NUpGXzZrd2ViLVNCTGI2cmJoSi1RQzg5QnNyUFBxcmxvbV8zNFp1WTFHZlNJYmdnM1ZvYkMwR2J4MjRqVk5hYUljWFR4ekhFOXFyR0hTU0Y3Tzd5UzhKUA?oc=5"
+    }
+  ]
+}

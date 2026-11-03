@@ -1,0 +1,28 @@
+{
+  "id": "youtube-f32f705a",
+  "issue": "2026-W46",
+  "module": "league",
+  "teams": [
+    "samsung",
+    "kt"
+  ],
+  "team": "samsung",
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=bshEbix__p4",
+  "title": "한 걸음 더 추격하는 삼성 김성윤의 추가 적시타! | KS1_삼성 vs KT | 11.3 | 크보모먼트 | KBO 야구 하이라이트",
+  "published_at": "2026-11-03T12:56:33Z",
+  "collected_at": "2026-11-03T13:38:15.758Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 4006,
+    "likes": 87,
+    "comments": 46
+  },
+  "scores": {
+    "hot": 76,
+    "relevance": 80
+  },
+  "sentiment": "neutral"
+}

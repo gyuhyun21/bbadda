@@ -1,0 +1,22 @@
+{
+  "id": "news-da6a582b",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5PcFpZWlY5R21yODdnaEo0ZVRVVV9DWFc5N0JSaVdrOUNlQV9GOUU4WlJjcFR3Zlc0MTNGSXRXcXhJd292OVdfU2JrOERwVHktdERhSmxvdjVYQTVxUW54UW5qOUYzdXgxeXMyVXNHRdIBb0FVX3lxTE5PcFpZWlY5R21yODdnaEo0ZVRVVV9DWFc5N0JSaVdrOUNlQV9GOUU4WlJjcFR3Zlc0MTNGSXRXcXhJd292OVdfU2JrOERwVHktdERhSmxvdjVYQTVxUW54UW5qOUYzdXgxeXMyVXNHRQ?oc=5",
+  "title": "[포토] 1타점 김상수 '이겼다고 전하거라'",
+  "published_at": "2026-11-03T10:49:20.000Z",
+  "collected_at": "2026-11-03T13:38:15.758Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

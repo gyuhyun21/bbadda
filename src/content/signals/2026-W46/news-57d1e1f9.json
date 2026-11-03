@@ -1,0 +1,23 @@
+{
+  "id": "news-57d1e1f9",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://www.sportschosun.com/baseball/2026-11-03/202611030100024160002416",
+  "title": "\"실전으로 완성된 에이스\" 삼성 타선 '꽁꽁' 묶은 대니엘, 6이닝 3실점 7K 역투! \"초반 분위기 싸움\" 이강철 신뢰 통했다 [KS1 리포트]",
+  "published_at": "2026-11-03T12:24:41.000Z",
+  "collected_at": "2026-11-03T13:38:15.758Z",
+  "summary_ko": "KT 대니엘이 한국시리즈 1차전에서 6이닝 3실점, 삼진 7개로 삼성 타선을 막았다. 이강철 감독의 기대에 답했다는 내용이다.",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "대니엘 6이닝 3실점 7K"
+}

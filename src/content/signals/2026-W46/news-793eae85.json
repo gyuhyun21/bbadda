@@ -1,0 +1,23 @@
+{
+  "id": "news-793eae85",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "뉴시스",
+  "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1QeDBNcjRXckdUZ3VUWWdYVnRlNUdnV2Zzbm92dXQzRXVXMEFnSmFYR18ySUJtR3huVVp3S2d2U2JVMkpWclVPWU5qWGZmMXZZLXFWQkJmZHliZUZUcjlNSFNMTUNLWDVKZWY1OVY2QUZ4azdmbW1BNdIBeEFVX3lxTE1QeDBNcjRXckdUZ3VUWWdYVnRlNUdnV2Zzbm92dXQzRXVXMEFnSmFYR18ySUJtR3huVVp3S2d2U2JVMkpWclVPWU5qWGZmMXZZLXFWQkJmZHliZUZUcjlNSFNMTUNLWDVKZWY1OVY2QUZ4azdmbW1BNQ?oc=5",
+  "title": "올해 정규시즌 3홈런 한승택, 가을야구 생애 첫 대포 '쾅'[KS]",
+  "published_at": "2026-11-03T11:19:41.000Z",
+  "collected_at": "2026-11-03T13:38:15.758Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 83,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

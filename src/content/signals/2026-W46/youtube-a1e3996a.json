@@ -1,0 +1,27 @@
+{
+  "id": "youtube-a1e3996a",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "ㄹㅇ뉴스",
+  "url": "https://www.youtube.com/watch?v=NWB3NgwNZW0",
+  "title": "“광주가 이런 곳인가?” 대구 출신 차일목의 진심 어린 고백 #차일목 #김상훈 #장성호 #기아타이거즈 #전설의타이거즈 #지역감정 #선입견 #ㄹㅇ뉴스 #쇼츠",
+  "published_at": "2026-11-03T08:00:39Z",
+  "collected_at": "2026-11-03T13:38:15.758Z",
+  "summary_ko": "쇼츠 채널이 대구 출신 차일목이 광주 생활에 대해 털어놓은 진심을 올렸다.",
+  "metrics": {
+    "views": 21006,
+    "likes": 466,
+    "comments": 5
+  },
+  "scores": {
+    "hot": 77,
+    "relevance": 50
+  },
+  "sentiment": "neutral",
+  "brief_ko": "차일목이 말한 광주"
+}

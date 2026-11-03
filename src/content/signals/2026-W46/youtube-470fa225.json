@@ -1,0 +1,42 @@
+{
+  "id": "youtube-470fa225",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "kt wiz - 위즈TV",
+  "url": "https://www.youtube.com/watch?v=xl0tRhPK6wY",
+  "title": "한국시리즈 첫 홈런은 안현민의 투런포!",
+  "published_at": "2026-11-03T11:05:26Z",
+  "collected_at": "2026-11-03T13:38:15.758Z",
+  "summary_ko": "kt wiz 공식 채널이 안현민의 한국시리즈 첫 홈런(투런포) 장면을 올렸다.",
+  "metrics": {
+    "views": 3703,
+    "likes": 274,
+    "comments": 16
+  },
+  "scores": {
+    "hot": 89,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9qN1RuTFZib1hWVmhoZ3F3cVFtMk9FemVhNzB1d1hSUWJRVkw3bVVvLWU0OTU4aE5fMVhuYXVGWmU0eHBKSlg2RDNDRm94cncyODNUbkstVGgyU0Z6OFhTVlIzcGJMYVhIUjhjT2lCd9IBb0FVX3lxTE9qN1RuTFZib1hWVmhoZ3F3cVFtMk9FemVhNzB1d1hSUWJRVkw3bVVvLWU0OTU4aE5fMVhuYXVGWmU0eHBKSlg2RDNDRm94cncyODNUbkstVGgyU0Z6OFhTVlIzcGJMYVhIUjhjT2lCdw?oc=5"
+    },
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQT0I3YjJEYnlRVW51elNMUEdRRFlpaXBwdExIa0VlV1lFcG9rZm0zSWFsbUQxQUhPX1FPWW1GZzBRR3FOekIyQk9ZVmtEWEpYNzJEUFkyQnFlRW1mVFpCRmtsNG9fVnZkT21NLVJKWWl3aW5zRk5YNXUzQnZUbDVUNmk0Y2hHbkFL?oc=5"
+    },
+    {
+      "source_name": "OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1JU3BsNFRfbzV1cmdnSDJCNi1hYnVYUW1yV0FjV0c3enB0MFJzcl9tSkp2Skg4MnprUkJudmJYSFZXZWJTaWNSMVBLZWYwV3VRUTBoXw?oc=5"
+    }
+  ],
+  "brief_ko": "안현민 KS 첫 홈런 영상"
+}

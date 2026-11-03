@@ -361,6 +361,78 @@
           "youtube": 61
         }
       }
+    },
+    {
+      "week": "2026-W46",
+      "collected_at": "2026-11-03T13:38:15.758Z",
+      "sources": {
+        "news_rss": {
+          "total": 632,
+          "feeds": 18
+        },
+        "youtube": {
+          "total": 127,
+          "units": 1020,
+          "searches": 10,
+          "filtered_by_title": 17
+        },
+        "kakao": {
+          "total": 449,
+          "requests": 20,
+          "filtered_ads": 16
+        },
+        "instagram": {
+          "total": 0
+        },
+        "vertex": {
+          "total": 359,
+          "requests": 50,
+          "dropped_undated": 0,
+          "dropped_suspect_date": 51
+        }
+      },
+      "failures": [
+        {
+          "source": "instagram",
+          "error": "@lgtwinsbaseballclub: 토큰 만료(오류 190) — 장기 토큰을 다시 발급하세요"
+        }
+      ],
+      "skipped": [],
+      "out_of_window": 253,
+      "dropped_no_team": 277,
+      "team_inferred": 255,
+      "dedupe": {
+        "dropped_existing": 481,
+        "merged_in_batch": 100
+      },
+      "dropped_cap": 182,
+      "new_signals": {
+        "total": 274,
+        "by_module": {
+          "league": 15,
+          "team": 54,
+          "rivalry": 20,
+          "fans": 185
+        },
+        "by_team": {
+          "samsung": 50,
+          "kt": 51,
+          "ssg": 16,
+          "nc": 16,
+          "kia": 27,
+          "lg": 21,
+          "hanwha": 23,
+          "doosan": 21,
+          "lotte": 20,
+          "kiwoom": 21,
+          "-": 8
+        },
+        "by_source": {
+          "youtube": 82,
+          "news": 70,
+          "community": 122
+        }
+      }
     }
   ]
 }

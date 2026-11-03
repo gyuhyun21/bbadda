@@ -1,0 +1,28 @@
+{
+  "id": "news-776b735f",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBhZTkwV0N1MllMN0VDRjVEVnhsRmpiTERkRzg0Wm83TzVJWVBYVmYxMDE3eWNvVENINjY5b2RXVmJVbC1BdWhCM0ZURDU5ci1iSmpmUUkwX2Z0UnZUZi1OcWp1NFBPOHJnMVE5bHg0TdIBb0FVX3lxTFBhZTkwV0N1MllMN0VDRjVEVnhsRmpiTERkRzg0Wm83TzVJWVBYVmYxMDE3eWNvVENINjY5b2RXVmJVbC1BdWhCM0ZURDU5ci1iSmpmUUkwX2Z0UnZUZi1OcWp1NFBPOHJnMVE5bHg0TQ?oc=5",
+  "title": "[포토] 박진만 감독 '1차전 승리를 위해'",
+  "published_at": "2026-11-03T08:12:01.000Z",
+  "collected_at": "2026-11-03T13:38:15.758Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5yaUJNNG5MV1cyRjl0SWVWa185VTlMRENZYklLTG5UY2RVMlZsa3hpcVc4bWNiaWpMa2p0bDBBMlNqWVRKRHFaQkdVMTR3UDd0b0Z3cWFXblBFc3VjSXRWcHVhdGIxY3RQaE11bFAzUFdZTS1zT1E?oc=5"
+    }
+  ]
+}

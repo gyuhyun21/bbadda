@@ -1,0 +1,26 @@
+{
+  "id": "youtube-fe4c5b0d",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "TVING SPORTS",
+  "url": "https://www.youtube.com/watch?v=HvfNULgHIGk",
+  "title": "[KBO 리그] 약속의 8회 삼성 라이온즈ㅣ#shortsㅣTVINGSPORTS",
+  "published_at": "2026-11-03T13:21:38Z",
+  "collected_at": "2026-11-03T13:38:15.758Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 3547,
+    "likes": 50,
+    "comments": 20
+  },
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

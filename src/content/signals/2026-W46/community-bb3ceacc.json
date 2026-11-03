@@ -1,0 +1,28 @@
+{
+  "id": "community-bb3ceacc",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 써니와나",
+  "url": "https://blog.naver.com/guhwan2002/224463877640",
+  "title": "삼성 최원태, 한국시리즈 1차전 2이닝 5실점…안현민 투런포에 조기 강판",
+  "published_at": "2026-11-03T20:25:00.000+09:00",
+  "collected_at": "2026-11-03T13:38:15.758Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 91,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBTclQtMU85OTlWOVZacHNlQ1lJRE03Smo1X2hleTlOa0pLLUgyNEFZbTVZazlHYjZWZjd1bjliMFYyd3FWa2hBSllZQ0hUcGgzaDVuTDAyVFRmWHlCY0kyTWpPcXk1d2ktekFLenZ4Z9IBb0FVX3lxTFBTclQtMU85OTlWOVZacHNlQ1lJRE03Smo1X2hleTlOa0pLLUgyNEFZbTVZazlHYjZWZjd1bjliMFYyd3FWa2hBSllZQ0hUcGgzaDVuTDAyVFRmWHlCY0kyTWpPcXk1d2ktekFLenZ4Zw?oc=5"
+    }
+  ]
+}

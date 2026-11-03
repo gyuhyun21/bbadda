@@ -1,0 +1,24 @@
+{
+  "id": "community-e6e4c243",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 트렌드수달 오톳(OTTO)",
+  "url": "https://blog.naver.com/jaybuff/224463796990",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/JUZslGKNJoJ",
+  "title": "KIA 타이거즈 삼성 라이온즈 5차전 결과, 한국시리즈행 확정 지은 '이 팀'은?",
+  "published_at": "2026-11-03T19:52:00.000+09:00",
+  "collected_at": "2026-11-03T13:38:15.758Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

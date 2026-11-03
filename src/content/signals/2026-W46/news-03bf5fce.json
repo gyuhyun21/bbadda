@@ -1,0 +1,23 @@
+{
+  "id": "news-03bf5fce",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "톱클래스",
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9VcjctZnRZQ2ljTU5yOFlMWU9aU2EyYlFWS2x2c2RFQkNzbHA3a1NmWGRsQnJMdUp5MnZOT051QUxLVi1tQjZrT3ByNDVGYXkydE4xbHMtOFJ3STY1V3ViMnRhajYydXJ2R1drMVc1eUjSAXBBVV95cUxPVXI3LWZ0WUNpY01OcjhZTFlPWlNhMmJRVktsdnNkRUJDc2xwN2tTZlhkbEJyTHVKeTJ2Tk9OdUFMS1YtbUI2a09wcjQ1RmF5MnROMWxzLThSd0k2NVd1YjJ0YWo2MnVydkdXazFXNXlI?oc=5",
+  "title": "2026 가을야구 최후의 승부 관전포인트",
+  "published_at": "2026-11-03T06:08:25.000Z",
+  "collected_at": "2026-11-03T13:38:15.758Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

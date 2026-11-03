@@ -1,0 +1,26 @@
+{
+  "id": "youtube-37871415",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "크보아조씨",
+  "url": "https://www.youtube.com/watch?v=Wpzsi2YVboI",
+  "title": "[KS1] 7회에 빅이닝을 만드는 삼성라이온즈 #이재현",
+  "published_at": "2026-11-03T12:30:29Z",
+  "collected_at": "2026-11-03T13:38:15.758Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 2308,
+    "likes": 24,
+    "comments": 2
+  },
+  "scores": {
+    "hot": 55,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

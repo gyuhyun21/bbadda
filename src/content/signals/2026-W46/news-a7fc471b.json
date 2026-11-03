@@ -1,0 +1,23 @@
+{
+  "id": "news-a7fc471b",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://www.sportschosun.com/baseball/2026-11-03/202611030100015150001323",
+  "title": "한화의 노시환 '2년 계약, 총액 100억' 언급 초대박! \"LAA 전력 상승 요인\"…현재 3순위 옵션 '높은 삼진율 우려'",
+  "published_at": "2026-11-02T15:08:16.000Z",
+  "collected_at": "2026-11-03T13:38:15.758Z",
+  "summary_ko": "보도에 따르면 노시환은 LA 에인절스와 2년 총액 100억 규모 계약이 언급됐다. 현재 3순위 옵션이고, 높은 삼진율이 우려로 꼽혔다.",
+  "metrics": {},
+  "scores": {
+    "hot": 60,
+    "relevance": 80
+  },
+  "sentiment": "neutral",
+  "brief_ko": "노시환 에인절스 2년 100억 언급"
+}

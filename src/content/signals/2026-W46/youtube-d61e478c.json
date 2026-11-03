@@ -1,0 +1,27 @@
+{
+  "id": "youtube-d61e478c",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "youtube",
+  "source_name": "오늘스포츠",
+  "url": "https://www.youtube.com/watch?v=l1YhN073usg",
+  "title": "두산 베어스 곽빈 — 삼진 148개, 리그를 압도한다 #Shorts",
+  "published_at": "2026-11-03T10:30:56Z",
+  "collected_at": "2026-11-03T13:38:15.758Z",
+  "summary_ko": "팬 채널이 두산 곽빈이 올해 삼진 148개를 잡았다며 리그 최상위권 기록으로 소개했다.",
+  "metrics": {
+    "views": 205,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 32,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "곽빈 삼진 148개 소개"
+}

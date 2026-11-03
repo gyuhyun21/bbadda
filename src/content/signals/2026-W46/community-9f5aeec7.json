@@ -1,0 +1,23 @@
+{
+  "id": "community-9f5aeec7",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 토온나우",
+  "url": "https://blog.naver.com/sicher782/224463240377",
+  "title": "“전준우·김원중과 나란히 한동희가 주장 후보?” 롯데 이동욱 감독이 먼저 맡긴 자리",
+  "published_at": "2026-11-03T15:42:00.000+09:00",
+  "collected_at": "2026-11-03T13:38:15.758Z",
+  "summary_ko": "한 블로그는 한동희가 전준우·김원중과 함께 롯데 주장 후보로 거론된다고 전했다. 이동욱 감독이 먼저 맡긴 자리라는 내용이다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "한동희, 주장 후보 거론"
+}

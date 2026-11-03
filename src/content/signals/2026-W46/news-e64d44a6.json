@@ -1,0 +1,23 @@
+{
+  "id": "news-e64d44a6",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "미주중앙일보",
+  "url": "https://www.koreadaily.com/article/20261103013134023",
+  "title": "롯데 주장 후보가 대표팀 캡틴으로! 한동희 “APBC 일본전 승리 도전”",
+  "published_at": "2026-11-03T09:31:00.000Z",
+  "collected_at": "2026-11-03T13:38:15.758Z",
+  "summary_ko": "미주중앙일보에 따르면 한동희가 APBC 대표팀 주장을 맡아 일본전 승리에 도전한다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "brief_ko": "한동희, 대표팀 캡틴으로"
+}

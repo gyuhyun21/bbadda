@@ -1,0 +1,25 @@
+{
+  "id": "community-02a324c1",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha",
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 행복한마음으로",
+  "url": "https://blog.naver.com/jkmusic905/224463851104",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/CNWKwkfP9Dn",
+  "title": "한화 3루수 전면 개편 조짐... 노시환 대체자로 삼성 전병우 급부상한 결정적 배경",
+  "published_at": "2026-11-03T21:40:00.000+09:00",
+  "collected_at": "2026-11-03T13:38:15.758Z",
+  "summary_ko": "한 블로그는 노시환 포스팅 이후 한화 3루수 개편설과 삼성 전병우 이름이 거론되는 배경을 분석했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "negative",
+  "brief_ko": "한화 3루, 전병우 거론"
+}

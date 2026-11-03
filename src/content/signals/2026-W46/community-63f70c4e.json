@@ -1,0 +1,29 @@
+{
+  "id": "community-63f70c4e",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 꿀버리 랜드",
+  "url": "https://blog.naver.com/honeybee_0620/224463530627",
+  "title": "⚾ 2026 KBO 한국시리즈 개막! 역대 구단별 한국시리즈 우승 횟수 총정리",
+  "published_at": "2026-11-03T15:34:00.000+09:00",
+  "collected_at": "2026-11-03T13:38:15.758Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 73,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "인천일보",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5vZHB5QThTYXA2RUkzUnNRX0tnWXlxbTlNMzJxZTlaSng4OW9seENRN2tnaHNBc1lSNnhUWDlOZ1ZaYVpGNDVENy1yWlY2b0gtZkhXa2kwRFFDazBMM2tMV2ZiZ2V4Wm8wTDc0b1cxZkY?oc=5"
+    }
+  ]
+}

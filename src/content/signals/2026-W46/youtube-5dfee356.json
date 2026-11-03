@@ -1,0 +1,36 @@
+{
+  "id": "youtube-5dfee356",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "youtube",
+  "source_name": "맛있스포츠 Deliciousports",
+  "url": "https://www.youtube.com/watch?v=Q0j093V9pb4",
+  "title": "\"박영현의 포효\" KT위즈 한국시리즈 1차전 승리",
+  "published_at": "2026-11-03T13:24:26Z",
+  "collected_at": "2026-11-03T13:38:15.758Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1895,
+    "likes": 53,
+    "comments": 8
+  },
+  "scores": {
+    "hot": 71,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQV18xN2dnMlhHS0tHTExpbURjd3BiTjR5ODhHTXIyd1pWb21EUUoyWVRlcXlKOEpMMW5VbGRFY0RoaUJTeEZiNVgxbzJWOXVmUW5WM1JiVTZ5bHE0U2xMckpYUmNFMEw3UTBXeXd4N3JwTzhDaEpuNmI2dk4wZzNYcVZHTm9XWi050gGcAUFVX3lxTE5yUm5Pc3RoaGxSWUZfUnJzMFJkRWpOOTNnXzRtWUJXQWJDT3V5dXR5YVBrV1p2a0c2bEE0R0RxMi1fZnhGRHVIM2F5TGNNMlROSUNhZkhzTVVLMldjcmMzam1UTHdXSXhCU1hmdDBla0hWSW1UQjN6V1NTdmxTX0hBQVJXUW9XeUV3Y1JCbFNhVVZCU2U2S1B5dFhsSg?oc=5"
+    },
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaXVDUG50NXdyNUtlbVYyM2RXS2h2MTBDeTR3cmVyZkRiZzYtWmgyVGRsMEhxemVxN0ZWM2t5ZU4xakgzeVY5U3d4SVZERFJGUkFBWG02NFI2UkZROFZ4QnNzTl9ZdEVYbU5KY2VmTFB1b211MjBnSldSdlJPQ1p3QnFmUVR4dmxi?oc=5"
+    }
+  ]
+}

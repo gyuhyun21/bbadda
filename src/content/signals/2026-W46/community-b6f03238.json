@@ -1,0 +1,23 @@
+{
+  "id": "community-b6f03238",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 야구보는중 | ㄴr...는 매일.. 누워서..야구를 본ㄷr",
+  "url": "https://blog.naver.com/sportsb-s/224463569029",
+  "title": "한동희 수비 불안하다더니 이동욱 감독의 뜻밖의 선택이 더 놀라운 이유",
+  "published_at": "2026-11-03T15:42:00.000+09:00",
+  "collected_at": "2026-11-03T13:38:15.758Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

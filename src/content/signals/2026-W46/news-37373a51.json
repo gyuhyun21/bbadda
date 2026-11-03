@@ -1,0 +1,30 @@
+{
+  "id": "news-37373a51",
+  "issue": "2026-W46",
+  "module": "rivalry",
+  "team": "kt",
+  "teams": [
+    "kt",
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://www.mt.co.kr/amp/sports/2026/11/03/2026110319472980165",
+  "title": "'이럴수가' KT 한승택, 가을야구 통산 첫 안타가 한국시리즈 홈런이었다!→KIA 소속으로 8타수 무안타 [KS1 현장]",
+  "published_at": "2026-11-03T11:25:21.000Z",
+  "collected_at": "2026-11-03T13:38:15.758Z",
+  "summary_ko": "한승택이 포스트시즌 통산 첫 안타를 한국시리즈 홈런으로 만들었다. KIA 소속 때는 포스트시즌 8타수 무안타였다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 80
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBXQVlmUTJjaDc5TkJDbTRnamtvR1BKaTdjRjJiMlBWd3ExMHBhQ1hrSXF0UW9md0V4My0yVXFjWXRvSEJuYVNkc1UxNHRUYmVJaGZ6SFVId0t5QXhYTmd4M3k0WDdJdVBhS3QxNFJ4T0hocUNneHc?oc=5"
+    }
+  ],
+  "brief_ko": "한승택, PS 첫 안타가 KS 홈런"
+}

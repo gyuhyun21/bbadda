@@ -1,0 +1,26 @@
+{
+  "id": "youtube-59e82c01",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "youtube",
+  "source_name": "ryong",
+  "url": "https://www.youtube.com/watch?v=kNo20EDNROM",
+  "title": " 2026 NC 다이노스 김한별 호수비 모음",
+  "published_at": "2026-11-03T13:08:20Z",
+  "collected_at": "2026-11-03T13:38:15.758Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 60,
+    "likes": 9,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

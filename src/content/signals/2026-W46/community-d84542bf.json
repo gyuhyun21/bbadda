@@ -1,0 +1,24 @@
+{
+  "id": "community-d84542bf",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan",
+    "nc"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 ground_note님의 블로그",
+  "url": "https://blog.naver.com/ground_note/224463756366",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/Hh5CHrn1XS0",
+  "title": "두산이 내친 손아섭, NC行 연봉 보니 결국 이유 있었다",
+  "published_at": "2026-11-03T18:10:00.000+09:00",
+  "collected_at": "2026-11-03T13:38:15.758Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

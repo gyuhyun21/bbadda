@@ -1,0 +1,29 @@
+{
+  "id": "youtube-99801af3",
+  "issue": "2026-W46",
+  "module": "league",
+  "teams": [
+    "samsung",
+    "kt"
+  ],
+  "team": "samsung",
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=bWquBszq3J8",
+  "title": "대형 파울을 연속으로 만든 삼성의 이재현! 그리고 결과를 만들어낸 추가 적시타! | KS1_삼성 vs KT | 11.3 | 크보모먼트 | KBO 야구 하이라이트",
+  "published_at": "2026-11-03T12:35:48Z",
+  "collected_at": "2026-11-03T13:38:15.758Z",
+  "summary_ko": "KBO 공식 채널이 삼성 이재현이 대형 파울 두 개 뒤 2타점 적시타를 친 장면을 올렸다.",
+  "metrics": {
+    "views": 4709,
+    "likes": 241,
+    "comments": 56
+  },
+  "scores": {
+    "hot": 90,
+    "relevance": 80
+  },
+  "sentiment": "neutral",
+  "brief_ko": "이재현 파울 두 방 뒤 2타점 적시타"
+}
