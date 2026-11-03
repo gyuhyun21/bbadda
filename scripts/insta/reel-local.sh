@@ -15,7 +15,7 @@ export CHROME="/Applications/Google Chrome.app/Contents/MacOS/Google Chrome"
   cd "$REPO" || exit 1
   git checkout -q main && git reset -q --hard && git clean -qfd && git pull -q origin main || { echo "git 실패"; exit 1; }
   npm ci --silent >/dev/null 2>&1 || echo "npm ci 실패(이전 node_modules 로 계속)"
-  claude -p "너는 BBADDA(빠따닷컴)의 릴스 편집자다. 저장소의 CLAUDE.md 를 읽고, docs/reel-routine.md 의 코드 블록 안 프롬프트를 지금 실행할 지시로 삼아 그대로 수행한다. 지금 칸은 ${SLOT}이다(0단계의 칸 S). 지금은 맥 실행이다(3-2 실제 영상 단계를 쓴다). Higgsfield 도구는 ToolSearch 로 불러 쓴다." \
-    --allowedTools "Bash,Read,Write,Edit,Glob,Grep,WebSearch,WebFetch,ToolSearch,mcp__claude_ai_Higgsfield__*"
+  claude -p "너는 BBADDA(빠따닷컴)의 릴스 편집자다. 저장소의 CLAUDE.md 를 읽고, docs/reel-routine.md 의 코드 블록 안 프롬프트를 지금 실행할 지시로 삼아 그대로 수행한다. 지금 칸은 ${SLOT}이다(0단계의 칸 S). 지금은 맥 실행이다(3-2 실제 영상 단계를 쓴다). Higgsfield 는 당분간 쓰지 않는다(그림·목소리 없이 클립과 화면 글로 만든다)." \
+    --allowedTools "Bash,Read,Write,Edit,Glob,Grep,WebSearch,WebFetch,ToolSearch"  # 당분간 Higgsfield 없음(2026-11-03 주인 지시)
   echo "=== $(TZ=Asia/Seoul date '+%F %T') 끝 ($?)"
 } >> "$LOG" 2>&1
