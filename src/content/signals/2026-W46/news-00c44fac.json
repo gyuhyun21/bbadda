@@ -1,0 +1,24 @@
+{
+  "id": "news-00c44fac",
+  "issue": "2026-W46",
+  "module": "rivalry",
+  "team": "doosan",
+  "teams": [
+    "doosan",
+    "kt",
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "조선일보",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWnRRMFlyN01qWUdSYUdnUVE5QXZJUzZfeHJkeHBWTzE2b3ZVQjAzZlI3TG50aVBkZ1hobzJOMXJxcG1fUnpKTDg5X01lT0RqMWszZTlJOXdabmJkLVRLWVZhRk5uV1NrNmdmNWlMWEFUWm1rNVZkelFNWVdyTzUxQlI4SQ?oc=5",
+  "title": "\"두산 팬도 생각해야죠\" 핀잔들었던 KT 팬 이재명 대통령, 삼성 이재용 회장과 야구장서 깜짝 회동할까[KS포커스]",
+  "published_at": "2026-11-03T05:22:00.000Z",
+  "collected_at": "2026-11-03T13:38:15.758Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 73,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-c81e4a88",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "MHN스포츠",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1vUW1pTWN4NXoxY3U5OVhEcWNvNDVWVXVJb3o1YjVXdXNvSHAxLVZONFJmM2RhS1JyeTRZc2d4TU53d3poeGVXZDhlWVVRSmJWSjBxZkQ0MmdjeVh5LVRwckFRZw?oc=5",
+  "title": "‘158km 강속구’ 곽빈, 美 스카우트 “MLB 4~5선발 정도”…김주원도 호평",
+  "published_at": "2026-11-03T08:32:59.000Z",
+  "collected_at": "2026-11-03T13:38:15.758Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

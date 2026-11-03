@@ -1,0 +1,22 @@
+{
+  "id": "news-222469d8",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "위키트리",
+  "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE54VF95V3ZoeHk0NFE3aFRyRDdURW0zNF9Jcm1NeVVWSk5FQTBYS0ZDaVN1OGRxZHVjSnBlUzZGTElBVG83b25HandzNjJ2SERrMmlpclZB?oc=5",
+  "title": "삼성 라이온즈서 방출되더니, 결국 일본 가서도 충격 방출된 ‘이 선수’",
+  "published_at": "2026-11-03T13:30:00.000Z",
+  "collected_at": "2026-11-03T13:38:15.758Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

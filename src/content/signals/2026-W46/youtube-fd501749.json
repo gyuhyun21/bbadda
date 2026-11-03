@@ -1,0 +1,26 @@
+{
+  "id": "youtube-fd501749",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "JHL STUDIO ",
+  "url": "https://www.youtube.com/watch?v=uy77CU1-IIY",
+  "title": "삼성라이온즈 안타치러가자~🎵",
+  "published_at": "2026-11-03T11:06:47Z",
+  "collected_at": "2026-11-03T13:38:15.758Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 449,
+    "likes": 5,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 45,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

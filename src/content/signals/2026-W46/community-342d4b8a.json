@@ -1,0 +1,24 @@
+{
+  "id": "community-342d4b8a",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 꽉형의 쓰포츠생생통",
+  "url": "https://herr-kwak.tistory.com/3218",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/8Ui0zfIbND5",
+  "title": "낮은 타율에도 wRC+ 100을 넘긴 비결은? 2026시즌 '세이버메트릭스 알짜배기' 타자 4인방 집중 분석...",
+  "published_at": "2026-11-03T17:40:30.000+09:00",
+  "collected_at": "2026-11-03T13:38:15.758Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "news-1bb2f883",
+  "issue": "2026-W46",
+  "module": "rivalry",
+  "team": "kt",
+  "teams": [
+    "kt",
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "엑스포츠뉴스",
+  "url": "https://www.xportsnews.com/article/2215109",
+  "title": "'8:0→8:7' KT, 삼성에 1점 차 진땀승→'73.8%' 확률 잡았다…중심타선 6타점 합작+박영현 5OUT SV [KS1:스코어]",
+  "published_at": "2026-11-03T13:07:48.000Z",
+  "collected_at": "2026-11-03T13:38:15.758Z",
+  "summary_ko": "KT가 한국시리즈 1차전에서 삼성을 8-7로 꺾었다. 8-0까지 앞섰다가 1점 차로 쫓겼고, 박영현이 5아웃 세이브로 막았다.",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 80
+  },
+  "sentiment": "neutral",
+  "brief_ko": "KS1 8-7 진땀승, 박영현 5아웃 SV",
+  "hook_ko": "8-0이 8-7이 됐다, KS1 승부"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-e4c27a62",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "fn스타",
+  "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9mY1V0aWdhZTAxbzYyYlR4ZENEYklNdTRMZHVBZHZULXFoMXFQN2x5VDNfajFqc1BqSTZBNG5aM0pkU1haaTEtZENBVE80ZFdlamhEdFFwT1lweWYzcnJV0gFjQVVfeXFMT1BuaTVXbG1qc01feUpIWkFWbTRVUDNWLXNBX1J1a3lPaEpxQmp6N3VQY2U3cy1tYktaZFVqUVp2aGtGWHZ0SzdqM3c3Z28tWEFBTzhSclpFZkoxTnJQRmNkRko0?oc=5",
+  "title": "\"노시환에게 양키스 유니폼이 어울린다고?\"…MLB 공식 홈페이지가 직접 꼽은 4개 구단",
+  "published_at": "2026-11-03T02:04:00.000Z",
+  "collected_at": "2026-11-03T13:38:15.758Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "youtube-d5481b80",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "Roberto SON",
+  "url": "https://www.youtube.com/watch?v=utPtk7lReck",
+  "title": "기아를 빛낸2군 선수들#기아타이거즈 #기아 #김도영 #박상준 #이호연",
+  "published_at": "2026-11-03T09:00:03Z",
+  "collected_at": "2026-11-03T13:38:15.758Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 2002,
+    "likes": 74,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

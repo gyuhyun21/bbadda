@@ -1,0 +1,31 @@
+{
+  "id": "news-2ef115d3",
+  "issue": "2026-W46",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스타뉴스",
+  "url": "https://www.starnewskorea.com/sports/2026/11/03/2026110318365095871",
+  "title": "가을야구 열기 대폭발! 1차전도 전석 매진→'2022년부터 KS 22G·PS 47G 연속 완판' [KS1 현장]",
+  "published_at": "2026-11-03T11:07:29.000Z",
+  "collected_at": "2026-11-03T13:38:15.758Z",
+  "summary_ko": "스타뉴스에 따르면 한국시리즈 1차전도 전석 매진됐다. 2022년부터 한국시리즈 22경기, 포스트시즌 47경기 연속 매진이라고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 99,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9IUzEtYkxrLUNOeE9EYW9YeGg0eWZ4MEM0WENKd1lYVkwxY0YySG93TmRLNUN2akNsUzUwVllzU0RaT0FENTRyWFR2TjBsSHN0bHA5RjEtTHdGMklPRS1vUTRSbllxcFdFVmdnb1BPb9IBb0FVX3lxTE9IUzEtYkxrLUNOeE9EYW9YeGg0eWZ4MEM0WENKd1lYVkwxY0YySG93TmRLNUN2akNsUzUwVllzU0RaT0FENTRyWFR2TjBsSHN0bHA5RjEtTHdGMklPRS1vUTRSbllxcFdFVmdnb1BPbw?oc=5"
+    }
+  ],
+  "brief_ko": "KS1 전석 매진, PS 47G 연속"
+}

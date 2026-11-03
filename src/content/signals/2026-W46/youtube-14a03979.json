@@ -1,0 +1,26 @@
+{
+  "id": "youtube-14a03979",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "youtube",
+  "source_name": "오늘스포츠",
+  "url": "https://www.youtube.com/watch?v=_aSXD3VDJPI",
+  "title": "키움 히어로즈 배동현 — 가장 많이 맞은 선발 #Shorts",
+  "published_at": "2026-11-03T10:00:52Z",
+  "collected_at": "2026-11-03T13:38:15.758Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 142,
+    "likes": 1,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 35,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

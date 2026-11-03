@@ -1,0 +1,24 @@
+{
+  "id": "community-c9f1d910",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&document_srl=10513371425",
+  "title": "저격함 씨빨련 - 야구",
+  "published_at": "2026-11-03T02:38:15.758Z",
+  "collected_at": "2026-11-03T13:38:15.758Z",
+  "summary_ko": "",
+  "excerpt": "... 3 분 전 자유 두산베어스 조회100 추천1. VIP 시구하면 다른 것보다 관중 입장 검사가…",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

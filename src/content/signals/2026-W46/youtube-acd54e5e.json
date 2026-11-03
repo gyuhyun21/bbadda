@@ -1,0 +1,27 @@
+{
+  "id": "youtube-acd54e5e",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "kt wiz - 위즈TV",
+  "url": "https://www.youtube.com/watch?v=qyqU1lXMUlU",
+  "title": "한국시리즈 첫 타점의 주인공 힐리어드",
+  "published_at": "2026-11-03T10:30:32Z",
+  "collected_at": "2026-11-03T13:38:15.758Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 5011,
+    "likes": 259,
+    "comments": 22
+  },
+  "scores": {
+    "hot": 91,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

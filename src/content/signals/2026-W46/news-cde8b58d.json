@@ -1,0 +1,23 @@
+{
+  "id": "news-cde8b58d",
+  "issue": "2026-W46",
+  "module": "rivalry",
+  "team": "kt",
+  "teams": [
+    "kt",
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "뉴시스",
+  "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBPZkJsaVcxWW9oMDlnOFU5WVJBNU5JMXBjSWhBeTlSV1VodGNYaFNNZ3RCSEltR1RQOHZRWXNFWkV0RF9ScWhyVDB0N19aMzJsVzRaaHdnOWhKOEdQVjcxTDRFRGNXQ0xNZVJSU0VOTzdvU3Z1eDBGS9IBeEFVX3lxTFBPZkJsaVcxWW9oMDlnOFU5WVJBNU5JMXBjSWhBeTlSV1VodGNYaFNNZ3RCSEltR1RQOHZRWXNFWkV0RF9ScWhyVDB0N19aMzJsVzRaaHdnOWhKOEdQVjcxTDRFRGNXQ0xNZVJSU0VOTzdvU3Z1eDBGSw?oc=5",
+  "title": "수원까지 이어진 가을야구 열기…KT-삼성 1차전 관중석도 꽉 찼다[KS]",
+  "published_at": "2026-11-03T10:35:59.000Z",
+  "collected_at": "2026-11-03T13:38:15.758Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 83,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

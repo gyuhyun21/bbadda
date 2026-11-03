@@ -1,0 +1,26 @@
+{
+  "id": "youtube-dfcd2fe4",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "youtube",
+  "source_name": "크보판",
+  "url": "https://www.youtube.com/watch?v=xzW30odO3Sc",
+  "title": "접전 끝에  8:7로 한국시리즈 1차전 승리하는 KT ㄷㄷ",
+  "published_at": "2026-11-03T13:06:44Z",
+  "collected_at": "2026-11-03T13:38:15.758Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 8054,
+    "likes": 169,
+    "comments": 30
+  },
+  "scores": {
+    "hot": 73,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

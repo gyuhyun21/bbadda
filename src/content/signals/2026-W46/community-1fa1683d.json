@@ -1,0 +1,24 @@
+{
+  "id": "community-1fa1683d",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 GTS곰돌이의 스포츠 UP&OUT",
+  "url": "https://blog.naver.com/bit024/224463943473",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/E41olm3Yq46",
+  "title": "최원태 연봉16억, 3이닝도 못 버텼다…이어진 포스트시즌(PS) 악몽",
+  "published_at": "2026-11-03T21:34:00.000+09:00",
+  "collected_at": "2026-11-03T13:38:15.758Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

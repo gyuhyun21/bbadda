@@ -211,11 +211,20 @@ rounds:
         venue: 수원
         starters: { kt: 대니엘, samsung: 최원태 } # 예고 선발(조선일보 '마지막까지 감췄던 1차전 선발, KT 대니엘vs삼성 최원태', 2026-11-02 미디어데이)
         starter_notes: { kt: "좌타자 피안타율 0.192", samsung: "이번 가을 ERA 7.74" } # 스포츠한국 '좌타자 피안타율 0.192'…대니엘, 1차전 선발로 낙점된 이유 / 머니투데이 '가을 ERA 7.74' 최원태
+        result: { kt: 8, samsung: 7 } # 종합 기사(엑스포츠뉴스·스타뉴스·매일일보 8-7)
+        source: "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9uUGM1YWx6cW1jczlNeW9heWRHcGpaMWZVSFNlcjdnenlYRXRMR3E1b1NYSnlMNm9FS3pDal9DajZ5bDlaQ3F3WUo0Zk81U1AxcElnaQ?oc=5" # 엑스포츠뉴스 'KT, 삼성에 1점 차 진땀승'
+        save: 박영현(KT) # 5아웃 세이브(엑스포츠뉴스·스타뉴스)
+        homers: ["안현민(KT) 3회 투런", "한승택(KT) 솔로", "김현수(KT) 투런", "구자욱(삼성) 투런"] # 스타뉴스·머니투데이·KBO 하이라이트 제목
         facts:
           - "1차전 승리 팀 우승 확률 73.8%"
+          - "김현수, 포스트시즌 통산 150루타 신기록"
         ig:
           pre: { hook: "1차전 이기면\n우승 확률 73.8%", sub: "KT 대니엘 vs 삼성 최원태, 수원 KS 개막" }
         sources:
+          - "https://news.google.com/rss/articles/CBMidkFVX3lxTE82NUM0RTI2WFUtXzJ1X1ZkVkZnSC1SRkRvTGNYMGhkaXllcGRGbWMtWExkbzUxMjdnblpvUXpKVkJRd01GLUZfbWNIQk9IejhlbVU5V2NMMjU3LVVhWVRGbHBDRzhlMXZZZnJnX013MjMwRng3b3c?oc=5" # KS1 현장리뷰 8-7·5아웃 세이브(스타뉴스)
+          - "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9KMFhNY0c2Zy15NzRWN2d5NnNhRVh0b3o1REgwUDFMRndma3pXb1lqM1BlbnF1NHRGY0pKVTFLaGRIN2l1SnE0cmpOZFNBWlc1dDZkY0NLU0NnUGpaQThtOXdXcmw?oc=5" # 김현수 PS 150루타(매일일보)
+          - "https://news.google.com/rss/articles/CBMidkFVX3lxTFBLV3BmYUJaV1JULXlYcHY4U0pVRzQ2MWlldEZISXN2cWFicmU4bWtRSmVwQzZsZU1zSGhVbWcwSkxRR2xzcl9SY2doRXgxLVZSQkI0REI0VEJDN2d6Nkhuak95UjFuXzFYZU1TbnY3by03emNnUEE?oc=5" # 안현민 KS 첫 홈런(스타뉴스)
+          - "https://news.google.com/rss/articles/CBMib0FVX3lxTFBScU8waFpNa0x4RHRCeVd2YWNtRVlBam52WXlBeTVDUW9wSnUtZ0xTcUM2alpLZDNjU3dXUlZDdzBiMlRwcUV6cVY2ZWdOQUJCck9ILUwzcFpnd2l4ampIMWVEV2VsZGJiZGVkRUtnONIBb0FVX3lxTFBScU8waFpNa0x4RHRCeVd2YWNtRVlBam52WXlBeTVDUW9wSnUtZ0xTcUM2alpLZDNjU3dXUlZDdzBiMlRwcUV6cVY2ZWdOQUJCck9ILUwzcFpnd2l4ampIMWVEV2VsZGJiZGVkRUtnOA?oc=5" # 한승택 홈런(머니투데이)
           - "https://news.google.com/rss/articles/CBMiV0FVX3lxTE44eGJhRndWRi1palN3NU52THg4eURiMkxyUFVlUG1uU2x4N1J5bGlOaDJ3SHRPczFPNnMwTDZjM0ZETzc4RElQX3NwU0phSWJhbFBOazAtOA?oc=5" # 1차전 승리 팀 우승 73.8%(뉴스1)
           - "https://news.google.com/rss/articles/CBMicEFVX3lxTE5KOTNfVkpMWThSR0FMNjVVaENMZl9DUHFOcXRQZldGRklQaVpaTHhWRTNCRVhiVFRkVS0zNElGcmVCQ1otSml4bk9TQmtYWGFCMU92UjFBcWQ0MDRhNFlXdXlSdjlQOEdIWVRMeHFwWUjSAXRBVV95cUxOeUszSGcxOEFLUDBxbjFxWWtaSmRITVJkVmt4eVY0S012Yl9mNEZDckdNMVhzUmxfRm9LVlExZDM4SnU0bHdyUnJBc1NMZ2YxbEJabzF2a1VXOFh4ZVBVREFoREZKWnF1d2VqSUU1OXVMZzh3MQ?oc=5" # 대니엘 좌타자 피안타율 0.192(스포츠한국)
           - "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ZYnZRZUxfS2d4UFVKV3JJVGZhaXpSemdCb090MHhXMFhha0c2OVBMRVBKMzFsa09ISmZubDRQSWx3aTVCRnR6algyaDFYUTY0UFVZVGZveXFuVDNBSVhKYnRVU3BoZFViaDI2OThpSdIBb0FVX3lxTE5ZYnZRZUxfS2d4UFVKV3JJVGZhaXpSemdCb090MHhXMFhha0c2OVBMRVBKMzFsa09ISmZubDRQSWx3aTVCRnR6algyaDFYUTY0UFVZVGZveXFuVDNBSVhKYnRVU3BoZFViaDI2OThpSQ?oc=5" # 최원태 가을 ERA 7.74(머니투데이)

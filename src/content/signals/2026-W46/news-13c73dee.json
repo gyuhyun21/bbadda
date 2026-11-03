@@ -1,0 +1,23 @@
+{
+  "id": "news-13c73dee",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "news",
+  "source_name": "진주인터넷뉴스",
+  "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5kb3kwdWQyTHdnRkwwNmljLXdVQXJLTFB0RXZJbkJwSHpFVUhlU3RuVF9rT1YtekE5SXQyd0c5SlNHMXI3MTFrTnhMT0dzMGRvVUtUMjBHNG1uWTVwSGVWRUcwRUpoSUNtbVlEZ19VV0dXeTI1M293?oc=5",
+  "title": "NC 다이노스 창원에 남는다…하지만 ‘조건부 잔류’ 창원시가 반드시 지켜야 할 약속",
+  "published_at": "2026-11-02T14:46:54.000Z",
+  "collected_at": "2026-11-03T13:38:15.758Z",
+  "summary_ko": "진주인터넷뉴스는 NC가 창원에 남게 됐지만 창원시가 지켜야 할 '조건부 잔류'라고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 60,
+    "relevance": 50
+  },
+  "sentiment": "neutral",
+  "brief_ko": "NC 조건부 창원 잔류"
+}

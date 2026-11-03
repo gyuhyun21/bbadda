@@ -1,0 +1,26 @@
+{
+  "id": "youtube-2f806c67",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "광주 아재 ",
+  "url": "https://www.youtube.com/watch?v=YUpZtPjvaV8",
+  "title": "광주아재 삼성라이온즈 훈수 두다 #달빛동맹",
+  "published_at": "2026-11-03T13:12:53Z",
+  "collected_at": "2026-11-03T13:38:15.758Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1455,
+    "likes": 120,
+    "comments": 9
+  },
+  "scores": {
+    "hot": 83,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

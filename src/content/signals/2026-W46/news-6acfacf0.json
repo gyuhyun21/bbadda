@@ -1,0 +1,32 @@
+{
+  "id": "news-6acfacf0",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "news",
+  "source_name": "조선일보",
+  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUEdOR0dRejhVb1dvUi1KWVhzeWdvQWtoRFVmNURQTzhHSWZpcnVVWmlVN2xjVDZ0TUxyYnA5TE9Nd3IxcXhLaHFGSkx0SGtXNVJrRVo3OWMzZUpac0J6Y1BVbU44c2NaaDJGaGlTUnAtazBLcEpZcEdUVE5reXpHc1VYRGxuUUsw?oc=5",
+  "title": "[포토] 한국시리즈 1차전 KT 필승 다짐",
+  "published_at": "2026-11-03T10:21:00.000Z",
+  "collected_at": "2026-11-03T13:38:15.758Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 83,
+    "relevance": 80
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "www.xportsnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE05MDVLejdTVUxhYnUydWRzUm5UWUJFQl9Pc1pCdWlNcnlxUkRGSTc5QnpkbWNMRkZwbTM3cU1yMVAta3B0NmZYUWtmb0tIdVZvdUdDVw?oc=5"
+    },
+    {
+      "source_name": "스포츠조선",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4zMDVzS2dFNlVyb2hpYUE0d2dhdTYxZzNHTVZXZlY3TUY0cHdkRVdDeHpKbmlTNWtsSlhjQ3RMYlNITFdmM1I0Y1MwN2VLTjBKRmVMT3BLeHBIOVBHd29seENwVDc2VzF2SV9iTjNrajFwaFJuOG9MRE9MU1B6Zw?oc=5"
+    }
+  ]
+}

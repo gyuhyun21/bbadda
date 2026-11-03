@@ -1,0 +1,30 @@
+{
+  "id": "news-1d144555",
+  "issue": "2026-W46",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8yX0xHWEZtMVVEWi1Ud3gtNkV4MTVib3ItNnpFUjl2Smdzb3lJOWtxY3V0THMyRF8yNzU0UVMycnJBV0Nwc1hvbFJNXzNGUGFjWjBnWjFNaDBiZVR2ZnNGNEJvRkMtZHI3azNkTE5Ya9IBb0FVX3lxTE8yX0xHWEZtMVVEWi1Ud3gtNkV4MTVib3ItNnpFUjl2Smdzb3lJOWtxY3V0THMyRF8yNzU0UVMycnJBV0Nwc1hvbFJNXzNGUGFjWjBnWjFNaDBiZVR2ZnNGNEJvRkMtZHI3azNkTE5Yaw?oc=5",
+  "title": "\"김영웅 선발 3루수? 고민 없었다\" 박진만 단호한 믿음 [KS1 현장]",
+  "published_at": "2026-11-03T09:02:10.000Z",
+  "collected_at": "2026-11-03T13:38:15.758Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 82,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1DSGdWNDZ3R3pfQUYwX3B3TTRIOHlrckpnb1JTeE5tQkJiaFBzNzFyalU2UXpELXVNS21qYTJRbEowenpNb0xsWGYzZXlySlJIa2U2bmp4bjJjUm9tUW5meXZ2bGlhcDJDb2J5RC1yMHlkNm51RUE?oc=5"
+    }
+  ]
+}

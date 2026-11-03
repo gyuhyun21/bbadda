@@ -1,0 +1,29 @@
+{
+  "id": "news-d1dacd00",
+  "issue": "2026-W46",
+  "module": "rivalry",
+  "team": "kt",
+  "teams": [
+    "kt",
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠한국",
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9icko5clRBTUtvU0xZRl9yOEZRSnFWamlmam1QRENqb3Z1cTFmZktZRXVZNnJuaVF5dzdaaDEyVE9PRUdTc09vM0g3Sk5CVjUwUTU4TWd6aWJxendaSmRUeHdYWGdfYUlkdVVEMWhWaG_SAXRBVV95cUxNZkxtcDJTRTJDLTZ2eXJvVGI0XzJ1R0VyMzZDVnVXbEpobTBKZGVwMEI4ZW93MnktcndtbVc5UUpFOVlxMGM4OXBPSEFRTFNSamFZbW1pd2wtQ3VuUDl5TTdKQXdwR2hVNjE3MExYSFNCV29wQg?oc=5",
+  "title": "‘대니엘 호투, 안현민 투런포’ kt wiz, 삼성 초전박살…KS 1차전 잡았다",
+  "published_at": "2026-11-03T13:06:57.000Z",
+  "collected_at": "2026-11-03T13:38:15.758Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 92,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "m.mksports.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBGZ0hWbE96N2VLeWZJZkJMaC1sZUtKRlpvMkd3R2dfWnVtNXdiaHl4dmRWb1AyaVhkS2lXb0NGTmRRNU1ueWhrSkZsZVg0T0E2aHFDUkk5bnc3YUdicldGQkxkLWM?oc=5"
+    }
+  ]
+}

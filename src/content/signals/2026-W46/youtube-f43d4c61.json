@@ -1,0 +1,29 @@
+{
+  "id": "youtube-f43d4c61",
+  "issue": "2026-W46",
+  "module": "league",
+  "teams": [
+    "samsung",
+    "kt"
+  ],
+  "team": "samsung",
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=KrXOtuvfXZk",
+  "title": "추격을 알리는 삼성 구자욱의 투런 홈런!! | KS1_삼성 vs KT | 11.3 | 크보모먼트 | KBO 야구 하이라이트",
+  "published_at": "2026-11-03T12:09:56Z",
+  "collected_at": "2026-11-03T13:38:15.758Z",
+  "summary_ko": "KBO 공식 채널이 한국시리즈 1차전에서 삼성 구자욱이 추격하는 투런 홈런을 친 장면을 올렸다.",
+  "metrics": {
+    "views": 5293,
+    "likes": 248,
+    "comments": 32
+  },
+  "scores": {
+    "hot": 91,
+    "relevance": 80
+  },
+  "sentiment": "positive",
+  "brief_ko": "구자욱 추격 투런포 영상"
+}

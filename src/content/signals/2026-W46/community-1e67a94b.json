@@ -1,0 +1,23 @@
+{
+  "id": "community-1e67a94b",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 오늘의 경기",
+  "url": "https://blog.naver.com/joojoo-secret/224463481792",
+  "title": "\"10승 투수 둘이나 있는데 갈아엎겠다고?\" 롯데 이동욱 감독, 레이예스는 잡고 외국인 투수는 교체할까",
+  "published_at": "2026-11-03T15:53:00.000+09:00",
+  "collected_at": "2026-11-03T13:38:15.758Z",
+  "summary_ko": "한 블로그는 롯데 이동욱 감독이 레이예스는 붙잡고 외국인 투수는 교체할지를 짚었다. 10승 투수가 둘이라는 점이 변수다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "레이예스 잡고 투수 교체?"
+}

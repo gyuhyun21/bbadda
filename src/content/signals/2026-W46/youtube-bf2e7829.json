@@ -1,0 +1,28 @@
+{
+  "id": "youtube-bf2e7829",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "엔씨노트",
+  "url": "https://www.youtube.com/watch?v=eoY_Gm_A_z0",
+  "title": "마무리캠프를 위해 공항에 도착한 엔씨 선수들✈️",
+  "published_at": "2026-11-03T10:38:56Z",
+  "collected_at": "2026-11-03T13:38:15.758Z",
+  "summary_ko": "NC 공식 채널이 마무리캠프를 위해 공항에 도착한 선수들 모습을 올렸다.",
+  "metrics": {
+    "views": 3170,
+    "likes": 195,
+    "comments": 13
+  },
+  "scores": {
+    "hot": 88,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "NC 마무리캠프 공항 도착 영상"
+}

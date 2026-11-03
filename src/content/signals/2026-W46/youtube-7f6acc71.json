@@ -1,0 +1,27 @@
+{
+  "id": "youtube-7f6acc71",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "kt wiz - 위즈TV",
+  "url": "https://www.youtube.com/watch?v=E2qxMblMoHs",
+  "title": "수원 kt wiz park도 한국시리즈 1차전 준비 완료",
+  "published_at": "2026-11-03T08:33:36Z",
+  "collected_at": "2026-11-03T13:38:15.758Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 7595,
+    "likes": 390,
+    "comments": 23
+  },
+  "scores": {
+    "hot": 93,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

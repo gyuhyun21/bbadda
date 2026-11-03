@@ -1,0 +1,23 @@
+{
+  "id": "news-db040be4",
+  "issue": "2026-W46",
+  "module": "rivalry",
+  "team": "kt",
+  "teams": [
+    "kt",
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "MBC 뉴스",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE03dG5taEppMHFfVVJhLXk5Mm9vaVdmeTZpYWRCaXdvdzZMQWRHQXZUZmJHUXpsR2xrQjJ5Rm45SUtHem42UVAtU2ZtS001U0ZKaFhpMXBKSmZ1RmFpSzBHd0NpUHlJUk5PRTVhY2RWVkxpRXh4M2fSAXZBVV95cUxNZ3FZUkd2Z0MzdWoybEJWSVVSRmlBMXl0bXhYUS1OMjVJcXRvQWZOMXc5MzdCc3RkWTVxZTV6ZE1wMDBMN1pYR1hKNkVhWEpuMXBzc0djSk9vclhaRlVTNjZDS3d2SVZTZWlqbDhIcUxkMTZoNzRB?oc=5",
+  "title": "kt, 삼성 맹추격 따돌리고 한국시리즈 기선 제압",
+  "published_at": "2026-11-03T13:28:00.000Z",
+  "collected_at": "2026-11-03T13:38:15.758Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 80
+  },
+  "sentiment": "neutral"
+}

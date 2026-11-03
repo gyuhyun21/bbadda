@@ -1,0 +1,26 @@
+{
+  "id": "youtube-e5c3038f",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "youtube",
+  "source_name": "야구톡톡",
+  "url": "https://www.youtube.com/watch?v=bbTqEkgFkpg",
+  "title": "\" 2026 한국시리즈 첫홈런은 안현민 \"",
+  "published_at": "2026-11-03T11:00:21Z",
+  "collected_at": "2026-11-03T13:38:15.758Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 3724,
+    "likes": 87,
+    "comments": 5
+  },
+  "scores": {
+    "hot": 69,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

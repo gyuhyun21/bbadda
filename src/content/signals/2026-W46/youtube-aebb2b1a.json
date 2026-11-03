@@ -1,0 +1,44 @@
+{
+  "id": "youtube-aebb2b1a",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "엠엘비 센터 【MLB CENTER】",
+  "url": "https://www.youtube.com/watch?v=wlI0M3VaXV4",
+  "title": "1점차로 추격하는 삼성 [한국시리즈 1차전]",
+  "published_at": "2026-11-03T13:02:01Z",
+  "collected_at": "2026-11-03T13:38:15.758Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 6429,
+    "likes": 231,
+    "comments": 93
+  },
+  "scores": {
+    "hot": 92,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9aSEJ3OEx2RjMyaDVjb0w4bUU5M2FwTkFfMm9Xam1xaW96bk1XM3RZckJuVV9mM09WUHRRTUdydkw3UGZDcGVMSU9lN0JEVjc0X1NTeTJjcnd1SVRqRUJqNjJFU1ZyUjJZb01OMnlrUdIBb0FVX3lxTE9aSEJ3OEx2RjMyaDVjb0w4bUU5M2FwTkFfMm9Xam1xaW96bk1XM3RZckJuVV9mM09WUHRRTUdydkw3UGZDcGVMSU9lN0JEVjc0X1NTeTJjcnd1SVRqRUJqNjJFU1ZyUjJZb01OMnlrUQ?oc=5"
+    },
+    {
+      "source_name": "Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNd2RGbDhyc2tDYnhDTHlZMUtScktVdGMyaTR3dnpvU2lQRXBlZ01jdjVNZ2lmV3RIaWVqbkdKR04yLXo3QVA0LVlFY2RwMnJ2STlkZ3QxOXQ4VU9hdnlxMF8yZXdvWGJrYlhNZ1NvZ194NU5IRFFjaHJrUHMxeFNMalJ0V2ZRNnIy0gGcAUFVX3lxTE51NWJCWTdGN1RTU2otbkhqcmwzYVhyQ2pTYWJQRjFSSlRzZW1KQ09TNzNLd01ia1VfV2JQMHBKQkxRN0dya2xqcU1Yb1AxeTJzd01STEh1cXMxaUtScEswVjNxNlQ4S180UTE3TmhMV2tXOUV4eGZDdmdnR3ZWZGUxS09NMnRjUGtoREUyMnlFdnlmVU03eDdRQ2xLeg?oc=5"
+    },
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWV9DUENEQWp4UnoyZk9SOW5PQlJ1UHliZ0wwdkJVUG9hUWs4Ny1QMlJXLVpHQTZCay1NbkQ3aG56TmIwUmhsR2JERTBzVjlxQTh1X1BqSl83YXJ0NkR2dkJCRFdBZVI2bm4tZmRUOW5DMksxY1h3UUY2alR0N0ZEaG92d2tXOFJz?oc=5"
+    },
+    {
+      "source_name": "스포츠조선",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBxcU5HSFJLbkNwRllUYXVrN1hVYjBMNWktTGMwdHJhTXZHSlNyOUdhOXBSdEtYRlVuV1UwNmJZakktcjBXaklwSUpBWHhXUER2U2MzTzRCZ2p3Wlc0Rm9yOF80NWFtMzFvZ29qb3l5TTJnczRjbUlvem1ybXZQZw?oc=5"
+    }
+  ]
+}

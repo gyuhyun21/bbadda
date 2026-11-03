@@ -1,0 +1,28 @@
+{
+  "id": "news-08f5bfc3",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBjbVNQaGJ1WHI3S3NjcE4zMTlRWVltaVRiQ09PYlcwdGtDU2FTbFlHeXhhWFhaNXJaUl9MTjNsaWQtNkpjbGpkV0drQjFIbVhaNjItcFhFcmJ0VHRhWjhCTF9YWk5SdHJURWdnclZXOFZ5bjNDYVN3aEdSdDd1Zw?oc=5",
+  "title": "'두산→LG→KT' 유니폼은 바뀌어도 김현수는 KS 간다! 가을 통산 최다루타 '단독 1위' 신기록 [KS1 레코드]",
+  "published_at": "2026-11-03T11:19:21.000Z",
+  "collected_at": "2026-11-03T13:38:15.758Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSjZZaTA1b3dBVW93cHFKa3VhblRsTVIydmVpZTljLXNkdExzVHB5RktKT1drUGRtX1lIRDNFaHNSMnpPNGFXVVNOZTBVUEpXNk03eWRJQnlfMzlpWFQtOThWMDVfUGw2TDh2bi1pWW5XakszcHVzTTh3OTM4bUZ6VEVHSQ?oc=5"
+    }
+  ]
+}

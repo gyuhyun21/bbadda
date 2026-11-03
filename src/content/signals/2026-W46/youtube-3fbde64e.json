@@ -1,0 +1,28 @@
+{
+  "id": "youtube-3fbde64e",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "SSG랜더스",
+  "url": "https://www.youtube.com/watch?v=soSWeLJexYc",
+  "title": "오 야르~ 코치님 우리 또 봬요😉 | 김성현 은퇴식 뒤풀이 ep.2",
+  "published_at": "2026-11-03T09:30:06Z",
+  "collected_at": "2026-11-03T13:38:15.758Z",
+  "summary_ko": "SSG랜더스 공식 채널이 김성현 은퇴식 뒤풀이 영상 2편을 올렸다.",
+  "metrics": {
+    "views": 14866,
+    "likes": 624,
+    "comments": 65
+  },
+  "scores": {
+    "hot": 94,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "김성현 은퇴식 뒤풀이 2편"
+}

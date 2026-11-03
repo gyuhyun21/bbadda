@@ -1,0 +1,22 @@
+{
+  "id": "news-a4279be3",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "조선일보",
+  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWTBYNnVMWWxYc2p1N3ZISkpaRzdYeVdGRUFaYlhxUHRFdWZKNGxFR0NJM1BQRWNwY1o4aHoxUkZyanZWNTEzcVJkbW8zSjg0VnMwN3hqQXpGN01XMlFBbGxPa1NQODJ4ZTBocUtycE95ekllWEk2MlJ6eXNqNFc0TkRMVmR0ZE10?oc=5",
+  "title": "[사진]좋은 수비에 박수 보내는 삼성 김태훈",
+  "published_at": "2026-11-03T12:18:00.000Z",
+  "collected_at": "2026-11-03T13:38:15.758Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

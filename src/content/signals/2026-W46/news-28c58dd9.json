@@ -1,0 +1,24 @@
+{
+  "id": "news-28c58dd9",
+  "issue": "2026-W46",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kt"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://www.sportschosun.com/baseball/2026-11-03/202611030100024720002459",
+  "title": "공포의 추격전, '8-0→8-7' 무서웠던 삼성 뒷심, KT 불펜 총력전 천신만고 진땀승, 73.8% 확보[KS1 리뷰]",
+  "published_at": "2026-11-03T13:06:55.000Z",
+  "collected_at": "2026-11-03T13:38:15.758Z",
+  "summary_ko": "삼성은 한국시리즈 1차전에서 0-8로 밀리다 8-7까지 따라붙었지만 한 점이 모자랐다. 스포츠조선은 KT가 불펜을 총동원해 겨우 이겼다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "8-0서 8-7까지 맹추격, 한 점 모자라"
+}

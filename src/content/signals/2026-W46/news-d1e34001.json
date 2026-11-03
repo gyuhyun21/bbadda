@@ -1,0 +1,28 @@
+{
+  "id": "news-d1e34001",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠경향",
+  "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE12ZkRhb2ZWcGpjblUycThxVm5zN3E0SVNSQWh0X291bTI5c3BNSzQwckZ1Q1Q1cVZpNF80NVJDYkZrUkJERThrSUlzYk5QSm55UG1JTEtTTHh6c193aXfSAWNBVV95cUxQRUVrNWF2M0gyaU1telM3VDAyRl9aeGtzTVFsSlNNSWZpTTVTckJuU0tYNTROZDlNWElxSjYtekJ3MUM1WThUTmphZjZGMFh3d1NNVmZ3RzBSYUtFZTlBS2JoNGs?oc=5",
+  "title": "[KS1]삼성 최원태, 플레이오프의 부진이 한국시리즈까지…2이닝 5실점으로 와르르",
+  "published_at": "2026-11-03T10:33:00.000Z",
+  "collected_at": "2026-11-03T13:38:15.758Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 91,
+    "relevance": 80
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBoYmY2dFlJcFpWamN2cFFQN2dfNzByRWxiaWtzcUhJNjllUndoWmwzUlBSbEVKVXc1LWV3WEtOQWY3WVJlQmhhazQzV3kxYTJIdDBWSXE2b3FkNGc2VkxDNmxkY25fd2ljQmYzZVRucmVoR1hyQmc?oc=5"
+    }
+  ]
+}

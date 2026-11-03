@@ -1,0 +1,22 @@
+{
+  "id": "news-99267a00",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "베이비뉴스",
+  "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1yc1pNa2JFSDBibnBldHRuai1xb1lodzZuRjE3TDVCMXA4Nm5OZjhFRDd3SmI3Z081MkRtSTJQaS1UbjlYcVZSMEN1UzU1THFnUEJhX3BCUGFQV0lOMGw1d1llUFkyZ2FnZm1oeA?oc=5",
+  "title": "[장애인뉴스] 발달장애인 6명, 롯데자이언츠 선수들과 일일 바리스타 체험 外",
+  "published_at": "2026-11-03T08:49:14.000Z",
+  "collected_at": "2026-11-03T13:38:15.758Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}
