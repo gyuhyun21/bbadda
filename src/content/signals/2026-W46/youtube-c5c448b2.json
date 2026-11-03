@@ -1,0 +1,26 @@
+{
+  "id": "youtube-c5c448b2",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "youtube",
+  "source_name": "Sira LIFE ",
+  "url": "https://www.youtube.com/watch?v=JS_RcUdqmr4",
+  "title": "가을풍경 사직의 가을 #롯데자이언츠 #사직야구장",
+  "published_at": "2026-11-03T03:26:01Z",
+  "collected_at": "2026-11-03T07:38:12.807Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 26,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 20,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

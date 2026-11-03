@@ -1,0 +1,25 @@
+{
+  "id": "news-98b0c93f",
+  "issue": "2026-W46",
+  "module": "rivalry",
+  "team": "lg",
+  "teams": [
+    "lg",
+    "samsung",
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "데일리안",
+  "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOSm5TNWMzZFVfNmFuUHZsY3RMUHJCMERwR1lQUlJsOWhfakROM0VNY3c3VVcxcHZyc0FyUF9JcGk0QXRodi1IUjNvMnFTLURkWVY2SmxfZHNUM2lDVnRhaE9pMEpQa25ZUHM3aGJrOUpSbjlELVRIZDJ4Z0VQTHVGZjhVdkxUYm1xRGpuWnVRcjViSEZ5Q2xCRUwtZzJkcTIyUmZuZkN3X095MGVFeGJoeTBialEtcHBfc3BDM0RPblBjRF9uTnlDdFFvc3A5Y0FabDk1eHJQeGhZQmdSbXczZFdHMzg5N24ydXVySTJfQmRtc2Z0YkgtbDVqMkZTd3dTMG9lUkFyaG5TRVZIYTdIQ0lwNlg4RDFG?oc=5",
+  "title": "결과가 뻔한 한국시리즈 제도, 개선할 생각은 없나 [최홍섭의 샬롬 살람]",
+  "published_at": "2026-11-02T22:17:00.000Z",
+  "collected_at": "2026-11-03T07:38:12.807Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 97,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

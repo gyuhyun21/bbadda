@@ -1,0 +1,22 @@
+{
+  "id": "news-a1f9592e",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "조선일보",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPc3NLRFpKdWZpSF82UVF5el93WFpXeDFPeHE2OFJFM2IxcUhhMHJMWnFOampkYkRhcDM2UnR6UVBoMzNXSEtfcnJvYzNBVzI2YmJ0N1A1T3BlUnJZZHY1VDNWemRkeE42TUtOWGpFcndqd3VqN2g2SEphczBlQ2xnTTJFZw?oc=5",
+  "title": "'9위→2위' 이끈 매직은 롯데를 떠났다…'홈런 제조기' 이제는 '대표팀' 시간이다",
+  "published_at": "2026-11-03T00:46:00.000Z",
+  "collected_at": "2026-11-03T07:38:12.807Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "youtube-4162da3d",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "엠엘비 센터 【MLB CENTER】",
+  "url": "https://www.youtube.com/watch?v=WNKX15XxCtE",
+  "title": "41살 홀드왕 노경은을 만든 인생 마구",
+  "published_at": "2026-11-03T01:00:30Z",
+  "collected_at": "2026-11-03T07:38:12.807Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 13734,
+    "likes": 374,
+    "comments": 26
+  },
+  "scores": {
+    "hot": 80,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

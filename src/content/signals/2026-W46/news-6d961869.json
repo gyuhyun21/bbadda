@@ -1,0 +1,23 @@
+{
+  "id": "news-6d961869",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "news",
+  "source_name": "미디어펜",
+  "url": "https://www.mediapen.com/newsamp/view/1134599",
+  "title": "\"노시환 3루수로 강력한 파워, 수비는 약해\" 美 현지 평가…곽빈·김도영·김주원·원태인도 MLB행 후보 소개",
+  "published_at": "2026-11-03T00:40:31.000Z",
+  "collected_at": "2026-11-03T07:38:12.807Z",
+  "summary_ko": "미디어펜에 따르면 미국 현지는 노시환을 파워가 강한 3루수지만 수비는 약하다고 평가했다. 곽빈·김도영·김주원·원태인도 MLB행 후보로 소개됐다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "노시환 美평가, 수비는 약해"
+}

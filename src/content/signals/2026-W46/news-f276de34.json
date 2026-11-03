@@ -1,0 +1,23 @@
+{
+  "id": "news-f276de34",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠경향",
+  "url": "https://sports.khan.co.kr/article/202611031405003/amp",
+  "title": "“케이지 8개, 지옥훈련 이번엔 없다” NC 마무리 캠프 돌입, 이호준은 ‘양보다 질’을 말했다",
+  "published_at": "2026-11-03T05:05:00.000Z",
+  "collected_at": "2026-11-03T07:38:12.807Z",
+  "summary_ko": "스포츠경향에 따르면 NC가 마무리캠프에 들어갔고 이호준 감독은 양보다 질을 강조했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "NC 마무리캠프, 양보다 질"
+}

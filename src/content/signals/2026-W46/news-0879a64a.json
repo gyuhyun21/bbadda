@@ -1,0 +1,29 @@
+{
+  "id": "news-0879a64a",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBraHN5LVpRZkhyejluc1R5cVpIR2RRS0ptdnZBTFFsUFVqWHlfdzNQd0p2UjF2V0FjUnUyWHNoQ3IzbDNtdk9QOTNZQ2NZclQtYVFsa3l1dWZTMWFQX1VuVnlrY2ZDb3ZlcXFzOHhTVDlWOVlLNUM0NUIwMS12UQ?oc=5",
+  "title": "'양팁 합쳐 13개' 반지의 제왕끼리 만났다! 이강철-박진만의 MVP '동상이몽', 시선은 같은 곳을 향했다 [SC포커스]",
+  "published_at": "2026-11-03T03:30:46.000Z",
+  "collected_at": "2026-11-03T07:38:12.807Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 83,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSjVVUU93bVc5OHhTZS1ua25sbkJUQUk2eUp1Nk9SSXNraG1Vd3J5cTN4REdWb0tQRUkwSEJ1NUlkZkRIcGZFYTZLem9rN1V4NmRWZzZrUm8wYjl5akJIandFelVKZHN3TXlvRHRpR25CSE0yWi1JeFUzV1NDbW9ickptOA?oc=5"
+    }
+  ]
+}

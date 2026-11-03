@@ -1,0 +1,28 @@
+{
+  "id": "news-575054eb",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "매일경제",
+  "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5uMldrSTRpZEUwX3MzbFJmc3pzVHVjTVh2QnhlYkNXNENjNk9pVDBNM3c4YV9MMkhoMVRsSlVxbnY4MTRUdWc?oc=5",
+  "title": "“작년 가을 모습 다시 보여줬으면”…최원태, PO 아쉬움 털어내고 삼성에 73.8% 확률 안길까 [KS1]",
+  "published_at": "2026-11-02T22:41:00.000Z",
+  "collected_at": "2026-11-03T07:38:12.807Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 97,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "m.mksports.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1jUS1ObVpiRXhxMS1PN1hBcHljNWQ3U2wwQW9nMFV2RzE0QmVNN3ZISy1tOEtzQUh2T004Y2xHTXhnUlVrYXV4LWQ5M3lydXM1RGpPWlpQQ1p6Znd3enlSMmk0eEk?oc=5"
+    }
+  ]
+}

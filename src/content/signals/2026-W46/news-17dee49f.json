@@ -1,0 +1,22 @@
+{
+  "id": "news-17dee49f",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스1",
+  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBJZk9Hc3psQ2I4cUF6ZUN2eDhnSzJ1aVB1RVgwbVFOTk1rR3Q5cktkUGdjUHltOUNLR0pOMFJLNXAzd29YOGNGOEpCWEpjRW5IdDdGZHhXZw?oc=5",
+  "title": "'스마트한 야구' 목표 세운 롯데, 수비 강화 캠프 진행",
+  "published_at": "2026-11-03T06:08:41.000Z",
+  "collected_at": "2026-11-03T07:38:12.807Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

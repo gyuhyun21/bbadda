@@ -1,0 +1,32 @@
+{
+  "id": "news-6ca85db5",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "브릿지경제",
+  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9FRE11ajhEdnRuOEF2TzFNcEJQMEZOa0ZTU0hKeWpDVVN4ME5aN1hDeG92M0RZRGF3OFAtY2l4Uk1ZZ1BxbEFJVUd0SFVhYUtLdUx0bFBNLWU0UQ?oc=5",
+  "title": "롯데, 2027시즌 대비 수비강화캠프… 日 미야자키서 21일간",
+  "published_at": "2026-11-03T04:30:00.000Z",
+  "collected_at": "2026-11-03T07:38:12.807Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 83,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "키즈맘",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5STW5tSXhYMGlheXJBYjVta1dneXRuLU1mRkNWaS1MbFdtNThHM2ZPTkV6TkdlX1hwLTQ3RnVIOVNLVVNydWY0ZDA5bnJpVGotT3ZsVERSQlN2aHdFcHdfcTNrUGo0RjZG?oc=5"
+    },
+    {
+      "source_name": "톱스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE90Ny0wRlBsUkU3UGxXRWEyaDRROWpFNXFtQWNxcWZleUVwRUpvY2lVVXpGYnBjN0FmbmxreU5ZcXFVMkczdkZRbDNncUw2QTQtZGwzaDU4dndjb3JheWo5NWV4Mlg2MGRBUDV4clZOdnlDQQ?oc=5"
+    }
+  ]
+}

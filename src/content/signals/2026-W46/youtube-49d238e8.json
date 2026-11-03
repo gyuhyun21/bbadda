@@ -1,0 +1,26 @@
+{
+  "id": "youtube-49d238e8",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "youtube",
+  "source_name": "응원가 맛집",
+  "url": "https://www.youtube.com/watch?v=d1J6TEqOf1k",
+  "title": "NC 다이노스 손아섭 응원가",
+  "published_at": "2026-11-02T22:00:00Z",
+  "collected_at": "2026-11-03T07:38:12.807Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 6,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 12,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

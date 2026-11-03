@@ -1,0 +1,23 @@
+{
+  "id": "news-fbdacf33",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "news",
+  "source_name": "www.xportsnews.com",
+  "url": "https://www.xportsnews.com/article/2214622",
+  "title": "\"2사 만루 풀카운트 이 포크볼 삼진이야\" 어린왕자 핏대 세웠다…'65점' 메긴 80구 불펜피칭, 최후의 1차 지명 부활할까 [미야자키 현장]",
+  "published_at": "2026-11-03T03:54:41.000Z",
+  "collected_at": "2026-11-03T07:38:12.807Z",
+  "summary_ko": "엑스포츠 보도에 따르면 두산 메긴이 마무리캠프에서 80구 불펜피칭을 했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "메긴 80구 불펜피칭"
+}

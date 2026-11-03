@@ -1,0 +1,23 @@
+{
+  "id": "news-cefd05b0",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스핌",
+  "url": "https://www.newspim.com/news/view/20261103001180",
+  "title": "[KS] '캡틴' 장성우 벤치 대기…KT, 1차전 선발 포수 한승택 낙점",
+  "published_at": "2026-11-03T07:19:00.000Z",
+  "collected_at": "2026-11-03T07:38:12.807Z",
+  "summary_ko": "뉴스핌은 KT가 1차전 선발 포수로 장성우 대신 한승택을 낙점했다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "장성우 벤치, 한승택 선발"
+}

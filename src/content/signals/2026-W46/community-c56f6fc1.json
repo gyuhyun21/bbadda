@@ -1,0 +1,24 @@
+{
+  "id": "community-c56f6fc1",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 오늘 터진 핫 트렌드, 3분 요약",
+  "url": "https://blog.naver.com/shottilg/224463113713",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/457vKlSzv1X",
+  "title": "채태인 7년 만에 롯데 코치 복귀! 영입 배경과 성적 정리",
+  "published_at": "2026-11-03T12:30:00.000+09:00",
+  "collected_at": "2026-11-03T07:38:12.807Z",
+  "summary_ko": "블로그 글은 채태인이 7년 만에 롯데 코치로 복귀한다며 영입 배경과 성적을 정리했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "brief_ko": "채태인, 7년 만에 코치 복귀"
+}

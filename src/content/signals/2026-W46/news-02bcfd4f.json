@@ -1,0 +1,24 @@
+{
+  "id": "news-02bcfd4f",
+  "issue": "2026-W46",
+  "module": "rivalry",
+  "team": "hanwha",
+  "teams": [
+    "hanwha",
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스타뉴스",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB5Yk9YeDRKVjFQdDZVa19WYURKcjZiel9yc0VYWGVRbzN3b1UwcnYzYWtwbDBMNVAyVjlVaExPNUpwSjktZENCaTFfVlJPOGRaWVNDdHQwNzhsQnFoQmlJY0RqU3l0OUJQMzZvWVhpOGd6S3BjTkE?oc=5",
+  "title": "'또' 수비형 FA들 '50억~80억' 초대박 터지나, 307억 타자도 달성한 '이 기록' 관심... 오버페이 논란 뚫고 웃을까 [류선규의 비즈볼]",
+  "published_at": "2026-11-02T22:29:00.000Z",
+  "collected_at": "2026-11-03T07:38:12.807Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 73,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

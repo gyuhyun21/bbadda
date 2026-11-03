@@ -1,0 +1,23 @@
+{
+  "id": "news-e080c9d5",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "news",
+  "source_name": "엑스포츠뉴스",
+  "url": "https://www.xportsnews.com/article/2214507",
+  "title": "한화 대형 트레이드 주인공, 불펜→선발 깜짝 전환 왜?…\"대전 팬 열정 대단, 야구 애정 인생 90% 느껴져\" [미야자키 인터뷰]",
+  "published_at": "2026-11-02T23:57:37.000Z",
+  "collected_at": "2026-11-03T07:38:12.807Z",
+  "summary_ko": "엑스포츠뉴스는 미야자키 캠프에서 한화 대형 트레이드의 주인공이 불펜에서 선발로 전환한 배경을 인터뷰로 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "트레이드 주인공, 선발 전환"
+}

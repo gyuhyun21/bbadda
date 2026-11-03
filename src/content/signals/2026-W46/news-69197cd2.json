@@ -1,0 +1,23 @@
+{
+  "id": "news-69197cd2",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://www.mt.co.kr/amp/sports/2026/11/03/2026110306142846232",
+  "title": "'가을 ERA 7.74' 최원태 믿는 삼성, '수비불가' 구자욱-'타격제한' 강민호 안고 73.8% 확률 챙길까 [KS1 프리뷰]",
+  "published_at": "2026-11-02T22:39:46.000Z",
+  "collected_at": "2026-11-03T07:38:12.807Z",
+  "summary_ko": "머니투데이는 이번 가을 평균자책 7.74를 기록한 최원태가 1차전 선발로 나선다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 89,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "최원태 가을 ERA 7.74"
+}

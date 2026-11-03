@@ -1,0 +1,23 @@
+{
+  "id": "news-979d0a6b",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "news",
+  "source_name": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202611031028152856",
+  "title": "사무국 포스팅 공식 승인 ➔ 4일 밤 협상 시작… KBO 최고 거포, 운명의 30일 돌입",
+  "published_at": "2026-11-03T01:30:25.000Z",
+  "collected_at": "2026-11-03T07:38:12.807Z",
+  "summary_ko": "파이낸셜뉴스는 KBO 사무국이 포스팅을 공식 승인해 4일 밤 협상이 시작된다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "포스팅 승인, 4일 밤 협상"
+}

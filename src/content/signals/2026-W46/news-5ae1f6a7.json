@@ -1,0 +1,25 @@
+{
+  "id": "news-5ae1f6a7",
+  "issue": "2026-W46",
+  "module": "rivalry",
+  "team": "lg",
+  "teams": [
+    "lg",
+    "kia",
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "Nate News",
+  "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE42MFJNdlRjR0xERExUREx4TTVoVGV2OHo3eHZ0Vm9hdW5CRTdkeFdpc0xFOEhuSnd4ODNETUk3SmxjV09seGhqRnVvc0V3VXgtT3BCR25n?oc=5",
+  "title": "스미마셍, 좀 시끄러울게요…도쿄돔 앰프 켜는 APBC 응원단",
+  "published_at": "2026-11-03T03:22:00.000Z",
+  "collected_at": "2026-11-03T07:38:12.807Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 82,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

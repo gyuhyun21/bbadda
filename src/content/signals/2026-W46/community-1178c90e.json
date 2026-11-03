@@ -1,0 +1,24 @@
+{
+  "id": "community-1178c90e",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&page=5&document_srl=10513972654",
+  "title": "그래도 23 25 우승을 해놔서 - 야구",
+  "published_at": "2026-11-03T05:38:12.807Z",
+  "collected_at": "2026-11-03T07:38:12.807Z",
+  "summary_ko": "",
+  "excerpt": "... 트윈스빌딩 LG 2연패는 가능할 수 있는데 맨유는 안된다. 1. [레벨:24] 마인드블라스트 15 분 전.…",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-c66ac547",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "MHN스포츠",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0xYzhWN25Xd1V4aUVuS3pBaGtnc0NZQzROUVVCV2dqaWJSYTlKU1NPbmpNVF9HMWtLcnpnbXp0VnBHT0ZhRjR5Q3REMlBmdWNtOTN4Qm85a3VzZTFNZkg3ZENVMA?oc=5",
+  "title": "'또 수비? 지긋지긋 하다' 노시환 글러브는 보고 말하나…美 언론이 되풀이하는 ‘수비 불안’의 허점",
+  "published_at": "2026-11-03T00:25:08.000Z",
+  "collected_at": "2026-11-03T07:38:12.807Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

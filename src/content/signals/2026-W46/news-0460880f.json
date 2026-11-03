@@ -1,0 +1,25 @@
+{
+  "id": "news-0460880f",
+  "issue": "2026-W46",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kt",
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스타뉴스",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9qRU5DSEQxeko0ckoyU2QzaGZaWkRsUmFuVTRvWXg2ajZWdnVVa1d2X1ZDMEZXN1JENDFMT3l4RDZoQ1BubGVNUW9MSmYweW11WWRNeEg1Y1B0OGFkbjAySVlKQk12UFZYXzBvTm9WTFkwQkNXTnc?oc=5",
+  "title": "이강철은 수원 첫 KS에 감격! \"참 많이 좋아졌다\" 2021시즌 고척서 우승 한 풀었다 [KS1 현장]",
+  "published_at": "2026-11-03T07:27:16.000Z",
+  "collected_at": "2026-11-03T07:38:12.807Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 100,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

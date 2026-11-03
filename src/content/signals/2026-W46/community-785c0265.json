@@ -1,0 +1,24 @@
+{
+  "id": "community-785c0265",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 이슈 한 스푼",
+  "url": "https://blog.naver.com/issue_spoon/224463484637",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/1IQ88isx7zg",
+  "title": "151km 기대주 박지호 투수 근황 및 김세일 부상 회복 전망",
+  "published_at": "2026-11-03T14:31:00.000+09:00",
+  "collected_at": "2026-11-03T07:38:12.807Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "community-3713c461",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 청시블로그",
+  "url": "https://blog.naver.com/wm102/224462228195",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/LQz6Q7GLalE",
+  "title": "“14승 투수가 갑자기 빠진다고?” 한국 야구대표팀에 터진 초대형 악재",
+  "published_at": "2026-11-03T08:05:00.000+09:00",
+  "collected_at": "2026-11-03T07:38:12.807Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

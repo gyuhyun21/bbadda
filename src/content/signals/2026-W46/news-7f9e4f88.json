@@ -1,0 +1,23 @@
+{
+  "id": "news-7f9e4f88",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠경향",
+  "url": "https://sports.khan.co.kr/article/202611031314003/amp",
+  "title": "[스경x인터뷰] “올시즌을 절대 잊지 않겠다”…군대 가는 ‘역대 최연소 마무리’ KIA 정해영 인사드립니다",
+  "published_at": "2026-11-03T04:14:00.000Z",
+  "collected_at": "2026-11-03T07:38:12.807Z",
+  "summary_ko": "스포츠경향은 군대에 가는 KIA 정해영이 올 시즌을 잊지 않겠다고 말한 인터뷰를 실었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "군 입대 앞둔 정해영 인터뷰"
+}

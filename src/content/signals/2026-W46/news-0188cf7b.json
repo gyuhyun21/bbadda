@@ -1,0 +1,29 @@
+{
+  "id": "news-0188cf7b",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1zUnY4VEVpdnFvQnZxS3IwR0lvOEF1SXVFWTI1ZHJWUG5DM2tUU0JudmFnOVh5aENRVW95MndRLXVXWk5famV4OXl6OGFKN2xGR3NrWGhsTnNxc2psNGR1OExNWjZsVEJyT3luOE1kVdIBb0FVX3lxTE1zUnY4VEVpdnFvQnZxS3IwR0lvOEF1SXVFWTI1ZHJWUG5DM2tUU0JudmFnOVh5aENRVW95MndRLXVXWk5famV4OXl6OGFKN2xGR3NrWGhsTnNxc2psNGR1OExNWjZsVEJyT3luOE1kVQ?oc=5",
+  "title": "마무리캠프 이름부터 '수비강화캠프'...'이동욱호' 21일 간 미야자키에서 담금질, 선수단 32명 참가",
+  "published_at": "2026-11-03T04:08:00.000Z",
+  "collected_at": "2026-11-03T07:38:12.807Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBieWJLYlN3QUdFVWtHeU5TcU5LUGo3QjdMTkd2T1lpTVUwTk5YMm40QkRicGZFbzhnX1gwNlhLR0dUajN5NXg0cGVVRGNEWmZreTV5WQ?oc=5"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "community-1b70c2fc",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 GOLDENBEAR",
+  "url": "https://richetraveler.tistory.com/673",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/2S8Ph2Ra3sw",
+  "title": "강민호 한국시리즈 첫 우승 도전, 옆구리 통증에도",
+  "published_at": "2026-11-03T11:54:29.000+09:00",
+  "collected_at": "2026-11-03T07:38:12.807Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

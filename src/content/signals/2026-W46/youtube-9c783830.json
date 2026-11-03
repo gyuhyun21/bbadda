@@ -1,0 +1,27 @@
+{
+  "id": "youtube-9c783830",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "MYKORI",
+  "url": "https://www.youtube.com/watch?v=5zyDjfeizt0",
+  "title": "이순철이 밝히는 한국시리즈 삼성, 승리방법? #삼성라이온즈 #한국시리즈 #이순철",
+  "published_at": "2026-11-03T06:37:06Z",
+  "collected_at": "2026-11-03T07:38:12.807Z",
+  "summary_ko": "MYKORI 채널 영상에서 이순철 해설위원이 한국시리즈 삼성의 승리 방법을 이야기했다.",
+  "metrics": {
+    "views": 3949,
+    "likes": 47,
+    "comments": 3
+  },
+  "scores": {
+    "hot": 59,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "brief_ko": "이순철이 본 삼성 승리법"
+}

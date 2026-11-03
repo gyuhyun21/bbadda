@@ -1,0 +1,28 @@
+{
+  "id": "news-7b979944",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "스타뉴스",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1vSXEyT0YydmhMNmR4bWtIeThVSDI4dnlqcTM2MnhEOWJ2ZnBKa3IyQnp6V083M2k3VmF5MzZHOXk1OEVJbFdLeGszMjJZTkFzeFdKejNuY1E0ZU9lNE1PQ000QnV2SUIzMVVYVGRUeUJLSUhZTFE?oc=5",
+  "title": "'14.3% 언더독 기적'에 당해본 삼성, 기적의 주인공 노린다... 꺼지않는 '불방망이'가 관건 [KS1]",
+  "published_at": "2026-11-03T06:51:40.000Z",
+  "collected_at": "2026-11-03T07:38:12.807Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 92,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA3NnZDVExnMWZJQl9PV3lkVjF4V2lDOUgtYTJJSERTTzRjVzc0UlNXTDdLMURzZFZBaDY1Sm5ROXZBV1JqRDJpTFFoLUpnQTY2MWk4Q1NESmpva2l3R0Npc1NWZEhXVnlTM3fSAW9BVV95cUxPdzJmaU11aXZ3T2oxZ0s3VjlxcklXVFZFQ2xfbGhlQXBkcTRzRER4bkRsZ1FDa0hzMG5STjVVNURzZ2lraFljN05DdWJFVVpVR1ZEdkpNMklidDRKNlN3NmR2YloyazRsVHJodUYwYTQ?oc=5"
+    }
+  ]
+}

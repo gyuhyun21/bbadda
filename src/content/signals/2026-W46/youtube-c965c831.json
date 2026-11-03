@@ -1,0 +1,26 @@
+{
+  "id": "youtube-c965c831",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "youtube",
+  "source_name": "박이컨",
+  "url": "https://www.youtube.com/watch?v=2o_khXqdL90",
+  "title": "출처 새이에딧이 만드러드린 LG 트윈스 (고맙닷... 친구여..)",
+  "published_at": "2026-11-03T06:32:27Z",
+  "collected_at": "2026-11-03T07:38:12.807Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 301,
+    "likes": 2,
+    "comments": 2
+  },
+  "scores": {
+    "hot": 44,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

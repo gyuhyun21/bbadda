@@ -1,0 +1,23 @@
+{
+  "id": "news-5a665120",
+  "issue": "2026-W46",
+  "module": "rivalry",
+  "team": "kt",
+  "teams": [
+    "kt",
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스1",
+  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE44eGJhRndWRi1palN3NU52THg4eURiMkxyUFVlUG1uU2x4N1J5bGlOaDJ3SHRPczFPNnMwTDZjM0ZETzc4RElQX3NwU0phSWJhbFBOazAtOA?oc=5",
+  "title": "'통합 우승' KT vs '12년 만에 정상' 삼성, 73.8% 확률 잡을 팀은[KS]",
+  "published_at": "2026-11-02T21:30:00.000Z",
+  "collected_at": "2026-11-03T07:38:12.807Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 72,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "community-ba7cb274",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kt"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 SSS LAB｜생활정보·디지털 가이드",
+  "url": "https://blog.naver.com/sss-songlab/224463468882",
+  "title": "2026 한국시리즈 1차전 삼성 vs KT｜11월 3일 선발투수·경기시간·중계",
+  "published_at": "2026-11-03T14:31:00.000+09:00",
+  "collected_at": "2026-11-03T07:38:12.807Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}
