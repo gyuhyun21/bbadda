@@ -1,0 +1,27 @@
+{
+  "id": "youtube-f622eece",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kt"
+  ],
+  "source_type": "youtube",
+  "source_name": "DKTV Daniel",
+  "url": "https://www.youtube.com/watch?v=eLRvdiLw_Oo",
+  "title": "KS 1차전! | 삼성 라이온즈 vs KT 위즈 | 최원태, 대니얼 선발 | 5번 최형우, 6번 김영웅 출격 | 최원준 리드오프, 힐리어드 클린업 | 한국시리즈 상상 입중계",
+  "published_at": "2026-11-03T16:37:02Z",
+  "collected_at": "2026-11-03T21:39:05.091Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 25057,
+    "likes": 184,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 56,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

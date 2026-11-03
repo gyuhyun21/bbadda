@@ -1,0 +1,26 @@
+{
+  "id": "youtube-e4a35c9a",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "youtube",
+  "source_name": "스포츠코리아",
+  "url": "https://www.youtube.com/watch?v=3c8WiMO9CPQ",
+  "title": "KT 8-7 진땀승, 73.8% 우승 확률 잡았다 #쇼츠",
+  "published_at": "2026-11-03T21:00:51Z",
+  "collected_at": "2026-11-03T21:39:05.091Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 241,
+    "likes": 2,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 37,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

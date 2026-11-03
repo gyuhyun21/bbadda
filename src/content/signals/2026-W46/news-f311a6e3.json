@@ -1,0 +1,23 @@
+{
+  "id": "news-f311a6e3",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "미주중앙일보",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9VOXEyZVZVWV9vc1VFVnRZdm1mNWJtZFJNdXBQWEZCS2Jqbno3aXp4MlplcUJGSmt4eFlCdUdVQmQ0MjFxM0lPNlhBS0VoNGR1eGlES0Q4T05DMlMwSEFETVV3?oc=5",
+  "title": "‘PO 치명적 수비 아쉬움에도…’ 국민 유격수는 흔들리지 않았다, 김영웅 멀티히트 포함 3출루 펄펄 날았다 [KS1]",
+  "published_at": "2026-11-03T18:35:00.000Z",
+  "collected_at": "2026-11-03T21:39:05.091Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

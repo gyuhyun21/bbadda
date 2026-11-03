@@ -1,0 +1,27 @@
+{
+  "id": "youtube-d5a30dac",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "스포츠인포팡",
+  "url": "https://www.youtube.com/watch?v=-BzntfSB3Xw",
+  "title": "한국시리즈1차전 8대0이 8대7로… 경기를 망칠 뻔한 투수의 마지막 선택",
+  "published_at": "2026-11-03T21:00:09Z",
+  "collected_at": "2026-11-03T21:39:05.091Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 387,
+    "likes": 1,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 32,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

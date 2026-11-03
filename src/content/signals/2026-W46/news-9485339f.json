@@ -1,0 +1,30 @@
+{
+  "id": "news-9485339f",
+  "issue": "2026-W46",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스타뉴스",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBjRUl6MmJ1a2tXSGxxZVhWREN1ODdtajhod0otUVJPR200Z0JhN3ROR2Q2azBGRDhjUnN0YjRjQ3d1dDIwSERSaXduWGdXVlJmRHhyVHlJZnNGUm1qM3hHR01ndUlzNWM0TXJMWklFQlQwd0wwYlE?oc=5",
+  "title": "\"감독님이 설득해서라도 나갈래요\" 손가락 다친 김현수 부상 투혼, 38세 KS MVP는 '왜' 절박했나 [KS1 현장]",
+  "published_at": "2026-11-03T16:11:00.000Z",
+  "collected_at": "2026-11-03T21:39:05.091Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 98,
+    "relevance": 70
+  },
+  "sentiment": "mixed",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBILWU3LWI3YzdxWXNMTjg2U3BVcGNiRDBhT1RfdXZDNW9sYzdVSHVBaFdrZFpzYXliZ3ZsYVM3SVUyM2dfRmRReTJRQ2tYZDJMRXYyZHV4OTVRRzNHMGx6T0Vjc0FXUUlRc2fSAW9BVV95cUxPeUs2VHBrOXFUMG1URjBhZU1OMHdUS3MxWnJzZVpXaVpaR3BfVTBzbEhRSWc2VHdTOWVtUktQZkFPM0dNcnk4RzRJU1paaEF0aWFiV2pVWUxfVGhaLWFELTFPX1lMRGZOQzh5MmJob0k?oc=5"
+    }
+  ]
+}

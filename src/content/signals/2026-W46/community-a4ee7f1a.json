@@ -1,0 +1,23 @@
+{
+  "id": "community-a4ee7f1a",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 SPOTLIGHT",
+  "url": "https://blog.naver.com/agentwannabe/224464106335",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/CgmvEHIrLxr",
+  "title": "‘암흑기 LG의 주전 1루수’ 원클럽맨은 아니지만 LG에서만 19시즌을 활약한, LG 최동수(KBO)",
+  "published_at": "2026-11-04T00:40:00.000+09:00",
+  "collected_at": "2026-11-03T21:39:05.091Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

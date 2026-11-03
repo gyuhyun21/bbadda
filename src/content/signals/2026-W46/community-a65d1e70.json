@@ -1,0 +1,23 @@
+{
+  "id": "community-a65d1e70",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 지금까지",
+  "url": "https://blog.naver.com/elwjtmxm/224464135407",
+  "title": "\"개인 카메라였다\" 계약결혼 32기 영수 국화 촬영 해명 논란",
+  "published_at": "2026-11-04T02:33:00.000+09:00",
+  "collected_at": "2026-11-03T21:39:05.091Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

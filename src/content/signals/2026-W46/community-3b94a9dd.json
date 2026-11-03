@@ -1,0 +1,23 @@
+{
+  "id": "community-3b94a9dd",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 풀카운트 90분",
+  "url": "https://blog.naver.com/jaydenstory/224464127373",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/FAkLesFU7PJ",
+  "title": "\"불펜 9위서 3위 반등\" KIA 실점 70점 줄이고도 블론세이브 22개 터진 진짜 배경은? 정해영 상무 입대로...",
+  "published_at": "2026-11-04T01:49:00.000+09:00",
+  "collected_at": "2026-11-03T21:39:05.091Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

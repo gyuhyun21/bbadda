@@ -1,0 +1,22 @@
+{
+  "id": "news-cf4dcbfd",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "네이트",
+  "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1ZX2o0SkViMDZ1NFZCZVNFLXlPN1Y5LV9pTkU1RldqXzg1dXB6SGJPOEoyY2gtNnhYRXZxM2NmMjIyaXM0Vll1UkRSZ1c?oc=5",
+  "title": "경섭 무적엘지 트윈스 박해민 오오오오오 박해민 날려버려 박해민 엘지는 이제 잠실야구장 고별전입니다 네",
+  "published_at": "2026-11-03T10:56:27.000Z",
+  "collected_at": "2026-11-03T21:39:05.091Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

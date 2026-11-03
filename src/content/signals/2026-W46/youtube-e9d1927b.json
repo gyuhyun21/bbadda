@@ -1,0 +1,27 @@
+{
+  "id": "youtube-e9d1927b",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kt"
+  ],
+  "source_type": "youtube",
+  "source_name": "엘린이의 일기",
+  "url": "https://www.youtube.com/watch?v=D3J1k0pLzlc",
+  "title": "더도 말고 덜도 말고 오늘만 같은 KS가 되어라(^^) ㅣ 261103 삼성 vs KT (KS1)",
+  "published_at": "2026-11-03T14:38:28Z",
+  "collected_at": "2026-11-03T21:39:05.091Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 2211,
+    "likes": 50,
+    "comments": 16
+  },
+  "scores": {
+    "hot": 62,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

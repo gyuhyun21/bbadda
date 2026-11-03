@@ -1,0 +1,22 @@
+{
+  "id": "news-39c6ae91",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스핌",
+  "url": "https://www.newspim.com/news/view/20261103001417",
+  "title": "[KS1] 5경기 만에 출전해 2안타 폭발...김성윤, 삼성의 새 '키맨' 될까",
+  "published_at": "2026-11-03T20:52:00.000Z",
+  "collected_at": "2026-11-03T21:39:05.091Z",
+  "summary_ko": "뉴스핌은 삼성 김성윤이 5경기 만에 출전한 KS 1차전에서 2안타를 기록했다고 전했다. 새로운 키맨이 될지 주목했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

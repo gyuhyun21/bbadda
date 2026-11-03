@@ -1,0 +1,30 @@
+{
+  "id": "news-c0eee72d",
+  "issue": "2026-W46",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스타뉴스",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9TMUZIMXdxTFhuSUVUb29BMXpUTFNiRDdtUENsSHJQQUEyR3pjTENOVTczRVVTRF9XejBjQW1vdDRvOWppU2t2aGEtOW5kV3pyUzNEWDg4U0c4N0MxNXFkREY4QlZxYjQ2Mzh2WW1xR0NqUncwckE?oc=5",
+  "title": "보법이 다른 이강철, KS 독한 야구 선언! \"박영현은 많이 던져야 해→타고난 운명이야\"",
+  "published_at": "2026-11-03T20:25:00.000Z",
+  "collected_at": "2026-11-03T21:39:05.091Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 100,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1FLXVOUVZRNFdTcWF5X2x2M2hWSGM0dHhQbDJoM0hIWk4yM2UzTDdnNlZaR3BrNGRNSFJTQlBUS0JyN0l1Ti1tU1k0WkVPVmZJVGxaRkcyelhHN2VWZGpOc3AxWlBEWmpTVmfSAW9BVV95cUxPQjNpNW9ncVk4SERrY0Q3QmMybEhBdnRPS0Y2bXZwOGlaQUM1Q3I1Ukk1QWloU3E3UXpudGVYR0dVOU1sSldMQ3M5YWxQVUNWaU04Qlg5RWFtRnYxMDVqUFA2T21UYlk1TmVJUFlKQWM?oc=5"
+    }
+  ]
+}

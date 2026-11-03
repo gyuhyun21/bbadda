@@ -1,0 +1,22 @@
+{
+  "id": "news-b1079ba8",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "news",
+  "source_name": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20261103_0003853569",
+  "title": "KT 힐리어드, 공·수·주 맹활약으로 승리 선봉…\"팬들 응원에 전율\"[KS]",
+  "published_at": "2026-11-03T14:56:17.000Z",
+  "collected_at": "2026-11-03T21:39:05.091Z",
+  "summary_ko": "뉴시스에 따르면 KT 힐리어드가 KS 1차전에서 공·수·주 모두 활약하며 승리에 앞장섰다. 팬들의 응원에 전율을 느꼈다고 말했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

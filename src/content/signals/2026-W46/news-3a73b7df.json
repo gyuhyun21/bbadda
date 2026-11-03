@@ -1,0 +1,22 @@
+{
+  "id": "news-3a73b7df",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "FT스포츠",
+  "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5wZnpQelF5akE4TWduQWhfTVdlTm43Nkh4cTg4R3ZSUVB3blBOMXNodER3Q3o2UTlwN2VyN2lDVm1MUklJX1luVC1XNHNTQzhmWXA1SVV2LVNHdXVyazBHQjUtM2NFdw?oc=5",
+  "title": "KBO 명예회복 실패한 삼성 최원태… 연속 부진 속 2이닝 5실점 강판",
+  "published_at": "2026-11-03T17:07:58.000Z",
+  "collected_at": "2026-11-03T21:39:05.091Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 80
+  },
+  "sentiment": "neutral"
+}

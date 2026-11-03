@@ -1,0 +1,38 @@
+{
+  "id": "community-b21dd263",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt",
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 dambau",
+  "url": "https://dambau6210.tistory.com/5104",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/CuXpgsKnOm8",
+  "title": "'8-0→8-7' KT, 삼성에 진땀승…우승 확률 73.8%",
+  "published_at": "2026-11-04T03:30:17.000+09:00",
+  "collected_at": "2026-11-03T21:39:05.091Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 99,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "경기신문",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9kbHAwMkVxX2hMZzFqOVc0anJIekpRbDJsNkYtVEVVdjQ4TDZQMTNTdG5BQzZpRkxDQnV1RjdpZVp2WkRHc001UjBGaldvWFAtWmJBQVZrSzdtZ1ZDYXkxVHpR?oc=5"
+    },
+    {
+      "source_name": "경인일보",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE85cmxyNVNOSE94bXA2VzRaWmpDQmdtaXJyM05adXU1OUl4WlYxWC0zWC02MzBaemJiZDNjd1pyWnpzLU5LSkhaeG1ER0p3bFVHY1E?oc=5"
+    },
+    {
+      "source_name": "일간스포츠",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9wQ0x1VUcyYkVTN09CUHhoVWg2cndka1ktSUhkVjFOWFVydXZzbFZpMnQweXZfdGx0ZUFnRDJGUkprbTlBQk1UbEF4QTltaG1mSkV3UE5sVWMzLWdpbU1hM1R3?oc=5"
+    }
+  ]
+}

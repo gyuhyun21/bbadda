@@ -1,0 +1,27 @@
+{
+  "id": "youtube-3a772600",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "youtube",
+  "source_name": "MBCNEWS",
+  "url": "https://www.youtube.com/watch?v=8F9SFkP2bH8",
+  "title": "'투타 겸업 준비 시작' 키움 하현승‥\"신인왕은 내 것!\" (2026.11.03/뉴스데스크/MBC)",
+  "published_at": "2026-11-03T12:03:51Z",
+  "collected_at": "2026-11-03T21:39:05.091Z",
+  "summary_ko": "MBC 뉴스데스크는 키움 신인 하현승이 투타 겸업 준비를 시작했다고 전했다. 하현승은 신인왕은 내 것이라고 말했다.",
+  "metrics": {
+    "views": 19232,
+    "likes": 46,
+    "comments": 25
+  },
+  "scores": {
+    "hot": 52,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "하현승, 투타 겸업 준비 시작"
+}

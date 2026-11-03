@@ -1,0 +1,24 @@
+{
+  "id": "community-fd8e65bd",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 꼼꼼하지못한 아빠의 꼼꼼한 생활",
+  "url": "https://blog.naver.com/wldnd0231/224462789107",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/2tszCJ3vbme",
+  "title": "2026 KBO 한국시리즈 안내 리포트 누가 우승할까!?",
+  "published_at": "2026-11-03T15:13:00.000+09:00",
+  "collected_at": "2026-11-03T21:39:05.091Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 62,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

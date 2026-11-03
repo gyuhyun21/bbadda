@@ -1,0 +1,24 @@
+{
+  "id": "community-c96a57a3",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 스포츠 이슈 센터",
+  "url": "https://blog.naver.com/sport_issue_center2/224463804953",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/DMU5GMIt4e",
+  "title": "'샐러리캡이 끝내 걸림돌일까?' MLB 락아웃 위기, 이정후 2027년 연봉의 변수",
+  "published_at": "2026-11-03T19:41:00.000+09:00",
+  "collected_at": "2026-11-03T21:39:05.091Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

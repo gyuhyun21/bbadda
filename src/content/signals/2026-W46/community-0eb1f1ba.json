@@ -1,0 +1,24 @@
+{
+  "id": "community-0eb1f1ba",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 송봉길의 멘탈트레이닝",
+  "url": "https://blog.naver.com/bonggil0829/224464128459",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/EWP4txGXO7Q",
+  "title": "[프로야구/NPB] DeNA 모리 선수, 콜롬비아에서 [긍정 사고] 습득 예고",
+  "published_at": "2026-11-04T01:02:00.000+09:00",
+  "collected_at": "2026-11-03T21:39:05.091Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

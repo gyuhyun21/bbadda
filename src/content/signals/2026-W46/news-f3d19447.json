@@ -1,0 +1,36 @@
+{
+  "id": "news-f3d19447",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1sbk96TmphR1N1SEJRbUFaSHdyLVY4TGhOR0xmVmxwR19RbFVkUHk4b0xIbHZoMTUtVEIxOFB6dWExcmUzbDZobEZPX0tiWmFKY1FPZEdfcVlGc0V5LWEtVlIzckNUZldrV09yRThWRdIBb0FVX3lxTE1sbk96TmphR1N1SEJRbUFaSHdyLVY4TGhOR0xmVmxwR19RbFVkUHk4b0xIbHZoMTUtVEIxOFB6dWExcmUzbDZobEZPX0tiWmFKY1FPZEdfcVlGc0V5LWEtVlIzckNUZldrV09yRThWRQ?oc=5",
+  "title": "[사진]한국시리즈 1차전 데일리 MVP 거머쥔 KT 힐리어드",
+  "published_at": "2026-11-03T13:26:00.000Z",
+  "collected_at": "2026-11-03T21:39:05.091Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 89,
+    "relevance": 80
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbXpVSTZGcWg5T0w3dlNpX3NxTE92Z3ZtbWltNXl1NXVPME9FdTZHYnBGbHF5TDh3UUlHZHVQelplZGpXX0ZQcjJ6al8xdU9ReTMzcWxWRVlHNXlzMEY2VnZuRDFXZjhNanVYV2NFZWZ5TGlsc2xxRzBBc2xHRDRlSjhJeVhUTXFF?oc=5"
+    },
+    {
+      "source_name": "Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOGpwb1lWMzFTTm12SmpSTXFSNmU0czI1MzZ2Qk9FQXBQclZrdVNuRXlUZVhRZXZ6blNiNnYxbUFpR0N4S3JhekVTc1REYm5yYVZ2Y3hjNEFtMDNucGZ6NU1ITGZSZVotQTBVeVVYaVBlVGJuOThxN3pFZVdqdXVpd214RW12TkVC0gGcAUFVX3lxTFA0cGZ1YXU4ODdHVzBlWFhPZ2FnczJzazg1RDU1WWFrcWdzTGtqZ1RoM3FVQW1fUW5kd2hxSEV4S3Nub3dMUHlJOFJuZFctRzFPWHIwTDJSN0JGbjZRTzVQUi1Lc0gxaXpuYm1XRnpZLXdjT1AxUlNUTXlrNHkybDA4aUZENEtYejVUNmlZTVZiZEh2eG9rT3E1SnJjag?oc=5"
+    },
+    {
+      "source_name": "스포츠타임스",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1LZkU1VWtOcjF3U2x6V0Z0azFwbVkyaFNlTWhPOVF3d3NnZHRyd3Via01RQV9QMVU0LXVqVTRXVzRuMWFPb20tZ055R2lMNmFSRGlyMGRtZ2VkNlU3MjhlOUU4WUJFS3ZEd0xub0hKbXh3Y2cwcHc?oc=5"
+    }
+  ]
+}

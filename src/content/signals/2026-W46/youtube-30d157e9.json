@@ -1,0 +1,26 @@
+{
+  "id": "youtube-30d157e9",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "크보학개론",
+  "url": "https://www.youtube.com/watch?v=YK9FwYaYT2E",
+  "title": "가장 중요할 때만 터지는 홈런 #김도영 #기아타이거즈 #kbo",
+  "published_at": "2026-11-03T14:28:27Z",
+  "collected_at": "2026-11-03T21:39:05.091Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 290,
+    "likes": 3,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 36,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

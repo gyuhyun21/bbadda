@@ -1,0 +1,23 @@
+{
+  "id": "news-62b6e4f0",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBkaFMzR1I0SjNjWFNqTFZBUmYwclU5RUwxSUV1dGdnVVc0ZV9oWV8waU4xTTluaUE1aXNTdTlXT2lvTW83NDc0VXUzZ0ozU1BvRzlrMDNvLWVmZVhhMjRsZFBQd3BwTGludU1lLVhfNNIBb0FVX3lxTFBkaFMzR1I0SjNjWFNqTFZBUmYwclU5RUwxSUV1dGdnVVc0ZV9oWV8waU4xTTluaUE1aXNTdTlXT2lvTW83NDc0VXUzZ0ozU1BvRzlrMDNvLWVmZVhhMjRsZFBQd3BwTGludU1lLVhfNA?oc=5",
+  "title": "'수비 강화 천명' 이동욱호 32명 대규모 마캠인데, 주전 포수-국대 우익수는 왜 명단에 없나",
+  "published_at": "2026-11-03T15:11:00.000Z",
+  "collected_at": "2026-11-03T21:39:05.091Z",
+  "summary_ko": "머니투데이는 롯데가 32명 규모로 수비 강화 마무리캠프를 꾸렸다고 전했다. 주전 포수와 국가대표 우익수가 명단에 없는 이유를 짚었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

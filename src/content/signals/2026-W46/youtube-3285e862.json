@@ -1,0 +1,28 @@
+{
+  "id": "youtube-3285e862",
+  "issue": "2026-W46",
+  "module": "league",
+  "teams": [
+    "samsung",
+    "kt"
+  ],
+  "team": "samsung",
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=xAJKm7XS8Lc",
+  "title": "[삼성라이온즈 vs KT위즈] 11.03(화) KS 1차전 하이라이트｜2026 신한 SOL KBO 포스트시즌｜한국시리즈 1차전｜KBO X TVING",
+  "published_at": "2026-11-03T13:56:04Z",
+  "collected_at": "2026-11-03T21:39:05.091Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 110387,
+    "likes": 766,
+    "comments": 230
+  },
+  "scores": {
+    "hot": 65,
+    "relevance": 80
+  },
+  "sentiment": "neutral"
+}

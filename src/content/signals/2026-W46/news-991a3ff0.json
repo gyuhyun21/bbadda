@@ -1,0 +1,29 @@
+{
+  "id": "news-991a3ff0",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "미주중앙일보",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBJemxDSUpOZkJGZFppRWJNTTNTVG85V2FrQ3JpWlFDUmhJZFRzcXhJLXlSNFpYdmFEVXRMR2FNQm5kSU9rdG9pU0xNVDVZYkNScWxDZWdGZ2dHRkFHZzB1TTR3?oc=5",
+  "title": "0-8→7-8 추격전 \"졌지만 소득 있었다\" 박진만 감독의 긍정 평가…최원태 선발 기용은 재검토 [KS1]",
+  "published_at": "2026-11-03T13:37:00.000Z",
+  "collected_at": "2026-11-03T21:39:05.091Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 73,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "스포츠월드",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBHYkF0cnR6RUVsQXN2UmQ5OHJncG9FclBwU0pkQnBFay1mU2V6NU1ESmJDZThld2tvdERpY0gwNTNWSkc1LV95QU9VcXpfZ3ZnUWwzZFlNdzc0YjJYQlBYVDFB?oc=5"
+    }
+  ]
+}

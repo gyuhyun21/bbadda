@@ -1,0 +1,23 @@
+{
+  "id": "community-607bc5c4",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 스포츠 인사이트",
+  "url": "https://blog.naver.com/base-goal/224464077283",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/FuW1qSd504A",
+  "title": "\"한국에선 쉬는데 대만서 4억대 대우?” 22세 이주은, LG 복귀보다 현지가 더 커진 이유",
+  "published_at": "2026-11-04T00:00:00.000+09:00",
+  "collected_at": "2026-11-03T21:39:05.091Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

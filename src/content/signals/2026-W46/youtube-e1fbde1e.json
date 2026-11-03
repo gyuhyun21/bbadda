@@ -1,0 +1,26 @@
+{
+  "id": "youtube-e1fbde1e",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "youtube",
+  "source_name": "박주홍은터진다",
+  "url": "https://www.youtube.com/watch?v=Fdb_i0VsG_I",
+  "title": "1판정 8타점 사건 #오심 #키움히어로즈",
+  "published_at": "2026-11-03T16:52:25Z",
+  "collected_at": "2026-11-03T21:39:05.091Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1036,
+    "likes": 0,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 35,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

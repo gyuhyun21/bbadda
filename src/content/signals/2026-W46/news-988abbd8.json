@@ -1,0 +1,22 @@
+{
+  "id": "news-988abbd8",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스1",
+  "url": "https://www.news1.kr/sports/baseball/6342039",
+  "title": "'가을야구 데뷔전부터 펄펄' 안현민, KT 우승 도전의 새 해결사[KS]",
+  "published_at": "2026-11-03T21:15:00.000Z",
+  "collected_at": "2026-11-03T21:39:05.091Z",
+  "summary_ko": "뉴스1은 안현민이 가을야구 데뷔전인 KS 1차전부터 활약했다고 전했다. KT의 새 해결사로 평가했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

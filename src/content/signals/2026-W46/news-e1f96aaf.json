@@ -1,0 +1,25 @@
+{
+  "id": "news-e1f96aaf",
+  "issue": "2026-W46",
+  "module": "league",
+  "teams": [],
+  "source_type": "news",
+  "source_name": "경인일보",
+  "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5WSFhZRHN1d1kwU3RaWkRNNlNLaGlhMHRrYS1BZEl4N2g5bXh6NW5nV2dtZHNfa1NaVzZlZ2lTczcxQzBDTzJ1cHlkOUxHQ1F5N2c?oc=5",
+  "title": "[화보] 한국시리즈 1차전 개막… 뜨거운 열기",
+  "published_at": "2026-11-03T10:32:26.000Z",
+  "collected_at": "2026-11-03T21:39:05.091Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 72,
+    "relevance": 30
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9INHdVVkNzRFVSVkNpTThhcWFpMzdMbHd0aUJNc0huemNnOHJkemkxdEp5RG9QdmxuOXI0THhZMnVrdVpCNVJFY2FzT0w5TUx5dlRwSTAzcnZaeEp2WjZiedIBYEFVX3lxTE9INHdVVkNzRFVSVkNpTThhcWFpMzdMbHd0aUJNc0huemNnOHJkemkxdEp5RG9QdmxuOXI0THhZMnVrdVpCNVJFY2FzT0w5TUx5dlRwSTAzcnZaeEp2WjZieQ?oc=5"
+    }
+  ]
+}

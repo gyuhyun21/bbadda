@@ -230,7 +230,12 @@ rounds:
           - "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ZYnZRZUxfS2d4UFVKV3JJVGZhaXpSemdCb090MHhXMFhha0c2OVBMRVBKMzFsa09ISmZubDRQSWx3aTVCRnR6algyaDFYUTY0UFVZVGZveXFuVDNBSVhKYnRVU3BoZFViaDI2OThpSdIBb0FVX3lxTE5ZYnZRZUxfS2d4UFVKV3JJVGZhaXpSemdCb090MHhXMFhha0c2OVBMRVBKMzFsa09ISmZubDRQSWx3aTVCRnR6algyaDFYUTY0UFVZVGZveXFuVDNBSVhKYnRVU3BoZFViaDI2OThpSQ?oc=5" # 최원태 가을 ERA 7.74(머니투데이)
           - "https://news.google.com/rss/articles/CBMigwFBVV95cUxNLUdjZnY1LUVBU1RnVGNVVHFxRVJMZGI2djYwTWpvSHRGUEFlTFNoQ1hsaHJEYUVCMnBJSkxlNGxJVm9kakthRllDZ090dXFybmprSVFyZF9lWHFmdmMyVllvSGY4UnJvMHZRR3VFejFncUJuTnpncVJ0clBaNTlUZ2ZOOA?oc=5" # 1차전 선발 대니엘 vs 최원태(조선일보)
           - "https://news.google.com/rss/articles/CBMicEFVX3lxTE5xYWhKTGNOeHhweU5XY0pLZDdMVlVYdVBUcFhKaV9CVUt0Y0VDckR6bVQ3SkVKOFI2Tl9CNVplc1l0MHgwNGo2VGJHUGQ4ZGliWjZZbDdBdHRpZG5wNlpFYVdJMTNpZDVrMzZueFMtbFnSAXRBVV95cUxOM21QWnFkVGJtamFuc0hFNTZFS0dCVE5OSGxHX0lSNUk2NWlVWXd4eDRyLURYdjZiZllPa3dFeDEwMGdpNWhuQ3EySG9lMmxnZ19IR1VLYWZ3ekF3c3EwcWNoVzJLaGdrREF2VERVVDVJLVN6Qw?oc=5" # 1차전 선발 발표(스포츠한국)
-      - { no: 2, date: 2026-11-04, venue: 수원 }
+      - no: 2
+        date: 2026-11-04
+        venue: 수원
+        starters: { kt: 고영표, samsung: 페덱 } # 예고 선발(뉴시스 'KT 대들보 고영표 vs 삼성 에이스 페덱, KS 2차전 선발 격돌')
+        sources:
+          - "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1EQU90US1lZmZJR3hsQzB0TjQzVGFaenpsRjdVYjAzdExmYzNodlJ0QXZIN2t0WVBoSWktMWlZeHEzbmpuYV83enJlcmNnY1g1M09YZUo4cHpqYzFaNjBlRdIBeEFVX3lxTE10SXBINy1PYWVNRlhxbjdEdkFqSFdRZXQ0SmhncFU5Uk9UZ3RzOWNMZVRReFNIWkZQV1JyNmE1djBwYmFSS2F1R2ZSdXdyZ1BBRjRINFZfYUxmUTgwV29rbFZnVVJSNzdpd0M5MWZiWHZYUERKRG5Lcw?oc=5" # KS2 예고 선발(뉴시스)
       - { no: 3, date: 2026-11-06, venue: { home_of: po } }
       - { no: 4, date: 2026-11-07, venue: { home_of: po } }
       - { no: 5, date: 2026-11-08, venue: { home_of: po } }

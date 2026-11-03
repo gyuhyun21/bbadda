@@ -1,0 +1,26 @@
+{
+  "id": "youtube-acb7c3fb",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "youtube",
+  "source_name": "은거누 GUNOOO",
+  "url": "https://www.youtube.com/watch?v=z2JzGQDltEo",
+  "title": "2026 LG 트윈스 명장면 TOP 3",
+  "published_at": "2026-11-03T16:16:46Z",
+  "collected_at": "2026-11-03T21:39:05.091Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1,
+    "likes": 0,
+    "comments": 2
+  },
+  "scores": {
+    "hot": 43,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "community-50913e2f",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 잉G",
+  "url": "https://blog.naver.com/010_g/224463965333",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/KU46h8KOo8G",
+  "title": "고척스카이돔 야구장 207구역 시야 시구 발권 먹거리",
+  "published_at": "2026-11-03T22:27:00.000+09:00",
+  "collected_at": "2026-11-03T21:39:05.091Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

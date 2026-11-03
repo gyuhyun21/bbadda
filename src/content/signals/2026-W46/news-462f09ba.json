@@ -1,0 +1,23 @@
+{
+  "id": "news-462f09ba",
+  "issue": "2026-W46",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kt"
+  ],
+  "source_type": "news",
+  "source_name": "뉴시스",
+  "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4tMUNsRjY0SHkxMzBZdG9CUzlGNk9LcDVJR1J0ZWdVa1YzYmxvejJtdWpNY2tNNGcwLXcwRUxLdXZUU05JLWRLT3Z5Vy0yTFlnZkJ0aUp5aEE3Nm4tYUlxU3NVV0dQamdnYmZ3aVBGQUhzSU5QQ2VTdtIBeEFVX3lxTE4tMUNsRjY0SHkxMzBZdG9CUzlGNk9LcDVJR1J0ZWdVa1YzYmxvejJtdWpNY2tNNGcwLXcwRUxLdXZUU05JLWRLT3Z5Vy0yTFlnZkJ0aUp5aEE3Nm4tYUlxU3NVV0dQamdnYmZ3aVBGQUhzSU5QQ2VTdg?oc=5",
+  "title": "삼성 박진만 감독 \"KT가 유리하지만 기세는 우리가 우위\"[KS]",
+  "published_at": "2026-11-03T08:49:44.000Z",
+  "collected_at": "2026-11-03T21:39:05.091Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 71,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}
