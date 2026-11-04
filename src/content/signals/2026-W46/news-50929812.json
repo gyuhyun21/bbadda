@@ -1,0 +1,31 @@
+{
+  "id": "news-50929812",
+  "issue": "2026-W46",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "announcement": true,
+  "source_name": "스타뉴스",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE44QjNNa0E2ZFFKd1JiNlc3MTlVY1ZnbVdoclR1cnlLZHBlWnI4SnlmY2tJTzJHdTFjb05rMGhlQjFWam9TMW5FR3Q2MUhubzEzM1lKTWJxSHNXbkExa0dENE9fOVNLU2R1UWl4elVzSlZVdlo3d2c?oc=5",
+  "title": "[오피셜] '무려 48G 연속 매진' KBO 가을야구 열기 식을 줄 모른다! KS 2차전도 1만 7700석 완판, 누적 관중 23만명 눈앞",
+  "published_at": "2026-11-04T10:29:06.000Z",
+  "collected_at": "2026-11-04T13:38:22.703Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 99,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5nX3BERW1XU2czN0w2cHRCYnd3aHFXanJMWWt2aUNzclhLdEJJeHR6dHlLOUtSdFJ5RXBJVVE4dVNaQUItMnE1WlJpYXZueDl4QjN6eFg0dy1Dbks3WEpHYTNCeDRBSFlIUFHSAW9BVV95cUxPVWlxWmVGejZ1blhiWXZxVDZKd2xNOTBaNXNaX0xNYXZWSWJkQzRQdXV5Nkd4RGxtQkRLVE1WZWZyODVRQ2dFZmRmSDhuZER6NEk0SHBYZmUtTG5yMTJSV2pzTTBfMDFFQTdXZFU4RGs?oc=5"
+    }
+  ]
+}

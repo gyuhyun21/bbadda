@@ -1,0 +1,35 @@
+{
+  "id": "youtube-87a11f29",
+  "issue": "2026-W46",
+  "module": "league",
+  "teams": [
+    "kt",
+    "samsung"
+  ],
+  "team": "kt",
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=RbTJ0zaZxmM",
+  "title": "승부의 균형을 맞추는 KT 허경민의 동점 적시타! | KS2_삼성 vs KT | 11.4 | 크보모먼트 | KBO 야구 하이라이트",
+  "published_at": "2026-11-04T11:27:26Z",
+  "collected_at": "2026-11-04T13:38:22.703Z",
+  "summary_ko": "KBO 공식 채널이 KS 2차전에서 KT 허경민이 때린 동점 적시타 영상을 올렸다.",
+  "metrics": {
+    "views": 2661,
+    "likes": 25,
+    "comments": 3
+  },
+  "scores": {
+    "hot": 55,
+    "relevance": 80
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9JWXFLNEFoNEtaVVYzd0VhVWtFQjI4emVFNE14NFdFd3A0OEpoUHctdXpLUXlMd0NZSkN4M2t2eldtOEFNWWVvVUxLd2tzd19WanMwVlRuekhXSlU2d01yaGk0RHNWbm1Tdk1YUjBkONIBb0FVX3lxTE9JWXFLNEFoNEtaVVYzd0VhVWtFQjI4emVFNE14NFdFd3A0OEpoUHctdXpLUXlMd0NZSkN4M2t2eldtOEFNWWVvVUxLd2tzd19WanMwVlRuekhXSlU2d01yaGk0RHNWbm1Tdk1YUjBkOA?oc=5"
+    }
+  ],
+  "brief_ko": "허경민 동점 적시타"
+}

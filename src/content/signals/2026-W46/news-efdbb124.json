@@ -1,0 +1,23 @@
+{
+  "id": "news-efdbb124",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "연합뉴스",
+  "url": "https://www.yna.co.kr/view/AKR20261104180100007",
+  "title": "'삼성 천적' 고영표 vs '투혼' 페덱…KS 수놓은 명품 투수전",
+  "published_at": "2026-11-04T12:08:20.000Z",
+  "collected_at": "2026-11-04T13:38:22.703Z",
+  "summary_ko": "연합뉴스는 KS 2차전을 고영표와 페덱의 명품 투수전으로 정리했다. 삼성에 강한 고영표와 투혼의 페덱이 맞섰다.",
+  "metrics": {},
+  "scores": {
+    "hot": 83,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "고영표 vs 페덱, 명품 투수전"
+}

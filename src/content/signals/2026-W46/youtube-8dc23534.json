@@ -1,0 +1,27 @@
+{
+  "id": "youtube-8dc23534",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "얼렁뚱땅 플래시",
+  "url": "https://www.youtube.com/watch?v=lAbFK6hBO3M",
+  "title": "롯데 누리 굿즈 랜덤 캔 가챠는 못 참지! 과연 결과는?!🥫 #shorts #야구",
+  "published_at": "2026-11-04T09:00:28Z",
+  "collected_at": "2026-11-04T13:38:22.703Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1091,
+    "likes": 14,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 52,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

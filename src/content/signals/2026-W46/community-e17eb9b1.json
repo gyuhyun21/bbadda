@@ -1,0 +1,23 @@
+{
+  "id": "community-e17eb9b1",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 만수의 뉴스공장",
+  "url": "https://blog.naver.com/jm4034_/224464410110",
+  "title": "“노숙자 버전” 노시환에 美매체 혹평…30홈런 쳐도 영입 가치 없다 ‘D-’ 받은 이유",
+  "published_at": "2026-11-04T10:22:00.000+09:00",
+  "collected_at": "2026-11-04T13:38:22.703Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "news-1eedd2e1",
+  "issue": "2026-W46",
+  "module": "rivalry",
+  "team": "kt",
+  "teams": [
+    "kt",
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20261104_0003855234",
+  "title": "'추위 녹인 열기' KT-삼성 2차전 티켓도 다 팔렸다…PS 48경기 연속 매진[KS]",
+  "published_at": "2026-11-04T10:20:52.000Z",
+  "collected_at": "2026-11-04T13:38:22.703Z",
+  "summary_ko": "뉴시스에 따르면 KS 2차전 티켓도 모두 팔렸다. 포스트시즌 48경기 연속 매진이다.",
+  "metrics": {},
+  "scores": {
+    "hot": 91,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "뉴스핌",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE05WEt3cjFjX04yYkg3b0FTRXhUcjFTUGxTaF9hOGxmdkNqdXRuZnNWZXUxOVlZUVByMXFuem9vRHNHaEF2QkdqSTRQTHNxTWxkVE1MMmJNZ0tLanRq?oc=5"
+    }
+  ],
+  "brief_ko": "KS2도 매진, PS 48경기 연속"
+}

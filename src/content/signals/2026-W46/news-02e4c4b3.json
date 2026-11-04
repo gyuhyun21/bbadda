@@ -1,0 +1,24 @@
+{
+  "id": "news-02e4c4b3",
+  "issue": "2026-W46",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kt"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://www.sportschosun.com/baseball/2026-11-04/202611040100032890003408",
+  "title": "'승부처 맞네' 삼성-KT 9이닝으로는 부족하다…연장 돌입→15회까지 간다 [KS]",
+  "published_at": "2026-11-04T12:46:03.000Z",
+  "collected_at": "2026-11-04T13:38:22.703Z",
+  "summary_ko": "스포츠조선은 KS 2차전 삼성-KT전이 9회로 끝나지 않고 연장에 들어갔다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "KS2, 9이닝으로 끝나지 않았다"
+}

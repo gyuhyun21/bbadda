@@ -1,0 +1,26 @@
+{
+  "id": "youtube-a4d80176",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "쥬니릿 JyuniRit",
+  "url": "https://www.youtube.com/watch?v=lW96HSejk0A",
+  "title": "⚾️ 플레이오프 3차전 삼성라이온즈 엘도라도 🦁",
+  "published_at": "2026-11-04T11:00:30Z",
+  "collected_at": "2026-11-04T13:38:22.703Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 717,
+    "likes": 7,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 48,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

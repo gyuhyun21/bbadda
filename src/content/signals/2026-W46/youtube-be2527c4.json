@@ -1,0 +1,26 @@
+{
+  "id": "youtube-be2527c4",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "외야석야구",
+  "url": "https://www.youtube.com/watch?v=SRxVVHw_X_o",
+  "title": "KBO 역사상 가장 겁 없는 테이블세터 #김지찬 #박승규 #삼성라이온즈",
+  "published_at": "2026-11-04T11:30:06Z",
+  "collected_at": "2026-11-04T13:38:22.703Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 638,
+    "likes": 7,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 48,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

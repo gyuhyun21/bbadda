@@ -1,0 +1,23 @@
+{
+  "id": "news-b3cd3992",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE03Z2VfOXF6ZEloeUVFQkYxM3FueXpXTjBHR3l3LWRIUFJmZDNKT2lnekt0V2VQOXhjcExBZlpNb2IzRjFsbHNwSWtZaHdIbER5NERadHFNWHZYV2cxak9XTWR1ZmVyVFFyanpNdG1mWdIBb0FVX3lxTE03Z2VfOXF6ZEloeUVFQkYxM3FueXpXTjBHR3l3LWRIUFJmZDNKT2lnekt0V2VQOXhjcExBZlpNb2IzRjFsbHNwSWtZaHdIbER5NERadHFNWHZYV2cxak9XTWR1ZmVyVFFyanpNdG1mWQ?oc=5",
+  "title": "방출→6주 임시직→정식 계약…힘겹게 밟은 KS, 최악 데뷔에도 왜 미소 지었나 “아드레날린 폭발, 4차전은 다를 것” [KS2]",
+  "published_at": "2026-11-04T09:10:00.000Z",
+  "collected_at": "2026-11-04T13:38:22.703Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

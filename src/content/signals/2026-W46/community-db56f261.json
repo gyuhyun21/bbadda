@@ -1,0 +1,42 @@
+{
+  "id": "community-db56f261",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "더쿠",
+  "url": "https://theqoo.net/square/4395528123",
+  "title": "'불꽃야구2' 파이터즈, 덕수고와 시즌 최종전…이택근 은퇴 경기",
+  "published_at": "2026-11-04T09:38:22.703Z",
+  "collected_at": "2026-11-04T13:38:22.703Z",
+  "summary_ko": "",
+  "excerpt": "... 불꽃 파이터즈는 오는 7일 토요일 오후 2시 인천 SSG 랜더스필드에서 덕수고와 시즌 최종전을 치른다.이번…",
+  "metrics": {},
+  "scores": {
+    "hot": 99,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "천지일보",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5qQjM5YTdnVlVYV2xSR2Z1WWZ5Q3F5OFlJVnJYNXY0V1JCcmVuWDY3M2Eyc1RpM1VkZWVoNWtIb3lmQUtFWUM4ekphaW50Tm5nbVJSYjZTYlR2YTV6U004U2lwVTk5aVdfcnc?oc=5"
+    },
+    {
+      "source_name": "톱스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5HdEZDZ1E0bnlleGVxYlZPdGkzamhFc2x3dmRxMXAzZ3k4WjYydUpRb2NTa2FmS0hRajg0QjFGZUoyUFlrTURQdm5IN1FFV0Nqam1aNDl4Y1BVN3RPZkkzdFVDUXlsUGc0MktJZERFbEhldw?oc=5"
+    },
+    {
+      "source_name": "iMBC 연예",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1talJPVFBlV1g5TU1vREV2ZmR6WXNnMDY4QVIzbWQwcVQwdVg5WnhoYzZfZEw4TVpCSUl4a09DaDU2U3RvVmVSbDlid2MxNE5vb3BYOA?oc=5"
+    },
+    {
+      "source_name": "스포츠월드",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9lUVJvT1hQS3VyUmp3aGZwemNuU1VqYzYwQ05tUElwRnRJTFhQbDhDM1A0eDBHRTBWRVd0OXdwUjhGazhlajhIcUlsLXBFTWg2RWJwU0VjQVRrWlk0VTM2cW5B?oc=5"
+    }
+  ]
+}

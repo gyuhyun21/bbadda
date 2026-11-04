@@ -1,0 +1,24 @@
+{
+  "id": "news-9cc48110",
+  "issue": "2026-W46",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5saXN1MS0tUDJqX0pBX1RkRUZ2TEJ3TXQ4eXFBTUVYUnViSmRMWGVHNDh6UXJKeGFlTF9tcW5uaEdrWE1ydlJSbUc0LVd4WmdnTU5Fc1R1SnBTcGI2Vnc5OHBYa2lkMVlfcGVsOXlSd9IBb0FVX3lxTE5saXN1MS0tUDJqX0pBX1RkRUZ2TEJ3TXQ4eXFBTUVYUnViSmRMWGVHNDh6UXJKeGFlTF9tcW5uaEdrWE1ydlJSbUc0LVd4WmdnTU5Fc1R1SnBTcGI2Vnc5OHBYa2lkMVlfcGVsOXlSdw?oc=5",
+  "title": "[사진]안타 구자욱, 찬스 다시 만들어보자",
+  "published_at": "2026-11-04T11:13:00.000Z",
+  "collected_at": "2026-11-04T13:38:22.703Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

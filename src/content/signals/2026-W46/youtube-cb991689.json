@@ -1,0 +1,27 @@
+{
+  "id": "youtube-cb991689",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kt"
+  ],
+  "source_type": "youtube",
+  "source_name": "칫칫 ChitChit",
+  "url": "https://www.youtube.com/watch?v=gZytfQHc80Q",
+  "title": "[심창민X도광록 LIVE🔴] 삼성 vs KT | 2026 KBO KS 2차전⚾",
+  "published_at": "2026-11-04T09:09:30Z",
+  "collected_at": "2026-11-04T13:38:22.703Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 6089,
+    "likes": 104,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

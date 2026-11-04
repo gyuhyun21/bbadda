@@ -1,0 +1,24 @@
+{
+  "id": "community-ac6a7b4e",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kt"
+  ],
+  "source_type": "community",
+  "source_name": "엠엘비파크",
+  "url": "https://mlbpark.donga.com/mp/b.php?id=202611030119843229&p=1&b=kbotown&m=view&select=spf&query=%EC%82%BC%EC%84%B1&site=donga.com",
+  "title": "[KT] 삼성라이온즈 VS KT위즈",
+  "published_at": "2026-11-02T15:00:00.000Z",
+  "collected_at": "2026-11-04T13:38:22.703Z",
+  "summary_ko": "",
+  "excerpt": "... 2026 KBO. 팀 순위 바로가기. 11월 3일 (화). 18:30 수원 경기전. 삼성. 최원태. KT…",
+  "metrics": {},
+  "scores": {
+    "hot": 51,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "news-8f368e27",
+  "issue": "2026-W46",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kt"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB0QVpCajNyZF9oWHlQLTF5MTdJNXBaR0VKT3RRNUVLbGNFM3k5WktkbUkxMDFQajFpdVl6Tm42VUcwc2ZiMGVnVEZxMEhPc2tJeGRDcW5TNEZYdFVNLXRFZEcwTFFvakJjb0lzZlRQSVdvbEtjX1lrRUJnSk1CUQ?oc=5",
+  "title": "\"최원태 때문에\" 삼성, KT '비밀병기' 동반 선발복귀, 4차전서 맞불나[KS2 현장]",
+  "published_at": "2026-11-04T09:01:21.000Z",
+  "collected_at": "2026-11-04T13:38:22.703Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 82,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOXzludDZaZXV6ZUpSSjMxUVhkQkhvRmVxYkpJSkV1NHBQdnRaa2lXeUlxTU1KM3dlNE1uN1FFTWRldDBObVZoalFSZWk5U0l0RzRKNGdRNzBDR05ObEcxTUE5bnBmOXFBLWF1RV9WMkdWamw0dWR2UjJ0ZklLUFM4VjI0QQ?oc=5"
+    }
+  ]
+}

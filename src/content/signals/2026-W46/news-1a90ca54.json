@@ -1,0 +1,23 @@
+{
+  "id": "news-1a90ca54",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "미디어펜",
+  "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1NdUY4Ni1xTjVqNWNuMmt2azlOQTNDbkJ4MURRb0xDOXZIZWdmNDZ3Q1VkUURCNkNRdk9VUlBtbGUxSktTZ3cxLXAtX0Z2eWw5ekt3U3ZWUErSAVhBVV95cUxNTXVGODYtcU41ajVjbjJrdms5TkEzQ25CeDFEUW9MQzl2SGVnZjQ2d0NVZFFEQjZDUXZPVVJQbWxlMUpLU2d3MS1wLV9GdnlsOXpLd1N2VlBK?oc=5",
+  "title": "노시환, 피츠버그와 계약하고 MLB 진출? 美 매체 '피츠버그에 필요한 3루수'로 노시환 지목",
+  "published_at": "2026-11-04T02:51:20.000Z",
+  "collected_at": "2026-11-04T13:38:22.703Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

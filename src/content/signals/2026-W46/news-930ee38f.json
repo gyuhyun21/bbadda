@@ -1,0 +1,29 @@
+{
+  "id": "news-930ee38f",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1kajYtanB2Qldyb2FEVzcwN1JCOUxzWWhRMzd5a05TMm52NFJkUWt5dUZEYVVxZmdlMU9GeFRUVFdhRF90UEFyWHNvMjdBVUp1Q1MxYTZnR0gzeFhQVVhaeDFvMW11NjF4azBxcHQyZ9IBb0FVX3lxTE1kajYtanB2Qldyb2FEVzcwN1JCOUxzWWhRMzd5a05TMm52NFJkUWt5dUZEYVVxZmdlMU9GeFRUVFdhRF90UEFyWHNvMjdBVUp1Q1MxYTZnR0gzeFhQVVhaeDFvMW11NjF4azBxcHQyZw?oc=5",
+  "title": "[포토] 김현수 '이제 역전이다'",
+  "published_at": "2026-11-04T11:57:45.000Z",
+  "collected_at": "2026-11-04T13:38:22.703Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE12N2xqS0JldmYtM0tha0ZmbnVtV1VRaU9USk94bTQ0bFZxV0R6dU51TWhXdGFyQ1ZLaERibXlfcVpZcEpvUE4tTUY3a2dRN0VmUGtvMTVfSXJlTHRfZlZwSGM2aHRXUmxDMEotSGJtbGpQTVNLRkE?oc=5"
+    }
+  ]
+}

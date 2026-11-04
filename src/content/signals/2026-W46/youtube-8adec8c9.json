@@ -1,0 +1,27 @@
+{
+  "id": "youtube-8adec8c9",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "youtube",
+  "source_name": "야랄하네",
+  "url": "https://www.youtube.com/watch?v=dS2wVBctB3I",
+  "title": "아빌라 재계약 기원 응원가 제안서 (치이카와 버전) #야구 #SSG",
+  "published_at": "2026-11-04T11:00:08Z",
+  "collected_at": "2026-11-04T13:38:22.703Z",
+  "summary_ko": "한 팬 채널이 SSG 아빌라의 재계약을 기원하는 응원가 제안 영상을 올렸다. 영상 제목 기준 내용이다.",
+  "metrics": {
+    "views": 775,
+    "likes": 23,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "아빌라 재계약 응원가 제안"
+}

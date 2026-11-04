@@ -1,0 +1,24 @@
+{
+  "id": "community-53810ac4",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 하이스포츠 인사이드",
+  "url": "https://blog.naver.com/historycar/224464432295",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/Ddogxro4FIw",
+  "title": "\"307억 계약했는데 피츠버그가 데려간다?\" 노시환 MLB 포스팅, 강정호 이후 12년 만의 선택될까",
+  "published_at": "2026-11-04T10:40:00.000+09:00",
+  "collected_at": "2026-11-04T13:38:22.703Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

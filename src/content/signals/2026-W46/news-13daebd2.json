@@ -1,0 +1,23 @@
+{
+  "id": "news-13daebd2",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "news",
+  "source_name": "뉴시스",
+  "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261103_0003853555",
+  "title": "이기고도 찜찜한 KT, 불펜 불안 숙제 남겼다[KS]",
+  "published_at": "2026-11-03T13:43:24.000Z",
+  "collected_at": "2026-11-04T13:38:22.703Z",
+  "summary_ko": "뉴시스는 KT가 1차전을 이기고도 불펜 불안이라는 숙제를 남겼다고 썼다.",
+  "metrics": {},
+  "scores": {
+    "hot": 59,
+    "relevance": 80
+  },
+  "sentiment": "neutral",
+  "brief_ko": "1차전 이기고도 불펜 숙제"
+}
