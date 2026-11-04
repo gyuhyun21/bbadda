@@ -1,0 +1,23 @@
+{
+  "id": "news-b8604872",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "국제신문",
+  "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0600&key=20261105.22015001284",
+  "title": "거인 4인방 APBC(아시아프로야구챔피언십) 첫 우승 이끈다…한동희·최준용 중책",
+  "published_at": "2026-11-04T10:39:00.000Z",
+  "collected_at": "2026-11-04T13:38:22.703Z",
+  "summary_ko": "국제신문은 한동희·최준용 등 롯데 선수 4명이 APBC 첫 우승을 이끌 것이라고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 83,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "brief_ko": "거인 4인방, APBC 우승 도전"
+}

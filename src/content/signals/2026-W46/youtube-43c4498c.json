@@ -1,0 +1,27 @@
+{
+  "id": "youtube-43c4498c",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "source_name": "마이너 센터【MiLB CENTER】",
+  "url": "https://www.youtube.com/watch?v=z9jXi_hN6aA",
+  "title": "전 KIA 아데를린 부상 복귀전 홈런! (feat. 한화 리베라토)",
+  "published_at": "2026-11-04T08:29:42Z",
+  "collected_at": "2026-11-04T13:38:22.703Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 5362,
+    "likes": 71,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 62,
+    "relevance": 70
+  },
+  "sentiment": "mixed"
+}

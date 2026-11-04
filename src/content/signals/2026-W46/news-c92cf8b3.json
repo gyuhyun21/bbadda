@@ -1,0 +1,23 @@
+{
+  "id": "news-c92cf8b3",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "전국뉴스",
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5hYjExMHppOVBSWmsteFIwUTg4a18tckUxeUFST3BxbW1PeVJWdnhCX1JCOTJkRXB1NEVybnVNT05abXk0UlJ5V3RqcDBTX3hZTnZCOTNDZWc4RU00eTZsVjVzaXhzSkdiSWZTa0tGblA?oc=5",
+  "title": "[불굴의야구혼]故 최동원, 2026 대한민국 스포츠영웅 선정…불굴의 투혼 재조명",
+  "published_at": "2026-11-04T08:35:28.000Z",
+  "collected_at": "2026-11-04T13:38:22.703Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

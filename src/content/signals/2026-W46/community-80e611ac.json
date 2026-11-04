@@ -1,0 +1,56 @@
+{
+  "id": "community-80e611ac",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "다음카페 I Love NBA",
+  "url": "https://cafe.daum.net/ilovenba/2ljt/118451",
+  "title": "한국시리즈 2차전 삼성 라이온즈 응원방!",
+  "published_at": "2026-11-04T18:51:26.000+09:00",
+  "collected_at": "2026-11-04T13:38:22.703Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 99,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1WTEhyWGtFVlRYWHFrczJRWkQwSW1fQUJFbXFSZGlqckNvTE9YUnZKMEp5OEI1ckZzMjVKZGsyRS1FaGh2V3pHQUo5cW1PTVBEcnN0ZUlfblJKcEZxeEl6NTZYRDdENHFzMjRORzZuNNIBb0FVX3lxTE1WTEhyWGtFVlRYWHFrczJRWkQwSW1fQUJFbXFSZGlqckNvTE9YUnZKMEp5OEI1ckZzMjVKZGsyRS1FaGh2V3pHQUo5cW1PTVBEcnN0ZUlfblJKcEZxeEl6NTZYRDdENHFzMjRORzZuNA?oc=5"
+    },
+    {
+      "source_name": "YTN",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBiNnFGRGhYZFYyXzBnS0xzVFM4ZW9Sc3ZrUXhuZHpiWk9mR0djb1djZlRWYXhzM1pRUFExNkw1aUVtX0NYMzhKcmNXSFZnTG0waE5CTTdEOEMzZDlFQnBJVDdHOFF4VDF5Z0ktUTljOA?oc=5"
+    },
+    {
+      "source_name": "뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5jbFZWWWM0TEZxTFNlZ1dFekJRNGI2NGNGRS0tRzJqOWUwNEhRQ3c1b1pGejJqODh1SVpTdkZtUW83SXNyRXNrQlJkSDZudUhPVDlWeGl4dw?oc=5"
+    },
+    {
+      "source_name": "한스경제",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Dcm9EamVkZ3Y0UXY1OVVQeDJXekdmZDdrSGs5cnZBczhDWHRvZHVqVmpOTW5xYkJFcFJTTTRZOW55UUJrY05NUFpNcFAxLUVmWUctcjRjLXA5OXh6RHhlTU9JRGY3Q0tha295bNIBb0FVX3lxTFBtR21HdkU2OEVjdU9BTWdiRTNpeDgtMHk0UjdDcGRrRFNiNjRkMFA3NXJ4SUl6VHhoZWFWc2hFX285RExvNUw4c21GV25JbjBaYWtiMjNtNktzbUxtb0tXRC1OT0tfT1d3cmxPMVp3NA?oc=5"
+    },
+    {
+      "source_name": "국제뉴스",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBFWk5pNFI2QzliZ055VllIWUs1NEZ0V3V0M2E5a0cydjJKWXFQNU1UTGFVaTRiRG4zVjE4ck9ScGtUaFhOOURrb3hQT2tIWmpLMDZBbGRzSUNFeF9kY3hNb2FUbDRJblczTEFMSmpB?oc=5"
+    },
+    {
+      "source_name": "OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1Uc3RQNnNxYk16QlBsbzUyYzlzX2tBQ1prZXg4dmh6blhueDNTV1Z6Y3p3YTJOQTVXLV9EVG1KMC01Yy1KVkNSU1JQRXlRdndxNDZn?oc=5"
+    },
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxON1JkNmhtMTlhZ1JWZGhEYWJwbmx0R1hOVnRjekhJb3VHZk1Ga2RsR3VLdVQzOE9QaS1hYVp5UW8weTFCalZZMjh4Uk9qeWRPa05qZml2OUJ4Z1hhbFQ5ZVBzUG5lZGNTaE16Y3JRS0ZsR1R4bjEtU0pqeE05cnhpQmlsODM0MXNl?oc=5"
+    },
+    {
+      "source_name": "Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNa2tXM1FpSnAwVU54SklDUndNa25tTVVEUG5RSUVCNUktU012b2xYb25ZQXRUb3RVdnJjaUlfM3pDaVl3dGY2MXB3TFc5V0x0dzlJR0lyQzFRMFp2SUJvci1MWDNlMkNISVRfWlpuMjE0N29ENHhaQV94T0RsWFpHZTJqTEpwck8x0gGcAUFVX3lxTE92OHc3YjVBM180Q0luckpuSjJwUXZ2clFQUUhIOURBaFgza2NYaGZ5Ul91dlNvS2hTRFZkckxSTEViQmFCa01SVVg5aEZzX24tRkRCazdxcVRrc1hYcDFLeE4zcThSUldoT3RuWk0zREh6UlFEN29oQTFGT3hxUTI1SWY1a2lNbzFwRGVnRVRHb0pVSDR6R2hBTExpVA?oc=5"
+    }
+  ]
+}

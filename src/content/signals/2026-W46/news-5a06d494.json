@@ -1,0 +1,24 @@
+{
+  "id": "news-5a06d494",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "조선일보",
+  "url": "https://www.chosun.com/sports/baseball/2026/11/04/MJQTGZBQMM2TQNBWGFRDKMTFG4/",
+  "title": "94구→3일→99구→4일→102구, 박진만의 예언이 현실로. 미친 스태미너 실화? 헌신의 가을남자 페덱, 7이닝 1실점 괴력투[KS2 현장]",
+  "published_at": "2026-11-04T13:17:00.000Z",
+  "collected_at": "2026-11-04T13:38:22.703Z",
+  "summary_ko": "조선일보는 삼성 페덱이 KS 2차전에서 7이닝 1실점으로 막았다고 전했다. 박진만 감독이 말한 대로 4일 쉬고 102구를 던졌다.",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "페덱, 4일 쉬고 7이닝 1실점",
+  "hook_ko": "94구, 99구, 102구…\n페덱의 가을"
+}

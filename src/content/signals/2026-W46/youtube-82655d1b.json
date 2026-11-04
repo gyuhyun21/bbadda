@@ -1,0 +1,50 @@
+{
+  "id": "youtube-82655d1b",
+  "issue": "2026-W46",
+  "module": "league",
+  "teams": [
+    "kt",
+    "samsung"
+  ],
+  "team": "kt",
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=z9CrQ3xdMIA",
+  "title": "KT 초대 감독 조범현 시구와 삼성 레전드 이만수 시포로 한국시리즈 2차전을 알립니다! | KS2_삼성 vs KT | 11.4 | 크보모먼트 | KBO 야구 하이라이트",
+  "published_at": "2026-11-04T09:53:25Z",
+  "collected_at": "2026-11-04T13:38:22.703Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 8831,
+    "likes": 48,
+    "comments": 17
+  },
+  "scores": {
+    "hot": 60,
+    "relevance": 80
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "톱스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE56aTFtRzVrY0E4YldlTjg0TzcyNEJqemtjQThMUzNtT1NUMms4bHhkUmVqTmdERVZJcG9lb3JmemQ5cW53Z0E5SnhFSmY3R3pQUUE1UkhydU5idDZPV25Bb1Y2OGNtTG1YSVU5WDBTN0hndw?oc=5"
+    },
+    {
+      "source_name": "뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9NWkpCamNrcVZBMjVXZjlUTER5ZVFSdUlhQThWM0pDOEY3bEF3UVp5ejdJYVl6bHEtZVQyTnI2R0dBTllxWlJpajZwaXFvZ2lGdkhfZGE4R0JueFRPTHNzMVBYbzZTMjVXY1ZUWkRLVTMxU3ozSGpSZ9IBeEFVX3lxTE9NWkpCamNrcVZBMjVXZjlUTER5ZVFSdUlhQThWM0pDOEY3bEF3UVp5ejdJYVl6bHEtZVQyTnI2R0dBTllxWlJpajZwaXFvZ2lGdkhfZGE4R0JueFRPTHNzMVBYbzZTMjVXY1ZUWkRLVTMxU3ozSGpSZw?oc=5"
+    },
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE56U214QzlyQi1oMEF1Y2dQd041a3NjYTBmaWVsUHdBNXdULXhhckhjS05zVzdTVkU2REhlUDIzSEp4b0xkQ3ZsVEVOZ3JrVVg2Nm11R3UzWnkyMWJwNFBIeWRNOFRmSGMtLS1yRWVrSdIBb0FVX3lxTE56U214QzlyQi1oMEF1Y2dQd041a3NjYTBmaWVsUHdBNXdULXhhckhjS05zVzdTVkU2REhlUDIzSEp4b0xkQ3ZsVEVOZ3JrVVg2Nm11R3UzWnkyMWJwNFBIeWRNOFRmSGMtLS1yRWVrSQ?oc=5"
+    },
+    {
+      "source_name": "스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5acnMxem1JaW1xWHFMXzhHR3FkSHBHQ3FweUJaaGdLS0dIZkJjOWhVb3BDWF9jWjBJRWVnQjRfN2VyZlhRN1g0MG9vOVVoT3U3X1lOSW9UMTJ2VnBURFd4cklOc1RMNHlYOGNGNWpJSmY5THh3NUE?oc=5"
+    },
+    {
+      "source_name": "한스경제",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBTbTFmNDEtMnFYbFZjNVI3RFY0U2h2Tk51czlaTEJ3eXo1cTF5bXpObUx2eGtfaFVsUU43akxBamtIZmtBYUtkczJ4MGgzd2RXSElUeTZCcFRwOXBuLVBnVXNYYkRMN3o2NDI40gFvQVVfeXFMT3NnZHdHRmlnX2EyMGdrTmVKbzdXcDBMWTYzdmxUcFN2TzNEVjQtaGJxc2dibkJQMU9EMXJKZl9MQW5EWUpHVFk2NUV0MnZhMmxUaDhHTWZGX0VKYTBwbjF6akRTSUJqM2w5S2hyQl9n?oc=5"
+    }
+  ]
+}

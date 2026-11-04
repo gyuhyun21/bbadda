@@ -1,0 +1,26 @@
+{
+  "id": "youtube-1c764376",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "youtube",
+  "source_name": "트램폴린 DJ Team Trampoline",
+  "url": "https://www.youtube.com/watch?v=nqHtSeAHRjs",
+  "title": "2026 KBO KT 위즈 통합 우승 기원 ⚾ | 선수 응원가 TOP 5",
+  "published_at": "2026-11-04T09:50:37Z",
+  "collected_at": "2026-11-04T13:38:22.703Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 629,
+    "likes": 10,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 52,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

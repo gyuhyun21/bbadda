@@ -1,0 +1,34 @@
+{
+  "id": "community-3ea074c2",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "다음카페 쭉빵카페",
+  "url": "https://cafe.daum.net/ok1221/8mNz/1199759",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/7Bfgm4sTpRi",
+  "title": "한국시리즈 2차전 선발투수 페덱VS고영표",
+  "published_at": "2026-11-03T22:22:44.000+09:00",
+  "collected_at": "2026-11-04T13:38:22.703Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQzBqalU1a1dCMWk3T01TOHZpT2twc0w3cFV3bllIdWhYZ2VvOHpzSFk3YnRZTUNRMFQtV1gtbGlmX0czS0IxTVhfWGR2NFJDcDFmUW14Y21yOVdsSkc5RHFoX3h0a05Ha203ZnY3MjE2OWg3RC1mTEtUQXVPTkR0MXltX0ZqUmlmLW1xbGdCU2ItOVlvNjdGRm1NdnnSAZwBQVVfeXFMTUMwampVNWtXQjFpN09NUzh2aU9rcHNMN3BVd25ZSHVoWGdlbzh6c0hZN2J0WU1DUTBULVdYLWxpZl9HM0tCMU1YX1hkdjRSQ3AxZlFteGNtcjlXbEpHOURxaF94dGtOR2ttN2Z2NzIxNjloN0QtZkxLVEF1T05EdDF5bV9GalJpZi1tcWxnQlNiLTlZbzY3RkZtTXZ5?oc=5"
+    },
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVFhDbFEzYllZT2x6N0J4V0ZMaElWNF9IeFNaY2NDZEtIR3ctTmMzZTdvYnpBb2lHQ1VPd1FYa29nUFZYMi1zZlNGTXNHX2tPR1Y4dEJjN2RXS1VoT0FpaGVaTjNaVnpnemY1Z0VjbjVXZ0hKUGZyNG1MOEFwNHpZZWdabDA4OXp5?oc=5"
+    }
+  ]
+}

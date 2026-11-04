@@ -1,0 +1,24 @@
+{
+  "id": "news-7c044b4a",
+  "issue": "2026-W46",
+  "module": "rivalry",
+  "team": "lg",
+  "teams": [
+    "lg",
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "뉴스피릿",
+  "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1uNnNqUFBGUFJnamtKUHpUbjJuXzRmdzZVWGhDazlVZDZTQ2JfZU1hdmxmaFhfUVVBS1NHb2czZDdHQnBrUEJ3SmtFanA4YWpHZHlqNmNnTGl3VXk4X3FKYlA0TmcwNmlqNUxZ?oc=5",
+  "title": "[데스크pick]관중은 넘치는데 야구장은 허문다",
+  "published_at": "2026-11-04T08:35:22.000Z",
+  "collected_at": "2026-11-04T13:38:22.703Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

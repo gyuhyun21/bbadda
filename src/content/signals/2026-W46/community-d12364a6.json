@@ -1,0 +1,24 @@
+{
+  "id": "community-d12364a6",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 가지",
+  "url": "https://gazy.tistory.com/3",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/UnjC8lMhEY",
+  "title": "원태인 한국시리즈 선발 복귀, 4차전·5차전 중 언제 나올까",
+  "published_at": "2026-11-04T21:46:48.000+09:00",
+  "collected_at": "2026-11-04T13:38:22.703Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

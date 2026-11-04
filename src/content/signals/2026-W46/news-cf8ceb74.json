@@ -1,0 +1,23 @@
+{
+  "id": "news-cf8ceb74",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "미주중앙일보",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4yekl6TXFMRVZFQUVxZ2w0ZFZGVlFrU2hGU1g2SElrWUN2UE5EUjA0MTVaTkVCb3duOEU0NzlNUUNRRWdpT080U1ZPckFCWnYwZzFNdmVtZnpSTXR3dGp3Y2dR?oc=5",
+  "title": "'매진-매진' 위즈파크 또 가득 찼다! KS 1차전 이어 2차전도 1만1770석 완판…수원에서 경기 또 열릴까 [KS2]",
+  "published_at": "2026-11-04T10:49:00.000Z",
+  "collected_at": "2026-11-04T13:38:22.703Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

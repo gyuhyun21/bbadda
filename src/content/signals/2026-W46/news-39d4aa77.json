@@ -1,0 +1,23 @@
+{
+  "id": "news-39d4aa77",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "한스경제",
+  "url": "https://www.hansbiz.co.kr/news/articleView.html?idxno=879971",
+  "title": "'PO 탈락' KIA, 12주 연속 KBO리그 관심도 1위",
+  "published_at": "2026-11-04T11:03:53.000Z",
+  "collected_at": "2026-11-04T13:38:22.703Z",
+  "summary_ko": "한스경제에 따르면 PO에서 탈락한 KIA가 12주 연속 KBO리그 관심도 1위를 지켰다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 80
+  },
+  "sentiment": "positive",
+  "brief_ko": "PO 탈락에도 관심도 12주 1위"
+}

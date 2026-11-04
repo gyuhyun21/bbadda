@@ -1,0 +1,23 @@
+{
+  "id": "news-c81c074b",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "무등일보",
+  "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5ZdFJJSF8xRm11TV9SejJTNC1FbmlpR0gzOTlrTVIxclRqQ1FKbXFZNjZtTnBZSjcwUHdsSjU1WndSQ1hjOTc4cm42YUU?oc=5",
+  "title": "[KIA 2026 결산] 다시 우승하려면···불펜·센터라인·선발 ‘빈틈’ 메워야",
+  "published_at": "2026-11-04T07:56:00.000Z",
+  "collected_at": "2026-11-04T13:38:22.703Z",
+  "summary_ko": "무등일보는 KIA가 다시 우승하려면 불펜·센터라인·선발의 빈틈을 메워야 한다고 결산했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "brief_ko": "다시 우승하려면 불펜·센터라인"
+}

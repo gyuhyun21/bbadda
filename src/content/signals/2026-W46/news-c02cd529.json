@@ -1,0 +1,23 @@
+{
+  "id": "news-c02cd529",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "대구신문",
+  "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE56cGVDQy1kTXF4Z0FXOGJqWEdhcFJvLWd3WWduM0RtVng4bFlFbHFQVmZ4MnZJanZjTktFb3N1ejN6M3hYRGUwcnRuVnc2S01weDV5dW93Ym9rUW5PTXBmWmJvenY2RnZKZUtZ?oc=5",
+  "title": "페덱 버티고 디아즈 때리고…KS 달군 ‘외국인 콤비’",
+  "published_at": "2026-11-04T12:57:00.000Z",
+  "collected_at": "2026-11-04T13:38:22.703Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

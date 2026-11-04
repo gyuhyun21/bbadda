@@ -1,0 +1,26 @@
+{
+  "id": "youtube-d507ce22",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "youtube",
+  "source_name": "열냥구단",
+  "url": "https://www.youtube.com/watch?v=7MDqncCDp8I",
+  "title": "29년 기다린 LG 팬들의 결말 #LG트윈스 #KBO #야구만화",
+  "published_at": "2026-11-04T12:15:45Z",
+  "collected_at": "2026-11-04T13:38:22.703Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 4,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 10,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

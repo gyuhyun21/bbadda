@@ -1,0 +1,29 @@
+{
+  "id": "news-66f7b654",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5zQnlqMlpYNFpSUTVMa1Zta3F4OGtLNDVjN1F5eVRkTUVhTTgtcjQtOU4tcm1TeFlUbFI0SEFHZVlQSEtQaDZEZkVmdnk1anVGc0NhYnFTWGRIZUJ1TDdFS2FIaTd6Uy1adWdIcmVsQdIBb0FVX3lxTE5zQnlqMlpYNFpSUTVMa1Zta3F4OGtLNDVjN1F5eVRkTUVhTTgtcjQtOU4tcm1TeFlUbFI0SEFHZVlQSEtQaDZEZkVmdnk1anVGc0NhYnFTWGRIZUJ1TDdFS2FIaTd6Uy1adWdIcmVsQQ?oc=5",
+  "title": "[포토] '후끈한 가을야구 열기'",
+  "published_at": "2026-11-04T11:35:02.000Z",
+  "collected_at": "2026-11-04T13:38:22.703Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5sVWJDYnlLWVluTlNxOUxHNHdIUElOZmNaWGN5ZmNvYTJJamVzdFZXVFVrWnJXMzV3OWV1N1VRY2pSNEN2MXplM25rNVhUUkowU08wdmJCWFM4Q01fTWMyQkh4WW5QakJCcUl4czdXR1hQS2ppTlE?oc=5"
+    }
+  ]
+}

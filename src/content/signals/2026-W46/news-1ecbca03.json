@@ -1,0 +1,23 @@
+{
+  "id": "news-1ecbca03",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://www.sportschosun.com/baseball/2026-11-04/202611040100030770003233",
+  "title": "'역대급' KIA 왜 6명만 열외인가…\"쉬게 하겠다\" 감독 약속했지만, 이들은 예외였다",
+  "published_at": "2026-11-04T09:00:35.000Z",
+  "collected_at": "2026-11-04T13:38:22.703Z",
+  "summary_ko": "스포츠조선은 KIA에서 6명만 열외였다고 전했다. 감독이 쉬게 하겠다고 약속했지만 이들은 예외였다는 내용이다.",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "쉬게 하겠다던 KIA, 예외 6명"
+}

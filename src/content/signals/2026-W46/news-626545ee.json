@@ -1,0 +1,30 @@
+{
+  "id": "news-626545ee",
+  "issue": "2026-W46",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스타뉴스",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1neV8tM0Y5RzVkR3JjdjAycm5leTZnalNvTEZtekxzVGNSb2twY1Jxeld0RFZGcjFGd0lJdHdIb0ZNV04tdWJXeDJXYzFlWUdieWYzZkNZbjZNQV9DUU81Qm5lM3IxM2xNTGNNSm9zeGpkT3pwTUE?oc=5",
+  "title": "\"페덱, 4일 쉬었으니 100구 던져주겠죠\" 박진만의 굳은 믿음→원태인은 불펜 대기 후 선발 복귀 전망 [KS2 현장]",
+  "published_at": "2026-11-04T08:24:42.000Z",
+  "collected_at": "2026-11-04T13:38:22.703Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 82,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE43Z0xQLUdneVI3aDRpNjVHYzNhdnpnMTd0X0hWREhRd081R2dNSU1ZTmdPU1A3cllPMHpsZW11M0ozR1BIb0d2WFp0M0dJdUN6ZUoxUkZxUEcydzgweXl4aGdyR2dNZDNVZVU0TTRRY9IBb0FVX3lxTE43Z0xQLUdneVI3aDRpNjVHYzNhdnpnMTd0X0hWREhRd081R2dNSU1ZTmdPU1A3cllPMHpsZW11M0ozR1BIb0d2WFp0M0dJdUN6ZUoxUkZxUEcydzgweXl4aGdyR2dNZDNVZVU0TTRRYw?oc=5"
+    }
+  ]
+}

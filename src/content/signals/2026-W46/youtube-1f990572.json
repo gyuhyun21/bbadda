@@ -1,0 +1,26 @@
+{
+  "id": "youtube-1f990572",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "youtube",
+  "source_name": "내꿈은롯데우승",
+  "url": "https://www.youtube.com/watch?v=fdygkkpCSLo",
+  "title": "김태균이 한동희 스윙 보고 남긴말 #롯데자이언츠 #shorts",
+  "published_at": "2026-11-04T11:04:49Z",
+  "collected_at": "2026-11-04T13:38:22.703Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 790,
+    "likes": 7,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 47,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

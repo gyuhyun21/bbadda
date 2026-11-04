@@ -1,0 +1,27 @@
+{
+  "id": "youtube-4d5ec37c",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "youtube",
+  "source_name": "사직노래방",
+  "url": "https://www.youtube.com/watch?v=li6fdzxMzGY",
+  "title": "장점도 꾸준, 단점도 꾸준한 롯데 박세응 #롯데자이언츠 #롯데야구 #박세웅",
+  "published_at": "2026-11-04T08:30:02Z",
+  "collected_at": "2026-11-04T13:38:22.703Z",
+  "summary_ko": "한 팬 채널이 롯데 박세웅의 장점과 단점이 꾸준하다는 영상을 올렸다. 영상 제목 기준 내용이다.",
+  "metrics": {
+    "views": 4244,
+    "likes": 60,
+    "comments": 14
+  },
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "박세웅, 장점도 단점도 꾸준"
+}

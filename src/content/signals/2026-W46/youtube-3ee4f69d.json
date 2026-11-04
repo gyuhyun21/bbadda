@@ -1,0 +1,26 @@
+{
+  "id": "youtube-3ee4f69d",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "source_name": "아후다타",
+  "url": "https://www.youtube.com/watch?v=R7pNE_QOfRs",
+  "title": "8회 사이렌 울리면 목청껏! 🦅 한화이글스 육성응원 #Shorts",
+  "published_at": "2026-11-04T10:00:39Z",
+  "collected_at": "2026-11-04T13:38:22.703Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 842,
+    "likes": 16,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 55,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

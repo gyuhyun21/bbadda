@@ -1,0 +1,27 @@
+{
+  "id": "youtube-e9d81043",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "youtube",
+  "source_name": "더그아웃매거진",
+  "url": "https://www.youtube.com/watch?v=LGXDV0cnd68",
+  "title": "박민우 옆자리를 쓰게 될 한 신인 선수가 있습니다...ㅣNC 다이노스 박보승ㅣ더그아웃 매거진",
+  "published_at": "2026-11-04T08:00:10Z",
+  "collected_at": "2026-11-04T13:38:22.703Z",
+  "summary_ko": "한 팬 채널이 NC 신인 박보승이 박민우 옆자리를 쓰게 됐다는 더그아웃 매거진 영상을 올렸다. 영상 제목 기준 내용이다.",
+  "metrics": {
+    "views": 5159,
+    "likes": 150,
+    "comments": 12
+  },
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "신인 박보승, 박민우 옆자리"
+}

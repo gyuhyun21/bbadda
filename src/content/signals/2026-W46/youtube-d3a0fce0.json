@@ -1,0 +1,28 @@
+{
+  "id": "youtube-d3a0fce0",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "기아타이거즈 KIA TIGERS",
+  "url": "https://www.youtube.com/watch?v=lSDFHEXNpaA",
+  "title": "타이거즈 가을야구 콘텐츠_최종_최최종🍁♥️ [더그아웃비하인드]",
+  "published_at": "2026-11-04T12:41:42Z",
+  "collected_at": "2026-11-04T13:38:22.703Z",
+  "summary_ko": "KIA 타이거즈 공식 채널이 가을야구 더그아웃 비하인드 영상을 올렸다.",
+  "metrics": {
+    "views": 14562,
+    "likes": 1404,
+    "comments": 193
+  },
+  "scores": {
+    "hot": 97,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "가을야구 더그아웃 비하인드"
+}
