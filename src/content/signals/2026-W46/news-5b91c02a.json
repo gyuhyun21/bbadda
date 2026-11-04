@@ -1,0 +1,30 @@
+{
+  "id": "news-5b91c02a",
+  "issue": "2026-W46",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스타뉴스",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1VYi1IRzdrSGZTa3YtTGFHRC13OUQtX1Z2MWt5cFl1V29hd0VvZkIyM0ZxMnhIUXF4cmwtUjhuN1drZlVIbWF6dEs1dnNWM18yN085enZaVHRoT3ZmZUI0UHpSeGlHV0VZc01TX19tdFBjNjNDalE?oc=5",
+  "title": "한숨 크게 내쉰 이강철 감독 \"야구하면서 이런 경기 처음해봐→10회 1사 만루 기회가 가장 아쉽다\" [KS2 현장]",
+  "published_at": "2026-11-04T18:33:00.000Z",
+  "collected_at": "2026-11-04T21:38:06.095Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 91,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5zN2RMNDViTDAyRE9VVHRWSTlnbnRHb1J0OEZrWW9xdllXWFo5Q1p4blN5d2lvUW1SZUtya1hjd1Y0RGgtb2lXYjVJU1pyUHhWUkJnNjc2bnhCa1lCZllldGVxbFRKaWRKX2d2QUIyb9IBb0FVX3lxTE5zN2RMNDViTDAyRE9VVHRWSTlnbnRHb1J0OEZrWW9xdllXWFo5Q1p4blN5d2lvUW1SZUtya1hjd1Y0RGgtb2lXYjVJU1pyUHhWUkJnNjc2bnhCa1lCZllldGVxbFRKaWRKX2d2QUIybw?oc=5"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "youtube-37aa872b",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "youtube",
+  "source_name": "언덕위의작은집 TV",
+  "url": "https://www.youtube.com/watch?v=ztKdZgwtp4g",
+  "title": "LG 트윈스와 입단 합의...트리스탄 벡은 누구?",
+  "published_at": "2026-11-04T15:53:15Z",
+  "collected_at": "2026-11-04T21:38:06.095Z",
+  "summary_ko": "한 팬 채널이 LG 트리스탄 벡의 입단 합의 소식을 다룬 영상을 올렸다. 영상 제목 기준 내용이며 구단 발표는 확인되지 않았다.",
+  "metrics": {
+    "views": 162,
+    "likes": 8,
+    "comments": 4
+  },
+  "scores": {
+    "hot": 65,
+    "relevance": 50
+  },
+  "sentiment": "neutral",
+  "brief_ko": "LG, 벡과 입단 합의?"
+}

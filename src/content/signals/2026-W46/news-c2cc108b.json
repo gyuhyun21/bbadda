@@ -1,0 +1,23 @@
+{
+  "id": "news-c2cc108b",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠동아",
+  "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1mRVJXWEhpSjc0bkIwRGxlUUluZm9EeGNUcGFpZUFhNG5OalJuRFlSb3ZYeEdScjRmLWlIWUZETzdnY2ZZcTlhUDY3Vjd1SXJpZHM5aDFVbDVCcmoyMWFWcF84UTZnbzZzR0hDT1VUWE1Ldw?oc=5",
+  "title": "“젊은 선수들 좋은 모습 봤다”…대표팀 and 마무리캠프, KIA 외야 멈추지 않고 무한 성장",
+  "published_at": "2026-11-04T15:02:00.000Z",
+  "collected_at": "2026-11-04T21:38:06.095Z",
+  "summary_ko": "스포츠동아에 따르면 KIA 외야수들이 대표팀과 마무리캠프를 거치며 성장하고 있다. 젊은 선수들의 좋은 모습이 나왔다는 내용이다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "KIA 외야, 캠프서 성장"
+}

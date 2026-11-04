@@ -1,0 +1,29 @@
+{
+  "id": "news-63634522",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "미주중앙일보",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1xdkE2a2pLWm0zN1FURXF3WEFSVDJqT011ZWxwaTdxczlHeVdkU1hkcndmNDNpV1k3X25LWW9yaXR0Tml2SXNOcC1YMzYtOEh5bFBYT0tFMEhyX0VYQXI2OXR3?oc=5",
+  "title": "“배찬승이 많이 컸다” 박진만 감독, 연장 12회 혈투 버틴 불펜에 엄지척…“좌완 2명이 잘해주고 있다” [KS2]",
+  "published_at": "2026-11-04T17:10:00.000Z",
+  "collected_at": "2026-11-04T21:38:06.095Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 82,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "www.bntnews.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA3eXlRTURhdFpSMi1HaVJxVmVFM09DcERTMVdWQU5lNDFHZlpQTWtfalBmZW41R2dtUk1YYjlpRDBWVVoyVHVZeHJCaF9fNUlRVVMyV0NLcWRGTElFX19JQ1JsRzg?oc=5"
+    }
+  ]
+}

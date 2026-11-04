@@ -1,0 +1,27 @@
+{
+  "id": "youtube-7944978b",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kt"
+  ],
+  "source_type": "youtube",
+  "source_name": "엘린이의 일기",
+  "url": "https://www.youtube.com/watch?v=Duf_qngOAX0",
+  "title": "1차전 지고 시작하는 삼성을 조심해! (+우리 새 외인투수 트리스탄 벡?)ㅣ 261104 삼성 vs KT (KS2)",
+  "published_at": "2026-11-04T15:37:36Z",
+  "collected_at": "2026-11-04T21:38:06.095Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 4349,
+    "likes": 93,
+    "comments": 14
+  },
+  "scores": {
+    "hot": 60,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

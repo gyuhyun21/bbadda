@@ -1,0 +1,29 @@
+{
+  "id": "news-cfbaded4",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBGVnRPZmxQQTd3UWxVbmswMDJ1UWJHOFl6c2RfSm1kMk9nX2NJRldPdFhFUzZudWg0WWlTT09Qb0xLcVFoUmZneUZ3aDVPSTVfSm5Fd1ByeDJGOExFNFRhX3ZEUzhCSHllM3hNVDVMVnZxaFQ5THVOR3E1aHg4dw?oc=5",
+  "title": "4안타에도 90도 사과, 벤치 웃고,울린 디아즈가 지배한 2차전, 결론은 해피엔딩,\"모든게 완벽했는데\" [KS2 현장]",
+  "published_at": "2026-11-04T15:05:35.000Z",
+  "collected_at": "2026-11-04T21:38:06.095Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "negative",
+  "also_in": [
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMDQ1aHNZSjRGQ0xsSkJ6aVV2aEg3c2h1Mnk4dElLcXdNWGFUTDEtMUNGV0RfQTZfNTR2WlpLekxfRzdMV0tpenhrSzg5dzk4UTJhSEh3eE12VWZSNUhVU3RkbEwwbVR4SGU4QzZ3OVVLMExNd0xtb1drRHZiRFBSMEVHZw?oc=5"
+    }
+  ]
+}

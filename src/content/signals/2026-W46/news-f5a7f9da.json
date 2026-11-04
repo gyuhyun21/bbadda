@@ -1,0 +1,22 @@
+{
+  "id": "news-f5a7f9da",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠Q",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA2SHdtZDAtQ0hya19fNy1HUmhVUE1jNEs4Nmh2ZHdsaTlWc3dwb2xOQ2RacmozRmVnTW9laEJiVE5DWHBUaVdzTGtqU19UQy1wZ1FScTBpOWN0dklLY0tuQ2tuQTY2Ty1EbkE?oc=5",
+  "title": "천국과 지옥 사이, 삼성 디아즈의 파란만장한 하루 [한국시리즈]",
+  "published_at": "2026-11-04T15:03:52.000Z",
+  "collected_at": "2026-11-04T21:38:06.095Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 80
+  },
+  "sentiment": "neutral"
+}

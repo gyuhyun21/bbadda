@@ -1,0 +1,24 @@
+{
+  "id": "news-516fedc3",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "한겨레",
+  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1GREU4YVBBMG1ZbnRkdU9TLWlrekE4VUJKVDJXTHBtQXBDZGlZZVZKSVlESXlNYUh3d21nZTEyRjRIQ2tNckdiazN1ZVQ1Z3FHWGIzZW9ETjU5R25icTRMLXQtN2xJUGM?oc=5",
+  "title": "연장 12회, 4시간21분 혈투 끝 삼성 승리…디아즈에 울고 웃었다",
+  "published_at": "2026-11-04T15:17:00.000Z",
+  "collected_at": "2026-11-04T21:38:06.095Z",
+  "summary_ko": "삼성이 연장 12회 4시간 21분 접전 끝에 KT를 꺾었다는 보도다. 디아즈가 경기 안에서 엇갈린 장면을 남겼다고 전한다.",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "brief_ko": "12회 4시간 21분, 삼성 승리",
+  "hook_ko": "4시간 21분, 12회 끝 원점"
+}

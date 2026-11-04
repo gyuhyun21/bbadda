@@ -1,0 +1,25 @@
+{
+  "id": "news-3b464b52",
+  "issue": "2026-W46",
+  "module": "league",
+  "teams": [],
+  "source_type": "news",
+  "source_name": "미주중앙일보",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0wTXlmTFRiVVlGWGhMWjdORGZSWjFkTUVGZFZvMi14TVdqZElWRnFEQkVPTUJuUURQcjhKTUVOTFQ4WXRWZTR6WEZDZ25NdWVzaUNaSlNOTFBkYXdQWUxNMEd3?oc=5",
+  "title": "한국시리즈 기간엔 형제 아닌 적",
+  "published_at": "2026-11-04T15:35:00.000Z",
+  "collected_at": "2026-11-04T21:38:06.095Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 30
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "중앙일보",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9BY1JYOEdNd2x1RG8yblcwZ1BrWnNDcnZFV054aC16anctcTQ3UWxZako1TklPMXNtNmp1cnN4dnVTRkVmRFFtRDlGNExpZVNWTDVRQzZn?oc=5"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "youtube-153a84d4",
+  "issue": "2026-W46",
+  "module": "league",
+  "teams": [
+    "kt",
+    "samsung"
+  ],
+  "team": "kt",
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=NOxXXwTavZw",
+  "title": "KT 김정운의 ABS존 완벽 공략! 이닝을 막아냅니다! | KS2_삼성 vs KT | 11.4 | 크보모먼트 | KBO 야구 하이라이트",
+  "published_at": "2026-11-04T13:46:39Z",
+  "collected_at": "2026-11-04T21:38:06.095Z",
+  "summary_ko": "KBO 공식 채널이 KS 2차전에서 KT 김정운이 이닝을 막는 장면을 올렸다. 영상 제목 기준 내용이다.",
+  "metrics": {
+    "views": 28721,
+    "likes": 55,
+    "comments": 62
+  },
+  "scores": {
+    "hot": 53,
+    "relevance": 80
+  },
+  "sentiment": "neutral",
+  "brief_ko": "김정운, ABS존 공략"
+}

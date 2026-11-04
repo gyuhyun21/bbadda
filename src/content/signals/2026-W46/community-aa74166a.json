@@ -1,0 +1,23 @@
+{
+  "id": "community-aa74166a",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "다음카페 쭉빵카페",
+  "url": "https://cafe.daum.net/ok1221/8mNz/1201113",
+  "title": "뭔가 야구 보다가 어른의 사정같은거 듣게되면 현자타임?옴",
+  "published_at": "2026-11-04T20:29:45.000+09:00",
+  "collected_at": "2026-11-04T21:38:06.095Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "community-9a176051",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 앱테크 퀴즈 정답·핫딜 모음",
+  "url": "https://qjawns03.tistory.com/1068",
+  "title": "[신한 쏠퀴즈·퀴즈팡팡] 11월 4일 한국시리즈 정답 총정리",
+  "published_at": "2026-11-04T21:25:28.000+09:00",
+  "collected_at": "2026-11-04T21:38:06.095Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

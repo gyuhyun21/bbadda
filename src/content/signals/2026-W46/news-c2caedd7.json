@@ -1,0 +1,25 @@
+{
+  "id": "news-c2caedd7",
+  "issue": "2026-W46",
+  "module": "league",
+  "teams": [],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1sd1YySmZaYUtwOE0xUkNpQWUyRmRoOGtYUDFncW0xbDFxcGprZFgwb2UtOEFnMTExSTZQeVltLXpvVi1YS1RBb3JlbGtFcG8zUTBkY3p2WFNPZHFQTnc4WjBLbGNJbGZVelFmUms5VdIBb0FVX3lxTE1sd1YySmZaYUtwOE0xUkNpQWUyRmRoOGtYUDFncW0xbDFxcGprZFgwb2UtOEFnMTExSTZQeVltLXpvVi1YS1RBb3JlbGtFcG8zUTBkY3p2WFNPZHFQTnc4WjBLbGNJbGZVelFmUms5VQ?oc=5",
+  "title": "[사진]우규민, 한국시리즈 첫 등판",
+  "published_at": "2026-11-04T13:46:00.000Z",
+  "collected_at": "2026-11-04T21:38:06.095Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 81,
+    "relevance": 30
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdlB1M21NbGVwemthWWV0RDg2UkoyNVJ3eXdJY3hKV25TRUpSNFdCd2Jpc3JrRTd4U05Ga0dKODBuR2QwQ055Znc0Z09KV3ZManI0cEhHX19UM2tGN1hkM2xRa1VBNkRJd2NRSm9HN2RhUFlmcTI3QzNuTUV4dFhsb1lVRFFqQ1pV?oc=5"
+    }
+  ]
+}

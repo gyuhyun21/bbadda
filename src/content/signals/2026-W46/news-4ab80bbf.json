@@ -1,0 +1,23 @@
+{
+  "id": "news-4ab80bbf",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5DeFNDc1BIb2VweDFaWTUtLWxOYTE3Z2lDUDFzeE54RG9HMzdVVGlSQzl2LThZbjl1bVoxTlMyeUhmQUJ4RXVNbTQxbzhKZkFSWTRtSHFSRzV4bHlySHhLM1owZEZ0QTRVWEhQbUNUWdIBb0FVX3lxTE5DeFNDc1BIb2VweDFaWTUtLWxOYTE3Z2lDUDFzeE54RG9HMzdVVGlSQzl2LThZbjl1bVoxTlMyeUhmQUJ4RXVNbTQxbzhKZkFSWTRtSHFSRzV4bHlySHhLM1owZEZ0QTRVWEhQbUNUWQ?oc=5",
+  "title": "[포토] 박영현, 8회 구원 등판",
+  "published_at": "2026-11-04T12:10:43.000Z",
+  "collected_at": "2026-11-04T21:38:06.095Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "news-18d7c884",
+  "issue": "2026-W46",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "미주중앙일보",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB0WnlYTUtDUnZXUGZIOE9YMEluLThYeXlOTVhmOXJSTldNaE90MUNXbVVIUUw3ZllxU241YzB0MTQ3TnI0aEpickpFTFJTMXdDa3VLcmx4dHhSYmJmdWw1bGd3?oc=5",
+  "title": "“놀란 라이언도 했는데 나라고 못할까” 10일간 295구 던진 페덱, 4일 쉬고 7이닝 1실점 역투 [KS2]",
+  "published_at": "2026-11-04T18:10:00.000Z",
+  "collected_at": "2026-11-04T21:38:06.095Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

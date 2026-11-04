@@ -1,0 +1,27 @@
+{
+  "id": "youtube-3e3616a5",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "youtube",
+  "source_name": "크보쌍둥이",
+  "url": "https://www.youtube.com/watch?v=K-J_FAngtpo",
+  "title": "롯데 초대박! 전미르 156km! 신무기도 장착! 내년 롯데 마운드 강해진다! #롯데자이언츠 #전미르 #김진욱 #한동희",
+  "published_at": "2026-11-04T11:05:56Z",
+  "collected_at": "2026-11-04T21:38:06.095Z",
+  "summary_ko": "한 팬 채널이 롯데 전미르가 156km를 던졌다는 영상을 올렸다. 영상 제목 기준 내용이다.",
+  "metrics": {
+    "views": 33516,
+    "likes": 259,
+    "comments": 33
+  },
+  "scores": {
+    "hot": 57,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "전미르 156km 신무기"
+}

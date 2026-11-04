@@ -1,0 +1,26 @@
+{
+  "id": "youtube-24b2375b",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "youtube",
+  "source_name": "크보시리즈",
+  "url": "https://www.youtube.com/watch?v=rIGV4Oq8cvk",
+  "title": "LG 158km 빅리거 영입 ㄷㄷ",
+  "published_at": "2026-11-04T14:54:35Z",
+  "collected_at": "2026-11-04T21:38:06.095Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1482,
+    "likes": 3,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 37,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

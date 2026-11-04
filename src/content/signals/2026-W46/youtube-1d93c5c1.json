@@ -1,0 +1,26 @@
+{
+  "id": "youtube-1d93c5c1",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "source_name": "보람비타",
+  "url": "https://www.youtube.com/watch?v=3dnysNrB4WE",
+  "title": "🦅 2026 한화이글스 홈 피날레 #한화이글스",
+  "published_at": "2026-11-04T16:17:58Z",
+  "collected_at": "2026-11-04T21:38:06.095Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 153,
+    "likes": 1,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 30,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

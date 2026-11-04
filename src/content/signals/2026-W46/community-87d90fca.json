@@ -1,0 +1,24 @@
+{
+  "id": "community-87d90fca",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 lumiful_RECORD",
+  "url": "https://blog.naver.com/lumiful_/224464450208",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/H2mBxYAs19o",
+  "title": "261103 그림일기 : 10시간 수면 / 피자스쿨 고구마피자 예찬론자 / KBO 야구 굿즈 뽑기 실패",
+  "published_at": "2026-11-04T10:55:00.000+09:00",
+  "collected_at": "2026-11-04T21:38:06.095Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 61,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

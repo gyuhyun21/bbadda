@@ -1,0 +1,23 @@
+{
+  "id": "news-e2cbaeb8",
+  "issue": "2026-W46",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kt"
+  ],
+  "source_type": "news",
+  "source_name": "아시아투데이",
+  "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9JWjUxQVExQlhMY1YzS3AwdDBYZkxfTUZSbUJRVVFfWXZwQW1DOGgtQVhMN2xfR1FIYm84Q3dQX3Z1cVpyVnZxTERtRVF4dXcyZ0xHa25MSHVBQmUyMFBubEc0S1I0akVqMXRIM1J3?oc=5",
+  "title": "삼성 박진만 “집중력이 승리 요인”…kt 이강철 “이런 야구 처음”",
+  "published_at": "2026-11-04T15:05:22.000Z",
+  "collected_at": "2026-11-04T21:38:06.095Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

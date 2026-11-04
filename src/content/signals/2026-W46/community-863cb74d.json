@@ -1,0 +1,23 @@
+{
+  "id": "community-863cb74d",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 세상의 모든 것",
+  "url": "https://blog.naver.com/gung_joo2/224464327568",
+  "title": "조원빈의 20홈런-30도루, 5년 만의 침묵을 깬 미국 직행의 결실",
+  "published_at": "2026-11-04T09:06:00.000+09:00",
+  "collected_at": "2026-11-04T21:38:06.095Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 60,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

@@ -650,6 +650,85 @@
           "youtube": 66
         }
       }
+    },
+    {
+      "week": "2026-W46",
+      "collected_at": "2026-11-04T21:38:06.095Z",
+      "sources": {
+        "news_rss": {
+          "total": 528,
+          "feeds": 18
+        },
+        "youtube": {
+          "total": 128,
+          "units": 1020,
+          "searches": 10,
+          "filtered_by_title": 9
+        },
+        "kakao": {
+          "total": 448,
+          "requests": 20,
+          "filtered_ads": 18
+        },
+        "instagram": {
+          "total": 0
+        },
+        "vertex": {
+          "total": 376,
+          "requests": 50,
+          "dropped_undated": 0,
+          "dropped_suspect_date": 40
+        }
+      },
+      "failures": [
+        {
+          "source": "news_rss",
+          "error": {
+            "feed": "gnews-team-lg",
+            "error": "HTTP 503: <html><head><meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\"/><title>Sorry...</title><style> body { font-family: verdana, arial, sans-serif; background-color: #fff; color: #000; }</s"
+          }
+        },
+        {
+          "source": "instagram",
+          "error": "@lgtwinsbaseballclub: 토큰 만료(오류 190) — 장기 토큰을 다시 발급하세요"
+        }
+      ],
+      "skipped": [],
+      "out_of_window": 223,
+      "dropped_no_team": 268,
+      "team_inferred": 293,
+      "dedupe": {
+        "dropped_existing": 603,
+        "merged_in_batch": 88
+      },
+      "dropped_cap": 104,
+      "new_signals": {
+        "total": 194,
+        "by_module": {
+          "fans": 127,
+          "team": 44,
+          "rivalry": 8,
+          "league": 15
+        },
+        "by_team": {
+          "samsung": 49,
+          "kt": 32,
+          "lotte": 15,
+          "ssg": 18,
+          "hanwha": 20,
+          "kia": 22,
+          "lg": 17,
+          "doosan": 5,
+          "-": 11,
+          "kiwoom": 2,
+          "nc": 3
+        },
+        "by_source": {
+          "community": 81,
+          "news": 62,
+          "youtube": 51
+        }
+      }
     }
   ]
 }

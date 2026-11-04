@@ -1,0 +1,24 @@
+{
+  "id": "community-b25f6f6c",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kt"
+  ],
+  "source_type": "community",
+  "source_name": "레딧 r/KBO",
+  "url": "https://www.reddit.com/r/KBO/comments/1xnvm21/highlights_2026_%EC%8B%A0%ED%95%9C_sol_kbo_korean_series_samsung/",
+  "title": "Samsung Lions vs. KT Wiz (Game 2)",
+  "published_at": "2026-11-04T18:38:06.095Z",
+  "collected_at": "2026-11-04T21:38:06.095Z",
+  "summary_ko": "",
+  "excerpt": "... [Highlights] 2026 신한 SOL KBO Korean Series: Samsung Lions vs. KT Wiz (Game 2).…",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

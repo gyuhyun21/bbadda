@@ -1,0 +1,24 @@
+{
+  "id": "community-ddc97ef7",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 송봉길의 멘탈트레이닝",
+  "url": "https://blog.naver.com/bonggil0829/224464526631",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/D38Vmk83RDC",
+  "title": "[멘탈 매거진] 일본 멘탈트레이닝 전문가 정보 리스트 (update: 2026.11.04)",
+  "published_at": "2026-11-04T11:56:00.000+09:00",
+  "collected_at": "2026-11-04T21:38:06.095Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 61,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}
