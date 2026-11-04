@@ -1,0 +1,27 @@
+{
+  "id": "youtube-14c8d243",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "야구는 왜그럴까",
+  "url": "https://www.youtube.com/watch?v=KCEzQcQxr-s",
+  "title": "타자는 웃고 투수는 모자까지 벗음ㅋㅋ 최지훈 슈퍼캐치 TOP3",
+  "published_at": "2026-11-03T21:00:27Z",
+  "collected_at": "2026-11-04T07:38:32.453Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1744,
+    "likes": 13,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 43,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

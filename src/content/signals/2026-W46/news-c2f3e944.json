@@ -1,0 +1,29 @@
+{
+  "id": "news-c2f3e944",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA4SGFKa2Y2aFZpYlBBa1NwYmpuamhUVFc3ZkVTTjYwcUF0LXlFeGQzaHNiakxCa0tvaTRuVGl2bEJHZkFDeXRTbFJDeHA0Y1NEc3NqSktjaUJLaHVWdjF2dWJXemRzQ2VNcFh6MXl1ONIBb0FVX3lxTFA4SGFKa2Y2aFZpYlBBa1NwYmpuamhUVFc3ZkVTTjYwcUF0LXlFeGQzaHNiakxCa0tvaTRuVGl2bEJHZkFDeXRTbFJDeHA0Y1NEc3NqSktjaUJLaHVWdjF2dWJXemRzQ2VNcFh6MXl1OA?oc=5",
+  "title": "'선발 ERA 10.31' 처참한 70억 FA 성적, 사실상 사라진 최원태 카드 [KS]",
+  "published_at": "2026-11-03T23:58:15.000Z",
+  "collected_at": "2026-11-04T07:38:32.453Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 89,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBvZGt4b0ozT0VRcXBfOU5mblItd2dabWhVcUlYTkFsR2hEMV9GaFJ1OHZYbVVZd3JTM2FHbTB1eXRHeko4Q3ViVFJTVEw0R0dHbnlEYzRVUkgtS1VqYmNJbjVyUlNOUmszSTh0N2V3SXhrcGpTdmc?oc=5"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": "youtube-9335399f",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "Eagles TV",
+  "url": "https://www.youtube.com/watch?v=xVyPQUjxYYM",
+  "title": "외야 세 자리 '무한경쟁' 한화이글스 외야수 8인 훈련 밀착CAM",
+  "published_at": "2026-11-04T03:00:19Z",
+  "collected_at": "2026-11-04T07:38:32.453Z",
+  "summary_ko": "이글스TV가 외야수 8명이 함께한 훈련 영상을 공개했다. 외야 세 자리를 두고 경쟁이 붙었다는 내용이다.",
+  "metrics": {
+    "views": 56247,
+    "likes": 1030,
+    "comments": 424
+  },
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "외야 세 자리 무한경쟁"
+}

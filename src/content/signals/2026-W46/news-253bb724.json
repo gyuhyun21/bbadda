@@ -1,0 +1,24 @@
+{
+  "id": "news-253bb724",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "MHN스포츠",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5oLUQxaE8wcXdNRmkxTjl6N0V0S2pGQXNRbnd5VkljZmIwWmVSZmI0OUxOX2FFN2cyWm51V09RLVdIWXdqS1lqb3hZdW5DeVFoTVhaMWNHOThZOE1fczhseVdPaw?oc=5",
+  "title": "\"포구도 토스도 안 된다\"…새 수비코치 김민성, 나승엽 향한 직언 \"공 올까 두려워 해\"",
+  "published_at": "2026-11-04T02:49:57.000Z",
+  "collected_at": "2026-11-04T07:38:32.453Z",
+  "summary_ko": "MHN스포츠에 따르면 롯데 새 수비코치 김민성이 나승엽에게 수비 직언을 했다. 공이 올까 두려워한다는 지적이다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "김민성 코치의 직언"
+}

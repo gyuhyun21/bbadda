@@ -1,0 +1,24 @@
+{
+  "id": "community-dd2c6a3b",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 톱스타뉴스",
+  "url": "https://blog.naver.com/topstarnews/224464385792",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/F9iVJw4w8C3",
+  "title": "'불꽃야구2', 20번째 직관 경기 오늘(4일) 예매 오픈…\"이택근 선수 마지막 경기\"",
+  "published_at": "2026-11-04T10:44:00.000+09:00",
+  "collected_at": "2026-11-04T07:38:32.453Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "youtube-42f63dcb",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "하루소란",
+  "url": "https://www.youtube.com/watch?v=Y8sbbuL7E1E",
+  "title": "8점 차도 안심 못했다! 삼성 대추격에 KT 진땀승 #삼성 #KT #한국시리즈",
+  "published_at": "2026-11-04T06:00:03Z",
+  "collected_at": "2026-11-04T07:38:32.453Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 810,
+    "likes": 7,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 40,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "MBC 뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE90Qm5oOHZuU2V1WV90WFR4a0xOZDF2X2FhUVN5eDB0LWZoaWQ1WWR0RGl0UkVoakVRb3QycmpKVTlSS3RpdEZwYzdfVG5reExWbjN5Y0FBQ0l5Y2Y1NkVGQVFfYkFPcGRlcHExbF9Mc2RXdzd3b2FxWm9B0gF6QVVfeXFMTmJPcnlDWTUzbmpmR1dfb3kzREJ6VEVHOUI4cG1QYVAzNExGY3JHNFBhaHhxaC1JWlk0TTkySkpKSjIxZTRsNEpLSWFFTmh5UF9fWGRxWkFkMGgwVmtXTWNpa3JkUm1iQmdXYVd1bUlkMFhkWHRqMm5KYkE?oc=5"
+    }
+  ]
+}

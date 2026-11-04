@@ -1,0 +1,29 @@
+{
+  "id": "news-632e3874",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://www.mt.co.kr/amp/sports/2026/11/04/202611040719776290O",
+  "title": "'충격의 부상 낙마' 14승 우완 사라졌다, 대표팀 마운드 어떻게 꾸려질까 \"SSG 선발 3인방이 중요해\"",
+  "published_at": "2026-11-03T23:01:00.000Z",
+  "collected_at": "2026-11-04T07:38:32.453Z",
+  "summary_ko": "머니투데이에 따르면 14승 우완이 부상으로 대표팀에서 빠졌다. 기사는 SSG 선발 3인방이 대표팀 마운드의 열쇠라고 짚었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 81,
+    "relevance": 70
+  },
+  "sentiment": "negative",
+  "also_in": [
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQWtadF9EYWE4bFY2cE9uVEY3ZW9qR3pHOUt3RkNCdTdwWm5fVGF4emFDbVZhSjFSSkhTYlIzLU9CYk80VVU4MjIyT3ozN2dfVkMyY0F1QUdFRDlRaElJT2lVYXBjS2oxaDB0S1h4SFJ6OTVUR3dZMThScEJUZWVxOGdKaw?oc=5"
+    }
+  ],
+  "brief_ko": "14승 우완 낙마, 대표팀 변수"
+}

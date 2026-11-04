@@ -1,0 +1,24 @@
+{
+  "id": "news-2eaf6892",
+  "issue": "2026-W46",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "마이데일리",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9RRG85Q1VSUlFGaDgwc0pOblg5d2k2aGZDYUE5NGJOUUUyeWhIcTdGSndZMFJNVkFWdWJzWlZfakxVVk1jYklrdDVFLTdGUUF5YlFMbGRFZHdDYmZaU2FJQw?oc=5",
+  "title": "KS 첫 홈런포 폭발→70억 이 투수 강판 시켰는데…국대 4번타자 왜 자책했나 \"아쉬웠던 타석만 기억 남아, 박영현 폭투 때 진짜 떨렸다\"",
+  "published_at": "2026-11-04T03:01:00.000Z",
+  "collected_at": "2026-11-04T07:38:32.453Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

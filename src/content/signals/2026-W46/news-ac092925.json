@@ -1,0 +1,23 @@
+{
+  "id": "news-ac092925",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "미주중앙일보",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE41em9RalhMN2lvd1VaT0k5RTI2ME5oblVFd2lmdnBfN1BJbFNLejJraXo3QUZra19EZW50RVBUSjM2UXpDanJFVUxNeG4wVUZkQlEzSDJpeUdNZ3BGOS1zLThR?oc=5",
+  "title": "타이거즈 새 역사 홈런킹에 MVP 유력, 고과 이상의 특별한 가치...슈퍼스타, 이정후 넘어 10억까지 도달할까?",
+  "published_at": "2026-11-04T00:10:00.000Z",
+  "collected_at": "2026-11-04T07:38:32.453Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

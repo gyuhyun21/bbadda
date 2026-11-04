@@ -1,0 +1,26 @@
+{
+  "id": "youtube-a6f92868",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "의자왕과 삼천 최애",
+  "url": "https://www.youtube.com/watch?v=QDxqoX4HRUk",
+  "title": "난빌고빌었어네가네가잘던지라고 - #최원태 #삼성라이온즈",
+  "published_at": "2026-11-04T04:03:21Z",
+  "collected_at": "2026-11-04T07:38:32.453Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1250,
+    "likes": 79,
+    "comments": 20
+  },
+  "scores": {
+    "hot": 75,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "news-9c49b34d",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "조선일보",
+  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYnZUQ2xjYkR1WjhGbjJ6YzlUTWhLdjU1U1FXWGRxS2FuVi02QUE1MzBtNWJxTkQtcVZ0WGt0Uk5kdE54Y3F6dkQ3bDljWlhVaU5kOUpqVnhrODVMb0F0dTVaX3EwcE53ZWZWSXVkYkVwTnc5NVJIZlFvOHQ1YWFFenl3U1gtYm1r?oc=5",
+  "title": "[사진]한국시리즈 훈련 함께하는 삼성 김재윤",
+  "published_at": "2026-11-04T07:29:00.000Z",
+  "collected_at": "2026-11-04T07:38:32.453Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1OUjlTZWctcEl3anI0MDhEYUZnckFCT0tyWnlqQjlkeGZwa3NGWTJuYzNmOGs3U0dRWlZkYjE0UnhKTW9KbjA1WU9wSi1ybDRLMlpj?oc=5"
+    }
+  ]
+}

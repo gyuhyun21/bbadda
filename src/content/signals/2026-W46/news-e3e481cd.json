@@ -1,0 +1,24 @@
+{
+  "id": "news-e3e481cd",
+  "issue": "2026-W46",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "미주중앙일보",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBEQnZidjdKY284RlRqbFVfVk1kVFVTNFFHMm9hMXhwZUwwVEhKUkdYQmNFcHI0SHFtaXlGTVZuVjB1ZjVtQVRhc05lYWpHLXdvbGZLd0Jsb3M4UkZ4SFBvNW1B?oc=5",
+  "title": "‘와’ 1위팀 천만다행! ‘손가락 삐끗’ KS MVP 정상 출전, 2루수 김상수→류현인...2차전 선발 공개 [KS2]",
+  "published_at": "2026-11-04T07:01:00.000Z",
+  "collected_at": "2026-11-04T07:38:32.453Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

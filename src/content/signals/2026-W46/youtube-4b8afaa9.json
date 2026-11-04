@@ -1,0 +1,26 @@
+{
+  "id": "youtube-4b8afaa9",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "다로",
+  "url": "https://www.youtube.com/watch?v=m0p31tBXBDM",
+  "title": "최.강.기아KIA TIGERS",
+  "published_at": "2026-11-04T06:30:28Z",
+  "collected_at": "2026-11-04T07:38:32.453Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 469,
+    "likes": 7,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 42,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

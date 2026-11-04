@@ -1,0 +1,23 @@
+{
+  "id": "news-7639746e",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBDUEZCNVpDakhsN1gyTXp1ekc0X1NVSUVERTkycEVJZTlkVkkyS3pyM2dLWjZlVDNxa2xMaXZ5Q1hoem4tY3duRGhjLXBrRzdDSmR5c0x2bU5yc3RYcmt3dkwyUkxJRV8tTWF3akw4b9IBb0FVX3lxTFBDUEZCNVpDakhsN1gyTXp1ekc0X1NVSUVERTkycEVJZTlkVkkyS3pyM2dLWjZlVDNxa2xMaXZ5Q1hoem4tY3duRGhjLXBrRzdDSmR5c0x2bU5yc3RYcmt3dkwyUkxJRV8tTWF3akw4bw?oc=5",
+  "title": "'속구 7.5점, 변화구 4점, 전체 6.5점...' 아시아쿼터가 무슨 마무리 캠프를 뛰어? 진짜 대단하네, 사령탑이 다 지켜보고 있다",
+  "published_at": "2026-11-03T22:29:00.000Z",
+  "collected_at": "2026-11-04T07:38:32.453Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

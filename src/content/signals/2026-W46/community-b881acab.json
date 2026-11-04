@@ -1,0 +1,24 @@
+{
+  "id": "community-b881acab",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 ground_note님의 블로그",
+  "url": "https://blog.naver.com/ground_note/224464400673",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/Ak4veuSOUbm",
+  "title": "김하성 FA 시장서 감감무소식인 이유, 알고 보니 이것 때문",
+  "published_at": "2026-11-04T10:44:00.000+09:00",
+  "collected_at": "2026-11-04T07:38:32.453Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

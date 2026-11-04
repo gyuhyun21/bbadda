@@ -1,0 +1,28 @@
+{
+  "id": "youtube-9d90b6b6",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "kt wiz - 위즈TV",
+  "url": "https://www.youtube.com/watch?v=J3x4AeOFtqk",
+  "title": "[2026 kt wiz #한국시리즈 2차전 선발투수]",
+  "published_at": "2026-11-04T03:00:38Z",
+  "collected_at": "2026-11-04T07:38:32.453Z",
+  "summary_ko": "위즈TV가 KS 2차전 선발투수 소개 영상을 올렸다. 4일 수원 경기에 나서는 선발을 알리는 공식 영상이다.",
+  "metrics": {
+    "views": 9523,
+    "likes": 850,
+    "comments": 74
+  },
+  "scores": {
+    "hot": 85,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "KS2 선발투수 공개"
+}

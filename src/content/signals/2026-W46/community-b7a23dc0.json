@@ -1,0 +1,24 @@
+{
+  "id": "community-b7a23dc0",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 홍익리뷰",
+  "url": "https://koreawar.tistory.com/11",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/JGFBipLsBqA",
+  "title": "한국시리즈 2차전 2026 일정·장소·실전 체크리스트 | 오늘 방문 전 확인할 것",
+  "published_at": "2026-11-04T16:01:40.000+09:00",
+  "collected_at": "2026-11-04T07:38:32.453Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

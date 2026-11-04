@@ -1,0 +1,26 @@
+{
+  "id": "youtube-20250cce",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "youtube",
+  "source_name": "Sira LIFE ",
+  "url": "https://www.youtube.com/watch?v=vtBWZ0i0_1Y",
+  "title": "한국시리즈 7시간 전! 수원 KT위즈파크는 지금 어떤 모습??",
+  "published_at": "2026-11-04T05:30:09Z",
+  "collected_at": "2026-11-04T07:38:32.453Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 25,
+    "likes": 3,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 56,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

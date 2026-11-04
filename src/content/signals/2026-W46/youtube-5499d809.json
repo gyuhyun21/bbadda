@@ -1,0 +1,26 @@
+{
+  "id": "youtube-5499d809",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "MYKORI",
+  "url": "https://www.youtube.com/watch?v=XzEZqFipC74",
+  "title": "끊임없는 삼성 무시, 장성호의 예측은 맞을까?  #삼성라이온즈 #장성호 #한국시리즈",
+  "published_at": "2026-11-04T06:33:28Z",
+  "collected_at": "2026-11-04T07:38:32.453Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 904,
+    "likes": 7,
+    "comments": 3
+  },
+  "scores": {
+    "hot": 43,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

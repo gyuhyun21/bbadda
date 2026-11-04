@@ -1,0 +1,30 @@
+{
+  "id": "news-1227ce95",
+  "issue": "2026-W46",
+  "module": "rivalry",
+  "team": "lg",
+  "teams": [
+    "lg",
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "강원도민일보",
+  "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE90ZEIwTFQxX083NTc1YV9BODZTLUtpQW9YUVQySzZYRlpaNjZFQmVNX1RQdHRwMUVSRUluXzYzcThNci1fT1g5MWFMU3ZfV1dPT2RWdlVRSDZFWTNsX2U2LTZVY1JyUQ?oc=5",
+  "title": "가을야구 입장 수입 100억원 돌파…역대 최고치 넘을까",
+  "published_at": "2026-11-04T05:16:02.000Z",
+  "collected_at": "2026-11-04T07:38:32.453Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 99,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "KBC광주방송",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBMSzVDOHJ3LWFGZk5sdjNwYlRLNHltYVZkSDBJelR1dWdZRTFXSEdWQmUwZ3NSeVhyOVZjSmxhamhBcGxCWlJhNlBLNHNqazhacmFwNzZaeVAycFAybXZ0UQ?oc=5"
+    }
+  ]
+}

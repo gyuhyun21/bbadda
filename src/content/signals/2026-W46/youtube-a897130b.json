@@ -1,0 +1,26 @@
+{
+  "id": "youtube-a897130b",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "youtube",
+  "source_name": "야구이슈",
+  "url": "https://www.youtube.com/watch?v=7fQLAYAibSg",
+  "title": "KBO 이슈 #8 | 한국에서 8억 받던 SSG 앤더슨, 디트로이트 134억 옵션 실행…500세이브 앞둔 잰슨 대신 잡았다 #11월4일 #KBO이슈8 #SSG랜더스",
+  "published_at": "2026-11-04T00:05:04Z",
+  "collected_at": "2026-11-04T07:38:32.453Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1198,
+    "likes": 6,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 39,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

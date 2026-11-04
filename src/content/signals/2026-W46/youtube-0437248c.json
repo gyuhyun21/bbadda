@@ -1,0 +1,27 @@
+{
+  "id": "youtube-0437248c",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc",
+    "ssg"
+  ],
+  "source_type": "youtube",
+  "source_name": "하루뚜집",
+  "url": "https://www.youtube.com/watch?v=VfNdy14KS-8",
+  "title": "⚾️ 서강준이 쏘아 올린 | 당일치기 창원 원정 혼직! 레츠고! | NC파크 좌석 및 주변 카페 소개 | SSG vs NC 직관 브이로그",
+  "published_at": "2026-11-03T21:45:07Z",
+  "collected_at": "2026-11-04T07:38:32.453Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 48,
+    "likes": 1,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 36,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

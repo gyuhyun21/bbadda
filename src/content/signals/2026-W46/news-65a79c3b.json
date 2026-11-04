@@ -1,0 +1,23 @@
+{
+  "id": "news-65a79c3b",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "news",
+  "source_name": "매일신문",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB0Qkg4b255RVpnNHFlN2dmaEtUT1ZOaGU5VktxRElxb2RaZnRSel9yeXJYdGZlVDZPM0pQS0ltR3pXWDZObE1ORTlNZVRCUmRWVmdKZWRqYjJHRWp4c052aFB3?oc=5",
+  "title": "두산 타카다, 22만 달러 재계약 후 마무리캠프까지…최승용 \"속구 7.5점\"",
+  "published_at": "2026-11-04T01:37:04.000Z",
+  "collected_at": "2026-11-04T07:38:32.453Z",
+  "summary_ko": "매일신문에 따르면 두산 타카다가 22만 달러에 재계약하고 마무리캠프에 합류했다. 최승용은 자신의 속구를 7.5점으로 평가했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "타카다 22만 달러 재계약"
+}

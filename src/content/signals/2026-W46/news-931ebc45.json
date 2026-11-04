@@ -1,0 +1,23 @@
+{
+  "id": "news-931ebc45",
+  "issue": "2026-W46",
+  "module": "rivalry",
+  "team": "kt",
+  "teams": [
+    "kt",
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "연합뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBWbFlEbFVPN0d3dnprYmVsM0Z2ZlZXZExvT2xtQmJyVnp6S19qQXBzM2g3MzJXcWc3WHhpOHdmNjN0TmQydHFQUDZsNjhYZWtaV2dLTUMzZGVZUGZQekJhUtIBYEFVX3lxTFBWbFlEbFVPN0d3dnprYmVsM0Z2ZlZXZExvT2xtQmJyVnp6S19qQXBzM2g3MzJXcWc3WHhpOHdmNjN0TmQydHFQUDZsNjhYZWtaV2dLTUMzZGVZUGZQekJhUg?oc=5",
+  "title": "'불펜 알바' kt 로건·삼성 원태인, 다시 선발 중책 맡나",
+  "published_at": "2026-11-04T04:01:42.000Z",
+  "collected_at": "2026-11-04T07:38:32.453Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

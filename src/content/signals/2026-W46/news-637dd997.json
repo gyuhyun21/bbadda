@@ -1,0 +1,28 @@
+{
+  "id": "news-637dd997",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "스타뉴스",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4xUS1iUUNKbDV4RS16SV96cHd5OXVRYU96R0FHUGhkWkNsa1NaR0c3dUxXb3pUcHkyVWJQdXRfSmdodXlIYmVwZVVsR0FpamNGb09hODZoa0NkbnNsMS0zdl84eDRuZGh6ZU5JajdqTXk3V1FGRmc?oc=5",
+  "title": "가을야구 첫 안타가 KS 홈런이라니... KIA 떠난 '데뷔 14년 차' 포수 대반전 [KS1 현장]",
+  "published_at": "2026-11-03T22:01:00.000Z",
+  "collected_at": "2026-11-04T07:38:32.453Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 81,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBKMmlfOENsTHZZa3BGVjVEY0U5SEhEM3Rrd1UwOVcwSERQUF94XzZnSldEdVQwa0tPdF9GQWlCWV9mNUxIT25VdDZPbkNIM2lvWVJyYi1xMVJlUG9xbU5lZ1dIazd3SlZzaUY1Mndvd9IBb0FVX3lxTFBKMmlfOENsTHZZa3BGVjVEY0U5SEhEM3Rrd1UwOVcwSERQUF94XzZnSldEdVQwa0tPdF9GQWlCWV9mNUxIT25VdDZPbkNIM2lvWVJyYi1xMVJlUG9xbU5lZ1dIazd3SlZzaUY1Mndvdw?oc=5"
+    }
+  ]
+}

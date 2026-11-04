@@ -1,0 +1,24 @@
+{
+  "id": "community-6134e425",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 하이스포츠 인사이드",
+  "url": "https://blog.naver.com/historycar/224464452335",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/5S3sftTLe9X",
+  "title": "\"미국 간다는데 1라운드 지명?\" 요미우리 오다 쇼키, 다저스 포함 MLB 12개 구단과 협상…신인 드래프트...",
+  "published_at": "2026-11-04T10:56:00.000+09:00",
+  "collected_at": "2026-11-04T07:38:32.453Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "youtube-da291470",
+  "issue": "2026-W46",
+  "module": "league",
+  "teams": [],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=KqtOOqYotlw",
+  "title": "5개의 아웃카운트로 팀의 승리를 지켜낸 위즈의 수호신 박영현🧙",
+  "published_at": "2026-11-04T01:40:08Z",
+  "collected_at": "2026-11-04T07:38:32.453Z",
+  "summary_ko": "KBO 공식 채널이 5아웃 세이브로 KT 승리를 지킨 박영현 영상을 올렸다.",
+  "metrics": {
+    "views": 15636,
+    "likes": 360,
+    "comments": 27
+  },
+  "scores": {
+    "hot": 68,
+    "relevance": 30
+  },
+  "sentiment": "positive",
+  "brief_ko": "박영현, 5아웃 세이브"
+}

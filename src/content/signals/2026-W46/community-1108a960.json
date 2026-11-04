@@ -1,0 +1,23 @@
+{
+  "id": "community-1108a960",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 AI제니 님의 블로그",
+  "url": "https://today.livestoryforge.com/15987",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/5ZGVx8aG45N",
+  "title": "KIA 타이거즈, 수술 후 149km 복귀한 시라카와와 재계약 가능할까?",
+  "published_at": "2026-11-04T16:36:18.000+09:00",
+  "collected_at": "2026-11-04T07:38:32.453Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "mixed"
+}

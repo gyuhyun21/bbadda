@@ -1,0 +1,23 @@
+{
+  "id": "news-cd59d708",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "복지TV부울경방송",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9uWnZKYnlpc0Yxblp2aWF1RlNJLUVXTXZuWDBZVzBkUmJxY3ZaZ1d4bEdFU3hScXZ4U19kRjNIMzQwMW43aExRbnJqU014Mm90cDZXWnluNFhxa2tvTmdkQWxHVjBxS2ly?oc=5",
+  "title": "'불멸의 승부사' 최동원, 대한민국 스포츠영웅 등극…한국 야구의 전설 다시 빛나다",
+  "published_at": "2026-11-04T01:43:55.000Z",
+  "collected_at": "2026-11-04T07:38:32.453Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-a0f72e49",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "연합뉴스",
+  "url": "https://www.yna.co.kr/amp/view/AKR20261104066300007",
+  "title": "'KS 2차전 출격' 삼성 페덱 \"이 순간 위해 뼈 빠지게 훈련했다\"",
+  "published_at": "2026-11-04T01:30:04.000Z",
+  "collected_at": "2026-11-04T07:38:32.453Z",
+  "summary_ko": "연합뉴스에 따르면 삼성 페덱이 KS 2차전 선발로 나선다. 페덱은 '이 순간을 위해 뼈 빠지게 훈련했다'고 말했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "페덱 \"이 순간 위해 훈련\""
+}

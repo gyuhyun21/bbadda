@@ -1,0 +1,26 @@
+{
+  "id": "youtube-848dfc52",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "크보분석실",
+  "url": "https://www.youtube.com/watch?v=VHpPOTbMUjA",
+  "title": "결국 박영현을 넘지 못한 삼성라이온즈 | 한국시리즈 1차전",
+  "published_at": "2026-11-04T05:30:29Z",
+  "collected_at": "2026-11-04T07:38:32.453Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 987,
+    "likes": 2,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 37,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

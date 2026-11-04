@@ -1,0 +1,24 @@
+{
+  "id": "community-ffe6a16b",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 건이산이아빠의 블로그",
+  "url": "https://content00035.tistory.com/42",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/6rjKvgOrW6p",
+  "title": "KBO 역대 우익수 TOP 7 총정리 | 손아섭·심정수·나성범·이진영, 최고의 우익수는?",
+  "published_at": "2026-11-04T13:30:47.000+09:00",
+  "collected_at": "2026-11-04T07:38:32.453Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

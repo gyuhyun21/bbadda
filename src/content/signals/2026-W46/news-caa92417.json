@@ -1,0 +1,23 @@
+{
+  "id": "news-caa92417",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "조선일보",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQalJ2Smthem56YTdoTzB2XzhEREpzZFVQRmxCWXR5MHZ2aFc4QTRReV9pTUJzNDgzbHozaXdUbzY5NGNFMjljWjhTNFNLYXJxNVFsTlYzX05kQUtZOFJVSHRDeUsyQTk0aGZ2dEN4b2lSM2NsVldPWGdwUXhPVWlsaHlxaw?oc=5",
+  "title": "\"뭔가 잘못됐는데요?\" FA 대어급 관심받은 상무 전역자, 눈물은 없다[가고시마 인터뷰]",
+  "published_at": "2026-11-04T00:50:00.000Z",
+  "collected_at": "2026-11-04T07:38:32.453Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

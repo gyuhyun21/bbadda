@@ -1,0 +1,28 @@
+{
+  "id": "youtube-2d5419d7",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kt"
+  ],
+  "source_type": "youtube",
+  "source_name": "여리 타이거즈",
+  "url": "https://www.youtube.com/watch?v=dJ1Zn2kMZZw",
+  "title": "2026년 한국시리즈 2차전 프리뷰 삼성라이온즈 vs kt위즈 11월 4일 수요일",
+  "published_at": "2026-11-04T06:04:44Z",
+  "collected_at": "2026-11-04T07:38:32.453Z",
+  "summary_ko": "한 팬 채널이 4일 KS 2차전 삼성 대 KT 프리뷰 영상을 올렸다. 경기는 수원에서 열린다.",
+  "metrics": {
+    "views": 129,
+    "likes": 16,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "KS2 삼성 프리뷰 영상"
+}

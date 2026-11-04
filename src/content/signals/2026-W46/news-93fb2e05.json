@@ -1,0 +1,23 @@
+{
+  "id": "news-93fb2e05",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "news",
+  "source_name": "마이데일리",
+  "url": "https://www.mydaily.co.kr/page/view/2026110416320704542",
+  "title": "\"김상수 출전 쉽지 않다\" KT, 선발 라인업 소폭 변화 류현인 2루수로 [MD수원 KS2]",
+  "published_at": "2026-11-04T07:32:51.000Z",
+  "collected_at": "2026-11-04T07:38:32.453Z",
+  "summary_ko": "마이데일리에 따르면 KT는 KS 2차전 라인업에서 2루수를 류현인으로 바꿨다. 이강철 감독이 김상수의 출전이 쉽지 않다고 밝혔다.",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "2루수 류현인, 김상수 빠져"
+}
