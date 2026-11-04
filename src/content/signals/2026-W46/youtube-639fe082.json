@@ -1,0 +1,49 @@
+{
+  "id": "youtube-639fe082",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kt"
+  ],
+  "source_type": "youtube",
+  "source_name": "강릉뉴스",
+  "url": "https://www.youtube.com/watch?v=JqUn9avEqVQ",
+  "title": "삼성, 12회 혈투 끝 KT에 3대2…한국시리즈 1승1패, 대구서 다시 시작 #삼성 #KT #한국시리즈 #2차전 #1차전 #3차전 #대구 #1승 1패 #혈투 #야구 #강릉뉴스",
+  "published_at": "2026-11-04T15:50:42Z",
+  "collected_at": "2026-11-04T21:38:06.095Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1489,
+    "likes": 5,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 38,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9qUGRKSG1vYjkwREVOT1k0dkFiQVVFUy1ObGxBbHhZQzVHRDJ1TlVHNnhsVWdfNV9Oek9KNjdxYjBCa2hiU3NWN3FmaWJ2VzJPckJPdXJhcw?oc=5"
+    },
+    {
+      "source_name": "문화일보",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBaVFRRUXlaLTRxOFdtTkd6MURNdTZtVGJFOTBRc1I0a2FSaUc1d3c0cV9UR3d2VUt4YkdJaFJEbmx1SEFYaDBBQi1wVERjdGJY?oc=5"
+    },
+    {
+      "source_name": "KBC광주방송",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9pU1REVTNfSm0tcHNRS1lkalpObVhOQnlGUnROeFR5MzdPR2NfUEczbm5saEp3TzlZamRZN2RuWTNSZHRScWYyWGdYSTY2UDBxdllNcEFzNWljdHpRbEhZNA?oc=5"
+    },
+    {
+      "source_name": "연합뉴스TV",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE91TnlvX2xLX0gweUdxb09SRGpFczVfUGl0cnpCNkh5ZUpiRy1jQTd3QVpkSWxPeWNqdU1BZkhFLW80cWhzWlhNR3pOMmFXSXBWOERTRnZZOGdBMDVzT0poUnprZGE3Nk0?oc=5"
+    },
+    {
+      "source_name": "중앙신문",
+      "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxQZmFGaEVQd3F4Z0RrYTFpVUk2a3BQYTFOS3FWc19KNUxhRFlPaFRKaFpxU2JWNWtUUmQ3aEpjNkdsM29qVTJEME9EOEZ5X1hNX2JOckV6aV9ic2VHVVY0dFF2WkZnMHdPampVdDJEV0c3T0NjSG1QS0VGZ1ozUXUtSV9pbGQ0Q05tOFFaNmlJUVJHR1FQSGQwUndjdmtmaURaSXVsVVZXRUtvTmdiT24wWS1kWG1mRnFTa29jRkJCcGhMVHRMdVIzQXZOSTMwNmNQLWVJbEtrWXFDczRNN3RTUmYzMkFiNUx6UGhhaE1XYzNSMmpVaEhWT0kwaEEzVjladE1FbEdKY2U4dzlkQkhIcE1tVjhfQk9YYWNGYktSTHRRaXdGTXpXOERyZU9ULWJkX0RZNXl6Vi1uMlVNX1QzcExrWlVzc3Q5SDJ1UEkxQ1JoMmg2U2M0?oc=5"
+    }
+  ]
+}

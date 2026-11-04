@@ -1,0 +1,27 @@
+{
+  "id": "youtube-21962cce",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "이영우의 라이브 TV",
+  "url": "https://www.youtube.com/watch?v=-iBJs1oFisQ",
+  "title": "[ KS 2차전 입중계 ] 선발투수 페덱 vs 고영표, 경기전 라인업, 주요소식!#한화이글스#lg트윈스#기아타이거즈#삼성라이온즈#kt위즈#kbo리그#이글스tv",
+  "published_at": "2026-11-04T17:14:51Z",
+  "collected_at": "2026-11-04T21:38:06.095Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 105548,
+    "likes": 1234,
+    "comments": 4
+  },
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

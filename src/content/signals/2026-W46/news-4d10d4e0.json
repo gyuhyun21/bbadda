@@ -1,0 +1,23 @@
+{
+  "id": "news-4d10d4e0",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "브런치",
+  "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5nWm9vUElKNTFCdDc4Ym16eUk5ajNQeTg4OXQyOUdfOVhjSk9EbVhfLTN5bFE5U21SRWNlMk9vek5jZmhBX1VmQll3?oc=5",
+  "title": "21화 야구의 시선 제81화",
+  "published_at": "2026-11-04T12:19:59.000Z",
+  "collected_at": "2026-11-04T21:38:06.095Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "youtube-4306de36",
+  "issue": "2026-W46",
+  "module": "league",
+  "teams": [],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=V2GmA-VrJl4",
+  "title": "[2026 신한 SOL KBO 한국시리즈 2차전 - 경기결과]",
+  "published_at": "2026-11-04T14:15:09Z",
+  "collected_at": "2026-11-04T21:38:06.095Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 41480,
+    "likes": 816,
+    "comments": 67
+  },
+  "scores": {
+    "hot": 68,
+    "relevance": 30
+  },
+  "sentiment": "neutral"
+}

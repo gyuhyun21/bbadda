@@ -1,0 +1,23 @@
+{
+  "id": "news-110bf6fe",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1KWl9tM1FyU1NmVXR4enl3ZXcyQTNvd2gycG9Jci04TXA1SjQ5RFNDY3ZQVW1KR0JULU1sTXRRSlpCVnhKZVdaNzdJb3BvdHlIemxudzdMYjhyWFdQNWZhQWduZWI5VVViSlhfRk54ONIBb0FVX3lxTE1KWl9tM1FyU1NmVXR4enl3ZXcyQTNvd2gycG9Jci04TXA1SjQ5RFNDY3ZQVW1KR0JULU1sTXRRSlpCVnhKZVdaNzdJb3BvdHlIemxudzdMYjhyWFdQNWZhQWduZWI5VVViSlhfRk54OA?oc=5",
+  "title": "\"페덱 구위 궁금해\" 강철매직은 투수전 예상했다…딱 한 번 맞대결서 6이닝 7K 무실점 완패, 가을 무대에서는 어떨까 [KS2]",
+  "published_at": "2026-11-04T09:21:00.000Z",
+  "collected_at": "2026-11-04T21:38:06.095Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

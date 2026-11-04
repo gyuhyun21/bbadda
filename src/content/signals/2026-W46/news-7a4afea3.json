@@ -1,0 +1,28 @@
+{
+  "id": "news-7a4afea3",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE04LXZ5ZlhldkFOMFlFVnU5MTQ4RkVxNDZFSF9rZ1pQblBZT1NFSEpTOGw3ZkYwYWxIdTF0R3daTUVIWEFNUWRBVlphSGgzMWp3UzE4eFdBT2Q4c0hhLUlJU2VmY1k0b3phS0VGdlFfV2dTSjh5TUNmSlN4QnRTQQ?oc=5",
+  "title": "\"상수형, 마지막엔 삼성으로 돌아와!\" 1m63 신인 꼬마가 어느덧 돌격대장…11살 차이 선배 향한 일편단심 순애보 [인터뷰]",
+  "published_at": "2026-11-04T15:05:49.000Z",
+  "collected_at": "2026-11-04T21:38:06.095Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObDlCNTV1cVlEUXo1MnVMaHk5LWdjYjRyNlg5Y3lBUHBvd3Z5WmhZVU81Q0d6dldGaDVTMUMxYU5fTjd3OFdTVVR0MUlYdUtFRC1fcFRPTS13NmM4UThzVWZZMmF2d2tSUVBGNVRFSnhwQ2ZlR2dncjROLWN6X2VLZmRmbw?oc=5"
+    }
+  ]
+}

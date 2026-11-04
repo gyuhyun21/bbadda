@@ -1,0 +1,29 @@
+{
+  "id": "news-6ab3fa1e",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9hWE90MzRWUnpUYUZfOGR4MXBKek1iUUhSZW1lalB6LXJpT0VPWTF0TVJoNU03Um1vM1ZibTJNbTR0UmtRQmdVMzhFZWVMdWp3Zk1pbzRiSWlxR1lVY3B4SFY1cXFCQ0EzQmZxYXB4WHVqV19ZRjFIeG1zdmFRUQ?oc=5",
+  "title": "'사이클링 빠진' 4안타에도 웃을 수 없다…'주루 수비 모두 아찔' 그래도 결승 득점 '신스틸러' [KS2]",
+  "published_at": "2026-11-04T13:55:06.000Z",
+  "collected_at": "2026-11-04T21:38:06.095Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 81,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcklyeG4zQXlkWm02bEsyeC1zUkNPSVlWUXN3LUZaMjYtQ2tYSzAtOUVxdEZBcnhBMW9icDEzemxJSkVwUmFDaW1lQVpaTUdqRV9xeUVNeFV1REdFTDFqeGNTWHJnODFnN21DTXNMR3MyUU9lck9oSjRfTTZ0X3VDYTlaNA?oc=5"
+    }
+  ]
+}

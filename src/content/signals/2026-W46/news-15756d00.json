@@ -1,0 +1,33 @@
+{
+  "id": "news-15756d00",
+  "issue": "2026-W46",
+  "module": "league",
+  "teams": [],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1WTDNuRXJMMFE0OFZpV1NEc0E4ZUlZVmw5ZUc5R0t3R2xyUU9IelRaRHR3ZjZZVmJObUFPajRkS1FVVTRoMjlPeGdxemNadm5EcUQ3VEszLWwxMDVkTW9TYmZHNnNnM29WdEHSAW9BVV95cUxQYUs5RHFPZjRzZERJMmk5X1J6SUpuUFdnaUJ0cFZreHBXSWtYT3NJQWR2TFhXcldnZEhMUm5hdEp3ZDVMVlBUQ2kwZ19fOUE1ZDlDNTNkMktuRnczU2k5UzRFMkE1UmNVV3Z4Rk01SU0?oc=5",
+  "title": "[사진]7이닝 1실점 페덱, 한국시리즈 2차전 MVP",
+  "published_at": "2026-11-04T14:14:00.000Z",
+  "collected_at": "2026-11-04T21:38:06.095Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 89,
+    "relevance": 30
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4zQWtHYWVUM1pyWjJTaFR6OTNjazhoN3NGOEVLUnVlc2dBTXF5aUdPMzZFZkhFWENMLWM4QndfN1Y3YlNEdUFrYTdxTnN3b0toUGRZYw?oc=5"
+    },
+    {
+      "source_name": "Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPamFvSU5ydzBOVE5HWFZVTldpYnREbkpjUy03WllsbmZ5UDlORklDUlktdm82VEtaTlhjZTNUMlZJUG1hVERXMk9PZHZzQ3lIUTZQODN0R0FISmM1TElsWFZGMWV3MXo2QXg0YzZmVzBNTk0tdEhDZWdlanMzSHRSbTZiRlJxWlJQ0gGcAUFVX3lxTE1XTDdHaDhUckFDbHlhWlRkUHNkVm9wXzZJazRKeXRLMVUwaWRGYXdrM2tBSVd5VE9nUDFxTTJ4SzliVFRmWHpvS1AwcFA3RUFDeWFqdzRVT2ZqbnhUV0pMYmF4VjNWT0ZDQnRjckNBWVJfQlphNVowWnVSZDFNVmFiTjVkRXFKMi1ET3kxUXp1TTlKVkdTU0pCZkg4cg?oc=5"
+    },
+    {
+      "source_name": "메디컬투데이",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBMWmtweFJQT2MyajFqd2tpZURVNWlBdGdMRndpMTVOTzV1SnhUczhjMHNhU2dqdFpWV3JRQkN4V3FEUzE3Mm1RTXg1eHdKSjBodF9CcWlBMlJyQldiZk5wS1dQVEczVmhEajBnSw?oc=5"
+    }
+  ]
+}

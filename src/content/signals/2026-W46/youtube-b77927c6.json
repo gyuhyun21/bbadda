@@ -1,0 +1,29 @@
+{
+  "id": "youtube-b77927c6",
+  "issue": "2026-W46",
+  "module": "league",
+  "teams": [
+    "samsung",
+    "kt"
+  ],
+  "team": "samsung",
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=rCcPc0JhY9U",
+  "title": "[삼성라이온즈 vs KT위즈] 11.04(수) KS 2차전 하이라이트｜2026 신한 SOL KBO 포스트시즌｜한국시리즈 2차전｜KBO X TVING",
+  "published_at": "2026-11-04T14:46:31Z",
+  "collected_at": "2026-11-04T21:38:06.095Z",
+  "summary_ko": "KBO 공식 채널이 11월 4일 KS 2차전 삼성 대 KT 하이라이트를 올렸다. 영상 제목 기준 내용이다.",
+  "metrics": {
+    "views": 116110,
+    "likes": 851,
+    "comments": 259
+  },
+  "scores": {
+    "hot": 64,
+    "relevance": 80
+  },
+  "sentiment": "neutral",
+  "brief_ko": "KS2 삼성-KT 하이라이트"
+}

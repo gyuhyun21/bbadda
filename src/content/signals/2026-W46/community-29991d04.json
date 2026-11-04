@@ -1,0 +1,65 @@
+{
+  "id": "community-29991d04",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kt"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 스포츠 레이더",
+  "url": "https://alodhun.tistory.com/58",
+  "title": "삼성, 연장 12회 혈투 끝 KT 꺾었다…한국시리즈 1승 1패 원점",
+  "published_at": "2026-11-04T23:07:02.000+09:00",
+  "collected_at": "2026-11-04T21:38:06.095Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 97,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "연합뉴스TV",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1wOGVBS1pkUkNFRkZELVpOUzlHMlVodzRKOFBBWi1OdndSaFQzRDBIbWJJUFJuNUxyTm1wU3A1SXFoSUdjbTRsR044aXVYcmxiVkhmQkVzbW5wWk85enI4UFJMOER5REk?oc=5"
+    },
+    {
+      "source_name": "매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9kclVHY3pGSnBqa05oNnViazBWRjBWMmhyNXJWY1VqU3BpcUdGVHR4eVI3NEtXZWFPSjczLVRCRG9DN3JvZkYtMERyYVBEdEZIZW53?oc=5"
+    },
+    {
+      "source_name": "경기일보",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA0ZmZfN0RqaklRaXZPRS1pUFdMZzdMVGhGZmt1NFpQSjA0V3FDME1xSDVVTGwyWV84YkpqeWszcWl4YTQ0T3ZQSlJzVWhyZHZPTmlrU0w1MTBmTTA?oc=5"
+    },
+    {
+      "source_name": "뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE84MjUxeVFWYnBQRUQ0NFZZT0V4QkZRT00xMWZsN3Mwc0gyYTBST3BRTVBQdGVrZ0pJd0M5ZzV3dmpqWjBBUDgzaXkxMW5Ec3l3ZEd0TmJzT2JBa0pxQTgwa9IBeEFVX3lxTE1jUk5VQUc0MjZUQmFzSFZJdVlxbm1TQzJ4ZENHUVZkZENiUUU4dzMwWTNpYmMyZmpVRnFRY0EyQWIyQ0pIUDJWc0cxdmp2eGFWaGNtSHAtYlZGNWxzVVlIUTJKUEc3cXQ0Q1RtaDM5UGlPNTZEVGF3VQ?oc=5"
+    },
+    {
+      "source_name": "경향신문",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5CV2NmRTNYbDVjc2REeGFwQXlZemFXRlZPSHdvWi00QThYMGx4NGNVT2ZMZmtzazZhQXhERXcyajVvWGVmcXFXZnJoZm8tM0FHQ213aHNBbkE1d9IBX0FVX3lxTE1mWnI1NkpLSWpuSzl6MWNobzFJd0docGtKT3BodDZqMGZpX09iS2dNWnZvaTNYNkVpTVJadDNENDd4U3BEMVBzRlQxRFphREZyRFJpYXg4VGZZdEYwZ1BN?oc=5"
+    },
+    {
+      "source_name": "한국아이닷컴",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9JM2JDeVNiTFVROHVaNTBHRS1IZElnc0t1N3BRaUlLa0xDVmR5QTgtVnBkWHVlS3FyV3kzbnBHaDJBWnA4SHdNTVl0bWwzTWNweVNTVUNFRVFNZkQ1OXlLN1BYSWxzbGI5OFhkZG9NONIBb0FVX3lxTE9JM2JDeVNiTFVROHVaNTBHRS1IZElnc0t1N3BRaUlLa0xDVmR5QTgtVnBkWHVlS3FyV3kzbnBHaDJBWnA4SHdNTVl0bWwzTWNweVNTVUNFRVFNZkQ1OXlLN1BYSWxzbGI5OFhkZG9NOA?oc=5"
+    },
+    {
+      "source_name": "연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9aemF5TWVYdnBCM3J0WUZ6Y3BXYUM1Y2RxNDBDT0hMQk9SbGlXWW1OaHBqUFUzS1IwNGxFbGFWYmxLZ3M4QXZBbV9vbC1VRTRmTnd1NXI0MTM0Ui12TzhXVtIBYEFVX3lxTE9aemF5TWVYdnBCM3J0WUZ6Y3BXYUM1Y2RxNDBDT0hMQk9SbGlXWW1OaHBqUFUzS1IwNGxFbGFWYmxLZ3M4QXZBbV9vbC1VRTRmTnd1NXI0MTM0Ui12TzhXVg?oc=5"
+    },
+    {
+      "source_name": "뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ZMERoeWpmQl8wdWcyQWYwcEZWRUNVUWJ5UTN1b1UyMklfQ2h3dFBva2h6QnA4SmVjdEhUNlhEOFRuV0tpWXVvaktaaTk4aHZqalBqSDJnTQ?oc=5"
+    },
+    {
+      "source_name": "경북일보",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBJUUlBVHJGVEQxUFhHMGpFcmZySDdRb1dwdkFIeDJtYzM4MFcyX2x2Z1FnYW5LaVptUzJDa3Y3WmMtWTNQdDUzTVRULU13NnlzaXZHUEp1bURuN25xd01FSkpHWUxJTFM2RzdNbWtlNA?oc=5"
+    },
+    {
+      "source_name": "수원일보",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA5eGJxMWFlVXl2QVhqdjNGaW9qMEJVS09hdXlLdE16eDl2U1dfOHdfOFdvTDZ3Sm1mdEFBcEFOdG5LV3hyOThLMHFpMk52WERPTzVRajQ3MWY1WFBpZkRpT1lJd1Bldw?oc=5"
+    }
+  ]
+}

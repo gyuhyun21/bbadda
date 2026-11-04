@@ -1,0 +1,27 @@
+{
+  "id": "youtube-7c8241cb",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kt"
+  ],
+  "source_type": "youtube",
+  "source_name": "Tony Smit",
+  "url": "https://www.youtube.com/watch?v=o12OS_X6RGc",
+  "title": "2026 KBO 한국시리즈 2차전｜삼성 vs KT, 연장 접전 끝 삼성 3-2 승리",
+  "published_at": "2026-11-04T17:19:12Z",
+  "collected_at": "2026-11-04T21:38:06.095Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1590,
+    "likes": 7,
+    "comments": 2
+  },
+  "scores": {
+    "hot": 40,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

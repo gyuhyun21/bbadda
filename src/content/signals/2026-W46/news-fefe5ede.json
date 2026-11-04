@@ -1,0 +1,24 @@
+{
+  "id": "news-fefe5ede",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "마이데일리",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9LSmZnVy1nSTM2VHFvbDVVZjNCU0RvdUtFZW8xOGNncGo4LTBuaU9EWEFSalRaVXVxRThRaHJCU01oazQ4b0hlbU9XT0hkdnZqRXdPQU1DbEdiR0owazU4Mw?oc=5",
+  "title": "“김도영 타격 KBO 수준 넘어섰다, 더 무서운 건…” 김태균 韓 슈퍼스타 극찬, 2029 or 2030 ML행[MD대전]",
+  "published_at": "2026-11-04T15:52:33.000Z",
+  "collected_at": "2026-11-04T21:38:06.095Z",
+  "summary_ko": "마이데일리에 따르면 김태균 해설위원이 KIA 김도영의 타격이 KBO 수준을 넘어섰다고 극찬했다. 기사 제목 기준 내용이다.",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "김태균 \"김도영, KBO 넘어섰다\""
+}

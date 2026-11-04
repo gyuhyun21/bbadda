@@ -1,0 +1,27 @@
+{
+  "id": "youtube-914ff977",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "source_name": "운명의 60초",
+  "url": "https://www.youtube.com/watch?v=70cJm-69kYA",
+  "title": "방망이 안 맞던 그가 빅리그 문 두드린 이유 #노시환 #한화이글스 #포스팅 #메이저리그 #KBO #운명의60초",
+  "published_at": "2026-11-04T14:00:33Z",
+  "collected_at": "2026-11-04T21:38:06.095Z",
+  "summary_ko": "한 팬 채널이 노시환이 메이저리그 문을 두드린 이유를 다룬 영상을 올렸다. 영상 제목 기준 내용이다.",
+  "metrics": {
+    "views": 1581,
+    "likes": 11,
+    "comments": 2
+  },
+  "scores": {
+    "hot": 42,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "노시환이 빅리그 문 두드린 이유"
+}

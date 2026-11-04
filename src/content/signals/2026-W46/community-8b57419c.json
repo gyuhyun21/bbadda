@@ -1,0 +1,33 @@
+{
+  "id": "community-8b57419c",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kt"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 야구디코더의 분석 리포트",
+  "url": "https://baseball-decoder.tistory.com/169",
+  "title": "[2026 KBO 한국시리즈 2차전 리뷰] 삼성 라이온즈 3 : 2 KT 위즈: 연장 12회 혈투 끝 1점 차 신승, 삼성...",
+  "published_at": "2026-11-04T23:04:26.000+09:00",
+  "collected_at": "2026-11-04T21:38:06.095Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 97,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOS1p4Vkxzb1FpNzVKUFhHUFZ6eTVwTkNod2lzWDkxQUx5RElFbTRUTEtrZ1kxbWQ2QTM3ZlprazF4a0s3OXlfbk1DY0t6RE1YUkVMUW8ycElPTzBXYzdHYjlKSVVOTWEyZ0dKN0YwcXFtU21FTHM3a1dkbGRORnlFMEkwTWJ1ZHpz0gGcAUFVX3lxTE9XRmtPcnkyNGduWkRnTjByUFdwei1XUDB6RW05d3FOMnJMVVBobXFTR0RCc0pHekkxMnR6elhoVTdTd3gyR2lrMmxHMUhVMklKWDFwZzZNclNTNml4N2VvN2h5RWZCcGhiR2F3YWE4MmhjSWR3TUhsUW9FZDlza3NnX3BPbnZfVWFXT3M0dmc3SlowRW5rTXp2ZVhmag?oc=5"
+    },
+    {
+      "source_name": "경기신문",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9HSzFLTjRKdE1GQmlaOVo2V0JjYk9YVXc5cVYyakZPd2N0QjFRX2owYU9KRDRxa00zTm96ZFJ2X1Q5Q2d1QkJWWmxiZ0t0U2k2VW1EaXdBbm9zbTZhQnc2clpB?oc=5"
+    }
+  ]
+}

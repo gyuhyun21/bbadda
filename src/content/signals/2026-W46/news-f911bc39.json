@@ -1,0 +1,23 @@
+{
+  "id": "news-f911bc39",
+  "issue": "2026-W46",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kt"
+  ],
+  "source_type": "news",
+  "source_name": "아시아뉴스통신",
+  "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1WTG5tZ2E5TzhsYVNjVmtpazNHYXYxRnpweTRjRzVOMmxQTEJnWElJMUI0WjRTY2c4Ynp0Nm5zSTRRdjhyNXlNWk1MZndCODE0WkVPeGs4M0Etcl9C?oc=5",
+  "title": "삼성 라이온즈, KT에 3-2 승리...KS 1승 1패",
+  "published_at": "2026-11-04T15:09:19.000Z",
+  "collected_at": "2026-11-04T21:38:06.095Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

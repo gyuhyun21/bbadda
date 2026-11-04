@@ -1,0 +1,23 @@
+{
+  "id": "news-a067c17d",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "텐아시아",
+  "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBwZTkwYXM5WllwY2JvbE1xUVFncWZJYzVMdGxKdEpkVkhZS0hiVGRKeVpHbENHMGNvbUJBX1JlNUgybzhPV0lLeldZNVFrTWVrQUVfX1pSVGxuQXc?oc=5",
+  "title": "결국 은퇴 소식 전해졌다…예능까지 출연했는데 단장 선임, 마지막 경기 확정 ('불꽃')",
+  "published_at": "2026-11-04T07:55:00.000Z",
+  "collected_at": "2026-11-04T21:38:06.095Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

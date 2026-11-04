@@ -1,0 +1,22 @@
+{
+  "id": "news-63d6cd8f",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스1",
+  "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBIc01WN2FKT1JZTTEzRG9rVmdIdU1qVl90X2RURkpzakZQc3ktdUdVcXdkelN2cG5MNUhjYXRrNTJ4TzhoU2E1YzhMQQ?oc=5",
+  "title": "삼성, 한국시리즈 2차전서 반격 성공",
+  "published_at": "2026-11-04T14:06:36.000Z",
+  "collected_at": "2026-11-04T21:38:06.095Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 80
+  },
+  "sentiment": "neutral"
+}

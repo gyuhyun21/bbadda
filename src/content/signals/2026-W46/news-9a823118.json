@@ -1,0 +1,30 @@
+{
+  "id": "news-9a823118",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBDajlCc0RlM3hCa1RYNkkwR1lZMGV3cFVtWmxlSUw0cEtOdzdfNzNXUVdnOWx0TG1oT3g4Z01LSXVmZ1NiYTZuLVpSVk1YaG81NXZERG9RbVNKXzFMYzhjenNfYkZaWXUxZlJLMnUtTdIBb0FVX3lxTFBDajlCc0RlM3hCa1RYNkkwR1lZMGV3cFVtWmxlSUw0cEtOdzdfNzNXUVdnOWx0TG1oT3g4Z01LSXVmZ1NiYTZuLVpSVk1YaG81NXZERG9RbVNKXzFMYzhjenNfYkZaWXUxZlJLMnUtTQ?oc=5",
+  "title": "'초대박' 155㎞ 던지는 좌완이 SV 선사! KS 중대 변수로 떠오르나... 박진만도 \"많이 컸다\"",
+  "published_at": "2026-11-04T20:21:00.000Z",
+  "collected_at": "2026-11-04T21:38:06.095Z",
+  "summary_ko": "머니투데이는 155km를 던지는 삼성 좌완 배찬승이 KS에서 세이브를 올렸다고 전했다. 박진만 감독도 많이 컸다고 평가했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 92,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5qaXFpWjIyZzd5MFJlcjkyeUZHQTBtY3ZFejdIOGdmdzdKUlptdC03cnRqNzR4N3I3eHhtbFlvXzRsYW5hTXc3YWxiV3ZRcWZ3WXRpWUVhazRROVNJNUhnd1FEeFVOWF8xRTY5RGs2UFR0Z3BDb3c?oc=5"
+    }
+  ],
+  "brief_ko": "배찬승, 155km로 KS 세이브"
+}

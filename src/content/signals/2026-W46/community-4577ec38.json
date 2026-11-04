@@ -1,0 +1,23 @@
+{
+  "id": "community-4577ec38",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 zenky의 게임",
+  "url": "https://news18953.tistory.com/7",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/20RBua1iekt",
+  "title": "KT, 한국시리즈 1차전 8-7 진땀승…8점 차가 1점 차로 줄어든 이유",
+  "published_at": "2026-11-04T23:13:55.000+09:00",
+  "collected_at": "2026-11-04T21:38:06.095Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

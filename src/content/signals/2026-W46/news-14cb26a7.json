@@ -1,0 +1,25 @@
+{
+  "id": "news-14cb26a7",
+  "issue": "2026-W46",
+  "module": "league",
+  "teams": [],
+  "source_type": "news",
+  "source_name": "뉴스로드",
+  "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE96cjVnQXZRWVdlWHNDb0RFVmFyWEVtcmJYWnNOdWhlZk5QWHNWS1E4b0FTMEpXcjhWZ0V2WV9OQjVGbjZ3RXg1Qy1ZQV9KUTBMdUhhVU9JMXFHcmhHMGVQamJ1RjFOSzhwT1800gFvQVVfeXFMTlhPcDYzWnRyN3lvb0lfVm5BbTN3RnNNOTlscGVUUEhGMF9QQm1sX194YXRRTlN6MXQ3azdReFdxdmVzbVN4T2Y2R3hBQXdVVW1hRXltbU8xUlJrQ0ZxTEJRMlUwZnRzOFNnTElHTWNN?oc=5",
+  "title": "CJ ONE, 한국시리즈 ‘원앱 직관’…관람·응원·굿즈 한 번에 잡는다",
+  "published_at": "2026-11-04T01:00:00.000Z",
+  "collected_at": "2026-11-04T21:38:06.095Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 69,
+    "relevance": 30
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "CNB뉴스",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5nZ3JfSC1KWWxKN25RYXdFc1Jtb0VvNnJjcFU4VTd0TExpNlpDeVJsTlFyZFRxbHFETmk3LWJwRS0xRFM2WnhYdnJPVktsbFlIajZRb2kzNTJNTXpLSm45LTV6dGNqR3NMMlNF?oc=5"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "news-014c7890",
+  "issue": "2026-W46",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "마이데일리",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1yMWtVRGZqRzdEZEFINFRxR3R0SWFXcjRBa3VJa0JGZGVnblRPMnhqSDdpdWdQNGxPNFFZZ3hRVEJVbjZtTU00T1pwWFcwR3BZaHUzSXVhRDFubkhWdzUweg?oc=5",
+  "title": "디아즈 팬과 안티 모두 미치게 하는 슈퍼스타? KS 2차전 쥐락펴락…\"실책 전까지 완벽했는데, 팀에 너무 미안해\" [MD수원 KS2]",
+  "published_at": "2026-11-04T20:41:00.000Z",
+  "collected_at": "2026-11-04T21:38:06.095Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 92,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

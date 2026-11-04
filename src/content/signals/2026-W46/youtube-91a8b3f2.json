@@ -1,0 +1,28 @@
+{
+  "id": "youtube-91a8b3f2",
+  "issue": "2026-W46",
+  "module": "league",
+  "teams": [
+    "samsung",
+    "kt"
+  ],
+  "team": "samsung",
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=o18NzsmVdys",
+  "title": "(무해설) 현장의 소리로 듣는 12회 말, 삼성 배찬승의 배짱투! | KS2_삼성 vs KT | 11.4 | 크보모먼트 | KBO 야구 하이라이트",
+  "published_at": "2026-11-04T15:14:39Z",
+  "collected_at": "2026-11-04T21:38:06.095Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 59927,
+    "likes": 1180,
+    "comments": 183
+  },
+  "scores": {
+    "hot": 71,
+    "relevance": 80
+  },
+  "sentiment": "neutral"
+}

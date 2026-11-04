@@ -1,0 +1,26 @@
+{
+  "id": "youtube-b0c5b729",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "youtube",
+  "source_name": "sports응원 여행기",
+  "url": "https://www.youtube.com/watch?v=yzT0XsKiPek",
+  "title": "노래가사처럼 & SSG랜더스 불금@ 설아님@ 추억@2026",
+  "published_at": "2026-11-04T14:36:34Z",
+  "collected_at": "2026-11-04T21:38:06.095Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 453,
+    "likes": 6,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 40,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

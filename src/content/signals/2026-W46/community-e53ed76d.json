@@ -1,0 +1,28 @@
+{
+  "id": "community-e53ed76d",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 약속은 지킨다!",
+  "url": "https://keepthepromise.tistory.com/928",
+  "title": "한국시리즈 2차전 리뷰: 삼성, 연장 12회 혈투 끝 2-1 승, 시리즈 원점",
+  "published_at": "2026-11-04T23:09:21.000+09:00",
+  "collected_at": "2026-11-04T21:38:06.095Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 73,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUFhuYlNzVldZSkp5M09vRzF6NnRaeEJGTWRDdGFFdEpuMVdVaFBad1ZKQ1M1dGNpNDlicW9qd3diaGhXMW9pTTRWeF8teTdKQXJVZHlhbU9KcGxEVG9ydEZQcm9tSTVSRzVGN1BVNTctdlVOaEtCSzBlTlVXOXFSNWFqYw?oc=5"
+    }
+  ]
+}

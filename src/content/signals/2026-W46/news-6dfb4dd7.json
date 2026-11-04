@@ -1,0 +1,29 @@
+{
+  "id": "news-6dfb4dd7",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE02alRtMl9xblU0UGMzZExCcDBuWHJDX2Iwa0JjQm4wQVJwd3Q4WU93aVkxVXhSSnY1a0VYdU9NZXNaREs1b0w0M3AzRy1YRTduckFaSnZucnpuNE1oVlFWVkxSUmhXV0pJYldhRnJ1b9IBb0FVX3lxTE02alRtMl9xblU0UGMzZExCcDBuWHJDX2Iwa0JjQm4wQVJwd3Q4WU93aVkxVXhSSnY1a0VYdU9NZXNaREs1b0w0M3AzRy1YRTduckFaSnZucnpuNE1oVlFWVkxSUmhXV0pJYldhRnJ1bw?oc=5",
+  "title": "3년 전 소망이 현실 되다니…한화 주전 포수 또 성장하나, 달라진 위상으로 도쿄돔 밟는다",
+  "published_at": "2026-11-04T15:10:00.000Z",
+  "collected_at": "2026-11-04T21:38:06.095Z",
+  "summary_ko": "머니투데이에 따르면 한화 주전 포수가 달라진 위상으로 도쿄돔에 선다. 3년 전 소망이 현실이 됐다는 내용이다.",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5lVVNfazV6cW95a1poeWRJdFBGaHUwODhvVERFeEFpUEp2akVxbVRWT0gwLURzTHJBMzYwUTZ0Vkw3azRCNjl0cWR2QmI4U0ZzM2tlWQ?oc=5"
+    }
+  ],
+  "brief_ko": "한화 포수, 도쿄돔 간다"
+}
