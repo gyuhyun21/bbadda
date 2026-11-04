@@ -1,0 +1,23 @@
+{
+  "id": "news-450c95d4",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "매일신문",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5fTHdtNzZPeDFuaUZxOFI4b3ZDV0JXanFvWGMtSTFkb1hqaG1US3cxd0xGMk1BV0Z5WTFQRktmbV9CYU1IQjRNVUtWb2Qta2RTazNtYzJiVHJvUU9CYUE1TUFn?oc=5",
+  "title": "김성윤, 한국시리즈 1차전 2타수 2안타…4경기 공백 끊었다",
+  "published_at": "2026-11-04T01:38:20.000Z",
+  "collected_at": "2026-11-04T07:38:32.453Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

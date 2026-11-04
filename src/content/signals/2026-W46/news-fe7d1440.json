@@ -1,0 +1,22 @@
+{
+  "id": "news-fe7d1440",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "news",
+  "source_name": "서울경제TV",
+  "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ST01RbjJBOV9EekpMVTUtc1FJTlZYV3JINEN5M2tQUktkRW9EVlV0ak5HV3d6OTBRUnJaMXFubnItcGV3VGlnQmNYb1ctRHk3QjVMS1BDemtKcTFhSGdNSFdrU2E?oc=5",
+  "title": "수원 KT위즈파크 달군 한국시리즈…수백만 원대 암표 등장",
+  "published_at": "2026-11-04T04:19:29.000Z",
+  "collected_at": "2026-11-04T07:38:32.453Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

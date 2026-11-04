@@ -1,0 +1,24 @@
+{
+  "id": "news-253234a4",
+  "issue": "2026-W46",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스타뉴스",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9XSGhtUXpucnlHTkROV25QS0dxeXZYc2ZEYllaWjdpalU4SXo0dkFRbjdnREdjM01WZkR4TEYxRFNaR1A2VF9jc25PTzRGS1VQbjdRLVF2bFl2cHVRTkw0cWsxa1VucHVkUjhTU1JQVWJOYVhkd1E?oc=5",
+  "title": "韓 데뷔 시즌 타점왕 외인, 美서는 못해본 가을야구 소감 \"온몸에 전율→확실히 공기가 달라\"",
+  "published_at": "2026-11-03T22:07:00.000Z",
+  "collected_at": "2026-11-04T07:38:32.453Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 81,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

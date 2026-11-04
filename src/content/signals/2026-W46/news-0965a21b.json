@@ -1,0 +1,30 @@
+{
+  "id": "news-0965a21b",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "OSEN",
+  "url": "https://www.osen.co.kr/article/G1112903779",
+  "title": "‘왜 하필 올해 같이 나오나’ 日 163홈런 3루수, 美매체 FA 랭킹 7위·1076억 전망…노시환은 순위권 제외",
+  "published_at": "2026-11-04T01:21:00.000Z",
+  "collected_at": "2026-11-04T07:38:32.453Z",
+  "summary_ko": "OSEN에 따르면 미국 매체의 FA 랭킹에서 일본 3루수가 7위에 올랐지만 노시환은 순위권에서 빠졌다. 한화 3루수 노시환의 해외 평가를 다뤘다.",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE96eUVvT2xraDh4N0E4Yld2NWNzZ0RmLW83VnQwN3Jqb1hSdTJUeTBfbVdRSm56QzFXRVhNU05OQUktZmVvVnN1SjFMNGo2dU5aOGc2V0l5Y1lweGJjNkdJVFFlaFpJbUgyWmJQWC0tNNIBb0FVX3lxTE96eUVvT2xraDh4N0E4Yld2NWNzZ0RmLW83VnQwN3Jqb1hSdTJUeTBfbVdRSm56QzFXRVhNU05OQUktZmVvVnN1SjFMNGo2dU5aOGc2V0l5Y1lweGJjNkdJVFFlaFpJbUgyWmJQWC0tNA?oc=5"
+    }
+  ],
+  "brief_ko": "美 FA 랭킹, 노시환은 제외"
+}

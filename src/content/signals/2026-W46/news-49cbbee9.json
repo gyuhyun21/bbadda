@@ -1,0 +1,23 @@
+{
+  "id": "news-49cbbee9",
+  "issue": "2026-W46",
+  "module": "rivalry",
+  "team": "kt",
+  "teams": [
+    "kt",
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "위키트리",
+  "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE04UVpjUDE4dmt4V2FxNllzcjU1cTJ0ckY5dUhyaXJBRmVjcl96NTFMMHBGVmJaMXN2U3FKbm5XcU5Fc1VuZ3NaT1F3ZzZSY05SV3gwYmdB?oc=5",
+  "title": "1점 차로 갈린 한국시리즈 첫 승부…KT·삼성 경기 막판까지 대혼전",
+  "published_at": "2026-11-03T22:30:00.000Z",
+  "collected_at": "2026-11-04T07:38:32.453Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 81,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

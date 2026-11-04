@@ -1,0 +1,23 @@
+{
+  "id": "news-47bb8838",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "진일보 | 전남일보",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9TVl9HQzYybGdmeE5Dcno0RzNOMDNhZmtqVnJuUFdfdmdoUVFCN213bUhDXzl5Q1owdDh2X3IzVm45WWN3Q2RTYW0ySkx2cV8wTXRnTGxvLVE4V2J5NC04VFNKSWZiM2xEcWg3MEY3bw?oc=5",
+  "title": "‘원투펀치 맹위·양현종의 투혼‘…4·5선발·불펜 재정비는 숙제",
+  "published_at": "2026-11-04T02:30:00.000Z",
+  "collected_at": "2026-11-04T07:38:32.453Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

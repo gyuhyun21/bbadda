@@ -1,0 +1,26 @@
+{
+  "id": "youtube-8d7bfef2",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "youtube",
+  "source_name": "스포츠 유",
+  "url": "https://www.youtube.com/watch?v=BWM-um9zKpk",
+  "title": "LG 팬들도 잊지 못할 이름! 19시즌을 함께한 최동수의 특별한 야구 인생!",
+  "published_at": "2026-11-04T05:30:29Z",
+  "collected_at": "2026-11-04T07:38:32.453Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 92,
+    "likes": 3,
+    "comments": 3
+  },
+  "scores": {
+    "hot": 62,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

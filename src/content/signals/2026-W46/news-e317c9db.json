@@ -1,0 +1,23 @@
+{
+  "id": "news-e317c9db",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠경향",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE44WGx4TUxoSUJOZlVvSnpETGVxaE1POTI1Umktdy1Bd0ZyczZsSERUbXpmanVQN250d3pvckxxdWMyQUxWcDc0M0ttWmtLZi1OcnJwVkFwMWtNNXpQV0NjWm8zQdIBY0FVX3lxTE44WGx4TUxoSUJOZlVvSnpETGVxaE1POTI1Umktdy1Bd0ZyczZsSERUbXpmanVQN250d3pvckxxdWMyQUxWcDc0M0ttWmtLZi1OcnJwVkFwMWtNNXpQV0NjWm8zQQ?oc=5",
+  "title": "그동안 훈련량이 많았던 건 인정, 마무리 캠프 떠나는 롯데는 ‘수비 강화’ 이름부터 내세웠다",
+  "published_at": "2026-11-04T04:02:00.000Z",
+  "collected_at": "2026-11-04T07:38:32.453Z",
+  "summary_ko": "스포츠경향에 따르면 롯데가 마무리 캠프를 '수비 강화'로 내걸었다. 훈련량이 많았던 점은 인정하고 방향을 바꿨다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "수비강화캠프, 훈련 방향 전환"
+}

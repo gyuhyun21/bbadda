@@ -1,0 +1,26 @@
+{
+  "id": "youtube-4f42a1d5",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "youtube",
+  "source_name": "외야석야구",
+  "url": "https://www.youtube.com/watch?v=UccWy5cod4c",
+  "title": "KBO 역사상 가장 억울한 파울 타구 #박동원 #LG트윈스 #KBO",
+  "published_at": "2026-11-04T02:30:17Z",
+  "collected_at": "2026-11-04T07:38:32.453Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 3441,
+    "likes": 17,
+    "comments": 2
+  },
+  "scores": {
+    "hot": 45,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

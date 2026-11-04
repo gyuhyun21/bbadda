@@ -1,0 +1,23 @@
+{
+  "id": "community-712d2ece",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 소식포켓",
+  "url": "https://blog.naver.com/dstudio_/224464567765",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/EZmIgoFlWDA",
+  "title": "\"이 스펙이 20대라고?\" 타자들이 가장 마주하기 싫어한다는 KT 박영현 피지컬과 연봉 세이브 기록...",
+  "published_at": "2026-11-04T12:34:00.000+09:00",
+  "collected_at": "2026-11-04T07:38:32.453Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "youtube-b47fa951",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "정병야구",
+  "url": "https://www.youtube.com/watch?v=c4u2gRnI7O4",
+  "title": "애매한 플레이 하는 맛자욱 #kbo #야구 #프로야구 #삼성라이온즈 #롯데자이언츠 #구자욱",
+  "published_at": "2026-11-04T06:00:18Z",
+  "collected_at": "2026-11-04T07:38:32.453Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 5038,
+    "likes": 91,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 57,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

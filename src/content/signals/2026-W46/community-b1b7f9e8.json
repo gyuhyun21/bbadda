@@ -1,0 +1,24 @@
+{
+  "id": "community-b1b7f9e8",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 일상스케치",
+  "url": "https://blog.naver.com/presentj0619/224464667227",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/IGHuCD33YOt",
+  "title": "노시환에게 노숙자 버전이라니…30홈런 쳤던 노시환인데.. 사토는 A-, 노시환은 D",
+  "published_at": "2026-11-04T15:02:00.000+09:00",
+  "collected_at": "2026-11-04T07:38:32.453Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

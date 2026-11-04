@@ -1,0 +1,23 @@
+{
+  "id": "news-06439ca7",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "이투데이",
+  "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1NWm43bGY0LU52Yko1WmlFYjI2SGxVVU5kLUkxbTZQQlBucTJuR3hhbzFGN19UWno2Q0VlcnJZb2V0R09POFdSM0EzWklrZ3VGaU5QOEZvWDlVMlRKYTV5Q01vVGVlejRNd09YWFF3?oc=5",
+  "title": "가을야구 10경기 모두 매진⋯누적 입장 수입 약 100억원",
+  "published_at": "2026-11-04T05:32:00.000Z",
+  "collected_at": "2026-11-04T07:38:32.453Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 91,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

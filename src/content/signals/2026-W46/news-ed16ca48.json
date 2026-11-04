@@ -1,0 +1,23 @@
+{
+  "id": "news-ed16ca48",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "조선일보",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdk9RdXdtYU9mZjhuMXczem56OEE0cFhvejZlc0YyNEtXald0SnBTZEpDVFlXVU91bUhBWjBBLTdheG9BY2Z4d2VndjhRRkVZWnh5M2V3YmNXemZ6aDRiTUNvbExCUFdkVk8yZ2IySlAxQjdVdTJ3TDAtN2tIMUZ0ZlpSUQ?oc=5",
+  "title": "'ERA 14.14' KS 악몽, 1회부터 흔들렸다…폭투 연속→3실점 와르르 [KS1]",
+  "published_at": "2026-11-03T11:10:00.000Z",
+  "collected_at": "2026-11-04T07:38:32.453Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 61,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

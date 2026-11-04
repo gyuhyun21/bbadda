@@ -1,0 +1,27 @@
+{
+  "id": "youtube-4835fd8d",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "Fresh Angle 24h",
+  "url": "https://www.youtube.com/watch?v=vNHvlosl0wU",
+  "title": "KIA 역대급 외인 4인방 떠났다…재계약 가능성은? #KIA타이거즈 #KIA 외국인 선수",
+  "published_at": "2026-11-04T05:20:06Z",
+  "collected_at": "2026-11-04T07:38:32.453Z",
+  "summary_ko": "한 팬 채널이 KIA를 떠난 외국인 선수 4명의 재계약 가능성을 다룬 영상을 올렸다. 영상 제목 기준 내용이다.",
+  "metrics": {
+    "views": 140,
+    "likes": 14,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "외인 4인방 재계약 향방"
+}

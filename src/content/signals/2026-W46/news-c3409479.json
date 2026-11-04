@@ -1,0 +1,23 @@
+{
+  "id": "news-c3409479",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "세계일보",
+  "url": "http://www.segye.com/content/html/2026/11/04/20261104511619.html",
+  "title": "영봉패 위기 막아낸 구자욱의 투런포, 이후 폭발한 삼성 타선…역시 ‘사자군단’의 핵심은 캡틴 구자욱이다",
+  "published_at": "2026-11-04T04:57:56.000Z",
+  "collected_at": "2026-11-04T07:38:32.453Z",
+  "summary_ko": "세계일보는 삼성 구자욱의 투런포가 영봉패 위기를 막고 이후 타선 폭발의 계기가 됐다고 썼다. 1차전 삼성은 7-8로 졌다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 80
+  },
+  "sentiment": "neutral",
+  "brief_ko": "구자욱 투런이 불씨"
+}

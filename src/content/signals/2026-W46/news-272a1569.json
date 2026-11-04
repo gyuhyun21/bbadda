@@ -1,0 +1,35 @@
+{
+  "id": "news-272a1569",
+  "issue": "2026-W46",
+  "module": "rivalry",
+  "team": "lg",
+  "teams": [
+    "lg",
+    "kt",
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "연합뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBjaGV2aFdtQi10dlg3SWFVQVFHTlU0ZVNjcGlqbk1ZcUlEY3dJVG14ZGRhcTBWUDJ1WHpHQWVLTFdMMEVOVFFlMTNfTWdjM3cyZ3ZsdVlCMzg3TzZKYWk3TNIBYEFVX3lxTFBjaGV2aFdtQi10dlg3SWFVQVFHTlU0ZVNjcGlqbk1ZcUlEY3dJVG14ZGRhcTBWUDJ1WHpHQWVLTFdMMEVOVFFlMTNfTWdjM3cyZ3ZsdVlCMzg3TzZKYWk3TA?oc=5",
+  "title": "올해 가을야구 입장수입은 100억원…역대 최고치는 작년 157억원",
+  "published_at": "2026-11-04T04:52:40.000Z",
+  "collected_at": "2026-11-04T07:38:32.453Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 99,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "news.sbs.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTGlXQ0Y2SG5SNlJwZ2ZvVnlwb2dlNXhOb3ZRdHJoRW1ZcS1vb1pOR1VEM1VtQWxPN05LM1JJbmFJWnFRdDJBdXJCMlVHcXQwZFhBXzQxRm5zZ3R6X1FQdk93VS1lOVptbjdJNUc5d25VZ1FDXy1BSEJqWW9aeTNUSHNKN0JZZGZySkcwWmktZw?oc=5"
+    },
+    {
+      "source_name": "Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQU8yZG5FMFNPc0luVG1NdzcxOTBsU3lfMFUtZUhvN0xjUUhlSUlzT1FObHNlNjVPNmdzRnl5NElQUk1UbTJtamxnZjlDWU9Ta1pxbm1nZXREUk01b0huZFljMnF6OHBEc1k2WEFpWXBwZTl6TWxwcGVaOWw5dVNhNkxreWszYkduZkxF0gGfAUFVX3lxTE5uVEZ6U19RanYxTkVfTnUybDNLZ2lWSXZPQXpkV2pTZDF3UDZUWWFISkxwMHZjY3BlTkxzSGFfeWxMemZNbTdjeGl5R05zbnBOR3ZWOVh4dmV1aEFvUHc2WnBBMXpZcy0yS2sxNnJlOFZRYlVlRnZsd3dDaXVCWnhQS0hxaFoxc3JVaW1pVERCRmFZS1V0LVNzMnNpa2EwVQ?oc=5"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": "community-019fa312",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 나눔터지역아동센터 사랑이야기",
+  "url": "https://blog.naver.com/xton1031/224464718248",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/2iboD0E18ER",
+  "title": "'한국시리즈 혼자 4승' 故 최동원, 2026 대한민국 스포츠영웅 선정…야구 선수 최초의 영예",
+  "published_at": "2026-11-04T14:45:00.000+09:00",
+  "collected_at": "2026-11-04T07:38:32.453Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 99,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1icnBISXBDcHQ1OXRYSy1zYWIxS2hIRWhZM3JpMXBOS0dIeUNxT3dRZGJKaFdtd3dISFdGSWVKT3diN3JPb0RwdWVsTnZRbzB3Qk9aVDFMMy1iWU41U0tVNNIBYEFVX3lxTE1icnBISXBDcHQ1OXRYSy1zYWIxS2hIRWhZM3JpMXBOS0dIeUNxT3dRZGJKaFdtd3dISFdGSWVKT3diN3JPb0RwdWVsTnZRbzB3Qk9aVDFMMy1iWU41U0tVNA?oc=5"
+    },
+    {
+      "source_name": "헤럴드경제",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBSUW5mTEpRWGdFSW9TamJtc21jQ200S1UxRlZNVjFrVkJVSTQwVkVKU29MTnlnRzR6ODlkRm1YaG0zYVMtUW5td2dRa3Axc3NueVg5SjZR?oc=5"
+    },
+    {
+      "source_name": "일간스포츠",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5LRDFJcWtlWUNwa2tpSEdwM2hQaDMtdFg4WFdJOGd4dXVJblNObWRVZ3VCX3lteGRJeDEwb19EQmpmem1waWxIZm1KZlRPNTltdWV0SzFKWDY5YjA?oc=5"
+    },
+    {
+      "source_name": "이데일리",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZ1g0a0xSNmJkMnJENW1XbjVJZml0YTNQLTBuQUUxRGhydkt3M09PYUtDcGZKMmFiTzE5RFZHa1hFdlRnVnVVR245akpzdlBkSlhNNEh6eG1LOUJZSUQzQ3FtWEJLR2tVaUtMZjVLYkFLT2lDYTF1aFhUSGtiSE1Zcg?oc=5"
+    },
+    {
+      "source_name": "SWTV",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9NeG9kbE04T01DU2EtRmc1OExfcS13d2ltR0w2VHdvQlVxQ01IYnRzUmpMWlBEa2taaWU5RmhfOEhQV0xNQlFieF8wN0NZZmlrU1phNFhESjJvRDNhdmwzbHB0YnRTbFk2a2130gFrQVVfeXFMT014b2RsTThPTUNTYS1GZzU4TF9xLXd3aW1HTDZUd29CVXFDTUhidHNSakxaUERra1ppZTlGaF84SFBXTE1CUWJ4XzA3Q1lmaWtTWmE0WERKMm9EM2F2bDNscHRidFNsWTZrbXc?oc=5"
+    },
+    {
+      "source_name": "한겨레",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5JWl9LRjFlSy1GeWRDXzZCbG9oVmlQV2lKT2Z4SGFzTXQ2aTdlNlctNG9rbXZwVmllYWNhVDdxVktQZl92R0NsRUlmRmxTY25lZWk1TkM0WTJudDNidkFsM0tHYUNBV3c?oc=5"
+    },
+    {
+      "source_name": "쿠키뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9EQkZ2c0FWRWlDWlVlN3ZKUExwb201VzZvdlZxaTRMMkNfakdKMGxiQVpueFduLUEzbHFqVzJnaXdGdk9XRkpTUjdSNnNONUNWWTNqbVYwdVVabWhpYmdEeUhpbw?oc=5"
+    },
+    {
+      "source_name": "케이트렌디뉴스",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5aVTAtWlRNbG9jVEptbDc4RTJvN2hTUTFmOHo2SE5RWmxPTDZMaFJiNWlCZVFudjc0bkZZUlRZd1laaUpkeHdjRG5XOHItYm5HX3U1TGdpR3dRVUw1d2xCU0Z5aG5KN20xSlJIZGJucw?oc=5"
+    },
+    {
+      "source_name": "경기일보",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1XaXQ4UWM3X1E0MThrc0FQT1lXTVhncDNXY0ZjazJQZ1BWa3lqRmlncl81LUN2bEVWdlhKeEo4UEZjUVVnWlhyOEVyZ2VyS0NFOE9yTTFwd05CN0U?oc=5"
+    },
+    {
+      "source_name": "더쎈뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1KeWtLa2JGdFd2TThkWmpZV0dDdVVULTVGSTZMOWE0RGFuRS0xSmRPcElhVUpnZWhCcHFtclBuWHZ3M1ZqM1I2U0RDMzFkMEEyVWttMlN3SEdQUkhZUG1jdnBVbWVuelJs?oc=5"
+    },
+    {
+      "source_name": "news.sbs.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZ3BqZWZibFhjdEtEeVFJZHB2OVZQbDlzbkx5OENneWtSdklhbVRvRWZ5bGU4WDhJYU5jcU9nYmxyTlNwaWdjYWthREtJNnUtS1B1NnNDNUFudnJwaXdEblQ1T3FJaHNhVGZrREJsX1lOTVdvUl91S1dGWDhkdmFmMUVmZjNIUU5ROTlwUVctaw?oc=5"
+    }
+  ]
+}

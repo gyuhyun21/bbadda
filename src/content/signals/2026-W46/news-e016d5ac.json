@@ -1,0 +1,22 @@
+{
+  "id": "news-e016d5ac",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "더게이트",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE13OWV4S3Mwakl1LTJxdXZCeVZRdVhDV3hlVFVVbFhqYVVHQlJMNXVlQjQ1WmE1cURETlNlVnZaLWtSRDlGV0V6WXQ4d3ZVSzhiaHVZQWZIaUtXbW5qenZ5eTIzM2JrOUNz0gFsQVVfeXFMT0tUUmRETHhVOVRiakVEbE0wQm5tRExFMHljU3lRQmFHdE9ONlQxT2pvU1pDZUtFWnhpNmh6MFpHOTEya3hwcHFja3lEeXgwbmpMQmpjVFBPV0o4bGFSWUIzdHpmejRXZFRtR2o3?oc=5",
+  "title": "한국시리즈에서도 실책, 또 화면 가득 잡힌 얼굴…삼성의 가을야구 수비 불안 언제 끝날까",
+  "published_at": "2026-11-04T05:00:45.000Z",
+  "collected_at": "2026-11-04T07:38:32.453Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 80
+  },
+  "sentiment": "negative"
+}

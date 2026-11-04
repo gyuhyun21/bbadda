@@ -1,0 +1,29 @@
+{
+  "id": "news-a18b4ebf",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE01Wll0Y3B0MW9Jd1NibGxwX3hRRE5DaHZDUUJvRE5HTm9vVzFINGtYNVVsNFVJeG9EbUdoejBFN2pfcU53SXJqVVR6d2hYdC1jMDlEMlRlNk5FRDdjalFoTXd1c3dyZk5ySXJnbzJJUdIBb0FVX3lxTE01Wll0Y3B0MW9Jd1NibGxwX3hRRE5DaHZDUUJvRE5HTm9vVzFINGtYNVVsNFVJeG9EbUdoejBFN2pfcU53SXJqVVR6d2hYdC1jMDlEMlRlNk5FRDdjalFoTXd1c3dyZk5ySXJnbzJJUQ?oc=5",
+  "title": "8-0 리드에 마무리 등판 상상이나 했나! 투수 4명이 2이닝도 못 버티다니... 이강철 감독 우려 현실화",
+  "published_at": "2026-11-04T04:01:00.000Z",
+  "collected_at": "2026-11-04T07:38:32.453Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 99,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB0MFdHM19VT1c0WDRYb3YxZlpDcG1kbmoxMU9hUzN2Wk1zdlByWWtxSzZLRkVBSmxBMDJDN3JaRjV3akRkaHNIQ3I3WU1meTNIU3dLWGZkZTFkbUdzSFV3X2ZTc1hncjZtakNlcUpZbTdTeXl5ZHc?oc=5"
+    }
+  ]
+}

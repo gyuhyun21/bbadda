@@ -1,0 +1,24 @@
+{
+  "id": "news-3b6facb2",
+  "issue": "2026-W46",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스타뉴스",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9xX1Z0dlJnYTBCa3pxNUh6cDgwOGxPcVdCQnVKVjNNTk11VU5mWGUxYUxnenN4U1pFWnd1S0NVckw2WkVtaDZ5b2toeDR0NE5lVW1QU1JQemRLUU5scDJuRDd3UXJfZUV0a29HNTJBVFZCTGg4TUE?oc=5",
+  "title": "투수 교체 이토록 어렵다! 이겨도 져도 자책한 두 감독 \"최원태 더 일찍 내려야→로건 대신 오원석 먼저 냈어야\"",
+  "published_at": "2026-11-04T00:09:00.000Z",
+  "collected_at": "2026-11-04T07:38:32.453Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 81,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

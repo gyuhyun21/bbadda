@@ -1,0 +1,27 @@
+{
+  "id": "youtube-7b721fae",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "kt wiz - 위즈TV",
+  "url": "https://www.youtube.com/watch?v=b_qiJ6X-SCY",
+  "title": "수원에 9회말은 없습니다 2026 한국시리즈 1차전 승리의 퇴근길 [위즈티비]",
+  "published_at": "2026-11-04T00:12:00Z",
+  "collected_at": "2026-11-04T07:38:32.453Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 27103,
+    "likes": 946,
+    "comments": 152
+  },
+  "scores": {
+    "hot": 83,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

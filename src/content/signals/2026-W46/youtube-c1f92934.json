@@ -1,0 +1,26 @@
+{
+  "id": "youtube-c1f92934",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "정루타 RUTA JUNG",
+  "url": "https://www.youtube.com/watch?v=3lX7HU9jwKo",
+  "title": "라팍을 가득 울린 2026년 기아 타이거즈 마지막 라인업송",
+  "published_at": "2026-11-04T03:00:32Z",
+  "collected_at": "2026-11-04T07:38:32.453Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1181,
+    "likes": 19,
+    "comments": 2
+  },
+  "scores": {
+    "hot": 49,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

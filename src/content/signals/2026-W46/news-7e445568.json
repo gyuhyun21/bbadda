@@ -1,0 +1,32 @@
+{
+  "id": "news-7e445568",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE44YnRRdEJRT2lzT3RjUlJ6UF9MSlZRTGpsU2hZbFAxWWJ2MFRrbGZYOVRvdjBsQ2N3YnY5VTNEYW1Ock04akYwRk5YRVpGOUF3cGFFdTQ5R1lrektsX0xmQWp5TXBsV0J2NGfSAW9BVV95cUxQYjRXdGpJRl8zbzE4SHJvOHllRDlWbWQ4WlZ1RUpYMTR4TVgyMEMyT2ZrMVhYTmxxWkY2SEFvS1JlQWdjUUVWX0JzVkhKdmo2Rm9wc0dKVlNfX1d0ckthZlZMNzI5MzFvMjJ1OHVxN1k?oc=5",
+  "title": "‘미국→한국’ 29년 인생 첫 가을야구 성사! 삼성 제압→왜 셀프 혹사 선언했나 “불펜 대기 OK, 언제든 준비한다” [KS]",
+  "published_at": "2026-11-04T05:23:00.000Z",
+  "collected_at": "2026-11-04T07:38:32.453Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 91,
+    "relevance": 70
+  },
+  "sentiment": "negative",
+  "also_in": [
+    {
+      "source_name": "OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBrNzItTWNDN0NTQkZXaHg0bjc3bThTcjhmNUZFaHgwSmdBWDZ4aGFHX292Y21OMW1RWmFSeFFvZEJCZ0RLV3psWjJPWlJBZ3BaX1VnMw?oc=5"
+    },
+    {
+      "source_name": "미주중앙일보",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9TbXRlbTBWSTRXM2o5Y21NS0VndjlacmlEbGpXSUtWWGRBS2tHc3gwWkMtaG50TlFrQ0hUWXJ1WkdPVDVIMlJwSTNFMV9mLTA1SVExYWZqeDh2ZlNIMzJOWW9R?oc=5"
+    }
+  ]
+}

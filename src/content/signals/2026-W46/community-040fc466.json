@@ -1,0 +1,24 @@
+{
+  "id": "community-040fc466",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 이지훈_기록",
+  "url": "https://blog.naver.com/turi930615/224464634287",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/EancLh16PFV",
+  "title": "[2026-09-11] 데이트와 야구",
+  "published_at": "2026-11-04T14:25:00.000+09:00",
+  "collected_at": "2026-11-04T07:38:32.453Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

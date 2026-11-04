@@ -1,0 +1,30 @@
+{
+  "id": "news-61c03af1",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "미주중앙일보",
+  "url": "https://www.koreadaily.com/article/20261103170931432",
+  "title": "\"재계약 안하면 안돼\" 211안타 새역사, 고민은 사치…역대 외인 타자 최고 24억도 깨뜨리나",
+  "published_at": "2026-11-04T01:09:00.000Z",
+  "collected_at": "2026-11-04T07:38:32.453Z",
+  "summary_ko": "보도에 따르면 롯데 레이예스는 211안타 신기록을 세우며 재계약 기대가 크다. 역대 외국인 타자 최고 연봉 24억 원을 넘을지가 관심이다.",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9rejF3U1BOaXpLelNGcGxreHVKM1c5V2N0NEV5eHFwM3ctSW40Y0xBbkdhRTVSWEEzdWJEYVA3X21PTFVaa2hMYmtqbmZBUk4tWXFkekg4djFYYl84RF9JZjh5ZGQxaXppZ0tMY2VtY9IBb0FVX3lxTE9rejF3U1BOaXpLelNGcGxreHVKM1c5V2N0NEV5eHFwM3ctSW40Y0xBbkdhRTVSWEEzdWJEYVA3X21PTFVaa2hMYmtqbmZBUk4tWXFkekg4djFYYl84RF9JZjh5ZGQxaXppZ0tMY2VtYw?oc=5"
+    }
+  ],
+  "brief_ko": "레이예스 재계약 관심"
+}

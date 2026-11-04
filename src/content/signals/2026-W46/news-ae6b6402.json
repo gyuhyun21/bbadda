@@ -1,0 +1,23 @@
+{
+  "id": "news-ae6b6402",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBka2JLVHgwOFFLU1g5M0hlcUE0LUxhdTZjSnRoOGY0aEFzNW9SdXkzbTB2UUdTNHp4OWp2SDVJRnRlelQxV2hTYWtMVC1jMmZKaC1ZWDV5T2VQUEhfUVlVOXVNZElkbHZhc0xDNVlnYzJvRGRxb3d5eEczMml0Zw?oc=5",
+  "title": "\"강정호 이후 아무도 없었는데…\" 분위기 심상치 않은 노시환, 영입 간절한 팀 있다",
+  "published_at": "2026-11-03T22:49:38.000Z",
+  "collected_at": "2026-11-04T07:38:32.453Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

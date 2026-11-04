@@ -1,0 +1,26 @@
+{
+  "id": "youtube-815bec7e",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "Roberto SON",
+  "url": "https://www.youtube.com/watch?v=JWNitNEvSaU",
+  "title": "기아 정해영12월 상무 입대!#기아타이거즈 #기아 #정해영 #정해영 입대 #kia 타이거즈",
+  "published_at": "2026-11-04T03:00:19Z",
+  "collected_at": "2026-11-04T07:38:32.453Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 879,
+    "likes": 50,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 74,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}
