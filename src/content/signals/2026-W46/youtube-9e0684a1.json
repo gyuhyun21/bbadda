@@ -1,0 +1,27 @@
+{
+  "id": "youtube-9e0684a1",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "코리아 언리미티드",
+  "url": "https://www.youtube.com/watch?v=j6gAy-1MjM4",
+  "title": "🚨🔥 KIA 타이거즈, 역대급 가성비 영입 카드 등장?! 군필 22세 특급 사이드암에 팬들 관심 폭발… 삼성도 놓친 숨은 보물의 정체는?",
+  "published_at": "2026-11-05T05:00:29Z",
+  "collected_at": "2026-11-05T07:38:31.214Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1465,
+    "likes": 47,
+    "comments": 4
+  },
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

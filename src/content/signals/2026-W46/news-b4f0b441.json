@@ -1,0 +1,22 @@
+{
+  "id": "news-b4f0b441",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9CaGlVald0UW54TDhRdXI1cGVKdlRhU1ZMc05aZm1VOHJuTG9aYWhEN1ZPMlZtanFRT3VhZ3NtbnV3cHVWejNEcXVuLWUxT19ETkJ6MVRGUUUtTVhtRFJOS1R6d05pS2g3MGfSAW9BVV95cUxOOVVHTEdraTdoMlV2OHJtVjBUako0X1JidlUxWFJfRTJ3eVdoemtjWkJZNnAyYm5Ob0NmS0JwVlV3NG9ER1lRdVE3d2Zndy1rNWE3bGJ4T20yekxOcXBBejdsQU5tZmpadGtUank4YUE?oc=5",
+  "title": "[부고] LG 트윈스 투수 강석현 외조부상",
+  "published_at": "2026-11-04T21:53:01.000Z",
+  "collected_at": "2026-11-05T07:38:31.214Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

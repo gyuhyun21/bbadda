@@ -1,0 +1,26 @@
+{
+  "id": "youtube-e62105dc",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "source_name": "이글스 Spirit",
+  "url": "https://www.youtube.com/watch?v=qIAO0DoQ8v8",
+  "title": "한화이글스 새 외국인 투수 후보 브라이스 윌슨 분석 와이스 대체자로 성공할까?",
+  "published_at": "2026-11-05T06:13:37Z",
+  "collected_at": "2026-11-05T07:38:31.214Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1628,
+    "likes": 43,
+    "comments": 7
+  },
+  "scores": {
+    "hot": 61,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

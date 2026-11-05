@@ -1,0 +1,22 @@
+{
+  "id": "news-e8d5aa6a",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠타임스",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4zYy03ZExkVGJpQmxYRVp2X3JqRHZBQW1ndDBva256V0V3ckNsRGpRNnNYdGZxcjFkVXJkcEVhN1hWb0xUMnRVRDR6UXdMMnFXTkFhdjQzQjRZYklLeUJPQXh0NVJJU2Z0RXdLYlVWZUJieGd0ckE?oc=5",
+  "title": "LG트윈스, '메이저리그 통산 5승 거둔' 트리스탄 벡 영입...총액 87만 8천 달러",
+  "published_at": "2026-11-05T05:08:22.000Z",
+  "collected_at": "2026-11-05T07:38:31.214Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

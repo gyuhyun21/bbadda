@@ -1,0 +1,29 @@
+{
+  "id": "news-b0cf0f7f",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "news",
+  "source_name": "스타뉴스",
+  "url": "https://www.starnewskorea.com/sports/2026/11/05/2026110509593641482",
+  "title": "박성한-조병현은 요가-명상 삼매경... SSG 문학 회복조, 이색 훈련 나선 이유",
+  "published_at": "2026-11-05T01:37:17.000Z",
+  "collected_at": "2026-11-05T07:38:31.214Z",
+  "summary_ko": "스타뉴스는 SSG 문학 회복조의 박성한·조병현이 요가와 명상 훈련에 나선 이유를 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9rOFpyQW8zX1hxV1lqZjhmckZOVDFRbHVsc3Znd3FPYjJReGhwWHNLNE1QTVZvRGVmQ1RzUEc1OHYyUkxXLU84UGhReGRCdG9fd25YN0xxZ00xYTBhNGxZaThQWEJjNWlPNzRMMDFIZ9IBb0FVX3lxTE9rOFpyQW8zX1hxV1lqZjhmckZOVDFRbHVsc3Znd3FPYjJReGhwWHNLNE1QTVZvRGVmQ1RzUEc1OHYyUkxXLU84UGhReGRCdG9fd25YN0xxZ00xYTBhNGxZaThQWEJjNWlPNzRMMDFIZw?oc=5"
+    }
+  ],
+  "brief_ko": "박성한·조병현, 요가·명상 훈련"
+}

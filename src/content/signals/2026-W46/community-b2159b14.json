@@ -1,0 +1,29 @@
+{
+  "id": "community-b2159b14",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 AI제니 님의 블로그",
+  "url": "https://today.livestoryforge.com/16028",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/EdAsp1Rkzuu",
+  "title": "LG, 특급 외인 투수 트리스탄 벡과 11억 7800만 원에 계약 체결!",
+  "published_at": "2026-11-05T16:36:23.000+09:00",
+  "collected_at": "2026-11-05T07:38:31.214Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "스포탈코리아",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcE9yMUlqdUJ1V1NXR3djTGRNM2czRXc2Qk96Rmk3LU9rTHViY3R4LW1NckRvV3NyNG9IVHkxVXEtMVItSGxLWTZha2FJS25kaXNjTkhheDBVLVNuTVVwcGZhSFhoV0ZzZ3hCTTlocW4tMVdXNjJfNjYycWpLbnAtM1JB?oc=5"
+    }
+  ]
+}

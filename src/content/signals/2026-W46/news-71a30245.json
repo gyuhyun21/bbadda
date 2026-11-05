@@ -1,0 +1,23 @@
+{
+  "id": "news-71a30245",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE90NFlpNFByRVBqTjhRWXJSZTFVOXdFc2FfUmhEMExVZ1hULUtiZklwNzVQcDVTbXJ3bzIzZXV0dmV1OGpZNjhMY1l4UHI2LV85ZU43UzltYVFMWW9KRjBpUWhmWlp5X3pSRk1MbUw5QlRZcnc1Rjg5N3JzcjJQQQ?oc=5",
+  "title": "4안타 친 타자는 고개 숙이고, 실책 본 감독은 웃었다…디아즈, 너를 어찌 미워하랴",
+  "published_at": "2026-11-05T00:55:17.000Z",
+  "collected_at": "2026-11-05T07:38:31.214Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

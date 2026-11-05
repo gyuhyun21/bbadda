@@ -253,8 +253,11 @@ rounds:
         date: 2026-11-06
         venue: { home_of: po }
         starters: { kt: 소형준, samsung: 후라도 } # 예고 선발(다음카페 게시글 제목 '가을 불패 소형준 vs PO MVP 후라도, KS 3차전 격돌')
+        facts:
+          - "1승 1패 뒤 3차전 승리 팀 우승 확률 88.9%"
         sources:
           - "https://cafe.daum.net/subdued20club/ReHf/5773749" # KS3 예고 선발(게시글 제목)
+          - "https://www.yna.co.kr/amp/view/AKR20261105109300007" # 3차전 우승 확률 88.9%(연합뉴스)
       - { no: 4, date: 2026-11-07, venue: { home_of: po } }
       - { no: 5, date: 2026-11-08, venue: { home_of: po } }
       - { no: 6, date: 2026-11-10, venue: 수원 }

@@ -1,0 +1,29 @@
+{
+  "id": "news-81d89495",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스타뉴스",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5QOHdhOFRSdlpwMWxtZjkzRmpFaEgyWng0MlBFMUx1VGl4MlQ0cUJxSmRXcXBVVW5JbGNQc1V2LUV1dDNSTmRTdXJaUi1EVlV2SFBBSWl1VzV1R2ROMnJlM2l0WVVwZmx2R2VWWXNOSi1fYkVSOGc?oc=5",
+  "title": "FA 대박도 잊었다 \"쓰러져도 좋아\" 이젠 야마모토 모드, '선발 복귀' 원태인 \"정말 우승하고 싶다\" [KS]",
+  "published_at": "2026-11-04T23:09:26.000Z",
+  "collected_at": "2026-11-05T07:38:31.214Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 81,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1TanNyc3dIN3pFcW9aVXBRUC16YkNELVBLTm9FVjdHX295VGdwR1diWndXLWVKbzNkcHhEd3FobHVKNzlnZFNhU2tVR1FzRTEyTk1qVjBtZm5QVGN6TzFSWVBtQ2ZxaC1qVEHSAW9BVV95cUxNRExkLWJOSEhTRDNiUmpyNVUyaXRSWXlaRnRJSzdzSU1xMGEyUjVkTjhJVUg3cWRKa1E3V0ZjRFJtM1E0bi02UTRQbjQxY0F0eFZpaS1mVUZ3NmdqUS15bkxLS2czeThTdkNjeG4xSEE?oc=5"
+    }
+  ]
+}

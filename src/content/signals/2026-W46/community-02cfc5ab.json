@@ -1,0 +1,34 @@
+{
+  "id": "community-02cfc5ab",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&page=3&document_srl=10521474562",
+  "title": "\"끝내기 위기 막은 원태인, 결정적 안타 김상준” '캡틴' 구자욱이 꼽은 12 ...",
+  "published_at": "2026-11-05T04:38:31.214Z",
+  "collected_at": "2026-11-05T07:38:31.214Z",
+  "summary_ko": "",
+  "excerpt": "... 삼성은 지난 4일 수원KT위즈파크에서 열린 KT 위즈와의 한국시리즈 2차전에서 연장 12회 접전 끝에 3-2로…",
+  "metrics": {},
+  "scores": {
+    "hot": 99,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "미주중앙일보",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9NUmRHdHAwS2pib1UtRWE1M0d6dVdoVTJadkhiS24tSkZGWTVTUDdSS2RVQ3BnM3lCNUQ3bERqXzVyUHlBVXM2Y3JNb2RUMUNScVFxbDcyZjE4YmVoX3NheGJB?oc=5"
+    },
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5pNHUtSGxtUlg0dTBIZExuNlIwWkNxZjl2OGVvandyQkxaUG14T2hDT2lmYy1yLW9UUlg2V3VOYnFjQW5RQnJUZGxiM2lZcEhXTHhJSlFTNk5wR1V0SzJvSkVwbF9NUzM5NmfSAW9BVV95cUxQdURya2ZkXzZrczRyM3hOV1B2LXhNZkdiTUNXS0ZtamlobEQtaXM3bk1ONVNBdVhmcTNoTTNqSktnQmVPXzFxNDBMZTBfaE1TQzVGWHBVWWVPZnlMZmlCeFdmcHJTRll5RlAybzFuYlU?oc=5"
+    }
+  ]
+}

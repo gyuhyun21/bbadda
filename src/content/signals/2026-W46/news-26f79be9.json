@@ -1,0 +1,23 @@
+{
+  "id": "news-26f79be9",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "마이데일리",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8xTHdudWdpVTUtQnhOUEZlQ1hCVXJRV1pKV01ReEVQdDdCVDJYMmRLN2hmaXlmYUF4SFRqN0FLVlFFcXZSSGJ4bFdsNVBhOXJ2Y200Q3VabEFlWjhsZm55cQ?oc=5",
+  "title": "창단 감독 찾아온 수원 케이티위즈파크 `만원 관중` 화답 [MD수원 KS2]",
+  "published_at": "2026-11-04T10:35:56.000Z",
+  "collected_at": "2026-11-05T07:38:31.214Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 60,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

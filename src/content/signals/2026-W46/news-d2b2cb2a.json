@@ -1,0 +1,22 @@
+{
+  "id": "news-d2b2cb2a",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "news",
+  "source_name": "Naver Blog",
+  "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTksyLXFSSDlWbGpWX0ZFU253ZjZhTGY5eEFJWl80b0FZUWktdXpYcGk3U1FnMjdFZ1A1ZnBVekh4NmZyQnluSjlHSWJfNl9Nb3VSRmNhTjg3S0FVX0VzeDIxYlZlVjN3MFE2TExBN214WlNoY1ZoaS14VTcwQ1YtaVpmTFdSd29KNmNQYk1hc3ZHaXBH?oc=5",
+  "title": "‘다시 한국에서 볼 수 있을까?’ 한화를 떠난 뒤 저니맨 생활을 하고 있는, 한화 리베라토 근황(KBO)",
+  "published_at": "2026-11-04T23:17:12.000Z",
+  "collected_at": "2026-11-05T07:38:31.214Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

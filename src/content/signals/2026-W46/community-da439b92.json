@@ -1,0 +1,24 @@
+{
+  "id": "community-da439b92",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&page=3&document_srl=10520988112",
+  "title": "요즘 엔야스라 - 야구",
+  "published_at": "2026-11-05T01:38:31.214Z",
+  "collected_at": "2026-11-05T07:38:31.214Z",
+  "summary_ko": "",
+  "excerpt": "... 한화 이글스 용타나 떴으면 좋겠네 [2]. 4 분 전 자유 한방에가즈아 조회 ... 06…",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

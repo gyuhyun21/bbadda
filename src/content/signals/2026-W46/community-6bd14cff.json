@@ -1,0 +1,24 @@
+{
+  "id": "community-6bd14cff",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&page=5&document_srl=10520865537",
+  "title": "노시환 그냥 개짜증나네. - 야구",
+  "published_at": "2026-11-05T00:38:31.214Z",
+  "collected_at": "2026-11-05T07:38:31.214Z",
+  "summary_ko": "",
+  "excerpt": "... 저 얼굴이면 그냥 배우나 하지왜 야구선수를 해서 한화 이글스 3루수 후배들 자리 차지함?",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

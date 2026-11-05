@@ -1,0 +1,24 @@
+{
+  "id": "news-9a68efcf",
+  "issue": "2026-W46",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "매일신문",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBZU3N4Y3E0QVo1UDBLT2k4bS1ZX3VTUmh1TGxwdnlaVXBSc0tCRUgwTXNEZGcyTzhPYkJxcTcxUldYT1JEWkEzSU1tZzRGcmQ4Nkx3YU1YNExXZTZhcDZ4MzVn?oc=5",
+  "title": "KS 3차전 6일 대구서…승자가 우승 확률 88.9% 쥔다",
+  "published_at": "2026-11-05T05:47:53.000Z",
+  "collected_at": "2026-11-05T07:38:31.214Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 83,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

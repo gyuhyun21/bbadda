@@ -1,0 +1,26 @@
+{
+  "id": "youtube-69a83dea",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "source_name": "이영우의 라이브 TV",
+  "url": "https://www.youtube.com/watch?v=y4ZYZnm2zrE",
+  "title": "한화 외인 투수 영입설 터졌다! 빅리거 브라이스 윌슨, 구종및 커리어 완벽 분석! #한화이글스#lg트윈스#기아타이거즈#삼성라이온즈#kt위즈#kbo리그#이글스tv",
+  "published_at": "2026-11-05T06:46:56Z",
+  "collected_at": "2026-11-05T07:38:31.214Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 2348,
+    "likes": 158,
+    "comments": 23
+  },
+  "scores": {
+    "hot": 78,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

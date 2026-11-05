@@ -1,0 +1,27 @@
+{
+  "id": "youtube-f9cbec8b",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "1일 1지식",
+  "url": "https://www.youtube.com/watch?v=gvdKHQv_eaA",
+  "title": "어젯밤, 야구가 자정까지 끝나지 않았습니다 #한국시리즈 #삼성라이온즈 #KT위즈 #연장12회 #프로야구",
+  "published_at": "2026-11-05T04:38:44Z",
+  "collected_at": "2026-11-05T07:38:31.214Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1074,
+    "likes": 6,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 39,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

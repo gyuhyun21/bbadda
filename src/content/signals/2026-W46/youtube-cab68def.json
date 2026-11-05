@@ -1,0 +1,48 @@
+{
+  "id": "youtube-cab68def",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "youtube",
+  "source_name": "수염오빠",
+  "url": "https://www.youtube.com/watch?v=Yyvc3BjBKhY",
+  "title": "LG 새 외국인 투수 ㅣ트리스탄 벡ㅣ살펴보기",
+  "published_at": "2026-11-05T06:25:33Z",
+  "collected_at": "2026-11-05T07:38:31.214Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 960,
+    "likes": 108,
+    "comments": 15
+  },
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "스포츠월드",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1CT0lrU3BiR0l6WlBlRzg2eGJuMElNWERsd0hmQUN2RnVtV1hrTEh2blVYVm5FWWY0YTRpaDJPOVNFS0N1VHVaWWxKQ0Z0dzZaYXo0VEVveGU1Zkd4UmVrdWtB?oc=5"
+    },
+    {
+      "source_name": "연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBRUTd0ZmZPdnZwLUo0RDJuTTVBeERLUThFSUlqajFBbFJIRVQtTzJ1bFUwY3dmN0h0OHR6R0Z6S3B0TzhRb0xUUmhRZTVENXJ3Vm1NelRlR3MxSTBfWVlGVtIBYEFVX3lxTFBRUTd0ZmZPdnZwLUo0RDJuTTVBeERLUThFSUlqajFBbFJIRVQtTzJ1bFUwY3dmN0h0OHR6R0Z6S3B0TzhRb0xUUmhRZTVENXJ3Vm1NelRlR3MxSTBfWVlGVg?oc=5"
+    },
+    {
+      "source_name": "MBC 뉴스",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBOb1B6cFRuTTlWUng2azNGYlVvS2dfUjhEajJneHR4QVdqMS1ZNHV5QVpNVHQ1T1RxY3lndDlobkdrMGVXVm1YVjg5Ym4yRVFSNTdvZXUyTksxU1d5T21TWENCRXgyam9hOW50UVNIRVhSa29ueGfSAXZBVV95cUxPT1VKVE9mTHg3QlduZTVhV0xoLTQzUEU5bEtBcDZpekpJMTQxYml2c1p4WGRhUFhJdjdJR3lqdk13bW5MMk9CdEEzU0tKWDE2eDkwOVo1U0ktZHZ3R0dRaDF0SFU3aUxmSkZyMGVYWF9XdjZ4aGh3?oc=5"
+    },
+    {
+      "source_name": "뉴데일리",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1NNy1USUVEUHE1SFVNLU8wQzNoSG5aRnhzcTRpOWtPbExGS0tBWktaMXJaampLNnpHdS1LNXZJWHNhR1dsUWtVLTFEVzZXaG5yVFZiXzV0bUR0Y3FLN2FWLVFqTFlmOUdfbWZ1aWJ5NzZVVHBaM201bkZVTdIBgAFBVV95cUxPalBJNGd4d09SMWQxeU1iVmd5MGh3NVVielZ0MkpSbVowMW1RRzcxREZFU2ZRRk9MN0p5X2RmOHlNRGI4azdoM0JORzRDVFo0OUNBMnVteFhfbjdpV1ZwOEJINFhSQmg1aDVBQ1hVMWlhblRRNmlIR1NEbU41VlVqNw?oc=5"
+    },
+    {
+      "source_name": "연합뉴스TV",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE56bGEyc3JtdGhtRVZEQ0o0Q0RYb3Vma2ktVS1aWWh4NGhzcERtX09ybG1UbWhSVGg2MWItSTZfSGZWUkJfVkg3YklHalFlVWwyV0JtWG9FSE9MVHFPbC11cG4tV0F1Skk?oc=5"
+    }
+  ]
+}

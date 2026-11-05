@@ -1,0 +1,22 @@
+{
+  "id": "news-20adf3ff",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "경북신문",
+  "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5HbmpwLUZzSEZUQkpuRlNfUUk1NEw3M3lwcDF1ZmxtQ1YwOC1vczNua3Y5OEZLcmthcEl1TEhlX0lJeGJ2UkFRYjMwbGc2c3FueWQxSDFFNV8?oc=5",
+  "title": "삼성, 안방서 한국시리즈 주도권 잡을까⋯3차전 장타 승부 주목",
+  "published_at": "2026-11-05T06:06:12.000Z",
+  "collected_at": "2026-11-05T07:38:31.214Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "news-d04f3330",
+  "issue": "2026-W46",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "미주중앙일보",
+  "url": "https://www.koreadaily.com/article/20261104154055554",
+  "title": "“없던 힘이라도 누가 줬으면…” 지칠 대로 지친 원태인, 그래도 우승만 바라본다 [KS2]",
+  "published_at": "2026-11-04T23:40:00.000Z",
+  "collected_at": "2026-11-05T07:38:31.214Z",
+  "summary_ko": "미주중앙일보에 따르면 지칠 대로 지친 삼성 원태인이 그래도 우승만 바라본다고 말했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 81,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "brief_ko": "지친 원태인, 우승만 본다"
+}

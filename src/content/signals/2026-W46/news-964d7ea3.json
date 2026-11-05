@@ -1,0 +1,23 @@
+{
+  "id": "news-964d7ea3",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "아주경제",
+  "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA0TU92MTZWckZhMDRBc2pxS1Q3N2J4OGhrOGtVVGx0dGtaRllpTTJIdDV0RndVb2lBeWNvakp4dzZBQjQwdE95czkyWGw0UFROR2F0THc5YznSAVhBVV95cUxQNE1PdjE2VnJGYTA0QXNqcUtUNzdieDhoazhrVVRsdHRrWkZZaU0ySHQ1dEZ3VW9pQXljb2pKeHc2QUI0MHRPeXM5MlhsNFBUTkdhdEx3OWM5?oc=5",
+  "title": "곽도규마저 빠졌다…APBC 앞둔 한국 야구, 투수진 초비상",
+  "published_at": "2026-11-05T05:50:37.000Z",
+  "collected_at": "2026-11-05T07:38:31.214Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

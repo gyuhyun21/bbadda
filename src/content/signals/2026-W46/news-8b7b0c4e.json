@@ -1,0 +1,24 @@
+{
+  "id": "news-8b7b0c4e",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "news",
+  "announcement": true,
+  "source_name": "스포츠조선",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE84clhhWWotSXcwZU9rUmNCRG8zV1FaV3l3RF9ocnctZFZpV1lTTzRlODBkQkFRTHpIR2NKZHFtaEVoek1RNTJZMmlNejhMdmVrUGFXVkl3M0ZfMmpWMjdNN2N4MHRwZG9CODdUbUVHZk0xU0VYc3g0TWxaWlNKQQ?oc=5",
+  "title": "[오피셜]LG 158km 강속구 잡았다. 트리스탄 벡과 87.8만달러 계약. 염갈량 \"내가 LG와서 뽑은 제일 좋은 투수.\" LG로고 아래서 계약이라니...",
+  "published_at": "2026-11-05T01:12:36.000Z",
+  "collected_at": "2026-11-05T07:38:31.214Z",
+  "summary_ko": "스포츠조선에 따르면 LG가 최고 158km 강속구 투수 트리스탄 벡과 87.8만 달러에 계약했다. 염경엽 감독은 자신이 LG에서 뽑은 가장 좋은 투수라고 말한 것으로 전해졌다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "새 외인 벡, 87.8만 달러 계약"
+}
