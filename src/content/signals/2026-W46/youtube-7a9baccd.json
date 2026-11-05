@@ -1,0 +1,26 @@
+{
+  "id": "youtube-7a9baccd",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "youtube",
+  "source_name": "썸타임즈Ssumtimes",
+  "url": "https://www.youtube.com/watch?v=qtdDJKWE_oQ",
+  "title": "FA 앞둔 최지훈 SSG와 곧 좋은 소식있다?",
+  "published_at": "2026-11-04T22:30:15Z",
+  "collected_at": "2026-11-05T07:38:31.214Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 5253,
+    "likes": 52,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 50,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

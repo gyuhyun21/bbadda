@@ -1,0 +1,27 @@
+{
+  "id": "youtube-041baf32",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "던지고치고차기",
+  "url": "https://www.youtube.com/watch?v=JSZvZhpttW0",
+  "title": "박진만의 가슴을 뛰게 하는 승리의 엘도라도",
+  "published_at": "2026-11-05T03:25:21Z",
+  "collected_at": "2026-11-05T07:38:31.214Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 27255,
+    "likes": 289,
+    "comments": 11
+  },
+  "scores": {
+    "hot": 59,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

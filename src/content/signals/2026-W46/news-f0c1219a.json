@@ -1,0 +1,30 @@
+{
+  "id": "news-f0c1219a",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://www.mt.co.kr/sports/2026/11/05/202611051133770764O",
+  "title": "16억 투타겸업 괴물신인, 왜 마무리캠프에서 타자 훈련은 안할까 “몸·체력 만드는게 우선”",
+  "published_at": "2026-11-05T05:40:00.000Z",
+  "collected_at": "2026-11-05T07:38:31.214Z",
+  "summary_ko": "머니투데이는 16억 투타겸업 신인이 마무리캠프에서 타자 훈련을 하지 않는 이유를 몸·체력 만들기가 우선이기 때문이라고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "미주중앙일보",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAtUnRmSXdKcjF4dVdhNE84NVRLbFRKdV9mMUZjLWc2ZFJSay1ERDItVkxpMUI1am0yOHh4UktiUkZRZmU5QU5hdy15TFJjQnhyNm1Xek1MVUxaQlZmZkxpTVBR?oc=5"
+    }
+  ],
+  "brief_ko": "하현승, 몸·체력 만들기 먼저"
+}

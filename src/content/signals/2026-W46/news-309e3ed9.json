@@ -1,0 +1,29 @@
+{
+  "id": "news-309e3ed9",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBRQ3BiT3hlWkNBVmpGSThZX01nMk9neVpyUjQxcGF2VEw4MjZ1UWx4QjQtT05nRVFCdFdQZHRncGptS245UEF2UEZuNWtwWDhBdkNrN3pNbDI3emtzaVQxU2hPREIwZ0lWWGY4amdkWFZQcDdJVkVpb09pd1BsQQ?oc=5",
+  "title": "\"너무 힘들고, 화가 났다\" 실책→밀어내기→무실점, 지옥문 앞에서 돌아온 청년 에이스, '구원왕' 선배의 따뜻한 한마디[KS]",
+  "published_at": "2026-11-04T22:01:44.000Z",
+  "collected_at": "2026-11-05T07:38:31.214Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 73,
+    "relevance": 70
+  },
+  "sentiment": "negative",
+  "also_in": [
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUFJNaHQyS1hmN0FXR0hnZ1ozS3ZOTlFmMjM0bV9KZks5azRSeXR3dXcyc1REVVppRnBKZmw1ZVpreHBYbE1za0lCTWwyOTFVRF96Mld3REVWcXNBRkJ3eG85WTJGQXc5TEhYRU0tMGRZaWplWWppRlZTbVdjbUV4V04yWQ?oc=5"
+    }
+  ]
+}

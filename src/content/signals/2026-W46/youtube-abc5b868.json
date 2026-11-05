@@ -1,0 +1,27 @@
+{
+  "id": "youtube-abc5b868",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "kt"
+  ],
+  "source_type": "youtube",
+  "source_name": "사주(四柱)트리",
+  "url": "https://www.youtube.com/watch?v=HVh6XnDgGL8",
+  "title": "기아가 알던 최원준, KT 첫해 208안타…FA 뒤 왜 터졌나?",
+  "published_at": "2026-11-05T02:45:17Z",
+  "collected_at": "2026-11-05T07:38:31.214Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1545,
+    "likes": 10,
+    "comments": 9
+  },
+  "scores": {
+    "hot": 46,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

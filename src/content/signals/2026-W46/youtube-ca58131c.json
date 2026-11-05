@@ -1,0 +1,26 @@
+{
+  "id": "youtube-ca58131c",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "source_name": "루테라 이글스 칼럼",
+  "url": "https://www.youtube.com/watch?v=4ljaj0PpGr4",
+  "title": "이글스 내부 FA 박상원 잔류? 이적? #한화이글스",
+  "published_at": "2026-11-05T07:00:19Z",
+  "collected_at": "2026-11-05T07:38:31.214Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 55,
+    "likes": 12,
+    "comments": 2
+  },
+  "scores": {
+    "hot": 60,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

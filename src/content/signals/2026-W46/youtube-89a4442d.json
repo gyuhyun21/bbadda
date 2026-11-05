@@ -1,0 +1,27 @@
+{
+  "id": "youtube-89a4442d",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "지금 zig_M",
+  "url": "https://www.youtube.com/watch?v=wcMbR3tQPdc",
+  "title": "16억 괴물 신인, 드디어 출격! #프로야구 #괴물신인 #하현승",
+  "published_at": "2026-11-04T22:45:19Z",
+  "collected_at": "2026-11-05T07:38:31.214Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1101,
+    "likes": 8,
+    "comments": 3
+  },
+  "scores": {
+    "hot": 43,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

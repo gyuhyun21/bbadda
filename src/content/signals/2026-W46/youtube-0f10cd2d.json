@@ -1,0 +1,26 @@
+{
+  "id": "youtube-0f10cd2d",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "youtube",
+  "source_name": "윤콩이",
+  "url": "https://www.youtube.com/watch?v=xYpL0BPVP84",
+  "title": "goodbye 잠실! #hype #shorts #브라보마이라이프 #잠실야구장 #두산베어스",
+  "published_at": "2026-11-05T03:00:26Z",
+  "collected_at": "2026-11-05T07:38:31.214Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1210,
+    "likes": 8,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 40,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

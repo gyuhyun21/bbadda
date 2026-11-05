@@ -1,0 +1,27 @@
+{
+  "id": "youtube-0d8cfc18",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "v2_17HX.0",
+  "url": "https://www.youtube.com/watch?v=tR5H1SvtVw8",
+  "title": "코시2차전 #baseball #capcut #kbo #디아즈 #삼성라이온즈 #kt위즈 #추천추천추천추천추천추천추천추천추천추천 #우규민 #가을야구 #강민호 #배찬승 #한국시리즈",
+  "published_at": "2026-11-05T06:54:17Z",
+  "collected_at": "2026-11-05T07:38:31.214Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 473,
+    "likes": 2,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 34,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

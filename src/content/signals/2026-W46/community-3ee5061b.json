@@ -1,0 +1,23 @@
+{
+  "id": "community-3ee5061b",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&page=8&document_srl=10521032853",
+  "title": "키움 아쿼 소식있음? - 야구",
+  "published_at": "2026-11-05T01:38:31.214Z",
+  "collected_at": "2026-11-05T07:38:31.214Z",
+  "summary_ko": "",
+  "excerpt": "... 첫사랑임병욱 28 분 전. 백인 골글은 타는데 mvp는 히어로즈의 1차지명이자 아버지가 야구선수였던 한 외야수한테…",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "youtube-d99a80e3",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "큠플릭스",
+  "url": "https://www.youtube.com/watch?v=zMJ_fSPuko8",
+  "title": "[숏플릭스]모두가 끝난 줄 알았다… 김재현의 역대급 만루홈런",
+  "published_at": "2026-11-05T01:55:02Z",
+  "collected_at": "2026-11-05T07:38:31.214Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 911,
+    "likes": 6,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 39,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

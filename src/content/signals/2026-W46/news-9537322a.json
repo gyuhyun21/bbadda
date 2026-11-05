@@ -1,0 +1,22 @@
+{
+  "id": "news-9537322a",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "소방방재신문",
+  "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE8tUkJRUzNuLTVPRWxoaW82OXFXYjQyejBZeXlNdFRIeFpxQzBqMnFHREQ1c3FWcGdRNnhVbUlHenVDTHVz?oc=5",
+  "title": "수성소방서장, 한국시리즈 대비 삼성라이온즈파크 현장지도",
+  "published_at": "2026-11-05T07:30:00.000Z",
+  "collected_at": "2026-11-05T07:38:31.214Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 80
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "youtube-b815950b",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "source_name": "작은손 피아노",
+  "url": "https://www.youtube.com/watch?v=D1ZH9sBYfvQ",
+  "title": "한화 이글스 - 나는 행복합니다 피아노 | 나는 행복합니다 응원가 | 한화 응원가 | 피아노 편곡 | 작은손 피아노",
+  "published_at": "2026-11-05T05:45:43Z",
+  "collected_at": "2026-11-05T07:38:31.214Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 109,
+    "likes": 2,
+    "comments": 2
+  },
+  "scores": {
+    "hot": 53,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

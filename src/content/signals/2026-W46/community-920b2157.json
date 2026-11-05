@@ -1,0 +1,81 @@
+{
+  "id": "community-920b2157",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/10521413342",
+  "title": "LG 트윈스, 트리스탄 벡 영입 - 스타크래프트",
+  "published_at": "2026-11-05T04:38:31.214Z",
+  "collected_at": "2026-11-05T07:38:31.214Z",
+  "summary_ko": "",
+  "excerpt": "... LG는 오늘(5일) 미국 출신 오른손 선발 투수 벡(30)과 총액 87만 8천 달러(계약금 30만 달러,…",
+  "metrics": {},
+  "scores": {
+    "hot": 99,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9SazRpblFYNWVZY1BRdmpjdzlrbWxvbGlMS1ZYd0RESE80QU42aGd0RWNhclQ3MnVhNUw0QTFZWTZySklvb3Ficzg1a2tDYWtTb1JpMk84ZkRLemhLTW1RRndyR0tHUHZtQnlsd2lZNNIBb0FVX3lxTE9SazRpblFYNWVZY1BRdmpjdzlrbWxvbGlMS1ZYd0RESE80QU42aGd0RWNhclQ3MnVhNUw0QTFZWTZySklvb3Ficzg1a2tDYWtTb1JpMk84ZkRLemhLTW1RRndyR0tHUHZtQnlsd2lZNA?oc=5"
+    },
+    {
+      "source_name": "중앙일보",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE43aU5QVFYtMDZtcDZ3MmxOZDI5ZUdTQlRtWnYzdTcwcS10azUwcE96bF91QlZVd0ZnMjFMdXhEUjVnbnFYUVoxOVA2bmpCLTJIOElGQVpR?oc=5"
+    },
+    {
+      "source_name": "스포츠한국",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE43X002MEMzTFdTeFg4bWN0WjU1MXlnXy05MHhwdlRFMXNvcjV5TXdoRDdHSWFwZWNvcThwVEg5NURSeUtnZ0ZiMnl6MVVHUDNfSG1iSGFpRWwtdDg4RjZwMDVaem5jbHgxbXhrSE1WbGPSAXRBVV95cUxPMERtSjJjYU5TSjhVbmwtUk1sTzlCYmEya2w4MkhROGxaenZ3b2JxYTNZVXNxMkxXeEpINzVIaGRZV3dDZUpla3NET1FUU015TUEzRnNSTXVRbnNTcXFLOTZrQnhlOE5Sa2dVdUVWYTFhSDE5cA?oc=5"
+    },
+    {
+      "source_name": "청년일보",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1OZ056amE5ajlUU1FnTWJNVVpQRVpZSkpPeUE5THdQaHI3RFFpNWp5VlFNUmw2Qk9walIyMFNFalN1X05MYjY4ZUZqS3pkTGdIMW40OG13bDM1cl8yTFFHSTNjOFJiWVE?oc=5"
+    },
+    {
+      "source_name": "톱스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5oY2NQUEswcmFYbWJFNGtuTV9SamJwcmNDdDlWRTNaOFJzR2F0MHNqTFJyZDR3VUtlaV9VQnUxdEFRUi1TS1BBRnB5Q01rT3hxamlRbXJQY3Q4eko2ZkVHOW5PNklvb0k0dzI2OG1zRm9GZw?oc=5"
+    },
+    {
+      "source_name": "뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5FdkdrWVJYenFnZ25JTkg5TWdOdEJsOEtsemlSSUVSczdXbGdDR2NXdVBRTW5lNURzdlYzbGxMblJ0b1hoTmpsM3pIUFRRTktmM2ZMZ0ZYMEhjcE9lYUNmMktNeFg3WDdXY1ZZdTRucXlwcmNqX2xxedIBeEFVX3lxTE5FdkdrWVJYenFnZ25JTkg5TWdOdEJsOEtsemlSSUVSczdXbGdDR2NXdVBRTW5lNURzdlYzbGxMblJ0b1hoTmpsM3pIUFRRTktmM2ZMZ0ZYMEhjcE9lYUNmMktNeFg3WDdXY1ZZdTRucXlwcmNqX2xxeQ?oc=5"
+    },
+    {
+      "source_name": "데일리스포츠한국",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE84RGxXbFk1Qmt3eERLR0tLMUo2SlprWVpMejgySFpQcnFPcE5taDlsMkQzNXhPV2VzVmQzSFZIREVyemlCQ1NlT0FSc3RWTXNuZktnc2dteVE1ay1FUGxZVVZkTXhNQTE3VVNwS1MyeUpMYVgzS1R6X3RGTdIBf0FVX3lxTE5qa2RQX1gwR204OFBsSk9IS0JZT3ltd2xVYWRBQmx0M0UwS3VaRjlrbzRCRm9oWWZFVDhFeUVMdktlOGR1cmpPZE4ybzh6alJWYll4MjBKVkcxeV9FSnpndHVlVHhvNElWS1c2NDVjMTJxa0JaQ1NrUzBWZlZFTFE?oc=5"
+    },
+    {
+      "source_name": "이투데이",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5uY2hMdy1LSHZTYVFRekpTSkZsbVpQYVlWZndNckphOU5RTGNTUE1jUnlocXpWRDBFNXZ2b3VFVjNoTTBFODBHOEhNZktRLUtiLS1tVw?oc=5"
+    },
+    {
+      "source_name": "서울신문",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBSMGFER2dyNXRUejdJMXM1aVJyMDZKRi0zLUg1QU82cXQxam5vQV9pdmQ5Ynlzd3hZN1Rkc2xHTVZSdmthdzB4ck1ZOHFXVWdDZU42SDM3Yw?oc=5"
+    },
+    {
+      "source_name": "제민일보",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1zSEJialk5STdtcFVYMTE0dnp0MWRJbmpxZEtnbG1CVjJWSTRBQnZZbnBMclJnemlIdHRUUHFuQUZSdGx4d2lPdV9ZNnFUZjBhbFZuQTZmLU9zNEI3SjE1WW9ZVkpBSlE?oc=5"
+    },
+    {
+      "source_name": "싱글리스트",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1NNUNCTUV3eDdfUWhJYTZHQ3B2eWNETUdBOEc0WGxvcVNBSUdoMG1ocmp6NllscXA0Y1hiX3l2Y3ZOY1hzYUdqM2VjZkI1T292M3J2b09ielZuTEd1Y0NUenpNVFg5UQ?oc=5"
+    },
+    {
+      "source_name": "STN SPORTS",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1lRnB3LVZzTXYyR3ZHMlJVQ1BsUlI3Yjc4VE1rdURDckFVcXFFbjROYlZlREZnY3BvUm10WldZeDUycWphSXN0U0NrQlRIajNET2FGVWttRkhJY2lTUVc2dFBCVVNRenFLYVpjMkpnZw?oc=5"
+    },
+    {
+      "source_name": "스포츠동아",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1kOWJlOHFHWlpXQlFuRTlaU09WVTFPU2lEQXhmbGpVdnZsdUpESjdEeDBwRDUyMVFnaE9JSW9yb0taZ0N3NnFJQVpIRm8wOUxiS2kzU293RXZlTW5kLWp6Y1VjZmNXWTFUZF9SMGFSVEhxUQ?oc=5"
+    },
+    {
+      "source_name": "재경일보",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5LNUg0RGR2QnJsdi1DdFhUSWtwcjAzV3hzenNCY0NQTHJZTExLeUdySVJySHZ0MGVZOEpVRU1VQjB4cENpVHhfd1g5QQ?oc=5"
+    }
+  ]
+}

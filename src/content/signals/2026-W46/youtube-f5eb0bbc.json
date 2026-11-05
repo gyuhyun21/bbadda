@@ -1,0 +1,26 @@
+{
+  "id": "youtube-f5eb0bbc",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "youtube",
+  "source_name": "쇼핑잇",
+  "url": "https://www.youtube.com/watch?v=4Qs0KrJ_ExI",
+  "title": "KT 오원석 선발이 불안한 이유 #KT위즈 #오원석 #야구",
+  "published_at": "2026-11-05T06:52:39Z",
+  "collected_at": "2026-11-05T07:38:31.214Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 693,
+    "likes": 5,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 38,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

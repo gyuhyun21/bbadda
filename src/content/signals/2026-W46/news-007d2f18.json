@@ -1,0 +1,23 @@
+{
+  "id": "news-007d2f18",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠경향",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9IbERIekFGNXBSTWE5dk5OY1FZdjZNMzdJQVk2WGN5T3RfVVZMNFBtNFIxR3lwWjFfdEg3eThqTWpEcVJFOENQVm81TDg5RXptaFk5T3JBYVY3RWNET01Fc2l2NNIBY0FVX3lxTE9IbERIekFGNXBSTWE5dk5OY1FZdjZNMzdJQVk2WGN5T3RfVVZMNFBtNFIxR3lwWjFfdEg3eThqTWpEcVJFOENQVm81TDg5RXptaFk5T3JBYVY3RWNET01Fc2l2NA?oc=5",
+  "title": "대만 마캠 시작하는 설종진 키움 감독 “좋은 투수 있어도 수비가 안 되니···수비·주루 집중 훈련할 것”",
+  "published_at": "2026-11-05T02:44:00.000Z",
+  "collected_at": "2026-11-05T07:38:31.214Z",
+  "summary_ko": "스포츠경향에 따르면 설종진 키움 감독은 대만 마무리캠프에서 수비와 주루 훈련에 집중하겠다고 밝혔다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "설종진, 수비·주루 집중 훈련"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "news-8f7d938b",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5TZXRWblJCd0tsaWZfd29mM3ZiNm1sSFhFX3Jqb0JEOWdEYUY3QkVrVFE4Wk53VVVYU2FERElaS1Zvc29ZTHppZWV0MkdVejRIeW1sc012QzlBX29jb0hNV1hYMVlUSXdlSFdXS3hZUdIBb0FVX3lxTE5TZXRWblJCd0tsaWZfd29mM3ZiNm1sSFhFX3Jqb0JEOWdEYUY3QkVrVFE4Wk53VVVYU2FERElaS1Zvc29ZTHppZWV0MkdVejRIeW1sc012QzlBX29jb0hNV1hYMVlUSXdlSFdXS3hZUQ?oc=5",
+  "title": "[부고] 임태윤(SSG 랜더스 내야수)씨 부친상",
+  "published_at": "2026-11-05T04:12:20.000Z",
+  "collected_at": "2026-11-05T07:38:31.214Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 91,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "서플 뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE53d3NkMjUyd01XajM5TTNZLTR3aHQ3cERaZ05sX0tfTWFwVV91T1YzY1hHQXpPektRYXJkTFA2RWxIRHdPenI0dURpRUFVUC03YmVRUnVzU3hqdXVZ?oc=5"
+    },
+    {
+      "source_name": "연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAwSG03UTJZNlRndlV3SzVMUktCTWFEVzRZeVE1SmlGZVZZM2RLRDdqUm1NeURLWXVGaGtKaDFRTHM3ZjZUcTZMdDdQNUZZc1NpM0J1Tm1QbnJQWVA3bHdwc9IBYEFVX3lxTFAwSG03UTJZNlRndlV3SzVMUktCTWFEVzRZeVE1SmlGZVZZM2RLRDdqUm1NeURLWXVGaGtKaDFRTHM3ZjZUcTZMdDdQNUZZc1NpM0J1Tm1QbnJQWVA3bHdwcw?oc=5"
+    },
+    {
+      "source_name": "경향신문",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeFlHREQwQVl1MkEzVGNKYnp5Q19pdmVjeFh2eTgwbWp0emR2Ri1PQ3FhcEp6ekJpdDFwdXR1ZFU2czlFN1BrWmRxcjNkVGQxN1lEZmJ5aUFEeWlsTExEeDRBQ0R1aENtd08xQ0dGSGVOQ3NfdzJVR3Q1OVFnb25sNDR4cklxOEItYnV0VGVWWU41RTl5Zi1PWnNZc1I4ZV9ycURpX3dYWDdiUdIBX0FVX3lxTE9DUlZKWHhlZE9lOHJWc3hZYlJDa2RwVFItTDNlOWlmd0dRQi1fY3pVd3FkRm55a2lCRzlIRmhmT2tHQ0h6d0ZaUHFpd3h3c1F3UGpCUTIxQzRoQ3lEcjc0?oc=5"
+    }
+  ]
+}

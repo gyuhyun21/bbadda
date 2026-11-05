@@ -1,0 +1,24 @@
+{
+  "id": "news-4b665906",
+  "issue": "2026-W46",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "마이데일리",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4tR3RBRlBCMHc1SkdlZ0otNUNYbHlsTWxuY000cVZ5dGo3OEJHSDdvbXNVVnpvRlJUT3c3eV9GMTkyV2xpaC1hVTBtTnV3TzBRaHlETHVsaS10NWpFRGlvQw?oc=5",
+  "title": "아니, 안현민 or 김지찬·이재현 KS 우승 뒤풀이도 못하고 헐레벌떡 日행? 숨도 못 쉬고 태극마크 다나[MD대전]",
+  "published_at": "2026-11-05T04:00:00.000Z",
+  "collected_at": "2026-11-05T07:38:31.214Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

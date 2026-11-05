@@ -1,0 +1,22 @@
+{
+  "id": "news-f3bc9ece",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "매일신문",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8yaGdGNG9WY08zQ0h3elh6ZVBudmdrVGM3eHlRZDZuYjl1WDFhX3p2VlJnWWhJMW1CTGRBd2w5ZTJvWjNQamRoY0x2N1BVVVVrSDJRc19KNWpVN3FxWTJZNGh3?oc=5",
+  "title": "2002년 안정환이 떠오른 삼성 디아즈…실책 딛고 승리 완성한 `한국시리즈 드라마`",
+  "published_at": "2026-11-05T03:42:35.000Z",
+  "collected_at": "2026-11-05T07:38:31.214Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 83,
+    "relevance": 70
+  },
+  "sentiment": "mixed"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "news-801eddc5",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "이투데이",
+  "url": "https://www.etoday.co.kr/news/view/2644634?trc=main_list_news",
+  "title": "KIA 곽도규, 왼쪽 허벅지 부상으로 APBC 대표팀 낙마",
+  "published_at": "2026-11-05T05:11:00.000Z",
+  "collected_at": "2026-11-05T07:38:31.214Z",
+  "summary_ko": "이투데이는 KIA 곽도규가 왼쪽 허벅지 부상으로 APBC 대표팀에서 빠졌다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 99,
+    "relevance": 70
+  },
+  "sentiment": "negative",
+  "also_in": [
+    {
+      "source_name": "미주중앙일보",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5UTndaQmxHX2VJSlF5alludmk3MlVDR0ZfaE4tcktEaGhCd3hRaWl6R08ycWZINVd3R1BpVUg5Q3NLLVJudS1Bbml3VWhKWVVHX2tDdUdWN2UzdTdzOXZSTjBn?oc=5"
+    },
+    {
+      "source_name": "KBC광주방송",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5PTW5ZQW1YaENnWDRpRVNUb0FyNGZPMWRUVi1FNVd5UE4zUl8zaVBpS1FSOXEwZWxqWkI0dzNqY0gwYXB0dEwwMkxXamdWbll0VTJUUnJ2REc4OWZmVlJueA?oc=5"
+    },
+    {
+      "source_name": "뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE40M09OMjJFZWpXVkFHSkJDOG9HYnRIcVRrbURvc243anNSMEtPTnhlU2E4LUJzWUdKeTJ6WXJWQUJVa195SjJYeGtodVo0bm1BcEhFSXVsQQ?oc=5"
+    },
+    {
+      "source_name": "m.mksports.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5KYmZobkFFd3VmeUJ3UDlGQ3J5SlNoVXk4VWcyclJqYUZUeEZWX3Y2ODRreEVWNTQxUE9VYnE3a2JTTF9aX3dVRW5Gck95VlRBTWtRQmZvMk5FMm8?oc=5"
+    },
+    {
+      "source_name": "뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9MT05EVUREeldVSXVUTzdrTVIxQk5fcUlvR1BtVEVBYk5ndUtaRGlKMkVmSFg2anFjWFFWdldEejdpWkdSR3hTT1VHLXhNdnZFR3pud29ySmVzeXFSYkx4Qg?oc=5"
+    }
+  ],
+  "brief_ko": "곽도규, 허벅지 부상으로 APBC 제외"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "youtube-8bd48e1e",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "신시아 타이거즈",
+  "url": "https://www.youtube.com/watch?v=mdYl9FJDvcg",
+  "title": "도대체 뭐가 투심이고 뭐가 포심인데?!  #기아타이거즈 #야구 #야구중계",
+  "published_at": "2026-11-05T03:45:19Z",
+  "collected_at": "2026-11-05T07:38:31.214Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1073,
+    "likes": 23,
+    "comments": 4
+  },
+  "scores": {
+    "hot": 55,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

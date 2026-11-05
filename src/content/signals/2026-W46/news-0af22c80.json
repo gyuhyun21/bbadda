@@ -1,0 +1,23 @@
+{
+  "id": "news-0af22c80",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "news",
+  "source_name": "알파경제",
+  "url": "https://www.alphabiz.co.kr/news/articleView.html?idxno=196473",
+  "title": "퇴출 위기서 kt 중심타자로…힐리어드, 한국시리즈서도 불방망이",
+  "published_at": "2026-11-05T05:37:04.000Z",
+  "collected_at": "2026-11-05T07:38:31.214Z",
+  "summary_ko": "알파경제는 퇴출 위기까지 갔던 힐리어드가 kt 중심타자로 자리 잡아 한국시리즈에서도 방망이가 뜨겁다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 80
+  },
+  "sentiment": "neutral",
+  "brief_ko": "힐리어드, KS서도 불방망이"
+}
