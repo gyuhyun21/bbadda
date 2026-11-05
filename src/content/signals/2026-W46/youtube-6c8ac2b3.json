@@ -1,0 +1,28 @@
+{
+  "id": "youtube-6c8ac2b3",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "JTBC News",
+  "url": "https://www.youtube.com/watch?v=GwLrG-8L9pM",
+  "title": "투수 하현승 vs 타자 하현승 승자는? '16억 신인'의 패기 / JTBC 뉴스룸",
+  "published_at": "2026-11-05T11:59:04Z",
+  "collected_at": "2026-11-05T21:38:07.298Z",
+  "summary_ko": "JTBC 뉴스룸이 16억 신인 키움 하현승의 투수·타자 겸업을 다룬 영상을 올렸다. 영상 제목 기준 내용이다.",
+  "metrics": {
+    "views": 9291,
+    "likes": 55,
+    "comments": 17
+  },
+  "scores": {
+    "hot": 56,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "하현승, 투수냐 타자냐"
+}

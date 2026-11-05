@@ -1,0 +1,24 @@
+{
+  "id": "community-00978936",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&page=4&document_srl=10523564400",
+  "title": "대만여행의 기억 - 야구",
+  "published_at": "2026-11-05T15:38:07.298Z",
+  "collected_at": "2026-11-05T21:38:07.298Z",
+  "summary_ko": "",
+  "excerpt": "... 주아 12 분 전. 혜선 ssg 랜더스 타계다. [레벨:24] 일리야 13 분 전. 곱창국수…",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

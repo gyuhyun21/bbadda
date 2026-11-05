@@ -1,0 +1,23 @@
+{
+  "id": "news-0e5fc811",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스핌",
+  "url": "https://www.newspim.com/news/view/20261105001510",
+  "title": "[KS 포커스] 불펜데이 불가피한 삼성…3차전 후라도 호투가 절실한 이유",
+  "published_at": "2026-11-05T20:46:00.000Z",
+  "collected_at": "2026-11-05T21:38:07.298Z",
+  "summary_ko": "뉴스핌은 삼성이 불펜데이를 피하기 어려워 3차전 후라도의 호투가 절실하다고 짚었다. KS 포커스 기사다.",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "brief_ko": "불펜데이 불가피한 삼성"
+}

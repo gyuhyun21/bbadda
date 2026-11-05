@@ -1,0 +1,23 @@
+{
+  "id": "news-45099290",
+  "issue": "2026-W46",
+  "module": "rivalry",
+  "team": "kt",
+  "teams": [
+    "kt",
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "조선일보",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNX3V5eFJRZG52NjlpdVB6MUdyVFRaVl8tcEJpRnR1ZzZXcGlwa201MGNPUy1vbHpXV280b3VDTzlLaDJwdEV3Wl93RmxsdUlUSlYxXzVlbTNna3puTFhvbVVqV0V2VGJ3Wjd1dExtM2VJVGM5TFptOC1HWHZoNWI4dDdSMA?oc=5",
+  "title": "KT는 부실한 불펜, 삼성은 수비 실책에 골치",
+  "published_at": "2026-11-05T15:38:00.000Z",
+  "collected_at": "2026-11-05T21:38:07.298Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 80
+  },
+  "sentiment": "negative"
+}

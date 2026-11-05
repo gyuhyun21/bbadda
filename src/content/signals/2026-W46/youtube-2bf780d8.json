@@ -1,0 +1,26 @@
+{
+  "id": "youtube-2bf780d8",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "youtube",
+  "source_name": "롯데자몽이",
+  "url": "https://www.youtube.com/watch?v=EoJ_62AAKtc",
+  "title": "무과금롯데덱 골글팩 개봉! #롯데자이언츠 #야구 #v26 #컴투스프로야구v26 #baseball #무과금",
+  "published_at": "2026-11-05T14:38:03Z",
+  "collected_at": "2026-11-05T21:38:07.298Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 42,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 21,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

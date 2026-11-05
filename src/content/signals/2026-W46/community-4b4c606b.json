@@ -1,0 +1,24 @@
+{
+  "id": "community-4b4c606b",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 아빠가 만들어가는 이야기",
+  "url": "https://papa.tistory.com/302",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/HA5h1xt8Lvy",
+  "title": "페덱 7이닝 1실점 호투, 한국시리즈 2차전 나흘 휴식 102구 기록",
+  "published_at": "2026-11-06T00:53:17.000+09:00",
+  "collected_at": "2026-11-05T21:38:07.298Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

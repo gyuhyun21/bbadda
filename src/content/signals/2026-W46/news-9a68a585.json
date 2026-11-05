@@ -1,0 +1,28 @@
+{
+  "id": "news-9a68a585",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE81M29pODlTdUNnbXNMeFVZeFA2YXZReVlseUh3QVp2UXZIcDhjNU1qbFlhXzdmTFNaWG5oYUtSUWxMVThQbmZWekVSVlAxa1ZBWk5FRUo3Q3ZrSFdvd2E5TmlxTVE5VC1sODRhZUhTVU1lZHVxNFNYRG40VTJEQQ?oc=5",
+  "title": "'삼성 대박' 수비 믿고 내보냈는데 안타를…'번트 실패'에도 떨지 않은 '가을야구' 데뷔, \"이런 기회 쉽게 안 오잖아요\" [KS]",
+  "published_at": "2026-11-05T16:24:18.000Z",
+  "collected_at": "2026-11-05T21:38:07.298Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 82,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWVRmdEdLN2NnaVJHZ0dQMmZ4Snd4blBMUGNscG9FREpDTk1xd2xWb29vWm56eFNnY2dNUWlrOExNMHVQYVFkNWlKSWpxR0t0YmFWYVdQRE9uS29qbkRLUDdscGpCWEpENEtRWGltcVBwVEI2UC1yYVE1Q0kxckdrX3RQRQ?oc=5"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "news-11c2519e",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://www.mt.co.kr/sports/2026/11/06/2026110515404977645",
+  "title": "'3차전 패배=준우승' 무조건 이겨야 산다, 삼성 왕조 재건 'PO 영웅' 후라도 어깨에 달렸다 [KS3 프리뷰]",
+  "published_at": "2026-11-05T20:41:00.000Z",
+  "collected_at": "2026-11-05T21:38:07.298Z",
+  "summary_ko": "머니투데이는 3차전을 지면 준우승이 된다며 삼성이 PO 영웅 후라도에게 기대를 건다고 전했다. KS3 프리뷰 기사다.",
+  "metrics": {},
+  "scores": {
+    "hot": 92,
+    "relevance": 70
+  },
+  "sentiment": "mixed",
+  "also_in": [
+    {
+      "source_name": "스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE82RWJrM0JxUFZEVGJxUFl4ZG1oQS1iNVdHUU9Sd3N2enVSSXJWNDRWeDBtNjQ3RFliZHp0NW9hY19FbnRqOVlyNmgzY3huc0l6bjlhV2FydHZCS1JwZE1jbk15XzVYVFZsTzRuemxPUzJQQ3JKZnc?oc=5"
+    }
+  ],
+  "brief_ko": "후라도 어깨에 달린 3차전",
+  "hook_ko": "3차전 승자, 우승 확률 88.9%"
+}

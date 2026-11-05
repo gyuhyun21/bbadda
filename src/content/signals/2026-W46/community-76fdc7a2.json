@@ -1,0 +1,24 @@
+{
+  "id": "community-76fdc7a2",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&page=3&document_srl=10521627745",
+  "title": "김도영 기념 유니폼 모음 - 야구",
+  "published_at": "2026-11-05T05:38:07.298Z",
+  "collected_at": "2026-11-05T21:38:07.298Z",
+  "summary_ko": "",
+  "excerpt": "... LG는 어떻게 현역 빅리거를 100만달러 ... LG는 어떻게 현역 빅리거를 100만달러 안 주고 데려왔을까…",
+  "metrics": {},
+  "scores": {
+    "hot": 62,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

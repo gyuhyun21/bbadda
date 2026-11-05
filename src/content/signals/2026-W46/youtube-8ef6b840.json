@@ -1,0 +1,26 @@
+{
+  "id": "youtube-8ef6b840",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "만복하우스",
+  "url": "https://www.youtube.com/watch?v=aVIPR9HvsIU",
+  "title": "#기아타이거즈#비글#만복이#야구#야구응원",
+  "published_at": "2026-11-05T18:42:45Z",
+  "collected_at": "2026-11-05T21:38:07.298Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 7,
+    "likes": 1,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 51,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

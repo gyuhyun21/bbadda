@@ -1,0 +1,23 @@
+{
+  "id": "news-e780997f",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "일간스포츠",
+  "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5oN1BUTDBWcF9EQTk0MzdYekZ6QVpfX1VJcWlDX281V05RTUM1cVdJSmMtSzFuSUpOS1FpeG9pZzItb3p6N1JzNVVnVTRndjhnVHpaNzRoTkhDTWM?oc=5",
+  "title": "통증 이기는 '가을 투혼'…우승 향해 몸 사리지 않는 사자들과 마법사들",
+  "published_at": "2026-11-05T15:07:00.000Z",
+  "collected_at": "2026-11-05T21:38:07.298Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

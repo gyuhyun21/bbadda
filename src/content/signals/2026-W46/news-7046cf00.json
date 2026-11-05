@@ -1,0 +1,24 @@
+{
+  "id": "news-7046cf00",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "마이데일리",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1UM29idVNxRTFVQnM2SW85WEJiWmRXRjV5bTJMSmV1X21KbVFfcllGcmRIaWRLeHBKOUwycE83dWxGSjQ3VVdXYzBGTldqODhIR2xLeVpZM0NmYXNGZDJkdA?oc=5",
+  "title": "'PO 0.150→KS 0.500' 구자욱 살아났다! 문제는 주루, 박진만의 해결책은? \"디아즈·최형우 홈런 쳐야\"",
+  "published_at": "2026-11-05T16:11:00.000Z",
+  "collected_at": "2026-11-05T21:38:07.298Z",
+  "summary_ko": "마이데일리에 따르면 삼성 구자욱이 PO 0.150에서 KS 0.500으로 살아났다. 박진만 감독은 주루가 문제라고 짚으며 디아즈·최형우의 홈런을 기대했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "brief_ko": "구자욱, KS서 타율 0.500"
+}

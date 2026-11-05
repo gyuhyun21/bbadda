@@ -1,0 +1,23 @@
+{
+  "id": "news-cd3bfd0c",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "news",
+  "source_name": "www.xportsnews.com",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE56YU1ISnJYLThPbjlVNjQ4RHdmb054UWV5VktwWUlwRGNXVFM3REdKbFdZS3Q0V1pzVU16STg1bWZOS3M1WDZCaW93a3RzN0E0Vm5vVQ?oc=5",
+  "title": "'한화 307억 포기' 노시환 초대박! 양키스 대형 이적 성사되나?…뉴욕행 가능성 거론→美 매체 \"우타 3루수 후보, 삼진·수비 걸림돌\"",
+  "published_at": "2026-11-05T15:02:28.000Z",
+  "collected_at": "2026-11-05T21:38:07.298Z",
+  "summary_ko": "엑스포츠뉴스는 한화 노시환의 양키스 이적 가능성이 거론된다고 전했다. 미국 매체는 우타 3루수 후보지만 삼진·수비가 걸림돌이라고 봤다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "노시환, 양키스행 거론"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "youtube-e4af1dd6",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "youtube",
+  "source_name": "ryong",
+  "url": "https://www.youtube.com/watch?v=cxGYYbg64zs",
+  "title": "2026 NC 다이노스 승리확률 급상승 TOP 10 | WPA TOP 10",
+  "published_at": "2026-11-05T14:17:59Z",
+  "collected_at": "2026-11-05T21:38:07.298Z",
+  "summary_ko": "한 야구 유튜버가 2026시즌 NC 승리확률 급상승 TOP 10(WPA)을 정리한 영상을 올렸다. 영상 제목 기준 내용이다.",
+  "metrics": {
+    "views": 1363,
+    "likes": 28,
+    "comments": 4
+  },
+  "scores": {
+    "hot": 58,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "brief_ko": "승리확률 급상승 TOP 10"
+}

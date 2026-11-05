@@ -1,0 +1,30 @@
+{
+  "id": "news-2d582a84",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://www.mt.co.kr/sports/2026/11/06/202611060053778183O",
+  "title": "‘이럴 수가’ 홀드왕 日 투수, 왜 이러나…2차전 사구 볼넷 실점, 1차전 못 쓴 이유 있었네",
+  "published_at": "2026-11-05T20:42:00.000Z",
+  "collected_at": "2026-11-05T21:38:07.298Z",
+  "summary_ko": "머니투데이는 KT 홀드왕 일본인 투수가 KS 2차전에서 사구와 볼넷으로 실점했다고 전했다. 1차전에 쓰지 못한 이유가 있었다는 내용이다.",
+  "metrics": {},
+  "scores": {
+    "hot": 84,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB6R0h3Q1FLcktEUkswV0JPcWNTTlBKdDFXMk1lclhJSEpSZDlIN1NaZ3lTeGZoM0MwSVBfYjBtMURrVzBpWTRIVi1GTVowTmVYcjlzag?oc=5"
+    }
+  ],
+  "brief_ko": "KT 불펜, 홀드왕 日 투수 부진"
+}

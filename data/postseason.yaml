@@ -261,6 +261,8 @@ rounds:
         sources:
           - "https://cafe.daum.net/subdued20club/ReHf/5773749" # KS3 예고 선발(게시글 제목)
           - "https://www.yna.co.kr/amp/view/AKR20261105109300007" # 3차전 우승 확률 88.9%(연합뉴스)
+          - "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5CSXBxT0paMDc4UlpzYzVHS0plMURnRVFsdlNfLWlYUEJ2LXdWNnRwN0dxbU5ZUW41Z2ZKZEZkZzNmOTlPekdQSFJ3YW42VlUzRTdMc2lVcTFCTjBVSm9saDdB?oc=5" # KS3 선발 소형준 vs 후라도(일간스포츠)
+          - "https://news.google.com/rss/articles/CBMiakFVX3lxTFBMYXNFc1E2clI2cUpidy1aUnRPUFlUX2prOUU5VFh4VllvNF9NRV92TW1LdjhzMWdGTTRKMnB2UU8walNRdl9tcTRKdGFvemlyYVUwbWtETW12OVkxWGE0R2NmQXFHeFQxYUHSAW9BVV95cUxNcWZPTWlLa2gzSXVTS1U3c0lQZHNmR1VEVTRFeXpvdnBodl9zanNiUFFmelZtelJXRlVwLWhWeXE1NWlqbFVoUnkxSDdHMEZMVGMwWnFadTZTNzNoc3JfWkY5U01ZOVFkWTRHMThBTmM?oc=5" # 3차전 후라도 프리뷰(머니투데이)
       - { no: 4, date: 2026-11-07, venue: { home_of: po } }
       - { no: 5, date: 2026-11-08, venue: { home_of: po } }
       - { no: 6, date: 2026-11-10, venue: 수원 }
