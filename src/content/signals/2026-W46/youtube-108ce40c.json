@@ -1,0 +1,28 @@
+{
+  "id": "youtube-108ce40c",
+  "issue": "2026-W46",
+  "module": "league",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=ZY78WYCY4gM",
+  "title": "더블플레이로 위기 탈출‼️ 고영표가 포효합니다!🔥",
+  "published_at": "2026-11-04T11:54:28Z",
+  "collected_at": "2026-11-05T13:38:10.322Z",
+  "summary_ko": "KBO 공식 채널이 KT 고영표가 더블플레이로 위기를 벗어나 포효하는 영상을 올렸다.",
+  "metrics": {
+    "views": 6591,
+    "likes": 49,
+    "comments": 3
+  },
+  "scores": {
+    "hot": 54,
+    "relevance": 10
+  },
+  "sentiment": "neutral",
+  "team": "kt",
+  "brief_ko": "고영표, 더블플레이로 탈출"
+}

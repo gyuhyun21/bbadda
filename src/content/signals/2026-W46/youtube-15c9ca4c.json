@@ -1,0 +1,27 @@
+{
+  "id": "youtube-15c9ca4c",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom",
+    "ssg"
+  ],
+  "source_type": "youtube",
+  "source_name": "TV제물포역",
+  "url": "https://www.youtube.com/watch?v=hpmmPvtQiqo",
+  "title": "인천1호선 문학경기장역 명소 : 20260920 KBO리그 키움히어로즈 대 SSG랜더스 4회말 7번타자 이지영 우중간 안타 #shorts, #TV제물포역",
+  "published_at": "2026-11-05T09:45:09Z",
+  "collected_at": "2026-11-05T13:38:10.322Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 38,
+    "likes": 5,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 60,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

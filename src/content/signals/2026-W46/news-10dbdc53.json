@@ -1,0 +1,33 @@
+{
+  "id": "news-10dbdc53",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1hN3d1Nmt4LVBuWnhzTWNhSzZWVUtrOGlMc3JBOVFFVTlKS25LRnNWZXFxT3ZvRURxOEdCb05RMVhUYU90SHRNcHpWb2kyTXR6MmFvZXpHTG5IaTE1LTV2LUQ4VDVqY254RlHSAW9BVV95cUxQOXI2cldMUk40cVlyWVdCVThkbV9pcnNFYzY2X3Nzc0NPX29xZEFUUnQwVHo5b3M5c25JeHc3aEh4VDFIMXUwaWZqUElaOEdld1lvRzNDZWVaWGFLSmNtdTBGcFNxeGdBNUZmZmV6cDg?oc=5",
+  "title": "꼴찌팀 떠나 KS 데뷔전, 옛 동료 224K 에이스가 응원했다 “영웅 아니면 역적, 부담감 크겠지만 부러워”",
+  "published_at": "2026-11-05T10:40:00.000Z",
+  "collected_at": "2026-11-05T13:38:10.322Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 91,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U3FOdDFTUFp4NUFnV2xyWGMtZ1NETDNiaFBENUpyOHNobFFxV1JoYlhZVl9UMDJfS1F6U2lMbEFBamhoTGsxLTFMN21XZF94Tm1sVw?oc=5"
+    },
+    {
+      "source_name": "미주중앙일보",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5VdzdIcjh1TDV1YUtlazlKYjg3TmRWdURwSVIwNzltWWFsMDZZbGc2WDdkVkwtUTJ6RzRrdzB4dTMtVUFNN0stYWFvcF83MUluc3pja0xzNEhWOVRieVlFOW5R?oc=5"
+    }
+  ]
+}

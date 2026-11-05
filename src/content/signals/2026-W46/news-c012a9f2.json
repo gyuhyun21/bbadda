@@ -1,0 +1,29 @@
+{
+  "id": "news-c012a9f2",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1GWkJkZHNBUGE3d2tEcEQyeHY2cDAwS1VtcjF1bnptS0tIZXkwTDFXWHdZcmVRNFpGRm81VENWTXlkcGg5VUUtOFRNY1ZCMkcxTlNnZjlacU9zWFVpTHJEOTdNUlRKYnphaU1OdTJRSW1NUEFNaGVjZXV0cm9SUQ?oc=5",
+  "title": "\"심판 콜 보고 던졌는데…\" '대선배' 김현수 항의에도 무덤덤, 스무살 배찬승의 돌부처 멘탈[KS]",
+  "published_at": "2026-11-05T03:01:58.000Z",
+  "collected_at": "2026-11-05T13:38:10.322Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 80,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOLUhYQ01XOGQwY3RDT2M1OWJmWGNkcUpndks1eXlsSjRCMVlfNHQyYWtuZTk0VWhRSG1SMF9vb2FFLVdtTVdPbmNEOTV5OS1YRExfa2IwUDhUR3l5YlRMUF9NNmdXR1lYZnRvbElObXlKXzhvSUJaQXAxWkw4NktXWEZadw?oc=5"
+    }
+  ]
+}

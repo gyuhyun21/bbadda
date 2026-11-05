@@ -1,0 +1,23 @@
+{
+  "id": "news-d041cacb",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "https://www.asportstv.kr/",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBNUE9FaE5ONVJQMnFtVVhhUGdFeU1OY24tcnJWNFdHSlRqS3hmVlVkMTc2T0paeFZZaHZUVHJLRkFQRHVxemlYalVxYlhfb1NzaFRBYjI5d19vNHU4ejdjVndSc0ptQk9r?oc=5",
+  "title": "[한국시리즈] 88.9% 걸린 대구 승부… 소형준·후라도, 선발 싸움이 가른다",
+  "published_at": "2026-11-05T10:17:53.000Z",
+  "collected_at": "2026-11-05T13:38:10.322Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

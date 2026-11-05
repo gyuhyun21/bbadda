@@ -1,0 +1,25 @@
+{
+  "id": "news-5a4f67a9",
+  "issue": "2026-W46",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "매일신문",
+  "url": "https://www.imaeil.com/page/view/2026110519510634849",
+  "title": "원태인, 연장 혈투 끝 \"절반의 성공\"…노시환 직관에 힘 얻어",
+  "published_at": "2026-11-05T11:59:51.000Z",
+  "collected_at": "2026-11-05T13:38:10.322Z",
+  "summary_ko": "매일신문에 따르면 삼성 원태인은 연장 혈투 뒤 \"절반의 성공\"이라고 돌아봤다. 노시환이 직관한 데서 힘을 얻었다는 내용이다.",
+  "metrics": {},
+  "scores": {
+    "hot": 83,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "원태인, 연장 혈투 뒤 \"절반의 성공\""
+}

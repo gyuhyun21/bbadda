@@ -1,0 +1,23 @@
+{
+  "id": "news-b39eebbe",
+  "issue": "2026-W46",
+  "module": "league",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "news",
+  "source_name": "스포탈코리아",
+  "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQV1JCM2Ixa05GTkx6TW1CSmExNGlJREw5RXloRm9NZ3ZXNEM5ekJMbEJ6eE9CWUJUcVpienA2c0JSUFdSZjBfcld3ZVlBdnd6YTFRNU1UcnBDMzlaT1dVRkNYQXIwQkd3UlBCcEMwaXhQd3ZhQ1VERW5hM29HVlFPeHZR?oc=5",
+  "title": "이럴 수가! 노시환은 무슨 죄야? 김혜성·송성문 부진까지 걸림돌로 지목...\"KBO 성적, 빅리그에선 통하지 않았다\"",
+  "published_at": "2026-11-04T21:05:00.000Z",
+  "collected_at": "2026-11-05T13:38:10.322Z",
+  "summary_ko": "스포탈코리아는 한화 노시환의 MLB 도전을 두고 김혜성·송성문의 부진이 걸림돌로 지목된다고 전했다. KBO 성적이 빅리그에서 통하지 않았다는 평가다.",
+  "metrics": {},
+  "scores": {
+    "hot": 62,
+    "relevance": 30
+  },
+  "sentiment": "neutral",
+  "team": "hanwha",
+  "brief_ko": "노시환 MLB행, 걸림돌 지목"
+}

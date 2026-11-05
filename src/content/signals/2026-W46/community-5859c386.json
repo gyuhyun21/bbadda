@@ -1,0 +1,29 @@
+{
+  "id": "community-5859c386",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 해용님의 블로그",
+  "url": "https://livestoryforge.com/16799",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/Cwfgi5WhF64",
+  "title": "KIA 곽도규, APBC 대표팀 낙마...불펜 핵심 대퇴부 부상으로 이탈",
+  "published_at": "2026-11-05T20:05:57.000+09:00",
+  "collected_at": "2026-11-05T13:38:10.322Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "negative",
+  "also_in": [
+    {
+      "source_name": "일간스포츠",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9lSFdZLUYtM1VjUEg2QlBRSnFXU2hWM1BrN0NYZ3ZmbnJINDkxdmRrc191Y2NBdGRFY1I3cmxtWjdMbmNOd2RJYllHdWZ4azBNZ0ViWFd5S1YyOS1FcEFqZ2Zn?oc=5"
+    }
+  ]
+}

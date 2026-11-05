@@ -1,0 +1,27 @@
+{
+  "id": "youtube-4ea7f540",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "*풀카운트*",
+  "url": "https://www.youtube.com/watch?v=AExHySywq9o",
+  "title": "고영표 박영현 까지등반하고 KT는 왜 12회에 무너졌나#박영현#고영표#KT위즈#한국시리즈#2026프로야구포스트시즌#삼성라이온즈",
+  "published_at": "2026-11-05T09:42:30Z",
+  "collected_at": "2026-11-05T13:38:10.322Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1068,
+    "likes": 9,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 45,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

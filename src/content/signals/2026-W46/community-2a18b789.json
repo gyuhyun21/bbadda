@@ -1,0 +1,24 @@
+{
+  "id": "community-2a18b789",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&page=3&document_srl=10522706920",
+  "title": "영화 최종면접 이정도면 표값한다 생각함 - 야구",
+  "published_at": "2026-11-05T11:38:10.322Z",
+  "collected_at": "2026-11-05T13:38:10.322Z",
+  "summary_ko": "",
+  "excerpt": "... 최강볼펜) 롯데, SSG 외부 FA 영입에 대하여 · 내일 벌써 금요일임 ... 7 분…",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

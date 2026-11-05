@@ -1,0 +1,28 @@
+{
+  "id": "youtube-0fb1b279",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "NC 다이노스",
+  "url": "https://www.youtube.com/watch?v=7_t5k2bwqN4",
+  "title": "가자 오키나와💥 오키나와 출국 스케치 ㅣ CAMP 1 오키나와",
+  "published_at": "2026-11-05T11:32:14Z",
+  "collected_at": "2026-11-05T13:38:10.322Z",
+  "summary_ko": "NC 구단 채널이 오키나와 캠프 출국 스케치 영상을 올렸다.",
+  "metrics": {
+    "views": 3163,
+    "likes": 256,
+    "comments": 47
+  },
+  "scores": {
+    "hot": 84,
+    "relevance": 50
+  },
+  "sentiment": "neutral",
+  "brief_ko": "NC, 오키나와로 출국"
+}

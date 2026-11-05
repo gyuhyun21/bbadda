@@ -1,0 +1,24 @@
+{
+  "id": "news-aa9fed0b",
+  "issue": "2026-W46",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "국제신문",
+  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUUlvVkY0ZlBqT2ZmckYyQklxUUZVbTVsWVhvNlJjTktrbG42aE94NFhQSDg3X2t3ZDJYeU40U0xHb2pnaEZpVFBadGVadHMwQS0wYkVuUDlaWlRCRGgyMEZNajYwaGo4Y3BXdXZmUTA1a1lFX1o0TTNkNkI1dEltOFNuazJ4NFhRZENUNlln?oc=5",
+  "title": "승부는 원점…‘홈런 공장’ 대구서 거포들의 전쟁",
+  "published_at": "2026-11-05T10:29:00.000Z",
+  "collected_at": "2026-11-05T13:38:10.322Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

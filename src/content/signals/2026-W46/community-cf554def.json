@@ -1,0 +1,24 @@
+{
+  "id": "community-cf554def",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&document_srl=10522911766",
+  "title": "우드러프가 크보를 왜옵니까 - 야구",
+  "published_at": "2026-11-05T12:38:10.322Z",
+  "collected_at": "2026-11-05T13:38:10.322Z",
+  "summary_ko": "",
+  "excerpt": "... 삼성라이온즈 이러면 3년동안 가을야구 30경기이상 하는거네 · 레알 마드리드 [7]. 7 분 전 자유…",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

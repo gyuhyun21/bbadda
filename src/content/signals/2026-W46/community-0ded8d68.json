@@ -1,0 +1,24 @@
+{
+  "id": "community-0ded8d68",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 돈 지키기 연구소",
+  "url": "https://devsecretgarden.tistory.com/288",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/A22tzA19BOv",
+  "title": "최원태 한국시리즈 2이닝 강판, 70억 중 보장된 돈은 58억",
+  "published_at": "2026-11-05T19:10:24.000+09:00",
+  "collected_at": "2026-11-05T13:38:10.322Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -244,6 +244,7 @@ rounds:
           - "KT 2루수 김상수 대신 류현인 선발" # 마이데일리 '[MD수원 KS2] 김상수 출전 쉽지 않다 KT, 선발 라인업 소폭 변화'
         ig:
           pre: { hook: "8점 차도 못 지켰다\n오늘 2차전", sub: "KT 고영표 vs 삼성 페덱, 2루수 류현인 선발" }
+          post: { hook: "12회 4시간 21분\n삼성이 원점으로", sub: "삼성 3-2 KT, KS 1승 1패", points: ["페덱·고영표, 나란히 7이닝 1실점", "디아즈 4안타, 12회 실책 장면도 나와", "배찬승이 12회를 막고 세이브"] } # 근거: 연합뉴스·뉴스1·마이데일리·아시아스포츠TV·OSEN 위 result/save/mvp 기사
         sources:
           - "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1EQU90US1lZmZJR3hsQzB0TjQzVGFaenpsRjdVYjAzdExmYzNodlJ0QXZIN2t0WVBoSWktMWlZeHEzbmpuYV83enJlcmNnY1g1M09YZUo4cHpqYzFaNjBlRdIBeEFVX3lxTE10SXBINy1PYWVNRlhxbjdEdkFqSFdRZXQ0SmhncFU5Uk9UZ3RzOWNMZVRReFNIWkZQV1JyNmE1djBwYmFSS2F1R2ZSdXdyZ1BBRjRINFZfYUxmUTgwV29rbFZnVVJSNzdpd0M5MWZiWHZYUERKRG5Lcw?oc=5" # KS2 예고 선발(뉴시스)
           - "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1laVZuSk5VbnliODhpOG5pTHZUNnJLOVJrUlhqdXhoNTgxT2xHTW5aQTRlQldEdnp6a1Y2a0ZCblRWdEZSYkw5aVZHYTdiWDBfNE9RSkJzU0d3NFNqeGpqYUdfa9IBY0FVX3lxTE1laVZuSk5VbnliODhpOG5pTHZUNnJLOVJrUlhqdXhoNTgxT2xHTW5aQTRlQldEdnp6a1Y2a0ZCblRWdEZSYkw5aVZHYTdiWDBfNE9RSkJzU0d3NFNqeGpqYUdfaw?oc=5" # 고영표 다승왕(스포츠경향)
@@ -255,6 +256,8 @@ rounds:
         starters: { kt: 소형준, samsung: 후라도 } # 예고 선발(다음카페 게시글 제목 '가을 불패 소형준 vs PO MVP 후라도, KS 3차전 격돌')
         facts:
           - "1승 1패 뒤 3차전 승리 팀 우승 확률 88.9%"
+        ig:
+          pre: { hook: "3차전 이기면\n우승 확률 88.9%", sub: "KT 소형준 vs 삼성 후라도, 대구에서 승부" }
         sources:
           - "https://cafe.daum.net/subdued20club/ReHf/5773749" # KS3 예고 선발(게시글 제목)
           - "https://www.yna.co.kr/amp/view/AKR20261105109300007" # 3차전 우승 확률 88.9%(연합뉴스)

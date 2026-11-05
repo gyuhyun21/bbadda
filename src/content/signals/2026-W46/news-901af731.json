@@ -1,0 +1,23 @@
+{
+  "id": "news-901af731",
+  "issue": "2026-W46",
+  "module": "rivalry",
+  "team": "kt",
+  "teams": [
+    "kt",
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "서울경제",
+  "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBlMV9Oc2QxRGliV05saEp5bG0xUThIT1J2eENFaFRFZlYtbkk4OHFlUldaV3ExRVgyZ2pQMmF3a2FQQjN6R3VPTW13Si1sZ0VWRGfSAVNBVV95cUxPQmpDWHpsX1gzRkhCYXdHSEpaT1RVU3VMd0xpdlVDVTAwUGhqTE5NV3NVMGZxeXpCT2xLSzBKYUFWRjVXUFVsNTRZUUdGdkpfMXd4NA?oc=5",
+  "title": "kt·삼성 ‘우승확률 88.9%’…소형준·후라도에 달렸다",
+  "published_at": "2026-11-05T06:41:35.000Z",
+  "collected_at": "2026-11-05T13:38:10.322Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

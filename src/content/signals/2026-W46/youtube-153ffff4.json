@@ -1,0 +1,26 @@
+{
+  "id": "youtube-153ffff4",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "한량대기자",
+  "url": "https://www.youtube.com/watch?v=GVpVmujadL8",
+  "title": "2026 박정우 기록 #야구 #기아타이거즈 #kia타이거즈",
+  "published_at": "2026-11-05T10:00:36Z",
+  "collected_at": "2026-11-05T13:38:10.322Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1096,
+    "likes": 18,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 51,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}
