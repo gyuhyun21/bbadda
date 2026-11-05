@@ -1,0 +1,26 @@
+{
+  "id": "youtube-a7fa80b4",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "호랑이굴",
+  "url": "https://www.youtube.com/watch?v=pKbI1H90RcM",
+  "title": "김도영 앞에서 하면 안되는 말 #기아타이거즈 #야구 #프로야구",
+  "published_at": "2026-11-05T13:52:52Z",
+  "collected_at": "2026-11-05T21:38:07.298Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 8152,
+    "likes": 116,
+    "comments": 2
+  },
+  "scores": {
+    "hot": 61,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

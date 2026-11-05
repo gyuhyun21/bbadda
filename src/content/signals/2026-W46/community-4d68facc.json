@@ -1,0 +1,34 @@
+{
+  "id": "community-4d68facc",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt",
+    "lg"
+  ],
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&document_srl=10523682599",
+  "title": "'KT 방출' 25세 투수, LG 재취업 테스트...제2의 김진성 될까, 염경엽 ...",
+  "published_at": "2026-11-05T16:38:07.298Z",
+  "collected_at": "2026-11-05T21:38:07.298Z",
+  "summary_ko": "",
+  "excerpt": "... 프로야구 KT 위즈에서 방출된 투수 이준명(25)이 LG 트윈스에서 입단 테스트를 받고 있다. (중략)염경엽 감독은…",
+  "metrics": {},
+  "scores": {
+    "hot": 98,
+    "relevance": 70
+  },
+  "sentiment": "negative",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9DWTZIU2dJNzhRUFYxOTZ1VWhLMjFOMzZMSkZaMVNFWkJkWVJSbFEyQ28zaE02Rms4QkZocElIT0d6cGFQS3RfVDhydF9vZ2I5S1NqenZfT1o5ZUI2b1JfZUJJckVPNFVUMUROdVFENNIBb0FVX3lxTE9DWTZIU2dJNzhRUFYxOTZ1VWhLMjFOMzZMSkZaMVNFWkJkWVJSbFEyQ28zaE02Rms4QkZocElIT0d6cGFQS3RfVDhydF9vZ2I5S1NqenZfT1o5ZUI2b1JfZUJJckVPNFVUMUROdVFENA?oc=5"
+    },
+    {
+      "source_name": "OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAwaUtiNmlPLW5Od3VpQ3lENWVGTDBrOGtDQzRLMElMWmtjU2E4VHY3aUctUGdrcVRINGh1Sncyc0pXem9EWUwzMTNVcW5VX1N1TDdUMA?oc=5"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-439e5f5c",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://www.sportschosun.com/baseball/2026-11-05/202611060100041260004124",
+  "title": "153㎞ 강속구 여전한데, 탈삼진은 뚝…LG 야심차게 잡은 초대어, KBO에선 달라질까",
+  "published_at": "2026-11-05T15:04:32.000Z",
+  "collected_at": "2026-11-05T21:38:07.298Z",
+  "summary_ko": "스포츠조선은 LG가 영입한 153㎞ 강속구 투수의 탈삼진이 줄었다며 KBO에서 달라질지 짚었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "벡, 탈삼진은 뚝 떨어졌다"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "news-76d5cb1b",
+  "issue": "2026-W46",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "한국대학신문",
+  "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE41WllHb0FacGhtUFpWVVZhRWpwSjZySnhMS3NHZ1lCZmhhNmdVOTBTX21NRWxBczdlN2phaEpYckctMzVrVkN6XzF2RlFGOXRlQTNGYVVNWi1DRDE0T1V6Rjc3RzZmZw?oc=5",
+  "title": "한국시리즈 보는데 우리 대학이?… 수원여대·대구대 ‘야구장 광고’ 효과 ‘톡톡’",
+  "published_at": "2026-11-05T10:20:02.000Z",
+  "collected_at": "2026-11-05T21:38:07.298Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 80,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "youtube-1f69646f",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "youtube",
+  "source_name": "홍스맨\"이야기&인생\"",
+  "url": "https://www.youtube.com/watch?v=jiDQ0Lf_Y_U",
+  "title": "#안지현#ssg랜더스\"바쁘다 바뻐~~얼음넣고~~응원하랴~~렛츠고^^\"",
+  "published_at": "2026-11-05T13:55:29Z",
+  "collected_at": "2026-11-05T21:38:07.298Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 17,
+    "likes": 1,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 56,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

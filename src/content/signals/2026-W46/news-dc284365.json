@@ -1,0 +1,25 @@
+{
+  "id": "news-dc284365",
+  "issue": "2026-W46",
+  "module": "rivalry",
+  "team": "lg",
+  "teams": [
+    "lg",
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBjTF9hN0p3ZzJBelJicmpZT09BdW1sN0JfNHZFb0M0eDdkUFRteGpaMWFlRnVIZm9rdFE1eDItSkdURm1idVE1ZFQ5d0N5OV9lZGp4MDFmT3BvdUF2V0lqXzNDTkdYa0YySGN2WC1CMU5DcndYQ05kYUl3empldw?oc=5",
+  "title": "23 우승마무리와 25 우승마무리 中 27 마무리는... 염갈량은 벌써 선택을 끝냈다[이천 코멘트]",
+  "published_at": "2026-11-05T15:03:06.000Z",
+  "collected_at": "2026-11-05T21:38:07.298Z",
+  "summary_ko": "스포츠조선에 따르면 염경엽 LG 감독은 2027시즌 마무리 선택을 벌써 끝냈다. 이천 캠프 코멘트를 전한 기사다.",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "brief_ko": "27시즌 마무리, 염경엽 결정"
+}

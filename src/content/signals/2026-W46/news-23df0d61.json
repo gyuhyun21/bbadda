@@ -1,0 +1,23 @@
+{
+  "id": "news-23df0d61",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "news",
+  "source_name": "Naver Blog",
+  "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcTlfS0NjX0pmXzhvZHlTampmMWtza01VeGJibWVsM2prQmZkNWpiNlhHR0h4M3Qxb3JaLUFVcHlpVFlFY2RHMmZ0aTdvNjZ5M2tfU1V2WjZaeFpqaVRxa2NRRUs1aGFPZER2eDRxU3E3VEpaOTJETU1TTHNfa0JQNFlVaXJBdXBmcnQtMUFoSlVFZWNB?oc=5",
+  "title": "'퓨처스 통산 타율이 .326에 달하지만' 1군에서 유독 기회를 받고 있지 못한 이 선수, 두산 천현재(KBO)",
+  "published_at": "2026-11-05T20:33:12.000Z",
+  "collected_at": "2026-11-05T21:38:07.298Z",
+  "summary_ko": "네이버 블로그 글은 두산 천현재가 퓨처스 통산 타율 .326인데도 1군 기회를 못 받고 있다고 짚었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "퓨처스 .326 천현재"
+}

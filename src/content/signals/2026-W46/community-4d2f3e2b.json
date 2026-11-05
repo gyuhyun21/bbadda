@@ -1,0 +1,23 @@
+{
+  "id": "community-4d2f3e2b",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 record50001 님의 블로그",
+  "url": "https://record50001.tistory.com/2",
+  "title": "한국시리즈 마지막 승자는 어딜까?",
+  "published_at": "2026-11-06T04:50:07.000+09:00",
+  "collected_at": "2026-11-05T21:38:07.298Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

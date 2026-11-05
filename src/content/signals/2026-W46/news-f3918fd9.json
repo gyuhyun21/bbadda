@@ -1,0 +1,23 @@
+{
+  "id": "news-f3918fd9",
+  "issue": "2026-W46",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "doosan"
+  ],
+  "source_type": "news",
+  "source_name": "www.xportsnews.com",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9EM3FmV3c0a0F0bGJLVmctN0xmUXFueWNCUnhjWUEzbE5JLXBqaFN2ZXg4RFlyalFQakNDSmtka2pOWnBWUDB3Zl9MZzNZR3hNcG50ZQ?oc=5",
+  "title": "'삼성→두산' 트레이드 주인공, '0.386' 6월 불꽃 다시 타오를까…\"이진영 코치님 다운 스윙 조언 큰 도움\" [미야자키 인터뷰]",
+  "published_at": "2026-11-05T21:00:02.000Z",
+  "collected_at": "2026-11-05T21:38:07.298Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

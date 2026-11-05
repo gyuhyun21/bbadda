@@ -1,0 +1,23 @@
+{
+  "id": "news-cf9d2d4f",
+  "issue": "2026-W46",
+  "module": "rivalry",
+  "team": "kt",
+  "teams": [
+    "kt",
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "서울경제",
+  "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9CakNYemxfWDNGSEJhd0dISlpPVFVTdUx3TGl2VUNVMDBQaGpMTk1Xc1UwZnF5ekJPbEtLMEphQVZGNVdQVWw1NFlRR0Z2Sl8xd3g00gFTQVVfeXFMT0JqQ1h6bF9YM0ZIQmF3R0hKWk9UVVN1THdMaXZVQ1UwMFBoakxOTVdzVTBmcXl6Qk9sS0swSmFBVkY1V1BVbDU0WVFHRnZKXzF3eDQ?oc=5",
+  "title": "난타전·투수전, 볼짱 다 본 kt·삼성…소형준·후라도 어깨에 시리즈 운명 달렸다",
+  "published_at": "2026-11-05T06:41:35.000Z",
+  "collected_at": "2026-11-05T21:38:07.298Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}
