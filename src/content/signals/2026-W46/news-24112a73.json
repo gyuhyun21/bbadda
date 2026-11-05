@@ -1,0 +1,23 @@
+{
+  "id": "news-24112a73",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "데일리스포츠한국",
+  "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE85M2tEdUNjdllGYlRUcTJEeGZHa3NZNzctbEpFT2NwS2paLWh6N3R2Y3lnbVNzVnJsTTdPZGotMFpvYVBBRUwwVFRaQm1lbm5kS3d3Mlp0al9uUWlxZTZQN1RnTXhlYk5SR2lGcWNlUWp0V2tjQzdCVHJVc9IBf0FVX3lxTE9VU2hwOEY3dThUMnNwZ2hIS1ZSRzVhTktoYTE3Tm5NWmhzaUpCQUNWUVRjZlU4ZEQydU1FelFuZVVKY05mWUg0a0RzeHFQcEQ4b25uVmVhQkNmRDVTeGtlU2lTVW5ZdDZDWGNDdDc0aUZTbkg1dm15b1hlWjh4aDQ?oc=5",
+  "title": "소형준의 가을 강세냐, 후라도의 PO 기세냐…KS 3차전 분수령",
+  "published_at": "2026-11-05T02:41:51.000Z",
+  "collected_at": "2026-11-05T13:38:10.322Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

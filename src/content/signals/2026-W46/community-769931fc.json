@@ -1,0 +1,24 @@
+{
+  "id": "community-769931fc",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 동그리의 야구이야기",
+  "url": "https://donguri91.tistory.com/102",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/4VveoWF1PYL",
+  "title": "KBO 이야기ㅣ 화려한 투수 전 2차전 승부를 가른 실책. 결국 큰 경기는 수비!",
+  "published_at": "2026-11-05T18:33:22.000+09:00",
+  "collected_at": "2026-11-05T13:38:10.322Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

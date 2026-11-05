@@ -1,0 +1,23 @@
+{
+  "id": "news-d210d680",
+  "issue": "2026-W46",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kt"
+  ],
+  "source_type": "news",
+  "source_name": "마이데일리",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Vd3VObm9qTUp2STRLbVJzT0M2eC1NNjBwb0hvVkw4MU1QVEUtR3FCTURiZldrT3J2Mk13ZE9OMGlkYUdscDhWRDUzdGVRZnRhQXFCdjhlN21uTmVDNzhtYw?oc=5",
+  "title": "\"파울되길 바랬다\" \"10년 더 나이 든 느낌\" 삼성 원태인·배찬승, KT 안현민 타구에 마음 졸여 [MD수원 KS2]",
+  "published_at": "2026-11-05T01:09:33.000Z",
+  "collected_at": "2026-11-05T13:38:10.322Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 72,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

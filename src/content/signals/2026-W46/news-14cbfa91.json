@@ -1,0 +1,24 @@
+{
+  "id": "news-14cbfa91",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "www.xportsnews.com",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE54a2RJVW5IQjRHUEZsU2NaV3k3YjBGSnJtaWN6aFZwZU16aTRZMjlKa1R6WkR1Z2VUcGNGVTRRb3lDWEV6MGxDYm1jVFh6NzR3OEVMMw?oc=5",
+  "title": "\"왕옌청 재계약 기사 떠서 너무 좋았다\"…'0.636' 압도적 천적 실화? 잠실 키케, '80억 유격수' 뒤도 받친다 [미야자키 인터뷰]",
+  "published_at": "2026-11-05T09:37:32.000Z",
+  "collected_at": "2026-11-05T13:38:10.322Z",
+  "summary_ko": "엑스포츠뉴스 미야자키 인터뷰에서 두산 키케는 왕옌청 재계약 기사가 떠서 좋았다고 말했다. 상대 천적 기록이 거론되는 인터뷰다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "키케, 왕옌청 재계약 소식에 \"좋았다\""
+}

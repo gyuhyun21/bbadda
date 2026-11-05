@@ -1,0 +1,26 @@
+{
+  "id": "youtube-ed8a93e9",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "꿀반장TV",
+  "url": "https://www.youtube.com/watch?v=0I5qe6ssIJc",
+  "title": "보라색 좋아하는 김도영 유니폼은 왜 회색? #기아타이거즈 #kbo #김도영",
+  "published_at": "2026-11-05T10:32:42Z",
+  "collected_at": "2026-11-05T13:38:10.322Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 6267,
+    "likes": 191,
+    "comments": 6
+  },
+  "scores": {
+    "hot": 73,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

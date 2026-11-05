@@ -1,0 +1,23 @@
+{
+  "id": "news-ff87f3e1",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "news",
+  "source_name": "연합뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE40cFRxN2VOMWtfelItc1hERVU1RlFla1ZiV2tKODE0Z0lEb3Q5M0I4ajNvOGVURFRzNG5vZ1pUTVhrb3RpZHB5Q2xkQjNoTmI5ZFdCbEtzWkE4U2_SAWBBVV95cUxQTzRIN3VOc2s4YzRxRmU0VlhhTkl2UVhmdjhqWnd5R3NKWi1MS0h6OTlRVEVuNENqaURJZGxvRzY0WGdpQWtNOExTcFk4Uzl4aUFUODdBOXVQdm9xMHoza04?oc=5",
+  "title": "kt 힐리어드의 '특수 고무공' 훈련…달라진 스윙 궤도로 맹활약",
+  "published_at": "2026-11-05T02:47:57.000Z",
+  "collected_at": "2026-11-05T13:38:10.322Z",
+  "summary_ko": "연합뉴스에 따르면 KT 힐리어드는 특수 고무공 훈련으로 스윙 궤도를 바꿨다. 그 뒤 활약이 좋아졌다는 내용이다.",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "힐리어드의 '특수 고무공' 훈련"
+}

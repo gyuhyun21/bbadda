@@ -1,0 +1,23 @@
+{
+  "id": "news-df3e6ed9",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "news",
+  "source_name": "조선일보",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWm1naTZxQXJ0MFhhSE5UVUN1cEh3QWMxT2V2X0FLTHRmUGltc3MtbUJfUy1Wb2V3bHpsSEgzODRFQmNrb3otYkFiR3VnUUE5T2NicHNlZW1vb3B4VW5oTHJ3Z2VzbDB2V00xTWx3V2c4dXpTWVh6MU9Mb3puc3ZrZ1dPdw?oc=5",
+  "title": "운명을 가를 6.50초...두산 마무리 캠프, 왜 초시계가 등장했을까",
+  "published_at": "2026-11-05T10:19:00.000Z",
+  "collected_at": "2026-11-05T13:38:10.322Z",
+  "summary_ko": "조선일보는 두산 마무리캠프에 초시계가 등장한 이유를 다뤘다. 6.50초가 운명을 가른다는 내용이다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "마무리캠프에 등장한 초시계"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "news-627b7329",
+  "issue": "2026-W46",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "국제뉴스",
+  "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5Fc0JhNGxJd3Vsem9ONVJuSWF1eV9aX0lOSDJDZm5oS1BrczRzcXhLaGdXYlhIRjd3X0xIbnBLYVhiN0pRRmxQOWc0dWo5bmF2SmNBZFpjdkNfX2Joa096SW5OUTRjRVhKREFFb1Nn?oc=5",
+  "title": "우승 확률 85.7% 잡아라… 소형준 VS 후라도 에이스 마운드 맞대결",
+  "published_at": "2026-11-05T09:35:40.000Z",
+  "collected_at": "2026-11-05T13:38:10.322Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "community-fa06dcf4",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 마데의 야구 칼럼",
+  "url": "https://blog.naver.com/da331/224463848912",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/Gr01TNFCVzu",
+  "title": "[KBO] KT만 만나면 가을 6이닝 13실점…최원태 포스트시즌 통산 23경기 ERA 8.40",
+  "published_at": "2026-11-03T20:20:00.000+09:00",
+  "collected_at": "2026-11-05T13:38:10.322Z",
+  "summary_ko": "한 블로그는 삼성 최원태가 KT만 만나면 가을 6이닝 13실점을 기록했다고 짚었다. 포스트시즌 통산 23경기 기록도 함께 다뤘다.",
+  "metrics": {},
+  "scores": {
+    "hot": 50,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "최원태, KT 상대 가을 13실점"
+}

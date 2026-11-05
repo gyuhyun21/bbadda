@@ -1,0 +1,30 @@
+{
+  "id": "news-119dd7ef",
+  "issue": "2026-W46",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "오마이스타",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE05VzYtLUE4QVBJb3NDZm1fTnhiZHdLcV9PYTNsVGktNVg5Zmw3LVVfOFpFOXU4b1gzelR5YU5ZYmgyMm80Q3dkTHFFeVFOaWp3UmxQMkxzVGpjRmZzcmIyakxBR1VwNjFlTVBDaDdlZzVuUlc3ZXRIbkFXNFhxQQ?oc=5",
+  "title": "홈런왕 김도영 vs. '투수 2관왕' 곽빈, 2026 MVP는 누구?",
+  "published_at": "2026-11-05T08:36:00.000Z",
+  "collected_at": "2026-11-05T13:38:10.322Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 82,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "OhmyNews",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE52UFVDaDRWY0NyZHhCQXBMdGlfdGV1dEtiYkZHZzZWRXphcDJQa1JTR3N1QU4wNUpkNjZtejFybFpaUWVHVjlRVUttQUpENm05MEtLRFRHaTNxTkdLU1c1T2hsaTBHMDJuTEZORS0wV1d0Rncz?oc=5"
+    }
+  ]
+}

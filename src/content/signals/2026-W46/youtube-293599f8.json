@@ -1,0 +1,27 @@
+{
+  "id": "youtube-293599f8",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "다이아몬드썰",
+  "url": "https://www.youtube.com/watch?v=F18ZoCSvx4w",
+  "title": "펜스 앞 수비는 발부터 맞춰보자",
+  "published_at": "2026-11-05T08:34:31Z",
+  "collected_at": "2026-11-05T13:38:10.322Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 717,
+    "likes": 4,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 40,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

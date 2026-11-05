@@ -1,0 +1,22 @@
+{
+  "id": "news-47b3b8c3",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "한스경제",
+  "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBSQXpiQ3o4STd1ZGZ6UlhSZmNmeDJmYVNDbGRucTE1dnRNRzloV1QyRUdZRElIMDE5T1NWUWdkbGtpek53aklwVGl0MHQ0a0llRVZoOTNWVjQ1RGxXUXRGeWF3TmRwSjB5OXl3?oc=5",
+  "title": "'2차전 MVP' 삼성 페덱 \"사나흘 휴식? 라이언도 했다\"",
+  "published_at": "2026-11-04T23:55:02.000Z",
+  "collected_at": "2026-11-05T13:38:10.322Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

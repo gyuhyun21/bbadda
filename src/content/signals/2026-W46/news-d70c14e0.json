@@ -1,0 +1,24 @@
+{
+  "id": "news-d70c14e0",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "한스경제",
+  "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=880437",
+  "title": "\"이런 야구 처음\" 타격전 다음 날 투수전, 예측 불가 한국시리즈",
+  "published_at": "2026-11-05T12:37:30.000Z",
+  "collected_at": "2026-11-05T13:38:10.322Z",
+  "summary_ko": "한스경제는 타격전 다음 날 투수전이 이어진 KS를 \"이런 야구 처음\"이라는 말과 함께 예측 불가라고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "\"이런 야구 처음\", 예측불허 KS"
+}

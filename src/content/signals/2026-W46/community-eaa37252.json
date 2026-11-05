@@ -1,0 +1,24 @@
+{
+  "id": "community-eaa37252",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "다음카페 이종격투기",
+  "url": "https://cafe.daum.net/ssaumjil/EZLX/436721",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/7e9VZ1zsyeW",
+  "title": "한국시리즈 2차전 : 선발투수",
+  "published_at": "2026-11-03T22:41:31.000+09:00",
+  "collected_at": "2026-11-05T13:38:10.322Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 51,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

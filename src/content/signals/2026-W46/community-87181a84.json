@@ -1,0 +1,24 @@
+{
+  "id": "community-87181a84",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&page=3&document_srl=10522707339",
+  "title": "그냥 용병만 무난히 뽑으면 가을도 무난히 갈 전력같은데",
+  "published_at": "2026-11-05T11:38:10.322Z",
+  "collected_at": "2026-11-05T13:38:10.322Z",
+  "summary_ko": "",
+  "excerpt": "... [레벨:35] 김정민 8 분 전. 드릴여우신정부키 어메이징 랜더스네 ㄹㅇ ... 최강볼펜) 롯데, SSG 외부…",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "youtube-91910acf",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt",
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "영화예고만",
+  "url": "https://www.youtube.com/watch?v=A1Xn5PaWjLA",
+  "title": "프로야구 한국시리즈 허언증 모음집 l 출연: KT위즈, 삼성라이온즈",
+  "published_at": "2026-11-05T12:43:12Z",
+  "collected_at": "2026-11-05T13:38:10.322Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 2619,
+    "likes": 190,
+    "comments": 16
+  },
+  "scores": {
+    "hot": 83,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "news-dc502892",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "매일신문",
+  "url": "https://www.imaeil.com/page/view/2026110519514239995",
+  "title": "삼성 박진만 감독 \"디아즈 때문에 한숨 너무 많이 쉬었다\"…원태인 4·5차전 선발 낙점",
+  "published_at": "2026-11-05T12:00:12.000Z",
+  "collected_at": "2026-11-05T13:38:10.322Z",
+  "summary_ko": "매일신문에 따르면 삼성 박진만 감독은 디아즈 때문에 한숨을 너무 많이 쉬었다고 말했다. 원태인을 KS 4·5차전 선발로 낙점했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "원태인, 4·5차전 선발 낙점",
+  "hook_ko": "1승 1패, 박진만이 꺼낸 카드는 원태인"
+}

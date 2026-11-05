@@ -1,0 +1,22 @@
+{
+  "id": "news-d1c962c5",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스핌",
+  "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE80WDY4aHhoYVVPM2ZhY1UxX2EtdXdHbUhETlNrY3Z1QU52OE0wWW52R1FuMk12NHgzTlhNQnp5ZDlWOGZLR1RNWEt2TDlEaDV4QURZODlTcC16YWF2?oc=5",
+  "title": "[KS2] '수원서 1승 1패' 박진만 감독의 목표 달성…살아난 삼성, 대구서 반격 노린다",
+  "published_at": "2026-11-05T03:00:00.000Z",
+  "collected_at": "2026-11-05T13:38:10.322Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

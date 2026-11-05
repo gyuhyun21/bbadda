@@ -1,0 +1,24 @@
+{
+  "id": "community-71428964",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 큐픽 (Qpic)",
+  "url": "https://focus3651.tistory.com/351",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/3R8nwin9DF1",
+  "title": "최동원 스포츠영웅 선정, 야구 첫 헌액과 12월 헌액식",
+  "published_at": "2026-11-05T12:22:00.000+09:00",
+  "collected_at": "2026-11-05T13:38:10.322Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

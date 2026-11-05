@@ -1,0 +1,28 @@
+{
+  "id": "youtube-47bead02",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kt"
+  ],
+  "source_type": "youtube",
+  "source_name": "야구보고보드타고",
+  "url": "https://www.youtube.com/watch?v=DPAvBvVAPa4",
+  "title": "[KS 2차전] 연장12회 혈투 : 삼성라이온즈 | 261104 삼성 vs KT | 직관브이로그 | 수원KT위즈파크",
+  "published_at": "2026-11-05T13:01:42Z",
+  "collected_at": "2026-11-05T13:38:10.322Z",
+  "summary_ko": "한 팬 채널이 KS 2차전 연장 12회를 수원에서 직관한 브이로그를 올렸다.",
+  "metrics": {
+    "views": 446,
+    "likes": 59,
+    "comments": 14
+  },
+  "scores": {
+    "hot": 73,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "KS 2차전 연장 12회 직관기"
+}

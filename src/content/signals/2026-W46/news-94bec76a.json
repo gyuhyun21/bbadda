@@ -1,0 +1,24 @@
+{
+  "id": "news-94bec76a",
+  "issue": "2026-W46",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "매일신문",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE80N1ZjX0E2cFVCNllvcjIwMnNNdk03b3BXX2t4YkdtRHIyaXJRb3UySEFBZ1Z1bU9YZHRpR3lzSTdCeXptU0dCVVFmZUM5Mjl4YklHX0xRbDFKU1J0XzdHTW1B?oc=5",
+  "title": "원태인, 주자 남긴 이승민 뒤를 막았다…한국시리즈 동갑내기 포옹",
+  "published_at": "2026-11-05T11:59:31.000Z",
+  "collected_at": "2026-11-05T13:38:10.322Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 83,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

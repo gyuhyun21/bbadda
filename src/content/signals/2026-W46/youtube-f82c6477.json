@@ -1,0 +1,26 @@
+{
+  "id": "youtube-f82c6477",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "source_name": "이영우의 라이브 TV",
+  "url": "https://www.youtube.com/watch?v=kzr7HXFRirI",
+  "title": "[ 야없날 라이브 ] 한화 외인투수? 정우주 단기 유학 효과? 허인서 국대포수! #한화이글스#lg트윈스#기아타이거즈#삼성라이온즈#kt위즈#kbo리그#이글스tv",
+  "published_at": "2026-11-05T11:50:11Z",
+  "collected_at": "2026-11-05T13:38:10.322Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 3875,
+    "likes": 399,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 85,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

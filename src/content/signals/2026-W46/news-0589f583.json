@@ -1,0 +1,28 @@
+{
+  "id": "news-0589f583",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9IYTZnMXJGTnBIS2VXMzVIVWVtcF9kZVJ6VnZBYVlQWXFNT1pBMU5aYV9WbWJ2QXd3VHo2ZjIweEpFRWRwdUFOTlc4TU9DS0xYOW84X1F6N0h1RGdoMlZ1bElJbFpzLVJZaFU0SWJsd9IBb0FVX3lxTE9IYTZnMXJGTnBIS2VXMzVIVWVtcF9kZVJ6VnZBYVlQWXFNT1pBMU5aYV9WbWJ2QXd3VHo2ZjIweEpFRWRwdUFOTlc4TU9DS0xYOW84X1F6N0h1RGdoMlZ1bElJbFpzLVJZaFU0SWJsdw?oc=5",
+  "title": "'와' 삼성이 이러다 진짜 우승하나 '예측 뒤집는 상황 발생' 마지막 대구서 승부수 통할까... 선발 맞대결 공개 ' [KS3]",
+  "published_at": "2026-11-05T10:16:36.000Z",
+  "collected_at": "2026-11-05T13:38:10.322Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 91,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8yVHZUenF6M1o1VGFzc1FXM0xwRWVWY21nVDVTWXg0Vmp4TUtNOHl4YkhMVnhtWEpUb0hmSXpaUlp1ajdBWHl5UUgxdnNqbGpYNTVhSFFDLW51dDVsZ3dHekJQcjJaQVI4N2lkV0pqRlBCY2lySmc?oc=5"
+    }
+  ]
+}

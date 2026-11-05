@@ -1,0 +1,24 @@
+{
+  "id": "community-2b12e303",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/10521977440",
+  "title": "꿀알바 재밌음? - 야구",
+  "published_at": "2026-11-05T07:38:10.322Z",
+  "collected_at": "2026-11-05T13:38:10.322Z",
+  "summary_ko": "",
+  "excerpt": "... 사람들은 잘 모르지만 롯데 자이언츠를 가장 욕많이 하는 사람들은 롯데 팬임 [2]. 5 분…",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

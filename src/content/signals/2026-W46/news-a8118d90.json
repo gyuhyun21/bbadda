@@ -1,0 +1,23 @@
+{
+  "id": "news-a8118d90",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "뉴스1",
+  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBLZUR1Z1hjZldURnpFSDBraURpR3ZCcVRkNGo3VDFiUVZuLWl6T0x0QlBDWHlVcU9wa0hndWJUV1g0VjhwMDB5bGVCY3kzS1gyalg2aUMtQQ?oc=5",
+  "title": "'열흘간 3경기' 투혼의 페덱, 사자 군단의 가을을 이끈다[KS]",
+  "published_at": "2026-11-04T22:00:00.000Z",
+  "collected_at": "2026-11-05T13:38:10.322Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 62,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}
