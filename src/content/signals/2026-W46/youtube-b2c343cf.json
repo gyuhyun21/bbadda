@@ -1,0 +1,27 @@
+{
+  "id": "youtube-b2c343cf",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "k 스포츠 허브",
+  "url": "https://www.youtube.com/watch?v=4LwPjk7pWFk",
+  "title": "김도영, 대표팀 첫 타석부터 135 6m 홈런 폭발… 일본전도 기대된다!",
+  "published_at": "2026-11-06T05:58:48Z",
+  "collected_at": "2026-11-06T07:38:27.267Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 551,
+    "likes": 31,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 77,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

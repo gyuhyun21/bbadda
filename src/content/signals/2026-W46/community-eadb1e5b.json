@@ -1,0 +1,24 @@
+{
+  "id": "community-eadb1e5b",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 걷는 도시",
+  "url": "https://space-ecaps.tistory.com/139",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/HDzQRJDrIvH",
+  "title": "한국시리즈 4차전 중계 SBS·일정, 11월 7일 오후 2시 대구…티빙 보는 법",
+  "published_at": "2026-11-06T15:40:03.000+09:00",
+  "collected_at": "2026-11-06T07:38:27.267Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

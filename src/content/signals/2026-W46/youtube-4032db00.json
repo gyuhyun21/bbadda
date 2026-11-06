@@ -1,0 +1,26 @@
+{
+  "id": "youtube-4032db00",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "youtube",
+  "source_name": "이쓰이쓰",
+  "url": "https://www.youtube.com/watch?v=8I6hKkvbrZ4",
+  "title": "술이 취해 선수단 차 긁고 다닌 LG 투수",
+  "published_at": "2026-11-05T23:00:38Z",
+  "collected_at": "2026-11-06T07:38:27.267Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 2073,
+    "likes": 8,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 49,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

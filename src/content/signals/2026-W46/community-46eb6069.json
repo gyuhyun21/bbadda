@@ -1,0 +1,24 @@
+{
+  "id": "community-46eb6069",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 스포츠 레이더",
+  "url": "https://alodhun.tistory.com/65",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/4FVCIj01ziX",
+  "title": "APBC 대표팀 비상…곽도규 부상 이탈, 마운드 운영에 변수 생겼다",
+  "published_at": "2026-11-06T16:25:24.000+09:00",
+  "collected_at": "2026-11-06T07:38:27.267Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

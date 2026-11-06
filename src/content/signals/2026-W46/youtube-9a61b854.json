@@ -1,0 +1,26 @@
+{
+  "id": "youtube-9a61b854",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "source_name": "그깟공놀이가뭐라고",
+  "url": "https://www.youtube.com/watch?v=pxpHfopGiEo",
+  "title": "“사토의 노숙자 버전” 노시환 향한 미국 매체의 충격적인 평가  #kbo #야구 #노시환 #한화이글스 #mlb",
+  "published_at": "2026-11-06T04:33:57Z",
+  "collected_at": "2026-11-06T07:38:27.267Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 566,
+    "likes": 3,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 42,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-dd2fc038",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1kYW56TzF3c2J0MDFfWFBra1VPa3Q2S2tyUWJSb3NMa2hQWkR5RnVsMENReERuR25SZ0tlQ3ZMQzEzbkxTcWZTOGVDSFQwMVh6LUxEdTc5dFc4R3JydDFpdVhRTzd2NkhzQnp6WnY0NNIBb0FVX3lxTE1kYW56TzF3c2J0MDFfWFBra1VPa3Q2S2tyUWJSb3NMa2hQWkR5RnVsMENReERuR25SZ0tlQ3ZMQzEzbkxTcWZTOGVDSFQwMVh6LUxEdTc5dFc4R3JydDFpdVhRTzd2NkhzQnp6WnY0NA?oc=5",
+  "title": "'와' 노시환 307억 포기→연봉만 2배 점프, SD행 전제조건 있다... \"외야 수비 옵션 추가해야\" 美 냉정한 조언",
+  "published_at": "2026-11-06T01:22:20.000Z",
+  "collected_at": "2026-11-06T07:38:27.267Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

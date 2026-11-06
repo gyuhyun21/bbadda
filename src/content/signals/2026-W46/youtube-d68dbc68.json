@@ -1,0 +1,26 @@
+{
+  "id": "youtube-d68dbc68",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "youtube",
+  "source_name": "포차 삼촌",
+  "url": "https://www.youtube.com/watch?v=-ULgO3MWW74",
+  "title": "1984 한국시리즈 7경기, 롯데 최동원은 혼자 몇 번 이겼을까 #shorts",
+  "published_at": "2026-11-06T04:17:47Z",
+  "collected_at": "2026-11-06T07:38:27.267Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 450,
+    "likes": 7,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 50,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

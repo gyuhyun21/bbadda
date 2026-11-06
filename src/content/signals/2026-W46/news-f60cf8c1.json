@@ -1,0 +1,23 @@
+{
+  "id": "news-f60cf8c1",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "news",
+  "source_name": "www.xportsnews.com",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9tNkp3UnJpUjZhaDI0UlRtZjc4bTlTeVZJX1lHS0JaRjRGbXpJNUVjdmZuc1BVaWp6a1o0cWVINHFaMElyc3BRenZqREZFT0hsN1BKcQ?oc=5",
+  "title": "한화 '日 유학' 좌완, 12월 상무 합격? 1월 1군 캠프? 어디로 향할까→\"평균 145km/h 향상 목표\" [미야자키 인터뷰]",
+  "published_at": "2026-11-05T23:26:05.000Z",
+  "collected_at": "2026-11-06T07:38:27.267Z",
+  "summary_ko": "엑스포츠뉴스는 일본에서 훈련 중인 한화 좌완이 12월 상무 합격과 1월 1군 캠프 사이에서 진로를 정하게 된다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "일본 유학 좌완, 갈림길"
+}

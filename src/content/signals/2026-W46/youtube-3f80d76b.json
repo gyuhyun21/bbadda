@@ -1,0 +1,26 @@
+{
+  "id": "youtube-3f80d76b",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "youtube",
+  "source_name": "쇼핑잇",
+  "url": "https://www.youtube.com/watch?v=zRc1zUyyKlE",
+  "title": "일본 제친 LG 158km 괴물 #LG트윈스 #트리스탄벡 #KBO",
+  "published_at": "2026-11-06T01:22:25Z",
+  "collected_at": "2026-11-06T07:38:27.267Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 7138,
+    "likes": 23,
+    "comments": 6
+  },
+  "scores": {
+    "hot": 56,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "community-e1341f48",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 이슈레이더",
+  "url": "https://blog.naver.com/issueradar249/224466909496",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/FgfOv8N1f1G",
+  "title": "2026 한국시리즈 일정 총정리! 경기 방식부터 역대 우승팀 기록까지",
+  "published_at": "2026-11-06T10:50:00.000+09:00",
+  "collected_at": "2026-11-06T07:38:27.267Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

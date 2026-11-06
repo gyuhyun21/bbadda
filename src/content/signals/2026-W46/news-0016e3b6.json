@@ -1,0 +1,30 @@
+{
+  "id": "news-0016e3b6",
+  "issue": "2026-W46",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "미주중앙일보",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE84a3I3MGczdXlqdW13cnFxajJKR2xNZ0g4QVFUZmVUMHc5UnljSjhfa19DUWI0V25QUm0yS1hsUWtEa05qOWdQeGlvX1BScXU0Q2x0Q0QtVTltVjdDVVNjRFJB?oc=5",
+  "title": "‘PO MVP’ 후라도도 긴장할 천적 있다…라팍에서 ‘타율 .444·3홈런’ 힐리어드와 정면승부 [KS]",
+  "published_at": "2026-11-05T22:41:00.000Z",
+  "collected_at": "2026-11-06T07:38:27.267Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 97,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE84a1pFQzQ3UTdWRTFpSlpfR0hCcnc3UGJ2TXkzRnRkS20tS05SNHA2MlhnU3FtM2NWMzVJQkFFMk5nTjc4b0FpWDEwY0czWjBkTkFZNDYteDktd2tKdjl1dDY4YTBIN2xmVlHSAW9BVV95cUxPcXFVOU1vLVRjcjRQS09CdXA5TEM1T0tjR0VFVWliUnNrWURaMXB4NjZJZ3hQRzk4aGF0SVdBM285WkQxZEY1YmlEUHJrNGhPaXoxLUtXN3ZLaGp3c1FnOWozTEwwb05nN29jZzhxWk0?oc=5"
+    }
+  ]
+}

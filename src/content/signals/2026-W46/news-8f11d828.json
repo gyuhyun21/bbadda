@@ -1,0 +1,23 @@
+{
+  "id": "news-8f11d828",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "MHN스포츠",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBvSzg0NzVtb1RZeEp3UVJ2Slp6RnpvWGVsV1U5VEJtRzJVY3l0aHFISHB1MEJnWXVDUkNsSXlyemF6b3JIWTJwamhqaDdqSlJWVnBvSVNKaV9LTDV1SzE2MEJ1UQ?oc=5",
+  "title": "노시환, ML 가려면 외야 겸업 해야 한다고? “이건 또 웬 신박한 헛소리인가” 연봉은 나름…",
+  "published_at": "2026-11-06T02:28:08.000Z",
+  "collected_at": "2026-11-06T07:38:27.267Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

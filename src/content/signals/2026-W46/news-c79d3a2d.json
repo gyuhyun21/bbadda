@@ -1,0 +1,23 @@
+{
+  "id": "news-c79d3a2d",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "www.xportsnews.com",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4tSXJGcDh2Z2lWcllmOTBHeWhvNHltSnRqVzUwZkt3cjJ3cjhqcjROU3ZPTG5VeGZrcUpRaFpXUEtRZS1ucEtreG1DSVZUVzJXMHhUYw?oc=5",
+  "title": "'초시계·태블릿·6.50초' 이게 무슨 조합?…'임재현표' 타임어택 훈련 도입→\"왜 시간 단축됐는지 스스로 이해해야\" [미야자키 현장]",
+  "published_at": "2026-11-05T23:59:18.000Z",
+  "collected_at": "2026-11-06T07:38:27.267Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

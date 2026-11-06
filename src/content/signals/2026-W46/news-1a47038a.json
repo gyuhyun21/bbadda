@@ -1,0 +1,29 @@
+{
+  "id": "news-1a47038a",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "m.mksports.co.kr",
+  "url": "https://www.mksports.co.kr/news/sports/12198858",
+  "title": "“팀 우승 위해 모든 힘 쏟아내겠다”…‘PO MVP’ 후라도, 기세 이어가며 삼성에 88.9% 확률 안길까 [KS3]",
+  "published_at": "2026-11-05T22:40:00.000Z",
+  "collected_at": "2026-11-06T07:38:27.267Z",
+  "summary_ko": "매일경제는 PO MVP 삼성 후라도가 한국시리즈 3차전 선발로 나선다고 전했다. 후라도는 팀 우승을 위해 모든 힘을 쏟겠다고 말했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 97,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9OOGpaSTdEVnBsUGU2T3JoRVBWVVFCbXc1eGJVQ2RVMjlRV05aalRaZXBFZEpDc1FvVjQtZzE3V0xxVVFBS3pPX1pqNHU3VzhKd2lr?oc=5"
+    }
+  ],
+  "brief_ko": "3차전 맡은 PO MVP 후라도"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "news-d7801ffb",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5FR3B4WldrdklSQ1hUX2JhaW5qM1RqZU5VdG5QTEdVSG9OUGNhVkJFeUNYQkhEZVk0ZEpDeXFzdjF6NjA3eC1wazVfVW5mN0RtdWd4cTg5R2R2c2xpcnY5U1UyNE1wWTA0eXlZMUExZ9IBb0FVX3lxTE5FR3B4WldrdklSQ1hUX2JhaW5qM1RqZU5VdG5QTEdVSG9OUGNhVkJFeUNYQkhEZVk0ZEpDeXFzdjF6NjA3eC1wazVfVW5mN0RtdWd4cTg5R2R2c2xpcnY5U1UyNE1wWTA0eXlZMUExZw?oc=5",
+  "title": "“안우진·알칸타라 던져도 수비 못하면 팀은 져” 5년 연속 꼴찌는 절대 안돼! 설종진 감독은 왜 수비를 강조했나",
+  "published_at": "2026-11-06T04:40:00.000Z",
+  "collected_at": "2026-11-06T07:38:27.267Z",
+  "summary_ko": "머니투데이는 키움 설종진 감독이 대만 마무리캠프에서 수비를 강조했다고 전했다. 5년 연속 최하위를 피하려는 의지로 풀이된다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "키움 캠프의 화두는 수비"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-2f6ceab5",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBqcXBXc0J6MGZaTzhfT1lfRFhWdmVBRkFsUEhkTW03LVVOZGowS1hBdTlNc1RhT1ltOE9Wa2s5Tm5IeTBlRkIxMFFSNnhDMzVmdVJzT2V2Rlk2VWszVlQ4RFBzWlpHNWdRekwyUzJTc9IBb0FVX3lxTFBqcXBXc0J6MGZaTzhfT1lfRFhWdmVBRkFsUEhkTW03LVVOZGowS1hBdTlNc1RhT1ltOE9Wa2s5Tm5IeTBlRkIxMFFSNnhDMzVmdVJzT2V2Rlk2VWszVlQ4RFBzWlpHNWdRekwyUzJTcw?oc=5",
+  "title": "'한국 최고 타자' 김도영을 어떻게 써야 하나, 대표팀 사령탑도 고민 “일본은 뒤가 약하면 유인구만 던진다”",
+  "published_at": "2026-11-06T03:34:03.000Z",
+  "collected_at": "2026-11-06T07:38:27.267Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

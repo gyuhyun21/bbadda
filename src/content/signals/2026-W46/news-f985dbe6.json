@@ -1,0 +1,29 @@
+{
+  "id": "news-f985dbe6",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "헤럴드경제 미주판",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9fdXlqbWJ5UzVrMGo5VGxxOGZCWXFRcE9VMXVoNXFTc1p0Sko1U0dtSEE5WlpTNUJmNmxhLXBIR1RBa21IWEhPeFZoT1JSYkhNLWJ4VVBBbjZWcUtxR0swVA?oc=5",
+  "title": "KS 3차전 승리팀 우승 88.9%…역전 열쇠는 마운드에",
+  "published_at": "2026-11-05T09:15:00.000Z",
+  "collected_at": "2026-11-06T07:38:27.267Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "헤럴드경제",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9oeDdRME8weTVKOTFhSmxQczNpSDQ1VlJsSFRsLS1mYzBFQnI5YmNUZ2g0Y1JBVDRKQlRtM3gyT0s4MEJTZFdydW5aYVRHYmhUei03Ym5n?oc=5"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-42eb31a1",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "미주중앙일보",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBiLW0xRDhUVWJia1dsM1c1S2tIdWVDWURIQ2s3LTBhTXhDY3I0b3BXYlNzdmFIbGIxdUJRdHlRQWxhamw2NzZpOFVoNkViek5uODJPS09WNUxzU05EXzFuejR3?oc=5",
+  "title": "KS 길어지면 안현민·김지찬 사라진다, 대표팀 대체 중견수는 박재현? 김민석? “우익수는 문현빈”",
+  "published_at": "2026-11-06T03:10:00.000Z",
+  "collected_at": "2026-11-06T07:38:27.267Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

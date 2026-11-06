@@ -1,0 +1,23 @@
+{
+  "id": "news-aa2575bd",
+  "issue": "2026-W46",
+  "module": "rivalry",
+  "team": "kt",
+  "teams": [
+    "kt",
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "뉴시스",
+  "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAzV2ktbTFFZE9hZGtrT0Rzd1BGRWFpTkc3RFR2LUd0NnNQV1ZiTldrRHhPUWNqcWwwY2otczhESVY4X212aV9MX3NTbWZKRU5RWnptYWttXzJOaVJaMHhfYUVWTXA0UWROY1JOdkZXcnc1dldQc2hWcdIBeEFVX3lxTFAzV2ktbTFFZE9hZGtrT0Rzd1BGRWFpTkc3RFR2LUd0NnNQV1ZiTldrRHhPUWNqcWwwY2otczhESVY4X212aV9MX3NTbWZKRU5RWnptYWttXzJOaVJaMHhfYUVWTXA0UWROY1JOdkZXcnc1dldQc2hWcQ?oc=5",
+  "title": "방망이 불붙은 KT 힐리어드·삼성 디아즈, KS 홈런 누가 먼저 터질까[주목! 이종목]",
+  "published_at": "2026-11-05T22:00:00.000Z",
+  "collected_at": "2026-11-06T07:38:27.267Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 97,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

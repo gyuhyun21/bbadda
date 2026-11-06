@@ -1,0 +1,29 @@
+{
+  "id": "news-0f8815b6",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://www.sportschosun.com/baseball/2026-11-06/202611060100043830004343",
+  "title": "구자욱은 뛰지도 못하는데..득점 막는 '2개의 핸디캡' 삼성은 무슨 생각으로 '자동아웃' 포수를 라인업에 두고 있을까[KS]",
+  "published_at": "2026-11-06T05:18:04.000Z",
+  "collected_at": "2026-11-06T07:38:27.267Z",
+  "summary_ko": "스포츠조선은 삼성이 타격 부진에도 강민호를 라인업에 두는 이유를 짚었다. 구자욱이 뛰지 못하는 상황이 배경으로 꼽혔다.",
+  "metrics": {},
+  "scores": {
+    "hot": 83,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTnI5cFdobXBfWnZCWktBUVRQZ3p6Rm81bDluRFh0T3lXUW1IV0lOcFBIdERVYTlTZVJGZDBhdWF5MVpvc1BfaExpektiMDhlX0JyLVZVZTRUVDg1OVU4Mkl2aXlpVlRsZUVHQmh4SlJid192elZTcFpTdVlNaXFBcTJubw?oc=5"
+    }
+  ],
+  "brief_ko": "강민호를 빼지 못하는 사정"
+}

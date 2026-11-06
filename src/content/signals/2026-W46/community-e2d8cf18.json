@@ -1,0 +1,24 @@
+{
+  "id": "community-e2d8cf18",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 두산베어스 공식 블로그",
+  "url": "https://blog.naver.com/1982doosanbears/224466845991",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/HzdBPKJk2NQ",
+  "title": "[2026마무리캠프] BearsTV - 미야자키에 쉴 틈 없이 울려 퍼지는 타격음 🔊",
+  "published_at": "2026-11-06T09:38:00.000+09:00",
+  "collected_at": "2026-11-06T07:38:27.267Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

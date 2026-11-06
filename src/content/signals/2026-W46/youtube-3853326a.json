@@ -1,0 +1,27 @@
+{
+  "id": "youtube-3853326a",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "youtube",
+  "source_name": "야구킥",
+  "url": "https://www.youtube.com/watch?v=QHPU6oDKx-c",
+  "title": "LG트윈스 2027 시즌 선발 로테이션 분석! 트리스탄벡 영입했는데도 왜 불안할까?",
+  "published_at": "2026-11-06T05:30:18Z",
+  "collected_at": "2026-11-06T07:38:27.267Z",
+  "summary_ko": "영상은 트리스탄 벡 영입 뒤에도 LG의 내년 선발진이 불안한 이유를 분석한다.",
+  "metrics": {
+    "views": 685,
+    "likes": 22,
+    "comments": 16
+  },
+  "scores": {
+    "hot": 79,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "벡 와도 불안한 LG 선발"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "news-59749340",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "미주중앙일보",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5qS3R1UTlteFRPRG9TdlNTT1lzVXRvSUZHRGNJUlZjOGNFWlVGU0w5MEJxR2p2Wm5mM0VGWTNsWUh3VjUyZUs3d3NMWTNmNlJhYmRFOFA1UF9kM2FnakpDYXZR?oc=5",
+  "title": "‘307억 포기 결단’ 노시환 대형 이적설 떴다! 美 관심 폭발→샌디에이고행 성사되나 “연봉 54억 예상, 송성문에게 긍정 영향 줄 것”",
+  "published_at": "2026-11-05T22:42:00.000Z",
+  "collected_at": "2026-11-06T07:38:27.267Z",
+  "summary_ko": "미주중앙일보는 노시환의 샌디에이고행 가능성이 미국에서 거론된다고 보도했다. 어디까지나 현지 보도 기준의 관측이다.",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "노시환 샌디에이고 거론"
+}

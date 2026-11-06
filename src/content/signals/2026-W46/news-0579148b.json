@@ -1,0 +1,24 @@
+{
+  "id": "news-0579148b",
+  "issue": "2026-W46",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스타뉴스",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBDdlctOWdHQ1Fia2RYMnZwYzl4U3JVeVhtQkZ4dE8wZG10SF9fV1BvNlNxbjdRTGF5VGkxZThUSUtBc3V3d1R3TnB3bEt2NDlvWmlHME9PUFNoNWpUR1Y5MkxXNUcya2drTXVDZjhicUR0Y3ctb1E?oc=5",
+  "title": "[★베이스볼] 307억의 사나이 노시환, 강백호와 KS 꿀맛 직관! 내년 가을 노시환은 월드시리즈에 있을까?",
+  "published_at": "2026-11-06T00:48:06.000Z",
+  "collected_at": "2026-11-06T07:38:27.267Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 82,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

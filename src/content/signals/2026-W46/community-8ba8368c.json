@@ -1,0 +1,24 @@
+{
+  "id": "community-8ba8368c",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 졸린골퍼와 함께하는 골프여행",
+  "url": "https://blog.naver.com/danbi0486/224467292459",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/5es7X4cz8iJ",
+  "title": "307억 계약한 노시환, 뉴욕 양키스까지 거론됐다 그런데 미국이 걸고넘어진 약점",
+  "published_at": "2026-11-06T15:35:00.000+09:00",
+  "collected_at": "2026-11-06T07:38:27.267Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

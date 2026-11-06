@@ -1,0 +1,24 @@
+{
+  "id": "community-943c3b76",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 아이비스포츠 공식블로그",
+  "url": "https://blog.naver.com/ivysports1004/224467278591",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/1XVsfsgKAG",
+  "title": "[아이비베이스볼] 2026 대구연식야구리그 유소년부A 정규시즌 우승! '아이비베이스볼'이 증명한 진짜...",
+  "published_at": "2026-11-06T15:26:00.000+09:00",
+  "collected_at": "2026-11-06T07:38:27.267Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

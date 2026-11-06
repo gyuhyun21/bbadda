@@ -1,0 +1,26 @@
+{
+  "id": "youtube-95bdff85",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "ace stories 에이스 스토리즈",
+  "url": "https://www.youtube.com/watch?v=iB85SiFzd20",
+  "title": "우울해서 빵샀어 이범호 대답ㅋㅋ #기아타이거즈",
+  "published_at": "2026-11-06T04:45:47Z",
+  "collected_at": "2026-11-06T07:38:27.267Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 2302,
+    "likes": 92,
+    "comments": 2
+  },
+  "scores": {
+    "hot": 78,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

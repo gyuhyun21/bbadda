@@ -1,0 +1,27 @@
+{
+  "id": "youtube-91616b0a",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg",
+    "doosan"
+  ],
+  "source_type": "youtube",
+  "source_name": "90년부터LG팬",
+  "url": "https://www.youtube.com/watch?v=OBrpgqOMRzg",
+  "title": "2026 LG 두산전 명장면 역전포 결승포 순위 | 90년부터 LG팬",
+  "published_at": "2026-11-05T22:30:09Z",
+  "collected_at": "2026-11-06T07:38:27.267Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1153,
+    "likes": 5,
+    "comments": 2
+  },
+  "scores": {
+    "hot": 47,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

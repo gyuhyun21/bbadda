@@ -1,0 +1,23 @@
+{
+  "id": "news-303f1860",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "뉴시스",
+  "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261106_0003857452",
+  "title": "'최소 실책' 삼성, 가을엔 '수비 불안'…1점 차 승부 가를 변수[KS]",
+  "published_at": "2026-11-06T02:02:46.000Z",
+  "collected_at": "2026-11-06T07:38:27.267Z",
+  "summary_ko": "뉴시스는 삼성이 정규시즌 최소 실책 팀이지만 가을에는 수비 불안이 변수라고 짚었다. 1점 차 승부에서 수비가 승부를 가를 수 있다.",
+  "metrics": {},
+  "scores": {
+    "hot": 90,
+    "relevance": 70
+  },
+  "sentiment": "negative",
+  "brief_ko": "삼성의 변수는 수비"
+}

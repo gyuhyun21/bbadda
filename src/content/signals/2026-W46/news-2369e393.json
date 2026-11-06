@@ -1,0 +1,24 @@
+{
+  "id": "news-2369e393",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBLZ1I3OUlwcFE3QV9XeVY4VzVVVFV5NlQ2V1l0SjlVRHdBeDExX2NxUmtDdjV6ZFhBMnBCMGxXVXFZelFqX0diZlZ5RkMzOWpsQ1poMVVRV2hNZ2NFc0N1TVljRWFydGozQWlkM0JPQdIBb0FVX3lxTFBLZ1I3OUlwcFE3QV9XeVY4VzVVVFV5NlQ2V1l0SjlVRHdBeDExX2NxUmtDdjV6ZFhBMnBCMGxXVXFZelFqX0diZlZ5RkMzOWpsQ1poMVVRV2hNZ2NFc0N1TVljRWFydGozQWlkM0JPQQ?oc=5",
+  "title": "“감독 하면서 제일 좋은 투수\" 염경엽 극찬...12승 톨허스트 교체 승부수도 있다",
+  "published_at": "2026-11-05T22:11:00.000Z",
+  "collected_at": "2026-11-06T07:38:27.267Z",
+  "summary_ko": "머니투데이에 따르면 염경엽 감독은 12승을 거둔 톨허스트를 '감독하면서 제일 좋은 투수'라고 평가했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "염경엽이 꼽은 최고 투수"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "community-e5a22bdc",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 선 넘는 스포츠",
+  "url": "https://blog.naver.com/sion4772/224467095446",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/CwWckfcvhJJ",
+  "title": "계약금 16억·연봉 3300만원 하현승, 첫 캠프에서 경기보다 먼저 하는 일",
+  "published_at": "2026-11-06T13:08:00.000+09:00",
+  "collected_at": "2026-11-06T07:38:27.267Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}
