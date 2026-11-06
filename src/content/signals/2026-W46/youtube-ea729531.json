@@ -1,0 +1,26 @@
+{
+  "id": "youtube-ea729531",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "youtube",
+  "source_name": "글로벌 K-스포츠",
+  "url": "https://www.youtube.com/watch?v=zvONFWk0bsI",
+  "title": "12승 톨허스트도 안심 못 한다! LG 외국인 투수 전면 교체 가능성 #트리스탄벡 #톨허스트",
+  "published_at": "2026-11-06T09:41:06Z",
+  "collected_at": "2026-11-06T13:38:08.408Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 379,
+    "likes": 14,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 61,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

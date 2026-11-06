@@ -1,0 +1,27 @@
+{
+  "id": "youtube-1f142b20",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "source_name": "쇼핑잇",
+  "url": "https://www.youtube.com/watch?v=znz2B8P4nIk",
+  "title": "2군 타격왕인데 후보 포수인 이유 #한화이글스 #장규현 #허인서",
+  "published_at": "2026-11-06T10:37:29Z",
+  "collected_at": "2026-11-06T13:38:08.408Z",
+  "summary_ko": "한 채널이 2군 타격왕 장규현이 후보 포수인 이유를 허인서와 비교해 다뤘다.",
+  "metrics": {
+    "views": 1234,
+    "likes": 11,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 45,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "2군 타격왕 장규현, 후보인 이유"
+}

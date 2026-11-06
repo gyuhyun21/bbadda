@@ -1,0 +1,23 @@
+{
+  "id": "community-85945f13",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 WORLDWIDE ISSUE",
+  "url": "https://blog.naver.com/ekgo_/224467651972",
+  "title": "한국시리즈 예매, 일정, 예매 방법, 취소표 꿀팁 대방출",
+  "published_at": "2026-11-06T21:15:00.000+09:00",
+  "collected_at": "2026-11-06T13:38:08.408Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

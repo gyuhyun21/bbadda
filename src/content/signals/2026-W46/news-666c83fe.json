@@ -1,0 +1,23 @@
+{
+  "id": "news-666c83fe",
+  "issue": "2026-W46",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kt"
+  ],
+  "source_type": "news",
+  "source_name": "KBC광주방송",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBTdjNSd1dvSHpkdDRCVXBLTlRvUXp1b0xIcU1YRmdMeENyQU5fdDRvT2V6bjZtdF9wNTBVMzdPNG4zQjY5UEJMQjhZVkR6dkszTlE1Ml85bTU1azkwVXpxZw?oc=5",
+  "title": "'승률 88.9%' 역전의 삼성, kt 꺾고 2연승...후라도 빛났다",
+  "published_at": "2026-11-06T12:43:12.000Z",
+  "collected_at": "2026-11-06T13:38:08.408Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

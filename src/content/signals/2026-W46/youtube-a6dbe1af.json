@@ -1,0 +1,26 @@
+{
+  "id": "youtube-a6dbe1af",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "youtube",
+  "source_name": "대두는 강우야~",
+  "url": "https://www.youtube.com/watch?v=2Nxw8fFjJLo",
+  "title": "KT위즈-형편없이 졌어요 #KT위즈 #신태일",
+  "published_at": "2026-11-06T12:30:52Z",
+  "collected_at": "2026-11-06T13:38:08.408Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 40,
+    "likes": 1,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 60,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

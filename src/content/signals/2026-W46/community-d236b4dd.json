@@ -1,0 +1,29 @@
+{
+  "id": "community-d236b4dd",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 YK주식투자연구소",
+  "url": "https://17minuteup.tistory.com/149",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/GAT3Jbpsvq3",
+  "title": "삼성 KS 3차전 승리, 후라도 7이닝 108구…시리즈 2승 1패",
+  "published_at": "2026-11-06T22:19:36.000+09:00",
+  "collected_at": "2026-11-06T13:38:08.408Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 92,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "중부매일",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA5emZqYjlSQlVYUWdMa1RPcktHcU9Ga2R3NGJnMXREX3R1NEw2SUdRTzhWakg2R2dsckVWbmdtR3BxeXdOV0RfNHZYSWN4VFRwTWdWY25jZzV1WmZRa0duRXB5Y1EtM040SHfSAW5BVV95cUxOdXFsSUZQRWZTMUZkZDFuNTJUN2RpZFNQcHFydE8yOUhlTVpXaG5VY0tmM2tnSGJQVjNUNDJBeXp1Z294cVRfcTZPNHNXcTlVOFp0SS1ZZGRsdEFQWFo1SVphRXNTdl9sSkgxVFhWUQ?oc=5"
+    }
+  ]
+}

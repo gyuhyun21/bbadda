@@ -1,0 +1,24 @@
+{
+  "id": "news-62c45c9f",
+  "issue": "2026-W46",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "kt",
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "www.xportsnews.com",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4wMWRDbFk4dVJLLWl1NW81OW9uNkJST2FzcEx3d0dOS01aVURFTVBzOUdsU3ZaQ1BXb1drTVhyTjRFSkhfTktPVWN4V3B6SkdrYTYySw?oc=5",
+  "title": "'KIA 이어 KT도 삼켰다!'…후라도, 환상 이닝 먹방쇼 폭발+삼성 5-1 쾌승→2승1패 뒤집었다 [KS3]",
+  "published_at": "2026-11-06T12:11:27.000Z",
+  "collected_at": "2026-11-06T13:38:08.408Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

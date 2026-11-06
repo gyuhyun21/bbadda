@@ -1,0 +1,29 @@
+{
+  "id": "news-78fbcb9c",
+  "issue": "2026-W46",
+  "module": "league",
+  "teams": [],
+  "source_type": "news",
+  "source_name": "OSEN",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE83YXo1SnRxdE52NkZwSHIycW1kUlJFa3FCMFZ6alprT1luem5KdFFHZC1hbUp2RWRGczIwZExvTjFLbjFjNXRXR0YtLWtaY3lRZ1BycA?oc=5",
+  "title": "[사진]후라도-강민호, '한국시리즈 3차전 찰떡호흡'",
+  "published_at": "2026-11-06T11:25:00.000Z",
+  "collected_at": "2026-11-06T13:38:08.408Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 99,
+    "relevance": 30
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaF9IRW14REZ4NlhheTAxNzRUM1RnU05DVnQyTUpISXNSREVPYjhKNEk3XzAtRHp6Y2xFeWhDTUx1UG44SUlCVmxDNkVFc1JfMmcwZnZON0szZXhTRzA2d21tMU9ZVktIdHUyTlFqQjVPNl9VbWt5TkVRN0tPSTR0RUhqdnh6M2FH0gGcAUFVX3lxTFBFWEtKWnFoYkR4dThkWVI1UHRlb19FVDdsOFZ4NlZaMnZ4MkZBdzd6QWxXQk41X0JUTHhiMWJRRkE1MVdPN1A5cDYtSG5zUW9SbDJibkRmX2J3Wmw3STAzRTZMaG1rSWV1WnlfZnlpdmthVllVaUUxX3hwOHFOdVlUMEI5eHZfVmxrRGFWclBIUFdLVThVWUE5NGxPcA?oc=5"
+    },
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbm1VZnNvU0hJWXh0OTdtcWpaY01FSGUwMDdCNlpsRmxLYUZCTDhiNVl1YVozQnhVYlcwV2UxdkJVdjNMRkdSRUJHeDRucWRsZHpCR3hYZTBXYzFJSFRIbWlIak5Kd0tuS09uNmYwM0pidWFQcFVJMU5wVzRURHhqTjdyR1RSdlZQ?oc=5"
+    }
+  ]
+}

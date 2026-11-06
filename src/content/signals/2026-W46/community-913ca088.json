@@ -1,0 +1,24 @@
+{
+  "id": "community-913ca088",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 마데의 야구 칼럼",
+  "url": "https://blog.naver.com/da331/224467611825",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/H35p9N8fS9n",
+  "title": "[KBO] 김도영 등록일수 25일 모자란다…APBC 우승+프리미어12 4강이면 포스팅 1년 앞당긴다",
+  "published_at": "2026-11-06T21:22:00.000+09:00",
+  "collected_at": "2026-11-06T13:38:08.408Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

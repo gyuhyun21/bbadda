@@ -1,0 +1,27 @@
+{
+  "id": "youtube-a94dfb75",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "youtube",
+  "source_name": "그라운드인생",
+  "url": "https://www.youtube.com/watch?v=OcgA9g-lxOI",
+  "title": "던지기 전, 한 번 멈춘다… 두산 박치국의 불펜 투구 #shorts",
+  "published_at": "2026-11-06T09:00:28Z",
+  "collected_at": "2026-11-06T13:38:08.408Z",
+  "summary_ko": "한 팬 채널이 두산 박치국의 불펜 투구 영상을 올렸다.",
+  "metrics": {
+    "views": 692,
+    "likes": 3,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 39,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "박치국 불펜 투구 영상"
+}

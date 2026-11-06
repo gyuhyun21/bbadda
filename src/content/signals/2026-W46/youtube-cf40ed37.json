@@ -1,0 +1,26 @@
+{
+  "id": "youtube-cf40ed37",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "삼부로그",
+  "url": "https://www.youtube.com/watch?v=7nMKY4T216o",
+  "title": "코시 3차전 박승규 쐐기 솔로홈런!!!(삼성:KT) #삼성라이온즈 #야구 #kbo #프로야구 #포스트시즌 #한국시리즈 #코시",
+  "published_at": "2026-11-06T12:45:27Z",
+  "collected_at": "2026-11-06T13:38:08.408Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1817,
+    "likes": 45,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 61,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

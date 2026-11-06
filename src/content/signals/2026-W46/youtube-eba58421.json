@@ -1,0 +1,24 @@
+{
+  "id": "youtube-eba58421",
+  "issue": "2026-W46",
+  "module": "league",
+  "teams": [],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=PHdi6WOoFKE",
+  "title": "한국시리즈에서 홈런을 펑펑펑 날리는 박승규의 솔로홈런💥",
+  "published_at": "2026-11-06T12:44:39Z",
+  "collected_at": "2026-11-06T13:38:08.408Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 4640,
+    "likes": 1015,
+    "comments": 68
+  },
+  "scores": {
+    "hot": 85,
+    "relevance": 30
+  },
+  "sentiment": "positive"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "news-9c4a86cd",
+  "issue": "2026-W46",
+  "module": "league",
+  "teams": [],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE42V1pFMW1rczNENTFiZjhpY3NyTUVweW5NVG9WZkU5QkhaTnJYdElISkcwSUEzcHBPb0JmM3pNMzF2SlptcHNacmdRaGZhckZrRnoyOXJlWE5mdDR0ZjBVTXMzaHdMVXBUZnfSAW9BVV95cUxNTVJjTzFpTE1kUERYZkJDQjFhWUZNcVZlbVJaQjFpUnVYNnVZZjZiRUtzQTdEYzVjUmV3NzJLNFNyS2dSTnd1Ql9vajcyeFlRcC1XdzhoR3gyZFBzNVNjQWdDMEhlc0VDcW52LTVmRUk?oc=5",
+  "title": "강추위 잊은 라팍은 푸른 물결! 2만3550석 또 꽉 찼다! PS 49G-KS 24G 매진 행진 [KS3]",
+  "published_at": "2026-11-06T11:00:00.000Z",
+  "collected_at": "2026-11-06T13:38:08.408Z",
+  "summary_ko": "머니투데이에 따르면 대구 3차전에 2만3550석이 가득 찼다. 포스트시즌 49경기, 한국시리즈 24경기째 매진이다.",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 30
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "미주중앙일보",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5OLXJjUzlLRks0SmltaGl5ZDBNRUdteE5JNXY3Y0lRQm1teVgxMlFJVXNibE9yaV9vTWIwaGZWb0d5T2laaXdXLTBVY3VHV2hMTGp1cWZwOURyQjJyR3JRYzVn?oc=5"
+    }
+  ],
+  "brief_ko": "라팍 또 매진, PS 49경기째"
+}

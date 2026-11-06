@@ -1,0 +1,24 @@
+{
+  "id": "news-388c122e",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "마이데일리",
+  "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE10MFNLX0JOUzdJNmozdU9EelQyQ2lPcnA2andjSTdEVmctUldSM1c5V01QT0hlcEFEMjdfYm93NDdzTDJmeDBnYmk0NXU4SFRvTGtkc2k5YVRaV1hfdkJfSmY1cUozUQ?oc=5",
+  "title": "김도영의 홈런쇼도 대단했지만…9억팔 재능러를 잊으면 안 된다, 장재영 1루 수비요정 대변신 ‘영웅들 설렌다’[MD대전]",
+  "published_at": "2026-11-06T10:30:00.000Z",
+  "collected_at": "2026-11-06T13:38:08.408Z",
+  "summary_ko": "마이데일리는 키움 장재영이 1루 수비로 변신했다고 전했다. 대전 현장에서 눈길을 끌었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "brief_ko": "장재영, 1루 수비로 변신"
+}

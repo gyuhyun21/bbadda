@@ -1,0 +1,27 @@
+{
+  "id": "youtube-f4fe2d5f",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc",
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "로블올리는 잼민이",
+  "url": "https://www.youtube.com/watch?v=q3M9NWlXU70",
+  "title": "예전 nc다이노스 나성범47번 (지금은 기아 타이거즈지만)..",
+  "published_at": "2026-11-06T09:44:32Z",
+  "collected_at": "2026-11-06T13:38:08.408Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 172,
+    "likes": 2,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 37,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

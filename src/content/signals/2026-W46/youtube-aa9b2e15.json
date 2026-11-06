@@ -1,0 +1,26 @@
+{
+  "id": "youtube-aa9b2e15",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "source_name": "루테라",
+  "url": "https://www.youtube.com/watch?v=lrIDv5c6IhU",
+  "title": "이글스 정우주 내년에도 못하면 실력이다 각오 단단히 #한화이글스",
+  "published_at": "2026-11-06T10:45:06Z",
+  "collected_at": "2026-11-06T13:38:08.408Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 124,
+    "likes": 22,
+    "comments": 3
+  },
+  "scores": {
+    "hot": 66,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

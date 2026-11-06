@@ -1,0 +1,34 @@
+{
+  "id": "youtube-d8938f3f",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "LGTWINSTV",
+  "url": "https://www.youtube.com/watch?v=MigDfVDLClM",
+  "title": "🙋‍♂️: LG트윈스 지명하겠습니다 #지성 #박민교 #이기광 #성찬 #은석 시구 비하인드 [비하인둥 21화]",
+  "published_at": "2026-11-06T08:30:13Z",
+  "collected_at": "2026-11-06T13:38:08.408Z",
+  "summary_ko": "LG트윈스 공식 채널이 시구 비하인드 영상을 올렸다.",
+  "metrics": {
+    "views": 8900,
+    "likes": 657,
+    "comments": 104
+  },
+  "scores": {
+    "hot": 89,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "Howl.Link",
+      "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE96dEo0RTZDN3J0N25jQkZYZXdKSGp1U3FucTVacTk4djgzX25tQW51RWZYV192bG42djRR?oc=5"
+    }
+  ],
+  "brief_ko": "시구 비하인드 21화"
+}

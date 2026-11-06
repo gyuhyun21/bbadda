@@ -1,0 +1,22 @@
+{
+  "id": "news-615d5d2c",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "경북신문",
+  "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE02ZVJSMkRLTVJLQU50aDN4LTRGeE9kMkdSclp3MERZTlF6bDFQcnpMTmpVNGU0YktFbGdBS3ZWM1Y3Z3pEX2VUWW5MNXVRVWhicEtnTTlSMDc?oc=5",
+  "title": "'후라도 불패·구자욱 부활' 삼성, 한국시리즈 우승 보인다",
+  "published_at": "2026-11-06T12:41:02.000Z",
+  "collected_at": "2026-11-06T13:38:08.408Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

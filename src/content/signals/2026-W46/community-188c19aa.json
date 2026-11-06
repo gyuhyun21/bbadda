@@ -1,0 +1,23 @@
+{
+  "id": "community-188c19aa",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 여기서 행복할 것",
+  "url": "https://blog.naver.com/seolaeroh/224467260111",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/6tJ5zi5Hddo",
+  "title": "SK 와이번스 & SSG 랜더스 <김성현 은퇴식 > : 야구장에서 오열하게 만든 최애선수의 마지막",
+  "published_at": "2026-11-06T15:55:00.000+09:00",
+  "collected_at": "2026-11-06T13:38:08.408Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

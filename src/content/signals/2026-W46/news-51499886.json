@@ -1,0 +1,23 @@
+{
+  "id": "news-51499886",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "연합뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1UZUo3QnNjenpqX0xPYnNIRXZxZE9ucmx4VFFVUHV0eHpUUWthSm5oQUY4YzBPRE9fV09UODBXVEk3cUVjeXVkMktKd0RkT1JVUWVHXy1kNUhiYlctOS1CetIBYEFVX3lxTE1UZUo3QnNjenpqX0xPYnNIRXZxZE9ucmx4VFFVUHV0eHpUUWthSm5oQUY4YzBPRE9fV09UODBXVEk3cUVjeXVkMktKd0RkT1JVUWVHXy1kNUhiYlctOS1Ceg?oc=5",
+  "title": "\"번트? 저 강민호인데요\" 13년 전 CF대사, 올해 강민호에겐 없다",
+  "published_at": "2026-11-06T06:52:50.000Z",
+  "collected_at": "2026-11-06T13:38:08.408Z",
+  "summary_ko": "연합뉴스는 13년 전 CF 대사를 빗대 올해 한국시리즈 강민호의 모습을 다뤘다.",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "강민호, 13년 전 CF 대사"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-0ff21bd8",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "마이데일리",
+  "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1DTEdwZ3R0S1VNUW9RNUNma3pVZE55UEVrM1VZcFZUWGdzREJWR1RfYlNpTUpBZDd5Nk1nY0llUDFIbGlFMmxmOFVGOFhrbDNCYnByZ2wwYU8tbEhDTWlfUjhtNGQzdw?oc=5",
+  "title": "어떤 마음으로 최형우에게 물을 줬나, '옆구리 부상' 강민호 이렇게 절실하다…\"영혼 갈아 넣고 있다\" [MD대구 KS3]",
+  "published_at": "2026-11-06T09:23:00.000Z",
+  "collected_at": "2026-11-06T13:38:08.408Z",
+  "summary_ko": "마이데일리는 옆구리 부상 중인 강민호가 \"영혼 갈아 넣고 있다\"고 말한 대구 3차전 현장을 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "negative",
+  "brief_ko": "옆구리 부상 강민호의 절실함"
+}

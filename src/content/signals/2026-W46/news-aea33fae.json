@@ -1,0 +1,29 @@
+{
+  "id": "news-aea33fae",
+  "issue": "2026-W46",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kt"
+  ],
+  "source_type": "news",
+  "source_name": "뉴시스",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9pSXBJX2h3Ry1DYVdPUXZkYXZoaXJ5M19xWHNObTB3Ykt5bVNlVG5DeWZyS1pjYmVBR3NHaU5fODg2b3dob0R5LVdFeFRGdW9hOXktdWs3ZG5IM1lOWmJoQ9IBeEFVX3lxTE41RDVFMUdmZXBkU1FTcXdMUl9naEs4SF81UW5XWGtrczFxY0FwTTdBd3BsLUZ2MEdDZ1g4MC1xUl8wUjZYUnlXX29YbF9yaUZ6V3BZcnh2RnpXMXJiajdNY0ZqaFlLWXRVWW0tbUV3V3Z6Vy03MmV1Ug?oc=5",
+  "title": "'후라도 호투·구자욱 2타점' 삼성, 3차전 KT에 역전승…1패 뒤 2연승[KS]",
+  "published_at": "2026-11-06T12:24:28.000Z",
+  "collected_at": "2026-11-06T13:38:08.408Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "동방일보",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE40YjdUdTJWUUNXRndjM1lxb19CVVBGQWZVVDV6Q3VrVnlCTG1oVTlqb19FMm0xQ1MtYTNlTlg1WjgwQXhNZmw5NzNBODNwWkVwY2hUcy1zUGp4Y0lzMlFDeFRmeUFzaDZSTkFlUzdXWUNZV2c?oc=5"
+    }
+  ]
+}

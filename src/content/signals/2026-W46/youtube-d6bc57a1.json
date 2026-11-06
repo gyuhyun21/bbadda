@@ -1,0 +1,26 @@
+{
+  "id": "youtube-d6bc57a1",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "youtube",
+  "source_name": "작은손 피아노",
+  "url": "https://www.youtube.com/watch?v=XDIcZUj3LHc",
+  "title": "롯데 자이언츠 - 승리를 위한 전진 피아노 | 승리를 위한 전진 | 롯데 응원가 | 피아노 편곡 | 작은손 피아노",
+  "published_at": "2026-11-06T12:29:50Z",
+  "collected_at": "2026-11-06T13:38:08.408Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 57,
+    "likes": 2,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 50,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

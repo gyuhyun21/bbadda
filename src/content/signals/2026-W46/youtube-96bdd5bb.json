@@ -1,0 +1,27 @@
+{
+  "id": "youtube-96bdd5bb",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "엠엘비 센터 【MLB CENTER】",
+  "url": "https://www.youtube.com/watch?v=afOGaUWW1BU",
+  "title": "구자욱 투혼의 3루타 [한국시리즈 3차전]",
+  "published_at": "2026-11-06T10:56:52Z",
+  "collected_at": "2026-11-06T13:38:08.408Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 10291,
+    "likes": 488,
+    "comments": 53
+  },
+  "scores": {
+    "hot": 90,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

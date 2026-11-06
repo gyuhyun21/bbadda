@@ -1,0 +1,23 @@
+{
+  "id": "news-5110bdf9",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "진일보 | 전남일보",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4tS1pFN0dWc3JHMGdDajAwaXV4TEZ3TXRvdjlscmlydDJxN3RCODA1Z2laTzVnc1BCRVkyYXVVbEVwN0c2RVYxSy1XdFZtTHNBZVRWNUdieGxDUm40Sl84b254c1lCbk1ZaTU2S0p6Zw?oc=5",
+  "title": "KIA 외야수 김호령 FA 시장 도전…\"타 구단 평가 받겠다\"",
+  "published_at": "2026-11-06T07:20:01.000Z",
+  "collected_at": "2026-11-06T13:38:08.408Z",
+  "summary_ko": "전남일보에 따르면 KIA 외야수 김호령이 FA 시장에 나가 타 구단 평가를 받겠다고 밝혔다.",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "김호령, FA 시장 도전"
+}

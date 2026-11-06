@@ -1,0 +1,24 @@
+{
+  "id": "community-da365e68",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 명상의시간",
+  "url": "https://news.kkunglove.com/45",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/FgbiPG6Pyqw",
+  "title": "한국시리즈 3차전 시구 이승엽 전 감독 선정 | 일정 및 주요 기록 총정리",
+  "published_at": "2026-11-06T19:44:01.000+09:00",
+  "collected_at": "2026-11-06T13:38:08.408Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

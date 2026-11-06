@@ -1,0 +1,22 @@
+{
+  "id": "news-4a47734b",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "SeattleN",
+  "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5aMkJnSTIzZ0M2Mm9ZVFYyajhqWXg4aWtHaDdTWEFoemt2Uk5XeURjNlFoUFRYM3d6NFR6WWgwenE4QVBvMjZRQ1pTUWY?oc=5",
+  "title": "'굿바이 잠실' 김도영 만루포로 피날레…KIA, 3연승 PO행 > 뉴스포커스",
+  "published_at": "2026-11-05T17:43:22.000Z",
+  "collected_at": "2026-11-06T13:38:08.408Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 61,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

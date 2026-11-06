@@ -1,0 +1,29 @@
+{
+  "id": "news-5f020d5a",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "연합뉴스",
+  "url": "https://www.yna.co.kr/view/AKR20261106186951007",
+  "title": "후라도 던지고 구자욱 때리고…삼성, 1패 뒤 2연승 시리즈 역전(종합)",
+  "published_at": "2026-11-06T12:30:37.000Z",
+  "collected_at": "2026-11-06T13:38:08.408Z",
+  "summary_ko": "연합뉴스는 후라도가 던지고 구자욱이 때려 삼성이 1패 뒤 2연승으로 시리즈를 뒤집었다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 92,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "강원도민일보",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB6MkZhU2pJOVFvR29NaENOLXlJU0xPZnFpZGxOSTNRdVlhOVIxVG8wTHc2a1hFTThpTW5rMHF4SGZuUk1SOTdmYWg0UHVLX2lBT2Q0UDhGdGNHVlpvMDlaQzZiLTBpc3l1?oc=5"
+    }
+  ],
+  "brief_ko": "1패 뒤 2연승, 시리즈 역전"
+}

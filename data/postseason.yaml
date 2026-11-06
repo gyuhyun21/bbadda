@@ -254,16 +254,37 @@ rounds:
         date: 2026-11-06
         venue: { home_of: po }
         starters: { kt: 소형준, samsung: 후라도 } # 예고 선발(다음카페 게시글 제목 '가을 불패 소형준 vs PO MVP 후라도, KS 3차전 격돌')
+        result: { kt: 1, samsung: 5 } # 뉴스1 '삼성, 안방서 5대 1 완승'·뉴스핌 '삼성 5-1 KT'
+        source: "https://news.google.com/rss/articles/CBMiV0FVX3lxTE45VHd1UEdLMXNDRjZ5bWU1azc0QVRtbkNqTVhCdlZrNTdQenVfWU1nX3czbm5BUzJhRlE4anplRThJbWFST1JzZU9RRHNrQWxhTFpRVWdYSQ?oc=5" # 뉴스1 '삼성, 안방서 5대 1 완승… 한국시리즈 우승까지 2승'
+        homers: ["박승규(삼성) 8회 솔로"] # 뉴스핌 '[AI그래픽] KBO KS 3차전, 삼성 박승규 8회 솔로포'
+        mvp: 후라도(삼성) # 스타뉴스 포토 기사 '후라도, 108구 데일리 MVP'
+        attendance: "2만 3550석 매진" # 머니투데이 '2만3550석 또 꽉 찼다'
         facts:
           - "1승 1패 뒤 3차전 승리 팀 우승 확률 88.9%"
         ig:
           pre: { hook: "3차전 이기면\n우승 확률 88.9%", sub: "KT 소형준 vs 삼성 후라도, 대구에서 승부" }
+          post: { hook: "삼성, 2연승\n우승까지 2승", sub: "삼성 5-1 KT, KS 2승 1패", points: ["후라도, 7이닝 1실점 호투", "구자욱 2타점 적시타", "소형준, 6이닝 4실점 · 2회까지 볼넷 5개"] } # 근거: 연합뉴스·스포츠조선·뉴시스 제목
         sources:
           - "https://cafe.daum.net/subdued20club/ReHf/5773749" # KS3 예고 선발(게시글 제목)
           - "https://www.yna.co.kr/amp/view/AKR20261105109300007" # 3차전 우승 확률 88.9%(연합뉴스)
           - "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5CSXBxT0paMDc4UlpzYzVHS0plMURnRVFsdlNfLWlYUEJ2LXdWNnRwN0dxbU5ZUW41Z2ZKZEZkZzNmOTlPekdQSFJ3YW42VlUzRTdMc2lVcTFCTjBVSm9saDdB?oc=5" # KS3 선발 소형준 vs 후라도(일간스포츠)
           - "https://news.google.com/rss/articles/CBMiakFVX3lxTFBMYXNFc1E2clI2cUpidy1aUnRPUFlUX2prOUU5VFh4VllvNF9NRV92TW1LdjhzMWdGTTRKMnB2UU8walNRdl9tcTRKdGFvemlyYVUwbWtETW12OVkxWGE0R2NmQXFHeFQxYUHSAW9BVV95cUxNcWZPTWlLa2gzSXVTS1U3c0lQZHNmR1VEVTRFeXpvdnBodl9zanNiUFFmelZtelJXRlVwLWhWeXE1NWlqbFVoUnkxSDdHMEZMVGMwWnFadTZTNzNoc3JfWkY5U01ZOVFkWTRHMThBTmM?oc=5" # 3차전 후라도 프리뷰(머니투데이)
-      - { no: 4, date: 2026-11-07, venue: { home_of: po } }
-      - { no: 5, date: 2026-11-08, venue: { home_of: po } }
+          - "https://news.google.com/rss/articles/CBMiW0FVX3lxTE41bE5EZGx5aVdvbjlWb1NLY1o4WXhON3pqd0VFcUpWa1pzZ0NXNUVhYV9mYnJnZnhoRlBGRVdYeGJrcDlMdTlfd1haTktCbTc3UEV5Q2lNb092emfSAWBBVV95cUxOY0NBaTYyQlF3b2I3a1dUUG5vaE5iOHBpTjFGX0NxSmxxX1hjRUdvTjFEQnhiTUp6Qi11VFgzbkRndURQZF83SXV0UG5vZnVRckN1S2NUOGNTXzFmMTRiNTg?oc=5" # 연합뉴스 종합
+          - "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1oNXI0a3FVOE1LMzNaQjl6M1pvUnVULUVfVGpYMGt2aWs4S0YzaV94YTUtb1JZOEtydzRSem9YalQ2WHNXcW9pQmtCRVpCRVVqQkxZX0U2YzBjTzdlU2liedIBeEFVX3lxTFB6RXh6bXZaMWlSZUlsT0hQWEt2UDAwSDl1Nl9MRTBqNWlmdW1ZV2lmeGduTkNZLW9fd281YnhqM0ppa2hWRXprNzZ5V0QwdVJFUUUxbmZjbGZMdUxrcFlTZ0tBdlV1NmtCcVlrZGlwNjd1VFdkRnB6Rw?oc=5" # 소형준 6이닝 4실점(뉴시스)
+          - "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB1RTQ3anI0Rk43eDQydmtmVVZKcWpSUFFra1psalNGRnByZFpHNUd3R2FzRWF2ejFVaGMyWGpMWnB5Zk1oRUtEUlE5TmtsSHJ6Zkp1Tzh2V3hieTJD?oc=5" # 박승규 8회 솔로(뉴스핌)
+          - "https://news.google.com/rss/articles/CBMidkFVX3lxTE96VmRBZm9yRjBUZlZuMFJUT09qcWxmMHVTUklEbFUzeXNuVWhEb3g0RGVPLVFfcEc2b284M0NDcHRpSmxMaERDVmJzVXo4UXBHS0ozWnR3aG5uSHlxb0xIWnJQWlFaT3RpYVFhOUNaaC0xbXQtZWc?oc=5" # 후라도 데일리 MVP(스타뉴스)
+          - "https://news.google.com/rss/articles/CBMiakFVX3lxTE42V1pFMW1rczNENTFiZjhpY3NyTUVweW5NVG9WZkU5QkhaTnJYdElISkcwSUEzcHBPb0JmM3pNMzF2SlptcHNacmdRaGZhckZrRnoyOXJlWE5mdDR0ZjBVTXMzaHdMVXBUZnfSAW9BVV95cUxNTVJjTzFpTE1kUERYZkJDQjFhWUZNcVZlbVJaQjFpUnVYNnVZZjZiRUtzQTdEYzVjUmV3NzJLNFNyS2dSTnd1Ql9vajcyeFlRcC1XdzhoR3gyZFBzNVNjQWdDMEhlc0VDcW52LTVmRUk?oc=5" # 매진(머니투데이)
+      - no: 4
+        date: 2026-11-07
+        venue: { home_of: po }
+        starters: { kt: 로건, samsung: 장찬희 } # 스타뉴스 '[오피셜] 2승 1패 리드 삼성, 4차전 불펜 데이→선발은 장찬희였다! KT는 예상대로 로건'
+        sources:
+          - "https://news.google.com/rss/articles/CBMidkFVX3lxTE82Y0U1djBjZ2tObzJyQThhcTR2aWxCTVlST3cyVlByTjEtTmFWMEZFSG0zRTUzNnJNVi1walpESjVYX2J2cE5zeG1TS1RXV2hUQUcxOXpFc1ZZZkJmaHpGRzlCQ3R1WXRRcVZ4Ri10MWcxbElvN0E?oc=5" # KS4 선발 로건 vs 장찬희(스타뉴스)
+      - no: 5
+        date: 2026-11-08
+        venue: { home_of: po }
+        starters: { samsung: 원태인 } # 스포츠한국 '박진만 감독 승부수 던졌다 "원태인, 5차전 선발투수"'
+        sources:
+          - "https://news.google.com/rss/articles/CBMicEFVX3lxTE95VWExZmdJVVlGTGRPa21Tcl9ydUFwWW1xN295SDNVMUVnamJZOTlNcURKc1NnX050R2JnM004dzByYXNod3p3RkVLd0R3blVYZEo2c2g5d3lOcEtnQzNtOWRVVFl3Y2g1dE1jcmtFTk_SAXRBVV95cUxNU29zZEhkMkM2eWx0bkd3MlNNeEd4emFpTl9LV2s0UmhPYmpyTk9vcXo2Q19PN3ptTWk3OE8zLWdjWHRubGk1NGNIZVJpTXJOTGFzWjM2WGhUQjN1b1F5UnJfT1F6cWpzTlBxQkJRcTRFSmkwYQ?oc=5" # KS5 삼성 선발 원태인(스포츠한국)
       - { no: 6, date: 2026-11-10, venue: 수원 }
       - { no: 7, date: 2026-11-11, venue: 수원 }

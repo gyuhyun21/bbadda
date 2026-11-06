@@ -1,0 +1,23 @@
+{
+  "id": "news-62c3027d",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "한국일보",
+  "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ISW1kZ3E1TktRYXZ5b2U3d0YzWlJPZjhRQkJEZ243d2wyd19IZmFRSEdRQ2NEc3lzXzdBaVk1N0Rwc3NFVlZCWVFsMEZxQW5ia0VRYjh5ck50OHJhZk9sSGlIUnowSUtQOHN3S1FB0gFzQVVfeXFMT2wyQ3FtN1BFMmNSNFlsNU9pTm5aaDZiZ3UzU3FXclNMVWpudHJoMkVRQVR5ckVlOXZfa0N2a3VsOEk1T3hwWUNOZWUtcHJwQ3dCM0xmSXVBNUJEV3VuS3BiWGFKWF9ObVVzVlhDMi1HNjRMTQ?oc=5",
+  "title": "단 4안타면 충분했다... '가을 지배자' 후라도가 있으니",
+  "published_at": "2026-11-06T12:58:00.000Z",
+  "collected_at": "2026-11-06T13:38:08.408Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

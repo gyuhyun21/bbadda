@@ -1,0 +1,26 @@
+{
+  "id": "youtube-aa94b02e",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "youtube",
+  "source_name": "쇼핑잇",
+  "url": "https://www.youtube.com/watch?v=ekaJhKsd5xY",
+  "title": "롯데 역대급 영입 진짜 가능할까 #롯데자이언츠 #프로야구 #KBO",
+  "published_at": "2026-11-06T10:30:52Z",
+  "collected_at": "2026-11-06T13:38:08.408Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1370,
+    "likes": 16,
+    "comments": 2
+  },
+  "scores": {
+    "hot": 49,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

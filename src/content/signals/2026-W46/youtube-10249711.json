@@ -1,0 +1,26 @@
+{
+  "id": "youtube-10249711",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "youtube",
+  "source_name": "예영이예영",
+  "url": "https://www.youtube.com/watch?v=SYdpOuZrEB0",
+  "title": "사직 아이돌 윤동희 퍼컬 = 청량돌💧 #윤동희 #퍼스널컬러 #롯데자이언츠",
+  "published_at": "2026-11-06T09:17:36Z",
+  "collected_at": "2026-11-06T13:38:08.408Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 251,
+    "likes": 5,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 46,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}
