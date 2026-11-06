@@ -1,0 +1,28 @@
+{
+  "id": "youtube-a0492a59",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg",
+    "hanwha",
+    "lotte"
+  ],
+  "source_type": "youtube",
+  "source_name": "크보쌍둥이",
+  "url": "https://www.youtube.com/watch?v=rTXc705xmws",
+  "title": "[트로이 영입전쟁?!] 왓슨 FA신분 엘지 한화 이번엔 롯데 까지 영입전쟁?! #엘지트윈스 #한화이글스 #롯데자이언츠 #트로이왓슨",
+  "published_at": "2026-11-06T05:40:56Z",
+  "collected_at": "2026-11-06T07:38:27.267Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 3498,
+    "likes": 220,
+    "comments": 37
+  },
+  "scores": {
+    "hot": 88,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

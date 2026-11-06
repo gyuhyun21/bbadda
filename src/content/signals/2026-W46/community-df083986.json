@@ -1,0 +1,24 @@
+{
+  "id": "community-df083986",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt",
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 라파의 경제 인사이트",
+  "url": "https://blog.naver.com/born98/224467270122",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/9M7GRG68Kmw",
+  "title": "KT 삼성 오늘 야구 중계 어디서 볼까? 한국시리즈 3차전 시간·선발투수·경기 일정",
+  "published_at": "2026-11-06T15:19:00.000+09:00",
+  "collected_at": "2026-11-06T07:38:27.267Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

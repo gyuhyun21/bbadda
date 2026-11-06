@@ -1,0 +1,24 @@
+{
+  "id": "news-dbb5e38b",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "오마이스타",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE90ZUpaZXhaMnhXZEFCUDFVTkM0eWduLV85N1lkUTlENUI1NGNsaERlRjBDMl9nMEhIaHJKd19UUUJKd0l1M01xd295TmtZVnp6OGlHQ0FkSWVtMXVpS1AtcDhDUGVudmdyQm51UWFrZlAwV2hud2x6QTAtR0pVUQ?oc=5",
+  "title": "김호령, 첫 FA 승부수…수비로 대박 터트릴까, 타격이 발목 잡을까",
+  "published_at": "2026-11-06T06:32:00.000Z",
+  "collected_at": "2026-11-06T07:38:27.267Z",
+  "summary_ko": "오마이스타는 첫 FA 자격을 얻은 KIA 김호령이 수비를 앞세워 시장에 나선다고 짚었다. 타격이 변수로 꼽힌다.",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "김호령, 첫 FA 승부수"
+}

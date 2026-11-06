@@ -1,0 +1,23 @@
+{
+  "id": "community-2a198a23",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "community",
+  "source_name": "다음카페 알 수 없는 동아리ㅤ",
+  "url": "https://cafe.daum.net/un-known-club/M9rs/1445491",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/B4tcZrc7NDv",
+  "title": "한화이글스 우승 축하합니다",
+  "published_at": "2026-11-06T16:02:18.000+09:00",
+  "collected_at": "2026-11-06T07:38:27.267Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

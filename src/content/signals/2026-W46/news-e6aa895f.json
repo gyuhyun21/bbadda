@@ -1,0 +1,23 @@
+{
+  "id": "news-e6aa895f",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "news",
+  "source_name": "마이데일리",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE56azRNdkh4M3ItekFNUHAyQmFMdVBFaUswSlhuZUg2WVVMMXJ6Q0paOGE3LVd0akp6eUI1RWFTOEIzT3F6bV83bk5qWkE5UDFHNDc5ODdCbmpIcG9KRXY4UA?oc=5",
+  "title": "마무리캠프 등장한 `스톱워치` 두산 외야수들 구슬땀…김대한 \"기본기 중요 재확인\"",
+  "published_at": "2026-11-06T03:35:39.000Z",
+  "collected_at": "2026-11-06T07:38:27.267Z",
+  "summary_ko": "마이데일리에 따르면 두산 마무리캠프 외야 훈련에 스톱워치가 등장했다. 김대한은 기본기의 중요성을 다시 확인했다고 말했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "두산 캠프에 등장한 스톱워치"
+}

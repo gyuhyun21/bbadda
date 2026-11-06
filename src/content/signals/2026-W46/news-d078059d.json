@@ -1,0 +1,23 @@
+{
+  "id": "news-d078059d",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "MHN스포츠",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9KamtrUl8xYVpZNml0eThVd3BkUWhoTjJUS1dGMF9ydkdidThRNFVPVUFOc25BRjZ6Vml1TG54ZVJzaW1RUWVab1dxdGpBS0hMeDdoRmg1R1pGbXJfM1lRLXpMcw?oc=5",
+  "title": "FA 시장에 나오는 김호령, 13홈런이냐 156삼진이냐…무엇을 볼 것인지 그것이 문제로다",
+  "published_at": "2026-11-06T00:42:45.000Z",
+  "collected_at": "2026-11-06T07:38:27.267Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

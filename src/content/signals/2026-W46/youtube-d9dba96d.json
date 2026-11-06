@@ -1,0 +1,27 @@
+{
+  "id": "youtube-d9dba96d",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan",
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "한국에눈뜬날",
+  "url": "https://www.youtube.com/watch?v=W93cbD8Q-eE",
+  "title": "두산 응원하러 왔는데 KIA 응원가에 반했다? 표 없이 잠실 야구장에 온 외국인 부부 | 해외반응",
+  "published_at": "2026-11-06T05:00:12Z",
+  "collected_at": "2026-11-06T07:38:27.267Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 0,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

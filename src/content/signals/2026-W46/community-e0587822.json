@@ -1,0 +1,23 @@
+{
+  "id": "community-e0587822",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 GOOD NEWS",
+  "url": "https://blog.naver.com/livenews101/224467274700",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/9ijaHrAoO43",
+  "title": "대전 예수 와이스, 한화 복귀 가능성 솔솔…美 현지선 '마이너 계약' 전망",
+  "published_at": "2026-11-06T15:30:00.000+09:00",
+  "collected_at": "2026-11-06T07:38:27.267Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

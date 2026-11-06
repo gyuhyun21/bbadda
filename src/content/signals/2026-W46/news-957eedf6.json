@@ -1,0 +1,24 @@
+{
+  "id": "news-957eedf6",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "마이데일리",
+  "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9jRHhjZ1VkWUNYMmNibktPQ3Nad3hNX21URXNsb2VZSzI5SFJncTZwUldjU1BGQ2NITVhJUlBjVmV2eERFcVcwQWFFZlBVeHVoRnoxUDZVdlBZb0g5T2VaaWlsRV85UQ?oc=5",
+  "title": "김도영 정말 많이 미쳤다, 136m 동점 솔로포+쐐기 솔로포로 존재감 폭발→한국 8-4로 상무 완파→허인서 결승 스리런포→APBC 준비 착착[MD대전]",
+  "published_at": "2026-11-06T05:28:21.000Z",
+  "collected_at": "2026-11-06T07:38:27.267Z",
+  "summary_ko": "마이데일리에 따르면 김도영이 APBC 대비 상무전에서 홈런 2개를 쳤고 한국은 8-4로 이겼다. 대표팀 합류 첫 경기였다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "김도영, 대표팀서 멀티홈런"
+}

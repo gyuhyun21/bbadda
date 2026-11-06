@@ -1,0 +1,34 @@
+{
+  "id": "news-fc052bee",
+  "issue": "2026-W46",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "미주중앙일보",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0yLUdMa1pXdDI2V2pSUDdWbkJRdUVYR0VRbjJ0aW03Q1FMNlVZeHJSSTNBWElHVDg1UFR3VHFSa05mUjhUN3hfal8tNTY3eW5jcjdsR2FOMkdiOVgtcUQ2MlNR?oc=5",
+  "title": "\"내 몸이 중요한 게 아냐\" 투혼의 가을인데, '지명 포수' 됐다…'우승 성불'이 이렇게 힘들어야 할까",
+  "published_at": "2026-11-06T03:39:00.000Z",
+  "collected_at": "2026-11-06T07:38:27.267Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 99,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbVZnSEFOeXA1ZXhwdHpFY2RtS21aNGVPLVltdk10aGtxbkg4a21rakxrejQzMmlLWldfQlBfWGt1N0pJeXQ4ckY5ZXluY1JvZV8xZlZRVDhwUFZuMWlReVVsOW5kcDNZSzF2UTZQMnVxNWk1Uk1iR3dJTmNXRG1ac2FxOA?oc=5"
+    },
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAxSmtLNUROMHVsSVJZR2RESU1hcXpZOWJfd2FUbXVBa191M1lNNW5WdUpqMXZaekxGVWhMa3R0bjlfUTZSVFhFYnlFWEh3SWZ5TFIzdzJ3eW1ERmIzN1JaSWZqWHEtUHZYdGxYejQ2SdIBb0FVX3lxTFAxSmtLNUROMHVsSVJZR2RESU1hcXpZOWJfd2FUbXVBa191M1lNNW5WdUpqMXZaekxGVWhMa3R0bjlfUTZSVFhFYnlFWEh3SWZ5TFIzdzJ3eW1ERmIzN1JaSWZqWHEtUHZYdGxYejQ2SQ?oc=5"
+    }
+  ]
+}

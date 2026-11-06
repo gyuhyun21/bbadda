@@ -1,0 +1,24 @@
+{
+  "id": "community-def96fb6",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "더쿠",
+  "url": "https://theqoo.net/kbaseball/4397482366",
+  "title": "우리 방출선수 한명 입단테스트 봤나봐",
+  "published_at": "2026-11-06T03:38:27.267Z",
+  "collected_at": "2026-11-06T07:38:27.267Z",
+  "summary_ko": "",
+  "excerpt": "... 프로야구 KT 위즈에서 방출된 투수 이준명(25)이 LG 트윈스에서 입단 테스트를 받고 있다. 4일 이천…",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

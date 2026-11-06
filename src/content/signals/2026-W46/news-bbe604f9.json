@@ -1,0 +1,23 @@
+{
+  "id": "news-bbe604f9",
+  "issue": "2026-W46",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kt"
+  ],
+  "source_type": "news",
+  "source_name": "노컷뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9OSmIwSUo5c3hNeHUzRFVjMmMySzgzTDNxb1ladXRyY0hmbkNEV2MyRUYwZkZkZzZMLUZxZmdJVG5GUzJ5ejlyekhNZDJUd2lSaUE?oc=5",
+  "title": "'이러다 징크스 될라' 파울 홈런=눈물의 패배? 삼성-kt 특명 '멀리보다 안쪽으로'",
+  "published_at": "2026-11-06T01:44:42.000Z",
+  "collected_at": "2026-11-06T07:38:27.267Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "mixed"
+}

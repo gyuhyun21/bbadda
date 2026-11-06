@@ -1,0 +1,28 @@
+{
+  "id": "news-d53833fa",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5pcmtYMVNuTFhQLVFaWWd5dnJacEJvVC1fMFN3SmozS0pSZHZDc1FPUXpVMHhuNGdhOFJPWUpuRWF0empkRHFKSUZpaklJN0JBQ0FxZFRuYlZLaU8tY0hXa1J0d1NjM2xlZVJaQ2Q1TkhSN3dtdm5GQlRDcDFpQQ?oc=5",
+  "title": "'9타수4안타 3홈런' 가을수호신이 넘어야 할 '벽', KT '빈볼 악연' 청산할까[KS]",
+  "published_at": "2026-11-06T00:34:32.000Z",
+  "collected_at": "2026-11-06T07:38:27.267Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 97,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSUtFMmxISzFCTDY5aWpZUVRLVm1NVVpjQUNkVzJIdzBPU0ZLUVJxSnhIQjFXVm1Mam5HZVlKeWNuVHJ3MGpqNUc2YTF3OG1leVdfa2U5TUVnZXE1ZHl5OFBtaUh1Y2lrQ1d0YVgzOVY5NHo2OFJGMHQzb0poNW1lUGVKQQ?oc=5"
+    }
+  ]
+}

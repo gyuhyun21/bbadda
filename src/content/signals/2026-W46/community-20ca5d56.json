@@ -1,0 +1,23 @@
+{
+  "id": "community-20ca5d56",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 NC다이노스 팬 블로그",
+  "url": "https://blog.naver.com/jurinee22/224466800699",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/AM8DnevmJb1",
+  "title": "NC 다이노스 , 핵심 불펜들의 아쉬운 시즌",
+  "published_at": "2026-11-06T09:34:00.000+09:00",
+  "collected_at": "2026-11-06T07:38:27.267Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-b1d4f6de",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5YV3cxM1l5WDlaa29HX0JxOHB0bUNLT1ZkZ1YxVzB5N3NiNmlfRjhGQy10YWZxMkFhM1o1NzNYMkJ3aEVjNTRXWEJYcWh0ZDVIQzF4TTMwSWF6bzlpQzlyc0tWTm9tYTBzOG5EcVJ6MNIBb0FVX3lxTE5YV3cxM1l5WDlaa29HX0JxOHB0bUNLT1ZkZ1YxVzB5N3NiNmlfRjhGQy10YWZxMkFhM1o1NzNYMkJ3aEVjNTRXWEJYcWh0ZDVIQzF4TTMwSWF6bzlpQzlyc0tWTm9tYTBzOG5EcVJ6MA?oc=5",
+  "title": "'이럴수가' 이 팀 300이닝 소화한 토종 우익수가 없었다고? 외야 구성 어떻게 되나, 초시계 등장한 이유",
+  "published_at": "2026-11-05T22:29:00.000Z",
+  "collected_at": "2026-11-06T07:38:27.267Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

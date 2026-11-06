@@ -1,0 +1,23 @@
+{
+  "id": "news-b4e5034c",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "news",
+  "source_name": "OSEN",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5aVzY0OVRNdnd0Q3FUelJJSzh3ckg3emhxbkRGTHQ5V1F1RXpEZGJZc0VsRF9jbzlaS3pTUGZJVkJibUhGbGdySFVwV2tDRVpZdVZvZw?oc=5",
+  "title": "‘와카 탈락’ 두산 진짜 이 악물었네, 지옥훈련→외야진 군더더기 싹 고친다! 휘문고 오타니의 다짐 “추가 진루 최소화하겠다”",
+  "published_at": "2026-11-05T23:43:00.000Z",
+  "collected_at": "2026-11-06T07:38:27.267Z",
+  "summary_ko": "OSEN은 두산이 마무리캠프에서 외야 수비를 손보고 있다고 전했다. 외야수가 '추가 진루를 최소화하겠다'는 다짐을 밝혔다는 내용이다.",
+  "metrics": {},
+  "scores": {
+    "hot": 73,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "외야 군더더기 줄이는 두산"
+}

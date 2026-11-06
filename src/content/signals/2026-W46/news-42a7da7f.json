@@ -1,0 +1,23 @@
+{
+  "id": "news-42a7da7f",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "조선일보",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWXQ3UlpHN1hWYWdPQ3VGNzlDYllmcWlLRDR1QXc0WHVlejJET3hocGtLY0J1SUR5SDc3aUlVVTM4WW14Sk9DOXRiblZtaHJuLWtBUnZ5QkZzbGlxNGhhTlh1TlJFUW1HWDdPOFY0aDZXaDZIQWRyVG1CSjVxM3ZsRC1mNA?oc=5",
+  "title": "'70억 투자' 이대로 퇴장하나…충격의 선발 박탈, 명예회복 기회 찾아올까 [KS]",
+  "published_at": "2026-11-05T22:34:00.000Z",
+  "collected_at": "2026-11-06T07:38:27.267Z",
+  "summary_ko": "조선일보에 따르면 삼성 최원태가 한국시리즈에서 선발 자리를 내줬다. 명예회복 기회가 올지에 관심이 쏠린다.",
+  "metrics": {},
+  "scores": {
+    "hot": 73,
+    "relevance": 70
+  },
+  "sentiment": "negative",
+  "brief_ko": "최원태, 선발 자리 내줬다"
+}

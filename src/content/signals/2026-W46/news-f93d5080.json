@@ -1,0 +1,34 @@
+{
+  "id": "news-f93d5080",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "미주중앙일보",
+  "url": "https://www.koreadaily.com/article/20261105161025856",
+  "title": "대표팀 3일 후 도쿄로 떠난다…KS 최소 5차전 확정, 안현민-김지찬-이재현 APBC 출전 어떻게 될까",
+  "published_at": "2026-11-06T00:10:00.000Z",
+  "collected_at": "2026-11-06T07:38:27.267Z",
+  "summary_ko": "미주중앙일보는 한국시리즈가 최소 5차전까지 가면서 KT 안현민 등 대표팀 차출 선수의 APBC 출전이 변수가 됐다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 89,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ySXBXVmpqcll0eVYwUzB4UDlTS1lJY2x3cUQ1UU5GQ19SYm14Ri1Ib2F1dmFXTGQ0MkRSVnUtanRzMDFPSGRNTWhzNXphUmhNcUxjalBVUnc0SWNiazVpbWRMMDhQY3F3dFHSAW9BVV95cUxOeDBSRzhCR2RURXVSOWJzTUhaR0xySWxoSDlWY252bWNsTjJ2VnVHSDQtemplWEMxdFFXakFZbDRyWlVObld4dVc2SHlIbFRJaHdpb2xTcmtNLWNFUjZqUVVlbXgxc3NjREZ0RXd3TkU?oc=5"
+    },
+    {
+      "source_name": "OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9yZjRGT3NydVVNTXFURmpHVjcwelBMR1Y2V2J2cGdTWW9FTjIxVjIwWjg2UFJod1o0RDBuQ1BMUXJQZm11djR2MldXT0luM1NQdi15VA?oc=5"
+    }
+  ],
+  "brief_ko": "KS 길어지면 APBC 변수"
+}

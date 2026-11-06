@@ -1,0 +1,27 @@
+{
+  "id": "youtube-63044a96",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "야구의모든것",
+  "url": "https://www.youtube.com/watch?v=IhqnAQnnf2o",
+  "title": "2027 KIA 타이거즈 주전 3루수는 누구일까? 김도영 유격수 전환과 후계자 경쟁",
+  "published_at": "2026-11-06T07:30:00Z",
+  "collected_at": "2026-11-06T07:38:27.267Z",
+  "summary_ko": "영상은 김도영의 유격수 전환을 전제로 KIA의 내년 주전 3루수 경쟁을 전망한다.",
+  "metrics": {
+    "views": 11,
+    "likes": 3,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 55,
+    "relevance": 50
+  },
+  "sentiment": "neutral",
+  "brief_ko": "내년 3루수는 누구"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "news-79b09263",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBwUW9aWkpOY21ad0JnQ3kxdUNHX1E2Z2p5QkNtZ1hZOXAwdE5qV3NxOG1USmQ1U3VvNG9LeGwxcU0wX3Z6N1pVZkswZ0UyeDAxa1B4OWdCQkZ2LXhNUG00SDNPVDdkYmJLZ2RNYWVtVXJMR3JFYTU5MGh2YjRnQQ?oc=5",
+  "title": "이젠 불쌍할 정도다...KS 우승이 뭐라고, 강민호 3차전 쉬어갈 타이밍인가",
+  "published_at": "2026-11-06T00:07:07.000Z",
+  "collected_at": "2026-11-06T07:38:27.267Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 81,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPc1ItWEFVNXJadmxmWlk3M3o0WjFPcmg5VlpvX09JSi1kcEI4ZVh4M1dhN1NSU052OU5MQ19sZ3hnbTFrbjBCNklncW9OTHNleXdzenBCXzZMMFNPZlk1OHFfb0hYeDlZa29tN1JuNmRPU1EyR1Z6OFZxVHFPZ3EyenFqaw?oc=5"
+    }
+  ]
+}

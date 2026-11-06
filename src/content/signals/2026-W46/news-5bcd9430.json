@@ -1,0 +1,23 @@
+{
+  "id": "news-5bcd9430",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "신아일보",
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBzZW02YXZRR0xzVHVncWpUajcxRG1XcWg5TmQxc01PbWpIc1pBVFRQOXoxX2R2T2gwbUhjSjl2UG52NmJxeU5TZ09NVEwxWlVWSmdRd0ZPaVdQNTUweXk4bDNubEpGZnY3MEJvamdtMVI?oc=5",
+  "title": "'홈런왕' 디아즈·'타점왕' 힐리어드, KS 3차전서 맞붙는 외인 거포들",
+  "published_at": "2026-11-06T01:15:20.000Z",
+  "collected_at": "2026-11-06T07:38:27.267Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

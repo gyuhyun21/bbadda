@@ -1,0 +1,26 @@
+{
+  "id": "youtube-a3681dde",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "Cheer Focus",
+  "url": "https://www.youtube.com/watch?v=E4y-OnFWeNc",
+  "title": "[한국시리즈 2차전] 삼성 라이온즈 경기 & 응원 하이라이트 모음",
+  "published_at": "2026-11-06T05:25:43Z",
+  "collected_at": "2026-11-06T07:38:27.267Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 46,
+    "likes": 10,
+    "comments": 3
+  },
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

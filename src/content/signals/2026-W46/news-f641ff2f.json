@@ -1,0 +1,28 @@
+{
+  "id": "news-f641ff2f",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "news",
+  "source_name": "중앙일보",
+  "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Yc1g2YTA2SFUtZFQ4SU1NUUF2RFpkTzJyRUJuN2ZyNlhzMmtsd05EYW91UVpVVHZwOGtDQW5oX01CczF2Q2lrWnNQem00bjVLTmh2d2dR?oc=5",
+  "title": "KT가 그저 대견한 조범현 경일대 총감독 “현장은 언제나 설레는 곳”",
+  "published_at": "2026-11-06T03:27:00.000Z",
+  "collected_at": "2026-11-06T07:38:27.267Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 83,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "미주중앙일보",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1xLUdGRjN1SDl0UlJTandmaHJaUTJfcTk4ZDBjUnFRWW5maDZoUlFxYkJmVkVEYzQ3ZXJiME9KTGNTa2FfOC16bDVsM3NBbjBMWVB0bUdXc0cyX3NHLTNGNXBR?oc=5"
+    }
+  ]
+}

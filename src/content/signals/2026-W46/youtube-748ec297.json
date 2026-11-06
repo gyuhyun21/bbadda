@@ -1,0 +1,27 @@
+{
+  "id": "youtube-748ec297",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "뷰포인트",
+  "url": "https://www.youtube.com/watch?v=MNJ079RkQ-A",
+  "title": "이율예 끝내기 홈런볼 도착지",
+  "published_at": "2026-11-06T03:00:33Z",
+  "collected_at": "2026-11-06T07:38:27.267Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1385,
+    "likes": 12,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 50,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

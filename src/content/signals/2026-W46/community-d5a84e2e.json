@@ -1,0 +1,24 @@
+{
+  "id": "community-d5a84e2e",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 따롱이의 이슈픽",
+  "url": "https://blog.naver.com/minsaeng-119/224467021096",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/4urf4GWqS01",
+  "title": "노시환 307억 계약했는데 미국 메이저리그행? 연봉 2배보다 중요한 조건",
+  "published_at": "2026-11-06T12:53:00.000+09:00",
+  "collected_at": "2026-11-06T07:38:27.267Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

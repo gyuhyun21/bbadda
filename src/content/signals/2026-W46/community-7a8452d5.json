@@ -1,0 +1,24 @@
+{
+  "id": "community-7a8452d5",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 kkamjo8193님의 블로그",
+  "url": "https://blog.naver.com/jokkam8193/224467264932",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/69Ul6t34fRw",
+  "title": "한국시리즈 1승 1패 후 3차전의 법칙… 승리 팀 우승 확률 88.9%의 비밀",
+  "published_at": "2026-11-06T15:16:00.000+09:00",
+  "collected_at": "2026-11-06T07:38:27.267Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

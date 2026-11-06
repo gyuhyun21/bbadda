@@ -1,0 +1,29 @@
+{
+  "id": "news-c551d1c1",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://www.mt.co.kr/amp/sports/2026/11/06/2026110611010217877",
+  "title": "'KS 접전'이라고? KT는 믿는다, '138억+우승 반지 8개' FA 트리오",
+  "published_at": "2026-11-06T02:25:16.000Z",
+  "collected_at": "2026-11-06T07:38:27.267Z",
+  "summary_ko": "머니투데이는 KT가 FA 트리오의 우승 경험을 믿고 한국시리즈를 치른다고 전했다. 접전 속에서 경험이 힘이 될지 주목된다.",
+  "metrics": {},
+  "scores": {
+    "hot": 98,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE90Mm9DdGRWLUNjUldHTjZ4OTZFZFlLTk5EZXVvWl9ld0RZdENLWkhydVREWTlYUDZtbFB2X1dpanMxaExyQndpak9xc0dHRHMxUGNrQUIyT0RkeTNNZ0h1RXVaNmdFS1RHaVMxRThoalFoajJxYlE?oc=5"
+    }
+  ],
+  "brief_ko": "FA 트리오 믿는 가을 KT"
+}

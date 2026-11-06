@@ -1,0 +1,25 @@
+{
+  "id": "youtube-279f1dfd",
+  "issue": "2026-W46",
+  "module": "league",
+  "teams": [],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=6sq06vAakpg",
+  "title": "결국 답은 '나만의 타이밍'에 있다⏱️",
+  "published_at": "2026-11-06T06:30:23Z",
+  "collected_at": "2026-11-06T07:38:27.267Z",
+  "summary_ko": "KBO 공식 채널이 '나만의 타이밍'을 주제로 한 영상을 올렸다.",
+  "metrics": {
+    "views": 938,
+    "likes": 9,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 48,
+    "relevance": 10
+  },
+  "sentiment": "neutral",
+  "brief_ko": "KBO가 말하는 나만의 타이밍"
+}

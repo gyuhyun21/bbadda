@@ -1,0 +1,27 @@
+{
+  "id": "youtube-8ccad210",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "야구는다르지",
+  "url": "https://www.youtube.com/watch?v=cLLP9ryvRIc",
+  "title": "답답해서 직접보여주는 이진영코치",
+  "published_at": "2026-11-06T03:00:25Z",
+  "collected_at": "2026-11-06T07:38:27.267Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 10052,
+    "likes": 110,
+    "comments": 7
+  },
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

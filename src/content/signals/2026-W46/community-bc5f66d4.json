@@ -1,0 +1,24 @@
+{
+  "id": "community-bc5f66d4",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt",
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 언덕위의작은집 이야기 (로비의 스포츠 칼럼)",
+  "url": "https://blog.naver.com/kshabsolute1/224467150142",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/7k45u5PVKse",
+  "title": "[KBO] KT vs 삼성, 한국시리즈 3차전 승리팀의 우승 확률은 88.9%…소형준·후라도 어깨에 달린 운명!",
+  "published_at": "2026-11-06T13:51:00.000+09:00",
+  "collected_at": "2026-11-06T07:38:27.267Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-9a742c6c",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9zUUJCZzhyOE5WMktWNEstWFc0MG5RdXQtYzJKdXBqYWEtVWpvb05SdzVNWU9sS2p3Sk1rSUw2VkQ3SXpfc1A3ZDV4Mm1JN25sbXRraTdPb202UV85Uk1fdXBobVdTWldTRENMQXRleWoxaGNueFNaN2hwelF3UQ?oc=5",
+  "title": "[포토] 훈련 마친 김성윤, 바닥에 떨어진 공 줍기",
+  "published_at": "2026-11-06T06:43:29.000Z",
+  "collected_at": "2026-11-06T07:38:27.267Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "news-4d73650c",
+  "issue": "2026-W46",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "데일리안",
+  "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOSWpNbUVjRFhjam0td3ZkdU16SmgzR2dLV2ZxcXZhNURfMGRuRFhrbHlZUlNuTHBEbjdwT2JBMXRzSURQMFJmbE14TnBaRWNVdmVKdnA4a3ZYMElVRkFMc21FamxwdjV2aHp6aEptQm5XSHZrMTVhZFNLMWQ4bFBtUkJ5LVM0aWhqTEYyYWpRd1BCN1MzSTFIR3kyWGFUcVBWRE1KdjNOakVKb28yN2R4ZTRRelFMdE5iX2FRMmFadWc4OVh6OE1JZ1hnY21GckhGWnNjNjZoNFdMSVN2d0lIR1VrelJ6WjIyTW1GM0RscG9FVlJtVHRuQQ?oc=5",
+  "title": "88.9% 확률 잡아라! 홈런 공장 라팍서 웃을 팀은? [한국시리즈]",
+  "published_at": "2026-11-06T04:03:00.000Z",
+  "collected_at": "2026-11-06T07:38:27.267Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 83,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}
