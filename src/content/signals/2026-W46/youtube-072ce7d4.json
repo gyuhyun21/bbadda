@@ -1,0 +1,26 @@
+{
+  "id": "youtube-072ce7d4",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "블루 라이온즈_Blue Lions",
+  "url": "https://www.youtube.com/watch?v=LHUqFrBqKM8",
+  "title": "261106 삼성라이온즈 구자욱 선수 인터뷰 | \"이번에 꼭 우승의 맛을 느꼈으면 좋겠습니다.\"",
+  "published_at": "2026-11-06T13:05:12Z",
+  "collected_at": "2026-11-06T13:38:08.408Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 4219,
+    "likes": 280,
+    "comments": 51
+  },
+  "scores": {
+    "hot": 85,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

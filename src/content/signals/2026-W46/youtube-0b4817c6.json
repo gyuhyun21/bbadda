@@ -1,0 +1,27 @@
+{
+  "id": "youtube-0b4817c6",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "블루 라이온즈_Blue Lions",
+  "url": "https://www.youtube.com/watch?v=CVPdVLgCtfc",
+  "title": "261106 삼성라이온즈 후라도 선수 인터뷰 | \"꼭 팀의 기둥이 되어야겠다는 생각을 하였습니다.\"",
+  "published_at": "2026-11-06T12:58:41Z",
+  "collected_at": "2026-11-06T13:38:08.408Z",
+  "summary_ko": "삼성 팬 채널이 후라도의 3차전 뒤 인터뷰를 올렸다. 제목에 \"팀의 기둥이 되어야겠다\"는 말이 담겼다.",
+  "metrics": {
+    "views": 2643,
+    "likes": 178,
+    "comments": 31
+  },
+  "scores": {
+    "hot": 82,
+    "relevance": 50
+  },
+  "sentiment": "neutral",
+  "brief_ko": "후라도 인터뷰, \"팀의 기둥\""
+}

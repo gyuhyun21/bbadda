@@ -1,0 +1,24 @@
+{
+  "id": "community-fcedbbd9",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 하눌이 블로그",
+  "url": "https://blog.naver.com/hanowll/224467516843",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/4nsjPx8Xbcw",
+  "title": "[일상] 2026년 10월 ⚾️ 가을 야구 시즌 모음zip",
+  "published_at": "2026-11-06T18:47:00.000+09:00",
+  "collected_at": "2026-11-06T13:38:08.408Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

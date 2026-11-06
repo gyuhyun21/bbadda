@@ -1,0 +1,23 @@
+{
+  "id": "news-fc916553",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "한겨레",
+  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBYVHZqLTJXOWM5T3dxZHFlSkc4c2d1aTd6aDYxWGUtMHVuQ1dEdWpyYjJZZWZ0UHlGYUZfNDB0UEloMkN3dVN3NS1yQVBGcXhXMFlLVkl3b1lEbHlTN1NEaEQ2Y0dLamM?oc=5",
+  "title": "‘가을야구 3경기 선발 평균자책점 1.31’ 후라도, 사자 수호신 되다",
+  "published_at": "2026-11-06T13:17:00.000Z",
+  "collected_at": "2026-11-06T13:38:08.408Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

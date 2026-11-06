@@ -1,0 +1,23 @@
+{
+  "id": "news-c122ba48",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "OSEN",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBYeWx6RmpSUUNaeC1neUw5cExjMUladWJUS3FGS19JekJfbExpdTFXX2tveE8wdFdzRXZMUDh2VVRiWmdtQWVRZFVUbjl6eXpPZUFOUA?oc=5",
+  "title": "데뷔 첫 태극마크 20홈런 포수, 135m 결승홈런으로 눈도장 쾅! 이래서 신인상·GG 후보 “아직도 꿈만 같다”",
+  "published_at": "2026-11-06T10:40:00.000Z",
+  "collected_at": "2026-11-06T13:38:08.408Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

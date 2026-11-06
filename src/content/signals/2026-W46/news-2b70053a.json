@@ -1,0 +1,22 @@
+{
+  "id": "news-2b70053a",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스1",
+  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE45VHd1UEdLMXNDRjZ5bWU1azc0QVRtbkNqTVhCdlZrNTdQenVfWU1nX3czbm5BUzJhRlE4anplRThJbWFST1JzZU9RRHNrQWxhTFpRVWdYSQ?oc=5",
+  "title": "[뉴스1 PICK]삼성, 안방서 5대 1 완승… 한국시리즈 우승까지 2승",
+  "published_at": "2026-11-06T12:43:37.000Z",
+  "collected_at": "2026-11-06T13:38:08.408Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

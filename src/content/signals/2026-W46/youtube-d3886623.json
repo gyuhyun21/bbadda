@@ -1,0 +1,26 @@
+{
+  "id": "youtube-d3886623",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "무등산랑이",
+  "url": "https://www.youtube.com/watch?v=YGOSKyKLU_8",
+  "title": "꿈꾸던 선수가 되었나요? 나스타 나성범 #기아타이거즈 #야구 #kbo",
+  "published_at": "2026-11-06T13:33:38Z",
+  "collected_at": "2026-11-06T13:38:08.408Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 82,
+    "likes": 1,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 33,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

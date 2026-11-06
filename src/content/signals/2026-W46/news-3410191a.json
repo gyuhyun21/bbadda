@@ -1,0 +1,23 @@
+{
+  "id": "news-3410191a",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "중앙일보",
+  "url": "https://www.joongang.co.kr/article/25476452",
+  "title": "전력 질주 못해도 3루까지 달린 캡틴 구자욱… 삼성 KS 3차전 잡았다",
+  "published_at": "2026-11-06T12:19:10.000Z",
+  "collected_at": "2026-11-06T13:38:08.408Z",
+  "summary_ko": "중앙일보는 구자욱이 전력 질주가 어려운 몸 상태에서도 3루까지 달려 3차전 승리를 이끌었다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "구자욱, 3루까지 달렸다"
+}

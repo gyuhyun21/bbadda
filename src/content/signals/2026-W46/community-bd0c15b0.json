@@ -1,0 +1,23 @@
+{
+  "id": "community-bd0c15b0",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "community",
+  "source_name": "디시 야구 갤러리",
+  "url": "https://gall.dcinside.com/board/view/?id=skwyverns_new1&no=7297478",
+  "title": "SSG 랜더스",
+  "published_at": "2026-10-23T00:00:00.000Z",
+  "collected_at": "2026-11-06T13:38:08.408Z",
+  "summary_ko": "",
+  "excerpt": "... 삼겹살은 그냥 흰잡 존나 크게 퍼서 먹는게 존맛인데 쌈장 살짝 찍어서.",
+  "metrics": {},
+  "scores": {
+    "hot": 8,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

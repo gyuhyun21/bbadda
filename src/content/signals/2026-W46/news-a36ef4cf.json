@@ -1,0 +1,23 @@
+{
+  "id": "news-a36ef4cf",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠한국",
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1YaUI4aGJ0bjJxbC1lS2pDNVMyVGI1QjFRMEtYTmI3QjgxNXdzcjN5ckVKWXNraDBlXzUwd0dvV1RVSXBCVlNua2FtU0FOOHVCZUJhMTV1VmJua3NDOWc1TVpvSTZHdjlhTDI0WFFmZGHSAXRBVV95cUxOTXBuVFM4dFp5dkdUc3NlYWRZXzNQS2VGcmoyUG9xN21COEV1elNRVW1XTVk0QjZ0ZzBrOFctaWJVNVpaaFdwUDgwT0p4THJ5Uk5JVnA2OTBLLXJrNmxQWVRLNzRKWlhCR0o2OUdHLXBYU3pHNg?oc=5",
+  "title": "'2회까지 볼넷 5개' 소형준, 초반 제구 난조에 발목 잡혔다[KS3]",
+  "published_at": "2026-11-06T12:19:10.000Z",
+  "collected_at": "2026-11-06T13:38:08.408Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

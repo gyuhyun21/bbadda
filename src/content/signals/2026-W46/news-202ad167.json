@@ -1,0 +1,23 @@
+{
+  "id": "news-202ad167",
+  "issue": "2026-W46",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kt"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스핌",
+  "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB1RTQ3anI0Rk43eDQydmtmVVZKcWpSUFFra1psalNGRnByZFpHNUd3R2FzRWF2ejFVaGMyWGpMWnB5Zk1oRUtEUlE5TmtsSHJ6Zkp1Tzh2V3hieTJD?oc=5",
+  "title": "[AI그래픽] KBO KS 3차전, 삼성 박승규 8회 솔로포…삼성 5-1 KT",
+  "published_at": "2026-11-06T12:22:00.000Z",
+  "collected_at": "2026-11-06T13:38:08.408Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 80
+  },
+  "sentiment": "neutral"
+}

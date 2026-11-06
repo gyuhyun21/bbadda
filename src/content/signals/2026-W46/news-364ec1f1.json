@@ -1,0 +1,25 @@
+{
+  "id": "news-364ec1f1",
+  "issue": "2026-W46",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kt"
+  ],
+  "source_type": "news",
+  "announcement": true,
+  "source_name": "스타뉴스",
+  "url": "https://www.starnewskorea.com/sports/2026/11/06/2026110620540012680",
+  "title": "[오피셜] '2승 1패 리드' 삼성, 4차전 불펜 데이→선발은 장찬희였다! KT는 예상대로 로건",
+  "published_at": "2026-11-06T12:27:58.000Z",
+  "collected_at": "2026-11-06T13:38:08.408Z",
+  "summary_ko": "스타뉴스에 따르면 삼성은 4차전 선발로 장찬희를 냈고 KT는 로건이다. 삼성은 불펜 데이로 알려졌었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 92,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "4차전 선발 장찬희 확정"
+}

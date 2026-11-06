@@ -1,0 +1,53 @@
+{
+  "id": "community-89138846",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "다음카페 쭉빵카페",
+  "url": "https://cafe.daum.net/ok1221/8mNz/1205529",
+  "title": "3차전 시구 이승엽",
+  "published_at": "2026-11-06T16:31:28.000+09:00",
+  "collected_at": "2026-11-06T13:38:08.408Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 98,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB0QWp2NmpZSTZvcW9oc1RIcjNmUTgwNV9PUXpFalloODg1dTVmVWpTb3ZhZGtuUXZxWjVnN3JpRlhuek40TFBhbzFQMkFRNVpJZnRzVE9IcDdkdGxEdGRYRlJxSjJGQ2FRSWc4OURqNGdMdjZ3UTVsZdIBeEFVX3lxTFB0QWp2NmpZSTZvcW9oc1RIcjNmUTgwNV9PUXpFalloODg1dTVmVWpTb3ZhZGtuUXZxWjVnN3JpRlhuek40TFBhbzFQMkFRNVpJZnRzVE9IcDdkdGxEdGRYRlJxSjJGQ2FRSWc4OURqNGdMdjZ3UTVsZQ?oc=5"
+    },
+    {
+      "source_name": "동아일보",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9kSXFOTTY4ckNTZ1k2bmZNLXIyMFBnLVM3NmNjMnpmUlQ1MDFVUFJacDRzRVNfNTNyWmFvTU50dWhxRHZrMllBV0wwQ25kUWJydmNqRkc2RFRNZXZVLTFUZG1TeXFJZ9IBZkFVX3lxTE9kSXFOTTY4ckNTZ1k2bmZNLXIyMFBnLVM3NmNjMnpmUlQ1MDFVUFJacDRzRVNfNTNyWmFvTU50dWhxRHZrMllBV0wwQ25kUWJydmNqRkc2RFRNZXZVLTFUZG1TeXFJZw?oc=5"
+    },
+    {
+      "source_name": "스포츠동아",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB2X3V2cHhKMnRJbUd4eTZYV09rWkwtdnk5NW5paEl5SVZ0WUFKc21JNzdYRkVKaTVkeWJPcjZ0Q2ZzS2R5OEp4MXZib2JYNzMxZWJwakducjJfWEg0bmMyOFZYeGItamlRdThwYm0tZ3Zvdw?oc=5"
+    },
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVVZvSUYtQ2JhTmhDVEZnVGY3WjZPY0xlRkE0bWE0TnVlRmpLdFB0bTNfVEhHaFBxT3lTeTVzb2RlendjMi1HT3BjRnlxTDA2dHdYMDdOMExDc182XzN1VGNNd3V0UDJpam9waFVDSXJmanlxbHJva19zbDN2MldoZm9aUQ?oc=5"
+    },
+    {
+      "source_name": "연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1hZzRIV0hlbmllR1pmd0VrU0l1Nm1IN0VxdDBSQzlJemZtS3NFWkczT1J4Rzk3ZGlDdlZIdGhCV09fZ3ZHU0prQ1R2Wm80aXgyeEZBLWtoNDFmTlNWWjRoT9IBYEFVX3lxTE1hZzRIV0hlbmllR1pmd0VrU0l1Nm1IN0VxdDBSQzlJemZtS3NFWkczT1J4Rzk3ZGlDdlZIdGhCV09fZ3ZHU0prQ1R2Wm80aXgyeEZBLWtoNDFmTlNWWjRoTw?oc=5"
+    },
+    {
+      "source_name": "톱스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFByaUFBQ1RPRjd6NDlZUVFjZU5mSXJDR0VXS1lDNEgxNU5aYjBqX1QxU2VnQ3NZUHpUcDlYaURoQm1BdU9MZFFzcU14UFQ5emhqWklneEQ5RWw3OEhBdnFsal9fSjJ4WFk3a3JmbGl3VkNPQQ?oc=5"
+    },
+    {
+      "source_name": "경북신문",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9FcXJzeWJIUzBkY19rLWZXT1lSb2dYRndnc3RXOG96SjlENWlQM3B1NkUwdnNBVlJKMDFsMTJvbGJZbXBBempuU2pMeDdZaGo3VjV4WWdNZlM?oc=5"
+    }
+  ]
+}

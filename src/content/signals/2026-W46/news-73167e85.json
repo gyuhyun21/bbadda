@@ -1,0 +1,23 @@
+{
+  "id": "news-73167e85",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "news",
+  "source_name": "조선일보",
+  "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMjVKaEg1cU1YQkZUNEZWS1Rtbk5HSWRlZ05RQi1pOGVSOGNVbUU2QmlCZDBwVUxJZkota1FxRkxZQmxYSzZJcW84TlZFWnFxa1JXVnhCNUtTN1NpOEFidy1nc1J2bnZZYTlUYWFwdDVhRFl0VG5FVFJ2b0hyeGJheFRTUFdFb0J3RVRJ?oc=5",
+  "title": "송성문 영입한 SD, 노시환에도 관심?…그런데 3루수 경쟁이 아니다, \"긍정적 영향 줄 수 있다\"",
+  "published_at": "2026-11-06T10:27:00.000Z",
+  "collected_at": "2026-11-06T13:38:08.408Z",
+  "summary_ko": "조선일보는 송성문을 영입한 샌디에이고가 노시환에도 관심을 보일 수 있다고 전했다. 3루수 경쟁이 아니라는 시각도 함께 실렸다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "SD, 노시환에도 관심?"
+}

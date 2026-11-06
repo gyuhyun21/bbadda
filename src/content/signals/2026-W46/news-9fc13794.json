@@ -1,0 +1,29 @@
+{
+  "id": "news-9fc13794",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "news",
+  "source_name": "스타뉴스",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9qOTBxUHRRaWpqQ1J5ZzJxNm5WOVVWSEp6RXdlZktXbV9YMXdxN2l4QklPZHFWZGk1SlN6WlVfazMtTktLYlg0QTczSW1RNG5yWVlIWHFfRk9pSEVuZi1sNkIzQ1FDc1p5ajZVWndnOFFDbG45NHc?oc=5",
+  "title": "'KT 대형 악재' 208안타 최원준, 전격 제외! 후라도와 '재회' 불발되나... 이강철 \"손이 부었다→중요할 때 대타로\" [KS3 현장]",
+  "published_at": "2026-11-06T08:12:54.000Z",
+  "collected_at": "2026-11-06T13:38:08.408Z",
+  "summary_ko": "스타뉴스에 따르면 KT 최원준이 3차전 선발에서 빠졌다. 이강철 감독은 손이 부었다며 중요할 때 대타로 쓰겠다고 했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9RMGFLODQxalBzMGFCU3RSNlNEdnMzdEpieDF4U2JTbjRqeFl4WUJMdUN1LUc4TmpzOFhXdDNpRTM1Z0JvMlhmWElTVEVwVklVcXFJcGVkZlBYYnhacU51bl9lZENrT1JvYmIwRF8xWVFzTnVYZXhaZdIBeEFVX3lxTE9RMGFLODQxalBzMGFCU3RSNlNEdnMzdEpieDF4U2JTbjRqeFl4WUJMdUN1LUc4TmpzOFhXdDNpRTM1Z0JvMlhmWElTVEVwVklVcXFJcGVkZlBYYnhacU51bl9lZENrT1JvYmIwRF8xWVFzTnVYZXhaZQ?oc=5"
+    }
+  ],
+  "brief_ko": "최원준, 손 부기로 선발 제외"
+}

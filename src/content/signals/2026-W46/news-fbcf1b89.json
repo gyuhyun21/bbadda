@@ -1,0 +1,23 @@
+{
+  "id": "news-fbcf1b89",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "news",
+  "source_name": "뉴시스",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1oNXI0a3FVOE1LMzNaQjl6M1pvUnVULUVfVGpYMGt2aWs4S0YzaV94YTUtb1JZOEtydzRSem9YalQ2WHNXcW9pQmtCRVpCRVVqQkxZX0U2YzBjTzdlU2liedIBeEFVX3lxTFB6RXh6bXZaMWlSZUlsT0hQWEt2UDAwSDl1Nl9MRTBqNWlmdW1ZV2lmeGduTkNZLW9fd281YnhqM0ppa2hWRXprNzZ5V0QwdVJFUUUxbmZjbGZMdUxrcFlTZ0tBdlV1NmtCcVlrZGlwNjd1VFdkRnB6Rw?oc=5",
+  "title": "'늦게 잡힌 영점' KT 소형준, 6이닝 4실점…2회까지 볼넷 5개 '흔들'[KS]",
+  "published_at": "2026-11-06T11:45:28.000Z",
+  "collected_at": "2026-11-06T13:38:08.408Z",
+  "summary_ko": "뉴시스에 따르면 KT 소형준이 6이닝 4실점으로 물러났다. 2회까지 볼넷이 5개 나왔다.",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "소형준, 2회까지 볼넷 5개"
+}

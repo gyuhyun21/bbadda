@@ -1,0 +1,22 @@
+{
+  "id": "news-4d366ea8",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "매일신문",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1IbTRVNzgtQXNwX2tJYVNNTVByY0hHZTNaWjhhLWlWZHA4X2I0NmVfQVZWLVdHRjRmeHgxY2NhcWFEWFBJYkdVUFNqOEpxNUJrcVJSa0hJOFcwNFl1T3FjRXp3?oc=5",
+  "title": "연장 12회 혈투 끝 삼성이 이겼다…이제 한국시리즈 대구 3연전",
+  "published_at": "2026-11-06T07:08:32.000Z",
+  "collected_at": "2026-11-06T13:38:08.408Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 80
+  },
+  "sentiment": "neutral"
+}

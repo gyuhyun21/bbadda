@@ -1,0 +1,24 @@
+{
+  "id": "news-5f38c015",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "연합뉴스",
+  "url": "https://www.yna.co.kr/view/AKR20261106185851007",
+  "title": "'헌신의 아이콘' 삼성 후라도, PO이어 KS까지…최고의 역투(종합)",
+  "published_at": "2026-11-06T13:20:01.000Z",
+  "collected_at": "2026-11-06T13:38:08.408Z",
+  "summary_ko": "연합뉴스는 후라도가 플레이오프에 이어 한국시리즈에서도 최고의 투구를 했다고 전했다. 스포츠조선에 따르면 7이닝 1실점으로 3경기 연속 퀄리티스타트다.",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "후라도, 3경기 연속 QS",
+  "hook_ko": "가을 3경기 선발 ERA 1.31, 후라도"
+}

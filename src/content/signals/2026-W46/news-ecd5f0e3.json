@@ -1,0 +1,24 @@
+{
+  "id": "news-ecd5f0e3",
+  "issue": "2026-W46",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA1ZXlUdzJ4VUdoMHI4Mk9Mb3pFWWUtS1lfNmNRdUY4b2pNSm5ibXV6NmotSzVLOFdkdm9xd213UElDZEJoTmhRR1RqZ0NkbVBaVEFOZVBzX0lxTFhER2hZVFJKMEQ5dnJiOUHSAW9BVV95cUxPbjF4TWtjV1lvSUwzLUNMaUdvT3ZDVUpSRmhVRHhUakc0Z19YemhHbEZsY0Z0YlJ4SDZhbHNYOGJvRWFWX2hVejdTVmFicnVFTnlMRUdNNXlCb3U4ZjNqNEZ3cS1nM2k0eVhVRHpPRG8?oc=5",
+  "title": "[포토] 이강철 감독, 쓸쓸한 패장 인터뷰",
+  "published_at": "2026-11-06T12:52:17.000Z",
+  "collected_at": "2026-11-06T13:38:08.408Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "community-c88dd3cb",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "다음카페 樂soccer",
+  "url": "https://cafe.daum.net/rocksoccer/ADuT/372990",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/ZYr58Br67z",
+  "title": "한국시리즈 마지막 업셋",
+  "published_at": "2026-11-06T21:31:24.000+09:00",
+  "collected_at": "2026-11-06T13:38:08.408Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}
