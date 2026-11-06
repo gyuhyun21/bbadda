@@ -1,0 +1,23 @@
+{
+  "id": "community-523d4d04",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kt"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 루리의 줍줍 | 궁금한 것 한 곳에 정리",
+  "url": "https://blog.naver.com/sung2011103/224467867929",
+  "title": "한국시리즈 2차전 삼성 kt 3-2 연장 12회 결과 (11/04 수원)",
+  "published_at": "2026-11-07T02:53:00.000+09:00",
+  "collected_at": "2026-11-06T21:38:41.079Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

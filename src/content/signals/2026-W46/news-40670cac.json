@@ -1,0 +1,29 @@
+{
+  "id": "news-40670cac",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스타뉴스",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5QMXZiT2hmXzQ1Q2ZjZ1ZNWFBJT2NWUmFaczhsRHV0c1dkZ0JVLWhPZF9kaWxuWDJaRlVZenRCNDhJNk9QUXZyNHB1RzFBR1otM2ZIZ3pYU3JJeEtTREFZZkxSMFFrUDJ3LTRFZW5OcDhVdm81eFE?oc=5",
+  "title": "\"日 스태프 중 김도영 모르는 사람 없었다\" 韓·日 626홈런 전설 이승엽 찬사, 라이언킹 눈에도 한국은 좁다",
+  "published_at": "2026-11-06T18:33:00.000Z",
+  "collected_at": "2026-11-06T21:38:41.079Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9pMEQyVDV4V25zOHhWb2lGcDBUX0dVZkV5R3VTcVNma3pBNFpvdlZvTld1OXlwRW9zZ3FTMF9DZjlQdFVzOXVMaEV4em1iV29GZmU2SWYtNjlaX3JpZ2xjSHF3d1BpQ2NGZ1QwSE5wa9IBb0FVX3lxTE9pMEQyVDV4V25zOHhWb2lGcDBUX0dVZkV5R3VTcVNma3pBNFpvdlZvTld1OXlwRW9zZ3FTMF9DZjlQdFVzOXVMaEV4em1iV29GZmU2SWYtNjlaX3JpZ2xjSHF3d1BpQ2NGZ1QwSE5waw?oc=5"
+    }
+  ]
+}

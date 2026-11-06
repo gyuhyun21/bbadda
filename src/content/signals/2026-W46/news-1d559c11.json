@@ -1,0 +1,29 @@
+{
+  "id": "news-1d559c11",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://www.mt.co.kr/sports/2026/11/07/202611070115778703O",
+  "title": "“삼성 떠났지만 애정은 더 커졌다” 방출된 日 투수의 특별한 라팍 방문…“다시 한국에서 뛰고 싶다” [KS3]",
+  "published_at": "2026-11-06T20:40:00.000Z",
+  "collected_at": "2026-11-06T21:38:41.079Z",
+  "summary_ko": "머니투데이는 삼성에서 방출된 일본인 투수가 3차전을 앞두고 라팍을 찾았다고 전했다. 다시 한국에서 뛰고 싶다는 뜻을 밝혔다.",
+  "metrics": {},
+  "scores": {
+    "hot": 84,
+    "relevance": 70
+  },
+  "sentiment": "negative",
+  "also_in": [
+    {
+      "source_name": "OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE45NlpqUVcxS1lsS2lHY1ItTkdvTjBBd1Y5dnc2cTdzR2IxWGpvNUJZS1EzMHlnampRTktvLWY4V3dpZjBGSmRnSG1TY1QwUVBUV2ktSA?oc=5"
+    }
+  ],
+  "brief_ko": "방출된 日 투수의 라팍 방문"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "youtube-90031f47",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "Freedom-d tv",
+  "url": "https://www.youtube.com/watch?v=bAYFt2IKJyA",
+  "title": "추위 잊게 만든 후라도의 마구 #삼성라이온즈 #야구 #이슈 #프로야구 #sports",
+  "published_at": "2026-11-06T17:08:58Z",
+  "collected_at": "2026-11-06T21:38:41.079Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1238,
+    "likes": 23,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 54,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "youtube-9a8f5dc7",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt",
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "TVING SPORTS",
+  "url": "https://www.youtube.com/watch?v=wusb6vZ5fNc",
+  "title": "[팬덤중계] KT팬 맞습니다...!ㅣKS 3차전 KT vs 삼성ㅣ#shortsㅣTVINGSPORTS",
+  "published_at": "2026-11-06T18:33:16Z",
+  "collected_at": "2026-11-06T21:38:41.079Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1516,
+    "likes": 12,
+    "comments": 5
+  },
+  "scores": {
+    "hot": 49,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

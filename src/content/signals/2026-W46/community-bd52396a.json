@@ -1,0 +1,23 @@
+{
+  "id": "community-bd52396a",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 스포츠에 빠지다",
+  "url": "https://blog.naver.com/spdlqj12620/224465313429",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/6MUR2D5c5t4",
+  "title": "\"64억 주고 데려왔던 그 선수..\" NC, 방출 8일 만에 다시 부른 '충격 연봉' 정체",
+  "published_at": "2026-11-07T01:40:00.000+09:00",
+  "collected_at": "2026-11-06T21:38:41.079Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

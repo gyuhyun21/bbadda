@@ -1,0 +1,27 @@
+{
+  "id": "youtube-5bfb3f3d",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kt"
+  ],
+  "source_type": "youtube",
+  "source_name": "바니차니정보",
+  "url": "https://www.youtube.com/watch?v=mB8w7jgcQjw",
+  "title": "삼성 vs KT 4차전! 이기면 87.5%, 지면 50%? 우승의 갈림길",
+  "published_at": "2026-11-06T14:30:13Z",
+  "collected_at": "2026-11-06T21:41:13.206Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1002,
+    "likes": 6,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 60,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

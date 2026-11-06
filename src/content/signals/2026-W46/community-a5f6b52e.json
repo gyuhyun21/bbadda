@@ -1,0 +1,24 @@
+{
+  "id": "community-a5f6b52e",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 하또의 취향지도",
+  "url": "https://blog.naver.com/dorado05/224467774179",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/xMN6FQXORx",
+  "title": "호멜맥주 3호점 후기｜서울 야구 중계 보기 좋은 노량진 야구펍",
+  "published_at": "2026-11-07T00:06:00.000+09:00",
+  "collected_at": "2026-11-06T21:38:41.079Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

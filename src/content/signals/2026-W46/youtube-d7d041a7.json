@@ -1,0 +1,27 @@
+{
+  "id": "youtube-d7d041a7",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kt"
+  ],
+  "source_type": "youtube",
+  "source_name": "숏리포트",
+  "url": "https://www.youtube.com/watch?v=k9HMwoPS5ng",
+  "title": "안타 4개로 5점, 2회까지 볼넷 5개가 갈랐다 | 한국시리즈 3차전 삼성 5:1 KT",
+  "published_at": "2026-11-06T17:34:54Z",
+  "collected_at": "2026-11-06T21:41:13.206Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1645,
+    "likes": 6,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

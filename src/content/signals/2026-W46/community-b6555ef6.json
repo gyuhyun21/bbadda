@@ -1,0 +1,23 @@
+{
+  "id": "community-b6555ef6",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 오늘의 스포츠픽",
+  "url": "https://blog.naver.com/forehfrhdiddl/224467725555",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/9Jeq6MOlsnc",
+  "title": "\"너무 잘 쳐서 오히려 타석을 줄인다고?\" KIA 김도영이 대표팀 첫 경기부터 보여준 놀라운 타격감...",
+  "published_at": "2026-11-07T02:00:00.000+09:00",
+  "collected_at": "2026-11-06T21:41:13.206Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "community-87b94399",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "엠엘비파크",
+  "url": "https://mlbpark.donga.com/mp/b.php?id=202611060119927310&p=61&b=bullpen&m=view&site=donga.com&pos=reply",
+  "title": "7이닝 1실점 vs 9이닝 3실점",
+  "published_at": "2026-11-05T15:00:00.000Z",
+  "collected_at": "2026-11-06T21:38:41.079Z",
+  "summary_ko": "",
+  "excerpt": "... ... 두산베어스2026-11-06 16:32IP: 121.129.*.185. 댓글. 닥전. vedana2026-11-06 16:33IP: 211.255.*.68. 댓글. 리그 평자에 따라 다르겠지만,…",
+  "metrics": {},
+  "scores": {
+    "hot": 57,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

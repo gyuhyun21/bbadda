@@ -1,0 +1,24 @@
+{
+  "id": "community-e9de7068",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 로아의 세상사는 이야기",
+  "url": "https://blog.naver.com/newwingsh/224467891908",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/HOe4KwuT6bz",
+  "title": "[프로야구] “손 괜찮냐” 물었는데 돌아온 말…강민호가 아픈 옆구리 붙잡고 기다린 23년",
+  "published_at": "2026-11-07T03:34:00.000+09:00",
+  "collected_at": "2026-11-06T21:41:13.206Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

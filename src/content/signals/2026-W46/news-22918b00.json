@@ -1,0 +1,23 @@
+{
+  "id": "news-22918b00",
+  "issue": "2026-W46",
+  "module": "league",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "www.xportsnews.com",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9QQlc0T3B3ZklHaVliaXhUaEJaZi1IT1NpeWY4dnFDTVZkWDhJUEw0eHUyOHc3UGU1TllNYWtpZkJkX0tDeTFSOTlHdlJweTFYalc5aw?oc=5",
+  "title": "'무려 19년 만에' 韓 최고 무대에 고졸신인 선발 탄생…\"오승환보다 더 포커페이스\" 사령탑 극찬한 멘털로 '3연승' 이끄나 [KS3]",
+  "published_at": "2026-11-06T17:33:58.000Z",
+  "collected_at": "2026-11-06T21:38:41.079Z",
+  "summary_ko": "엑스포츠뉴스에 따르면 4차전에 고졸 신인이 선발로 나선다. 한국시리즈에서 고졸 신인 선발은 19년 만이다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 30
+  },
+  "sentiment": "positive",
+  "team": "samsung",
+  "brief_ko": "고졸 신인, 19년 만의 KS 선발"
+}

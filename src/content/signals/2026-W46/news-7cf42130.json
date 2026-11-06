@@ -1,0 +1,23 @@
+{
+  "id": "news-7cf42130",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "조선일보",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMmtjQmdiZElEYXZ1REZzYmNKY3RBMzFMS0dpTmplLURHcS1ZX2FaM3RQdDNMN1VLeWtzaXRyNEhJaTM2anpvY3hTUmxRMVVwdlJKOUxOaC0zRW5ndlhHSUswS0h5eDJCVFZhVXF1TUZPWWR0U3lhaWZ5TWlWQ3NtNlBEMA?oc=5",
+  "title": "'극과극' 소름돋는 대반전! '영점' 잃고 5볼넷 대난조 → 13타자 셧다운 '불꽃투'…온실 속 도련님 아니다 [대구리포트]",
+  "published_at": "2026-11-06T17:31:00.000Z",
+  "collected_at": "2026-11-06T21:38:41.079Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "youtube-14e60d37",
+  "issue": "2026-W46",
+  "module": "league",
+  "teams": [
+    "samsung",
+    "kt"
+  ],
+  "team": "samsung",
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=JZfcqiJCA7I",
+  "title": "삼성 마운드의 에이스! 후라도의 탈삼진 모음집!!!!!! | KS3_KT vs 삼성 | 11.6 | 크보모먼트 | KBO 야구 하이라이트",
+  "published_at": "2026-11-06T13:39:06Z",
+  "collected_at": "2026-11-06T21:38:41.079Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 12311,
+    "likes": 203,
+    "comments": 26
+  },
+  "scores": {
+    "hot": 66,
+    "relevance": 80
+  },
+  "sentiment": "neutral"
+}

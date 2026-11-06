@@ -1,0 +1,29 @@
+{
+  "id": "news-c5ab3b88",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스타뉴스",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5xbjBmQjJRWUQ1UDRnS3dCVGlpSktEc0gwS291YjVXYndsOE1TMkZGcm1yUDVxQXZiaGNpZVdVQWE4MVJYekJsMjBqX25VN1VzLVRMNS04dXVxdVhiMjJmS1RaNzZPTWo1SFY3d3lSaXBUSHJxM2c?oc=5",
+  "title": "'이럴수가' 알고보니 가을야구 9G 만에 첫 패전이라니! 이강철도 아쉽다 \"그런 볼넷 안 던지는 투수인데...\" [KS3 현장]",
+  "published_at": "2026-11-06T18:33:00.000Z",
+  "collected_at": "2026-11-06T21:38:41.079Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 99,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE15QWpjQWNQdk83M010TDVlLWF4ejNJZXdyeGl4VHZQdnhNTU16UVg0SGR3V00zMmhmbDlrdWRSOHVMVUQ0ZWwtcWVGbzh5Y1ZFQ1c3QzVBOEhSVTJFRFBjemxiRkdFdmxGUEI2WHlSONIBb0FVX3lxTE15QWpjQWNQdk83M010TDVlLWF4ejNJZXdyeGl4VHZQdnhNTU16UVg0SGR3V00zMmhmbDlrdWRSOHVMVUQ0ZWwtcWVGbzh5Y1ZFQ1c3QzVBOEhSVTJFRFBjemxiRkdFdmxGUEI2WHlSOA?oc=5"
+    }
+  ]
+}

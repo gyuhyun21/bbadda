@@ -1,0 +1,24 @@
+{
+  "id": "community-b730c69c",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "엠엘비파크",
+  "url": "https://mlbpark.donga.com/mp/b.php?id=202611060119921115&p=271&b=kbotown&m=view&site=donga.com&pos=reply",
+  "title": "손성빈 부상에 대한 의문점",
+  "published_at": "2026-11-06T00:38:41.079Z",
+  "collected_at": "2026-11-06T21:38:41.079Z",
+  "summary_ko": "",
+  "excerpt": "... 중지 힘줄을 감싸고 있는 막이 손상되었고 최근 보도에 따르면 중지위치까지 이탈되어 있던걸…",
+  "metrics": {},
+  "scores": {
+    "hot": 61,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

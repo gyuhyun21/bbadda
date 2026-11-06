@@ -1,0 +1,23 @@
+{
+  "id": "news-594119bd",
+  "issue": "2026-W46",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kt"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스핌",
+  "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9GYTZrRF9ra3VmbGJhM2ZaVER6ZzFoR05JS3hnMTFxalA1RUxTdVJwdlhtc3pISC0wRWMwZExvcGIyVkxwUF9QcnZvcmN3cDFMRGJjZkJwQmprUm4w?oc=5",
+  "title": "[KS 포커스] 엇갈린 스타의 명암...삼성 구자욱 훨훨, KT 안현민 침묵",
+  "published_at": "2026-11-06T21:12:00.000Z",
+  "collected_at": "2026-11-06T21:38:41.079Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

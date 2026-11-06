@@ -1,0 +1,23 @@
+{
+  "id": "news-ef0c22c3",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "미주중앙일보",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE02bWNkNGU0YnRpb2FWcG5YZ21fWlp2VXAwbjYyLTFsblZVLTNOZl9CaXBpT3hKT3J6RUlHR2VqYjM5QS1UcUNPbU1LdWJpdnEwR0tQMW9Cel94NVA0dmpYMGFR?oc=5",
+  "title": "“어릴 적 영웅이 지켜보고 있었다” 부상 잊고 내달린 구자욱, 이승엽도 감탄한 진정한 리더의 품격 [KS3]",
+  "published_at": "2026-11-06T15:10:00.000Z",
+  "collected_at": "2026-11-06T21:41:13.206Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

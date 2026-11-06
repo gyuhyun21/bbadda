@@ -1,0 +1,24 @@
+{
+  "id": "community-eab039cd",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kt"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 뚜캠@dducam 이슈&취미",
+  "url": "https://blog.naver.com/ddu_cam/224467942960",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/BebbIPkVrvE",
+  "title": "삼성 KT 꺾고 한국시리즈 2승 1패! 구자욱 결승 3루타·후라도 7이닝 역투, 우승까지 단 2승!",
+  "published_at": "2026-11-07T05:52:00.000+09:00",
+  "collected_at": "2026-11-06T21:38:41.079Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

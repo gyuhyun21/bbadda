@@ -1,0 +1,27 @@
+{
+  "id": "youtube-478bd224",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "강릉뉴스",
+  "url": "https://www.youtube.com/watch?v=5p8mZ4TTWiw",
+  "title": "삼성, 후라도·구자욱 앞세워 2승1패…7일 4차전 장찬희 vs 로건 ‘초반이 승부처’ #삼성 #후라도 #구자욱 #2승 1패 #7일 #4차전 #장찬희 #로건 #KT #한국시리즈",
+  "published_at": "2026-11-06T14:23:05Z",
+  "collected_at": "2026-11-06T21:38:41.079Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1327,
+    "likes": 7,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 43,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}
