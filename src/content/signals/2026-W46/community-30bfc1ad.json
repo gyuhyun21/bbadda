@@ -1,0 +1,24 @@
+{
+  "id": "community-30bfc1ad",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "엠엘비파크",
+  "url": "https://mlbpark.donga.com/mp/b.php?id=202611060119920869&p=91&b=kbotown&m=view&select=spf&query=LG&site=donga.com",
+  "title": "벌써 스토브리그네요ㅎㅎ",
+  "published_at": "2026-11-05T23:41:13.206Z",
+  "collected_at": "2026-11-06T21:41:13.206Z",
+  "summary_ko": "",
+  "excerpt": "... ... 삼성; 키움; 한화; KIA; kt; LG; NC; SSG; KBO; 방송; 아마야구; 포시; 스캠…",
+  "metrics": {},
+  "scores": {
+    "hot": 60,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "community-c1ba4ce7",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kt"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 소중한 하루",
+  "url": "https://blog.naver.com/chui521/224467932641",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/H0J2OX8fPdo",
+  "title": "⚾ 2026 KBO 한국시리즈 3차전 삼성 5:1 KT 완승! 후라도 호투·구자욱 결승타…오늘 4차전 경기 안내",
+  "published_at": "2026-11-07T05:19:00.000+09:00",
+  "collected_at": "2026-11-06T21:38:41.079Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "community-1d2459af",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 포츠B",
+  "url": "https://blog.naver.com/pochitta/224467885333",
+  "title": "“삼성 우승 확률 88.9%” 아픈 다리로 3루까지 뛰어버린 외야수",
+  "published_at": "2026-11-07T02:56:00.000+09:00",
+  "collected_at": "2026-11-06T21:38:41.079Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

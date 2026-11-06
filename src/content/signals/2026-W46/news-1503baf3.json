@@ -1,0 +1,29 @@
+{
+  "id": "news-1503baf3",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE51RTVCc0pJb0wycWhVRXNsdm1sQXFEUWxsX1NoX2V0N0p3b3c3OXE0UHoxODlpaHRVdERBc0FWWG94LWJyeV9YMnUyZmhzazNKeU44MXlMdlBsRjhuMXZkdjg3aVh4S2NydmJ6UVZQa1RLczBqTVNWbGQtYUxDUQ?oc=5",
+  "title": "\"민호 형도 아픈데 나도 무조건 던진다\" 손등 맞고도 \"별거 아니다\" 이 투수도 상남자, 투혼의 7이닝 역투[KS3]",
+  "published_at": "2026-11-06T13:24:20.000Z",
+  "collected_at": "2026-11-06T21:38:41.079Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 81,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQR2E1TzY2Q0tYZm5LRkpURjIxWEhSYXJ1c3VZYmQxSkJESmY0UlNJdmJmTklJOWdnbHJHYnNZMU1aOXZzY1lrRTZkQnF6MlZJSko4dFdPaDloTmpRUVI4SmVhdzBVM285RjN1VHdDbDc5VWRFbmV3cFB0ajFOMFRnR0N1TQ?oc=5"
+    }
+  ]
+}

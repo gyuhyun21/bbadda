@@ -1,0 +1,24 @@
+{
+  "id": "community-3beab1b3",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 큰눈 세상",
+  "url": "https://blog.naver.com/dddap74/224467767831",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/Ixe8uNlcax2",
+  "title": "\"우리나라 레벨이 아니라고?\" 이승엽도 감탄한 김도영, 대표팀 오자마자 136m 홈런 폭발",
+  "published_at": "2026-11-06T23:51:00.000+09:00",
+  "collected_at": "2026-11-06T21:38:41.079Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

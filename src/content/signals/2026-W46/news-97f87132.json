@@ -1,0 +1,23 @@
+{
+  "id": "news-97f87132",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "미주중앙일보",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4wOTFVU0xtSHEtWkpzdFNuMlFCaGl0VFVvck5MQ2pkdXlneHhuOGVLcmR2WDlNWlYtYWRvdGNiTzBYb0EtbFNiYjRiMDFBdUljcEx4TkFpV09ZbS1nNDFKc1JB?oc=5",
+  "title": "“넘어가라, 넘어가라 간절히 바랐다” KS 첫 홈런 터뜨린 박승규, 짜릿했던 그 순간 [KS3]",
+  "published_at": "2026-11-06T17:40:00.000Z",
+  "collected_at": "2026-11-06T21:38:41.079Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

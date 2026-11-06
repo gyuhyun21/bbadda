@@ -1,0 +1,23 @@
+{
+  "id": "community-f1d871e2",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 오늘의 스포츠픽",
+  "url": "https://blog.naver.com/forehfrhdiddl/224467729975",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/84uqX8LT257",
+  "title": "\"타선이 안 도와줬다는 말도 안 하네?\" 롯데 박세웅이 3승 9패 뒤 인정한 자신의 문제! 새 감독과...",
+  "published_at": "2026-11-07T04:16:00.000+09:00",
+  "collected_at": "2026-11-06T21:38:41.079Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

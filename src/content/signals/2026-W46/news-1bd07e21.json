@@ -1,0 +1,25 @@
+{
+  "id": "news-1bd07e21",
+  "issue": "2026-W46",
+  "module": "rivalry",
+  "team": "hanwha",
+  "teams": [
+    "hanwha",
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "마이데일리",
+  "url": "https://www.mydaily.co.kr/page/view/2026110622280487588",
+  "title": "“노시환 타격자세 좋은데 헛스윙 많고 3루 수비 우려” 美냉정하네…마이애미 or 피츠버그 or신시내티가 307억원 포기하게 할까",
+  "published_at": "2026-11-06T21:00:00.000Z",
+  "collected_at": "2026-11-06T21:38:41.079Z",
+  "summary_ko": "제목에 따르면 미국 쪽은 노시환의 타격 자세는 좋지만 헛스윙이 많고 3루 수비는 우려된다고 평가했다. 마이애미·피츠버그·신시내티가 거론된 해외 평가다.",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "노시환, 美의 냉정한 평가"
+}

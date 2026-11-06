@@ -1,0 +1,29 @@
+{
+  "id": "news-2409b7dc",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "news",
+  "source_name": "스타뉴스",
+  "url": "https://www.starnewskorea.com/sports/2026/11/07/2026110610472363068",
+  "title": "'첫 6이닝 8득점→23이닝 3득점이라니' 득점·타율·출루율 1위 KT 방망이 왜 식었나 [KS3 현장]",
+  "published_at": "2026-11-06T16:14:16.000Z",
+  "collected_at": "2026-11-06T21:38:41.079Z",
+  "summary_ko": "스타뉴스는 1차전 6이닝 8득점을 낸 KT 방망이가 이후 23이닝 3득점에 그쳤다며 타선이 식은 이유를 짚었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 90,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE82R2hCUlBlNzFpRlJBUnByVDFBUTA2UmNLbWRXUFFadFJRTVFybVBtQTk5U3lPbjVQZGVyZDRrdFJOTGp1blNTYVlIQjJjTWY5Z0RJV2lhd3U2RVI1NXJqM0pZcHVJNWhfSHfSAW9BVV95cUxObExjbl9NRXNONEdfRjJ5MWI3ZWpKdWFDV2F6bGJWbC1lUEV1Z0dFUk9ZNHpOQXluU2pMSUlfX2tqdDVKMTR2dDVzT1hNVTA3X092dWJxWllMVHVFZkRyQ0lfdERINnFXMHFDY0FTOG8?oc=5"
+    }
+  ],
+  "brief_ko": "23이닝 3득점, 식은 방망이"
+}

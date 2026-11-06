@@ -1,0 +1,23 @@
+{
+  "id": "news-2eff2155",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "재경일보",
+  "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5MRFhEX1BYYnNKaFFlRldWWUpjRTNtV1I2S0dNLW1mR281QmQ1ZThHVHhIS19TU25xdG1TdGdNN0dfT043bm5UQl9sTQ?oc=5",
+  "title": "이승엽 첫 라팍 시구…“강민호에게 우승하라고 했다” : 스포츠",
+  "published_at": "2026-11-06T13:33:12.000Z",
+  "collected_at": "2026-11-06T21:38:41.079Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

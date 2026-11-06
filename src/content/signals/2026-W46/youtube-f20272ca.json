@@ -1,0 +1,26 @@
+{
+  "id": "youtube-f20272ca",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "코리아 언리미티드",
+  "url": "https://www.youtube.com/watch?v=VLf27BzbglY",
+  "title": "KIA 타이거즈 초대형 변화 예고! 오키나와 캠프에서 발견한 새로운 3루수 희망… 2027시즌 주전 경쟁 대격돌 시작됐다!",
+  "published_at": "2026-11-06T21:00:16Z",
+  "collected_at": "2026-11-06T21:38:41.079Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 160,
+    "likes": 4,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 53,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

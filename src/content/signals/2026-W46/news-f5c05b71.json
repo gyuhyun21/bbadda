@@ -1,0 +1,22 @@
+{
+  "id": "news-f5c05b71",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "마이데일리",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1OWTNCcDB4S3ZkUzVRNDVDWjRZbnBmOXlTX1kweDc5RVc0LXE4TXVmdmlhdFB2OEVteUZBeXhiWHI2MUktdThhREo2TDhqSDlsUzNORS11cmVEZ21teGxQYw?oc=5",
+  "title": "삼성 화력 美쳤다, 승률왕 'KS 불명예 타이'→2회까지 4실점…13타자 연속 퍼펙트 반전 무엇? [MD대구 KS3]",
+  "published_at": "2026-11-06T11:49:00.000Z",
+  "collected_at": "2026-11-06T21:38:41.079Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 80
+  },
+  "sentiment": "neutral"
+}

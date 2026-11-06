@@ -1,0 +1,26 @@
+{
+  "id": "youtube-0ceab960",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "국대오승환",
+  "url": "https://www.youtube.com/watch?v=UtRZ23dHbXY",
+  "title": "삼성라이온즈 포스트시즌 영구결번 시구시 승률 100프로?",
+  "published_at": "2026-11-06T17:54:50Z",
+  "collected_at": "2026-11-06T21:38:41.079Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1192,
+    "likes": 10,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 46,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

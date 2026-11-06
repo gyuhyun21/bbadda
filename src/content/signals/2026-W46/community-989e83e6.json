@@ -1,0 +1,23 @@
+{
+  "id": "community-989e83e6",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 스포츠에미친인간",
+  "url": "https://blog.naver.com/ryan901/224467787182",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/La7NlCmBmIq",
+  "title": "\"복귀하면 바로 롯데 필승조\" 구속 156km까지 찍은 1라운더 우완",
+  "published_at": "2026-11-07T00:14:00.000+09:00",
+  "collected_at": "2026-11-06T21:38:41.079Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

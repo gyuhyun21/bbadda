@@ -1,0 +1,22 @@
+{
+  "id": "news-dbf9c353",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "연합뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1XSl9COW81Ym5td2d1YnE5SXpmVTluai1JZWlIUGFTTml6NzNmRDRaZm14MHNFOUhQRkxXN0xLM2syR0R2NlJEYzdLS3lxSXBld3pxSk1mRmpNMWVsTE9BaNIBYEFVX3lxTE1XSl9COW81Ym5td2d1YnE5SXpmVTluai1JZWlIUGFTTml6NzNmRDRaZm14MHNFOUhQRkxXN0xLM2syR0R2NlJEYzdLS3lxSXBld3pxSk1mRmpNMWVsTE9BaA?oc=5",
+  "title": "삼성 배찬승, 첫 PS 세이브에 포효 \"좀 더 멋있게 해보겠다\"",
+  "published_at": "2026-11-06T07:02:27.000Z",
+  "collected_at": "2026-11-06T21:41:13.206Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 71,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

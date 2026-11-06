@@ -1,0 +1,27 @@
+{
+  "id": "youtube-966d2e6b",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "youtube",
+  "source_name": "그럴만두",
+  "url": "https://www.youtube.com/watch?v=2YuzAN0CYQM",
+  "title": "두산 야구 없는 동안 우리가 야구 할게",
+  "published_at": "2026-11-06T14:04:18Z",
+  "collected_at": "2026-11-06T21:38:41.079Z",
+  "summary_ko": "한 팬 채널이 두산 야구가 없는 동안 직접 야구를 해 보겠다는 영상을 올렸다.",
+  "metrics": {
+    "views": 1760,
+    "likes": 4,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 42,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "팬 채널의 두산 야구 놀이"
+}

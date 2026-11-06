@@ -1,0 +1,28 @@
+{
+  "id": "news-44e331c3",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE13SF9zNlhiYnZOOXl2UFBHNnM1WkhWMlYwTldFaXlIXzcwRWtES1NNUW50N0pnbjZhZzlQdHgyTnV0VHM4U1JmME9CNDBfM3RKeFZvcElOZS0tUXM1UENOTkN5bjIwY19SdEpnQ3NEdzRQZ0Q0NldsaERsNDkyQQ?oc=5",
+  "title": "\"최형우와 강민호는 쓰러져야 쉴 수 있다\" → 진짜 전쟁이다. 삼성 박진만 감독, 그래도 하나는 약속했다 [KS3 현장]",
+  "published_at": "2026-11-06T07:23:33.000Z",
+  "collected_at": "2026-11-06T21:41:13.206Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 71,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSHVzal8yY0RWZnBEMUg1eEtUekpaZnJSVlNReEE3ZVZhZ0NTdlVCUHlsS2NIT0J3WlJacTk2UDhYZ3pTSTZZM0laTGQtTjl4R1Bobzc0V0VtVW9McDhXckRyN2NjVDVMVlpydFB5T2tJbnI3SFpid1ZmdkhHanBXV0tQcw?oc=5"
+    }
+  ]
+}

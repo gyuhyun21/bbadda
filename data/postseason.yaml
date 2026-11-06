@@ -278,7 +278,10 @@ rounds:
         date: 2026-11-07
         venue: { home_of: po }
         starters: { kt: 로건, samsung: 장찬희 } # 스타뉴스 '[오피셜] 2승 1패 리드 삼성, 4차전 불펜 데이→선발은 장찬희였다! KT는 예상대로 로건'
+        facts:
+          - "고졸 신인 KS 선발은 19년 만" # 엑스포츠뉴스 제목
         sources:
+          - "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9QQlc0T3B3ZklHaVliaXhUaEJaZi1IT1NpeWY4dnFDTVZkWDhJUEw0eHUyOHc3UGU1TllNYWtpZkJkX0tDeTFSOTlHdlJweTFYalc5aw?oc=5" # 고졸 신인 장찬희 KS 선발 19년 만(엑스포츠뉴스)
           - "https://news.google.com/rss/articles/CBMidkFVX3lxTE82Y0U1djBjZ2tObzJyQThhcTR2aWxCTVlST3cyVlByTjEtTmFWMEZFSG0zRTUzNnJNVi1walpESjVYX2J2cE5zeG1TS1RXV2hUQUcxOXpFc1ZZZkJmaHpGRzlCQ3R1WXRRcVZ4Ri10MWcxbElvN0E?oc=5" # KS4 선발 로건 vs 장찬희(스타뉴스)
       - no: 5
         date: 2026-11-08

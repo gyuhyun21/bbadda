@@ -1,0 +1,24 @@
+{
+  "id": "community-3be81f50",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kt"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 오늘도 예쁘지요, 셀럽꿀템",
+  "url": "https://blog.naver.com/sesu333/224467899956",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/2KLXobm8vGQ",
+  "title": "삼성 KT 한국시리즈 3차전 결과, 5:1 승리! 하이라이트·박승규 홈런·4차전 선발",
+  "published_at": "2026-11-07T03:54:00.000+09:00",
+  "collected_at": "2026-11-06T21:41:13.206Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

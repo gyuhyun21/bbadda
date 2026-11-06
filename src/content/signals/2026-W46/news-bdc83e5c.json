@@ -1,0 +1,29 @@
+{
+  "id": "news-bdc83e5c",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "미주중앙일보",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE12ZEVKQ1VVVEtqODBEbnBqUzVBem56TFVxdHRPTlBHclpjNFBnbXo4WG5rMG1Ob2JlUW1VNjI1OFRERFRPbjVZWVJNQkZKNlQ2Uk5EN29HSWQzTTNwVEY3U1NR?oc=5",
+  "title": "통합우승 도전 초비상! 대체 누가 1위인가…우승팀 이렇게 무기력할 수가, 줄부상 악재→8이닝 연속 무득점 '4차전은 어쩌나' [KS]",
+  "published_at": "2026-11-06T21:10:00.000Z",
+  "collected_at": "2026-11-06T21:38:41.079Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 84,
+    "relevance": 70
+  },
+  "sentiment": "mixed",
+  "also_in": [
+    {
+      "source_name": "OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9ZT2R0cWpQSVNoSGl2TzduUXBYcWVabDdtc0VEVUhzX2NZRG9iVTdVY1l2RFUtU3puVXZqcWcwcUdUUy1BOTQ0dlZDN1RKcXozdVQzVw?oc=5"
+    }
+  ]
+}

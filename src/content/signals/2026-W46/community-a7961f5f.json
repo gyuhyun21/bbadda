@@ -1,0 +1,24 @@
+{
+  "id": "community-a7961f5f",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 김현희 기자",
+  "url": "https://brunch.co.kr/@fb037d2a522543c/1",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/E2mSKgS9txr",
+  "title": "내가 야구에 빠진 이유",
+  "published_at": "2026-11-06T23:29:34.000+09:00",
+  "collected_at": "2026-11-06T21:41:13.206Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

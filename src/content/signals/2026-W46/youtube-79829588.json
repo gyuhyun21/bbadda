@@ -1,0 +1,24 @@
+{
+  "id": "youtube-79829588",
+  "issue": "2026-W46",
+  "module": "league",
+  "teams": [],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=qCB-VNKhGYE",
+  "title": "??: 마 느그 쌍둥이가 | 2026 APBC 부록",
+  "published_at": "2026-11-06T14:21:08Z",
+  "collected_at": "2026-11-06T21:38:41.079Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 46766,
+    "likes": 509,
+    "comments": 55
+  },
+  "scores": {
+    "hot": 68,
+    "relevance": 10
+  },
+  "sentiment": "neutral"
+}

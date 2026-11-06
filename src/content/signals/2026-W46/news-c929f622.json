@@ -1,0 +1,22 @@
+{
+  "id": "news-c929f622",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5LUVN6NGI3YVdscXhfcUxlX2Z4eUxDSU92LUZCdHdEbzZzT0dOQXZ4eVNzTHdmWEdBZUNYUFRCbHliNjI1Tk9RYzhDRDg2YUY2MnNCa0ZnbHRYcDRyOHg2R1BXYVMyd3U3Y3FpNG5LZ9IBb0FVX3lxTE5LUVN6NGI3YVdscXhfcUxlX2Z4eUxDSU92LUZCdHdEbzZzT0dOQXZ4eVNzTHdmWEdBZUNYUFRCbHliNjI1Tk9RYzhDRDg2YUY2MnNCa0ZnbHRYcDRyOHg2R1BXYVMyd3U3Y3FpNG5LZw?oc=5",
+  "title": "[사진]시리즈 2승 1패 만든 삼성, 업셋 우승 가자",
+  "published_at": "2026-11-06T12:33:00.000Z",
+  "collected_at": "2026-11-06T21:41:13.206Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

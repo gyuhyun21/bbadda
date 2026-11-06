@@ -1,0 +1,26 @@
+{
+  "id": "youtube-2727bd2a",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "youtube",
+  "source_name": "야응사",
+  "url": "https://www.youtube.com/watch?v=_923l3dlGs0",
+  "title": "前 두산 베어스  민병헌 응원가 MUSIC VIDEO",
+  "published_at": "2026-11-06T14:28:05Z",
+  "collected_at": "2026-11-06T21:38:41.079Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1,
+    "likes": 1,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 44,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

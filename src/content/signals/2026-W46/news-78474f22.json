@@ -1,0 +1,24 @@
+{
+  "id": "news-78474f22",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "마이데일리",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAyUmRQWkw3RUxzTEdvQlN2YnljcDVwQkNMUDZrQUwyTExId2FYWXRKVWl2aU9UQ1lmM1dSVTFPUTNweGZ3bjdMTERkLVh5dHBsWjRwWmJTSkM5eFdPZldMLQ?oc=5",
+  "title": "가을야구 승승승 ERA 1점대 실화? 삼성에 이 선수 없었으면 어쩔 뻔…박진만 전격 선언 \"시즌 끝나면 후라도에게 뭐라도 해줘야\"",
+  "published_at": "2026-11-06T16:41:00.000Z",
+  "collected_at": "2026-11-06T21:41:13.206Z",
+  "summary_ko": "박진만 감독이 후라도에게 시즌 뒤 뭐라도 해줘야 한다고 말했다고 마이데일리가 전했다. 후라도는 올 가을 3전 전승에 평균자책점 1점대다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "후라도에 보답하겠다는 감독",
+  "hook_ko": "가을 3전 전승 후라도, 감독이 건 약속"
+}

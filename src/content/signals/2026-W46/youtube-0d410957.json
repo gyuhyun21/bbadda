@@ -1,0 +1,27 @@
+{
+  "id": "youtube-0d410957",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "호랑이굴",
+  "url": "https://www.youtube.com/watch?v=X7Uh_DuvgsU",
+  "title": "김도영이 말하는 MLB 진출에 대한 생각 #야구 #기아타이거즈 #프로야구",
+  "published_at": "2026-11-06T13:54:31Z",
+  "collected_at": "2026-11-06T21:38:41.079Z",
+  "summary_ko": "한 팬 채널이 김도영이 MLB 진출에 대해 밝힌 생각을 올렸다.",
+  "metrics": {
+    "views": 12576,
+    "likes": 172,
+    "comments": 9
+  },
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "김도영의 MLB 진출 생각"
+}

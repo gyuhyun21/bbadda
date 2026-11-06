@@ -1,0 +1,23 @@
+{
+  "id": "news-a3f2873e",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠경향",
+  "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBjcHV4a18xdHpTa21YeHFPaHFmckliVWJXWUxQd0hDVmxxcWRVYVRGdC10cmF4U25wS1pSTmphbXNLSlhWX3Rlb2N0UHBvYTd5UU90SVNiVVY4UXdRd0HSAWNBVV95cUxOazlhMV96V1RHdVpHclpxSGIwSk92NXR4TzRzZzZGTTd5aXdqajdpNlp2dDZSdUhLLXVuakRoemF3TzZYa3A4aVNsWkE3OG5oVmJXdjJJdzdoV3FTWVk2YjhvVUk?oc=5",
+  "title": "[KS3]3차전 시구자로 ‘라이언킹’ 이승엽 전 감독…애국가는 김소현",
+  "published_at": "2026-11-06T07:45:00.000Z",
+  "collected_at": "2026-11-06T21:38:41.079Z",
+  "summary_ko": "스포츠경향에 따르면 3차전 시구자로 이승엽 전 감독이 나섰고 애국가는 김소현이 불렀다.",
+  "metrics": {},
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "3차전 시구는 이승엽"
+}

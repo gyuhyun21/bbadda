@@ -1,0 +1,33 @@
+{
+  "id": "community-aba303a1",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&category=1311232643&document_srl=10527001455",
+  "title": "삼성 4378일 만의 한국시리즈 2연승 - 야구",
+  "published_at": "2026-11-06T14:38:41.079Z",
+  "collected_at": "2026-11-06T21:38:41.079Z",
+  "summary_ko": "",
+  "excerpt": "... [정보] 삼성 라이온즈, 4378일 만에 한국시리즈 2연승 [1]. 1 시간 전 ... 삼성라이온즈의 수호신…",
+  "metrics": {},
+  "scores": {
+    "hot": 82,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "MBC 뉴스",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5SUldpblJOMVdsSk9EeGtENUR4eEN2R0hiSnRfd3BNdUVHRlRfa1BfNXRfelJTbE1YZFZINnp0SFpfTVM1X3Jrb2o0R2VCZHl5aEd1T0VVVXhnM1JEc2hpT1VqUXlxM0hFeGQyYUlDM0tNZW1mLVHSAXZBVV95cUxOUlJXaW5STjFXbEpPRHhrRDVEeHhDdkdIYkp0X3dwTXVFR0ZUX2tQXzV0X3pSU2xNWGRWSDZ6dEhaX01TNV9ya29qNEdlQmR5eWhHdU9FVVV4ZzNSRHNoaU9ValF5cTNIRXhkMmFJQzNLTWVtZi1R?oc=5"
+    },
+    {
+      "source_name": "YTN",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9vX0JCVklycUlvTklpT0FEcGlqMmZ5SDdKeEVZSWl1OGt6ZTRxdy1DckxraEFhdG1sRUZpSFhVRGlnTHNkNDRYNWZ5YWNWZFhFb1NvWHhQYVVyS1F0QkE?oc=5"
+    }
+  ]
+}
