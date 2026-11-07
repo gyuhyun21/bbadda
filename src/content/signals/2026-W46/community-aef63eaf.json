@@ -1,0 +1,30 @@
+{
+  "id": "community-aef63eaf",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 광이의 크로스핏, 운동은 장비빨!",
+  "url": "https://blog.naver.com/writedo/224468331169",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/4g6xyVLrTp3",
+  "title": "“김하성, 정말 FA 5등급 실력일까?” MLB닷컴 평가 뒤에 숨은 부상 변수와 반등 가능성",
+  "published_at": "2026-11-07T15:31:00.000+09:00",
+  "collected_at": "2026-11-07T09:38:40.187Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "negative",
+  "also_in": [
+    {
+      "source_name": "연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB5U1YyeXRyd0FRZmZKZDJ0czFHWXFfSV9vNzhjWE0tU2F1OHVXRGRXVlJLTW1lYk1pX3A0Rm1penhNVG1aSUgxai13LS1PendDMWZwSFc2S01LdWNWZHdFS9IBYEFVX3lxTFB5U1YyeXRyd0FRZmZKZDJ0czFHWXFfSV9vNzhjWE0tU2F1OHVXRGRXVlJLTW1lYk1pX3A0Rm1penhNVG1aSUgxai13LS1PendDMWZwSFc2S01LdWNWZHdFSw?oc=5"
+    }
+  ]
+}

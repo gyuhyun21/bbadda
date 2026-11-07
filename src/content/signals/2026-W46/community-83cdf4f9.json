@@ -1,0 +1,24 @@
+{
+  "id": "community-83cdf4f9",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 봉숙이의 슬리피한 하루",
+  "url": "https://blog.naver.com/bbollllls/224468221520",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/1T2tUrCKLWw",
+  "title": "U-23 야구 월드컵 한국 쿠바전 3-2 역전승! 어준서 적시타·김성우 끝내기 볼넷",
+  "published_at": "2026-11-07T13:07:00.000+09:00",
+  "collected_at": "2026-11-07T09:38:40.187Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

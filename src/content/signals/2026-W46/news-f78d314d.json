@@ -1,0 +1,23 @@
+{
+  "id": "news-f78d314d",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "마이데일리",
+  "url": "https://www.mydaily.co.kr/page/view/2026110716191000696",
+  "title": "'삼성 감격' 드디어 우승에 1승 남았다, 이재희 8아웃 퍼펙트…1위팀 외인 6실점 경악, 사이클링히트 포기 선수 3안타 3타점 폭발 [MD대구 KS4]",
+  "published_at": "2026-11-07T08:31:00.000Z",
+  "collected_at": "2026-11-07T09:38:40.187Z",
+  "summary_ko": "마이데일리는 삼성 이재희가 KS 4차전에서 8개 아웃을 퍼펙트로 막았다고 전했다. 삼성은 우승까지 1승을 남겼다.",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 80
+  },
+  "sentiment": "positive",
+  "brief_ko": "이재희, 8아웃 퍼펙트"
+}

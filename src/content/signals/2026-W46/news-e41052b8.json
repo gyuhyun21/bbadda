@@ -1,0 +1,22 @@
+{
+  "id": "news-e41052b8",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "www.newsq.co.kr",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE42Vi1iazQwWkxsTHpjbUtjR0JicDhOVjlkT3prdG00NHMxM1RKWXNZbzd0bERwU1d3SUxHN2JOSHkwRnN3ZVBLbUVtd1M2MVZsMDl3SjNURUpKeWd2ZEZvazRydHZjUWlnbVE?oc=5",
+  "title": "삼성 장찬희, 당찬 투구로 대구 홀리다 [한국시리즈]",
+  "published_at": "2026-11-07T09:15:14.000Z",
+  "collected_at": "2026-11-07T09:38:40.187Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 80
+  },
+  "sentiment": "neutral"
+}

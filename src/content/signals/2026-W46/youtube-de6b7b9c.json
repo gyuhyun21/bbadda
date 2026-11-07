@@ -1,0 +1,26 @@
+{
+  "id": "youtube-de6b7b9c",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "youtube",
+  "source_name": "인사이트스포츠",
+  "url": "https://www.youtube.com/watch?v=i-t5_n0Vyq8",
+  "title": "롯데 자이언츠 2026 시즌 결산 ② 타자｜레이예스 211안타 한동희 25홈런, 그런데 왜 7위였나",
+  "published_at": "2026-11-07T09:00:30Z",
+  "collected_at": "2026-11-07T09:38:40.187Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 140,
+    "likes": 10,
+    "comments": 2
+  },
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

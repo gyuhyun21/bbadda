@@ -1,0 +1,24 @@
+{
+  "id": "community-686dda76",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&page=3&document_srl=10527905182",
+  "title": "김영웅은 그냥 하나의 종교임. - 야구",
+  "published_at": "2026-11-07T01:38:40.187Z",
+  "collected_at": "2026-11-07T09:38:40.187Z",
+  "summary_ko": "",
+  "excerpt": "... 김영웅이 잘한다?-> 수비도 잘하는데 타격도 잘쳐? 포스트 이승엽이라고 했제..? 앞으로 삼성의 10년을 책임질 좌타거포임김영웅이…",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "youtube-9acf097c",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "youtube",
+  "source_name": "Oops",
+  "url": "https://www.youtube.com/watch?v=02MDrs7VJho",
+  "title": "부산의 야구 열정, 롯데 자이언츠의 역사와 매력",
+  "published_at": "2026-11-07T07:56:50Z",
+  "collected_at": "2026-11-07T09:38:40.187Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 0,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

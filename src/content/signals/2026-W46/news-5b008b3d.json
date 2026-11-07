@@ -1,0 +1,23 @@
+{
+  "id": "news-5b008b3d",
+  "issue": "2026-W46",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kt"
+  ],
+  "source_type": "news",
+  "source_name": "뉴시스",
+  "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE95RDdEMnR1SThzd1F1ZE9KVEZpZThIU1VpXzY1QXhueGRtY1VhVzVpV1p1ZmwtVl9nNUIxUjVWTDNzcXpkRFIwQXpfU01xWnRyY2lqdUQ2d3VVemRkOUlfUzc0ZlRCX1BuRUxBTGFFQkZ3TzNOd3plZtIBeEFVX3lxTE95RDdEMnR1SThzd1F1ZE9KVEZpZThIU1VpXzY1QXhueGRtY1VhVzVpV1p1ZmwtVl9nNUIxUjVWTDNzcXpkRFIwQXpfU01xWnRyY2lqdUQ2d3VVemRkOUlfUzc0ZlRCX1BuRUxBTGFFQkZ3TzNOd3plZg?oc=5",
+  "title": "삼성-KT KS 4차전에도 구름 관중 몰렸다…PS 50경기 연속 매진[KS]",
+  "published_at": "2026-11-07T05:58:20.000Z",
+  "collected_at": "2026-11-07T09:38:40.187Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 91,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

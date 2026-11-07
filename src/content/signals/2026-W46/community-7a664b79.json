@@ -1,0 +1,22 @@
+{
+  "id": "community-7a664b79",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 애플 레고의 취미&막장 블로그",
+  "url": "https://blog.naver.com/leejunm25/224468244458",
+  "title": "내년 SSG 랜더스에 생기는일 및 올해 일어난 일",
+  "published_at": "2026-11-07T13:38:00.000+09:00",
+  "collected_at": "2026-11-07T09:38:40.187Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "community-5d5b4e05",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kt"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 김부장의 맛있는 여행",
+  "url": "https://blog.naver.com/filgud2/224468448853",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/GlgwlgFmvsD",
+  "title": "한국시리즈 4차전 결과｜삼성 10–5 KT, 1회 6득점으로 우승까지 1승",
+  "published_at": "2026-11-07T18:04:00.000+09:00",
+  "collected_at": "2026-11-07T09:38:40.187Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 84,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "미주중앙일보",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE82bzhpUXRuYS1uTENacFozXzJjWDlPMXJ5cTVpOVlqQ1VqRHAzdVdrbkRuZjduZy1WYUgxcldpTnB5QWFFV2tCSU1KSlY5Y1hGaUxwQ282T1VzSmlEVDA3SnlR?oc=5"
+    }
+  ]
+}

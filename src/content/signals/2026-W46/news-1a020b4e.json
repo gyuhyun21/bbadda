@@ -1,0 +1,24 @@
+{
+  "id": "news-1a020b4e",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스핌",
+  "url": "https://www.newspim.com/news/view/20261107000072",
+  "title": "[KS4] '1회에만 6득점' 삼성, 한국시리즈 최초 대기록…김도환 3타점 적시타",
+  "published_at": "2026-11-07T06:05:00.000Z",
+  "collected_at": "2026-11-07T09:38:40.187Z",
+  "summary_ko": "뉴스핌에 따르면 삼성은 KS 4차전 1회에만 6득점해 한국시리즈 최초 기록을 세웠다. 김도환이 3타점 적시타를 쳤다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 80
+  },
+  "sentiment": "neutral",
+  "brief_ko": "1회 6득점, KS 최초 기록",
+  "hook_ko": "1회에만 6점, KS에서 처음이다"
+}

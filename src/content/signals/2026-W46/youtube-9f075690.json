@@ -1,0 +1,26 @@
+{
+  "id": "youtube-9f075690",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "youtube",
+  "source_name": "숏슬리",
+  "url": "https://www.youtube.com/watch?v=fhRIuv-4zKU",
+  "title": "마지막 가을야구가 된 롯데의 역대급 실수",
+  "published_at": "2026-11-07T07:30:19Z",
+  "collected_at": "2026-11-07T09:38:40.187Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 5621,
+    "likes": 63,
+    "comments": 3
+  },
+  "scores": {
+    "hot": 54,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

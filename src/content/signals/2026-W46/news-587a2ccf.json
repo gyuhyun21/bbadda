@@ -1,0 +1,25 @@
+{
+  "id": "news-587a2ccf",
+  "issue": "2026-W46",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "미주중앙일보",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9iQl9CVHkyU1Y0VkcxVE54UXRHSmpIcnJlLVJKdmpaT3QyaWZCSDB4eHE2akVhUlJGdW1OOEpZTlhjYWM1eHlDTzdSYVVPSEdGWVNWeTNqUVZkRms0d1h4Y19B?oc=5",
+  "title": "아기사자가 일냈다! '대체 선발' 장찬희, 4이닝 1실점 호투...5회 사토시와 교체 [KS4]",
+  "published_at": "2026-11-07T06:36:00.000Z",
+  "collected_at": "2026-11-07T09:38:40.187Z",
+  "summary_ko": "미주중앙일보는 삼성 대체 선발 장찬희가 KS 4차전에서 4이닝 1실점으로 호투했다고 전했다. 5회 사토시와 교체됐다.",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "brief_ko": "장찬희, 4이닝 1실점 호투"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "youtube-6d28e9a7",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "youtube",
+  "source_name": "판암판암역",
+  "url": "https://www.youtube.com/watch?v=RSQ-a_Pkvb0",
+  "title": "두산 베어스 조수행 응원가 Music video#shorts #musicvideo #조수행 #응원가",
+  "published_at": "2026-11-07T04:33:59Z",
+  "collected_at": "2026-11-07T09:38:40.187Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1185,
+    "likes": 2,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 38,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

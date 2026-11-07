@@ -1,0 +1,24 @@
+{
+  "id": "community-e11dcc79",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 오늘뭐봄",
+  "url": "https://blog.naver.com/todaybombom/224467444043",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/FzBOFai2G30",
+  "title": "연봉 반토막 났던 MVP…올해 45홈런 치고 몸값 4배 거론되는 이유",
+  "published_at": "2026-11-07T17:29:00.000+09:00",
+  "collected_at": "2026-11-07T09:38:40.187Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

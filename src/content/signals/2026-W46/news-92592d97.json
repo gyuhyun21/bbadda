@@ -1,0 +1,24 @@
+{
+  "id": "news-92592d97",
+  "issue": "2026-W46",
+  "module": "rivalry",
+  "team": "kt",
+  "teams": [
+    "kt",
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠경향",
+  "url": "https://sports.khan.co.kr/article/202611071720003",
+  "title": "[KS4] 양 팀 합쳐 4사구 19개 ‘KS 신기록’, ‘KT 12개-삼성 7개’ 쏟아낸 4사구에서 운명 갈렸다",
+  "published_at": "2026-11-07T08:20:00.000Z",
+  "collected_at": "2026-11-07T09:38:40.187Z",
+  "summary_ko": "스포츠경향은 KS 4차전에서 두 팀 합쳐 4사구 19개로 한국시리즈 신기록이 나왔다고 전했다. KT 12개, 삼성 7개다.",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 80
+  },
+  "sentiment": "positive",
+  "brief_ko": "4사구 19개, KS 신기록"
+}

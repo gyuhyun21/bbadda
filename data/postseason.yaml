@@ -278,22 +278,38 @@ rounds:
         date: 2026-11-07
         venue: { home_of: po }
         starters: { kt: 로건, samsung: 장찬희 } # 스타뉴스 '[오피셜] 2승 1패 리드 삼성, 4차전 불펜 데이→선발은 장찬희였다! KT는 예상대로 로건'
+        result: { kt: 5, samsung: 10 } # 중부일보 '[2026 한국시리즈] KT, ... 5-10 패배'
+        source: "https://news.google.com/rss/articles/CBMibkFVX3lxTE1JSTFIVDFQZ2V5SEJhalFSbFg1amRBWV9pUWlMN01NRi1iNXhJWGJaSnFMR2FFUXV6cjFYNFJ6dWxOZnV5b2pQbzVKbi1janJ5NVVvclBrN2VqWEJHWE1RdnQ2Y1BjWFB3RmlSdUJ3?oc=5"
+        homers: ["장진혁(KT) 1회 솔로"] # 엑스포츠뉴스 제목 / 김민혁(KT) 추격 솔로(OSEN 사진 기사)는 이닝 미확인
+        mvp: 이재희(삼성) # 뉴스엔 '이재희, 빛나는 한국시리즈 4차전 데일리 MVP'
+        attendance: "매진(PS 50경기 연속)" # 뉴시스 제목
         starter_notes: { samsung: "KT전 ERA 7.20" } # 스포츠조선 "'KT전 ERA 7.20' 왜 장찬희인가" 제목
         facts:
           - "고졸 신인 KS 선발은 19년 만" # 엑스포츠뉴스 제목
           - "삼성 라인업에서 강민호 빠지고 김도환 선발" # 스타뉴스 '강민호·김성윤 전격 제외! 삼성 라인업에 변화→김도환·박승규 깜짝 선발 출격' 제목
+          - "1회 6득점은 KS 최초 기록" # 뉴스핌 제목
+          - "양 팀 4사구 19개, KS 신기록" # 스포츠경향 제목
         ig:
           pre: { hook: "19세 신인에게\n4차전을 맡겼다", sub: "삼성 장찬희 vs KT 로건, 강민호 대신 김도환 선발" }
+          post: { hook: "1회 6점 차,\n삼성 우승까지 1승", sub: "삼성 10-5 KT, KS 3승 1패", points: ["1회에만 6득점, KS 최초 기록", "장찬희 4이닝 1실점, 이재희 데일리 MVP", "양 팀 4사구 19개, KS 신기록"] }
         sources:
           - "https://news.google.com/rss/articles/CBMifkFVX3lxTE1oQ3BUVjRjTUpfNHJpajlLbFRCeXdFOFFrSFFaMk5WaDFaWk1qUlRCMUoyVjdzYWJrRGZ6Q015ZkZscURvU0V0aVhWYXZQaWxCb1JzdjlLSDdNTnNPVEhxQ3RiSGZoOHQxX284cjJLSlpSS2FYX1NsTVg5Um5Ydw?oc=5" # 장찬희 KT전 ERA 7.20(스포츠조선)
           - "https://news.google.com/rss/articles/CBMidkFVX3lxTE5qZUJfZkc5RVQ5Q3RxdUl4dVdmbld6REM5Q2Z6bWlLRHFOcFZBNFBIXzNiWXMyZEVzTmpUOWthd1cyYWZSWHlGd055NW9pbko2OVlCWHlrbmc2Smt4X0tva1VmUXNYdmxoc2s5bmgwZmZ0SVBJQ1E?oc=5" # KS4 삼성 라인업(스타뉴스)
           - "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9QQlc0T3B3ZklHaVliaXhUaEJaZi1IT1NpeWY4dnFDTVZkWDhJUEw0eHUyOHc3UGU1TllNYWtpZkJkX0tDeTFSOTlHdlJweTFYalc5aw?oc=5" # 고졸 신인 장찬희 KS 선발 19년 만(엑스포츠뉴스)
           - "https://news.google.com/rss/articles/CBMidkFVX3lxTE82Y0U1djBjZ2tObzJyQThhcTR2aWxCTVlST3cyVlByTjEtTmFWMEZFSG0zRTUzNnJNVi1walpESjVYX2J2cE5zeG1TS1RXV2hUQUcxOXpFc1ZZZkJmaHpGRzlCQ3R1WXRRcVZ4Ri10MWcxbElvN0E?oc=5" # KS4 선발 로건 vs 장찬희(스타뉴스)
+          - "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBNMVRNWG9FS21yZWhHcmFZWlk2RTExNk1JajltNTIxQUNHcFJEN2o5U2c0YXdMR05XQXk0aHNfR3pCdTdlQTN0bUQ0VUJveDNZSS03WEtjSDJ5T3fSAWBBVV95cUxNb0VGeDZXUHhIc0wtanNMRm1wX25iRFBqZURuV1dlbHc1X05vWEpuM0NMTkJUb2dNVG8ydnNEX1gwaWJnNEhQaTdIS3JhZy1iNEV6di03S0JYa0NqdkYxemw?oc=5" # 삼성 1패 뒤 3연승(연합뉴스)
+          - "https://news.google.com/rss/articles/CBMiaEFVX3lxTE14cENFV2I2a3ZMY29zbnJZZmpGcmsyUmczcy00QVRGVklhd2QtMC04RXJpTTN2LUNSd1BpcWpVdGNONy11Z2szM0U0MUFhVVpsY3JNQ2hRNUtTN2lPMlFuYUtrMWJ5emNw?oc=5" # 이재희 데일리 MVP(뉴스엔)
+          - "https://news.google.com/rss/articles/CBMieEFVX3lxTE95RDdEMnR1SThzd1F1ZE9KVEZpZThIU1VpXzY1QXhueGRtY1VhVzVpV1p1ZmwtVl9nNUIxUjVWTDNzcXpkRFIwQXpfU01xWnRyY2lqdUQ2d3VVemRkOUlfUzc0ZlRCX1BuRUxBTGFFQkZ3TzNOd3plZtIBeEFVX3lxTE95RDdEMnR1SThzd1F1ZE9KVEZpZThIU1VpXzY1QXhueGRtY1VhVzVpV1p1ZmwtVl9nNUIxUjVWTDNzcXpkRFIwQXpfU01xWnRyY2lqdUQ2d3VVemRkOUlfUzc0ZlRCX1BuRUxBTGFFQkZ3TzNOd3plZg?oc=5" # PS 50경기 연속 매진(뉴시스)
+          - "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5NWjZ4SUticVIyNWZxb3o0UktXYU5qS3RNaWo5MlUwZkJEWE1WRmZnNGhrZE9wbDVrWm5iV3BiTGRBZWw0NGtWQXZWaUJvOTVWRUdFcHZUZ1VSOFU3RWfSAWNBVV95cUxNSTJlQVBpdFA2QlgxNFNwVGp0WFB6VzBmYWFNU0xNdk9tTURidEZjSExZQXctMHN5SHpGQnhYaWRTQWltdlJSQ19yM3NLY2U4VTNrN1puZGMzS3RMS0JqZmxjc2M?oc=5" # 4사구 19개 KS 신기록(스포츠경향)
+          - "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBpZXUyTmtxRHZ5M1NyYmlLWVNiVU5YY1lmUHY3dURuUk9Rcm1oWXRscnJsUHNTMFAxRi02ZlpIRTFFMmtlalR0XzBib0dpMzktUDFTRQ?oc=5" # 장진혁 1회 선제 솔로(엑스포츠뉴스)
       - no: 5
         date: 2026-11-08
         venue: { home_of: po }
-        starters: { samsung: 원태인 } # 스포츠한국 '박진만 감독 승부수 던졌다 "원태인, 5차전 선발투수"'
+        starters: { kt: 대니엘, samsung: 원태인 } # KT 대니엘: 매일신문 '벼랑 끝 kt 대니엘 vs 원태인…KS 5차전 8일 대구서' / 스포츠한국 '박진만 감독 승부수 던졌다 "원태인, 5차전 선발투수"'
+        facts:
+          - "삼성 3승 1패, 우승까지 1승" # 뉴스1 '우승까지 1승' 제목
         sources:
+          - "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBnaTc5Y1IxamlDUUZSVWRnS2gxdEhvZUJjeEVfVzg1WmlrNXk5NVdsaElyWTBobVZydmJxZ0JELWt6MTNGN25DNGhVM05RTVFBelJ4TkZUWTdORElEaC0zVVBR?oc=5" # KS5 선발 대니엘 vs 원태인(매일신문)
           - "https://news.google.com/rss/articles/CBMicEFVX3lxTE95VWExZmdJVVlGTGRPa21Tcl9ydUFwWW1xN295SDNVMUVnamJZOTlNcURKc1NnX050R2JnM004dzByYXNod3p3RkVLd0R3blVYZEo2c2g5d3lOcEtnQzNtOWRVVFl3Y2g1dE1jcmtFTk_SAXRBVV95cUxNU29zZEhkMkM2eWx0bkd3MlNNeEd4emFpTl9LV2s0UmhPYmpyTk9vcXo2Q19PN3ptTWk3OE8zLWdjWHRubGk1NGNIZVJpTXJOTGFzWjM2WGhUQjN1b1F5UnJfT1F6cWpzTlBxQkJRcTRFSmkwYQ?oc=5" # KS5 삼성 선발 원태인(스포츠한국)
       - { no: 6, date: 2026-11-10, venue: 수원 }
       - { no: 7, date: 2026-11-11, venue: 수원 }

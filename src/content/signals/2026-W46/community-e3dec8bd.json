@@ -1,0 +1,24 @@
+{
+  "id": "community-e3dec8bd",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "엠엘비파크",
+  "url": "https://mlbpark.donga.com/mp/b.php?id=202611040119900424&p=31&b=kbotown&m=view&select=spf&query=KIA&site=donga.com",
+  "title": "1승1패 상황에서 3차전 잡은팀의 우승확률이 88.2%라는군요.",
+  "published_at": "2026-11-03T15:00:00.000Z",
+  "collected_at": "2026-11-07T09:38:40.187Z",
+  "summary_ko": "",
+  "excerpt": "... 두 번의 예외가 2003년 현대유니콘스와 2020년 nc다이노스인데 둘 다 1위팀이였고 각각 sk와이번스와 두산베어스가 3차전을…",
+  "metrics": {},
+  "scores": {
+    "hot": 36,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "youtube-73a20348",
+  "issue": "2026-W46",
+  "module": "league",
+  "teams": [
+    "samsung",
+    "kt"
+  ],
+  "team": "samsung",
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=BFB6TBcMclU",
+  "title": "1회말 삼성라이온즈의 빅이닝! 디아즈, 김영웅, 김도환이 6득점을 만들어 냅니다! | KS4_KT vs 삼성 | 11.7 | 크보모먼트 | KBO 야구 하이라이트",
+  "published_at": "2026-11-07T06:07:14Z",
+  "collected_at": "2026-11-07T09:38:40.187Z",
+  "summary_ko": "KBO 공식 채널이 삼성의 KS 4차전 1회말 6득점 장면을 올렸다. 디아즈·김영웅·김도환이 점수를 냈다.",
+  "metrics": {
+    "views": 99728,
+    "likes": 1064,
+    "comments": 278
+  },
+  "scores": {
+    "hot": 71,
+    "relevance": 80
+  },
+  "sentiment": "neutral",
+  "brief_ko": "1회말 6득점 하이라이트"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-c83e848b",
+  "issue": "2026-W46",
+  "module": "rivalry",
+  "team": "kt",
+  "teams": [
+    "kt",
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠한국",
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBMSHlobTZBV0NWbTRtOC1sZmVrVzFsSmJfaS1LLU1nMXQxLVJ3U3ZGNkYwUk1kSFI0T0hlczBDWWZGVUlqUkgtTlhmN05PTXVlOXdCd0FHSENCU1dqSXJya1lNNkZpZXdjSWtpQzdlMl_SAXRBVV95cUxNd05VQng5M0NxbFM4alF4Ynl1dUpzQW5wZ3V6WHplMXN3RG05RHFjZVYwRmtkQWNqajJ5dFVYTXpvMk04ZVpZUG5abklaQ3ZRdFFMX016UlVicXdoakh2bWRsMFZqT0p6R2hlYXA1ZzlrTEJpVQ?oc=5",
+  "title": "'선발 우위'라던 kt wiz, 오히려 삼성이 우위였다[KS4]",
+  "published_at": "2026-11-07T08:17:46.000Z",
+  "collected_at": "2026-11-07T09:38:40.187Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "news-dfa4105a",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "스타뉴스",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9vS0I2amZzdnM0RjZiSVdsVWctVE1fUncyZGJKT2dVR2VwMGM5N0Nrczl1ZDBZMFNfcm1DUHVwdldkZVhuRkFfZVkwUGtQSnFwTjRUSFRUZV94S2dnWTJYaHlEZU9Oc1huOFlXeUxTSEl2ZEdOdnc?oc=5",
+  "title": "대충격! '만루서 초대형 참사' 안현민 아쉬운 타구 판단→삼성 김도환 싹쓸이 3루타... 1회말 6득점 빅이닝 [KS4 현장]",
+  "published_at": "2026-11-07T05:50:33.000Z",
+  "collected_at": "2026-11-07T09:38:40.187Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 83,
+    "relevance": 70
+  },
+  "sentiment": "negative",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA3NmNXbEg1bHM4NmJCOEFFSGw3UVBHSThhV3FHTjdwZ3RBem9jVkRCaFdKOUdXZ0RHY0JYZE9lWHg0OWVnQTdUaldFNHIyR2lRaHVFUW1BRGZNZ1BBak1HME1ac0pmMzUzVXfSAW9BVV95cUxPM3BzYnRhcDlQeHprckpGV09KVDc3amJfQVVvQmZnR0tmVUJERzU1X3ZKUEJidmpTNUJYOS1iM1BTQW9Bc1ZGTWR4RS16OFpKLS05SUtKejJObnl4azJVc2R5SFZjNHdFSkxCRU9XWHc?oc=5"
+    }
+  ]
+}

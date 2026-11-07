@@ -1,0 +1,23 @@
+{
+  "id": "community-b842bc04",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 영감의또또",
+  "url": "https://blog.naver.com/jjinenius/224468234421",
+  "title": "45홈런 쳤는데 연봉 2억5천.. 김도영, 내년엔 10억 찍을까?",
+  "published_at": "2026-11-07T14:50:00.000+09:00",
+  "collected_at": "2026-11-07T09:38:40.187Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

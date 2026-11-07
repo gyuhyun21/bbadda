@@ -1,0 +1,28 @@
+{
+  "id": "news-8bd46ed6",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "news",
+  "source_name": "OSEN",
+  "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBjRTdmSlFwN1lhdlBnbU5XMjhBeDhfeUNwLUZrZHdvQkZIWExzZFBvZXBydXZobEdmNlBkbngyeWhrUFRDME1ZZGlUbFdISVJodkRR?oc=5",
+  "title": "[사진]KT 김민혁, '한국시리즈 4차전 추격의 솔로포 기쁨'",
+  "published_at": "2026-11-07T08:01:00.000Z",
+  "collected_at": "2026-11-07T09:38:40.187Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 80
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONXhWOUN2aGpFNXF5U1kybnFtWm5BUkFZSlhjM3pKdGFFQjFIclBaTFVSNEgxUHdPRGxWaDlPWkVUaGx0SVRYZTVhSmhXSlhVOTJNdGI4cmNsNVJrSkF3aDcyaWwzaHZ2NWlyaTJhM3V3ZWY2ZUx0d2swSVJ0UFV6T2ZyckxSLVdH?oc=5"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "community-bb557cc3",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 똑똑정보통",
+  "url": "https://blog.naver.com/bdgjjang12/224468327572",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/1yL9qab3jD9",
+  "title": "2026 가을야구 일정·순위·예매·티켓팅·중계 한눈에, 우천취소·연장·결승 규정까지",
+  "published_at": "2026-11-07T15:43:00.000+09:00",
+  "collected_at": "2026-11-07T09:38:40.187Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "news-463d3b51",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "연합뉴스",
+  "url": "https://www.yna.co.kr/view/AKR20261107046700007",
+  "title": "박진만 삼성 감독 \"9부 능선 넘었다…내일 홈에서 끝낸다\"",
+  "published_at": "2026-11-07T09:04:30.000Z",
+  "collected_at": "2026-11-07T09:38:40.187Z",
+  "summary_ko": "연합뉴스에 따르면 박진만 삼성 감독은 4차전 승리 뒤 5차전을 홈에서 끝내겠다는 뜻을 밝혔다.",
+  "metrics": {},
+  "scores": {
+    "hot": 92,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "톱스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5zUTVVcWdwbEowV0JLb3VOWF9wcy03dkUzNG53UzRYRlgtQ1JvRlZxRDE1SFBFY05YZXhLV2gwaVVucVM1UXZva0JxV0psbmN3eUlzaHVDa3M4elpHalRkY3BJelJ6MVB3OG9fS3EySnVIZw?oc=5"
+    },
+    {
+      "source_name": "뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1DUEhxM01QMTVBUWptNFh2MnVnTnl4dV9sNGt5bW5Vb3d4VW5ndTBlbWxKZl9kRmlKdGhVVXVlZHhHbURyZnpDZndBX3hicDJHT3FwRDlyTQ?oc=5"
+    },
+    {
+      "source_name": "뉴스핌",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5vWl9tMTMyaGdQVjVvM2FwSS05aWRiQVVBdkVPQXkzZ2phTWhEMEZqMUoxemxEWDlmTmxPVnBXV1hKa1h4UlZ4ckZmSndoNjBvZGV4Zk9zSTI3UmR1?oc=5"
+    }
+  ],
+  "brief_ko": "박진만 감독, 5차전 끝내겠다"
+}

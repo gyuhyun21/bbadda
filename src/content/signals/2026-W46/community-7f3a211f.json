@@ -1,0 +1,24 @@
+{
+  "id": "community-7f3a211f",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 뉴스 길라잡이",
+  "url": "https://blog.naver.com/vheh0128/224468446946",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/GVHITcCNgjA",
+  "title": "“우리나라 레벨 아니다” 이승엽도 감탄한 김도영! 대표팀 첫 경기 홈런 2방, MLB까지 주목하는 이유",
+  "published_at": "2026-11-07T18:01:00.000+09:00",
+  "collected_at": "2026-11-07T09:38:40.187Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "community-c0b560f6",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/10529272357",
+  "title": "그냥 근 5년동안 코시보면 거의 다 상대전적우위인팀이 우승했음 - 야구",
+  "published_at": "2026-11-07T09:01:40.187Z",
+  "collected_at": "2026-11-07T09:38:40.187Z",
+  "summary_ko": "",
+  "excerpt": "... 21KTvs두산 KT우위 22 SSG랜더스vs키움 SSG 우위 23 LGvsKT LG우위 24 기아vs삼성 기아우위 25 엘지vs한화…",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

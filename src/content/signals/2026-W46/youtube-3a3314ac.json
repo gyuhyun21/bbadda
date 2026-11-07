@@ -1,0 +1,28 @@
+{
+  "id": "youtube-3a3314ac",
+  "issue": "2026-W46",
+  "module": "league",
+  "teams": [
+    "samsung",
+    "kt"
+  ],
+  "team": "samsung",
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=J1SWDhcnhAg",
+  "title": "삼성 이승민의 9회 초 아웃 카운트 세 개를 만들며 팀의 승리를 지킵니다! | KS4_KT vs 삼성 | 11.7 | 크보모먼트 | KBO 야구 하이라이트",
+  "published_at": "2026-11-07T08:59:36Z",
+  "collected_at": "2026-11-07T09:38:40.187Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 4184,
+    "likes": 391,
+    "comments": 106
+  },
+  "scores": {
+    "hot": 83,
+    "relevance": 80
+  },
+  "sentiment": "positive"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-f7561138",
+  "issue": "2026-W46",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kt"
+  ],
+  "source_type": "news",
+  "source_name": "www.stnsports.co.kr",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBPQ21OQkIyd0JhZ19fVXl3T0V0WlVzME9sMmhzUHlDNlpFTm9hblN5Q1hZTHNZMjVkaUgtaTdKU21vNmxrZmhsaWE1OVJ3Y2ZFVUJsNnppczREZ05ZakN5RjlyRUhUTUxYc01KSFNrQQ?oc=5",
+  "title": "삼성, ‘절망적 투수운용’ 불구 ‘초반 참사’ KT에 대승",
+  "published_at": "2026-11-07T09:25:45.000Z",
+  "collected_at": "2026-11-07T09:38:40.187Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 80
+  },
+  "sentiment": "neutral"
+}

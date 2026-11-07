@@ -1,0 +1,29 @@
+{
+  "id": "community-471722d8",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kt"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 공인중개사의 여행이야기",
+  "url": "https://blog.naver.com/ae3773/224468425625",
+  "title": "오늘 야구결과 삼성, KT에 10-5 승리! 한국시리즈 3승 1패, 우승까지 단 1승",
+  "published_at": "2026-11-07T17:32:00.000+09:00",
+  "collected_at": "2026-11-07T09:38:40.187Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 92,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5EWTlVX01OdEhMNE05UUp4RElYZEtSVU9Scm5SRVRZUzdOemJCekRFZExnZ043S1hGcjZSZVZsOUJlWEg1MjFtcTVDc3J3cmwyV2J4RmhDUQ?oc=5"
+    }
+  ]
+}

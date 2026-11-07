@@ -1,0 +1,22 @@
+{
+  "id": "community-835b908b",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 오늘의 스포츠 직구",
+  "url": "https://blog.naver.com/thermdlkitchen/224466971734",
+  "title": "‘호구 짓 또 시작해?’ 김호령 60억 베팅설 롯데, 황성빈 수비 불안에 눈 돌아갔나? (외야 보강)",
+  "published_at": "2026-11-07T12:27:00.000+09:00",
+  "collected_at": "2026-11-07T09:38:40.187Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

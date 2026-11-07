@@ -1,0 +1,23 @@
+{
+  "id": "news-a64c36f8",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "재경일보",
+  "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBRQm4zWll3QkNqSHlNckE5RnRDUzZvNld1eFJ2T3Q4dEZXSkljWEt0bkkzQVVqUlludDNqT2RrSTBqVW1SMHh5czJ5MA?oc=5",
+  "title": "롯데 자이언츠 미야자키 캠프…이동욱 '수비 습관화' 착수 : 스포츠",
+  "published_at": "2026-11-07T08:44:09.000Z",
+  "collected_at": "2026-11-07T09:38:40.187Z",
+  "summary_ko": "재경일보에 따르면 롯데는 미야자키 캠프에서 이동욱 코치 중심으로 수비 습관화 훈련에 들어갔다.",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "미야자키서 수비 습관화 착수"
+}

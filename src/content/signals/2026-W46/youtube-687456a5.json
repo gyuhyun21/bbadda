@@ -1,0 +1,26 @@
+{
+  "id": "youtube-687456a5",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "드림키키 Dreamkiki",
+  "url": "https://www.youtube.com/watch?v=0cCSBCCnXxY",
+  "title": "#한국시리즈4차전#삼성라이온즈",
+  "published_at": "2026-11-07T08:51:03Z",
+  "collected_at": "2026-11-07T09:38:40.187Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 500,
+    "likes": 13,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 53,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

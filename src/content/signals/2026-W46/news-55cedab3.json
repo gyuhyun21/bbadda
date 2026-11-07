@@ -1,0 +1,28 @@
+{
+  "id": "news-55cedab3",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "OSEN",
+  "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBQY1o4T0wyVWJJN0dZRFZqd1V3cjhUZzg5M3RFbkxPZlZjazgtNk5OanRLc05BNFV2Uk5FcFktbGp3dXNpVWQwdFczem5wUEQ2TVlB?oc=5",
+  "title": "[사진]한국시리즈 4차전 응원 열기 뜨거운 대구 삼성라이온즈파크",
+  "published_at": "2026-11-07T08:14:00.000Z",
+  "collected_at": "2026-11-07T09:38:40.187Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 91,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbVpaRG9Pd0wzcnNzc05SM3JNMHdZNWJjRWE1QTltZmI4NHl0ZkhUa3hjTHVrc2dNb0I0YjJkdklQZDZvbXZHWlhONFY5aUVjQVlzY2pXcjlCTjlZWUstOXA5djZRQU5DUEZ5eXhxSlN5bF9CeWhtTEYwUERXME1uaDNKSGRzQXB6?oc=5"
+    }
+  ]
+}

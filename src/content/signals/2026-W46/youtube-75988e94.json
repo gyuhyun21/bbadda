@@ -1,0 +1,48 @@
+{
+  "id": "youtube-75988e94",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "맛있스포츠 Deliciousports",
+  "url": "https://www.youtube.com/watch?v=rBrwgEH3q4o",
+  "title": "우승까지 단 1승... \"삼성라이온즈 4차전 승리\"",
+  "published_at": "2026-11-07T08:38:58Z",
+  "collected_at": "2026-11-07T09:38:40.187Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 9639,
+    "likes": 423,
+    "comments": 43
+  },
+  "scores": {
+    "hot": 86,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "미주중앙일보",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1qTVM1LWhsaHQ1SUdObTIwSUtaRG9jd1NtR3lBSC1KYlRmaVNPN0RiVVdCdnBIdGxxM19EX2E3ZHVRcUxYZUsyQ204X0ZyYzlTZmRVNXlIY0pZSWh1cXNyaWFR?oc=5"
+    },
+    {
+      "source_name": "경북도민일보",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1TM3JwNEhEUjNKUC1ZRFZuUW14dUNWUTd5WnJFMnZzZU5TMTc1VHFZRmQ4YlcxaDlyLUhqTGwwU0I0TjlaNDBOLUFnVWhQSEdDNEVHNnZsaHpSRjhuN2FfNnNkYlAxOU1wWkE?oc=5"
+    },
+    {
+      "source_name": "ER 이코노믹리뷰",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE04T3Q2aTJhNDVjckdCZjRfOFdhUGdjYlFyMUd5cGdydTNPb2RDTS1MMDlEdzNYaExlUHY5NlBEbVQzYkEwZkZwekVJWHFKODZ1NjZ0bjZGWldTakhkdGdVQnYyNjRqUTRfTnJ4Xw?oc=5"
+    },
+    {
+      "source_name": "뉴스핌",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB1d3lTaTZYMC1sNjEzaF8wRWFScTFxSC1jUUt3U3d6cnppOXIyb0VCd3haWlpYVUUtRzBvbXBmc0p5elhGTFJGc2dtSUdRTGtHVDdkcS1pQTNmQkRR?oc=5"
+    },
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaFQzeVRMZFAzb0ZTbXN0TFBUSnVOWE1IbXpjMkNqV0JlLWRXdWxZUl9OSGFRMi1leXoxSFNxSzkwSERPU1hTVEsyXzhIR3RpXy1rZnNnWVFqZGxnUmp3Vkw2OWhhRUtCSU5McXF2ZU5ab1M2bzZieE5JSHJwYUFvalZ0QQ?oc=5"
+    }
+  ]
+}

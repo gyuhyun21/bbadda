@@ -1,0 +1,28 @@
+{
+  "id": "news-f7202f2f",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1hVjNoVUxjeHEwdTNVY0gxWlJVdmNZbGtMZ1M3QUc1bEl0d1FqQVBLdDQ5QTNTNW9JckNFYWlHMEo3VHd3dzE4SHQtd2ZGSnFaZW9nSWNYV0kxWHROZUFhVTlmOVZnaENuVkJqNHk1emlJMm1UVFgyajd3d2otQQ?oc=5",
+  "title": "\"KIA 박재현처럼\" 고작 19세, 사령탑은 진지함에 반했다…'2년 차' 성공, 왜 기대되나 [미야자키 현장]",
+  "published_at": "2026-11-07T04:18:36.000Z",
+  "collected_at": "2026-11-07T09:38:40.187Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNkxCczJTcnEwcGpyZUVYdXIyZk9yXzVJZDd1eGFMaVJBYzJGZnhmYkRoaEhyVm5FZE1NVHUtQU5GbVVWcDZFQzV3RnkxSm1WYU9GLUZfLWk3ZEpyd2V5cmNkYUJhbjFnMDhtaDNGalVVZnE2QS1taDFidmMyVHdwcm00OA?oc=5"
+    }
+  ]
+}

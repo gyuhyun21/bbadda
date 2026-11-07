@@ -1,0 +1,23 @@
+{
+  "id": "news-c9292da5",
+  "issue": "2026-W46",
+  "module": "rivalry",
+  "team": "kt",
+  "teams": [
+    "kt",
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스핌",
+  "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9FWmJOUGVYem1ZcXBBMFlta0o0SmRtMlRndXBjZUMwYThFdHJnSTZIby13d3B0b3NKWndSV0swelh5LXkzTmRGbUp4bjk2dWNXRVdmc3IwVGJlbkth?oc=5",
+  "title": "[AI그래픽] KT 로건 1이닝 6실점 최악투, KS 4차전 대구 삼성전 투구 분석",
+  "published_at": "2026-11-07T06:20:00.000Z",
+  "collected_at": "2026-11-07T09:38:40.187Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

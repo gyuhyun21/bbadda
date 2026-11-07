@@ -1,0 +1,22 @@
+{
+  "id": "news-ecdbafc6",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "news",
+  "source_name": "중부일보",
+  "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1JSTFIVDFQZ2V5SEJhalFSbFg1amRBWV9pUWlMN01NRi1iNXhJWGJaSnFMR2FFUXV6cjFYNFJ6dWxOZnV5b2pQbzVKbi1janJ5NVVvclBrN2VqWEJHWE1RdnQ2Y1BjWFB3RmlSdUJ3?oc=5",
+  "title": "[2026 한국시리즈] KT, 공수 완전히 무너지며 5-10 패배...5차전 무조건 승리해야",
+  "published_at": "2026-11-07T08:35:12.000Z",
+  "collected_at": "2026-11-07T09:38:40.187Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 80
+  },
+  "sentiment": "mixed"
+}

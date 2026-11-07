@@ -1,0 +1,26 @@
+{
+  "id": "youtube-4cb570df",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "POV:tigers",
+  "url": "https://www.youtube.com/watch?v=QdWS3B301A0",
+  "title": "김도영의 짜릿한 역전 쓰리런 ⚾️ | 2026 KIA TIGERS POV #001",
+  "published_at": "2026-11-07T07:55:10Z",
+  "collected_at": "2026-11-07T09:38:40.187Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 351,
+    "likes": 6,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 44,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

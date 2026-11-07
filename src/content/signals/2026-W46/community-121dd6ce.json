@@ -1,0 +1,24 @@
+{
+  "id": "community-121dd6ce",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 어제보다 나은 오늘",
+  "url": "https://blog.naver.com/haifer/224468296640",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/4i9MWrcpaEh",
+  "title": "KBO 가을야구 순위 2026, 포스트시즌 진출 조건과 경기 방식 총정리",
+  "published_at": "2026-11-07T16:13:00.000+09:00",
+  "collected_at": "2026-11-07T09:38:40.187Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}
