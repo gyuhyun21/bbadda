@@ -1,0 +1,27 @@
+{
+  "id": "youtube-8adf4e8e",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "youtube",
+  "source_name": "야구킥",
+  "url": "https://www.youtube.com/watch?v=2mOb-jCDcWU",
+  "title": "박동원 꼭 잡아야할까? LG트윈스 2차 FA 잔류 전망과 2027 포수진 세대 교체 전략",
+  "published_at": "2026-11-07T02:00:09Z",
+  "collected_at": "2026-11-07T03:38:36.464Z",
+  "summary_ko": "한 야구 채널이 박동원의 2차 FA 잔류 전망과 2027 포수진 세대교체 전략을 다뤘다.",
+  "metrics": {
+    "views": 467,
+    "likes": 6,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 43,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "박동원 잔류와 포수진 전망"
+}

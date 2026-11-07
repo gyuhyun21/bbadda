@@ -1,0 +1,22 @@
+{
+  "id": "news-e023a4f2",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠월드",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1NNXgxaWVDTktRMGh6dHp1VXZaTFlfXzZzZS1vM1ZvVjhtUkdEY3BQYVR3Vk1FdjFGRm9BQnVRTjRxRXRfaGFiV181b1hvUkQ2aHF4czdNeF84a2ZBZVdXaDR3?oc=5",
+  "title": "공격도 수비도 마음대로 안 된다… 부상까지 겹친 KT, 반전 절실",
+  "published_at": "2026-11-07T00:30:00.000Z",
+  "collected_at": "2026-11-07T03:38:36.464Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "news-b18073db",
+  "issue": "2026-W46",
+  "module": "rivalry",
+  "team": "ssg",
+  "teams": [
+    "ssg",
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE16ZFVRcllJLVdRRDFXS1Q0NEZOU2dFT04wdEdKMU9WNzN6eTFZYmY4MXdSZ1UzaURxaDZUMThpa1BWR1VldGxNMVcyWXlpeUYtNG5ydFFDWnExWjFiNWZqbjQwM2dsOVRnb05xSTFjdDJObEtMZVhkVF9GRlpfQQ?oc=5",
+  "title": "\"정말 쓰러질 것 같더라\" 옆구리 투혼, 강민호 가을 첫 선발 제외, 박진만이 밝힌 진짜 이유[KS4]",
+  "published_at": "2026-11-07T02:52:01.000Z",
+  "collected_at": "2026-11-07T03:38:36.464Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 92,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "뉴스핌",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ReC1xZGpWLVRuMElwaEFVdXNfRWx1VGJfRVlWTzk1ZXVlRnhQRTJUaTJ2VGthRlZLVzBadm5UbHNGMVJOWGxHdjhSTWpDMEVjOEhHX1RlX01IMU1M?oc=5"
+    }
+  ]
+}

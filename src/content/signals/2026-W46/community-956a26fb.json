@@ -1,0 +1,24 @@
+{
+  "id": "community-956a26fb",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 한울의 이슈노트",
+  "url": "https://blog.naver.com/whgdkwhgdk250912/224467843789",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/6Fe4Rj6nGHj",
+  "title": "김도영 APBC 연습경기 멀티홈런, 상무전 3타수 3안타와 대표팀 타선",
+  "published_at": "2026-11-07T07:43:00.000+09:00",
+  "collected_at": "2026-11-07T03:38:36.464Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

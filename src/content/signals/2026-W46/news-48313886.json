@@ -1,0 +1,29 @@
+{
+  "id": "news-48313886",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Rb2liR2l2SlRCaUJDWnQzWGstQUhKUV9aZENmMklQME5NTTZVTnQwMWV3V2ZXcG5nNEgtNjktdjA5TzhnX21XOVJCdFZFcFloTXJMQksxTk5yRWMtOV95QW1vTkhGR2wzY2fSAW9BVV95cUxOaVFhalFjbnJZU0NvUi15VTJKQ2U1S2hDMDl2R1dZOUpSbmQxeUZfeGdUTUpWMFJmck84NkpZcGhDR3JuUkFyQVNHeXhhXzVqa0pVQlgyOWZua3ZwLXdvU1BvbGZadjBPQ0hNbVZiSzQ?oc=5",
+  "title": "\"강민호 정말 쓰러질 것 같아서, 2시 경기기도 하고...\" 박진만이 41세 베테랑 포수 제외한 이유",
+  "published_at": "2026-11-07T02:52:42.000Z",
+  "collected_at": "2026-11-07T03:38:36.464Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 100,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBJMHFpYkNPM0VJMnNDdmVCcUduNm5ZQWZMNkNvd1Myd2xQUGtvVjY4eC1IMFlDSXZGc2Vpa0FjQ01oVDNIa0xyTWE3V1JYR2tSVDR3MHlJZlhuX2h3MUx4Zy1QVS1scHpLQ3FuWW96YUJRWU0tLXc?oc=5"
+    }
+  ]
+}

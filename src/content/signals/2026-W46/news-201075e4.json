@@ -1,0 +1,29 @@
+{
+  "id": "news-201075e4",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1MUWxBUV9qcW5JNUl2bHVIczZzRmdRUmk2VkJXVW5Bd0UzYXdOSXdEYkxrNGlSWmlnUXo2dzQwRTd3cWlzRnVoWGg1eDNVYlFMYWpsenhRSU5sRlI2enVUeU1lbm8zLUVyTHZDUlNMUdIBb0FVX3lxTE1MUWxBUV9qcW5JNUl2bHVIczZzRmdRUmk2VkJXVW5Bd0UzYXdOSXdEYkxrNGlSWmlnUXo2dzQwRTd3cWlzRnVoWGg1eDNVYlFMYWpsenhRSU5sRlI2enVUeU1lbm8zLUVyTHZDUlNMUQ?oc=5",
+  "title": "'한화의 황성빈-박해민 찾아라' 류지현 감독 \"상대 괴롭힐 수 있는 선수 필요해, 후보는 보인다\" [오!쎈 미야자키]",
+  "published_at": "2026-11-07T01:00:00.000Z",
+  "collected_at": "2026-11-07T03:38:36.464Z",
+  "summary_ko": "한화 류지현 감독이 미야자키 캠프에서 상대를 괴롭힐 수 있는 선수가 필요하다며 후보는 보인다고 말했다고 머니투데이가 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBQSkRlUlFwMmxSbTZWUDh0R1BiWG9RQVM5am5aVEExd1lLZ3ByZDNoM3ctX3hlOHVyc3A4NFBBVzd2R3NsV3Atd0FUS1l5emoxakdWdg?oc=5"
+    }
+  ],
+  "brief_ko": "류지현 \"괴롭힐 선수 필요\""
+}

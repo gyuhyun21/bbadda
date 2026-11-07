@@ -1,0 +1,24 @@
+{
+  "id": "community-2c9a3c59",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 양키생제",
+  "url": "https://blog.naver.com/majorbest/224467903642",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/2iNmzC6BypN",
+  "title": "MLB 3루수 시장서 메이저리그 경험 0경기 노시환 빅리거 887경기 선수보다 순위가 높다?",
+  "published_at": "2026-11-07T09:50:00.000+09:00",
+  "collected_at": "2026-11-07T03:38:36.464Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

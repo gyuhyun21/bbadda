@@ -1,0 +1,23 @@
+{
+  "id": "news-e14e2f2e",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5IcFR1YkI1ODFjZVJXUXlkSlJQenNxa3lyM01wOHFOQ21FUk9xalVueTFKTkVCRFBQODV1dDdaZWloMEZUSXVWNEhacEF3QjhLRHlCY2ZIdmFFNzlyZm1qcWltOGYwamRvY2fSAW9BVV95cUxORE45dWZCTFc5Z1lXeVJpUVJ5Qm40UmVRcHNnOTgwel91akdUUEtrLWNGYWcyUHV5cVczSzl5MDdpSk0zazhzeWxuenMxR1JrcHhnSzQwb3B3cFdScnRwcjl2ZzJDQW1naVhyZENWM3M?oc=5",
+  "title": "[포토] 박진만 감독 '강민호 쓰러질 것 같아 쉬라 했어요'",
+  "published_at": "2026-11-07T02:33:41.000Z",
+  "collected_at": "2026-11-07T03:38:36.464Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "news-02634fb0",
+  "issue": "2026-W46",
+  "module": "league",
+  "teams": [],
+  "source_type": "news",
+  "source_name": "뉴스핌",
+  "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBJNHI1WmtXa1RVQUpKWGNWaUFxSFliU2JuVTBQLWlUb2VRYXdmQUZHclBTZ1NZSml2bkdXU2kxOGV6eFJKbVVFZE9UMVRpT0VYbTNLY2k2c1hXMUF6?oc=5",
+  "title": "[KS 포커스] 가을야구 아닌 겨울야구…변수로 떠오른 갑작스러운 추위",
+  "published_at": "2026-11-07T00:00:00.000Z",
+  "collected_at": "2026-11-07T03:38:36.464Z",
+  "summary_ko": "KS 4차전을 앞두고 갑작스러운 추위가 변수로 떠올랐다는 뉴스핌 보도다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 30
+  },
+  "sentiment": "neutral",
+  "brief_ko": "갑작스런 추위, KS 변수로"
+}

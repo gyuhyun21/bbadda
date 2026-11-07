@@ -1,0 +1,24 @@
+{
+  "id": "news-bc81915c",
+  "issue": "2026-W46",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "일간스포츠",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1BUHFURnRWZjVRNzdrVjFCNU92X2F1WUJLUGpRTjk4djFHSlpsMXRQYXh1SEhfMEYzeldzSExqTGNvdmZXenNzWFBLeGtrSUE3ZHBfTXZ4UG41TVZfemJCbXhB?oc=5",
+  "title": "'영웅' 이승엽 앞에서 3루타, 구자욱 \"연구한 세리머니, 뭉클하고 감동적\" [KS 인터뷰]",
+  "published_at": "2026-11-07T01:52:00.000Z",
+  "collected_at": "2026-11-07T03:38:36.464Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

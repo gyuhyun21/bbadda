@@ -1,0 +1,26 @@
+{
+  "id": "youtube-042ae82d",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "youtube",
+  "source_name": "엘지사모",
+  "url": "https://www.youtube.com/watch?v=Jwyp2wtfqVs",
+  "title": "만약에 'LG트윈스'에 구자욱이 온다면 벌어질 일들 #구자욱 #홍창기 #박동원 #엘지트윈스 #LG트윈스 #구자욱fa #홍창기fa",
+  "published_at": "2026-11-07T00:30:36Z",
+  "collected_at": "2026-11-07T03:38:36.464Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 769,
+    "likes": 25,
+    "comments": 10
+  },
+  "scores": {
+    "hot": 72,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

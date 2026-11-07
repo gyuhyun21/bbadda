@@ -1,0 +1,26 @@
+{
+  "id": "youtube-5cff12f0",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "source_name": "쇼핑잇",
+  "url": "https://www.youtube.com/watch?v=-0PbDJMpL4I",
+  "title": "한화 페라자 정말 방출할까 #한화이글스 #페라자 #화이트",
+  "published_at": "2026-11-07T03:36:17Z",
+  "collected_at": "2026-11-07T03:38:36.464Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 0,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

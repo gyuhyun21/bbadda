@@ -1,0 +1,31 @@
+{
+  "id": "news-5361a285",
+  "issue": "2026-W46",
+  "module": "rivalry",
+  "team": "kt",
+  "teams": [
+    "kt",
+    "samsung"
+  ],
+  "source_type": "news",
+  "announcement": true,
+  "source_name": "스타뉴스",
+  "url": "https://www.starnewskorea.com/sports/2026/11/07/2026110712070223834",
+  "title": "[오피셜] KBO 한국시리즈 4차전 대구 KT-삼성전 시구자 공개 'AG 유도 금메달리스트' 허미미, 애국가는 가수 홍이삭",
+  "published_at": "2026-11-07T03:09:16.000Z",
+  "collected_at": "2026-11-07T03:38:36.464Z",
+  "summary_ko": "KS 4차전 시구자로 AG 유도 금메달리스트 허미미가 나서고 애국가는 가수 홍이삭이 부른다고 스타뉴스가 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 80
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA1WjRBUng3dHpJUGdCbENwTXpYVGJaTG1uVDF5dXFlUklPZ01UallOREFidEhsby1EWk85WlV5MDVYZkxvcXFYVko4bUl4aHpGM1JjX1lNMjJlTFRmRkk2X1JxdnJXSjFoSHfSAW9BVV95cUxPckhEcmpSMUp6aDZ5VGhzSjF5ck9ieW1rMEMxQnJFTER3aUdjcU91WlA2S0MtN0ExR1J5SzVralJSaXJnVnJzNm9CMDBYNFJDRzRtWmdELWkzU0NEbzVVc21tdXJOeEhkU1loa3N0Nkk?oc=5"
+    }
+  ],
+  "brief_ko": "4차전 시구는 유도 허미미"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "community-4659cd6a",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "community",
+  "source_name": "디시 야구 갤러리",
+  "url": "https://gall.dcinside.com/board/view/?id=skwyverns_new1&no=7307464",
+  "title": "SSG는 10개 구단 중 제일 부자구단임",
+  "published_at": "2026-11-01T15:00:00.000Z",
+  "collected_at": "2026-11-07T03:38:36.464Z",
+  "summary_ko": "",
+  "excerpt": "... 부자구단이 아니고선 ops 0.7 치는 7번 타순한테 70억 쓸리가 없음 ㅎ.",
+  "metrics": {},
+  "scores": {
+    "hot": 21,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "community-20b97d3d",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "community",
+  "source_name": "엠엘비파크",
+  "url": "https://mlbpark.donga.com/mp/b.php?id=202611060119927880&p=61&b=kbotown&m=view&select=spf&query=LG&site=donga.com",
+  "title": "근데 LG는 22가 우승 적기였던거 같은데",
+  "published_at": "2026-11-05T15:00:00.000Z",
+  "collected_at": "2026-11-07T03:38:36.464Z",
+  "summary_ko": "",
+  "excerpt": "... lg엘지v42026-11-06 16:16IP: 175.199 ... 김광현 복귀가 컸고 류지현 감독의 PO 2차전 투수 교체 타이밍…",
+  "metrics": {},
+  "scores": {
+    "hot": 55,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

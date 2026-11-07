@@ -1,0 +1,28 @@
+{
+  "id": "news-b20c3e78",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9DaFl1RzRNaFdIUmNLUXNUUm9fM1k3dEtrWEM5Wkh0dWxfZ05IeTdXY29DX21HRmN5TUFqVGNsUTIyV0NqclJNRTBjNzRlcTFTbEJONWhfTXVjazNNbjlySmliQVhlTzdLalZRdGphQdIBb0FVX3lxTE9DaFl1RzRNaFdIUmNLUXNUUm9fM1k3dEtrWEM5Wkh0dWxfZ05IeTdXY29DX21HRmN5TUFqVGNsUTIyV0NqclJNRTBjNzRlcTFTbEJONWhfTXVjazNNbjlySmliQVhlTzdLalZRdGphQQ?oc=5",
+  "title": "'삼성서 방출됐는데 KS 보러 日서 날아왔다!' 158㎞ 아쿼 특별한 라팍 직관 \"4차전도 온다, KBO 다시 뛰고 싶은 마음 강해져\" [KS 현장]",
+  "published_at": "2026-11-07T01:19:57.000Z",
+  "collected_at": "2026-11-07T03:38:36.464Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 91,
+    "relevance": 70
+  },
+  "sentiment": "negative",
+  "also_in": [
+    {
+      "source_name": "스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9RUEd2X2hRQXhHSnhqLWFia3oxRzIwNU4tamlGb2ozSld2aFJzR3RMcXdTTHd6VGVfUjJfLWd3ZFJDb1VvbUZTTEtRc3Nxc0ZmNjk0aEpTQTZGcTlvS2lIX2pqUVljRk1kV3BTdGRPRFhLcTk1c2c?oc=5"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "youtube-12d7be99",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "youtube",
+  "source_name": "어썸티비",
+  "url": "https://www.youtube.com/watch?v=MgYMPLZ6o3Q",
+  "title": "대타 3명! 줄부상 KT의 7회 승부수 #Shorts",
+  "published_at": "2026-11-07T03:15:04Z",
+  "collected_at": "2026-11-07T03:38:36.464Z",
+  "summary_ko": "한 영상 채널이 줄부상 속 KT가 7회에 대타 3명을 쓴 승부수를 소개했다.",
+  "metrics": {
+    "views": 326,
+    "likes": 2,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 36,
+    "relevance": 70
+  },
+  "sentiment": "negative",
+  "brief_ko": "줄부상 KT, 7회 대타 3명"
+}

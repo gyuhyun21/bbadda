@@ -1,0 +1,29 @@
+{
+  "id": "news-1ef3a6f9",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스타뉴스",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE45OUFXX3ZJRC1Vd1Zvb2lhUE5va1k0ZUhKY1R6NnZFOGtYbGdDM0lhRHlsTjFYOWJscnp5TWFPNnhQOTFDc29Cc2J0NzNmRm1rSXlJMk52c1NUSjZvN1RRMnNoYmNKNXpJUGsyRlpYMjhOZTNvS0E?oc=5",
+  "title": "\"꼴찌였던 우리가 KS 상대 기다리다니\" 107억 장안문 지킴이, 왜 '우승 경험'에도 수원 한국시리즈에 울컥했나 [KS3 현장]",
+  "published_at": "2026-11-06T23:01:00.000Z",
+  "collected_at": "2026-11-07T03:38:36.464Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 82,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5tZ0dEeGQyZWZfRS16WEdqZTVkS0FIQUpkYURvQ0FjVWZHUWw0UzBiQ1NsVVFPVEl1Vzg2YUF6MV9qMjRRWGpNWXBkcTBRYVlSMFg2dXpJOTBhUlFfNmdmRG5Vd1ZiSmZ4TmktRDlPa9IBb0FVX3lxTE5tZ0dEeGQyZWZfRS16WEdqZTVkS0FIQUpkYURvQ0FjVWZHUWw0UzBiQ1NsVVFPVEl1Vzg2YUF6MV9qMjRRWGpNWXBkcTBRYVlSMFg2dXpJOTBhUlFfNmdmRG5Vd1ZiSmZ4TmktRDlPaw?oc=5"
+    }
+  ]
+}

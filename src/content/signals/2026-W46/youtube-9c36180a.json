@@ -1,0 +1,27 @@
+{
+  "id": "youtube-9c36180a",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "야구짤츠",
+  "url": "https://www.youtube.com/watch?v=HE_s40IM_uE",
+  "title": "팀에 도움 되겠다고 말하고 다녔는데 김서현이 캠프에서 털어놓은 속마음ㄷㄷ",
+  "published_at": "2026-11-07T00:35:46Z",
+  "collected_at": "2026-11-07T03:38:36.464Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 2091,
+    "likes": 23,
+    "comments": 3
+  },
+  "scores": {
+    "hot": 51,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

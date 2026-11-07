@@ -1,0 +1,24 @@
+{
+  "id": "news-646b744a",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1KcG9Yb3cyOEpsdWN6Q3l1djFtQ2NRTDJQV3RWZHowZURXNFBJY0QwV0ZSTV9BazRtMnA3d2cwdUlpc0tHZGZuM0taa2FVT0ZRdnl3RkxEOXE2bFl5N3d2X3RyeFhPMXEyN1FsS2Jpc9IBb0FVX3lxTE1KcG9Yb3cyOEpsdWN6Q3l1djFtQ2NRTDJQV3RWZHowZURXNFBJY0QwV0ZSTV9BazRtMnA3d2cwdUlpc0tHZGZuM0taa2FVT0ZRdnl3RkxEOXE2bFl5N3d2X3RyeFhPMXEyN1FsS2Jpcw?oc=5",
+  "title": "‘PS 4홈런→대표팀 2홈런’ 김도영, 너무 잘해서 더 아쉽다 “후련한 마음이 가장 커, KS는 안 봐요”",
+  "published_at": "2026-11-06T23:10:00.000Z",
+  "collected_at": "2026-11-07T03:38:36.464Z",
+  "summary_ko": "머니투데이는 PS 4홈런에 이어 대표팀에서 2홈런을 친 김도영이 후련한 마음이 가장 크다고 말했다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "brief_ko": "김도영, 대표팀서도 2홈런"
+}
