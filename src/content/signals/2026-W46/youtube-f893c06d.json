@@ -1,0 +1,26 @@
+{
+  "id": "youtube-f893c06d",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "youtube",
+  "source_name": "가치플레이",
+  "url": "https://www.youtube.com/watch?v=xKFrMsutW2M",
+  "title": "롯데 자이언츠",
+  "published_at": "2026-11-07T08:01:42Z",
+  "collected_at": "2026-11-07T09:38:40.187Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 0,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

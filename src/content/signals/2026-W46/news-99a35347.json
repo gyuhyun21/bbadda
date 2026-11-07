@@ -1,0 +1,30 @@
+{
+  "id": "news-99a35347",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠한국",
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE16a0xzTnE0RThHd0ZSUXlSYUJkQjNKRlpXZTFPSGsyM281UzdUWkhTa1ZJYTNXZDI2QXp2UXZSSTdjeFNHRUd3YzJXYzRyZnRZQXZ2WUVZLXlfOG5xMU9MQ1ZUQVFqTWoycnVId1VGcjnSAXRBVV95cUxPQzdCZTFfbnVxdzNGZ0l3Q1VGT21RLUVnTWlzTjVpaW9JUVdoTG12M3NBVDJ1eVhyd3ZoOTFPcnFGTlh6dmJpOFk1Qk15eWxJaUFScWpBcEY5SV8tNElVeFFtemM2d1JESWVNclhTbTVVN3lCOA?oc=5",
+  "title": "외국인투수 맞나…‘대충격’ 로건, 1이닝 6실점 강판[KS4]",
+  "published_at": "2026-11-07T05:57:08.000Z",
+  "collected_at": "2026-11-07T09:38:40.187Z",
+  "summary_ko": "스포츠한국에 따르면 KT 로건이 KS 4차전에서 1이닝 6실점으로 강판됐다.",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "negative",
+  "also_in": [
+    {
+      "source_name": "일간스포츠",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9uWFVROUh6c09zOTB6UXo5VVZKd3ZmOGNxNVJPQ21rc3ppMWluLVd4cFdtdGJGd1NDTWZ0NVFSQWV5akJacU5UZjFneDRILUY1NnhfMHRSYXpwTlE?oc=5"
+    }
+  ],
+  "brief_ko": "로건, 1이닝 6실점 강판"
+}

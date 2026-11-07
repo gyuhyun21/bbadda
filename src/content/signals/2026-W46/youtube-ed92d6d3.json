@@ -1,0 +1,41 @@
+{
+  "id": "youtube-ed92d6d3",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kt"
+  ],
+  "source_type": "youtube",
+  "source_name": "PEAK SUNG(피크성)",
+  "url": "https://www.youtube.com/watch?v=q_PZ_aEYLkE",
+  "title": "삼성 미쳤다! 12년 만의 우승까지 단 1승🔥 KT 10-5 격파! 박승규 3타점 폭발!#삼성라이온즈 #한국시리즈 #박승규 #구자욱 #김도환 #이재희 #장찬희 #삼성우승 #피크성",
+  "published_at": "2026-11-07T08:39:19Z",
+  "collected_at": "2026-11-07T09:38:40.187Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1321,
+    "likes": 36,
+    "comments": 2
+  },
+  "scores": {
+    "hot": 60,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "진일보 | 전남일보",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE81THg4MWFLZHFqbE1qbWI3d0d5QXFSQkNsMEgtdktQUEZOLVhlLU5HcmFOYmRCd2NhWUNIQVhxWUhkQzJZV1hjTTJVbkNFSjBseUc3ZXdjaWZhZ3RSdkluQWxKdTZiTkZGSWVWNVdVTQ?oc=5"
+    },
+    {
+      "source_name": "뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9YbEdmWlg5WFNTQldpQXRSdnUtOFJkTWpST2FqallUS2g1cHFiUEJTSUtKYXR6aG93M1dud3Rpak5hNVdxMUZnblduVmRzNEU3eGlaNWp3RQ?oc=5"
+    },
+    {
+      "source_name": "메디컬투데이",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9PRlg2QUFnNHRKdWJRaVlqUU1Cal9fbEVvVEJkTkpjbEZCU1V5MVU4UjB6ZUl2emRjazAxRXVtc1pUZlVQbXpGR3NXNVFyQ2V0bmhHWjQtbVZzdGdZbEZoT0kxc0pzbl8yUXJNdQ?oc=5"
+    }
+  ]
+}

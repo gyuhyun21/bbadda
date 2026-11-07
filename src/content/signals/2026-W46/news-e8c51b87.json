@@ -1,0 +1,23 @@
+{
+  "id": "news-e8c51b87",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "news",
+  "source_name": "매일신문",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBnaTc5Y1IxamlDUUZSVWRnS2gxdEhvZUJjeEVfVzg1WmlrNXk5NVdsaElyWTBobVZydmJxZ0JELWt6MTNGN25DNGhVM05RTVFBelJ4TkZUWTdORElEaC0zVVBR?oc=5",
+  "title": "벼랑 끝 kt 대니엘 vs 원태인…KS 5차전 8일 대구서",
+  "published_at": "2026-11-07T08:43:06.000Z",
+  "collected_at": "2026-11-07T09:38:40.187Z",
+  "summary_ko": "매일신문에 따르면 KS 5차전은 8일 대구에서 열리고 KT 대니엘과 삼성 원태인이 선발로 맞선다. KT는 벼랑 끝이다.",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "5차전 대니엘 vs 원태인"
+}

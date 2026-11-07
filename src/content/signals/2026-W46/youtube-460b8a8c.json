@@ -1,0 +1,27 @@
+{
+  "id": "youtube-460b8a8c",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "youtube",
+  "source_name": "KBOSpotlight24h",
+  "url": "https://www.youtube.com/watch?v=a7Tt8EDq3H0",
+  "title": "롯데 자이언츠 깜짝 영입! 이승엽이 직접 한국행을 권유한 일본인 코치의 정체는?#롯데자이언츠 #사네마츠카즈나리",
+  "published_at": "2026-11-07T07:30:00Z",
+  "collected_at": "2026-11-07T09:38:40.187Z",
+  "summary_ko": "KBOSpotlight24h 영상은 롯데가 일본인 코치 사네마츠 가즈나리를 영입한다고 소개한다. 이승엽이 한국행을 권했다고 한다.",
+  "metrics": {
+    "views": 587,
+    "likes": 18,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 58,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "일본인 코치 사네마츠 영입설"
+}

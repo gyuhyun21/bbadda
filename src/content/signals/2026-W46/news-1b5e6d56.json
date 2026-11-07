@@ -1,0 +1,25 @@
+{
+  "id": "news-1b5e6d56",
+  "issue": "2026-W46",
+  "module": "league",
+  "teams": [],
+  "source_type": "news",
+  "source_name": "OSEN",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB0cTVwc0hvTWFtTFNCMklRQ0lleWhpRlBwWHhEd3YzeTFLUk9QWHZhcGxOaFdkbEE1WUVJQTNEMkJqYmxydzl0ckppWTlNSkh2QmFZVQ?oc=5",
+  "title": "[사진]구자욱 뜨거운 포효, '한국시리즈 4차전 승리가 보인다'",
+  "published_at": "2026-11-07T07:55:00.000Z",
+  "collected_at": "2026-11-07T09:38:40.187Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 30
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbGVyYm5ZNURJSkMzQ2tIVll5VTBJYkFZazJKNzlDU2hGU0Q1WFJYRGtzUXhZNkpSQXZlOXg2TTlpMmF2akF5ejVoYmF2V25mQThWNkNrV0hnT0lOM2s4cnl2dHFrYTRud3FqYWRkaUtxa1llbE0zWlJ3bXhGNmYwRHNVdTVaSkxE?oc=5"
+    }
+  ]
+}

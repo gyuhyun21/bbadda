@@ -1,0 +1,36 @@
+{
+  "id": "youtube-e280871a",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "엠엘비 센터 【MLB CENTER】",
+  "url": "https://www.youtube.com/watch?v=ZoiTYhkiXU8",
+  "title": "삼성 라이온즈 한국시리즈 4차전 승리! 우승까지 1승 남았다!",
+  "published_at": "2026-11-07T08:38:45Z",
+  "collected_at": "2026-11-07T09:38:40.187Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 8096,
+    "likes": 528,
+    "comments": 50
+  },
+  "scores": {
+    "hot": 87,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1oczVoYW1FWS1vckVoZU5iN0d5anF2YzI0VlBQMXhiOHV4dkowVlZXa3FLcjNGNS0yc3ZYa0t0aW5qMWxKMXNBTW9JVnQtb1YxV2JfbA?oc=5"
+    },
+    {
+      "source_name": "한겨레",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9MMVhKRkdlVllJUzlMZnZReDFtbFljZnlEd3ZJYmJSZFVVNE41X1FhTGYxaFNES1BFQXRBdV9MYm1tX1J4eUphZXFrZnNWVFRBM2YxQXY4NjNnSkh0c05OdnFydnRaeTA?oc=5"
+    }
+  ]
+}

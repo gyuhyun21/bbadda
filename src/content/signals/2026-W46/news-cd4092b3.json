@@ -1,0 +1,30 @@
+{
+  "id": "news-cd4092b3",
+  "issue": "2026-W46",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5FTjQ1Uk5YeDFnY3dnQXV6UFpOMU1Tc0NRcGV6bFhYUWpLaUpjalZ6MjFoUzgyaG1WQTEyX3FNVjV1eTNCdGRHUDZSZGJ4aGpUTGVhSTFQMFA2NGtvSnNlbHlsM3VQR2JPTFdrZU82ONIBb0FVX3lxTE5FTjQ1Uk5YeDFnY3dnQXV6UFpOMU1Tc0NRcGV6bFhYUWpLaUpjalZ6MjFoUzgyaG1WQTEyX3FNVjV1eTNCdGRHUDZSZGJ4aGpUTGVhSTFQMFA2NGtvSnNlbHlsM3VQR2JPTFdrZU82OA?oc=5",
+  "title": "[포토]'5회초 볼넷 출루하는' 최원준",
+  "published_at": "2026-11-07T07:00:25.000Z",
+  "collected_at": "2026-11-07T09:38:40.187Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 83,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5QNWNLeGlwbzNBZmJfUlZxaVhYY2dPTXR0a0czeW5qaEM5elRMWVlDXzQzVHM4NlgwRWJScW1IUXNibmdmaW0tcnZfTHVCVEZMcHBnTDlFUmxhUzJwNmRyT0doSXFSSjVZTzF3ZlhObldXb0pOemc?oc=5"
+    }
+  ]
+}

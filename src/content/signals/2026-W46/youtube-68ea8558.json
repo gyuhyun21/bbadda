@@ -1,0 +1,26 @@
+{
+  "id": "youtube-68ea8558",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "youtube",
+  "source_name": "니콜라스",
+  "url": "https://www.youtube.com/watch?v=CAv3a_CQjKA",
+  "title": "두산 베어스 우승 기념 AI 응원가 ",
+  "published_at": "2026-11-07T05:12:45Z",
+  "collected_at": "2026-11-07T09:38:40.187Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 5,
+    "likes": 1,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 49,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

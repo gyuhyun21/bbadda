@@ -1,0 +1,29 @@
+{
+  "id": "news-4e1fbbb4",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "news",
+  "source_name": "www.xportsnews.com",
+  "url": "https://www.xportsnews.com/article/2216731",
+  "title": "'1회부터 터졌다!' KT 기선제압, 장진혁 선제 솔로포 '쾅'…PS 개인 통산 첫 홈런 [KS4]",
+  "published_at": "2026-11-07T05:22:28.000Z",
+  "collected_at": "2026-11-07T09:38:40.187Z",
+  "summary_ko": "엑스포츠뉴스에 따르면 KT 장진혁이 KS 4차전 1회 선제 솔로포를 쳤다. 포스트시즌 개인 통산 첫 홈런이다.",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 80
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA3Y1hjb2NQWk1IUTJUSi1pLVBmSUVVZ2o4R2FpczVzRnpmVXNteTFMWC1pUDJMMmJSemNUd2wtR01MYW14NENxN2pEa0VmT1MyaUFGQUJuNjYzZjFXWGNlNzBWemwwWjhFZ3lkamdpNNIBb0FVX3lxTFA3Y1hjb2NQWk1IUTJUSi1pLVBmSUVVZ2o4R2FpczVzRnpmVXNteTFMWC1pUDJMMmJSemNUd2wtR01MYW14NENxN2pEa0VmT1MyaUFGQUJuNjYzZjFXWGNlNzBWemwwWjhFZ3lkamdpNA?oc=5"
+    }
+  ],
+  "brief_ko": "장진혁, PS 첫 홈런"
+}

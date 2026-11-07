@@ -1,0 +1,23 @@
+{
+  "id": "news-8079d311",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "이데일리",
+  "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVTZYOWdsWTN6Z21sTmlZaHRja3BqY2c1dFNLWGw0TUU0OXNIbDNMUDZqeVhXYVVaTVV3UFM5N0ZWblFLOW44RW81RWRXX3NEQlJHR2EySF90SXlMcVhyd19uNHVJOXdueC1tNjJ5RVJqdHdfR2VzQ3hCLUNNb1l5MA?oc=5",
+  "title": "\"한 점 더 쫓아갔으면 고영표 올렸을텐데...\" 이강철 감독 아쉬움",
+  "published_at": "2026-11-07T09:24:48.000Z",
+  "collected_at": "2026-11-07T09:38:40.187Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

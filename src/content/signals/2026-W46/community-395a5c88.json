@@ -1,0 +1,28 @@
+{
+  "id": "community-395a5c88",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 baebae-mu-urt님의 블로그",
+  "url": "https://blog.naver.com/baebae-mu-urt/224468417407",
+  "title": "한국시리즈 4차전 삼성 1회말 6득점 한국시리즈 역대 1회 최다 득점 신기록 김도환 3타점 2루타",
+  "published_at": "2026-11-07T17:21:00.000+09:00",
+  "collected_at": "2026-11-07T09:38:40.187Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "한스경제",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1NWmJWWVVhUEJsWEZqWGVwSmF6aUtwNkh2SEk0bXREcGEtNV9IMlZZRUU5UmFkQ2EzT1R2NE9OcFZFZHdKeU43aWpnbHE0Q19aR0d6STA2S21aYVQ2Sks4TEs3YzJiY3hNNFkw0gFvQVVfeXFMTjk1M3Z6NmVIdmpwUUNsWUMyeEJ6ekJSclFNOGFXQ2FXU0dWMFBXYTlJU00xZFg3ZVhwQ1JxRlhSc3h6dS1mVmNyTFpqN25NTlAxWkNQRzVFZmlzVFB4Ym1ERXdyWVJvQVp5T3dJTTNn?oc=5"
+    }
+  ]
+}

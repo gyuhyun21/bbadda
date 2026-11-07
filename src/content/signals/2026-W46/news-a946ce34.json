@@ -1,0 +1,23 @@
+{
+  "id": "news-a946ce34",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "조선일보",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbHJnQi1hX3dwWG5JTE04QmhaTG5TTWxMNnJ6OWwwNHNsTEtnMkZ0Z2dYWmxEdXZoRGtoY2xyNDBiZDl2ekkzZkdHaFRxdjRkYTIzdDFVNEFVOTVwVHlsSkZoT3lPLW5wNGRzd1FxWENGclV6NU5QZE1CRnVSeHR6SkR4SQ?oc=5",
+  "title": "생애 첫 한국시리즈에서 타율 5할 맹타 ... 삼성 박승규 \"여자친구에게 우승 반지로 프로포즈할 것\"",
+  "published_at": "2026-11-07T09:18:00.000Z",
+  "collected_at": "2026-11-07T09:38:40.187Z",
+  "summary_ko": "조선일보에 따르면 삼성 박승규는 생애 첫 한국시리즈에서 타율 5할을 치고 있다. 우승 반지로 여자친구에게 프로포즈하겠다고 했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "brief_ko": "박승규, 타율 5할에 우승 프로포즈"
+}

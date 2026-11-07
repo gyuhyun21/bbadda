@@ -1,0 +1,29 @@
+{
+  "id": "news-e8d63d6f",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1EX3VWMHZsdWtIZjZmX1BwTGlJNjQ2VDlaUlZNY2VDbGFEaGlvMGFKVDAxRzZOYzR4ZlhKdnJOV0tSRWhybXBJSVpqTEN0cWNZbWZvT3ZISlpqWFRHUjhwMWhjUFpBWGkwQVHSAW9BVV95cUxNWnBqMG5mSVMyOGFLdDNMSW5oZW0zMVl2SEJrWjRqVDZlaU8wcDBQaFBzVzl0WTQxdm5DbjRfa2UzS2Z3VjRwS1pSSHo2UFk2RXVEbGRwTm1Cb1dsRk1sUy1RRFYtZjZyVDBiTnZFd00?oc=5",
+  "title": "'대체 왜' 4이닝만 던졌을까, 장찬희 미스터리→KS 최연소 선발승 무산보다 '대참사' 역전 나올 뻔 [KS4 현장]",
+  "published_at": "2026-11-07T08:21:11.000Z",
+  "collected_at": "2026-11-07T09:38:40.187Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 92,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBVZHh4M3ZIUGl5TlkwcGd2c1JHYjNQYUpMVkttUXNwMDBlbENwT2ZIOXEyUk9yQmF3MWNpZkhWRGJ6X3JzRDZObEZUTDNKQzByenhkZ1lhZmh4MUZVUXo5amE2d3dWeExFVkdSaWIwenNOMXI5MVE?oc=5"
+    }
+  ]
+}

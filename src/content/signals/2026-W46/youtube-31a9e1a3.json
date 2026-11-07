@@ -1,0 +1,32 @@
+{
+  "id": "youtube-31a9e1a3",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "youtube",
+  "source_name": "K-News",
+  "url": "https://www.youtube.com/watch?v=E_l_IxpdMTI",
+  "title": "\"MLB 선수들 한국 KBO로 몰려드나\"…트리스탄 벡 LG행, 美 매체도 주목→노사 갈등·직장폐쇄 위기 속 \"아시아 대탈출 시작될 수도\"",
+  "published_at": "2026-11-07T05:30:24Z",
+  "collected_at": "2026-11-07T09:38:40.187Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 812,
+    "likes": 6,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 41,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "www.xportsnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBVQklkeU1FYUV4aEJyTXBQdXRobnpQU3BMa3F6WDlQcVNKMEVnZ1BxNGJERm80d0RLdFdFTWJlU1lJaEtxV0tIUW9JVzFzWTIxTHVYZw?oc=5"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": "youtube-c6877119",
+  "issue": "2026-W46",
+  "module": "league",
+  "teams": [
+    "kt"
+  ],
+  "team": "kt",
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=hwreoLJrd70",
+  "title": "KT위즈가 눈 야구로 3점을 추가합니다🪄",
+  "published_at": "2026-11-07T07:43:47Z",
+  "collected_at": "2026-11-07T09:38:40.187Z",
+  "summary_ko": "KBO 공식 채널이 KT가 눈야구로 3점을 추가하는 장면을 올렸다.",
+  "metrics": {
+    "views": 2547,
+    "likes": 31,
+    "comments": 4
+  },
+  "scores": {
+    "hot": 52,
+    "relevance": 80
+  },
+  "sentiment": "neutral",
+  "brief_ko": "KT, 눈야구로 3점"
+}

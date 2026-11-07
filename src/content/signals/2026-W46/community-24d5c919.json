@@ -1,0 +1,24 @@
+{
+  "id": "community-24d5c919",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 부름이",
+  "url": "https://blog.naver.com/boorumi29/224468293435",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/BboNGvITQRD",
+  "title": "‘외도·가정폭력’ 주장에 정철원 측 입장…그런데 ‘미래 연봉’까지 등장했다?",
+  "published_at": "2026-11-07T14:41:00.000+09:00",
+  "collected_at": "2026-11-07T09:38:40.187Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}
