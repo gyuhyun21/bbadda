@@ -1,0 +1,26 @@
+{
+  "id": "youtube-99cce15b",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "youtube",
+  "source_name": "이과장의 스포츠",
+  "url": "https://www.youtube.com/watch?v=kTq77aigTJ4",
+  "title": "한국시리즈 3차전, 4차전 KT위즈 선발 소형준과 로건 어땠나?",
+  "published_at": "2026-11-07T14:47:02Z",
+  "collected_at": "2026-11-07T21:38:19.362Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1346,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 36,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

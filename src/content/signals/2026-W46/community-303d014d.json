@@ -1,0 +1,24 @@
+{
+  "id": "community-303d014d",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt",
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 야구 읽어주는 사람",
+  "url": "https://blog.naver.com/ddaassrr/224468554880",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/ASnhsR0yv05",
+  "title": "[KS 5차전] KT의 자멸과 삼성 영건들의 반란, 한국시리즈 4차전 리뷰 및 5차전 프리뷰",
+  "published_at": "2026-11-08T00:00:00.000+09:00",
+  "collected_at": "2026-11-07T21:38:19.362Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

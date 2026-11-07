@@ -1,0 +1,24 @@
+{
+  "id": "community-6214881f",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 BBC 미디어센터",
+  "url": "https://blog.naver.com/sunhoo272/224468648565",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/940gavY3BtC",
+  "title": "세 번의 준우승, 20억 베테랑의 '이번엔 다르다'는 절박함",
+  "published_at": "2026-11-07T23:24:00.000+09:00",
+  "collected_at": "2026-11-07T21:38:19.362Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

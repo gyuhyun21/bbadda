@@ -1,0 +1,23 @@
+{
+  "id": "community-8d54ecd9",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kt"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 Cola 곰의 이야기",
+  "url": "https://blog.naver.com/tim0510/224468747496",
+  "title": "삼성 KT 10-5 대승! 1회 6득점에 KT 와르르…삼성 3연승, 12년 만의 우승까지 단 1승!",
+  "published_at": "2026-11-08T02:30:00.000+09:00",
+  "collected_at": "2026-11-07T21:38:19.362Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

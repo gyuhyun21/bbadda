@@ -1,0 +1,26 @@
+{
+  "id": "youtube-0c2f313b",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "크보이슈",
+  "url": "https://www.youtube.com/watch?v=Tmlc_RsEQQk",
+  "title": "KIA의 검증된 외인 4인방 재계약? #타이거즈",
+  "published_at": "2026-11-07T13:15:14Z",
+  "collected_at": "2026-11-07T21:38:19.362Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1615,
+    "likes": 13,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 43,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

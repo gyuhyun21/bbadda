@@ -1,0 +1,24 @@
+{
+  "id": "news-571d1581",
+  "issue": "2026-W46",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE02V3p1al96d3ZLU0wwUkF3dWo2SEpwYWtiWGtqd09PZnZ2OVlpWmZ3amZHRE9NRVNwYWVzWVhtNjY3YTE4dzZNS2hFQXREVnhfOUhxRDZiYXpHX0pZTHBFSFg5anFFWDVxYTZUaHhlSGcxRzVScG4xZGRYXzk2dw?oc=5",
+  "title": "\"한국시리즈 우승, 마지막 순간 마운드에 있고 싶어요\" 원태인, 꿈의 완봉 가능할까",
+  "published_at": "2026-11-07T20:07:07.000Z",
+  "collected_at": "2026-11-07T21:38:19.362Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 83,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

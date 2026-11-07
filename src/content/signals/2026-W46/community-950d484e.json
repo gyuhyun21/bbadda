@@ -1,0 +1,24 @@
+{
+  "id": "community-950d484e",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kt"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 바요의 스포츠 데이터룸",
+  "url": "https://blog.naver.com/sportvayu/224468822425",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/6aV8o4q8peP",
+  "title": "[26.11.08 KBO 삼성 vs KT] 우승까지 한 걸음, 원태인이 불펜에 넘길 이닝은",
+  "published_at": "2026-11-08T05:17:00.000+09:00",
+  "collected_at": "2026-11-07T21:38:19.362Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

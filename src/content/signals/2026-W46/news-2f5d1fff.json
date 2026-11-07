@@ -1,0 +1,32 @@
+{
+  "id": "news-2f5d1fff",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "미주중앙일보",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1HdmlnUjBwaGxSMlFEUW1YRGdPUnNiVUtEVW1SbTlFeHo5b0x6c3g4Ym1mYXd0TXF6cl9nUDRzck1HTFQzTmpDeHM0c1FkT1VsaWI2ZHN6WkxEb1VhcGJGWER3?oc=5",
+  "title": "'오늘 라팍에서 끝내자!' 우승까지 단 1승…'부상 투혼' 구자욱의 간절한 소망, “삼성 팬들 앞에서 트로피 들고 싶다” [KS]",
+  "published_at": "2026-11-07T20:40:00.000Z",
+  "collected_at": "2026-11-07T21:38:19.362Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 100,
+    "relevance": 70
+  },
+  "sentiment": "mixed",
+  "also_in": [
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZVJvLUR3NkJYWUh3WTYxcGtfUUxLbnZKZ0E4RS1JeTNqWjhCNVo2bE1aMEduVWN5dW1fdHI4SGVPVEJMQ2tmVGtGUFpZb2pha3IwVE9hZXB1X0pBcElINzZZdEN4aG13NlV0MjByUENKV2dsdHZnd242OVYtSFNfbmRDRQ?oc=5"
+    },
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5PVXdIUXRRSy1tZnY4YWU0LTVnUlRYRENmbjBUOHZveUxwTFVpcDJpVmpybzQwUzFvMC1BQ2pOVmpteFlLSkxsMVhSUVNlRkJfQmdHcjQyNU5HanZmMEdVSXJDRW9CdmNaNlHSAW9BVV95cUxNbmowNTB6VlN4RDlCTnJMUW41ajhMTGFIOFpyZWJHN2RPQkdtSWc5Q1Y4czV1dlhLSjM5cFFqRVNPNGxRY0pEUE91S0w5bXZ2S25VQXpNS1JDQXZxSllSLUdfc3lNNlIwcmRoSWRBdVk?oc=5"
+    }
+  ]
+}

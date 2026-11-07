@@ -1,0 +1,24 @@
+{
+  "id": "news-044ce690",
+  "issue": "2026-W46",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스타뉴스",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9TMExPdkpzV3ZfazQzUzU2cEN0TUFldDg5OW40WEg4QXN6Z1ZvYUdzbWNNWUFtb0JTRlByOTJWN1ZCVGtOM05oZGdlQlRHdWRpald3MVpLYlFHZ0FjR1FMaFVya3pEYjE4NU12MjlObFRNZWM0TVE?oc=5",
+  "title": "'페덱·후라도피셜' 테무산 오타니의 고백 \"인성·실력 다 닮고 싶어\" 이제 '우승'도 따라하기 직전",
+  "published_at": "2026-11-07T15:01:00.000Z",
+  "collected_at": "2026-11-07T21:38:19.362Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 82,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

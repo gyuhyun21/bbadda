@@ -1,0 +1,24 @@
+{
+  "id": "community-e63633e3",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 제이에스비",
+  "url": "https://blog.naver.com/forfinals/224468702097",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/1Bz8NUnUlcx",
+  "title": "김민성의 코치로써 첫번째 작품. 나쪽이는 금쪽이가 될 수 있을까?",
+  "published_at": "2026-11-08T00:18:00.000+09:00",
+  "collected_at": "2026-11-07T21:38:19.362Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

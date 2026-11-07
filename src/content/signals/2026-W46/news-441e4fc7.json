@@ -1,0 +1,23 @@
+{
+  "id": "news-441e4fc7",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "이데일리TV",
+  "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBraGtaWmowSTJWMHlGcmN0QXd2YnVpYnFsMk9FSU9FLWU2ODhyS3VGYlJtTWlnbE9kT2VWWDJ5VUc3S0lSTDkyVW5HOUkzYVJoQ3JlbF9rMllqaFVuYUg4NnB2QkRycDRaeU9EalJNY3ZrOExFNWFSbTAyZw?oc=5",
+  "title": "어제는 홈런, 오늘은 2타점 2루타…KS서 확실히 미친 박승규",
+  "published_at": "2026-11-07T09:41:00.000Z",
+  "collected_at": "2026-11-07T21:38:19.362Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

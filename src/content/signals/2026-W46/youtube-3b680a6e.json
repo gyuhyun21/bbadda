@@ -1,0 +1,26 @@
+{
+  "id": "youtube-3b680a6e",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "ace stories 에이스 스토리즈",
+  "url": "https://www.youtube.com/watch?v=n9UcdPKVUC0",
+  "title": "강민호가 담은 진심 #강민호 #kbo #삼성라이온즈",
+  "published_at": "2026-11-07T15:06:20Z",
+  "collected_at": "2026-11-07T21:38:19.362Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 3450,
+    "likes": 48,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 51,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

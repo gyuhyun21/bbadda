@@ -1,0 +1,24 @@
+{
+  "id": "news-bb744237",
+  "issue": "2026-W46",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "뉴스핌",
+  "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1NMVBxNHJ2TlZ2dG5jdGl1WmFKcmlWWGZFdFh4SVFBRURwMkV3V3FiTVE2ZThhbEhMMHkwVUJqVUlwSmFrUUJsblZCS25KRkJfM1dxZlAyZFVrS25s?oc=5",
+  "title": "[KS 포커스] 최고 무대서 나온 사사구 19개...역대급 흥행 이면의 씁쓸한 민낯",
+  "published_at": "2026-11-07T10:46:00.000Z",
+  "collected_at": "2026-11-07T21:38:19.362Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 72,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

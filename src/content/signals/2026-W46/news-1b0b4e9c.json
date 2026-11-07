@@ -1,0 +1,29 @@
+{
+  "id": "news-1b0b4e9c",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1sSlVyZXczMmxpMlRTR3ZsbDBLUkdRZU16Mk93Y0F6eDZvU1ZRU01KWUw1NzM0S1pER2sxbDU0eTFHYkR6VjdHRGw5MV9PZnhoaHo3clVhR2RHNjNWNUJsdXdlbjBMWkd5aEM1UWNHTdIBb0FVX3lxTE1sSlVyZXczMmxpMlRTR3ZsbDBLUkdRZU16Mk93Y0F6eDZvU1ZRU01KWUw1NzM0S1pER2sxbDU0eTFHYkR6VjdHRGw5MV9PZnhoaHo3clVhR2RHNjNWNUJsdXdlbjBMWkd5aEM1UWNHTQ?oc=5",
+  "title": "\"몸이 되면 다 나가야\" KT 희소식! 최원준·허경민 복귀→안현민도 정상 출격→장진혁 LF 전격 투입",
+  "published_at": "2026-11-07T03:42:43.000Z",
+  "collected_at": "2026-11-07T21:38:19.362Z",
+  "summary_ko": "KT 최원준·허경민이 복귀하고 안현민도 정상 출격한다는 보도다. 장진혁이 좌익수로 투입될 전망이다.",
+  "metrics": {},
+  "scores": {
+    "hot": 70,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9jc3poVzdLNGxfT3g2OVVZNnhIWXE5QjhvUlhlZ0NHaGxTMy1wcVlobGtwajBTQVFCYnJoSm9kMl9NNjBYSHlPVFVQS0w1NWJMVWVlUl9sWFA1MlZya1RvMXYxMjlFY3cyR3FLaHpUc25rUnJRckE?oc=5"
+    }
+  ],
+  "brief_ko": "KT 5차전, 최원준·허경민 복귀"
+}

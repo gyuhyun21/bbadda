@@ -1,0 +1,23 @@
+{
+  "id": "community-b596fb52",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 스포츠에 빠지다",
+  "url": "https://blog.naver.com/kida02_/224468773458",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/LYXVkmpjRef",
+  "title": "\"김도영, 이승엽 칭찬까지 받다니!\" KIA 45홈런왕이 존중한 56홈런",
+  "published_at": "2026-11-08T05:10:00.000+09:00",
+  "collected_at": "2026-11-07T21:38:19.362Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

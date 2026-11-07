@@ -1,0 +1,22 @@
+{
+  "id": "community-cc43253e",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 맛집 탐방 일기",
+  "url": "https://blog.naver.com/yeeeonb/224468490775",
+  "title": "잠실야구장 그라운드 직접 밟는다! 두산 베어스 무료 팬투어 일정",
+  "published_at": "2026-11-07T19:50:00.000+09:00",
+  "collected_at": "2026-11-07T21:38:19.362Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

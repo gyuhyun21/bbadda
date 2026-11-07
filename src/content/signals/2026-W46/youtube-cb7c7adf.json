@@ -1,0 +1,27 @@
+{
+  "id": "youtube-cb7c7adf",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "도리_dori1036",
+  "url": "https://www.youtube.com/watch?v=caaS-QgMBTY",
+  "title": "안방 우승이냐 벼랑 끝 반격이냐 #삼성라이온즈 #KT위즈 #프로야구",
+  "published_at": "2026-11-07T17:21:25Z",
+  "collected_at": "2026-11-07T21:38:19.362Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 3332,
+    "likes": 34,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 48,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "community-be767fe5",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kt"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 오늘 pick",
+  "url": "https://blog.naver.com/jipnote1004/224468772783",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/EkAkkEzw4FK",
+  "title": "삼성 라이온즈 한국시리즈 우승까지 단 1승! kt에 10대5 승리, 12년 만에 왕좌 탈환?",
+  "published_at": "2026-11-08T03:06:00.000+09:00",
+  "collected_at": "2026-11-07T21:38:19.362Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "데일리스포츠한국",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBpdHV6cDczb3VpT3dtMHhFMUVQMjNGclpST3d2VXdXT0lfRDFUQV9zUVZtamNyUE94UlFlNFBuRUpucWF5LXYtN2dmdnctVjFYd2pMd3ZXZTAwdkZxTnVmVEt6cTlLSDF2NmUyY05LMzhZS1FxT0x2NTY4QdIBf0FVX3lxTE9Rcmp5TF95RVpWX3FiUWNhWGJoWlFwSkdUcGR1WFRqbVphckVnWkpDT0Q1YzBFSGNaZ3I0cGR3STQ2MEpBQXJzRzJ2Z1Fwc1NkczhjMnJkUlNpTTVEdTNJM3I5U2ttRENvZVpDLUJzM2ZJeEJrT1VhRVlEX29kajQ?oc=5"
+    }
+  ]
+}

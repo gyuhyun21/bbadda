@@ -1,0 +1,26 @@
+{
+  "id": "youtube-d4f39171",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "youtube",
+  "source_name": "순위의 발견",
+  "url": "https://www.youtube.com/watch?v=6iodi8GrZLg",
+  "title": "🚨 롯데 자이언츠 충격적인 선수단 정리! 재계약 불가 16명 명단 공개!",
+  "published_at": "2026-11-07T14:46:47Z",
+  "collected_at": "2026-11-07T21:38:19.362Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 995,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 34,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

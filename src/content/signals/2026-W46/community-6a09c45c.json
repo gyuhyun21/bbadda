@@ -1,0 +1,24 @@
+{
+  "id": "community-6a09c45c",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 뛰어뚱-스포츠의 모든것",
+  "url": "https://blog.naver.com/tmdwns00428/224468330738",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/6UVEOLh4ch1",
+  "title": "이럴수가..\"못하면 못 뛴다\" 38세 통산 안타왕 손아섭, 해설 마이크 잡고 다짐한 부활의 말은?",
+  "published_at": "2026-11-07T16:17:00.000+09:00",
+  "collected_at": "2026-11-07T21:38:19.362Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

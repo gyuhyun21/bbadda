@@ -1,0 +1,29 @@
+{
+  "id": "news-24cf45eb",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE14LVI3X3RYNm1GcU1KQzdKeF9vUDBOR1Zpek1zYUpLTTRjSUF1ZV9DUjR6YkpieFI3RHNEZEtObXVCNWlWMFloVFhkXzNEc3JKYnBRR1FHSUt4NXdWcnRteS1MSkk0MENtNEHSAW9BVV95cUxNUE9MSXRKUWJDYTFsdUtBTnliNEhDeUV4QVZBYUlSTS1TYVJnUkQzbnF1WEVFMWlQRS1EY3E0cUJUMnhMWkJoVkZSMlA2anN4cjBlSTdTX0phN3BtdmV4elEzZURJYURKekhGRGNXWk0?oc=5",
+  "title": "대충격! 1위팀이 1패면 우승 좌절 실화? '벼랑 끝' 운명의 5차전 선발 공개...1차전 영웅 너만 믿는다 [KS]",
+  "published_at": "2026-11-07T11:42:00.000Z",
+  "collected_at": "2026-11-07T21:38:19.362Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 72,
+    "relevance": 70
+  },
+  "sentiment": "mixed",
+  "also_in": [
+    {
+      "source_name": "OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9MdFRkMml3WHpHZDJUakNzY3BOSTZFODI5LXZtMlpCUV84cGVPMzVEVkdaUTJicXpiM2NlbnpXRXZOQmprT1FxMnprNHE0Tnh1TVQ4ZQ?oc=5"
+    }
+  ]
+}
