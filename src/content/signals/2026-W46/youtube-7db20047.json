@@ -1,0 +1,26 @@
+{
+  "id": "youtube-7db20047",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "호랑이굴",
+  "url": "https://www.youtube.com/watch?v=uMTZTDsCWqU",
+  "title": "1년동안 쉬지 않고 야구 하면서 아시아 최고 먹겠다는 김도영 #기아타이거즈 #야구 #프로야구",
+  "published_at": "2026-11-07T13:36:14Z",
+  "collected_at": "2026-11-07T21:38:19.362Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 3755,
+    "likes": 87,
+    "comments": 4
+  },
+  "scores": {
+    "hot": 60,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

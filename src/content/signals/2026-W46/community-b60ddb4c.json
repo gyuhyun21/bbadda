@@ -1,0 +1,29 @@
+{
+  "id": "community-b60ddb4c",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 민군's 인물트렌드",
+  "url": "https://blog.naver.com/ibpms/224468728729",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/B8BnD1A44Tg",
+  "title": "'삼성 이재희' 누구? 한국시리즈 4차전 만루 위기 막아낸 역투, MVP 등극! 프로필 고향 학력 나이 연봉",
+  "published_at": "2026-11-08T00:43:00.000+09:00",
+  "collected_at": "2026-11-07T21:38:19.362Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "매일신문",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1xdDFJd2hidXJRUlZzV1A2R1lpNUsxamo3Um5wcklDT2kwZG5idVdyZWlkeVh5dEJzZUR5LS1kVlJmWnBWcS1jcXJ1RzR4NHJILXFsU0diX1BBS1VNN093ODBn?oc=5"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-2a5c5af4",
+  "issue": "2026-W46",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kt"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스핌",
+  "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1JWmVPMUlmLUpmSDViWmVTWENmbU9WSl9RcUx2MTJCRzF5RzJ6MkxrSmhWYktINU5qZnJ3NnQ0UGZIS2tYRmljMFN6dFdtYXVjb000TGFUZmYzRjIt?oc=5",
+  "title": "[KS 포커스] 삼성 사토시·KT 스기모토, 나란히 망가진 아시아쿼터 불펜",
+  "published_at": "2026-11-07T21:08:00.000Z",
+  "collected_at": "2026-11-07T21:38:19.362Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

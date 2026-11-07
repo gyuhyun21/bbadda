@@ -1,0 +1,30 @@
+{
+  "id": "news-3b7092c0",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스타뉴스",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBWaFg3SGJweWVoUlllR2sxZmV1NV9SZXF1aVhXUXlLdTNMUzYtSW82UE5lNlkwNm1rMXpSVUoxeFp2NHlBbTZwNGJKdVNNZlVBUWMtSmwyYXdqMzlMZ2hkVm5iVGFxQ1g4dldCVFY1UkJFMnFNYWc?oc=5",
+  "title": "\"(원)태인아, 네가 무리하다 쓰러지면 우리도 끝난다\" 사령탑 만류에도 '5차전 선발 출격' 원태인 한 술 더 떴다 \"6·7차전 불펜도 대기하겠다\" [KS4 현장]",
+  "published_at": "2026-11-07T13:01:00.000Z",
+  "collected_at": "2026-11-07T21:38:19.362Z",
+  "summary_ko": "삼성 원태인이 5차전 선발로 나선다. 사령탑이 무리하지 말라고 만류했는데도 6·7차전 등판 의지를 보였다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 73,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE92WUFXSGVkWk1NZlVoN0d6ZHZrc1ZiTkdheG1MQmVTWk94LVJPY2ljeG9Cc3Q4SktDVlZpUGV1bnZTVnZWYldILTZEYzQ0NjU0R19CNXhHcVRuN0ZRb21pRncyd05YS1JXNW1KOU5wb9IBb0FVX3lxTE92WUFXSGVkWk1NZlVoN0d6ZHZrc1ZiTkdheG1MQmVTWk94LVJPY2ljeG9Cc3Q4SktDVlZpUGV1bnZTVnZWYldILTZEYzQ0NjU0R19CNXhHcVRuN0ZRb21pRncyd05YS1JXNW1KOU5wbw?oc=5"
+    }
+  ],
+  "brief_ko": "원태인 5차전 선발 출격"
+}

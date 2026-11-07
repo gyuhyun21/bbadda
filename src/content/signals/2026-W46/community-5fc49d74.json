@@ -1,0 +1,24 @@
+{
+  "id": "community-5fc49d74",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&page=5&document_srl=10530571550",
+  "title": "11월 8일 KBO에서 있었던 일 - 야구",
+  "published_at": "2026-11-07T15:38:19.362Z",
+  "collected_at": "2026-11-07T21:38:19.362Z",
+  "summary_ko": "",
+  "excerpt": "... SSG의 이름으로 완성한 첫 통합 우승 랜딩! 2022년에 야구가 시작된 첫날부터 오늘, 그 마지막…",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

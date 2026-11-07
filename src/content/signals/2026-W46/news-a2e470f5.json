@@ -1,0 +1,23 @@
+{
+  "id": "news-a2e470f5",
+  "issue": "2026-W46",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kt"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스핌",
+  "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5IbW4xajBtNkhZWE5mRlgza2R1TFFYU295ZHc5RDZreGpNc055ZjlXa2ZjQkpnTHhaekI4TDBnN3FQOEdUcElZMWRXOE1oeUM0aG5FbDhKRjJnRFJG?oc=5",
+  "title": "[KS5] 5년 전 놓친 우승, 이번엔 내 손으로...삼성 원태인, KT 상대 운명의 설욕전",
+  "published_at": "2026-11-07T20:27:00.000Z",
+  "collected_at": "2026-11-07T21:38:19.362Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

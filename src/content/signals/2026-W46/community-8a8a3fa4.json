@@ -1,0 +1,23 @@
+{
+  "id": "community-8a8a3fa4",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "community",
+  "source_name": "디시 야구 갤러리",
+  "url": "https://gall.dcinside.com/board/view/?id=lgtwins_new&no=19097360",
+  "title": "LG 트윈스",
+  "published_at": "2026-10-21T00:00:00.000Z",
+  "collected_at": "2026-11-07T21:38:19.362Z",
+  "summary_ko": "",
+  "excerpt": "... 가장 눈에 띄는 선수는 최동환이다. 최동환은 2009년 신인드래프트 2차 2라운드 전체 13순위로 LG트윈스에 입단한…",
+  "metrics": {},
+  "scores": {
+    "hot": 8,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

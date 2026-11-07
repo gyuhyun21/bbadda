@@ -1,0 +1,23 @@
+{
+  "id": "community-4be1f22d",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 라카이브",
+  "url": "https://blog.naver.com/gochive/224468714812",
+  "title": "인생 첫 코시 직관 ! 안타를 날려줘요~",
+  "published_at": "2026-11-08T01:06:00.000+09:00",
+  "collected_at": "2026-11-07T21:38:19.362Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

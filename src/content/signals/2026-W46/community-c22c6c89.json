@@ -1,0 +1,23 @@
+{
+  "id": "community-c22c6c89",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 마데의 야구 칼럼",
+  "url": "https://blog.naver.com/da331/224468388397",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/9hHbiMB1r74",
+  "title": "[KBO] 돈 안 쓰면 벌금 내는 키움…서건창 6억→12억 올려 줘도 9.6억 모자란다",
+  "published_at": "2026-11-07T17:13:00.000+09:00",
+  "collected_at": "2026-11-07T21:38:19.362Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

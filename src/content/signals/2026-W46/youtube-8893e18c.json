@@ -1,0 +1,26 @@
+{
+  "id": "youtube-8893e18c",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "youtube",
+  "source_name": "야응사",
+  "url": "https://www.youtube.com/watch?v=TsG8wU3l4-c",
+  "title": "두산 베어스 박지훈 응원가 music video",
+  "published_at": "2026-11-07T13:06:40Z",
+  "collected_at": "2026-11-07T21:38:19.362Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 3,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

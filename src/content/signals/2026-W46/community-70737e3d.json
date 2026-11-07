@@ -1,0 +1,24 @@
+{
+  "id": "community-70737e3d",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 지금 이 이슈",
+  "url": "https://blog.naver.com/nowmoon101/224468538071",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/4LnAc10m5ff",
+  "title": "4번째 도전, 20억 베테랑의 눈물: 김태훈, '우승' 향한 절박함의 이유",
+  "published_at": "2026-11-07T20:30:00.000+09:00",
+  "collected_at": "2026-11-07T21:38:19.362Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

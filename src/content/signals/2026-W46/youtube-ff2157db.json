@@ -1,0 +1,26 @@
+{
+  "id": "youtube-ff2157db",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "youtube",
+  "source_name": "홍스맨\"이야기&인생\"",
+  "url": "https://www.youtube.com/watch?v=JM63J7hw-8k",
+  "title": "#정설아#ssg랜더스\"랜더스 여신^^정설아의 멋진응원\"",
+  "published_at": "2026-11-07T11:34:55Z",
+  "collected_at": "2026-11-07T21:38:19.362Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 60,
+    "likes": 3,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 60,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

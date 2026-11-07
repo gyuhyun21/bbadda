@@ -1,0 +1,27 @@
+{
+  "id": "youtube-130530a4",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "youtube",
+  "source_name": "유잼유잼유잼",
+  "url": "https://www.youtube.com/watch?v=MbvwV_UDtNg",
+  "title": "이택근 선수, 눈물의 은퇴식!!! (11.7 SSG랜더스필드)",
+  "published_at": "2026-11-07T12:38:41Z",
+  "collected_at": "2026-11-07T21:38:19.362Z",
+  "summary_ko": "11월 7일 SSG랜더스필드에서 열린 이택근 선수 은퇴식 영상이다.",
+  "metrics": {
+    "views": 2335,
+    "likes": 26,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 47,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "이택근 은퇴식, 랜더스필드"
+}

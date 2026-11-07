@@ -1,0 +1,27 @@
+{
+  "id": "youtube-2dcb07f2",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "SSG랜더스",
+  "url": "https://www.youtube.com/watch?v=gmeN33WVJvk",
+  "title": "최정 팀이 진 이유🙄 | 최광야구 1429 EP.10 훈련 비하인드",
+  "published_at": "2026-11-07T10:01:28Z",
+  "collected_at": "2026-11-07T21:38:19.362Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 62630,
+    "likes": 1178,
+    "comments": 279
+  },
+  "scores": {
+    "hot": 73,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

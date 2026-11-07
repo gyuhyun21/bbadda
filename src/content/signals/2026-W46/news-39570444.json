@@ -1,0 +1,22 @@
+{
+  "id": "news-39570444",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "news",
+  "source_name": "대전MBC",
+  "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE04TUFwcVlaaGlFRlFfMS1BZ3ZkcjZvcFNWRnFlZlVXaXlSQWNmY1VmRGQ4RGJTeERGOHpXOUZZNVJoMElYRnUycVRtblctdkU?oc=5",
+  "title": "시시각각 '한화이글스, 비상의 조건' 방송",
+  "published_at": "2026-11-07T00:44:16.000Z",
+  "collected_at": "2026-11-07T21:38:19.362Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 61,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

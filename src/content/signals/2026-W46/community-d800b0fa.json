@@ -1,0 +1,24 @@
+{
+  "id": "community-d800b0fa",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 • 취향 기록장 •",
+  "url": "https://blog.naver.com/alwayshere5/224468549289",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/JQXFpnUp60x",
+  "title": "불꽃야구 시즌2 직관 후기 불꽃파이터즈 VS 덕수고 시즌 마지막 직관 이택근 선수 은퇴식까지",
+  "published_at": "2026-11-07T21:36:00.000+09:00",
+  "collected_at": "2026-11-07T21:38:19.362Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

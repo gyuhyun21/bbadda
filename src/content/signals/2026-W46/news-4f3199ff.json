@@ -1,0 +1,29 @@
+{
+  "id": "news-4f3199ff",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스타뉴스",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9QVzZjdEZLTUpRcXVaV3BvNTByckhmdk80QjdyUG4tUDREYlhaY1BoYlJzSTVhcVluTnZJQ25GZ1JmUHhIUjk5Zy11Nm9GcW4xd2NUTjdLXzI4MDlSWGRyd2NvMHBrNURrMjQ5SHF3NDEwQWY3MXc?oc=5",
+  "title": "2000년 KS서 '승승승패패패승' 경험했던 박진만, \"9부능선 넘은 것 같지만 방심은 없다\"",
+  "published_at": "2026-11-07T18:33:00.000Z",
+  "collected_at": "2026-11-07T21:38:19.362Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 83,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBuUkJDTW1ibjBka0ttZUFyRTlhY3l2akRuRkh3SXZXdHFLRjdnWTJseDJWekVIVkZya00tbi1PVGUwcW92YkFVTXlwYTlKOVlOYWhsdlFSWW1NSG1EWUszTHB3QkVZRzN2WkhJMGVLMNIBb0FVX3lxTFBuUkJDTW1ibjBka0ttZUFyRTlhY3l2akRuRkh3SXZXdHFLRjdnWTJseDJWekVIVkZya00tbi1PVGUwcW92YkFVTXlwYTlKOVlOYWhsdlFSWW1NSG1EWUszTHB3QkVZRzN2WkhJMGVLMA?oc=5"
+    }
+  ]
+}

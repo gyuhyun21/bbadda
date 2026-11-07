@@ -1,0 +1,22 @@
+{
+  "id": "news-4a0dba32",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스핌",
+  "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1fLTcxN0N0bnBDcXZCd0VrQk1TUFV6THZFdlhnSENILUE2c3RxR2hMdUNjbU1TejFUZ2VEM1F2OWI4U0g0cXhKcjFkSXo1eDNBYzU4VFlQazZvRzZD?oc=5",
+  "title": "[KS 포커스] 믿었던 로건에 발등찍힌 KT...불펜 승부수도 실패, 선발로도 부진",
+  "published_at": "2026-11-07T20:40:00.000Z",
+  "collected_at": "2026-11-07T21:38:19.362Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

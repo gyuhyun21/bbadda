@@ -1,0 +1,33 @@
+{
+  "id": "news-c8c5bb65",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "미주중앙일보",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1qc1BCVmNIamRwZUN0Mk5HUk80cmFyTThDTGtYQWk0WHNCZWRZWEp6SFFabWxoSlJpU1oxYnpKdWVOdG1lNUhud0x2VzlERTNXTDRkeGlJdV9qT195YnBWVEZB?oc=5",
+  "title": "“미친 선수가 나와야 우승한다더니…” 박진만도 감탄한 박승규의 대폭발, “좋은 쪽으로 미치고 있어 행복하다” [KS4]",
+  "published_at": "2026-11-07T17:40:00.000Z",
+  "collected_at": "2026-11-07T21:38:19.362Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 91,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVm1zemNUcDhfZEpwS2t1dmFxWUEyODBhWmVScnN2enZzb0Y3VTVNLUhVZEJhZEEtdWkyZGhtVlFYYmg0bXVZV25HYUUyd3EwN09aS0NwRkhfUlVYVVpIb1pQT3lkc0t1Y2diQWUwbFBucWtEcFJHcC1wUS1zVTlmT1FLYw?oc=5"
+    },
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1MU2Y1R19ma201UjdQNVlWZGpTMDlDc0xfR1hHdGo2R2gwVmxyMWd3amkxeU1DQjVRZTZIeWU0RHVkeEwtNHBDaHZOS1BFZUNVMlE1NndzTjIwaHFVS29qX0NuWm0yTUd6SEHSAW9BVV95cUxPZGMxR3plVll6YlFabTR1d1N3bVZHM3EzNWhCUFVZN2l3LVo3V3gtWHV1R19OS0JIS0Fpa0JPUjFvc3F4WDlmWEQyYXV5VlpER1VqYmplSWpUVnVjRDB5dW05N3liQUlpQXFtNVc2bDQ?oc=5"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "news-b8c60318",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "미주중앙일보",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB6cTl3MVUxR2RzMHdyUjQtTmZ2aFpieDdCMjlWS1FEYkJnUF9qYi1RR2JNU2NQQTFkcUVSZ3lLQmNzRnlyODBteGZwWFBkZ3d1bnhyU0JzdjVUMWxnN2FzZE5B?oc=5",
+  "title": "'3승 1패→우승확률 95%' 진짜 우승이 아른거린다, 국민 유격수 \"방심은 금물, 내일 끝낸다는 각오\"",
+  "published_at": "2026-11-07T12:40:00.000Z",
+  "collected_at": "2026-11-07T21:38:19.362Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 73,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE80VFFDRl9oZTdFdlBzSG0yWExvRTRmc3JjQm5JdW5IMWJYbmRzXy1SS01XVFo5eDlhaXhoeGtkSUtBRTlhR3NkYU9mVzhEUi13QjVxSU5pWDBuN3BpcXg1UXJhaEQzZDFHcmfSAW9BVV95cUxPOTZzSmxlSTFLTXFITkFqWkMtU3N6MnpWdDV2dWtMbjRVVlBYSUZFOE5vRnY5U25WNDlDQjFtTExiQWZHbWU1eXBjakFob0JJSzJtdExFTjhueGRPc21qZk5VaHVLTjJ3TjNXc2tra0U?oc=5"
+    }
+  ]
+}

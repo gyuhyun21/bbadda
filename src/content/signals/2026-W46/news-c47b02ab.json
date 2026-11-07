@@ -1,0 +1,24 @@
+{
+  "id": "news-c47b02ab",
+  "issue": "2026-W46",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "마이데일리",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5CaGFFMVM1Q1lLZ09oaEV2WUN5RklLTlBsOFNkakR4RmtISnVZSlFfeW9DZ2lwMmVKczdKSTJKLVNiQnlnUXZvUmstTF9hVmFuM2lzVGRnOTRSLWZkeEVMUw?oc=5",
+  "title": "“이승엽 선배님 감사합니다, 내가 역대급으로 잘하면 항상…” 韓슈퍼스타 김도영 화답, 국민타자 56홈런 리스펙트[MD대전]",
+  "published_at": "2026-11-07T16:09:37.000Z",
+  "collected_at": "2026-11-07T21:38:19.362Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 82,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

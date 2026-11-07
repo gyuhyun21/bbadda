@@ -1,0 +1,26 @@
+{
+  "id": "youtube-0380c3fe",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "youtube",
+  "source_name": "다이노스 승리를 위해",
+  "url": "https://www.youtube.com/watch?v=fRCkRdzI4PA",
+  "title": "2026 NC 다이노스 결산-1 권희동의 만루포",
+  "published_at": "2026-11-07T12:01:50Z",
+  "collected_at": "2026-11-07T21:38:19.362Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 502,
+    "likes": 2,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 34,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

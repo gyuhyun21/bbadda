@@ -1,0 +1,24 @@
+{
+  "id": "community-1fbb1f42",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&page=4&document_srl=10529888147",
+  "title": "뭐 다 if인게 짭찬이 있어서 데일이 없었으면 - 야구",
+  "published_at": "2026-11-07T12:38:19.362Z",
+  "collected_at": "2026-11-07T21:38:19.362Z",
+  "summary_ko": "",
+  "excerpt": "... 두산베어스 코시 특 ....TXT. 9 분 전 자유 오재일 조회49 추천2. 두산베어스 코시 특…",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

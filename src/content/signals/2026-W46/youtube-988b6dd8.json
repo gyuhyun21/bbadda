@@ -1,0 +1,26 @@
+{
+  "id": "youtube-988b6dd8",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "youtube",
+  "source_name": "떠누TV",
+  "url": "https://www.youtube.com/watch?v=reKYyx2VDG0",
+  "title": "21개월 때도 NC다이노스🦕",
+  "published_at": "2026-11-07T11:52:07Z",
+  "collected_at": "2026-11-07T21:38:19.362Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 56,
+    "likes": 7,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 60,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

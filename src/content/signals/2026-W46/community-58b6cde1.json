@@ -1,0 +1,24 @@
+{
+  "id": "community-58b6cde1",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 책과 야구는 내 인생",
+  "url": "https://blog.naver.com/somuz12/224468793610",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/LuQen4FUIwF",
+  "title": "프로야구는 기세다",
+  "published_at": "2026-11-08T03:32:00.000+09:00",
+  "collected_at": "2026-11-07T21:38:19.362Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}
