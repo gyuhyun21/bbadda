@@ -1,0 +1,24 @@
+{
+  "id": "community-445fe3e8",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&page=3&document_srl=10527902250",
+  "title": "최원태 97 장찬희 07 - 야구",
+  "published_at": "2026-11-07T01:38:36.464Z",
+  "collected_at": "2026-11-07T03:38:36.464Z",
+  "summary_ko": "",
+  "excerpt": "... 안녕하세요삼성라이온즈이승엽입니다이번역은대구삼성라이온즈파크가있는대공원대공원역입니다내리는문은오른쪽입니다야구장에오셔서힘찬함성과뜨거운 ...",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

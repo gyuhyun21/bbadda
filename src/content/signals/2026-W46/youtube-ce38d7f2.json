@@ -1,0 +1,27 @@
+{
+  "id": "youtube-ce38d7f2",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "youtube",
+  "source_name": "진짜순간",
+  "url": "https://www.youtube.com/watch?v=nOH3aoMo63A",
+  "title": "양키스 40억을 거절한 고3 #하현승 #키움히어로즈 #유퀴즈",
+  "published_at": "2026-11-07T01:00:19Z",
+  "collected_at": "2026-11-07T03:38:36.464Z",
+  "summary_ko": "한 영상 채널이 양키스 제안을 거절했다는 하현승을 소개했다.",
+  "metrics": {
+    "views": 1301,
+    "likes": 7,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 43,
+    "relevance": 50
+  },
+  "sentiment": "neutral",
+  "brief_ko": "양키스 거절한 고3 하현승"
+}

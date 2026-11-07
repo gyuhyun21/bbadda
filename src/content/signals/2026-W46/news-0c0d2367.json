@@ -1,0 +1,29 @@
+{
+  "id": "news-0c0d2367",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "news",
+  "source_name": "스타뉴스",
+  "url": "https://www.starnewskorea.com/sports/2026/11/07/2026110709521185042",
+  "title": "'시즌 1G 최다 2볼넷→KS서 5볼넷' 소형준마저 무너졌다! 박영현 빼면 ERA 8.10, KT 선발은 얼마나 더 버텨야 하나 [KS4 현장]",
+  "published_at": "2026-11-07T01:43:57.000Z",
+  "collected_at": "2026-11-07T03:38:36.464Z",
+  "summary_ko": "스타뉴스는 3차전에서 소형준이 5볼넷으로 흔들렸고 박영현을 빼면 KT 선발 ERA가 8.10이라고 짚었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 83,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5PSExNQ0RQSUlRZ0RBbHcwSzJhcFhqZERXUTA4a3NfdUF4UHk3cXhEWmxuWWZ6Z3BsUV9Ia0dsNWN2OTA2RUZZMUJoc1ZsY1hFY0VjeGtySGxad0Njd1d6YU96RkdHT3JoWnVIb04tNNIBb0FVX3lxTE5PSExNQ0RQSUlRZ0RBbHcwSzJhcFhqZERXUTA4a3NfdUF4UHk3cXhEWmxuWWZ6Z3BsUV9Ia0dsNWN2OTA2RUZZMUJoc1ZsY1hFY0VjeGtySGxad0Njd1d6YU96RkdHT3JoWnVIb04tNA?oc=5"
+    }
+  ],
+  "brief_ko": "소형준 5볼넷, KT 선발진 고민"
+}

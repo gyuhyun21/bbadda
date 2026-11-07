@@ -1,0 +1,23 @@
+{
+  "id": "news-da3f2c29",
+  "issue": "2026-W46",
+  "module": "league",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "한국아이닷컴",
+  "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5sVkhibU1zaVhYeWFrWXVJWVlMUTNZemtIc3Jha3lrZWdNY25WdkVycEtNTVF5M3BlSW1Fb2h4UHhpZ3F3Y0xIU21NdG0tNlBpMkFZc2k4enhlWTJJdzRqZ2pSUUNwblVNcXpR0gFvQVVfeXFMTlgyYmx4WGQ2QklCSUd6UkpIMFp3V2RmM1NENkZYY1NMU0M5ZF9IMEthMXM5alhJWkpKSWszb1YyeXdIOVZjME5wTV9LbWJJNGxOeDBPYmtUSC1xeUNUN1dGY2VQYW1UaWppNWxlUjBJ?oc=5",
+  "title": "“처음엔 4차전 가능하다고 말했는데”…원태인이 ‘5차전 선발’로 바뀐 사연",
+  "published_at": "2026-11-07T03:20:03.000Z",
+  "collected_at": "2026-11-07T03:38:36.464Z",
+  "summary_ko": "한국아이닷은 원태인이 4차전 등판 가능성이 거론됐다가 5차전 선발로 정해진 사연을 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 30
+  },
+  "sentiment": "neutral",
+  "team": "samsung",
+  "brief_ko": "원태인, 5차전 선발로 바뀐 사연"
+}

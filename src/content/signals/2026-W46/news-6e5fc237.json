@@ -1,0 +1,29 @@
+{
+  "id": "news-6e5fc237",
+  "issue": "2026-W46",
+  "module": "rivalry",
+  "team": "kt",
+  "teams": [
+    "kt",
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "미주중앙일보",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9GR0ticWRYaDFhYmNfVnpEbVVnNUlfWERlbHFtUjFDUXJNMURNeW1scTlwUFl6eE1TY1hya2VBVDdoNmsyUTc1cE1xeU9sLXZ6SGZMTE5mSGc3bGZXTDZSdWR3?oc=5",
+  "title": "“KT에 박영현 있다면 삼성엔 내가 있다” 지칠 줄 모르는 74G 좌완의 자신감…“수원 갈 일 없게 만들겠다” [KS]",
+  "published_at": "2026-11-07T02:01:00.000Z",
+  "collected_at": "2026-11-07T03:38:36.464Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 83,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1qS21hTmY5M2tOZnAzaXJOWFF0Slk0aFRjcXlQSUQzM2doWE5WeTYtamZ4b3B4d25rMVloTUdTY2xidHJWV2ZEMjVvOTBwOVVzeEdueg?oc=5"
+    }
+  ]
+}

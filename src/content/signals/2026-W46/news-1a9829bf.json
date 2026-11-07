@@ -1,0 +1,29 @@
+{
+  "id": "news-1a9829bf",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "스타뉴스",
+  "url": "https://www.starnewskorea.com/sports/2026/11/07/2026110710425852440",
+  "title": "'와' 삼성 진짜 총력전 선언! \"원태인·후라도·페덱 제외 전원 대기\" 불펜 총동원령 초강수",
+  "published_at": "2026-11-07T03:30:54.000Z",
+  "collected_at": "2026-11-07T03:38:36.464Z",
+  "summary_ko": "삼성이 4차전에서 원태인·후라도·페덱을 뺀 투수 전원을 대기시키는 불펜 총동원령을 내렸다고 스타뉴스가 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBiRTJXVDNVX0trYzFYZHB5cEk3U0FaSHA0cS1jMTdzX2xFTWVFaXdrSVRrd1AxV2JYUW9KYmlyZXY4UzFyeU5iT2FEVUtCbkZEb29GRDduNUVHUWtCV3ZkNTZhWHRWeWx0NnfSAW9BVV95cUxOcUcySlpoUHlNcW4xQzBrOXpJaDBJX0E3aTlGckc3RXJESXQxNEVUNlFXc1djdW1BbktrZHRycXpYRWd3MHY3MnhYdjcxQTY3WkRjNGdRV1piZFBBV0ZycUdqempuajdZZ3FyMDY5WXM?oc=5"
+    }
+  ],
+  "brief_ko": "불펜 총동원령, 3명 빼고 전원"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "community-4dd8334a",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 인사이트 정원의 시사트렌드 & 스마트 라이프",
+  "url": "https://blog.naver.com/jungwonjy/224468135638",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/Iy1CovjjpNL",
+  "title": "“전설의 야구 타자 맞아?”… 짠한형 EP.161 뜻밖의 예능감",
+  "published_at": "2026-11-07T11:15:00.000+09:00",
+  "collected_at": "2026-11-07T03:38:36.464Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

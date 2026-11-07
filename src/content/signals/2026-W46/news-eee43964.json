@@ -1,0 +1,28 @@
+{
+  "id": "news-eee43964",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "스타뉴스",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5LS3J1MmJ5VldrUlZMVEZSWFpUWHBzbEhLeHJveG5tbm0zdWZJcHRLQ0ZVdUJxaU8wQzRvTDViUGs0T0hYVHJqRmRTSlJWY1RxMVBIb1pMUWNmV1I2ZG9LZHJoYkpDeG5MM3FDbHB5ZjN2OXBJaUE?oc=5",
+  "title": "'놀랍다' ERA '0' 대체 삼성 '이 선수' 韓 대표팀 왜 안 뽑혔나, 가을바람 신들린 '히어로' 찬사 폭발 [KS]",
+  "published_at": "2026-11-07T00:33:06.000Z",
+  "collected_at": "2026-11-07T03:38:36.464Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 83,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9KbklTakZhRm5BazNKLS1DOUNsalVpaWdpSTBSd21IdE1rSjZPVVNSWG5GZHE0WmpDNXNPWkgzcnpSN1dhdkJ0eXlmSXlBNXpEc0NzVGpJRnk3dU1XdjRFZ01CU1duOU41X2fSAW9BVV95cUxPeWdENWdsY2Z0d09hWG9hVHdoc19pdTJGYWFvbXNDc0FhYmUycmNlUzdoa1Bud3JxUTJ1RlRHQWlfejN1SHdiY3czQ3VzSkRxNWVQS3hRX096eTJSVG9MOUhHaUxEeVFwaWZFY1hQNkk?oc=5"
+    }
+  ]
+}

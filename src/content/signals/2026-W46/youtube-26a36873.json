@@ -1,0 +1,26 @@
+{
+  "id": "youtube-26a36873",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "youtube",
+  "source_name": "세모퀴즈 - 세상의 모든 퀴즈",
+  "url": "https://www.youtube.com/watch?v=8-4P-3XoEMU",
+  "title": "영웅구단 팬들 모여라😎 키움히어로즈 선수 이름 맞히기 4편 #인물퀴즈 #야구퀴즈",
+  "published_at": "2026-11-07T02:30:25Z",
+  "collected_at": "2026-11-07T03:38:36.464Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 4,
+    "likes": 1,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 49,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

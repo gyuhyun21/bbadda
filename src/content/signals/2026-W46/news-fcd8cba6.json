@@ -1,0 +1,23 @@
+{
+  "id": "news-fcd8cba6",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "news",
+  "source_name": "조선일보",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUHBvdGhuZXFCOFM0UDg2c0FDVGxjOUtBWFdWR09lR1BRdzJ3UlBQN1l2Z0NYM1lOeDc0UjF2QkZSS0dTa0l4Q0lkdGxfU3dyZ0FqaUJVN2MzUFF3WG9YU2xMQ2JrbDVlSHFmcl9vTE0yZ3EwQV9LQ25BX2xYdmJNVGVLWQ?oc=5",
+  "title": "'허인서 대박' 한화, 포수 왕국으로 거듭나나…신임 사령탑 미소, \"굉장히 좋은 능력의 선수가 많더라\" [미야자키 현장]",
+  "published_at": "2026-11-07T00:28:00.000Z",
+  "collected_at": "2026-11-07T03:38:36.464Z",
+  "summary_ko": "조선일보는 허인서 등 능력 좋은 포수가 많다는 신임 사령탑의 말을 전하며 한화 포수진을 조명했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "한화, 포수 왕국 기대감"
+}

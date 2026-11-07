@@ -1,0 +1,30 @@
+{
+  "id": "news-c55409a8",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "미주중앙일보",
+  "url": "https://www.koreadaily.com/article/20261106161153902",
+  "title": "1위팀 울고 싶어라, 부상-부상-부상-부상-부상-부상 악재…승패패 반전 절실→강철매직 총력전 선언 “최원준 DH 출전 고려” [KS]",
+  "published_at": "2026-11-07T00:11:00.000Z",
+  "collected_at": "2026-11-07T03:38:36.464Z",
+  "summary_ko": "미주중앙일보는 부상 악재 속에 승패패로 밀린 KT 이강철 감독이 총력전을 선언하며 최원준의 DH 출전을 고려한다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 91,
+    "relevance": 70
+  },
+  "sentiment": "mixed",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAtTzRuVXNXSjZOQmVBdXhPVjJ3cGFzVUZuX0JGNHdkemZoekVGdW9wOGNMTkFMbnF4VHgxYWdnMnZUdWFCckNnQUFQTVBMNEplYkVWSGphcFgzR242cEFuaW1neVdfZkF5Z0HSAW9BVV95cUxQY0w5bGd6SWw5MnlqSW9FQTNHNVY3djIyMEJWY3Q2MU1kR3E1LS1SNVZfck54SVZ1SnlpZExyMlFYN2ZpeE04V2J5RTUxUzhFVHhjVDlWRU1WV0lVM0JzTXlPZlRSanRsTDVpUzIwOFU?oc=5"
+    }
+  ],
+  "brief_ko": "부상 속 총력전, 최원준 DH 검토"
+}

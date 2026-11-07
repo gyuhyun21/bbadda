@@ -1,0 +1,26 @@
+{
+  "id": "youtube-db4e8a62",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "뇌절야구",
+  "url": "https://www.youtube.com/watch?v=YHY8fRAnenw",
+  "title": "[Playlist] 새집에서 뒷문 열어두고 야구하던 시절 #kia타이거즈 ",
+  "published_at": "2026-11-07T00:17:10Z",
+  "collected_at": "2026-11-07T03:38:36.464Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 116,
+    "likes": 4,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 53,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

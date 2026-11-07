@@ -1,0 +1,30 @@
+{
+  "id": "news-4dac3af8",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://www.mt.co.kr/amp/sports/2026/11/07/202611070221776603O",
+  "title": "'와' 국민타자 생생 증언, \"김도영 모르는 사람 없어\"…'어나더 클래스' 슈퍼스타, 도쿄돔 3번째 쇼케이스 준비",
+  "published_at": "2026-11-06T21:39:00.000Z",
+  "collected_at": "2026-11-07T03:38:36.464Z",
+  "summary_ko": "머니투데이는 이승엽 전 감독이 김도영을 모르는 사람이 없다고 말했다며 도쿄돔 세 번째 무대 준비를 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 82,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWm05TllhQmptcXBzeEQtTHpqdHFKQ2ZCUGdrelFnVmRrV3IxWXo0bDdldXhSa0RldzVjQ1M0V2hVQVBKaGxxODRHYWwzS056ZGhuSzZSbmdIb3lDcEljUDhaQ1d6NVgtaENDVy1xQmc1bHBya3BXTFEtRElLMTZkcU9Nbw?oc=5"
+    }
+  ],
+  "brief_ko": "이승엽 \"김도영 모르는 사람 없다\""
+}

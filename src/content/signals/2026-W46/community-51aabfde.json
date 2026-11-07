@@ -1,0 +1,23 @@
+{
+  "id": "community-51aabfde",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 이슈있슈",
+  "url": "https://blog.naver.com/2shy9/224468036391",
+  "title": "한국시리즈 3차전 시구자로 나선 이승엽 전 감독, 축제의 장에서 한국 야구의 현실을 보며 탄식한 이유...",
+  "published_at": "2026-11-07T10:24:00.000+09:00",
+  "collected_at": "2026-11-07T03:38:36.464Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "youtube-90656040",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kt"
+  ],
+  "source_type": "youtube",
+  "source_name": "야구보고보드타고",
+  "url": "https://www.youtube.com/watch?v=v6OZQQtpuMA",
+  "title": "[KS 3차전] 추위뚫고 Vamos : 삼성라이온즈 | 한국시리즈 3차전 | 261106 삼성 vs KT | 직관브이로그 | 대구삼성라이온즈파크",
+  "published_at": "2026-11-07T02:04:40Z",
+  "collected_at": "2026-11-07T03:38:36.464Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1659,
+    "likes": 196,
+    "comments": 21
+  },
+  "scores": {
+    "hot": 80,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

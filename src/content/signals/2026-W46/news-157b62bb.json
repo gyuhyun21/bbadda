@@ -1,0 +1,29 @@
+{
+  "id": "news-157b62bb",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "미주중앙일보",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8wY3dMWXNSOVE2UERYMWdYekI1SE5CQUtUTDJ6VXJOVkFHU21ZVHhSSVN3ZlhjdUxrbWRZb2RkUFBiRHpXMUc3WHpHeHFmNzlaUWNkN3hPLTREZzFQOV92a0ZB?oc=5",
+  "title": "강민호 올해 PS 선발 첫 제외, 박진만 감독 “쓰러질 거 같아서…”",
+  "published_at": "2026-11-07T02:36:00.000Z",
+  "collected_at": "2026-11-07T03:38:36.464Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "중앙일보",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFByVllVQXRNVlJsV2xQTUkzQzRScjlfQlNQcEwyS21seWZTNFRBTjFwa3g0Yl93Z19HWGZzcEtobW5rSlBRQnJDYTREekE2QmNmUE94c2dR?oc=5"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "news-d1c6fba4",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "스타뉴스",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5qZUJfZkc5RVQ5Q3RxdUl4dVdmbld6REM5Q2Z6bWlLRHFOcFZBNFBIXzNiWXMyZEVzTmpUOWthd1cyYWZSWHlGd055NW9pbko2OVlCWHlrbmc2Smt4X0tva1VmUXNYdmxoc2s5bmgwZmZ0SVBJQ1E?oc=5",
+  "title": "강민호·김성윤 전격 제외! 삼성 라인업에 변화→김도환·박승규 깜짝 선발 출격 [KS4 현장]",
+  "published_at": "2026-11-07T02:28:23.000Z",
+  "collected_at": "2026-11-07T03:38:36.464Z",
+  "summary_ko": "KS 4차전 삼성 라인업에서 강민호·김성윤이 빠지고 김도환·박승규가 선발로 나선다고 스타뉴스가 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBLVzBTRHNGWmk4M2E4cVhCRVVpdlY3dE40ZEZCaHEtaUtQajVTVVI1X0FPZTFSOFEzSGZKWGgyZkllV25aTnZDcWphUnRJTHBJcEtKWkd2U1Y0OFFPNTNfa3E5R0JDcmtaVEHSAW9BVV95cUxQS3ZNTVlvUmNWRVFWdTBZSUJlZDF6LWswcGJhNmpoWDRfcjhVc3ZQZ25FRjljZUd0LWlfakFNV0x4c3VHTk1ocHEwdjRYZTk4bHhMS3hrYnNIa1BXRm5LNzN5aE5CZmdaUTBONEVWLVU?oc=5"
+    }
+  ],
+  "brief_ko": "4차전 라인업, 포수 김도환"
+}

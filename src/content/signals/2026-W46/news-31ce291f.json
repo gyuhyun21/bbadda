@@ -1,0 +1,28 @@
+{
+  "id": "news-31ce291f",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBHT0ZqLThRYlpKVXVvaWRaeEw1U01PYzU2R0QyRy1fWEF6OXFPeGNXTDJMdnBScllEZGlhc1Nrc2dKV0wxVDFVYVloSkdtcDhPRFlJSWU1SEFtUTlMX3V1Z0t3ME9KN0NtTmhoZ25mTDNwSW5fTmV0NEVSX0xwUQ?oc=5",
+  "title": "\"수원 너무 멀다, 대구서 끝낸다\" 도파민 솟구치는 '신종 국민노예' \"박영현? 걱정 마! 삼성엔 내가 있다\"[KS]",
+  "published_at": "2026-11-06T22:37:58.000Z",
+  "collected_at": "2026-11-07T03:38:36.464Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOR3lNLVo4N1NVUU13dWJaUWJGMEFHNHZ3bFNLZ2tTTHppVmZHTjhicWE4blVXTGFVRTJNQU5uWkRiZ3FLMmEyelU5MHk2RW9RTXFtUFl6MUdYZGpwWTdzMlpfbkthb054dDlJVWxaOGNhYVpZSTZXQ2ZpYlZYMl9fb1d3TQ?oc=5"
+    }
+  ]
+}

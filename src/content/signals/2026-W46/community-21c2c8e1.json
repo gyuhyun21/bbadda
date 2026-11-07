@@ -1,0 +1,24 @@
+{
+  "id": "community-21c2c8e1",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 스포츠 헌터의 핫이슈 브리핑",
+  "url": "https://blog.naver.com/tongtii/224468041014",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/DEp6Py2ceaW",
+  "title": "⚾ ‘14승 에이스’ 최민석 낙마! APBC 대표팀 마운드 초비상, 전력 공백 어쩌나",
+  "published_at": "2026-11-07T09:12:00.000+09:00",
+  "collected_at": "2026-11-07T03:38:36.464Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

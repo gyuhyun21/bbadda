@@ -1,0 +1,27 @@
+{
+  "id": "youtube-c45a99b4",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "youtube",
+  "source_name": "최강볼펜",
+  "url": "https://www.youtube.com/watch?v=itfBOBu-myg",
+  "title": "롯데와 SSG ‘FA 전략’, 직접 물어봤습니다",
+  "published_at": "2026-11-06T23:30:07Z",
+  "collected_at": "2026-11-07T03:38:36.464Z",
+  "summary_ko": "한 영상 채널이 롯데와 SSG의 FA 전략을 직접 물어봤다며 소개했다.",
+  "metrics": {
+    "views": 2221,
+    "likes": 15,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 47,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "롯데·SSG FA 전략 직접 문의"
+}

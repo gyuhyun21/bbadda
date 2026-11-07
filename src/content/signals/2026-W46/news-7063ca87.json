@@ -1,0 +1,29 @@
+{
+  "id": "news-7063ca87",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "오마이스타",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5ZY2VQZFNJN0FQdC1yRENPMWZoVUZBVWZUMDJEdkd2dnQ5OVZlUU5CUUdsZ1ZHOXVJY2lXTlp2TklDbUlza2VjbFZvM2ZnY0tacXI2M0FwbHJzQUZ3dnlvN2xqTkNxV0tFUVN2WGZNX1Rid3FSQks4OGVYNUxLZw?oc=5",
+  "title": "'가을야구 3승 1.31' 후라도, 11년 전 니퍼트 소환?",
+  "published_at": "2026-11-07T01:30:00.000Z",
+  "collected_at": "2026-11-07T03:38:36.464Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 83,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "OhmyNews",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE45ZjJUXzlUUmZ2aUZtZDh6d2thbmFVakxZbm54Q1hkbXR5TDZpQjg4cXE5SEhnMkRZZDhoSzBIRzJfSXhGV01BcUprakhVdnFWY1NIU2xKZk5TRnJqYzhOcWpoWXdPUWFmWFVNdjBiMUtCSzF0?oc=5"
+    }
+  ]
+}

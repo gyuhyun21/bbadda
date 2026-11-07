@@ -1,0 +1,24 @@
+{
+  "id": "news-dff6962c",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "OSEN",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9BX0FNald3QXVxZGc4bkhYalI2TDZkd04tdG1KZ0J2Sy13X2NQaWItZFlod2YxdGhwRUNjbWNyZzQzMUEyOHNVQlFVVjFDUkNQLWpvMA?oc=5",
+  "title": "‘307억 포기→ML 도전’ 노시환 유력 행선지 떴다! 美 초대박 예측 “MIA-PIT-CIN 영입 가능성, ROH 장타력 확실해”",
+  "published_at": "2026-11-07T03:11:00.000Z",
+  "collected_at": "2026-11-07T03:38:36.464Z",
+  "summary_ko": "OSEN은 미국 매체의 예측을 인용해 노시환의 MLB 행선지로 마이애미·피츠버그·신시내티가 거론된다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "노시환 MLB 행선지 예측 나와"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "community-80c49dda",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "엠엘비파크",
+  "url": "https://mlbpark.donga.com/mp/b.php?id=202611060119939229&p=301&b=kbotown&m=view&site=donga.com&pos=reply",
+  "title": "배영섭도 코치에요?",
+  "published_at": "2026-11-05T15:00:00.000Z",
+  "collected_at": "2026-11-07T03:38:36.464Z",
+  "summary_ko": "",
+  "excerpt": "... ... 한화 · SSG · 삼성 · NC · kt · 롯데 · KIA…",
+  "metrics": {},
+  "scores": {
+    "hot": 55,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}
