@@ -1,0 +1,23 @@
+{
+  "id": "news-d6a0c43d",
+  "issue": "2026-W46",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kt"
+  ],
+  "source_type": "news",
+  "source_name": "노컷뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1CTkpVN1k5ZTVrU3ZBaDVEMVlIeU1DVzFyU2dQV0xubENoZElTV0hUSzBhR2wyTjVRdUlFMU1DR0t4cjlucE1mRFlLWVpKN3NZVVE?oc=5",
+  "title": "'미친 박승규·놓친 안현민' 귀신같이 KS 꿰뚫은 야구 격언, 삼성-kt 운명 가를 승부처",
+  "published_at": "2026-11-08T01:14:20.000Z",
+  "collected_at": "2026-11-08T03:38:00.984Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "youtube-a1b42704",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "youtube",
+  "source_name": "이슈한컷",
+  "url": "https://www.youtube.com/watch?v=ABlRqadD7G4",
+  "title": "평균자책점 54 로건, 선수 탓이냐 기용 탓이냐 #KT위즈 #한국시리즈",
+  "published_at": "2026-11-08T02:30:10Z",
+  "collected_at": "2026-11-08T03:38:00.984Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 287,
+    "likes": 2,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 33,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

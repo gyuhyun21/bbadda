@@ -1,0 +1,29 @@
+{
+  "id": "news-3cb46df2",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "news",
+  "source_name": "스타뉴스",
+  "url": "https://www.starnewskorea.com/sports/2026/11/08/2026110709521768637",
+  "title": "'41년 전' 1승 3패→역전 우승 기적, 에이스 완투에서 시작됐다! '우승 확률 5.3%' 벼랑 끝 KT 운명, 턱수염 외인에 달렸다 [KS5 프리뷰]",
+  "published_at": "2026-11-08T01:43:34.000Z",
+  "collected_at": "2026-11-08T03:38:00.984Z",
+  "summary_ko": "스타뉴스는 KT가 1승 3패에서 역전 우승한 41년 전 사례를 짚으며, 우승 확률 5.3%의 벼랑 끝 KT 운명이 외국인 선발 대니엘에게 달렸다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 83,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE55OGhvSnBETFc1MVI4SmdwNjEySGo4Q2ptUF9iSHZZd19CWlk1V2FScUxjUk9xTl9UUTR4OFdrV3ZQNEV1aTF3cTFkT1hrYUNITS1nN256Qmw4UTFrX3pqNHhZUzRVZUpEU3fSAW9BVV95cUxPaGtLUmlBeERZZ2phS0J6ZmhNMWE1R0UtRWtrQ2IyTU1CeVBqaXZxUXRaTW5NN2U0QmIwM0tWWXJxVGs2bmg2Rm1DNURzYkZiN3dMbnZsVTRxdHZvdWlwRmNhYkF2Z21icVA0UFVGQjA?oc=5"
+    }
+  ],
+  "brief_ko": "우승 확률 5.3%, 대니엘 어깨에"
+}

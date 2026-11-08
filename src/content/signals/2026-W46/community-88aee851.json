@@ -1,0 +1,24 @@
+{
+  "id": "community-88aee851",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 제이에스비",
+  "url": "https://blog.naver.com/forfinals/224468853731",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/FkeHppMkYy2",
+  "title": "박동원이 FA로 나온다면? LG가 안잡을수 있나요?",
+  "published_at": "2026-11-08T06:56:00.000+09:00",
+  "collected_at": "2026-11-08T03:38:00.984Z",
+  "summary_ko": "한 블로그는 LG 박동원이 FA로 나온다면 LG가 잡지 않을 수 있겠느냐는 의견을 냈다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "박동원 FA, LG가 잡을까"
+}

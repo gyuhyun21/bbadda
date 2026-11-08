@@ -1,0 +1,23 @@
+{
+  "id": "community-9bdf1067",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "community",
+  "source_name": "엠엘비파크",
+  "url": "https://mlbpark.donga.com/mp/b.php?id=202610220119592318&p=61&b=kbotown&m=view&select=spf&query=SSG&site=donga.com",
+  "title": "SSG 가고시마 캠프 명단",
+  "published_at": "2026-10-21T00:00:00.000Z",
+  "collected_at": "2026-11-08T03:38:00.984Z",
+  "summary_ko": "",
+  "excerpt": "... SSG랜더스는 10월 24일(토)부터 11월 20일(금)까지 선수 개개인의 기술적 완성도…",
+  "metrics": {},
+  "scores": {
+    "hot": 8,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

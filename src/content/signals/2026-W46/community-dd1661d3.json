@@ -1,0 +1,41 @@
+{
+  "id": "community-dd1661d3",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 루나의 스포츠픽",
+  "url": "https://blog.naver.com/susu8522/224469025046",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/DOChNCgDxui",
+  "title": "원태인 선발 복귀, 삼성은 12년 만의 우승을 눈앞에서 잡을까",
+  "published_at": "2026-11-08T11:35:00.000+09:00",
+  "collected_at": "2026-11-08T03:38:00.984Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 100,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1Ibkw3VmdrZHp1WnVQMUxPNGp6ZkJaMU9ibFpVQjNyYjZNTFpuMzFTNkR2Tk1udm1FWE9oS3NXeXEtZXF4bW0ydFVocGhOcXY3bkxV?oc=5"
+    },
+    {
+      "source_name": "스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE02UFBKNm85X0hhVnJXdERrU0xGVHZxNGtKTktpdzdKRktsdVhKSkhHbEprSGhyTXVFd2pWWXgtcjFrT3k0X2xjTm5LWFY4SklXbDgwTzVMNV9RVEhjTkd4X1FpaUFPMVp6Y1RHeTJjWEphWFdRU3c?oc=5"
+    },
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Eblc5WGlLMi1mRzRJMG9aYnpZbzVha2pkdkc4OFZTVXlVOWcxbVdmVmhjTVd6dkVqOS1TWGJWR2JCN1VEMThWSm8tRzg2aE55eDJxMmlnNmpvOFpJUGZndWprU2VZZ0dSZGfSAW9BVV95cUxQbTF0ZXdjMEhGa3F3dHA5eVEyVk4xTDJ6Qk12TXJtdnJpWmJlazBWbU9SUXdtN0l0Q2VJVzMzeDJQVHp5UmhyTDVBRlZMNGo5Zk16Xzd3ZjlYY2JSR1hjcXJYbV90aHNpWmxoZDdzTU0?oc=5"
+    },
+    {
+      "source_name": "뉴스핌",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBLeXNBektkWU51bjIySXVORGw3OVNvNmY5ekdDVENwcUdvQ29NZnRPU0Nmc0NQeG4yWU84MURwUWVwd2JDekVHRVhqdFF5NGhCVDNfUktxa0p6d3hV?oc=5"
+    }
+  ]
+}

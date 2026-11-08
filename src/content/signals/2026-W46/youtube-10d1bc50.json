@@ -1,0 +1,27 @@
+{
+  "id": "youtube-10d1bc50",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "youtube",
+  "source_name": "연합뉴스TV",
+  "url": "https://www.youtube.com/watch?v=uhvrtzi5SQY",
+  "title": "키움 하현승 \"투타겸업, 긍정적 논의\"…안우진 \"풀타임 선발 목표\" / 연합뉴스TV (YonhapnewsTV)",
+  "published_at": "2026-11-08T00:41:14Z",
+  "collected_at": "2026-11-08T03:38:00.984Z",
+  "summary_ko": "연합뉴스TV는 키움 하현승이 투타겸업에 대해 \"긍정적 논의\"라 밝혔고, 안우진은 풀타임 선발이 목표라고 전했다.",
+  "metrics": {
+    "views": 1064,
+    "likes": 6,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 38,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "하현승 투타겸업, 안우진 풀타임"
+}

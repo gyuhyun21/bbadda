@@ -1,0 +1,23 @@
+{
+  "id": "news-644e1b6a",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "서울신문",
+  "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5TOWNZYk9IT1dYMEw0RWdXZENGWm1WRkZqQ1ZkZVlIbXljRm0weGdFV1pFYVZLOGhjSTgwVmpDNUhOcDFWNTgtbHJCNFc0eWlnOE4zQWJndVNNLTF0SXl3aG9JdzR4c2ZkY3dIMw?oc=5",
+  "title": "‘미친 가을 사자’ 박승규의 포효...강민호, 구자욱 손에 우승반지 선물할까",
+  "published_at": "2026-11-08T02:15:41.000Z",
+  "collected_at": "2026-11-08T03:38:00.984Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

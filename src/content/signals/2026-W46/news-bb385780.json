@@ -1,0 +1,29 @@
+{
+  "id": "news-bb385780",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스타뉴스",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBBSUljT3BqT3ExZklQX1BjYjR1Nm44QTFqd1N1NDV0bEZYdjZ0aUMxVUhPaDBYVUYtZmMtaHRNd1FuRG5EUUgxb2lVSXh1WTFaQ213cE41UlU5TXREbEs3Z2w1XzItSTZLUHJsS0IxdGZtMWZlWnc?oc=5",
+  "title": "[포토]'이번 시리즈 즐기는 선수는 박승규입니다!' 박진만 감독",
+  "published_at": "2026-11-08T02:50:53.000Z",
+  "collected_at": "2026-11-08T03:38:00.984Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 100,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5nT2pYSjlyWHB6aFZEbHBOQXNfSTVjMmdKUkNpbWhzM0xmOFo0elhrYXlTRk14cVRTWm1kNGpYUTRnc0pWNU5FUGtOSnRyWnZIQjRmYWIxWUM5OGlXVG1XNU8wU0hjZFlCd0HSAW9BVV95cUxOamRaWkM2MmJQbE9aVjJSYzhiczdjMmJhZFNwUW1RWkJ4QlRLOGFMaUlTT1lGZjhTbEg2bmwyX1JyZ1JVWFczcE1vcmRCd2VLSVFlb3docVo3YmxxZjZpLWg0ZDg3dE5hQ0lfMVN6Y28?oc=5"
+    }
+  ]
+}

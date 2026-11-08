@@ -1,0 +1,23 @@
+{
+  "id": "news-9dcbbf41",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1xNVdXNU1jWk5rVC1LRTVnaGE3VHlvcjFHY2U4VE5ocHJBMHJ1UXl5WklzNF9VS3RjQUtSakFPTE9XU1prM1dyd0R0c0lJZkQ1OTYyUl95TUliWTBWc3J3eWp5WW5HN3VITmczM3F3a9IBb0FVX3lxTE1xNVdXNU1jWk5rVC1LRTVnaGE3VHlvcjFHY2U4VE5ocHJBMHJ1UXl5WklzNF9VS3RjQUtSakFPTE9XU1prM1dyd0R0c0lJZkQ1OTYyUl95TUliWTBWc3J3eWp5WW5HN3VITmczM3F3aw?oc=5",
+  "title": "“몸 상태 100% 아니지만…” 12년 만의 우승까지 단 1승, ‘푸른 피의 에이스’ 원태인이 끝낼까 [KS]",
+  "published_at": "2026-11-07T08:21:00.000Z",
+  "collected_at": "2026-11-08T03:38:00.984Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 61,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

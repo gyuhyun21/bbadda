@@ -1,0 +1,25 @@
+{
+  "id": "news-a1796b8b",
+  "issue": "2026-W46",
+  "module": "rivalry",
+  "team": "ssg",
+  "teams": [
+    "ssg",
+    "nc",
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "마이데일리",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAtVWE3UEFqemNZMUgwZ0dKX1JoaElxR2w1Zmk1ZlI0X1BrOFJZSDN5UmdGdDFXTUhiS1Mzd0g0dm5lSGtwM0pYcXVpbnZiZzM0UldKckszT0V5dGFnenZ4Ng?oc=5",
+  "title": "“어설프게 준비했다가 실수하면 후회, 열과 성을 다해야 후회 없다” 김휘집 순조로운 변신…韓우승 승부수 되나[MD대전]",
+  "published_at": "2026-11-08T01:10:00.000Z",
+  "collected_at": "2026-11-08T03:38:00.984Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 83,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

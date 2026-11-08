@@ -1,0 +1,25 @@
+{
+  "id": "youtube-18678f0c",
+  "issue": "2026-W46",
+  "module": "league",
+  "teams": [],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=TlLq8gxGxnI",
+  "title": "김도영, 김태형, 박재현, 성영탁, 조형우 합류 | 2026 APBC 부록",
+  "published_at": "2026-11-07T10:45:35Z",
+  "collected_at": "2026-11-08T03:38:00.984Z",
+  "summary_ko": "KBO 공식 채널이 김도영·김태형·박재현·성영탁·조형우가 APBC 대표팀에 합류했다고 알린 영상이다.",
+  "metrics": {
+    "views": 225275,
+    "likes": 3211,
+    "comments": 280
+  },
+  "scores": {
+    "hot": 72,
+    "relevance": 10
+  },
+  "sentiment": "neutral",
+  "brief_ko": "APBC 대표팀에 김도영 등 합류"
+}

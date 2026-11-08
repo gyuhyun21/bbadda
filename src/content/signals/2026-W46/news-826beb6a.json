@@ -1,0 +1,24 @@
+{
+  "id": "news-826beb6a",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "더코리아",
+  "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNWjZPRkxLejJNU1NCR0JydDJ6T3VEeHVZSmQxWW5xY2pFeXA2aFRhT1JpeDNxekpRNjBuUkd1YWd1SzV1LWdNQWdPNmFTdXFzUk1GaS15cnBBR0dzemdjWWJ0cXUtYkEtMy0weUhvMW9JOHRYMDZlSmRGWkt2aGJGSEUybUJUWDFSMkxfX0NmTi1CLUNnOXhHY3BBUXNla25zc2wzMmVXSkF4dExwb0J5NVdUN3hfM0tRRE9KcEFLUjRzS3BCSDQzcmlRRGY5NS05S2ZwVU93ZW8wVmtVaVE?oc=5",
+  "title": "'국민 거포' 박병호, 은퇴식 개최…아들과 함께 시구·시타 > 뉴스",
+  "published_at": "2026-11-07T15:50:06.000Z",
+  "collected_at": "2026-11-08T03:38:00.984Z",
+  "summary_ko": "더코리아는 박병호 은퇴식이 열리고 아들이 함께 시구·시타에 나선다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "박병호 은퇴식, 아들과 시구"
+}

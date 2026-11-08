@@ -1,0 +1,23 @@
+{
+  "id": "community-a6e2aaf3",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "community",
+  "source_name": "디시 야구 갤러리",
+  "url": "https://gall.dcinside.com/board/view/?id=ncdinos&no=10146621",
+  "title": "NC 다이노스",
+  "published_at": "2026-10-22T00:00:00.000Z",
+  "collected_at": "2026-11-08T03:38:00.984Z",
+  "summary_ko": "",
+  "excerpt": "... 10팀 중 유일하게 방출명단 발표 X인 팀NC 다이노스.",
+  "metrics": {},
+  "scores": {
+    "hot": 8,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

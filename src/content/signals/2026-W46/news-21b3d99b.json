@@ -1,0 +1,23 @@
+{
+  "id": "news-21b3d99b",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "news",
+  "source_name": "일간스포츠",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5vaE9Qd0J0ZlBEUjVQUi1tLXVKRWVCZEE4MEdnbFM1bV9sRm43cnJ1ejh6Ui1kWEMxZWdCcWppaTd0RGJEd21NTG44UGItUng4aU02SkFRZjVuN1RuZ0JPQ3pR?oc=5",
+  "title": "두산 떠나 빅리그로, TOS 수술까지 이겨냈다…37세에 메츠와 재계약",
+  "published_at": "2026-11-08T00:55:00.000Z",
+  "collected_at": "2026-11-08T03:38:00.984Z",
+  "summary_ko": "일간스포츠에 따르면 두산을 떠나 빅리그로 간 37세 투수가 TOS 수술을 이겨내고 메츠와 재계약했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "negative",
+  "brief_ko": "두산 떠난 37세, 메츠와 재계약"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "news-610e9a29",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "위키트리",
+  "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9yLXNfSi0ya0JmcmxPUWZjWE9iSHhLVVY3T1NXNW9OWWhMT1VFMlNUZUxmVlNCOTJpMnRIWmI5TWtyOFZJeWN0UmlWT0Y2RTNvWHZ0S0pB?oc=5",
+  "title": "연봉 8000인데…'삼성 광팬' 홍준표가 “내년 최소 3억 줘야” 극찬한 선수",
+  "published_at": "2026-11-08T01:43:00.000Z",
+  "collected_at": "2026-11-08T03:38:00.984Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 83,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

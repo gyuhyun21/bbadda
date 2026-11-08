@@ -1,0 +1,22 @@
+{
+  "id": "news-dd2b2d61",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "티제이비",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB1aFpCRmpXMS1MRFBESkhfUE80QUZhWVUxTU9QWllkaDE1czBQX3ZQbklCZVZ4NUxjNmhGN0RJYzFqQ2hCTFY3T1JvYlBMcUhITUpYQkhKc2t6UTlNV0tzM19B?oc=5",
+  "title": "1패 뒤 3연승 팀 우승 100%…삼성, 12년 만 정상 1승 남아",
+  "published_at": "2026-11-07T22:41:16.000Z",
+  "collected_at": "2026-11-08T03:38:00.984Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 80
+  },
+  "sentiment": "positive"
+}

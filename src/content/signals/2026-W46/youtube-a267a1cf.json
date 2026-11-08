@@ -1,0 +1,27 @@
+{
+  "id": "youtube-a267a1cf",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "youtube",
+  "source_name": "KBOSpotlight24h",
+  "url": "https://www.youtube.com/watch?v=8lYikPeZsig",
+  "title": "롯데 자이언츠에 또 한 명의 일본인 지도자? 요미우리 우승 경험을 가진 사네마쓰의 정체!#롯데자이언츠 #이승엽 #사네마쓰가즈나리",
+  "published_at": "2026-11-08T00:30:32Z",
+  "collected_at": "2026-11-08T03:38:00.984Z",
+  "summary_ko": "롯데에 일본인 지도자가 또 합류할 수 있다는 소식으로, 요미우리 우승 경험을 가진 사네마쓰를 소개한 영상이다.",
+  "metrics": {
+    "views": 146,
+    "likes": 3,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 41,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "brief_ko": "롯데에 사네마쓰 합류설"
+}

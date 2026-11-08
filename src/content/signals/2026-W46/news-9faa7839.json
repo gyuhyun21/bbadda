@@ -1,0 +1,29 @@
+{
+  "id": "news-9faa7839",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "스타뉴스",
+  "url": "https://www.starnewskorea.com/sports/2026/11/08/2026110810292974500",
+  "title": "'이기면 우승' 삼성 진짜 총력전 선언! 페덱·이재희 모두 대기→박진만 감독 \"원태인 투구수 제한 없다\" [KS5 현장]",
+  "published_at": "2026-11-08T02:45:07.000Z",
+  "collected_at": "2026-11-08T03:38:00.984Z",
+  "summary_ko": "삼성 박진만 감독이 5차전에서 페덱과 이재희를 모두 대기시키고 원태인 투구수에 제한을 두지 않겠다고 밝혔다는 보도다.",
+  "metrics": {},
+  "scores": {
+    "hot": 84,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9lTVNzMkNzZ0tDUXpEMUUwS1AzV1ZETGMxZkQxcXN4OHlGMW9aLVpFcHRta3ZWOVBaYjFpZC1faUpyUUNOSWZudi1LczBXZF84T0ltcXZmYjRBQ19wZV9vUtIBeEFVX3lxTE81aDl4UHpoQ256a05FbzY1c2JrMkpiZkJxWFdNX0ZiTHNWQW9HNTF2TUhmeUhpV1FWY0VicGNsdzVfeGw5V3RXMUY5YzNQeDVVY21WQlpLMk5UX1dzbEN2cktQUERJTS1ZeGxRZFNtLURhWXltS1o0bQ?oc=5"
+    }
+  ],
+  "brief_ko": "5차전, 투수 총동원 선언"
+}

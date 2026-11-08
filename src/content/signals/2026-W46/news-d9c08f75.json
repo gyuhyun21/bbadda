@@ -1,0 +1,22 @@
+{
+  "id": "news-d9c08f75",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "OhmyNews",
+  "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB2X29WSVpOVGxBaXYzRmpYYkxpUjdETzNlM1R0Sk1ZdUlvdHVNckwtMG1ZS0JfUTZVWVRzZGRQOWhZallUaGJhMmo5T3VnNjAwOHRMT0pJc1I5TE5PazFjQmwwMlpFcjB1YndrOF9HSzNsQ3JCbEQ4?oc=5",
+  "title": "'사자군단' 삼성 3연승... 우승 확률 100% 잡았다",
+  "published_at": "2026-11-08T01:18:00.000Z",
+  "collected_at": "2026-11-08T03:38:00.984Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 80
+  },
+  "sentiment": "positive"
+}
