@@ -1,0 +1,23 @@
+{
+  "id": "community-c4d7ea74",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt",
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 作Do",
+  "url": "https://blog.naver.com/9904185/224469753564",
+  "title": "2026 한국시리즈 KT VS 삼성 5차전 LLM분석 데이터",
+  "published_at": "2026-11-09T04:02:00.000+09:00",
+  "collected_at": "2026-11-08T21:38:27.328Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

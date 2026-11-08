@@ -1,0 +1,23 @@
+{
+  "id": "news-3393eef5",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "news",
+  "source_name": "조선일보",
+  "url": "https://www.chosun.com/sports/baseball/2026/11/09/GY4DEMLBMNSTIY3GMNSGGZRVGM/",
+  "title": "'LG 원클럽맨 새출발' 그런데 투수코치가 포수 미트를?…손가락 인대 다쳤던 열정, 한화에도 시작됐다 [미야자키 현장]",
+  "published_at": "2026-11-08T17:46:00.000Z",
+  "collected_at": "2026-11-08T21:38:27.328Z",
+  "summary_ko": "조선일보는 LG 출신 원클럽맨 투수코치가 한화 미야자키 캠프에서 포수 미트까지 끼며 열정을 보인다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "한화 미야자키, 투수코치가 미트 끼다"
+}

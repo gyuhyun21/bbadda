@@ -1,0 +1,26 @@
+{
+  "id": "youtube-6d77f1ab",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "youtube",
+  "source_name": "정하늘",
+  "url": "https://www.youtube.com/watch?v=yCaVvn_yh0w",
+  "title": "두산 베어스 정수빈 선수 의 한국시리즈 홈런",
+  "published_at": "2026-11-08T15:04:57Z",
+  "collected_at": "2026-11-08T21:38:27.328Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 2,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 6,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

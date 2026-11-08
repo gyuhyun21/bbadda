@@ -1,0 +1,23 @@
+{
+  "id": "news-f038179e",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스핌",
+  "url": "https://www.newspim.com/news/view/20261108000126",
+  "title": "[KS5] '2006 MVP→2026 우승감독' 삼성 박진만 감독, 20년 만에 대기록 작성",
+  "published_at": "2026-11-08T21:19:00.000Z",
+  "collected_at": "2026-11-08T21:38:27.328Z",
+  "summary_ko": "뉴스핌은 삼성 박진만 감독이 2006년 MVP에서 20년 만에 우승 감독이 됐다고 전했다. KS 5차전 뒤 나온 기록 기사다.",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 80
+  },
+  "sentiment": "positive",
+  "brief_ko": "박진만, 선수 MVP→우승 감독"
+}

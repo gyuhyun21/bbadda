@@ -1,0 +1,24 @@
+{
+  "id": "community-c229d86b",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "엠엘비파크",
+  "url": "https://mlbpark.donga.com/mp/b.php?id=202611070119970933&p=211&b=kbotown&m=view&site=donga.com&pos=reply",
+  "title": "양의지 올해 연봉 42억 이었네요.",
+  "published_at": "2026-11-07T15:00:00.000Z",
+  "collected_at": "2026-11-08T21:38:27.328Z",
+  "summary_ko": "",
+  "excerpt": "... 두산에서 보험 확실히 걸어뒀군요. 두산 현재 순위와 선수 스탯, 엠팍 ... 베어스도 아니고 일점베어스…",
+  "metrics": {},
+  "scores": {
+    "hot": 57,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

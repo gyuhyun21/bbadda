@@ -1,0 +1,30 @@
+{
+  "id": "news-133c31af",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://www.mt.co.kr/sports/2026/11/09/202611090000771288O",
+  "title": "[속보] KS 도중 구급차 이송→검진 결과 떴다! 준우승팀 천만다행, 응급 수술 피했다 “안구 앞쪽 피고임, 재검 예정”",
+  "published_at": "2026-11-08T15:05:00.000Z",
+  "collected_at": "2026-11-08T21:38:27.328Z",
+  "summary_ko": "머니투데이는 KS 도중 구급차로 이송된 KT 선수의 검진 결과, 응급 수술은 피했고 안구 앞쪽에 피가 고였으며 재검을 받을 예정이라고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "mixed",
+  "also_in": [
+    {
+      "source_name": "OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBZLXVYc3BULVlGT0d1Y055ay1KRnFweEJSNnA1dHAtYTJMQTl4Ri1DSEFXdkVXOU9YbW9CNjk0aXZNQzN4dDJYaW9IUkhidG9VT2RxVQ?oc=5"
+    }
+  ],
+  "brief_ko": "KS 이송 KT 선수, 수술은 피했다"
+}

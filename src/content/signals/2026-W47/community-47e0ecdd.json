@@ -1,0 +1,24 @@
+{
+  "id": "community-47e0ecdd",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/10533622386",
+  "title": "서울사는데 뚜벅이라 청라돔은 못갈듯... - 야구",
+  "published_at": "2026-11-08T12:38:27.328Z",
+  "collected_at": "2026-11-08T21:38:27.328Z",
+  "summary_ko": "",
+  "excerpt": "... 한화이글스 그래서 이대로 괜찮은가 [15]. 5 분 전 자유 이홍석 ...",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

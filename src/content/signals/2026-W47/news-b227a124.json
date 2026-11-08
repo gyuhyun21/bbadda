@@ -1,0 +1,23 @@
+{
+  "id": "news-b227a124",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠동아",
+  "url": "https://sports.donga.com/sports/article/all/20261109/134987043/1",
+  "title": "“삼성의 우승만 생각하고 있다”…‘친정 복귀 직후 우승’ 최형우 또 하나의 우승 반지 수집",
+  "published_at": "2026-11-08T21:06:00.000Z",
+  "collected_at": "2026-11-08T21:38:27.328Z",
+  "summary_ko": "스포츠동아는 친정 삼성으로 돌아온 직후 우승한 최형우가 또 하나의 우승 반지를 얻었다고 전했다. 최형우는 삼성의 우승만 생각했다고 말했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "brief_ko": "최형우, 복귀 직후 우승 반지"
+}

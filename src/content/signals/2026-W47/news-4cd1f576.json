@@ -1,0 +1,24 @@
+{
+  "id": "news-4cd1f576",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠경향",
+  "url": "https://sports.khan.co.kr/article/202611090001003/amp",
+  "title": "[스경X미야자키]김원형 감독은 왜 주전 선수들을 마무리 캠프에 데려갔나",
+  "published_at": "2026-11-08T15:01:00.000Z",
+  "collected_at": "2026-11-08T21:38:27.328Z",
+  "summary_ko": "스포츠경향은 두산 김원형 감독이 주전 선수들을 일본 미야자키 마무리캠프에 데려간 이유를 다뤘다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "김원형, 주전도 캠프에 데려갔다"
+}

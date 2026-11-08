@@ -1,0 +1,27 @@
+{
+  "id": "youtube-fc445af6",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "kt"
+  ],
+  "source_type": "youtube",
+  "source_name": "크보쌍둥이",
+  "url": "https://www.youtube.com/watch?v=ODmhd_nUnkw",
+  "title": "원태인 \"강팀 기아 잡고 KS진출, 업셋 원동력? 90승 KT가 무너진 이유는? #kt위즈 #삼성라이온즈 #기아타이거즈 #kt위즈 #원태인",
+  "published_at": "2026-11-08T15:16:39Z",
+  "collected_at": "2026-11-08T21:38:27.328Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 28961,
+    "likes": 412,
+    "comments": 149
+  },
+  "scores": {
+    "hot": 73,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

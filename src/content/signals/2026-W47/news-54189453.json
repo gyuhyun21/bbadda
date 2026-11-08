@@ -1,0 +1,23 @@
+{
+  "id": "news-54189453",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스핌",
+  "url": "https://www.newspim.com/news/view/20261108000152",
+  "title": "[KS 포커스] 'PS 111경기' KT 김현수, 신기록에도 웃지 못했다...2년 연속 우승 무산",
+  "published_at": "2026-11-08T20:42:00.000Z",
+  "collected_at": "2026-11-08T21:38:27.328Z",
+  "summary_ko": "뉴스핌에 따르면 KT 김현수가 포스트시즌 111경기로 신기록을 세웠지만 2년 연속 우승은 무산됐다.",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "brief_ko": "김현수, PS 111경기 신기록"
+}

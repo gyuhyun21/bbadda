@@ -1,0 +1,23 @@
+{
+  "id": "news-ea623ba1",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스핌",
+  "url": "https://www.newspim.com/news/view/20261108000124",
+  "title": "[KS 포커스] '후반기 상승세 주역' KT 선발진, 대구서 10이닝 13실점...통합우승 좌절",
+  "published_at": "2026-11-08T20:18:00.000Z",
+  "collected_at": "2026-11-08T21:38:27.328Z",
+  "summary_ko": "뉴스핌은 KT 선발진이 대구에서 10이닝 동안 13점을 내줘 통합우승이 좌절됐다고 짚었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "brief_ko": "KT 선발, 대구서 10이닝 13실점"
+}
