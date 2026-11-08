@@ -1,0 +1,24 @@
+{
+  "id": "community-478d7de8",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 스포츠 다이어리",
+  "url": "https://blog.naver.com/sportpulse/224469476479",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/JcLJ0ufV3v",
+  "title": "\"휴스턴 1순위 유망주를 롯데가 진짜 잡나” 휘틀리, 일본 2.31 찍고도 KBO행설 뜬 이유",
+  "published_at": "2026-11-09T02:57:00.000+09:00",
+  "collected_at": "2026-11-08T21:38:27.328Z",
+  "summary_ko": "한 블로그는 휴스턴 1순위 유망주 휘틀리가 일본에서 2.31을 기록하고도 롯데·KBO행 설이 나온 이유를 짚었다. 구단 확인 전 이야기다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "휘틀리 KBO행설 나온 이유"
+}

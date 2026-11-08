@@ -1,0 +1,23 @@
+{
+  "id": "news-97e1f419",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠타임스",
+  "url": "https://www.thesportstimes.co.kr/news/articleView.html?idxno=377366",
+  "title": "'정규시즌 압도에도 한국시리즈에서 와르르 무너진' kt, 1차전 8-0에서 자만하다 결국 시리즈 내줘…5년 전 투혼은 실종",
+  "published_at": "2026-11-08T21:09:47.000Z",
+  "collected_at": "2026-11-08T21:38:27.328Z",
+  "summary_ko": "스포츠타임스는 KT가 1차전 8-0 상황에서도 시리즈를 내줬다며 정규시즌과 다른 모습을 짚었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 80
+  },
+  "sentiment": "neutral",
+  "brief_ko": "KT, 8-0 뒤 시리즈 내줬다"
+}

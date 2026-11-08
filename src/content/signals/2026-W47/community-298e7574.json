@@ -1,0 +1,23 @@
+{
+  "id": "community-298e7574",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "community",
+  "source_name": "엠엘비파크",
+  "url": "https://mlbpark.donga.com/mp/b.php?id=202611080120003498&p=31&b=bullpen&m=view&select=spf&query=%EC%95%BC%EA%B5%AC&site=donga.com",
+  "title": "롯데자이언츠가 우승 못하는 이유",
+  "published_at": "2026-11-08T10:38:27.328Z",
+  "collected_at": "2026-11-08T21:38:27.328Z",
+  "summary_ko": "",
+  "excerpt": "... 첫번째 야구는 투수놀음인데 부산 출신 야구인들이 투수를 못 키움 근데 왜 부산 출신 투수코치를…",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

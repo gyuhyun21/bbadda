@@ -1,0 +1,22 @@
+{
+  "id": "community-e6a23952",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 스포츠 1분소식",
+  "url": "https://blog.naver.com/qozheqpjibgc/224469754042",
+  "title": "“LG는 롤렉스 주던데…” MVP 구자욱이 남긴 짜릿한 우승 소감과 돌발 선언",
+  "published_at": "2026-11-09T04:23:00.000+09:00",
+  "collected_at": "2026-11-08T21:38:27.328Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-a911a73b",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://www.sportschosun.com/baseball/2026-11-09/202611090100059270005693",
+  "title": "'한화의 젊은피 노시환' 초대형 경사! MLB 명문 구단 양키스 재링크…\"젊고 성장 가능성 큰 선수\"→수아레스와 비교",
+  "published_at": "2026-11-08T15:03:43.000Z",
+  "collected_at": "2026-11-08T21:38:27.328Z",
+  "summary_ko": "스포츠조선에 따르면 한화 노시환이 미국 양키스와 다시 연결됐다. 젊고 성장 가능성이 큰 선수라는 평가가 나왔다.",
+  "metrics": {},
+  "scores": {
+    "hot": 82,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "노시환에 양키스 재링크"
+}

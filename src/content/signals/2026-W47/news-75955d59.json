@@ -1,0 +1,23 @@
+{
+  "id": "news-75955d59",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "엑스포츠뉴스",
+  "url": "https://www.xportsnews.com/article/2217366",
+  "title": "KIA 이 선수를 미국이 주목했다!…'첫 억대 연봉 유력' 20살 외야수 극찬 터졌네→\"공격력 크게 발전했어\"",
+  "published_at": "2026-11-08T15:23:37.000Z",
+  "collected_at": "2026-11-08T21:38:27.328Z",
+  "summary_ko": "엑스포츠뉴스는 미국이 KIA의 20세 외야수를 주목했다고 전했다. 첫 억대 연봉이 유력한 선수로 공격력이 크게 늘었다는 평가다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "KIA 20세 외야수, 미국이 주목"
+}

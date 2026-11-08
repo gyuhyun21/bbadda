@@ -1,0 +1,23 @@
+{
+  "id": "news-3614f725",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "조선일보",
+  "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNLUI0Z0VfUGpJRm0yMndyOWEwRnNMTmIydDdlSC1MeDNfM19FM0liLW1RMHh6TXRfQkdiVlR2ZmZHWmJYbF85NEwwR1RGdDNDLUpmYU91a05jcTk0LWlVQndDWFg0TzZRUVJSSXRCUHhrZ1lIdk5IY1gwNmhFVlFabUZTNERhQ1JlOXFV?oc=5",
+  "title": "'307억 포기' 노시환이 351홈런 거포보다 낫다고? 양키스 진짜 움직이나…포스팅 지각변동?",
+  "published_at": "2026-11-08T20:59:00.000Z",
+  "collected_at": "2026-11-08T21:38:27.328Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "community-b94ea60a",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 내일을 준비하는 오늘",
+  "url": "https://blog.naver.com/smartlife08/224469664753",
+  "title": "KT위즈 한국시리즈 준우승, 정규시즌 1위에도 우승 놓친 아쉬움",
+  "published_at": "2026-11-09T01:09:00.000+09:00",
+  "collected_at": "2026-11-08T21:38:27.328Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "community-3c10f1ee",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 야구이야기",
+  "url": "https://baseball0915.tistory.com/7",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/CBCmuELWrJX",
+  "title": "[KBO 메이저리그 진출] 팬그래프(FanGraphs)의 KBO 4인 스카우팅 리포트 & 데이터 검증 총정리",
+  "published_at": "2026-11-09T05:38:14.000+09:00",
+  "collected_at": "2026-11-08T21:38:27.328Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

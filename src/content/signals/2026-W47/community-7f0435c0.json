@@ -1,0 +1,29 @@
+{
+  "id": "community-7f0435c0",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&page=6&document_srl=10533641323",
+  "title": "직관)12년만에 삼성 우승 ㅅㅅㅅ - 야구",
+  "published_at": "2026-11-08T12:38:27.328Z",
+  "collected_at": "2026-11-08T21:38:27.328Z",
+  "summary_ko": "",
+  "excerpt": "... 내가 죽을테니 한화이글스애 와이스를 다오 [5]. 6 분 전 자유 퍼스트펭귄의자세 조회112 추천3. 내가…",
+  "metrics": {},
+  "scores": {
+    "hot": 73,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "매일신문",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBuVWJhNmpMNzR5cGxDMTJTQUhTa19UeGVCamZTb2lyS0Y1b1VXYUw0d1VhTk5iRTFBQUc4V3psQU1RSFZUblBXcEl0bnVYdXFGTmR4VXFraEVNUmhKeUVTV3R3?oc=5"
+    }
+  ]
+}

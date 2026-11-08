@@ -1,0 +1,24 @@
+{
+  "id": "community-022364cf",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha",
+    "lg"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 스포츠 헌터의 핫이슈 브리핑",
+  "url": "https://blog.naver.com/tongtii/224469757687",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/54Z0dv9bBVo",
+  "title": "한화 이글스 LG 원클럽맨 투수코치, 미야자키 현장 발칵 뒤집은 이유!",
+  "published_at": "2026-11-09T04:15:00.000+09:00",
+  "collected_at": "2026-11-08T21:38:27.328Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

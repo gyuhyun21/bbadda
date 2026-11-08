@@ -1,0 +1,26 @@
+{
+  "id": "youtube-e855482d",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "Freedom-d tv",
+  "url": "https://www.youtube.com/watch?v=g5hgcCJU64o",
+  "title": "투혼과 패기, 삼성 12년 만에 우승! #삼성라이온즈 #야구 #이슈",
+  "published_at": "2026-11-08T16:25:37Z",
+  "collected_at": "2026-11-08T21:38:27.328Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 2548,
+    "likes": 68,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

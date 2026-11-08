@@ -1,0 +1,24 @@
+{
+  "id": "community-30bdfa18",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 WoniSoli 님의 블로그",
+  "url": "https://wonisoli.tistory.com/683",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/818Bji0gDnr",
+  "title": "갈비뼈 실금 견뎌낸 강민호 한국시리즈 첫 우승, 23년 만의 감격적 엔딩",
+  "published_at": "2026-11-09T00:31:49.000+09:00",
+  "collected_at": "2026-11-08T21:38:27.328Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

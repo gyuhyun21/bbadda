@@ -1,0 +1,30 @@
+{
+  "id": "community-4b523f97",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "hanwha"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 SPOTLIGHT",
+  "url": "https://blog.naver.com/agentwannabe/224469772333",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/HJ3CoyNfXKz",
+  "title": "‘삼성 퓨처스 4할 타자 출신’ 이제는 한화의 코치로 준수한 평가를 받고 있는, 한화 김정혁 코치(KBO)",
+  "published_at": "2026-11-09T05:07:00.000+09:00",
+  "collected_at": "2026-11-08T21:38:27.328Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "Naver Blog",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeDZkUWNKdkZUa3NXS2FRSGN5OUpMaFY4U3ZOa1dBWGo0QkVmSDJLMG5YUGctRk5PSmhHczBmWDZkbHZQTmZTTG5meEF4MGpCWkNpUFM4Sm5uQloxNW9VM2tzcjZwZ3Q3Ul9qZDNKcm5MR28yUVdQeFZZRURieHlZdlVtVGVOc1lfVVc5WFE4RlptVkc2?oc=5"
+    }
+  ]
+}

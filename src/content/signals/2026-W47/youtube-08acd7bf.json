@@ -1,0 +1,26 @@
+{
+  "id": "youtube-08acd7bf",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "이슈픽",
+  "url": "https://www.youtube.com/watch?v=Ms1RULBVrns",
+  "title": "삼성 라이온즈2027시즌 준비 돌입!오키나와에서 시작된 반격#삼성라이온즈 #삼성야구#프로야구#KBO#삼성라이온즈뉴스 #오키나와캠프 #야구뉴스 #2027시즌 #대구삼성라이온즈파크",
+  "published_at": "2026-11-08T19:10:13Z",
+  "collected_at": "2026-11-08T21:38:27.328Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 2230,
+    "likes": 18,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 50,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

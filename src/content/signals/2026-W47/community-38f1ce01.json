@@ -1,0 +1,24 @@
+{
+  "id": "community-38f1ce01",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&page=5&document_srl=10534269327",
+  "title": "영결컷 은근 빡센 팀 - 야구",
+  "published_at": "2026-11-08T15:38:27.328Z",
+  "collected_at": "2026-11-08T21:38:27.328Z",
+  "summary_ko": "",
+  "excerpt": "... 원년구단 2영결 ㅅㅂ롯데 자이언츠 원클럽맨통산 117승KBO 역사상 유일한 통산 100완투1992년 한국시리즈 우승 멤버투수 WAR…",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}
