@@ -1,0 +1,23 @@
+{
+  "id": "news-d7720d2b",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "연합뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1zbVBpekFHTVlTSXVjRm1PaVktYVZqWThPZnVXQ3VrWDU5OHQzTl92NjlxZGZ6cnJrelhZNU5KcmY5RUpVdHRsV0F2ekxYNk9TWjhuU0Q3NDdCd03SAWBBVV95cUxOSEYxdWxqOHE3SkdxRGQxNF8zNDFhRUh6QkVBeXBob0tsQV9qdjVBcGJFai1vaUd4YWJUSi03QnhNYzA0S2NiTmdJQmdzaUpSLUppNE9qVmNoOGNWcF92bWI?oc=5",
+  "title": "선수로 6번·감독으로 첫 정상…'부드러운 승부사' 삼성 박진만",
+  "published_at": "2026-11-08T08:13:00.000Z",
+  "collected_at": "2026-11-08T09:38:09.705Z",
+  "summary_ko": "박진만 삼성 감독이 선수로 6번 우승한 데 이어 감독으로는 처음 정상에 섰다. 연합뉴스는 '부드러운 승부사'라고 소개했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "박진만 감독, 감독 첫 우승"
+}

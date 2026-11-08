@@ -1,0 +1,28 @@
+{
+  "id": "youtube-a7f4ca4e",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "NC 다이노스",
+  "url": "https://www.youtube.com/watch?v=rmsWx_7uWBM",
+  "title": "함께 써내려간 역사 | 15주년 EP. 02",
+  "published_at": "2026-11-08T05:00:25Z",
+  "collected_at": "2026-11-08T09:38:09.705Z",
+  "summary_ko": "NC 다이노스 공식 채널이 15주년 기념 '함께 써내려간 역사' 두 번째 편을 올렸다.",
+  "metrics": {
+    "views": 9774,
+    "likes": 447,
+    "comments": 64
+  },
+  "scores": {
+    "hot": 88,
+    "relevance": 50
+  },
+  "sentiment": "neutral",
+  "brief_ko": "15주년 영상 2편 공개"
+}

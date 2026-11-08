@@ -1,0 +1,29 @@
+{
+  "id": "youtube-72c9b2c1",
+  "issue": "2026-W46",
+  "module": "league",
+  "teams": [
+    "samsung",
+    "kt"
+  ],
+  "team": "samsung",
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=MSpWtJ2rCUY",
+  "title": "3회 말, 삼성 구자욱의 동점, 디아즈의 역전 그리고 김영웅의 추가 적시타로 빅이닝 완성! | KS5_KT vs 삼성 | 11.8 | 크보모먼트 | KBO 야구 하이라이트",
+  "published_at": "2026-11-08T06:57:56Z",
+  "collected_at": "2026-11-08T09:38:09.705Z",
+  "summary_ko": "KBO 공식 채널이 5차전 3회말 구자욱 동점, 디아즈 역전, 김영웅 추가 적시타로 이어진 빅이닝 영상을 올렸다.",
+  "metrics": {
+    "views": 87249,
+    "likes": 1024,
+    "comments": 223
+  },
+  "scores": {
+    "hot": 71,
+    "relevance": 80
+  },
+  "sentiment": "neutral",
+  "brief_ko": "3회말 빅이닝 영상"
+}

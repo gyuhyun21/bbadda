@@ -1,0 +1,73 @@
+{
+  "id": "community-4728437c",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 압도적긍정의 'Happy 100세'",
+  "url": "https://blog.naver.com/joomoong28/224469310251",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/7pGcffWJUUt",
+  "title": "삼성, 12년 만에 한국시리즈 우승",
+  "published_at": "2026-11-08T17:33:00.000+09:00",
+  "collected_at": "2026-11-08T09:38:09.705Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 100,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0wUmp4NVpMWUxHTnVacVItVUxuTFpwUUdwaXl1U2lQRHhhR3ZBekNiZ1hGNzhtNkpGWGoyaHJTY3JuWnFwcWpZWWdDYVFURnUwb3UzNmFBbGgwcndkbngzcUstWDZZcTViMEFXQWpJZ0Q3WGlXT3c?oc=5"
+    },
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5LcXFPeC1Zd3FOTkZWVjVXdXpuNTFQd3RjNHhtZHV2MHlMNVcxM2t1WldEcVNiTWxmY3lyVmxpZzhaSmdFazY1amNvQW0yX2otTDltdVYzcW9FTXJnUzdKWmVzR25faU1Ed053WERXUdIBb0FVX3lxTE5LcXFPeC1Zd3FOTkZWVjVXdXpuNTFQd3RjNHhtZHV2MHlMNVcxM2t1WldEcVNiTWxmY3lyVmxpZzhaSmdFazY1amNvQW0yX2otTDltdVYzcW9FTXJnUzdKWmVzR25faU1Ed053WERXUQ?oc=5"
+    },
+    {
+      "source_name": "이데일리",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOR1c1UjJVVGVDY2RBQ3BWcWJhX0tUMlhIaWJxTkEyY0VBb0ZSMW5xM2VIb1FNUVVtV1NYX2J5eXh3ckY1enB3c3FnWXVOTk45TzZObHhnWFdRYU83YVM4UGV0aG95aGU0RThZX1hQOENLSUdFTjFrMUNuV3VUelQtbA?oc=5"
+    },
+    {
+      "source_name": "연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5hT2U5N21LYVptaFpiT0owMWpNREwwc0d1MTJBWXhXa0hmZEMzT3dyaEhkWVRjeTZTVGR2cFVSSjVEZXNfQmFKM0VDQUFhTWRQNF9iZjJSdXJWOXduTEExWdIBYEFVX3lxTE5hT2U5N21LYVptaFpiT0owMWpNREwwc0d1MTJBWXhXa0hmZEMzT3dyaEhkWVRjeTZTVGR2cFVSSjVEZXNfQmFKM0VDQUFhTWRQNF9iZjJSdXJWOXduTEExWQ?oc=5"
+    },
+    {
+      "source_name": "한겨레",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBLbGc4RGVKQl9ubG9HcjZvNEpzYXBkWDB0TzFyYjBTXy1JRy1RbXlBbERPTjF3djNpaHFURmcyZTZpVUNRemQ3V2xQakppQUJDNVRMcmdlZERoVXM4Wk9qT0szLTZkYU0?oc=5"
+    },
+    {
+      "source_name": "경북신문",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAzSk1Md2FBSHg2VHhoQ2l0MHZkR2pkbzdIQi01d1djZmQ3M2NqdGhSUm1WdWhGRUFTbXF6NmZUNWVELWt0TmtDbE5KeVZ3WUQtYkxrVW9wemU?oc=5"
+    },
+    {
+      "source_name": "OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5lcnJIY0ctVlBEQjRyMFBFS2xOdjg4YUNKSVRsY1RSUmk0cEx6dU95bDRIZUhlcnRfcGZySFpmVXljUC1kbFktTmE2Y1lVOThxYmo4?oc=5"
+    },
+    {
+      "source_name": "Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSFE2ODFnS2d1MUV5Y2FCRHZXTzRoRTFVWnQwWjdvT1I2eHJRdDVlUlBhclN6VDc1Tnp0UGRBdFQxanhRTkVOeDc1SlJrNG5SUXVfWTM4cUZkMkRFWmJLM3FJcUYxTXMwLTU0RUhkVGFqS2NQYXZUVnhBcHgweFZpWERELXJjUm1F0gGcAUFVX3lxTE1ObWRxMTJ2OGpfT3FRb1E4NHE3VGYtU3NwY2tMb2NqXzhDRFM1MS1VM0tWQkZ0VVZKWVhoUnNlNHZqT21keHNDWjg5MEFFdzFoY1c2emFmYXZ3b3FIR0hCX0huRkZiX19oZ3FZMTE3ZjVmVGN3alIzOXJmei1MaDQxUG5PZlotQXprMzdRSEdqRUE3T1NFLXQzeXBvOA?oc=5"
+    },
+    {
+      "source_name": "일간스포츠",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1IN1FveDJlTHRGU2M4UjFsSTBCb09DczF1ekpqOHJCSnNOVVBIOFJVYTh6d2t6UUNTQXhaaElvSTVVdFAySXlWbDNrcXJscEJYbEFSM3NjeVJHQ28?oc=5"
+    },
+    {
+      "source_name": "매일신문",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ndzhLWEp0NGhpVnIxVnczNmxYNkZZeFZDLTBtRVhaMlpkZGR0VGJUYjZEbU5jMmEyVEVLS0E0cTM0cWpOcmFjN0lVSjRaNnhoS1h5RmU2cElFb252X0FKeFBB?oc=5"
+    },
+    {
+      "source_name": "https://www.standingout.kr/",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBFaUdQV0tRNU5ya2JILVJ1LVhiR012czlVMWxXQXpyQXEzWE5ZWjZYOElvYnBqV1VjN2tzVDJlUDdZTmJxZ29rQmtEbW45OHpVVWFyLVJmNjJEMlBrRDZqVFdaV3ZDT19rc284?oc=5"
+    },
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVEhoZzZ4QmdRdlBTY2ktTF9GN2F4bWRBLXFZdnVPa3hMNlU2bnB5NzJ5VXBhWEtuUE1EZUFTNGV0dXJ6cVNnZGhySnEya043cGRLd0tVdXNBZ1F2Y3VZbHQxZG56eG1MYmZRTDJiTUN2dlVnRm5CRzNLVUlON2h5UWV1TQ?oc=5"
+    }
+  ]
+}

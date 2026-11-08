@@ -1,0 +1,24 @@
+{
+  "id": "news-a9734b0a",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "매일일보",
+  "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4xVHMtZ251X2xCQmpiMHoxT0w0YmR5QUM1b0NxSWZOd0FLRHlOQThrb0xJMkhHd29iM3M4OFYzMU9HMnlyYkZEWkxCVWhsazNMYW5xVXBYaEU4TkJEeFc0bDVobUY?oc=5",
+  "title": "삼성, 1패 뒤 4연승으로 ‘V9’… 12년만에 KBO 정상",
+  "published_at": "2026-11-08T08:23:58.000Z",
+  "collected_at": "2026-11-08T09:38:09.705Z",
+  "summary_ko": "삼성이 한국시리즈에서 1패 뒤 4연승을 거두며 12년 만에 KBO 정상에 올랐다. 매일일보는 통산 9번째 우승이라는 뜻으로 'V9'을 제목에 달았다.",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 80
+  },
+  "sentiment": "positive",
+  "brief_ko": "1패 뒤 4연승, 12년 만의 우승",
+  "hook_ko": "1패 뒤 4연승\n삼성, 12년 만의 정상"
+}

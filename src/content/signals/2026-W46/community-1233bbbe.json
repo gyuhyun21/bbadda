@@ -1,0 +1,24 @@
+{
+  "id": "community-1233bbbe",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=stock&page=3&document_srl=10532242704",
+  "title": "정보) 삼성라이온즈 마지막 우승 당시 삼성전자 주가 120만원 - 주식",
+  "published_at": "2026-11-08T06:38:09.705Z",
+  "collected_at": "2026-11-08T09:38:09.705Z",
+  "summary_ko": "",
+  "excerpt": "... 그리고 삼성라이온즈 12년만의 우승까지 단 4이닝액1면분할 언급시 차단.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

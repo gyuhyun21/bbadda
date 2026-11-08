@@ -1,0 +1,26 @@
+{
+  "id": "youtube-37d1c24d",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "source_name": "남쪽에 삽니다.",
+  "url": "https://www.youtube.com/watch?v=IA1ZBQz6tFg",
+  "title": "[마구마구] 난타전! 한화이글스vs토론토블루제이스",
+  "published_at": "2026-11-08T06:49:14Z",
+  "collected_at": "2026-11-08T09:38:09.705Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 2,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 6,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

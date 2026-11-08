@@ -1,0 +1,24 @@
+{
+  "id": "community-7b0c0e46",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/10531953619",
+  "title": "지금 야구해서 궁금한데 - 숲(SOOP)",
+  "published_at": "2026-11-08T04:38:09.705Z",
+  "collected_at": "2026-11-08T09:38:09.705Z",
+  "summary_ko": "",
+  "excerpt": "... 순위 구단명 연봉 총액 1 SSG 랜더스 124억 7,000만 원 2 LG 트윈스 108억…",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

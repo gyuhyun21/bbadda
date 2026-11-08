@@ -1,0 +1,23 @@
+{
+  "id": "news-949ac6f2",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBLTHoxZGR0UE95RE1DeE9ZTW56NXNRMWhBdHk0WG10SkdTUEFXSjV3QkFrTTVHWnZjb2R4Nnp4WDMySFZFRU52MmVKN3ZCa004SzBSdTdsOF9nTWlEbXBkNy10V2lOZElFbW5GYjNPQ1I4cVBwQWlYRGJTMXdBUQ?oc=5",
+  "title": "'와투와 우승 영웅' 이대로 커리어 끝나나 \"다시는 아시아 못 올 것\"",
+  "published_at": "2026-11-08T07:00:32.000Z",
+  "collected_at": "2026-11-08T09:38:09.705Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

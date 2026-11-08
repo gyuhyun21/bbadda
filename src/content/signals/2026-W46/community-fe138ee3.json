@@ -1,0 +1,24 @@
+{
+  "id": "community-fe138ee3",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "레딧 r/KBO",
+  "url": "https://www.reddit.com/r/KBO/new/",
+  "title": "r/KBO",
+  "published_at": "2026-11-07T23:38:09.705Z",
+  "collected_at": "2026-11-08T09:38:09.705Z",
+  "summary_ko": "",
+  "excerpt": "... LG Twins sign pitcher Tristan Beck to a one-year deal worth $878,000 USD ·…",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "community-0dbc5145",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 오늘의 경기장",
+  "url": "https://blog.naver.com/dnl0315/224468264761",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/2Rs5NyNdi1x",
+  "title": "KIA 안방마저 흔들리나?\" 김태군의 FA 시장 진출에 쏠린 시선",
+  "published_at": "2026-11-08T17:00:00.000+09:00",
+  "collected_at": "2026-11-08T09:38:09.705Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

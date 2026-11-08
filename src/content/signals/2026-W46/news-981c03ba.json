@@ -1,0 +1,24 @@
+{
+  "id": "news-981c03ba",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠동아",
+  "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE95N1QwMzhKWjBTS05KZ3VMQUpnMjVaaVB4RWFVVkstNUdqM3JTemoyTXVQbzRlOE9GcUpaX25xcFIzSEdPLW1hTmhJUWR3cmJiakpKbGxsSzktWTlKLVlJNmpaRlZPVUlqeHk4bDhpT1dCZw?oc=5",
+  "title": "307억 계약에도 MLB 도전…노시환, 연일 엇갈리는 외신 FA 평가",
+  "published_at": "2026-11-08T05:41:38.000Z",
+  "collected_at": "2026-11-08T09:38:09.705Z",
+  "summary_ko": "스포츠동아는 307억 계약 제안에도 MLB에 도전하는 노시환을 두고 외신의 FA 평가가 엇갈린다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "노시환 향한 엇갈린 외신 평가"
+}

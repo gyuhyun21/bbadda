@@ -1,0 +1,40 @@
+{
+  "id": "community-7963f069",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 7초전",
+  "url": "https://today2.nowinfokorea.com/15",
+  "title": "삼성 KS 우승, 경기내용 MVP.",
+  "published_at": "2026-11-08T17:59:23.000+09:00",
+  "collected_at": "2026-11-08T09:38:09.705Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 100,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "마이데일리",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8zcndRNU0yUGs1YjZZT2dFaE5uMmlqelRiZFRwQW0zMUFYWG10aVBwb0V3NjVyNEtBR2FzbTNTbmU2Mm5JdFdNQUpYNEdRQi1vZEx3ZnZmU2xvbFBBakc1UUlnRjJlZw?oc=5"
+    },
+    {
+      "source_name": "연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9nWU5EeWo2VUhqakUtTUY0dHZQNWRmSmV1N1BZcVo5OUJhc213c2ZvZW42Sk04RzlFUV8zRnNBTjhxZFYtMUNjQ2lnMUlDRjhvM29MdnpVNE5OaGfSAWBBVV95cUxOZTdyNXBReUJURzlDamVKdnpUS3FVcVRrcjZEZFl2RVcxU1pWVDZMbFJRTEhNZl9BckZmVzNOOVhmMFpPOGxBUDl3ZUF2aGVhQTlaRWtnM3BId3JzYkE0ajM?oc=5"
+    },
+    {
+      "source_name": "뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAtYUtvZUtIQktlTncxZF9WRTBOVzF3Vk4yYVNvOTJGM1NCWTZCVnZSazZya3FrV0hkMjlFbGdfYThiSjY1UVZwQ0Q4UnJkbE1jeUsxVTkwLWEyaWg4bjdjYdIBeEFVX3lxTE41eUxSQXJZUDBBZ240T1pjWmpLdVdKOGlOVkQxS1JsOUdHR0lXM0V5QWU5U1pGT1ZENTY1cy1XZ1dtemRCVzNxa3pva2NUNG1uUW9QemNoSHZDbWd3alZ1dmJzcTlza2ZjS2RuVWQ4bEZJelg2U1RQVg?oc=5"
+    },
+    {
+      "source_name": "뉴스핌",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1CdXVxTHNscktuY3dDSjJNTGFwWFAzeXR0NVBmcUZYbkxEcXRHUXNlMHNJRko4bzBfZV9ZTmZpN3N5M2RtbkYtTi1obkVSTF83Z2xGZFltcy1tdUdo?oc=5"
+    }
+  ]
+}

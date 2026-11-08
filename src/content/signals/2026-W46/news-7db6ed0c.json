@@ -1,0 +1,22 @@
+{
+  "id": "news-7db6ed0c",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "news",
+  "source_name": "일간스포츠",
+  "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9FS0prZ01OZDlwNFI4c2ZaaFRLeXJVWnBTa0VYc2hzQ1FwYlEtNlJST29TYnRFMnlucTU4ZVpqTDlQWndNOXhJaVh1VEViMTZ0R0lqMUFNYV9yYXc?oc=5",
+  "title": "'4차전 패전 빌미' 안현민, 선발 라인업 제외...벼랑 끝 KT 위즈 초강수",
+  "published_at": "2026-11-08T03:34:00.000Z",
+  "collected_at": "2026-11-08T09:38:09.705Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "news-54984832",
+  "issue": "2026-W46",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE94YnN0YmtjYnU3TFpJSWhFYTVWMlQ5MDZhYlg4UFhmX3JGd1R5VzM5U2VxakFDOUk2NTg1OHh1LWE4X1h0TDg4SmUtcVRQOFFScFJYWGRHRk5IOTBQU2hYeTVYRUh6NURnQ0IyUklOZ9IBb0FVX3lxTE94YnN0YmtjYnU3TFpJSWhFYTVWMlQ5MDZhYlg4UFhmX3JGd1R5VzM5U2VxakFDOUk2NTg1OHh1LWE4X1h0TDg4SmUtcVRQOFFScFJYWGRHRk5IOTBQU2hYeTVYRUh6NURnQ0IyUklOZw?oc=5",
+  "title": "[포토]'1타점 3루타 추가한' 김지찬",
+  "published_at": "2026-11-08T07:27:40.000Z",
+  "collected_at": "2026-11-08T09:38:09.705Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 83,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB4Z0xIajZqWHFqMzh6THM1Y2VtanRjMTEwODNZSXZKSHdjRWo4V09zNEIwWmxRclo1cUlfcVNsdEZCbHdPTnFZR2NrakZpejhva3I2MHllMzM4MmQ2OHJrQ25kY0loR1pHWW9ncEUzMk1NNXZ6S3c?oc=5"
+    }
+  ]
+}

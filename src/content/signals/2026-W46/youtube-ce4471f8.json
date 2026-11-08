@@ -1,0 +1,28 @@
+{
+  "id": "youtube-ce4471f8",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "NC 다이노스",
+  "url": "https://www.youtube.com/watch?v=0xSntS5OHRo",
+  "title": "국대 공룡 3형제 🇰🇷🦖 | APBC 훈련 스케치",
+  "published_at": "2026-11-08T09:00:32Z",
+  "collected_at": "2026-11-08T09:38:09.705Z",
+  "summary_ko": "NC 다이노스 공식 채널이 국가대표 훈련에 참가한 NC 선수 3명의 APBC 훈련 스케치를 올렸다.",
+  "metrics": {
+    "views": 2239,
+    "likes": 197,
+    "comments": 19
+  },
+  "scores": {
+    "hot": 81,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "APBC 훈련 스케치 공개"
+}

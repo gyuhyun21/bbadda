@@ -1,0 +1,23 @@
+{
+  "id": "news-837b4666",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스타뉴스",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5OV1FhWlM2bG1KRi1IaEl0S202MTNnRm9sNDA5LWlMTXZwN1l3a3oxSS0yeWZHNV9OWUREZnlpdG9nQW9mOUc0LWlfTHBxQlkwcGtTU3FkMGlSUDZ3SjBSMV9zUHRlS3YwSS1HRjhnOUdzbzY0clE?oc=5",
+  "title": "[포토] 유정근 대표 '갓바위 소원이 우승으로'",
+  "published_at": "2026-11-08T08:58:14.000Z",
+  "collected_at": "2026-11-08T09:38:09.705Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

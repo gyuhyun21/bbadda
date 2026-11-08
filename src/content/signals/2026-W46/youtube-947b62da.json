@@ -1,0 +1,27 @@
+{
+  "id": "youtube-947b62da",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "youtube",
+  "source_name": "박주홍은터진다",
+  "url": "https://www.youtube.com/watch?v=jmaWpGswZi4",
+  "title": "신인 최우준, 연습경기 첫 홈런! #최우준 #키움히어로즈",
+  "published_at": "2026-11-08T05:19:29Z",
+  "collected_at": "2026-11-08T09:38:09.705Z",
+  "summary_ko": "한 키움 팬 채널은 신인 최우준이 연습경기에서 첫 홈런을 친 장면을 올렸다.",
+  "metrics": {
+    "views": 1260,
+    "likes": 0,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 38,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "brief_ko": "최우준, 연습경기 첫 홈런"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "youtube-f7150fa1",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "삼미노_삼성라이온즈 이야기",
+  "url": "https://www.youtube.com/watch?v=SnSU7etigPY",
+  "title": "[삼성팬 합동 입중계] 삼성라이온즈 우승!!! 12년만에 우리가 해냈습니다!1",
+  "published_at": "2026-11-08T09:12:22Z",
+  "collected_at": "2026-11-08T09:38:09.705Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 22547,
+    "likes": 365,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

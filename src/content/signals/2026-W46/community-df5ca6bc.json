@@ -1,0 +1,24 @@
+{
+  "id": "community-df5ca6bc",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 스포츠광 창식이",
+  "url": "https://blog.naver.com/soccer-changsik/224469057782",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/9s4lqz0ji4d",
+  "title": "\"45홈런 쳤는데 콘택트가 의문?\" 김도영 향한 미국의 예상 밖 평가... 곽빈 '한국 최고 구위' 극찬",
+  "published_at": "2026-11-08T12:36:00.000+09:00",
+  "collected_at": "2026-11-08T09:38:09.705Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

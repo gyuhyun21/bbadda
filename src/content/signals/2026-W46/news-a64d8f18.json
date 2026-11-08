@@ -1,0 +1,23 @@
+{
+  "id": "news-a64d8f18",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "일간스포츠",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5UbnFpV2xMa1pTWHBvSmJKLS1Cd0o4WmpBVGhJcGdmM2VlM2hGSmZvNVRuUnFMdUtCSERzdkhNMWNUclVKUkZrNWFibkVCNFRJX0VCY0c5VEE1SnhOZlhpN0t2dHRvX2d2?oc=5",
+  "title": "지도자 길 10년...라이온즈 명가 재건 이끈 박진만 감독 \"단기전, 틀에 박힌 운영 안 통해\" [KS5]",
+  "published_at": "2026-11-08T09:11:00.000Z",
+  "collected_at": "2026-11-08T09:38:09.705Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "community-7a221522",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "다음카페 알 수 없는 동아리ㅤ",
+  "url": "https://cafe.daum.net/un-known-club/M9sr/99356",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/AanVIeKUc9D",
+  "title": "프로야구 삼성, 12년 만에 한국시리즈 정상 탈환…통산...",
+  "published_at": "2026-11-08T17:10:06.000+09:00",
+  "collected_at": "2026-11-08T09:38:09.705Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 99,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "중앙일보",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Dbl9zZFVDTTh2Nm1yZnpwUGZXWlNkaGJIOWRBY21UM2FLeHQ3TWhPd0Nmc2pFMzBvT3diem9pODZXbzZSQjNUbXZOczdTeHdQZVNWUHdB?oc=5"
+    },
+    {
+      "source_name": "미주중앙일보",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE52Z19tVXY1ZzlDaVVJTG1vMFN4QkRPbTJ6UVZTSllBOU4tYW9ESV9tVWFjT0oyUzE2TzM4eUZ6d0t2VXNGY0NycHV1RGRxMnUyTExTSTQyUTM0ajFmbzY4cEFB?oc=5"
+    },
+    {
+      "source_name": "스포츠월드",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9IYWFfY0UwT2xPcUJzZ3NTdEFfZXlScEVkOU9nZzRGRFg5WjRONjFOaUdwV1U5Rm9ZRVowT0FEUXdKaEYzNVpILUFodElNU1ZHWk1oeTRiZEd3ZzBFbTVYSjdR?oc=5"
+    },
+    {
+      "source_name": "중앙신문",
+      "url": "https://news.google.com/rss/articles/CBMihwNBVV95cUxQZTZ5WlU1emdmWk5Mc3hOWllXakUyVFRqZHhMbUVrd3ItS1Z6M1dURHA0TzJpNzZ1SDNBNE9IY1JYbXU4ZFpkdzZ5MjNjeTdUcU9fSDdqeTdMaXRIa0Nqd2FhMmRISlZ0M182dlN3amdaVTNHOUsybTRFUkxQeHVUSzRScDNHNkxEcmw4ODFGM3p3RlJkMTlkdDV2ajc2bTdXNVVka2RKVHFEVTdmbDlPNktHa2tLWW10eGFOR1VWRVNHOExXTk1PZVVvLWY5RFdydENrQ0hxZGI2LW9QNVFmczRIOUd4SE5fQll4QWUzeFdLYzNmd0U3Y3FzaDRONEJ4eFFtelhjdF9SZmt6ZmJ4eHJpUFM4TGpoS0g2V0p4c0ZGSGpSQU9tMVh5RnZRS0dHT1NxbTU1M21aN1h3c202MjBaMkdQcmNGWS1iTVV4QTduVjFjc082UVAtWk1rdTl2eHpxTFI0cVYxMTV2Ni1wMC14TkE0MUFoRjgtbUVYVGo1WHR1VlZ3?oc=5"
+    }
+  ]
+}

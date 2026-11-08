@@ -1,0 +1,30 @@
+{
+  "id": "community-178d2bb7",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt",
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 디아스포라",
+  "url": "https://blog.naver.com/diaspora421/224469341000",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/9Qfb7LwuWEY",
+  "title": "KT 위즈 충격의 한국시리즈 준우승! 정규시즌 90승 1위가 삼성에 1승 4패로 무너진 이유",
+  "published_at": "2026-11-08T18:12:00.000+09:00",
+  "collected_at": "2026-11-08T09:38:09.705Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 84,
+    "relevance": 70
+  },
+  "sentiment": "mixed",
+  "also_in": [
+    {
+      "source_name": "www.newsq.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9PY1JLdVFRM2lseHRiZHVKYXhDZlRXWW5wTmFGdlg2SUxQTnNYeFZiWGhsb1pOeGdHWG1td0RycEU3LW5YOEFiaGowYUNhM05QcFFfR3JQcmpaeDBBUl9qQlQtaTI4ZEt5b0E?oc=5"
+    }
+  ]
+}

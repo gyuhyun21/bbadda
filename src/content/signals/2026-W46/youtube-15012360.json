@@ -1,0 +1,27 @@
+{
+  "id": "youtube-15012360",
+  "issue": "2026-W46",
+  "module": "league",
+  "teams": [
+    "samsung"
+  ],
+  "team": "samsung",
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=UEvIYA6Zl-g",
+  "title": "삼성의 강력한 중심 타선, 리빙 레전드 최형우의 적시타‼️",
+  "published_at": "2026-11-08T08:16:22Z",
+  "collected_at": "2026-11-08T09:38:09.705Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 4315,
+    "likes": 131,
+    "comments": 18
+  },
+  "scores": {
+    "hot": 72,
+    "relevance": 80
+  },
+  "sentiment": "neutral"
+}

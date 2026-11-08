@@ -1,0 +1,40 @@
+{
+  "id": "community-864c1513",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "다음카페 I Love NBA",
+  "url": "https://cafe.daum.net/ilovenba/2ljt/118504",
+  "title": "삼성 라이온즈 우승!!!!!!!",
+  "published_at": "2026-11-08T17:03:41.000+09:00",
+  "collected_at": "2026-11-08T09:38:09.705Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 99,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5abndYSkpNZF9GTmVwNkRjOUxvUnd1QnpETDdZSUJsaUxPT052YkFhTmQwRWZjRW5zdVIyNkxiR1pXQUhINGc1LVVYTlZlZHhqaWF4TG03S2JISnNmN2VXNVUxSG8?oc=5"
+    },
+    {
+      "source_name": "대구신문",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBIUWRka2VNU0JmZ1B3OUlfUFNaVzBEdm5KYlRxV3lBSXpqcjFaVDVaeUhnQjRlaWpzSXVGaGJHSnJ2dWEwVkE3N25TVmtWdzk5TVIxLTdTZVRYdEY0a3BUX3BHOVVNenVTV2pJ?oc=5"
+    },
+    {
+      "source_name": "경향신문",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBIU2g1UE9TQjRZcXE1cW9lMm5RZTZPUmQ4UnZIVHVMaExJUklmdW9UOFlJNm0yb1hFQzEzVzNKd3FUZG5JMlVRdmt5OEYwV2UwcFpPSkVyWlcwUdIBX0FVX3lxTFBQcVV5QklOZXhWMUNwOTA2UjFYSElnUktJMXVpckZ2aU5PeDVXOXpiR08wOFFidFJkU0Vvbm9hV2ZiRXFLMTVFNWJXVVBZNGQyRDZsai1TcVZtY0U3RjVV?oc=5"
+    },
+    {
+      "source_name": "매일신문",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1BaFl1THk2U1RRQUw3eHNQNWxaX3Jic3NmX1YyRlVka2lWTmpWYldqUmdsQWVCRzkyaEZBZTlJMVM0MVhWR1FhdHFtODREWHU2MnNBZWg0YXJMTDdKWko1bUtB?oc=5"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-d1ded6b6",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스핌",
+  "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBaWEVFcU90QTk3anBGbUJNTG5uay0yVFFxWnpUeG8xVzNnYTJGRVdmZEo1aEhEYUJ3YVZjbjVyNXh3aFZXQ0ZSZkZyWEZuWkY1YlFaR3NoSGJWQW1v?oc=5",
+  "title": "[KS5] '준우승' KT 이강철 감독 패배 인정...\"우리다운 모습 못 보여…내 대응도 늦었다\"",
+  "published_at": "2026-11-08T09:01:00.000Z",
+  "collected_at": "2026-11-08T09:38:09.705Z",
+  "summary_ko": "이강철 KT 감독이 5차전 패배 뒤 '우리다운 모습 못 보여…내 대응도 늦었다'고 인정했다고 뉴스핌이 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "mixed",
+  "brief_ko": "이강철 \"내 대응도 늦었다\""
+}

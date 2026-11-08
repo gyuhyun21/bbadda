@@ -1,0 +1,29 @@
+{
+  "id": "news-14d15611",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "news",
+  "source_name": "OSEN",
+  "url": "https://www.osen.co.kr/article/G1112906416",
+  "title": "한화서 온 보상선수, KS 지배 실화냐…솔로포→선제 희생플라이 쾅, ‘벼랑 끝’ 1위팀 5차전 선취점 뽑다 [KS5]",
+  "published_at": "2026-11-08T05:50:00.000Z",
+  "collected_at": "2026-11-08T09:38:09.705Z",
+  "summary_ko": "한화에서 보상선수로 온 KT 장진혁이 한국시리즈에서 솔로포와 선제 희생플라이를 기록했다고 OSEN이 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 83,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9mdVhQN180T0ZwZzZ4OXlzS3dhUkVBbFFEejJWLUZxYVdUZXFKVFdacnh2dGR3Mk1DbHpQV0NfVnhzdzBLVGlkNUpHMGxpcWVYcFZkY0hlZTZpTGZMYURNal9zakNydnRaZ0hDVkpqa9IBb0FVX3lxTE9mdVhQN180T0ZwZzZ4OXlzS3dhUkVBbFFEejJWLUZxYVdUZXFKVFdacnh2dGR3Mk1DbHpQV0NfVnhzdzBLVGlkNUpHMGxpcWVYcFZkY0hlZTZpTGZMYURNal9zakNydnRaZ0hDVkpqaw?oc=5"
+    }
+  ],
+  "brief_ko": "보상선수 장진혁, KS 활약"
+}

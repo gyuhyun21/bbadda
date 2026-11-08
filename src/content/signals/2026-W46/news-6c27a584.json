@@ -1,0 +1,29 @@
+{
+  "id": "news-6c27a584",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://www.mt.co.kr/amp/sports/2026/11/08/2026110810291230454",
+  "title": "'안현민·김상수 OUT' 벼랑 끝 KT, 라인업 대수술 단행! 권동진·김민혁·류현인 IN [KS5 현장]",
+  "published_at": "2026-11-08T03:40:35.000Z",
+  "collected_at": "2026-11-08T09:38:09.705Z",
+  "summary_ko": "KT는 5차전에서 안현민·김상수를 선발에서 빼고 권동진·김민혁·류현인을 넣는 라인업 변화를 택했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 82,
+    "relevance": 70
+  },
+  "sentiment": "negative",
+  "also_in": [
+    {
+      "source_name": "스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9sOU9rQ2dwMWMxMVZhRU9mNEdCU2VCRjZWQUxSTzdoVTZzMVBlc1liRlV4Z01uUWpHU3JfNWNTNEFUeDhJWVlfYURWTEJPc09Ka0w2SGFLM0JHbV9CNTFVMXQzSTVqeHZWVlJWVldkcko1WWsySlE?oc=5"
+    }
+  ],
+  "brief_ko": "5차전 라인업 대수술"
+}
