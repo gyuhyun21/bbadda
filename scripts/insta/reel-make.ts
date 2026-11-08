@@ -1,7 +1,7 @@
 // 매일 릴스 조립(2026-10-24 주인 결정: 하루 1개 자동 릴스). 루틴(docs/reel-routine.md)이 만든 재료 폴더를 영상 하나로 합친다.
 // 사용: npx tsx scripts/insta/reel-make.ts <재료 폴더> <출력 mp4>   (크롬: CHROME 환경변수, 없으면 google-chrome / ffmpeg 필요)
 // 재료 폴더의 reel.json:
-//   { music?: 'bgm-breaking', segments: [{ src: '1.mp4'|'1.png', say: 'a1.mp3', kick: '짧은 머리표', head: '큰 제목(<b>강조</b>, <br> 줄바꿈)', note?: '아래 작은 글(출처 등)' }],
+//   { music?: 'bgm-breaking', segments: [{ src: '1.mp4'|'1.png', say: 'a1.mp3', kick: '짧은 머리표', head: '큰 제목(<b>강조</b>, <br> 줄바꿈)', note?: '아래 작은 글(출처 등)', sub?: '하단 자막 한 줄(2026-11-08~, 20자 안팎)' }],
 //     end?: { kick, head, a?: 'kia', b?: 'samsung', cta: '롯데팬 친구한테 보내 줘', say?: 'a9.mp3' } }
 // 장면 길이 = 그 장면 목소리 길이(쉼 0.18초·1.18배로 다듬은 뒤) + 0.25초(목소리가 없으면 dur, 기본 3초). 그림(png)은 천천히 확대, 영상은 길이에 맞춰 자르거나 늘린다.
 // fit: true 인 그림(카드 이미지 등)은 자르지 않고 흐린 배경 위에 통째로 놓는다. 어떤 경우에도 영상은 만든다(그날 릴스를 빠뜨리지 않는다, 2026-10-24 주인).
@@ -12,7 +12,7 @@ import { readFileSync, writeFileSync, mkdirSync, copyFileSync, existsSync } from
 import { join, resolve } from 'node:path';
 import { execFileSync } from 'node:child_process';
 
-type Seg = { src: string; say?: string; text?: string; kick?: string; head?: string; note?: string; dur?: number; fit?: boolean; from?: number; to?: number; live?: boolean; credit?: string };
+type Seg = { src: string; say?: string; text?: string; kick?: string; head?: string; note?: string; sub?: string; dur?: number; fit?: boolean; from?: number; to?: number; live?: boolean; credit?: string };
 const FOOTAGE_MAX = 39; // 티빙·KBO 허용 '40초 미만'보다 1초 여유
 const SPEED = 1.3; // 2026-10-29 주인 결정: 전개를 30% 빠르게 — 다 만든 영상 전체(목소리·전환·음악)를 1.3배로, 음 높이는 그대로
 type End = { kick?: string; head: string; a?: string; b?: string; cta: string; say?: string };
@@ -42,6 +42,7 @@ body>*{position:absolute}
 h1{left:70px;right:60px;top:290px;font-size:112px;font-weight:900;line-height:1.12;letter-spacing:-.02em;text-shadow:0 0 18px rgba(0,0,0,.6),6px 6px 0 #111;-webkit-text-stroke:3px #111;paint-order:stroke fill}
 h1 b{color:#ffe03a;font-weight:900}
 .note{left:70px;bottom:70px;font-size:26px;opacity:.85;text-shadow:0 0 8px #000}
+.sub{left:60px;right:60px;bottom:330px;text-align:center;font-size:56px;font-weight:800;line-height:1.3;padding:16px 28px;border-radius:18px;background:rgba(0,0,0,.6);text-shadow:0 0 6px #000}
 .credit{right:60px;bottom:150px;font-size:24px;opacity:.8;text-shadow:0 0 8px #000}
 body.end{background:#ffe03a;color:#111}
 .end .kick{top:300px;background:#111;color:#ffe03a;font-size:48px}
@@ -88,7 +89,7 @@ spec.segments.forEach((s, i) => {
     footage += Number(d);
   }
   if (!existsSync(a)) ff('-f', 'lavfi', '-i', 'anullsrc=r=44100:cl=stereo', '-t', d, a);
-  shot(page((s.head || s.kick ? `<img class="logo" src="logo.webp">${s.kick ? `<span class="kick">${esc(s.kick)}</span>` : ''}${s.head ? `<h1>${head(s.head)}</h1>` : ''}${s.note ? `<p class="note">${esc(s.note)}</p>` : ''}` : '') + (licensed ? `<p class="credit">영상: ${esc(s.credit ?? 'TVING·KBO')}</p>` : '')), ov);
+  shot(page((s.head || s.kick || s.sub ? `<img class="logo" src="logo.webp">${s.kick ? `<span class="kick">${esc(s.kick)}</span>` : ''}${s.head ? `<h1>${head(s.head)}</h1>` : ''}${s.sub ? `<p class="sub">${esc(s.sub)}</p>` : ''}${s.note ? `<p class="note">${esc(s.note)}</p>` : ''}` : '') + (licensed ? `<p class="credit">영상: ${esc(s.credit ?? 'TVING·KBO')}</p>` : '')), ov);
   const src = join(DIR, s.src), still = isStill(s.src);
   const live = !still && !!s.live && hasAudio(src);
   const base = !still && s.fit !== false
