@@ -1,0 +1,33 @@
+{
+  "id": "news-a30730f7",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "일간스포츠",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBFMUYxR05YSTBkOVJNZTh4bkFrWUt0UEZmRVRJZ3FmOGNTa0gxUTR2ek9Nb191YkhfYnpVbzB5cDN5LUZmU2hpSTJVZzNBTzQ4OHpQdklRaVRuRG9xZ2JhcHdrRkJxWnl2?oc=5",
+  "title": "우승 앞둔 강민호, 선발 라인업 복귀...대니엘 공략한 디아즈는 4번 복귀 [PO5]",
+  "published_at": "2026-11-08T02:34:00.000Z",
+  "collected_at": "2026-11-08T03:38:00.984Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 100,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBQZ1pFcjdBbzFreUQ4cml1RF9tX01wdmJMeHZ6Zm5TSEV4X0J5RGR2ODVGZURHUnZHRWJPdnZoVmx3aUYxTDcyYkNLZ3ExMmFpQm9IcEpCSFVnWTVfWS10QmN4aG1sbzFyNGfSAW9BVV95cUxOYUNHbzljdkRYYlU5RWEtOHphWjcyYTdsbkJnOFhheHZuU2xYX054Y1F3UU1ScU9lODg3OFJxMlBwYjNXMENPaDFWTDRKdXpON3lGeUsxN1loRnRzUFctNEdXazR3aHl2ZUpLQjlYWXc?oc=5"
+    },
+    {
+      "source_name": "Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSlg2ZFVlVkc2SDUxdVcya3Z5SmNoc2JsVVVDUVRBSjZLNUViVUJrR1V6d2dlOUZmOXk4Rjl2UEpyMmRaVGVNU0pNZVgxWHhMei1zVGVSZjNXbzBvWmZmV2VUUENXMW1qUUxQemlMYzQzSFluY0pWX09GUjAwV3RCMkEyZ9IBlwFBVV95cUxQQW5faW1vZzZ5eGpQV29LcVVrUDdFMF9LQml2MzcwNXJWLVhkMHM5YWdlT3hnTVAyWDJNNDlfeUdCNkFlZHRRX21WRE94aHptR3VxbUNwdTZaN0Z4TjljUGZ2X0o0Zm9DekU3MGNvSG5VMlcwWlUyZkh3Q0pNbG55ZHZHZndGQkRubnpYazVqRWJLcm5kaERz?oc=5"
+    }
+  ]
+}

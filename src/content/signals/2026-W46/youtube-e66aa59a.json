@@ -1,0 +1,26 @@
+{
+  "id": "youtube-e66aa59a",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "youtube",
+  "source_name": "엘지사모",
+  "url": "https://www.youtube.com/watch?v=O7CMjrUfK7E",
+  "title": "'LG트윈스' 염경엽 감독도 반전을 만들 수 있을까? #엘지트윈스 #염경엽 #박진만 #이강철 #삼성라이온즈 #kt위즈 #한국시리즈 #엘지우승",
+  "published_at": "2026-11-08T00:00:27Z",
+  "collected_at": "2026-11-08T03:38:00.984Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 2170,
+    "likes": 48,
+    "comments": 11
+  },
+  "scores": {
+    "hot": 59,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

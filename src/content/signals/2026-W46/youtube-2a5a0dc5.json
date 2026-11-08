@@ -1,0 +1,26 @@
+{
+  "id": "youtube-2a5a0dc5",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "ㄹㅇ뉴스",
+  "url": "https://www.youtube.com/watch?v=eOZr5QBig0I",
+  "title": "김도영이 45홈런보다 더 뿌듯하다는 기록은? #김도영 #KIA타이거즈 #40홈런100타점100득점 #홈런왕 #ㄹㅇ뉴스 #쇼츠",
+  "published_at": "2026-11-08T03:15:39Z",
+  "collected_at": "2026-11-08T03:38:00.984Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 191,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 26,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "news-abcf7a65",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "news",
+  "source_name": "조선일보",
+  "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcUp4WjNhN2lUY2Q3OU92M3dsWEE1SmlTRkctcWJDblpzdTdZU2NfeTFpUy1DYUVodVU0WU51dkkzaWlYX09RVmxiMkFmMDR2LTdGeWtaOV9LZHBZYk4zUlJVazktNmJTNGVaS05XcDhaTDR0a05HU01MSDkzT1FqUHZBclRBX243a3JF?oc=5",
+  "title": "'대반전' 두산에서 실패 → 커리어 끝났었는데, ML 계약 잭팟! \"메츠 간다\"",
+  "published_at": "2026-11-08T00:36:00.000Z",
+  "collected_at": "2026-11-08T03:38:00.984Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

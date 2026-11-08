@@ -1,0 +1,26 @@
+{
+  "id": "youtube-0a4f8fab",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "youtube",
+  "source_name": "샄낰",
+  "url": "https://www.youtube.com/watch?v=tMArIesizM4",
+  "title": "'배이스' KT 위즈 배제성 투구폼 【마구마구2026】",
+  "published_at": "2026-11-08T03:00:26Z",
+  "collected_at": "2026-11-08T03:38:00.984Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 24,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 16,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

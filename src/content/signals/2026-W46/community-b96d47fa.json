@@ -1,0 +1,23 @@
+{
+  "id": "community-b96d47fa",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 Jin.k's Real LOG",
+  "url": "https://blog.naver.com/gangsinjin/224468461208",
+  "title": "2026 프로야구 순위 최종 결과와 KBO 10개 구단 성적 및 포스트시즌 총정리",
+  "published_at": "2026-11-07T18:23:00.000+09:00",
+  "collected_at": "2026-11-08T03:38:00.984Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 61,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

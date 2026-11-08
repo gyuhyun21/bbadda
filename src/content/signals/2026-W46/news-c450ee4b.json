@@ -1,0 +1,29 @@
+{
+  "id": "news-c450ee4b",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스타뉴스",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9JZzBTX0pWcVkyZ2tqVlUwQXRYZ0I5amRUVG9nNWQwdEZueEhrSG1qT0Y4TU5aeDdNazVETXZPbGw5VGQ0QlY4MlIzSENYV0NxX1kxSEIxMWkta3JLVC1sbDc1SzlMdnAzRW03cjdLTHV2Z3FLQmc?oc=5",
+  "title": "박승규 타격감 절정인데 번트 '대체 왜?' 박진만 \"사인 안 내면 성공, 내면 실패하더라\" 역시 '히트 포 더 팀' 당사자답네 [KS5 현장]",
+  "published_at": "2026-11-08T03:25:39.000Z",
+  "collected_at": "2026-11-08T03:38:00.984Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 84,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE90cTMzVDEyYVJ5RzB5RFZBQXhSS3JiWHlXOHNwTmNCYl9BMHk1N3VrQ0lzTFl3UmFHeS1iSElfRTZFcmloNDk0dlktVk04azNrbWRrcFE2bHFwaEduTld1bUx3MW40RjYwT2fSAW9BVV95cUxONmtxaWdKaWtoZzY2VzN5WVZybDJNTmtBSHlVUzdPQjdabGlBeFJUS3BVS3Zrdm9scjRCQWZUUW9SbW1PVllHZDJQTkJDZHQ1VnlIaG5wR2xfbk4zYk1QZEN4UTlTZTBLNzkwYWwtaFE?oc=5"
+    }
+  ]
+}

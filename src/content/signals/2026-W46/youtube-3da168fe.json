@@ -1,0 +1,27 @@
+{
+  "id": "youtube-3da168fe",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "source_name": "대전MBC 뉴스",
+  "url": "https://www.youtube.com/watch?v=IilpDpp5NLQ",
+  "title": "#shorts [시시각각] 한화이글스 올해 총평 \"총체적 난국\"",
+  "published_at": "2026-11-08T01:00:10Z",
+  "collected_at": "2026-11-08T03:38:00.984Z",
+  "summary_ko": "대전MBC 뉴스가 한화의 올해 시즌을 \"총체적 난국\"이라고 총평한 영상이다.",
+  "metrics": {
+    "views": 1286,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 35,
+    "relevance": 50
+  },
+  "sentiment": "neutral",
+  "brief_ko": "한화 올해 총평 \"총체적 난국\""
+}

@@ -1,0 +1,24 @@
+{
+  "id": "community-9ad5acb1",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg",
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 크보한입",
+  "url": "https://blog.naver.com/dyts60/224468628479",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/BHPXeV6LR8R",
+  "title": "\"현금 10억까지 주고 데려왔는데 LG에 뺏겼다...\" 기아가 4년 전 놓친 박동원 재영입설",
+  "published_at": "2026-11-08T07:00:00.000+09:00",
+  "collected_at": "2026-11-08T03:38:00.984Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

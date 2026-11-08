@@ -1,0 +1,23 @@
+{
+  "id": "news-f7bdbb88",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "news",
+  "source_name": "스타뉴스",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1vX1JQN3dBUDFCV0FkRHZ4aEF3SzZSZEFwSlB1ZUY2eFVZY2ZyQlc5QjF2eWFMM3FSYzBCQUpnbWxvWmtNdWNpVFVBN0IwVHRHN2Y4dkZ4U1Y3WFE2VzA2a1FGdGN0VS1ERXk0blRZenNzWUlxNEE?oc=5",
+  "title": "'158㎞ 한화 파이어볼러가 막았다!' 韓 U-23 대표팀, 쿠바에 3-2 극적인 역전승... 8회말 밀어내기 끝내기→다음은 한일전",
+  "published_at": "2026-11-08T02:09:06.000Z",
+  "collected_at": "2026-11-08T03:38:00.984Z",
+  "summary_ko": "스타뉴스에 따르면 한화 파이어볼러가 던진 U-23 대표팀이 쿠바에 3-2로 역전승했고, 다음 상대는 일본이다.",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "brief_ko": "U-23 대표팀, 쿠바 꺾고 한일전"
+}

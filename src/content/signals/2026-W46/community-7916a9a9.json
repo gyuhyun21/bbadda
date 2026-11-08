@@ -1,0 +1,24 @@
+{
+  "id": "community-7916a9a9",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "엠엘비파크",
+  "url": "https://mlbpark.donga.com/mp/b.php?id=202611070119947713&p=31&b=kbotown&m=view&select=spf&query=%EC%82%BC%EC%84%B1&site=donga.com",
+  "title": "지금 버티는 건 투수와 외야 때문이라 보는데",
+  "published_at": "2026-11-06T15:00:00.000Z",
+  "collected_at": "2026-11-08T03:38:00.984Z",
+  "summary_ko": "",
+  "excerpt": "... ... kt · 롯데 · KIA · 두산 · 키움 · KBO · 스토브리그/FA…",
+  "metrics": {},
+  "scores": {
+    "hot": 55,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

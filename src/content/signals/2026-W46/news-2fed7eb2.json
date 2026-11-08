@@ -1,0 +1,23 @@
+{
+  "id": "news-2fed7eb2",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5paWhUU01vc0h5ei12Y1pIMWt6XzZCZE92TzR5YjRoaDBaTmFRM0RodUpXNFp1Z2VTLWVScGRmV2Jta3lDUHpXelY4RHRuZUJMY18xMDhBaklWY09ldWpjUFEtU1B6dkFkRkM5bFdyb9IBb0FVX3lxTE5paWhUU01vc0h5ei12Y1pIMWt6XzZCZE92TzR5YjRoaDBaTmFRM0RodUpXNFp1Z2VTLWVScGRmV2Jta3lDUHpXelY4RHRuZUJMY18xMDhBaklWY09ldWpjUFEtU1B6dkFkRkM5bFdybw?oc=5",
+  "title": "[사진] 장진혁, 솔로포 미소 활짝",
+  "published_at": "2026-11-07T05:29:00.000Z",
+  "collected_at": "2026-11-08T03:38:00.984Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 60,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "community-1be94c05",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 뛰어뚱-스포츠의 모든것",
+  "url": "https://blog.naver.com/tmdwns00428/224468972617",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/4BmLePd2Nnl",
+  "title": "이럴수가.\"한화가 원클럽맨 하주석까지 주고 데려왔는데... \"ERA 8점대로 무너진 투수가 한 말은??",
+  "published_at": "2026-11-08T11:50:00.000+09:00",
+  "collected_at": "2026-11-08T03:38:00.984Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 100,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "마이데일리",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE52S01NZHlXWWNpeV9UNFdkSjZfeHpSTklFdnJ1OHRCa0JOTS1NdTNqeWM5dEdkZ2E5S01vQlpRNzhmTXVORjNLZ0luTUhKaE8xZlQ0a005YVFBOWlNQVpGWg?oc=5"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": "youtube-3b6c49a4",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kt"
+  ],
+  "source_type": "youtube",
+  "source_name": "이맛에 스포츠!!",
+  "url": "https://www.youtube.com/watch?v=cnVhhaLuROI",
+  "title": "1회부터 뒤집고, 만루에서 잠갔다! 삼성 vs KT 승부의 TOP5🔥",
+  "published_at": "2026-11-08T03:00:19Z",
+  "collected_at": "2026-11-08T03:38:00.984Z",
+  "summary_ko": "삼성-KT 한국시리즈 승부처 TOP5를 모은 팬 영상으로, 1회 역전과 만루 위기 봉쇄 장면을 담았다.",
+  "metrics": {
+    "views": 408,
+    "likes": 2,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 33,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "삼성-KT 승부처 TOP5"
+}

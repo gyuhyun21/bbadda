@@ -1,0 +1,24 @@
+{
+  "id": "community-e9fb121d",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 울트라알파걸의 뉴스와 정보",
+  "url": "https://blog.naver.com/star_kh_/224468980837",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/4k5xeVjNzq4",
+  "title": "한국시리즈 5차전 시구자는 양준혁? 1~4차전 라인업까지 한눈에",
+  "published_at": "2026-11-08T11:19:00.000+09:00",
+  "collected_at": "2026-11-08T03:38:00.984Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "news-73a9aba6",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "일간스포츠",
+  "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1GOGItLWpFdzVtRG1SM2w3VzB0a2llQnR3SkJBYUpQUWpUR1Rxcm5TdVVIUExaZWZpejJPQk95eng5MGZGbXFrbHFxZDUyZDRoZGpVODdVYzhiYkk?oc=5",
+  "title": "[IS 포커스] 1위도 피할 수 없는 단기전 공식, 실책이 지배한 2026 포스트시즌",
+  "published_at": "2026-11-08T01:50:00.000Z",
+  "collected_at": "2026-11-08T03:38:00.984Z",
+  "summary_ko": "일간스포츠는 1위 팀도 피하지 못한 단기전 공식으로, 실책이 지배한 2026 포스트시즌을 짚었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "mixed",
+  "brief_ko": "실책이 지배한 2026 가을야구"
+}

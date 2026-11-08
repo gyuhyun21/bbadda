@@ -1,0 +1,26 @@
+{
+  "id": "youtube-17149e4e",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "youtube",
+  "source_name": "마이 기아 | 크보 팬 페이지",
+  "url": "https://www.youtube.com/watch?v=pbOJDBtx7_U",
+  "title": "[응원가] 前 키움 히어로즈 내야수 박병호 응원가 박자편집",
+  "published_at": "2026-11-08T03:06:23Z",
+  "collected_at": "2026-11-08T03:38:00.984Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 167,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 25,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

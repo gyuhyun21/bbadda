@@ -308,8 +308,14 @@ rounds:
         starters: { kt: 대니엘, samsung: 원태인 } # KT 대니엘: 매일신문 '벼랑 끝 kt 대니엘 vs 원태인…KS 5차전 8일 대구서' / 스포츠한국 '박진만 감독 승부수 던졌다 "원태인, 5차전 선발투수"'
         facts:
           - "삼성 3승 1패, 우승까지 1승" # 뉴스1 '우승까지 1승' 제목
+          - "삼성 라인업에 강민호 복귀, 디아즈는 4번" # 스포츠조선 '강민호 돌아왔다! 삼성, 우승 라인업 떴다' · 일간스포츠 '디아즈는 4번 복귀' 제목
+        ig:
+          pre: { hook: "삼성, 우승 1승 남았다\n원태인 제한 없다", sub: "KT 대니엘 vs 삼성 원태인, 강민호 선발 복귀" }
         sources:
           - "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBnaTc5Y1IxamlDUUZSVWRnS2gxdEhvZUJjeEVfVzg1WmlrNXk5NVdsaElyWTBobVZydmJxZ0JELWt6MTNGN25DNGhVM05RTVFBelJ4TkZUWTdORElEaC0zVVBR?oc=5" # KS5 선발 대니엘 vs 원태인(매일신문)
           - "https://news.google.com/rss/articles/CBMicEFVX3lxTE95VWExZmdJVVlGTGRPa21Tcl9ydUFwWW1xN295SDNVMUVnamJZOTlNcURKc1NnX050R2JnM004dzByYXNod3p3RkVLd0R3blVYZEo2c2g5d3lOcEtnQzNtOWRVVFl3Y2g1dE1jcmtFTk_SAXRBVV95cUxNU29zZEhkMkM2eWx0bkd3MlNNeEd4emFpTl9LV2s0UmhPYmpyTk9vcXo2Q19PN3ptTWk3OE8zLWdjWHRubGk1NGNIZVJpTXJOTGFzWjM2WGhUQjN1b1F5UnJfT1F6cWpzTlBxQkJRcTRFSmkwYQ?oc=5" # KS5 삼성 선발 원태인(스포츠한국)
+          - "https://news.google.com/rss/articles/CBMifkFVX3lxTFBiVFlyNDh3azBrWEdQREx3SWZJdmU5RGNKeUZJRkdZM1dNOVBocEVrSEs3eVZyX0w4VWE4Y253N1V5T2xsTkgyamZPaEFMWG9McmRYMzNuNGxtN1EySTZDTzhHVG1pbXhnSUNTQUhreVI0bUFUUUVDS1J0S09jdw?oc=5" # KS5 삼성 라인업 강민호 복귀(스포츠조선)
+          - "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBFMUYxR05YSTBkOVJNZTh4bkFrWUt0UEZmRVRJZ3FmOGNTa0gxUTR2ek9Nb191YkhfYnpVbzB5cDN5LUZmU2hpSTJVZzNBTzQ4OHpQdklRaVRuRG9xZ2JhcHdrRkJxWnl2?oc=5" # KS5 디아즈 4번 복귀(일간스포츠)
+          - "https://news.google.com/rss/articles/CBMidkFVX3lxTFBKSGFaSldwWFRNejlhRVJtR3owcElrNjBKTnFXRE5faVJISnJjc080enNGNFBsWkNtcTF5UVEwZjVnVVlJYllZakNPMHk2VUVReVNybHpPZk5RSnNZbG1QZ1BZQl9sU0VwRFUzTHoyMkEwMlFrYWc?oc=5" # 원태인 투구수 제한 없음·페덱·이재희 대기(스타뉴스)
       - { no: 6, date: 2026-11-10, venue: 수원 }
       - { no: 7, date: 2026-11-11, venue: 수원 }

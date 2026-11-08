@@ -1,0 +1,23 @@
+{
+  "id": "community-d7927f1b",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte",
+    "nc"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 오늘의 발견",
+  "url": "https://blog.naver.com/tank987/224469012706",
+  "title": "“이번엔 진짜 돈 쓸까?”…가을야구 탈락한 롯데·NC, FA 시장에서 심상치 않은 움직임",
+  "published_at": "2026-11-08T11:18:00.000+09:00",
+  "collected_at": "2026-11-08T03:38:00.984Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

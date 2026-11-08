@@ -1,0 +1,29 @@
+{
+  "id": "news-7d9ffe53",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://www.mt.co.kr/amp/sports/2026/11/08/202611080230777120O",
+  "title": "'MLB.com'이 눈여겨본다고? '푸른 피의 에이스' 원태인의 머릿속엔 오직 삼성뿐 “우승 위해 모든 걸 바치겠다” [KS]",
+  "published_at": "2026-11-07T22:10:00.000Z",
+  "collected_at": "2026-11-08T03:38:00.984Z",
+  "summary_ko": "머니투데이에 따르면 삼성 원태인은 MLB.com이 주목하는 가운데에도 우승을 위해 모든 것을 바치겠다고 밝혔다.",
+  "metrics": {},
+  "scores": {
+    "hot": 90,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVzl1ME1IM282YWRMdWl6dWJBeGVRUUI1akZUZ0Jndmt3ZVdWZ2daT0NxMFRvTmYwSW9JbG5JLTVIdkU0WjJkd0ZjeE5nYWYyYVRrVGZYRjloY196UFRWaVBUU1BCMl9vci14MlRtSmNwOXdXd3BrczQ3MHNhZEllQy0tdw?oc=5"
+    }
+  ],
+  "brief_ko": "원태인 \"우승 위해 전부\""
+}

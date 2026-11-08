@@ -1,0 +1,29 @@
+{
+  "id": "community-045cb0ae",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&page=8&document_srl=10531669483",
+  "title": "'우승까지 1승' 삼성, 페덱 불펜 대기…\"이기고 있을 때 나간다\" - 야구",
+  "published_at": "2026-11-08T03:05:00.984Z",
+  "collected_at": "2026-11-08T03:38:00.984Z",
+  "summary_ko": "",
+  "excerpt": "... 박진만 삼성 감독은 8일 대구 삼성라이온즈파크에서 열리는 2026 신한 SOL KBO리그 한국시리즈(KS·7전 4승제) 5차전을…",
+  "metrics": {},
+  "scores": {
+    "hot": 92,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9IT3I2QzBES2d0X29NZkROeC02dF9XR1VIdktBaXd0dGpTcGlocHB2XzNMemw1YUUyWHZoQW52VGNVS3F0U20xMlR2WU03cFgtZ0pMekxoYmdZWWPSAWBBVV95cUxNcE9PMlhBUmRCdFhPUXh5RVBrSDVNa0RycjBsN1FYQ3RwQW5IdnZpVURKRHc4TmNMUUJBSVhrdHJBemR5MlY2SXRIZGpVREZMSVh5NE9mN2VWMU1ZNWhmbkk?oc=5"
+    }
+  ]
+}
