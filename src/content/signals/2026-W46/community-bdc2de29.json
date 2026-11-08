@@ -1,0 +1,23 @@
+{
+  "id": "community-bdc2de29",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 오늘의 경기장",
+  "url": "https://blog.naver.com/dnl0315/224468212635",
+  "title": "\"한순간에 평가가 뒤집혔다?\" 김하성의 FA 등급이 낮아진 이유",
+  "published_at": "2026-11-08T08:10:00.000+09:00",
+  "collected_at": "2026-11-08T09:38:09.705Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

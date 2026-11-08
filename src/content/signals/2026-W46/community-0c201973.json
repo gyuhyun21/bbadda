@@ -1,0 +1,23 @@
+{
+  "id": "community-0c201973",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan",
+    "lg"
+  ],
+  "source_type": "community",
+  "source_name": "다음카페 베어스사랑 다 모이",
+  "url": "https://cafe.daum.net/seoulbears/4dqc/6591",
+  "title": "10/14 두산 01 : 04 LG (와일드카드 결정 1차전)",
+  "published_at": "2026-11-08T13:53:16.000+09:00",
+  "collected_at": "2026-11-08T09:38:09.705Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

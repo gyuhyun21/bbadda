@@ -1,0 +1,23 @@
+{
+  "id": "community-bcc46c36",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 스포츠에 빠지다",
+  "url": "https://blog.naver.com/kida02_/224469187722",
+  "title": "“김도영, 홈런 2개 치더니 4삼진이라니” 도쿄돔 앞두고 하루 만에 뒤집힌 타석",
+  "published_at": "2026-11-08T15:50:00.000+09:00",
+  "collected_at": "2026-11-08T09:38:09.705Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

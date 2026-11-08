@@ -1,0 +1,24 @@
+{
+  "id": "news-d6574dd7",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE82ZFQ4T1Y4Q3F1Zmw3TEFoWERrYnY3aFRCY2FMOS11WGRzRUtLY1REdmdMMWxlTkR0aFR0Z2g2VTRVTGNiM2NHTmoxUTE5ZEtRY3FUQmY4YldoZDZuWGMxZ0NWa0RPNmt2Yk5ucmpXZmNCaEpnNFAwY0Npd2ZRUQ?oc=5",
+  "title": "이게 50%라고? \"160㎞ 던지겠는걸\"…이글스 우완 최고 마무리 반등 시작됐다 [미야자키 현장]",
+  "published_at": "2026-11-08T09:15:15.000Z",
+  "collected_at": "2026-11-08T09:38:09.705Z",
+  "summary_ko": "스포츠조선은 미야자키 캠프에서 한화 우완 마무리 투수의 반등 조짐을 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "미야자키서 마무리 반등 신호"
+}

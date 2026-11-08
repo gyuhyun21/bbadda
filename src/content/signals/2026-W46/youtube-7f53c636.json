@@ -1,0 +1,26 @@
+{
+  "id": "youtube-7f53c636",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "크보오프너",
+  "url": "https://www.youtube.com/watch?v=uvSY1MNARhs",
+  "title": "[크보클로저 LIVE] 강성철X송재우X민병헌X어진명 l 12년 만에 왕조 재건! 2026 한국시리즈 챔피언 삼성 라이온즈! l 11월 8일(일)",
+  "published_at": "2026-11-08T06:26:31Z",
+  "collected_at": "2026-11-08T09:38:09.705Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 4992,
+    "likes": 899,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 85,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

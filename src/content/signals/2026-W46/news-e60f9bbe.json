@@ -1,0 +1,23 @@
+{
+  "id": "news-e60f9bbe",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "스타뉴스",
+  "url": "https://www.starnewskorea.com/sports/2026/11/08/2026110815360131851",
+  "title": "삼성, 이것이 바로 진정한 원팀! 김재윤 이탈→원태인 스윙맨 헌신→43세 최형우 수비 '투혼'까지",
+  "published_at": "2026-11-08T08:17:00.000Z",
+  "collected_at": "2026-11-08T09:38:09.705Z",
+  "summary_ko": "스타뉴스는 김재윤 이탈, 원태인의 스윙맨 헌신, 43세 최형우의 수비 투혼을 삼성 우승의 '원팀' 사례로 꼽았다.",
+  "metrics": {},
+  "scores": {
+    "hot": 84,
+    "relevance": 70
+  },
+  "sentiment": "negative",
+  "brief_ko": "김재윤 이탈에도 '원팀' 우승"
+}

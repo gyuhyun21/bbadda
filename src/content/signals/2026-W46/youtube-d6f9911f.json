@@ -1,0 +1,43 @@
+{
+  "id": "youtube-d6f9911f",
+  "issue": "2026-W46",
+  "module": "league",
+  "teams": [
+    "samsung",
+    "kt"
+  ],
+  "team": "samsung",
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=hicR-WVC4F8",
+  "title": "12년 만에 돌아온 정상! 아홉 번째 우승! 2026 한국시리즈 챔피언 삼성라이온즈 우승의 순간! | KS5_KT vs 삼성 | 11.8 | 크보모먼트 | KBO 야구 하이라이트",
+  "published_at": "2026-11-08T08:46:08Z",
+  "collected_at": "2026-11-08T09:38:09.705Z",
+  "summary_ko": "KBO 공식 채널이 삼성의 12년 만의 우승 순간을 담은 영상을 올렸다.",
+  "metrics": {
+    "views": 4681,
+    "likes": 1281,
+    "comments": 215
+  },
+  "scores": {
+    "hot": 85,
+    "relevance": 80
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "MBC 뉴스",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5zVXlzZzZVOHpkNU9MZms5MkFGSnRrSmQyZU92Y25GMXR3RFcxdFpUVGRxV2tBZ0VEVFZOQk9HdUxfbFg1azFFNGRJUTJtSFZyNjJuUDI5YThNUTZyeU9XZnBpTmQzM3U4aFlJcnZ3MXBYdnlJTnfSAXZBVV95cUxQNHItbUxYbEJzcEhRMTMxN1pNYk8xWGJRNFFCbHJtQWpURV82czVtZmU1Ym1wNnN5OXNGQ1pUYUEtUGo4WkRBVHEtdWFGd3M2RkZIM093eEpVUGxvQl9QYXpsYnJESHJwMFBnUWpjdlF0UW1Db3JB?oc=5"
+    },
+    {
+      "source_name": "동아일보",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1FNDBhUDBocVhDYk1McnppWnJyX0lORFBRdEZ2ZnZjaVJqY0R4b3B3TEJTdFpEMHlMSnVaYWR5cy1GbzhPTjhjMmJDaDFZNjdGbkdzdGV0VWpKWDlGQVdhcTlobnZNQURaamMzNGQwQTRka19FRGfSAWZBVV95cUxNY2xyc2dEWVo4V1k5VFRiVlphbU5YYjlPSFFBZ2FiQklpM0hucFhqUUhFampVLWdWRzNCVTZCVmt6WVUxYkFQOWp0WmdaUl9aNXJEQm1mOFpzYklrYmRfLUZwWmE4ZEE?oc=5"
+    },
+    {
+      "source_name": "남도일보",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9FT3MtR2ZzaEFmdXVDcHpYWGRDMENsTzN0Tl9uc042S0FpTTFnZ3RyMW9JQUVZd3BXUFNjNHRRenBocy1hYl9ibVBtTG1xZlR1ME5DbnIyVW41cnBTbHVJbVNJZ0tmcDdKOW0tS9IBcEFVX3lxTE1xSUttV3pZZFY3eFpMeGdDNEhTVmtiTGswdGg3bmRLLXg3ZWJ1ZmtwNVJ2dm5zRzg4TDB5elZvazRuRExaX2tNLXAtZjh1cFRQMzZaSXJwVDFwQmgzOU4ybHdLNjVBZ29EMDBaVUlKbjY?oc=5"
+    }
+  ],
+  "brief_ko": "12년 만의 우승 순간 영상"
+}

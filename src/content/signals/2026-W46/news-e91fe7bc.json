@@ -1,0 +1,23 @@
+{
+  "id": "news-e91fe7bc",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스타뉴스",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1FV2xfSUc1c2NKMUp0dDRmbW50QnR4VHhocHRxM2JCYks1cVI5WE1rcVcxMlVUM243Nl93d3JxbzRHZV96dk5OM014Qnh0QmlDSld5X1UxMktQZFQ2LXlRMU9URFlDbWVpT3U1a0pkYmpZWDFBcEE?oc=5",
+  "title": "[포토]'선수들의 헹가래선물 받는' 부상투혼 강민호",
+  "published_at": "2026-11-08T09:12:19.000Z",
+  "collected_at": "2026-11-08T09:38:09.705Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

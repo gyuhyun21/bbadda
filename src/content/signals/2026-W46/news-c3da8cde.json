@@ -1,0 +1,23 @@
+{
+  "id": "news-c3da8cde",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "news",
+  "source_name": "마이데일리",
+  "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9lLWVwLW5VOUFmMHdfbENreklHYWhPRmlheDRYTUM3cHp1bGhpWlRXMlBvRW95amFWeUk2VFIyUWRBNEdxckNBR2kxekkxUm5taVFDR0lSWHJVRkFkTW9NS1g4YkFVZw?oc=5",
+  "title": "‘충격’ KT 90승팀 맞나, 어떻게 이렇게 자멸하나…마운드는 볼넷 남발에 야수들은 만세+악송구, 충격의 준우승[MD대구]",
+  "published_at": "2026-11-08T09:00:00.000Z",
+  "collected_at": "2026-11-08T09:38:09.705Z",
+  "summary_ko": "마이데일리는 KT가 볼넷 남발과 야수 실책·악송구로 무너지며 준우승에 그쳤다고 평가했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "mixed",
+  "brief_ko": "볼넷·실책에 무너진 KT"
+}

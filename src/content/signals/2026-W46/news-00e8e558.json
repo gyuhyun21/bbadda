@@ -1,0 +1,23 @@
+{
+  "id": "news-00e8e558",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://www.sportschosun.com/baseball/2026-11-08/202611080100057020005540",
+  "title": "'LG 좌완' 4이닝 5K 무실점 막았는데…U-23 대표팀, 끝내기에 웃고 울었다 '日에 역전패'",
+  "published_at": "2026-11-08T07:40:19.000Z",
+  "collected_at": "2026-11-08T09:38:09.705Z",
+  "summary_ko": "U-23 대표팀의 LG 좌완이 일본전에서 4이닝 5탈삼진 무실점으로 막았지만 팀은 끝내기로 역전패했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 83,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "brief_ko": "U-23, 일본에 끝내기 역전패"
+}

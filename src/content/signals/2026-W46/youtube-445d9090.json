@@ -1,0 +1,26 @@
+{
+  "id": "youtube-445d9090",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "Yellow Note",
+  "url": "https://www.youtube.com/watch?v=8VUFDSXs82I",
+  "title": "#삼성라이온즈 #한국시리즈 #삼성 #원태인 #구자욱 #후라도 #KBO #우승 #왕조 #삼성왕조 #프로야구 #가자가자안타송",
+  "published_at": "2026-11-08T09:00:40Z",
+  "collected_at": "2026-11-08T09:38:09.705Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 271,
+    "likes": 17,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 70,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

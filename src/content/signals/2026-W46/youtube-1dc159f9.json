@@ -1,0 +1,26 @@
+{
+  "id": "youtube-1dc159f9",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "youtube",
+  "source_name": "KRB Sports",
+  "url": "https://www.youtube.com/watch?v=yKhVzv9Rq0c",
+  "title": "KRBL S9 다시 추격을 시작하는 NC다이노스!",
+  "published_at": "2026-11-08T08:17:12Z",
+  "collected_at": "2026-11-08T09:38:09.705Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 503,
+    "likes": 4,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 39,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

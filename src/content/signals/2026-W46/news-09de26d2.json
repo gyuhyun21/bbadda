@@ -1,0 +1,28 @@
+{
+  "id": "news-09de26d2",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "news",
+  "source_name": "마이데일리",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Fa2ZDRzZNZDdlZE9QUXFodG95UkRtb1hmSkEzRnoyWmhmUWlPSmdqTVlLQlFQWXNJU3pNZG9ObTZ5WkZtVjhJTzZCdUtDbENMVFNOMnRxRG9RS01KOW05dg?oc=5",
+  "title": "대니엘도 위기의 KT를 구하지 못했다, 3회 갑자기 와르르…고영표 등판 초강수, 이강철도 어쩔 수 없었다[MD대구 KS5]",
+  "published_at": "2026-11-08T06:23:15.000Z",
+  "collected_at": "2026-11-08T09:38:09.705Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 80
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "뉴스핌",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1sa3Q2V2NiaUN6Nm1RT19nR0trdGVlMzF6OFZqRUQzY0NDMlhaejljVEw5VS1WR0JwM2lEMHo3Wkh1T0RINmpqdGUyaGNoTXZBWUE4TmRqa1ZFVW5j?oc=5"
+    }
+  ]
+}

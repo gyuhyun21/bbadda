@@ -1,0 +1,24 @@
+{
+  "id": "community-88ec91c3",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "레딧 r/KBO",
+  "url": "https://www.reddit.com/r/KBO/best/",
+  "title": "r/KBO",
+  "published_at": "2026-11-06T15:00:00.000Z",
+  "collected_at": "2026-11-08T09:38:09.705Z",
+  "summary_ko": "",
+  "excerpt": "... r/KBO: Welcome to the Korean Baseball Organization community on Reddit! Here is where you…",
+  "metrics": {},
+  "scores": {
+    "hot": 53,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

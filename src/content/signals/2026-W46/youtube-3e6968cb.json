@@ -1,0 +1,24 @@
+{
+  "id": "youtube-3e6968cb",
+  "issue": "2026-W46",
+  "module": "league",
+  "teams": [],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=9yhMpmUZXvs",
+  "title": "한국시리즈 5차전의 마운드를 밝히는 세븐틴 에스쿱스의 시구💎",
+  "published_at": "2026-11-08T05:23:25Z",
+  "collected_at": "2026-11-08T09:38:09.705Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 6413,
+    "likes": 301,
+    "comments": 17
+  },
+  "scores": {
+    "hot": 86,
+    "relevance": 30
+  },
+  "sentiment": "neutral"
+}

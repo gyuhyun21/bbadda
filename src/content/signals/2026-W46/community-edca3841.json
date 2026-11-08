@@ -1,0 +1,29 @@
+{
+  "id": "community-edca3841",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 New Life님의 블로그",
+  "url": "https://blog.naver.com/ninja9567/224469298741",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/JtIYubfdjA5",
+  "title": "삼성 라이온즈, 2026년 왕좌에 오르다! | 12년 만의 한국시리즈 우승",
+  "published_at": "2026-11-08T17:19:00.000+09:00",
+  "collected_at": "2026-11-08T09:38:09.705Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4wdm51OE5GUFEzNGxOX1pEeVVWSzRmbHFoMWlGSEFnWDBHN1EzemhLcEF5OFNTOWNDbVgzYUNPMEh3X3hRc2YtWmxYVnVHMzhVdmpEbA?oc=5"
+    }
+  ]
+}

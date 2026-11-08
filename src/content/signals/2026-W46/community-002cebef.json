@@ -1,0 +1,42 @@
+{
+  "id": "community-002cebef",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 삼송파더",
+  "url": "https://blog.naver.com/nmdjks/224469300237",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/DlWDW3j0wKB",
+  "title": "\" MVP 구자욱\" 삼성 라이온즈 12년 만에 한국시리즈 우승을 이끌다!!",
+  "published_at": "2026-11-08T17:21:00.000+09:00",
+  "collected_at": "2026-11-08T09:38:09.705Z",
+  "summary_ko": "한 블로그는 구자욱이 2026 한국시리즈 MVP로 삼성의 우승을 이끌었다고 소개했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 100,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "톱스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1pT0dUcG9BaHBCVEx5Q255ZVl1Y2hnTkEyOE1CTlBYN2dBSHh3VUZaaF9vdENPcXF1S1duS3paUjVNajJDZ19uOENWY3lNRk5vcFFKMEhLelpremRQbGwyTW1KWEhHTWRPeTR1Ry1JcnZVUQ?oc=5"
+    },
+    {
+      "source_name": "뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBhdVlBTVZBYXJjNGF3RFlCRURvbXJRV3pfUmZoTVhndkJ5SnBFRHhKbUVrOUcwX2QzbUstNGRoMEd2YmNKYkI3RUdaaw?oc=5"
+    },
+    {
+      "source_name": "스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5GdUFIQ3lKWlZodW03NzZGU19JQzFCbUVpVm5XTERmNWZNZlF2aGdxcFYyN0dTc2NJVk1TRlFiUGpWQmtqVWdmUlhWMWNwNWMtUUVrNVhYYy12WTVvd3hubUFpaDVzRkV5X2VTbzktdUMta3pYcXc?oc=5"
+    },
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE11S3NhTmNvWDljUkJ5cW9YZS04MmZxc3lCT3F2M0ZUNUprNVdaN3pidHZOZTI4c0NfWXlvNUJZc0cxNU9WOFBlMHduSHo2MDB5WThXUUxLa1hmWTdiSGNiSl9ROXBXeDl4eGfSAW9BVV95cUxQY2I2N2RnWS1wZUpWMFR6TGhEU1F6SnoxS3huOUhsSWZhNzBJb24tUkJmZTBmTDgzSmZVbzFaT0FmQ05ia21nUDRqdUN6MjVrTGllOG12MEl3WGotdWFqUEdwN2hIbkVOQkNiYlR5V0U?oc=5"
+    }
+  ],
+  "brief_ko": "한국시리즈 MVP 구자욱"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "youtube-478a2e73",
+  "issue": "2026-W46",
+  "module": "league",
+  "teams": [],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=QyiXxiTqIqc",
+  "title": "[2026 신한 SOL KBO 한국시리즈 5차전 - 경기결과]",
+  "published_at": "2026-11-08T08:35:33Z",
+  "collected_at": "2026-11-08T09:38:09.705Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 4975,
+    "likes": 1112,
+    "comments": 98
+  },
+  "scores": {
+    "hot": 85,
+    "relevance": 30
+  },
+  "sentiment": "neutral"
+}

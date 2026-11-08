@@ -1,0 +1,23 @@
+{
+  "id": "news-78e27e09",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "조선일보",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNLWR6LUFvWTdDeENQNEZjWklxdnBYamxfRDVwTm44NEhOUHh2ZG1BeXltMDRyX2hpanZOS2lOVkJZWFBLMVpIUExncDFEajA1bmE5R3lGdnRzRnFqVFJYc2lvd2c4Um1yaWxpajhHY2lVOV84cmc3LTZhQ2NYTlZXejl3SQ?oc=5",
+  "title": "\"VAMOS에 미쳐 살고 있어요\" 영양사도 한마음으로 응원, 대구에서 한국시리즈 끝낼까 [KS5]",
+  "published_at": "2026-11-08T05:11:33.000Z",
+  "collected_at": "2026-11-08T09:38:09.705Z",
+  "summary_ko": "조선일보는 삼성 영양사도 'VAMOS' 응원에 한마음이라며 대구에서 한국시리즈를 끝낼 수 있을지 5차전을 앞두고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "영양사도 VAMOS 응원"
+}

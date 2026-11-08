@@ -1,0 +1,23 @@
+{
+  "id": "news-14b4bebc",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "스타뉴스",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAwSFZNT3JDLV95M2JTdlFTSGdyVElITHlxRnd2bGRBeGhDV2ZZRU5tNHloMkVSQWZEZ1Nndmg3ZjNkMUZxNmdCTzdkNFJidk5JRl9sUzdKMF9Rc2JvaTE0SVhVV0xkUFNobjBtUWxBSTdIRGJKVGc?oc=5",
+  "title": "\"이 도시에 우승 안겨주겠다\" 10일간 300구+5차전 불펜 등판까지! 페덱은 투혼으로 약속을 지켰다",
+  "published_at": "2026-11-08T08:20:00.000Z",
+  "collected_at": "2026-11-08T09:38:09.705Z",
+  "summary_ko": "삼성 페덱이 10일간 300구 넘게 던지고 5차전 불펜에도 올라 우승을 안기겠다던 약속을 지켰다고 스타뉴스가 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "brief_ko": "페덱, 300구 투혼의 약속"
+}

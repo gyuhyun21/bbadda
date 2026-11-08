@@ -1,0 +1,24 @@
+{
+  "id": "community-c2ac3e16",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/10532643180",
+  "title": "코로나 이후 우승 구장 - 야구",
+  "published_at": "2026-11-08T08:38:09.705Z",
+  "collected_at": "2026-11-08T09:38:09.705Z",
+  "summary_ko": "",
+  "excerpt": "... 2022 인천 SSG 랜더스 필드(홈)2023 서울종합운동장 야구장(홈)2024 광주-KIA 챔피언스 필드(홈)2025 대전 한화생명 볼파크(원정)2026 대구…",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

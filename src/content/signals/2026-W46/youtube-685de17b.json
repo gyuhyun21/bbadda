@@ -1,0 +1,24 @@
+{
+  "id": "youtube-685de17b",
+  "issue": "2026-W46",
+  "module": "league",
+  "teams": [],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=_AudJ6rVHEc",
+  "title": "원태인의 시원한 포효! 5이닝 5K로 오늘 경기를 마친 원태인🦁",
+  "published_at": "2026-11-08T07:23:15Z",
+  "collected_at": "2026-11-08T09:38:09.705Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 12240,
+    "likes": 657,
+    "comments": 37
+  },
+  "scores": {
+    "hot": 90,
+    "relevance": 30
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-112614b9",
+  "issue": "2026-W46",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "데일리안",
+  "url": "https://www.dailian.co.kr/news/view/1712217/",
+  "title": "‘삼성의 야마모토’ 원태인, 정규시즌 부진 씻고 PS 사나이로 우뚝 [한국시리즈]",
+  "published_at": "2026-11-08T08:21:00.000Z",
+  "collected_at": "2026-11-08T09:38:09.705Z",
+  "summary_ko": "데일리안은 원태인이 정규시즌 부진을 씻고 포스트시즌에서 '삼성의 야마모토'로 우뚝 섰다고 썼다.",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 80
+  },
+  "sentiment": "neutral",
+  "brief_ko": "원태인, 가을에 살아났다"
+}

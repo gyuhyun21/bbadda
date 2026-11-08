@@ -1,0 +1,43 @@
+{
+  "id": "community-751cd1e1",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kt"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 테크모터스 노트",
+  "url": "https://blog.naver.com/wing2722/224469290136",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/GoAFmKfFoJn",
+  "title": "삼성 라이온즈, 12년 만에 한국시리즈 우승! KT에 12-1 대승 4승 1패로 정상 탈환",
+  "published_at": "2026-11-08T17:09:00.000+09:00",
+  "collected_at": "2026-11-08T09:38:09.705Z",
+  "summary_ko": "한 블로그는 삼성이 KT를 12-1로 꺾고 4승 1패로 한국시리즈 정상을 되찾았다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 99,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBJa3NqVzZMQkJ0Tlc3bEFiRnd3c0gzeVlaX09NLVgyQzBwSE5MR2xlYlE1UUtfemY0amVQZ0hxNUtzR3MzSjZ4MzVxSDdld0RYVzVyZURJTUNNZnhyOUxSc9IBYEFVX3lxTFBJa3NqVzZMQkJ0Tlc3bEFiRnd3c0gzeVlaX09NLVgyQzBwSE5MR2xlYlE1UUtfemY0amVQZ0hxNUtzR3MzSjZ4MzVxSDdld0RYVzVyZURJTUNNZnhyOUxScw?oc=5"
+    },
+    {
+      "source_name": "동아일보",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBvZ2NZdDZzWW9TSWUyd0JzS0N5akxMVXBxZDV3LVRoTUk2Y3V2YUs0MFlBR1BBY3h0bG5NNm11UE1Md091bXU5M3hUbE1LZTlpX256eENRNjZoV0ZGb3M3YzNJUi0xUdIBZkFVX3lxTFBvZ2NZdDZzWW9TSWUyd0JzS0N5akxMVXBxZDV3LVRoTUk2Y3V2YUs0MFlBR1BBY3h0bG5NNm11UE1Md091bXU5M3hUbE1LZTlpX256eENRNjZoV0ZGb3M3YzNJUi0xUQ?oc=5"
+    },
+    {
+      "source_name": "한국경제",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5jQ1J3UGFyTGNkRWltaXdyOTNCYjZ2YlMybVQ5Q3gwSjR0M0QzeVBIUGUwLV9YQ1lhUXN6M3oya2tTSWVnbV9wNEFYbWtKMWY0Q1JkVHpfa1Y0dw?oc=5"
+    },
+    {
+      "source_name": "대전일보",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBOUXRQWGNhT3QwR1BXcVBBb3VxUVQ5S2RuSHFCQnFCa2dVZGJwZU8yQjFWLThNMzZKcHZkRXBRWGlKcEQzUGx0X1FlTVpsM0ItQ1ItUF9HMHNmRllvQzRYRUwzVVZjUDlSMV9aUG9qRQ?oc=5"
+    }
+  ],
+  "brief_ko": "5차전 12-1 대승, 4승 1패"
+}

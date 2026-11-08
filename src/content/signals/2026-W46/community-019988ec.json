@@ -1,0 +1,23 @@
+{
+  "id": "community-019988ec",
+  "issue": "2026-W46",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 돈의 감각 블로그",
+  "url": "https://blog.naver.com/segaero83/224469330301",
+  "title": "\"얼굴에 타구 맞고 결국 구급차 이송…\" KT 권동진, 한국시리즈 도중 벌어진 아찔한 부상",
+  "published_at": "2026-11-08T17:59:00.000+09:00",
+  "collected_at": "2026-11-08T09:38:09.705Z",
+  "summary_ko": "블로그 글에 따르면 KT 권동진이 타구에 얼굴을 맞고 구급차로 이송됐다.",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "negative",
+  "brief_ko": "권동진, 타구에 맞고 병원행"
+}
