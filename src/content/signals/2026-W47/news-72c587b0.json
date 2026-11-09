@@ -1,0 +1,23 @@
+{
+  "id": "news-72c587b0",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "뉴시스",
+  "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1pWkdyd3FBR3l5c2I0QnNlbFRhQjZxNVN4XzhKMEJJb2JwN3h6VTBiVlFfTjIycFZBYnhFcVZVcUNjaF9OR2hKT0diRW1tY0QtcVhKSk8weTl4RjJaaUcyYmlGMFphQTgxQUVJNFVuVm1neEVBejJTc9IBeEFVX3lxTE1pWkdyd3FBR3l5c2I0QnNlbFRhQjZxNVN4XzhKMEJJb2JwN3h6VTBiVlFfTjIycFZBYnhFcVZVcUNjaF9OR2hKT0diRW1tY0QtcVhKSk8weTl4RjJaaUcyYmlGMFphQTgxQUVJNFVuVm1neEVBejJTcw?oc=5",
+  "title": "U-23 야구 대표팀, 세계선수권 조별리그서 베네수엘라에 0-7 완패",
+  "published_at": "2026-11-09T05:57:43.000Z",
+  "collected_at": "2026-11-09T21:38:39.111Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 62,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

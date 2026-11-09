@@ -1,0 +1,22 @@
+{
+  "id": "community-d7143b52",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 스포트렌드(SPOTREND)",
+  "url": "https://blog.naver.com/01697676807/224470742004",
+  "title": "KT 권동진 부상 상태는? 김영웅 강습 타구에 안와골절, 수술 여부 확인",
+  "published_at": "2026-11-10T00:03:00.000+09:00",
+  "collected_at": "2026-11-09T21:38:39.111Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

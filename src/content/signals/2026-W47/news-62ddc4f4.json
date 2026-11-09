@@ -1,0 +1,24 @@
+{
+  "id": "news-62ddc4f4",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://www.sportschosun.com/baseball/2026-11-10/202611100100067730006328",
+  "title": "'라면 끊고 본격 러닝 돌입' 김서현의 독한 다이어트…\"PS 악몽 극복하고 트로피 들고 싶다\" [미야자키 인터뷰]",
+  "published_at": "2026-11-09T20:36:18.000Z",
+  "collected_at": "2026-11-09T21:38:39.111Z",
+  "summary_ko": "스포츠조선은 한화 김서현이 라면을 끊고 러닝에 들어갔다며 포스트시즌 악몽을 극복하고 트로피를 들고 싶다고 말했다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "김서현, 라면 끊고 러닝"
+}

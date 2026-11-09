@@ -215,6 +215,86 @@
           "community": 102
         }
       }
+    },
+    {
+      "week": "2026-W47",
+      "collected_at": "2026-11-09T21:38:39.111Z",
+      "sources": {
+        "news_rss": {
+          "total": 487,
+          "feeds": 18
+        },
+        "youtube": {
+          "total": 97,
+          "units": 1020,
+          "searches": 10,
+          "filtered_by_title": 29
+        },
+        "kakao": {
+          "total": 422,
+          "requests": 20,
+          "filtered_ads": 22
+        },
+        "instagram": {
+          "total": 0
+        },
+        "vertex": {
+          "total": 354,
+          "requests": 50,
+          "dropped_undated": 0,
+          "dropped_suspect_date": 40
+        }
+      },
+      "failures": [
+        {
+          "source": "news_rss",
+          "error": {
+            "feed": "gnews-team-kiwoom",
+            "error": "HTTP 404: <html lang=\"ko\" dir=ltr><meta charset=utf-8><meta name=viewport content=\"initial-scale=1, minimum-scale=1, width=device-width\"><title>Error 404 (찾을 수 없음)!!1</title><style nonce=\"zt1h4x64zdqww8u-ZkcxLw"
+          }
+        },
+        {
+          "source": "instagram",
+          "error": "@lgtwinsbaseballclub: 토큰 만료(오류 190) — 장기 토큰을 다시 발급하세요"
+        }
+      ],
+      "skipped": [],
+      "excluded_spam": 3,
+      "out_of_window": 298,
+      "dropped_no_team": 187,
+      "team_inferred": 244,
+      "dedupe": {
+        "dropped_existing": 542,
+        "merged_in_batch": 29
+      },
+      "dropped_cap": 104,
+      "new_signals": {
+        "total": 197,
+        "by_module": {
+          "team": 40,
+          "fans": 152,
+          "rivalry": 2,
+          "league": 3
+        },
+        "by_team": {
+          "samsung": 39,
+          "lotte": 24,
+          "kt": 26,
+          "nc": 12,
+          "kia": 27,
+          "lg": 15,
+          "hanwha": 22,
+          "doosan": 13,
+          "kiwoom": 9,
+          "ssg": 7,
+          "-": 3
+        },
+        "by_source": {
+          "news": 45,
+          "youtube": 52,
+          "community": 100
+        }
+      }
     }
   ]
 }

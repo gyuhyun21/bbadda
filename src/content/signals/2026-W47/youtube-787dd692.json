@@ -1,0 +1,26 @@
+{
+  "id": "youtube-787dd692",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "youtube",
+  "source_name": "방다한",
+  "url": "https://www.youtube.com/watch?v=5AZGv_5rDQc",
+  "title": "LG 트윈스 구본혁 응원가 육성 버전 (2026.08.26)",
+  "published_at": "2026-11-09T13:56:48Z",
+  "collected_at": "2026-11-09T21:38:39.111Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 17,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 15,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

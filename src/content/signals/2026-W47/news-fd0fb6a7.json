@@ -1,0 +1,23 @@
+{
+  "id": "news-fd0fb6a7",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "서울신문",
+  "url": "https://www.seoul.co.kr/news/plan/phj-Cleaning-time/2026/11/10/20261110035001",
+  "title": "‘왕조시대 부활’ 선언한 삼성, 토종 선발투수 보강이 관건[박현진의 클리닝타임]",
+  "published_at": "2026-11-09T14:43:20.000Z",
+  "collected_at": "2026-11-09T21:38:39.111Z",
+  "summary_ko": "서울신문은 왕조시대 부활을 선언한 삼성의 관건으로 토종 선발투수 보강을 꼽았다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 80
+  },
+  "sentiment": "neutral",
+  "brief_ko": "토종 선발 보강이 숙제"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "youtube-2d34f517",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "youtube",
+  "source_name": "크보쌍둥이",
+  "url": "https://www.youtube.com/watch?v=33H3LGTR_K0",
+  "title": "롯데 fa 포수 영입노린다고? 손성빈 있는데? 유강남 사태 다시 나오면? #롯데자이언츠 #손정빈 #박동원 #양의지 #김태군",
+  "published_at": "2026-11-09T14:22:08Z",
+  "collected_at": "2026-11-09T21:38:39.111Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 11787,
+    "likes": 100,
+    "comments": 65
+  },
+  "scores": {
+    "hot": 61,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

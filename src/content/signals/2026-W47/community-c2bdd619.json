@@ -1,0 +1,24 @@
+{
+  "id": "community-c2bdd619",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "엠엘비파크",
+  "url": "https://mlbpark.donga.com/mp/b.php?id=202611090120008709&p=31&b=bullpen&m=view&site=donga.com&pos=reply",
+  "title": "한국 시리즈 우승 상금 썰",
+  "published_at": "2026-11-08T15:00:00.000Z",
+  "collected_at": "2026-11-09T21:38:39.111Z",
+  "summary_ko": "",
+  "excerpt": "... ... 삼성 LG 같은 팀은 보험료가 4억~5억 하고 우승확률이 거의없는 롯데 ... 라이온즈 자체가…",
+  "metrics": {},
+  "scores": {
+    "hot": 57,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

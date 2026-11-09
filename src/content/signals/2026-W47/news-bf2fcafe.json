@@ -1,0 +1,22 @@
+{
+  "id": "news-bf2fcafe",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "news",
+  "source_name": "m.maniareport.com",
+  "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9LNnJUNWJQR01wbzljR0JHUDJCa0NLblloLTl3WDFNcnhhVDlkVC16eTlpUW04eS1jWGtHQ2xIQ3hDdHBMaHc5dk5sMDlWUkRhTmhuNkdpd25hRjdxMXdZTENrZjlSQ1FRUFhyQnZTZ3dyMDA1N0xNcTloNA?oc=5",
+  "title": "‘KS 5차전 강습 타구에 쓰러진' kt 권동진, 안와골절에도 수술 피했다",
+  "published_at": "2026-11-09T12:15:00.000Z",
+  "collected_at": "2026-11-09T21:38:39.111Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

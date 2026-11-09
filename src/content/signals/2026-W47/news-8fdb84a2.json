@@ -1,0 +1,29 @@
+{
+  "id": "news-8fdb84a2",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9qa203cmVBU29aMUFBZkh0NFVndndpV2M2RjRmYkllZEotLVJncU9lWDJsZVpzcnhPTXhGNUhFa2x4ODRwR2RSLUxyMGp4cVBaRzh1NkNTbEEyeEtUZlJnX010VmU1ZHVrMGh6ZUdpd0hSZ1lDcW43cFg4TS1MZw?oc=5",
+  "title": "\"앱솔루틀리\" 이런 용병 왜 우리만 없어! → 낯선 팀에 미친 헌신. 텍사스 테토남이 보여준 독보적인 충성심",
+  "published_at": "2026-11-09T15:03:05.000Z",
+  "collected_at": "2026-11-09T21:38:39.111Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 90,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPcGtqY2JVZ214c2NEYmxoS3Fxdk9kVlQzSlhtaVV5Z3IyUFluYkFxN2laRGNoRDJQTTk2UGJXMWkyWGIzQ1RmaFZCeF9mSk9GNEFJRl9pdXhsUnZIVUNTWkxnSENpS3kxSFY5Y1EtUjZMemY3ZmxVTFN2ajJhcVRzLXlfOA?oc=5"
+    }
+  ]
+}

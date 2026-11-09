@@ -1,0 +1,26 @@
+{
+  "id": "youtube-29f58c37",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "youtube",
+  "source_name": "크리스탈볼",
+  "url": "https://www.youtube.com/watch?v=Gz86qi8ftak",
+  "title": "[LG 트윈스] 트리스탄 벡 미리보기",
+  "published_at": "2026-11-09T14:13:28Z",
+  "collected_at": "2026-11-09T21:38:39.111Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 176,
+    "likes": 6,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 55,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

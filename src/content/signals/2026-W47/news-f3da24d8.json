@@ -1,0 +1,29 @@
+{
+  "id": "news-f3da24d8",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBzb1BfRnM3di1SZWZkX01mc0xrTy1ocmNNVkRmeWxHNHlwNGdLcjh1d3g2SlFKakxWS1B1YjlwbGJ6R0VLTkd1b2RtUHF2dTJsTDRHSEFidzFkT3FfTDhoQVh5NDM1LWxxTHfSAW9BVV95cUxNWHdWTTlicEtKTFk1bFBraDQwTnVQWFpJQXdCM2Y5ejdzc2VOZ1M5ZlRXeFFBVmZ0NDZMdWFjczNOME53U3MwMGhydTF1RmRxcllySkF3VDBZRFVLQ2FYQXhaOEVJM1JPSE1jYmhEMms?oc=5",
+  "title": "48억 FA 계약→208안타 초대박, 그런데 KS 4연패 충격…부상에 고개 숙인 복덩이 이적생 “내가 역할 못했다”",
+  "published_at": "2026-11-09T15:40:00.000Z",
+  "collected_at": "2026-11-09T21:38:39.111Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 82,
+    "relevance": 70
+  },
+  "sentiment": "negative",
+  "also_in": [
+    {
+      "source_name": "OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5RVjVyck9ZbWYtNS1ySmRBQWJhc3R4MkNuY3RveVFqcHRpNTg1MXY3Z21ndTJ3eWtubzBsQkxFZ0hVWmNkVmhTSkR6UDFySFNUNV9Hcw?oc=5"
+    }
+  ]
+}

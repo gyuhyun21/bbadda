@@ -1,0 +1,24 @@
+{
+  "id": "news-15ad960a",
+  "issue": "2026-W47",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://www.sportschosun.com/baseball/2026-11-09/202611100100065920006214",
+  "title": "'롯데 굿바이' KIA 영입 완료, 5년 만에 친정 돌아왔다…\"새롭네요, 불러주셔서 감사합니다\"[오키나와 현장]",
+  "published_at": "2026-11-09T16:22:00.000Z",
+  "collected_at": "2026-11-09T21:38:39.111Z",
+  "summary_ko": "스포츠조선은 롯데를 떠난 선수가 KIA 영입을 마치고 5년 만에 친정으로 돌아와 오키나와에서 인사를 전했다고 보도했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "5년 만의 친정 복귀"
+}

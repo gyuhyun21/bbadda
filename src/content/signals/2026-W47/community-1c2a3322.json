@@ -1,0 +1,24 @@
+{
+  "id": "community-1c2a3322",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 G군2세의 기록보관소",
+  "url": "https://blog.naver.com/ham6870/224470966133",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/whs4E9iuRi",
+  "title": "불꽃야구 시즌 2 번외편 - 박용택 vs 이대호 간의 대국 과 잠실 더 라스트 이닝 예고",
+  "published_at": "2026-11-10T00:12:00.000+09:00",
+  "collected_at": "2026-11-09T21:38:39.111Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "news-67a3d7e5",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1maU44VjFfd0FqVW5qeVJVVHhxV0o3bTE1MGowMThieDZITGxtcUVvbW1kZDBCUnZ1bEczUnBVODl3U21yZTFCZmhtdWhsUEszaVBqbUV5QV84MWRybVZ6bVhQQ2ZhU0U2NjlmakdCc9IBb0FVX3lxTE1maU44VjFfd0FqVW5qeVJVVHhxV0o3bTE1MGowMThieDZITGxtcUVvbW1kZDBCUnZ1bEczUnBVODl3U21yZTFCZmhtdWhsUEszaVBqbUV5QV84MWRybVZ6bVhQQ2ZhU0U2NjlmakdCcw?oc=5",
+  "title": "\"한국시리즈 안 봐요\" 좌절했던 MVP, '이젠 적군과 동맹'... 김도영의 우승 꿈, APBC서 이룬다",
+  "published_at": "2026-11-09T15:21:00.000Z",
+  "collected_at": "2026-11-09T21:38:39.111Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE56aE0tblVGTFBaaFUxQWhPaGFoV2sybG53SXk0RTVtMWhidFFlUlFjWkFLa2JuRWFiSV9Dc056QnFuZElPYmxPZVlwYlU4Snh2czlYcDE1Z1AyRV9zRjBVOUswTHljQXQ0Y2hGcWJSc0hfT2t6aEE?oc=5"
+    }
+  ]
+}

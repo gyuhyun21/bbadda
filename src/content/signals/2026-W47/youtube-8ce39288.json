@@ -1,0 +1,26 @@
+{
+  "id": "youtube-8ce39288",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "볼쏭",
+  "url": "https://www.youtube.com/watch?v=CaVoiTxQXR0",
+  "title": "\"응원가는 좋았다\" 前 KIA 타이거즈 위즈덤 응원가",
+  "published_at": "2026-11-09T17:55:00Z",
+  "collected_at": "2026-11-09T21:38:39.111Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 7,
+    "likes": 1,
+    "comments": 2
+  },
+  "scores": {
+    "hot": 51,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

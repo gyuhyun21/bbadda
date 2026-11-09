@@ -1,0 +1,26 @@
+{
+  "id": "youtube-dc8d4402",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "영델리young",
+  "url": "https://www.youtube.com/watch?v=Tajp-cemRGY",
+  "title": "오토바이 안타송 🏍 #삼성라이온즈 #한국시리즈 #우승",
+  "published_at": "2026-11-09T12:28:29Z",
+  "collected_at": "2026-11-09T21:38:39.111Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1482,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 39,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

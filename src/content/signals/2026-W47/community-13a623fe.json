@@ -1,0 +1,24 @@
+{
+  "id": "community-13a623fe",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/10502893279",
+  "title": "한준수가 리그에서 주력 최하위임 - 야구",
+  "published_at": "2026-10-30T00:00:00.000Z",
+  "collected_at": "2026-11-09T21:38:39.111Z",
+  "summary_ko": "",
+  "excerpt": "... 해태~KIA 타이거즈 역대 포스트시즌 경기수(현재 통산 2위 시즌) [3]. 10.31 KS cyan 조회223 추천1.…",
+  "metrics": {},
+  "scores": {
+    "hot": 8,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

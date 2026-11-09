@@ -1,0 +1,23 @@
+{
+  "id": "news-93c43f61",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "더코리아",
+  "url": "https://www.thekorea.kr/bbs/board.php?bo_table=news&wr_id=569970",
+  "title": "기아타이거즈 올러, \"더 좋은 선수가 되기 위해 다시 열심히 준비할 시간\" > 뉴스",
+  "published_at": "2026-11-09T14:42:00.000Z",
+  "collected_at": "2026-11-09T21:38:39.111Z",
+  "summary_ko": "더코리아는 KIA 올러가 더 좋은 선수가 되기 위해 다시 열심히 준비할 시간이라고 말했다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 50
+  },
+  "sentiment": "neutral",
+  "brief_ko": "올러, 다시 준비할 시간"
+}

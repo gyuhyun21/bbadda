@@ -1,0 +1,24 @@
+{
+  "id": "community-e84f71dc",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 서노필의 <주경야독>: 주식, 경제, 야구, 독서 & 공부",
+  "url": "https://blog.naver.com/sunhofeel2/224471093855",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/7RCXGmj8ryi",
+  "title": "티빙 오리지널 <원수는 외야석에서> 후기: 야구장에서 소개팅을!(8부작 다 봤음)",
+  "published_at": "2026-11-10T05:22:00.000+09:00",
+  "collected_at": "2026-11-09T21:38:39.111Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

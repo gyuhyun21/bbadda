@@ -1,0 +1,23 @@
+{
+  "id": "news-0b72bf96",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "www.maniareport.com",
+  "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5iRi1nNGk3Z241Z0dPeXFVTTh5Nm04V3E2bE1vZ1RqbFR6ZmtRSUVPRzZrNV92RUxrOGFPSUlHaWdCc1JQalpCTkpmb2FFYVFDTzdNSTdMdGpjcmZTem5LWHJWZEZGMlpYXzNQNzlMTGFQVU9ET19xQTc2NA?oc=5",
+  "title": "'홈런왕' 김도영, APBC 결전지 도쿄로...”일본 투수도 똑같은 투수, 내 스윙 하겠다\"",
+  "published_at": "2026-11-09T10:50:00.000Z",
+  "collected_at": "2026-11-09T21:38:39.111Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

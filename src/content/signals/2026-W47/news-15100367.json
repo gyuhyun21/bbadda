@@ -1,0 +1,30 @@
+{
+  "id": "news-15100367",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9ZcjB5Sl9QYVBBM2RxSWN3TGV1M3owNDNqelVYVmJQNFRnSHhEbFcwcXNQVUw0NnR5RkY5cUpFSm9WeGxtX2trMndVR2E2TlQ0bnVXSFFnZmRTUEptQ09EWWdRM04wRW5vZUFzN0o3Qzh4elhhUEtsaXdJTjBCdw?oc=5",
+  "title": "MVP 구자욱, 삼성 마지막..? 절절한 자필 편지 → \"푸른 유니폼을 입고 맞이하는 마지막 기회일 수도..\"",
+  "published_at": "2026-11-09T16:57:27.000Z",
+  "collected_at": "2026-11-09T21:38:39.111Z",
+  "summary_ko": "스포츠조선은 한국시리즈 MVP 구자욱이 자필 편지를 남겼다고 전했다. 푸른 유니폼을 입고 맞이하는 마지막 기회일 수도 있다는 대목이 담겼다고 한다.",
+  "metrics": {},
+  "scores": {
+    "hot": 90,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWFFQSlBuQXp5RG56R3lZSXZ5QXNLOTc3UkVLZThLRS1tVXZYQ0VOS3VGemlBUmgtSGgybi11WVRNREZnd2dLSzA3SVVXZGVIVzJFTzlvYkM5UmQ4SFg3eGJQRzRqMUZQbFNoVlFCblB0RGIyY2xGYmJSRTh0YVlxMWNZcw?oc=5"
+    }
+  ],
+  "brief_ko": "구자욱, 자필 편지 공개",
+  "hook_ko": "우승 MVP 편지 '마지막 기회일 수도'"
+}

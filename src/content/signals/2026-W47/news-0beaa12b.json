@@ -1,0 +1,22 @@
+{
+  "id": "news-0beaa12b",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "중부일보",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9ZOWFVNkh5Z3hyZkFteFhxTDZZTTIteFRXcHJLRWNTUWxZalh1MFpQUEZKVURmVl9TWDlWX1lYRjFjeFhFNm5RdTVTdjgzMnNsbHo3b2pyelMtN0lGRUVkMkU2UG8zTGdOaDZyYXRhQQ?oc=5",
+  "title": "우승에 웃은 사자, 방진복 입은 수달… 삼성의 두 얼굴",
+  "published_at": "2026-11-09T10:18:00.000Z",
+  "collected_at": "2026-11-09T21:38:39.111Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "community-bdb502d8",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "lotte"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 스포츠 헌터의 핫이슈 브리핑",
+  "url": "https://blog.naver.com/tongtii/224471076071",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/2Z4m5ZyiN4c",
+  "title": "KIA 타이거즈 롯데 선수 친정 복귀! 오키나와 현장과 대표팀 비하인드까지 완벽 분석",
+  "published_at": "2026-11-10T04:25:00.000+09:00",
+  "collected_at": "2026-11-09T21:38:39.111Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

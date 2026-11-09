@@ -1,0 +1,26 @@
+{
+  "id": "youtube-d469f7ec",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "youtube",
+  "source_name": "sports응원 여행기",
+  "url": "https://www.youtube.com/watch?v=R2YIbj5fScU",
+  "title": "손성빈 선수 응원가@ 롯데자이언츠@ 윤서님@ 추억@2026",
+  "published_at": "2026-11-09T20:22:33Z",
+  "collected_at": "2026-11-09T21:38:39.111Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 4,
+    "likes": 2,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 49,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

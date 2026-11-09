@@ -1,0 +1,22 @@
+{
+  "id": "news-cf7a505d",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스투데이",
+  "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBmWnNzTVJwckFMZWpwd3FNTDRuXzZrOUt2NWhiTVBKRVl4TkxSdVo2LXliTFBncDBaQ3BtNjFHdEszOVZpamU4OXdYM2ZmOVhoM2xDVkJId3p1UG90WGc?oc=5",
+  "title": "[위기 딛고 쏜 ‘삼성'의 반격(上)] 야구와 HBM서 입증된 ‘재도약 방정식'",
+  "published_at": "2026-11-09T21:30:08.000Z",
+  "collected_at": "2026-11-09T21:38:39.111Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}
