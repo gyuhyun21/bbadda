@@ -1,0 +1,26 @@
+{
+  "id": "youtube-c99324ea",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "source_name": "아들둘딸하나",
+  "url": "https://www.youtube.com/watch?v=A8vvAJ0fy5Y",
+  "title": "초2 야구 실력 #한화이글스 #투수 #야구",
+  "published_at": "2026-11-09T11:39:28Z",
+  "collected_at": "2026-11-09T13:38:20.068Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 401,
+    "likes": 3,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 41,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

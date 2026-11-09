@@ -1,0 +1,26 @@
+{
+  "id": "youtube-f7297ed0",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "source_name": "체육하는 양쌤",
+  "url": "https://www.youtube.com/watch?v=q-RlHjOvWFk",
+  "title": "엄상백이 생각나는 직구 #한화이글스",
+  "published_at": "2026-11-09T12:01:07Z",
+  "collected_at": "2026-11-09T13:38:20.068Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 8289,
+    "likes": 208,
+    "comments": 10
+  },
+  "scores": {
+    "hot": 71,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

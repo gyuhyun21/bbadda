@@ -1,0 +1,23 @@
+{
+  "id": "news-ddcaa650",
+  "issue": "2026-W47",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "hanwha"
+  ],
+  "source_type": "news",
+  "source_name": "유성매거진",
+  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9YQ0M0UWxHMGlXUDZzZXRMSUNZdFg5SmVUM1RKX3RjdTlkNTVQTFp4MWVheF9YX1BRdkxfY2l1Q0o5bWRLMXM0Y0FWVmt0cndyUlhCVThad3dwQUppZ09mYUc1MUtVbU0?oc=5",
+  "title": "[프로야구 특집] '삼성'의 가을 축제, 그리고 '한화'는 대전에서 쓰라리게 마주한 '타산지석'",
+  "published_at": "2026-11-09T08:52:47.000Z",
+  "collected_at": "2026-11-09T13:38:20.068Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

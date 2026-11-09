@@ -1,0 +1,23 @@
+{
+  "id": "news-ce837d34",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "news",
+  "announcement": true,
+  "source_name": "스포츠조선",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA1ek4tTU04NU1ad09keU8yNWdxcThGOGNuaVYwSzllMlIteUFpdmNzY2lPN3JLSHZsVF9aelQwbERVUEtFTmlDOXJzdVhvX1htV0VXWXBINlVobEt3LUJxTmxjZGpnUEgtUHBFaHRjamQ4RWN5RVEyWW9LTGFVQQ?oc=5",
+  "title": "[오피셜]'타구에 얼굴 직격' 권동진 미세골절 → \"별도 수술 필요없다\" 소견…가슴 쓸어내린 KT",
+  "published_at": "2026-11-09T07:50:41.000Z",
+  "collected_at": "2026-11-09T13:38:20.068Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 80
+  },
+  "sentiment": "negative"
+}

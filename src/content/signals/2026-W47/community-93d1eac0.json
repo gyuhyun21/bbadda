@@ -1,0 +1,23 @@
+{
+  "id": "community-93d1eac0",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 스포츠히어 SportHere",
+  "url": "https://blog.naver.com/leodao03/224470807830",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/2pzmHeNdLSP",
+  "title": "[KIA 타이거즈] 첫 4안타가 전부 홈런이었던 아데를린, ERA 2.50이었던 브룩스, 두 선수가 도미니카에서...",
+  "published_at": "2026-11-09T21:35:00.000+09:00",
+  "collected_at": "2026-11-09T13:38:20.068Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "youtube-5de558cf",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha",
+    "lg",
+    "kt",
+    "lotte"
+  ],
+  "source_type": "youtube",
+  "source_name": "이글스 Spirit",
+  "url": "https://www.youtube.com/watch?v=xlqc7d_CnMs",
+  "title": "한화 트로이왓슨 영입 노린다! LG KT 롯데와 피말리는 경쟁 어떤 팀이 유력할까?",
+  "published_at": "2026-11-09T10:43:29Z",
+  "collected_at": "2026-11-09T13:38:20.068Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 3399,
+    "likes": 63,
+    "comments": 7
+  },
+  "scores": {
+    "hot": 61,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

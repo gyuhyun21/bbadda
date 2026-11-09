@@ -1,0 +1,23 @@
+{
+  "id": "news-ecbc65c6",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "일간스포츠",
+  "url": "http://isplus.joins.com/article/view/isp202611090212",
+  "title": "\"무조건 이긴다\" 주장 한동희와 투수 조장 최준용, 젊은 대표팀 이끄는 롯데 듀오 [IS 김포공항]",
+  "published_at": "2026-11-09T07:38:00.000Z",
+  "collected_at": "2026-11-09T13:38:20.068Z",
+  "summary_ko": "일간스포츠는 롯데의 주장 한동희와 투수 조장 최준용이 젊은 대표팀을 이끈다고 전했다. 한동희는 '무조건 이긴다'고 말했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "한동희·최준용, 대표팀 이끈다"
+}

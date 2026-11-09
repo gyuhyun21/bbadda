@@ -1,0 +1,24 @@
+{
+  "id": "community-b9142ad9",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/10537800686",
+  "title": "작년 김재환때도 - 야구",
+  "published_at": "2026-11-09T12:38:20.068Z",
+  "collected_at": "2026-11-09T13:38:20.068Z",
+  "summary_ko": "",
+  "excerpt": "... 작년 아침에 갑자기 김재환 계약 불발로 두산 나간다길래 뭔 개소리지 했는데 몇시간뒤 뉴스가 떴긴하지올해도…",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

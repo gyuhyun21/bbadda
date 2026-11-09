@@ -1,0 +1,23 @@
+{
+  "id": "news-443c0c46",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스핌",
+  "url": "https://www.newspim.com/news/view/20261109001348",
+  "title": "[MLB] 시카고 컵스 전문 매체, 한화 노시환 영입 후보 거론...몸값 2000만 달러",
+  "published_at": "2026-11-09T11:30:00.000Z",
+  "collected_at": "2026-11-09T13:38:20.068Z",
+  "summary_ko": "뉴스핌에 따르면 시카고 컵스 전문 매체가 한화 노시환을 영입 후보로 거론했다. 몸값은 2000만 달러로 제시됐다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "컵스 매체, 노시환 영입 후보로"
+}

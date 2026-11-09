@@ -1,0 +1,24 @@
+{
+  "id": "community-0b54867a",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&page=8&document_srl=10537578328",
+  "title": "댓글달지마라 - 야구",
+  "published_at": "2026-11-09T11:38:20.068Z",
+  "collected_at": "2026-11-09T13:38:20.068Z",
+  "summary_ko": "",
+  "excerpt": "... [레벨:30] 나성범의혜자FA 13 분 전. 사날 괴렘콘 1탄(이예이) · [레벨:34] 프나송하영 12 분 전.…",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

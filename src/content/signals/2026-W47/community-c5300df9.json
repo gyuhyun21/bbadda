@@ -1,0 +1,23 @@
+{
+  "id": "community-c5300df9",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt",
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 로아대디의 경제와 세상 이야기",
+  "url": "https://blog.naver.com/blueworld84/224470678386",
+  "title": "90승 KT도 무너졌다…삼성 라이온즈 우승을 만든 결정적 8득점",
+  "published_at": "2026-11-09T20:10:00.000+09:00",
+  "collected_at": "2026-11-09T13:38:20.068Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

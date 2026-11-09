@@ -1,0 +1,28 @@
+{
+  "id": "news-1371559d",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "마이데일리",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Xb250TzFtemxXQkQyTE1KbFh6dWFubVY5YVEzanZfMFlrNDRkdFppd2VuNGs1b3Y3aHZXczZ5U0pOMF9OUFItM0FFRmw3dFUxRC04QkEwaC1ER3ctT2MyTA?oc=5",
+  "title": "‘FA 빅2’ 원태인·구자욱, 삼성에 남는다는 빈말 안 했다…포수·중견수 연쇄이동? 100억→200억→300억 ‘쩐의 전쟁 스타트’[MD대구]",
+  "published_at": "2026-11-08T21:10:00.000Z",
+  "collected_at": "2026-11-09T13:38:20.068Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 70,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "네이트",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE95Y0JLT2V5TXhBNjhBcWgwRTFkZWktTzNQTW1UZ1lRaTM0SnE5VjlWQVRJQm9iTlM0UnZIMmZvUEE1czlaaHg1SUhCYUFZX0NCU2g1OHZ3?oc=5"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-91b580b4",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "미주중앙일보",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5WVnBmR01QOUNPVzJfejc1Mm9yc1c2b2Qwb3JSMUd2TnJVRkRTcEM5bFRndXY5X1pYemlNbzdOVXAzZTRVU0tDM1N3UjJMVWdyamZlZm9jV3VkZzJrX2pmUDRR?oc=5",
+  "title": "통산 타율 3할1푼 김도영이 ML 가면 2할도 못친다고? 美매체 평가 최하점 “파워·스피드는 최상급, 컨택은 의문”",
+  "published_at": "2026-11-09T11:40:00.000Z",
+  "collected_at": "2026-11-09T13:38:20.068Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

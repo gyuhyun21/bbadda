@@ -1,0 +1,23 @@
+{
+  "id": "news-fd55e3e3",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "네이트뷰",
+  "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5LTmdWeFV1Y1Q3aHU5TU5CM0dIRW1yUnlqNXFiZHB1VDNyTmtKRW9Wc0htYXJHdHlyUnpmYUszRjY1OFZxUWJYNUJibUlSb0nSAVRBVV95cUxQSUdBSW91a1g4UlBpYjM2dFpIUC02dVl6UzlZaGw5a08ydTNBaVlSRWtyX2duNnZWNVMxTHJnY3NMSlQ5UHpSNmk4VnVPUFY1ZFJXZWo?oc=5",
+  "title": "한국에 온 야구선수 장인, 장모님이 계속 눈물을 흘리셨던 이유.jpg",
+  "published_at": "2026-11-09T07:00:00.000Z",
+  "collected_at": "2026-11-09T13:38:20.068Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

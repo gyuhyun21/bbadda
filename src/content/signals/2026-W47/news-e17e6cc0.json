@@ -1,0 +1,23 @@
+{
+  "id": "news-e17e6cc0",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "경향신문",
+  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9rM1NicXNFSTlhNVdYdkpOYjZQRWg5U1M4Sk9zUkJQT2hQeVRCaGNkZjdsa3hCMlRUYlJaVG96NmVzRUxiX2JOWlQ0NWI5YnV1cVJoRmRoakdZd9IBX0FVX3lxTE9naGlJYjBrRlZmWEJjRmZVRU5wM0VNZnJNVHhIbTBlWlkzVEduUDNkcHNUOGQ4X2hlXzN0YnFQWXd6bkwxZ0trNHp4cE1OUk9nRUt6SU1yNWt6QzlYdEp3?oc=5",
+  "title": "우승 쐈다, 주장 구자욱의 ‘총격전’",
+  "published_at": "2026-11-09T11:26:00.000Z",
+  "collected_at": "2026-11-09T13:38:20.068Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

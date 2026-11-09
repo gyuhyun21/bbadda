@@ -1,0 +1,28 @@
+{
+  "id": "news-54a1e497",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5KRU1yOXZCVW5sNVpNSjduNjYtZUMxZUd4WkNxTGlnal9jMm1nM0hKMDQxRzRQYUxVU0JneVhGWkNFM1M5ak1IUnNwOHAyV2s3R0NfVk1CbUNwS05LeGhzTHk4RVgxc1hzVDhhbzA0LVROMU9mX0I0SDRIVDRJdw?oc=5",
+  "title": "\"자괴감이 든다\" 울음 터뜨린 안현민, 침울했던 박영현…'무기력한 패배' KT 라커룸엔 침묵만 흘렀다 [KS5 현장]",
+  "published_at": "2026-11-09T11:00:02.000Z",
+  "collected_at": "2026-11-09T13:38:20.068Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 83,
+    "relevance": 70
+  },
+  "sentiment": "negative",
+  "also_in": [
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdW9iT3hDZjlZdVV6M0o4aE1icnZGTE8xdEY5UmR3TkdOZnJBSFBFUkRXRENHNktyNXZSMzFrMjhMSkhrYmtZWmVVQkItOTFVcGFIMEV0em1LZDlvRGFtYmpYYUFFUkJyVzF2MEppNDE0UkE5VVlDZXRpaURKOEFXdXgwQQ?oc=5"
+    }
+  ]
+}
