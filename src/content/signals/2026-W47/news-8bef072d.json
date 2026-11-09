@@ -1,0 +1,23 @@
+{
+  "id": "news-8bef072d",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠경향",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE42MFY0eWM5Q3ZlMTN0aks2MnZ2b21YOTk0ZlhPRzdTcm5tM05Ddk5NWTZmQnBGM0h3c2xYb3dkS1JBSm5ySWdNYWlBbktDaENaVVZJU3NqaG1hWDNzUjYzYkVkMNIBY0FVX3lxTE42MFY0eWM5Q3ZlMTN0aks2MnZ2b21YOTk0ZlhPRzdTcm5tM05Ddk5NWTZmQnBGM0h3c2xYb3dkS1JBSm5ySWdNYWlBbktDaENaVVZJU3NqaG1hWDNzUjYzYkVkMA?oc=5",
+  "title": "[스경X미야자키]훈련장 뒤집은 류지현 감독의 한 마디 “지현이 여깄습니다!”",
+  "published_at": "2026-11-08T23:52:00.000Z",
+  "collected_at": "2026-11-09T07:37:48.748Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

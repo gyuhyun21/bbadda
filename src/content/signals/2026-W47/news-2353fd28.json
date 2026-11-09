@@ -1,0 +1,26 @@
+{
+  "id": "news-2353fd28",
+  "issue": "2026-W47",
+  "module": "rivalry",
+  "team": "lg",
+  "teams": [
+    "lg",
+    "hanwha",
+    "ssg",
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "연합뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBjRmt4TEhRM3hZWE1qNTYwWG5ZLVNWVWhrYUhXbnZYOFh5d0hLanF6WmpHM0ZHN0s2ZldTSUU0SWI3UmYyY1BITG5JZlB0ZXBYdDBHbmhvUVlBYTROR3VqZdIBYEFVX3lxTFBjRmt4TEhRM3hZWE1qNTYwWG5ZLVNWVWhrYUhXbnZYOFh5d0hLanF6WmpHM0ZHN0s2ZldTSUU0SWI3UmYyY1BITG5JZlB0ZXBYdDBHbmhvUVlBYTROR3VqZQ?oc=5",
+  "title": "[프로야구결산] ④APBC로 9개월 대장정 마감…차기 대표팀 사령탑은(끝)",
+  "published_at": "2026-11-09T01:00:09.000Z",
+  "collected_at": "2026-11-09T07:37:48.748Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 90,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

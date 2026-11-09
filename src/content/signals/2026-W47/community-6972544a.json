@@ -1,0 +1,23 @@
+{
+  "id": "community-6972544a",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 야구한판",
+  "url": "https://blog.naver.com/qicess/224469931223",
+  "title": "국내에서는 주축 외야수, 미국에서는 백업 유망주…박재현을 향한 평가",
+  "published_at": "2026-11-09T10:00:00.000+09:00",
+  "collected_at": "2026-11-09T07:37:48.748Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

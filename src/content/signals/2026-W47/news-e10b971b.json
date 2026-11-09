@@ -1,0 +1,29 @@
+{
+  "id": "news-e10b971b",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "미주중앙일보",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9VNmVMN1Roc2xIeTJsQmhhM3ZHVWNLc3JNWGdqM05QZWgwVkJ0VEUzX19BcXVITUN2VjZnWURTaHNSYS1NMHhSeF91WjVUMmhyTkxoMWI4amhRQWhXaHZKRHF3?oc=5",
+  "title": "1-12 대패에 등판조차 못한 최강 마무리, 벌써 준우승만 2번 “오늘은 정말 분해, 다음 우승 위해 묵묵히 막겠다”",
+  "published_at": "2026-11-09T05:40:00.000Z",
+  "collected_at": "2026-11-09T07:37:48.748Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 83,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORl9ZaUs4bWdPQVVFbnh3U1dGRUZyY0xldERmTUZJWWoxOU9SWkRxamQ5YVVvRE10Nm1VVXA5OWFDaXd5VE5MWmVFaDVPck5mNVE4TTlZRGxsVk8tWElRNHhEcVYwT0FVcUJraXQ2QXR1VGxNeUFVUUFEbV9wOFZwSHNFNA?oc=5"
+    }
+  ]
+}

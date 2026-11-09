@@ -1,0 +1,22 @@
+{
+  "id": "news-900c5733",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스1",
+  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1USFhvY2x5SlF5VGZRaUN5UEZ0TVZydDQtb2dFcHZ2RlBKbE5Tbk14M25sSHB5a1k3cjVocHhvVGlBYU5IUU0zczlUdERhN3YtWHZHOEVaOA?oc=5",
+  "title": "예견된 삼성 우승?…월드컵 개최 시즌, 대구·인천 연고팀만 정상",
+  "published_at": "2026-11-09T02:04:50.000Z",
+  "collected_at": "2026-11-09T07:37:48.748Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

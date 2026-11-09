@@ -1,0 +1,20 @@
+{
+  "id": "news-4e7ff051",
+  "issue": "2026-W47",
+  "module": "league",
+  "teams": [],
+  "source_type": "news",
+  "source_name": "MHN스포츠",
+  "url": "https://mhnse.com/news/articleView.html?idxno=1689179",
+  "title": "‘5개팀 주전포수 나이 194세’…안방의 고령화, 선수 문제일까 리그 수준인가",
+  "published_at": "2026-11-09T01:11:33.000Z",
+  "collected_at": "2026-11-09T07:37:48.748Z",
+  "summary_ko": "MHN스포츠는 5개 팀 주전 포수 나이를 합치면 194세라며 안방 고령화를 짚었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 30
+  },
+  "sentiment": "neutral",
+  "brief_ko": "주전 포수 고령화 진단"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "news-39377103",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "일간스포츠",
+  "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1lcnh0ZWIxVzhyOUxwRDNWN0ppSUFFa1VlbE1wSzR4Nk81bTN6bjNRcGNXSlNNNlBoSHdyUnJLbUJidmwzNG45NzFkNjdZNmc3aHF5UWlNcFJFVjQ?oc=5",
+  "title": "\"젊은 내야수 기본기 다진다\" KIA, NPB 골든글러브 출신+WBC 코치 인스트럭터 초빙",
+  "published_at": "2026-11-09T04:22:00.000Z",
+  "collected_at": "2026-11-09T07:37:48.748Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 83,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0zT0haZnhEa3pyS2ZCeVBhMnlUQXNiLUZtX3JtSzN4VXkxanZPYkFub29nVGladTVJV2k5Ujc1SnJkUmN5eW9oRDE4TDVLM2VNTS1rWjJCWUtMMGt5NERyczNhVzlBcDhvWjZVVGdVZVZFX05kZHVnbdIBeEFVX3lxTE0zT0haZnhEa3pyS2ZCeVBhMnlUQXNiLUZtX3JtSzN4VXkxanZPYkFub29nVGladTVJV2k5Ujc1SnJkUmN5eW9oRDE4TDVLM2VNTS1rWjJCWUtMMGt5NERyczNhVzlBcDhvWjZVVGdVZVZFX05kZHVnbQ?oc=5"
+    }
+  ]
+}

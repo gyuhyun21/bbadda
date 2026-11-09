@@ -1,0 +1,24 @@
+{
+  "id": "news-2dd23daa",
+  "issue": "2026-W47",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "뉴시안",
+  "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1BYWhqQWF4eENtMXhaVW95dE5wTkF3UzA5b2VGeHpHNGFFczVONmJXSFdxZ0w3RnQ0S2dYV25pUWREUi1zeG1qZU5PWmlKcGVuVXlUOG9sRGk4U2RKckpZUlVrcENkQmZCb0hWRw?oc=5",
+  "title": "1년 중 가장 슬픈 날은 ”야구 시즌이 끝나는 날”",
+  "published_at": "2026-11-09T00:21:26.000Z",
+  "collected_at": "2026-11-09T07:37:48.748Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 73,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

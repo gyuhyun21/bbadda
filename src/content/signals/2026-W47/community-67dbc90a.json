@@ -1,0 +1,24 @@
+{
+  "id": "community-67dbc90a",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 CJ 경제파파",
+  "url": "https://blog.naver.com/soosoo0501/224469796373",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/1R4Xa2OrDwJ",
+  "title": "박영현 연봉, 공 하나에 얼마일까?",
+  "published_at": "2026-11-09T15:20:00.000+09:00",
+  "collected_at": "2026-11-09T07:37:48.748Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

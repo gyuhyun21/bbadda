@@ -1,0 +1,26 @@
+{
+  "id": "youtube-7cc5f2a6",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "source_name": "석대와덕배",
+  "url": "https://www.youtube.com/watch?v=P9n8rZmNx4k",
+  "title": "안정형 야구팬 불안형 야구팬 #야구 #한화이글스",
+  "published_at": "2026-11-09T06:03:48Z",
+  "collected_at": "2026-11-09T07:37:48.748Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 840,
+    "likes": 1,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 36,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

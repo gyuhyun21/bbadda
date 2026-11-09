@@ -1,0 +1,25 @@
+{
+  "id": "youtube-9787feb6",
+  "issue": "2026-W47",
+  "module": "league",
+  "teams": [],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=Mlyj5zCcbnI",
+  "title": "「APBC 제2장」 오늘의 아쉬움이, 내일의 발전으로 | 2026 APBC 훈련 스케치",
+  "published_at": "2026-11-08T22:56:13Z",
+  "collected_at": "2026-11-09T07:37:48.748Z",
+  "summary_ko": "KBO 공식 채널이 2026 APBC 대표팀 훈련 스케치 영상을 올렸다.",
+  "metrics": {
+    "views": 111475,
+    "likes": 1208,
+    "comments": 125
+  },
+  "scores": {
+    "hot": 70,
+    "relevance": 30
+  },
+  "sentiment": "neutral",
+  "brief_ko": "APBC 대표팀 훈련 스케치"
+}

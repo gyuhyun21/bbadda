@@ -1,0 +1,28 @@
+{
+  "id": "news-00f20747",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9IVGgwSVVLclB1TFNMU3dVQTIyWU9WckY2YWhYcFdIeGwwcTJEV3FGZnpFNjFOV0dLVVppOWREdzRsTm81NGRlRUJCa01saWU1Mm8ySVhIUGJaVmlGbVFQU2s2Z2JPbl91OEJkUEw0NNIBb0FVX3lxTE9IVGgwSVVLclB1TFNMU3dVQTIyWU9WckY2YWhYcFdIeGwwcTJEV3FGZnpFNjFOV0dLVVppOWREdzRsTm81NGRlRUJCa01saWU1Mm8ySVhIUGJaVmlGbVFQU2s2Z2JPbl91OEJkUEw0NA?oc=5",
+  "title": "젊은 사자들 새 역사 썼다, 삼성 '아픔의 KS'는 옛말→업셋 우승이라니",
+  "published_at": "2026-11-09T01:57:31.000Z",
+  "collected_at": "2026-11-09T07:37:48.748Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 90,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBBVDJDSXZLb0ZvT01xdVR4a0RTY1RrdFJucW9uczJOV1pENmdPRkZFQ0ktUGJ3NEhUOFZjLU1yQXFJS2hxb0NBQ0NrSGNqalIwR0hnWXpDSUgzbExfNHZVdGpld2lHaXRQdzhRZjFRbjJxa0NOU3c?oc=5"
+    }
+  ]
+}

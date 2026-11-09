@@ -1,0 +1,25 @@
+{
+  "id": "youtube-7a8d095c",
+  "issue": "2026-W47",
+  "module": "league",
+  "teams": [],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=yzfZU6Kmj_4",
+  "title": "잘 치는 타자들은 스트라이크 존을 어떻게 공략할까🤔❓ | 크보 레전드 레슨",
+  "published_at": "2026-11-09T01:02:29Z",
+  "collected_at": "2026-11-09T07:37:48.748Z",
+  "summary_ko": "KBO 공식 채널이 잘 치는 타자들의 스트라이크존 공략법을 다룬 크보 레전드 레슨 영상을 올렸다.",
+  "metrics": {
+    "views": 1945,
+    "likes": 16,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 46,
+    "relevance": 30
+  },
+  "sentiment": "neutral",
+  "brief_ko": "타자의 존 공략법 레슨"
+}

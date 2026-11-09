@@ -1,0 +1,24 @@
+{
+  "id": "news-ba4cc97e",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "SPOTV NEWS",
+  "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1018519",
+  "title": "메이저리그가 괜히 탐냈겠나…1R 특급유망주 드디어 캠프 합류! \"내년, 확실히 보여드리겠습니다\"",
+  "published_at": "2026-11-08T22:20:00.000Z",
+  "collected_at": "2026-11-09T07:37:48.748Z",
+  "summary_ko": "SPOTV NEWS는 두산 1라운드 유망주가 마무리 캠프에 합류했다고 전했다. 선수는 내년에 확실히 보여드리겠다는 각오를 밝혔다.",
+  "metrics": {},
+  "scores": {
+    "hot": 81,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "1R 유망주, 마무리캠프 합류"
+}

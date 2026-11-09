@@ -1,0 +1,23 @@
+{
+  "id": "community-e68dcf82",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 Beyond the Diamond",
+  "url": "https://idontknow-00.tistory.com/12",
+  "title": "승리의 가격은 언제나 공평하지 않다",
+  "published_at": "2026-11-09T10:09:18.000+09:00",
+  "collected_at": "2026-11-09T07:37:48.748Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

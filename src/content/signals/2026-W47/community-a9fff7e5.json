@@ -1,0 +1,24 @@
+{
+  "id": "community-a9fff7e5",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&page=5&document_srl=10535106647",
+  "title": "라떼동맹의 품격 ㄷㄷㄷ - 야구",
+  "published_at": "2026-11-09T00:37:48.748Z",
+  "collected_at": "2026-11-09T07:37:48.748Z",
+  "summary_ko": "",
+  "excerpt": "... kt; 3. 와이스 +1; 4. 기아 -1; 5. 권동진; 6. 롯데; 7. 한화; 8.…",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

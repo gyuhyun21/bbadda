@@ -1,0 +1,24 @@
+{
+  "id": "news-e9fb8722",
+  "issue": "2026-W47",
+  "module": "rivalry",
+  "team": "lotte",
+  "teams": [
+    "lotte",
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "연합뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1PVTk1OFphbWNDYjBGeHF4RXdBUTg5Y1JTdkc5S2RhcXVJblJueUhjRjl6c2s3ZUEzSXNUWndDaHVHeVVPbUZaUmJtMUd1TzJpVUY5RVIyekxaVDlRQ2xENNIBYEFVX3lxTE1PVTk1OFphbWNDYjBGeHF4RXdBUTg5Y1JTdkc5S2RhcXVJblJueUhjRjl6c2s3ZUEzSXNUWndDaHVHeVVPbUZaUmJtMUd1TzJpVUY5RVIyekxaVDlRQ2xENA?oc=5",
+  "title": "[프로야구결산] ②2026년 빛낸 얼굴…레이예스 최다 안타와 김도영 최연소 기록",
+  "published_at": "2026-11-09T01:00:03.000Z",
+  "collected_at": "2026-11-09T07:37:48.748Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 82,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

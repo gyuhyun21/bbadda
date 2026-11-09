@@ -1,0 +1,26 @@
+{
+  "id": "youtube-cfeccf5e",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "youtube",
+  "source_name": "OBS TV",
+  "url": "https://www.youtube.com/watch?v=FPTbBVo1sd8",
+  "title": "한국 프로야구의 미래 신인 드래프트의 순간들 #드래프트 #신인 #쇼츠 #불타는그라운드 #야구 #sk와이번스 #ssg랜더스 #야구선수 #kbo #프로야구",
+  "published_at": "2026-11-09T03:00:13Z",
+  "collected_at": "2026-11-09T07:37:48.748Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1221,
+    "likes": 3,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 39,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

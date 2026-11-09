@@ -1,0 +1,23 @@
+{
+  "id": "news-4f51eddf",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "매일신문",
+  "url": "https://www.imaeil.com/page/view/2026110814400936768",
+  "title": "[삼성 2026시즌 결산] (하) 삼성 라이온즈, 2연패 달성 위한 과제",
+  "published_at": "2026-11-09T05:50:26.000Z",
+  "collected_at": "2026-11-09T07:37:48.748Z",
+  "summary_ko": "매일신문은 삼성 2026시즌 결산 하편에서 2연패 달성을 위한 과제를 짚었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 83,
+    "relevance": 70
+  },
+  "sentiment": "negative",
+  "brief_ko": "2연패 위한 과제는"
+}

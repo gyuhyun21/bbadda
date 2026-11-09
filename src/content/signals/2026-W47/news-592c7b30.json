@@ -1,0 +1,24 @@
+{
+  "id": "news-592c7b30",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://www.mt.co.kr/amp/sports/2026/11/09/202611091436776024O",
+  "title": "\"뒤처지면 바로 도태된다\" 17승→26SV 아무나 하나…이영하, 8년 만에 마무리 캠프 참가한 이유 [오!쎈 미야자키]",
+  "published_at": "2026-11-09T06:10:00.000Z",
+  "collected_at": "2026-11-09T07:37:48.748Z",
+  "summary_ko": "머니투데이는 두산 이영하가 8년 만에 마무리 캠프에 참가했다고 전했다. 17승 투수에서 26세이브 마무리로 달라진 이유를 다뤘다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "이영하, 8년 만에 마무리캠프"
+}

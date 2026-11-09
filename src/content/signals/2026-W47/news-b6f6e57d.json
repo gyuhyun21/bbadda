@@ -1,0 +1,22 @@
+{
+  "id": "news-b6f6e57d",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "연합뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE15MDZjc3RkRFZkMDBkbnA4RnRQSDRzVDY0MXVmc3UwUDRDUFFraTRLVzBvY3JWNElic3RfZkFxRU1SbkgzMFhDNm9oQmViNXlDNjFYRkJrWUxrdElzUGZNWdIBYEFVX3lxTE15MDZjc3RkRFZkMDBkbnA4RnRQSDRzVDY0MXVmc3UwUDRDUFFraTRLVzBvY3JWNElic3RfZkFxRU1SbkgzMFhDNm9oQmViNXlDNjFYRkJrWUxrdElzUGZNWQ?oc=5",
+  "title": "박진만 삼성 감독, 역대 한국시리즈 제패한 21번째 사령탑",
+  "published_at": "2026-11-09T04:49:02.000Z",
+  "collected_at": "2026-11-09T07:37:48.748Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 99,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

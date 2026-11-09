@@ -1,0 +1,23 @@
+{
+  "id": "news-47ea6f8f",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "SPOTV NEWS",
+  "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1018742",
+  "title": "대만 교류전 156km 쾅! 이동욱 감독 한마디에 롯데 계획 바꿨다, 전미르 12일 日 마무리캠프 전격 합류",
+  "published_at": "2026-11-09T01:40:00.000Z",
+  "collected_at": "2026-11-09T07:37:48.748Z",
+  "summary_ko": "SPOTV NEWS는 롯데 전미르가 대만 교류전에서 156km를 던져 12일 일본 마무리캠프에 합류한다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "전미르, 12일 日 캠프 합류"
+}

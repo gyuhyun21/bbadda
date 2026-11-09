@@ -1,0 +1,26 @@
+{
+  "id": "youtube-ec666309",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "youtube",
+  "source_name": "인생실록",
+  "url": "https://www.youtube.com/watch?v=fyiIyiSYkOc",
+  "title": "엄마 없는 결혼식 #유희관 #두산베어스 #느림의미학",
+  "published_at": "2026-11-09T06:02:29Z",
+  "collected_at": "2026-11-09T07:37:48.748Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 290,
+    "likes": 2,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 35,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

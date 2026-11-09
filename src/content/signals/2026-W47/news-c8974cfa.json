@@ -1,0 +1,22 @@
+{
+  "id": "news-c8974cfa",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "news",
+  "source_name": "위키트리",
+  "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE53RWt3QkZKRGNSRjBQQ1hpelVtRVBoNWFWOHVVbXNkc0hlTWxRdFNjZi0xNDNqVjkxYlB6OUlvMy1ZSVNPWnladFZUdmIwNENsbmZGa3h3?oc=5",
+  "title": "눈에 강속 타구 맞고 응급실 실려간 KT 권동진, '현재 상태' 알려졌다",
+  "published_at": "2026-11-09T00:49:00.000Z",
+  "collected_at": "2026-11-09T07:37:48.748Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

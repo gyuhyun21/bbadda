@@ -1,0 +1,26 @@
+{
+  "id": "youtube-d4fa6f73",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "youtube",
+  "source_name": "엘냠씨",
+  "url": "https://www.youtube.com/watch?v=ns2HZ95k6T8",
+  "title": "감동냠 탄생 #엘지 #엘지트윈스 #LG #LG트윈스 #KBO #야구 #야구팬 #크보 #프로야구 #야구리뷰 #야구분석 #불타는야구팬 #불팬 #엘냠씨",
+  "published_at": "2026-11-09T05:00:19Z",
+  "collected_at": "2026-11-09T07:37:48.748Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 795,
+    "likes": 11,
+    "comments": 2
+  },
+  "scores": {
+    "hot": 48,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

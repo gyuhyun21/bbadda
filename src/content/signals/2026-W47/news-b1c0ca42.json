@@ -1,0 +1,22 @@
+{
+  "id": "news-b1c0ca42",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스핌",
+  "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5lRFgtMmJYeU5BdVpvWFdVNmVnOXFTQ21wcFVCWWRLbE5ITy1rTXlaNkFwUldfOXZrNHcwU2U1dEFvZ1NJQkc3SlhpeDZJMzdBbVdlMGctay1mZ1Jf?oc=5",
+  "title": "[KS 포커스] '90승' KT, KS에서 업셋 희생양...빛과 그림자 남긴 2026년",
+  "published_at": "2026-11-09T04:00:00.000Z",
+  "collected_at": "2026-11-09T07:37:48.748Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

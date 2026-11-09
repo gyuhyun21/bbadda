@@ -1,0 +1,24 @@
+{
+  "id": "news-6bd5b609",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠경향",
+  "url": "https://sports.khan.co.kr/article/202611091610003",
+  "title": "[KS] “PO 3연패, KS 4연패 전망 뒤집을 수 있었던 건 우리 팬 덕분” 이종열 단장도 인정, 리그 최다...",
+  "published_at": "2026-11-09T07:10:00.000Z",
+  "collected_at": "2026-11-09T07:37:48.748Z",
+  "summary_ko": "스포츠경향은 삼성 이종열 단장이 PO 3연패·KS 4연패 전망을 뒤집을 수 있었던 건 팬 덕분이라고 말했다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "negative",
+  "brief_ko": "이종열 단장, \"우승은 팬 덕분\""
+}

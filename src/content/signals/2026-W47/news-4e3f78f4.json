@@ -1,0 +1,28 @@
+{
+  "id": "news-4e3f78f4",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1PVG1iUXBkLUxWLXIyN2RrOWdmTl9yS3dQa3pqRktYaDJDRXUxOGFRRzJMYnh6dm5sNEk5UWNWSjBVME1uUHVlQ2hNdnNHTF93Wm91ZlRJOGI1U1RVa2l4ajRUVHVlZFVhVjBmUEc1R1p4Y0VxcDBZYmRUM1pSZw?oc=5",
+  "title": "미칠 선수가 없다! '창단 첫 90승' 역대 최강 KT였는데…왜 가을에 이리도 힘없이 무너졌나 [KS결산]",
+  "published_at": "2026-11-08T22:00:00.000Z",
+  "collected_at": "2026-11-09T07:37:48.748Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 81,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUmduV2hiSkd2X25saDNqc3BfMHRFYlg3a2ZlTkxNTjlwa2VqdFZpUkRaeXVGSUR3V0RYYTlQS01GcW1YTEd4YnA2T0FDSTRnQ085NUJnaUROQTBXVF8tYjR0ckd4YXFJUUxIckdLY3JGMk5sUDlCNWZZTEFBSDNWRHdDSQ?oc=5"
+    }
+  ]
+}

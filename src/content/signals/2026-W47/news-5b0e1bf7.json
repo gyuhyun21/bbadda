@@ -1,0 +1,23 @@
+{
+  "id": "news-5b0e1bf7",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "조선일보",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVFhnbFRpSnd5eDRNMl9EMmN5R0FQUzNlZDlYWkdOWTRlVEhXQ1IzNXJQM2pzVjdKdE5HZTJCdVpQRDVQWkVCbk9nUks2QUhHakp5NVVVRGNOUmIyOXBoQ28zRzk3dkQwaUZlUmNuQU9ORWFPbS1tS0hXRXk3ZXVfWU5qVQ?oc=5",
+  "title": "'재능의 짐승'인 줄 알았는데 준비된 지도자였다...호부지 요청에 고심하더니, 단장 앞에서 1시간 PT까지 펼쳤다 [오!쎈 오키나와]",
+  "published_at": "2026-11-09T06:39:00.000Z",
+  "collected_at": "2026-11-09T07:37:48.748Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-8573d947",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠월드",
+  "url": "https://www.sportsworldi.com/newsView/20261109502945",
+  "title": "지구 반대편서 만난 또 하나의 가족… 힐리어드 “KT는 내 야구 인생 최고의 팀”",
+  "published_at": "2026-11-09T04:00:00.000Z",
+  "collected_at": "2026-11-09T07:37:48.748Z",
+  "summary_ko": "스포츠월드는 힐리어드가 KT를 야구 인생 최고의 팀이라고 말했다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "힐리어드, 'KT는 최고의 팀'"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "community-639c80ba",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 Beyond the Diamond",
+  "url": "https://idontknow-00.tistory.com/4",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/4i5RKLsLPMw",
+  "title": "장찬희, 무표정한 열아홉의 마운드",
+  "published_at": "2026-11-09T09:12:32.000+09:00",
+  "collected_at": "2026-11-09T07:37:48.748Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "youtube-16ece069",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "youtube",
+  "source_name": "야구라",
+  "url": "https://www.youtube.com/watch?v=ZoLQB2VqLkY",
+  "title": "우승 보너스, LG는 롤렉스 삼성은? | 구자욱 MVP 보너스, 갤럭시 워치? 삼성전자 주식? #shorts",
+  "published_at": "2026-11-09T05:00:06Z",
+  "collected_at": "2026-11-09T07:37:48.748Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1343,
+    "likes": 24,
+    "comments": 5
+  },
+  "scores": {
+    "hot": 54,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "데일리안",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOX1hBUFlDRVpQbTY1dlJkZFJLNkdVLXJmT0ZnWXZhd0ZEaTNDMkxaN3hOWkZ5Z1l0RXRISDNrTU51akNSREdWdEtpbkh2QTl3SGQ3bThyMDV4dkkxUDM5MkxJWk5QMVRtNUdPX3VXaFBBTjhkMDVBdURLUHB3R2ZkNlQ2VGRneXdiVjdYMTViZDJKRzR1U0N0U2c1VGdVQjQ4WS1NbXhmN3Q1RnctMlVWNHBaQ2VHM3hrRmYwbmZXclk5NV9XWm5GcnJJMDBNMFdhN1JHRzNPOGwxSWdncmFfRkxEVTVmUk1tM2FUWDQ1RnkyaTFqNkp2Zk43SkxuY3ZqRE9tYnY3R2JOS0lF?oc=5"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "news-50b3936e",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5VMmUzWnBhZXJub3NvOUhKQU5SSF9CaVpLOXBNRGoxTHhLV3Jtd2MyNjVvRFBXMGJqV1o0RktWS084X3BIOFNIckthV0lvMkgtYTd6NGhqek12X29LMDN3U182ZENBQ3VTMEtXZU9mQ042NE5YajlvU0Vpd0UwZw?oc=5",
+  "title": "\"삼성 우승확률 10% 미만이라더니\"…임창용 예측, 다 틀렸다 \"선수들, 어떻게 체력고갈이 안보이나?\"",
+  "published_at": "2026-11-09T02:30:54.000Z",
+  "collected_at": "2026-11-09T07:37:48.748Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

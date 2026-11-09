@@ -1,0 +1,26 @@
+{
+  "id": "youtube-66229715",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "youtube",
+  "source_name": "KBO 역대급랭킹",
+  "url": "https://www.youtube.com/watch?v=SjgO-9EW5p8",
+  "title": "[KBO 레전드 그날] 창단 첫 우승… NC 2020 한국시리즈 TOP4 ⚾ #shorts",
+  "published_at": "2026-11-09T05:27:28Z",
+  "collected_at": "2026-11-09T07:37:48.748Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 510,
+    "likes": 3,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 37,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

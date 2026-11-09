@@ -1,0 +1,23 @@
+{
+  "id": "community-929bff4c",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 Beyond the Diamond",
+  "url": "https://idontknow-00.tistory.com/10",
+  "title": "불펜투수의 팔은 누구의 것인가",
+  "published_at": "2026-11-09T09:58:50.000+09:00",
+  "collected_at": "2026-11-09T07:37:48.748Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

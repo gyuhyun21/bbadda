@@ -1,0 +1,22 @@
+{
+  "id": "news-7a79cbbb",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "조선일보",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSldrV2NCWHpUNzFCc1dUWTBXSEJSSksxRExHZTZoWDZXQkxjUUpSa3hmYl9lODA2T2EwdnpPY290VUJ1dEtjclR3RkVLSGlqOVZnd0xodHJMZkJNeDRGZWotMjRtc2NqMlF6dlh0NVBZdzdnSVJBOV9BcnM4ZV9yUE5rdw?oc=5",
+  "title": "'대반전 우승' 삼성...1차전 졌지만 이겼다, 말도 안되는 논리에 숨은 비밀",
+  "published_at": "2026-11-09T00:31:00.000Z",
+  "collected_at": "2026-11-09T07:37:48.748Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 73,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "news-80dca7c8",
+  "issue": "2026-W47",
+  "module": "rivalry",
+  "team": "lotte",
+  "teams": [
+    "lotte",
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "연합뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9oUTQ3NFpqdTU3My0zUXBaNUhWUS1DM0ZuNXpVZmQ3cldhQ0tMVXBSdXhUZ1g5SnUxeUZtYXhyMlVYSEZtUHJKU2t3YlJ6QWNqSmpieHhPSGJSdUpaMk5IVNIBYEFVX3lxTE9oUTQ3NFpqdTU3My0zUXBaNUhWUS1DM0ZuNXpVZmQ3cldhQ0tMVXBSdXhUZ1g5SnUxeUZtYXhyMlVYSEZtUHJKU2t3YlJ6QWNqSmpieHhPSGJSdUpaMk5IVA?oc=5",
+  "title": "[프로야구결산] ③이젠 스토브리그…'KS 영웅' 구자욱·원태인 어디로",
+  "published_at": "2026-11-09T01:00:06.000Z",
+  "collected_at": "2026-11-09T07:37:48.748Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 82,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

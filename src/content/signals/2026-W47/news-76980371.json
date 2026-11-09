@@ -1,0 +1,29 @@
+{
+  "id": "news-76980371",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "연합뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9rckJUaEREdlYyd3ZFNW9XN216VkhSY3BwSGtrSlB3TzVEYWR4QkVXQWMxUmp5RDRTWmEybFZlMjBhNkluZlBUcW9YcHFPMUtnSGRIWk9wY0FNWUHSAWBBVV95cUxPU3R2QTNteVZ0UHNTVDZBV295ZlZuTl9VTzBqMUpRR0ZPQWkyR1ltVUIwUm1zY3h5QkpudkF3UlozWHhmU3BNYjlHQnduUUw0eTB5aW8wZ21VNklndGR4Ykw?oc=5",
+  "title": "우승 약속 지킨 구자욱·원태인 \"사장님, 좋은 계약서 기대해요\"",
+  "published_at": "2026-11-08T22:00:00.000Z",
+  "collected_at": "2026-11-09T07:37:48.748Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 73,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "전국매일신문",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0zeTU3Ml82ZGRKSXo0RmI4VDU1TnhFTVNIV0Q1aUdMdU1lcUEza0JlQ3FEd051MFJDRHQ0dGhoMmZjSWZWazFmUWMzMWhYZjg4R1V1UWNsX0ZQX09zVXlvelpfc2lTWU9rSXJxQTNR?oc=5"
+    }
+  ]
+}

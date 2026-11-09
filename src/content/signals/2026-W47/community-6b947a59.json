@@ -1,0 +1,23 @@
+{
+  "id": "community-6b947a59",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 리도의 생활 노트",
+  "url": "https://blog.naver.com/james_parku/224470208929",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/DWFne5TMwaB",
+  "title": "김태군 FA, 데려가면 KIA에 9억? 12억?",
+  "published_at": "2026-11-09T14:01:00.000+09:00",
+  "collected_at": "2026-11-09T07:37:48.748Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

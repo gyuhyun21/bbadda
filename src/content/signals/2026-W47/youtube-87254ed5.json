@@ -1,0 +1,27 @@
+{
+  "id": "youtube-87254ed5",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "youtube",
+  "source_name": "마법사",
+  "url": "https://www.youtube.com/watch?v=X1Fx-H8KjQE",
+  "title": "KT 김민혁 한국시리즈 역대 13번째 대타홈런",
+  "published_at": "2026-11-09T02:37:25Z",
+  "collected_at": "2026-11-09T07:37:48.748Z",
+  "summary_ko": "마법사 채널이 KT 김민혁의 한국시리즈 대타 홈런(역대 13번째) 영상을 올렸다.",
+  "metrics": {
+    "views": 1199,
+    "likes": 3,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 39,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "brief_ko": "김민혁, KS 13번째 대타 홈런"
+}

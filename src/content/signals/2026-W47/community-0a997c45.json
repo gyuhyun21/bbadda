@@ -1,0 +1,24 @@
+{
+  "id": "community-0a997c45",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 Smart News Wiz",
+  "url": "https://blog.naver.com/smartwiiz/224470193119",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/1kh7p7uHQpn",
+  "title": "현대캐피탈 필립 블랑 트레블 뒤에도 동행! 2년 재계약, 2028-2029시즌까지",
+  "published_at": "2026-11-09T13:20:00.000+09:00",
+  "collected_at": "2026-11-09T07:37:48.748Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}
