@@ -1,0 +1,29 @@
+{
+  "id": "community-bececf6a",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 두산베어스 공식 블로그",
+  "url": "https://blog.naver.com/1982doosanbears/224470576015",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/DKL5pnstphD",
+  "title": "[2026마무리캠프]두산베어스 내야진 ‘디펜스 데이’",
+  "published_at": "2026-11-09T17:44:00.000+09:00",
+  "collected_at": "2026-11-09T13:38:20.068Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "뉴스핌",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1BeWFxNE9HdGtrcTFxNXNoNTU5WlU1VHZpWDZxTEQ3UGRvNXZITzhiVnhsV2NMTFUtXzlVQ2ZsX25RR2IyaFV5bDVqS3h4LUlTa1ZCVEZoUVA5TE1q?oc=5"
+    }
+  ]
+}

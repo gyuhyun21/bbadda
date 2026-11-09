@@ -1,0 +1,23 @@
+{
+  "id": "community-516f1b14",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 와우팸",
+  "url": "https://blog.naver.com/liebe2460/224470799723",
+  "title": "2026 APBC 중계 어디서?｜11월13일 한일전·한국 야구 일정·모바일 라이브 보는 법",
+  "published_at": "2026-11-09T21:27:00.000+09:00",
+  "collected_at": "2026-11-09T13:38:20.068Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

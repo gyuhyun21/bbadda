@@ -1,0 +1,28 @@
+{
+  "id": "youtube-e809e03e",
+  "issue": "2026-W47",
+  "module": "league",
+  "teams": [
+    "samsung"
+  ],
+  "team": "samsung",
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=xJnXCs2U-2g",
+  "title": "이 도시의 우승 순간을 옆에서도 찍어보았습니다. | KBO VIBES | 삼성라이온즈 KBO 리그 한국시리즈 우승",
+  "published_at": "2026-11-09T08:33:15Z",
+  "collected_at": "2026-11-09T13:38:20.068Z",
+  "summary_ko": "KBO 공식 채널이 삼성의 한국시리즈 우승 순간을 옆에서 담은 KBO VIBES 영상을 올렸다.",
+  "metrics": {
+    "views": 38819,
+    "likes": 1533,
+    "comments": 103
+  },
+  "scores": {
+    "hot": 92,
+    "relevance": 80
+  },
+  "sentiment": "positive",
+  "brief_ko": "KBO VIBES, 우승 순간 다른 각도"
+}

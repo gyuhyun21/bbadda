@@ -1,0 +1,23 @@
+{
+  "id": "news-eaea7382",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "재경일보",
+  "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5zZTFFSG5OOEJiT3FHTU1DczFQcWJuc0ZZUUo5WVBCNXg1OGtUZ29EelJzUHZzdTVESVBBU1d4ZEJYTHBGeE5hRVJUaw?oc=5",
+  "title": "구자욱 맹타·권동진 부상…한국시리즈 주요 장면 10선 : 스포츠",
+  "published_at": "2026-11-09T08:32:00.000Z",
+  "collected_at": "2026-11-09T13:38:20.068Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

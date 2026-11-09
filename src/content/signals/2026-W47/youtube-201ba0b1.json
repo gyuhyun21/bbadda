@@ -1,0 +1,27 @@
+{
+  "id": "youtube-201ba0b1",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "youtube",
+  "source_name": "자이언츠백서",
+  "url": "https://www.youtube.com/watch?v=ztNUflFOpYE",
+  "title": "롯데의 내년 라인업 감독 혼자 안 짠다고? #롯데자이언츠",
+  "published_at": "2026-11-09T13:15:35Z",
+  "collected_at": "2026-11-09T13:38:20.068Z",
+  "summary_ko": "한 팬 채널은 롯데의 내년 라인업을 감독 혼자 짜지 않는다는 내용을 다뤘다.",
+  "metrics": {
+    "views": 243,
+    "likes": 1,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 37,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "내년 라인업, 감독 혼자 안 짠다"
+}

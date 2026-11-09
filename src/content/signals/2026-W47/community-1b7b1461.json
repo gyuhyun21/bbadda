@@ -1,0 +1,24 @@
+{
+  "id": "community-1b7b1461",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 내가 그리는 이야기",
+  "url": "https://blog.naver.com/kimnk3779/224470122367",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/5wMwmVfHvqV",
+  "title": "KBO 프로야구 역대 우승 횟수 총정리｜구단별 한국시리즈 우승 순위 TOP 10",
+  "published_at": "2026-11-09T11:56:00.000+09:00",
+  "collected_at": "2026-11-09T13:38:20.068Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

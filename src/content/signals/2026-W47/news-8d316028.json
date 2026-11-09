@@ -1,0 +1,23 @@
+{
+  "id": "news-8d316028",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "경향신문",
+  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB6N0dPdGFJVmppWlItellSU3pxT2ZpYlUwY0ZsaWxQVHIxUU9JSk5FaHRleG44MER2dktvYXQyMFltMUJmVm5rRmRvZXp3N1FZZ0NSQTE2dThMQdIBX0FVX3lxTE51U1Jud1R0QXU5Uk9NM0NJVGVlcDJBek1acEhtaEt5dER1dUYySGhLOWNBX2F0M0dWOUozWW45SWZjOWFmY0JER2F0LTVxcmdDczF6Q3Z2WTQxcDZmc0hN?oc=5",
+  "title": "“냉정해져라” 2년 전 아픔에 감독도 성장···우승 이끈 박진만의 독한 야구",
+  "published_at": "2026-11-09T08:35:00.000Z",
+  "collected_at": "2026-11-09T13:38:20.068Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

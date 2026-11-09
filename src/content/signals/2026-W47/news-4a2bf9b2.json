@@ -1,0 +1,23 @@
+{
+  "id": "news-4a2bf9b2",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "파이낸셜뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5FcUVIUEVFMjFWYVJ0N1UtaWs4blZFemhoX2xUSWozcW5sek9MSTFTalpxWlJfZDIwVG1xVDRIa083aEx5eWVzS2M2RV9LVDYySWxaUDFjMWxxQQ?oc=5",
+  "title": "\"강정호 이후 11년 만에 한국산 거포?\"…美 피츠버그 언론, 노시환 영입론 제기",
+  "published_at": "2026-11-09T13:33:56.000Z",
+  "collected_at": "2026-11-09T13:38:20.068Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "community-189c67cd",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 툴짱의 블로그",
+  "url": "https://blog.naver.com/yoo1324/224470418346",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/3HWXkDAhyC4",
+  "title": "[부산 야구장 어떻게?] 16년을 끌어온 부산 야구장 신축, 사직 재건축과 북항 돔구장 '투트랙'으로 가닥...",
+  "published_at": "2026-11-09T16:37:00.000+09:00",
+  "collected_at": "2026-11-09T13:38:20.068Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

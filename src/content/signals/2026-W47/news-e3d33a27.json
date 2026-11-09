@@ -1,0 +1,23 @@
+{
+  "id": "news-e3d33a27",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "www.xportsnews.com",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1IMzVUdFZ4dkZ1ZXRqYTJWRXh5c2ZyeTA3OTFDT3lVenptbkVsWVdRbl9JUjRkbEFwUVZHQW9Sc0VMUVN3a1lnR2wzdjk2Yjk4bnMzVA?oc=5",
+  "title": "펑고 무려 300구! 야구장에 웬 마스크? \"더 강하게 주십쇼\"…'손지환표' 지옥 디펜스 데이 재개봉→\"의욕+투지 느껴져\"",
+  "published_at": "2026-11-09T08:24:45.000Z",
+  "collected_at": "2026-11-09T13:38:20.068Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

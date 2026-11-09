@@ -1,0 +1,23 @@
+{
+  "id": "news-8c4ac1c8",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "조선일보",
+  "url": "https://www.chosun.com/sports/baseball/2026/11/09/GY4DQYTBG5QTCNZSHAZDCYJWGE/",
+  "title": "'공짜이변'은 없다. '언더독' 삼성을 정상으로 끌어올린 4가지 원동력[삼성우승]",
+  "published_at": "2026-11-09T03:44:00.000Z",
+  "collected_at": "2026-11-09T13:38:20.068Z",
+  "summary_ko": "조선일보는 언더독 삼성을 정상으로 끌어올린 원동력 4가지를 꼽았다.",
+  "metrics": {},
+  "scores": {
+    "hot": 72,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "brief_ko": "언더독 삼성 우승 원동력 4가지"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-9ed1a8f5",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "news",
+  "source_name": "조선일보",
+  "url": "https://www.chosun.com/sports/baseball/2026/11/09/MI2TKMTCGQ3TSNTGMY2DOODFMM/",
+  "title": "\"야구하고 그런 적 없는데…\" 홈런치고 손 번쩍! 한화의 거포가 또 한 번 성장했다 [미야자키 현장]",
+  "published_at": "2026-11-09T10:47:00.000Z",
+  "collected_at": "2026-11-09T13:38:20.068Z",
+  "summary_ko": "조선일보는 한화 거포가 홈런을 치고 손을 번쩍 들었다며 또 한 번 성장했다고 전했다. 미야자키 현장 기사다.",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "brief_ko": "미야자키 홈런, 한화 거포 성장"
+}

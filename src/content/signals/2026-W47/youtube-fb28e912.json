@@ -1,0 +1,27 @@
+{
+  "id": "youtube-fb28e912",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "맛있스포츠 Deliciousports",
+  "url": "https://www.youtube.com/watch?v=DpxR5L65Np4",
+  "title": "\"내년에도...\" 삼성라이온즈에 남고싶다는 페덱",
+  "published_at": "2026-11-09T12:59:42Z",
+  "collected_at": "2026-11-09T13:38:20.068Z",
+  "summary_ko": "한 팬 채널은 '내년에도' 삼성에 남고 싶다는 페덱의 발언을 다뤘다.",
+  "metrics": {
+    "views": 8484,
+    "likes": 488,
+    "comments": 29
+  },
+  "scores": {
+    "hot": 90,
+    "relevance": 50
+  },
+  "sentiment": "neutral",
+  "brief_ko": "페덱, 삼성에 남고 싶다"
+}

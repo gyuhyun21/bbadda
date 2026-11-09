@@ -1,0 +1,23 @@
+{
+  "id": "news-bfd060a9",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "뉴시스",
+  "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBPeWhNa0x6amlUR2Zzb1NhN1hDck9Jak5pQVlkNWQwa2hERkpfQ2VCTW1nLWdHUW1EbDhaNUNkbTktdW1NWGNGanZDNE1ZYTByMl92cWtweTNpTUVXWVI0Nm0zYWtON2xHUEpWcFJCMWctT2t3aXZ1WNIBeEFVX3lxTFBPeWhNa0x6amlUR2Zzb1NhN1hDck9Jak5pQVlkNWQwa2hERkpfQ2VCTW1nLWdHUW1EbDhaNUNkbTktdW1NWGNGanZDNE1ZYTByMl92cWtweTNpTUVXWVI0Nm0zYWtON2xHUEpWcFJCMWctT2t3aXZ1WA?oc=5",
+  "title": "APBC 야구대표팀 주장 한동희 \"김도영, 얼마나 더 잘할지 기대돼\"",
+  "published_at": "2026-11-09T08:26:52.000Z",
+  "collected_at": "2026-11-09T13:38:20.068Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

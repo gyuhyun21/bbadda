@@ -1,0 +1,23 @@
+{
+  "id": "news-5b78f402",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "경향신문",
+  "url": "https://www.khan.co.kr/article/202611091806001",
+  "title": "처음 같은 9번째 트로피···삼성, 팀 역사에 없던 DNA로 ‘첫 업셋 우승’",
+  "published_at": "2026-11-09T09:06:00.000Z",
+  "collected_at": "2026-11-09T13:38:20.068Z",
+  "summary_ko": "경향신문은 삼성이 통산 9번째 트로피를 '첫 업셋 우승'으로 들어 올렸다고 전했다. 팀 역사에 없던 DNA가 있었다는 분석이다.",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "brief_ko": "삼성, 첫 업셋 우승"
+}

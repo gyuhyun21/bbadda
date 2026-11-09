@@ -1,0 +1,24 @@
+{
+  "id": "community-96118601",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 ffakim 님의 블로그",
+  "url": "https://ffakim.com/32",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/18r4q074B4y",
+  "title": "FA 제도 쉽게 이해하고, 이번 겨울 FA 시장 보는 법",
+  "published_at": "2026-11-09T22:26:38.000+09:00",
+  "collected_at": "2026-11-09T13:38:20.068Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

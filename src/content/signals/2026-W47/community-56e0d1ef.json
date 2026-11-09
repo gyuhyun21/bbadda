@@ -1,0 +1,24 @@
+{
+  "id": "community-56e0d1ef",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 그라운드노트",
+  "url": "https://blog.naver.com/dgr64lf20/224470795472",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/8lk811O0RyU",
+  "title": "박철순이 던지고 이만수가 받는다…매진된 잠실야구장 고별전의 첫 장면",
+  "published_at": "2026-11-09T21:23:00.000+09:00",
+  "collected_at": "2026-11-09T13:38:20.068Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

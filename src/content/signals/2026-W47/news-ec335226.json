@@ -1,0 +1,22 @@
+{
+  "id": "news-ec335226",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9KSXVaQ1JJa0tOUGlrVXpPWGpyU0tnWmRlSHhQRmdPWnRmanJBcmZEUkdWZE9VWFpfRGVpTTl3R2ZHSDRPVk42eHFlUERmY2E1ektCV1BGV05MOGp2Q0pBWXNPeUlFc0dWMmZr0gFwQVVfeXFMUERxNEtDY005WUFfWUJEdnA5dG0xS3Q2X1lpVnE2Q1lzWmpTRjdES3ZqdEVjc1ZwaS1CX0JZT3hPUUR3NjBMWUtNYkh4TFEwcndlTDk4eEVsTmJkVkFBN0V0cjFPcnlJWFR3S3pGQWdreQ?oc=5",
+  "title": "\"삼성 우승 신문 구합니다\"…'1부에 10만원' 웃돈 거래까지",
+  "published_at": "2026-11-09T12:55:56.000Z",
+  "collected_at": "2026-11-09T13:38:20.068Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

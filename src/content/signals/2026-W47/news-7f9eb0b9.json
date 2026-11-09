@@ -1,0 +1,30 @@
+{
+  "id": "news-7f9eb0b9",
+  "issue": "2026-W47",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "미주중앙일보",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5fLVdUdEc0dXMtV2JtN09NTUZjRzYzR2VkbEZqOWdFejN3RE1lUDBqTG1DNmI0SGhfRk5mNDYxOHJyUmt2cHFQQjVkRHhXdUVocjBDMDNYQXlrYTVxVG4tUUdR?oc=5",
+  "title": "44홈런 외인타자, KS 타율 .444 활약에도 충격 준우승…그래도 한국 남고 싶다 “내 인생 최고의 팀”",
+  "published_at": "2026-11-09T09:40:00.000Z",
+  "collected_at": "2026-11-09T13:38:20.068Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 99,
+    "relevance": 70
+  },
+  "sentiment": "mixed",
+  "also_in": [
+    {
+      "source_name": "OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9SZEJPRmsxbHJiaGYtMlVtWFZHMHd5RnNVc2FyVkxBLTZub0YzZG50UVJxSHRHd3lfVDFCb2d4RHlUMnhoUkxMR1FCMm5YdGx3dFp6NQ?oc=5"
+    }
+  ]
+}

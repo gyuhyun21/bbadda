@@ -1,0 +1,23 @@
+{
+  "id": "news-c62c2d1b",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "일간스포츠",
+  "url": "http://isplus.live.joins.com/article/view/isp202611090230",
+  "title": "日 언론, 한국시리즈 MVP 구자욱 해외 진출 도전 표명에 관심",
+  "published_at": "2026-11-09T08:48:00.000Z",
+  "collected_at": "2026-11-09T13:38:20.068Z",
+  "summary_ko": "일간스포츠는 일본 언론이 한국시리즈 MVP 구자욱의 해외 진출 도전 표명에 관심을 보였다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 82,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "brief_ko": "日 언론, 구자욱 해외 도전 주목"
+}
