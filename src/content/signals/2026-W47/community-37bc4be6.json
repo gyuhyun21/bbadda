@@ -1,0 +1,23 @@
+{
+  "id": "community-37bc4be6",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 스포츠이슈",
+  "url": "https://blog.naver.com/sportsissue/224470838611",
+  "title": "강민호는 우승반지 얻었는데…전준우는 19년째 한국시리즈도 못 갔네..",
+  "published_at": "2026-11-09T22:04:00.000+09:00",
+  "collected_at": "2026-11-09T21:38:39.111Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

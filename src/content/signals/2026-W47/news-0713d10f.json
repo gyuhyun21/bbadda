@@ -1,0 +1,24 @@
+{
+  "id": "news-0713d10f",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://www.mt.co.kr/amp/sports/2026/11/10/202611091716777045O",
+  "title": "“9회초 우승할 때만 봤다” PO 탈락 김도영, 왜 “분한 마음 없다. 뭉클하더라” 했을까",
+  "published_at": "2026-11-09T16:22:00.000Z",
+  "collected_at": "2026-11-09T21:38:39.111Z",
+  "summary_ko": "머니투데이는 PO에서 탈락한 김도영이 한국시리즈 우승 장면을 보며 분한 마음보다 뭉클했다고 말했다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "brief_ko": "김도영 \"분한 마음 없다\""
+}

@@ -1,0 +1,24 @@
+{
+  "id": "community-a0b895d2",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 센스쟁이 프로그래머, 비트센스",
+  "url": "https://picory.com/3791",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/ApFZpzz4u6B",
+  "title": "구자욱 박승규 MVP 양보설 진실, 오타니 17번 사연이라더니",
+  "published_at": "2026-11-10T06:32:45.000+09:00",
+  "collected_at": "2026-11-09T21:38:39.111Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

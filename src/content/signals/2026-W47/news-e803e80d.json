@@ -1,0 +1,23 @@
+{
+  "id": "news-e803e80d",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "news",
+  "source_name": "SPOTV NEWS",
+  "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1018934",
+  "title": "'ERA 7.31→韓 퇴출' 두산 1호 아시아쿼터, 아직 야구 포기 안 했다…日 트라이아웃 참가→취업 활동 나선다",
+  "published_at": "2026-11-09T15:07:00.000Z",
+  "collected_at": "2026-11-09T21:38:39.111Z",
+  "summary_ko": "SPOTV NEWS는 성적 부진으로 퇴출된 두산 1호 아시아쿼터 선수가 일본 트라이아웃에 참가해 취업 활동에 나선다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "퇴출 아시아쿼터, 日 트라이아웃"
+}

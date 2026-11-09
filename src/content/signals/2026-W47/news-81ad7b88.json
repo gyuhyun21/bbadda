@@ -1,0 +1,22 @@
+{
+  "id": "news-81ad7b88",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스핌",
+  "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9TY25PSHBaVFRYOUhoQ0NSVjQxcFFIZlExdW4yY2dVdXY4ZUN5T0hGdWdfUVZwOFlRc1dqUG5LaHFScWtTdzFzaWkzd2Rlc0xtOElEZEVWMEt5Mmp0?oc=5",
+  "title": "[KS 포커스] 구자욱·김도영과 달랐던 KT 간판 안현민...생애 첫 가을야구서 쓴맛",
+  "published_at": "2026-11-09T03:00:00.000Z",
+  "collected_at": "2026-11-09T21:38:39.111Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 61,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

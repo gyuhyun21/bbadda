@@ -1,0 +1,27 @@
+{
+  "id": "youtube-042efa4d",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "전념생물",
+  "url": "https://www.youtube.com/watch?v=n-mdRGrrApQ",
+  "title": "부상당한 권동진 선수ㅜㅜ 빨리 쾌유 하시길... #삼성라이온즈 #kt위즈 #권동진 #야구 #부상 #구급차 #kbo",
+  "published_at": "2026-11-09T14:17:36Z",
+  "collected_at": "2026-11-09T21:38:39.111Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 909,
+    "likes": 3,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 39,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

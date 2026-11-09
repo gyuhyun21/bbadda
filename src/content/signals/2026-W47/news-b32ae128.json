@@ -1,0 +1,24 @@
+{
+  "id": "news-b32ae128",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "뉴스1",
+  "url": "https://www.news1.kr/sports/baseball/6348159",
+  "title": "'2연패' 바라보는 이종열 단장 \"태인아, 자욱아…빨리 계약하자\"",
+  "published_at": "2026-11-09T21:00:00.000Z",
+  "collected_at": "2026-11-09T21:38:39.111Z",
+  "summary_ko": "뉴스1은 2연패를 바라보는 이종열 단장이 원태인·구자욱에게 빨리 계약하자고 말했다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "negative",
+  "brief_ko": "단장 \"태인아, 자욱아 계약하자\""
+}

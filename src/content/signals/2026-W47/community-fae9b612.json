@@ -1,0 +1,23 @@
+{
+  "id": "community-fae9b612",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 루엔",
+  "url": "https://blog.naver.com/vlemgkdgotk/224470971721",
+  "title": "2017년 우승의 대가였던 이승호, 3년 넘게 1군에 없는 이유",
+  "published_at": "2026-11-10T00:19:00.000+09:00",
+  "collected_at": "2026-11-09T21:38:39.111Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

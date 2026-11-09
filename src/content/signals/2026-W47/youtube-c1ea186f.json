@@ -1,0 +1,26 @@
+{
+  "id": "youtube-c1ea186f",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "youtube",
+  "source_name": "잠실아이돌",
+  "url": "https://www.youtube.com/watch?v=GHgJeZaXFP0",
+  "title": "[두산베어스 정수빈] 잠실아이돌의 조건",
+  "published_at": "2026-11-09T16:41:49Z",
+  "collected_at": "2026-11-09T21:38:39.111Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 9,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 12,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

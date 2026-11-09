@@ -1,0 +1,24 @@
+{
+  "id": "community-117e00c0",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 슬기로운 정보 서랍(생활•지원금•IT)",
+  "url": "https://blog.naver.com/hy895181/224470895989",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/6oznFLACcY6",
+  "title": "가을야구 끝나고 스토브리그 개막! 2026 프로야구 FA 자격 승인 선수 명단 및 10개 구단 협상 일정 총정리",
+  "published_at": "2026-11-09T23:00:00.000+09:00",
+  "collected_at": "2026-11-09T21:38:39.111Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

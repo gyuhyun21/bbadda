@@ -1,0 +1,24 @@
+{
+  "id": "community-13b29520",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 아는만큼 보인다 - 아보다",
+  "url": "https://miracool65.tistory.com/3253",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/FZrLiFfdiUz",
+  "title": "구자욱 한국시리즈 최우수선수 투표 결과와 부상 내역",
+  "published_at": "2026-11-10T05:35:07.000+09:00",
+  "collected_at": "2026-11-09T21:38:39.111Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "community-fef7591c",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 야구별",
+  "url": "https://blog.naver.com/goldenbootpark/224471112961",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/AbL0C9PIWZv",
+  "title": "두산의 미야자키 지옥훈련... 이번엔 수비부터 뜯어고친다",
+  "published_at": "2026-11-10T06:14:00.000+09:00",
+  "collected_at": "2026-11-09T21:38:39.111Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

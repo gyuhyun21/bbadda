@@ -1,0 +1,23 @@
+{
+  "id": "news-cb47b012",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "경상일보",
+  "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1072002",
+  "title": "롯데, 이동욱 감독 체제로 새출발…겨울부터 달라진다",
+  "published_at": "2026-11-09T15:00:02.000Z",
+  "collected_at": "2026-11-09T21:38:39.111Z",
+  "summary_ko": "경상일보는 롯데가 이동욱 감독 체제로 새출발하며 겨울부터 달라진다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 82,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "이동욱 체제, 겨울부터 변화"
+}

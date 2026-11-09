@@ -1,0 +1,24 @@
+{
+  "id": "community-0a17b87c",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&page=4&document_srl=10538149350",
+  "title": "와 방금 진짜 순수한 사람 봄 - 야구",
+  "published_at": "2026-11-09T14:38:39.111Z",
+  "collected_at": "2026-11-09T21:38:39.111Z",
+  "summary_ko": "",
+  "excerpt": "... SSG랜더스 김민재 최한호 김태준 오유안 지명할게요. [레벨:21] 이호민의골글교실 8 분 전. 야구조아청년. [레벨:20] 한신타이거스…",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "news-3ff026d4",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "아시아경제",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9RNkxPb24tamNxM3F1ZkQ5dTRYeWtVVkV6Z2gwZUNoX05GVFJkTDROMTlRTXo5ajR0bW1HY3hUYWE5X0Y1ZjlRdklYTFFydDd4cVZkMUtyNVBUQXJhNFVmeg?oc=5",
+  "title": "\"1면 사진 있는 신문 10만원\" 삼성라이온즈, 12년만 우승에 신문 품귀 현상",
+  "published_at": "2026-11-09T09:19:24.000Z",
+  "collected_at": "2026-11-09T21:38:39.111Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

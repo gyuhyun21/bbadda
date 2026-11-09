@@ -1,0 +1,24 @@
+{
+  "id": "community-e5e2c2d2",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 세상 이야기 다 모여라",
+  "url": "https://blog.naver.com/hotopik/224470599062",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/792yWtuRoyL",
+  "title": "2026 APBC 야구 국가대표 경기 일정 중계 방송사 극장 상영 총정리",
+  "published_at": "2026-11-09T20:18:00.000+09:00",
+  "collected_at": "2026-11-09T21:38:39.111Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

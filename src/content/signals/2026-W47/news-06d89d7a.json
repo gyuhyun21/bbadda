@@ -1,0 +1,23 @@
+{
+  "id": "news-06d89d7a",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "news",
+  "source_name": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202611090902025944",
+  "title": "\"34억 안겼는데 돌아온 건 1승 4패 참사\"… 90승 KT의 믿을 수 없는 패배, 이강철 감독의 무거워진 책임",
+  "published_at": "2026-11-09T01:00:00.000Z",
+  "collected_at": "2026-11-09T21:38:39.111Z",
+  "summary_ko": "파이낸셜뉴스는 90승을 거둔 KT가 한국시리즈에서 1승 4패로 졌다며 이강철 감독의 책임이 무거워졌다고 짚었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 61,
+    "relevance": 70
+  },
+  "sentiment": "negative",
+  "brief_ko": "1승 4패, 이강철의 책임론"
+}

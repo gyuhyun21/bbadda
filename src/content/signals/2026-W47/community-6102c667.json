@@ -1,0 +1,29 @@
+{
+  "id": "community-6102c667",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 SPOTLIGHT",
+  "url": "https://blog.naver.com/agentwannabe/224470989984",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/IpUHIe4BubP",
+  "title": "‘김기태 감독 혹사의 피해자’ 부상만 아니었다면 여전히 커리어를 이어가고 있었을, 기아 김윤동(KBO)",
+  "published_at": "2026-11-10T01:08:00.000+09:00",
+  "collected_at": "2026-11-09T21:38:39.111Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "negative",
+  "also_in": [
+    {
+      "source_name": "Naver Blog",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNmE2c01BdnhpUjNrcmRqdnBCTnRMc1N1OUZoTFRlSHNBdnU4Y1VReGRpb18zOV9pcUdPODByM1E3OGYzWTZ0NmswTEZhY3Vvb2F4cDFiLTdtQmxHakF1UUJ0TkRWMWdOUDAxQ29MVk91OTRTUjU5dHBldlFIdjB5RDljSnVSU25yMGJrRnMzRGdGUWx3?oc=5"
+    }
+  ]
+}

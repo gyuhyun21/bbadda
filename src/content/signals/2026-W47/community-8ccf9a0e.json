@@ -1,0 +1,23 @@
+{
+  "id": "community-8ccf9a0e",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 스포츠 다이어리",
+  "url": "https://blog.naver.com/sportpulse/224470809941",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/LbwjmTuBW1C",
+  "title": "\"눈에 타구 맞고 쓰러졌는데 수술까지?” KT 권동진, 한국시리즈 부상 이후 전해진 소식",
+  "published_at": "2026-11-10T04:35:00.000+09:00",
+  "collected_at": "2026-11-09T21:38:39.111Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

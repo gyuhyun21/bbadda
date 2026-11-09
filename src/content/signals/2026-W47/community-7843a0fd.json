@@ -1,0 +1,24 @@
+{
+  "id": "community-7843a0fd",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte",
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 루엔",
+  "url": "https://blog.naver.com/vlemgkdgotk/224470969618",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/JJdt2t3JqZw",
+  "title": "롯데가 김호령 영입하면 조세진이 KIA로? 뜻밖의 변수",
+  "published_at": "2026-11-10T00:15:00.000+09:00",
+  "collected_at": "2026-11-09T21:38:39.111Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "news-6514d48d",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "파이낸셜뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9FYngxTndhRFR4azl5LVVCOE1qX3h1R0Nram9Rb1VxYld6aHlzUEZqSzZCZkNwWjZMcXNOdjFMWlV3a3lmQlpoNU9tWGZQcGpOckR6TmxrdmlYZw?oc=5",
+  "title": "\"신문 한 부에 10만원?\"…삼성 우승에 때아닌 구매 경쟁",
+  "published_at": "2026-11-09T21:25:51.000Z",
+  "collected_at": "2026-11-09T21:38:39.111Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

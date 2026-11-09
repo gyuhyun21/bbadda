@@ -1,0 +1,27 @@
+{
+  "id": "community-3b21a484",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg",
+    "kia",
+    "hanwha",
+    "doosan"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 더매치",
+  "url": "https://blog.naver.com/thematch1004/224470993356",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/CcjFSyFJJIw",
+  "title": "홍창기 FA 전망, KIA 한화 두산 영입 경쟁설 LG가 가장 절실한 이유",
+  "published_at": "2026-11-10T04:12:00.000+09:00",
+  "collected_at": "2026-11-09T21:38:39.111Z",
+  "summary_ko": "한 블로그는 홍창기 FA를 두고 KIA·한화·두산의 영입 경쟁설이 거론된다며 LG가 가장 절실한 이유를 짚었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "홍창기 FA, 영입 경쟁설"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-ea0f32d0",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "서울신문",
+  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1oVFdMekRTZEdtTmZmYjBHMUhfSVZiUWF4QjdXTUxCZktla2hSeGtuNVhJRkZMRnBXV21TV0JFUmFOODVxbWYtbjBJWHF1b0NoNXRENlNTOA?oc=5",
+  "title": "APBC 출격 김도영 “컨디션 좋다… 우승 바라볼 것”",
+  "published_at": "2026-11-09T14:42:44.000Z",
+  "collected_at": "2026-11-09T21:38:39.111Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}
