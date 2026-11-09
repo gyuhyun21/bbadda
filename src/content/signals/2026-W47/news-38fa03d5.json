@@ -1,0 +1,22 @@
+{
+  "id": "news-38fa03d5",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스핌",
+  "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9sWEdoQWpWZVZWc1JfaVY0S29SNGpVZ3p5RVhYNm45THZmS1Q2RTNSZm5CMnQxa2RSR09FVWpaU1poaUYtRjFIT25Pc25WYloxSjFnVWt5cUZ3NVhE?oc=5",
+  "title": "[프로야구] KT 권동진, 다행히 수술 피해…\"안구에 고인 피가 빠져야\"",
+  "published_at": "2026-11-09T05:25:00.000Z",
+  "collected_at": "2026-11-09T07:37:48.748Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "youtube-c246d2be",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "Eagles TV",
+  "url": "https://www.youtube.com/watch?v=5Vc00-f2tX8",
+  "title": "국대🇰🇷 첫 훈련부터 상무 연습경기까지｜허인서 쓰리런, 조동욱 무실점, 김기중·김규연 인터뷰",
+  "published_at": "2026-11-08T23:00:28Z",
+  "collected_at": "2026-11-09T07:37:48.748Z",
+  "summary_ko": "한화 공식 채널 Eagles TV가 국가대표 첫 훈련과 상무 연습경기 영상을 올렸다. 허인서의 쓰리런, 조동욱의 무실점이 담겼다.",
+  "metrics": {
+    "views": 93622,
+    "likes": 1640,
+    "comments": 182
+  },
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "허인서 쓰리런, 조동욱 무실점"
+}

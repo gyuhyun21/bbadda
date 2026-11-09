@@ -1,0 +1,23 @@
+{
+  "id": "news-e901f83d",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB1aXV1Yk5oVEJqTTNOSjdHWnJoZkZFb3d5SFVUOXA5bWRzckFINjNmYzdTT3VNdC1LZVcxLTRHVldaRlM4MjNpUWJCRkNqa0VjZ0pVM19RS2hWdERGc3lhaUlKX2ZEN1h3X3NRNlRpanh2Ylo2Y1Y2UEhNR3FkQQ?oc=5",
+  "title": "'200만원 상당' 투수조장 지갑이 활짝 열렸다! \"정말 고생 많았으니…\" [미야자키 현장]",
+  "published_at": "2026-11-09T06:36:42.000Z",
+  "collected_at": "2026-11-09T07:37:48.748Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "news-c013e14f",
+  "issue": "2026-W47",
+  "module": "rivalry",
+  "team": "hanwha",
+  "teams": [
+    "hanwha",
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBiNXoweVRFNGtocHVBYTZoMFliMkZ6eUVhTkRrTE5ZRVpmd3A1MmMwLVhOXzJGWU9zOU5jeEdXUTl6TnoxcVFHSUY4azN5TWxYUVJvaVhLb1Z0Y2pScC1XUFAzVmFtM2gwMU9QeGR5OFRTRmc4cXltTlZveGhGUQ?oc=5",
+  "title": "노시환, 포기한 307억 단번에 회수할 수 있다고? \"연평균 271억~311억, 컵스 지명타자로 적합\" 너무 나간 美 매체",
+  "published_at": "2026-11-09T06:20:41.000Z",
+  "collected_at": "2026-11-09T07:37:48.748Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

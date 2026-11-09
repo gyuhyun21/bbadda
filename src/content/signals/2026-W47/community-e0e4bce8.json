@@ -1,0 +1,29 @@
+{
+  "id": "community-e0e4bce8",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 장원영의 실시간 핫이슈",
+  "url": "https://blog.naver.com/severance1997/224470085529",
+  "title": "\"26억 몸값, 우승으로 일시불 완납\"…43세 최형우의 소름 돋는 약속, 강민호에게 반지를 끼워줬다",
+  "published_at": "2026-11-09T11:30:00.000+09:00",
+  "collected_at": "2026-11-09T07:37:48.748Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "네이트",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9pU0FfTmZ0YzN4LVRDbkdoaUIwRnhsWTAxZEROV3BKU254OU5XRnM5ejFUSUhyejdRRjRzWnpHT0JHWEdCR0ZRMDJVUnhWUURlYm50NUlQWmRVSlVr?oc=5"
+    }
+  ]
+}

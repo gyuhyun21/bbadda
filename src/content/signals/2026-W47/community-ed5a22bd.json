@@ -1,0 +1,23 @@
+{
+  "id": "community-ed5a22bd",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 낮잠 SIESTA",
+  "url": "https://blog.naver.com/soobakce/224470240619",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/4s7ajuYVQrl",
+  "title": "두산베어스 잠실야구장 팬투어",
+  "published_at": "2026-11-09T14:35:00.000+09:00",
+  "collected_at": "2026-11-09T07:37:48.748Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

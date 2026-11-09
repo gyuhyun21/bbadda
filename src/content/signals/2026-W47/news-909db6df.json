@@ -1,0 +1,23 @@
+{
+  "id": "news-909db6df",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "뉴시스",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5KUVR0Nm9odkxzMHZIZ3FMcWtIN1dEYVZiLVpyQ21CMTZ3MWd5dUl0R3A4VnJiVDhQNElpN0J1TG1YdklLVDlDbmMxd0FWTGNWa19yZnBHVnJLQTdQc3dWUtIBeEFVX3lxTE5BVDlMVzZlSUdub2NsYzJ4bUw1WXlWNjlROWM5Q0lNVlZvZEQwYzhHTDZDbFJWUTc2Nk5CakIyTk1lelFoVTNXdzRESkxMU1ZVaWtMUGVJc1hkcnZHdFJ2cmF1c3RLM1VaX0JqUDVHN09hN1RjS1hKSA?oc=5",
+  "title": "야구대표팀 간판 김도영 \"목표는 APBC 우승…한일전 자신 있다\"",
+  "published_at": "2026-11-09T07:24:06.000Z",
+  "collected_at": "2026-11-09T07:37:48.748Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "community-85c81782",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 쓸모있는 선택지",
+  "url": "https://blog.naver.com/jkdesign_studio/224470265829",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/Bd7NPGUSFm6",
+  "title": "“지안 남편이 160km 강속구 투수?” 엄정욱 누구길래, 나이·야구 경력·결혼 이야기 총정리",
+  "published_at": "2026-11-09T14:51:00.000+09:00",
+  "collected_at": "2026-11-09T07:37:48.748Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

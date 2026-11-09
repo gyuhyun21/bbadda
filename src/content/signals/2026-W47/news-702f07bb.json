@@ -1,0 +1,23 @@
+{
+  "id": "news-702f07bb",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "SPOTV NEWS",
+  "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1018896",
+  "title": "'日 요미우리 유학' 떠났던 롯데 도루왕, 부상으로 귀국했었다…재검진 문제 없으면 마캠 합류 예정",
+  "published_at": "2026-11-09T07:21:36.000Z",
+  "collected_at": "2026-11-09T07:37:48.748Z",
+  "summary_ko": "SPOTV NEWS는 요미우리 유학 중 부상으로 귀국했던 롯데 도루왕이 재검진에 문제가 없으면 마무리캠프에 합류한다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "negative",
+  "brief_ko": "도루왕, 재검진 뒤 캠프 합류"
+}

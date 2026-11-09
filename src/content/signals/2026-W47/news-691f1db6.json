@@ -1,0 +1,23 @@
+{
+  "id": "news-691f1db6",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "SPOTV NEWS",
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB0SE1WaVFDdTE2cVdfeGFnYXVTQU51WEc2bHJsSlc1ZVVKandrMjI5YW9HSFlNemdSS0VEMGtLTDl0azBpNHhUZExTV3lyUmZHd3hObXQ5WnJJNXpFV2R5OUtEWGJaNlNvT3lBSmZPUWQ?oc=5",
+  "title": "90승 강팀의 충격적 퇴장…한국시리즈 득실 -20점 '역대 최다' 굴욕당했다",
+  "published_at": "2026-11-09T02:55:00.000Z",
+  "collected_at": "2026-11-09T07:37:48.748Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

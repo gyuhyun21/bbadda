@@ -1,0 +1,23 @@
+{
+  "id": "news-5bc978ea",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE42VTd2N09DV0tDTUlvcGxDSWV1aXVxQnIwR3FyNHhGOV9SOHpjV0JURUFuODJSQS1sRWVXNHZ4WVBlM0IzZGV6TWZKdENOQjNqdXJYYkVQZ0NBd2UyRk1kc3l1NUdXYTJkSjdSSDlKd9IBb0FVX3lxTE42VTd2N09DV0tDTUlvcGxDSWV1aXVxQnIwR3FyNHhGOV9SOHpjV0JURUFuODJSQS1sRWVXNHZ4WVBlM0IzZGV6TWZKdENOQjNqdXJYYkVQZ0NBd2UyRk1kc3l1NUdXYTJkSjdSSDlKdw?oc=5",
+  "title": "이루지 못한 1군 복귀 등판, 선발의 문은 더 높아지고...돌아온 윤영철, 직구의 힘 키워 웃음 되찾을까",
+  "published_at": "2026-11-09T00:40:00.000Z",
+  "collected_at": "2026-11-09T07:37:48.748Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

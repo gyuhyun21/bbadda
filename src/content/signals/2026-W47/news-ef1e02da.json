@@ -1,0 +1,23 @@
+{
+  "id": "news-ef1e02da",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "TSN KOREA",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBzdURPMzlESkF5TWYyc1luNnJVNU5MUGdKa25vc1RhRFI3T2RORVNyVWJxOVN0Tm5Nb3RKZnhLOHdydUlTTTJnR3VFQVVPaEVWNzBXNV9zNmhkQVh5Q2IzWQ?oc=5",
+  "title": "한국 야구대표팀, 12일 호주전으로 출격…13일 일본과 운명의 한일전",
+  "published_at": "2026-11-09T02:41:40.000Z",
+  "collected_at": "2026-11-09T07:37:48.748Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

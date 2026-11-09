@@ -1,0 +1,24 @@
+{
+  "id": "news-0181c84b",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "announcement": true,
+  "source_name": "스포츠조선",
+  "url": "https://www.sportschosun.com/baseball/2026-11-09/202611090100062440006005",
+  "title": "[오피셜] '세계 1위' 日 국대 코치, KIA 어떻게 영입했나…\"일본 코치 많이 오는 시대, 다 배워야죠\"",
+  "published_at": "2026-11-09T06:44:00.000Z",
+  "collected_at": "2026-11-09T07:37:48.748Z",
+  "summary_ko": "스포츠조선은 KIA가 일본 대표팀 코치를 영입한 과정을 전했다. 일본 코치가 많이 오는 시대라 다 배워야 한다는 말이 담겼다.",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "brief_ko": "일본 대표팀 코치 KIA 합류"
+}

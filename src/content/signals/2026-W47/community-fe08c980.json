@@ -1,0 +1,23 @@
+{
+  "id": "community-fe08c980",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&page=8&document_srl=10536429633",
+  "title": "삼성라이온즈 최근 3년간 가을야구 30경기 ㅋㅋ",
+  "published_at": "2026-11-09T05:37:48.748Z",
+  "collected_at": "2026-11-09T07:37:48.748Z",
+  "summary_ko": "",
+  "excerpt": "... 2024년 9경기 (P.O 4 KS 5)2025년 11경기 (WC 2 준 P.O 4 P.O 5)2026년…",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "news-ba9b8804",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "MHN스포츠",
+  "url": "https://mhnse.com/news/articleView.html?idxno=1689496",
+  "title": "시라카와 재계약? 교차 검증이 원칙…”지금은 원칙을 지키고 있습니다만”",
+  "published_at": "2026-11-09T02:48:45.000Z",
+  "collected_at": "2026-11-09T07:37:48.748Z",
+  "summary_ko": "MHN스포츠는 KIA의 시라카와 재계약 여부를 다뤘다. 교차 검증이 원칙이고 지금은 원칙을 지키고 있다는 답이 나왔다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "시라카와 재계약, 원칙 지킨다"
+}

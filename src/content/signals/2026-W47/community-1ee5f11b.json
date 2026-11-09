@@ -1,0 +1,23 @@
+{
+  "id": "community-1ee5f11b",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 국내외 다양한 스포츠 이야기",
+  "url": "https://blog.naver.com/bus5070/224470014311",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/1Bz8NUnUlcx",
+  "title": "\"왜 안 잡는 거지?\" 롯데, 불펜 부족한데 박종훈 영입 철회…이해하기 어려운 선택",
+  "published_at": "2026-11-09T13:30:00.000+09:00",
+  "collected_at": "2026-11-09T07:37:48.748Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "community-1e704e3c",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "엠엘비파크",
+  "url": "https://mlbpark.donga.com/mp/b.php?id=202611070119970900&p=1&b=kbotown&m=view&site=donga.com&pos=reply",
+  "title": "2013년 한국시리즈는 4승으로 끝냈어야 했음.jpg",
+  "published_at": "2026-11-06T15:00:00.000Z",
+  "collected_at": "2026-11-09T07:37:48.748Z",
+  "summary_ko": "",
+  "excerpt": "... 제목을 일부러자극적으로 달았는데그 때두산 선수진 너덜너덜했습니다그 시즌 사실삼성,두산,L…",
+  "metrics": {},
+  "scores": {
+    "hot": 45,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

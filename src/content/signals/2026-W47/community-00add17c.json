@@ -1,0 +1,23 @@
+{
+  "id": "community-00add17c",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kt"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 샘이나는  꽃세미",
+  "url": "https://semi169.tistory.com/375",
+  "title": "삼성 라이온즈 한국시리즈 우승! KT에 4승 1패, 12년 만에 정상 탈환",
+  "published_at": "2026-11-09T15:25:21.000+09:00",
+  "collected_at": "2026-11-09T07:37:48.748Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

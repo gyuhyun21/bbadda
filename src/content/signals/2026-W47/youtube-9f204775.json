@@ -1,0 +1,27 @@
+{
+  "id": "youtube-9f204775",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "youtube",
+  "source_name": "알돈신잡",
+  "url": "https://www.youtube.com/watch?v=jIhkzeIqVqE",
+  "title": "롯데 원태인 8년 200억 영입설, 진짜일까? 1년 25억+보상금까지 #원태인 #원태인FA #롯데자이언츠",
+  "published_at": "2026-11-09T03:13:10Z",
+  "collected_at": "2026-11-09T07:37:48.748Z",
+  "summary_ko": "한 팬 채널은 롯데의 원태인 8년 200억 영입설이 사실인지 짚었다. 확인된 보도는 아니다.",
+  "metrics": {
+    "views": 1,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 4,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "원태인 8년 200억설 점검"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "community-4dffc6e2",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 tunakim0603님의 블로그",
+  "url": "https://blog.naver.com/tunakim0603/224470324229",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/JY1CW97wAdk",
+  "title": "KBO FA 전쟁 시작! 11월 9일 현재 상황｜10개 구단 주요 선수 총정리! 김호령·김태군·홍창기·박동원...",
+  "published_at": "2026-11-09T14:44:00.000+09:00",
+  "collected_at": "2026-11-09T07:37:48.748Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

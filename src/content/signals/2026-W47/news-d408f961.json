@@ -1,0 +1,23 @@
+{
+  "id": "news-d408f961",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "news",
+  "source_name": "엑스포츠뉴스",
+  "url": "https://www.xportsnews.com/article/2217517",
+  "title": "'이럴 수가' 한화, 와이스 재결합 불발→트로이 왓슨 선회?…\"ML 오퍼 받은 듯, 화이트 재계약 포함 대안 찾는 중\"",
+  "published_at": "2026-11-09T03:58:13.000Z",
+  "collected_at": "2026-11-09T07:37:48.748Z",
+  "summary_ko": "엑스포츠뉴스는 와이스 재결합이 불발되며 한화가 트로이 왓슨으로 선회했을 수 있다고 전했다. 화이트 재계약을 포함해 대안을 찾는 중이라는 내용이다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "와이스 불발, 왓슨 선회설"
+}

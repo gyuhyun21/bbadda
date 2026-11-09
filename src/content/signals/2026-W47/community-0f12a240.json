@@ -1,0 +1,24 @@
+{
+  "id": "community-0f12a240",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&page=8&document_srl=10536264108",
+  "title": "KBO 팀별 마지막 한국시리즈 우승 기념 일간지 광고(2026 ver.) - 야구",
+  "published_at": "2026-11-09T04:37:48.748Z",
+  "collected_at": "2026-11-09T07:37:48.748Z",
+  "summary_ko": "",
+  "excerpt": "... 삼성 라이온즈 - 2026년: \"여러분이 계셨기에 해낼 수 있었습니다\"LG 트윈스 - 2025년: \"무적의 주인공,…",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

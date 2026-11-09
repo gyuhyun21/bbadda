@@ -1,0 +1,23 @@
+{
+  "id": "news-285344d5",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "news",
+  "source_name": "조선일보",
+  "url": "https://www.chosun.com/sports/baseball/2026/11/09/MZQWEYZZMI3DQOJQMU3TONTFMY/",
+  "title": "한화 선수 '초비상', 한계 시험한다…사령탑이 말한 '캠프의 꽃', 공포의 '1000개 DAY' 다가온다 [미야자키 현장]",
+  "published_at": "2026-11-09T01:46:00.000Z",
+  "collected_at": "2026-11-09T07:37:48.748Z",
+  "summary_ko": "조선일보는 한화 미야자키 캠프의 '1000개 DAY'가 다가온다고 전했다. 사령탑이 캠프의 꽃이라 부르는 훈련이다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "미야자키, 1000개 DAY 예고"
+}

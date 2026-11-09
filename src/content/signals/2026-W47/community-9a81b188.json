@@ -1,0 +1,24 @@
+{
+  "id": "community-9a81b188",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 초록사과의 life 이야기 [일상/맛집/여행/스포츠]",
+  "url": "https://blog.naver.com/greenappleslife/224470231775",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/HGBnsa4d1zn",
+  "title": "홍창기 선수 프로필 총정리｜나이·연봉·FA 계약 전망",
+  "published_at": "2026-11-09T13:32:00.000+09:00",
+  "collected_at": "2026-11-09T07:37:48.748Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

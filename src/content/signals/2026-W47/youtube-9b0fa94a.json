@@ -1,0 +1,26 @@
+{
+  "id": "youtube-9b0fa94a",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "크보시리즈",
+  "url": "https://www.youtube.com/watch?v=y-qpZirzOvs",
+  "title": "유도영 시대 개막, 3루는 오디션 중 #KIA타이거즈 #김도영",
+  "published_at": "2026-11-09T07:30:52Z",
+  "collected_at": "2026-11-09T07:37:48.748Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 137,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 25,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

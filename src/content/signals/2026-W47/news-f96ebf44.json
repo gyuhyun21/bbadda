@@ -1,0 +1,23 @@
+{
+  "id": "news-f96ebf44",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "뉴시스",
+  "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1wTDZqR2lDN1dUYVU2VGxWV0hVT0JocUNRczJzZ2c3ZHZ4YW5zRlVwcTgzMmpJdjRPV09vWHlfN0dPVHcyT1NyUFEzRXRfUWxnSC1xbFJPRVU2M0hjNVlPalRjcS02QVpUMml1VmYyd28tTHlmRGQwZNIBeEFVX3lxTE1wTDZqR2lDN1dUYVU2VGxWV0hVT0JocUNRczJzZ2c3ZHZ4YW5zRlVwcTgzMmpJdjRPV09vWHlfN0dPVHcyT1NyUFEzRXRfUWxnSC1xbFJPRVU2M0hjNVlPalRjcS02QVpUMml1VmYyd28tTHlmRGQwZA?oc=5",
+  "title": "김응용·김성근, 잠실 고별전서 시구…선발 박철순·포수 이만수 호흡",
+  "published_at": "2026-11-09T01:54:28.000Z",
+  "collected_at": "2026-11-09T07:37:48.748Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

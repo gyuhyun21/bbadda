@@ -1,0 +1,24 @@
+{
+  "id": "community-d5e02fc0",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "엠엘비파크",
+  "url": "https://mlbpark.donga.com/mp/b.php?id=202611070119946612&p=211&b=kbotown&m=view&site=facebook.com",
+  "title": "한국시리즈에서 언더독이 패승승으로 시작한 사례들",
+  "published_at": "2026-11-06T15:00:00.000Z",
+  "collected_at": "2026-11-09T07:37:48.748Z",
+  "summary_ko": "",
+  "excerpt": "... ... 두산 베어스 (정규 3위) vs. 삼성 라이온즈 (정규 1위) 최종 4승 2패 우승…",
+  "metrics": {},
+  "scores": {
+    "hot": 45,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

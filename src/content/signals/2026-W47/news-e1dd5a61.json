@@ -1,0 +1,23 @@
+{
+  "id": "news-e1dd5a61",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "서울신문",
+  "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1YS0RmdndMaGZlY2I2dld4ZklEOE1raTJWOTBkR3VBTEJfNVVfM0xKYUdleF9qclhrc0lEbXRzb2VKMmgxYllyQ3pKUzlpM3Y4b2syZi1lOUdwV1lDTGsxRk1Vak5iUV9HSFliSw?oc=5",
+  "title": "한국시리즈 대참사는 다 내 탓...자책의 눈물 뚝뚝 흘린 안현민",
+  "published_at": "2026-11-09T04:23:17.000Z",
+  "collected_at": "2026-11-09T07:37:48.748Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

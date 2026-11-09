@@ -1,0 +1,27 @@
+{
+  "id": "youtube-10e225be",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "큠플릭스",
+  "url": "https://www.youtube.com/watch?v=Xg-gRpq3ufE",
+  "title": "[숏플릭스]누가 봐도 안타인데 이걸 잡아버린 염승원ㄷㄷ",
+  "published_at": "2026-11-09T05:51:37Z",
+  "collected_at": "2026-11-09T07:37:48.748Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 752,
+    "likes": 6,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 41,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

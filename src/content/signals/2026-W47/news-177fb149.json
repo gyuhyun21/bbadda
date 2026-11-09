@@ -1,0 +1,24 @@
+{
+  "id": "news-177fb149",
+  "issue": "2026-W47",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "데일리스포츠한국",
+  "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE81U19ISFRQRGdJdnpLRzlsdU4xOGtZeE80c0puQ0dwbU1SR0ZaNnFqZkY1cGV4NEFUc2dtNXJGeTczcVlwMFhTVnpIblZ2SFk4OG1odjdxQXpTREVCbHVyYTdWeVREYjZKaUhfcjBXaEc5VzRuM1ZmdXhwc9IBf0FVX3lxTE10VG93cDByRlhaaTJqWHNucjR4RGQtWU1KTUYtU1RWV1BVNDlMSVRNTzcydEs0Um14a25uYTVQUDNUMXpRWEY2Sy10OGJ2ZEwzMXo4aUp5cThsT0JlNVZodXV5LWxaTVM0ajdMR2dwMW1iY25HajFTSXFRdWhaelU?oc=5",
+  "title": "‘대어’ 구자욱·원태인에 수비형 외야수까지…FA 시장 판 커진다",
+  "published_at": "2026-11-09T02:08:57.000Z",
+  "collected_at": "2026-11-09T07:37:48.748Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

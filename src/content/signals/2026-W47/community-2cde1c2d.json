@@ -1,0 +1,22 @@
+{
+  "id": "community-2cde1c2d",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 서울대 의대 보낸 박사 아빠의 학습 노하우",
+  "url": "https://blog.naver.com/drmathcnt/224470379661",
+  "title": "12년만의 삼성 라이온즈 우승을 축하합니다~~",
+  "published_at": "2026-11-09T15:23:00.000+09:00",
+  "collected_at": "2026-11-09T07:37:48.748Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

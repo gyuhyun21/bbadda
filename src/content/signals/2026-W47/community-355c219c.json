@@ -1,0 +1,23 @@
+{
+  "id": "community-355c219c",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 ffakim 님의 블로그",
+  "url": "https://ffakim.com/31",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/6XcS4v0epya",
+  "title": "2026 프로야구 시즌 결산: 정규시즌 1위 KT, 기록으로 본 한 해",
+  "published_at": "2026-11-09T16:18:08.000+09:00",
+  "collected_at": "2026-11-09T07:37:48.748Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "youtube-b44955c7",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "youtube",
+  "source_name": "롯데자이언츠 역대급랭킹",
+  "url": "https://www.youtube.com/watch?v=XNhelM3YAzg",
+  "title": "[롯데 역대급] 형제가 동시에 터졌다… 손브라더스 홈런 TOP4 ⚾ #shorts",
+  "published_at": "2026-11-09T03:33:39Z",
+  "collected_at": "2026-11-09T07:37:48.748Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1154,
+    "likes": 7,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 41,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

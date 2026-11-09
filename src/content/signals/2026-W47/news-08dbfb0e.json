@@ -1,0 +1,24 @@
+{
+  "id": "news-08dbfb0e",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "announcement": true,
+  "source_name": "MHN스포츠",
+  "url": "https://mhnse.com/news/articleView.html?idxno=1689357",
+  "title": "[오피셜]이렇게 또 한 팀이 지워졌다 롯데, 박종훈 영입전서 발 뺐다...하지만 아직 포기할 단계 아니다",
+  "published_at": "2026-11-09T01:26:36.000Z",
+  "collected_at": "2026-11-09T07:37:48.748Z",
+  "summary_ko": "MHN스포츠는 롯데가 박종훈 영입전에서 발을 뺐다고 전했다. 아직 포기할 단계는 아니라는 시각도 함께 실었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "박종훈 영입전서 발 뺐다"
+}

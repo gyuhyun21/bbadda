@@ -1,0 +1,24 @@
+{
+  "id": "community-e355525c",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/10536308747",
+  "title": "펨코엔 4k 영상은 죽었다 깨도 못올리는거지? - 야구",
+  "published_at": "2026-11-09T04:37:48.748Z",
+  "collected_at": "2026-11-09T07:37:48.748Z",
+  "summary_ko": "",
+  "excerpt": "... 기아타이거즈 올 시즌 실책 순위 [4]. 5 분 전 자유 첼붕이 ...",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}
