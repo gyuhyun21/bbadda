@@ -1,0 +1,26 @@
+{
+  "id": "youtube-3d583368",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "youtube",
+  "source_name": "랜더스 이즈",
+  "url": "https://www.youtube.com/watch?v=dpFAZH_WD-M",
+  "title": "[최광야구1429 연습 비하인드] 박종훈의 \"바람 팬들 많이 웃는 거\"  #ssg랜더스 #야구 #ssglanders #최광야구 #박종훈 #최정",
+  "published_at": "2026-11-10T14:55:59Z",
+  "collected_at": "2026-11-10T21:37:37.207Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1061,
+    "likes": 11,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 41,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

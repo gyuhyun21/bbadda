@@ -1,0 +1,23 @@
+{
+  "id": "news-ad37b860",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "남도일보",
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE41OGROMDFKc0ZhSTAtQnNCX0VNWWZ1eS1IS2NwUE1PdlpZM0otN3hpZ0huNHE3SzBJZU9zRzA5MEdPNFkwUTc0emFreE02MXFBTDRtTGdQRlBSUi11ZEVkOThOdW9LUHN3dEp0YXAxSV_SAXBBVV95cUxONThkTjAxSnNGYUkwLUJzQl9FTVlmdXktSEtjcFBNT3ZaWTNKLTd4aWdIbjRxN0swSWVPc0cwOTBHTzRZMFE3NHpha3hNNjFxQUw0bUxnUEZQUlItdWRFZDk4TnVvS1Bzd3RKdGFwMUlf?oc=5",
+  "title": "가을야구서 드러난 KIA의 약점…스토브리그 승부처는 ‘뎁스 강화’",
+  "published_at": "2026-11-10T06:41:00.000Z",
+  "collected_at": "2026-11-10T21:37:37.207Z",
+  "summary_ko": "남도일보는 가을야구에서 드러난 KIA의 약점으로 뎁스를 꼽으며 스토브리그 승부처가 뎁스 강화라고 짚었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "스토브리그 승부처는 뎁스"
+}

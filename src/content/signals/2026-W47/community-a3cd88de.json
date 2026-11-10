@@ -1,0 +1,23 @@
+{
+  "id": "community-a3cd88de",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 언덕위의작은집 이야기 (로비의 스포츠 칼럼)",
+  "url": "https://blog.naver.com/kshabsolute1/224472157817",
+  "title": "[KBO] 고영표·안현민, 한국시리즈 패배에 SNS 사과문까지?…프로야구 선수가 패배했다고 죄송해야 하나!",
+  "published_at": "2026-11-11T02:00:00.000+09:00",
+  "collected_at": "2026-11-10T21:37:37.207Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

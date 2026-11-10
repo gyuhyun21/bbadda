@@ -1,0 +1,23 @@
+{
+  "id": "news-1f954e15",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "마이데일리",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1yaFU1S3NJd1cwRFZVcTFYOVpVVXlidjFwemZweTdCelk3ZS1PeWpZdXdOd3dxX18xR1F3Z2w1ZzJBWmQyV2RaWmFNOTZ1WE91TUZZc1FlaWs5UXp0VE0xQw?oc=5",
+  "title": "'와' 이래서 김도영이 슈퍼스타인가, 일본도 눈여겨본다…\"KIM 지난해 부상으로 어려움 겪었는데 화려하게 부활, ML 향한 시험대\"",
+  "published_at": "2026-11-10T10:41:00.000Z",
+  "collected_at": "2026-11-10T21:37:37.207Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 72,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

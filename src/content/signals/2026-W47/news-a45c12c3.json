@@ -1,0 +1,22 @@
+{
+  "id": "news-a45c12c3",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "대구MBC",
+  "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5ZZ25TNDVGanVURFFxeFFybkhHdzJIazhITG1BSklRYmdNUEZpZUpwRkNBckhiRGgtalR4S01waFBzU214bDVXYmNWa1A?oc=5",
+  "title": "돌아온 최형우·첫 우승 강민호···한국시리즈 정상 이끌다-V9삼성②",
+  "published_at": "2026-11-10T04:06:53.000Z",
+  "collected_at": "2026-11-10T21:37:37.207Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 62,
+    "relevance": 80
+  },
+  "sentiment": "positive"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "community-0329a171",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 스포츠니",
+  "url": "https://sportdaily.tistory.com/51",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/9uSpN31VtBx",
+  "title": "삼성 라이온즈 한국시리즈 우승, 1패 뒤 4연승을 만든 5회 8득점",
+  "published_at": "2026-11-11T05:29:51.000+09:00",
+  "collected_at": "2026-11-10T21:37:37.207Z",
+  "summary_ko": "한 블로그는 삼성이 1패 뒤 4연승으로 우승했다며 5회 8득점 장면을 흐름이 바뀐 순간으로 짚었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

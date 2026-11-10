@@ -1,0 +1,24 @@
+{
+  "id": "news-bf2334c1",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "더게이트",
+  "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE85TTZ2SC1RMnNCWE5YczdrUF85OFkwRktTTzNQWlZ1amFnNXNhTnFBWlh0Um5PdkRCNGJ5eHptQmc3My1oc3RpZ2dCQVlMaDE3cUhFcFhJNFhDSGpTOFFqU0N5bnpiWWdROHV6YQ?oc=5",
+  "title": "\"삼진 4개 당해도 투수 생각 없다\"…돌아갈 다리 불태운 장재영, '거포 1루수' 변신 기대하세요 |",
+  "published_at": "2026-11-10T14:11:04.000Z",
+  "collected_at": "2026-11-10T21:37:37.207Z",
+  "summary_ko": "더게이트는 키움 장재영이 삼진을 4개 당해도 투수로 돌아갈 생각은 없다며 거포 1루수 변신을 예고했다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "장재영, 거포 1루수로 간다"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "youtube-bbc6405b",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "다이아몬드썰",
+  "url": "https://www.youtube.com/watch?v=tVZRX5x9Z40",
+  "title": "시작부터 시끌 캠프 훈련 현장",
+  "published_at": "2026-11-10T14:27:44Z",
+  "collected_at": "2026-11-10T21:37:37.207Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1209,
+    "likes": 4,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 36,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

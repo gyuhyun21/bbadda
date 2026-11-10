@@ -1,0 +1,23 @@
+{
+  "id": "news-683c1a8b",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스타뉴스",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1FazlsN1FvRFlpN3RhMnhnZWVNNjVmQjlvQkg3Mkh1RWVoZ2tjcndvc2F6Zk1qcHRFcGFIQlhBcEZPV05pbE9vRjQ3UlVqS2cxN3BkYzF2eUVBSWZnaGp6V2hWaHU0b3Utd3lfOUh1ZzV5SVczZ1E?oc=5",
+  "title": "\"팬 마음 다치게 했다\" 장안문 지킴이도 고개 숙였다... 7이닝 1실점→3일 쉬고 8실점 악몽 \"대구까지 오셨는데 보여선 안 될 경기력이었다\"",
+  "published_at": "2026-11-10T10:10:00.000Z",
+  "collected_at": "2026-11-10T21:37:37.207Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 72,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

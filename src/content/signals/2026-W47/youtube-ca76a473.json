@@ -1,0 +1,27 @@
+{
+  "id": "youtube-ca76a473",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha",
+    "ssg"
+  ],
+  "source_type": "youtube",
+  "source_name": "김알 - 김팀장이 알아봤다!",
+  "url": "https://www.youtube.com/watch?v=2atyG22gtKw",
+  "title": "2026 U-23 야구대표팀 24명 공개! ⚾ 한화·SSG 공동 최다? 구단별 선수 명단 총정리 🇰🇷 #한국야구 #U23야구월드컵 #Shorts",
+  "published_at": "2026-11-10T13:08:44Z",
+  "collected_at": "2026-11-10T21:37:37.207Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1913,
+    "likes": 5,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 38,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

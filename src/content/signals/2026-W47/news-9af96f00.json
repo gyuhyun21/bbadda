@@ -1,0 +1,23 @@
+{
+  "id": "news-9af96f00",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "OSEN",
+  "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE14T2FEenhaTENiTlZ2RV80MXFTN2JPZV8tQXJ0YUp4Z2xqd1ZPOUlrWk9Vb3dRVjFrTENjbUQ1NVhPbkpZWTVRMDhiYnhPQkx2ZENr?oc=5",
+  "title": "[사진]카스트로,'홈런이야'",
+  "published_at": "2026-11-10T17:28:23.000Z",
+  "collected_at": "2026-11-10T21:37:37.207Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

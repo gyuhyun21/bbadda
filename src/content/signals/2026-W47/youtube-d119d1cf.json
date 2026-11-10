@@ -1,0 +1,27 @@
+{
+  "id": "youtube-d119d1cf",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "엘냠씨",
+  "url": "https://www.youtube.com/watch?v=asie_uxC7uk",
+  "title": "엘냠씨 쥐불놀이 관제탑 댄스 한정 풀버전 #엘지 #엘지트윈스 #삼성라이온즈 #LG #LG트윈스 #KBO #야구 #야구팬 #크보 #프로야구 #야구리뷰 #야구분석 #엘냠씨",
+  "published_at": "2026-11-10T13:19:52Z",
+  "collected_at": "2026-11-10T21:37:37.207Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 185,
+    "likes": 16,
+    "comments": 16
+  },
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

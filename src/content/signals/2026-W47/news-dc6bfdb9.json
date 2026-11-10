@@ -1,0 +1,22 @@
+{
+  "id": "news-dc6bfdb9",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "news",
+  "source_name": "MHN스포츠",
+  "url": "https://mhnse.com/news/articleView.html?idxno=1691688",
+  "title": "키움서 방출된 '악동' 푸이그 \"현재 MLB 선수들 상당수보다 내가 뛰어나다\"…빅리그 복귀 자신감 \"이제는 달라졌다\"",
+  "published_at": "2026-11-10T09:02:49.000Z",
+  "collected_at": "2026-11-10T21:37:37.207Z",
+  "summary_ko": "MHN스포츠는 키움에서 방출된 푸이그가 지금 메이저리그 선수 상당수보다 자신이 낫다며 빅리그 복귀 자신감을 보였다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 80
+  },
+  "sentiment": "mixed"
+}

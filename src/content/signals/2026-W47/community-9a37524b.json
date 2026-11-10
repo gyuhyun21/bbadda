@@ -1,0 +1,24 @@
+{
+  "id": "community-9a37524b",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 포스트진",
+  "url": "https://blog.naver.com/oneallrim/224472349450",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/1AVH2Om7Qo5",
+  "title": "2026 야구 한일전 11월 13일 오후 7시, 중계 채널과 한국 대표팀 명단",
+  "published_at": "2026-11-11T01:29:00.000+09:00",
+  "collected_at": "2026-11-10T21:37:37.207Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

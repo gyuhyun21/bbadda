@@ -1,0 +1,27 @@
+{
+  "id": "youtube-746632f5",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "으니요",
+  "url": "https://www.youtube.com/watch?v=TiDdFf8pW9M",
+  "title": "야구장에 나타난 하이템플러의 정체",
+  "published_at": "2026-11-10T10:30:00Z",
+  "collected_at": "2026-11-10T21:37:37.207Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 4500,
+    "likes": 25,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 44,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

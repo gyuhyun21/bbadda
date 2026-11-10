@@ -1,0 +1,24 @@
+{
+  "id": "news-376e0aa8",
+  "issue": "2026-W47",
+  "module": "rivalry",
+  "team": "lg",
+  "teams": [
+    "lg",
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "조선일보",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRmxvMTd6c2VacXNIRlY3dXFZZjVxUjVaVUV0NTdJNlZKMnV5R2FrOXd3M1E0bXRMMUdVamFOZFF4S3NXUXBzdjI2dVNIMWlPWGpfcUZibW5SOE41YWFGNG1ockZJVDBPb1VubHVzQW9NdkhBWUljQ1lRWVBDcEV3Z3gzVQ?oc=5",
+  "title": "\"꼭 잡겠다\" 왜 얘기 못하나...분위기가 심상치 않다, FA 포수 대격변 일어날까",
+  "published_at": "2026-11-10T16:17:00.000Z",
+  "collected_at": "2026-11-10T21:37:37.207Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

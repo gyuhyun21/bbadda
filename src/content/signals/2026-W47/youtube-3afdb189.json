@@ -1,0 +1,26 @@
+{
+  "id": "youtube-3afdb189",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "youtube",
+  "source_name": "인사이트스포츠",
+  "url": "https://www.youtube.com/watch?v=u3-dySFD13o",
+  "title": "SSG 랜더스 2026 시즌 결산｜6위인데 미래가 더 기대되는 이유 (김민준·박성한·아빌라·정준재)",
+  "published_at": "2026-11-10T13:50:24Z",
+  "collected_at": "2026-11-10T21:37:37.207Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 5648,
+    "likes": 84,
+    "comments": 19
+  },
+  "scores": {
+    "hot": 55,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

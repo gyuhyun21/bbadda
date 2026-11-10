@@ -1,0 +1,23 @@
+{
+  "id": "news-c9033f4f",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스핌",
+  "url": "https://www.newspim.com/news/view/20261109001360",
+  "title": "[핌 포커스] 우승 문턱 좌절 KT, FA '37세 베테랑' 김상수 붙잡을까",
+  "published_at": "2026-11-10T20:41:00.000Z",
+  "collected_at": "2026-11-10T21:37:37.207Z",
+  "summary_ko": "뉴스핌은 우승 문턱에서 멈춘 KT가 37세 FA 김상수를 붙잡을지 짚었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "brief_ko": "37세 김상수, KT에 남을까"
+}

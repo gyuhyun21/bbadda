@@ -1,0 +1,30 @@
+{
+  "id": "news-c3c01661",
+  "issue": "2026-W47",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스타뉴스",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE94STJ3c1BEbmtHUGd1WHVna19GMWJ3Ynk4aHk5VHRNNmw2eWx4RnJvaGxHZWlzcXJTZ2ZUbndZOTNENk9vNHFhZkN2a2tZSG03cEZxM2x5TDVXc2JFZTRqekx4RVBYNnZFOTB5MHNYMFdwMnJCTFE?oc=5",
+  "title": "\"염치없지만 내년에도 응원 부탁드립니다\" 눈물 펑펑 쏟은 23세 신인왕의 절절한 반성문, 다시 태극마크 달고 도쿄로 향한다",
+  "published_at": "2026-11-10T08:02:24.000Z",
+  "collected_at": "2026-11-10T21:37:37.207Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 87,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9RZVNzT1k4M1pzdnpmQXZZNFJfVURyd0NsY05xb3hHVU5JeGZvY0lkT2RIaUlFZWdyRGlidDNqSXZqQUk2MUgzbnQ1T3dQVHB6aFRlTGhraGFlRmpVdXE2M3d4T0ZsQUJzVlHSAW9BVV95cUxNQ25MU244S3FyYjdmTU5CSElfMW10SHZvQ3ZzRDhnckFJVld3dXI2emZrUGRWaF9VUmVQeE5pdmVkUW14NUZQYmtucVJtNlBWQ2Y5UGl6c2FTX0xrWlJNSnVMQUpjUzBRMGV3V3EzanM?oc=5"
+    }
+  ]
+}

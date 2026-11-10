@@ -1,0 +1,22 @@
+{
+  "id": "news-a3b1b140",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "news",
+  "source_name": "노컷뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0tVWZZaHdZOFBxTHlXMHVhZ0hadzdGVF9rRmNwS0Z3bUYyYUdoMEhkM3oxT2NIc29PWnpNVWU2YkRRaUEyUm9ac0dmMUhhN185VWc?oc=5",
+  "title": "준우승 고개 숙인 kt…고영표·안현민 \"내년엔 다른 모습 보이겠다\"",
+  "published_at": "2026-11-10T09:11:58.000Z",
+  "collected_at": "2026-11-10T21:37:37.207Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

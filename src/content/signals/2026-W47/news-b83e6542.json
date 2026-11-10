@@ -1,0 +1,22 @@
+{
+  "id": "news-b83e6542",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "경향신문",
+  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBsdFVzRnNTcWtSQm9CWnFEcFFzWGlrM2h1UGliNkVlVWJRek4yaE5NNEUwUVZ4WnNFSmhoMG92Tkk5eGxCem9seWhETWdhNnVSNGZCeGhydndCZw?oc=5",
+  "title": "삼성, 이제는 내부 ‘머니 게임’…구자욱·원태인 FA 계약 주목",
+  "published_at": "2026-11-10T11:23:00.000Z",
+  "collected_at": "2026-11-10T21:37:37.207Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 80
+  },
+  "sentiment": "neutral"
+}

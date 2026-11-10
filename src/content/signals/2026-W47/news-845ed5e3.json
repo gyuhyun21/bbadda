@@ -1,0 +1,29 @@
+{
+  "id": "news-845ed5e3",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "announcement": true,
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBMSFJhR3RwRlZ3Uy1GTHJneXR4WVZhd3VBTk10Y0k1d3lSNm1RcnVJN2hjMlNHYm1uQVVOUjQ2MGRVMzQ1cFZJalFDa3hVTWo3RVh1bTlMcERXNk1OUGcwTXh3ZTBRY2ZydUx1SUdNVdIBb0FVX3lxTFBMSFJhR3RwRlZ3Uy1GTHJneXR4WVZhd3VBTk10Y0k1d3lSNm1RcnVJN2hjMlNHYm1uQVVOUjQ2MGRVMzQ1cFZJalFDa3hVTWo3RVh1bTlMcERXNk1OUGcwTXh3ZTBRY2ZydUx1SUdNVQ?oc=5",
+  "title": "[오피셜] '김도영 유격수 마침내 현실화' KIA 전격 초빙한 주인공 누구? WBC 日 대표팀 코치가 왔다",
+  "published_at": "2026-11-10T16:27:00.000Z",
+  "collected_at": "2026-11-10T21:37:37.207Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1yYUNpVThERlRhc09ib3FaTTlJWDlWM0FMa2cxbTltRENMSUV0dlREa1Q0RFJxeS1LUWJaekRMVkswZkVVZWx1ZEhCbkVNcEtTWmVPNmhkelpLckwwV2l3X0FRT1V1U2Jpa0dGSTRLRzNkVkEtVUE?oc=5"
+    }
+  ]
+}

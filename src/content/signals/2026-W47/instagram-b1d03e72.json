@@ -1,0 +1,26 @@
+{
+  "id": "instagram-b1d03e72",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "instagram",
+  "official": true,
+  "source_name": "Instagram @heroesbaseballclub",
+  "url": "https://www.instagram.com/p/Dfi5nGREoNw/",
+  "title": "키움 히어로즈 공식 인스타그램: 2026 아시아 윈터 베이스볼 리그⚾",
+  "published_at": "2026-11-10T03:05:30+0000",
+  "collected_at": "2026-11-10T21:37:37.207Z",
+  "summary_ko": "",
+  "metrics": {
+    "likes": 1044,
+    "comments": 22
+  },
+  "scores": {
+    "hot": 61,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

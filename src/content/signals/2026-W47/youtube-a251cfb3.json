@@ -1,0 +1,27 @@
+{
+  "id": "youtube-a251cfb3",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "크보쌍둥이",
+  "url": "https://www.youtube.com/watch?v=BY3KBLk9ESI",
+  "title": "삼성 기아 PO때 골프를?! 소형준 장성우 무슨일이?   #kt위즈 #장성우 #소형준",
+  "published_at": "2026-11-10T16:41:09Z",
+  "collected_at": "2026-11-10T21:37:37.207Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 27449,
+    "likes": 383,
+    "comments": 118
+  },
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

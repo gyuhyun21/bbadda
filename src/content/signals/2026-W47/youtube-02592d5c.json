@@ -1,0 +1,26 @@
+{
+  "id": "youtube-02592d5c",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "호랑이굴",
+  "url": "https://www.youtube.com/watch?v=oMl8cNz7VEk",
+  "title": "정현창이 프로에 지명받은 이유는 이대호 덕분?? #기아타이거즈 #야구 #프로야구",
+  "published_at": "2026-11-10T12:51:56Z",
+  "collected_at": "2026-11-10T21:37:37.207Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 13793,
+    "likes": 139,
+    "comments": 9
+  },
+  "scores": {
+    "hot": 54,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "news-104dc014",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "영남일보",
+  "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5hNXlCLUtIaGE2UkR5N0FnWWJnUlY0Z2pjNjFHbi1YQ1dhVU1aYmlkSy0xZTlWTGRfb2pMa21PdEE4eFVUcXhYaWhTOGlydWNSTTZ1Z3lwanN1ZE1QaG9OUEN4SUlkRzRhZGFF?oc=5",
+  "title": "삼성 우승에 대구 상권 ‘들썩’… 소상공인 할인 잔치, 계열사는 언제?",
+  "published_at": "2026-11-10T11:14:02.000Z",
+  "collected_at": "2026-11-10T21:37:37.207Z",
+  "summary_ko": "영남일보는 삼성 우승으로 대구 상권이 들썩이며 소상공인 할인 행사가 이어진다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}
