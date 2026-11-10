@@ -48,12 +48,12 @@
         {
           "at": 4.6,
           "text": "56!",
-          "style": "pop"
+          "style": "pop",
+          "pos": "low"
         }
       ],
       "motion_sec": 7.0,
       "motion_note": "가로 막대 그래프 두 줄: 위 '일본 기록 55'(회색)가 먼저 차오르고, 아래 '이승엽'(노랑)이 55에서 멈칫한 뒤 56으로 툭 넘어선다. 막대 끝에 '당시 아시아 최다' 꼬리표가 붙는다.",
-      "motion": true,
       "composition": "lee-bar"
     },
     {
@@ -94,19 +94,19 @@
         {
           "at": 2.0,
           "text": "아쉽다",
-          "style": "mind"
+          "style": "mind",
+          "pos": "low"
         }
       ],
       "motion_sec": 4.0,
       "motion_note": "잠자리채 아이콘이 관중석 실루엣 위로 올라오다가, 빨간 동그라미에 사선이 그어지는 금지 표시가 덮인다.",
-      "motion": true,
       "composition": "net-ban"
     }
   ],
   "end": {
     "kick": "다음 편",
     "head": "홈런 치고 아웃?",
-    "cta": "직관 때 옆 사람한테 써먹어 봐",
+    "cta": "궁금하면 좋아요 눌러 둬",
     "say": "a5.mp3",
     "text": "다음 편은 홈런 치고도 아웃된 이야기, 궁금하면 좋아요 눌러 둬."
   }

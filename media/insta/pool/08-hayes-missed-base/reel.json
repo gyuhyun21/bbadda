@@ -46,7 +46,6 @@
       "note": "출처: 공식야구규칙 5.06(b)(1)",
       "motion_sec": 4.0,
       "motion_note": "위에서 내려다본 다이아몬드. 주자 점이 홈→1루→2루→3루→홈 순서로 노란 선을 그리며 돌고, 지나가는 베이스마다 체크 표시가 켜진다.",
-      "motion": true,
       "composition": "diamond"
     },
     {
@@ -54,14 +53,14 @@
       "src": "clip3.mp4",
       "from": 0,
       "to": 12,
-      "credit": "Crackpot Sports",
-      "yt": "WlDUktFk-IU",
+      "credit": "Starr Cards",
+      "yt": "Yzhyhw4xZHY",
       "say": "a3.mp3",
       "text": "이천이십일 년 피츠버그 헤이스가 일루를 안 밟고 지나쳤어. 다저스가 어필했고, 아웃.",
       "kick": "2021년 6월 8일",
       "head": "1루를<br><b>안 밟았다</b>",
       "sub": "헤이스 1루 미밟음, 다저스 어필로 아웃",
-      "note": "출처: MLB.com·ESPN · 영상: Crackpot Sports",
+      "note": "출처: MLB.com·ESPN · 영상: Starr Cards",
       "freeze": {
         "at": 1.2,
         "dur": 0.8
@@ -87,12 +86,12 @@
         {
           "at": 0.4,
           "text": "심판은 가만?",
-          "style": "think"
+          "style": "think",
+          "pos": "low"
         }
       ],
       "motion_sec": 4.0,
       "motion_note": "같은 다이아몬드에서 1루만 빨갛게 깜빡이고, 수비 쪽에서 '어필' 말풍선이 뜬 뒤 화면 가운데에 'OUT' 도장이 찍힌다.",
-      "motion": true,
       "composition": "appeal"
     }
   ],

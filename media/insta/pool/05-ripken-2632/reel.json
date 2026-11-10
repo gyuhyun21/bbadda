@@ -24,7 +24,7 @@
       "say": "a1.mp3",
       "text": "이 선수, 십육 년 동안 경기를 한 번도 안 빠졌어.",
       "kick": "다시는 안 나올 기록 #2",
-      "head": "16년 동안<br><b>하루도</b> 안 쉬었다",
+      "head": "16년 동안<br><b>한 경기도</b> 안 빠졌다",
       "sub": "16년 동안 한 경기도 안 빠진 선수",
       "note": "출처: MLB.com·Britannica · 영상: MLB",
       "fx": [
@@ -50,7 +50,6 @@
       },
       "motion_sec": 7.0,
       "motion_note": "가운데 큰 숫자가 0에서 2,632까지 빠르게 올라간다(마지막 0.5초는 천천히 멈춤). 뒤 배경에 1982~1998 연도 줄 17개가 위에서부터 노랗게 채워진다.",
-      "motion": true,
       "composition": "ripken"
     },
     {
@@ -87,16 +86,8 @@
       "head": "기록을 끝낸 건<br><b>본인</b>",
       "sub": "1998.9.20 스스로 빠지며 마침표",
       "note": "출처: MLB.com·Britannica",
-      "fx": [
-        {
-          "at": 2.4,
-          "text": "마침표",
-          "style": "stamp"
-        }
-      ],
       "motion_sec": 4.0,
       "motion_note": "달력 칸이 1998년 9월 19일에서 멈추고, 다음 칸 9월 20일에 빨간 X가 그어진다. 그 위로 '본인 선택' 글자가 도장처럼 찍힌다.",
-      "motion": true,
       "composition": "ripken-end"
     }
   ],

@@ -48,12 +48,12 @@
         {
           "at": 3.4,
           "text": "전통!",
-          "style": "pop"
+          "style": "pop",
+          "pos": "low"
         }
       ],
       "motion_sec": 5.5,
       "motion_note": "가로 타임라인이 1870년대에서 지금으로 흘러간다. 앞쪽엔 배트를 든 감독 아이콘('선수 겸 감독'), 뒤로 갈수록 벤치에 선 감독 아이콘으로 바뀌는데 유니폼 색은 끝까지 같다.",
-      "motion": true,
       "composition": "timeline"
     },
     {
@@ -67,7 +67,6 @@
       "note": "출처: MLB.com·SABR",
       "motion_sec": 5.0,
       "motion_note": "위에서 본 야구장에 같은 노란 유니폼 점들이 서 있고, '감독' 점 하나가 더그아웃 쪽에서 마운드로 걸어 나간다. 펜스 밖 왼쪽 아래에 회색 '정장?' 표시가 흐릿하게 나타난다.",
-      "motion": true,
       "composition": "on-field"
     },
     {
