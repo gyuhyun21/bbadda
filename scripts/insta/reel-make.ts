@@ -149,8 +149,12 @@ spec.segments.forEach((s, i) => {
   const end = Number(d), extra: string[] = [];
   const win = (c: Cue | undefined, def: number, name: string) => {
     if (!c) return undefined;
-    if (!(c.at >= 0 && c.at < end)) { console.error(`경고: ${i + 1}번 장면 ${name} 시각 ${c.at}초가 장면 길이 ${d}초 밖 — 뺌`); return undefined; }
-    return [c.at, Math.min(c.at + (c.dur ?? def), end)] as const;
+    const warn = (m: string) => console.error(`경고: ${i + 1}번 장면 ${name} ${m}`);
+    if (typeof c.at !== 'number' || !(c.at >= 0 && c.at < end)) { warn(`시각 ${JSON.stringify(c.at)}가 숫자가 아니거나 장면 길이 ${d}초 밖 — 뺌`); return undefined; }
+    if (c.dur !== undefined && !(typeof c.dur === 'number' && c.dur > 0)) { warn(`길이 ${JSON.stringify(c.dur)}가 0보다 큰 숫자가 아님 — 뺌`); return undefined; }
+    const b = c.at + (c.dur ?? def);
+    if (b > end && c.dur !== undefined) warn(`${c.at}+${c.dur}초가 장면 끝 ${d}초를 넘어 ${(end - c.at).toFixed(2)}초만 보임`);
+    return [c.at, Math.min(b, end)] as const;
   };
   let g = `${base},trim=0:${d},setpts=PTS-STARTPTS`;
   const fr = win(s.freeze, 0.8, 'freeze');
@@ -167,7 +171,11 @@ spec.segments.forEach((s, i) => {
     const style = f.style && FX_MOVE[f.style] ? f.style : (f.style && console.error(`경고: 효과 자막 스타일 ${f.style} 없음 — pop 으로`), 'pop');
     const mv = FX_MOVE[style], w = win(f, mv.dur, `fx "${f.text}"`);
     if (!w) return;
-    const [x, y] = Array.isArray(f.pos) ? f.pos : FX_POS[f.pos ?? mv.pos] ?? FX_POS.mid;
+    const okPos = Array.isArray(f.pos) && f.pos.length === 2 && f.pos.every((v) => typeof v === 'number' && Number.isFinite(v));
+    if (f.pos !== undefined && !okPos && !(typeof f.pos === 'string' && f.pos in FX_POS)) console.error(`경고: ${i + 1}번 장면 fx "${f.text}" pos ${JSON.stringify(f.pos)} 를 못 읽음 — ${mv.pos} 로`);
+    const [x, y] = okPos ? (f.pos as [number, number]) : FX_POS[(typeof f.pos === 'string' && f.pos in FX_POS ? f.pos : mv.pos) as keyof typeof FX_POS];
+    // 글 가운데가 가장자리 100px 안이면 글이 잘려 보인다
+    if (x < 100 || x > 980 || y < 100 || y > 1820) console.error(`경고: ${i + 1}번 장면 fx "${f.text}" pos [${x}, ${y}] 가 화면 가장자리라 글이 잘릴 수 있음`);
     const png = join(TMP, `f${i}_${k}.png`);
     shot(page(`<div class="fx ${style}" style="--cx:${x}px;--cy:${y}px${f.size ? `;font-size:${f.size}px` : ''}">${head(f.text)}</div>`), png);
     // 페이드는 시간에 따라 바뀌니 그림을 장면 길이만큼 늘려 넣는다
