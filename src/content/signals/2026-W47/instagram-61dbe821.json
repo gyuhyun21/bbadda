@@ -1,0 +1,26 @@
+{
+  "id": "instagram-61dbe821",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "instagram",
+  "official": true,
+  "source_name": "Instagram @always_kia_tigers",
+  "url": "https://www.instagram.com/reel/DfkDF4zzGht/",
+  "title": "KIA 타이거즈 공식 인스타그램: 야간 타격 훈련 중 🔥",
+  "published_at": "2026-11-10T13:52:27+0000",
+  "collected_at": "2026-11-10T21:37:37.207Z",
+  "summary_ko": "KIA 공식 인스타그램이 오키나와 캠프 야간 타격 훈련 모습을 올렸다.",
+  "metrics": {
+    "likes": 6326,
+    "comments": 45
+  },
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

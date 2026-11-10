@@ -1,0 +1,23 @@
+{
+  "id": "community-4ee206d8",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 지지투",
+  "url": "https://blog.naver.com/shining-25/224472276420",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/15r3Zghq6MO",
+  "title": "47경기밖에 못 뛰었는데 타율 0.292... 한화가 채은성을 다시 기다리는 이유",
+  "published_at": "2026-11-11T03:10:00.000+09:00",
+  "collected_at": "2026-11-10T21:37:37.207Z",
+  "summary_ko": "한 블로그는 47경기에서 타율 0.292를 친 채은성을 한화가 다시 기다리는 이유를 짚었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

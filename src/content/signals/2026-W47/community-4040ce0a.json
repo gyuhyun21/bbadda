@@ -1,0 +1,23 @@
+{
+  "id": "community-4040ce0a",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 GAVIS BASEBALL KBO 분석",
+  "url": "https://blog.naver.com/gavis_/224472384310",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/91YMAKHzjci",
+  "title": "KT 소형준 3주 동안 아주 잘 쉬었네... 한국시리즈 참사에 골프 논란까지, 결국 반성문까지",
+  "published_at": "2026-11-11T04:06:00.000+09:00",
+  "collected_at": "2026-11-10T21:37:37.207Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "news-ad7af660",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "무등일보",
+  "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBfalNLV3VXWmlkU1hfRjVzbUo2dHF2TlBHdDZBcEotV2pybjl5czNmNGNCNGNPQVFXWmhsUmRyNWdnRjB5TUFxeGdmUUw?oc=5",
+  "title": "FA 나서게 된 김호령·김태군+내야 재편까지···KIA의 복잡한 겨울",
+  "published_at": "2026-11-10T08:23:00.000Z",
+  "collected_at": "2026-11-10T21:37:37.207Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

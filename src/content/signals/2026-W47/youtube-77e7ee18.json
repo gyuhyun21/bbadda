@@ -1,0 +1,27 @@
+{
+  "id": "youtube-77e7ee18",
+  "issue": "2026-W47",
+  "module": "league",
+  "teams": [
+    "samsung"
+  ],
+  "team": "samsung",
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=n0js4nyarUs",
+  "title": "이 도시의 우승, 2026년 11월 8일 | 삼성라이온즈 KBO 리그 한국시리즈 우승 | 마지막편",
+  "published_at": "2026-11-10T12:31:28Z",
+  "collected_at": "2026-11-10T21:37:37.207Z",
+  "summary_ko": "KBO 공식 채널이 삼성의 한국시리즈 우승을 담은 「이 도시의 우승」 마지막편을 올렸다.",
+  "metrics": {
+    "views": 85610,
+    "likes": 2541,
+    "comments": 163
+  },
+  "scores": {
+    "hot": 79,
+    "relevance": 80
+  },
+  "sentiment": "positive"
+}

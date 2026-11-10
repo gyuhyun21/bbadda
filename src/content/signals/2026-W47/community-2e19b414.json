@@ -1,0 +1,23 @@
+{
+  "id": "community-2e19b414",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 tunakim0603님의 블로그",
+  "url": "https://blog.naver.com/tunakim0603/224471717652",
+  "title": "2026 KBO 방출선수 명단｜11월 10일 기준 10개 구단 재계약 불가·은퇴 정리",
+  "published_at": "2026-11-10T15:33:00.000+09:00",
+  "collected_at": "2026-11-10T21:37:37.207Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

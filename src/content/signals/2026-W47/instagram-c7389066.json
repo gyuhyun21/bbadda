@@ -1,0 +1,23 @@
+{
+  "id": "instagram-c7389066",
+  "issue": "2026-W47",
+  "module": "league",
+  "teams": [],
+  "source_type": "instagram",
+  "official": true,
+  "source_name": "Instagram @kbo.official",
+  "url": "https://www.instagram.com/p/DfjSBUVGkqQ/",
+  "title": "KBO 리그 공식 인스타그램: 가을, 그리고 야구",
+  "published_at": "2026-11-10T06:38:48+0000",
+  "collected_at": "2026-11-10T21:37:37.207Z",
+  "summary_ko": "",
+  "metrics": {
+    "likes": 30498,
+    "comments": 63
+  },
+  "scores": {
+    "hot": 63,
+    "relevance": 30
+  },
+  "sentiment": "neutral"
+}

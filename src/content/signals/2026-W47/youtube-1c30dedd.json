@@ -1,0 +1,26 @@
+{
+  "id": "youtube-1c30dedd",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "youtube",
+  "source_name": "불펜의시계",
+  "url": "https://www.youtube.com/watch?v=z0rpd8-TbuE",
+  "title": "LG 홈런이 터진 뒤 가장 바빠진 곳 TOP5",
+  "published_at": "2026-11-10T16:30:37Z",
+  "collected_at": "2026-11-10T21:37:37.207Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 361,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 28,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

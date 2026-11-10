@@ -1,0 +1,23 @@
+{
+  "id": "news-1ec79723",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBCcGNOa1ZPS3d5S1c0Z0NqbllCR3ZfTEVWanpteVVLdEwyRG5wN3I5WUlwb1BjX1hKTGhieDR2TURsUGtyUFQ4dW5CQm44Xy01akZZS3NFTUFuZHFpMVpOeTBqeVVNbXRSQ2pHZWlmTmlzYS1USDdaZFNlSXhQQQ?oc=5",
+  "title": "마무리 '단기 알바'가 31세이브 2위. 이제 다시 선발로. 목표는 160이닝. \"일찍 빌드업한다\"",
+  "published_at": "2026-11-10T15:29:21.000Z",
+  "collected_at": "2026-11-10T21:37:37.207Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

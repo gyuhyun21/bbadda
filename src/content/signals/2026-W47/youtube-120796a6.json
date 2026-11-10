@@ -1,0 +1,26 @@
+{
+  "id": "youtube-120796a6",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "MYKORI",
+  "url": "https://www.youtube.com/watch?v=NqWr9WN9IMo",
+  "title": "이건 진짜! '한국시리즈 우승 적중'_이용균기자  #삼성라이온즈 #지식편집실 #이용균",
+  "published_at": "2026-11-10T13:40:12Z",
+  "collected_at": "2026-11-10T21:37:37.207Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 20493,
+    "likes": 198,
+    "comments": 8
+  },
+  "scores": {
+    "hot": 55,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

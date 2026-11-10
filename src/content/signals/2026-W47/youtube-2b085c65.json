@@ -1,0 +1,26 @@
+{
+  "id": "youtube-2b085c65",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "youtube",
+  "source_name": "아이고롯데야 OMG LOTTE GIANTS",
+  "url": "https://www.youtube.com/watch?v=DLNERDvPoQA",
+  "title": "[문수현장음] 2026-10-30 LG트윈스 2 : 4 롱비치 코스트 | 9회초 부터 | 9회말 2아웃 끝내기 투런홈런 | 롱비치 결승 진출!",
+  "published_at": "2026-11-10T12:45:58Z",
+  "collected_at": "2026-11-10T21:37:37.207Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 195,
+    "likes": 3,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 37,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

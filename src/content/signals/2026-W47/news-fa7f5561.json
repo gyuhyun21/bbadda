@@ -1,0 +1,23 @@
+{
+  "id": "news-fa7f5561",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "news",
+  "source_name": "www.xportsnews.com",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5IYWItQkNQMnE1dVN6cDZVTVIzaXlMbE5DQ0cweURyR01XM0Q1VXg2b2JJYUZBR2VLRlFES1VfSDcwQ2J0VW55SndlcFVtX0FhdnBzTw?oc=5",
+  "title": "\"너구리 된다! 집중해!\"…SSG 외야수들 손에 쥐어진 '작은 글러브', 대체 무슨 사연이길래",
+  "published_at": "2026-11-10T15:29:15.000Z",
+  "collected_at": "2026-11-10T21:37:37.207Z",
+  "summary_ko": "엑스포츠뉴스는 SSG 외야수들이 작은 글러브로 훈련하는 사연을 전했다. \"너구리 된다, 집중해\"라는 말이 오갔다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "작은 글러브 든 외야수들"
+}

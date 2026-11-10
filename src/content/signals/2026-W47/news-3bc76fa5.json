@@ -1,0 +1,24 @@
+{
+  "id": "news-3bc76fa5",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "국제신문",
+  "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOGZKaEt4YllVZEk1MWFCRGhpdzlFX3RDVGhDbHB3SzBWdmMtZWYxVk9CZ0dkMUhGQXZIc3ptbWJDbjZIcEhVZkRoSU5jRkNIQUlLeWZUWkhFSFdoejh6Skt5bjFQRGpfSWNNVUJFQkxubHFmdGlKX1hGN05GaTRBaW1LblhnR1dMRGVfVF9BZUVBMTA?oc=5",
+  "title": "첫 지휘봉 잡은 이동욱 “수비 체질 바꾼다” 특명",
+  "published_at": "2026-11-10T09:48:00.000Z",
+  "collected_at": "2026-11-10T21:37:37.207Z",
+  "summary_ko": "국제신문은 첫 지휘봉을 잡은 이동욱 롯데 감독이 수비 체질을 바꾸겠다고 했다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "이동욱 감독, 수비부터 바꾼다"
+}

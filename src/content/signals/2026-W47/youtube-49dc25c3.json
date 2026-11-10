@@ -1,0 +1,26 @@
+{
+  "id": "youtube-49dc25c3",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "youtube",
+  "source_name": "이과장의 스포츠",
+  "url": "https://www.youtube.com/watch?v=maImRIv2H5Q",
+  "title": "2026년 롯데자이언츠 타자 연봉 TOP10의 WAR 비교, 역시 안됐던 이유를 알겠네",
+  "published_at": "2026-11-10T14:56:54Z",
+  "collected_at": "2026-11-10T21:37:37.207Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1341,
+    "likes": 2,
+    "comments": 2
+  },
+  "scores": {
+    "hot": 36,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

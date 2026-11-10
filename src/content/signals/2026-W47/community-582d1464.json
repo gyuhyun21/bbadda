@@ -1,0 +1,23 @@
+{
+  "id": "community-582d1464",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 이세상스포츠",
+  "url": "https://blog.naver.com/biasnews/224472358416",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/Ku3TKYgV1Ru",
+  "title": "실패하면 어쩌려고?... 평균자책점 2.31 벤자민까지 바꾸려는 두산의 모험",
+  "published_at": "2026-11-11T01:40:00.000+09:00",
+  "collected_at": "2026-11-10T21:37:37.207Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

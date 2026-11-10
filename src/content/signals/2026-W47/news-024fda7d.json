@@ -1,0 +1,29 @@
+{
+  "id": "news-024fda7d",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스타뉴스",
+  "url": "https://www.starnewskorea.com/sports/2026/11/10/2026111018134398557",
+  "title": "\"야구장 밖에서도 신중했어야 했다\" KS 5볼넷 충격 소형준 이례적 반성문, 국가대표 에이스에게 무슨 일 있었나",
+  "published_at": "2026-11-10T12:01:00.000Z",
+  "collected_at": "2026-11-10T21:37:37.207Z",
+  "summary_ko": "스타뉴스는 한국시리즈에서 볼넷 5개를 내준 KT 소형준이 야구장 밖에서도 신중했어야 했다는 반성문을 올렸다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 81,
+    "relevance": 70
+  },
+  "sentiment": "negative",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBJbHJrT0ZyQ2t2RjgySDJlczRNaDE5c0piLTE3RlJXLU9MWWVqRTVoRV9WdlZ3Q21tbGR6ZmRGdWd5c3d3R0pIYjZxSjJJQV82NGFuUFotSy05SldCU2d2UGlDWDRiRWJXZVhpOXFEc9IBb0FVX3lxTFBJbHJrT0ZyQ2t2RjgySDJlczRNaDE5c0piLTE3RlJXLU9MWWVqRTVoRV9WdlZ3Q21tbGR6ZmRGdWd5c3d3R0pIYjZxSjJJQV82NGFuUFotSy05SldCU2d2UGlDWDRiRWJXZVhpOXFEcw?oc=5"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "news-c0104446",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://www.sportschosun.com/baseball/2026-11-10/202611110100074340006899",
+  "title": "'한화 307억 포기' 노시환 또 대굴욕! 이번엔 FA 60위권도 못 들었다…이대로 포스팅 실패?",
+  "published_at": "2026-11-10T11:07:11.000Z",
+  "collected_at": "2026-11-10T21:37:37.207Z",
+  "summary_ko": "스포츠조선은 미국 매체의 FA 순위에서 노시환이 60위권에도 들지 못했다고 전했다. 포스팅이 순탄치 않을 수 있다는 시각이다.",
+  "metrics": {},
+  "scores": {
+    "hot": 72,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZ0d1SExHaXJvcXF1NThSN21LTXJqcXZ4eWFENjJiUDZvUzRCbW5jSC1ScEI0OXdNWWJrYndPTjY3VWZ0ckdLUmZ2bEVGQy1JY3dHV0pNUXVCMzBRYnNLZ1l5b2RKVVY4WGNpRlo4bWxxN05SaUpQV2trZFhXNFFoQV9rdVM5eVJuc2p3?oc=5"
+    }
+  ],
+  "brief_ko": "노시환, 美 FA 순위 60위 밖",
+  "hook_ko": "307억 두고 간 노시환,\nFA 60위 밖"
+}

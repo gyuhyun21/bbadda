@@ -1,0 +1,24 @@
+{
+  "id": "community-0196a69b",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&page=4&document_srl=10539525546",
+  "title": "조수행이 왜나와. - 야구",
+  "published_at": "2026-11-10T04:37:37.207Z",
+  "collected_at": "2026-11-10T21:37:37.207Z",
+  "summary_ko": "",
+  "excerpt": "... 두산베어스가 다 먹었습니다. 1. [레벨:21] 네시 13 분 전. 16억 ...",
+  "metrics": {},
+  "scores": {
+    "hot": 62,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "youtube-fddccb03",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "SSG랜더스",
+  "url": "https://www.youtube.com/watch?v=dErXmCNyMeQ",
+  "title": "100배 더 힘들어진 훈련 강도💪 | 레벨업 캠프 IN 가고시마",
+  "published_at": "2026-11-10T11:10:26Z",
+  "collected_at": "2026-11-10T21:37:37.207Z",
+  "summary_ko": "SSG 공식 채널이 가고시마 레벨업 캠프 영상을 올렸다. 제목은 「100배 더 힘들어진 훈련 강도」다.",
+  "metrics": {
+    "views": 35356,
+    "likes": 689,
+    "comments": 109
+  },
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

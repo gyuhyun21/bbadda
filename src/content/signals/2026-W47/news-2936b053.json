@@ -1,0 +1,38 @@
+{
+  "id": "news-2936b053",
+  "issue": "2026-W47",
+  "module": "rivalry",
+  "team": "kt",
+  "teams": [
+    "kt",
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "마이데일리",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5fWXowZU1WdkF5d2dTYjVsZjNOTXpjd2pCVG14X2RYa3Y4SEZvbXhSc3ZfZExPeUw0WHMyTy1Ud2oxVVkyMXRBV2NoeFdGbG5FVjhOcnk2ekNHenNOVV9SWg?oc=5",
+  "title": "'충격 승패패패패' 90승 1위팀 준우승 비극, 107억 다승왕 고개 숙였다 \"보여드려선 안 될 경기력, 팬들의 마음 다치게 해 정말 죄송합니다\"",
+  "published_at": "2026-11-10T08:41:00.000Z",
+  "collected_at": "2026-11-10T21:37:37.207Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 95,
+    "relevance": 70
+  },
+  "sentiment": "mixed",
+  "also_in": [
+    {
+      "source_name": "미주중앙일보",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ObUUwVXVfeUZPa21zNHlDOXlNTDJpMmhZT08tRzluaTA4UEVwdU5uRk1aN3FiTG5pYVRMZUQ1R1htbDZhS21jQVhud0I5TjNsREpQcF9xSjNyN3djNVJBZTl3?oc=5"
+    },
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4xeFlXMHBTckJSZG51bF9PTjZQNzZvdXJXWk9pbUF2YnlnTmxXdjlWNDA5SzhmUkZKNDZRdmRDdHNDWjBJWjhCTG11N1c0Ym5YT2hLNE9iRUtiT3k3SDZiS1pGc2h6SVh3SEluUWM3TdIBb0FVX3lxTE4xeFlXMHBTckJSZG51bF9PTjZQNzZvdXJXWk9pbUF2YnlnTmxXdjlWNDA5SzhmUkZKNDZRdmRDdHNDWjBJWjhCTG11N1c0Ym5YT2hLNE9iRUtiT3k3SDZiS1pGc2h6SVh3SEluUWM3TQ?oc=5"
+    },
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcVpBMWRLLVF3a1FReENPUHFiZlNRandPYlBIaWk5aWcyMUx6bmhMMEtNQVE2Nmh2aHY0YXFGTFBxaHJqdFR3VUpkUEdnbVZkaXQ2TXM1cEpkQUxZS0xDNHd0Y0xzd3hwN1N5R0VqVkU4SGlnTjY2R3dUUjhRdVR2dDFMaw?oc=5"
+    }
+  ]
+}
