@@ -86,6 +86,7 @@ body.end{background:#ffe03a;color:#111}
 .lines{inset:0;background:repeating-conic-gradient(from 0deg at 50% 45%,transparent 0deg 2.4deg,rgba(255,255,255,.92) 2.4deg 3deg);-webkit-mask:radial-gradient(ellipse 42% 30% at 50% 45%,transparent 55%,#000 100%)}`;
 // 효과 자막 .fx.* 값·움직임은 우영미(PD) 시안 2026-11-10(SPEC.md·SPEC-3.md). s = 처음 몇 프레임의 크기(글 가운데 기준, 그 뒤 1.0),
 // fade = 0.15초 페이드 인·아웃, drop = 위에서 내려오는 px, wob = [좌우 px, 횟수](0.25초), dur = 기본 길이(stamp 는 장면 끝까지), pos = 기본 자리
+const FX_MAX: Record<string, number> = { mind: 8, pop: 8, alert: 8, sfx: 3, think: 16, stamp: 3 };
 const FX_POS = { top: [540, 720], mid: [540, 1080], low: [540, 1330] } as const;
 const FX_MOVE: Record<string, { s: number[]; fade?: boolean; drop?: number; wob?: [number, number]; dur: number; pos: keyof typeof FX_POS }> = {
   mind: { s: [], fade: true, drop: 20, dur: 1.2, pos: 'top' },
@@ -171,6 +172,9 @@ spec.segments.forEach((s, i) => {
     const style = f.style && FX_MOVE[f.style] ? f.style : (f.style && console.error(`경고: 효과 자막 스타일 ${f.style} 없음 — pop 으로`), 'pop');
     const mv = FX_MOVE[style], w = win(f, mv.dur, `fx "${f.text}"`);
     if (!w) return;
+    // 우영미 기준 글자 수(넘으면 pop·sfx 는 줄바꿈 없이 화면 밖으로 잘림)
+    const len = [...f.text.replace(/<[^>]*>/g, '')].length, max = FX_MAX[style];
+    if (len > max) console.error(`경고: ${i + 1}번 장면 fx "${f.text}" ${len}자 — ${style} 는 ${max}자 안쪽(넘으면 잘릴 수 있음)`);
     const okPos = Array.isArray(f.pos) && f.pos.length === 2 && f.pos.every((v) => typeof v === 'number' && Number.isFinite(v));
     if (f.pos !== undefined && !okPos && !(typeof f.pos === 'string' && f.pos in FX_POS)) console.error(`경고: ${i + 1}번 장면 fx "${f.text}" pos ${JSON.stringify(f.pos)} 를 못 읽음 — ${mv.pos} 로`);
     const [x, y] = okPos ? (f.pos as [number, number]) : FX_POS[(typeof f.pos === 'string' && f.pos in FX_POS ? f.pos : mv.pos) as keyof typeof FX_POS];
