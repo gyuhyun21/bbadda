@@ -1,0 +1,100 @@
+{
+  "music": "bgm-morning",
+  "subStyle": "yt",
+  "outro": {
+    "hold": 1.5,
+    "fade": 0.5
+  },
+  "pool": {
+    "no": 10,
+    "series": "야구장 TMI",
+    "ep": 2,
+    "next": "(pool 끝)",
+    "facts": "이서철 확인 2026-11-10(리서처/work/bbadda-pool-facts.md)",
+    "motion": "motionN.mp4 는 프론느 Remotion 시험 통과 뒤 렌더(scripts/insta/motion)"
+  },
+  "segments": [
+    {
+      "kind": "real",
+      "src": "clip1.mp4",
+      "from": 0,
+      "to": 12,
+      "credit": "MBC Sports+",
+      "yt": "KXic67sbDGE",
+      "say": "a1.mp3",
+      "text": "농구나 축구 감독은 정장인데, 야구 감독은 선수랑 같은 유니폼을 입어.",
+      "kick": "야구장 TMI #2",
+      "head": "감독이 왜<br><b>선수 옷</b>을?",
+      "sub": "야구 감독만 선수 유니폼?",
+      "note": "출처: MLB.com·SABR · 영상: MBC Sports+",
+      "fx": [
+        {
+          "at": 2.6,
+          "text": "왜지?",
+          "style": "mind"
+        }
+      ]
+    },
+    {
+      "kind": "motion",
+      "src": "motion2.mp4",
+      "credit": "빠따닷컴 모션",
+      "motion": "가로 타임라인이 1870년대에서 지금으로 흘러간다. 앞쪽엔 배트를 든 감독 아이콘('선수 겸 감독'), 뒤로 갈수록 벤치에 선 감독 아이콘으로 바뀌는데 유니폼 색은 끝까지 같다.",
+      "say": "a2.mp3",
+      "text": "초창기 야구 감독은 직접 뛰는 선수 겸 감독이었어. 그 전통이 지금까지 남은 거야.",
+      "kick": "시작은 선수 겸 감독",
+      "head": "감독도<br><b>직접 뛰었다</b>",
+      "sub": "초창기는 선수 겸 감독, 그 전통",
+      "note": "출처: MLB.com·SABR·Mental Floss",
+      "fx": [
+        {
+          "at": 3.4,
+          "text": "전통!",
+          "style": "pop"
+        }
+      ],
+      "motion_sec": 5.5
+    },
+    {
+      "kind": "motion",
+      "src": "motion3.mp4",
+      "credit": "빠따닷컴 모션",
+      "motion": "위에서 본 야구장에 같은 색 유니폼 점들이 서 있고, 감독 점 하나가 더그아웃에서 마운드로 걸어 나간다. 옆에 회색 정장 점이 나왔다가 '경기장엔 못 들어감' 표시로 흐려진다.",
+      "say": "a3.mp3",
+      "text": "감독이랑 코치도 그라운드에 나가니까, 같은 유니폼이 구분하기 편하기도 해.",
+      "kick": "그라운드에 나가니까",
+      "head": "구분하기<br><b>쉽다</b>",
+      "sub": "그라운드에서 구분이 쉬움",
+      "note": "출처: MLB.com·SABR",
+      "motion_sec": 5.0
+    },
+    {
+      "kind": "real",
+      "src": "clip4.mp4",
+      "from": 0,
+      "to": 12,
+      "credit": "National Baseball Hall of Fame",
+      "yt": "b4Wfr5v6wX8",
+      "say": "a4.mp3",
+      "text": "그런데 코니 맥은 필라델피아 애슬레틱스를 오십 년 가까이 이끌면서 양복을 입었어.",
+      "kick": "그런데 예외",
+      "head": "50년 동안<br><b>양복</b> 입은 감독",
+      "sub": "코니 맥, 약 50년 양복 차림 감독",
+      "note": "출처: SABR·MLB.com · 영상: National Baseball Hall of Fame",
+      "fx": [
+        {
+          "at": 2.4,
+          "text": "예외",
+          "style": "stamp"
+        }
+      ]
+    }
+  ],
+  "end": {
+    "kick": "다음 편",
+    "head": "다음 이야기도 곧",
+    "cta": "팔로우하고 기다려 줘",
+    "say": "a5.mp3",
+    "text": "다음 이야기도 곧 올라오니까, 팔로우해 두고 기다려 줘."
+  }
+}
