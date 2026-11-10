@@ -1,0 +1,23 @@
+{
+  "id": "news-d1934a98",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://www.sportschosun.com/baseball/2026-11-10/202611100100067500006319",
+  "title": "'KIA 설렌다' 이런 19살 신인 봤나, '1대1' 감독 앞에서 안 쫀다…\"경남고에서 번트 댔어?\"[오키나와 현장]",
+  "published_at": "2026-11-10T01:44:00.000Z",
+  "collected_at": "2026-11-10T07:38:12.452Z",
+  "summary_ko": "오키나와 현장에서 19살 신인이 감독 앞에서도 위축되지 않는다고 스포츠조선이 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "KIA 19살 신인, 감독 앞 당당"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "community-d63d320e",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 Tiswriter 님의 블로그",
+  "url": "https://bignewsforge.com/6839",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/UgbCHAluPL",
+  "title": "노시환, 메이저리그 8개 구단 관심 집중…美 언론, 거포 영입 가능성 분석",
+  "published_at": "2026-11-10T14:05:27.000+09:00",
+  "collected_at": "2026-11-10T07:38:12.452Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "네이트",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBGQnl4NGVoTmtFek5PVGkzd1ZZTi1BeWdLbm5YMnc1MWlBZng4OU1kX3ktVVlDN0FBckxYY2RIMnJWX0JlUkx3Ykx0MGpYSW03WnVfbmlR?oc=5"
+    }
+  ]
+}

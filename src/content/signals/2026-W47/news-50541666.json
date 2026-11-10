@@ -1,0 +1,33 @@
+{
+  "id": "news-50541666",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "미주중앙일보",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5feHItelN3eHZNVlZUSklrV0tEZ01FODBPQXd3NXdETEt6dWdXU29EVmNLYTE1eG5NbXNjQ0swVkRUQ0lnMXppV2puWmVmWmlteUdCQUpSMkY2eXRtVnlfOTRB?oc=5",
+  "title": "“즐기기 힘들었다” 우승에도 못 웃었는데…천만다행 희소식! 타구에 눈 강타→수술 피했다 “안구에 고인 피는 빼야”",
+  "published_at": "2026-11-09T22:42:00.000Z",
+  "collected_at": "2026-11-10T07:38:12.452Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 81,
+    "relevance": 70
+  },
+  "sentiment": "mixed",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5PY241d1ZIWmFlVVZNYU1uMnZKeGYyaVJQZ2xfLVpFZERTckxNczJSS29kZmVnT2hSV0lDVFRvRzVPdzVMNWdGek1Fb0Z3Y1AwRFNaSzRDVGtIUjN2dXZfYVJ0NkkzOTNhbTBla012QdIBb0FVX3lxTE5PY241d1ZIWmFlVVZNYU1uMnZKeGYyaVJQZ2xfLVpFZERTckxNczJSS29kZmVnT2hSV0lDVFRvRzVPdzVMNWdGek1Fb0Z3Y1AwRFNaSzRDVGtIUjN2dXZfYVJ0NkkzOTNhbTBla012QQ?oc=5"
+    },
+    {
+      "source_name": "OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBaZVpDVmwzcXlDR1MzVDZUYW5NVndiamFkV3RqbWFJd3N6VE9aWUJqMThtZ1Vib3h6ekstellvbTFYb1o2Yld2MG04NzZSYjNrR3JPNA?oc=5"
+    }
+  ]
+}

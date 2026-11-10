@@ -1,0 +1,24 @@
+{
+  "id": "community-dcb872d4",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "엠엘비파크",
+  "url": "https://mlbpark.donga.com/mp/b.php?id=202611090120008913&p=1&b=kbotown&m=view&site=donga.com&pos=reply",
+  "title": "전세계에서 최다 우승팀이 돈 아끼는건 첨보네요",
+  "published_at": "2026-11-08T15:00:00.000Z",
+  "collected_at": "2026-11-10T07:38:12.452Z",
+  "summary_ko": "",
+  "excerpt": "... ... KIA · 두산 · 키움 · KBO · 스토브리그/FA · 오피셜 · 핫딜.…",
+  "metrics": {},
+  "scores": {
+    "hot": 53,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

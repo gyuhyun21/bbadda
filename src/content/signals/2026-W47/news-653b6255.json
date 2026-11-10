@@ -1,0 +1,24 @@
+{
+  "id": "news-653b6255",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "SPOTV NEWS",
+  "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1019028",
+  "title": "\"선수들 기본 자질 굉장히 좋다\" 이동욱 감독도 감탄한 선수단 풀…본격 루틴 심어주기 작업 시작",
+  "published_at": "2026-11-10T05:30:00.000Z",
+  "collected_at": "2026-11-10T07:38:12.452Z",
+  "summary_ko": "이동욱 롯데 감독이 선수단 기본 자질이 좋다고 평가하며 루틴 심기 작업을 시작했다고 SPOTV NEWS가 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "이동욱 감독, 루틴 심기 시작"
+}

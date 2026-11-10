@@ -1,0 +1,29 @@
+{
+  "id": "news-6750e4c0",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "news",
+  "source_name": "톱스타뉴스",
+  "url": "https://www.topstarnews.net/news/articleView.html?idxno=16272966",
+  "title": "KT 고영표·안현민, 한국시리즈 부진 사과 \"팬들 마음 다치게 했다\"",
+  "published_at": "2026-11-10T07:03:26.000Z",
+  "collected_at": "2026-11-10T07:38:12.452Z",
+  "summary_ko": "KT 고영표와 안현민이 한국시리즈 부진에 대해 팬들에게 사과했다고 톱스타뉴스가 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 92,
+    "relevance": 80
+  },
+  "sentiment": "negative",
+  "also_in": [
+    {
+      "source_name": "경기일보",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0wemNEV0Myak84Tm9FdkxJU0hUeVBXRFVrWDdWQV85XzliYjVtcTQ5ZEtKYU9PRkdicERwNzY5aTgwcGhwcW42cXJCLUFLWmk0RzAwLXVTR1RIMWs?oc=5"
+    }
+  ],
+  "brief_ko": "고영표·안현민, 팬에 사과"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-872dda69",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "news",
+  "source_name": "마이데일리",
+  "url": "https://mydaily.co.kr/page/view/2026111009440947833",
+  "title": "최지훈 SSG 잔류? 그러면 김호령 FA 가치 급상승하나…트중박과 호령존의 증명, 그런데 마무리가 찜찜",
+  "published_at": "2026-11-10T02:00:00.000Z",
+  "collected_at": "2026-11-10T07:38:12.452Z",
+  "summary_ko": "마이데일리는 SSG 최지훈의 잔류 여부가 FA 시장의 김호령 가치에도 영향을 줄 수 있다고 짚었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 82,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "최지훈 잔류 여부 변수"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "news-cb8db599",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "news",
+  "source_name": "더게이트",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9HMEc3REc0YmpzVUNTcDB2Qzh5OWI3N0Q3WFRVb2tLcFNKcDFNV1B0aEg2THlJZ0pERmpzbDd1YWpoT2hrcmFCT0tVUVU2X1g3T29Ec1Q1WjVDenNaWnVYUnR4Y2JzUzVE?oc=5",
+  "title": "'일본 최강팀 우승 비결 이식한다' NC 코치진, NPB 소프트뱅크 연수 마무리...\"선수 지도에 적극 활용\"",
+  "published_at": "2026-11-10T02:37:15.000Z",
+  "collected_at": "2026-11-10T07:38:12.452Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5DVXgtcjRVeXZlX2t4a1ZyTW9qdjZRcGhINUtMcFdfZGJHMllWNUx5dDZZWW5nZlMyY1ppTDFXRndVSTJKOGVKTzJHWmpvMUpHTHNjMGdPc3FRV3lqcmxHMnBjSTRLS0xGdDZsZExtQzFveGg1LURsedIBeEFVX3lxTE5DVXgtcjRVeXZlX2t4a1ZyTW9qdjZRcGhINUtMcFdfZGJHMllWNUx5dDZZWW5nZlMyY1ppTDFXRndVSTJKOGVKTzJHWmpvMUpHTHNjMGdPc3FRV3lqcmxHMnBjSTRLS0xGdDZsZExtQzFveGg1LURseQ?oc=5"
+    }
+  ]
+}

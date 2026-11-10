@@ -1,0 +1,23 @@
+{
+  "id": "community-7f16e2ae",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 풀카운트 90분",
+  "url": "https://blog.naver.com/jaydenstory/224470957845",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/IYn6PmEtvCL",
+  "title": "\"한국 사랑에 진심이라더니\" SSG 아빌라, 40만 달러 대박 뒤 랜더스필드 붙박이 된 배경은? 2027 우승...",
+  "published_at": "2026-11-10T00:58:00.000+09:00",
+  "collected_at": "2026-11-10T07:38:12.452Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 62,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

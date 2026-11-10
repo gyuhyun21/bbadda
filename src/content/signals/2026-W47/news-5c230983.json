@@ -1,0 +1,30 @@
+{
+  "id": "news-5c230983",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "네이트",
+  "url": "https://m.news.nate.com/view/20261110n07922",
+  "title": "강민호, \"23년 걸렸다\" 눈물겨운 첫 우승 소감…구자욱 \"형, 길긴 해요\"",
+  "published_at": "2026-11-10T00:36:00.000Z",
+  "collected_at": "2026-11-10T07:38:12.452Z",
+  "summary_ko": "강민호가 '23년 걸렸다'며 첫 우승 소감을 눈물로 전했고, 구자욱은 '형, 길긴 해요'라고 받았다고 네이트가 보도했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 81,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "미주중앙일보",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9kV21tWDh5RXpIcnk3SmhPRExXNkR2N1JOUV9wR2dNbHFaTm9fc0pKLU42UVF0UXZROF91c3NYbnBELTA1Qmt1eUxWcGE4VjlYandkeU5EelQ5cmw4VklUQzBR?oc=5"
+    }
+  ],
+  "brief_ko": "강민호, 23년 만의 우승 소감"
+}

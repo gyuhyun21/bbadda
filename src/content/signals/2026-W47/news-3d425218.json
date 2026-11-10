@@ -1,0 +1,23 @@
+{
+  "id": "news-3d425218",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "이데일리",
+  "url": "https://www.edaily.co.kr/News/Read?newsId=04683846645644408&mediaCodeNo=257",
+  "title": "LG서 첫 승 거둔 최성훈, 그날 승리 지킨 유원상…투수코치로 재회",
+  "published_at": "2026-11-10T05:56:08.000Z",
+  "collected_at": "2026-11-10T07:38:12.452Z",
+  "summary_ko": "LG가 투수코치로 최성훈·유원상을 영입했다고 이데일리가 전했다. 두 사람은 LG에서 뛴 적이 있다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "brief_ko": "최성훈·유원상 투수코치로"
+}

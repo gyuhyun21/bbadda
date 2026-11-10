@@ -1,0 +1,24 @@
+{
+  "id": "community-021cecc6",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 가장 중요! 검색에 잘 노출되도록",
+  "url": "https://blog.naver.com/yesjun3721/224471482420",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/G1GKzh21ZMg",
+  "title": "한국 야구 다시 살아날까?8탈삼진에 2⅓이닝 무실점까지…",
+  "published_at": "2026-11-10T12:21:00.000+09:00",
+  "collected_at": "2026-11-10T07:38:12.452Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

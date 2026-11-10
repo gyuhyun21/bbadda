@@ -1,0 +1,32 @@
+{
+  "id": "community-c4b04290",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 정여사의 공공정보",
+  "url": "https://gong.lhksoul.com/132",
+  "title": "김강 한화 코치 영입, 1군 타격 맡는다…안영명은 퍼포먼스 코치",
+  "published_at": "2026-11-10T16:05:40.000+09:00",
+  "collected_at": "2026-11-10T07:38:12.452Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 100,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "YTN",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA2SDJRVjJzZjk0NzFfUGdjQkdGSURiY0gyWnVkUzFyRXFhSE56Q1Viek1FZ3FhMjlLR21JVzdVcEFPV0xZNVhvdU92QkdMODlMcTE5c3I0ZkNoMHFYaENreUFBSVF5Uk5OdGQ4R25DRExEaXRlUkE?oc=5"
+    },
+    {
+      "source_name": "SPOTV NEWS",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA1ZzJUbGlpTlk4R1dRVEtJMWpfN3R6Zk92VzJyTThsdkhlY2dpb3dLTDhFWWRnVVUyalhudFpHaGxNRkpkZ2Z1ZXl5YnUtMnFsT1Bnbm5sN09Ga21uMHRKM21ocHk3V3JibUhfenIwb2Y?oc=5"
+    }
+  ]
+}

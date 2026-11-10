@@ -1,0 +1,22 @@
+{
+  "id": "news-bf4ee042",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBtaHBuWEM2VkVTak5oOXdERFZXM3JEcGtrNEloaVNvZzFqa2tNQmt6ektrcEkzdFAxcEVab0ZVWUxqaHhiRkJEangwbXpwVXpGY0tIZUNoSGdUUmdCVV9YYm0ydG5OdUxmVGxqLWk1WdIBb0FVX3lxTFBtaHBuWEM2VkVTak5oOXdERFZXM3JEcGtrNEloaVNvZzFqa2tNQmt6ektrcEkzdFAxcEVab0ZVWUxqaHhiRkJEangwbXpwVXpGY0tIZUNoSGdUUmdCVV9YYm0ydG5OdUxmVGxqLWk1WQ?oc=5",
+  "title": "NC, 일본 소프트뱅크 코치 연수 마무리... \"개개인 특성 맞춰 훈련, 적극 활용하겠다\"",
+  "published_at": "2026-11-10T05:40:31.000Z",
+  "collected_at": "2026-11-10T07:38:12.452Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

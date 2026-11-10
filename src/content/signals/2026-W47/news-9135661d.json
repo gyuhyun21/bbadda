@@ -1,0 +1,23 @@
+{
+  "id": "news-9135661d",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "마이데일리",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB1bVpKUEhUUEFMTm1wT1VuQXozVlQ0VmsyNTIwRXJ1Q0Z3NTVlM0VxaU9vd205QmpkaVF1UzBJYnBMS094MHhwMkFDeFIxRG5aWEtrSkllSlVfd3Jpc1NINg?oc=5",
+  "title": "어준서 `결승타` 이도우·이태연 무실점 투구…한국 23세 이하 야구대표팀 영국 꺾고 2승 2패",
+  "published_at": "2026-11-10T02:59:49.000Z",
+  "collected_at": "2026-11-10T07:38:12.452Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

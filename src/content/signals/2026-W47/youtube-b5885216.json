@@ -1,0 +1,27 @@
+{
+  "id": "youtube-b5885216",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "MAYBe보경",
+  "url": "https://www.youtube.com/watch?v=Ro09sAXe0Uc",
+  "title": "무조건 공감한다 #kbo #야구 #삼성라이온즈 #기아타이거즈 #브이로그",
+  "published_at": "2026-11-10T07:30:30Z",
+  "collected_at": "2026-11-10T07:38:12.452Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 114,
+    "likes": 4,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 53,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

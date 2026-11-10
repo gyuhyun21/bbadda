@@ -1,0 +1,23 @@
+{
+  "id": "news-3ee4cc20",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "SPOTV NEWS",
+  "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1019016",
+  "title": "\"잘 던지더라\" 대표팀 평가전부터 유심히 지켜봤다…'최고 156km' 롯데 예비역, 어떻게 日 캠프 합류하게 됐나",
+  "published_at": "2026-11-10T03:15:13.000Z",
+  "collected_at": "2026-11-10T07:38:12.452Z",
+  "summary_ko": "대표팀 평가전에서 잘 던진 롯데 예비역 투수가 최고 156km를 던져 일본 캠프에 합류했다고 SPOTV NEWS가 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "최고 156km 예비역, 일본 캠프로"
+}

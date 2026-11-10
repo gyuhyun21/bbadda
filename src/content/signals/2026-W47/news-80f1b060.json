@@ -1,0 +1,23 @@
+{
+  "id": "news-80f1b060",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE03NmljZENJTHlpN3Fkck54TnBQUU5FZWhQaU9QSURLMVJjTmZBTW5vN3B2RVZSLWphdmFrRC1sSXp5UXhfd2phTUp4UEt4X0pwd2JzOFZ4NEVjdEctT0xyeE03a3RIU2RVUWFqT2hlRThsNzJlbHhlbEJPVU40QQ?oc=5",
+  "title": "\"감독님, 이런 이야기하고 싶었습니다\"…'2년 차'와 독대한 사령탑, '포커페이스' 마음고생 이제 끝나나 [미야자키 현장]",
+  "published_at": "2026-11-10T06:36:37.000Z",
+  "collected_at": "2026-11-10T07:38:12.452Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "community-7c5e2fd0",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 봉과장의 분양 스토리",
+  "url": "https://blog.naver.com/dkdwb3235/224471772184",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/8DokvHWtCwu",
+  "title": "2026년 한국시리즈 야구 삼성라이온즈 우승",
+  "published_at": "2026-11-10T16:01:00.000+09:00",
+  "collected_at": "2026-11-10T07:38:12.452Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "youtube-0889219c",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "youtube",
+  "source_name": "동대문야구장 ",
+  "url": "https://www.youtube.com/watch?v=G6jaaBtTcOY",
+  "title": "이택근단장 부임전 롯데자이언츠 정밀 분석 #이동욱 #프로야구 #부산갈매기 #믿거나말거나 #황당",
+  "published_at": "2026-11-10T02:21:42Z",
+  "collected_at": "2026-11-10T07:38:12.452Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 2553,
+    "likes": 27,
+    "comments": 6
+  },
+  "scores": {
+    "hot": 51,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "news-553da389",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "미주중앙일보",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE52eXNMUm5seDFkaVViamRERVdwVnlzRV9zTGtsTmlyU2s3S3pMVERKZnVuSjVHdzhuQzVIWk5vMTRQX1kxWlV5Mmc1Z2xveVpZRzZORHAxbExMbkI2QlFmMHVn?oc=5",
+  "title": "90승 하고도 승패패패패 치욕의 KS→'준우승' 캡틴 고개 숙였다 “모두가 못해서 진 것, 오늘을 절대 잊지 말자”",
+  "published_at": "2026-11-10T03:09:00.000Z",
+  "collected_at": "2026-11-10T07:38:12.452Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 90,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5FVGU3RUpYVzlEUU9VUVlfR20wUVBMU3ZPenp3R3lrRm96NXJMYXRaM3AzWjZZNUczMEkyRjVCbENBSnVmV1lwYmRPMlc3SVVwQnRPZUZaOUFSQnVmVXlQeTl2WFVGZjM5LURFMjJKVdIBb0FVX3lxTE5FVGU3RUpYVzlEUU9VUVlfR20wUVBMU3ZPenp3R3lrRm96NXJMYXRaM3AzWjZZNUczMEkyRjVCbENBSnVmV1lwYmRPMlc3SVVwQnRPZUZaOUFSQnVmVXlQeTl2WFVGZjM5LURFMjJKVQ?oc=5"
+    },
+    {
+      "source_name": "OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE10UjZidXJBZHR1U1c4amRlN0drdzZjVmhzeEU4dG80TEVsY003YWx5dTJ3X0FaRXBaNW5ZeWpnZmJQUWFyZUlXcUN4WDQ1Z054bTBHNQ?oc=5"
+    }
+  ]
+}

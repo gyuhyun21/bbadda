@@ -1,0 +1,22 @@
+{
+  "id": "news-64fc9699",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "연합뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5zQzVSUmprUFhERGFNeUVvVHdVa0FnR2tFNExVZFJRWVNuNkkxT3VmTW91a3NlNU5neW5vNzNDRVl4dlpvNHhtenRSQUphOGplZml5c3hxeHN4eEJXN2tyX9IBYEFVX3lxTE5zQzVSUmprUFhERGFNeUVvVHdVa0FnR2tFNExVZFJRWVNuNkkxT3VmTW91a3NlNU5neW5vNzNDRVl4dlpvNHhtenRSQUphOGplZml5c3hxeHN4eEJXN2tyXw?oc=5",
+  "title": "삼성 우승에 대구 상권도 들썩…반값 커피·공짜 막창",
+  "published_at": "2026-11-10T01:58:21.000Z",
+  "collected_at": "2026-11-10T07:38:12.452Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

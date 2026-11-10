@@ -1,0 +1,24 @@
+{
+  "id": "news-f5a3bbb3",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스타뉴스",
+  "url": "https://www.starnewskorea.com/sports/2026/11/10/2026111013164185876",
+  "title": "[★베이스볼] 푸른 피의 에이스! 원태인 퍼스널컬러 바뀌나? 우승과 동시에 FA 핵돌풍",
+  "published_at": "2026-11-10T04:21:56.000Z",
+  "collected_at": "2026-11-10T07:38:12.452Z",
+  "summary_ko": "스타뉴스는 우승과 함께 FA 시장에 나온 원태인의 행보에 관심이 쏠린다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "brief_ko": "원태인, 우승 뒤 FA 핵돌풍"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "youtube-53b69421",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "youtube",
+  "source_name": "정병야구",
+  "url": "https://www.youtube.com/watch?v=463Z90SFhJE",
+  "title": "공수 다 되는 백업포수 #kbo #야구 #프로야구 #엔씨다이노스 #kt위즈 #안중열",
+  "published_at": "2026-11-10T06:00:01Z",
+  "collected_at": "2026-11-10T07:38:12.452Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1395,
+    "likes": 15,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 46,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

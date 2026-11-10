@@ -1,0 +1,27 @@
+{
+  "id": "youtube-da364199",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "경기 끝 댓글창",
+  "url": "https://www.youtube.com/watch?v=GwrW5Uk_TgU",
+  "title": "[KIA 댓글창] 김호령·김태군 FA 시장행 \"김호령 3년 18억 적당\" 팬 반응",
+  "published_at": "2026-11-10T04:55:39Z",
+  "collected_at": "2026-11-10T07:38:12.452Z",
+  "summary_ko": "한 채널이 KIA 김호령·김태군의 FA 시장행에 대한 팬 반응을 모았다.",
+  "metrics": {
+    "views": 1300,
+    "likes": 11,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 44,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "김호령·김태군 FA, 팬 반응"
+}

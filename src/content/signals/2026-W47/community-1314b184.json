@@ -1,0 +1,24 @@
+{
+  "id": "community-1314b184",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 KBO_DAILY :D ⚾오늘도 PLAY BALL⚾",
+  "url": "https://blog.naver.com/kbo_daily/224470924066",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/IWSV6SU6wpg",
+  "title": "⚾ KBO 궁금증 해결소 #13⚾ 사라진 프로야구 팀들은 어디로 갔을까? KBO 역대 구단 변천사 총정리",
+  "published_at": "2026-11-10T06:17:00.000+09:00",
+  "collected_at": "2026-11-10T07:38:12.452Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

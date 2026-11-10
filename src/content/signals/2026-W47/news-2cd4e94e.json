@@ -1,0 +1,24 @@
+{
+  "id": "news-2cd4e94e",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠경향",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5FZVZyMUtCQTlFbVFVRmVRMGZiNzZuSjk3MFFXbjZUQUlFa0wxbkpBUFBBVmM3X3o0ZHc2TkNZdjBGWkk1Q3dPUmhrd1BPLU5aQXZxekN2ZU9GUm9Rc1ZuNEhWTdIBY0FVX3lxTE5FZVZyMUtCQTlFbVFVRmVRMGZiNzZuSjk3MFFXbjZUQUlFa0wxbkpBUFBBVmM3X3o0ZHc2TkNZdjBGWkk1Q3dPUmhrd1BPLU5aQXZxekN2ZU9GUm9Rc1ZuNEhWTQ?oc=5",
+  "title": "투수조장 이영하 ‘향기로운’ 진심",
+  "published_at": "2026-11-09T20:00:00.000Z",
+  "collected_at": "2026-11-10T07:38:12.452Z",
+  "summary_ko": "스포츠경향은 두산 투수조장 이영하의 진심을 다뤘다.",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "이영하, 투수조장의 진심"
+}

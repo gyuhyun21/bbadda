@@ -1,0 +1,32 @@
+{
+  "id": "news-160c4e34",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠경향",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0tNWxndW1IUjItWGVKci1OdGR4VzdsNF8wRTZkUXhHa3I1U1ZyNFUxTXN1T1h5OHEwTjVfYjBOd2pkVHBrdER6VGVwblQzTE51VVNEUEpNVjk2dzMzUXFTV3hLQdIBY0FVX3lxTE0tNWxndW1IUjItWGVKci1OdGR4VzdsNF8wRTZkUXhHa3I1U1ZyNFUxTXN1T1h5OHEwTjVfYjBOd2pkVHBrdER6VGVwblQzTE51VVNEUEpNVjk2dzMzUXFTV3hLQQ?oc=5",
+  "title": "한화 캠프 뒤집은 한마디 “지현이 여기 있습니다!”",
+  "published_at": "2026-11-09T22:00:00.000Z",
+  "collected_at": "2026-11-10T07:38:12.452Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 81,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA1bFltdDdkMzdYR0FOaHBUT3JFNUpPYndzWFI5angzYkJRRUpYcG9KQU54SkkzVXFiU2FGcFR1SEg2b2RDbHlnTnVIQzRXbmlQaWhUckhyRVc3aV9oTUVrTDhVSXkyQlZISndyTDdrTdIBb0FVX3lxTFA1bFltdDdkMzdYR0FOaHBUT3JFNUpPYndzWFI5angzYkJRRUpYcG9KQU54SkkzVXFiU2FGcFR1SEg2b2RDbHlnTnVIQzRXbmlQaWhUckhyRVc3aV9oTUVrTDhVSXkyQlZISndyTDdrTQ?oc=5"
+    },
+    {
+      "source_name": "재경일보",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE54Z3NnR2pCZGotRTJXUUpNUlVhSGlzaEJPWloxdTBhb2Y1eEs4eGpiMDZFbzd6c3Rsc2pOMF9sNmpibGJ1QWsydWE3bw?oc=5"
+    }
+  ]
+}

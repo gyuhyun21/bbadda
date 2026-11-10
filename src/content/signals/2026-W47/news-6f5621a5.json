@@ -1,0 +1,29 @@
+{
+  "id": "news-6f5621a5",
+  "issue": "2026-W47",
+  "module": "rivalry",
+  "team": "kt",
+  "teams": [
+    "kt",
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "서울뉴스통신",
+  "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9SdVFwNGtadVhYWVNpOFduTUxSNGNaRnpKbnY0dmxLM0gxdm9Wa2syMkVsUFdQd19fM0ZlYllqS0lGU2w5T2dhd1JsYU9EVzVrcDZLMjZNcm5UT2N5ZzFsNkk1MGNqRHI4Z3Zz?oc=5",
+  "title": "이재준 “kt wiz의 투혼, 마법 같은 시간 선사… 우승한 삼성 라이온즈에도 축하의 박수를”",
+  "published_at": "2026-11-10T04:21:53.000Z",
+  "collected_at": "2026-11-10T07:38:12.452Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "새수원신문",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE43RFExZzBmVnZSWkM1SEVFcUFPYS1zdzJodWR4QTNqUGk3SUs0bkJETk9YWURvbVlMSlg5Y1VOd2E2Q3lGSE5sc2czOFFaLTdNdm1aa0d3QmdRMkt4V2Z4S2Fzb3IydkV1Ymc?oc=5"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "news-4a264445",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5DRzIwLWc3LUFCRjIwbUhsUGQ0UlVqcldfSWVNYTd1dHpVTDRHWUQ3bUJGR2M1bzlSY0NsaU5Sa2hjbUN0TF9EaElDQXV0YnJiTWYyZTBTYXE0YWhLbGNnT3NlTzJIM21QbGs5UkVCUdIBb0FVX3lxTE5DRzIwLWc3LUFCRjIwbUhsUGQ0UlVqcldfSWVNYTd1dHpVTDRHWUQ3bUJGR2M1bzlSY0NsaU5Sa2hjbUN0TF9EaElDQXV0YnJiTWYyZTBTYXE0YWhLbGNnT3NlTzJIM21QbGs5UkVCUQ?oc=5",
+  "title": "'노시환, 홈런왕 롤리와 한솥밥 먹나' 시애틀 3루수 보강 후보로 등장…美 현지 매체 주목",
+  "published_at": "2026-11-10T02:40:00.000Z",
+  "collected_at": "2026-11-10T07:38:12.452Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9OMXFKb0U2OUJFVG9IaG5vTXBfUW5TYkNmYzNxTkxhZW9KR0x0RXpONUJwUmZ1dTlfWGt1R0ZDaTBwWi1WQjkwM0NHQkhGUVdFRG9NUQ?oc=5"
+    }
+  ]
+}

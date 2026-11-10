@@ -1,0 +1,23 @@
+{
+  "id": "news-de0644bf",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "news",
+  "source_name": "위키트리",
+  "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE82dTY5RkVobG95RVdtU1MzMWdEWnpaZ3dnekMxOWN4OTBVekpvWHpDOGVtdUhPRXpxRi1nS2ptUUNuVFVtaFlQT1k1OVYydGZsZVRiWWFn?oc=5",
+  "title": "“안구에 피 고인 상태” 오른쪽 눈에 강한 타구 맞은 KT 권동진, 정밀 검진 결과 떴다",
+  "published_at": "2026-11-10T01:19:00.000Z",
+  "collected_at": "2026-11-10T07:38:12.452Z",
+  "summary_ko": "오른쪽 눈에 타구를 맞은 KT 권동진의 정밀 검진 결과가 나왔다고 위키트리가 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "권동진 정밀 검진 결과"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "news-2a7448ef",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "조선일보",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORWhnc09uQzBZcjZpNTJfdmNiaHFLUVJORVFabUwzRFFzc2doMjVOekdEbi1vUkZacXV0akF3QVlTYThUSWFJMUI4dDRFUm1iYWl5V0tGelR4eWhsUG9iMm44QWRmN25udmRabjdKUFg3bXhtZWhPVkVCcUpIMnZacnF2Yw?oc=5",
+  "title": "롯데에 이런 군필 좌완이…태극마크 감격→국제 무대서 통한다, 2⅓이닝 무실점 세이브 쾌거",
+  "published_at": "2026-11-10T01:21:00.000Z",
+  "collected_at": "2026-11-10T07:38:12.452Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1JRzVxLTVmTW1zUU0yV2otY0JnTWdwOUtvUkdCSjVURlhFNjNPYldRc1p4LWl5bmtSSnVPekd3M21ySUE4aUQwV210X0ZLQVEydkY4cEpldmR1S0U0aThNdXhiQWlaLVpCdldIazJTc9IBb0FVX3lxTE1JRzVxLTVmTW1zUU0yV2otY0JnTWdwOUtvUkdCSjVURlhFNjNPYldRc1p4LWl5bmtSSnVPekd3M21ySUE4aUQwV210X0ZLQVEydkY4cEpldmR1S0U0aThNdXhiQWlaLVpCdldIazJTcw?oc=5"
+    }
+  ]
+}

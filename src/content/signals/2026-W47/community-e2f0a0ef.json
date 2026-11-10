@@ -1,0 +1,24 @@
+{
+  "id": "community-e2f0a0ef",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 인플레이",
+  "url": "https://blog.naver.com/pangya1212/224471577535",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/5N12N1SUwEH",
+  "title": "고척돔 좌석 시야｜야구 볼 때 3층과 4층은 얼마나 다를까?",
+  "published_at": "2026-11-10T13:39:00.000+09:00",
+  "collected_at": "2026-11-10T07:38:12.452Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

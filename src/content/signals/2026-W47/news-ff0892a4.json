@@ -1,0 +1,24 @@
+{
+  "id": "news-ff0892a4",
+  "issue": "2026-W47",
+  "module": "rivalry",
+  "team": "lotte",
+  "teams": [
+    "lotte",
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "news.sbs.co.kr",
+  "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcmM2dkJYcTFJYXVGVmhha2RmcFNOeGoyYUYwZmJqcVZrSkliZzdQeGE0dWFUeVBTd0d0ZVZjajR2bGFsRk5hSVFqSmJleTNUU3hUSHVVcDZmMVpZTndHQ2tCUFZoQUFnRGRlOFJCLVBQQWF4TnpSTmpMbUhFbjRQVTAyczFLUQ?oc=5",
+  "title": "U-23 야구 대표팀, 영국에 3대 0 완승…2연패 탈출",
+  "published_at": "2026-11-10T01:25:52.000Z",
+  "collected_at": "2026-11-10T07:38:12.452Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

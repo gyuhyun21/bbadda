@@ -1,0 +1,24 @@
+{
+  "id": "news-a2c977be",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "데일리스포츠한국",
+  "url": "https://www.dailysportshankook.co.kr/news/articleViewAmp.html?idxno=435357",
+  "title": "어준서·양현종 적시타 앞세운 U-23 야구대표팀, 영국 3-0 제압…슈퍼라운드 눈앞",
+  "published_at": "2026-11-10T02:30:20.000Z",
+  "collected_at": "2026-11-10T07:38:12.452Z",
+  "summary_ko": "U-23 야구대표팀이 영국을 3-0으로 꺾었고 어준서와 양현종이 적시타를 쳤다고 데일리스포츠한국이 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "U-23 대표팀, 영국 3-0"
+}

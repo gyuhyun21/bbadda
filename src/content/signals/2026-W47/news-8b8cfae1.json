@@ -1,0 +1,32 @@
+{
+  "id": "news-8b8cfae1",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "news",
+  "source_name": "충남일보",
+  "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1jZEw3NUtUajBxejQxeS1tdm9jTmY1b1AwTGM2d2tBUXlJUjZYTEhHaGZIUDF2WkN5MjRicjJsMXh5WXpfZFBhTVFiNjllRnh5M2JJbmR3anhaTHd3TVByN3hra0hBNm9QZ1dfd2lqLU9sNk0?oc=5",
+  "title": "한화이글스, 김강 타격코치·안영명 퍼포먼스코치 영입",
+  "published_at": "2026-11-10T05:02:55.000Z",
+  "collected_at": "2026-11-10T07:38:12.452Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 91,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "이데일리",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVGQzajE2RkpHTnZIdzZqd2l4dmpJSXA5ZERrMm9aT1lfNmtidDFseWdZRUladEhtdHZZOE1pTU1zS3d4SURLSFlMR201SmhZUVhvYW9FM0FIQlNQRlRuaXdpUmFONHZKc2JpVTFFalhaMTVKR2tzNFoxck5sc08zRA?oc=5"
+    },
+    {
+      "source_name": "충청투데이",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE50RnRKNG9lODI1NGhPbTNQUDMzQU9LV1hjWXc3Qkh0V1JtMUVsT0xGYzNsaW96MmREcnhIeGhpeVlEWWFHZlpGN1VuUkRoNGYwTjJCWW4yellSOXlaVXQ4LUF6V1VnQ2hUTkJWa2NB?oc=5"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "id": "community-1ce4fda6",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 👦🏻 형기쿠 info",
+  "url": "https://info.soullhk.kr/2401",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/CSxQZUZQzMQ",
+  "title": "한화, 김강·안영명 코치 영입…두 코치가 맡을 역할은?",
+  "published_at": "2026-11-10T15:38:07.000+09:00",
+  "collected_at": "2026-11-10T07:38:12.452Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 100,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9TVTY3ZnhVd1VfTjNSNi14TkxRTlUxcWc2ZVVSM1pydk1zZm5FSEhVVU5ZWmJJaHFkR3dFcTcxRzJ0VVZKbmpZYnprREFscjdxalNyM254aWFjWXRESHBlZU5waTdtclJjMXBUWXlTTdIBb0FVX3lxTE9TVTY3ZnhVd1VfTjNSNi14TkxRTlUxcWc2ZVVSM1pydk1zZm5FSEhVVU5ZWmJJaHFkR3dFcTcxRzJ0VVZKbmpZYnprREFscjdxalNyM254aWFjWXRESHBlZU5waTdtclJjMXBUWXlTTQ?oc=5"
+    },
+    {
+      "source_name": "OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBpYXlDU0MyZTJxYU1FTzVaRXRzRW9FNDNGcjZHUUwzV3ZqVFRnXzlMNldTc0FKNzE1cUFzUzFWaVdqU1E0NlliN0dDcFdYNGJLQmhv?oc=5"
+    },
+    {
+      "source_name": "연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE90TFdxSk5reVBMUkMyMW9uMUZET2tlWXN2Q0RqQ3NZcEF1WkR0OHE3bEx3eTk2dUpWMUl0S2lMdFYtNUI3dVIxSVl0NU9vbTNsNEV1S2wxOTlrMTjSAWBBVV95cUxNaHdmR28xS2Y5SVV5VlhSbjZ6dDQxSDUtaXJXU0V3VTRYbV9Sa282WWg3al80ZEVpRThDYklXUGdZbFJiRDR3dlFfZlVQelZvMHpEbkRXaUpuLS1zN3JhQzU?oc=5"
+    },
+    {
+      "source_name": "더게이트",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5wS050cEhfNjJqSlZNSnliM0gwTlpkX0VSOXNUSXh5R1Rhc0dReFZEUjQ0Q0hBbmM1TUdPblBlb3phZXFhVU9fWW9HZFJxRjlldVYzQi1NZnc2Y19jNEN5UWpzZS1oSnJn0gFsQVVfeXFMT3VDUWdvVDNTWk5qc3NKeElwTDRzOUJ1TDliY2VEWUE5VVFlRFBfTzN1akQwbjVKc1ZiOG91YkZoRUFMUThQZlhJNmZVQ09QVG4xOXlmQTE2bVhIY1BQTFMwXzhWdC1GR2N6VUYx?oc=5"
+    },
+    {
+      "source_name": "톱스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1PRWwyN2NnWjZUUE92alY2dWVhWUNnT1FlbEZVUGRGSjV1VFo5aDV5ZVVoMjdQR2VvbUVjeTBHZjVtVGVnWkdPZkcwVi1rUnVHTlkxRDZ3RFhvUDJWNllUU3Z0ZFdCd1V6MG93enJnUk50Zw?oc=5"
+    },
+    {
+      "source_name": "스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBhSDA2V25GeWVTclFiNWRlejFEMGFrLVJMNjJTYm15MWxwdnQ3UWV4VXlGaTJnVU44NWNaMlRHTXRYMHp6M2Q1RUVCcnQwYU94UUVpQmJvX1pWYktkb3lramxiSFQ3S3RFT2xqMUlCdllzNEZZVVE?oc=5"
+    },
+    {
+      "source_name": "뉴스핌",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBYMHJIRGhrSmdVR2otVnFxendyNVVIQno1Q2RhRmEwU3hoOUNXenRPeWczV2RDVi1FQnVuejJjY3NhOGJtNnR0MkZYdGIxOE9wT1dZaXN0TVQ2QjNM?oc=5"
+    },
+    {
+      "source_name": "메디컬투데이",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1YaEVkZFFTZnBnem1ISmtMU3FYd0t3Y3NZT1pFejlaRElXUmZ4VnpXNmwzbXY3Rm14cEJRcDNOc2kzaUMwSzJ5UzBkdmtpNFlOaEFMdFNwN2VXYW1VRjBNMXpDcDRhWHp6VTltSw?oc=5"
+    },
+    {
+      "source_name": "뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ydVBoa3ZVOHRoMEhibGdqSjEteHBfQ04yT3ZNdTJzaUNMLWQ3YkwwbXl6c2pNZEkxNGRiY3owcEt4R2UzbTlRaERfOE93NmtCQkVOS3B2Yw?oc=5"
+    },
+    {
+      "source_name": "스포츠월드",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE03YU9sRzByYzB2czRhNWVUaWhnWUNOMm50QmREcXFObXBsMXBWUWhZZU1heWd4ZzBwSEJBOWlac3ZkVzZKWGxCVWI4cTFncXd0dVFFSmJ3dWM1WG9jNGp6UlN3?oc=5"
+    },
+    {
+      "source_name": "뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5nSkN4eHFLazZROWViVi1QRVpHYmJHTVY5cllTWUdsMFdBM0o3UnlyQTVNMzNVTGQwdzBhRmROcmdEaDlkYzhsaF9CLUhfVmtPWXIxU3ktSHEwenluZ0l4UVVEc3pucmR6QkdtS1VkT3dRZFdvVW02MtIBeEFVX3lxTE5nSkN4eHFLazZROWViVi1QRVpHYmJHTVY5cllTWUdsMFdBM0o3UnlyQTVNMzNVTGQwdzBhRmROcmdEaDlkYzhsaF9CLUhfVmtPWXIxU3ktSHEwenluZ0l4UVVEc3pucmR6QkdtS1VkT3dRZFdvVW02Mg?oc=5"
+    },
+    {
+      "source_name": "스포츠동아",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBkRG9BY3lKb3A4VmtNb2VYeXBUaWxob1RHM1lGcHlYalU1cWNLTzlURDg4azJJNEVBZW5ZblNSVzlYUUdrTmZoNjk2dWZFbDZqQjQ1WHVLcFJyeFhSY0lkNjJyM3N4aGxGZk0wNDEwWHdQZw?oc=5"
+    },
+    {
+      "source_name": "MHN스포츠",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9tWjRjM0hJMTFLa3N3cE1IWWt1ZWRKX1V5MGtLRjVhVGRzT1hTOWtaaVEyWWFBRlNac2Yxa01IYW9RcmlFMElQS2h1NDNUeG9Nd0x0R2xFb01SbXZPSzBYdVNvcw?oc=5"
+    },
+    {
+      "source_name": "뉴스엔톡",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1qeUJoMkpOZ1dHcTVLckNmWUNrVXRySGNpTXBYZjNQRjZVNnVnXzBXNFVaSVZwaE1CdFMwVEd4RmlzVmx2cVE5QXBnMTRfS1AtM25vMkJmc1duUnRXOGFVVGp1anBsTUJNZUs3RQ?oc=5"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "youtube-aa32bfde",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "youtube",
+  "source_name": "야구한컷",
+  "url": "https://www.youtube.com/watch?v=CnlQAPUl0Iw",
+  "title": "송성문, 투수도 웃게 만든 역대급 수비#키움히어로즈 #송성문 #야구쇼츠",
+  "published_at": "2026-11-10T02:30:35Z",
+  "collected_at": "2026-11-10T07:38:12.452Z",
+  "summary_ko": "한 키움 팬 채널이 송성문의 투수도 웃게 한 수비 장면을 소개했다.",
+  "metrics": {
+    "views": 299,
+    "likes": 1,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 32,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "송성문, 투수도 웃은 수비"
+}

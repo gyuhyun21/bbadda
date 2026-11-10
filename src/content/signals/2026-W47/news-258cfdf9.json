@@ -1,0 +1,23 @@
+{
+  "id": "news-258cfdf9",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "서울신문",
+  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA4ZlFLZEVjR3Q5UU1iZ1BVT0pSbEFNbUJlWDM0Zm1NVV9IVkUwTk5mWkdZdlM5RGFxRW1zSTJGeW50cDZuaWZiOVhBcXdrSDZjYXM0ek4wRQ?oc=5",
+  "title": "축제의 시간은 끝…다시 우승 위해 칼 가는 야구계. 시작은 FA 영입전",
+  "published_at": "2026-11-10T03:28:52.000Z",
+  "collected_at": "2026-11-10T07:38:12.452Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "news-ea702fbf",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "미주중앙일보",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA3Q25zRGhtaEdPRV81cG1uRUlLNHhoUXl3WkJjZjJfZzRNOVhJWktCVGFXV2tRZlhlZG80SmZpTGd0VjZpRDJEY3NSNEtZa1QwSHR1UEsyVHJ3WkE3Sk1QcVVn?oc=5",
+  "title": "타율 .133 충격 부진, 수비까지 흔들렸다...정규 시즌 1위→KS 1승 4패…눈물 쏟은 안현민의 뼈아픈 자책",
+  "published_at": "2026-11-10T06:10:00.000Z",
+  "collected_at": "2026-11-10T07:38:12.452Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 83,
+    "relevance": 70
+  },
+  "sentiment": "mixed",
+  "also_in": [
+    {
+      "source_name": "Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQalpqVVlxMWhhZWVOcXpqR1J1QTZfU0FSSnBJOHBjWW9aOHRQQkRxanptZC1xUU01bGs0Y2ZycFROdEZtWmJsaTdLVHhWN2xCTGpnVTlJYTVkN0hPdXdObFFSRUZ6ejJTdmxLYVpySUVha0JuU1Y4Zm9fN0FCVFJDenVBMNIBlwFBVV95cUxONWwwVHBEcVhoWHVaVXRId0RPYWtlV1VLX1NGaG05ZlpWSWJTQUY4MFBaMXZhaldiZ19rUzZYSkduQTdjb2lnTmdRVWl0V2QzNU00Nno0Z3dYS09sUS1rMnYzaWNSVDkwRzRrT1ZNbl9KakJjYVdNbzh2dEp0c1c2ZTQ1WmFVOEFFVzFPSnBZaDBRXzhJZDJF?oc=5"
+    }
+  ]
+}

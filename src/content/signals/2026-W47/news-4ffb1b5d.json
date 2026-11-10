@@ -1,0 +1,29 @@
+{
+  "id": "news-4ffb1b5d",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "일간스포츠",
+  "url": "http://isplus.joins.com/article/view/isp202611100036",
+  "title": "LG 송찬의 \"FA 홍창기, 같이 훈련하자니 웃기만 하네요\"",
+  "published_at": "2026-11-10T01:48:00.000Z",
+  "collected_at": "2026-11-10T07:38:12.452Z",
+  "summary_ko": "LG 송찬의가 FA 홍창기에게 같이 훈련하자고 했더니 웃기만 했다고 일간스포츠에 말했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "네이트",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5yMXNnNXd4ZUstSUthQ1o0dmJRcmJuMW5xd1pha3hJX3c2X3hyQm9sWUkzS2xwb0k4TnpUS05VRGNZemxNSjV0RGpCMERYNmRLeTJMMWRB?oc=5"
+    }
+  ],
+  "brief_ko": "송찬의, FA 홍창기에 손짓"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "youtube-cd527d1c",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "야구는 왜그럴까",
+  "url": "https://www.youtube.com/watch?v=BasIMcE6I50",
+  "title": "홈런 치면 업어준다니까 진짜 계속 치고 옴ㅋㅋ",
+  "published_at": "2026-11-10T01:00:39Z",
+  "collected_at": "2026-11-10T07:38:12.452Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1446,
+    "likes": 4,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 40,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}
