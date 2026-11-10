@@ -11,7 +11,7 @@
     "ep": 3,
     "next": "08-hayes-missed-base",
     "facts": "이서철 확인 2026-11-10(리서처/work/bbadda-pool-facts.md)",
-    "motion": "motionN.mp4 는 프론느 Remotion 시험 통과 뒤 렌더(scripts/insta/motion)"
+    "motion": "Remotion 컴포지션(scripts/insta/motion, 코드 PR feat/reel-motion-pool3) · seconds=목소리+0.3"
   },
   "segments": [
     {
@@ -38,8 +38,6 @@
     {
       "kind": "motion",
       "src": "motion2.mp4",
-      "credit": "빠따닷컴 모션",
-      "motion": "가로 막대 그래프 두 줄: 위 '일본 기록 55'(회색)가 먼저 차오르고, 아래 '이승엽'(노랑)이 55에서 멈칫한 뒤 56으로 툭 넘어선다. 막대 끝에 '당시 아시아 최다' 꼬리표가 붙는다.",
       "say": "a2.mp3",
       "text": "삼성 이승엽의 홈런 공을 잡으려고. 이승엽은 그해 오십육 개로 당시 아시아 한 시즌 최다 홈런을 썼어.",
       "kick": "2003 삼성 이승엽",
@@ -53,7 +51,10 @@
           "style": "pop"
         }
       ],
-      "motion_sec": 7.0
+      "motion_sec": 7.0,
+      "motion_note": "가로 막대 그래프 두 줄: 위 '일본 기록 55'(회색)가 먼저 차오르고, 아래 '이승엽'(노랑)이 55에서 멈칫한 뒤 56으로 툭 넘어선다. 막대 끝에 '당시 아시아 최다' 꼬리표가 붙는다.",
+      "motion": true,
+      "composition": "lee-bar"
     },
     {
       "kind": "real",
@@ -83,8 +84,6 @@
     {
       "kind": "motion",
       "src": "motion4.mp4",
-      "credit": "빠따닷컴 모션",
-      "motion": "잠자리채 아이콘이 관중석 실루엣 위로 올라오다가, 빨간 동그라미에 사선이 그어지는 금지 표시가 덮인다.",
       "say": "a4.mp3",
       "text": "이 소동 뒤로 케이비오는 관중석 잠자리채를 금지했어.",
       "kick": "그 뒤로",
@@ -98,7 +97,10 @@
           "style": "mind"
         }
       ],
-      "motion_sec": 4.0
+      "motion_sec": 4.0,
+      "motion_note": "잠자리채 아이콘이 관중석 실루엣 위로 올라오다가, 빨간 동그라미에 사선이 그어지는 금지 표시가 덮인다.",
+      "motion": true,
+      "composition": "net-ban"
     }
   ],
   "end": {
