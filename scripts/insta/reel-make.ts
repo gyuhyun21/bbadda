@@ -242,7 +242,7 @@ if (spec.end) {
   if (e.say) { voice(e.say, join(TMP, 'aend.wav')); d = Math.max(dur(join(TMP, 'aend.wav')) + 0.5, 2.8).toFixed(2); }
   if (hold > 0) d = (Number(d) + hold).toFixed(2);
   const bgIn = prof ? (existsSync(bg) ? ['-loop', '1', '-i', bg] : ['-f', 'lavfi', '-i', 'color=c=0x111111:s=1080x1920']) : [];
-  ff(...bgIn, '-loop', '1', '-i', ov, ...(e.say ? ['-i', join(TMP, 'aend.wav')] : ['-f', 'lavfi', '-i', 'anullsrc=r=44100:cl=stereo']), '-filter_complex', prof ? `[0]scale=1080:1920,eq=brightness=-0.3:saturation=0.5,fps=30[b];[b][1]overlay,format=yuv420p[o];[2]apad,atrim=0:${d}[au]` : `[0]fps=30,format=yuv420p[o];[1]apad,atrim=0:${d}[au]`, '-map', '[o]', '-map', '[au]', '-t', d, '-c:v', 'libx264', '-crf', '22', '-c:a', 'aac', '-ar', '44100', '-ac', '2', v);
+  ff(...bgIn, '-loop', '1', '-i', ov, ...(e.say ? ['-i', join(TMP, 'aend.wav')] : ['-f', 'lavfi', '-i', 'anullsrc=r=44100:cl=stereo']), '-filter_complex', prof ? `[0]scale=1080:1920,boxblur=10:1,eq=brightness=-0.4:saturation=0.5,fps=30[b];[b][1]overlay,format=yuv420p[o];[2]apad,atrim=0:${d}[au]` : `[0]fps=30,format=yuv420p[o];[1]apad,atrim=0:${d}[au]`, '-map', '[o]', '-map', '[au]', '-t', d, '-c:v', 'libx264', '-crf', '22', '-c:a', 'aac', '-ar', '44100', '-ac', '2', v);
   parts.push(v);
 }
 writeFileSync(join(TMP, 'list.txt'), parts.map((p) => `file '${p}'`).join('\n'));
