@@ -21,7 +21,7 @@ type Cue = { at: number; dur?: number };
 type Fx = Cue & { text: string; style?: string; pos?: 'top' | 'mid' | 'low' | [number, number]; size?: number };
 const FOOTAGE_MAX = 39; // 티빙·KBO 허용 '40초 미만'보다 1초 여유
 const SPEED = 1.0; // 2026-11-10 이사님 결정: 영상 원속도(이전 1.3배 폐지). 다 만든 영상 전체(목소리·전환·음악)에 거는 배속, 음 높이는 그대로
-type End = { kick?: string; head: string; a?: string; b?: string; cta: string; say?: string };
+type End = { kick?: string; head: string; a?: string; b?: string; cta: string; say?: string; look?: 'profile' };
 const ROOT = process.cwd();
 const [dirArg, outArg] = process.argv.slice(2);
 if (!dirArg || !outArg) { console.error('사용: reel-make.ts <재료 폴더> <출력 mp4>'); process.exit(1); }
@@ -87,6 +87,16 @@ body.end{background:#ffe03a;color:#111}
   filter:drop-shadow(10px 10px 0 #ffe03a);transform:translate(-50%,-50%) rotate(var(--rot)) skewX(-10deg)}
 .yt .sub{left:60px;right:60px;bottom:330px;text-align:center;font-family:SUB,P;font-weight:400;font-size:62px;line-height:1.3;letter-spacing:0;
   color:#fff;-webkit-text-stroke:10px #111;paint-order:stroke fill;text-shadow:0 4px 0 #111;background:none;padding:0;border-radius:0}
+.prof .pbrand{left:0;right:0;top:400px;text-align:center;font-size:120px;font-weight:900;line-height:1.1;color:#ffe03a;letter-spacing:-.02em;text-shadow:0 4px 18px rgba(0,0,0,.5)}
+.pbrand small{display:block;font-size:54px;font-weight:700}
+.prof h1{left:60px;right:60px;top:720px;text-align:center;font-size:76px;line-height:1.25;-webkit-text-stroke:0;text-shadow:0 3px 14px rgba(0,0,0,.6)}
+.pcard{left:150px;right:150px;top:1040px;background:#16181d;border-radius:36px;padding:40px 44px;box-shadow:0 20px 60px rgba(0,0,0,.5)}
+.pcard img{position:absolute;left:44px;top:40px;width:150px;height:150px;border-radius:50%;background:#fff;object-fit:contain;padding:22px;border:6px solid #ffe03a}
+.pname{margin-left:180px;margin-top:24px;font-size:44px;font-weight:800}.pid{margin-left:180px;margin-top:4px;font-size:32px;opacity:.7}
+.pbio{margin-top:64px;font-size:38px;font-weight:600;line-height:1.35}
+.pbtn{display:flex;gap:16px;margin-top:30px}.pbtn span{flex:1;text-align:center;padding:20px 0;border-radius:18px;background:#2a2d34;font-size:34px;font-weight:700}.pbtn .f{background:#4a5cff}
+.hand{position:absolute;left:230px;bottom:-56px;font-size:100px}
+.plogo{left:50%;transform:translateX(-50%);bottom:110px;height:70px;background:#fff;border-radius:14px;padding:8px 14px}
 .lines{inset:0;background:repeating-conic-gradient(from 0deg at 50% 45%,transparent 0deg 2.4deg,rgba(255,255,255,.92) 2.4deg 3deg);-webkit-mask:radial-gradient(ellipse 42% 30% at 50% 45%,transparent 55%,#000 100%)}`;
 // 효과 자막 .fx.* 값·움직임은 우영미(PD) 시안 2026-11-10(SPEC.md·SPEC-3.md), 글꼴은 2026-11-11 확정판(효과 FX=연성, yt 하단 자막 SUB=검은고딕, 굵기 400). s = 처음 몇 프레임의 크기(글 가운데 기준, 그 뒤 1.0),
 // fade = 0.15초 페이드 인·아웃, drop = 위에서 내려오는 px, wob = [좌우 px, 횟수](0.25초), dur = 기본 길이(stamp 는 장면 끝까지), pos = 기본 자리
@@ -123,6 +133,7 @@ spec.segments.forEach((s, i) => {
   s.credit ??= 'TVING·KBO';
 });
 let footage = 0; // 지금까지 쓴 경기 영상 길이(초)
+let lastBg: { src: string; at: number; still: boolean; credit?: string } | undefined; // 끝 장면 look 'profile' 배경용(글 없는 원본 화면)
 const voice = (src: string, out: string) => ff('-i', join(DIR, src), '-af', 'silenceremove=start_periods=1:start_threshold=-45dB:stop_periods=-1:stop_duration=0.18:stop_threshold=-45dB,atempo=1.18', '-ar', '44100', '-ac', '2', out);
 const parts: string[] = [];
 spec.segments.forEach((s, i) => {
@@ -204,6 +215,7 @@ spec.segments.forEach((s, i) => {
   const fl = win(s.flash, 0.2, 'flash');
   if (fl) g += `,drawbox=c=white@0.85:t=fill:enable='between(t,${fl[0]},${(fl[0] + fl[1]) / 2})',drawbox=c=white@0.4:t=fill:enable='between(t,${(fl[0] + fl[1]) / 2},${fl[1]})'`;
   ff(...(still ? ['-loop', '1'] : seek), '-i', src, '-i', ov, '-i', a, ...extra, '-filter_complex', `${g},format=yuv420p[o];${audio}`, '-map', '[o]', '-map', '[au]', '-t', d, '-c:v', 'libx264', '-crf', '22', '-c:a', 'aac', '-ar', '44100', '-ac', '2', v);
+  lastBg = { src, at: (s.from ?? 0) + Math.max(Number(d) - 0.1, 0), still, credit: licensed ? s.credit ?? 'TVING·KBO' : undefined };
   parts.push(v);
 });
 // 끝 마무리(2026-11-10 이사님: 끝 컷을 더 길게, 짧은 페이드아웃): outro 가 없으면 예전과 같다
@@ -216,11 +228,17 @@ if (spec.end) {
   const e = spec.end, ov = join(TMP, 'end.png'), v = join(TMP, 'send.mp4');
   for (const id of [e.a, e.b]) if (id && existsSync(join(ROOT, `public/mascots/emblem/${id}@2x.webp`))) ff('-i', join(ROOT, `public/mascots/emblem/${id}@2x.webp`), join(TMP, `${id}.png`));
   const box = (id?: string) => (id && TEAM[id] ? `<div style="background:${TEAM[id].color}"><img src="${id}.png">${esc(TEAM[id].name)}</div>` : '');
-  shot(page(`<img class="logo" src="logo.webp">${e.kick ? `<span class="kick">${esc(e.kick)}</span>` : ''}<h1>${head(e.head)}</h1>${e.a || e.b ? `<div class="vs">${box(e.a)}${box(e.b)}</div>` : ''}<p class="cta">${esc(e.cta)}<small>@bbadda_officials 팔로우</small></p>`, 'end'), ov);
+  // look 'profile'(2026-11-11 이사님, 빠따 매거진 마지막 장 참고): 앞 장면 마지막 화면을 어둡게 깔고 계정 이름·문구·프로필 카드(팔로우 버튼)를 얹는다. 숫자(팔로워 등)는 넣지 않는다
+  const prof = e.look === 'profile', bg = join(TMP, 'endbg.png');
+  if (prof && lastBg) ff(...(lastBg.still ? [] : ['-ss', String(lastBg.at)]), '-i', lastBg.src, '-frames:v', '1', '-vf', 'scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920', '-update', '1', bg);
+  shot(page(prof
+    ? `<div class="pbrand">빠따닷컴<small>@bbadda_officials</small></div><h1>${head(e.head)}</h1><div class="pcard"><img src="logo.webp"><div class="pname">빠따닷컴</div><div class="pid">@bbadda_officials</div><p class="pbio">${esc(e.cta)}</p><div class="pbtn"><span class="f">팔로우</span><span>메시지</span></div><span class="hand">👆</span></div><img class="plogo" src="logo.webp">${lastBg?.credit ? `<p class="credit">영상: ${esc(lastBg.credit)}</p>` : ''}`
+    : `<img class="logo" src="logo.webp">${e.kick ? `<span class="kick">${esc(e.kick)}</span>` : ''}<h1>${head(e.head)}</h1>${e.a || e.b ? `<div class="vs">${box(e.a)}${box(e.b)}</div>` : ''}<p class="cta">${esc(e.cta)}<small>@bbadda_officials 팔로우</small></p>`, prof ? 'prof' : 'end'), ov);
   let d = '2.8';
   if (e.say) { voice(e.say, join(TMP, 'aend.wav')); d = Math.max(dur(join(TMP, 'aend.wav')) + 0.5, 2.8).toFixed(2); }
   if (hold > 0) d = (Number(d) + hold).toFixed(2);
-  ff('-loop', '1', '-i', ov, ...(e.say ? ['-i', join(TMP, 'aend.wav')] : ['-f', 'lavfi', '-i', 'anullsrc=r=44100:cl=stereo']), '-filter_complex', `[0]fps=30,format=yuv420p[o];[1]apad,atrim=0:${d}[au]`, '-map', '[o]', '-map', '[au]', '-t', d, '-c:v', 'libx264', '-crf', '22', '-c:a', 'aac', '-ar', '44100', '-ac', '2', v);
+  const bgIn = prof ? (existsSync(bg) ? ['-loop', '1', '-i', bg] : ['-f', 'lavfi', '-i', 'color=c=0x111111:s=1080x1920']) : [];
+  ff(...bgIn, '-loop', '1', '-i', ov, ...(e.say ? ['-i', join(TMP, 'aend.wav')] : ['-f', 'lavfi', '-i', 'anullsrc=r=44100:cl=stereo']), '-filter_complex', prof ? `[0]scale=1080:1920,eq=brightness=-0.3:saturation=0.5,fps=30[b];[b][1]overlay,format=yuv420p[o];[2]apad,atrim=0:${d}[au]` : `[0]fps=30,format=yuv420p[o];[1]apad,atrim=0:${d}[au]`, '-map', '[o]', '-map', '[au]', '-t', d, '-c:v', 'libx264', '-crf', '22', '-c:a', 'aac', '-ar', '44100', '-ac', '2', v);
   parts.push(v);
 }
 writeFileSync(join(TMP, 'list.txt'), parts.map((p) => `file '${p}'`).join('\n'));
