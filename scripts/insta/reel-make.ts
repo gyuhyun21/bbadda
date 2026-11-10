@@ -234,9 +234,11 @@ const music = join(ROOT, `scripts/insta/music/${spec.music ?? 'bgm-breaking'}.mp
 const cat = join(TMP, 'cat.mp4'), mix = join(TMP, 'mix.wav'), fadeAt = Math.max(total / SPEED - fade, 0).toFixed(2);
 // 소리는 따로 만든 뒤 붙인다: loudnorm 을 영상 인코딩과 한 그래프에서 돌리면 ffmpeg 9 에서 소리가 3초씩 통째로 빠졌다(2026-11-11 save pool 3차). 48kHz 로 내보낸다(96kHz 는 일부 재생기에서 끊김)
 ff('-i', cat, '-i', music, '-filter_complex', `[1]volume=${spec.segments.some((x) => x.live && !isStill(x.src)) ? 0.12 : spec.segments.some(hasVoice) ? 0.2 : 0.7},atrim=0:${total},afade=t=out:st=${Math.max(total - 1, 0)}:d=1[b];[0:a][b]amix=inputs=2:duration=first:normalize=0,loudnorm=I=-14:TP=-1.5,atempo=${SPEED}${fade ? `,afade=t=out:st=${fadeAt}:d=${fade}` : ''}[m]`, '-map', '[m]', '-ar', '48000', '-c:a', 'pcm_s16le', mix);
-ff('-i', cat, '-i', mix, '-filter_complex', `[0:v]setpts=PTS/${SPEED}${fade ? `,fade=t=out:st=${fadeAt}:d=${fade}` : ''}[v]`, '-map', '[v]', '-map', '1:a', '-c:v', 'libx264', '-crf', '20', '-pix_fmt', 'yuv420p', '-c:a', 'aac', '-b:a', '160k', '-movflags', '+faststart', OUT);
-// 소리 빈 구간 검사: 0.1초 넘게 비거나 소리가 영상보다 0.3초 넘게 먼저 끝나면 실패로 끝낸다(그 mp4 는 올리지 않는다)
-const apts = execFileSync('ffprobe', ['-v', 'error', '-select_streams', 'a', '-show_entries', 'packet=pts_time', '-of', 'csv=p=0', OUT]).toString().trim().split('\n').map(Number).sort((x, y) => x - y);
+ff('-i', cat, '-i', mix, '-filter_complex', `[0:v]setpts=PTS/${SPEED}${fade ? `,fade=t=out:st=${fadeAt}:d=${fade}` : ''}[v]`, '-map', '[v]', '-map', '1:a', '-shortest', '-c:v', 'libx264', '-crf', '20', '-pix_fmt', 'yuv420p', '-c:a', 'aac', '-b:a', '160k', '-movflags', '+faststart', OUT);
+// 소리 빈 구간 검사(규엔 avgap.py 와 같은 기준): 소리 패킷 시작 간격이 0.1초를 넘거나 소리·영상 길이가 0.1초 넘게 다르면 실패로 끝낸다(그 mp4 는 올리지 않는다)
+const probe = (...a: string[]) => execFileSync('ffprobe', ['-v', 'error', ...a, '-of', 'csv=p=0', OUT]).toString().trim();
+const apts = probe('-select_streams', 'a', '-show_entries', 'packet=pts_time').split('\n').map(Number).sort((x, y) => x - y);
 const hole = apts.findIndex((t, k) => k > 0 && t - apts[k - 1] > 0.1);
-if (hole > 0 || !apts.length || apts[apts.length - 1] < total / SPEED - 0.3) { console.error(`실패: 소리 빈 구간 ${hole > 0 ? `${apts[hole - 1]}→${apts[hole]}초` : `(소리 끝 ${apts[apts.length - 1] ?? 0}초 / 영상 ${(total / SPEED).toFixed(2)}초)`} — ${OUT}`); process.exit(1); }
+const [vLen, aLen] = ['v', 'a'].map((st) => Number(probe('-select_streams', st, '-show_entries', 'stream=duration')));
+if (hole > 0 || !(Math.abs(aLen - vLen) <= 0.1)) { console.error(`실패: 소리 ${hole > 0 ? `빈 구간 ${apts[hole - 1]}→${apts[hole]}초` : `길이 ${aLen}초 / 영상 ${vLen}초`} — ${OUT}`); process.exit(1); }
 console.log(JSON.stringify({ out: OUT, seconds: Number((total / SPEED).toFixed(1)), footage: Number(footage.toFixed(1)) }));
