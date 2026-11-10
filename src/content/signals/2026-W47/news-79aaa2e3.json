@@ -1,0 +1,23 @@
+{
+  "id": "news-79aaa2e3",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠경향",
+  "url": "https://sports.khan.co.kr/article/202611101517003/amp",
+  "title": "벼랑 끝 0할 타자에서 ‘100경기 9홈런’까지 왔다···키움에는 아직 김웅빈이 있다",
+  "published_at": "2026-11-10T06:17:00.000Z",
+  "collected_at": "2026-11-10T07:38:12.452Z",
+  "summary_ko": "스포츠경향은 키움 김웅빈이 100경기에서 홈런 9개를 쳤다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "brief_ko": "김웅빈, 100경기 9홈런"
+}

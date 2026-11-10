@@ -1,0 +1,32 @@
+{
+  "id": "news-90ce6929",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "연합뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE85NUFLMDRkRVBjYVVPZWxKUUxCT0xiWG9Wd3o4WmpVUlNXdERhWERzcTlNRERCQVlDbWJTQXhJZnQ2MnlBOUtpMmV0V01MLUw2RVNFY1FKNU4tN21tQVZoTtIBYEFVX3lxTE85NUFLMDRkRVBjYVVPZWxKUUxCT0xiWG9Wd3o4WmpVUlNXdERhWERzcTlNRERCQVlDbWJTQXhJZnQ2MnlBOUtpMmV0V01MLUw2RVNFY1FKNU4tN21tQVZoTg?oc=5",
+  "title": "프로야구 LG, 유원상·최성훈 투수 코치와 계약",
+  "published_at": "2026-11-10T05:27:04.000Z",
+  "collected_at": "2026-11-10T07:38:12.452Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 99,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "네이트",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE50Y3dUczdMVFB1TzY5b2NIZmJoV0FBM2FmaHVQcEtBWmhGMUpmRHo2Wk5RVlpJZm90ay14bUFLN1JBWFhFUEZPNTJPdkxOZThLQVhxbGN3?oc=5"
+    },
+    {
+      "source_name": "YTN",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5BM3F2MHNyQWozQTE1M2hwRlJwRndKZ1Y0S2p3RUZqUjJEX0VwM0RBMmJTdlhvcVZqYkdqS1BBZEhqTERQM2phVFVuYzZWQWdtTHdfNURDUHVYS2VBS3c?oc=5"
+    }
+  ]
+}

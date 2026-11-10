@@ -1,0 +1,23 @@
+{
+  "id": "community-06e547f2",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 지유",
+  "url": "https://blog.naver.com/wjaxkr/224471254987",
+  "title": "2026 APBC 야구 대표팀 주장 한동희 전승 우승 선언! 도쿄돔 한일전 관전 포인트와 솔직한 기대평",
+  "published_at": "2026-11-10T09:44:00.000+09:00",
+  "collected_at": "2026-11-10T07:38:12.452Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

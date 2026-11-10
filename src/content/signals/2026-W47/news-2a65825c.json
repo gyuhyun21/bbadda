@@ -1,0 +1,22 @@
+{
+  "id": "news-2a65825c",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "매일신문",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5PMmFDWXEyWWE3ZnFoeFQzTWR2Y0JGcklDTmRVcS1tWjdzVnllQi1PaDh2RlJIREtmelRJbGhIUHFRY3NjNlhYa0l3dmRJdExncTk5cElTWXFZRFJiUFphd293?oc=5",
+  "title": "[명품 구단 삼성 라이온즈] `대구경북의 자부심` 삼성 라이온즈, 지역 위상도 높여",
+  "published_at": "2026-11-10T06:00:14.000Z",
+  "collected_at": "2026-11-10T07:38:12.452Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

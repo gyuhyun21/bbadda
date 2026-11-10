@@ -1,0 +1,29 @@
+{
+  "id": "community-d79b9ec6",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=football_korean&page=4&document_srl=10538954790",
+  "title": "파란 일으킨 삼성 라이온즈·수원 삼성, 성적 훈풍에 수익도 '쑥' [IS 이슈]",
+  "published_at": "2026-11-10T00:38:12.452Z",
+  "collected_at": "2026-11-10T07:38:12.452Z",
+  "summary_ko": "",
+  "excerpt": "... https://isplus.com/article/view/isp202611090242프로야구 삼성 라이온즈와 프로축구 수원 삼성 블루윙즈의 2023~2026년 관중 수와 입장 수입.",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 50
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "일간스포츠",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE96UTVBZE1yQWRhbXZOREttWmM0ZlZYbDhQeUpZbXI5YlZNdHp6YmFCYU5KdTE0WVk1S2dFQU1aNy1DRDdBRVl0REo1TXBnQlpzemtaaVltUjhFMm8?oc=5"
+    }
+  ]
+}

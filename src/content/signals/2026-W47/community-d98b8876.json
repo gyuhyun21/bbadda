@@ -1,0 +1,30 @@
+{
+  "id": "community-d98b8876",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 와이비노멀",
+  "url": "https://dogma01.tistory.com/7053",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/3404tWEPr6g",
+  "title": "UFC 김대환 해설 “프로야구 출신 서의태 놀랍다”",
+  "published_at": "2026-11-10T05:29:21.000+09:00",
+  "collected_at": "2026-11-10T07:38:12.452Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 72,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE82d3pRQm1kTC1BQ2xMV1A1Nms5R1VMa2RLR3V5SHhyWEgzVzlkel9KRTg1eExoakdGX2tSX2VWV0VLa3o1TEE?oc=5"
+    }
+  ]
+}

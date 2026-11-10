@@ -1,0 +1,23 @@
+{
+  "id": "news-f33311cd",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "조선일보",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMnpYUUxNX05weDlPR284VDlyZURtU2E5OWY4YWtucWY0d0FJS1c0U3VKQXk5cC1yTlRwNDYxNXFndm5nRVlNdUF5Zmk5ZTV2bmhzTDRYbmtwNlpmTXJSN3RpNWFwRTVqeHQzaHdiQ01fSXdqcERSdDZGYlRKM1hPV0ZiQQ?oc=5",
+  "title": "김도영 상대 '1구 세이브' 기록 세우고 집으로? 루키 최연소 기록 포기하고 올렸더니…사령탑 믿음 저버린 사토시의 치명적 '볼질'",
+  "published_at": "2026-11-10T01:50:00.000Z",
+  "collected_at": "2026-11-10T07:38:12.452Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

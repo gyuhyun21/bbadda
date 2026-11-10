@@ -1,0 +1,24 @@
+{
+  "id": "news-2445f59f",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "일간스포츠",
+  "url": "http://isplus.joins.com/article/view/isp202611100065",
+  "title": "[IS 포커스] 최소 두 번의 손짓에도 고개 저었다…김호령, FA 시장서 새 둥지 찾나",
+  "published_at": "2026-11-10T02:57:00.000Z",
+  "collected_at": "2026-11-10T07:38:12.452Z",
+  "summary_ko": "일간스포츠는 FA 김호령이 KIA 잔류 제안에도 고개를 저어 새 팀을 찾을 수 있다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "김호령, FA 시장에서 새 둥지?"
+}

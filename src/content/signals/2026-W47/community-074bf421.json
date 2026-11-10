@@ -1,0 +1,24 @@
+{
+  "id": "community-074bf421",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 나눔터지역아동센터 사랑이야기",
+  "url": "https://blog.naver.com/xton1031/224470985715",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/LS0vmdpRMEm",
+  "title": "2026 APBC 야구대표팀 일본 출국! 김도영 우승 도전·최원호 감독 출사표…12일 호주전, 티빙·스포츠...",
+  "published_at": "2026-11-10T00:44:00.000+09:00",
+  "collected_at": "2026-11-10T07:38:12.452Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 62,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

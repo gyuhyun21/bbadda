@@ -1,0 +1,24 @@
+{
+  "id": "news-c5d830e2",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBTeVhBWlFJRkhTQ29tbmZFY1B1RHo0V2xqTGJYTm1tcWs4T2t1VC1hZDVLMlQ5aG94NW5fN3F3U283ZDZQc2Y1OGtkV0EtTC1PbEI5WXkwNF8zcndiWU5XSUw5MFlfdlZNVUxXUWdOdXpUaWRYTVFSX3plaXZDZw?oc=5",
+  "title": "골절상만 두번. 세이브 1위하다 이탈. 우승 마무리의 새 목표 \"왕이 되고 싶다\"[이천 인터뷰]",
+  "published_at": "2026-11-10T00:32:56.000Z",
+  "collected_at": "2026-11-10T07:38:12.452Z",
+  "summary_ko": "골절상을 두 번 겪고도 세이브 1위를 달렸던 LG 마무리가 이천 인터뷰에서 새 목표로 '왕이 되고 싶다'고 말했다고 스포츠조선이 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "mixed",
+  "brief_ko": "우승 마무리의 새 목표 '왕'"
+}

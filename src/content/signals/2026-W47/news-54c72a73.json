@@ -1,0 +1,23 @@
+{
+  "id": "news-54c72a73",
+  "issue": "2026-W47",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "ssg"
+  ],
+  "source_type": "news",
+  "source_name": "KBS 뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0zOHJXbUhiUTE5QlZaeXNuZVJyeG0tQzA2N1JiaXBWQ1gwbDNBM3ZTbm1GV204YkhIdGVkOW9kclVRTFkySGk3cFgzUXNtNlJYTzlhQWtvSlhZUGRhWlE?oc=5",
+  "title": "KIA, SSG에 개막전 역전패",
+  "published_at": "2026-11-09T08:19:29.000Z",
+  "collected_at": "2026-11-10T07:38:12.452Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 60,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

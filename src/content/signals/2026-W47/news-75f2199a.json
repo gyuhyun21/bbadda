@@ -1,0 +1,23 @@
+{
+  "id": "news-75f2199a",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "www.xportsnews.com",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1rdXZVeklJWmRnc1kwZ3FndDdFV2hKUlRTei1iMlh2TFJNUkNEUnl0MHpKeDVlYTVxU21OcGVvc2NZNkFvYnpBZklwTE5Cejh5akU5VA?oc=5",
+  "title": "일본-베네수엘라에 무너졌던 韓 U-23 대표팀, 영국 꺾고 연패 탈출…어준서 결승타",
+  "published_at": "2026-11-10T03:38:01.000Z",
+  "collected_at": "2026-11-10T07:38:12.452Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "news-04976777",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://www.mt.co.kr/amp/sports/2026/11/10/2026111011133954653",
+  "title": "\"푸른 유니폼 입는 마지막일수도\" 우승 캡틴 구자욱, 팬들에 절절한 손편지 고백... '대형 FA' 의미심장 메시지도 남겼다",
+  "published_at": "2026-11-10T03:38:03.000Z",
+  "collected_at": "2026-11-10T07:38:12.452Z",
+  "summary_ko": "우승 캡틴 구자욱이 팬들에게 손편지를 남겼고, 머니투데이는 '푸른 유니폼 마지막일 수도'라는 대목에 FA 의미가 담겼다고 짚었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 91,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5Qc29OS0xUUmdlRGZlSGNrb2V3RkhBZHh4SkZLQ3BxQWJvR2Q1Q2h0eF9icDJUazNHcm1Gcm5FQ0l1cWw5MzQwR2w4X3IyRjRINGxxUTdFSVpqZjBTaVF1b19JaTdXZXVVaHN4YXNxN1pIRmhvVkE?oc=5"
+    }
+  ],
+  "brief_ko": "구자욱, 팬에 손편지"
+}

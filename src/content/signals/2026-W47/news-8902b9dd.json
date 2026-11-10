@@ -1,0 +1,23 @@
+{
+  "id": "news-8902b9dd",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://www.sportschosun.com/baseball/2026-11-10/202611100100070920006554",
+  "title": "'한화 역대 최고액 포기' 노시환 초대박! '시애틀 영입 접근' 가능성 제기…\"3루수 FA 시장 빈약\"→효율적 선택",
+  "published_at": "2026-11-10T06:21:00.000Z",
+  "collected_at": "2026-11-10T07:38:12.452Z",
+  "summary_ko": "스포츠조선은 미국 현지에서 시애틀이 3루수 FA 시장이 빈약해 노시환 영입에 접근할 수 있다는 관측이 나왔다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 84,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "노시환, 시애틀 영입설 보도"
+}

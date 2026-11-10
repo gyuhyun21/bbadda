@@ -1,0 +1,23 @@
+{
+  "id": "community-f873401d",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte",
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 훈바오 월드",
+  "url": "https://blog.naver.com/kth4828/224471303071",
+  "title": "백용환 롯데 떠나 KIA 5년 만에 복귀…그런데 이범호 감독도 아직 보직은 정하지 않았다",
+  "published_at": "2026-11-10T10:43:00.000+09:00",
+  "collected_at": "2026-11-10T07:38:12.452Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

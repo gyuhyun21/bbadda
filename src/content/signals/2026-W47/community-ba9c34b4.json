@@ -1,0 +1,29 @@
+{
+  "id": "community-ba9c34b4",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 콩스 엔비에-이",
+  "url": "https://blog.naver.com/shitttcoin/224471394753",
+  "title": "'볼넷 주느니 맞더라도 싸우자' 최준용, 23사사구가 남긴 숙제",
+  "published_at": "2026-11-10T12:04:00.000+09:00",
+  "collected_at": "2026-11-10T07:38:12.452Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1SNC1XQWh5QlVwY0RBdjlGQVMxeXpCSjl6NkhVa19iU0l1Y25Ob3hTRDE5NzkyQnl1OFVneFVPc2VQNk1jeTlaNEhMMXFTNUItX2RXcmpGTFF4dFVvdGxHcjRkVXFnbExWRjRwTXhBVdIBb0FVX3lxTE1SNC1XQWh5QlVwY0RBdjlGQVMxeXpCSjl6NkhVa19iU0l1Y25Ob3hTRDE5NzkyQnl1OFVneFVPc2VQNk1jeTlaNEhMMXFTNUItX2RXcmpGTFF4dFVvdGxHcjRkVXFnbExWRjRwTXhBVQ?oc=5"
+    }
+  ]
+}

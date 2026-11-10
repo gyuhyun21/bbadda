@@ -1,0 +1,29 @@
+{
+  "id": "community-af5e0411",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/10539692946",
+  "title": "삼성라이온즈 우승 기념 신문 전면광고 - 야구",
+  "published_at": "2026-11-10T05:38:12.452Z",
+  "collected_at": "2026-11-10T07:38:12.452Z",
+  "summary_ko": "",
+  "excerpt": "... 인기 한화 안영명 심리재활코치 영입 [58]. 11.10 자유 ^-^ 조회1.9만 추천42. 한화 안영명 심리재활코치…",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "노컷뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5lOWZoRi11VDhha3QxeVN1R1pkQ19YSS1VWGVSUlRURjJFekMxaVNGYmlBdzJKT1VHc2lDZVZ2M1RrTXdibzRwVkJpSnpkeEc0d1E?oc=5"
+    }
+  ]
+}

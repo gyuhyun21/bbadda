@@ -1,0 +1,24 @@
+{
+  "id": "community-6a728892",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&page=5&document_srl=10539442884",
+  "title": "wRC+? WAR? 그건 너드들이나 보는 것 - 야구",
+  "published_at": "2026-11-10T03:38:12.452Z",
+  "collected_at": "2026-11-10T07:38:12.452Z",
+  "summary_ko": "",
+  "excerpt": "... 11 분 전 자유 롯데자이언츠 조회18. 유돈노 오버페이땜시 · 배찬승은 백정현 은퇴하면 29번 달려나…",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

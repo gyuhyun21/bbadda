@@ -1,0 +1,23 @@
+{
+  "id": "community-f740700d",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 레우스 스포츠",
+  "url": "https://blog.naver.com/borussenreus/224471275362",
+  "title": "“뒤바뀐 성적표” 홍창기와 김호령 FA 가치는 역전됐을까?",
+  "published_at": "2026-11-10T09:46:00.000+09:00",
+  "collected_at": "2026-11-10T07:38:12.452Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

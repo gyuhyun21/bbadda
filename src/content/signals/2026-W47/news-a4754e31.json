@@ -1,0 +1,23 @@
+{
+  "id": "news-a4754e31",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠경향",
+  "url": "https://sports.khan.co.kr/article/202611101416003/amp",
+  "title": "키움이 5년 만에 배출한 국대 투수··· 전준표 “저 선발 체질 맞는 것 같아요”",
+  "published_at": "2026-11-10T05:16:00.000Z",
+  "collected_at": "2026-11-10T07:38:12.452Z",
+  "summary_ko": "키움이 5년 만에 배출한 국가대표 투수 전준표가 선발 체질인 것 같다고 말했다고 스포츠경향이 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "전준표, 5년 만의 키움 국대"
+}

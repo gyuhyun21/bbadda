@@ -1,0 +1,24 @@
+{
+  "id": "community-599184d5",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 나눔터지역아동센터 사랑이야기",
+  "url": "https://blog.naver.com/xton1031/224471215815",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/GYR4zalxyYD",
+  "title": "한국 U-23 야구월드컵 영국에 3-0 완봉승! 이도우 8K 승리·이태연 세이브…4안타로 3득점, 2승 2패 반등",
+  "published_at": "2026-11-10T09:29:00.000+09:00",
+  "collected_at": "2026-11-10T07:38:12.452Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

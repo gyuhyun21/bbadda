@@ -1,0 +1,23 @@
+{
+  "id": "community-12b9c0f8",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&page=8&document_srl=10540039193",
+  "title": "최형우 삼성 라이온즈 통산 성적 업데이트 - 야구",
+  "published_at": "2026-11-10T07:05:12.452Z",
+  "collected_at": "2026-11-10T07:38:12.452Z",
+  "summary_ko": "",
+  "excerpt": "... 1457안타 252홈런 1017타점 WAR 44.220.312-0.396-0.544 OPS 0.940 wRC+ 145.3.",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

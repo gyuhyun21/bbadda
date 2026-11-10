@@ -1,0 +1,27 @@
+{
+  "id": "youtube-a2528bb8",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "엘냠씨",
+  "url": "https://www.youtube.com/watch?v=MIwgMuxZofs",
+  "title": "우승토템? 최원태? #엘지 #엘지트윈스 #LG #LG트윈스 #최원태 #삼성라이온즈 #KBO #야구 #야구팬 #크보 #프로야구 #야구리뷰 #야구분석 #엘냠씨",
+  "published_at": "2026-11-10T03:14:27Z",
+  "collected_at": "2026-11-10T07:38:12.452Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 2133,
+    "likes": 34,
+    "comments": 9
+  },
+  "scores": {
+    "hot": 56,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

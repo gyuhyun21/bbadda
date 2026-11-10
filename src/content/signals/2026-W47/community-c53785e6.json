@@ -1,0 +1,23 @@
+{
+  "id": "community-c53785e6",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 내가 그리는 이야기",
+  "url": "https://blog.naver.com/kimnk3779/224470248484",
+  "title": "KBO 역대 최다 홈런 TOP 10 총정리｜한국 프로야구 통산 홈런왕은 누구일까?",
+  "published_at": "2026-11-09T13:45:00.000+09:00",
+  "collected_at": "2026-11-10T07:38:12.452Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 58,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

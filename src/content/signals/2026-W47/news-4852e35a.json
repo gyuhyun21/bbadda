@@ -1,0 +1,23 @@
+{
+  "id": "news-4852e35a",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "뉴시스",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1EQmtKeDN2OF9KdVAtMDFNdHRzeFM3TFF6ZWdoNWFjUE90ejE2SklXSEJuT2E1ZE9tSjNRX2xzclVfOTJhZTlEWnZRVUpiMHVHMlBtVzB4R3ZCRDd3R1FNetIBeEFVX3lxTE54WU4zV1EzdC1uYUVYN3JVdmt4ak5vRmlKYVVLdEo2X0d3R3BTOFJVN254akVhU3Q0enVHcFFFSGNtU3ZlZXNtQ01ERmk1YTZVdXpTVHcteFcyMG5SaE5QU0tGZnljRHh0dmlMdjNKRXJqN3o5SFJmYg?oc=5",
+  "title": "슈퍼스타 김도영, APBC서 후배 박재현 활약 기대 \"가을야구 통해 성장\"",
+  "published_at": "2026-11-10T06:30:18.000Z",
+  "collected_at": "2026-11-10T07:38:12.452Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

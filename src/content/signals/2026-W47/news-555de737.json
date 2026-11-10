@@ -1,0 +1,23 @@
+{
+  "id": "news-555de737",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "세계비즈",
+  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAyeWttbnV1VURmQ1ZVRWlHTGRweFA1ajdIbmZXVU4zMnpSS2FlWFZ3eGNPZ3B2WDRUOWY5TWoxazQ3dDlKTndidF9XWjRTQzdxZDl4ZFo1NA?oc=5",
+  "title": "[인터뷰] 잠실야구장 LTE 구축 주역들…“우리에게도 특별하죠”",
+  "published_at": "2026-11-09T23:02:51.000Z",
+  "collected_at": "2026-11-10T07:38:12.452Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

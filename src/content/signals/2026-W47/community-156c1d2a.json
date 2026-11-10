@@ -1,0 +1,23 @@
+{
+  "id": "community-156c1d2a",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 이슈메이커",
+  "url": "https://issuemaker7.tistory.com/12",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/6YzYSjKMqyc",
+  "title": "\"삼성 12년 만에 우승했는데 TV도 싸질까?\"…과거 111만 원 혜택 재조명",
+  "published_at": "2026-11-10T15:40:44.000+09:00",
+  "collected_at": "2026-11-10T07:38:12.452Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

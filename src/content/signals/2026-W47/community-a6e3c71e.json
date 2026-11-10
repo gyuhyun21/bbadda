@@ -1,0 +1,24 @@
+{
+  "id": "community-a6e3c71e",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 경기를 보다가 문득",
+  "url": "https://blog.naver.com/munduksports/224470474924",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/DLisHPCvAlw",
+  "title": "\"이렇게까지 말한다고?\" 17홈런 친 국대 포수의 자기 평가",
+  "published_at": "2026-11-09T21:53:00.000+09:00",
+  "collected_at": "2026-11-10T07:38:12.452Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 61,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "news-f5803113",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "네이트",
+  "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE53TTY1SEUzOGU5ZnpBRWFBc2tsYWhOXzlfajQ4MmVYX29acGpkZmZrNlFyLWp5T2hRSDZZOFJGandzZ01JTVJSSy1zb1Vic2NKYXBCZXJn?oc=5",
+  "title": "'KBO 역사상 최초 주인공' 페덱 \"PS 때 팀 위해 헌신해야…우승 약속 지켜 기뻐\" [삼성 V9]",
+  "published_at": "2026-11-09T20:00:00.000Z",
+  "collected_at": "2026-11-10T07:38:12.452Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 80
+  },
+  "sentiment": "positive"
+}

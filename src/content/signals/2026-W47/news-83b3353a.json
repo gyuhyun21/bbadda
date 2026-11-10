@@ -1,0 +1,29 @@
+{
+  "id": "news-83b3353a",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://www.mt.co.kr/amp/sports/2026/11/10/202611101432779819O",
+  "title": "'한화 파격 실험' 베이스 코치가 사라진다니? 류지현 감독 \"스스로 판단하고 플레이하라\" [오!쎈 미야자키]",
+  "published_at": "2026-11-10T05:50:00.000Z",
+  "collected_at": "2026-11-10T07:38:12.452Z",
+  "summary_ko": "류지현 한화 감독이 미야자키 캠프에서 베이스 코치를 없애고 선수가 스스로 판단해 뛰게 하겠다고 밝혔다고 머니투데이가 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 83,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1SYUNqLXBURHJuN3RTVlVMc1R4SU5VV2FDbTRLNGhoUmNZWXo3WXZQSWFKZW9oV2pTNGRIVTNjbWxQU3B4ZUk2aE8zMElZRVQ0NG5mTw?oc=5"
+    }
+  ],
+  "brief_ko": "베이스 코치 없앤 한화 실험"
+}

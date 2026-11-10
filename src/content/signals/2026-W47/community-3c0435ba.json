@@ -1,0 +1,34 @@
+{
+  "id": "community-3c0435ba",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&document_srl=10539068357",
+  "title": "U-23 야구대표팀, 세계선수권서 영국 꺾고 연패서 탈출",
+  "published_at": "2026-11-10T01:38:12.452Z",
+  "collected_at": "2026-11-10T07:38:12.452Z",
+  "summary_ko": "",
+  "excerpt": "... 마운드에서는 선발 이도우(SSG 랜더스)와 이태연(롯데 자이언츠)이 각각 4⅔이닝 1피안타 8탈삼진 무실점, 2⅓이닝 1피안타 무실점으로…",
+  "metrics": {},
+  "scores": {
+    "hot": 98,
+    "relevance": 70
+  },
+  "sentiment": "negative",
+  "also_in": [
+    {
+      "source_name": "연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE03WDJLeE5CWEN2aUdaSE1EZ1o5VmZ3OTNPdG9qYUM5SlJ3QXdsWWhUNXJjZGZRRkFEa0JhRzZjTXJRQzZNdkdJQkFkZk00M3VuUFNiUEF0SlJvV1k4VU85WNIBYEFVX3lxTE03WDJLeE5CWEN2aUdaSE1EZ1o5VmZ3OTNPdG9qYUM5SlJ3QXdsWWhUNXJjZGZRRkFEa0JhRzZjTXJRQzZNdkdJQkFkZk00M3VuUFNiUEF0SlJvV1k4VU85WA?oc=5"
+    },
+    {
+      "source_name": "일간스포츠",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5iZUVzM1B2d1cwYTFraW42YUlOSkw2MHU1aEpIUTZlWEl4b1NtQVhHekV1NGlrQ2YyWVZNVm1lX21YaGdKYlViaXR6U0dxY3ZJZGxzangtQVBDNXRnaDBmN1Rn?oc=5"
+    }
+  ]
+}

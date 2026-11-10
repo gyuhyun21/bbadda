@@ -1,0 +1,26 @@
+{
+  "id": "youtube-5ac52eff",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "youtube",
+  "source_name": "PK노래방",
+  "url": "https://www.youtube.com/watch?v=ZuRzPhG83ug",
+  "title": "[노래방] 박준순 응원가 (2025) - 두산 베어스",
+  "published_at": "2026-11-10T03:29:22Z",
+  "collected_at": "2026-11-10T07:38:12.452Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 0,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

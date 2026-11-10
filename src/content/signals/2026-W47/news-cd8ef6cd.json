@@ -1,0 +1,23 @@
+{
+  "id": "news-cd8ef6cd",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "www.stnsports.co.kr",
+  "url": "https://www.stnsports.co.kr/news/articleView.html?idxno=325346",
+  "title": "미국 매체, 삼성 페덱에 “MLB 복귀보다 삼성 잔류하라”",
+  "published_at": "2026-11-10T06:03:20.000Z",
+  "collected_at": "2026-11-10T07:38:12.452Z",
+  "summary_ko": "한 미국 매체가 삼성 페덱에게 MLB 복귀보다 삼성 잔류를 권했다고 STN스포츠가 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 80
+  },
+  "sentiment": "positive",
+  "brief_ko": "미국 매체, 페덱에 잔류 권유"
+}

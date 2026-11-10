@@ -1,0 +1,24 @@
+{
+  "id": "news-43fdbd37",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Xb1loYkNPZ2xzdExjNHdnMlBZV0N2dnU5UmlIanFkWFcxUm9uWVV1bzlVNXZ6Wk5QRHVLTkw5NGFsR3ZLSmRfNzVnb3B0UEcxbW5jSXNFOUNWYW11MEZhTTY1SXVpYTJZTkRUVG1sZ9IBb0FVX3lxTE9Xb1loYkNPZ2xzdExjNHdnMlBZV0N2dnU5UmlIanFkWFcxUm9uWVV1bzlVNXZ6Wk5QRHVLTkw5NGFsR3ZLSmRfNzVnb3B0UEcxbW5jSXNFOUNWYW11MEZhTTY1SXVpYTJZTkRUVG1sZw?oc=5",
+  "title": "'짐승'과 '지니어스'의 만남, 'FA급' 주전 중견수로 거듭나나…\"노하우 잘 흡수하겠다\" [오!쎈 오키나와]",
+  "published_at": "2026-11-10T00:09:00.000Z",
+  "collected_at": "2026-11-10T07:38:12.452Z",
+  "summary_ko": "NC 오키나와 캠프에서 주전 중견수 후보가 선배의 노하우를 흡수하겠다고 말했다고 머니투데이가 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "오키나와, 중견수 경쟁 시작"
+}

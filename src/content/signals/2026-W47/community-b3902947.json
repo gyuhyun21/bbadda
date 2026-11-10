@@ -1,0 +1,24 @@
+{
+  "id": "community-b3902947",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 headam0428님의 블로그",
+  "url": "https://blog.naver.com/headam0428/224471429811",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/4NFtAL2FM7T",
+  "title": "“미국에선 2년 800만 달러였는데…” 돌아오자 첫해 연봉만 81억 원 받은 한국인 투수",
+  "published_at": "2026-11-10T11:38:00.000+09:00",
+  "collected_at": "2026-11-10T07:38:12.452Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

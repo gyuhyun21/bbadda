@@ -1,0 +1,24 @@
+{
+  "id": "news-7c1ee540",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "news",
+  "announcement": true,
+  "source_name": "MHN스포츠",
+  "url": "https://mhnse.com/news/articleView.html?idxno=1691061",
+  "title": "[오피셜]선수 빠진 선진 야구 연수?...코치, 트레이너, 프런트까지 日 명문 구단에 보낸 NC의 진심",
+  "published_at": "2026-11-10T03:01:34.000Z",
+  "collected_at": "2026-11-10T07:38:12.452Z",
+  "summary_ko": "NC가 코치·트레이너·프런트를 일본 소프트뱅크에 보내 현장 연수를 했다고 MHN스포츠가 오피셜로 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "NC, 소프트뱅크 연수"
+}

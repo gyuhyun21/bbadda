@@ -1,0 +1,24 @@
+{
+  "id": "community-b6e59b72",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&page=3&document_srl=10539135170",
+  "title": "3년 전 오늘 KBO에서 있었던 일 - 야구",
+  "published_at": "2026-11-10T01:38:12.452Z",
+  "collected_at": "2026-11-10T07:38:12.452Z",
+  "summary_ko": "",
+  "excerpt": "... [레벨:34] 박한이 10 분 전. ㄱ- · [레벨:26] 꾸이이익 10 분 전. 앗흥 ·…",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}
