@@ -132,6 +132,8 @@ spec.segments.forEach((s, i) => {
   let d = (clip ?? s.dur ?? 3).toFixed(2);
   if (hasVoice(s)) { try { voice(s.say!, a); d = Math.max(dur(a) + 0.25, 1.8).toFixed(2); } catch { console.error(`경고: 목소리 처리 실패, 음악만 — ${s.say}`); } }
   if (s.kind === 'motion') s.motion = true; // SCENES 장면표 표기 "kind":"motion" = motion: true
+  // 남의 영상(credit·yt 가 있는 장면)에 motion 을 붙이면 '영상:' 표기와 39초 합계를 피해 가므로 막는다(규엔 2026-11-11)
+  if (s.motion && (s.credit || (s as { yt?: string }).yt)) { console.error(`경고: ${i + 1}번 장면은 credit·yt 가 있는 경기 영상이라 motion 을 무시함 — ${s.src}`); s.motion = false; }
   const licensed = !s.motion && (!isStill(s.src) || !!s.credit); // 경기 영상 또는 그 썸네일(우리가 만든 모션 장면은 빼고)
   if (licensed) {
     const left = FOOTAGE_MAX - footage;
