@@ -3,6 +3,7 @@
 # 키·설정: 환경변수 또는 저장소 .env 의 GOOGLE_TTS_API_KEY · TTS_RATE(기본 1.1) · TTS_VOICE(기본 Puck). 키는 출력하지 않는다(헤더로만, 명령줄에도 안 남게 보냄).
 # 끝 코드: 0 성공 · 2 키 없음 · 1 오류 — 0 이 아니면 루틴은 목소리 없이 자막으로 만든다(docs/reel-routine.md 5단계).
 set -uo pipefail
+set +x  # bash -x 로 돌려도 키가 디버그 출력에 찍히지 않게
 TEXT="${1:-}"; OUT="${2:-}"
 [ -n "$TEXT" ] && [ -n "$OUT" ] || { echo "쓰기: tts-google.sh \"<대본>\" <출력.mp3>" >&2; exit 1; }
 ROOT="$(cd "$(dirname "$0")/../.." && pwd)"
