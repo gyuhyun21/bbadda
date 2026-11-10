@@ -106,9 +106,9 @@
 - 카루셀(사진 묶음)에는 API 로 음악을 넣을 수 없다. 음악은 릴스에만.
 
 ## 10. 릴스 음성(내레이션, 2026-10-23 주인 결정)
-- 목소리: Google Cloud Text-to-Speech `ko-KR-Chirp3-HD-Puck`(남성, 2026-11-10 주인 결정 — 이전 Higgsfield Benji 대체). `scripts/insta/tts-google.sh "<대본>" <출력.mp3>`, 키는 `.env` 의 `GOOGLE_TTS_API_KEY`(출력하지 않음). 키가 없거나 오류면 목소리 없이 자막. 말 빠르기는 0.78(원본 대비, 후처리 1.18배·영상 1.3배와 곱해 릴스 체감 약 1.2배 — 2026-11-10 주인: '1.5배는 너무 빠르다, 1.2배'). 바꾸려면 `.env` 에 `TTS_RATE=0.85` 같은 한 줄, 목소리는 `TTS_VOICE=ko-KR-Chirp3-HD-<이름>`(환경변수가 있으면 그것이 먼저).
+- 목소리: Google Cloud Text-to-Speech `ko-KR-Chirp3-HD-Puck`(남성, 2026-11-10 주인 결정 — 이전 Higgsfield Benji 대체). `scripts/insta/tts-google.sh "<대본>" <출력.mp3>`, 키는 `.env` 의 `GOOGLE_TTS_API_KEY`(출력하지 않음). 키가 없거나 오류면 목소리 없이 자막. 말 빠르기는 1.0(원본 그대로, 후처리 1.18배와 곱해 릴스 목소리 약 1.18배 — 2026-11-10 주인: '1.5배는 너무 빠르다, 1.2배', 같은 날 영상은 원속도로 결정). 바꾸려면 `.env` 에 `TTS_RATE=0.85` 같은 한 줄, 목소리는 `TTS_VOICE=ko-KR-Chirp3-HD-<이름>`(환경변수가 있으면 그것이 먼저).
 - 말투: 정보형 릴스처럼 짧은 반말 구어체("이거 나만 몰랐어?", "~하나면 끝이야", "~눌러 봐!"). 안내체("~해 드려요")는 쓰지 않는다.
-- 속도: 생성한 뒤 `ffmpeg -af "silenceremove=start_periods=1:start_threshold=-45dB:stop_periods=-1:stop_duration=0.18:stop_threshold=-45dB,atempo=1.18,loudnorm=I=-14:TP=-1.5"` 로 문장 사이 쉼을 0.18초로 줄이고 1.18배 빠르게(음 높이는 그대로). 조립이 끝난 릴스는 전체를 다시 1.3배로 돌린다(2026-10-29 주인 결정: 전개 30% 빠르게, `reel-make.ts` SPEED).
+- 속도: 생성한 뒤 `ffmpeg -af "silenceremove=start_periods=1:start_threshold=-45dB:stop_periods=-1:stop_duration=0.18:stop_threshold=-45dB,atempo=1.18,loudnorm=I=-14:TP=-1.5"` 로 문장 사이 쉼을 0.18초로 줄이고 1.18배 빠르게(음 높이는 그대로). 조립이 끝난 릴스는 원속도 그대로 둔다(2026-11-10 주인 결정: 2026-10-29 의 영상 1.3배 폐지, `reel-make.ts` SPEED=1.0).
 - 영문 약칭은 한글 발음으로 바꿔 넣는다(그대로 쓰면 알파벳으로 읽음):
   KBO→케이비오, KIA→기아, KT→케이티, LG→엘지, SSG→에스에스지, NC→엔씨, PO→플레이오프, KS→한국시리즈, 준PO→준플레이오프, MVP→엠브이피, FA→에프에이.
 - 숫자는 목소리 대본(say)에 아라비아 숫자로 쓰지 않고, 읽을 소리 그대로 한글로 풀어 쓴다(2026-10-24 주인 지적: "24 대 5"를 '스물네 대 오'로 읽음). `scripts/insta/ko-num.ts` 가 이 규칙대로 바꿔 준다(목소리 만들기 전에 반드시 거친다). 그래도 숫자가 남은 장면은 조립할 때 목소리가 꺼진다(릴스는 그대로 나간다).
