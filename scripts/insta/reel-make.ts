@@ -9,7 +9,7 @@
 //   가로 영상은 기본으로 흐린 배경 위에 통째로 놓는다(fit: false 면 세로로 꽉 채워 자름). 경기 영상 합계는 FOOTAGE_MAX 초를 넘지 않게 자른다(넘으면 뒤 장면부터 줄임).
 // 공식 영상 썸네일 장면(2026-10-26): src 에 i.ytimg.com 주소를 그대로 쓴다(파일을 저장소에 두지 않고 조립할 때만 받음, 고해상도가 없으면 hqdefault). 그림 파일에 credit(예 'TVING')을 주면 경기 영상의 한 장면으로 보고 — 흐린 배경 위에 통째로(로고·워터마크를 자르지 않음), 화면에 '영상: <credit>', 길이를 경기 영상 합계에 넣는다.
 // 장면 효과(2026-11-10 이재용(CoS) 배분, save pool 릴스): 장면에 아래 칸을 더하면 장면 안의 그 시각(장면 시작부터 초, 배속 전)에 효과가 들어간다. 없으면 예전과 똑같이 조립한다.
-//   fx: [{ at, dur?: 1.2, text, style?: 'mind'(심리 자막)|'pop'(강조)|'sfx'(효과음 글자), pos?: 'top'|'mid'|'low'|[x, y](글 가운데 좌표), size?: 글자 px }] — 글마다 그림 한 장, 작게→크게→제자리로 툭 튀어나옴
+//   fx: [{ at, dur?, text, style?: 'mind'(심리 자막)|'pop'(강조)|'sfx'(효과음 글자), pos?: 'top'|'mid'|'low'|[x, y](글 가운데 좌표), size?: 글자 px }] — 글마다 그림 한 장, 스타일별 등장 움직임(FX_MOVE). 덤 style: alert(경고)·think(속마음 말풍선)·stamp(판정 도장)
 //   zoom·shake·freeze·lines(집중선)·flash: { at, dur? } — 서서히 1.2배 확대 / 흔들림 / 그 프레임에서 멈춤 / 집중선 / 흰 번쩍임. 흔들림이 있으면 배경을 1.075배 키워 가장자리를 자른다.
 import { readFileSync, writeFileSync, mkdirSync, copyFileSync, existsSync } from 'node:fs';
 import { join, resolve } from 'node:path';
@@ -57,13 +57,44 @@ body.end{background:#ffe03a;color:#111}
 .vs img{height:250px}
 .cta{left:80px;right:80px;top:1320px;background:#111;color:#fff;border-radius:28px;padding:40px 46px;font-size:62px;font-weight:900;line-height:1.3}
 .cta small{display:block;font-size:40px;font-weight:700;color:#ffe03a;margin-top:10px}
-.fx{transform:translate(-50%,-50%);width:max-content;max-width:960px;text-align:center;line-height:1.2}
-.fx.mind{font-size:60px;font-weight:800;padding:14px 34px;border-radius:999px;background:rgba(17,17,17,.78);color:#fff}
-.fx.pop{font-size:120px;font-weight:900;color:#ffe03a;-webkit-text-stroke:5px #111;paint-order:stroke fill;text-shadow:8px 8px 0 #111;transform:translate(-50%,-50%) rotate(-4deg)}
-.fx.sfx{font-size:170px;font-weight:900;color:#fff;-webkit-text-stroke:7px #e8202a;paint-order:stroke fill;text-shadow:10px 10px 0 #111;transform:translate(-50%,-50%) rotate(-10deg) skewX(-8deg)}
+.fx{position:absolute;left:var(--cx,540px);top:var(--cy,1080px);transform:translate(-50%,-50%) rotate(var(--rot,0deg));
+  max-width:900px;text-align:center;line-height:1.15;letter-spacing:-.02em;white-space:nowrap}
+.fx.top{--cy:720px} .fx.mid{--cy:1080px} .fx.low{--cy:1330px}
+
+.fx.mind{font-size:64px;font-weight:700;color:#fff;background:rgba(17,17,17,.72);padding:14px 34px;border-radius:999px;
+  box-shadow:0 0 0 3px rgba(255,255,255,.18)}
+
+.fx.pop{--rot:-4deg;font-size:150px;font-weight:900;color:#ffe03a;-webkit-text-stroke:8px #111;paint-order:stroke fill;
+  text-shadow:8px 8px 0 #111}
+
+.fx.alert{--rot:-2deg;font-size:96px;font-weight:900;color:#fff;background:#d70015;padding:18px 44px 22px;border-radius:20px;
+  border:6px solid #111;box-shadow:10px 10px 0 #111}
+.fx.alert::before{content:'!';display:inline-block;width:1.05em;height:1.05em;line-height:1.05em;margin-right:.3em;border-radius:50%;
+  background:#ffe03a;color:#111;font-size:.8em;vertical-align:.08em}
+
+.fx.think{font-size:60px;font-weight:800;color:#111;background:#fff;padding:26px 40px;border-radius:44px;border:5px solid #111;
+  box-shadow:8px 8px 0 rgba(0,0,0,.55);white-space:normal;max-width:760px;word-break:keep-all}
+.fx.think::after{content:'';position:absolute;left:90px;bottom:-34px;width:40px;height:40px;background:#fff;border-radius:50%;border:5px solid #111}
+.fx.think::before{content:'';position:absolute;left:58px;bottom:-66px;width:22px;height:22px;background:#fff;border-radius:50%;border:5px solid #111}
+
+.fx.stamp{--rot:-12deg;width:340px;height:340px;display:flex;align-items:center;justify-content:center;border-radius:50%;
+  font-size:104px;font-weight:900;color:#ffe03a;background:rgba(17,17,17,.55);border:12px solid #ffe03a;
+  box-shadow:0 0 0 8px #111,inset 0 0 0 8px #111;-webkit-text-stroke:5px #111;paint-order:stroke fill}
+
+.fx.sfx{--rot:8deg;font-size:170px;font-weight:900;color:#fff;-webkit-text-stroke:10px #111;paint-order:stroke fill;
+  filter:drop-shadow(10px 10px 0 #ffe03a);transform:translate(-50%,-50%) rotate(var(--rot)) skewX(-10deg)}
 .lines{inset:0;background:repeating-conic-gradient(from 0deg at 50% 45%,transparent 0deg 2.4deg,rgba(255,255,255,.92) 2.4deg 3deg);-webkit-mask:radial-gradient(ellipse 42% 30% at 50% 45%,transparent 55%,#000 100%)}`;
-// shortcut: 효과 자막 스타일 3종은 임시(우영미 시안 오기 전) — 시안이 오면 위 .fx.* 값만 바꾼다
-const FX_STYLES = ['mind', 'pop', 'sfx'], FX_POS = { top: [540, 700], mid: [540, 960], low: [540, 1250] } as const;
+// 효과 자막 .fx.* 값·움직임은 우영미(PD) 시안 2026-11-10(SPEC.md·SPEC-3.md). s = 처음 몇 프레임의 크기(글 가운데 기준, 그 뒤 1.0),
+// fade = 0.15초 페이드 인·아웃, drop = 위에서 내려오는 px, wob = [좌우 px, 횟수](0.25초), dur = 기본 길이(stamp 는 장면 끝까지), pos = 기본 자리
+const FX_POS = { top: [540, 720], mid: [540, 1080], low: [540, 1330] } as const;
+const FX_MOVE: Record<string, { s: number[]; fade?: boolean; drop?: number; wob?: [number, number]; dur: number; pos: keyof typeof FX_POS }> = {
+  mind: { s: [], fade: true, drop: 20, dur: 1.2, pos: 'top' },
+  pop: { s: [0.6, 0.83, 1.06, 1.12, 1.06], dur: 1, pos: 'mid' },
+  sfx: { s: [1.5, 1.2, 0.92, 0.96], wob: [8, 2], dur: 0.65, pos: 'mid' },
+  alert: { s: [0.6, 0.83, 1.06, 1.12, 1.06], wob: [12, 3], dur: 1.2, pos: 'mid' },
+  think: { s: [0.85, 0.9, 0.95], fade: true, dur: 2, pos: 'top' },
+  stamp: { s: [1.6, 1.6, 1.25, 1.25, 0.95, 0.98], dur: 99, pos: 'mid' },
+};
 const page = (body: string, cls = '') => `<!doctype html><html lang="ko"><head><meta charset="utf-8"><style>${CSS}</style></head><body class="${cls}">${body}</body></html>`;
 const esc = (s = '') => s.replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' })[c]!);
 /** 제목은 <b>·<br> 만 살린다 */
@@ -133,18 +164,26 @@ spec.segments.forEach((s, i) => {
   if (ln) { const png = join(TMP, `l${i}.png`); shot(page('<div class="lines"></div>'), png); extra.push('-i', png); g += `[l0];[l0][${n++}]overlay=enable='between(t,${ln[0]},${ln[1]})'`; }
   g += '[v];[v][1]overlay';
   (s.fx ?? []).forEach((f, k) => {
-    const w = win(f, 1.2, `fx "${f.text}"`);
+    const style = f.style && FX_MOVE[f.style] ? f.style : (f.style && console.error(`경고: 효과 자막 스타일 ${f.style} 없음 — pop 으로`), 'pop');
+    const mv = FX_MOVE[style], w = win(f, mv.dur, `fx "${f.text}"`);
     if (!w) return;
-    const style = FX_STYLES.includes(f.style ?? 'pop') ? (f.style ?? 'pop') : (console.error(`경고: 효과 자막 스타일 ${f.style} 없음 — pop 으로`), 'pop');
-    const [x, y] = Array.isArray(f.pos) ? f.pos : FX_POS[f.pos ?? 'mid'] ?? FX_POS.mid;
+    const [x, y] = Array.isArray(f.pos) ? f.pos : FX_POS[f.pos ?? mv.pos] ?? FX_POS.mid;
     const png = join(TMP, `f${i}_${k}.png`);
-    shot(page(`<p class="fx ${style}" style="left:${x}px;top:${y}px${f.size ? `;font-size:${f.size}px` : ''}">${head(f.text)}</p>`), png);
-    extra.push('-i', png);
-    // 툭 튀어나오기: 글 가운데를 중심으로 0.6배(2프레임) → 1.15배(2프레임) → 제자리
-    const at = (sc: number) => `x=${Math.round(x * (1 - sc))}:y=${Math.round(y * (1 - sc))}`;
-    const t1 = Math.min(w[0] + 0.067, w[1]), t2 = Math.min(w[0] + 0.134, w[1]);
-    g += `[c${k}];[${n++}]split=3[p${k}a][p${k}b][p${k}c];[p${k}a]scale=648:1152[q${k}a];[p${k}b]scale=1242:2208[q${k}b]`
-      + `;[c${k}][q${k}a]overlay=${at(0.6)}:enable='between(t,${w[0]},${t1})'[c${k}a];[c${k}a][q${k}b]overlay=${at(1.15)}:enable='between(t,${t1},${t2})'[c${k}b];[c${k}b][p${k}c]overlay=enable='between(t,${t2},${w[1]})'`;
+    shot(page(`<div class="fx ${style}" style="--cx:${x}px;--cy:${y}px${f.size ? `;font-size:${f.size}px` : ''}">${head(f.text)}</div>`), png);
+    // 페이드는 시간에 따라 바뀌니 그림을 장면 길이만큼 늘려 넣는다
+    extra.push(...(mv.fade ? ['-loop', '1', '-framerate', '30', '-t', d] : []), '-i', png);
+    const [a0, a1] = w, on = (t0: number, t1: number) => `enable='gte(t,${t0.toFixed(3)})*lt(t,${t1.toFixed(3)})'`;
+    const dx = mv.wob ? `+if(lt(t,${a0 + 0.25}),${mv.wob[0]}*sin((t-${a0})*${((2 * Math.PI * mv.wob[1]) / 0.25).toFixed(2)}),0)` : '';
+    const dy = mv.drop ? `-${mv.drop}*max(0,1-(t-${a0})/0.15)` : '';
+    const st = [...mv.s.map((sc, j) => [sc, a0 + j / 30] as const), [1, a0 + mv.s.length / 30] as const];
+    const src = `p${k}`;
+    g += `[c${k}];[${n++}]format=rgba${mv.fade ? `,fade=t=in:st=${a0}:d=0.15:alpha=1,fade=t=out:st=${Math.max(a1 - 0.15, a0)}:d=0.15:alpha=1` : ''},split=${st.length}${st.map((_, j) => `[${src}${j}]`).join('')}`;
+    st.forEach(([sc, t0], j) => {
+      const t1 = j + 1 < st.length ? Math.min(st[j + 1][1], a1) : a1;
+      const inp = sc === 1 ? `${src}${j}` : `${src}${j}s`;
+      if (sc !== 1) g += `;[${src}${j}]scale=${Math.round(1080 * sc)}:${Math.round(1920 * sc)}[${inp}]`;
+      g += `;[c${k}${j ? `_${j}` : ''}][${inp}]overlay=x='${Math.round(x * (1 - sc))}${dx}':y='${Math.round(y * (1 - sc))}${dy}':${on(t0, t1)}${j + 1 < st.length ? `[c${k}_${j + 1}]` : ''}`;
+    });
   });
   const fl = win(s.flash, 0.2, 'flash');
   if (fl) g += `,drawbox=c=white@0.85:t=fill:enable='between(t,${fl[0]},${(fl[0] + fl[1]) / 2})',drawbox=c=white@0.4:t=fill:enable='between(t,${(fl[0] + fl[1]) / 2},${fl[1]})'`;
