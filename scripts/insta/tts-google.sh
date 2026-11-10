@@ -1,15 +1,17 @@
 #!/usr/bin/env bash
 # 릴스 목소리(2026-11-10 주인 결정: Higgsfield → Google Cloud TTS, 목소리 Puck). 쓰기: tts-google.sh "<대본>" <출력.mp3>
-# 키: 환경변수 또는 저장소 .env 의 GOOGLE_TTS_API_KEY. 키는 출력하지 않는다(헤더로만, 명령줄에도 안 남게 보냄).
+# 키·설정: 환경변수 또는 저장소 .env 의 GOOGLE_TTS_API_KEY · TTS_RATE(기본 1.1) · TTS_VOICE(기본 Puck). 키는 출력하지 않는다(헤더로만, 명령줄에도 안 남게 보냄).
 # 끝 코드: 0 성공 · 2 키 없음 · 1 오류 — 0 이 아니면 루틴은 목소리 없이 자막으로 만든다(docs/reel-routine.md 5단계).
 set -uo pipefail
 TEXT="${1:-}"; OUT="${2:-}"
 [ -n "$TEXT" ] && [ -n "$OUT" ] || { echo "쓰기: tts-google.sh \"<대본>\" <출력.mp3>" >&2; exit 1; }
-VOICE="${TTS_VOICE:-ko-KR-Chirp3-HD-Puck}"
-RATE="${TTS_RATE:-1.1}"  # 말 빠르기(2026-11-10 주인: Puck 원래보다 10% 빠르게). 0.25~2.0
 ROOT="$(cd "$(dirname "$0")/../.." && pwd)"
-KEY="${GOOGLE_TTS_API_KEY:-}"
-[ -z "$KEY" ] && [ -f "$ROOT/.env" ] && KEY="$(grep -E '^GOOGLE_TTS_API_KEY=' "$ROOT/.env" | tail -1 | cut -d= -f2- | tr -d "\"' \r")"
+# 값 읽기: 환경변수가 먼저, 없으면 저장소 .env 의 같은 이름 줄
+envval() { local v="${!1:-}"; [ -z "$v" ] && [ -f "$ROOT/.env" ] && v="$(grep -E "^$1=" "$ROOT/.env" | tail -1 | cut -d= -f2- | tr -d "\"' \r")"; printf '%s' "$v"; }
+VOICE="$(envval TTS_VOICE)"; VOICE="${VOICE:-ko-KR-Chirp3-HD-Puck}"
+RATE="$(envval TTS_RATE)"  # 말 빠르기(2026-11-10 주인: Puck 원래보다 10% 빠르게). 0.25~2.0
+[[ "$RATE" =~ ^[0-9]+(\.[0-9]+)?$ ]] || { [ -n "$RATE" ] && echo "tts-google: TTS_RATE='$RATE' 숫자가 아님 — 1.1 로 만든다" >&2; RATE=1.1; }
+KEY="$(envval GOOGLE_TTS_API_KEY)"
 [ -n "$KEY" ] || { echo "tts-google: GOOGLE_TTS_API_KEY 없음 — 목소리 없이 만든다" >&2; exit 2; }
 
 BODY=$(TEXT="$TEXT" VOICE="$VOICE" RATE="$RATE" node -e 'const v=process.env.VOICE;process.stdout.write(JSON.stringify({input:{text:process.env.TEXT},voice:{languageCode:v.split("-").slice(0,2).join("-"),name:v},audioConfig:{audioEncoding:"MP3",speakingRate:Number(process.env.RATE)}}))')
