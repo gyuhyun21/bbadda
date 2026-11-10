@@ -39,6 +39,7 @@ claude.ai 루틴 'BBADDA 릴스(매일)'(trig_01X6qpmccCS2Ef62Hm5mGK3g)는 대�
    - 끝 장면: head 를 경기·선수 이야기 질문으로, cta 는 사이트 유입이 아니라 공유·팔로우 하나만(2026-10-29 주인 결정): 친구에게 보낼 만한 이야기면 "<팀>팬 친구한테 보내 줘", 아니면 "이런 소식 매일 받으려면 팔로우"처럼 얻는 것을 구체적으로. 끝 장면 목소리(say)도 같은 말. 승부 예측 투표는 유도하지 않는다(2026-10-26 주인: 사용자가 적고 유입 유인이 안 됨).
    - 대본·캡션은 파일로 써서 `python3 .claude/skills/ig-human/humanize.py <파일> --report` 로 점검하고, 번역투 표시(ko-*)가 나오면 고친다(insta-style 13절). 말투는 docs/insta-voice.md.
    - 금지: 기사 문장 베끼기, 15단어 넘는 인용, 루머 단정, 비하, 경품.
+   - 효과(선택, 2026-11-10~ — save pool 릴스는 편당 4~6개, 매일 칸은 안 넣어도 된다): 장면에 효과 자막 `"fx":[{"at":1.2,"dur":1.2,"text":"(동공 지진)","style":"mind","pos":"low"}]`(style: mind 심리 자막 · pop 강조 · sfx 효과음 글자 / pos: top·mid·low 또는 [x,y] 글 가운데 좌표, 1080×1920 / text 에 <b>·<br> 가능)와 화면 효과 `"zoom"`(서서히 1.2배)·`"shake"`(흔들림)·`"freeze"`(멈춤)·`"lines"`(집중선)·`"flash"`(번쩍임)를 `{"at":초,"dur":초}`로 넣는다. at 은 그 장면 시작부터 초 — 장면 길이는 목소리 길이(+0.25초)라 목소리에서 그 말이 나오는 시각에 맞춘다. 장면 길이 밖 at 은 경고 후 빠진다. 한 장면에 fx 는 2개까지, 같은 시각에 두 글이 겹치지 않게. 하단 자막(sub)·큰 제목(head)을 가리지 않게 pos 를 고른다(top 은 제목 바로 아래, low 는 하단 자막 위).
 3. [그림 끔 — 건너뜀, 2026-11-03~] 그림(gpt_image_2_5, quality medium, aspect_ratio 9:16): 장면마다 1장. 자체 엠블럼 마스코트를 image_references 로 넣는다(media id 아래 표).
    프롬프트 공통: "Bold 2D cartoon illustration in the exact style of the reference mascots ... plain white baseball jerseys with no logos or letters ... characters in the middle third, space at top for text. No text, no logos, no letters, no numbers."
    과거 회상 장면은 "faded sepia flashback tone with film grain". 실제 선수는 그리지 않는다(마스코트만).

@@ -8,11 +8,16 @@
 // 경기 영상(2026-10-26 주인 결정, 티빙·KBO 허용 범위: 비영리·40초 미만): 영상 장면은 from·to(원본 초)로 구간을 고르고, live: true 면 현장음을 섞는다.
 //   가로 영상은 기본으로 흐린 배경 위에 통째로 놓는다(fit: false 면 세로로 꽉 채워 자름). 경기 영상 합계는 FOOTAGE_MAX 초를 넘지 않게 자른다(넘으면 뒤 장면부터 줄임).
 // 공식 영상 썸네일 장면(2026-10-26): src 에 i.ytimg.com 주소를 그대로 쓴다(파일을 저장소에 두지 않고 조립할 때만 받음, 고해상도가 없으면 hqdefault). 그림 파일에 credit(예 'TVING')을 주면 경기 영상의 한 장면으로 보고 — 흐린 배경 위에 통째로(로고·워터마크를 자르지 않음), 화면에 '영상: <credit>', 길이를 경기 영상 합계에 넣는다.
+// 장면 효과(2026-11-10 이재용(CoS) 배분, save pool 릴스): 장면에 아래 칸을 더하면 장면 안의 그 시각(장면 시작부터 초, 배속 전)에 효과가 들어간다. 없으면 예전과 똑같이 조립한다.
+//   fx: [{ at, dur?: 1.2, text, style?: 'mind'(심리 자막)|'pop'(강조)|'sfx'(효과음 글자), pos?: 'top'|'mid'|'low'|[x, y](글 가운데 좌표), size?: 글자 px }] — 글마다 그림 한 장, 작게→크게→제자리로 툭 튀어나옴
+//   zoom·shake·freeze·lines(집중선)·flash: { at, dur? } — 서서히 1.2배 확대 / 흔들림 / 그 프레임에서 멈춤 / 집중선 / 흰 번쩍임. 흔들림이 있으면 배경을 1.075배 키워 가장자리를 자른다.
 import { readFileSync, writeFileSync, mkdirSync, copyFileSync, existsSync } from 'node:fs';
 import { join, resolve } from 'node:path';
 import { execFileSync } from 'node:child_process';
 
-type Seg = { src: string; say?: string; text?: string; kick?: string; head?: string; note?: string; sub?: string; dur?: number; fit?: boolean; from?: number; to?: number; live?: boolean; credit?: string };
+type Seg = { src: string; say?: string; text?: string; kick?: string; head?: string; note?: string; sub?: string; dur?: number; fit?: boolean; from?: number; to?: number; live?: boolean; credit?: string } & Partial<Record<'zoom' | 'shake' | 'freeze' | 'lines' | 'flash', Cue>> & { fx?: Fx[] };
+type Cue = { at: number; dur?: number };
+type Fx = Cue & { text: string; style?: string; pos?: 'top' | 'mid' | 'low' | [number, number]; size?: number };
 const FOOTAGE_MAX = 39; // 티빙·KBO 허용 '40초 미만'보다 1초 여유
 const SPEED = 1.0; // 2026-11-10 이사님 결정: 영상 원속도(이전 1.3배 폐지). 다 만든 영상 전체(목소리·전환·음악)에 거는 배속, 음 높이는 그대로
 type End = { kick?: string; head: string; a?: string; b?: string; cta: string; say?: string };
@@ -51,7 +56,14 @@ body.end{background:#ffe03a;color:#111}
 .vs div{flex:1;height:420px;border:8px solid #111;border-radius:30px;box-shadow:14px 14px 0 #111;display:flex;flex-direction:column;align-items:center;justify-content:center;font-size:90px;font-weight:900;color:#fff}
 .vs img{height:250px}
 .cta{left:80px;right:80px;top:1320px;background:#111;color:#fff;border-radius:28px;padding:40px 46px;font-size:62px;font-weight:900;line-height:1.3}
-.cta small{display:block;font-size:40px;font-weight:700;color:#ffe03a;margin-top:10px}`;
+.cta small{display:block;font-size:40px;font-weight:700;color:#ffe03a;margin-top:10px}
+.fx{transform:translate(-50%,-50%);width:max-content;max-width:960px;text-align:center;line-height:1.2}
+.fx.mind{font-size:60px;font-weight:800;padding:14px 34px;border-radius:999px;background:rgba(17,17,17,.78);color:#fff}
+.fx.pop{font-size:120px;font-weight:900;color:#ffe03a;-webkit-text-stroke:5px #111;paint-order:stroke fill;text-shadow:8px 8px 0 #111;transform:translate(-50%,-50%) rotate(-4deg)}
+.fx.sfx{font-size:170px;font-weight:900;color:#fff;-webkit-text-stroke:7px #e8202a;paint-order:stroke fill;text-shadow:10px 10px 0 #111;transform:translate(-50%,-50%) rotate(-10deg) skewX(-8deg)}
+.lines{inset:0;background:repeating-conic-gradient(from 0deg at 50% 45%,transparent 0deg 2.4deg,rgba(255,255,255,.92) 2.4deg 3deg);-webkit-mask:radial-gradient(ellipse 42% 30% at 50% 45%,transparent 55%,#000 100%)}`;
+// shortcut: 효과 자막 스타일 3종은 임시(우영미 시안 오기 전) — 시안이 오면 위 .fx.* 값만 바꾼다
+const FX_STYLES = ['mind', 'pop', 'sfx'], FX_POS = { top: [540, 700], mid: [540, 960], low: [540, 1250] } as const;
 const page = (body: string, cls = '') => `<!doctype html><html lang="ko"><head><meta charset="utf-8"><style>${CSS}</style></head><body class="${cls}">${body}</body></html>`;
 const esc = (s = '') => s.replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' })[c]!);
 /** 제목은 <b>·<br> 만 살린다 */
@@ -102,7 +114,41 @@ spec.segments.forEach((s, i) => {
   const seek = !still && s.from !== undefined ? ['-ss', String(s.from)] : [];
   // 현장음: 목소리가 있으면 35%로 낮춰 깔고, 없으면 그대로
   const audio = live ? `[0:a]aresample=44100,volume=${hasVoice(s) ? 0.35 : 1},apad,atrim=0:${d}[la];[2]apad,atrim=0:${d}[va];[la][va]amix=inputs=2:duration=first:normalize=0[au]` : `[2]apad,atrim=0:${d}[au]`;
-  ff(...(still ? ['-loop', '1'] : seek), '-i', src, '-i', ov, '-i', a, '-filter_complex', `${base},trim=0:${d},setpts=PTS-STARTPTS[v];[v][1]overlay,format=yuv420p[o];${audio}`, '-map', '[o]', '-map', '[au]', '-t', d, '-c:v', 'libx264', '-crf', '22', '-c:a', 'aac', '-ar', '44100', '-ac', '2', v);
+  // 장면 효과: 아무것도 없으면 그래프가 예전과 똑같다
+  const end = Number(d), extra: string[] = [];
+  const win = (c: Cue | undefined, def: number, name: string) => {
+    if (!c) return undefined;
+    if (!(c.at >= 0 && c.at < end)) { console.error(`경고: ${i + 1}번 장면 ${name} 시각 ${c.at}초가 장면 길이 ${d}초 밖 — 뺌`); return undefined; }
+    return [c.at, Math.min(c.at + (c.dur ?? def), end)] as const;
+  };
+  let g = `${base},trim=0:${d},setpts=PTS-STARTPTS`;
+  const fr = win(s.freeze, 0.8, 'freeze');
+  if (fr) g += `,split[z0][z1];[z0][z1]freezeframes=first=${Math.round(fr[0] * 30)}:last=${Math.max(Math.round(fr[1] * 30) - 1, Math.round(fr[0] * 30))}:replace=${Math.round(fr[0] * 30)}`;
+  const zm = win(s.zoom, 1.5, 'zoom');
+  if (zm) g += `,scale=2160:3840,zoompan=z='1+0.2*clip((on/30-${zm[0]})/${Math.max(zm[1] - zm[0], 0.1)},0,1)':x='iw/2-(iw/zoom/2)':y='ih/2-(ih/zoom/2)':d=1:s=1080x1920:fps=30`;
+  const sh = win(s.shake, 0.5, 'shake');
+  if (sh) g += `,scale=1162:2066,crop=1080:1920:x='41+if(between(t,${sh[0]},${sh[1]}),30*sin(t*70),0)':y='73+if(between(t,${sh[0]},${sh[1]}),30*cos(t*90),0)'`;
+  let n = 3; // 다음 입력 번호(0 화면, 1 글 그림, 2 목소리)
+  const ln = win(s.lines, 0.8, 'lines');
+  if (ln) { const png = join(TMP, `l${i}.png`); shot(page('<div class="lines"></div>'), png); extra.push('-i', png); g += `[l0];[l0][${n++}]overlay=enable='between(t,${ln[0]},${ln[1]})'`; }
+  g += '[v];[v][1]overlay';
+  (s.fx ?? []).forEach((f, k) => {
+    const w = win(f, 1.2, `fx "${f.text}"`);
+    if (!w) return;
+    const style = FX_STYLES.includes(f.style ?? 'pop') ? (f.style ?? 'pop') : (console.error(`경고: 효과 자막 스타일 ${f.style} 없음 — pop 으로`), 'pop');
+    const [x, y] = Array.isArray(f.pos) ? f.pos : FX_POS[f.pos ?? 'mid'] ?? FX_POS.mid;
+    const png = join(TMP, `f${i}_${k}.png`);
+    shot(page(`<p class="fx ${style}" style="left:${x}px;top:${y}px${f.size ? `;font-size:${f.size}px` : ''}">${head(f.text)}</p>`), png);
+    extra.push('-i', png);
+    // 툭 튀어나오기: 글 가운데를 중심으로 0.6배(2프레임) → 1.15배(2프레임) → 제자리
+    const at = (sc: number) => `x=${Math.round(x * (1 - sc))}:y=${Math.round(y * (1 - sc))}`;
+    const t1 = Math.min(w[0] + 0.067, w[1]), t2 = Math.min(w[0] + 0.134, w[1]);
+    g += `[c${k}];[${n++}]split=3[p${k}a][p${k}b][p${k}c];[p${k}a]scale=648:1152[q${k}a];[p${k}b]scale=1242:2208[q${k}b]`
+      + `;[c${k}][q${k}a]overlay=${at(0.6)}:enable='between(t,${w[0]},${t1})'[c${k}a];[c${k}a][q${k}b]overlay=${at(1.15)}:enable='between(t,${t1},${t2})'[c${k}b];[c${k}b][p${k}c]overlay=enable='between(t,${t2},${w[1]})'`;
+  });
+  const fl = win(s.flash, 0.2, 'flash');
+  if (fl) g += `,drawbox=c=white@0.85:t=fill:enable='between(t,${fl[0]},${(fl[0] + fl[1]) / 2})',drawbox=c=white@0.4:t=fill:enable='between(t,${(fl[0] + fl[1]) / 2},${fl[1]})'`;
+  ff(...(still ? ['-loop', '1'] : seek), '-i', src, '-i', ov, '-i', a, ...extra, '-filter_complex', `${g},format=yuv420p[o];${audio}`, '-map', '[o]', '-map', '[au]', '-t', d, '-c:v', 'libx264', '-crf', '22', '-c:a', 'aac', '-ar', '44100', '-ac', '2', v);
   parts.push(v);
 });
 if (spec.end) {
