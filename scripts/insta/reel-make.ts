@@ -10,6 +10,7 @@
 // 공식 영상 썸네일 장면(2026-10-26): src 에 i.ytimg.com 주소를 그대로 쓴다(파일을 저장소에 두지 않고 조립할 때만 받음, 고해상도가 없으면 hqdefault). 그림 파일에 credit(예 'TVING')을 주면 경기 영상의 한 장면으로 보고 — 흐린 배경 위에 통째로(로고·워터마크를 자르지 않음), 화면에 '영상: <credit>', 길이를 경기 영상 합계에 넣는다.
 // 장면 효과(2026-11-10 이재용(CoS) 배분, save pool 릴스): 장면에 아래 칸을 더하면 장면 안의 그 시각(장면 시작부터 초, 배속 전)에 효과가 들어간다. 없으면 예전과 똑같이 조립한다.
 //   fx: [{ at, dur?, text, style?: 'mind'(심리 자막)|'pop'(강조)|'sfx'(효과음 글자), pos?: 'top'|'mid'|'low'|[x, y](글 가운데 좌표), size?: 글자 px }] — 글마다 그림 한 장, 스타일별 등장 움직임(FX_MOVE). 덤 style: alert(경고)·think(속마음 말풍선)·stamp(판정 도장)
+//   맨 위 칸(선택): subStyle: 'yt'(하단 자막을 검은고딕·흰 글자+검정 테두리로, 우영미 2026-11-11) · outro: { hold: 끝 장면에 더할 초, fade: 마지막 페이드아웃 초 }
 //   zoom·shake·freeze·lines(집중선)·flash: { at, dur? } — 서서히 1.2배 확대 / 흔들림 / 그 프레임에서 멈춤 / 집중선 / 흰 번쩍임. 흔들림이 있으면 배경을 1.075배 키워 가장자리를 자른다.
 import { readFileSync, writeFileSync, mkdirSync, copyFileSync, existsSync } from 'node:fs';
 import { join, resolve } from 'node:path';
@@ -26,7 +27,7 @@ const [dirArg, outArg] = process.argv.slice(2);
 if (!dirArg || !outArg) { console.error('사용: reel-make.ts <재료 폴더> <출력 mp4>'); process.exit(1); }
 const DIR = resolve(dirArg), OUT = resolve(outArg), TMP = join(DIR, '.make');
 mkdirSync(TMP, { recursive: true });
-const spec = JSON.parse(readFileSync(join(DIR, 'reel.json'), 'utf8')) as { music?: string; segments: Seg[]; end?: End };
+const spec = JSON.parse(readFileSync(join(DIR, 'reel.json'), 'utf8')) as { music?: string; segments: Seg[]; end?: End; subStyle?: 'yt'; outro?: { hold?: number; fade?: number } };
 // 목소리 대본에 아라비아 숫자가 있으면 잘못 읽혔을 수 있다('24 대 5'→'스물네 대 오', 2026-10-24) — 그 장면만 목소리를 끄고 화면 글·음악으로 내보낸다
 for (const s of spec.segments) if (/\d/.test(s.text ?? '')) { console.error(`경고: 대본에 숫자가 남아 이 장면 목소리를 끔 — ${s.text}`); s.say = undefined; }
 const hasVoice = (s: { say?: string }) => !!s.say && existsSync(join(DIR, s.say));
@@ -37,9 +38,10 @@ const shot = (html: string, png: string) => {
   writeFileSync(join(TMP, 'ov.html'), html);
   execFileSync(CHROME, ['--headless=new', '--no-sandbox', '--hide-scrollbars', '--allow-file-access-from-files', '--default-background-color=00000000', '--window-size=1080,1920', '--virtual-time-budget=3000', `--screenshot=${png}`, `file://${join(TMP, 'ov.html')}`], { stdio: 'ignore', timeout: 90_000 });
 };
-for (const [f, to] of [['public/brand/bbadda-logo.webp', 'logo.webp'], ['public/fonts/pretendard/PretendardVariable.subset.woff2', 'font.woff2']]) copyFileSync(join(ROOT, f), join(TMP, to));
+for (const [f, to] of [['public/brand/bbadda-logo.webp', 'logo.webp'], ['public/fonts/pretendard/PretendardVariable.subset.woff2', 'font.woff2'], ['scripts/insta/fonts/YeonSung.woff2', 'yeon.woff2'], ['scripts/insta/fonts/BlackHanSans.woff2', 'bhs.woff2']]) copyFileSync(join(ROOT, f), join(TMP, to));
 
 const CSS = `@font-face{font-family:P;src:url(font.woff2) format('woff2');font-weight:100 900}
+@font-face{font-family:Yeon;src:url(yeon.woff2) format('woff2')}@font-face{font-family:BHS;src:url(bhs.woff2) format('woff2')}
 *{box-sizing:border-box;margin:0} html,body{background:transparent} body{font-family:P;word-break:keep-all;width:1080px;height:1920px;position:relative;color:#fff}
 body>*{position:absolute}
 .logo{right:60px;top:80px;height:64px;background:#fff;border-radius:14px;padding:8px 14px}
@@ -83,6 +85,8 @@ body.end{background:#ffe03a;color:#111}
 
 .fx.sfx{--rot:8deg;font-size:170px;font-weight:900;color:#fff;-webkit-text-stroke:10px #111;paint-order:stroke fill;
   filter:drop-shadow(10px 10px 0 #ffe03a);transform:translate(-50%,-50%) rotate(var(--rot)) skewX(-10deg)}
+.fx{font-family:Yeon,P;font-weight:400} .fx.mind{font-size:70px} .fx.pop{font-size:150px;-webkit-text-stroke:8px #111} .fx.sfx{font-size:180px}
+.yt .sub{font-family:BHS,P;font-weight:400;font-size:62px;letter-spacing:0;background:none;color:#fff;-webkit-text-stroke:10px #111;paint-order:stroke fill;text-shadow:0 4px 0 #111}
 .lines{inset:0;background:repeating-conic-gradient(from 0deg at 50% 45%,transparent 0deg 2.4deg,rgba(255,255,255,.92) 2.4deg 3deg);-webkit-mask:radial-gradient(ellipse 42% 30% at 50% 45%,transparent 55%,#000 100%)}`;
 // 효과 자막 .fx.* 값·움직임은 우영미(PD) 시안 2026-11-10(SPEC.md·SPEC-3.md). s = 처음 몇 프레임의 크기(글 가운데 기준, 그 뒤 1.0),
 // fade = 0.15초 페이드 인·아웃, drop = 위에서 내려오는 px, wob = [좌우 px, 횟수](0.25초), dur = 기본 길이(stamp 는 장면 끝까지), pos = 기본 자리
@@ -133,7 +137,7 @@ spec.segments.forEach((s, i) => {
     footage += Number(d);
   }
   if (!existsSync(a)) ff('-f', 'lavfi', '-i', 'anullsrc=r=44100:cl=stereo', '-t', d, a);
-  shot(page((s.head || s.kick || s.sub ? `<img class="logo" src="logo.webp">${s.kick ? `<span class="kick">${esc(s.kick)}</span>` : ''}${s.head ? `<h1>${head(s.head)}</h1>` : ''}${s.sub ? `<p class="sub">${esc(s.sub)}</p>` : ''}${s.note ? `<p class="note">${esc(s.note)}</p>` : ''}` : '') + (licensed ? `<p class="credit">영상: ${esc(s.credit ?? 'TVING·KBO')}</p>` : '')), ov);
+  shot(page((s.head || s.kick || s.sub ? `<img class="logo" src="logo.webp">${s.kick ? `<span class="kick">${esc(s.kick)}</span>` : ''}${s.head ? `<h1>${head(s.head)}</h1>` : ''}${s.sub ? `<p class="sub">${esc(s.sub)}</p>` : ''}${s.note ? `<p class="note">${esc(s.note)}</p>` : ''}` : '') + (licensed ? `<p class="credit">영상: ${esc(s.credit ?? 'TVING·KBO')}</p>` : ''), spec.subStyle === 'yt' ? 'yt' : ''), ov);
   const src = join(DIR, s.src), still = isStill(s.src);
   const live = !still && !!s.live && hasAudio(src);
   const base = !still && s.fit !== false
@@ -202,6 +206,12 @@ spec.segments.forEach((s, i) => {
   ff(...(still ? ['-loop', '1'] : seek), '-i', src, '-i', ov, '-i', a, ...extra, '-filter_complex', `${g},format=yuv420p[o];${audio}`, '-map', '[o]', '-map', '[au]', '-t', d, '-c:v', 'libx264', '-crf', '22', '-c:a', 'aac', '-ar', '44100', '-ac', '2', v);
   parts.push(v);
 });
+// 끝 마무리(2026-11-10 이사님: 끝 컷을 더 길게, 짧은 페이드아웃): outro 가 없으면 예전과 같다
+const hold = typeof spec.outro?.hold === 'number' && spec.outro.hold > 0 ? spec.outro.hold : 0;
+const fade = typeof spec.outro?.fade === 'number' && spec.outro.fade > 0 ? spec.outro.fade : 0;
+if (spec.outro && (spec.outro.hold ?? 0) !== hold) console.error(`경고: outro.hold ${JSON.stringify(spec.outro.hold)} 를 못 읽음 — 0`);
+if (spec.outro && (spec.outro.fade ?? 0) !== fade) console.error(`경고: outro.fade ${JSON.stringify(spec.outro.fade)} 를 못 읽음 — 0`);
+if (hold && !spec.end) console.error('경고: 끝 장면(end)이 없어 outro.hold 는 안 씀');
 if (spec.end) {
   const e = spec.end, ov = join(TMP, 'end.png'), v = join(TMP, 'send.mp4');
   for (const id of [e.a, e.b]) if (id && existsSync(join(ROOT, `public/mascots/emblem/${id}@2x.webp`))) ff('-i', join(ROOT, `public/mascots/emblem/${id}@2x.webp`), join(TMP, `${id}.png`));
@@ -209,6 +219,7 @@ if (spec.end) {
   shot(page(`<img class="logo" src="logo.webp">${e.kick ? `<span class="kick">${esc(e.kick)}</span>` : ''}<h1>${head(e.head)}</h1>${e.a || e.b ? `<div class="vs">${box(e.a)}${box(e.b)}</div>` : ''}<p class="cta">${esc(e.cta)}<small>@bbadda_officials 팔로우</small></p>`, 'end'), ov);
   let d = '2.8';
   if (e.say) { voice(e.say, join(TMP, 'aend.wav')); d = Math.max(dur(join(TMP, 'aend.wav')) + 0.5, 2.8).toFixed(2); }
+  if (hold > 0) d = (Number(d) + hold).toFixed(2);
   ff('-loop', '1', '-i', ov, ...(e.say ? ['-i', join(TMP, 'aend.wav')] : ['-f', 'lavfi', '-i', 'anullsrc=r=44100:cl=stereo']), '-filter_complex', `[0]fps=30,format=yuv420p[o];[1]apad,atrim=0:${d}[au]`, '-map', '[o]', '-map', '[au]', '-t', d, '-c:v', 'libx264', '-crf', '22', '-c:a', 'aac', '-ar', '44100', '-ac', '2', v);
   parts.push(v);
 }
@@ -216,5 +227,5 @@ writeFileSync(join(TMP, 'list.txt'), parts.map((p) => `file '${p}'`).join('\n'))
 ff('-f', 'concat', '-safe', '0', '-i', join(TMP, 'list.txt'), '-c', 'copy', join(TMP, 'cat.mp4'));
 const total = dur(join(TMP, 'cat.mp4'));
 const music = join(ROOT, `scripts/insta/music/${spec.music ?? 'bgm-breaking'}.mp3`);
-ff('-i', join(TMP, 'cat.mp4'), '-i', music, '-filter_complex', `[1]volume=${spec.segments.some((x) => x.live && !isStill(x.src)) ? 0.12 : spec.segments.some(hasVoice) ? 0.2 : 0.7},atrim=0:${total},afade=t=out:st=${Math.max(total - 1, 0)}:d=1[b];[0:a][b]amix=inputs=2:duration=first:normalize=0,loudnorm=I=-14:TP=-1.5,atempo=${SPEED}[m];[0:v]setpts=PTS/${SPEED}[v]`, '-map', '[v]', '-map', '[m]', '-c:v', 'libx264', '-crf', '20', '-pix_fmt', 'yuv420p', '-c:a', 'aac', '-b:a', '160k', '-movflags', '+faststart', OUT);
+ff('-i', join(TMP, 'cat.mp4'), '-i', music, '-filter_complex', `[1]volume=${spec.segments.some((x) => x.live && !isStill(x.src)) ? 0.12 : spec.segments.some(hasVoice) ? 0.2 : 0.7},atrim=0:${total},afade=t=out:st=${Math.max(total - 1, 0)}:d=1[b];[0:a][b]amix=inputs=2:duration=first:normalize=0,loudnorm=I=-14:TP=-1.5,atempo=${SPEED}${fade ? `,afade=t=out:st=${Math.max(total / SPEED - fade, 0).toFixed(2)}:d=${fade}` : ''}[m];[0:v]setpts=PTS/${SPEED}${fade ? `,fade=t=out:st=${Math.max(total / SPEED - fade, 0).toFixed(2)}:d=${fade}` : ''}[v]`, '-map', '[v]', '-map', '[m]', '-c:v', 'libx264', '-crf', '20', '-pix_fmt', 'yuv420p', '-c:a', 'aac', '-b:a', '160k', '-movflags', '+faststart', OUT);
 console.log(JSON.stringify({ out: OUT, seconds: Number((total / SPEED).toFixed(1)), footage: Number(footage.toFixed(1)) }));
