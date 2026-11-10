@@ -10,14 +10,14 @@
 // 공식 영상 썸네일 장면(2026-10-26): src 에 i.ytimg.com 주소를 그대로 쓴다(파일을 저장소에 두지 않고 조립할 때만 받음, 고해상도가 없으면 hqdefault). 그림 파일에 credit(예 'TVING')을 주면 경기 영상의 한 장면으로 보고 — 흐린 배경 위에 통째로(로고·워터마크를 자르지 않음), 화면에 '영상: <credit>', 길이를 경기 영상 합계에 넣는다.
 // 장면 효과(2026-11-10 이재용(CoS) 배분, save pool 릴스): 장면에 아래 칸을 더하면 장면 안의 그 시각(장면 시작부터 초, 배속 전)에 효과가 들어간다. 없으면 예전과 똑같이 조립한다.
 //   fx: [{ at, dur?, text, style?: 'mind'(심리 자막)|'pop'(강조)|'sfx'(효과음 글자), pos?: 'top'|'mid'|'low'|[x, y](글 가운데 좌표), size?: 글자 px }] — 글마다 그림 한 장, 스타일별 등장 움직임(FX_MOVE). 덤 style: alert(경고)·think(속마음 말풍선)·stamp(판정 도장)
-//   motion: true — scripts/insta/motion 에서 만든 1080x1920 모션그래픽 mp4. 자르거나 흐린 배경 없이 그대로 깔고, 경기 영상 합계·'영상:' 표기에서 뺀다.
+//   motion: true (또는 kind: 'motion') — scripts/insta/motion 에서 만든 1080x1920 모션그래픽 mp4. 자르거나 흐린 배경 없이 그대로 깔고, 경기 영상 합계에서 빼며 표기는 '영상: 빠따닷컴 모션'.
 //   맨 위 칸(선택): subStyle: 'yt'(하단 자막을 검은고딕·흰 글자+검정 테두리로, 우영미 2026-11-11 확정판 fonts.css) · outro: { hold: 끝 장면에 더할 초, fade: 마지막 페이드아웃 초 }
 //   zoom·shake·freeze·lines(집중선)·flash: { at, dur? } — 서서히 1.2배 확대 / 흔들림 / 그 프레임에서 멈춤 / 집중선 / 흰 번쩍임. 흔들림이 있으면 배경을 1.075배 키워 가장자리를 자른다.
 import { readFileSync, writeFileSync, mkdirSync, copyFileSync, existsSync } from 'node:fs';
 import { join, resolve } from 'node:path';
 import { execFileSync } from 'node:child_process';
 
-type Seg = { src: string; say?: string; text?: string; kick?: string; head?: string; note?: string; sub?: string; dur?: number; fit?: boolean; motion?: boolean; from?: number; to?: number; live?: boolean; credit?: string } & Partial<Record<'zoom' | 'shake' | 'freeze' | 'lines' | 'flash', Cue>> & { fx?: Fx[] };
+type Seg = { src: string; say?: string; text?: string; kick?: string; head?: string; note?: string; sub?: string; dur?: number; fit?: boolean; motion?: boolean; kind?: string; from?: number; to?: number; live?: boolean; credit?: string } & Partial<Record<'zoom' | 'shake' | 'freeze' | 'lines' | 'flash', Cue>> & { fx?: Fx[] };
 type Cue = { at: number; dur?: number };
 type Fx = Cue & { text: string; style?: string; pos?: 'top' | 'mid' | 'low' | [number, number]; size?: number };
 const FOOTAGE_MAX = 39; // 티빙·KBO 허용 '40초 미만'보다 1초 여유
@@ -131,6 +131,9 @@ spec.segments.forEach((s, i) => {
   const clip = !isStill(s.src) && s.to !== undefined && s.from !== undefined ? Math.max(0.5, s.to - s.from) : undefined;
   let d = (clip ?? s.dur ?? 3).toFixed(2);
   if (hasVoice(s)) { try { voice(s.say!, a); d = Math.max(dur(a) + 0.25, 1.8).toFixed(2); } catch { console.error(`경고: 목소리 처리 실패, 음악만 — ${s.say}`); } }
+  if (s.kind === 'motion') s.motion = true; // SCENES 장면표 표기 "kind":"motion" = motion: true
+  // 남의 영상(credit·yt 가 있는 장면)에 motion 을 붙이면 '영상:' 표기와 39초 합계를 피해 가므로 막는다(규엔 2026-11-11)
+  if (s.motion && (s.credit || (s as { yt?: string }).yt)) { console.error(`경고: ${i + 1}번 장면은 credit·yt 가 있는 경기 영상이라 motion 을 무시함 — ${s.src}`); s.motion = false; }
   const licensed = !s.motion && (!isStill(s.src) || !!s.credit); // 경기 영상 또는 그 썸네일(우리가 만든 모션 장면은 빼고)
   if (licensed) {
     const left = FOOTAGE_MAX - footage;
@@ -138,7 +141,7 @@ spec.segments.forEach((s, i) => {
     footage += Number(d);
   }
   if (!existsSync(a)) ff('-f', 'lavfi', '-i', 'anullsrc=r=44100:cl=stereo', '-t', d, a);
-  shot(page((s.head || s.kick || s.sub ? `<img class="logo" src="logo.webp">${s.kick ? `<span class="kick">${esc(s.kick)}</span>` : ''}${s.head ? `<h1>${head(s.head)}</h1>` : ''}${s.sub ? `<p class="sub">${esc(s.sub)}</p>` : ''}${s.note ? `<p class="note">${esc(s.note)}</p>` : ''}` : '') + (licensed ? `<p class="credit">영상: ${esc(s.credit ?? 'TVING·KBO')}</p>` : ''), spec.subStyle === 'yt' ? 'yt' : ''), ov);
+  shot(page((s.head || s.kick || s.sub ? `<img class="logo" src="logo.webp">${s.kick ? `<span class="kick">${esc(s.kick)}</span>` : ''}${s.head ? `<h1>${head(s.head)}</h1>` : ''}${s.sub ? `<p class="sub">${esc(s.sub)}</p>` : ''}${s.note ? `<p class="note">${esc(s.note)}</p>` : ''}` : '') + (licensed || s.motion ? `<p class="credit">영상: ${esc(s.motion ? '빠따닷컴 모션' : s.credit ?? 'TVING·KBO')}</p>` : ''), spec.subStyle === 'yt' ? 'yt' : ''), ov);
   const src = join(DIR, s.src), still = isStill(s.src);
   const live = !still && !!s.live && hasAudio(src);
   const base = !still && s.fit !== false && !s.motion
@@ -228,5 +231,12 @@ writeFileSync(join(TMP, 'list.txt'), parts.map((p) => `file '${p}'`).join('\n'))
 ff('-f', 'concat', '-safe', '0', '-i', join(TMP, 'list.txt'), '-c', 'copy', join(TMP, 'cat.mp4'));
 const total = dur(join(TMP, 'cat.mp4'));
 const music = join(ROOT, `scripts/insta/music/${spec.music ?? 'bgm-breaking'}.mp3`);
-ff('-i', join(TMP, 'cat.mp4'), '-i', music, '-filter_complex', `[1]volume=${spec.segments.some((x) => x.live && !isStill(x.src)) ? 0.12 : spec.segments.some(hasVoice) ? 0.2 : 0.7},atrim=0:${total},afade=t=out:st=${Math.max(total - 1, 0)}:d=1[b];[0:a][b]amix=inputs=2:duration=first:normalize=0,loudnorm=I=-14:TP=-1.5,atempo=${SPEED}${fade ? `,afade=t=out:st=${Math.max(total / SPEED - fade, 0).toFixed(2)}:d=${fade}` : ''}[m];[0:v]setpts=PTS/${SPEED}${fade ? `,fade=t=out:st=${Math.max(total / SPEED - fade, 0).toFixed(2)}:d=${fade}` : ''}[v]`, '-map', '[v]', '-map', '[m]', '-c:v', 'libx264', '-crf', '20', '-pix_fmt', 'yuv420p', '-c:a', 'aac', '-b:a', '160k', '-movflags', '+faststart', OUT);
+const cat = join(TMP, 'cat.mp4'), mix = join(TMP, 'mix.wav'), fadeAt = Math.max(total / SPEED - fade, 0).toFixed(2);
+// 소리는 따로 만든 뒤 붙인다: loudnorm 을 영상 인코딩과 한 그래프에서 돌리면 ffmpeg 9 에서 소리가 3초씩 통째로 빠졌다(2026-11-11 save pool 3차). 48kHz 로 내보낸다(96kHz 는 일부 재생기에서 끊김)
+ff('-i', cat, '-i', music, '-filter_complex', `[1]volume=${spec.segments.some((x) => x.live && !isStill(x.src)) ? 0.12 : spec.segments.some(hasVoice) ? 0.2 : 0.7},atrim=0:${total},afade=t=out:st=${Math.max(total - 1, 0)}:d=1[b];[0:a][b]amix=inputs=2:duration=first:normalize=0,loudnorm=I=-14:TP=-1.5,atempo=${SPEED}${fade ? `,afade=t=out:st=${fadeAt}:d=${fade}` : ''}[m]`, '-map', '[m]', '-ar', '48000', '-c:a', 'pcm_s16le', mix);
+ff('-i', cat, '-i', mix, '-filter_complex', `[0:v]setpts=PTS/${SPEED}${fade ? `,fade=t=out:st=${fadeAt}:d=${fade}` : ''}[v]`, '-map', '[v]', '-map', '1:a', '-c:v', 'libx264', '-crf', '20', '-pix_fmt', 'yuv420p', '-c:a', 'aac', '-b:a', '160k', '-movflags', '+faststart', OUT);
+// 소리 빈 구간 검사: 0.1초 넘게 비거나 소리가 영상보다 0.3초 넘게 먼저 끝나면 실패로 끝낸다(그 mp4 는 올리지 않는다)
+const apts = execFileSync('ffprobe', ['-v', 'error', '-select_streams', 'a', '-show_entries', 'packet=pts_time', '-of', 'csv=p=0', OUT]).toString().trim().split('\n').map(Number).sort((x, y) => x - y);
+const hole = apts.findIndex((t, k) => k > 0 && t - apts[k - 1] > 0.1);
+if (hole > 0 || !apts.length || apts[apts.length - 1] < total / SPEED - 0.3) { console.error(`실패: 소리 빈 구간 ${hole > 0 ? `${apts[hole - 1]}→${apts[hole]}초` : `(소리 끝 ${apts[apts.length - 1] ?? 0}초 / 영상 ${(total / SPEED).toFixed(2)}초)`} — ${OUT}`); process.exit(1); }
 console.log(JSON.stringify({ out: OUT, seconds: Number((total / SPEED).toFixed(1)), footage: Number(footage.toFixed(1)) }));
