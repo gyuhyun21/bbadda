@@ -14,7 +14,7 @@ import { execFileSync } from 'node:child_process';
 
 type Seg = { src: string; say?: string; text?: string; kick?: string; head?: string; note?: string; sub?: string; dur?: number; fit?: boolean; from?: number; to?: number; live?: boolean; credit?: string };
 const FOOTAGE_MAX = 39; // 티빙·KBO 허용 '40초 미만'보다 1초 여유
-const SPEED = 1.3; // 2026-10-29 주인 결정: 전개를 30% 빠르게 — 다 만든 영상 전체(목소리·전환·음악)를 1.3배로, 음 높이는 그대로
+const SPEED = 1.0; // 2026-11-10 이사님 결정: 영상 원속도(이전 1.3배 폐지). 다 만든 영상 전체(목소리·전환·음악)에 거는 배속, 음 높이는 그대로
 type End = { kick?: string; head: string; a?: string; b?: string; cta: string; say?: string };
 const ROOT = process.cwd();
 const [dirArg, outArg] = process.argv.slice(2);
