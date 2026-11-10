@@ -1,22 +1,43 @@
 {
   "music": "bgm-morning",
-  "pool": { "no": 7, "series": "이거 알면 야구 고수", "ep": 1, "next": "02-eddie-gaedel", "facts": "이서철 확인 대기" },
+  "pool": {
+    "no": 7,
+    "series": "이거 알면 야구 고수",
+    "ep": 1,
+    "next": "02-eddie-gaedel",
+    "facts": "이서철 확인 대기"
+  },
   "segments": [
     {
-      "src": "clip1.mp4", "from": 0, "to": 16, "credit": "SBS 뉴스", "yt": "7yC_-i0naw4",
+      "src": "clip1.mp4",
+      "from": 0,
+      "to": 16,
+      "credit": "SBS 뉴스",
+      "yt": "7yC_-i0naw4",
       "say": "a1.mp3",
       "text": "타자가 삼진을 당했는데, 그 팀이 끝내기로 이겼어. 케이비오에서 진짜 나온 장면이야.",
       "kick": "야구 고수 #1",
       "head": "삼진 당했는데<br><b>끝내기 승리</b>?",
       "sub": "삼진인데 끝내기 승리?",
       "note": "2019.6.12 LG-롯데 연장 10회 말 · 출처: SBS 뉴스(2019-06-12) · 영상: SBS 뉴스",
+      "freeze": {
+        "at": 2.6,
+        "dur": 0.8
+      },
       "fx": [
-        { "at": 1.0, "dur": 1.5, "text": "(동공 지진)", "style": "psych", "pos": "top-right" },
-        { "at": 2.6, "dur": 0.8, "effect": "freeze" }
+        {
+          "at": 1.6,
+          "text": "(동공 지진)",
+          "style": "mind"
+        }
       ]
     },
     {
-      "src": "clip2.mp4", "from": 0, "to": 20, "credit": "MLB", "yt": "9Tn5CQ9vyYQ",
+      "src": "clip2.mp4",
+      "from": 0,
+      "to": 20,
+      "credit": "MLB",
+      "yt": "9Tn5CQ9vyYQ",
       "say": "a2.mp3",
       "text": "포수가 세 번째 스트라이크를 제대로 못 잡으면, 삼진이어도 타자는 일루로 뛸 수 있어. 이게 낫아웃이야.",
       "kick": "이게 낫아웃",
@@ -24,12 +45,19 @@
       "sub": "포수가 놓치면 삼진이어도 1루로",
       "note": "출처: 공식야구규칙 5.05(a)(2) · 영상: MLB(2005 ALCS 2차전)",
       "fx": [
-        { "at": 0, "dur": 0, "effect": "zoom" },
-        { "at": 2.4, "dur": 1.2, "text": "뛰어!!", "style": "pop", "pos": "center" }
+        {
+          "at": 2.6,
+          "text": "뛰어!",
+          "style": "pop"
+        }
       ]
     },
     {
-      "src": "clip3.mp4", "from": 0, "to": 22, "credit": "KBSN SPORTS", "yt": "UWA-eo6HXWU",
+      "src": "clip3.mp4",
+      "from": 0,
+      "to": 22,
+      "credit": "KBSN SPORTS",
+      "yt": "UWA-eo6HXWU",
       "say": "a3.mp3",
       "text": "단, 일루가 비어 있거나 투아웃일 때만 돼. 일루에 주자가 있는데 원아웃 이하면 그냥 아웃이야.",
       "kick": "조건은 딱 하나",
@@ -37,20 +65,35 @@
       "sub": "1루 비었거나 2아웃일 때만",
       "note": "출처: 공식야구규칙 5.05(a)(2)·5.09(a)(3) · 영상: KBSN SPORTS(2025-08-03)",
       "fx": [
-        { "at": 1.5, "dur": 1.6, "text": "(메모 메모)", "style": "psych", "pos": "top-left" }
+        {
+          "at": 0.5,
+          "text": "1루 비었나?",
+          "style": "think"
+        }
       ]
     },
     {
-      "src": "clip4.mp4", "from": 0, "to": 12, "credit": "채널A News", "yt": "0ifvgNX7igE",
+      "src": "clip4.mp4",
+      "from": 0,
+      "to": 12,
+      "credit": "채널A News",
+      "yt": "0ifvgNX7igE",
       "say": "a4.mp3",
       "text": "그래서 한 이닝에 삼진 네 개도 나와. 이천십오 년 롯데 레일리가 실제로 해냈어.",
       "kick": "그래서 생긴 진기록",
       "head": "한 이닝<br><b>삼진 4개</b>",
       "sub": "2015 레일리, 한 이닝 삼진 4개",
       "note": "출처: 채널A 뉴스(2015-04-15) · 영상: 채널A News",
+      "lines": {
+        "at": 0.6,
+        "dur": 1.2
+      },
       "fx": [
-        { "at": 1.0, "dur": 0.6, "effect": "shake" },
-        { "at": 1.2, "dur": 1.8, "text": "K K K K", "style": "shock", "pos": "center" }
+        {
+          "at": 0.8,
+          "text": "KKKK",
+          "style": "pop"
+        }
       ]
     }
   ],

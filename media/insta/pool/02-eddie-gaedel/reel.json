@@ -1,22 +1,43 @@
 {
   "music": "bgm-morning",
-  "pool": { "no": 2, "series": "그날의 야구", "ep": 2, "next": "04 (22연승 투수)", "facts": "이서철 확인 대기" },
+  "pool": {
+    "no": 2,
+    "series": "그날의 야구",
+    "ep": 2,
+    "next": "04 (22연승 투수)",
+    "facts": "이서철 확인 대기"
+  },
   "segments": [
     {
-      "src": "clip1.mp4", "from": 0, "to": 10, "credit": "KSDK News", "yt": "_mm7U3PPY2w",
+      "src": "clip1.mp4",
+      "from": 0,
+      "to": 10,
+      "credit": "KSDK News",
+      "yt": "_mm7U3PPY2w",
       "say": "a1.mp3",
       "text": "메이저리그 경기에 키 백구 센티미터 대타가 진짜로 나온 적 있어.",
       "kick": "그날의 야구 #2",
       "head": "키 109cm<br><b>대타</b>가 나왔다",
       "sub": "메이저리그에 키 109cm 대타",
       "note": "출처: KSDK News(2021)·Baseball-Reference · 영상: KSDK News",
+      "zoom": {
+        "at": 0,
+        "dur": 3.8
+      },
       "fx": [
-        { "at": 0, "dur": 0, "effect": "zoom" },
-        { "at": 1.4, "dur": 1.6, "text": "(심판도 당황)", "style": "psych", "pos": "top-right" }
+        {
+          "at": 2.0,
+          "text": "(심판 당황)",
+          "style": "mind"
+        }
       ]
     },
     {
-      "src": "clip2.mp4", "from": 0, "to": 9, "credit": "KSDK News", "yt": "owBt_UiueIw",
+      "src": "clip2.mp4",
+      "from": 0,
+      "to": 9,
+      "credit": "KSDK News",
+      "yt": "owBt_UiueIw",
       "say": "a2.mp3",
       "text": "천구백오십일 년, 세인트루이스 브라운스 구단주 빌 빅이 꾸민 깜짝 쇼였어. 이름은 에디 개델, 등번호는 팔분의 일.",
       "kick": "1951년 8월 19일",
@@ -24,33 +45,55 @@
       "sub": "에디 개델, 등번호 1/8",
       "note": "출처: KSDK News(2021)·Baseball-Reference · 영상: KSDK News",
       "fx": [
-        { "at": 3.0, "dur": 1.4, "text": "1/8 ?!", "style": "pop", "pos": "center" }
+        {
+          "at": 4.6,
+          "text": "1/8?!",
+          "style": "pop"
+        }
       ]
     },
     {
-      "src": "clip3.mp4", "from": 0, "to": 14, "credit": "Ozarks First", "yt": "oAF94ScSt34",
+      "src": "clip3.mp4",
+      "from": 0,
+      "to": 14,
+      "credit": "Ozarks First",
+      "yt": "oAF94ScSt34",
       "say": "a3.mp3",
       "text": "몸을 웅크리니까 스트라이크 존이 거의 없었어. 투수는 공 네 개를 던졌고, 전부 볼이었어.",
       "kick": "스트라이크 존이 없다",
       "head": "공 4개<br><b>전부 볼</b>",
       "sub": "공 4개 전부 볼, 볼넷",
       "note": "출처: KSDK News(2021)·Baseball-Reference · 영상: Ozarks First",
+      "freeze": {
+        "at": 2.4,
+        "dur": 0.8
+      },
       "fx": [
-        { "at": 1.6, "dur": 0.8, "effect": "freeze" },
-        { "at": 2.6, "dur": 1.8, "text": "볼! 볼! 볼! 볼!", "style": "pop", "pos": "center" }
+        {
+          "at": 3.2,
+          "text": "볼볼볼볼",
+          "style": "pop"
+        }
       ]
     },
     {
-      "src": "clip4.mp4", "from": 0, "to": 12, "credit": "MadNick Media", "yt": "ZxiFXMBfAms",
+      "src": "clip4.mp4",
+      "from": 0,
+      "to": 12,
+      "credit": "MadNick Media",
+      "yt": "ZxiFXMBfAms",
       "say": "a4.mp3",
-      "text": "그런데 바로 다음 날, 리그가 그 계약을 무효로 했어. 처음이자 마지막 타석이었던 거야.",
+      "text": "그런데 바로 다음 날, 리그가 출전을 막았어. 그래서 통산 출루율은 십할, 완벽한 기록이 남았지.",
       "kick": "단 한 타석",
-      "head": "다음 날<br><b>계약 무효</b>",
-      "sub": "다음 날 계약 무효, 단 한 타석",
+      "head": "다음 날<br><b>출전 금지</b>",
+      "sub": "다음 날 출전 금지, 통산 출루율 1.000",
       "note": "출처: KSDK News(2021)·Baseball-Reference · 영상: MadNick Media",
       "fx": [
-        { "at": 1.0, "dur": 0.6, "effect": "shake" },
-        { "at": 1.2, "dur": 1.5, "text": "끝?!", "style": "shock", "pos": "center" }
+        {
+          "at": 1.2,
+          "text": "출전 금지",
+          "style": "alert"
+        }
       ]
     }
   ],
