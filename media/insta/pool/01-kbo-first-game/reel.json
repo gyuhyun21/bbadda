@@ -1,0 +1,65 @@
+{
+  "music": "bgm-morning",
+  "pool": { "no": 1, "series": "그날의 야구", "ep": 1, "next": "07-dropped-third-strike", "facts": "이서철 확인 대기" },
+  "segments": [
+    {
+      "src": "clip1.mp4", "from": 0, "to": 14, "credit": "KTV 아카이브", "yt": "BUgE9EeDuJ0",
+      "say": "a1.mp3",
+      "text": "천구백팔십이 년 한국 프로야구 첫 경기, 마지막 한 방은 지금도 전설이야.",
+      "kick": "그날의 야구 #1",
+      "head": "1982년 첫 경기<br><b>마지막 한 방</b>",
+      "sub": "1982년 첫 경기의 마지막 한 방",
+      "note": "출처: KBS 뉴스(2025-07-16)·KTV 아카이브(2024-03-23) · 영상: KTV 아카이브",
+      "fx": [
+        { "at": 0.6, "dur": 0.3, "effect": "flash" },
+        { "at": 1.2, "dur": 1.6, "text": "(두근두근)", "style": "psych", "pos": "top-right" }
+      ]
+    },
+    {
+      "src": "clip2.mp4", "from": 0, "to": 9, "credit": "KBS News", "yt": "3g5WHOow9Fc",
+      "say": "a2.mp3",
+      "text": "천구백팔십이 년 삼월 이십칠 일, 서울운동장. 엠비씨 청룡과 삼성 라이온즈가 첫 경기를 했어.",
+      "kick": "1982.3.27 서울운동장",
+      "head": "프로야구<br><b>첫 플레이볼</b>",
+      "sub": "1982.3.27 MBC 청룡 vs 삼성",
+      "note": "출처: KBS 뉴스(2025-07-16) · 영상: KBS News",
+      "fx": [
+        { "at": 0, "dur": 0, "effect": "zoom" },
+        { "at": 2.0, "dur": 1.5, "text": "(관중석 꽉꽉)", "style": "psych", "pos": "top-left" }
+      ]
+    },
+    {
+      "src": "clip3.mp4", "from": 0, "to": 10, "credit": "MBC Archive(1985)", "yt": "5_L4lZGKe14",
+      "say": "a3.mp3",
+      "text": "프로야구 일호 안타랑 일호 홈런, 둘 다 이 경기에서 삼성 이만수가 쳤어.",
+      "kick": "기록의 시작",
+      "head": "1호 안타·1호 홈런<br><b>이만수</b>",
+      "sub": "1호 안타·1호 홈런 모두 이만수",
+      "note": "출처: KBS 뉴스(2025-07-16) · 영상: MBC Archive(1985)",
+      "fx": [
+        { "at": 1.8, "dur": 1.4, "text": "둘 다 내 거", "style": "pop", "pos": "center" }
+      ]
+    },
+    {
+      "src": "clip4.mp4", "from": 0, "to": 14, "credit": "MBCNEWS", "yt": "wNUOo-KJ8oo",
+      "say": "a4.mp3",
+      "text": "그런데 주인공은 따로 있었어. 연장 십 회 말 만루, 엠비씨 이종도가 끝내기 만루홈런. 십일 대 칠로 끝났어.",
+      "kick": "연장 10회 말",
+      "head": "끝내기<br><b>만루홈런</b>",
+      "sub": "이종도 끝내기 만루포, 11:7",
+      "note": "출처: KBS 뉴스(2025-07-16)·KTV 아카이브 · 영상: MBCNEWS",
+      "fx": [
+        { "at": 3.2, "dur": 0.3, "effect": "flash" },
+        { "at": 3.2, "dur": 0.6, "effect": "shake" },
+        { "at": 3.4, "dur": 1.6, "text": "만루홈런!!!", "style": "shock", "pos": "center" }
+      ]
+    }
+  ],
+  "end": {
+    "kick": "다음 편: 삼진인데 1루로?",
+    "head": "첫 경기부터<br>이랬다고?",
+    "cta": "직관 가서 옆 사람한테 써먹어 봐",
+    "say": "a5.mp3",
+    "text": "다음 편은 삼진 당하고 일루로 뛰는 타자 이야기야. 궁금하면 좋아요 눌러 두고, 직관 가서 옆 사람한테 써먹어 봐."
+  }
+}
