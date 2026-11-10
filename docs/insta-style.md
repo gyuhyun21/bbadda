@@ -106,7 +106,7 @@
 - 카루셀(사진 묶음)에는 API 로 음악을 넣을 수 없다. 음악은 릴스에만.
 
 ## 10. 릴스 음성(내레이션, 2026-10-23 주인 결정)
-- 목소리: Higgsfield `elevenlabs_v4`, 프리셋 **Benji**(voice_id `e6f9b893-51b1-51d3-afe9-9e0482cb7ac1`, 남성, 2026-10-24 주인 결정 — 이전 Dylan 대체). 15초 안팎 1개 약 0.6 크레딧.
+- 목소리: Google Cloud Text-to-Speech `ko-KR-Chirp3-HD-Puck`(남성, 2026-11-10 주인 결정 — 이전 Higgsfield Benji 대체). `scripts/insta/tts-google.sh "<대본>" <출력.mp3>`, 키는 `.env` 의 `GOOGLE_TTS_API_KEY`(출력하지 않음). 키가 없거나 오류면 목소리 없이 자막.
 - 말투: 정보형 릴스처럼 짧은 반말 구어체("이거 나만 몰랐어?", "~하나면 끝이야", "~눌러 봐!"). 안내체("~해 드려요")는 쓰지 않는다.
 - 속도: 생성한 뒤 `ffmpeg -af "silenceremove=start_periods=1:start_threshold=-45dB:stop_periods=-1:stop_duration=0.18:stop_threshold=-45dB,atempo=1.18,loudnorm=I=-14:TP=-1.5"` 로 문장 사이 쉼을 0.18초로 줄이고 1.18배 빠르게(음 높이는 그대로). 조립이 끝난 릴스는 전체를 다시 1.3배로 돌린다(2026-10-29 주인 결정: 전개 30% 빠르게, `reel-make.ts` SPEED).
 - 영문 약칭은 한글 발음으로 바꿔 넣는다(그대로 쓰면 알파벳으로 읽음):
