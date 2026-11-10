@@ -1,0 +1,112 @@
+{
+  "music": "bgm-morning",
+  "subStyle": "yt",
+  "outro": {
+    "hold": 1.5,
+    "fade": 0.5
+  },
+  "pool": {
+    "no": 9,
+    "series": "야구장 TMI",
+    "ep": 1,
+    "next": "03-jang-myung-boo-30",
+    "facts": "이서철 확인 2026-11-10(리서처/work/bbadda-pool-facts.md)"
+  },
+  "segments": [
+    {
+      "src": "clip1.mp4",
+      "from": 0,
+      "to": 12,
+      "credit": "Insider",
+      "yt": "usnZ_rdRo_M",
+      "say": "a1.mp3",
+      "text": "야구공 하나 꿰매는 데 바늘땀이 이백십육 개나 들어가.",
+      "kick": "야구장 TMI #1",
+      "head": "야구공 하나에<br>바늘땀 <b>216개</b>?",
+      "sub": "야구공 하나에 바늘땀 216개?",
+      "note": "출처: Baseball-Reference·Wikipedia(Baseball (ball)) · 영상: Insider",
+      "zoom": {
+        "at": 0,
+        "dur": 2.8
+      },
+      "fx": [
+        {
+          "at": 1.2,
+          "text": "진짜?",
+          "style": "mind"
+        }
+      ]
+    },
+    {
+      "src": "clip2.mp4",
+      "from": 0,
+      "to": 12,
+      "credit": "MBC Sports+",
+      "yt": "864D7RFTbpo",
+      "say": "a2.mp3",
+      "text": "메이저리그 공식구 실밥은 백팔 땀이야. 두 줄로 꿰니까 바늘땀으로 세면 이백십육 개.",
+      "kick": "메이저리그 공 기준",
+      "head": "실밥은 <b>108땀</b><br>두 줄이라 216",
+      "sub": "실밥 108땀, 두 줄이라 바늘땀 216",
+      "note": "출처: Baseball-Reference·Wikipedia · 영상: MBC Sports+",
+      "fx": [
+        {
+          "at": 3.6,
+          "text": "108×2",
+          "style": "pop"
+        }
+      ]
+    },
+    {
+      "src": "clip3.mp4",
+      "from": 0,
+      "to": 12,
+      "credit": "국가기술표준원",
+      "yt": "g2jI1XMC8rE",
+      "say": "a3.mp3",
+      "text": "백팔번뇌랑 숫자가 같아서 일부러 맞춘 것 같지만, 그냥 우연이야.",
+      "kick": "그럼 백팔번뇌?",
+      "head": "108번뇌랑<br><b>그냥 우연</b>",
+      "sub": "108번뇌와 같은 건 우연",
+      "note": "출처: Baseball-Reference·Wikipedia · 영상: 국가기술표준원",
+      "fx": [
+        {
+          "at": 0.3,
+          "text": "혹시 번뇌?",
+          "style": "think"
+        }
+      ]
+    },
+    {
+      "src": "clip4.mp4",
+      "from": 0,
+      "to": 12,
+      "credit": "How It's Made",
+      "yt": "2ZobG8dWfig",
+      "say": "a4.mp3",
+      "text": "지금 같은 빨간 실밥이 표준이 된 건 천구백삼십사 년이야. 생각보다 오래됐지?",
+      "kick": "빨간 실밥의 시작",
+      "head": "빨간 실밥은<br><b>1934년</b>부터",
+      "sub": "빨간 실밥 표준은 1934년부터",
+      "note": "출처: Baseball-Reference·Wikipedia · 영상: How It's Made",
+      "lines": {
+        "at": 1.6,
+        "dur": 1.0
+      },
+      "fx": [
+        {
+          "at": 1.8,
+          "text": "1934",
+          "style": "pop"
+        }
+      ]
+    }
+  ],
+  "end": {
+    "head": "30승 투수",
+    "cta": "직관 때 옆 사람한테 써먹어 봐",
+    "say": "a5.mp3",
+    "text": "다음 편은 한 시즌 삼십 승 투수, 직관 가면 옆 사람한테 써먹어 봐.",
+    "kick": "다음 편"
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "music": "bgm-morning",
+  "subStyle": "yt",
+  "outro": {
+    "hold": 1.5,
+    "fade": 0.5
+  },
+  "pool": {
+    "no": 3,
+    "series": "그날의 야구",
+    "ep": 3,
+    "next": "05 (2,632경기 연속 출전)",
+    "facts": "이서철 확인 2026-11-10(리서처/work/bbadda-pool-facts.md)"
+  },
+  "segments": [
+    {
+      "src": "clip1.mp4",
+      "from": 0,
+      "to": 12,
+      "credit": "크라켄 픽처스",
+      "yt": "ZgtZXFIkYMU",
+      "say": "a1.mp3",
+      "text": "케이비오에 한 시즌 삼십 승을 거둔 투수가 있었어. 아직 아무도 못 넘었어.",
+      "kick": "그날의 야구 #3",
+      "head": "한 시즌<br><b>30승</b> 투수",
+      "sub": "KBO 한 시즌 30승 투수",
+      "note": "출처: KBO 역대 기록·뉴시스 · 영상: 크라켄 픽처스(장명부 일본 시절)",
+      "flash": {
+        "at": 0.2,
+        "dur": 0.2
+      },
+      "fx": [
+        {
+          "at": 2.4,
+          "text": "실화냐",
+          "style": "mind"
+        }
+      ]
+    },
+    {
+      "src": "clip2.mp4",
+      "from": 0,
+      "to": 12,
+      "credit": "심심하다",
+      "yt": "FDYx8uoPZFI",
+      "say": "a2.mp3",
+      "text": "천구백팔십삼 년 삼미 슈퍼스타즈 장명부. 육십 경기에 나와서 삼십 승 십육 패를 했어.",
+      "kick": "1983 삼미 슈퍼스타즈",
+      "head": "장명부<br><b>60경기</b> 등판",
+      "sub": "1983 장명부, 60경기 30승 16패",
+      "note": "출처: KBO 역대 기록·Baseball-Reference · 영상: 심심하다",
+      "fx": [
+        {
+          "at": 3.6,
+          "text": "30승!",
+          "style": "pop"
+        }
+      ]
+    },
+    {
+      "src": "clip3.mp4",
+      "from": 0,
+      "to": 12,
+      "credit": "MBC Archive",
+      "yt": "2svkbQjrb0w",
+      "say": "a3.mp3",
+      "text": "던진 이닝은 사백이십칠과 삼분의 일 이닝, 완투만 서른여섯 번이야.",
+      "kick": "던진 이닝만",
+      "head": "427⅓이닝<br>완투 <b>36번</b>",
+      "sub": "427⅓이닝, 완투 36번",
+      "note": "출처: KBO 역대 기록·Baseball-Reference · 영상: MBC Archive(1983 삼미 훈련)",
+      "shake": {
+        "at": 0.4,
+        "dur": 0.5
+      },
+      "fx": [
+        {
+          "at": 0.4,
+          "text": "헉!",
+          "style": "sfx"
+        }
+      ]
+    },
+    {
+      "src": "clip4.mp4",
+      "from": 0,
+      "to": 12,
+      "credit": "옛날티비 : KBS Archive",
+      "yt": "2GciLLORGoQ",
+      "say": "a4.mp3",
+      "text": "그런데 이 년 뒤엔 한 시즌 이십오 패. 이것도 케이비오 최다 패 기록이야.",
+      "kick": "그리고 2년 뒤",
+      "head": "1985년엔<br><b>25패</b>",
+      "sub": "1985년 25패, 이것도 KBO 최다",
+      "note": "출처: KBO 역대 기록·뉴시스 · 영상: KBS Archive",
+      "fx": [
+        {
+          "at": 1.6,
+          "text": "반전",
+          "style": "alert"
+        }
+      ]
+    }
+  ],
+  "end": {
+    "head": "2,632경기 연속",
+    "cta": "직관 가기 전에 저장해 둬",
+    "say": "a5.mp3",
+    "text": "다음 편은 이천육백삼십이 경기 연속 출전, 저장해 두고 기다려 줘.",
+    "kick": "다음 편"
+  }
+}

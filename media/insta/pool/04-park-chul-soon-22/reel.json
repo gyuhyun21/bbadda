@@ -1,0 +1,112 @@
+{
+  "music": "bgm-morning",
+  "subStyle": "yt",
+  "outro": {
+    "hold": 1.5,
+    "fade": 0.5
+  },
+  "pool": {
+    "no": 4,
+    "series": "다시는 안 나올 기록",
+    "ep": 1,
+    "next": "09-ball-108-stitches",
+    "facts": "이서철 확인 2026-11-10(리서처/work/bbadda-pool-facts.md)"
+  },
+  "segments": [
+    {
+      "src": "clip1.mp4",
+      "from": 0,
+      "to": 12,
+      "credit": "창밖풍경",
+      "yt": "nj4M61w5t9A",
+      "say": "a1.mp3",
+      "text": "사십사 년째 케이비오에서 아무도 못 깬 기록이 있어. 깨기 정말 어려운 기록이야.",
+      "kick": "다시는 안 나올 기록 #1",
+      "head": "44년째<br><b>아무도 못 깬</b> 기록",
+      "sub": "44년째 아무도 못 깬 KBO 기록",
+      "note": "출처: 뉴시스·OSEN·Baseball-Reference · 영상: 창밖풍경(1982 한국시리즈)",
+      "zoom": {
+        "at": 0,
+        "dur": 4.0
+      },
+      "fx": [
+        {
+          "at": 2.0,
+          "text": "궁금궁금",
+          "style": "mind"
+        }
+      ]
+    },
+    {
+      "src": "clip2.mp4",
+      "from": 0,
+      "to": 12,
+      "credit": "jini K",
+      "yt": "YknbQ_-PRRg",
+      "say": "a2.mp3",
+      "text": "천구백팔십이 년 오비 베어스 박철순. 이기고 또 이겼어. 십팔연승에서도 안 멈췄지.",
+      "kick": "1982 OB 박철순",
+      "head": "이기고<br><b>또 이겼다</b>",
+      "sub": "1982 OB 박철순, 이기고 또 이기고",
+      "note": "출처: 뉴시스·OSEN · 영상: jini K(KBS N SPORTS)",
+      "fx": [
+        {
+          "at": 3.0,
+          "text": "또 승리",
+          "style": "pop"
+        }
+      ]
+    },
+    {
+      "src": "clip3.mp4",
+      "from": 0,
+      "to": 12,
+      "credit": "스토리텔링앤아트",
+      "yt": "vnRsMwW00QY",
+      "say": "a3.mp3",
+      "text": "결국 이십이연승. 그해 이십사 승을 거두고 원년 엠브이피까지 받았어.",
+      "kick": "결과는",
+      "head": "<b>22연승</b><br>KBO 최다 연승",
+      "sub": "22연승 · 24승 · 원년 MVP",
+      "note": "출처: 뉴시스·OSEN·Baseball-Reference · 영상: 스토리텔링앤아트",
+      "fx": [
+        {
+          "at": 0.3,
+          "text": "쾅!",
+          "style": "sfx"
+        }
+      ],
+      "freeze": {
+        "at": 2.4,
+        "dur": 1.8
+      }
+    },
+    {
+      "src": "clip4.mp4",
+      "from": 0,
+      "to": 12,
+      "credit": "베어스비디오테이프",
+      "yt": "zh9IT1QzItE",
+      "say": "a4.mp3",
+      "text": "그래서 박철순의 등번호 이십일 번은 지금 두산 영구결번이야. 아무도 못 달아.",
+      "kick": "두산 영구결번",
+      "head": "등번호 21번<br><b>영구결번</b>",
+      "sub": "등번호 21번은 두산 영구결번",
+      "note": "출처: 뉴시스·OSEN · 영상: 베어스비디오테이프(2007)",
+      "fx": [
+        {
+          "at": 2.8,
+          "text": "레전드",
+          "style": "stamp"
+        }
+      ]
+    }
+  ],
+  "end": {
+    "head": "실밥 몇 땀?",
+    "cta": "깰 수 있다 vs 없다, 댓글로",
+    "say": "a5.mp3",
+    "text": "다음 편은 야구공 실밥 이야기, 이 기록 깰 투수 있는지 댓글로 남겨 줘.",
+    "kick": "다음 편"
+  }
+}
