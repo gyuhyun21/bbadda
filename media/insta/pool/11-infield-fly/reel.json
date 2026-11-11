@@ -1,0 +1,107 @@
+{
+  "music": "bgm-morning",
+  "subStyle": "yt",
+  "outro": {
+    "hold": 1.5,
+    "fade": 0.5
+  },
+  "pool": {
+    "no": 11,
+    "series": "이거 알면 야구 고수",
+    "ep": 3,
+    "facts": "센세 확인 2026-11-12(기사 2곳 이상, PR 본문 표)"
+  },
+  "segments": [
+    {
+      "src": "clip1.mp4",
+      "from": 0,
+      "to": 12,
+      "credit": "MLB",
+      "yt": "X-6ujbLknUc",
+      "say": "a1.mp3",
+      "text": "공이 땅에 떨어졌는데 타자가 아웃이야. 메이저리그 가을야구에서 진짜 나온 장면이야.",
+      "kick": "야구 고수 #3",
+      "head": "공이 떨어졌는데<br><b>타자 아웃</b>?",
+      "sub": "공이 떨어졌는데 타자 아웃?",
+      "note": "출처: MLB.com·ESPN(2012-10-05) · 영상: MLB",
+      "fx": [
+        {
+          "at": 2.4,
+          "text": "어리둥절",
+          "style": "mind"
+        }
+      ]
+    },
+    {
+      "src": "clip2.mp4",
+      "from": 0,
+      "to": 12,
+      "credit": "MLB",
+      "yt": "MCLKGUMbP_Y",
+      "say": "a2.mp3",
+      "text": "무사나 원아웃, 주자 일, 이루나 만루일 때 내야수가 평범하게 잡을 뜬공이면, 심판이 인필드 플라이를 선언해. 잡든 안 잡든 타자는 아웃이야.",
+      "kick": "인필드 플라이",
+      "head": "내야 뜬공이면<br><b>자동 아웃</b>",
+      "sub": "1·2루·만루 내야 뜬공은 타자 아웃",
+      "note": "출처: 공식야구규칙 용어 정의(인필드 플라이)·OSEN · 영상: MLB",
+      "fx": [
+        {
+          "at": 5.0,
+          "text": "자동 아웃",
+          "style": "pop"
+        }
+      ]
+    },
+    {
+      "src": "clip3.mp4",
+      "from": 0,
+      "to": 12,
+      "credit": "C Beck",
+      "yt": "8AQyWXSVESI",
+      "say": "a3.mp3",
+      "text": "이천십이 년 와일드카드 결정전에선 외야 앞 뜬공에 이게 선언됐어. 화난 관중이 물건을 던져서 경기가 약 십구 분 멈췄지.",
+      "kick": "2012 NL 와일드카드",
+      "head": "관중 항의로<br><b>약 19분 중단</b>",
+      "sub": "외야 앞 뜬공에 선언, 약 19분 중단",
+      "note": "출처: MLB.com·ESPN·AP(2012-10-05) · 영상: C Beck",
+      "shake": {
+        "at": 3.4,
+        "dur": 0.5
+      },
+      "fx": [
+        {
+          "at": 3.4,
+          "text": "헉!",
+          "style": "sfx"
+        }
+      ]
+    },
+    {
+      "src": "clip4.mp4",
+      "from": 0,
+      "to": 12,
+      "credit": "Marty Callinan",
+      "yt": "GxbC5WY82LI",
+      "say": "a4.mp3",
+      "text": "브레이브스가 항의했지만 판단 문제라 기각됐고, 경기는 카디널스가 육 대 삼으로 이겼어.",
+      "kick": "결과는",
+      "head": "항의는<br><b>기각</b>",
+      "sub": "항의 기각, 카디널스 6:3 승",
+      "note": "출처: MLB.com·Baseball-Reference · 영상: Marty Callinan",
+      "fx": [
+        {
+          "at": 2.0,
+          "text": "기각",
+          "style": "stamp"
+        }
+      ]
+    }
+  ],
+  "end": {
+    "look": "profile",
+    "head": "알아 두면 더 재밌는<br><b>야구 이야기</b>",
+    "cta": "야구 좀 안다는 친구한테 보내 봐",
+    "say": "a5.mp3",
+    "text": "야구 좀 안다는 친구한테 보내 봐."
+  }
+}
