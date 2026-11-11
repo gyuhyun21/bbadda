@@ -1,0 +1,19 @@
+{
+  "name": "bbadda-motion",
+  "private": true,
+  "type": "module",
+  "description": "릴스 모션그래픽 장면(장면 하나짜리 mp4)을 Remotion 으로 만든다. 결과 mp4 는 reel.json 장면 재료로 쓴다.",
+  "scripts": {
+    "studio": "remotion studio src/index.ts --public-dir=../../../public",
+    "render": "remotion render src/index.ts --public-dir=../../../public --muted"
+  },
+  "dependencies": {
+    "@remotion/cli": "4.0.542",
+    "react": "19.1.0",
+    "react-dom": "19.1.0",
+    "remotion": "4.0.542"
+  },
+  "devDependencies": {
+    "@types/react": "19.1.8"
+  }
+}

@@ -10,13 +10,14 @@
 // 공식 영상 썸네일 장면(2026-10-26): src 에 i.ytimg.com 주소를 그대로 쓴다(파일을 저장소에 두지 않고 조립할 때만 받음, 고해상도가 없으면 hqdefault). 그림 파일에 credit(예 'TVING')을 주면 경기 영상의 한 장면으로 보고 — 흐린 배경 위에 통째로(로고·워터마크를 자르지 않음), 화면에 '영상: <credit>', 길이를 경기 영상 합계에 넣는다.
 // 장면 효과(2026-11-10 이재용(CoS) 배분, save pool 릴스): 장면에 아래 칸을 더하면 장면 안의 그 시각(장면 시작부터 초, 배속 전)에 효과가 들어간다. 없으면 예전과 똑같이 조립한다.
 //   fx: [{ at, dur?, text, style?: 'mind'(심리 자막)|'pop'(강조)|'sfx'(효과음 글자), pos?: 'top'|'mid'|'low'|[x, y](글 가운데 좌표), size?: 글자 px }] — 글마다 그림 한 장, 스타일별 등장 움직임(FX_MOVE). 덤 style: alert(경고)·think(속마음 말풍선)·stamp(판정 도장)
+//   motion: true (또는 kind: 'motion') — scripts/insta/motion 에서 만든 1080x1920 모션그래픽 mp4. 자르거나 흐린 배경 없이 그대로 깔고, 경기 영상 합계에서 빼며 표기는 '영상: 빠따닷컴 모션'.
 //   맨 위 칸(선택): subStyle: 'yt'(하단 자막을 검은고딕·흰 글자+검정 테두리로, 우영미 2026-11-11 확정판 fonts.css) · outro: { hold: 끝 장면에 더할 초, fade: 마지막 페이드아웃 초 }
 //   zoom·shake·freeze·lines(집중선)·flash: { at, dur? } — 서서히 1.2배 확대 / 흔들림 / 그 프레임에서 멈춤 / 집중선 / 흰 번쩍임. 흔들림이 있으면 배경을 1.075배 키워 가장자리를 자른다.
 import { readFileSync, writeFileSync, mkdirSync, copyFileSync, existsSync } from 'node:fs';
 import { join, resolve } from 'node:path';
 import { execFileSync } from 'node:child_process';
 
-type Seg = { src: string; say?: string; text?: string; kick?: string; head?: string; note?: string; sub?: string; dur?: number; fit?: boolean; from?: number; to?: number; live?: boolean; credit?: string } & Partial<Record<'zoom' | 'shake' | 'freeze' | 'lines' | 'flash', Cue>> & { fx?: Fx[] };
+type Seg = { src: string; say?: string; text?: string; kick?: string; head?: string; note?: string; sub?: string; dur?: number; fit?: boolean; motion?: boolean; kind?: string; from?: number; to?: number; live?: boolean; credit?: string } & Partial<Record<'zoom' | 'shake' | 'freeze' | 'lines' | 'flash', Cue>> & { fx?: Fx[] };
 type Cue = { at: number; dur?: number };
 type Fx = Cue & { text: string; style?: string; pos?: 'top' | 'mid' | 'low' | [number, number]; size?: number };
 const FOOTAGE_MAX = 39; // 티빙·KBO 허용 '40초 미만'보다 1초 여유
@@ -133,7 +134,7 @@ spec.segments.forEach((s, i) => {
   s.credit ??= 'TVING·KBO';
 });
 let footage = 0; // 지금까지 쓴 경기 영상 길이(초)
-let lastBg: { src: string; at: number; still: boolean; credit?: string } | undefined; // 끝 장면 look 'profile' 배경용(글 없는 원본 화면)
+let lastBg: { src: string; at: number; still: boolean; credit?: string; motion?: boolean } | undefined; // 끝 장면 look 'profile' 배경용(글 없는 원본 화면)
 const voice = (src: string, out: string) => ff('-i', join(DIR, src), '-af', 'silenceremove=start_periods=1:start_threshold=-45dB:stop_periods=-1:stop_duration=0.18:stop_threshold=-45dB,atempo=1.18', '-ar', '44100', '-ac', '2', out);
 const parts: string[] = [];
 spec.segments.forEach((s, i) => {
@@ -141,17 +142,20 @@ spec.segments.forEach((s, i) => {
   const clip = !isStill(s.src) && s.to !== undefined && s.from !== undefined ? Math.max(0.5, s.to - s.from) : undefined;
   let d = (clip ?? s.dur ?? 3).toFixed(2);
   if (hasVoice(s)) { try { voice(s.say!, a); d = Math.max(dur(a) + 0.25, 1.8).toFixed(2); } catch { console.error(`경고: 목소리 처리 실패, 음악만 — ${s.say}`); } }
-  const licensed = !isStill(s.src) || !!s.credit; // 경기 영상 또는 그 썸네일
+  if (s.kind === 'motion') s.motion = true; // SCENES 장면표 표기 "kind":"motion" = motion: true
+  // 남의 영상(credit·yt 가 있는 장면)에 motion 을 붙이면 '영상:' 표기와 39초 합계를 피해 가므로 막는다(규엔 2026-11-11)
+  if (s.motion && (s.credit || (s as { yt?: string }).yt)) { console.error(`경고: ${i + 1}번 장면은 credit·yt 가 있는 경기 영상이라 motion 을 무시함 — ${s.src}`); s.motion = false; }
+  const licensed = !s.motion && (!isStill(s.src) || !!s.credit); // 경기 영상 또는 그 썸네일(우리가 만든 모션 장면은 빼고)
   if (licensed) {
     const left = FOOTAGE_MAX - footage;
     if (Number(d) > left) { console.error(`경고: 경기 영상 합계 ${FOOTAGE_MAX}초 제한 — 이 장면을 ${Math.max(left, 0).toFixed(1)}초로 줄임`); d = Math.max(left, 0.5).toFixed(2); }
     footage += Number(d);
   }
   if (!existsSync(a)) ff('-f', 'lavfi', '-i', 'anullsrc=r=44100:cl=stereo', '-t', d, a);
-  shot(page((s.head || s.kick || s.sub ? `<img class="logo" src="logo.webp">${s.kick ? `<span class="kick">${esc(s.kick)}</span>` : ''}${s.head ? `<h1>${head(s.head)}</h1>` : ''}${s.sub ? `<p class="sub">${esc(s.sub)}</p>` : ''}${s.note ? `<p class="note">${esc(s.note)}</p>` : ''}` : '') + (licensed ? `<p class="credit">영상: ${esc(s.credit ?? 'TVING·KBO')}</p>` : ''), spec.subStyle === 'yt' ? 'yt' : ''), ov);
+  shot(page((s.head || s.kick || s.sub ? `<img class="logo" src="logo.webp">${s.kick ? `<span class="kick">${esc(s.kick)}</span>` : ''}${s.head ? `<h1>${head(s.head)}</h1>` : ''}${s.sub ? `<p class="sub">${esc(s.sub)}</p>` : ''}${s.note ? `<p class="note">${esc(s.note)}</p>` : ''}` : '') + (licensed || s.motion ? `<p class="credit">영상: ${esc(s.motion ? '빠따닷컴 모션' : s.credit ?? 'TVING·KBO')}</p>` : ''), spec.subStyle === 'yt' ? 'yt' : ''), ov);
   const src = join(DIR, s.src), still = isStill(s.src);
   const live = !still && !!s.live && hasAudio(src);
-  const base = !still && s.fit !== false
+  const base = !still && s.fit !== false && !s.motion
     ? `[0]split[p][q];[p]scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,boxblur=24:2,eq=brightness=-0.2[bg];[q]scale=1080:-2[fg];[bg][fg]overlay=(W-w)/2:(H-h)/2+120,fps=30,tpad=stop_mode=clone:stop_duration=10`
     : still && (s.fit || s.credit)
     ? `[0]split[p][q];[p]scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,boxblur=24:2,eq=brightness=-0.15[bg];[q]scale=1040:-2[fg];[bg][fg]overlay=(W-w)/2:(H-h)/2,fps=30`
@@ -215,7 +219,7 @@ spec.segments.forEach((s, i) => {
   const fl = win(s.flash, 0.2, 'flash');
   if (fl) g += `,drawbox=c=white@0.85:t=fill:enable='between(t,${fl[0]},${(fl[0] + fl[1]) / 2})',drawbox=c=white@0.4:t=fill:enable='between(t,${(fl[0] + fl[1]) / 2},${fl[1]})'`;
   ff(...(still ? ['-loop', '1'] : seek), '-i', src, '-i', ov, '-i', a, ...extra, '-filter_complex', `${g},format=yuv420p[o];${audio}`, '-map', '[o]', '-map', '[au]', '-t', d, '-c:v', 'libx264', '-crf', '22', '-c:a', 'aac', '-ar', '44100', '-ac', '2', v);
-  lastBg = { src, at: (s.from ?? 0) + Math.max(Number(d) - 0.1, 0), still, credit: licensed ? s.credit ?? 'TVING·KBO' : undefined };
+  lastBg = { src, at: (s.from ?? 0) + Math.max(Number(d) - 0.1, 0), still, credit: licensed ? s.credit ?? 'TVING·KBO' : undefined, motion: !!s.motion };
   parts.push(v);
 });
 // 끝 마무리(2026-11-10 이사님: 끝 컷을 더 길게, 짧은 페이드아웃): outro 가 없으면 예전과 같다
@@ -238,7 +242,7 @@ if (spec.end) {
   if (e.say) { voice(e.say, join(TMP, 'aend.wav')); d = Math.max(dur(join(TMP, 'aend.wav')) + 0.5, 2.8).toFixed(2); }
   if (hold > 0) d = (Number(d) + hold).toFixed(2);
   const bgIn = prof ? (existsSync(bg) ? ['-loop', '1', '-i', bg] : ['-f', 'lavfi', '-i', 'color=c=0x111111:s=1080x1920']) : [];
-  ff(...bgIn, '-loop', '1', '-i', ov, ...(e.say ? ['-i', join(TMP, 'aend.wav')] : ['-f', 'lavfi', '-i', 'anullsrc=r=44100:cl=stereo']), '-filter_complex', prof ? `[0]scale=1080:1920,boxblur=10:1,eq=brightness=-0.4:saturation=0.5,fps=30[b];[b][1]overlay,format=yuv420p[o];[2]apad,atrim=0:${d}[au]` : `[0]fps=30,format=yuv420p[o];[1]apad,atrim=0:${d}[au]`, '-map', '[o]', '-map', '[au]', '-t', d, '-c:v', 'libx264', '-crf', '22', '-c:a', 'aac', '-ar', '44100', '-ac', '2', v);
+  ff(...bgIn, '-loop', '1', '-i', ov, ...(e.say ? ['-i', join(TMP, 'aend.wav')] : ['-f', 'lavfi', '-i', 'anullsrc=r=44100:cl=stereo']), '-filter_complex', prof ? `[0]scale=1080:1920,boxblur=10:1,eq=brightness=${lastBg?.motion ? -0.62 : -0.4}:saturation=${lastBg?.motion ? 0.2 : 0.5},fps=30[b];[b][1]overlay,format=yuv420p[o];[2]apad,atrim=0:${d}[au]` : `[0]fps=30,format=yuv420p[o];[1]apad,atrim=0:${d}[au]`, '-map', '[o]', '-map', '[au]', '-t', d, '-c:v', 'libx264', '-crf', '22', '-c:a', 'aac', '-ar', '44100', '-ac', '2', v);
   parts.push(v);
 }
 writeFileSync(join(TMP, 'list.txt'), parts.map((p) => `file '${p}'`).join('\n'));
