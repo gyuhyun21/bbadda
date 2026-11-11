@@ -10,3 +10,6 @@ dist/
 ._*
 .vercel
 .claude/settings.local.json
+
+# 릴스 조립 중간 폴더(reel-make.ts, 재료 폴더 안에 생김)
+.make/
