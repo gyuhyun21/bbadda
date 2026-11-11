@@ -1,0 +1,24 @@
+{
+  "id": "news-d5046e4f",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "news",
+  "announcement": true,
+  "source_name": "스포츠경향",
+  "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9HY1ZyUkdVWWNSQVg5QjBEaGlhWjlLOEtHdnF4MDZjbDliaS1QYVE4bGVCTTRsUXF6aF9fWjdhR3VDT2dpdXF4Ny1RemVHeF9CYkEyRGZCcFdYdHp3bVHSAWNBVV95cUxOXzlLT2ppd3VFRFVkazhXcGZWNW5kZ2d5NXdzd2JFc2ROem9VLUxKS1dCRUZVT05qcUZNZ1pScUhNbzlDNTdPVVRNZ1gtSkdMWHc3UkVQM1d6VVE0OFkwam1VOUE?oc=5",
+  "title": "[오피셜] 한화, 외인 선발 두 자리 채웠다···왕옌청 재계약에 이어 최고 시속 157㎞ 외인 우완 트로이 왓슨...",
+  "published_at": "2026-11-11T02:30:00.000Z",
+  "collected_at": "2026-11-11T07:37:41.309Z",
+  "summary_ko": "스포츠경향은 한화가 왕옌청 재계약에 이어 최고 시속 157km 우완 트로이 왓슨을 영입해 외국인 선발 두 자리를 채웠다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "157km 왓슨 영입, 외인 선발 완성"
+}

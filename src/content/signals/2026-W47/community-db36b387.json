@@ -1,0 +1,23 @@
+{
+  "id": "community-db36b387",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 쇼핑가자",
+  "url": "https://blog.naver.com/kim2429_/224472992843",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/FqyHT1B1Y6u",
+  "title": "홍창기 필요성 진지하게 분석, KIA 상위 타선 반등의 열쇠일까",
+  "published_at": "2026-11-11T14:51:00.000+09:00",
+  "collected_at": "2026-11-11T07:37:41.309Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

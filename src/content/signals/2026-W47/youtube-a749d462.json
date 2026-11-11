@@ -1,0 +1,26 @@
+{
+  "id": "youtube-a749d462",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "Lee Siola",
+  "url": "https://www.youtube.com/watch?v=KGdg0qlu2T8",
+  "title": "\"예전 이병규 같다\" 최원호 감독이 극찬한 KIA 20세 박재현",
+  "published_at": "2026-11-11T05:00:38Z",
+  "collected_at": "2026-11-11T07:37:41.309Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 547,
+    "likes": 4,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 38,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

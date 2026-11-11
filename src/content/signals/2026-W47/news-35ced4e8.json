@@ -1,0 +1,23 @@
+{
+  "id": "news-35ced4e8",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "FT스포츠",
+  "url": "http://www.ftimes.kr/news/articleView.html?idxno=41021",
+  "title": "“돈 때문에 야구 안 한다”…삼성 페덱의 잔류 희망, 구자욱·원태인과 엇갈린 행보",
+  "published_at": "2026-11-11T00:41:33.000Z",
+  "collected_at": "2026-11-11T07:37:41.309Z",
+  "summary_ko": "FT스포츠는 페덱이 돈 때문에 야구하지 않는다며 삼성 잔류를 바란다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "페덱, 삼성 잔류 희망"
+}

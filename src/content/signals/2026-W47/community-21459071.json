@@ -1,0 +1,29 @@
+{
+  "id": "community-21459071",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 sangjun2482님의블로그",
+  "url": "https://blog.naver.com/sangjun2482/224472924428",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/7y9u4ZcWzwt",
+  "title": "1000원짜리가 21만원 됐다…삼성 우승에 '초유의 상황'",
+  "published_at": "2026-11-11T13:57:00.000+09:00",
+  "collected_at": "2026-11-11T07:37:41.309Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 83,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "한국경제",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE05Yi1KdWZuNjQzazFsTmx2ZVF5QU5maXJzWXF6TmRjR1NSeW9PRHJuRlNWeFlucFVNYUtNX3ZEVE5EUWNhd1k1NmtLeDA4N0FGLUlXZ3VCVXdRQQ?oc=5"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "community-d436b205",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 스포츠에 스며든 이슬",
+  "url": "https://blog.naver.com/sde77/224473009356",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/AKR5HM8zhvE",
+  "title": "“집까지 알아봤는데 2시간 전에 취소” 43세 고효준, 25년 야구 인생 끝낸 가슴 아픈 사연",
+  "published_at": "2026-11-11T15:02:00.000+09:00",
+  "collected_at": "2026-11-11T07:37:41.309Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

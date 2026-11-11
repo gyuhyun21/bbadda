@@ -1,0 +1,23 @@
+{
+  "id": "news-c2f91800",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "마이데일리",
+  "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1TeUF1WnYwaFEyMTIzNmRma0ZidU1PeWY5YldNWnh2V19FXy1zUjFhSVNUQjBLZ1FUeE04aEh0YzVORlVTQjFrRHVDZWFPRDMzamRGVHZoTFpHR2FYeVpYQ2ZGaUFFdw?oc=5",
+  "title": "'와 진짜?' 307억 포기 파격 결단→ML 도전 선언, 42세 지도자와 다시 만나나…\"ROH 사장님과 야구 철학 안 맞아, 1년이면 모를까\"",
+  "published_at": "2026-11-11T03:01:00.000Z",
+  "collected_at": "2026-11-11T07:37:41.309Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

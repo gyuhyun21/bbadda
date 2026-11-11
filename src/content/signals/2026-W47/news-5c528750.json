@@ -1,0 +1,23 @@
+{
+  "id": "news-5c528750",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "일간스포츠",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBRWTBEd1RsdFNmaTdlaUpQa3YzbEVRbS1tOFB6SmUycnFQZHdmdGVLeWZMR2R4R2ZLS1dSc0ZWZ2padmF1Q3JId1h0dGMtMVpSNDJLUWtCckRrdWs2X0R1XzF3?oc=5",
+  "title": "이형종 플레잉코치 겸임, 박병호 퓨처스 타격 총괄...히어로즈 2027 코칭스태프 인선 마무리",
+  "published_at": "2026-11-11T05:34:00.000Z",
+  "collected_at": "2026-11-11T07:37:41.309Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

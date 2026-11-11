@@ -1,0 +1,30 @@
+{
+  "id": "community-ab63c4d2",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 덕이매거진 | 스포츠에 진심인 덕후 오리",
+  "url": "https://blog.naver.com/schinmagazine/224472880448",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/EHlDzO4zTSg",
+  "title": "‘대전 예수‘ 라이언 와이스, 샌디에이고와 빅리그 계약!",
+  "published_at": "2026-11-11T13:21:00.000+09:00",
+  "collected_at": "2026-11-11T07:37:41.309Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "더게이트",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9mZlhKRG5rN2pvYzFXR05WaUhKRklweExuWjdsUjBfb3dxdzRTdmp5ZFN0dnJxbWZCVll0eWxyT2NlY0J1eEVLRG9nQ21tVDBlMDVZd3YtbUlTM1NqclZVbm45ZDRVZ0NH0gFsQVVfeXFMUGhyU0RRSlJKT0ZOUmxvSE5rQzNuWmlMUzlWRjNDRHhQc0h2U1NTUmxRWS1feEdYREU4WWR3OS1EazlWSGpJTkpIMFQwc2Vibk5SOVd6T3hxZm5MUW5TdmlkSWR2azhPVG5lR2dQ?oc=5"
+    }
+  ]
+}

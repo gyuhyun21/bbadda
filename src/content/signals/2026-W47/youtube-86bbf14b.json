@@ -1,0 +1,26 @@
+{
+  "id": "youtube-86bbf14b",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "호랭이 덕아웃",
+  "url": "https://www.youtube.com/watch?v=5nRKO__6mjg",
+  "title": "삼성 우승을 본 김도영, \"뭉클했다\" #shorts",
+  "published_at": "2026-11-11T06:00:34Z",
+  "collected_at": "2026-11-11T07:37:41.309Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 783,
+    "likes": 7,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 41,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

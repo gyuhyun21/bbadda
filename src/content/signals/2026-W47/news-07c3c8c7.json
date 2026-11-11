@@ -1,0 +1,24 @@
+{
+  "id": "news-07c3c8c7",
+  "issue": "2026-W47",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "이데일리",
+  "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMVVONFFlSzhEREo1bndwZ28tNmFTNDdZQ0tRRXJGblBmMy1nelNZNGlsWUM2cUJPVWF4VElnVjhfZExfLVNzcEhVdnFBYXVXLWEySFIxb3c2X2FvZV9mSndhOTJ2YkxMNmxpUzBrMjRWcjQwdjVrak5jdVJNUkhMRA?oc=5",
+  "title": "KS 2차전 '연장 12회 혈전', 가장 많은 219만 명 봤다",
+  "published_at": "2026-11-11T07:18:13.000Z",
+  "collected_at": "2026-11-11T07:37:41.309Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 92,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

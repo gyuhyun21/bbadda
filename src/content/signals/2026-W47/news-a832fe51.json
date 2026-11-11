@@ -1,0 +1,28 @@
+{
+  "id": "news-a832fe51",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "news",
+  "source_name": "연합뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ua0VkMjhFbERReGViY2ZkTEZwWjVCYXEwZTJ3aG1zSTJYQ3VuNV80UzA0ajZpdFphNHoxSGF2dXpmUjJQR0E3SjRjdVdCdnVzcWxpUnpmZVduLXJXZ3lqX9IBYEFVX3lxTE9ua0VkMjhFbERReGViY2ZkTEZwWjVCYXEwZTJ3aG1zSTJYQ3VuNV80UzA0ajZpdFphNHoxSGF2dXpmUjJQR0E3SjRjdVdCdnVzcWxpUnpmZVduLXJXZ3lqXw?oc=5",
+  "title": "프로야구 한화, 새 외국인 투수 왓슨과 100만달러에 계약",
+  "published_at": "2026-11-11T02:13:03.000Z",
+  "collected_at": "2026-11-11T07:37:41.309Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "톱스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE51VU9oWTZNSEg5WU5WV3ZsZ2laeF8wWVRuUVEtWTRVVlE3dFdBVWZ0VU1RNGlVNXdOVWRCMEVGaW9PZzVEV09DcWcyNUVTbklIa1U2OUNnYXF1cG1WUHlWRnN5OHZmeHRxd0RETnpMUUdpdw?oc=5"
+    }
+  ]
+}

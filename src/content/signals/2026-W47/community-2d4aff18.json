@@ -1,0 +1,23 @@
+{
+  "id": "community-2d4aff18",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 내 돈의 현실 경제",
+  "url": "https://blog.naver.com/whwlsgml21/224472542026",
+  "title": "“16억 받다가 1년 만에 42억” 양의지, 무려 26억 뛰어 KBO 최고 연봉 받은 이유",
+  "published_at": "2026-11-11T08:25:00.000+09:00",
+  "collected_at": "2026-11-11T07:37:41.309Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

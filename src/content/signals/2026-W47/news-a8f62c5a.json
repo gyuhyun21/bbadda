@@ -1,0 +1,22 @@
+{
+  "id": "news-a8f62c5a",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "news",
+  "source_name": "동아일보",
+  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBvX2J4MXNXeEdQT21CUTdnTTJuUmk3eFJHQXZTWE9pV0pRTVphN0t4RmMxb2xwaXpNeWJKNXVJYVF6VXNNUzVvYlFPNWdSQmNpT0tsUDIySG1DUjE0VTNOYWlMM0JBbmZLWVktZkNLV01RQUQy0gFmQVVfeXFMTjJMZTczMmR0WlQ2ZWZwZ01OVEJHOGVfUE10V20zTF96M3owakZvY1FkSUpDdk51UXNheDI2QXBKRWhrMmpINFVBUWZ2TVBLNG94Vm14R3laT3lGOE9Ic1lzZ0lEYlh3?oc=5",
+  "title": "‘홈런왕’ 박병호 키움 잔류군 선임코치, 퓨처스팀 타격코치 겸임",
+  "published_at": "2026-11-11T06:04:49.000Z",
+  "collected_at": "2026-11-11T07:37:41.309Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

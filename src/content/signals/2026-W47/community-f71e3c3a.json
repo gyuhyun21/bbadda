@@ -1,0 +1,32 @@
+{
+  "id": "community-f71e3c3a",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "community",
+  "source_name": "다음카페 쭉빵카페",
+  "url": "https://cafe.daum.net/ok1221/8mNz/1216968",
+  "title": "SSG 랜더스 김재현 단장 OUT 신임 운영담당(기존 단장...",
+  "published_at": "2026-11-11T09:58:33.000+09:00",
+  "collected_at": "2026-11-11T07:37:41.309Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 82,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE15WXBVcGZla085dVpObmRxaUctdFRHek9LTU55S0kzR2E1WGdTbENmTHpNdEIzQzNkYUIza0V6V3FKYWx2eHNMNWlUVzFLNDktVFV5M1Q0VTZXUHZ2UVJyaUFwNDd1T045OUdUX2Fhb9IBb0FVX3lxTE15WXBVcGZla085dVpObmRxaUctdFRHek9LTU55S0kzR2E1WGdTbENmTHpNdEIzQzNkYUIza0V6V3FKYWx2eHNMNWlUVzFLNDktVFV5M1Q0VTZXUHZ2UVJyaUFwNDd1T045OUdUX2Fhbw?oc=5"
+    },
+    {
+      "source_name": "스포츠동아",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5NREo0djJ5eWVENE9kSjhtRC1sOTh2YnRUeUhKUTY0b2hNNmdrVFFXRUQxTTZNSXJXaUNUdU40emoxOUx1S2ZhTVppSmxLYXlLMXZhZTZOZUt3RWNwaUlXZzR4M0tBUk9DZDdmMXEwZG9QQQ?oc=5"
+    }
+  ]
+}

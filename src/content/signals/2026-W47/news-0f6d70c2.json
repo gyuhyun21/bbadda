@@ -1,0 +1,23 @@
+{
+  "id": "news-0f6d70c2",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "뉴시스",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5WeGc5VV9ZdmFqMFBwQUJYU3NCX1hibWJFNk5NNkRCc0o0akZLeDR3VERxWXFzUjdPdWhGU0Vvdkc5Mi10c0V0ekNTeXA3cDNmeHA2ck9jTnFmNHZrYl9RcNIBeEFVX3lxTE9ubmlTd2VBWm9KWHVCV3BOdS1kdkZOSjJKVmw2VjJ2bWRkM0NGMENXN2wzR3FIcl9MRjVHQVdFenFPdGdjUGJ0aWFyRkxfTDJIb1hxYU1acEVtdjZoeUxuazYxWE1TZm9adEhVZDNVc2hFclNGakwxRg?oc=5",
+  "title": "프로야구 포스트시즌 평균시청률 7.03%…최고는 KS 2차전 9.63%",
+  "published_at": "2026-11-11T07:13:42.000Z",
+  "collected_at": "2026-11-11T07:37:41.309Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 84,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

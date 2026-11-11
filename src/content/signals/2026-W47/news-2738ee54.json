@@ -1,0 +1,23 @@
+{
+  "id": "news-2738ee54",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "뉴시스",
+  "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8yQTZuaEI3X3RfQ0tHUzJPTmcxVUg0SmdOUHRHZDBxdE5TUGVJR3pkTGZVRHc3bXljVVdZRXFCYXVneEdWUEswY1R0UVkxZjVpVXdIcUdkN2daQVNEMW44bHktMkROU3p0bnl6VTl5NGtXNXBTY1d0YtIBeEFVX3lxTE8yQTZuaEI3X3RfQ0tHUzJPTmcxVUg0SmdOUHRHZDBxdE5TUGVJR3pkTGZVRHc3bXljVVdZRXFCYXVneEdWUEswY1R0UVkxZjVpVXdIcUdkN2daQVNEMW44bHktMkROU3p0bnl6VTl5NGtXNXBTY1d0Yg?oc=5",
+  "title": "'한일 거포' 김도영 vs 야마구치, APBC서 격돌…홈런 대결 빅뱅",
+  "published_at": "2026-11-10T23:00:00.000Z",
+  "collected_at": "2026-11-11T07:37:41.309Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 73,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

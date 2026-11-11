@@ -1,0 +1,23 @@
+{
+  "id": "community-c14b47dc",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 루나의 스포츠픽",
+  "url": "https://blog.naver.com/susu8522/224472343091",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/8MhYv3ImO3h",
+  "title": "KT 한국시리즈 충격 준우승, FA 불펜 보강으로 다시 정상 설까",
+  "published_at": "2026-11-11T14:10:00.000+09:00",
+  "collected_at": "2026-11-11T07:37:41.309Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "mixed"
+}

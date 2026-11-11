@@ -1,0 +1,29 @@
+{
+  "id": "community-e946008b",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "community",
+  "announcement": true,
+  "source_name": "블로그 스포츠 헌터의 핫이슈 브리핑",
+  "url": "https://blog.naver.com/tongtii/224472677261",
+  "title": "🚨 [오피셜] SSG 김재현 단장 재계약 불발! 3위서 6위 추락 여파? 김성용 대행 체제 돌입!",
+  "published_at": "2026-11-11T10:31:00.000+09:00",
+  "collected_at": "2026-11-11T07:37:41.309Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "스포츠경향",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBmQVM0Mm51R0F1RjBweWw4dzI1djBPTU5aa2V1Q3RaeHNmdVNwWnlOcXpuNDF6MUtqWldybnNBcC1jd2JIYlNrNnVCQlJVU1RlZHA0RmhPSGp5VVJOLVHSAWNBVV95cUxQMXlqUi1oZWw3clJnRHVKLWNnbGFWQzhJOE5aVl9samp0SGc0QTVPNXowZGtDeTlzTjRubkN0ZlNXZHVsTjRaWkt2aDVmTF9EYWpKeEZwVU95QXcySUxCS0ptSWs?oc=5"
+    }
+  ]
+}

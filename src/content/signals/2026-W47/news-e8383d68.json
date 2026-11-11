@@ -1,0 +1,29 @@
+{
+  "id": "news-e8383d68",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "news",
+  "announcement": true,
+  "source_name": "SPOTV NEWS",
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5od3VZOTZ4dTNobDViczJDTGJzWlNCNjVaU0VUSlZnVlZ2Q3pHSTFfLW1weTVfZmNCZEhkMVpwNFhNdTdoU2lpcGlQd1RGTnFIcVpCZnFUcHNSSkVuS3JteDVLdy1VTkZLZ3p6VHhBS1U?oc=5",
+  "title": "[오피셜] SSG 김재현 단장과 계약 만료-동행 종료… 김성용 R&D 팀장 운영담당 승진",
+  "published_at": "2026-11-11T00:58:15.000Z",
+  "collected_at": "2026-11-11T07:37:41.309Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "YTN",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9GaFREWDNtRlRYVUhsLUsxdWE5WHp6aE96cXNsa19PWDQ2dVZqZHI3U2tsUTg3MHlBU2x1S24tMzNJRXc2aXpXbmhkQTFLRlNLMjMwNGVTUnJQSG95bFhlMGpjUmpYYzlIR1p5Z1JXVkdLcDlLLXc?oc=5"
+    }
+  ]
+}

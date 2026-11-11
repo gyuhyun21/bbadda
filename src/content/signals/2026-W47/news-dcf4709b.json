@@ -1,0 +1,23 @@
+{
+  "id": "news-dcf4709b",
+  "issue": "2026-W47",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "이투데이",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1SNUhTRlpNcTZzOVJkT1Q0S2tOVkt2RFpYZHlPTzlSWnU2b3ZhdzJpMHhtYzRSMTRYQS1CTklMTjFHblpwUjhLRjhDNFk2Zlhsay1XLQ?oc=5",
+  "title": "가을야구 안방 승자는?⋯삼성ㆍKIA 5경기에 누적 884만 명",
+  "published_at": "2026-11-11T05:16:00.000Z",
+  "collected_at": "2026-11-11T07:37:41.309Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 83,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

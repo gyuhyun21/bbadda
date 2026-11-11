@@ -1,0 +1,24 @@
+{
+  "id": "news-af7a6a1b",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "일간스포츠",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBJZkV2WkpnaHVNclJvQ0dnMlZTaGdMYzlYTHR3Z3RrUFJ4MERiOVdLYVF6dzMtdU1NeERJcS1GMjFsVTczMXhqZFJLTnFaaFFVLXM0UEtVaDRZcEZicndMVTNn?oc=5",
+  "title": "“도영이가 얼마나 잘할까” 모두가 주목한 김도영, 첫 APBC 우승 이끌까",
+  "published_at": "2026-11-11T04:57:00.000Z",
+  "collected_at": "2026-11-11T07:37:41.309Z",
+  "summary_ko": "일간스포츠는 첫 APBC에 나서는 김도영에게 관심이 쏠린다며 우승을 이끌지 주목했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "brief_ko": "김도영, 첫 APBC 우승 이끌까"
+}

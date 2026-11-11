@@ -1,0 +1,24 @@
+{
+  "id": "community-42f05010",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 스포츠 인사이트",
+  "url": "https://blog.naver.com/good_basket/224472499319",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/ChSAEgbunMG",
+  "title": "구자욱 타율 0.371 vs 중견수 FA 정수빈·최지훈·김호령, 어느 팀이 누굴 데려가나",
+  "published_at": "2026-11-11T07:21:00.000+09:00",
+  "collected_at": "2026-11-11T07:37:41.309Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

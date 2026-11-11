@@ -1,0 +1,24 @@
+{
+  "id": "community-b69f4f7a",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 봉숙이의 슬리피한 하루",
+  "url": "https://blog.naver.com/bbollllls/224472544476",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/3lhPbTNGbBk",
+  "title": "2026 상무 야구단 전역자 명단 총정리! 장재영·전미르·박한결 등 16명 원소속팀 복귀",
+  "published_at": "2026-11-11T08:27:00.000+09:00",
+  "collected_at": "2026-11-11T07:37:41.309Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

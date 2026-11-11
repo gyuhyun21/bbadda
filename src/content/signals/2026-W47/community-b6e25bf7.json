@@ -1,0 +1,24 @@
+{
+  "id": "community-b6e25bf7",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt",
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 지금까지",
+  "url": "https://blog.naver.com/elwjtmxm/224472865276",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/HCqjp6EbKBP",
+  "title": "\"8대 0에서 8대 7\" KT 삼성 한국시리즈 1차전 김현수 기록",
+  "published_at": "2026-11-11T14:40:00.000+09:00",
+  "collected_at": "2026-11-11T07:37:41.309Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

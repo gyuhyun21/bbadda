@@ -1,0 +1,32 @@
+{
+  "id": "instagram-088aa098",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "instagram",
+  "official": true,
+  "source_name": "Instagram @hanwhaeagles_soori",
+  "url": "https://www.instagram.com/p/DflXtIcH-UW/",
+  "title": "한화 이글스 공식 인스타그램: 외국인 투수 트로이 왓슨(Troy Watson)영입",
+  "published_at": "2026-11-11T02:06:57+0000",
+  "collected_at": "2026-11-11T07:37:41.309Z",
+  "summary_ko": "",
+  "metrics": {
+    "likes": 25892,
+    "comments": 522
+  },
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "동행미디어 시대",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1TY0Z4ZER3V1BIeHUxb2ItWC1GRFZpRG9FeHY5U0xtV1dLQVQzVjRmYnB5M214Vl9DdFRWVmp3UVVBOTZaeTd2eUVVTFA4SW5FbEt6cmxPY2ppdUpoSXc?oc=5"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "news-959abca7",
+  "issue": "2026-W47",
+  "module": "rivalry",
+  "team": "lg",
+  "teams": [
+    "lg",
+    "kiwoom"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://www.mt.co.kr/amp/sports/2026/11/11/202611110652772009O",
+  "title": "최하위 키움까지도 해외 캠프 떠났는데, 왜 LG만 유일하게 국내에서 마무리 캠프 할까",
+  "published_at": "2026-11-10T22:11:00.000Z",
+  "collected_at": "2026-11-11T07:37:41.309Z",
+  "summary_ko": "머니투데이는 최하위 키움까지 해외 캠프를 떠났는데 LG만 국내에서 마무리 캠프를 하는 이유를 짚었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 73,
+    "relevance": 70
+  },
+  "sentiment": "negative",
+  "also_in": [
+    {
+      "source_name": "네이트",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE56SHJxSE1XOUxvOUlHTlpvQXVNcnE5R2hxb3VIWS04UDctRmU3R2xDbk1QMlNTXy1XQkduaHo1VlFrV2dYcS0yVXF3bkpMQlowNEU0V3BR?oc=5"
+    }
+  ],
+  "brief_ko": "마무리 캠프, 홀로 국내인 이유"
+}

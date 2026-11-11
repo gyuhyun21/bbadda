@@ -1,0 +1,24 @@
+{
+  "id": "news-cfc8f946",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "일간스포츠",
+  "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBaREdYcXlUUVlpUTI0bEZiM1NMN3ZyWjVTN0pRV3FzemhYWjhvSkZsX0lpSnBoLUN1UnlTYkhqajRqVWdhakoyZUpJS0REYkM4NTZvN0R4SzBOcHc?oc=5",
+  "title": "원태인의 야구 인생 1막, 에세이 '라이온즈 블루 그 자체' 출간",
+  "published_at": "2026-11-11T04:43:00.000Z",
+  "collected_at": "2026-11-11T07:37:41.309Z",
+  "summary_ko": "일간스포츠는 원태인이 야구 인생 1막을 담은 에세이 「라이온즈 블루 그 자체」를 냈다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "원태인, 에세이 출간"
+}

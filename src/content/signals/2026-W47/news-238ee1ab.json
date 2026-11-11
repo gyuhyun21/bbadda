@@ -1,0 +1,23 @@
+{
+  "id": "news-238ee1ab",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "부산일보",
+  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9yNk1icW11UFhOOERCRTNFVkduY3c1Z01MQW9zRngtS213U0s1UFh6N0taOG1ubWRINVlTVzJzNGpBeV9KZTJSUG0yZ0dHWF95SG9HWDlOSUdQRU12aFhueUx4VEhYYTJHOFZ4SGlSZDVDU3VD?oc=5",
+  "title": "‘실책 악몽’ 지운다…수비 환골탈태 나선 나승엽",
+  "published_at": "2026-11-11T05:14:03.000Z",
+  "collected_at": "2026-11-11T07:37:41.309Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

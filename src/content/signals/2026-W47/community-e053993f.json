@@ -1,0 +1,24 @@
+{
+  "id": "community-e053993f",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 스포츠 줌인",
+  "url": "https://blog.naver.com/sport_log/224472691688",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/JjyPmpRNJ7U",
+  "title": "치어리더 최소윤 경기장을 사로잡은 '완벽한 청바지 핏과 개미허리'",
+  "published_at": "2026-11-11T15:30:00.000+09:00",
+  "collected_at": "2026-11-11T07:37:41.309Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "community-c36484de",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 경기보다 재밌는 스포츠 이야기",
+  "url": "https://blog.naver.com/reboot_kwak/224472503202",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/FckseqVUEMf",
+  "title": "\"이미 재계약 했는데 어쩌나, 너무 섣부른 계약 이었나?\" 이강철 감독 3년 더 KT 이끈다",
+  "published_at": "2026-11-11T14:39:00.000+09:00",
+  "collected_at": "2026-11-11T07:37:41.309Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

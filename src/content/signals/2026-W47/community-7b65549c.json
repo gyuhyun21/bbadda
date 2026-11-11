@@ -1,0 +1,24 @@
+{
+  "id": "community-7b65549c",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&page=8&document_srl=10542896121",
+  "title": "이 원구 사진은 참 뭔가뭔가임 - 야구",
+  "published_at": "2026-11-11T03:37:41.309Z",
+  "collected_at": "2026-11-11T07:37:41.309Z",
+  "summary_ko": "",
+  "excerpt": "... SK 와이번스 - SSG 랜더스 역대 우승 시즌 WAR 서열. 18 분 전 자유…",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-412f3ede",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "오마이스타",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1lRWFySndNQ244YVZFeTdQY1NSZmlrcTVmTkxmci1ya2NadlcwdjBHMjM4cXVXeGhKOEhTX3NQQ0NVREJvTVdhM2l2OHJZUkdvUjY4R1FISGxuWmJZVnhUVXQ1NkhQSUt0MVJRTXVHejljMkppSnpEaWFDQTFIdw?oc=5",
+  "title": "23년 차에 '낭만 우승' 이룬 강민호, '한우궁사' 클럽 다음 탈출자는?",
+  "published_at": "2026-11-11T06:01:00.000Z",
+  "collected_at": "2026-11-11T07:37:41.309Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

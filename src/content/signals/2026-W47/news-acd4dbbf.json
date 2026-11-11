@@ -1,0 +1,24 @@
+{
+  "id": "news-acd4dbbf",
+  "issue": "2026-W47",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "조선일보",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPanZhR3cwZF9rVmtiRDdnWVRpVmkwcGhlY19OaDZBbnN4UEowVzhQNW1URlFCbHZpQldoQmdieDFjWTdrRHA0UFJKMHdUamZ4aml0STlScVdYS0hINno4cTVHdzNGbGNNekMwUTJKaEFONVBuUlNzY0lDQm8wZ3lRTUFZcw?oc=5",
+  "title": "'충격' KS 업셋, 1이닝 8실점 → 자책점 단 2점이었는데…현장서도 \"죄송하다\" 연발했던 다승왕, 팬심 자극 눈물의 사과 [SC포커스]",
+  "published_at": "2026-11-11T05:25:00.000Z",
+  "collected_at": "2026-11-11T07:37:41.309Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 83,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

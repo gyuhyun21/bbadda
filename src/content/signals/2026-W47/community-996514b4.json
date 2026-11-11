@@ -1,0 +1,33 @@
+{
+  "id": "community-996514b4",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 오늘의 한페이지",
+  "url": "https://blog.naver.com/eogksgowjr/224472929264",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/35YtWIyjeXx",
+  "title": "한화이글스, 왓슨 100만 달러에 영입… 최고 157㎞ 강속구, KBO에서도 통할까?",
+  "published_at": "2026-11-11T14:02:00.000+09:00",
+  "collected_at": "2026-11-11T07:37:41.309Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 83,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "이데일리",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUjdoNFBBeEZOQ0VKeTg0a294MHZ5SjZ0TVNoemViYTVhbjUyRm9hS29MZG1tWEtCODlkMUtrd0VGRktuSF9RcjJycXZjRXJ1d0dtMzN3cUMyQ1FQLWxaZFI3TEhuT19keFIzUFNsS3U4S1JKRmk2N0dvWUVPSnh2Yw?oc=5"
+    },
+    {
+      "source_name": "한국일보",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5WSEZPdEdLeGtvTC0yOTUxNTJacFhpQXhPZ2xzMlluUG8yenJ2LTJFdjNINHZMWUVZUjRSZUZIR2NLTFVQRUNTMXFHNUxLZGZSY216U0FYNXFxbURtQlExdU1nZzZHRlZIX3BVUXIxZ3g1b3fSAXNBVV95cUxOVkhGT3RHS3hrb0wtMjk1MTUyWnBYaUF4T2dsczJZblBvMnpydi0yRXYzSDR2TFlFWVI0UmVGSEdjS0xVUEVDUzFxRzVMS2RmUmNtelNBWDVxcW1EbUJRMXVNZ2c2R0ZWSF9wVVFyMWd4NW93?oc=5"
+    }
+  ]
+}

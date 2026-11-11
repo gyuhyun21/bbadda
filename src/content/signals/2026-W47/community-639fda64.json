@@ -1,0 +1,24 @@
+{
+  "id": "community-639fda64",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 꿈멍이 기록",
+  "url": "https://little-cat.tistory.com/7413",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/I4BMAr5G4d8",
+  "title": "대전 중리동 맛집 추천 베스트 10 순위",
+  "published_at": "2026-11-11T16:03:06.000+09:00",
+  "collected_at": "2026-11-11T07:37:41.309Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

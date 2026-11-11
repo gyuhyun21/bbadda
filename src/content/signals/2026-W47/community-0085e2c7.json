@@ -1,0 +1,23 @@
+{
+  "id": "community-0085e2c7",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 오늘은 뭐하지~? 키트 놀이터",
+  "url": "https://blog.naver.com/play_eat_fun/224472838940",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/Lf4tOktf0MF",
+  "title": "제6회 SSG랜더스배 유소년 야구대회 현장! 인천 초등 유소년 야구 클럽은 역시!",
+  "published_at": "2026-11-11T12:45:00.000+09:00",
+  "collected_at": "2026-11-11T07:37:41.309Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "instagram-f46e52bc",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "instagram",
+  "official": true,
+  "source_name": "Instagram @busanlottegiants",
+  "url": "https://www.instagram.com/p/DflyYrkOWz2/",
+  "title": "롯데 자이언츠 공식 인스타그램: 📣2027시즌 롯데자이언츠 선수단을 이끌 코칭스태프입니다!",
+  "published_at": "2026-11-11T06:00:22+0000",
+  "collected_at": "2026-11-11T07:37:41.309Z",
+  "summary_ko": "",
+  "metrics": {
+    "likes": 3285,
+    "comments": 114
+  },
+  "scores": {
+    "hot": 67,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "community-0b7579e1",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 꿀버리 랜드",
+  "url": "https://blog.naver.com/honeybee_0620/224472622826",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/EZk3Oca2rb",
+  "title": "2026 APBC 대한민국 vs 호주 경기 프리뷰! 첫 경기 승리로 우승 도전 시작할까?",
+  "published_at": "2026-11-11T09:46:00.000+09:00",
+  "collected_at": "2026-11-11T07:37:41.309Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

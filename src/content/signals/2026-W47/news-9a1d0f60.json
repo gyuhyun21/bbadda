@@ -1,0 +1,23 @@
+{
+  "id": "news-9a1d0f60",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "news",
+  "source_name": "엑스포츠뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE11N3dMck1RQklRUDdqbEJhM1ZBNWtZVmlIdGxXUVgtNlE4b1ZHdHdMNHYwQUtZMzhHY3ZCLXYtMGRYY3FhN3ZSa3ZtNDdlanFveTdqMg?oc=5",
+  "title": "'한화 307억 포기' 노시환, 초대형 뉴스! 뉴욕서 옛 스승과 재회하나…美 매체 \"메츠행 가능성 있어, 삼진율은 걸림돌\"",
+  "published_at": "2026-11-11T02:40:02.000Z",
+  "collected_at": "2026-11-11T07:37:41.309Z",
+  "summary_ko": "엑스포츠뉴스는 미국 매체가 노시환의 메츠행 가능성을 거론했다고 전했다. 메츠에는 한화 시절 스승이 코치로 있다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "노시환, 메츠서 옛 스승과 재회?"
+}

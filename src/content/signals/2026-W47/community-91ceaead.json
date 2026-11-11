@@ -1,0 +1,24 @@
+{
+  "id": "community-91ceaead",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&page=8&document_srl=10543460954",
+  "title": "디아즈 X도 하네 - 야구",
+  "published_at": "2026-11-11T06:37:41.309Z",
+  "collected_at": "2026-11-11T07:37:41.309Z",
+  "summary_ko": "",
+  "excerpt": "... 인기 [오피셜] 2027 롯데 자이언츠 코칭스태프 확정 [38]. 11.11 정보 새일월 조회1.5만 추천37. [오피셜]…",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

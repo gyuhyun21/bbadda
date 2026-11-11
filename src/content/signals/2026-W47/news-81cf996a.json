@@ -1,0 +1,29 @@
+{
+  "id": "news-81cf996a",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "뉴스핌",
+  "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA3MklBOEU0WEFiRFdzNUxnTUhGTjcxUXJ4eHlVMlpjUXBSVDdJbDkxbVlVMm5SNVVpRXh6OTZFckRvaklqVjVTdnBCd3l6WHduSWdPSWtUTW1qaDY1?oc=5",
+  "title": "[프로야구] 포스트시즌 평균 시청률 7.03%…2년 연속 상승·누적 시청자 2240만명",
+  "published_at": "2026-11-11T06:16:00.000Z",
+  "collected_at": "2026-11-11T07:37:41.309Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "기호일보",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBxYWtKN0VxOTVPX01acEhBVXBLVGZYcGt1eEJuSDhGR3hGTXd1clVKdE4yRXJuTjhGSmtMbXpOeHo4ekRaUHRZNmtDTWYzSm4zUFlLVWU3TXhwbnBIT0RSQ0l0Z24yNHU4M3RoWE1nNA?oc=5"
+    }
+  ]
+}

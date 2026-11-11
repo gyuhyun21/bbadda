@@ -1,0 +1,23 @@
+{
+  "id": "community-5fb38161",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 실과바늘",
+  "url": "https://1120kbh.tistory.com/13990",
+  "title": "KBO 통산 타율 1위도 MLB 벽 높았다.",
+  "published_at": "2026-11-11T12:40:52.000+09:00",
+  "collected_at": "2026-11-11T07:37:41.309Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

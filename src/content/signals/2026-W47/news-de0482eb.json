@@ -1,0 +1,23 @@
+{
+  "id": "news-de0482eb",
+  "issue": "2026-W47",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "네이트뷰",
+  "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE01al9zSDROa3ZuOGNaZ0RHSXFYb1Jab2NqRE8xOUI3UjBxX2Y0bEhoLXlwcnJST2dFS0kwUG1PYlctQU0tV2Jkdm16Zmhabk0zenfSAVdBVV95cUxOSUNZNEVicWlqTmtfamxIYjZkMjh4YURpZVd6M0dPeVp6blM2UzcxRjlEaEFoRjhlVktucnFWSUFmbjhwdnB3RTlaa1dPdlppY3BFeExzNFE?oc=5",
+  "title": "“삼성 우승했는데 롯데 팬들이 눈물?” 강민호 무슨 일",
+  "published_at": "2026-11-10T08:48:00.000Z",
+  "collected_at": "2026-11-11T07:37:41.309Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 60,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

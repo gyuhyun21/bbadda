@@ -1,0 +1,24 @@
+{
+  "id": "community-f7ef07d2",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=humor&page=9&document_srl=10543095862",
+  "title": "KBO 한국시리즈 오래 못 간 팀 순위 - 유머/움짤/이슈",
+  "published_at": "2026-11-11T04:37:41.309Z",
+  "collected_at": "2026-11-11T07:37:41.309Z",
+  "summary_ko": "",
+  "excerpt": "... 날짜는 2026년 11월 11일 기준어지간한 팀은 범접조차 불가능한 압도적인 한 팀의 존재감이 눈에 띈다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

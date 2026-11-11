@@ -1,0 +1,23 @@
+{
+  "id": "news-509a8169",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "중앙일보",
+  "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0xcnF1QzdJb2VHR1hLdU96M3ZMX1hoYmQtQ0VnUzdTSWJhNzZ4T2o3bE1jTzdjOXZiWTN4MXctNTRxSGNreExTZmp2TjJpWW96dzFIRWx3?oc=5",
+  "title": "선발→마무리→선발 LG 손주영 “내년엔 160이닝 먹는다”",
+  "published_at": "2026-11-11T00:30:00.000Z",
+  "collected_at": "2026-11-11T07:37:41.309Z",
+  "summary_ko": "중앙일보는 선발에서 마무리, 다시 선발로 돌아가는 LG 손주영이 내년엔 160이닝을 던지겠다고 했다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "손주영, 다시 선발로 160이닝"
+}

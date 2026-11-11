@@ -1,0 +1,30 @@
+{
+  "id": "news-9d570970",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "news",
+  "announcement": true,
+  "source_name": "스포츠조선",
+  "url": "https://www.sportschosun.com/baseball/2026-11-11/202611110100078180007272",
+  "title": "[오피셜]한화가 아니네? 간만 보고 돌아선 대전예수, '불펜 유력'에도 ML 잔류 택했다 '1+1년 계약'…송성문과 한솥밥",
+  "published_at": "2026-11-11T04:39:31.000Z",
+  "collected_at": "2026-11-11T07:37:41.309Z",
+  "summary_ko": "스포츠조선은 한화 복귀가 거론되던 와이스가 메이저리그 잔류를 택해 1+1년 계약을 맺었다고 전했다. 송성문과 같은 팀이다.",
+  "metrics": {},
+  "scores": {
+    "hot": 83,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMGE4OWh4Vk1NM2ZuVUd3U2JwcG11Y1lLdUxKNTVCM3pqUnBOVmtXRUtUTzM2Y0U0SWpUTHI4Q3dEUGdVMjFEQjFqVEdmbGdpdExWRTBhVXkzQklXcmNFaDNZZm9qXzVoSThfalJEaTBqaGFmZDhSRnpUOUhQeFo5cGtmQi1MT2tfNTNz?oc=5"
+    }
+  ],
+  "brief_ko": "와이스, 한화 대신 ML 잔류"
+}
