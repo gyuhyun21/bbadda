@@ -65,7 +65,7 @@ cards_post() {
   local dir=/tmp/cards; rm -rf "$dir"; mkdir -p "$dir"
   local n=0; for i in 1 2 3 4 5 6; do git show "origin/insta-media:$key/$i.jpg" > "$dir/$i.jpg" 2>/dev/null && n=$i || { rm -f "$dir/$i.jpg"; break; }; done
   jq -n --argjson n "$n" '{music:"bgm-morning", segments:[range(1; $n + 1) | {src:"\(.).jpg", fit:true, dur:(if . == 1 then 3.5 else 3 end)}]}' > "$dir/reel.json"
-  git show "origin/insta-media:$key/post.json" | jq -r '.caption' | sed '1s/^/🎬 30초 요약 | /' > /tmp/cap.txt
+  git show "origin/insta-media:$key/post.json" | jq -r '.caption' | sed '1s/^/🎬 요약 | /' > /tmp/cap.txt
   npx tsx scripts/insta/reel-make.ts "$dir" /tmp/reel.mp4
   say "대체 릴스(카드 $key, ${n}장): $(bash scripts/insta/reel.sh "$(upload /tmp/reel.mp4 "$D-cards")" /tmp/cap.txt)"
 }

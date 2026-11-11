@@ -21,6 +21,7 @@ type Seg = { src: string; say?: string; text?: string; kick?: string; head?: str
 type Cue = { at: number; dur?: number };
 type Fx = Cue & { text: string; style?: string; pos?: 'top' | 'mid' | 'low' | [number, number]; size?: number };
 const FOOTAGE_MAX = 39; // 티빙·KBO 허용 '40초 미만'보다 1초 여유
+const REEL_MAX = 120; // 2026-11-12 이사님: 릴스 길이는 2분 이내, 그 안에서는 제한 없음(넘으면 경고만 — 그날 릴스는 빠뜨리지 않는다)
 const SPEED = 1.0; // 2026-11-10 이사님 결정: 영상 원속도(이전 1.3배 폐지). 다 만든 영상 전체(목소리·전환·음악)에 거는 배속, 음 높이는 그대로
 type End = { kick?: string; head: string; a?: string; b?: string; cta: string; say?: string; look?: 'profile' };
 const ROOT = process.cwd();
@@ -259,4 +260,5 @@ const apts = probe('-select_streams', 'a', '-show_entries', 'packet=pts_time').s
 const hole = apts.findIndex((t, k) => k > 0 && t - apts[k - 1] > 0.1);
 const [vLen, aLen] = ['v', 'a'].map((st) => Number(probe('-select_streams', st, '-show_entries', 'stream=duration')));
 if (hole > 0 || !(Math.abs(aLen - vLen) <= 0.1)) { console.error(`실패: 소리 ${hole > 0 ? `빈 구간 ${apts[hole - 1]}→${apts[hole]}초` : `길이 ${aLen}초 / 영상 ${vLen}초`} — ${OUT}`); process.exit(1); }
+if (vLen > REEL_MAX) console.error(`경고: 릴스 길이 ${vLen.toFixed(1)}초 — ${REEL_MAX}초(2분) 상한을 넘음, 장면을 줄일 것`);
 console.log(JSON.stringify({ out: OUT, seconds: Number((total / SPEED).toFixed(1)), footage: Number(footage.toFixed(1)) }));
