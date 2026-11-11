@@ -2,10 +2,19 @@
 // 장면마다 Composition 하나. 길이는 --props='{"seconds":6}' 로 그 장면 목소리 길이(+0.25초 이상)에 맞춘다.
 import { Composition } from 'remotion';
 import { Ripken, type RipkenProps } from './Ripken';
+import { Appeal, Diamond, LeeBar, NetBan, OnField, RipkenEnd, Timeline } from './Pool3';
 
 const sec = (p: { seconds?: number }) => ({ durationInFrames: Math.round((p.seconds ?? 5) * 30) });
 
+const pool3 = { 'ripken-end': RipkenEnd, 'lee-bar': LeeBar, 'net-ban': NetBan, diamond: Diamond, appeal: Appeal, timeline: Timeline, 'on-field': OnField };
+
 export const Root = () => (
-  <Composition id="ripken" component={Ripken} width={1080} height={1920} fps={30} durationInFrames={150}
-    defaultProps={{ seconds: 5 } as RipkenProps} calculateMetadata={({ props }) => sec(props)} />
+  <>
+    <Composition id="ripken" component={Ripken} width={1080} height={1920} fps={30} durationInFrames={150}
+      defaultProps={{ seconds: 5 } as RipkenProps} calculateMetadata={({ props }) => sec(props)} />
+    {Object.entries(pool3).map(([id, C]) => (
+      <Composition key={id} id={id} component={C} width={1080} height={1920} fps={30} durationInFrames={150}
+        defaultProps={{ seconds: 5 }} calculateMetadata={({ props }) => sec(props)} />
+    ))}
+  </>
 );
