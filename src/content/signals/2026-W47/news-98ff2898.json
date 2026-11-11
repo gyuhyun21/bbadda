@@ -1,0 +1,24 @@
+{
+  "id": "news-98ff2898",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠동아",
+  "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9nWE9XYTl5ci16TGV2Tk42R1FlT3J5VEFQNzJvOWxqN09iTHltWk8wUzBNMDZFU0lNQUFnLXVvcGxwUFRTRk5vN3BoazVYeHdVaTFrb0FTRHZDYnFkWmtXVFl1SldHMnc4bkR0Z2tUWlk5Zw?oc=5",
+  "title": "“좋은 경험한거죠, 후회는 없어요” 문보경이 낯선 마무리 캠프서 되돌아본 2026시즌",
+  "published_at": "2026-11-11T08:34:48.000Z",
+  "collected_at": "2026-11-11T13:37:36.482Z",
+  "summary_ko": "스포츠동아는 LG 문보경이 낯선 마무리 캠프에서 2026시즌을 돌아보며 후회는 없다고 말했다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "문보경, 후회 없는 2026"
+}

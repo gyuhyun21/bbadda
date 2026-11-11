@@ -1,0 +1,25 @@
+{
+  "id": "news-d8de9c90",
+  "issue": "2026-W47",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "한국연예스포츠신문",
+  "url": "https://www.koreaes.com/news/articleView.html?idxno=407131",
+  "title": "현역 포수의 시선으로 한일전 분석…강민호, SPOTV 중계석 합류",
+  "published_at": "2026-11-11T12:56:00.000Z",
+  "collected_at": "2026-11-11T13:37:36.482Z",
+  "summary_ko": "한국연예스포츠신문은 우승 포수 강민호가 SPOTV 중계석에서 APBC 한일전을 해설한다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 84,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "강민호, 한일전 해설 맡는다"
+}

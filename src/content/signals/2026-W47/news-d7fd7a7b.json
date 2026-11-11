@@ -1,0 +1,23 @@
+{
+  "id": "news-d7fd7a7b",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "네이트",
+  "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ESXpTRHJyUkJVQUNEZzZyVHFwR1JwRTFmcU55U2dCd0NHV08wbnpqWW53VnlxcktZdFozeUZqTjhnQ0tpWDFRTkVNMnlwa2x6b0Y1dWRR?oc=5",
+  "title": "노시환-김하성 동반 영입! ML 초대형 입단설 터졌다…韓 야구 깜짝 낭보 나오나 \"KIM 데려오면 ROH 확보에 도움\"→필라델피아 '코리안 듀오' 탄생하나",
+  "published_at": "2026-11-11T07:50:00.000Z",
+  "collected_at": "2026-11-11T13:37:36.482Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

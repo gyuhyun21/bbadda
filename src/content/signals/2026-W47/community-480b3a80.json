@@ -1,0 +1,24 @@
+{
+  "id": "community-480b3a80",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 콩쑤니의 문화이야기",
+  "url": "https://beansooni.com/564",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/KINRknzBH8a",
+  "title": "[야구 정보] '26년 프로야구 시상식 일정 및 중계 정보, MVP 주요 후보 및 투표 방법 보기",
+  "published_at": "2026-11-11T22:09:16.000+09:00",
+  "collected_at": "2026-11-11T13:37:36.482Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

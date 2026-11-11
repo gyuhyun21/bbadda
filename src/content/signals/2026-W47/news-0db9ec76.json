@@ -1,0 +1,23 @@
+{
+  "id": "news-0db9ec76",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9DSFZhQ3drcEptTC02ZWR5eDhMTmp6R0ZkOE03V0VueV8ycWtib2UzY1dwdDJoOUhFa04zeXBmZ2wwTEF2Qld0V1ZGMmRTamYtNnVUQi1UYWJTcjA5bnZPVFE4V181Z3VYeXRnR3E3eFdxR3hGRTlMag?oc=5",
+  "title": "통신 최적화 노하우 산실 잠실야구장…LG유플러스 LTE 주역들, 철거 소식에 시원섭섭",
+  "published_at": "2026-11-11T08:03:16.000Z",
+  "collected_at": "2026-11-11T13:37:36.482Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

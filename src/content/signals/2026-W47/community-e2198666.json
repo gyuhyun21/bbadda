@@ -1,0 +1,23 @@
+{
+  "id": "community-e2198666",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "다음카페 이종격투기",
+  "url": "https://cafe.daum.net/ssaumjil/LnOm/3382330",
+  "title": "1977~1981년 코리안 시리즈 우승팀",
+  "published_at": "2026-11-11T20:04:12.000+09:00",
+  "collected_at": "2026-11-11T13:37:36.482Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

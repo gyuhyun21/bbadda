@@ -1,0 +1,26 @@
+{
+  "id": "youtube-46f044f3",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "youtube",
+  "source_name": "세모퀴즈 - 세상의 모든 퀴즈",
+  "url": "https://www.youtube.com/watch?v=5ow5L8F6WEo",
+  "title": "만점이면 소름😱 키움히어로즈 선수 이름 맞히기 7편 #인물퀴즈 #야구퀴즈",
+  "published_at": "2026-11-11T12:00:32Z",
+  "collected_at": "2026-11-11T13:37:36.482Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 575,
+    "likes": 2,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 34,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

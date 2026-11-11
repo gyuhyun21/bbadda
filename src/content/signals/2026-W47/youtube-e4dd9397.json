@@ -1,0 +1,26 @@
+{
+  "id": "youtube-e4dd9397",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "크봉",
+  "url": "https://www.youtube.com/watch?v=XBJ9PEyyyPs",
+  "title": "KBO 역사상 가장 시원했던 부활 #삼성 #삼성라이온즈 #포스트시즌우승",
+  "published_at": "2026-11-11T09:00:05Z",
+  "collected_at": "2026-11-11T13:37:36.482Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1982,
+    "likes": 19,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 45,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

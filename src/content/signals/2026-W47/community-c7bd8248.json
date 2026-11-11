@@ -1,0 +1,23 @@
+{
+  "id": "community-c7bd8248",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 rohin1021 님의 블로그",
+  "url": "https://rohin1021.tistory.com/5",
+  "title": "2026 전국 주요 야구장 명당 좌석 추천 및 주차 꿀팁 총정리 (잠실·고척·문학 등)",
+  "published_at": "2026-11-11T11:31:00.000+09:00",
+  "collected_at": "2026-11-11T13:37:36.482Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

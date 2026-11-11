@@ -1,0 +1,28 @@
+{
+  "id": "youtube-8ae42932",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "키움히어로즈",
+  "url": "https://www.youtube.com/watch?v=i7KVIdATjWg",
+  "title": "낯선 무대에서 얻는 경험들👊 | 2026 타오위안 아시아 프로야구 교류전",
+  "published_at": "2026-11-11T13:08:12Z",
+  "collected_at": "2026-11-11T13:37:36.482Z",
+  "summary_ko": "키움 공식 채널이 2026 타오위안 아시아 프로야구 교류전 영상을 올렸다.",
+  "metrics": {
+    "views": 1626,
+    "likes": 101,
+    "comments": 28
+  },
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "타오위안 교류전에서 얻은 경험"
+}

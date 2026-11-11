@@ -1,0 +1,27 @@
+{
+  "id": "youtube-24e80a57",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "SSG랜더스",
+  "url": "https://www.youtube.com/watch?v=7wno7whEWYg",
+  "title": "솔로 화보 촬영은 처음이라...👉🏻👈🏻",
+  "published_at": "2026-11-11T08:30:01Z",
+  "collected_at": "2026-11-11T13:37:36.482Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 13193,
+    "likes": 734,
+    "comments": 36
+  },
+  "scores": {
+    "hot": 86,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

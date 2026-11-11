@@ -1,0 +1,23 @@
+{
+  "id": "community-79ba6d3a",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 경기보다 재밌는 스포츠 이야기",
+  "url": "https://blog.naver.com/reboot_kwak/224472504155",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/2dvNw6Lci1o",
+  "title": "\"사이영상 후보가 SSG 선발 라인업에 들어온다고?\" 애리조나 잭 갤런 SSG 유니폼 입나?",
+  "published_at": "2026-11-11T15:10:00.000+09:00",
+  "collected_at": "2026-11-11T13:37:36.482Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

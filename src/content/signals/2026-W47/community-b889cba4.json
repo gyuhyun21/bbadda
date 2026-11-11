@@ -1,0 +1,24 @@
+{
+  "id": "community-b889cba4",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom",
+    "lg"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 스포츠에 빠지다",
+  "url": "https://blog.naver.com/kida02_/224472528680",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/Js1bVIkdGfn",
+  "title": "\"최하위 키움도 대만 가는데?\" LG트윈스 이천 44명·일본 파견 7명, 다른 캠프",
+  "published_at": "2026-11-11T08:40:00.000+09:00",
+  "collected_at": "2026-11-11T13:37:36.482Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

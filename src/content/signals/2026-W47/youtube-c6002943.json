@@ -1,0 +1,28 @@
+{
+  "id": "youtube-c6002943",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "LGTWINSTV",
+  "url": "https://www.youtube.com/watch?v=mNgg3YG4Cg0",
+  "title": "이 맛에 트윈스 사랑하지💫 홈런부터 호수비까지 담아온 정규시즌 비하인드 [비하인둥 22화]",
+  "published_at": "2026-11-11T08:30:24Z",
+  "collected_at": "2026-11-11T13:37:36.482Z",
+  "summary_ko": "LG 공식 채널이 홈런과 호수비를 담은 정규시즌 비하인드 영상을 올렸다.",
+  "metrics": {
+    "views": 22259,
+    "likes": 711,
+    "comments": 69
+  },
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "brief_ko": "정규시즌 비하인드 22화"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "community-b4790d60",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "다음카페 쭉빵카페",
+  "url": "https://cafe.daum.net/ok1221/8mNz/1216468",
+  "title": "나만 기아 우승콜 이게 더 감동이냐",
+  "published_at": "2026-11-10T11:31:16.000+09:00",
+  "collected_at": "2026-11-11T13:37:36.482Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 55,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

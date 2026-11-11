@@ -1,0 +1,28 @@
+{
+  "id": "youtube-42396828",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "Eagles TV",
+  "url": "https://www.youtube.com/watch?v=IsvJgpe2Pd0",
+  "title": "야구선수 넷이 한집에 살면 벌어지는 일.. 박준영·황준서·정우주·강건우의 일본 지바 생존기",
+  "published_at": "2026-11-11T08:30:03Z",
+  "collected_at": "2026-11-11T13:37:36.482Z",
+  "summary_ko": "한화 공식 채널 Eagles TV가 박준영·황준서·정우주·강건우 네 명이 일본 지바에서 함께 지내는 영상을 올렸다.",
+  "metrics": {
+    "views": 75819,
+    "likes": 1862,
+    "comments": 298
+  },
+  "scores": {
+    "hot": 77,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "넷이 한집에, 지바 생존기"
+}

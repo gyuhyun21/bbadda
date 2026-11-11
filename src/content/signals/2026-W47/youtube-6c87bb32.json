@@ -1,0 +1,28 @@
+{
+  "id": "youtube-6c87bb32",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "Giants TV",
+  "url": "https://www.youtube.com/watch?v=wV4IQVaRb_0",
+  "title": "대표팀 주장부터 투수조장까지! 태극마크를 달고 국가대표팀에 합류한 롯데 4인방🇰🇷｜APBC 첫 훈련일 스케치⚾️",
+  "published_at": "2026-11-11T12:00:04Z",
+  "collected_at": "2026-11-11T13:37:36.482Z",
+  "summary_ko": "롯데 공식 채널 Giants TV가 APBC 대표팀에 뽑힌 롯데 선수 4명의 첫 훈련일 영상을 올렸다.",
+  "metrics": {
+    "views": 9598,
+    "likes": 864,
+    "comments": 124
+  },
+  "scores": {
+    "hot": 84,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "태극마크 단 거인 4인방"
+}

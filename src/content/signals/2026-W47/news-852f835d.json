@@ -1,0 +1,23 @@
+{
+  "id": "news-852f835d",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "news",
+  "announcement": true,
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA1QnhQTnhKXzU0UGdiMFVtaVg4UVUtMXJwWnNMaTd1SXdrbXJOaEdwUTNQSlBRUEtvQmZzX3ZSR3c0WXBUV3VpVl9aMld4TkJjVHNqVFJOSGNkTDNTU2JtUGVRLTVjWC1MM2h6SzNfWdIBb0FVX3lxTFA1QnhQTnhKXzU0UGdiMFVtaVg4UVUtMXJwWnNMaTd1SXdrbXJOaEdwUTNQSlBRUEtvQmZzX3ZSR3c0WXBUV3VpVl9aMld4TkJjVHNqVFJOSGNkTDNTU2JtUGVRLTVjWC1MM2h6SzNfWQ?oc=5",
+  "title": "[공식발표] 418홈런 박병호-190홈런 이성열까지! 키움 4년 연속 꼴찌 탈출 승부수... 2027 코치진 구성 완료",
+  "published_at": "2026-11-11T08:05:20.000Z",
+  "collected_at": "2026-11-11T13:37:36.482Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 82,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

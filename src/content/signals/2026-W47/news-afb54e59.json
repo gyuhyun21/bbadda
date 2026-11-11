@@ -1,0 +1,23 @@
+{
+  "id": "news-afb54e59",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스1",
+  "url": "https://www.news1.kr/finance/general-finance/6349481",
+  "title": "삼성 우승에 적금 이자도 '홈런'…팬들 우대금리 1.5%p 받는다",
+  "published_at": "2026-11-10T22:20:00.000Z",
+  "collected_at": "2026-11-11T13:37:36.482Z",
+  "summary_ko": "뉴스1은 삼성 우승으로 우승 연계 적금에 가입한 팬들이 우대금리 1.5%포인트를 받는다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 71,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "brief_ko": "우승에 적금도 금리 1.5%p"
+}

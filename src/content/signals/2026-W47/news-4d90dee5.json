@@ -1,0 +1,23 @@
+{
+  "id": "news-4d90dee5",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "한겨레",
+  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9keWtDOGt4TTlWT2VsS0t4N1F2S3d5blhidUs2LXdzYkh3RWdOYWRKeVR1b1htdDhvQi1vV3lNaVctSF9XSDhQNG5ySmpWRElPR2RXVENRU2Q0SGw4LU1SLTVvbjJCelE?oc=5",
+  "title": "가을야구 열기 안방까지, 평균시청률 7.03%…KS 2차전 1위",
+  "published_at": "2026-11-11T07:08:00.000Z",
+  "collected_at": "2026-11-11T13:37:36.482Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

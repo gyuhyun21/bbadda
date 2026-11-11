@@ -1,0 +1,23 @@
+{
+  "id": "news-281931fb",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "m.maniareport.com",
+  "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1ScDZyRGswVTQyZ1N2M2lBSnViQ1VwLTJIdjB0ZFdvWHI2Mk5lVE1HeU0xT0lYUnU1d3B1N3F2YWI3SHRheGlhdldKWEllRkVPbHhDQ3A2c3QwbWRxX01ZeldianU2OEh1aURObFB0R2pVVEVMVDZNOUtKUQ?oc=5",
+  "title": "'살다 살다 이런 외국인 타자는 처음' 디아즈, MLB는커녕 NPB도 입질 안하다니...있을 곳은 KBO 뿐?",
+  "published_at": "2026-11-11T00:31:33.000Z",
+  "collected_at": "2026-11-11T13:37:36.482Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 71,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

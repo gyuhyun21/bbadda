@@ -1,0 +1,23 @@
+{
+  "id": "community-cdfe2b59",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 야구디코더의 분석 리포트",
+  "url": "https://baseball-decoder.tistory.com/176",
+  "title": "[2026 KBO 스토브리그 데일리 리포트 #1] 구자욱·원태인의 거취부터 최지훈·홍창기·박동원까지: 한국...",
+  "published_at": "2026-11-11T20:52:21.000+09:00",
+  "collected_at": "2026-11-11T13:37:36.482Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

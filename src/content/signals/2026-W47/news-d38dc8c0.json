@@ -1,0 +1,23 @@
+{
+  "id": "news-d38dc8c0",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "경인일보",
+  "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1GUE5jYWJkZWVUdkZNV2pUVGZ3UW1yczN4M0s2bGdGbkxSQ1lnRXlCeG1yTjlYdWpNM1NkZzZMOWt0a0RralNpaUFBN3BsSERja1E?oc=5",
+  "title": "드라마 ‘스토브리그’ 배경… 희로애락 숨쉬는 문학구장 [K-콘텐츠로 보는 인천·(9)]",
+  "published_at": "2026-11-11T10:25:20.000Z",
+  "collected_at": "2026-11-11T13:37:36.482Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

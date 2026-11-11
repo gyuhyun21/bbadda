@@ -1,0 +1,26 @@
+{
+  "id": "youtube-03286e50",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "youtube",
+  "source_name": "박이컨",
+  "url": "https://www.youtube.com/watch?v=j_FR1bp6xA4",
+  "title": "템플 로아님 캡컷 마지막 새이 에딧님 #lg트윈스",
+  "published_at": "2026-11-11T08:55:45Z",
+  "collected_at": "2026-11-11T13:37:36.482Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 578,
+    "likes": 2,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 34,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

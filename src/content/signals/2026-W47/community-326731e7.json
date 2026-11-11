@@ -1,0 +1,23 @@
+{
+  "id": "community-326731e7",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 오늘의 경기",
+  "url": "https://blog.naver.com/joojoo-secret/224472610028",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/K9K2KT1yE6E",
+  "title": "“48억 받고 208안타 쳤는데도 사과?” KT 최원준, 방망이 투척 논란에 한국시리즈 타율 0.235까지",
+  "published_at": "2026-11-11T10:58:00.000+09:00",
+  "collected_at": "2026-11-11T13:37:36.482Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

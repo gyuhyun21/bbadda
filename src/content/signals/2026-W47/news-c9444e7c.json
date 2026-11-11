@@ -1,0 +1,23 @@
+{
+  "id": "news-c9444e7c",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "국제신문",
+  "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSXdYN1J1QS1rbzBjU3RPdnExUnBGWXNPZzBDS3FzTWJvWWp4R3NkT1ZKRWZNa2JRMjlaVVJ3cTFSa2tZcWp3SkhRUGRJZXlsaHA1c29tN2xjS2FMOVlXN2NvUTUyOEZteHllWDFIWThyRU5FQ0MwanYzTmpEb1NsTkRwR0JLT2IzSjdabnVkWHdMX3c?oc=5",
+  "title": "거인 전직 사령탑 허문회·조원우, 이번엔 전문 코치로 뭉쳤다",
+  "published_at": "2026-11-11T10:38:00.000Z",
+  "collected_at": "2026-11-11T13:37:36.482Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

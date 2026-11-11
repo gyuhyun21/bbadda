@@ -1,0 +1,26 @@
+{
+  "id": "instagram-67efead7",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "instagram",
+  "official": true,
+  "source_name": "Instagram @ssglanders.incheon",
+  "url": "https://www.instagram.com/reel/DfmDJFyK_Au/",
+  "title": "SSG 랜더스 공식 인스타그램: 솔로 화보 촬영은 처음이라...👉🏻👈🏻",
+  "published_at": "2026-11-11T08:32:52+0000",
+  "collected_at": "2026-11-11T13:37:36.482Z",
+  "summary_ko": "",
+  "metrics": {
+    "likes": 2461,
+    "comments": 20
+  },
+  "scores": {
+    "hot": 66,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

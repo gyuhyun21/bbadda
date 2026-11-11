@@ -1,0 +1,22 @@
+{
+  "id": "news-aa588bb7",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "news",
+  "source_name": "재경일보",
+  "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9JV25jRjZQNGxtNzJhMk9HZDRSYnUtMlIwS1JaYnJidFRNdWFScHlVVWxsOWVCWVhObmF0ZENyTTBHemh3WWFXNkZXaw?oc=5",
+  "title": "마이너리그 8년 뛴 왓슨, 한화와 100만달러 계약 : 스포츠",
+  "published_at": "2026-11-11T02:46:00.000Z",
+  "collected_at": "2026-11-11T13:37:36.482Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}
