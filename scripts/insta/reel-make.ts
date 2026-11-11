@@ -134,7 +134,7 @@ spec.segments.forEach((s, i) => {
   s.credit ??= 'TVING·KBO';
 });
 let footage = 0; // 지금까지 쓴 경기 영상 길이(초)
-let lastBg: { src: string; at: number; still: boolean; credit?: string } | undefined; // 끝 장면 look 'profile' 배경용(글 없는 원본 화면)
+let lastBg: { src: string; at: number; still: boolean; credit?: string; motion?: boolean } | undefined; // 끝 장면 look 'profile' 배경용(글 없는 원본 화면)
 const voice = (src: string, out: string) => ff('-i', join(DIR, src), '-af', 'silenceremove=start_periods=1:start_threshold=-45dB:stop_periods=-1:stop_duration=0.18:stop_threshold=-45dB,atempo=1.18', '-ar', '44100', '-ac', '2', out);
 const parts: string[] = [];
 spec.segments.forEach((s, i) => {
@@ -219,7 +219,7 @@ spec.segments.forEach((s, i) => {
   const fl = win(s.flash, 0.2, 'flash');
   if (fl) g += `,drawbox=c=white@0.85:t=fill:enable='between(t,${fl[0]},${(fl[0] + fl[1]) / 2})',drawbox=c=white@0.4:t=fill:enable='between(t,${(fl[0] + fl[1]) / 2},${fl[1]})'`;
   ff(...(still ? ['-loop', '1'] : seek), '-i', src, '-i', ov, '-i', a, ...extra, '-filter_complex', `${g},format=yuv420p[o];${audio}`, '-map', '[o]', '-map', '[au]', '-t', d, '-c:v', 'libx264', '-crf', '22', '-c:a', 'aac', '-ar', '44100', '-ac', '2', v);
-  lastBg = { src, at: (s.from ?? 0) + Math.max(Number(d) - 0.1, 0), still, credit: licensed ? s.credit ?? 'TVING·KBO' : undefined };
+  lastBg = { src, at: (s.from ?? 0) + Math.max(Number(d) - 0.1, 0), still, credit: licensed ? s.credit ?? 'TVING·KBO' : undefined, motion: !!s.motion };
   parts.push(v);
 });
 // 끝 마무리(2026-11-10 이사님: 끝 컷을 더 길게, 짧은 페이드아웃): outro 가 없으면 예전과 같다
@@ -242,7 +242,7 @@ if (spec.end) {
   if (e.say) { voice(e.say, join(TMP, 'aend.wav')); d = Math.max(dur(join(TMP, 'aend.wav')) + 0.5, 2.8).toFixed(2); }
   if (hold > 0) d = (Number(d) + hold).toFixed(2);
   const bgIn = prof ? (existsSync(bg) ? ['-loop', '1', '-i', bg] : ['-f', 'lavfi', '-i', 'color=c=0x111111:s=1080x1920']) : [];
-  ff(...bgIn, '-loop', '1', '-i', ov, ...(e.say ? ['-i', join(TMP, 'aend.wav')] : ['-f', 'lavfi', '-i', 'anullsrc=r=44100:cl=stereo']), '-filter_complex', prof ? `[0]scale=1080:1920,boxblur=10:1,eq=brightness=-0.4:saturation=0.5,fps=30[b];[b][1]overlay,format=yuv420p[o];[2]apad,atrim=0:${d}[au]` : `[0]fps=30,format=yuv420p[o];[1]apad,atrim=0:${d}[au]`, '-map', '[o]', '-map', '[au]', '-t', d, '-c:v', 'libx264', '-crf', '22', '-c:a', 'aac', '-ar', '44100', '-ac', '2', v);
+  ff(...bgIn, '-loop', '1', '-i', ov, ...(e.say ? ['-i', join(TMP, 'aend.wav')] : ['-f', 'lavfi', '-i', 'anullsrc=r=44100:cl=stereo']), '-filter_complex', prof ? `[0]scale=1080:1920,boxblur=10:1,eq=brightness=${lastBg?.motion ? -0.62 : -0.4}:saturation=${lastBg?.motion ? 0.2 : 0.5},fps=30[b];[b][1]overlay,format=yuv420p[o];[2]apad,atrim=0:${d}[au]` : `[0]fps=30,format=yuv420p[o];[1]apad,atrim=0:${d}[au]`, '-map', '[o]', '-map', '[au]', '-t', d, '-c:v', 'libx264', '-crf', '22', '-c:a', 'aac', '-ar', '44100', '-ac', '2', v);
   parts.push(v);
 }
 writeFileSync(join(TMP, 'list.txt'), parts.map((p) => `file '${p}'`).join('\n'));
