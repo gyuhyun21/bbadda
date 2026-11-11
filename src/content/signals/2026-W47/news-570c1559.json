@@ -1,0 +1,21 @@
+{
+  "id": "news-570c1559",
+  "issue": "2026-W47",
+  "module": "league",
+  "teams": [],
+  "source_type": "news",
+  "announcement": true,
+  "source_name": "스포츠조선",
+  "url": "https://www.sportschosun.com/baseball/2026-11-11/202611110100079480007412",
+  "title": "[오피셜] 'TV 집어삼킨 한국시리즈 2차전' 219만명 봤다…시청률 9.63%→PS 누적 시청자수 2240만명",
+  "published_at": "2026-11-11T06:25:38.000Z",
+  "collected_at": "2026-11-11T07:37:41.309Z",
+  "summary_ko": "스포츠조선은 올해 포스트시즌 누적 시청자가 2,240만 명이라고 전했다. 연장 12회까지 간 한국시리즈 2차전은 219만 명이 봐 시청률 9.63%였다.",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "가을야구, 누적 2,240만 명 봤다"
+}

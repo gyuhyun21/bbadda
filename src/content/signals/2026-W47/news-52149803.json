@@ -1,0 +1,24 @@
+{
+  "id": "news-52149803",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "announcement": true,
+  "source_name": "MHN스포츠",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBNSnprbk5kSGVTRjQtcklUYlhRbmZLaGE4NE5nTnV0cXdyX1JkTTBqUUs4Y29nSktrSVNfd0tOa2ZkRWZUNFRVZjJVcGdYYWRYT3I3dThJUHhwbndKdUdpd0x1UQ?oc=5",
+  "title": "[오피셜]'레전드' 김수경·박병호 입지 더 커졌다…16억 특급 신인 하현승, 두 거물 손에서 '한국판 오타니' 꿈 키울까",
+  "published_at": "2026-11-11T07:29:43.000Z",
+  "collected_at": "2026-11-11T07:37:41.309Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

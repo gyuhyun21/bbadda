@@ -1,0 +1,23 @@
+{
+  "id": "news-ec976314",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "노컷뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9meDBTT3I4OEdxdjk0U29QYXhtV0VCMXl1cWhzRk1HVDc5TjJFMVk0TndQMjVNM0JQdlBZa0VxTGpFbVg3cHg3aEtsa2VmRHM0bmc?oc=5",
+  "title": "'노시환 특급 인맥?' 메츠 코치와 인연, MLB행 청신호 켜질까",
+  "published_at": "2026-11-11T01:23:28.000Z",
+  "collected_at": "2026-11-11T07:37:41.309Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

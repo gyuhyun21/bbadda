@@ -1,0 +1,25 @@
+{
+  "id": "news-08be322c",
+  "issue": "2026-W47",
+  "module": "league",
+  "teams": [],
+  "source_type": "news",
+  "source_name": "뉴스1",
+  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9OV2dlX2dGNm9KZ1R6U29iaXBUM3UwdFUwbGlNNzMxeml0VDRQaEQzLTFiUm1zZDcyQng1b1NtSmpZbXpRWXdBcTRWQkI2WEF1YTc4amxobw?oc=5",
+  "title": "가을야구 평균 시청률 7.03%…'연장 12회 혈투' KS 2차전 218만 명 시청",
+  "published_at": "2026-11-11T06:01:14.000Z",
+  "collected_at": "2026-11-11T07:37:41.309Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 83,
+    "relevance": 30
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "한겨레",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9keWtDOGt4TTlWT2VsS0t4N1F2S3d5blhidUs2LXdzYkh3RWdOYWRKeVR1b1htdDhvQi1vV3lNaVctSF9XSDhQNG5ySmpWRElPR2RXVENRU2Q0SGw4LU1SLTVvbjJCelE?oc=5"
+    }
+  ]
+}

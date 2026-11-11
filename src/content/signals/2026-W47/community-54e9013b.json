@@ -1,0 +1,24 @@
+{
+  "id": "community-54e9013b",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&document_srl=10543365902",
+  "title": "금요일에 야구 한일전 아겜이랑 멤버 비슷한거임?",
+  "published_at": "2026-11-11T06:37:41.309Z",
+  "collected_at": "2026-11-11T07:37:41.309Z",
+  "summary_ko": "",
+  "excerpt": "... 두산베어스 2 분 전. 아겜이랑 비교도 안 되지 거긴 아마추어고 이번 대회는 프로 1군…",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

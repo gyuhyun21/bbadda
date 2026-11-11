@@ -1,0 +1,100 @@
+{
+  "id": "youtube-e766b4ee",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "source_name": "대전MBC 뉴스",
+  "url": "https://www.youtube.com/watch?v=7MOVXwiCnIw",
+  "title": "#shorts 한화, 새 외국인 투수 '트로이 왓슨' 영입",
+  "published_at": "2026-11-11T06:01:22Z",
+  "collected_at": "2026-11-11T07:37:41.309Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 262,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 28,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBKeXRZeGhjWEp4OF9KSUQtRFJRSzZ1WWtWLWhWUDJGREZFUWNTVi16RDRFRDFOaFRaZ2F4M2Vtai1HMktDYjhrTWprUTJVQzNwRy1pdEp2TXVQUzFtM0d1Z2MxcXRTbGcxS1ZmRmg5Y9IBb0FVX3lxTFBKeXRZeGhjWEp4OF9KSUQtRFJRSzZ1WWtWLWhWUDJGREZFUWNTVi16RDRFRDFOaFRaZ2F4M2Vtai1HMktDYjhrTWprUTJVQzNwRy1pdEp2TXVQUzFtM0d1Z2MxcXRTbGcxS1ZmRmg5Yw?oc=5"
+    },
+    {
+      "source_name": "스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE45NDRwR2c0TnFuNjRybWZXRU9vV09aZlY1b19IT1NEQndGaG8ydjVVWmZzS2VWOWItNG05UlRPSDFpLWpFWDdyQmtLYjVoMjh2R2NkdjhMcUx6eGI2czh3OXN1d1QyTjFXTkUtT0lQalUxdWc3SFE?oc=5"
+    },
+    {
+      "source_name": "뉴데일리",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSi1QU3pMSGdwS052ZFpScUlQVWduVzlENmY3TFJ0amhQZTh4VVNKZEVLSWVIZk1KZ3NpNXBYaTBDdkVVamkxYlpEN01lOHd1UnVKc1ZURmVjMnJsY3Y0Wm5OVndYV3B0RXhCcWxNZGNXbGZUWWxhRGpxQ3Z5eEI0N9IBgAFBVV95cUxQSi1QU3pMSGdwS052ZFpScUlQVWduVzlENmY3TFJ0amhQZTh4VVNKZEVLSWVIZk1KZ3NpNXBYaTBDdkVVamkxYlpEN01lOHd1UnVKc1ZURmVjMnJsY3Y0Wm5OVndYV3B0RXhCcWxNZGNXbGZUWWxhRGpxQ3Z5eEI0Nw?oc=5"
+    },
+    {
+      "source_name": "톱스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9FaGw2ajlJZkRNcU8yNkNFM29IWE9nd25XTTR6UEZ2cHhzMVgya1gxVXdoWWkta0t5VFg1c2J2aUtXSHdxZ2N1YUN6cVlvZkdTVzl1T2xSR1JBX0VYNU1oTHo1ZTI1cGk2bnpncW84MGZPdw?oc=5"
+    },
+    {
+      "source_name": "일간스포츠",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5yMFpMTnhTWlNHSWZxemd5RTAwUlg0OW1OV0E5VmxaUHRQZnpDLU1rVlBIVkk5NU5LWHRuUE4yN1owNFFaRmdrcnF3enpXZzZxMV9zdGNEbzQ1WGs?oc=5"
+    },
+    {
+      "source_name": "뉴스핌",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5wREd1NTI2bk9uWjFHX1lHNW1la1Q3SjlWZU9hb0l2WXIwLV9zLXlQU0dHRS1ENDhmcUZqZk9UYkhMYzlJb0xlNEJnM0JMczJFb1pFSXdMcU94Z1gy?oc=5"
+    },
+    {
+      "source_name": "뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5kcVZIX0dBQW94QlAzUkVrbERXbUVoRnU0Y19xbFhYcXU0aThPVUdlWGJUNDkzYURkYTZtMmJveDlQbHBGckRtMHp4WXgtVXdpaU9ZZTk3a3plVGdSY1YybWh2VUJEc2UtVDNMUGx2VmZSYWdjUFZhQ9IBeEFVX3lxTE5kcVZIX0dBQW94QlAzUkVrbERXbUVoRnU0Y19xbFhYcXU0aThPVUdlWGJUNDkzYURkYTZtMmJveDlQbHBGckRtMHp4WXgtVXdpaU9ZZTk3a3plVGdSY1YybWh2VUJEc2UtVDNMUGx2VmZSYWdjUFZhQw?oc=5"
+    },
+    {
+      "source_name": "중부매일",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB5b1MwTjFVNmo2Zkh0Rl81dWN3ZVJnZHRmVkpUaS1LcGtqc01lcEZfOVlRcmppUlVCakJsbjBoQlVuZkh4TmM1U0Vyd1B1SlJIR0NyQWFyLWh3eThvWDk0WXc2Smd1XzJ4OWRYNlFR0gFuQVVfeXFMUHlvUzBOMVU2ajZmSHRGXzV1Y3dlUmdkdGZWSlRpLUtwa2pzTWVwRl85WVFyamlSVUJqQmxuMGhCVW5mSHhOYzVTRXJ3UHVKUkhHQ3JBYXItaHd5OG9YOTRZdzZKZ3VfMng5ZFg2UVE?oc=5"
+    },
+    {
+      "source_name": "TSN KOREA",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAtY1VKaFVyUlZ4UzF4ME9IVWphMkhCUHVXbkxKNTFJUVRMNW1FWUE5d0llcXJnQTh2SFZLWFpTbTJlYWhCRnRqMWkyMlZvUWV2NXRDWm5WU1hMOEF0LTlKVw?oc=5"
+    },
+    {
+      "source_name": "스포츠월드",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE42T3F2UXlzNERIaHFEcWQyb0c5YzlWMGNCdzRvSXM5ZWZKaXJTR0RWcVN3TkhhMGh6RkNoeDRLRnlMWEplYmFabWlSVW1GTDJOSVNia1hjNmtVbllDVUlMR09n?oc=5"
+    },
+    {
+      "source_name": "신아일보",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE91a0ZFZTJxMExMNzJmMFY0OC13Ml9Sd1BnczVuWWNRNGRaS3liM2pqblpuSHZXRmR5QkFvZERlbGFDbGpLRENheE9XSW5uLUdnWWlHX0RVTGZ1UWZndGRvYVlUbXp6R3pScjBSQ2RHaC0?oc=5"
+    },
+    {
+      "source_name": "연합뉴스TV",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1QcG5FbUNoMV96ZUduT2c2cUpWNFVGWVFoUTdveDNqbGNUUG5YMzYzU0pjdWNZYXRRRTRORDJybHNmOUtHeWI3d3F4ZnM1OG5fX1RXTnNNek9ZMUl4UTQ3LXYyZ2c1Ujg?oc=5"
+    },
+    {
+      "source_name": "데일리안",
+      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQX2NzX1ZueGhWam9qV251SlJ2SXJVaDRlaHJObzd6b1pQbUJkd05DTlFaZkhqeV96cHVaN1VzYWlETzgtQTZUZ3Z0WEs1QllqdG9pdzdoUVk2dDdTeUEzLWlydmRySjZNTUttZ2FQZmZ0VDV6a0llVkVrYnJGNnVvT1I1YkRfeGRSeURNSXZ0Smtfa0hmM1JqSm5MeGU1MnNPNzFZTVF5WnRRdkFkeFZiRHRabVo4WVlpWFpqUE9pVURCbWpWRDVFWlVRczRQMF9uYnZqcEtjZVhSLTlkMEloM2pKNWxyMmpEb0c3T0lPUE9iYV9odThTMXlWQmNyVWdWcHFYTTVqaXN1cmNBTmM2Y3FFcV9KbGFL?oc=5"
+    },
+    {
+      "source_name": "대전일보",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE41d1hDa3NvV0QyTk0wdzFKSm5neDM4Yjc5eHRJSTRPdlNlNGxHaUVaNFlJUEtwVWdnbE5tdE1BS01aXzdXQlhrbVM0VlZxR2RwNE1PRWFjQl8wMlJUZDBUWTZlNV9EY08xdFowMVh2OGhyeEnSAXNBVV95cUxONXdYQ2tzb1dEMk5NMHcxSkpuZ3gzOGI3OXh0SUk0T3ZTZTRsR2lFWjRZSVBLcFVnZ2xObXRNQUtNWl83V0JYa21TNFZWcUdkcDRNT0VhY0JfMDJSVGQwVFk2ZTVfRGNPMXRaMDFYdjhocnhJ?oc=5"
+    },
+    {
+      "source_name": "스포츠동아",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ReDFtdUlzcFYwS1hRYkZQaFZKQ2dkblZTOTNWY2ZSS0JuR1pQQUFTcEpQa1c2VzVGZDlHUjAxX1l1eVp2UGhKcGRZTkxEUFl0REdMaVNsNEYxYjNfdlp4NUtiVGZyTHo3TmFXRXdOcldaQQ?oc=5"
+    },
+    {
+      "source_name": "금강일보",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9CN2dNOTExQnVKODBxWXdXalZ3SEw2M2h3NkZ1NzQxcEF4Zl9GUzlvSERwbFgzVGN0WHJVYksxTkhQX3dqbS1ZTUNsWmh6UXdQZW52UncwOWI2TEtFdW04UVdjVnNNNFlfaXc?oc=5"
+    },
+    {
+      "source_name": "충남일보",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9STDUtVnptbXp2VFprUXAycGR2anE0bU0yT3VSUVlQSmNFTU8yQjMzOGN4dEVDVV9mZG1vX0JURnJBTUxuNW5oc3pPTF9TNG05OVc5Wi01cE5oMC1jYVFlelVVWHdUN1RmRlVWOG8xeG93Z0k?oc=5"
+    },
+    {
+      "source_name": "YTN",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5IeGwxUndoM0xJc0wyN2M3NEdISlN5RzJRa1NYVU5QZ29QTUg5NXZUeWFObk9oZzNIMVgxcWw5YUNFUDBpZGRmTklRei05SDR2VjdRc1ZqZzVIZkIxWHc?oc=5"
+    }
+  ]
+}

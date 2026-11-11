@@ -1,0 +1,24 @@
+{
+  "id": "community-b832aa73",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 AI제니 님의 블로그",
+  "url": "https://today.livestoryforge.com/16265",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/KThaWYfzInj",
+  "title": "KBO 리그, 50홈런 타자 디아즈의 예상 밖 해외 시장 침묵 분석",
+  "published_at": "2026-11-11T15:35:13.000+09:00",
+  "collected_at": "2026-11-11T07:37:41.309Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

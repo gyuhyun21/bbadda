@@ -1,0 +1,23 @@
+{
+  "id": "community-84222b68",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&document_srl=10543142309",
+  "title": "포텐 광주FC 보면 기아팬으로써 좀 서럽네 - 야구",
+  "published_at": "2026-11-11T04:37:41.309Z",
+  "collected_at": "2026-11-11T07:37:41.309Z",
+  "summary_ko": "",
+  "excerpt": "... 기아 타이거즈 시설 보수는 광주에서 안해줘서 구단에서 해그러면서 모기업 구단 투자는 전북현대에 훨씬 많이…",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

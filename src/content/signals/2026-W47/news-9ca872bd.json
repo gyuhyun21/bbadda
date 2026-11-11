@@ -1,0 +1,23 @@
+{
+  "id": "news-9ca872bd",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠동아",
+  "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE84WTcwcG40ZVhJTk9wckVFVm9nLTRndGhPNllnaXNrdF9TbmxLTTUxdVZlWjdEVlNZb0FIZnN5S0pNZUFIak5pS0VSQ19GNU9qbTBjc2hrUEMyZkQtazcxSXl1X3NMNWVDeGRzMQ?oc=5",
+  "title": "“LTE 장비 들고 야구장 누볐는데…”",
+  "published_at": "2026-11-11T07:32:34.000Z",
+  "collected_at": "2026-11-11T07:37:41.309Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

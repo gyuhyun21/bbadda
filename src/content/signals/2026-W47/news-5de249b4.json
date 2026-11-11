@@ -1,0 +1,23 @@
+{
+  "id": "news-5de249b4",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "조선일보",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPY2xZOEl3SWpSNkhOUGE1WmkzdkJvdHc1SVRFelNJY01YZ1BoVUJJLWNpai1hdklDcVVoUkNGaFZmVFBKd200b0JqeXFqNW5kRjMwbVdhNTFsUHlVbmdOUEZrYXVwMlhWRUVqVzdteWZaLTNJRmlwc09Fcm1aWGhuYnQyZw?oc=5",
+  "title": "'단장인듯 단장아닌 단장같은 그' 이게 무슨 파격인가? 신세계 인사의 의미[SC핫포커스]",
+  "published_at": "2026-11-11T05:59:00.000Z",
+  "collected_at": "2026-11-11T07:37:41.309Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

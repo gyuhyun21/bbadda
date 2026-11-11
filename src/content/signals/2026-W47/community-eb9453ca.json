@@ -1,0 +1,37 @@
+{
+  "id": "community-eb9453ca",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg",
+    "hanwha"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 더블체커(DC)",
+  "url": "https://blog.naver.com/edwin9407/224472799324",
+  "title": "'LG도 탐냈던 157km 투수' 한화 왓슨 100만 달러 영입 소식, 팔꿈치가 문제다",
+  "published_at": "2026-11-11T12:09:00.000+09:00",
+  "collected_at": "2026-11-11T07:37:41.309Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 90,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "동아일보",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBKc3ZDUzROOTBlcU1PbThVVjc1RlNUSEE2STJ5d3oyQk5CbTBQcGVUa0wwM2xNT3VIbW5FclA2aDVvdjR2cU5mLWhTenQyeXZVVm9NMUlac0xMc0hKdmJBSy14aVZXU2RnNVFncUxUZmp2WWZZ0gFmQVVfeXFMUGtFb0VQbThBSmdub2JxWDlsU2ZOQmpRTEFZOFpBVHRNUUpOTVdwRGUxLWc0SE1FQnFSSUREOHczY1ZoeUlhNXJtM3hCUElGNmZsUGwxY2FsUFZfTm9vSy1ENjdqSUpR?oc=5"
+    },
+    {
+      "source_name": "news.sbs.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPN09GbnVWd0ctYUM3SzVWZVIxLV9YYzJGX0FBUXlkTkpST2ozQ1lkaUU2MkpFemItMW9jVVdpUmszX0xSV2UwX0RjdDluYUFwQ0l2UDM0a3ZqT3R5ZmhlRjVSWFdSQkE2UUk1UWQ4bVBlLUoxZ2xjV0t3cGxGakRUVzZXTjg5Zw?oc=5"
+    },
+    {
+      "source_name": "재경일보",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBubHJXZDFsdFRTTXNpbEd3UzVhR3dsMW9HZGJydWZ2cVRUbm1xT0tFUWh0dkFHVjE2bzM2eklaZGw1R3lxYW5Jb0R1UQ?oc=5"
+    }
+  ]
+}

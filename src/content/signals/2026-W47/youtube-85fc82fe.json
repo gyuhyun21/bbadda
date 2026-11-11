@@ -1,0 +1,37 @@
+{
+  "id": "youtube-85fc82fe",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "youtube",
+  "announcement": true,
+  "source_name": "랜더스비공식갤러리",
+  "url": "https://www.youtube.com/watch?v=aNeFy5elVSg",
+  "title": "[오피셜]SSG 신임 단장 김성용 선임 #kbo #ssg랜더스 #랜더스",
+  "published_at": "2026-11-11T03:06:10Z",
+  "collected_at": "2026-11-11T07:37:41.309Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 739,
+    "likes": 2,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 37,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "스포츠월드",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8yRXNCU2pHUnZkLU03cGVRdEJUWUJGOHdRVVhOQTducExlRmYtc3VEVHJBT3JabksyS2NkdHhkMFRrb3ZTcVktY09mUTNxaV81Q1oxU3ZIMUpsWk81YVNhSEl3?oc=5"
+    },
+    {
+      "source_name": "기호일보",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9jMDNiTV9EQ043SWN4clB6c29iSWg1ajh3UzJFekZiTnp5QTZMcjVtQl9PRzRoOFQwT2JGUDhZRWhJemMwUlRCMkJaS1I0MnN0NzhucG1GY2kxbDNWalNCbjh5RVgzbGpJYldlMDU3cw?oc=5"
+    }
+  ]
+}

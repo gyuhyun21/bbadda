@@ -1,0 +1,24 @@
+{
+  "id": "news-18b2744c",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "news",
+  "announcement": true,
+  "source_name": "스포츠조선",
+  "url": "https://www.sportschosun.com/baseball/2026-11-11/202611110100079260007404",
+  "title": "[오피셜] '지도력' 입증한 박병호, 키움 퓨처스 타격 총괄→이형종 플레잉 코치…2027 코칭스태프 확정",
+  "published_at": "2026-11-11T06:15:09.000Z",
+  "collected_at": "2026-11-11T07:37:41.309Z",
+  "summary_ko": "스포츠조선은 키움이 박병호를 퓨처스 타격 총괄, 이형종을 플레잉 코치로 정하는 등 2027 코칭스태프를 확정했다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "박병호 퓨처스 총괄, 이형종 플레잉코치"
+}

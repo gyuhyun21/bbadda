@@ -1,0 +1,29 @@
+{
+  "id": "news-ef4a4bb3",
+  "issue": "2026-W47",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "hanwha"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9oR3FEcW4yMEpzdmdaQWtsRXM5dGFiWTdCYXhzTXdKR2p1S3A2WXVaTUlmcXdnaXA2NzBMOUkwNGtyU1I2QWp0bllJb2NOQmhpQ2VFNjVXd3NWc2lmYjViZ3ZzTkZQUVJkMWpqM2J2d9IBb0FVX3lxTE9oR3FEcW4yMEpzdmdaQWtsRXM5dGFiWTdCYXhzTXdKR2p1S3A2WXVaTUlmcXdnaXA2NzBMOUkwNGtyU1I2QWp0bllJb2NOQmhpQ2VFNjVXd3NWc2lmYjViZ3ZzTkZQUVJkMWpqM2J2dw?oc=5",
+  "title": "\"팬들에게 떳떳해지고 싶다\" KIA→한화 트레이드 이적생의 확신, 대전에서의 가을 꿈꾼다 [오!쎈 미야자키]",
+  "published_at": "2026-11-10T22:00:00.000Z",
+  "collected_at": "2026-11-11T07:37:41.309Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 97,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBPdUNLazVBdXk3VFdnX0RyRkJRYW9weXFra2ExR0ZPNFFWcGt4eFUtQ0kxTnlXU2EwakY2bW4xOXJ6LVRnTnlyTGJZTGZmYWtjYko0eg?oc=5"
+    }
+  ]
+}

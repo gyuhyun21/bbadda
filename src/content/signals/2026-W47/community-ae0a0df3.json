@@ -1,0 +1,24 @@
+{
+  "id": "community-ae0a0df3",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/10543550871",
+  "title": "딩딩딩디딩딩 - 야구",
+  "published_at": "2026-11-11T07:06:41.309Z",
+  "collected_at": "2026-11-11T07:37:41.309Z",
+  "summary_ko": "",
+  "excerpt": "... 제13회 최동원상 시상식 수상 - 두산베어스 곽빈 투수 · 1. 롯데 +1 · 2.…",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

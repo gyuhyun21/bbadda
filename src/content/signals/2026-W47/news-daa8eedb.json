@@ -1,0 +1,24 @@
+{
+  "id": "news-daa8eedb",
+  "issue": "2026-W47",
+  "module": "rivalry",
+  "team": "nc",
+  "teams": [
+    "nc",
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "게임메카",
+  "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1wR0FGZjFPLWpHV250eGRlTXJ4RGp1MWZQX2Z3ZUludHZ1NlpPQmYtbHJfeTJZLXRSMWNfbXpmLVQ4dFhHQXBmbmJRX0NiMllEMjYxU3lHcXjSAVtBVV95cUxNTTZ2eGl2Z050WXI4SXpYOUE2U29oOVU1enloam5CY0IxVExWUWFvMGdUVmoxQXVRT0tvMC1yWDN2eTZCNEtGRmR0RHBVejFQS3lRNHpBelZZR0Fv?oc=5",
+  "title": "끝나지 않은 야구, 컴투스 2026 APBC 국가대표팀 공식 후원",
+  "published_at": "2026-11-11T05:54:51.000Z",
+  "collected_at": "2026-11-11T07:37:41.309Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

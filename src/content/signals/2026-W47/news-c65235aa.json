@@ -1,0 +1,23 @@
+{
+  "id": "news-c65235aa",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "MHN스포츠",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBkOUh3VlZrMHRDbFlMSzFGem5rTWNlZlpaZXJSNm41eWtfMEl2VlJ6Ri1aZHh6dDQ3a21SbVc0V3FJb09DNTdKUlQwMzVnZldDN0tnZDFwN215TjF3S2M3MG55MA?oc=5",
+  "title": "\"307억? 그래도 일본 거포보다 싸잖아\" 노시환 향한 MLB 관심 폭발…무려 8개 구단이 주목",
+  "published_at": "2026-11-11T01:55:25.000Z",
+  "collected_at": "2026-11-11T07:37:41.309Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

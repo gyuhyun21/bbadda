@@ -1,0 +1,28 @@
+{
+  "id": "community-7817b25e",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 경기를 보다가 문득",
+  "url": "https://blog.naver.com/munduksports/224472848206",
+  "title": "“계약한 이유는 단 하나”…한화 새 외인 왓슨이 꺼낸 첫 약속",
+  "published_at": "2026-11-11T13:38:00.000+09:00",
+  "collected_at": "2026-11-11T07:37:41.309Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "이투데이",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBKTmdjNXAyMEpRNDBlWXV5cnM4ZGdMNWtLeVpRaHpuc25pUl9hNkIyaU1nRWk3ZTRtZ0RXOFlkNmJxQ25uLTBQUEhxcDVWWjFrdWc1dFpOdGtiTmY2VFMxaEZkNE5SaS05V2Y0cVdJMjVZanNH?oc=5"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "community-b383df8b",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 멀끔 블로그",
+  "url": "https://blog.naver.com/wear_ing/224472734709",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/9nUxReYlybI",
+  "title": "\"아들 돌반지 녹여 금목걸이 만들었다\"는 프로야구 선수.. 법률대리인까지 나섰다는데",
+  "published_at": "2026-11-11T15:30:00.000+09:00",
+  "collected_at": "2026-11-11T07:37:41.309Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

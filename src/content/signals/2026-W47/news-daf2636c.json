@@ -1,0 +1,24 @@
+{
+  "id": "news-daf2636c",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "news",
+  "announcement": true,
+  "source_name": "www.xportsnews.com",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1YeVdkSVhpbGdSZmp5WWNCX2pXZTNSeVF3VU5SY2JXTGNra3g2SzRjOXRtRFBkcHEtNlRtdDJsWUZGNUlETXBEcTFraTJ3TFZiLUNaZg?oc=5",
+  "title": "[오피셜] '김재현 단장 결별' SSG, 단장제 대신 '운영담당' 신설…'프런트 전문가' 김성용 R&D팀장 내부 승격",
+  "published_at": "2026-11-11T02:15:17.000Z",
+  "collected_at": "2026-11-11T07:37:41.309Z",
+  "summary_ko": "엑스포츠뉴스는 SSG가 김재현 단장과 결별하고 단장 대신 운영담당을 신설해 김성용 R&D 팀장을 승진시켰다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "김재현 단장 결별, 운영담당 신설"
+}

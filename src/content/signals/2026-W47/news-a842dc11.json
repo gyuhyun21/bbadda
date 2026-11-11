@@ -1,0 +1,26 @@
+{
+  "id": "news-a842dc11",
+  "issue": "2026-W47",
+  "module": "league",
+  "teams": [],
+  "source_type": "news",
+  "announcement": true,
+  "source_name": "네이트",
+  "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE54TlJoaHZmYVJQMkVUVk55d2RRb0Zob3lHTEFHR09lYlo0Qi1XR1J2cjBnZlNkYlJTWGhwMHlzdWV5RDVraTJkMzNZXzdEamtVTjdONEZR?oc=5",
+  "title": "[오피셜]인기 예능도 넘기 힘든 6% 벽 가볍게 돌파…KBO 가을야구, 최고 시청률 10%로 증명한 '국민 콘텐츠'의 위엄",
+  "published_at": "2026-11-11T06:38:00.000Z",
+  "collected_at": "2026-11-11T07:37:41.309Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 30
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "mhnse.com",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE50bVB4YzFMSE1xUUpFTXJpOVV1SmFOckM4Q3p6WmluVnZNTVF4MUtkZ3RZSnlyTWhDVnNhOTVOZkFTWkZpLWNxemF4MXBsczUyLWRkM1NTVGhQRGZRMnljU2ZSUQ?oc=5"
+    }
+  ]
+}

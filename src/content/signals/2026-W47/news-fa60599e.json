@@ -1,0 +1,24 @@
+{
+  "id": "news-fa60599e",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "announcement": true,
+  "source_name": "조선일보",
+  "url": "https://www.chosun.com/sports/baseball/2026/11/11/G44TSZJQHFRTEN3BME4DANDGGM/",
+  "title": "'前 롯데맨' 채태인-강영식-이승하-이재곤, 코칭스태프로 귀환...'日 거인' 사네마츠 배터리 코치도 영입 \"포수 육성 노하우 전수 기대\" [공식발표]",
+  "published_at": "2026-11-11T06:19:00.000Z",
+  "collected_at": "2026-11-11T07:37:41.309Z",
+  "summary_ko": "조선일보는 채태인·강영식·이승하·이재곤 등 롯데 출신들이 코칭스태프로 돌아오고 일본 출신 사네마츠 배터리 코치도 영입됐다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "채태인·강영식, 코치로 귀환"
+}

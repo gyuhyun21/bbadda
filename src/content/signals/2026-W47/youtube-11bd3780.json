@@ -1,0 +1,27 @@
+{
+  "id": "youtube-11bd3780",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "리본카 청라지점",
+  "url": "https://www.youtube.com/watch?v=OTLKeSA1Hcs",
+  "title": "랜더스 팬은 몇개나 맞힐 수 있을까#문학경기장 #랜더스필드 #인천중고차",
+  "published_at": "2026-11-11T06:15:30Z",
+  "collected_at": "2026-11-11T07:37:41.309Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 454,
+    "likes": 2,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 34,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

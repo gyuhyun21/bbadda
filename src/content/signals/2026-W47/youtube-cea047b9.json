@@ -1,0 +1,27 @@
+{
+  "id": "youtube-cea047b9",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "딱밤",
+  "url": "https://www.youtube.com/watch?v=JeLLQdIHNqc",
+  "title": "롯데 팬 영상에 강민호가 직접 단 댓글 #kbo #한국시리즈 #쇼츠",
+  "published_at": "2026-11-11T06:06:12Z",
+  "collected_at": "2026-11-11T07:37:41.309Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1390,
+    "likes": 22,
+    "comments": 2
+  },
+  "scores": {
+    "hot": 50,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

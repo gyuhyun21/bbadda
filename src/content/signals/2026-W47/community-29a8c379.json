@@ -1,0 +1,23 @@
+{
+  "id": "community-29a8c379",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&page=5&document_srl=10542850379",
+  "title": "그래서 삼성 할인 뭐함? - 야구",
+  "published_at": "2026-11-11T03:37:41.309Z",
+  "collected_at": "2026-11-11T07:37:41.309Z",
+  "summary_ko": "",
+  "excerpt": "... 버즈 이어폰 한쪽 잃어버려서 바꾸고 싶은데 할인 안하나.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

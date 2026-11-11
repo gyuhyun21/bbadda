@@ -1,0 +1,23 @@
+{
+  "id": "community-b852a58f",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 BBC 미디어센터",
+  "url": "https://blog.naver.com/sunhoo272/224472833093",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/JYustviMcd8",
+  "title": "LG 트윈스, 해외 대신 국내 마무리 캠프 고집하는 이유는?",
+  "published_at": "2026-11-11T13:32:00.000+09:00",
+  "collected_at": "2026-11-11T07:37:41.309Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

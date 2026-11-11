@@ -1,0 +1,37 @@
+{
+  "id": "community-32685183",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 야구왕",
+  "url": "https://blog.naver.com/kevinchoi0116/224472973981",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/Y9i1c9eBLV",
+  "title": "실패하면 스미스 성공하면 폰세 한화 총액 100만 달러에 트로이 왓슨 영입",
+  "published_at": "2026-11-11T14:36:00.000+09:00",
+  "collected_at": "2026-11-11T07:37:41.309Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 99,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5Fd09CWEFveU5uSlhPejk5RU1KRE5FelJDOWhOZm9sc0hLNFZXR2NJbi1sczh2anJuQncwOWNial9lWVdvVlVSdHl5bml1RjJjMTRrYnZBeHpORFY0eHJLY2hyUENlR3Z2Y2lOMkxoVdIBb0FVX3lxTE5Fd09CWEFveU5uSlhPejk5RU1KRE5FelJDOWhOZm9sc0hLNFZXR2NJbi1sczh2anJuQncwOWNial9lWVdvVlVSdHl5bml1RjJjMTRrYnZBeHpORFY0eHJLY2hyUENlR3Z2Y2lOMkxoVQ?oc=5"
+    },
+    {
+      "source_name": "OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9LcDdXTkNfbnR3Qkx2WUpJaE4tcTY4TTJlUWVxUzZyNllubDl4cUhhQWhudGxQblVZUXlPYnFSMWVhOHBkVzc3aFFabWNYVTNXTzA1LQ?oc=5"
+    },
+    {
+      "source_name": "뉴스엔톡",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA2dVNidWdPdDNYX0E4MHh6RW5lRWwzQmFRN0tScXpsTXQxZ2lzcUVtRDhXbHYwaDRCdTdnY0JKY2hqQ3l0VHBnV0RBWDcyZ1BhR1BDbEZ3enRmS0VfRFF0N0JrSmQ1UTk1bVRPTQ?oc=5"
+    }
+  ]
+}

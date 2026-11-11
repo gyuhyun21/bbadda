@@ -1,0 +1,35 @@
+{
+  "id": "news-a4cfc4e3",
+  "issue": "2026-W47",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kt",
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "연합뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE91bzFQSGN3cE80TzBicUVUTF9yVjV0ZTBybmdPLTFwZ1hUaWtuM0xXQ1lQUGt4dUNTWHY2blRCTHE5QVhzenVMVXd6bE1hWUI0S0lJR3M2bXhSX3NycHBTdNIBYEFVX3lxTE91bzFQSGN3cE80TzBicUVUTF9yVjV0ZTBybmdPLTFwZ1hUaWtuM0xXQ1lQUGt4dUNTWHY2blRCTHE5QVhzenVMVXd6bE1hWUI0S0lJR3M2bXhSX3NycHBTdA?oc=5",
+  "title": "프로야구 PS 평균 시청률 7.03%…총 2천240만명 시청",
+  "published_at": "2026-11-11T05:20:15.000Z",
+  "collected_at": "2026-11-11T07:37:41.309Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 99,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "스포츠조선",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE95ZVBLZnpDN1BTWjI3QkxNUlk1SlE5bUxhV1RhRHo2Skplb1c2LWN2REdDNTJsMERHejIybm1zZzY3TVJLUmhGTVd3QmRtVndxekJRNlkxWGQ3elRSWEdVMkRxeUtMYUo0WUtJalBDODMwVlphbjVoU0NYVmRZdw?oc=5"
+    },
+    {
+      "source_name": "톱스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5EaS14MjcwYU9nX2djLTlGX2QzYzlDeWpMUkNlNGlCa0xiMlNNa0VYOG9wLTN4RWYzeldMTHMyY2hrTnhWVGkyaldjTjdSRV9pNmdWdnM3MlloaGFvUExZS1FSU0t1ZUtHWGRyd1VVSUFKZw?oc=5"
+    }
+  ]
+}

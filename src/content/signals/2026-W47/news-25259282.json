@@ -1,0 +1,23 @@
+{
+  "id": "news-25259282",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠경향",
+  "url": "https://sports.khan.co.kr/article/202611111437003",
+  "title": "‘KS 5차전 결국 뛰지 못했다’ KT 안현민의 롤러코스터 시즌, 반등 실마리는 대표팀에서 ‘곧바로 APBC 출...",
+  "published_at": "2026-11-11T05:37:00.000Z",
+  "collected_at": "2026-11-11T07:37:41.309Z",
+  "summary_ko": "스포츠경향은 한국시리즈 5차전에 뛰지 못한 KT 안현민이 곧바로 APBC 대표팀에 합류해 반등을 노린다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 80
+  },
+  "sentiment": "neutral",
+  "brief_ko": "안현민, 대표팀서 반등 노린다"
+}

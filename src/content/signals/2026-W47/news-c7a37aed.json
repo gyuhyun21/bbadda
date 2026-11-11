@@ -1,0 +1,23 @@
+{
+  "id": "news-c7a37aed",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9tZ1FTMGx0MGNySVVEQ1NHM21CRzVNXzhTdFZUWVZteEg2NE5OUFB1bWhkcl9QcWtLdy1wbXJFNWowVzFzTjFCTWxUMFJnQWJudWxBRXkwRlBINnVGV0hiT05OMXVrN19falo2bktBbkIzN0YyZmF4VDVrdmJaUQ?oc=5",
+  "title": "'최초 러브콜' 日 국대 코치, 이래서 KIA 왔다…\"한국 야구 항상 흥미 있었다, 닭한마리 좋아해\"[오키나와 현장]",
+  "published_at": "2026-11-10T22:25:00.000Z",
+  "collected_at": "2026-11-11T07:37:41.309Z",
+  "summary_ko": "스포츠조선은 KIA 마무리캠프에 온 일본 대표팀 출신 코치가 한국 야구에 늘 흥미가 있었다며 닭한마리를 좋아한다고 말했다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "日 국대 코치, 닭한마리 좋아해"
+}

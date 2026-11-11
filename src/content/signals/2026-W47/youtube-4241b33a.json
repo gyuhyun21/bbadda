@@ -1,0 +1,26 @@
+{
+  "id": "youtube-4241b33a",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "youtube",
+  "source_name": "이일구",
+  "url": "https://www.youtube.com/watch?v=cLmTpPFPMv8",
+  "title": "2026 두산베어스 김민석 안타 모음",
+  "published_at": "2026-11-11T05:59:24Z",
+  "collected_at": "2026-11-11T07:37:41.309Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 4,
+    "likes": 2,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 48,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

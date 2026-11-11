@@ -1,0 +1,24 @@
+{
+  "id": "news-ea8b5899",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "부산일보",
+  "url": "https://www.busan.com/view/busan/view.php?code=2026111115365233999",
+  "title": "올해 ‘최고 투수’ 곽빈, 최동원상 품었다",
+  "published_at": "2026-11-11T07:00:24.000Z",
+  "collected_at": "2026-11-11T07:37:41.309Z",
+  "summary_ko": "부산일보는 올해 최고 투수로 꼽힌 두산 곽빈이 최동원상을 받았다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "곽빈, 최동원상 품었다"
+}

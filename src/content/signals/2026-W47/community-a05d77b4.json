@@ -1,0 +1,23 @@
+{
+  "id": "community-a05d77b4",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 뒷스패치",
+  "url": "https://blog.naver.com/dwit-patch/224472283741",
+  "title": "7개월의 침묵을 깬 니퍼트 불꽃야구2 마운드 위로 다시 돌아온 니느님",
+  "published_at": "2026-11-11T14:22:00.000+09:00",
+  "collected_at": "2026-11-11T07:37:41.309Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

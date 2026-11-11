@@ -1,0 +1,23 @@
+{
+  "id": "news-109a2cfd",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1NakdqbEVTSEhyN0g2NVM3WlM0Qkg4T3hsaThnTWhJemkyVDhuWDY4elRRemVrVHZyMkN3VUtIOVFtQ2twdkNSOFVMR1BVRDNudHBuSTZQVVRERHNINmNMMXQ5UkpkOE1PNW1XS0p2UmNGdWwtSWpOdFA5cjBzZw?oc=5",
+  "title": "\"김하성 1년 계약으로 보험 확보\" 역대급 소식! 필라델피아의 진지한 관심…터너 부진시 주전 유격수 확정→\"충분히 좋은 선수\"",
+  "published_at": "2026-11-11T03:06:23.000Z",
+  "collected_at": "2026-11-11T07:37:41.309Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

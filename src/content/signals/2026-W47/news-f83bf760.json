@@ -1,0 +1,28 @@
+{
+  "id": "news-f83bf760",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "news",
+  "source_name": "뉴시스",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5YU2I0QlluTFB2b1cwcF85ZFUtSVg5RW9hbk5BSmk1YXQzUWxaTXBsX1BWejNXSlNVdXd3Mk1aY2VsckpucXJwMjU0TWlMcEtWNG9EUGFHMkU0YXdRQVlCU9IBeEFVX3lxTE1wckFramVTZFhPMTl0d2I3Q1ZYd0NHN2VwS0pxNXJFLVI5eWVzcGp4ZDNtWmladUZwcExHdW5kTWNBTExTZUFUYkIzdy0zU00zTXJQMG1TN0FrMk5MeUhaeEdWMk5BOFFZOFJTMnRvN0pCYzYycnlYYw?oc=5",
+  "title": "'한화 출신' 와이스, MLB 샌디에이고와 1년 계약…송성문과 한솥밥",
+  "published_at": "2026-11-11T05:49:32.000Z",
+  "collected_at": "2026-11-11T07:37:41.309Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 80
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "MHN스포츠",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0tdFlWMmhyMGZjZS1PdGlhZ0diRkxSYnhMUFNKVTd1NEtpZFJ4ZDAzdUs5U1owV1FGNHE3QndDMXA2dlloZ05QR0NQRVNHaHRGZFVxWi00SEhxLWJ6a2tZY1Q1UQ?oc=5"
+    }
+  ]
+}

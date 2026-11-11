@@ -1,0 +1,36 @@
+{
+  "id": "news-55fc6e4c",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "news",
+  "source_name": "연합뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAzRU1SQy1jdnlLVjJrZXhrWGVPTHhyaGFaVTJiSEoyajNaTFFUQmlrMndHVFlUQ1lmTjJjeWRzOGxfd1BRc3F5b3ZCYmQyclgzS3U2Zml5dlpYUW9EX2tGV9IBYEFVX3lxTFAzRU1SQy1jdnlLVjJrZXhrWGVPTHhyaGFaVTJiSEoyajNaTFFUQmlrMndHVFlUQ1lmTjJjeWRzOGxfd1BRc3F5b3ZCYmQyclgzS3U2Zml5dlpYUW9EX2tGVw?oc=5",
+  "title": "노시환과 메츠 워싱턴 코치의 한화 시절 인연, 미국 현지서 화제",
+  "published_at": "2026-11-11T00:30:50.000Z",
+  "collected_at": "2026-11-11T07:37:41.309Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 97,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5PZFZyWWRTNmhaVGF3LXVGcmZmSk1ieGdQWW1BdkV4QUdhcHFYbjYzRmJra3BPanQyMXNHdnQ5MGZnb1NvMFN3ZzZ2NjREQTRIbFI4SG5HWUpIQm9nY2NEckJudkE1Z0F2Y3fSAW9BVV95cUxPaExUOTdqZWw1LUtXQ1BabW9oNnNnR0p2bU5rc1pkQmt4RjZ1bElxSFhVbTMwMUtueE4ycUZtaTFDTmQxc3dfVC11MG4zajVxd0s4WFVhdUtnSEY3eVRpOWJUWnVod1pUcDdsQ1RQMGc?oc=5"
+    },
+    {
+      "source_name": "OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE92WlpzZmJERzVfa0d5aVhnNFZKS29wd0VSVVhiWmdFb0s1YnlyVG05ZnBTeHQ4RmR2Y1hGNU9DdGNNQko0cXFQRnVQRGxtSzJXeFkyVA?oc=5"
+    },
+    {
+      "source_name": "SBS 뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAwZG9sYkZBc3lDelpnNmRza2xyTXdwSXIxN01ucmk2SF82anVTbnJTSFlRNGpEcFZpTm4xbl90Mk5iWXI1YldZTFFTMG02M0FlVF9nU3FNbmt1RnZKV1VCTENjNW1LWkZNdXc?oc=5"
+    }
+  ]
+}

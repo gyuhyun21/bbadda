@@ -1,0 +1,36 @@
+{
+  "id": "youtube-38371205",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "youtube",
+  "source_name": "사직노래방",
+  "url": "https://www.youtube.com/watch?v=g8nd-LIcFjQ",
+  "title": "김민성 합류 확정, 강영식 채태인 컴백 롯데 코치진 완성 #롯데자이언츠 #롯데야구 #김민성",
+  "published_at": "2026-11-11T06:20:13Z",
+  "collected_at": "2026-11-11T07:37:41.309Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1023,
+    "likes": 12,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 45,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "SPOTV NEWS",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9wd0I5eVp4VlNwRHVXcjdTSWV0a2ZzZTI3Vm9fT1RLUG9FTEVIZ2VwcExxcjJrM3BSUUlZUm1JdGV4OHp6VFJhQ1BwdVZPeWZSMUZrSzhHcDBfaWM3bjVLbWRiclNaVFNGNDVYMzF6MDc?oc=5"
+    },
+    {
+      "source_name": "뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5tSGd5eHJSbG9fWXdTRHhlSjFBY242SFpnbHNrRndZTW93RWhpdWdvWkpYN3JLWmdZbTRESmJQV2RYT0JpSFYwTUg4Rkkya19tNDVrLUxxOA?oc=5"
+    }
+  ]
+}

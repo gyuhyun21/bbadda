@@ -1,0 +1,24 @@
+{
+  "id": "news-9fc86055",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "SPOTV NEWS",
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE55QkJvM2EwbkFoUEpIeEEwRGpFWUFYRG82MkJDYUVIUnY0T2prTEQtcTAzclJOeERMT3htdVlMQnVZMm1WeWw0Zml3TGplSEJHMTRyQnRGamlNRzEyYWxIajFtYmhoXzNaeVFiT2p1VHA?oc=5",
+  "title": "'재검진 이상무' 트레이드 없다! 황성빈 日 미야자키 캠프 전격 합류, 외야 수비 다듬기 들어간다",
+  "published_at": "2026-11-11T02:40:00.000Z",
+  "collected_at": "2026-11-11T07:37:41.309Z",
+  "summary_ko": "SPOTV NEWS는 재검진에서 이상이 없던 황성빈이 미야자키 캠프에 합류해 외야 수비를 다듬는다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "황성빈, 재검진 뒤 캠프 합류"
+}

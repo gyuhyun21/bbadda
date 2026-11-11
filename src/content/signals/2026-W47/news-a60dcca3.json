@@ -1,0 +1,22 @@
+{
+  "id": "news-a60dcca3",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스핌",
+  "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1UN2xlNXNZX1NUcTFPVVozakdWblc4Skk0MVdKNUlJQ2tXNjF4aEpnTWk2NHN6NHB3Zmp3MUs4UlJXX2NpbXg0OTVGNllFWHdWSE5HNVA3VjNtU2V4?oc=5",
+  "title": "[프로야구] 내년 반등 노리는 롯데, 김민성 강영식 등 2027시즌 코칭스태프 최종 확정",
+  "published_at": "2026-11-11T07:07:00.000Z",
+  "collected_at": "2026-11-11T07:37:41.309Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

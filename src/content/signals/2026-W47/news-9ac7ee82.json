@@ -1,0 +1,23 @@
+{
+  "id": "news-9ac7ee82",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스핌",
+  "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9PZXpQdDI0VVNMY2JpUTFTd0lKcldnc0pITURaQzlUVllpQmpYU0hyY2Ixa2RyTDlsNkxZQVJaRkxRVm42NlBEWGVEenhNOWVuZndCQVhyai1Rdl9H?oc=5",
+  "title": "[APBC] 호주전 선발 SSG 김민준 낙점…정규시즌 안정감 이어갈까",
+  "published_at": "2026-11-11T05:38:00.000Z",
+  "collected_at": "2026-11-11T07:37:41.309Z",
+  "summary_ko": "뉴스핌은 SSG 김민준이 APBC 호주전 선발로 낙점됐다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "김민준, APBC 호주전 선발"
+}

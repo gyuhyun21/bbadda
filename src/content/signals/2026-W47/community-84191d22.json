@@ -1,0 +1,24 @@
+{
+  "id": "community-84191d22",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&page=3&document_srl=10542892198",
+  "title": "오 속보 성심당 스울 온다함 - 야구",
+  "published_at": "2026-11-11T03:37:41.309Z",
+  "collected_at": "2026-11-11T07:37:41.309Z",
+  "summary_ko": "",
+  "excerpt": "... 이강철 감독 \"작년 한화 이글스도 그렇고, 용병이 좌우하는 시즌이 돼가고 있다. 우리 투수들의 볼넷…",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

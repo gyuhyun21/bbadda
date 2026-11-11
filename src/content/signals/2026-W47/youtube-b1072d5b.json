@@ -1,0 +1,26 @@
+{
+  "id": "youtube-b1072d5b",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "youtube",
+  "source_name": "와이제이",
+  "url": "https://www.youtube.com/watch?v=ILyTdaesM1E",
+  "title": "울 집 선수 찾아 삼만리 2탄 - 롯데자이언츠 박정민 (출처: 엔튜브, 크보, 컴야)",
+  "published_at": "2026-11-11T07:16:12Z",
+  "collected_at": "2026-11-11T07:37:41.309Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 90,
+    "likes": 1,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 32,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

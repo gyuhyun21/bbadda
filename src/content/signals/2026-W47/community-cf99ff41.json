@@ -1,0 +1,22 @@
+{
+  "id": "community-cf99ff41",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 녹석빛",
+  "url": "https://brunch.co.kr/@greenrock00/125",
+  "title": "2026시즌 두산 베어스, 스무 번째 이야기",
+  "published_at": "2026-11-11T09:20:05.000+09:00",
+  "collected_at": "2026-11-11T07:37:41.309Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

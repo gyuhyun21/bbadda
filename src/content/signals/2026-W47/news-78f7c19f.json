@@ -1,0 +1,33 @@
+{
+  "id": "news-78f7c19f",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "news",
+  "announcement": true,
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBZUG5BYkZCSk83LXNlRFlSYzZXVzNLYVltQUlJNlFNUkQ2WllqbTV0aUlZd2dJY20tWHM3WDRKRTdlbzRVckwzVUgwY0sxZV9hZFFTamdTNFVZNzN0T1c4YzlLX2VFbkFUUy03elk0SdIBb0FVX3lxTFBZUG5BYkZCSk83LXNlRFlSYzZXVzNLYVltQUlJNlFNUkQ2WllqbTV0aUlZd2dJY20tWHM3WDRKRTdlbzRVckwzVUgwY0sxZV9hZFFTamdTNFVZNzN0T1c4YzlLX2VFbkFUUy03elk0SQ?oc=5",
+  "title": "키움, 이성열 타격코치 영입 이형종 플레잉코치…박병호, 잔류군 총괄 및 퓨처스 타격 총괄코치 맡는다 [공식 발표]",
+  "published_at": "2026-11-11T05:40:00.000Z",
+  "collected_at": "2026-11-11T07:37:41.309Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 83,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1WZDJQbDdkVDVlMFhQU0VuLTJOa0FFM0pDRkw2dTZ4bVZHLVk2WGxFbHZSS19DSlJEZDk0eWZURUtyXzJNNlhDNXBsRU9meDVPT3owYQ?oc=5"
+    },
+    {
+      "source_name": "뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1qVnYwR1pXRmpRSzFadDJkRG04cWpUV1ZrM0tsdmRCbUhKMWxiM05yUU05VlMwNklvbEFNQUlKRlFGRUJoNzFmVmF0TzVjaXlXZWV3MV9nazlyZWZKeFlCNdIBeEFVX3lxTFBxYzhVbHUtMEtJUzJmVlhNZE1MOFliS3g3U3RsMUliV3BrM0x6N2R1bktVMkxtQTN5bnQ2SmpRM2lqbDAwSDdGNGdWYmJRdFZCOTRHSmllcU1YbkVhUjEzVHpIQ1RHazFRYW5IMFp4Q2wxY3FKM25DUw?oc=5"
+    }
+  ]
+}

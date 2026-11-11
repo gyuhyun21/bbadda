@@ -1,0 +1,28 @@
+{
+  "id": "news-e676793b",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "연합뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9YTEtqdmd5WFZVNjF2X3JnY0kwc0d3TmRsWWhrTDVTZ01XT1NZQ1Q1UlQ2R2tXWEhUUE53T2hXVmxiVW41N3ZuOUJNS2NxVjJyMUJwOU5ndUNvN1XSAWBBVV95cUxQZTBnX0ktUnZjS1N6R2dLbl9XdHROb3VZa1UzeG1YWTJ5RkR4djN1d2xHSlp6MkJkWHR1cHJ1cEMybjZaR0RYWmo4OTQyalhGaGZ2TVZfa1ZVZVpUMmhqMGw?oc=5",
+  "title": "김민성, 프로야구 롯데 1군 수비 코치로 지도자 시작",
+  "published_at": "2026-11-11T06:24:38.000Z",
+  "collected_at": "2026-11-11T07:37:41.309Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "톱스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1fU3k0d0NZZWhuZ0ZXaWlZQm5KTW5HdHFnTXk0TXZ5UG9jcl9zMlpDSGVoUGhjdlVaRDBwdUw0N1dOTGtiUVdOV3Q4dXlxdzVJMEEybFZxYkhWMnZFN1l2RFpiZ3pHS2lEeG9zYVNJd2xtUQ?oc=5"
+    }
+  ]
+}

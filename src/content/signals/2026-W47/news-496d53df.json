@@ -1,0 +1,23 @@
+{
+  "id": "news-496d53df",
+  "issue": "2026-W47",
+  "module": "rivalry",
+  "team": "kt",
+  "teams": [
+    "kt",
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "네이트",
+  "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBBbVVfdGRnb29USHF4bVRuRHc4NGlaZzJtQzZJb0tjU0lBcG1GSFUzTno3QmxlQVN6bFN3LWtHOU1jTXBiN0dHVmsyY1VJQ29Vblc2RHRB?oc=5",
+  "title": "'구자욱 전쟁 벌어지나' 돈성 귀환에 수도권도 참전, kt·LG 등 외인 투수 보강도 시급",
+  "published_at": "2026-11-11T01:37:00.000Z",
+  "collected_at": "2026-11-11T07:37:41.309Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

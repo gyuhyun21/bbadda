@@ -1,0 +1,22 @@
+{
+  "id": "news-db125e00",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "SPOTV NEWS",
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9yX0hwWnZKb1hhVXNRaVh4VnRJM0hFX0JsRVAtRDJuVHNkMXdaSk9oRWVlSnpJM2JkN0daZThldy1ZYlNGUy1HSHpycDd1VHo2SFY3VDg5NWZ6RmI4ZGhsbnFkSFEtU1d2aUhiV045bm0?oc=5",
+  "title": "연봉 1억500만원, 이 삼성 투수에게 상이라도 만들어 주고 싶다…이승민 진짜 고생했다",
+  "published_at": "2026-11-10T22:28:00.000Z",
+  "collected_at": "2026-11-11T07:37:41.309Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 80
+  },
+  "sentiment": "neutral"
+}

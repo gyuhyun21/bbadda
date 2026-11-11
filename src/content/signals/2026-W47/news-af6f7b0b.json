@@ -1,0 +1,29 @@
+{
+  "id": "news-af6f7b0b",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9CWEw5U3pNSnJOYlUwTHN0RDJpbjRHa0UzM2tfQW9KX0ZGeUNqZ2xKYlNTbFYtWEQ1b3JObm9VNTI0Y0JiSGNPSHdOU0N1MEQ4R1FJMmVWRGZ3YmRGUmpGcHZxWFdTRVNfT0ZmZTU3N2ZVQTZEVk1CUHhfaC1vQQ?oc=5",
+  "title": "1m74인데 왜 이렇게 커보여? 천하의 홈런타자들도 추풍낙엽...'작은 투수' 편견 날린 '작은 거인' 이승민",
+  "published_at": "2026-11-10T22:12:18.000Z",
+  "collected_at": "2026-11-11T07:37:41.309Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 89,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPU082MjN1U09PVkJuVm93WWRXWkFGSkFmSjhhRmpQWlg0b1RaSXlsemdIS3o5Sm5SU2Q5VVJtSE1MSGZwWVNkR3E1Nms1RHo1SUJwWllDX19QSjlvaW9FdmpaZGFYdWxjRmg3WXppZ0IxNkEyYnNvNlM2VE5ha1RoVzY4aw?oc=5"
+    }
+  ]
+}

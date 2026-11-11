@@ -1,0 +1,23 @@
+{
+  "id": "community-86cae121",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 스포츠 줌인",
+  "url": "https://blog.naver.com/sport_log/224472689599",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/IUwWWKBC4SR",
+  "title": "'친정으로 돌아온 백용환' KIA 타이거즈 배터리 코치로 합류한 사연",
+  "published_at": "2026-11-11T14:00:00.000+09:00",
+  "collected_at": "2026-11-11T07:37:41.309Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}
