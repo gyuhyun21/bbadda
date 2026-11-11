@@ -11,7 +11,7 @@ G="https://graph.facebook.com/v21.0"; AUTH="Authorization: Bearer $TOKEN"
 say() { echo "$*" | tee -a "${GITHUB_STEP_SUMMARY:-/dev/null}"; }
 prep() {
   [ -n "${PREPPED:-}" ] && return; PREPPED=1
-  for t in 1 2 3; do timeout 300 sudo apt-get -qq update >/dev/null && timeout 300 sudo apt-get -qq install -y ffmpeg fonts-noto-cjk >/dev/null && break; echo "apt 재시도 $t"; sleep 10; done
+  for t in 1 2 3; do timeout 300 sudo apt-get -qq update >/dev/null && timeout 300 sudo apt-get -qq install -y ffmpeg fonts-noto-cjk fonts-noto-color-emoji >/dev/null && break; echo "apt 재시도 $t"; sleep 10; done
   timeout 600 npm ci --silent
   git config user.name "github-actions[bot]"; git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 }
