@@ -70,7 +70,7 @@ cards_post() {
   say "대체 릴스(카드 $key, ${n}장): $(bash scripts/insta/reel.sh "$(upload /tmp/reel.mp4 "$D-cards")" /tmp/cap.txt)"
 }
 
-# 점심 칸: 큐의 "lunch" 칸(날짜 → "pool/<편>")에 오늘 것이 있으면 그 편(이미 올렸으면 main_post 가 건너뜀), 없으면 큐 어디에도 없는 가장 앞 번호 편.
+# 점심 칸: 큐의 "lunch" 칸(날짜 → "pool/<편>")에 오늘 것이 있으면 그 편(이미 올렸으면 main_post 가 건너뜀), 없으면 어제 점심 편이 게시 안 됐을 때 그 편, 아니면 큐 어디에도 없는 가장 앞 번호 편.
 # 기록을 먼저 main 에 올리고 게시한다 — 오후 칸(맥 0단계)이 같은 편을 고르지 않게. 오늘 배열에도 더해 두면 게시가 실패해도 다음 큐 변경 때 다시 올린다
 lunch_post() {
   prep
@@ -79,7 +79,13 @@ lunch_post() {
     git fetch -q origin main; git checkout -q -f -B main origin/main
     p=$(jq -r --arg d "$D" '.lunch[$d] // empty' "$Q")
     [ -n "$p" ] && { say "점심 POOL 이미 기록됨: $p"; break; }
-    p=$(for k in $(ls -d media/insta/pool/*/ | xargs -n1 basename | sort); do [ -f "media/insta/pool/$k/post.json" ] && ! grep -qF "\"pool/$k\"" "$Q" && { echo "pool/$k"; break; }; done; true)
+    # 어제 점심 편이 기록만 되고 게시되지 않았으면(게시 실패) 오늘 점심에 그 편을 다시 — 최근 15개 게시물로 보므로 어제 것만 본다
+    local y; y=$(jq -r --arg d "$(TZ=Asia/Seoul date -d yesterday +%F)" '.lunch[$d] // empty' "$Q")
+    if [ -n "$y" ] && [ -f "media/insta/$y/post.json" ]; then
+      jq -r '.reel_caption // .caption' "media/insta/$y/post.json" > /tmp/ycap.txt
+      posted_caption /tmp/ycap.txt || { p="$y"; say "어제 점심 편 게시 안 됨 — 다시: $y"; }
+    fi
+    [ -n "$p" ] || p=$(for k in $(ls -d media/insta/pool/*/ | xargs -n1 basename | sort); do [ -f "media/insta/pool/$k/post.json" ] && ! grep -qF "\"pool/$k\"" "$Q" && { echo "pool/$k"; break; }; done; true)
     [ -n "$p" ] || { say "POOL 남은 편 없음 — 점심 칸 건너뜀"; return 0; }
     jq --arg d "$D" --arg p "$p" '.[$d] = ((.[$d] // []) | if type == "array" then . else [.] end) + [$p] | .lunch[$d] = $p' "$Q" > /tmp/q.json && mv /tmp/q.json "$Q"
     git commit -qm "reel-queue: $D 점심 $p" "$Q" && git push -q origin HEAD:main && break
