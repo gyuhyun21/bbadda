@@ -1,0 +1,30 @@
+{
+  "id": "community-65bdaa53",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 김연큰",
+  "url": "https://brunch.co.kr/@kim-lotus-root/181",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/3L84rNpLB2j",
+  "title": "잠실야구장 마지막 직관, 경기 전",
+  "published_at": "2026-11-12T00:00:06.000+09:00",
+  "collected_at": "2026-11-11T21:37:39.016Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "브런치",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9JQ0hpYTFJQjAtVnREbGJ0dWRQcEtQQVdRLUNPRXE3MHI3ZUhWYXFEU1JTenV6QmQ0RDhtOTBnbW5lNVFtWlE?oc=5"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-d3ce4ad8",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://www.mt.co.kr/amp/sports/2026/11/12/2026111115512595384",
+  "title": "'와' 두산 151㎞ 좌완, 상무 가서 무슨 일이! 퓨처스 홀드 1위→세계 무대 3이닝 KKKKKKK 완벽투... 韓 U-23 대표팀, 남아공 7-0 완파",
+  "published_at": "2026-11-11T15:05:00.000Z",
+  "collected_at": "2026-11-11T21:37:39.016Z",
+  "summary_ko": "머니투데이는 상무에 간 두산 151km 좌완이 퓨처스 홀드 1위에 이어 국제대회에서 3이닝 삼진 7개를 잡았다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "brief_ko": "상무 간 151km 좌완, 3이닝 7K"
+}

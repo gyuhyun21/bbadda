@@ -1,0 +1,26 @@
+{
+  "id": "youtube-1506b31e",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "베샥",
+  "url": "https://www.youtube.com/watch?v=1uviu6tt5uI",
+  "title": "3초만 듣고 맞춰보세요! 이 응원가 누구게? ⚾ #shorts #기아타이거즈 #응원가 #KBO",
+  "published_at": "2026-11-11T15:23:34Z",
+  "collected_at": "2026-11-11T21:37:39.016Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 620,
+    "likes": 1,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 37,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

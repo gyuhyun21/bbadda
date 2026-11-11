@@ -1,0 +1,24 @@
+{
+  "id": "community-ba40ef2e",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "더쿠",
+  "url": "https://theqoo.net/kbaseball/4402955508",
+  "title": "소요기 코치님 원래 히로시마 코치 간다는 소문 많았는데",
+  "published_at": "2026-11-11T11:37:39.016Z",
+  "collected_at": "2026-11-11T21:37:39.016Z",
+  "summary_ko": "",
+  "excerpt": "... KIA는 일본 국가대표 코치를 데려오기 위해 공을 많이 들였다. 한신 타이거스 코치로 지내던 소요기…",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

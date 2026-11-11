@@ -1,0 +1,24 @@
+{
+  "id": "community-626eb03f",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 구르미",
+  "url": "https://blog.naver.com/mkim90023/224473008822",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/FAgOy5yxFuZ",
+  "title": "노시환 메이저리그, 협상 마감 12월 1일인데 무려 8개 구단이 찜했다니",
+  "published_at": "2026-11-11T15:02:00.000+09:00",
+  "collected_at": "2026-11-11T21:37:39.016Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 62,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

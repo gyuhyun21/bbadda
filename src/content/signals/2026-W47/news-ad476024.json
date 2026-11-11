@@ -1,0 +1,22 @@
+{
+  "id": "news-ad476024",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스1",
+  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAweEQzWkt5NVB3VkRwRFB4eTNyWk5BcTI5bGFaVlNGSXNFYXNYOTF3MTRCNHN6ckxXZFNOaUIyeE14YjRoLWhjLUJ4c1dKQnA5clhmRkZLTQ?oc=5",
+  "title": "왕년의 롯데맨이 돌아왔다…이동욱호 코치진 개편 '순혈주의'",
+  "published_at": "2026-11-11T21:01:00.000Z",
+  "collected_at": "2026-11-11T21:37:39.016Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

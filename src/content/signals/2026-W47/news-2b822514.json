@@ -1,0 +1,29 @@
+{
+  "id": "news-2b822514",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBEZTAwc3JFYUkzRVZRVHh1Q01id05rU0Y2ZVpndHVma09HVFE0U0hkVUlaa0FGcWVDQVBubWZnaG1IZXl1YjJpMWZScHU5VkFzRVdOS1c1eEotYlFmNEt4aU9kamNINDlTcUprbUV3d9IBb0FVX3lxTFBEZTAwc3JFYUkzRVZRVHh1Q01id05rU0Y2ZVpndHVma09HVFE0U0hkVUlaa0FGcWVDQVBubWZnaG1IZXl1YjJpMWZScHU5VkFzRVdOS1c1eEotYlFmNEt4aU9kamNINDlTcUprbUV3dw?oc=5",
+  "title": "'돌부처' 특급 조언 품고 도쿄돔 왔다…사직 스쿠발, 韓 APBC 첫 우승 이끌까 \"모든 걸 쏟아붓겠다\" [오!쎈 도쿄]",
+  "published_at": "2026-11-11T15:40:00.000Z",
+  "collected_at": "2026-11-11T21:37:39.016Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBJVWdOTnNWUzZySnl3V0Z6WlNDelF4Yk9palRudVY5WEVWQ1Z4d05iZUR4cjRCcUtJOWVSUUNtQUJNeHhCTVc3OFVKTTJXVFgtMVgwTQ?oc=5"
+    }
+  ]
+}

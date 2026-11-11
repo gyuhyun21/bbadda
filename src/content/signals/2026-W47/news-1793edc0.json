@@ -1,0 +1,24 @@
+{
+  "id": "news-1793edc0",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "마이데일리",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBHZlJTc3FpVURkVG5QS05rWVZNNEE0aS1OSEpMbDBJeTVxcEMtLVI5UUo5NHZlN3JITllrUFc5dE5KNFU5cTNMU1RpdlNXQUJRM1Q2SkJ3N3NpZC11c1g4bQ?oc=5",
+  "title": "“김도영 AG 출전하지 않았다면 50홈런 쳤다…MVP 유력후보” 韓 슈퍼스타 향한 세계적인 관심",
+  "published_at": "2026-11-11T18:55:10.000Z",
+  "collected_at": "2026-11-11T21:37:39.016Z",
+  "summary_ko": "마이데일리는 김도영이 아시안게임에 나가지 않았다면 50홈런을 쳤을 것이라는 해외 평가를 전했다. MVP 유력 후보로도 꼽혔다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "brief_ko": "김도영, 50홈런도 가능했다?"
+}
