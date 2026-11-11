@@ -59,7 +59,7 @@ cards_post() {
   git fetch -q origin insta-media
   # 카드 세트는 밤에만 만든다(2026-10-26~) — 낮 대체 릴스는 어제 밤 세트로
   local Y; Y=$(TZ=Asia/Seoul date -d yesterday +%F)
-  local key; key=$(git ls-tree --name-only origin/insta-media | grep -E "^($Y|$D)-" | sort | while read k; do git cat-file -e "origin/insta-media:$k/1.jpg" 2>/dev/null && git cat-file -e "origin/insta-media:$k/post.json" 2>/dev/null && echo "$k"; done | tail -1)
+  local key; key=$(git ls-tree --name-only origin/insta-media | grep -E "^($Y|$D)-" | sort | while read k; do git cat-file -e "origin/insta-media:$k/1.jpg" 2>/dev/null && git cat-file -e "origin/insta-media:$k/post.json" 2>/dev/null && echo "$k"; done | tail -1 || true)  # 카드 세트가 없으면 grep 이 1 — 아래 안내가 찍히게
   [ -n "$key" ] || { say "대체 릴스 실패: 어제·오늘 카드 세트도 없음"; return 1; }
   prep
   local dir=/tmp/cards; rm -rf "$dir"; mkdir -p "$dir"
@@ -92,7 +92,7 @@ lunch_post() {
     say "큐 기록 push 실패($t) — 다시"; p=""; sleep 5
   done
   [ -n "$p" ] || { say "점심 칸 큐 기록 실패"; return 1; }
-  POST="$p"; main_post
+  POST="$p"; main_post || return 1  # 다른 칸처럼 || 로 불러 set -e 가 함수 안 줄마다 죽이지 않게
 }
 if [ "$LUNCH" = true ]; then lunch_post; exit $?; fi
 
