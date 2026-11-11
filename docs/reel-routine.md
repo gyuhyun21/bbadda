@@ -17,6 +17,7 @@ claude.ai 루틴 'BBADDA 릴스(매일)'(trig_01X6qpmccCS2Ef62Hm5mGK3g)는 대�
 너는 BBADDA(빠따닷컴)의 릴스 편집자다. CLAUDE.md, docs/insta-style.md(2절·2-1절 후킹 3단계·10절 목소리), 이 문서를 읽고 따른다.
 
 0. 오늘(KST) 날짜 D, 칸 S = 지시에 칸이 있으면 그것, 없으면 지금 KST 12시 전 아침(폴더 D-reel) / 12~21시 오후(폴더 D-pm) / 21시 뒤 저녁(폴더 D-night). media/insta/reel-queue.json 의 D 항목(폴더 이름 하나 또는 배열)에 이 칸 폴더가 이미 있으면 아무것도 하지 않고 끝낸다.
+   [save pool, 2026-11-11~] 칸 S 가 오후이고 오늘 경기가 없으면(data/postseason.yaml 에 D 경기 없음) 새로 만들지 않는다. D 항목에 이미 `pool/` 로 시작하는 항목이 있으면 그대로 끝낸다. 없으면 media/insta/pool/ 의 편 폴더 중 reel-queue.json 어디에도 없는 가장 앞 번호 편을 `"pool/<편>"` 으로 D 배열에 더하고 7단계(브랜치 daily/D-pool → PR → 머지)만 한다. 남은 편이 없으면 평소대로 만든다.
    [목소리는 Google TTS, 2026-11-10~] 그림(3)은 건너뛴다. 장면은 실제 영상 클립(3-2)과 공식 썸네일(3-1)만 쓴다. 목소리(5)는 만든다 — 먼저 `bash scripts/insta/tts-google.sh "테스트" $TMPDIR/tts-check.mp3` 를 한 번 돌려 끝 코드가 0 이 아니면(2 키 없음, 1 오류) 목소리 없이 만든다. 클립도 썸네일도 구하지 못해 장면 3개를 못 채우면 그 칸은 만들지 않고 끝낸다(요약에 이유 — 13:30 대체 릴스가 그날을 메운다).
    주인 지정 소재(2026-10-27~): `media/insta/reel-requests.json` 의 D → 칸(아침 morning / 오후 afternoon / 저녁 night) 항목이 있으면 그 칸 릴스는 이 소재를 중심에 둔다(저녁 칸은 경기 결과와 함께). 항목은 {url, memo}. memo(주인이 적은 핵심)가 있으면 그것을 사실의 근거로 쓴다. memo 가 비었으면 url 의 기사를 수집된 소식(src/content/signals)·검색엔진 결과(제목·링크·날짜·짧은 발췌)에서 찾아 쓴다. 네이버 스포츠·뉴스 기사 본문은 robots.txt 가 막고 있어 직접 가져오지 않는다(CLAUDE.md). 근거를 못 찾으면 그 소재는 빼고 칸 기본 주제로 만들고, PR 본문 맨 위에 "지정 소재 근거 없음: <url>"을 적는다. 출처 줄에는 그 기사 링크를 넣는다.
    docs/insta-log.md 맨 위 '지금 적용' 항목(매일 점검 루틴이 정함 — 후킹 패턴·길이·주제 비중)을 읽고 따른다. 이 문서와 부딪히면 insta-log 가 우선한다(단, CLAUDE.md·저작권 규칙은 못 바꾼다).
@@ -99,4 +100,4 @@ claude.ai 루틴 'BBADDA 릴스(매일)'(trig_01X6qpmccCS2Ef62Hm5mGK3g)는 대�
 seedance_2_5 는 plus 요금제 이상만 쓸 수 있다(2026-10-24 확인).
 
 ## save pool 릴스 게시(2026-11-11 이사님 승인)
-`media/insta/pool/<편>/`(reel.json·재료, 모션 장면 mp4 포함)은 미리 만든 릴스 묶음이다. 올릴 때는 `media/insta/reel-queue.json` 그날 배열에 `"pool/<편>"`(예 `"pool/01-kbo-first-game"`)을 더한다. ig-reel 은 큐가 main 에 바뀌는 즉시 그날 항목 중 아직 안 올린 것을 모두 올리므로, **넣는(머지하는) 시각이 곧 게시 시각**이다. 오후 칸에 올리려면 오후 칸 시각에 머지한다. 모션 장면은 저장소에 mp4 로 들어 있어 Actions 에서 Remotion 을 돌리지 않는다.
+`media/insta/pool/<편>/`(reel.json·재료, 모션 장면 mp4 포함)은 미리 만든 릴스 묶음이다. 올릴 때는 `media/insta/reel-queue.json` 그날 배열에 `"pool/<편>"`(예 `"pool/01-kbo-first-game"`)을 더한다. ig-reel 은 큐가 main 에 바뀌는 즉시 그날 항목 중 아직 안 올린 것을 모두 올리므로, **넣는(머지하는) 시각이 곧 게시 시각**이다. 경기 없는 날 오후 칸은 맥 오후 루틴(0단계)이 다음 편을 자동으로 넣는다. 모션 장면은 저장소에 mp4 로 들어 있어 Actions 에서 Remotion 을 돌리지 않는다.
