@@ -46,7 +46,7 @@ main_post() {
     prep
     # if 안에서는 set -e 가 꺼지므로 단계마다 실패를 직접 돌려준다
     npx tsx scripts/insta/reel-make.ts "$dir" /tmp/reel.mp4 > /tmp/make.log 2>&1 || { cat /tmp/make.log; return 1; }
-    grep '경고' /tmp/make.log | while read -r l; do say "$l"; done
+    grep '경고' /tmp/make.log | while read -r l; do say "$l"; done || true  # 경고가 없으면 grep 이 1 — 점심 칸은 main_post 를 || 없이 불러 set -e 로 조용히 죽었다(2026-11-11)
     url=$(upload /tmp/reel.mp4 "$POST") || return 1
   else say "영상도 재료도 없음: $dir"; return 1
   fi
