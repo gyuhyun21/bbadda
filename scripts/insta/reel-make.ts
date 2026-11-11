@@ -6,7 +6,7 @@
 // 장면 길이 = 그 장면 목소리 길이(쉼 0.18초·1.18배로 다듬은 뒤) + 0.25초(목소리가 없으면 dur, 기본 3초). 그림(png)은 천천히 확대, 영상은 길이에 맞춰 자르거나 늘린다.
 // fit: true 인 그림(카드 이미지 등)은 자르지 않고 흐린 배경 위에 통째로 놓는다. 어떤 경우에도 영상은 만든다(그날 릴스를 빠뜨리지 않는다, 2026-10-24 주인).
 // 경기 영상(2026-10-26 주인 결정, 티빙·KBO 허용 범위: 비영리·40초 미만): 영상 장면은 from·to(원본 초)로 구간을 고르고, live: true 면 현장음을 섞는다.
-//   가로 영상은 기본으로 흐린 배경 위에 통째로 놓는다(fit: false 면 세로로 꽉 채워 자름). 경기 영상 합계는 FOOTAGE_MAX 초를 넘지 않게 자른다(넘으면 뒤 장면부터 줄임).
+//   가로 영상은 기본으로 흐린 배경 위에 통째로 놓는다(fit: false 면 세로로 꽉 채워 자름). 경기 영상 합계는 FOOTAGE_MAX 초를 넘지 않게 자른다(넘으면 뒤 장면부터 줄이고, 다 쓴 뒤의 경기 영상 장면은 뺌).
 // 공식 영상 썸네일 장면(2026-10-26): src 에 i.ytimg.com 주소를 그대로 쓴다(파일을 저장소에 두지 않고 조립할 때만 받음, 고해상도가 없으면 hqdefault). 그림 파일에 credit(예 'TVING')을 주면 경기 영상의 한 장면으로 보고 — 흐린 배경 위에 통째로(로고·워터마크를 자르지 않음), 화면에 '영상: <credit>', 길이를 경기 영상 합계에 넣는다.
 // 장면 효과(2026-11-10 이재용(CoS) 배분, save pool 릴스): 장면에 아래 칸을 더하면 장면 안의 그 시각(장면 시작부터 초, 배속 전)에 효과가 들어간다. 없으면 예전과 똑같이 조립한다.
 //   fx: [{ at, dur?, text, style?: 'mind'(심리 자막)|'pop'(강조)|'sfx'(효과음 글자), pos?: 'top'|'mid'|'low'|[x, y](글 가운데 좌표), size?: 글자 px }] — 글마다 그림 한 장, 스타일별 등장 움직임(FX_MOVE). 덤 style: alert(경고)·think(속마음 말풍선)·stamp(판정 도장)
@@ -149,7 +149,9 @@ spec.segments.forEach((s, i) => {
   const licensed = !s.motion && (!isStill(s.src) || !!s.credit); // 경기 영상 또는 그 썸네일(우리가 만든 모션 장면은 빼고)
   if (licensed) {
     const left = FOOTAGE_MAX - footage;
-    if (Number(d) > left) { console.error(`경고: 경기 영상 합계 ${FOOTAGE_MAX}초 제한 — 이 장면을 ${Math.max(left, 0).toFixed(1)}초로 줄임`); d = Math.max(left, 0.5).toFixed(2); }
+    // 합계가 이미 39초에 닿았으면 0.5초로 줄여 넣지 않고 장면을 뺀다(예전엔 0.5초씩 계속 들어가 39초를 넘었음, 2026-11-12)
+    if (left < 0.5) { console.error(`경고: 경기 영상 합계 ${FOOTAGE_MAX}초를 다 써서 ${i + 1}번 장면을 뺌 — 이 내용은 모션 장면·그림으로 — ${s.src}`); return; }
+    if (Number(d) > left) { console.error(`경고: 경기 영상 합계 ${FOOTAGE_MAX}초 제한 — 이 장면을 ${Math.max(left, 0).toFixed(1)}초로 줄임`); d = left.toFixed(2); }
     footage += Number(d);
   }
   if (!existsSync(a)) ff('-f', 'lavfi', '-i', 'anullsrc=r=44100:cl=stereo', '-t', d, a);
