@@ -1,0 +1,24 @@
+{
+  "id": "news-fbc63482",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "매일경제",
+  "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5EOWpIelBHMmh6c0hrcDc0bWl6aDgwX3J0X0NwUDJoUExLTlRHQ0xIOWVlQ0R3cDlaSjZsTXYtdHY2MVFZMkE?oc=5",
+  "title": "\"잘 가라 잠실야구장 … 44년동안 고마웠어\"",
+  "published_at": "2026-11-11T08:07:32.000Z",
+  "collected_at": "2026-11-11T13:37:36.482Z",
+  "summary_ko": "매일경제는 철거를 앞둔 잠실야구장에 44년 동안 고마웠다는 작별 인사를 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "잘 가라 잠실, 44년 고마웠다"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "community-adb4b2b2",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 마데의 야구 칼럼",
+  "url": "https://blog.naver.com/da331/224472526488",
+  "title": "[KBO] 1승에 61억 낸 계약도…역대 FA 실패 계약 TOP10, 롯데만 4개",
+  "published_at": "2026-11-11T08:50:00.000+09:00",
+  "collected_at": "2026-11-11T13:37:36.482Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

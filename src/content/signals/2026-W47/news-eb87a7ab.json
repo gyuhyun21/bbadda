@@ -1,0 +1,22 @@
+{
+  "id": "news-eb87a7ab",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "엑스포츠뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5hR3plR0xGV1lnaERiaDJrSEE2emQ0cTJ2S0w3d014Y25QZFJkdWtSUG5ZbWJ3Um45NUZuMXMtbWE4b21oY1pxQmpHXzZscHNqMVFyYQ?oc=5",
+  "title": "\"대구는 제2의 고향\"…'삼성 우승 영웅' 페덱, 4개월 동행 마치며 팬들에게 전한 진심→\"한 번 사자는 영원한 사자\"",
+  "published_at": "2026-11-11T00:22:21.000Z",
+  "collected_at": "2026-11-11T13:37:36.482Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

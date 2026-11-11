@@ -1,0 +1,29 @@
+{
+  "id": "news-5a761b6c",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5kd2QtQVZpRm5iTWZzV0hVUGlPOU9mUjk5TjVDOWlMSFhvRzM5NFh1MjBTUGMtbnpsU1hBdmRrSTBFRFVxQ0FwdWp0bVZ2VnlpekYwdjlWVWRfWmFWWWplajdOLTZpdlpnMnF4cmxsUdIBb0FVX3lxTE5kd2QtQVZpRm5iTWZzV0hVUGlPOU9mUjk5TjVDOWlMSFhvRzM5NFh1MjBTUGMtbnpsU1hBdmRrSTBFRFVxQ0FwdWp0bVZ2VnlpekYwdjlWVWRfWmFWWWplajdOLTZpdlpnMnF4cmxsUQ?oc=5",
+  "title": "AG→KS→APBC 연속 대박 터지나? '우승 중견수' 도쿄돔 입성 \"이번 대회에서도 무조건 1등 하고 싶다\" [오!쎈 도쿄]",
+  "published_at": "2026-11-11T10:00:00.000Z",
+  "collected_at": "2026-11-11T13:37:36.482Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 83,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9RVFV5c0Ytekg1LTVJNGNzYlJLWjhrWjgxV1dKdnRrX2NTYnlNMFNOaUhlc084eDJBQmo2OG9reTJ1YkpPZlFwNlJDUEhzaldfWldNdw?oc=5"
+    }
+  ]
+}

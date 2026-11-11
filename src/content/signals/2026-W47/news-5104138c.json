@@ -1,0 +1,22 @@
+{
+  "id": "news-5104138c",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "대구MBC",
+  "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBfcE1POGp5U0pkRzl0Z1V4U2djU0VlZWdfeVduaXZJQzE2RjJnYWRNRjd0SWZEMkNtNllCeXo3d3B3UTUxR0gwWWw5MFY?oc=5",
+  "title": "[만평] 삼성 V9, 정규리그 1위 누르고 한 우승의 감격",
+  "published_at": "2026-11-10T23:30:00.000Z",
+  "collected_at": "2026-11-11T13:37:36.482Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

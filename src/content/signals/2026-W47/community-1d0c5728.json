@@ -1,0 +1,23 @@
+{
+  "id": "community-1d0c5728",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 꼬보도.zip",
+  "url": "https://blog.naver.com/danby_zip/224471181489",
+  "title": "노시환 307억도 넘을까…26세 원태인, 역대급 투수 FA 몸값 전망",
+  "published_at": "2026-11-11T11:36:00.000+09:00",
+  "collected_at": "2026-11-11T13:37:36.482Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

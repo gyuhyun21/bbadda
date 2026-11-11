@@ -1,0 +1,28 @@
+{
+  "id": "youtube-bab72a3b",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "기아타이거즈 KIA TIGERS",
+  "url": "https://www.youtube.com/watch?v=9cVpdMYBUHY",
+  "title": "'스텝은 이렇게' 日 골든글러브 출신이 알려주는 내야 수비 훈련 [2026 마무리캠프]",
+  "published_at": "2026-11-11T09:21:20Z",
+  "collected_at": "2026-11-11T13:37:36.482Z",
+  "summary_ko": "KIA 공식 채널이 일본 골든글러브 출신 코치의 내야 수비 스텝 훈련 영상을 올렸다.",
+  "metrics": {
+    "views": 84077,
+    "likes": 2218,
+    "comments": 297
+  },
+  "scores": {
+    "hot": 79,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "日 골글 코치의 수비 스텝"
+}

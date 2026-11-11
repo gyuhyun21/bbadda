@@ -1,0 +1,23 @@
+{
+  "id": "news-f6cd6300",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "마이데일리",
+  "url": "https://mydaily.co.kr/page/view/2026111115561389271",
+  "title": "KIA에 FA 호령존을 대체할 선수는 많다, 박재현·박정우에 김민규까지…그런데 1년 검증은 안 됐다",
+  "published_at": "2026-11-11T09:00:00.000Z",
+  "collected_at": "2026-11-11T13:37:36.482Z",
+  "summary_ko": "마이데일리는 FA로 나간 김호령의 수비를 박재현·박정우·김민규가 대신할 수 있지만 1년 검증은 안 됐다고 짚었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "김호령 빈자리, 대안은 셋"
+}

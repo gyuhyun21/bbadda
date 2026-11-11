@@ -1,0 +1,22 @@
+{
+  "id": "news-8ea191c3",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "대구신문",
+  "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1UaEg0YVV6VDNpMUs2MjVVUm5sdU92ampLV1JtZmtfOGdza0xDRkZxX1h0X09JX3c5RXl0X3lSNVo1Q1hMSVhhdEdwMVdtaW5HZmp1UXhvcUFZaGd2Z1RpSUR1SGs5MWhyTkdF?oc=5",
+  "title": "믿음으로 키운 내야 듀오, 삼성 우승 주역 되다",
+  "published_at": "2026-11-11T12:14:21.000Z",
+  "collected_at": "2026-11-11T13:37:36.482Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

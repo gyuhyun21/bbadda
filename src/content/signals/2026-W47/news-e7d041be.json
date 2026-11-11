@@ -1,0 +1,22 @@
+{
+  "id": "news-e7d041be",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "news",
+  "source_name": "서울신문",
+  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1KWWJXLWREWnhqakZZYXlZaVl0X3Y0SHBwMEFtLXdKbXRQWmk0M0lqWkRpSGlEbGJiVU5JNnk4Uk1fU19fWXVjM24tdy1QSGdUa0lTc29hYw?oc=5",
+  "title": "선수 출신 단장 흐름 거스른 SSG...김재현 단장 손 놓고 프런트 출신 운영담당 선임",
+  "published_at": "2026-11-11T08:47:08.000Z",
+  "collected_at": "2026-11-11T13:37:36.482Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

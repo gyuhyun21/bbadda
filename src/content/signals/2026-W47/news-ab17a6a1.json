@@ -1,0 +1,20 @@
+{
+  "id": "news-ab17a6a1",
+  "issue": "2026-W47",
+  "module": "league",
+  "teams": [],
+  "source_type": "news",
+  "source_name": "https://www.asportstv.kr/",
+  "url": "https://www.asportstv.kr/news/articleView.html?idxno=2212",
+  "title": "[A-포커스] 345경기 꽉 들어찼다… 관중 감당 못 하는 프로야구장 '비상'",
+  "published_at": "2026-11-11T07:57:45.000Z",
+  "collected_at": "2026-11-11T13:37:36.482Z",
+  "summary_ko": "A스포츠는 올해 345경기가 매진됐다며 관중을 감당하지 못하는 야구장 문제를 짚었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 82,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "345경기 매진, 야구장이 모자라다"
+}

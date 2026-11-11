@@ -1,0 +1,24 @@
+{
+  "id": "community-c9b66951",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 슬기로운 머니생활",
+  "url": "https://blog.naver.com/woqhd98/224472941464",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/KIYGUEwr1wr",
+  "title": "2026 APBC 호주전 선발 김민준, 신인이 첫 경기 선발로 나서는 이유는?",
+  "published_at": "2026-11-11T14:10:00.000+09:00",
+  "collected_at": "2026-11-11T13:37:36.482Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

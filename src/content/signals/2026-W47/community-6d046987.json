@@ -1,0 +1,23 @@
+{
+  "id": "community-6d046987",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 야구를 알려주는 남자",
+  "url": "https://yaalnam.tistory.com/78",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/3PBZwfKsJNh",
+  "title": "KIA 타이거즈 입문, 처음 응원하는 사람을 위한 안내",
+  "published_at": "2026-11-11T15:51:02.000+09:00",
+  "collected_at": "2026-11-11T13:37:36.482Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

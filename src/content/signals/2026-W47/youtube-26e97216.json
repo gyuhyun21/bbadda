@@ -1,0 +1,26 @@
+{
+  "id": "youtube-26e97216",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "youtube",
+  "source_name": "크보쌍둥이",
+  "url": "https://www.youtube.com/watch?v=A_z-dFfP5Lo",
+  "title": "박병호 이성열 키움코치 합류! 안우진 \"ML 보다 키움 탈꼴지 압장선다!\" #키움히어로즈 #안우진 #박병호 #이성열",
+  "published_at": "2026-11-11T10:45:12Z",
+  "collected_at": "2026-11-11T13:37:36.482Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 2386,
+    "likes": 22,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 45,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

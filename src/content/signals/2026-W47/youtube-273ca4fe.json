@@ -1,0 +1,28 @@
+{
+  "id": "youtube-273ca4fe",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "BEARS TV",
+  "url": "https://www.youtube.com/watch?v=lzMASEvTR3U",
+  "title": "내 손이 어디 있는지 모를 만큼 영원히 돌아가는 방망이..🌀 | 타격 훈련 2편 [2026 마무리 캠프]",
+  "published_at": "2026-11-11T10:00:25Z",
+  "collected_at": "2026-11-11T13:37:36.482Z",
+  "summary_ko": "두산 공식 채널 BEARS TV가 마무리 캠프 타격 훈련 2편을 올렸다.",
+  "metrics": {
+    "views": 14782,
+    "likes": 480,
+    "comments": 122
+  },
+  "scores": {
+    "hot": 79,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "마무리캠프 타격 훈련 2편"
+}

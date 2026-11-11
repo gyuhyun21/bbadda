@@ -1,0 +1,24 @@
+{
+  "id": "news-691efab6",
+  "issue": "2026-W47",
+  "module": "rivalry",
+  "team": "lg",
+  "teams": [
+    "lg",
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "부산일보",
+  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE05LWZNNUVoby1KXzMxT0ZCYzNSblpXVDFaLUxrNjRYcTEyMUlSUzgwQ1p6RUJzS3kxU3BlNUxad0ozYTUwU1RQbzh4YmJIcTRwbkxEUmwxd0cwSG5pOTRlcmNlR3dXeVkzTGY1Y2IzR3Vfc25D?oc=5",
+  "title": "[밀물썰물] 우승 신문 구하기",
+  "published_at": "2026-11-11T08:57:33.000Z",
+  "collected_at": "2026-11-11T13:37:36.482Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

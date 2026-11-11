@@ -1,0 +1,29 @@
+{
+  "id": "news-6e69de16",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "announcement": true,
+  "source_name": "스타뉴스",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1UT0dzNms1Wlg2ME1YeFU3TjFpSGhfQS1xX1RHTGQtbjB2X0hPaEZmR1ozdDVwU3RBR3M3R3gxYjRlc0VYOGV1SG1WUnlLNUgzdUNNNi1kdlZQY0xobWtSaHB2aUZ0WU5OMm1maVAwR2pkMk5VY2c?oc=5",
+  "title": "[공식발표] 3년 연속 7위에 칼 빼들었다! 이동욱호 롯데, 2027년 코치진 대대적 개편... 김민성 1군 수비코치·채태인 퓨처스 타격코치 가세",
+  "published_at": "2026-11-11T09:01:00.000Z",
+  "collected_at": "2026-11-11T13:37:36.482Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1FbVNrTlFJMDdqel93b18yUU54UmYwLUZBeDhqRW5hU0tGOW0yMlJ3dEFPM0Z6dXhfSGhZLXVUZHlZVzJVWHRza0p5TnlTSzJXb1I4UHpCRlN1RHI5c2c5YTFjblFqVVZzY0xjUHZ5Z9IBb0FVX3lxTE1FbVNrTlFJMDdqel93b18yUU54UmYwLUZBeDhqRW5hU0tGOW0yMlJ3dEFPM0Z6dXhfSGhZLXVUZHlZVzJVWHRza0p5TnlTSzJXb1I4UHpCRlN1RHI5c2c5YTFjblFqVVZzY0xjUHZ5Zw?oc=5"
+    }
+  ]
+}

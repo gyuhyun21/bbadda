@@ -1,0 +1,26 @@
+{
+  "id": "youtube-99c8aa07",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "RangQ",
+  "url": "https://www.youtube.com/watch?v=oyV0afoKnKo",
+  "title": "지극히 개인적인 V9에 대하여 #라디오 #나긋나긋 #수면라디오 #삼성라이온즈 #삼성라이온즈우승 #V9",
+  "published_at": "2026-11-11T11:46:45Z",
+  "collected_at": "2026-11-11T13:37:36.482Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 234,
+    "likes": 6,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 47,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

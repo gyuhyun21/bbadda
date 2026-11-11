@@ -1,0 +1,23 @@
+{
+  "id": "community-ee429749",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 금떵이할배 이야기",
+  "url": "https://blog.naver.com/golden-poop/224472942939",
+  "title": "⚾ [블로그TV 특별 기부 챌린지: KBO 진출 영건스 vs 불꽃파이터즈 사랑의 기부금 대축제]",
+  "published_at": "2026-11-11T14:12:00.000+09:00",
+  "collected_at": "2026-11-11T13:37:36.482Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

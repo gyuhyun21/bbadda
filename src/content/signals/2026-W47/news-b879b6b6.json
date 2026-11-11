@@ -1,0 +1,23 @@
+{
+  "id": "news-b879b6b6",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBiMFBGUGx6N3JVVUxmeTl3X0hXMm0wTmRwVy1aOTRtTkpEeWktRVB4UUVwcnZ0ZWxMcTR6U0k3TmluQWRHQU55Ym92VnpvbXBuQ3l3eXl6SlQxOVZWdEZnVUlKMkNKYjdGa0NMVlBlVdIBb0FVX3lxTFBiMFBGUGx6N3JVVUxmeTl3X0hXMm0wTmRwVy1aOTRtTkpEeWktRVB4UUVwcnZ0ZWxMcTR6U0k3TmluQWRHQU55Ym92VnpvbXBuQ3l3eXl6SlQxOVZWdEZnVUlKMkNKYjdGa0NMVlBlVQ?oc=5",
+  "title": "\"난 몸으로 터득했는데, 어떻게 설명해야할까? 궁금했다\"…코치 아닌 코디, '짐승'은 왜 그라운드 아닌 연구실 향했나 [오!쎈 오키나와]",
+  "published_at": "2026-11-11T08:39:00.000Z",
+  "collected_at": "2026-11-11T13:37:36.482Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

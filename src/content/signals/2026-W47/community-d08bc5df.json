@@ -1,0 +1,24 @@
+{
+  "id": "community-d08bc5df",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 생활비 달력",
+  "url": "https://diary36140.tistory.com/114",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/702BIsN191e",
+  "title": "김지찬이 우승 이틀 뒤 워크숍보다 국가대표가 더 중요하다고 한 이유",
+  "published_at": "2026-11-11T21:44:58.000+09:00",
+  "collected_at": "2026-11-11T13:37:36.482Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

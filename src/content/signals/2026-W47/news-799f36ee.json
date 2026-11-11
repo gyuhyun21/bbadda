@@ -1,0 +1,23 @@
+{
+  "id": "news-799f36ee",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "EPN엔피나우",
+  "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBpQjNMUTRXYjI2dUpvUjloQ1VubmlRM3hCNUM0TXFZcG5rRmd1ZzM3UndSRzBSeDVpR05aTHp6Zjczc2RlYzZUSWdyMGd6d0R3b2otbXVHMVM2N29aTmwyd0pfVm9rcFk1OTFiZtIBbEFVX3lxTFBpQjNMUTRXYjI2dUpvUjloQ1VubmlRM3hCNUM0TXFZcG5rRmd1ZzM3UndSRzBSeDVpR05aTHp6Zjczc2RlYzZUSWdyMGd6d0R3b2otbXVHMVM2N29aTmwyd0pfVm9rcFk1OTFiZg?oc=5",
+  "title": "김도영, ‘도쿄돔 홈런 기억 재현할까’…APBC 호주전에 선발 출격",
+  "published_at": "2026-11-11T08:21:19.000Z",
+  "collected_at": "2026-11-11T13:37:36.482Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "news-eaeb0035",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "뉴스1",
+  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBYZllGOHZJcWs4VDRzcWlqYmQyeVVkLU5uaWVOb1VJUTdCRXpBY2tKNmdZckxvNmt0a1Z2d0VWZGNyVnZLdFhyT29qNXJDa25DY3U3VDV3Yw?oc=5",
+  "title": "'KS 우승 한 푼' 강민호, 마이크 잡는다…APBC 한일전 특별 해설",
+  "published_at": "2026-11-11T07:56:45.000Z",
+  "collected_at": "2026-11-11T13:37:36.482Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 82,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBPWGVEZG5wMjdfckxQRHBrR3NjVXhHWTRYSlpKZFFac3pWeWlTa0g5d1FMcU1IMnA3ODNZVXhLVVR6VHhsbGtYQ2pHOTFTYzhWVXAyRzNsWHZ3WkhQM0puSFNlYXZNdmluSUHSAW9BVV95cUxPXzRWeWV6TnRvTEJ1S2Y3QjNLNXVoZU0zVzBIdllmd2dnXzF2NDhSR2k4X3hNOF9LNTVaX2tJWG9rTUJJZXc2NEVqc2tNOTdMblNyekdYeW5jbEtsN195T0VuRy1qMVNCcEt0bFZ6RGM?oc=5"
+    },
+    {
+      "source_name": "스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5TQ1dOQUNvUnVVaDBxRENjZVVDZXRIWDcyTVc2SFJHLWtyQXZVTnVybEljX2paUEJEZWxiYm1uckFfQ09POFpORmV4R2NkblRhb3haUi1Hc2VQdDhHOXBENTQ1TTNKYUE4V0JTczZaZTVudGI2S2c?oc=5"
+    }
+  ]
+}

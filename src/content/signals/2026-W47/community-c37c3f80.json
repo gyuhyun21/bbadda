@@ -1,0 +1,23 @@
+{
+  "id": "community-c37c3f80",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 오프더레코드 스포츠",
+  "url": "https://blog.naver.com/offtherecordsports/224472521767",
+  "title": "\"임기 안에 우승할 수 있도록\" 약속 지킨 박진만, 23억 계약서를 다시 쓴다면 들어갈 숫자",
+  "published_at": "2026-11-11T12:20:00.000+09:00",
+  "collected_at": "2026-11-11T13:37:36.482Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-e170d10f",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "SPOTV NEWS",
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB3cEVxaDN4LVFodld6N016a0FCSi1hTnZwWmVVN1RBcjlZSlR4MGlXckNmUjk1dHk5Yzd5Q0c4b3dlUGJQQzFYeGRmc3pXek9GNHFxM21FX0JzSGRBOXlHWTZMR0dhZjIzT1RYVUY3RWY?oc=5",
+  "title": "\"이 친구 재밌네\" 그 선수가 호주전 선발 등판한다!…韓 대표팀, 왜 20세 신인에게 중책 맡겼나 [APBC]",
+  "published_at": "2026-11-11T11:24:00.000Z",
+  "collected_at": "2026-11-11T13:37:36.482Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

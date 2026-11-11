@@ -1,0 +1,26 @@
+{
+  "id": "youtube-45e65a44",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "youtube",
+  "source_name": "크보시리즈",
+  "url": "https://www.youtube.com/watch?v=Pu1XA0eYvnE",
+  "title": "최고 투수도 승수 질문엔 쓰읍 #두산베어스 #곽빈",
+  "published_at": "2026-11-11T11:46:37Z",
+  "collected_at": "2026-11-11T13:37:36.482Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1087,
+    "likes": 13,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 43,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

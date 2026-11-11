@@ -1,0 +1,23 @@
+{
+  "id": "news-4e9a08f5",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "경북신문",
+  "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5hYm9LMDBuaHN6WW41dGdNX3BXNlEtQU90d0xnaGhZbHdIY0RKRzFhT2xSQ3R6dldtMEtaZ0RHWThEZkplRUhkLXdMajN4dXNJWFo3eEJlWGw?oc=5",
+  "title": "[사설] 분주해진 삼성그룹… 야구 인연과 교훈",
+  "published_at": "2026-11-11T01:03:49.000Z",
+  "collected_at": "2026-11-11T13:37:36.482Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

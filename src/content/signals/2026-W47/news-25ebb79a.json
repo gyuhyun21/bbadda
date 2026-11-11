@@ -1,0 +1,22 @@
+{
+  "id": "news-25ebb79a",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠월드",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5FZmNsS19WTlY1X0R5MEhXV01yUnJySDZhOVdadUdlcW1Kd2pYTTdzRklNZ1V2dEFTcVpVUGdMX3JJdi10d1ZMbUlESW5SRlBoNDlWZW13QWJBUzQ4NEJlSkRR?oc=5",
+  "title": "[SW포커스] 치밀한 설계와 실행…삼성이 제시한 새 우승 공식",
+  "published_at": "2026-11-11T09:10:54.000Z",
+  "collected_at": "2026-11-11T13:37:36.482Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

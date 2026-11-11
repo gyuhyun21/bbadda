@@ -1,0 +1,24 @@
+{
+  "id": "news-c95e0aea",
+  "issue": "2026-W47",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "마이데일리",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1wU0tnYnF4cEtHdkxMQ0FpLVZDSkc5TThuQVoyUXBKdHJHUUFCY2pFNGxIOXJuVXB2WE9Zb3FacVBuWmpuVlBSRWQzaGdQaVZVY1hyaVN4SG5jTWJTSEJ5eg?oc=5",
+  "title": "'미쳤다 홈런왕' 김도영 진짜 어떻게 막나, 대만 벌써부터 걱정이다…\"KIM 반드시 주의해야 할 위험한 타자, 화려하게 부활했다\"",
+  "published_at": "2026-11-11T10:41:00.000Z",
+  "collected_at": "2026-11-11T13:37:36.482Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 83,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

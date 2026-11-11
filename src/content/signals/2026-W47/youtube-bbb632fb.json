@@ -1,0 +1,26 @@
+{
+  "id": "youtube-bbb632fb",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "숏파고",
+  "url": "https://www.youtube.com/watch?v=esb6hhDI3g8",
+  "title": "이번 삼성라이온즈 우승이 사실상 '불가능' 했던 이유..ㄷㄷ",
+  "published_at": "2026-11-11T09:37:15Z",
+  "collected_at": "2026-11-11T13:37:36.482Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 9740,
+    "likes": 131,
+    "comments": 8
+  },
+  "scores": {
+    "hot": 56,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}
