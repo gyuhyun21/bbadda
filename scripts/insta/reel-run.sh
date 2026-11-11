@@ -10,7 +10,6 @@ POST="${1:-}"; FALLBACK="${2:-false}"; LUNCH="${3:-false}"
 D=$(TZ=Asia/Seoul date +%F)
 G="https://graph.facebook.com/v21.0"; AUTH="Authorization: Bearer $TOKEN"
 say() { echo "$*" | tee -a "${GITHUB_STEP_SUMMARY:-/dev/null}"; }
-# fonts-noto-color-emoji: save pool 끝 컷 👆 등 이모지가 리눅스 조립에서 빈 네모로 나오지 않게(2026-11-11 규엔)
 prep() {
   [ -n "${PREPPED:-}" ] && return; PREPPED=1
   for t in 1 2 3; do timeout 300 sudo apt-get -qq update >/dev/null && timeout 300 sudo apt-get -qq install -y ffmpeg fonts-noto-cjk fonts-noto-color-emoji >/dev/null && break; echo "apt 재시도 $t"; sleep 10; done
