@@ -2,10 +2,11 @@
 # 릴스 게시 실행(ig-reel.yml 이 부름): reel-run.sh <폴더 이름|빈칸> <fallback: true|false>
 # 1) media/insta/<폴더>(입력 또는 media/insta/reel-queue.json 의 오늘 항목)를 게시. reel.mp4 가 있으면 그대로, 없고 reel.json 만 있으면 조립해서 insta-media 에 올리고 jsDelivr 주소로 게시
 #    (재료는 사이트 배포에 실리지 않게 public 밖 media/ 에 둔다 — 2026-10-24 Vercel 배포 용량 급증)
-# 2) 그게 실패했거나, fallback 실행(13:30 KST)인데 오늘 릴스가 아직 없으면: 가장 최근 자동 카드 세트(어제 밤 또는 오늘, insta-media)로 릴스를 만들어 게시 — 그날 릴스를 빠뜨리지 않는다(2026-10-24 주인)
+# 2) 점심 실행(12:30 KST, 3번째 인자 true): 오늘 점심 POOL 이 아직 없으면 media/insta/pool/ 다음 편을 큐에 먼저 기록(main 커밋)하고 게시 — 하루 4번째 칸(2026-11-11 이사님)
+# 3) 그게 실패했거나, fallback 실행(13:30 KST)인데 오늘 릴스가 아직 없으면: 가장 최근 자동 카드 세트(어제 밤 또는 오늘, insta-media)로 릴스를 만들어 게시 — 그날 릴스를 빠뜨리지 않는다(2026-10-24 주인)
 # 환경변수 TOKEN(출력 안 함), IG, GITHUB_REPOSITORY, GITHUB_STEP_SUMMARY
 set -euo pipefail
-POST="${1:-}"; FALLBACK="${2:-false}"
+POST="${1:-}"; FALLBACK="${2:-false}"; LUNCH="${3:-false}"
 D=$(TZ=Asia/Seoul date +%F)
 G="https://graph.facebook.com/v21.0"; AUTH="Authorization: Bearer $TOKEN"
 say() { echo "$*" | tee -a "${GITHUB_STEP_SUMMARY:-/dev/null}"; }
@@ -68,6 +69,26 @@ cards_post() {
   npx tsx scripts/insta/reel-make.ts "$dir" /tmp/reel.mp4
   say "대체 릴스(카드 $key, ${n}장): $(bash scripts/insta/reel.sh "$(upload /tmp/reel.mp4 "$D-cards")" /tmp/cap.txt)"
 }
+
+# 점심 칸: 큐의 "lunch" 칸(날짜 → "pool/<편>")에 오늘 것이 있으면 그 편(이미 올렸으면 main_post 가 건너뜀), 없으면 큐 어디에도 없는 가장 앞 번호 편.
+# 기록을 먼저 main 에 올리고 게시한다 — 오후 칸(맥 0단계)이 같은 편을 고르지 않게. 오늘 배열에도 더해 두면 게시가 실패해도 다음 큐 변경 때 다시 올린다
+lunch_post() {
+  prep
+  local Q=media/insta/reel-queue.json p=""
+  for t in 1 2 3; do
+    git fetch -q origin main; git checkout -q -f -B main origin/main
+    p=$(jq -r --arg d "$D" '.lunch[$d] // empty' "$Q")
+    [ -n "$p" ] && { say "점심 POOL 이미 기록됨: $p"; break; }
+    p=$(for k in $(ls -d media/insta/pool/*/ | xargs -n1 basename | sort); do [ -f "media/insta/pool/$k/post.json" ] && ! grep -qF "\"pool/$k\"" "$Q" && { echo "pool/$k"; break; }; done; true)
+    [ -n "$p" ] || { say "POOL 남은 편 없음 — 점심 칸 건너뜀"; return 0; }
+    jq --arg d "$D" --arg p "$p" '.[$d] = ((.[$d] // []) | if type == "array" then . else [.] end) + [$p] | .lunch[$d] = $p' "$Q" > /tmp/q.json && mv /tmp/q.json "$Q"
+    git commit -qm "reel-queue: $D 점심 $p" "$Q" && git push -q origin HEAD:main && break
+    say "큐 기록 push 실패($t) — 다시"; p=""; sleep 5
+  done
+  [ -n "$p" ] || { say "점심 칸 큐 기록 실패"; return 1; }
+  POST="$p"; main_post
+}
+if [ "$LUNCH" = true ]; then lunch_post; exit $?; fi
 
 # 오늘 항목은 폴더 이름 하나 또는 배열(하루 3개 — 아침·오후·저녁, 2026-10-27~). 이미 게시한 것은 main_post 가 본문으로 알아보고 건너뛴다
 if [ -z "$POST" ]; then POSTS=$(jq -r --arg d "$D" '.[$d] // empty | if type == "array" then .[] else . end' media/insta/reel-queue.json 2>/dev/null || true); else POSTS="$POST"; fi
