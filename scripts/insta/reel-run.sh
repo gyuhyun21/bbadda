@@ -31,7 +31,8 @@ posted_caption() { curl -sS -f -H "$AUTH" "$G/$IG/media?fields=caption&limit=15"
 reel_today() { curl -sS -f -H "$AUTH" "$G/$IG/media?fields=media_product_type,timestamp&limit=10" | jq -e --arg d "$D" 'any(.data[]; .media_product_type == "REELS" and ((.timestamp | sub("\\+0000$"; "Z") | fromdateiso8601) + 32400 | strftime("%Y-%m-%d")) == $d)' >/dev/null; }
 
 main_post() {
-  [[ "$POST" =~ ^[0-9a-z-]+$ ]] || { say "잘못된 폴더 이름: $POST"; return 1; }
+  # save pool 릴스(media/insta/pool/<편>, 2026-11-11 이사님 승인)는 큐에 "pool/<편>" 으로 넣는다 — 하위 폴더는 pool/ 하나만 허용
+  [[ "$POST" =~ ^(pool/)?[0-9a-z-]+$ ]] || { say "잘못된 폴더 이름: $POST"; return 1; }
   local dir="media/insta/$POST"
   jq -r '.reel_caption // .caption' "$dir/post.json" > /tmp/cap.txt
   if posted_caption /tmp/cap.txt; then say "이미 게시됨, 건너뜀: $POST"; return 0; fi
