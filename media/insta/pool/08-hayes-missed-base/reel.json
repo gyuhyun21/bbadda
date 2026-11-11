@@ -1,0 +1,105 @@
+{
+  "music": "bgm-morning",
+  "subStyle": "yt",
+  "outro": {
+    "hold": 1.5,
+    "fade": 0.5
+  },
+  "pool": {
+    "no": 8,
+    "series": "이거 알면 야구 고수",
+    "ep": 2,
+    "next": "10-manager-uniform",
+    "facts": "이서철 확인 2026-11-10(리서처/work/bbadda-pool-facts.md)",
+    "motion": "Remotion 컴포지션(scripts/insta/motion, 코드 PR feat/reel-motion-pool3) · seconds=목소리+0.3"
+  },
+  "segments": [
+    {
+      "kind": "real",
+      "src": "clip1.mp4",
+      "from": 0,
+      "to": 12,
+      "credit": "TrueRGM",
+      "yt": "ASlxpm-0Jk4",
+      "say": "a1.mp3",
+      "text": "담장을 넘긴 홈런이 아웃으로 바뀐 적이 있어. 그것도 메이저리그에서.",
+      "kick": "야구 고수 #2",
+      "head": "홈런 치고<br><b>아웃</b>?",
+      "sub": "넘어간 홈런이 아웃으로?",
+      "note": "출처: MLB.com·ESPN(2021-06-08) · 영상: TrueRGM",
+      "fx": [
+        {
+          "at": 1.4,
+          "text": "동공 지진",
+          "style": "mind"
+        }
+      ]
+    },
+    {
+      "kind": "motion",
+      "src": "motion2.mp4",
+      "say": "a2.mp3",
+      "text": "홈런이어도 베이스를 순서대로 다 밟아야 점수가 돼.",
+      "kick": "공식야구규칙 5.06(b)(1)",
+      "head": "베이스는<br><b>전부</b> 밟아야",
+      "sub": "홈런도 베이스 전부 밟아야 득점",
+      "note": "출처: 공식야구규칙 5.06(b)(1)",
+      "motion_sec": 4.0,
+      "motion_note": "위에서 내려다본 다이아몬드. 주자 점이 홈→1루→2루→3루→홈 순서로 노란 선을 그리며 돌고, 지나가는 베이스마다 체크 표시가 켜진다.",
+      "composition": "diamond"
+    },
+    {
+      "kind": "real",
+      "src": "clip3.mp4",
+      "from": 0,
+      "to": 12,
+      "credit": "Starr Cards",
+      "yt": "Yzhyhw4xZHY",
+      "say": "a3.mp3",
+      "text": "이천이십일 년 피츠버그 헤이스가 일루를 안 밟고 지나쳤어. 다저스가 어필했고, 아웃.",
+      "kick": "2021년 6월 8일",
+      "head": "1루를<br><b>안 밟았다</b>",
+      "sub": "헤이스 1루 미밟음, 다저스 어필로 아웃",
+      "note": "출처: MLB.com·ESPN · 영상: Starr Cards",
+      "freeze": {
+        "at": 1.2,
+        "dur": 0.8
+      },
+      "fx": [
+        {
+          "at": 3.6,
+          "text": "아웃!",
+          "style": "pop"
+        }
+      ]
+    },
+    {
+      "kind": "motion",
+      "src": "motion4.mp4",
+      "say": "a4.mp3",
+      "text": "심판이 먼저 아웃을 부르지 않아. 수비가 어필해야만 아웃이 돼.",
+      "kick": "핵심은 어필",
+      "head": "심판이 아니라<br><b>수비가</b> 불러야",
+      "sub": "수비가 어필해야 아웃(5.09(c)(2))",
+      "note": "출처: 공식야구규칙 5.09(c)(2)",
+      "fx": [
+        {
+          "at": 0.4,
+          "text": "심판은 가만?",
+          "style": "think",
+          "pos": "low"
+        }
+      ],
+      "motion_sec": 4.0,
+      "motion_note": "같은 다이아몬드에서 1루만 빨갛게 깜빡이고, 수비 쪽에서 '어필' 말풍선이 뜬 뒤 화면 가운데에 'OUT' 도장이 찍힌다.",
+      "composition": "appeal"
+    }
+  ],
+  "end": {
+    "look": "profile",
+    "head": "알아 두면 더 재밌는<br><b>야구 이야기</b>",
+    "cta": "친구한테 퀴즈로 내 봐",
+    "say": "a5.mp3",
+    "text": "친구한테 퀴즈로 내 봐."
+  }
+}
