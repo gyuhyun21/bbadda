@@ -1,0 +1,22 @@
+{
+  "id": "news-fe36b412",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "Naver Blog",
+  "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeGplX2wxbk1RSk1HT3QzTnZ0QWtWNzRib1ZBcWxBc3Mybi1hVXpnaUcyYmlTdWNoNnFjdTR4Z1VMU2t1czNSMG9LRThkUEhtbVpEZ09VaDNYZHNncGtEWTZEOF9VaEFPMHo1UmZrcUlicFdYWXZsbm9MeGtwMlAzSUZfWDBkanBqNDR1MTFySzJpVFZQ?oc=5",
+  "title": "‘삼성에서의 21번째 시즌을 맞이할 수 있을까?’ 다음 시즌 거취에 관심이 모이고 있는, 삼성 백정현(KBO)",
+  "published_at": "2026-11-11T21:30:47.000Z",
+  "collected_at": "2026-11-11T21:37:39.016Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

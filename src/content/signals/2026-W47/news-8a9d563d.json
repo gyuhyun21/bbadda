@@ -1,0 +1,23 @@
+{
+  "id": "news-8a9d563d",
+  "issue": "2026-W47",
+  "module": "rivalry",
+  "team": "hanwha",
+  "teams": [
+    "hanwha",
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "더팩트",
+  "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5RcFBYQm0xTW90TlZmYVczelN2RlllQ1JiekNNWHlpZkJrdm9pdHBscXlEZGVCeE40T2xHZ2ZMR2ZCNkVkS3M5d3NsbFJRLXVnQloycjhpTHrSAVNBVV95cUxNckRfY0dhZWdkaDJQOXlvWHpyQ1VxSUw4ejFCUEhpcG5tNE1KX1ZzZTJ6Sk1rM2Y4WDRTdDNfWkZrUmpFS1BiZ2g3MHhmLTJwNW4yaw?oc=5",
+  "title": "KBO리그 트랜드는 ‘수비 야구’…‘수비 부실' 한화·롯데 주목 [김대호의 야구생각]",
+  "published_at": "2026-11-11T15:00:03.000Z",
+  "collected_at": "2026-11-11T21:37:39.016Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 90,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "community-390cd7bf",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 마데의 야구 칼럼",
+  "url": "https://blog.naver.com/da331/224472841086",
+  "title": "[KBO] 팔꿈치 수술 2번 왓슨, 한화는 옵션 없이 100만 달러",
+  "published_at": "2026-11-11T12:47:00.000+09:00",
+  "collected_at": "2026-11-11T21:37:39.016Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 62,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

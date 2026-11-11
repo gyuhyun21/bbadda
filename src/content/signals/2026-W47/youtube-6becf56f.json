@@ -1,0 +1,26 @@
+{
+  "id": "youtube-6becf56f",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "source_name": "지금팩트",
+  "url": "https://www.youtube.com/watch?v=ZhzKvc-bbtQ",
+  "title": "한화 복귀 대신 샌디에이고…와이스, 송성문과 한 팀",
+  "published_at": "2026-11-11T13:21:42Z",
+  "collected_at": "2026-11-11T21:37:39.016Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 5,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 10,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

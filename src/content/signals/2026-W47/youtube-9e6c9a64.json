@@ -1,0 +1,26 @@
+{
+  "id": "youtube-9e6c9a64",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": " WOw 라이온즈",
+  "url": "https://www.youtube.com/watch?v=S_rRWh9U7l8",
+  "title": "팀보다 위대한 선수#박승규#삼성라이온즈",
+  "published_at": "2026-11-11T12:27:07Z",
+  "collected_at": "2026-11-11T21:37:39.016Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1038,
+    "likes": 3,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 41,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

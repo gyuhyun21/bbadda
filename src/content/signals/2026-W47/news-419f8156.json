@@ -1,0 +1,22 @@
+{
+  "id": "news-419f8156",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스1",
+  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9SamtNTVpGSkhQbWhQRUxmc3FlT0NLUmJjbDhkMndGa19GSFhFbzBHVV9MVl9iaVVGSDh4bndEQUJjTThNR3lFekQyX1VQVnB6amtqRkdwMA?oc=5",
+  "title": "김성용 신임 SSG 단장 \"오프시즌 중요해…전력 극대화 고민할 것\"",
+  "published_at": "2026-11-11T21:15:00.000Z",
+  "collected_at": "2026-11-11T21:37:39.016Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

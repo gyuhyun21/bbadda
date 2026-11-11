@@ -1,0 +1,24 @@
+{
+  "id": "news-cc0f8781",
+  "issue": "2026-W47",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "조선일보",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQzZLcjg5cGdzVThzc0VrbVIwMk5SMmNzOTZrRGQ4MGVmNUgxcWU0eWc0bGduc3dMZXpLLUVvbUp2Y0w2TEo3bk5IR0JpcmFSeWlxdkIxQXJ4UGVvYXU0NFpqM0VNbk4xWXJuTmZEQkJKRFVrUlRqUGpKQzJLZTk0U053QQ?oc=5",
+  "title": "12홈런 친 3루수가 C등급이라고? 보상금 고작 1억3500...의외의 '초대박' 터지나",
+  "published_at": "2026-11-11T16:17:00.000Z",
+  "collected_at": "2026-11-11T21:37:39.016Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

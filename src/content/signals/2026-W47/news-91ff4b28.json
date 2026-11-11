@@ -1,0 +1,24 @@
+{
+  "id": "news-91ff4b28",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "FT스포츠",
+  "url": "https://www.ftimes.kr/news/articleView.html?idxno=41034",
+  "title": "“한국에서만 괴물인가?”…50홈런·158타점 삼성 디아즈, 미국·일본은 왜 조용한가",
+  "published_at": "2026-11-11T15:10:20.000Z",
+  "collected_at": "2026-11-11T21:37:39.016Z",
+  "summary_ko": "FT스포츠는 50홈런·158타점을 친 삼성 디아즈에게 미국·일본 구단이 조용한 이유를 짚었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 82,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "brief_ko": "디아즈, 해외 관심은 조용",
+  "hook_ko": "50홈런 158타점,\n美·日은 왜 조용?"
+}

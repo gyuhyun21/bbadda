@@ -1,0 +1,26 @@
+{
+  "id": "youtube-3598ef64",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "youtube",
+  "source_name": "와이제이",
+  "url": "https://www.youtube.com/watch?v=E7byBckODTg",
+  "title": "웃음소리가 듣기 좋아서 - 롯데자이언츠 박정민 (오늘부터 나흘간 야있날이다!!!) - 출처:자티비",
+  "published_at": "2026-11-11T17:23:17Z",
+  "collected_at": "2026-11-11T21:37:39.016Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1317,
+    "likes": 6,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 45,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

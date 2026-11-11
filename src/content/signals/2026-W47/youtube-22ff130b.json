@@ -1,0 +1,27 @@
+{
+  "id": "youtube-22ff130b",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "쏙이슈",
+  "url": "https://www.youtube.com/watch?v=f3YfaXXcvW4",
+  "title": "가을에 KT를 만난 네 번, 최원태가 뛴 팀은 다 이겼다 #야구 #최원태 #쏙이슈",
+  "published_at": "2026-11-11T12:30:16Z",
+  "collected_at": "2026-11-11T21:37:39.016Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 13625,
+    "likes": 39,
+    "comments": 3
+  },
+  "scores": {
+    "hot": 56,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

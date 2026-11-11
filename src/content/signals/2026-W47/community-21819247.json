@@ -1,0 +1,23 @@
+{
+  "id": "community-21819247",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 식단노트 저장창고",
+  "url": "https://mynews3908.tistory.com/152",
+  "title": "KIA–삼성 플레이오프 평균 시청률 7.78%로 1위｜5경기 누적 884만4333명",
+  "published_at": "2026-11-12T02:22:58.000+09:00",
+  "collected_at": "2026-11-11T21:37:39.016Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

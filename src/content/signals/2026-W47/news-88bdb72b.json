@@ -1,0 +1,24 @@
+{
+  "id": "news-88bdb72b",
+  "issue": "2026-W47",
+  "module": "rivalry",
+  "team": "ssg",
+  "teams": [
+    "ssg",
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "일간스포츠",
+  "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9VM2E3NU1VSTFSRHpWRllXa3RnZjdZNFJjNVVRMmpSU2VWWVhFM1NrVkpOcVQ0RXZpYUtrZ29FQXJBX25PNWpLaHlPNjFWcGI0VzB5NHAxZEo1NFE?oc=5",
+  "title": "날씨도, 비시즌도 걱정 없다…돔구장이 바꾸는 야구의 미래 [IS 서포터즈]",
+  "published_at": "2026-11-11T20:00:00.000Z",
+  "collected_at": "2026-11-11T21:37:39.016Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

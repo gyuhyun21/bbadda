@@ -1,0 +1,22 @@
+{
+  "id": "news-2185efe3",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "영남경제",
+  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1XaHQzTVpzTlZIeWZ5WkNJRWxmUkhnb05NR1NNdDBCQXZRNnVaWWNSSzZPM0JfVExGckNROWRGb0FLaHNMWFR6OHpIR0F5UWpndk9sZ1hpbG9aZ2c2WE96YkNfb1ltNmM?oc=5",
+  "title": "[김진욱 칼럼]삼성이 우승했다, 이젠 대구가 뛸 차례다",
+  "published_at": "2026-11-11T09:51:10.000Z",
+  "collected_at": "2026-11-11T21:37:39.016Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

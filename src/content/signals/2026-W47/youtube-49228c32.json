@@ -1,0 +1,26 @@
+{
+  "id": "youtube-49228c32",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "youtube",
+  "source_name": "크보시리즈",
+  "url": "https://www.youtube.com/watch?v=koTsUUzrZQY",
+  "title": "최지훈 60억대 중반? 혜자 맞네 #SSG랜더스 #최지훈",
+  "published_at": "2026-11-11T13:40:05Z",
+  "collected_at": "2026-11-11T21:37:39.016Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 3374,
+    "likes": 8,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 48,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

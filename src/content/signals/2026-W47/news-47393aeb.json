@@ -1,0 +1,23 @@
+{
+  "id": "news-47393aeb",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "마이데일리",
+  "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ibGFKQUFrLUVkZGVQbjV1XzV1eXZtUDZDY1FVT181QXllZnpMMmJFbnI5TmRBeHVOYkxpYXZoc1hYYzhDbUdqa3VlT1JGaHVNcUx2Q0RaMDhaU1I1M282SVI1Y21ydw?oc=5",
+  "title": "“노시환 수비력 꾸준히 향상, KBO 최고 3루수” 美드디어 인정…뉴욕 메츠 급관심? 디테일한 정보 눈길",
+  "published_at": "2026-11-11T21:00:00.000Z",
+  "collected_at": "2026-11-11T21:37:39.016Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

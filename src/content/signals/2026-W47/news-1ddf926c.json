@@ -1,0 +1,23 @@
+{
+  "id": "news-1ddf926c",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "스타뉴스",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBta3ZVMEZDYlBQZno2ZkV5dzcwd0l5YzUteVlybm92Y2U0ODB1Vy1nVTgxYTJDNER0bFoxMTBFLW8yWEJ1YW5ySVBPX01TU3BqS1FiY1lKOHBDYm5iZWZIZjRXQXdjWm04dEo1QzNDajZ0UHRiM3c?oc=5",
+  "title": "\"한국 야구에 관심 없나\" 이승엽 한마디에 롯데 왔다! 日 명문 포수 코치 부산행... 14년 전 사직구장서 홈런도 친 '묘한 인연'",
+  "published_at": "2026-11-11T18:33:00.000Z",
+  "collected_at": "2026-11-11T21:37:39.016Z",
+  "summary_ko": "스타뉴스는 이승엽 감독의 한마디를 계기로 일본 명문 구단 출신 포수 코치가 롯데에 왔다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "brief_ko": "이승엽 한마디에 日 포수 코치 합류"
+}

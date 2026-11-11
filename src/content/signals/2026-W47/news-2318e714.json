@@ -1,0 +1,22 @@
+{
+  "id": "news-2318e714",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9RLUFPeXJJeU9JOGlLdHpRZ3ZNUmVBaXloTTdZZWtXbDJzX0xoMWJRNVlOakFpZl9leDVhT2ZHZFAzV0duUTdnV3ZtMjRIcDJ5bDB1T1dnSjVUaE5DTzQ4bkxYMUxFcWs4dFpmVmh2bERDc2tob1plXzZ3MjlCUQ?oc=5",
+  "title": "동욱 앤 택근, 이미 가진 데이터 '분석 중!' → 롯데 똑똑한 야구, 이번엔 할 수 있나",
+  "published_at": "2026-11-11T15:03:17.000Z",
+  "collected_at": "2026-11-11T21:37:39.016Z",
+  "summary_ko": "스포츠조선은 이동욱 감독과 이택근 단장이 이미 가진 데이터를 분석하며 롯데의 똑똑한 야구를 준비한다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

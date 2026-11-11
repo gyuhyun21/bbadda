@@ -1,0 +1,26 @@
+{
+  "id": "youtube-8508bf8a",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "이카툰 EEECARTOON",
+  "url": "https://www.youtube.com/watch?v=i5zTgtfUicc",
+  "title": "삼성 라이온즈 우승의 순간을 애니메이션으로 만든다면",
+  "published_at": "2026-11-11T12:04:09Z",
+  "collected_at": "2026-11-11T21:37:39.016Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 4490,
+    "likes": 192,
+    "comments": 21
+  },
+  "scores": {
+    "hot": 85,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}
