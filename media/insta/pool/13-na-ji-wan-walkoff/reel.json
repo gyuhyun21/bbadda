@@ -1,0 +1,52 @@
+{
+  "music": "bgm-morning",
+  "subStyle": "yt",
+  "outro": { "hold": 1.5, "fade": 0.5 },
+  "pool": { "no": 13, "series": "그날의 야구", "ep": 5, "facts": "센세 확인 2026-11-13(기사 2곳 이상, PR 본문 표)" },
+  "segments": [
+    {
+      "src": "clip1.mp4", "from": 0, "to": 12, "credit": "홀드왕(SBS 중계)", "yt": "XRUFR6J4T14",
+      "say": "a1.mp3", "text": "한국시리즈 칠차전 구회 말, 동점에서 공 하나로 우승이 갈렸어.",
+      "kick": "그날의 야구 #5", "head": "공 하나로<br><b>우승</b> 결정", "sub": "KS 7차전 9회 말, 한 방으로 끝",
+      "note": "출처: 엑스포츠뉴스·OSEN · 영상: 홀드왕(2009 KS 7차전 SBS 중계)",
+      "fx": [{ "at": 2.4, "text": "소름", "style": "mind" }]
+    },
+    {
+      "src": "clip2.mp4", "from": 0, "to": 14, "credit": "KBS1(이름성)", "yt": "djj8zTDJHec",
+      "say": "a2.mp3", "text": "이천구 년 시월 이십사 일, 기아와 에스케이의 한국시리즈 칠차전. 사회 박정권의 투런 홈런으로 에스케이가 먼저 앞서 나갔어.",
+      "kick": "2009.10.24 한국시리즈 7차전", "head": "SK가<br><b>먼저</b> 앞섰다", "sub": "4회 박정권 선제 투런",
+      "note": "출처: 데일리안·엑스포츠뉴스 · 영상: KBS1 하이라이트",
+      "fx": [{ "at": 5.0, "text": "선제 투런", "style": "pop" }]
+    },
+    {
+      "src": "clip3.mp4", "from": 0, "to": 12, "credit": "광주MBC", "yt": "a76a0tQQwC0",
+      "say": "a3.mp3", "text": "기아가 따라붙으면서 승부는 오 대 오 동점이 됐고, 그대로 구회 말까지 갔어.",
+      "kick": "따라붙은 KIA", "head": "5:5<br><b>동점</b>", "sub": "5-5 동점으로 9회 말까지",
+      "note": "출처: 엑스포츠뉴스·OSEN · 영상: 광주MBC",
+      "fx": [{ "at": 1.8, "text": "5:5", "style": "pop" }]
+    },
+    {
+      "src": "clip4.mp4", "from": 0, "to": 16, "credit": "MBC ESPN(Mr.Chu)", "yt": "1oBUZOK-uRI",
+      "say": "a4.mp3", "text": "에스케이는 마무리 채병용을 올렸어. 원아웃, 타석엔 나지완. 그리고 육구째 높은 공.",
+      "kick": "9회 말 1사", "head": "채병용 vs<br><b>나지완</b>", "sub": "채병용의 6구째 높은 공",
+      "note": "출처: 엑스포츠뉴스·Wikipedia · 영상: MBC ESPN 중계",
+      "zoom": { "at": 2.8, "dur": 1.8 },
+      "fx": [{ "at": 2.4, "text": "두근두근", "style": "mind" }]
+    },
+    {
+      "src": "clip5.mp4", "from": 0, "to": 16, "credit": "SBS(주댕이)", "yt": "avJYt5Dx9fc",
+      "say": "a5.mp3", "text": "좌측 담장을 넘는 끝내기 솔로 홈런. 육 대 오로 기아가 십이 년 만에 열 번째 우승을 했고, 나지완은 시리즈 엠브이피가 됐어.",
+      "kick": "6-5 끝내기", "head": "12년 만의<br><b>V10</b>", "sub": "끝내기 솔로, 12년 만의 V10·MVP",
+      "note": "출처: 엑스포츠뉴스·OSEN·Wikipedia · 영상: SBS 중계(한명재 캐스터)",
+      "flash": { "at": 0.4, "dur": 0.2 },
+      "fx": [{ "at": 0.4, "text": "쾅!", "style": "sfx" }]
+    }
+  ],
+  "end": {
+    "look": "profile",
+    "head": "알아 두면 더 재밌는<br><b>야구 이야기</b>",
+    "cta": "직관한 사람 댓글로 손!",
+    "say": "a6.mp3",
+    "text": "이 장면 직관한 사람, 댓글로 손 들어 줘."
+  }
+}
