@@ -70,9 +70,11 @@
     "2026-11-11-night"
   ],
   "lunch": {
-    "2026-11-11": "pool/01-kbo-first-game"
+    "2026-11-11": "pool/01-kbo-first-game",
+    "2026-11-12": "pool/03-jang-myung-boo-30"
   },
   "2026-11-12": [
-    "2026-11-12-reel"
+    "2026-11-12-reel",
+    "pool/03-jang-myung-boo-30"
   ]
 }
