@@ -2,14 +2,15 @@
 
 claude.ai 루틴 'BBADDA 인스타 점검(매일)'이 매일 09:41 KST 에 아래 프롬프트를 실행한다.
 재료: `ig-insights.yml`(08:53, 우리 계정 성과 → insta-media `stats/<날짜>.json`), `ig-research.yml`(09:07, 경쟁 계정 → insta-media `research/<날짜>.json`).
-결과: `docs/insta-log.md` 맨 위에 그날 항목. 릴스 루틴(`docs/reel-routine.md`)이 그 '지금 적용'을 따른다.
+결과: `docs/insta-log.md` 맨 위에 그날 항목. 릴스 루틴(`docs/reel-routine.md`)이 그 '지금 적용'을 따르고, 센세가 그날 곡을 고를 때 '트렌드 음원·밈' 칸을 쓴다.
+트렌드 음원·밈(2026-11-12 이사님): 잔잔한 곡도 실책·패배 장면에 맞을 수 있고, 상황과 반대되는 음악도 밈이다. 곡 분위기로 미리 거르지 않고, 그 곡이 어떤 상황에 어떻게 쓰이는지를 본다.
 
 ```
 너는 BBADDA(빠따닷컴) 인스타 담당이다. CLAUDE.md, docs/insta-style.md, docs/reel-routine.md, docs/insta-log.md, 이 문서를 읽고 따른다.
 
 0. 오늘(KST) 날짜 D. docs/insta-log.md 에 "## D" 항목이 이미 있으면 끝낸다.
    git fetch origin +refs/heads/insta-media:refs/remotes/origin/insta-media 후 git show 로 읽는다:
-   stats/ 최근 7일(없는 날은 건너뜀), research/ 가장 최근 파일. 오늘 stats 가 없으면 "자료 없음"만 요약하고 PR 없이 끝낸다.
+   stats/ 최근 7일(없는 날은 건너뜀), research/ 가장 최근 파일. 오늘 stats 가 없으면 1~3단계는 "자료 없음" 한 줄로 두고 3-1단계(트렌드 음원·밈)만 해서 항목을 만든다.
 1. 우리 계정(오늘 stats):
    - 게시물마다 조회(views)·도달(reach)·저장·공유·반응, 릴스는 평균 시청(ig_reels_avg_watch_time, ms → 초).
    - 어제보다 늘어난 조회(같은 id 의 전날 stats 와 비교)로 '지금도 퍼지는 것'을 찾는다.
@@ -20,12 +21,17 @@ claude.ai 루틴 'BBADDA 인스타 점검(매일)'이 매일 09:41 KST 에 아�
    - 같은 결론이 3일 연속이면 docs/insta-style.md 의 해당 절(2-1절 예시·11절 구성)에 반영한다(날짜·근거 함께).
    - 게시 시각·개수·자동화(코드·워크플로·루틴 시간) 변경은 고치지 않고 PR 본문 맨 위 '제안'에 적는다.
    - CLAUDE.md·저작권 규칙(insta-style 6·11절)은 바꾸지 않는다.
+3-1. 트렌드 음원·밈:
+   - 유행 음원: 환경변수 TOKEN·IG 가 있으면 `GET https://graph.facebook.com/v21.0/ig_audio?audio_type=music&user_id=$IG`(검색어 없음 = 유행 25곡)을 1회 읽는다. 토큰은 머리글(`Authorization: Bearer $TOKEN`)로만 보내고, 토큰·요청 주소 전체·오류 원문을 출력하거나 기록하지 않는다. 25곡의 순위·곡 id·제목·가수를 적고, 전날 insta-log 항목의 목록에 없던 곡은 "새"로 표시한다. TOKEN 이 없거나 읽기가 실패하면 "유행 목록 확인 못 함(이유 한 마디)"만 적고 지어내지 않는다.
+   - 쓰임 관찰 2~3건: 상위곡(새 곡 우선)이 스포츠·밈 릴스에서 어떤 상황에 붙는지 화면에서 본다. 각각 "상황에 맞춘 쓰임"(예: 실책·패배에 슬픈 곡)인지 "반대 분위기로 웃기는 밈"(예: 굴욕 기록에 들뜬 곡)인지 구분하고 출처 링크를 단다. 남의 영상·본문·이미지는 저장하지 않고 관찰 메모만(인용 15단어 이내). 볼 수 없으면 "관찰 못 함"으로 적는다.
+   - 제안 1~3줄: "이런 소식엔 이 곡(id)을 이런 방식으로"(예: "실책·역전패 소식엔 <곡>(id)을 맞춤형으로", "굴욕 기록엔 <곡>(id)을 반대 분위기 밈으로"). 곡은 위 25곡 안에서만 고른다.
 4. docs/insta-log.md 맨 위(제목 아래)에 "## D" 항목을 넣는다:
    - 표: 최근 7일 릴스 상위 3·하위 3(날짜·칸·첫 줄 20자·조회·평균 시청·저장+공유) [계산:insta-media stats/D.json]
    - 경쟁 아웃라이어 3줄 [계산:insta-media research/D.json]
    - 판단 2~4줄
    - "지금 적용:" 오늘 릴스 3개(아침·오후·저녁)가 따를 것 3줄 이내(예: "첫 장면은 경기 장면 썸네일 + 숫자 한 개", "저녁 칸은 결과 → 승부처 숫자 순").
+   - "트렌드 음원·밈:" 3-1단계 결과 — 유행 25곡(순위. 제목 — 가수 [id], 새 곡 표시) 한 줄씩, 쓰임 관찰 2~3줄(맞춤/반대 + 출처 링크), 제안 1~3줄. 센세가 그날 곡 고를 때 이 칸을 쓴다(`docs/reel-routine.md` 인스타 음원 절).
    30일 지난 항목은 지운다.
 5. 브랜치 daily/D-insta-review → PR(제목 "인스타 점검 (D)", 본문 = 그날 항목 + 제안) → npm run validate·npm test·npm run build 통과하면 머지(merge commit). docs/insta-log.md·docs/insta-style.md 말고는 고치지 않는다.
-6. 끝나면 한 단락 요약: 오늘 바꾼 것, 근거 숫자, PR 링크.
+6. 끝나면 한 단락 요약: 오늘 바꾼 것, 근거 숫자, 오늘 새로 들어온 유행 곡·음원 제안, PR 링크.
 ```
