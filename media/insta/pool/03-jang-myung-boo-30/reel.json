@@ -1,4 +1,9 @@
 {
+  "igAudio": {
+    "id": "2150015712260414"
+  },
+  "audioVolume": 30,
+  "videoVolume": 100,
   "music": "bgm-morning",
   "subStyle": "yt",
   "outro": {
