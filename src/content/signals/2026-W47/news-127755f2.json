@@ -1,0 +1,22 @@
+{
+  "id": "news-127755f2",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스웰",
+  "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9rQkNEUUJSMkRNX2w2ZFRaZ3RkVEhac19MRWhmbTZ3MzJYSUdfTHU0WHBpckhSRUVtMVJnMVRfelQ5TVJDa1VzZDVPNmJucVNHS0EyMzFPaWtGWjM5V0hQbFRFYlNvM3ZmMDdRUA?oc=5",
+  "title": "에버랜드, 삼성라이온즈 우승 공약 ‘V9 축제’ 연다",
+  "published_at": "2026-11-12T06:06:40.000Z",
+  "collected_at": "2026-11-12T13:37:53.259Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "community-2c3ca590",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 별난남매 생활이야기",
+  "url": "https://dns.beansooni.com/734",
+  "title": "[야구 정보] '26년 APBC 한국 vs 일본 전 선발투수 예상 및 전력분석 보기",
+  "published_at": "2026-11-12T22:32:48.000+09:00",
+  "collected_at": "2026-11-12T13:37:53.259Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

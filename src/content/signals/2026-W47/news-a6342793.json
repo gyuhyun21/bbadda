@@ -1,0 +1,23 @@
+{
+  "id": "news-a6342793",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "news",
+  "source_name": "경남신문",
+  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9kQ1V2SEx6b0gxSTFEZlVrQWpJSi1KVEpxSTgzaDlNV3BQUmd4QjZCeS1oTFBkQjRtM1lpU1ZJUXFBbExoM3NIMHZFa1VNNHF4VVlBdVhaMEtDQQ?oc=5",
+  "title": "[여기는 오키나와, NC 전지훈련지를 가다] 첫 캠프 참여한 박보승·우주로 인터뷰",
+  "published_at": "2026-11-12T12:19:57.000Z",
+  "collected_at": "2026-11-12T13:37:53.259Z",
+  "summary_ko": "경남신문은 오키나와 전지훈련에 처음 참여한 NC 박보승·우주로를 인터뷰했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "첫 캠프 박보승·우주로"
+}

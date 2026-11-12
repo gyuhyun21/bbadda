@@ -1,0 +1,22 @@
+{
+  "id": "news-3d5043d9",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "재경일보",
+  "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBJc3NCNXpoZ09Ed2QzUjMtcVl0N2h6dVdfMEYzTVpQX1VNWUM1LUtoT1k5MGVrZmRRWUJ6QzhlWkItVlhNWWlBY2t5QQ?oc=5",
+  "title": "에버랜드 삼성 우승 팬 2000명 초청…17일 V9데이 : 스포츠",
+  "published_at": "2026-11-12T09:34:18.000Z",
+  "collected_at": "2026-11-12T13:37:53.259Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

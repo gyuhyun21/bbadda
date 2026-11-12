@@ -1,0 +1,22 @@
+{
+  "id": "news-93d83962",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "news",
+  "source_name": "매일경제",
+  "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1IVmhfQ1FJWnRhRHZJUTNYenJVa2dQSGpUamd4cWtKUTVUUGxYelplZGFmVWlqOGFlbUtpOWw2SkpFWUFkdFE?oc=5",
+  "title": "4안타 1홈런 5타점 합작…호주전 충격패에도 빛난 ‘NC 듀오’ 김주원·김휘집의 맹활약 [APBC]",
+  "published_at": "2026-11-12T08:40:00.000Z",
+  "collected_at": "2026-11-12T13:37:53.259Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "mixed"
+}

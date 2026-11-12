@@ -1,0 +1,28 @@
+{
+  "id": "youtube-ba8bf1fa",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "Giants TV",
+  "url": "https://www.youtube.com/watch?v=Nalvt1dZm2M",
+  "title": "두려움 없이 과감하게! 내야 펑고 훈련🔥 | 2026 강화훈련 캠프",
+  "published_at": "2026-11-12T09:00:26Z",
+  "collected_at": "2026-11-12T13:37:53.259Z",
+  "summary_ko": "롯데 공식 채널 Giants TV가 강화훈련 캠프의 내야 펑고 훈련 영상을 올렸다.",
+  "metrics": {
+    "views": 44268,
+    "likes": 1048,
+    "comments": 245
+  },
+  "scores": {
+    "hot": 79,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "과감하게, 내야 펑고 훈련"
+}

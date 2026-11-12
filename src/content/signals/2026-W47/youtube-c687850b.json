@@ -1,0 +1,28 @@
+{
+  "id": "youtube-c687850b",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "NC 다이노스",
+  "url": "https://www.youtube.com/watch?v=oIvTzSDdoEA",
+  "title": "감독이 된 두 신인왕, 직접 꾸리는 26인 로스터! 🔥 | ROY 대전 드래프트",
+  "published_at": "2026-11-12T09:00:05Z",
+  "collected_at": "2026-11-12T13:37:53.259Z",
+  "summary_ko": "NC 공식 채널이 두 신인왕이 감독이 돼 26인 로스터를 직접 꾸리는 'ROY 대전 드래프트' 영상을 올렸다.",
+  "metrics": {
+    "views": 30006,
+    "likes": 1020,
+    "comments": 164
+  },
+  "scores": {
+    "hot": 86,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "두 신인왕의 26인 로스터 대결"
+}

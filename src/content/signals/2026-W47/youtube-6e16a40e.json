@@ -1,0 +1,27 @@
+{
+  "id": "youtube-6e16a40e",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "SSG랜더스",
+  "url": "https://www.youtube.com/watch?v=n85BDd6JiiY",
+  "title": "안녕 최광야구 1429👋",
+  "published_at": "2026-11-12T09:01:25Z",
+  "collected_at": "2026-11-12T13:37:53.259Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 26608,
+    "likes": 1018,
+    "comments": 137
+  },
+  "scores": {
+    "hot": 88,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

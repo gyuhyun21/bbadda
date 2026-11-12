@@ -1,0 +1,22 @@
+{
+  "id": "news-f47bca9a",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "news",
+  "source_name": "연합뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9yTHd6ZTlIR2w5ajBFUUU4YWhTVEExdURhYjFOeG1PY1hmVjNTdVVMdkVOZzJTYV83dkdqV1M3ZnVzMFgxcXBjMHNQQnBWbl9YYkNiWTRPaEtLZ2PSAWBBVV95cUxNZ2J1MWJybFhva3lJc1dZcFU0clY4d2VCRkVUbjBrRkpsY0RsR2dYME9hU0I2QkoyYmx0bFZvN3M3ZFlZTF8yMVJWNE1YZFBpTkhiT2UzNXduZm1ja09NSXA?oc=5",
+  "title": "SSG, '최고 시속 157㎞' 투수 리차드슨 영입…총액 100만달러",
+  "published_at": "2026-11-12T05:28:37.000Z",
+  "collected_at": "2026-11-12T13:37:53.259Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

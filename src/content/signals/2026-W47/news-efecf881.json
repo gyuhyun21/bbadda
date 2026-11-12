@@ -1,0 +1,24 @@
+{
+  "id": "news-efecf881",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "국제신문",
+  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOR0JXcE1tVEp6S0lYZlBBdkVQeWtMRW53bEhtZGhEU0l6empva2w0WnpucGRxTkNBamhYMXRyQ2lwcFMzeXlNdnNUeTc3ckVzVkdHNzhqdEh6YmI1R3RwWXRTSUcwVHFhOGxkeURGTDRFVmxKb2s0RFFBczl6QTZwTmxkYzNaNFZwNjY5MUt3?oc=5",
+  "title": "거인 미래 짊어진 약관의 세 어깨…‘데이터 야구’ 담금질",
+  "published_at": "2026-11-12T10:12:00.000Z",
+  "collected_at": "2026-11-12T13:37:53.259Z",
+  "summary_ko": "국제신문은 롯데의 미래를 짊어진 스무 살 투수 세 명이 데이터 야구로 담금질 중이라고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "스무 살 세 투수, 데이터 담금질"
+}

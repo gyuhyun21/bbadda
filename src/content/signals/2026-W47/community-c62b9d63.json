@@ -1,0 +1,24 @@
+{
+  "id": "community-c62b9d63",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&page=5&document_srl=10545938820",
+  "title": "대체 왜 사우루스가 사우르스로 된 걸까 - 야구",
+  "published_at": "2026-11-12T00:37:53.259Z",
+  "collected_at": "2026-11-12T13:37:53.259Z",
+  "summary_ko": "",
+  "excerpt": "... 사우러스여야 맞는 것 같은데. 1. [레벨:35] 벨가누스 20 분 전. Bears는 베어스인데 왜 tears는…",
+  "metrics": {},
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

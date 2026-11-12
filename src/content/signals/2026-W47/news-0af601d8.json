@@ -1,0 +1,23 @@
+{
+  "id": "news-0af601d8",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "news",
+  "source_name": "경인일보",
+  "url": "https://www.kyeongin.com/article/1774648",
+  "title": "[이슈&스토리] 시작은 창대했으나… ‘한국시리즈 준우승’ kt의 성과와 과제",
+  "published_at": "2026-11-12T09:09:53.000Z",
+  "collected_at": "2026-11-12T13:37:53.259Z",
+  "summary_ko": "경인일보는 한국시리즈 준우승을 거둔 KT의 올 시즌 성과와 남은 과제를 정리했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 80
+  },
+  "sentiment": "positive",
+  "brief_ko": "준우승 시즌, 남은 과제는"
+}

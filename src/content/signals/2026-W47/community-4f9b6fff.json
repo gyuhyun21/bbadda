@@ -1,0 +1,24 @@
+{
+  "id": "community-4f9b6fff",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 팽푸의 컬쳐로그",
+  "url": "https://culture-infolab.tistory.com/5",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/GpFCJdibSkB",
+  "title": "2026 APBC 야구 한일전 도쿄돔 경기 일정 / TV, 티빙, 스포티비 중계 / 선발 김진욱 & 강민호 특별 해설...",
+  "published_at": "2026-11-12T20:26:41.000+09:00",
+  "collected_at": "2026-11-12T13:37:53.259Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

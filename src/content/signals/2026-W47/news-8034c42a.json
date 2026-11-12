@@ -1,0 +1,24 @@
+{
+  "id": "news-8034c42a",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "일간스포츠",
+  "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBwNXVaVld3WmdDWUtHOHlsTTktQko2WGx5TmYteURENVF3QkQ5NmJzNFZuNmVKVjAxNllZaXZzRUF0dlBEeGpFcnBkQXlfZWlmYkhob0lFVVNxaWc?oc=5",
+  "title": "송구에 흔들리던 내야수가 우승 중견수로, 김지찬이 완성한 우승 리드오프 [IS 스타]",
+  "published_at": "2026-11-12T00:54:00.000Z",
+  "collected_at": "2026-11-12T13:37:53.259Z",
+  "summary_ko": "일간스포츠는 송구에 흔들리던 내야수 김지찬이 우승 중견수이자 리드오프로 자리 잡았다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "brief_ko": "김지찬, 내야수에서 우승 중견수로"
+}

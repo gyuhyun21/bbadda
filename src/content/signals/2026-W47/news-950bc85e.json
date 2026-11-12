@@ -1,0 +1,23 @@
+{
+  "id": "news-950bc85e",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "조선일보",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZW4ybUNRVy1tUm1FUEpUZEFBaDc0YjVqcE5oSmw3TXlqR1R1ZERqSmVZZElQeTBnMDh3cnFGX1JVYjdJY2JCVktET3pUVlNIVlpDdkZlcjREelpQLUtvM1ljb0ViM1J1cERUSXBDcnZCaHBiS3NHSW14TUxqdE01R0huUQ?oc=5",
+  "title": "'강민호 우승 공약 지킵니다' 팬 2000명과 함께 한국시리즈 우승 축하 파티",
+  "published_at": "2026-11-12T13:05:00.000Z",
+  "collected_at": "2026-11-12T13:37:53.259Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

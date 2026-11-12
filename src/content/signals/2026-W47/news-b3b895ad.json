@@ -1,0 +1,36 @@
+{
+  "id": "news-b3b895ad",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "news",
+  "source_name": "한스경제",
+  "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAwSEFZeWdCN2xFb3M3azZ2R2tmSldnUUkzMGVldEYtNFY4Vm9MOXBSUW5JQVQyOXRmOFhHLVpDb1ZESVdVaDR4OGdVQktXLUxvTEhmR3NpaVFnOHgwOVozX041dHRxTVVUVTdz0gFvQVVfeXFMTzB3LWJrTzhqclVDNHo2N1FHSWVkbHd4WjQ0QmM2UWdabk9Dbkpab29Bc243VXp6QkpaLXk4Q1lIWTQ2YTZyMzJTWUJjX3djd014bHFvVC1JdmkyYVpabGhjUjFYTzlRVjJidFFvTUxj?oc=5",
+  "title": "[부고] 류택현(프로야구 SSG 랜더스 前 코치) 씨 부친상",
+  "published_at": "2026-11-12T07:45:09.000Z",
+  "collected_at": "2026-11-12T13:37:53.259Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 90,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9oVUZpSndIYVB0VkIxd2FwQ2dMWnprSlRhUjRkWDdrUDc1cEdadzZIb3hLcW5oR0pBXzZNd01ZQVFTWnFaakEyTnlRN282NnlrbTJsVUlOTzJNbXVCbkhNcm0xRE45WHJTQXYtWTRRMNIBb0FVX3lxTE9oVUZpSndIYVB0VkIxd2FwQ2dMWnprSlRhUjRkWDdrUDc1cEdadzZIb3hLcW5oR0pBXzZNd01ZQVFTWnFaakEyTnlRN282NnlrbTJsVUlOTzJNbXVCbkhNcm0xRE45WHJTQXYtWTRRMA?oc=5"
+    },
+    {
+      "source_name": "퍼블릭타임스",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5WVjZrOUxMQTJES1JWTjJBQWd2akdzaWlyWk9yWHJlLVhFZVRNcW5BRm5QcFRSZm12YUtRV0pzdHJzckh3UmNuY1FDZWdlNUtmX3RIR2xfdjFTX28taW95VGlyQ2w0RlhWTmfSAW5BVV95cUxPNDM5UUk2Q3ByYnlsVGpNaFNfWHF4T1NtVVlzS3l4ZHdFTGJFSXRRNWpGUm9UcUhBZlhkcjkwbXZNZlhHMzQ4SmpFSkFEbUJkZldJQ0Fpb1dzeWVUUGh6RG9uRl9TbEtBRlJJanBSdw?oc=5"
+    },
+    {
+      "source_name": "이뉴스투데이",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBlUWp0Xzkta0IwTmhCQ09WSl85bUItS3FxZmR4cHhSc0hoYTNFeUExZVFLSnZYbEpDcmRSN29UZ2kzSVozOFdxaDBESFZJRjIyVEVJRFpwUkcxZ09QbHFSY2RLdFgyV1A3R0Q2M1lxVXTSAXRBVV95cUxObnpOb1FjZ3ZzMmkwbTNTdEZZeXgxdWp2OGhvMDZwYXk1OWl0bFI3ZzR2UVVRSk9DemRtMjg0c1ZTZzZuS3M2TGpBdUlaeUN3LV9VMVRLRDUtMGNrYjJ1OGJ2Ulc5OGhyTTY1YTFVa09PLXpXVw?oc=5"
+    }
+  ]
+}

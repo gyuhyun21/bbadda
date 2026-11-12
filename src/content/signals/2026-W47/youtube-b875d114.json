@@ -1,0 +1,26 @@
+{
+  "id": "youtube-b875d114",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "Financial Korea",
+  "url": "https://www.youtube.com/watch?v=XqPGzI9Z-eA",
+  "title": "삼성 라이온즈 우승 파티! 에버랜드에서 팬들과 함께! #Shorts",
+  "published_at": "2026-11-12T12:10:21Z",
+  "collected_at": "2026-11-12T13:37:53.259Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 370,
+    "likes": 2,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 35,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

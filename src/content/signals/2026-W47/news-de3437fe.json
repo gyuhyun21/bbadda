@@ -1,0 +1,25 @@
+{
+  "id": "news-de3437fe",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "announcement": true,
+  "source_name": "MHN스포츠",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBZcnVwakJwbXp6ZDRGZm9xUmc5WHc2Q2E0b3VHZEV4WTJobXlvaU1lMGFrSG9vVURRQ213ak84NVJSbWw3RVVYLVFwRTh2ZUY3bVcyRHE2S3hzRXBtOGdxcENZbw?oc=5",
+  "title": "[오피셜]김재현 전 단장의 마지막 선물…아빌라 2년 310만 달러에 묶고 157㎞ 강속구 투수까지 잡았다",
+  "published_at": "2026-11-12T06:09:58.000Z",
+  "collected_at": "2026-11-12T13:37:53.259Z",
+  "summary_ko": "MHN스포츠는 SSG가 아빌라와 2년 310만 달러에 재계약하고 157km 강속구 투수까지 영입했다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "아빌라 2년 310만 달러 잔류"
+}
