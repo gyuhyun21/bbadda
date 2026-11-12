@@ -1,0 +1,37 @@
+{
+  "id": "community-e6ac14bb",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=starcraft&page=6&document_srl=10546110154",
+  "title": "오스틴 딘 1년 200만 달러 LG 트윈스 재계약",
+  "published_at": "2026-11-12T01:37:51.032Z",
+  "collected_at": "2026-11-12T07:37:51.032Z",
+  "summary_ko": "",
+  "excerpt": "... 93년생이니까 딱 앞으로 4년만 더 하고 38때 미국으로 돌아가자 ㅋ 아니면 귀화해서 스카우터라도 하자.…",
+  "metrics": {},
+  "scores": {
+    "hot": 98,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1ZLVNYUzAwM01QbFQ4RG9TQkF2ak9KR3ctLWJlRk5VNkRiRjhidnVkeUlHUUhXTkZCWU5tZ242TGh4WXZ1Mnc?oc=5"
+    },
+    {
+      "source_name": "m.mksports.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBPakFKYXRWNzBIY2wycWJsSTBkeF9OU3BzOG5ROF9yRWt0Z0I3WmYxLWdxV1FpNDZIdlJhTVlfNE9OMHFxTGVWR2RRclhtV1NZb2g3MF9sTUF6VTg?oc=5"
+    },
+    {
+      "source_name": "뉴스핌",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1jRnllVndzaC11bW15X0I4UjI3ZHhCcXJIQV94LWVmMlpBUW5qVzEzM1B1bGZWSGxDYVZoNE9ENHhpZ3QycDBFT25ZdkhESjhSeHozMmMyLWZVT3ZL?oc=5"
+    }
+  ]
+}

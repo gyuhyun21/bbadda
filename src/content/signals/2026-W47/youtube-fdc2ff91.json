@@ -1,0 +1,26 @@
+{
+  "id": "youtube-fdc2ff91",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "youtube",
+  "source_name": "내꿈은롯데우승",
+  "url": "https://www.youtube.com/watch?v=XlfMikRgNPg",
+  "title": "김민성의 결정 · 나승엽 두려웠다 · 요미우리 1군 배터리 코치 | 11월 12일 롯데 뉴스",
+  "published_at": "2026-11-12T03:52:48Z",
+  "collected_at": "2026-11-12T07:37:51.032Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 492,
+    "likes": 30,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 71,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

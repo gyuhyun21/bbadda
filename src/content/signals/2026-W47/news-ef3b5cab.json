@@ -1,0 +1,23 @@
+{
+  "id": "news-ef3b5cab",
+  "issue": "2026-W47",
+  "module": "rivalry",
+  "team": "hanwha",
+  "teams": [
+    "hanwha",
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "데일리안",
+  "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQREtzT2liSnp5Z1lzc3phQk9OZzZvMEpCQnRhUmtWTFNNRFFxOUx0UGZxalVMTDNJeHpQblRBRGtPMWdpLURQUWNVWVhWZC1lTFo1cGNCSHZfYXdBRWdQRFc1ck41aFdrbDA0UEMwQ0ZKcEhfdkZ5bG54ZmxqOFQ5S083dWEtaW1LeU1MU2Q3cjExY295WEM5TTd1dzNTdVM2LUhSZmpxVzhvWkxEcE9xM1F3QTNDMkRWZklrbG4xQU51TmdmSkJBNDFXelpEUEozUUxnbFpSMkY1bDNnYVZNNVNoOGFfWkRxZ05UQWxkTnNHSGJSVnYzSkszblRYSkphTFNfampvdmxwam96Z1gwaVFrQ0FUY3Jh?oc=5",
+  "title": "‘취임 선물 기대’ 새 사령탑 선임한 한화·롯데, FA 시장 큰손?",
+  "published_at": "2026-11-12T04:40:00.000Z",
+  "collected_at": "2026-11-12T07:37:51.032Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

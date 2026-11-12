@@ -1,0 +1,24 @@
+{
+  "id": "news-f31f7496",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "news",
+  "announcement": true,
+  "source_name": "스타뉴스",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5DajNzbmJZZlpYcnR2RHFET3BRMWYxN3lydlIwYkc2c2tUeDh2NUR4OWlFcTVqaGxaYW1uZTc4YjlFTmtEbkpabnEyNEk2ZUJ0bW1CVl9VNmhXTl85SnViOEI1b2tYVnRvRXhHckM5TENvWXdpT2c?oc=5",
+  "title": "[공식발표] LG 퇴출 외인이 35세에 ML 1군 타격코치 됐다! 토미 조셉, WS 우승팀 TEX 공격 부활 맡는다",
+  "published_at": "2026-11-12T00:13:35.000Z",
+  "collected_at": "2026-11-12T07:37:51.032Z",
+  "summary_ko": "스타뉴스는 LG에서 뛰었던 토미 조셉이 35세에 텍사스 레인저스 1군 타격코치가 됐다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "brief_ko": "조셉, 35세에 ML 타격코치로"
+}

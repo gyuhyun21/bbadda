@@ -1,0 +1,26 @@
+{
+  "id": "youtube-1af9d626",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "source_name": "루테라 이글스 칼럼",
+  "url": "https://www.youtube.com/watch?v=3rAgpc-dbag",
+  "title": "이글스 코치 영입 퍼포먼스 코치 안영명 환영합니다 #한화이글스",
+  "published_at": "2026-11-12T07:00:08Z",
+  "collected_at": "2026-11-12T07:37:51.032Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 32,
+    "likes": 10,
+    "comments": 3
+  },
+  "scores": {
+    "hot": 58,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

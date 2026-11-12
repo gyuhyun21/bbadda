@@ -1,0 +1,120 @@
+{
+  "id": "youtube-59830567",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "youtube",
+  "source_name": "이슈 투데이",
+  "url": "https://www.youtube.com/watch?v=r8ns8cQs9Hw",
+  "title": "LG 오스틴 딘 200만 달러 재계약, 외인 타자 최고 연봉",
+  "published_at": "2026-11-12T05:54:26Z",
+  "collected_at": "2026-11-12T07:37:51.032Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 494,
+    "likes": 8,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 44,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "마이데일리",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1CQlVsY3FjcWQzNXh5OVdleFU3MDF1OVpLVFRTREo1S3o4SUw3OTFnWEc3ZU01aVZRUXlFdVRKa3BXb1BLZmxFNHpwWjY4eWwxdTdjWmRvbTdFd0JZaTNpSg?oc=5"
+    },
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9YeHlWRjFpbUdmT0NtMFdrZ1V3azE2alNkNkdVa2hJMkh2ZmR1REl0dUc3UWdxZ0lpdVo3UVhFWnAyUUlwSzNIa2pDSUJvN3VEUmdsMlV6ZDNERDgtQjJUMURvM0RZN1lmOHVNSzlESdIBb0FVX3lxTE9YeHlWRjFpbUdmT0NtMFdrZ1V3azE2alNkNkdVa2hJMkh2ZmR1REl0dUc3UWdxZ0lpdVo3UVhFWnAyUUlwSzNIa2pDSUJvN3VEUmdsMlV6ZDNERDgtQjJUMURvM0RZN1lmOHVNSzlESQ?oc=5"
+    },
+    {
+      "source_name": "스포츠경향",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8tTjBTcGp3YUE1MmpDZXRhdGNSa3RZSllHYk9PT3ExVk1Wb0dtV3VxNG5fMlBWVjQ0c3pKQUdfanYtYlB0MXNScjZtbmtaRjI3aVhNYUk2Q3V2TUpFdFHSAWNBVV95cUxQbXBseFh3UXVQaUExX3UwaTRKTkpjcnJXbmxyUHBHRUdMSjVRWU9zRDVhYjNGVFZ2YTBEZk9Pb3hrcW1VU0s3M0ZIb09mRWtQM25YRzdkVmZWNEZZR19ZVzQwSUE?oc=5"
+    },
+    {
+      "source_name": "뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5LZkFVZFlFMm5nNVdvWnYyMmViOE1UWVBPYzRTMFZPNVhwb2xoRm9rS1ZBY3U1LTZZb3N4ZDMyOVJIZWJvcU0wdUVrY0k5MU9BTmpPZDMwdw?oc=5"
+    },
+    {
+      "source_name": "https://www.2news.co.kr/",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1fVnlEYXFMZVRINmN3MWNYbXgxSnhqUlBZdUlsa0hudlEyR0MyX3c4T3R2X2F6UmJtMG5lWGxOR1dXQTVoRDQwbjViQzhCcEJkRmt1TU1HUXJ3RExlVkk1VGx5V2lvV1di?oc=5"
+    },
+    {
+      "source_name": "연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE00TFFVcmtuczRGejNLcmxPM0tRclBjaE96LVlvTm9nUTRKNUdvZDNWWkRXUVJwZE9DRVJRRjM3U29VaTdUU1ZVZ083U0VETk1RRHFQYkc3Q3Bwakw3Ql90SdIBYEFVX3lxTE00TFFVcmtuczRGejNLcmxPM0tRclBjaE96LVlvTm9nUTRKNUdvZDNWWkRXUVJwZE9DRVJRRjM3U29VaTdUU1ZVZ083U0VETk1RRHFQYkc3Q3Bwakw3Ql90SQ?oc=5"
+    },
+    {
+      "source_name": "이데일리",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNeGZGY0dNd3c5alljYkdHcVJSM2g4ZkVIWXM2a0ZYQ0tKUzMySVFOYy1sVF9lTlVIZk1kUF85azV4cnpOdzRKTGNRb2NxVS1EM3d4UnVXZzl2WVk1a3VhYzdzMkNLMndnbm82Mmd0X0pKdThrWTlwUzZHMHJjbEhMMg?oc=5"
+    },
+    {
+      "source_name": "이투데이",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9iSkRtbEpuTGNvRklwc0VDUnZxMFFYXzREVW1oaVNRdW5BYWlFT3p1LVNCT0pmNW5pbWdKQ2h4dV96TVo4RGN4ZFlUUEMxN2l0RTFuajNRZ0syTkctZTVxV0dDaktXWGxhQy05VHAtQ2tMelJY?oc=5"
+    },
+    {
+      "source_name": "톱스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE41UHZ0TGxScDFEbGQzUjRhd1VlOHlRT3NHTFNBN2poekZSZlFqdHQ4THRYYllUQU1qZHRpdVR1MlA3SWNyMWM2dk1jYXg5VzZOQVdmMHgxQm9tV0ptcWN6b1ZGdUdxMGEzU1h5NDVLR3VuQQ?oc=5"
+    },
+    {
+      "source_name": "스포츠월드",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9URzRUdHpIN3R2UTRFb2R4dFp6NW9yUThuVU5lRU1fZkIyaUY1TVJjY1g0QzRUUURxQjJRdUZZZWFGc2FmUW8xRmxZbW80U2JfS05IRE1YS2d2cURCeVJ3aTZB?oc=5"
+    },
+    {
+      "source_name": "뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBQYy1EMUhGamdyUlRZaEtnekZQbXdieGRDU1MxOWdNNkVtZzdvT2pPOHZWN1RWenFqVzhzY3pzTmJHWkQ2Zi1GVGg5cV9ETllkdk9DckhtbXRWaFIzU0hCNHhJeE9xOWh1Y1pYamZmZFZhNzVGS0RDZNIBeEFVX3lxTFBQYy1EMUhGamdyUlRZaEtnekZQbXdieGRDU1MxOWdNNkVtZzdvT2pPOHZWN1RWenFqVzhzY3pzTmJHWkQ2Zi1GVGg5cV9ETllkdk9DckhtbXRWaFIzU0hCNHhJeE9xOWh1Y1pYamZmZFZhNzVGS0RDZA?oc=5"
+    },
+    {
+      "source_name": "서울신문",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1Sb2I2RFh2ZmZlRDVVb0xsYkFSMVpXMXRGdlltVURpV0lld0dwdE1zek4zRG95WFpzVEJIYUpKVkJrNkZDQ0xQMGREbGFWME9reC1RbndScw?oc=5"
+    },
+    {
+      "source_name": "키즈맘",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB6eE1YQlJFNGMwNWlmLVRacFlmMUVVcEFuU2VxMS14R1NRVlY2ZW16akZZcHcwNFh0SElaSGFLZ0JpaXlHRGVjbjltY0J0QkJBTXp1a2xQNG5UZGFoX0R4QmtEQ05rUF9u?oc=5"
+    },
+    {
+      "source_name": "스페셜타임스",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1oZURBSE9HUEo2Z1RHUmx6TlpVUEZWWFU1MGdKejRoWTNiUUVwMkQwQmNSZGdpU3RNOVdkd2dsdVQ0RkRDZVZmSmFVZjM4SjZEanhBbzV1S1hnUExULWN2WkFJdktEQnowSEpBWUMtSEVTdw?oc=5"
+    },
+    {
+      "source_name": "경기일보",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Vemtjems0c2J3dWF2UUpTSk40VDR5VnljYUhjWnFyTkN5bFpwX0loeVRSUEE5MHZqYmFVSW8wWm9USTNlZTdiTllzRzFpZTZKaElNLWtMeVV4UkE?oc=5"
+    },
+    {
+      "source_name": "진일보 | 전남일보",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5sZWx6Qm1aMFJVTkpuSkZGdnFjaHp5ZDg2N3RGTnFQakdGdU5GamdZZmMwc0szSWJKUXdBY0RlWF9RN2p2MUlpeGJBcmFHTTJKNllKeTlndDlodkZtYTg2TldvOU5aX3Y4WE4zZkRObw?oc=5"
+    },
+    {
+      "source_name": "쿠키뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1DTUozczczXzZvR3hocGZHRy1VYmt5cTg4QWlFdnFNOTcxcUttNnN5blhLVjFxUHA4OFZ1NTFDbkRLU2NGeFdmTWN3YWJwd0JIN1NhTGhLSXdoUDlFMmpJbUVxcw?oc=5"
+    },
+    {
+      "source_name": "아시아투데이",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5lOTd6NG55OFc1N0NlOTJnWXd3QzRRMWR0MGRrMk1scDA5Y0N6WEJnbVJOTGZ0TDlmcWI0YWJjdGF2MVVaNlBBdlNHYkxMVWJOOURFVVVOV2NOWHk0NWxPcVlwSDZVcUpfdDlJWjBn?oc=5"
+    },
+    {
+      "source_name": "중앙신문",
+      "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxPUW5zVWJsT0NydVQzWW5NZmpJTHdyTlhnREY0dzJpQktjQ09FamU3eGh4MWtfM1VLb3pqVzJ3T3dFT1ZPTXFWRHRqWUo1VlBtOXBmT0V0a1FKZUt3dGVUb213MUhaVnpTaHpIUFFMem12WmpXMExVLWswNEY4WWlud1Z2QjdmYjdWaUxvcHVUMzFvRHZQblVaRXdtVV9JbFVGd1MtSjNYRF9vQXd6SHpPZXYzVE5rdjRVUktBWkRIbFJtZzkxdF95eV91bHVheThmOVVqYnF2M0pyTy1hXzc3d05TVk9NQ2k1YzhTNjg2X2dJTXN1Qi10V2ZTUUFtSGcydzRYc3prUktrWm5jTFMxNWcwZDk3RDVfUGd1NmNzelA2UHV6NlVJeWpHbUZIMWNDaUgtLWVEQ1d4MlE?oc=5"
+    },
+    {
+      "source_name": "미디어펜",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBub1ZNY1A2cHhXT21tZXZvOXAzRC1KM29xaTRkSThhWWkzMDlZZW95NW5WRW9GQkpaTnJlQ2lYbEN3amJkV05RTkpyeWt2clo3cndZNtIBWEFVX3lxTFBkYUV2S2ZLYTlNTXE3RDE4VW85SkRkemtOVTRZM2ljRm5zWExmMVJBQmVFcDYyQ3hLNjUxaEkzQ0x4TFFwZDNMVmYybWliR1A5M0xLby1qSEo?oc=5"
+    },
+    {
+      "source_name": "굿모닝경제",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE95RUswa29pTEgzUk1lSGMxTFRIYnZzcVlnT3ZGQkoxU0hmV0dCSUZfb3dyanE2cUc0R0pPUElDQlZRcGpLekduM3pFX0ViRE9WTUxfT1NyS3JGZjQ0OUIzTFFSTXJTZG1Zd05WeQ?oc=5"
+    },
+    {
+      "source_name": "스포츠동아",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1vR0lMVlpmYmtEVzdob2RBb1ctZHNDX0N2Y0dPakx3OGVKYWloeG4zS1RTT0Y0VEhkeVNFTGlUcWZfYzQxMjhhMmVydFUwQU55ZXc0MDVyVHJEa1FPZUItVU8wcFJCekhXbnFJbmYxckh3Zw?oc=5"
+    },
+    {
+      "source_name": "매일일보",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9YbUh1TnlBUkpQVmJpclpWNTBwT2x2UkVwR2lOVF9KTFlTS1IxN1RsdTQ3U1VURG9iYU5jRURJa0tLc0VOcjRwcmx2cWdRZ2ZXT18zenhqck1mMWd1ZGJJcEVtRFc?oc=5"
+    }
+  ]
+}

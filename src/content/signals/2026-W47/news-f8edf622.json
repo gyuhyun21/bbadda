@@ -1,0 +1,23 @@
+{
+  "id": "news-f8edf622",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "news",
+  "announcement": true,
+  "source_name": "스타뉴스",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5RcVRiZ2x2TlpRQnNEZnE0NnkyNkM2a0VuZmFYMzdlaFNYQklBM3l2ZWxGU2FlM3Vmdk4zRFhMLWo5QlhyaFVDb0ZJRWFkTXBMSFg0aFYzcktSb2kxMHE1UHJ4RlIyMm5tdXdwRTZqVmFTd3hodnc?oc=5",
+  "title": "[오피셜] '2회 우승 포수' 김민식, 결국 친정팀 SSG서 방출... '미완의 거포' 류효승 은퇴 선언",
+  "published_at": "2026-11-12T04:01:55.000Z",
+  "collected_at": "2026-11-12T07:37:51.032Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "mixed"
+}

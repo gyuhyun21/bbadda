@@ -1,0 +1,25 @@
+{
+  "id": "news-d2a7ed11",
+  "issue": "2026-W47",
+  "module": "rivalry",
+  "team": "ssg",
+  "teams": [
+    "ssg",
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "announcement": true,
+  "source_name": "MHN스포츠",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBweWg4M1pJVC1qNUEtelIyNDVoMldMRnRrVFJJYVdhekZYbXdXMW1Zc2Fzc3JOTzlRb0FTMXVxVElFbzZPeGcyZVgxY2VwWkRBQWFpYmExcmF1NjNKTmJVUW1EOA?oc=5",
+  "title": "[오피셜]'충격' KBO 대표 우승 포수의 방출…3살 많은 이지영도 살아남았는데, 김민식은 왜 잘렸나",
+  "published_at": "2026-11-12T02:01:50.000Z",
+  "collected_at": "2026-11-12T07:37:51.032Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 82,
+    "relevance": 70
+  },
+  "sentiment": "mixed"
+}

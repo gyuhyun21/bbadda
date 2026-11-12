@@ -1,0 +1,23 @@
+{
+  "id": "news-fd193773",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "announcement": true,
+  "source_name": "조선일보",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNallvemxpV3kzd1owUkV6ekhVeWVGZ0JnZDhKd0dudTJHUXp4cllvYXNqakNoUHpreVgzS2FGVWFnOFpzT3V2ajRtQ29rVFRteGFxZ0pFdFBFeHRkc0IxTEhnNVRiSDdYVEhDMjFCQTdyUm5DNEExODRYU0U2WWprTEk3dw?oc=5",
+  "title": "[오피셜]'KS까지 풀가동' 쉴 틈이 없다, 가을야구 끝나자마자 여름 호주로…삼성 좌완 파이어볼러 배찬승, 거친 무대서 '힘'으로 붙는다",
+  "published_at": "2026-11-12T04:38:32.000Z",
+  "collected_at": "2026-11-12T07:37:51.032Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 83,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

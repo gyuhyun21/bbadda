@@ -1,0 +1,30 @@
+{
+  "id": "news-a914d00f",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://www.mt.co.kr/amp/sports/2026/11/12/202611121215771523O",
+  "title": "'이럴 수가' 韓 야구 시작부터 가시밭길? 김민준 너무 긴장했나…국가대표 데뷔전 2⅓이닝 4실점 강판 [오!쎈 도쿄]",
+  "published_at": "2026-11-12T03:51:00.000Z",
+  "collected_at": "2026-11-12T07:37:51.032Z",
+  "summary_ko": "머니투데이는 SSG 김민준이 국가대표 데뷔전인 호주전에서 2⅓이닝 4실점으로 물러났다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBlV1hBNHlfUy12NWdOUmwzOEdHWDVkajRsUlJvQnBwRm5TSEdkTjA3RkxCS2NKcDFOSm1XeE1IbGdFaV9BODJjQ3BzRVdMcFNlMzB5Wg?oc=5"
+    }
+  ],
+  "brief_ko": "김민준, 대표 데뷔전 4실점"
+}

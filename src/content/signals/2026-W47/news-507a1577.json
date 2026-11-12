@@ -1,0 +1,29 @@
+{
+  "id": "news-507a1577",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "더게이트",
+  "url": "http://www.spochoo.com/news/articleView.html?idxno=132051",
+  "title": "겨울에도 야구하는 삼성 배찬승·김백산·김현준, 호주프로야구 브리즈번 밴디츠 파견",
+  "published_at": "2026-11-12T02:29:30.000Z",
+  "collected_at": "2026-11-12T07:37:51.032Z",
+  "summary_ko": "더게이트는 삼성이 배찬승·김백산·김현준을 호주프로야구 브리즈번 밴디츠에 보낸다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE10bV9QemNqLXdqX0xjUVhGNnRXUTdvb1B5MG9CRkZYa3V4eVh0QzNLV1FMQm1wUHRGVVRITEM2VEtKNk5IVnZYSUY2ajN0eWtQdnJxSXpJMHB6VTjSAWBBVV95cUxNcVVoUDhZaDB4TGlIR0Y3cDZfVFlhUGpybWROeUNhV0xTVE1XUzFKSG5Sbm54eUlzNExVNGNrdzdCVkZBWERValVNcl93Y2RMdnlkeXk1R1JwazRXS1lEXzY?oc=5"
+    }
+  ],
+  "brief_ko": "배찬승 등 3명, 호주리그로"
+}

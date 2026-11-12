@@ -1,0 +1,24 @@
+{
+  "id": "news-40b1f5fb",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "SPOTV NEWS",
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9yczFYdVBtMy1YaGVzQUZmNHd6U3Q3YjlBNEppWkt2SnBHWVU0Ynplek1wUTFsUk5TbXh3dXNaaDNmV1pFZ0NzOGlNekR0Z3djdGNCU0RURjBVS1E0SlQ2TzFaN3JEeE5jTjdtTHlBNW4?oc=5",
+  "title": "'APBC 직관 포기' 이택근 단장 바쁘다 바뻐…日 미야자키→나고야 동분서주, 아시아쿼터 후보 보러 간다",
+  "published_at": "2026-11-12T02:07:39.000Z",
+  "collected_at": "2026-11-12T07:37:51.032Z",
+  "summary_ko": "SPOTV NEWS는 롯데 이택근 단장이 APBC 직관 대신 아시아쿼터 후보를 보러 나고야로 간다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "이택근 단장, 아시아쿼터 찾아 나고야"
+}

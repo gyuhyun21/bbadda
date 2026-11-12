@@ -1,0 +1,23 @@
+{
+  "id": "news-3dd9e6e0",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "m.maniareport.com",
+  "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1ZY1Q4UXgwbG02djdHR2pzOHJ2ZzdLaWkwZHFvZ2RQTVE5WkRaaVczemZyZ3NRa3dZUU5NVUxyYzMzdUdzRS1wbDh5el85SWNGVlJBTVFYay1EeU5jSHNEeTBDQmtVcGNHRldkZFQ1QjctYTdONnBBNWtwWQ?oc=5",
+  "title": "김도영, 그렇게도 메이저리그 빨리 가고 싶은가?...가기 전에 부상 또는 체력 소진되면 소용 없어",
+  "published_at": "2026-11-11T21:02:21.000Z",
+  "collected_at": "2026-11-12T07:37:51.032Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

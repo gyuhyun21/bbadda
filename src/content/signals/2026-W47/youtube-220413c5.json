@@ -1,0 +1,27 @@
+{
+  "id": "youtube-220413c5",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "youtube",
+  "source_name": "크보시리즈",
+  "url": "https://www.youtube.com/watch?v=kgplct64fU8",
+  "title": "NC 듀오 5타점, 그래도 7대8 #NC다이노스 #김주원",
+  "published_at": "2026-11-12T07:31:13Z",
+  "collected_at": "2026-11-12T07:37:51.032Z",
+  "summary_ko": "한 팬 채널이 NC 두 선수가 5타점을 합작하고도 대표팀이 7-8로 진 호주전을 다뤘다.",
+  "metrics": {
+    "views": 48,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 20,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "듀오 5타점, 그래도 7대8"
+}

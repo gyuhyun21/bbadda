@@ -1,0 +1,26 @@
+{
+  "id": "youtube-f26a0b90",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "youtube",
+  "source_name": "TWOBINPAPA",
+  "url": "https://www.youtube.com/watch?v=1kUvQ9EuAA8",
+  "title": "롯데자이언츠 전준우선수 등장곡 💙 신난다 유후 261111",
+  "published_at": "2026-11-12T03:25:12Z",
+  "collected_at": "2026-11-12T07:37:51.032Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 614,
+    "likes": 10,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 45,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

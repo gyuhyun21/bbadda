@@ -1,0 +1,24 @@
+{
+  "id": "community-4120719c",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&page=3&document_srl=10546203490",
+  "title": "안녕하세요 - 야구",
+  "published_at": "2026-11-12T02:37:51.032Z",
+  "collected_at": "2026-11-12T07:37:51.032Z",
+  "summary_ko": "",
+  "excerpt": "... 11.12 정보 브포유럽삼성우승 조회4291 추천42. [오피셜] 삼성 라이온즈, 호주리그에 선수 3명 (배찬승, 김백산, 김현준)…",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-3ce3db59",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://www.mt.co.kr/amp/sports/2026/11/12/2026111209434666700",
+  "title": "'전체 1순위' 제치고 최동원상 위엄! KT 3R 김지율, 17승 171K로 고교 최고 투수 등극... \"구자욱 선배와 붙고 싶다\" 당찬 포부",
+  "published_at": "2026-11-12T03:01:00.000Z",
+  "collected_at": "2026-11-12T07:37:51.032Z",
+  "summary_ko": "머니투데이는 KT 3라운드 지명 김지율이 17승 171탈삼진으로 고교 최동원상을 받았다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "3R 김지율, 고교 최동원상"
+}

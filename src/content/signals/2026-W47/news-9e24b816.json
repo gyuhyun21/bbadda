@@ -1,0 +1,23 @@
+{
+  "id": "news-9e24b816",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "부산일보",
+  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE45R2h1RThuRVhrTTNfVkVUZXlzWVNZdklIT2FTTlJWZGpEeGNMeXlyQk84aUdXTnpQVzZ4c2lDTnZLZkd1QjhyQXZfMEVGdXR5R0g3V0k1X3Zuc1V0QVRqVVg5Vi1hQWhfRzZuaEhXelZQMmVa?oc=5",
+  "title": "“실책하면 내가 욕먹겠다”…롯데 수비 재건 나선 김민성 수비 코치",
+  "published_at": "2026-11-12T05:06:02.000Z",
+  "collected_at": "2026-11-12T07:37:51.032Z",
+  "summary_ko": "부산일보는 은퇴 후 롯데 수비 코치가 된 김민성이 실책하면 내가 욕먹겠다며 수비 재건에 나섰다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "negative",
+  "brief_ko": "김민성 코치, 수비 재건 나섰다"
+}

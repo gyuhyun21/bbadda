@@ -1,0 +1,26 @@
+{
+  "id": "youtube-4c60a997",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "youtube",
+  "source_name": "스포츠클래식 SportsClassic",
+  "url": "https://www.youtube.com/watch?v=IVBGe6-EXZI",
+  "title": "[스클 LIVE] 2026 아시아 프로야구 챔피언십 호주 : 대한민국 (선발투수 SSG 랜더스 김민준)",
+  "published_at": "2026-11-12T06:49:03Z",
+  "collected_at": "2026-11-12T07:37:51.032Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 89747,
+    "likes": 755,
+    "comments": 3
+  },
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

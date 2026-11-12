@@ -1,0 +1,28 @@
+{
+  "id": "news-e711f05a",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE11M0oya2dYUzJXc2xNbXFZVWkxTVMxaE5mLVlGZExCeGxZcXJUZ2VyNXgtUDVRV1hKeGJwS1ZTNWJMaFJvNjlxZ1BwVXhFWE1lbUNYNzlndDJrZTY2N1JuOFJLU21ZSU4tWWMtand5b9IBb0FVX3lxTE11M0oya2dYUzJXc2xNbXFZVWkxTVMxaE5mLVlGZExCeGxZcXJUZ2VyNXgtUDVRV1hKeGJwS1ZTNWJMaFJvNjlxZ1BwVXhFWE1lbUNYNzlndDJrZTY2N1JuOFJLU21ZSU4tWWMtand5bw?oc=5",
+  "title": "‘차라리 해외진출이 낫다?’ 삼성, 원태인·구자욱 역대급 FA 듀오 모두 잡을 수 있을까",
+  "published_at": "2026-11-11T21:40:00.000Z",
+  "collected_at": "2026-11-12T07:37:51.032Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 88,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8zOWRicF9DcFB4Q0l1U1NhcmdvSU5hc0VNYVh5U3l3bEFnMGZrWnRnSG5KSW9XYUY5RFRkNDJjdUhUNDBQbmZLYUJqQ18yd2t0SjdfSg?oc=5"
+    }
+  ]
+}

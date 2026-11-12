@@ -1,0 +1,25 @@
+{
+  "id": "news-3c940224",
+  "issue": "2026-W47",
+  "module": "rivalry",
+  "team": "lg",
+  "teams": [
+    "lg",
+    "doosan",
+    "kia",
+    "hanwha"
+  ],
+  "source_type": "news",
+  "source_name": "재경일보",
+  "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE93YjlDakRhNTZfZzNYdDNmc3NuTFlOcTNFRExZMVpLSmVvMl9DUmIxa2NxYmc4bWNSRjRTaktWRG9DMU5nSHA3NHg5SQ?oc=5",
+  "title": "박동원·김태군·최재훈, 양의지까지 거취 주목…포수 품귀 우려에 LG 두산 KIA 한화 계산 복잡…4년 전 포수 대이동 재현될까?",
+  "published_at": "2026-11-12T01:43:00.000Z",
+  "collected_at": "2026-11-12T07:37:51.032Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 80
+  },
+  "sentiment": "neutral"
+}

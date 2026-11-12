@@ -1,0 +1,22 @@
+{
+  "id": "news-b343f782",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "연합뉴스TV",
+  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5MZGdTWWhRRHNVNkJEU08wOW5Pc0JFMFg5THE4aDRLQ1ZSajhSeGRpMVprSVYzamJMT3ZFQl9JTlpGekNxQjRRTXlwR29SNWVIRzV2MF9NZDRmeU9rcVRMZlBEcHJqdXM?oc=5",
+  "title": "프로야구 LG, 오스틴과 1년 더…KBO 외인 타자 중 ’최고 금액’",
+  "published_at": "2026-11-12T01:48:00.000Z",
+  "collected_at": "2026-11-12T07:37:51.032Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

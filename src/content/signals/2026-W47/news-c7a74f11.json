@@ -1,0 +1,29 @@
+{
+  "id": "news-c7a74f11",
+  "issue": "2026-W47",
+  "module": "league",
+  "teams": [],
+  "source_type": "news",
+  "source_name": "OSEN",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5FemVsQUJuYTgzVl9JWEM2VTQ3TG1SakZtclRZSENDWDNndk14VmFCZXNJaHlzazE2YWdOV0U4UmU3Ulg1Y1JiTGhoYi1CQkt3a2FnVA?oc=5",
+  "title": "[사진]안현민,'한국시리즈는 잊고'",
+  "published_at": "2026-11-12T01:30:00.000Z",
+  "collected_at": "2026-11-12T07:37:51.032Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 82,
+    "relevance": 30
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONnlkZjZxQ2V5eGtfakgwSzRRR3ZjSkEwSGYxVkhrd09yUEdNSWlTbFpnNXlWckFoVXMxZl96RnRRaU8zbzVNZnZFVkNoakttQnVVZmdKbmN4VzhwU0pfTDZZMWhzUjlxamRyWmMwQ0JaNnA5akNXekhDQVNDbkVEdW5MOVJ0cTBm0gGcAUFVX3lxTE1TNWVqNC1NblRybFJ3RWtNeENnY1FRTW8xNnExOE94UnZZVEdCalNEOVFTWjNVZW5raE1IRnhqWEVGaUxoYjA2OWNHNnNueFh1Uk5ZY1RvenBzcE15bU9MSllkNWhsb014RUR5RnJxSExnVC11NkxfNDRDX0lQdHlyM1VBX0JHaGowNHZWZ3l0bVliLTlqQUFUenlOaA?oc=5"
+    },
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdWw4WkxMWmU0eWk0R0d6dXBWR1pETDYydXl1dlNrZjdDaEtMNUl3N0kwYm9SeU50eFppVGlISXg5QVJGSkVHNHJCR1VjamhxOFFUUHZOYnI4Y29WS1cwUmtoVXdzZDRzMGg3ZHdnWFNuOTlSWU95Tms2VmduTkFIUlk4STJQT3dX?oc=5"
+    }
+  ]
+}

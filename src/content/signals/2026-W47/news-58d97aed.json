@@ -1,0 +1,29 @@
+{
+  "id": "news-58d97aed",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "news",
+  "announcement": true,
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB3OExabDVjSEtoRFpYNm01aWR6ZWJEQ3RzN3dsMTJ5SmFpUGRLM3ZUcFVlQzZtUnVJNmJUWEJZeXhJb1JYWURoS3hMRUJWUkpBQ3MzYUI2VUp4SWRVMGYwd2w4WGVrVGl6MkRCNjlVWdIBb0FVX3lxTFB3OExabDVjSEtoRFpYNm01aWR6ZWJEQ3RzN3dsMTJ5SmFpUGRLM3ZUcFVlQzZtUnVJNmJUWEJZeXhJb1JYWURoS3hMRUJWUkpBQ3MzYUI2VUp4SWRVMGYwd2w4WGVrVGl6MkRCNjlVWQ?oc=5",
+  "title": "[공식발표] 54억 화끈하게 질렀다! 폰세 능가 외인 ML 157km 유망주까지 품다…SSG 외국인투수 농사 끝",
+  "published_at": "2026-11-12T05:16:00.000Z",
+  "collected_at": "2026-11-12T07:37:51.032Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAzWEJPWUhRMHp0ZjlVN0lsdmphRnZBanRRLWpZUnZCdkJlRGxOZGh1OFAxaDdzRjhMM2lmd0IwOVJFalV4RnlDOHJMdFJ0enQzY09kaA?oc=5"
+    }
+  ]
+}

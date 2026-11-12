@@ -1,0 +1,33 @@
+{
+  "id": "community-5dd13e2c",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 AI제니 님의 블로그",
+  "url": "https://today.livestoryforge.com/16303",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/2xWB9HjTbJy",
+  "title": "SSG, 김민식 포함 선수 5명·코치 4명과 결별…새로운 도약 준비",
+  "published_at": "2026-11-12T15:36:46.000+09:00",
+  "collected_at": "2026-11-12T07:37:51.032Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 84,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "톱스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBVVUZRSmJRXzRCb1dhWWwxNHA3SW1DSV8wUlBpODhrRHU0ZzRUNnlNOENHMS1lRWxMUEtJTGNsUWRNYmJ5Z2x1WlRkdW9JNGRFUnRDRFE2YnlEalI1LU94R2J0Sk05T0JxaDI5bW8tOXVXdw?oc=5"
+    },
+    {
+      "source_name": "www.xportsnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8wSmh0Skl0eDROMi01a3hrNndRbTYyUzR1bzJWN09YVzFYSWFBcFFUdXZxNmhKYjJJVDBxVTZrN0JObzZFd1l1X0pEU1FibnZ1SWVlbw?oc=5"
+    }
+  ]
+}

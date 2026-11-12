@@ -1,0 +1,28 @@
+{
+  "id": "youtube-d1c79ca1",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "기아타이거즈 KIA TIGERS",
+  "url": "https://www.youtube.com/watch?v=-NFJ8X1J1do",
+  "title": "뜨거웠던 포스트시즌 ✈️➡️ 마무리캠프로 2027년을 준비하는 6인방",
+  "published_at": "2026-11-12T02:45:26Z",
+  "collected_at": "2026-11-12T07:37:51.032Z",
+  "summary_ko": "KIA 공식 채널이 포스트시즌을 마치고 마무리캠프에서 2027년을 준비하는 선수 6명 영상을 올렸다.",
+  "metrics": {
+    "views": 18478,
+    "likes": 783,
+    "comments": 52
+  },
+  "scores": {
+    "hot": 86,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "마무리캠프로 간 6인방"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "community-998165f9",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 생생TV광",
+  "url": "https://news-a.freshwelcomeinfo.co.kr/42",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/7ADdR2Pqctg",
+  "title": "오스틴 재계약, LG와 1년 200만 달러 외국인 타자 역대 최고 연봉 확정",
+  "published_at": "2026-11-12T10:58:39.000+09:00",
+  "collected_at": "2026-11-12T07:37:51.032Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 98,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "위키트리",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1IS2xLYUt0UldsZE9YT1FSamdSNUw3U2dPLXI2NG1vdXFSbHhZak1LY1ladlZIZXRtSnA0RndKQm1ZclpJY1FBRk4ybWh4VFBlc0ZfWWJ3?oc=5"
+    },
+    {
+      "source_name": "m.maniareport.com",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4xRG5laGJGRFRZY0I2MnFNZGtYUlNvTzkxdGFaZGdGeXZNWDRadDlTZG1yUlhRb3FyS2hGSXZFZzU3MjZHUElSNkRJUW9lOXZEZmFnSWhUR1RSNXVKOXBwSjlDNV9XazRMOHR3NkF3WVRGT3V0WTREUUl1MA?oc=5"
+    }
+  ]
+}

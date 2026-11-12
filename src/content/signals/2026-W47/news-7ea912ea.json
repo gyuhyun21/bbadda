@@ -1,0 +1,23 @@
+{
+  "id": "news-7ea912ea",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "www.xportsnews.com",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB5UEFQWV9jaV80eW9SRE5kUzNreUxob3Y5YVRPUExPMEVtOWdZNy1DQWZpeWhidFZIcVVRZzU0b2hXVHpzeVZKdW1reXcxVTZfZ0QyaQ?oc=5",
+  "title": "\"와이스 영입 만으로는 부족해\"…'대전 예수' 품은 샌디에이고, 美 매체 냉정 평가→\"무너진 선발진 해결 못 한다\"",
+  "published_at": "2026-11-12T02:10:05.000Z",
+  "collected_at": "2026-11-12T07:37:51.032Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

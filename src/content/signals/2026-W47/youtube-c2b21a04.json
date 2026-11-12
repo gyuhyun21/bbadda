@@ -1,0 +1,26 @@
+{
+  "id": "youtube-c2b21a04",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "youtube",
+  "source_name": "오늘핫이슈",
+  "url": "https://www.youtube.com/watch?v=PgNBnm35Oh0",
+  "title": "박병호 키움 코치로 돌아온 이유·선수 제안은 거절했다",
+  "published_at": "2026-11-12T06:04:06Z",
+  "collected_at": "2026-11-12T07:37:51.032Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 893,
+    "likes": 5,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 40,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

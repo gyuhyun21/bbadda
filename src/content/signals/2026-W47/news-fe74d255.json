@@ -1,0 +1,20 @@
+{
+  "id": "news-fe74d255",
+  "issue": "2026-W47",
+  "module": "league",
+  "teams": [],
+  "source_type": "news",
+  "source_name": "이투데이",
+  "url": "https://www.etoday.co.kr/news/view/2647501?trc=right_categori_news",
+  "title": "한국, APBC 첫 경기서 호주에 7-8 역전패⋯6회 6득점에도 리드 못 지켜",
+  "published_at": "2026-11-12T06:41:00.000Z",
+  "collected_at": "2026-11-12T07:37:51.032Z",
+  "summary_ko": "이투데이는 한국이 APBC 첫 경기에서 호주에 7-8로 역전패했다고 전했다. 6회 6득점을 올렸지만 리드를 지키지 못했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "APBC 첫판, 호주에 7-8 역전패"
+}

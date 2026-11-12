@@ -1,0 +1,34 @@
+{
+  "id": "news-bfe7edb2",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "news",
+  "announcement": true,
+  "source_name": "SPOTV NEWS",
+  "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1019340",
+  "title": "[오피셜] 김민식-김창평 방출, 류효승 은퇴… SSG 2차 선수단-코칭스태프 정비 마무리",
+  "published_at": "2026-11-12T00:52:56.000Z",
+  "collected_at": "2026-11-12T07:37:51.032Z",
+  "summary_ko": "SPOTV NEWS는 SSG가 김민식·김창평을 방출하고 류효승이 은퇴하며 2차 선수단·코칭스태프 정비를 마쳤다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 82,
+    "relevance": 70
+  },
+  "sentiment": "negative",
+  "also_in": [
+    {
+      "source_name": "뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE04Qnp0Zzh4Tm9SMzR3LTZreUdZYUl2SnV6THF2ZEJWMHBBcDhyNU9rVVBqSEo3cWFNSWhCYTZ1eEVBWmgtdUhGTUlNaHp0NjB1czBya0JlNA?oc=5"
+    },
+    {
+      "source_name": "청년일보",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1PZnFIVjVhXzJKSU9qX3ZMWE5CekZHcFVSaWdMRzdwczVocnVKcGxyRm1sVVF3VkhXQjF5V3BpUEpIX1pPWmJJS21RNzNVdlhrRFhqbXFuNjRiYkdHdnBTMk1WUFgxXzQ?oc=5"
+    }
+  ],
+  "brief_ko": "김민식 방출, 류효승 은퇴"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "youtube-fd253e9d",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "youtube",
+  "source_name": "OSEN Daily News sports",
+  "url": "https://www.youtube.com/watch?v=R-FOrkqkOkQ",
+  "title": "키움에서 두 번 짐 싼 푸이그, \"빅리그 선수 상당수보다 내가 뛰어\"  #ODN #푸이그 #키움 #KBO #메이저리그 #Shorts",
+  "published_at": "2026-11-12T05:15:39Z",
+  "collected_at": "2026-11-12T07:37:51.032Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 714,
+    "likes": 11,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 46,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

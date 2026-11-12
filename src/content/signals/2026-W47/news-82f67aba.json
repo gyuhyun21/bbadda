@@ -1,0 +1,24 @@
+{
+  "id": "news-82f67aba",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "OSEN",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5jbHRnZGd1bTBLeHFKMC0yYklLSzZEQVIxV09Rd3FkN053dlZ6NFJvRVpuZXpveUxOcUs2Ymc3QVk4TzR2NGp6d01UdFlKYnBzSGE5UA?oc=5",
+  "title": "‘충격 부진’ 김도영 강행군에 진짜 지쳤나, 뜬공-땅볼-삼진-삼진→호주전 대참사 발생…호수비-희플에도 고개 숙였다 [APBC]",
+  "published_at": "2026-11-12T07:22:00.000Z",
+  "collected_at": "2026-11-12T07:37:51.032Z",
+  "summary_ko": "OSEN은 김도영이 호주전에서 뜬공·땅볼·삼진·삼진에 그쳤다며 강행군 피로를 짚었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "negative",
+  "brief_ko": "김도영, 호주전 두 번 삼진"
+}

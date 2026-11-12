@@ -1,0 +1,23 @@
+{
+  "id": "community-ab5f6d14",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 MTK 미디어",
+  "url": "https://mtknews.tistory.com/1055",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/1FH3IpFhALx",
+  "title": "LG 오스틴 딘, 외국인 타자 역대 최고액 200만 달러 재계약 체결",
+  "published_at": "2026-11-12T14:50:49.000+09:00",
+  "collected_at": "2026-11-12T07:37:51.032Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

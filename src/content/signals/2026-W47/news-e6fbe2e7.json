@@ -1,0 +1,24 @@
+{
+  "id": "news-e6fbe2e7",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "MHN스포츠",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBTRHRFcVc0ZF9QS0J3WTMwZmZLZ0lLdXQ3dU5vdkhhSnpwOUJvc3RfZjBQeHVmU2RaanhDckhNb0trbjF0VURIT2lxUDl5THBnZlMtdjRqMGM5RUdoVGVsS3k3WQ?oc=5",
+  "title": "\"맞히면 모자 벗고 사과하는데 왜 싸우나\"…'악동' 푸이그를 바꾼 한국 야구 문화 \"좋은 치료였다\"",
+  "published_at": "2026-11-11T08:30:51.000Z",
+  "collected_at": "2026-11-12T07:37:51.032Z",
+  "summary_ko": "MHN스포츠는 푸이그가 맞히면 모자 벗고 사과하는 한국 야구 문화가 자신에게 좋은 치료였다고 말했다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 60,
+    "relevance": 70
+  },
+  "sentiment": "negative",
+  "brief_ko": "푸이그, 한국 야구는 좋은 치료"
+}

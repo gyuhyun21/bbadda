@@ -1,0 +1,28 @@
+{
+  "id": "news-778c3118",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "news",
+  "source_name": "대전일보",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1aQnR3WnRCN2RLd3dSaGhnbWUzMzdlenJhWjJfWWlfam1Nb3puV0lTOENjNi1QTTZUUGRuOW5KZUVTRDczZ2E5OVNZME5xeWFWUHlrS3Q4ZkhHUmtvaHBQMjVpX3VWMjhsZkUyRjhWb9IBc0FVX3lxTE9CZ1ducUhXUHFPeUU0QzRfbVpkTUJEZm9CZGQ1cVRhVWh5VDF6VHFaQ3NnTmRqOVdRV1ZGbFR1Q09qSm9jcFlNRlFIOG1FaTAzX0FzcTlYTllzMExfN1B2eDNiVW0zd3Ezd28ya2lNbW1MVXM?oc=5",
+  "title": "[부고] 이기창(한화이글스 투수) 씨 조모상",
+  "published_at": "2026-11-12T00:16:00.000Z",
+  "collected_at": "2026-11-12T07:37:51.032Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 73,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "퍼블릭타임스",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9QQXNQd3ZYdGpVREc2UWZnNThTb1JjY2pLb2cxSzhSOWhicEZpZV9NYjlKQzlSTndVdVVhUHlnT1RabmVIeFRVTkViUmJ3MV9CM3lYYXlOLVlseWM5dUZ2blJ2THdHMU9pSkHSAW5BVV95cUxQRVkwRTdKcll5QXU4dnRFdTlmRFY1U2RobEs1a2RzSkhON29sWmFQRlJ6TVR5bEI4VktQRWprUTBBVF9FZnF1cHBLTDhuU3YycUJSS2pHVnhwczA3R2pWOENxaVNIYm5fZkpTM05KUQ?oc=5"
+    }
+  ]
+}

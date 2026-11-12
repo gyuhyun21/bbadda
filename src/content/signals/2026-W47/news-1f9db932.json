@@ -1,0 +1,24 @@
+{
+  "id": "news-1f9db932",
+  "issue": "2026-W47",
+  "module": "rivalry",
+  "team": "ssg",
+  "teams": [
+    "ssg",
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE84YmpGZzN1X1dFNlZYdFMxdlNMQWttRHpQaUJ4ODhhS3N2eEdwQWwwVjFyNm9oNEx1QklSUjFhSHRibGhhd3JQeDU5LWVGLUdib0MtZTdEZ1dfcTk4RDR3OXVaLWdTb0xuMUc4VkJOUEF2cUk1LVNkLUY3ZmxQUQ?oc=5",
+  "title": "\"트레이드 카드 수차례 맞췄는데…\" 반지만 2개 우승 포수, 왜 방출 통보 받았나",
+  "published_at": "2026-11-12T01:21:29.000Z",
+  "collected_at": "2026-11-12T07:37:51.032Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "mixed"
+}

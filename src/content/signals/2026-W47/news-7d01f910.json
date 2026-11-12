@@ -1,0 +1,23 @@
+{
+  "id": "news-7d01f910",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "news",
+  "source_name": "FT스포츠",
+  "url": "http://www.ftimes.kr/news/articleView.html?idxno=41056",
+  "title": "두산 에이스 곽빈, 김광현 이후 4년 만에 KBO 최동원상 수상 영예",
+  "published_at": "2026-11-12T06:10:12.000Z",
+  "collected_at": "2026-11-12T07:37:51.032Z",
+  "summary_ko": "FT스포츠는 두산 곽빈이 김광현 이후 4년 만에 KBO 최동원상을 받았다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 80
+  },
+  "sentiment": "positive",
+  "brief_ko": "곽빈, 4년 만의 최동원상"
+}

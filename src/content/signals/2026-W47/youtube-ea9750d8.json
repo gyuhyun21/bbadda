@@ -1,0 +1,26 @@
+{
+  "id": "youtube-ea9750d8",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "youtube",
+  "source_name": "부산MBC뉴스",
+  "url": "https://www.youtube.com/watch?v=iCOi2fX1LWk",
+  "title": "올해 최동원상 주인공은..두산 베어스 ′곽빈′",
+  "published_at": "2026-11-12T02:54:22Z",
+  "collected_at": "2026-11-12T07:37:51.032Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 521,
+    "likes": 10,
+    "comments": 2
+  },
+  "scores": {
+    "hot": 50,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

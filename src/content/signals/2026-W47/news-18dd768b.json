@@ -1,0 +1,30 @@
+{
+  "id": "news-18dd768b",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "news",
+  "announcement": true,
+  "source_name": "스포츠조선",
+  "url": "https://www.sportschosun.com/baseball/2026-11-12/202611120100085450008099",
+  "title": "[공식발표]'아빌라-리차드슨 원투펀치' SSG 100만불짜리 157km 투수 영입 완료",
+  "published_at": "2026-11-12T04:59:48.000Z",
+  "collected_at": "2026-11-12T07:37:51.032Z",
+  "summary_ko": "스포츠조선은 SSG가 최고 157km를 던지는 리차드슨을 100만 달러에 영입해 아빌라와 원투펀치를 꾸렸다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "www.xportsnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBqaTBwSWJtX2lSRElQSFNsZWliMDR5Mi1ZdzEyVi0xU3Z1WVlYazkxNlNhb3k3cnJGdEo5QWFKMEZnRGJLWTZndnp5eU5yRXlWMmRUYQ?oc=5"
+    }
+  ],
+  "brief_ko": "157km 리차드슨, 100만 달러"
+}
