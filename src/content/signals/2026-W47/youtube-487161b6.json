@@ -1,0 +1,27 @@
+{
+  "id": "youtube-487161b6",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "뇌절야구",
+  "url": "https://www.youtube.com/watch?v=sFfJYZ8vx1w",
+  "title": "돌아온 뽕열포! 넥센 히어로즈 외야수 이성열 응원가",
+  "published_at": "2026-11-12T14:00:28Z",
+  "collected_at": "2026-11-12T21:37:56.465Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 180,
+    "likes": 3,
+    "comments": 3
+  },
+  "scores": {
+    "hot": 54,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

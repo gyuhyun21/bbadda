@@ -1,0 +1,22 @@
+{
+  "id": "news-3c17d70f",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "SPOTV NEWS",
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9aYkppQ2xKX3JZUFdHS2xWbENoay1ibjY4OU16VmFETEZtMmpZb016UVJFZ3pMcURsOV9vMGdvYW82WWxTV29zTmI3R0xzQVZwMzVMcWtZX1psdHlDbWptMW8zUzNYb0ZhMlZHYlp3M3c?oc=5",
+  "title": "KIA 초비상이다, 김태군 FA 상종가 유력… FA 대이동 시나리오, 리그 포수 판도 바뀌나",
+  "published_at": "2026-11-12T16:10:00.000Z",
+  "collected_at": "2026-11-12T21:37:56.465Z",
+  "summary_ko": "SPOTV NEWS는 김태군의 FA 몸값이 오를 것으로 보이며 포수 대이동 시나리오에 KIA가 비상이라고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

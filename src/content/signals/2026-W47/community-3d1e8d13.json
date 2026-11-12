@@ -1,0 +1,24 @@
+{
+  "id": "community-3d1e8d13",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "다음카페 쭉빵카페",
+  "url": "https://cafe.daum.net/ok1221/8mNz/1216999",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/8XgnI9fTSqZ",
+  "title": "동윤이들아 일간스포츠 우승 특별판 재입고됐대",
+  "published_at": "2026-11-11T11:37:54.000+09:00",
+  "collected_at": "2026-11-12T21:37:56.465Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 53,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-1fe29842",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "www.xportsnews.com",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1xdE1Kck1SelFfNXp2WE44VjRaYmZ5UnJfRnc4RVBsM1gxYW4xdnpPWDVFMzVpbHRTMVg1RGM5YzlJTjE2ZHlKTG05NGd5M0FhOWkzZg?oc=5",
+  "title": "\"스테이크+회전초밥 사주셨어\" 1R 초대형 신인 내야수, 日 캠프 합류→코치진 칭찬 세례…\"기본 핸들링 부드러워\"",
+  "published_at": "2026-11-12T15:34:42.000Z",
+  "collected_at": "2026-11-12T21:37:56.465Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-c800130f",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "SPOTV NEWS",
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5XMHBieGhyNnNsZk4zaFI1M0llS3JIOUZFZlZwb0NmZDlKQXc0Rl8xN2RVRGhISWJQYzI5dk14V2Q0dGpTTTJqU1laZU03YnRneEtfZ1ZFTWVBdGlVa29kWl9SODk5Zk1fYW0zM3BEd2Y?oc=5",
+  "title": "한국 야구 빨간불? 1회부터 호주에 볼넷→볼넷→쓰리런 허용…루키 김민준 흔들렸다 [APBC]",
+  "published_at": "2026-11-12T03:20:06.000Z",
+  "collected_at": "2026-11-12T21:37:56.465Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 61,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

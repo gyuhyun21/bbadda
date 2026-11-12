@@ -1,0 +1,26 @@
+{
+  "id": "youtube-9da66db0",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "염그림 Thomas",
+  "url": "https://www.youtube.com/watch?v=F4g-uoUjbBI",
+  "title": "\"최고의 손맛이었습니다\" 가을야구 찢고 팬이 준 '소녀상 사진' 꺼내본 21살 김도영 #김도영 #KIA타이거즈 #김도영홈런 #가을야구 #소녀상 #한국시리즈 #야구인터뷰",
+  "published_at": "2026-11-12T13:52:08Z",
+  "collected_at": "2026-11-12T21:37:56.465Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 4,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 8,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

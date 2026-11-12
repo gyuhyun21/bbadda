@@ -1,0 +1,26 @@
+{
+  "id": "youtube-19de6ecd",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "youtube",
+  "source_name": "이대욜로기",
+  "url": "https://www.youtube.com/watch?v=_ZbleQq1Dbw",
+  "title": "내년엔 외국인 투수 2명을 쓸 수 있을까?ㅣ2026 SSG 스토브리그",
+  "published_at": "2026-11-12T12:33:17Z",
+  "collected_at": "2026-11-12T21:37:56.465Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 3116,
+    "likes": 29,
+    "comments": 6
+  },
+  "scores": {
+    "hot": 51,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

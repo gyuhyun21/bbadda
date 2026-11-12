@@ -1,0 +1,23 @@
+{
+  "id": "news-90a334e1",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "Naver Blog",
+  "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdC1IZG5WX2lORHRaR2ZPaTdZR1QyY0hBMGdoZ29iZ1VNOWI0SDVIS2NINHBublNwOTZvMDl6OW5mOFhyanhQRlMtTjhDbzQ2VElsbUdZT1U1MTFFbmhRWTk0MkJLOEdWdzVfa3ZBNjRxU1lBN1hER1c4WDhXVjFIbVM5bE9TUnlGaTMtc1Z2LUxWVUhw?oc=5",
+  "title": "‘비슷한 유형의 김성욱은 2년 3억에 계약’ FA 시장에 나올 김호령은 얼마를 받을까?(KBO) : 네이버 블로그",
+  "published_at": "2026-11-12T21:00:39.000Z",
+  "collected_at": "2026-11-12T21:37:56.465Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

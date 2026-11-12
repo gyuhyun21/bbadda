@@ -1,0 +1,26 @@
+{
+  "id": "youtube-b73fc967",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "MNK BASEBALL(MLB,NPB,KBO)",
+  "url": "https://www.youtube.com/watch?v=KSZMrqn2INM",
+  "title": "준플레이오프 3차전 기아 시라카와 케이쇼의 인생투",
+  "published_at": "2026-11-12T14:32:42Z",
+  "collected_at": "2026-11-12T21:37:56.465Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 31,
+    "likes": 3,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 58,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

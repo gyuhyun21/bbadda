@@ -1,0 +1,24 @@
+{
+  "id": "news-8e0a3b1b",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "www.xportsnews.com",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5UeU9Xa0otWU1ObTlPVGhHR1hZTFV2OHVRYkg3WGdKa0l2TmZQRENValdQejRrSnlwV3RFc2ZzT29KZ1NER0xxNXVfdVRiSDZrMmpmaw?oc=5",
+  "title": "류지현 감독 비공식 데뷔전! '고작 21세' 5R 우완, '최고 146km' 3이닝 4K 무실점 쾌투→5선발 다크호스 떠오르나",
+  "published_at": "2026-11-12T19:30:01.000Z",
+  "collected_at": "2026-11-12T21:37:56.465Z",
+  "summary_ko": "엑스포츠뉴스는 류지현 감독의 비공식 데뷔전에서 21세 한화 5라운드 우완이 최고 146km로 3이닝 4탈삼진 무실점을 기록했다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "21세 5R 우완, 3이닝 무실점"
+}

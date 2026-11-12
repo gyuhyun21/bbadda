@@ -1,0 +1,23 @@
+{
+  "id": "news-869cdeef",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "금강일보",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9tN0Y0emRoMkhNNVpjMnd3WkdJb2RuNTF2WlhXRHo2SGYzdy02b2ZRNHVzMWZ0N1o5WFQ1RUxGa0NXX3c5WmQ2eGs0dHIwbHB1QzMxOFJBSmpWdFpTMTgyQVlqTHZhcEFLN1E?oc=5",
+  "title": "‘2026 APBC’ 12일(오늘) 호주전 선발은 김민준... 남은 일정은?",
+  "published_at": "2026-11-12T01:01:14.000Z",
+  "collected_at": "2026-11-12T21:37:56.465Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 61,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

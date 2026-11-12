@@ -1,0 +1,24 @@
+{
+  "id": "news-870609fd",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "SPOTV NEWS",
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9BRnJOc2JZVGwtUkgtTW9Xd05Ma3pZa0wwOTJKTV9icWFNWFI0U1NPbTh3Q1FxcFlfSGlnRE9CNDlQb3pJalpqOVFoTHUtRmdFUng1d2RRSFlwbXlFNUhkdGJQLUtRY0NWMjYxcUJHdGU?oc=5",
+  "title": "\"내가 어떻게 조언하나\" 후배 투수가 훨씬 잘한다? 글쎄…이로운은 왜 김민준 극찬했나 [APBC]",
+  "published_at": "2026-11-12T02:42:00.000Z",
+  "collected_at": "2026-11-12T21:37:56.465Z",
+  "summary_ko": "SPOTV NEWS는 이로운이 대표팀 후배 김민준을 두고 자신보다 훨씬 잘한다며 치켜세웠다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 61,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "이로운이 김민준을 치켜세운 이유"
+}

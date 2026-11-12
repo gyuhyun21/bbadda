@@ -1,0 +1,27 @@
+{
+  "id": "youtube-45abfa4e",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "SSG랜더스",
+  "url": "https://www.youtube.com/watch?v=3-0Enocetsc",
+  "title": "이제는 랜더스의 이름으로! Welcome 리차드슨❤",
+  "published_at": "2026-11-12T07:00:08Z",
+  "collected_at": "2026-11-12T21:37:56.465Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 33051,
+    "likes": 764,
+    "comments": 126
+  },
+  "scores": {
+    "hot": 76,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

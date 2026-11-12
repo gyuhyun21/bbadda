@@ -1,0 +1,24 @@
+{
+  "id": "community-6a6fe5e4",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "다음카페 도탁스 (DOTAX)",
+  "url": "https://cafe.daum.net/dotax/LSNc/657395",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/FbJhMjSxfCb",
+  "title": "이영미 기자: 김태군 FA시장 평가 받아보고 싶다...",
+  "published_at": "2026-11-10T22:12:21.000+09:00",
+  "collected_at": "2026-11-12T21:37:56.465Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 48,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

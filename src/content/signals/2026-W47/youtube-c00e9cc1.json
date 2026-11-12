@@ -1,0 +1,26 @@
+{
+  "id": "youtube-c00e9cc1",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "source_name": "빠던이여영원하라",
+  "url": "https://www.youtube.com/watch?v=ru0Va1ohWgQ",
+  "title": "MLB 스카우터가 평가하는 노시환 #노시환 #야구 #김태균 #한화이글스",
+  "published_at": "2026-11-12T19:49:23Z",
+  "collected_at": "2026-11-12T21:37:56.465Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 4,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 8,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

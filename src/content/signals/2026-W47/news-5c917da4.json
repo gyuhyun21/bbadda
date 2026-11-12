@@ -1,0 +1,23 @@
+{
+  "id": "news-5c917da4",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠경향",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE82VDJzazhmb2d4WkExYmpIdXZQUFJOXzhFV0FYNmduRDlJRExhWUxVR1gyQmlRZjVqem45Rm16TG95cFRvWXRpLU5mVXF0LWNJcTl2NUFCdnZ3bmRlb29yT2loc9IBY0FVX3lxTE82VDJzazhmb2d4WkExYmpIdXZQUFJOXzhFV0FYNmduRDlJRExhWUxVR1gyQmlRZjVqem45Rm16TG95cFRvWXRpLU5mVXF0LWNJcTl2NUFCdnZ3bmRlb29yT2locw?oc=5",
+  "title": "200만불 사나이 오스틴 외인 타자 새 역사",
+  "published_at": "2026-11-12T14:00:00.000Z",
+  "collected_at": "2026-11-12T21:37:56.465Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

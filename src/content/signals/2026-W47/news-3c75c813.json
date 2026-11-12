@@ -1,0 +1,23 @@
+{
+  "id": "news-3c75c813",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠동아",
+  "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBwaGZrSjNwNlNhcEVXOGV2SmNCbTN1YVV2ZFJSVnZaeTFVRE84X181RjdPbUhiQTVRVUw2THktR3kyNTdnVzdXbzcxajlFdnhSVDJ6dW9QQk9KMkZZelJwQUNKY1RBcmkxdmxhb0hTUDFaUQ?oc=5",
+  "title": "“지루함 속에서 동기를” 마무리 캠프서 다시 시작한 ‘루틴 자이언츠’의 좋은 습관 만들기 [SD 미야자키 리포트]",
+  "published_at": "2026-11-12T15:00:00.000Z",
+  "collected_at": "2026-11-12T21:37:56.465Z",
+  "summary_ko": "스포츠동아는 롯데가 미야자키 마무리캠프에서 지루함 속 동기를 찾는 루틴 만들기에 나섰다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

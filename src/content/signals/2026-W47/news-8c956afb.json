@@ -1,0 +1,22 @@
+{
+  "id": "news-8c956afb",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "엑스포츠뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9OSjlJT001eXVBQUtxNGppV0FEMlpSU19QdWk5RGlQaC14M3lzU1NlUzJtMDZfMmJ0LXBGMUFNYkVjU3pCOGdXRG9VeWRtQ2hRVXVJWA?oc=5",
+  "title": "'48억 대반전' 벤치마킹? KIA, 홍창기 FA 저점 매수 나설까…'2번 출루율' 9위 0.332→'최소 0.375' 향상 가능",
+  "published_at": "2026-11-12T15:50:17.000Z",
+  "collected_at": "2026-11-12T21:37:56.465Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

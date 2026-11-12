@@ -1,0 +1,23 @@
+{
+  "id": "news-cdb184f8",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠서울",
+  "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9TRkFhMUZWMElVQWljQ0pPT0pCUFE3MVF3WFAzTkRnQVE5SVItWWtBYlR4SW9aZ285eVljUFNyaXNoZUdNYl9Xd0xWNzNMUnVzWUJMZlVSVmU?oc=5",
+  "title": "후라도 우승 축하하러 직접 찾아왔다…이정후·안우진, 여전한 키움 의리",
+  "published_at": "2026-11-12T04:16:08.000Z",
+  "collected_at": "2026-11-12T21:37:56.465Z",
+  "summary_ko": "스포츠서울은 이정후·안우진이 후라도의 우승을 축하하러 직접 찾아왔다며 여전한 키움 의리를 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 62,
+    "relevance": 80
+  },
+  "sentiment": "positive",
+  "brief_ko": "이정후·안우진, 후라도 우승 축하"
+}
