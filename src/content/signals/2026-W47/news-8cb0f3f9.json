@@ -1,0 +1,23 @@
+{
+  "id": "news-8cb0f3f9",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "m.mksports.co.kr",
+  "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAyajhVYWJBOTROR0RUTS1zd1F2d2YyZUl3bThpSWRBS29UUmtMd25hcFFtRnBzUmI1bmhQQTBIb2lJZTBOaW5IN3NOMjBtclplSURwcmFFMDcyMDYtSERUUUZOS3Y?oc=5",
+  "title": "‘충격’ 2.1이닝 4실점으로 무너지다니…호주 공세에 혼쭐난 김민준 [APBC]",
+  "published_at": "2026-11-12T03:52:01.000Z",
+  "collected_at": "2026-11-12T07:37:51.032Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "community-1d74735e",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 정보의 신.",
+  "url": "https://foodgod38.tistory.com/94",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/Jnh1rSzNAj0",
+  "title": "날씨도, 비시즌도 걱정 없다…돔구장이 바꾸는 야구의 미래 [IS 서포터즈]",
+  "published_at": "2026-11-12T09:00:00.000+09:00",
+  "collected_at": "2026-11-12T07:37:51.032Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

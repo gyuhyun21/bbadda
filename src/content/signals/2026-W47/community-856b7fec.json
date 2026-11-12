@@ -1,0 +1,24 @@
+{
+  "id": "community-856b7fec",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&page=3&document_srl=10546734663",
+  "title": "김휘집은 진짜로 아겜 아깝긴 하겠네 - 야구",
+  "published_at": "2026-11-12T05:37:51.032Z",
+  "collected_at": "2026-11-12T07:37:51.032Z",
+  "summary_ko": "",
+  "excerpt": "... 노스캐롤라이나 다이노스. 1 분 전 ABL 김크롱 조회19. 노스캐롤라이나 ... 국대 타자는 nc출신만 뽑도록…",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

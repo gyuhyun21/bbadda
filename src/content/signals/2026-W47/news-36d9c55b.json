@@ -1,0 +1,30 @@
+{
+  "id": "news-36d9c55b",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://www.mt.co.kr/amp/sports/2026/11/12/202611121400771659O",
+  "title": "'WBC→AG→APBC 국대 개근' 김주원, 역시 다르네! '초대형' 추격의 투런포 폭발…답답했던 한국 타선 혈 뚫었다 [오!쎈 도쿄]",
+  "published_at": "2026-11-12T05:11:00.000Z",
+  "collected_at": "2026-11-12T07:37:51.032Z",
+  "summary_ko": "머니투데이는 NC 김주원이 호주전에서 추격의 투런 홈런으로 막혔던 대표팀 타선을 뚫었다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4xRDNDTG1ac0dWXzJKTVZyMXJoUW9VelZWSEtJeUt4MV9XTHdkRmZnOTN4T2lleW1uM1gzVjBqMjJIbW5aeFJmZTNjNFNJQnQ1MUx5RQ?oc=5"
+    }
+  ],
+  "brief_ko": "김주원, 도쿄돔 추격 투런"
+}

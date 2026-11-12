@@ -1,0 +1,25 @@
+{
+  "id": "news-a8c736ef",
+  "issue": "2026-W47",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "뉴시스",
+  "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261112_0003865357",
+  "title": "데뷔 23년째 첫 우승 강민호 '유퀴즈'서 유재석 만난다",
+  "published_at": "2026-11-12T04:30:00.000Z",
+  "collected_at": "2026-11-12T07:37:51.032Z",
+  "summary_ko": "뉴시스는 데뷔 23년 만에 첫 우승을 한 강민호가 '유퀴즈'에서 유재석을 만난다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 91,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "brief_ko": "강민호, 유퀴즈서 유재석 만난다"
+}

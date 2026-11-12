@@ -1,0 +1,26 @@
+{
+  "id": "youtube-fbe442c3",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "youtube",
+  "source_name": "아이고롯데야 OMG LOTTE GIANTS",
+  "url": "https://www.youtube.com/watch?v=QTiu7SDzrGU",
+  "title": "[직관 브이로그 : 9월 29일 화요일 키움전 4대2 승] 0대2에서 뒤집었다! 한동희 동점 투런에 사직이 터졌습니다 / 전준우 2루타·손성빈 희플로 역전",
+  "published_at": "2026-11-11T23:23:46Z",
+  "collected_at": "2026-11-12T07:37:51.032Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 398,
+    "likes": 5,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 40,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

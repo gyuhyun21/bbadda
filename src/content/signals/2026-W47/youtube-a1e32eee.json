@@ -1,0 +1,27 @@
+{
+  "id": "youtube-a1e32eee",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte",
+    "kiwoom"
+  ],
+  "source_type": "youtube",
+  "source_name": "야구라",
+  "url": "https://www.youtube.com/watch?v=ekDxPA5TJhw",
+  "title": "\"무조건 잡겠다\" 말 못 하나… FA 포수 대이동 현실로? | 오늘 APBC 플레이볼, 김민준 vs 마이너 유망주 호주 | 롯데·키움 코칭스태프 완료, 박병호 퓨처스 타격 총괄",
+  "published_at": "2026-11-12T00:37:20Z",
+  "collected_at": "2026-11-12T07:37:51.032Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 34851,
+    "likes": 458,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

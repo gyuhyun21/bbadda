@@ -1,0 +1,22 @@
+{
+  "id": "community-0a0e732a",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 맛집,혼자여행 좋아하는 댕양",
+  "url": "https://blog.naver.com/yunjung7870/224472936769",
+  "title": "2026 프로야구 한국시리즈 우승 삼성라이온즈",
+  "published_at": "2026-11-11T14:07:00.000+09:00",
+  "collected_at": "2026-11-12T07:37:51.032Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 59,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

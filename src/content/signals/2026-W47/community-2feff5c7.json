@@ -1,0 +1,23 @@
+{
+  "id": "community-2feff5c7",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "community",
+  "source_name": "엠엘비파크",
+  "url": "https://mlbpark.donga.com/mp/b.php?id=202611030119839860&p=31&b=kbotown&m=view&select=spf&query=%ED%95%9C%ED%99%94&site=kakao.com",
+  "title": "와이스 한화이글스 오나요?",
+  "published_at": "2026-11-02T15:00:00.000Z",
+  "collected_at": "2026-11-12T07:37:51.032Z",
+  "summary_ko": "",
+  "excerpt": "... 와이스 이번주에 한화이글스 계약 뉴스가 나오길 기대해 봅니다.",
+  "metrics": {},
+  "scores": {
+    "hot": 8,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

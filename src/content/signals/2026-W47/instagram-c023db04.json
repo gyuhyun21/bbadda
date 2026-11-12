@@ -1,0 +1,23 @@
+{
+  "id": "instagram-c023db04",
+  "issue": "2026-W47",
+  "module": "league",
+  "teams": [],
+  "source_type": "instagram",
+  "official": true,
+  "source_name": "Instagram @kbo.official",
+  "url": "https://www.instagram.com/p/DfobzVYqcT5/",
+  "title": "KBO 리그 공식 인스타그램: [2026 APBC 경기 결과🇰🇷]",
+  "published_at": "2026-11-12T06:40:39+0000",
+  "collected_at": "2026-11-12T07:37:51.032Z",
+  "summary_ko": "",
+  "metrics": {
+    "likes": 8453,
+    "comments": 691
+  },
+  "scores": {
+    "hot": 68,
+    "relevance": 30
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "community-29962366",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/10546411002",
+  "title": "KBO를 사랑하는 일본인이 롯데를 2번째로 좋아하는 이유",
+  "published_at": "2026-11-12T03:37:51.032Z",
+  "collected_at": "2026-11-12T07:37:51.032Z",
+  "summary_ko": "",
+  "excerpt": "... 참고로 1위는 삼성 라이온즈라고..",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

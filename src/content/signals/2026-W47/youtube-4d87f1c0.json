@@ -1,0 +1,26 @@
+{
+  "id": "youtube-4d87f1c0",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "youtube",
+  "source_name": "엘냠씨",
+  "url": "https://www.youtube.com/watch?v=mAA3xcVMBi0",
+  "title": "쥐불놀이 김영웅 응원 숏츠 많이 봐주세요! #엘지 #엘지트윈스 #LG #LG트윈스 #KBO #야구 #야구팬 #크보 #프로야구 #야구리뷰 #야구분석 #엘냠씨",
+  "published_at": "2026-11-12T05:00:36Z",
+  "collected_at": "2026-11-12T07:37:51.032Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 273,
+    "likes": 6,
+    "comments": 4
+  },
+  "scores": {
+    "hot": 58,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

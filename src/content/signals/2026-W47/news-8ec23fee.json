@@ -1,0 +1,23 @@
+{
+  "id": "news-8ec23fee",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "재경일보",
+  "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB1SVl1N29KZ0dlYXFrQVRKVU54UUJTUWxsZlJETVBIVXFtNUhHNTJraDRtSm9XX0RVaHpnNlpZWWx6X2kwRjVtc2RDYw?oc=5",
+  "title": "구자욱 손편지 공개…우승 뒤 거취 관심 : 스포츠",
+  "published_at": "2026-11-11T18:51:00.000Z",
+  "collected_at": "2026-11-12T07:37:51.032Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 71,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

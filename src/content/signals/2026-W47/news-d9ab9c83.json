@@ -1,0 +1,22 @@
+{
+  "id": "news-d9ab9c83",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "매일신문",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE83TmdiOTdMU21BNnFTRWx3bVpkYzZJck5qby1MU05ucGt2MElFMy1JM1NjWV92R2dleEhpcEROVXpLSTZpRFJFbGVPYUdFdHBmdFpvemw0Qmk4dGdVcEFBZ1RB?oc=5",
+  "title": "삼성 우승날 페덱이 입은 정장, 알고 보니 대구 브랜드 `에스터로브`",
+  "published_at": "2026-11-12T06:27:29.000Z",
+  "collected_at": "2026-11-12T07:37:51.032Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 84,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

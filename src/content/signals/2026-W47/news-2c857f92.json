@@ -1,0 +1,28 @@
+{
+  "id": "news-2c857f92",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "미주중앙일보",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE16TzRkeDIxcGRyMURPWkNZNGVUZFU1dnRBX2d0U0pHZU9OQTAyb3doZ3VPeFBVcVM4R1BtczR2eWV5YzAwQnJ1MXNWT3lxRURieTlySXUwTzJ1YV9DekJocXRR?oc=5",
+  "title": "‘와’ 삼성 우승에도 만족 없다! 벌써 2연패 준비 돌입...배찬승-김백산-김현준 호주 전격 파견 “기량+경험 축적하고 오길”",
+  "published_at": "2026-11-12T03:12:00.000Z",
+  "collected_at": "2026-11-12T07:37:51.032Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 82,
+    "relevance": 70
+  },
+  "sentiment": "mixed",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9wdUUyaGdMMlo1R1ZPak5iRTUwcnczdDFxVmhraUw1SG04blVpZVNSV1h2MVRWV0g0WXpVek1FdzJ6Z25tR0lDcEtGM0pkNGpDN0RFakpmbTNicmZZaEhxZG43dHZNUWJwVkHSAW9BVV95cUxPNTByNGJJSVZ6eHZIZnpEN0txQUVOb2tBOTZuclh0enlUNkNfMG5xaExsNWRDdU5lUjgzdE5qY3QxQTJtNkFVWkxoYThnQjhQRE5nVTl3eVFRMlMxRnJMM2dyd3pOaC0xVHl0M3NZVjg?oc=5"
+    }
+  ]
+}

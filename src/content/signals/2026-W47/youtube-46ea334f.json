@@ -1,0 +1,27 @@
+{
+  "id": "youtube-46ea334f",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "야구인물사전",
+  "url": "https://www.youtube.com/watch?v=J4IXRFKKEws",
+  "title": "오피셜 떴다 오스틴 재계약#shorts",
+  "published_at": "2026-11-12T06:30:29Z",
+  "collected_at": "2026-11-12T07:37:51.032Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 6419,
+    "likes": 215,
+    "comments": 12
+  },
+  "scores": {
+    "hot": 73,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

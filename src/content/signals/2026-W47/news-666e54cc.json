@@ -1,0 +1,23 @@
+{
+  "id": "news-666e54cc",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "news",
+  "source_name": "연합뉴스",
+  "url": "https://www.yna.co.kr/view/AKR20261112139400007",
+  "title": "두산 신인 김지우, 이진영 코치도 칭찬…\"파워·기술 겸비\"",
+  "published_at": "2026-11-12T06:46:01.000Z",
+  "collected_at": "2026-11-12T07:37:51.032Z",
+  "summary_ko": "연합뉴스는 두산 신인 김지우가 마무리캠프에서 이진영 코치에게도 파워와 기술을 갖췄다는 칭찬을 받았다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "신인 김지우, 코치 칭찬 릴레이"
+}

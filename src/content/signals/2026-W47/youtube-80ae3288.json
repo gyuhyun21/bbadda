@@ -1,0 +1,26 @@
+{
+  "id": "youtube-80ae3288",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "공여우",
+  "url": "https://www.youtube.com/watch?v=6GHesXw5lvM",
+  "title": "[KBO] 김호령 계약, 윈윈? #KBO #KBO리그 #야구분석 #기아 #기아타이거즈 #김호령",
+  "published_at": "2026-11-12T03:25:23Z",
+  "collected_at": "2026-11-12T07:37:51.032Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1020,
+    "likes": 9,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 42,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

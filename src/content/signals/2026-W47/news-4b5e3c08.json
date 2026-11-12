@@ -1,0 +1,30 @@
+{
+  "id": "news-4b5e3c08",
+  "issue": "2026-W47",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "ssg"
+  ],
+  "source_type": "news",
+  "announcement": true,
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5GQldsRHp6Z1hNdEFZMGlndE1ia3JhU1R6RjEwWkxMSFJqdk01bzJ0eUNYZXNoV3R0cHZQakV6Yk0taGkxT0FjX3ZUSGdDNWZjLVc4dFlzTmd2a1gxNXhDamRlWGpWejN4N09ZSWl4WdIBb0FVX3lxTE5GQldsRHp6Z1hNdEFZMGlndE1ia3JhU1R6RjEwWkxMSFJqdk01bzJ0eUNYZXNoV3R0cHZQakV6Yk0taGkxT0FjX3ZUSGdDNWZjLVc4dFlzTmd2a1gxNXhDamRlWGpWejN4N09ZSWl4WQ?oc=5",
+  "title": "[공식발표] ‘SK→KIA→SSG’ 37살 우승 포수 전격 방출…‘고작 30살’ 거포 유망주 은퇴 선언 ‘SSG 선수단 칼바람’",
+  "published_at": "2026-11-12T01:25:00.000Z",
+  "collected_at": "2026-11-12T07:37:51.032Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 82,
+    "relevance": 70
+  },
+  "sentiment": "mixed",
+  "also_in": [
+    {
+      "source_name": "OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE45ZThBSUVFMXg5WGRFUmFTWk1RZ0tPWHlDUlJUd0pWMFd6N1I5M0Z1RjJSNFhZdGZaU0oyNExyU2UzQVViMXhDQlVGX0ZFcEhpWUJzVg?oc=5"
+    }
+  ]
+}

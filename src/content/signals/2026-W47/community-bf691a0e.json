@@ -1,0 +1,24 @@
+{
+  "id": "community-bf691a0e",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 오늘 뭐 봐",
+  "url": "https://ymw0210.tistory.com/203",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/CgdLH8kVKtF",
+  "title": "노시환 MLB 진출설, 보도된 관심 구단과 포스팅 일정 정리",
+  "published_at": "2026-11-12T11:30:02.000+09:00",
+  "collected_at": "2026-11-12T07:37:51.032Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

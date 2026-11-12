@@ -1,0 +1,48 @@
+{
+  "id": "news-24d5792e",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "데일리안",
+  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0tQmtqYVNvTU9OLVM2bkF4RU1uWjk5SkUySXhlNWNfMXE4a1ZfV2swVXdXb2NNZzF5TThtSU1Vamx6YnNrNFNVdTVrRy0xNFdZZDEyWGk4dw?oc=5",
+  "title": "강민호 우승 공약 현실로…에버랜드, 삼성라이온즈 팬 2000명 초청",
+  "published_at": "2026-11-12T05:34:00.000Z",
+  "collected_at": "2026-11-12T07:37:51.032Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 99,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "IT타임스",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1DVVp3QXpXdEZUelVNN2FLYlVfTnlMYUl5Y3M3QUo2eHF4T0xuMlF6S1JuQ0JRUG4xQm1vSF9YSHI4WUFiRG9sQXdzYnJTQVNGU0dCTzQ5RFgwZ3JpMm53d3RiTFpRMERx?oc=5"
+    },
+    {
+      "source_name": "뉴시안",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Wdm5Cdnl1QURCMGZmaHJaUUt3TmszeDF6V1VFanpucVBtX3R4Zy1sTUtkMWdWU0lrdklTZDhwQ0NlQTZ3eEdzTTFYakVYWmowVUJ0NVg1bTM5ZGE5VUNCaE1oa0I0OVpMSFQ3dA?oc=5"
+    },
+    {
+      "source_name": "파이낸셜포스트",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9nMWZpajR1VURYZTB4NWFUdHpaWDdETjZsQ2tQQnZDd0VQcU4tUHJhRDdxczM5ZC1DRlRQSlU5ZzBVWlhLQ2ZRdGRnSVU1MTZLZVd1a1Q2U25LS3lEaHlLa2E1cmd6eXNXX056YkFQby16ZEJp?oc=5"
+    },
+    {
+      "source_name": "파이낸셜뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE93Y1lmUlhIV3BTSzg5M2RnNHhmTkJFMEgzLWE4NHV5RzZ0QW1xZk5lTV81RERrMUFBNFZaZWUtNkt4dHRiMnNDVkRTaFFfRHJNUktaeE8zcy1sQQ?oc=5"
+    },
+    {
+      "source_name": "한국일보",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA1TGF2WkRoU3h5Ull2elNIWXhTRmlScTZaT1dpU2lKRXF1RVZtVkpScXJRM3RUSWRRbVAtV1NRbjJYRndzTFJWSU5udEdpQk91bEc1bWIyOTNkNkQyeTFNQ0cteUpXNWE0emJ0WnZB0gFzQVVfeXFMTXE0TUF5Zlk2b1RCVllrRDVkdE5HRWo0TElZdFc3WkQ0TlNTQTkxSlYzZlJldUZvcGhHZG5fdzAwbzJEV0FEXy1CZU9YR1NBZFNNaElGNWZzQXBYWllkZ1ZtejVQVEJiajZfdXBnN3Rac05Daw?oc=5"
+    },
+    {
+      "source_name": "아시아경제",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1UODRGYS1JSU4xRHJVa0RMWlhiRm1vS2E3WHZlX3V3WjBUUmlOUFhtSEtVWVlXZUxSNU5yUHhRYmZra3U1RFRxcmhjOVd2aVQ3dXBUbkpwRXBpU0IwQ1FUOA?oc=5"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-216c04a4",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "뉴스엔",
+  "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE02TGlwdHlDdmVka0tfV1NXMVlCQmIwYmJnVUltZlZWMXB3M0dianQyTThENkp2OTVQMGJlZklUZGJKVnBfZFdUQ2w4QnFMQ1M4TE1iTDdOTDF6bkY3M3RiNXFISDJtRGZJRTVPODJYRjlSNGc1VWxzd3h6UQ?oc=5",
+  "title": "우승 포수 강민호 최고령 타자 최형우, ‘유퀴즈’ 출격 “다시 돌아온 푸른 사자의 시대”",
+  "published_at": "2026-11-12T02:01:20.000Z",
+  "collected_at": "2026-11-12T07:37:51.032Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

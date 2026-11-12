@@ -1,0 +1,26 @@
+{
+  "id": "instagram-918c9e18",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "instagram",
+  "official": true,
+  "source_name": "Instagram @lgtwinsbaseballclub",
+  "url": "https://www.instagram.com/p/DfoCk5iHQD6/",
+  "title": "LG 트윈스 공식 인스타그램: 야구계가 빼앗긴 인재들🥹",
+  "published_at": "2026-11-12T03:00:01+0000",
+  "collected_at": "2026-11-12T07:37:51.032Z",
+  "summary_ko": "",
+  "metrics": {
+    "likes": 2821,
+    "comments": 10
+  },
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

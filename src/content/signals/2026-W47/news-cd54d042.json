@@ -1,0 +1,23 @@
+{
+  "id": "news-cd54d042",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "SPOTV NEWS",
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5PcnowblRtOFc4a0diekxjOUZra29EZk9sUjc1d2plVjVHd1d4cEZIRlk3ZmNnd1BkV3lEYXRhaU9ZV1dfN04wRVdUZ1Zfb0l4OGRPRm5RSHVvMzhmTHJoZFN1OFAwZFBmYmlUSWt5YXA?oc=5",
+  "title": "\"야구장 나가는게 두려웠다\" 실책하고 싶은 선수가 어디있나…그래서 몇 배로 땀방울 흘리고 있다",
+  "published_at": "2026-11-12T00:40:00.000Z",
+  "collected_at": "2026-11-12T07:37:51.032Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

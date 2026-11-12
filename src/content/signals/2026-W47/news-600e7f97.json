@@ -1,0 +1,36 @@
+{
+  "id": "news-600e7f97",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "news",
+  "source_name": "동아일보",
+  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0yNWJ3N1lQWnFMVGNiR2dwVEtkclNJRG40Vk5wT3pBLVdEYnh4RGdyQ0MxTGs4UmFPRXF1eHhLc2RnQ19OZjRjMHJ3VG1VZnJPZ3lLOWRjMmhuMWZlZHdKZVNTLWdoVnk1RjR3QmFGQ2NUdHFv0gFmQVVfeXFMTkJ2dWJ1STRicG40blJNUUFyZzVqTjgxSmw0bDVxMGRocGQydTNQVUVqQkVrdUZvZ2pEaDBPUFNNcHBFNTVLZ2tTbUFUdHVfVXF2aWdENWFXOTJDZ0dTWGZvd0NvOWVR?oc=5",
+  "title": "SSG, 새 외인 투수로 우완 리차드슨 영입…총액 100만 달러",
+  "published_at": "2026-11-12T05:22:29.000Z",
+  "collected_at": "2026-11-12T07:37:51.032Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 91,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "스포츠동아",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5YNnBkRW44MmFKUVR0WlVCT2FPMWNBQ3pZTHdwVmpYc2dFQ21xSjBvWWxaZzlhWFAtR1YyTjRhRE9zbWdhcEJqSmw4UU1jMVlIVUxmRnVSMGZoblpmRmJ2T3Q5SzNIbTRiYVpwWFF6eXhsUQ?oc=5"
+    },
+    {
+      "source_name": "뉴데일리",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5HMHIyeUFoUk1fc05ETnRlQ2VNQy1ub0pDaDc2cnZTUVI1Vl9nRUttemYydElMRXBVOGttSERTc2pzYV8tYnZVdDl1N0xvM3RNU25GX0tPTEV0WEljWFVaUk5yTXBWd1VtclczMnoyZDVKdzRSZ3pneWZn0gGAAUFVX3lxTE81S2ItUHNqVjZ6NmtZVnBEVERHWWRlZVREUnRzZHpMWURDUl9kaVUxQXh6dlNHNnk0Z19VQV9fR1FZdjVBRF8yN3dUdkpsUUd3YzlVYWZ4bmN5SlF3cm5yMUJzMS1ydWhRUVlHQXdGd1NnR0NjblZNd3RVQ0ItMVdh?oc=5"
+    },
+    {
+      "source_name": "천지일보",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBQaExsaUY1cmF2ZU8wakdVWmt0LTk0a0Q2Z1Jmdi01bncwZTFEVFE0TWNCTlVFNUNxYl9FdUVCSXRvUzI0SjlWOUJ6aENUeUNST21fWHE0eDYwYlRaYTRhNm9xcm5HbVlLaHc?oc=5"
+    }
+  ]
+}

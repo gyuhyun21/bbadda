@@ -1,0 +1,28 @@
+{
+  "id": "news-482f1ce8",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "news",
+  "source_name": "연합뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ETnp2TTMzb0lXNzd2ZHpHcFlQZmhVU1FhV0hmVGVXRjJMYWJqS1E1SExhaXlkTEJiNWQ0WktGbzZQd3l6X1l3VWhiNW8zMzZrelZ2VzdNdUY0Q2vSAWBBVV95cUxQR2lHRDBjRXdDOFBFVC1GT25JSnFXckdJZnFtUVRiM3BhbElfcGxCZElVV3daN1RrMng4bFRZNVJ1LXRKTmxIdEIzeHY4eVY2TWxOWEpmM3NoLWpfNTljR1g?oc=5",
+  "title": "SSG, 베테랑 포수 김민식과 결별…선수단 추가 정비",
+  "published_at": "2026-11-12T01:22:56.000Z",
+  "collected_at": "2026-11-12T07:37:51.032Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 82,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "www.maniareport.com",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBUaUJadENIUEFvMEF6MmRPUFZETFA5RklzbndhLUNqWUhPZlVnRDVYRndPcURHZkZkYXJqUDY2cXZMOUgwRDcyZXMwd3hGZnpkbGRiVnB6Rmktd0QwcmZveE5vNFBsNmFkVjhaelRsMTdlZ3I3MjkxT0Zucw?oc=5"
+    }
+  ]
+}

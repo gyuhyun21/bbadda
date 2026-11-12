@@ -1,0 +1,22 @@
+{
+  "id": "news-e37885cc",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "마이데일리",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB3OXF0MDY4NkxzMWpwS2I1ZDZPQWFpU2JTU0dUaVRqQUQ3dHNfUUNKdzRkdVVSY0ZQOURFZng2STZjV1hxMXJOekNtbVgxc205dnRvMUd3OHA3RVhCWGxxdw?oc=5",
+  "title": "“여기 아닌데?” KIA 코치의 기습공격? 박상준 본의 아니게 몸개그…日국대 코치에게 과외까지 ‘열정’",
+  "published_at": "2026-11-12T02:30:00.000Z",
+  "collected_at": "2026-11-12T07:37:51.032Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}
