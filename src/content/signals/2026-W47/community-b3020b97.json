@@ -1,0 +1,24 @@
+{
+  "id": "community-b3020b97",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/10548312203",
+  "title": "대한맘 티어표 정리 - 야구",
+  "published_at": "2026-11-12T13:37:56.465Z",
+  "collected_at": "2026-11-12T21:37:56.465Z",
+  "summary_ko": "",
+  "excerpt": "... 1. 도영 · 2. 롯데 · 3. 한화 · 4. 기아 · 5. 삼성…",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

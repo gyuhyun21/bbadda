@@ -1,0 +1,27 @@
+{
+  "id": "youtube-0166173c",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "롯덕 ",
+  "url": "https://www.youtube.com/watch?v=styzIQ2OHbs",
+  "title": "25홈런 치더니 결국... 이동욱 감독이 한동희에게 내린 파격적인 결정",
+  "published_at": "2026-11-12T12:00:20Z",
+  "collected_at": "2026-11-12T21:37:56.465Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1988,
+    "likes": 34,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 54,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "news-768602e9",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스핌",
+  "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBfR3ptV2Z1ZWJyUHJ3U0o0YUFrLUptNGdPZlhwTVB2Q29ZN3d6V0t1R1pZOS1zZGMzV1dzX2VwanJPbl9kSDJURlhsMWN1XzJNVldYYTl2Sl9YYzg5?oc=5",
+  "title": "[프로야구] SSG '우승포수' 김민식 방출…류효승·길지석 은퇴 결정",
+  "published_at": "2026-11-12T02:38:00.000Z",
+  "collected_at": "2026-11-12T21:37:56.465Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 61,
+    "relevance": 70
+  },
+  "sentiment": "mixed"
+}

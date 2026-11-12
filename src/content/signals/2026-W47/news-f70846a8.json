@@ -1,0 +1,22 @@
+{
+  "id": "news-f70846a8",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "데일리한국",
+  "url": "https://daily.hankooki.com/news/articleViewAmp.html?idxno=1424614",
+  "title": "'옷도 못 갈아입겠더라'…삼성 박승규가 공개한 승리 징크스",
+  "published_at": "2026-11-12T17:56:55.000Z",
+  "collected_at": "2026-11-12T21:37:56.465Z",
+  "summary_ko": "데일리한국은 삼성 박승규가 옷도 못 갈아입었다는 승리 징크스를 공개했다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 80
+  },
+  "sentiment": "positive"
+}

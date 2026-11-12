@@ -1,0 +1,30 @@
+{
+  "id": "news-d3466125",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://www.mt.co.kr/amp/sports/2026/11/13/2026111219552258076",
+  "title": "'와' 이러니 MLB가 주목하지... '홈런+2루타 장타폭발' 김주원, \"포스팅시 많은 팀이 원할 것\" 이유 증명 [APBC]",
+  "published_at": "2026-11-12T15:01:00.000Z",
+  "collected_at": "2026-11-12T21:37:56.465Z",
+  "summary_ko": "머니투데이는 김주원이 호주전 홈런과 2루타로 포스팅 때 많은 팀이 원할 것이라는 평가를 증명했다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 82,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5BSzJ0NUJRSXF5NURqQjJjSGFjdVJGR3dzbFlra01SV2JRLWZjMlVUamtSVFhhSno5VXBrRk84LVU0czlrU3FqU3lvaVRyQ2MyNk1oTWF5ckl2VnpITzVkbVpfUno3NkU5N0c0R2xRanY0V0pFZ3c?oc=5"
+    }
+  ],
+  "brief_ko": "MLB가 주목하는 김주원 장타"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "news-a33cdf6a",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스핌",
+  "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8tY3YybnllcWFkYmNlRzRWMzVUemRYeHdIQmpQVlRpSWY3emlNVG1RQjVjRWFEc3lLRTNsYmtHOVpHdzVGN3c2UHBuSEFPSHNNaUVDZFBUVE12NXFs?oc=5",
+  "title": "[APBC] '6회 6점' 빅이닝 발판 만든 김지찬, 삼성 우승 이어 日서도 활약",
+  "published_at": "2026-11-12T20:25:00.000Z",
+  "collected_at": "2026-11-12T21:37:56.465Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "youtube-eb2962db",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "얄팍",
+  "url": "https://www.youtube.com/watch?v=4w7pPegbNb0",
+  "title": "입방정이 현실로 / 2026 APBC 1차전 호주전 #삼성라이온즈 #야구",
+  "published_at": "2026-11-12T15:29:35Z",
+  "collected_at": "2026-11-12T21:37:56.465Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 493,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 33,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

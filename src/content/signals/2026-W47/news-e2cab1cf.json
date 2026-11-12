@@ -1,0 +1,23 @@
+{
+  "id": "news-e2cab1cf",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1nY3ZzRTlIM0dwdmFKNjc4RmJjRGJfWUw5dXQzSUNUd0p3T3FJZ3puODFkWGZmcDdVcmhCd18tRWJGMGNmemJUblVwLV9ZWl8zV2xkNzRKalItcVhyMUdXU3dTZjhLeXhvQ2tHQzE1b9IBb0FVX3lxTE1nY3ZzRTlIM0dwdmFKNjc4RmJjRGJfWUw5dXQzSUNUd0p3T3FJZ3puODFkWGZmcDdVcmhCd18tRWJGMGNmemJUblVwLV9ZWl8zV2xkNzRKalItcVhyMUdXU3dTZjhLeXhvQ2tHQzE1bw?oc=5",
+  "title": "'충격' 호주 마운드에 이렇게 당할 줄이야…고구마 타선에 사이다 한 방! '국대 유격수' 지치지도 않네, 개근의 이유 있다 [오!쎈 도쿄]",
+  "published_at": "2026-11-12T17:40:00.000Z",
+  "collected_at": "2026-11-12T21:37:56.465Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

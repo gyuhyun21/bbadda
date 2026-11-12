@@ -1,0 +1,29 @@
+{
+  "id": "community-b10e6515",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "엠엘비파크",
+  "url": "https://mlbpark.donga.com/mp/b.php?b=kbotown&id=202611120120061776&m=view",
+  "title": "에버랜드, 삼성라이온즈 우승 기념 'V9데이' 개최…팬 2000명 초청",
+  "published_at": "2026-11-12T05:37:56.465Z",
+  "collected_at": "2026-11-12T21:37:56.465Z",
+  "summary_ko": "",
+  "excerpt": "... 삼성라이온즈가 12년 만에 한국시리즈 정상에 오르면서 강민호 선수가 내걸었던 '팬 1000명과 에버랜드 데이트' 공약이…",
+  "metrics": {},
+  "scores": {
+    "hot": 70,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "뉴스퀘스트",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBBMkZ2OHQtcjFyNm5UWVF2TE1ERG5yS1NTTEM4NjlLN1NSRGxMQ3hNbmhjYXhQaGpWYWNiQzg0OXRBY1FQUlh4Q1dYeHEzQmczd3ZLeHJrX0pQV2g3V1Mxbnc0aGc1S1M0T3ptbjdwUQ?oc=5"
+    }
+  ]
+}

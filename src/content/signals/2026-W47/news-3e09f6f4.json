@@ -1,0 +1,22 @@
+{
+  "id": "news-3e09f6f4",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "한국기자협회",
+  "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1KdW9Vb3drSmdhT2k1TWFOVTNoMS1MWThSYmJRdVNrVy1EMmtNODJUN0dUODA4TFJjYm50R25ZMllxLXU3S2R4YnFINHF2TThBNFRublFmZ1lCQ1dSOHRBUjc1WmU?oc=5",
+  "title": "\"삼성 라이온즈 V9 지면 구합니다\"… 신문 '품절' 대란",
+  "published_at": "2026-11-12T07:04:32.000Z",
+  "collected_at": "2026-11-12T21:37:56.465Z",
+  "summary_ko": "한국기자협회는 삼성 V9 우승 기사가 실린 신문을 구하려는 사람이 몰려 신문이 품절됐다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 71,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "youtube-ae7a1ce1",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "기아타이거즈 KIA TIGERS",
+  "url": "https://www.youtube.com/watch?v=b2MqjZTlbFk",
+  "title": "안타 못 치면 복근 운동 20개 [2026 마무리캠프]",
+  "published_at": "2026-11-12T13:45:08Z",
+  "collected_at": "2026-11-12T21:37:56.465Z",
+  "summary_ko": "KIA 공식 채널이 안타를 못 치면 복근 운동 20개를 하는 마무리캠프 훈련 영상을 올렸다.",
+  "metrics": {
+    "views": 89893,
+    "likes": 1523,
+    "comments": 243
+  },
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

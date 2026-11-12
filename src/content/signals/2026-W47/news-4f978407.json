@@ -1,0 +1,29 @@
+{
+  "id": "news-4f978407",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "OSEN",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4zNFFVZjhqQmFtZFY0Snd4TzcyV3loTjFIcVFkT1lMQjF0WWg5VEMtSjRscWp4WUU5T0xvSXdObkx5bHdZR2QwX1hYZS13ZTEtM2NaeQ?oc=5",
+  "title": "‘ML 오퍼 거절→5억에 韓 잔류’ 18세 내야수 벌써 대박 예감, 국민 우익수 왜 감탄했나 “기본기+파워+기술 다 갖춘 선수”",
+  "published_at": "2026-11-12T20:41:00.000Z",
+  "collected_at": "2026-11-12T21:37:56.465Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAwUWhhN05CbE4xbjR3M0MtTWx4aGh1YXc0S1d1WnNRWmpKUnBZbjV0SktMZkNzM2JiQ1VCU2Y2aTVjbGU4Q0w0OFJ3Y3h6Nl81U1pIV2RrTDExR3h2a1ZxRFAtYkxabzEyTkHSAW9BVV95cUxPb2FLbHI0SkJUdFRXYld4ZnVSZ0d6c1VGakhseWJwbmdVeTBMOFE4cXNBV29GZm0tQVl6NXlsTW9pZzZGejJHS1ZmemhPbHRHS0QxMDdvd2loTmFueFlyWU8tdTV5RXN2Y1FWSm9ldDQ?oc=5"
+    }
+  ]
+}

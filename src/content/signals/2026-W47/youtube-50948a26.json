@@ -1,0 +1,27 @@
+{
+  "id": "youtube-50948a26",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "기아타이거즈 V13",
+  "url": "https://www.youtube.com/watch?v=P5MxaNujIOA",
+  "title": "\"건드릴 게 없어요\" 감독이 손대지 않은 김도영 후계 후보 노민혁, 스스로 꺼낸 약점은 높은 공",
+  "published_at": "2026-11-12T15:15:18Z",
+  "collected_at": "2026-11-12T21:37:56.465Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 2680,
+    "likes": 33,
+    "comments": 4
+  },
+  "scores": {
+    "hot": 53,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

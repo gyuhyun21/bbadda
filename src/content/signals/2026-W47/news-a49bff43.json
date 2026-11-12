@@ -1,0 +1,23 @@
+{
+  "id": "news-a49bff43",
+  "issue": "2026-W47",
+  "module": "rivalry",
+  "team": "hanwha",
+  "teams": [
+    "hanwha",
+    "kiwoom"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://www.mt.co.kr/amp/sports/2026/11/13/2026111210204668223",
+  "title": "'글러브도 없던 아이들이 프로 선수가 됐다' 11년 버틴 최동원 무료 야구 교실 기적... 한화·키움에 첫 프로선수 배출→불굴의 영웅상 선정",
+  "published_at": "2026-11-12T15:02:00.000Z",
+  "collected_at": "2026-11-12T21:37:56.465Z",
+  "summary_ko": "머니투데이는 11년간 이어진 최동원 무료 야구 교실이 한화·키움에 첫 프로 선수를 배출하고 불굴의 영웅상에 선정됐다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 82,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}
