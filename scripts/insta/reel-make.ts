@@ -2,7 +2,8 @@
 // 사용: npx tsx scripts/insta/reel-make.ts <재료 폴더> <출력 mp4>   (크롬: CHROME 환경변수, 없으면 google-chrome / ffmpeg 필요)
 // 재료 폴더의 reel.json:
 //   { music?: 'bgm-breaking', segments: [{ src: '1.mp4'|'1.png', say: 'a1.mp3', kick: '짧은 머리표', head: '큰 제목(<b>강조</b>, <br> 줄바꿈)', note?: '아래 작은 글(출처 등)', sub?: '하단 자막 한 줄(2026-11-08~, 20자 안팎)' }],
-//     end?: { kick, head, a?: 'kia', b?: 'samsung', cta: '롯데팬 친구한테 보내 줘', say?: 'a9.mp3' } }
+//     end?: { kick, head, a?: 'kia', b?: 'samsung', cta: '롯데팬 친구한테 보내 줘', say?: 'a9.mp3' },
+//     igAudio?: { pick: 'trending' } | { id: '<인스타 음원 id>' }, audioVolume?: 1~100, videoVolume?: 1~100 }  — igAudio 가 있으면 music(bgm)을 섞지 않음, 음원은 reel.sh 가 게시 때 붙임
 // 장면 길이 = 그 장면 목소리 길이(쉼 0.18초·1.18배로 다듬은 뒤) + 0.25초(목소리가 없으면 dur, 기본 3초). 그림(png)은 천천히 확대, 영상은 길이에 맞춰 자르거나 늘린다.
 // fit: true 인 그림(카드 이미지 등)은 자르지 않고 흐린 배경 위에 통째로 놓는다. 어떤 경우에도 영상은 만든다(그날 릴스를 빠뜨리지 않는다, 2026-10-24 주인).
 // 경기 영상(2026-10-26 주인 결정, 티빙·KBO 허용 범위: 비영리·40초 미만): 영상 장면은 from·to(원본 초)로 구간을 고르고, live: true 면 현장음을 섞는다.
@@ -29,7 +30,7 @@ const [dirArg, outArg] = process.argv.slice(2);
 if (!dirArg || !outArg) { console.error('사용: reel-make.ts <재료 폴더> <출력 mp4>'); process.exit(1); }
 const DIR = resolve(dirArg), OUT = resolve(outArg), TMP = join(DIR, '.make');
 mkdirSync(TMP, { recursive: true });
-const spec = JSON.parse(readFileSync(join(DIR, 'reel.json'), 'utf8')) as { music?: string; segments: Seg[]; end?: End; subStyle?: 'yt'; outro?: { hold?: number; fade?: number } };
+const spec = JSON.parse(readFileSync(join(DIR, 'reel.json'), 'utf8')) as { music?: string; segments: Seg[]; end?: End; subStyle?: 'yt'; outro?: { hold?: number; fade?: number }; igAudio?: { pick?: 'trending'; id?: string } };
 // 목소리 대본에 아라비아 숫자가 있으면 잘못 읽혔을 수 있다('24 대 5'→'스물네 대 오', 2026-10-24) — 그 장면만 목소리를 끄고 화면 글·음악으로 내보낸다
 for (const s of spec.segments) if (/\d/.test(s.text ?? '')) { console.error(`경고: 대본에 숫자가 남아 이 장면 목소리를 끔 — ${s.text}`); s.say = undefined; }
 const hasVoice = (s: { say?: string }) => !!s.say && existsSync(join(DIR, s.say));
@@ -254,7 +255,9 @@ const total = dur(join(TMP, 'cat.mp4'));
 const music = join(ROOT, `scripts/insta/music/${spec.music ?? 'bgm-breaking'}.mp3`);
 const cat = join(TMP, 'cat.mp4'), mix = join(TMP, 'mix.wav'), fadeAt = Math.max(total / SPEED - fade, 0).toFixed(2);
 // 소리는 따로 만든 뒤 붙인다: loudnorm 을 영상 인코딩과 한 그래프에서 돌리면 ffmpeg 9 에서 소리가 3초씩 통째로 빠졌다(2026-11-11 save pool 3차). 48kHz 로 내보낸다(96kHz 는 일부 재생기에서 끊김)
-ff('-i', cat, '-i', music, '-filter_complex', `[1]volume=${spec.segments.some((x) => x.live && !isStill(x.src)) ? 0.12 : spec.segments.some(hasVoice) ? 0.2 : 0.7},atrim=0:${total},afade=t=out:st=${Math.max(total - 1, 0)}:d=1[b];[0:a][b]amix=inputs=2:duration=first:normalize=0,loudnorm=I=-14:TP=-1.5,atempo=${SPEED}${fade ? `,afade=t=out:st=${fadeAt}:d=${fade}` : ''}[m]`, '-map', '[m]', '-ar', '48000', '-c:a', 'pcm_s16le', mix);
+// igAudio(인스타 음원, 2026-11-12 이사님 승인)가 있으면 우리 bgm 은 섞지 않는다 — 음원은 게시할 때 reel.sh 가 audio_configuration 으로 붙이고, 영상 소리는 목소리(·현장음)만
+const bgm = spec.igAudio ? '[0:a]' : `[1]volume=${spec.segments.some((x) => x.live && !isStill(x.src)) ? 0.12 : spec.segments.some(hasVoice) ? 0.2 : 0.7},atrim=0:${total},afade=t=out:st=${Math.max(total - 1, 0)}:d=1[b];[0:a][b]amix=inputs=2:duration=first:normalize=0,`;
+ff('-i', cat, ...(spec.igAudio ? [] : ['-i', music]), '-filter_complex', `${bgm}loudnorm=I=-14:TP=-1.5,atempo=${SPEED}${fade ? `,afade=t=out:st=${fadeAt}:d=${fade}` : ''}[m]`, '-map', '[m]', '-ar', '48000', '-c:a', 'pcm_s16le', mix);
 ff('-i', cat, '-i', mix, '-filter_complex', `[0:v]setpts=PTS/${SPEED}${fade ? `,fade=t=out:st=${fadeAt}:d=${fade}` : ''}[v]`, '-map', '[v]', '-map', '1:a', '-shortest', '-c:v', 'libx264', '-crf', '20', '-pix_fmt', 'yuv420p', '-c:a', 'aac', '-b:a', '160k', '-movflags', '+faststart', OUT);
 // 소리 빈 구간 검사(규엔 avgap.py 와 같은 기준): 소리 패킷 시작 간격이 0.1초를 넘거나 소리·영상 길이가 0.1초 넘게 다르면 실패로 끝낸다(그 mp4 는 올리지 않는다)
 const probe = (...a: string[]) => execFileSync('ffprobe', ['-v', 'error', ...a, '-of', 'csv=p=0', OUT]).toString().trim();

@@ -1,11 +1,34 @@
 #!/usr/bin/env bash
-# 인스타 릴스 게시: reel.sh <공개 영상 주소> <본문 파일>  → permalink JSON. 환경변수 TOKEN(출력 안 함), IG
+# 인스타 릴스 게시: reel.sh <공개 영상 주소> <본문 파일> [reel.json]  → permalink JSON. 환경변수 TOKEN(출력 안 함), IG
+# reel.json 에 igAudio 가 있으면 인스타 음원을 붙인다(Instagram Audio API, 2026-06-01 공개 · 2026-11-12 이사님 승인):
+#   "igAudio": {"pick":"trending"}(검색어 없는 GET /ig_audio = 그날 유행 25곡 중 첫 곡) 또는 {"id":"<음원 id>"}, "audioVolume"(기본 30)·"videoVolume"(기본 100) 각 1~100
+#   고른 곡은 표준 오류로 알린다. 곡 고르기나 음원 붙인 게시 요청이 실패하면 음원 없이(목소리만) 게시한다 — 그날 릴스를 빠뜨리지 않는다
 set -euo pipefail
-URL="$1"; CAPFILE="$2"
+URL="$1"; CAPFILE="$2"; SPEC="${3:-}"
 G="https://graph.facebook.com/v21.0"; AUTH="Authorization: Bearer $TOKEN"
 ct=$(curl -sS -f -o /dev/null -w '%{content_type}' "$URL") || { echo "영상 주소 없음: $URL"; exit 1; }
 [[ "$ct" == video/mp4* ]] || { echo "MP4 아님($ct)"; exit 1; }
-cid=$(curl -sS -f -X POST -H "$AUTH" "$G/$IG/media" -d media_type=REELS --data-urlencode "video_url=$URL" --data-urlencode "caption=$(cat "$CAPFILE")" -d share_to_feed=true | jq -r .id)
+audio=""
+if [ -n "$SPEC" ] && [ -f "$SPEC" ] && jq -e '.igAudio | type == "object"' "$SPEC" >/dev/null; then
+  aid=$(jq -r '.igAudio.id // empty' "$SPEC")
+  if [ -z "$aid" ]; then
+    # 토큰은 머리글로만 보낸다(주소·로그에 남지 않게)
+    aid=$(curl -sS -f --max-time 30 -H "$AUTH" "$G/ig_audio?audio_type=music&user_id=$IG" | jq -r '.audio[0] | select(.) | "\(.audio_id)\t\(.title) — \(.display_artist // "")"') || aid=""
+    [ -n "$aid" ] && echo "음원(유행 1위): ${aid#*$'\t'} (${aid%%$'\t'*})" >&2
+    aid="${aid%%$'\t'*}"
+  else echo "음원(지정): $aid" >&2
+  fi
+  if [ -n "$aid" ]; then
+    audio=$(jq -c --arg id "$aid" '{audio_id: $id, audio_volume: (.audioVolume // 30), video_volume: (.videoVolume // 100)}
+      | if ([.audio_volume, .video_volume] | all(type == "number" and . >= 1 and . <= 100 and . == floor)) then . else error("음량은 1~100 정수") end' "$SPEC") || { echo "경고: igAudio 음량 값이 잘못됨 — 음원 없이 게시" >&2; audio=""; }
+  else echo "경고: 인스타 음원을 고르지 못함 — 음원 없이 게시" >&2
+  fi
+fi
+create() { curl -sS -f -X POST -H "$AUTH" "$G/$IG/media" -d media_type=REELS --data-urlencode "video_url=$URL" --data-urlencode "caption=$(cat "$CAPFILE")" -d share_to_feed=true "$@" | jq -r .id; }
+if [ -n "$audio" ]; then
+  cid=$(create --data-urlencode "audio_configuration=$audio") || { echo "경고: 음원 붙인 게시 요청 실패 — 음원 없이 다시" >&2; cid=$(create); }
+else cid=$(create)
+fi
 for i in $(seq 1 60); do
   st=$(curl -sS -f -H "$AUTH" "$G/$cid?fields=status_code" | jq -r .status_code)
   [ "$st" = "FINISHED" ] && break; [ "$st" = "ERROR" ] && { curl -sS -H "$AUTH" "$G/$cid?fields=status" | jq -c .; exit 1; }; sleep 10

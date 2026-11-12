@@ -37,7 +37,7 @@ main_post() {
   local dir="media/insta/$POST"
   jq -r '.reel_caption // .caption' "$dir/post.json" > /tmp/cap.txt
   if posted_caption /tmp/cap.txt; then say "이미 게시됨, 건너뜀: $POST"; return 0; fi
-  local url
+  local url spec=""
   if [ -f "$dir/reel.mp4" ]; then
     prep
     cp "$dir/reel.mp4" /tmp/reel.mp4
@@ -48,9 +48,11 @@ main_post() {
     npx tsx scripts/insta/reel-make.ts "$dir" /tmp/reel.mp4 > /tmp/make.log 2>&1 || { cat /tmp/make.log; return 1; }
     grep '경고' /tmp/make.log | while read -r l; do say "$l"; done || true  # 경고가 없으면 grep 이 1 — 점심 칸은 main_post 를 || 없이 불러 set -e 로 조용히 죽었다(2026-11-11)
     url=$(upload /tmp/reel.mp4 "$POST") || return 1
+    spec="$dir/reel.json"  # igAudio(인스타 음원)는 조립한 릴스에만 — reel.mp4 는 bgm 이 이미 들어 있다
   else say "영상도 재료도 없음: $dir"; return 1
   fi
-  local res; res=$(bash scripts/insta/reel.sh "$url" /tmp/cap.txt) || { echo "$res"; return 1; }
+  local res; res=$(bash scripts/insta/reel.sh "$url" /tmp/cap.txt "$spec" 2>/tmp/reel-err.log) || { cat /tmp/reel-err.log; echo "$res"; return 1; }
+  grep '음원\|경고' /tmp/reel-err.log | while read -r l; do say "$l"; done || true
   say "게시: $res"
 }
 
