@@ -256,8 +256,11 @@ const music = join(ROOT, `scripts/insta/music/${spec.music ?? 'bgm-breaking'}.mp
 const cat = join(TMP, 'cat.mp4'), mix = join(TMP, 'mix.wav'), fadeAt = Math.max(total / SPEED - fade, 0).toFixed(2);
 // 소리는 따로 만든 뒤 붙인다: loudnorm 을 영상 인코딩과 한 그래프에서 돌리면 ffmpeg 9 에서 소리가 3초씩 통째로 빠졌다(2026-11-11 save pool 3차). 48kHz 로 내보낸다(96kHz 는 일부 재생기에서 끊김)
 // igAudio(인스타 음원, 2026-11-12 이사님 승인)가 있으면 우리 bgm 은 섞지 않는다 — 음원은 게시할 때 reel.sh 가 audio_configuration 으로 붙이고, 영상 소리는 목소리(·현장음)만
-const bgm = spec.igAudio ? '[0:a]' : `[1]volume=${spec.segments.some((x) => x.live && !isStill(x.src)) ? 0.12 : spec.segments.some(hasVoice) ? 0.2 : 0.7},atrim=0:${total},afade=t=out:st=${Math.max(total - 1, 0)}:d=1[b];[0:a][b]amix=inputs=2:duration=first:normalize=0,`;
-ff('-i', cat, ...(spec.igAudio ? [] : ['-i', music]), '-filter_complex', `${bgm}loudnorm=I=-14:TP=-1.5,atempo=${SPEED}${fade ? `,afade=t=out:st=${fadeAt}:d=${fade}` : ''}[m]`, '-map', '[m]', '-ar', '48000', '-c:a', 'pcm_s16le', mix);
+// igAudio 는 객체만 인정(reel.sh 와 같은 기준 — 문자열로 잘못 쓰면 음원도 bgm 도 없는 릴스가 됨, 규엔 2026-11-12)
+const igAudio = typeof spec.igAudio === 'object' && spec.igAudio !== null;
+if (spec.igAudio !== undefined && !igAudio) console.error('경고: igAudio 는 {"pick":"trending"} 또는 {"id":"…"} 객체여야 함 — 무시하고 bgm 으로 조립');
+const bgm = igAudio ? '[0:a]' : `[1]volume=${spec.segments.some((x) => x.live && !isStill(x.src)) ? 0.12 : spec.segments.some(hasVoice) ? 0.2 : 0.7},atrim=0:${total},afade=t=out:st=${Math.max(total - 1, 0)}:d=1[b];[0:a][b]amix=inputs=2:duration=first:normalize=0,`;
+ff('-i', cat, ...(igAudio ? [] : ['-i', music]), '-filter_complex', `${bgm}loudnorm=I=-14:TP=-1.5,atempo=${SPEED}${fade ? `,afade=t=out:st=${fadeAt}:d=${fade}` : ''}[m]`, '-map', '[m]', '-ar', '48000', '-c:a', 'pcm_s16le', mix);
 ff('-i', cat, '-i', mix, '-filter_complex', `[0:v]setpts=PTS/${SPEED}${fade ? `,fade=t=out:st=${fadeAt}:d=${fade}` : ''}[v]`, '-map', '[v]', '-map', '1:a', '-shortest', '-c:v', 'libx264', '-crf', '20', '-pix_fmt', 'yuv420p', '-c:a', 'aac', '-b:a', '160k', '-movflags', '+faststart', OUT);
 // 소리 빈 구간 검사(규엔 avgap.py 와 같은 기준): 소리 패킷 시작 간격이 0.1초를 넘거나 소리·영상 길이가 0.1초 넘게 다르면 실패로 끝낸다(그 mp4 는 올리지 않는다)
 const probe = (...a: string[]) => execFileSync('ffprobe', ['-v', 'error', ...a, '-of', 'csv=p=0', OUT]).toString().trim();
