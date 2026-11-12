@@ -1,0 +1,790 @@
+{
+  "date": "2026-11-12",
+  "account": {
+    "username": "bbadda_officials",
+    "followers": 22,
+    "media": 91
+  },
+  "posts": [
+    {
+      "id": "18126319307473965",
+      "ts": "2026-11-12T02:57:25+0000",
+      "type": "VIDEO",
+      "product": "REELS",
+      "url": "https://www.instagram.com/reel/DfoCOB8GZaH/",
+      "likes": 1,
+      "comments": 0,
+      "first": "⚾ KBO에 한 시즌 30승 투수가 있었어요",
+      "m": {
+        "views": 136,
+        "reach": 125,
+        "saved": 0,
+        "shares": 0,
+        "total_interactions": 1,
+        "ig_reels_avg_watch_time": 9059,
+        "ig_reels_video_view_total_time": 1150579
+      },
+      "err": null
+    },
+    {
+      "id": "18450296695124434",
+      "ts": "2026-11-11T22:28:32+0000",
+      "type": "VIDEO",
+      "product": "REELS",
+      "url": "https://www.instagram.com/reel/DfnjcM7AX6b/",
+      "likes": 1,
+      "comments": 0,
+      "first": "📺 올가을 한국시리즈보다 더 많이 본 시리즈가 있었어요",
+      "m": {
+        "views": 194,
+        "reach": 178,
+        "saved": 0,
+        "shares": 0,
+        "total_interactions": 1,
+        "ig_reels_avg_watch_time": 7763,
+        "ig_reels_video_view_total_time": 1389589
+      },
+      "err": null
+    },
+    {
+      "id": "18098787701442039",
+      "ts": "2026-11-11T17:02:33+0000",
+      "type": "VIDEO",
+      "product": "REELS",
+      "url": "https://www.instagram.com/reel/Dfm-HkuAWDA/",
+      "likes": 0,
+      "comments": 0,
+      "first": "🤯 수비하다 머리로 홈런을 만들어 준 날이 있어요",
+      "m": {
+        "views": 259,
+        "reach": 233,
+        "saved": 0,
+        "shares": 6,
+        "total_interactions": 6,
+        "ig_reels_avg_watch_time": 10685,
+        "ig_reels_video_view_total_time": 2511176
+      },
+      "err": null
+    },
+    {
+      "id": "17993939757063825",
+      "ts": "2026-11-11T13:45:38+0000",
+      "type": "CAROUSEL_ALBUM",
+      "product": "FEED",
+      "url": "https://www.instagram.com/p/DfmnpS_l2ej/",
+      "likes": 1,
+      "comments": 0,
+      "first": "🌙 307억 두고 간 노시환, FA 60위 밖",
+      "m": {
+        "views": 3,
+        "reach": 2,
+        "saved": 0,
+        "shares": 0,
+        "total_interactions": 1
+      },
+      "err": null
+    },
+    {
+      "id": "18121149577996009",
+      "ts": "2026-11-11T08:22:11+0000",
+      "type": "VIDEO",
+      "product": "REELS",
+      "url": "https://www.instagram.com/reel/DfmCmRgETkk/",
+      "likes": 3,
+      "comments": 0,
+      "first": "⚾ 메이저리그 타석에 키 109cm 대타가 섰던 날이 있어요",
+      "m": {
+        "views": 288,
+        "reach": 250,
+        "saved": 1,
+        "shares": 1,
+        "total_interactions": 5,
+        "ig_reels_avg_watch_time": 9992,
+        "ig_reels_video_view_total_time": 2508156
+      },
+      "err": null
+    },
+    {
+      "id": "18123810427986872",
+      "ts": "2026-11-11T03:36:49+0000",
+      "type": "VIDEO",
+      "product": "REELS",
+      "url": "https://www.instagram.com/reel/Dflh7eGpY0U/",
+      "likes": 5,
+      "comments": 0,
+      "first": "⚾ 한국 프로야구 첫 경기, 마지막 한 방은 끝내기 만루홈런이었어요",
+      "m": {
+        "views": 261,
+        "reach": 250,
+        "saved": 0,
+        "shares": 0,
+        "total_interactions": 5,
+        "ig_reels_avg_watch_time": 5493,
+        "ig_reels_video_view_total_time": 1373374
+      },
+      "err": null
+    },
+    {
+      "id": "17887177941511463",
+      "ts": "2026-11-10T22:32:25+0000",
+      "type": "VIDEO",
+      "product": "REELS",
+      "url": "https://www.instagram.com/reel/Dfk_GG8DV3P/",
+      "likes": 1,
+      "comments": 0,
+      "first": "🦝 SSG 코치가 외야수들에게 \"너구리 된다!\"라고 외쳤어요",
+      "m": {
+        "views": 295,
+        "reach": 268,
+        "saved": 0,
+        "shares": 0,
+        "total_interactions": 1,
+        "ig_reels_avg_watch_time": 8410,
+        "ig_reels_video_view_total_time": 2329827
+      },
+      "err": null
+    },
+    {
+      "id": "18112569386228046",
+      "ts": "2026-11-10T14:46:16+0000",
+      "type": "VIDEO",
+      "product": "REELS",
+      "url": "https://www.instagram.com/reel/DfkJwUGFey0/",
+      "likes": 2,
+      "comments": 0,
+      "first": "✉️ 우승 MVP 구자욱이 손편지에 '마지막'이라는 말을 적었어요",
+      "m": {
+        "views": 273,
+        "reach": 262,
+        "saved": 0,
+        "shares": 0,
+        "total_interactions": 2,
+        "ig_reels_avg_watch_time": 6354,
+        "ig_reels_video_view_total_time": 1683857
+      },
+      "err": null
+    },
+    {
+      "id": "18117842159586341",
+      "ts": "2026-11-10T08:28:08+0000",
+      "type": "VIDEO",
+      "product": "REELS",
+      "url": "https://www.instagram.com/reel/DfjefwNHB_L/",
+      "likes": 5,
+      "comments": 0,
+      "first": "💍 프로 23년 동안 우승 반지가 없던 포수가 있었어요",
+      "m": {
+        "views": 284,
+        "reach": 251,
+        "saved": 0,
+        "shares": 0,
+        "total_interactions": 5,
+        "ig_reels_avg_watch_time": 6651,
+        "ig_reels_video_view_total_time": 1656312
+      },
+      "err": null
+    },
+    {
+      "id": "18016062683968723",
+      "ts": "2026-11-09T22:26:21+0000",
+      "type": "VIDEO",
+      "product": "REELS",
+      "url": "https://www.instagram.com/reel/DfiZmemiEyx/",
+      "likes": 4,
+      "comments": 0,
+      "first": "📰 삼성 우승 다음 날, 신문 한 부가 10만원에 올라왔어요",
+      "m": {
+        "views": 341,
+        "reach": 283,
+        "saved": 0,
+        "shares": 2,
+        "total_interactions": 6,
+        "ig_reels_avg_watch_time": 8088,
+        "ig_reels_video_view_total_time": 2337637
+      },
+      "err": null
+    },
+    {
+      "id": "18131093596843618",
+      "ts": "2026-11-09T13:55:53+0000",
+      "type": "VIDEO",
+      "product": "REELS",
+      "url": "https://www.instagram.com/reel/DfhfMoRk6AG/",
+      "likes": 0,
+      "comments": 0,
+      "first": "🏆 우승한 팀이 다음 해에도 우승? 10년째 한 번도 없었어요",
+      "m": {
+        "views": 336,
+        "reach": 286,
+        "saved": 0,
+        "shares": 0,
+        "total_interactions": 0,
+        "ig_reels_avg_watch_time": 8674,
+        "ig_reels_video_view_total_time": 2489531
+      },
+      "err": null
+    },
+    {
+      "id": "17909220003667154",
+      "ts": "2026-11-09T13:47:09+0000",
+      "type": "CAROUSEL_ALBUM",
+      "product": "FEED",
+      "url": "https://www.instagram.com/p/DfheOuIlPKz/",
+      "likes": 0,
+      "comments": 0,
+      "first": "🌙 우승한 삼성, 구자욱 영입전이 달라졌다",
+      "m": {
+        "views": 5,
+        "reach": 3,
+        "saved": 0,
+        "shares": 0,
+        "total_interactions": 0
+      },
+      "err": null
+    },
+    {
+      "id": "18078808958453003",
+      "ts": "2026-11-09T08:26:38+0000",
+      "type": "VIDEO",
+      "product": "REELS",
+      "url": "https://www.instagram.com/reel/Dfg5fvBCq0O/",
+      "likes": 4,
+      "comments": 0,
+      "first": "⚾ 정규시즌 90승 1위 팀이 한국시리즈에선 1승만 했어요",
+      "m": {
+        "views": 343,
+        "reach": 290,
+        "saved": 0,
+        "shares": 0,
+        "total_interactions": 4,
+        "ig_reels_avg_watch_time": 7600,
+        "ig_reels_video_view_total_time": 2219219
+      },
+      "err": null
+    },
+    {
+      "id": "18024122099933927",
+      "ts": "2026-11-08T22:26:12+0000",
+      "type": "VIDEO",
+      "product": "REELS",
+      "url": "https://www.instagram.com/reel/Dff0y0XDQYs/",
+      "likes": 16,
+      "comments": 0,
+      "first": "⌚ 삼성 우승 MVP가 소감에서 꺼낸 팀은 LG였어요",
+      "m": {
+        "views": 2955,
+        "reach": 2096,
+        "saved": 0,
+        "shares": 1,
+        "total_interactions": 17,
+        "ig_reels_avg_watch_time": 13504,
+        "ig_reels_video_view_total_time": 28169466
+      },
+      "err": null
+    },
+    {
+      "id": "18111576199905195",
+      "ts": "2026-11-08T09:50:28+0000",
+      "type": "CAROUSEL_ALBUM",
+      "product": "FEED",
+      "url": "https://www.instagram.com/p/DfeeWP_DRY3/",
+      "likes": 0,
+      "comments": 0,
+      "first": "⚾ 삼성, 우승!",
+      "m": {
+        "views": 9,
+        "reach": 5,
+        "saved": 0,
+        "shares": 0,
+        "total_interactions": 0
+      },
+      "err": null
+    },
+    {
+      "id": "18378610429245286",
+      "ts": "2026-11-08T08:15:55+0000",
+      "type": "VIDEO",
+      "product": "REELS",
+      "url": "https://www.instagram.com/reel/DfeTfWMjrXS/",
+      "likes": 2,
+      "comments": 0,
+      "first": "🏆 먼저 1점 내준 삼성, 그 뒤로 12점을 몰아쳤어요",
+      "m": {
+        "views": 190,
+        "reach": 175,
+        "saved": 0,
+        "shares": 0,
+        "total_interactions": 2,
+        "ig_reels_avg_watch_time": 6044,
+        "ig_reels_video_view_total_time": 1057720
+      },
+      "err": null
+    },
+    {
+      "id": "18124202738055931",
+      "ts": "2026-11-08T04:26:26+0000",
+      "type": "VIDEO",
+      "product": "REELS",
+      "url": "https://www.instagram.com/reel/Dfd5NoCgksj/",
+      "likes": 3,
+      "comments": 0,
+      "first": "⚾ 한국시리즈에서 1승 3패를 뒤집은 팀은 딱 하나, 13년 전 삼성이었",
+      "m": {
+        "views": 319,
+        "reach": 262,
+        "saved": 0,
+        "shares": 1,
+        "total_interactions": 4,
+        "ig_reels_avg_watch_time": 8862,
+        "ig_reels_video_view_total_time": 2322098
+      },
+      "err": null
+    },
+    {
+      "id": "18133078069762751",
+      "ts": "2026-11-07T22:25:52+0000",
+      "type": "VIDEO",
+      "product": "REELS",
+      "url": "https://www.instagram.com/reel/DfdP-TYCBlr/",
+      "likes": 0,
+      "comments": 0,
+      "first": "⚾ 3승을 먼저 하고도 우승을 놓칠 뻔한 팀이 있었어요",
+      "m": {
+        "views": 293,
+        "reach": 249,
+        "saved": 0,
+        "shares": 0,
+        "total_interactions": 0,
+        "ig_reels_avg_watch_time": 8286,
+        "ig_reels_video_view_total_time": 2046680
+      },
+      "err": null
+    },
+    {
+      "id": "17941650804391758",
+      "ts": "2026-11-07T13:56:01+0000",
+      "type": "VIDEO",
+      "product": "REELS",
+      "url": "https://www.instagram.com/reel/DfcVnTHk0Av/",
+      "likes": 1,
+      "comments": 0,
+      "first": "⚾ 한국시리즈에서 한 번도 없던 1회가 오늘 대구에서 나왔어요",
+      "m": {
+        "views": 231,
+        "reach": 202,
+        "saved": 0,
+        "shares": 0,
+        "total_interactions": 1,
+        "ig_reels_avg_watch_time": 7207,
+        "ig_reels_video_view_total_time": 1484758
+      },
+      "err": null
+    },
+    {
+      "id": "18339909367279997",
+      "ts": "2026-11-07T13:54:16+0000",
+      "type": "VIDEO",
+      "product": "REELS",
+      "url": "https://www.instagram.com/reel/DfcVZ7VDu0L/",
+      "likes": 3,
+      "comments": 0,
+      "first": "⚾ 가을 내내 마스크를 쓴 41살 포수가 오늘은 선발에서 빠졌어요",
+      "m": {
+        "views": 313,
+        "reach": 258,
+        "saved": 0,
+        "shares": 0,
+        "total_interactions": 3,
+        "ig_reels_avg_watch_time": 7732,
+        "ig_reels_video_view_total_time": 1994971
+      },
+      "err": null
+    },
+    {
+      "id": "18576234424074237",
+      "ts": "2026-11-07T09:47:26+0000",
+      "type": "CAROUSEL_ALBUM",
+      "product": "FEED",
+      "url": "https://www.instagram.com/p/Dfb5NSSjQ9o/",
+      "likes": 0,
+      "comments": 0,
+      "first": "⚾ 1회 6점 차, 삼성 우승까지 1승",
+      "m": {
+        "views": 4,
+        "reach": 3,
+        "saved": 0,
+        "shares": 0,
+        "total_interactions": 0
+      },
+      "err": null
+    },
+    {
+      "id": "18115886015598922",
+      "ts": "2026-11-07T04:25:41+0000",
+      "type": "VIDEO",
+      "product": "REELS",
+      "url": "https://www.instagram.com/reel/DfbUVz8DqAJ/",
+      "likes": 1,
+      "comments": 0,
+      "first": "⚾ 가을 내내 마스크를 쓴 41살 포수가 오늘은 선발에서 빠졌어요",
+      "m": {
+        "views": 225,
+        "reach": 186,
+        "saved": 0,
+        "shares": 0,
+        "total_interactions": 1,
+        "ig_reels_avg_watch_time": 7305,
+        "ig_reels_video_view_total_time": 1358897
+      },
+      "err": null
+    },
+    {
+      "id": "17943888717389593",
+      "ts": "2026-11-06T22:26:48+0000",
+      "type": "VIDEO",
+      "product": "REELS",
+      "url": "https://www.instagram.com/reel/DfarRmCmb78/",
+      "likes": 6,
+      "comments": 0,
+      "first": "⚾ 불펜 데이라던 삼성, 4차전 선발은 07년생 막내예요",
+      "m": {
+        "views": 307,
+        "reach": 254,
+        "saved": 0,
+        "shares": 0,
+        "total_interactions": 6,
+        "ig_reels_avg_watch_time": 9233,
+        "ig_reels_video_view_total_time": 2382171
+      },
+      "err": null
+    },
+    {
+      "id": "18428529490152639",
+      "ts": "2026-11-06T13:54:35+0000",
+      "type": "VIDEO",
+      "product": "REELS",
+      "url": "https://www.instagram.com/reel/DfZwqBNgf8S/",
+      "likes": 2,
+      "comments": 0,
+      "first": "⚾ 안타보다 무서웠던 건 볼넷 5개였어요",
+      "m": {
+        "views": 250,
+        "reach": 228,
+        "saved": 0,
+        "shares": 0,
+        "total_interactions": 2,
+        "ig_reels_avg_watch_time": 6852,
+        "ig_reels_video_view_total_time": 1569226
+      },
+      "err": null
+    },
+    {
+      "id": "17963787456000209",
+      "ts": "2026-11-06T13:47:50+0000",
+      "type": "CAROUSEL_ALBUM",
+      "product": "FEED",
+      "url": "https://www.instagram.com/p/DfZv6_-kx26/",
+      "likes": 0,
+      "comments": 0,
+      "first": "⚾ 삼성, 2연승 우승까지 2승",
+      "m": {
+        "views": 6,
+        "reach": 3,
+        "saved": 0,
+        "shares": 0,
+        "total_interactions": 0
+      },
+      "err": null
+    },
+    {
+      "id": "18139202725656049",
+      "ts": "2026-11-06T08:44:04+0000",
+      "type": "VIDEO",
+      "product": "REELS",
+      "url": "https://www.instagram.com/reel/DfZNHxkjvqb/",
+      "likes": 1,
+      "comments": 0,
+      "first": "⚾ 41살 동갑 두 사람, 우승 반지는 아직 하나도 없어요",
+      "m": {
+        "views": 221,
+        "reach": 193,
+        "saved": 0,
+        "shares": 0,
+        "total_interactions": 1,
+        "ig_reels_avg_watch_time": 6663,
+        "ig_reels_video_view_total_time": 1279476
+      },
+      "err": null
+    },
+    {
+      "id": "17979908280134162",
+      "ts": "2026-11-05T22:25:14+0000",
+      "type": "VIDEO",
+      "product": "REELS",
+      "url": "https://www.instagram.com/reel/DfYGUXiAaFE/",
+      "likes": 0,
+      "comments": 0,
+      "first": "⚾ 43살 최형우가 홈런보다 100배 기쁘다고 한 장면이 있어요",
+      "m": {
+        "views": 212,
+        "reach": 176,
+        "saved": 0,
+        "shares": 0,
+        "total_interactions": 0,
+        "ig_reels_avg_watch_time": 9255,
+        "ig_reels_video_view_total_time": 1619774
+      },
+      "err": null
+    },
+    {
+      "id": "18012027068778336",
+      "ts": "2026-11-05T13:47:44+0000",
+      "type": "CAROUSEL_ALBUM",
+      "product": "FEED",
+      "url": "https://www.instagram.com/p/DfXLIAujvc7/",
+      "likes": 0,
+      "comments": 0,
+      "first": "🌙 1승 1패, 박진만이 꺼낸 카드는 원태인",
+      "m": {
+        "views": 9,
+        "reach": 3,
+        "saved": 0,
+        "shares": 0,
+        "total_interactions": 0
+      },
+      "err": null
+    },
+    {
+      "id": "18132549628769330",
+      "ts": "2026-11-05T08:27:53+0000",
+      "type": "VIDEO",
+      "product": "REELS",
+      "url": "https://www.instagram.com/reel/DfWmeoUDYRZ/",
+      "likes": 3,
+      "comments": 0,
+      "first": "⚾ 18번 중 16번, 3차전 이긴 팀이 우승했어요",
+      "m": {
+        "views": 180,
+        "reach": 156,
+        "saved": 0,
+        "shares": 1,
+        "total_interactions": 4,
+        "ig_reels_avg_watch_time": 6060,
+        "ig_reels_video_view_total_time": 963559
+      },
+      "err": null
+    },
+    {
+      "id": "18107011115267014",
+      "ts": "2026-11-04T22:24:44+0000",
+      "type": "VIDEO",
+      "product": "REELS",
+      "url": "https://www.instagram.com/reel/DfVhcIwkYwJ/",
+      "likes": 3,
+      "comments": 0,
+      "first": "⚾ 4시간 넘게 싸운 한국시리즈, 끝낸 건 송구 하나였어요",
+      "m": {
+        "views": 385,
+        "reach": 339,
+        "saved": 0,
+        "shares": 0,
+        "total_interactions": 3,
+        "ig_reels_avg_watch_time": 9169,
+        "ig_reels_video_view_total_time": 3081042
+      },
+      "err": null
+    },
+    {
+      "id": "18132690193837983",
+      "ts": "2026-11-04T13:53:00+0000",
+      "type": "VIDEO",
+      "product": "REELS",
+      "url": "https://www.instagram.com/reel/DfUm4ZPnA95/",
+      "likes": 3,
+      "comments": 0,
+      "first": "⚾ 4일 쉬고 또 102구, 페덱의 가을이에요",
+      "m": {
+        "views": 278,
+        "reach": 251,
+        "saved": 0,
+        "shares": 0,
+        "total_interactions": 3,
+        "ig_reels_avg_watch_time": 5299,
+        "ig_reels_video_view_total_time": 1319669
+      },
+      "err": null
+    },
+    {
+      "id": "18088692965334126",
+      "ts": "2026-11-04T13:49:32+0000",
+      "type": "CAROUSEL_ALBUM",
+      "product": "FEED",
+      "url": "https://www.instagram.com/p/DfUmhueFXOW/",
+      "likes": 0,
+      "comments": 0,
+      "first": "🌙 94구, 99구, 102구… 페덱의 가을",
+      "m": {
+        "views": 8,
+        "reach": 3,
+        "saved": 0,
+        "shares": 0,
+        "total_interactions": 0
+      },
+      "err": null
+    },
+    {
+      "id": "18136159720673121",
+      "ts": "2026-11-04T12:29:38+0000",
+      "type": "VIDEO",
+      "product": "REELS",
+      "url": "https://www.instagram.com/reel/DfUdWFnE-oe/",
+      "likes": 0,
+      "comments": 0,
+      "first": "⚾ 다승왕 고영표, 한국시리즈 승리는 아직 0이에요",
+      "m": {
+        "views": 282,
+        "reach": 252,
+        "saved": 0,
+        "shares": 0,
+        "total_interactions": 0,
+        "ig_reels_avg_watch_time": 5879,
+        "ig_reels_video_view_total_time": 1458126
+      },
+      "err": null
+    },
+    {
+      "id": "18161701723502437",
+      "ts": "2026-11-04T02:32:05+0000",
+      "type": "VIDEO",
+      "product": "REELS",
+      "url": "https://www.instagram.com/reel/DfTY7Q4AbYR/",
+      "likes": 2,
+      "comments": 0,
+      "first": "⚾ 가을야구 8타수 무안타 포수, 첫 안타가 한국시리즈 홈런이었어요",
+      "m": {
+        "views": 257,
+        "reach": 235,
+        "saved": 0,
+        "shares": 0,
+        "total_interactions": 3,
+        "ig_reels_avg_watch_time": 5567,
+        "ig_reels_video_view_total_time": 1314047
+      },
+      "err": null
+    },
+    {
+      "id": "17981905230134074",
+      "ts": "2026-11-03T13:55:51+0000",
+      "type": "VIDEO",
+      "product": "REELS",
+      "url": "https://www.instagram.com/reel/DfSCa5HiJX5/",
+      "likes": 2,
+      "comments": 0,
+      "first": "⚾ 8-0으로 이기던 KT가 1점 차까지 쫓겼어요",
+      "m": {
+        "views": 319,
+        "reach": 278,
+        "saved": 0,
+        "shares": 0,
+        "total_interactions": 2,
+        "ig_reels_avg_watch_time": 7478,
+        "ig_reels_video_view_total_time": 2079131
+      },
+      "err": null
+    },
+    {
+      "id": "17910533241596580",
+      "ts": "2026-11-03T13:48:15+0000",
+      "type": "CAROUSEL_ALBUM",
+      "product": "FEED",
+      "url": "https://www.instagram.com/p/DfSBmDIGHTA/",
+      "likes": 1,
+      "comments": 0,
+      "first": "⚾ KT, 1승째",
+      "m": {
+        "views": 7,
+        "reach": 3,
+        "saved": 0,
+        "shares": 0,
+        "total_interactions": 1
+      },
+      "err": null
+    },
+    {
+      "id": "17899496904405837",
+      "ts": "2026-11-03T12:16:59+0000",
+      "type": "VIDEO",
+      "product": "REELS",
+      "url": "https://www.instagram.com/reel/DfR3GkciKy1/",
+      "likes": 0,
+      "comments": 0,
+      "first": "🎬 30초 요약 | 🌙 옆구리 다친 채 5차전 뛴 강민호",
+      "m": {
+        "views": 278,
+        "reach": 252,
+        "saved": 0,
+        "shares": 0,
+        "total_interactions": 0,
+        "ig_reels_avg_watch_time": 2118,
+        "ig_reels_video_view_total_time": 533765
+      },
+      "err": null
+    },
+    {
+      "id": "18099243146399240",
+      "ts": "2026-11-02T13:48:25+0000",
+      "type": "CAROUSEL_ALBUM",
+      "product": "FEED",
+      "url": "https://www.instagram.com/p/DfPczqZoPqP/",
+      "likes": 1,
+      "comments": 0,
+      "first": "🌙 옆구리 다친 채 5차전 뛴 강민호",
+      "m": {
+        "views": 6,
+        "reach": 2,
+        "saved": 0,
+        "shares": 0,
+        "total_interactions": 1
+      },
+      "err": null
+    },
+    {
+      "id": "18147459367599231",
+      "ts": "2026-11-01T11:29:03+0000",
+      "type": "VIDEO",
+      "product": "REELS",
+      "url": "https://www.instagram.com/reel/DfMoBkoicuN/",
+      "likes": 1,
+      "comments": 0,
+      "first": "🎬 30초 요약 | ⚾ 삼성, 수원 간다 후라도 7이닝 쾌투",
+      "m": {
+        "views": 312,
+        "reach": 277,
+        "saved": 0,
+        "shares": 0,
+        "total_interactions": 1,
+        "ig_reels_avg_watch_time": 2439,
+        "ig_reels_video_view_total_time": 668434
+      },
+      "err": null
+    },
+    {
+      "id": "17978270285934306",
+      "ts": "2026-11-01T09:45:11+0000",
+      "type": "CAROUSEL_ALBUM",
+      "product": "FEED",
+      "url": "https://www.instagram.com/p/DfMcL_6DXql/",
+      "likes": 0,
+      "comments": 0,
+      "first": "⚾ 삼성, 수원 간다 후라도 7이닝 쾌투",
+      "m": {
+        "views": 15,
+        "reach": 3,
+        "saved": 0,
+        "shares": 0,
+        "total_interactions": 0
+      },
+      "err": null
+    }
+  ]
+}
