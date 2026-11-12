@@ -1,0 +1,50 @@
+{
+  "music": "bgm-morning",
+  "subStyle": "yt",
+  "outro": { "hold": 1.5, "fade": 0.5 },
+  "pool": { "no": 14, "series": "그날의 야구", "ep": 6, "facts": "센세 확인 2026-11-13(기사 2곳 이상, PR 본문 표)" },
+  "segments": [
+    {
+      "src": "clip1.mp4", "from": 0, "to": 10, "credit": "KBS 뉴스9", "yt": "DpPJzHSBSEM",
+      "say": "a1.mp3", "text": "아홉 경기 연속 홈런. 메이저리그에서도 나온 적 없는 기록을 이대호가 세웠어.",
+      "kick": "그날의 야구 #6", "head": "9경기 연속<br><b>홈런</b>", "sub": "MLB에도 없던 9경기 연속 홈런",
+      "note": "출처: 경남신문·OSEN · 영상: KBS 뉴스9(2010-08-14)",
+      "fx": [{ "at": 2.2, "text": "말이 돼?", "style": "mind" }]
+    },
+    {
+      "src": "clip2.mp4", "from": 0, "to": 14, "credit": "문스테파노", "yt": "HShMkv2Jakc",
+      "say": "a2.mp3", "text": "시작은 이천십 년 팔월 사 일, 잠실 두산전이었어.",
+      "kick": "2010 롯데 이대호", "head": "시작은<br><b>8월 4일</b>", "sub": "2010.8.4 잠실 두산전부터",
+      "note": "출처: OSEN · 영상: 문스테파노(2010 중계 모음)"
+    },
+    {
+      "src": "clip3.mp4", "from": 0, "to": 14, "credit": "SPOTV(KE베이스볼)", "yt": "MIZjDKZs244",
+      "say": "a3.mp3", "text": "그다음 경기도, 또 그다음 경기도 홈런. 열하루 동안 치른 아홉 경기에서 한 번도 안 빠졌어.",
+      "kick": "8월 4일 ~ 14일", "head": "매 경기<br><b>한 방씩</b>", "sub": "9경기 내내 홈런",
+      "note": "출처: OSEN · 영상: SPOTV(KE베이스볼 모음)",
+      "fx": [{ "at": 2.0, "text": "또 넘김", "style": "pop" }]
+    },
+    {
+      "src": "clip4.mp4", "from": 0, "to": 14, "credit": "도루왕_롯주찬", "yt": "TcEdGEOQRTA",
+      "say": "a4.mp3", "text": "메이저리그 최고 기록은 여덟 경기. 데일 롱, 돈 매팅리, 켄 그리피 주니어 세 명뿐이었어.",
+      "kick": "MLB 기록", "head": "MLB 최고는<br><b>8경기</b>", "sub": "롱·매팅리·그리피 주니어 8경기",
+      "note": "출처: 경남신문·OSEN · 영상: 도루왕_롯주찬(2010 중계 모음)",
+      "fx": [{ "at": 4.2, "text": "그걸 넘음", "style": "mind" }]
+    },
+    {
+      "src": "clip5.mp4", "from": 0, "to": 16, "credit": "SBS ESPN(chunii)", "yt": "33gtBPJNlOM",
+      "say": "a5.mp3", "text": "팔월 십사 일 광주 기아전, 이회 원아웃 일이루에서 가운데 담장을 넘기는 쓰리런. 그게 아홉 경기째였어.",
+      "kick": "8월 14일 광주 KIA전", "head": "2회 3점포<br><b>9경기째</b>", "sub": "2회 1사 1·2루 중월 3점 홈런",
+      "note": "출처: 경남신문·OSEN · 영상: SBS ESPN 중계",
+      "flash": { "at": 3.6, "dur": 0.2 },
+      "fx": [{ "at": 3.6, "text": "쾅!", "style": "sfx" }]
+    }
+  ],
+  "end": {
+    "look": "profile",
+    "head": "알아 두면 더 재밌는<br><b>야구 이야기</b>",
+    "cta": "이 기록 깨질까? 댓글로",
+    "say": "a6.mp3",
+    "text": "이 기록 다시 나올까? 댓글로 알려 줘."
+  }
+}
