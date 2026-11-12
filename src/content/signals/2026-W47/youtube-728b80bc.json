@@ -1,0 +1,26 @@
+{
+  "id": "youtube-728b80bc",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "youtube",
+  "source_name": "박주홍은터진다",
+  "url": "https://www.youtube.com/watch?v=6baXm4b_2Qw",
+  "title": "김휘집과 만난 장재영 #김휘집 #장재영 #키움히어로즈",
+  "published_at": "2026-11-12T12:55:25Z",
+  "collected_at": "2026-11-12T13:37:53.259Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 12,
+    "likes": 0,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 53,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

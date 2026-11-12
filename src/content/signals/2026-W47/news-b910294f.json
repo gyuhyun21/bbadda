@@ -1,0 +1,22 @@
+{
+  "id": "news-b910294f",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스핌",
+  "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9XQnZPbW80RTNzR3puTFhRT01abnRJUGk0TUx4VTROTFByRHQtYVl0SWJLR3JqX0RPTTl6QnFPTU5lUlZWMk5nZ1Fyd1ZoSjlYRWlGTVRtdTNOb0tB?oc=5",
+  "title": "[프로야구] 'KS 우승' 삼성, 가전 할인 행사...팬 2000명 초대 파티도",
+  "published_at": "2026-11-12T11:10:00.000Z",
+  "collected_at": "2026-11-12T13:37:53.259Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

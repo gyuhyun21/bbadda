@@ -1,0 +1,27 @@
+{
+  "id": "youtube-123da7d3",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "하루세번지식쌓기",
+  "url": "https://www.youtube.com/watch?v=FFTxw_OVMqo",
+  "title": "2026년 KBO 은퇴 선수들…정든 그라운드를 떠난 9명",
+  "published_at": "2026-11-12T08:02:28Z",
+  "collected_at": "2026-11-12T13:37:53.259Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 22055,
+    "likes": 27,
+    "comments": 3
+  },
+  "scores": {
+    "hot": 54,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

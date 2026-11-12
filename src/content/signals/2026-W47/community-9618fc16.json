@@ -1,0 +1,29 @@
+{
+  "id": "community-9618fc16",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 한국연예스포츠신문",
+  "url": "https://koreaesp.tistory.com/7002",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/KZWKOsjCW1w",
+  "title": "41홈런에 200만 달러…LG 오스틴, 외국인 타자 최고 몸값 경신",
+  "published_at": "2026-11-12T19:17:37.000+09:00",
+  "collected_at": "2026-11-12T13:37:53.259Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "제민일보",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1DT0tJYUY0cUQ4dndPVHdBWWEyODdicHoyb0ZTUG9vTGNtSzFkVWppbEU4dXgzLTc1U3pjc3hMbXBXVjZLUlROSVdTeG5PZDlUV1Bmd3FEWnlpXzI5TURUYkJRd2FqZ2c?oc=5"
+    }
+  ]
+}

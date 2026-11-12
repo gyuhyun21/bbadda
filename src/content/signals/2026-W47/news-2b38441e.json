@@ -1,0 +1,24 @@
+{
+  "id": "news-2b38441e",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "OSEN",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9wZHBVc1NGR25vb0Vvd3EtT2otYTJRTFViYm1CUU9kd2xobmQ3cDdSdkt6YXRRdXRHVmx5d0tBUVBJVFNBZ2lOSkNYUlF0OGZ2N0lzYQ?oc=5",
+  "title": "'9승 좌완' 2⅔이닝 KKKKKK 위력투! 호주 방망이 잠재웠다…침묵했던 타선도 '추격 시작' [오!쎈 도쿄]",
+  "published_at": "2026-11-12T05:00:00.000Z",
+  "collected_at": "2026-11-12T13:37:53.259Z",
+  "summary_ko": "OSEN은 SSG 9승 좌완이 호주전에서 2⅔이닝 동안 삼진 6개를 잡으며 호주 타선을 잠재웠다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "9승 좌완, 호주전 삼진 6개"
+}

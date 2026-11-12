@@ -1,0 +1,24 @@
+{
+  "id": "news-4006d2fd",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "MHN스포츠",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE00U1haZWhCR2JmdjB1LXAweEdZbVdYMTNYMDJXZTdMV1pDakpON2lfUUNKMW1JanItWkdLUTE4SGlua0x2ZGNXMUR2X0JxaDByQ2FOSHNVSmgyNjJGVWZRQ2lnMA?oc=5",
+  "title": "美 매체, 이번엔 뉴욕 메츠 언급 \"노시환은 원하는 팀이겠지만 구단은 필요하지 않은 선수\"",
+  "published_at": "2026-11-12T08:27:19.000Z",
+  "collected_at": "2026-11-12T13:37:53.259Z",
+  "summary_ko": "MHN스포츠는 미국 매체가 이번엔 뉴욕 메츠를 언급하며 노시환은 원하겠지만 구단에는 필요하지 않은 선수라고 평가했다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "메츠행? 美 매체는 냉정했다"
+}

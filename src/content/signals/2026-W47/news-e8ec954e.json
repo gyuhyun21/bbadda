@@ -1,0 +1,23 @@
+{
+  "id": "news-e8ec954e",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "news",
+  "announcement": true,
+  "source_name": "스타뉴스",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5kMGI2VUxtaGZ2X1NLLWZyTUdIWmZleHIwYkVQTGNFSWdoMzJ5OFJzUHloQXpENnp0Y0tTZHFrRVg0Uk5uWnB1U09vd2hOZlQzVDE0T21TdTB2NG52OFBVWFFobVdzaDV1RnM1MnZJWXdXSmx1WkE?oc=5",
+  "title": "[오피셜] SSG 벌써 아빌라 짝꿍 찾았다! '157㎞' 리차드슨과 100만 달러 계약",
+  "published_at": "2026-11-12T05:15:59.000Z",
+  "collected_at": "2026-11-12T13:37:53.259Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

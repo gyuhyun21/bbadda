@@ -1,0 +1,22 @@
+{
+  "id": "news-7b1d5814",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "news",
+  "source_name": "재경일보",
+  "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5LdTNQeXFZb0VacUJMV3JJM05ZRU9Fekg1bnYtM1JjMUJyU0phTi1idDBWY2V5S3NNeC1uSlZRQmdtU1FpTUVRYWJTMA?oc=5",
+  "title": "SSG, 아빌라 이어 리차드슨 영입 완료…외인 투수진 구축 : 스포츠",
+  "published_at": "2026-11-12T12:01:39.000Z",
+  "collected_at": "2026-11-12T13:37:53.259Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

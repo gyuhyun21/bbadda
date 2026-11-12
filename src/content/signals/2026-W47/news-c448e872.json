@@ -1,0 +1,23 @@
+{
+  "id": "news-c448e872",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "마이데일리",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAtSzBCX0xTNHlVS3lyUWN1azRrT2I0cnMyZGRIVUNxZG44OHRWUnRpQ0RwdkZzSTNld2JEVjJRWEFXMVFlMXd4emNuNWtNTW1tQzZ2UnlXNi0waExnaVlHUA?oc=5",
+  "title": "6회에 올라온 롯데 이 선수, 7회 그리고 8회에도 던졌다…1⅔이닝 2실점 1자책→박정민을 위한 변명",
+  "published_at": "2026-11-12T10:11:00.000Z",
+  "collected_at": "2026-11-12T13:37:53.259Z",
+  "summary_ko": "마이데일리는 6회에 올라와 8회까지 던진 롯데 박정민이 1⅔이닝 2실점(1자책)을 기록했다며 그의 투구를 변호했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "6회부터 8회까지, 박정민의 1⅔이닝"
+}

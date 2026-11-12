@@ -1,0 +1,23 @@
+{
+  "id": "news-489517b0",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "뉴시스",
+  "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBlZDYtUXI0X25FMThoNUJCTmc5ZEhHNndKaUdUQko3UDlEbkFhcUF4TGdyUTBHRzQ3OTJXOU93TW5WQTR6WUVVMHFiYmZ6Skp1UnVNM0d2LTJqNnNkekxXdzJrRjB3bVJwTk1UVWtPMzBxbzViVk03RNIBeEFVX3lxTFBlZDYtUXI0X25FMThoNUJCTmc5ZEhHNndKaUdUQko3UDlEbkFhcUF4TGdyUTBHRzQ3OTJXOU93TW5WQTR6WUVVMHFiYmZ6Skp1UnVNM0d2LTJqNnNkekxXdzJrRjB3bVJwTk1UVWtPMzBxbzViVk03RA?oc=5",
+  "title": "김민준, 호된 태극마크 데뷔전…APBC 호주전 2⅓이닝 4실점",
+  "published_at": "2026-11-12T04:09:28.000Z",
+  "collected_at": "2026-11-12T13:37:53.259Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

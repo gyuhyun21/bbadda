@@ -1,0 +1,27 @@
+{
+  "id": "instagram-871b3246",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "instagram",
+  "official": true,
+  "source_name": "Instagram @always_kia_tigers",
+  "url": "https://www.instagram.com/reel/DfovbRNzo3-/",
+  "title": "KIA 타이거즈 공식 인스타그램: 번트-바스타 디테일을 알려주고 있는 소요기 인스트럭터",
+  "published_at": "2026-11-12T09:33:17+0000",
+  "collected_at": "2026-11-12T13:37:53.259Z",
+  "summary_ko": "KIA 공식 인스타그램이 소요기 인스트럭터가 번트와 버스터 디테일을 가르치는 모습을 올렸다.",
+  "metrics": {
+    "likes": 4626,
+    "comments": 12
+  },
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "日 인스트럭터의 번트 수업"
+}

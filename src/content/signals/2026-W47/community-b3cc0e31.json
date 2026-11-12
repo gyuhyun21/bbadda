@@ -1,0 +1,28 @@
+{
+  "id": "community-b3cc0e31",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 카일루스의 핫이슈 따라잡기",
+  "url": "https://caelus-hotissue.tistory.com/248",
+  "title": "SSG 랜더스 베테랑 포수 김민식, 팀과 결별… 선수단 대규모 정비 착수",
+  "published_at": "2026-11-12T20:49:13.000+09:00",
+  "collected_at": "2026-11-12T13:37:53.259Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "중앙이코노미뉴스",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0ySEUxWlVsd2VpSzBIRTNpakZYdUlKRFZzRnNBVVhMRFROLTRLY19OU04teld4U1Z4cDFYX1pjclhpdEpCMGRkZTEweE5NRlc5ejQ3QXpycXNlZmllWVlmSkV2S3d2SElZM1M2X1NKU2x2UQ?oc=5"
+    }
+  ]
+}

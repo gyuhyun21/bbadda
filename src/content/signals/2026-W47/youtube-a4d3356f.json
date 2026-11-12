@@ -1,0 +1,25 @@
+{
+  "id": "youtube-a4d3356f",
+  "issue": "2026-W47",
+  "module": "league",
+  "teams": [],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=cmJdGHPC0Kk",
+  "title": "[호주 vs 대한민국] 11.12(목) APBC 하이라이트 | 2026 APBC",
+  "published_at": "2026-11-12T07:40:57Z",
+  "collected_at": "2026-11-12T13:37:53.259Z",
+  "summary_ko": "KBO 공식 채널이 11월 12일 APBC 호주-한국전 하이라이트를 올렸다.",
+  "metrics": {
+    "views": 93254,
+    "likes": 498,
+    "comments": 503
+  },
+  "scores": {
+    "hot": 69,
+    "relevance": 10
+  },
+  "sentiment": "neutral",
+  "brief_ko": "호주전 하이라이트, 공식 영상"
+}

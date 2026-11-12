@@ -1,0 +1,37 @@
+{
+  "id": "community-0f096aec",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 스포츠잔망의 스포츠 이야기",
+  "url": "https://feel0622.tistory.com/778",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/GRFwRVha9Q9",
+  "title": "삼성 라이온즈, 배찬승·김백산·김현준 호주 ABL 브리즈번 파견… 유망주 상세 프로필 및 일정 분석",
+  "published_at": "2026-11-12T21:20:55.000+09:00",
+  "collected_at": "2026-11-12T13:37:53.259Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 92,
+    "relevance": 50
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "톱스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE10QUhCSjJiMk1fSHRrZVByZjUxT2JXbEJBUnk5VTY3Zk5BNHduUGF5ZFRiWXAzQVN2dHdaNG1GbHdCZUYyYmV3NlJwYnk0R2l2ajcwd0xXVmR6M2FuMkNhNkZMajVQYzF3MEVlamw3SGxIZw?oc=5"
+    },
+    {
+      "source_name": "국제뉴스",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5CSkNTLURlaXhmZHlLNXlucVJOVEtWYmZtcmhkRmgxVmtrNGRxRi1VbUxNckVkUnlWNDdjMndzZ21nOEVwSGFGTnpFZjczc2Q3NHExMlJwcWtsTnVzRXVjTXBYSERkcld6OHNmM2ln?oc=5"
+    },
+    {
+      "source_name": "중앙이코노미뉴스",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5OUGRIc1RBcDE4amtaRWpKMEdObDZHdl9vSU8yQmt0ME5Va0ZCYnFPdXZQS1BjTDFSTmZ2YU0zMVViTG9lZXNKSm1xVmd0REg0dzFFTGpRXy1fTDNfV2JrVGk3THpJLWYxZjBmYlNqR0lFZw?oc=5"
+    }
+  ]
+}

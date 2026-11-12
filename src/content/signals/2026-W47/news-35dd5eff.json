@@ -1,0 +1,23 @@
+{
+  "id": "news-35dd5eff",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "조선일보",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdVFkSVBPN3BxMWhraXQ3TkduWS1LLW1xejZlbWxzTDJFaXhzaVRocER4ZVI0cWFMV1c2eVBTQ0xCMTNXeTh0UVYzN25Ga196ZWE4RnhRcmtMZ3U3a1U0VnJTNG5Eb0pxbFpHdFBUR19xVnRFaGthRUlXRHJMNFVzQVlXZw?oc=5",
+  "title": "\"미안하다 친구야\" 이보다 확실한 동기부여있을까…1R 선발 요원의 깜짝 고백 \"불펜도 해보고 싶습니다\"",
+  "published_at": "2026-11-12T09:48:00.000Z",
+  "collected_at": "2026-11-12T13:37:53.259Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

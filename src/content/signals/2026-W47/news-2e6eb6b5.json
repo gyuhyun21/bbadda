@@ -1,0 +1,23 @@
+{
+  "id": "news-2e6eb6b5",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1JclJyTDVoOEUyckhVZHJKRHJ2M1B5U0hoZjBNejg5aFFlaERaZGZYNFhBOTN4bkRfS3NDOE1QM2pZaUNQaXl1S05oVGpReEJuRjFRZXlDSURER05pTnNmZlFzQUdabHNnU0ZSX0g5VdIBb0FVX3lxTE1JclJyTDVoOEUyckhVZHJKRHJ2M1B5U0hoZjBNejg5aFFlaERaZGZYNFhBOTN4bkRfS3NDOE1QM2pZaUNQaXl1S05oVGpReEJuRjFRZXlDSURER05pTnNmZlFzQUdabHNnU0ZSX0g5VQ?oc=5",
+  "title": "‘최다 투구수 31구인데’ 왜 박정민 카드 고집했을까…6회 6점 뽑고도 역전패 참사, 韓야구 벌써 결승행 초비상 [APBC]",
+  "published_at": "2026-11-12T09:42:00.000Z",
+  "collected_at": "2026-11-12T13:37:53.259Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

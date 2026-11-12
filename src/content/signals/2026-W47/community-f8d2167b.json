@@ -1,0 +1,29 @@
+{
+  "id": "community-f8d2167b",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 행복미남",
+  "url": "https://happydaddy0622.tistory.com/92",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/Ba9pFaPjjdP",
+  "title": "삼성 라이온즈 우승 공약 - 에버랜드 무료 초청 응모 및 신청 방법!",
+  "published_at": "2026-11-12T16:40:13.000+09:00",
+  "collected_at": "2026-11-12T13:37:53.259Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 82,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "일간스포츠",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBjUDg5Vk5mQkprRFpjT2hRZ2YyTEhObFZKYkZKaDBJZFdSSEowcE1xblRQN1JCbzBNLXBkcmlpQnlUSTFFNnRhM3JqMlBUTW1ialFSOVM3Z2JtdWs?oc=5"
+    }
+  ]
+}

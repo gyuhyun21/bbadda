@@ -1,0 +1,22 @@
+{
+  "id": "news-9d502b43",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "news",
+  "source_name": "노컷뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5YOEpFQmRoUWprY2hYQkZyYWQ1MUcwaWEyMXJvNjFGS1lqZHpLalNsS2ZCLXlWNy04TlRXYnpGMGp6SVE3Wi1YME41WHZqX1AtbEE?oc=5",
+  "title": "'157㎞ MLB 출신 우완' SSG 상륙…리차드슨과 13억 계약",
+  "published_at": "2026-11-12T06:47:27.000Z",
+  "collected_at": "2026-11-12T13:37:53.259Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}
