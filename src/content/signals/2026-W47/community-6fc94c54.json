@@ -1,0 +1,24 @@
+{
+  "id": "community-6fc94c54",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 마데의 야구 칼럼",
+  "url": "https://blog.naver.com/da331/224474986303",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/GWwVjXbimUv",
+  "title": "[야구대표팀] 박정민 올해 최다 31구, 호주전 동점 홈런은 36구째였다",
+  "published_at": "2026-11-13T19:37:00.000+09:00",
+  "collected_at": "2026-11-13T13:37:54.671Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

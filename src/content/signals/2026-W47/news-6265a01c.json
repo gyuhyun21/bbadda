@@ -1,0 +1,23 @@
+{
+  "id": "news-6265a01c",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "Tbc.co.kr",
+  "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQakRFTjJuQ2FheFAwQVNsQW9JWVFjUjVtTnZiMjdtR2lORFZ3cExjSHNSNk4tQU5fWUtBaG12bEc0ZDJ2RThVS2EtdDZEMWVIMjlHdGxvemRyQjJGbE1yUHQyaHlfY2lXZTNfREdUdWhaeHVUOFVPU2xqZDZqZ0JCQnFPNnZhQQ?oc=5",
+  "title": "한국시리즈 우승의 주역들을 만나다",
+  "published_at": "2026-11-13T12:07:04.000Z",
+  "collected_at": "2026-11-13T13:37:54.671Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

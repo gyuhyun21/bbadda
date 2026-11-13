@@ -1,0 +1,23 @@
+{
+  "id": "community-bc7bd7ee",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 지금 이 이슈",
+  "url": "https://blog.naver.com/nowmoon101/224476039170",
+  "title": "유망주 꼬리표 뗀 김창평, 좌절 속에서도 꺼지지 않는 야구 열정",
+  "published_at": "2026-11-13T19:30:00.000+09:00",
+  "collected_at": "2026-11-13T13:37:54.671Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

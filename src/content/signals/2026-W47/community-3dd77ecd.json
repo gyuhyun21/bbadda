@@ -1,0 +1,23 @@
+{
+  "id": "community-3dd77ecd",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 오늘의 스포츠픽",
+  "url": "https://blog.naver.com/forehfrhdiddl/224475613520",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/IvS4Evjxu45",
+  "title": "\"한국의 애런 저지라더니 벌써 은퇴라고?\" SSG 류효승이 최정에게 타격 재능을 인정받고도 내린...",
+  "published_at": "2026-11-13T19:00:00.000+09:00",
+  "collected_at": "2026-11-13T13:37:54.671Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

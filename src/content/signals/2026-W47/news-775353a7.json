@@ -1,0 +1,23 @@
+{
+  "id": "news-775353a7",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "뉴스핌",
+  "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0weC1tWE94S3l2Q1NWQlctVWlKa2pOZmpicG9TekhOXzZsZkgtejVzSW1yUXpMaWdYZ21vV3g4amF6cFNhSzhhWGdIek1KQXVOd09oa3FGN1dyRE4w?oc=5",
+  "title": "[APBC] '국대 좌완 에이스 후보' 김진욱, 한일전 5이닝 2실점",
+  "published_at": "2026-11-13T12:24:00.000Z",
+  "collected_at": "2026-11-13T13:37:54.671Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

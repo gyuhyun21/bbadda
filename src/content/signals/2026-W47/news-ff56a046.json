@@ -1,0 +1,23 @@
+{
+  "id": "news-ff56a046",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "STN SPORTS",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5fR3pPSFE4dDVfNHUtNWo3XzlOYXNnUXFSUy02UVoyakVTMVpSX2NKVmpUUzUtcV9LSTlrNV81bzM0d2d0ODVZTlNrb1d2M2lHWnJQQ0ttSTZJM2tZaXMwbE9MSkl5b3NGcjZySWNWVQ?oc=5",
+  "title": "‘인천 원 클럽 맨’ 박재상, 2군 감독으로 친정 복귀",
+  "published_at": "2026-11-13T06:09:50.000Z",
+  "collected_at": "2026-11-13T13:37:54.671Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "instagram-9cd00e6b",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "instagram",
+  "official": true,
+  "source_name": "Instagram @heroesbaseballclub",
+  "url": "https://www.instagram.com/p/DfrkTDeEgS8/",
+  "title": "키움 히어로즈 공식 인스타그램: 2026 아시아 윈터 베이스볼 리그 | NIGHT TRAINING 📸",
+  "published_at": "2026-11-13T11:52:26+0000",
+  "collected_at": "2026-11-13T13:37:54.671Z",
+  "summary_ko": "키움 공식 인스타그램이 2026 아시아 윈터 베이스볼 리그 야간 훈련 사진을 올렸다.",
+  "metrics": {
+    "likes": 1151,
+    "comments": 22
+  },
+  "scores": {
+    "hot": 67,
+    "relevance": 50
+  },
+  "sentiment": "neutral",
+  "brief_ko": "윈터리그 야간 훈련"
+}

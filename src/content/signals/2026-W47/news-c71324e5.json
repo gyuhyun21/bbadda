@@ -1,0 +1,23 @@
+{
+  "id": "news-c71324e5",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "매일경제",
+  "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9jVWNqYllnYVctdnlrZUQxTlJJR2VDNnZzcTJzSUhCRVY3bk5ORkN3amR2eDhQci1yS3dsWnBDbWMyUzVNOVE?oc=5",
+  "title": "흔들렸지만 무너지지 않았다!…‘5이닝 KKKK 2실점’ 日 상대로 씩씩하게 맞선 ‘사직 스쿠발’ 김진욱 [APBC]",
+  "published_at": "2026-11-13T12:03:08.000Z",
+  "collected_at": "2026-11-13T13:37:54.671Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

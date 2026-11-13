@@ -1,0 +1,24 @@
+{
+  "id": "community-f9ac3b01",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 마법사의 보물상자",
+  "url": "https://blog.naver.com/chj23/224475991395",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/HB7dJPJGDYb",
+  "title": "노시환 메이저리그, 삼진율 25.7% 약점인데 몸값 전망 40억 vs 108억 엇갈렸다",
+  "published_at": "2026-11-13T18:35:00.000+09:00",
+  "collected_at": "2026-11-13T13:37:54.671Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

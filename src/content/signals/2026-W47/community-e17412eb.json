@@ -1,0 +1,24 @@
+{
+  "id": "community-e17412eb",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 스포츠 줌인",
+  "url": "https://blog.naver.com/sport_log/224475579014",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/9bUmf8xu2mM",
+  "title": "'APBC 호주전 역전패' 최원호 감독이 인정한 투수 교체 타이밍 실수와 아쉬운 마운드 운용",
+  "published_at": "2026-11-13T20:30:00.000+09:00",
+  "collected_at": "2026-11-13T13:37:54.671Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

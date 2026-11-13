@@ -1,0 +1,26 @@
+{
+  "id": "youtube-967656b0",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "source_name": "베샥",
+  "url": "https://www.youtube.com/watch?v=gx1U7Wzt5Ss",
+  "title": "이 한화 응원가 누구 건지 아시나요? ⚾ #shorts #한화이글스 #응원가 #KBO",
+  "published_at": "2026-11-13T11:37:29Z",
+  "collected_at": "2026-11-13T13:37:54.671Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 299,
+    "likes": 1,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 32,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

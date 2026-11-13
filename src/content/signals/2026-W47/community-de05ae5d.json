@@ -1,0 +1,24 @@
+{
+  "id": "community-de05ae5d",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 머니컬 리뷰",
+  "url": "https://blog.naver.com/moneycultreview/224476184715",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/6oFNEL0nYBS",
+  "title": "\"우승했는데..\" 구자욱 2026 시즌 성적 바탕 MLB 가능성?",
+  "published_at": "2026-11-13T21:54:00.000+09:00",
+  "collected_at": "2026-11-13T13:37:54.671Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

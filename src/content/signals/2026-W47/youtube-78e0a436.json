@@ -1,0 +1,26 @@
+{
+  "id": "youtube-78e0a436",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "youtube",
+  "source_name": "볼카운트",
+  "url": "https://www.youtube.com/watch?v=nog3ygh1isY",
+  "title": "90승 1위인데 왜 준우승? KT 위즈 2026 시즌 총정리",
+  "published_at": "2026-11-13T11:27:43Z",
+  "collected_at": "2026-11-13T13:37:54.671Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 0,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

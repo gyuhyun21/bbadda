@@ -1,0 +1,29 @@
+{
+  "id": "community-b44401eb",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 스포츠 이슈포커스",
+  "url": "https://blog.naver.com/jyskch/224476060890",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/29O583tubqg",
+  "title": "KIA 김호령 FA C등급…보상선수 없이 3억 7500만 원?",
+  "published_at": "2026-11-13T20:06:00.000+09:00",
+  "collected_at": "2026-11-13T13:37:54.671Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "진일보 | 전남일보",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9HQV9QSC1EMUVNOUVSb1p5QnpOTnlHMDZGNFh3TnFFVkFBV3cyX2tDOExrRWtvLTk0SWlDekNObVlHdVRDalRxbGpRMXdIbEVfWVJQRVVQWTNXZGhHUWJITTlyYkJ5ZmQ5TVYwVmRVVQ?oc=5"
+    }
+  ]
+}

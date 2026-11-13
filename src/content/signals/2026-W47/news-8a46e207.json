@@ -1,0 +1,24 @@
+{
+  "id": "news-8a46e207",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠동아",
+  "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBzNmY4MzBIUkxHaFNHMkJHLWN2Z1RyQXVQaHYtNVVXYVlraEJMeU5pOVRVRnFtdVduYTBDSkJadmF2OFhHN0FQcXE2Y1Q0M2RBdHJMU1Y1UTZ0bEdGOXBOTEplN0VqdF9HeF9NbUNZMFEyQQ?oc=5",
+  "title": "‘대회 첫 안타가 홈런’ 한동희 거포본능, NPB 11승 투수 반대투구 놓치지 않았다 [APBC]",
+  "published_at": "2026-11-13T11:03:57.000Z",
+  "collected_at": "2026-11-13T13:37:54.671Z",
+  "summary_ko": "스포츠동아는 롯데 한동희가 이번 대회 첫 안타를 NPB 11승 투수 상대 홈런으로 장식했다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "brief_ko": "한동희, 대회 첫 안타가 홈런"
+}

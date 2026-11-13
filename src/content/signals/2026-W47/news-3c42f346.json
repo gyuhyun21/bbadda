@@ -1,0 +1,23 @@
+{
+  "id": "news-3c42f346",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "조선일보",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUkxKWk51NjJqc0NVbnQybks3WmUzSFpIOGw1YmowWFJvUXpHNDJYcFNhRGVTaFRVbWRLWlF2SlhDNjdjcF9rLW1vekg4NlZiajdpV0o3cF9KZFhqdUs2djZDS21BRGo1Z3Zpam93a0lOcjJXNGdBWUh2ZE4yNEJwblgwVQ?oc=5",
+  "title": "'잘 버텼다, 사직 스쿠벌' 한일전 선발 등판해 5이닝 2실점 선방[APBC]",
+  "published_at": "2026-11-13T13:17:00.000Z",
+  "collected_at": "2026-11-13T13:37:54.671Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

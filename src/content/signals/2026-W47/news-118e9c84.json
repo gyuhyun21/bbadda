@@ -1,0 +1,24 @@
+{
+  "id": "news-118e9c84",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "조선일보",
+  "url": "https://www.chosun.com/sports/baseball/2026/11/13/GVTGMYZTGRSTIM3FHA3WIZJWGE/",
+  "title": "30대 중반, 평범한 수비력, 부족한 파워...구자욱 ML 진출, 현실성 얼마나 있나",
+  "published_at": "2026-11-13T10:11:00.000Z",
+  "collected_at": "2026-11-13T13:37:54.671Z",
+  "summary_ko": "조선일보는 30대 중반 나이와 평범한 수비력, 부족한 파워를 들어 구자욱의 MLB 진출 현실성을 짚었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "구자욱 ML행, 현실성은?"
+}

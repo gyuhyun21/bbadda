@@ -1,0 +1,24 @@
+{
+  "id": "news-447ae2b9",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "동아일보",
+  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4tYVhoMndKNmJPYlRnaE11RUE2eHhFdHNDdWhKWUJNSWhiZF94UU8wVDAwY3RCMy0xcmhTMHRRMnFYcTMxaGNtV3htMjdFQV9rWEVPWWpuT0pjTHBCZW5rbHQ4YWZULUpGTkM1RWV2dmQ1anNi0gFmQVVfeXFMUGRzX0FleUdLSzJ2MTdCLV8yMndKdkt1LXZxa0ViczVCUG84dkIyWUpSU0pyVUU5TThLTWcyZ0UzVWZ0QUxRa2c3bmVPYlJ1bjJHYktRQlVwWVpPV2VGTEh5MDVJNTNR?oc=5",
+  "title": "김진욱, APBC 일본전 5이닝 4K 2실점…돋보인 위기관리 능력",
+  "published_at": "2026-11-13T12:14:59.000Z",
+  "collected_at": "2026-11-13T13:37:54.671Z",
+  "summary_ko": "동아일보는 롯데 김진욱이 APBC 일본전에서 5이닝 4탈삼진 2실점으로 위기관리 능력을 보였다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "김진욱, 일본전 5이닝 2실점"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "community-cc096b62",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 장원영의 실시간 핫이슈",
+  "url": "https://blog.naver.com/severance1997/224475984847",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/JLTuGltxRzW",
+  "title": "KIA 대충격! '보상금 단 돈 3억7500만원 실화?'…김호령 FA 'C등급' 확정→이러다 50억? CF 최대어 등극...",
+  "published_at": "2026-11-13T18:51:00.000+09:00",
+  "collected_at": "2026-11-13T13:37:54.671Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "negative",
+  "also_in": [
+    {
+      "source_name": "엑스포츠뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1Lcm5KUDFRSTNDN2gxd3ZZSFMxVUJBaXMtWTFhM2pxbjA1dGtVdlg5MUk0T1ZoaWs1b2duUDZGOVdyVUY2LVF4V284VXBkLVhEYzdDWQ?oc=5"
+    }
+  ]
+}

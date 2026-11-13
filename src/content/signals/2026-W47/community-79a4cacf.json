@@ -1,0 +1,24 @@
+{
+  "id": "community-79a4cacf",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 실천하는 습관(광주전라권법원경매)",
+  "url": "https://blog.naver.com/mekki2/224476076950",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/JIpUTPGJe2F",
+  "title": "2026 APBC 한일전, 호주전 충격패 이후 한국 야구의 운명은?",
+  "published_at": "2026-11-13T20:03:00.000+09:00",
+  "collected_at": "2026-11-13T13:37:54.671Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

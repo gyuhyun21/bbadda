@@ -1,0 +1,22 @@
+{
+  "id": "community-c5ff351d",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 KBO Doongzi",
+  "url": "https://kbodoongzi.tistory.com/23",
+  "title": "두산 베어스 영구결번 김영신 ｜Retired Number-000",
+  "published_at": "2026-11-13T18:00:32.000+09:00",
+  "collected_at": "2026-11-13T13:37:54.671Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

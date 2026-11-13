@@ -1,0 +1,24 @@
+{
+  "id": "community-37bb6bd8",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 클래스스포츠",
+  "url": "https://blog.naver.com/classstore/224475819340",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/FyrjE2bsFoW",
+  "title": "이정후 KBO 타율 0.340→MLB 0.276, 2026시즌 아쉬운 성적과 2027년 반등 가능성",
+  "published_at": "2026-11-13T16:17:00.000+09:00",
+  "collected_at": "2026-11-13T13:37:54.671Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

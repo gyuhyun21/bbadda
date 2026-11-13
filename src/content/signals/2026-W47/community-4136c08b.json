@@ -1,0 +1,24 @@
+{
+  "id": "community-4136c08b",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 클라이밍의 모든 순간, 클라임씬",
+  "url": "https://blog.naver.com/climbscene/224476169081",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/8jsxEAFxOvj",
+  "title": "\"선수 영입에 돈 많이 쓰면 벌금 낸다고?\" KBO 샐러리캡 계산부터 FA 보상선수까지",
+  "published_at": "2026-11-13T21:38:00.000+09:00",
+  "collected_at": "2026-11-13T13:37:54.671Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

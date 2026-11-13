@@ -1,0 +1,22 @@
+{
+  "id": "news-efde5202",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "https://www.asportstv.kr/",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9GYmZFc2ZRSXRzTTRfTjZ3TmVvcHlyYUJnanJMUzhWS2NPNnc5ZGZESzQ3bGdtSi1tdGZqa0h3Si1FZXROM1dDRVh6TmpCSDNjZkFnWGw5S1BiNTJqenMtWkgzNUZRYWU3?oc=5",
+  "title": "[AS 초점] 12년 만에 우승했는데 초상집? 구자욱·원태인 FA 풀린 삼성 비상",
+  "published_at": "2026-11-13T08:45:45.000Z",
+  "collected_at": "2026-11-13T13:37:54.671Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

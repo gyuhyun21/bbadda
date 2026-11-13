@@ -1,0 +1,24 @@
+{
+  "id": "community-10adb0e1",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 kkamjo8193님의 블로그",
+  "url": "https://blog.naver.com/jokkam8193/224476192437",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/1fwtwmVJfr3",
+  "title": "한일전 12연패 위기서 김진욱이 버텨낸 5이닝 2실점, 경기 후기 총정리",
+  "published_at": "2026-11-13T22:01:00.000+09:00",
+  "collected_at": "2026-11-13T13:37:54.671Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

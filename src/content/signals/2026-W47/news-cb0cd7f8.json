@@ -1,0 +1,23 @@
+{
+  "id": "news-cb0cd7f8",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "뉴시스",
+  "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBlQ0JvcF8ySDZXY2pTUWdiT0tOUXgtMTNwZU04UHJYbHZkQ0FyTDVyb2RIYnRhQ05sS1pncFNlai1nWVlzazBsSDFkaWQwUHIyODMydFhPaXJsUFc3T2R1YWhta0w0b1Jxbl9vb2d0eV82QUJaT3E2atIBeEFVX3lxTFBlQ0JvcF8ySDZXY2pTUWdiT0tOUXgtMTNwZU04UHJYbHZkQ0FyTDVyb2RIYnRhQ05sS1pncFNlai1nWVlzazBsSDFkaWQwUHIyODMydFhPaXJsUFc3T2R1YWhta0w0b1Jxbl9vb2d0eV82QUJaT3E2ag?oc=5",
+  "title": "'대표팀 첫 선발' 김진욱, APBC 한일전 5이닝 2실점…3회 피홈런은 '오점'",
+  "published_at": "2026-11-13T12:07:33.000Z",
+  "collected_at": "2026-11-13T13:37:54.671Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}
