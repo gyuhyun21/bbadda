@@ -1,0 +1,22 @@
+{
+  "id": "community-16e3779d",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 뉴스 속 단어사전",
+  "url": "https://newswordbook.tistory.com/3",
+  "title": "야구 불펜이란 무엇일까? 롯데 불펜은 롯데 팬을 말하는 걸까?",
+  "published_at": "2026-11-13T19:31:22.000+09:00",
+  "collected_at": "2026-11-13T13:37:54.671Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "community-8bbf2a54",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg",
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 저는할 수 있습니다.",
+  "url": "https://blog.naver.com/sunnydaysgood/224475984929",
+  "title": "\"확인되지 않은 이적설\" 구자욱 SSG 삼성 FA 계약 예산",
+  "published_at": "2026-11-13T20:20:00.000+09:00",
+  "collected_at": "2026-11-13T13:37:54.671Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

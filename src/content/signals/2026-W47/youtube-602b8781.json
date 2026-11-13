@@ -1,0 +1,27 @@
+{
+  "id": "youtube-602b8781",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "기다려도파민",
+  "url": "https://www.youtube.com/watch?v=b9KY7H8WXPM",
+  "title": "25억을 거절한 우승 포수, 4년 만에 방출",
+  "published_at": "2026-11-13T11:00:35Z",
+  "collected_at": "2026-11-13T13:37:54.671Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 5683,
+    "likes": 79,
+    "comments": 31
+  },
+  "scores": {
+    "hot": 61,
+    "relevance": 70
+  },
+  "sentiment": "mixed"
+}

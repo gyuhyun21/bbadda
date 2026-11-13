@@ -1,0 +1,26 @@
+{
+  "id": "youtube-8c08ab40",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "youtube",
+  "source_name": "볼카운트",
+  "url": "https://www.youtube.com/watch?v=EqyA7vNTwS0",
+  "title": "경기 차 추격, 그리고 8연패 | NC 다이노스 2026 시즌 총정리",
+  "published_at": "2026-11-13T11:17:15Z",
+  "collected_at": "2026-11-13T13:37:54.671Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 0,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

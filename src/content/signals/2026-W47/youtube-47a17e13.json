@@ -1,0 +1,26 @@
+{
+  "id": "youtube-47a17e13",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "youtube",
+  "source_name": "이슈쏘머치",
+  "url": "https://www.youtube.com/watch?v=-dyr43abj-s",
+  "title": "70만 달러로 왔던 LG 오스틴, 다섯 시즌 만에 꽉 채운 숫자 #오스틴 #LG트윈스",
+  "published_at": "2026-11-13T10:30:27Z",
+  "collected_at": "2026-11-13T13:37:54.671Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1092,
+    "likes": 3,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 39,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-5d9f11d2",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "news",
+  "source_name": "STN SPORTS",
+  "url": "https://www.stnsports.co.kr/news/articleView.html?idxno=325491",
+  "title": "SSG 영입한 리처드슨. ‘선발 소화’ 가능한 몸 상태 만들어야",
+  "published_at": "2026-11-13T07:39:35.000Z",
+  "collected_at": "2026-11-13T13:37:54.671Z",
+  "summary_ko": "STN SPORTS는 SSG가 영입한 리처드슨이 선발을 소화할 수 있는 몸 상태를 만들어야 한다고 짚었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "리처드슨 숙제, 선발 체력"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "youtube-7111bce6",
+  "issue": "2026-W47",
+  "module": "league",
+  "teams": [],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=lFkP3k1qWhQ",
+  "title": "조선의 4번 타자는 이렇게 이어집니다! 담장을 넘기는 한동희의 솔로포💥",
+  "published_at": "2026-11-13T11:31:47Z",
+  "collected_at": "2026-11-13T13:37:54.671Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 3799,
+    "likes": 149,
+    "comments": 3
+  },
+  "scores": {
+    "hot": 75,
+    "relevance": 30
+  },
+  "sentiment": "neutral"
+}

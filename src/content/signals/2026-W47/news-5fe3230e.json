@@ -1,0 +1,32 @@
+{
+  "id": "news-5fe3230e",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE14UndDeTRIbDFoc01mTVRvMTB6eVAzV1l4WlgtTFhpVE94Rk9MMFBhWjJFUlJ1b0ktY0d6RUl6Y0dra19uZTM0Q0FJWEQ4ZHdFd19DS3dsVHVKVnZ3WXZLbDk1RzhpRGc2RnF3a2FTSdIBb0FVX3lxTE14UndDeTRIbDFoc01mTVRvMTB6eVAzV1l4WlgtTFhpVE94Rk9MMFBhWjJFUlJ1b0ktY0d6RUl6Y0dra19uZTM0Q0FJWEQ4ZHdFd19DS3dsVHVKVnZ3WXZLbDk1RzhpRGc2RnF3a2FTSQ?oc=5",
+  "title": "“KBO 수준 낮은데, 마이너 계약도 괜찮아?” 美 이런 찬물을, 구자욱 ML 도전 추진→왜 부정 전망만 내놨나",
+  "published_at": "2026-11-13T08:21:00.000Z",
+  "collected_at": "2026-11-13T13:37:54.671Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 90,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "미주중앙일보",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAwa2U5SlRzUDU2dE96bGtyeUljT0xRME1xU2sxY2ItM2FOWTRXYnY4bXRTdkNEdDM4Y09OUUx5cEFZQmhZR0pxSFpoOWs3Q3Q5RVJ2Wk42VFZLV1l6MVdZVy13?oc=5"
+    },
+    {
+      "source_name": "Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOX0hVSk9yN28yMHNlZEdDVWJUVjRWckhWbVJhUHRCSVFJVmxxX2o2YXFhQzgyemM4OFJXRUJxZlBVbTlIdGZqdEdlbkVDYXFodVRFX2ozMTN1UE1LNTVEZVNjazZ2cVB6VFJ4Mmp3MTZRLVI3aEsxclZWSWtaRGljYzNZc9IBlwFBVV95cUxPdHNQRTIyTGVISnp6WS03MGNqRnJ6dng5RUdhZGRhWWRNb0x4RjFoNEVkcktuTXFJQXUxWDFWT21yZzB2dTRtU2t2cUN5YlZQT2M4TEE2Mndpei1URml6TlZoTWZ4TWwtcjdYVkZCZXk5ZS1GOHpfYUh0bnlSSFRFQl9qNmtiaC1nRVpyVVhENExCTzU2ZDhN?oc=5"
+    }
+  ]
+}

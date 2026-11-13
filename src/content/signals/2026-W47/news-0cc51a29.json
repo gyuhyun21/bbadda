@@ -1,0 +1,22 @@
+{
+  "id": "news-0cc51a29",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "news",
+  "source_name": "일간스포츠",
+  "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9PakgycnNhWnh3Q0plVjV2bktFQ19sOFFFQTliVWZYY1ZFZDlRR1FWemxhZmhFSWV2OGhFVHM5QnhzQV84WjdlSkhCTG5iRmNZRTRBVkVQeThPeHM?oc=5",
+  "title": "박정권과 결별한 SSG, 프랜차이즈 박재상 퓨처스감독 선임",
+  "published_at": "2026-11-13T01:38:00.000Z",
+  "collected_at": "2026-11-13T13:37:54.671Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

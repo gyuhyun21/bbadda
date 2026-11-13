@@ -1,0 +1,26 @@
+{
+  "id": "youtube-b1d5b2b8",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "스포츠팩폭",
+  "url": "https://www.youtube.com/watch?v=EKRz5GCOEwo",
+  "title": "구자욱, MLB 진출 본격 추진…미국 에이전트 선임 #구자욱 #삼성라이온즈 #메이저리그 #MLB #프로야구",
+  "published_at": "2026-11-13T13:00:27Z",
+  "collected_at": "2026-11-13T13:37:54.671Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 316,
+    "likes": 3,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 40,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

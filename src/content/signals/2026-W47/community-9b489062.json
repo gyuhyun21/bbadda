@@ -1,0 +1,24 @@
+{
+  "id": "community-9b489062",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 박칠의 야구로그",
+  "url": "https://blog.naver.com/parkdosan7/224475802424",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/4ZtT1ZgvpdO",
+  "title": "2027 KBO FA 자격 선수 28명 발표, A,B,C 등급 구단별 명단과 등급 정리",
+  "published_at": "2026-11-13T16:29:00.000+09:00",
+  "collected_at": "2026-11-13T13:37:54.671Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

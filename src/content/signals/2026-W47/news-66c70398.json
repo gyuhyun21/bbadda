@@ -1,0 +1,23 @@
+{
+  "id": "news-66c70398",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "이데일리",
+  "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRXU0eXB5a01QQzc1V0hFY21LbmcwdXhyZWtST0tSUENQSFR1UzZvMVNEenE4YW81bkN1a1MwZXNlV2RKMmE3djd6eEQ1NlBnWElhY0FDZVB6dVQ4eEhUc3hHT1BLMkxmVHZEci1QTk03WFZsa0g2QWNEWVJlZkJNSw?oc=5",
+  "title": "김진욱, 일본전 5이닝 2실점 호투…역전 투런홈런 아쉬움",
+  "published_at": "2026-11-13T12:15:19.000Z",
+  "collected_at": "2026-11-13T13:37:54.671Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

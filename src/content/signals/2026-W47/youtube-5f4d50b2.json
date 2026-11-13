@@ -1,0 +1,28 @@
+{
+  "id": "youtube-5f4d50b2",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha",
+    "lotte",
+    "nc"
+  ],
+  "source_type": "youtube",
+  "source_name": "크보쌍둥이",
+  "url": "https://www.youtube.com/watch?v=T1uLj5lXvEU",
+  "title": "한화 롯데 nc 김호령 전쟁! 중견수+좌.우 수비 커버까지! 유망주와 함께면 최고라고? #김호령 #기아타이거즈 #한화이글스 #롯데자이언츠 #nc다이노스 #김주원",
+  "published_at": "2026-11-13T09:55:16Z",
+  "collected_at": "2026-11-13T13:37:54.671Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 5666,
+    "likes": 74,
+    "comments": 51
+  },
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

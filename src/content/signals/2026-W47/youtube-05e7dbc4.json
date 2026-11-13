@@ -1,0 +1,24 @@
+{
+  "id": "youtube-05e7dbc4",
+  "issue": "2026-W47",
+  "module": "league",
+  "teams": [],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=nm_9NKkW7UE",
+  "title": "도쿄 돔을 넘기는 거대 홈런! 김휘집의 스리런✨",
+  "published_at": "2026-11-13T13:18:35Z",
+  "collected_at": "2026-11-13T13:37:54.671Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 2867,
+    "likes": 110,
+    "comments": 13
+  },
+  "scores": {
+    "hot": 76,
+    "relevance": 30
+  },
+  "sentiment": "positive"
+}

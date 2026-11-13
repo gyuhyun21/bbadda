@@ -1,0 +1,24 @@
+{
+  "id": "community-b82386ae",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 오프더레코드 스포츠",
+  "url": "https://blog.naver.com/offtherecordsports/224475216332",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/7Ptg6inbCu3",
+  "title": "원태인은 올해 연봉이 계약금의 3배 가까운데… 2019년 1차 지명 10명 중 본전을 뽑은 건 몇 명일까?",
+  "published_at": "2026-11-13T18:10:00.000+09:00",
+  "collected_at": "2026-11-13T13:37:54.671Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

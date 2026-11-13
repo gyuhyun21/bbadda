@@ -1,0 +1,26 @@
+{
+  "id": "youtube-92567f96",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "썰예썰",
+  "url": "https://www.youtube.com/watch?v=FnjijXo0Ekc",
+  "title": "천 원 신문이 21만 원 #삼성라이온즈 #한국시리즈 #우승신문 #품귀 #썰예썰",
+  "published_at": "2026-11-13T12:00:26Z",
+  "collected_at": "2026-11-13T13:37:54.671Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 692,
+    "likes": 2,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 36,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

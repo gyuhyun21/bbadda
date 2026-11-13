@@ -1,0 +1,23 @@
+{
+  "id": "news-83430867",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "파이낸셜뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1va3QtOEhWTTZXd3F1dHJEeV9iZmpiWndnNjhwdk1EZ0hfYldtaFlDcjdFdkx2SVZ4UkN1RGxraFRUUmprYmtGODhOamNTamVKaEFTNzZwLUZRUQ?oc=5",
+  "title": "\"타격왕에 KS MVP까지 했는데 미국 간다고?\"…구자욱의 진심, MLB 전문 기자가 전했다",
+  "published_at": "2026-11-13T09:45:11.000Z",
+  "collected_at": "2026-11-13T13:37:54.671Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

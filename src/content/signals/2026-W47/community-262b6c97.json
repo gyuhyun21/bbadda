@@ -1,0 +1,23 @@
+{
+  "id": "community-262b6c97",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "community",
+  "source_name": "레딧 r/KBO",
+  "url": "https://www.reddit.com/r/KBO/comments/1xv0dir/ssg_landers_sign_pitcher_lyon_richardson/",
+  "title": "SSG Landers sign pitcher Lyon Richardson",
+  "published_at": "2026-11-13T06:37:54.671Z",
+  "collected_at": "2026-11-13T13:37:54.671Z",
+  "summary_ko": "",
+  "excerpt": "... Source: SSG Landers Contract: 1-year deal $1 million USD ($900000 salary, $100000 signing bonus)",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

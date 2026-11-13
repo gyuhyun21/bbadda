@@ -1,0 +1,23 @@
+{
+  "id": "news-888bcda1",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "news",
+  "announcement": true,
+  "source_name": "엑스포츠뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBqZVQzR2o1VGJ2dGwxUm54TklXNDhPeUd2MkdBUU1yOXRMQm94WHVfcFZGUGpwSUNueTBQUVo2Y0c0RGZZUmlnVExFUjRUUlNqZF9WUA?oc=5",
+  "title": "'박정권과 결별' SSG, 박재상 퓨처스팀 감독 선임…\"중책 맡게 돼 책임감 크다\" [공식발표]",
+  "published_at": "2026-11-13T07:53:30.000Z",
+  "collected_at": "2026-11-13T13:37:54.671Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

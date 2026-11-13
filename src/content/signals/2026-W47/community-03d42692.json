@@ -1,0 +1,24 @@
+{
+  "id": "community-03d42692",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&page=4&document_srl=10551013803",
+  "title": "TQB 단어 좀 야한듯 - 야구",
+  "published_at": "2026-11-13T09:37:54.671Z",
+  "collected_at": "2026-11-13T13:37:54.671Z",
+  "summary_ko": "",
+  "excerpt": "... 거지구단타이거즈 7 분 전. 오프너 티쿠비. 1. [레벨:33] 오프너 6 분 전 ... 기아…",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

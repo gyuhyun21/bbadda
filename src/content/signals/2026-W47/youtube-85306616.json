@@ -1,0 +1,26 @@
+{
+  "id": "youtube-85306616",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "source_name": "루테라",
+  "url": "https://www.youtube.com/watch?v=hP3p43H00eQ",
+  "title": "이글스 황준서 연수에서 많이 배웠다 #한화이글스",
+  "published_at": "2026-11-13T10:45:32Z",
+  "collected_at": "2026-11-13T13:37:54.671Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 475,
+    "likes": 39,
+    "comments": 2
+  },
+  "scores": {
+    "hot": 72,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

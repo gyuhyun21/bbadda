@@ -1,0 +1,24 @@
+{
+  "id": "community-882badc5",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 '아날로그'를 사랑한 '디지털'..",
+  "url": "https://blog.naver.com/webritter/224476024816",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/5hkF3QyhYx7",
+  "title": "라이온즈 우승 기념 삼성전자 대축제, 11월 24일까지 혜택 정리",
+  "published_at": "2026-11-13T19:34:00.000+09:00",
+  "collected_at": "2026-11-13T13:37:54.671Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

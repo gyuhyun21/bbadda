@@ -1,0 +1,28 @@
+{
+  "id": "youtube-e14a37a9",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "LGTWINSTV",
+  "url": "https://www.youtube.com/watch?v=pdQcs6SQrrA",
+  "title": "작전 상황에서 중요한 감정 컨트롤💫 번트 훈련 [엘코더]",
+  "published_at": "2026-11-13T08:30:02Z",
+  "collected_at": "2026-11-13T13:37:54.671Z",
+  "summary_ko": "LG 공식 채널이 작전 상황의 감정 컨트롤을 다룬 번트 훈련 영상을 올렸다.",
+  "metrics": {
+    "views": 25765,
+    "likes": 687,
+    "comments": 65
+  },
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "감정 컨트롤, 번트 훈련"
+}

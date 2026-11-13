@@ -1,0 +1,27 @@
+{
+  "id": "youtube-7e9f309d",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "시사식탁",
+  "url": "https://www.youtube.com/watch?v=qen3O7vHB1M",
+  "title": "전력 외 3루수가 우승한 이유 #전병우 #삼성라이온즈",
+  "published_at": "2026-11-13T09:30:31Z",
+  "collected_at": "2026-11-13T13:37:54.671Z",
+  "summary_ko": "한 팬 채널이 전력 외 3루수였던 삼성 전병우가 우승까지 함께한 이유를 다뤘다.",
+  "metrics": {
+    "views": 1183,
+    "likes": 17,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 48,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "brief_ko": "전력 외 3루수 전병우의 우승"
+}

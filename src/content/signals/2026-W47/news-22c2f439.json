@@ -1,0 +1,24 @@
+{
+  "id": "news-22c2f439",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스타뉴스",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBGU1RoM29sejF6Um1Xa3drSnJMTDFTbFlWdm1qVm5pTVh5eWtCM2psODRTakJWZExQcE12VGFZcnVKWVFaazUzSFRkcHpLWXJQNGJYYk41bGVNVWlKVEtwQzYySTlwdTBFS3A1d29RQkZVNFlkenc?oc=5",
+  "title": "'이게 또 뒤집히다니' 김휘집 8회 극적 동점 스리런, 韓 야구 기적 같았던 반격도 물거품 위기 [2026 APBC]",
+  "published_at": "2026-11-13T13:18:53.000Z",
+  "collected_at": "2026-11-13T13:37:54.671Z",
+  "summary_ko": "스타뉴스는 NC 김휘집이 일본전 8회 극적인 동점 스리런을 쳤지만 다시 리드를 내줬다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "김휘집, 8회 동점 스리런"
+}
