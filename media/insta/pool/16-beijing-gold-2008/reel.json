@@ -1,0 +1,44 @@
+{
+  "music": "bgm-morning",
+  "subStyle": "yt",
+  "outro": { "hold": 1.5, "fade": 0.5 },
+  "pool": { "no": 16, "series": "그날의 야구", "ep": 7, "facts": "센세 확인 2026-11-14(기사 2곳 이상, PR 본문 표)" },
+  "segments": [
+    {
+      "src": "clip1.mp4", "from": 0, "to": 14, "credit": "MBC ESPN(Jh K)", "yt": "3g7YcI-0bQQ",
+      "say": "a1.mp3", "text": "올림픽 결승, 구회 말 원아웃 만루. 병살 하나로 금메달이 정해졌어.",
+      "kick": "그날의 야구 #7", "head": "병살 하나로<br><b>금메달</b>", "sub": "베이징 결승 9회 말 1사 만루",
+      "note": "출처: OSEN·경향신문 · 영상: MBC ESPN 중계",
+      "fx": [{ "at": 2.4, "text": "숨 멈춤", "style": "mind" }]
+    },
+    {
+      "src": "clip2.mp4", "from": 0, "to": 16, "credit": "비디오머그(SBS)", "yt": "54KTZrdtwXY",
+      "say": "a2.mp3", "text": "이천팔 년 팔월 이십삼 일 베이징, 한국과 쿠바의 결승. 일회 초 이승엽의 투런 홈런으로 앞섰고, 선발 류현진이 버텼어.",
+      "kick": "2008.8.23 베이징 결승", "head": "1회 이승엽<br><b>선제 투런</b>", "sub": "1회 이승엽 투런, 선발 류현진",
+      "note": "출처: OSEN·경향신문 · 영상: 비디오머그",
+      "fx": [{ "at": 4.4, "text": "선제 투런", "style": "pop" }]
+    },
+    {
+      "src": "clip3.mp4", "from": 0, "to": 16, "credit": "KBS N 스포츠(올스)", "yt": "P7aFhd4Rwxg",
+      "say": "a3.mp3", "text": "삼 대 이로 앞선 구회 말, 쿠바가 원아웃 만루를 만들었고 포수 강민호는 퇴장당했어. 한국은 정대현을 올렸지.",
+      "kick": "9회 말 3-2", "head": "1사 만루<br><b>정대현</b> 등판", "sub": "3-2 9회 말 1사 만루, 강민호 퇴장",
+      "note": "출처: OSEN·Wikipedia · 영상: KBS N 스포츠(올스)",
+      "fx": [{ "at": 3.2, "text": "제발", "style": "mind" }]
+    },
+    {
+      "src": "clip4.mp4", "from": 0, "to": 16, "credit": "JTBC Sports", "yt": "6Rege9VitXY",
+      "say": "a4.mp3", "text": "구리엘의 땅볼이 유격수에게 갔고, 병살로 경기 끝. 아홉 경기 전승, 한국 야구의 첫 올림픽 금메달이었어.",
+      "kick": "3-2 우승", "head": "9전 전승<br><b>첫 금메달</b>", "sub": "병살로 끝, 9전 전승 첫 금메달",
+      "note": "출처: OSEN·경향신문·Wikipedia · 영상: JTBC Sports",
+      "flash": { "at": 0.6, "dur": 0.2 },
+      "fx": [{ "at": 0.6, "text": "와!", "style": "sfx" }]
+    }
+  ],
+  "end": {
+    "look": "profile",
+    "head": "알아 두면 더 재밌는<br><b>야구 이야기</b>",
+    "cta": "그날 본 사람 댓글로 손!",
+    "say": "a5.mp3",
+    "text": "그날 경기 본 사람, 댓글로 손 들어 줘."
+  }
+}

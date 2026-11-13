@@ -1,0 +1,51 @@
+{
+  "music": "bgm-morning",
+  "subStyle": "yt",
+  "outro": { "hold": 1.5, "fade": 0.5 },
+  "pool": { "no": 15, "series": "이거 알면 야구 고수", "ep": 4, "facts": "센세 확인 2026-11-14(기사 2곳 이상, PR 본문 표)" },
+  "segments": [
+    {
+      "src": "clip1.mp4", "from": 0, "to": 12, "credit": "MLB", "yt": "CpWyGSJMqlM",
+      "say": "a1.mp3", "text": "끝내기 만루홈런을 쳤는데, 기록은 단타였어.",
+      "kick": "이거 알면 야구 고수 #4", "head": "만루홈런인데<br><b>단타?</b>", "sub": "담장 넘긴 공이 단타가 된 날",
+      "note": "출처: SABR·ESPN · 영상: MLB",
+      "fx": [{ "at": 1.6, "text": "왜?", "style": "mind" }]
+    },
+    {
+      "src": "clip2.mp4", "from": 0, "to": 14, "credit": "New York Mets", "yt": "A3mphAwmzbg",
+      "say": "a2.mp3", "text": "홈런은 공이 담장을 넘는 것만으로 끝나지 않아. 타자가 베이스를 모두 밟고 홈까지 돌아와야 해.",
+      "kick": "홈런의 조건", "head": "베이스를<br><b>다 돌아야</b>", "sub": "네 베이스를 다 밟아야 홈런",
+      "note": "출처: SABR·Wikipedia(Grand Slam Single) · 영상: New York Mets",
+      "fx": [{ "at": 3.4, "text": "몰랐지?", "style": "mind" }]
+    },
+    {
+      "src": "clip3.mp4", "from": 0, "to": 16, "credit": "Sports11", "yt": "gdVnCzc2Gi0",
+      "say": "a3.mp3", "text": "천구백구십구 년 시월 십칠 일 리그 챔피언십 오차전, 십오 회 말. 밀어내기 볼넷으로 삼 대 삼 동점, 원아웃 만루가 됐어.",
+      "kick": "1999.10.17 NLCS 5차전", "head": "15회 말<br><b>1사 만루</b>", "sub": "밀어내기로 3-3, 1사 만루",
+      "note": "출처: SABR·ESPN·Wikipedia · 영상: Sports11(1999 NLCS 5차전)",
+      "fx": [{ "at": 4.6, "text": "3-3", "style": "pop" }]
+    },
+    {
+      "src": "clip4.mp4", "from": 0, "to": 16, "credit": "The Mets Family", "yt": "uo7yUdD-NhA",
+      "say": "a4.mp3", "text": "타석의 로빈 벤추라가 우중간 담장을 넘겼어. 그런데 일루 주자 토드 프랫이 달려와 벤추라를 번쩍 들어 올렸고, 동료들이 몰려들었지.",
+      "kick": "로빈 벤추라", "head": "담장은<br><b>넘겼는데</b>", "sub": "1루 주자 프랫이 벤추라를 들어 올림",
+      "note": "출처: SABR·Wikipedia · 영상: The Mets Family(WFAN 중계)",
+      "flash": { "at": 1.4, "dur": 0.2 },
+      "fx": [{ "at": 1.4, "text": "쾅!", "style": "sfx" }]
+    },
+    {
+      "src": "clip5.mp4", "from": 0, "to": 16, "credit": "MLB", "yt": "3aO_9X9bCKc",
+      "say": "a5.mp3", "text": "벤추라는 이루도 못 가고 멈췄어. 기록은 일 타점 단타, 점수는 칠 대 삼이 아닌 사 대 삼이었어.",
+      "kick": "공식 기록", "head": "결과는<br><b>단타·4-3</b>", "sub": "1타점 단타, 7-3이 아닌 4-3",
+      "note": "출처: SABR·ESPN·Wikipedia · 영상: MLB",
+      "fx": [{ "at": 3.0, "text": "단타", "style": "stamp" }]
+    }
+  ],
+  "end": {
+    "look": "profile",
+    "head": "알아 두면 더 재밌는<br><b>야구 이야기</b>",
+    "cta": "끝내기 땐 베이스 확인!",
+    "say": "a6.mp3",
+    "text": "다음에 끝내기 홈런 나오면, 베이스 다 도는지 꼭 봐 봐."
+  }
+}
