@@ -1,0 +1,22 @@
+{
+  "id": "news-d9c7f068",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "조선일보",
+  "url": "https://www.chosun.com/sports/baseball/2026/11/14/HAYDAODCMQ3TQYZVMY2TEMBYMU/",
+  "title": "구자욱 어렵다면 스톱갭이라도 필요한 롯데 → 이택근 단장 기본 방침 \"그룹도 설득하겠다",
+  "published_at": "2026-11-13T16:13:00.000Z",
+  "collected_at": "2026-11-13T21:38:00.368Z",
+  "summary_ko": "조선일보는 구자욱 영입이 어렵다면 스톱갭이라도 필요하다는 롯데 이택근 단장이 그룹도 설득하겠다는 기본 방침을 밝혔다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 82,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

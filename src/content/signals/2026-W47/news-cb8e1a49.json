@@ -1,0 +1,33 @@
+{
+  "id": "news-cb8e1a49",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "미주중앙일보",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBwbGdVQTY0d1hiSXpyYUtlOUpJYTVOc3VxME84OEQ3elZyUkJ0QzF1SXZ1eElKY3MySzV2UzNBTk0yZ2dJejlCdjA2eEYxSmZzejJ2VXgxYTNYVjlKaUM0dmtn?oc=5",
+  "title": "‘KS MVP→깜짝 해외 진출’ 구자욱, 미국 갈 수 있을까…美매체 “한국은 일본보다 수준 낮아, ML 관심 제한적”",
+  "published_at": "2026-11-13T16:20:00.000Z",
+  "collected_at": "2026-11-13T21:38:00.368Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 90,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5qcUhfNVNOMkpUU3AtbS1USE13UUV5SjlXdzVoWHpTRkhlcUdncEtJME5NRXpxR1U3MmlxRUZHZ3VfVjJuQnZPeENjUnczc21HcjdWSA?oc=5"
+    },
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdGo2T2JUSFJTd2xkRFRZMUNLemlydFZCOG9pNDQxcWlLV01uYUtYWDF4MmFMellLalJjbzhKWS1MNFpjTHlfSlFjNzZkWm1OWkF3Sm1fNE9RZ2FSc0t0eFhQVUFETHVwRXcybV9SU09nTkRZUnliZ1RkUUxLY0JuT3l2Yw?oc=5"
+    }
+  ]
+}

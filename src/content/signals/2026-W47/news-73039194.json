@@ -1,0 +1,23 @@
+{
+  "id": "news-73039194",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스핌",
+  "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1VUnpWeTZOUS1KZXI5c1ZvcFlFNUJ6NVVLUVE1eVFqOHBGMU1wUk5uOHNQa0cwVVpFNlVoVzNESDJMUEN2eU5oLWlhYXZ1MUtfZVd1cHBLRVZ5MkVZ?oc=5",
+  "title": "[APBC] '이대호 후계자' 롯데 한동희, 장타 두 방 쾅쾅...한일전 패배 속 빛난 4번타자 품격",
+  "published_at": "2026-11-13T20:53:00.000Z",
+  "collected_at": "2026-11-13T21:38:00.368Z",
+  "summary_ko": "뉴스핌은 롯데 한동희가 한일전 패배 속에서도 장타 두 방을 터뜨리며 4번 타자 역할을 했다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "negative",
+  "brief_ko": "한동희, 한일전 장타 두 방"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "news-84b84162",
+  "issue": "2026-W47",
+  "module": "rivalry",
+  "team": "hanwha",
+  "teams": [
+    "hanwha",
+    "ssg"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스핌",
+  "url": "https://www.newspim.com/news/view/20261113001165",
+  "title": "[핌 포커스] 선발 경험 부족한 한화 왓슨·SSG 리차드슨…내년 풀타임 소화할까",
+  "published_at": "2026-11-13T20:27:00.000Z",
+  "collected_at": "2026-11-13T21:38:00.368Z",
+  "summary_ko": "뉴스핌은 선발 경험이 부족한 한화 왓슨과 SSG 리차드슨이 내년 풀타임을 소화할 수 있을지 짚었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "왓슨, 내년 풀타임 선발 될까"
+}

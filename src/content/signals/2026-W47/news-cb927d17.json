@@ -1,0 +1,24 @@
+{
+  "id": "news-cb927d17",
+  "issue": "2026-W47",
+  "module": "team",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "www.xportsnews.com",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5tOHF1OWRydFpObTdha3J2RTlVOHFxaklfemhFMWFqY1pzWkpWNFFranY1N3ZpRy1zMmlxRGVlUjhHNnlEU2o5STlhaC1hUzR3bjZ6MQ?oc=5",
+  "title": "\"KBO 수준 NPB보다 낮아\"→\"34세·코너 외야 관심 한계\" 美 냉혹 평가…'A등급' 구자욱 깜짝 ML 도전, 현실성 있을까",
+  "published_at": "2026-11-13T17:17:13.000Z",
+  "collected_at": "2026-11-13T21:38:00.368Z",
+  "summary_ko": "엑스포츠뉴스는 미국 매체가 KBO 수준이 NPB보다 낮고 34세 코너 외야수라 관심에 한계가 있다며 A등급 구자욱의 ML 도전을 냉정하게 봤다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 30
+  },
+  "sentiment": "neutral",
+  "team": "samsung",
+  "brief_ko": "美 매체, 구자욱 ML 관심은 제한적",
+  "hook_ko": "34세 타격왕 ML 도전,\n美는 냉정했다"
+}

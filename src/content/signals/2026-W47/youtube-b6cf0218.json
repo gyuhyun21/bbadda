@@ -1,0 +1,26 @@
+{
+  "id": "youtube-b6cf0218",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "source_name": "늑꾸 ",
+  "url": "https://www.youtube.com/watch?v=TYrdPp5Z9rw",
+  "title": "사진 출처: 나무위키# 최인호 응원가# 내 사랑 한화# 한화이글스",
+  "published_at": "2026-11-13T13:12:22Z",
+  "collected_at": "2026-11-13T21:38:00.368Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1030,
+    "likes": 3,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 38,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "community-27565ad9",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 돈되는 하루",
+  "url": "https://blog.naver.com/jsese_/224476208999",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/A4VTFQeK3Bx",
+  "title": "삼성 라이온즈 우승 기념 삼성전자 이벤트 총정리! 매일 9명 경품·가전 구독 최대 12개월 혜택",
+  "published_at": "2026-11-14T04:14:00.000+09:00",
+  "collected_at": "2026-11-13T21:38:00.368Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

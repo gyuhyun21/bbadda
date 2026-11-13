@@ -1,0 +1,23 @@
+{
+  "id": "community-cfabcea5",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 Better than yesterday",
+  "url": "https://blog.naver.com/als9152/224476298949",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/IWZOiuDOouC",
+  "title": "[송죽면옥]수원 닭칼국수 맛집 송죽동 맛집 kt위즈파크 맛집 | 맛잘알이 추천하는 찐맛집!!!",
+  "published_at": "2026-11-14T00:47:00.000+09:00",
+  "collected_at": "2026-11-13T21:38:00.368Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

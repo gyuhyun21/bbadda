@@ -1,0 +1,24 @@
+{
+  "id": "community-3dbf0fbf",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&document_srl=10550648438",
+  "title": "범호형 내야에서 한 명 외야에서 한 명 부탁드립니다 - 야구",
+  "published_at": "2026-11-13T07:38:00.368Z",
+  "collected_at": "2026-11-13T21:38:00.368Z",
+  "summary_ko": "",
+  "excerpt": "... 이선호) KIA가 김호령 연봉 올려준 점은 사실상 FA 프리미엄 이상의 ... 2 분 전…",
+  "metrics": {},
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

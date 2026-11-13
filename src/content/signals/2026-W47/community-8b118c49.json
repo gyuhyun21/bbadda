@@ -1,0 +1,24 @@
+{
+  "id": "community-8b118c49",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 삐딱하게",
+  "url": "https://ccaca.tistory.com/378",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/6c5iTIZI48B",
+  "title": "강민호, 22년 만에 첫 우승…2024년의 아쉬움도 끝났다",
+  "published_at": "2026-11-14T02:40:01.000+09:00",
+  "collected_at": "2026-11-13T21:38:00.368Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

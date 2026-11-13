@@ -1,0 +1,27 @@
+{
+  "id": "youtube-4b2515d8",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "한입톡",
+  "url": "https://www.youtube.com/watch?v=VOWdgB-cOr4",
+  "title": "가장 흥행할 것 같은 한국시리즈 맞대결은?",
+  "published_at": "2026-11-13T12:45:01Z",
+  "collected_at": "2026-11-13T21:38:00.368Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1282,
+    "likes": 1,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 38,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "news-bef8f5e0",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스타뉴스",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE42TzRNQ3NHck5MZHNnSEFQbU5vUWFMZVlEZk9wcTcycGo0eFQtdDRSMnpGaWs1ZnYwMDZRdkUwU2VQMFg0QUo0Sm84b2VpSE9CZDE2QlNkRU1RVlBMLXNoUU8zRkUtdUV5NXhpRzN5VENLSDU3dXc?oc=5",
+  "title": "'내 나이가 어때서' 韓 타격왕 평가절하, 美 매체 \"구자욱 향한 MLB 관심 제한될 것\"",
+  "published_at": "2026-11-13T19:31:00.000Z",
+  "collected_at": "2026-11-13T21:38:00.368Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 99,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5DTWotYVlXMjRZcFE1Y1ZjR3BRZGdyRFJuVEpXSGN3X2xkS3FsVnBSRU1vSkdRa1dRUUt4dk5ybXpTbmhaV0tCdnM3eHJfYUZtOHZFdldVQWY2TmRqMGYwVUlxR1RSbHFnQjh6Y19OVdIBb0FVX3lxTE5DTWotYVlXMjRZcFE1Y1ZjR3BRZGdyRFJuVEpXSGN3X2xkS3FsVnBSRU1vSkdRa1dRUUt4dk5ybXpTbmhaV0tCdnM3eHJfYUZtOHZFdldVQWY2TmRqMGYwVUlxR1RSbHFnQjh6Y19OVQ?oc=5"
+    }
+  ]
+}

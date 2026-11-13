@@ -1,0 +1,24 @@
+{
+  "id": "community-b36d131f",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 스포타임",
+  "url": "https://blog.naver.com/hskim_2019/224476289985",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/7V0XwJzX1KE",
+  "title": "“일본전 언제 이겨?” 김휘집 동점포도 날린 한국 야구, 마운드가 문제다",
+  "published_at": "2026-11-13T23:46:00.000+09:00",
+  "collected_at": "2026-11-13T21:38:00.368Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "community-fd5785df",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 오늘도 운동합니다 ‘또운’",
+  "url": "https://blog.naver.com/lifebystride/224475399517",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/G3uJC6KDl4T",
+  "title": "45홈런 김도영을 유격수로? KIA 이범호 감독의 위험한 승부수",
+  "published_at": "2026-11-14T02:59:00.000+09:00",
+  "collected_at": "2026-11-13T21:38:00.368Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

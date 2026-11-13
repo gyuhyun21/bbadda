@@ -1,0 +1,24 @@
+{
+  "id": "community-342a53e1",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 스포츠뚱",
+  "url": "https://blog.naver.com/tmdwns00428/224476260806",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/1Bz8NUnUlcx",
+  "title": "\"이대호 별명 물려받을 자격 충분하다고??\" 한동희 도쿄돔 홈런의 정체는?[APBC]",
+  "published_at": "2026-11-13T23:50:00.000+09:00",
+  "collected_at": "2026-11-13T21:38:00.368Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

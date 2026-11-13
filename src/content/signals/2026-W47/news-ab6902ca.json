@@ -1,0 +1,23 @@
+{
+  "id": "news-ab6902ca",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "KBS 뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1jeXVfazFJNmxGa2tHUnlPMGpqYTlESDZBSTAtQjJXaS1wWTZwb3J2V0lpbUdKQkc4Y2dWMGxZLVBrbmRjTmhqYnBfcUNOdjZ6UWwwX0t1VEdfTTQ5WElxaTRacjE5UQ?oc=5",
+  "title": "가을야구 빛낸 ‘숨은 주역들’…“내년엔 통합 우승 목표”",
+  "published_at": "2026-11-13T10:31:00.000Z",
+  "collected_at": "2026-11-13T21:38:00.368Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 72,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

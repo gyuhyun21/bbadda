@@ -1,0 +1,26 @@
+{
+  "id": "youtube-5128fc6b",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "OSEN Daily News sports",
+  "url": "https://www.youtube.com/watch?v=ztW_-3xEaiU",
+  "title": "구자욱 삼성 진짜 떠나? 😱 #구자욱 #삼성라이온즈 #KBO리그 #메이저리그 #shorts",
+  "published_at": "2026-11-13T15:15:09Z",
+  "collected_at": "2026-11-13T21:38:00.368Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1082,
+    "likes": 5,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 40,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

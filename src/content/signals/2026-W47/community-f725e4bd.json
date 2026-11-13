@@ -1,0 +1,24 @@
+{
+  "id": "community-f725e4bd",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&document_srl=10536476554",
+  "title": "유니폼에 회색 쓰지 마라.... - 야구",
+  "published_at": "2026-11-08T15:00:00.000Z",
+  "collected_at": "2026-11-13T21:38:00.368Z",
+  "summary_ko": "",
+  "excerpt": "... 프로야구 아시아 교류전 치룬 키움히어로즈. 2 분 전 자유 레슬 조회21. 프로야구 아시아 교류전…",
+  "metrics": {},
+  "scores": {
+    "hot": 23,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

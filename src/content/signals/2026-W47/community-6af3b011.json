@@ -1,0 +1,23 @@
+{
+  "id": "community-6af3b011",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 유용한 일상 랩",
+  "url": "https://blog.naver.com/blood_g2/224476151989",
+  "title": "2027 KBO FA 자격 선수 명단 총정리! 구단별 28명·포지션·A B C등급 한눈에 보기",
+  "published_at": "2026-11-13T22:09:00.000+09:00",
+  "collected_at": "2026-11-13T21:38:00.368Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

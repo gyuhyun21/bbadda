@@ -1,0 +1,24 @@
+{
+  "id": "community-ddd426bd",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 오늘의 궁금증을 과거와 원리로 설명해봄.",
+  "url": "https://blog.naver.com/side80/224476270931",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/7xEWHlbQEGE",
+  "title": "잠실야구장 마지막 경기는 정말 11월 14일일까?",
+  "published_at": "2026-11-13T23:25:00.000+09:00",
+  "collected_at": "2026-11-13T21:38:00.368Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

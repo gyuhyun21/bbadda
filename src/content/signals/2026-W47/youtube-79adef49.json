@@ -1,0 +1,27 @@
+{
+  "id": "youtube-79adef49",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "더블스틸  DOUBLE STEAL",
+  "url": "https://www.youtube.com/watch?v=o4rRQFAd5zM",
+  "title": "야구는 경기 이외에도 지켜야 하는 규칙이 있다 #야구 #프로야구",
+  "published_at": "2026-11-13T21:07:38Z",
+  "collected_at": "2026-11-13T21:38:00.368Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 469,
+    "likes": 2,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 35,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

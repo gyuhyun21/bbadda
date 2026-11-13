@@ -1,0 +1,24 @@
+{
+  "id": "community-9a914e38",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 트렌드 픽스",
+  "url": "https://blog.naver.com/rlatjdfuf9436/224476216452",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/3COyKIi6PpB",
+  "title": "​\"국가대표 새로운 해결사 탄생!\" 2-5 열세 뒤집은 김휘집의 짜릿한 대역전 발판 홈런",
+  "published_at": "2026-11-13T22:46:00.000+09:00",
+  "collected_at": "2026-11-13T21:38:00.368Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

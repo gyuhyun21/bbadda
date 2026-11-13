@@ -1,0 +1,24 @@
+{
+  "id": "news-2017c448",
+  "issue": "2026-W47",
+  "module": "rivalry",
+  "team": "lotte",
+  "teams": [
+    "lotte",
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "마이데일리",
+  "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5OSUFNTTlGMzJKQkhHUlprT1M5MXFGN3ZnbktFTkVhSDY4ZlhxYkQwaWJidUk2Z0hpMXpmNXpYY0lMbkdLZWp2bzRtTDdLUHZkak5Lc2c1YlYxZWN3d3FDWnFEdlloUQ?oc=5",
+  "title": "조선의 4번 타자 맞았다! 도쿄돔서 울려 퍼진 한방, 강민호도 경악 \"韓서 저런 타자 한동희와 김도영뿐\"",
+  "published_at": "2026-11-13T20:41:00.000Z",
+  "collected_at": "2026-11-13T21:38:00.368Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

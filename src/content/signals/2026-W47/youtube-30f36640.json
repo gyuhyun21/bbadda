@@ -1,0 +1,26 @@
+{
+  "id": "youtube-30f36640",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "youtube",
+  "source_name": "베샥",
+  "url": "https://www.youtube.com/watch?v=gcKhU4DlWjE",
+  "title": "이 두산 응원가 누구 건지 아시나요? ⚾ #shorts #두산베어스 #응원가 #KBO",
+  "published_at": "2026-11-13T13:59:48Z",
+  "collected_at": "2026-11-13T21:38:00.368Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 433,
+    "likes": 2,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 35,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

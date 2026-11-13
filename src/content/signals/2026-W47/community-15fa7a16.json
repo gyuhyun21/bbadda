@@ -1,0 +1,24 @@
+{
+  "id": "community-15fa7a16",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&page=4&document_srl=10551643508",
+  "title": "도영이 수비주루 다 보여주네 - 야구",
+  "published_at": "2026-11-13T12:38:00.368Z",
+  "collected_at": "2026-11-13T21:38:00.368Z",
+  "summary_ko": "",
+  "excerpt": "... 국대 자이언츠 ㅅㅅㅅㅅㅅ. 1 분 전 국?가대표 볼넷거부 조회6. 국대 ... 롯데는 도대체 어떤팀인가…",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "community-72b09b7e",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 마데의 야구 칼럼",
+  "url": "https://blog.naver.com/da331/224475566198",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/53k40x4dLgP",
+  "title": "[KT 위즈] 정규시즌 90승, 수원에서 본 한국시리즈는 두 경기였다",
+  "published_at": "2026-11-14T02:35:00.000+09:00",
+  "collected_at": "2026-11-13T21:38:00.368Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

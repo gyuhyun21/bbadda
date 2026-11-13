@@ -1,0 +1,23 @@
+{
+  "id": "news-c9ffe877",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "OSEN",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1RWlM4OW14bnlBclMxQWpfdnJScWVqREpQbHJOeGNoczh6akNKbWI2QTB3b3hDTGkzaXp3SkhzcHJYbURtNWZFbWNCOGN0RGRyUlVZYg?oc=5",
+  "title": "와~60위 됐으면 어쩔뻔, 연봉 61위 C등급 깜짝 호재...하늘이 돕는 FA 김호령, 실수령 1억5천 고우석이 왜 도우미로 거론되나",
+  "published_at": "2026-11-13T15:10:00.000Z",
+  "collected_at": "2026-11-13T21:38:00.368Z",
+  "summary_ko": "OSEN은 연봉 61위로 C등급을 받은 김호령에게 큰 호재가 생겼다며 고우석이 그 도우미로 거론되는 이유를 짚었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "brief_ko": "연봉 61위, 김호령의 C등급 행운"
+}
