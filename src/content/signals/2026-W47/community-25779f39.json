@@ -1,0 +1,24 @@
+{
+  "id": "community-25779f39",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&page=5&document_srl=10552514130",
+  "title": "포텐 핵폭탄이 열렸구만 - 야구",
+  "published_at": "2026-11-13T16:38:00.368Z",
+  "collected_at": "2026-11-13T21:38:00.368Z",
+  "summary_ko": "",
+  "excerpt": "... [레벨:24] 롯데자이언츠 11 분 전 ???: 감독이 전술 이상하게 짜서 그런거임! 1. [레벨:38] 子翠…",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "youtube-d62afbab",
+  "issue": "2026-W47",
+  "module": "league",
+  "teams": [],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=FpK6mwGGCpE",
+  "title": "추격의 발판을 마련하는 한동희의 적시타🌟",
+  "published_at": "2026-11-13T13:05:41Z",
+  "collected_at": "2026-11-13T21:38:00.368Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 21345,
+    "likes": 315,
+    "comments": 18
+  },
+  "scores": {
+    "hot": 64,
+    "relevance": 10
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "마이데일리",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9EOVJPbjJwb3NZS3RFOUJud2FaV0lRc29DWTNfSENWZTZnLWo0aXJ2WjF4MkFUQk5SUFdrclhfNTE0Q2s3ZDV5b2QzclIyTUtCUUN2bEN6WVRvN0NXSjJhYQ?oc=5"
+    }
+  ]
+}

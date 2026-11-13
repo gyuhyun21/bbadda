@@ -1,0 +1,23 @@
+{
+  "id": "community-a2b69e0c",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "엠엘비파크",
+  "url": "https://mlbpark.donga.com/mp/b.php?id=202611110120040740&p=91&b=kbotown&m=view&select=spf&query=%EC%82%BC%EC%84%B1&site=donga.com",
+  "title": "일간스포츠 삼성 라이온즈 특별판 몇분만에 품절...",
+  "published_at": "2026-11-10T15:00:00.000Z",
+  "collected_at": "2026-11-13T21:38:00.368Z",
+  "summary_ko": "",
+  "excerpt": "... 10시부터 판매시작 한다해서 기다리다 곧바로 시도했는데 대기순번이 1000번 넘어갔고 결…",
+  "metrics": {},
+  "scores": {
+    "hot": 40,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

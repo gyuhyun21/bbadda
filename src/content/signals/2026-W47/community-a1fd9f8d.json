@@ -1,0 +1,24 @@
+{
+  "id": "community-a1fd9f8d",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt",
+    "ssg"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 스포츠이슈픽│SPORTS ISSUE PICK",
+  "url": "https://blog.naver.com/placetripnote/224476336127",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/1nFyEB4zLCZ",
+  "title": "FA 28명 공개됐는데, KT·SSG에서만 12명 나온 이유",
+  "published_at": "2026-11-14T00:41:00.000+09:00",
+  "collected_at": "2026-11-13T21:38:00.368Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

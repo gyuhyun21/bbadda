@@ -1,0 +1,27 @@
+{
+  "id": "youtube-6903bc81",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "Giants TV",
+  "url": "https://www.youtube.com/watch?v=aEXp8BFsFaw",
+  "title": "자세는 낮게, 긴장감은 확실하게! 외야 수비 훈련🔥 | 2026 강화훈련 캠프",
+  "published_at": "2026-11-13T14:00:00Z",
+  "collected_at": "2026-11-13T21:38:00.368Z",
+  "summary_ko": "롯데 공식 채널 Giants TV가 강화훈련 캠프의 외야 수비 훈련 영상을 올렸다.",
+  "metrics": {
+    "views": 45971,
+    "likes": 666,
+    "comments": 103
+  },
+  "scores": {
+    "hot": 69,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

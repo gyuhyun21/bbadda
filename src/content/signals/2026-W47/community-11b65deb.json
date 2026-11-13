@@ -1,0 +1,24 @@
+{
+  "id": "community-11b65deb",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "더쿠",
+  "url": "https://theqoo.net/kbaseball/4405036742",
+  "title": "구단은 김호령 40위권으로 맞췄다고 생각하네",
+  "published_at": "2026-11-12T23:38:00.368Z",
+  "collected_at": "2026-11-13T21:38:00.368Z",
+  "summary_ko": "",
+  "excerpt": "... 시즌 전엔 전체 40위권 중후반 이내로 맞췄다고 봤다. 그런데 여러 가지 변수가 생겼다. 다른…",
+  "metrics": {},
+  "scores": {
+    "hot": 60,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

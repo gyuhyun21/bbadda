@@ -1,0 +1,23 @@
+{
+  "id": "community-b92f5d47",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "레딧 r/KBO",
+  "url": "https://www.reddit.com/r/KBO/comments/1xqu0fm/samsung_lions_are_the_2026_kbo_korean_series/",
+  "title": "Samsung Lions are the 2026 KBO Korean Series Champions!",
+  "published_at": "2026-11-07T15:00:00.000Z",
+  "collected_at": "2026-11-13T21:38:00.368Z",
+  "summary_ko": "",
+  "excerpt": "... [Today's KBO] The KIA Tigers sweep the LG Twins with a 13-1 Game 3…",
+  "metrics": {},
+  "scores": {
+    "hot": 14,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

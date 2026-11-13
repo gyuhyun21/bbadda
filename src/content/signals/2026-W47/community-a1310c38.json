@@ -1,0 +1,24 @@
+{
+  "id": "community-a1310c38",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 퍼팩트 스포츠 뉴스 알림",
+  "url": "https://blog.naver.com/dkdk521/224476247071",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/3wgXfxTPtNk",
+  "title": "한국 야구 국가대표 APBC 일본전 5대9 패배, 일본전 12연패 못 끊은 진짜 이유",
+  "published_at": "2026-11-14T00:09:00.000+09:00",
+  "collected_at": "2026-11-13T21:38:00.368Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

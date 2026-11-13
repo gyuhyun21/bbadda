@@ -1,0 +1,26 @@
+{
+  "id": "youtube-4157df56",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "경기 끝 댓글창",
+  "url": "https://www.youtube.com/watch?v=c63r4YbiFXY",
+  "title": "[삼성 댓글창] 최원태 KS 1차전 2이닝 5실점 8-7 패배 \"선발이 딱 1점만 덜줬으면\" 팬 반응",
+  "published_at": "2026-11-13T18:35:44Z",
+  "collected_at": "2026-11-13T21:38:00.368Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 978,
+    "likes": 2,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 37,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

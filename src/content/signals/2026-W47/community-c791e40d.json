@@ -1,0 +1,24 @@
+{
+  "id": "community-c791e40d",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "doosan"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 스포츠도파민",
+  "url": "https://blog.naver.com/youtubelite/224476397101",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/7v08YPRcZ60",
+  "title": "\"700만원 아끼려고 잔머리 쓰다 망했다\" KIA 김호령 C등급 추락, 다시 보는 두산 김태룡 단장 재평가",
+  "published_at": "2026-11-14T03:05:00.000+09:00",
+  "collected_at": "2026-11-13T21:38:00.368Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

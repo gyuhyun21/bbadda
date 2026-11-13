@@ -1,0 +1,26 @@
+{
+  "id": "youtube-d2a3c967",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "바수케",
+  "url": "https://www.youtube.com/watch?v=WE0UCqdc_g0",
+  "title": "맞출수 있을까? 11탄 #야구 #박재현 #기아타이거즈 #맞추기 ",
+  "published_at": "2026-11-13T14:44:09Z",
+  "collected_at": "2026-11-13T21:38:00.368Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 4,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 8,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

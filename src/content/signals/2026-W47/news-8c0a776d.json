@@ -1,0 +1,22 @@
+{
+  "id": "news-8c0a776d",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "동아일보",
+  "url": "https://www.donga.com/news/amp/all/20261113/135022468/2",
+  "title": "2위팀 삼성의 뒤집기 우승… ‘부자=챔프’ 공식도 뒤집다",
+  "published_at": "2026-11-13T16:40:00.000Z",
+  "collected_at": "2026-11-13T21:38:00.368Z",
+  "summary_ko": "동아일보는 정규시즌 2위 삼성의 뒤집기 우승이 '부자 구단이 챔피언' 공식도 뒤집었다고 짚었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 80
+  },
+  "sentiment": "positive"
+}

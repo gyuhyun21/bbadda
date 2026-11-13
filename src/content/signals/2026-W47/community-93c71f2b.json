@@ -1,0 +1,23 @@
+{
+  "id": "community-93c71f2b",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 밥먹고 야구만 보는 밥야구",
+  "url": "https://blog.naver.com/babbaseball/224476228558",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/3r3KqXrzWG1",
+  "title": "“이틀 연속 3타점” NC 김휘집이 한일전 5–5를 만든 뒤 무슨 일이 있었나",
+  "published_at": "2026-11-13T22:50:00.000+09:00",
+  "collected_at": "2026-11-13T21:38:00.368Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

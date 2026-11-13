@@ -1,0 +1,23 @@
+{
+  "id": "news-a5202f17",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "뉴시스",
+  "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9XQnRvQmRrM1MxY3hCWmJ0WFFTVkt6MWdFeGpEeTJmMjNiZnVLUUJvVHpEY2J2NGRKdmdVZlAzSUlma2NzdnlubFRzbWRwejJFY2RLSDEtME8yQ0FnWlhOZ01ibHhvaVlYSEEyZU1wRmVBaGRhSHN5Z9IBeEFVX3lxTE9XQnRvQmRrM1MxY3hCWmJ0WFFTVkt6MWdFeGpEeTJmMjNiZnVLUUJvVHpEY2J2NGRKdmdVZlAzSUlma2NzdnlubFRzbWRwejJFY2RLSDEtME8yQ0FnWlhOZ01ibHhvaVlYSEEyZU1wRmVBaGRhSHN5Zw?oc=5",
+  "title": "아시안게임 불발 아쉬움 딛고…김휘집, APBC 연패 속 존재감 발휘",
+  "published_at": "2026-11-13T13:36:48.000Z",
+  "collected_at": "2026-11-13T21:38:00.368Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

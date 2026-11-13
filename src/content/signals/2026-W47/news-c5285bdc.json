@@ -1,0 +1,23 @@
+{
+  "id": "news-c5285bdc",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "마이데일리",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5JSzJoOUFyX095LW5WZFhfTEVIdDBFNHZGSWVBY1M5UnBMa2dkbWlzTndxTUFUQ0JBNklDZmZsQUFTXzlQOVN4NVBMZ2hnb1l2Nm5yTm5mN1BEempib1V5YQ?oc=5",
+  "title": "'와 멋있다' 33살 구자욱 진짜였구나, 일본도 응원했다…\"한국 FA 최대어 KOO, 늦깎이 신인의 꿈 안고 ML 도전에 나섰다\"",
+  "published_at": "2026-11-13T19:41:00.000Z",
+  "collected_at": "2026-11-13T21:38:00.368Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

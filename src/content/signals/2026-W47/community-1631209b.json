@@ -1,0 +1,23 @@
+{
+  "id": "community-1631209b",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 사진찍는 사람얼굴",
+  "url": "https://blog.naver.com/saram-ulgul/224476144990",
+  "title": "서울 / 송파 / 야구 관람 / 잠실종합운동장 / 잠실야구장",
+  "published_at": "2026-11-13T21:53:00.000+09:00",
+  "collected_at": "2026-11-13T21:38:00.368Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

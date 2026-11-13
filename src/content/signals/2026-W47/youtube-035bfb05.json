@@ -1,0 +1,26 @@
+{
+  "id": "youtube-035bfb05",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "광주 아재 ",
+  "url": "https://www.youtube.com/watch?v=OSJXejHA8Eo",
+  "title": "김호령 선수는 축하해요, 그리고 그 연봉 책정 누구냐? #기아타이거즈",
+  "published_at": "2026-11-13T14:54:42Z",
+  "collected_at": "2026-11-13T21:38:00.368Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 8958,
+    "likes": 276,
+    "comments": 21
+  },
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

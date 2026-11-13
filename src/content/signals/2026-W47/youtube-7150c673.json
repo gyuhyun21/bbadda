@@ -1,0 +1,27 @@
+{
+  "id": "youtube-7150c673",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "기아타이거즈 KIA TIGERS",
+  "url": "https://www.youtube.com/watch?v=ERjBTyW-AEE",
+  "title": "2027 신인 투수들 피칭 영상 맛보기 [2026 마무리캠프]",
+  "published_at": "2026-11-13T13:45:16Z",
+  "collected_at": "2026-11-13T21:38:00.368Z",
+  "summary_ko": "KIA 공식 채널이 마무리캠프에서 2027 신인 투수들의 피칭 영상을 올렸다.",
+  "metrics": {
+    "views": 68343,
+    "likes": 1040,
+    "comments": 153
+  },
+  "scores": {
+    "hot": 72,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

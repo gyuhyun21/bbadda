@@ -1,0 +1,24 @@
+{
+  "id": "community-66b34092",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 레우스 스포츠",
+  "url": "https://blog.naver.com/borussenreus/224476324433",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/BLO0VWxkfxe",
+  "title": "“서건창보다 대단?” 2026 레이예스 211안타 vs 2014 서건창 201안타",
+  "published_at": "2026-11-14T00:25:00.000+09:00",
+  "collected_at": "2026-11-13T21:38:00.368Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

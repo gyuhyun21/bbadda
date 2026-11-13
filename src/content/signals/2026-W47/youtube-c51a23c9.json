@@ -1,0 +1,26 @@
+{
+  "id": "youtube-c51a23c9",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "1선발육선엽",
+  "url": "https://www.youtube.com/watch?v=OpBTxdgK3zk",
+  "title": "2026시즌 삼성 라이온즈 구자욱 안타 모음 (156개)",
+  "published_at": "2026-11-13T14:53:09Z",
+  "collected_at": "2026-11-13T21:38:00.368Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 4302,
+    "likes": 60,
+    "comments": 23
+  },
+  "scores": {
+    "hot": 59,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

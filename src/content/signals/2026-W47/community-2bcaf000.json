@@ -1,0 +1,24 @@
+{
+  "id": "community-2bcaf000",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 스포츠의 물음표",
+  "url": "https://blog.naver.com/firecleanup/224475275858",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/5FxVKbPRzZs",
+  "title": "야구선수♥치어리더 커플 또 탄생… 같은 구장에서 만나 결혼까지 간 스포츠 커플 계보",
+  "published_at": "2026-11-13T23:39:00.000+09:00",
+  "collected_at": "2026-11-13T21:38:00.368Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

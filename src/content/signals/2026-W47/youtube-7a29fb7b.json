@@ -1,0 +1,24 @@
+{
+  "id": "youtube-7a29fb7b",
+  "issue": "2026-W47",
+  "module": "league",
+  "teams": [],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=Pr1WboIff-8",
+  "title": "[대한민국 vs 일본] 11.13(금) APBC 하이라이트 | 2026 APBC",
+  "published_at": "2026-11-13T15:40:18Z",
+  "collected_at": "2026-11-13T21:38:00.368Z",
+  "summary_ko": "KBO 공식 채널이 11월 13일 APBC 한국-일본전 하이라이트를 올렸다.",
+  "metrics": {
+    "views": 53260,
+    "likes": 318,
+    "comments": 292
+  },
+  "scores": {
+    "hot": 66,
+    "relevance": 10
+  },
+  "sentiment": "neutral"
+}

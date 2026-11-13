@@ -1,0 +1,30 @@
+{
+  "id": "community-dbde11e4",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 나눔터지역아동센터 사랑이야기",
+  "url": "https://blog.naver.com/xton1031/224476280085",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/4WNAdttOREI",
+  "title": "한국 야구, 일본에 5-9 패배! 김휘집 8회 동점 3점포도 무산…2026 APBC 2연패, 결승 진출 경우의 수는?",
+  "published_at": "2026-11-13T23:50:00.000+09:00",
+  "collected_at": "2026-11-13T21:38:00.368Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 98,
+    "relevance": 70
+  },
+  "sentiment": "negative",
+  "also_in": [
+    {
+      "source_name": "연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1OMmFBYXFfcmFSZ05tQ2gwUVhLR1Zzel9QSmlqaXNwd3JYc0w0S3FJWW1mWU10c0JzOWpXSlViTFBwMmIyYTJuZXlOU2k4RW5ycE5pNUUxSHpQTGPSAWBBVV95cUxOb1p4WENUanZ5WU5oNzNsTGNJVkJxSXc3UHFFbFdEWmhWaHVadWFybVlDUjI5N0xFNnBXZmplc3RSbHpCWTRTb1NacFBtcXQwUHN3UmFjTmIzUXg3TTVNc1A?oc=5"
+    }
+  ]
+}

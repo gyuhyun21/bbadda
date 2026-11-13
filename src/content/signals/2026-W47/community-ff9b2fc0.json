@@ -1,0 +1,24 @@
+{
+  "id": "community-ff9b2fc0",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 스포츠 헌터의 핫이슈 브리핑",
+  "url": "https://blog.naver.com/tongtii/224476442840",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/CgkHgvPtDN",
+  "title": "🚨 KBO FA 자격 선수 28명 공시! 구자욱·원태인 역대급 스토브리그🔥",
+  "published_at": "2026-11-14T04:46:00.000+09:00",
+  "collected_at": "2026-11-13T21:38:00.368Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}
