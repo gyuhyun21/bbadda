@@ -1,0 +1,41 @@
+{
+  "id": "community-fb13490a",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 스포츠잔망의 스포츠 이야기",
+  "url": "https://feel0622.tistory.com/790",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/Ax4H4CXGpVO",
+  "title": "2027 KBO FA 자격 선수 28명 공시… 삼성 원태인·구자욱 A등급 포함 프로필 및 보상 규정 분석",
+  "published_at": "2026-11-13T16:32:02.000+09:00",
+  "collected_at": "2026-11-13T07:37:55.177Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 100,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "이데일리",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPV0RpZEdhWllrOHBTV0ZLdjdIWW95Wl9LYmM3VmtCTHdraGZtN0pmZnhka3pNZWtNVXF4TmRSdWZHZnBCRUxNT2tDWnRMX2tUUzhsWGxnRU41OE1HNVlSdThvbThJMVlfQ1VabHZ6dk1jTVljNlpSWnNubW9DLWdOQw?oc=5"
+    },
+    {
+      "source_name": "news.sbs.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMG9aLUN4TnYzQ3ktLTE3U256RUszMU9pSXU1Ni11Y0MyM0prZk9YZ3FKbE0xVWVxNVN6Nk9VU3NzU0J5VUlyZXFXbXUwaTFRM2VNRmlSSEhtVVdlamJCYV9OdmVOVzA3SzVEUnZWQ3BBR2VwNHlUaVkwWXBFR3RkMzFNbV9Yb2NPek5SSzV5dw?oc=5"
+    },
+    {
+      "source_name": "한겨레",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9GOFJfZUk3c3AzVWRTLXhXN0J5R3hBeDk1YmsxeURyVjQxR3Q4ZVpXNjdNNnd5c3ZBWXFJNWgzUnBSUW9kcUJ3Ti1iTWxoNG1OU1k4WXRCRTRVQ0lZcVBha09hNTEyOWM?oc=5"
+    },
+    {
+      "source_name": "연합뉴스TV",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBlVDBFb3FKaWgybW96NGhERHZ1NXZHbHlNQ2w5WlhrV1F3OFlyUHhhU3VDbC1nM0RVeW9NMldyYWJjc1NFRmRsdVJSWk90TFdDMzNrODlsUUFNeFAxazBpSkZXcTM3M3c?oc=5"
+    }
+  ]
+}

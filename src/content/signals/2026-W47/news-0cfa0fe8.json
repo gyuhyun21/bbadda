@@ -1,0 +1,29 @@
+{
+  "id": "news-0cfa0fe8",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1nSVdwd0RERUVxY3JiN0JhMXRhLWNFV1dQVG95U213S3NUUTAtUnhGRjJjRVREdmFxN2VTNDRRdE02MzU3UEQtaUZNNFN1QTczSjNka0lZdFQwZ1A4OGpGRkJlbnJObmR5TFHSAW9BVV95cUxQZnVfWklmR2ZNSkFvWlA1dUM2aFV1TVZYX2dDM3ItQmQ1a2NRWTE0c3lzcFFwYndGdXViMTgwWVZGRThKejlNYW9vNFZrZ0tudndqWVdVcl9PbjZPTmVwdm9ZamI4UlA4azJhSGFya2M?oc=5",
+  "title": "'민우팀 VS 재학팀 격돌' NC다이노스, 창단 15주년 스페셜게임 개최... 특별 이벤트도 마련",
+  "published_at": "2026-11-13T05:45:30.000Z",
+  "collected_at": "2026-11-13T07:37:55.177Z",
+  "summary_ko": "머니투데이는 NC가 창단 15주년 스페셜게임 'ROY대전'을 열어 민우팀과 재학팀이 맞붙는다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 50
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1IX1VRc2ozNWhvbHpMYlpCTkxlRTNGZk84djYtQThmdy0yZTNkYXEzOGVlMG5hdmE5c25EZWFsWHBhRnpLVFA3MWlIS3N1UUgtQ3ZxTTVrM1JwY2lIZ0VFam9lX08zcHdVRWMzaXVLUkdSc1VZYUE?oc=5"
+    }
+  ],
+  "brief_ko": "민우팀 vs 재학팀, 15주년 ROY대전"
+}

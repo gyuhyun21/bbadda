@@ -1,0 +1,26 @@
+{
+  "id": "youtube-aefeeb71",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "youtube",
+  "source_name": "엘냠씨",
+  "url": "https://www.youtube.com/watch?v=ZlNt6ziBWAI",
+  "title": "엘지트윈스 분위기를 바꿀 빅FA #엘지 #엘지트윈스 #LG #LG트윈스 #KBO #야구 #야구팬 #크보 #프로야구 #야구리뷰 #야구분석 #엘냠씨",
+  "published_at": "2026-11-13T07:00:23Z",
+  "collected_at": "2026-11-13T07:37:55.177Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 334,
+    "likes": 6,
+    "comments": 2
+  },
+  "scores": {
+    "hot": 50,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

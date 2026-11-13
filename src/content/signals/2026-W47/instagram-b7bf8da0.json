@@ -1,0 +1,26 @@
+{
+  "id": "instagram-b7bf8da0",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "instagram",
+  "official": true,
+  "source_name": "Instagram @always_kia_tigers",
+  "url": "https://www.instagram.com/p/DfqX2Hsk_S4/",
+  "title": "KIA 타이거즈 공식 인스타그램: 외야수들의 포구 수비 훈련으로 꽉 찬 오전 시간",
+  "published_at": "2026-11-13T00:44:23+0000",
+  "collected_at": "2026-11-13T07:37:55.177Z",
+  "summary_ko": "",
+  "metrics": {
+    "likes": 3378,
+    "comments": 6
+  },
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

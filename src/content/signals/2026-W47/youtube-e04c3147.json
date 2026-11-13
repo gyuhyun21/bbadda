@@ -1,0 +1,24 @@
+{
+  "id": "youtube-e04c3147",
+  "issue": "2026-W47",
+  "module": "league",
+  "teams": [],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=UZx394W0cbc",
+  "title": "크보틱톡모먼트 7회차 수상작 공개🎉",
+  "published_at": "2026-11-13T05:02:41Z",
+  "collected_at": "2026-11-13T07:37:55.177Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 918,
+    "likes": 36,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 67,
+    "relevance": 10
+  },
+  "sentiment": "positive"
+}

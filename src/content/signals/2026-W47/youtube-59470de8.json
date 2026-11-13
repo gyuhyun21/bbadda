@@ -1,0 +1,27 @@
+{
+  "id": "youtube-59470de8",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "어썸티비",
+  "url": "https://www.youtube.com/watch?v=wjKhATa-9Hg",
+  "title": "홈런왕 6회, 박병호의 마지막 인사 #Shorts",
+  "published_at": "2026-11-12T22:33:17Z",
+  "collected_at": "2026-11-13T07:37:55.177Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1795,
+    "likes": 14,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 46,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

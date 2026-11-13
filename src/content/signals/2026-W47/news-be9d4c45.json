@@ -1,0 +1,24 @@
+{
+  "id": "news-be9d4c45",
+  "issue": "2026-W47",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "마이데일리",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1hWEZnVEVRVG8yZ2lTb1BzREtWUG9pTE5CbHdjS3JPVWdZUW9NclhCRUZjejlwc3VfTzB4TGhQbWRfakdGZEtmb1Q4Sjdrc2hBSEpLZ0xuazB1VTR0ZVBtVQ?oc=5",
+  "title": "구자욱 정말 美 도전하나, 에이전트 선임에 현지도 관심…변수는 韓 야구 수준 \"의심할 여지 없이 훌륭한 시즌 보냈지만\"",
+  "published_at": "2026-11-13T07:11:00.000Z",
+  "collected_at": "2026-11-13T07:37:55.177Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 92,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

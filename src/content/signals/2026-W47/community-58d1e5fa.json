@@ -1,0 +1,24 @@
+{
+  "id": "community-58d1e5fa",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 오늘의 스포츠픽",
+  "url": "https://blog.naver.com/kimmi3013/224475742739",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/K7NlND12YNq",
+  "title": "우승하자마자 미국행 선언한 구자욱, 농담 아닌 이유 드러났다",
+  "published_at": "2026-11-13T15:22:00.000+09:00",
+  "collected_at": "2026-11-13T07:37:55.177Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

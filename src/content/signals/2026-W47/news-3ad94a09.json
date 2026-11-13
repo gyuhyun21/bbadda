@@ -1,0 +1,29 @@
+{
+  "id": "news-3ad94a09",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9DRlNDd05iMG5meXlob3RJRzV2NjdLRkVVMWc0SnhBSEYzTW1jVDFId281VU1KWDlaWThwX25ON3ZtQTJNWm8yNnNMbk8yWnVDRDF1WWJQR2ZfcDJFdkQ5dl92Yl9IZENuREItLXZDb9IBb0FVX3lxTE9DRlNDd05iMG5meXlob3RJRzV2NjdLRkVVMWc0SnhBSEYzTW1jVDFId281VU1KWDlaWThwX25ON3ZtQTJNWm8yNnNMbk8yWnVDRDF1WWJQR2ZfcDJFdkQ5dl92Yl9IZENuREItLXZDbw?oc=5",
+  "title": "\"꼭 보고 싶다\" 156km에 깜놀, 사령탑이 콕 찝어 마캠 불렀다…'이도류 도전→투수 집중' 곧바로 눈도장 찍나",
+  "published_at": "2026-11-13T01:39:00.000Z",
+  "collected_at": "2026-11-13T07:37:55.177Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "미주중앙일보",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9QOW5FSk1kUm9xVUw4WDdzTFlEbjNWdUdBU25VUHNBRWJGUklkNDctcnVoR1AtU3lhLXp4ekpZV1ZzVm1ZcFBZS1BTWlJ5bnkyYndBdENuQWNudlJEaERyZ09n?oc=5"
+    }
+  ]
+}

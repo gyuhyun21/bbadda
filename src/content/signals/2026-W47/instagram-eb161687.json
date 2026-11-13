@@ -1,0 +1,26 @@
+{
+  "id": "instagram-eb161687",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "instagram",
+  "official": true,
+  "source_name": "Instagram @always_kia_tigers",
+  "url": "https://www.instagram.com/p/DfqW4eEE9aL/",
+  "title": "KIA 타이거즈 공식 인스타그램: 어떠한 타구도 잡아낼 수 있도록",
+  "published_at": "2026-11-13T00:35:58+0000",
+  "collected_at": "2026-11-13T07:37:55.177Z",
+  "summary_ko": "",
+  "metrics": {
+    "likes": 4514,
+    "comments": 2
+  },
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

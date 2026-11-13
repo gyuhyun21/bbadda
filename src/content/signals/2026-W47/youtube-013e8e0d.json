@@ -1,0 +1,27 @@
+{
+  "id": "youtube-013e8e0d",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "doosan"
+  ],
+  "source_type": "youtube",
+  "source_name": "크보쌍둥이",
+  "url": "https://www.youtube.com/watch?v=qZ9fAf1ZzpY",
+  "title": "기아 우승포수 김태군 떠나면 두산 양의지 영입한다?! 팀 전력과 현실성은? #기아타이거즈 #김태군 #두산베어스 #양의지",
+  "published_at": "2026-11-13T05:41:26Z",
+  "collected_at": "2026-11-13T07:37:55.177Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 6047,
+    "likes": 309,
+    "comments": 149
+  },
+  "scores": {
+    "hot": 86,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

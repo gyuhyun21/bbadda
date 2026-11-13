@@ -1,0 +1,23 @@
+{
+  "id": "community-3ffd454d",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg",
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 젠지한 스포츠",
+  "url": "https://blog.naver.com/rlarudah117/224475535966",
+  "title": "\"1라운드 6순위의 끝\" SSG 김창평, 통산 0.156 끝에 방출…KIA가 저울질한 광주 유망주, 그래도 은퇴는...",
+  "published_at": "2026-11-13T13:10:00.000+09:00",
+  "collected_at": "2026-11-13T07:37:55.177Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

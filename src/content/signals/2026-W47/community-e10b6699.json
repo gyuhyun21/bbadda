@@ -1,0 +1,23 @@
+{
+  "id": "community-e10b6699",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 좋은세상 좋은사람",
+  "url": "https://nucleartip.com/2752",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/2zqGMfZ6JEf",
+  "title": "김진욱 야구선수 프로필 롯데 스쿠발",
+  "published_at": "2026-11-13T13:38:47.000+09:00",
+  "collected_at": "2026-11-13T07:37:55.177Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

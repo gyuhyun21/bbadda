@@ -1,0 +1,23 @@
+{
+  "id": "news-4ba0113a",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE53dlliSHdpSG5YQXpJS3lBZ2M0UU42UWFsQXJLTnR5dkxRVE5BMW9qTUMwSDI3eTFpdkJTQzZYNXRmYnhucE51RERaU2xEUzhoT0pONHNRSjFJcFNFVFMtOHo0UFBJandjOFFjaklUQ2NhdHdXTHY1c2ZvS19sZw?oc=5",
+  "title": "'초대박' KIA 트레이드의 이면, 1R 특급 내야수의 자책…\"두 달을 못 나가니까, 내 잘못이죠\"[인터뷰]",
+  "published_at": "2026-11-12T22:25:00.000Z",
+  "collected_at": "2026-11-13T07:37:55.177Z",
+  "summary_ko": "스포츠조선은 트레이드로 KIA에 온 1라운드 내야수가 두 달을 못 나간 건 내 잘못이라며 자책했다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "트레이드 1R 내야수의 자책"
+}

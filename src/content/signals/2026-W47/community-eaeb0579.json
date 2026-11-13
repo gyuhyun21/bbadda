@@ -1,0 +1,24 @@
+{
+  "id": "community-eaeb0579",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&page=4&document_srl=10549407454",
+  "title": "KBO 팀별 역대 외부 FA 영입 횟수 - 야구",
+  "published_at": "2026-11-13T00:37:55.177Z",
+  "collected_at": "2026-11-13T07:37:55.177Z",
+  "summary_ko": "",
+  "excerpt": "... 한화: 16회삼성, LG: 14회롯데: 13회KT: 11회NC: 10회KIA: 8회SSG: 6회두산: 4회키움: 2회.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

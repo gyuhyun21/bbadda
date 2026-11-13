@@ -1,0 +1,26 @@
+{
+  "id": "instagram-7312cbd5",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "instagram",
+  "official": true,
+  "source_name": "Instagram @ncdinos2011",
+  "url": "https://www.instagram.com/reel/DfqYxC3zKIt/",
+  "title": "NC 다이노스 공식 인스타그램: 민우야, 1루는 추워🥶",
+  "published_at": "2026-11-13T00:53:19+0000",
+  "collected_at": "2026-11-13T07:37:55.177Z",
+  "summary_ko": "",
+  "metrics": {
+    "likes": 1783,
+    "comments": 19
+  },
+  "scores": {
+    "hot": 66,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "youtube-fcf15e4f",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "youtube",
+  "source_name": "코치라운드",
+  "url": "https://www.youtube.com/watch?v=qm5agy-NqEw",
+  "title": "경기에서 요긴하게 쓸 수 있는 움직임을 훈련하지 않을 이유가 없지 않은가 #이현곤 #롯데자이언츠",
+  "published_at": "2026-11-13T06:00:20Z",
+  "collected_at": "2026-11-13T07:37:55.177Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 569,
+    "likes": 1,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 36,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "news-af90dab4",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠경향",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1PbC1JSlQyZjFlRTRUb1R6cUJ2WWlsM3JoQnluZTJucUZrYVRiSTY4dU1GdDMxSEx6cHpVaGhvaE90QWN0OGhwVEhIZlpWS05Fc2ViUjVXcEVHazRhNExXckpzTdIBY0FVX3lxTE1PbC1JSlQyZjFlRTRUb1R6cUJ2WWlsM3JoQnluZTJucUZrYVRiSTY4dU1GdDMxSEx6cHpVaGhvaE90QWN0OGhwVEhIZlpWS05Fc2ViUjVXcEVHazRhNExXckpzTQ?oc=5",
+  "title": "[스경X미야자키]류지현 감독 “김서현, 이젠 자신의 투구 폼 의심하지 않기를”",
+  "published_at": "2026-11-13T00:27:00.000Z",
+  "collected_at": "2026-11-13T07:37:55.177Z",
+  "summary_ko": "스포츠경향은 류지현 감독이 김서현에게 이제 자신의 투구 폼을 의심하지 않기를 바란다고 말했다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "류지현 감독이 김서현에게 바란 것"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "news-10a3b7aa",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "announcement": true,
+  "source_name": "MHN스포츠",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5Kb3NIUkJ3RzJIVXc3eTJ0MU54R1RGVlpaS1otTWJDbDhyazVLNHJNRGRiOFRiYXJjUnNkQVJLOUlKOVQ4U3lMS1U4akNTMUgyNFNIb1ZXUUJUWHpSb0hrTEs4RQ?oc=5",
+  "title": "[오피셜]\"너 재현이 형보다 야구 잘해?\" 이 한마디가 인생 바꿨다...박재상 2군 감독, 이제 필요한 건 '아버지 리더십'",
+  "published_at": "2026-11-13T05:10:51.000Z",
+  "collected_at": "2026-11-13T07:37:55.177Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

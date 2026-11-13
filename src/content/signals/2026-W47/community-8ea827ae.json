@@ -1,0 +1,24 @@
+{
+  "id": "community-8ea827ae",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 필드스토리",
+  "url": "https://blog.naver.com/bookissue5/224475714087",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/7eirA7IfcUt",
+  "title": "“너는 어떻게 생각해?” 김도영·안현민 두 친구가 우승 직후 나눈 예상 밖의 이야기",
+  "published_at": "2026-11-13T15:30:00.000+09:00",
+  "collected_at": "2026-11-13T07:37:55.177Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

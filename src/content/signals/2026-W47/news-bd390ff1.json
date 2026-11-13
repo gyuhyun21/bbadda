@@ -1,0 +1,28 @@
+{
+  "id": "news-bd390ff1",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "news",
+  "source_name": "서플 뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBMdlRveW5KWEcxX0ZlR1RPa2llekFPdWhtZmEyeEx1NzJpUUhveUpFQ1RHTF9yYXNMbWNfZm00aklJRWRLQ3VHQXNGbW9TQjBBVmRHcW5MNy0yOF9o?oc=5",
+  "title": "'중견수 문현빈 안 본다→최지훈-김호령 영입 가능' 노시환 미국행 시나리오... 한화 또 'FA시장 큰손' 될까",
+  "published_at": "2026-11-13T00:27:35.000Z",
+  "collected_at": "2026-11-13T07:37:55.177Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 81,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8wT29LSHlHS2l5SWRkanEyTWtQVE1fS1NMaGpQcjlQNWVkQmxaOEoyOHpZVXpkMVd4eDFkTjIwb3hIVXRZR2tfRTgzbTZGM0Z0M0gyQlg1VGJvLVE5U3RlWXJYSWFmeHpLRnRWVG5ZM2RHOGctVkE?oc=5"
+    }
+  ]
+}

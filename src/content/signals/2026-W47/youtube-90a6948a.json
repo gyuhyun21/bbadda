@@ -1,0 +1,26 @@
+{
+  "id": "youtube-90a6948a",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "팬심판",
+  "url": "https://www.youtube.com/watch?v=6xpSpv0O6d8",
+  "title": "김태군 대신 양의지를 KIA로? 포수 FA 시나리오 #shorts",
+  "published_at": "2026-11-13T07:05:11Z",
+  "collected_at": "2026-11-13T07:37:55.177Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 988,
+    "likes": 5,
+    "comments": 2
+  },
+  "scores": {
+    "hot": 42,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}
