@@ -1,0 +1,26 @@
+{
+  "id": "youtube-8e9d2cff",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "youtube",
+  "source_name": "거기잇슈",
+  "url": "https://www.youtube.com/watch?v=u3rkVnDp5lA",
+  "title": "한국 야구 호주에 또 7대8 두산 탈락 포수에 털렸다",
+  "published_at": "2026-11-13T04:33:54Z",
+  "collected_at": "2026-11-13T07:37:55.177Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1107,
+    "likes": 8,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 43,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

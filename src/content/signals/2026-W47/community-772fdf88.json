@@ -1,0 +1,23 @@
+{
+  "id": "community-772fdf88",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 오늘의 경기",
+  "url": "https://blog.naver.com/joojoo-secret/224475352271",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/86Gw8tt0tqs",
+  "title": "\"157km 던지는데 메이저리그 0승?\" SSG가 13억 주고 데려온 투수",
+  "published_at": "2026-11-13T12:30:00.000+09:00",
+  "collected_at": "2026-11-13T07:37:55.177Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

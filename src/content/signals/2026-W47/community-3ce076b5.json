@@ -1,0 +1,23 @@
+{
+  "id": "community-3ce076b5",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 New Life님의 블로그",
+  "url": "https://blog.naver.com/ninja9567/224475580478",
+  "title": "2026 APBC 한일전, 한국 야구 일본과 격돌! | 김진욱 선발·중계·결승 진출 경우의 수",
+  "published_at": "2026-11-13T13:27:00.000+09:00",
+  "collected_at": "2026-11-13T07:37:55.177Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "community-fc07b605",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/10536862753",
+  "title": "KT위즈 권동진 소식 - 야구",
+  "published_at": "2026-11-08T15:00:00.000Z",
+  "collected_at": "2026-11-13T07:37:55.177Z",
+  "summary_ko": "",
+  "excerpt": "... KT 위즈 권동진 재진료 결과, \"안와골절에 대한 부분은 눈에 지장 없어 별도 수술이 필요…",
+  "metrics": {},
+  "scores": {
+    "hot": 28,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "community-50317145",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "lg"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 삶은... 계란",
+  "url": "https://blog.naver.com/1edwynn2/224475557574",
+  "title": "[⚾️ | 직관] 261004 - 아듀! 잠실 (KIA vs LG)",
+  "published_at": "2026-11-13T13:27:00.000+09:00",
+  "collected_at": "2026-11-13T07:37:55.177Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "news-b1d1ad4d",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "경북매일",
+  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9GVDRUWlc0NnNnSzNUb2VjNWdyb0FRZGVnajBiUm5MeWVnalROanFmeGV5SGxPaEM2Q3kwcXZ5WkIzV2lmSzZIaG96S1ZSZlBUY0ZtQm5Yandqdw?oc=5",
+  "title": "삼성 우승의 결정적 한 방…데이터는 디아즈 꼽았다",
+  "published_at": "2026-11-13T02:40:00.000Z",
+  "collected_at": "2026-11-13T07:37:55.177Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

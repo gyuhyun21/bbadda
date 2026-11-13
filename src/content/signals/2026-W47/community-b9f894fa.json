@@ -1,0 +1,54 @@
+{
+  "id": "community-b9f894fa",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "community",
+  "announcement": true,
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&page=7&document_srl=10549416125",
+  "title": "[오피셜] SSG 랜더스, 박재상 육성군 총괄코치를 신임 퓨처스 감독으로 ...",
+  "published_at": "2026-11-13T00:37:55.177Z",
+  "collected_at": "2026-11-13T07:37:55.177Z",
+  "summary_ko": "",
+  "excerpt": "... https://x.com/SPOTV_skullboy/status/2121044297500021208?a=usRgMjLbm07sUJqLQ0E&s=19.",
+  "metrics": {},
+  "scores": {
+    "hot": 98,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1rLUZ6R1FqVmxHQ1lEUjJYVmVsUU00TE1nNktuZGQxNDlsYXRvbkJsUHBsTVFrRm10UGhacHp4M3NzVWhnLW5SQWhzM3NmMDhaQy1iMFlRZExxWGpsS3dCWNIBYEFVX3lxTE1rLUZ6R1FqVmxHQ1lEUjJYVmVsUU00TE1nNktuZGQxNDlsYXRvbkJsUHBsTVFrRm10UGhacHp4M3NzVWhnLW5SQWhzM3NmMDhaQy1iMFlRZExxWGpsS3dCWA?oc=5"
+    },
+    {
+      "source_name": "톱스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9tWU1zUFpNU0NBV2EwOVZMYWlMLXhxNy1LWnppVEVxVGxyNUY1UDJXd1pXaHBFMjhpYUp5aFljbXM3b01tSzJRa3dEUWtqVUdaVkZ6Nk4wdW5wc2t3bVZpQnBPdkQ5WGs4SkxSSXljbGJvUQ?oc=5"
+    },
+    {
+      "source_name": "데일리안",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQLWVvZUlEUFVBeHZCeTcyc1l3Y1R3T3NZZGhyNXRHODN0RU9Wa0ZxQjZzSGRyLW91Rng5ZXpmWmxMbUZWRzU2QU81czZ1R3dUaEZxWXBXVFhDMWFmR09qbzAyLVpkVU5oWHBiUGJVcENvbWxpUHY4eTFfaEFweDZ4azYteThxcUl4M040dWQxNGw5dEs3UTJNVWlaSklWQUdyc1VXaC00cHN4SkdkeVM3VWFMZEk3akRZWHR0QXYxNEUtaEpFbTdraFBtcDUtakxMSWVnZzRLRVNkRm93YXppaDNYbzdfbXhRcUcyN0FHM09keVhRRFRiamRTZU9LTE82LWZj?oc=5"
+    },
+    {
+      "source_name": "https://www.2news.co.kr/",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE80R1MzdC13eWRjNndDSDY4SGpIeUpkZDhQQ2E0ekZlN2ZGVkVoR2phS0k4SFRJMGxuVms0M1hzbHZsVnZGV0V3eXFHRjluNnF4Wndtc0c0V1JwN2lHWXFNWmF2TFpjbm9R?oc=5"
+    },
+    {
+      "source_name": "news.sbs.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOck5qUWpiMWRFMy04dVprMGtncjZ2RDNsUXAzMjdUbEpDeDF2R0ZSbFl4cVdyOVhTWXM0RktyNV83dVNJV3hmNDF6dWFOUGhSaFZlN2R5RTdaWjA1Vm5PMHF0a3JEcHBaTmVkazFIczFLdW9oZnQtcVBPYXZlb21WZDRfRHlldw?oc=5"
+    },
+    {
+      "source_name": "스포츠동아",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9SSVVQOUZkVnN4bk1zMXFURndyWUh1cWJnY0pvOWVSal9uOGp2UGVIdnNZbnVNbVJDU3YzMGZkcGFPUll3c0xXYjJ5UEZnb2NyY25qQlBZajM1YjV5UU9FWUNzemg5MGxrcmo0Vm9YMzV1QQ?oc=5"
+    },
+    {
+      "source_name": "한국증권신문",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB1ZjRUaXVOOFJYZTFqUGpOMGg2cU9KTW8xMHdYRG9tVmt1a1p1V2lNZmhxZ1BQbGV4Qk0wWGJJZ3lhSnJvVm52SWlCeXB5NzlHamVqRXdpX3Jya2NqSU93Wl9OS3pVOTZMUEdn?oc=5"
+    }
+  ]
+}

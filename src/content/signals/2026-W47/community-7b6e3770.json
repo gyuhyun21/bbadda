@@ -1,0 +1,37 @@
+{
+  "id": "community-7b6e3770",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "다음카페 樂soccer",
+  "url": "https://cafe.daum.net/rocksoccer/ADuT/373873",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/3IHxIT7LA2e",
+  "title": "삼성 라이온즈 구자욱 MLB 진출준비중",
+  "published_at": "2026-11-13T14:51:55.000+09:00",
+  "collected_at": "2026-11-13T07:37:55.177Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 99,
+    "relevance": 50
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFByVXVIWDh4dlROWmlwd0U3SEJGOTJXbjRNQWVYQ0VZZUxqcWxmZzg1RUFkVVRlWUtENlZPYldVdFViMjNKeVBKOTRMSW95ekFOQjAxRXlaWkxSb1XSAWBBVV95cUxQWllRdVZwNWoyUUxSN1NXUDVMd0llOXdqLVh6OW95bUNQZ0VjQm4wUjJYLXBHSzN4SmFNVlhxdTJCN1VzWU5mLVZwVTVDRHZvUnpRZDhodFBXMW9NcTNLd24?oc=5"
+    },
+    {
+      "source_name": "뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1IM2dDWXk4OVp2a1g1SmtIUkJHYjBaSUpMSFhkWjN0Tkxkd3ZIZlRudDhKQm5yWVd4V3UzYjJvRGRTTkplSUplQ0tvaml6OVVnenhueFJPU3FoZVY1ZDJQc9IBeEFVX3lxTFBTQ25CeGVOemdHT0JqU3F1MUd6WmRodTlwdGM4ZVBfb0paS1RUdW1tSzl4VkZnc3pxVDlpZGE0dF9Mbm5zRjZNVk9TQUlTNWk0bGhsalRQd1hEN2tRdnhSdzNJWHQtbVlmNEdRS3dWWERPLTJLRV9ucA?oc=5"
+    },
+    {
+      "source_name": "중앙일보",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ZemVsT0dMT3BwUF9EaHBvY1V4d3QyclRlZFF1U0xYQWJwSmJUWEtkS3lSUWVsMXQ1RVphTGlmYzNuYUdiNlp0U3dYZW5ramFkVkhDRWRB?oc=5"
+    }
+  ]
+}

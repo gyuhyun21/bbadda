@@ -1,0 +1,28 @@
+{
+  "id": "youtube-9157ebb6",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "Eagles TV",
+  "url": "https://www.youtube.com/watch?v=BJs1JrVKpro",
+  "title": "류지현호 내야펑고는 이렇습니다 | 황영묵 정민규 최원준의 미야자키 펑고지옥",
+  "published_at": "2026-11-13T02:30:37Z",
+  "collected_at": "2026-11-13T07:37:55.177Z",
+  "summary_ko": "한화 공식 채널 Eagles TV가 황영묵·정민규·최원준의 미야자키 내야 펑고 훈련 영상을 올렸다.",
+  "metrics": {
+    "views": 89144,
+    "likes": 1335,
+    "comments": 360
+  },
+  "scores": {
+    "hot": 75,
+    "relevance": 50
+  },
+  "sentiment": "neutral",
+  "brief_ko": "황영묵·정민규의 펑고 지옥"
+}

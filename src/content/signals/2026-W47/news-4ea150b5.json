@@ -1,0 +1,22 @@
+{
+  "id": "news-4ea150b5",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "중앙일보",
+  "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBYZVh0OGRnbk9LQVlkZ0JPdFpvRUYtdXRaS3UxS2NGWnZSdHRnSjE1bUhGZFl1aEMySHVWRkRqOUxRTXVBM2lWam13ampkUGJjMGY3YU9R?oc=5",
+  "title": "삼성에서 가져온 김지찬표 ‘우승 기운’…APBC 대역전극 발판 될까",
+  "published_at": "2026-11-13T06:15:00.000Z",
+  "collected_at": "2026-11-13T07:37:55.177Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 80
+  },
+  "sentiment": "positive"
+}

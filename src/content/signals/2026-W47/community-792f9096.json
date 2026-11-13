@@ -1,0 +1,22 @@
+{
+  "id": "community-792f9096",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 핫이슈ㅣ뉴스와 IT 컴퓨터 정보",
+  "url": "https://blog.naver.com/byeon1004/224475527095",
+  "title": "SSG 박재상 퓨처스 감독 선임, 2군 운영 방향과 달라지는 점은?",
+  "published_at": "2026-11-13T13:20:00.000+09:00",
+  "collected_at": "2026-11-13T07:37:55.177Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

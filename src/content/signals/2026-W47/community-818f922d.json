@@ -1,0 +1,23 @@
+{
+  "id": "community-818f922d",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 내가 그리는 이야기",
+  "url": "https://blog.naver.com/kimnk3779/224475302119",
+  "title": "2026 APBC 한일전 프리뷰｜한국 야구대표팀, 일본 상대로 첫 승과 결승 진출의 희망 잡을까?",
+  "published_at": "2026-11-13T09:51:00.000+09:00",
+  "collected_at": "2026-11-13T07:37:55.177Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "news-1ea8f1c7",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스1",
+  "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFAyUGRMWHFpdFlGLWQweVFBaW5ET01uYXJ0eXQySGdwV1lIQmlOWnVfNEdQZTVnZlVJX3BIdVB5dXJWOVhVOW1Rdw?oc=5",
+  "title": "'삼성 우승' 소원 이뤄준 갓바위…수능부터 저마다의 소망까지 기도 열기",
+  "published_at": "2026-11-13T07:27:19.000Z",
+  "collected_at": "2026-11-13T07:37:55.177Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

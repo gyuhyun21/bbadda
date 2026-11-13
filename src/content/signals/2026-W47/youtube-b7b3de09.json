@@ -1,0 +1,26 @@
+{
+  "id": "youtube-b7b3de09",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "source_name": "이글스라인업",
+  "url": "https://www.youtube.com/watch?v=XZcS0uVdIiQ",
+  "title": "문현빈도 3삼진… 호주전, 볼넷 하나로... #한화이글스",
+  "published_at": "2026-11-13T07:15:34Z",
+  "collected_at": "2026-11-13T07:37:55.177Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 8,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 12,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "community-b9b9b104",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 놀고 싶은 어피치",
+  "url": "https://blog.naver.com/exfel24/224475735594",
+  "title": "삼성라이온즈우승기념 삼성전자대축제",
+  "published_at": "2026-11-13T15:17:00.000+09:00",
+  "collected_at": "2026-11-13T07:37:55.177Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

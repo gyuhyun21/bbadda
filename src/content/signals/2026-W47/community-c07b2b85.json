@@ -1,0 +1,24 @@
+{
+  "id": "community-c07b2b85",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc",
+    "doosan"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 핫스토리박스 (Hot Story Box)",
+  "url": "https://blog.naver.com/hotstorybox/224475520631",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/DLjTuBvrUDu",
+  "title": "손아섭 5천만원에 NC 복귀 - 두산 방출 아픔 딛고 친정팀서 다시 시작하는 2027 시즌",
+  "published_at": "2026-11-13T12:54:00.000+09:00",
+  "collected_at": "2026-11-13T07:37:55.177Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "mixed"
+}

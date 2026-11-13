@@ -1,0 +1,23 @@
+{
+  "id": "news-9549e0ba",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "미주중앙일보",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5OWWk0R0gzcnJkZDdfcjE3b3Z2b05nZXpheThGT09KRHg2VmVva2JTY09NeGV5M1B0TkxhUXRpd0MtaF85Rl9UTmRKblFmSWtpcHhpbzBiWUJ0Z0hoTU1ENlZB?oc=5",
+  "title": "‘초대박’ FA 최대어 ML 도전 선언! 구자욱 해외 에이전트 전격 선임→美 관심 폭발 “KOO 메이저리그 진출 추진”",
+  "published_at": "2026-11-13T04:21:00.000Z",
+  "collected_at": "2026-11-13T07:37:55.177Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

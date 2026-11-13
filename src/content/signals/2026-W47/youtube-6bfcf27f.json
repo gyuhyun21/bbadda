@@ -1,0 +1,27 @@
+{
+  "id": "youtube-6bfcf27f",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "VSport",
+  "url": "https://www.youtube.com/watch?v=vzuc3QOOZKk",
+  "title": "KIA가 원태인, 구자욱 중 한 명 영입 시도한다고?'...삼성보다 훨씬 세게 베팅해야! 기아가 원태인·구자욱을 노린다면? 삼성 라이온즈의 선택은? 원태인인가 구자욱인가?",
+  "published_at": "2026-11-13T04:47:22Z",
+  "collected_at": "2026-11-13T07:37:55.177Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 4,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

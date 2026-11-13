@@ -1,0 +1,23 @@
+{
+  "id": "news-3b9935e9",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "news",
+  "announcement": true,
+  "source_name": "MHN스포츠",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBPY0FDZlpzcDZKVzV3dHB0a3dRbHRrOTFLOUNwSlM4ZkptdUZLRXZaaUZlWmF2cEhIdE9zNXpkaTVoeDFsWjEwT1BNLThRdHJMY0dJTmFlbGtYNVZJeHpYNDduVQ?oc=5",
+  "title": "[오피셜]하루 펑고 1000개, '악마의 숫자' 견뎌낸 박재상...기대되는 SSG 2군 감독 선임 \"내가 해냈으니 너희도 할 수 있다\"",
+  "published_at": "2026-11-13T02:15:02.000Z",
+  "collected_at": "2026-11-13T07:37:55.177Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

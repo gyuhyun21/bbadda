@@ -1,0 +1,23 @@
+{
+  "id": "community-440b6a1e",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 오늘의 중계석",
+  "url": "https://blog.naver.com/tworosports/224475508209",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/AQjWOHXsSTn",
+  "title": "'김도영보다 1억 더 받은 신인' 두산 김지우, 국민우익수가 내린 첫 평가는",
+  "published_at": "2026-11-13T12:28:00.000+09:00",
+  "collected_at": "2026-11-13T07:37:55.177Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

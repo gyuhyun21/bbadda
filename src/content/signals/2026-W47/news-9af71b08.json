@@ -1,0 +1,23 @@
+{
+  "id": "news-9af71b08",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "조선일보",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRG5wZC0wNm5JbFo4Ui0xZlNLa18xUExobUFrbmFjc3ppcFhMbXFsOWZYOXJhLUZpZVd1d21KNC0tbVZGUkMxMGROTTZhUThGcEYyUXktRENwV3lzems1YnpVdFU2Q0NFZnZnMHpVTnVFR3owajFiM2EtU3ZRVVhvSnZhZw?oc=5",
+  "title": "\"구자욱 FA 시장 나오기만 기다린다\" 대형 폭탄 선언, 강백호처럼 극적 잔류 가능성?",
+  "published_at": "2026-11-13T06:25:00.000Z",
+  "collected_at": "2026-11-13T07:37:55.177Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

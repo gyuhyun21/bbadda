@@ -1,0 +1,24 @@
+{
+  "id": "community-07092bf6",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/10549753519",
+  "title": "구자욱 해외간다는 글 본 후 이제 막 정신 돌아와서 글 쓰는데 - 야구",
+  "published_at": "2026-11-13T02:37:55.177Z",
+  "collected_at": "2026-11-13T07:37:55.177Z",
+  "summary_ko": "",
+  "excerpt": "... [오피셜] SSG 랜더스, 박재상 육성군 총괄코치를 신임 퓨처스 감독으로 선임. 인기 이랬는데 갑자기 전병우면…",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

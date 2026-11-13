@@ -1,0 +1,45 @@
+{
+  "id": "community-97298f9e",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 JNJ",
+  "url": "https://blog.naver.com/habana8240/224475316110",
+  "title": "2027 KBO 스토브리그 개막! 구자욱 원태인 등 FA 자격 선수 공시 일정과 주요 선수",
+  "published_at": "2026-11-13T13:25:00.000+09:00",
+  "collected_at": "2026-11-13T07:37:55.177Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 99,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "미주중앙일보",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1OOEl4WDhKMzNIbVN3SDBEalZSX1Q0WG9ac3pCYlB4aXdqdzdlcllhX3dvOWU5TkZKU1RVcDUyZWEyTHFuRlRHeGRrYjBlQkNLWkI1ekZFWEtEdEZrRGZzaFJR?oc=5"
+    },
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9sZU05S2paYnd0cjIzcWktQ0dtalk4enhOUG85blpSQVp0bWJJTEFjb1hXOE0xQmpXaVMxSERROTNxS1dHMEtMd1lBeksyTlhIZDFxMjVKNVNobk5VcTdJQWJBWGNhYkJ3NmfSAW9BVV95cUxNSGZVaXN2NTRyNVRBU1VIb0FZMHFJRmZiTDE0cWlYVVducXV6ZmV2V1oxaXFQOVA4TGdmdUh2YWNfQXRhVDJIcHN0TWdhZGI2X29OM0ZxUWs5a3B2TFE1d2RIM29LVFFQR1FrNlRNaEE?oc=5"
+    },
+    {
+      "source_name": "뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9paTlnMHhNZnQ1S0RDUWd5ZEV1dUtiWXhaRE9abVRjeE5pSGRzUWtoQWloWVVWTThXd1BWQ3RFZHNYelZicXZuZjRGTHdMUUFiaUdmeU95RUFHdXh5Nmxmd9IBeEFVX3lxTE52Q09LbWJTdmdRQlQwd1QwTEU3dW1TODBkLTVhWWZQNGh3QWxJYXBEb19fZTJ1N1VYRklUd2RmMU52ZzliV2Rhd1d6dFVUNkt0bHlMRkFzUTZfSk41LVBjdi1zNWhBYW1UU3ZobjJ1dG5fdVp1UWpJZA?oc=5"
+    },
+    {
+      "source_name": "동아일보",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5YZHpBTlhDRlBNckprWGViMnhlS2VGb1hwaE1ZYS1LRG9iOTQ2VXN3RTUxa0tZNklEX2psWUVRNVM4MV9NUldobW9kenI4Mzl2ejZjQzc0YWtSYVdOX1Y2ZEw3NlVUVlViQ1FMOURYc1pydC1N0gFmQVVfeXFMTW9fbkN1SzBaOFFUYTB5VU9sSVdQTzhkRlJ3Wi1ZbmF3cW1IUU8zdzRXUUhZTHY0aTh2V19IQkZSMGFoSmI4eFBIa2ZLbUctR2dlUks4ck1OZUlsUFdRQWtiMlMza0hB?oc=5"
+    },
+    {
+      "source_name": "한겨레",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9GOFJfZUk3c3AzVWRTLXhXN0J5R3hBeDk1YmsxeURyVjQxR3Q4ZVpXNjdNNnd5c3ZBWXFJNWgzUnBSUW9kcUJ3Ti1iTWxoNG1OU1k4WXRCRTRVQ0lZcVBha09hNTEyOWM?oc=5"
+    }
+  ]
+}

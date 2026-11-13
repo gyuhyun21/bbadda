@@ -1,0 +1,22 @@
+{
+  "id": "news-f4e6c785",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스핌",
+  "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBDVWo0R2w2VTA5SHpQNHlyRnJ0aUlIdmtfVFRfdzBPWjNScWJWT2M4d1BJcHFPYV9ZeV9fRGRrR3pFM3NWRzRsSnh5MUpNVmpkekdkNjVtV21Lck1W?oc=5",
+  "title": "[프로야구] 삼성 구자욱, 해외 에이전트 선임 완…우승 후 너스레 아니었다",
+  "published_at": "2026-11-13T05:55:00.000Z",
+  "collected_at": "2026-11-13T07:37:55.177Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

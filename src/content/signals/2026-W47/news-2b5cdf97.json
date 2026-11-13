@@ -1,0 +1,29 @@
+{
+  "id": "news-2b5cdf97",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "연합뉴스",
+  "url": "https://www.yna.co.kr/amp/view/AKR20261113068700007",
+  "title": "데이터로 돌아본 KS…승리 확률 가장 높인 선수는 삼성 디아즈",
+  "published_at": "2026-11-13T01:45:20.000Z",
+  "collected_at": "2026-11-13T07:37:55.177Z",
+  "summary_ko": "연합뉴스는 데이터로 돌아본 한국시리즈에서 승리 확률을 가장 많이 높인 선수가 삼성 디아즈였다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 98,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "노컷뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4tUWR5R2YzcEh4N2NEQjNjV2ZxTmo2R1otb1dSeVJtME5KRFkyaVBHNjFxTTIycy0yblRmY1BhWm9oa2p1LXFWS1kySHQwUXk0Znc?oc=5"
+    }
+  ],
+  "brief_ko": "KS 승리 확률 1위는 디아즈"
+}

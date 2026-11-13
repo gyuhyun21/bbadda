@@ -1,0 +1,24 @@
+{
+  "id": "community-6a7f7be0",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&page=3&document_srl=10550161771",
+  "title": "#KooStay - 야구",
+  "published_at": "2026-11-13T05:37:55.177Z",
+  "collected_at": "2026-11-13T07:37:55.177Z",
+  "summary_ko": "",
+  "excerpt": "... 롯데자이언츠 팬 일동은 구자욱 선수의 메이저리그 진출을 응원합니다 [4]. 3 분 ...",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

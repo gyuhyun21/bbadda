@@ -1,0 +1,45 @@
+{
+  "id": "community-6fb3a788",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 정보만땅",
+  "url": "https://ferry.sosurim.com/2",
+  "title": "삼성전자 라이온즈 우승 기념 대축제 총정리",
+  "published_at": "2026-11-13T13:56:54.000+09:00",
+  "collected_at": "2026-11-13T07:37:55.177Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 99,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1vb1hIMl9keDRKaTBvalJuU1I0VlZHUzMtLUh6dmludUJ4VFJnMFlWOTZwbmhuRmpVWjAzX3pKN0RwLS0zUjBHMHBZWFJ3YWVDb0JoMXk4bVgzMzNTdWtWT3I5QmJjWjhlQ1gwcThudkJaMzk5YmhMLdIBeEFVX3lxTE1vb1hIMl9keDRKaTBvalJuU1I0VlZHUzMtLUh6dmludUJ4VFJnMFlWOTZwbmhuRmpVWjAzX3pKN0RwLS0zUjBHMHBZWFJ3YWVDb0JoMXk4bVgzMzNTdWtWT3I5QmJjWjhlQ1gwcThudkJaMzk5YmhMLQ?oc=5"
+    },
+    {
+      "source_name": "뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9yZS1XelB0UkFFeDlvWEZhTmZkd2NTcWpFblVmbzJseFd1V1V6el9GVWVRZUtEaTRxTmZIekNFcWdhZUJvc1ozUkF5ajNEeXdYcVg0dk1VVkRCZHJkTWQwV3pIZWo?oc=5"
+    },
+    {
+      "source_name": "뉴스웍스",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1pTmprR0MwTTl1Z2toTWNuVFNXUS1peVpCVUhjaVU1WThxRE9OTi1BYU1YSnc4UUxRX2NnSHFybjFQdlM5SHZVME9ranc4S1FQSDVQazB6R3hpNEx2UkdGN21fTHBhQ3AtdmRVakpEd9IBc0FVX3lxTE9PR3NhSl9zUGZtRnpGMVppUHVFRzY5ajBlSU9VNVVUY3Bod29ZRzhid1VVWG9EWWkzbk1DYkVfWUxZbF91dGJpYzlHN3M1ZGdEX0lCOXYzbkdNZEZOa2huWGd1bENjeDVFM3MtXzRJbWloYUU?oc=5"
+    },
+    {
+      "source_name": "글로벌이코노믹",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcEp6Q2lFOFlodXNLVFZVbFpDVkdjS0wxdU44NVlCR3ZEWEtLUUx2dkozRFBFT3hoa3ExeUVGQWxKSnFHSUlqbDBXX1FfZE5pXzhtOHMydU5mSUZEb1R5TDRDeGVHTlFudE5RaEV4SGRLaEtaY3AxZGl2Y0RLUWJJbXA3X0hlZw?oc=5"
+    },
+    {
+      "source_name": "www.ebn.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBoSG1MbGJncjR6S3kxVDE0OC1zUHg3SHUwQWxnb1RmNXRPREhCWkNVSmFJZmlsQ1JsTktoUFVxN3M3UXJZMlhSTkxBZXhaUllXclBsZ0Q3bUpWMGFZZDdGWV9kaUxGVDIt?oc=5"
+    }
+  ]
+}

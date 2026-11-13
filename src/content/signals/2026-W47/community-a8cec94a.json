@@ -1,0 +1,24 @@
+{
+  "id": "community-a8cec94a",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 평범한미디어",
+  "url": "https://bean7342.tistory.com/1487",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/LRPwyuHIzPJ",
+  "title": "‘젠슨 황’ 얘기하다가 ‘야구’ 얘기까지?",
+  "published_at": "2026-11-13T15:20:25.000+09:00",
+  "collected_at": "2026-11-13T07:37:55.177Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

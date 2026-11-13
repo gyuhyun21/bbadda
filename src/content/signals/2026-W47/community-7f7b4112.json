@@ -1,0 +1,30 @@
+{
+  "id": "community-7f7b4112",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 스포츠 이슈 연구소",
+  "url": "https://blog.naver.com/opoloi180/224475516668",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/7F7wELeTOOH",
+  "title": "박동원·최재훈·김태군까지, 4년 전 포수 대이동 재현되나… 몸값 얼마나 뛸까?",
+  "published_at": "2026-11-13T12:54:00.000+09:00",
+  "collected_at": "2026-11-13T07:37:55.177Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 99,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "마이데일리",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBDZE5MVjB2Q2tIeTQtaVdPcFIyOVNfRDJ4WW83LXg1N2RweERVOEswMlMzTlkyUW92VS1YZk5ZMFZFZlprZGlmeGFHNm5VbU1vZzNhNXJJZTZRMmpPX3lKMQ?oc=5"
+    }
+  ]
+}

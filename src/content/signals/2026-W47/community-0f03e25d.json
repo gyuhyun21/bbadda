@@ -1,0 +1,29 @@
+{
+  "id": "community-0f03e25d",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 sangjun2482님의블로그",
+  "url": "https://blog.naver.com/sangjun2482/224475574973",
+  "title": "베일벗은 삼성전자 우승턱..딱 12일간만 혜택 쏟아져",
+  "published_at": "2026-11-13T13:47:00.000+09:00",
+  "collected_at": "2026-11-13T07:37:55.177Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1vcC1oSEQ2NjNqUWliLTZaRnRiLTQ2SmJVWTlfUjFqT2Fxb3gtaWpkRXpYOXF3aHFyejJWbF9UaDNlalphUE9VNHRvUm1ueE1VcnEwWkRUR0hWd2VOV19uQkZDT085RnRyR1JkbkVKTGU1QdIBckFVX3lxTE1vcC1oSEQ2NjNqUWliLTZaRnRiLTQ2SmJVWTlfUjFqT2Fxb3gtaWpkRXpYOXF3aHFyejJWbF9UaDNlalphUE9VNHRvUm1ueE1VcnEwWkRUR0hWd2VOV19uQkZDT085RnRyR1JkbkVKTGU1QQ?oc=5"
+    }
+  ]
+}

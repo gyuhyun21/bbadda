@@ -1,0 +1,23 @@
+{
+  "id": "news-83b3ef82",
+  "issue": "2026-W47",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "ssg"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스핌",
+  "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9tMGluSlpvZkZzNWI3RV8yWlpiYVVldmNjSllrYW84Z2NPU1JMLUxkR0puUy1Yb2J1R0FWN3BIVWNfUzJrWUtDSDJXaHZzR2hhb0dOWDY0S0RNZ29u?oc=5",
+  "title": "[핌 포커스] '알짜배기' C등급 FA 누가 있을까…삼성 전병우·SSG 오태곤",
+  "published_at": "2026-11-13T02:00:00.000Z",
+  "collected_at": "2026-11-13T07:37:55.177Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "community-c96825ac",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc",
+    "doosan"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 그레이스 트렌드 - 연예 스포츠 이슈 정보",
+  "url": "https://blog.naver.com/gracetrend/224475473530",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/3I1WEMAt2cp",
+  "title": "손아섭 NC, 연봉 5천만원 무옵션 복귀 | 두산 방출 9일 만에 친정으로 돌아온 이유",
+  "published_at": "2026-11-13T12:51:00.000+09:00",
+  "collected_at": "2026-11-13T07:37:55.177Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "mixed"
+}

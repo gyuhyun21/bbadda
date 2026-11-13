@@ -1,0 +1,24 @@
+{
+  "id": "community-1c8a99dc",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom",
+    "hanwha"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 안철순 네이버 블로그(blog)",
+  "url": "https://blog.naver.com/cheolsoon3335/224475407495",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/3iIA7kf0v9x",
+  "title": "2026 KBO 프로야구 정규 리그 경기 - 키움 히어로즈 對 한화 이글스 戰 - 한화 이글스 응원단원...",
+  "published_at": "2026-11-13T11:06:00.000+09:00",
+  "collected_at": "2026-11-13T07:37:55.177Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

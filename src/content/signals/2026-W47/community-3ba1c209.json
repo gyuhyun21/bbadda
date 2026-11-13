@@ -1,0 +1,24 @@
+{
+  "id": "community-3ba1c209",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&page=5&document_srl=10550389489",
+  "title": "근데 김호령 4/48이고 홍창기 4/57이면 - 야구",
+  "published_at": "2026-11-13T06:47:55.177Z",
+  "collected_at": "2026-11-13T07:37:55.177Z",
+  "summary_ko": "",
+  "excerpt": "... ... 누구 잡음아 기아 기준 ... 쌀먹거지타이거즈 5 분 전. 그럼 홍이지. [레벨:22] 지피리…",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

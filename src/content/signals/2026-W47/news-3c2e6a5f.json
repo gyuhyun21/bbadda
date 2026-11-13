@@ -1,0 +1,23 @@
+{
+  "id": "news-3c2e6a5f",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "news",
+  "source_name": "노컷뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1TWGNQSjZLMlg0Mmotcm15ejN0T0VuRUgzNTFNQ0hyUVNROHpubWlhdVBpUGFkdWV1ckd1bTA5SXZFZmExU2ZVYWNlblA1YTdBQnc?oc=5",
+  "title": "프랜차이즈 출신 박재상, SSG 퓨처스 사령탑 부임…\"선수 주도형 육성 안착\"",
+  "published_at": "2026-11-13T01:34:15.000Z",
+  "collected_at": "2026-11-13T07:37:55.177Z",
+  "summary_ko": "노컷뉴스는 SSG 프랜차이즈 출신 박재상이 퓨처스 감독을 맡아 선수 주도형 육성을 이끈다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "박재상, 퓨처스 사령탑으로"
+}

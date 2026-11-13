@@ -1,0 +1,27 @@
+{
+  "id": "youtube-c143548e",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "KBO 웁스앤와우",
+  "url": "https://www.youtube.com/watch?v=mhkw8dOeg1A",
+  "title": "최연소 40홈런 코앞인데! 김도영도 아쉬웠던 그 순간ㅋㅋ",
+  "published_at": "2026-11-13T03:27:32Z",
+  "collected_at": "2026-11-13T07:37:55.177Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1563,
+    "likes": 14,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 46,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

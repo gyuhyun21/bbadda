@@ -1,0 +1,24 @@
+{
+  "id": "community-a847b12e",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "엠엘비파크",
+  "url": "https://mlbpark.donga.com/mp/b.php?id=202611060119943525&p=1&b=kbotown&m=view&select=spf&query=%EC%82%BC%EC%84%B1&site=donga.com&pos=reply",
+  "title": "3차전 직관 승요",
+  "published_at": "2026-11-05T15:00:00.000Z",
+  "collected_at": "2026-11-13T07:37:55.177Z",
+  "summary_ko": "",
+  "excerpt": "... ... 롯데에서 도와준 삼성의 우승.jpg. 2. 강민호 선수가 롯데샤라웃 해줬네요 ... 자이언츠가 삼성라이온즈보다 자본…",
+  "metrics": {},
+  "scores": {
+    "hot": 8,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

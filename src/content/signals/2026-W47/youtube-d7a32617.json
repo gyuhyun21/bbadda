@@ -1,0 +1,27 @@
+{
+  "id": "youtube-d7a32617",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "스포픽",
+  "url": "https://www.youtube.com/watch?v=Yk20Cz4ERhM",
+  "title": "패닉바이 비난 딛고 일어선 기적 하지만 기다리고 있던 충격 결말 #프로야구 #케이티위즈 #야구리뷰 #역대급시즌",
+  "published_at": "2026-11-13T05:00:37Z",
+  "collected_at": "2026-11-13T07:37:55.177Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 406,
+    "likes": 1,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 34,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

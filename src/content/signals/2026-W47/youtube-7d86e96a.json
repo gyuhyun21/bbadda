@@ -1,0 +1,27 @@
+{
+  "id": "youtube-7d86e96a",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "야구인물사전",
+  "url": "https://www.youtube.com/watch?v=9z4Xwtkxpp8",
+  "title": "김민식 방출#shorts",
+  "published_at": "2026-11-13T02:30:33Z",
+  "collected_at": "2026-11-13T07:37:55.177Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 31439,
+    "likes": 595,
+    "comments": 29
+  },
+  "scores": {
+    "hot": 70,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

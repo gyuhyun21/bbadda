@@ -1,0 +1,24 @@
+{
+  "id": "community-eae279f5",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&document_srl=10549604074",
+  "title": "GM 회의 요약 - 야구",
+  "published_at": "2026-11-13T02:37:55.177Z",
+  "collected_at": "2026-11-13T07:37:55.177Z",
+  "summary_ko": "",
+  "excerpt": "... ... 자이언츠는 Logan Webb를 트레이드하지 않을 것.• 컵스는 Clay ... 롯데자이언츠 공식몰, 롯데온투혼투지 GO…",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}
