@@ -1,0 +1,24 @@
+{
+  "id": "community-d6e2541d",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&page=5&document_srl=10553075237",
+  "title": "올해의 인기 치어리더상 현재 1위 박소영, 2위 유세빈 - 야구",
+  "published_at": "2026-11-14T00:37:45.523Z",
+  "collected_at": "2026-11-14T03:37:45.523Z",
+  "summary_ko": "",
+  "excerpt": "... 한화팬들 감독탓 말고 하는게 대체 뭐임? 인기 구자욱 어렵다면 스톱갭 ... 한화; 10. 두산;…",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

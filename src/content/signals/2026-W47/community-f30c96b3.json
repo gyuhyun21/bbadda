@@ -1,0 +1,23 @@
+{
+  "id": "community-f30c96b3",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 한입만두님의블로그",
+  "url": "https://blog.naver.com/tkdlth1/224476546280",
+  "title": "[11월14일] 신한 쏠야구 퀴즈 / 위드퀴즈 / 오늘의 OX 퀴즈 정답",
+  "published_at": "2026-11-14T08:32:00.000+09:00",
+  "collected_at": "2026-11-14T03:37:45.523Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

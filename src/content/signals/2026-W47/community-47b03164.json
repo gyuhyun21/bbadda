@@ -1,0 +1,24 @@
+{
+  "id": "community-47b03164",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 오늘의 이슈 한눈에",
+  "url": "https://blog.naver.com/krc001/224476539919",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/8YaZRDgh4g2",
+  "title": "양준혁 자선야구 28일 고척돔 개최! 최지만·김서현 출격…입장권 예매는 언제 열릴까?",
+  "published_at": "2026-11-14T08:54:00.000+09:00",
+  "collected_at": "2026-11-14T03:37:45.523Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

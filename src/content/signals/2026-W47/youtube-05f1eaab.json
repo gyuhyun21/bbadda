@@ -1,0 +1,27 @@
+{
+  "id": "youtube-05f1eaab",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "크보도파민",
+  "url": "https://www.youtube.com/watch?v=mzWN9DtatGk",
+  "title": "준우승 아픔 삼키고 강민호 우승 축하해 준 우규민의 의리 [2026 한국시리즈]",
+  "published_at": "2026-11-14T02:00:38Z",
+  "collected_at": "2026-11-14T03:37:45.523Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 5,
+    "likes": 1,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 51,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

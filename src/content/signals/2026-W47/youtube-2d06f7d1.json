@@ -1,0 +1,27 @@
+{
+  "id": "youtube-2d06f7d1",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "크보이슈",
+  "url": "https://www.youtube.com/watch?v=uiDc2HaFChs",
+  "title": "코치가 말려도 배트를 못 놨다 #정현창",
+  "published_at": "2026-11-14T03:00:02Z",
+  "collected_at": "2026-11-14T03:37:45.523Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 423,
+    "likes": 9,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 55,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

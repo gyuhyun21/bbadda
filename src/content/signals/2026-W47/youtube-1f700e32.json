@@ -1,0 +1,24 @@
+{
+  "id": "youtube-1f700e32",
+  "issue": "2026-W47",
+  "module": "league",
+  "teams": [],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=CUmpWIKVvz8",
+  "title": "[크레레 선공개] 홈런을 위해 어퍼 스윙보다 먼저 해야하는 것은⚾⁉️",
+  "published_at": "2026-11-14T00:17:05Z",
+  "collected_at": "2026-11-14T03:37:45.523Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1803,
+    "likes": 18,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 55,
+    "relevance": 30
+  },
+  "sentiment": "positive"
+}

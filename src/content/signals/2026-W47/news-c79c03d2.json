@@ -1,0 +1,22 @@
+{
+  "id": "news-c79c03d2",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "재경일보",
+  "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5FWXB4cGJlUTRCcFFFTl9EWUxrYV93TnhDblV0dGQzS0RzM0E5NzFSZ3ZKTEJXUk1LbXh0a0pWS1VZbEk5M2tRYWhLQQ?oc=5",
+  "title": "LG트윈스 등 서울 프로팀 서울림운동회 물품 지원 : 스포츠",
+  "published_at": "2026-11-14T00:52:41.000Z",
+  "collected_at": "2026-11-14T03:37:45.523Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

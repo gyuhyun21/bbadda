@@ -1,0 +1,24 @@
+{
+  "id": "community-b6ada88e",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 여러분과 나의 어닝서프라이즈",
+  "url": "https://blog.naver.com/arsenal87_/224476569663",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/2N1xzxV7zoh",
+  "title": "2026 아시아 프로야구챔피언십 대한민국 vs 대만 정밀 분석 및 핵심 픽",
+  "published_at": "2026-11-14T09:07:00.000+09:00",
+  "collected_at": "2026-11-14T03:37:45.523Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

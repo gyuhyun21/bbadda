@@ -1,0 +1,24 @@
+{
+  "id": "community-2e8f1a47",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 엔터 로그",
+  "url": "https://blog.naver.com/core50000/224476315840",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/D8GIh0QWMoc",
+  "title": "하주석·한준수 이어 또 터졌다, 같은 팀 치어리더와 수년 열애 끝 11월 결혼하는 야구선수",
+  "published_at": "2026-11-14T00:52:00.000+09:00",
+  "collected_at": "2026-11-14T03:37:45.523Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

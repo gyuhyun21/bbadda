@@ -1,0 +1,27 @@
+{
+  "id": "youtube-440bbcfa",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "NC 다이노스",
+  "url": "https://www.youtube.com/watch?v=vO2ohGGTnjI",
+  "title": "모든 노력이 빛나는 순간까지 ✨#ncdinos #위풍당당 #거침없이가자 #2026 #수능응원",
+  "published_at": "2026-11-14T00:00:17Z",
+  "collected_at": "2026-11-14T03:37:45.523Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 5196,
+    "likes": 436,
+    "comments": 7
+  },
+  "scores": {
+    "hot": 93,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

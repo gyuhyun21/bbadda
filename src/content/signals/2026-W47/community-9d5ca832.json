@@ -1,0 +1,22 @@
+{
+  "id": "community-9d5ca832",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 먹고 마시고 떠나는 여행플래너 설로그",
+  "url": "https://blog.naver.com/spring136/224476543579",
+  "title": "서울 노량진 술집 호멜맥주 본점 야구중계 기아타이거즈 응원 후기",
+  "published_at": "2026-11-14T08:59:00.000+09:00",
+  "collected_at": "2026-11-14T03:37:45.523Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

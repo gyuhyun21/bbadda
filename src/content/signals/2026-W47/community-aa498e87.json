@@ -1,0 +1,24 @@
+{
+  "id": "community-aa498e87",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 꿀꿀이는행복해",
+  "url": "https://blog.naver.com/kkulkkul222-/224476330024",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/DcJgbCzGmXb",
+  "title": "\"'도쿄돔 침묵시킨 비거리 120m 동점포!'\" 김휘집 8회 극적 쓰리런 홈런",
+  "published_at": "2026-11-14T07:00:00.000+09:00",
+  "collected_at": "2026-11-14T03:37:45.523Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

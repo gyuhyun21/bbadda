@@ -1,0 +1,23 @@
+{
+  "id": "community-a426ecf0",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 엘라스티걸야구이야기",
+  "url": "https://blog.naver.com/kjae1214/224476296301",
+  "title": "​U-23 세계야구선수권대회 슈퍼라운드 대만전 1-6 패배! 호주전 일정 정리",
+  "published_at": "2026-11-14T00:24:00.000+09:00",
+  "collected_at": "2026-11-14T03:37:45.523Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}
