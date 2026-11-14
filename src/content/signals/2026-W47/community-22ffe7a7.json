@@ -1,0 +1,24 @@
+{
+  "id": "community-22ffe7a7",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 그레이스 트렌드 - 연예 스포츠 이슈 정보",
+  "url": "https://blog.naver.com/gracetrend/224476544220",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/BaCAB9jAzCX",
+  "title": "“또 야구장 커플이 나왔대요” 27세 동갑내기 최민준 이리안, 11월 29일 결혼식 앞두고 다시 보는 만남...",
+  "published_at": "2026-11-14T10:22:00.000+09:00",
+  "collected_at": "2026-11-14T09:37:38.689Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

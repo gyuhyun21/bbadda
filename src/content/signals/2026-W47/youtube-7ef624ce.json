@@ -1,0 +1,26 @@
+{
+  "id": "youtube-7ef624ce",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "MNK BASEBALL(MLB,NPB,KBO)",
+  "url": "https://www.youtube.com/watch?v=tGy4x9I7LgA",
+  "title": "삼성라이온즈의 승리를 가져오는 플레이오프 2차전 최형우의 쐐기포",
+  "published_at": "2026-11-14T08:03:02Z",
+  "collected_at": "2026-11-14T09:37:38.689Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 873,
+    "likes": 4,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 44,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

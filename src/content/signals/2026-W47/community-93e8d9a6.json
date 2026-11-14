@@ -1,0 +1,22 @@
+{
+  "id": "community-93e8d9a6",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 퇴근후 플레이볼",
+  "url": "https://blog.naver.com/ev-baseball/224476834068",
+  "title": "“B등급인 줄 알았는데 C등급?” 김호령 FA 대반전, KIA의 계산이 틀어졌다",
+  "published_at": "2026-11-14T14:50:00.000+09:00",
+  "collected_at": "2026-11-14T09:37:38.689Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

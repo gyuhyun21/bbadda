@@ -1,0 +1,23 @@
+{
+  "id": "community-853f6323",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 마데의 야구 칼럼",
+  "url": "https://blog.naver.com/da331/224476562483",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/FH34RfNSFkz",
+  "title": "[롯데 자이언츠] 47억 전준우의 마지막 해, 이대호를 넘으려면 91안타",
+  "published_at": "2026-11-14T14:52:00.000+09:00",
+  "collected_at": "2026-11-14T09:37:38.689Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

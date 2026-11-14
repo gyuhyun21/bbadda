@@ -1,0 +1,28 @@
+{
+  "id": "youtube-4f58f4fd",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "SSG랜더스",
+  "url": "https://www.youtube.com/watch?v=yp-nSiUHARg",
+  "title": "[전의산의 불타는 레벨업 캠프] \"반짝이라는 소리를 듣고 싶지 않아요\"…더 높은 곳을 향한 전의산의 각오",
+  "published_at": "2026-11-14T09:01:55Z",
+  "collected_at": "2026-11-14T09:37:38.689Z",
+  "summary_ko": "SSG 공식 채널이 '반짝'이라는 말을 듣고 싶지 않다는 전의산의 레벨업 캠프 각오 영상을 올렸다.",
+  "metrics": {
+    "views": 2612,
+    "likes": 263,
+    "comments": 74
+  },
+  "scores": {
+    "hot": 86,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "전의산, 반짝으로 끝내지 않는다"
+}

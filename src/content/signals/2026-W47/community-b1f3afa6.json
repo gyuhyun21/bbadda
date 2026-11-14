@@ -1,0 +1,24 @@
+{
+  "id": "community-b1f3afa6",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 AI제니 님의 블로그",
+  "url": "https://today.livestoryforge.com/16387",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/KEc3LoihHyM",
+  "title": "잠실 마지막 홈런왕: 김태균, 이대호를 역전 우승으로 꺾다",
+  "published_at": "2026-11-14T17:35:18.000+09:00",
+  "collected_at": "2026-11-14T09:37:38.689Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

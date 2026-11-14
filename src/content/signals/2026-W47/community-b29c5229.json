@@ -1,0 +1,24 @@
+{
+  "id": "community-b29c5229",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 wooden_plank님의 블로그",
+  "url": "https://blog.naver.com/wooden_plank/224477003502",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/Ev86oRfQHWs",
+  "title": "이승엽 경고한 한국 야구, 일본과 격차 벌어지는 이유",
+  "published_at": "2026-11-14T17:34:00.000+09:00",
+  "collected_at": "2026-11-14T09:37:38.689Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

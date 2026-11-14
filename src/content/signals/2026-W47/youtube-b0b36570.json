@@ -1,0 +1,26 @@
+{
+  "id": "youtube-b0b36570",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "source_name": "크보시리즈",
+  "url": "https://www.youtube.com/watch?v=jJJmcPA8-iA",
+  "title": "승짱·박뱅 0개, 홈런왕은 김태균 #한화이글스 #김태균",
+  "published_at": "2026-11-14T07:58:56Z",
+  "collected_at": "2026-11-14T09:37:38.689Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1292,
+    "likes": 13,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 50,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

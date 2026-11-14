@@ -1,0 +1,20 @@
+{
+  "id": "news-2db79d7c",
+  "issue": "2026-W47",
+  "module": "league",
+  "teams": [],
+  "source_type": "news",
+  "source_name": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20261114_0003868204",
+  "title": "'이기면 결승행' 한국, 라인업에 변화…김지찬 리드오프·김주원 3번 투입",
+  "published_at": "2026-11-14T09:21:21.000Z",
+  "collected_at": "2026-11-14T09:37:38.689Z",
+  "summary_ko": "뉴시스는 이기면 결승에 가는 한국이 대만전에서 김지찬을 1번, 김주원을 3번에 넣는 등 라인업을 바꿨다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "이기면 결승, 김지찬 1번·김주원 3번"
+}

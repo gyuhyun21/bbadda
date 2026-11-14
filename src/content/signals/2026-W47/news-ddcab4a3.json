@@ -1,0 +1,29 @@
+{
+  "id": "news-ddcab4a3",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "미주중앙일보",
+  "url": "https://www.koreadaily.com/article/20261113201052108",
+  "title": "9승 투수의 대반전, 가을엔 3승 무패 특급 에이스...삼성 12년 만의 우승 이끈 후라도, “내 임무 완수했다”",
+  "published_at": "2026-11-14T04:10:00.000Z",
+  "collected_at": "2026-11-14T09:37:38.689Z",
+  "summary_ko": "미주중앙일보는 정규시즌 9승 투수 후라도가 가을야구에서 3승 무패로 삼성 우승을 이끌고 임무를 완수했다고 말했다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 82,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5kbmtiMlpQYlhLMG00S01TeFdULV9WdjN0T0NGZE4zNmFaV1dGQnYwVVZVWFZqNDFRZ3JYVEo2QU9rSGNJZV9JOUxxSTRSbXFucThqLUhsZkVLOFpEdEIybTBGZVVnM3IzQ25FVkp4ONIBb0FVX3lxTE5kbmtiMlpQYlhLMG00S01TeFdULV9WdjN0T0NGZE4zNmFaV1dGQnYwVVZVWFZqNDFRZ3JYVEo2QU9rSGNJZV9JOUxxSTRSbXFucThqLUhsZkVLOFpEdEIybTBGZVVnM3IzQ25FVkp4OA?oc=5"
+    }
+  ],
+  "brief_ko": "가을 3승 무패, 후라도 임무 완수"
+}

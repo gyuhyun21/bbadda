@@ -1,0 +1,23 @@
+{
+  "id": "community-0a8303ff",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 도파민스포츠남자",
+  "url": "https://blog.naver.com/bojunman/224476519312",
+  "title": "한동희 선제포·김진욱 역전포 허용 한일전 경기 결과 총정리: 도쿄돔 승부처와 하이라이트 보는 곳",
+  "published_at": "2026-11-14T08:07:00.000+09:00",
+  "collected_at": "2026-11-14T09:37:38.689Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

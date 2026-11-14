@@ -1,0 +1,23 @@
+{
+  "id": "news-7cf0c281",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "마이데일리",
+  "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5Za3A2X2RndFBvUzBnS0RYVHYwY29SVngxaWRySlhsTTlhR3hwZXBwVVhpdHE5THBaREQwRURuUk5WRDZza0l2NHpBV25HSjNoc3EwLWVkb3NVcUhWT0NIdnRoc1MxZw?oc=5",
+  "title": "구자욱 이 선수들과 비교되다니! 진짜 미국 가나?…\"저렴하면서 매력적인 영입 대상\"",
+  "published_at": "2026-11-14T08:41:00.000Z",
+  "collected_at": "2026-11-14T09:37:38.689Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

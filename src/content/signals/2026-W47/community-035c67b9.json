@@ -1,0 +1,24 @@
+{
+  "id": "community-035c67b9",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/10553772737",
+  "title": "김휘집이 어제 잘한 이유 - 야구",
+  "published_at": "2026-11-14T06:37:38.689Z",
+  "collected_at": "2026-11-14T09:37:38.689Z",
+  "summary_ko": "",
+  "excerpt": "... 롯데 +1; 5. 김호령 -1; 6. 한화 +1; 7. 동희 new; 8. 김도영 new;…",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

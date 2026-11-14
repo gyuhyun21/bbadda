@@ -1,0 +1,30 @@
+{
+  "id": "news-1264327d",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스타뉴스",
+  "url": "https://www.starnewskorea.com/sports/2026/11/14/2026111413545753427",
+  "title": "\"김도영 정말 좋은 선수, 비난 멈춰줬으면\" 야유받던 국민타자가 제일 잘 안다, 한일전 부진에도 굳건했던 믿음 [잠실 현장]",
+  "published_at": "2026-11-14T05:32:12.000Z",
+  "collected_at": "2026-11-14T09:37:38.689Z",
+  "summary_ko": "스타뉴스는 이승엽이 한일전에서 부진한 김도영을 정말 좋은 선수라며 비난을 멈춰 달라고 했다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5jUXVocEJPRHI4Z1hmTHkzWkV4UHN0Q2RXMEIxMFc1U2xWX29GUk9OdmZ3T3A2X1ZIOUZFODlGMUYySVR5bWd3ek9zTFlNRG5CdDlGdHBNenRfQThERzhaWl9Gc21WaWNGTWduM1Nnb9IBb0FVX3lxTE5jUXVocEJPRHI4Z1hmTHkzWkV4UHN0Q2RXMEIxMFc1U2xWX29GUk9OdmZ3T3A2X1ZIOUZFODlGMUYySVR5bWd3ek9zTFlNRG5CdDlGdHBNenRfQThERzhaWl9Gc21WaWNGTWduM1Nnbw?oc=5"
+    }
+  ],
+  "brief_ko": "이승엽이 감싼 김도영"
+}

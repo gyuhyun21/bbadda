@@ -1,0 +1,24 @@
+{
+  "id": "community-f68cab7f",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 석봉이 엄마",
+  "url": "https://blog.naver.com/yuio98/224476843437",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/JSqYR4huXTF",
+  "title": "잠실야구장 마지막 경기, 레전드 매치와 홈런더비 한눈에 : 잠실 더 라스트 이닝",
+  "published_at": "2026-11-14T14:19:00.000+09:00",
+  "collected_at": "2026-11-14T09:37:38.689Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

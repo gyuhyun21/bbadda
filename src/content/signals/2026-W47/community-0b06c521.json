@@ -1,0 +1,24 @@
+{
+  "id": "community-0b06c521",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 스포츠 다이어리",
+  "url": "https://blog.naver.com/sportpulse/224476821326",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/JtbmBO5EFS",
+  "title": "\"김태군 내주면 기는 누가 앉지?” 25억 끝난 두 번째 FA, 포수 연쇄이동 시작될까?",
+  "published_at": "2026-11-14T15:20:00.000+09:00",
+  "collected_at": "2026-11-14T09:37:38.689Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

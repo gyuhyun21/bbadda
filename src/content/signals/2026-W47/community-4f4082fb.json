@@ -1,0 +1,24 @@
+{
+  "id": "community-4f4082fb",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&page=5&document_srl=10544046251",
+  "title": "맹체티노라 - 야구",
+  "published_at": "2026-11-10T15:00:00.000Z",
+  "collected_at": "2026-11-14T09:37:38.689Z",
+  "summary_ko": "",
+  "excerpt": "... 중견수 최대어 최지훈(29)이 SSG 랜더스와 사실상 합의 단계이고, FA 시장이 개장하면 그대로 계약서를 쓰는…",
+  "metrics": {},
+  "scores": {
+    "hot": 36,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

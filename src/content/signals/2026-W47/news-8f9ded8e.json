@@ -1,0 +1,23 @@
+{
+  "id": "news-8f9ded8e",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "OSEN",
+  "url": "https://www.osen.co.kr/article/G1112909860",
+  "title": "“정말 잘 데려왔다” 그 한마디 듣고 싶었다…삼성 우승 숨은 공신 야구인 2세 포수의 진심",
+  "published_at": "2026-11-14T05:35:00.000Z",
+  "collected_at": "2026-11-14T09:37:38.689Z",
+  "summary_ko": "OSEN은 삼성 우승의 숨은 공신인 야구인 2세 포수의 속마음을 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "brief_ko": "우승 숨은 공신, 야구인 2세 포수"
+}
