@@ -1,0 +1,24 @@
+{
+  "id": "community-0ba0cb46",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 오늘의 경기장",
+  "url": "https://blog.naver.com/dnl0315/224475036110",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/JvF4zbGjjHV",
+  "title": "“군대 다녀오더니 괴물 됐다?” 상무 전역 15명, KBO 판도 뒤흔드나",
+  "published_at": "2026-11-14T01:32:00.000+09:00",
+  "collected_at": "2026-11-14T03:37:45.523Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

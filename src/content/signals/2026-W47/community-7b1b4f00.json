@@ -1,0 +1,24 @@
+{
+  "id": "community-7b1b4f00",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&page=3&document_srl=10553053912",
+  "title": "정동윤 이 미친새끼 - 야구",
+  "published_at": "2026-11-14T00:37:45.523Z",
+  "collected_at": "2026-11-14T03:37:45.523Z",
+  "summary_ko": "",
+  "excerpt": "... 우리 서준이 삼성라이온즈 지명되고 나서. 7 분 전 자유 마검왕 조회115 추천3. 우리 서준이…",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

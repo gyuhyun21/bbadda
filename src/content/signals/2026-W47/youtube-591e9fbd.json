@@ -1,0 +1,26 @@
+{
+  "id": "youtube-591e9fbd",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "source_name": "썸타임즈Ssumtimes",
+  "url": "https://www.youtube.com/watch?v=h7tgZIKFCVI",
+  "title": "#허인서 #이재원 #한화이글스 #골든글러브 #포수 신인왕 포수 골든글러브 동시 수상 노리는 한화 허인서",
+  "published_at": "2026-11-14T01:00:15Z",
+  "collected_at": "2026-11-14T03:37:45.523Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 2034,
+    "likes": 36,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 62,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "news-ce7ff6fc",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://www.mt.co.kr/sports/2026/11/14/202611132231770775O",
+  "title": "‘삼성 우승 주역→MLB 복귀?’ ERA 2.95 페덱, 컵스가 주목할 가성비 FA로 지목",
+  "published_at": "2026-11-13T23:10:00.000Z",
+  "collected_at": "2026-11-14T03:37:45.523Z",
+  "summary_ko": "머니투데이는 평균자책점 2.95의 삼성 우승 주역 페덱이 시카고 컵스가 주목할 가성비 FA로 꼽혔다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 82,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1vdWZtaXFkUDNCYzJBbndiaFJOZVNrR0RZUUhOR3dCc0hxQURJaXR4X2xTMndlR1ZLNXVzYm1LM1dWZGgzNk5UblpsNFlnUHpGQXhqdA?oc=5"
+    }
+  ],
+  "brief_ko": "ERA 2.95 페덱, 컵스가 주목"
+}

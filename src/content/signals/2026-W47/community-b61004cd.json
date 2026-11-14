@@ -1,0 +1,24 @@
+{
+  "id": "community-b61004cd",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&page=5&document_srl=10551006400",
+  "title": "저도 먹어서 응원하겠습니다 - 야구",
+  "published_at": "2026-11-13T09:37:45.523Z",
+  "collected_at": "2026-11-14T03:37:45.523Z",
+  "summary_ko": "",
+  "excerpt": "... 거지구단타이거즈 기아 이미지콘 (2)(머인) ✚. 1. [레벨:25] 조원태 10 분 ... 기아 -1; 4.…",
+  "metrics": {},
+  "scores": {
+    "hot": 62,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

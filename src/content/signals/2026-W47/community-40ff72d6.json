@@ -1,0 +1,25 @@
+{
+  "id": "community-40ff72d6",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte",
+    "hanwha",
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "엠엘비파크",
+  "url": "https://mlbpark.donga.com/mp/b.php?b=kbotown&id=202611020119828571&m=view",
+  "title": "'어느덧' 우승 못한 기간, 롯데·한화 다음이라니... 삼성은 간절하다",
+  "published_at": "2026-11-01T00:00:00.000Z",
+  "collected_at": "2026-11-14T03:37:45.523Z",
+  "summary_ko": "",
+  "excerpt": "... 지난해까지 11년 동안 무관(無冠). 창단(2008년) 후 아직 정상에 오르지 못한 키움 히어로즈를 제외하면 롯데…",
+  "metrics": {},
+  "scores": {
+    "hot": 8,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

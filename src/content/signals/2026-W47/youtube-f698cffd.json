@@ -1,0 +1,27 @@
+{
+  "id": "youtube-f698cffd",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "갸파민",
+  "url": "https://www.youtube.com/watch?v=feUAUobebL8",
+  "title": "김호령, FA C등급이 뭐길래? #김호령",
+  "published_at": "2026-11-14T03:00:36Z",
+  "collected_at": "2026-11-14T03:37:45.523Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1496,
+    "likes": 25,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 59,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

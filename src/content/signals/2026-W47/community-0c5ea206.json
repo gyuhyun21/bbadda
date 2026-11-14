@@ -1,0 +1,24 @@
+{
+  "id": "community-0c5ea206",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&page=7&document_srl=10551692033",
+  "title": "실업야구한테 무기력하게짐",
+  "published_at": "2026-11-13T12:37:45.523Z",
+  "collected_at": "2026-11-14T03:37:45.523Z",
+  "summary_ko": "",
+  "excerpt": "... 최원호 LG 불펜 몰빵뭐야. 1 분 전 국?가대표 조세특례제한법 조회25 ... 가대표 오트윈스 조회21.…",
+  "metrics": {},
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

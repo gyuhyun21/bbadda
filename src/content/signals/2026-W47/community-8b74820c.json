@@ -1,0 +1,23 @@
+{
+  "id": "community-8b74820c",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 트렌드리딩",
+  "url": "https://trendreading.tistory.com/4",
+  "title": "2027 KBO FA 28명 공시, 등급별 보상과 일정",
+  "published_at": "2026-11-14T08:42:05.000+09:00",
+  "collected_at": "2026-11-14T03:37:45.523Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

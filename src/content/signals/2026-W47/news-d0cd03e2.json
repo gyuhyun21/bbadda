@@ -1,0 +1,23 @@
+{
+  "id": "news-d0cd03e2",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "뉴스1",
+  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9XcmhrSl8yYW9RZlhJMWRvcjZfMmxEMnUzb3ZNNXBHak9TbDZTaXBKdnNoVjM4QlhCUUNCeUd6WDFxRTNPSWQ3MHRjVktDdG92ZFhTZUdTMA?oc=5",
+  "title": "'ML 도전' 구자욱·원태인 향한 냉정한 평가…\"대박 계약은 어려울 것\"",
+  "published_at": "2026-11-13T22:00:00.000Z",
+  "collected_at": "2026-11-14T03:37:45.523Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "community-dc0ffb80",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 BBC 미디어센터",
+  "url": "https://blog.naver.com/sunhoo272/224476596511",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/DTcSqPF01QS",
+  "title": "예상 못한 FA 등급 하락, 김호령의 '대박'과 KIA의 '비상'",
+  "published_at": "2026-11-14T09:50:00.000+09:00",
+  "collected_at": "2026-11-14T03:37:45.523Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

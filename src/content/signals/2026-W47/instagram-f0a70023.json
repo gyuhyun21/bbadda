@@ -1,0 +1,27 @@
+{
+  "id": "instagram-f0a70023",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "instagram",
+  "official": true,
+  "source_name": "Instagram @always_kia_tigers",
+  "url": "https://www.instagram.com/reel/DftKJzCz0rB/",
+  "title": "KIA 타이거즈 공식 인스타그램: 훈련일 오전을 여는 러닝☀✋🏻",
+  "published_at": "2026-11-14T02:45:15+0000",
+  "collected_at": "2026-11-14T03:37:45.523Z",
+  "summary_ko": "KIA 공식 인스타그램이 훈련일 오전을 여는 러닝 모습을 올렸다.",
+  "metrics": {
+    "likes": 2343,
+    "comments": 5
+  },
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "훈련일 오전 여는 러닝"
+}

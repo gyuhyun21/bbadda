@@ -1,0 +1,22 @@
+{
+  "id": "news-951bdd63",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "위키트리",
+  "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Xd1BtYXotX282MkV1ZHNKSFVNRUEzNzdOMDh4YlJkU0duYVkyQmE3T1lFSU44dnpYRHhCQVRvMmJfcktTMTdGaVEzM191cV9xbXM4YnpB?oc=5",
+  "title": "삼성 우승 이끈 박승규, 예비신부 정체는 놀랍게도 금메달리스트 '이 사람'",
+  "published_at": "2026-11-14T03:30:00.000Z",
+  "collected_at": "2026-11-14T03:37:45.523Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 80
+  },
+  "sentiment": "positive"
+}

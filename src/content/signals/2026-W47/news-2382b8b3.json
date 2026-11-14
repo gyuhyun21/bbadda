@@ -1,0 +1,23 @@
+{
+  "id": "news-2382b8b3",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "MHN스포츠",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9CN3FITllOQWx4dHZWckp5S0ozd3hVNGlLaENieVdObDdHdjlpUWFWVmU3bldpTWtXTFEyTFgxcmhsVDlBWER1b1Z2d3ZyVk5fMVc1ajRLLXJEeGtqZ05LaUcyZw?oc=5",
+  "title": "“구자욱 ML행? 안 될 것 없다”…나이 빼곤 약점 없다, 아차! 부상도 조금…",
+  "published_at": "2026-11-13T05:27:35.000Z",
+  "collected_at": "2026-11-14T03:37:45.523Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 60,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

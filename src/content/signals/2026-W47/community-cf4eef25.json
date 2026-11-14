@@ -1,0 +1,23 @@
+{
+  "id": "community-cf4eef25",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 오늘의 스포츠 직구",
+  "url": "https://blog.naver.com/thermdlkitchen/224476435990",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/8ZZ9ESl6wC7",
+  "title": "\"65억 몸값의 추락\" 눈치 빠른 롯데, 박동원 영입으로 2027시즌 승부수 띄우나? 에이징 커브 우려도...",
+  "published_at": "2026-11-14T09:24:00.000+09:00",
+  "collected_at": "2026-11-14T03:37:45.523Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

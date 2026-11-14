@@ -1,0 +1,24 @@
+{
+  "id": "community-a64bfea4",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 Everyday Discoveries",
+  "url": "https://blog.naver.com/viewjw/224476556224",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/4IXD4QiJBrn",
+  "title": "APBC 풀리그란(라운드 로빈 방식) 대한민국 국가대표 선발기준 참가국들이 한 번씩 서로 맞붙는 경기...",
+  "published_at": "2026-11-14T08:48:00.000+09:00",
+  "collected_at": "2026-11-14T03:37:45.523Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "community-735b1e01",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 졸린골퍼와 함께하는 골프여행",
+  "url": "https://blog.naver.com/danbi0486/224476544742",
+  "title": "45홈런 김도영도 메이저리그는 무리? 나흘 쉬고 대표팀 갔더니 돌아온 혹평",
+  "published_at": "2026-11-14T08:30:00.000+09:00",
+  "collected_at": "2026-11-14T03:37:45.523Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

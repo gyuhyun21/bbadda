@@ -1,0 +1,24 @@
+{
+  "id": "community-4b170d5d",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha",
+    "doosan"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 GOOD NEWS",
+  "url": "https://blog.naver.com/livenews101/224476584446",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/LYhHyGdIRgB",
+  "title": "한화 복덩이 출신 리베라토, 3안타 맹타로 부진 탈출! 두산 출신 투수 첫 승 견인",
+  "published_at": "2026-11-14T09:30:00.000+09:00",
+  "collected_at": "2026-11-14T03:37:45.523Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

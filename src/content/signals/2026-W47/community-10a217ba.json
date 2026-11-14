@@ -1,0 +1,25 @@
+{
+  "id": "community-10a217ba",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "hanwha",
+    "lotte"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 inno7282님의 블로그",
+  "url": "https://blog.naver.com/inno7282/224474644657",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/1QD0H6nSnxe",
+  "title": "“KIA가 도대체 얼마 불렀길래?”…김호령 두 번이나 계약 거절, 한화·롯데가 웃을까",
+  "published_at": "2026-11-14T11:30:00.000+09:00",
+  "collected_at": "2026-11-14T03:37:45.523Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

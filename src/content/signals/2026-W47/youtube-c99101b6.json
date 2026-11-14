@@ -1,0 +1,26 @@
+{
+  "id": "youtube-c99101b6",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "보겸",
+  "url": "https://www.youtube.com/watch?v=VLthDYiw6VY",
+  "title": "#기아타이거즈 #컴투스프로야구v26 #canada #edmonton #캐나다 #에드먼턴 #호수비 #홈런 #카스트로 #박정우 #김호령 #나성범 #성영탁 #송구",
+  "published_at": "2026-11-14T01:26:47Z",
+  "collected_at": "2026-11-14T03:37:45.523Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 264,
+    "likes": 5,
+    "comments": 2
+  },
+  "scores": {
+    "hot": 56,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

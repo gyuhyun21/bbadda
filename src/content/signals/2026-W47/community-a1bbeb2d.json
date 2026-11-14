@@ -1,0 +1,30 @@
+{
+  "id": "community-a1bbeb2d",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "community",
+  "announcement": true,
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=starcraft&document_srl=10553390087",
+  "title": "야구) [오피셜] 삼성 백정현 은퇴 - 스타크래프트",
+  "published_at": "2026-11-14T03:18:45.523Z",
+  "collected_at": "2026-11-14T03:37:45.523Z",
+  "summary_ko": "",
+  "excerpt": "... 엥?백쇼 벌써 은퇴할때야? 시간 많이 흘렀구나 그만큼 나도 나이 들었나보구나. 댓글 쓰기. 댓글 작성…",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9yNVRLT2FNcHo5N2QzczN0WlRwYnBDUzBmUVdWeEIxR1BMLTVzQzdETVB6TldKR1Z5RkUxclprREVQenNVZHdMUXgzRzhVN1puTlltSA?oc=5"
+    }
+  ]
+}

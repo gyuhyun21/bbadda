@@ -1,0 +1,24 @@
+{
+  "id": "community-a467a8ee",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 스포츠보고",
+  "url": "https://blog.naver.com/sprotbogo/224476597535",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/GWG3njC0Fni",
+  "title": "KBO FA 28명 전격 공시, 원태인·구자욱도 포함된 이유는",
+  "published_at": "2026-11-14T11:31:00.000+09:00",
+  "collected_at": "2026-11-14T03:37:45.523Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

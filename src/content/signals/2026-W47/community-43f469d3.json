@@ -1,0 +1,23 @@
+{
+  "id": "community-43f469d3",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 샤방이의 패션ㆍ연예ㆍ뷰티 소식",
+  "url": "https://blog.naver.com/mylove-golfstory/224476494126",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/6Q5TZ241yiv",
+  "title": "\"오디션 두 번 나선 연습생\" 데뷔 첫해 도쿄돔 응원단 오른 키움 치어리더 최혜린의 반전 이력",
+  "published_at": "2026-11-14T07:55:00.000+09:00",
+  "collected_at": "2026-11-14T03:37:45.523Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}
