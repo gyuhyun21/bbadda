@@ -1,0 +1,24 @@
+{
+  "id": "community-d2e3ae89",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 똑카의 정보 바구니",
+  "url": "https://blog.naver.com/birdrosy_work/224476935400",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/HfugOrexEeH",
+  "title": "2026년 11월 14일 차이니스 타이베이 vs 대한민국 APBC 경기 전력분석 | 이로운 vs 쉬샹성 선발",
+  "published_at": "2026-11-14T16:31:00.000+09:00",
+  "collected_at": "2026-11-14T09:37:38.689Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

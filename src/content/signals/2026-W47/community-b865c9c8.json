@@ -1,0 +1,23 @@
+{
+  "id": "community-b865c9c8",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 우진스의 이야기",
+  "url": "https://blog.naver.com/dnwls01335/224477009693",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/3PQNRLZm4S2",
+  "title": "페덱 몫은 130만 달러라는데 우승 마무리한테 이게 되나, 삼성 상한제가 이상한데?",
+  "published_at": "2026-11-14T17:42:00.000+09:00",
+  "collected_at": "2026-11-14T09:37:38.689Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

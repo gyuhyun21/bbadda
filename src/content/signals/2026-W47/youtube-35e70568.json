@@ -1,0 +1,26 @@
+{
+  "id": "youtube-35e70568",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "youtube",
+  "source_name": "베샥",
+  "url": "https://www.youtube.com/watch?v=x5kE2TuqApg",
+  "title": "이 KT 응원가 누구 건지 아시나요? ⚾ #shorts #KT위즈 #응원가 #KBO",
+  "published_at": "2026-11-14T05:21:51Z",
+  "collected_at": "2026-11-14T09:37:38.689Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 283,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 33,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

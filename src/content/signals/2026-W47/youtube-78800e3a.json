@@ -1,0 +1,27 @@
+{
+  "id": "youtube-78800e3a",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "SSG랜더스",
+  "url": "https://www.youtube.com/watch?v=RJLv1v-mdqE",
+  "title": "앞으로도 함께할 우리의 아빌라❤️",
+  "published_at": "2026-11-14T05:00:09Z",
+  "collected_at": "2026-11-14T09:37:38.689Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 26507,
+    "likes": 1464,
+    "comments": 264
+  },
+  "scores": {
+    "hot": 100,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

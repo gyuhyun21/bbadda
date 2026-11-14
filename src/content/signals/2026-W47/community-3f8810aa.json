@@ -1,0 +1,24 @@
+{
+  "id": "community-3f8810aa",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 슬기로운스포츠",
+  "url": "https://blog.naver.com/pdgyu95/224476819111",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/Aeyvwa2mLbL",
+  "title": "[속보]“김진욱 혼자 일본 막느라 고생했는데 이게 무슨 참사인가..” 선발 내려가자 3이닝 7실점, 결국...",
+  "published_at": "2026-11-14T17:21:00.000+09:00",
+  "collected_at": "2026-11-14T09:37:38.689Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

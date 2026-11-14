@@ -1,0 +1,29 @@
+{
+  "id": "community-41341c37",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 AI제니 님의 블로그",
+  "url": "https://today.livestoryforge.com/16390",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/HBOpasN7dq",
+  "title": "함덕주, 옵트아웃 행사로 LG와 6년 동행 마무리…타 팀과 자유로운 협상 시작",
+  "published_at": "2026-11-14T18:35:58.000+09:00",
+  "collected_at": "2026-11-14T09:37:38.689Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "www.xportsnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1jeUF5UDNjUXZWVHhjWE5XWG1tNUpyNXpxdGNuYzB0NVJ3bEZoSUhjX2pBU0FNUVM5UEdmT3lzV0VyRkx6dkl3dVZCb203RGNjSmFFWA?oc=5"
+    }
+  ]
+}

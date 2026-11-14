@@ -1,0 +1,23 @@
+{
+  "id": "community-42b5b3b1",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 서믈리에, 와인 스토리텔러",
+  "url": "https://blog.naver.com/seommeliere/224476914146",
+  "title": "[호기심 왜참아] 또 졌어? 한일전 야구 12연패, 한국이 일본을 마지막으로 이긴 날은 언제? 2015년 도쿄...",
+  "published_at": "2026-11-14T15:44:00.000+09:00",
+  "collected_at": "2026-11-14T09:37:38.689Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

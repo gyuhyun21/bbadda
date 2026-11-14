@@ -1,0 +1,23 @@
+{
+  "id": "community-bec03473",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 마데의 야구 칼럼",
+  "url": "https://blog.naver.com/da331/224476560727",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/50RKMNwAPFS",
+  "title": "[NC 다이노스] 5천만 원에 돌아온 2,655안타 손아섭, 누구 자리를 뺏나",
+  "published_at": "2026-11-14T12:00:00.000+09:00",
+  "collected_at": "2026-11-14T09:37:38.689Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "community-d3b25cf6",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 Sunny’s record",
+  "url": "https://blog.naver.com/sunny_record/224476739333",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/1XdVQgenLIC",
+  "title": "[KBO 크보 소식] 2026 아시아프로야구챔피언십 2연패 대한민국 결승 진출 가능할까? | apbc 대만전 경우...",
+  "published_at": "2026-11-14T12:20:00.000+09:00",
+  "collected_at": "2026-11-14T09:37:38.689Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

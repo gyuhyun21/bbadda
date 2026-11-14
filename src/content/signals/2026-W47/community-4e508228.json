@@ -1,0 +1,24 @@
+{
+  "id": "community-4e508228",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 스포츠 헌터의 핫이슈 브리핑",
+  "url": "https://blog.naver.com/tongtii/224477018774",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/8YJznNpw9q0",
+  "title": "⚾ '결승행 사활' 한국 대만전, 김지찬 리드오프 파격 전진! '우승 기운' 터질까?",
+  "published_at": "2026-11-14T17:53:00.000+09:00",
+  "collected_at": "2026-11-14T09:37:38.689Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "community-012ae228",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "엠엘비파크",
+  "url": "https://mlbpark.donga.com/mp/b.php?id=202611090120014496&p=1&b=bullpen&m=view&site=donga.com",
+  "title": "타이거즈 라이온즈 모두 홈구장에서 최근 우승이 신구장 개장 10주년 ...",
+  "published_at": "2026-11-08T15:00:00.000Z",
+  "collected_at": "2026-11-14T09:37:38.689Z",
+  "summary_ko": "",
+  "excerpt": "... 이대로면 2029년 NC 다이노스 엔팤에서 우승? LG 두산은 신구장도 공유라 두팀 중에 한팀만 가능.…",
+  "metrics": {},
+  "scores": {
+    "hot": 18,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

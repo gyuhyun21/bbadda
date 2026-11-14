@@ -1,0 +1,26 @@
+{
+  "id": "youtube-8abe2632",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "source_name": "데이터팝 DataPop",
+  "url": "https://www.youtube.com/watch?v=ru_1DHlcY_0",
+  "title": "홈런 1위인데 9위…한화의 마운드에 무슨 일이? #한화이글스 #한화FA",
+  "published_at": "2026-11-14T08:54:34Z",
+  "collected_at": "2026-11-14T09:37:38.689Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 0,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

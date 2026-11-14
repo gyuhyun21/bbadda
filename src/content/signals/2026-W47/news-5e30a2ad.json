@@ -1,0 +1,24 @@
+{
+  "id": "news-5e30a2ad",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠월드",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBOREtIMXVEOFBUMmotdTdldzBENzZ0Mzg3aE5jZG9rRHMtcm5qX2pWNWV3eUZfa1hDb0Zqcy15aUNHeklPMW54ejEzWldwckRCTjEtZXpxWGE1Y3VrTjJPeHFn?oc=5",
+  "title": "[SW비하인드] 101승 쌓은 마운드 앞에서 한참을… 유희관의 특별한 ‘잠실 작별’",
+  "published_at": "2026-11-14T08:49:57.000Z",
+  "collected_at": "2026-11-14T09:37:38.689Z",
+  "summary_ko": "스포츠월드는 101승을 쌓은 유희관이 잠실 마운드 앞에서 한참을 머물며 특별한 작별을 했다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "101승 유희관의 잠실 작별"
+}

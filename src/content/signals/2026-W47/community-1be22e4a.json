@@ -1,0 +1,23 @@
+{
+  "id": "community-1be22e4a",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 지금 이 이슈",
+  "url": "https://blog.naver.com/nowmoon101/224476848283",
+  "title": "C등급 FA 김호령, 예상 밖의 '대박' 가능성…구단들의 군침 도는 이유",
+  "published_at": "2026-11-14T14:30:00.000+09:00",
+  "collected_at": "2026-11-14T09:37:38.689Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

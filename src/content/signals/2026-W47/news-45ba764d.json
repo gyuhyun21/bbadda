@@ -1,0 +1,24 @@
+{
+  "id": "news-45ba764d",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Xa3g1dnF5WlJoSkhqalpyNkRvQTJBbnR2Yjl3ZDJJQlFtUmlYRGs3X2lqQnZacm9Kek44TkhTcjNRZENLM0JlNjdQQnVwUi1UNUFZRjZYb2pqQkJkT1VZY1FZRE1JRDhYVlHSAW9BVV95cUxNRnFpYVVjcWw4ZmI1aGxva2lZRUZOYVlMNG54bTlfeXFMVENLTGxJUVp3RDdDNXlVMlhyT3paTXFLRkVxcWd2MWdNWVFBVXE2YUM3U2IzdngzS3ZRWFVCSnhFYWpnYnh5bm9FVWdodWc?oc=5",
+  "title": "알고리즘에 야구만 뜬다, ML 시청이 취미라니…야구만 생각하는 19세 특급 내야수, '리틀 이호준' 거듭나나",
+  "published_at": "2026-11-14T08:19:00.000Z",
+  "collected_at": "2026-11-14T09:37:38.689Z",
+  "summary_ko": "머니투데이는 야구만 생각하는 NC 19세 특급 내야수가 '리틀 이호준'으로 거듭날지 주목했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "19세 내야수, 리틀 이호준 될까"
+}

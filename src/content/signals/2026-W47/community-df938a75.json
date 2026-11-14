@@ -1,0 +1,24 @@
+{
+  "id": "community-df938a75",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&page=3&document_srl=10547077553",
+  "title": "도영군 신기하긴 하네 - 야구",
+  "published_at": "2026-11-11T15:00:00.000Z",
+  "collected_at": "2026-11-14T09:37:38.689Z",
+  "summary_ko": "",
+  "excerpt": "... 칼럼이아니라씨발럼) SSG 랜더스의 새로운 선발투수, Lyon Richardson(라이언 리차드슨) 알아보기 [9].",
+  "metrics": {},
+  "scores": {
+    "hot": 44,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

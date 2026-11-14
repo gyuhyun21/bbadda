@@ -1,0 +1,22 @@
+{
+  "id": "community-9ebabcd7",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 돈 되는 경제 이야기",
+  "url": "https://blog.naver.com/enqqudwaks/224476849586",
+  "title": "KIA 김도영 MLB 현지 평가 충격! 통산 타율 0.310인데 타격 20점? 미국 진출 가능할까",
+  "published_at": "2026-11-14T14:58:00.000+09:00",
+  "collected_at": "2026-11-14T09:37:38.689Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

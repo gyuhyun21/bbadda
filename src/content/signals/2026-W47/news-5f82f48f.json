@@ -1,0 +1,24 @@
+{
+  "id": "news-5f82f48f",
+  "issue": "2026-W47",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBmLVQ3RG5MMlFmclo3WUhRUzV4Ykd4bUh0QkotSG5nWjlfOHAtMk90Xzk1b2RMUkZNVF81aVR2NkVKYTJncUd6TnkxQVZmbzFuR3Y3TkhxRkZHQUdBVmxELUtWTnVCUXBHQkHSAW9BVV95cUxNRDdDZGNQWDFLbUJMQldUNFdONFZPdUZUSlRJUmdGYi1tV05jeS16NENpRWtHU0pIMXRtaGViUVJUT05CeENoQkoxMmhIcXdQS29Yd293V2NISjNKb0lfLVdvdE4xMkVtM1FGT2JTTDQ?oc=5",
+  "title": "3년 전 지켜보기만 했는데…도쿄돔 3만8385명 앞 첫 선발, 허인서의 한일전은 어땠나 \"재미있게 했다\" [오!쎈 도쿄]",
+  "published_at": "2026-11-14T09:30:00.000Z",
+  "collected_at": "2026-11-14T09:37:38.689Z",
+  "summary_ko": "머니투데이는 3년 전엔 지켜보기만 했던 한화 허인서가 도쿄돔 3만8385명 앞에서 한일전 첫 선발로 나서 재미있게 했다고 말했다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "허인서, 3만8385명 앞 첫 선발"
+}

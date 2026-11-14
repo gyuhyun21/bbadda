@@ -1,0 +1,24 @@
+{
+  "id": "community-9886afcc",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 마데의 야구 칼럼",
+  "url": "https://blog.naver.com/da331/224476650455",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/3Mx2Ma1uPBy",
+  "title": "[KBO] 새 감독 46명의 첫해, 이범호 같은 우승은 4번이었다",
+  "published_at": "2026-11-14T15:00:00.000+09:00",
+  "collected_at": "2026-11-14T09:37:38.689Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

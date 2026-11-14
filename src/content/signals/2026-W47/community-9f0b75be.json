@@ -1,0 +1,24 @@
+{
+  "id": "community-9f0b75be",
+  "issue": "2026-W47",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 냉철한뉴스",
+  "url": "https://news.10tropicalplant.com/89",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/Ag6bMHHfbjS",
+  "title": "[잠실 더 라스트 이닝] 김성근·김인식·이승엽·이대호 총출동…라인업 61명·홈런더비·KBS·치지직...",
+  "published_at": "2026-11-14T14:42:20.000+09:00",
+  "collected_at": "2026-11-14T09:37:38.689Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}
