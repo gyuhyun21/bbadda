@@ -25,13 +25,17 @@ upload() {
   git worktree add -q /tmp/media origin/insta-media
   ( cd /tmp/media && git checkout -q -B insta-media && mkdir -p "reel/$2" && cp "$1" "reel/$2/reel.mp4" && git add reel && git commit -qm "reel: $2" && git push -q origin insta-media )
   # 올린 직후 jsDelivr 가 403·404 를 줄 때가 있다(2026-11-13·16) — 열릴 때까지 30초 간격 10번 확인하고 나서 인스타에 넘긴다
-  local url="https://cdn.jsdelivr.net/gh/${GITHUB_REPOSITORY}@insta-media/reel/$2/reel.mp4" code=""
-  for t in $(seq 1 10); do
-    code=$(curl -sS -o /dev/null -I --max-time 60 -w '%{http_code}' "$url" 2>/dev/null || true)
+  # 한 실행에서 한 번 미열림이면 뒤 upload 는 1번만 본다 — 4번 다 기다리면 잡 25분 제한에 걸려 요약이 안 남는다(BUG-BB371-1). upload 는 $( ) 안에서 돌아 변수 대신 파일로 표시
+  local url="https://cdn.jsdelivr.net/gh/${GITHUB_REPOSITORY}@insta-media/reel/$2/reel.mp4" code="" n=10
+  [ -f /tmp/jsd-down ] && n=1
+  for t in $(seq 1 $n); do
+    code=$(curl -sS -o /dev/null -I --max-time 30 --connect-timeout 10 -w '%{http_code}' "$url" 2>/dev/null || true)
     [ "$code" = 200 ] && { echo "$url"; return 0; }
-    echo "jsDelivr ${code:-응답 없음} — 30초 뒤 다시($t/10)" >&2; sleep 30
+    [ "${code:-000}" = 000 ] && code="응답 없음"
+    [ "$t" -lt "$n" ] && { echo "jsDelivr $code — 30초 뒤 다시($t/$n)" >&2; sleep 30; }
   done
-  say "jsDelivr 미열림(${code:-응답 없음}): $url" >&2; return 1
+  touch /tmp/jsd-down
+  say "jsDelivr 미열림($code): $url" >&2; return 1
 }
 # 같은 본문이 최근 게시물에 있으면 0(이미 게시)
 posted_caption() { curl -sS -f -H "$AUTH" "$G/$IG/media?fields=caption&limit=15" | jq -e --rawfile c "$1" 'any(.data[]; (.caption // "") == ($c | rtrimstr("\n")))' >/dev/null; }
@@ -76,7 +80,10 @@ cards_post() {
   jq -n --argjson n "$n" '{music:"bgm-morning", segments:[range(1; $n + 1) | {src:"\(.).jpg", fit:true, dur:(if . == 1 then 3.5 else 3 end)}]}' > "$dir/reel.json"
   git show "origin/insta-media:$key/post.json" | jq -r '.caption' | sed '1s/^/🎬 요약 | /' > /tmp/cap.txt
   npx tsx scripts/insta/reel-make.ts "$dir" /tmp/reel.mp4
-  say "대체 릴스(카드 $key, ${n}장): $(bash scripts/insta/reel.sh "$(upload /tmp/reel.mp4 "$D-cards")" /tmp/cap.txt)"
+  # 올리기에 실패하면 빈 주소로 reel.sh 를 부르지 않고 실패로 끝낸다
+  local url; url=$(upload /tmp/reel.mp4 "$D-cards") || { say "대체 릴스 실패: 영상 올리기(카드 $key)"; return 1; }
+  local res; res=$(bash scripts/insta/reel.sh "$url" /tmp/cap.txt) || { say "대체 릴스 실패: 게시(카드 $key) $res"; return 1; }
+  say "대체 릴스(카드 $key, ${n}장): $res"
 }
 
 # 점심 칸: 큐의 "lunch" 칸(날짜 → "pool/<편>")에 오늘 것이 있으면 그 편(이미 올렸으면 main_post 가 건너뜀), 없으면 어제 점심 편이 게시 안 됐을 때 그 편, 아니면 큐 어디에도 없는 가장 앞 번호 편.

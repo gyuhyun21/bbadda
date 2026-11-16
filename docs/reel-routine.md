@@ -10,7 +10,7 @@ claude.ai 루틴 'BBADDA 릴스(매일)'(trig_01X6qpmccCS2Ef62Hm5mGK3g)는 대�
 **맥 실행(2026-10-26~ 주 실행, 주인 결정):** 주인의 맥미니(늘 켜 둠)가 매일 07:17 · 오후(평일 17:17 / 주말 13:17) · 22:45 KST 에 같은 프롬프트를 실행한다(`scripts/insta/reel-local.sh [아침|오후|저녁]`, launchd `com.bbadda.reel`, 전용 사본 `~/mac-mini21/projects/BBADDA-reel`, 기록 `~/Library/Logs/bbadda-reel.log`). 칸을 안 주면 실행 시각으로 정한다(12시 전 아침, 12~21시 오후, 21시 뒤 저녁). 맥은 유튜브에서 영상을 받을 수 있어 3-2(실제 영상)를 쓴다. 맥이 이미 만든 칸은 0단계에서 끝난다(서버라 3-2 는 건너뜀).
 목표는 좋아요·댓글·사이트 유입. 카드 세트(ig-auto)를 되풀이하지 말고, 그날 가장 이야깃거리가 되는 소식 하나를 짧은 이야기로 만든다.
 재료는 `media/insta/`(public 밖)에 둔다 — public 에 두면 사이트 배포마다 복사되어 Vercel 용량이 급증한다(2026-10-24).
-흐름: 루틴이 재료(그림·짧은 영상·목소리)와 `reel.json` 을 `media/insta/<날짜>-reel/` 에 올리고 `reel-queue.json` 에 오늘 항목을 넣어 머지 → `ig-reel.yml` 이 영상을 조립(`scripts/insta/reel-make.ts`)해 게시. 게시 전에 insta-media 에 올린 영상의 jsDelivr 주소가 열리는지 30초 간격 10번 확인하고, 끝까지 안 열리면 실행 요약에 「jsDelivr 미열림」을 남기고 그 편은 실패로 둔다(2026-11-17, `scripts/insta/reel-run.sh` upload).
+흐름: 루틴이 재료(그림·짧은 영상·목소리)와 `reel.json` 을 `media/insta/<날짜>-reel/` 에 올리고 `reel-queue.json` 에 오늘 항목을 넣어 머지 → `ig-reel.yml` 이 영상을 조립(`scripts/insta/reel-make.ts`)해 게시. 게시 전에 insta-media 에 올린 영상의 jsDelivr 주소가 열리는지 30초 간격 10번 확인하고, 끝까지 안 열리면 실행 요약에 「jsDelivr 미열림」을 남기고 그 편은 실패로 둔다. 한 실행에서 한 번 미열림이 나면 뒤 편은 1번만 확인한다(2026-11-17, `scripts/insta/reel-run.sh` upload).
 첫 사례: `media/insta/2026-10-24-po1-typhoon`(PO 1차전 + 태풍 + 2년 전 서스펜디드).
 
 ```
