@@ -1,0 +1,27 @@
+{
+  "id": "youtube-37645fae",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "블루리포트",
+  "url": "https://www.youtube.com/watch?v=IYpBuUaY__c",
+  "title": "시즌 아웃에서 KS MVP까지 | 삼성라이온즈 2026시즌 결산 ④",
+  "published_at": "2026-11-16T12:00:06Z",
+  "collected_at": "2026-11-16T13:37:49.363Z",
+  "summary_ko": "한 삼성 팬 채널이 시즌 아웃에서 한국시리즈 MVP까지 이어진 2026시즌을 결산했다.",
+  "metrics": {
+    "views": 288,
+    "likes": 2,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 36,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "brief_ko": "시즌 아웃에서 KS MVP까지"
+}

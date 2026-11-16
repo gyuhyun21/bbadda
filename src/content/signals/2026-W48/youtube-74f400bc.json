@@ -1,0 +1,27 @@
+{
+  "id": "youtube-74f400bc",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "팡일킴",
+  "url": "https://www.youtube.com/watch?v=mfsfnM4ZFlA",
+  "title": "상대팀인데 응원가가 이렇게 무섭다고? 😳 #Shorts #KBO #기아타이거즈 #KIA #SSG #김재환 #챔피언스필드 #프로야구 #야구",
+  "published_at": "2026-11-16T11:47:35Z",
+  "collected_at": "2026-11-16T13:37:49.363Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 362,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 31,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

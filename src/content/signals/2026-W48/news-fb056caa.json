@@ -1,0 +1,23 @@
+{
+  "id": "news-fb056caa",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "news",
+  "source_name": "네이트",
+  "url": "https://m.news.nate.com/view/20261116n27586",
+  "title": "SSG, '42억' 이후 6년 만 외부 FA 나선다! S급 최대어 품나?…\"최지훈 세부 조율 단계, 내부 3명 다 잡을 것\"",
+  "published_at": "2026-11-16T07:40:00.000Z",
+  "collected_at": "2026-11-16T13:37:49.363Z",
+  "summary_ko": "보도에 따르면 SSG가 6년 만에 외부 FA 영입에 나서고, 최지훈과는 세부 조율 단계다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "6년 만에 외부 FA 나선다"
+}

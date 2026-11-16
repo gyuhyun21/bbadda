@@ -1,0 +1,27 @@
+{
+  "id": "youtube-9ea32068",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "광주일보",
+  "url": "https://www.youtube.com/watch?v=snmyLzHh9T0",
+  "title": "박상준·황석민, 영동대 듀오의 도전 | KIA타이거즈 | 박상준 | 황석민 | 마무리캠프 | 오키나와 | 2027시즌 함께 웃자",
+  "published_at": "2026-11-16T13:09:28Z",
+  "collected_at": "2026-11-16T13:37:49.363Z",
+  "summary_ko": "광주일보 채널이 오키나와 마무리캠프에 나선 KIA 영동대 출신 박상준·황석민의 도전을 다뤘다.",
+  "metrics": {
+    "views": 458,
+    "likes": 53,
+    "comments": 3
+  },
+  "scores": {
+    "hot": 73,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "영동대 듀오 박상준·황석민"
+}

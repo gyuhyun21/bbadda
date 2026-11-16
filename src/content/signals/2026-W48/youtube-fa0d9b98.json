@@ -1,0 +1,27 @@
+{
+  "id": "youtube-fa0d9b98",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "명운스포츠",
+  "url": "https://www.youtube.com/watch?v=QV5p4_avUtM",
+  "title": "사주팔자로 봤을 때, 2026 유격수 골든글러브 주인은 이미 정해져있습니다 | 박성한 vs 김주원",
+  "published_at": "2026-11-16T10:00:12Z",
+  "collected_at": "2026-11-16T13:37:49.363Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 65,
+    "likes": 0,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 35,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

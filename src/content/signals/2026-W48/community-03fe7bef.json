@@ -1,0 +1,23 @@
+{
+  "id": "community-03fe7bef",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 스코어시트",
+  "url": "https://blog.naver.com/daypicklog/224479468337",
+  "title": "걸그룹 출신 연지♥전 프로야구 투수 강동연, 12월 결혼…예비 시누이 정체도 화제",
+  "published_at": "2026-11-16T18:57:00.000+09:00",
+  "collected_at": "2026-11-16T13:37:49.363Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

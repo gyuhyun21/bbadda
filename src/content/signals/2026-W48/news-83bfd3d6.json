@@ -1,0 +1,24 @@
+{
+  "id": "news-83bfd3d6",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "국제신문",
+  "url": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0600&key=20261117.22014004976&kid=",
+  "title": "‘FA 잔혹사’ 거인, 3년 만에 화끈하게 지갑 열까",
+  "published_at": "2026-11-16T10:35:00.000Z",
+  "collected_at": "2026-11-16T13:37:49.363Z",
+  "summary_ko": "국제신문은 FA 잔혹사를 겪은 롯데가 3년 만에 지갑을 화끈하게 열지 짚었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "negative",
+  "brief_ko": "FA 잔혹사, 3년 만에 지갑 열까"
+}

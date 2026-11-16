@@ -1,0 +1,26 @@
+{
+  "id": "youtube-febf4333",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "류연정의 마이크온",
+  "url": "https://www.youtube.com/watch?v=VJtFi1iSjnw",
+  "title": "우승 확정 전부터 터진 울보 강민호 #야구 #한국시리즈 #삼성라이온즈 #강민호 #박승규 #이승민 #shorts #쇼츠",
+  "published_at": "2026-11-16T11:03:01Z",
+  "collected_at": "2026-11-16T13:37:49.363Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 483,
+    "likes": 10,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 50,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

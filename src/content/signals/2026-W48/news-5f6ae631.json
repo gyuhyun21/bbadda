@@ -1,0 +1,24 @@
+{
+  "id": "news-5f6ae631",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://www.mt.co.kr/amp/sports/2026/11/16/2026111618115566321",
+  "title": "\"日 투수들 나이까지 검색했다\" KBO 45홈런에도 벽 느꼈다, 김도영 솔직 고백 \"아직 많이 부족하다... 나부터 성장해야\" [김포공항 현장]",
+  "published_at": "2026-11-16T10:11:00.000Z",
+  "collected_at": "2026-11-16T13:37:49.363Z",
+  "summary_ko": "머니투데이는 KBO 45홈런 김도영이 일본 투수들의 나이까지 검색했다며 아직 많이 부족하다고 털어놨다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "brief_ko": "45홈런 김도영, '아직 부족'"
+}

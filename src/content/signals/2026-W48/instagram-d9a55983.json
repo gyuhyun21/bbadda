@@ -1,0 +1,27 @@
+{
+  "id": "instagram-d9a55983",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "instagram",
+  "official": true,
+  "source_name": "Instagram @busanlottegiants",
+  "url": "https://www.instagram.com/p/DfzLTOaE6jB/",
+  "title": "롯데 자이언츠 공식 인스타그램: 여기는 일본 미야자키, 그동안 갈고닦은 것들을 실전에서 확인하는 연습경기 현장🔥",
+  "published_at": "2026-11-16T10:47:55+0000",
+  "collected_at": "2026-11-16T13:37:49.363Z",
+  "summary_ko": "롯데 공식 인스타그램이 일본 미야자키 연습경기 현장을 올렸다.",
+  "metrics": {
+    "likes": 3470,
+    "comments": 12
+  },
+  "scores": {
+    "hot": 67,
+    "relevance": 50
+  },
+  "sentiment": "neutral",
+  "brief_ko": "미야자키 연습경기 현장"
+}

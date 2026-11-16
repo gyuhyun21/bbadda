@@ -1,0 +1,27 @@
+{
+  "id": "youtube-6a69e4c4",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "골글TV",
+  "url": "https://www.youtube.com/watch?v=ZMD2er9iJs8",
+  "title": "구대성의 투구폼은 타자만 힘들게 한 게 아니었다",
+  "published_at": "2026-11-16T12:45:23Z",
+  "collected_at": "2026-11-16T13:37:49.363Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1791,
+    "likes": 4,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 42,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

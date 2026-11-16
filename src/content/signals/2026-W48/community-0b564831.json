@@ -1,0 +1,24 @@
+{
+  "id": "community-0b564831",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 스포츠노트",
+  "url": "https://blog.naver.com/mindandpsychology/224479468204",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/2LHK6wuWts0",
+  "title": "국내는 좁았지만 일본은 높았다, 45홈런 김도영이 한일전에서 마주한 냉정한 현실",
+  "published_at": "2026-11-16T18:52:00.000+09:00",
+  "collected_at": "2026-11-16T13:37:49.363Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

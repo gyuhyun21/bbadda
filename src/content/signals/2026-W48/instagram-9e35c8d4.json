@@ -1,0 +1,27 @@
+{
+  "id": "instagram-9e35c8d4",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "instagram",
+  "official": true,
+  "source_name": "Instagram @ssglanders.incheon",
+  "url": "https://www.instagram.com/reel/DfzX_0NKKc5/",
+  "title": "SSG 랜더스 공식 인스타그램: 수고한 모든 순간에 박수를!👏",
+  "published_at": "2026-11-16T12:45:39+0000",
+  "collected_at": "2026-11-16T13:37:49.363Z",
+  "summary_ko": "SSG 공식 인스타그램이 '수고한 모든 순간에 박수를!'이라는 게시물을 올렸다.",
+  "metrics": {
+    "likes": 3397,
+    "comments": 67
+  },
+  "scores": {
+    "hot": 68,
+    "relevance": 50
+  },
+  "sentiment": "neutral",
+  "brief_ko": "수고한 모든 순간에 박수"
+}

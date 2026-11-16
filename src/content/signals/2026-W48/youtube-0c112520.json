@@ -1,0 +1,28 @@
+{
+  "id": "youtube-0c112520",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "Eagles TV",
+  "url": "https://www.youtube.com/watch?v=uLsq_DXR1Js",
+  "title": "한화이글스 진종길 코치의 '한 베이스 더 가는법' 강의 | 미야자키 캠프 주루훈련",
+  "published_at": "2026-11-16T09:00:04Z",
+  "collected_at": "2026-11-16T13:37:49.363Z",
+  "summary_ko": "한화 공식 채널 Eagles TV가 미야자키 캠프에서 진종길 코치의 '한 베이스 더 가는 법' 주루 강의 영상을 올렸다.",
+  "metrics": {
+    "views": 77305,
+    "likes": 1311,
+    "comments": 165
+  },
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "한 베이스 더 가는 법 강의"
+}

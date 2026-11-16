@@ -1,0 +1,23 @@
+{
+  "id": "news-837e334c",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "news",
+  "source_name": "경인일보",
+  "url": "https://www.kyeongin.com/article/1774853",
+  "title": "야구 대표팀, APBC ‘아쉬운 준우승’… SSG 젊은 투수진은 수확",
+  "published_at": "2026-11-16T10:26:24.000Z",
+  "collected_at": "2026-11-16T13:37:49.363Z",
+  "summary_ko": "경인일보는 APBC 준우승 속에 SSG 젊은 투수진은 수확을 거뒀다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "brief_ko": "APBC 수확은 젊은 투수진"
+}

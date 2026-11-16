@@ -1,0 +1,23 @@
+{
+  "id": "news-0f6d55de",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "조선일보",
+  "url": "https://www.chosun.com/sports/baseball/2026/11/16/GBQTGODGMRRDGNBWGM2GKMZSGE/",
+  "title": "147㎞ 콰악! 제구 되는 강속구가 나타났다! → 롯데 김기중, 선발이냐 불펜이냐. 어디든 좋다 [미야자키 현장]",
+  "published_at": "2026-11-16T10:53:00.000Z",
+  "collected_at": "2026-11-16T13:37:49.363Z",
+  "summary_ko": "조선일보는 미야자키 캠프에서 147km 제구 되는 강속구를 보인 롯데 김기중이 선발·불펜 어디든 좋다고 했다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "김기중, 147km 제구형 강속구"
+}

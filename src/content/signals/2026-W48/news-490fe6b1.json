@@ -1,0 +1,23 @@
+{
+  "id": "news-490fe6b1",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "뉴시스",
+  "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1MSElyM1hWRDQyRHk2WGpJc01fU1ZNLVl6dlF5VmNrSEFQdUVhM00taHh4Z0V4ZHBGS050blAyMlE4Zk13a2ZEMFNCcjBTT0cwdklGM1VnRXRmcWtJdmJPU2ktY0tJNzBkQUlzU0xEWWtfTEhnWW9Uc9IBeEFVX3lxTE1MSElyM1hWRDQyRHk2WGpJc01fU1ZNLVl6dlF5VmNrSEFQdUVhM00taHh4Z0V4ZHBGS050blAyMlE4Zk13a2ZEMFNCcjBTT0cwdklGM1VnRXRmcWtJdmJPU2ktY0tJNzBkQUlzU0xEWWtfTEhnWW9Ucw?oc=5",
+  "title": "'11년째' 일본 못 이긴 한국 야구…넘을 수 없는 벽인가",
+  "published_at": "2026-11-16T04:34:15.000Z",
+  "collected_at": "2026-11-16T13:37:49.363Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

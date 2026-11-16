@@ -1,0 +1,23 @@
+{
+  "id": "news-3283be4d",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "마이데일리",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ROWJid1dZbnR6LVdSLTJvclVRUU5WYmd1VllhMkJ6TXQ0OXZYU0I3dnNJQlVBb090X2wwanc2Nk1JVGxndGpNamxmTXBLUmgySHRTRkFyYkVLd2lyenRQSw?oc=5",
+  "title": "“미안하다, 미안하다” 최원호가 사과한 이유…김태형은 도쿄돔 마운드 밟지도 못했는데 최준용·박정민은 3G 폭풍호출[MD김포공항]",
+  "published_at": "2026-11-16T13:00:00.000Z",
+  "collected_at": "2026-11-16T13:37:49.363Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

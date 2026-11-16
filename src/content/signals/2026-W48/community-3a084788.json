@@ -1,0 +1,23 @@
+{
+  "id": "community-3a084788",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 야구디코더의 분석 리포트",
+  "url": "https://baseball-decoder.tistory.com/181",
+  "title": "[2026 KBO 스토브리그 데일리 리포트 #6] KBO, 2027년 FA 승인 선수 22명 최종 확정 공시! A등급 6...",
+  "published_at": "2026-11-16T21:48:12.000+09:00",
+  "collected_at": "2026-11-16T13:37:49.363Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

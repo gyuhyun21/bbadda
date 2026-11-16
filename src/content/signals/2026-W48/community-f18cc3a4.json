@@ -1,0 +1,23 @@
+{
+  "id": "community-f18cc3a4",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 BBC 미디어센터",
+  "url": "https://blog.naver.com/sunhoo272/224479526653",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/G8zzM173S69",
+  "title": "KT, 'ML 경험' 호주 좌완 루이스 소프 품는다…새 시즌 불펜 핵 되나",
+  "published_at": "2026-11-16T20:33:00.000+09:00",
+  "collected_at": "2026-11-16T13:37:49.363Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

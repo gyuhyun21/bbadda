@@ -1,0 +1,23 @@
+{
+  "id": "news-86c69d48",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://www.mt.co.kr/amp/sports/2026/11/16/202611161802771223O",
+  "title": "“불펜이 엉망인데도 기회가 없었다” LG 새 외인 벡 향한 美 매체의 뼈아픈 평가",
+  "published_at": "2026-11-16T09:40:00.000Z",
+  "collected_at": "2026-11-16T13:37:49.363Z",
+  "summary_ko": "머니투데이는 미국 매체가 LG 새 외국인 벡을 두고 불펜이 엉망인데도 기회가 없었다고 평가했다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "새 외인 벡, 美 평가는 냉정"
+}

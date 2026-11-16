@@ -1,0 +1,27 @@
+{
+  "id": "youtube-34474bee",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "Giants TV",
+  "url": "https://www.youtube.com/watch?v=Nq2yONyucsw",
+  "title": "'롯데의 일원이 된 루키들을 환영합니다' 기쁨, 감동이 가득한 2027 루키패밀리데이💕",
+  "published_at": "2026-11-16T12:00:13Z",
+  "collected_at": "2026-11-16T13:37:49.363Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 9585,
+    "likes": 658,
+    "comments": 78
+  },
+  "scores": {
+    "hot": 89,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

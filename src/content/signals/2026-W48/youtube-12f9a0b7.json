@@ -1,0 +1,27 @@
+{
+  "id": "youtube-12f9a0b7",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "youtube",
+  "source_name": "heroes_v1v2v3",
+  "url": "https://www.youtube.com/watch?v=54s4KGn_FSw",
+  "title": "🇰🇷 아시아윈터 베이스볼 리그 26.11.16 KBO연합 vs 일본야마연합 #키움히어로즈 조희성 1타점 적시타🍀",
+  "published_at": "2026-11-16T09:11:25Z",
+  "collected_at": "2026-11-16T13:37:49.363Z",
+  "summary_ko": "한 키움 팬 채널이 아시아윈터리그 KBO 연합 경기에서 조희성의 1타점 적시타 영상을 올렸다.",
+  "metrics": {
+    "views": 732,
+    "likes": 8,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 44,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "윈터리그, 조희성 적시타"
+}

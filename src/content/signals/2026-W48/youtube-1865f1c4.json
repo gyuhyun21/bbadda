@@ -1,0 +1,27 @@
+{
+  "id": "youtube-1865f1c4",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "거대한비밀",
+  "url": "https://www.youtube.com/watch?v=PiALJP0-H6k",
+  "title": "잠실 올림픽주경기장에 들어가는 야구장, 왜 양쪽 담장만 5m 짧아질까",
+  "published_at": "2026-11-16T10:30:12Z",
+  "collected_at": "2026-11-16T13:37:49.363Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 5023,
+    "likes": 51,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 54,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

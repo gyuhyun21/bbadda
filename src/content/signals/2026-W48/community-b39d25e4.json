@@ -1,0 +1,24 @@
+{
+  "id": "community-b39d25e4",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 스포츠 이슈 연구소",
+  "url": "https://blog.naver.com/opoloi180/224479546799",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/1RSm6hza5Si",
+  "title": "기아 육성선수 곽동효, 삼성 에이스 후라도까지 뚫었다…1군 콜업은 언제쯤",
+  "published_at": "2026-11-16T20:07:00.000+09:00",
+  "collected_at": "2026-11-16T13:37:49.363Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

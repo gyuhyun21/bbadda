@@ -1,0 +1,25 @@
+{
+  "id": "community-b5b387a9",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan",
+    "ssg",
+    "kt"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 마데의 야구 칼럼",
+  "url": "https://blog.naver.com/da331/224479696207",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/Q2hMTU94WH",
+  "title": "두산행, SK 왕조 22명은 지금 어디서 가르치나? 왕조 출신 SSG 7명 vs KT 1명… 정규시즌 1위는 KT였다",
+  "published_at": "2026-11-16T22:17:00.000+09:00",
+  "collected_at": "2026-11-16T13:37:49.363Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}
