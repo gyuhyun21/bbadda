@@ -1,0 +1,24 @@
+{
+  "id": "community-ce4eef45",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 스포츠 헌터의 핫이슈 브리핑",
+  "url": "https://blog.naver.com/tongtii/224479968552",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/C5Zrykvt1ZG",
+  "title": "🚨 김도영 뉴욕 양키스 영입설 화제! 광주 방문에 미·일 폭발적 전망!",
+  "published_at": "2026-11-17T05:03:00.000+09:00",
+  "collected_at": "2026-11-16T21:37:55.347Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

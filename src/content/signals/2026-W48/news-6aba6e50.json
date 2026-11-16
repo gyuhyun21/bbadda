@@ -1,0 +1,25 @@
+{
+  "id": "news-6aba6e50",
+  "issue": "2026-W48",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "마이데일리",
+  "url": "https://mydaily.co.kr/page/view/2026111612262850201",
+  "title": "\"에이전트 선임을 해놓은 상태\" 원태인도 해외 생각이 있다…KS가 쇼케이스였나? 美 평가 \"선발보단 불펜 적합\"",
+  "published_at": "2026-11-16T15:41:00.000Z",
+  "collected_at": "2026-11-16T21:37:55.347Z",
+  "summary_ko": "마이데일리는 원태인이 에이전트를 선임해 해외 진출 생각이 있다고 했고, 미국에선 선발보다 불펜이 맞다는 평가가 나왔다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 90,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "원태인, 에이전트 선임"
+}

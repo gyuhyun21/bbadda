@@ -1,0 +1,23 @@
+{
+  "id": "news-e8ffab49",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "조선일보",
+  "url": "https://www.chosun.com/sports/baseball/2026/11/17/MU3WCMRXHEZDSYZYMU2WEYJWGU/",
+  "title": "\"나승엽 안 줘요\" 벌써 트레이드 불가 선언! 이승엽처럼 커다오 → 롯데 이동욱 감독의 절대 신뢰 [미야자키 현장]",
+  "published_at": "2026-11-16T16:13:00.000Z",
+  "collected_at": "2026-11-16T21:37:55.347Z",
+  "summary_ko": "조선일보는 롯데 이동욱 감독이 나승엽은 트레이드하지 않겠다고 선언하며 이승엽처럼 커 주길 바란다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "나승엽은 트레이드 불가"
+}

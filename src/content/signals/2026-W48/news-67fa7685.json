@@ -1,0 +1,23 @@
+{
+  "id": "news-67fa7685",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "연합뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBYSW91alNlTXZJMEk2ZXljcExsRjR3MEVmdTBrSHlBcEZSRV9PNlk3Y1I0emdIc04xYmZpN0lQY3N0SlRsUE5SYlRjWFBXcm5YazJqWFdNMmEydVhnSFhmc9IBYEFVX3lxTFBYSW91alNlTXZJMEk2ZXljcExsRjR3MEVmdTBrSHlBcEZSRV9PNlk3Y1I0emdIc04xYmZpN0lQY3N0SlRsUE5SYlRjWFBXcm5YazJqWFdNMmEydVhnSFhmcw?oc=5",
+  "title": "'APBC 준우승' 주장 한동희 \"결승 못 뛴 게 가장 아쉬워\"",
+  "published_at": "2026-11-16T09:21:41.000Z",
+  "collected_at": "2026-11-16T21:37:55.347Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

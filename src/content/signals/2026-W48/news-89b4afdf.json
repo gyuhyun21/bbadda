@@ -1,0 +1,23 @@
+{
+  "id": "news-89b4afdf",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "조선일보",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNDhKT0VKc0IyTTRocXlkZGFXSDRRNW41aFJXbU9icG5VcnEtNWdzcEI3eWhsbzNtQ1R5ZVF0WG1YM25uUFNmQ1hNZ0NDRGJuLVEwTFAyT3JkRFRleE1ldTE2cVlKcE9OUkhRc2FLNmc2bzVTM29pTHpCeTFMQXBjZ3JkZw?oc=5",
+  "title": "멀리서 보면 김도영이다...18세 신인이 벌써 홈런 펑펑, 슈퍼스타와 너무 닮았네 [미야자키 현장]",
+  "published_at": "2026-11-16T16:17:00.000Z",
+  "collected_at": "2026-11-16T21:37:55.347Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

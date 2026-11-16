@@ -1,0 +1,24 @@
+{
+  "id": "community-d23e6fcd",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 필드 밖 이야기",
+  "url": "https://blog.naver.com/v0722/224479682984",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/FdhZyED6IX0",
+  "title": "보상선수 없이 3억 7,500만 원, FA C등급 김호령 영입전이 뜨거워진 이유",
+  "published_at": "2026-11-17T03:30:00.000+09:00",
+  "collected_at": "2026-11-16T21:37:55.347Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

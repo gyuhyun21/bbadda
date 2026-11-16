@@ -1,0 +1,21 @@
+{
+  "id": "news-4b3a25ca",
+  "issue": "2026-W48",
+  "module": "league",
+  "teams": [],
+  "source_type": "news",
+  "source_name": "이투데이",
+  "url": "https://www.etoday.co.kr/news/view/2648940?trc=right_categori_news",
+  "title": "2027 프로야구 FA 협상 시작…‘1호 계약’ 주인공은 누구?",
+  "published_at": "2026-11-16T21:35:00.000Z",
+  "collected_at": "2026-11-16T21:37:55.347Z",
+  "summary_ko": "이투데이는 2027 프로야구 FA 협상이 시작됐다며 '1호 계약'의 주인공이 누가 될지 짚었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 84,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "FA 협상 시작, 1호 계약은?",
+  "hook_ko": "22명 중 첫 도장,\n오늘 누가 찍나"
+}

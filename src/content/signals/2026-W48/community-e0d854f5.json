@@ -1,0 +1,24 @@
+{
+  "id": "community-e0d854f5",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 내가 관심갖는 모든 것",
+  "url": "https://blog.naver.com/sejungpk/224479840999",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/25EWCM5QUDt",
+  "title": "KBO FA 승인 선수 22명, 협상은 11월 17일부터",
+  "published_at": "2026-11-17T00:31:00.000+09:00",
+  "collected_at": "2026-11-16T21:37:55.347Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

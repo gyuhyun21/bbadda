@@ -1,0 +1,26 @@
+{
+  "id": "youtube-a0d870a4",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "source_name": "레알이글스",
+  "url": "https://www.youtube.com/watch?v=T8b23VcZroA",
+  "title": "[팩트체크]\"뛸 자리가 없다, 돈도 없다!\" 한화 이글스 프런트가 최재훈을 염가 후려치기로밖에 잡을 수 없는 충격적인 재정 상태",
+  "published_at": "2026-11-16T20:00:28Z",
+  "collected_at": "2026-11-16T21:37:55.347Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 582,
+    "likes": 28,
+    "comments": 2
+  },
+  "scores": {
+    "hot": 77,
+    "relevance": 50
+  },
+  "sentiment": "negative"
+}

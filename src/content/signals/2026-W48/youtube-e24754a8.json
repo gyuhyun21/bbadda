@@ -1,0 +1,26 @@
+{
+  "id": "youtube-e24754a8",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "source_name": "위니비니수리",
+  "url": "https://www.youtube.com/watch?v=QraJzFEEsco",
+  "title": "최원호 체험판 끝나자 9개 구단 팬들이 한화팬한테 한 말 #최원호 #APBC #한화이글스",
+  "published_at": "2026-11-16T15:22:20Z",
+  "collected_at": "2026-11-16T21:37:55.347Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1180,
+    "likes": 3,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 44,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "community-8f65e98e",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "community",
+  "source_name": "엠엘비파크",
+  "url": "https://mlbpark.donga.com/mp/b.php?b=kbotown&id=202611160120152115",
+  "title": "롯데 자이언츠 대표이사 변경 되었네요.",
+  "published_at": "2026-11-16T05:37:55.347Z",
+  "collected_at": "2026-11-16T21:37:55.347Z",
+  "summary_ko": "",
+  "excerpt": "... 롯데자이언츠 대표이사(내정) 전무 권정근 으로 변경됨. 찾아보니 원래 롯데 호텔 임원 출신이라고 하네요. 롯데…",
+  "metrics": {},
+  "scores": {
+    "hot": 62,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "youtube-b4bce841",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "youtube",
+  "source_name": "스포츠N플러스",
+  "url": "https://www.youtube.com/watch?v=FtMgMKP9dDw",
+  "title": "올해도 미적지근? 참정할 생각 없다는 키움 | 2026.11.16.류단장의월요진단",
+  "published_at": "2026-11-16T15:30:23Z",
+  "collected_at": "2026-11-16T21:37:55.347Z",
+  "summary_ko": "한 야구 채널이 이번 FA 시장에도 참전할 생각이 없다는 키움을 진단했다.",
+  "metrics": {
+    "views": 1607,
+    "likes": 11,
+    "comments": 11
+  },
+  "scores": {
+    "hot": 54,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "올해도 FA 참전 없는 키움"
+}

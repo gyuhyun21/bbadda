@@ -1,0 +1,22 @@
+{
+  "id": "community-635c7866",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 크모스의 스포츠 ⚾️. BLAHBLAH",
+  "url": "https://blog.naver.com/sportshub_/224479752341",
+  "title": "“네일·올러 있어도 원태인이 필요해?” KIA 선발진의 불편한 현실",
+  "published_at": "2026-11-16T23:59:00.000+09:00",
+  "collected_at": "2026-11-16T21:37:55.347Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

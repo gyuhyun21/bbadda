@@ -1,0 +1,24 @@
+{
+  "id": "community-db88efbd",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 ෆ ͙˚˖ So ring ˖˚ ͙ෆ",
+  "url": "https://blog.naver.com/soringing/224479828635",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/LpCyhAA2Yzo",
+  "title": "[부산 사직 승리의통닭] 사직야구장 근처 닭요리 맛집",
+  "published_at": "2026-11-17T00:34:00.000+09:00",
+  "collected_at": "2026-11-16T21:37:55.347Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

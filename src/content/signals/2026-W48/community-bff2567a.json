@@ -1,0 +1,24 @@
+{
+  "id": "community-bff2567a",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 야구보고 야구하는 호대리",
+  "url": "https://blog.naver.com/dlghwo5344/224479426375",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/8S9Olt0Vb5U",
+  "title": "KBO 주요 선수 메이저리그(MLB) 포스팅 가능 시점 총정리 | 2년에 4명예상",
+  "published_at": "2026-11-16T18:49:00.000+09:00",
+  "collected_at": "2026-11-16T21:37:55.347Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

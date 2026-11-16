@@ -135,6 +135,95 @@
           "instagram": 3
         }
       }
+    },
+    {
+      "week": "2026-W48",
+      "collected_at": "2026-11-16T21:37:55.347Z",
+      "sources": {
+        "news_rss": {
+          "total": 325,
+          "feeds": 18
+        },
+        "youtube": {
+          "total": 97,
+          "units": 1020,
+          "searches": 10,
+          "filtered_by_title": 24
+        },
+        "kakao": {
+          "total": 404,
+          "requests": 20,
+          "filtered_ads": 27
+        },
+        "instagram": {
+          "total": 72
+        },
+        "vertex": {
+          "total": 358,
+          "requests": 50,
+          "dropped_undated": 0,
+          "dropped_suspect_date": 54
+        }
+      },
+      "failures": [
+        {
+          "source": "news_rss",
+          "error": {
+            "feed": "gnews-team-hanwha",
+            "error": "HTTP 429: <html><head><meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\"/><title>Sorry...</title><style> body { font-family: verdana, arial, sans-serif; background-color: #fff; color: #000; }</s"
+          }
+        },
+        {
+          "source": "news_rss",
+          "error": {
+            "feed": "gnews-team-ssg",
+            "error": "HTTP 429: <html><head><meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\"/><title>Sorry...</title><style> body { font-family: verdana, arial, sans-serif; background-color: #fff; color: #000; }</s"
+          }
+        },
+        {
+          "source": "news_rss",
+          "error": {
+            "feed": "gnews-league-KBO 신인 드래프트",
+            "error": "HTTP 429: <html><head><meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\"/><title>Sorry...</title><style> body { font-family: verdana, arial, sans-serif; background-color: #fff; color: #000; }</s"
+          }
+        }
+      ],
+      "skipped": [],
+      "out_of_window": 432,
+      "dropped_no_team": 142,
+      "team_inferred": 301,
+      "dedupe": {
+        "dropped_existing": 381,
+        "merged_in_batch": 18
+      },
+      "dropped_cap": 85,
+      "new_signals": {
+        "total": 198,
+        "by_module": {
+          "rivalry": 4,
+          "fans": 179,
+          "team": 12,
+          "league": 3
+        },
+        "by_team": {
+          "samsung": 31,
+          "nc": 13,
+          "lg": 16,
+          "lotte": 26,
+          "hanwha": 16,
+          "ssg": 18,
+          "kia": 21,
+          "kt": 16,
+          "doosan": 22,
+          "kiwoom": 16,
+          "-": 3
+        },
+        "by_source": {
+          "news": 19,
+          "youtube": 45,
+          "community": 134
+        }
+      }
     }
   ]
 }

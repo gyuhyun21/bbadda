@@ -1,0 +1,23 @@
+{
+  "id": "community-4ac4cbd1",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 스포츠 다이어리",
+  "url": "https://blog.naver.com/sportpulse/224479337025",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/1Bz8NUnUlcx",
+  "title": "\"지도자 계획 없다더니 이렇게 잘한다고?” 롯데 김민성, 이동욱 감독이 ‘손댈 게 없다’고 한 이유",
+  "published_at": "2026-11-17T01:00:00.000+09:00",
+  "collected_at": "2026-11-16T21:37:55.347Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

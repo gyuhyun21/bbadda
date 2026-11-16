@@ -1,0 +1,23 @@
+{
+  "id": "community-ecf23fdd",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 셀럽스",
+  "url": "https://blog.naver.com/silverplus_/224479546442",
+  "title": "걸그룹♥야구선수 커플 탄생… 배드키즈 연지, 12월 신부 된다",
+  "published_at": "2026-11-16T22:10:00.000+09:00",
+  "collected_at": "2026-11-16T21:37:55.347Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}
