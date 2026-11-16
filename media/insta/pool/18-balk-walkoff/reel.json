@@ -1,0 +1,44 @@
+{
+  "music": "bgm-morning",
+  "subStyle": "yt",
+  "outro": { "hold": 1.5, "fade": 0.5 },
+  "pool": { "no": 18, "series": "이거 알면 야구 고수", "ep": 5, "facts": "센세 확인 2026-11-17(기사 2곳 이상, PR 본문 표)" },
+  "segments": [
+    {
+      "src": "clip1.mp4", "from": 0, "to": 14, "credit": "ICN마드리드(관중 촬영)", "yt": "R9JQIu6UEfw",
+      "say": "a1.mp3", "text": "투수가 타자한테 공을 하나도 안 던졌는데 경기가 끝났어. 끝내기 보크야.",
+      "kick": "이거 알면 야구 고수 #5", "head": "공 0개로<br><b>끝난 경기</b>", "sub": "투구 없이 끝내기 보크",
+      "note": "출처: 데일리안·문화일보 · 영상: ICN마드리드(관중 촬영)",
+      "fx": [{ "at": 2.2, "text": "뭐라고", "style": "mind" }]
+    },
+    {
+      "src": "clip2.mp4", "from": 0, "to": 16, "credit": "MLB Network", "yt": "w92D8PseSAk",
+      "say": "a2.mp3", "text": "보크는 주자가 있을 때 투수가 규칙에 어긋난 동작을 하는 거야. 선언되면 모든 주자가 한 베이스씩 공짜로 가.",
+      "kick": "보크란?", "head": "주자 있을 때<br><b>투수 반칙</b>", "sub": "보크 = 모든 주자 한 베이스 진루",
+      "note": "출처: MLB.com 용어집·Wikipedia · 영상: MLB Network",
+      "fx": [{ "at": 4.6, "text": "공짜", "style": "pop" }]
+    },
+    {
+      "src": "clip3.mp4", "from": 0, "to": 18, "credit": "GDC맨의 야구세계(SPOTV2 중계)", "yt": "ZtV4DERr2o4",
+      "say": "a3.mp3", "text": "이천십구 년 구월 십사 일 인천, 육 대 육 구회 말 원아웃 일 삼루. 두산이 올린 배영수가 공을 던지기 전에 보크, 삼루 주자가 걸어 들어와 칠 대 육으로 끝났어.",
+      "kick": "2019.9.14 SK-두산", "head": "배영수<br><b>끝내기 보크</b>", "sub": "6-6 9회말 1사 1·3루, 보크로 7-6",
+      "note": "출처: 데일리안·문화일보 · 영상: GDC맨의 야구세계",
+      "fx": [{ "at": 6.5, "text": "보크!", "style": "stamp" }]
+    },
+    {
+      "src": "clip4.mp4", "from": 0, "to": 16, "credit": "LJ SPORTS VIDEOS(다른 경기 보크 장면)", "yt": "anc1KOb_UeQ",
+      "say": "a4.mp3", "text": "메이저리그엔 더한 날도 있어. 천구백육십삼 년 오월 사 일, 밀워키 투수 밥 쇼는 한 경기에 보크를 다섯 번 했어. 한 이닝에만 세 번이야.",
+      "kick": "1963.5.4 MLB", "head": "한 경기<br><b>보크 5번</b>", "sub": "밥 쇼, 한 경기 보크 5개",
+      "note": "출처: SABR·Wikipedia · 영상: LJ SPORTS VIDEOS(다른 경기)",
+      "zoom": { "at": 4.0, "dur": 3.0 },
+      "fx": [{ "at": 5.5, "text": "또?", "style": "mind" }]
+    }
+  ],
+  "end": {
+    "look": "profile",
+    "head": "알아 두면 더 재밌는<br><b>야구 이야기</b>",
+    "cta": "보크 직관한 사람 댓글로!",
+    "say": "a5.mp3",
+    "text": "보크 나온 경기 직관한 사람, 댓글로 알려 줘."
+  }
+}
