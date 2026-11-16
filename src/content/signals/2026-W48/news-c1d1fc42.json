@@ -1,0 +1,24 @@
+{
+  "id": "news-c1d1fc42",
+  "issue": "2026-W48",
+  "module": "rivalry",
+  "team": "kt",
+  "teams": [
+    "kt",
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "마이데일리",
+  "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE91N0RmcXpPZVNiVk5JV2JmOV9LZmhqcFE0T2FMdmlRbmh0SmV3RXpwYU8yY2ZkWWxxMjFMYXRIV0ZfdEQxRU5MNk5kYktRX2xSUjEteE5ycGZLVFB6d0d5TzlvM05jUQ?oc=5",
+  "title": "KS 업셋도 서러운데 비시즌도 험난…'10개 구단 최다' 결국 6명 모두 FA 신청, 90승 팀 주축 대거 이탈 위기",
+  "published_at": "2026-11-16T08:01:00.000Z",
+  "collected_at": "2026-11-16T13:37:49.363Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 82,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

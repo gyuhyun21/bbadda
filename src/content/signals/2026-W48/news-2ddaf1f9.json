@@ -1,0 +1,23 @@
+{
+  "id": "news-2ddaf1f9",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "news",
+  "source_name": "충청신문",
+  "url": "https://www.dailycc.net/news/articleView.html?idxno=879553",
+  "title": "KBO, 한화 박상원·최재훈 등 FA 22명 공시",
+  "published_at": "2026-11-16T08:46:37.000Z",
+  "collected_at": "2026-11-16T13:37:49.363Z",
+  "summary_ko": "충청신문은 KBO가 FA 22명을 공시했고 한화 박상원·최재훈이 명단에 들었다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 82,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "박상원·최재훈, FA 공시"
+}

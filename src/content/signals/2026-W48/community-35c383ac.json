@@ -1,0 +1,24 @@
+{
+  "id": "community-35c383ac",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&page=5&document_srl=10562385315",
+  "title": "쥐참치 해주셈 제발 - 야구",
+  "published_at": "2026-11-16T07:37:49.363Z",
+  "collected_at": "2026-11-16T13:37:49.363Z",
+  "summary_ko": "",
+  "excerpt": "... [레벨:24] 마인드블라스트 11 분 전. 엘지트윈스콘(야구주머니) · [레벨:34] 필리패너틱 11 분 전. 마인드블라스트 돼지련…",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

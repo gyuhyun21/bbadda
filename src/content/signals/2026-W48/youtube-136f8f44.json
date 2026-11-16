@@ -1,0 +1,28 @@
+{
+  "id": "youtube-136f8f44",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan",
+    "lotte"
+  ],
+  "source_type": "youtube",
+  "source_name": "스포츠조선",
+  "url": "https://www.youtube.com/watch?v=vGOxK-3DBq8",
+  "title": "두산 마캠 유일 신인투수! 롯데 정현수 동생이네",
+  "published_at": "2026-11-16T08:28:08Z",
+  "collected_at": "2026-11-16T13:37:49.363Z",
+  "summary_ko": "스포츠조선 채널이 두산 마무리캠프의 유일한 신인 투수가 롯데 정현수의 동생이라고 소개했다.",
+  "metrics": {
+    "views": 1682,
+    "likes": 16,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 47,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "마캠 유일 신인, 정현수 동생"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-e3aac5b3",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "대구MBC",
+  "url": "https://dgmbc.com/NewsArticle/873219",
+  "title": "[스포츠+] 삼성 우승의 숨은 영웅, 최다 등판 ‘이승민’",
+  "published_at": "2026-11-16T01:00:00.000Z",
+  "collected_at": "2026-11-16T13:37:49.363Z",
+  "summary_ko": "대구MBC는 삼성 우승의 숨은 영웅으로 최다 등판한 이승민을 조명했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 63,
+    "relevance": 80
+  },
+  "sentiment": "positive",
+  "brief_ko": "숨은 영웅, 최다 등판 이승민"
+}

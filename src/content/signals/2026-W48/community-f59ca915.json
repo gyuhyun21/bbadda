@@ -1,0 +1,24 @@
+{
+  "id": "community-f59ca915",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 그깟공노리",
+  "url": "https://blog.naver.com/kbo-fan/224479432411",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/8CNl8LN3d8F",
+  "title": "김도영 APBC 귀국, 타율 0.250과 시즌 45홈런의 거리",
+  "published_at": "2026-11-16T18:27:00.000+09:00",
+  "collected_at": "2026-11-16T13:37:49.363Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

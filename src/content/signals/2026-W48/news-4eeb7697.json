@@ -1,0 +1,23 @@
+{
+  "id": "news-4eeb7697",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBnTnBiQjZxNjhaUFlROUptZVRYdnJqRXRfeWVIb29yek40VUxDVmRrX3IyX2tGUU5lb1ZZOTBxT3pwWWxqd21rb3Y2UEZ5SnBFRDFFZHU5QXBvV3M4STloVTRvSzJPTmZrV3fSAW9BVV95cUxOcDlILS1HeklvTFNjNmgyZ181UjgtR2t5SkUzTG9zVmI0ZXdNWWkwVTlQRWF0djhCSnRGb0I1TkUtT2hHalRfZFdMTVlxLTZ0c3Bra0RZaDRiRTUyNDAwTnV5c3FtZER4RzJiX1BPb1k?oc=5",
+  "title": "한일전 12연패 '씁쓸한 韓 야구'... 승짱의 작심 지적 \"모든 걸 바꿔야, 안 그러면 수준 차이 더 벌어진다\"",
+  "published_at": "2026-11-16T12:27:39.000Z",
+  "collected_at": "2026-11-16T13:37:49.363Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

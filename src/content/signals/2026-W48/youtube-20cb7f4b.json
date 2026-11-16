@@ -1,0 +1,27 @@
+{
+  "id": "youtube-20cb7f4b",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha",
+    "lg"
+  ],
+  "source_type": "youtube",
+  "source_name": "야구계산기",
+  "url": "https://www.youtube.com/watch?v=cm95K5Xm3rk",
+  "title": "한화 연봉 포기하고, 손혁이 LG 코치로? #야구 #kbo #손혁",
+  "published_at": "2026-11-16T11:30:38Z",
+  "collected_at": "2026-11-16T13:37:49.363Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1257,
+    "likes": 6,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 43,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

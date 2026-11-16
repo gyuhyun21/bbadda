@@ -1,0 +1,27 @@
+{
+  "id": "youtube-32d2300d",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "SSG랜더스",
+  "url": "https://www.youtube.com/watch?v=FqAgh6d8r_Q",
+  "title": "수고한 모든 순간에 박수를!👏",
+  "published_at": "2026-11-16T12:45:13Z",
+  "collected_at": "2026-11-16T13:37:49.363Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 7451,
+    "likes": 961,
+    "comments": 144
+  },
+  "scores": {
+    "hot": 88,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

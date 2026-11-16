@@ -1,0 +1,22 @@
+{
+  "id": "community-a2142e59",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 창식인사이드",
+  "url": "https://blog.naver.com/nurungchangsik/224479447964",
+  "title": "\"152억 계약한 포수의 선택\"...양의지, 두산 팬들이 반가워할 소식",
+  "published_at": "2026-11-16T19:05:00.000+09:00",
+  "collected_at": "2026-11-16T13:37:49.363Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

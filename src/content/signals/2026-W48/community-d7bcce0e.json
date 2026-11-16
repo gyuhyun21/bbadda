@@ -1,0 +1,23 @@
+{
+  "id": "community-d7bcce0e",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 멀끔 블로그",
+  "url": "https://blog.naver.com/wear_ing/224478949003",
+  "title": "\"우승 약속 지켰으니 사장님 믿습니다\"던 12년 만의 우승 투수, 해외 에이전트는 시즌 중에 이미...",
+  "published_at": "2026-11-16T18:40:00.000+09:00",
+  "collected_at": "2026-11-16T13:37:49.363Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

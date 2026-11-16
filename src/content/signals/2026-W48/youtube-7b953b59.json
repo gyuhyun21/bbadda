@@ -1,0 +1,27 @@
+{
+  "id": "youtube-7b953b59",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "아이고김밥아...",
+  "url": "https://www.youtube.com/watch?v=OD-1Y6keIXo",
+  "title": "46년동안버틴잠실야구장철거기념영상 #엘지트윈스 #두산베어스 #잠실야구장 #kbo",
+  "published_at": "2026-11-16T09:50:56Z",
+  "collected_at": "2026-11-16T13:37:49.363Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 9,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 12,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

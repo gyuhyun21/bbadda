@@ -1,0 +1,23 @@
+{
+  "id": "community-b21056a7",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan",
+    "nc"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 Enter News-Info",
+  "url": "https://blog.naver.com/news-info/224479490839",
+  "title": "걸그룹 배드키즈 이 연지 나이 인스타 프로 야구 두산 NC 투수 강동연 선수 프로필 결혼 식 강소연",
+  "published_at": "2026-11-16T19:12:00.000+09:00",
+  "collected_at": "2026-11-16T13:37:49.363Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

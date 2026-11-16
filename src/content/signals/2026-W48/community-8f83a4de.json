@@ -1,0 +1,24 @@
+{
+  "id": "community-8f83a4de",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte",
+    "lg"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 빠게룽",
+  "url": "https://blog.naver.com/baekhw1/224478754641",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/Etue9AWoSTL",
+  "title": "\"롯데가 LG에 4억 투자한 1라운더\" 2군서도 1경기도 나서지 못한 좌완투수",
+  "published_at": "2026-11-16T22:10:00.000+09:00",
+  "collected_at": "2026-11-16T13:37:49.363Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}
