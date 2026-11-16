@@ -1,0 +1,23 @@
+{
+  "id": "news-bd1a89c9",
+  "issue": "2026-W48",
+  "module": "team",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "www.xportsnews.com",
+  "url": "https://www.xportsnews.com/article/2220155",
+  "title": "\"김도영, 이렇게 겸손한 선수가 또 있나!\"…日 매체 'KBO 홈런왕' 향한 찬사→일본전 부진에도 \"분명 더 성장할 것\"",
+  "published_at": "2026-11-16T16:50:37.000Z",
+  "collected_at": "2026-11-16T21:37:55.347Z",
+  "summary_ko": "엑스포츠뉴스는 일본 매체가 일본전 부진에도 KBO 홈런왕 김도영을 겸손한 선수라며 더 성장할 것이라고 칭찬했다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 30
+  },
+  "sentiment": "positive",
+  "brief_ko": "日 매체도 칭찬한 김도영",
+  "team": "kia"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "community-617b4eb3",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 풀카운트 90분",
+  "url": "https://blog.naver.com/jaydenstory/224479864066",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/3gSbOw4fnlO",
+  "title": "\"계약금 5억원 받았는데 전혀 중요하지 않다고?\" 두산 1라운드 신인 김지우가 미야자키 캠프 일주일 만...",
+  "published_at": "2026-11-17T01:19:00.000+09:00",
+  "collected_at": "2026-11-16T21:37:55.347Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

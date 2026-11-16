@@ -1,0 +1,29 @@
+{
+  "id": "community-8e577ced",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 이슈 전문 에디터의 블로그",
+  "url": "https://blog.naver.com/issueeditor365/224479965708",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/DcbpTMJDhkf",
+  "title": "⚾ 9년째 들러리 롯데, 감독부터 사장까지 전격 교체! FA 시장 참전하나?",
+  "published_at": "2026-11-17T04:55:00.000+09:00",
+  "collected_at": "2026-11-16T21:37:55.347Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBYSTNldTRPbDJKWXZPT3czWHJWWkd4NkNJWUdPa3R1TWladjZaa3RZQm56R2NTU192d21pYzlVVzVQRXlYU3hhakUwZGxMZW45X3BjdTNkaDFTV3NLZXB2V1JnVkpSQWJPc2wwNHBSTdIBb0FVX3lxTFBYSTNldTRPbDJKWXZPT3czWHJWWkd4NkNJWUdPa3R1TWladjZaa3RZQm56R2NTU192d21pYzlVVzVQRXlYU3hhakUwZGxMZW45X3BjdTNkaDFTV3NLZXB2V1JnVkpSQWJPc2wwNHBSTQ?oc=5"
+    }
+  ]
+}

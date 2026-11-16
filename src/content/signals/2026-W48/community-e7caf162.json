@@ -1,0 +1,24 @@
+{
+  "id": "community-e7caf162",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 스포츠 헌터의 핫이슈 브리핑",
+  "url": "https://blog.naver.com/tongtii/224479951295",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/4KRNYmNxHnQ",
+  "title": "“23살의 나보다 위다” 국민타자 이승엽이 김도영에게 보낸 뜨거운 극찬",
+  "published_at": "2026-11-17T04:14:00.000+09:00",
+  "collected_at": "2026-11-16T21:37:55.347Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

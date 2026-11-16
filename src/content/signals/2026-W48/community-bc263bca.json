@@ -1,0 +1,23 @@
+{
+  "id": "community-bc263bca",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 스포츠한입님의 블로그",
+  "url": "https://blog.naver.com/sportonebite/224479610593",
+  "title": "2027 KBO FA 시장 개장! 원태인·구자욱·양의지까지, 올겨울 대어는 누구?",
+  "published_at": "2026-11-16T21:05:00.000+09:00",
+  "collected_at": "2026-11-16T21:37:55.347Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

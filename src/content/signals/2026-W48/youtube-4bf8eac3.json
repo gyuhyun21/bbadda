@@ -1,0 +1,26 @@
+{
+  "id": "youtube-4bf8eac3",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "youtube",
+  "source_name": "뇌절야구",
+  "url": "https://www.youtube.com/watch?v=Hx5TuompTro",
+  "title": "응원가 합성 | LG 트윈스 포수 김민식 응원가",
+  "published_at": "2026-11-16T15:16:43Z",
+  "collected_at": "2026-11-16T21:37:55.347Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 112,
+    "likes": 2,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 42,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

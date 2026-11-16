@@ -1,0 +1,27 @@
+{
+  "id": "youtube-df1cc070",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "야구계산기",
+  "url": "https://www.youtube.com/watch?v=d1bCo17-q4c",
+  "title": "아무도 못 데려간다는, 양의지 #야구 #kbo #양의지",
+  "published_at": "2026-11-16T13:54:37Z",
+  "collected_at": "2026-11-16T21:37:55.347Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 2080,
+    "likes": 9,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 48,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "community-16178e59",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 스포츠에 빠지다",
+  "url": "https://blog.naver.com/kida02_/224479983195",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/yEDJgNHknN",
+  "title": "\"쉬는 데도 화끈하네!\" 삼성 라이온즈 12년 만 KS 우승, 선수단에 4박5일 일본 온천 여행",
+  "published_at": "2026-11-17T05:44:00.000+09:00",
+  "collected_at": "2026-11-16T21:37:55.347Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 84,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "SPOTV NEWS",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4yZERzazk3TkxNbnZ2VDZDRXhhZXJmNWMycy1WN0JsbXFodmxQa01IUUdrN3FyMjZ6ZDN5ZExTUC0xMWhkczRlWlFtWFcydWpOLXpWclE1c0Z6aHRSMGtpMFlXY1NTaDkySkZjbUdpaUo?oc=5"
+    }
+  ]
+}

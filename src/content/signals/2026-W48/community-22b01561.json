@@ -1,0 +1,24 @@
+{
+  "id": "community-22b01561",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 이슈정보",
+  "url": "https://blog.naver.com/jaeyong3998/224479872874",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/A0dlwfaFoY1",
+  "title": "걸그룹 연지 \"12월 결혼합니다\"…예비 신랑은 195cm 야구선수, 알고 보니 '솔로지옥' 강소연 동생",
+  "published_at": "2026-11-17T01:15:00.000+09:00",
+  "collected_at": "2026-11-16T21:37:55.347Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

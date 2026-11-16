@@ -1,0 +1,24 @@
+{
+  "id": "community-aa749603",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 미드텀",
+  "url": "https://blog.naver.com/self3788/224479813797",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/I1NsUUxiMbS",
+  "title": "일본에 13연패 당하고 돌아온 최원호 감독... 귀국하자마자 꺼낸 충격적인 한마디",
+  "published_at": "2026-11-17T00:18:00.000+09:00",
+  "collected_at": "2026-11-16T21:37:55.347Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

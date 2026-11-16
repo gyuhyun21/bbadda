@@ -1,0 +1,29 @@
+{
+  "id": "community-2a0bcc7c",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 SPOTLIGHT",
+  "url": "https://blog.naver.com/agentwannabe/224479800616",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/1GFhFQCPaXc",
+  "title": "‘한때 한화의 백업 포수 자리를 놓고 경쟁하던’ 포수가 필요한 팀이 충분히 긁어볼 만한, 한화 허관회...",
+  "published_at": "2026-11-17T06:00:00.000+09:00",
+  "collected_at": "2026-11-16T21:37:55.347Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "Naver Blog",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYmk0WUNwS09wUUZqVU1nLV9hNXpiQWc2MU9SeDBXNHBsMmdLMUptY1hNYmVnb3RMQ1dPUm9hVFFHQTJTb3dEUlU0Wlc0d2Q5SzRCQ2J4ODlwMlJmQWNGdzExS2lwczU5WHdnbEpzeE9Dck45ZDFOWTlqMXJPdFgwOERueU9jU0sxaE9sRXo4c1NIUXBC?oc=5"
+    }
+  ]
+}

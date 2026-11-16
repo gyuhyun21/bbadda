@@ -1,0 +1,24 @@
+{
+  "id": "community-9fb9c223",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "엠엘비파크",
+  "url": "https://mlbpark.donga.com/mp/b.php?id=202611100120033201&p=61&b=kbotown&m=view&select=spf&query=KIA&site=donga.com",
+  "title": "김호령은 올 시즌 최소 두 차례 이상의 비FA 다년 계약을 거절했다.",
+  "published_at": "2026-11-09T15:00:00.000Z",
+  "collected_at": "2026-11-16T21:37:55.347Z",
+  "summary_ko": "",
+  "excerpt": "... 삼진 1·2위에 오른 샘 힐리어드(KT 위즈·175개)와 나성범(KIA 타이거즈·158개)이 각각 44홈런과 31홈런을 기록한 장타자라는 점을…",
+  "metrics": {},
+  "scores": {
+    "hot": 8,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

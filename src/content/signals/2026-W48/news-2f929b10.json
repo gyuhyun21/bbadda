@@ -1,0 +1,30 @@
+{
+  "id": "news-2f929b10",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "미주중앙일보",
+  "url": "https://www.koreadaily.com/article/20261116071108147",
+  "title": "‘42억 포기 결단’ 양의지 왜 FA 신청했을까…의리 지킨 대체불가 포수→김원형 반색 “너무 중요한 선수, 내년 기대한다” [오!쎈 미야자키]",
+  "published_at": "2026-11-16T15:10:00.000Z",
+  "collected_at": "2026-11-16T21:37:55.347Z",
+  "summary_ko": "미주중앙일보는 42억 원을 포기하고 FA를 신청한 양의지에 대해 김원형 감독이 너무 중요한 선수라며 반겼다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 82,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "네이트",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5vdU5QUFNzTDZDVWotaVZPREIxdHlwNWpkWUJ0cURmaGYtODNtOVFnSzFKa0NMOFJ5MWpNeHczYWlOWEFVOXJCY1hsVzVwNGxYd3JWTFlB?oc=5"
+    }
+  ],
+  "brief_ko": "42억 포기한 양의지, 감독은 반색"
+}

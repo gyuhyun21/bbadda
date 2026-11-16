@@ -1,0 +1,26 @@
+{
+  "id": "youtube-8f6f67c8",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "youtube",
+  "source_name": "서윤Clip",
+  "url": "https://www.youtube.com/watch?v=PA2fNfFuHQ4",
+  "title": "5/22 한승택 응원가 #이서윤 #李瑞允 #kt위즈 #ktwiz #ktwiz",
+  "published_at": "2026-11-16T19:34:33Z",
+  "collected_at": "2026-11-16T21:37:55.347Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 0,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "news-81ab007c",
+  "issue": "2026-W48",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스핌",
+  "url": "https://www.newspim.com/news/view/20261116000709",
+  "title": "[프로야구] 스토브리그 최대 반전스토리는 누가…'구·원+전병우' 삼성, KIA 김호령 등 주목",
+  "published_at": "2026-11-16T20:02:00.000Z",
+  "collected_at": "2026-11-16T21:37:55.347Z",
+  "summary_ko": "뉴스핌은 구자욱·원태인·전병우가 FA로 나선 삼성과 KIA 김호령 등이 스토브리그 반전의 주인공이 될지 주목했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "스토브리그 반전, 삼성은?"
+}

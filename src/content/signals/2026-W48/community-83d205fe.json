@@ -1,0 +1,24 @@
+{
+  "id": "community-83d205fe",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "레딧 r/KBO",
+  "url": "https://www.reddit.com/r/KBO/comments/1xwbk2u/if_the_kbo_expanded_to_12_teams_where_would_you/",
+  "title": "If the KBO expanded to 12 teams, where would you like to see the ...",
+  "published_at": "2026-11-14T15:00:00.000Z",
+  "collected_at": "2026-11-16T21:37:55.347Z",
+  "summary_ko": "",
+  "excerpt": "... The city already has a connection to baseball through Samsung's occasional games at Pohang…",
+  "metrics": {},
+  "scores": {
+    "hot": 48,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

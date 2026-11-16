@@ -1,0 +1,23 @@
+{
+  "id": "community-e6eab7b9",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 오늘의 스포츠 브리핑",
+  "url": "https://blog.naver.com/crazyguyformoney/224479865544",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/EpKWmyz3Yoz",
+  "title": "박승규 프로필: 삼성 외야수의 2026 시즌 13홈런과 한국시리즈 타율 0.500",
+  "published_at": "2026-11-17T04:20:00.000+09:00",
+  "collected_at": "2026-11-16T21:37:55.347Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "community-d958e0af",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 journal5",
+  "url": "https://journ25.kkunglove.com/33",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/Kg4pixUf6bJ",
+  "title": "APBC 한국 대만전 중계 채널 일정 | 선발 이로운 쉬샹성 결승 경우의 수",
+  "published_at": "2026-11-17T06:04:51.000+09:00",
+  "collected_at": "2026-11-16T21:37:55.347Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

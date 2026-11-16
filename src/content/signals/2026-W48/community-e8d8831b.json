@@ -1,0 +1,23 @@
+{
+  "id": "community-e8d8831b",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 Keep an eye on it, analyze it, develop it.",
+  "url": "https://blog.naver.com/player733/224479757046",
+  "title": "최원호 감독 귀국, APBC 준우승 성적·소감과 프리미어12 거취",
+  "published_at": "2026-11-16T23:45:00.000+09:00",
+  "collected_at": "2026-11-16T21:37:55.347Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

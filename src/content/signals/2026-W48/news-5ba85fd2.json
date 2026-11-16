@@ -1,0 +1,24 @@
+{
+  "id": "news-5ba85fd2",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠동아",
+  "url": "https://sports.donga.com/sports/article/all/20261116/135033627/1",
+  "title": "FA 양의지·자유계약 김민식, 베테랑 포수는 여전히 귀하다",
+  "published_at": "2026-11-16T08:12:47.000Z",
+  "collected_at": "2026-11-16T21:37:55.347Z",
+  "summary_ko": "스포츠동아는 FA 양의지와 자유계약 김민식처럼 베테랑 포수는 여전히 귀하다고 짚었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "베테랑 포수는 여전히 귀하다"
+}
