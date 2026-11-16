@@ -16,7 +16,7 @@ prep() {
   timeout 600 npm ci --silent
   git config user.name "github-actions[bot]"; git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 }
-# 조립한 영상을 insta-media/reel/<이름>/reel.mp4 에 올리고 공개 주소를 출력
+# 조립한 영상을 insta-media/reel/<이름>/reel.mp4 에 올리고, jsDelivr 에서 열리는 것을 확인한 뒤 공개 주소를 출력
 upload() {
   # jsDelivr 는 GitHub 파일 20MB 까지만 내준다 — 넘으면 화질을 낮춰 다시 묶는다
   if [ "$(stat -c %s "$1")" -gt 18000000 ]; then ffmpeg -y -loglevel error -i "$1" -c:v libx264 -crf 28 -preset slow -c:a copy -movflags +faststart /tmp/small.mp4 && cp /tmp/small.mp4 "$1"; fi
@@ -24,7 +24,14 @@ upload() {
   rm -rf /tmp/media; git worktree prune
   git worktree add -q /tmp/media origin/insta-media
   ( cd /tmp/media && git checkout -q -B insta-media && mkdir -p "reel/$2" && cp "$1" "reel/$2/reel.mp4" && git add reel && git commit -qm "reel: $2" && git push -q origin insta-media )
-  echo "https://cdn.jsdelivr.net/gh/${GITHUB_REPOSITORY}@insta-media/reel/$2/reel.mp4"
+  # 올린 직후 jsDelivr 가 403·404 를 줄 때가 있다(2026-11-13·16) — 열릴 때까지 30초 간격 10번 확인하고 나서 인스타에 넘긴다
+  local url="https://cdn.jsdelivr.net/gh/${GITHUB_REPOSITORY}@insta-media/reel/$2/reel.mp4" code=""
+  for t in $(seq 1 10); do
+    code=$(curl -sS -o /dev/null -I --max-time 60 -w '%{http_code}' "$url" 2>/dev/null || true)
+    [ "$code" = 200 ] && { echo "$url"; return 0; }
+    echo "jsDelivr ${code:-응답 없음} — 30초 뒤 다시($t/10)" >&2; sleep 30
+  done
+  say "jsDelivr 미열림(${code:-응답 없음}): $url" >&2; return 1
 }
 # 같은 본문이 최근 게시물에 있으면 0(이미 게시)
 posted_caption() { curl -sS -f -H "$AUTH" "$G/$IG/media?fields=caption&limit=15" | jq -e --rawfile c "$1" 'any(.data[]; (.caption // "") == ($c | rtrimstr("\n")))' >/dev/null; }
