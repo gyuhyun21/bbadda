@@ -1,0 +1,22 @@
+{
+  "id": "news-c1970e90",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "news",
+  "source_name": "노컷뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0teE94Q041ZWNzY0JhajRwVHVwNy0yeDNVb1pDdzEwb0J2RGJmRXpiYVltbXd0UHFCRjlIc2wwenNPRzlvN0NhY1I5dElodjFwckE?oc=5",
+  "title": "선동열에게도 홈런 쳤던 타자…한화 전대영 前 코치 별세",
+  "published_at": "2026-11-16T01:39:15.000Z",
+  "collected_at": "2026-11-16T07:38:24.558Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

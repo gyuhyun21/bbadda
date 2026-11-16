@@ -1,0 +1,22 @@
+{
+  "id": "news-f89158ff",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "news",
+  "source_name": "네이트",
+  "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5sZUVMZ3pGN1pSSFpyS2diaU1HWUpDajVDMDdzRERZTjhOOXVFbW9XSkMxLVJaZ21XbjgtUkNEckx3ZVhlZ2VYZGYzdlRhV2lIOEJhMGZ3?oc=5",
+  "title": "한화에서 180⅔이닝 던지면 뭐하나, 美에선 인정도 안 해주는데…\"폰세 여전히 큰 변수\", \"180이닝 소화 어려워 보여\"",
+  "published_at": "2026-11-16T04:16:00.000Z",
+  "collected_at": "2026-11-16T07:38:24.558Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

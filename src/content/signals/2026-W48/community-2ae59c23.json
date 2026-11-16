@@ -1,0 +1,45 @@
+{
+  "id": "community-2ae59c23",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 세상 읽기",
+  "url": "https://yoanarc.com/1697",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/C7xdEYOYUpQ",
+  "title": "전대영 별세｜암 투병·나이·한화 감독",
+  "published_at": "2026-11-16T16:07:49.000+09:00",
+  "collected_at": "2026-11-16T07:38:24.558Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 100,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ILTJRcTdBUHhFSWM3TTJMc1pPSmd2bjEyU19LakNHeDhTaEVVZlZOWnFzN2IyeVMyQ085V20yZW9WaVFQczlNdU9VVWlPcUQ2VVhDRnJiUnAzejTSAWBBVV95cUxQemZzTlE5clNBa080NnlIdjRIVDdKclZXOENwc0xiS0k0RF92MmQ3UnFKNnhlZzN2WW1veUFwbmwtSEZJWUZOeUxIQUp5bE55akpZNDlSajEtM3QxdTMwOUw?oc=5"
+    },
+    {
+      "source_name": "이투데이",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9aNDNwcDZDRW5OYkY5YVhhdFgtcy1lMTVDRlVVeUMyX0RhbUE4cVI2S3JvQ2EzdVk4My1jNXVxUFNnclNaNURtRmRNX2pzZzJka3NacQ?oc=5"
+    },
+    {
+      "source_name": "톱스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE51elcxMUZCRW96RzdBa1BveE80NnBSWW1nRUE2b2NFTDVzWUlHQ3gtWmRoTlB3V0dwWmx0WXJFREhvRjhnQ3JKQnh4MmJKaHpvZDNOOUM0a2RCRnZGcWhrN3JrQ0owbFhFb0E0Q01jc0NLZw?oc=5"
+    },
+    {
+      "source_name": "강원도민일보",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5fbkVnSDZXWXlOS3Vod1lQSXF0ZEh0UEVBOWNZeC10VVZpdEJRUHNqa3BFUHBTWWc5aGktU3AyVy0yWVhpdE5CdFZzN2tuZmV5Y19keWhZMGRrRktQUkJRd2RGc3lvMDQ?oc=5"
+    },
+    {
+      "source_name": "뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9vTWhBbzlMSFhEUnlNX2RjWm1DSzBmZjM4QXBDR0JPeFpucUFvVWhNRmZMMVNUODVkV1YtQWNyWS1INzZMSG5WR3A0VldTSFNrN0JxWnItSk1SV0ZmelJGZNIBeEFVX3lxTE1NSnc2UERZaktISlBHY25pX3RuV2VXcnNhRFRPc0cwVDllc3RXMFdXYUF0eUNqYUxXNkNWNy15cHhfQVdwbjJiQXpXaEotbTNJVXVUY2NjY3RFRk94bTFRM0dkaFczbGJMajBUdWpTNzA0NDUwNURGSw?oc=5"
+    }
+  ]
+}

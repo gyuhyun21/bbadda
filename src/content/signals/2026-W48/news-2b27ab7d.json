@@ -1,0 +1,22 @@
+{
+  "id": "news-2b27ab7d",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "MHN스포츠",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBjdndfTlEwSGZwblJmOEEwWWo2QWNtTWh5eHZleWs1eG1SQTJtdDE4aTJoQjRXVlpjR1lONmtaX3hPbENPLTBJMHJaZ1hhQXJkRzRhRVA2aUhkXzZpcnRycUVXaw?oc=5",
+  "title": "[APBC 현장]아쉬움 가득했던 APBC...그러나 롯데는 웃을 수 있었다, 선발도 불펜도 타선도 온통 롯데 뿐이었다",
+  "published_at": "2026-11-15T23:59:20.000Z",
+  "collected_at": "2026-11-16T07:38:24.558Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

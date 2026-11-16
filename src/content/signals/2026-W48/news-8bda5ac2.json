@@ -1,0 +1,23 @@
+{
+  "id": "news-8bda5ac2",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "내외일보",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9qZm1MbG1ra2FMOWVqWlpRQURLQlEzd09SUlgtSVRHcGJnUEVqczJuRHlkVlNCdEhDMDZ5R2JRM1QwY29VR0JYQkxkaFNQbDlyc055X3NNcThfYmM1cGlaSjZ2dWFjM01LelV1dTNBbw?oc=5",
+  "title": "강동연 연지 결혼... '귓방망이' 부르다 포커 치던 미녀, '솔로지옥' 강소연 올케 되는 겹경사",
+  "published_at": "2026-11-16T03:37:34.000Z",
+  "collected_at": "2026-11-16T07:38:24.558Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

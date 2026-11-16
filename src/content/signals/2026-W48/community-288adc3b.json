@@ -1,0 +1,24 @@
+{
+  "id": "community-288adc3b",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 오늘의 스타픽",
+  "url": "https://blog.naver.com/daesung_e/224479206726",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/In0ygF68oeR",
+  "title": "“시누이가 '솔로지옥' 강소연?”…12월 야구선수와 결혼하는 걸그룹 출신 정체",
+  "published_at": "2026-11-16T15:33:00.000+09:00",
+  "collected_at": "2026-11-16T07:38:24.558Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

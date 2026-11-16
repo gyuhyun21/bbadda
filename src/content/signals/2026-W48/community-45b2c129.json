@@ -1,0 +1,29 @@
+{
+  "id": "community-45b2c129",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 아, 그럴 수도 있슈",
+  "url": "https://blog.naver.com/kimsa0210/224478922369",
+  "title": "전대영 암 투병 별세, 향년 64세…선동열 상대 홈런 2개보다 빛났던 마지막 기록",
+  "published_at": "2026-11-16T12:54:00.000+09:00",
+  "collected_at": "2026-11-16T07:38:24.558Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1aQjlMUDlvSnJSOHVyRHJfc3ZzTkVfWlBOdE8xZDhpX2FVNlF0bVZMQ3p5ZTYzcEtVYks5cWJqSlJSUkRiVmZpd3V6OWxHalBHbUdpOEVDRQ?oc=5"
+    }
+  ]
+}

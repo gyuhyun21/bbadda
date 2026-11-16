@@ -1,0 +1,23 @@
+{
+  "id": "news-45c30124",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "news",
+  "source_name": "www.xportsnews.com",
+  "url": "https://www.xportsnews.com/article/2220000",
+  "title": "1, 3루 코치가 없네? 한화 '류지현호' 파격 실험, 선수 스스로 주루 판단한다…\"창의적 플레이 해야 해, 지시 받으면 늦다\" [미야자키 현장]",
+  "published_at": "2026-11-16T06:21:31.000Z",
+  "collected_at": "2026-11-16T07:38:24.558Z",
+  "summary_ko": "엑스포츠뉴스는 한화 류지현호가 1·3루 코치 없이 선수 스스로 주루를 판단하게 하는 실험에 나섰다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "1·3루 코치 없이 알아서 뛴다"
+}

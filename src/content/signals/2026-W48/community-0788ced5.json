@@ -1,0 +1,24 @@
+{
+  "id": "community-0788ced5",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&page=8&document_srl=10561941492",
+  "title": "구단이랑 모기업이 샐캡 깰생각 있다는데 팬들이 왜 걱정하지? - 야구",
+  "published_at": "2026-11-16T05:38:24.558Z",
+  "collected_at": "2026-11-16T07:38:24.558Z",
+  "summary_ko": "",
+  "excerpt": "... KIA 타이거즈, 한화 이글스, LG 트윈스 외의 구단이 이들 중 한 명에게 관심이 있다는…",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

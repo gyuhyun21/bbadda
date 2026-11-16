@@ -1,0 +1,33 @@
+{
+  "id": "news-98a25057",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "이데일리",
+  "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNnNVRk9uXzlaa0o0dDFidldNWmdwQW15MnRJQkU3Mkg3RkEzSjctSmxoMmllVVVCb2kxcmpMZ2J2Sk9aYmRBdERrWm43UE9YMmI3M08wNWI3aFlubzFQbS1KZkp1VmUxRGFTWGs4cUd0aXozZGEzeUZteDFud3FGVg?oc=5",
+  "title": "선동열에게 홈런 두 방…빙그레 창단 멤버 전대영 별세",
+  "published_at": "2026-11-16T01:36:37.000Z",
+  "collected_at": "2026-11-16T07:38:24.558Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 82,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "뉴스핌",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9BTkNrLVc4Z2VudzVhYXhVMXk1eXhCOUlval9LQnYyR3FIWGFtaGJOQktiRmhlek45ZDFvSWVWQ1VhVW8wUjlWRVRmNEdqeFBmRUdHX2R4Q012N1Fp?oc=5"
+    },
+    {
+      "source_name": "한국일보",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1nNnRQLUVUcFJ5dlo2bVpBUl9fQm9rZV9EMy03ZEdpRWVuTmVCOWhrUGtZODU4RXA3WGhjQ0NDaHFDRmlsYnJDZDJmX2hWNGRJYlQtblBOeWdYbjhncmhiV1U3c3VHSGJQc2I1UHhqM3M2NFnSAXNBVV95cUxNZzZ0UC1FVHBSeXZaNm1aQVJfX0Jva2VfRDMtN2RHaUVlbk5lQjloa1BrWTg1OEVwN1hoY0NDQ2hxQ0ZpbGJyQ2QyZl9oVjRkSWJULW5QTnlnWG44Z3JoYldVN3N1R0hiUHNiNVB4ajNzNjRZ?oc=5"
+    }
+  ]
+}

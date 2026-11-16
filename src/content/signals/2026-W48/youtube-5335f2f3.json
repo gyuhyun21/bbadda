@@ -1,0 +1,27 @@
+{
+  "id": "youtube-5335f2f3",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "중독의 삶",
+  "url": "https://www.youtube.com/watch?v=BOyqGxwhYRQ",
+  "title": "이기적 야구주의자 #중독의삶 #KBO #한국시리즈 #삼성라이온즈 #KT위즈 #크보 #야구 #야구직관 #야알못 #야빠 #삼성우승",
+  "published_at": "2026-11-16T06:29:59Z",
+  "collected_at": "2026-11-16T07:38:24.558Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 669,
+    "likes": 5,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 45,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

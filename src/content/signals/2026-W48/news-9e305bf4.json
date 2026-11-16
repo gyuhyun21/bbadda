@@ -1,0 +1,22 @@
+{
+  "id": "news-9e305bf4",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "OhmyNews",
+  "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOamFFWnpldF9FRUF0NHItaFEtQkJNa3lBVEhmdHRCLTEyZ1llTUJfS1ZtcEw3bHhTUTdmSlZkX1lpSTFhbUFVSGtZcllFNGhNZFJsZW1Zd25yYUxPYThJNmItTEFjMWVfU0JweGxaaE0wdzM5NlN2RERXMzQ0NWxWc0RUVjZwYnlXdEE?oc=5",
+  "title": "삼성이 조금 더 일찍 우승했다면",
+  "published_at": "2026-11-15T22:18:00.000Z",
+  "collected_at": "2026-11-16T07:38:24.558Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

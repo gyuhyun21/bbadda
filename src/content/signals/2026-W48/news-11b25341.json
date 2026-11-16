@@ -1,0 +1,29 @@
+{
+  "id": "news-11b25341",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "OSEN",
+  "url": "http://www.osen.co.kr/article/G1112910884",
+  "title": "‘넥센→SK→LG’ 염경엽과 손혁의 3번째 호흡…‘가을야구’는 기본이었다, 우승 함께 만들까",
+  "published_at": "2026-11-15T22:11:00.000Z",
+  "collected_at": "2026-11-16T07:38:24.558Z",
+  "summary_ko": "OSEN은 넥센·SK에 이어 LG에서 염경엽 감독과 손혁 코치가 세 번째로 호흡을 맞추게 됐다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 89,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBiUmY3aGk4UWw2T2t1aFFwOEFSd0hZXzVIRTc3SWUxbFd3NHBqbVdCWEhOT2VGOUtSUG1tcGZkOXdxTDZBdnJNd21WcDNKX2Z4Z2VLQVNCZS1TbEIzQ2xxMDhOMjQwZmt6Z2t1S05iZ9IBb0FVX3lxTFBiUmY3aGk4UWw2T2t1aFFwOEFSd0hZXzVIRTc3SWUxbFd3NHBqbVdCWEhOT2VGOUtSUG1tcGZkOXdxTDZBdnJNd21WcDNKX2Z4Z2VLQVNCZS1TbEIzQ2xxMDhOMjQwZmt6Z2t1S05iZw?oc=5"
+    }
+  ],
+  "brief_ko": "염경엽·손혁, 세 번째 호흡"
+}

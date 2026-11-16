@@ -1,0 +1,37 @@
+{
+  "id": "community-83888b30",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 위키트리 WIKITREE",
+  "url": "https://brunch.co.kr/@wikitree/7838",
+  "title": "프로야구 FA 22명 명단 공개",
+  "published_at": "2026-11-16T11:55:53.000+09:00",
+  "collected_at": "2026-11-16T07:38:24.558Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 98,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "이투데이",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9WdzlfT1M1T0dicnZ1c3Z3RGtGMFRHVkh3SVVWdzdFblpXRy02cW51Y3JZenNBblpjclFjT21Fb2ZZRnNFN09ndGdUVHV4RWRRUVJlbA?oc=5"
+    },
+    {
+      "source_name": "위키트리",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9DZlVVVW5Gbkg5QVNBYjd3eTdkS21yZDRQTFJONnpsUFhDS2FRU3dtdklJQlRZWVpncE9DU2MzWXhpd2FOVUpVelNicm44LVhLTHZ4dlB3?oc=5"
+    },
+    {
+      "source_name": "뉴스핌",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0yT2xPcFJEcVI4WjEtVkVsTzZHMXc4UXBzSWJqdy1aZXBsVFRVOUEyVWFISWhjVzhiSUQ4NVhlVmFmNktYZVJUdFV6NnFuaHBQQVBXRU16UjNIcGhT?oc=5"
+    }
+  ]
+}

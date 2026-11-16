@@ -1,0 +1,41 @@
+{
+  "id": "community-1e320b6b",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 돈의 감각 블로그",
+  "url": "https://blog.naver.com/segaero83/224478995247",
+  "title": "“걸그룹♥야구선수 부부 탄생!” 배드키즈 연지·강동연 12월 결혼…'솔로지옥' 강소연까지 가족 된다!",
+  "published_at": "2026-11-16T13:32:00.000+09:00",
+  "collected_at": "2026-11-16T07:38:24.558Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 99,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "세계뉴스통신",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE80cGxWbW40ZXRPOXJFbWdDTU5SN2NFcmpzTTc2blU0MXRKZFlXek0wbUcxekVIa0NRTDFsQWZUVUdhR1BJbTFaRmRuQTV1a05fY241b2dVbmE0TkYzellvV1NVd1VlU1JpQW1RUDYxdlJ0QWh1?oc=5"
+    },
+    {
+      "source_name": "뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE02QmhsTkEycTJ1MURsc2gzOWNLVnRtV082RkoxMjNIdWRnZFFMVjVhcV9VZ1V0SDY1aWRmTG5jX3doR2VnVVc5STdXTldEX3VKcEg1UEhQM1JVRy01Z0xiYklCdmhEUk02M01lQUpEY09XRGFUcGtiWtIBeEFVX3lxTE02QmhsTkEycTJ1MURsc2gzOWNLVnRtV082RkoxMjNIdWRnZFFMVjVhcV9VZ1V0SDY1aWRmTG5jX3doR2VnVVc5STdXTldEX3VKcEg1UEhQM1JVRy01Z0xiYklCdmhEUk02M01lQUpEY09XRGFUcGtiWg?oc=5"
+    },
+    {
+      "source_name": "매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5EaGJ2cV8wOHc5QXdybmZoX2NhNDhqRVpGYllUQU9yVHpvcnZndEFrdjVwTGRnSHBsSXpGTUk5dkFtbVgtRVE?oc=5"
+    },
+    {
+      "source_name": "스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1wQ1hFT0NvekFNSW16RF9yaldFeTdQTDB1MmlNdkphcDdmTDl0d21aQ181aUJ4YTJrejlvcjJyejhpZWdVWllUSGR3T3NoUE9VTGFhbDhDWmtoWk9zTzNqZGJUMXNnMFItSU0tZk90UTlBREU?oc=5"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-578bf027",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "news",
+  "source_name": "SPOTV NEWS",
+  "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1020065",
+  "title": "“SSG 외부 대형 FA 영입하나요? 누가 3루수인가요?” 팬들이 물었다, SSG가 답했다",
+  "published_at": "2026-11-16T05:28:02.000Z",
+  "collected_at": "2026-11-16T07:38:24.558Z",
+  "summary_ko": "SPOTV NEWS는 외부 대형 FA 영입과 3루수 문제를 묻는 팬들의 질문에 SSG가 답했다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "대형 FA·3루수, 팬 질문에 답"
+}

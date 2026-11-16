@@ -1,0 +1,23 @@
+{
+  "id": "news-02077c11",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "스타뉴스",
+  "url": "https://www.starnewskorea.com/sports/2026/11/16/2026111608103759280",
+  "title": "日, 롯데 박정민에 깜짝 놀랐다! \"투수인데 눈 밑에 검은 것 대체 왜?\"",
+  "published_at": "2026-11-15T23:33:42.000Z",
+  "collected_at": "2026-11-16T07:38:24.558Z",
+  "summary_ko": "스타뉴스는 일본 팬들이 롯데 투수 박정민의 눈 밑 검은 칠을 보고 깜짝 놀랐다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "눈 밑 검은 칠, 日 팬 깜짝"
+}

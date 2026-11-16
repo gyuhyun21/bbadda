@@ -1,0 +1,23 @@
+{
+  "id": "community-a2b6d069",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan",
+    "ssg"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 야구별",
+  "url": "https://blog.naver.com/goldenbootpark/224479099435",
+  "title": "두산 김명신, SSG 입단! 더 강해지는 SSG 마운드",
+  "published_at": "2026-11-16T14:18:00.000+09:00",
+  "collected_at": "2026-11-16T07:38:24.558Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "news-3f1351d0",
+  "issue": "2026-W48",
+  "module": "rivalry",
+  "team": "lg",
+  "teams": [
+    "lg",
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBwZWpyUHFtbElDaUM2UlEwQXdKTzd0cFR3YXJ3bjBFZzhFQnkwS0h1dFBydzd2ekQwZ0RtTll4UVVxc2QwVjhwdWVJQkpkSFc1NjVOdnc3RHF6cVlrN0FvN05FQ0JNZklVNWfSAW9BVV95cUxOUlNSX3hoSGtQem1UMkItWmtQMWgxMUJSa1dzS1psek1xSlprYUZjRk1LZW9UVlN5a1doekczSjdpOWJjOEthX0pXWFR6NkhzbkJ3aXR0SWNWSWdVYnZwUWFBUFlKaXJNZWVRVDVRM0k?oc=5",
+  "title": "\"내겐 1군에 올라와야 뛸 수 있는 곳이었다\" 418홈런 전설 박병호에게 잠실은 여전히 특별했다 [잠실 현장]",
+  "published_at": "2026-11-15T19:27:25.000Z",
+  "collected_at": "2026-11-16T07:38:24.558Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 72,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

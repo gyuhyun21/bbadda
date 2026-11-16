@@ -1,0 +1,23 @@
+{
+  "id": "news-e1e50a55",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠동아",
+  "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA4MkY3dllpZ1ZXYU5hQzNOUTdER1I1MDlDN01Jb0ZQZ0p3TGRSRUVGaGV1XzBfVVloYi1NUWFPZkRyT3kwN1V0VHBhOHBpaWw0Z3VzSUhjb0xrWFJRM3FaaWlWbjJ3dmZSU2tvT1dtNkdRdw?oc=5",
+  "title": "“함께 잘 만들어 보겠다” 수비 강화 캠프서 뜻 모은 이동욱 감독·이택근 단장, 리더십 조화 기대감 [SD 미야자키 리포트]",
+  "published_at": "2026-11-16T03:59:00.000Z",
+  "collected_at": "2026-11-16T07:38:24.558Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

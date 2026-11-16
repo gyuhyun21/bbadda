@@ -1,0 +1,27 @@
+{
+  "id": "youtube-e6868d68",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "DKTV Daniel",
+  "url": "https://www.youtube.com/watch?v=epQrjL3vKeA",
+  "title": "FA 김호령이 인기가 많을 수밖에 없는 결정적인 이유는? | DKTV ",
+  "published_at": "2026-11-16T03:35:25Z",
+  "collected_at": "2026-11-16T07:38:24.558Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 7244,
+    "likes": 143,
+    "comments": 80
+  },
+  "scores": {
+    "hot": 77,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

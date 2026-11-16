@@ -1,0 +1,23 @@
+{
+  "id": "news-ac7d586d",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스핌",
+  "url": "https://www.newspim.com/news/view/20261116000650",
+  "title": "[APBC] KIA 우완 김태형, 투수 14명 중 유일 미등판 …무색해진 대회 취지",
+  "published_at": "2026-11-16T04:10:00.000Z",
+  "collected_at": "2026-11-16T07:38:24.558Z",
+  "summary_ko": "뉴스핌은 KIA 우완 김태형이 APBC 대표팀 투수 14명 중 유일하게 등판하지 못해 대회 취지가 무색해졌다고 짚었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "투수 14명 중 유일 미등판"
+}

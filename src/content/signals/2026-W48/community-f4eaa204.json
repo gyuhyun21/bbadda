@@ -1,0 +1,31 @@
+{
+  "id": "community-f4eaa204",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan",
+    "ssg"
+  ],
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&document_srl=10561675045",
+  "title": "[단독] '두산 자진 방출' 김명신, 새 둥지 찾았다!…2027시즌 SSG 입단 ...",
+  "published_at": "2026-11-16T04:38:24.558Z",
+  "collected_at": "2026-11-16T07:38:24.558Z",
+  "summary_ko": "에펨코리아에 공유된 단독 기사는 두산에서 자진 방출된 김명신이 2027시즌 SSG에 입단한다고 전했다.",
+  "excerpt": "... 두산 베어스에서 자진 방출 요청으로 자유의 몸이 된 베테랑 투수 김명신이 2027시즌 새 둥지를…",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "negative",
+  "also_in": [
+    {
+      "source_name": "엑스포츠뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1WQnB3RVZnQjFlRDU1S2hvSmxhR2lQZF8ydDZ3R0JFY3NCLUx6NUIyb2pmcC1QcmVrNm5jamZtcXloeERZUnVwQ0VoSFlmMHR5cHQzdg?oc=5"
+    }
+  ],
+  "brief_ko": "김명신, 새 둥지는 SSG"
+}

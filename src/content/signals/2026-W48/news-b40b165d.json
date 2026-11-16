@@ -1,0 +1,23 @@
+{
+  "id": "news-b40b165d",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "news",
+  "source_name": "미주중앙일보",
+  "url": "https://www.koreadaily.com/article/20261115215135886",
+  "title": "‘와’ 두산 파격! 카메론+세베리노 악몽→새 외인타자 조건 떴다 “포지션+좌우 상관 NO, 잘 치기만 하면 된다” [오!쎈 미야자키]",
+  "published_at": "2026-11-16T05:50:00.000Z",
+  "collected_at": "2026-11-16T07:38:24.558Z",
+  "summary_ko": "미주중앙일보는 외국인 타자로 고전했던 두산이 새 외국인 타자는 포지션·좌우 상관없이 잘 치기만 하면 된다는 조건을 내걸었다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "새 외인 타자 조건은 '잘 치기'"
+}

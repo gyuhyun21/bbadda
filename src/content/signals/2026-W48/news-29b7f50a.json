@@ -1,0 +1,23 @@
+{
+  "id": "news-29b7f50a",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "파이낸셜뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8xZVEyRXlwUG9JWG1CWFBDOW42bUltS0hZaTJBYkQxdHlEdlBwNWpjblVZbGZEYUtxOHFuN2VoZzJMYU9ja3NwdXYxZFVkbzdHMndKN1RXTVVsQQ?oc=5",
+  "title": "\"한국에선 V9 에이스인데 미국 가면 불펜?\" 26세 FA 원태인 향한 美 스카우트의 냉혹한 시선",
+  "published_at": "2026-11-16T00:12:01.000Z",
+  "collected_at": "2026-11-16T07:38:24.558Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

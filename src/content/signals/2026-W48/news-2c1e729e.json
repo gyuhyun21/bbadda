@@ -1,0 +1,23 @@
+{
+  "id": "news-2c1e729e",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "마이데일리",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA4b2JRYmtPcFVWVkdOalNnRmctSmI0dmF1cFVTYlpDUXBLSnpoczY4S0FINTJWanotY0tXbnNnXzctZVZtclNiREV2b2dDVzJnM195d3J0WDFjcy1RN0VFTg?oc=5",
+  "title": "“한일전 13연패, 심각하게 받아들여야…이렇게 가면 수준 차 더 난다” 이승엽 작심발언, 日경험자라서 ‘섬뜩’",
+  "published_at": "2026-11-15T15:47:44.000Z",
+  "collected_at": "2026-11-16T07:38:24.558Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 62,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

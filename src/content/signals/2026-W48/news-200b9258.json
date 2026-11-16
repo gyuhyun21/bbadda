@@ -1,0 +1,29 @@
+{
+  "id": "news-200b9258",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA3R0NPUkprY0FzY3JfTlVYem1TM3pSdDRfdUJWeXVnMEdiOU41cG9veHBycFd2T3dmREtZMkVsb3RZMHV6NUVHUVBuMll0RGgyYkVlZXA4cGw2ekZKWW1YTFBTRXVnekhWZ2hWRHZ0MNIBb0FVX3lxTFA3R0NPUkprY0FzY3JfTlVYem1TM3pSdDRfdUJWeXVnMEdiOU41cG9veHBycFd2T3dmREtZMkVsb3RZMHV6NUVHUVBuMll0RGgyYkVlZXA4cGw2ekZKWW1YTFBTRXVnekhWZ2hWRHZ0MA?oc=5",
+  "title": "ML 거절→‘韓최초’ 5억 신인 계약…승승장구 18세 슈퍼루키, 어쩌다 “계약금 전혀 중요하지 않다” 깨달았을까 [오!쎈 미야자키]",
+  "published_at": "2026-11-16T01:42:00.000Z",
+  "collected_at": "2026-11-16T07:38:24.558Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5LUGdiamxRWlBNVzhIT292RnlJX2U0NHpwcS1kaDQ1SGtZOEV4WW9TekRxb19BRTljSzdKbHIzaV9ybWR2eTMyS0FoVWc5Q0gyS0NlWQ?oc=5"
+    }
+  ]
+}

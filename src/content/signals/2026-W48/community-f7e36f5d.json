@@ -1,0 +1,28 @@
+{
+  "id": "community-f7e36f5d",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 엘지트윈스 V5를 기원합니다",
+  "url": "https://blog.naver.com/21alcjh/224478158030",
+  "title": "[영입]엘지트윈스 손혁 코치 영입",
+  "published_at": "2026-11-16T06:10:00.000+09:00",
+  "collected_at": "2026-11-16T07:38:24.558Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 80,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "키즈맘",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1iQzUtMldQMm05bjE0UTZXVl9sN3VMZ3BibG5NNWFxajJodVpQQnlYNllxdVIwdGpyckExNlh0elRtcjM4STJKRjFjdVFDazRDT1NYZFBBMFY2UWdWMmwtQ1A2ZzdvNUhI?oc=5"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "community-a3548190",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 축구 야구 자동차매니아 일상블로그",
+  "url": "https://blog.naver.com/nkkite1002/224478858470",
+  "title": "2027 KBO FA 10개구단 FA 명단",
+  "published_at": "2026-11-16T12:11:00.000+09:00",
+  "collected_at": "2026-11-16T07:38:24.558Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 82,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "더게이트",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE82bnZnN3Fac1Vfb3BXSGFLZWlXSUg1amM5d01RXzd0NUpFRF80RXF3Zl9xWC12eGEyOEVOZ2dJNm5oLWZkR213OEFXOUVxUVZodFdneEJkYkhSRERPcG94ZlBUT2tFWTRrMkHSAWxBVV95cUxNZjV0NTJzTTZ2VmU3THdtTkR6TG9aZXBRNXBjaU81YV9qMHJxSmxSb3otVXhaUmlRSXhuWXNrTUtfYUtUN3RVcndhMWZSelRrUTlTM3JuR3dFMDlCQTloLWdMNVYxVDRQdk9pN0U?oc=5"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "community-13cc8e58",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&document_srl=10562220388",
+  "title": "오늘의 키움야구 결과",
+  "published_at": "2026-11-16T07:20:24.558Z",
+  "collected_at": "2026-11-16T07:38:24.558Z",
+  "summary_ko": "",
+  "excerpt": "... [레벨:35] 알상무의알포인트 3 분 전. 히어로즈콘(겆버스) ✚. 1. [레벨:31] 키움이정후 2 분 전. ㅄ들.…",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "community-1ee93f16",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg",
+    "lg"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 baseball.blg",
+  "url": "https://blog.naver.com/assyiop0408/224479207749",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/BgDqf9bVROs",
+  "title": "방출 통보 3일 만에 분위기 반전? SSG와 결별한 포수 김민식, LG 임박행…계약 마무리까지?",
+  "published_at": "2026-11-16T15:33:00.000+09:00",
+  "collected_at": "2026-11-16T07:38:24.558Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

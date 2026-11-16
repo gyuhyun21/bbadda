@@ -1,0 +1,22 @@
+{
+  "id": "community-8ca983ba",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 오늘의 스포츠 직구",
+  "url": "https://blog.naver.com/thermdlkitchen/224478521642",
+  "title": "‘롯데는 원태인 쟁탈전에 300억 장전 가능’ 이동욱표 우승 프로젝트 본격 시동",
+  "published_at": "2026-11-16T12:57:00.000+09:00",
+  "collected_at": "2026-11-16T07:38:24.558Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}
