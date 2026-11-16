@@ -1,0 +1,27 @@
+{
+  "id": "youtube-26f0c999",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha",
+    "lg"
+  ],
+  "source_type": "youtube",
+  "source_name": "오늘핫이슈",
+  "url": "https://www.youtube.com/watch?v=Y-2Z_6OBSvs",
+  "title": "한화 최원호 2군 감독 3년 계약 뒤 1군 승격·손혁 LG 합류",
+  "published_at": "2026-11-16T04:16:19Z",
+  "collected_at": "2026-11-16T07:38:24.558Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1596,
+    "likes": 2,
+    "comments": 5
+  },
+  "scores": {
+    "hot": 47,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

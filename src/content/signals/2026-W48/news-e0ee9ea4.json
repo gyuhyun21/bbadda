@@ -1,0 +1,23 @@
+{
+  "id": "news-e0ee9ea4",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠경향",
+  "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1lWnhtMXVOaFQ0cERvX3hWdl83TkNkWi1YREU5UGxyZUIyeXdjMWxzVVIyQ3V2dVFuX0lOaFdsQmk0Nk11T2NwUlVFcXF0M2luOGNxUExQTVpDQUlXVlHSAWNBVV95cUxPZUtlY0dtZnA2VEozQlpyVmtJU21EMmNuM2xJWHBObTcxUHMtdEVJaWtscDZYcWM0eHFxbDBfRkhyNkFwalpJdmtCNWN3NU5vT2NLNF9FY0l3S0dKem5zUkxZcHM?oc=5",
+  "title": "점심시간 전 1시간…코치 2명에 선수 2명, 집중 훈련이 시작된다",
+  "published_at": "2026-11-16T06:50:00.000Z",
+  "collected_at": "2026-11-16T07:38:24.558Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

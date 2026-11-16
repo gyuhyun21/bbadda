@@ -1,0 +1,24 @@
+{
+  "id": "community-624db20d",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 리뷰스펙트럼님의 블로그",
+  "url": "https://blog.naver.com/reviewspectrum/224479049654",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/JNdEOXBHSlZ",
+  "title": "1993생 연지.. 배드키즈 출신, 투수와 결혼에도 스타일은?",
+  "published_at": "2026-11-16T14:21:00.000+09:00",
+  "collected_at": "2026-11-16T07:38:24.558Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

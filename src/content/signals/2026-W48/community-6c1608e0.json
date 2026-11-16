@@ -1,0 +1,24 @@
+{
+  "id": "community-6c1608e0",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "레딧 r/KBO",
+  "url": "https://www.reddit.com/r/KBO/comments/1xxg7ui/kbo_approves_22_players_for_2027_fa_market/",
+  "title": "KBO Approves 22 Players for 2027 FA Market",
+  "published_at": "2026-11-16T04:38:24.558Z",
+  "collected_at": "2026-11-16T07:38:24.558Z",
+  "summary_ko": "",
+  "excerpt": "... ... (박승욱). NC Dinos. Kwon Hui-dong (권희동). Kiwoom Heroes. Choi Joo-hwan (최주환). 10 High-Upside…",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

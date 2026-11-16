@@ -1,0 +1,23 @@
+{
+  "id": "news-d1e6e1dd",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "news",
+  "source_name": "마이데일리",
+  "url": "https://mydaily.co.kr/page/view/2026111614535106603",
+  "title": "전대영 전 한화 2군 감독 암투병 중 세상 떠나…향년 64세",
+  "published_at": "2026-11-16T05:54:46.000Z",
+  "collected_at": "2026-11-16T07:38:24.558Z",
+  "summary_ko": "보도에 따르면 전대영 전 한화 2군 감독이 암 투병 끝에 향년 64세로 세상을 떠났다. 마이데일리가 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "전대영 전 2군 감독 별세"
+}

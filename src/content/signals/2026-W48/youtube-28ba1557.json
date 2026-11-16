@@ -1,0 +1,27 @@
+{
+  "id": "youtube-28ba1557",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan",
+    "ssg"
+  ],
+  "source_type": "youtube",
+  "source_name": "크보쌍둥이",
+  "url": "https://www.youtube.com/watch?v=7gHigk8Xs4k",
+  "title": "[오피셜!] 두산 김명신 SSG 입단! 두팀에게 완벽한 마무리! SSG 투수진 강하다! #ssg랜더스 #두산베어스 #김명신 #이로운 #김건우",
+  "published_at": "2026-11-16T04:59:37Z",
+  "collected_at": "2026-11-16T07:38:24.558Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 4615,
+    "likes": 60,
+    "comments": 8
+  },
+  "scores": {
+    "hot": 61,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

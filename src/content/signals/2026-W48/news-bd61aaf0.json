@@ -1,0 +1,22 @@
+{
+  "id": "news-bd61aaf0",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "이데일리",
+  "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPaUt5eE8wUkVEYUFwQ3RWbnc5TEd6blZTNDVlZlFXTEYzbU9aM0UxbEY5NlducmlSNW1pYVFfVXJIVFllengtblZwRy1ZZlRrQ2NkbTZIRnkxSVdRcnRWdDc5bTJyQkp2Q2M0TVJuMUM3c0JZYTNFbzN2SzZGaEpfNw?oc=5",
+  "title": "삼성라이온즈 라팍 '원태인 막창타코', 에버랜드 간다",
+  "published_at": "2026-11-16T01:13:23.000Z",
+  "collected_at": "2026-11-16T07:38:24.558Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

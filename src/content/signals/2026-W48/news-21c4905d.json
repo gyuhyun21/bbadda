@@ -1,0 +1,24 @@
+{
+  "id": "news-21c4905d",
+  "issue": "2026-W48",
+  "module": "rivalry",
+  "team": "hanwha",
+  "teams": [
+    "hanwha",
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "조선일보",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPY2g5a3NIY09pcE5GOVNhS0t3VTFVb1FRVVRYWWFfcXRiT0dRRklyRXFSZkJLa3poWUF5ZnFGYmdpUzJIWjdKTWdzNjJDMmd4SDJYWFRKWGdnT0FiaU5HUXFZVkpJakZycG5QOHEwN29kRzVLTlBRV3ZCd3hSNlYyZXg0cw?oc=5",
+  "title": "\"50경기는 나가야 밥줄이…\" 선발 수업? '손아섭 트레이드' 군필 좌완, 배수진 제대로 쳤다 [인터뷰]",
+  "published_at": "2026-11-15T17:28:00.000Z",
+  "collected_at": "2026-11-16T07:38:24.558Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 71,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

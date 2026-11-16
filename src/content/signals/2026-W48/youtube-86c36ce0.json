@@ -1,0 +1,26 @@
+{
+  "id": "youtube-86c36ce0",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "쇼핑잇",
+  "url": "https://www.youtube.com/watch?v=9TEbqtc1QV0",
+  "title": "14년 만에 이룬 첫 우승의 꿈 #삼성라이온즈 #김태훈 #한국시리즈",
+  "published_at": "2026-11-16T06:18:34Z",
+  "collected_at": "2026-11-16T07:38:24.558Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 587,
+    "likes": 2,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 40,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

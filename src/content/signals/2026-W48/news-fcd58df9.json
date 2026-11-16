@@ -1,0 +1,23 @@
+{
+  "id": "news-fcd58df9",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "서울신문",
+  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9XcTBiLUdxbEhrWnZfQllfZEM1ZUc4SEpmWTlSbnRZWEczYnBZYnhrNENicVBkaEpKc1RlSE92cmN5dGJKMjdLSUF5dm16azlkVDJVYjRyTQ?oc=5",
+  "title": "드디어 FA 시장 문 열렸다...과연 ‘구원 열차’는 어디로 향할까?",
+  "published_at": "2026-11-16T01:20:37.000Z",
+  "collected_at": "2026-11-16T07:38:24.558Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

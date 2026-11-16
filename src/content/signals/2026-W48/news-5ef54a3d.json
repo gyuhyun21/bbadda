@@ -1,0 +1,23 @@
+{
+  "id": "news-5ef54a3d",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠경향",
+  "url": "https://sports.khan.co.kr/article/202611161049003/amp",
+  "title": "두산 아쿼 타카다 “내년은 선발로, 두 자리 승수 올리고 싶다”",
+  "published_at": "2026-11-16T01:49:00.000Z",
+  "collected_at": "2026-11-16T07:38:24.558Z",
+  "summary_ko": "스포츠경향은 두산 아시아쿼터 타카다가 내년엔 선발로 두 자릿수 승리를 올리고 싶다고 했다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "타카다, 내년엔 선발 10승"
+}

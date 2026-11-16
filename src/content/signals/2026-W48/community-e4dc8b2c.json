@@ -1,0 +1,34 @@
+{
+  "id": "community-e4dc8b2c",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha",
+    "lotte"
+  ],
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&page=4&document_srl=10561991237",
+  "title": "한화 롯데 연습경기 문자중계 근황 - 야구",
+  "published_at": "2026-11-15T15:00:00.000Z",
+  "collected_at": "2026-11-16T07:38:24.558Z",
+  "summary_ko": "",
+  "excerpt": "... 2026.11.16 15:06. 한화 롯데 연습경기 문자중계 근황. [레벨:30] 북일고등학교. 조회 수 546 추천 수…",
+  "metrics": {},
+  "scores": {
+    "hot": 86,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "스포츠조선",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9zYW5icGVpQ1QybkRFd0pYb3Jmek5XTmRBRU1tVUVObmFlZ0RpNjBFSEFORzRXQTdyck8xeWsxcXo3aFZiTVhNOWVWbjhqT1RrX1pNcVoxNkFpUTdpeDRHMEFZUDBtVnlLSG1tRThIZG9hX2k4Tmh3Zk1yV3huQQ?oc=5"
+    },
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdkFDeW5zcWh3STdBTlZBR09uamhtMlR2U3FQTVRSU0x0ZmlGMW8ycHFCZ1J5bUs3M2tuMHlSSm84RmlNZkx4ckUyeGtNbEtXYUlNNElNbVgzUHluSFhHMHhCV3JCenBNS1l5RGtiZ0hKem9HM3RIX1hBOUdXYngtemNQNA?oc=5"
+    }
+  ]
+}

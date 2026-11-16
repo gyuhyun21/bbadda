@@ -1,0 +1,23 @@
+{
+  "id": "community-12cf7673",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 지금 이 이슈",
+  "url": "https://blog.naver.com/nowmoon101/224479095148",
+  "title": "FA 시장, '최대어' 3인방 출격! 양의지·구자욱·원태인, 새 둥지 찾나?",
+  "published_at": "2026-11-16T14:20:00.000+09:00",
+  "collected_at": "2026-11-16T07:38:24.558Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

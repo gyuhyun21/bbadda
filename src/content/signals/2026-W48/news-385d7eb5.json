@@ -1,0 +1,24 @@
+{
+  "id": "news-385d7eb5",
+  "issue": "2026-W48",
+  "module": "rivalry",
+  "team": "kt",
+  "teams": [
+    "kt",
+    "ssg"
+  ],
+  "source_type": "news",
+  "source_name": "경기일보",
+  "url": "https://www.kyeonggi.com/article/20261116580312",
+  "title": "KBO FA 승인 22명 공시…KT 6명·SSG 3명 시장 출격",
+  "published_at": "2026-11-16T05:45:57.000Z",
+  "collected_at": "2026-11-16T07:38:24.558Z",
+  "summary_ko": "경기일보는 KBO가 FA 승인 선수 22명을 공시했고 KT에서 6명, SSG에서 3명이 시장에 나왔다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 83,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "6명이 FA 시장으로"
+}

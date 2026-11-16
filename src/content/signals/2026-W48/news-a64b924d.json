@@ -1,0 +1,24 @@
+{
+  "id": "news-a64b924d",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "SPOTV NEWS",
+  "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1019985",
+  "title": "\"미국과 일본에서 관심\" KBO 우승 주역 못 지키나, NPB에서 다시 페덱을 노린다",
+  "published_at": "2026-11-16T02:01:17.000Z",
+  "collected_at": "2026-11-16T07:38:24.558Z",
+  "summary_ko": "SPOTV NEWS는 미국과 일본에서 관심을 받는 삼성 우승 주역 페덱을 NPB가 다시 노린다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "brief_ko": "페덱, NPB가 다시 노린다"
+}

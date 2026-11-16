@@ -1,0 +1,23 @@
+{
+  "id": "news-d4539bfb",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "news",
+  "source_name": "연합뉴스",
+  "url": "https://www.yna.co.kr/amp/view/AKR20261116056400007",
+  "title": "나이 40에 전성기 SSG 노경은 자서전…'투수라는 직업에게 경례'",
+  "published_at": "2026-11-16T01:35:16.000Z",
+  "collected_at": "2026-11-16T07:38:24.558Z",
+  "summary_ko": "연합뉴스는 40세에 전성기를 보내는 SSG 노경은이 '투수라는 직업에게 경례'라는 자서전을 냈다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "노경은, 40세에 낸 자서전"
+}

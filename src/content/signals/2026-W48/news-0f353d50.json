@@ -1,0 +1,25 @@
+{
+  "id": "news-0f353d50",
+  "issue": "2026-W48",
+  "module": "rivalry",
+  "team": "ssg",
+  "teams": [
+    "ssg",
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "announcement": true,
+  "source_name": "네이트",
+  "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9mMEFrLUtqem5yZFJmSUR2Nzhia1BsQkFFUFNZaURidkRtWDFpRlpuTGhVWXFxNk5Ta0dEN3VwcmpFOG9CU0I5YXZiOUR6VE9LMGF1SkpB?oc=5",
+  "title": "[공식발표] 한유섬·서진용·박승욱·최주환 FA 신청 안 했다…FA 28명 중 22명 신청, 17일부터 협상 개시",
+  "published_at": "2026-11-16T02:47:00.000Z",
+  "collected_at": "2026-11-16T07:38:24.558Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 82,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

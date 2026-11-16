@@ -1,0 +1,19 @@
+{
+  "id": "news-ec4a59b0",
+  "issue": "2026-W48",
+  "module": "league",
+  "teams": [],
+  "source_type": "news",
+  "source_name": "한국미디어뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9lOERJRm5yOWttMjJXV3p6RG52VjZoNThGSUNYd2dTamlkdWNWZ0wwYlltQ1dvTHNmalRDZV85czhWaU12YjItUFhkZER6eXlwYm1sS0FkanZ5MWJCRG1jdEYxNGR6QQ?oc=5",
+  "title": "2026 신한 SOL KBO 포스트시즌 시청 데이터 지표",
+  "published_at": "2026-11-16T01:14:44.000Z",
+  "collected_at": "2026-11-16T07:38:24.558Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 30
+  },
+  "sentiment": "neutral"
+}

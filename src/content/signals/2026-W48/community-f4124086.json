@@ -1,0 +1,24 @@
+{
+  "id": "community-f4124086",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&page=3&document_srl=10561817051",
+  "title": "스토브 잘되어야할텐데 - 야구",
+  "published_at": "2026-11-16T05:38:24.558Z",
+  "collected_at": "2026-11-16T07:38:24.558Z",
+  "summary_ko": "",
+  "excerpt": "... 타팀팬이지만 지켜보고있는 유망주) LG이재원 기아김기훈 KT원상현 키움이주형 [2] · 1. 도영 · 2. 롯데…",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

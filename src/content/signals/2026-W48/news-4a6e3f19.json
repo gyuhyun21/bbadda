@@ -1,0 +1,23 @@
+{
+  "id": "news-4a6e3f19",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "마이데일리",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1HenpmalZJc21sMndFbi04SFU1Zl9RWHNYY1hIem9mRGpYVmlNeEFzZjJ6QndkeUN0MFp5SHRRUDRDc2dkaDVKRVZicVg3ekhyMlRtci1LZ0xyOGt6ZVlGNg?oc=5",
+  "title": "'미쳤다' 41억 폰세 외인급 파트너가 되다니…왜 이 선수는 한국행 결심했나, 美 이유 공개 \"수개월 기다려야, 야구만 집중할 수 있다\"",
+  "published_at": "2026-11-15T19:41:00.000Z",
+  "collected_at": "2026-11-16T07:38:24.558Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 72,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

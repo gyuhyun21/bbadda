@@ -1,0 +1,24 @@
+{
+  "id": "community-3d8d5ac4",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 지후의 연예 핫이슈 브리핑",
+  "url": "https://blog.naver.com/choo311/224479198771",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/DpbMcLKpf4k",
+  "title": "🚨대박! 배드키즈 출신 연지♥전 야구선수 강동연, 12월 12일 결혼!",
+  "published_at": "2026-11-16T15:27:00.000+09:00",
+  "collected_at": "2026-11-16T07:38:24.558Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

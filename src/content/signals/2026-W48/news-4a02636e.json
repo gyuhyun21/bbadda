@@ -1,0 +1,23 @@
+{
+  "id": "news-4a02636e",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "마이데일리",
+  "url": "https://www.mydaily.co.kr/page/view/2026111616044593369",
+  "title": "`홍창기 또는 김호령 잡을까` 롯데, FA 시장서 외야 전력 보강 여부에 관심",
+  "published_at": "2026-11-16T07:05:54.000Z",
+  "collected_at": "2026-11-16T07:38:24.558Z",
+  "summary_ko": "마이데일리는 롯데가 FA 시장에서 홍창기나 김호령을 잡아 외야를 보강할지 관심이 쏠린다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 84,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "홍창기냐 김호령이냐, 외야 보강"
+}

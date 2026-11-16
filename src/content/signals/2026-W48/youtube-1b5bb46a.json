@@ -1,0 +1,26 @@
+{
+  "id": "youtube-1b5bb46a",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "라이온즈백서",
+  "url": "https://www.youtube.com/watch?v=g3RHqjtRTvY",
+  "title": "한일전 도중 교체된 김지찬, 무릎 검사 결과는? #삼성라이온즈",
+  "published_at": "2026-11-16T07:15:08Z",
+  "collected_at": "2026-11-16T07:38:24.558Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 410,
+    "likes": 6,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 47,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

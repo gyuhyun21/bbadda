@@ -1,0 +1,25 @@
+{
+  "id": "news-db690315",
+  "issue": "2026-W48",
+  "module": "rivalry",
+  "team": "lg",
+  "teams": [
+    "lg",
+    "hanwha",
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "국민일보",
+  "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5aM2Vxb29lVldxcFBhck12LVlWdnV3WThEbGRGdDJ6MldRSDVNa3dUTFJ6NEFLQTVSTFRNWDZqVEhiMHFWVzVCMjRZQXE2RUctRFRRMURqZHI?oc=5",
+  "title": "FA 포수 4인에 요동치는 각 구단 안방",
+  "published_at": "2026-11-16T07:02:44.000Z",
+  "collected_at": "2026-11-16T07:38:24.558Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 84,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

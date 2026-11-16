@@ -1,0 +1,23 @@
+{
+  "id": "news-0045d5d7",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "노컷뉴스",
+  "url": "https://www.nocutnews.co.kr/news/6607541",
+  "title": "'13홈런·정상급 수비' 김호령이 보상 선수 없이 풀렸다…KIA의 '빗나간 계산'",
+  "published_at": "2026-11-16T06:24:20.000Z",
+  "collected_at": "2026-11-16T07:38:24.558Z",
+  "summary_ko": "노컷뉴스는 13홈런에 정상급 수비를 갖춘 김호령이 보상 선수 없이 FA 시장에 풀리며 KIA의 계산이 빗나갔다고 짚었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "brief_ko": "김호령, 보상 선수 없이 시장에"
+}

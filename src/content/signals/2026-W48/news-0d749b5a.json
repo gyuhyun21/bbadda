@@ -1,0 +1,33 @@
+{
+  "id": "news-0d749b5a",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "미주중앙일보",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE44RkM4UGt0QXFxMkgtdS16eHdPWUlmeDZXSDFzWGlUTFl4QzQ2UUU4OFlCUXlfVTJrUk5hYnFIdFlOMmk1VjN6UjA0ZVNSZjl1TWFwaU0tdjZzTFVreXBvWmxB?oc=5",
+  "title": "14년 기다려 겨우 하나 얻었는데 또 갖고 싶다…20억 FA의 끝나지 않은 우승 욕심",
+  "published_at": "2026-11-15T23:40:00.000Z",
+  "collected_at": "2026-11-16T07:38:24.558Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 81,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9GOE85OWRfWm5XeTdHRXRpRzJnNVN0SmVrQjEtUXJEdExJaGZhNUs1Q2dGdTljWVVEV1dJVUxlSFFaQnJXM1g0OURnSTJRdmRPTGVXMg?oc=5"
+    },
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWlVhRUR1VnRqZVFHVzNtM0I2QmZ4UzB3UnhCdFJwNU56RloxczJfWUFUcWI4bGcxM1JhWUdQWGhVekhJczZPYTB5ZXUzYUV0bmJudTMwNHBLMnRaNWZZMG5DM21HTHhuTEkwdUpPSUc5U1JqRkYyc3pvVzFlWlQtZ3pOOA?oc=5"
+    }
+  ]
+}

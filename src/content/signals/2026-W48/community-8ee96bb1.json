@@ -1,0 +1,24 @@
+{
+  "id": "community-8ee96bb1",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 그대라서",
+  "url": "https://blog.naver.com/kgr1029/224479269511",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/IRgeBa1ShRY",
+  "title": "한국 야구, 일본전 1-5 완패로 3회 연속 준우승…2패 하고도 결승 간 사연",
+  "published_at": "2026-11-16T16:16:00.000+09:00",
+  "collected_at": "2026-11-16T07:38:24.558Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "community-e31cd85a",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 스포츠돋보기",
+  "url": "https://blog.naver.com/news365-/224478868766",
+  "title": "“140경기 주전이 있는데 신인 유격수를 왜 데려갔을까?” 이동욱 감독이 임성준을 주목한 이유 그럴만...",
+  "published_at": "2026-11-16T12:33:00.000+09:00",
+  "collected_at": "2026-11-16T07:38:24.558Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

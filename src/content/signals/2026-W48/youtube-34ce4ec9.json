@@ -1,0 +1,28 @@
+{
+  "id": "youtube-34ce4ec9",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg",
+    "ssg",
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "코리아 언리미티드",
+  "url": "https://www.youtube.com/watch?v=Rq4PTdIrziM",
+  "title": "[포수 대이동 본격화!] LG 트윈스, SSG 김민식 영입 추진?! KIA와의 치열한 쟁탈전, 최종 승자는 누구인가?",
+  "published_at": "2026-11-16T03:00:02Z",
+  "collected_at": "2026-11-16T07:38:24.558Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 325,
+    "likes": 3,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 41,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

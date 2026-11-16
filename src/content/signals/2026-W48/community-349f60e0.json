@@ -1,0 +1,24 @@
+{
+  "id": "community-349f60e0",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/10561515605",
+  "title": "\"일본은 150km이상 던지는데... 한국타자들 145km 타이밍.\" 일본 언론 ...",
+  "published_at": "2026-11-16T03:38:24.558Z",
+  "collected_at": "2026-11-16T07:38:24.558Z",
+  "summary_ko": "",
+  "excerpt": "... 매체는 SSG 랜더스에서 아시아쿼터로 뛴 다케다 쇼타의 경험을 바탕으로한 의견을 한국 타자들이 일본 투수들의…",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

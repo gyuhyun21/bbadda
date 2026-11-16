@@ -1,0 +1,22 @@
+{
+  "id": "community-0ce6d562",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 오늘의 스포츠픽",
+  "url": "https://blog.naver.com/forehfrhdiddl/224478974957",
+  "title": "\"1군에서 밀려나더니 동료에게 매달렸다\" KIA 홍민규가 평균자책점 7.59를 기록한 뒤 털어놓은 고민...",
+  "published_at": "2026-11-16T13:30:00.000+09:00",
+  "collected_at": "2026-11-16T07:38:24.558Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

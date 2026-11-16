@@ -1,0 +1,23 @@
+{
+  "id": "news-197c3b03",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "남도일보",
+  "url": "https://www.namdonews.com/news/articleView.html?idxno=929368",
+  "title": "[여기는 오키나와]\"선발 자리 되찾겠다\"…KIA 윤영철, 1년 기다림 끝 ‘재도약’ 다짐",
+  "published_at": "2026-11-16T06:15:09.000Z",
+  "collected_at": "2026-11-16T07:38:24.558Z",
+  "summary_ko": "남도일보는 KIA 윤영철이 1년 기다림 끝에 오키나와 캠프에서 선발 자리를 되찾겠다고 다짐했다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "윤영철, 선발 자리 되찾겠다"
+}

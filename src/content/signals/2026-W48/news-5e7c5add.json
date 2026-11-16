@@ -1,0 +1,22 @@
+{
+  "id": "news-5e7c5add",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠경향",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9JSTFSdmRDNS0wWVp1REZGb0s1YXNKcDhiMUJ1UWdWckdBZUxHOWZxUmUydWJxV3o1eE12X1NvXzhtMFIxREFfR05HcDlyRjJqZFhDR21CZ2RQVUNDQUlvSWdTd9IBY0FVX3lxTE9JSTFSdmRDNS0wWVp1REZGb0s1YXNKcDhiMUJ1UWdWckdBZUxHOWZxUmUydWJxV3o1eE12X1NvXzhtMFIxREFfR05HcDlyRjJqZFhDR21CZ2RQVUNDQUlvSWdTdw?oc=5",
+  "title": "170억 원의 족쇄 풀린 롯데…이번 스토브리그에서는 지갑 열까",
+  "published_at": "2026-11-16T04:48:00.000Z",
+  "collected_at": "2026-11-16T07:38:24.558Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

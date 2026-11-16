@@ -1,0 +1,24 @@
+{
+  "id": "community-561a2879",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 마데의 야구 칼럼",
+  "url": "https://blog.naver.com/da331/224478335283",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/IuvRfvxyukv",
+  "title": "[KBO] 외국인 중견수 데려오면 몇 승 오르나? 첫해 성공 8명 vs 실패 9명… 그냥 기다려도 오르는 몫...",
+  "published_at": "2026-11-16T07:59:00.000+09:00",
+  "collected_at": "2026-11-16T07:38:24.558Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

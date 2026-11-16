@@ -1,0 +1,24 @@
+{
+  "id": "community-dc685ac9",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&document_srl=10561186900",
+  "title": "'투수 출신' 최원호의 아펙 행적 - 야구",
+  "published_at": "2026-11-16T01:38:24.558Z",
+  "collected_at": "2026-11-16T07:38:24.558Z",
+  "summary_ko": "",
+  "excerpt": "... [레벨:35] 랜더스 2 분 전. + 곽빈 나왔으면 몰랐다 이지랄. [레벨:22] 폭챱천국 1 분…",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

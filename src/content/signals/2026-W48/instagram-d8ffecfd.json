@@ -1,0 +1,27 @@
+{
+  "id": "instagram-d8ffecfd",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "instagram",
+  "official": true,
+  "source_name": "Instagram @heroesbaseballclub",
+  "url": "https://www.instagram.com/p/DfyioipEre6/",
+  "title": "키움 히어로즈 공식 인스타그램: 🎄 2026 현대백화점 목동점과 함께하는 키움히어로즈 연말자선행사 🎄",
+  "published_at": "2026-11-16T04:52:34+0000",
+  "collected_at": "2026-11-16T07:38:24.558Z",
+  "summary_ko": "키움 공식 인스타그램이 현대백화점 목동점과 함께하는 연말 자선행사를 알렸다.",
+  "metrics": {
+    "likes": 876,
+    "comments": 97
+  },
+  "scores": {
+    "hot": 67,
+    "relevance": 50
+  },
+  "sentiment": "neutral",
+  "brief_ko": "목동에서 연말 자선행사"
+}

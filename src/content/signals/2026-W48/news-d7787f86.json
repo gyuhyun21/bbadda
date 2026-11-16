@@ -1,0 +1,22 @@
+{
+  "id": "news-d7787f86",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "BNT뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE40dnRyRW9aMDFiTy1fMVh6UHFyRzgwaGNoV1N0OXVWamJmeVlrNlZYZjBGVnVfRVhEQVVtOUUyWmliX2dST1N2MkxvTUxWN3FuUHpiSmtKWjA0WjhjUjlSYm5ybms?oc=5",
+  "title": "APBC 아쉬운 준우승에도 빛난 롯데의 미래",
+  "published_at": "2026-11-16T01:53:51.000Z",
+  "collected_at": "2026-11-16T07:38:24.558Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

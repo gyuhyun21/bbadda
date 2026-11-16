@@ -1,0 +1,23 @@
+{
+  "id": "news-db7f1c6e",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9vLWFMNENIZTVfcTVxTHlYby1kbzVMa1pxZ0NQUXhIUU9PR0NELVU4WG94OGxxb3g1c0QzdkhERlhCMnlJamFzeVhnTE5sZWFFQ1ZaaGZ2azE2OWx3YUtablJpOGpZRnBzUWdvOHBoQdIBb0FVX3lxTE9vLWFMNENIZTVfcTVxTHlYby1kbzVMa1pxZ0NQUXhIUU9PR0NELVU4WG94OGxxb3g1c0QzdkhERlhCMnlJamFzeVhnTE5sZWFFQ1ZaaGZ2azE2OWx3YUtablJpOGpZRnBzUWdvOHBoQQ?oc=5",
+  "title": "‘삼진-뜬공-땅볼’ 김도영, 日 38승 에이스와 맞대결 완패…9회 2루타 쳤지만 한일전 13연패 못 끊었다",
+  "published_at": "2026-11-15T15:40:00.000Z",
+  "collected_at": "2026-11-16T07:38:24.558Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 62,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

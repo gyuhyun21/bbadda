@@ -1,0 +1,26 @@
+{
+  "id": "youtube-5923a86b",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "뜬소문",
+  "url": "https://www.youtube.com/watch?v=fhMAwnH81m4",
+  "title": "기아가 방출한 대어들 누가 데려 갈까",
+  "published_at": "2026-11-16T03:15:40Z",
+  "collected_at": "2026-11-16T07:38:24.558Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 27098,
+    "likes": 251,
+    "comments": 45
+  },
+  "scores": {
+    "hot": 69,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "youtube-a824acac",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "시사식탁",
+  "url": "https://www.youtube.com/watch?v=qtiRcXuNIKk",
+  "title": "지명되자 울던 외야수의 결말 #김현준 #삼성라이온즈",
+  "published_at": "2026-11-16T06:30:27Z",
+  "collected_at": "2026-11-16T07:38:24.558Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 989,
+    "likes": 39,
+    "comments": 5
+  },
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}
