@@ -1,0 +1,43 @@
+{
+  "music": "bgm-morning",
+  "subStyle": "yt",
+  "outro": { "hold": 1.5, "fade": 0.5 },
+  "pool": { "no": 20, "series": "이거 알면 야구 고수", "ep": 6, "facts": "센세 확인 2026-11-18(기사 2곳 이상, PR 본문 표)" },
+  "segments": [
+    {
+      "src": "clip1.mp4", "from": 8, "to": 16, "credit": "Slash Line", "yt": "t3tGENw-YkU",
+      "say": "a1.mp3", "text": "투수가 안 던졌는데 볼, 타자가 안 쳤는데 스트라이크. 범인은 피치 클락이야.",
+      "kick": "이거 알면 야구 고수 #6", "head": "안 던졌는데<br><b>볼 하나</b>", "sub": "범인은 피치 클락",
+      "note": "출처: 매일신문·뉴스서울 · 영상: Slash Line",
+      "fx": [{ "at": 3.4, "text": "왜?", "style": "mind" }]
+    },
+    {
+      "src": "clip2.mp4", "from": 0, "to": 18, "credit": "ESPN", "yt": "3eagY08955Q",
+      "say": "a2.mp3", "text": "메이저리그는 이천이십삼 년에 도입했어. 주자 없으면 십오 초, 있으면 이십 초. 그해 아홉 이닝 평균 경기 시간이 세 시간 사 분에서 두 시간 사십 분으로 줄었지.",
+      "kick": "MLB 2023", "head": "15초·20초<br><b>평균 2시간 40분</b>", "sub": "MLB 평균 3:04 → 2:40",
+      "note": "출처: Fox Sports(AP)·NBC Sports · 영상: ESPN",
+      "fx": [{ "at": 7.0, "text": "24분 단축", "style": "pop" }]
+    },
+    {
+      "src": "clip3.mp4", "from": 0, "to": 18, "credit": "YTN", "yt": "WzgXezYLVJo",
+      "say": "a3.mp3", "text": "케이비오는 한 해 시범 운영을 거쳐 이천이십오 년에 정식으로 들였어. 주자 없으면 이십 초, 있으면 이십오 초 안에 던져야 해.",
+      "kick": "KBO 2025", "head": "주자 없으면 20초<br><b>있으면 25초</b>", "sub": "KBO 2025년 정식 도입",
+      "note": "출처: 매일신문·뉴스서울·데일리안 · 영상: YTN",
+      "fx": [{ "at": 5.0, "text": "째깍째깍", "style": "mind" }]
+    },
+    {
+      "src": "clip4.mp4", "from": 0, "to": 18, "credit": "JTBC News", "yt": "xoTMuhDoNE0",
+      "say": "a4.mp3", "text": "투수가 시간을 넘기면 볼 하나, 타자가 늦게 준비하면 스트라이크 하나가 그냥 올라가.",
+      "kick": "위반하면", "head": "투수는 볼<br><b>타자는 스트라이크</b>", "sub": "투수 위반 볼, 타자 위반 스트라이크",
+      "note": "출처: 매일신문·뉴스서울 · 영상: JTBC News",
+      "fx": [{ "at": 3.0, "text": "위반", "style": "stamp" }]
+    }
+  ],
+  "end": {
+    "look": "profile",
+    "head": "알아 두면 더 재밌는<br><b>야구 이야기</b>",
+    "cta": "피치 클락 찬성? 반대? 댓글로!",
+    "say": "a5.mp3",
+    "text": "피치 클락, 찬성이야 반대야? 댓글로 알려 줘."
+  }
+}
