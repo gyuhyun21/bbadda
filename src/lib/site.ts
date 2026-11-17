@@ -151,10 +151,10 @@ export const dayLabel = (d: string) => { const [, m, dd] = d.split('-').map(Numb
 /** 요약이 있는 소식이 있는 날짜들(최신순) */
 export const daysOf = (list: Signal[]) => [...new Set(list.map((s) => kstDay(s.published_at)))].sort().reverse();
 export const onDay = (list: Signal[], d: string) => list.filter((s) => kstDay(s.published_at) === d);
-/** 리그 블록 제목: 10~11월 가을야구, 12~2월 스토브리그, 3월 시범경기·개막, 그 밖에는 리그 전체 */
-export function seasonTitle(d = new Date(BUILD_TIME)): string {
+/** 리그 블록 제목: 10월 가을야구, 11월은 가을야구가 진행 중일 때만(끝나면 스토브리그), 12~2월 스토브리그, 3월 시범경기·개막, 그 밖에는 리그 전체 */
+export function seasonTitle(d = new Date(BUILD_TIME), postseasonLive = true): string {
   const m = new Date(d.getTime() + 9 * 3600_000).getUTCMonth() + 1;
-  return m === 10 || m === 11 ? '가을야구' : m === 12 || m <= 2 ? '스토브리그' : m === 3 ? '개막 준비' : '리그 전체';
+  return m === 10 || (m === 11 && postseasonLive) ? '가을야구' : m >= 11 || m <= 2 ? '스토브리그' : m === 3 ? '개막 준비' : '리그 전체';
 }
 
 /** 날짜 최신순 → 같은 날 안에서 점수순. 점수(최신성 포함)는 수집 때 고정되므로 날짜를 먼저 본다(2026-10-18). */
