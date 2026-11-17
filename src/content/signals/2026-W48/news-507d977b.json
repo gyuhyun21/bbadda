@@ -1,0 +1,23 @@
+{
+  "id": "news-507d977b",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "news",
+  "source_name": "티제이비",
+  "url": "https://www.tjb.co.kr/news06/category/view/id/106201",
+  "title": "\"노시환 때문에 올스톱?\"…한화의 속 타는 스토브리그",
+  "published_at": "2026-11-17T10:18:04.000Z",
+  "collected_at": "2026-11-17T13:37:41.354Z",
+  "summary_ko": "티제이비는 노시환 문제 때문에 한화의 스토브리그가 멈춰 속이 타들어 간다고 짚었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "노시환 때문에 올스톱?"
+}

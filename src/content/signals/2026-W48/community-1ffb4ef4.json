@@ -1,0 +1,24 @@
+{
+  "id": "community-1ffb4ef4",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&page=5&document_srl=10566434063",
+  "title": "근데 계약 막 말도안되게 길게 먹여서 샐캡 낮추면 어캄",
+  "published_at": "2026-11-17T09:37:41.354Z",
+  "collected_at": "2026-11-17T13:37:41.354Z",
+  "summary_ko": "",
+  "excerpt": "... 기아타이거즈 호마당 주의사항 [2]. 11 분 전 자유 첼붕이 조회53. 기아 ... 홍창기는 기아,롯데,엘지…",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "community-dedcdf95",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 깡깡 소통창구",
+  "url": "https://blog.naver.com/thisandthat_91/224480805720",
+  "title": "⚾ 류현진 vs 이정후, 12월 6일 감독 맞대결! 고척돔에서 펼쳐지는 세대 간 야구 대결",
+  "published_at": "2026-11-17T17:33:00.000+09:00",
+  "collected_at": "2026-11-17T13:37:41.354Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "스포츠동아",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5jRTQyV19YTWtjVWFSUnlJUVluVnQ3enJ2ZnZfUlpGdWxCcTR4NnZrcmI1NXdYZnNDSS16TDZoRlFOTG83VUVQSGlFRW1RQ2tLUGJTSS1SYlNIOXc3OFJfZGJVWUQ2RTRESXZxWlFRRjB3UQ?oc=5"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-60672041",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "www.xportsnews.com",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9nck5zYXVtWGVnUEdGV3pmU2xxS0g2cjZ5MjdqaGdWZGRPZXliR1ZTRWFOekhyMDRhVG83UFM0akdnbUNwSFV4eFRoTmtHcjQ4b0kydA?oc=5",
+  "title": "\"스스로 의심했다\" 1R 거포 독하게 준비한다, 새 시즌 다를까…\"방망이 잘 쳐야 살아남는다\" [가고시마 인터뷰]",
+  "published_at": "2026-11-17T08:18:31.000Z",
+  "collected_at": "2026-11-17T13:37:41.354Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

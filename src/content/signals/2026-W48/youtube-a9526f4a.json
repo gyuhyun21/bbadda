@@ -1,0 +1,32 @@
+{
+  "id": "youtube-a9526f4a",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "youtube",
+  "source_name": "PIN뉴스",
+  "url": "https://www.youtube.com/watch?v=W_nGAKtZYyM",
+  "title": "⭐양의지, 42억 옵션 대신 FA…2년 최대 55억에 두산 잔류",
+  "published_at": "2026-11-17T11:15:36Z",
+  "collected_at": "2026-11-17T13:37:41.354Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 909,
+    "likes": 6,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 40,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "스포츠월드",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE54ZUJPTm5sb05RcFhzYlUtNWp4SlNRcUY2S3lRcGI3MDEtQTVTM2o0UUFzd203QmRpODkzcXBUMzdDZktVSW5EWHdTRXBQZkFidFo0bHZGUTBEamw3QzBrM2Zn?oc=5"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "youtube-4b3e49e0",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "이장면저장",
+  "url": "https://www.youtube.com/watch?v=2uW3MYP_YAc",
+  "title": "삼성 후라도, 공을 던진 뒤 1루까지 달려간 이유#후라도 #삼성라이온즈 #KT위즈 #케이티위즈#프로스포츠 #프로야구 #KBO리그 #한국시리즈3차전",
+  "published_at": "2026-11-17T11:46:41Z",
+  "collected_at": "2026-11-17T13:37:41.354Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 758,
+    "likes": 2,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 36,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

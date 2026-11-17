@@ -1,0 +1,37 @@
+{
+  "id": "news-3e18ce57",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스1",
+  "url": "https://www.news1.kr/sports/general-sport/6357104",
+  "title": "KT 위즈·울산 HD, 2026 코리아 스포츠진흥대상 '브랜드 대상'",
+  "published_at": "2026-11-17T08:14:14.000Z",
+  "collected_at": "2026-11-17T13:37:41.354Z",
+  "summary_ko": "뉴스1은 KT 위즈가 울산 HD와 함께 2026 코리아 스포츠진흥대상 브랜드 대상을 받았다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 98,
+    "relevance": 50
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1RLWJNcHRpcjkzdDVhdDVMLUxNWEZaOHZHTm41M1FnMDNoaG9HdU0xbW9XOE83NlJvM1N2Q0xPWXFkd1FvcHdqMDRIZmFwai1pR2dGRmp3cngxdENxbVFUTTBDMV84NldUTERqR0FIVHhUWm1XU3hvVtIBeEFVX3lxTE1RLWJNcHRpcjkzdDVhdDVMLUxNWEZaOHZHTm41M1FnMDNoaG9HdU0xbW9XOE83NlJvM1N2Q0xPWXFkd1FvcHdqMDRIZmFwai1pR2dGRmp3cngxdENxbVFUTTBDMV84NldUTERqR0FIVHhUWm1XU3hvVg?oc=5"
+    },
+    {
+      "source_name": "연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5MUWlvYS02QmlXYTBpUnBsdTdMSUg4c29yMDZlN1VhT0E0WGhkLVRMNkhWS0Rub2hvdjExVHV3dU50by1LOVRDSlhqbUZ1SW1mcG1lSVlwbUo3NkJLMVBsSdIBYEFVX3lxTE5MUWlvYS02QmlXYTBpUnBsdTdMSUg4c29yMDZlN1VhT0E0WGhkLVRMNkhWS0Rub2hvdjExVHV3dU50by1LOVRDSlhqbUZ1SW1mcG1lSVlwbUo3NkJLMVBsSQ?oc=5"
+    },
+    {
+      "source_name": "톱스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9WNTQ2cFhQbHJPM09YQVdYclFwSjIxejZvTFVVWlhXYWJSNk5MUjljbzJLS1RfSHhUZ05BLTR0TnctNmhlVThvQjEwRUpjME1nZ1dnYk5mSnZvaHNyMXJDdDgtVnJkYUdtRW5VclhycnNhUQ?oc=5"
+    }
+  ],
+  "brief_ko": "스포츠진흥대상 브랜드 대상"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-5f48785b",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "일간스포츠",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9hbzIxd1A5RkdSLVg1c3pvb2M0Mmg2QkFSSE16S3RPMXpMSFhycEZuMXU3NS12SVlaajEtWW1sZWl1dFVVRjYxd3dKLThPWUQ4YUFLZnRHV3lMUVg4LU9ZTUlleFJDd05r?oc=5",
+  "title": "'V9' 사자군단의 유쾌한 입담, \"다들 안 울 던데요? 내년에도 우승할 거니까\" 출사표부터 \"롤러코스터 무섭다\" 엄살까지 [IS 용인]",
+  "published_at": "2026-11-17T08:03:00.000Z",
+  "collected_at": "2026-11-17T13:37:41.354Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

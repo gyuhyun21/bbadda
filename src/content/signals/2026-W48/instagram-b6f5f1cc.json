@@ -1,0 +1,27 @@
+{
+  "id": "instagram-b6f5f1cc",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "instagram",
+  "official": true,
+  "source_name": "Instagram @hanwhaeagles_soori",
+  "url": "https://www.instagram.com/p/Df1c5CNlBUg/",
+  "title": "한화 이글스 공식 인스타그램: 2026 한화이글스 독수리한마당",
+  "published_at": "2026-11-17T08:00:07+0000",
+  "collected_at": "2026-11-17T13:37:41.354Z",
+  "summary_ko": "한화 공식 인스타그램이 '2026 한화이글스 독수리한마당' 소식을 올렸다.",
+  "metrics": {
+    "likes": 7286,
+    "comments": 143
+  },
+  "scores": {
+    "hot": 66,
+    "relevance": 50
+  },
+  "sentiment": "neutral",
+  "brief_ko": "2026 독수리한마당"
+}

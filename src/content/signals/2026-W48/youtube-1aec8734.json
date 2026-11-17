@@ -1,0 +1,26 @@
+{
+  "id": "youtube-1aec8734",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "source_name": "이글스라인업",
+  "url": "https://www.youtube.com/watch?v=_CXeBWfwqLI",
+  "title": "정민규가 터졌다! 1회부터 뒤집은 3점 홈런 #한화이글스",
+  "published_at": "2026-11-17T10:15:39Z",
+  "collected_at": "2026-11-17T13:37:41.354Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 4718,
+    "likes": 74,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 56,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "community-334b8c21",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 꽉형의 쓰포츠생생통",
+  "url": "https://herr-kwak.tistory.com/3254",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/8Ui0zfIbND5",
+  "title": "타율 3할의 무게감! 역대 KBO 현역 통산 3할 타자 12인 정밀 분석 (12명 선수들을 타율이 아니라 OPS로...",
+  "published_at": "2026-11-17T22:14:06.000+09:00",
+  "collected_at": "2026-11-17T13:37:41.354Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-368e6983",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "news",
+  "source_name": "www.xportsnews.com",
+  "url": "https://www.xportsnews.com/article/2220429",
+  "title": "'55억 1호 계약' 두산, 2027년 윈나우 각 잡는다! 외국인 전원 교체 고려→\"벤자민 재계약 선택지 남기고 고민\"",
+  "published_at": "2026-11-17T09:45:33.000Z",
+  "collected_at": "2026-11-17T13:37:41.354Z",
+  "summary_ko": "엑스포츠뉴스는 양의지와 1호 계약을 맺은 두산이 2027년 윈나우를 위해 외국인 선수 전원 교체를 고려하되 벤자민 재계약 여지는 남겼다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "외국인 전원 교체 고려"
+}

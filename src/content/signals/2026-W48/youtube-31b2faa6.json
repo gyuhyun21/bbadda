@@ -1,0 +1,26 @@
+{
+  "id": "youtube-31b2faa6",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "갓키",
+  "url": "https://www.youtube.com/watch?v=rDRCLeTG1bU",
+  "title": "🚨 삼성 라이온즈, 우승했는데 외국인 3명을 모두 못 잡을 수도 있다?",
+  "published_at": "2026-11-17T11:28:13Z",
+  "collected_at": "2026-11-17T13:37:41.354Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 212,
+    "likes": 7,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 54,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "youtube-87798896",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "youtube",
+  "source_name": "응원가나다",
+  "url": "https://www.youtube.com/watch?v=fyusDRc_OW0",
+  "title": "이대호 응원가 #야구 #롯데자이언츠",
+  "published_at": "2026-11-17T13:19:06Z",
+  "collected_at": "2026-11-17T13:37:41.354Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 203,
+    "likes": 3,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 39,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

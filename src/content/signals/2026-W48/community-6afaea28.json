@@ -1,0 +1,24 @@
+{
+  "id": "community-6afaea28",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 송마담의 설레는 하루도감",
+  "url": "https://blog.naver.com/souhohoho/224479409717",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/Llmri6lNVk1",
+  "title": "원정 12연패 끊어낸 언더독 완봉승, 구장 파크팩터 땅볼 유도가 만든 기적일까",
+  "published_at": "2026-11-17T21:20:00.000+09:00",
+  "collected_at": "2026-11-17T13:37:41.354Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "mixed"
+}

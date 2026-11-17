@@ -1,0 +1,23 @@
+{
+  "id": "news-0ea35c14",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스타뉴스",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9Qa2xZWHc3QWRaRHAxMlA2bkFYeW9IRl9aSk90RUM3VW45d0RZTUpCN2xwZGxwTU9FVU84alRnRVB5Y0NFS0dvZWdmQVctQWlXQWozRmNMLVdoUFJXUkJoUXh3elM1bklhQUoyekVMdGpuaGlWanc?oc=5",
+  "title": "\"홈런보다 그 전에...\" 日 결승포 맞은 김건우 뼈아픈 후회, 50구→이틀 휴식→91구 역투에도 \"몸 상태 문제없었다\"",
+  "published_at": "2026-11-16T20:09:17.000Z",
+  "collected_at": "2026-11-17T13:37:41.354Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 62,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

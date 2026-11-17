@@ -1,0 +1,23 @@
+{
+  "id": "news-880eea43",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "진일보 | 전남일보",
+  "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000083403",
+  "title": "KIA, 김태군·김호령 모두 잡을 수 있을까…안방·외야 지킬 FA 협상 시작",
+  "published_at": "2026-11-17T00:34:26.000Z",
+  "collected_at": "2026-11-17T13:37:41.354Z",
+  "summary_ko": "전남일보는 FA 협상이 시작된 KIA가 안방과 외야를 지킬 김태군·김호령을 모두 잡을 수 있을지 짚었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "김태군·김호령, 둘 다 잡을까"
+}

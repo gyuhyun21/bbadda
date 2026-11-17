@@ -1,0 +1,23 @@
+{
+  "id": "news-e68e6b2e",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBzc193Y2xiUm1aVkkxeERLbVZfdWhjUDI5Rk8wMXdLUDdoeHQweUZmUmVGcUVKYzBnT1BkMWhMLVE5UFNuczFzOUFGMVhIN1o4T3N1Tjh6R1BJS3ppRmVIUkJocG0xdFkxTmxIeG53WdIBb0FVX3lxTFBzc193Y2xiUm1aVkkxeERLbVZfdWhjUDI5Rk8wMXdLUDdoeHQweUZmUmVGcUVKYzBnT1BkMWhMLVE5UFNuczFzOUFGMVhIN1o4T3N1Tjh6R1BJS3ppRmVIUkJocG0xdFkxTmxIeG53WQ?oc=5",
+  "title": "\"밥 먹듯이 하는 수비\" 수비기계 나승엽? 가능하다…'주전 1루수 트레이드 불가' 무한 신뢰 선언, 악몽은 없다 [오!쎈 미야자키]",
+  "published_at": "2026-11-17T09:19:00.000Z",
+  "collected_at": "2026-11-17T13:37:41.354Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

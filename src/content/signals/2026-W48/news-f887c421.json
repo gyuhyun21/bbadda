@@ -1,0 +1,22 @@
+{
+  "id": "news-f887c421",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "네이트",
+  "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Ud0FYMFlYdW9seGlsMUpJWi15bkkzbm5vSmNfSGNfYU8zY20yZ2dFRWVLd290dGdBUDYwMlFaRzh5dDRqSFFtTTFlbmF4Z05tR1RGWU93?oc=5",
+  "title": "'아이돌 콘서트 분위기!' 삼성 우승행사, 에버랜드 공약 지켰다…팬 2000명과 'V9' 기쁨 만끽 [용인 현장]",
+  "published_at": "2026-11-17T10:15:00.000Z",
+  "collected_at": "2026-11-17T13:37:41.354Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

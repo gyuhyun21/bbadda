@@ -1,0 +1,23 @@
+{
+  "id": "news-db421115",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "m.maniareport.com",
+  "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1NLUsyT1BUMlBzSFVUTDhYcEhIM19ZbDc1N2ZVc240T3VqdFVRTHJocHV1eGhJTFZLQjdyLWtmblU1ZE8tVk1hXzlRZmsyUUJGY2hqdU5oSnJhY09LMVJLcnVRV3NnQlh0cjFiVkhjSWtaM3dCM3VHUFctNA?oc=5",
+  "title": "'증명'에 매몰된 최원호 투수 운용, 한국 야구 대표팀에 새 사령탑 시급한 이유...김태형, 이승엽 물망",
+  "published_at": "2026-11-17T00:50:41.000Z",
+  "collected_at": "2026-11-17T13:37:41.354Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

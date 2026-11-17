@@ -1,0 +1,30 @@
+{
+  "id": "news-cad1e54d",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "오마이스타",
+  "url": "https://star.ohmynews.com/NWS_Web/OhmyStar/at_pg.aspx?CNTN_CD=A0003285596",
+  "title": "비운의 '출루 머신' 홍창기... FA시장 반전 나올까?",
+  "published_at": "2026-11-17T08:19:00.000Z",
+  "collected_at": "2026-11-17T13:37:41.354Z",
+  "summary_ko": "오마이스타는 비운의 '출루 머신' LG 홍창기에게 FA 시장에서 반전이 나올지 짚었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "OhmyNews",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA1N1RsN3JnXzVDUEs4MmR4UjQ0SjZubWE3TWF5MUdzbFBYajBIWm1zZENuMFBqTTRKaExSRU5FbEhXQUxfaVlYMEpManBwOERRWk5BM2dDZnRpRkRJVjFOeDVKUzZVMk1HVmVBaEhlUTFPWlVl?oc=5"
+    }
+  ],
+  "brief_ko": "출루 머신 홍창기, 반전 올까"
+}

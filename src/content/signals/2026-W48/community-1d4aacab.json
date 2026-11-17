@@ -1,0 +1,23 @@
+{
+  "id": "community-1d4aacab",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 내일의 라인업",
+  "url": "https://blog.naver.com/070seoul/224479672864",
+  "title": "“야구장에 없더니 여기 있었네? KBO 인기 치어리더, 겨울에는 어느 팀 응원할까?”",
+  "published_at": "2026-11-16T22:04:00.000+09:00",
+  "collected_at": "2026-11-17T13:37:41.354Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 59,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

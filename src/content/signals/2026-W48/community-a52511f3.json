@@ -1,0 +1,24 @@
+{
+  "id": "community-a52511f3",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan",
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 모두의스포츠",
+  "url": "https://blog.naver.com/kbo_news/224481098670",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/LJ6WUS5Lblo",
+  "title": "구자욱 FA 200억, 두산 승부수 던지나? 삼성에 잔류하나?",
+  "published_at": "2026-11-17T21:53:00.000+09:00",
+  "collected_at": "2026-11-17T13:37:41.354Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

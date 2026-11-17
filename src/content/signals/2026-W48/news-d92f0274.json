@@ -1,0 +1,23 @@
+{
+  "id": "news-d92f0274",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "네이트",
+  "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBOR2RoOXRLZzhOdGhOZ3RaUHhMUXFkU3Rja0trMFhobHpHbXhoNVVIMUYweFdESy1fdTlLRE1UNnRSNE45SE9YbnpJMmRwSlRQLW1iSWxB?oc=5",
+  "title": "양의지 키운 홍상삼, '한 이닝 폭투 3개' 비화 공개…\"고의4구 지시에 욱해서\"",
+  "published_at": "2026-11-17T06:25:00.000Z",
+  "collected_at": "2026-11-17T13:37:41.354Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

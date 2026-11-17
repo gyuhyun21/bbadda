@@ -1,0 +1,24 @@
+{
+  "id": "news-7fc4a4a4",
+  "issue": "2026-W48",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠한국",
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8teGNQSmNHSlBWcE02Z1I4N0VlNGZxXzZBdW5HVkUyVDdfNHZkblhtNmFMYWdmaGNDNUxIenFvMWM3aGxvZUNabnZTQWJEMmUyZlJWUEc1ZHJxeEtsQWh0T25DMVg5cDRpc0k5elhGQzPSAXRBVV95cUxNbFJJa090cllvb1J6SFhZdnRZMXBONklxbUE0MWhMV2pjc21zelQwMWhfY29vTmpLREp2clc5a1d6NzhzM1ozNFpEQjd4RVhqRzEwcXhlUk5YcWdlZFpyTW5OS05JdFMyY3djS0U5cGNLcWFFOA?oc=5",
+  "title": "'무모한 도전은 하지 않을 것'…'해외 에이전트 선임' 원태인이 밝힌 FA 상황",
+  "published_at": "2026-11-17T11:31:41.000Z",
+  "collected_at": "2026-11-17T13:37:41.354Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 83,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

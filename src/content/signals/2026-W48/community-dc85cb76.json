@@ -1,0 +1,24 @@
+{
+  "id": "community-dc85cb76",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 연예 이슈 정리 노트, 핫이슈 한눈에",
+  "url": "https://blog.naver.com/gouchen7/224480642481",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/C7NNwgGU26X",
+  "title": "정산금 0원이라더니… 배드키즈 연지, 결국 195cm 전 야구선수와 12월 백년가약",
+  "published_at": "2026-11-17T19:30:00.000+09:00",
+  "collected_at": "2026-11-17T13:37:41.354Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

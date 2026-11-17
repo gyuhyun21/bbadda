@@ -1,0 +1,23 @@
+{
+  "id": "news-e71d535d",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "news",
+  "announcement": true,
+  "source_name": "MHN스포츠",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1NUUVFdzNhZzZPOHpGWEF4Z05hZDU5QUU3djVGTEowNThzR25UWjRrVFU5MjczOUUyUkp5OWVoRHBzcEdDZUM2WlZmenNCdFRjdG41bXdIdzMtbW5FaTFSR3BRNA?oc=5",
+  "title": "[오피셜]\"SSG 프랜차이즈 아니었어?\"…고작 7년 뛰고 팀의 상징이 된 오태곤, FA 11억 그 이상의 가치",
+  "published_at": "2026-11-17T09:15:12.000Z",
+  "collected_at": "2026-11-17T13:37:41.354Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

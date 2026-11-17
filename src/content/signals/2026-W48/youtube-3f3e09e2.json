@@ -1,0 +1,27 @@
+{
+  "id": "youtube-3f3e09e2",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "기아타이거즈 KIA TIGERS",
+  "url": "https://www.youtube.com/watch?v=l4tz2An5fDk",
+  "title": "시라카와 알고리즘에 나타난 한재승",
+  "published_at": "2026-11-17T08:45:38Z",
+  "collected_at": "2026-11-17T13:37:41.354Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 16629,
+    "likes": 972,
+    "comments": 38
+  },
+  "scores": {
+    "hot": 90,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "youtube-1c52a31b",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "youtube",
+  "source_name": "자이언츠백서",
+  "url": "https://www.youtube.com/watch?v=0uAiTOShl8E",
+  "title": "손성빈의 장타가 중요한 이유 #롯데자이언츠",
+  "published_at": "2026-11-17T10:15:06Z",
+  "collected_at": "2026-11-17T13:37:41.354Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 4646,
+    "likes": 48,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 52,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "community-6797cc09",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 오늘의 승부, 눈여겨볼 이야기",
+  "url": "https://blog.naver.com/rladbwls1303/224480873283",
+  "title": "2027 FA, 60억 한유섬도 신청 안 했다…42억 최주환까지 빠진 이유는?",
+  "published_at": "2026-11-17T19:24:00.000+09:00",
+  "collected_at": "2026-11-17T13:37:41.354Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

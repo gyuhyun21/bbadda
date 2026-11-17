@@ -1,0 +1,26 @@
+{
+  "id": "youtube-ebcf8d2c",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "alleyoops9630",
+  "url": "https://www.youtube.com/watch?v=l7NICVM-oew",
+  "title": "20261117 삼성라이온즈 에버랜드 우승 행진 퍼레이드 (3)",
+  "published_at": "2026-11-17T11:42:48Z",
+  "collected_at": "2026-11-17T13:37:41.354Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 395,
+    "likes": 9,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 49,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "news-a0f7c229",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://www.mt.co.kr/sports/2026/11/17/202611171651777449O",
+  "title": "“구자욱 서있다고 생각해봐” 명품 과외에 투수들 눈 번쩍! 어린왕자의 디테일, ‘韓 ERA 1위’ 투수왕국 구축하다 [오!쎈 미야자키]",
+  "published_at": "2026-11-17T10:39:00.000Z",
+  "collected_at": "2026-11-17T13:37:41.354Z",
+  "summary_ko": "머니투데이는 두산 김원형 감독이 '구자욱이 서 있다고 생각하라'는 세밀한 지도로 투수들의 눈을 뜨게 했다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "brief_ko": "'구자욱 서 있다고 생각해봐'"
+}

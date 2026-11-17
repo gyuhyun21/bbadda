@@ -1,0 +1,27 @@
+{
+  "id": "youtube-92a620c1",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "youtube",
+  "source_name": "야채유",
+  "url": "https://www.youtube.com/watch?v=z9sRYiRxbQw",
+  "title": "2026년 키움 히어로즈 요약",
+  "published_at": "2026-11-17T13:12:33Z",
+  "collected_at": "2026-11-17T13:37:41.354Z",
+  "summary_ko": "한 키움 팬 채널이 키움의 2026 시즌을 요약했다.",
+  "metrics": {
+    "views": 248,
+    "likes": 28,
+    "comments": 9
+  },
+  "scores": {
+    "hot": 68,
+    "relevance": 50
+  },
+  "sentiment": "neutral",
+  "brief_ko": "2026 시즌 한눈에 요약"
+}

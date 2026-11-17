@@ -1,0 +1,24 @@
+{
+  "id": "community-b2c35a89",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 박쿤의 스포츠로그",
+  "url": "https://blog.naver.com/winephk/224481047281",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/1c2xDOZiDT",
+  "title": "“양의지 55억은 시작에 불과하다?”…원태인·구자욱·홍창기까지, KBO FA 몸값 전쟁 본격화",
+  "published_at": "2026-11-17T21:24:00.000+09:00",
+  "collected_at": "2026-11-17T13:37:41.354Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

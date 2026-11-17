@@ -1,0 +1,24 @@
+{
+  "id": "community-f3f79b8f",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 BBC 미디어센터",
+  "url": "https://blog.naver.com/sunhoo272/224481094919",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/DIWbCyTTPkw",
+  "title": "백업의 반란: 29억 FA 계약, 오태곤의 뚝심이 증명한 가치",
+  "published_at": "2026-11-17T21:50:00.000+09:00",
+  "collected_at": "2026-11-17T13:37:41.354Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

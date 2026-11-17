@@ -1,0 +1,28 @@
+{
+  "id": "youtube-26b234f1",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "SSG랜더스",
+  "url": "https://www.youtube.com/watch?v=5qkVpkNdE6c",
+  "title": "우는 거 아닙니다..💦 견뎌낸 만큼 달라질 내일💪 | 레벨업 캠프 투포수조 훈련 다큐",
+  "published_at": "2026-11-17T13:07:01Z",
+  "collected_at": "2026-11-17T13:37:41.354Z",
+  "summary_ko": "SSG 공식 채널이 레벨업 캠프 투수·포수조 훈련 다큐 영상을 올렸다.",
+  "metrics": {
+    "views": 2353,
+    "likes": 192,
+    "comments": 53
+  },
+  "scores": {
+    "hot": 80,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "레벨업 캠프 훈련 다큐"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "youtube-a9c3e720",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "SSG랜더스",
+  "url": "https://www.youtube.com/watch?v=jBi-OjIXkF4",
+  "title": "랜더스의 9시를 책임질 남자, 오태곤 FA 계약️✍️",
+  "published_at": "2026-11-17T09:04:34Z",
+  "collected_at": "2026-11-17T13:37:41.354Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 32156,
+    "likes": 1448,
+    "comments": 237
+  },
+  "scores": {
+    "hot": 93,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

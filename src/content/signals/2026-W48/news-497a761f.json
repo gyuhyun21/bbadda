@@ -1,0 +1,24 @@
+{
+  "id": "news-497a761f",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://www.sportschosun.com/baseball/2026-11-17/202611170100112370010349",
+  "title": "'충격 반전' 재계약하는데 오히려 아빌라가 눈물흘렸다?…\"이전에 있던 곳, 힘든 시간 보냈었다\"",
+  "published_at": "2026-11-17T08:07:26.000Z",
+  "collected_at": "2026-11-17T13:37:41.354Z",
+  "summary_ko": "스포츠조선은 SSG와 재계약한 아빌라가 이전 팀에서 힘든 시간을 보냈다며 오히려 눈물을 흘렸다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "negative",
+  "brief_ko": "재계약에 눈물 흘린 아빌라"
+}

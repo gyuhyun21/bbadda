@@ -1,0 +1,24 @@
+{
+  "id": "community-9251bebc",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&page=7&document_srl=10566512895",
+  "title": "김호령 홍창기는 진짜 고민할 문제가 아닌 - 야구",
+  "published_at": "2026-11-17T09:37:41.354Z",
+  "collected_at": "2026-11-17T13:37:41.354Z",
+  "summary_ko": "",
+  "excerpt": "... 강민호 “삼성 라이온즈는 잡고자 하는 선수를 놓친 적이 없기 때문에 아마 두 선수를 다…",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

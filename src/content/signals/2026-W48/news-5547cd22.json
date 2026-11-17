@@ -1,0 +1,29 @@
+{
+  "id": "news-5547cd22",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "마이데일리",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1TR2xBem8xaTlnS1pmVTZwdHVGTnhJdFRPWVdLY3RNMS00ZVE0S2JxT3oxOEhRNWZsRFAwRnBQUm9DT3hrczlLRkRjNzdBTmR1bW9nVGNUVG4xRnIzdU1hRg?oc=5",
+  "title": "양의지 FA 계약총액 290억원 미쳤다…그런데 2위인지 3위인지 몰라? 노시환 307억원 계약서는 어디로",
+  "published_at": "2026-11-17T06:00:00.000Z",
+  "collected_at": "2026-11-17T13:37:41.354Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 81,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "네이트",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1hSUNDU3RrX3llRkVjbE5Pckd4SnotWkhrcHhZcG1OaExYYUVPRDV4UDdPNHJTMjl1di1tNHV5bEh1REwyTGo5TkI1NDEzTkI0eWxEc0dn?oc=5"
+    }
+  ]
+}

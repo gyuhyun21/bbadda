@@ -1,0 +1,24 @@
+{
+  "id": "community-fb52d3e9",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 스말골",
+  "url": "https://blog.naver.com/tel0/224481020156",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/5Z3ufr8L5GT",
+  "title": "\"한국 야구는 왜 일본을 못 이길까?\" 일본 언론이 꼬집은 충격적인 3가지 이유",
+  "published_at": "2026-11-17T21:37:00.000+09:00",
+  "collected_at": "2026-11-17T13:37:41.354Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-aad7373c",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "마이데일리",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE44THBGUm4tWXMwZmxhdFZma1dsR1o1ZDZ3c1dNbEYxd3p4RTUtLUtvS0pJa0ctVl9DYWJYVUhsU0VPVHZQWU5TMmhWVEhiX013X2pUNzdWamNJdUFocUp5cA?oc=5",
+  "title": "“(이)호민이가 하고 싶은 것 다 해봐” 김도영 3루수 후계자가 오키나와에서 자란다? 꽃범호도 코치도 차근차근",
+  "published_at": "2026-11-17T12:02:35.000Z",
+  "collected_at": "2026-11-17T13:37:41.354Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

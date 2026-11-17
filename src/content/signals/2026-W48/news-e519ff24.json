@@ -1,0 +1,23 @@
+{
+  "id": "news-e519ff24",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "www.xportsnews.com",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB4ekd6SHhodEY5SHlYTl9rRjZxTllpMVhqaWs3Y1dpcm1xUnFSY28wQXVwSnZyankzRmpabEM5THpmZUJBQlk2ekhlTmhOQ2tmanU4MQ?oc=5",
+  "title": "\"결과로 증명해야\" 육성선수 출신 이 외야수, 내년에는 터질까…\"아직 내 자리 없다\" [가고시마 인터뷰]",
+  "published_at": "2026-11-16T16:53:32.000Z",
+  "collected_at": "2026-11-17T13:37:41.354Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 61,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

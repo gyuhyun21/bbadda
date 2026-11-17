@@ -1,0 +1,25 @@
+{
+  "id": "community-02b806fe",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "ssg",
+    "doosan"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 스포츠 세상 속으로!!",
+  "url": "https://blog.naver.com/rockytime/224480918869",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/Fa9wCbYuLRa",
+  "title": "만 41세까지 삼성에서 뛰는 거니? 삼성은 6년 계약 제시 예정? 그런데 SSG와 두산이 8년을 제시한다면?",
+  "published_at": "2026-11-17T21:15:00.000+09:00",
+  "collected_at": "2026-11-17T13:37:41.354Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}
