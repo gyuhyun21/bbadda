@@ -1,0 +1,27 @@
+{
+  "id": "youtube-07d4193d",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom",
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "Spotlight 24h",
+  "url": "https://www.youtube.com/watch?v=L_6uB9Ot7e0",
+  "title": "“키움에서 삼성으로, 그리고 우승까지!” 아무도 예상 못 한 3인방의 기적!",
+  "published_at": "2026-11-17T13:36:18Z",
+  "collected_at": "2026-11-17T21:37:43.925Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 550,
+    "likes": 8,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 47,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

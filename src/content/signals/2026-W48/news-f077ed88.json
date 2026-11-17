@@ -1,0 +1,28 @@
+{
+  "id": "news-f077ed88",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1MNHZVOVJtOG5WSHgtbWRHVlo2b3dNalExZDQxVFJPbU9NTDNlVUUwNkg5dGtXWjVwcXAzZFBySTJXQW5jQktoTm1yT2wtRC1JY3d6WTdkZ2RJZ0FsX1czaGd3ckR5Q2tOODY1TGJ4WdIBb0FVX3lxTE1MNHZVOVJtOG5WSHgtbWRHVlo2b3dNalExZDQxVFJPbU9NTDNlVUUwNkg5dGtXWjVwcXAzZFBySTJXQW5jQktoTm1yT2wtRC1JY3d6WTdkZ2RJZ0FsX1czaGd3ckR5Q2tOODY1TGJ4WQ?oc=5",
+  "title": "'오태곤-양의지' FA 초반 러시, 롯데 170억에 짓눌린 4년 침묵 깰까…\"단장님과 얘기 중, 시장가 본다\" 이동욱 취임선물 받나 [오!쎈 미야자키]",
+  "published_at": "2026-11-17T15:09:00.000Z",
+  "collected_at": "2026-11-17T21:37:43.925Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBmQ2IzOWcwN2YwejZDcXVtUk1BcnRLendFUzJyQ3J0V3c5NWxGSlZwM3ZNaG1zV3MzOFo2VWl0STVjTTNwcnRJZlFFb010YVhobWg2MA?oc=5"
+    }
+  ]
+}

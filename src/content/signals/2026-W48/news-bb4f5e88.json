@@ -1,0 +1,23 @@
+{
+  "id": "news-bb4f5e88",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://www.sportschosun.com/baseball/2026-11-17/202611180100112730010414",
+  "title": "'대어급' FA 선물 한번도 없었다, KIA 이번엔 다를까…\"난 출루 필요하다\"",
+  "published_at": "2026-11-17T16:22:00.000Z",
+  "collected_at": "2026-11-17T21:37:43.925Z",
+  "summary_ko": "스포츠조선은 대어급 FA 선물을 한 번도 받지 못한 KIA가 이번엔 다를지 짚으며 이범호 감독이 출루가 필요하다고 했다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "이범호 '출루가 필요하다'"
+}

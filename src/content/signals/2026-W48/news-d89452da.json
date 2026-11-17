@@ -1,0 +1,23 @@
+{
+  "id": "news-d89452da",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1ITjFOcnJNVGo3bVJmeVFqeGlnOWVObk5CZ0NJV3lIN1RFVUlUdFJjSnlEODRuTHJiUjg2Z3FDRklJc1ktaDgwNVIwMk5qSlYtdHpOZ25FdUlfZHpHbWZxTFUwYlRxeExvY3dselphTVBkdHY3a1ZJQ1ZENnZrZw?oc=5",
+  "title": "현시점 세상에서 가장 행복한 야구선수, \"프로 입단 첫해에 우승? 너희들이 뭘 알아\", 매일 먹어도 안 질리는 우승의 맛에 '중독'된 23년차 노장[용인 현장]",
+  "published_at": "2026-11-17T16:11:31.000Z",
+  "collected_at": "2026-11-17T21:37:43.925Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

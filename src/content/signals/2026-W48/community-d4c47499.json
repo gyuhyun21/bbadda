@@ -1,0 +1,23 @@
+{
+  "id": "community-d4c47499",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 풀카운트 90분",
+  "url": "https://blog.naver.com/jaydenstory/224481268116",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/AcbyPJAYB9R",
+  "title": "\"왕복 11.6km를 뛰며 체중 8kg을 뺐다고?\" SSG 투수 전영준이 가고시마 캠프에서 받은 뜻밖의 미션...",
+  "published_at": "2026-11-18T00:32:00.000+09:00",
+  "collected_at": "2026-11-17T21:37:43.925Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

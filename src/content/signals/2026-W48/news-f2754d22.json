@@ -1,0 +1,23 @@
+{
+  "id": "news-f2754d22",
+  "issue": "2026-W48",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "www.xportsnews.com",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1VMm45d0NTMFBfQklYTzlYLWdQV1VSZUxRRWtXTFNscWJ1eGFSd3lzeEc0VG8yOTQ5S3FUZTd5VDlESzVlTTBEclJfVXJEbVExb2g5Mg?oc=5",
+  "title": "삼성? 롯데? 아시아쿼터 경력직 영입할까→베어스 유니폼 입은 日 우완, 트라이아웃 148km 쾅! \"韓 여러 경험 쌓아\"",
+  "published_at": "2026-11-17T20:00:04.000Z",
+  "collected_at": "2026-11-17T21:37:43.925Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

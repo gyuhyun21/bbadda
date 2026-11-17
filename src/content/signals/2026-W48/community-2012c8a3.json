@@ -1,0 +1,24 @@
+{
+  "id": "community-2012c8a3",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 스포츠루",
+  "url": "https://blog.naver.com/sportsroo/224481337814",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/61QqMNjPYdu",
+  "title": "스토브리그 명암, 평균자책 5.93 뒤 FIP 3.92",
+  "published_at": "2026-11-18T02:56:00.000+09:00",
+  "collected_at": "2026-11-17T21:37:43.925Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

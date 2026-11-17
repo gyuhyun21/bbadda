@@ -1,0 +1,22 @@
+{
+  "id": "community-6c04f4d6",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 트렌드 레이더_Neo",
+  "url": "https://blog.naver.com/factchecker-trend/224481079170",
+  "title": "KIA 신인 이호민 | 오키나와 마무리캠프 타격폼 훈련과 3루수 경쟁",
+  "published_at": "2026-11-17T22:20:00.000+09:00",
+  "collected_at": "2026-11-17T21:37:43.925Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

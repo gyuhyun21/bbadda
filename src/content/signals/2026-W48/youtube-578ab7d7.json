@@ -1,0 +1,26 @@
+{
+  "id": "youtube-578ab7d7",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "source_name": "레알이글스",
+  "url": "https://www.youtube.com/watch?v=b0PiaaNo9Z4",
+  "title": "[전력분석] 30홈런 증발 vs 샐러리캡 0원! 노시환 진퇴양난 딜레마 속에서 박상원마저 3+1년 20억으로 후려친 한화 프런트의 탁상행정",
+  "published_at": "2026-11-17T14:26:42Z",
+  "collected_at": "2026-11-17T21:37:43.925Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 4177,
+    "likes": 50,
+    "comments": 2
+  },
+  "scores": {
+    "hot": 57,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

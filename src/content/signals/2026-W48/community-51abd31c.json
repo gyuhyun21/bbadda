@@ -1,0 +1,24 @@
+{
+  "id": "community-51abd31c",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg",
+    "doosan"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 GAVIS BASEBALL KBO 분석",
+  "url": "https://blog.naver.com/gavis_/224481354283",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/5LOfROz6SkC",
+  "title": "SSG 김명신 영입 임박... 두산에 먼저 방출 요청하더니 결국 새 둥지 찾았다",
+  "published_at": "2026-11-18T05:20:00.000+09:00",
+  "collected_at": "2026-11-17T21:37:43.925Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

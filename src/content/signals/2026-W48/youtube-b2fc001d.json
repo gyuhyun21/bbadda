@@ -1,0 +1,26 @@
+{
+  "id": "youtube-b2fc001d",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "남도일보",
+  "url": "https://www.youtube.com/watch?v=IsR75vZ25gU",
+  "title": "[KIA 타이거즈] 이범호 감독 \"내가 봐도 민혁이 너는 야구선수로서 탑을 찍을 거 같아\"",
+  "published_at": "2026-11-17T14:52:12Z",
+  "collected_at": "2026-11-17T21:37:43.925Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1883,
+    "likes": 40,
+    "comments": 3
+  },
+  "scores": {
+    "hot": 61,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

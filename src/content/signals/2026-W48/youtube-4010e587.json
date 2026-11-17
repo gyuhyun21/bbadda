@@ -1,0 +1,26 @@
+{
+  "id": "youtube-4010e587",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "스타뉴스 별별스포츠TV",
+  "url": "https://www.youtube.com/watch?v=fqu_UqgpJQo",
+  "title": "'파랗게 물든 에버랜드'  삼성라이온즈V9, VAMOS에버랜드",
+  "published_at": "2026-11-17T15:15:11Z",
+  "collected_at": "2026-11-17T21:37:43.925Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 2041,
+    "likes": 46,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 61,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

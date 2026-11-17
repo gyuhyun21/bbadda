@@ -1,0 +1,23 @@
+{
+  "id": "news-ed972f3a",
+  "issue": "2026-W48",
+  "module": "rivalry",
+  "team": "hanwha",
+  "teams": [
+    "hanwha",
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스1",
+  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE91bnp3QUw0dFlQMzdtN0ptb1dDaVVocW1MQW50eDJ1N3JWWHhWM1N0eUg1N3JDS05uRzVzSnNwLTRRZ2FrWFFkY2xNVzBoejlZbXJPazVRTQ?oc=5",
+  "title": "새 사령탑 맞이한 한화·롯데, FA 시장 '태풍의 눈' 될까",
+  "published_at": "2026-11-17T21:10:00.000Z",
+  "collected_at": "2026-11-17T21:37:43.925Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

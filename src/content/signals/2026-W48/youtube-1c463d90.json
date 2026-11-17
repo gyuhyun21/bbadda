@@ -1,0 +1,27 @@
+{
+  "id": "youtube-1c463d90",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "한컷투타쇼",
+  "url": "https://www.youtube.com/watch?v=j0pRg9DHGac",
+  "title": "아무도 없는데?? 홈에 왜 아무도 없어?? #kbo #kbo리그 #야구쇼츠 #프로야구 #키움히어로즈 #두산베어스 #최주환",
+  "published_at": "2026-11-17T13:36:34Z",
+  "collected_at": "2026-11-17T21:37:43.925Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 3587,
+    "likes": 11,
+    "comments": 2
+  },
+  "scores": {
+    "hot": 49,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

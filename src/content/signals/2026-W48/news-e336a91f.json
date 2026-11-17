@@ -1,0 +1,23 @@
+{
+  "id": "news-e336a91f",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠타임스",
+  "url": "https://www.thesportstimes.co.kr/news/articleView.html?idxno=377659",
+  "title": "'많이 반성했다' LG 염경엽 감독...FA 박동원 이탈 가능성 대비 \"김범석, 후반기 주축으로 활용할 계획\"",
+  "published_at": "2026-11-17T19:48:18.000Z",
+  "collected_at": "2026-11-17T21:37:43.925Z",
+  "summary_ko": "스포츠타임스는 많이 반성했다는 LG 염경엽 감독이 FA 박동원 이탈에 대비해 김범석을 후반기 주축으로 쓸 계획이라고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "negative",
+  "brief_ko": "박동원 대비, 김범석 키운다"
+}

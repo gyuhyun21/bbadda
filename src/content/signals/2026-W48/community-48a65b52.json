@@ -1,0 +1,22 @@
+{
+  "id": "community-48a65b52",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 백산새봄 검색형 블로그",
+  "url": "https://blog.naver.com/mandal/224481230075",
+  "title": "LG 김민식 영입, 박동원 떠나나 했더니 1년 전부터 움직였다",
+  "published_at": "2026-11-17T23:52:00.000+09:00",
+  "collected_at": "2026-11-17T21:37:43.925Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

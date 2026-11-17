@@ -1,0 +1,24 @@
+{
+  "id": "community-d5a69f97",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 야구 읽어주는 사람",
+  "url": "https://blog.naver.com/ddaassrr/224481136418",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/H3kqpFzemN2",
+  "title": "[FA] 오버페이? 분석해보면 꽤 쏠쏠한 자원이다! 오태곤 3년 11억 FA 계약, 조수행과 한승택처럼 증명이...",
+  "published_at": "2026-11-18T00:30:00.000+09:00",
+  "collected_at": "2026-11-17T21:37:43.925Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

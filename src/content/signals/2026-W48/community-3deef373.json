@@ -1,0 +1,23 @@
+{
+  "id": "community-3deef373",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 풀카운트 90분",
+  "url": "https://blog.naver.com/jaydenstory/224481197847",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/8ykUDJWnHTx",
+  "title": "\"이강철이 5경기 연속 올렸더니 플레이오프 MVP?\" 수원 뒷문 틀어막은 3라운더의 정체 (KT 위즈)",
+  "published_at": "2026-11-17T23:19:00.000+09:00",
+  "collected_at": "2026-11-17T21:37:43.925Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

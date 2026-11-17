@@ -1,0 +1,26 @@
+{
+  "id": "youtube-50be926c",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "source_name": "이글스라인업",
+  "url": "https://www.youtube.com/watch?v=9Eg1TSK4kgs",
+  "title": "78억에 데려온 엄상백, 내년엔 돌아올 수 있나? #한화이글스",
+  "published_at": "2026-11-17T16:15:20Z",
+  "collected_at": "2026-11-17T21:37:43.925Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 2558,
+    "likes": 24,
+    "comments": 3
+  },
+  "scores": {
+    "hot": 53,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

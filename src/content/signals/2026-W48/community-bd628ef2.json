@@ -1,0 +1,23 @@
+{
+  "id": "community-bd628ef2",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 구름이 잡블로그",
+  "url": "https://kim-dev.tistory.com/153",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/LuSQ7WL91JE",
+  "title": "양의지, 두산과 2년 최대 55억 원 FA 재계약",
+  "published_at": "2026-11-18T06:20:03.000+09:00",
+  "collected_at": "2026-11-17T21:37:43.925Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

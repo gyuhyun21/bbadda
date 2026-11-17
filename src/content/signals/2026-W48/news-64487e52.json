@@ -1,0 +1,28 @@
+{
+  "id": "news-64487e52",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "KBS 뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9uVUZjTlBzdUM3VHFqcGdQa3VhZWhPaHFTdk55YUV2V2FoMkdVRjVrSnloek9pX002Q0lPYURBMEkyMldQSVJwb3NDSmR0V21xRDBDOHRDdFEwMUIwNHFIbHRKellRdw?oc=5",
+  "title": "‘우승 공약’ 놀이공원 물들인 삼성, FA 구자욱·원태인도 함께 ‘잔류 암시?’",
+  "published_at": "2026-11-17T12:51:00.000Z",
+  "collected_at": "2026-11-17T21:37:43.925Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 81,
+    "relevance": 80
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "이데일리",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZmprVTY5MXNzVlJWdVF4LTZMTkk5V1FuaFNzUDJaWUxPd01RX0VXR3dUbmpWSkVuMGVpWFBTbVVqU2d1cHNBbUVQamJnclhhQWVXSmRqWGVGUmNpaHFqLXYyN1V3ZU1xYlM0VEd2T1BVMm9QMXZRTm1PY1RSOVNGSw?oc=5"
+    }
+  ]
+}

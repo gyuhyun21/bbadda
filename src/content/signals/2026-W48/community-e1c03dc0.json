@@ -1,0 +1,24 @@
+{
+  "id": "community-e1c03dc0",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&page=4&document_srl=10568110674",
+  "title": "반슬라이크?라는 애 온다는데 유명한가보네 - 야구",
+  "published_at": "2026-11-17T17:37:43.925Z",
+  "collected_at": "2026-11-17T21:37:43.925Z",
+  "summary_ko": "",
+  "excerpt": "... 롯데자이언츠 1 시간 전. 파레디스 응원가 존나 좋았는데. 1. [레벨:38] 중앙정보부 1 시간 전.…",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}
