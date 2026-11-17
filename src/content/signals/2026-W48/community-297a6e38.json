@@ -1,0 +1,24 @@
+{
+  "id": "community-297a6e38",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 데일리 이슈픽",
+  "url": "https://blog.naver.com/dlackdxor64/224481093975",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/Gbx0ndI0YzF",
+  "title": "10년 무명 버틴 195cm 거구 투수의 마음을 훔친 '정산금 0원' 걸그룹 출신 여신의 근황",
+  "published_at": "2026-11-18T00:00:00.000+09:00",
+  "collected_at": "2026-11-17T21:37:43.925Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

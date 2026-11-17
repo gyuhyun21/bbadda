@@ -1,0 +1,29 @@
+{
+  "id": "news-2e304311",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9QcXFkdTMwWWhSTFpvMlVuZ01QZGhjNVJ5MEpxN0NuemE3b1F5cmwyQVVKLTQxZlNkMkdmMGxNLUtCWktnVUNXQldjR0luUDlPdGd2UzJrOW8yS3h4TWdINlJQVlIweDB5X0NsaXVHVVlHMGlrVDlqc1F2NFpfUQ?oc=5",
+  "title": "1차지명 영광 후, 사라진 8년...연봉 3800만원 선수가 일군 기적, 이제 보상받을 시간이다 [미야자키 현장]",
+  "published_at": "2026-11-17T15:07:07.000Z",
+  "collected_at": "2026-11-17T21:37:43.925Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOV0NQd25zTkRzcUw0Ti11OXF6LW01RkdKSm1qbTdmYm03WUNNN3o0TFpXNk9XMVVUbFB4YlVwU3VrdFlMMEFOZVN4elhoWDloVFctYlB6a2ZtV0N0NE5HTURIdnhIUWRYNVB5RVZueUl0aWNZZEQ1dUVISmItdF9qWEZMUQ?oc=5"
+    }
+  ]
+}

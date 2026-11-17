@@ -1,0 +1,26 @@
+{
+  "id": "youtube-b7a5a296",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "source_name": "만약에 ",
+  "url": "https://www.youtube.com/watch?v=C5bFuFYI7t8",
+  "title": "만약 한화 이글스가 사라지면? #shorts",
+  "published_at": "2026-11-17T15:10:53Z",
+  "collected_at": "2026-11-17T21:37:43.925Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1460,
+    "likes": 6,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 44,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

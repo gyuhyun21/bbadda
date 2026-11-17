@@ -1,0 +1,23 @@
+{
+  "id": "news-d1b1ca8d",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "매일신문",
+  "url": "https://www.imaeil.com/page/view/2026111713232396451",
+  "title": "[삼성 오키나와 마무리 캠프] ②`수비는 기본기` 끊임없이 뒹구는 양우현, 원상윤",
+  "published_at": "2026-11-17T14:29:52.000Z",
+  "collected_at": "2026-11-17T21:37:43.925Z",
+  "summary_ko": "매일신문은 삼성 오키나와 마무리캠프에서 양우현·원상윤이 수비는 기본기라며 끊임없이 구른다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 73,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "오키나와서 뒹구는 양우현·원상윤"
+}

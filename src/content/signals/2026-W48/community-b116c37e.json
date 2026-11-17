@@ -1,0 +1,23 @@
+{
+  "id": "community-b116c37e",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "doosan"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 여기저기 가보나연",
+  "url": "https://blog.naver.com/skdus173/224481243678",
+  "title": "\"삼성 최형우 계약 너무 초라하다\" 두산 양의지 55억과 비교된다.",
+  "published_at": "2026-11-18T00:40:00.000+09:00",
+  "collected_at": "2026-11-17T21:37:43.925Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

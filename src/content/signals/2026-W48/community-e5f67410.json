@@ -1,0 +1,23 @@
+{
+  "id": "community-e5f67410",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 클라이밍의 모든 순간, 클라임씬",
+  "url": "https://blog.naver.com/climbscene/224480978741",
+  "title": "\"39살에 55억을 태운다고?\" 양의지 우승팀 포수 강민호 장성우보다 30억 이상 더 받는 이유",
+  "published_at": "2026-11-17T20:15:00.000+09:00",
+  "collected_at": "2026-11-17T21:37:43.925Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

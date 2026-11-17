@@ -1,0 +1,22 @@
+{
+  "id": "news-9aa0bba6",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "대구MBC",
+  "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1aRmhIRE1XRzd6cDRLUWJCYTFabVFJTXZEcDl2ZmFVXzNZVWNnNzJUX1hLQjZsazNKUFBlVThDaFRPdG5UTEVuT1p3Nlg?oc=5",
+  "title": "FA시장 본격 개장···복잡한 삼성라이온즈, 이번에도 '돌아온 연어 효과'?",
+  "published_at": "2026-11-16T21:46:17.000Z",
+  "collected_at": "2026-11-17T21:37:43.925Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 59,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

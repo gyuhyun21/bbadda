@@ -1,0 +1,24 @@
+{
+  "id": "community-ca8f5118",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&page=7&document_srl=10568089991",
+  "title": "리스 하인즈 얘도 00이네 - 야구",
+  "published_at": "2026-11-17T16:37:43.925Z",
+  "collected_at": "2026-11-17T21:37:43.925Z",
+  "summary_ko": "",
+  "excerpt": "... 이젠 용병들도 슬슬 나랑 나이가 비슷해지네. 2. [레벨:32] 워털루 1 시간 전. Caroline 새삼스럽게…",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

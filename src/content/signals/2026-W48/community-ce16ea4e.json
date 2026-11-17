@@ -1,0 +1,23 @@
+{
+  "id": "community-ce16ea4e",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 스포츠 다이어리",
+  "url": "https://blog.naver.com/sportpulse/224481019594",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/KpUYesScMr1",
+  "title": "\"벌써 체감이 다르다?” 롯데 타자들, 마무리캠프서 달라진 모습 보인 이유",
+  "published_at": "2026-11-18T01:00:00.000+09:00",
+  "collected_at": "2026-11-17T21:37:43.925Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

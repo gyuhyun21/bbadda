@@ -1,0 +1,23 @@
+{
+  "id": "community-43b1aa96",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 풀카운트 90분",
+  "url": "https://blog.naver.com/jaydenstory/224481241067",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/6bOVRCTFDpq",
+  "title": "\"재계약이 당연한 줄 알았는데 일본까지 갔다고?\" 롯데 이택근 단장이 나고야 트라이아웃을 찾은 뜻밖의...",
+  "published_at": "2026-11-18T00:02:00.000+09:00",
+  "collected_at": "2026-11-17T21:37:43.925Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

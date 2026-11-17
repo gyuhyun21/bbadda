@@ -1,0 +1,24 @@
+{
+  "id": "community-55d14752",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&page=3&document_srl=10568095052",
+  "title": "용타 컨택은 까봐야 아는 듯 - 야구",
+  "published_at": "2026-11-17T16:37:43.925Z",
+  "collected_at": "2026-11-17T21:37:43.925Z",
+  "summary_ko": "",
+  "excerpt": "... 29 분 전 자유 롯데자이언츠 조회48 추천1. 성공하면 힐리어드 실패하면 피터스 같은 용병 긁으려나…",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

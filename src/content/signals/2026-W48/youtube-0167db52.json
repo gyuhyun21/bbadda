@@ -1,0 +1,27 @@
+{
+  "id": "youtube-0167db52",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc",
+    "lotte"
+  ],
+  "source_type": "youtube",
+  "source_name": "크보데일리",
+  "url": "https://www.youtube.com/watch?v=yA5jsp1LHVA",
+  "title": "이동욱, 그는 누구인가 | NC 첫 통합 우승 감독, 20년 만에 롯데로 돌아오다",
+  "published_at": "2026-11-17T21:00:42Z",
+  "collected_at": "2026-11-17T21:37:43.925Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1,
+    "likes": 1,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 44,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-b6025666",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "중앙일보",
+  "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Mb2VzRnZZaW8tLUYwV2ltUjJqQXV4V1RZUXRXZnNFcXN4Ry15aWRhYjNKMkEzYkVfRE00c3pETUpKYmRHQmxiVkpjZG1Qcm5XY09nc1NB?oc=5",
+  "title": "“선수들 수준 높은 야구해야”…35년 베어스맨 김태룡의 쓴소리 [인터뷰]",
+  "published_at": "2026-11-17T20:00:03.000Z",
+  "collected_at": "2026-11-17T21:37:43.925Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

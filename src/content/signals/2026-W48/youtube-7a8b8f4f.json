@@ -1,0 +1,26 @@
+{
+  "id": "youtube-7a8b8f4f",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "youtube",
+  "source_name": "해물 베이스볼",
+  "url": "https://www.youtube.com/watch?v=hGMJu2TRL_c",
+  "title": "유격수 부동의 1위 박성한의 안타 신기록 #ssg랜더스 #야구 #박성한 #골든글러브 #유격수 #안타",
+  "published_at": "2026-11-17T14:07:44Z",
+  "collected_at": "2026-11-17T21:37:43.925Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 590,
+    "likes": 3,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 41,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

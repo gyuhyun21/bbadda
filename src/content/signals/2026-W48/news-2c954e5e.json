@@ -1,0 +1,29 @@
+{
+  "id": "news-2c954e5e",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://www.sportschosun.com/baseball/2026-11-17/202611170100111770010273",
+  "title": "롯데 올해는 FA 영입하나 \"좋은 선수 있으면..\" → 그런데 시장 상황 엄청나게 까다롭다",
+  "published_at": "2026-11-17T15:03:01.000Z",
+  "collected_at": "2026-11-17T21:37:43.925Z",
+  "summary_ko": "스포츠조선은 좋은 선수가 있으면 FA를 영입하겠다는 롯데지만 시장 상황이 무척 까다롭다고 짚었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 82,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQm40SDg0c3plLXdTU3JXd3JpUVZTWDhzTUhKdmhoa0VES0s5UzU1SmFMLVg4YkRPZ1IxSjlneGdLSHJUclRuei03QlFrUzU5VDl5SUpEN3l6R3NGaUd1M3pmY1plQkQ3MEhWbXBmcFVxOUF3eTI3aElXRnBVZ1RpWHNIQQ?oc=5"
+    }
+  ],
+  "brief_ko": "FA 영입? 시장이 까다롭다"
+}

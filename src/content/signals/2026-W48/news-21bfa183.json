@@ -1,0 +1,28 @@
+{
+  "id": "news-21bfa183",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1QN0k2NDFWLWtGSFZvMEg2WEJxcjJjYTBpQWk3bm15X29WR0RwcjYtTnJSRFRjNzIxdl9iX2kycjEyU0oyajk2Mk12MnZlaVdRT3RpRzJ1X3UxaFFEczhHTHlXZ0l1SlR1ZDNPUHdvVdIBb0FVX3lxTE1QN0k2NDFWLWtGSFZvMEg2WEJxcjJjYTBpQWk3bm15X29WR0RwcjYtTnJSRFRjNzIxdl9iX2kycjEyU0oyajk2Mk12MnZlaVdRT3RpRzJ1X3UxaFFEczhHTHlXZ0l1SlR1ZDNPUHdvVQ?oc=5",
+  "title": "\"한국에 갔을 때는 걱정 안 했는데…이제 돈 아껴야 한다\" 前 두산 투수, ML 복귀했는데 이게 무슨 일인가",
+  "published_at": "2026-11-17T16:18:00.000Z",
+  "collected_at": "2026-11-17T21:37:43.925Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBsQVo2Q09Ycld3UjNZWWdrYVdscWJBYWQ1SjVpRkcwX0V1bVZHOEp2V1YxNFBjUm0xUUpFYklTNzVzb1o5YXVxWjZ3eXVVTGlCUmR0dw?oc=5"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "youtube-aad39634",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "youtube",
+  "source_name": "Sira LIFE ",
+  "url": "https://www.youtube.com/watch?v=lM7IWBget6I",
+  "title": "롯데 자이언츠, 이번 겨울에는 달라질까요?이동욱 감독 체제로 새 출발에 나선 롯데!롯데가 이번 겨울 어떤 선택??여러분은 롯데가 어느 포지션부터 보강해야 한다고 생각하시나요?",
+  "published_at": "2026-11-17T16:07:11Z",
+  "collected_at": "2026-11-17T21:37:43.925Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1053,
+    "likes": 6,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 44,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

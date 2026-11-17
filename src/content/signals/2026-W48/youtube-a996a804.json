@@ -1,0 +1,26 @@
+{
+  "id": "youtube-a996a804",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "youtube",
+  "source_name": "FACTCHECK KOREA",
+  "url": "https://www.youtube.com/watch?v=1y9nP9raXR8",
+  "title": "양의지, 두산과 2년 최대 55억 재계약…FA 시장 1호 계약 | 뉴스 팩트체크",
+  "published_at": "2026-11-17T14:03:25Z",
+  "collected_at": "2026-11-17T21:37:43.925Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1121,
+    "likes": 2,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 41,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

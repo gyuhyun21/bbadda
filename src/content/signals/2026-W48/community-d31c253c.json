@@ -1,0 +1,23 @@
+{
+  "id": "community-d31c253c",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 팬 인사이트",
+  "url": "https://blog.naver.com/globalesg/224481203694",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/9IV0Z5JyQcX",
+  "title": "‘170억 악성계약’ 끝난 롯데, 이번엔 홍창기에게 FA 80억 안겨줄까?",
+  "published_at": "2026-11-18T00:08:00.000+09:00",
+  "collected_at": "2026-11-17T21:37:43.925Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

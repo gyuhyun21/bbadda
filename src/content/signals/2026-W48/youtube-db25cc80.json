@@ -1,0 +1,26 @@
+{
+  "id": "youtube-db25cc80",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "주원앤온리",
+  "url": "https://www.youtube.com/watch?v=Q47MOfEmJ6g",
+  "title": "얼마나 속상한지 감도안옴 #삼성라이온즈 #야구 #에버랜드",
+  "published_at": "2026-11-17T14:39:27Z",
+  "collected_at": "2026-11-17T21:37:43.925Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1134,
+    "likes": 5,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 43,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

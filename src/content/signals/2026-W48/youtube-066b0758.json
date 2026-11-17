@@ -1,0 +1,26 @@
+{
+  "id": "youtube-066b0758",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "youtube",
+  "source_name": "오늘의 스포츠픽",
+  "url": "https://www.youtube.com/watch?v=RpIOoYfXv8M",
+  "title": "두산 잔류 양의지, 왜 굳이 FA로?",
+  "published_at": "2026-11-17T16:29:50Z",
+  "collected_at": "2026-11-17T21:37:43.925Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1611,
+    "likes": 5,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 44,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

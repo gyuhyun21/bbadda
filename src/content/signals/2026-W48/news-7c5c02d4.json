@@ -1,0 +1,22 @@
+{
+  "id": "news-7c5c02d4",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "매일신문",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA0TmNZOXEwVGZzbjFwRXhLYzZuaDZKMXVsZ291aFBNbWxUX0J2bmpCTTZFQ0E1YVdzLVVRc0stZEhPaDhXemd5cTItQ1U4NWF5WFgzSTJOb3VsdkhPQ1oxS3BB?oc=5",
+  "title": "[삼성 오키나와 마무리 캠프] ① 내일을 향해 뛰다",
+  "published_at": "2026-11-17T02:24:53.000Z",
+  "collected_at": "2026-11-17T21:37:43.925Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 61,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

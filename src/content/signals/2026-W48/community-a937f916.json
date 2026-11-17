@@ -1,0 +1,22 @@
+{
+  "id": "community-a937f916",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 오늘의 스포츠픽",
+  "url": "https://blog.naver.com/forehfrhdiddl/224481129995",
+  "title": "“전체 3순위 거포인데 타격폼부터 고친다고?” KIA 이호민이 오키나와에서 받은 첫 주문, 이범호 감독...",
+  "published_at": "2026-11-17T22:17:00.000+09:00",
+  "collected_at": "2026-11-17T21:37:43.925Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "news-8be9821c",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "MBC 뉴스",
+  "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1MVnptU2s2SzlhYkxWVHNNZzNWbXh2QUh5TDNfbVdiZUxVSlNsQkFGMEZuLUI4NUM3bXJIalNGNk1qbElGSzFZazZTVlAwNEt1S1JUeERXMlJBY2VOTUNIRk83ZUZTU25NTXNBeTFyVkxGOFp0SVRtYtIBeEFVX3lxTE1NVnFJMTB5eTV5eUVzYjZBeGVaY3JIcFhxQUNJMzBwTFhGU0N2VWQ3ZzBtZFlTcWFYWnU1OHRSQW9Yekpzc00zT3cyRUhFNXNjLUR6RXdWWHZjbVhOTjN0NUNtVlU4TlhXbG1GeHVzMjJ4cGFfOHFjUQ?oc=5",
+  "title": "삼성 우승공약 실천‥'파랗게 물든 놀이공원'",
+  "published_at": "2026-11-17T11:54:57.000Z",
+  "collected_at": "2026-11-17T21:37:43.925Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 80
+  },
+  "sentiment": "positive"
+}

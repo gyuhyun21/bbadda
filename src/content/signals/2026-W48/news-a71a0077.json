@@ -1,0 +1,29 @@
+{
+  "id": "news-a71a0077",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://www.mt.co.kr/amp/sports/2026/11/18/2026111717431267394",
+  "title": "김영웅 \"죄송합니다\" 사과→이재현 \"버스 탔다\" 반성, 우승 축제서도 반등 다짐한 삼성 젊은 피 [용인 현장]",
+  "published_at": "2026-11-17T16:01:00.000Z",
+  "collected_at": "2026-11-17T21:37:43.925Z",
+  "summary_ko": "머니투데이는 우승 축제에서도 김영웅이 사과하고 이재현이 반성하며 삼성 젊은 피가 내년 반등을 다짐했다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 82,
+    "relevance": 70
+  },
+  "sentiment": "mixed",
+  "also_in": [
+    {
+      "source_name": "스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1XbWgzVFhPNWhxNUlYWGNYVW1tNnFYRE5ELWY2S3hYTkFnM3FfTWlkVnVtU2kyYXNjSzlWVjV4MVd5bnRPcmtnVFJBdzFlZVNXTkV1RDhtR0tveTgtb283Z2U4NF9kQlVUdE13NGZaSHIwRWc1TlE?oc=5"
+    }
+  ],
+  "brief_ko": "김영웅 사과, 이재현 반성"
+}
