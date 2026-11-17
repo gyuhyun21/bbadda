@@ -21,8 +21,8 @@
     },
     {
       "src": "clip3.mp4", "from": 0, "to": 12, "credit": "Señor Onion", "yt": "o0v3ZGolsvo",
-      "say": "a3.mp3", "text": "새는 홈플레이트 몇 걸음 앞에 떨어졌고, 그 자리엔 깃털이 흩날렸어.",
-      "kick": "다시 보기", "head": "홈 앞엔<br><b>깃털만</b>", "sub": "새는 홈 앞에, 깃털이 흩날림",
+      "say": "a3.mp3", "text": "새는 홈플레이트 근처에 떨어졌고, 그 자리엔 깃털이 흩날렸어.",
+      "kick": "다시 보기", "head": "홈 근처엔<br><b>깃털만</b>", "sub": "새는 홈 근처에, 깃털이 흩날림",
       "note": "출처: ESPN·Cronkite News · 영상: Señor Onion",
       "freeze": { "at": 1.5, "dur": 0.8 },
       "fx": [{ "at": 2.4, "text": "어디 갔어", "style": "mind" }]
