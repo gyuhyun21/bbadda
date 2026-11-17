@@ -1,0 +1,24 @@
+{
+  "id": "community-04b21044",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 호소남의 오늘도 체크in 아시아",
+  "url": "https://blog.naver.com/bbums-trip/224480757102",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/IsjJxY7jse3",
+  "title": "걸그룹 활동 끝난 뒤 야구선수와 12월 결혼 ‘솔로지옥’ 출연자가 시누이 되는 예비부부",
+  "published_at": "2026-11-17T16:56:00.000+09:00",
+  "collected_at": "2026-11-17T13:37:41.354Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

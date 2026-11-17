@@ -1,0 +1,23 @@
+{
+  "id": "news-83bf0d5a",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "남도일보",
+  "url": "https://www.namdonews.com/news/articleViewAmp.html?idxno=929534",
+  "title": "[여기는 오키나와]\"정상까지 갈 재목\"…이범호가 주목한 KIA 신인 노민혁의 도전",
+  "published_at": "2026-11-17T07:25:00.000Z",
+  "collected_at": "2026-11-17T13:37:41.354Z",
+  "summary_ko": "남도일보는 이범호 감독이 정상까지 갈 재목이라고 주목한 KIA 신인 노민혁의 오키나와 캠프 도전을 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "이범호가 주목한 신인 노민혁"
+}

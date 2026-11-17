@@ -1,0 +1,28 @@
+{
+  "id": "news-cfe0ea3a",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "연합뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE81WGo4MlBWSm1ZMWZZcHRIVEtJelR6SW05cldBREhIVnlNVnkwZEtad1IyX0txaHlaa21Cd253TDFPZ082WjdoY1VRY04zVVU2VXI4OVpTU0czQ3PSAWBBVV95cUxPT1ktdmN2dDIyNlZob2IxOWNrSDVjUVhlZjlqZWFaQXpza0lwM0dUUDF4UUFwUElYMFpfYVRrRmFDelBXREFPaHZMSHNmN0FWeEV0NXlubUEyREgyS190Ynk?oc=5",
+  "title": "프로야구 삼성, 우승 공약 지켰다…에버랜드서 팬 2천명과 축제",
+  "published_at": "2026-11-17T07:56:39.000Z",
+  "collected_at": "2026-11-17T13:37:41.354Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 90,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "톱스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5UN29uQVJSc2tKTUcwUi1MNUItTERUVjN1dmVTbGJLU2J2QVNnc05EQWhWc0RJU25aamlSTXBLTzN3d2JBUy1QUnpxNWlYS1pCSFBQTkNmMlppS2FwU3NJUEJFczdrUXgzUm9qQ1daTDVJZw?oc=5"
+    }
+  ]
+}

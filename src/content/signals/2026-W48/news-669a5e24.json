@@ -1,0 +1,23 @@
+{
+  "id": "news-669a5e24",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "www.xportsnews.com",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBTc1otRVFvVy1LTGhIRDBCZmh2RWpxTHo0V19TNHpKMlNlTy11Xy1uUDFTaENnci1EZ2N3OUd5ZmNXMnhJWlpMVUxHWDVGUW9oNjdWeQ?oc=5",
+  "title": "사령탑이 부여한 특별 미션, 이 선수 8kg이나 뺐다고?…\"스스로도 필요하다고 생각했다\" [가고시마 인터뷰]",
+  "published_at": "2026-11-17T11:29:37.000Z",
+  "collected_at": "2026-11-17T13:37:41.354Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

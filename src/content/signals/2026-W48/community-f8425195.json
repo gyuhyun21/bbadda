@@ -1,0 +1,24 @@
+{
+  "id": "community-f8425195",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 BBC 미디어센터",
+  "url": "https://blog.naver.com/sunhoo272/224480714555",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/DVGbxvuyn0d",
+  "title": "FA 시장 개막, 베테랑들의 '잔류' 선택이 던지는 메시지",
+  "published_at": "2026-11-17T16:54:00.000+09:00",
+  "collected_at": "2026-11-17T13:37:41.354Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

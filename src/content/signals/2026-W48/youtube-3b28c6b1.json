@@ -1,0 +1,26 @@
+{
+  "id": "youtube-3b28c6b1",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "youtube",
+  "source_name": "KBO 베이스볼 픽",
+  "url": "https://www.youtube.com/watch?v=AGhnOw8B0Hk",
+  "title": "롯데 미야자키 캠프 근황! 나승엽 향한 이동욱의 확신 #롯데자이언츠 #나승엽 #이동욱",
+  "published_at": "2026-11-17T13:14:28Z",
+  "collected_at": "2026-11-17T13:37:41.354Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 25,
+    "likes": 1,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 49,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

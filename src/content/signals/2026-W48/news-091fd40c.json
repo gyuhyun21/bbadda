@@ -1,0 +1,24 @@
+{
+  "id": "news-091fd40c",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://www.sportschosun.com/baseball/2026-11-17/202611170100104250009637",
+  "title": "주니치 2군에서 맞대결→1년만에 APBC 결승전서 진짜 만나다니. 문정빈VS다카하시 APBC라 가능했다[무로이칼럼]",
+  "published_at": "2026-11-17T09:02:21.000Z",
+  "collected_at": "2026-11-17T13:37:41.354Z",
+  "summary_ko": "스포츠조선은 주니치 2군에서 맞붙었던 LG 문정빈과 다카하시가 1년 만에 APBC 결승에서 다시 만났다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "1년 만에 APBC 결승서 재회"
+}

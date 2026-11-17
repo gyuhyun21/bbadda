@@ -1,0 +1,23 @@
+{
+  "id": "community-8f5ec2eb",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 세상의 모든 정보",
+  "url": "https://blog.naver.com/upland_/224480719264",
+  "title": "이승엽이 한국 수준 넘었다던 23세 타자, 일본전 성적은 달랐다",
+  "published_at": "2026-11-17T16:29:00.000+09:00",
+  "collected_at": "2026-11-17T13:37:41.354Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

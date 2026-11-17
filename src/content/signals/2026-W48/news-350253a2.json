@@ -1,0 +1,24 @@
+{
+  "id": "news-350253a2",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202611171900282934",
+  "title": "\"1000명 약속? 2000명 불렀다\" 에버랜드 통째로 빌린 삼성, 'FA' 구자욱·원태인 뜬 역대급 V9 파티",
+  "published_at": "2026-11-17T10:01:43.000Z",
+  "collected_at": "2026-11-17T13:37:41.354Z",
+  "summary_ko": "파이낸셜뉴스는 우승하면 팬 1000명과 에버랜드에 가겠다던 삼성이 2000명을 불러 에버랜드를 통째로 빌렸고, FA 구자욱·원태인도 함께했다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "1천 명 약속, 2천 명과 에버랜드",
+  "hook_ko": "1천 명 약속했는데,\n2천 명 불렀다"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "youtube-c35c5eb7",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "youtube",
+  "source_name": "내꿈은롯데우승",
+  "url": "https://www.youtube.com/watch?v=gS80tZoc4k4",
+  "title": "이동욱 감독의 나승엽 1루 선언 #롯데자이언츠 #shorts",
+  "published_at": "2026-11-17T12:35:26Z",
+  "collected_at": "2026-11-17T13:37:41.354Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 626,
+    "likes": 6,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 41,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

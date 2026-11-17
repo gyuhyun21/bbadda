@@ -1,0 +1,23 @@
+{
+  "id": "news-b2fdea22",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "뉴스1",
+  "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBzLXEtWUtqcGVZUzBMWWdZTjRUZEJkU1ZhU3I1TGppak5DYU9DX3ZUYzVqbW5zUHdjSTlVMnFGazkzYUFLWUktTnktbw?oc=5",
+  "title": "강민호 '우승 후 팬들과의 만남이 반가워'",
+  "published_at": "2026-11-17T06:59:52.000Z",
+  "collected_at": "2026-11-17T13:37:41.354Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

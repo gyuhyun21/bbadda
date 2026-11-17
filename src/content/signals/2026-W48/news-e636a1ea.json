@@ -1,0 +1,29 @@
+{
+  "id": "news-e636a1ea",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "news",
+  "announcement": true,
+  "source_name": "네이트",
+  "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1HWjhxVVhLMWVEbkliMXh4NlNOZHVjZGtoN3dQbFV3b05FT3pmd3NXVEQxOWVtRWRmZW10bk9ia24wcnZHTGhmNGtUTjFtM2xVMDJwdDFB?oc=5",
+  "title": "[오피셜]헤드샷 다음 날에도 \"뛰겠다\"…두산이 FA 양의지에게 55억 원을 안긴 진짜 이유",
+  "published_at": "2026-11-17T07:06:00.000Z",
+  "collected_at": "2026-11-17T13:37:41.354Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "MHN스포츠",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE10NHZJbGVnM0hPNm1GMERtX2piRldVSFpNZm15RjBpbDNfS3ZnN2R5M2JQX25aOEh4bkRueGg1akEyZjlTb2VZaVFNMHk5TnV5YXJBVFVadkh5cXFrWU9oMmFkVQ?oc=5"
+    }
+  ]
+}

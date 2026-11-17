@@ -1,0 +1,23 @@
+{
+  "id": "news-8a1c6f8b",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://www.sportschosun.com/baseball/2026-11-17/202611170100112630010410",
+  "title": "\"삼성이 잡고자 하는 선수 놓친 적 있었던가\" 'FA 최대어' 구자욱·원태인 동반 잔류 희망가…정작 두 후배에겐 \"비밀사진 푼다\" 협박(?) 메시지[용인 현장]",
+  "published_at": "2026-11-17T08:43:01.000Z",
+  "collected_at": "2026-11-17T13:37:41.354Z",
+  "summary_ko": "스포츠조선은 강민호가 삼성이 잡고자 한 선수를 놓친 적이 있었냐며 구자욱·원태인의 동반 잔류를 바랐다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "강민호, 구·원 동반 잔류 희망"
+}

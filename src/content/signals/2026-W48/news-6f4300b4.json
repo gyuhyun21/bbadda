@@ -1,0 +1,23 @@
+{
+  "id": "news-6f4300b4",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "뉴스1",
+  "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9SbHh4MkZ0cmprRVZCSjZvdVlHb0xzQWRkSHV0TTNwVHVOV1lGS0JlYnZBbEttelUyRjJ1QmpES09uX1VrN0JiUW0wYw?oc=5",
+  "title": "강민호·김재윤 '우승의 기쁨을 팬들과 함께'",
+  "published_at": "2026-11-17T06:57:05.000Z",
+  "collected_at": "2026-11-17T13:37:41.354Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

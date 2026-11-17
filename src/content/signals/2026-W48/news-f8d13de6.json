@@ -1,0 +1,32 @@
+{
+  "id": "news-f8d13de6",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스1",
+  "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAtU3lxSS1LSDlmRjNMZE5lM2h2Nm9QNnNOZWdOVlNHQ1k1Ymp1RXA5ZXN1T2YxQTI2aUN0OTVkcEpYUlptZXNWOER5aw?oc=5",
+  "title": "삼성라이온즈, 에버랜드서 팬들과 'KS 우승' 축하행사",
+  "published_at": "2026-11-17T07:03:54.000Z",
+  "collected_at": "2026-11-17T13:37:41.354Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 98,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "파이낸스투데이",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9rYkFWX2FPYkJEbUcxb0M3OTlHc3pLUVhTbUQ0eUpScUw3QWh6VElsVzlVcDhkNFlPQTN3M1dMYWY4VGg3bWtyY2JGLWpfVUxzRzd2aDdQYXNCSXZyRTBKRnVobnd6cDFXVHBmZQ?oc=5"
+    },
+    {
+      "source_name": "경향신문",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9qZnV6eDViR1NUWXQwWEg0blFhLUcza0h0S1hidzJUZE9nLVV4cFpRSnIta01rWGFPRXhTNm1fSVlsUE1iaWsxMG1lakpfUzhCOXJOOEhHMHZveVd0UFRj0gFfQVVfeXFMT2pmdXp4NWJHU1RZdDBYSDRuUWEtRzNrSHRLWGJ3MlRkT2ctVXhwWlFKci1rTWtYYU9FeFM2bV9JWWxQTWJpazEwbWVqSl9TOEI5ck44SEcwdm95V3RQVGM?oc=5"
+    }
+  ]
+}

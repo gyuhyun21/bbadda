@@ -1,0 +1,24 @@
+{
+  "id": "news-465802d5",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://www.mt.co.kr/amp/sports/2026/11/17/2026111718460018459",
+  "title": "드디어 입 연 'FA' 원태인, 이것만 강조했다! \"해외 진출? 무모한 도전은 안 한다\"",
+  "published_at": "2026-11-17T10:04:14.000Z",
+  "collected_at": "2026-11-17T13:37:41.354Z",
+  "summary_ko": "머니투데이는 FA 원태인이 해외 진출에 대해 무모한 도전은 하지 않겠다고 강조했다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "원태인 '무모한 도전은 안 한다'"
+}

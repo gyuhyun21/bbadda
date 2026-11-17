@@ -1,0 +1,44 @@
+{
+  "id": "youtube-229dca3f",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "youtube",
+  "source_name": "코리아딘",
+  "url": "https://www.youtube.com/watch?v=57HYmOhZwX0",
+  "title": "양의지 대박!  #두산 #FA #쇼츠",
+  "published_at": "2026-11-17T12:25:26Z",
+  "collected_at": "2026-11-17T13:37:41.354Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 642,
+    "likes": 2,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 36,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "SPOTV NEWS",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5KYmxqdkhITU8xS1hQTE1SWlNBLUUzMUZDQzUyYjdZYXU5UTBCbFNaT0MzTTRmWnNHeHVUaUNXT1phZ0ZCSkk4TzZ0WVVRUi1MS2w2cnhIOEZtRzZzU1JWb21sTnZlVnR5TjlMNG8wcjQ?oc=5"
+    },
+    {
+      "source_name": "더게이트",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9kMXl6a2lCY2xmU0pRM0NwRTdGVzFpbjIxdnI2eG1ZUG5yX3o3dHRmWGQyODFYUDFMYXZ6T0RmTVlQLWZPTGpvQ0NsYjhCcnZtMXhTUTBTcldoNXNBZnJIYkctYnJvbTd10gFsQVVfeXFMT0phbm9MYnlzWEw2RW1DLXAxTWRQMlgwLVJaMHlxU0NQOHlTUzB4OVlPSkg0QkJ4ODN5bzBPMWNqVFExcmQyQzFzZHNfTElDLTdTRTRVRXdLNnhVam9CcnJZRmFKOEthakZaSnQt?oc=5"
+    },
+    {
+      "source_name": "MHN스포츠",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8wMHFyWExUem5maHZLTHN4YzYxdlFEQTItV205R1RCc0p4Vm8tR3NVb0VEYVh2a0ZtQ0lnUjExdDdHT2daa2xrZEJpdlk3SUMzdVdzYW1MUllFWEt0VnRpQzE2OA?oc=5"
+    },
+    {
+      "source_name": "스포츠조선",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9jQ0dpc1BCRDRkYW54azFnSkhyS3JFVWpBNUhaZ1FLdXhfcGNPVDBMZmdGdE9vTThwVl92YW5NSWdmUHMtYmtPQUpYT3kzMDFXOEtYVW5FZlFWR2s3ZEdZLW5fRzRISVJWNUh4N25TZUtVTWpQUHJXTG96TjhQQQ?oc=5"
+    }
+  ]
+}

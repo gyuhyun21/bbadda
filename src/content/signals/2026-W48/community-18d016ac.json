@@ -1,0 +1,22 @@
+{
+  "id": "community-18d016ac",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 내일의 라인업",
+  "url": "https://blog.naver.com/070seoul/224480865325",
+  "title": "SSG가 오태곤과 다시 맺은 3년, 총액은 7억 줄었는데 연평균 연봉 차이는 약 333만원",
+  "published_at": "2026-11-17T19:03:00.000+09:00",
+  "collected_at": "2026-11-17T13:37:41.354Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

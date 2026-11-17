@@ -1,0 +1,24 @@
+{
+  "id": "news-e569ae49",
+  "issue": "2026-W48",
+  "module": "rivalry",
+  "team": "lotte",
+  "teams": [
+    "lotte",
+    "hanwha"
+  ],
+  "source_type": "news",
+  "source_name": "조선일보",
+  "url": "https://www.chosun.com/sports/baseball/2026/11/17/MZRGKZBYGQ4DONTFHBRGGMZRHA/",
+  "title": "롯데 또 공 흘리고, 연타 맞고.. 한화전 연습경기 완전히 깨졌는데 → 이동욱 감독은 왜 \"잘했다\"고 했을까 [미야자키 현장]",
+  "published_at": "2026-11-17T09:21:00.000Z",
+  "collected_at": "2026-11-17T13:37:41.354Z",
+  "summary_ko": "조선일보는 한화와의 연습경기에서 실책과 연타로 완패한 롯데에 이동욱 감독이 오히려 '잘했다'고 한 이유를 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "완패에도 감독은 '잘했다'"
+}

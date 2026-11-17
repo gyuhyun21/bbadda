@@ -1,0 +1,23 @@
+{
+  "id": "news-1e1940ee",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9tZ25wNUNLaERtM2FlTnlqZmY0OW85ZGE5RFY1MlhWYVliUzlkRWdTWFVhcnlwd1hQakdnZzdReDVfWDBBeDhBWG5vamsydk40UVFqbFBJYlU1TkQzR3VReWUzWmN5QnRJRGdLdVZWb9IBb0FVX3lxTE9tZ25wNUNLaERtM2FlTnlqZmY0OW85ZGE5RFY1MlhWYVliUzlkRWdTWFVhcnlwd1hQakdnZzdReDVfWDBBeDhBWG5vamsydk40UVFqbFBJYlU1TkQzR3VReWUzWmN5QnRJRGdLdVZWbw?oc=5",
+  "title": "주전도 아닌데 FA로 29억 벌었다, 가치 인정받은 슈퍼 백업 “내 위치 알고 철저히 준비, 개인 기록보다 팀 승리”",
+  "published_at": "2026-11-17T10:10:00.000Z",
+  "collected_at": "2026-11-17T13:37:41.354Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

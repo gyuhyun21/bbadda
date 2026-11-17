@@ -1,0 +1,22 @@
+{
+  "id": "news-8bd058ff",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "news",
+  "source_name": "위키트리",
+  "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1SQ2xDRkJXbXJKd3RJUlVwT3dWUU5LUUM4Z0ZYWnRpSldjRDdfYTdEcjZQbnZVbFRCaXN0NkhsUVNsTG92aXM4dlFqQklYWlVDTzlKeGR3?oc=5",
+  "title": "입이 떡 벌어진다… 양의지가 두산서 받게 된 ‘상상 초월’ FA 금액",
+  "published_at": "2026-11-17T01:58:00.000Z",
+  "collected_at": "2026-11-17T13:37:41.354Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

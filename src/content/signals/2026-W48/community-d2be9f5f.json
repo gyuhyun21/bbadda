@@ -1,0 +1,24 @@
+{
+  "id": "community-d2be9f5f",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 아랑이의 스포츠 트래블 (Sports Travel)",
+  "url": "https://blog.naver.com/magpia10/224480962589",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/IGOA2kSjrN1",
+  "title": "[프로야구] 2027년 11월 17일 현재 FA 계약은 누구?양의지·오태곤 계약 완료! 2027 KBO FA 시장 첫날...",
+  "published_at": "2026-11-17T19:55:00.000+09:00",
+  "collected_at": "2026-11-17T13:37:41.354Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

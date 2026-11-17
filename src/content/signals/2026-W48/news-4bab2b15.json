@@ -1,0 +1,24 @@
+{
+  "id": "news-4bab2b15",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "조선일보",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNHo0dGYxOEk5dlo3T0pUV3F5M0VJSktrNzB5U1MtTlBvTVd3c1ZZUk4wamhEUTF4eG45Vy1IYUJqcXdLTmtGeFF2SlNweFYxQUlzX3JwVThZR1lfVjByYWw5ZkpNUnNNOFpIc3V3M29pMmR5YzlkQUlyYklyNFdUZ2lSaw?oc=5",
+  "title": "'문현빈 2루수' 사실상 4일이면 결판 → 류지현 감독이 기회 준 이유는 [미야자키 현장]",
+  "published_at": "2026-11-16T16:47:00.000Z",
+  "collected_at": "2026-11-17T13:37:41.354Z",
+  "summary_ko": "조선일보는 류지현 감독이 미야자키 캠프에서 문현빈에게 2루수 기회를 줬고 사실상 4일이면 결판이 난다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 61,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "문현빈 2루수, 4일이면 결판"
+}

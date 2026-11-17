@@ -1,0 +1,30 @@
+{
+  "id": "youtube-196a5d7a",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "ssg",
+    "nc",
+    "lotte",
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "source_name": "야구의모든것",
+  "url": "https://www.youtube.com/watch?v=pPLU9tHQ6-0",
+  "title": "기아타이거즈 김호령 FA 몸값 폭등! 최지훈 SSG 잔류 변수와 KIA NC 롯데 한화 4파전 전망",
+  "published_at": "2026-11-17T09:30:22Z",
+  "collected_at": "2026-11-17T13:37:41.354Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 5862,
+    "likes": 71,
+    "comments": 32
+  },
+  "scores": {
+    "hot": 58,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

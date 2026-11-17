@@ -1,0 +1,25 @@
+{
+  "id": "news-291943ab",
+  "issue": "2026-W48",
+  "module": "rivalry",
+  "team": "lg",
+  "teams": [
+    "lg",
+    "hanwha",
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "m.maniareport.com",
+  "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1oSjBFdmNkcTJhNHRqbWR6cE5TT2RhT2Rmd1BxdlJuWkpjVHRhTFpUanFiOVNWTnVzY2JjMmFfcUp2QktrUWNaRVpFRzZVZGJaS0w1SEhkZHRNTUNlQ3k3NjF1QWNVWm1mdEFxYlM5LVBLMEFBemFMTHYyRQ?oc=5",
+  "title": "'파격, 또 파격' KBO에 부는 파격 인사의 빛과 그림자...해설위원이 단장되고 단장이 코치 돼",
+  "published_at": "2026-11-17T00:17:13.000Z",
+  "collected_at": "2026-11-17T13:37:41.354Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 87,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

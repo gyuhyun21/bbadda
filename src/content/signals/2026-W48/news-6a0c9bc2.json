@@ -1,0 +1,23 @@
+{
+  "id": "news-6a0c9bc2",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "전북금강일보",
+  "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBKM2FVNkM4NFVjRXUyRVp4V2k3bF9yZFJrSkFmWU9kSkNGWWpyWnZhZ1RCU3dBTEZvYWNJbnI2alc?oc=5",
+  "title": "전국 유소년 야구 꿈나무, 익산서 실력 뽐낸다",
+  "published_at": "2026-11-17T06:33:00.000Z",
+  "collected_at": "2026-11-17T13:37:41.354Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

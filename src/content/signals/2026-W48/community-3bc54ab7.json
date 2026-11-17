@@ -1,0 +1,23 @@
+{
+  "id": "community-3bc54ab7",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 풀카운트 90분",
+  "url": "https://blog.naver.com/jaydenstory/224480587443",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/ABt5fzKBghC",
+  "title": "\"최원태 내주고 데려온 외야수가 제2의 이정후?\" 18홈런 3할 폭발한 천재 타자 (키움 히어로즈)",
+  "published_at": "2026-11-17T15:00:00.000+09:00",
+  "collected_at": "2026-11-17T13:37:41.354Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

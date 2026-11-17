@@ -1,0 +1,27 @@
+{
+  "id": "youtube-f79a8897",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "환규낭만TV",
+  "url": "https://www.youtube.com/watch?v=aY5fYUosZW4",
+  "title": "부탁해요 단장님.. #엘지트윈스 창기 동원(tuna)잔류 되기를 ...",
+  "published_at": "2026-11-17T10:23:02Z",
+  "collected_at": "2026-11-17T13:37:41.354Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 729,
+    "likes": 1,
+    "comments": 2
+  },
+  "scores": {
+    "hot": 37,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

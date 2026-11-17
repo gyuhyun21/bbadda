@@ -1,0 +1,26 @@
+{
+  "id": "youtube-0b43fa47",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "youtube",
+  "source_name": "쇼핑잇",
+  "url": "https://www.youtube.com/watch?v=swq7cHsexms",
+  "title": "박동원 FA 지연 LG의 진짜 속셈 #박동원 #LG트윈스 #프로야구",
+  "published_at": "2026-11-17T12:16:23Z",
+  "collected_at": "2026-11-17T13:37:41.354Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1586,
+    "likes": 6,
+    "comments": 2
+  },
+  "scores": {
+    "hot": 42,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

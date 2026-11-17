@@ -1,0 +1,23 @@
+{
+  "id": "community-89b9d856",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 엑스트라 필드",
+  "url": "https://blog.naver.com/gfielder/224480276469",
+  "title": "\"코트에만 나가면 사람이 바뀌어요\".. 한국과 대만 응원단을 함께 맡은 금발 치어리더의 룩",
+  "published_at": "2026-11-17T16:10:00.000+09:00",
+  "collected_at": "2026-11-17T13:37:41.354Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

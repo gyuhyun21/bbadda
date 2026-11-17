@@ -1,0 +1,23 @@
+{
+  "id": "community-5fda3b2a",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 스포츠에 스며든 이슬",
+  "url": "https://blog.naver.com/sde77/224480895698",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/Jb8JPGJHEZ6",
+  "title": "“이미 한국에서 평균자책점 1.29 찍었다!” KT가 주목한 MLB 출신 좌완 투수",
+  "published_at": "2026-11-17T18:53:00.000+09:00",
+  "collected_at": "2026-11-17T13:37:41.354Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}
