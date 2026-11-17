@@ -1,0 +1,27 @@
+{
+  "id": "youtube-4d4c227b",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha",
+    "lg"
+  ],
+  "source_type": "youtube",
+  "source_name": "초집중",
+  "url": "https://www.youtube.com/watch?v=UOtsOYrgk7A",
+  "title": "손혁 근황 한화 단장에서 LG 투수 총괄 코치로 27년 만에 친정 복귀",
+  "published_at": "2026-11-17T05:34:27Z",
+  "collected_at": "2026-11-17T07:38:14.793Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 4,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

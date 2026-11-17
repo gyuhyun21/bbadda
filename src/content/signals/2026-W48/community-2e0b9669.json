@@ -1,0 +1,24 @@
+{
+  "id": "community-2e0b9669",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/10564827719",
+  "title": "KBO FA 시장 타임라인 - 야구",
+  "published_at": "2026-11-16T15:00:00.000Z",
+  "collected_at": "2026-11-17T07:38:14.793Z",
+  "summary_ko": "",
+  "excerpt": "... NC 다이노스 : 내부 0/외부 0/단독 0. 한화 이글스 : 내부 0/외부 0/단독 0.…",
+  "metrics": {},
+  "scores": {
+    "hot": 62,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

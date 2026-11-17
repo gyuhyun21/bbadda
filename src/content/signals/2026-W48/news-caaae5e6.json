@@ -1,0 +1,23 @@
+{
+  "id": "news-caaae5e6",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1pNzAwOVU3bXRsMVhDSnROYURJblFXUGxjbm9POG1kamNWdGt2dWlDbmFsQk80dWs4dmM1MGQtRGZEWEJyX2w4ZUdhaU1ZRHdmRXhLZlR5YlprV1AzdTFkaHZ1blFDZUh2WUZfSGFiONIBb0FVX3lxTE1pNzAwOVU3bXRsMVhDSnROYURJblFXUGxjbm9POG1kamNWdGt2dWlDbmFsQk80dWs4dmM1MGQtRGZEWEJyX2w4ZUdhaU1ZRHdmRXhLZlR5YlprV1AzdTFkaHZ1blFDZUh2WUZfSGFiOA?oc=5",
+  "title": "\"맞아도 괜찮다고 했고, 미션 완벽 수행\"…2루타-안타 맞았는데, 160km 파이어볼러 오히려 칭찬 받았다 [오!쎈 미야자키]",
+  "published_at": "2026-11-17T05:39:00.000Z",
+  "collected_at": "2026-11-17T07:38:14.793Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

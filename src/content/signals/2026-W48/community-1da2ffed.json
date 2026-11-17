@@ -1,0 +1,24 @@
+{
+  "id": "community-1da2ffed",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg",
+    "lg"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 MOPY 스포츠 & 이슈",
+  "url": "https://blog.naver.com/mopy_studio/224480444981",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/Hi4JjScJdg",
+  "title": "\"타율 0.143 찍고 SSG 방출된 김민식\" LG가 즉시 데려간 이유",
+  "published_at": "2026-11-17T13:16:00.000+09:00",
+  "collected_at": "2026-11-17T07:38:14.793Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

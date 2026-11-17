@@ -1,0 +1,24 @@
+{
+  "id": "community-bb5f9e1f",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 yulrisport",
+  "url": "https://blog.naver.com/yulri_sport/224479848061",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/GHCEPVCIU4R",
+  "title": "FA 신청 안 한 선수 4명.. 시장에 나가지 않은 선택은 과연 현명했을까?",
+  "published_at": "2026-11-17T05:52:00.000+09:00",
+  "collected_at": "2026-11-17T07:38:14.793Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

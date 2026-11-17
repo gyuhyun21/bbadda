@@ -1,0 +1,23 @@
+{
+  "id": "news-a87327a4",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠경향",
+  "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9MRkVQMDhDUXdZTmROb1lObWxWd0lReWNjSVB4WUducU1NTEJHbnJlLUFyZmswdHd5cmJIeExLT2xiYnhGeGpIankteUJ6V3djbGxCOTdmWGV0MUF5dnfSAWNBVV95cUxQWWZDXzNhV2I0TFh2QmphU3BrOGthSDFBLWRETFd6N2J6akdGOHpjOE9jRWNXUDhud1BjMnlDMGRqeVJ0alRIaUJ1RWdLZ3hrN2I5SlhtRkh0U1AtUVNSWFU1ZnM?oc=5",
+  "title": "“박동원이 우선, 다른 포수 관심 없다” 4년 전 포수 연쇄 대이동, 올해는 다르다?",
+  "published_at": "2026-11-17T06:51:00.000Z",
+  "collected_at": "2026-11-17T07:38:14.793Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

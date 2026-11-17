@@ -1,0 +1,24 @@
+{
+  "id": "news-040037e2",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "announcement": true,
+  "source_name": "MHN스포츠",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE14S0U5RExWWEg2WHNOZXdQcThsWVd4R01uWmpSLWVQX1d4ZmxPeE5UakpNdEZQLVVzYXgwSlFHWm56WUZQNzRVNjNtdVBrVTBzSUJ3dnRDRENEWmRVWGRPWGNzaw?oc=5",
+  "title": "[오피셜]두 번의 트레이드, 그러나 “구단에 헌신”…오태곤 FA 1호 계약에서 드러난 충성심",
+  "published_at": "2026-11-17T01:40:27.000Z",
+  "collected_at": "2026-11-17T07:38:14.793Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

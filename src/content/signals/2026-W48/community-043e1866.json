@@ -1,0 +1,23 @@
+{
+  "id": "community-043e1866",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha",
+    "lotte"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 FT스포츠",
+  "url": "https://blog.naver.com/ft-times/224480017563",
+  "title": "KBO 한화, 미야자키 캠프서 롯데 꺾고 연습경기 9-1 승리",
+  "published_at": "2026-11-17T12:50:00.000+09:00",
+  "collected_at": "2026-11-17T07:38:14.793Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

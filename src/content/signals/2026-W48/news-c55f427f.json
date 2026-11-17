@@ -1,0 +1,23 @@
+{
+  "id": "news-c55f427f",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "에너지경제신문",
+  "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE50bDFpMFUzQU15M3RaZ205aF8tcnJVSHFDUC1nUHAyTkljaWFITG9ZY3RncVRidHNId3pRb2JlS2JNZ1c1bnQ1aEw0Z2RfUGMtc21aN1BIR0RzREU?oc=5",
+  "title": "사직야구장 재건축 지연…송우현 “북항 돔에 발목 잡혀”",
+  "published_at": "2026-11-17T04:29:11.000Z",
+  "collected_at": "2026-11-17T07:38:14.793Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

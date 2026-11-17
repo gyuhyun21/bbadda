@@ -1,0 +1,22 @@
+{
+  "id": "news-2b42b4b0",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "동행미디어 시대",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5OODZRZGlWdHJTYlc0QlM5SFFoemppSFppRHA2YVBNN1lmczA3dTNVYngxSTcyOHc5VjE2VElCS3g4QXp1X09hM0F1cWZIMkJLUkhBLTBBdU5IMkMzR0hDM1R3?oc=5",
+  "title": "양의지 첫 테이프…'우승 청구서' 받은 삼성, 원태인·구자욱 지킬까",
+  "published_at": "2026-11-17T02:13:01.000Z",
+  "collected_at": "2026-11-17T07:38:14.793Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 80
+  },
+  "sentiment": "positive"
+}

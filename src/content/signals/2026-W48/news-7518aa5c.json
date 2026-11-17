@@ -1,0 +1,23 @@
+{
+  "id": "news-7518aa5c",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://www.mt.co.kr/amp/sports/2026/11/17/2026111706135142395",
+  "title": "韓 국대 투구 수 35% 롯데가 책임졌다! 日 5이닝 버틴 김진욱·주장 한동희 홈런포, APBC 준우승 아쉬움 속 찾은 희망",
+  "published_at": "2026-11-16T23:01:00.000Z",
+  "collected_at": "2026-11-17T07:38:14.793Z",
+  "summary_ko": "머니투데이는 APBC 한국 대표팀 투구 수의 35%를 롯데 투수들이 책임졌다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "brief_ko": "대표팀 투구 수 35%는 롯데"
+}

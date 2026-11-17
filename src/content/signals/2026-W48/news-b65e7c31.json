@@ -1,0 +1,23 @@
+{
+  "id": "news-b65e7c31",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "더게이트",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9CalBQdHNTNXNiRUxpc2pmeDJoUnhHdGhSZHhMUWxxTEIyNmxFN0FGc0pITnJJa1MzVzVpZXdpUjE1OUhzSUdzSjNHZWxWMHpGMF9QQ3hmb0lkTG9xUWlhMGx5TVE1NVdh0gFsQVVfeXFMUFl6b1l1R0tVZ3FYcHltMXlaTTRkdm5QSk5YZGZhbnVGNlloUGhkX2F3Q3QzT3RUYXFEU3JzLVozQ2duY1lzQ2ZmXzNYT3M1RmxncjRHZ3hIY1pCOWFVR3BNU25pTXgxQVVLSi1i?oc=5",
+  "title": "‘FA 1호 계약’ 오태곤이냐 양의지냐…한발 먼저 공지 vs 자정 직후 사인, 진짜 1호는 누구? 결론 내려드립니다",
+  "published_at": "2026-11-17T01:15:00.000Z",
+  "collected_at": "2026-11-17T07:38:14.793Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

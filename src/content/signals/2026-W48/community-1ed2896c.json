@@ -1,0 +1,24 @@
+{
+  "id": "community-1ed2896c",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/10565284016",
+  "title": "기업구단은 기업이름 들어간 구호 응원가 많아져야 한다고 생각함",
+  "published_at": "2026-11-17T03:38:14.793Z",
+  "collected_at": "2026-11-17T07:38:14.793Z",
+  "summary_ko": "",
+  "excerpt": "... 2 분 전. 졷구나쁜놈들 삼성라이온즈 응원하는 사람들은 삼성이라서 응원하나 대구 경북 출신이라서 응원하지. [레벨:30]…",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

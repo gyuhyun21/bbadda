@@ -1,0 +1,40 @@
+{
+  "id": "youtube-e7f33556",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "youtube",
+  "source_name": "오늘의 뉴스",
+  "url": "https://www.youtube.com/watch?v=1xvFRzjlf9c",
+  "title": "양의지, 두산 잔류… 2년 최대 55억 원 'FA 1호 계약'",
+  "published_at": "2026-11-17T06:26:06Z",
+  "collected_at": "2026-11-17T07:38:14.793Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 654,
+    "likes": 3,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 38,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBuc3ZqMWlFSXRGTENKSmRaMEFvTDQ5Y3JRdEFlSlQ2c2p6X2NpaUtKbXVFM21LMWdoUUFOM0FVdGlQTEI2X0dzQXd2ZmZITzhTVHYzN1Z4ZG1nNFRBYjdxclQ2VldoSUNkdU5OUENXONIBb0FVX3lxTFBuc3ZqMWlFSXRGTENKSmRaMEFvTDQ5Y3JRdEFlSlQ2c2p6X2NpaUtKbXVFM21LMWdoUUFOM0FVdGlQTEI2X0dzQXd2ZmZITzhTVHYzN1Z4ZG1nNFRBYjdxclQ2VldoSUNkdU5OUENXOA?oc=5"
+    },
+    {
+      "source_name": "마이데일리",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9mQUFXeWNfak14c0UyaENSbmZGdWRDV2d6eE1PR2ZjWDhSb1lpTlJKaGZyb2NwZmJoVHU2U2ZGZzJteGZLYllaMFhQZEVVLXhha0p0Q1VaZEpwNVdxWEtCMA?oc=5"
+    },
+    {
+      "source_name": "뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE04VkVWaHVjN1BrQ3RTOVo3R01XUjR6WTNDdmZyT0drNWlDUGUtaWszdHgwY1k2dU1obFlsN1VpYlRKdnBIamdYY3VGZ1hsc2FROXdoeU94UEpfaFdVLWFJT3ozRF91dFlEa1U0b3I2aDRsellKSmd5aNIBeEFVX3lxTE04VkVWaHVjN1BrQ3RTOVo3R01XUjR6WTNDdmZyT0drNWlDUGUtaWszdHgwY1k2dU1obFlsN1VpYlRKdnBIamdYY3VGZ1hsc2FROXdoeU94UEpfaFdVLWFJT3ozRF91dFlEa1U0b3I2aDRsellKSmd5aA?oc=5"
+    }
+  ]
+}

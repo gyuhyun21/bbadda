@@ -1,0 +1,23 @@
+{
+  "id": "community-b8f5a384",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 메타몽 블로그",
+  "url": "https://blog.naver.com/dreaming_ant/224480346791",
+  "title": "‘귓방망이’ 부르던 연지가 결혼한다고? 예비신랑 강동연은 누구길래?",
+  "published_at": "2026-11-17T13:21:00.000+09:00",
+  "collected_at": "2026-11-17T07:38:14.793Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

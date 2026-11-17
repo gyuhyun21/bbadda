@@ -1,0 +1,24 @@
+{
+  "id": "community-999a7324",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 leegg_님의 블로그",
+  "url": "https://blog.naver.com/leegg_/224480496009",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/2TLgYRmrGI7",
+  "title": "아리바이오 임상 3상 결과 AR1001 삼진제약 소룩스 주가",
+  "published_at": "2026-11-17T15:50:00.000+09:00",
+  "collected_at": "2026-11-17T07:38:14.793Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

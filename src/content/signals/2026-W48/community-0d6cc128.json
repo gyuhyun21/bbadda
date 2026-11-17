@@ -1,0 +1,28 @@
+{
+  "id": "community-0d6cc128",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 공놀이랑",
+  "url": "https://blog.naver.com/fromlovee/224480179183",
+  "title": "프로야구 FA 1호 계약 오태곤 원소속팀 SSG 잔류 3년 11억 원",
+  "published_at": "2026-11-17T10:02:00.000+09:00",
+  "collected_at": "2026-11-17T07:38:14.793Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "스포츠월드",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBhTkN6Y0pEaGlZTTBmN1hzOUZZUGNWeUtsaHhHX1V0UmVjZmZwb0VFUmFxRFlORzc5cnVWUDVJR1NjbFN2Y2dDNUVsTWFWVGVOa2F4YS1jLW14Z0xZSEpYRUdR?oc=5"
+    }
+  ]
+}

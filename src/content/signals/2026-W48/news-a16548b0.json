@@ -1,0 +1,26 @@
+{
+  "id": "news-a16548b0",
+  "issue": "2026-W48",
+  "module": "league",
+  "teams": [],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://www.mt.co.kr/amp/sports/2026/11/17/202611171155775210O",
+  "title": "‘1호 FA 경쟁부터 후끈’ 양의지 55억-오태곤 11억, FA 첫 날부터 66억 터졌다…역대급 스토브리그 예고편",
+  "published_at": "2026-11-17T03:40:00.000Z",
+  "collected_at": "2026-11-17T07:38:14.793Z",
+  "summary_ko": "머니투데이는 FA 시장 첫날부터 양의지 55억 원, 오태곤 11억 원 계약으로 66억 원이 터졌다며 역대급 스토브리그를 예고했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 83,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1OeDUxUW4zNkpmcWJvLUFLbXIyNFNjN2FJTml4S1MtOXlXNXNXUGJVY3ZXSGRkRU02bXUtczM3TTRadUlzWHQyMHVleVhOV3l2VzNIUg?oc=5"
+    }
+  ],
+  "brief_ko": "첫날부터 66억, FA 시장 후끈"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "community-1bb834c7",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 송마담의 설레는 하루도감",
+  "url": "https://blog.naver.com/souhohoho/224479403767",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/733E4gl01Ss",
+  "title": "포스트시즌 0승 2패 뒤집은 리버스스윕 확률, 단기전 불펜 이닝 쪼개기가 답일까?",
+  "published_at": "2026-11-17T15:20:00.000+09:00",
+  "collected_at": "2026-11-17T07:38:14.793Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

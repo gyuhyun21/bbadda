@@ -1,0 +1,27 @@
+{
+  "id": "youtube-1a1d69ab",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "lg"
+  ],
+  "source_type": "youtube",
+  "source_name": "코리아 언리미티드",
+  "url": "https://www.youtube.com/watch?v=_BXUOI9JI3U",
+  "title": "🚨 충격의 KIA 타이거즈, 김호령과 결별하고 LG 핵심 외야수 영입 추진?! 플랜 B 가동으로 뒤집힐 2027시즌 전력 판도!",
+  "published_at": "2026-11-17T05:00:05Z",
+  "collected_at": "2026-11-17T07:38:14.793Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 2245,
+    "likes": 57,
+    "comments": 3
+  },
+  "scores": {
+    "hot": 62,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

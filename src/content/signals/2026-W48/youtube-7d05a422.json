@@ -1,0 +1,27 @@
+{
+  "id": "youtube-7d05a422",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "야구저장소",
+  "url": "https://www.youtube.com/watch?v=6w_soccuAl4",
+  "title": "9회말 2아웃 만루, 황재균의 타구가 경기를 뒤집었다 #야구 #KBO #KT위즈 #LG트윈스 #황재균 #끝내기 #야구쇼츠",
+  "published_at": "2026-11-17T05:40:05Z",
+  "collected_at": "2026-11-17T07:38:14.793Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 225,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 29,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "news-761cadda",
+  "issue": "2026-W48",
+  "module": "rivalry",
+  "team": "doosan",
+  "teams": [
+    "doosan",
+    "ssg"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠월드",
+  "url": "https://www.sportsworldi.com/newsView/20261117508034",
+  "title": "FA 시장 첫날은 ‘집토끼’부터… 두산은 안방, SSG는 살림꾼 지켰다",
+  "published_at": "2026-11-17T02:41:32.000Z",
+  "collected_at": "2026-11-17T07:38:14.793Z",
+  "summary_ko": "스포츠월드는 FA 시장 첫날 두산은 안방마님 양의지를, SSG는 살림꾼 오태곤을 지키며 집토끼부터 잡았다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "FA 첫날, 안방마님 양의지 지켰다"
+}
