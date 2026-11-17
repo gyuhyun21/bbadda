@@ -66,12 +66,12 @@ const faNav = stoveOn && !!loadStove()?.players.length;
   {/* 넓은 PC 화면(1360px 이상)에서만 왼쪽에 고정. 지금 보는 섹션이 강조된다 */}
   <ul>
     {faNav && !psLive && <li><a href="#h-fa" data-spy="h-fa">FA 행선지</a></li>}
-    <li><a href="#h-postseason" data-spy="h-postseason">가을야구 대진</a></li>
+    {ps && <li><a href="#h-postseason" data-spy="h-postseason">가을야구 대진</a></li>}
     {faNav && psLive && <li><a href="#h-fa" data-spy="h-fa">FA 행선지</a></li>}
     <li><a href="#h-headline" data-spy="h-headline">헤드라인</a></li>
     <li data-side-myteam hidden><a href="#" data-spy="myteam">MY팀</a></li>
     <li><a href="#h-team-rail" data-spy="h-team-rail">구단별 소식</a></li>
-    <li><a href="#h-season" data-spy="h-season">{seasonTitle()}</a></li>
+    <li><a href="#h-season" data-spy="h-season">{seasonTitle(undefined, psLive)}</a></li>
     <li><a href="#h-official-videos" data-spy="h-official-videos">오피셜 영상</a></li>
     <li><a href="#h-fans-front" data-spy="h-fans-front">팬 반응</a></li>
     <li><a href="#h-community" data-spy="h-community">Community</a></li>
@@ -82,7 +82,7 @@ const faNav = stoveOn && !!loadStove()?.players.length;
   {/* 폭 1360px 미만(모바일·태블릿): 머리말 아래에 붙어 다니는 섹션 칩 줄. 내리면 숨고 올리면 나온다. 지금 보는 섹션이 강조된다 */}
   <ul>
     {faNav && !psLive && <li><a href="#h-fa" data-spy="h-fa">FA 행선지</a></li>}
-    <li><a href="#h-postseason" data-spy="h-postseason">가을야구</a></li>
+    {ps && <li><a href="#h-postseason" data-spy="h-postseason">가을야구</a></li>}
     {faNav && psLive && <li><a href="#h-fa" data-spy="h-fa">FA 행선지</a></li>}
     <li><a href="#h-headline" data-spy="h-headline">헤드라인</a></li>
     <li><a href="#h-team-rail" data-spy="h-team-rail">구단별</a></li>
@@ -195,7 +195,7 @@ const faNav = stoveOn && !!loadStove()?.players.length;
 
 {league.length > 0 && (
   <section class="block front-league" aria-labelledby="h-season">
-    <SectionHead id="h-season" title={seasonTitle()} eyebrow="LEAGUE"><span class="small">리그 전체·라이벌·순위 경쟁</span></SectionHead>
+    <SectionHead id="h-season" title={seasonTitle(undefined, psLive)} eyebrow="LEAGUE"><span class="small">리그 전체·라이벌·순위 경쟁</span></SectionHead>
     <div class="grid">{league.slice(0, 8).map((s) => <SignalCard signal={s} />)}</div>
     <SignalList signals={league.slice(8, 20)} />
   </section>
