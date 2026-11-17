@@ -1,0 +1,23 @@
+{
+  "id": "community-b85ea13e",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 밥먹고 야구만 보는 밥야구",
+  "url": "https://blog.naver.com/babbaseball/224479771924",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/2GY9L6YPwKU",
+  "title": "“감독에서 수석으로” 롯데 허문회, 5년 만에 돌아와 이동욱호에서 뭘 맡나?",
+  "published_at": "2026-11-17T15:30:00.000+09:00",
+  "collected_at": "2026-11-17T07:38:14.793Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

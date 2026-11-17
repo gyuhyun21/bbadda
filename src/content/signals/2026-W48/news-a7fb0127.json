@@ -1,0 +1,23 @@
+{
+  "id": "news-a7fb0127",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠경향",
+  "url": "https://sports.khan.co.kr/article/202611171404003/amp",
+  "title": "외야 보강 절실한 NC, 올겨울 FA 시장은 다를까",
+  "published_at": "2026-11-17T05:04:00.000Z",
+  "collected_at": "2026-11-17T07:38:14.793Z",
+  "summary_ko": "스포츠경향은 외야 보강이 절실한 NC가 이번 겨울 FA 시장에서는 다를지 짚었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "외야 보강, 이번 겨울은 다를까"
+}

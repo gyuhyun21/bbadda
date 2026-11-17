@@ -1,0 +1,23 @@
+{
+  "id": "news-b05ee3f2",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠동아",
+  "url": "https://sports.donga.com/sports/article/all/20261117/135038297/1",
+  "title": "“나도 알려줘” 롯데 황성빈, 요미우리 주전 외야수와 밀도 높았던 나흘간의 동행 [SD 비하인드 베이스볼]",
+  "published_at": "2026-11-17T02:36:34.000Z",
+  "collected_at": "2026-11-17T07:38:14.793Z",
+  "summary_ko": "스포츠동아는 롯데 황성빈이 요미우리 주전 외야수와 나흘간 함께 훈련하며 배움을 나눴다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "황성빈, 요미우리 주전과 나흘"
+}

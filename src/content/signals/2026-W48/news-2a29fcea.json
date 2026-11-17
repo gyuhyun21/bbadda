@@ -1,0 +1,23 @@
+{
+  "id": "news-2a29fcea",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "www.xportsnews.com",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9pa1FsbjFwSkJuWFYtMk0tcGU1NUNYdDFtRjR4U1NkNHRUMlo5b2tVWW8wTFBqdG1DMGVtZzdEOGFQdTVtTVNMZlphTVpKQ3FFMGRodg?oc=5",
+  "title": "\"비웃을 수도 있지만\" 10R 투수 반등 선언, '70G-70이닝' 정조준…\"똑같은 실수 반복하면 안 되니까\" [가고시마 인터뷰]",
+  "published_at": "2026-11-16T23:05:27.000Z",
+  "collected_at": "2026-11-17T07:38:14.793Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-382bee34",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "조선일보",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMEZOLTM0WGVMSTVfSmRoM0x5NndDaGhVN19BTTdTNVI3WllvVHlUNFJFY2luTFZKZjZ3ME90cjNGYUs3Wm5STHR3SVRWRlczNnJDSlNTdHA4NWllQS1NM3Zzb2R5eVZiMU9CSlA1VlJhazFTWHZSbHlfOFZ4elBpSlp1WQ?oc=5",
+  "title": "'보도자료는 양의지 1등, 계약서는 오태곤 1등' 대체 누가 FA 1호 계약인가요?",
+  "published_at": "2026-11-17T02:33:00.000Z",
+  "collected_at": "2026-11-17T07:38:14.793Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

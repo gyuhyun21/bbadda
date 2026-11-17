@@ -1,0 +1,24 @@
+{
+  "id": "community-de381a0a",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/10564519800",
+  "title": "지금 최대어가 참치인가 그럼? - 야구",
+  "published_at": "2026-11-17T00:38:14.793Z",
+  "collected_at": "2026-11-17T07:38:14.793Z",
+  "summary_ko": "",
+  "excerpt": "... SSG랜더스는 17일(화) 오태곤과 계약기간 3년, 총액 11억원(계약금 2억원, 연봉 7.4억원, 옵션 1.6억원)에 FA 계약을…",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

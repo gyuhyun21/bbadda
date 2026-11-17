@@ -1,0 +1,24 @@
+{
+  "id": "news-c48e4342",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "announcement": true,
+  "source_name": "조선일보",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTVhYeTlXbURvT1V1Q1hfMW9VeHM3a2YtUERIR0JHTDdYOVdudkY3SHJrMFhfSl9vX0xLeVlHMTNnUkkwMTBpWWkyZEJYSkR2azROTnEwU0hfdWlEWWQ5UFg4SHBJTUpVb1RKZGpmZmZWSFhyZE01eUw3ZXNHTVVGYWRqaw?oc=5",
+  "title": "[오피셜]'벌써 FA 1호 계약 터졌다!' 9시의 남자 전격 잔류, 3년 11억원 도장 찍었다",
+  "published_at": "2026-11-17T01:37:00.000Z",
+  "collected_at": "2026-11-17T07:38:14.793Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

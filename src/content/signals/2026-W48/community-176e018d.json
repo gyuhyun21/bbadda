@@ -1,0 +1,23 @@
+{
+  "id": "community-176e018d",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 레츠고 라이프",
+  "url": "https://blog.naver.com/letsgolife/224480262649",
+  "title": "KBO FA 승인 22명, 계약 아닌 11월 17일 협상 시작",
+  "published_at": "2026-11-17T11:01:00.000+09:00",
+  "collected_at": "2026-11-17T07:38:14.793Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "community-a4e72f4e",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 S.V.E 스튜디오",
+  "url": "https://blog.naver.com/knightjisu/224480594129",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/1pY1rS247k9",
+  "title": "[데일리 톡톡] 류현진 vs 이정후, 12월 6일 고척돔서 '감독'으로 맞붙는다",
+  "published_at": "2026-11-17T15:30:00.000+09:00",
+  "collected_at": "2026-11-17T07:38:14.793Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

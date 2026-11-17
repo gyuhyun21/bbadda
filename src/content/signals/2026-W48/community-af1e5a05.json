@@ -1,0 +1,23 @@
+{
+  "id": "community-af1e5a05",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 스포츠 헌터의 핫이슈 브리핑",
+  "url": "https://blog.naver.com/tongtii/224480587475",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/JoB6yChqL3C",
+  "title": "⚾ 아쉬움은 뒤로! KT 위즈, 2026 팬 페스티벌로 뜨거운 시즌 피날레!",
+  "published_at": "2026-11-17T14:58:00.000+09:00",
+  "collected_at": "2026-11-17T07:38:14.793Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

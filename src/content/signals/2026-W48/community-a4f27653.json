@@ -1,0 +1,24 @@
+{
+  "id": "community-a4f27653",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 내공간.",
+  "url": "https://blog.naver.com/aztown/224480651101",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/KBZwuokH3Rj",
+  "title": "[공유] 자랑합니다🚀<엄마, 야구장 가자!> 후원 소식!",
+  "published_at": "2026-11-17T15:41:00.000+09:00",
+  "collected_at": "2026-11-17T07:38:14.793Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

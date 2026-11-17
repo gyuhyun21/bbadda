@@ -1,0 +1,27 @@
+{
+  "id": "youtube-9513ffcf",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "스포츠조선",
+  "url": "https://www.youtube.com/watch?v=ISULqDE-Hpo",
+  "title": "에버랜드에서 팬들과 함께하는 삼성 우승 축하 퍼레이드 #삼성라이온즈 #구자욱",
+  "published_at": "2026-11-17T06:48:09Z",
+  "collected_at": "2026-11-17T07:38:14.793Z",
+  "summary_ko": "스포츠조선 채널이 에버랜드에서 팬들과 함께한 삼성 우승 축하 퍼레이드 영상을 올렸다.",
+  "metrics": {
+    "views": 1774,
+    "likes": 80,
+    "comments": 7
+  },
+  "scores": {
+    "hot": 79,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "brief_ko": "에버랜드 우승 퍼레이드"
+}

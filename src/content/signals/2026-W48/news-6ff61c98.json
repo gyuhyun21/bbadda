@@ -1,0 +1,23 @@
+{
+  "id": "news-6ff61c98",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "MHN스포츠",
+  "url": "https://mhnse.com/news/articleView.html?idxno=1700064",
+  "title": "LG 김민식 영입, 박동원 거취와 상관 없다는 증거 발견…”작년부터 트레이드 추진 했었다”",
+  "published_at": "2026-11-17T00:44:53.000Z",
+  "collected_at": "2026-11-17T07:38:14.793Z",
+  "summary_ko": "MHN스포츠는 LG의 김민식 영입이 박동원 거취와 상관없고 작년부터 트레이드를 추진했던 것이라고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "김민식 영입, 박동원과 무관?"
+}

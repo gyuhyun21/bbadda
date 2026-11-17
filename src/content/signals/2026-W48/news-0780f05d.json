@@ -1,0 +1,23 @@
+{
+  "id": "news-0780f05d",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "뉴시스",
+  "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9zaUx1SDRoN29EZHQyTWhGWUxPeWI1WjZwV25KeUVCdmV5LUtkelZ0aFNSODlSemp0UnJaRjM5TFZCOEFNNUU4a3NfWEJzQ3dIb3l4dHd1UHlleU5meklTSFo0X0xOZXRaN21iUmFhWE9MVjRjZmpfUNIBeEFVX3lxTE9zaUx1SDRoN29EZHQyTWhGWUxPeWI1WjZwV25KeUVCdmV5LUtkelZ0aFNSODlSemp0UnJaRjM5TFZCOEFNNUU4a3NfWEJzQ3dIb3l4dHd1UHlleU5meklTSFo0X0xOZXRaN21iUmFhWE9MVjRjZmpfUA?oc=5",
+  "title": "국비 299억 확보한 사직야구장…시의회 \"재건축 일정 제시하라\"",
+  "published_at": "2026-11-17T02:02:25.000Z",
+  "collected_at": "2026-11-17T07:38:14.793Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

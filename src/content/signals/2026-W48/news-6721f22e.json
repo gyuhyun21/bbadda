@@ -1,0 +1,28 @@
+{
+  "id": "news-6721f22e",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "news",
+  "source_name": "TSN KOREA",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBxdHlISHlxck4wOUN6dk90S2c0eEVBSTVGc203VkVVdjZiLWJtR2RFZmdkMUl2WHFBYjU5NUEyaHV3Yy1kekJaU1JYNVkxWF9Sc01wc1MwRVhMblVPSHRGbg?oc=5",
+  "title": "오태곤, SSG와 3년 11억원 FA 재계약…2029년까지 랜더스맨으로 뛴다",
+  "published_at": "2026-11-17T01:17:27.000Z",
+  "collected_at": "2026-11-17T07:38:14.793Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "m.maniareport.com",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBiSzBGaV9tZ1Y5TFlTeHNKLTh0M0h4c3Y3UUhjcktUelBfaEpoODZCbzFQU1lkR0FtTW1lSm5reWRCMlN4VHRpaTYxV1RocjU0cmFGdjdOdGlrd1lDVWZpckJTblNZdkdfeFpKQjRLNUVjbEVTbnJWR3lPRQ?oc=5"
+    }
+  ]
+}

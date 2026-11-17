@@ -1,0 +1,23 @@
+{
+  "id": "news-b96d4ef0",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "news",
+  "source_name": "조선일보",
+  "url": "https://www.chosun.com/sports/baseball/2026/11/17/GRRDQYZVMI3GKY3DMY4WIYTEHA/",
+  "title": "\"이어질 FA 시장에서도 최선\" 두산의 의례적, 의미심장 메시지...타깃은 구자욱인가",
+  "published_at": "2026-11-17T03:39:00.000Z",
+  "collected_at": "2026-11-17T07:38:14.793Z",
+  "summary_ko": "조선일보는 이어질 FA 시장에서도 최선을 다하겠다는 두산의 메시지를 두고 타깃이 구자욱인지 짚었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 80
+  },
+  "sentiment": "neutral",
+  "brief_ko": "다음 타깃은 구자욱?"
+}

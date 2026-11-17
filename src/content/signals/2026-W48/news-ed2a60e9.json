@@ -1,0 +1,22 @@
+{
+  "id": "news-ed2a60e9",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "news",
+  "source_name": "파이낸셜뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBWSUVwcG9kM1dUN3lseTBPRWFxT0xkdmpZdzdwT1R5bDU3Nkplai1CNkNYWGswUER5dm1ra3ZJeldJMWZSSWVkUmxKa0dWR0w2M1FncWEyMnp4QQ?oc=5",
+  "title": "\"대체 랜더스에 무슨 일이?\" 선발 4명 중 3명이 SSG… 국대 마운드 장악한 영건들",
+  "published_at": "2026-11-17T00:00:00.000Z",
+  "collected_at": "2026-11-17T07:38:14.793Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "community-fa5be8f2",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 쇼핑가자",
+  "url": "https://blog.naver.com/kim2429_/224480559791",
+  "title": "삼성 샐러리캡 부족으로 외국인 재계약 비상",
+  "published_at": "2026-11-17T14:39:00.000+09:00",
+  "collected_at": "2026-11-17T07:38:14.793Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

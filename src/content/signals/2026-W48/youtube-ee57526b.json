@@ -1,0 +1,26 @@
+{
+  "id": "youtube-ee57526b",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "맛있스포츠 Deliciousports",
+  "url": "https://www.youtube.com/watch?v=QATPOQ1ib9k",
+  "title": "\"삼성 우승 공약\" 에버랜드 데이트 근황 ㅋㅋㅋ",
+  "published_at": "2026-11-17T07:26:05Z",
+  "collected_at": "2026-11-17T07:38:14.793Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 4150,
+    "likes": 77,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 59,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

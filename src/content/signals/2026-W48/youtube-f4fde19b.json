@@ -1,0 +1,26 @@
+{
+  "id": "youtube-f4fde19b",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "youtube",
+  "source_name": "루테라 이글스 칼럼",
+  "url": "https://www.youtube.com/watch?v=A5jer2kuTdw",
+  "title": "이글스 육성 맞춤형 캠프 연습 경기 롯데전  류지현 감독 비공식 첫 승 #한화이글스",
+  "published_at": "2026-11-17T07:00:12Z",
+  "collected_at": "2026-11-17T07:38:14.793Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 93,
+    "likes": 18,
+    "comments": 3
+  },
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

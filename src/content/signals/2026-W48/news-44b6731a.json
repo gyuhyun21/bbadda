@@ -1,0 +1,23 @@
+{
+  "id": "news-44b6731a",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "SPOTV NEWS",
+  "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1020293",
+  "title": "LG 유망주들 일본에서 17일간 뭘 배웠나 \"수비 자신감 붙었다, 내년 업그레이드 기대해\"",
+  "published_at": "2026-11-17T05:18:21.000Z",
+  "collected_at": "2026-11-17T07:38:14.793Z",
+  "summary_ko": "SPOTV NEWS는 일본에서 17일간 훈련한 LG 유망주들이 수비 자신감이 붙었다며 내년 성장을 다짐했다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "日 17일 캠프, 수비 자신감"
+}

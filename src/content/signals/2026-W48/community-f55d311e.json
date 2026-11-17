@@ -1,0 +1,24 @@
+{
+  "id": "community-f55d311e",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/10565520665",
+  "title": "KBO 현역 프랜차이즈 타자/투수 - 야구",
+  "published_at": "2026-11-17T07:08:14.793Z",
+  "collected_at": "2026-11-17T07:38:14.793Z",
+  "summary_ko": "",
+  "excerpt": "... ... SSG 랜더스최정(91.51)/김광현(62.88)롯데 자이언츠전준우(33.93)/김원중(11.30)NC 다이노스박민우(53.92)/구창모(22.36)한...",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

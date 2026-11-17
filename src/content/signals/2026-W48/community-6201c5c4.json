@@ -1,0 +1,29 @@
+{
+  "id": "community-6201c5c4",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 이기자의 스포츠 리뷰",
+  "url": "https://blog.naver.com/spo_tv/224480436482",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/AMAtN2lGhno",
+  "title": "오태곤 SSG 3년 11억 재계약, 추신수 연봉 10억 양보 사연까지",
+  "published_at": "2026-11-17T13:09:00.000+09:00",
+  "collected_at": "2026-11-17T07:38:14.793Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "파이낸셜뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1zU2gtTXlpU3N2M0U0SkdzdUdHZlhCTE1kTUlsTGxtczVLYVVjNzVlRHBfTWRsUm9FWjE2cG5WLWZXTlR4SDY0azV4VzF6UDVFNEhjTU4zT2U0UQ?oc=5"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "community-c0352427",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 집무드 공식블로그",
+  "url": "https://blog.naver.com/zipmood/224480454720",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/DFlD82LchXe",
+  "title": "수원 야구장 근처 24시간 맛집 가마솥에 끓이는 예전각설렁탕 본점",
+  "published_at": "2026-11-17T13:24:00.000+09:00",
+  "collected_at": "2026-11-17T07:38:14.793Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

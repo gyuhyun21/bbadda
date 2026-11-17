@@ -1,0 +1,23 @@
+{
+  "id": "news-a95dba4f",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBjR2doVnlLS0wyQ3lEcXM4U05KTUMzak9PUkdzekcxeU9TaTIwTHJydV9XV1NqMm5qZTdJT1hCSVdCdjYzbGNJQ1hsX2xEMTVLVlItVmVfMnZ0akJNcFhPR0ZmdmJfVzY4VVdXT201a3M3M2ZwSTFSY3hYVHFoQQ?oc=5",
+  "title": "'우승 도울 유망주' 이영빈 손용준 이주헌 주니치 캠프 마치고 귀국. \"강도높은 훈련, 수비 자신감 생겼다\"",
+  "published_at": "2026-11-17T05:11:39.000Z",
+  "collected_at": "2026-11-17T07:38:14.793Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

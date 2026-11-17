@@ -1,0 +1,27 @@
+{
+  "id": "youtube-380bd2b4",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "MNN NEWS",
+  "url": "https://www.youtube.com/watch?v=1gNc3kX9Qy4",
+  "title": "양의지vs오태곤, 비디오 판독 결과 FA 1호 계약은 누구? /MNN Shorts",
+  "published_at": "2026-11-17T05:32:37Z",
+  "collected_at": "2026-11-17T07:38:14.793Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 683,
+    "likes": 3,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 39,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

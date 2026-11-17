@@ -224,6 +224,131 @@
           "community": 134
         }
       }
+    },
+    {
+      "week": "2026-W48",
+      "collected_at": "2026-11-17T07:38:14.793Z",
+      "sources": {
+        "news_rss": {
+          "total": 194,
+          "feeds": 18
+        },
+        "youtube": {
+          "total": 107,
+          "units": 1020,
+          "searches": 10,
+          "filtered_by_title": 13
+        },
+        "kakao": {
+          "total": 408,
+          "requests": 20,
+          "filtered_ads": 38
+        },
+        "instagram": {
+          "total": 72
+        },
+        "vertex": {
+          "total": 357,
+          "requests": 50,
+          "dropped_undated": 0,
+          "dropped_suspect_date": 52
+        }
+      },
+      "failures": [
+        {
+          "source": "news_rss",
+          "error": {
+            "feed": "gnews-team-hanwha",
+            "error": "HTTP 429: <html><head><meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\"/><title>Sorry...</title><style> body { font-family: verdana, arial, sans-serif; background-color: #fff; color: #000; }</s"
+          }
+        },
+        {
+          "source": "news_rss",
+          "error": {
+            "feed": "gnews-team-samsung",
+            "error": "HTTP 429: <html><head><meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\"/><title>Sorry...</title><style> body { font-family: verdana, arial, sans-serif; background-color: #fff; color: #000; }</s"
+          }
+        },
+        {
+          "source": "news_rss",
+          "error": {
+            "feed": "gnews-team-kt",
+            "error": "HTTP 429: <html><head><meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\"/><title>Sorry...</title><style> body { font-family: verdana, arial, sans-serif; background-color: #fff; color: #000; }</s"
+          }
+        },
+        {
+          "source": "news_rss",
+          "error": {
+            "feed": "gnews-team-kia",
+            "error": "HTTP 429: <html><head><meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\"/><title>Sorry...</title><style> body { font-family: verdana, arial, sans-serif; background-color: #fff; color: #000; }</s"
+          }
+        },
+        {
+          "source": "news_rss",
+          "error": {
+            "feed": "gnews-team-doosan",
+            "error": "HTTP 429: <html><head><meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\"/><title>Sorry...</title><style> body { font-family: verdana, arial, sans-serif; background-color: #fff; color: #000; }</s"
+          }
+        },
+        {
+          "source": "news_rss",
+          "error": {
+            "feed": "gnews-league-KBO 리그",
+            "error": "HTTP 429: <html><head><meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\"/><title>Sorry...</title><style> body { font-family: verdana, arial, sans-serif; background-color: #fff; color: #000; }</s"
+          }
+        },
+        {
+          "source": "news_rss",
+          "error": {
+            "feed": "gnews-league-KBO 포스트시즌",
+            "error": "HTTP 429: <html><head><meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\"/><title>Sorry...</title><style> body { font-family: verdana, arial, sans-serif; background-color: #fff; color: #000; }</s"
+          }
+        },
+        {
+          "source": "news_rss",
+          "error": {
+            "feed": "gnews-league-프로야구 중계",
+            "error": "HTTP 429: <html><head><meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\"/><title>Sorry...</title><style> body { font-family: verdana, arial, sans-serif; background-color: #fff; color: #000; }</s"
+          }
+        }
+      ],
+      "skipped": [],
+      "out_of_window": 401,
+      "dropped_no_team": 144,
+      "team_inferred": 158,
+      "dedupe": {
+        "dropped_existing": 169,
+        "merged_in_batch": 45
+      },
+      "dropped_cap": 136,
+      "new_signals": {
+        "total": 243,
+        "by_module": {
+          "team": 41,
+          "fans": 187,
+          "rivalry": 6,
+          "league": 9
+        },
+        "by_team": {
+          "ssg": 40,
+          "samsung": 30,
+          "doosan": 25,
+          "kt": 17,
+          "lotte": 28,
+          "lg": 30,
+          "hanwha": 17,
+          "kia": 23,
+          "nc": 10,
+          "kiwoom": 14,
+          "-": 9
+        },
+        "by_source": {
+          "news": 54,
+          "youtube": 58,
+          "community": 130,
+          "instagram": 1
+        }
+      }
     }
   ]
 }

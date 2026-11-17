@@ -1,0 +1,26 @@
+{
+  "id": "youtube-ef6a4a74",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "youtube",
+  "source_name": "야구자판기",
+  "url": "https://www.youtube.com/watch?v=jNNIGI9pV0M",
+  "title": "42억이 55억으로 변하는 마술 | 양의지 FA 첫날 두산 2년 55억 잔류",
+  "published_at": "2026-11-17T07:16:44Z",
+  "collected_at": "2026-11-17T07:38:14.793Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 286,
+    "likes": 3,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 38,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

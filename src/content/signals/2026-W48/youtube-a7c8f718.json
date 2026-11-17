@@ -1,0 +1,26 @@
+{
+  "id": "youtube-a7c8f718",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "youtube",
+  "source_name": "NEWBAN",
+  "url": "https://www.youtube.com/watch?v=q89Q6MqiK30",
+  "title": "55억 대박 터진 양의지의 선택 #양의지 #두산베어스 #프로야구",
+  "published_at": "2026-11-17T06:25:03Z",
+  "collected_at": "2026-11-17T07:38:14.793Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 336,
+    "likes": 2,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 36,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}
