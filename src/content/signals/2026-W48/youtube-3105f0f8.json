@@ -1,0 +1,26 @@
+{
+  "id": "youtube-3105f0f8",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "youtube",
+  "source_name": "연합뉴스TV",
+  "url": "https://www.youtube.com/watch?v=oILGJ8LOWgQ",
+  "title": "FA 최지훈 67억에 잔류…SSG 전력누수 방어 / 연합뉴스TV (YonhapnewsTV)",
+  "published_at": "2026-11-18T14:25:14Z",
+  "collected_at": "2026-11-18T21:38:02.577Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1708,
+    "likes": 7,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 47,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

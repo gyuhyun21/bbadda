@@ -1,0 +1,26 @@
+{
+  "id": "youtube-af9cdb01",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "source_name": "야구 한입",
+  "url": "https://www.youtube.com/watch?v=KMuLKYvI71Q",
+  "title": "연봉 3600만 원 포수, 한화 허인서가 수비상 받았다",
+  "published_at": "2026-11-18T18:00:07Z",
+  "collected_at": "2026-11-18T21:38:02.577Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1404,
+    "likes": 8,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 47,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

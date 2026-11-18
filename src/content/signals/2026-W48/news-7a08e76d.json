@@ -1,0 +1,23 @@
+{
+  "id": "news-7a08e76d",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "마이데일리",
+  "url": "https://mydaily.co.kr/page/view/2026111821492309408",
+  "title": "PO 1차전 치명적 송구 실책→벤치 전락, 삼성 이 선수 얼마나 답답했을까…2년 연속 수비상으로 아픔 씻었다",
+  "published_at": "2026-11-18T20:41:00.000Z",
+  "collected_at": "2026-11-18T21:38:02.577Z",
+  "summary_ko": "마이데일리는 PO 1차전 치명적 송구 실책 뒤 벤치로 밀렸던 삼성 선수가 2년 연속 수비상으로 아픔을 씻었다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "negative",
+  "brief_ko": "실책 아픔, 수비상으로 씻었다"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "community-669049d8",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 내야수다",
+  "url": "https://nayasuda.tistory.com/462",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/IZPJmLymmWg",
+  "title": "[세이버메트릭스] WAR(대체 선수 대비 승리 기여도) 계산 방식의 이해와 팩트체크 (타자 WAR vs 투수 WAR)",
+  "published_at": "2026-11-19T01:05:28.000+09:00",
+  "collected_at": "2026-11-18T21:38:02.577Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

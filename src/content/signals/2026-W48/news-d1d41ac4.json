@@ -1,0 +1,29 @@
+{
+  "id": "news-d1d41ac4",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "미주중앙일보",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5SOEhIZTFCWE8wbnIwRV9ZR2I2NlRxbm4zbXY0YnBiY3hNVGlCLTlzejNlNldQLVNtNkt6aG12b2daRXdwNk1zdXFTSjcweE9YbzE5LXNBMmIzbjFmbHJ4RDFB?oc=5",
+  "title": "공포의 펑고 1000개·타임어택 데이·작은 글러브…마무리캠프에 곡소리 나는 이유",
+  "published_at": "2026-11-18T20:00:00.000Z",
+  "collected_at": "2026-11-18T21:38:02.577Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "중앙일보",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1iOE8zRXlrYkpYNjhfU0FGWDJGS1UxdkVqZmZaU3lkV1VKenlIdnJKaVNqWVRsUnlhbE5ocHlCcVVSRWJ1NGR3UHZsdnAxbThnbUZfWnN3?oc=5"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "community-4ee6ee92",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&page=3&document_srl=10568500196",
+  "title": "박승규는 친화력도 장난 아닌거 같음 - 야구",
+  "published_at": "2026-11-18T00:38:02.577Z",
+  "collected_at": "2026-11-18T21:38:02.577Z",
+  "summary_ko": "",
+  "excerpt": "... 11.18 자유 에스에스지랜더스 조회6647 추천30. 쓱갤펌인데 하인즈 ... 단독] SSG, 에레디아와 결별…'트리플A 24홈런·21도루' 리스…",
+  "metrics": {},
+  "scores": {
+    "hot": 61,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

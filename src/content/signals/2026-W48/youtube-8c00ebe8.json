@@ -1,0 +1,27 @@
+{
+  "id": "youtube-8c00ebe8",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "럭키7 역전야구",
+  "url": "https://www.youtube.com/watch?v=oSmaVrl7JMs",
+  "title": "90억 vs 16억, 2015년 트레이드의 진짜 승자는? #shorts",
+  "published_at": "2026-11-18T21:00:26Z",
+  "collected_at": "2026-11-18T21:38:02.577Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 275,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 33,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

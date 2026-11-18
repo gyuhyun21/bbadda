@@ -1,0 +1,27 @@
+{
+  "id": "youtube-ea57936e",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "알려준데이",
+  "url": "https://www.youtube.com/watch?v=foUA1NGYM4M",
+  "title": "김도영 껌 하나로 심판 부른 강민호, 홈런 뒤 생긴 일",
+  "published_at": "2026-11-18T15:03:31Z",
+  "collected_at": "2026-11-18T21:38:02.577Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1680,
+    "likes": 9,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 48,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

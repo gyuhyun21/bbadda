@@ -1,0 +1,24 @@
+{
+  "id": "news-60cb2687",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠동아",
+  "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5pOEtTS0pRWEFwSG5sY0NiRFNhODRYQWNkX3l6UjdqdnZ6ODdLZjlteF9OVzA4ZUc3SjVmX1RSU3NScGYzMmNsTkpQdHY1alB0WTBydmk3azZGLWtBMTJEZlFmZXFBcUFjLXJsUkgyaVFOdw?oc=5",
+  "title": "이호준 감독 눈도장 찍어라…오키나와 캠프 흔드는 한재환·고준휘",
+  "published_at": "2026-11-18T15:01:00.000Z",
+  "collected_at": "2026-11-18T21:38:02.577Z",
+  "summary_ko": "스포츠동아는 NC 한재환·고준휘가 이호준 감독의 눈도장을 받으려 캠프를 흔들고 있다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "한재환·고준휘, 눈도장 경쟁"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "community-b9519cb0",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&page=3&document_srl=10571441986",
+  "title": "오늘 수능 본 수험생들을 위한 특별 이벤트 진행 - 야구",
+  "published_at": "2026-11-18T15:38:02.577Z",
+  "collected_at": "2026-11-18T21:38:02.577Z",
+  "summary_ko": "",
+  "excerpt": "... 07 송하영 한화이글스 오재원과 동갑 [6]. 7 분 전 자유 MIR 조회62 추천3. 07…",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

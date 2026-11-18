@@ -1,0 +1,23 @@
+{
+  "id": "news-3dd56d25",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "마이데일리",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1UdlNPb0xVdW81MVR4V3p0WWdzVmVTWFk0d3BOa296bVJqbW9YbmxIUkZxUjZVY2czeTRaTVRCQWE5SmpxUUdWUGNyR2duN3BVSW5KaWViMXFGbkZSeHVjZg?oc=5",
+  "title": "김도영 35.03점은 3년간 흘린 피와 땀과 눈물…실책왕에서 압도적 수비왕이 되기까지, 정상 찍고 하산",
+  "published_at": "2026-11-18T19:00:00.000Z",
+  "collected_at": "2026-11-18T21:38:02.577Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-33d40feb",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠경향",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAtYjRGUERXVW9SOUdjcC16dUstVFFVcXp0N1NfczNXQTh3WlV5Z2VQWXJTYjBpdzNLT0ZUZmVPcWd2Slp2bVFwNmw5LU9FenNjUS00MjVlQW91S2dfOFZnUkFXb9IBY0FVX3lxTFAtYjRGUERXVW9SOUdjcC16dUstVFFVcXp0N1NfczNXQTh3WlV5Z2VQWXJTYjBpdzNLT0ZUZmVPcWd2Slp2bVFwNmw5LU9FenNjUS00MjVlQW91S2dfOFZnUkFXbw?oc=5",
+  "title": "선발이든, 아니든…정우주 숙제는 ‘구종 개발’",
+  "published_at": "2026-11-18T20:00:00.000Z",
+  "collected_at": "2026-11-18T21:38:02.577Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

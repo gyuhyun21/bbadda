@@ -1,0 +1,23 @@
+{
+  "id": "news-d01045ad",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "한스경제",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9sOTR4eGpvVm1pS0xHcG1DSnZzZkhVUUdaMDREUkNEZDN1LXBocWFHQ2ZqSXQ5OEtLY2J4NUtNZkthcVhBVWQ4dGtxd05LaEpxWjR0V3hzNkVZalQ0VXFOWUVia2MyS2RUV1ludmpmZ9IBb0FVX3lxTE9sOTR4eGpvVm1pS0xHcG1DSnZzZkhVUUdaMDREUkNEZDN1LXBocWFHQ2ZqSXQ5OEtLY2J4NUtNZkthcVhBVWQ4dGtxd05LaEpxWjR0V3hzNkVZalQ0VXFOWUVia2MyS2RUV1ludmpmZw?oc=5",
+  "title": "최대어 양의지 잔류, 남은 포수 3명 행선지는 어디로",
+  "published_at": "2026-11-18T07:02:57.000Z",
+  "collected_at": "2026-11-18T21:38:02.577Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

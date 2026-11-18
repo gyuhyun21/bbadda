@@ -1,0 +1,23 @@
+{
+  "id": "news-9f598edd",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://www.mt.co.kr/amp/sports/2026/11/19/2026111818001435571",
+  "title": "김호령 C등급 미스터리, KIA 잘못 아닌 이유 \"구단이 조절할 수 없는 구조→변수 너무 많아\" [이슈 분석]",
+  "published_at": "2026-11-18T16:01:00.000Z",
+  "collected_at": "2026-11-18T21:38:02.577Z",
+  "summary_ko": "머니투데이는 김호령의 C등급은 구단이 조절할 수 없는 구조 때문이라며 KIA 잘못이 아니라고 분석했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 82,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "김호령 C등급, KIA 잘못 아냐"
+}

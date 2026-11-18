@@ -1,0 +1,23 @@
+{
+  "id": "news-aab087c6",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://www.sportschosun.com/baseball/2026-11-18/202611190100121400011254",
+  "title": "'구원→선발' 승리도, 부상도 모두 처음이었다…한화, '1R 성장기' 본격 시작됐다",
+  "published_at": "2026-11-18T21:24:24.000Z",
+  "collected_at": "2026-11-18T21:38:02.577Z",
+  "summary_ko": "스포츠조선은 구원에서 선발로 바꾼 한화 1라운드 투수의 성장기가 승리와 부상을 모두 처음 겪으며 본격 시작됐다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "mixed",
+  "brief_ko": "구원→선발, 1R 성장기"
+}

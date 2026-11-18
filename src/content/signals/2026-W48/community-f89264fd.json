@@ -1,0 +1,24 @@
+{
+  "id": "community-f89264fd",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "레딧 r/KBO",
+  "url": "https://www.reddit.com/r/KBO/comments/1xzpsci/kbo_hold_king_joins_softbank_hawks_despite_pay_cut/",
+  "title": "KBO Hold King Joins SoftBank Hawks Despite Pay Cut",
+  "published_at": "2026-11-18T20:38:02.577Z",
+  "collected_at": "2026-11-18T21:38:02.577Z",
+  "summary_ko": "",
+  "excerpt": "... KBO's Hanwha Eagles To Post Si Hwan Roh For MLB Teams · r/KBO -…",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}
