@@ -1,0 +1,27 @@
+{
+  "id": "youtube-d95c3766",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "기아타이거즈 KIA TIGERS",
+  "url": "https://www.youtube.com/watch?v=H_F7Gflyd_4",
+  "title": "투수 앞으로 타구가 왔을 때 [2026 마무리캠프]",
+  "published_at": "2026-11-18T09:15:38Z",
+  "collected_at": "2026-11-18T13:37:55.241Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 43288,
+    "likes": 905,
+    "comments": 67
+  },
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

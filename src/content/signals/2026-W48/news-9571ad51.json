@@ -1,0 +1,24 @@
+{
+  "id": "news-9571ad51",
+  "issue": "2026-W48",
+  "module": "rivalry",
+  "team": "lg",
+  "teams": [
+    "lg",
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "https://www.asportstv.kr/",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9tVEJUdWpWZUR1ZFB5dzRVOWhxMldOY29hajBHVjNtODhSVlRPNW92OE91Ulh2V1dFbFFzOU5fa3JwYUxvcVQ4U3dJZWhhN2dZZ2pPUmxTaHc2V1MwNU9vSTRqQWhqc3l1?oc=5",
+  "title": "'새 얼굴들 떴다' 곽빈·허인서 데뷔 첫 수비상… 포지션별 최고 철벽 10인",
+  "published_at": "2026-11-18T08:40:44.000Z",
+  "collected_at": "2026-11-18T13:37:55.241Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

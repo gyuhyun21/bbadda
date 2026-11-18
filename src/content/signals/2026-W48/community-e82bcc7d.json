@@ -1,0 +1,23 @@
+{
+  "id": "community-e82bcc7d",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 스포준님의 블로그",
+  "url": "https://blog.naver.com/tjd369369/224481110276",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/CPG2qUkgKo6",
+  "title": "[삼성 라이온즈] 에버랜드 퍼레이드 및 팬미팅 소식 총정리: 푸른 사자들과 함께하는 마법 같은 축제",
+  "published_at": "2026-11-17T22:46:00.000+09:00",
+  "collected_at": "2026-11-18T13:37:55.241Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 59,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

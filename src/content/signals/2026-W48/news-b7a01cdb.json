@@ -1,0 +1,22 @@
+{
+  "id": "news-b7a01cdb",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "스타뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9mU2pEXzNKZVdRdk9mVG5kQzlLejhhNzN3RHl1eTlNcWthU2ZYcXh6ekU2Ml9yR2tLeGw1OTNDTWhhRlloeFdPVno1NEJ1Y041d1ZEUDh2ZGJBRjQ?oc=5",
+  "title": "'삼성라이온즈V9데이, VAMOS(가자)에버랜드로' 삼팬들 평생 못잊을 추억 만든 강민호와 삼성",
+  "published_at": "2026-11-17T14:00:34.000Z",
+  "collected_at": "2026-11-18T13:37:55.241Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 60,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

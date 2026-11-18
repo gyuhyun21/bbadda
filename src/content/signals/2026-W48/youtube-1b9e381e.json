@@ -1,0 +1,26 @@
+{
+  "id": "youtube-1b9e381e",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "공쥬와 아조씌",
+  "url": "https://www.youtube.com/watch?v=BZCBqMPQbQk",
+  "title": "도영이형한테전화가왔다! #기아타이거즈 #추천추천추천추천추천추천추천추천추천추천 #야구",
+  "published_at": "2026-11-18T13:21:19Z",
+  "collected_at": "2026-11-18T13:37:55.241Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 156,
+    "likes": 4,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 48,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

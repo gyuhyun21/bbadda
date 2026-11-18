@@ -1,0 +1,27 @@
+{
+  "id": "youtube-07fe7066",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "스포픽",
+  "url": "https://www.youtube.com/watch?v=KrpwSheQ-hI",
+  "title": "90승 1위 팀이 맞이한 한국시리즈의 비극적 반전",
+  "published_at": "2026-11-18T10:00:02Z",
+  "collected_at": "2026-11-18T13:37:55.241Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 528,
+    "likes": 1,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 36,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

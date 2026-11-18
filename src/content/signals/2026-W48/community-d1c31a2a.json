@@ -1,0 +1,23 @@
+{
+  "id": "community-d1c31a2a",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 BBC 미디어센터",
+  "url": "https://blog.naver.com/sunhoo272/224481757853",
+  "title": "최재훈, 부상 악재 딛고 FA 시장서 반전 노린다",
+  "published_at": "2026-11-18T11:40:00.000+09:00",
+  "collected_at": "2026-11-18T13:37:55.241Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "youtube-6fe2cf02",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "꾹카즈",
+  "url": "https://www.youtube.com/watch?v=oAsC0Bog5iU",
+  "title": "광주 챔피언스필드 계단 공사중 에스컬레이트 설치 아니고 타일공사중 기아타이거즈",
+  "published_at": "2026-11-18T13:11:52Z",
+  "collected_at": "2026-11-18T13:37:55.241Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 110,
+    "likes": 5,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 62,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

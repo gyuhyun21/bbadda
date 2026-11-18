@@ -1,0 +1,24 @@
+{
+  "id": "community-c7b354d6",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&page=7&document_srl=10569774352",
+  "title": "초음파 검사때 안나온 골절이 지금 발견된거면 미세골절일듯함 - 야구",
+  "published_at": "2026-11-18T07:37:55.241Z",
+  "collected_at": "2026-11-18T13:37:55.241Z",
+  "summary_ko": "",
+  "excerpt": "... 김진성기자- KIA, 롯데 외의 팀들이 김호령 영입전에 가세할 가능성 ... 씨발타이거즈 꼬박꼬박 언플질은 해대는게…",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

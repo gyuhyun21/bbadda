@@ -1,0 +1,23 @@
+{
+  "id": "news-e5fee1d1",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "일간스포츠",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5zSDZhS3hIaktBbmx0aGhjai1welhPcE9JdTVzdTFVZjU3bm9hbGk1ZlgtaGR4ZEJmVzFxRDY1WVZtaWNhYS0tdkFaSjE4YXJkVkhFX2RzcEl4emh0cmZrYzhhTUZ0VFNi?oc=5",
+  "title": "김도영 잘한다 잘한다 하니 정말 잘하네…홈런왕이 수비상까지 품었다",
+  "published_at": "2026-11-18T08:54:00.000Z",
+  "collected_at": "2026-11-18T13:37:55.241Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

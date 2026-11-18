@@ -1,0 +1,27 @@
+{
+  "id": "youtube-febef84f",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan",
+    "ssg"
+  ],
+  "source_type": "youtube",
+  "source_name": "크보쌍둥이",
+  "url": "https://www.youtube.com/watch?v=65sDuKvBYvQ",
+  "title": "두산 SSG 홍창기 노린다? 무조건 우승하겠다는 의지?! 구자욱 실패시 전력보강 #두산베어스 #ssg랜더스 #홍창기 #엘지트윈스",
+  "published_at": "2026-11-18T09:18:19Z",
+  "collected_at": "2026-11-18T13:37:55.241Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 10557,
+    "likes": 77,
+    "comments": 58
+  },
+  "scores": {
+    "hot": 61,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

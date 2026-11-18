@@ -1,0 +1,27 @@
+{
+  "id": "youtube-fb01b5c5",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "팬심판",
+  "url": "https://www.youtube.com/watch?v=NJBt7pn7GIc",
+  "title": "45홈런으로 돌아온 김도영, 이번엔 일구대상 #shorts",
+  "published_at": "2026-11-18T11:00:58Z",
+  "collected_at": "2026-11-18T13:37:55.241Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1052,
+    "likes": 22,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 56,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

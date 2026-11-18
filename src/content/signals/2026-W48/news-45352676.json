@@ -1,0 +1,28 @@
+{
+  "id": "news-45352676",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9tWDl6RG9wWkZsRXZVbW5WSGFEdllJUnZvazZ5cHBsZ2VCekdpMjBrbTN0VE9IZElxZktXVTlQYVhpa0RHS2hhai0tUlRESm42dXFrMC1hNUZXR2J2d2ZSNjF3SXc2ek9ZbGRjVnBMWdIBb0FVX3lxTE9tWDl6RG9wWkZsRXZVbW5WSGFEdllJUnZvazZ5cHBsZ2VCekdpMjBrbTN0VE9IZElxZktXVTlQYVhpa0RHS2hhai0tUlRESm42dXFrMC1hNUZXR2J2d2ZSNjF3SXc2ek9ZbGRjVnBMWQ?oc=5",
+  "title": "마이너 100홈런 26살 거포, 한국행 위해 볼티모어에서 방출…SSG 합류할까 “충분히 임팩트 있는 타자”",
+  "published_at": "2026-11-18T10:40:00.000Z",
+  "collected_at": "2026-11-18T13:37:55.241Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 83,
+    "relevance": 70
+  },
+  "sentiment": "mixed",
+  "also_in": [
+    {
+      "source_name": "OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5TbDNKM2wtMGIwdUFtbU9xMGFpSEZMeFV0cHRBaHFJMk1lV1UwNm5LeGFkd1RNQ1M3UVNTaGhlS3lPYUpVLVdVQWxKYl9udjNLSEtUUA?oc=5"
+    }
+  ]
+}

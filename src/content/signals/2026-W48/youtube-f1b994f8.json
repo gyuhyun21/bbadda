@@ -1,0 +1,26 @@
+{
+  "id": "youtube-f1b994f8",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "youtube",
+  "source_name": "엘냠씨",
+  "url": "https://www.youtube.com/watch?v=Q2AeML2Me-Q",
+  "title": "좋아요 풀버전 공개 #엘지 #엘지트윈스 #LG #LG트윈스 #KBO #야구 #야구팬 #크보 #프로야구 #야구리뷰 #야구분석 #엘냠씨",
+  "published_at": "2026-11-18T13:01:02Z",
+  "collected_at": "2026-11-18T13:37:55.241Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 244,
+    "likes": 1,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 33,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

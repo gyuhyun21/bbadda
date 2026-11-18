@@ -1,0 +1,23 @@
+{
+  "id": "news-1f9678d4",
+  "issue": "2026-W48",
+  "module": "team",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "www.xportsnews.com",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE90akx0cnl4WUQwY3Z2N21BZHVndmI1ek0zX3NMZ1ZySlFMV3B2QTJvQ2pfTF9ock5nanp4eEdRQ1V5bDRYY2xfV1E0TnA0QnluNE15Yw?oc=5",
+  "title": "유재석 만나는 강민호, 쏟아지는 예능 섭외에 '결단'…\"3개 정도만 출연, 우승 기쁨 2개월은 더 갈 듯\" [용인 현장]",
+  "published_at": "2026-11-18T08:00:34.000Z",
+  "collected_at": "2026-11-18T13:37:55.241Z",
+  "summary_ko": "엑스포츠뉴스는 예능 섭외가 쏟아진 강민호가 3개 정도만 출연하기로 했다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 30
+  },
+  "sentiment": "positive",
+  "brief_ko": "예능 섭외 폭주, 3개만 출연",
+  "team": "samsung"
+}

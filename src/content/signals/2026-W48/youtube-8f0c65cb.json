@@ -1,0 +1,26 @@
+{
+  "id": "youtube-8f0c65cb",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "youtube",
+  "source_name": "오늘의 KBO",
+  "url": "https://www.youtube.com/watch?v=89Tj06z3PgE",
+  "title": "한동희 또 부상, 오른손 골절 6주 APBC 끝나고 롯데 팬들이 분노한 이유 #한동희 #롯데자이언츠 #kbo",
+  "published_at": "2026-11-18T10:27:40Z",
+  "collected_at": "2026-11-18T13:37:55.241Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 229,
+    "likes": 3,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 40,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}
