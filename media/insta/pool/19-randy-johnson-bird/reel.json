@@ -1,0 +1,45 @@
+{
+  "music": "bgm-morning",
+  "subStyle": "yt",
+  "outro": { "hold": 1.5, "fade": 0.5 },
+  "pool": { "no": 19, "series": "그날의 야구", "ep": 9, "facts": "센세 확인 2026-11-18(기사 2곳 이상, PR 본문 표)" },
+  "segments": [
+    {
+      "src": "clip1.mp4", "from": 0, "to": 14, "credit": "Wyatt Sexton", "yt": "Ih_ovjbwQGk",
+      "say": "a1.mp3", "text": "랜디 존슨이 던진 강속구가 홈플레이트 앞을 날던 비둘기를 정통으로 맞혔어.",
+      "kick": "그날의 야구 #9", "head": "강속구에<br><b>비둘기가 펑</b>", "sub": "랜디 존슨 공에 비둘기 맞음",
+      "note": "출처: Fox Sports·ESPN · 영상: Wyatt Sexton",
+      "flash": { "at": 1.8, "dur": 0.2 },
+      "fx": [{ "at": 1.8, "text": "펑!", "style": "sfx" }]
+    },
+    {
+      "src": "clip2.mp4", "from": 0, "to": 16, "credit": "MLB Vault", "yt": "mIPhYpMw3lA",
+      "say": "a2.mp3", "text": "이천일 년 삼월 이십사 일 애리조나 투손, 다이아몬드백스와 자이언츠의 시범경기 칠 회. 타석엔 캘빈 머리가 서 있었어.",
+      "kick": "2001.3.24 투손", "head": "시범경기<br><b>7회 투구</b>", "sub": "애리조나-샌프란시스코 시범경기",
+      "note": "출처: ESPN·Fox Sports · 영상: MLB Vault(다른 경기)",
+      "fx": [{ "at": 5.0, "text": "평범한 공", "style": "mind" }]
+    },
+    {
+      "src": "clip3.mp4", "from": 0, "to": 12, "credit": "Señor Onion", "yt": "o0v3ZGolsvo",
+      "say": "a3.mp3", "text": "새는 홈플레이트 근처에 떨어졌고, 그 자리엔 깃털이 흩날렸어.",
+      "kick": "다시 보기", "head": "홈 근처엔<br><b>깃털만</b>", "sub": "새는 홈 근처에, 깃털이 흩날림",
+      "note": "출처: ESPN·Cronkite News · 영상: Señor Onion",
+      "freeze": { "at": 1.5, "dur": 0.8 },
+      "fx": [{ "at": 2.4, "text": "어디 갔어", "style": "mind" }]
+    },
+    {
+      "src": "clip4.mp4", "from": 0, "to": 16, "credit": "NowThis Impact", "yt": "9sIiajEEETw",
+      "say": "a4.mp3", "text": "주심 판정은 볼도 스트라이크도 아닌 노 피치. 공이 홈까지 못 갔으니 아예 없던 투구가 된 거야.",
+      "kick": "주심 판정", "head": "판정은<br><b>노 피치</b>", "sub": "볼도 스트라이크도 아닌 노 피치",
+      "note": "출처: Cronkite News·12News · 영상: NowThis",
+      "fx": [{ "at": 2.6, "text": "무효", "style": "stamp" }]
+    }
+  ],
+  "end": {
+    "look": "profile",
+    "head": "알아 두면 더 재밌는<br><b>야구 이야기</b>",
+    "cta": "제일 황당한 장면 댓글로!",
+    "say": "a5.mp3",
+    "text": "네가 본 제일 황당한 야구 장면, 댓글로 알려 줘."
+  }
+}
