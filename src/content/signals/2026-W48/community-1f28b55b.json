@@ -1,0 +1,23 @@
+{
+  "id": "community-1f28b55b",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 이슈 한 스푼",
+  "url": "https://blog.naver.com/issue_spoon/224481725807",
+  "title": "전이경 암 투병 복귀 쇼트트랙 스피드퀸 총감독 확정",
+  "published_at": "2026-11-18T11:16:00.000+09:00",
+  "collected_at": "2026-11-18T13:37:55.241Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

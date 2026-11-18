@@ -1,0 +1,23 @@
+{
+  "id": "news-51386631",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "news",
+  "source_name": "금강일보",
+  "url": "http://www.ggilbo.com/news/articleView.html?idxno=1194078",
+  "title": "한화 홈경기일 방문객 급증…원도심 확산은 ‘제한적’",
+  "published_at": "2026-11-18T09:43:47.000Z",
+  "collected_at": "2026-11-18T13:37:55.241Z",
+  "summary_ko": "금강일보는 한화 홈경기 날 방문객은 급증하지만 원도심으로 퍼지는 효과는 제한적이라고 짚었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "홈경기 효과, 원도심은 제한적"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "youtube-b51d3278",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "LGTWINSTV",
+  "url": "https://www.youtube.com/watch?v=LpNlDPZ0Mdk",
+  "title": "밤이 깊어도 멈추지 않는 LG트윈스의 하루 🌙 야간 훈련 [엘코더]",
+  "published_at": "2026-11-18T08:30:16Z",
+  "collected_at": "2026-11-18T13:37:55.241Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 37102,
+    "likes": 863,
+    "comments": 108
+  },
+  "scores": {
+    "hot": 78,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

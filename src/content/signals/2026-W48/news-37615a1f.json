@@ -1,0 +1,24 @@
+{
+  "id": "news-37615a1f",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "미주중앙일보",
+  "url": "https://www.koreadaily.com/article/20261118014036379",
+  "title": "FA 구자욱·원태인·전병우도 올까? 강민호의 특별한 팬 사랑…28일 제4회 강식당 개최, 수익금 전액 기부",
+  "published_at": "2026-11-18T09:40:00.000Z",
+  "collected_at": "2026-11-18T13:37:55.241Z",
+  "summary_ko": "미주중앙일보는 강민호가 28일 수익금 전액을 기부하는 제4회 '강식당'을 열고 FA 구자욱·원태인·전병우의 참석에도 관심이 쏠린다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "강식당 4번째, 수익금 전액 기부"
+}

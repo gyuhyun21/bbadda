@@ -1,0 +1,26 @@
+{
+  "id": "youtube-711017c6",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "youtube",
+  "source_name": "연킅술사",
+  "url": "https://www.youtube.com/watch?v=JW2AyqayXqg",
+  "title": "한국시리즈 이후 유튜브 못 켜는 kt 팬 필수 시청  #kt위즈",
+  "published_at": "2026-11-18T11:25:05Z",
+  "collected_at": "2026-11-18T13:37:55.241Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 756,
+    "likes": 5,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 43,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

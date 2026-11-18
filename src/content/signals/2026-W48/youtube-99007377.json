@@ -1,0 +1,27 @@
+{
+  "id": "youtube-99007377",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "LionsTV",
+  "url": "https://www.youtube.com/watch?v=6EXbnl9jZ6I",
+  "title": "[BLUE WINKLY] 2026 한국시리즈 몰아보기 (11.03 ~ 11.08)",
+  "published_at": "2026-11-18T10:00:07Z",
+  "collected_at": "2026-11-18T13:37:55.241Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 33454,
+    "likes": 756,
+    "comments": 44
+  },
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

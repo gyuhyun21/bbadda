@@ -1,0 +1,23 @@
+{
+  "id": "community-93b541b8",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "community",
+  "source_name": "엠엘비파크",
+  "url": "https://mlbpark.donga.com/mp/b.php?p=1&b=news&id=202611170120166986",
+  "title": "“알려줘. 나도 알려줄게” 롯데 황성빈, 요미우리 주전 외야수와 밀도 ...",
+  "published_at": "2026-11-16T15:00:00.000Z",
+  "collected_at": "2026-11-18T13:37:55.241Z",
+  "summary_ko": "",
+  "excerpt": "... 롯데 자이언츠 황성빈(29)은 지난달 30일부터 5일간 일본프로야구(NPB) 요미우리 자이언츠의 추계캠프서 훈련했다. 지난달 23일 마쓰이…",
+  "metrics": {},
+  "scores": {
+    "hot": 51,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "youtube-c9e1946c",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "한량대기자",
+  "url": "https://www.youtube.com/watch?v=_d4ON3j-Oyc",
+  "title": "슈스홈런플리#11 김도영 26시즌 11호 홈런 #야구 #기아타이거즈 #김도영 #홈런",
+  "published_at": "2026-11-18T10:00:13Z",
+  "collected_at": "2026-11-18T13:37:55.241Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1200,
+    "likes": 12,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 47,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

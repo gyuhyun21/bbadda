@@ -1,0 +1,26 @@
+{
+  "id": "youtube-2b27674a",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "source_name": "야구정리당",
+  "url": "https://www.youtube.com/watch?v=M1nbgpADzeA",
+  "title": "야구부장이 밝힌 한화 스토브리그 상황",
+  "published_at": "2026-11-18T10:07:44Z",
+  "collected_at": "2026-11-18T13:37:55.241Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 9191,
+    "likes": 121,
+    "comments": 24
+  },
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

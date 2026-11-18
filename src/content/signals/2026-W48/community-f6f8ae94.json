@@ -1,0 +1,23 @@
+{
+  "id": "community-f6f8ae94",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 야구디코더의 분석 리포트",
+  "url": "https://baseball-decoder.tistory.com/183",
+  "title": "[2026 KBO 스토브리그 데일리 리포트 #8] '역대 최고 152억 원 넘나' 구자욱 쟁탈전 3개 팀 이상 점화...",
+  "published_at": "2026-11-18T21:52:13.000+09:00",
+  "collected_at": "2026-11-18T13:37:55.241Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

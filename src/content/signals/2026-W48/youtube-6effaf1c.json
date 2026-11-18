@@ -1,0 +1,26 @@
+{
+  "id": "youtube-6effaf1c",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "youtube",
+  "source_name": "아이스초코",
+  "url": "https://www.youtube.com/watch?v=DDuXgG3wqSo",
+  "title": "FA 양의지 두산 잔류, FA 구자욱까지 영입할 수 있을까?",
+  "published_at": "2026-11-18T09:06:07Z",
+  "collected_at": "2026-11-18T13:37:55.241Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1208,
+    "likes": 5,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 42,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

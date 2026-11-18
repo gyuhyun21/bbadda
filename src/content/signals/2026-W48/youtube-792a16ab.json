@@ -1,0 +1,26 @@
+{
+  "id": "youtube-792a16ab",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "source_name": "크보쌍둥이",
+  "url": "https://www.youtube.com/watch?v=rjjYJsPnIcc",
+  "title": "한화 노시환 ML 진출해야 FA 참전! 노시환의 현재 진출 가능성은? #한화이글스 #노시환 #문현빈 #류현진",
+  "published_at": "2026-11-18T08:05:53Z",
+  "collected_at": "2026-11-18T13:37:55.241Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 14331,
+    "likes": 130,
+    "comments": 83
+  },
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

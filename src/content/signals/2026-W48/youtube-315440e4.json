@@ -1,0 +1,26 @@
+{
+  "id": "youtube-315440e4",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "우유",
+  "url": "https://www.youtube.com/watch?v=1j5415Wu8pM",
+  "title": "엘도라도 🦁💙 #야구 #타워 #삼성라이온즈 #우승 #엘도라도",
+  "published_at": "2026-11-18T10:47:00Z",
+  "collected_at": "2026-11-18T13:37:55.241Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 309,
+    "likes": 3,
+    "comments": 3
+  },
+  "scores": {
+    "hot": 47,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

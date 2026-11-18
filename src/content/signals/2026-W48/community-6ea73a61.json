@@ -1,0 +1,23 @@
+{
+  "id": "community-6ea73a61",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "엠엘비파크",
+  "url": "https://mlbpark.donga.com/mp/b.php?id=202611180120180159&p=1&b=kbotown&m=view&site=donga.com",
+  "title": "기아 타이거즈",
+  "published_at": "2026-11-17T14:37:55.241Z",
+  "collected_at": "2026-11-18T13:37:55.241Z",
+  "summary_ko": "",
+  "excerpt": "... 야구단 팔고 차팔이나 하시지. 10개 구단 꼴등지원 이제 못봐주겄다. 크라운해태홀딩스에서…",
+  "metrics": {},
+  "scores": {
+    "hot": 60,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "instagram-02258add",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "instagram",
+  "official": true,
+  "source_name": "Instagram @busanlottegiants",
+  "url": "https://www.instagram.com/p/Df4WSNnEz6Y/",
+  "title": "롯데 자이언츠 공식 인스타그램: 여기는 일본 미야자키, 탄탄한 수비를 만들어 가기 위한 야수들의 훈련 현장🔥",
+  "published_at": "2026-11-18T11:00:06+0000",
+  "collected_at": "2026-11-18T13:37:55.241Z",
+  "summary_ko": "롯데 공식 인스타그램이 미야자키에서 탄탄한 수비를 만드는 야수들의 훈련 현장을 올렸다.",
+  "metrics": {
+    "likes": 2919,
+    "comments": 11
+  },
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "미야자키 야수 수비 훈련"
+}

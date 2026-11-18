@@ -1,0 +1,23 @@
+{
+  "id": "news-5ff21b54",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "네이트",
+  "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5lQTZyZUVieDUzVjhUUHNRRUg4Z3cwSGpueFNHNGgwR0Z5aFhZM1FKdnJDdHFDVHl3ckc5c0xDckNaNURTamJtSTRmckFjR1VJTERPOXBR?oc=5",
+  "title": "[속보] 국대 4번타자 한동희 골절상 '날벼락'…\"뼈에는 이상 없는 듯\" 본인 직접 상태 언급했는데→\"오른손 골절 진단, 6주 재활 예정\" (오피셜)",
+  "published_at": "2026-11-18T07:13:00.000Z",
+  "collected_at": "2026-11-18T13:37:55.241Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

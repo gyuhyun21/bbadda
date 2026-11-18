@@ -1,0 +1,27 @@
+{
+  "id": "youtube-999f57cb",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "Giants TV",
+  "url": "https://www.youtube.com/watch?v=RUfRqcSptfY",
+  "title": "충성! 진승현·전미르·강성우 전역 신고합니다🫡",
+  "published_at": "2026-11-18T12:00:26Z",
+  "collected_at": "2026-11-18T13:37:55.241Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 9866,
+    "likes": 797,
+    "comments": 106
+  },
+  "scores": {
+    "hot": 90,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

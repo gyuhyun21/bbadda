@@ -1,0 +1,24 @@
+{
+  "id": "news-cb7fa82c",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "announcement": true,
+  "source_name": "MHN스포츠",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBfWXFKNUM0MnliSEdVSG5JQVVUTC1KNjA5VlNSLUhmckNmNmd6Rmhqb2RKcGpLRHU3TXlnSm5tZGNnemFkZ21Ja1RUWWFFZnpWUW0yLUFPVC1vdDlIWEtBSEVIZw?oc=5",
+  "title": "[오피셜]전업 3루수 고작 2년 만에 최고 수비수 등극…김도영의 놀라운 진화, 유격수 성공도 시간문제다",
+  "published_at": "2026-11-18T07:30:02.000Z",
+  "collected_at": "2026-11-18T13:37:55.241Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

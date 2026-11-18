@@ -1,0 +1,24 @@
+{
+  "id": "news-1c50ee69",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "announcement": true,
+  "source_name": "스포츠조선",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBEQXdETDBhQVFLV3drUjg1ekN6Wm56S2h6OHdWRjBUQktwNVl6eVhzTEhSazlMdG9qeFc2eFRuNVp5WElnM3RfQlZIdjRWQlNwWDQtVUt3YU1zS0lUZmQxenlPbE5PZjRpUmpSQUhCaVFWZHB5dHcxYnFlT3FkZw?oc=5",
+  "title": "[공식발표]'드디어 오피셜 떴다' 떠날 생각 없었던 최지훈, 4년 67억원에 계약 완료",
+  "published_at": "2026-11-18T01:47:46.000Z",
+  "collected_at": "2026-11-18T13:37:55.241Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

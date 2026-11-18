@@ -1,0 +1,27 @@
+{
+  "id": "youtube-b7b21850",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "키움히어로즈",
+  "url": "https://www.youtube.com/watch?v=oC_Z04iqI_o",
+  "title": "찬란하게 빛날 수험생 여러분을 응원합니다🍀",
+  "published_at": "2026-11-18T09:00:39Z",
+  "collected_at": "2026-11-18T13:37:55.241Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 2227,
+    "likes": 140,
+    "comments": 13
+  },
+  "scores": {
+    "hot": 82,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

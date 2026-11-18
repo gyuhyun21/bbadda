@@ -1,0 +1,23 @@
+{
+  "id": "community-e15ddc77",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 대덜 : 패션 · 뷰티 · 방송",
+  "url": "https://blog.naver.com/bigshine_kim/224480299654",
+  "title": "\"나는 솔로 PD가 이번엔 결혼이다\" 9월 28일 첫방송 계약결혼 관전포인트",
+  "published_at": "2026-11-18T12:12:00.000+09:00",
+  "collected_at": "2026-11-18T13:37:55.241Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

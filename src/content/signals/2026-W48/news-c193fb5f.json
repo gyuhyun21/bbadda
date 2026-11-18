@@ -1,0 +1,22 @@
+{
+  "id": "news-c193fb5f",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "news",
+  "source_name": "대전일보",
+  "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8wMFhpd2paNXhXcWtCQlFIaExmVU5sQ19PMXhYcXhDYzlaQ3kzZHJhRHFVd0hjUHloZG04bWFoTUpFd3p0QThvU0dhRDZIQi1LcmxYcUJKT3NWX2VMSlA0bE0zb0xxR3BRTU9EX3JCZG9aS0nSAXNBVV95cUxPMDBYaXdqWjV4V3FrQkJRSGhMZlVObENfTzF4WHF4Q2M5WkN5M2RyYURxVXdIY1B5aGRtOG1haE1KRXd6dEE4b1NHYUQ2SEItS3JsWHFCSk9zVl9lTEpQNGxNM29McUdwUU1PRF9yQmRvWktJ?oc=5",
+  "title": "대전 중구, 한화이글스 경기 때 생활인구 평소보다 2.5배 많아",
+  "published_at": "2026-11-18T09:27:40.000Z",
+  "collected_at": "2026-11-18T13:37:55.241Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

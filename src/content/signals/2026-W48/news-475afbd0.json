@@ -1,0 +1,23 @@
+{
+  "id": "news-475afbd0",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "네이트뷰",
+  "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5CdUY1aTlIWVJ5OFRnNnRfdkc3OVRfU2VRNFpGd2toSzhZaVo4dWxVQklRUW8yZWhKeHhzNENQalJRUmotWnV6eUFra2NRQUZDUlE?oc=5",
+  "title": "MVP도 아직인데? 김도영, 7년 만에 벌어진 일",
+  "published_at": "2026-11-18T08:12:00.000Z",
+  "collected_at": "2026-11-18T13:37:55.241Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "community-c1f5b32e",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 스초생 길잡이",
+  "url": "https://blog.naver.com/kerrykwak/224481727300",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/3K6ZG3VfisY",
+  "title": "류현진 vs 이정후 감독 맞대결, 더 제너레이션 매치 2026 고척돔 일정",
+  "published_at": "2026-11-18T11:25:00.000+09:00",
+  "collected_at": "2026-11-18T13:37:55.241Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

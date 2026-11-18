@@ -1,0 +1,23 @@
+{
+  "id": "news-6dfe8a38",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "news",
+  "announcement": true,
+  "source_name": "네이트",
+  "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5RYlpyblRmVV9DeW84eHZfTzI5d3I5cXozVUFMT3dIUzYyVWRUQlBpS3l2ZUtTYXN4aHZjTDMxRzdlemRxN2pCT0E0YktuZlJTZENHWlln?oc=5",
+  "title": "[오피셜] 특급 팬 사랑! '66억만 받겠습니다' SSG 재계약 최지훈, 1억 기부 약속…인천에 받은 사랑 돌려준다",
+  "published_at": "2026-11-18T02:46:00.000Z",
+  "collected_at": "2026-11-18T13:37:55.241Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

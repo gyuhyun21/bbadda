@@ -1,0 +1,23 @@
+{
+  "id": "community-8d500e40",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 오리대장 일상 블로그",
+  "url": "https://blog.naver.com/tjdeo13/224481842075",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/8wAONqk4RkN",
+  "title": "kt위즈카페 디저트가 맛있는 설빙 포켓몬 빙수",
+  "published_at": "2026-11-18T12:40:00.000+09:00",
+  "collected_at": "2026-11-18T13:37:55.241Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "youtube-7a732d11",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "SSG랜더스",
+  "url": "https://www.youtube.com/watch?v=9meoK1WZATQ",
+  "title": "이 만남 계속 이어가기로 했습니다❤️",
+  "published_at": "2026-11-18T09:00:04Z",
+  "collected_at": "2026-11-18T13:37:55.241Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 58164,
+    "likes": 3072,
+    "comments": 154
+  },
+  "scores": {
+    "hot": 100,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "community-aa2c8e79",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 Sports.ZIP",
+  "url": "https://blog.naver.com/trendzip_daily/224481273770",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/FGc5H0HP44P",
+  "title": "하지원 빨간 수영복, 야구장 밖 반전",
+  "published_at": "2026-11-18T13:54:00.000+09:00",
+  "collected_at": "2026-11-18T13:37:55.241Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

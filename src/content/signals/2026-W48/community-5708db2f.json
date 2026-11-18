@@ -1,0 +1,24 @@
+{
+  "id": "community-5708db2f",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "엠엘비파크",
+  "url": "https://mlbpark.donga.com/mp/b.php?id=202611090120020001&p=31&b=kbotown&m=view&select=spf&query=SSG&site=donga.com",
+  "title": "우승콜 미리보기",
+  "published_at": "2026-11-08T00:00:00.000Z",
+  "collected_at": "2026-11-18T13:37:55.241Z",
+  "summary_ko": "",
+  "excerpt": "... ... SSG · 롯데 · NC · 한화 · 키움 · KBO · 스토브리그/FA…",
+  "metrics": {},
+  "scores": {
+    "hot": 8,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

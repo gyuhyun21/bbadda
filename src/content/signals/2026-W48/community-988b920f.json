@@ -1,0 +1,23 @@
+{
+  "id": "community-988b920f",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 스포츠랑 함께하는 일상",
+  "url": "https://blog.naver.com/juhyun002/224481741415",
+  "title": "\"오타니도 아닌데 선발투수가 4번 타자까지?\" 한국야구에서 실제로 벌어진 믿기 힘든 사건, 그날 무슨...",
+  "published_at": "2026-11-18T12:20:00.000+09:00",
+  "collected_at": "2026-11-18T13:37:55.241Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "community-bb434e01",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 픽노트 | 오늘의 관심사를 한눈에",
+  "url": "https://blog.naver.com/picknote_daily365/224481635429",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/1tyHhYb25tr",
+  "title": "39세 양의지, 두산과 2년 최대 55억 원…FA 누적 290억 원의 의미",
+  "published_at": "2026-11-18T10:15:00.000+09:00",
+  "collected_at": "2026-11-18T13:37:55.241Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

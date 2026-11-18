@@ -1,0 +1,23 @@
+{
+  "id": "news-066d9fa2",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "FT스포츠",
+  "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE90ay1KcG5nUEY3MDd6QjZXR0YwN2VBZnNqVXE5NFBKcTFwVGN3cUtoS09mWUp4MVp5OTFpQmI2bUUtdnZob193aVBvdU5Ra01fZVp6dU9iQVdPNTVOeVhTNlFnRHdWQQ?oc=5",
+  "title": "“MVP 발표도 안 했는데?”…45홈런 김도영, 7년 만의 파격 대상에 수비상까지",
+  "published_at": "2026-11-18T13:29:58.000Z",
+  "collected_at": "2026-11-18T13:37:55.241Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

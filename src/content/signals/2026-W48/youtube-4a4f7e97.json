@@ -1,0 +1,26 @@
+{
+  "id": "youtube-4a4f7e97",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "youtube",
+  "source_name": "야구야놀자",
+  "url": "https://www.youtube.com/watch?v=Wpm0axftzO8",
+  "title": "우승 두 번 시킨 포수의 운명 #박동원 #LG트윈스 #FA시장",
+  "published_at": "2026-11-18T11:51:55Z",
+  "collected_at": "2026-11-18T13:37:55.241Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 916,
+    "likes": 2,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 40,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

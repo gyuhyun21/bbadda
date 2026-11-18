@@ -1,0 +1,23 @@
+{
+  "id": "news-35c1ff83",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "네이트",
+  "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5XMHZ2eEs5SVJkSjlwa0RCNVRNVk1SUkRmTjhPN3ZYQVUtUkJEREp6NTA1WERFSm1WeDdnNlJ3VTNwM1FsVm5hLXA5WWtzYzViQ0VKRmhn?oc=5",
+  "title": "홍창기? 전병우? KIA, '48억 대반전' 노리나→외부 FA 문 안 닫는다!…내부 단속+전력 보강 동시 도전",
+  "published_at": "2026-11-17T15:00:00.000Z",
+  "collected_at": "2026-11-18T13:37:55.241Z",
+  "summary_ko": "엑스포츠뉴스는 KIA가 내부 단속과 함께 홍창기·전병우 등 외부 FA 영입 문도 닫지 않았다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 60,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "외부 FA 문 안 닫는다"
+}

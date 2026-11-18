@@ -1,0 +1,26 @@
+{
+  "id": "youtube-502d7854",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "youtube",
+  "source_name": "롯쏭",
+  "url": "https://www.youtube.com/watch?v=aMT23dDfN3k",
+  "title": "롯데 자이언츠 윤동희 응원가",
+  "published_at": "2026-11-18T12:22:32Z",
+  "collected_at": "2026-11-18T13:37:55.241Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 0,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

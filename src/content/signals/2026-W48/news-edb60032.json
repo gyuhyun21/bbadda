@@ -1,0 +1,22 @@
+{
+  "id": "news-edb60032",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "news",
+  "source_name": "브릿지경제",
+  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0tY005Yld3XzQzekJzR1ZPVk1pUFZiYkRWZjUyb292YXJkVjYzSnJUZDRVNWgzdmdJMzh5cTl2a2xEN2pMZ1RWcW5jeUExRzVkWVpIcm9ubVpaUQ?oc=5",
+  "title": "“한화이글스 보러 왔다가 원도심까지”…생활인구로 찾아낸 지역경제 활성화 해법",
+  "published_at": "2026-11-18T07:38:00.000Z",
+  "collected_at": "2026-11-18T13:37:55.241Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

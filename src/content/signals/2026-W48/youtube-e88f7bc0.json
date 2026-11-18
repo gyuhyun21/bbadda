@@ -1,0 +1,27 @@
+{
+  "id": "youtube-e88f7bc0",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "SSG랜더스",
+  "url": "https://www.youtube.com/watch?v=0ym1bgnkAcY",
+  "title": "최지훈 FA 계약! 함께해 온 시간만큼 더욱 기대되는 새로운 ‘시작’🫶",
+  "published_at": "2026-11-18T12:54:07Z",
+  "collected_at": "2026-11-18T13:37:55.241Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 7023,
+    "likes": 1300,
+    "comments": 275
+  },
+  "scores": {
+    "hot": 88,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

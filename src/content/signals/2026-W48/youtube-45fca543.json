@@ -1,0 +1,26 @@
+{
+  "id": "youtube-45fca543",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "youtube",
+  "source_name": "환규낭만TV",
+  "url": "https://www.youtube.com/watch?v=pOlHK84DShY",
+  "title": "가지마. 제발. #야구 #엘지트윈스 단장님. 구단주님&우리팀캡틴 못가게 제발.",
+  "published_at": "2026-11-18T10:27:55Z",
+  "collected_at": "2026-11-18T13:37:55.241Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 483,
+    "likes": 3,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 39,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "youtube-b932f536",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "youtube",
+  "source_name": "김알 - 김팀장이 알아봤다!",
+  "url": "https://www.youtube.com/watch?v=XADr90YX8ck",
+  "title": "NC 다이노스 팬들 주목!⚾ 박민우 vs 이재학 특별 경기🔥 11월 20일 일반 예매 #NCDinos #Shorts",
+  "published_at": "2026-11-18T08:45:30Z",
+  "collected_at": "2026-11-18T13:37:55.241Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 97,
+    "likes": 2,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 42,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

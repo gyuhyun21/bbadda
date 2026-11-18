@@ -1,0 +1,29 @@
+{
+  "id": "news-aa587870",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스타뉴스",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9TNWh3Q1BnUU1XVnRqblhqN2JBSTgtLW5xZUcwV0FGRlJwSzdhaERYRGJnN3o0MmVVeF9EYTJWYm11eElUdWZEOVB3UWpjVVdvTFZKcy04TE5RYzd4UHhtaEd1STJVWE4wRktGN2pCanVOTUI4TlE?oc=5",
+  "title": "프로 첫 KS 우승 이룬 강민호, 팬 사랑에 보답한다! 자선행사 '강식당4' 세부 내용 공개... 11월 20일 예매→11월 28일 행사 개최",
+  "published_at": "2026-11-18T11:34:22.000Z",
+  "collected_at": "2026-11-18T13:37:55.241Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5yejlfMUhzM2NYZnFMUzdsNDMyTFF6MkR2cy1lMHhjczFhVnp5UzNMTmpnZnJtRU5McVBPNjhxUDl1WThqaVlEWk1oQVMzaVJaeXFoTFNWb04yYXFndmQyMjRkcmdnUUc0VEN0bjF5NNIBb0FVX3lxTE5yejlfMUhzM2NYZnFMUzdsNDMyTFF6MkR2cy1lMHhjczFhVnp5UzNMTmpnZnJtRU5McVBPNjhxUDl1WThqaVlEWk1oQVMzaVJaeXFoTFNWb04yYXFndmQyMjRkcmdnUUc0VEN0bjF5NA?oc=5"
+    }
+  ]
+}

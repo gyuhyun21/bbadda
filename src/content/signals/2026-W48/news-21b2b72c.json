@@ -1,0 +1,23 @@
+{
+  "id": "news-21b2b72c",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠경향",
+  "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1paFZPOF9WYjFwMDM4bnUzYVBwdWVzQkk5c2M3TmJ2YkIwUHdfTF9MV1ZxRXA1Y2RKZXBlWEN6YlBpSTdTczBwRWVaUlEzTHJPbV9ESHc2dHUxX1ZaaHfSAWNBVV95cUxNbmhhd1htZG9qOHQ3THI3Ty1FNTUtS0h3STU0MDA1b1oxLWJJUzZmRDdxazY3YVlmdVBpeFR2ZXZTWXZfYllDbmpsVVYyMTY3b1Z0QktXektsQUNjLXVtbFZyNEk?oc=5",
+  "title": "에레디아, 4회 연속 KBO 수비상 영예…유틸리티 첫 수상자는 구본혁",
+  "published_at": "2026-11-18T02:44:00.000Z",
+  "collected_at": "2026-11-18T13:37:55.241Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}
