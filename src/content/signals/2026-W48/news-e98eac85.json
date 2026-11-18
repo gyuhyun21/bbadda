@@ -1,0 +1,29 @@
+{
+  "id": "news-e98eac85",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://www.mt.co.kr/amp/sports/2026/11/19/2026111813573917843",
+  "title": "\"못 쉬니까 더 아팠다\" 투수 부상자 명단 21회 공동 최다 LG, 손혁 신임 코치의 첫 주문은 '잘 쉬어라'",
+  "published_at": "2026-11-18T18:31:00.000Z",
+  "collected_at": "2026-11-18T21:38:02.577Z",
+  "summary_ko": "머니투데이는 투수 부상자 명단 21회로 공동 최다였던 LG에 손혁 코치의 첫 주문이 '잘 쉬어라'였다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 83,
+    "relevance": 70
+  },
+  "sentiment": "negative",
+  "also_in": [
+    {
+      "source_name": "스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CcEE5TGhUVUxhdFlTQzZNUGZ5Q3E4VFl0LW9HQnNzZzd5anN2STVabDQ1aFBnQUFaWTBUVGtFaTZyMV9nWDBGVHlLaUNxb2NsNERmakRlSEp2NVdoanZwbG5JUFdtcUN6LTlQLU5QT29LMUw1Ymc?oc=5"
+    }
+  ],
+  "brief_ko": "손혁 코치 첫 주문 '잘 쉬어라'"
+}

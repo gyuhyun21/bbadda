@@ -1,0 +1,26 @@
+{
+  "id": "youtube-4933977f",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "youtube",
+  "source_name": "야구 한입",
+  "url": "https://www.youtube.com/watch?v=zqw6sXBYqeE",
+  "title": "LG 오스틴, 외국인 타자 역대 최고 200만 달러에 1루수 수비상까지",
+  "published_at": "2026-11-18T16:05:18Z",
+  "collected_at": "2026-11-18T21:38:02.577Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1475,
+    "likes": 3,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 44,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

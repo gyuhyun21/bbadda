@@ -1,0 +1,24 @@
+{
+  "id": "community-3bc9211b",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 콩의 노트",
+  "url": "https://blog.naver.com/kong_notes/224481979320",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/7JhoNbMtUHK",
+  "title": "맨유 겨울 이적시장 영입 계획, 수비 보강 1순위는?",
+  "published_at": "2026-11-18T14:20:00.000+09:00",
+  "collected_at": "2026-11-18T21:38:02.577Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 62,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

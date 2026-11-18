@@ -1,0 +1,24 @@
+{
+  "id": "news-61017282",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1GUnhiOVJ6OXpDc21QdGpTQ3Badk9JOS1uTzU1c0JXNFZIYXpKc0hqU1Nqb2pkT3dseU9yczdsZ2NtVHk2cTdnQVJUS3piUEYxbzJCMEliTnZkXzFLbTBjTkxvZ0VrajI3UFNNZVZCc9IBb0FVX3lxTE1GUnhiOVJ6OXpDc21QdGpTQ3Badk9JOS1uTzU1c0JXNFZIYXpKc0hqU1Nqb2pkT3dseU9yczdsZ2NtVHk2cTdnQVJUS3piUEYxbzJCMEliTnZkXzFLbTBjTkxvZ0VrajI3UFNNZVZCcw?oc=5",
+  "title": "'올스타 MVP+수비상' 찍고 '신인왕+GG'까지... '이만수-김동수-양의지도 못한 대기록' 허인서가 4관왕 역사 쓴다",
+  "published_at": "2026-11-18T15:23:15.000Z",
+  "collected_at": "2026-11-18T21:38:02.577Z",
+  "summary_ko": "머니투데이는 올스타 MVP와 수비상을 받은 한화 허인서가 신인왕·골든글러브까지 4관왕에 도전한다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "brief_ko": "허인서, 4관왕 도전"
+}

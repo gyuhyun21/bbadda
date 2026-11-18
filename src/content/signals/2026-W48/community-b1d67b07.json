@@ -1,0 +1,24 @@
+{
+  "id": "community-b1d67b07",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 시트콩‘s Story",
+  "url": "https://eundu5.tistory.com/21",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/AH7fekeMDNo",
+  "title": "<San Francisco>다저스vs.자이언츠: 류현진 선발/13.09.24/@AT&T PARK",
+  "published_at": "2026-11-19T02:51:05.000+09:00",
+  "collected_at": "2026-11-18T21:38:02.577Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

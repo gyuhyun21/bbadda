@@ -1,0 +1,24 @@
+{
+  "id": "community-84978d78",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "다음카페 청주시서원리틀야구단",
+  "url": "https://cafe.daum.net/s-baseball/doyr/14",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/L8lPh5EpP3Q",
+  "title": "2026.10.31 박찬호배 개막식",
+  "published_at": "2026-11-17T11:01:21.000+09:00",
+  "collected_at": "2026-11-18T21:38:02.577Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 52,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

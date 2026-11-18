@@ -1,0 +1,23 @@
+{
+  "id": "news-eaf4328c",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "매일신문",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1tZllsclg1WGVyMUw5Sk9rSF9HTW15RVByYjRCZDlDT3k2RElkXzFtajRSWF9fbzhKREtSekZBSWpTUDgtdUNCYXdGTmdqOWJLMjBtMUR5Q2h5VU0tLS11b29n?oc=5",
+  "title": "[삼성 오키나와 마무리 캠프] ③`내년 외야서 뛰는 걸 볼 수 있을까` 이창용과 서승환의 도전",
+  "published_at": "2026-11-18T15:39:54.000Z",
+  "collected_at": "2026-11-18T21:38:02.577Z",
+  "summary_ko": "매일신문은 삼성 오키나와 캠프에서 이창용과 서승환이 내년 외야 자리에 도전한다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "이창용·서승환, 외야 도전"
+}

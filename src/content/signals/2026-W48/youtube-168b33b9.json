@@ -1,0 +1,26 @@
+{
+  "id": "youtube-168b33b9",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "youtube",
+  "source_name": "씨씨 cece",
+  "url": "https://www.youtube.com/watch?v=-6eEg6FLZe0",
+  "title": "두산화이팅 #두산베어스 #v7 #kbo",
+  "published_at": "2026-11-18T13:00:19Z",
+  "collected_at": "2026-11-18T21:38:02.577Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 0,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

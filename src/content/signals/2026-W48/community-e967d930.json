@@ -1,0 +1,23 @@
+{
+  "id": "community-e967d930",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 with Jason",
+  "url": "https://withjason.tistory.com/5000",
+  "title": "11월 19일 목요일 신한 쏠 쏠야구 야구상식 쏠 퀴즈 정답 / 퀴즈팡팡 오늘의 OX퀴즈",
+  "published_at": "2026-11-19T00:03:13.000+09:00",
+  "collected_at": "2026-11-18T21:38:02.577Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

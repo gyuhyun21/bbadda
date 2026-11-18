@@ -1,0 +1,23 @@
+{
+  "id": "news-acbd82c3",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "조선일보",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVkZ5SDFUWkRpRkNlSlpyNF9BOG9vYm5fR0xJOFNQSDgzczRwalV2SzAxNFRpeDd3R2U2U040d1NrbWJtdkIxWXFTMmdVR3Y4VW5tdzdNUnVORy1obUo4NW1QamZzUmFNcnVVZ2VBemU0TmxYTDFxcGJ0eWZLcnh4bWx1TQ?oc=5",
+  "title": "\"선수들이 밝아졌다\" 롯데에 스며든 자율 속 규율 → '이동욱 감독 + 이택근 단장' 긍정적 에너지의 정체는 [미야자키 현장]",
+  "published_at": "2026-11-18T16:22:10.000Z",
+  "collected_at": "2026-11-18T21:38:02.577Z",
+  "summary_ko": "조선일보는 이동욱 감독과 이택근 단장 체제의 자율 속 규율로 롯데 선수들이 밝아졌다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "선수들이 밝아졌다"
+}

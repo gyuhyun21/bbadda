@@ -1,0 +1,30 @@
+{
+  "id": "community-a2862ae2",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "다음카페 (사)강원특별자치도플로어볼협회",
+  "url": "https://cafe.daum.net/gangwonfloorball/6Ep2/3579",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/3Gqg22mwGdS",
+  "title": "정준재 KBO 수비상 석권…강원 전사 첫 주인공 탄생",
+  "published_at": "2026-11-19T04:55:16.000+09:00",
+  "collected_at": "2026-11-18T21:38:02.577Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "강원도민일보",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9XZUFZWW5CTGFDa3EzdWdvQlJLZlpGc0JaYjlhcUVuOU9aVlkwNXFSVmlVc0FMMEYtSHJHWm1vZkF0Y1Y4NU5CcGNKRHhfOTVjRmw0aWJQUXZEeFk5cXhiRUtoSUc1Z28?oc=5"
+    }
+  ]
+}

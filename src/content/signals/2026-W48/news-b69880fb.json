@@ -1,0 +1,23 @@
+{
+  "id": "news-b69880fb",
+  "issue": "2026-W48",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "SPOTV NEWS",
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1XMUx0VmN4RUJpNnN0VWsyNkVMWlZWUXFIamV2dElHVUZfYXQxdzFaTlVRbzBfZzdLVVlDcTRCRTNKRGcxQTc2bWJmdVJlRE1VRkltVURCUzFoRzlJZXVpMEpieVpndURKNS1BcmlnaTM?oc=5",
+  "title": "KIA도 KBO도 놀랐던 이 선수… 삼성 초비상 美日 모두 붙었다, 그런데 믿을 구석 있다?",
+  "published_at": "2026-11-18T21:10:00.000Z",
+  "collected_at": "2026-11-18T21:38:02.577Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 80
+  },
+  "sentiment": "neutral"
+}

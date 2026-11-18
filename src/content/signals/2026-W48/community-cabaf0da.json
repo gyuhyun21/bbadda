@@ -1,0 +1,24 @@
+{
+  "id": "community-cabaf0da",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 스포츠 데이터 랩",
+  "url": "https://sports-data-lab.tistory.com/26",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/5qBMoBzqXyD",
+  "title": "2026 KBO·MLB 스토브리그 핵심 데이터 분석 — 최지훈 67억 잔류·구자욱 쟁탈전, 스쿠벌·아로사레나...",
+  "published_at": "2026-11-18T22:50:06.000+09:00",
+  "collected_at": "2026-11-18T21:38:02.577Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "community-cf823d53",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 재택쀼의 삶",
+  "url": "https://blog.naver.com/saidthewoman/224481605381",
+  "title": "한화 이글스 FA 철수 이유, 744억 투자에도 9위 추락한 현실",
+  "published_at": "2026-11-18T12:14:00.000+09:00",
+  "collected_at": "2026-11-18T21:38:02.577Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 61,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

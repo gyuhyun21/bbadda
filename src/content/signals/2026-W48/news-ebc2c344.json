@@ -1,0 +1,23 @@
+{
+  "id": "news-ebc2c344",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://www.mt.co.kr/amp/sports/2026/11/19/2026111818095564691",
+  "title": "2위와 무려 34점 차! '수비상 3회' 박해민 보유해도 LG는 걱정이다... 풀리지 않는 뜻밖의 고민",
+  "published_at": "2026-11-18T15:08:00.000Z",
+  "collected_at": "2026-11-18T21:38:02.577Z",
+  "summary_ko": "머니투데이는 수비상 3회 박해민이 2위와 34점 차였지만 LG에는 풀리지 않는 고민이 있다고 짚었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "수비상 박해민, 그래도 걱정"
+}
