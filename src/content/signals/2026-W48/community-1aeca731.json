@@ -1,0 +1,24 @@
+{
+  "id": "community-1aeca731",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 퇴근후 플레이볼",
+  "url": "https://blog.naver.com/ev-baseball/224481477356",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/Kru83CptCeb",
+  "title": "류현진 vs 이정후, 감독 대결에 투타 맞대결까지? 더 제너레이션 매치",
+  "published_at": "2026-11-18T07:42:00.000+09:00",
+  "collected_at": "2026-11-18T07:37:58.416Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "news-2499f4fa",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "연합뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE04c3VvZi01Z2VGSHJBUTZuMkJPeFBSN2Zid3Z6TjQzOXd5c0MyckliZE9LUjFSSElhaW1kZ2hsZDF3MFdXY08zMWVibU5oc3NXV1psNHlwSEJ4RnFOMVB0bdIBYEFVX3lxTE04c3VvZi01Z2VGSHJBUTZuMkJPeFBSN2Zid3Z6TjQzOXd5c0MyckliZE9LUjFSSElhaW1kZ2hsZDF3MFdXY08zMWVibU5oc3NXV1psNHlwSEJ4RnFOMVB0bQ?oc=5",
+  "title": "'홈런왕' KIA 김도영, 수비도 으뜸…데뷔 첫 KBO 3루수 수비상",
+  "published_at": "2026-11-18T02:39:31.000Z",
+  "collected_at": "2026-11-18T07:37:58.416Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 90,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "세계일보",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9UdnVWY0tidkxicl9TaTNnVzdlYVBmSTl5LVpNSzhxMFZvNlhaSURrWXJ0UXRWVUxMb2V3cWlnQnBNeW9VR2Y1ODhzMVRJMUs5UklLR3BGSk_SAVRBVV95cUxOeDBFeDlLc211eVVuVkI3Q3Uwd3Z4Y3pEdXpjM0pZTG5sVHZXN3puSldTcGxMVTZvMExkaWpfbnVTLU5heUJFeWd0Z0NaZnlPUEVJYlU?oc=5"
+    }
+  ]
+}

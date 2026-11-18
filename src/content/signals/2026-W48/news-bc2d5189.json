@@ -1,0 +1,23 @@
+{
+  "id": "news-bc2d5189",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스핌",
+  "url": "https://www.newspim.com/news/view/20261118000866",
+  "title": "[프로야구] SSG, 에레디아와 결별...26세 호타준족 하인즈 영입 수순",
+  "published_at": "2026-11-18T04:48:00.000Z",
+  "collected_at": "2026-11-18T07:37:58.416Z",
+  "summary_ko": "뉴스핌은 SSG가 에레디아와 결별하고 26세 호타준족 하인즈 영입 수순에 들어갔다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "에레디아와 결별, 하인즈 영입 수순"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "community-051eb830",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 윤슬",
+  "url": "https://blog.naver.com/kimm609410/224482004434",
+  "title": "2026 KBO 수비상 3루수 김도영 수상! 실책 30개에서 10개로 줄인 반전 비결과 직관 후기",
+  "published_at": "2026-11-18T14:37:00.000+09:00",
+  "collected_at": "2026-11-18T07:37:58.416Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "mixed",
+  "also_in": [
+    {
+      "source_name": "남도일보",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA1dmdJcXZ5UWd5T3pLQS14Snh2NTU2aGtEMGhNdms1aFYzZElIN0hlczdkZC1GNmY5OWVMZHV5Qlh2bzNEZ3lzMzFTMFZoV0U5ZEMwSzR0YWJldDJab2lsTVdWQ3lWNU1xVTI1MtIBcEFVX3lxTE9NcUliQmw4aTNoS3V6b1doaHV3bDJ3X044Mzc4c0lEcjk2UFY2Vlo5U1I5aFR4ajIxaW9GUlZ1MmhEcmEzVmZReVZRSGx0ZllCaFMxRGRXcks2VVRMN0NkRXJjdTY2MFdNSGh3eGFDSkY?oc=5"
+    }
+  ]
+}

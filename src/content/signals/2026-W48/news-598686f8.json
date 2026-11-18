@@ -1,0 +1,29 @@
+{
+  "id": "news-598686f8",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://www.mt.co.kr/amp/sports/2026/11/18/2026111813273390335",
+  "title": "'韓 우타 최고 계약금' 김지우 VS 'APBC 대표팀' 안재석, '서울고 선후배' 두산 3루서 본격 경쟁 시작",
+  "published_at": "2026-11-18T06:06:38.000Z",
+  "collected_at": "2026-11-18T07:37:58.416Z",
+  "summary_ko": "머니투데이는 우타 최고 계약금 신인 김지우와 APBC 대표 안재석이 두산 3루에서 본격 경쟁을 시작했다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9lQW1WRUxta2RoSGxybW1wQVdXcmRkQURST1JuRExSU3hITDh5UTcyS3RoVHdTV1hUNWprb3kxNWpFdTNRWllwemFZLVk0bDlyVnduMkdVZURKVEExOUowSFRVbkhCTklsTmEyOHVlZ3VMVkRoQlE?oc=5"
+    }
+  ],
+  "brief_ko": "김지우 vs 안재석, 3루 경쟁"
+}

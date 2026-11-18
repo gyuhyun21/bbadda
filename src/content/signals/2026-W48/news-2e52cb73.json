@@ -1,0 +1,23 @@
+{
+  "id": "news-2e52cb73",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "이투데이",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB6VzFvYklXUVl1TmJDY18tTVN4Q2cycWk1MWk0UUNINUZUX2dCc3owMHA0M1JaSHAzcjBqei1WVlcteW5fejc0VjFQemRNUmtfSUljLQ?oc=5",
+  "title": "KBO 수비상 3루수 부문에 김도영⋯구본혁, 유틸리티 초대 수상",
+  "published_at": "2026-11-18T02:17:00.000Z",
+  "collected_at": "2026-11-18T07:37:58.416Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

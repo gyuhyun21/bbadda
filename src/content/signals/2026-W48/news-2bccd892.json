@@ -1,0 +1,23 @@
+{
+  "id": "news-2bccd892",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠월드",
+  "url": "https://www.sportsworldi.com/newsView/20261118508847",
+  "title": "‘어디서든 제몫’ LG 구본혁, KBO 초대 유틸리티 수비상 품었다",
+  "published_at": "2026-11-18T02:54:05.000Z",
+  "collected_at": "2026-11-18T07:37:58.416Z",
+  "summary_ko": "스포츠월드는 LG 구본혁이 초대 KBO 유틸리티 수비상을 받았다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "구본혁, 초대 유틸리티 수비상"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "news-007458d4",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "announcement": true,
+  "source_name": "MHN스포츠",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA4UmVzYUd1RUJnaGFzcksyVHhfbkZ1VWJJUHNsTkxfR2VtWFVja0E2Y185MVd1ZFhSS09ueVVCRkRBR1Z5MlBsVG0wSXZSTm1kclRBSnRUd2tPMEc1WWhFWWVlUQ?oc=5",
+  "title": "[오피셜]최지훈, 타율 2할5푼에 67억?…김호령 홍창기에겐 소속팀과 결별 메시지?",
+  "published_at": "2026-11-18T04:14:21.000Z",
+  "collected_at": "2026-11-18T07:37:58.416Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

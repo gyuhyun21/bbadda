@@ -1,0 +1,29 @@
+{
+  "id": "news-6b10abe9",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "news",
+  "announcement": true,
+  "source_name": "스포츠조선",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBuTXctYl9Oem5LZ25yT1hJNXJLZ2tHTTJQbUw0eUh5d3hIM3ZLSVpva25iVGl4d0NTYWJiMm8ybVhoUVR3UzlJWWJ0dUU1SE14Q3Y2UHBJUnFGbHd0WGpDUzRZV1h2TnFLUDZ2R2NoX2hvazNQSHFPX0VJcFJkQQ?oc=5",
+  "title": "[오피셜]'설마 KBO 최초 기록 쓰고 작별인가' 김도영 압도적 1위, SSG 키스톤 쾌거까지",
+  "published_at": "2026-11-18T02:12:34.000Z",
+  "collected_at": "2026-11-18T07:37:58.416Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 82,
+    "relevance": 80
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVE1TRFpnS2tPbkFzTll0Sk42NGR1UDk0WWpvUDBtaXdmOXNWbDdNTTU4emV0VklwdEp2T0xrckxuVU5qWFdqWE50VzV3SHNlLWpOU1htWl9oNXBCRFMwNDUyWlRIc2RQZDNEaTVNRWhQTE9ZSk5ZaU1RQjRPa3FwVEV0Zw?oc=5"
+    }
+  ]
+}

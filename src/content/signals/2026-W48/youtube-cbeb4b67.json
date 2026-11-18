@@ -1,0 +1,40 @@
+{
+  "id": "youtube-cbeb4b67",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "youtube",
+  "source_name": "야구 1티어",
+  "url": "https://www.youtube.com/watch?v=R4-bi2aICoU",
+  "title": "🔥 박동원 놓쳐도 FA 포수 영입 없다?! LG 차명석 단장 초강수…2027 안방 대격변?!",
+  "published_at": "2026-11-18T03:55:52Z",
+  "collected_at": "2026-11-18T07:37:58.416Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 11,
+    "likes": 6,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 53,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE53UnF4ejIwaGlqSTN2OTNpTEtCUG1iT0YyejJGWFRsQS1GNGM4MmVIM3ZxdUZkQWlvbGF6RjZUa2s5UDREVFVXWkpwd21iVXRGTkc5d0V0MjNDZGt5d3NaM2s1b3hhdDVHZENIQVZya9IBb0FVX3lxTE53UnF4ejIwaGlqSTN2OTNpTEtCUG1iT0YyejJGWFRsQS1GNGM4MmVIM3ZxdUZkQWlvbGF6RjZUa2s5UDREVFVXWkpwd21iVXRGTkc5d0V0MjNDZGt5d3NaM2s1b3hhdDVHZENIQVZyaw?oc=5"
+    },
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeDQxcTFjUDhFUDRTbFhLd3NMWjBtR0U5cnZJS3ZPbEE4WkJXY24zVE9iTHFhRWNUT2NEbFdCdTNtcDNwZHRWeElNVmU2VDJTUzJuVmVYNmZiTVNpUDlzanJLdDMwSEZZb18xT3BMejRFLVgtSW04NDlvSHFqS0FNdl80MA?oc=5"
+    },
+    {
+      "source_name": "미주중앙일보",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5uSkNSMXh2dEZNenFpU2F2bUZURmt3bFFHbkYyMGhra0dsN0ZIb01aU0N1YnZsSFY0VGxSb3BZaGJqQVU4Q1JZbTNLMmNTWDdhV1hxc0QwcHg4QWJla3U2YkJn?oc=5"
+    }
+  ]
+}

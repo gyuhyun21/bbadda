@@ -1,0 +1,23 @@
+{
+  "id": "news-93ee30a5",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "재경일보",
+  "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1wem0xT3ZOaXBGeWFSSll1X1VXN1owNU9NM3RBT2FBN0d4dWpDbkJnd2cyYXBmUUN6V1dMcFRSNmxFS2tORWpoYUF4UQ?oc=5",
+  "title": "한국시리즈 MVP 구자욱, 올겨울 FA 시장 최대어로 떠올라…몸값 152억원 기록 넘을까 : 스포츠",
+  "published_at": "2026-11-18T06:18:00.000Z",
+  "collected_at": "2026-11-18T07:37:58.416Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

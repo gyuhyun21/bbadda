@@ -1,0 +1,24 @@
+{
+  "id": "community-00bfe847",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 매일 유익한 하루",
+  "url": "https://blog.naver.com/leojob_jh/224481562248",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/LFy7Ca8UZnN",
+  "title": "정산금 0원 고백하고 포커판 뛰어들었던 그 소녀, 결국 195cm 전 투수와 12월 웨딩마치",
+  "published_at": "2026-11-18T09:47:00.000+09:00",
+  "collected_at": "2026-11-18T07:37:58.416Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

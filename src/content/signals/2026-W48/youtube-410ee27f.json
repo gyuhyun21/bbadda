@@ -1,0 +1,27 @@
+{
+  "id": "youtube-410ee27f",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "야구계산기",
+  "url": "https://www.youtube.com/watch?v=JM7vjSO3HPI",
+  "title": "4년 67억 받고 고민 없이 남은 최지훈 #야구 #kbo #최지훈",
+  "published_at": "2026-11-18T05:50:03Z",
+  "collected_at": "2026-11-18T07:37:58.416Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 970,
+    "likes": 6,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 42,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "news-e8bdba69",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "TSN KOREA",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBNY2hBZXhDcGJPcS1zcHViNnhlQW16LUZUdUZScWtzYnFmNlRqbExGc2RiU1BDeFhaUVBXek5tVkxFM0treVh3bnFFUk1DWnFNNWJrMXlWanNpUGFycmxSSw?oc=5",
+  "title": "KIA 김도영, 부상 딛고 화려한 부활…2026 일구대상 수상",
+  "published_at": "2026-11-18T01:56:21.000Z",
+  "collected_at": "2026-11-18T07:37:58.416Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 80
+  },
+  "sentiment": "mixed",
+  "also_in": [
+    {
+      "source_name": "노컷뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9tMVZvVldHZDBqY2lxY0FnT01NVDUya0VuVmxsLVBJLVFoWXhlRWN5ajRLZzR2U0JvTzI4U0RVbGROeDZ3QVRQMEp1NEhGZWhuN0E?oc=5"
+    }
+  ]
+}

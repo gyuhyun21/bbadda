@@ -1,0 +1,27 @@
+{
+  "id": "instagram-2cbef4c6",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "instagram",
+  "official": true,
+  "source_name": "Instagram @hanwhaeagles_soori",
+  "url": "https://www.instagram.com/p/Df3s301Ea-y/",
+  "title": "한화 이글스 공식 인스타그램: 구단 최초 KBO 수비상 수상🏆",
+  "published_at": "2026-11-18T04:58:15+0000",
+  "collected_at": "2026-11-18T07:37:58.416Z",
+  "summary_ko": "한화 공식 인스타그램이 구단 최초 KBO 수비상 수상 소식을 알렸다.",
+  "metrics": {
+    "likes": 19952,
+    "comments": 184
+  },
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "brief_ko": "구단 최초 KBO 수비상"
+}

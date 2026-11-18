@@ -1,0 +1,27 @@
+{
+  "id": "youtube-8dd9c358",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "Eagles TV",
+  "url": "https://www.youtube.com/watch?v=cGr8llg-lGI",
+  "title": "김서현과 함께 J-POP들으며 일본 밤거리 4km 러닝｜일본 미야자키",
+  "published_at": "2026-11-18T00:00:01Z",
+  "collected_at": "2026-11-18T07:37:58.416Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 65916,
+    "likes": 1466,
+    "comments": 303
+  },
+  "scores": {
+    "hot": 81,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

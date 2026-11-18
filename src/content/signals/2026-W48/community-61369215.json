@@ -1,0 +1,33 @@
+{
+  "id": "community-61369215",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha",
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 포돌스키 블로그",
+  "url": "https://blog.naver.com/dhkang2184/224481817964",
+  "title": "KBO 2026 수비상 수상자 발표, 한화 허인서 3관왕 · KIA 김도영 4관왕 유력",
+  "published_at": "2026-11-18T12:20:00.000+09:00",
+  "collected_at": "2026-11-18T07:37:58.416Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 98,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "일간스포츠",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1uRWNkY24yS3dER0pQSmFDemNPVmFzYk9WLU43aG5fSGI0Ty14emV3M1VYc3NyWXM5LWxac1A0NWF2cTRsT1FNb2plaXVMNGEzUXg4ZFNjcTFRaVM0M0FSTmhraGpoOWVn?oc=5"
+    },
+    {
+      "source_name": "한겨레",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9SLUg2VFdjWnRZczNPV0ZKOXRjMVJBNlJOVkNDRE1nNWR1OEdzalB3ZExvd1pIS0Zhc3l6d1FtalZGRHhUNjRpalgzV0cyaHNSVko2enJyT2FqNjVuV0xjTGlFWGpwWFU?oc=5"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "community-de862e78",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 리도의 생활 노트",
+  "url": "https://blog.naver.com/james_parku/224481882139",
+  "title": "타율 0.250인데 67억? 최지훈 몸값의 이유",
+  "published_at": "2026-11-18T13:12:00.000+09:00",
+  "collected_at": "2026-11-18T07:37:58.416Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

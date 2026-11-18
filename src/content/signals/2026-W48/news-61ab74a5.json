@@ -1,0 +1,22 @@
+{
+  "id": "news-61ab74a5",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "쿠키뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1MMWwtQkpFTUtKR2R6alRIQW1BYXlfQzdlTUMtb0JjZDdaNEY3UC1OdmxFUnF4cnJfbjZnUVNzLU1PLVk2NHdZSnZJX1N0d1BpdGRERFpvY3J5MEdZYmRfU2lwaw?oc=5",
+  "title": "삼성 라이온즈 우승, ‘3박자 전략’ 통했다…삼성의 자율·실용 기조 구단 운영에도 반영 [쿠키 초점]",
+  "published_at": "2026-11-17T23:56:32.000Z",
+  "collected_at": "2026-11-18T07:37:58.416Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 73,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

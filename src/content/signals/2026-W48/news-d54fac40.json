@@ -1,0 +1,24 @@
+{
+  "id": "news-d54fac40",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "www.xportsnews.com",
+  "url": "https://www.xportsnews.com/article/2220673",
+  "title": "67억 계약+1억 기부…'생애 첫 FA' 최지훈 \"다른 유니폼 입는 건 상상 못 했다\"",
+  "published_at": "2026-11-18T05:50:14.000Z",
+  "collected_at": "2026-11-18T07:37:58.416Z",
+  "summary_ko": "엑스포츠뉴스는 생애 첫 FA에서 SSG와 67억 원에 계약하고 1억 원을 기부한 최지훈이 다른 유니폼은 상상하지 못했다고 했다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "최지훈 67억 잔류, 1억 기부"
+}
