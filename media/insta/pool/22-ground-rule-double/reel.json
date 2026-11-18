@@ -1,0 +1,43 @@
+{
+  "music": "bgm-morning",
+  "subStyle": "yt",
+  "outro": { "hold": 1.5, "fade": 0.5 },
+  "pool": { "no": 22, "series": "이거 알면 야구 고수", "ep": 7, "facts": "센세 확인 2026-11-19(기사 2곳 이상, PR 본문 표)" },
+  "segments": [
+    {
+      "src": "clip1.mp4", "from": 0, "to": 14, "credit": "Valentin Anghelina", "yt": "vqwXOFplguY",
+      "say": "a1.mp3", "text": "공이 담장을 넘어갔는데 홈런이 아니라 이루타래. 왜 그럴까?",
+      "kick": "이거 알면 야구 고수 #7", "head": "담장 넘었는데<br><b>2루타?</b>", "sub": "넘어갔는데 홈런이 아니다",
+      "note": "출처: Wikipedia·Baseball-Reference · 영상: Valentin Anghelina",
+      "fx": [{ "at": 2.6, "text": "엥?", "style": "mind" }]
+    },
+    {
+      "src": "clip2.mp4", "from": 0, "to": 16, "credit": "MLB", "yt": "Bt9-RIBR04o",
+      "say": "a2.mp3", "text": "땅에 한 번 튄 뒤 담장 밖으로 나가면 인정 이루타야. 타자는 이루까지만 가.",
+      "kick": "인정 2루타", "head": "한 번 튀고 넘어가면<br><b>인정 2루타</b>", "sub": "바운드 후 담장 밖 = 인정 2루타",
+      "note": "출처: Wikipedia·Baseball-Reference · 영상: MLB",
+      "fx": [{ "at": 2.0, "text": "통!", "style": "sfx" }]
+    },
+    {
+      "src": "clip3.mp4", "from": 0, "to": 16, "credit": "MLB", "yt": "hcaB5xjUCl0",
+      "say": "a3.mp3", "text": "주자도 딱 두 베이스씩만 가. 그래서 일루 주자는 홈까지 뛰어도 삼루에 멈춰야 해.",
+      "kick": "주자는?", "head": "주자도<br><b>두 베이스만</b>", "sub": "1루 주자는 3루까지만",
+      "note": "출처: Wikipedia·Baseball-Reference · 영상: MLB",
+      "fx": [{ "at": 3.5, "text": "멈춰", "style": "stamp" }]
+    },
+    {
+      "src": "clip4.mp4", "from": 0, "to": 18, "credit": "JTBC News", "yt": "HY__wKsqN1s",
+      "say": "a4.mp3", "text": "고척돔엔 이런 일도 있었어. 한화 노시환의 높은 뜬공이 천장에 걸려 사라졌는데, 아웃 대신 인정 이루타가 됐지.",
+      "kick": "고척돔 로컬룰", "head": "천장에 걸린 공도<br><b>인정 2루타</b>", "sub": "노시환 뜬공, 천장 맞고 2루타",
+      "note": "출처: OSEN·JTBC · 영상: JTBC News",
+      "fx": [{ "at": 4.0, "text": "공 어디 갔어", "style": "mind" }]
+    }
+  ],
+  "end": {
+    "look": "profile",
+    "head": "알아 두면 더 재밌는<br><b>야구 이야기</b>",
+    "cta": "이 규칙 알았던 사람 댓글로!",
+    "say": "a5.mp3",
+    "text": "인정 이루타 원래 알았던 사람, 댓글로 알려 줘."
+  }
+}
