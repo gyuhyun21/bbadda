@@ -1,0 +1,24 @@
+{
+  "id": "news-afddbca9",
+  "issue": "2026-W48",
+  "module": "rivalry",
+  "team": "lg",
+  "teams": [
+    "lg",
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "SPOTV NEWS",
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1YWjhDUW9Vcy1aVzBPcmw2N0wwYWZIbEh2SUtfMmFHZncwcjcwUlcyRFRQY1MxUU9QcGY0czVBNmNTdThabTVpOFAwUDIyV1FDMHgtVHFjc2oyUHZYaFVrSjFJVFhhWHZIZ01VTzBwX1E?oc=5",
+  "title": "\"일도 안 하고 돈 버냐, 그렇게 살지 말자\" 단장 연봉 포기하고 코치로, 염경엽 감독 이렇게 손혁 코치 자극했다",
+  "published_at": "2026-11-18T06:18:41.000Z",
+  "collected_at": "2026-11-18T07:37:58.416Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

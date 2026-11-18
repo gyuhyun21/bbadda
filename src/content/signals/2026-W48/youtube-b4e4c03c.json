@@ -1,0 +1,26 @@
+{
+  "id": "youtube-b4e4c03c",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "youtube",
+  "source_name": "야구 사운드",
+  "url": "https://www.youtube.com/watch?v=WM0e3snsEKY",
+  "title": "NC 다이노스 박건우 응원가 Music Video",
+  "published_at": "2026-11-18T06:21:00Z",
+  "collected_at": "2026-11-18T07:37:58.416Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 22,
+    "likes": 2,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 57,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

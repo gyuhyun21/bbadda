@@ -1,0 +1,24 @@
+{
+  "id": "community-5bf0c4e7",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan",
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 국내외 다양한 스포츠 이야기",
+  "url": "https://blog.naver.com/bus5070/224481862469",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/Ac3G8RDs3LC",
+  "title": "\"구자욱 올인 선언\" 두산 외부 FA 본격 참전...삼성 감당 되나",
+  "published_at": "2026-11-18T14:36:00.000+09:00",
+  "collected_at": "2026-11-18T07:37:58.416Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

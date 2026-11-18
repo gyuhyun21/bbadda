@@ -1,0 +1,23 @@
+{
+  "id": "news-77e8730e",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠경향",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE95U3hUTi1ORTVqQnV3LVRMX3hkSzFFTzc2MVZ4VURrX0FXeWVHV2FONWdncFBzQ1BGMHRIQ3RJNlRtNGlscWI4YURmdnh5WnZldnpET3lYU1ozUTV1RTdoUWRWWdIBY0FVX3lxTE95U3hUTi1ORTVqQnV3LVRMX3hkSzFFTzc2MVZ4VURrX0FXeWVHV2FONWdncFBzQ1BGMHRIQ3RJNlRtNGlscWI4YURmdnh5WnZldnpET3lYU1ozUTV1RTdoUWRWWQ?oc=5",
+  "title": "2027 정우주, 선발이라면 혹은 선발이 아니더라도",
+  "published_at": "2026-11-17T23:38:00.000Z",
+  "collected_at": "2026-11-18T07:37:58.416Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

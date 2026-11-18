@@ -1,0 +1,23 @@
+{
+  "id": "news-892ed7b4",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "announcement": true,
+  "source_name": "스포츠조선",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBad1RWd2wwZERvODAxWjIyR2VBSmhUSGVfXzFYOENMVlpXYVd0QkltMmZGaXNHWk1uVi0zNnRPUWNsbm1XUmllN1pURkJWMkNIc0dnOHMyZHNMbVMyeVA5UXpaOENrdzBXNnB6amxKeS1naVN3T29acUJ0M1lDdw?oc=5",
+  "title": "[오피셜] 'MVP 신호탄인가' KIA 역사적 홈런왕, 김도영 일구회 대상 영광…16억 기대주는 고교야구 MVP",
+  "published_at": "2026-11-18T02:22:00.000Z",
+  "collected_at": "2026-11-18T07:37:58.416Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-165b947a",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "오마이스타",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBsQWxzOEU4cXM3Ul9RaTdQY1JDRDh5SF9heE1YcDVKNnV6WXU1Q2ZfaUJrYVB6aDFWbkdNMjhxTzlsQWpjT1ByNGxLQmZ6S05VLWlmTjc3MTBlN2hZXy1fTjBpcE5QcjBWakF5ejB6TmhISnd2Nm5kQi0xY1BvQQ?oc=5",
+  "title": "'2회 우승 포수' 박동원, 4년 전 65억 원 뛰어 넘을까",
+  "published_at": "2026-11-18T07:21:00.000Z",
+  "collected_at": "2026-11-18T07:37:58.416Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

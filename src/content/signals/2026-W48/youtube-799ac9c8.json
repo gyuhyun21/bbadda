@@ -1,0 +1,27 @@
+{
+  "id": "youtube-799ac9c8",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "SSG랜더스",
+  "url": "https://www.youtube.com/watch?v=YD3kcSYCnNE",
+  "title": "랜필의 마지막에도, 청라의 시작에도 우중최❣️",
+  "published_at": "2026-11-18T03:03:34Z",
+  "collected_at": "2026-11-18T07:37:58.416Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 33641,
+    "likes": 2205,
+    "comments": 345
+  },
+  "scores": {
+    "hot": 96,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

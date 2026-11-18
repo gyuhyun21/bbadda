@@ -1,0 +1,30 @@
+{
+  "id": "community-5025b5a6",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/10568534268",
+  "title": "최형우·박승규, 1월초부터 다시 괌으로…우승했지만 쉬지 않는다 [IS ...",
+  "published_at": "2026-11-18T00:37:58.416Z",
+  "collected_at": "2026-11-18T07:37:58.416Z",
+  "summary_ko": "",
+  "excerpt": "... 우승의 기쁨을 즐기는 와중에도 벌써 다음 시즌 준비 계획을 세웠다. 삼성 라이온즈 베테랑 강민호와…",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "일간스포츠",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE81UTczbkJiQkM3OFBHU0haTkFab0N1elJQSzB3eHFqTmdyc0RQdFBMbUtvbHZLUGgzakdoSGh6RnBZR0xpNjNIZEZReW45b1ViUHFlaDhKdnB1Ylk?oc=5"
+    }
+  ]
+}

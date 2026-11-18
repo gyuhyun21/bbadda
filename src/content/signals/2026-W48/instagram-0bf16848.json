@@ -1,0 +1,24 @@
+{
+  "id": "instagram-0bf16848",
+  "issue": "2026-W48",
+  "module": "league",
+  "teams": [],
+  "source_type": "instagram",
+  "official": true,
+  "source_name": "Instagram @kbo.official",
+  "url": "https://www.instagram.com/p/Df30VESmon9/",
+  "title": "KBO 리그 공식 인스타그램: [2026 ADT캡스 KBO 수비상]",
+  "published_at": "2026-11-18T06:03:24+0000",
+  "collected_at": "2026-11-18T07:37:58.416Z",
+  "summary_ko": "KBO 공식 인스타그램이 2026 ADT캡스 KBO 수비상 수상자를 발표했다.",
+  "metrics": {
+    "likes": 12760,
+    "comments": 144
+  },
+  "scores": {
+    "hot": 67,
+    "relevance": 30
+  },
+  "sentiment": "neutral",
+  "brief_ko": "2026 KBO 수비상 발표"
+}

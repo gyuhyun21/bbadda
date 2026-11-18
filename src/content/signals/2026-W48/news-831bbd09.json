@@ -1,0 +1,22 @@
+{
+  "id": "news-831bbd09",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "재경일보",
+  "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE00Y2hOanJJZFFtRFhwMXRoRFBOY3lRWm1mOEhJS0hwRk5MMV81bUJjeWRzR1FTSmRfU2lidFcyWDMzaXJ4RTR1cHEtdw?oc=5",
+  "title": "FA 시장에 나온 박동원…LG 염경엽이 김범석을 다시 꺼낸 이유 : 스포츠",
+  "published_at": "2026-11-18T02:57:00.000Z",
+  "collected_at": "2026-11-18T07:37:58.416Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "community-a602ddf9",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&document_srl=10569323334",
+  "title": "근데 지타 골글은 왜 있는거임? - 야구",
+  "published_at": "2026-11-18T04:37:58.416Z",
+  "collected_at": "2026-11-18T07:37:58.416Z",
+  "summary_ko": "",
+  "excerpt": "... 삼성 라이온즈 통산 WAR TOP 10 [2]. 3 분 전 Lions V9 Bihyung ...",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

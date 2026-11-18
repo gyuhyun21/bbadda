@@ -1,0 +1,26 @@
+{
+  "id": "youtube-e9191662",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "youtube",
+  "source_name": "총알탄헌병",
+  "url": "https://www.youtube.com/watch?v=JKY22q8PI70",
+  "title": "SSG 최지훈 대박 잔류 계약 #SSG랜더스 #최지훈 #야구",
+  "published_at": "2026-11-18T06:40:37Z",
+  "collected_at": "2026-11-18T07:37:58.416Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 703,
+    "likes": 3,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 40,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "youtube-f5cfcfc2",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "youtube",
+  "source_name": "국대오승환",
+  "url": "https://www.youtube.com/watch?v=pPhDaSdsPTQ",
+  "title": "롯데자이언츠 박정민 투구폼 변화 [2020~2026]",
+  "published_at": "2026-11-18T05:05:05Z",
+  "collected_at": "2026-11-18T07:37:58.416Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1134,
+    "likes": 16,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 49,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "community-1ef6b21b",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 dandelion_holssi",
+  "url": "https://blog.naver.com/dandelion_holssi/224479837486",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/Chy7GH6ZHEq",
+  "title": "배드키즈 출신 연지, 전 야구선수 강동연과 12월 12일 결혼",
+  "published_at": "2026-11-18T09:42:00.000+09:00",
+  "collected_at": "2026-11-18T07:37:58.416Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

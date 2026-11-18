@@ -1,0 +1,25 @@
+{
+  "id": "news-8110dafe",
+  "issue": "2026-W48",
+  "module": "rivalry",
+  "team": "ssg",
+  "teams": [
+    "ssg",
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "announcement": true,
+  "source_name": "스타뉴스",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1XaU5SOUNaeUMyYl94VExzQkJ6cG1aZ1RaTzJSWExNMGZXeEp0THJVUjlhRHRGTFBtcnE0U3R3cE0xRHVTZGZCRF9pVHJOdVJjTWR0YmFqMFhhSlU3cXl4OHZWR1U0cGUyS3A2TW5mRkx6RmtTVEE?oc=5",
+  "title": "[공식발표] '실책 1위 MVP' 김도영, '타격 2관왕'에 이젠 수비도 1위... KBO 수비상 발표 '에레디아 4연속 좌익수 수상'",
+  "published_at": "2026-11-18T07:20:43.000Z",
+  "collected_at": "2026-11-18T07:37:58.416Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "mixed"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-d797f801",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "남도일보",
+  "url": "https://www.namdonews.com/news/articleView.html?idxno=929696",
+  "title": "[여기는 오키나와] 일본인 코치 3인 3색 지도법 눈길…KIA ‘선수 성장’에 한마음",
+  "published_at": "2026-11-18T07:05:00.000Z",
+  "collected_at": "2026-11-18T07:37:58.416Z",
+  "summary_ko": "남도일보는 KIA 오키나와 캠프에서 일본인 코치 3명이 서로 다른 지도법으로 선수 성장을 돕는다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "일본인 코치 3인 3색 지도법"
+}

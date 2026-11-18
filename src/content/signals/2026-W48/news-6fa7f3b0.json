@@ -1,0 +1,23 @@
+{
+  "id": "news-6fa7f3b0",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠경향",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5aR2VocjRwY01ac2hpLWw4Z1hBWV9ZRzVJSDZIWm1vMEQyZHU4MEQ0UkxwS2dKZEU4MnhIWFl5U1BsOFUtT1VjX0lURE5KMklITGgwSEEwUTM2MzRyQ1MzNGJ4WdIBY0FVX3lxTE5aR2VocjRwY01ac2hpLWw4Z1hBWV9ZRzVJSDZIWm1vMEQyZHU4MEQ0UkxwS2dKZEU4MnhIWFl5U1BsOFUtT1VjX0lURE5KMklITGgwSEEwUTM2MzRyQ1MzNGJ4WQ?oc=5",
+  "title": "‘FA 계약 종료’ 원종현, 키움과 재계약 테이블 앉는다···구단은 계약 연장 긍정적",
+  "published_at": "2026-11-18T01:21:00.000Z",
+  "collected_at": "2026-11-18T07:37:58.416Z",
+  "summary_ko": "스포츠경향은 FA 계약이 끝난 원종현이 키움과 재계약 협상에 나서며 구단도 연장에 긍정적이라고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "원종현, 재계약 테이블에"
+}

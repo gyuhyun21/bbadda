@@ -1,0 +1,22 @@
+{
+  "id": "news-5260dd72",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "KBC광주방송",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ubDBrM2hhZlNKaWZDdThVNnRuUHlLWEdETjVFeHFNRHZ1b05MbzZOekdoREMzSEN3dDU1Q0IxMmNYaXJxdlJKWDlVZmc4MV80NHA0Z2VsU3Y4Zzdvb05RVQ?oc=5",
+  "title": "\"5분 만에 'V13' 완성\"…원정석을 홈으로 만든 KIA 응원단장 [핑거이슈]",
+  "published_at": "2026-11-18T01:00:02.000Z",
+  "collected_at": "2026-11-18T07:37:58.416Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

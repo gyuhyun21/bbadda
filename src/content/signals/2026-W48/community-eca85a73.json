@@ -1,0 +1,23 @@
+{
+  "id": "community-eca85a73",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&page=4&document_srl=10568464906",
+  "title": "피자도형 두산에서 나온 거 아니잖어. - 야구",
+  "published_at": "2026-11-17T23:37:58.416Z",
+  "collected_at": "2026-11-18T07:37:58.416Z",
+  "summary_ko": "",
+  "excerpt": "... 그럼 두산에서 피자도형 떠난다는 기사 뜨면엘지팬들 초비상 !!! 되는 거네.",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

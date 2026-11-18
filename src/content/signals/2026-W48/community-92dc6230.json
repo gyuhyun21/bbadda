@@ -1,0 +1,24 @@
+{
+  "id": "community-92dc6230",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 녹스스포츠",
+  "url": "https://blog.naver.com/noxnews/224481830150",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/IbtC1rrf2CC",
+  "title": "“노시환 포스팅 마감일 코앞인데 계약 소식은 감감?” MLB행 불발돼도 307억 계약은 그대로라니!ㅤ",
+  "published_at": "2026-11-18T12:34:00.000+09:00",
+  "collected_at": "2026-11-18T07:37:58.416Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

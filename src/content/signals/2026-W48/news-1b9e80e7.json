@@ -1,0 +1,23 @@
+{
+  "id": "news-1b9e80e7",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "조선일보",
+  "url": "https://www.chosun.com/sports/baseball/2026/11/18/G43DCYTEHE4GCYZUG42TEZBSGE/",
+  "title": "돈 더 주는데.. 방송 유혹 뿌리친 이유 → 김민성 코치의 진심 \"롯데라서 남았죠\" [미야자키 현장]",
+  "published_at": "2026-11-18T06:34:00.000Z",
+  "collected_at": "2026-11-18T07:37:58.416Z",
+  "summary_ko": "조선일보는 롯데 김민성 코치가 더 많은 돈을 주는 방송 제안을 뿌리치고 롯데라서 남았다고 했다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "김민성 코치 '롯데라서 남았다'"
+}

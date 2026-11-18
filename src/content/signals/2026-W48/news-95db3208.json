@@ -1,0 +1,22 @@
+{
+  "id": "news-95db3208",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE16U3pSREtXQ2taWFBXenptMDBqWnR5UmlheGdDSWpPT09pNVBhRkNuX0V5ckJOTGVhN3pXRnNwa2o2emxKdzl5VVpKNlBIU0YyQ0hGU1FrR1otdm4zM1pSYVBmRG5iZHZvdVRIaEwzZ9IBb0FVX3lxTE16U3pSREtXQ2taWFBXenptMDBqWnR5UmlheGdDSWpPT09pNVBhRkNuX0V5ckJOTGVhN3pXRnNwa2o2emxKdzl5VVpKNlBIU0YyQ0hGU1FrR1otdm4zM1pSYVBmRG5iZHZvdVRIaEwzZw?oc=5",
+  "title": "\"SSG 우승+골든글러브가 목표\" 이러면 4년 67억도 싸다, 청라시대 중견수 걱정 지웠다",
+  "published_at": "2026-11-18T04:59:48.000Z",
+  "collected_at": "2026-11-18T07:37:58.416Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

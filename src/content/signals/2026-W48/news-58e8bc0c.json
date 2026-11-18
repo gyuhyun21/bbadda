@@ -1,0 +1,28 @@
+{
+  "id": "news-58e8bc0c",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBCckI3eDVTb3duWlV6enJ2Z1lfV0I5MmluSVdYWll3djk3WG1tb05qbFp4MWlWS1JxSzZHeGtZYmp6eDNQVlhKcU94eGY3bkxPYUtHb05tMVhCUWhpalpGYXlLb09Fc0FFWGtOM2ZwWdIBb0FVX3lxTFBCckI3eDVTb3duWlV6enJ2Z1lfV0I5MmluSVdYWll3djk3WG1tb05qbFp4MWlWS1JxSzZHeGtZYmp6eDNQVlhKcU94eGY3bkxPYUtHb05tMVhCUWhpalpGYXlLb09Fc0FFWGtOM2ZwWQ?oc=5",
+  "title": "‘SSG 외인타자 교체 확정인가’ 602안타 장수 외인타자, SNS에 작별인사 “함께했던 모든 순간에 감사”",
+  "published_at": "2026-11-18T04:10:00.000Z",
+  "collected_at": "2026-11-18T07:37:58.416Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE13WjlJYkdLNEFhNWxGbS1mX1NyTnR0V2hjeGc3anNreV8yZzZ4al80Ry1EWjBIbzFTOTdKYmVPNXFiTVh0OHpKWnU0U29fdGloMlUzRQ?oc=5"
+    }
+  ]
+}

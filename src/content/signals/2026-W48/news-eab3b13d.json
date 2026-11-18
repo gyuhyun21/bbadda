@@ -1,0 +1,23 @@
+{
+  "id": "news-eab3b13d",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "news",
+  "source_name": "Chosunbiz",
+  "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbXczN2pFTTFkUzNkaHhqV1dMMUdITHRzQjlKMWE3ZHVuMnBfTTB3XzBsV1VyWU5Pa2NMNUYxMjVEbXlFNVJaWk9uWVFSNkZkZngxR0pQTU5XZFNWeGxEeGhBU2x3WGhPU2lXOU1VTm01SHBkWXBjcll3N2tnb1ZRVXQxV1RIZGw4WWfSAZ4BQVVfeXFMUDYwYlM2VlNWSXN5VUNEYUV1UVF4XzR1NlkzUGhFUUdNOU43WTJ0cWJYVDcxalRfa09MWWVVM2k1V0FqeWZibzB3Ykt0aWNYczU2Vk1VTnlzTVF5bXVvZS1WZGhndlhyWHpueDBpTXFvZktGWHZaeGY1TVBmdmtzMFlqbDkwU2JyUm1HVlJYZ3diakY4UVVuRFZHUDlEWFE?oc=5",
+  "title": "한화 이글스 홈 경기 때 대전 방문객 2.5배 늘어… 가평 관광객 체류일수, 비수기가 더 길어",
+  "published_at": "2026-11-18T05:01:00.000Z",
+  "collected_at": "2026-11-18T07:37:58.416Z",
+  "summary_ko": "Chosunbiz는 한화 홈 경기가 있는 날 대전 야구장 주변 방문객이 2.5배 늘었다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 50
+  },
+  "sentiment": "neutral",
+  "brief_ko": "홈 경기 날 대전 방문객 2.5배"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "youtube-68eeef2f",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha",
+    "samsung",
+    "doosan",
+    "kt",
+    "nc"
+  ],
+  "source_type": "youtube",
+  "source_name": "최강볼펜",
+  "url": "https://www.youtube.com/watch?v=Kh4lu0TTz04",
+  "title": "재편성 10구단 모두 꼭 보세요 | 한화 투수 키맨 조동욱 | 삼성 이승민 44%와 싸움 | 윈나우 두산 우승 조건 | KT 안현민 색깔 회복 | NC의 갑자기 | 최강볼펜 286",
+  "published_at": "2026-11-18T05:50:09Z",
+  "collected_at": "2026-11-18T07:37:58.416Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 5884,
+    "likes": 254,
+    "comments": 14
+  },
+  "scores": {
+    "hot": 83,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

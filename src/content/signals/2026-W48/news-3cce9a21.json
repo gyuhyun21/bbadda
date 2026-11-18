@@ -1,0 +1,24 @@
+{
+  "id": "news-3cce9a21",
+  "issue": "2026-W48",
+  "module": "rivalry",
+  "team": "lg",
+  "teams": [
+    "lg",
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1OTldGQ29IRjZ4dDBBYWhWRVotZ21YMExnQmNOQ1U4djNFeHVZdTNMdjZhYVRNUTBVQjh0M3VfMVNpcHBCOFdBeHRQNlVpWDZYWTltTmZjV0VVMkY0SnNnYTBLelU0OXZXWUY5ZEZfQkk4ZUtxVFNBZXJSbnB6Zw?oc=5",
+  "title": "\"내가 아는 최고의 열정을 가진 지도자\" 염갈량이 얼마나 믿는지 감도 안온다. '감독→단장→코치' 28년만에 유광점퍼 입은 손혁",
+  "published_at": "2026-11-18T00:29:40.000Z",
+  "collected_at": "2026-11-18T07:37:58.416Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 73,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

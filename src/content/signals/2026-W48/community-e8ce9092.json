@@ -1,0 +1,24 @@
+{
+  "id": "community-e8ce9092",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 덕이매거진 | 스포츠에 진심인 덕후 오리",
+  "url": "https://blog.naver.com/schinmagazine/224482077643",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/ByscT1R7FzM",
+  "title": "‘우승 공약은 계속된다’ 강민호, 11월 28일 강식당4 진행 예정",
+  "published_at": "2026-11-18T15:28:00.000+09:00",
+  "collected_at": "2026-11-18T07:37:58.416Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

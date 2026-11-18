@@ -1,0 +1,23 @@
+{
+  "id": "community-d39ed55c",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 오늘의 스포츠",
+  "url": "https://blog.naver.com/pick_n_log/224481848264",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/C9NGAGNCfsc",
+  "title": "[KBO] 김태군 놓치면 한준수 혼자? KIA가 37세 포수를 쉽게 포기할 수 없는 이유???",
+  "published_at": "2026-11-18T14:19:00.000+09:00",
+  "collected_at": "2026-11-18T07:37:58.416Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

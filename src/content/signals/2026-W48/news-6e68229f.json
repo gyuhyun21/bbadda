@@ -1,0 +1,22 @@
+{
+  "id": "news-6e68229f",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "news",
+  "source_name": "재경일보",
+  "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9MOWJRNkExbk5nczFjTnI5d1daQUxsOHFxTF9qX21kbkpxMHhscVg4bm5DbVdvUE0wV2w3a3o2M3c3VlVMcXlZWE1sTQ?oc=5",
+  "title": "양의지 잡은 두산, 구자욱·원태인 영입전에도 뛰어들까 : 스포츠",
+  "published_at": "2026-11-18T02:28:00.000Z",
+  "collected_at": "2026-11-18T07:37:58.416Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 80
+  },
+  "sentiment": "neutral"
+}

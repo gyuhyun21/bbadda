@@ -1,0 +1,24 @@
+{
+  "id": "community-8a12c5bb",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&page=4&document_srl=10568461002",
+  "title": "야구는 팬덤이 부럽긴하다 평일 에버랜드에 2000명이나 모이네",
+  "published_at": "2026-11-17T23:37:58.416Z",
+  "collected_at": "2026-11-18T07:37:58.416Z",
+  "summary_ko": "",
+  "excerpt": "... 고을 대구는 연옌들이 없으니 삼성라이온즈가 대구에서는 bts 그자체지 ... 삼성라이온즈 영결 필수 코스 [12].…",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

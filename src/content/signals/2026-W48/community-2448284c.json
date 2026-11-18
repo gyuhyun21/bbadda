@@ -1,0 +1,24 @@
+{
+  "id": "community-2448284c",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 플레이픽",
+  "url": "https://blog.naver.com/playfolio_/224481857666",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/GziXVoDhzME",
+  "title": "김도영 45홈런 치더니 결국…일구회가 주목한 건 따로 있었다",
+  "published_at": "2026-11-18T12:52:00.000+09:00",
+  "collected_at": "2026-11-18T07:37:58.416Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

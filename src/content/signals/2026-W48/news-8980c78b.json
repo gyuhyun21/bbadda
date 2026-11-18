@@ -1,0 +1,24 @@
+{
+  "id": "news-8980c78b",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE82SmZNS01faUFrUGM0Ulo3VUZGb1BnT2ppTmVzZEtLbEZHb2U2V1NCRzNLWWxmUnowV1VYLXJLYlY2a2xTSFZQUmRmQmM3dklGN0w3LVJOVjRZZmFkMldEVW5BOWFvamtxaXptejRmazA4MzBoYmFLa0tiaTF2Zw?oc=5",
+  "title": "김택연 충격 발언? \"팀에서 선발 하라면 준비해야 한다\" 무슨 의미? [미야자키 현장]",
+  "published_at": "2026-11-18T01:07:07.000Z",
+  "collected_at": "2026-11-18T07:37:58.416Z",
+  "summary_ko": "스포츠조선은 두산 김택연이 팀에서 선발을 하라면 준비해야 한다고 말했다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "negative",
+  "brief_ko": "김택연 '선발하라면 준비'"
+}

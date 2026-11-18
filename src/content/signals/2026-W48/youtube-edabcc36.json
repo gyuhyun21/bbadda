@@ -1,0 +1,26 @@
+{
+  "id": "youtube-edabcc36",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "youtube",
+  "source_name": "베플 (Baseball Playlist)",
+  "url": "https://www.youtube.com/watch?v=Lf0UkngOUCo",
+  "title": "'국대 사나이' NC 다이노스 김휘집 응원가 Music Video",
+  "published_at": "2026-11-18T05:54:46Z",
+  "collected_at": "2026-11-18T07:37:58.416Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 12,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 14,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

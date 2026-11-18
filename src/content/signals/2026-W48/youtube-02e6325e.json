@@ -1,0 +1,27 @@
+{
+  "id": "youtube-02e6325e",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "LionsTV",
+  "url": "https://www.youtube.com/watch?v=5alVuxMwhQ0",
+  "title": "[BLUE WINKLY] 2026 플레이오프 몰아보기 (10.26 ~ 11.01)",
+  "published_at": "2026-11-18T07:00:07Z",
+  "collected_at": "2026-11-18T07:37:58.416Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 3339,
+    "likes": 269,
+    "comments": 16
+  },
+  "scores": {
+    "hot": 84,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "community-b3de05f7",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 스포츠 헌터의 핫이슈 브리핑",
+  "url": "https://blog.naver.com/tongtii/224481881253",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/2OnFLOoWf6J",
+  "title": "🏆 구본혁 KBO 수비상 초대 수상자 등극의 순간",
+  "published_at": "2026-11-18T13:11:00.000+09:00",
+  "collected_at": "2026-11-18T07:37:58.416Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 99,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBzV0otZ19heW94NlZ0eGlRWmUzd3JUVTk5WGJiWW8wNVhmUFljU0JVTHpueW9RQlQxaXpJVk9Zczh1YXktWnY3UE9aRFF3TFRLQVlaTHA3QWx5a3VtOE5QazV2ZUdyVVNBYXF0TDBRWGdJOVp0VXVvadIBeEFVX3lxTFBzV0otZ19heW94NlZ0eGlRWmUzd3JUVTk5WGJiWW8wNVhmUFljU0JVTHpueW9RQlQxaXpJVk9Zczh1YXktWnY3UE9aRFF3TFRLQVlaTHA3QWx5a3VtOE5QazV2ZUdyVVNBYXF0TDBRWGdJOVp0VXVvaQ?oc=5"
+    },
+    {
+      "source_name": "스포츠동아",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1jRGt6NkRqZTR1UmgyVDdXOGROdVlGQ3dOWWVyaG1HMTA5S1VxZjk1aTBBWWo0NWVTNG5TV3lZOU1WXzRUN2VHdFRCalMzdkluY2xDd1F3NndLSHA4NWhncVlsN3dFZGdqaDVNZWJfclVpQQ?oc=5"
+    }
+  ]
+}

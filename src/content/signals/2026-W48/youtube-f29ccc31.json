@@ -1,0 +1,27 @@
+{
+  "id": "youtube-f29ccc31",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "Eagles TV",
+  "url": "https://www.youtube.com/watch?v=EisdBi_lks0",
+  "title": "2026 최고의 포수 허인서",
+  "published_at": "2026-11-18T05:10:18Z",
+  "collected_at": "2026-11-18T07:37:58.416Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 25941,
+    "likes": 2216,
+    "comments": 154
+  },
+  "scores": {
+    "hot": 95,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

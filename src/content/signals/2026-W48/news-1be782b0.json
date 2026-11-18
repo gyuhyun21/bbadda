@@ -1,0 +1,24 @@
+{
+  "id": "news-1be782b0",
+  "issue": "2026-W48",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "마이데일리",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5HSlNUVk9uMmxPX1FOaVpNMEYzTEhqdnRRQUVuRnRtODJFWWg5RF9zOHpBQU5YZDJkNkluU0loeTNCWFRmakgwTFNkWlBKYlNyVWMxbTcwcFZMOFBiVm9YLQ?oc=5",
+  "title": "“언젠가는 (감독)하고 싶죠, 그런데 그 언젠가는…” 이승엽은 언제 어떻게 돌아올까, 예능·유튜버는 아니다",
+  "published_at": "2026-11-18T00:00:00.000Z",
+  "collected_at": "2026-11-18T07:37:58.416Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 73,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

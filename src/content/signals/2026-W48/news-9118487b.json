@@ -1,0 +1,23 @@
+{
+  "id": "news-9118487b",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "SBS 뉴스",
+  "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008852189",
+  "title": "[인터뷰] '한국시리즈 우승' 삼성 강민호가 직접 뽑은 승부처는?…\"최형우는 범접할 수 없는 레전드, 구자욱·원태인 남아줄 것이라 생각\"",
+  "published_at": "2026-11-18T07:27:06.000Z",
+  "collected_at": "2026-11-18T07:37:58.416Z",
+  "summary_ko": "SBS는 강민호가 직접 한국시리즈 승부처를 꼽고 최형우를 범접할 수 없는 레전드라고 했다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 80
+  },
+  "sentiment": "positive",
+  "brief_ko": "강민호가 뽑은 KS 승부처"
+}

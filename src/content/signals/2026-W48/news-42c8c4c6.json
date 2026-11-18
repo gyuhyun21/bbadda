@@ -1,0 +1,23 @@
+{
+  "id": "news-42c8c4c6",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "SPOTV NEWS",
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBvdkppX0xORnlwM0xKV0ZFazlKYmFkblk3TGpDcXpmNlZLeDNBa1d5RVVjekl3LU1wMG95VjF6eE5tb29QVWdSenIzS25YaEVGSHR2a2NxZTd3XzBpTS00d3pkQU9qbzBoUzYzWG45eVQ?oc=5",
+  "title": "“왜 고등학교 때 야구 잘했는지 알겠다” 특급 재능의 귀환, 기대치도 다시 귀환했다",
+  "published_at": "2026-11-18T07:20:00.000Z",
+  "collected_at": "2026-11-18T07:37:58.416Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "community-511a902b",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 꽉형의 쓰포츠생생통",
+  "url": "https://herr-kwak.tistory.com/3256",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/FFxpo0V5pSJ",
+  "title": "2026 KBO 수비상 수상자 선정. '실책왕 오명 씻은 김도영'부터 '4연속 수상 에레디아'까지! 2026 KBO...",
+  "published_at": "2026-11-18T15:57:21.000+09:00",
+  "collected_at": "2026-11-18T07:37:58.416Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "mixed",
+  "also_in": [
+    {
+      "source_name": "https://www.2news.co.kr/",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBWSGVFVlNrZ2tUa3I4OGJNRndRaFBaR3BBQjZISGU1MXBJMDdxWVQxTlhjeGtuSUhoUnZkSzZycGRPOXA4elAxbFZZV1ZLNTVJektDYUwtN2dic1FvM0QtZEdzT2x2a1Zu?oc=5"
+    }
+  ]
+}
