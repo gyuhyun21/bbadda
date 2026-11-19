@@ -1,0 +1,26 @@
+{
+  "id": "news-6a456f27",
+  "issue": "2026-W48",
+  "module": "league",
+  "teams": [],
+  "source_type": "news",
+  "source_name": "노컷뉴스",
+  "url": "https://m.nocutnews.co.kr/news/amp/6609504",
+  "title": "45홈런 김도영 vs 197탈삼진 곽빈…KBO MVP 누가 될까",
+  "published_at": "2026-11-19T05:37:00.000Z",
+  "collected_at": "2026-11-19T07:37:54.242Z",
+  "summary_ko": "노컷뉴스는 45홈런 김도영과 197탈삼진 곽빈이 KBO MVP를 다투며 26일 시상식에서 주인공이 가려진다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 99,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "아시아투데이",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBDOHpJU1J4RWdZOE1nUWotNWRudzhva0ZOTU9qeGVMZE1TT1F2TnRIOFNVQnM0cjVIOTI5dG1mSFFqZ3NpeEthLUgzb0IyY05EMzZxQ3dUaXB0ZmVSTjJpRWtwMGtCMzJDclB0X19R?oc=5"
+    }
+  ],
+  "brief_ko": "MVP, 김도영이냐 곽빈이냐"
+}

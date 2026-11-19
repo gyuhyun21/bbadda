@@ -1,0 +1,50 @@
+{
+  "id": "community-55152937",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 JetNews",
+  "url": "https://jetnews.tistory.com/106",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/FKkLdZ4QBsE",
+  "title": "허구연 3연임 확정? 만장일치로 2029년까지 KBO 총재",
+  "published_at": "2026-11-19T15:00:20.000+09:00",
+  "collected_at": "2026-11-19T07:37:54.242Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 99,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE10Q2lBdlJMR0trWWlSSlNhQXdkSVNjakV0M0lMaUZpcnlNZFktUHVNVm10eDhFR3ZRcFJBb2p5MUNlX09EQm53SVlTMV9JWm44Ujk5SlpuMVB2dERpeWlkWXZBNU9YdGxjekx0M0U1d9IBb0FVX3lxTE10Q2lBdlJMR0trWWlSSlNhQXdkSVNjakV0M0lMaUZpcnlNZFktUHVNVm10eDhFR3ZRcFJBb2p5MUNlX09EQm53SVlTMV9JWm44Ujk5SlpuMVB2dERpeWlkWXZBNU9YdGxjekx0M0U1dw?oc=5"
+    },
+    {
+      "source_name": "뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBjUFFnSmpkaUtfZXRfZWZFSkFwdlBrNDUxOTdKb3VSN1BKVlY0RGtqcVNlVi1KSXNzaGxlek1uTnBUak90WXc3UjlRNUhPb2Q1SzR0RTQzZFlxb2QzQ3BVak5DRjJpQkRLRFRHR3ViU1lHajl1Nzc3VtIBeEFVX3lxTFBjUFFnSmpkaUtfZXRfZWZFSkFwdlBrNDUxOTdKb3VSN1BKVlY0RGtqcVNlVi1KSXNzaGxlek1uTnBUak90WXc3UjlRNUhPb2Q1SzR0RTQzZFlxb2QzQ3BVak5DRjJpQkRLRFRHR3ViU1lHajl1Nzc3Vg?oc=5"
+    },
+    {
+      "source_name": "강원도민일보",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5nWUxGVVBjTTdaaXJvR3ZOVzRST3JzSWN1c2RzU2tsUDBLYmJUM1dqUEtxYkdUUnZQeXZmSGxpaUkwSDNrU1Q4aG0xeENaU1pCZjhVLVhzUDA0d01SbFlsMlQtdENEb0hN?oc=5"
+    },
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWEp6d2hqLS1FQjRuSEJOcmc3S0NGUVpxVjREWmNvQkZHeFZ0eFkyLWtBZnVhWDktM2VwT2JmQTlsVVdRU3VzS0tzdVRQNjFPVHRVMm5ib01WMGlEbUMzb3B0X1VxWkUtVk81bUhweHRrdFg2SmYwV0NUbVVlMnZmSEdQZw?oc=5"
+    },
+    {
+      "source_name": "마이데일리",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4waHdJY2E1NTNTMHIwd3F6Zmlyd3phNTBVNjA1d05kZHdBYlhJSmFkd051YUdYMG1sYUhpeDdwM1A4dzRHUHMweGJaeTJVYVhhT2RZVnNPNW9vYTBMd0tLWW9zekFDUQ?oc=5"
+    },
+    {
+      "source_name": "코리아이글뉴스",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4yU2ZSYmsyang0c3V2OXlpLXJ2LVRxcVFtTW1xb185RHlBMFk1b0lvQVhWQktQS0puNkYtc1F6TW91cUZsb1l2SVgtTTlESV9FN3JyckpZV2R1RHVlQUtuZU9ycTR0YWRUUU5VWUN4MVg1M2s?oc=5"
+    }
+  ]
+}

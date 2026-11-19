@@ -1,0 +1,26 @@
+{
+  "id": "youtube-45f150a7",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "youtube",
+  "source_name": "피클이의 야구 세상",
+  "url": "https://www.youtube.com/watch?v=klBkhmtNHm4",
+  "title": "키움, 외국인 4명 구성 완료. 알칸타라 110만 달러 재계약",
+  "published_at": "2026-11-19T04:32:27Z",
+  "collected_at": "2026-11-19T07:37:54.242Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 653,
+    "likes": 2,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 39,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

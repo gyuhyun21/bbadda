@@ -1,0 +1,24 @@
+{
+  "id": "community-7feb65e2",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/10573298423",
+  "title": "그냥 김태형 시키는게 맞지않나 - 야구",
+  "published_at": "2026-11-19T03:37:54.242Z",
+  "collected_at": "2026-11-19T07:37:54.242Z",
+  "summary_ko": "",
+  "excerpt": "... 롯데자이언츠 11 분 전. 두산애들 썰보니까 해줘 메타로 단기전의 신 된것처럼 보임 실제로 롯데시절에…",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

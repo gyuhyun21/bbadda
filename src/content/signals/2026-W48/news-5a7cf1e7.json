@@ -1,0 +1,28 @@
+{
+  "id": "news-5a7cf1e7",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "news",
+  "source_name": "이투데이",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1KSTRYVGZ5MG5CbDdfQ004V1RhUllINUx3MWdONF9mUHlVNldyRDU3Y1ZvTTRQNFNzTlc4dkVubmRrUE1JWi01OUZYTDM0LWV4akZTaw?oc=5",
+  "title": "키움, 외국인 타자 2명 체제 유지⋯알칸타라 잔류ㆍ후쿠타니 영입",
+  "published_at": "2026-11-19T01:10:00.000Z",
+  "collected_at": "2026-11-19T07:37:54.242Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "데일리스포츠한국",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1oQTc3VE1LcWxKN3hIb0VWTVBmYTlJNmVwckRkdnB5UUhWRWVqUTVrUUtIb0p4b2puVDFMZlFLY0pHMTNwRkpWMFZhMUhPd3kxTUF6WjhyV3J0NGpWUHduRmRrQnVJZ0F2U3NTNkdsNGhKZER6Y2M2ZV9xMNIBf0FVX3lxTE9rQ0NaSkN5NjlFc2dBbGtWdG1za2RmVFM3MktyTEJwak5TR3pjRFJDY0dJdVFLNm11dGZsTGxtQkdpSmw4TkM0Rlhjc1dWcDNXZjJOc0V5cHBwTEFxUTlpMUtSeHpBaXdWSnYweGdlZGNJakdxY01SNnAzcVJWa2c?oc=5"
+    }
+  ]
+}

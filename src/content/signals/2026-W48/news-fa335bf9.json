@@ -1,0 +1,24 @@
+{
+  "id": "news-fa335bf9",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "미주중앙일보",
+  "url": "https://www.koreadaily.com/article/20261118224050390",
+  "title": "“2연패 위해 불펜 더 강해져야” 박진만 감독이 기다리는 필승 카드…이호성, 재활 순항에 기대감 UP",
+  "published_at": "2026-11-19T06:40:00.000Z",
+  "collected_at": "2026-11-19T07:37:54.242Z",
+  "summary_ko": "미주중앙일보는 박진만 감독이 2연패를 위해 불펜 강화를 강조하며 재활이 순조로운 이호성을 기다린다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "negative",
+  "brief_ko": "2연패 카드, 이호성 재활 순항"
+}

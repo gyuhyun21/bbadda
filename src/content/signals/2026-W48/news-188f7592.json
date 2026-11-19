@@ -1,0 +1,27 @@
+{
+  "id": "news-188f7592",
+  "issue": "2026-W48",
+  "module": "rivalry",
+  "team": "lg",
+  "teams": [
+    "lg",
+    "hanwha",
+    "samsung",
+    "kt",
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "관광레저신문",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9NN2tvTVFTRzM3cGpZYTgzUmJHTExlbWptcXpPTXRmYjhTUW1WVzQwR2dCblZxRVJhemVxZXRpekw3QWVGRkp1MVd0TnZ6YVRkaHFOYmpCcU1UcldNVFlKTnlmdUIyM3o0Y1E?oc=5",
+  "title": "[여행 랭킹] 2026 KBO 리그 10구단 매진 경기 순위",
+  "published_at": "2026-11-19T02:30:00.000Z",
+  "collected_at": "2026-11-19T07:37:54.242Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 98,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

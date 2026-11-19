@@ -1,0 +1,22 @@
+{
+  "id": "news-764b9a04",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "JTBC",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA2aGZLLXBsWVUtejJiY3hfWE9DYXNobDRNQUwtQTBiMndrcVBjNUtYWWpvV0hpb0dXcEpXUFVkVTF3czczclowQzNwVVhjSWtvejN5eg?oc=5",
+  "title": "마이크 잡고 구수하게 노래부르는 강민호·최형우, 삼성 워크숍에서 무슨 일이?…FA시장은 '구자욱 쟁탈전'",
+  "published_at": "2026-11-19T05:25:00.000Z",
+  "collected_at": "2026-11-19T07:37:54.242Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 80
+  },
+  "sentiment": "neutral"
+}

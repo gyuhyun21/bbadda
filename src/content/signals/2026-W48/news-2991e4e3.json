@@ -1,0 +1,23 @@
+{
+  "id": "news-2991e4e3",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "www.xportsnews.com",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9jTWJxVDRNLWFmX0RYa3IwdDU2a0xkeERad19LNFBJMDF4dDlXb2tiVkxEN0ZjTHp1dG1KM1llWXg5VTB1d1BPWkw1VUl3R1pEdlZkYw?oc=5",
+  "title": "84G 출전에도 \"아직 내 자리 없다\"…9R 내야수, 만족 모른다 [가고시마 인터뷰]",
+  "published_at": "2026-11-19T02:51:57.000Z",
+  "collected_at": "2026-11-19T07:37:54.242Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

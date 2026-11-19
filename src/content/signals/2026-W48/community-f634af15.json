@@ -1,0 +1,22 @@
+{
+  "id": "community-f634af15",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 이슈이슈의 블로그",
+  "url": "https://blog.naver.com/ryoo1173/224482006242",
+  "title": "SSG 랜더스 최지훈 4년 67억 계약, 그런데 66억만 받겠다고 한 이유는?",
+  "published_at": "2026-11-18T14:39:00.000+09:00",
+  "collected_at": "2026-11-19T07:37:54.242Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 59,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

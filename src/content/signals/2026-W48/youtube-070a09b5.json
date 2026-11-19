@@ -1,0 +1,26 @@
+{
+  "id": "youtube-070a09b5",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "youtube",
+  "source_name": "혜림tv",
+  "url": "https://www.youtube.com/watch?v=AjkyNg8IXbM",
+  "title": "NC다이노스 27년 아기공룡 박보승 선수 NC의 미래",
+  "published_at": "2026-11-19T07:02:12Z",
+  "collected_at": "2026-11-19T07:37:54.242Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 289,
+    "likes": 2,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 37,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

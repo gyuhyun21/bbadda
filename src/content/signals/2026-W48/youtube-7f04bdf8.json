@@ -1,0 +1,27 @@
+{
+  "id": "youtube-7f04bdf8",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "키움히어로즈",
+  "url": "https://www.youtube.com/watch?v=ejc913pN_l0",
+  "title": "안녕하세요 후쿠타니 코지입니다✨ | 2027시즌 아시아쿼터 계약",
+  "published_at": "2026-11-19T04:00:19Z",
+  "collected_at": "2026-11-19T07:37:54.242Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 9035,
+    "likes": 259,
+    "comments": 80
+  },
+  "scores": {
+    "hot": 80,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "news-c6d15cd5",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스1",
+  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE91Q2FRM0JPOFZaMGpwSjY4bzBPVkduRDdrYklMc21EM2tvSk50MW9kQ3NCQkktZGJYSGpIVVJYVjRzcjFhajNuU2g2Sml0RklvMUYxT3BHVQ?oc=5",
+  "title": "프로야구 KIA, 28일 '호랑이 가족 한마당 갸동제' 개최",
+  "published_at": "2026-11-19T05:41:08.000Z",
+  "collected_at": "2026-11-19T07:37:54.242Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

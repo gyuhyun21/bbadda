@@ -1,0 +1,23 @@
+{
+  "id": "news-3ab1d1f1",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠경향",
+  "url": "https://sports.khan.co.kr/article/202611191403003/amp",
+  "title": "국대 배터리·수비상 콤비·최지훈의 잔류…기대감 키우는 SSG 센터라인",
+  "published_at": "2026-11-19T05:03:00.000Z",
+  "collected_at": "2026-11-19T07:37:54.242Z",
+  "summary_ko": "스포츠경향은 국가대표 배터리·수비상 콤비·최지훈 잔류로 SSG 센터라인 기대감이 커진다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "센터라인 기대감 커진다"
+}

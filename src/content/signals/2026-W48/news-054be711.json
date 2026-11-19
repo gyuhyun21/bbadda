@@ -1,0 +1,23 @@
+{
+  "id": "news-054be711",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "데일리안",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBYNVhBTDg2c2h5WTVIUGZ4MDBRcFR1a0ptb0ZndC1fRjN0NFhHX0hHRjRhaDhiYkczWmJsUXFXNFVWM1dzZzYydTFDbmhNallJeHVDWA?oc=5",
+  "title": "'0.250' 최지훈 67억? FA 시장 과열 조짐…외야수 미소",
+  "published_at": "2026-11-18T23:45:00.000Z",
+  "collected_at": "2026-11-19T07:37:54.242Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

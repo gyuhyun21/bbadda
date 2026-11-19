@@ -1,0 +1,23 @@
+{
+  "id": "news-d0645650",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "news",
+  "source_name": "노컷뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB1WG4xM29TUVhOM2stbVFNcm0yYU9CRUhPWmp3d0J0aEV4djREbWdUUWdydVJDalNWcTZ4LXZMX0EyUWZQN3pwNDc4aG5GaFQwUUtNYQ?oc=5",
+  "title": "'또 외인 타자 2명 체제' 키움, 2027 외인 퍼즐 완성…기존 3명 잔류",
+  "published_at": "2026-11-19T00:20:00.000Z",
+  "collected_at": "2026-11-19T07:37:54.242Z",
+  "summary_ko": "노컷뉴스는 키움이 기존 외국인 선수 3명과 재계약하며 다시 외국인 타자 2명 체제로 2027 외인 구성을 마쳤다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "외인 3명 잔류, 또 타자 2명"
+}

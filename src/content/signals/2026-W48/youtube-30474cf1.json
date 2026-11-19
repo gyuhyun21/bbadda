@@ -1,0 +1,26 @@
+{
+  "id": "youtube-30474cf1",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "youtube",
+  "source_name": "KBO Diamond 24H",
+  "url": "https://www.youtube.com/watch?v=x18AejnWJDI",
+  "title": "롯데에 이미 해답이 있었다? 타율 0.285 장두성, 주전 중견수의 새로운 대안!",
+  "published_at": "2026-11-19T05:30:20Z",
+  "collected_at": "2026-11-19T07:37:54.242Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 304,
+    "likes": 14,
+    "comments": 5
+  },
+  "scores": {
+    "hot": 72,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-016710e0",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "매일신문",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBfUUlQTW5BWGJseUhydS1nOUY0NmNGTmd3RUlCdTNvMGd3R1pYUm9Pemw3WUI3WjBkWThKQjRWNW9xa05odHpQNHNJRS1TaHJ6WFlmSnd4Tlo1dTZkRXpRTFVR?oc=5",
+  "title": "히우라, 시즌 내내 OPS 0.811…80만달러 재계약이 불안한 이유",
+  "published_at": "2026-11-19T06:56:08.000Z",
+  "collected_at": "2026-11-19T07:37:54.242Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-407c1b17",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "SPOTV NEWS",
+  "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1020724",
+  "title": "KIA 박찬호-최형우 동시 이탈 악몽 떠오르나… 집안 단속 총력전 예고, 외부 FA는 그 다음이다",
+  "published_at": "2026-11-19T03:27:32.000Z",
+  "collected_at": "2026-11-19T07:37:54.242Z",
+  "summary_ko": "SPOTV NEWS는 박찬호·최형우 동시 이탈을 겪었던 KIA가 이번엔 집안 단속에 총력을 기울이고 외부 FA는 그다음이라고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 80
+  },
+  "sentiment": "negative",
+  "brief_ko": "집안 단속 먼저, 외부 FA는 다음"
+}

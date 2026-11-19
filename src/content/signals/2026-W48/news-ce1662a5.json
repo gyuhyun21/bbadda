@@ -1,0 +1,29 @@
+{
+  "id": "news-ce1662a5",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "MHN스포츠",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBBOEo5VkJ5d0hrZlRaVHBOc2E2Q2MtaFh2aU9nd2EtQno4Y1VSVFZwc2ExODlXNmNDZDFiWXBBMVM2akUyNFNEd1cwZWdOQnUxTG15LXlVWHR1Q1R5VmVaOHBrWQ?oc=5",
+  "title": "KBO 홀드왕→\"日서도 홀드왕 차지할 수 있도록\"…스기모토, 소프트뱅크서 새 출발 각오",
+  "published_at": "2026-11-19T01:56:43.000Z",
+  "collected_at": "2026-11-19T07:37:54.242Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 82,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9PVkx2aGJOTGN4ZEMwTl9OZVpuUko1OHR2TlFlY3pNMTNoemhucldiVmZuRGdjY0l3OTZqU29sRDlmMUp0RlNya3duY0lydTRjc3d4emllcUN2aVV3SF9tRtIBYEFVX3lxTE9PVkx2aGJOTGN4ZEMwTl9OZVpuUko1OHR2TlFlY3pNMTNoemhucldiVmZuRGdjY0l3OTZqU29sRDlmMUp0RlNya3duY0lydTRjc3d4emllcUN2aVV3SF9tRg?oc=5"
+    }
+  ]
+}

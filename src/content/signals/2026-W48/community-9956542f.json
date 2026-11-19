@@ -1,0 +1,23 @@
+{
+  "id": "community-9956542f",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 blog41026 님의 블로그",
+  "url": "https://blog41026.tistory.com/320",
+  "title": "야구의 역사이야기",
+  "published_at": "2026-11-19T13:04:36.000+09:00",
+  "collected_at": "2026-11-19T07:37:54.242Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

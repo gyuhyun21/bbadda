@@ -1,0 +1,26 @@
+{
+  "id": "youtube-c0fc96ce",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "youtube",
+  "source_name": "쇼핑잇",
+  "url": "https://www.youtube.com/watch?v=eh0yzscq7Tw",
+  "title": "빅리그 버리고 한국행 택한 거포 #SSG랜더스 #KBO #야구",
+  "published_at": "2026-11-19T04:09:30Z",
+  "collected_at": "2026-11-19T07:37:54.242Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1373,
+    "likes": 12,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 47,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

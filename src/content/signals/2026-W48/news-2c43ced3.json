@@ -1,0 +1,23 @@
+{
+  "id": "news-2c43ced3",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202611190838400274",
+  "title": "샴페인 마르기도 전에 찾아온 'FA 3중고'… 왕조 재건 노리는 삼성, 외부 FA는 신경쓸 틈 조차 없다",
+  "published_at": "2026-11-19T00:00:00.000Z",
+  "collected_at": "2026-11-19T07:37:54.242Z",
+  "summary_ko": "파이낸셜뉴스는 우승 샴페인이 마르기도 전에 'FA 3중고'를 맞은 삼성이 외부 FA에 신경 쓸 틈이 없다고 짚었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 73,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "우승 뒤 찾아온 FA 3중고"
+}

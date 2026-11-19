@@ -1,0 +1,23 @@
+{
+  "id": "community-a887a753",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "community",
+  "source_name": "엠엘비파크",
+  "url": "https://mlbpark.donga.com/mp/b.php?p=1&b=news&id=202611130120075813",
+  "title": "SSG, 박재상 신임 퓨처스팀 감독 선임",
+  "published_at": "2026-11-12T15:00:00.000Z",
+  "collected_at": "2026-11-19T07:37:54.242Z",
+  "summary_ko": "",
+  "excerpt": "... ... SSG가 박재상 육성군 총괄 코치를 신임 퓨처스(2군)팀 감독으로 선임했다. 사진제공ㅣSSG 랜더스. [스포츠동아 강산…",
+  "metrics": {},
+  "scores": {
+    "hot": 11,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-c70bc85c",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "news",
+  "announcement": true,
+  "source_name": "MHN스포츠",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE16WUlPX09PNE1fdVJfTzB3aWVrNHgyemdQNmR6VkJKbDZyNGF2djFKeThQOHNNVmNiUnUwaUIwYklJd0ZfbWZ3YXJrM3ZEd1gxRHliSU1jcmZxV0p0RE5NQWNfUQ?oc=5",
+  "title": "[오피셜]또 외국인 타자 2명? 안우진 있어 가능했다…키움 팬이라면 자부심 가져도 좋다",
+  "published_at": "2026-11-19T02:54:36.000Z",
+  "collected_at": "2026-11-19T07:37:54.242Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

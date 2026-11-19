@@ -1,0 +1,30 @@
+{
+  "id": "news-b28d9f13",
+  "issue": "2026-W48",
+  "module": "rivalry",
+  "team": "hanwha",
+  "teams": [
+    "hanwha",
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE15MWxfejVfQU91WGFPeVp2WmhPMGZ5M0R4OU5kclctdFZFbTdwbFoyYmxZSHR3ODQzTDFtSlVQSWhsaWZyUHdXVHZoUDk0QlJnYmhRRU93Rk9LUU52eU05ajNVRG52QU8xUU5fZFVCONIBb0FVX3lxTE15MWxfejVfQU91WGFPeVp2WmhPMGZ5M0R4OU5kclctdFZFbTdwbFoyYmxZSHR3ODQzTDFtSlVQSWhsaWZyUHdXVHZoUDk0QlJnYmhRRU93Rk9LUU52eU05ajNVRG52QU8xUU5fZFVCOA?oc=5",
+  "title": "'원·구' S급 FA 최대어 관심 뜨겁지만, 현장선 불펜 강화에도 집중→물밑 쟁탈전 후끈",
+  "published_at": "2026-11-19T00:09:00.000Z",
+  "collected_at": "2026-11-19T07:37:54.242Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 81,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9GZXNiQm1ZcWJ0bTdxdnBaOWJwRXExTkR1emRJUXRKRmFjUWs5SDdEZEJaLUJ4ZDhEUHh6dkctSHBlQjlMLVRyYUJROFZidmsyV1VTWHdBb2haQmhzaTFfNnlZRDd4dE9EcHdjMlJxWjk5LWJHTEE?oc=5"
+    }
+  ]
+}

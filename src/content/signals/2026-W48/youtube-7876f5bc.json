@@ -1,0 +1,26 @@
+{
+  "id": "youtube-7876f5bc",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "남도일보",
+  "url": "https://www.youtube.com/watch?v=0KP2qU_LTyo",
+  "title": "[KIA 타이거즈] 대주자 넘어 내년에는 주전으로 l KIA 3라운드픽 내년에도 터지나?! l \"소중한 경험 쌓은 한해, 내년엔 스스로 기회 만들어야\"",
+  "published_at": "2026-11-19T06:35:25Z",
+  "collected_at": "2026-11-19T07:37:54.242Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1083,
+    "likes": 71,
+    "comments": 6
+  },
+  "scores": {
+    "hot": 79,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

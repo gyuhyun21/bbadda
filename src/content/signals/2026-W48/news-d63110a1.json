@@ -1,0 +1,26 @@
+{
+  "id": "news-d63110a1",
+  "issue": "2026-W48",
+  "module": "rivalry",
+  "team": "lg",
+  "teams": [
+    "lg",
+    "kt",
+    "kia",
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "연합뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0wSm5Kd0V1UC1FWWthZVhwWklZczd3N0tMWDBnenkwWElILWlWbkt0cHFweDJrTktXbkhtYmduTGFPN2lyajRwN1lkLXhWWE9oLThsdTZZdFhpYm1nZnRYa9IBYEFVX3lxTE0wSm5Kd0V1UC1FWWthZVhwWklZczd3N0tMWDBnenkwWElILWlWbkt0cHFweDJrTktXbkhtYmduTGFPN2lyajRwN1lkLXhWWE9oLThsdTZZdFhpYm1nZnRYaw?oc=5",
+  "title": "'45홈런' 김도영이냐 '197탈삼진' 곽빈이냐…26일 KBO 시상식",
+  "published_at": "2026-11-19T02:57:02.000Z",
+  "collected_at": "2026-11-19T07:37:54.242Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 98,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

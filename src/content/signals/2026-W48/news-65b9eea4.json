@@ -1,0 +1,25 @@
+{
+  "id": "news-65b9eea4",
+  "issue": "2026-W48",
+  "module": "rivalry",
+  "team": "lg",
+  "teams": [
+    "lg",
+    "samsung",
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "마이데일리",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1SWE9BVUE2UHAySjUxTW84akcwYmlVdy00dHBnSE1sMjlRUGotNmRibGllbjFSU0dCa0VKSmFrVHJnaHI1elNnZW1DVFR3cjVXVlJVMWJuU1hIN0FGR0NsaA?oc=5",
+  "title": "이 선수 수비상 3위 왜 박수 받아야 하나…계획에 없던 1B 전환→커리어 최다 이닝+부상에도 KS 완주 투혼",
+  "published_at": "2026-11-19T00:41:00.000Z",
+  "collected_at": "2026-11-19T07:37:54.242Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 90,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

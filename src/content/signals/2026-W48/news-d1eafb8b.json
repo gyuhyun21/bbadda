@@ -1,0 +1,32 @@
+{
+  "id": "news-d1eafb8b",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "news",
+  "source_name": "스페셜타임스",
+  "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE94MVdja1lzZExoUThIWUEzenVHMTdZdnB0NkpMY3VLQ0RFNXpZN3hwWWhTYXpSUE1NNzV1RFBSTDBRM2w1WFhjcnNJY1BWRUdlR2wxY3RXYl9uT25lQzlGSUJaNmxoZFN1bmg2amRSS3k2Zw?oc=5",
+  "title": "9.81파크 제주, KBO 협업 캠페인 성료… NC 다이노스 최종 우승",
+  "published_at": "2026-11-18T23:26:02.000Z",
+  "collected_at": "2026-11-19T07:37:54.242Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 89,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "파이낸셜투데이",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9vYzZoekxTVXNiTlhEUVdfUXAzSWc3MUd5cmZrVlZ0cm9BeF9PS2NMcE9hVEVLZmpueGx6T2RzWmkxNUp3RmRZdFgxLVVodF91dDE2YUlwbHF3T0ZqNWZ6RkVhN0QycS1TZkHSAW5BVV95cUxOZGpzbmw5dVdsU1dRdVNRY1g3blR4WEdFQjI4OXlvSU5Fb3ZBeDVOVVpwcWdyOU5fSWFpRURhXzlDc3hlUk1tRXpSdVFkcjFxWUVkdk9OQkJza2tKZk8yYTczQmJnVmlEYWx5UXR2QQ?oc=5"
+    },
+    {
+      "source_name": "한스경제",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1EMjJ0NUlmeFVoWUtHMERxM0h0QndaR1dpOGs1LXhGcUdOcWxZTTE4WG9JUmtZQkh6WWJXZmR0cWl5Z3VYdEpjeWJOUUEyQ0ZCV2FrMVhsQ2NjMFlGOFMwbzNkbUNQWTNpTzNwONIBb0FVX3lxTE9tc29ab21HR0RKLXlXOG03aHEwRHE0STRSNFFxWmlFcmF0NFFveE9MaVQ3RkZQeHlaWlVkYUhHQ2QzWHQtNlNXSW9CUWgySEFRS3BIR0c1RGVldVdNMHB2b1dPb3AyUEFWWXprU2U3NA?oc=5"
+    }
+  ]
+}
