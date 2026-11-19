@@ -1,0 +1,43 @@
+{
+  "music": "bgm-morning",
+  "subStyle": "yt",
+  "outro": { "hold": 1.5, "fade": 0.5 },
+  "pool": { "no": 24, "series": "이거 알면 야구 고수", "ep": 8, "facts": "센세 확인 2026-11-20(기사 2곳 이상, PR 본문 표)" },
+  "segments": [
+    {
+      "src": "clip1.mp4", "from": 0, "to": 14, "credit": "MLB", "yt": "CTm7xPu9nrw",
+      "say": "a1.mp3", "text": "볼넷도 몸에 맞는 공도 아닌데, 스윙만 하고 일루로 걸어가는 방법이 있어.",
+      "kick": "이거 알면 야구 고수 #8", "head": "치고 나서<br><b>그냥 1루로?</b>", "sub": "볼넷도 사구도 아닌데 1루",
+      "note": "출처: MLB.com·위키백과 · 영상: MLB",
+      "fx": [{ "at": 2.4, "text": "엥?", "style": "mind" }]
+    },
+    {
+      "src": "clip2.mp4", "from": 0, "to": 16, "credit": "MLB", "yt": "X3VCSIAaEiI",
+      "say": "a2.mp3", "text": "포수 미트가 타자 배트에 닿으면 타격방해야. 타자는 자동으로 일루에 가고, 일루 주자는 한 베이스 밀려 가.",
+      "kick": "타격방해", "head": "미트에 배트가 닿으면<br><b>타격방해</b>", "sub": "타자 1루, 1루 주자는 한 베이스",
+      "note": "출처: MLB.com·위키백과 · 영상: MLB",
+      "fx": [{ "at": 2.0, "text": "딱!", "style": "sfx" }]
+    },
+    {
+      "src": "clip3.mp4", "from": 0, "to": 21, "credit": "MLB", "yt": "AHlcxR7EnrI",
+      "say": "a3.mp3", "text": "이걸 제일 많이 얻어낸 사람이 양키스 제이코비 엘스버리야. 이천십육년 한 시즌에만 열두 번, 원래 기록 여덟 번을 훌쩍 넘었지.",
+      "kick": "엘스버리", "head": "한 시즌<br><b>12번</b>", "sub": "2016년, 종전 기록 8번",
+      "note": "출처: FanGraphs·AP · 영상: MLB",
+      "fx": [{ "at": 4.5, "text": "또?", "style": "mind" }]
+    },
+    {
+      "src": "clip4.mp4", "from": 0, "to": 18, "credit": "Baseball plus", "yt": "ilbFluYjuiA",
+      "say": "a4.mp3", "text": "그리고 이천십칠년 자기 생일에 통산 서른 번째. 피트 로즈의 스물아홉 번을 넘은 메이저리그 최다 기록이야.",
+      "kick": "통산 기록", "head": "통산 30번째<br><b>MLB 최다</b>", "sub": "피트 로즈 29번을 넘었다",
+      "note": "출처: MLB.com·AP · 영상: Baseball plus",
+      "fx": [{ "at": 3.0, "text": "신기록", "style": "stamp" }]
+    }
+  ],
+  "end": {
+    "look": "profile",
+    "head": "알아 두면 더 재밌는<br><b>야구 이야기</b>",
+    "cta": "처음 들어 봤으면 댓글로!",
+    "say": "a5.mp3",
+    "text": "타격방해, 처음 들어 본 사람 댓글로 알려 줘."
+  }
+}

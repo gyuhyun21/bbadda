@@ -1,0 +1,43 @@
+{
+  "music": "bgm-morning",
+  "subStyle": "yt",
+  "outro": { "hold": 1.5, "fade": 0.5 },
+  "pool": { "no": 23, "series": "그날의 야구", "ep": 11, "facts": "센세 확인 2026-11-20(기사 2곳 이상, PR 본문 표)" },
+  "segments": [
+    {
+      "src": "clip1.mp4", "from": 0, "to": 13, "credit": "PhillyHighlights", "yt": "uYmkkZtVGrk",
+      "say": "a1.mp3", "text": "스물여섯 명을 연속으로 잡았어. 딱 한 명만 더 잡으면 퍼펙트게임이었지.",
+      "kick": "그날의 야구 #11", "head": "퍼펙트게임까지<br><b>아웃 1개</b>", "sub": "2010년 6월 2일, 26명 연속 아웃",
+      "note": "출처: Wikipedia·CBS News · 영상: PhillyHighlights",
+      "fx": [{ "at": 3.0, "text": "두근두근", "style": "mind" }]
+    },
+    {
+      "src": "clip2.mp4", "from": 0, "to": 16, "credit": "ESPN MLB", "yt": "5B7ntCSZT78",
+      "say": "a2.mp3", "text": "그런데 일루심 짐 조이스가 세이프를 외쳤어. 갈라라가는 화를 내는 대신 그냥 웃었지.",
+      "kick": "1루심 판정", "head": "심판의 선언은<br><b>세이프</b>", "sub": "갈라라가는 그냥 웃었다",
+      "note": "출처: Wikipedia·CBS News · 영상: ESPN MLB",
+      "fx": [{ "at": 1.8, "text": "세이프라고?", "style": "mind" }]
+    },
+    {
+      "src": "clip3.mp4", "from": 0, "to": 14, "credit": "Detroit Tigers", "yt": "dfCfjT5BH9o",
+      "say": "a3.mp3", "text": "느린 화면으로 보면 공이 먼저 들어왔어. 그래도 그때는 홈런만 비디오 판독이 돼서 판정은 그대로였지.",
+      "kick": "느린 화면", "head": "다시 보니<br><b>명백한 아웃</b>", "sub": "그땐 홈런만 비디오 판독",
+      "note": "출처: Wikipedia·CBS News · 영상: Detroit Tigers",
+      "fx": [{ "at": 2.0, "text": "아웃", "style": "stamp" }]
+    },
+    {
+      "src": "clip4.mp4", "from": 0, "to": 22, "credit": "MLBglobal", "yt": "-XpFzDGYh8o",
+      "say": "a4.mp3", "text": "다음 날 경기 전, 갈라라가가 직접 라인업 카드를 건넸고, 눈물이 맺힌 조이스와 악수했어.",
+      "kick": "다음 날", "head": "라인업 카드와<br><b>악수</b>", "sub": "조이스는 눈물로 사과했다",
+      "note": "출처: Wikipedia·SI · 영상: MLBglobal",
+      "fx": [{ "at": 3.5, "text": "찡하다", "style": "mind" }]
+    }
+  ],
+  "end": {
+    "look": "profile",
+    "head": "기록엔 없어도<br><b>모두가 기억해</b>",
+    "cta": "이 경기 기억하면 댓글로!",
+    "say": "a5.mp3",
+    "text": "이 경기 기억하는 사람, 댓글로 알려 줘."
+  }
+}
