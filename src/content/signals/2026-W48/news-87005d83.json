@@ -1,0 +1,29 @@
+{
+  "id": "news-87005d83",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBxU3gtb3FPZkNGelhsazU1YVNPZnhDV053YS1oa3hFNDlDSENRZVZGcGNPaGFRMnh0UWZNNG43b0FMTjVQbmFmbVNWUE04SXZuWEdYR2pRYWpILWJHWExOT2lQSnJVc0Q4VnBXNEg3UdIBb0FVX3lxTFBxU3gtb3FPZkNGelhsazU1YVNPZnhDV053YS1oa3hFNDlDSENRZVZGcGNPaGFRMnh0UWZNNG43b0FMTjVQbmFmbVNWUE04SXZuWEdYR2pRYWpILWJHWExOT2lQSnJVc0Q4VnBXNEg3UQ?oc=5",
+  "title": "도쿄돔·타이페이돔은 4만석, 왜 잠실돔은 아직도 3만석인가…이승엽도 한탄 “야구장 표 구하기도 힘든데…”",
+  "published_at": "2026-11-18T23:40:00.000Z",
+  "collected_at": "2026-11-19T07:37:54.242Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 73,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "미주중앙일보",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1nQ0djcUViVVFKWnhkcnQ0dzloU2lOU25meGVxQ3ZwbklPU2tXdU5CbmJQa3M1azV5Y2p5d3hTMm4waDBkcmhLclRtTEZSWmVvZTV0dzZYdWNBUDBDejE3SFNn?oc=5"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-eb027d08",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠경향",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9PMnhWclZTam9oUVRKUlJ6VkRWcVQ3aC14eWZJTHByNDFYZWxPY1R0RWFlaVFucl9PTTJRZWJmaGh3V183YW56VzRfajZ6VHZxOFVpQTBFVG54TUM0eUhfNUFma9IBY0FVX3lxTE9PMnhWclZTam9oUVRKUlJ6VkRWcVQ3aC14eWZJTHByNDFYZWxPY1R0RWFlaVFucl9PTTJRZWJmaGh3V183YW56VzRfajZ6VHZxOFVpQTBFVG54TUM0eUhfNUFmaw?oc=5",
+  "title": "[스경X인터뷰]‘1호 유틸리티 수비상’ 구본혁 “빈 자리 나면 들어가는 게 유틸리티의 재미···마캠에서는 타격도...",
+  "published_at": "2026-11-19T01:35:00.000Z",
+  "collected_at": "2026-11-19T07:37:54.242Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

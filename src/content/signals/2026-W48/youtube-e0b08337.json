@@ -1,0 +1,26 @@
+{
+  "id": "youtube-e0b08337",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "source_name": "이글스라인업",
+  "url": "https://www.youtube.com/watch?v=urz4rig46Fw",
+  "title": "노시환 결정 하나에 한화 영입도 달라진다? #한화이글스",
+  "published_at": "2026-11-19T07:15:12Z",
+  "collected_at": "2026-11-19T07:37:54.242Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 272,
+    "likes": 0,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 34,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

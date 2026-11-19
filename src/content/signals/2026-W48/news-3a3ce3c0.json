@@ -1,0 +1,23 @@
+{
+  "id": "news-3a3ce3c0",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠경향",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9hYTMwdk01eFdWRnAwcE1wcDZOVUx2S1p2WGRkbFRLekd5bnZwbFhvRFp4enhRYXpkcnIzSkhwbTNnU2tNWVk4SnJyNlNtU1U2THdnZkh6QXFMeDVEQXhSeUZBa9IBY0FVX3lxTE9hYTMwdk01eFdWRnAwcE1wcDZOVUx2S1p2WGRkbFRLekd5bnZwbFhvRFp4enhRYXpkcnIzSkhwbTNnU2tNWVk4SnJyNlNtU1U2THdnZkh6QXFMeDVEQXhSeUZBaw?oc=5",
+  "title": "내년 LG 선발 화두는 ‘변동성 제로’…염경엽 감독은 잡아놓은 ‘6인 체제’",
+  "published_at": "2026-11-18T23:55:00.000Z",
+  "collected_at": "2026-11-19T07:37:54.242Z",
+  "summary_ko": "스포츠경향은 내년 LG 선발 화두가 '변동성 제로'이며 염경엽 감독이 6인 선발 체제를 구상했다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "선발 화두는 '변동성 제로'"
+}

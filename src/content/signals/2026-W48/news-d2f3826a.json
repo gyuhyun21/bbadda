@@ -1,0 +1,22 @@
+{
+  "id": "news-d2f3826a",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠경향",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBTWmJHZXRjRmh2UVhWdG1QOGdObmdlVzd2bzVpQWQ4d0hYQWl1OC1BdFJDZzFPSDVVR1JlVEdiRFdnN1BENFZaX3NJQnNPOTZBa1EwVzNocUVhR0NZN19QVjA2ONIBY0FVX3lxTFBTWmJHZXRjRmh2UVhWdG1QOGdObmdlVzd2bzVpQWQ4d0hYQWl1OC1BdFJDZzFPSDVVR1JlVEdiRFdnN1BENFZaX3NJQnNPOTZBa1EwVzNocUVhR0NZN19QVjA2OA?oc=5",
+  "title": "마지막까지 부상 주의보, ‘액땜’인가…롯데 한동희의 2026년은 더 성장하는 계기",
+  "published_at": "2026-11-19T05:05:00.000Z",
+  "collected_at": "2026-11-19T07:37:54.242Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

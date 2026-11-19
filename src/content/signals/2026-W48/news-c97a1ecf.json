@@ -1,0 +1,26 @@
+{
+  "id": "news-c97a1ecf",
+  "issue": "2026-W48",
+  "module": "league",
+  "teams": [],
+  "source_type": "news",
+  "source_name": "OSEN",
+  "url": "https://www.osen.co.kr/article/G1112911997",
+  "title": "‘이틀간 173억 계약 터졌다’ 역대급 스토브리그 시작인가, 변수는 12월 ML 직장폐쇄…원태인·구자욱은 어디로?",
+  "published_at": "2026-11-18T21:40:00.000Z",
+  "collected_at": "2026-11-19T07:37:54.242Z",
+  "summary_ko": "OSEN은 FA 시장에서 이틀간 173억 원 계약이 터졌다며 12월 메이저리그 직장폐쇄가 원태인·구자욱 행선지의 변수라고 짚었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 80,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5hWFdhcDlIclFlVDdCblBoTVdNdHNKWVVTQl9kRk5XTWgyYnFyUF9KRnhjSXI5SjBic0JUcmRTQURnaE9iZTEyUUhGNHJCUnN0YTViU3BZeHBhc1ptUE5SSzg0VGh4ZDIxY05DcWhOb9IBb0FVX3lxTE5hWFdhcDlIclFlVDdCblBoTVdNdHNKWVVTQl9kRk5XTWgyYnFyUF9KRnhjSXI5SjBic0JUcmRTQURnaE9iZTEyUUhGNHJCUnN0YTViU3BZeHBhc1ptUE5SSzg0VGh4ZDIxY05DcWhObw?oc=5"
+    }
+  ],
+  "brief_ko": "이틀간 173억, 변수는 ML 직장폐쇄"
+}

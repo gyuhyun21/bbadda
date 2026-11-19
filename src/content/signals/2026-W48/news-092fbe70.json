@@ -1,0 +1,33 @@
+{
+  "id": "news-092fbe70",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "미주중앙일보",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1CWFhDT01Uc1VqdDhMeDdEUjJEUk4wbm1EdGRUbmRsdjlOaXdIZzdHLTczWGdKUUc1YjRCQnBQeUpyeGlLV252T0FTazlQbDZLRGVMU09BMEJEOVp0SE9MYkZ3?oc=5",
+  "title": "MVP 김도영이냐 곽빈이냐…신인왕은 어차피 허인서? 주인공 26일에 가려진다",
+  "published_at": "2026-11-19T03:51:00.000Z",
+  "collected_at": "2026-11-19T07:37:54.242Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 99,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0yV3lxX0ZwQlFrQUdKZkpiM3dNOUo0NFdXdjNzbzdzNU1idGYtUmVBVzFCQmVqdVB0cDJJX0tuanA2NDgwNXBHN2xJWjlHd0FJcVNzSlNNMnhrNjFTVXVQNE5WdXpOOHJEdW5JZWZsSdIBb0FVX3lxTE0yV3lxX0ZwQlFrQUdKZkpiM3dNOUo0NFdXdjNzbzdzNU1idGYtUmVBVzFCQmVqdVB0cDJJX0tuanA2NDgwNXBHN2xJWjlHd0FJcVNzSlNNMnhrNjFTVXVQNE5WdXpOOHJEdW5JZWZsSQ?oc=5"
+    },
+    {
+      "source_name": "매일신문",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1lRS1iSC1hQmFhci14WWJjSmFEcDlsaGRKWVpMdDR6aVRuRHk3VHZEb0hFQmRhakxQalZEODhsVkZ5X2F2ekluckpUWjF1dTdHY3M2b1N3b0V0WnNjZjcwTUtB?oc=5"
+    }
+  ]
+}

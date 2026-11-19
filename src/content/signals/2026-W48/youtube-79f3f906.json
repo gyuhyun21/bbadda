@@ -1,0 +1,26 @@
+{
+  "id": "youtube-79f3f906",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "youtube",
+  "source_name": "정병야구",
+  "url": "https://www.youtube.com/watch?v=xzrLiL8fZec",
+  "title": "중요할 때 나오는 실책 #kbo #야구 #프로야구 #엔씨다이노스 #kt위즈",
+  "published_at": "2026-11-19T03:00:04Z",
+  "collected_at": "2026-11-19T07:37:54.242Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 4629,
+    "likes": 14,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 49,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

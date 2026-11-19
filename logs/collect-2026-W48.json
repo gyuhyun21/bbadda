@@ -689,6 +689,82 @@
           "youtube": 53
         }
       }
+    },
+    {
+      "week": "2026-W48",
+      "collected_at": "2026-11-19T07:37:54.242Z",
+      "sources": {
+        "news_rss": {
+          "total": 352,
+          "feeds": 18
+        },
+        "youtube": {
+          "total": 104,
+          "units": 1020,
+          "searches": 10,
+          "filtered_by_title": 12
+        },
+        "kakao": {
+          "total": 424,
+          "requests": 20,
+          "filtered_ads": 40
+        },
+        "instagram": {
+          "total": 72
+        },
+        "vertex": {
+          "total": 356,
+          "requests": 50,
+          "dropped_undated": 0,
+          "dropped_suspect_date": 59
+        }
+      },
+      "failures": [
+        {
+          "source": "news_rss",
+          "error": {
+            "feed": "gnews-league-KBO 리그",
+            "error": "HTTP 429: <html><head><meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\"/><title>Sorry...</title><style> body { font-family: verdana, arial, sans-serif; background-color: #fff; color: #000; }</s"
+          }
+        }
+      ],
+      "skipped": [],
+      "out_of_window": 325,
+      "dropped_no_team": 208,
+      "team_inferred": 234,
+      "dedupe": {
+        "dropped_existing": 409,
+        "merged_in_batch": 92
+      },
+      "dropped_cap": 21,
+      "new_signals": {
+        "total": 253,
+        "by_module": {
+          "fans": 160,
+          "team": 73,
+          "rivalry": 13,
+          "league": 7
+        },
+        "by_team": {
+          "lotte": 28,
+          "lg": 32,
+          "ssg": 31,
+          "kia": 22,
+          "kiwoom": 34,
+          "kt": 17,
+          "samsung": 27,
+          "nc": 7,
+          "hanwha": 21,
+          "doosan": 27,
+          "-": 7
+        },
+        "by_source": {
+          "community": 96,
+          "news": 80,
+          "youtube": 67,
+          "instagram": 10
+        }
+      }
     }
   ]
 }

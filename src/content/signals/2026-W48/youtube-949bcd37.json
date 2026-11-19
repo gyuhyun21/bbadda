@@ -1,0 +1,26 @@
+{
+  "id": "youtube-949bcd37",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "youtube",
+  "source_name": "오늘의 KBO",
+  "url": "https://www.youtube.com/watch?v=kwKnyzZo2lc",
+  "title": "4년 연속 꼴찌 키움, 외국인 선수 3명 전원 재계약한 이유는? #키움히어로즈 #외국인선수 #kbo",
+  "published_at": "2026-11-19T06:10:31Z",
+  "collected_at": "2026-11-19T07:37:54.242Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 730,
+    "likes": 5,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 42,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

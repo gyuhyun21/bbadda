@@ -1,0 +1,24 @@
+{
+  "id": "news-2215a3f6",
+  "issue": "2026-W48",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "이데일리",
+  "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSlNNSkx5Vk1uLWhVTkxMQUFjUVlneEpxMmp0VXFXSi11ODlreDJrYTE5SGxWbXhUajBRMmNvS1M4SlhLWHVMY2V2MGM3TE5VNGJ2d0psOENIR2NVb3NHOEpJcllGMzJ4bTRzVnZoUmQtbUZUaVBQN0I2SmE1anpkdA?oc=5",
+  "title": "김도영? 곽빈? 올 시즌 KBO리그 정규시즌 MVP는 누구?",
+  "published_at": "2026-11-19T03:18:15.000Z",
+  "collected_at": "2026-11-19T07:37:54.242Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

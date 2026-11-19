@@ -1,0 +1,24 @@
+{
+  "id": "community-51ba53ab",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 오늘은 무슨 날",
+  "url": "https://whatday-today.tistory.com/41",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/3rq5ZPmjALK",
+  "title": "프로야구 FA는 언제 생겼을까? 선수를 평생 묶어 둔 '보류 조항'이 무너진 50년의 역사",
+  "published_at": "2026-11-19T12:52:32.000+09:00",
+  "collected_at": "2026-11-19T07:37:54.242Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

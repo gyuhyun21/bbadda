@@ -1,0 +1,22 @@
+{
+  "id": "news-af8bcbdd",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "영남일보",
+  "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5aNXVUMFRxZTNnX01ybjlGci1YODdVaVk1M0JuRmpwZUhtOE9tVHZSeGxfZ3dmZTJjVndpMWd1YnVsZlVaU2R1V3hHYUFuMjBYaWVLNThobXpIZGZiZExIZWtScldGQnUzakJz?oc=5",
+  "title": "올해 프로야구 ‘최고의 별’은? 삼성 구자욱·김재윤·장찬희 후보 올라",
+  "published_at": "2026-11-19T03:21:22.000Z",
+  "collected_at": "2026-11-19T07:37:54.242Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

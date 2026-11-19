@@ -1,0 +1,23 @@
+{
+  "id": "news-7bcb0924",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "news",
+  "announcement": true,
+  "source_name": "MHN스포츠",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE55eGhnYVMwTXFDb1dmTEdkcG1vWkIybDYwaEx6S20zOE5ZQVNsMVBKYWVHazk3NTFQdThJOG5INkxLaTBnVkphM2k2eEw5R3BRRzVQSlgxanVkTWpTYWg4UnhIWQ?oc=5",
+  "title": "[오피셜]키움, 또 외국인 타자 2명 간다...더 이상 방치형 선발 육성 안돼, 더 무거워진 김수경 코치 어깨",
+  "published_at": "2026-11-19T01:51:42.000Z",
+  "collected_at": "2026-11-19T07:37:54.242Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "youtube-408ba818",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "그라운드썰",
+  "url": "https://www.youtube.com/watch?v=0j_5BXkGYGI",
+  "title": "홀드왕 스기모토가 일본으로 가는 이유",
+  "published_at": "2026-11-19T03:30:18Z",
+  "collected_at": "2026-11-19T07:37:54.242Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1493,
+    "likes": 7,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 44,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9oZ1BMY0piVDJUbTYwVWR6dHNGX0k5em9VOFo4aUdOUVF0ZUlRdi1PYUlsb1pPSG9vQjJrRUhlODRqMmRyYkRBSVZsclFkRTRuRmg4ckl3c3k4SnRXcEpDX9IBeEFVX3lxTE13MkN2ZGhPclZSRVlJalVtUDBaaVZDZG1Td180QnJnWkt5dk1TU2NIMUN6TUhRcnBlWDlDeFZUbWtqazZueHdhZDBMM1VkSWxmNWdyMzZTZzhFWVhHV01iQmdTa3ZXVkh1Y2lGZl9RWHdKMHdZbFpvaw?oc=5"
+    }
+  ]
+}

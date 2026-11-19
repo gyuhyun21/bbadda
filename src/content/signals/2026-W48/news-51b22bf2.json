@@ -1,0 +1,22 @@
+{
+  "id": "news-51b22bf2",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "마이데일리",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE91YlZ1dWpLS0ZaYWptakxEcnRWUFpqWFpnU0sydWdBRTVxYUl1eXMtbldCNmZ1VkdHbjU1ZUZqLTFDS0FuV19CcHVnM2JqcE9UMGxpOGpzV2Y5ZXFlMm1oZg?oc=5",
+  "title": "“삼성 12년만의 우승 축하, 아무리 잘해도 우승 못하고 은퇴하면 불행한데…” 강민호 향한 이승엽의 말하는대로",
+  "published_at": "2026-11-18T22:28:36.000Z",
+  "collected_at": "2026-11-19T07:37:54.242Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 89,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "news-7ee8a316",
+  "issue": "2026-W48",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "ssg",
+    "doosan"
+  ],
+  "source_type": "news",
+  "source_name": "TSN KOREA",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA3VzRkd0trRFVqTnlzdXhVd3NqV1JhczA3TFRjcnA4Ukk2QnAyWlJmWDAxc3c5OWttMWpZWmZJQTFNSVVDWEYycl9CSEliQWJjdEhkZnU5SVpYcV9BeUVNTQ?oc=5",
+  "title": "'한국시리즈 MVP' 구자욱, 삼성·SSG·두산 영입 경쟁, 역대 최고 152억원 넘어서나",
+  "published_at": "2026-11-19T01:48:43.000Z",
+  "collected_at": "2026-11-19T07:37:54.242Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

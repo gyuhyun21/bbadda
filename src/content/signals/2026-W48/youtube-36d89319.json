@@ -1,0 +1,26 @@
+{
+  "id": "youtube-36d89319",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "youtube",
+  "source_name": "데이터팝 DataPop",
+  "url": "https://www.youtube.com/watch?v=5SLp1wyystM",
+  "title": "90승 팀의 급한 겨울, KT는 누구부터 잡아야 할까? #KT위즈 #FA",
+  "published_at": "2026-11-19T05:00:07Z",
+  "collected_at": "2026-11-19T07:37:54.242Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 0,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

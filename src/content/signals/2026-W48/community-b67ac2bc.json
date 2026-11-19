@@ -1,0 +1,29 @@
+{
+  "id": "community-b67ac2bc",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 goldbox1 님의 블로그",
+  "url": "https://goldbox1.tistory.com/22",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/LcimWtHq15j",
+  "title": "프로야구 키움, 외국인 선수 3명과 전원 재계약",
+  "published_at": "2026-11-19T13:58:37.000+09:00",
+  "collected_at": "2026-11-19T07:37:54.242Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "더게이트",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0wT2RfRllDMGJBT3FUa213STFEcGtnVkt0S21pVkllRlpIOWtUMmExVzJYcUJUZ21PM2VwX3ZsWk5VeXE2V0RjZzN3U0RtdzhkbmV1enhqQXFsRkNUUGVIRzk2N0hWSnVG0gFsQVVfeXFMUDN3a0h6TEMteXQ5eWphd3p2bUVUVE9VZTdwWmphXzBkczdOYllLdUdlRmVzWXF4NGhWX0otbFpXS1U3V3NTZGduWlRnWFE1RjM3Y2g4OHRoRnFPZS1BZU5fZ1VFcmItd21GbUha?oc=5"
+    }
+  ]
+}

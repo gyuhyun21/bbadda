@@ -1,0 +1,29 @@
+{
+  "id": "news-175595d6",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "news",
+  "source_name": "스타뉴스",
+  "url": "https://www.starnewskorea.com/sports/2026/11/19/2026111909264044044",
+  "title": "'키움과 결별' 외인 최초 10SV-10홀드 日유토, 타 구단 이적 가능할까... \"韓 잔류 최우선 고려\"",
+  "published_at": "2026-11-19T02:11:00.000Z",
+  "collected_at": "2026-11-19T07:37:54.242Z",
+  "summary_ko": "스타뉴스는 키움과 결별한 외국인 최초 10세이브-10홀드 투수 유토가 한국 잔류를 최우선으로 고려한다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAwTXE3LTgyTEZsaVNuZTBDd1YyRWFUTVlhNmtjZTZJUDlGOG5vT3ozbUxMa2pSS0FHMHc0SzVocnFJUmNqWm9zVUxFTVVwQnBnNW5EbHdpc1Z4T2xqTVhrLU4xV1BCNXVRYWtzWU9sRdIBb0FVX3lxTFAwTXE3LTgyTEZsaVNuZTBDd1YyRWFUTVlhNmtjZTZJUDlGOG5vT3ozbUxMa2pSS0FHMHc0SzVocnFJUmNqWm9zVUxFTVVwQnBnNW5EbHdpc1Z4T2xqTVhrLU4xV1BCNXVRYWtzWU9sRQ?oc=5"
+    }
+  ],
+  "brief_ko": "결별한 유토 '한국 잔류 우선'"
+}

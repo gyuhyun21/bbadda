@@ -1,0 +1,27 @@
+{
+  "id": "youtube-95d651bf",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "이슈까까",
+  "url": "https://www.youtube.com/watch?v=Xx1-f3WVdDM",
+  "title": "42억 계약 포기한 양의지 13억 더 번 방법",
+  "published_at": "2026-11-19T05:00:11Z",
+  "collected_at": "2026-11-19T07:37:54.242Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 865,
+    "likes": 4,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 41,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

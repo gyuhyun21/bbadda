@@ -1,0 +1,23 @@
+{
+  "id": "news-b98a4dde",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "진일보 | 전남일보",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE14MXBZa1pZdjM4TTFRTkxSS1RmVGJ6Y0pBSGUzWHhuajRmWVM5REFiaHJSZ3pZX2xrbUI3WkhlZ0FhT3VoVkU1Tk56ZE5laUcwYnRzdUhwU251OEx3VlVjbTIwdVdHTzhiaThJX3Z4cw?oc=5",
+  "title": "김도영, 2년 만에 정규시즌 MVP 탈환 도전…두 번째 트로피 정조준",
+  "published_at": "2026-11-19T04:19:25.000Z",
+  "collected_at": "2026-11-19T07:37:54.242Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

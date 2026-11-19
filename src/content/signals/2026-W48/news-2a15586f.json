@@ -1,0 +1,24 @@
+{
+  "id": "news-2a15586f",
+  "issue": "2026-W48",
+  "module": "rivalry",
+  "team": "lg",
+  "teams": [
+    "lg",
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "조선일보",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQaUE0UkFlMzFOd0loa2o2c0c5MFV2TXBUYm9tUDdjbUhzek9Bek91WW1fbzJTdlZiZkdVTFJ6UC1pUVJIWFdwOXkxRHIwZ0dhZWc2OE04YXRpd3BMRmZVV25GdHFqUllfWFltTU5oY2t5c1VERUxpT195S2lSVnRBRXQtVQ?oc=5",
+  "title": "'저점 매수' 48억원에 '역대 2호' 타자를 품었다…'원조 출루왕' 시선은?",
+  "published_at": "2026-11-19T02:46:00.000Z",
+  "collected_at": "2026-11-19T07:37:54.242Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

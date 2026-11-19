@@ -1,0 +1,26 @@
+{
+  "id": "youtube-f2924aec",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "youtube",
+  "source_name": "알렉스 스포츠 연구소 | Alex Sports Lab",
+  "url": "https://www.youtube.com/watch?v=vXzezlc04GQ",
+  "title": "FA최지훈 SSG랜더스 잔류! 4년 67억 계약! #프로야구 #kbo #야구fa #최지훈 #ssg랜더스 #신세계그룹 #야구분석 #삼성라이온즈 #엘지트윈스 #기아타이거즈 #fa계약",
+  "published_at": "2026-11-19T03:44:42Z",
+  "collected_at": "2026-11-19T07:37:54.242Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1356,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 40,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

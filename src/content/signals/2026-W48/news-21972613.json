@@ -1,0 +1,22 @@
+{
+  "id": "news-21972613",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "마이데일리",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8tWlRGdFlFYUYtRTVUTllZLVNKR0VUT09TbzlucHpCYkYxMUlHXzVTVDE1QXlOWDg3NVMtU2ZKSDl4TndPc2hwZUhSLUJSTUxYcmJ1VF9KOUdfaUVBQ0tzcQ?oc=5",
+  "title": "`롯데 선수 언제 받나요` 9개 구단 KBO 수비상 수상자 배출…이래서 가을야구 못갔나",
+  "published_at": "2026-11-18T23:44:55.000Z",
+  "collected_at": "2026-11-19T07:37:54.242Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

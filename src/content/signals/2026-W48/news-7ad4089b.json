@@ -1,0 +1,22 @@
+{
+  "id": "news-7ad4089b",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "OSEN",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4xMlhKTl94S25FekN1LTNzUkVTWTV0R1lvRl9TdXdjOUhmUnFDdzM3ZlNncXNrSlZ4ajNJVUFFMnBWZEpBRGJVUXA1ZUg1Sl8yejRacQ?oc=5",
+  "title": "‘前 롯데’ 레일리, 신시내티와 마이너리그 계약…빅리그 꿈 도전",
+  "published_at": "2026-11-19T02:26:15.000Z",
+  "collected_at": "2026-11-19T07:37:54.242Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

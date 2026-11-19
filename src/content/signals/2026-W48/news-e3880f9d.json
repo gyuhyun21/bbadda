@@ -1,0 +1,33 @@
+{
+  "id": "news-e3880f9d",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE02MXlvQ3YxM2E0QzBOY2haZnBpNlNRVDdCb3d5c0JJMGxsV0xVYTRiUlB2Y1N5Vm1ycFM3Zi1GOVVLMk80dnljTjNqcXdmSzJSS1M0Q0ltdy1sMVFYekZ4N01jS2phdTljVGZ2MFlvUdIBb0FVX3lxTE02MXlvQ3YxM2E0QzBOY2haZnBpNlNRVDdCb3d5c0JJMGxsV0xVYTRiUlB2Y1N5Vm1ycFM3Zi1GOVVLMk80dnljTjNqcXdmSzJSS1M0Q0ltdy1sMVFYekZ4N01jS2phdTljVGZ2MFlvUQ?oc=5",
+  "title": "\"연봉 대폭 삭감 확실\" 사상 최초 KBO→NPB 역수출, 홀드왕의 일본행 승부수…소프트뱅크 메디컬 체크 받았다",
+  "published_at": "2026-11-19T02:10:00.000Z",
+  "collected_at": "2026-11-19T07:37:54.242Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 90,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBrTFBoUGkzNFlvR3pUc1FXenZMcjAxcHJydlZ6eHhnN3A4bjFpYWsxellZMHFEQzhVUzEzMFdOcVNNWVpNRVZsSzBQR0k0dUliSUtDTw?oc=5"
+    },
+    {
+      "source_name": "Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSUg2V2FlbFpPTWZpZjRXcTVPVHBMUWFXdDFkUk1mZGoxUjlwaWlEb0l6SXR2Szl0Z2xUTXRlWjAwX1kxWlpldnlZSVdRNHhPOF9KdUt6U2FhNExPR2NsTjNjM1FDSDMtS1pCZ0ZjQWlBbzlaYUFsRi1GWGU0M1pNSDU5WDQ4UTV0dGxjLWtDZXVRYnIyOTdz0gGXAUFVX3lxTE5JSDZXYWVsWk9NZmlmNFdxNU9UcExRYVd0MWRSTWZkajFSOXBpaURvSXpJdHZLOXRnbFRNdGVaMDBfWTFaWmV2eVlJV1E0eE84X0p1S3pTYWE0TE9HY2xOM2MzUUNIMy1LWkJnRmNBaUFvOVphQWxGLUZYZTQzWk1INTlYNDhRNXR0bGMta0NldVFicjI5N3M?oc=5"
+    }
+  ]
+}

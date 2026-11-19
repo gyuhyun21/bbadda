@@ -1,0 +1,22 @@
+{
+  "id": "news-dbfa6692",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "news",
+  "source_name": "재경일보",
+  "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5YZXlUTzA1UzJJVFFwRVFxZnoteVA3NUR3TTlXcHFiNkdWTzl3NlFsNWNGaDVMRzM1bVJHSUk1UlBtUnF0SUNielJRbw?oc=5",
+  "title": "‘4년 연속 수비상’ 에레디아, SSG에 작별 인사 남겼다…4년 동행 마침표 : 스포츠",
+  "published_at": "2026-11-18T23:57:00.000Z",
+  "collected_at": "2026-11-19T07:37:54.242Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

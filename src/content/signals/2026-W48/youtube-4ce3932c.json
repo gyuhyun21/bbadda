@@ -1,0 +1,26 @@
+{
+  "id": "youtube-4ce3932c",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "youtube",
+  "source_name": "올스",
+  "url": "https://www.youtube.com/watch?v=or8l2KY7hwA",
+  "title": "잠실, 안녕하지 못해… 뉴스에 못 담은 이야기 #굿바이잠실 #두산베어스 #KBO리그 #박철순",
+  "published_at": "2026-11-19T05:40:58Z",
+  "collected_at": "2026-11-19T07:37:54.242Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 53,
+    "likes": 5,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 62,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

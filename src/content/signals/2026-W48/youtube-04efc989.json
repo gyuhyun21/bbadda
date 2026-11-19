@@ -1,0 +1,40 @@
+{
+  "id": "youtube-04efc989",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "youtube",
+  "source_name": "MNK BASEBALL(MLB,NPB,KBO)",
+  "url": "https://www.youtube.com/watch?v=_jfQW6E-ngI",
+  "title": "키움히어로즈 NEW 아시아쿼터 후쿠타니 코지 영입",
+  "published_at": "2026-11-19T05:16:15Z",
+  "collected_at": "2026-11-19T07:37:54.242Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 837,
+    "likes": 8,
+    "comments": 2
+  },
+  "scores": {
+    "hot": 47,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5QQmkzdVZrMFQ4N01VUGxsTDE0cFJuNkNGa21UODhOa0QtMlBqalBOQkRlZEdxc0JmNVlUUjA3VUp6WGRyQnUxcEtvcWZOZEFnNm9Cd2FCVDViQmFQbFNiVnRTVHpRbkxHTjVtRW5xVdIBb0FVX3lxTE5QQmkzdVZrMFQ4N01VUGxsTDE0cFJuNkNGa21UODhOa0QtMlBqalBOQkRlZEdxc0JmNVlUUjA3VUp6WGRyQnUxcEtvcWZOZEFnNm9Cd2FCVDViQmFQbFNiVnRTVHpRbkxHTjVtRW5xVQ?oc=5"
+    },
+    {
+      "source_name": "뉴데일리",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZ3gzQXV6OEtYeXJnRDJMZldNcTNTMXJSWXdVZ2hNejdnRGZxdGpjQUhuYUFKZzlxX0UwOVlsMHZrWllZaml5NEFsTEJYc1RjXzFrLTJIdEtwSm5CM01zc2hDWW5yaTAzUF9xbkpuS0xBSV9RZkVwcnBiNWstdUtpWdIBgAFBVV95cUxQZ3gzQXV6OEtYeXJnRDJMZldNcTNTMXJSWXdVZ2hNejdnRGZxdGpjQUhuYUFKZzlxX0UwOVlsMHZrWllZaml5NEFsTEJYc1RjXzFrLTJIdEtwSm5CM01zc2hDWW5yaTAzUF9xbkpuS0xBSV9RZkVwcnBiNWstdUtpWQ?oc=5"
+    },
+    {
+      "source_name": "KBS 뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1mTUMwOGo2bkE0aFpJQUxySEdMQTZVRzN2TnhZVWZHSER3ZFZqLUJtVzQ4QXlQY2hrVVh3cU5MVGNEbFpmeFRSbDNNdHo2cGpKYnhvc2w1OVM1R3pDTWYxeUdqa2N3UQ?oc=5"
+    }
+  ]
+}

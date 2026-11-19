@@ -1,0 +1,26 @@
+{
+  "id": "youtube-b67731a6",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "youtube",
+  "source_name": "KBO 역대급랭킹",
+  "url": "https://www.youtube.com/watch?v=KGuUOUik_04",
+  "title": "두 번째 FA 시장 나온 NC 권희동 명장면 순위 연장 끝내기까지",
+  "published_at": "2026-11-19T04:29:58Z",
+  "collected_at": "2026-11-19T07:37:54.242Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 822,
+    "likes": 4,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 41,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

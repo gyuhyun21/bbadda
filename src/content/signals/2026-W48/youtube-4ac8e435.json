@@ -1,0 +1,26 @@
+{
+  "id": "youtube-4ac8e435",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "youtube",
+  "source_name": "스탯티즈 (STATIZ)",
+  "url": "https://www.youtube.com/watch?v=XevJVNV6xHY",
+  "title": "LG 박동원은 어디로 갈까? 쉼 없이 안방 지킨 철강왕 포수",
+  "published_at": "2026-11-19T06:47:35Z",
+  "collected_at": "2026-11-19T07:37:54.242Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 288,
+    "likes": 1,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 34,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

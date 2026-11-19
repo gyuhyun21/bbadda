@@ -1,0 +1,28 @@
+{
+  "id": "news-0cc2e977",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "news",
+  "source_name": "얼리어답터뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBtbVhjMy1Ld2t3RDdoSTFlYWgtSW0tRzRDMFl5OGxpR3V5eEZ0ejVPeFlRbW92Q3p6UEVpMXBTQjFYY1lBOWs2bkdB?oc=5",
+  "title": "준우승 1년 만에 9위로 추락한 한화…마운드 붕괴가 남긴 과제",
+  "published_at": "2026-11-19T06:00:59.000Z",
+  "collected_at": "2026-11-19T07:37:54.242Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "유스연합",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9YM0lkb0VqRHZLNHpMNVFQT1ZVbWNwcEhpT0xHSjFxOXlQbGVveFRTOFdHTWszM09NZjhlMmFOd2ZDcWNrWl9nVzNmQ0p1YVFwcUpv?oc=5"
+    }
+  ]
+}

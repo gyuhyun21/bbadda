@@ -1,0 +1,23 @@
+{
+  "id": "news-f89da9c2",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "지디넷코리아",
+  "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1qQ2ExT01icGQ3N0xMTlRoOGxsU0Z6a2dHZW1KVHlDYjFUZ3VjeVNYQmJKUzQ3VjZva0F2ZFZoUmZUb0Z3VlUxZHd0T0xUMmstTmRJTUVn?oc=5",
+  "title": "야구팬들 제주서 응원 경쟁…디에스엠 9.81파크, 스포츠 IP 활용 눈길",
+  "published_at": "2026-11-19T05:20:27.000Z",
+  "collected_at": "2026-11-19T07:37:54.242Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}
