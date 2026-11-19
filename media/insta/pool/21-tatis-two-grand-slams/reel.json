@@ -1,0 +1,44 @@
+{
+  "music": "bgm-morning",
+  "subStyle": "yt",
+  "outro": { "hold": 1.5, "fade": 0.5 },
+  "pool": { "no": 21, "series": "그날의 야구", "ep": 10, "facts": "센세 확인 2026-11-19(기사 2곳 이상, PR 본문 표)" },
+  "segments": [
+    {
+      "src": "clip1.mp4", "from": 0, "to": 14, "credit": "St. Louis Cardinals", "yt": "Wh2pcflJdvU",
+      "say": "a1.mp3", "text": "한 이닝에 만루홈런이 두 방. 메이저리그 역사에서 딱 한 번 나온 장면이야.",
+      "kick": "그날의 야구 #10", "head": "한 이닝에<br><b>만루홈런 2방</b>", "sub": "MLB 역사상 단 한 번",
+      "note": "출처: SABR·NBC Sports · 영상: St. Louis Cardinals",
+      "fx": [{ "at": 2.0, "text": "또?", "style": "mind" }]
+    },
+    {
+      "src": "clip2.mp4", "from": 0, "to": 16, "credit": "KBS N 스포츠(올스)", "yt": "u8CHNy-rSUQ",
+      "say": "a2.mp3", "text": "천구백구십구 년 사월 이십삼 일, 현지 시각 다저스타디움. 카디널스 페르난도 타티스가 다저스 선발 박찬호를 만났어.",
+      "kick": "1999.4.23 다저스타디움", "head": "타티스 vs<br><b>박찬호</b>", "sub": "카디널스-다저스, 운명의 3회",
+      "note": "출처: SABR·OSEN · 영상: KBS N 스포츠",
+      "fx": [{ "at": 6.0, "text": "불길하다", "style": "mind" }]
+    },
+    {
+      "src": "clip3.mp4", "from": 0, "to": 16, "credit": "MLB", "yt": "syFmUVFNRZE",
+      "say": "a3.mp3", "text": "삼 회 초 무사 만루, 타티스가 첫 만루홈런을 쳤어. 그 이닝에 타순이 한 바퀴 돌았지.",
+      "kick": "3회 초 무사 만루", "head": "첫 번째<br><b>만루홈런</b>", "sub": "3회 무사 만루, 첫 그랜드슬램",
+      "note": "출처: SABR·OSEN · 영상: MLB",
+      "flash": { "at": 2.4, "dur": 0.2 },
+      "fx": [{ "at": 2.4, "text": "딱!", "style": "sfx" }]
+    },
+    {
+      "src": "clip4.mp4", "from": 4, "to": 18, "credit": "1015Elvis", "yt": "LQuwFH03J_c",
+      "say": "a4.mp3", "text": "이사 만루에 다시 타티스, 마운드엔 여전히 박찬호. 풀카운트에서 또 넘겼어. 한 이닝 여덟 타점, 이것도 메이저리그 기록이야.",
+      "kick": "3회 초 2사 만루", "head": "또 만루홈런<br><b>한 이닝 8타점</b>", "sub": "한 이닝 8타점, MLB 기록",
+      "note": "출처: SABR·기네스·OSEN · 영상: 1015Elvis",
+      "fx": [{ "at": 5.5, "text": "8타점", "style": "pop" }]
+    }
+  ],
+  "end": {
+    "look": "profile",
+    "head": "알아 두면 더 재밌는<br><b>야구 이야기</b>",
+    "cta": "그날 생중계 본 사람 댓글로!",
+    "say": "a5.mp3",
+    "text": "그날 생중계로 본 사람, 댓글로 손 들어 줘."
+  }
+}
