@@ -1,0 +1,107 @@
+{
+  "music": "bgm-morning",
+  "subStyle": "yt",
+  "outro": {
+    "hold": 1.5,
+    "fade": 0.5
+  },
+  "pool": {
+    "no": 25,
+    "series": "그날의 야구",
+    "ep": 12,
+    "facts": "센세 확인 2026-11-21(기사 2곳 이상, PR 본문 표)"
+  },
+  "segments": [
+    {
+      "src": "clip1.mp4",
+      "from": 0,
+      "to": 12,
+      "credit": "Jomboy Media",
+      "yt": "GN_3A38Oo2M",
+      "say": "a1.mp3",
+      "text": "마흔두 살 투수 바톨로 콜론이 타석에 들어섰어. 그때까지 메이저리그 홈런은 하나도 없었지.",
+      "kick": "그날의 야구 #12",
+      "head": "홈런 0개<br><b>42세 투수</b>",
+      "sub": "바톨로 콜론, 통산 홈런 0",
+      "note": "출처: Wikipedia·BBC · 영상: Jomboy Media",
+      "fx": [
+        {
+          "at": 3.0,
+          "text": "설마",
+          "style": "mind"
+        }
+      ]
+    },
+    {
+      "src": "clip2.mp4",
+      "from": 0,
+      "to": 10,
+      "credit": "MLB",
+      "yt": "OVFsq9FQBlc",
+      "say": "a2.mp3",
+      "text": "그런데 샌디에이고 원정에서, 제임스 실즈의 공을 받아쳐 왼쪽 담장 너머로 보냈어.",
+      "kick": "2016년 5월 7일",
+      "head": "그런데<br><b>담장을 넘겼다</b>",
+      "sub": "펫코파크, 실즈 상대 투런 홈런",
+      "note": "출처: Wikipedia·ESPN(AP) · 영상: MLB",
+      "fx": [
+        {
+          "at": 1.5,
+          "text": "딱!",
+          "style": "sfx"
+        }
+      ],
+      "lines": {
+        "at": 1.5,
+        "dur": 1.0
+      }
+    },
+    {
+      "src": "clip3.mp4",
+      "from": 0,
+      "to": 15,
+      "credit": "New York Mets",
+      "yt": "TcD4ou5idzU",
+      "say": "a3.mp3",
+      "text": "그리고 천천히, 아주 천천히 베이스를 돌았어. 메이저리그 역사상 가장 늦은 나이에 친 첫 홈런이었거든.",
+      "kick": "생애 첫 홈런",
+      "head": "42세 349일<br><b>첫 홈런</b>",
+      "sub": "역대 최고령 첫 홈런",
+      "note": "출처: Wikipedia·BBC·ESPN(AP) · 영상: New York Mets",
+      "fx": [
+        {
+          "at": 4.5,
+          "text": "최고령",
+          "style": "pop"
+        }
+      ]
+    },
+    {
+      "src": "clip4.mp4",
+      "from": 0,
+      "to": 21,
+      "credit": "MLB Vault",
+      "yt": "_3B46F6Hf78",
+      "say": "a4.mp3",
+      "text": "더그아웃 동료들은 일부러 모른 척하다가, 곧 다 같이 달려들었어. 너는 이 홈런 봤어?",
+      "kick": "더그아웃",
+      "head": "모른 척하다<br><b>한꺼번에</b>",
+      "sub": "동료들은 일부러 모른 척",
+      "note": "영상: MLB Vault",
+      "fx": [
+        {
+          "at": 1.5,
+          "text": "모른 척",
+          "style": "mind"
+        }
+      ]
+    }
+  ],
+  "end": {
+    "look": "profile",
+    "head": "늦게 와서<br><b>더 짜릿한 한 방</b>",
+    "cta": "콜론 팬이면 좋아요!",
+    "say": "a5.mp3",
+    "text": "콜론 팬이면 좋아요 눌러 줘."
+  }
+}
