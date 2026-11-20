@@ -26,17 +26,21 @@ upload() {
   ( cd /tmp/media && git checkout -q -B insta-media && mkdir -p "reel/$2" && cp "$1" "reel/$2/reel.mp4" && git add reel && git commit -qm "reel: $2" && git push -q origin insta-media )
   echo "https://cdn.jsdelivr.net/gh/${GITHUB_REPOSITORY}@insta-media/reel/$2/reel.mp4"
 }
-# 같은 본문이 최근 게시물에 있으면 0(이미 게시)
-posted_caption() { curl -sS -f -H "$AUTH" "$G/$IG/media?fields=caption&limit=15" | jq -e --rawfile c "$1" 'any(.data[]; (.caption // "") == ($c | rtrimstr("\n")))' >/dev/null; }
+# 게시물 목록 — 일시 오류는 다시 시도. 끝내 실패하면 2 를 돌려 「안 올라감」과 구분한다(확인 실패를 안 올라감으로 봐서 pool/21 이 두 번 올라감, 2026-11-20)
+ig_media() { curl -sS -f --retry 3 --retry-all-errors --retry-delay 5 -H "$AUTH" "$G/$IG/media?fields=$1" || { say "경고: 인스타 게시물 확인 실패 — 이번엔 게시 안 함" >&2; return 2; }; }
+# 같은 본문이 최근 게시물에 있으면 0(이미 게시), 없으면 1, 그 밖=확인 실패
+posted_caption() { local j; j=$(ig_media "caption&limit=15") || return 2; jq -e --rawfile c "$1" 'any(.data[]; (.caption // "") == ($c | rtrimstr("\n")))' <<<"$j" >/dev/null; }
 # 오늘(KST) 올라간 릴스가 있으면 0
-reel_today() { curl -sS -f -H "$AUTH" "$G/$IG/media?fields=media_product_type,timestamp&limit=10" | jq -e --arg d "$D" 'any(.data[]; .media_product_type == "REELS" and ((.timestamp | sub("\\+0000$"; "Z") | fromdateiso8601) + 32400 | strftime("%Y-%m-%d")) == $d)' >/dev/null; }
+reel_today() { local j; j=$(ig_media "media_product_type,timestamp&limit=10") || return 2; jq -e --arg d "$D" 'any(.data[]; .media_product_type == "REELS" and ((.timestamp | sub("\\+0000$"; "Z") | fromdateiso8601) + 32400 | strftime("%Y-%m-%d")) == $d)' <<<"$j" >/dev/null; }
 
 main_post() {
   # save pool 릴스(media/insta/pool/<편>, 2026-11-11 이사님 승인)는 큐에 "pool/<편>" 으로 넣는다 — 하위 폴더는 pool/ 하나만 허용
   [[ "$POST" =~ ^(pool/)?[0-9a-z-]+$ ]] || { say "잘못된 폴더 이름: $POST"; return 1; }
   local dir="media/insta/$POST"
   jq -r '.reel_caption // .caption' "$dir/post.json" > /tmp/cap.txt
-  if posted_caption /tmp/cap.txt; then say "이미 게시됨, 건너뜀: $POST"; return 0; fi
+  local pc=0; posted_caption /tmp/cap.txt || pc=$?
+  [ "$pc" = 0 ] && { say "이미 게시됨, 건너뜀: $POST"; return 0; }
+  [ "$pc" = 1 ] || return 1  # 확인 실패 — 큐에 남아 있으니 다음 실행이 다시 확인하고 올린다
   local url spec=""
   if [ -f "$dir/reel.mp4" ]; then
     prep
@@ -57,7 +61,9 @@ main_post() {
 }
 
 cards_post() {
-  if reel_today; then say "오늘 릴스 이미 있음 — 대체 릴스 안 만듦"; return 0; fi
+  local rt=0; reel_today || rt=$?
+  [ "$rt" = 0 ] && { say "오늘 릴스 이미 있음 — 대체 릴스 안 만듦"; return 0; }
+  [ "$rt" = 1 ] || return 1
   git fetch -q origin insta-media
   # 카드 세트는 밤에만 만든다(2026-10-26~) — 낮 대체 릴스는 어제 밤 세트로
   local Y; Y=$(TZ=Asia/Seoul date -d yesterday +%F)
@@ -85,7 +91,8 @@ lunch_post() {
     local y; y=$(jq -r --arg d "$(TZ=Asia/Seoul date -d yesterday +%F)" '.lunch[$d] // empty' "$Q")
     if [ -n "$y" ] && [ -f "media/insta/$y/post.json" ]; then
       jq -r '.reel_caption // .caption' "media/insta/$y/post.json" > /tmp/ycap.txt
-      posted_caption /tmp/ycap.txt || { p="$y"; say "어제 점심 편 게시 안 됨 — 다시: $y"; }
+      local yc=0; posted_caption /tmp/ycap.txt || yc=$?
+      [ "$yc" = 1 ] && { p="$y"; say "어제 점심 편 게시 안 됨 — 다시: $y"; }  # 확인 실패(2)면 어제 편은 다시 올리지 않는다
     fi
     [ -n "$p" ] || p=$(for k in $(ls -d media/insta/pool/*/ | xargs -n1 basename | sort); do [ -f "media/insta/pool/$k/post.json" ] && ! grep -qF "\"pool/$k\"" "$Q" && { echo "pool/$k"; break; }; done; true)
     [ -n "$p" ] || { say "POOL 남은 편 없음 — 점심 칸 건너뜀"; return 0; }
