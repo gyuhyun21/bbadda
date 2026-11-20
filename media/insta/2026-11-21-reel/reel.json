@@ -1,0 +1,79 @@
+{
+  "music": "bgm-morning",
+  "segments": [
+    {
+      "src": "clip1.mp4",
+      "credit": "MLB",
+      "yt": "QixQMUu4CKI",
+      "kick": "1993 메이저리그",
+      "head": "홈런 내준 외야수<br>사흘 뒤엔 <b>투수</b>",
+      "sub": "홈런 내준 외야수, 3일 뒤엔 투수",
+      "note": "출처: SABR·Fox Sports · 영상: MLB(2015-05-26)",
+      "to": 10.5,
+      "from": 0,
+      "say": "a1.mp3",
+      "text": "외야수가 홈런을 내줬어. 사흘 뒤엔 아예 투수로 나왔고. 둘 다 실화야."
+    },
+    {
+      "src": "clip2.mp4",
+      "credit": "Baseball Authority",
+      "yt": "2wyvKl4dQlA",
+      "kick": "1993.5.26 클리블랜드",
+      "head": "머리 맞고<br><b>담장 넘은 공</b>",
+      "sub": "머리 맞은 공이 넘어가 홈런",
+      "note": "출처: SABR·CBS Sports · 영상: Baseball Authority(2025-12-06)",
+      "to": 21,
+      "from": 0,
+      "say": "a2.mp3",
+      "text": "천구백구십삼 년 오월 이십육 일, 클리블랜드. 텍사스 우익수 호세 칸세코가 뜬공을 놓쳤는데, 공이 머리에 맞고 담장을 넘어갔어. 기록은 홈런."
+    },
+    {
+      "src": "clip3.mp4",
+      "credit": "Foggy Melson Sports",
+      "yt": "rIag8HZ1c6Q",
+      "kick": "1993.5.29 보스턴",
+      "head": "1:15로 진 날<br><b>외야수가 투수로</b>",
+      "sub": "1:15 경기 8회, 칸세코 등판",
+      "note": "출처: SI·MLB.com · 영상: Foggy Melson Sports(2023-10-15)",
+      "to": 11,
+      "from": 0,
+      "say": "a3.mp3",
+      "text": "사흘 뒤 보스턴. 일 대 십오로 진 경기, 팔 회에 칸세코가 직접 마운드에 올랐어."
+    },
+    {
+      "src": "clip4.mp4",
+      "credit": "The Chris Myers Interview",
+      "yt": "3qKsj81fEOk",
+      "kick": "그날의 대가",
+      "head": "1이닝 3실점<br>그리고 <b>팔꿈치</b>",
+      "sub": "1이닝 3실점, 토미 존 수술로 시즌 끝",
+      "note": "출처: SI·This Day in Baseball · 영상: Chris Myers(2013-11-06)",
+      "to": 10,
+      "from": 0,
+      "say": "a4.mp3",
+      "text": "결과는 일 이닝 삼 실점. 게다가 팔꿈치를 다쳐서, 결국 토미 존 수술로 시즌을 접었어."
+    },
+    {
+      "src": "clip5.mp4",
+      "credit": "ALL THE SMOKE BASEBALL",
+      "yt": "v4AA2vFN5Kc",
+      "kick": "칸세코의 주장",
+      "head": "그건 홈런 아니라<br><b>실책</b>이라고?",
+      "sub": "칸세코: 홈런 아닌 실책이었다",
+      "note": "출처: CBS Sports·Fox Sports · 영상: ALL THE SMOKE(2026-09-09)",
+      "to": 20,
+      "from": 0,
+      "say": "a5.mp3",
+      "text": "칸세코는 그 공이 홈런이 아니라 실책이었다고 여러 번 말했어. 너라면 뭐로 기록할래?"
+    }
+  ],
+  "end": {
+    "kick": "1993 칸세코 머리 홈런",
+    "head": "너라면<br>뭐로 기록해?",
+    "a": "홈런",
+    "b": "실책",
+    "cta": "이런 야구 역사 매일 받으려면 팔로우",
+    "say": "a6.mp3",
+    "text": "이런 야구 역사, 매일 받으려면 팔로우."
+  }
+}
