@@ -26,9 +26,9 @@
       "fx": [{ "at": 2.5, "text": "안타", "style": "pop" }]
     },
     {
-      "src": "clip4.mp4", "from": 0, "to": 9, "credit": "jpg901c", "yt": "X1lPBtTKS8s",
+      "src": "clip4.mp4", "from": 1.8, "to": 9, "credit": "jpg901c", "yt": "X1lPBtTKS8s",
       "say": "a4.mp3", "text": "단, 내야수 몸이나 글러브에 먼저 맞고 튄 공이 주자를 맞히면 아웃이 아니야. 너는 알고 있었어?",
-      "kick": "예외", "head": "내야수 맞고 튀면<br><b>세이프</b>", "sub": "내야수 맞고 튄 공은 인플레이",
+      "kick": "예외", "head": "내야수 맞고 튀면<br><b>아웃 아님</b>", "sub": "내야수 맞고 튄 공은 인플레이",
       "note": "출처: MLB 공식 규칙 5.06(c)(6) · 영상: jpg901c",
       "fx": [{ "at": 2.0, "text": "반전", "style": "pop" }]
     }
