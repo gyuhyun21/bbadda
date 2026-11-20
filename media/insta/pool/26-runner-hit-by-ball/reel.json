@@ -1,0 +1,43 @@
+{
+  "music": "bgm-morning",
+  "subStyle": "yt",
+  "outro": { "hold": 1.5, "fade": 0.5 },
+  "pool": { "no": 26, "series": "이거 알면 야구 고수", "ep": 9, "facts": "센세 확인 2026-11-21(규칙서·자료 2곳 이상, PR 본문 표)" },
+  "segments": [
+    {
+      "src": "clip1.mp4", "from": 0, "to": 9, "credit": "MLB", "yt": "tCjmJlCuEpE",
+      "say": "a1.mp3", "text": "타자가 친 공이 주자 몸에 맞았어. 그런데 심판은 맞은 주자한테 아웃을 줬지.",
+      "kick": "이거 알면 야구 고수 #9", "head": "공에 맞았는데<br><b>아웃?</b>", "sub": "주자가 타구에 맞으면",
+      "note": "영상: MLB",
+      "fx": [{ "at": 3.0, "text": "억울해", "style": "mind" }]
+    },
+    {
+      "src": "clip2.mp4", "from": 0, "to": 13, "credit": "MLB", "yt": "RGDBEnElgH4",
+      "say": "a2.mp3", "text": "페어 타구가 내야수를 지나기 전에 주자를 맞히면, 그 주자는 아웃이고 공은 바로 죽어.",
+      "kick": "야구 규칙", "head": "내야수 지나기 전<br><b>맞으면 아웃</b>", "sub": "페어 타구, 내야수 지나기 전",
+      "note": "출처: MLB 공식 규칙 5.09(b)(7)·Wikipedia · 영상: MLB",
+      "fx": [{ "at": 2.5, "text": "아웃", "style": "stamp" }]
+    },
+    {
+      "src": "clip3.mp4", "from": 0, "to": 12, "credit": "MLBPlays17", "yt": "1h8hOIyevt8",
+      "say": "a3.mp3", "text": "공을 친 타자는 일루로 나가고, 기록은 안타로 남아. 다른 주자는 밀려날 때만 한 베이스 가.",
+      "kick": "친 타자는?", "head": "친 타자는<br><b>안타</b>", "sub": "타자 1루, 기록은 안타",
+      "note": "출처: MLB 공식 규칙 5.05(b)(4)·9.05(a)(5) · 영상: MLBPlays17",
+      "fx": [{ "at": 2.5, "text": "안타", "style": "pop" }]
+    },
+    {
+      "src": "clip4.mp4", "from": 0, "to": 9, "credit": "jpg901c", "yt": "X1lPBtTKS8s",
+      "say": "a4.mp3", "text": "단, 내야수 몸이나 글러브에 먼저 맞고 튄 공이 주자를 맞히면 아웃이 아니야. 너는 알고 있었어?",
+      "kick": "예외", "head": "내야수 맞고 튀면<br><b>세이프</b>", "sub": "내야수 맞고 튄 공은 인플레이",
+      "note": "출처: MLB 공식 규칙 5.06(c)(6) · 영상: jpg901c",
+      "fx": [{ "at": 2.0, "text": "반전", "style": "pop" }]
+    }
+  ],
+  "end": {
+    "look": "profile",
+    "head": "알아 두면 더 재밌는<br><b>야구 규칙</b>",
+    "cta": "처음 알았으면 댓글로!",
+    "say": "a5.mp3",
+    "text": "처음 알았으면 댓글로 알려 줘."
+  }
+}
