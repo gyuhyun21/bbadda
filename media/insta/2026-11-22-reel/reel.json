@@ -1,0 +1,79 @@
+{
+  "music": "bgm-morning",
+  "segments": [
+    {
+      "src": "clip1.mp4",
+      "credit": "MLB Vault",
+      "yt": "PDNZw0A29oI",
+      "kick": "1983 메이저리그",
+      "head": "홈런 치고<br><b>아웃</b>된 타자",
+      "sub": "홈런 치고 아웃 판정",
+      "note": "출처: SABR·MLB.com · 영상: MLB Vault(2020-07-31)",
+      "from": 0,
+      "to": 10.5,
+      "say": "a1.mp3",
+      "text": "홈런을 쳤는데, 아웃이 됐어. 그래서 이 사람이 저렇게 뛰쳐나온 거야."
+    },
+    {
+      "src": "clip2.mp4",
+      "credit": "MLB Network",
+      "yt": "ynruGc_9JvI",
+      "kick": "1983.7.24 양키 스타디움",
+      "head": "송진이 길어서<br><b>홈런 취소</b>",
+      "sub": "9회 2아웃 역전 투런, 송진 탓 아웃",
+      "note": "출처: SABR·MLB.com · 영상: MLB Network(2026-01-10)",
+      "from": 0,
+      "to": 10,
+      "say": "a2.mp3",
+      "text": "구회 투아웃, 조지 브렛의 역전 투런 홈런. 그런데 양키스 감독이 방망이에 바른 송진이 너무 길다고 따졌고, 심판은 아웃을 줬어."
+    },
+    {
+      "src": "clip3.mp4",
+      "credit": "Video Footprints",
+      "yt": "Rfl7bLlSYME",
+      "kick": "나흘 뒤",
+      "head": "리그 회장<br><b>홈런 인정</b>",
+      "sub": "4일 뒤 리그 회장이 판정 뒤집음",
+      "note": "출처: SABR·ESPN · 영상: Video Footprints(2024-01-10)",
+      "from": 0,
+      "to": 8,
+      "say": "a3.mp3",
+      "text": "나흘 뒤 아메리칸리그 회장이 판정을 뒤집었어. 방망이는 규정 위반이지만, 아웃까진 아니라고."
+    },
+    {
+      "src": "clip4.mp4",
+      "credit": "Gwllyamz",
+      "yt": "qLw1_UJej48",
+      "kick": "1983.8.18 재개",
+      "head": "25일 만에<br><b>9회 2아웃</b>부터",
+      "sub": "25일 뒤 9회 2아웃부터 다시",
+      "note": "출처: SABR·SI · 영상: Gwllyamz(2011-05-22)",
+      "from": 0,
+      "to": 10,
+      "say": "a4.mp3",
+      "text": "이십오 일 뒤, 구회 투아웃부터 다시 했어. 양키스 감독은 베이스를 다 밟았냐고 따졌는데, 심판은 확인서를 꺼냈지."
+    },
+    {
+      "src": "clip5.mp4",
+      "credit": "The Rich Eisen Show",
+      "yt": "SkgaWjSL4-w",
+      "kick": "12분짜리 마무리",
+      "head": "왼손 2루수<br><b>투수 중견수</b>",
+      "sub": "왼손잡이 2루수·투수 중견수",
+      "note": "출처: SABR·MLB.com · 영상: The Rich Eisen Show(2018-07-24)",
+      "from": 0,
+      "to": 9,
+      "say": "a5.mp3",
+      "text": "양키스는 왼손잡이 매팅리를 이루수에, 투수 기드리를 중견수에 세웠어. 너라면 이 홈런, 인정할래?"
+    }
+  ],
+  "end": {
+    "kick": "1983 파인타르 게임",
+    "head": "너라면<br>홈런 인정해?",
+    "a": "인정",
+    "b": "아웃",
+    "cta": "이런 야구 역사 매일 받으려면 팔로우",
+    "say": "a6.mp3",
+    "text": "이런 야구 역사, 매일 받으려면 팔로우."
+  }
+}
