@@ -1,0 +1,108 @@
+{
+  "music": "bgm-morning",
+  "subStyle": "yt",
+  "outro": {
+    "hold": 1.5,
+    "fade": 0.5
+  },
+  "pool": {
+    "no": 28,
+    "series": "야구 고수",
+    "ep": 10,
+    "facts": "센세 확인 2026-11-22(기사 2곳 이상, PR 본문 표)"
+  },
+  "segments": [
+    {
+      "src": "clip1.mp4",
+      "from": 0,
+      "to": 12,
+      "credit": "MLB",
+      "yt": "r9YQ8fhuTYs",
+      "say": "a1.mp3",
+      "text": "수비수 한 명이 혼자서 아웃 세 개를 잡는 플레이가 있어. 무보살 삼중살이야.",
+      "kick": "야구 고수 #10",
+      "head": "혼자서<br><b>아웃 3개</b>",
+      "sub": "무보살 삼중살 = 혼자 아웃 3개",
+      "note": "출처: MLB.com·Wikipedia · 영상: MLB",
+      "fx": [
+        {
+          "at": 2.0,
+          "text": "혼자서?",
+          "style": "mind"
+        }
+      ]
+    },
+    {
+      "src": "clip2.mp4",
+      "from": 0,
+      "to": 13,
+      "credit": "MLB",
+      "yt": "YXJuw4Rd0ck",
+      "say": "a2.mp3",
+      "text": "보통 무사 일이루에서 주자들이 뛰는 순간 직선타가 날아와야 가능해. 잡고, 베이스 밟고, 태그까지 혼자 하는 거지.",
+      "kick": "조건",
+      "head": "무사 1·2루<br><b>주자 출발</b>",
+      "sub": "주자 출발 + 직선타 → 잡고·밟고·태그",
+      "note": "출처: MLB.com·Wikipedia · 영상: MLB",
+      "fx": [
+        {
+          "at": 4.0,
+          "text": "3단 콤보",
+          "style": "pop"
+        }
+      ]
+    },
+    {
+      "src": "clip3.mp4",
+      "from": 0,
+      "to": 12,
+      "credit": "MLB",
+      "yt": "DviV7CYrc-E",
+      "say": "a3.mp3",
+      "text": "이천구년 팔월 이십삼일, 필라델피아 이루수 에릭 브런틀렛. 구회말 무사 일이루에서 직선타를 잡고 이루를 밟은 뒤, 뛰어오던 주자까지 태그했어.",
+      "kick": "2009년 8월 23일",
+      "head": "9회말 무사<br><b>브런틀렛</b>",
+      "sub": "직선타 캐치 → 2루 터치 → 태그",
+      "note": "출처: SABR·MLB.com·NPR · 영상: MLB",
+      "fx": [
+        {
+          "at": 2.0,
+          "text": "탁!",
+          "style": "sfx"
+        },
+        {
+          "at": 6.5,
+          "text": "아웃",
+          "style": "stamp"
+        }
+      ]
+    },
+    {
+      "src": "clip4.mp4",
+      "from": 0,
+      "to": 14,
+      "credit": "Talkin' Baseball",
+      "yt": "BJDEwI5o_rQ",
+      "say": "a4.mp3",
+      "text": "메이저리그 역사상 열다섯 번째 무보살 삼중살. 이걸로 경기가 끝난 건 천구백이십칠년 이후 두 번째였어.",
+      "kick": "역대 15번째",
+      "head": "경기 끝낸<br><b>역대 2번째</b>",
+      "sub": "MLB 15번째, 경기 끝낸 건 1927년 이후 2번째",
+      "note": "출처: SABR·NPR · 영상: Talkin' Baseball",
+      "fx": [
+        {
+          "at": 2.0,
+          "text": "15번째",
+          "style": "pop"
+        }
+      ]
+    }
+  ],
+  "end": {
+    "look": "profile",
+    "head": "공 하나로<br><b>경기 끝</b>",
+    "cta": "처음 알았으면 좋아요!",
+    "say": "a5.mp3",
+    "text": "처음 알았으면 좋아요 눌러 줘."
+  }
+}

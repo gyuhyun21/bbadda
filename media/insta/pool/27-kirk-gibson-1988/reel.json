@@ -1,0 +1,107 @@
+{
+  "music": "bgm-morning",
+  "subStyle": "yt",
+  "outro": {
+    "hold": 1.5,
+    "fade": 0.5
+  },
+  "pool": {
+    "no": 27,
+    "series": "그날의 야구",
+    "ep": 13,
+    "facts": "센세 확인 2026-11-22(기사 2곳 이상, PR 본문 표)"
+  },
+  "segments": [
+    {
+      "src": "clip1.mp4",
+      "from": 0,
+      "to": 12,
+      "credit": "Our Family Adventures",
+      "yt": "7PVSsnJby_s",
+      "say": "a1.mp3",
+      "text": "천구백팔십팔년 월드시리즈 일차전. 다저스 커크 깁슨은 두 다리를 다쳐서 선발에서 빠졌어.",
+      "kick": "그날의 야구 #13",
+      "head": "두 다리 부상<br><b>선발 제외</b>",
+      "sub": "1988 WS 1차전, 깁슨 선발 제외",
+      "note": "출처: Wikipedia·SABR · 영상: Our Family Adventures",
+      "fx": [
+        {
+          "at": 4.5,
+          "text": "못 나오나",
+          "style": "mind"
+        }
+      ]
+    },
+    {
+      "src": "clip2.mp4",
+      "from": 0,
+      "to": 14,
+      "credit": "MLB",
+      "yt": "N4nwMDZYXTI",
+      "say": "a2.mp3",
+      "text": "구회말 투아웃, 삼 대 사로 지던 상황. 감독은 깁슨을 대타로 내보냈고, 마운드엔 오클랜드 마무리 데니스 에커슬리가 있었어.",
+      "kick": "1988년 10월 15일",
+      "head": "9회말 2아웃<br><b>대타 깁슨</b>",
+      "sub": "3:4로 지던 9회말 2아웃, 대타 등장",
+      "note": "출처: Wikipedia·SABR·Fox Sports · 영상: MLB",
+      "fx": [
+        {
+          "at": 3.0,
+          "text": "대타!",
+          "style": "pop"
+        }
+      ]
+    },
+    {
+      "src": "clip3.mp4",
+      "from": 0,
+      "to": 14,
+      "credit": "MLB",
+      "yt": "0toCMwEBwLo",
+      "say": "a3.mp3",
+      "text": "공 여덟 개째, 풀카운트에서 들어온 백도어 슬라이더. 깁슨은 그걸 받아쳐 오른쪽 담장을 넘겼어.",
+      "kick": "풀카운트",
+      "head": "8구째<br><b>끝내기 투런</b>",
+      "sub": "풀카운트 백도어 슬라이더, 5:4 끝내기",
+      "note": "출처: Wikipedia·SABR · 영상: MLB",
+      "fx": [
+        {
+          "at": 2.6,
+          "text": "딱!",
+          "style": "sfx"
+        }
+      ],
+      "lines": {
+        "at": 2.6,
+        "dur": 1.0
+      }
+    },
+    {
+      "src": "clip4.mp4",
+      "from": 0,
+      "to": 14,
+      "credit": "MLB Vault",
+      "yt": "jeGFSEIONyA",
+      "say": "a4.mp3",
+      "text": "다리를 절며 주먹을 흔들고 베이스를 돌았지. 이게 그 시리즈 깁슨의 유일한 타석이었고, 다저스는 결국 우승했어.",
+      "kick": "유일한 타석",
+      "head": "단 한 타석<br><b>그리고 우승</b>",
+      "sub": "시리즈 유일한 타석, 다저스 4승 1패 우승",
+      "note": "출처: Wikipedia · 영상: MLB Vault",
+      "fx": [
+        {
+          "at": 3.5,
+          "text": "한 타석",
+          "style": "pop"
+        }
+      ]
+    }
+  ],
+  "end": {
+    "look": "profile",
+    "head": "다리는 아파도<br><b>스윙은 완벽</b>",
+    "cta": "이 홈런 알면 좋아요!",
+    "say": "a5.mp3",
+    "text": "이 홈런 아는 사람 좋아요 눌러 줘."
+  }
+}
