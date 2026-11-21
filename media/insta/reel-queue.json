@@ -79,7 +79,8 @@
     "2026-11-17": "pool/14-lee-dae-ho-9games",
     "2026-11-18": "pool/18-balk-walkoff",
     "2026-11-19": "pool/20-pitch-clock",
-    "2026-11-20": "pool/22-ground-rule-double"
+    "2026-11-20": "pool/22-ground-rule-double",
+    "2026-11-21": "pool/24-catcher-interference"
   },
   "2026-11-12": [
     "2026-11-12-reel",
@@ -136,6 +137,8 @@
     "2026-11-20-night"
   ],
   "2026-11-21": [
-    "2026-11-21-reel", "pool/23-galarraga-28-outs"
+    "2026-11-21-reel",
+    "pool/23-galarraga-28-outs",
+    "pool/24-catcher-interference"
   ]
 }
