@@ -1,0 +1,24 @@
+{
+  "id": "news-c87de171",
+  "issue": "2026-W48",
+  "module": "rivalry",
+  "team": "nc",
+  "teams": [
+    "nc",
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "마이데일리",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9QeGswYjhkRDBPbGowdzlGcGwybl9DTGRaNUpXMzJ4dXdVV1o3ank2d1FvU054d3hFanNRZUtkWE5HZGxJSDVJcDNGRFRUMW0xZXVhZFRpd2VEZlNXRVo3Tw?oc=5",
+  "title": "“OOO 투구감각 1등” 이용찬이 선발투수로서 다 가졌다고 극찬한 27세 우완투수…딱 하나, 스피드가 부족하네",
+  "published_at": "2026-11-22T12:49:17.000Z",
+  "collected_at": "2026-11-22T14:50:45.108Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

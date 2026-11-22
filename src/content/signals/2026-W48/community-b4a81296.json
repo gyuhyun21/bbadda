@@ -1,0 +1,41 @@
+{
+  "id": "community-b4a81296",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 직관누나따라 직관",
+  "url": "https://blog.naver.com/dhsmftodxkr/224487242754",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/JUG8IcnUgGf",
+  "title": "NC 마무리 훈련 MVP 김재민·허윤 공동 선정, 창원·오키나와 CAMP 1 돌아보기",
+  "published_at": "2026-11-22T19:38:00.000+09:00",
+  "collected_at": "2026-11-22T14:50:45.108Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 98,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "노컷뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBZQ19BTVZkeHNJVmNOSmhCaVY0LXZNTWpYelZxclhJMDNQc2hQX0h3VWZkdUxBTmw3OTJXbkhPN1d6d2o4QmxrdW1NbnpGQnFWeXc?oc=5"
+    },
+    {
+      "source_name": "연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1WOHV5MHhPNEtGREZlaG9FNDZkY3JvSTNCTEFuYmJVYVJ3MDdSVHpaS1d3NWRCcXRmdXRDd2NOcE1XT1FoNFRXcmxwSXZvcU1POUZwd01DYVhCZE5hdVZVZtIBYEFVX3lxTE1WOHV5MHhPNEtGREZlaG9FNDZkY3JvSTNCTEFuYmJVYVJ3MDdSVHpaS1d3NWRCcXRmdXRDd2NOcE1XT1FoNFRXcmxwSXZvcU1POUZwd01DYVhCZE5hdVZVZg?oc=5"
+    },
+    {
+      "source_name": "뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9CYlJmRWhlT3dROE1jbzdLazhQdnM2dlJOQlVTa3JnYTIwVWhHMHc3SGZBLVB6RGRNdlEwQzRoVU5FZEdDenlKTVF3T3Rvd2ZMbHFVUmRVMFJkV09zM0hsS9IBeEFVX3lxTE5VOF9GU183RzZTcUdkLXVWOHBwc0ZKX3hHcW1IRTE4R19pQkp2eFk0TTRTMU55eVc0QjZEMnFyblBvMThWY040QUFfRGc1WUtnRUFjYkpmbFEzU3dMTDJrTXV5VVlSUlQ4Q1M1MTZJeGFyZ3JJRjFMeA?oc=5"
+    },
+    {
+      "source_name": "경남일보",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5GVjlWQkh6a0JlYkQzejdxbm1LaG5odUE2U2xPYkFKUjNJWlhuX1Q4c1NEMjE3R2NiV3JYbTJSTnVBaUNKVnBkNWpuMVBUU1hLSGE2X3lFVDdSUVFDdmtjUjNtWFk5M0pmcUhV?oc=5"
+    }
+  ]
+}

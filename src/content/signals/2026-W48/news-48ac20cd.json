@@ -1,0 +1,22 @@
+{
+  "id": "news-48ac20cd",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "https://www.asportstv.kr/",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE80VTVMOGhDUTBnNHFOQlhScDVYTnozdEM1YTNfREVLVHdGYkU2MnB6allrcDIxTk4xUTVNMTlhNDVFLWt1RGtLX1JrVjhsRUFybGlVSjRFMUtYM29VdkZpdzl2N3NaRmtv?oc=5",
+  "title": "[A-포커스] \"초대형 오퍼 쏟아져\"… KBO 평정한 레이예스, 진짜 롯데 떠나나",
+  "published_at": "2026-11-22T05:06:42.000Z",
+  "collected_at": "2026-11-22T14:50:45.108Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 73,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

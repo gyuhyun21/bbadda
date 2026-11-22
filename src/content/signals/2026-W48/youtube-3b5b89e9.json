@@ -1,0 +1,27 @@
+{
+  "id": "youtube-3b5b89e9",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "키움히어로즈",
+  "url": "https://www.youtube.com/watch?v=bpNJtbg5tDI",
+  "title": "임지열 선수의 새 출발을 응원합니다 I Good bye NO.29",
+  "published_at": "2026-11-20T09:30:00Z",
+  "collected_at": "2026-11-22T14:50:45.108Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 76857,
+    "likes": 1016,
+    "comments": 273
+  },
+  "scores": {
+    "hot": 68,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

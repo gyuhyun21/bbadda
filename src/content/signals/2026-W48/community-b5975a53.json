@@ -1,0 +1,24 @@
+{
+  "id": "community-b5975a53",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/10585269182",
+  "title": "완성형 최상위 타자의 지표 3-4-5 - 야구",
+  "published_at": "2026-11-22T10:50:45.108Z",
+  "collected_at": "2026-11-22T14:50:45.108Z",
+  "summary_ko": "",
+  "excerpt": "... 롯데; 3. 구자욱 +1; 4. 두산 -1; 5. 기아; 6. 쓱 +1; 7. 한화…",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

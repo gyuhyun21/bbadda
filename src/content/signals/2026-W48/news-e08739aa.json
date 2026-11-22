@@ -1,0 +1,23 @@
+{
+  "id": "news-e08739aa",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "마이데일리",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBoeTNzb1FEdjZyVEFVZkowMnBjREdiVFVGR0RIeHJwWnRINDlXcXJUblRmOTBmaFpyX2lVZl9HNm5iZXM4a0R0aFdSVGRMODJfNmpJYS1aa0VvbjVJdmUwNA?oc=5",
+  "title": "“난 지금도 슬라이더를 못 던져, 수술하고 나니까 감각제로” KBO 68승·174SV 베테랑의 충격고백…19년을 어떻게 버텼나",
+  "published_at": "2026-11-22T07:52:05.000Z",
+  "collected_at": "2026-11-22T14:50:45.108Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

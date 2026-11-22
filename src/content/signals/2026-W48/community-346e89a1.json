@@ -1,0 +1,41 @@
+{
+  "id": "community-346e89a1",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "community",
+  "source_name": "다음카페 한화이글스 팬카페 불꽃이글스",
+  "url": "https://cafe.daum.net/fireflowereagle/WyeQ/57372",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/FVQ7tQmIhjY",
+  "title": "FA 문승원, SSG와 동행 이어간다…'2+1년' 최대 15억원...",
+  "published_at": "2026-11-22T12:51:19.000+09:00",
+  "collected_at": "2026-11-22T14:50:45.108Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 96,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1xTzNmbWJrdmM3N1dHbEVzMkZFdm9OUENBNUpkalNQZkNBNDVuMWZFbzhhZjJBU1lzdTM0UG5oaElOUzJ6bENRY1ZaQkZMd3NmMFVWeTJpSDE0ekk0WlI2ZNIBeEFVX3lxTE1xNE1EQmJvclAteVNKclAxTWdzc2dRbVQ4MnlUSVVvbmFydWpPUjRNU0JCQmh0SU9iMllaZEFlM2RmTnJ0bGFjWVk4Q2FiY3RFUUxjRlh0UE4xRENvdkFMY01NSG1aXzdDNFptS1lWY3JZaHY2M2VOMw?oc=5"
+    },
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUFR2LTRqS1o1a0RaY3MwVldUa1JYRnF3U3F2SHlWaVRYaDVvOVNicnFxM0FPaWxaQ29wTjZhVzU4bUhpMjloTXVraFpHRUR4aWxEM3VtY05DbnF6MzcxOUdvclo3UWl3ejVLU2Fsc2phbG5ra21zek9zd3RKZnZvT055RQ?oc=5"
+    },
+    {
+      "source_name": "연합뉴스TV",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1oLTdORjVyUmpJdHpGRmNCb0tMYkdEeWZVenQ5R2g2MkFTbGJfSmRtV1AyZEtYT0IwTzVvVEphSkRnOXpaRmpmc2tKckh6ZURjMklVWWhhWkZCNFNNOVhKZkFXLUM5eWs?oc=5"
+    },
+    {
+      "source_name": "얼리어답터뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBqYXJERTFXcWFvX2dqMmx3cktZbU1zWnNZTTdSbHU0R0NHaGc5VDlrVGIwaC1rVEh6bFM1eTl4ODVlVkJxbUFhdVFB?oc=5"
+    }
+  ]
+}

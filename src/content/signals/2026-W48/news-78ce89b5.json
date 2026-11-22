@@ -1,0 +1,25 @@
+{
+  "id": "news-78ce89b5",
+  "issue": "2026-W48",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "일간스포츠",
+  "url": "https://isplus.com/article/view/isp202611220056",
+  "title": "[IS 이슈] '수도권 구단도 참전' 너도나도 구자욱, A 등급이지만 역대급 인기폭발",
+  "published_at": "2026-11-22T05:29:00.000Z",
+  "collected_at": "2026-11-22T14:50:45.108Z",
+  "summary_ko": "일간스포츠는 A등급인 구자욱 영입전에 수도권 구단까지 나서며 인기가 역대급이라고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 81,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "A등급 구자욱, 수도권도 참전"
+}

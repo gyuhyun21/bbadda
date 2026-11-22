@@ -1,0 +1,29 @@
+{
+  "id": "news-295fec10",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "news",
+  "source_name": "스타뉴스",
+  "url": "https://www.starnewskorea.com/sports/2026/11/22/2026112210093445959",
+  "title": "'3년 전에도, 올해도 日 상대로만 홈런 펑펑' NC 김휘집은 도쿄돔 '왜' 편할까 \"히어로즈에서 오래 뛰어서 그런가 봐요\"",
+  "published_at": "2026-11-22T02:01:00.000Z",
+  "collected_at": "2026-11-22T14:50:45.108Z",
+  "summary_ko": "스타뉴스는 NC 김휘집이 3년 전과 올해 모두 일본을 상대로 홈런을 쳤다며 도쿄돔이 편한 이유를 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 71,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5BZkQyaGxEMXhZVjU3U0tvTnpnLUxJU3hTcWJZZzNJc1pfYkxkRFFGS2hMZ1prcVZSZVN1NUtfSFEyTFdTZlVxeUJFRVU1VTF6dklDZnlVZjZtMnhkV3hoRy1sQTlQSGlyWFRiN01IY9IBb0FVX3lxTE5BZkQyaGxEMXhZVjU3U0tvTnpnLUxJU3hTcWJZZzNJc1pfYkxkRFFGS2hMZ1prcVZSZVN1NUtfSFEyTFdTZlVxeUJFRVU1VTF6dklDZnlVZjZtMnhkV3hoRy1sQTlQSGlyWFRiN01IYw?oc=5"
+    }
+  ],
+  "brief_ko": "김휘집, 또 일본 상대 홈런"
+}

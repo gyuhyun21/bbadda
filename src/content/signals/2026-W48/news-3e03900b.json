@@ -1,0 +1,23 @@
+{
+  "id": "news-3e03900b",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "news",
+  "source_name": "엑스포츠뉴스",
+  "url": "https://www.xportsnews.com/article/2221975",
+  "title": "'벌써 93억 쐈다!' 이제 구자욱 영입 총력전?…SSG, 집토끼 단속 완료→외부 FA도 참전하나",
+  "published_at": "2026-11-22T08:38:52.000Z",
+  "collected_at": "2026-11-22T14:50:45.108Z",
+  "summary_ko": "엑스포츠뉴스는 내부 FA에 93억 원을 쓴 SSG가 구자욱 영입전 등 외부 FA 시장에도 나설지 주목된다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "93억 쓴 SSG, 다음은 외부?"
+}

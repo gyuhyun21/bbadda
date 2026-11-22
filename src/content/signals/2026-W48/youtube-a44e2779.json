@@ -1,0 +1,24 @@
+{
+  "id": "youtube-a44e2779",
+  "issue": "2026-W48",
+  "module": "league",
+  "teams": [],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=hB8csNQlyDI",
+  "title": "장성호 코치 타격 레슨 모아보기 | 타격 통합편 | 크보 레전드 레슨",
+  "published_at": "2026-11-21T01:00:04Z",
+  "collected_at": "2026-11-22T14:50:45.108Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 8413,
+    "likes": 34,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 47,
+    "relevance": 30
+  },
+  "sentiment": "neutral"
+}

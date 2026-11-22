@@ -1,0 +1,26 @@
+{
+  "id": "instagram-b702202a",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "instagram",
+  "official": true,
+  "source_name": "Instagram @always_kia_tigers",
+  "url": "https://www.instagram.com/p/Df_-VFmEx5k/",
+  "title": "KIA 타이거즈 공식 인스타그램: TIGERS Story in 오키나와✨",
+  "published_at": "2026-11-21T10:04:43+0000",
+  "collected_at": "2026-11-22T14:50:45.108Z",
+  "summary_ko": "",
+  "metrics": {
+    "likes": 5250,
+    "comments": 12
+  },
+  "scores": {
+    "hot": 58,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

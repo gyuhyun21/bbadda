@@ -1,0 +1,23 @@
+{
+  "id": "community-e468ada6",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 BBC 미디어센터",
+  "url": "https://blog.naver.com/sunhoo272/224487550640",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/2qPYnTOqMEY",
+  "title": "LG, '리더십 자산' 홍창기 놓을까? FA 시장의 딜레마 심층 분석",
+  "published_at": "2026-11-22T23:20:00.000+09:00",
+  "collected_at": "2026-11-22T14:50:45.108Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-890452d6",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "재경일보",
+  "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBmd3U4ZFhYdjVYeURuVGZNT2dxeDlTVmVmUGo3TGFtQ0FjVWJHYTVwUlA4RmdwUEFMMjdXb0hUVlhNUGxaOXkxYzVlUQ?oc=5",
+  "title": "신재영 앞에 선 프로 지명 선수…’불꽃야구2′ 긴장 고조 : 스포츠",
+  "published_at": "2026-11-22T07:33:00.000Z",
+  "collected_at": "2026-11-22T14:50:45.108Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

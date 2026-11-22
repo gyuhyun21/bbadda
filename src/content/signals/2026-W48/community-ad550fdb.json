@@ -1,0 +1,34 @@
+{
+  "id": "community-ad550fdb",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "community",
+  "announcement": true,
+  "source_name": "블로그 essay07880님의 블로그",
+  "url": "https://blog.naver.com/essay07880/224487302582",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/ehubMBVlHC",
+  "title": "[오피셜] SSG 문승원 FA 2+1년 15억 재계약…최지훈·오태곤까지 내부 FA 전원 잔류!",
+  "published_at": "2026-11-22T20:00:00.000+09:00",
+  "collected_at": "2026-11-22T14:50:45.108Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 83,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "한국일보",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBNaUJjdVdqYjlqRnZpeXRFZVJpbGRGMnQ1WE9CYUZ2UUstRlVZdnhWZUVuNW1zS0RuVFU3UFcySk83MU84TFFOUG52bW5zU2FZWkduNzM4VGJzMi1BV3E4dUt3bDJsYzZPdndOTjFNTllxeDDSAXNBVV95cUxQTWlCY3VXamI5akZ2aXl0RWVSaWxkRjJ0NVhPQmFGdlFLLUZVWXZ4VmVFbjVtc0tEblRVN1BXMkpPNzFPOExRTlBudm1uc1NhWVpHbjczOFRiczItQVdxOHVLd2wybGM2T3Z3Tk4xTU5ZcXgw?oc=5"
+    },
+    {
+      "source_name": "중부일보",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8xQUdaNzNpb1Zib25ndlllN25YWFNzYlplcW4zRkF5c09reWprbGhCX3dFTUZVLS1yNVBPN09Va3o2cHVpeVNvZGc4NzZJd0ZJVnFuUU4tSlR5S0dGenRCbE5XbXFkYXROX1ZpeU1n?oc=5"
+    }
+  ]
+}

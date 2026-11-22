@@ -1,0 +1,23 @@
+{
+  "id": "news-e153f5cd",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠월드",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE95Y01kR0w0ZFFqclZKTDZHRW85TFcycnBQMzdJQWx0c01wMW1iR0dBTzZicXFqLUhIeGNnU09zS0RWNnR1NkFUNnNvbjNic0xaZ1JjX1JrOFg3eG5YV0VPSEVB?oc=5",
+  "title": "KBO 역사상 단 3명뿐… 변신 앞둔 김도영, ‘거포 유격수’ 계보 이을까",
+  "published_at": "2026-11-22T01:24:40.000Z",
+  "collected_at": "2026-11-22T14:50:45.108Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 71,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

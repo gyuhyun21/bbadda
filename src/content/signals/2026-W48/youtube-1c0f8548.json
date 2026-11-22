@@ -1,0 +1,24 @@
+{
+  "id": "youtube-1c0f8548",
+  "issue": "2026-W48",
+  "module": "league",
+  "teams": [],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=DHikSHtijsI",
+  "title": "타자가 가지고 가야 할 기본적인 2가지 스윙💡",
+  "published_at": "2026-11-20T06:22:17Z",
+  "collected_at": "2026-11-22T14:50:45.108Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 73395,
+    "likes": 281,
+    "comments": 21
+  },
+  "scores": {
+    "hot": 57,
+    "relevance": 30
+  },
+  "sentiment": "neutral"
+}

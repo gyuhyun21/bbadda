@@ -1,0 +1,22 @@
+{
+  "id": "news-6fde7ec4",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "매일경제",
+  "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBQSTZITDdHLTJvaDF2Y1V0UmVsSmRkTmtIM1JUUGppQmYwaGRuWHEzWXFWNEpjM1FjNE1NczN2ZlJFbUVwMkE?oc=5",
+  "title": "“훈련 성과 바탕으로 다음 시즌 준비 더 집중하겠다”…LG, 2026시즌 마무리캠프 종료",
+  "published_at": "2026-11-22T07:14:00.000Z",
+  "collected_at": "2026-11-22T14:50:45.108Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

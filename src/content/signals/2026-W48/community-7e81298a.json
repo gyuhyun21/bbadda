@@ -1,0 +1,24 @@
+{
+  "id": "community-7e81298a",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&page=5&document_srl=10584733584",
+  "title": "갤 망함..? - 야구",
+  "published_at": "2026-11-22T07:50:45.108Z",
+  "collected_at": "2026-11-22T14:50:45.108Z",
+  "summary_ko": "",
+  "excerpt": "... 짐 왔는데 이게 뭔 일이야 [12]. 12 분 전 자유 에스에스지랜더스 조회204 추천1 ...…",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

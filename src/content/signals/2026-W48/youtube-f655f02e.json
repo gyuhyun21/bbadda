@@ -1,0 +1,26 @@
+{
+  "id": "youtube-f655f02e",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "youtube",
+  "source_name": "꿈많아",
+  "url": "https://www.youtube.com/watch?v=CARsGZhkA0M",
+  "title": "LG 트윈스의 추억이 깃든 잠실, 마지막으로 밟아보다",
+  "published_at": "2026-11-22T11:41:11Z",
+  "collected_at": "2026-11-22T14:50:45.108Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 395,
+    "likes": 6,
+    "comments": 2
+  },
+  "scores": {
+    "hot": 45,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

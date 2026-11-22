@@ -1,0 +1,24 @@
+{
+  "id": "community-8acb282d",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&page=7&document_srl=10584365518",
+  "title": "왜다avv라함 - 야구",
+  "published_at": "2026-11-22T05:50:45.108Z",
+  "collected_at": "2026-11-22T14:50:45.108Z",
+  "summary_ko": "",
+  "excerpt": "... 인기 한화 이글스 제시 숄텐스 뜯어보기 [20]. 11.22 Brewers V1 서번트 조회1564 추천42. 한화…",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

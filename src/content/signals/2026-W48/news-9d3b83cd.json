@@ -1,0 +1,29 @@
+{
+  "id": "news-9d3b83cd",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "더게이트",
+  "url": "http://www.spochoo.com/news/articleView.html?idxno=132297",
+  "title": "삼성 라이온즈, 23일 2027년 신인선수 환영행사 개최 \"기본 소양 교육-선배 환영 인사\"",
+  "published_at": "2026-11-22T04:02:12.000Z",
+  "collected_at": "2026-11-22T14:50:45.108Z",
+  "summary_ko": "더게이트는 삼성이 23일 기본 소양 교육과 선배 환영 인사를 담은 2027 신인선수 환영행사를 연다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 72,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "경북매일",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5SejZ1bS04YzJGYVVDdThrUEJvQmZwcXByeDNPUTh1LXYxREpadVY2aGxWaThLeFJyYVZCaWdFb3htREV4VUx5N0NUcmtaZFpNbkpINjZrUktvdw?oc=5"
+    }
+  ],
+  "brief_ko": "23일 신인 환영행사 연다"
+}

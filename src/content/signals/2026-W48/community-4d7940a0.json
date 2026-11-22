@@ -1,0 +1,32 @@
+{
+  "id": "community-4d7940a0",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 또 다른 세상, 또 다른 나",
+  "url": "https://blog.naver.com/synabro68/224487253114",
+  "title": "한화이글스 화이트 대신 새 외국인 투수 제시 숄튼스 87만 5천달러 계약 영입",
+  "published_at": "2026-11-22T18:53:00.000+09:00",
+  "collected_at": "2026-11-22T14:50:45.108Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 82,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "충청투데이",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBndFI5S2lWNDF4NkQzVUUzUEdReWRWbWs5R2xCRFQxVHpjek5CeVNjOTJHQVZTdURLcFM5ZFAySXNmWElrQUNPdEdZNDI1UVliNXVvUF83ZnZkVFdSS3NlTnM3TXlXYlEzWXV0R2hR?oc=5"
+    },
+    {
+      "source_name": "충청게릴라뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA2OE95MVRiWEYybzdLcnVfNnphcTFDemJ1OU9neXdJVTRzcXhxQ2p2M1VqZHRMSWVCM0xmaWRha2tXN3ZPT29OX3lVbUpMbHVHa1l1TXZ1NkdNRlVGRGhqR2Q2b3hkUQ?oc=5"
+    }
+  ]
+}

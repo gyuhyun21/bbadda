@@ -1,0 +1,23 @@
+{
+  "id": "news-5f97f003",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "진일보 | 전남일보",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBPUjhsWmplX0ZTNkFSYzhWTU1Ob0x0aXh1cWZLUDJBaHNxWmdCdVJ2Mkc3Y2dKT3RRbzZqbjJJSDZyZGhBbTY1VjJHTTYwMkNqSVp2cGNVVFFjWUpCQ1BvenJaZFFBcjNMU3E1S0VtYw?oc=5",
+  "title": "김도영 등번호와 똑같은 '05번 버스'…광주 야구 명소 따라 달린다",
+  "published_at": "2026-11-22T07:07:07.000Z",
+  "collected_at": "2026-11-22T14:50:45.108Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

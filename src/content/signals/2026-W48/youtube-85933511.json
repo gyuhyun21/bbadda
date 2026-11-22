@@ -1,0 +1,27 @@
+{
+  "id": "youtube-85933511",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "Giants TV",
+  "url": "https://www.youtube.com/watch?v=TafQpn-uct8",
+  "title": "반복 또 반복 그리고 반복하는 포수 수비 훈련🔥 | 2026 강화훈련 캠프",
+  "published_at": "2026-11-21T12:00:18Z",
+  "collected_at": "2026-11-22T14:50:45.108Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 127243,
+    "likes": 1115,
+    "comments": 182
+  },
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

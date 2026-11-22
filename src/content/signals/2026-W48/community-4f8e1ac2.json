@@ -1,0 +1,24 @@
+{
+  "id": "community-4f8e1ac2",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&page=7&document_srl=10584843918",
+  "title": "부정행위자를 거꾸로하면 - 야구",
+  "published_at": "2026-11-22T08:50:45.108Z",
+  "collected_at": "2026-11-22T14:50:45.108Z",
+  "summary_ko": "",
+  "excerpt": "... LG TWINS 소식 없나요? [2]. 18 분 전 자유 케인 조회70 추천2. LG TWINS…",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "news-ea15917d",
+  "issue": "2026-W48",
+  "module": "rivalry",
+  "team": "lotte",
+  "teams": [
+    "lotte",
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://www.mt.co.kr/amp/sports/2026/11/22/202611221555775226O",
+  "title": "이래서 '초대형 트레이드' 정철원 포기했나...만루 위기 탈출 눈도장, '美 유학' 영건 판 깔렸다 \"이제 확신 생겼다\"",
+  "published_at": "2026-11-22T08:39:00.000Z",
+  "collected_at": "2026-11-22T14:50:45.108Z",
+  "summary_ko": "머니투데이는 정철원을 내준 롯데에서 미국 유학을 다녀온 영건이 만루 위기를 넘기며 눈도장을 받았다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "美 유학 영건, 만루 위기 탈출"
+}

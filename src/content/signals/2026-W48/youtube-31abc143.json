@@ -1,0 +1,26 @@
+{
+  "id": "youtube-31abc143",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "퇴근길스포츠",
+  "url": "https://www.youtube.com/watch?v=tDIXB9r2vso",
+  "title": "2026 KBO Official 삼성라이온즈 엔딩 크레딧",
+  "published_at": "2026-11-22T12:00:14Z",
+  "collected_at": "2026-11-22T14:50:45.108Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 937,
+    "likes": 32,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 60,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

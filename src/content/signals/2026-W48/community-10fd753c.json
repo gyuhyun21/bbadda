@@ -1,0 +1,23 @@
+{
+  "id": "community-10fd753c",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "community",
+  "source_name": "엠엘비파크",
+  "url": "https://mlbpark.donga.com/mp/b.php?p=1&b=news&id=202611190120203730",
+  "title": "키움, 10개 구단 중 가장 먼저 외국인 구성 완료…알칸타라·데이비슨",
+  "published_at": "2026-11-17T15:00:00.000Z",
+  "collected_at": "2026-11-22T14:50:45.108Z",
+  "summary_ko": "",
+  "excerpt": "... 움은 맷 데이비슨, 라울 알칸타라, 케스턴 히우라, 후쿠타니 코지(왼쪽부터)로 2027시즌 외국인 선수 구성을 끝냈다.…",
+  "metrics": {},
+  "scores": {
+    "hot": 25,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

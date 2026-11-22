@@ -1,0 +1,23 @@
+{
+  "id": "news-b1ab20ae",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠월드",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE94NDdvN2xpRTZfdVFBMENsZDNYVnViRlVTeGtEZjFfdnZ4c0xheVNwQXZOalBQb2ZyRllKcm1xa01uc3FSNEhBWEhzak5IMEs5ekhtS1JsTmVCSWVQVC1FU1B3?oc=5",
+  "title": "‘세 자릿수’ 등번호에 담긴 1군 꿈 … 곰표 육성선수 4인방, 미야자키서 구슬땀",
+  "published_at": "2026-11-22T05:50:22.000Z",
+  "collected_at": "2026-11-22T14:50:45.108Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -22,7 +22,7 @@ list: approved
 as_of: 2026-11-17
 # 승인 명단: KBO 2026-11-16 FA 승인 22명 공시(스포츠동아 list_source). 미신청 6명(SSG 서진용·김성현·한유섬, 롯데 박승욱, 한화 이재원, 키움 최주환)은 뺌(경기일보 https://www.kyeonggi.com/article/20261116580312).
 # 등급: 경기일보(KT·SSG·구자욱·원태인·홍창기 A/B/C), 스포츠동아(박동원 B·김호령 C), 스타뉴스 https://www.starnewskorea.com/sports/2026/11/13/2026111316162411970 (최지훈·정수빈·박치국 B), 뉴스핌 11-13 제목(전병우 C). 기사로 확인 못 한 선수는 비워 둠.
-# 계약: 오태곤 SSG 3년 11억(머니투데이·OSEN 2026-11-17), 양의지 두산 2년 최대 55억(YTN 2026-11-17).
+# 계약: 오태곤 SSG 3년 11억(머니투데이·OSEN 2026-11-17), 양의지 두산 2년 최대 55억(YTN 2026-11-17), 최지훈 SSG 4년 67억(엑스포츠뉴스 2026-11-18), 문승원 SSG 2+1년 최대 15억(일간스포츠 2026-11-22).
 # hot·관심 구단은 공시 전 기록 그대로(언론 확인 전 블로그·영상은 rumor: true, 저장소 주인 결정 2026-10-29).
 list_source: https://sports.donga.com/sports/article/all/20261116/135032224/1
 players:
@@ -31,7 +31,7 @@ players:
   - { id: park-dongwon, name: 박동원, from: lg, pos: 포수, grade: B, hot: true, interest: [{ team: kt, rumor: true, sources: [https://blog.naver.com/zoom3998/224454716250] }, { team: ssg, rumor: true, sources: [https://blog.naver.com/kipyo0925/224454454454] }] }
   - { id: hong-changgi, name: 홍창기, from: lg, pos: 외야수, grade: A, hot: true, interest: [{ team: hanwha, rumor: true, sources: [https://blog.naver.com/value486/224448540091, https://blog.naver.com/jjiwoo1027/224445698092, https://blog.naver.com/ghs102102/224454744027] }] }
   - { id: kim-horyeong, name: 김호령, from: kia, pos: 외야수, grade: C, hot: true, interest: [{ team: hanwha, rumor: true, sources: [https://www.youtube.com/watch?v=h_aWSY_cz-s, https://www.youtube.com/watch?v=XT3jsanPE98, https://blog.naver.com/juhyun002/224454766873] }, { team: lotte, rumor: true, sources: [https://blog.naver.com/juhyun002/224454766873] }] }
-  - { id: choi-jihoon, name: 최지훈, from: ssg, pos: 외야수, grade: B, hot: true, interest: [{ team: hanwha, rumor: true, sources: [https://blog.naver.com/sportsb-s/224445039796, https://www.youtube.com/watch?v=ZYg9837Z9EY, https://www.youtube.com/watch?v=h_aWSY_cz-s] }, { team: nc, rumor: true, sources: [https://www.youtube.com/watch?v=ZYg9837Z9EY] }, { team: kia, rumor: true, sources: [https://www.youtube.com/watch?v=XT3jsanPE98] }] }
+  - { id: choi-jihoon, name: 최지훈, from: ssg, pos: 외야수, grade: B, hot: true, interest: [{ team: hanwha, rumor: true, sources: [https://blog.naver.com/sportsb-s/224445039796, https://www.youtube.com/watch?v=ZYg9837Z9EY, https://www.youtube.com/watch?v=h_aWSY_cz-s] }, { team: nc, rumor: true, sources: [https://www.youtube.com/watch?v=ZYg9837Z9EY] }, { team: kia, rumor: true, sources: [https://www.youtube.com/watch?v=XT3jsanPE98] }], signed: { team: ssg, terms: "4년 67억", date: 2026-11-18, source: https://www.xportsnews.com/article/2220673 } }
   - { id: bae-jeongdae, name: 배정대, from: kt, pos: 외야수, grade: A, interest: [{ team: hanwha, rumor: true, sources: [https://www.youtube.com/watch?v=pxf0m1HdFAE] }] }
   - { id: jung-subin, name: 정수빈, from: doosan, pos: 외야수, grade: B, interest: [{ team: hanwha, rumor: true, sources: [https://blog.naver.com/sportpulse/224451097283, https://www.youtube.com/watch?v=6aYgVrMuKOM] }] }
   - { id: yang-euiji, name: 양의지, from: doosan, pos: 포수, signed: { team: doosan, terms: "2년 최대 55억", date: 2026-11-17, source: https://www.ytn.co.kr/_ln/0107_202611171435457293 }, interest: [{ team: ssg, rumor: true, sources: [https://blog.naver.com/kipyo0925/224454454454] }] }
@@ -46,5 +46,5 @@ players:
   - { id: choi-jaehun, name: 최재훈, from: hanwha, pos: 포수 }
   - { id: park-sangwon, name: 박상원, from: hanwha, pos: 투수, interest: [{ team: lotte, rumor: true, sources: [https://blog.naver.com/chaesports/224455930193] }] }
   - { id: kwon-heedong, name: 권희동, from: nc, pos: 외야수 }
-  - { id: mun-seungwon, name: 문승원, from: ssg, pos: 투수, grade: C }
+  - { id: mun-seungwon, name: 문승원, from: ssg, pos: 투수, grade: C, signed: { team: ssg, terms: "2+1년 최대 15억", date: 2026-11-22, source: https://isplus.com/article/view/isp202611220031 } }
   - { id: oh-taegon, name: 오태곤, from: ssg, pos: 내야수, grade: C, signed: { team: ssg, terms: "3년 총액 11억", date: 2026-11-17, source: https://www.mt.co.kr/amp/sports/2026/11/17/202611170948771411O } }

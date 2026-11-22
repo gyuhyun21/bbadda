@@ -1,0 +1,28 @@
+{
+  "id": "news-f3256d05",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스1",
+  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1vV05FVjlPMGpCclFCYWtIZlp4eUE0UDNIbFRxa0lBYXZTWFRHWktGUGZ0YlhqNTN0UGYtRUpmNzFWWG1hRlY4Y3lVaUJzV050cHVRN3ZSTQ?oc=5",
+  "title": "프로야구 한화, 우완 숄튼스 영입…외인 투수 구성 마무리",
+  "published_at": "2026-11-22T02:56:35.000Z",
+  "collected_at": "2026-11-22T14:50:45.108Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 80,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "신아일보",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5aTko0Y3hkQV9wUUg4V2k5SkY3ZjlBaXk3VjNPN0NMZWhfZmJoblM1dENSM1VNLTVlNVFvcGtOdnE2SGhZS0hDeTQ5SUx4ZnY3ZUNtNHI1d3hSUlJSM1dGX3NCa196VUdUS1R1d3R1S1A?oc=5"
+    }
+  ]
+}

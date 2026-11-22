@@ -1,0 +1,28 @@
+{
+  "id": "news-45473549",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "news",
+  "source_name": "연합뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9qZVlZWnVyaUFKN2hWdEFmUzJpMDUzdlpDc3JQZnNJbVc5QjZGU05SYUVmNlczODliWnJPbWtLN09KcXV1ZDVzanhqVWVTeTRyUENyTzgwci1fYWw4ZEYyadIBYEFVX3lxTE9qZVlZWnVyaUFKN2hWdEFmUzJpMDUzdlpDc3JQZnNJbVc5QjZGU05SYUVmNlczODliWnJPbWtLN09KcXV1ZDVzanhqVWVTeTRyUENyTzgwci1fYWw4ZEYyaQ?oc=5",
+  "title": "프로야구 한화, 일본서 2027년 대비 1차 훈련 마치고 귀국",
+  "published_at": "2026-11-22T05:18:28.000Z",
+  "collected_at": "2026-11-22T14:50:45.108Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 81,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "스페셜타임스",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBCeUs3UG9kSXRqb2JXaTh2MXhzel8yMm0yTFhtU2FaVklZNFFiMllobTBXNFN2RDNJQ3V1U3EyY2JiSXRrVG5mR083SDFsal9NNFBZd3FXYVVqLXc3MjJfYVAxYk1DYkN4cF8xYW14M19ZaUE?oc=5"
+    }
+  ]
+}

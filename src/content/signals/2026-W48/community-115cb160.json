@@ -1,0 +1,24 @@
+{
+  "id": "community-115cb160",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 Slow Green Life",
+  "url": "https://blog.naver.com/blue-forest/224484086860",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/Iwop8dy5r2Y",
+  "title": "\"3억 올려줬는데 FA 신청\"...강백호 보상선수 한승혁, 하주석 전철 밟나",
+  "published_at": "2026-11-22T17:00:00.000+09:00",
+  "collected_at": "2026-11-22T14:50:45.108Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-1c5c9984",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "오마이스타",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4xOU5hbUdwWUJGZENEYTFuOEp3bzlCWW42V25xclMtRVhfQlJOQlhTRXlTd00wRzRsSlVYT0VEZk4tUFo2TzB3NkYzM2NfM2dTTFlKVmN1eEc1R0hiSGVWWFhWeEtxMi14WTctSGRIeHd6WHdKY0dka2MxVVN1UQ?oc=5",
+  "title": "KBO 3년 연속 최다 안타 레이예스, 일본 진출 가능성 부상",
+  "published_at": "2026-11-22T01:18:00.000Z",
+  "collected_at": "2026-11-22T14:50:45.108Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 71,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

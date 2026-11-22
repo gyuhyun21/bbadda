@@ -1,0 +1,28 @@
+{
+  "id": "news-afd9395e",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스1",
+  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9CSTU5ZFFDSlRrUHVSc084dTVrNjh1QU10YWZCTktXVjhGcFdERnI5R3lHZFIwQm9QakhFUXBodTcxbkhGTkh5VDRHRW00eUhtUVg0REJaOA?oc=5",
+  "title": "프로야구 LG, 2027시즌 대비 마무리 캠프 종료",
+  "published_at": "2026-11-22T06:23:13.000Z",
+  "collected_at": "2026-11-22T14:50:45.108Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 81,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8xeC1mWUREZmhoZkdrUkFZWEV4Wi1TLUN5MGpYcVlHeFl0bk1WSUNQVEluaDBqcjhnVm56ZFhYMDJ5NzRqZVZLMFNtMnllSnNjNEk4OVpUNm13MzRtblZJd9IBeEFVX3lxTFBYMjhVcDdiWFBTcE9YbFZxbGxpSGloVy02cW5XMkxyMXplZVNjTW9XZElfMTRiaDY1eGhfVGluQTZyS0dCclkxaXFCQ3dXSVhPbTBEYzc5b3JvS050VkhhZXZxV25uTXg0Nm5YU2FqZHBDejNLWkdUTg?oc=5"
+    }
+  ]
+}

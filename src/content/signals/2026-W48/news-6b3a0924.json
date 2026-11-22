@@ -1,0 +1,23 @@
+{
+  "id": "news-6b3a0924",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "news",
+  "announcement": true,
+  "source_name": "MHN스포츠",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE80eHFnZm5CdXFmeldGN1JkTjNZM0FqaVRkSHIwNHlQejg4Q2dhNVEyR0RpajZLOUREeld6Z3dVd2ZSSDMwX2w3cS1wR0JMR295TEd1MkVIVmFfRmRkX1o5d0hHOA?oc=5",
+  "title": "[오피셜]문승원 15억 포함, 내부 FA에 93억 쓴 SSG…외부 FA엔 3배 쓴다? S급 잡을 수 있을까",
+  "published_at": "2026-11-22T04:30:33.000Z",
+  "collected_at": "2026-11-22T14:50:45.108Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

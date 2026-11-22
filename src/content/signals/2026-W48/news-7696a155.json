@@ -1,0 +1,33 @@
+{
+  "id": "news-7696a155",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "news",
+  "announcement": true,
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5nNzJLNHJFWE1rSFQtbWJNcG85d0VnVmpzYnYzLWthVjZQRXdyNWgwNWRDUjJRMkEtZHc3YzdzMHlKSzdOVjctTm9FX1ZpLUg1dzQzeGdpUWRlWUJOUzhrVElhSldnNXhNOGlnREV1TdIBb0FVX3lxTE5nNzJLNHJFWE1rSFQtbWJNcG85d0VnVmpzYnYzLWthVjZQRXdyNWgwNWRDUjJRMkEtZHc3YzdzMHlKSzdOVjctTm9FX1ZpLUg1dzQzeGdpUWRlWUJOUzhrVElhSldnNXhNOGlnREV1TQ?oc=5",
+  "title": "[오피셜] '와이스 복귀 무산' 한화 숄튼스 택했다, '154㎞ 빅리거' 11.7억에 영입",
+  "published_at": "2026-11-22T01:41:57.000Z",
+  "collected_at": "2026-11-22T14:50:45.108Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 87,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5yVGczVFA1U29CeGZWNHVyYlNveDhsNENMSUtlNVFULVIyM3BLZjQ4OVBBTUZIdFdRLUt5M2RqNWZnYTBvS2NTVjh1blM5eVJKQnFJejRQM2tmSmdaOS0yV19yWlRab3hoSzlVVjRPeU8zS00zM3c?oc=5"
+    },
+    {
+      "source_name": "서플 뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1Dc1lUZjhPUzF6c2hMY2RfSzJqZklvdmQ5X0xleU5taVoyQlpPSjNtNDJKWkNMTEN5ekpabm0td20yTjhsVGU3dFZjRlVjbXNualFYTGpweHdPcnhf?oc=5"
+    }
+  ]
+}

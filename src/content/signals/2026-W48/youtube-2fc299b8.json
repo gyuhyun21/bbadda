@@ -1,0 +1,26 @@
+{
+  "id": "youtube-2fc299b8",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "youtube",
+  "source_name": "박이컨",
+  "url": "https://www.youtube.com/watch?v=9Dn5uIKtTyA",
+  "title": "템플 히숭 님 캡컷 \"떡상을 위해 한걸음\" #야구 #lg트윈스",
+  "published_at": "2026-11-22T10:55:32Z",
+  "collected_at": "2026-11-22T14:50:45.108Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 184,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 25,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

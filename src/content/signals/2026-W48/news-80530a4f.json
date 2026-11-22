@@ -1,0 +1,32 @@
+{
+  "id": "news-80530a4f",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "news",
+  "source_name": "뉴시스",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5XZ0oxWEduQkZqWkZwQ0VVU1VkWFc0VjZBNHZTZ01MeGs3RkowUzJOblF5a200elZ6NXJlVnBoam5vX2VyT0xHUUdOdVdhVUlGaTd6S2ZlUTRZOER0enRZcdIBeEFVX3lxTE9oY0dGM2xMXzJPdTZ6UW82dHJtbkxkZlhCOTdYb1ZaTXhTUExSTTNQcXVjbzZteEdTUER6ajNJVU95ZFI1Z212TF9HbUpFVnViYXFMeEFXT0ZibnNEREZqeGJSR2FBVTRfSUpLVmlpOXV5dUhQSnlfOA?oc=5",
+  "title": "한화, MLB 탬파베이 출신 숄튼스 영입…외국인 투수진 구성 완료",
+  "published_at": "2026-11-22T01:52:15.000Z",
+  "collected_at": "2026-11-22T14:50:45.108Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 87,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "중도일보",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0yczB1b0hORUFRaTd6N1RtWC1welhVUE5xeE84NUpILVdMT2Vyam9GLUs0YmZCMFM5QlFtWERFWnozSi1ERUktemN3SzFtWE9fNkVycFVkQVJYMUpLSUJBcEtlSmRjOTBWaWhULQ?oc=5"
+    },
+    {
+      "source_name": "스포츠동아",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5PcVVDZlIycnRPZ2ZnMVltZnVZN2t3eVlOcE5XenE2THhUMC1CeTZ6WjQyWU1MQk8zcEp1OGZrYUFrTjNhSEY4U1ZTRXFTN2RnT01oNGVGVWR5c24zRTB6SVJKdEdpcWtob3ludG80NG9MQQ?oc=5"
+    }
+  ]
+}

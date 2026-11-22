@@ -1,0 +1,27 @@
+{
+  "id": "youtube-33961758",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt",
+    "lotte"
+  ],
+  "source_type": "youtube",
+  "source_name": "SPOFLIX_BASEBALL",
+  "url": "https://www.youtube.com/watch?v=VcPkSfV2aIA",
+  "title": "9탈삼진 경기를 펼치는 고영표ㅣ260407 KT vs 롯데",
+  "published_at": "2026-11-22T10:58:54Z",
+  "collected_at": "2026-11-22T14:50:45.108Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 708,
+    "likes": 1,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 33,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

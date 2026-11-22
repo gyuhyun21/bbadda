@@ -1,0 +1,28 @@
+{
+  "id": "youtube-764ac900",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "SSG랜더스",
+  "url": "https://www.youtube.com/watch?v=nq1wICUer64",
+  "title": "한일전 등판을 마친 건우에게 도착한 음성 메시지..🧈",
+  "published_at": "2026-11-21T09:00:01Z",
+  "collected_at": "2026-11-22T14:50:45.108Z",
+  "summary_ko": "SSG 공식 채널이 한일전 등판을 마친 건우에게 도착한 음성 메시지 영상을 올렸다.",
+  "metrics": {
+    "views": 58616,
+    "likes": 1583,
+    "comments": 91
+  },
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "한일전 마친 건우에게 온 메시지"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "community-a2019046",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "hanwha"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 킥오프24시",
+  "url": "https://blog.naver.com/kickoff24/224487118014",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/6d0qKP8cKuZ",
+  "title": "\"제구만 잡히면 진짜 괴물?\" KIA가 한화에 내준 양수호, 심재학 단장의 악몽 될까",
+  "published_at": "2026-11-22T21:06:00.000+09:00",
+  "collected_at": "2026-11-22T14:50:45.108Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

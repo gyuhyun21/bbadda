@@ -1,0 +1,29 @@
+{
+  "id": "news-9767918f",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "news",
+  "source_name": "일간스포츠",
+  "url": "https://isplus.com/article/view/isp202611220031",
+  "title": "문승원 최대 15억 잔류…6일 만에 '내부 FA 3명' 모두 잡은 SSG의 속도전",
+  "published_at": "2026-11-22T01:28:00.000Z",
+  "collected_at": "2026-11-22T14:50:45.108Z",
+  "summary_ko": "일간스포츠는 SSG가 문승원과 최대 15억 원에 계약하며 6일 만에 내부 FA 3명을 모두 잡았다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 71,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "https://www.asportstv.kr/",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA3QWx2SWJQaGtDTXZmTFU2emt2ZGszS2pSVl9yYWdKamM2SFVidll3TXdzWTREYjVsVm05NjA3eDFyTUNaSnhDWEVoZFZBMlZIZ1FDRXdxVWtpT0tjTk9IUDRwWEE0dF9U?oc=5"
+    }
+  ],
+  "brief_ko": "문승원 15억, 내부 FA 3명 끝"
+}

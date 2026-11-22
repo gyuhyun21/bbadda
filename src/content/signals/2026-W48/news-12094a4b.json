@@ -1,0 +1,22 @@
+{
+  "id": "news-12094a4b",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "재경일보",
+  "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9BenVzc1N6T2ZlaG5rX1R0a3EwTlphc2VhVUxZZFRYVzZ1bFdVa2ttRk9iV2hZVjAxbTNySmVpalB3bGZCeFZ3MW9NSQ?oc=5",
+  "title": "삼성 라이온즈 이호범 팔꿈치 수술 후 ITP 돌입 : 스포츠",
+  "published_at": "2026-11-22T07:59:15.000Z",
+  "collected_at": "2026-11-22T14:50:45.108Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 50
+  },
+  "sentiment": "negative"
+}

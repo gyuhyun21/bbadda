@@ -1,0 +1,23 @@
+{
+  "id": "community-f1857f00",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 우진스의 이야기",
+  "url": "https://blog.naver.com/dnwls01335/224487473188",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/IGvJc6KbbLK",
+  "title": "볼넷 78개 고른 홍창기, 롯데가 눈독 들일 만한 타자일까",
+  "published_at": "2026-11-22T22:09:00.000+09:00",
+  "collected_at": "2026-11-22T14:50:45.108Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}
