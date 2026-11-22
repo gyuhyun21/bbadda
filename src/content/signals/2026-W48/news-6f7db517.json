@@ -1,0 +1,28 @@
+{
+  "id": "news-6f7db517",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠월드",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1NRG9yN210QlhwcURzOFZ5cnN6Tm4xZWdwQjAtbktYUGdwdGNEWElyUTIyU1ozeHR2MzdKUEI1T01VNEVNOGV5dTN6VHhLWnhRUXhpMEY4MDlHeDVON0tPaFFB?oc=5",
+  "title": "‘불꽃야구2’ 신재영, 삼성 지명 신예와 맞대결…위기 넘길까",
+  "published_at": "2026-11-22T06:16:20.000Z",
+  "collected_at": "2026-11-22T14:50:45.108Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 73,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "스페셜타임스",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA0ZE1wVll6U3oxUEZBeVNMUHJjNVZ1OC0zUEtkQ0xLaW50b01icFV6WHcyOTRiUm9rSjFDdFpCenZBM0dSdi01RjMwMXNnQTl4bWFSMnNFVmp0RWZyNWhoRWNWWWlsa1lFZl9ZMmx3YW5rbWM?oc=5"
+    }
+  ]
+}

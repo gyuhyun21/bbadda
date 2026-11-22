@@ -1,0 +1,26 @@
+{
+  "id": "youtube-e110381e",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "따숨펫",
+  "url": "https://www.youtube.com/watch?v=KPSPjqimSmI",
+  "title": "50홈런 친 디아즈 조용한 이유 #삼성라이온즈 #디아즈 #KBO",
+  "published_at": "2026-11-22T10:14:05Z",
+  "collected_at": "2026-11-22T14:50:45.108Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1910,
+    "likes": 10,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 41,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

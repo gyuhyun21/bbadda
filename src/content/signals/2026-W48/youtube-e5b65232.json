@@ -1,0 +1,27 @@
+{
+  "id": "youtube-e5b65232",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "NC 다이노스",
+  "url": "https://www.youtube.com/watch?v=igHfOByHxSc",
+  "title": "🩵 루친스키 & 스크럭스의 영상 편지💌 | 우리 곧 만나요, 다이노스!",
+  "published_at": "2026-11-20T09:00:32Z",
+  "collected_at": "2026-11-22T14:50:45.108Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 40575,
+    "likes": 976,
+    "comments": 87
+  },
+  "scores": {
+    "hot": 72,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

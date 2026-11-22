@@ -1,0 +1,24 @@
+{
+  "id": "community-58d49c07",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "lg"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 더스코어 룸",
+  "url": "https://blog.naver.com/bns117/224487299144",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/IHhYtU0zfCG",
+  "title": "“홍창기 KIA로 가면 2번 타자 고민 끝?” LG가 먼저 계약 제안 안 한 이유",
+  "published_at": "2026-11-22T19:40:00.000+09:00",
+  "collected_at": "2026-11-22T14:50:45.108Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

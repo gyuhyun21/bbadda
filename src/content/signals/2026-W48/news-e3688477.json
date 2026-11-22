@@ -1,0 +1,29 @@
+{
+  "id": "news-e3688477",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "news",
+  "announcement": true,
+  "source_name": "조선일보",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUU5ZaHF5aDVfTTZKdExHbktaTXllMEE1dDVJZmtRNjZGdGNRQjM1SHhtZTI5U0lMUElTbEZyZjI0MHdqTE0xOVZUczJlY0JobGoyLWRLRkxaQ291NkFiN2hCUzhvekhvSGRPY0pURFBOWnMxbHZCZENLZ1l2T0didnYtYw?oc=5",
+  "title": "'칼 갈았네' 한화, 현역 ML 온다! 숄튼스 영입…외인 원투쓰리 완성 \"탄탄한 선발진 구축 기대\" [공식발표]",
+  "published_at": "2026-11-22T03:57:00.000Z",
+  "collected_at": "2026-11-22T14:50:45.108Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 72,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "연합뉴스TV",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9TTWkwTXA4ZThjTkUxMjAtNENoNGJhWFlyN0lDd2I1NGlXRnB1c1RwbkMyd19McmFZSWZnWFlXUEg3WVpXUnpDM3BQZVJvN3NIU1RBMTBJdjdwaDdSUm4tZUlwZlpKZVU?oc=5"
+    }
+  ]
+}

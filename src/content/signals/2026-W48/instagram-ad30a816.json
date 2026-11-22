@@ -1,0 +1,36 @@
+{
+  "id": "instagram-ad30a816",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "instagram",
+  "official": true,
+  "source_name": "Instagram @hanwhaeagles_soori",
+  "url": "https://www.instagram.com/p/DgBqLjlo3S_/",
+  "title": "한화 이글스 공식 인스타그램: 외국인 투수 제시 숄튼스 영입",
+  "published_at": "2026-11-22T01:47:25+0000",
+  "collected_at": "2026-11-22T14:50:45.108Z",
+  "summary_ko": "",
+  "metrics": {
+    "likes": 21947,
+    "comments": 230
+  },
+  "scores": {
+    "hot": 79,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "대전일보",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1rSmJRVjJud2RQU3BPOVZfYnpSVWxOR19qdG52ZTROVVRrX2pzTnBJWFFMY0NjTFQ0akVNX0Mtd3JXei1hT3hxdHI5SjNtQ1RIeUE3cEpwQi1ZMzVrejk0M3BaWmt5Z1FxTGstbHFaUdIBc0FVX3lxTE5ucGJWdVBSRVc5UnR0Zjd3ck96ZVl1Y0xqQXdnV0xGa01hN19XQy1nM1lhbEtJMElBQVM2ZGdSRjVZSG1VSlpXS0pOaDk2OE90Tmhuc2tUdzFjU09zQmJ3WDgycVVQZE9sc3JmRFhsZDJNN2c?oc=5"
+    },
+    {
+      "source_name": "대전MBC",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBpWTF3Tzl2ZEtxc21EcUlFMjBoWWJRQkRRZFBNM1pWWmNqeTJvSUFWOHZ2YVZWbmdnVHY5b3ZPVmlIaXFPZW05WVFXYS1TelE?oc=5"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "instagram-2bbd5a8a",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte",
+    "kiwoom"
+  ],
+  "source_type": "instagram",
+  "official": true,
+  "source_name": "Instagram @busanlottegiants",
+  "url": "https://www.instagram.com/p/Df9HqrWTrz-/",
+  "title": "롯데 자이언츠 공식 인스타그램: [TRADE] 롯데 자이언츠와 키움 히어로즈가 투수 정철원과 외야수 임지열을 맞바꾸는 트레이드를 단행했습니다.",
+  "published_at": "2026-11-20T07:30:10+0000",
+  "collected_at": "2026-11-22T14:50:45.108Z",
+  "summary_ko": "롯데 공식 인스타그램이 투수 정철원과 외야수 임지열을 맞바꾸는 키움과의 트레이드를 발표했다.",
+  "metrics": {
+    "likes": 18001,
+    "comments": 890
+  },
+  "scores": {
+    "hot": 80,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "부산일보",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAzRUVNRkNtSzl1MXdJM0J1QVNTNjVYd1FCN0YwSllLYUpVR2Q3MW80SUxVdHFUa05YcngySGU0VVpiQ1pCUGEyMkdoM185VzJwMGEwVlNLazc1RHdSQ0Fib3V0VjhxYTRiVWUwVDlvcFpBTUJG?oc=5"
+    },
+    {
+      "source_name": "영남신문",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9GS25oR1dseTNQeHhOSGJDNVF4NXRpTHYwY01Ua0wydGsxSlRaWjdMZjd2eXd0YkFCSzlySmp5UVRqTEVyMFE2cC1IRzVqdWNsNHk3UnVrazZkRC1obDJXRzdkU29HNmxfUUF5SUlB?oc=5"
+    }
+  ],
+  "brief_ko": "정철원↔임지열 1대1 트레이드"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-4efa57bb",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "남도일보",
+  "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9oV1JMWjhGYkpob0U4c3pDRmpLWVBCb0pZQWdQajl1UGYtb1dnS0hvNWtfLVRNNjVoc2V5RjVrcVJHRnRDcGpZdWJWVFhUbk5WVzhFbWx6YUVTLVVaVWtKTGFpYnNnQTg4SmxxT9IBcEFVX3lxTFBYQ3dQUkllWGtLSFFfSDlPVzVfZzJGOU1mcElHWnhYQUJPaV9wTGhuR0g3QmQ1YzhCRnhBdVdCbGFDZURhaG9BYkRjWkJYR0UycndUUm5yekZWeFZMUzBBWE9IV0EyUW1CZElINk1MTnU?oc=5",
+  "title": "[여기는 오키나와]코치 3명이 주목한 KIA 김현수…\"실력으로 1군 지킨다\"",
+  "published_at": "2026-11-22T04:43:20.000Z",
+  "collected_at": "2026-11-22T14:50:45.108Z",
+  "summary_ko": "남도일보는 오키나와 캠프에서 코치 3명이 KIA 김현수를 주목했고, 김현수가 실력으로 1군을 지키겠다고 했다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "코치 3명이 찍은 김현수"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "community-edac8fc6",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "엠엘비파크",
+  "url": "https://mlbpark.donga.com/mp/b.php?id=202611180120189651&p=121&b=kbotown&m=view&select=spf&query=KIA&site=donga.com",
+  "title": "[LG] 객관적인 기아타이거즈 보호선수 20인 / 풀리는 자원들",
+  "published_at": "2026-11-17T15:00:00.000Z",
+  "collected_at": "2026-11-22T14:50:45.108Z",
+  "summary_ko": "",
+  "excerpt": "... 보호선수 20인투수(13명)양현종 전상현 조상우 김도현 정해영이의리 황동하 최지민 윤영…",
+  "metrics": {},
+  "scores": {
+    "hot": 25,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

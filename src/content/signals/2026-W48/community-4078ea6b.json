@@ -1,0 +1,30 @@
+{
+  "id": "community-4078ea6b",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 sangjun2482님의블로그",
+  "url": "https://blog.naver.com/sangjun2482/224487343476",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/3wyXnxRgbOM",
+  "title": "에버랜드서 러닝·야구 축제까지",
+  "published_at": "2026-11-22T20:31:00.000+09:00",
+  "collected_at": "2026-11-22T14:50:45.108Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 83,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "스포츠월드",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9tYzJiX2twN09PZlRqbGVHSGJ0bE1EekJqNW5JaTlCT2FYaXNqcEV2OGI3cVpkd2d2VlVvNXJHOHg5NndDLURmdVdzd0xLRUVhRVZiWHNlMXljbGxhZTIyWUlB?oc=5"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-c7802176",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1iekZqR3JuN0xfa2FEakdZYlBfM01oTmhpTG5ULVlNMzRuUDg1WXRKUWs2YmVvQUtFbWNwbUJ4VGJ4VjZaVEtsTk5jX3B1V2UtQlVUQ2prUVp4YXUxdEstdEZ4WDZDbnpxY19TNElZZWRHejd1bnpPMNIBeEFVX3lxTE1iekZqR3JuN0xfa2FEakdZYlBfM01oTmhpTG5ULVlNMzRuUDg1WXRKUWs2YmVvQUtFbWNwbUJ4VGJ4VjZaVEtsTk5jX3B1V2UtQlVUQ2prUVp4YXUxdEstdEZ4WDZDbnpxY19TNElZZWRHejd1bnpPMA?oc=5",
+  "title": "'불꽃야구2' 신재영, 실점 위기...프로 진출자 맞대결",
+  "published_at": "2026-11-22T06:02:34.000Z",
+  "collected_at": "2026-11-22T14:50:45.108Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

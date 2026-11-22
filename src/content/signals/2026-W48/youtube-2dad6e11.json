@@ -1,0 +1,27 @@
+{
+  "id": "youtube-2dad6e11",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "LGTWINSTV",
+  "url": "https://www.youtube.com/watch?v=NCfZxOGPM5Q",
+  "title": "얼굴 보는 감독 vs 선수 보는 감독 ⚾️ 2026 영구매치 드래프트 [LP]",
+  "published_at": "2026-11-20T03:00:03Z",
+  "collected_at": "2026-11-22T14:50:45.108Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 255700,
+    "likes": 2839,
+    "comments": 289
+  },
+  "scores": {
+    "hot": 70,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

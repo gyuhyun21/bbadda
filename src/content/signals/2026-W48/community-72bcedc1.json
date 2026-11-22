@@ -1,0 +1,33 @@
+{
+  "id": "community-72bcedc1",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 스포츠산타",
+  "url": "https://blog.naver.com/tmdwns00428/224487227857",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/4P6Agl2VnTj",
+  "title": "[kbo]\"17홀드로 살아나더니 15억 원 받았다??\" SSG 문승원 FA 재계약, 2+1년 계약의 의미",
+  "published_at": "2026-11-22T19:50:00.000+09:00",
+  "collected_at": "2026-11-22T14:50:45.108Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 83,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "아주경제",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1RY05SbDB2bzg2T2VGVzVxU2tLSWM1TzVvX3FfcWRVQjNXd2JMZVEwcDg2NDFwYUhMQlZLZldoQXMxY2tJQjM5VWJ1NHJ5dDAwTG1UM2RXTG9sUdIBWEFVX3lxTE1OQWVzWjI0YS1mV1FBQmhscHM5NTYtZjVpWmVnWFRnYkV3UWZQVkJxaGdFbEItQUVNbXRmZzZhT2NnWENrYW1SM3NtV0haeWxnQmIxWUlEM3E?oc=5"
+    },
+    {
+      "source_name": "한스경제",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9YcmczZy1HYWRkWU9WWHZvbTN3cDhnel9RdENmMEVDMERWRDJJMENmb1FGNXVCT21BWTlPdUwyaldEb1dTWTVFdnFoTTV6NzI1NW5fMmxWYXVwYTNIVm9fTzRKUEZlSXhKdlBzczFsc9IBb0FVX3lxTE9YcmczZy1HYWRkWU9WWHZvbTN3cDhnel9RdENmMEVDMERWRDJJMENmb1FGNXVCT21BWTlPdUwyaldEb1dTWTVFdnFoTTV6NzI1NW5fMmxWYXVwYTNIVm9fTzRKUEZlSXhKdlBzczFscw?oc=5"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-fe0b07e6",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "뉴시스",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Ma0g2aGZBdUlwWThic3k1bGgyOTUtLTVMV2k4dm55cWFMRmgwOHVTMG5TaE8tZkduaEZyeFdlQUFzNHJ2am40Q2V1bklKMGdnRm84N21qc250M3p3My1TRdIBeEFVX3lxTE5xNFpVcFotamlyZ1ZLMkV2aWNYRElrTVVBdTJLWGQyb2pUbXNIcWJYV3FDNlZoUzJzM1JudW93MnA3cHRIWkc3S2ljZ29lRGVaRE5iRWdBVmZIajFzcGVTaThYY1Z5MDIwVC01aXJQTXpSWGk4bnVhSQ?oc=5",
+  "title": "23년만에 우승 강민호 \"막내 장찬희가 23년 간 뭐했냐고\"",
+  "published_at": "2026-11-21T15:00:00.000Z",
+  "collected_at": "2026-11-22T14:50:45.108Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

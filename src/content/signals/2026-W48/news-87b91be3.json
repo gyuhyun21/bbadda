@@ -1,0 +1,32 @@
+{
+  "id": "news-87b91be3",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "스타뉴스",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1HRUx3UWEyeDlpMjVIaUQtZkxKVXhwdlFodXNzeXA0cWQyYTVVYXJ3Q1BXbGhSWFBWM0ZlNUJoZ0VXWE8wRVBMUzFCRl9kZ3RNSmtIVklNVGFQZThMV09UblFzUGNwbTc4OVNsQ3NnemFNXzN3LXc?oc=5",
+  "title": "삼성, 11월 23일 '2027 신인선수 환영행사' 개최한다! 가족 초청해 새 출발 축하",
+  "published_at": "2026-11-22T02:00:50.000Z",
+  "collected_at": "2026-11-22T14:50:45.108Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 95,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE52cVg1anA3bi10ckh4NE9rcGUxVE1wUVI0V0F6Z2lkSEdGc2swRkNIT0xlS0VYLXZUZi1PVW9NbmJ6OXhqT2RMbUJPa1c3UVpUY1FuVDNCaTFzZ2FKMkU2ZENiSmt3VHpkMkNtRURLTdIBb0FVX3lxTE52cVg1anA3bi10ckh4NE9rcGUxVE1wUVI0V0F6Z2lkSEdGc2swRkNIT0xlS0VYLXZUZi1PVW9NbmJ6OXhqT2RMbUJPa1c3UVpUY1FuVDNCaTFzZ2FKMkU2ZENiSmt3VHpkMkNtRURLTQ?oc=5"
+    },
+    {
+      "source_name": "m.mksports.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5tVXYtbDdMZ29mVW9kc1VnbHRSdDZGOWxwUmxKY1piVmVIWk9jY3FPTV9HakVrazg3ZFgtRExxaS1JTU12Rk4tWkNBcTZqSllOUFp2eWNrZXVDSTVBY2xZZnZrXzM?oc=5"
+    }
+  ]
+}

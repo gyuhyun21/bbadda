@@ -1,0 +1,26 @@
+{
+  "id": "youtube-89bf30da",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "youtube",
+  "source_name": "himhim_힘힘",
+  "url": "https://www.youtube.com/watch?v=zg-HdHl1ggg",
+  "title": "안타왕 레이예스 재계약 빨간불!!#롯데자이언츠 #레이예스 #kbo #야구",
+  "published_at": "2026-11-22T12:07:41Z",
+  "collected_at": "2026-11-22T14:50:45.108Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1243,
+    "likes": 6,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 38,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "news-5c190aca",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://www.mt.co.kr/amp/sports/2026/11/22/202611221657772758O",
+  "title": "펑고-스윙 모두 1000개씩, 지옥의 '1000개 데이'로 '류지현호' 첫 캠프 종료... \"노력이 결과로 입증될 것, 34명 모두 MVP\"",
+  "published_at": "2026-11-22T08:09:00.000Z",
+  "collected_at": "2026-11-22T14:50:45.108Z",
+  "summary_ko": "머니투데이는 류지현 감독 체제 한화의 첫 캠프가 펑고·스윙 1000개씩의 '1000개 데이'로 끝났다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE51QWlycklzUi1TUHUzQVNCYVFybk5wMjJVUjNRZnc4eUFILUktQzhVNFNrejdLM0RZZTNFZU8wRV85c2JuYXhDZjhpLXBpTU1weDJjZg?oc=5"
+    }
+  ],
+  "brief_ko": "펑고·스윙 1000개, 첫 캠프 끝"
+}

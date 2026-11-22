@@ -1,0 +1,25 @@
+{
+  "id": "news-d6351a22",
+  "issue": "2026-W48",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kt",
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "아주경제",
+  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBTVmJkTkNSdmRDbEVidGMzbkZELUFxOVpXUjlaZk9DRl93YV9FRU85TW5kdnRVZmJJZnhCeVJTQ2JIX3Z2UXNRd2lZSkdvVmR6MHVTTlQzTWpLQdIBWEFVX3lxTE9pTWY0ZXVqT2Z5cGo1WDZrTDUxTW1pWUR0VjV0dHpsaFN6RkxlRWMyVEJoNVEzVGNmMjA0WDg2OTJuQ2pfMmxJNzhKeG14TFo2SHJvQ3EyTEQ?oc=5",
+  "title": "[강상헌의 빌드업] FA 최대어 원태인·구자욱 행보 촉각…보상 부담 적은 C등급 알짜도 관심",
+  "published_at": "2026-11-22T06:34:46.000Z",
+  "collected_at": "2026-11-22T14:50:45.108Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 89,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

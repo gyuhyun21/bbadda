@@ -1,0 +1,32 @@
+{
+  "id": "youtube-0b96b7f4",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "youtube",
+  "source_name": "야구 한입",
+  "url": "https://www.youtube.com/watch?v=z1pKOhLoFZw",
+  "title": "NC 마무리캠프 MVP \"김재민·허윤 공동 수상\"",
+  "published_at": "2026-11-22T07:25:29Z",
+  "collected_at": "2026-11-22T14:50:45.108Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1121,
+    "likes": 5,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 37,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "톱스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1rYUk2V2VjemJBR2tlQlJsZS1OUVItSlluNnFxZTQxcEt6NzlXaWozYWNIR25EeFVmYnFNZ3hFZThrSFRqb2JDLUEzYko1eklGVFpsUTdLSUJzX1YtMUtJcEZvdC1KS3JxLTFjZklBc0NzQQ?oc=5"
+    }
+  ]
+}

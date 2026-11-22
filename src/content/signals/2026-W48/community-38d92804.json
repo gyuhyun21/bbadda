@@ -1,0 +1,23 @@
+{
+  "id": "community-38d92804",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 고품질스토리",
+  "url": "https://blog.naver.com/imyohwan777/224486733935",
+  "title": "이럴수가! 39살 포수에게 또 55억원…양의지, FA 계약만 최대 290억원 쌓았다",
+  "published_at": "2026-11-22T16:40:00.000+09:00",
+  "collected_at": "2026-11-22T14:50:45.108Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

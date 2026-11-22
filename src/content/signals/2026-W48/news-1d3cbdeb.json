@@ -1,0 +1,23 @@
+{
+  "id": "news-1d3cbdeb",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "네이트",
+  "url": "https://m.news.nate.com/view/20261122n00287",
+  "title": "FA 시장 인기 상승? LG 역사상 '최고 리드오프', 방망이 주춤했지만 '눈' 살아있다…첫 FA 행선지 시선집중",
+  "published_at": "2026-11-21T16:00:00.000Z",
+  "collected_at": "2026-11-22T14:50:45.108Z",
+  "summary_ko": "기사는 LG 홍창기가 방망이는 주춤했지만 선구안이 살아 있어 첫 FA 행선지에 관심이 쏠린다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 60,
+    "relevance": 80
+  },
+  "sentiment": "neutral",
+  "brief_ko": "홍창기, 첫 FA 행선지는"
+}

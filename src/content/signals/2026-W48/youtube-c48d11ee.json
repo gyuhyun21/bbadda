@@ -1,0 +1,27 @@
+{
+  "id": "youtube-c48d11ee",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "더비야, 이거 봐!",
+  "url": "https://www.youtube.com/watch?v=Y7KOuFZZpXw",
+  "title": "홍창기 FA, 타율 .239 뒤에 볼넷 78개가 있었다",
+  "published_at": "2026-11-22T08:45:19Z",
+  "collected_at": "2026-11-22T14:50:45.108Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1209,
+    "likes": 1,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 35,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "youtube-0d25f599",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "기아타이거즈 KIA TIGERS",
+  "url": "https://www.youtube.com/watch?v=XKaCE9W0Xbo",
+  "title": "10월 전상현은 차원이 달라 🔞 [월간 나레이션]",
+  "published_at": "2026-11-22T10:09:01Z",
+  "collected_at": "2026-11-22T14:50:45.108Z",
+  "summary_ko": "KIA 공식 채널이 10월 전상현의 투구를 내레이션으로 돌아보는 영상을 올렸다.",
+  "metrics": {
+    "views": 48239,
+    "likes": 1958,
+    "comments": 262
+  },
+  "scores": {
+    "hot": 89,
+    "relevance": 50
+  },
+  "sentiment": "neutral",
+  "brief_ko": "10월 전상현 돌아보기"
+}

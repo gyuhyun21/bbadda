@@ -1,0 +1,23 @@
+{
+  "id": "news-4aefdebe",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠경향",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE56WEdlajQxaW1MbDRDMnBvUGdGeEQ0a21nWDNVYXpISDlUMzQwZWszLUw4OEdnZnlraXdhWVphSGJsbHVVS3lBNkd5bGU4TFJmRzAyMWx6UWFUQTN0V2JuWG5Cc9IBY0FVX3lxTE56WEdlajQxaW1MbDRDMnBvUGdGeEQ0a21nWDNVYXpISDlUMzQwZWszLUw4OEdnZnlraXdhWVphSGJsbHVVS3lBNkd5bGU4TFJmRzAyMWx6UWFUQTN0V2JuWG5Ccw?oc=5",
+  "title": "두산 마운드에서 첫 시즌 보낸 김영현 “왜 투수력 1등 팀인지 알겠더라”",
+  "published_at": "2026-11-22T02:33:00.000Z",
+  "collected_at": "2026-11-22T14:50:45.108Z",
+  "summary_ko": "스포츠경향은 두산에서 첫 시즌을 보낸 김영현이 왜 투수력 1등 팀인지 알겠더라고 말했다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "김영현, 두산 첫 시즌 소감"
+}

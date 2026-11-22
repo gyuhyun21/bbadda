@@ -1,0 +1,22 @@
+{
+  "id": "news-93c9efe9",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "news",
+  "source_name": "파이낸셜뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9qMUV5R1AyWExVeHdrRzB0NXo4Y01hLWE5V0VRQzdKajF6WjU5VFdPOUY2QjFLTzI1dFhHUGJvUi1HekFVTTNJR2dmaUJtNk9aUmdNWGlFVjBZQQ?oc=5",
+  "title": "SSG 집토끼 사수 끝… 외부 FA 시장 조준",
+  "published_at": "2026-11-22T09:23:55.000Z",
+  "collected_at": "2026-11-22T14:50:45.108Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "youtube-4dae5d1b",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "source_name": "아치하이넷",
+  "url": "https://www.youtube.com/watch?v=yUN7j51U-kw",
+  "title": "월드시리즈 준우승팀이 일부러 풀어 준 투수, 한화가 데려온 숄튼스의 통산 기록 #숄튼스 #한화이글스",
+  "published_at": "2026-11-22T12:00:06Z",
+  "collected_at": "2026-11-22T14:50:45.108Z",
+  "summary_ko": "팬 채널이 월드시리즈 준우승팀이 풀어 준 투수 숄튼스의 통산 기록을 짧게 정리했다.",
+  "metrics": {
+    "views": 1014,
+    "likes": 1,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 34,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "brief_ko": "숄튼스 통산 기록 한눈에"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "youtube-b3278607",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "키움히어로즈",
+  "url": "https://www.youtube.com/watch?v=R8M0QO6L7Us",
+  "title": "땀방울로 다시 쓰는 나의 야구⚾ |  2026 마무리캠프 투수조의 하루",
+  "published_at": "2026-11-21T09:30:16Z",
+  "collected_at": "2026-11-22T14:50:45.108Z",
+  "summary_ko": "키움 공식 채널이 2026 마무리캠프 투수조의 하루를 담은 영상을 올렸다.",
+  "metrics": {
+    "views": 27291,
+    "likes": 331,
+    "comments": 94
+  },
+  "scores": {
+    "hot": 62,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "마무리캠프 투수조의 하루"
+}

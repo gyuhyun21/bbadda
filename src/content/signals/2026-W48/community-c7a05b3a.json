@@ -1,0 +1,24 @@
+{
+  "id": "community-c7a05b3a",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "레딧 r/KBO",
+  "url": "https://www.reddit.com/r/KBO/comments/1y21oa0/mlb_tenders_status_check_on_korean_series_mvp_koo/",
+  "title": "MLB tenders status check on Korean Series MVP Koo Ja-wook",
+  "published_at": "2026-11-21T16:50:45.108Z",
+  "collected_at": "2026-11-22T14:50:45.108Z",
+  "summary_ko": "",
+  "excerpt": "... KBO's Hanwha Eagles To Post Si Hwan Roh For MLB Teams · r/KBO -…",
+  "metrics": {},
+  "scores": {
+    "hot": 60,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

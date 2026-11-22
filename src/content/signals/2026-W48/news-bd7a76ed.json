@@ -1,0 +1,32 @@
+{
+  "id": "news-bd7a76ed",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스핌",
+  "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5iYnlha2xBcGFlNXhIZnQ3bmNFdzBGX0t3dTM5YlpDdEJSZ0xzT0ozVUxpS0ZSbEhzcXZlSUd4TWpHY2s3N0ZDRkpiX091bk0yR095Zmxaejc5WGxz?oc=5",
+  "title": "[프로야구] 한화, '현역 MLB 투수' 숄튼스와 87만5000달러에 계약",
+  "published_at": "2026-11-22T02:10:00.000Z",
+  "collected_at": "2026-11-22T14:50:45.108Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 79,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "한스경제",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE53ZWZ4QS1iaHNPZ1JDZUpKMWJ5cU5rMjgyZlRxWTdNUUV6QmhvWWQ3bHp4RXdvN0hJck5xMnZYVWJrNjVyX0FfTVM5bkhMYVh6R3M1ZWxTdGlidy1MTFFYWUJzOHBmUlRjdWZn0gFvQVVfeXFMUDRnZTdPTVdvblM5U3Z1ZHNXbW8zWko4LUswaXpPcUxXcHZuNTl5WDNyZG1ZY2ZfWTNSRkFPU1Q3QnlUX2Y4OUhjYXB0UGx2bm1jNjRONTFuaXBrc2NBV3hpeDhuNmVjSnBVdHpqaHA4?oc=5"
+    },
+    {
+      "source_name": "아주경제",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1kaTRScjctXzMtUmxLdFRtc3VicHB1SDNyeWxxa2s0cFozVFlobTlRWVJxaWRhMkJWZ3ZzbW50S2lMY1ZUcm9HWjVMSjY4SHhaUm83NDRHWVhYUdIBWEFVX3lxTE5GYlFJWkZaRFgyVWt3ZTJjRldPbU5jeVFnel9zcGRwek1BRUVUa3BSbF9JUWR1UndWajZhZEl1SjRtWmY0bi1MeXFudURlQlZUSFJ5bzdBUFI?oc=5"
+    }
+  ]
+}

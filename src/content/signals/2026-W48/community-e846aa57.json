@@ -1,0 +1,24 @@
+{
+  "id": "community-e846aa57",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 MATCH DAY ON AIR",
+  "url": "https://blog.naver.com/zsporchive/224487413545",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/B7sNJF0uwVe",
+  "title": "정철원 “우승으로 증명해라” 해명, 롯데 떠나는 아쉬움 밝혔다",
+  "published_at": "2026-11-22T21:19:00.000+09:00",
+  "collected_at": "2026-11-22T14:50:45.108Z",
+  "summary_ko": "블로그는 보도에 따르면 정철원이 '우승으로 증명해라' 발언을 해명하며 롯데를 떠나는 아쉬움을 밝혔다고 정리했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "brief_ko": "정철원, '증명해라' 발언 해명"
+}

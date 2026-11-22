@@ -1,0 +1,29 @@
+{
+  "id": "news-4a7c4f21",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "news",
+  "announcement": true,
+  "source_name": "SPOTV NEWS",
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9mMkdDek13dGZ0N1RpaGFUajBEdU9VUDZ5WEo0U0JVaGN0OHRYY0pzTGdRbTRRQ1hlVk1IR3VNUmJ0ZVgtYUE4TTdYNVdpMkVEdmMxLUg4OEpsTXBHM3ZZbHU0Vy03b1ZiRVQzX1ZFN2k?oc=5",
+  "title": "[오피셜] 원·투 펀치 구성 완료! 한화, 154km 파이어볼러 숄튼스 영입 \"이닝 이터 역할 기대\"",
+  "published_at": "2026-11-22T01:43:09.000Z",
+  "collected_at": "2026-11-22T14:50:45.108Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 71,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "뉴스엔톡",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB0TWd0dGNnU2pvTEFOeFdfM3RiREl2WEUwc1ZLMXBDTGNPdWJfX056aHdRbWtIaFZiOEE3ekVhU2h4ak1sUFVRSjhQUnQxY3BIdHhnUkJEY085MWxoeDA4V1Rfd2ZEWUNSZFdpdg?oc=5"
+    }
+  ]
+}

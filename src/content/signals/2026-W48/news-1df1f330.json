@@ -1,0 +1,29 @@
+{
+  "id": "news-1df1f330",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://www.mt.co.kr/amp/sports/2026/11/22/2026112206113320381",
+  "title": "'와' 한화 페라자 무력 시위! 윈터리그 3G 6안타 4타점 맹폭 \"컨디션 100% 아니지만...\"",
+  "published_at": "2026-11-21T21:41:00.000Z",
+  "collected_at": "2026-11-22T14:50:45.108Z",
+  "summary_ko": "머니투데이는 한화 페라자가 윈터리그 3경기에서 6안타 4타점을 올렸다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 70,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4zbThrS0hsMkpVWGtEbWc1TGc1YXhqdzNhLXE5dm9CTVkzcVJLRU5ldllTVkZoTWg1ZFp5aUxHd2lZaVZrQzhZLWlDRlp6ODhvVDJKV3dLbUI5MVhXb1pKdkU0cnNLTnE4bHdsM1RFanMxbnRVeWc?oc=5"
+    }
+  ],
+  "brief_ko": "페라자, 윈터리그 3G 6안타"
+}

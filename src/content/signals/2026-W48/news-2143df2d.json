@@ -1,0 +1,29 @@
+{
+  "id": "news-2143df2d",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "스타뉴스",
+  "url": "https://www.starnewskorea.com/sports/2026/11/22/2026112206000048267",
+  "title": "롯데 초비상! 급박해지는 레이예스 상황, 협상 교착 상태서 한발 더 나아가 \"이미 관심 보이는 美·日 구단 있어\"",
+  "published_at": "2026-11-21T21:11:00.000Z",
+  "collected_at": "2026-11-22T14:50:45.108Z",
+  "summary_ko": "스타뉴스는 롯데와 레이예스의 협상이 교착 상태이고, 미국·일본 구단이 이미 관심을 보인다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 78,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5rd0hLZWlWaG5YTW45a1RMYzA0bWFPd2FDMkJEb2IyMklzMVA3dTUzQVhqOHMyQ3drdWNJN0lwd2Q1VmY1c2NpaXFLN1lMa0hQV05vNTlDSTNUb0NpODR2MFY1ZXFGZllGQ1NIUEpTa9IBb0FVX3lxTE5rd0hLZWlWaG5YTW45a1RMYzA0bWFPd2FDMkJEb2IyMklzMVA3dTUzQVhqOHMyQ3drdWNJN0lwd2Q1VmY1c2NpaXFLN1lMa0hQV05vNTlDSTNUb0NpODR2MFY1ZXFGZllGQ1NIUEpTaw?oc=5"
+    }
+  ],
+  "brief_ko": "레이예스 협상, 교착 상태"
+}

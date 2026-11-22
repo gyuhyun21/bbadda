@@ -1,0 +1,36 @@
+{
+  "id": "community-a4437b7b",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 스포츠잔망의 스포츠 이야기",
+  "url": "https://feel0622.tistory.com/925",
+  "title": "프로야구 한화 이글스, 우완 투수 제시 숄턴스 영입… 87만5천달러 계약·외국인 투수진 완성",
+  "published_at": "2026-11-22T19:10:57.000+09:00",
+  "collected_at": "2026-11-22T14:50:45.108Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 90,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9wQng3MTFzT005TFByVzBsb1kwOWxWeHZaU3cyVHFuUUM1WWJwdUR0a2JYQ0FiWmFmMDQwTU1MNHd6SHMxNzNiRjctejkxVk8wMk5vQkdGTUlGM1nSAWBBVV95cUxNd0kxZk9kR3VDUDQzbUpweGlYVS1XNVNXa3FiYVJtc1hsbkVOMXFmX2VOMzFmNExhaE84NjlfN2U5X2haTTJveExWRW5IQmJHLU1FN2FWMmkwamRvMkpkU3k?oc=5"
+    },
+    {
+      "source_name": "m.maniareport.com",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1jNDBPZ0ZqRmFURWxYY1Y1bjRKeUFjaEMtYm85eEpUUEdoTVpaYTF0RWZ4cFZHU0phOGNVeTFXYWQzMFk5c3ZYb0tNYlRkZjhJdk1NTU1iT245VDdORjJxT2VhUVNXOUZGWDlBTFE1S1hiNmtjZU1EOVpWaw?oc=5"
+    },
+    {
+      "source_name": "천지일보",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9HTjFBLW9Td09EejlYUE9ONTItX3lHVS13eHRFQjRZeWxqbzJTanFoV3Z2NWVEcktqRU9VNlQtVkZWUERMQTVHWTZpZmJqdXh6SXQzRzNZa2tQSEVsVm1QOV9EQXcycW5iVFE?oc=5"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": "news-48c132a3",
+  "issue": "2026-W48",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "news",
+  "source_name": "엑스포츠뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE03ci1QSzVJNmRKRkl6QUpia0xxMjZ2c0xtM1ZIUjdhamNEeC1CTlhmeHJySWd3STJMcU1PLWZwUFlsYjNrRWxxemV1Z2xtV0d0VklLMQ?oc=5",
+  "title": "'경축! 2025년 졸업생 두산 베어스 입단'…2개월 넘게 모교에 걸린 현수막→AI 시대에도 KBO리그 지명은 큰 자랑이다",
+  "published_at": "2026-11-21T17:42:54.000Z",
+  "collected_at": "2026-11-22T14:50:45.108Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 84,
+    "relevance": 80
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "네이트",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE41T0MtUlRYdGo2VGJtZWtxZURXMjFPUDB6eXd1RkZkT1NuN0hGMkZCS2RFY2gzYThRLW01MjRnRnphbG56bEl4WDB1QnBJYVJQNlMzdjh3?oc=5"
+    }
+  ]
+}

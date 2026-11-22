@@ -1,0 +1,31 @@
+{
+  "id": "community-f5a705ca",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "doosan",
+    "ssg"
+  ],
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&document_srl=10584381948",
+  "title": "삼성 두산 SSG의 공통점: - 야구",
+  "published_at": "2026-11-22T05:50:45.108Z",
+  "collected_at": "2026-11-22T14:50:45.108Z",
+  "summary_ko": "",
+  "excerpt": "... 인기 한화 이글스 제시 숄텐스 뜯어보기 [18]. 11.22 Brewers V1 서번트 조회1269 추천37. 한화…",
+  "metrics": {},
+  "scores": {
+    "hot": 97,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "마이데일리",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBrb19NNUdWbjRDZzlGMFFyX3E2VTNFdVE2bk9SRmVGOS1PbzM3U0VSNl9zT0FndXNTcVFqdVlMUHZRZXphUVFUcHJDSzJjSGpPcVdPQXlGcjNoRGxkd09zUA?oc=5"
+    }
+  ]
+}

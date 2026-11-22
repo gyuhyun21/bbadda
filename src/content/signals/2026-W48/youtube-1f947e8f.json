@@ -1,0 +1,27 @@
+{
+  "id": "youtube-1f947e8f",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "맛있스포츠 Deliciousports",
+  "url": "https://www.youtube.com/watch?v=3iaE4srqWXs",
+  "title": "1라운더를 살리기 위한... \"김원형감독의 노력\"",
+  "published_at": "2026-11-22T12:00:36Z",
+  "collected_at": "2026-11-22T14:50:45.108Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 45390,
+    "likes": 1130,
+    "comments": 35
+  },
+  "scores": {
+    "hot": 72,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

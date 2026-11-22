@@ -1,0 +1,44 @@
+{
+  "id": "youtube-71894f83",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "source_name": "MLBIEW",
+  "url": "https://www.youtube.com/watch?v=1bATwcQRuEU",
+  "title": "한화 이글스 제시 숄텐스 영입",
+  "published_at": "2026-11-22T14:00:13Z",
+  "collected_at": "2026-11-22T14:50:45.108Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 449,
+    "likes": 1,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 31,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "데일리스포츠한국",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9CZ3FSZmVwMXU5U0Vhc01HUlhURU1WWWtfQUZKeFktVVkzbXNiMk9wX1FVa0ZBa0JQM1BkY0NDMlhKcnJzSHpsMUxTeTM1RXhyaGM0M1lFY3Y2a2VXSkhaWkF4NEhZSjROZHYxLUpuZkxDRUFvbWc5bnJQSFlkS0HSAX9BVV95cUxPQmdxUmZlcDF1OVNFYXNNR1JYVEVNVllrX0FGSnhZLVVZM21zYjJPcF9RVWtGQWtCUDNQZGNDQzJYSnJyc0h6bDFMU3kzNUV4cmhjNDNZRWN2NmtlV0pIWlpBeDRIWUo0TmR2MS1KbmZMQ0VBb21nOW5yUEhZZEtB?oc=5"
+    },
+    {
+      "source_name": "국제뉴스",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5jMFQ4NlFUN1NJYTFib1N2eG5oaUdOSXUzQW1JTExNajlQTjVOVm92d2w1V2xGNGZMSnc1T2VLenI1MVdlQ01RaEZFSGE2NXRzSm9IRlo5bFJsZ0I3UVh1RHFFQzl6c3dSbFlzdmV3?oc=5"
+    },
+    {
+      "source_name": "스포츠한국",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1OQlZWa0RTcEs3d0hsYzlKQmRmNV9hdHhpYzVUTHphRHpOMzlzcFo4RUFfOWsxeVpISXhLQTFnek9aQmdOWHdnNE9jRUxWeExhd0RPdEtFSmFJOTFTeGNRNks4UnJzeXFmMGZ1UWF3eXDSAXRBVV95cUxPdmoyUlluRVpoRUNRT1NCRUFhbUk1aDl5Z0paWFk5aTJrTm01eUZFNDlCa0FEUXlKSDhzbDB5TzRTdEk2d0hYcV96cVVqQlZ4TEg1YTg3WUk3U0JhNjl0MUhtRWhLandCZFZZa210TkRfRjR2SQ?oc=5"
+    },
+    {
+      "source_name": "데일리안",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPQjdTM0ZZc3RrNFpEaWRGV1BUczdRbFVOTjJ1aVFwNFV1TjB5elhwNEtKQ0t1VkZLMFYtVnA0Tnp6dkYxeDR1Rlg3UnpsNllrdzdCQ291RERpZlMxUGkzYV84NFVrZ2tTeklzekpuUS1NTnFMU2ZHVFdzdW43UkJxUHRKdmd6cXpEVENMLXNWWEJ4aE5mYm56cEpLNjJKYkpCbjloVkFfWDgtQ3RsVHA1WGl2ZG1CRTJUSHcyMUlGTnRfTmZnUXZUNmpKNTFwemF2R3Axb3V2QUhHempPOFhDXzd3d2dBTHB0WUFZUGN5NHNuTHplQVdyb1JsSElfYWdXV1E?oc=5"
+    }
+  ]
+}

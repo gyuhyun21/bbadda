@@ -1,0 +1,23 @@
+{
+  "id": "community-d52478ff",
+  "issue": "2026-W48",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 planb",
+  "url": "https://blog.naver.com/planbbl/224486894666",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/KkY0RTvO4Im",
+  "title": "두산 퇴출 딜런 파일, MLB 데뷔 재도전…텍사스 계약의 현실",
+  "published_at": "2026-11-22T18:39:00.000+09:00",
+  "collected_at": "2026-11-22T14:50:45.108Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}
