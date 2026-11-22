@@ -1,0 +1,107 @@
+{
+  "music": "bgm-morning",
+  "subStyle": "yt",
+  "outro": {
+    "hold": 1.5,
+    "fade": 0.5
+  },
+  "pool": {
+    "no": 29,
+    "series": "그날의 야구",
+    "ep": 14,
+    "facts": "센세 확인 2026-11-23(기사 2곳 이상, PR 본문 표)"
+  },
+  "segments": [
+    {
+      "src": "clip1.mp4",
+      "from": 0,
+      "to": 9,
+      "credit": "MLB",
+      "yt": "RFJ3Z76kDc8",
+      "say": "a1.mp3",
+      "text": "이천십육년 월드시리즈 칠차전. 컵스가 앞서던 팔회말, 클리블랜드 라자이 데이비스가 동점 투런 홈런을 쳤어.",
+      "kick": "그날의 야구 #14",
+      "head": "8회말<br><b>동점 투런</b>",
+      "sub": "WS 7차전 8회말, 데이비스 동점 투런 6:6",
+      "note": "출처: MLB.com·SABR · 영상: MLB",
+      "fx": [
+        {
+          "at": 1.7,
+          "text": "딱!",
+          "style": "sfx"
+        }
+      ],
+      "lines": {
+        "at": 1.7,
+        "dur": 1.0
+      }
+    },
+    {
+      "src": "clip2.mp4",
+      "from": 0,
+      "to": 20,
+      "credit": "MLB",
+      "yt": "p0OqEx_0VsQ",
+      "say": "a2.mp3",
+      "text": "육 대 육으로 구회가 끝나자 비가 쏟아져 경기가 십칠 분 멈췄어. 그 사이 컵스 선수들은 라커룸에 모였지.",
+      "kick": "17분 우천 중단",
+      "head": "비가 와서<br><b>17분 멈춤</b>",
+      "sub": "9회 뒤 17분 중단, 선수들끼리 미팅",
+      "note": "출처: MLB.com·SABR · 영상: MLB",
+      "fx": [
+        {
+          "at": 2.0,
+          "text": "하필 지금",
+          "style": "mind"
+        }
+      ]
+    },
+    {
+      "src": "clip3.mp4",
+      "from": 0,
+      "to": 14,
+      "credit": "MLB",
+      "yt": "cE_1ShFSrY0",
+      "say": "a3.mp3",
+      "text": "십회초, 벤 조브리스트가 왼쪽 선상 적시 이루타를 쳤고, 몬테로 적시타까지 나와 팔 대 육이 됐어.",
+      "kick": "10회초",
+      "head": "조브리스트<br><b>결승 2루타</b>",
+      "sub": "조브리스트 결승 2루타, 몬테로 적시타 8:6",
+      "note": "출처: MLB.com·SABR · 영상: MLB",
+      "fx": [
+        {
+          "at": 2.5,
+          "text": "결승타",
+          "style": "pop"
+        }
+      ]
+    },
+    {
+      "src": "clip4.mp4",
+      "from": 0,
+      "to": 12,
+      "credit": "Dead Channel",
+      "yt": "NndM9JhLub4",
+      "say": "a4.mp3",
+      "text": "십회말 한 점을 내줬지만, 마지막 타구를 브라이언트가 잡아 일루로. 팔 대 칠, 백팔 년 만의 우승이었어.",
+      "kick": "108년 만의 우승",
+      "head": "8:7<br><b>108년 만에</b>",
+      "sub": "8:7 승리, 1908년 이후 첫 우승",
+      "note": "출처: MLB.com·SABR·Chicago Sun-Times · 영상: Dead Channel",
+      "fx": [
+        {
+          "at": 5.0,
+          "text": "우승",
+          "style": "stamp"
+        }
+      ]
+    }
+  ],
+  "end": {
+    "look": "profile",
+    "head": "108년 기다린<br><b>한 판</b>",
+    "cta": "컵스 팬이면 좋아요!",
+    "say": "a5.mp3",
+    "text": "컵스 팬이면 좋아요 눌러 줘."
+  }
+}
