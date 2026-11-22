@@ -1,0 +1,23 @@
+{
+  "id": "community-50ecff9b",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 스포트렌드(SPOTREND)",
+  "url": "https://blog.naver.com/01697676807/224487584156",
+  "title": "45홈런 치고 수비상까지 받은 김도영, 왜 3루를 떠나려 할까",
+  "published_at": "2026-11-23T01:00:00.000+09:00",
+  "collected_at": "2026-11-22T21:46:26.274Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

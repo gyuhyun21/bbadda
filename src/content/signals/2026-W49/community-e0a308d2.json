@@ -1,0 +1,29 @@
+{
+  "id": "community-e0a308d2",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 SPOTLIGHT",
+  "url": "https://blog.naver.com/agentwannabe/224487232241",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/C0MNtEBXDNG",
+  "title": "이승엽과 어깨를 나란히 했던 유망주’ 4번의 퓨처스 홈런왕 자리에 올랐던 이 선수, 삼성 김승관(KBO)",
+  "published_at": "2026-11-23T00:39:00.000+09:00",
+  "collected_at": "2026-11-22T21:46:26.274Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 82,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "Naver Blog",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOOGVxOTQzM1Y2S29nWHRZMU4wNHM2MUlrdUU0UVhTVXBBbHZKWDI2UXlCYUg2VFctSDZCZW5CMHRPeUU0WGZldEVoay1wcUlETDEzc3BtZWJTZFEzenVjRGp6TmtxSVMwTWVIXzdKMUdNZmM3UnpXbTBLd2FHeGxOdnp5QUNJbFEtWV9VVkRNYTVxUER6?oc=5"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "community-e3315dbe",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&page=7&document_srl=10584842758",
+  "title": "청라 부동산 투자한거 생각하면 뉴욕메츠처럼 - 야구",
+  "published_at": "2026-11-22T08:46:26.274Z",
+  "collected_at": "2026-11-22T21:46:26.274Z",
+  "summary_ko": "",
+  "excerpt": "... LG TWINS 소식 없나요? [2]. 18 분 전 자유 케인 조회70 추천2. LG TWINS…",
+  "metrics": {},
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

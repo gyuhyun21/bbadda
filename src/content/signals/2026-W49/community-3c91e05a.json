@@ -1,0 +1,24 @@
+{
+  "id": "community-3c91e05a",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 스포츠 헌터의 핫이슈 브리핑",
+  "url": "https://blog.naver.com/tongtii/224487746036",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/7VfdEEFYZ0m",
+  "title": "야구 노시환 캔자스시티 로열스 영입 유력, 사토보다 저렴하다?",
+  "published_at": "2026-11-23T04:03:00.000+09:00",
+  "collected_at": "2026-11-22T21:46:26.274Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

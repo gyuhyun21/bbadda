@@ -1,0 +1,24 @@
+{
+  "id": "community-5b8c2665",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 스포츠 다이어리",
+  "url": "https://blog.naver.com/sportpulse/224487173625",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/nivcCmg6W4",
+  "title": "\"이택근 단장 다 계획이 있었나?” 정철원 보내고 박상원 영입설 나온 이유",
+  "published_at": "2026-11-23T00:17:00.000+09:00",
+  "collected_at": "2026-11-22T21:46:26.274Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

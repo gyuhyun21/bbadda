@@ -1,0 +1,23 @@
+{
+  "id": "community-35165a38",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 스포츠 인사이트",
+  "url": "https://blog.naver.com/base-goal/224487566878",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/2iuBkSAGAoT",
+  "title": "\"55억 계약 끝났는데 또 잡았다고?” SSG, 15억 더 투자한 베테랑의 정체",
+  "published_at": "2026-11-23T00:00:00.000+09:00",
+  "collected_at": "2026-11-22T21:46:26.274Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

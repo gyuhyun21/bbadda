@@ -1,0 +1,30 @@
+{
+  "id": "community-d76cebe5",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 스포츠 헌터의 핫이슈 브리핑",
+  "url": "https://blog.naver.com/tongtii/224487781109",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/38louQd6DhK",
+  "title": "⚾ KBO FA C등급 대박 행진! 김호령 김상수 전병우 계약 가세할까",
+  "published_at": "2026-11-23T05:33:00.000+09:00",
+  "collected_at": "2026-11-22T21:46:26.274Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 100,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "엑스포츠뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAzdGhrQ2VVWWQtX1d0NVJlTm1sbk9PdWwwQV9sczZ2dEZvVjhmWW9HbGJqMFFRWEJYb1JnQ2RNTkY3cDF5LWhhQTNKSW0xTWFqVmRTbg?oc=5"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "news-045b4e96",
+  "issue": "2026-W49",
+  "module": "league",
+  "teams": [],
+  "source_type": "news",
+  "source_name": "www.maniareport.com",
+  "url": "https://www.maniareport.com/view.php?ud=20261123023133303791b55a0d56_19&mobile=1",
+  "title": "구자욱 '블랙홀'에 스토브리그 활활 타오른다…원태인은 예상 밖으로 조용, 왜?",
+  "published_at": "2026-11-22T17:33:46.000Z",
+  "collected_at": "2026-11-22T21:46:26.274Z",
+  "summary_ko": "마니아리포트는 구자욱 영입 경쟁으로 스토브리그가 달아올랐지만, 원태인 쪽은 예상 밖으로 조용하다고 짚었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 30
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "m.maniareport.com",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1Cb0FvblRQWmZjSzhLMlBXZ2w0cXF2eEJCeF9hUmtmNV91S2hwUVp5bHNxT2k0eS1mdnVpTHEzYjVOLTZRWnMyZnY2VWNZbUFyWklpWXJGcENvR2dLNHlEdlYtY3ZHaGNlTjNDTFY3dC01UGlyM0JBMFNobw?oc=5"
+    }
+  ]
+}

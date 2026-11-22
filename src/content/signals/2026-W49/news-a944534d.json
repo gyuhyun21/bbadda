@@ -1,0 +1,23 @@
+{
+  "id": "news-a944534d",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스핌",
+  "url": "https://www.newspim.com/news/view/20261121000012",
+  "title": "[프로야구] 탄탄해진 SSG 센터라인, 2027시즌 상위권 도약 노린다",
+  "published_at": "2026-11-22T21:00:00.000Z",
+  "collected_at": "2026-11-22T21:46:26.274Z",
+  "summary_ko": "뉴스핌은 SSG가 탄탄해진 센터라인을 바탕으로 2027시즌 상위권 도약을 노린다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "센터라인 탄탄, 상위권 겨냥"
+}

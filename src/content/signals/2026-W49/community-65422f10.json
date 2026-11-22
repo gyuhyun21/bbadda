@@ -1,0 +1,23 @@
+{
+  "id": "community-65422f10",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 포츠B",
+  "url": "https://blog.naver.com/pochitta/224487683445",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/KJoISrt4Wz1",
+  "title": "\"설마 KBO로 돌아오나?\" 김하성 계약, MLB보다 국내 복귀가 더 현실적일 수도 있는 이유",
+  "published_at": "2026-11-23T01:57:00.000+09:00",
+  "collected_at": "2026-11-22T21:46:26.274Z",
+  "summary_ko": "블로그 글은 김하성이 MLB 계약보다 KBO 복귀가 더 현실적일 수 있다는 분석을 내놨다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

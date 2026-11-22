@@ -1,0 +1,22 @@
+{
+  "id": "news-ffc8fb79",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "마이데일리",
+  "url": "https://mydaily.co.kr/page/view/2026112302552456490",
+  "title": "KIA에 가장 필요한 FA는 원태인…이런 선수 앞으로 안 나올텐데, 최소 200억원이면 비싸다, 그림의 떡인가",
+  "published_at": "2026-11-22T19:10:00.000Z",
+  "collected_at": "2026-11-22T21:46:26.274Z",
+  "summary_ko": "마이데일리는 KIA에 가장 필요한 FA로 원태인을 꼽으면서도, 최소 200억 원이 거론돼 현실적으로 쉽지 않다고 짚었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 83,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

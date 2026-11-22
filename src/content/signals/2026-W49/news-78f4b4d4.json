@@ -1,0 +1,28 @@
+{
+  "id": "news-78f4b4d4",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://www.mt.co.kr/amp/sports/2026/11/23/2026112300194831760",
+  "title": "FA 구자욱 에이전트 없이 홀로 서울 호텔에? '소문 파다'... \"삼성 떠난다는 생각을 한 적은 없었다\" 4년 전 발언 재소환 이유",
+  "published_at": "2026-11-22T19:09:00.000Z",
+  "collected_at": "2026-11-22T21:46:26.274Z",
+  "summary_ko": "보도에 따르면 FA 구자욱이 에이전트 없이 홀로 서울 호텔에 머문다는 소문이 돌고 있다. 머니투데이는 \"삼성 떠난다는 생각을 한 적은 없었다\"는 4년 전 발언도 다시 소개했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 91,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4yVFlkejBXNURCTlhQQzdxU3d4NmFKUjR1cDRoekMzYlBQamdTOGpwYUFEa3NVUHc0UGw5T0VNQlBBT0cwcEZpTnBnSUx4dktVUFBJYnhvb2FYMmdtNUtLNFhMdTZfUEdsOWZ5S1lyX0hWeDFVamc?oc=5"
+    }
+  ]
+}

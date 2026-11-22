@@ -1,0 +1,22 @@
+{
+  "id": "news-294df842",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "news",
+  "source_name": "SPOTV NEWS",
+  "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1021240",
+  "title": "‘초갑부 구단’ 메츠, 진짜 노시환 영입하나… 주전 선수 트레이드설까지, 자리가 나온다",
+  "published_at": "2026-11-22T15:30:00.000Z",
+  "collected_at": "2026-11-22T21:46:26.274Z",
+  "summary_ko": "보도에 따르면 메츠가 노시환 영입을 검토하고 있고, 주전 선수 트레이드설까지 나와 자리가 생길 수 있다고 SPOTV NEWS가 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "community-ca240042",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "더쿠",
+  "url": "https://theqoo.net/kbaseball/4393325116",
+  "title": "KBO 각 구단 마지막 한국시리즈 우승 콜",
+  "published_at": "2026-11-21T23:46:26.274Z",
+  "collected_at": "2026-11-22T21:46:26.274Z",
+  "summary_ko": "",
+  "excerpt": "... LG 트윈스 - 2025년 SBS 정우영. 바깥쪽, 배트 끝에 걸렸고 이 타구 유영찬이 잡아서…",
+  "metrics": {},
+  "scores": {
+    "hot": 60,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}
