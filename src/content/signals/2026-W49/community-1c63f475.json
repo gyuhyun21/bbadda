@@ -1,0 +1,23 @@
+{
+  "id": "community-1c63f475",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 포츠B",
+  "url": "https://blog.naver.com/pochitta/224487740247",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/3qs7HUMRNSr",
+  "title": "\"세베리노 보내고 MLB 올스타?\" 두산 외국인 타자 닉 카스테야노스 영입설, 오히려 걱정되는 이유 3가지",
+  "published_at": "2026-11-23T03:49:00.000+09:00",
+  "collected_at": "2026-11-22T21:46:26.274Z",
+  "summary_ko": "블로그 글은 두산 외국인 타자 후보로 닉 카스테야노스 영입설이 나왔다며, 오히려 걱정되는 이유 3가지를 꼽았다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

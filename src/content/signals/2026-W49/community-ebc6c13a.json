@@ -1,0 +1,23 @@
+{
+  "id": "community-ebc6c13a",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 GAVIS BASEBALL KBO 분석",
+  "url": "https://blog.naver.com/gavis_/224487720592",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/Ac3G8RDs3LC",
+  "title": "두산 정수빈 지방 구단 50억 제안도 거절설... 4년 30억 후반에 잔류 임박",
+  "published_at": "2026-11-23T05:20:00.000+09:00",
+  "collected_at": "2026-11-22T21:46:26.274Z",
+  "summary_ko": "블로그 글에 따르면 정수빈이 지방 구단의 50억 원 제안을 거절하고 4년 30억 원대 후반에 잔류할 것이라는 설이 돈다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

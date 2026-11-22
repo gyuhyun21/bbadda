@@ -1,0 +1,23 @@
+{
+  "id": "community-af66e4ab",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 한화팬HJ",
+  "url": "https://blog.naver.com/hj-note/224487683659",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/3Wp1KIZgOj",
+  "title": "문승원 2+1년 최대 15억원 SSG 랜더스 잔류",
+  "published_at": "2026-11-23T01:51:00.000+09:00",
+  "collected_at": "2026-11-22T21:46:26.274Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

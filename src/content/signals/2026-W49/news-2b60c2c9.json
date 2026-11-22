@@ -1,0 +1,22 @@
+{
+  "id": "news-2b60c2c9",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스1",
+  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1hRTNTbkZOS01UU2pLLUhkV0xoZ3RoaVBGaXR2ay1oUW4zWjQ2TzBmc295Tk9ESGoydm1EMk85QzVaQVlQLWRZZldWSWctTmctbHQ0RU9lQQ?oc=5",
+  "title": "내부 FA 3명 붙잡은 SSG, 이제 외부 FA에 눈길…영입 1순위는 야수",
+  "published_at": "2026-11-22T21:00:00.000Z",
+  "collected_at": "2026-11-22T21:46:26.274Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

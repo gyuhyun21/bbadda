@@ -1,0 +1,24 @@
+{
+  "id": "community-fa106924",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg",
+    "kt"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 미완 | 未完",
+  "url": "https://blog.naver.com/best789/224487625986",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/5e3pa2Cnuc8",
+  "title": "박동원, 정말 LG 떠날까? KT 이적설에 나온 구단의 답변",
+  "published_at": "2026-11-23T00:29:00.000+09:00",
+  "collected_at": "2026-11-22T21:46:26.274Z",
+  "summary_ko": "블로그 글은 박동원의 KT 이적설과 이에 대한 LG 구단의 답변을 정리했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "community-6a901d99",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "엠엘비파크",
+  "url": "https://mlbpark.donga.com/mp/b.php?id=202611180120184167&p=1&b=kbotown&m=view&select=spf&query=SSG&site=donga.com",
+  "title": "최지훈 재계약",
+  "published_at": "2026-11-17T15:00:00.000Z",
+  "collected_at": "2026-11-22T21:46:26.274Z",
+  "summary_ko": "",
+  "excerpt": "... [공식발표]'드디어 오피셜 떴다' 떠날 생각 없었던 최지훈, 4년 67억원에 계약. SSG 랜더스가 주전 중견수…",
+  "metrics": {},
+  "scores": {
+    "hot": 23,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

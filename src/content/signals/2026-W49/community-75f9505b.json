@@ -1,0 +1,24 @@
+{
+  "id": "community-75f9505b",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/10584379989",
+  "title": "오늘자 오타니 근황 - 야구",
+  "published_at": "2026-11-22T05:46:26.274Z",
+  "collected_at": "2026-11-22T21:46:26.274Z",
+  "summary_ko": "",
+  "excerpt": "... 인기 한화 이글스 제시 숄텐스 뜯어보기 [18]. 11.22 Brewers V1 서번트 조회1269 추천37. 한화…",
+  "metrics": {},
+  "scores": {
+    "hot": 62,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

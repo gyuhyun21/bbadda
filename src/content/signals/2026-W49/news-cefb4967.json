@@ -1,0 +1,24 @@
+{
+  "id": "news-cefb4967",
+  "issue": "2026-W49",
+  "module": "rivalry",
+  "team": "nc",
+  "teams": [
+    "nc",
+    "lg",
+    "hanwha"
+  ],
+  "source_type": "news",
+  "source_name": "한스경제",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1Gd0VXQ3NzaW5SV2tQZ1JGZy1WbE9oNmdTOFJ1TThmX0FTeGRxRFAzaDk1ZjJFYUduTU9GakM5UFZiU1k2Mm1ELUZhZS04QXM4cFpmUTRiTzBSZVVSbXRwTzBYLTN0OWQzWHVHdW9Ua9IBb0FVX3lxTE1Gd0VXQ3NzaW5SV2tQZ1JGZy1WbE9oNmdTOFJ1TThmX0FTeGRxRFAzaDk1ZjJFYUduTU9GakM5UFZiU1k2Mm1ELUZhZS04QXM4cFpmUTRiTzBSZVVSbXRwTzBYLTN0OWQzWHVHdW9Uaw?oc=5",
+  "title": "프로야구 NC·LG·한화, 2027시즌 대비 마무리캠프 마쳐",
+  "published_at": "2026-11-22T15:45:48.000Z",
+  "collected_at": "2026-11-22T21:46:26.274Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "youtube-91c04516",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "youtube",
+  "source_name": "시사식탁",
+  "url": "https://www.youtube.com/watch?v=3y-uHkzwcxU",
+  "title": "팀이 내보낸 내야수의 결말 #김휘집 #NC다이노스",
+  "published_at": "2026-11-22T21:30:20Z",
+  "collected_at": "2026-11-22T21:46:26.274Z",
+  "summary_ko": "팬 영상은 트레이드로 팀을 옮긴 내야수 김휘집의 이후 행보를 다뤘다.",
+  "metrics": {
+    "views": 7,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 15,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}
