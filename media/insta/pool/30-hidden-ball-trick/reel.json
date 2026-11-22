@@ -1,0 +1,103 @@
+{
+  "music": "bgm-morning",
+  "subStyle": "yt",
+  "outro": {
+    "hold": 1.5,
+    "fade": 0.5
+  },
+  "pool": {
+    "no": 30,
+    "series": "야구 고수",
+    "ep": 11,
+    "facts": "센세 확인 2026-11-23(기사 2곳 이상·MLB 공식 규칙, PR 본문 표)"
+  },
+  "segments": [
+    {
+      "src": "clip1.mp4",
+      "from": 0,
+      "to": 12,
+      "credit": "MLB",
+      "yt": "dFAGpCsmTeg",
+      "say": "a1.mp3",
+      "text": "수비수가 공을 몰래 숨겨 두고, 주자가 베이스에서 발을 떼는 순간 태그. 이게 숨긴 공 트릭이야.",
+      "kick": "야구 고수 #11",
+      "head": "공은 어디?<br><b>숨긴 공 트릭</b>",
+      "sub": "공을 숨겼다가 주자가 떨어지면 태그",
+      "note": "출처: ESPN(AP)·NBC Sports · 영상: MLB",
+      "fx": [
+        {
+          "at": 2.5,
+          "text": "공 어딨지",
+          "style": "mind"
+        }
+      ]
+    },
+    {
+      "src": "clip2.mp4",
+      "from": 0,
+      "to": 12,
+      "credit": "MLB",
+      "yt": "yMf5FwYk2Bs",
+      "say": "a2.mp3",
+      "text": "속임수 같지만 규칙 위반은 아니야. 그래서 메이저리그에서도 가끔 나와.",
+      "kick": "합법",
+      "head": "반칙 아님<br><b>정상 플레이</b>",
+      "sub": "규칙상 문제없는 플레이",
+      "note": "출처: ESPN(AP)·NBC Sports · 영상: MLB",
+      "fx": [
+        {
+          "at": 3.0,
+          "text": "아웃",
+          "style": "stamp"
+        }
+      ]
+    },
+    {
+      "src": "clip3.mp4",
+      "from": 0,
+      "to": 12,
+      "credit": "MLB",
+      "yt": "EWn4xGyvpkE",
+      "say": "a3.mp3",
+      "text": "조건은 하나. 투수가 공 없이 투수판을 밟거나 걸치고 있으면 안 돼. 그러면 보크야.",
+      "kick": "조건",
+      "head": "투수판에서<br><b>떨어져야</b>",
+      "sub": "공 없는 투수가 투수판 위 = 보크",
+      "note": "출처: MLB 공식 규칙 6.02(a)(9)·ESPN(AP) · 영상: MLB",
+      "fx": [
+        {
+          "at": 4.5,
+          "text": "보크",
+          "style": "pop"
+        }
+      ]
+    },
+    {
+      "src": "clip4.mp4",
+      "from": 0,
+      "to": 12,
+      "credit": "Indergaard",
+      "yt": "DDDWgPLxFCg",
+      "say": "a4.mp3",
+      "text": "이천이십오년 팔월, 샌디에이고 마차도가 삼루 주자를 태그했는데, 투수가 투수판에 서 있어서 보크. 주자는 그냥 홈을 밟았어.",
+      "kick": "2025년 8월",
+      "head": "태그했는데<br><b>보크</b>",
+      "sub": "투수가 투수판 위, 보크로 1점 헌납",
+      "note": "출처: ESPN(AP)·NBC Sports·CBS Sports · 영상: Indergaard",
+      "fx": [
+        {
+          "at": 4.0,
+          "text": "앗!",
+          "style": "sfx"
+        }
+      ]
+    }
+  ],
+  "end": {
+    "look": "profile",
+    "head": "숨길 땐<br><b>투수판 조심</b>",
+    "cta": "처음 알았으면 좋아요!",
+    "say": "a5.mp3",
+    "text": "처음 알았으면 좋아요 눌러 줘."
+  }
+}
