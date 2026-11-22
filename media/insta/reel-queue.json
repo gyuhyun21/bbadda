@@ -80,7 +80,8 @@
     "2026-11-18": "pool/18-balk-walkoff",
     "2026-11-19": "pool/20-pitch-clock",
     "2026-11-20": "pool/22-ground-rule-double",
-    "2026-11-21": "pool/24-catcher-interference"
+    "2026-11-21": "pool/24-catcher-interference",
+    "2026-11-22": "pool/26-runner-hit-by-ball"
   },
   "2026-11-12": [
     "2026-11-12-reel",
@@ -144,6 +145,7 @@
   ],
   "2026-11-22": [
     "2026-11-22-reel",
-    "pool/25-colon-first-homer"
+    "pool/25-colon-first-homer",
+    "pool/26-runner-hit-by-ball"
   ]
 }
