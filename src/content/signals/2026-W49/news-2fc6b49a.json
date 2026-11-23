@@ -1,0 +1,23 @@
+{
+  "id": "news-2fc6b49a",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA0azhaRjhjSUxyVFlCbG55d3FxVFB0d0FPeXBRZm0zcnRsa3VlZkFxS01OUzQzSkRQQkZlaC1DWDBFMFpEVFg4aFk3T0JETlFyM0ZQMjVvS0d2NHZzQWp5WllnOGtwUmFqdFRKMkpUc9IBb0FVX3lxTFA0azhaRjhjSUxyVFlCbG55d3FxVFB0d0FPeXBRZm0zcnRsa3VlZkFxS01OUzQzSkRQQkZlaC1DWDBFMFpEVFg4aFk3T0JETlFyM0ZQMjVvS0d2NHZzQWp5WllnOGtwUmFqdFRKMkpUcw?oc=5",
+  "title": "\"야구 위해 태어난 것 같다\" 이대형 코치도 깜짝 놀랐다! '카메라 밖' 22세 국대 내야수 대체 어땠길래... \"생각보다 몇십 배 이상\" 찬사",
+  "published_at": "2026-11-22T22:31:00.000Z",
+  "collected_at": "2026-11-23T07:37:44.948Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

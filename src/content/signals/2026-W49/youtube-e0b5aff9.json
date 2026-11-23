@@ -1,0 +1,26 @@
+{
+  "id": "youtube-e0b5aff9",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "youtube",
+  "source_name": "KBO 역대급랭킹",
+  "url": "https://www.youtube.com/watch?v=zgCm5fRohBE",
+  "title": "국내 타자 최다 208안타 MVP 후보 KT 최원준 안타 순위 신기록 203안타까지",
+  "published_at": "2026-11-23T02:41:06Z",
+  "collected_at": "2026-11-23T07:37:44.948Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 994,
+    "likes": 2,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 44,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

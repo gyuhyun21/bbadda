@@ -1,0 +1,23 @@
+{
+  "id": "news-91854b65",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠경향",
+  "url": "https://sports.khan.co.kr/article/202611230954003/amp",
+  "title": "‘2027 키움’이 궁금? ‘어떤 불펜’일지 궁금···‘9+1’의 구도와 작별하려면",
+  "published_at": "2026-11-23T00:54:00.000Z",
+  "collected_at": "2026-11-23T07:37:44.948Z",
+  "summary_ko": "스포츠경향은 2027 키움이 불펜을 어떻게 꾸리느냐에 따라 하위권 구도에서 벗어날 수 있을지가 갈린다고 짚었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "2027 성패, 불펜에 달렸다"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "news-c3400d25",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://www.mt.co.kr/amp/sports/2026/11/23/202611230715778532O",
+  "title": "“부족함 뼈저리게 느꼈다” 수술 딛고 우승까지…삼성 이재희가 팬들에게 전한 진심",
+  "published_at": "2026-11-23T00:40:00.000Z",
+  "collected_at": "2026-11-23T07:37:44.948Z",
+  "summary_ko": "머니투데이는 수술을 딛고 우승을 맛본 삼성 이재희가 부족함을 뼈저리게 느꼈다며 팬들에게 진심을 전했다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 82,
+    "relevance": 70
+  },
+  "sentiment": "mixed",
+  "also_in": [
+    {
+      "source_name": "OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBIUzFBbjdrcExqbTJSTURzUUJidy1vS1JhVTVod29oaHF6T2tqQ1Vhb1VYdm15Qldxelo3bkU2V1V6RXVOY1JDMFFqeG5ybWphazk5SQ?oc=5"
+    },
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQN2JzWFI1a2xlVkJQc3F3LXUwbDRpWjdQaGNiVzFBTk12OEd5TE93endPTEpZeF9xa2p4UmNzbGh6aWhjNmNQdWRaTmtBbjBIaFpIdXlTLUhXcmRsb01wUUFDT2ZId083QTJTSHplOGlhQzgwaFVmX000QmFmYXl3Qjdfaw?oc=5"
+    }
+  ],
+  "brief_ko": "수술 딛고 우승, 이재희의 진심"
+}

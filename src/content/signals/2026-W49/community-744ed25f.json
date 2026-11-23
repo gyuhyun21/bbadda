@@ -1,0 +1,24 @@
+{
+  "id": "community-744ed25f",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte",
+    "kiwoom"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 오늘은 뭐볼까?",
+  "url": "https://blog.naver.com/is_yoon_1982/224488197699",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/BH71thyHLiN",
+  "title": "[11월 23일 KBO 뉴스] 구자욱 MLB 도전? 문승원 15억 계약·롯데 키움 트레이드까지!",
+  "published_at": "2026-11-23T13:09:00.000+09:00",
+  "collected_at": "2026-11-23T07:37:44.948Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

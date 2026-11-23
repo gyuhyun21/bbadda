@@ -1,0 +1,28 @@
+{
+  "id": "community-de2fef16",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 레고킴의 스포츠 인사이트",
+  "url": "https://blog.naver.com/ksw2069/224487561553",
+  "title": "롯데 레이예스 놓치나? 재계약 협상에 심상치 않은 기류",
+  "published_at": "2026-11-23T12:00:00.000+09:00",
+  "collected_at": "2026-11-23T07:37:44.948Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "파이낸셜뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9MVkZZUWNuZW0wUjRTS19YR1pXMXBVWUdYQzhZTDdoYk1PMzM5dUJXanVpeFI0UlA1VmZTRG1TWU1EcmJmRDQ3UWFicFlQZ2s2ZEZtRlMtVm1RQQ?oc=5"
+    }
+  ]
+}

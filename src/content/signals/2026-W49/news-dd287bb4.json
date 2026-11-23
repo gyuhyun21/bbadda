@@ -1,0 +1,23 @@
+{
+  "id": "news-dd287bb4",
+  "issue": "2026-W49",
+  "module": "rivalry",
+  "team": "lotte",
+  "teams": [
+    "lotte",
+    "doosan"
+  ],
+  "source_type": "news",
+  "source_name": "재경일보",
+  "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9JWEhWOVVrTW9VUUdteE5CSzBaVG80YVhUWVlTc2FzYXdwNmpEdG1BQUpWczNSbzlyYjNaTGJqQ1F2YjNLa1JNZVZSWQ?oc=5",
+  "title": "롯데 캠프 합류 아이토 두산전 안타…외야 점검 : 스포츠",
+  "published_at": "2026-11-23T00:10:36.000Z",
+  "collected_at": "2026-11-23T07:37:44.948Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

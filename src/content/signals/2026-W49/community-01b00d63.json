@@ -1,0 +1,33 @@
+{
+  "id": "community-01b00d63",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 스포츠 헌터의 핫이슈 브리핑",
+  "url": "https://blog.naver.com/tongtii/224488287824",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/ByTDcCYXmqF",
+  "title": "🔥 LG 트윈스 이병규 박용택 러브기빙데이 영구결번 3인방 총출동!",
+  "published_at": "2026-11-23T13:21:00.000+09:00",
+  "collected_at": "2026-11-23T07:37:44.948Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 91,
+    "relevance": 50
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "SPOTV NEWS",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8tVUhVUXYzM3dzX0FVT3hSNjRQVkhzcm8wQ3BwMVZZd2hvV3RQWXdGTWQyaVd4ZC04OURuUmtpc1FMNDFvVHBBeTlhbWJacnFMTGpiODQ1NjJ0cnZqa2VBM29MMEVDdWcxR3d3b1BpdS0?oc=5"
+    },
+    {
+      "source_name": "스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5wY2hrQ2FUa042UXpuckVHVkp2YUNreGc0cFA3bTZ1Mmx6elctYTBlOGpBSldJUjF5N1BqQnN5WVg1cTZTWktnNUEzZUhDVDhWTG0zWXBHRVNkYndwQ0xCZVpodEZaa0VxZ09CanQ2WW0teXJmTkE?oc=5"
+    }
+  ]
+}

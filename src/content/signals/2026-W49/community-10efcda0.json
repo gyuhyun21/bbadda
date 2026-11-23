@@ -1,0 +1,24 @@
+{
+  "id": "community-10efcda0",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&page=7&document_srl=10587292762",
+  "title": "엠팍재밌네 - 야구",
+  "published_at": "2026-11-23T03:37:44.948Z",
+  "collected_at": "2026-11-23T07:37:44.948Z",
+  "summary_ko": "",
+  "excerpt": "... 삼성 라이온즈 29일 대구 도심 카퍼레이드 [8]. 11.23 뉴스 통곡의벽이재현 조회7037 추천28. 12년만의 우승…",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

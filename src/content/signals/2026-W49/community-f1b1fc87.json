@@ -1,0 +1,22 @@
+{
+  "id": "community-f1b1fc87",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 카프카",
+  "url": "https://blog.naver.com/wlsxodhks0924/224488263482",
+  "title": "“김호령 잡으려고 40억을 쓴다고?” KIA FA 협상에 나온 충격적인 이야기",
+  "published_at": "2026-11-23T13:24:00.000+09:00",
+  "collected_at": "2026-11-23T07:37:44.948Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

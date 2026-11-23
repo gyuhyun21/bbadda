@@ -1,0 +1,34 @@
+{
+  "id": "news-6bf8463f",
+  "issue": "2026-W49",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "www.xportsnews.com",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9tLUFhS0x4S3UzMWNmU2FxZWg4T1FWY05qazd4c3ZUb0dsWXludFNNcnA3cmo0aFdiVVk4M2pJQnZOUHlLZXZGSi1UWHQ4WWVuWVp2cg?oc=5",
+  "title": "'FA 최대어' 구자욱, 일구상 최고타자상 수상…'2관왕' 곽빈은 최고투수상",
+  "published_at": "2026-11-23T02:49:05.000Z",
+  "collected_at": "2026-11-23T07:37:44.948Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 98,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9UNmZZZDlUMDdmQVRSYnBIY0p6eGlwNTBFREF6Vk1GcmhaTFZMVjNCUlhSellXWlVvXzlVT2VLWE00d3J1aUpJWVRoVTRFcHphOURMQmtHaGdKdnd5Tkt3YWtPSXRhNm1wb2xteXl4c9IBb0FVX3lxTE9UNmZZZDlUMDdmQVRSYnBIY0p6eGlwNTBFREF6Vk1GcmhaTFZMVjNCUlhSellXWlVvXzlVT2VLWE00d3J1aUpJWVRoVTRFcHphOURMQmtHaGdKdnd5Tkt3YWtPSXRhNm1wb2xteXl4cw?oc=5"
+    },
+    {
+      "source_name": "미주중앙일보",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9JMmVwRlVXeFhHV1dnZlU2N25MZTkzUHpnT0Z3REtBMC1CY2ZvdTZ0VVdzQUNHUDVFWGlnRm9FS3BCX2w0c2s1X3JfazY1d2tMWURuMWJiVHdEUzNnUWRyQ0dn?oc=5"
+    }
+  ]
+}

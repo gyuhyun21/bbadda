@@ -1,0 +1,26 @@
+{
+  "id": "youtube-63470413",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "youtube",
+  "source_name": "엠엘비 센터 【MLB CENTER】",
+  "url": "https://www.youtube.com/watch?v=R-QL4Kzsa4U",
+  "title": "KT가 한국시리즈에서 무너진 이유",
+  "published_at": "2026-11-23T06:00:07Z",
+  "collected_at": "2026-11-23T07:37:44.948Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 5864,
+    "likes": 120,
+    "comments": 18
+  },
+  "scores": {
+    "hot": 73,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

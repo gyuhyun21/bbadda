@@ -1,0 +1,24 @@
+{
+  "id": "community-5797d860",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&document_srl=10587920319",
+  "title": "정세영은 요즘 틀리는게 더 많지않나 - 야구",
+  "published_at": "2026-11-23T07:24:44.948Z",
+  "collected_at": "2026-11-23T07:37:44.948Z",
+  "summary_ko": "",
+  "excerpt": "... 정세영은 우리팀 소식 맞추는거 없으면서 매번 이 팀으로 어그로를 [1]. 4 분 전 자유…",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "community-06b595c1",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 콩스 엔비에-이",
+  "url": "https://blog.naver.com/shitttcoin/224488281537",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/7vrhIju6FyK",
+  "title": "김태군 25억 값어치 증명, KIA는 왜 '2번 포수'로 보나",
+  "published_at": "2026-11-23T13:53:00.000+09:00",
+  "collected_at": "2026-11-23T07:37:44.948Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 91,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "파이낸셜뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE84aGRsdDBzdUZJQlUzSFJyS1o5ZmFiaE9MVjVyYWNaYVI5NEk0d2QxSUItR0t2VkltQjdBSU04NUJ5b0hsNjRKSXpydnV5Y013V0ExTElrRi1CUQ?oc=5"
+    },
+    {
+      "source_name": "fn스타",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5CMmxnXzE1Z3ozMzVzeHg0a0FpUm5ra3hIR3VLRkxDTHplR05wT09ySHhfTjh5RTlGRFpPVEhYallmZ3l4Z0F5a1dVN0h4dGo3dzZ5eHZWSlpDejQ4ZzBv0gFjQVVfeXFMUGdOR0VBMHVrb1luSGVVb2lPenJBMlFMV0VDWmFmSlduQmpHcjZNaTZOUy1CM0d1ZEJtb3VQc0QyOFlTV1VWM1hpRS1DV0hZdG8wckR3S29fMmtPMXNmRG85T2tj?oc=5"
+    }
+  ]
+}

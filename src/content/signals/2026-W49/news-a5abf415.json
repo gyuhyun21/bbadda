@@ -1,0 +1,32 @@
+{
+  "id": "news-a5abf415",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스1",
+  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1acGN1NG1wX1BSeTU5MnczZHEtVjFIakhpU1NLV0s5TS1GbjZlSHRrWXdTa241NWxFaGkwSzU5QUxWdnFMVms1c0Fwa280ZU5wM240MEEzMA?oc=5",
+  "title": "박용택·이병규, 감독으로 맞대결…LG, 29일 '러브기빙데이' 개최",
+  "published_at": "2026-11-23T02:17:00.000Z",
+  "collected_at": "2026-11-23T07:37:44.948Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 82,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1seXpjRENIZ19SZkRqM08xaDhyN2Jzb1c5MXV2dm5zVzVHcVBULWdoZDBTdFJoQk9FYWNBLXlzMklIVEpvVkdRa1VWZzBlWmRZbU9sS2FoRi1vNHJySHgyNtIBeEFVX3lxTE1EOGJ1azgtMzh2T1E0VDJwaTg3dW9JRWFzN1dtRFFGTldKYnlIWmlfTmpTTGdwaEczaTJyc3hHNjBBQlN5S0ltRHRMaVAweEl1RTNiaWh3anhzZTRBTHhIVVVqRmU3SnRWcWNIOFRUNmZvQ2NyOUtjdg?oc=5"
+    },
+    {
+      "source_name": "스포츠동아",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5wZ01YWmFMWjFzczFSNHdRNW90OEd0RjBGQXIwVGozYVgxOFF2MGJ5dm9kRno4OGFrZHFndWNmTGZOUTB2d2FpN1pwUWZWTnJ4N2l5M0ItTFUybC1rcUNxTmVsLW5DWXlFT1dYaVBqWkV2Zw?oc=5"
+    }
+  ]
+}

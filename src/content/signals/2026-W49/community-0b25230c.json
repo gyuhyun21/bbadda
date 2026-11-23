@@ -1,0 +1,24 @@
+{
+  "id": "community-0b25230c",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 이슈 한 스푼",
+  "url": "https://blog.naver.com/issue_spoon/224488304763",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/Cqg0OxNrTg2",
+  "title": "구자욱 FA 협상 메이저리그 진출 및 국내 구단 경쟁",
+  "published_at": "2026-11-23T13:34:00.000+09:00",
+  "collected_at": "2026-11-23T07:37:44.948Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

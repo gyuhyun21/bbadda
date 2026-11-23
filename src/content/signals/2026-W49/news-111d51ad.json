@@ -1,0 +1,23 @@
+{
+  "id": "news-111d51ad",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "https://www.asportstv.kr/",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9CcmlMWlpVM1MySnU3SlVYSWFob3hJUU1zMmtPTDU2ZU5CVW5LRjlRYjlVS1AxZTNnalJTSFVleEVBVGlQZmVXRjl5Q3J2V0ppVkVYOUhROWw2OVpjRWl4NjFjMUpRNkV6?oc=5",
+  "title": "[A-포커스] ML 갈 팀 또 나왔다! 노시환, '올스타 3루수 공백' 캔자스시티 급부상",
+  "published_at": "2026-11-23T00:17:14.000Z",
+  "collected_at": "2026-11-23T07:37:44.948Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "news-d6f43a89",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "www.ppss.kr",
+  "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5qMERDY3VldHhHd1ZYYnBpeEJwcjJoa3hBWk0tcnJMeXk2c3ZyNXExS1p2TkdCNV8zR2Zxa1Z5MXM2bkpKaDRnalV4eWR5Y1JEMlBsbS04UXdlYk1kUW5JMnRoNm8?oc=5",
+  "title": "삼성 원태인, FA 시장서 구자욱보다 조용한 이유...20대 에이스 몸값·잔류 가능성 주목",
+  "published_at": "2026-11-23T06:10:03.000Z",
+  "collected_at": "2026-11-23T07:37:44.948Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 80
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "EPN엔피나우",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBNaEtrdWtQRUpBalJXeGFoX1ZpMzhpb1FRdUxqbFlHdXhzUFozTlVucXd2R2p4NkVXZllUNWZpSmZqSzFyVkJ6Tmd3di1tamJBbkZLcl95a0kxbjQtVWVwMWdSVUlQNnhy0gFsQVVfeXFMTjdNYlZTcENLREZEeWh0aHNaSG5fbDM2UGNVV3hhV2k0WWxhSlZRZGkyWUZWN3YzVlVxbmdOLTA3bUdlNHVmc1htQUpRZXh4MHozcVhiQnlKLXRRaUE3Wnd4a3JISzg5Qno1UUlo?oc=5"
+    }
+  ]
+}

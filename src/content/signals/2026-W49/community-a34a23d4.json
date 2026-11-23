@@ -1,0 +1,22 @@
+{
+  "id": "community-a34a23d4",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 내일의 라인업",
+  "url": "https://blog.naver.com/070seoul/224488192468",
+  "title": "곽빈 MLB행 ‘99%’라는데, 얼마 받을까? 두산이 미리 채워야 할 161이닝",
+  "published_at": "2026-11-23T12:35:00.000+09:00",
+  "collected_at": "2026-11-23T07:37:44.948Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

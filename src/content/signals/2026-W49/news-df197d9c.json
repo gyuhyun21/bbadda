@@ -1,0 +1,29 @@
+{
+  "id": "news-df197d9c",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5Wa0ZfNmo1U2NrNjNJUjJvQUFHazg3cGszR2xUWHY0My1sTl81aWlaekd3WDJ4bmY1RHJzWmVjS3dCMFpBY2tCWlRvYXRycnRNdGJuUFFGdWVnQkV6cFBKUXVidmZXdXZ2VHhORjJOMNIBb0FVX3lxTE5Wa0ZfNmo1U2NrNjNJUjJvQUFHazg3cGszR2xUWHY0My1sTl81aWlaekd3WDJ4bmY1RHJzWmVjS3dCMFpBY2tCWlRvYXRycnRNdGJuUFFGdWVnQkV6cFBKUXVidmZXdXZ2VHhORjJOMA?oc=5",
+  "title": "“화보 찍지 말고 계약서에 도장 찍어라” 구자욱과 원태인의 느긋한 겨울, 속타는 건 구단과 팬들의 몫?",
+  "published_at": "2026-11-22T23:40:00.000Z",
+  "collected_at": "2026-11-23T07:37:44.948Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 81,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE56OHVqMVVfSEY0Y0VjX0x0UUN1OTdjY1YyVklMZmxrY3VPY2lpSkVOQzh5NjduOXZEQnk1WjVWaG9UNk9LLXpadVNSZDdxUVk1U0pkVA?oc=5"
+    }
+  ]
+}

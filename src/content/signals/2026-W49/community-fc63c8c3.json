@@ -1,0 +1,23 @@
+{
+  "id": "community-fc63c8c3",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 헬스기구 전문업체 고핏코리아",
+  "url": "https://blog.naver.com/gofitkorea/224488050570",
+  "title": "김하성, 유격수와 2루수로 뛸 때 수비는 어떻게 다를까요?",
+  "published_at": "2026-11-23T10:32:00.000+09:00",
+  "collected_at": "2026-11-23T07:37:44.948Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

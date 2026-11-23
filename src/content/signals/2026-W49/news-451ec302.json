@@ -1,0 +1,23 @@
+{
+  "id": "news-451ec302",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "JTBC",
+  "url": "https://news.jtbc.co.kr/article/NB10630906",
+  "title": "\"롯데 구단, 호텔 CCTV로 선수 감시\"…정황 증거 나와",
+  "published_at": "2026-11-22T18:47:36.000Z",
+  "collected_at": "2026-11-23T07:37:44.948Z",
+  "summary_ko": "JTBC 보도에 따르면 롯데 구단이 호텔 CCTV로 선수들을 감시했다는 정황 증거가 나왔다.",
+  "metrics": {},
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "호텔 CCTV 선수 감시 의혹"
+}

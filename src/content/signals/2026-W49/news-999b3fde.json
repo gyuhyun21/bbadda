@@ -1,0 +1,22 @@
+{
+  "id": "news-999b3fde",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스핌",
+  "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4wUUk2TEtfNEJpNG9TR2kxZTI5VWpjdTFfNnRXdVI0d3BtaE9fTnJZV2F5ejhoYXVYWU8xNy16emRHWF9NRnZRNjlYN3pNcFAyZkRiQ0RweXRnUVhT?oc=5",
+  "title": "[프로야구] '신인 5명 가능성 확인' KIA, 오키나와 마무리 캠프 종료",
+  "published_at": "2026-11-23T05:40:00.000Z",
+  "collected_at": "2026-11-23T07:37:44.948Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

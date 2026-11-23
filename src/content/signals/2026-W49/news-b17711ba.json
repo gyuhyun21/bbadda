@@ -1,0 +1,23 @@
+{
+  "id": "news-b17711ba",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "news",
+  "announcement": true,
+  "source_name": "MHN스포츠",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ua0diMWNxSDZWZHA1NThWMjRWMVBJek5Id0hLNzRVd09HVTJYbW56OHhGd2ZGZWxkMnJPNjVfUjJCRlVaQWJ2SmkwMzFwdWFVVEdrcWVlYnpjYURZM0hCdDkxSQ?oc=5",
+  "title": "[오피셜]우승반지 없어 더 애틋한 영구결번…LG가 기억하는 두 전설, 잠실에 다시 선다",
+  "published_at": "2026-11-23T03:12:49.000Z",
+  "collected_at": "2026-11-23T07:37:44.948Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "youtube-825e904c",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "KIA타이거즈V13",
+  "url": "https://www.youtube.com/watch?v=nB8sOtPYdgk",
+  "title": "슈퍼스타 상복 터졌다! 홈런왕 김도영, 최고의 선수상+인기상 석권",
+  "published_at": "2026-11-23T06:30:08Z",
+  "collected_at": "2026-11-23T07:37:44.948Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 858,
+    "likes": 17,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 59,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE12V1ZzMms3d0VGM3hhd2Y5UEJ5Vl9OR05pWkw5M0dRSVR1cUpwajNyRFFKNlZnWWlvOGRfcWl2LUQtc2tMOU5FUF9Pb29YZmYzLWIwT2pFVnhFSklyNk50TWdGbkVtY1VMLUQ5bzNjNNIBb0FVX3lxTE12V1ZzMms3d0VGM3hhd2Y5UEJ5Vl9OR05pWkw5M0dRSVR1cUpwajNyRFFKNlZnWWlvOGRfcWl2LUQtc2tMOU5FUF9Pb29YZmYzLWIwT2pFVnhFSklyNk50TWdGbkVtY1VMLUQ5bzNjNA?oc=5"
+    },
+    {
+      "source_name": "OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5HZkFpYm53SHNNb3pYUGx0TGNOTS1FWVNQdnd0bTdtYU05N24wVXhMalVfc0o5X2xrZG5QM0lHYTVXUWNHeHl0V0lSWms2b2pVZ1ZmRA?oc=5"
+    }
+  ]
+}

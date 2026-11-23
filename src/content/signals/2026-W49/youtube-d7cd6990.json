@@ -1,0 +1,26 @@
+{
+  "id": "youtube-d7cd6990",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "youtube",
+  "source_name": "롯팬",
+  "url": "https://www.youtube.com/watch?v=ZF2s8HyYICM",
+  "title": "수비만 잘하는 김호령, 롯데에겐 사치일까? #롯데자이언츠 #기아타이거즈 #바다낚시",
+  "published_at": "2026-11-23T04:31:11Z",
+  "collected_at": "2026-11-23T07:37:44.948Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 11,
+    "likes": 2,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 55,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

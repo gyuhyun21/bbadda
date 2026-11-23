@@ -1,0 +1,38 @@
+{
+  "id": "community-7fc49963",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "doosan"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 나눔터지역아동센터 사랑이야기",
+  "url": "https://blog.naver.com/xton1031/224488269391",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/3IGcg7LZAU1",
+  "title": "삼성 구자욱·두산 곽빈, 2026 일구상 최고 타자·투수 선정…김도영 대상·허인서 신인상 등 6개 부문...",
+  "published_at": "2026-11-23T13:33:00.000+09:00",
+  "collected_at": "2026-11-23T07:37:44.948Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 99,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "스포츠경향",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1yLXhwQWdCNXloMFhkaUNYM3dTT1JIaUJnNGNNbldfdlNjMU5TcTNMelRpU2VpeUoyTlNYZ0RRNGk1RXU4RllfUW9WNHlNdHRrLWQ5bW5GNjJSZm1pMGY5U3FwUdIBY0FVX3lxTE1yLXhwQWdCNXloMFhkaUNYM3dTT1JIaUJnNGNNbldfdlNjMU5TcTNMelRpU2VpeUoyTlNYZ0RRNGk1RXU4RllfUW9WNHlNdHRrLWQ5bW5GNjJSZm1pMGY5U3FwUQ?oc=5"
+    },
+    {
+      "source_name": "뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5ieHNEOWVWNnFlZDNzb3FsTF9PaW1EbVRYenllUDF4aHB2Z3R4cDV1NmgzYXlVSTRsZnVfQmFRa2ZuOWdyb2pnX0xzRFh3U1VZbXFHZzMzOA?oc=5"
+    },
+    {
+      "source_name": "한스경제",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE94SzNsMGFuZDdnMjhiSEJlWk1tc3N0UXY3UjlhMnVPbUJLZjFDeG5GX3dMNmV1LXFvZUZsQmtqdkRSdVJYX2xSbHcteHJUeWtlbGtaOFlIMlJZMkhsNlhnbWw0V25QYVJCYlVZVdIBb0FVX3lxTFBtU3lJTElkRGZSMlhreDNQaXBzckU3YWkzMGd5b3hmcERTRktDRnFCRkRfRHBUdlN2QU5mcEZTb1lVMm5CcUVxSncySDVDQmFEN1R5YVRkTnNkS0NPOHhDSkFVU2poU1plRU8yVzYybw?oc=5"
+    }
+  ]
+}

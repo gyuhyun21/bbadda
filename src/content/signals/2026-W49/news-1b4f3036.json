@@ -1,0 +1,23 @@
+{
+  "id": "news-1b4f3036",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠경향",
+  "url": "https://sports.khan.co.kr/article/202611231319003/amp",
+  "title": "“타격 최우선, 최선 다한다”…두산은 구자욱을 잡을 수 있을까",
+  "published_at": "2026-11-23T04:19:00.000Z",
+  "collected_at": "2026-11-23T07:37:44.948Z",
+  "summary_ko": "스포츠경향은 타격 보강을 최우선에 둔 두산이 FA 구자욱을 잡을 수 있을지 짚었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "타격 최우선, 구자욱 잡을까"
+}

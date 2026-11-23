@@ -1,0 +1,23 @@
+{
+  "id": "news-6baa5fe6",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "news",
+  "source_name": "일간스포츠",
+  "url": "https://isplus.com/article/view/isp202611230061",
+  "title": "[IS 포커스] 하인즈 영입 임박한 SSG, 에레디아 보류권은 어떻게?…운명의 25일",
+  "published_at": "2026-11-23T02:05:00.000Z",
+  "collected_at": "2026-11-23T07:37:44.948Z",
+  "summary_ko": "일간스포츠는 SSG가 하인즈 영입을 앞두고 있어 25일 에레디아 보류권을 어떻게 할지가 관심이라고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "하인즈 영입 임박, 에레디아는?"
+}

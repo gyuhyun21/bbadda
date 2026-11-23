@@ -1,0 +1,26 @@
+{
+  "id": "youtube-a3ca4849",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "source_name": "이글스 Spirit",
+  "url": "https://www.youtube.com/watch?v=vShV1tD7r5w",
+  "title": "한화이글스 문동주 근황 공개! 어깨 수술 재활 진행 상황과 2027 스프링캠프 합류 전망",
+  "published_at": "2026-11-23T04:30:08Z",
+  "collected_at": "2026-11-23T07:37:44.948Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 3432,
+    "likes": 41,
+    "comments": 4
+  },
+  "scores": {
+    "hot": 61,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

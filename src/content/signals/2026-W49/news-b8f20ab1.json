@@ -1,0 +1,28 @@
+{
+  "id": "news-b8f20ab1",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "OSEN",
+  "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBlOHpRTTI4eVBwOUQtZnZCYVpnSnA5Z25OdzBxY0JTXzZFWm81aXdIQ3B5a29adUs4Y0g0Q2QxQ2JqbWFtUWFRSzdUUU1SdDVsVlFn?oc=5",
+  "title": "LG 팬들 주목! 이병규vs박용택 감독 맞대결 성사→마지막 잠실서 지략 싸움 펼친다…시구 김용수 ‘영구결번 3인 한자리에’",
+  "published_at": "2026-11-23T02:20:00.000Z",
+  "collected_at": "2026-11-23T07:37:44.948Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5Ma0owbTJwSzhScHlBeDRMdHpvSjVUbW5yVXd5QWthY0FUN0hEYW52UEhjN3kwemtwcVRlZ05rSUN2SlhINlpiSnNZSmF3TDBXQ1lYSXU5SVBWdWpoR1ZvSUtmZ2pPbHlJVXdHbXVQVdIBb0FVX3lxTE5Ma0owbTJwSzhScHlBeDRMdHpvSjVUbW5yVXd5QWthY0FUN0hEYW52UEhjN3kwemtwcVRlZ05rSUN2SlhINlpiSnNZSmF3TDBXQ1lYSXU5SVBWdWpoR1ZvSUtmZ2pPbHlJVXdHbXVQVQ?oc=5"
+    }
+  ]
+}

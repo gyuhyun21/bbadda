@@ -1,0 +1,33 @@
+{
+  "id": "news-d42dcfa1",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "연합뉴스",
+  "url": "https://www.yna.co.kr/amp/view/AKR20261123044600007",
+  "title": "프로야구 은퇴선수협회 2026 최고의 선수에 KIA 김도영 선정",
+  "published_at": "2026-11-23T00:41:42.000Z",
+  "collected_at": "2026-11-23T07:37:44.948Z",
+  "summary_ko": "연합뉴스는 프로야구 은퇴선수협회가 KIA 김도영을 2026 최고의 선수로 뽑았다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 82,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "데일리안",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNai16OGpVQ25NdC1zbnRWbWNxNHZGay1vOGNVYVdZLWt3SnlFNGFibzROM2pTWEF1aF80eHpjU1ZvZ1R3OURlTWc0TUlzMTAzdmVrMC1ESnhHV0xUVlp5OHFUR1ZFWWMzRjg0UVBkdXR0bGgyQTNiLURYdk5sS2F5bGJ4MWxRUlRHa0NCNTJMMUJ6VDBHZlNUM1czYXBiN0pnNFdwcWUzazBKUHhYcWZDZ1ZYNVZYWDFsMTdTdDFtWDNQV1lELWNXSTZnQy1CX1pBNExXOUNrSDlkQTUyekFURmVDTWFWSVFlak9sdjBQSG9VMVNOMTI4?oc=5"
+    },
+    {
+      "source_name": "EPN엔피나우",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5xTGtMQS1kOUZkMnh5WE50eFk1UzRLX3FtMzhsby1tOVlPZHNfeDNnWnlaUGVud0hnT1NhWjFhZEdFeFBZZ2N3dWp3dDRHOHhHNUtyX05RVm94RHh4MUtvdXBZNW5kazJS0gFsQVVfeXFMTzVkcEQzNnlqNFZJeEZpNFNvUlM1U3JQNVJtX1FtN0k2N3NHdnhpdmJ6U2pfM1hWTV9iY0hKNEVKZlJZcVVmSEZFY3BiNUxtWnBLQWhvaGszYnppeHRhemEzZkoxTk5JOWxldWpk?oc=5"
+    }
+  ],
+  "brief_ko": "김도영, 선배들이 뽑은 최고 선수"
+}

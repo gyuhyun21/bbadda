@@ -1,0 +1,41 @@
+{
+  "id": "community-f0e0f256",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 스포츠, 축구",
+  "url": "https://blog.naver.com/ghee2018/224488154411",
+  "title": "“구자욱·곽빈이 해냈다”…2026 일구상 최고 타자·투수 영예, 허인서·구창모도 수상",
+  "published_at": "2026-11-23T12:23:00.000+09:00",
+  "collected_at": "2026-11-23T07:37:44.948Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 98,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5mNjdKYmI2SFo2TWVhQ0p1bzNaRzVmaGE1N1RKZjdVd1pvN1RyV2NvNVdwQVdSYmduLXNEbGRtRkkwclVEMjIyRnRaQkZibzhUcE9CN2lUZGhLN2c4ankxbdIBeEFVX3lxTFBsS0RRZW1JVzdUdlU3dDAtemwtWmp0Q2NEb3RXQm1qQjJ1RkZqWFJ5QTdka09BSWpMTzVFTWxJYzVjOFZoSW44TUhQR0NsWm5fWlVBWlByZHNvWnFsd09iX1ZlSzRFbnpOcDBnWm5rZXE1QURSSmJISA?oc=5"
+    },
+    {
+      "source_name": "데일리스포츠한국",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1KWU9UdlRFLUI1VEZEaG5GYVd4NUFOdXdrZ0gxRHo4ZFVYY1RDTFdXcTRnbEx6NEQ3NWpVQU1UaXQ5TXphVUZMRTZJX3BqTVM5ZzFoWHkyS00tVXNxSUx6NmFsYlVFT0FKMUtFSWRyZ3dsMnVfZ1JjalNLZ9IBf0FVX3lxTE5EMWdtQjRkalNESVpQVnRyelRCTFVIdzloVlhmS1dXbnk2S3RLMHVPbS1ybmxPOE1SYXcyR2xDSmVPT1diYkZteFg3VGNyTi1YZGpSand5YXdMUkl4UGY5bGkxeGRmQ185OEJqdW85R2xhLTJxOWhJUTdlNjdxcEU?oc=5"
+    },
+    {
+      "source_name": "스포츠한국",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1RTnBDMG04VVEwcWk1NXJ4SGxtaFpPWW1fYjB0OUxvMVBLcmZuT240X0VueTBXMXdBRUM4RmVweDY3a0JqN25GXzVDdDBTLTVNM3BqY3dWNV9wN1RYbTBjRU50LVBZUlN3OS1aVjJaOTLSAXRBVV95cUxPR21BS2FfNXI2LXM4ZWpwS09mYmxYZ3ZwcVI5Q2RwRzFFYVNUOW1Qb3FSeVFkTGZhbGxVRmpsbXRSTmdka0pNWGlyaVF4bjJpWUxfWHRqTE52bnU0TFJ5bk5ieE96LXJ3Ymd3Y1d2d0kyRVppbg?oc=5"
+    },
+    {
+      "source_name": "굿모닝경제",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1pSGdfcGxXX3VaUXlHbUxjbjl1QWZBN1lYcHBrOTd0QVBSMFc3WTVGZEVQSFRPUTljTWZoZkhIN0hGNWxfeVJycVZOMGxXdk5uenFaRi1SREdfbGNhZ0ExVmhXcmxzYmdJVklXNQ?oc=5"
+    }
+  ]
+}

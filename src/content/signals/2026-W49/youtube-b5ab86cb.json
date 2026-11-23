@@ -1,0 +1,26 @@
+{
+  "id": "youtube-b5ab86cb",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "한입스포츠",
+  "url": "https://www.youtube.com/watch?v=2DLhpZMhODI",
+  "title": "40억 더 준다면 팀 옮기실 건가요 #구자욱 #삼성라이온즈 #야구FA",
+  "published_at": "2026-11-23T05:38:08Z",
+  "collected_at": "2026-11-23T07:37:44.948Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 962,
+    "likes": 9,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 51,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

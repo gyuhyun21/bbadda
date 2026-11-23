@@ -1,0 +1,22 @@
+{
+  "id": "news-b396dcb7",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "news",
+  "source_name": "엑스포츠뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBoa0RuSzRXUjRtMjQxekRjUUR5LTBacW5vNnJldEcwYnktaE9Mc2F0dHlEenFsNlVhUzl4WUpvTG5CeThieGRsbjVhMXZUWWdfRWtPVw?oc=5",
+  "title": "'한화에서 ML 갑니다!' 노시환 초대박…무려 10개 구단 추천 터졌다→'9일 남았다' 포스팅 낭보 들려오나",
+  "published_at": "2026-11-22T16:30:33.000Z",
+  "collected_at": "2026-11-23T07:37:44.948Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}
