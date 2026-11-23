@@ -1,0 +1,26 @@
+{
+  "id": "youtube-8f12c6c6",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "source_name": "야구 한입",
+  "url": "https://www.youtube.com/watch?v=Vo_GQWC50io",
+  "title": "한화 이글스 2027 외국인 선발 완성 | 트로이 왓슨 157km·숄튼스·왕옌청, 류지현 감독",
+  "published_at": "2026-11-23T15:35:51Z",
+  "collected_at": "2026-11-23T21:38:28.278Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 24,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 19,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

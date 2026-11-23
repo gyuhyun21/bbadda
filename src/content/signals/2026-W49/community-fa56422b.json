@@ -1,0 +1,24 @@
+{
+  "id": "community-fa56422b",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/10588255592",
+  "title": "일단 지금 느낌은 - 야구",
+  "published_at": "2026-11-23T08:38:28.278Z",
+  "collected_at": "2026-11-23T21:38:28.278Z",
+  "summary_ko": "",
+  "excerpt": "... 롯데; 2. 두산 +1; 3. 기아 +1; 4. 자욱 -2; 5. 한화 +1; 6.…",
+  "metrics": {},
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

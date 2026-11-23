@@ -1,0 +1,26 @@
+{
+  "id": "youtube-96f406f6",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "youtube",
+  "source_name": "주먹빵 TV",
+  "url": "https://www.youtube.com/watch?v=KF5iJwOeGQA",
+  "title": "오스틴 응원가 #challenge #dance #lg트윈스 #lgtwins  #오스틴  #오스틴딘 #응원가 #kbo리그 #kbo #kbo응원가 #야구",
+  "published_at": "2026-11-23T19:22:30Z",
+  "collected_at": "2026-11-23T21:38:28.278Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 3,
+    "likes": 0,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 48,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

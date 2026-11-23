@@ -1,0 +1,24 @@
+{
+  "id": "news-65c19284",
+  "issue": "2026-W49",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "마니아타임즈",
+  "url": "https://www.maniareport.com/view.php?ud=20261123130031569291b55a0d56_19",
+  "title": "'처절한 복수극인가?' 삼성에 최형우 빼앗긴 KIA, 구자욱 포기하고 원태인 영입에 올인?...포스트 양현종으로 제격",
+  "published_at": "2026-11-23T04:01:28.000Z",
+  "collected_at": "2026-11-23T21:38:28.278Z",
+  "summary_ko": "보도에 따르면 KIA가 구자욱 대신 원태인 영입에 힘을 쏟을 수 있다고 마니아타임즈가 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 62,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "구자욱 대신 원태인에 올인?"
+}

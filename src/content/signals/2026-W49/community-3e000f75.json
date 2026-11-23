@@ -1,0 +1,24 @@
+{
+  "id": "community-3e000f75",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&page=7&document_srl=10588450010",
+  "title": "굿바이 페덱 - 야구",
+  "published_at": "2026-11-23T10:38:28.278Z",
+  "collected_at": "2026-11-23T21:38:28.278Z",
+  "summary_ko": "",
+  "excerpt": "... 10 분 전 자유 베어스 조회194 추천2. 정수빈은 구단이랑 본인 둘다 ... 두산은 아마…",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

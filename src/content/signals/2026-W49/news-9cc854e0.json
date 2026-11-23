@@ -1,0 +1,23 @@
+{
+  "id": "news-9cc854e0",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "진해신문",
+  "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5ZbklnLTNSSHRvYWxQSWFFY3RBQ0lsREx3VDZ5TjFxUDVpbVlBTE1hcURxcXl1RDFVc1JiNGE3VFV2dTBPanY0emRsbGhxbDZQNW9MZWpmWkh2LXNsaHFoa1ZxUndFUFEtNjdqLVIxR3lrSHhnNGhmcGRiUEs?oc=5",
+  "title": "김도영 최고의 선수 선정, 연봉 2억5000만원에 홈런 45개…타격·수비까지 가성비 확인하세요 > 뉴스",
+  "published_at": "2026-11-23T01:44:00.000Z",
+  "collected_at": "2026-11-23T21:38:28.278Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 61,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

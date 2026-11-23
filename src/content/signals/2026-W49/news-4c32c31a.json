@@ -1,0 +1,23 @@
+{
+  "id": "news-4c32c31a",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "서울경제",
+  "url": "https://www.sedaily.com/article/20117855",
+  "title": "삼성라이온즈 대구 도심서 ‘우승 카퍼레이드’…주전 대부분 참가",
+  "published_at": "2026-11-23T07:32:39.000Z",
+  "collected_at": "2026-11-23T21:38:28.278Z",
+  "summary_ko": "서울경제는 삼성의 대구 도심 우승 카퍼레이드에 주전 대부분이 참가한다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 71,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "brief_ko": "카퍼레이드에 주전 대부분 참가"
+}

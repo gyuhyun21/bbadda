@@ -1,0 +1,24 @@
+{
+  "id": "community-5eccfc12",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 스포츠루",
+  "url": "https://blog.naver.com/sportsroo/224489295967",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/KVMDF4aegyx",
+  "title": "2022년 신인왕, 2026년 두 번째 트레이드 정철원",
+  "published_at": "2026-11-24T04:21:00.000+09:00",
+  "collected_at": "2026-11-23T21:38:28.278Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

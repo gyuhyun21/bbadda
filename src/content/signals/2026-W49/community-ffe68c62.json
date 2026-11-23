@@ -1,0 +1,24 @@
+{
+  "id": "community-ffe68c62",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 또 다른 세상, 또 다른 나",
+  "url": "https://blog.naver.com/synabro68/224489116891",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/C7j5mrmpDJ2",
+  "title": "역대 한국시리즈 우승팀 및 팀별 우승,진출횟수와 최종진출년도 등 한국시리즈 기록",
+  "published_at": "2026-11-24T00:42:00.000+09:00",
+  "collected_at": "2026-11-23T21:38:28.278Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

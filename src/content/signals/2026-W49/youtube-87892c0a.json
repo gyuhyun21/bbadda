@@ -1,0 +1,26 @@
+{
+  "id": "youtube-87892c0a",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "source_name": "이글스라인업",
+  "url": "https://www.youtube.com/watch?v=b6y2XJPLKEk",
+  "title": "허인서 신인상 확정! 그런데 KBO 발표는 아직? #한화이글스",
+  "published_at": "2026-11-23T16:15:26Z",
+  "collected_at": "2026-11-23T21:38:28.278Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 2674,
+    "likes": 53,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 62,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

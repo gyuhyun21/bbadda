@@ -1,0 +1,24 @@
+{
+  "id": "news-767df3d4",
+  "issue": "2026-W49",
+  "module": "rivalry",
+  "team": "hanwha",
+  "teams": [
+    "hanwha",
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스타뉴스",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ULWNIUzAyb1VDWjB5WVlaOVFSUllmSWdhWnRYSndheFFsTnZuYzhBZnIxYXRBYjdsZTZLT2VQbVNQV1p3ZGF4LUtWY2tFU1FKRk1CZUttWk1VakRscUhhTk1JdERfQ1RQaWl6eHVHSjMwODFoUlE?oc=5",
+  "title": "'야구 열기' 악용해 '3100만 원' 부른 암표상 실화냐! 문체부, 불법 거래 의심자 추가 수사 의뢰",
+  "published_at": "2026-11-23T16:01:00.000Z",
+  "collected_at": "2026-11-23T21:38:28.278Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

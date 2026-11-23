@@ -1,0 +1,23 @@
+{
+  "id": "community-d1018e2d",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 스포츠 인사이트",
+  "url": "https://blog.naver.com/base-goal/224488999048",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/LmLDnQtAWPT",
+  "title": "\"정철원까지 보내놓고 A등급 FA를 산다고?” 롯데, 박상원까지 노리면 그림이 달라진다",
+  "published_at": "2026-11-24T03:00:00.000+09:00",
+  "collected_at": "2026-11-23T21:38:28.278Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

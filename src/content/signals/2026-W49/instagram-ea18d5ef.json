@@ -1,0 +1,27 @@
+{
+  "id": "instagram-ea18d5ef",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "instagram",
+  "official": true,
+  "source_name": "Instagram @ktwiz.pr",
+  "url": "https://www.instagram.com/reel/DgFyUZ0oIdi/",
+  "title": "KT 위즈 공식 인스타그램: (풀버전) 아이템을 썼는데 왜 우리 팀이 져요? T볼 야구대회 | 2026 팬페스티벌…",
+  "published_at": "2026-11-23T16:17:15+0000",
+  "collected_at": "2026-11-23T21:38:28.278Z",
+  "summary_ko": "KT 공식 인스타그램이 2026 팬페스티벌 T볼 야구대회 풀버전 영상을 올렸다.",
+  "metrics": {
+    "likes": 385,
+    "comments": 14
+  },
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "팬페스티벌 T볼 대회 풀버전"
+}

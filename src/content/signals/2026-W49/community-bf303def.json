@@ -1,0 +1,24 @@
+{
+  "id": "community-bf303def",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 오늘도 살아있습니다.",
+  "url": "https://blog.naver.com/is_alive/224489147416",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/MdNAR7tHX4",
+  "title": "강동연 연지 결혼, ‘귓방망이’ 그 연지 맞아? 예식 날짜와 두 사람의 근황",
+  "published_at": "2026-11-24T00:41:00.000+09:00",
+  "collected_at": "2026-11-23T21:38:28.278Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}
