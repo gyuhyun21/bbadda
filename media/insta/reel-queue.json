@@ -81,7 +81,8 @@
     "2026-11-19": "pool/20-pitch-clock",
     "2026-11-20": "pool/22-ground-rule-double",
     "2026-11-21": "pool/24-catcher-interference",
-    "2026-11-22": "pool/26-runner-hit-by-ball"
+    "2026-11-22": "pool/26-runner-hit-by-ball",
+    "2026-11-23": "pool/28-unassisted-triple-play"
   },
   "2026-11-12": [
     "2026-11-12-reel",
@@ -151,6 +152,7 @@
   ],
   "2026-11-23": [
     "2026-11-23-reel",
-    "pool/27-kirk-gibson-1988"
+    "pool/27-kirk-gibson-1988",
+    "pool/28-unassisted-triple-play"
   ]
 }
