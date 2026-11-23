@@ -1,0 +1,25 @@
+{
+  "id": "news-e16f6bf0",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "announcement": true,
+  "source_name": "MHN스포츠",
+  "url": "https://mhnse.com/news/articleView.html?idxno=1707053",
+  "title": "[오피셜]‘유리몸’ 오명에 163이닝으로 답했다…구창모의 첫 규정이닝, 선배들도 인정했다",
+  "published_at": "2026-11-23T02:46:52.000Z",
+  "collected_at": "2026-11-23T07:37:44.948Z",
+  "summary_ko": "MHN스포츠는 '유리몸' 소리를 듣던 구창모가 163이닝으로 첫 규정이닝을 채워 선배들의 인정을 받았다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "구창모, 163이닝 첫 규정이닝"
+}

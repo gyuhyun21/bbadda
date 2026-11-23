@@ -1,0 +1,23 @@
+{
+  "id": "news-fc6b1555",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "news",
+  "source_name": "톱스타뉴스",
+  "url": "https://www.topstarnews.net/news/articleView.html?idxno=16283462",
+  "title": "노시환 MLB행, 양키스·캔자스시티 후보로 거론…307억 한화 계약은 어떻게 되나",
+  "published_at": "2026-11-23T00:30:01.000Z",
+  "collected_at": "2026-11-23T07:37:44.948Z",
+  "summary_ko": "보도에 따르면 노시환의 메이저리그 행선지 후보로 양키스와 캔자스시티가 거론된다고 톱스타뉴스가 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "노시환 후보에 캔자스시티 추가"
+}

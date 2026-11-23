@@ -1,0 +1,23 @@
+{
+  "id": "news-46a687ec",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "MHN스포츠",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9pVmVvRGszWUFCb0doam9KS2doaGNta3A0VWxtRk5SYUFUTUFHMXdKc0N0QzBvZVJ5ajMwSEhzd2cyc3NrSngyMEpHNUZvOENkQlVVVVNGT1BwalZWZ3NkU0ttZw?oc=5",
+  "title": "KBO 연합팀, ‘7전 전패’ 대만 대학팀에 첫 승 헌납…0-7 영봉패에 볼넷 남발",
+  "published_at": "2026-11-23T05:53:15.000Z",
+  "collected_at": "2026-11-23T07:37:44.948Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

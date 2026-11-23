@@ -1,0 +1,57 @@
+{
+  "id": "news-d36a65c2",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "news",
+  "source_name": "세종의소리",
+  "url": "https://www.sjsori.com/news/articleView.html?idxno=89856",
+  "title": "타이어뱅크, kt wiz 선수단 특별후원금 전달",
+  "published_at": "2026-11-23T00:58:56.000Z",
+  "collected_at": "2026-11-23T07:37:44.948Z",
+  "summary_ko": "세종의소리는 타이어뱅크가 kt wiz 선수단에 특별후원금을 전달했다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 98,
+    "relevance": 50
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "계룡일보",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5nUFQ1QU9HM3NFck9kWExfX25oX1Y1azBmTWRnNlF5Z2dRcEdJRHdBeGdhVFlvOTRCREJkTi0yeThjMmIwcWY3YkNHRUo0LWpaM1A3Q2syNzFtazZWQWdJSzFVRzlxTVVRUHfSAW5BVV95cUxOSURnR0wwS3VPaF9xekczdGFWVXl6SUdYNUtsWmU0VHVpNm93a0x0eGR2S2xBdDgzRENQWUhWRm1udTYxTHJKeVVNX05IWV9va1hsaXNnMFF6UFlRbU1VXy1BMmtSb1lmZjlYSlE2UQ?oc=5"
+    },
+    {
+      "source_name": "로이슈",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9zUUIwNTFEY09yb0Z2TjllTWp6Wm9uQ3AyVlR1c2VHRjg5T2pkRTZpRjBaVmZvdkNzSXBBZzU1OW9jMzFOYWdia21fS1BfZnljb3NqZkV5cnJZWm83SmtNeGdIREMxeTBNWFVwTkdRVTg0aTFJVmh0NVB3?oc=5"
+    },
+    {
+      "source_name": "팍스경제TV",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ES0JPTE82NXl5RERLQ29kV1FxR1pmVlFGRndnUnhwYWJaOEJlaFFyQXp3dWZqQmRpNjE2SzFkZ1pSdVFtRmt3Rmc1LWhaNXNZRWVOODQwcUFicDlfcXlRcDQyZGtWMVk?oc=5"
+    },
+    {
+      "source_name": "글로벌이코노믹",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVzY5Tk52Z2dQLVRaZndKSk40VHA2YU01aGZpNG10ZC1US09DU090RTZWUnVaZHQ1WG83UDV5dEFCWWE3SkloVVFJR1FrYXJWNFM0N1g1M3laOW5QSGRfTEluNlo0aVRocWk1SzA4bjF4NTQ0RUloWWxqdDRuY1FING8yY1NYQQ?oc=5"
+    },
+    {
+      "source_name": "중도일보",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBsblRWYWVxQWNQNU5zeFowNzNfdG82aURyY24ydTN3NXJ3Tk5iLUtGNzNwYjNnRjc1dU9hNUhieTJYcVh6enhTWXhKWHJPOXpzZUNEYWdmS1ozcUVadkhMYnVwdlE?oc=5"
+    },
+    {
+      "source_name": "국제뉴스",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5PaGhGeGVpMHNtNWg4UjdFd0JnT0ttSDNnaC12MXU4cFNRcFRwdlllU3plaVVhTkZBcXdvMVd4d0FlLXB2VVVPN1Jid01HS0xzMjJuZzhVVzBfT3FldXNSRVRJOEQ3UUhudmZybkFn?oc=5"
+    },
+    {
+      "source_name": "충남일보",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE51N3l4aGJjeFNKZlYzM2ItSVg3M1Y4cFNpTjBfMzY3dWdaYTU3LTU4c05ZZEZPU2s0dFNzZUVpUklxMl9vMDh3UktIeWtDY3g1WjA1dlZLTUNSTUFFaWprdndTZTdnZVRmTzc0RWtOZXFfOWM?oc=5"
+    },
+    {
+      "source_name": "대전일보",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9zNEowcldoRlZCLVZtOXBHMExLbEttQ3UxaTdsX19aZ0gyX2k1RnNWaXFJazhyTVpzTG5MYjdYVjFsVmxiSDlxWlZTYmUwOGY5dTFfSlVGY0JVeHRQVUhDdVR5VnktQjNxR0hpd2hrWdIBc0FVX3lxTE1WbEJqRXFQUnJKXzZaZWVfMC16R2d3ejlUd0Q4T1dDX0tfS2Jqano0VjBlRjJWWXVxVTJtMHhwQzViaXNRMXRUWnh4Q3otZGg3Z21iMlFXV0IzNG0yel96STl4bFZ5QlJhbjVCTDZ2VEVpUWc?oc=5"
+    }
+  ],
+  "brief_ko": "타이어뱅크, 선수단 특별후원금"
+}

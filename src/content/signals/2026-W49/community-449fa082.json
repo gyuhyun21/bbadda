@@ -1,0 +1,24 @@
+{
+  "id": "community-449fa082",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/10546034742",
+  "title": "오스틴 200만달러 재계약 아.. - 야구",
+  "published_at": "2026-11-11T00:00:00.000Z",
+  "collected_at": "2026-11-23T07:37:44.948Z",
+  "summary_ko": "",
+  "excerpt": "... LG트윈스는 외국인 선수 오스틴 딘과 1년 200만 달러(연봉 200만 달러) 재계약에 합의했다. 이는 KBO리그…",
+  "metrics": {},
+  "scores": {
+    "hot": 8,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "community-02ecc015",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 더 해피라이프",
+  "url": "https://blog.naver.com/kwonhc11/224487898683",
+  "title": "FA 구자욱 적정 몸값은? WAR로 나성범 양의지와 비교해 본다면?",
+  "published_at": "2026-11-23T08:31:00.000+09:00",
+  "collected_at": "2026-11-23T07:37:44.948Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,52 @@
+{
+  "id": "news-1f439774",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "쿠키뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5Td2RNNzFHQkpCSHF6SW9rS3gwZVp1aWlYZ2tnNXl5YzgyVVpoSUpoWGpobEhjLUlRVEY2ZjBEUFQtcnF1Nnhud05KQjg2Vk9FWVp3NmgzODhjcUw0bXhfV2lDZw?oc=5",
+  "title": "삼성라이온즈 V9 카퍼레이드, 20년 만에 대구 도심 달린다",
+  "published_at": "2026-11-22T15:26:51.000Z",
+  "collected_at": "2026-11-23T07:37:44.948Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 94,
+    "relevance": 50
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "일간스포츠",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9OZ2xWQklXd09scFctSzVzVnVYNjg3VzBZN05VNm1uYlVSNnJmUzROejY2b1RYZGhzQkpJb3ktQkJEcjNpbFJDdWdDY2lkd2NRY3BvbGtaNzBBY0E?oc=5"
+    },
+    {
+      "source_name": "한국일보",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBkbmM5MjFNNHcweUZGM3hseERxdk0zaFJxbHNzUF93NW1YazVXS1B0cmlrQXo5OEJhLTF3Zl91czdjcUswNGZoaHBJS1JweUFIT0ZMNk1QbkVyaFF4N1dDXzJBcGgxMWRUUXAxM1hn0gFzQVVfeXFMTmkyN0xnV1FuV01LYlJ2WlJ6TEVOMjNOVFN6S1RfUkJOXzYxTm9iVjFyMkk2TVJPRVRjQ05hRjlnUDQ5U2FiZmF0U3hvTlc3TjVQdDVxMzhQc1hnMUktNzNOZnd6VXBnVE9PZDRfcVE5X1lsMA?oc=5"
+    },
+    {
+      "source_name": "뉴스다",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1xeGIwYnJialZ4dTYtSFhEVFBxTUJzY2VNVzktMXJ6aEI2cFNycnVPN0ZlZmwydlBRQnhTemRRR3lIVHhOd2xvTFBBWmI4MU1ab0ItWVdPeXh1XzJFeTNV?oc=5"
+    },
+    {
+      "source_name": "대구일보",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1pM0VaM3RHck5rTG1faVM0SS10aHNGOWJKMW1rcldVU3NzbDVfQkktMm5ER0huZ1BVS3J2a19hdTFZRDRHaEgzWnRKb0xPdWlpUzg5OElHQkRxVzMwdTNsU0NIWE5XZmpR?oc=5"
+    },
+    {
+      "source_name": "https://www.2news.co.kr/",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0tQ1JNQ1Z3Vldtck9iNUg0QXlSS2QyMzNDQkNyWVYxNzdVRFMwQl9iTmRqSktJdFZHUUQweGlwSU9Pa19nMmVDbG5teWFzdjloUU44bjhrUXBQMkp1TElhSzdiTzl5ajhW?oc=5"
+    },
+    {
+      "source_name": "아이뉴스24",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5lWkd2RWxtZkpyUzZtY2wtLU1IUjdSSjhPMG5Zd2hNWndYYTdaM2trT1BZRHlwS2xZLVVKWnRhTG11TFFONnk2TzRtWEQ?oc=5"
+    },
+    {
+      "source_name": "뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB1eFlKS1Q4RXBoaFpsaWE4aTU5Z1dCbWlUYmdjenczTlRFU1ZoMXYxUHhDa1hRcWJiTXlraXdSWG1GLTV4bjVZWVdMem4yR2tvRDZKc2JhSXFoMWdOSkNmV9IBeEFVX3lxTE5sS2VpbUh3QWd1bS1YWWRvaUF4eHhzMXV4LTljQjdic1E0T0pUanR2bUVJblFsa3M1bXNrZ1llZUQ3VjRjXzM0OXlXWDR2TkFVelhuWElsd1hkdm1EZ2ZlTkp2RTlWM2NMeUpzclpVSHhpdHlQOExueA?oc=5"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "youtube-09e52a68",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "k 스포츠 허브",
+  "url": "https://www.youtube.com/watch?v=fERoi-lZzPM",
+  "title": "기아 포수 세대교체? 김태군을 쉽게 못 놓는 진짜 이유",
+  "published_at": "2026-11-23T06:00:08Z",
+  "collected_at": "2026-11-23T07:37:44.948Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1315,
+    "likes": 21,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 57,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

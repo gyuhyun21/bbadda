@@ -1,0 +1,23 @@
+{
+  "id": "community-ec46b7b7",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "디시 야구 갤러리",
+  "url": "https://gall.dcinside.com/mgallery/board/view/?id=mobis&no=304704&page=1",
+  "title": "야구 응원팀 삼성 라이온즈가 12년만에 우승했다... - 울산 현대모비스 ...",
+  "published_at": "2026-11-22T13:37:44.948Z",
+  "collected_at": "2026-11-23T07:37:44.948Z",
+  "summary_ko": "",
+  "excerpt": "... 농구 응원팀 모비스도 삼성왕조와 같이 한때 찬란했던 시기가 있었지만 이제 암흑기라고 인정해야할 것 같다.…",
+  "metrics": {},
+  "scores": {
+    "hot": 62,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-264c30c4",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "파이낸셜뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE92d3JJdXZ5T0I1dHh4cWNvX0FUSHZ3YThyYzRGal92aUhyUjY3d2kyTGc3SUdGX0pVLUNyRkZJdVN6Q2lMemw0WE9sUG12UVBGUFQyeE5Vby1hdw?oc=5",
+  "title": "20년 만에 대구 도심서 한국시리즈 우승 카퍼레이드 관심",
+  "published_at": "2026-11-23T05:31:04.000Z",
+  "collected_at": "2026-11-23T07:37:44.948Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

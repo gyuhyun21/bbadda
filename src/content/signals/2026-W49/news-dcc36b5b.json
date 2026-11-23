@@ -1,0 +1,22 @@
+{
+  "id": "news-dcc36b5b",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "일간스포츠",
+  "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE13bENaOG14Yi1tb1BtQWRQZGcxTl8tZzRQR0NhQW1TQ3ZBRnVKTVFQU1RXM196aFplWmNlMU5PbWR5QzlVRFp3aVFtbmZhRHZ6eGlURzJicVktZmc?oc=5",
+  "title": "에버랜드 이어 대구 도심서도 카퍼레이드…'V9' 삼성, 안방 팬들과 우승 축하",
+  "published_at": "2026-11-23T04:53:00.000Z",
+  "collected_at": "2026-11-23T07:37:44.948Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

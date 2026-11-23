@@ -1,0 +1,24 @@
+{
+  "id": "community-3340db96",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&page=6&document_srl=10587860227",
+  "title": "나도 지금같으면 학폭으로 걸렸을거 같음 - 야구",
+  "published_at": "2026-11-23T07:02:44.948Z",
+  "collected_at": "2026-11-23T07:37:44.948Z",
+  "summary_ko": "",
+  "excerpt": "... 11 분 전 자유 한화생명이글스 조회59. 석장현은 뭐 귓속말하면서 협상하냐 ??? 현재 크보라이브 생중계…",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

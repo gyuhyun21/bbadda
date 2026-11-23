@@ -1,0 +1,23 @@
+{
+  "id": "community-b3a27bde",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 오늘의 라커룸",
+  "url": "https://blog.naver.com/demiyum/224488333174",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/LsWSMXr81zL",
+  "title": "211안타 레이예스 롯데 재계약, 140만 달러에서 오스틴 200만 달러까지 얼마나 오를까",
+  "published_at": "2026-11-23T13:55:00.000+09:00",
+  "collected_at": "2026-11-23T07:37:44.948Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

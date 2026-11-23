@@ -1,0 +1,28 @@
+{
+  "id": "news-34435e11",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "경북도민일보",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5fcEs1aXlIRkdia2tpYU9OR3hQUTFKalFiNjZhU2JxNlQ1b3YyYlNua2lMMGZPQjhGUGozT3RRV0ZvSWR2NkNrc1cteTB1TGRhUDBnbUdTZ1JvY3ZWSWlBdjdQRy1kbE12V3c?oc=5",
+  "title": "20년만에 다시 보는 삼성라이온즈 우승 카퍼레이드…29일 대구 반월당~달구벌대종 1.6km",
+  "published_at": "2026-11-23T05:59:32.000Z",
+  "collected_at": "2026-11-23T07:37:44.948Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 91,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "문화일보",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5TRzY4Yi1HUml4RVVtU1VRMmJiM29IYmE1UVpzZWozVWJYV0dPSzczMGFWem40cUliZmtiUElQYllNTk1mNWIxSTBWSS1FUHAt?oc=5"
+    }
+  ]
+}

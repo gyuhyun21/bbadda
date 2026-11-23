@@ -1,0 +1,24 @@
+{
+  "id": "community-01c3369f",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 Money Insight",
+  "url": "https://blog.naver.com/tlstprud_0/224488477743",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/DK7YgyszK6z",
+  "title": "7만 명 찾은 야구장, 매점 9곳이 문을 열지 못한 이유",
+  "published_at": "2026-11-23T15:50:00.000+09:00",
+  "collected_at": "2026-11-23T07:37:44.948Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

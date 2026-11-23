@@ -1,0 +1,22 @@
+{
+  "id": "community-e4848349",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 BoxScore",
+  "url": "https://blog.naver.com/today_sportskr/224486902069",
+  "title": "\"롯데가 진짜 노리는 거야?\" 김호령 영입설 공개! 외야 분위기가 심상치 않던데",
+  "published_at": "2026-11-23T12:40:00.000+09:00",
+  "collected_at": "2026-11-23T07:37:44.948Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

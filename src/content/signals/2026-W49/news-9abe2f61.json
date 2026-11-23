@@ -1,0 +1,23 @@
+{
+  "id": "news-9abe2f61",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "news",
+  "source_name": "SPOTV NEWS",
+  "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1021296",
+  "title": "개막 엔트리도 들어갔는데…한화 150km 불펜 기대주 결국 현역 입대 \"야구에 대한 간절함 키우겠다\"",
+  "published_at": "2026-11-23T02:02:00.000Z",
+  "collected_at": "2026-11-23T07:37:44.948Z",
+  "summary_ko": "SPOTV NEWS는 개막 엔트리에도 들었던 한화의 시속 150km 불펜 기대주가 현역으로 입대한다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "150km 불펜 기대주, 현역 입대"
+}

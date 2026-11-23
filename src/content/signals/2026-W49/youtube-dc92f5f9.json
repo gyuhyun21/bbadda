@@ -1,0 +1,26 @@
+{
+  "id": "youtube-dc92f5f9",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "youtube",
+  "source_name": "랭킹의민족",
+  "url": "https://www.youtube.com/watch?v=TrcLJ_Z_60Q",
+  "title": "넥벤져스에 이정후까지? 키움 포지션별 역대 커리어하이 라인업",
+  "published_at": "2026-11-23T05:00:29Z",
+  "collected_at": "2026-11-23T07:37:44.948Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 3623,
+    "likes": 13,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 54,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

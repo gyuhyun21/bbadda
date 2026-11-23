@@ -1,0 +1,24 @@
+{
+  "id": "news-a730ad8e",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠월드",
+  "url": "https://www.sportsworldi.com/newsView/20261123508046",
+  "title": "마운드 최강인데, 수비는 숙제… 겨울잠 대신 ‘지옥 펑고’ 택한 곰들",
+  "published_at": "2026-11-23T03:18:37.000Z",
+  "collected_at": "2026-11-23T07:37:44.948Z",
+  "summary_ko": "스포츠월드는 마운드가 리그 최강인 두산이 수비를 숙제로 보고 마무리캠프에서 강도 높은 펑고 훈련을 택했다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "마운드 최강, 숙제는 수비"
+}

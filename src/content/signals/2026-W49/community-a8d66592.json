@@ -1,0 +1,24 @@
+{
+  "id": "community-a8d66592",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&page=7&document_srl=10586151825",
+  "title": "노시환 포스팅 - 야구",
+  "published_at": "2026-11-22T15:37:44.948Z",
+  "collected_at": "2026-11-23T07:37:44.948Z",
+  "summary_ko": "",
+  "excerpt": "... 22 분 전 자유 랜더스 조회21 추천2. 포체티노는 알론소 급임 · FA 시즌 X…",
+  "metrics": {},
+  "scores": {
+    "hot": 62,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "youtube-61846426",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "MNK BASEBALL(MLB,NPB,KBO)",
+  "url": "https://www.youtube.com/watch?v=d2nl2LIMNP0",
+  "title": "26 KBO 한국인 불펜투수 명품직구 TOP7",
+  "published_at": "2026-11-23T06:07:01Z",
+  "collected_at": "2026-11-23T07:37:44.948Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 995,
+    "likes": 12,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 53,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

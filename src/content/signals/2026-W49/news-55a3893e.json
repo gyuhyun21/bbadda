@@ -1,0 +1,32 @@
+{
+  "id": "news-55a3893e",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "공감신문",
+  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBJU2pFUUJ5aGw2RkRLRWtoTWtTWko3WlNYQWF6d2NUN1BXMmljWXdyM2ptck9Zc01nREtWWEtCX3htMFBMTWZhbUh2aWNNeGxBT3h1WjhIWTU0YWQtWEJLbUZNOHBJYTQ?oc=5",
+  "title": "삼성 라이온즈, 12년 만의 우승 기념 카퍼레이드로 대구 팬심 저격",
+  "published_at": "2026-11-23T05:15:44.000Z",
+  "collected_at": "2026-11-23T07:37:44.948Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 99,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "매일신문",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBTdFM3amlYRHNWOHR0TVU4VlJyajZMTG5hbWlTd0JQdWZ3X0F1RlNZNnBCMUFIcnFldzVVbkZnZGJSSHRfQ2pGTkRtT281MGpCeDh1Z0pPczY0Vy1TNGs5Z1VR?oc=5"
+    },
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTkt6V2xiTmVRa0QxNzhWSFBIRVJySUpDVVdaZ2V6b0s4aEFjV1lsZ3ZaYUdVY21reGNRZURfVFhNekdveDdmR1BqTUFwMGpCWW4zME04dW1peXBGM05Hb1JMS3lvMnoxSkZ6OWVpbGNVa2t5TXBqQU9BeGZ1R2xCelpKdw?oc=5"
+    }
+  ]
+}

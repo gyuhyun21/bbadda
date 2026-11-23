@@ -1,0 +1,23 @@
+{
+  "id": "news-b98c83e9",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "https://www.asportstv.kr/",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE80S01ueWx0QXljS0YxZHVLOHRCbzVOeXhNTjBaZ1Z4eHI2RnQ0VnlMN3Z3S0RaT0NmV2JGbnB4bFR3dm9NUkpnbHZKWFEzb1pBQXpRUGxEem8wSTgxRUJhS0ctb1NiT2VI?oc=5",
+  "title": "오전 7시부터 펑고·스윙 1000개 지옥 훈련… 류지현 \"내년 시즌 결과로 입증\"",
+  "published_at": "2026-11-23T00:33:56.000Z",
+  "collected_at": "2026-11-23T07:37:44.948Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

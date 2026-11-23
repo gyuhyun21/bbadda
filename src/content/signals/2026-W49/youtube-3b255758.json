@@ -1,0 +1,26 @@
+{
+  "id": "youtube-3b255758",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "youtube",
+  "source_name": "야구소년",
+  "url": "https://www.youtube.com/watch?v=Wyw1jW-7kyY",
+  "title": "사이클링 히트를 치고도 멈추지 않은 38세 이병규 #kbo #lg트윈스",
+  "published_at": "2026-11-23T04:00:05Z",
+  "collected_at": "2026-11-23T07:37:44.948Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1081,
+    "likes": 2,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 45,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "news-fc93fb54",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "뉴시스",
+  "url": "https://nwww.newsis.com/view/NISX20261123_0003879215",
+  "title": "FA 중견수 중 유일 C등급…김호령, '대박' 터트릴까",
+  "published_at": "2026-11-23T05:29:34.000Z",
+  "collected_at": "2026-11-23T07:37:44.948Z",
+  "summary_ko": "뉴시스는 FA 중견수 가운데 유일한 C등급인 김호령이 큰 계약을 따낼지 관심이 모인다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "유일한 C등급 중견수 김호령"
+}

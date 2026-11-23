@@ -1,0 +1,23 @@
+{
+  "id": "community-45392fcb",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 n줄 요약",
+  "url": "https://blog.naver.com/kimynghwi123/224487665834",
+  "title": "KBO 역대 MVP·신인왕 총정리! 1982년부터 2025년까지 역대 수상자는?",
+  "published_at": "2026-11-23T01:23:00.000+09:00",
+  "collected_at": "2026-11-23T07:37:44.948Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

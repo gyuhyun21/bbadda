@@ -1,0 +1,26 @@
+{
+  "id": "youtube-22327c29",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "youtube",
+  "source_name": "쓱단장",
+  "url": "https://www.youtube.com/watch?v=sCx0wnVFRGg",
+  "title": "컴프야 V26 키움 타자 가이드, 1루 주인 바뀌었다! [컴프야 가이드]",
+  "published_at": "2026-11-23T01:03:08Z",
+  "collected_at": "2026-11-23T07:37:44.948Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 6849,
+    "likes": 40,
+    "comments": 30
+  },
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

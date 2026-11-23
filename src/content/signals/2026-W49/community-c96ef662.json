@@ -1,0 +1,29 @@
+{
+  "id": "community-c96ef662",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 ENTER LOG 이슈의 시선",
+  "url": "https://blog.naver.com/enterlog_1/224488357810",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/DsouOcGd5yB",
+  "title": "KIA 김도영, 한은회 '2026 최고의 선수상' 수상! (45홈런 기록 및 주요 수상자 총정리)",
+  "published_at": "2026-11-23T14:17:00.000+09:00",
+  "collected_at": "2026-11-23T07:37:44.948Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 83,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "www.xportsnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBaSms2djY3OVVQTVdNaGlTS3ZFNXk1eUhCWGdncUtNXzRSWVo3MHVsdjVLNm5VWkZKVFFlTGdwbDY0N2RMYUo2ZFJxYkV0V191YmZhUg?oc=5"
+    }
+  ]
+}

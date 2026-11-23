@@ -1,0 +1,32 @@
+{
+  "id": "news-8746cf98",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "경북신문",
+  "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1NM2U2ZmxFU1VUMEVxU1FCWVJLeFRSX0ZnUlB2TFA0N3BXVGV4WXhzY1BYRkZZd0JjNy1PWE4yVkJzc0lxcWtSYWdyZHVuQU1ZTHR3NnN0Wmc?oc=5",
+  "title": "대구시와 삼성라이온즈, 29일 우승기념 카퍼레이드 진행",
+  "published_at": "2026-11-23T05:35:13.000Z",
+  "collected_at": "2026-11-23T07:37:44.948Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 99,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "BBS불교방송",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9aN3lUc1IxNkhyQ3ktUWkyWmpsbWU5SEVTemQwdFN3M1dSeHVqMHVlNWRfSnNYQmR0YTRuZ3BIa3ItUWNxWkNBcWdvcjgxVGkzeTVyTW0zUTI3ZUxqTWdJMjAyamFnQk5BZGlF?oc=5"
+    },
+    {
+      "source_name": "매일일보",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1OSkIxSjFEbDBtVl9yaW44cDhXaFJuYXZRMkFuTUdYaTU0MzdvWVF4V1pqdmdMOEFEYkcyQVpMcnZaVGJrc3FSb2dZTE52Sy0tZERzSFFiVlhqelBfZzB0ZXYyZlE?oc=5"
+    }
+  ]
+}

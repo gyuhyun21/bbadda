@@ -1,0 +1,24 @@
+{
+  "id": "community-cc0d333f",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 상상이네 일상의 블로그",
+  "url": "https://blog.naver.com/east10004/224488280632",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/CXDh6UiwX9k",
+  "title": "170만 달러 오퍼 211안타 레이예스, 일본에 뺏길 위기인 이유",
+  "published_at": "2026-11-23T13:16:00.000+09:00",
+  "collected_at": "2026-11-23T07:37:44.948Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "news-2b7c0f10",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "news",
+  "source_name": "이투데이",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE15NXZ6RkNSejhwTkdyUW5ldXhHMmtJWlV1VFVDQU9TR29GYmZaYTB2QWxKVGdXZVl6UnczNUVwQ3lDek1acWtKMnhrMy1tZzY2WnAyNA?oc=5",
+  "title": "집토끼 다 잡은 SSG…프로야구 FA 일주일, 계약 상황은?",
+  "published_at": "2026-11-22T22:08:00.000Z",
+  "collected_at": "2026-11-23T07:37:44.948Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

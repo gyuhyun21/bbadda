@@ -1,0 +1,26 @@
+{
+  "id": "youtube-a96e2a9c",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "youtube",
+  "source_name": "그날의선수",
+  "url": "https://www.youtube.com/watch?v=-C-4Gwa__oo",
+  "title": "안타 하나 안 맞고도 기록이 없었다🔥 #배영수 #한국시리즈 #두산베어스",
+  "published_at": "2026-11-23T04:30:27Z",
+  "collected_at": "2026-11-23T07:37:44.948Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 982,
+    "likes": 11,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 53,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

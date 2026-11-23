@@ -1,0 +1,26 @@
+{
+  "id": "youtube-18a606cb",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "youtube",
+  "source_name": "OBS TV",
+  "url": "https://www.youtube.com/watch?v=EAm5TXtK9Cs",
+  "title": "인천 토박이 SK 박민호 손목 수술 후 복귀했지만 결국.. #박민호 #수술 #쇼츠 #불타는그라운드 #야구 #sk와이번스 #ssg랜더스 #야구선수 #kbo #프로야구",
+  "published_at": "2026-11-23T03:15:12Z",
+  "collected_at": "2026-11-23T07:37:44.948Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 726,
+    "likes": 4,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 45,
+    "relevance": 70
+  },
+  "sentiment": "mixed"
+}

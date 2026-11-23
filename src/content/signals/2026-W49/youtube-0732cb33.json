@@ -1,0 +1,26 @@
+{
+  "id": "youtube-0732cb33",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "youtube",
+  "source_name": "이유진",
+  "url": "https://www.youtube.com/watch?v=QLUpKz6YG4w",
+  "title": "싸인 아직 안했대? #fa #정수빈 #두산 #두산베어스 #kbo",
+  "published_at": "2026-11-23T06:47:55Z",
+  "collected_at": "2026-11-23T07:37:44.948Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 471,
+    "likes": 4,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 45,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "news-88717834",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "fn스타",
+  "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE05V0FRbkxtdWVKQW1mYl9adkZSeEx1ckJIX2p0NGZDQmF0dWpEeTBKR1VsTHJOakJDRDdmNWtRZ0tOZHNYTUM5TVVXM0Y3RV9kclBhNEJVX0RFUjhteHVN0gFjQVVfeXFMUFNwaHJ6X3N0b0w1NEtxUWVZVUw5Yy1ld210cnpQaEc3VFpIb1R2RzNOZ0U3V1NhdlR2Zk1OWlRLSmRnb3lLY1pfOHF1eG1Rem5zWEZTejJYYWYyVFJ5TkkxY1Jn?oc=5",
+  "title": "'30경기 악몽' 딛고 45홈런 폭발… 김도영, 올겨울 KBO 트로피 싹쓸이 예고",
+  "published_at": "2026-11-22T16:39:00.000Z",
+  "collected_at": "2026-11-23T07:37:44.948Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 87,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "파이낸셜뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBqb2ROTTA4RzlEVUVXTVlJZV9kbDk2aFdYd0lNUUI0YkwzR2RaRXNGSF9SUjlSTlFzc0ZIUDRjeVpka0lKLXN1cHIwMXBYcTR5SldPU1gtMVJqdw?oc=5"
+    }
+  ]
+}

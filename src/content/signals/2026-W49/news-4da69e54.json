@@ -1,0 +1,23 @@
+{
+  "id": "news-4da69e54",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBmUERHTlVFUzN5Rm1JS1Izb25qZDhwUmNlcldXbkJjaHFnMFVpTV9ZQnlPTFdxRGpHcmJMc3VJUEVmUkxFV2FSZjRGZm0zNFY3QTNydXhVZmd1ZTM4VG1OVDgxWXNfU2dHX2QzbVRyQmVkZTFGRnpqYjdXTFl6dw?oc=5",
+  "title": "'10개 구단 중 1등' 내부 FA 3명 벌써 다 잡았다! 다음은 초대형 외부 영입?",
+  "published_at": "2026-11-23T01:38:27.000Z",
+  "collected_at": "2026-11-23T07:37:44.948Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

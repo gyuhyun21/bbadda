@@ -1,0 +1,23 @@
+{
+  "id": "news-031a3088",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "MHN스포츠",
+  "url": "https://mhnse.com/news/articleView.html?idxno=1706880",
+  "title": "유강남, 롯데서 다시 뛸 가능성 열렸다...이동욱 감독 \"내년에 필요한 전력, 단 계약은 구단의 영역\"",
+  "published_at": "2026-11-23T01:02:41.000Z",
+  "collected_at": "2026-11-23T07:37:44.948Z",
+  "summary_ko": "MHN스포츠는 이동욱 감독이 유강남을 내년에 필요한 전력이라고 했지만 계약은 구단의 영역이라고 말했다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "이동욱 \"유강남, 필요한 전력\""
+}

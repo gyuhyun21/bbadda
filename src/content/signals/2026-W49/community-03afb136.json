@@ -1,0 +1,24 @@
+{
+  "id": "community-03afb136",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/10587365080",
+  "title": "와 구자욱이 영결이었네 - 야구",
+  "published_at": "2026-11-23T03:37:44.948Z",
+  "collected_at": "2026-11-23T07:37:44.948Z",
+  "summary_ko": "",
+  "excerpt": "... 삼성 라이온즈 29일 대구 도심 카퍼레이드. 인기 사실 종열햄이랑 삼성 입장은 애진작에 다 나왔음…",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

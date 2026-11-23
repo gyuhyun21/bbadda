@@ -1,0 +1,26 @@
+{
+  "id": "youtube-5228b697",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "스포츠맛집",
+  "url": "https://www.youtube.com/watch?v=vwELKUbk0v0",
+  "title": "기아타이거즈 역대급 신인 등장! 노민혁 이호민 향한 이범호 감독의 현실적인 조언",
+  "published_at": "2026-11-23T05:00:26Z",
+  "collected_at": "2026-11-23T07:37:44.948Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1039,
+    "likes": 31,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

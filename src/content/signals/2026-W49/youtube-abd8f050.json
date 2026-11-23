@@ -1,0 +1,26 @@
+{
+  "id": "youtube-abd8f050",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "신시아 타이거즈",
+  "url": "https://www.youtube.com/watch?v=vHp4hsOXvhE",
+  "title": "스피또를 긁다. #기아타이거즈 #야구 #스피또 #김호령",
+  "published_at": "2026-11-23T05:38:57Z",
+  "collected_at": "2026-11-23T07:37:44.948Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 829,
+    "likes": 21,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}
