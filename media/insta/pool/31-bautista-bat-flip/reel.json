@@ -1,0 +1,105 @@
+{
+  "music": "bgm-morning",
+  "subStyle": "yt",
+  "outro": {
+    "hold": 1.5,
+    "fade": 0.5
+  },
+  "pool": {
+    "no": 31,
+    "series": "그날의 야구",
+    "ep": 15,
+    "facts": "센세 확인 2026-11-24(기사 2곳 이상, PR 본문 표)"
+  },
+  "segments": [
+    {
+      "src": "clip1.mp4",
+      "from": 0,
+      "to": 10,
+      "credit": "MLB",
+      "yt": "-UdsVO7HaJg",
+      "say": "a1.mp3",
+      "text": "메이저리그 역사상 가장 유명한 빠던. 근데 이 홈런 전에 오십삼 분짜리 이닝이 있었어.",
+      "kick": "그날의 야구 #15",
+      "head": "역사상 가장<br><b>유명한 빠던</b>",
+      "sub": "2015년 10월 14일, 바티스타의 빠던",
+      "note": "출처: SI·FOX Sports·MLB.com · 영상: MLB",
+      "fx": [
+        {
+          "at": 1.6,
+          "text": "휙!",
+          "style": "sfx"
+        }
+      ]
+    },
+    {
+      "src": "clip2.mp4",
+      "from": 0,
+      "to": 10,
+      "credit": "SkyDomed",
+      "yt": "1V8W6_bD7bE",
+      "say": "a2.mp3",
+      "text": "디비전 시리즈 오차전, 칠회초 이 대 이. 포수가 투수에게 돌려준 공이 추신수 방망이에 맞고 굴렀고, 그 틈에 삼루 주자가 들어왔어.",
+      "kick": "7회초 2:2",
+      "head": "공이 방망이에<br><b>맞고 득점</b>",
+      "sub": "포수 송구가 추신수 배트에 맞아 3:2",
+      "note": "출처: SI·MLB.com · 영상: SkyDomed",
+      "fx": [
+        {
+          "at": 4.5,
+          "text": "이게 돼?",
+          "style": "mind",
+          "pos": "low"
+        }
+      ]
+    },
+    {
+      "src": "clip3.mp4",
+      "from": 0,
+      "to": 10,
+      "credit": "MLB",
+      "yt": "ZlEqykMtHSE",
+      "say": "a3.mp3",
+      "text": "칠회말엔 텍사스 수비가 연속 실책 세 개. 무사 만루가 됐고, 토론토가 삼 대 삼 동점을 만들었어.",
+      "kick": "7회말",
+      "head": "실책 셋<br><b>무사 만루</b>",
+      "sub": "연속 실책 3개, 3:3 동점",
+      "note": "출처: SI·MLB.com·FOX Sports · 영상: MLB",
+      "fx": [
+        {
+          "at": 2.0,
+          "text": "실책",
+          "style": "stamp"
+        }
+      ]
+    },
+    {
+      "src": "clip4.mp4",
+      "from": 0,
+      "to": 10,
+      "credit": "arcticmonkey3",
+      "yt": "KdaDpFy3Kp4",
+      "say": "a4.mp3",
+      "text": "그리고 바티스타의 쓰리런. 육 대 삼, 토론토는 이십이 년 만에 리그 챔피언십에 갔어.",
+      "kick": "53분 이닝 끝",
+      "head": "쓰리런<br><b>6:3</b>",
+      "sub": "3점 홈런 6:3, 22년 만의 ALCS",
+      "note": "출처: FOX Sports·VICE · 영상: arcticmonkey3",
+      "fx": [
+        {
+          "at": 1.5,
+          "text": "53분",
+          "style": "pop",
+          "pos": "low"
+        }
+      ]
+    }
+  ],
+  "end": {
+    "look": "profile",
+    "head": "가장 긴 7회<br><b>가장 큰 빠던</b>",
+    "cta": "야구 친구한테 보내 줘",
+    "say": "a5.mp3",
+    "text": "야구 친구한테 보내 줘."
+  }
+}
