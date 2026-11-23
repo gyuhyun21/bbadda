@@ -1,0 +1,23 @@
+{
+  "id": "news-9d02bb33",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://www.mt.co.kr/amp/sports/2026/11/24/202611231910770468O",
+  "title": "\"롯데 아니었으면 안왔죠\" 초보 코치 김민성의 진심...'수비강화캠프'에서 목소리가 가장 큰 이유",
+  "published_at": "2026-11-23T16:10:00.000Z",
+  "collected_at": "2026-11-23T21:38:28.278Z",
+  "summary_ko": "머니투데이는 초보 코치 김민성이 롯데였기에 왔다며 수비강화캠프에서 가장 크게 목소리를 낸다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "초보 코치 김민성 \"롯데라서 왔다\""
+}

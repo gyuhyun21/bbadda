@@ -1,0 +1,24 @@
+{
+  "id": "community-3b9834d4",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 Money Focus",
+  "url": "https://blog.naver.com/for_allmoney/224489142283",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/GIIuoTIFQDn",
+  "title": "2026 KBO 시상식 MVP·신인왕 후보·상금·일정·중계 총정리",
+  "published_at": "2026-11-24T00:14:00.000+09:00",
+  "collected_at": "2026-11-23T21:38:28.278Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

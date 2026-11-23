@@ -1,0 +1,27 @@
+{
+  "id": "youtube-fdd3739a",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "야구는다르지",
+  "url": "https://www.youtube.com/watch?v=Rk12EqB0p5Y",
+  "title": "내년 복귀를 준비하는 윤영철",
+  "published_at": "2026-11-23T13:00:06Z",
+  "collected_at": "2026-11-23T21:38:28.278Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 11608,
+    "likes": 112,
+    "comments": 5
+  },
+  "scores": {
+    "hot": 62,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

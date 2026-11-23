@@ -1,0 +1,26 @@
+{
+  "id": "youtube-a997827b",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "youtube",
+  "source_name": "시사식탁",
+  "url": "https://www.youtube.com/watch?v=1t07w8qX8C4",
+  "title": "LG서 밀려난 거포의 결말 #박병호 #키움히어로즈",
+  "published_at": "2026-11-23T21:30:06Z",
+  "collected_at": "2026-11-23T21:38:28.278Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 20,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 18,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

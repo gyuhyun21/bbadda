@@ -1,0 +1,23 @@
+{
+  "id": "community-944c3dc5",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt",
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 오늘의 채리 Today's Cherry",
+  "url": "https://blog.naver.com/6cherry_/224488334007",
+  "title": "[2026 한국시리즈 1차전] 수원KT위즈파크 외야테이블석 3인 직관 시야 (삼성 vs KT)",
+  "published_at": "2026-11-23T18:45:00.000+09:00",
+  "collected_at": "2026-11-23T21:38:28.278Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

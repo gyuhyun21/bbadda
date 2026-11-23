@@ -1,0 +1,29 @@
+{
+  "id": "community-6de016fb",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 더파노라마",
+  "url": "https://blog.naver.com/ft-times/224488912963",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/LVD34UMqgBD",
+  "title": "김도영, 2026 최고의 선수상까지…KBO 기아 겹경사",
+  "published_at": "2026-11-23T23:41:00.000+09:00",
+  "collected_at": "2026-11-23T21:38:28.278Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 82,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "파이트타임즈",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8tbU80QmMzQ3hzSmdTMmJHMFEzbExWYkZYalZDcnpNVUZCVndkOEtrQzV2RDR2ZlJTdk9PQk1CZUJxeFpnWEZZRXpsNnVkdUlVR0puMDd4NWpWT1QzRHpaQldhWjQ?oc=5"
+    }
+  ]
+}

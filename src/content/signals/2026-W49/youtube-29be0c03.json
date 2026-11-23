@@ -1,0 +1,26 @@
+{
+  "id": "youtube-29be0c03",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "MYKORI",
+  "url": "https://www.youtube.com/watch?v=PSY06skSKU8",
+  "title": "속보! 삼성라이온즈, 대구시내 카퍼레이드확정 #삼성라이온즈 #카퍼레이드 #시사K",
+  "published_at": "2026-11-23T13:48:38Z",
+  "collected_at": "2026-11-23T21:38:28.278Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 2650,
+    "likes": 49,
+    "comments": 3
+  },
+  "scores": {
+    "hot": 61,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

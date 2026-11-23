@@ -1,0 +1,23 @@
+{
+  "id": "news-38d6e0b8",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20261123_0003879817",
+  "title": "日도 주시하는 안타 기계…\"최선 다해 협상\" 롯데, 레이예스 붙잡을 수 있나",
+  "published_at": "2026-11-23T21:00:00.000Z",
+  "collected_at": "2026-11-23T21:38:28.278Z",
+  "summary_ko": "뉴시스는 일본도 주시하는 레이예스를 두고 롯데가 최선을 다해 협상하겠다는 입장이라고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "일본도 노리는 레이예스, 협상 계속"
+}

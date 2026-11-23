@@ -1,0 +1,24 @@
+{
+  "id": "community-4ae3e7c4",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "lotte"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 오늘의 경기장",
+  "url": "https://blog.naver.com/dnl0315/224488183077",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/AZeVpCeXbwi",
+  "title": "“삼성 우승 이후 일본행?” 원태인 26세에 해외 진출 도전…지바 롯데까지 거론",
+  "published_at": "2026-11-24T01:00:00.000+09:00",
+  "collected_at": "2026-11-23T21:38:28.278Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

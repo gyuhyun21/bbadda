@@ -1,0 +1,24 @@
+{
+  "id": "community-0488d93b",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 IT리더 리더유",
+  "url": "https://blog.naver.com/doom7356/224489167875",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/GtCoHSb1uU7",
+  "title": "신한 슈퍼SOL 야구상식 쏠퀴즈 11월 24일 정답(2020년 11월 24일 창단 첫 한국시리즈 우승을 차지하며...",
+  "published_at": "2026-11-24T01:32:00.000+09:00",
+  "collected_at": "2026-11-23T21:38:28.278Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

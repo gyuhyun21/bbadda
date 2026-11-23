@@ -1,0 +1,24 @@
+{
+  "id": "community-4ca5ad30",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&page=5&document_srl=10589104346",
+  "title": "엔태인 썰 나온거 종합. - 야구",
+  "published_at": "2026-11-23T13:38:28.278Z",
+  "collected_at": "2026-11-23T21:38:28.278Z",
+  "summary_ko": "에펨코리아에 NC의 원태인 영입설을 모은 글이 올라왔다(루머).",
+  "excerpt": "... 엔태인 썰 나온거 종합. [레벨:21] nc원년팬. 조회 수 281 추천 수 8 댓글 ...",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

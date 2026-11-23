@@ -1,0 +1,26 @@
+{
+  "id": "youtube-b4db38bd",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "youtube",
+  "source_name": "KEENA 키나",
+  "url": "https://www.youtube.com/watch?v=5NTd6UkLzv0",
+  "title": "[FIF TAKE] SSG랜더스 라우럴 | SSG랜더스 시구BEHIND KEENA 키니 #1",
+  "published_at": "2026-11-23T13:06:03Z",
+  "collected_at": "2026-11-23T21:38:28.278Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 14,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 16,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

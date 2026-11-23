@@ -1,0 +1,24 @@
+{
+  "id": "community-edb8c369",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 사자 탈을 쓴 KBO 이야기",
+  "url": "https://blog.naver.com/clipmory/224489116608",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/HJjZLDUVYyq",
+  "title": "\"1차 지명받고 5년동안 1군 딱1경기\" 8년 무명 투수가 자신을 떠나보냈던 감독과 재회하자 벌어진 일 ⚾",
+  "published_at": "2026-11-23T23:50:00.000+09:00",
+  "collected_at": "2026-11-23T21:38:28.278Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "community-8ec51f17",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&page=5&document_srl=10589587390",
+  "title": "노시환도 올해 퐈 나왔으면 - 야구",
+  "published_at": "2026-11-23T15:38:28.278Z",
+  "collected_at": "2026-11-23T21:38:28.278Z",
+  "summary_ko": "",
+  "excerpt": "... SSG 랜더스 외야 구해요. 18 분 전 자유 Sgreset 조회60. SSG 랜더스 외야 구해요…",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

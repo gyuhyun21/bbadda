@@ -1,0 +1,23 @@
+{
+  "id": "community-0dcb2c04",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 김맹구의 탐구생활",
+  "url": "https://blog.naver.com/tkadla1422/224489140295",
+  "title": "신한 쏠야구퀴즈 슈퍼솔 11월 24일 플레이퀴즈 퀴즈팡팡",
+  "published_at": "2026-11-24T00:11:00.000+09:00",
+  "collected_at": "2026-11-23T21:38:28.278Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

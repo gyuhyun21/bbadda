@@ -1,0 +1,23 @@
+{
+  "id": "community-3a070611",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 충신 복덕방",
+  "url": "https://spikespg.tistory.com/13750",
+  "title": "[신한 쏠] 2026년 야구상식 쏠퀴즈! 11월 24일 정답",
+  "published_at": "2026-11-24T00:34:02.000+09:00",
+  "collected_at": "2026-11-23T21:38:28.278Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "community-a181ac89",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 야구디코더의 분석 리포트",
+  "url": "https://baseball-decoder.tistory.com/188",
+  "title": "[2026 KBO 스토브리그 데일리 리포트 #13] FA 개장 일주일째 '외부 이적 0명' 기현상! 구자욱 '일구상...",
+  "published_at": "2026-11-23T20:29:59.000+09:00",
+  "collected_at": "2026-11-23T21:38:28.278Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

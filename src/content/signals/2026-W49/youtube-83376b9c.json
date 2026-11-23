@@ -1,0 +1,26 @@
+{
+  "id": "youtube-83376b9c",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "길잃은 고양이의 야구 이야기",
+  "url": "https://www.youtube.com/watch?v=n9rah_B14cg",
+  "title": "타격왕 KS MVP의다음무대는미국?#구자욱 #삼성라이온즈 #삼성 #KBO #프로야구 #KBOFA #FA시장 #메이저리그 #MLB #MLB도전 #한국야구 #야구쇼츠 #야구뉴스",
+  "published_at": "2026-11-23T13:51:57Z",
+  "collected_at": "2026-11-23T21:38:28.278Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 632,
+    "likes": 2,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 40,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}
