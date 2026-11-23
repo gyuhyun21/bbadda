@@ -1,0 +1,105 @@
+{
+  "music": "bgm-morning",
+  "subStyle": "yt",
+  "outro": {
+    "hold": 1.5,
+    "fade": 0.5
+  },
+  "pool": {
+    "no": 32,
+    "series": "야구 고수",
+    "ep": 12,
+    "facts": "센세 확인 2026-11-24(기사 2곳 이상, PR 본문 표)"
+  },
+  "segments": [
+    {
+      "src": "clip1.mp4",
+      "from": 0,
+      "to": 10,
+      "credit": "MLB",
+      "yt": "dOlihOEDXgE",
+      "say": "a1.mp3",
+      "text": "월드시리즈 구회말 동점. 주자가 홈에서 태그됐는데, 경기가 끝났어. 그것도 끝내기 득점으로.",
+      "kick": "야구 고수 #12",
+      "head": "태그 아웃인데<br><b>끝내기 득점</b>",
+      "sub": "홈에서 태그됐는데 끝내기",
+      "note": "출처: NPR·MLB.com · 영상: MLB",
+      "fx": [
+        {
+          "at": 3.0,
+          "text": "엥?",
+          "style": "sfx"
+        }
+      ]
+    },
+    {
+      "src": "clip2.mp4",
+      "from": 0,
+      "to": 10,
+      "credit": "KMOV News 4",
+      "yt": "9G9Cr5pLu0w",
+      "say": "a2.mp3",
+      "text": "삼루 송구가 빠지자 레드삭스 삼루수가 엎어져 있었고, 홈으로 뛰려던 주자가 그 다리에 걸려 넘어졌어.",
+      "kick": "2013 WS 3차전",
+      "head": "다리에 걸려<br><b>꽈당</b>",
+      "sub": "3루수 다리에 걸린 주자 크레이그",
+      "note": "출처: NPR·AP(CBS) · 영상: KMOV News 4",
+      "fx": [
+        {
+          "at": 3.5,
+          "text": "꽈당!",
+          "style": "sfx"
+        }
+      ]
+    },
+    {
+      "src": "clip3.mp4",
+      "from": 0,
+      "to": 10,
+      "credit": "CloseCallSports",
+      "yt": "5_D9VRgqoeE",
+      "say": "a3.mp3",
+      "text": "삼루심은 주루방해를 선언했어. 공도 없고 공을 잡는 중도 아닌 수비수가 주자 길을 막으면 주루방해야.",
+      "kick": "판정",
+      "head": "공 없는 수비수<br><b>주루방해</b>",
+      "sub": "공 없는 수비수가 길 막음 = 주루방해",
+      "note": "출처: MLB 공식 규칙(정의)·MLB.com · 영상: CloseCallSports",
+      "fx": [
+        {
+          "at": 1.2,
+          "text": "주루방해",
+          "style": "pop",
+          "pos": "low"
+        }
+      ]
+    },
+    {
+      "src": "clip4.mp4",
+      "from": 0,
+      "to": 10,
+      "credit": "Rulebook Booth",
+      "yt": "F7SRsWJMTIM",
+      "say": "a4.mp3",
+      "text": "일부러 막은 게 아니어도 상관없어. 그렇게 오 대 사, 월드시리즈 처음으로 주루방해로 끝난 경기가 됐어.",
+      "kick": "고의 아니어도",
+      "head": "월드시리즈<br><b>첫 주루방해 끝</b>",
+      "sub": "WS 최초 주루방해 끝내기, 5:4",
+      "note": "출처: ESPN·MLB.com·CBS · 영상: Rulebook Booth",
+      "fx": [
+        {
+          "at": 2.0,
+          "text": "고의 아님",
+          "style": "mind",
+          "pos": "low"
+        }
+      ]
+    }
+  ],
+  "end": {
+    "look": "profile",
+    "head": "넘어져 있어도<br><b>길은 비켜야</b>",
+    "cta": "처음 알았으면 좋아요!",
+    "say": "a5.mp3",
+    "text": "처음 알았으면 좋아요 눌러 줘."
+  }
+}
