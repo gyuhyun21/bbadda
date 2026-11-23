@@ -1,0 +1,22 @@
+{
+  "id": "news-3cf06a60",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "이투데이",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE04OW5CR2w1VERkb0k3QnRjeGp4VHdrc1hXR08yQXhoNTA1VWRSd3hSVkdYUGw3anZVQ3JqUWRPNGlxTGZmTnk0OWhER2lyOFFoZ2NVQQ?oc=5",
+  "title": "29일 대구서 삼성 우승 퍼레이드⋯반월당역 일대 출발 예정",
+  "published_at": "2026-11-23T05:36:00.000Z",
+  "collected_at": "2026-11-23T13:37:45.044Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

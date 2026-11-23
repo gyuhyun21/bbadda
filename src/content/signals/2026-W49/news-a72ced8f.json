@@ -1,0 +1,23 @@
+{
+  "id": "news-a72ced8f",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "www.xportsnews.com",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9jVkRRcXYtdFJrQkdXZlduMUpXRTFCbGs5NGQ2emxnZ3FHV3ZqOFhSYkJRM09pWnBJT0laT1NENW54Mm9aOFlmSF9XWmNnMVliaTJTWg?oc=5",
+  "title": "조용한 노시환 ML 도전, 日 선수들은 계약설 '솔솔'…이토 히로미는 시카고 계약 유력",
+  "published_at": "2026-11-23T10:06:04.000Z",
+  "collected_at": "2026-11-23T13:37:45.044Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

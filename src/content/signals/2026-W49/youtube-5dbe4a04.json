@@ -1,0 +1,26 @@
+{
+  "id": "youtube-5dbe4a04",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "Jung1Shade",
+  "url": "https://www.youtube.com/watch?v=1CJo1-vwR0M",
+  "title": "KIA 타이거즈 카스트로 응원가 M/V",
+  "published_at": "2026-11-23T13:25:07Z",
+  "collected_at": "2026-11-23T13:37:45.044Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1,
+    "likes": 1,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 44,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

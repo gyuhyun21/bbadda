@@ -1,0 +1,23 @@
+{
+  "id": "news-e39608a1",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "남도일보",
+  "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1oTXZqXzh4U1dxeXBKY2M0YnFFZkg1Vnhrd0Y5bXpSYmQyN1FPUzdhbnc4YXljc3FCaHFiU0NtVzNCOExqbHVoUWFDR0xUY0RIa0gzLW5XbXZpRlNIb1BpbDNNajNnQjlGOFA2NtIBcEFVX3lxTE5JejJJUVpNMkxjTmdKR2ZBc1Q1UXBXdm9uZUZPYXA3Rk0zOUQ0NXpsaGxnVnlVSlNhWXhmVkE4aW5scVkya3RXaFh6SUlJeWp6RUZOM3o3TnFkeVVkS0RReEhoblgwWTVhUTlwSHc2MlU?oc=5",
+  "title": "‘홈런왕’ 김도영, 상복 이어진다…은퇴선수들도 ‘최고 선수’ 꼽아",
+  "published_at": "2026-11-23T01:28:00.000Z",
+  "collected_at": "2026-11-23T13:37:45.044Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

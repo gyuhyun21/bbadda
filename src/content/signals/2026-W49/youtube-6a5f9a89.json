@@ -1,0 +1,26 @@
+{
+  "id": "youtube-6a5f9a89",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "youtube",
+  "source_name": "야구 한입",
+  "url": "https://www.youtube.com/watch?v=T-RI9q-KhAc",
+  "title": "LG 러브기빙데이 이병규 vs 박용택 감독 대결 | 김용수 시구·오지환·홍창기, 철거 앞둔 잠실 마지막 이벤트",
+  "published_at": "2026-11-23T09:00:27Z",
+  "collected_at": "2026-11-23T13:37:45.044Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1095,
+    "likes": 4,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 41,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

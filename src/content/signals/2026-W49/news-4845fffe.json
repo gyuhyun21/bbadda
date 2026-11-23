@@ -1,0 +1,29 @@
+{
+  "id": "news-4845fffe",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "일간스포츠",
+  "url": "https://isplus.com/article/view/isp202611230108",
+  "title": "염경엽 LG 감독 \"죄송하다, 반성한다. 내년에는 새 얼굴 많이 보여드릴 것\"",
+  "published_at": "2026-11-23T10:07:00.000Z",
+  "collected_at": "2026-11-23T13:37:45.044Z",
+  "summary_ko": "일간스포츠는 염경엽 LG 감독이 팬들에게 사과하며 내년에는 새 얼굴을 많이 보여 주겠다고 말했다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "네이트",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4welhFQkZLVGpvc1AwZjdTY1FJZV9xTHRpYU9EM2J3YTR0YlBjLWdGR3kxZzJwRVhiMUlZYVVFb1NJb1ZFb2w1bHVBbUt5MlBGbm8wbllB?oc=5"
+    }
+  ],
+  "brief_ko": "염경엽 \"반성, 내년엔 새 얼굴\""
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-f53e95eb",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠월드",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBsUXhnMmFWOWgzUV9DNnlBRkt1RDNjZmM4ZlhCZ2x4RGItYmdtLTJvcU9LUm5DaWkwd2JIZ1VlaklCZmQwWnkxU1pLVGJDRUVNdGJRcGdNclA3UzZjemxCSlJR?oc=5",
+  "title": "‘펑고 1000개+스윙 1000개’ 신임 사령탑의 맞춤형 조련… 류지현 “노력이 결과로 입증될 것”",
+  "published_at": "2026-11-22T22:03:39.000Z",
+  "collected_at": "2026-11-23T13:37:45.044Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 62,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "youtube-58bfa6b1",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "youtube",
+  "source_name": "언스테이블 스튜디오 (UNSTABLE_STUDIO)",
+  "url": "https://www.youtube.com/watch?v=I5NVb_6jdwE",
+  "title": "LG 팬이라면 무조건 이어 부르는 응원가",
+  "published_at": "2026-11-23T09:27:34Z",
+  "collected_at": "2026-11-23T13:37:45.044Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 264,
+    "likes": 3,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 40,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

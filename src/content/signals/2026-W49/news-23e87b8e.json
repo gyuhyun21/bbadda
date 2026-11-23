@@ -1,0 +1,32 @@
+{
+  "id": "news-23e87b8e",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스핌",
+  "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBONElHRVNjTVV3anFFdVFxeFBpT0lQbm9zM1BoWEFzSnJ4SEFTRFN5YVl4enFJcDd6RHoxY3lZaS14RE1LekY5bG9YR282V1FxWTV1NnJ4YV9JQ1BX?oc=5",
+  "title": "[프로야구] 'V9' 삼성, 29일 대구서 20년 만에 우승 기념 카퍼레이드",
+  "published_at": "2026-11-23T07:57:00.000Z",
+  "collected_at": "2026-11-23T13:37:45.044Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 98,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "CNB뉴스",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5paWo2OVkyVk9JNk5ISm9lR09CcEhIZlFNOHluLW5jenlScmNveUYtb21OX2lYMDlDRm1NUmFRTkw4YUk0ckU1YWh2QnBfY3hYMnVnQ1dGMzFqTUl6OTdxX2JFZ3lIaE5Pa3Vj?oc=5"
+    },
+    {
+      "source_name": "이데일리",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNeEZvelVvX3JqYUI5RXJMT1RhOGxUang4OXRuS2JIMnZhSjVWNzV4NzZSakJ0RVZCMzBRVXZTUGxwOGJjeU9fSTRHNVJXMlExMHRhMlFodC1BYWlSS1NyZVZ1alhIOWl0M0J6N0V5Y3VtaUVCTGpWTEw3ZmszZnJqMQ?oc=5"
+    }
+  ]
+}

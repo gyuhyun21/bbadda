@@ -1,0 +1,23 @@
+{
+  "id": "news-fe1dd8da",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "대경일보",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1EbFdFTE1iYWtYcFNwdDdIU05zVDdvQWI5REx0WTVzQjlORl9NYjA4SkNIUXRfZFpTYVdSR2FyYVAtYjlldnlBT2ZEdW0zUEVMQkNVMm1uaHNWR3U0dDc1dFFlVHJMdzhT?oc=5",
+  "title": "20년 만에 대구 도심 가르는 사자군단 우승 퍼레이드",
+  "published_at": "2026-11-23T07:52:49.000Z",
+  "collected_at": "2026-11-23T13:37:45.044Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

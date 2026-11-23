@@ -1,0 +1,23 @@
+{
+  "id": "community-d05ab3d7",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 오늘의 스포츠 직구",
+  "url": "https://blog.naver.com/thermdlkitchen/224487855725",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/HMZr61IaizT",
+  "title": "'4연속 꼴찌 굴욕 잊고 또 도박하나' 키움 히어로즈, 외인 타자 2명 고집하다 제2의 마운드 붕괴 꼴 날까?",
+  "published_at": "2026-11-23T17:35:00.000+09:00",
+  "collected_at": "2026-11-23T13:37:45.044Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

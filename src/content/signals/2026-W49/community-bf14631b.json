@@ -1,0 +1,24 @@
+{
+  "id": "community-bf14631b",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&page=8&document_srl=10588902490",
+  "title": "존나 안 어울린다 시발것 - 야구",
+  "published_at": "2026-11-23T12:37:45.044Z",
+  "collected_at": "2026-11-23T13:37:45.044Z",
+  "summary_ko": "",
+  "excerpt": "... 중앙정보부 저거도 파란데요? 1. [레벨:38] 중앙정보부 25 분 전. 주전포수손성빈 어허.",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

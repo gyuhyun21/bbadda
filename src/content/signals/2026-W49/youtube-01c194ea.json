@@ -1,0 +1,26 @@
+{
+  "id": "youtube-01c194ea",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "source_name": "이영우의 라이브 TV",
+  "url": "https://www.youtube.com/watch?v=CwRsuuiULLc",
+  "title": "[11/23 스토브리그 라이브] 한화 화이트 보류권 설정 안함! FA 영입 무산될 경우 다음 선택지는 트레이드!#한화이글스#lg트윈스#기아타이거즈#kbo리그#삼성라이온즈",
+  "published_at": "2026-11-23T11:45:58Z",
+  "collected_at": "2026-11-23T13:37:45.044Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 3145,
+    "likes": 331,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 84,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

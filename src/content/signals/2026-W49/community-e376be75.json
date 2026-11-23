@@ -1,0 +1,24 @@
+{
+  "id": "community-e376be75",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 스포츠두두",
+  "url": "https://blog.naver.com/minbdari/224488899744",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/5Z2UTsqTRMr",
+  "title": "FA ‘6명’이 한꺼번에 시장으로 나왔다.. 정규시즌 챔피언이 겨울부터 비상 걸린 이유",
+  "published_at": "2026-11-23T21:40:00.000+09:00",
+  "collected_at": "2026-11-23T13:37:45.044Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

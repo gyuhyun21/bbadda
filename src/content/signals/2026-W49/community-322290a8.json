@@ -1,0 +1,24 @@
+{
+  "id": "community-322290a8",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 고품질스토리",
+  "url": "https://blog.naver.com/imyohwan777/224488960268",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/GznZGBw4vV5",
+  "title": "“7억 특급 신인인데 사과문 한 장도 거부했다” 박준현, 학폭 논란 1심에서 뒤집힌 이유",
+  "published_at": "2026-11-23T21:36:00.000+09:00",
+  "collected_at": "2026-11-23T13:37:45.044Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "youtube-9b5959d7",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "youtube",
+  "source_name": "연필야구",
+  "url": "https://www.youtube.com/watch?v=5C_P7qBZGtc",
+  "title": "김민석 주고 데려온 정철원, 2년 만에 1대1? #정철원 #롯데",
+  "published_at": "2026-11-23T12:30:29Z",
+  "collected_at": "2026-11-23T13:37:45.044Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 424,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 33,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

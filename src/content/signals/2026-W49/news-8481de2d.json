@@ -1,0 +1,24 @@
+{
+  "id": "news-8481de2d",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://www.mt.co.kr/amp/sports/2026/11/23/202611231618776569O",
+  "title": "‘1순위 특급 유망주’ 박준현, 학교폭력 징계 취소 1심 승소·스포츠윤리센터 징계 기각→논란 해소했다",
+  "published_at": "2026-11-23T08:10:00.000Z",
+  "collected_at": "2026-11-23T13:37:45.044Z",
+  "summary_ko": "머니투데이는 키움 1순위 신인 박준현이 학교폭력 징계 취소 소송 1심에서 이겼고 스포츠윤리센터 징계도 기각됐다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "negative",
+  "brief_ko": "박준현, 학폭 징계 취소 1심 승소"
+}

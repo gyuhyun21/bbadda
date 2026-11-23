@@ -1,0 +1,24 @@
+{
+  "id": "news-1bdea322",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "announcement": true,
+  "source_name": "마이데일리",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAyN25wR0gxRFdwQWN1QWpKYTdfdlp1TWhydDU1WnRwLVhVbW9hTk9USXgxNDJwYlJsa29mbS1VUm1VXzBFOFRRNklkMlloSTVxZzllMFluLXIybEdvcTRDUw?oc=5",
+  "title": "[공식발표] '리그 MVP도 다가온다'...그야말로 '김도영 천하' 은퇴 선배들까지 사로잡았다, 한은회 선정 '2026 최고의 선수상'",
+  "published_at": "2026-11-23T08:02:00.000Z",
+  "collected_at": "2026-11-23T13:37:45.044Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

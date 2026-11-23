@@ -1,0 +1,26 @@
+{
+  "id": "youtube-9812a363",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "youtube",
+  "source_name": "데이터팝 DataPop",
+  "url": "https://www.youtube.com/watch?v=GWAmMEKojGA",
+  "title": "최정이 복귀하면 3루는 누구? #SSG랜더스 #최정 #고명준 #전의산",
+  "published_at": "2026-11-23T12:30:06Z",
+  "collected_at": "2026-11-23T13:37:45.044Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 4,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 9,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

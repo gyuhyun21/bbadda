@@ -1,0 +1,23 @@
+{
+  "id": "news-9e9b483a",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "일간스포츠",
+  "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBJWGg3Z2JDZl9fTE9lMmFRdkY5RkFnejZhNTJ1cURVUWs4RERqUTZzeGl0YW1OU3g4ZmI4M2p4TUhMMkZ4bG5tN1V0VzVPY0luZVZUT2tGVXBFQ3c?oc=5",
+  "title": "\"멋진 선장\"이자 \"멋있는 바보\"…20년지기 절친 우디가 본 우승 주장 구자욱 [윤승재의 야:후일담]",
+  "published_at": "2026-11-22T23:04:00.000Z",
+  "collected_at": "2026-11-23T13:37:45.044Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 71,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

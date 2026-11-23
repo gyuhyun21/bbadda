@@ -1,0 +1,23 @@
+{
+  "id": "community-f4c0689c",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 따롱이의 이슈픽",
+  "url": "https://blog.naver.com/minsaeng-119/224488838314",
+  "title": "6300억 쓴 뉴욕 메츠, 다음 영입 후보로 구자욱이 거론된 이유",
+  "published_at": "2026-11-23T20:23:00.000+09:00",
+  "collected_at": "2026-11-23T13:37:45.044Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

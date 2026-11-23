@@ -1,0 +1,23 @@
+{
+  "id": "community-bff6c9ba",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "community",
+  "source_name": "엠엘비파크",
+  "url": "https://mlbpark.donga.com/mp/b.php?id=202611190120217575&p=1&b=kbotown&m=view&select=spf&query=%EB%91%90%EC%82%B0&site=donga.com",
+  "title": "지피티가 추천한 두산베어스 외국인 타자",
+  "published_at": "2026-11-18T15:00:00.000Z",
+  "collected_at": "2026-11-23T13:37:45.044Z",
+  "summary_ko": "",
+  "excerpt": "... 두자욱 꿈은 이제 버렸구요..외인 타자라도 잘뽑었으면하는 마음에 지피티한테 물어봤어요현재…",
+  "metrics": {},
+  "scores": {
+    "hot": 26,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

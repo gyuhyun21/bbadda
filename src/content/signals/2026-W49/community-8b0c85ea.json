@@ -1,0 +1,24 @@
+{
+  "id": "community-8b0c85ea",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 너무 궁금한게 많은데..잊어 버리긴 싫어 만든 블로그",
+  "url": "https://heytori.tistory.com/27",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/JWxIpiXmrWd",
+  "title": "프로야구 구단 운영은 매년 적자인 경우가 많다는데 왜하지?",
+  "published_at": "2026-11-23T21:27:47.000+09:00",
+  "collected_at": "2026-11-23T13:37:45.044Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "community-ab1d430c",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&document_srl=10586802373",
+  "title": "외야 한명이랑 2B 라우 사자 - 야구",
+  "published_at": "2026-11-22T23:37:45.044Z",
+  "collected_at": "2026-11-23T13:37:45.044Z",
+  "summary_ko": "",
+  "excerpt": "... 쓱 떴냐 [2]. 16 분 전 자유 에스에스지랜더스 조회107 추천3. 쓱 떴냐 ... 호령;…",
+  "metrics": {},
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

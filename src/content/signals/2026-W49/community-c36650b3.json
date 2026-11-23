@@ -1,0 +1,24 @@
+{
+  "id": "community-c36650b3",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 baseball reference",
+  "url": "https://blog.naver.com/r9644328/224488796902",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/AC3PGdX6A7W",
+  "title": "노시환 MLB행 초대형 관심, 캔자스시티까지 10개 구단 거론",
+  "published_at": "2026-11-23T19:03:00.000+09:00",
+  "collected_at": "2026-11-23T13:37:45.044Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

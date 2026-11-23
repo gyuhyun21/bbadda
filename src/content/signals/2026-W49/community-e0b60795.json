@@ -1,0 +1,22 @@
+{
+  "id": "community-e0b60795",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 매일매일 생활 백서",
+  "url": "https://blog.naver.com/guitargoodd/224488685591",
+  "title": "FA 최대어 구자욱, 삼성 잔류·이적·MLB 갈림길 총정리",
+  "published_at": "2026-11-23T20:10:00.000+09:00",
+  "collected_at": "2026-11-23T13:37:45.044Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

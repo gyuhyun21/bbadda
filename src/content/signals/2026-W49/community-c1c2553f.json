@@ -1,0 +1,24 @@
+{
+  "id": "community-c1c2553f",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg",
+    "hanwha"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 오늘또이슈",
+  "url": "https://blog.naver.com/jeojanggak/224488866455",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/DrIdY6MCTm1",
+  "title": "SSG, 문승원까지 '집토끼' 3명 93억에 단속…한화는 빅리거 숄튼스로 외국인 선발 완성",
+  "published_at": "2026-11-23T20:04:00.000+09:00",
+  "collected_at": "2026-11-23T13:37:45.044Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

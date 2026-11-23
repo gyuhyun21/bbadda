@@ -1,0 +1,26 @@
+{
+  "id": "youtube-80ac3dde",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "youtube",
+  "source_name": "야구킥",
+  "url": "https://www.youtube.com/watch?v=RjHQrr7FaT8",
+  "title": "LG트윈스 2027시즌 5선발 경쟁 터졌다! 송승기 수술 변수와 박시원 김윤식 유망주 전력 점검",
+  "published_at": "2026-11-23T09:00:13Z",
+  "collected_at": "2026-11-23T13:37:45.044Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1323,
+    "likes": 7,
+    "comments": 3
+  },
+  "scores": {
+    "hot": 46,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

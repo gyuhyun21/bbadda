@@ -1,0 +1,22 @@
+{
+  "id": "news-fb3bbfb4",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "재경일보",
+  "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5naEVOZmxzQTFIZFpiUkhsR2JEbGRMWkMwUm1EV0Y2d0xJTnUzQVM5RlZCdmRscHlsYXkyUHJqaXc3QUN5V0M2ZmxKcw?oc=5",
+  "title": "삼성 12년 만의 한국시리즈 우승…대구서 팬들과 축하 : 스포츠",
+  "published_at": "2026-11-23T02:27:00.000Z",
+  "collected_at": "2026-11-23T13:37:45.044Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 72,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "community-430037db",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 오늘의 스포츠 한판",
+  "url": "https://blog.naver.com/rldhr1430/224487767623",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/E7HNbzgDYa7",
+  "title": "연지·강동연 결혼 소식…야구선수와 여성 스타 부부들",
+  "published_at": "2026-11-23T13:21:00.000+09:00",
+  "collected_at": "2026-11-23T13:37:45.044Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

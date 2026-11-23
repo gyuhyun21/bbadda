@@ -1,0 +1,23 @@
+{
+  "id": "news-daab6d68",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://www.mt.co.kr/amp/sports/2026/11/23/202611230540776479O",
+  "title": "'구단 최초' 외인트리오 전원 우등생, 잘해도 걱정...누굴 얼마나 올려야 하나, KIA 460만 달러 샐러리캡 초과 위기",
+  "published_at": "2026-11-22T21:30:00.000Z",
+  "collected_at": "2026-11-23T13:37:45.044Z",
+  "summary_ko": "머니투데이는 구단 최초로 외국인 3명이 모두 잘한 KIA가 재계약 인상분 때문에 460만 달러 샐러리캡 초과를 걱정한다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 62,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "외인 셋 다 잘해서 생긴 고민"
+}

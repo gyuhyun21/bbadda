@@ -1,0 +1,23 @@
+{
+  "id": "news-034f283d",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "일간스포츠",
+  "url": "https://isplus.com/article/view/isp202611230031",
+  "title": "\"무조건 일본 와, 삼성 우승시키고\" 우승 약속은 지켰다…원태인, '스승' 오치아이 따라 일본 갈까",
+  "published_at": "2026-11-23T00:38:00.000Z",
+  "collected_at": "2026-11-23T13:37:45.044Z",
+  "summary_ko": "일간스포츠는 삼성 우승 약속을 지킨 원태인이 스승 오치아이 코치를 따라 일본으로 갈지 관심이 모인다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "brief_ko": "우승 약속 지킨 원태인, 일본행?"
+}

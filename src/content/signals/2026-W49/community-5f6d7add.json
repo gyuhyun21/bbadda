@@ -1,0 +1,24 @@
+{
+  "id": "community-5f6d7add",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&page=5&document_srl=10588186420",
+  "title": "이택근 인터뷰 나만 이렇게 들리나 - 야구",
+  "published_at": "2026-11-23T08:37:45.044Z",
+  "collected_at": "2026-11-23T13:37:45.044Z",
+  "summary_ko": "",
+  "excerpt": "... 랜더스 14 분 전. 나도 이게 맞는거 같음 돈 탔으면 단장 첫시즌이고 ... 팬…",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}
