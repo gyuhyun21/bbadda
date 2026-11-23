@@ -1,0 +1,24 @@
+{
+  "id": "news-7bbf67e9",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://www.mt.co.kr/amp/sports/2026/11/23/202611231443774314O",
+  "title": "\"내년 활약 기대\" 꽃감독이 오키나와에서 반했다...191cm 대졸 루키, 150SV 빠진 불펜 즉시전력감 되나",
+  "published_at": "2026-11-23T09:40:00.000Z",
+  "collected_at": "2026-11-23T13:37:45.044Z",
+  "summary_ko": "머니투데이는 이범호 감독이 오키나와에서 눈여겨본 191cm 대졸 신인이 불펜 즉시전력감이 될지 주목된다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "191cm 대졸 신인, 불펜 즉시전력?"
+}

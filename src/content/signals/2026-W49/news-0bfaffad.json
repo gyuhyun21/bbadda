@@ -1,0 +1,22 @@
+{
+  "id": "news-0bfaffad",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠경향",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9EemVCUGRzQVZJNWxzTVd4elFPTVJyeV9tQWl4ZDJWLXgyODhKNVR6M1dYV2QzcTRIQzNqOHg1c0tnLVU2cEdsaFVNd3pxUnhqSlBwUlRnY3JzYnhZRUNGckNyMNIBY0FVX3lxTE9EemVCUGRzQVZJNWxzTVd4elFPTVJyeV9tQWl4ZDJWLXgyODhKNVR6M1dYV2QzcTRIQzNqOHg1c0tnLVU2cEdsaFVNd3pxUnhqSlBwUlRnY3JzYnhZRUNGckNyMA?oc=5",
+  "title": "[스경x스토리] 박상준이 중학생과 1루에 선 사연은…라쿠텐이 전부였던 아이들, 이제 마음 속엔 ‘KIA 타이거즈...",
+  "published_at": "2026-11-23T00:23:00.000Z",
+  "collected_at": "2026-11-23T13:37:45.044Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 63,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "news-d68b8216",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "Howl.Link",
+  "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE5qTnZOTi1HV0w2Y092QmgxZzNWQWN4NV9RUEdsS2tjdGdpNW9ta0d3Mll0NTl4UTBISE5n?oc=5",
+  "title": "2026 롯데 자이언츠 WAR TOP 10, 투수 로드리게스·타자 레이예스 1위",
+  "published_at": "2026-11-23T03:12:51.000Z",
+  "collected_at": "2026-11-23T13:37:45.044Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

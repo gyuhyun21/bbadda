@@ -1,0 +1,27 @@
+{
+  "id": "youtube-5b7b23d4",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "NC 다이노스",
+  "url": "https://www.youtube.com/watch?v=Gr_hezRgZNY",
+  "title": "일본 편의점 탈탈 털었습니다🛒 (with 용석&성호) | CAMP 1 오키나와",
+  "published_at": "2026-11-23T09:00:30Z",
+  "collected_at": "2026-11-23T13:37:45.044Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 9387,
+    "likes": 259,
+    "comments": 26
+  },
+  "scores": {
+    "hot": 75,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

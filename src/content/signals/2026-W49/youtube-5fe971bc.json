@@ -1,0 +1,26 @@
+{
+  "id": "youtube-5fe971bc",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "youtube",
+  "source_name": "dianana",
+  "url": "https://www.youtube.com/watch?v=-B0PJvFJhBU",
+  "title": "20261121 YBㅣKT Wiz 팬페스티벌 @수원KT위즈파크",
+  "published_at": "2026-11-23T11:13:42Z",
+  "collected_at": "2026-11-23T13:37:45.044Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 4,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 9,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

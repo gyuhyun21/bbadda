@@ -1,0 +1,26 @@
+{
+  "id": "youtube-d6af913d",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "youtube",
+  "source_name": "공감각",
+  "url": "https://www.youtube.com/watch?v=g-fVmfF79_4",
+  "title": "레이예스 롯데 떠날 수도 있다고?                       #레이예스 #롯데자이언츠 #야구 #스토브리그 #kbo",
+  "published_at": "2026-11-23T13:03:57Z",
+  "collected_at": "2026-11-23T13:37:45.044Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 265,
+    "likes": 1,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 34,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "youtube-485fb03d",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "doosan",
+    "ssg",
+    "nc"
+  ],
+  "source_type": "youtube",
+  "source_name": "크보쌍둥이",
+  "url": "https://www.youtube.com/watch?v=6slblox9Emg",
+  "title": "삼성 두산 SSG NC 구자욱 원태인 영입전쟁! 삼성 금액제시 안했다?  #삼성라이온즈 #구자욱 #원태인 #ssg랜더스 #두산베어스 #NC다이노스",
+  "published_at": "2026-11-23T12:21:32Z",
+  "collected_at": "2026-11-23T13:37:45.044Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1257,
+    "likes": 55,
+    "comments": 18
+  },
+  "scores": {
+    "hot": 79,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

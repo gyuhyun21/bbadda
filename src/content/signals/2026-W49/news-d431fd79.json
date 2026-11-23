@@ -1,0 +1,23 @@
+{
+  "id": "news-d431fd79",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "STN SPORTS",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5TXzJfNjhITEcybjZMZTZqZzJRd05zNkU2MENnaEQ3VmlFWXNDQVg4ZGtRcU9jalBja2gtbXRTMU1MTkZTNVlNMXRPTXUtLUZLTFMtQkF3bWdkaHVUSTNINE44a3diMnBDRnNmcDlSTQ?oc=5",
+  "title": "45홈런 김도영, 선배도 팬도 찍었다... 한은회 시상식 2관왕",
+  "published_at": "2026-11-23T02:14:15.000Z",
+  "collected_at": "2026-11-23T13:37:45.044Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

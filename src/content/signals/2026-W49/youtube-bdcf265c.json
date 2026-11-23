@@ -1,0 +1,26 @@
+{
+  "id": "youtube-bdcf265c",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "source_name": "루테라",
+  "url": "https://www.youtube.com/watch?v=GOGmiJChstY",
+  "title": "이글스 김도빈 군입대 간절함을 키우고 발전해서 오겠다 #한화이글스",
+  "published_at": "2026-11-23T10:45:17Z",
+  "collected_at": "2026-11-23T13:37:45.044Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 485,
+    "likes": 7,
+    "comments": 2
+  },
+  "scores": {
+    "hot": 49,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

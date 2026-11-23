@@ -1,0 +1,24 @@
+{
+  "id": "news-eb5fc8d4",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "announcement": true,
+  "source_name": "MHN스포츠",
+  "url": "https://mhnse.com/news/articleView.html?idxno=1707557",
+  "title": "[오피셜]하주석은 계산된 카드, 이호민은 판을 바꿀 카드…이범호 감독이 오키나와서 발견한 KIA 3루의 미래",
+  "published_at": "2026-11-23T08:28:33.000Z",
+  "collected_at": "2026-11-23T13:37:45.044Z",
+  "summary_ko": "MHN스포츠는 이범호 감독이 오키나와 캠프에서 하주석과 이호민을 KIA 3루의 미래 카드로 봤다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "3루 미래, 하주석과 이호민"
+}

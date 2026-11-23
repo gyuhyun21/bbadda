@@ -1,0 +1,27 @@
+{
+  "id": "youtube-541b1aea",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "아지트",
+  "url": "https://www.youtube.com/watch?v=0zattY7hFUk",
+  "title": "딸의 한마디에 다시 시상식에 선 포수 #shorts",
+  "published_at": "2026-11-23T10:19:05Z",
+  "collected_at": "2026-11-23T13:37:45.044Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1405,
+    "likes": 14,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 48,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-d1ffa004",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스핌",
+  "url": "https://www.newspim.com/news/view/20261123001178",
+  "title": "'영입설만 무성' 한화 노시환, MLB 포스팅 마감 열흘도 안 남아…12월 2일 최종 시한",
+  "published_at": "2026-11-23T12:05:00.000Z",
+  "collected_at": "2026-11-23T13:37:45.044Z",
+  "summary_ko": "뉴스핌은 영입설만 무성한 노시환의 MLB 포스팅 최종 시한이 12월 2일로 열흘도 남지 않았다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "노시환 포스팅, 12월 2일 마감"
+}

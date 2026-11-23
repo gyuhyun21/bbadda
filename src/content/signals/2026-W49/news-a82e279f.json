@@ -1,0 +1,22 @@
+{
+  "id": "news-a82e279f",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "대구MBC",
+  "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBIeFo3NDFXR25pOVVXV0ZuVGVoLWpZNmpGWmZmWGxNTW93c0JfSlZrd05aUXNYd0RmbUVTRXBRQ25sMEMxUGhlMzN4RWU?oc=5",
+  "title": "'12년 만에 정상' 삼성라이온즈 우승 기념행사, 11월 29일(일) 유력",
+  "published_at": "2026-11-23T02:22:47.000Z",
+  "collected_at": "2026-11-23T13:37:45.044Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

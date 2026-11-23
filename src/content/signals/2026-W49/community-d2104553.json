@@ -1,0 +1,24 @@
+{
+  "id": "community-d2104553",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 장면수집 | 스포츠 이야기",
+  "url": "https://blog.naver.com/paleorecord/224488500385",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/8Kp9NmJw8rX",
+  "title": "\"잔류 계약만 4건\" 뉴스1이 짚은 FA 개장 일주일, A등급 6명 전원이 남은 18명의 구단별 명단",
+  "published_at": "2026-11-23T20:23:00.000+09:00",
+  "collected_at": "2026-11-23T13:37:45.044Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

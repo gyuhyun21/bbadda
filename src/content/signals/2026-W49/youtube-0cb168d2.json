@@ -1,0 +1,27 @@
+{
+  "id": "youtube-0cb168d2",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "키움히어로즈",
+  "url": "https://www.youtube.com/watch?v=A9jFAWJ2vB4",
+  "title": "\"다시 신인의 마음으로\" | Welcome 정철원",
+  "published_at": "2026-11-23T09:30:09Z",
+  "collected_at": "2026-11-23T13:37:45.044Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 18633,
+    "likes": 436,
+    "comments": 235
+  },
+  "scores": {
+    "hot": 83,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

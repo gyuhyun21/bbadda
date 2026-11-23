@@ -1,0 +1,23 @@
+{
+  "id": "community-fb7c7564",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 곰돌이 살림백과",
+  "url": "https://blog.naver.com/dbdydqls0927/224488681184",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/B325OwesYNF",
+  "title": "내부 FA 93억 쓴 SSG, 왜 구자욱까지 노리나",
+  "published_at": "2026-11-23T20:22:00.000+09:00",
+  "collected_at": "2026-11-23T13:37:45.044Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

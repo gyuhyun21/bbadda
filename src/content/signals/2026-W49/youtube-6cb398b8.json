@@ -1,0 +1,26 @@
+{
+  "id": "youtube-6cb398b8",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "youtube",
+  "source_name": "크보쌍둥이",
+  "url": "https://www.youtube.com/watch?v=a4WT_zs-VuE",
+  "title": "이택근 \"레이예스 계약 자신있다!\" 이유와 근거는? #롯데자이언츠 #레이예스 #이택근 #정철원 #임지열",
+  "published_at": "2026-11-23T10:32:17Z",
+  "collected_at": "2026-11-23T13:37:45.044Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 6859,
+    "likes": 108,
+    "comments": 30
+  },
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

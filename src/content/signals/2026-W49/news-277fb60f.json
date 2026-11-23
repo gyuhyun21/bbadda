@@ -1,0 +1,27 @@
+{
+  "id": "news-277fb60f",
+  "issue": "2026-W49",
+  "module": "rivalry",
+  "team": "lg",
+  "teams": [
+    "lg",
+    "nc",
+    "lotte",
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "마이데일리",
+  "url": "https://mydaily.co.kr/page/view/2026112318462470132",
+  "title": "김태군 6억원→박동원 5억원→최재훈 4억원→B등급 포수들 폼 살짝 하락, 연쇄이동 어쩌면 안 일어나나",
+  "published_at": "2026-11-23T11:00:00.000Z",
+  "collected_at": "2026-11-23T13:37:45.044Z",
+  "summary_ko": "마이데일리는 B등급 FA 포수들의 기록이 조금씩 떨어져 포수 연쇄 이동이 일어나지 않을 수도 있다고 짚었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 91,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "포수 연쇄 이동, 안 일어날 수도"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "youtube-0782bfa0",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "ssg",
+    "doosan"
+  ],
+  "source_type": "youtube",
+  "source_name": "크보오프너",
+  "url": "https://www.youtube.com/watch?v=_4xUfS6skqw",
+  "title": "[크보오프너 다시보기] 한명재X민병헌X윤세호X육튜브 l 구자욱 영입 삼국지, 삼성·SSG·두산 & 김도영, 2년 만에 다시 트로피 수집 l 11월 23일(월)",
+  "published_at": "2026-11-23T10:43:55Z",
+  "collected_at": "2026-11-23T13:37:45.044Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 55170,
+    "likes": 636,
+    "comments": 13
+  },
+  "scores": {
+    "hot": 69,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

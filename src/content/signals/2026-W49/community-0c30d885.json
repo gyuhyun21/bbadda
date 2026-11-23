@@ -1,0 +1,24 @@
+{
+  "id": "community-0c30d885",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/10587185210",
+  "title": "아니 KFC 미쳤나 머임 이거 - 야구",
+  "published_at": "2026-11-23T02:37:45.044Z",
+  "collected_at": "2026-11-23T13:37:45.044Z",
+  "summary_ko": "",
+  "excerpt": "... LG는 홍창기를 붙잡고 싶다는 입장이지만, '어떻게든' 잡겠다는 ... 그랜드트윈스 2 분 전. 매출액 망했나본데…",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

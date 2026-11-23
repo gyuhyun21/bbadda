@@ -1,0 +1,25 @@
+{
+  "id": "community-1dcd61eb",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "엠엘비파크",
+  "url": "https://mlbpark.donga.com/mp/b.php?id=202611180120184167&p=241&b=kbotown&m=view&site=donga.com",
+  "title": "최지훈 재계약",
+  "published_at": "2026-11-17T15:00:00.000Z",
+  "collected_at": "2026-11-23T13:37:45.044Z",
+  "summary_ko": "엠엘비파크에 SSG 최지훈 재계약 소식을 반기는 글이 올라왔다.",
+  "excerpt": "... [공식발표]'드디어 오피셜 떴다' 떠날 생각 없었던 최지훈, 4년 67억원에 계약. SSG 랜더스가 주전 중견수…",
+  "metrics": {},
+  "scores": {
+    "hot": 17,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "최지훈 재계약에 팬들 반색"
+}

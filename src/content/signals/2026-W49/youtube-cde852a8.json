@@ -1,0 +1,27 @@
+{
+  "id": "youtube-cde852a8",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "Giants TV",
+  "url": "https://www.youtube.com/watch?v=o_OcghF2RuM",
+  "title": "김민석과 함께한 특별한 하루🎤｜한여름 밤의 사직 🌙",
+  "published_at": "2026-11-23T12:00:10Z",
+  "collected_at": "2026-11-23T13:37:45.044Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 5437,
+    "likes": 509,
+    "comments": 115
+  },
+  "scores": {
+    "hot": 87,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

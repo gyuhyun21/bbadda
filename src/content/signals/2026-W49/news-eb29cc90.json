@@ -1,0 +1,22 @@
+{
+  "id": "news-eb29cc90",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "www.xportsnews.com",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0zdVc0bXcwT0lGMXBRX1FMaHNvR29GaWgzdHV0UF90WEliOXFQbkkyVkxSRHFlSEhhRGNVaW5GVTNidFdYRmxRaFpSMFFyZW1mYUlCeA?oc=5",
+  "title": "이범호 감독 \"전반적으로 만족\"…KIA, 오키나와 마무리캠프 마치고 24일 돌아온다",
+  "published_at": "2026-11-23T11:05:08.000Z",
+  "collected_at": "2026-11-23T13:37:45.044Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

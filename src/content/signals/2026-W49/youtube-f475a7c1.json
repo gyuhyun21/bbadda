@@ -1,0 +1,26 @@
+{
+  "id": "youtube-f475a7c1",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "youtube",
+  "source_name": "내일도출근!!!",
+  "url": "https://www.youtube.com/watch?v=T9jMuiRqU00",
+  "title": "이래 봬도 kt wiz 고인물",
+  "published_at": "2026-11-23T08:30:53Z",
+  "collected_at": "2026-11-23T13:37:45.044Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 18,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 16,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}
