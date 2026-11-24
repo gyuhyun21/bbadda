@@ -1,0 +1,27 @@
+{
+  "id": "youtube-11f20125",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "SSG랜더스",
+  "url": "https://www.youtube.com/watch?v=6EnrXkJzEqQ",
+  "title": "여보…세요? 📞전 영준인데요, 저랑 출근 같이 하실래요?",
+  "published_at": "2026-11-23T22:30:11Z",
+  "collected_at": "2026-11-24T07:39:09.595Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 45716,
+    "likes": 1303,
+    "comments": 240
+  },
+  "scores": {
+    "hot": 87,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

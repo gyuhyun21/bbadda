@@ -1,0 +1,23 @@
+{
+  "id": "news-80321bbb",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "news",
+  "source_name": "노컷뉴스",
+  "url": "https://www.nocutnews.co.kr/news/6611889",
+  "title": "두산, 日 마무리 캠프 뒤 귀국…야수 류승민-투수 안민겸 수훈 선수",
+  "published_at": "2026-11-24T07:04:38.000Z",
+  "collected_at": "2026-11-24T07:39:09.595Z",
+  "summary_ko": "노컷뉴스는 두산 마무리캠프 수훈 선수로 야수 류승민과 투수 안민겸이 뽑혔다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "캠프 수훈은 류승민·안민겸"
+}

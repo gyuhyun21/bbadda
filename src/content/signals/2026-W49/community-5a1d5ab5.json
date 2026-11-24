@@ -1,0 +1,24 @@
+{
+  "id": "community-5a1d5ab5",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 주드의 야구이야기",
+  "url": "https://blog.naver.com/baseballjud/224489766679",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/4xaAQTEUmSy",
+  "title": "히어로즈가 내년 우승후보? MLB 직장폐쇄가 부른 영웅이들의 복귀 시나리오",
+  "published_at": "2026-11-24T12:22:00.000+09:00",
+  "collected_at": "2026-11-24T07:39:09.595Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

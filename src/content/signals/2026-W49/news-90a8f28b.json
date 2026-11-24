@@ -1,0 +1,23 @@
+{
+  "id": "news-90a8f28b",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스핌",
+  "url": "https://www.newspim.com/news/view/20261123001171",
+  "title": "[핌 포커스] '유격수 김도영 확정' KIA, 마무리캠프 성료...내야 주전 경쟁 본격화",
+  "published_at": "2026-11-23T22:00:00.000Z",
+  "collected_at": "2026-11-24T07:39:09.595Z",
+  "summary_ko": "뉴스핌은 KIA가 마무리캠프를 마치며 김도영의 유격수 기용을 정했고 내야 주전 경쟁이 본격화됐다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "김도영 유격수 확정, 내야 경쟁 시작"
+}

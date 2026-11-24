@@ -1,0 +1,26 @@
+{
+  "id": "youtube-a4a80764",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "youtube",
+  "source_name": "RallyPick",
+  "url": "https://www.youtube.com/watch?v=uTAG2FvZOVo",
+  "title": "키움 히어로즈 27시즌 외국인 선수 구성 완료 | 올해도 2용타로 간다 [랠리톡 라이브]",
+  "published_at": "2026-11-24T03:15:14Z",
+  "collected_at": "2026-11-24T07:39:09.595Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 3,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 8,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-92f8dd88",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "서울신문",
+  "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBuQ3JSYjNMbDVIaFpLeFN0bHUyUUlBbWZEV2hGbm1hQzhkUlNXVUotQUhrQ3d5ei1rNDh1MlRKMHJHR1ZOOXlBNGZnMHRNY2N4alNpT3VwZkhFX2l4dExBTFlMenkwV1lfQjRxMy13TkJzQzZaTzlNQw?oc=5",
+  "title": "MLB 9개 구단 거론… 노시환 ‘운명의 1주일’",
+  "published_at": "2026-11-23T15:56:14.000Z",
+  "collected_at": "2026-11-24T07:39:09.595Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 62,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

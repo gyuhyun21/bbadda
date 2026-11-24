@@ -1,0 +1,27 @@
+{
+  "id": "youtube-dfc1d390",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "Nyuenpi",
+  "url": "https://www.youtube.com/watch?v=4JGAFVvvrBI",
+  "title": "이번 트레이드, 어느 팀이 더 유리할까?",
+  "published_at": "2026-11-24T02:00:26Z",
+  "collected_at": "2026-11-24T07:39:09.595Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 5,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 10,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

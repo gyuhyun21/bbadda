@@ -1,0 +1,28 @@
+{
+  "id": "news-2b2b6ae6",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9lUHQ0SUI1aE1JOWF6MlBxazFVUGhBUEdUbGV3N25vMGlHSm9LSE42dnRlRjNQWmJBN05BdGlOOHBBSXhBN1owMVlFb0h3Y0hEWUMzNzNiMDZtUXpWNXlwMHRLenI2YTVyMmxlaThSONIBb0FVX3lxTE9lUHQ0SUI1aE1JOWF6MlBxazFVUGhBUEdUbGV3N25vMGlHSm9LSE42dnRlRjNQWmJBN05BdGlOOHBBSXhBN1owMVlFb0h3Y0hEWUMzNzNiMDZtUXpWNXlwMHRLenI2YTVyMmxlaThSOA?oc=5",
+  "title": "한화 초대박! 어떻게 11억에 154km 빅리거 품었나…美 뒷이야기 전격 공개 “숄튼스 해외 진출 위해 TB 방출 결단”",
+  "published_at": "2026-11-23T22:09:00.000Z",
+  "collected_at": "2026-11-24T07:39:09.595Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 73,
+    "relevance": 70
+  },
+  "sentiment": "negative",
+  "also_in": [
+    {
+      "source_name": "OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE93QkFCbjA1LWQ4LXJISTFBeUFQZEt0NmRHb2taRFFEb0FXdkM1TmdMMk5ieDlGVkpiTEd1eGJjMTBxZXBOa2Q5Wkc2eEdVT3NwUHJ3?oc=5"
+    }
+  ]
+}

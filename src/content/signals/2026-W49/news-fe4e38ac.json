@@ -1,0 +1,23 @@
+{
+  "id": "news-fe4e38ac",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "news",
+  "source_name": "네이트",
+  "url": "https://m.news.nate.com/view/20261124n06489",
+  "title": "\"버건디 유니폼 안 어울릴 줄 알았는데\"…'16억 신인' 이젠 키움의 하현승, 올해의 아마추어상 [올해의상 D-9]",
+  "published_at": "2026-11-24T00:16:00.000Z",
+  "collected_at": "2026-11-24T07:39:09.595Z",
+  "summary_ko": "네이트 기사는 키움 신인 하현승이 올해의 아마추어상을 받는다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 80
+  },
+  "sentiment": "neutral",
+  "brief_ko": "하현승, 올해의 아마추어상"
+}

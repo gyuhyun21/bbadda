@@ -1,0 +1,44 @@
+{
+  "id": "news-fd2bf139",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5Wc194VUxlSDJQTGlQenhob3B6V2tuNkJtTWlWdkl5TjZwbloxcTJFd0tDX1RjNFFObWVhaE51N09TNUlrVGVQazNfMEwyNFFtYnM3UUduODRsRHljUjJ4Z0RDSHctZXBnbUt2Z0hKTdIBb0FVX3lxTE5Wc194VUxlSDJQTGlQenhob3B6V2tuNkJtTWlWdkl5TjZwbloxcTJFd0tDX1RjNFFObWVhaE51N09TNUlrVGVQazNfMEwyNFFtYnM3UUduODRsRHljUjJ4Z0RDSHctZXBnbUt2Z0hKTQ?oc=5",
+  "title": "[부고] 오윤석(KT 위즈 내야수)씨 조모상",
+  "published_at": "2026-11-24T02:10:21.000Z",
+  "collected_at": "2026-11-24T07:39:09.595Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 98,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9CUG1wN2dJc0NNUVNPYnJHTjBLMXY1R3N2dzNNVk5qT3lGZG95MzZwaFQ0Qk04VWg2Wnd5dU4xbGhMYXU5anJjbUR4eG8wM1NncUlRRWlQUQ?oc=5"
+    },
+    {
+      "source_name": "한국사회복지저널",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE45RUFFTm5CR1d6NU9QV3QtNEYxQlpieDlYYWlkSUZQS0dmTEdYQ3RuaFp0bjdjODRqWGd3SC1tSWVGblhCeEo4cGZaQ2ZIRzBwdUYwOWIyLWFVVjI1QVQtYmR2YjNzQzNPemxB?oc=5"
+    },
+    {
+      "source_name": "퍼블릭타임스",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB4cWZnclhwa21GVmNwM0NocWtaazZZQzluNnZDTmNuNXAwWEhaV0F3Ukg2bjFXVjVmWk94aFMwZ2hSVWUtaTBpOFNNVDFKdWJoc1BLUEFsWnE5d1FaQUdSUDVhSEg0N1pYRXfSAW5BVV95cUxOLWNXX1VRLWZYUjllRW40SEFESlpuMW5EOTBtNndOMzliblVTVnVObzA3bzc4S0FZNzJWLWtmQ3V0alg1NlVjcG40YTZ3bm1IT1ZoMUp1TFJZR2hSaWg2c2J4Wkk3TEQxUGl6WXItQQ?oc=5"
+    },
+    {
+      "source_name": "경기신문",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9zenlRVlhsZG5JZ2ppRVVpRE16SHlFQngyblB5VThWZDlqSmpiYWp6YjJfMlNDUTduRmZ6Zm95Q1hLSHZsc0MwWGlLakFBbFdhQ1NsdktQazNHYldySDVtZ3FB?oc=5"
+    },
+    {
+      "source_name": "한스경제",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1zaVJNS1FDcTVyOGFnc1V1RVU5d1RDOVRyTXJxMnpUaTFVQXRweXdORkRqWk1rRXNSMEQ5XzJHQS12SGdJRng5U0Nsc3lWcGFUdTh6UFFQOGxfZzhGYTNsVEh6NzdZM2dWUjJsNdIBb0FVX3lxTE85cGRXU2FuZnlVa3ItazZ5VTNIR2VrUzROblF5UmVQazhxUnJWOFNwNDlLWkxUWjBISEdscEk0UlczZzd2QjJEM052V0ZDSjlVWE9iMHNCTXp3U0E2ZkF6WGJaWVc1NWduZmVOTE9RNA?oc=5"
+    }
+  ]
+}

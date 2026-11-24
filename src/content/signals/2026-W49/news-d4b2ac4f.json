@@ -1,0 +1,23 @@
+{
+  "id": "news-d4b2ac4f",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5VLXFFNU5ubmhLWXpsc2JnQ0VibWlrUTYta0N0bVR1OWwzUnd0Um1tbWZxSGpoLU5xa1lxM3lKU2s0ZHJmYWZDbWFHMDZSUlcyNkhRSF9oR3QtbEJzZlJFWEp2dlNRM0c5dTFRY2tIdE1fbjRpVENzRzFTNzlMUQ?oc=5",
+  "title": "\"죄송합니다. 미국에 남겠습니다\" 20승 투수 또 한국행 불발, 대체 왜 거절했나",
+  "published_at": "2026-11-24T07:32:12.000Z",
+  "collected_at": "2026-11-24T07:39:09.595Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

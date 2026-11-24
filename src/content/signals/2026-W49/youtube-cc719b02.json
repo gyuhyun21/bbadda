@@ -1,0 +1,26 @@
+{
+  "id": "youtube-cc719b02",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "아이스초코",
+  "url": "https://www.youtube.com/watch?v=6suzEduAErc",
+  "title": "KIA 타이거즈 FA 엽입 돈 쓸때만 쓴다. #기아타이거즈 #KIA타이거즈 #야구FA",
+  "published_at": "2026-11-24T03:08:05Z",
+  "collected_at": "2026-11-24T07:39:09.595Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1390,
+    "likes": 5,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 44,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

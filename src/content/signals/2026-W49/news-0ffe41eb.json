@@ -1,0 +1,28 @@
+{
+  "id": "news-0ffe41eb",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "대구MBC",
+  "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1nYm02NEFFcTRpTXpkdkFVT3A5ZGNZM0hNR1BYNEI3RWFNTHl6aklHdVZxV3BNMVUzZEJvY1NqSjRRbW1IMl9kTHNuY2k?oc=5",
+  "title": "20년 만에 우승 카퍼레이드···삼성라이온즈 선수단, 시민과 만난다",
+  "published_at": "2026-11-23T22:40:00.000Z",
+  "collected_at": "2026-11-24T07:39:09.595Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 89,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "양파티브이뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA3V05mNmF5cXFUUGhyN0JlajJsRWxtRUJ2dzRTekFNT2ZOR3kwZGNJUlNlZExHc2RWZWNxV1N2cGh1em1yRmEtWi0tQlBLZTRHcWlMU01UZ2NmR0c3dV93SXJaY1NPWnNx?oc=5"
+    }
+  ]
+}

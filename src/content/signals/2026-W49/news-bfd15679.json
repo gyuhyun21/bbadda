@@ -1,0 +1,23 @@
+{
+  "id": "news-bfd15679",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "노컷뉴스",
+  "url": "https://www.nocutnews.co.kr/news/6611699",
+  "title": "\"NPB·MLB 제안 다 듣겠다\"…롯데 '비상', 레이예스와 재계약 난항?",
+  "published_at": "2026-11-24T03:21:51.000Z",
+  "collected_at": "2026-11-24T07:39:09.595Z",
+  "summary_ko": "노컷뉴스는 레이예스가 NPB와 MLB 제안을 모두 듣겠다는 입장이라 롯데와의 재계약이 쉽지 않다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "레이예스 \"NPB·MLB 다 듣겠다\""
+}

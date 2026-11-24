@@ -1,0 +1,52 @@
+{
+  "id": "youtube-46eb1c87",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "youtube",
+  "source_name": "야구랑",
+  "url": "https://www.youtube.com/watch?v=IrnqHvY4piM",
+  "title": "두산, ML 23승 좌완 수아레즈 영입… 100만 달러 꽉 채웠다 #shorts",
+  "published_at": "2026-11-24T05:37:01Z",
+  "collected_at": "2026-11-24T07:39:09.595Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 797,
+    "likes": 4,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 42,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "SPOTV NEWS",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1fbm1pbllpbEpJcnJseEV4UXZkaDVOd3p1ZXU5UDY5T1dHa2xqRFNubVJzdEVXdlZOelI1RU1KZGRDQ201Z1hzMXh1amRTcThuYnc4V0REcWtBcDhZeldYbVlrZzJwV2JHYXAwbGdKOEs?oc=5"
+    },
+    {
+      "source_name": "파이낸셜뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE45LXJNU3BjMENBUVBOZG1odmtXYTlUM1BwaWZrYU9kdnJSTkxkeHVhc0xhNGhkNXNiTkdzV2ZCdER0TmhOVENRa2lWaXNsMS1FQ2t3a05qVGZlZw?oc=5"
+    },
+    {
+      "source_name": "www.xportsnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1BTktvdTR1eDNyOWMwOE9kSmhRQVFWcm1nNjctYlZfU3ZKVHVYYkE5QVNYX2FrYkc5Yks5TFBKZzZianlHdlVkcFJtVVZnbHEyYXpaYQ?oc=5"
+    },
+    {
+      "source_name": "이투데이",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE83THNoN0pVWTVQWlB2UG5QS0dPYmxwQ2QwdEhncHBtVk5QbHQxZ09xbHdEb25Ld191RWFwRk9tX203SzJOUnREOWRkM1lHSU0xSmQtRw?oc=5"
+    },
+    {
+      "source_name": "KBS 뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA3SWhfWDFhMWJWa1FuaEgtcEdnYzUzeGlybFhUMEF5VnhSUlg1bXhmTndlVk1WdVpfcW5EdnBwQXB5LU9BMEVaNVhhZUdjMnRteXVQOTIxTDRzOW8?oc=5"
+    },
+    {
+      "source_name": "굿모닝경제",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBZQ0x4NHg3NUFQSE5RbW5kM2dsZ2t5N2wwYW83ZW9MWmtVd3dSZ0w3a0E5bGV2NVV1cHBIeTZVR0dndG9acW9rX0pTS0NUZUMzbmthcU1yRU1PSW4yOHJoTUFRcXE1NzQzbTU4RA?oc=5"
+    }
+  ]
+}

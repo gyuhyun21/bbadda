@@ -1,0 +1,27 @@
+{
+  "id": "instagram-eb2169ad",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "instagram",
+  "official": true,
+  "source_name": "Instagram @ktwiz.pr",
+  "url": "https://www.instagram.com/reel/DgG7wMKITyo/",
+  "title": "KT 위즈 공식 인스타그램: 목소리 큰 사람이 이기는 게임 (아님)",
+  "published_at": "2026-11-24T03:04:04+0000",
+  "collected_at": "2026-11-24T07:39:09.595Z",
+  "summary_ko": "KT 공식 인스타그램이 팬페스티벌 게임 영상을 올렸다.",
+  "metrics": {
+    "likes": 2160,
+    "comments": 15
+  },
+  "scores": {
+    "hot": 66,
+    "relevance": 50
+  },
+  "sentiment": "neutral",
+  "brief_ko": "팬페스티벌 게임 영상 공개"
+}

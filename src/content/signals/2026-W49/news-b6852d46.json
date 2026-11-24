@@ -1,0 +1,23 @@
+{
+  "id": "news-b6852d46",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBsTzFsMXdaRGtkVFFnekM2dHcyUGlOV3drbXFrNFd5QUhHdlgzVlI2MWhtV2RlaVdkSmZ1eXlUc2lXbmRJWXd4eVhwdU1wZ2RvNlhmQkNYYVBDN0lRNTR1NnhWNWprRE54UnlWQ1ZGUGVhQlBiNEdsYkFfS3d2UQ?oc=5",
+  "title": "'13억 헐값?' ML 풀타임 선발 깜짝 한국행, 왜 美도 주목하나…\"얻기 힘들 보장 금액 확보했다\"",
+  "published_at": "2026-11-24T06:24:29.000Z",
+  "collected_at": "2026-11-24T07:39:09.595Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

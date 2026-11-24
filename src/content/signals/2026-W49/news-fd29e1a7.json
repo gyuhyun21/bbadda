@@ -1,0 +1,23 @@
+{
+  "id": "news-fd29e1a7",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠서울",
+  "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAwNHVPT0V6bUgwb3NOTzFyV2JzdzBkWlVZS3VvMVBWeWRoZ0hISGdaMldHRXBTal9sN1Z2cGNiN01ZdEc5dmNXV2RuUjZCVkROSlNwUzUtakU?oc=5",
+  "title": "‘선발-중간-마무리’ 피가 되고 살이 됐다고? 보직에 얽매이지 말기! ‘원클럽맨’ 문승원 “적응 쉽진 않았지만…” [SS시선집중]",
+  "published_at": "2026-11-24T02:46:57.000Z",
+  "collected_at": "2026-11-24T07:39:09.595Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

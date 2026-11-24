@@ -1,0 +1,23 @@
+{
+  "id": "news-5935eada",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스핌",
+  "url": "https://www.newspim.com/news/view/20261124001163",
+  "title": "[핌 포커스] '팔꿈치 수술' KIA 좌완 윤영철, 내년 시즌 선발 노린다...\"양현종 교본 삼아야\"",
+  "published_at": "2026-11-24T06:50:00.000Z",
+  "collected_at": "2026-11-24T07:39:09.595Z",
+  "summary_ko": "뉴스핌은 팔꿈치 수술을 받은 KIA 좌완 윤영철이 내년 선발 자리를 노린다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "negative",
+  "brief_ko": "수술 딛고 선발 노리는 윤영철"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "community-0b442913",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 요모조모 모아 본 소식",
+  "url": "https://blog.naver.com/mingyu2100/224490050327",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/IijMxWHyRht",
+  "title": "두산 수아레즈 영입 100만 달러 계약",
+  "published_at": "2026-11-24T15:45:00.000+09:00",
+  "collected_at": "2026-11-24T07:39:09.595Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

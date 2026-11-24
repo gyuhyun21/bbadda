@@ -1,0 +1,25 @@
+{
+  "id": "news-73d54fc4",
+  "issue": "2026-W49",
+  "module": "rivalry",
+  "team": "ssg",
+  "teams": [
+    "ssg",
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://www.sportschosun.com/baseball/2026-11-24/202611240100146920013668",
+  "title": "'우승 복덩이'+'12승 외국인'과 결별? 우승밖에 모르는 팀의 선택은[SC포커스]",
+  "published_at": "2026-11-24T04:10:08.000Z",
+  "collected_at": "2026-11-24T07:39:09.595Z",
+  "summary_ko": "스포츠조선은 SSG가 우승 경험이 있는 외국인 선수와 12승 외국인 투수와의 재계약을 두고 고민한다고 짚었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "brief_ko": "12승 외인과 재계약, 고민 중"
+}

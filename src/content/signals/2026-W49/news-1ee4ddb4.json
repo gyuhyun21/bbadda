@@ -1,0 +1,22 @@
+{
+  "id": "news-1ee4ddb4",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "대구매거진",
+  "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9PaUtOLTRSRXlCQTFMWkJhejlqRHNEZ0tZQjg1S1VaXzQwUzRKV3RCdlRyUHo1eXpPRkRZZzdDS242RllWOEpEUlFkbHZVNG1pVm5WajlZX1drYlFCbTJWTy01R2E0dzVGYmx6YzZ30gFyQVVfeXFMTVNTeTlFbF9LamJlOU1zbm1RTzI5aGM0SWphOGxkcHRqQWRHQ1ZocHRUMmxwOGZ6OGp1T005N0hBZU1SalFpNWVUU0lQeWxxTDY2LW1HUWk5Y0NCR0R2cVpSWExUZ1h6TFRLSUZ5bEpoeUJR?oc=5",
+  "title": "삼성라이온즈, 도심서 29일 우승...카퍼레이드 20년 만이다",
+  "published_at": "2026-11-23T09:21:00.000Z",
+  "collected_at": "2026-11-24T07:39:09.595Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-654b9b55",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "news",
+  "announcement": true,
+  "source_name": "스포츠조선",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBPWnoyUHlWUVVncDE1TmlZdEtaUWFpckNIQ3Z5WHVVWFJERi1FMDJmOXVmV0xUVGlzNWcyUDRtNzVkbk5WOHg1Rjk4SEFMTnAtSWVyYmtacDZwUlpSeXRLMGg0Z3pqVUxsZlBna0ZLcWlEczdVZHBjNFBkQ05TUQ?oc=5",
+  "title": "[오피셜]'소문이 사실이었다' 두산, ML 통산 23승 현역 빅리거 전격 영입",
+  "published_at": "2026-11-24T01:59:41.000Z",
+  "collected_at": "2026-11-24T07:39:09.595Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

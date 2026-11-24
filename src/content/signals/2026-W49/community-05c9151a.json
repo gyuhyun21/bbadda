@@ -1,0 +1,23 @@
+{
+  "id": "community-05c9151a",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 퇴근후 플레이볼",
+  "url": "https://blog.naver.com/ev-baseball/224489427350",
+  "title": "2026 KBO 시상식 26일 개최…김도영·곽빈·레이예스, MVP의 밤이 온다",
+  "published_at": "2026-11-24T08:13:00.000+09:00",
+  "collected_at": "2026-11-24T07:39:09.595Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

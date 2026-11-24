@@ -1,0 +1,29 @@
+{
+  "id": "news-2d33942a",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9DTnRqNzNVT0pORV8tcVJPc21PX1RVTFdGQnduZlF2Mml3R2Z5cE82a3R4NnNVVWdnb3ZobmhuNWx4ekN2MHR2SjVFYWNBM1MzYk16THpVQ1NKTGZxQjNVSnNna3lxblNaQ0djbFBtc9IBb0FVX3lxTE9DTnRqNzNVT0pORV8tcVJPc21PX1RVTFdGQnduZlF2Mml3R2Z5cE82a3R4NnNVVWdnb3ZobmhuNWx4ekN2MHR2SjVFYWNBM1MzYk16THpVQ1NKTGZxQjNVSnNna3lxblNaQ0djbFBtcw?oc=5",
+  "title": "'벌써' 사령탑 의미심장 \"2027시즌 이미 시작했다\" 유례없는 29일 고강도 훈련 끝, FA 시장에 이제 올인하나",
+  "published_at": "2026-11-24T06:39:45.000Z",
+  "collected_at": "2026-11-24T07:39:09.595Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE04TV81cW5kY2FCNnpHdDR4TkdyeWg3enhGZkNoZjR5OUpwUTdaT0VfeHhSSVh5eE51WTc4eE55TjZhLXg0c3NtNE50MVRPN3VUZTQ3d2JEbnE0bFVkdHRSMWxKX2IwV3htamlKQ3h2Y2p2VGtoYkE?oc=5"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "community-f5151c19",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 밥먹고 야구만 보는 밥야구",
+  "url": "https://blog.naver.com/babbaseball/224489058558",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/BJ7QuYwJjz3",
+  "title": "“새 타자 협상 중, 기존 타자도 보류 가능” SSG 에레디아, 다른 KBO 팀으로 갈 수 있을까?",
+  "published_at": "2026-11-24T14:30:00.000+09:00",
+  "collected_at": "2026-11-24T07:39:09.595Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

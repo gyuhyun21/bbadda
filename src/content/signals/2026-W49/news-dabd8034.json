@@ -1,0 +1,33 @@
+{
+  "id": "news-dabd8034",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "news",
+  "source_name": "연합뉴스",
+  "url": "https://www.yna.co.kr/amp/view/AKR20261124084200007",
+  "title": "두산, 좌완 수아레스와 100만달러에 계약…최고 구속 154㎞",
+  "published_at": "2026-11-24T02:16:43.000Z",
+  "collected_at": "2026-11-24T07:39:09.595Z",
+  "summary_ko": "연합뉴스는 두산이 최고 시속 154km의 좌완 수아레스와 100만 달러에 계약했다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 82,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "천지일보",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBicDZNaXB2LWhuZFlIMG5hekZyVFlzVG1abGdGUFR1NmtPeVNOeTdqVlQ1LVJudXpKb1FSQnVHN3ZPT0FqUFBYZkJIYl91ZW9BTUkwM0pJVXhES3pHWk1vSU9zcGhTVXYwTWc?oc=5"
+    },
+    {
+      "source_name": "m.maniareport.com",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE54bHVFWlNPVUs1UEZjVk13c3RVeEFQQ2tYaVVKcU9tdjVBUWszYkZNR01tbVhDOFdMeFNkYjhwcmJtcXdEdGdqTG5HbGl6MTVzQWtDRkp0R2oxbUVIVkxfVEVCdUpNZE5jeUZERUR3Zmc4SURwdVc5cUtXdw?oc=5"
+    }
+  ],
+  "brief_ko": "ML 23승 좌완, 100만 달러 영입"
+}
