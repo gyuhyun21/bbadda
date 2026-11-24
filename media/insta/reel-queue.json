@@ -82,7 +82,8 @@
     "2026-11-20": "pool/22-ground-rule-double",
     "2026-11-21": "pool/24-catcher-interference",
     "2026-11-22": "pool/26-runner-hit-by-ball",
-    "2026-11-23": "pool/28-unassisted-triple-play"
+    "2026-11-23": "pool/28-unassisted-triple-play",
+    "2026-11-24": "pool/30-hidden-ball-trick"
   },
   "2026-11-12": [
     "2026-11-12-reel",
@@ -158,6 +159,7 @@
   ],
   "2026-11-24": [
     "2026-11-24-reel",
-    "pool/29-cubs-2016-game7"
+    "pool/29-cubs-2016-game7",
+    "pool/30-hidden-ball-trick"
   ]
 }
