@@ -1,0 +1,23 @@
+{
+  "id": "community-05125ff4",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 내 마음속 좋은방",
+  "url": "https://blog.naver.com/gni40/224489954780",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/AeICUrNVgc1",
+  "title": "기아 타이거즈 김도영 프로야구 MVP 가능할까? 역대급 접전",
+  "published_at": "2026-11-24T15:22:00.000+09:00",
+  "collected_at": "2026-11-24T07:39:09.595Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

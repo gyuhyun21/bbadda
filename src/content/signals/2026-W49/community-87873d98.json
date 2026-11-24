@@ -1,0 +1,23 @@
+{
+  "id": "community-87873d98",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 뉴스 119 · 오늘의 1분 이슈",
+  "url": "https://blog.naver.com/djbudongsan/224489889916",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/6TGAXmdQdRW",
+  "title": "[11/24 스포츠] SSG 문승원, 2+1년 총액 15억 FA 잔류 — '원클럽맨'의 선택",
+  "published_at": "2026-11-24T14:06:00.000+09:00",
+  "collected_at": "2026-11-24T07:39:09.595Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

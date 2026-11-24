@@ -1,0 +1,23 @@
+{
+  "id": "news-c3b89e73",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "영남일보",
+  "url": "https://www.yeongnam.com/web/view.php?key=20261124026302617",
+  "title": "“힘 빼니 제구가 잡혔다”…삼성 우완 기대주 김성경, 모리야마 조련 속 1군 진입 노린다",
+  "published_at": "2026-11-24T00:11:28.000Z",
+  "collected_at": "2026-11-24T07:39:09.595Z",
+  "summary_ko": "영남일보는 삼성 우완 기대주 김성경이 힘을 빼며 제구를 잡았고 1군 진입을 노린다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "힘 빼니 제구 잡힌 김성경"
+}

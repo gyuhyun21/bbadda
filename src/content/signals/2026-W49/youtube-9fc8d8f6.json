@@ -1,0 +1,26 @@
+{
+  "id": "youtube-9fc8d8f6",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "youtube",
+  "source_name": "쓱잇슈",
+  "url": "https://www.youtube.com/watch?v=QhtxQE7DI3M",
+  "title": "도쿄돔 APBC 직관 브이로그 EP.0⚾️ #SSG랜더스 #김건우 #APBC #도쿄돔 #유니폼",
+  "published_at": "2026-11-24T03:36:39Z",
+  "collected_at": "2026-11-24T07:39:09.595Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 603,
+    "likes": 4,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 41,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

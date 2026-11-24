@@ -1,0 +1,22 @@
+{
+  "id": "news-73f57380",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "남도일보",
+  "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9uWGhmSVA4V2F5cUh2T2dUeHZDaUUzXzAzVC1Uc2pPX2lpNW90STQ2b0IzRFNielZIX3pmdlFONkdFUmJGU2plbmtDUlRqNGRVcndqM3lJcktlQlZYcXR6STRsMWRHaUJHRVdKSdIBcEFVX3lxTFBCMVl3cDNzTzZ2ME85NUUtdU5SdWdhZTRkWUg4S1ktQU5jTUdYbFZJcDlLMW1rbUtwV0ZacDdWbE5jcVRhbm5RUFBhQTYxMFI5cTBObkgxSmg4WXltVER4QlR3Z216MG9IelNmemxZUnk?oc=5",
+  "title": "[여기는 오키나와]‘울산 폭격’ KIA 박상준...\"이제는 1군서 꽃피울 때\"",
+  "published_at": "2026-11-24T06:15:00.000Z",
+  "collected_at": "2026-11-24T07:39:09.595Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

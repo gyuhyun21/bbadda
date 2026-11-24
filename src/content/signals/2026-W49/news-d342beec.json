@@ -1,0 +1,22 @@
+{
+  "id": "news-d342beec",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠경향",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9MM2VTakdmQzFXdUNBUUU1ZDluRERDbXRHaTVqOTNuQ1BQdmtKeVJWUVc3RU45ZDl6YW1SMzlDemRheFMzSjhxdlpidlcwWDBrUjRnQUNOYlBtVzMxQjh3RHZ6Z9IBY0FVX3lxTE9MM2VTakdmQzFXdUNBUUU1ZDluRERDbXRHaTVqOTNuQ1BQdmtKeVJWUVc3RU45ZDl6YW1SMzlDemRheFMzSjhxdlpidlcwWDBrUjRnQUNOYlBtVzMxQjh3RHZ6Zw?oc=5",
+  "title": "‘선발 즉전감’으로 키움?…하타니는 못 보나요?",
+  "published_at": "2026-11-23T22:00:00.000Z",
+  "collected_at": "2026-11-24T07:39:09.595Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

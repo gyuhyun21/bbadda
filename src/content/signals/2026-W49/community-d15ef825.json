@@ -1,0 +1,29 @@
+{
+  "id": "community-d15ef825",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/10590366564",
+  "title": "[IS 이슈] 키움 떠난 유토, KBO 잔류냐 일본 복귀냐…이번 주가 운명의 ...",
+  "published_at": "2026-11-24T01:39:09.595Z",
+  "collected_at": "2026-11-24T07:39:09.595Z",
+  "summary_ko": "",
+  "excerpt": "... https://m.sports.naver.com/kbaseball/article/241/0003543221 키움 히어로즈와 결별한 아시아쿼터 일본인 투수 가나쿠보 유토(27·등록명 유토)가 ...",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "일간스포츠",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1SZlZFWjFIdnNMT0t3SGU2TkFzeDNpaUlIVjljb0lRQURQRHRSWmNDclpnOHdDaGxwZUxQUnFVV0QyN2NDSkdGUk8xZm1uTGN1MElzQzgwQ2cta00?oc=5"
+    }
+  ]
+}

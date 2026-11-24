@@ -1,0 +1,24 @@
+{
+  "id": "community-d6821653",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 필드 밖 이야기",
+  "url": "https://blog.naver.com/v0722/224489805542",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/IKf5AVzjTf3",
+  "title": "다시 선발 자리를 찾으러 갑니다, 2027시즌을 향한 윤영철의 각오",
+  "published_at": "2026-11-24T12:53:00.000+09:00",
+  "collected_at": "2026-11-24T07:39:09.595Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

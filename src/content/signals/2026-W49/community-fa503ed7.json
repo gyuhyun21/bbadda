@@ -1,0 +1,28 @@
+{
+  "id": "community-fa503ed7",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 리도의 생활 노트",
+  "url": "https://blog.naver.com/james_parku/224489832210",
+  "title": "두산 수아레즈 100만 달러, 올해 선발은 2번뿐?",
+  "published_at": "2026-11-24T13:46:00.000+09:00",
+  "collected_at": "2026-11-24T07:39:09.595Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "데일리스포츠한국",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1XOEZwY3dFbTBQNmRUMmlBZjRwUTViNGpIaHdkV0czcXBxbFJlOXVBOG1tQjVIcXRtd1g4ZEE4V0RfYUpQbjNtc2ViTzBXa1ZQdXFFVDRDanhsVm9xNGtyWlJUQTJNVEJqSU4tbXNEWDhTOTZBS3p2MWZ2NXdNMmvSAX9BVV95cUxNVzhGcGN3RW0wUDZkVDJpQWY0cFE1YjRqSGh3ZFdHM3FwcWxSZTl1QThtbUI1SHF0bXdYOGRBOFdEX2FKUG4zbXNlYk8wV2tWUHVxRVQ0Q2p4bFZvcTRrclpSVEEyTVRCaklOLW1zRFg4Uzk2QUt6djFmdjV3TTJr?oc=5"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "community-f1a7372e",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "레딧 r/KBO",
+  "url": "https://www.reddit.com/r/KBO/comments/1y42syz/foreign_and_asian_players_signed_for_the_2027_kbo/",
+  "title": "Foreign and Asian Players signed for the 2027 KBO League",
+  "published_at": "2026-11-24T03:39:09.595Z",
+  "collected_at": "2026-11-24T07:39:09.595Z",
+  "summary_ko": "",
+  "excerpt": "... Team | Player | Position | LG Twins | Tristan Beck | Foreign Pitcher…",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

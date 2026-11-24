@@ -1,0 +1,26 @@
+{
+  "id": "youtube-35a36641",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "건야",
+  "url": "https://www.youtube.com/watch?v=iILJ-QvIKQY",
+  "title": "삼성은 용병 3인방을 모두 잡을수 있을까?",
+  "published_at": "2026-11-24T05:25:05Z",
+  "collected_at": "2026-11-24T07:39:09.595Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 427,
+    "likes": 5,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 43,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

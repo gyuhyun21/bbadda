@@ -1,0 +1,40 @@
+{
+  "id": "youtube-991f4b26",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "youtube",
+  "source_name": "MNK BASEBALL(MLB,NPB,KBO)",
+  "url": "https://www.youtube.com/watch?v=q0mcEKm2H_Y",
+  "title": "두산베어스 NEW 용병투수 호세 수아레즈 영입",
+  "published_at": "2026-11-24T05:00:44Z",
+  "collected_at": "2026-11-24T07:39:09.595Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1271,
+    "likes": 19,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 52,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "스포츠경향",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5WWkNROHBkb0c3TmtRWHExQW5aSS1OeldsMHJaUXJ0M1I0d1dsTU5VWEJZb2pmVUxIbmVDRDdtM1E1Wm9zOFpuWUFNTU1nMm11MFRuQ3NHRHdXSm53bmJ6Wk55b9IBY0FVX3lxTE5WWkNROHBkb0c3TmtRWHExQW5aSS1OeldsMHJaUXJ0M1I0d1dsTU5VWEJZb2pmVUxIbmVDRDdtM1E1Wm9zOFpuWUFNTU1nMm11MFRuQ3NHRHdXSm53bmJ6Wk55bw?oc=5"
+    },
+    {
+      "source_name": "이데일리",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQajAyTzc1enByX2N1OVZXM3h3TW14UTF3N1c3UzR2NWZSM1oxRlFxc0JFUnFEeGMxeW0xSzBMemVfRDNxbWN3a1JBVGtCMUZVVkxoa0U2NkFtVENxUG4xY2JkalJ3Zm1XQUlDWEdUZEVFWWp3LXc3Vi1NQkRGbWdaSA?oc=5"
+    },
+    {
+      "source_name": "금강일보",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1INm1ZMTIySTRGeGpvbHE1U0gxcjRRc1hEZm9qV21tXzFGZ2xLZFB1RjY5WGdoTndTMmZnc2lBdDZkLThkTXY4eHAzRnVvd3NuNWY1LWU2bFBITjRnaDdZZEQ3S1ViejdX?oc=5"
+    }
+  ]
+}

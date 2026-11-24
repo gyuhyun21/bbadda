@@ -1,0 +1,23 @@
+{
+  "id": "news-cb223159",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE11djd4aHVmOFFXbGJHRlZCZWtmOElwRzFXQTlJQU5QQ0NST0ZFMnZnbzdOdVlvalNDbGlmelZKM1BVRHBHaUVpRWZpMWtJMGI0Ri1DWUx5YUc5d1YxNFVuTTRfVXh3V19fc05EZ3Vqd9IBb0FVX3lxTE11djd4aHVmOFFXbGJHRlZCZWtmOElwRzFXQTlJQU5QQ0NST0ZFMnZnbzdOdVlvalNDbGlmelZKM1BVRHBHaUVpRWZpMWtJMGI0Ri1DWUx5YUc5d1YxNFVuTTRfVXh3V19fc05EZ3Vqdw?oc=5",
+  "title": "'이럴수가!' MLB 최저연봉 '100만 달러' 시대 임박→韓외국 수급에 빨간불 켜지나",
+  "published_at": "2026-11-24T05:25:48.000Z",
+  "collected_at": "2026-11-24T07:39:09.595Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

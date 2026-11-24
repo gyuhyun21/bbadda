@@ -1,0 +1,26 @@
+{
+  "id": "youtube-3185005d",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "youtube",
+  "source_name": "iamnotcocoroch",
+  "url": "https://www.youtube.com/watch?v=fcTlhKB0pIo",
+  "title": "KT위즈 힐리어드",
+  "published_at": "2026-11-24T03:06:06Z",
+  "collected_at": "2026-11-24T07:39:09.595Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 5,
+    "likes": 2,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 50,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

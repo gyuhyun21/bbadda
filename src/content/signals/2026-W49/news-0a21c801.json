@@ -1,0 +1,24 @@
+{
+  "id": "news-0a21c801",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "뉴스핌",
+  "url": "https://www.newspim.com/news/view/20261124000235",
+  "title": "[MLB] 美 ESPN, 메츠에 구자욱 영입 추천...\"영입 비용 비싸지 않을 것\"",
+  "published_at": "2026-11-24T00:21:00.000Z",
+  "collected_at": "2026-11-24T07:39:09.595Z",
+  "summary_ko": "뉴스핌은 미국 ESPN이 메츠에 구자욱 영입을 추천하며 비용이 비싸지 않을 것이라고 봤다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "ESPN \"메츠, 구자욱 잡아라\""
+}

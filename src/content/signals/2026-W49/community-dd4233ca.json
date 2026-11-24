@@ -1,0 +1,24 @@
+{
+  "id": "community-dd4233ca",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte",
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 영감의또또",
+  "url": "https://blog.naver.com/jjinenius/224489879172",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/GocwRneNs1M",
+  "title": "보상금 3억7500만원뿐인데.. 롯데, KIA 김호령 두고 방출 외야수 테스트 왜?",
+  "published_at": "2026-11-24T13:49:00.000+09:00",
+  "collected_at": "2026-11-24T07:39:09.595Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

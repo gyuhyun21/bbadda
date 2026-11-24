@@ -1,0 +1,29 @@
+{
+  "id": "news-30a9e0f4",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "조선일보",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeFdCN1VyRk1lR084MXFvQVNVd2lLVDBiQjllb1NoazM3NWRLZW52VmdZbUwyTk1IMTdpbGRYRDFKVEFOMFBXc0xPb3QzTDVCUS1Ib2pZZTN3dDZYLWZtcGVCbTBOanRHdmYyLVNBN1lRb1hWc0ZTU29XaXZzVE1wcjNjSQ?oc=5",
+  "title": "211안타 효자 외인, 재계약 전선 먹구름?…4관왕 MVP도 실패한 NPB, 현실성 있는 루머일까",
+  "published_at": "2026-11-24T00:39:00.000Z",
+  "collected_at": "2026-11-24T07:39:09.595Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 73,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9lUGt3LTlIQWVrOTNKWldtd0ZPeHdWOVFVNTRkQzBkNzZvNUZIN2hrSjlaOFpmbU5CTGRNSHUwcVEzZDBaQ0FiZnZfMFJZU21lLThRbGo4YnRRbFp4N1lvaHp6Z1l1SHZUWDc2N28wWdIBb0FVX3lxTE9lUGt3LTlIQWVrOTNKWldtd0ZPeHdWOVFVNTRkQzBkNzZvNUZIN2hrSjlaOFpmbU5CTGRNSHUwcVEzZDBaQ0FiZnZfMFJZU21lLThRbGo4YnRRbFp4N1lvaHp6Z1l1SHZUWDc2N28wWQ?oc=5"
+    }
+  ]
+}

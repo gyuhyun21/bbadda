@@ -1,0 +1,22 @@
+{
+  "id": "news-b06bfdbf",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "프레시안",
+  "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9JVEJ3RFpwaUNqTUJyOUpGdWE0S2FCaE9HYlZUcWhicXFyTmxkLUdxd05Fc3dBT2xnS1VNSkEzYlZkNlZ6cEpLWjdtc0swcHNfY016VXlOQ01USlkzVkQ1YmFCN0lrWUFtdUM4?oc=5",
+  "title": "삼성라이온즈 한국시리즈 우승 기념 카퍼레이드 11월 29일 개최",
+  "published_at": "2026-11-24T01:27:48.000Z",
+  "collected_at": "2026-11-24T07:39:09.595Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "community-03c89cb5",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 Sera Blog",
+  "url": "https://blog.naver.com/kymkiller/224489661635",
+  "title": "불꽃야구2 EP.26 (26회) 강릉영동대 결과·리뷰｜6대5 승리, 15승까지 1승",
+  "published_at": "2026-11-24T11:11:00.000+09:00",
+  "collected_at": "2026-11-24T07:39:09.595Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

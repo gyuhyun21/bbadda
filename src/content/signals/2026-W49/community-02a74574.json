@@ -1,0 +1,24 @@
+{
+  "id": "community-02a74574",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 감성 한 스푼 여행 한 조각 ˚₊·",
+  "url": "https://blog.naver.com/gmltjs0195/224489793833",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/LCxkXUNsF08",
+  "title": "양재역 필라테스 | 프로야구 선수들도 레슨 받는 자연속 힐링 분위기 • 숨in숲 필라테스 뱅뱅사거리점",
+  "published_at": "2026-11-24T12:43:00.000+09:00",
+  "collected_at": "2026-11-24T07:39:09.595Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

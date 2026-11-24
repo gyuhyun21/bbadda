@@ -1,0 +1,20 @@
+{
+  "id": "news-ee8c592d",
+  "issue": "2026-W49",
+  "module": "league",
+  "teams": [],
+  "source_type": "news",
+  "source_name": "OSEN",
+  "url": "https://www.osen.co.kr/article/G1112914176",
+  "title": "ML 최저연봉 100만 달러 시대 임박, KBO 외인 100만 달러 제한 괜찮을까…일본은 4000만 달러 초대형 계약 등장",
+  "published_at": "2026-11-24T03:40:00.000Z",
+  "collected_at": "2026-11-24T07:39:09.595Z",
+  "summary_ko": "OSEN은 MLB 최저연봉 100만 달러 시대가 다가오면서 KBO 외국인 선수 100만 달러 상한이 괜찮을지 짚었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 30
+  },
+  "sentiment": "neutral",
+  "brief_ko": "MLB 최저연봉 100만 달러 시대"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "community-da29f119",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 소곤소곤 윤슬룸",
+  "url": "https://blog.naver.com/jireh_beauty/224490041203",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/AlrH0wvdyzS",
+  "title": "ESPN이 메츠 후보로 구자욱 지목…그런데 먼저 나온 영입 소식",
+  "published_at": "2026-11-24T15:40:00.000+09:00",
+  "collected_at": "2026-11-24T07:39:09.595Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 92,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "네이트",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBqbnZwbXZnY193Y3drYTB2NUJzTkJLdkNIbnNSVUJtVmtwXzdrMkZ2aVFVbVE0dWYwelZfbnFBMktQZURFbHFrSVl4VXhkOVFNMFlvZzBB?oc=5"
+    },
+    {
+      "source_name": "뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5JcnJtbmpydjZ4Q1JJTkpOWHJzUjh2X1E3OW9YZkJPQW05cHFWLWpnSFYxV3c3Q2t1YjNWUWw3VzlZdGpRN25JWEZOZkFTeU1CZzljV2NRT0VnVmJoQm02WVBR?oc=5"
+    }
+  ]
+}

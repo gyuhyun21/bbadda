@@ -1,0 +1,24 @@
+{
+  "id": "community-a7bf1993",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "nc"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 필드 밖 이야기",
+  "url": "https://blog.naver.com/v0722/224489786454",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/Gxm4ImRKuNp",
+  "title": "구자욱과 달리 잠잠한 원태인 FA 시장 삼성 잔류냐 NC 이적이냐",
+  "published_at": "2026-11-24T12:37:00.000+09:00",
+  "collected_at": "2026-11-24T07:39:09.595Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

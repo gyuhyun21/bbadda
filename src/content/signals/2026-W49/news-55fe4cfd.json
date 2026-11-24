@@ -1,0 +1,32 @@
+{
+  "id": "news-55fe4cfd",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9wU05xYUxVUHhZOFZlVU03WVd4aVdhdVB5RlBIY0tKY3RoYVhDa2FRdzlyUTVtS1RYdVE5MThOLUZfdEpncDVYM0tVbGYzZkVlOTcxcUFjSVJTOThsVVB5TTBfRlhIR2hlUVHSAW9BVV95cUxNQXl5Vm1QcXRSS0dlc3ZrZlZHMVQ4eVdQeEtKZnRiSllyU3YtcnRGX0xzMC1vTGhPQ2NaQ1BBLVB4SDVFUkpTTzNiYmVXMU9TNjhfY0xESWlMYjFXN0RMNk15c3NEWUtXanNJVVJOblU?oc=5",
+  "title": "“작년까지만 해도 함께 야구하던 친구였는데…” 절친의 KS 호투에 가슴 뛴 삼성 신인 좌완, 그가 그리는 프로의 꿈 [오!쎈 경산]",
+  "published_at": "2026-11-24T01:40:00.000Z",
+  "collected_at": "2026-11-24T07:39:09.595Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 82,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBsdVdQeGVjbjVKaVVWOG02dzRXZXgxQXc4c0VMcUdNMW1CMXdGdnV0b2gwaEg4VFVPOEpLekVBRHUxT2FJY05mTWJhMjFJNF9TZEdNYQ?oc=5"
+    },
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNaHBWOGxPbzhUbUV6ZVB3dWk1NlZVUGJVY1NyZk9PNDJtamxkaUJKeDJnQXFIR3FGcHZ1d3VZWmxBWjdicHptZ0FTV0lxdHNNVkk3bHAtWUVhTE83Rlhmem84NEd4M2FQVE8xc1VEVF83bmdZZjhUZlMwMVNJMEs3UUtPYw?oc=5"
+    }
+  ]
+}

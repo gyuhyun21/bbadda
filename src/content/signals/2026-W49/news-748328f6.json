@@ -1,0 +1,24 @@
+{
+  "id": "news-748328f6",
+  "issue": "2026-W49",
+  "module": "rivalry",
+  "team": "nc",
+  "teams": [
+    "nc",
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠서울",
+  "url": "https://www.sportsseoul.com/news/read/1651971",
+  "title": "“원태인 접촉했다” 급부상한 NC, 영입전 뛰어들었다…삼성-NC 2파전이 끝일까 [SS시선집중]",
+  "published_at": "2026-11-24T06:10:09.000Z",
+  "collected_at": "2026-11-24T07:39:09.595Z",
+  "summary_ko": "스포츠서울은 NC가 원태인 측에 접촉했다며 FA 영입전에 뛰어들었다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 80
+  },
+  "sentiment": "negative",
+  "brief_ko": "원태인 영입전, NC 참전"
+}

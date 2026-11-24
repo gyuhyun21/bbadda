@@ -1,0 +1,24 @@
+{
+  "id": "news-415e0c53",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "YTN",
+  "url": "https://www.ytn.co.kr/_ln/0107_202611241118389705",
+  "title": "미국 야구 전문 매체가 뽑은 '유망주' 1위 김도영",
+  "published_at": "2026-11-24T02:18:00.000Z",
+  "collected_at": "2026-11-24T07:39:09.595Z",
+  "summary_ko": "YTN은 미국 야구 전문 매체가 뽑은 유망주 1위에 김도영이 올랐다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "brief_ko": "美 매체 선정 유망주 1위 김도영"
+}

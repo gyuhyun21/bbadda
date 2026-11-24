@@ -1,0 +1,22 @@
+{
+  "id": "news-49ef73af",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "news",
+  "source_name": "일간스포츠",
+  "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE83MGlKYUNYUmNfU29OSTZmNXl0NlpyZEQxNGxIWTc0MEJJMVRLb0RWbTZOVXpYZHlONGlVRF8wR29QcmpyVS1RRXNxYkxOZG5CRjBUODJkVWVTc1U?oc=5",
+  "title": "'ML 풀타임 선발 출신' 수아레즈가 두산에 왔다, \"좌완 최상급 구속, 완성형 투수\"",
+  "published_at": "2026-11-24T02:28:00.000Z",
+  "collected_at": "2026-11-24T07:39:09.595Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "news-242deddb",
+  "issue": "2026-W49",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE96LTZQZS1rQjdsM2h6VXlqZktaLXB0ZERVTTJ4MGlnWG04NEJnYjBnZDlqR01ETF92TUJ1TE5MVFZ2eWk5X2FJb3Rib2J5cWlLbEFMQXZ1NjR2cU5qdlNrRHRrMGZ5Wk9IZnc4eC1iM2s0czBTRFMwVWF3YXNadw?oc=5",
+  "title": "\"원태인 관심 있다. 한번 연락했다\" 복병 등장, FA 의외의 큰 손 등장하나",
+  "published_at": "2026-11-24T02:40:26.000Z",
+  "collected_at": "2026-11-24T07:39:09.595Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "community-5d99efd1",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 오늘도한걸음_dailybetter",
+  "url": "https://dailybetter-dev.tistory.com/434",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/4FdVLAHWGDl",
+  "title": "원태인 야구선수 프로필 | 원태인 FA 연봉 아버지 형",
+  "published_at": "2026-11-24T13:13:23.000+09:00",
+  "collected_at": "2026-11-24T07:39:09.595Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "community-a528a2f1",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 스포츠 뒷장",
+  "url": "https://footballguy.tistory.com/37",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/d57xUdsFZv",
+  "title": "2026 KBO MVP 예상｜김도영 45홈런 vs 곽빈 197탈삼진, 누가 받을까?",
+  "published_at": "2026-11-24T16:10:51.000+09:00",
+  "collected_at": "2026-11-24T07:39:09.595Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 84,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "소년한국일보",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1jN3lFRnVwLWVhcU01d091UWNuLU55TVJFUm1INlRZeUVMMVdmYVlRZVZwTGhvU1FLQTNKN0Uwc2lxc2J5VnQzLU5BRUhTcW1RMFBKQldEekhnakNQbnlqN3NleFozdDJybXdRazJ2djPSAXBBVV95cUxNYzd5RUZ1cC1lYXFNNXdPdVFjbi1OeU1SRVJtSDZUWXlFTDFXZmFZUWVWcExob1NRS0EzSjdFMHNpcXNieVZ0My1OQUVIU3FtUTBQSkJXRHpIZ2pDUG55ajdzZXhaM3Qycm13UWsydnYz?oc=5"
+    }
+  ]
+}

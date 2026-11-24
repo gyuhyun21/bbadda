@@ -1,0 +1,23 @@
+{
+  "id": "news-e9913999",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20261124_0003880466",
+  "title": "이이무라 재계약? 외야수 영입?…롯데, 아시아쿼터 두고 고심",
+  "published_at": "2026-11-24T02:14:25.000Z",
+  "collected_at": "2026-11-24T07:39:09.595Z",
+  "summary_ko": "뉴시스는 롯데가 이이무라 재계약과 외야수 영입을 놓고 아시아쿼터 선택을 고민하고 있다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "아시아쿼터, 이이무라냐 외야수냐"
+}

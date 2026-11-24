@@ -1,0 +1,23 @@
+{
+  "id": "news-c278107b",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠경향",
+  "url": "https://sports.khan.co.kr/article/202611241038003/amp",
+  "title": "87년생 아니면 07년생···키움의 극단적 불펜에 ‘99년생 정철원’이 가져올 효과는",
+  "published_at": "2026-11-24T01:38:00.000Z",
+  "collected_at": "2026-11-24T07:39:09.595Z",
+  "summary_ko": "스포츠경향은 베테랑과 10대 투수로 갈린 키움 불펜에 99년생 정철원이 가져올 효과를 짚었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "극단적 불펜에 99년생 정철원"
+}

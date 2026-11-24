@@ -1,0 +1,23 @@
+{
+  "id": "news-3458a014",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "마이데일리",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1jcVlGaERCMkNsMXZpM085R0JKVEM0LUJJMGpkcmlraXFQazAtRWRIdzl0dFhvbFo4U29iS2dMU0NxdlI0RFNpSjM1Z2hqTWg4dXhGSlQzRWNFMlNqUU1fVg?oc=5",
+  "title": "알고 보면 구자욱보다 원태인 영입전이 더 치열하다? 12월 ‘머니 게임’ 앞두고 전초전…美는 조용하다",
+  "published_at": "2026-11-24T05:00:00.000Z",
+  "collected_at": "2026-11-24T07:39:09.595Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

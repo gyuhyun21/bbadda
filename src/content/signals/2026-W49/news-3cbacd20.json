@@ -1,0 +1,23 @@
+{
+  "id": "news-3cbacd20",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스타뉴스",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9MeUY5Y0tzVUs1bWplUWM5YUdKTzBJdnFpbWt4eEg0TVAwaHVxYTExM29LaVVEanJLZ3huXzVEVGVqUnRkNHdlUnp5OVY1OGNKcGp5aFBiRlpJTk5yeXFGaTVJME9FZG5lSlB0Z1RUNl9EYTFQYlE?oc=5",
+  "title": "'KBO 역대급 타자 예감' 최형우보다도 3살 아래, '거포 1루수' 원한다면 산타나에 주목하라",
+  "published_at": "2026-11-24T07:24:53.000Z",
+  "collected_at": "2026-11-24T07:39:09.595Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

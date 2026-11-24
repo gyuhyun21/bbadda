@@ -1,0 +1,23 @@
+{
+  "id": "news-40ad6d7a",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "무등일보",
+  "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9mTThoa05KeG5sN2ljeWItQUxVLVZpOVNCclh0T0tYT0toaE5aQkp1WEdzQzRsc2VxSTVPd01DcUJmblVmeWR3M1hZX3pENkxpRmYzdHNn?oc=5",
+  "title": "부상 잔혹사 딛고 우뚝 선 김도영, 2년 만의 MVP 재탈환 정조준",
+  "published_at": "2026-11-24T07:18:00.000Z",
+  "collected_at": "2026-11-24T07:39:09.595Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "mixed"
+}

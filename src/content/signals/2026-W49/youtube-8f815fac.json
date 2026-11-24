@@ -1,0 +1,26 @@
+{
+  "id": "youtube-8f815fac",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "youtube",
+  "source_name": "시사식탁",
+  "url": "https://www.youtube.com/watch?v=DOe8XA1EtC0",
+  "title": "경기 중 쓰러진 감독의 결말 #염경엽 #LG트윈스",
+  "published_at": "2026-11-24T03:30:07Z",
+  "collected_at": "2026-11-24T07:39:09.595Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1529,
+    "likes": 33,
+    "comments": 3
+  },
+  "scores": {
+    "hot": 60,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

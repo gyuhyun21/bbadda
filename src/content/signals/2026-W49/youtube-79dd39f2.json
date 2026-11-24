@@ -1,0 +1,26 @@
+{
+  "id": "youtube-79dd39f2",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "youtube",
+  "source_name": "OBS TV",
+  "url": "https://www.youtube.com/watch?v=pGIfIXvWRPw",
+  "title": "선수들의 은밀한 트레이드? 경기 전 복도에서 무슨일이? #트레이드 #경기 #쇼츠 #불타는그라운드 #야구 #sk와이번스 #ssg랜더스 #야구선수 #kbo #프로야구",
+  "published_at": "2026-11-24T03:15:22Z",
+  "collected_at": "2026-11-24T07:39:09.595Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 664,
+    "likes": 3,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 40,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

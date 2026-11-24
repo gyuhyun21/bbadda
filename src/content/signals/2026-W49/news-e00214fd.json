@@ -1,0 +1,22 @@
+{
+  "id": "news-e00214fd",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "네이트",
+  "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE85WVJyRTZYb1hfdEp2R0tmZDZubGJMdWVYQkl0c01MdEJFeWMxc2E4WC1FTDRQbFBaVTF1ZTdNZ29ZOWc2Y2lycVk2S0EwcVo4TTJmS2Z3?oc=5",
+  "title": "'우승 감독' 박진만, 계약서는 찢어지지 않는다?…\"삼성은 재계약에 관심 없다 들었다\"",
+  "published_at": "2026-11-24T01:33:00.000Z",
+  "collected_at": "2026-11-24T07:39:09.595Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

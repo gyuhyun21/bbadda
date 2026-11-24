@@ -1,0 +1,23 @@
+{
+  "id": "news-18c3f790",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "네이트",
+  "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ub3NROVpJNnZPak5VZ0RoOVhFYkJqQzFlX0ZKV3RNbWFNY0pWdFJBU1FuMHVXX3Rwc0txLW5xeVVUS19yYkdUcWFEdklwUHFQZ3BYVFhB?oc=5",
+  "title": "'44세' 이대호 스윙에 日열도가 놀랐다! 총알 같은 2루타 폭발→\"타구 속도 대단해! 아직도 현역 할 수 있어\" 감탄",
+  "published_at": "2026-11-24T00:19:00.000Z",
+  "collected_at": "2026-11-24T07:39:09.595Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

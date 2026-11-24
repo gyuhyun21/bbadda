@@ -1,0 +1,22 @@
+{
+  "id": "news-7dd06b1d",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스핌",
+  "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5PUl9nQmxMRWhjYjk3dVdQeU9zTDUxbEI4MEZOUGhleklyd3FKNWhFX0pmSUNSanJJOUZmR0E3Yi1rc3hLUC1BblJMdDg4b0J5QnRhNUo4OVpVY2xl?oc=5",
+  "title": "[프로야구] 두산, 29일간 진행된 미야자키 마무리캠프 종료",
+  "published_at": "2026-11-24T06:58:00.000Z",
+  "collected_at": "2026-11-24T07:39:09.595Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

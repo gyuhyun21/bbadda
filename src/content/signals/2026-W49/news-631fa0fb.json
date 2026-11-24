@@ -1,0 +1,22 @@
+{
+  "id": "news-631fa0fb",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "KNS뉴스통신",
+  "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE02REptU0tIYWtBQWJhNTEyckJoUGpIT21vRTVFaTc3U0o1SUh4eVlzQy10eEhsOXRHdXg4dkswQTVWaEVMVkY0QV9vb1lDWnNnd2lNbmtGNS0zWXpWWUFHQWRlT1o?oc=5",
+  "title": "대구시-삼성라이온즈, 29일 우승 축하 퍼레이드...\"12년 만의 감격, 240만 시민과 나눈다\"",
+  "published_at": "2026-11-23T08:53:26.000Z",
+  "collected_at": "2026-11-24T07:39:09.595Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 60,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}
