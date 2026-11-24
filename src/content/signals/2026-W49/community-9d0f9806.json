@@ -1,0 +1,24 @@
+{
+  "id": "community-9d0f9806",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 데일리인사이트 (Daily Insight)",
+  "url": "https://blog.naver.com/clang73/224489392106",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/DozfmWUNZv8",
+  "title": "노시환 포스팅 마감 일주일 앞, 307억 포기하고 도전한 빅리그에 9개 구단이 거론되는 이유",
+  "published_at": "2026-11-24T23:52:00.000+09:00",
+  "collected_at": "2026-11-24T21:37:38.533Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

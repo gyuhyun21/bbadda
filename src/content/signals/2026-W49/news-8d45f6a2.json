@@ -1,0 +1,24 @@
+{
+  "id": "news-8d45f6a2",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://www.mt.co.kr/amp/sports/2026/11/25/202611241103774714O",
+  "title": "'한화 복귀 포기!' 이래서 한국 안 돌아갔다, 최대 910만 달러 계약이라니…와이스 고난도 미션, 2년 연속 150이닝",
+  "published_at": "2026-11-24T15:09:00.000Z",
+  "collected_at": "2026-11-24T21:37:38.533Z",
+  "summary_ko": "머니투데이는 와이스가 한화 복귀 대신 최대 910만 달러 계약으로 미국에 남았다고 전했다. 2년 연속 150이닝이 과제로 꼽혔다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "brief_ko": "와이스, 한화 대신 최대 910만 달러",
+  "hook_ko": "한화 대신 미국,\n최대 910만 달러"
+}

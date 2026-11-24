@@ -1,0 +1,24 @@
+{
+  "id": "community-ff3b6afe",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&page=8&document_srl=10591999616",
+  "title": "정보)이재현 본가는 서울이고 외가는 부산이다 - 야구",
+  "published_at": "2026-11-24T11:37:38.533Z",
+  "collected_at": "2026-11-24T21:37:38.533Z",
+  "summary_ko": "",
+  "excerpt": "... 실제로 이재현 외삼촌은 롯데 자이언츠 우선 지명으로 뽑혔던 사람이다 그 선수 이름 정재민.",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

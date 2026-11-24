@@ -1,0 +1,23 @@
+{
+  "id": "news-d76b1b0a",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "조선일보",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQOFFCUmxQd2RDNDNubVBCa3pOTmlxcVdpUEQxbUdiMFQ2aUlNN1N6QTBmZnZnQ3J1S0J1S0ppN3BqRC1XRV9rNWNQa0owMG5rUVVkdW9qV0F5d1RuX09BeXZNN1lpVTRBRDBSNXJqTFE1ZHB3MWRHT3dxVkJ2QkdsUHl3aw?oc=5",
+  "title": "\"평균 이상 파워, 세계적 수준 재능\" 김도영, 美매체 국제 유망주 랭킹 1위…日 FA 최대어 3루수도 제쳤다",
+  "published_at": "2026-11-24T15:40:00.000Z",
+  "collected_at": "2026-11-24T21:37:38.533Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

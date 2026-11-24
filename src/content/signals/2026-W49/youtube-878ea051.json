@@ -1,0 +1,27 @@
+{
+  "id": "youtube-878ea051",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "미스틱팩토리 신도림점",
+  "url": "https://www.youtube.com/watch?v=nm96t0emEQY",
+  "title": "LG전자 회장님께 안혼나냐 실착 유니폼 로고 팍 뜯어 만든 야구카드 Korea Baseball Sportscard 프로야구 스포츠카드 SCC KBO 센세이션 LG트윈스 문성주",
+  "published_at": "2026-11-24T12:02:11Z",
+  "collected_at": "2026-11-24T21:37:38.533Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1196,
+    "likes": 1,
+    "comments": 2
+  },
+  "scores": {
+    "hot": 41,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-dbcb55c1",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "메디컬투데이",
+  "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1jdVhxM3o0aG40VnpZaTU0cVpFUUh3Zm1hUXJqLWxQX2MtREZySlljQmduaVF1MGhaTHRqdEs3a1ZwTk9mSkY1VFY5OC1LcXlLaFh4Z3JPbVZILVU3WVVpdjBZVjV4c1FwQVVCUA?oc=5",
+  "title": "구자욱, 美 ESPN이 메츠 영입 후보로 거론…MLB 도전 가능성 주목",
+  "published_at": "2026-11-24T07:47:59.000Z",
+  "collected_at": "2026-11-24T21:37:38.533Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "news-3da339df",
+  "issue": "2026-W49",
+  "module": "rivalry",
+  "team": "nc",
+  "teams": [
+    "nc",
+    "doosan",
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "마이데일리",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1PTm45NmZ4TzRIOUtPV3VSTHhldTkwYUVzc0ExRFdtZEtYejFOSjQ1Q3hzeFFwTXQ4WGJTVjJxbUFHVmRtWkxJa1h1MlJmcGY2dTZuX3NHM19sbmlqS2w2ZQ?oc=5",
+  "title": "“최동원·선동열·박찬호·류현진? 난 OOO 1등” KBO 68승·174SV 투수의 명언…9회말 2사 만루서 던질 수 있어야 진짜 주무기",
+  "published_at": "2026-11-24T13:30:00.000Z",
+  "collected_at": "2026-11-24T21:37:38.533Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 81,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

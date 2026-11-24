@@ -1,0 +1,28 @@
+{
+  "id": "news-231b1dbc",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9XMlRIdEEyOXRqSm1WU0dKNC1NTGNjLWtSMXVYeEltajJHdVA0dTh3R2M0ZkNzR19iVFVxSnhRcVRoM3R5NXdCd3RiVlhZQTNEMkxoTUNNc3BoV3dsRm5jWk5lRHoxakc4Zy1mRlZ2Y9IBb0FVX3lxTE9XMlRIdEEyOXRqSm1WU0dKNC1NTGNjLWtSMXVYeEltajJHdVA0dTh3R2M0ZkNzR19iVFVxSnhRcVRoM3R5NXdCd3RiVlhZQTNEMkxoTUNNc3BoV3dsRm5jWk5lRHoxakc4Zy1mRlZ2Yw?oc=5",
+  "title": "아니, 두산이 외국인 투수 영입했는데 일본이 왜 난리? 알고 보니 오타니와 5년간 동고동락한 절친이었다",
+  "published_at": "2026-11-24T08:45:00.000Z",
+  "collected_at": "2026-11-24T21:37:38.533Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 71,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE82bFBoZFVYMkQzaEEyZ3lTVmdtS3dKYXJZLWRTbmpLcmxENTJ1Q1loMUNQckJWSlVNS3lIc0J4VU9QTGhhc3JSWkZJMV9XSXppTjA4bQ?oc=5"
+    }
+  ]
+}

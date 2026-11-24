@@ -1,0 +1,26 @@
+{
+  "id": "youtube-b200fcf7",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "youtube",
+  "source_name": "인생실록",
+  "url": "https://www.youtube.com/watch?v=KRECbtGDeUo",
+  "title": "버스에서 울던 고3, 첫 FA까지 15년 #홍창기 #LG트윈스",
+  "published_at": "2026-11-24T14:04:56Z",
+  "collected_at": "2026-11-24T21:37:38.533Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1114,
+    "likes": 2,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 41,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

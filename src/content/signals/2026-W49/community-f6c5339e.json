@@ -1,0 +1,24 @@
+{
+  "id": "community-f6c5339e",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg",
+    "kt"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 Hey, hypeissue",
+  "url": "https://blog.naver.com/hypeissue/224490411402",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/Apitz4dqulr",
+  "title": "박동원 FA 행선지 전망, LG 잔류냐 KT행 거론이냐",
+  "published_at": "2026-11-24T22:22:00.000+09:00",
+  "collected_at": "2026-11-24T21:37:38.533Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

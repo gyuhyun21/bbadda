@@ -1,0 +1,26 @@
+{
+  "id": "youtube-044fc73b",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "youtube",
+  "source_name": "크보쌍둥이",
+  "url": "https://www.youtube.com/watch?v=prmBAgMJurs",
+  "title": "엘지 차기주장 홍창기 현재 시장상황과 엘지 잔류시 몸값은? #엘지트윈스 #홍창기 #박동원",
+  "published_at": "2026-11-24T17:47:41Z",
+  "collected_at": "2026-11-24T21:37:38.533Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 3155,
+    "likes": 38,
+    "comments": 10
+  },
+  "scores": {
+    "hot": 56,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "community-24560fd6",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 더파노라마",
+  "url": "https://blog.naver.com/ft-times/224490595276",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/EoIlJDvkme7",
+  "title": "“V9 주역 구자욱, FA 시장 최대어 부상”…적정 몸값 두고 수 싸움",
+  "published_at": "2026-11-24T23:50:00.000+09:00",
+  "collected_at": "2026-11-24T21:37:38.533Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

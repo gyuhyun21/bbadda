@@ -1,0 +1,23 @@
+{
+  "id": "news-3ab3927e",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "마이데일리",
+  "url": "https://mydaily.co.kr/page/view/2026112502185035339",
+  "title": "“(김호령·김태군)소식이 없네요, (KIA와 재계약하면)연락이 왔을 건데…” 꽃범호도 FA 시장에 귀 쫑긋, 간절한 잔류 바람[MD인천공항]",
+  "published_at": "2026-11-24T19:00:00.000Z",
+  "collected_at": "2026-11-24T21:37:38.533Z",
+  "summary_ko": "이범호 감독이 FA 김호령·김태군을 두고 \"소식이 없네요\"라며 잔류를 바란다는 뜻을 내비쳤다고 마이데일리가 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "이범호, 김호령·김태군 잔류 바람"
+}

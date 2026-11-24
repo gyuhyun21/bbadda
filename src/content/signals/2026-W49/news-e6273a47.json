@@ -1,0 +1,23 @@
+{
+  "id": "news-e6273a47",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "SPOTV NEWS",
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1YVkFmLVhQekl3UXptTW1mV29PbWpMeTQyZW5xUnh1UThVOEJRTzBFTHU1UEZoNC0xdUN5cGZsSTd1dk85Q1J3QzlNVlVHV1RaM3lIZTFhSTJWcXJuUmgyMVJVTzZNN0lzd05qZThUTDE?oc=5",
+  "title": "쟤네들은 돈이 싫은가봐… KBO 깜짝 놀랐다, 몇 억을 그냥 포기? 도대체 뭐가 있길래",
+  "published_at": "2026-11-24T11:30:00.000Z",
+  "collected_at": "2026-11-24T21:37:38.533Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

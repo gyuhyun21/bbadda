@@ -1,0 +1,23 @@
+{
+  "id": "news-613f92fd",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "news",
+  "source_name": "조선일보",
+  "url": "https://www.chosun.com/sports/baseball/2026/11/25/GA3TSZJXMU2TMOJRGBQTAYTEMI/",
+  "title": "'1년만에 전격 컴백' 두산 조성환 2군 감독 확정…화수분 재건 이끈다",
+  "published_at": "2026-11-24T16:13:00.000Z",
+  "collected_at": "2026-11-24T21:37:38.533Z",
+  "summary_ko": "조선일보는 조성환 전 2군 감독이 1년 만에 두산 2군 감독으로 돌아온다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "조성환, 1년 만에 2군 감독 복귀"
+}

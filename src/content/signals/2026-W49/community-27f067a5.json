@@ -1,0 +1,23 @@
+{
+  "id": "community-27f067a5",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 스포츠두두",
+  "url": "https://blog.naver.com/minbdari/224490437943",
+  "title": "FA 계약 4명뿐인데 이번 주 스토브리그 판도 바뀔까요",
+  "published_at": "2026-11-24T21:01:00.000+09:00",
+  "collected_at": "2026-11-24T21:37:38.533Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

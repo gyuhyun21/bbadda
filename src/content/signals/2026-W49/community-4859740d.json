@@ -1,0 +1,24 @@
+{
+  "id": "community-4859740d",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&document_srl=10592326276",
+  "title": "은근 관리자가 병신같은 사이트 - 야구",
+  "published_at": "2026-11-24T12:37:38.533Z",
+  "collected_at": "2026-11-24T21:37:38.533Z",
+  "summary_ko": "",
+  "excerpt": "... [레벨:27] 이윤신 · 은근? ; [레벨:34] 오프너 · 에펨코리아 ㄷㄷ ; [레벨:35] 김성윤 ·…",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

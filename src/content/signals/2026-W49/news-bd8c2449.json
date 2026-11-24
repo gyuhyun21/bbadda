@@ -1,0 +1,23 @@
+{
+  "id": "news-bd8c2449",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "www.xportsnews.com",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9OLW5zQUNydXpUVG85eHNvOXMyTlJHNENWTnZrR1ZhNEpzS1pweWgwa3NXWmtzVXNjNXpwbnVvaTZCNXFueTd0dW5DTmNpdVk4UXRCUg?oc=5",
+  "title": "'초비상' KBO, ML 최저 연봉 100만 달러 가능성 → 페덱 같은 선수 못 데려오나",
+  "published_at": "2026-11-24T15:09:03.000Z",
+  "collected_at": "2026-11-24T21:37:38.533Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 82,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

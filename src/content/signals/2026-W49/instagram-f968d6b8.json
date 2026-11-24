@@ -1,0 +1,27 @@
+{
+  "id": "instagram-f968d6b8",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "instagram",
+  "official": true,
+  "source_name": "Instagram @ssglanders.incheon",
+  "url": "https://www.instagram.com/reel/DgHlHgmqz5L/",
+  "title": "SSG 랜더스 공식 인스타그램: 2026 KBO 골든글러브 유격수 부문 후보에 오른 우리들의 자랑스러운 유격수, 박성한의 수상…",
+  "published_at": "2026-11-24T09:00:03+0000",
+  "collected_at": "2026-11-24T21:37:38.533Z",
+  "summary_ko": "SSG 랜더스가 골든글러브 유격수 부문 후보에 오른 박성한의 수상 기원 영상을 올렸다.",
+  "metrics": {
+    "likes": 9230,
+    "comments": 175
+  },
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "brief_ko": "박성한 골든글러브 수상 기원"
+}

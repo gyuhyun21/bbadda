@@ -1,0 +1,24 @@
+{
+  "id": "news-50252c5f",
+  "issue": "2026-W49",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "더팩트",
+  "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE82aVVEQW8yUHFKaENFRkg3YXlxYUJvVk5RMlMwWVBDdUN3ekZNeDZVRTUwUUxxQmN3VUdqMDc0UmIxWkN3Tnd1MVFHTHVzUXI1SkRr0gFTQVVfeXFMTzZpVURBbzJQcUpoQ0VGSDdheXFhQm9WTlEyUzBZUEN1Q3d6Rk14NlVFNTBRTHFCY3dVR2owNzRSYjFaQ3dOd3UxUUdMdXNRcjVKRGs?oc=5",
+  "title": "MVP 결과 관계없이 2026시즌 ‘지배자’는 ‘오스틴’ [김대호의 야구생각]",
+  "published_at": "2026-11-24T15:00:00.000Z",
+  "collected_at": "2026-11-24T21:37:38.533Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

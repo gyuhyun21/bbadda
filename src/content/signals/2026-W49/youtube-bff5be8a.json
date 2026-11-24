@@ -1,0 +1,28 @@
+{
+  "id": "youtube-bff5be8a",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "키움히어로즈",
+  "url": "https://www.youtube.com/watch?v=96O0gKoPaO0",
+  "title": "깊어가는 밤 멈추지 않는 스윙 |  2026 마무리캠프 야간훈련",
+  "published_at": "2026-11-24T09:30:18Z",
+  "collected_at": "2026-11-24T21:37:38.533Z",
+  "summary_ko": "키움히어로즈 공식 채널이 마무리캠프 야간훈련 영상을 올렸다.",
+  "metrics": {
+    "views": 18070,
+    "likes": 192,
+    "comments": 61
+  },
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "마무리캠프 야간훈련 영상"
+}

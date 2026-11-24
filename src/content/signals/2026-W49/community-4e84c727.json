@@ -1,0 +1,23 @@
+{
+  "id": "community-4e84c727",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 레우스 스포츠",
+  "url": "https://blog.naver.com/borussenreus/224490484939",
+  "title": "테임즈가 무조건 1위? 역대 최고의 외국인 타자는",
+  "published_at": "2026-11-24T21:43:00.000+09:00",
+  "collected_at": "2026-11-24T21:37:38.533Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

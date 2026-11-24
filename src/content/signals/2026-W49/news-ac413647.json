@@ -1,0 +1,24 @@
+{
+  "id": "news-ac413647",
+  "issue": "2026-W49",
+  "module": "rivalry",
+  "team": "ssg",
+  "teams": [
+    "ssg",
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "서울신문",
+  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE02aUpHRWJ6dlc4UFBDTTZrREVaNWdnTFBmbk5oZDhiSzM5Tjk5YjN2Z1JmNGZZXzg4OUVMbF9CcjJlYUdQdW5UVWp0VTNZX2Z4dWJsWnF2QQ?oc=5",
+  "title": "마무리 캠프 ‘사즉생 캠프’",
+  "published_at": "2026-11-24T09:04:08.000Z",
+  "collected_at": "2026-11-24T21:37:38.533Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 80,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

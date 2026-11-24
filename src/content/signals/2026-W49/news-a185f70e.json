@@ -1,0 +1,22 @@
+{
+  "id": "news-a185f70e",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "news",
+  "source_name": "뉴시스",
+  "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE12R2Z3NmlvZVEyWEJwUWN3NnJBcjVyOUt4eExqWDFkZUlkQXVpQV80aUVvZEpWLV9WdE8tQ0QwNEVIbmtUejBaX1hFX205R0w2S0wtdm1kOV94cmZ2NFBXeUJWMWNpdUFuNXJWTU1UUk15LTB1QWt1etIBeEFVX3lxTE12R2Z3NmlvZVEyWEJwUWN3NnJBcjVyOUt4eExqWDFkZUlkQXVpQV80aUVvZEpWLV9WdE8tQ0QwNEVIbmtUejBaX1hFX205R0w2S0wtdm1kOV94cmZ2NFBXeUJWMWNpdUFuNXJWTU1UUk15LTB1QWt1eg?oc=5",
+  "title": "NC, 'FA 투수 최대어' 원태인 영입 노린다…\"조만간 만날 것\"",
+  "published_at": "2026-11-24T08:12:45.000Z",
+  "collected_at": "2026-11-24T21:37:38.533Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 95,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

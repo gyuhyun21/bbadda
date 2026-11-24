@@ -1,0 +1,23 @@
+{
+  "id": "news-8afed153",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "news",
+  "source_name": "재경일보",
+  "url": "https://news.jkn.co.kr/post/1120179",
+  "title": "NC 다이노스 복귀 제안 거절한 페디…미국 잔류 결정 : 스포츠",
+  "published_at": "2026-11-24T18:51:00.000Z",
+  "collected_at": "2026-11-24T21:37:38.533Z",
+  "summary_ko": "보도에 따르면 페디가 NC의 복귀 제안을 거절하고 미국 잔류를 택했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "brief_ko": "페디, NC 복귀 대신 미국 잔류"
+}

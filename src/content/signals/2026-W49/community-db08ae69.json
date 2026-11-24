@@ -1,0 +1,25 @@
+{
+  "id": "community-db08ae69",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg",
+    "samsung",
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 스포츠에 빠지다",
+  "url": "https://blog.naver.com/kida02_/224490320089",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/1V6M3A36Rw5",
+  "title": "\"12승인데 보낸다고?\" LG 톨허스트 재계약, 삼성전 1.57과 KIA전 6.20",
+  "published_at": "2026-11-24T22:18:00.000+09:00",
+  "collected_at": "2026-11-24T21:37:38.533Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}
