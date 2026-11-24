@@ -1,0 +1,105 @@
+{
+  "music": "bgm-morning",
+  "subStyle": "yt",
+  "outro": {
+    "hold": 1.5,
+    "fade": 0.5
+  },
+  "pool": {
+    "no": 33,
+    "series": "그날의 야구",
+    "ep": 16,
+    "facts": "센세 확인 2026-11-25(기사 2곳 이상, PR 본문 표)"
+  },
+  "segments": [
+    {
+      "src": "clip1.mp4",
+      "from": 0,
+      "to": 10,
+      "credit": "MLB Vault",
+      "yt": "GAtJeR01lEQ",
+      "say": "a1.mp3",
+      "text": "이천삼년 시카고 컵스, 월드시리즈까지 아웃 다섯 개 남았어. 그때 파울 공 하나가 관중석 쪽으로 날아갔어.",
+      "kick": "그날의 야구 #16",
+      "head": "월드시리즈까지<br><b>아웃 5개</b>",
+      "sub": "2003 NLCS 6차전, 컵스 3:0 리드",
+      "note": "출처: SABR·SI · 영상: MLB Vault",
+      "fx": [
+        {
+          "at": 4.0,
+          "text": "제발",
+          "style": "mind",
+          "pos": "low"
+        }
+      ]
+    },
+    {
+      "src": "clip2.mp4",
+      "from": 0,
+      "to": 10,
+      "credit": "MLB",
+      "yt": "vq8G81oOHhY",
+      "say": "a2.mp3",
+      "text": "좌익수 알루가 뛰어올랐지만 관중 손에 먼저 맞았어. 심판은 공이 관중석 위에 있었다며 관중 방해를 주지 않았어.",
+      "kick": "관중 방해?",
+      "head": "관중석 위 공<br><b>방해 아님</b>",
+      "sub": "공이 관중석 위 → 관중 방해 아님",
+      "note": "출처: SABR·SI · 영상: MLB",
+      "fx": [
+        {
+          "at": 4.5,
+          "text": "파울",
+          "style": "stamp"
+        }
+      ]
+    },
+    {
+      "src": "clip3.mp4",
+      "from": 0,
+      "to": 10,
+      "credit": "Javier Morales Luna",
+      "yt": "Jw3ccParGxM",
+      "say": "a3.mp3",
+      "text": "근데 진짜 결정타는 따로 있었어. 일 사 일 이루에서 유격수 곤살레스가 쉬운 땅볼을 놓쳤거든.",
+      "kick": "진짜 결정타",
+      "head": "쉬운 땅볼<br><b>실책</b>",
+      "sub": "1사 1·2루, 유격수 곤살레스 실책",
+      "note": "출처: SI·SABR · 영상: Javier Morales Luna",
+      "fx": [
+        {
+          "at": 4.0,
+          "text": "앗!",
+          "style": "sfx"
+        }
+      ]
+    },
+    {
+      "src": "clip4.mp4",
+      "from": 0,
+      "to": 10,
+      "credit": "thecubsyear",
+      "yt": "94X0xmi5CDo",
+      "say": "a4.mp3",
+      "text": "그 이닝에만 팔 점, 그중 다섯 점은 실책 때문에 비자책이었어. 컵스는 삼 대 팔로 졌고, 칠차전도 내줬어.",
+      "kick": "8회 8실점",
+      "head": "8점 중<br><b>5점 비자책</b>",
+      "sub": "8회 8실점, 3:8 패 → 7차전도 패",
+      "note": "출처: SI·SABR · 영상: thecubsyear",
+      "fx": [
+        {
+          "at": 1.5,
+          "text": "8실점",
+          "style": "pop",
+          "pos": "low"
+        }
+      ]
+    }
+  ],
+  "end": {
+    "look": "profile",
+    "head": "범인은 관중이<br><b>아니었다</b>",
+    "cta": "야구 친구한테 보내 줘",
+    "say": "a5.mp3",
+    "text": "야구 친구한테 보내 줘."
+  }
+}
