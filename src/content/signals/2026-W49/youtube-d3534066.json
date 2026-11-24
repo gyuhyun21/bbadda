@@ -1,0 +1,27 @@
+{
+  "id": "youtube-d3534066",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "SSG랜더스",
+  "url": "https://www.youtube.com/watch?v=PXZgKGAaL8g",
+  "title": "2026 KBO 골든글러브 유격수 부문 후보에 오른 우리들의 자랑스러운 유격수, 박성한의 수상 기원 영상!🏆",
+  "published_at": "2026-11-24T09:00:02Z",
+  "collected_at": "2026-11-24T21:37:38.533Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 38079,
+    "likes": 2125,
+    "comments": 128
+  },
+  "scores": {
+    "hot": 98,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

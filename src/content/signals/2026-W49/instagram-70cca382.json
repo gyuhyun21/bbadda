@@ -1,0 +1,27 @@
+{
+  "id": "instagram-70cca382",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "instagram",
+  "official": true,
+  "source_name": "Instagram @ktwiz.pr",
+  "url": "https://www.instagram.com/reel/DgHlXn-v4yp/",
+  "title": "KT 위즈 공식 인스타그램: 일어나 행군 가야지 🫡",
+  "published_at": "2026-11-24T09:00:04+0000",
+  "collected_at": "2026-11-24T21:37:38.533Z",
+  "summary_ko": "KT 위즈 공식 인스타그램이 팬페스티벌 영상 '일어나 행군 가야지'를 올렸다.",
+  "metrics": {
+    "likes": 1308,
+    "comments": 7
+  },
+  "scores": {
+    "hot": 63,
+    "relevance": 50
+  },
+  "sentiment": "neutral",
+  "brief_ko": "팬페스티벌 행군 영상 공개"
+}

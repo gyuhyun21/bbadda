@@ -1,0 +1,23 @@
+{
+  "id": "news-9cac9cd1",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB0N092Y01ER3hCYW9hWmJyNkdfWE14WmxwalBoUjB1NXQ1Rk1XbHJhOWN1R0docEU0cGNVU1JGQWhVNXNLUzdzUkZvUlFNajNFWlhTRlpXNmp1dW1GR0JST3NiVzViUkM1b3FaQkU2MNIBb0FVX3lxTFB0N092Y01ER3hCYW9hWmJyNkdfWE14WmxwalBoUjB1NXQ1Rk1XbHJhOWN1R0docEU0cGNVU1JGQWhVNXNLUzdzUkZvUlFNajNFWlhTRlpXNmp1dW1GR0JST3NiVzViUkM1b3FaQkU2MA?oc=5",
+  "title": "\"공수주 한단계 발전\" 이범호 마캠 대만족, 타격되면 호령존 이어받나...19살 김민규 크는 재미도 쏠쏠해졌다",
+  "published_at": "2026-11-24T10:40:00.000Z",
+  "collected_at": "2026-11-24T21:37:38.533Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

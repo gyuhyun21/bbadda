@@ -1,0 +1,26 @@
+{
+  "id": "youtube-5001e1f4",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "source_name": "맛있스포츠 Deliciousports",
+  "url": "https://www.youtube.com/watch?v=aZsFSn7aMLQ",
+  "title": "\"노시환 미국 진출하면\" 한화도 FA참전 ㄷㄷㄷ",
+  "published_at": "2026-11-24T14:26:16Z",
+  "collected_at": "2026-11-24T21:37:38.533Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 34994,
+    "likes": 147,
+    "comments": 32
+  },
+  "scores": {
+    "hot": 61,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

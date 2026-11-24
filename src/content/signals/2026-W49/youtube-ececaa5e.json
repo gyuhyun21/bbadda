@@ -1,0 +1,26 @@
+{
+  "id": "youtube-ececaa5e",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "초날도TV",
+  "url": "https://www.youtube.com/watch?v=dVz38OmfEXY",
+  "title": "합리적 구단? 우리는 ‘거지구단’이라 부릅니다｜KIA에 묻는다#KIA타이거즈 #기아타이거즈 #합리적소비 #FA시장 #스토브리그 #리빌딩 #전력보강 #구단운영 #KBO #프로야구",
+  "published_at": "2026-11-24T15:08:45Z",
+  "collected_at": "2026-11-24T21:37:38.533Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1062,
+    "likes": 4,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 41,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

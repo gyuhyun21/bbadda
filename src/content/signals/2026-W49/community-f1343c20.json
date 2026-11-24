@@ -1,0 +1,24 @@
+{
+  "id": "community-f1343c20",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/10592175011",
+  "title": "중위 현시점 투수 1등 - 야구",
+  "published_at": "2026-11-24T11:37:38.533Z",
+  "collected_at": "2026-11-24T21:37:38.533Z",
+  "summary_ko": "",
+  "excerpt": "... OSEX)LCK 스토브리그 마무리 단계에서 기아타이거즈 제우스 외야수 영입으로 하이재킹 [3].",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

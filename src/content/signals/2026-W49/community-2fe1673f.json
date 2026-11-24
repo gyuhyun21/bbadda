@@ -1,0 +1,24 @@
+{
+  "id": "community-2fe1673f",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 히도리",
+  "url": "https://hidori.kr/861",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/AQNTte2civg",
+  "title": "문수야구장 유스호스텔 장기 검토로 보류, 277억 들여 관람석 2만 석 증축 추진",
+  "published_at": "2026-11-25T03:23:20.000+09:00",
+  "collected_at": "2026-11-24T21:37:38.533Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "community-353d4ea8",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 댕댕‘S",
+  "url": "https://blog.naver.com/breadjin722/224490280333",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/iaGiCe2976",
+  "title": "2026 KBO 시상식 26일 개최, MVP 발표 전에 볼 첫 유틸리티 수비상",
+  "published_at": "2026-11-24T19:23:00.000+09:00",
+  "collected_at": "2026-11-24T21:37:38.533Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

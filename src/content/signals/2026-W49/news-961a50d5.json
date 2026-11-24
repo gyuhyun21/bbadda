@@ -1,0 +1,23 @@
+{
+  "id": "news-961a50d5",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "더팩트",
+  "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE02YXN6ZjYzZjFVbGxuZzhlZHFsZ3FMd0FETmdBRFk2dTRITWkxZTdvQ0lFU29VYVJ2eU9LUnExRVJFZk1CSTFQQUtMS0JyZHdvQkYwODdQOXDSAVNBVV95cUxPaV9JQVZqOGdxbE94NEV4RG05ZGMxSkhmWDMzai14SzM1UjlDMGhWUkpabU9LQ3VwOVE1SjhMQ1c3bXR3NERxUWYzZFltdWRGaGp3RQ?oc=5",
+  "title": "이동욱의 ‘스마트 야구’ 주목...한국 야구의 새 패러다임 '기대' [김대호의 야구생각]",
+  "published_at": "2026-11-24T03:53:00.000Z",
+  "collected_at": "2026-11-24T21:37:38.533Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 62,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

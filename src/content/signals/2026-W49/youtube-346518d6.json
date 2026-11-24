@@ -1,0 +1,26 @@
+{
+  "id": "youtube-346518d6",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "youtube",
+  "source_name": "연필야구",
+  "url": "https://www.youtube.com/watch?v=LIY4qkrMpqM",
+  "title": "원태인 NC행? 단장 \"관심 맞다\" #원태인 #NC다이노스",
+  "published_at": "2026-11-24T12:30:11Z",
+  "collected_at": "2026-11-24T21:37:38.533Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1305,
+    "likes": 3,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 42,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "community-68c9dc7a",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 BBC 미디어센터",
+  "url": "https://blog.naver.com/sunhoo272/224490587188",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/4BBZhyk02QQ",
+  "title": "FA 시장의 뜨거운 감자, 삼성의 '집토끼' 사수 전략은?",
+  "published_at": "2026-11-25T00:05:00.000+09:00",
+  "collected_at": "2026-11-24T21:37:38.533Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

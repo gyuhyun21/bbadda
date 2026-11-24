@@ -1,0 +1,24 @@
+{
+  "id": "news-21a358c2",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠월드",
+  "url": "https://www.sportsworldi.com/newsView/20261124518914",
+  "title": "[SW인터뷰] “많이 배워갑니다” 9년 만에 다시 선 마무리캠프, 구승민의 뜨거운 겨울",
+  "published_at": "2026-11-24T11:25:54.000Z",
+  "collected_at": "2026-11-24T21:37:38.533Z",
+  "summary_ko": "구승민이 9년 만에 마무리캠프에 참가해 \"많이 배워간다\"고 말했다고 스포츠월드가 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "구승민, 9년 만의 마무리캠프"
+}

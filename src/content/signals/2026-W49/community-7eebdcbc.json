@@ -1,0 +1,23 @@
+{
+  "id": "community-7eebdcbc",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 내일의 라인업",
+  "url": "https://blog.naver.com/070seoul/224490802625",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/9CP6574DzaZ",
+  "title": "MLB 67홈런 최지만이 계약금 0원? KT는 왜 35세 타자에게 2라운드 지명권을 썼나",
+  "published_at": "2026-11-25T04:36:00.000+09:00",
+  "collected_at": "2026-11-24T21:37:38.533Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

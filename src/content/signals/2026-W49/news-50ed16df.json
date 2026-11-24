@@ -1,0 +1,23 @@
+{
+  "id": "news-50ed16df",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "https://www.asportstv.kr/",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5nMDZRcTFqb2RCbUtScHloak1UMXpPaGxyVWk3S0NwUk1HdE1qa253dEFSSG12Um1wZnhHY2QzZkgtaUN1T1BOVVp2MVFoOEZaOEI4RDgwSU9DVlJUUV8tUFN6eFVxTmE4?oc=5",
+  "title": "'최고 154km 좌완 파이어볼러' MLB 풀타임 선발 수아레즈 품었다",
+  "published_at": "2026-11-24T08:11:25.000Z",
+  "collected_at": "2026-11-24T21:37:38.533Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

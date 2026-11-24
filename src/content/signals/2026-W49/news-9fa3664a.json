@@ -1,0 +1,36 @@
+{
+  "id": "news-9fa3664a",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "news",
+  "source_name": "연합뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBpd05LN3ZQcloxN2tsOGY5dTU2ZjRsV1hwYmlKWS1qVzVQSC1GYnpjeVozM3M4ZF8yems1NFBwdzdMU0NWNFBaSFBNVXNXSW1NVExjdW9wZGVrX1FuMEFWb9IBYEFVX3lxTFBpd05LN3ZQcloxN2tsOGY5dTU2ZjRsV1hwYmlKWS1qVzVQSC1GYnpjeVozM3M4ZF8yems1NFBwdzdMU0NWNFBaSFBNVXNXSW1NVExjdW9wZGVrX1FuMEFWbw?oc=5",
+  "title": "두산, 29일간 미야자키 마무리 캠프 마치고 25일 귀국",
+  "published_at": "2026-11-24T06:26:00.000Z",
+  "collected_at": "2026-11-24T21:37:38.533Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 95,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "일간스포츠",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAzSHJoS0huc2Z3M1J6emdDbXJ2dDZBZ3E0dHFSTEJFYnZoRGlLLVpJcGJMY2J4QWdEc0pJckgydDYzc01rYkZZdVZLT3FCelBVeXdsQUVPcW1BN3c?oc=5"
+    },
+    {
+      "source_name": "STN SPORTS",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA5QkNXd0I2ZHE1Y2Exd3liSVc5YjBmNVhSLTcyb0IwenRmNDY5MXhZdThOaXdxMnpDdGxQWWl6cndmUm1aMGVLWTA1eHdFbE5SUVlpcFdXVU96azVsVlhrd0NvUHV5WkNfNTNXSlBJQQ?oc=5"
+    },
+    {
+      "source_name": "매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9aZWliTXJNMnExVTFYT3VaZnBUeTRNUUxaQzZEUHZxeTFFdlNRaG1hbV9QUnNaVmR2ektNVEdyWUcydV9sWTJnb2tOZTZNUGJhazR3?oc=5"
+    }
+  ]
+}

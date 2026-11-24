@@ -1,0 +1,29 @@
+{
+  "id": "news-bd0177bb",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "m.maniareport.com",
+  "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE44NTdzdzFqaFBGT0pPSjZBSUU3b3pHUGh6MC0ycmVsbnJ6cEJUTE5NcnlfZDh6Y3Zic2xlQlhRWGJiX2cwUWNhdFhOT2s1dndLVUtmeWVGS2c0Znh4WERCVHJQMld2WE5jREphakxlWGR4X3BPX2tTZDdfRQ?oc=5",
+  "title": "외인 연봉 1,000만 달러 시대 연 일본, 100만 달러에 갇힌 한국… 스스로 족쇄 채운 KBO 구단들의 '자가당착'",
+  "published_at": "2026-11-23T22:28:00.000Z",
+  "collected_at": "2026-11-24T21:37:38.533Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "마니아타임즈",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE44NTdzdzFqaFBGT0pPSjZBSUU3b3pHUGh6MC0ycmVsbnJ6cEJUTE5NcnlfZDh6Y3Zic2xlQlhRWGJiX2cwUWNhdFhOT2s1dndLVUtmeWVGS2c0Znh4WERCVHJQMld2WE5jREphakxlWGR4X3BPX2tTZDdfRQ?oc=5"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "community-af3efdf4",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "엠엘비파크",
+  "url": "https://mlbpark.donga.com/mp/b.php?id=202611190120203811&p=1&b=kbotown&m=view&select=spf&query=%EC%82%BC%EC%84%B1&site=naver.com",
+  "title": "최근 삼성라이온즈를 보고 있자면..",
+  "published_at": "2026-11-18T15:00:00.000Z",
+  "collected_at": "2026-11-24T21:37:38.533Z",
+  "summary_ko": "",
+  "excerpt": "... 구단이 팬들과 선수들을 위하고, 팬들도 열렬히 팀을 응원하며, 선수들도 삼성이란 소속에…",
+  "metrics": {},
+  "scores": {
+    "hot": 14,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

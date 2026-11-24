@@ -1,0 +1,24 @@
+{
+  "id": "news-4e000a77",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠동아",
+  "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5oank0NlRiZ0VFYm1ZM29TOGNDUTg5bU5seVlKbjZSQjRwR2xOQ016WVYxQWc1aUhmZG50TmV1MjdaT1ZjMXVHbU03VXpvWkJfUFc3YmExRGFPYXRSVW0yUUdSSFRLTDhEZ2pGcGkzcWItZw?oc=5",
+  "title": "‘마감 1주일 남아’ 노시환, ML 진출 가능한가? ‘보장 계약이 관건’",
+  "published_at": "2026-11-24T10:20:49.000Z",
+  "collected_at": "2026-11-24T21:37:38.533Z",
+  "summary_ko": "스포츠동아는 노시환의 MLB 포스팅 마감이 1주일 남았고, 보장 계약 여부가 관건이라고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "노시환 포스팅, 마감 1주일 앞"
+}

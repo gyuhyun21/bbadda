@@ -1,0 +1,23 @@
+{
+  "id": "news-1a4eadb3",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "news",
+  "source_name": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20261124_0003881647",
+  "title": "'KT행' 최지만, 울산과의 약속 지켰다…야구 꿈나무에 500만원 상당 용품 지원",
+  "published_at": "2026-11-24T10:01:38.000Z",
+  "collected_at": "2026-11-24T21:37:38.533Z",
+  "summary_ko": "KT행이 확정된 최지만이 울산 야구 꿈나무에게 500만 원 상당의 용품을 지원했다고 뉴시스가 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 72,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "최지만, 울산에 500만 원 용품 지원"
+}

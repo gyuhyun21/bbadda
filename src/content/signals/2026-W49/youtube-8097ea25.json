@@ -1,0 +1,26 @@
+{
+  "id": "youtube-8097ea25",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "youtube",
+  "source_name": "야구는 왜그럴까",
+  "url": "https://www.youtube.com/watch?v=HuORvmdIojk",
+  "title": "홈런은 NC에서 치고 자랑은 전 감독님한테ㅋㅋ",
+  "published_at": "2026-11-24T21:00:14Z",
+  "collected_at": "2026-11-24T21:37:38.533Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 636,
+    "likes": 5,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 42,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

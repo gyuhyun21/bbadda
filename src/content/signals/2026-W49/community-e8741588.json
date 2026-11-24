@@ -1,0 +1,30 @@
+{
+  "id": "community-e8741588",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 소소한 날들의 기록",
+  "url": "https://notion82594.tistory.com/493",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/4ZEvEo9mfQG",
+  "title": "MLB 335홈런 카를로스 산타나 KBO 진출설!",
+  "published_at": "2026-11-24T17:37:42.000+09:00",
+  "collected_at": "2026-11-24T21:37:38.533Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 71,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "뉴스핌",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5yOUQ3LThmeHhDSnJxTnRodWN3STJkdExXbEpYNDNJVXdxVFp4SU8tZS1NbVk0aGprYVVLSk9yRU5CUlFJcElMRFVBVnpEcnVvMkhac3I5YlNUTkQt?oc=5"
+    }
+  ]
+}

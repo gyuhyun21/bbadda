@@ -1,0 +1,23 @@
+{
+  "id": "community-86de70a7",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 쟈니의 블로그",
+  "url": "https://blog.naver.com/jara75win/224490667527",
+  "title": "야구 20년 황재균, 은퇴 뒤 축제에서 춤추며 찾은 재미",
+  "published_at": "2026-11-25T00:33:00.000+09:00",
+  "collected_at": "2026-11-24T21:37:38.533Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

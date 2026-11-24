@@ -1,0 +1,22 @@
+{
+  "id": "news-1c454b49",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "Naver Blog",
+  "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRlNSQnVUNW54VENCVkN3cDlwSnl4cnU3VlRraUJ6MHdMVmtYUmh0aTZ6aFo3ZHg0ajVhd290NV9UZG5mYTgzX1N6TnhWSHR0ZUVMSEF0SjlqclhOMGR5Q1pCYkItUEU2bzBoOHlwcld6QjBKd0hKRkRnRGpJRHpiNkNjZ0lEX2Fhc1BsOVVhZHpkUmFj?oc=5",
+  "title": "‘LG가 박용택만큼 기대를 걸었던 특급 유망주’ LG에서는 끝내 터지지 못한 이 선수, LG 안치용(KBO)",
+  "published_at": "2026-11-24T15:24:32.000Z",
+  "collected_at": "2026-11-24T21:37:38.533Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

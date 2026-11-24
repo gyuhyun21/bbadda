@@ -1,0 +1,26 @@
+{
+  "id": "youtube-bc3c5d75",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "youtube",
+  "source_name": "크보시리즈",
+  "url": "https://www.youtube.com/watch?v=5Lhg6z3AuHA",
+  "title": "안타왕 몸값, 170만으론 부족? #롯데자이언츠 #레이예스",
+  "published_at": "2026-11-24T14:19:12Z",
+  "collected_at": "2026-11-24T21:37:38.533Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 7126,
+    "likes": 46,
+    "comments": 15
+  },
+  "scores": {
+    "hot": 55,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

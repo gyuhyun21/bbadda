@@ -1,0 +1,27 @@
+{
+  "id": "youtube-c6023a8d",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "youtube",
+  "announcement": true,
+  "source_name": "크보쌍둥이",
+  "url": "https://www.youtube.com/watch?v=7-7tqFGxCAU",
+  "title": "[오피셜] 조성환 두산 2군감독으로 복귀! 박준순 김민석 키웠던 조성환 이번에는? #두산베어스 #박준순 #김민석 #곽빈 #최민석",
+  "published_at": "2026-11-24T16:50:47Z",
+  "collected_at": "2026-11-24T21:37:38.533Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 5731,
+    "likes": 82,
+    "comments": 27
+  },
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

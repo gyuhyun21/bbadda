@@ -1,0 +1,23 @@
+{
+  "id": "news-3cca2ece",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "더게이트",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4xOGhTQWItc3dLcXdURkU1TnBXQW56dnlxVG5fSjdiUEgxOUFldXJNNWI2aEF3bHRHN2lraklEOFllcFdFZmRGSmhfTDZ6aFFfNzlxQnhPWC05NF8xRFNSamhLXzFlWWlu0gFsQVVfeXFMTUxpNTc4RHJHblM3LVdhdGpFYVFQdGhnSkxhRC1xWmxRY2RJR0dLMDg4ckhKNW04b1ctRG1EV3h6Qkx4b2FsUXk2WUxHVG8yZTNobExnVDVvS0lQVU9SX25jR0NsZGlpYV9WWk4z?oc=5",
+  "title": "롯데 아쿼는 日 중견수? 입단 테스트 완료...수비 '합격' 타격 '유보', 이동욱 감독 선택만 남았다",
+  "published_at": "2026-11-24T09:59:59.000Z",
+  "collected_at": "2026-11-24T21:37:38.533Z",
+  "summary_ko": "더게이트는 롯데 아시아쿼터 후보인 일본 중견수가 입단 테스트에서 수비는 합격, 타격은 판단 유보를 받았다고 전했다. 결정은 이동욱 감독에게 남았다.",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "아쿼 日 중견수, 수비는 합격"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "youtube-70f2f55b",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "nc"
+  ],
+  "source_type": "youtube",
+  "source_name": "지니의 꿀정보",
+  "url": "https://www.youtube.com/watch?v=kbeYAn1mqKA",
+  "title": "삼성 우승 주역, 다 뺏기나 — NC 가세에 FA 시장 흔들린다",
+  "published_at": "2026-11-24T20:12:27Z",
+  "collected_at": "2026-11-24T21:37:38.533Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 93,
+    "likes": 1,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 33,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

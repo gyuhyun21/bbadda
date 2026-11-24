@@ -1,0 +1,23 @@
+{
+  "id": "news-aea832c1",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "파이트타임즈",
+  "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9DWUtzNzZjR1phSHV6TXpiaUt4Wkt5a2JoOGtKc1VFeHhfQWF1ZzQtZWlyM24xckZkZUlDMmlmSUtaMDFvYmlReWo0LVRfbHljR01DMzgtZ0lwSWJMdGpaSzQycmM?oc=5",
+  "title": "분명 안타였는데… 2026 KBO리그 호수비 명장면 6선",
+  "published_at": "2026-11-24T16:08:26.000Z",
+  "collected_at": "2026-11-24T21:37:38.533Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

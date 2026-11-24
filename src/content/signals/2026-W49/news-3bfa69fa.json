@@ -1,0 +1,24 @@
+{
+  "id": "news-3bfa69fa",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠동아",
+  "url": "https://sports.donga.com/sports/article/all/20261125/135080019/1",
+  "title": "“재계약 염두하고 진행”…네일-올러-카스트로 동행? 걸림돌은 ‘연봉 상한제’",
+  "published_at": "2026-11-24T15:38:43.000Z",
+  "collected_at": "2026-11-24T21:37:38.533Z",
+  "summary_ko": "스포츠동아는 KIA가 네일·올러·카스트로와 재계약을 염두에 두고 있지만, 외국인 연봉 상한제가 걸림돌이라고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "외인 3명 재계약, 걸림돌은 상한제"
+}
