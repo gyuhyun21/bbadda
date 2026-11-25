@@ -1,0 +1,23 @@
+{
+  "id": "news-44ae444a",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "iMBC 연예",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE01TjJVYlF3ZlhPT0NGTmZSb2YtNlNxcjRLQUp2S1JUT2VKajhBTW9VNkFoMTloWTZZU2VzdHItWHlpUHJudFNwNGtXOThxc2l3cU4wSg?oc=5",
+  "title": "최형우 \"과거 입스 와서 방출…돈벌이 위해 막노동\" (유퀴즈)",
+  "published_at": "2026-11-25T13:26:00.000Z",
+  "collected_at": "2026-11-25T21:37:42.013Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

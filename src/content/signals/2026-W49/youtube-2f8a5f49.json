@@ -1,0 +1,26 @@
+{
+  "id": "youtube-2f8a5f49",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "youtube",
+  "source_name": "데자뷰",
+  "url": "https://www.youtube.com/watch?v=XKskv7qRc7I",
+  "title": "키움히어로즈유니폼 추천, 핫템 모아보기 가성비 TOP5",
+  "published_at": "2026-11-25T18:18:14Z",
+  "collected_at": "2026-11-25T21:37:42.013Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 0,
+    "likes": 0,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 40,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

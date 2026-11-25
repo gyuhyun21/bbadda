@@ -1,0 +1,23 @@
+{
+  "id": "news-64d3f7e9",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "SPOTV NEWS",
+  "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1021857",
+  "title": "C등급 전병우도 에이전트 없다, 직접 단장 만났다…뺏길 수 없는 삼성 \"당연히 필요한 선수\"",
+  "published_at": "2026-11-25T15:11:00.000Z",
+  "collected_at": "2026-11-25T21:37:42.013Z",
+  "summary_ko": "C등급 FA 전병우가 에이전트 없이 단장을 직접 만났다. 삼성은 '당연히 필요한 선수'라며 잔류에 무게를 뒀다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "전병우, 단장과 직접 협상"
+}

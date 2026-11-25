@@ -1,0 +1,22 @@
+{
+  "id": "news-be0d30c9",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "일간스포츠",
+  "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1icUdWTGJTb2FNNzdUemtNT1dCOHVUZ1F5a25YZE8tcmNMY2xDUWZXQU9HT0tVaDVGSGZOVFpLci1vVWJOd29qMV9uLU5aUUQwTmlWY3RKRkptNkE?oc=5",
+  "title": "박성한-레이예스 기록상 2파전, 레벨업상 롯데 집안싸움, 점프업은 최민석 유력? [마르디 메크르디 프로야구대상]",
+  "published_at": "2026-11-25T21:25:00.000Z",
+  "collected_at": "2026-11-25T21:37:42.013Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

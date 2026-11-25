@@ -1,0 +1,23 @@
+{
+  "id": "news-a29db14c",
+  "issue": "2026-W49",
+  "module": "rivalry",
+  "team": "lotte",
+  "teams": [
+    "lotte",
+    "nc"
+  ],
+  "source_type": "news",
+  "source_name": "마이데일리",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE84VGdLMi1ZQ1NDcVFfRm1hdmZqY01abENFWTRrd294LTctYWNDdnoyQjlkUmNVU3NsNFBjdFVMNGoyTXVoeV9DdXgyUVFxaUxwQUdWX1dNZ0gzMzNoSDU5dg?oc=5",
+  "title": "“롯데 연락, 기대 안 했다면 거짓말” NC에 복귀한 손아섭은 은근히 부산행을 꿈꿨다…재빨리 현실 자각",
+  "published_at": "2026-11-25T15:36:54.000Z",
+  "collected_at": "2026-11-25T21:37:42.013Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

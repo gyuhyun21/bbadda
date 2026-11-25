@@ -1,0 +1,22 @@
+{
+  "id": "news-20e2c159",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "JTBC",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1tS1dIZVBBM3lxaTBvcE9aREk5LW1yQUlSZzV6QmlXUkFMRG9QODItR0JGSEc0M1NkZjMyNDhCR19VMGdZTWVlNldZUER5NXpVQTdNSA?oc=5",
+  "title": "FA에도 ‘팬심’ 위력 발휘…LG-박용택 계약 뒷 이야기",
+  "published_at": "2026-11-24T23:43:13.000Z",
+  "collected_at": "2026-11-25T21:37:42.013Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 60,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

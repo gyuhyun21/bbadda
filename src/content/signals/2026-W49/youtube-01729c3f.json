@@ -1,0 +1,27 @@
+{
+  "id": "youtube-01729c3f",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc",
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "스포츠 이슈 브리핑",
+  "url": "https://www.youtube.com/watch?v=YNpUYtqe1E8",
+  "title": "FA 최대어 원태인, NC도 뛰어들었다? 임선남 단장 \"관심 있는 건 맞다\"…삼성은 \"둘 다 잡겠다\" #shorts",
+  "published_at": "2026-11-25T21:19:15Z",
+  "collected_at": "2026-11-25T21:37:42.013Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 165,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 25,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "youtube-d6823e8c",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "source_name": "이글스라인업",
+  "url": "https://www.youtube.com/watch?v=MP02tkpWZcM",
+  "title": "노시환 대신 골드슈미트? 메츠 소식에서 구분해야 할 것 #한화이글스",
+  "published_at": "2026-11-25T16:15:39Z",
+  "collected_at": "2026-11-25T21:37:42.013Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1511,
+    "likes": 10,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 41,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

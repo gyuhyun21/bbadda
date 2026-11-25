@@ -1,0 +1,23 @@
+{
+  "id": "news-fb25768d",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스타뉴스",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8wRll5LWZrMk5iMmNXWHo4VWMzNHQybS11SlYwVjNoTEdHTVBXVnJRdWpFZ1NYckpLMVc3REhWbmxwbHJXWmlaejNOWVBLQlU0Q0E1RUJnZ2pVMExQM0VaNTVCZ1dIU193T18zMnlvbEhHU21HU2c?oc=5",
+  "title": "'1611억 3루수' 사토 사라진 FA 시장, \"포스팅 선수 중엔 오직 노시환\"... 양키스-토론토 경쟁 붙붙을까",
+  "published_at": "2026-11-25T16:01:00.000Z",
+  "collected_at": "2026-11-25T21:37:42.013Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

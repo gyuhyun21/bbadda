@@ -1,0 +1,22 @@
+{
+  "id": "community-e87cb116",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 스포츠 수다방",
+  "url": "https://blog.naver.com/chankorea17/224490888551",
+  "title": "\"노사 갈등의 첫 희생자\" 美 매체가 지목한 LG 새 외국인 투수",
+  "published_at": "2026-11-25T10:20:00.000+09:00",
+  "collected_at": "2026-11-25T21:37:42.013Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 61,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

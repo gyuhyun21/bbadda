@@ -1,0 +1,23 @@
+{
+  "id": "news-f00406a9",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "MHN스포츠",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9KRDhweDBUUnBtRmFCYngzTXRLMFdSek5Yb0FjeXJoZHNIaHVVNVZtd0tnaTgwU1p6VS0zQWpZaElGRk9EZlBxN3JGOTQ5VklJUEpfS2Y4Yk5DT3Q2UFBScFdTTQ?oc=5",
+  "title": "‘같은 3루수’ 사토는 1620억, 노시환은? MLB 4개 팀으로 좁혀졌다…계약 임박?",
+  "published_at": "2026-11-25T08:15:58.000Z",
+  "collected_at": "2026-11-25T21:37:42.013Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

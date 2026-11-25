@@ -1,0 +1,24 @@
+{
+  "id": "news-7a643ccd",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "마이데일리",
+  "url": "https://www.mydaily.co.kr/page/view/2026112603375722231",
+  "title": "“45홈런을 친 선수가 유격수로 가면…” 꽃범호가 천하의 김도영을 걱정하다니, 심지어 수비도 아니고 이것을",
+  "published_at": "2026-11-25T21:10:00.000Z",
+  "collected_at": "2026-11-25T21:37:42.013Z",
+  "summary_ko": "이범호 감독이 유격수로 옮기는 김도영을 두고 45홈런 타자의 부담을 걱정했다고 마이데일리가 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "brief_ko": "이범호, 유격수 김도영 걱정"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "community-ddc16610",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 쑤니부부의 투자 이야기",
+  "url": "https://blog.naver.com/sooneebubu/224491311492",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/30rKtGMjku8",
+  "title": "MLB 최저연봉 100만 달러 시대 온다? KBO 외국인 투수 영입 비상! 우리도 연봉 상한 높여야 한다!!!",
+  "published_at": "2026-11-25T12:35:00.000+09:00",
+  "collected_at": "2026-11-25T21:37:42.013Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 62,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

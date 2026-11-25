@@ -1,0 +1,22 @@
+{
+  "id": "news-6c1a8714",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "KBS 뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB6ajUxSnM0WkxFM1dmNE1xSnRuM2IxWlNGalpIbkpEbTIzTUdpVm11SjRGeHBqNC1URVc2eUp4TFlGa2FreThMYWh2SS1wMkVzMG4xUk1CeFNWQVlHNkJCM0ZNMFMtUQ?oc=5",
+  "title": "[같이경제] 삼성라이온즈 우승…지역 경제 효과 높이려면?",
+  "published_at": "2026-11-25T10:28:00.000Z",
+  "collected_at": "2026-11-25T21:37:42.013Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

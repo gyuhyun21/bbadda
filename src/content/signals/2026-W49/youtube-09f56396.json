@@ -1,0 +1,26 @@
+{
+  "id": "youtube-09f56396",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "youtube",
+  "source_name": "러움",
+  "url": "https://www.youtube.com/watch?v=eJT64G6gcco",
+  "title": "2026시즌 두산 베어스 김대한 홈런 모음",
+  "published_at": "2026-11-25T13:38:47Z",
+  "collected_at": "2026-11-25T21:37:42.013Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 3,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

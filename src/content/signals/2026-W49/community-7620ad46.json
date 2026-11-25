@@ -1,0 +1,24 @@
+{
+  "id": "community-7620ad46",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte",
+    "doosan"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 영남체육신문",
+  "url": "https://ynsportnews.tistory.com/275",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/4KsvBO6oK0X",
+  "title": "'롯데의 캡틴은 왜 또 두산으로 향했나' 1군 감독대행에서 2군 사령탑으로… 조성환의 세 번째 두산행",
+  "published_at": "2026-11-25T23:29:07.000+09:00",
+  "collected_at": "2026-11-25T21:37:42.013Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

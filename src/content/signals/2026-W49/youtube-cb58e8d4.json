@@ -1,0 +1,26 @@
+{
+  "id": "youtube-cb58e8d4",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "기아타이거즈 사랑남",
+  "url": "https://www.youtube.com/watch?v=nrhYm3DTIXs",
+  "title": "엪모 와 나성범 이 만난다면? #기아타이거즈 #야구 #기아 #baseball #kia #fcmobile #music #타이거즈",
+  "published_at": "2026-11-25T13:44:33Z",
+  "collected_at": "2026-11-25T21:37:42.013Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 733,
+    "likes": 3,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 36,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

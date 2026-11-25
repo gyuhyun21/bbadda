@@ -1,0 +1,23 @@
+{
+  "id": "community-70baef32",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "community",
+  "source_name": "레딧 r/KBO",
+  "url": "https://www.reddit.com/r/KBO/comments/1y4sj11/fedde_declines_nc_dinos_return_offer/",
+  "title": "Fedde Declines NC Dinos' Return Offer",
+  "published_at": "2026-11-24T23:37:42.013Z",
+  "collected_at": "2026-11-25T21:37:42.013Z",
+  "summary_ko": "",
+  "excerpt": "... Fedde Declines NC Dinos Return Offer Former 20-win pitcher opts for MLB challenge over…",
+  "metrics": {},
+  "scores": {
+    "hot": 60,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

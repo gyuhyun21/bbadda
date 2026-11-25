@@ -1,0 +1,22 @@
+{
+  "id": "community-48b64f47",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 스포츠 브리핑",
+  "url": "https://blog.naver.com/sportsbrief/224490908471",
+  "title": "NC 페디 복귀 또 거절! \"20승 MVP에 최대 조건까지\" 끝내 미국 택한 이유",
+  "published_at": "2026-11-25T07:38:00.000+09:00",
+  "collected_at": "2026-11-25T21:37:42.013Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 60,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

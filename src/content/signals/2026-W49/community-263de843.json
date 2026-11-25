@@ -1,0 +1,23 @@
+{
+  "id": "community-263de843",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 이슈블링",
+  "url": "https://blog.naver.com/9sung100/224491516980",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/6indlZ1O8Y3",
+  "title": "삼성라이온즈 우승 카퍼레이드, 11월 29일 대구 도심이 들썩인다!",
+  "published_at": "2026-11-25T14:48:00.000+09:00",
+  "collected_at": "2026-11-25T21:37:42.013Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 62,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

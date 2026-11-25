@@ -1,0 +1,23 @@
+{
+  "id": "news-51af86de",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "Howl.Link",
+  "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE0tMHRCTWRaUE1oSXdqbERFUmdVbmFUc3pNM1dHSWQ5UzNRVEp0MWZPQWNtQnRMd1Vac2E0?oc=5",
+  "title": "'요즘 아기 사자들은 퍼포먼스가 차원이 달라' 병 | 2027 신인선수 환영회",
+  "published_at": "2026-11-25T09:00:28.000Z",
+  "collected_at": "2026-11-25T21:37:42.013Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

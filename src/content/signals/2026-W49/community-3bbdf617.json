@@ -1,0 +1,24 @@
+{
+  "id": "community-3bbdf617",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "엠엘비파크",
+  "url": "https://mlbpark.donga.com/mp/b.php?id=202611140120098382&p=1&b=kbotown&m=view&site=donga.com",
+  "title": "류지현 감독에게 훈련 도중 잔소리 듣은 황영묵 선수",
+  "published_at": "2026-11-13T15:00:00.000Z",
+  "collected_at": "2026-11-25T21:37:42.013Z",
+  "summary_ko": "",
+  "excerpt": "... 뭐하는 거야 한화이글스에는 그런 야구 없어 . 야 그런 야구가 어디 있어 . 글러브로…",
+  "metrics": {},
+  "scores": {
+    "hot": 8,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

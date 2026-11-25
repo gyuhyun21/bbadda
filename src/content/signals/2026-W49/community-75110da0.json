@@ -1,0 +1,24 @@
+{
+  "id": "community-75110da0",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "엠엘비파크",
+  "url": "https://mlbpark.donga.com/mp/b.php?b=kbotown&id=202611180120181170",
+  "title": "타이거즈 시즌별 홈런 1위 선수는 누구?",
+  "published_at": "2026-11-17T15:00:00.000Z",
+  "collected_at": "2026-11-25T21:37:42.013Z",
+  "summary_ko": "",
+  "excerpt": "... 2026 KBO. 팀 순위 바로가기 · 포스트시즌 대진 · KIA타이거즈 시즌별 홈런 1위 선수는…",
+  "metrics": {},
+  "scores": {
+    "hot": 8,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

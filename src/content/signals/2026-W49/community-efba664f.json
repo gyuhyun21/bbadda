@@ -1,0 +1,24 @@
+{
+  "id": "community-efba664f",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&page=8&document_srl=10596503775",
+  "title": "내일아침11시에뭐뜹니다 - 야구",
+  "published_at": "2026-11-25T16:37:42.013Z",
+  "collected_at": "2026-11-25T21:37:42.013Z",
+  "summary_ko": "",
+  "excerpt": "... 롯데자이언츠의깜짝핵폭탄급무브먼트 [4] · PC · 다크ONOFF.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

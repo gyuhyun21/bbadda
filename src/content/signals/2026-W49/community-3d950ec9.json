@@ -1,0 +1,23 @@
+{
+  "id": "community-3d950ec9",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 민지씨",
+  "url": "https://blog.naver.com/wldwlddl256/224490852486",
+  "title": "KBO FA 원태인, 이적 0건인데 '이 구단' 먼저 움직였다?",
+  "published_at": "2026-11-25T07:30:00.000+09:00",
+  "collected_at": "2026-11-25T21:37:42.013Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 60,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}
