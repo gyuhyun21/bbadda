@@ -83,7 +83,8 @@
     "2026-11-21": "pool/24-catcher-interference",
     "2026-11-22": "pool/26-runner-hit-by-ball",
     "2026-11-23": "pool/28-unassisted-triple-play",
-    "2026-11-24": "pool/30-hidden-ball-trick"
+    "2026-11-24": "pool/30-hidden-ball-trick",
+    "2026-11-25": "pool/32-obstruction-walkoff"
   },
   "2026-11-12": [
     "2026-11-12-reel",
@@ -165,6 +166,7 @@
   ],
   "2026-11-25": [
     "2026-11-25-reel",
-    "pool/31-bautista-bat-flip"
+    "pool/31-bautista-bat-flip",
+    "pool/32-obstruction-walkoff"
   ]
 }
