@@ -1,0 +1,24 @@
+{
+  "id": "community-2d03b833",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 일기장",
+  "url": "https://blog.naver.com/we5274/224491045386",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/HQOnWBUzv18",
+  "title": "김하성 디트로이트 전격 계약, 1년 최대 600만 달러 조건과 주전 유격수 명예회복 기회 총정리",
+  "published_at": "2026-11-25T10:28:00.000+09:00",
+  "collected_at": "2026-11-25T13:37:45.822Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

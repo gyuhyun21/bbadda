@@ -1,0 +1,23 @@
+{
+  "id": "news-484014a1",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠경향",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5WTHJiS2F1cExqNGxneTNaMVRUSDA4My0xRHRMZW81dERaaUFjUGZTVGtNSzI2bllVQ05Ya202ekk3Q2FxV3ZIckcwcklGYTB2SHJEOEdLUzJwRm53SU1VeF96Z9IBY0FVX3lxTE5WTHJiS2F1cExqNGxneTNaMVRUSDA4My0xRHRMZW81dERaaUFjUGZTVGtNSzI2bllVQ05Ya202ekk3Q2FxV3ZIckcwcklGYTB2SHJEOEdLUzJwRm53SU1VeF96Zw?oc=5",
+  "title": "강민호·최형우 ‘유퀴즈’ 떴다…강민호 “우승 영상 보며 하루 시작”",
+  "published_at": "2026-11-25T03:15:00.000Z",
+  "collected_at": "2026-11-25T13:37:45.822Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 72,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

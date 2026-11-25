@@ -1,0 +1,24 @@
+{
+  "id": "news-85090b7e",
+  "issue": "2026-W49",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠경향",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5weWo2ZFUxa211Vlhtak8xOUhpOWZPVUNOblBuSW54d3ZiVTFrV3JsTjliR0h4ZVRMNnBHTmRIMHNacm9Cd0doamUzVjAxQ0VaRmFkWE5makhBTTlraWJscEluTdIBY0FVX3lxTE5weWo2ZFUxa211Vlhtak8xOUhpOWZPVUNOblBuSW54d3ZiVTFrV3JsTjliR0h4ZVRMNnBHTmRIMHNacm9Cd0doamUzVjAxQ0VaRmFkWE5makhBTTlraWJscEluTQ?oc=5",
+  "title": "‘대어’ 구자욱에게 쏠린 관심…FA 선언한 나머지 외야수들의 향방은",
+  "published_at": "2026-11-25T02:46:00.000Z",
+  "collected_at": "2026-11-25T13:37:45.822Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 72,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "community-3d83d542",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "community",
+  "announcement": true,
+  "source_name": "다음카페 樂soccer",
+  "url": "https://cafe.daum.net/rocksoccer/ADuT/374449",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/8S4geIeI6qQ",
+  "title": "[오피셜] 두산베어스, 퓨처스 조성환 감독·박정권 타격...",
+  "published_at": "2026-11-25T11:19:51.000+09:00",
+  "collected_at": "2026-11-25T13:37:45.822Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 96,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1vYnF0T0FsTmRGZVJJOGdwWXJ2UGNOMU50VW95Q2g0Zklwc2FPQTl5TGs5bnNOS2M5UVJWZE10SG1pV2ZILV9hN0VBeHFoYXBtN3JsQjFDLVIxMHYwaC03dWM2bVpOWUVzNXN0dnJnSdIBb0FVX3lxTE1vYnF0T0FsTmRGZVJJOGdwWXJ2UGNOMU50VW95Q2g0Zklwc2FPQTl5TGs5bnNOS2M5UVJWZE10SG1pV2ZILV9hN0VBeHFoYXBtN3JsQjFDLVIxMHYwaC03dWM2bVpOWUVzNXN0dnJnSQ?oc=5"
+    },
+    {
+      "source_name": "네이트",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE82WGNqRUcydERpX3ZXRHk2WlFTRUFIbUVobEVOLW11enFMWkNLaGtXT1FZc3B1bTFmcDlIQWVOZGpRdnNTcF9LSzFTaEVheTBzQlUzdnF3?oc=5"
+    },
+    {
+      "source_name": "일간스포츠",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB5YmhTRHlTWkpJZGZwZVc5blR1dXAtOU5LWnctak5iUEZnd2hrMkh5TFRMT2ZWZmpIWTRBN3Bieldna3VUalJ1eG9PUVJBSVVqZWcwWFZEVkswUms?oc=5"
+    },
+    {
+      "source_name": "엑스포츠뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1LOW5kVUtQZEJfUGZQX1ZjVzFmR25DYVF6c3lQQ082QVM3UThLWnU4bktlWGNDZ1Axd1BTRkh0aGFjQWpFMHo4SnNCbndxMktPd1Y2Ug?oc=5"
+    }
+  ]
+}

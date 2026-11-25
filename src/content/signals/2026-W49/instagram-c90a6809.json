@@ -1,0 +1,57 @@
+{
+  "id": "instagram-c90a6809",
+  "issue": "2026-W49",
+  "module": "league",
+  "teams": [],
+  "source_type": "instagram",
+  "official": true,
+  "source_name": "Instagram @kbo.official",
+  "url": "https://www.instagram.com/p/DgJzu6XqTXV/",
+  "title": "KBO 리그 공식 인스타그램: [크보피셜] KBO, 구글과 공식 ‘검색’ 파트너십 체결 ‘구글’, 2027 KBO 리그 공식…",
+  "published_at": "2026-11-25T05:45:03+0000",
+  "collected_at": "2026-11-25T13:37:45.822Z",
+  "summary_ko": "",
+  "metrics": {
+    "likes": 3472,
+    "comments": 31
+  },
+  "scores": {
+    "hot": 97,
+    "relevance": 30
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "데이터넷",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8tZ19oMk4wanEzajBIOHZUTnJSRWI2a0VPVC1xY0UwaGxrNXNOVllmcVZOaWM0NmNpbWx2OW9UWkRodDB5UTRyNDI5SzVNdkg0MDVNa2tnMHB6WmYxVFVDOGlXYmp5YlhJLV9ETA?oc=5"
+    },
+    {
+      "source_name": "https://www.2news.co.kr/",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9LTWJzVnJURmVIWmY5NWNBUjNaOGRaQmN1S3otVDJLTi1UTElWaHRLcDNQeF9FX1N3NXRCbkFJWlVUYzhhRUUyMktLSEtjMU1rbllhQ19zVFFyby1QUnVZTHRBMDY0WHhD?oc=5"
+    },
+    {
+      "source_name": "디지털투데이",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE85MTF0azRlRkoxOXpXMmNIdGRsR242YUxVLW02akIyQjRtc3pfWWR5WUhxbHRreU1wNXhLRVlLWHlQYzdQbFdwN3YwNzVJQmdTMFJwaUcyMnByYzAxc3BLUFFYbEl5WnVpbjJnUjQyLVIxWkU?oc=5"
+    },
+    {
+      "source_name": "와우테일",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9jaGxiR2JKSU5TTmE4VDhoTC1GbWdxZlMzM1Q2Zlp5OUVyQmdkMndsd0NQV3Z1U0JOLTFuaTUzSUZDZzhyY2Z5Q3hTQ0FvQ3M?oc=5"
+    },
+    {
+      "source_name": "이투데이",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1GQXRKTC1qanE0cWlXbUt5bGdCOTVDMTNDdmpyQktqVS1vMzJuaWxZSFBESjNZeTJXOFVXOVpYaUpicVlWRVl4elRkTWJTX2t1S1BWaA?oc=5"
+    },
+    {
+      "source_name": "스포츠조선",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5Md2JvX2FhU2xsNm1JX2dwMThodzhLMlB4ZkFfQ2tmQ2puOC14MHFTRjBfYXVpNU1veUkwei1sOWVMcmxwelRwd1dQcEJHY0JXRzBPYXR5V21ZdE1XR0xYemg4aFlTVWFXd1RlRkNqNG5OS1hPZGlSVVI3YkJjZw?oc=5"
+    },
+    {
+      "source_name": "www.xportsnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5LWVE3Wm01SlBFU2M3bXRud1JGVVZXaUExekhEZ0VESXFJY2VfVEhqX0FZZDVvOU5vUFJKZ2hNVVN1ajZWV3hXdzFPWlRTelBLQVdWdw?oc=5"
+    },
+    {
+      "source_name": "톱스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1SYjVuTl9Ld2lmbG1Qc3R2WEhFWEFZdV9QNXF2MkFvYWtBQV8yZXBGVUFhNlNFaUZIRFhzWEI4aC1USXZrdEZkTFVZbVRJZklsM1p0LVdkTy1pOWE5NFJsZTY3TG9mUzZxaF93TDVXNVRKZw?oc=5"
+    }
+  ]
+}

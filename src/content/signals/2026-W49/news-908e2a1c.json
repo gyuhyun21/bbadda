@@ -1,0 +1,23 @@
+{
+  "id": "news-908e2a1c",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "news",
+  "source_name": "뉴시스",
+  "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261125_0003883121",
+  "title": "한화, '시스템 야구' 구축 위한 워크숍 진행…1·2군 지도 방향 공유",
+  "published_at": "2026-11-25T07:43:58.000Z",
+  "collected_at": "2026-11-25T13:37:45.822Z",
+  "summary_ko": "한화가 2027시즌 '시스템 야구'를 만들기 위해 프런트와 1·2군 코치진이 모인 워크숍을 열고 지도 방향을 맞췄다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "1·2군 모여 '시스템 야구' 워크숍"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "youtube-413a6439",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "어쩔야구",
+  "url": "https://www.youtube.com/watch?v=ehv6fMcyHSo",
+  "title": "스윙 한 방에 역전! 어제오늘 무안타 오태곤의 9회 초구 2타점",
+  "published_at": "2026-11-25T12:00:16Z",
+  "collected_at": "2026-11-25T13:37:45.822Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 498,
+    "likes": 4,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 37,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

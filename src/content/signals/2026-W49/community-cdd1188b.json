@@ -1,0 +1,22 @@
+{
+  "id": "community-cdd1188b",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 밥먹고 야구만 보는 밥야구",
+  "url": "https://blog.naver.com/babbaseball/224490592302",
+  "title": "“6세이브 투수와 캠프에 온 외야수” 롯데, 아시아쿼터 한 자리를 어디에 써야 할까?",
+  "published_at": "2026-11-25T10:40:00.000+09:00",
+  "collected_at": "2026-11-25T13:37:45.822Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

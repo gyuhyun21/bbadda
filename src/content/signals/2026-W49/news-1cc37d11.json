@@ -1,0 +1,23 @@
+{
+  "id": "news-1cc37d11",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5QRlRWTkJXeFFEX0cxaHM2NEpQM0hRY1BqVDNwcklDUm5vajV1NXZmT3BQSmdoZlNvU0kteEV2VnFnOERCd1dnMXFNdEU0VUN3ekhhUUpxYm9ScU9qNFFjdmJuenlEVGo3ODdjR0VEdVpNRFZOZWlNWU5uZjduUQ?oc=5",
+  "title": "'프런트야구' '현장야구'도 아니다…2027 '류지현호' 시스템 야구로 간다",
+  "published_at": "2026-11-25T06:16:47.000Z",
+  "collected_at": "2026-11-25T13:37:45.822Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "news-ec6ee68e",
+  "issue": "2026-W49",
+  "module": "league",
+  "teams": [],
+  "source_type": "news",
+  "source_name": "뉴시스",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBtcjg3NExoYjNBa2ljWlpQdzU5QkI1WHdNX2lSblg4RjQ3QnRfekhENGIyMUVNOHh3ZEc2Z1JjcW9QSnhOUFdHYldsM3RNeVpoUVQwcVhkaTRCWUZYQURQY9IBeEFVX3lxTFBfU1hPNGtXMWV0ZDNaZ2I2RG94LVhETjg0TVBjZW1xSVU1enljemJ6WUVleHRUWk1IajNQQklJSnI1aUhqOVNLZnMzeXJsOS1nN1lQMXJfWWdtZFFBNFJCSXFvdzJRX1ZSTE1DRUI2V2dFOHhiNG5vWA?oc=5",
+  "title": "프로야구 생중계에 AI '제미나이' 뜬다…구글, KBO와 맞손",
+  "published_at": "2026-11-25T05:00:00.000Z",
+  "collected_at": "2026-11-25T13:37:45.822Z",
+  "summary_ko": "구글이 KBO와 검색 파트너십을 맺었다. 2027시즌부터 프로야구 생중계를 보며 AI '제미나이'로 선수·경기 정보를 찾을 수 있게 된다.",
+  "metrics": {},
+  "scores": {
+    "hot": 81,
+    "relevance": 30
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "아이뉴스24",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE53OTNzbTJzZkVESkdpdlJkSFZkU0FCUlcxTFlkblpkejJRWTBaM0hBUVh0RjF5bmNGMFlRSE9TWXdTTDFyTGZBMGZnQQ?oc=5"
+    },
+    {
+      "source_name": "CEO스코어데일리",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5hS0NKcjRYSzFlSXQxUmdiRUJGUm53TUI0aUc3UzNkMFdrLVN6OVRfTno4ZnB2cFVISzRSTVc2SHhEQWxCdXM1MHdFNWlDNW5fbTQ0NzR6Q05Bdkg1d1BqRlRwdHp1Njl2NlYw?oc=5"
+    }
+  ],
+  "brief_ko": "KBO·구글, AI 검색 손잡았다"
+}

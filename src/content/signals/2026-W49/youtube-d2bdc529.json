@@ -1,0 +1,40 @@
+{
+  "id": "youtube-d2bdc529",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "youtube",
+  "source_name": "크보시리즈",
+  "url": "https://www.youtube.com/watch?v=Q_kRor65fZs",
+  "title": "원태인에 NC까지, 삼성 속 탄다 #원태인 #NC다이노스",
+  "published_at": "2026-11-25T13:24:16Z",
+  "collected_at": "2026-11-25T13:37:45.822Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 144,
+    "likes": 4,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 47,
+    "relevance": 50
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "위키트리",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9QdktKdUMyaGdHX29mZjVvelpIbUV5YnpQQWZMYzg0R1UzVlJmbFIteGtDa3MybHY1Mm43YUZhbzB1dnhtWGg2TGUtZDNPMmdtRnhPdDRR?oc=5"
+    },
+    {
+      "source_name": "마이데일리",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE04Z3pfaElEWWJpRktrdVBxNlRoejdkNUJxLXlwaHlFYS1NbVBCVmQ1bWRja3BwWGpXenVOclc2X2JfRS1CaVpnV2VTRU51VTMwd3hHUnlMa2RhdGJnSV9KVQ?oc=5"
+    },
+    {
+      "source_name": "네이트",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ZbWhmRUo5NExiQkg1eC1JXzFLdGZIbnNkRm5ZYXdTTlhsbUVURUdidlN3NkM4a2pKTmp2M1lzREl5Z1hXUWZjME5BTXg3Z095SkYxVWdR?oc=5"
+    }
+  ]
+}

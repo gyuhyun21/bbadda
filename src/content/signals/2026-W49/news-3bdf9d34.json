@@ -1,0 +1,22 @@
+{
+  "id": "news-3bdf9d34",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스1",
+  "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBwdzB4SmFxYzdEcTQ2MmU0RjE0THhHcHlEdWMzOUhsY0QyWjZDLVlIOXBzWnFZeTdPRXRMbE8wVi1MMlIxMW9tTVljWmtQcVRaXzZ3a01zSGF6bklTOGhr?oc=5",
+  "title": "'삼성 우승 퍼레이드' 29일 '반월당~중앙네거리' 전면 통제",
+  "published_at": "2026-11-25T07:34:54.000Z",
+  "collected_at": "2026-11-25T13:37:45.822Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

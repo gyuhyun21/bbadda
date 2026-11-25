@@ -1,0 +1,27 @@
+{
+  "id": "youtube-1947ecff",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "기아타이거즈 KIA TIGERS",
+  "url": "https://www.youtube.com/watch?v=SrOdMUT1wU0",
+  "title": "(이호연 단독 콘텐츠) 그가 털어온 6개의 방은?",
+  "published_at": "2026-11-25T09:36:17Z",
+  "collected_at": "2026-11-25T13:37:45.822Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 50470,
+    "likes": 1791,
+    "comments": 245
+  },
+  "scores": {
+    "hot": 86,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

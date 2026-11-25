@@ -1,0 +1,53 @@
+{
+  "id": "community-782a16b1",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 딸기떡",
+  "url": "https://blog.naver.com/mamaustay/224491547576",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/7JoBEg2uhcK",
+  "title": "LG, 존 케네디와 20만 달러 재계약, 2027시즌도 함께 간다",
+  "published_at": "2026-11-25T15:05:00.000+09:00",
+  "collected_at": "2026-11-25T13:37:45.822Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 97,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE90TGZ4V05FR0Y0UTE4TUMtbFY4bEVqWG9EaWlXQ3FFV3czOXNsMmdiWU5URGZTcDlOeGlVd2tJMnZoeHUydWdTaHloci1NS1ZIRWdaR3NHVW5lTm9MbkxnWW5hMTBOMmxPVkQ1bXNaTdIBb0FVX3lxTE90TGZ4V05FR0Y0UTE4TUMtbFY4bEVqWG9EaWlXQ3FFV3czOXNsMmdiWU5URGZTcDlOeGlVd2tJMnZoeHUydWdTaHloci1NS1ZIRWdaR3NHVW5lTm9MbkxnWW5hMTBOMmxPVkQ1bXNaTQ?oc=5"
+    },
+    {
+      "source_name": "스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5QMWVzdFVlckJYbVd3NUp0OW5TbHoxRXRocHBjLXlaWlZiVzI4cVFWemNBMFFfd280Q3NudDdjLXMyWk5RTUs1VTh5R0hkM0F0WTdKbDhfOHZYaXAzeXROTHQ4MDQ2bEVMVjRRcEh1cGVyQk8yUGc?oc=5"
+    },
+    {
+      "source_name": "m.mksports.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5wT0dBZDNWVjIzWkExRUF3ME9DZ2ozWFUyZnRpd0RQelZtdldLYnFCWEZXT1Vka3JEQ2F2dnhIUm1CeU9yNTA5SkhXaWJ5UVBkc3JiVXUwVVN1N0U?oc=5"
+    },
+    {
+      "source_name": "마이데일리",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ObkxyNE4xekM1b1hnbnA5YjNnU2lpY1lFblg5ekdmT3ZCem9MdEYtcE92QW1QM0MweThlUG9ZUEljYlNBaVB3MTRuTldNUkl6N1pWZWMwZnpJSEd4VlBjVg?oc=5"
+    },
+    {
+      "source_name": "스포츠동아",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9fZ0NEVl9FSHgtUlpGTEFiMkpSeHNEYlhDNnpyRWFGS0ZQV043MmJzcWZSa2k2bUwxWU15clBEWHRMY3ZKTzMwMUJ0emRfakxmRnFzY1JubUFGMjY2S0MxWVJZM1JOOVlEODdYV1VrNGRKUQ?oc=5"
+    },
+    {
+      "source_name": "MHN스포츠",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9DVl9Ka1JEZjZsNU1LTV9tUl9pUFJfcG9NWWhHUExnZ1ZnNEZkYk5ERnpTNFVWSjNWbEg2ZGZzOUZPc0N1QVFsY2RXUjZTRXJvRG0tb3pYTkV2VXozUUJvN0V3aw?oc=5"
+    },
+    {
+      "source_name": "미주중앙일보",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Wd1diekx4c29OS21TUzVIaGFJcm9QRlhwVWlLeDVnMUVrR1d0QlBOYXhhSjJSSG80YjZGeUQ1S0ZhR1VzdVdxSVk0NHpXT1ppYkZ5VG1tX29vU1NOZWdhSE1B?oc=5"
+    }
+  ]
+}

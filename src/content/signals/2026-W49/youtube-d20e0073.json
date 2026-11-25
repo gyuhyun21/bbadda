@@ -1,0 +1,26 @@
+{
+  "id": "youtube-d20e0073",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "youtube",
+  "source_name": "야구는 풀스윙",
+  "url": "https://www.youtube.com/watch?v=6QLO1XAL0cM",
+  "title": "1997년 LG트윈스 KS 비하인드｜야생마 이상훈이 직접 밝힌 준우승과 일본 진출의 진짜 이유",
+  "published_at": "2026-11-25T10:00:33Z",
+  "collected_at": "2026-11-25T13:37:45.822Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1801,
+    "likes": 52,
+    "comments": 14
+  },
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

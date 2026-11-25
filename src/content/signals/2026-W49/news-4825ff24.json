@@ -1,0 +1,31 @@
+{
+  "id": "news-4825ff24",
+  "issue": "2026-W49",
+  "module": "rivalry",
+  "team": "hanwha",
+  "teams": [
+    "hanwha",
+    "nc",
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "연합뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBQQ1I1d1NMamJ0MDFEVTdBbGwydnFtX3lqWFFEVzEyaWozZlVLYlIxOV9VNWRLcFkyZHhFc1BkcjRiV3RVeUlQMXN0MzhjZjhOTXl4bEZ4Si16cUZGQ3VyM9IBYEFVX3lxTFBQQ1I1d1NMamJ0MDFEVTdBbGwydnFtX3lqWFFEVzEyaWozZlVLYlIxOV9VNWRLcFkyZHhFc1BkcjRiV3RVeUlQMXN0MzhjZjhOTXl4bEZ4Si16cUZGQ3VyMw?oc=5",
+  "title": "프로야구 새 시즌 외국인 선수 윤곽…일부 교체·물갈이가 대세",
+  "published_at": "2026-11-25T07:18:38.000Z",
+  "collected_at": "2026-11-25T13:37:45.822Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 98,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "스포츠조선",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBOVGdNVGgwbE1CTkh2LXBEZzZFa1B5UEhhRXBsLWpuSl9kbmd5S0RaSGhpdWF4MnlmbjV3b0QyRUlKd0Q0cnJORVZNMURCMjltYVJNSEw0YzN5SzlnVGZFVnpzaGR5SmpSVWl6anFfRk5wUjJkLVFlSlVyXzdFUQ?oc=5"
+    }
+  ]
+}

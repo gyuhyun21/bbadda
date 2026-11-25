@@ -1,0 +1,23 @@
+{
+  "id": "news-bd446d50",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "아시아경제",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE52T1plNG5SblhhRFNFdDIyX2tBQXlIU0w4S3NXLTBTdl9pRWRmMlFyejFHVEF2dnhFbUpKOTk1MmRjS0wzX0g0TkxqQUhnNEpZZVBicXFYZVFaMk1rR2FwWA?oc=5",
+  "title": "광주센트럴병원, KIA 타이거즈 선수단 건강관리 전담",
+  "published_at": "2026-11-25T08:39:09.000Z",
+  "collected_at": "2026-11-25T13:37:45.822Z",
+  "summary_ko": "광주센트럴병원이 KIA 타이거즈와 의료 협력 협약을 맺고 선수단 건강관리를 맡는다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 50
+  },
+  "sentiment": "neutral",
+  "brief_ko": "광주센트럴병원이 선수단 건강 맡는다"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-aa61dca0",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "한스경제",
+  "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=887369",
+  "title": "'우승' 삼성, 3주 연속 KBO리그 관심도 1위",
+  "published_at": "2026-11-25T11:23:06.000Z",
+  "collected_at": "2026-11-25T13:37:45.822Z",
+  "summary_ko": "우승팀 삼성이 3주 연속 KBO리그 관심도 1위에 올랐다고 한스경제가 보도했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 80
+  },
+  "sentiment": "positive",
+  "brief_ko": "3주 연속 리그 관심도 1위"
+}

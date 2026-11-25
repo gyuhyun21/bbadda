@@ -1,0 +1,77 @@
+{
+  "id": "community-cc90b79a",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 올빼미 기자의 기사 돋보기",
+  "url": "https://blog.naver.com/exercisenews/224491376676",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/IzSBnL30W23",
+  "title": "조성환에 박정권까지…두산, 2군에 칼 빼들었다",
+  "published_at": "2026-11-25T13:23:00.000+09:00",
+  "collected_at": "2026-11-25T13:37:45.822Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 97,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "스포츠조선",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9aa2RBb3lYWXliZG9rQUJOUlhabXpRUHl5LWN6aXRBdUJfSnFUTjdPU2lwVXJwTktXTmpaV3VWNTVMZ0pxd0VjZ3dBX2txTUpVeTN5eExNeXh6SDFGOWMxc1FyUUZxYzY2ZU9mRWNmbW0yUWRWMFdKQ2pjVW1RQQ?oc=5"
+    },
+    {
+      "source_name": "SPOTV NEWS",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1jT2l3b25Gai14SE5iZVZ3aW9uUXU3bmVqV2lPNFVEazZOWGc0TW5KTTlLcDFDZFd6NGFJVldLRWlweE50cUwyUmlPR2JqVnFzUmFQMjlvV21ZajZnR212WEVKMWRBd2M1dU4tMXdZY0Q?oc=5"
+    },
+    {
+      "source_name": "노컷뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5sTUU2dENlS3Izd2FOY2JyWGJCM3EzY2tJM1dqVEZPLTM1aFFka0dIbF9vQnh3emdmWTlVRFJYM1lEU1RyamRlODdnTUxEWFNsYlE?oc=5"
+    },
+    {
+      "source_name": "스포츠월드",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBNQ3ZzRVNYa0ItYmVlSVBBYlNFeS1xNmE3MFh1NGZUUFRBakdBQ19BLUVLNlJjY0RMUF9wRmVYY256UXFRMHlvYTMybzBVNXdiS0RVNHR3VmNYU3ptR1FBdHpB?oc=5"
+    },
+    {
+      "source_name": "스포츠경향",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE81R2dsb2pPWlpXbFBrdERnc21lR2c3TmNaU19jd0FtOFhZejJDOC1nMjdwSWR3dXgwaUZKcEVxU1ZmNFd0Z0MxYlBhNy1xSUFkdXpTc3hyQTRmRlJnbmdXeGQ3a9IBY0FVX3lxTE81R2dsb2pPWlpXbFBrdERnc21lR2c3TmNaU19jd0FtOFhZejJDOC1nMjdwSWR3dXgwaUZKcEVxU1ZmNFd0Z0MxYlBhNy1xSUFkdXpTc3hyQTRmRlJnbmdXeGQ3aw?oc=5"
+    },
+    {
+      "source_name": "뉴스핌",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5GSnFQN0RFa3VqbGd2eWc3WUF3WXJ1cGZOSDhZeHNlRG91Q3ZxNnJQaERLWjdQdWEwMk9hdkwwMG9TeWdtNDF4TFJfSzVCYS1scGZCUWJaSzFDS01u?oc=5"
+    },
+    {
+      "source_name": "매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBMM19ncHBoa3JRcFJhUHl5UWhxd2ZHRFZVOG9ZYzA0U0NCdkN2eHJldEVJRzJ3MHF6a1RJQ3QzRlI4X3hQeHc?oc=5"
+    },
+    {
+      "source_name": "MHN스포츠",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9RNUItT0YxLUt5U2ZqTnVDSnA1SDNqYVBBT014aEswUzdPeDRiOThQT3NELTZCTzk4U2ZOMjc4RFpwM1dwX0NpNFVZcjhGMXE1V0JuZEdYYmZrMktkQ3ZES1R6NA?oc=5"
+    },
+    {
+      "source_name": "https://www.asportstv.kr/",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9jX0VDYXFHdkhQSmpKRkZBbU5sWXNUc3BkOVRSUThWMmpaQ3EyQkJ0OGRxTjZqNERFWEFhWkJiTHRZQWtBbTB2RS1KYTRONXVEOVZaemlrRWpqYS1XSDFJOU1IYnlqTUVz?oc=5"
+    },
+    {
+      "source_name": "m.maniareport.com",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBIQ0xsUTZpSjNQNVhkX1pxekhCMDdOTTVTX25FWXdRSHFYdTNJdDFkY0lvenBjbzYyZG9aYnJiR0V2a0F5SVVERFBhbDZvRHZxNE9XU2tVbzQ5RllvU3Vmamw2MTVqR2FCUFhub0VYaHVucTA4LVhIZjJn?oc=5"
+    },
+    {
+      "source_name": "미디어펜",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5URjRIWE1UOXl6WU1PSTFoSkZiMjNIZkt4bm5ka01fUjR6ajM5blQwbTBpMVVBcjAxNVE3Rk54RFAtVGd1andGcktoaW9hejgyNWR3cdIBWEFVX3lxTE1PU0FhTmRUaFpxc2pMTW92UmhLNW5SZExYRFFDWlUxaGhmbFk1a3c3RW9IV3NhVHRXZHNNZzZMNkdVZ0ttNjdPaWxxT3pBcWN6SWtmZ3hvQU0?oc=5"
+    },
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQc2F4aklneUIybXdHRmx2bF84MEpEUEl6T3d6cTBWMUFDWW5wcC1xMWV5RWxoS0VFRklfSXFyTWFaVURfZE5tZVVEX1JwNTNBb2xnX2s5RjRuXzFLT3NJLWJqS3M5NkdwWmJVN3RKeTVPbHVoUVJXazg5YS1EYnZjTXZSYw?oc=5"
+    },
+    {
+      "source_name": "파이트타임즈",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1YWDdUMmwwZGJheGlZR1NkZVM4N1pOcEhBYUIwbXhsWVplQjgyYnZCVjhRdUFWWXd5ZzRNRG1XNnhEUUxvRTE0Q09ZOTZkb3dmaU5wdkRZdW5xdWhaU092TDk2SkM?oc=5"
+    }
+  ]
+}

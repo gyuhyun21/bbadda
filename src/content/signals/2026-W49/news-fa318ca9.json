@@ -1,0 +1,22 @@
+{
+  "id": "news-fa318ca9",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "news",
+  "source_name": "MHN스포츠",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBwM2tZSUNsYl82Q1BnelpRU1FVRC0ycmlVMlc1TWlncmhvWFZRLVljRWgtN2N1VG51aGZLeXFqWE1yajNtR1FMZENrcHJ0X3pvdXktOTcyNjdWWndXX1hCU1NQUQ?oc=5",
+  "title": "감독 야구? 프런트 야구? 아니죠, 시스템 야구 맞습니다...감독 바뀌어도 한화 야구 본질은 바뀌지 않는다",
+  "published_at": "2026-11-25T06:40:51.000Z",
+  "collected_at": "2026-11-25T13:37:45.822Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

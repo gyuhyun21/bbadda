@@ -1,0 +1,40 @@
+{
+  "id": "community-7102f6ba",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 예윤의 소소한 발견",
+  "url": "https://blog.naver.com/dudu0113_/224491149492",
+  "title": "두산 베어스, 조성환 감독 2군 사령탑 선임! 화수분 야구 부활의 신호탄 될까?",
+  "published_at": "2026-11-25T10:46:00.000+09:00",
+  "collected_at": "2026-11-25T13:37:45.822Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 96,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "한스경제",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9xdlpmYjc2a2ctb1JPRkpMclppNHVBQWlELUlHYnZFc1A3N05XYld1OHZxallScnYycmlyOGRjUG8wenBNWEtTb0RqeGJwc1AyV2Rmd2s1dHZ3cWxqTjhZWmpjVnowRmlGdHZB0gFvQVVfeXFMT2Q2a0FUaEl0VHJub3BZQnNmajZnUUtOY1kxM2RYeU95YjZWeGo0TTI3dDlsV0dQNzlsVEp1VmhXaHFUZUJuTHlzdUFjb3Brd3ZjRG9kRGMxNzV5blZYRXNLS2NNTUJKa3JNZTZ4R0dj?oc=5"
+    },
+    {
+      "source_name": "연합뉴스TV",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE51UjY2eU5CVnBHZldzWGVTZjFDYVVISENYYlRZbFZMYkN0TndnZWRJUHBPT1ZYcHlaV2FHdDBKcHU5TXl6TGtxVDdSeTdieUpEX0JUQ3E0djlqNmkzbHBXMnFhRk92VE0?oc=5"
+    },
+    {
+      "source_name": "미디어파인",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1HMGRpcVF1RmlBTk1wbmJzR0FTc2hYYUJ5T1pTbWNwMVp1SW5HM08wNHh6UWt4OTE1bzJDNmRlbC00YllFVkdLajI3aEJpY3dNWTkyZU80OEtFWDRlcUJPSi1vRkdzZ3VCeG9XSU5n?oc=5"
+    },
+    {
+      "source_name": "https://www.2news.co.kr/",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5wZDYtTXk2TDl4RTRwYWV5UjB1Si1LbGNOanJRZDlUYmtzSVVWOGlKeWF6a0RyanhiNXpVbklfV2ZfbVd3MlVBU2tFM0p5T2x0MkJ6ZUJXNXVkMGc5UHppMW5vemdWM3FQ?oc=5"
+    }
+  ]
+}

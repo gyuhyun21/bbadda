@@ -1,0 +1,23 @@
+{
+  "id": "news-1244cb42",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스타뉴스",
+  "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTV95Q2RON1dBZ1QtWjRlTV9DbmVWcVpKdEVBNWpzXy1vNXRJZFN0cEVPZGVIQVJheTRCZXByREUwUWxHRlFuTTVha2Y1X0NHRDZaM2ZXelpkekU3U3ZRV1ZHQkVWcldRUUtaUG8xSnMwazFtOHFvSTc5YjJHRmtGbg?oc=5",
+  "title": "최형우, 23년 만에 우승한 강민호에 제대로 꺼드럭 \"너 아직도 신나?\" [유퀴즈]",
+  "published_at": "2026-11-25T12:32:20.000Z",
+  "collected_at": "2026-11-25T13:37:45.822Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

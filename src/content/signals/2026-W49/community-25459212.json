@@ -1,0 +1,33 @@
+{
+  "id": "community-25459212",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 BBC 미디어센터",
+  "url": "https://blog.naver.com/sunhoo272/224491196303",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/JsICfwNVhLH",
+  "title": "NC, 30억 보상금 감수하며 '투수 최대어' 원태인 영입전 참전 선언",
+  "published_at": "2026-11-25T11:20:00.000+09:00",
+  "collected_at": "2026-11-25T13:37:45.822Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 88,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "파이낸셜뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5OaWE3TnViSHpKQmt6eEs5SElQdXlzQzNmdDhqYTRjX2FlWk1laWp2ODVDY0I2cjRhQTV1NTFhbkkzVEdHYkJsYnpSbGFqaWM0MEk4b1huMVozQQ?oc=5"
+    },
+    {
+      "source_name": "네이트",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE93VWNNQ3B4X25tMHVHUDNGUUFJTk1kVm1VbWtEUjhjcXdaVzZzNXFvWWk3eDhSOG9QVWZMMmtsV3NadmNKU3Q1SUlKMk44OWVDQldXTUpR?oc=5"
+    }
+  ]
+}

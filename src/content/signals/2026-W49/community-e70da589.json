@@ -1,0 +1,23 @@
+{
+  "id": "community-e70da589",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 baseballsoccer",
+  "url": "https://blog.naver.com/ruthkim88/224491389853",
+  "title": "2013.4.5 \"서산 유소년 야구단 창단…야구도시 부상\"",
+  "published_at": "2026-11-25T13:31:00.000+09:00",
+  "collected_at": "2026-11-25T13:37:45.822Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

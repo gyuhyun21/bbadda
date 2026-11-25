@@ -1,0 +1,26 @@
+{
+  "id": "youtube-2cd1282c",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "youtube",
+  "source_name": "쌔리라",
+  "url": "https://www.youtube.com/watch?v=F-1WFBC7Vas",
+  "title": "키움 히어로즈 김웅빈 응원가 M/V",
+  "published_at": "2026-11-25T10:33:38Z",
+  "collected_at": "2026-11-25T13:37:45.822Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 28,
+    "likes": 0,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 45,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

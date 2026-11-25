@@ -1,0 +1,23 @@
+{
+  "id": "news-eb7f489b",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "news",
+  "announcement": true,
+  "source_name": "SPOTV NEWS",
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5JdVpRVHphQ01KV05MaDJEVnVGZE1yc0REZXlvTjlBbWFweWRoR1ZJRUh5QXBFYnlScHotLXFKSFJsZi1nX2xDdERsVzJxa3o5THZsMm5aRF80ek1BeHk4WEUwYnMtblplbGY3OVNtSnE?oc=5",
+  "title": "[오피셜] LG '대형 좌완' 케네디와 20만 달러에 아시아쿼터 계약 \"좌타자에게 특히 강했다\"",
+  "published_at": "2026-11-25T01:02:12.000Z",
+  "collected_at": "2026-11-25T13:37:45.822Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

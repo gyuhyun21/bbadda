@@ -1,0 +1,26 @@
+{
+  "id": "youtube-88f72a1f",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "youtube",
+  "source_name": "어썸티비",
+  "url": "https://www.youtube.com/watch?v=kuTgeergKCI",
+  "title": "955일 만의 복귀, 전광판 160km! 키움 안우진 #Shorts",
+  "published_at": "2026-11-25T10:00:32Z",
+  "collected_at": "2026-11-25T13:37:45.822Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1338,
+    "likes": 7,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 40,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

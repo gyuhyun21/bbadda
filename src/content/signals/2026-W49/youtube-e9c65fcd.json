@@ -1,0 +1,26 @@
+{
+  "id": "youtube-e9c65fcd",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "라온즈",
+  "url": "https://www.youtube.com/watch?v=LwI-CVK2t9U",
+  "title": "삼성 라이온즈 V9 기념 응원가 모음집! #삼성라이온즈 #드라마 #v9",
+  "published_at": "2026-11-25T09:44:31Z",
+  "collected_at": "2026-11-25T13:37:45.822Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 314,
+    "likes": 4,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 39,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

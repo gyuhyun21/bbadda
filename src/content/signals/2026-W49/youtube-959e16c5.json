@@ -1,0 +1,26 @@
+{
+  "id": "youtube-959e16c5",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "야구이슈",
+  "url": "https://www.youtube.com/watch?v=ZHYWcy6HMPk",
+  "title": "KIA 이슈 #4 | 네일·올러 이닝 1·2위, 카스트로 타율 0.327…3명 다 잡으려면 인상 여력 40만 달러뿐 #11월25일 #KIA타이거즈 #네일",
+  "published_at": "2026-11-25T11:57:26Z",
+  "collected_at": "2026-11-25T13:37:45.822Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 405,
+    "likes": 3,
+    "comments": 2
+  },
+  "scores": {
+    "hot": 40,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

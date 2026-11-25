@@ -1,0 +1,22 @@
+{
+  "id": "news-f704cab5",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "news",
+  "source_name": "위키트리",
+  "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9IblVvNXJycDIxdzd6TmpNblhJYW1Ec0JORWJyZTlYTGlfVUowYmw4dGloUWZGcW8yUDVuVkFFRWtUeVFKTmI1cE1TTVRveUNDYU40eHp3?oc=5",
+  "title": "‘이건 생각지도 못했는데’…1년 만에 두산 베어스로 전격 컴백한 야구인 정체",
+  "published_at": "2026-11-25T05:39:00.000Z",
+  "collected_at": "2026-11-25T13:37:45.822Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

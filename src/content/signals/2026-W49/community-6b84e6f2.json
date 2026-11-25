@@ -1,0 +1,24 @@
+{
+  "id": "community-6b84e6f2",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 꿈은 이루어진다.",
+  "url": "https://blog.naver.com/e5271405/224491109616",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/SZYhwQufdP",
+  "title": "김하성 디트로이트행, 268억에서 67억으로 줄어든 몸값... 최대 80억 원 계약 합의!",
+  "published_at": "2026-11-25T10:25:00.000+09:00",
+  "collected_at": "2026-11-25T13:37:45.822Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

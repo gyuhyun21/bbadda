@@ -1,0 +1,27 @@
+{
+  "id": "news-7952e4b5",
+  "issue": "2026-W49",
+  "module": "rivalry",
+  "team": "hanwha",
+  "teams": [
+    "hanwha",
+    "ssg",
+    "samsung",
+    "lotte",
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "https://www.asportstv.kr/",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE91OW5JMzBTOXl5NjlzaVNfTmtXb3N3Q24yTUo1T1JQTjdkQWxjX2RSSWNIOHdzT0VUWTZQQjdBNkNwVTlndWJMSVdFVjgxMjM1anZMQVlPVFAtVXBER2cxSVNQamszMGhL?oc=5",
+  "title": "[A-포커스] '슈퍼 갑' 구자욱이 스토브리그서 서두를 이유 없는 까닭",
+  "published_at": "2026-11-25T02:21:35.000Z",
+  "collected_at": "2026-11-25T13:37:45.822Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 96,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

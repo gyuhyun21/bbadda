@@ -1,0 +1,23 @@
+{
+  "id": "news-cd501a7a",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "news",
+  "announcement": true,
+  "source_name": "MHN스포츠",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5veFVORnM1MmdVSWFHOXhVLURrV01IbGozUXUwTmFjVkFYNXJrd2tVUGt3ajhhSDBZVEg1WGlBT0dWQldRZXpsTDFfSFU5aUFTRmRuX21nZnY0QjhUQ2JsTlpZNA?oc=5",
+  "title": "[오피셜]뜨거웠던 워크샵, LG 선택은 왕조? 리빌딩?…어느쪽이냐에 따라 FA 판도가 달라진다",
+  "published_at": "2026-11-25T06:50:52.000Z",
+  "collected_at": "2026-11-25T13:37:45.822Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

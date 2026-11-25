@@ -1,0 +1,26 @@
+{
+  "id": "instagram-7897f520",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "instagram",
+  "official": true,
+  "source_name": "Instagram @ktwiz.pr",
+  "url": "https://www.instagram.com/reel/DgKlqz9v-Zx/",
+  "title": "KT 위즈 공식 인스타그램: 사탕에 현혹된 허경민 심판..",
+  "published_at": "2026-11-25T13:00:05+0000",
+  "collected_at": "2026-11-25T13:37:45.822Z",
+  "summary_ko": "",
+  "metrics": {
+    "likes": 350,
+    "comments": 2
+  },
+  "scores": {
+    "hot": 68,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

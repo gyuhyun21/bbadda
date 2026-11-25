@@ -1,0 +1,24 @@
+{
+  "id": "news-bcf6d2db",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "announcement": true,
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5CSTI3dERkRk1GQk1rV3F1R2ZiSU9pUkc2dTVUNGlhMTRKOUtfSGxTQkE1RDN6QTJDMmZRUUFxQTZLNXRpVlc1elBLdG9qLXRLZ2lJak0yNXhOZnhSMXlIMFQ0TmEtdUZyYUhLdVpBb9IBb0FVX3lxTE5CSTI3dERkRk1GQk1rV3F1R2ZiSU9pUkc2dTVUNGlhMTRKOUtfSGxTQkE1RDN6QTJDMmZRUUFxQTZLNXRpVlc1elBLdG9qLXRLZ2lJak0yNXhOZnhSMXlIMFQ0TmEtdUZyYUhLdVpBbw?oc=5",
+  "title": "[공식발표] ‘포스팅 D-7’ 노시환 근황 떴다! 감독 이정후 팀 멤버 확정…빅리거 신분으로 고척 밟을까",
+  "published_at": "2026-11-25T03:41:00.000Z",
+  "collected_at": "2026-11-25T13:37:45.822Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

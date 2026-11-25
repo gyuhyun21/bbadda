@@ -1,0 +1,22 @@
+{
+  "id": "news-5fdc7023",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠서울",
+  "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE95ZnlWTkJOeFpabTQxbTFGZVlXa3FlNkNhZHc2clVXa1FiRDVVRmdXencxcWlHbU9BVUprRmlvZ1pmQV9NYXBiOHNJQ3pCUnhlb1llMllwTnU?oc=5",
+  "title": "‘막강 전력’ 구축→12년 만의 우승+170만 관중 돌파까지…삼성, 올해의 프런트상 [올해의상 D-8]",
+  "published_at": "2026-11-24T23:10:00.000Z",
+  "collected_at": "2026-11-25T13:37:45.822Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 63,
+    "relevance": 80
+  },
+  "sentiment": "positive"
+}

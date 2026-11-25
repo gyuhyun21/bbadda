@@ -1,0 +1,30 @@
+{
+  "id": "news-dccebb39",
+  "issue": "2026-W49",
+  "module": "rivalry",
+  "team": "ssg",
+  "teams": [
+    "lg",
+    "ssg"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://www.mt.co.kr/amp/sports/2026/11/25/2026112511214712480",
+  "title": "[단독] LG 떠난 최경철 코치, 5년 만에 '친정' SSG 품으로 돌아온다",
+  "published_at": "2026-11-25T03:23:54.000Z",
+  "collected_at": "2026-11-25T13:37:45.822Z",
+  "summary_ko": "LG를 떠난 최경철 코치가 5년 만에 친정 SSG로 돌아온다고 머니투데이가 단독 보도했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 88,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "네이트",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1XNmdzLUE4c0VMbXZMRnRROW85RU54cXk3dkt6VmRUWkJmbEt3cktQZEctcG5maVBTNzFsZE91a3AzeHlYaWs4SWFrWlJXMW1LRU1DbU9n?oc=5"
+    }
+  ],
+  "brief_ko": "최경철 코치, 5년 만에 친정으로"
+}

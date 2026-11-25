@@ -1,0 +1,27 @@
+{
+  "id": "youtube-5ab18140",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "kt wiz - 위즈TV",
+  "url": "https://www.youtube.com/watch?v=e76oVVKDcoE",
+  "title": "사탕에 현혹된 허경민 심판.. #팬페스티벌",
+  "published_at": "2026-11-25T13:00:37Z",
+  "collected_at": "2026-11-25T13:37:45.822Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 871,
+    "likes": 24,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 57,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

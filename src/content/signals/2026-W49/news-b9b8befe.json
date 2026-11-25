@@ -1,0 +1,23 @@
+{
+  "id": "news-b9b8befe",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20261125_0003882967",
+  "title": "가을야구 아쉬움 남긴 LG, 새 시즌 준비…마운드·기본기 점검",
+  "published_at": "2026-11-25T07:18:35.000Z",
+  "collected_at": "2026-11-25T13:37:45.822Z",
+  "summary_ko": "LG가 염경엽 감독·차명석 단장과 선수단이 모인 이틀간 워크숍을 열고 마운드와 기본기를 점검했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "염경엽·차명석, 이틀간 끝장 워크숍"
+}

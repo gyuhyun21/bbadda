@@ -1,0 +1,24 @@
+{
+  "id": "news-eba97f97",
+  "issue": "2026-W49",
+  "module": "rivalry",
+  "team": "lotte",
+  "teams": [
+    "lotte",
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "국제신문",
+  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORU1Ma3pURjJKQUI3SzFDeHRoeHNMSEVvVURoNzgwT1Rpa05BRklCZWZKa2hPV2RhZW9oTVhrS2I4cGJwS3VMdjRSXzF1RWJvLXFxQkktSFZjckUyMzBBRlRram54RnI3UklaXzZ2U3dCOFVDNXlXcDA2M1Izb010U0lIZTJUelRaZkhXTjZn?oc=5",
+  "title": "타 구단 외인 퍼즐 맞추는데…거인은 신중 모드",
+  "published_at": "2026-11-25T10:08:00.000Z",
+  "collected_at": "2026-11-25T13:37:45.822Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

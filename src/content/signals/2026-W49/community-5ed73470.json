@@ -1,0 +1,24 @@
+{
+  "id": "community-5ed73470",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 오늘의 스포츠",
+  "url": "https://today-sport.tistory.com/84",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/CqSpj5kA50C",
+  "title": "노시환 MLB 포스팅 | 12월 2일 마감, 307억 원 계약을 내려놓은 도전",
+  "published_at": "2026-11-25T21:48:22.000+09:00",
+  "collected_at": "2026-11-25T13:37:45.822Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

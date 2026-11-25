@@ -1,0 +1,23 @@
+{
+  "id": "community-02b6965e",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 채씨가 전하는 스포츠⚡",
+  "url": "https://blog.naver.com/chaesports/224490538441",
+  "title": "\"강민호 휴식, 제가 챙길게요!\" FA 김태군, KIA 떠나 삼성 이적?",
+  "published_at": "2026-11-25T11:02:00.000+09:00",
+  "collected_at": "2026-11-25T13:37:45.822Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

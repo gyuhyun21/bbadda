@@ -1,0 +1,27 @@
+{
+  "id": "youtube-85c3c3cb",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "kt wiz - 위즈TV",
+  "url": "https://www.youtube.com/watch?v=SFPdwojxGNg",
+  "title": "결국 배치기까지..💥 #팬페스티벌",
+  "published_at": "2026-11-25T02:46:53Z",
+  "collected_at": "2026-11-25T13:37:45.822Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 5340,
+    "likes": 131,
+    "comments": 7
+  },
+  "scores": {
+    "hot": 63,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "news-050c48e9",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "SPOTV NEWS",
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1BeW42cGJYVUthM2tLWjI1bndYU0E4OV9hZXRjRHB0WDktWEFKbFdMRFhQVVkwakRWcWtuUE0zbXUzVEU3dFAzTzZPcW1HZDBMUEk3Y1ZNaS1ka2FVS1FncFVlc19sVWh4VFJNcnB0ek0?oc=5",
+  "title": "나승엽 1루 수비 달인 됐나, 롯데 '수비강화캠프'서 MVP 영예…투수 부문은 김기준",
+  "published_at": "2026-11-25T03:12:00.000Z",
+  "collected_at": "2026-11-25T13:37:45.822Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 72,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "미디어펜",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE40UWpkUUlreTV1eEpEZjl6X24tQXJid3FCNFhsN2VGc0ljcDJWbHJoM2hDM3o0SVFiVTN1V0RjT0ZBR2tYLThpTGNVTzdKZzBIYXNaUdIBWEFVX3lxTE5HWjJqYlI0U2FmcHB6OURsRU5NMTFCcTA0dGsydEloMzBZRnNNeVNQLUVDeEZjVzFQZm5uaFBZQ0ZybnRhM2h5NWU2bklOaWlQSjdDWE9ZNUQ?oc=5"
+    }
+  ]
+}
