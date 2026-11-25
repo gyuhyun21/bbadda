@@ -1,0 +1,26 @@
+{
+  "id": "youtube-ef276d3c",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "youtube",
+  "source_name": "베이스볼 3분 톡",
+  "url": "https://www.youtube.com/watch?v=E_j1BULwqPY",
+  "title": "키움 평균 연봉 1억 22만 원! 하한액 60억 미달 시 벌금?! 단장의 폭탄 선언까지! #Shorts",
+  "published_at": "2026-11-25T10:46:34Z",
+  "collected_at": "2026-11-25T21:37:42.013Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 61,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 20,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

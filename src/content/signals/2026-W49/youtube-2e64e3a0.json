@@ -1,0 +1,26 @@
+{
+  "id": "youtube-2e64e3a0",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "source_name": "이글스라인업",
+  "url": "https://www.youtube.com/watch?v=hcU_l-jR4v8",
+  "title": "MLB 등판은 0경기인데 100만 달러? 한화가 데려온 왓슨 #한화이글스",
+  "published_at": "2026-11-25T19:15:39Z",
+  "collected_at": "2026-11-25T21:37:42.013Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 769,
+    "likes": 3,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 37,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

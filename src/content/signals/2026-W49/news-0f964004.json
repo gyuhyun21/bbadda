@@ -1,0 +1,22 @@
+{
+  "id": "news-0f964004",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "news",
+  "source_name": "마이데일리",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1aS0V6NFVjOGZVUDVIOUgtbFdubXBQMnQ0ZVpqU3kyeWFUVnF0cU5pZy03UWxCTWt0bTZoa0xxbEdUbDh5TGRVV0RkS3h6NFZWelNscE50V3F0TUJDR1c0Ug?oc=5",
+  "title": "노시환은 송성문의 길을 걷지 않는 것일까…ML행 문 닫힐 시간 임박, 한화는 FA 큰 손으로 복귀할 수 있나",
+  "published_at": "2026-11-25T14:00:00.000Z",
+  "collected_at": "2026-11-25T21:37:42.013Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

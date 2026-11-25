@@ -1,0 +1,23 @@
+{
+  "id": "news-401996f4",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠동아",
+  "url": "https://sports.donga.com/sports/article/all/20261125/135088554/1",
+  "title": "‘외국인투수 3명+류현진’ 한화, 5선발 한 자리가 더 귀해졌다",
+  "published_at": "2026-11-25T15:29:00.000Z",
+  "collected_at": "2026-11-25T21:37:42.013Z",
+  "summary_ko": "외국인 투수 3명에 류현진까지 선발로 서는 한화는 남은 5선발 한 자리를 두고 경쟁이 더 치열해졌다고 스포츠동아가 짚었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "5선발 한 자리, 경쟁 더 세졌다"
+}

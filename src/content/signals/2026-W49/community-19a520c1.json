@@ -1,0 +1,22 @@
+{
+  "id": "community-19a520c1",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 주드의 야구이야기",
+  "url": "https://blog.naver.com/baseballjud/224491152707",
+  "title": "한화 문현빈 다시 2루수 복귀? 잘 나가던 타격에 변수 생기나",
+  "published_at": "2026-11-25T10:48:00.000+09:00",
+  "collected_at": "2026-11-25T21:37:42.013Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 61,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

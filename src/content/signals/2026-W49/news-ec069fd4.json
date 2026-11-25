@@ -1,0 +1,28 @@
+{
+  "id": "news-ec069fd4",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "더게이트",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9jZmtlYU1ZZEVjNFgwMnlVMGdwOG5IZFJEUDY1bXNEdnJIQWpzdUlqZnVzZzk2OWtmSWFrXzFqdHFMLV9nWGdvU2FSamR2eFhXVWlzYVJoM0dwYTlrUFA2ejduSEpZTGlm0gFsQVVfeXFMT1F0SWJvb0Nickl1cTE5UTZsMGpDMG5tV3B6MTBKSnZzbGhCZDE1djB3a0tFc3NtNW11T19QWEZuNC1nQXNkUnBLU0RrNjQ5RE4xT1liWFhBclpRNWNFc2lRb1VJajFyLTBUeHpV?oc=5",
+  "title": "KIA, 광주센트럴병원과 지정병원 협약…선수단 부상 예방부터 치료·재활까지 지원",
+  "published_at": "2026-11-25T07:12:08.000Z",
+  "collected_at": "2026-11-25T21:37:42.013Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 71,
+    "relevance": 70
+  },
+  "sentiment": "negative",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE95SFdYUXowRDJWeDQwQjZ1NjVtYUlOSUlqSGhBRkJMY2R6NWVqZ2VfaUVYZ0NTLWttNzdkY3AwbWhNd0NnQjhZd0d4S3BaT3ZHbjQ5RlVENXFETmNESXZTTC1LYTQzRzBCWUpjVW5MRdIBb0FVX3lxTE95SFdYUXowRDJWeDQwQjZ1NjVtYUlOSUlqSGhBRkJMY2R6NWVqZ2VfaUVYZ0NTLWttNzdkY3AwbWhNd0NnQjhZd0d4S3BaT3ZHbjQ5RlVENXFETmNESXZTTC1LYTQzRzBCWUpjVW5MRQ?oc=5"
+    }
+  ]
+}

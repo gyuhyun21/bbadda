@@ -1,0 +1,22 @@
+{
+  "id": "news-a07d6977",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "코리아투데이뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBuWkxWdEpTTHNGUmwxTUxOaEZKZXMyV2JYeGpJNUVBdnI1SVJGVzkzVnJNWXhLSU82X3d4UFFaekw3V0RWa2lF?oc=5",
+  "title": "삼성 라이온즈, 12년 만에 한국시리즈 정상 탈환…푸른 사자 다시 포효",
+  "published_at": "2026-11-25T14:49:00.000Z",
+  "collected_at": "2026-11-25T21:37:42.013Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "news-ec118bfe",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBKOTN4UFZjQXRyT1otV2ZCTWs4dHNrUDA3THVoNDhYRkNDQnRNYks4WTVUb2ZWOE52UHpUUjVZQVNGYUJ3QkhwOS00NE9SWWVCa3hyd2staTFZZEhfMmw1VF9QM0lTT3EtVE8zRDdvZFdhTXJjUUFBWm5tYTVxZw?oc=5",
+  "title": "3승14패 최다패 투수의 고백 \"나 때문에 더 높이 못 가는 거 같아, 너무 미안했다\"",
+  "published_at": "2026-11-25T20:07:07.000Z",
+  "collected_at": "2026-11-25T21:37:42.013Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQ29ZdUFPa2Y0UmNmVVpVRmR6N2dDQnJtenlwN0lTZVljMEFrdWNzc0hzV3RyYUswNm1tb0dNb3p4aTZseE1lTHR2LXhDVGpqZ1FBalc0clNKa3RtNG4zOVM0UV83VEhaU2tPcWk2UVV3ajA3d2JESVVOUWN1X3ptMEpubw?oc=5"
+    }
+  ]
+}

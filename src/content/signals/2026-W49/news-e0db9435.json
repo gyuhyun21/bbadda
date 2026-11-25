@@ -1,0 +1,22 @@
+{
+  "id": "news-e0db9435",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "일간스포츠",
+  "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1FZGZEYmdqUVpVbEFaLTk5a0FhTjROU2FodnU5eXRfMFY5ZDl2bXBLMmZUaEpPbUY5aU9wUXZWU21YSUUyVlR5WmlEQ3FRdGJYclY3blRpb2NNVkk?oc=5",
+  "title": "LG, 아시아쿼터 선수 케네디와 재계약...좌타 스페셜리스트 지켰다",
+  "published_at": "2026-11-25T02:20:00.000Z",
+  "collected_at": "2026-11-25T21:37:42.013Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 61,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

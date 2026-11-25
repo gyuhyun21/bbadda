@@ -1,0 +1,24 @@
+{
+  "id": "community-61138bff",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 JetNews",
+  "url": "https://jetnews.tistory.com/128",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/404B1UFBCdX",
+  "title": "김하성이 디트로이트와 계약? 연봉은 4분의 1로 줄었다",
+  "published_at": "2026-11-25T09:50:27.000+09:00",
+  "collected_at": "2026-11-25T21:37:42.013Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 61,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-84fb36f3",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "한겨레",
+  "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9VRDZwOHQ5Y1J3VlNud1NYcDFWY1RBOHlCV3pGRTNGMkZwRWlwVzdxWmdKVUtKd1MzSlJCb1EySVJVS1MyWVNJM0dFaENjTEZjWnZwR1JVUXcxcjQtQklieVVXZ3hOdw?oc=5",
+  "title": "느림은 미학이 아니다 [김은식의 이사만루]",
+  "published_at": "2026-11-25T20:00:00.000Z",
+  "collected_at": "2026-11-25T21:37:42.013Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

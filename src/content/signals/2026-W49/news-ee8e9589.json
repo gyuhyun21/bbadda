@@ -1,0 +1,23 @@
+{
+  "id": "news-ee8e9589",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcHNJVFU0ZE5XU0k1V19aQzY4OHA1WFRrZzliclRXMnhmckFPZWlyelp4UVo1VmUzOHd6WDA5REYtYTItRVdXVFdCMURKV2dFOVNxeXM3cmc4TUl4XzQycDBBNTI1bTZac0dCNHNjZEpwaHQ1ZTdaMVBCZG1abWR0MkhVMmZLd9IBhgFBVV95cUxNcHNJVFU0ZE5XU0k1V19aQzY4OHA1WFRrZzliclRXMnhmckFPZWlyelp4UVo1VmUzOHd6WDA5REYtYTItRVdXVFdCMURKV2dFOVNxeXM3cmc4TUl4XzQycDBBNTI1bTZac0dCNHNjZEpwaHQ1ZTdaMVBCZG1abWR0MkhVMmZLdw?oc=5",
+  "title": "강민호, 한국시리즈 1차전 열세에도 희망 \"해볼만 하네\"",
+  "published_at": "2026-11-25T17:21:27.000Z",
+  "collected_at": "2026-11-25T21:37:42.013Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

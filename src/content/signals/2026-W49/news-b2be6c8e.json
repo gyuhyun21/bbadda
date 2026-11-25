@@ -1,0 +1,23 @@
+{
+  "id": "news-b2be6c8e",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "news",
+  "source_name": "www.xportsnews.com",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBVQldCbmlpVTFrZmJ2UFJ4eDVYYmdvOGVnMEFZRUs2Qk9Pc3VjdzZyYWpHTERJcVZRLXpIVlJvcC1ZVmZXR3JocG9qNWVUXzFJNjlUMA?oc=5",
+  "title": "'ERA 8위' SSG 마운드의 반등 자신감…가고시마에서 희망 찾았다",
+  "published_at": "2026-11-25T17:15:30.000Z",
+  "collected_at": "2026-11-25T21:37:42.013Z",
+  "summary_ko": "올해 팀 평균자책 8위였던 SSG 마운드가 가고시마 캠프에서 반등 가능성을 찾았다고 엑스포츠뉴스가 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "평균자책 8위 마운드, 가고시마서 반등"
+}

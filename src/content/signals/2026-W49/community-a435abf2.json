@@ -1,0 +1,23 @@
+{
+  "id": "community-a435abf2",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 마데베이스볼",
+  "url": "https://blog.naver.com/madebaseball/224490581688",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/Bi57SFWynlL",
+  "title": "[2027년 두산 베어스] 빅리그 왼손 수아레즈의 64번 선발",
+  "published_at": "2026-11-25T14:43:00.000+09:00",
+  "collected_at": "2026-11-25T21:37:42.013Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 62,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

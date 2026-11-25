@@ -1,0 +1,24 @@
+{
+  "id": "community-1563e61a",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&page=5&document_srl=10593518157",
+  "title": "아!자!자!잣! - 야구",
+  "published_at": "2026-11-25T00:37:42.013Z",
+  "collected_at": "2026-11-25T21:37:42.013Z",
+  "summary_ko": "",
+  "excerpt": "... [오피셜] LG, 존 케네디 총액 20만 달러에 아시아쿼터 재계약 [20]. 8 ... 엘지 트윈스…",
+  "metrics": {},
+  "scores": {
+    "hot": 61,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

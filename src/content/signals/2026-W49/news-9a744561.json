@@ -1,0 +1,23 @@
+{
+  "id": "news-9a744561",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5UVFpNWml2ZVRSY0Y3dEtYZWVxZTJiU3cza19DWVp0YXQ1TnNIR0NrSV9WdWR2eXdycVRveENrN1pKWUlYOE5BVjhoNmVXRlg1aFlJTFhvYXZkdk5KT0JOZ05QZXN4blZYRVhqWFY1dnRlNXo4NW83QtIBeEFVX3lxTE5UVFpNWml2ZVRSY0Y3dEtYZWVxZTJiU3cza19DWVp0YXQ1TnNIR0NrSV9WdWR2eXdycVRveENrN1pKWUlYOE5BVjhoNmVXRlg1aFlJTFhvYXZkdk5KT0JOZ05QZXN4blZYRVhqWFY1dnRlNXo4NW83Qg?oc=5",
+  "title": "강민호, 한국시리즈 5경기 내내 속옷 안 갈아입었다 \"우승 간절해서\"",
+  "published_at": "2026-11-25T17:33:44.000Z",
+  "collected_at": "2026-11-25T21:37:42.013Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

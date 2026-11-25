@@ -1,0 +1,23 @@
+{
+  "id": "news-a57d8180",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스핌",
+  "url": "https://www.newspim.com/news/view/20261125001069",
+  "title": "[프로야구] 롯데, 새 아시아쿼터로 외야수 영입?…불펜 보강 더 시급",
+  "published_at": "2026-11-25T20:35:00.000Z",
+  "collected_at": "2026-11-25T21:37:42.013Z",
+  "summary_ko": "롯데가 새 아시아쿼터로 외야수 영입을 검토 중이지만, 불펜 보강이 더 급하다는 지적이 나왔다고 뉴스핌이 보도했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "아시아쿼터, 외야수냐 불펜이냐"
+}

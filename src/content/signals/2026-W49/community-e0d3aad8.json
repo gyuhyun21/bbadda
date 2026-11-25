@@ -1,0 +1,24 @@
+{
+  "id": "community-e0d3aad8",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 루나의 스포츠픽",
+  "url": "https://blog.naver.com/susu8522/224491285835",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/LJ60ZcuIbfl",
+  "title": "노시환 메이저리그 도전, 10개 구단 거론이 계약을 보장하지 않는 이유",
+  "published_at": "2026-11-25T12:17:00.000+09:00",
+  "collected_at": "2026-11-25T21:37:42.013Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 61,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

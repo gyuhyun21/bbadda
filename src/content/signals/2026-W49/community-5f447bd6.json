@@ -1,0 +1,30 @@
+{
+  "id": "community-5f447bd6",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 머.스.케 (머니,스포츠,케이팝)",
+  "url": "https://moneysportskpop.tistory.com/800",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/9GrghtFdfHb",
+  "title": "2026 KBO 시상식 11월 26일 개최! 정규리그 MVP와 신인상의 주인공은 누구?",
+  "published_at": "2026-11-25T23:28:55.000+09:00",
+  "collected_at": "2026-11-25T21:37:42.013Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 73,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "뉴스경남",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB6eTdoTGlRaTlYZ1EtSDEya0U4QTJGSE5zLWljbXEyU1ZVT2JRWUVlN3M1cjlPelpzek9RUERiUkpmanExV19JaFZoS3FJYTR0a2QwdGlYaUtZS3NnYXNpWkxWUlRxTVBO?oc=5"
+    }
+  ]
+}

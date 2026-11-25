@@ -1,0 +1,23 @@
+{
+  "id": "news-6fdd0fcf",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5veFY1VnotMmtZVmNMNTlOb2dmWUVMLXBwSV9Kb0xOUXoxOUFoUGRtOFNRMFhJN3B4OHVxeWRpOUZrODFBVkJSQ1F5VWxkbXJoQVppdnlnY2V6ZWlQbm1yLUZ0SkZFeHRnSzYzWFBueV8wY0lUVzNfTtIBeEFVX3lxTE5veFY1VnotMmtZVmNMNTlOb2dmWUVMLXBwSV9Kb0xOUXoxOUFoUGRtOFNRMFhJN3B4OHVxeWRpOUZrODFBVkJSQ1F5VWxkbXJoQVppdnlnY2V6ZWlQbm1yLUZ0SkZFeHRnSzYzWFBueV8wY0lUVzNfTg?oc=5",
+  "title": "강민호, 갈비뼈 골절에도 한국시리즈 5경기 강행 \"정신력으로 참아\"",
+  "published_at": "2026-11-25T17:01:42.000Z",
+  "collected_at": "2026-11-25T21:37:42.013Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

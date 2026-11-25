@@ -1,0 +1,23 @@
+{
+  "id": "news-31d756bd",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "아주경제",
+  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9lMHJGdzZ3emVQeC10Z1lNWjR1T0tmZktXQVpvakpwQ3UwZWFqWUd6Rmo5b3o5bE11RS1YRFZ1b01BZ3RtRkJsemczTEliemZaNU9qZUNjMjBGZ9IBWEFVX3lxTE1NME9yQnF2QlFFZ2xmQUFON2F1RS1uYVJqdEk2bXNtZHVMd0wydGNyOV9FV3RSNGRZZ0ZKQmk3aGpKSGZkR3hReTAxSlpWd1o0ekFHUGo3WWg?oc=5",
+  "title": "[판을 바꾼 안목] 경기장 밖에서 팬心 잡았다…굿즈·팝업으로 판 키운 프로스포츠",
+  "published_at": "2026-11-25T15:00:00.000Z",
+  "collected_at": "2026-11-25T21:37:42.013Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

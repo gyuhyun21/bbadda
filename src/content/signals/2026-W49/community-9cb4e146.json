@@ -1,0 +1,23 @@
+{
+  "id": "community-9cb4e146",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 꿀버리 랜드",
+  "url": "https://blog.naver.com/honeybee_0620/224491028067",
+  "title": "2027 KBO 보류선수 명단 발표｜보류·방출·자유계약 차이는?",
+  "published_at": "2026-11-25T09:25:00.000+09:00",
+  "collected_at": "2026-11-25T21:37:42.013Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 60,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

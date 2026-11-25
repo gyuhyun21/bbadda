@@ -1,0 +1,27 @@
+{
+  "id": "youtube-abb9fc2f",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "Eagles TV",
+  "url": "https://www.youtube.com/watch?v=coRda6erkPE",
+  "title": "[LIVE] 2026 독수리한마당 미리메리크리스마스🎄",
+  "published_at": "2026-11-25T11:05:17Z",
+  "collected_at": "2026-11-25T21:37:42.013Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 201732,
+    "likes": 2593,
+    "comments": 128
+  },
+  "scores": {
+    "hot": 71,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

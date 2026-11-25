@@ -1,0 +1,24 @@
+{
+  "id": "news-1d7e4df9",
+  "issue": "2026-W49",
+  "module": "rivalry",
+  "team": "hanwha",
+  "teams": [
+    "hanwha",
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "조선일보",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdzMtcWp1WE02NnExMW1DVFdneTY3NGQxa1kxbTFpb3hiUHhnaFpKaFVuc0NuU192ZXFhN0w5dHh1aXNNNzZhZWxILVRTWDdsZ0E0UmZtMmxRdlFHdFhGcjlTMmZHQmZaTDMwQmgwVWdKbjZmWW9BU05rS3djMGZHZXJ3cw?oc=5",
+  "title": "감독 대행, 감독 후보로 떠난 팀...1년 만에 다시 돌아온 이유 \"정말 많이 고민했습니다\" [인터뷰]",
+  "published_at": "2026-11-25T16:17:00.000Z",
+  "collected_at": "2026-11-25T21:37:42.013Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "youtube-2ef31ae0",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "source_name": "뇌절야구",
+  "url": "https://www.youtube.com/watch?v=FMjIbqYV3KA",
+  "title": "[Playlist] 야구 얘기 금지 야금 #한화이글스",
+  "published_at": "2026-11-25T15:28:47Z",
+  "collected_at": "2026-11-25T21:37:42.013Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 60,
+    "likes": 3,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 60,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}
