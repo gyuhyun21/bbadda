@@ -1,0 +1,106 @@
+{
+  "music": "bgm-morning",
+  "subStyle": "yt",
+  "outro": {
+    "hold": 1.5,
+    "fade": 0.5
+  },
+  "pool": {
+    "no": 34,
+    "series": "그날의 야구",
+    "ep": 17,
+    "facts": "센세 확인 2026-11-26(기사 2곳 이상, PR 본문 표)"
+  },
+  "segments": [
+    {
+      "src": "clip1.mp4",
+      "from": 0,
+      "to": 10,
+      "credit": "MLB Vault",
+      "yt": "pamDdo6DJ1c",
+      "say": "a1.mp3",
+      "text": "천구백구십삼년 월드시리즈 육차전 구회말. 토론토는 오 대 육으로 지고 있었고, 필라델피아 마무리 미치 윌리엄스가 올라왔어.",
+      "kick": "그날의 야구 #17",
+      "head": "지고 있던 9회말<br><b>한 방</b>에 끝",
+      "sub": "1993 WS 6차전, 9회말 토론토 5:6",
+      "note": "출처: SABR·MLB.com · 영상: MLB Vault",
+      "fx": [
+        {
+          "at": 4.0,
+          "text": "제발",
+          "style": "mind",
+          "pos": "low"
+        }
+      ]
+    },
+    {
+      "src": "clip2.mp4",
+      "from": 0,
+      "to": 10,
+      "credit": "Global Sportsline Toronto",
+      "yt": "9_HKaHIsAok",
+      "say": "a2.mp3",
+      "text": "볼넷과 안타로 일 아웃 일 이루. 볼카운트 투 투에서 조 카터가 받아친 공이 그대로 담장을 넘었어.",
+      "kick": "1사 1·2루",
+      "head": "2-2에서<br><b>역전 3점포</b>",
+      "sub": "1사 1·2루, 볼카운트 2-2",
+      "note": "출처: SABR·MLB.com · 영상: Global Sportsline Toronto",
+      "fx": [
+        {
+          "at": 3.0,
+          "text": "넘어간다",
+          "style": "pop",
+          "pos": "low"
+        }
+      ]
+    },
+    {
+      "src": "clip3.mp4",
+      "from": 0,
+      "to": 10,
+      "credit": "Global News",
+      "yt": "7_O_TUdb0_c",
+      "say": "a3.mp3",
+      "text": "팔 대 육 끝내기. 월드시리즈를 홈런으로 끝낸 건 천구백육십년 마제로스키 이후 두 번째였어.",
+      "kick": "8:6 끝내기",
+      "head": "WS 끝낸 홈런<br>역사상 <b>두 번째</b>",
+      "sub": "1960 마제로스키 이후 두 번째",
+      "note": "출처: MLB.com·명예의 전당 · 영상: Global News",
+      "fx": [
+        {
+          "at": 1.0,
+          "text": "우승",
+          "style": "stamp"
+        }
+      ]
+    },
+    {
+      "src": "clip4.mp4",
+      "from": 0,
+      "to": 10,
+      "credit": "SPORTSNET",
+      "yt": "uNfo-QY06XI",
+      "say": "a4.mp3",
+      "text": "근데 지고 있다가 끝내기 홈런으로 월드시리즈를 끝낸 건 지금도 카터 한 명뿐이야. 이 기록, 누가 깰 수 있을까?",
+      "kick": "유일한 기록",
+      "head": "지다가 뒤집은 건<br><b>카터뿐</b>",
+      "sub": "2025 WS 2차전 시구도 카터",
+      "note": "출처: MLB.com·NBC · 영상: SPORTSNET",
+      "fx": [
+        {
+          "at": 3.5,
+          "text": "레전드",
+          "style": "mind",
+          "pos": "low"
+        }
+      ]
+    }
+  ],
+  "end": {
+    "look": "profile",
+    "head": "다시 나올까<br><b>역전 끝내기</b>",
+    "cta": "야구 친구한테 보내 줘",
+    "say": "a5.mp3",
+    "text": "야구 친구한테 보내 줘."
+  }
+}
