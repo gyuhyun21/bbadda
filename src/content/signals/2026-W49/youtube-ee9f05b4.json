@@ -1,0 +1,27 @@
+{
+  "id": "youtube-ee9f05b4",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "kt wiz - 위즈TV",
+  "url": "https://www.youtube.com/watch?v=d4tdu0-vswI",
+  "title": "(덕아웃캠) 아무래도 우리한테만 억까를 하는 것 같아요. T볼 야구 대회ㅣ2026 팬페스티벌 [위즈티비]",
+  "published_at": "2026-11-25T10:39:08Z",
+  "collected_at": "2026-11-25T13:37:45.822Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 4929,
+    "likes": 162,
+    "comments": 35
+  },
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

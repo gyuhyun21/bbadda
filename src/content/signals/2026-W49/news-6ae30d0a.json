@@ -1,0 +1,23 @@
+{
+  "id": "news-6ae30d0a",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "일간스포츠",
+  "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ReUJsanp3QXRmRXQ0M1NXTEo5c3Y5TnVzYUp3QjNMNGpnaE13NW8tZ2UxdC10d3lQZENNa2JMYjdMRnFUcWNXTF9WZXNjc01mU3N4aFcyUEg5Sms?oc=5",
+  "title": "'NPB 타격 3관왕' 사토는 1억2000만달러 받고 컵스행, 그렇다면 노시환은?",
+  "published_at": "2026-11-25T00:51:00.000Z",
+  "collected_at": "2026-11-25T13:37:45.822Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

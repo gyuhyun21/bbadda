@@ -1,0 +1,23 @@
+{
+  "id": "news-1886052e",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠동아",
+  "url": "https://sports.donga.com/ent/article/all/20261125/135086643/1",
+  "title": "최형우, 삼성 방출 후 막노동까지…7번째 우승 (유퀴즈)",
+  "published_at": "2026-11-25T01:57:14.000Z",
+  "collected_at": "2026-11-25T13:37:45.822Z",
+  "summary_ko": "최형우가 '유 퀴즈 온 더 블럭'에 나와 삼성 방출 뒤 막노동까지 했던 시절과 7번째 우승 이야기를 꺼냈다.",
+  "metrics": {},
+  "scores": {
+    "hot": 72,
+    "relevance": 70
+  },
+  "sentiment": "mixed",
+  "brief_ko": "최형우, 막노동 딛고 7번째 우승"
+}

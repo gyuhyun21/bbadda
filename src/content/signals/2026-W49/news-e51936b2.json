@@ -1,0 +1,24 @@
+{
+  "id": "news-e51936b2",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "파이낸셜뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1QTDUzd3F3czZ2X3NoakxOa1BaZURVTFJIMGF0SGxqZV9mUUJkc3QxOHVxM3lXbWRuNUJvLUNyUVNGYkJqeFRtYm5FSTQ4MGlQTHhaVjhrRlE0UQ?oc=5",
+  "title": "\"日 3관왕도, 美 드래프트 1순위 후보도 제쳤다\"…김도영, 美 선정 세계 유망주 랭킹 1위",
+  "published_at": "2026-11-25T01:56:56.000Z",
+  "collected_at": "2026-11-25T13:37:45.822Z",
+  "summary_ko": "미국 매체가 꼽은 세계 유망주 랭킹에서 김도영이 1위에 올랐다. 일본 타격 3관왕과 미국 드래프트 1순위 후보를 앞섰다고 파이낸셜뉴스가 보도했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "brief_ko": "김도영, 美 선정 세계 유망주 1위"
+}

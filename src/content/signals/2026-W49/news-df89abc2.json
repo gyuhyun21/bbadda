@@ -1,0 +1,22 @@
+{
+  "id": "news-df89abc2",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "news",
+  "source_name": "MHN스포츠",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4tWTYwa0dtSy05eVN1c2hzanlNV2p5ZUx2RS1QTzRSZUhTeVFRSUdzZllBOU9DUy1USmdHOGRQOUM5M2VsQVVjZHhjWnJmSjRlaDNnTEhCeS1ZcTcxbnJiaDJtUQ?oc=5",
+  "title": "두산 ‘ML 풀타임 선발’ 수아레즈, 땅볼 구종 있었다…근데 보도자료에선 빠졌다? 무슨 이유였을까",
+  "published_at": "2026-11-25T01:15:12.000Z",
+  "collected_at": "2026-11-25T13:37:45.822Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "news-b685de71",
+  "issue": "2026-W49",
+  "module": "league",
+  "teams": [],
+  "source_type": "news",
+  "source_name": "아시아투데이",
+  "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9pVy16TzZEb0l3UjlfM0EzQm40LVdiX0lvM3FpUVR5ZEM3a1h0d3Fyc2JkRnAyS1k4c3FvclNjTlBrNGdfbE5kbXpJemE1aFJhMmFJa29DcnEtLWI1RU9kVmxVc19HVl8zaGdmUThB?oc=5",
+  "title": "구글, KBO와 야구 검색 혁신…제미나이로 팬 경험도 넓힌다",
+  "published_at": "2026-11-25T05:00:48.000Z",
+  "collected_at": "2026-11-25T13:37:45.822Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 89,
+    "relevance": 30
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "스포츠동아",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE40NHl3U0l2TVJiakRxVHN3ZGduWkJkb3dfMjQzeURib29EOHkzSm8tSTRvVHkxcURYZ3BqWFlleGhxamxPX205a05KeWdjRWdnYWdKYllyYjNrQjU2OHRUUzh1eWs5MnlCRWJ6VUVkR3g1dw?oc=5"
+    },
+    {
+      "source_name": "연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBPWmJUU0V0MGNUZWVINmw1cDIzMlJYR19INFE5eUc5Ymh3ckt5a2Q5bEdSNVVfN0dLRUR1TDEwRmNLX3l3a2lhTlVjZjdaOVo4Z3Q1c250NmxtMERsc0tydNIBYEFVX3lxTFBPWmJUU0V0MGNUZWVINmw1cDIzMlJYR19INFE5eUc5Ymh3ckt5a2Q5bEdSNVVfN0dLRUR1TDEwRmNLX3l3a2lhTlVjZjdaOVo4Z3Q1c250NmxtMERsc0tydA?oc=5"
+    },
+    {
+      "source_name": "테크월드",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1BdHYtQXA0V3dER01acjIya1RKeVFuU2UwV24xYkphVHVxX1g5SWJwVXBtbmk0aklGTWxSNkx4ZFYyUnBkdW02dHdoVW8tSXBSbF9sdDNrQ1QzWDAtUFU5cXZfaHR4QlBX?oc=5"
+    }
+  ]
+}

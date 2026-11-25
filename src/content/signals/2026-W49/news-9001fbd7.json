@@ -1,0 +1,40 @@
+{
+  "id": "news-9001fbd7",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "스타뉴스",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5BX3lkdmFzcC1LT1V4eF93dXdwa2NKSVZXMW1weWd4V0lISF9WUzI1eG9Eakl3Tkd1SkFOdXFOTjJ5LTQ2bFJmcXRxYjViQXZySUNfWTVDZHdMU0RiWjZJY3R6cUh0cVRNMUYtNFNXb2lvUWtPX3c?oc=5",
+  "title": "'7위·7위·7위' 롯데, 수비부터 뜯어고친 21일 끝났다! 이동욱호 첫 캠프 MVP 나승엽·김기준",
+  "published_at": "2026-11-25T03:08:11.000Z",
+  "collected_at": "2026-11-25T13:37:45.822Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 96,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBRbEU0Y19zWFVUVGcwaXF0SnR3Vkt0NzI1ZzRSQmlDOFdpRFRQMHN2UEs2Y1ZWMmFKVFdJZG1HbzlrVWw5enE3N3N0NEt3M3J2OWF2anZYRQ?oc=5"
+    },
+    {
+      "source_name": "SBS 뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE44dld0TzNfODFadXlnRmRHLVBSYllZc2hiT3ZBSlVMcEd6M2o2NUJOZlVUdXRiNlBhSmNXX2JxWkw0ZFVjNU9sOXJ2Z1g5WlRSbktVeGU4Q2QtRjUzXzE1R2c4N2N4dW9GbUE?oc=5"
+    },
+    {
+      "source_name": "스포츠월드",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1JbmxLUVNrNEpuUTk3SXR3SS1mc3QwSkxtbVg5SnludW9ZWVBJRVFUUDRabUN2S0Vfa3FQZ1JrSnVmNUJCS09CSDdJU2NPRU5XRVJMNzItQWJqOWdtZi1fMnpB?oc=5"
+    },
+    {
+      "source_name": "뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9DdURfbEdzVERCbFhqdjJuYmhNRnlreHNJWlluUUxLU3JycHg5RGQ5clpXaDJ1TkwwUnRvRUNqaGxTc25tLUUzM0wxY05Qd2RodUxXbHhVd3hmY3Z5RzhkNlNfUERXRXo4Q3d3YnVpZTl4TmFCYUlradIBeEFVX3lxTE9DdURfbEdzVERCbFhqdjJuYmhNRnlreHNJWlluUUxLU3JycHg5RGQ5clpXaDJ1TkwwUnRvRUNqaGxTc25tLUUzM0wxY05Qd2RodUxXbHhVd3hmY3Z5RzhkNlNfUERXRXo4Q3d3YnVpZTl4TmFCYUlraQ?oc=5"
+    }
+  ]
+}

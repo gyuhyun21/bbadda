@@ -1,0 +1,26 @@
+{
+  "id": "youtube-f0d567ab",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "이과장의 스포츠",
+  "url": "https://www.youtube.com/watch?v=8_JguV3-NGk",
+  "title": "구자욱, 원태인 삼성라이온즈 우승 카퍼레이드 불참",
+  "published_at": "2026-11-25T09:55:48Z",
+  "collected_at": "2026-11-25T13:37:45.822Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 555,
+    "likes": 2,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 34,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

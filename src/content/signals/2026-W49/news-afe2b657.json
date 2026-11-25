@@ -1,0 +1,24 @@
+{
+  "id": "news-afe2b657",
+  "issue": "2026-W49",
+  "module": "rivalry",
+  "team": "lotte",
+  "teams": [
+    "lotte",
+    "kiwoom",
+    "nc"
+  ],
+  "source_type": "news",
+  "source_name": "일요신문",
+  "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5weGV2R2FYNThSZER2dGZsNU9lYjVwSlZ0QnZqRFFUMjJ3QlJEMmlDNDM0OHlTZklQd21ZYWJHVWJjZGY0U21nOE5pSkpKeEpnazhidEhaTHdGUVFWQ2tvRWFka2pCUQ?oc=5",
+  "title": "롯데 레이예스 재계약 총력전, 키움 외국인 타자 2명 체제…NC의 선택은?",
+  "published_at": "2026-11-25T04:52:04.000Z",
+  "collected_at": "2026-11-25T13:37:45.822Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 81,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

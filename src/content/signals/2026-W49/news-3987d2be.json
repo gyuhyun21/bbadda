@@ -1,0 +1,22 @@
+{
+  "id": "news-3987d2be",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "매일신문",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5TY1NhSW9fblFjQWR3MjN4R3ozbVpITnY0N3RMSDQ5Y0NNdnBqazczYm1WOHJPRHJNUHJRZndCR0lxT2VkcDloSWFYVVVySFEyV19kSnRKNHRGbGh0NjJvWm5n?oc=5",
+  "title": "일본 타격 1위는 MLB행, 삼성 라이온즈의 구자욱은 가능할까",
+  "published_at": "2026-11-25T06:26:22.000Z",
+  "collected_at": "2026-11-25T13:37:45.822Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 89,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

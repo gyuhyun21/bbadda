@@ -1,0 +1,27 @@
+{
+  "id": "youtube-0b3eb081",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "LGTWINSTV",
+  "url": "https://www.youtube.com/watch?v=M9-7YQ1EANE",
+  "title": "27시즌에도 트윈스의 마운드를 지켜줄 케네디!",
+  "published_at": "2026-11-25T04:29:07Z",
+  "collected_at": "2026-11-25T13:37:45.822Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 9080,
+    "likes": 648,
+    "comments": 45
+  },
+  "scores": {
+    "hot": 85,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

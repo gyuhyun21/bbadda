@@ -1,0 +1,25 @@
+{
+  "id": "news-b40c259e",
+  "issue": "2026-W49",
+  "module": "rivalry",
+  "team": "hanwha",
+  "teams": [
+    "hanwha",
+    "kia",
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "한겨레",
+  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5KZDVJRVBmTnFWRmtZdHpES2cyZEtxRXdSZEVNTmF4WS0xQ3I3dkRiRHRXd0lzeHNyWkZaOEU1ejdYaXZ0dHVITjRpaURORVQ2ZzA5LTNuZGZFa0dWd2hQMnlVd3dnSnM?oc=5",
+  "title": "김도영이냐 곽빈이냐, KBO ‘별 중의 별’ 26일 가린다…신인왕 허인서 유력",
+  "published_at": "2026-11-25T01:56:00.000Z",
+  "collected_at": "2026-11-25T13:37:45.822Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 88,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

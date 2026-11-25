@@ -1,0 +1,24 @@
+{
+  "id": "news-3cbb9bd7",
+  "issue": "2026-W49",
+  "module": "rivalry",
+  "team": "nc",
+  "teams": [
+    "nc",
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "MHN스포츠",
+  "url": "https://mhnse.com/news/articleView.html?idxno=1710002",
+  "title": "NC 복귀 손아섭, 친정 롯데 컴백 질문에 솔직한 답변…\"기대 안 했다면 거짓말\"",
+  "published_at": "2026-11-25T03:20:23.000Z",
+  "collected_at": "2026-11-25T13:37:45.822Z",
+  "summary_ko": "NC로 돌아온 손아섭이 친정 롯데 복귀를 묻는 질문에 '기대 안 했다면 거짓말'이라고 답했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 72,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "brief_ko": "손아섭, 롯데 복귀 질문에 솔직"
+}

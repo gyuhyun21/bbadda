@@ -1,0 +1,33 @@
+{
+  "id": "community-1bd96450",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 가장 중요! 검색에 잘 노출되도록",
+  "url": "https://blog.naver.com/yesjun3721/224491269451",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/1D2zMhVNqww",
+  "title": "두산이 퓨처스팀 새판 짠다, 조성환 감독·박정권 코치 선임",
+  "published_at": "2026-11-25T12:05:00.000+09:00",
+  "collected_at": "2026-11-25T13:37:45.822Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 96,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "스포츠동아",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE82dnhwSDBLVVZDM3V0R3RxWXYxYlRqYmJzRklyUjB3WFRmbnNFQ21ESzRYc3lKY2FTNWxFazRJZ0JFVHo3cGp1UTFWc0RzeFRVZjFwNDh5bldQYmliVTFDd3lXVFlwS3JKUk9EdkRVMHZDdw?oc=5"
+    },
+    {
+      "source_name": "마이데일리",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5TbUlQMDRaRkg3a3NpNWVtR0tScGhVU3Q3VHRVU2JrSTZrMW5oa21mM3F0R1hDSjQ3WXp4VzlGaWh0VHhoeXM5a3dVT3lqRjdQbEpaWW5aYW1IQlAwVTJZRg?oc=5"
+    }
+  ]
+}

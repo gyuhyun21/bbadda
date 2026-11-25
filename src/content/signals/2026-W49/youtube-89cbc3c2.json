@@ -1,0 +1,27 @@
+{
+  "id": "youtube-89cbc3c2",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "기아타이거즈 KIA TIGERS",
+  "url": "https://www.youtube.com/watch?v=-9aW_9XOyR4",
+  "title": "이호연 말투 구수하지 그냐 안그냐",
+  "published_at": "2026-11-25T10:22:46Z",
+  "collected_at": "2026-11-25T13:37:45.822Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 19263,
+    "likes": 1181,
+    "comments": 54
+  },
+  "scores": {
+    "hot": 89,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

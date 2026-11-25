@@ -1,0 +1,27 @@
+{
+  "id": "youtube-b5f762d9",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "최고보다는 최선을",
+  "url": "https://www.youtube.com/watch?v=nbAFYZQuhU8",
+  "title": "KBO 45홈런 타자 미국의 평가는?",
+  "published_at": "2026-11-25T11:15:07Z",
+  "collected_at": "2026-11-25T13:37:45.822Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 805,
+    "likes": 7,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 40,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

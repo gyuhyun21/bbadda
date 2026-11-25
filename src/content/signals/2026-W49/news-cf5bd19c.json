@@ -1,0 +1,22 @@
+{
+  "id": "news-cf5bd19c",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "매일경제",
+  "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBCaTNPc2RKcV9ydDNDVWNVaEQwYVFJZFUydExwVTZUdVEzNUZzSVUxTHduNnNoMXJlTWRkVEUtMzJCc1plTnc?oc=5",
+  "title": "롯데, 2027시즌 준비 위한 수비강화캠프 마무리…MVP는 나승엽+김기준",
+  "published_at": "2026-11-25T03:14:00.000Z",
+  "collected_at": "2026-11-25T13:37:45.822Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-84175ab1",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "뉴스1",
+  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1oY3JjYlBqdWVzaE1hUkZ5Y1BuRjhCV2RhSExoMVFhekFvQU54STJKek1wejJMUHRPZVdReE55VUcwdmJycGRkNmVyTHIwVFlKYWxpWm04dw?oc=5",
+  "title": "워크숍 마친 염경엽 감독 \"아쉬웠던 점 점검하고 내년 방향성 정립\"",
+  "published_at": "2026-11-25T05:54:22.000Z",
+  "collected_at": "2026-11-25T13:37:45.822Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

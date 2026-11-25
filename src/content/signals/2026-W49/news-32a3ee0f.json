@@ -1,0 +1,24 @@
+{
+  "id": "news-32a3ee0f",
+  "issue": "2026-W49",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "마니아타임즈",
+  "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5MQU90RUNsSm1hSjZmcThGbXd3Y29IQUNaQ2dpMkN0aklneGVJN1p1OGYtOWpxTWY2LTQ4RWY0SW9OMHZDcjVqZnp5T3YwMGNCYVJBRzJ3d2xSQWZwR3RxSnJ2a01BamNzN0czLUtwQWtxVUp4a0VVeEQxVQ?oc=5",
+  "title": "'포스팅 버리고 1년 기다린 진짜 이유' 원태인, KBO 100억 시장 대신 일본행?",
+  "published_at": "2026-11-25T01:20:30.000Z",
+  "collected_at": "2026-11-25T13:37:45.822Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 80,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

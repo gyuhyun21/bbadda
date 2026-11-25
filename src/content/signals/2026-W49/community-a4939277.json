@@ -1,0 +1,24 @@
+{
+  "id": "community-a4939277",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "엠엘비파크",
+  "url": "https://mlbpark.donga.com/mp/b.php?b=kbotown&id=202611130120081048",
+  "title": "타이거즈 포수 500타석 이상 우르크 순위(김태군 2등)",
+  "published_at": "2026-11-12T15:00:00.000Z",
+  "collected_at": "2026-11-25T13:37:45.822Z",
+  "summary_ko": "",
+  "excerpt": "... 2026 KBO. 팀 순위 바로가기 · 포스트시즌 대진 · KIA타이거즈 포수 500타석 이상 우르크…",
+  "metrics": {},
+  "scores": {
+    "hot": 8,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

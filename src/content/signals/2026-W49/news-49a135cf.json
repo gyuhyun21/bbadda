@@ -1,0 +1,29 @@
+{
+  "id": "news-49a135cf",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "연합뉴스",
+  "url": "https://www.yna.co.kr/amp/view/AKR20261125098100007",
+  "title": "프로야구 롯데, 일본 수비 강화캠프 마무리…MVP 나승엽·김기준",
+  "published_at": "2026-11-25T04:35:50.000Z",
+  "collected_at": "2026-11-25T13:37:45.822Z",
+  "summary_ko": "롯데가 21일간의 일본 수비 강화캠프를 마쳤다. 캠프 MVP는 야수 나승엽, 투수 김기준이다.",
+  "metrics": {},
+  "scores": {
+    "hot": 73,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "톱스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE44a2ZFdUhoYmZsTThhOTFEcnVfYTF2dk9hSDdNa0lITjJOczMxUGVIV0VzVlJzZjBNdDdpaS1GR3Nfa0JsYV9qU3owVkRQbUtTaDllTXE4ck8xZ2xyeDYyR0JVUmZmM2w5endRNVEwSlA3dw?oc=5"
+    }
+  ],
+  "brief_ko": "수비 캠프 MVP, 나승엽·김기준"
+}

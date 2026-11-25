@@ -1,0 +1,23 @@
+{
+  "id": "community-adcde4b9",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "다음카페 樂soccer",
+  "url": "https://cafe.daum.net/rocksoccer/ADuT/374455",
+  "title": "갈꺼면 그냥 빨리 계약하고 오피셜이나 떠라 좀",
+  "published_at": "2026-11-25T16:37:12.000+09:00",
+  "collected_at": "2026-11-25T13:37:45.822Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

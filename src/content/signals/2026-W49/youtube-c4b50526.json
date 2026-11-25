@@ -1,0 +1,26 @@
+{
+  "id": "youtube-c4b50526",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "youtube",
+  "source_name": "번트맨 Bunt Man",
+  "url": "https://www.youtube.com/watch?v=hwyf66LVLhU",
+  "title": "롯데에 필요한 아시아 쿼터는 누구? #롯데자이언츠 #kbo #baseball",
+  "published_at": "2026-11-25T09:30:32Z",
+  "collected_at": "2026-11-25T13:37:45.822Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 854,
+    "likes": 5,
+    "comments": 2
+  },
+  "scores": {
+    "hot": 40,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

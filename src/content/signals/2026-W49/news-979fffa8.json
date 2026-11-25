@@ -1,0 +1,22 @@
+{
+  "id": "news-979fffa8",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스1",
+  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9YcTFOM2NtUzd4ZGRSTkFPd1hvbWNJVnkyLVZDdW1idHVsc1dQS0syc3FONUlRWkh5LXlrd1hGNDVLYWFkejl5MmU0S1ZJX0pUa2ZWZnZiWQ?oc=5",
+  "title": "한 데 모인 한화 코칭스태프와 프런트…'시스템 야구' 구축 첫발",
+  "published_at": "2026-11-25T06:49:47.000Z",
+  "collected_at": "2026-11-25T13:37:45.822Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

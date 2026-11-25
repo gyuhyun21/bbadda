@@ -1,0 +1,27 @@
+{
+  "id": "youtube-bf0f9fb8",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "키움히어로즈",
+  "url": "https://www.youtube.com/watch?v=V9DAPE9MfxM",
+  "title": "내향인 추재현의 단독 콘텐츠 도전기✨ | 2026 마무리캠프 주장의 하루",
+  "published_at": "2026-11-25T09:30:08Z",
+  "collected_at": "2026-11-25T13:37:45.822Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 6990,
+    "likes": 226,
+    "comments": 38
+  },
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "community-e4ea3fd2",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte",
+    "lg"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 오늘의 스포츠 직구",
+  "url": "https://blog.naver.com/thermdlkitchen/224491022376",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/6JQamFivEEp",
+  "title": "롯데 자이언츠, LG에서 밀려난 톨허스트 품고 선발진 갈아엎을까?",
+  "published_at": "2026-11-25T12:07:00.000+09:00",
+  "collected_at": "2026-11-25T13:37:45.822Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

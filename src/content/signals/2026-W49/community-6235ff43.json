@@ -1,0 +1,24 @@
+{
+  "id": "community-6235ff43",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 똑카의 정보 바구니",
+  "url": "https://blog.naver.com/birdrosy_work/224491391066",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/8NZwCjegUwb",
+  "title": "김하성 연봉 2,400만 원에서 294억 찍고 500만 달러로, 디트로이트 1년 최대 600만 달러 계약에 미국이...",
+  "published_at": "2026-11-25T13:50:00.000+09:00",
+  "collected_at": "2026-11-25T13:37:45.822Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

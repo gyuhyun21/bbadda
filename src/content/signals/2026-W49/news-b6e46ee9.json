@@ -1,0 +1,23 @@
+{
+  "id": "news-b6e46ee9",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠경향",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE51Nm9BSHpuenFzOVExUHVPMzFZVGgxdEhqYTEyVEozcFpSNWpwdkxfaU1oUmNUQkhrOHNrRnRjRFR4bzQ3Zy1YMFJYdWVsV19iOHdEdzhqdEUtOFRtUW5YTkxzWdIBY0FVX3lxTE51Nm9BSHpuenFzOVExUHVPMzFZVGgxdEhqYTEyVEozcFpSNWpwdkxfaU1oUmNUQkhrOHNrRnRjRFR4bzQ3Zy1YMFJYdWVsV19iOHdEdzhqdEUtOFRtUW5YTkxzWQ?oc=5",
+  "title": "[스경x비하인드] MVP 받고 수비 코치 떠올렸던 슈퍼스타…김도영은 어떻게 2년 만에 최고 3루수가 됐을까",
+  "published_at": "2026-11-25T06:39:00.000Z",
+  "collected_at": "2026-11-25T13:37:45.822Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

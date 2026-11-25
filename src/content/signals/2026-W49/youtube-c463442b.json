@@ -1,0 +1,26 @@
+{
+  "id": "youtube-c463442b",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "youtube",
+  "source_name": "야구빠수니",
+  "url": "https://www.youtube.com/watch?v=vMWnVYyeQCI",
+  "title": "곰모에서 신인선수들이 무대 기깔나게 말아주면 좋겠다.. #두산베어스 #KBO",
+  "published_at": "2026-11-25T12:54:30Z",
+  "collected_at": "2026-11-25T13:37:45.822Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 251,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 28,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

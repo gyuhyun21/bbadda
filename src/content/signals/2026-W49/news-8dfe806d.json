@@ -1,0 +1,22 @@
+{
+  "id": "news-8dfe806d",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스미터",
+  "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9CSU5oaTZNVWNZR3BBVUkwMmNNMHM4eE9hREh5WUhyeHU2Qy1OcFZRU09RUkFuZEp0TW41cHhXQWxrQmVfODBXaU9QaGpzZF9q?oc=5",
+  "title": "컴투스 ‘컴프야V26’, 롯데자이언츠 선수들과 특별 팬 투어 진행",
+  "published_at": "2026-11-24T18:04:39.000Z",
+  "collected_at": "2026-11-25T13:37:45.822Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 61,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

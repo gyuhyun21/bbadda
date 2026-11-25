@@ -1,0 +1,27 @@
+{
+  "id": "youtube-46898283",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "애드리브",
+  "url": "https://www.youtube.com/watch?v=AJCQt4WbfEY",
+  "title": "잘 맞히고도 헛웃음 터진 박동원 #KBO",
+  "published_at": "2026-11-25T10:00:26Z",
+  "collected_at": "2026-11-25T13:37:45.822Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 12748,
+    "likes": 206,
+    "comments": 5
+  },
+  "scores": {
+    "hot": 60,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

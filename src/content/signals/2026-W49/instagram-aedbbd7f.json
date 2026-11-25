@@ -1,0 +1,26 @@
+{
+  "id": "instagram-aedbbd7f",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "instagram",
+  "official": true,
+  "source_name": "Instagram @ncdinos2011",
+  "url": "https://www.instagram.com/reel/DgKMC9rTc3S/",
+  "title": "NC 다이노스 공식 인스타그램: 오키나와에 뜬 무지개 메이커🌈",
+  "published_at": "2026-11-25T09:17:41+0000",
+  "collected_at": "2026-11-25T13:37:45.822Z",
+  "summary_ko": "",
+  "metrics": {
+    "likes": 1297,
+    "comments": 6
+  },
+  "scores": {
+    "hot": 66,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

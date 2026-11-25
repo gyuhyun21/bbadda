@@ -1,0 +1,23 @@
+{
+  "id": "news-2b207997",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "마이데일리",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ZazlSM1BaTVg2SDNLcGJnUlloQ2RtcWxWQkxMV2xPRW5sWjVQTTVuNlN4QlZnWUwyT2dscXgyVEoyd0wzVTJreDM3VU90UGVfQUFwWlpRS3pZTjZRTjhocA?oc=5",
+  "title": "사토는 1억2000만달러, 그러면 김도영은 얼마 받고 ML 갈까…유격수 40홈런 증명하면 ‘가치 폭등’",
+  "published_at": "2026-11-25T05:19:07.000Z",
+  "collected_at": "2026-11-25T13:37:45.822Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

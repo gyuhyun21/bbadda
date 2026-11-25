@@ -1,0 +1,30 @@
+{
+  "id": "community-5710ed40",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 heehealth님의 블로그",
+  "url": "https://blog.naver.com/heehealth/224490998647",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/AlWVszuO36Y",
+  "title": "김하성 디트로이트행! 1년 500만 달러 계약 합의, 연봉 75% 감소에도 기대되는 이유",
+  "published_at": "2026-11-25T09:00:00.000+09:00",
+  "collected_at": "2026-11-25T13:37:45.822Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 71,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "마이데일리",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0tSWFsRmpfbDdjRGhkSTZBSzhJSW9mWG9zSzdkRGlaajl5ZUtiaVg2V1NIOVZQVkNRdU9BZEV3RUpBNWRFMGJXbVFuMGtHMm5xTDV1REd1MXJMVlBrTEY1MA?oc=5"
+    }
+  ]
+}

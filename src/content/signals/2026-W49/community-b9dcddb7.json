@@ -1,0 +1,29 @@
+{
+  "id": "community-b9dcddb7",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 안다형이 아는 세상!",
+  "url": "https://blog.naver.com/2zerolight/224491326243",
+  "title": "\"내가 우승 반지 끼워줄게\" 방출 후 막노동한 최형우, 23년 기다린 강민호와 약속 지켰다",
+  "published_at": "2026-11-25T12:46:00.000+09:00",
+  "collected_at": "2026-11-25T13:37:45.822Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 72,
+    "relevance": 70
+  },
+  "sentiment": "mixed",
+  "also_in": [
+    {
+      "source_name": "마이데일리",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBXV3ZOMXhKLW5seWxIUllFLU1SOXNDRG4wYXVGZW5yR2tGSXJTejZjNWhwcEtGdmpXSjZRTDZVZFFWVWhnQllwUGVkWFNBZ2g5Q1lvNjc4M242YUNqc3E0cA?oc=5"
+    }
+  ]
+}

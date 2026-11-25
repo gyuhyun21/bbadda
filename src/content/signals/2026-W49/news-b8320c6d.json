@@ -1,0 +1,23 @@
+{
+  "id": "news-b8320c6d",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "뉴스엔",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ZUW9YUEtjUGxZa0V1YVdrY1dnZWpwMjRuOWVkSWMzMVZTYVFndFFWblBhS3FfWS04bjhEaDNtdVNhTWpXN0FjQThVbXBDNzkzaWtHSnJaNzRxRENxbUZhQjB2VDkxM04z?oc=5",
+  "title": "금돼지 최형우, 닉값하는 우승반지 컬렉션에 유재석 헉‥첫우승 강민호도 부러워(유퀴즈)",
+  "published_at": "2026-11-25T12:26:45.000Z",
+  "collected_at": "2026-11-25T13:37:45.822Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

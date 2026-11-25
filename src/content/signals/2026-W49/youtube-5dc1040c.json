@@ -1,0 +1,27 @@
+{
+  "id": "youtube-5dc1040c",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "외야석야구",
+  "url": "https://www.youtube.com/watch?v=JujnmkzE1yI",
+  "title": "9회말 1점 차 4타수 무안타였던 김상수의 타석",
+  "published_at": "2026-11-25T11:30:03Z",
+  "collected_at": "2026-11-25T13:37:45.822Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 782,
+    "likes": 9,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 43,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

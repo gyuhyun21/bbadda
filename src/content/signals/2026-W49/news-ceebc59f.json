@@ -1,0 +1,24 @@
+{
+  "id": "news-ceebc59f",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "announcement": true,
+  "source_name": "MHN스포츠",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9OVE9VV0JaNEFpQk1IdWtWeHlYUnNNUGhOTGlWM2ZiT0hKTC1GZUYtTTUxazFqaU5md0M1d1pjY2x0aDRVTEhHZHZuOEZzeW5POUtKV3lwc3hTeXo4U0QzaFdIMA?oc=5",
+  "title": "[오피셜]나승엽이 수비 캠프 MVP?…이동욱 감독이 편애 논란 모를 리 없다, 그래서 더 기대된다",
+  "published_at": "2026-11-25T04:10:25.000Z",
+  "collected_at": "2026-11-25T13:37:45.822Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "mixed"
+}

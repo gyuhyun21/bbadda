@@ -1,0 +1,27 @@
+{
+  "id": "youtube-a19f5f26",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "이영우의 라이브 TV",
+  "url": "https://www.youtube.com/watch?v=fqNExCkedjg",
+  "title": "[11/25 스토브리그 라이브] 노시환 포시팅 넘 조용하네? 구자욱 원태인 대구 카페레이드 참석 안한다?#한화이글스#lg트윈스#기아타이거즈#삼성라이온즈##kbo리그#이글스tv",
+  "published_at": "2026-11-25T11:39:36Z",
+  "collected_at": "2026-11-25T13:37:45.822Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 2997,
+    "likes": 293,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 80,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

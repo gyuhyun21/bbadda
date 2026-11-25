@@ -1,0 +1,27 @@
+{
+  "id": "youtube-100b0f47",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "LGTWINSTV",
+  "url": "https://www.youtube.com/watch?v=A6WrZuAdtAQ",
+  "title": "극적인 스윙 한 방💥 2026 정규시즌 결산 [홈런] 모음.ZIP",
+  "published_at": "2026-11-25T08:30:13Z",
+  "collected_at": "2026-11-25T13:37:45.822Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 14899,
+    "likes": 390,
+    "comments": 65
+  },
+  "scores": {
+    "hot": 72,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}
