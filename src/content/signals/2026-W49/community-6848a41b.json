@@ -1,0 +1,24 @@
+{
+  "id": "community-6848a41b",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 Korea, Explained by a Korean",
+  "url": "https://ordinaryday.tistory.com/18",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/KXmvxewopoS",
+  "title": "KBO for Beginners: Why Korean Baseball Feels Like a Party",
+  "published_at": "2026-11-26T15:16:59.000+09:00",
+  "collected_at": "2026-11-26T21:37:41.090Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

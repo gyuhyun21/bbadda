@@ -1,0 +1,24 @@
+{
+  "id": "community-89992645",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 Sports.ZIP",
+  "url": "https://blog.naver.com/trendzip_daily/224490632883",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/Fx62fNvY3dr",
+  "title": "파란 응원복인데 표정은 매번 다르네?.. 박소영 한국시리즈",
+  "published_at": "2026-11-25T12:50:00.000+09:00",
+  "collected_at": "2026-11-26T21:37:41.090Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 53,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

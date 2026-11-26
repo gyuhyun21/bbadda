@@ -1,0 +1,26 @@
+{
+  "id": "youtube-21c1f836",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "팬심판",
+  "url": "https://www.youtube.com/watch?v=uluDD8kp-6Y",
+  "title": "당신이 KIA 단장이라면? 네일·올러·카스트로, 40만 달러 나누기 #shorts",
+  "published_at": "2026-11-26T21:00:30Z",
+  "collected_at": "2026-11-26T21:37:41.090Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 374,
+    "likes": 1,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 39,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "news-9f0f4569",
+  "issue": "2026-W49",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "파이트타임즈",
+  "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9CVmtlNUc3UUU1cEYwYTlUN3BMVjlEVkJlcmZHcmQ3QW1mZVpYeVlwZUVzdWdyWndfd0dmOHF1cHlWNG1tUDJKTzUwSjh5WnV2Vk9PUFFaZmc0SnZsREJGN1o4WjZzQQ?oc=5",
+  "title": "‘홈런왕의 화려한 귀환’ 김도영, 2년 만에 KBO리그 정규시즌 MVP 탈환",
+  "published_at": "2026-11-26T20:56:45.000Z",
+  "collected_at": "2026-11-26T21:37:41.090Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 84,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

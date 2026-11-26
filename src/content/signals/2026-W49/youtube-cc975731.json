@@ -1,0 +1,26 @@
+{
+  "id": "youtube-cc975731",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "기아타이거즈 사랑남",
+  "url": "https://www.youtube.com/watch?v=aWz_OS28cHE",
+  "title": "엪모 와 김도영이 만난다면? #기아타이거즈 #기아 #baseball #kia #야구 #fcmobile #mvp #kbo #3B",
+  "published_at": "2026-11-26T13:53:10Z",
+  "collected_at": "2026-11-26T21:37:41.090Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 708,
+    "likes": 5,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 45,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

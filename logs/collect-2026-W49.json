@@ -695,6 +695,74 @@
           "instagram": 39
         }
       }
+    },
+    {
+      "week": "2026-W49",
+      "collected_at": "2026-11-26T21:37:41.090Z",
+      "sources": {
+        "news_rss": {
+          "total": 708,
+          "feeds": 18
+        },
+        "youtube": {
+          "total": 124,
+          "units": 1020,
+          "searches": 10,
+          "filtered_by_title": 6
+        },
+        "kakao": {
+          "total": 419,
+          "requests": 20,
+          "filtered_ads": 28
+        },
+        "instagram": {
+          "total": 72
+        },
+        "vertex": {
+          "total": 343,
+          "requests": 50,
+          "dropped_undated": 0,
+          "dropped_suspect_date": 48
+        }
+      },
+      "failures": [],
+      "skipped": [],
+      "out_of_window": 285,
+      "dropped_no_team": 252,
+      "team_inferred": 353,
+      "dedupe": {
+        "dropped_existing": 769,
+        "merged_in_batch": 39
+      },
+      "dropped_cap": 64,
+      "new_signals": {
+        "total": 257,
+        "by_module": {
+          "fans": 166,
+          "rivalry": 6,
+          "team": 70,
+          "league": 15
+        },
+        "by_team": {
+          "samsung": 41,
+          "nc": 10,
+          "kia": 38,
+          "ssg": 12,
+          "lotte": 29,
+          "kt": 18,
+          "lg": 35,
+          "hanwha": 30,
+          "doosan": 24,
+          "kiwoom": 5,
+          "-": 15
+        },
+        "by_source": {
+          "community": 108,
+          "youtube": 60,
+          "news": 86,
+          "instagram": 3
+        }
+      }
     }
   ]
 }

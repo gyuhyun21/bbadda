@@ -1,0 +1,23 @@
+{
+  "id": "news-f1d9d947",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "더게이트",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAzSUNEQm9DNDBpYjlIUjF1UTdxcGM1VjI4MUhmZ3RJUVlVNmtrVVREeVNRUzNkaUpySHE3eXFacUhfQUxCbXRUVEdlSHFsVlpEcFhtaW9HMVppTVZDTV9ZTmlvNnFvbmRm?oc=5",
+  "title": "\"박찬호 때보다 더하다\" 구자욱·원태인 역대급 눈치게임에 FA 시장 '올스톱', 과연 누가 먼저 '1!' 외칠까",
+  "published_at": "2026-11-26T02:29:44.000Z",
+  "collected_at": "2026-11-26T21:37:41.090Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 61,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

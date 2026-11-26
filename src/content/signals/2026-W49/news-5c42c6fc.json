@@ -1,0 +1,22 @@
+{
+  "id": "news-5c42c6fc",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "JTBC",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE45ZHlmdG1JZEh0dzJld0hyOTFLTVJOOFNRN1NuNDdDZGJzMVVFN01IYlJwRjdxSzdRUV9USGRBRGtKVFBEUUQ2aTdkdktHbXZzNWw0UQ?oc=5",
+  "title": "검찰, LG트윈스 김성현 승부조작 가담 혐의 ‘긴급 체포’",
+  "published_at": "2026-11-26T03:02:57.000Z",
+  "collected_at": "2026-11-26T21:37:41.090Z",
+  "summary_ko": "보도에 따르면 검찰이 승부조작 가담 혐의로 LG 김성현을 긴급 체포했다고 JTBC가 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 61,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

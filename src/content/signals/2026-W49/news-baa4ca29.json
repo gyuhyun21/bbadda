@@ -1,0 +1,23 @@
+{
+  "id": "news-baa4ca29",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "더코리아",
+  "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1KaVdOZ2lQN1NXTzV1SElWTG5BZGRXOWZ3YTU3VjlCbFBYejYyYnJvRUlic2h0TmhNZm1QWW84aTEwMTRJd0dxeWR4UQ?oc=5",
+  "title": "김도영 KBO 2번째 MVP 등극, 왕좌 탈환 > 뉴스",
+  "published_at": "2026-11-26T10:16:20.000Z",
+  "collected_at": "2026-11-26T21:37:41.090Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

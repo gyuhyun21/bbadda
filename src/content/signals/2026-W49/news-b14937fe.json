@@ -1,0 +1,23 @@
+{
+  "id": "news-b14937fe",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스타뉴스",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1qVkplRzVORXVtUkhyNzd1aVkxeG42aVk4amt0RkhvbVphZHpsS0xvYjk3czRzR2ozYXNSa0FkRHhFb3p2LU4yaHRTRTgxbjROTGEwZm1WZzdWa2FIMVRhWS1nX0xIbkVOV3JwdXIzMTBSZXloSUE?oc=5",
+  "title": "[★베이스볼] FA 최대어 구자욱 '수상 소감도 조심스러위\" 2014년 퓨처스 타격왕 이어 타율, 출루율 2관왕 등극! 구캡틴에 쏠린 눈",
+  "published_at": "2026-11-26T08:20:24.000Z",
+  "collected_at": "2026-11-26T21:37:41.090Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

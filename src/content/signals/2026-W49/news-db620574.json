@@ -1,0 +1,23 @@
+{
+  "id": "news-db620574",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "연합뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9IdWlXRldZWHN4LTJoYUxZSW81VlBkanFpV0VGVTlIQ0ZMVl9LZ2hiWHotdHo4bmVncEh2eHNiN3FYcFZpTFhxUnMtTHRaeVlKWEt6SjRueXo0ZWlLMFNvYtIBYEFVX3lxTE9IdWlXRldZWHN4LTJoYUxZSW81VlBkanFpV0VGVTlIQ0ZMVl9LZ2hiWHotdHo4bmVncEh2eHNiN3FYcFZpTFhxUnMtTHRaeVlKWEt6SjRueXo0ZWlLMFNvYg?oc=5",
+  "title": "김도영, 2년 만에 다시 최고의 별…신인상 허인서",
+  "published_at": "2026-11-26T14:27:56.000Z",
+  "collected_at": "2026-11-26T21:37:41.090Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

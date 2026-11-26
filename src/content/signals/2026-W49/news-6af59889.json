@@ -1,0 +1,22 @@
+{
+  "id": "news-6af59889",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "위키트리",
+  "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9GenJjaVJpNXpOSjI1dGpnODZveVRhWmh2YUU1QmNXa3kwT3V5cG42LUZDRGlHY3BSNm8zZThEbWRkR2tjb3RoUzdTc04wN2g0cVZIQXNn?oc=5",
+  "title": "케네디, 23경기 10홀드에 좌타자 강점 인정받아 LG와 2027시즌 재계약",
+  "published_at": "2026-11-25T23:35:00.000Z",
+  "collected_at": "2026-11-26T21:37:41.090Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 60,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "community-f2f9a587",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 쟁이의 IT·앱 트렌드 노트",
+  "url": "https://ome29202.tistory.com/140",
+  "title": "2026 KBO 시상식 결과 정리, MVP 김도영 통산 두 번째·신인상 허인서 136표 중 92표",
+  "published_at": "2026-11-26T18:19:13.000+09:00",
+  "collected_at": "2026-11-26T21:37:41.090Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

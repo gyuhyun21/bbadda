@@ -1,0 +1,23 @@
+{
+  "id": "community-9e036ec4",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "community",
+  "source_name": "다음카페 RKBO",
+  "url": "https://cafe.daum.net/RKBO/8cIe/141",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/L3MUMKLK1Cx",
+  "title": "두산 베어스 61차 등번호(261125)",
+  "published_at": "2026-11-25T20:39:37.000+09:00",
+  "collected_at": "2026-11-26T21:37:41.090Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 56,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

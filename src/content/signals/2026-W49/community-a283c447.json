@@ -1,0 +1,23 @@
+{
+  "id": "community-a283c447",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 귀로 듣는 오늘의 헤드라인",
+  "url": "https://todaynews1.tistory.com/116",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/65nsRkKi5bQ",
+  "title": "[2026년11월26일] 美 한국관세 '15% 유지' 및 NC 'FA원태인'에 러브콜",
+  "published_at": "2026-11-26T08:05:55.000+09:00",
+  "collected_at": "2026-11-26T21:37:41.090Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 60,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

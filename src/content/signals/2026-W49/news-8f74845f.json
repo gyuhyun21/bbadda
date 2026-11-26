@@ -1,0 +1,23 @@
+{
+  "id": "news-8f74845f",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1wN0JMZW51aGp4ekFJSE9aR0xQZnpWUVQ1UHNPVmxXSFQ4RzBHbDNsZ25Ody1wZk9fMzFXNzNXZXpjV0NGUGJfNFkybzJnMEZrMHQ2akcxaDhJenl6UzhPQ0s0dXdIY0NBS2JTVWpRRmxEZmxiblNpVTVlNGpuQQ?oc=5",
+  "title": "김하성 보낸 ATL, '사직 좌승사자' 반즈 품었다…마이너계약 스프링캠프 초청 'ML도전 멈추지 않는다'",
+  "published_at": "2026-11-26T01:05:13.000Z",
+  "collected_at": "2026-11-26T21:37:41.090Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 61,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

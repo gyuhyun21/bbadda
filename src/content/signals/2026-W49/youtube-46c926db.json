@@ -1,0 +1,27 @@
+{
+  "id": "youtube-46c926db",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "youtube",
+  "announcement": true,
+  "source_name": "오늘의 트윈스",
+  "url": "https://www.youtube.com/watch?v=ko0w80TcLH8",
+  "title": "LG 김민식 영입 공식 발표! 박동원 FA에 미칠 영향은? #LG트윈스 #김민식 #박동원",
+  "published_at": "2026-11-26T13:25:34Z",
+  "collected_at": "2026-11-26T21:37:41.090Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1222,
+    "likes": 5,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 45,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

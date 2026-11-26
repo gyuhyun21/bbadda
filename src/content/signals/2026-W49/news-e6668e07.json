@@ -1,0 +1,22 @@
+{
+  "id": "news-e6668e07",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "news",
+  "source_name": "이투데이",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBzaTF3RDlybGNqckNzN3RSZ2wxLXRmZjh4dDNjdFpyaUtod05QeFRWTnluMGpfbVZsazZhTEczYUhaUFc4d3VjbndhelEtODRJcXhPcQ?oc=5",
+  "title": "두산 곽빈, 알고 보니 딸 아빠였다⋯KBO 시상식서 아내 깜짝 언급",
+  "published_at": "2026-11-26T07:32:00.000Z",
+  "collected_at": "2026-11-26T21:37:41.090Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "news-3abe6a4e",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "이투데이",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE94YmV0WTZ5TEEyUFhhblBsb29najN1MU9CZjJCOU44QTFqWW5SMGJUWHFoXzF5OTB2ZkFWX3QxUlcwRzRBOEg2OG85eWlPR3ZfSHNFMQ?oc=5",
+  "title": "LG, '두 차례 통합우승' 김민식 품었다⋯포수진 깊이 더해",
+  "published_at": "2026-11-26T01:27:00.000Z",
+  "collected_at": "2026-11-26T21:37:41.090Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 61,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

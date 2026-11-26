@@ -1,0 +1,22 @@
+{
+  "id": "news-f3f59e23",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스핌",
+  "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBpNXR4eFJSWm14OGtBZnlLTmJtTFBUYi1nTDkwd3BaWkh3Y2ZvZ2IyVXdHYXBSMkNmVWlLczRLU1cyRFZoRElkd3NYeVNnOTludURtelJvb3lkV0VB?oc=5",
+  "title": "[프로야구] FA 구자욱 타율·출루율상 수상 소감서 삼성 언급 無…\"조심스러워\"",
+  "published_at": "2026-11-26T08:23:00.000Z",
+  "collected_at": "2026-11-26T21:37:41.090Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 63,
+    "relevance": 80
+  },
+  "sentiment": "positive"
+}

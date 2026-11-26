@@ -1,0 +1,24 @@
+{
+  "id": "news-84ab2daf",
+  "issue": "2026-W49",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "연합뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9QMGEyVjR1Rzk0c2tybjBGaXU4c1dlRnFFcmlnNEVzSF9wdWhrbGZ4RDR3dGRmY2FqVTdzejJSQ2M5cGI0U0lJVHpyZTBUTGxkZ3pBU1BpOFNfTXhRZERaRtIBYEFVX3lxTE9QMGEyVjR1Rzk0c2tybjBGaXU4c1dlRnFFcmlnNEVzSF9wdWhrbGZ4RDR3dGRmY2FqVTdzejJSQ2M5cGI0U0lJVHpyZTBUTGxkZ3pBU1BpOFNfTXhRZERaRg?oc=5",
+  "title": "이승엽과 닮은꼴…전설의 길 걷는 '슈퍼스타' MVP 김도영",
+  "published_at": "2026-11-26T06:43:42.000Z",
+  "collected_at": "2026-11-26T21:37:41.090Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 79,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

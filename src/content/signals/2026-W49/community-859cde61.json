@@ -1,0 +1,24 @@
+{
+  "id": "community-859cde61",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 스텝 바이 스포츠(Step by Sports)",
+  "url": "https://health.taxinfo.kr/215",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/H8gtZRZERy9",
+  "title": "2026 KBO 시상식 총정리! 곽빈 3관왕부터 레이예스 211안타, 구본혁 초대 유틸리티 수비상까지",
+  "published_at": "2026-11-26T16:25:43.000+09:00",
+  "collected_at": "2026-11-26T21:37:41.090Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

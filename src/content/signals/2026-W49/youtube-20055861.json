@@ -1,0 +1,26 @@
+{
+  "id": "youtube-20055861",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "source_name": " 𝐊𝐃𝐇",
+  "url": "https://www.youtube.com/watch?v=k9Xk-dXqetQ",
+  "title": "한화 이글스 매직박 응원가",
+  "published_at": "2026-11-26T13:01:28Z",
+  "collected_at": "2026-11-26T21:37:41.090Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 7,
+    "likes": 0,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 52,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

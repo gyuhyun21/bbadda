@@ -1,0 +1,27 @@
+{
+  "id": "youtube-e5e5860c",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "kt wiz - 위즈TV",
+  "url": "https://www.youtube.com/watch?v=T28TRl-rHho",
+  "title": "반박 너무 가능한 최첨단 비디오 판독 시스템 #팬페스티벌",
+  "published_at": "2026-11-26T03:00:29Z",
+  "collected_at": "2026-11-26T21:37:41.090Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 4253,
+    "likes": 124,
+    "comments": 3
+  },
+  "scores": {
+    "hot": 73,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

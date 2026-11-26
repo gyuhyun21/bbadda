@@ -1,0 +1,26 @@
+{
+  "id": "youtube-f66c571f",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "라이온즈백서",
+  "url": "https://www.youtube.com/watch?v=HTGsYepQtvo",
+  "title": "구자욱·원태인, 우승 카퍼레이드 불참…이적 신호로 봐도 될까? #삼성라이온즈",
+  "published_at": "2026-11-26T19:15:02Z",
+  "collected_at": "2026-11-26T21:37:41.090Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1197,
+    "likes": 8,
+    "comments": 2
+  },
+  "scores": {
+    "hot": 48,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

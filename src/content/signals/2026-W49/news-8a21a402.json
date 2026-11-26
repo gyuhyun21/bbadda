@@ -1,0 +1,22 @@
+{
+  "id": "news-8a21a402",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "서라벌신문",
+  "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE50MlRPMzNJc2F5Nmp2VldoYXdnT1pPZDIwdGp4bHVxakZBaGhjTHZOU2tlZm0wZlU5TGJFaWVCZmN6WTdiZGJ2T09iMEtFVm5nODJtQlNfY3B5NXBxWE00M19OWGVlUENWaHRtSw?oc=5",
+  "title": "삼성 라이온즈, 2027년 신인선수 환영행사 개최",
+  "published_at": "2026-11-26T12:40:09.000Z",
+  "collected_at": "2026-11-26T21:37:41.090Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}
