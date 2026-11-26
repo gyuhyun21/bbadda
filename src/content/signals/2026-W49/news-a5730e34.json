@@ -1,0 +1,23 @@
+{
+  "id": "news-a5730e34",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스핌",
+  "url": "https://www.newspim.com/news/view/20261126001010",
+  "title": "[핌 포커스] '곽빈 마지막 시즌 유력' 두산, 스토브리그에서 '윈 나우' 의지 보일까",
+  "published_at": "2026-11-26T20:10:00.000Z",
+  "collected_at": "2026-11-26T21:37:41.090Z",
+  "summary_ko": "뉴스핌은 곽빈이 두산에서 뛰는 마지막 시즌이 될 가능성이 크다며, 두산이 스토브리그에서 '윈 나우' 의지를 보일지 짚었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "곽빈과 마지막 시즌, 윈 나우?"
+}

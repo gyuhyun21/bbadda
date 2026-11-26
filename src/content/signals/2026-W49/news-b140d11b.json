@@ -1,0 +1,23 @@
+{
+  "id": "news-b140d11b",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "일간스포츠",
+  "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9CMERlWDJad2c4NlZxWVBEMUhTM0FoN1RTVVJ0ODhjX3FhaTN6VHlEV25SNnJPWmh4a0Y3cllxOURTQ243UWxsMl9KWDdKb29lZVVra0JxcGxpY1U?oc=5",
+  "title": "[KBO 시상식] '신인상' 류현진·문동주 그리고 허인서 렛츠고, \"김경문 전 감독님께 감사, 나태해지지 않겠다\"",
+  "published_at": "2026-11-26T06:33:00.000Z",
+  "collected_at": "2026-11-26T21:37:41.090Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

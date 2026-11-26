@@ -1,0 +1,29 @@
+{
+  "id": "community-a738d79f",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 한국연예스포츠신문",
+  "url": "https://koreaesp.tistory.com/7112",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/FVQMmR35sMZ",
+  "title": "'20홈런 포수' 한화 허인서, 2026 KBO 신인왕 등극…양의지 이후 16년 만",
+  "published_at": "2026-11-26T23:08:07.000+09:00",
+  "collected_at": "2026-11-26T21:37:41.090Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 73,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "더게이트",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB3U2FnU2dDR3JTallDaXFVbGZ6SzhIOWVWY0QzX1NJdlpzcm5zUkVLclktZ25GMlBjTWJuOUFuWldUNUF0dlZIbjdibm9KRUlxeHVZOW5feEdvcFczb29sQkY2ODk3MTJO?oc=5"
+    }
+  ]
+}

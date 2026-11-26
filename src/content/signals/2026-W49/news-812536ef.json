@@ -1,0 +1,23 @@
+{
+  "id": "news-812536ef",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "티제이비",
+  "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBkb1ZCRzJkZldPaUdwTW14a19VekFBcGxwMEJ5U3RjbC1tcGdzQURLQ0N6ZEdHTTFoOXp5Vnctbi0xcERMd0xIWktZUmVrMC1TX3pueF9GRmlCSVho?oc=5",
+  "title": "\"동주가 5월부터 나보고 신인왕이라고\"…허인서, 친구의 예언이 현실로",
+  "published_at": "2026-11-26T08:19:56.000Z",
+  "collected_at": "2026-11-26T21:37:41.090Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

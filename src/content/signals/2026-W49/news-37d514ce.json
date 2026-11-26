@@ -1,0 +1,23 @@
+{
+  "id": "news-37d514ce",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "진일보 | 전남일보",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9RNU1XV1E2bHJ1VkFsUXRqSDBXSTVha1FhVVZwWEYybkdJU080alhxQXQ0SFZXbnZkcDZoNHJhLVRZZWl4V3RJTDJaMXdMWEE3N1ZfbXJOTUpudGN6MjgwbVJyR3Q5OVJqRDJHeUxJSQ?oc=5",
+  "title": "김도영이냐 곽빈이냐…2026 KBO MVP 오늘 주인공 가린다",
+  "published_at": "2026-11-26T01:09:52.000Z",
+  "collected_at": "2026-11-26T21:37:41.090Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 69,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

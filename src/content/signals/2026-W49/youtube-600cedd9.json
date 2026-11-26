@@ -1,0 +1,26 @@
+{
+  "id": "youtube-600cedd9",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "youtube",
+  "source_name": "크보이슈TV",
+  "url": "https://www.youtube.com/watch?v=ZiiCzl_T6WQ",
+  "title": "KT 집토끼만 6명! A등급 김민혁·배정대…무조건 잡아야 할 1명은? #KBO #FA #KT위즈",
+  "published_at": "2026-11-26T20:17:49Z",
+  "collected_at": "2026-11-26T21:37:41.090Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 277,
+    "likes": 0,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 36,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

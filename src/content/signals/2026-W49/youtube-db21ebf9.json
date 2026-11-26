@@ -1,0 +1,26 @@
+{
+  "id": "youtube-db21ebf9",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "source_name": "Look-a-like-cam",
+  "url": "https://www.youtube.com/watch?v=lmZZgKpXl1M",
+  "title": "한화이글스 닮은꼴 이벤트 BEST5 #한화이글스 #프로야구 #닮은꼴 #임창정 #이경영 #케이윌 #곽범 #이정",
+  "published_at": "2026-11-26T15:14:00Z",
+  "collected_at": "2026-11-26T21:37:41.090Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1084,
+    "likes": 9,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 48,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

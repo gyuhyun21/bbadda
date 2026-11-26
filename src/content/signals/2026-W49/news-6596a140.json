@@ -1,0 +1,23 @@
+{
+  "id": "news-6596a140",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "네이트",
+  "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5HbXlKYVQtUWtWUVQweUNzT3l5QUhBd21ncHR2X1NoVGVRcDFvZkUxY0p0UHVjMlRKVnRkenhIM2JwWWxvR0RWSHBYSmZ1X0RfT0lSbTlB?oc=5",
+  "title": "\"어머니, 이제 생중계로 보셔요\" 韓 최고 투수의 효심, 애처가 다승왕 \"MVP 남편으로 키워주세요\"",
+  "published_at": "2026-11-26T08:27:00.000Z",
+  "collected_at": "2026-11-26T21:37:41.090Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

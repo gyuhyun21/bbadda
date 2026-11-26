@@ -1,0 +1,24 @@
+{
+  "id": "news-d52b61f9",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "뉴시스",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1tWlhUNktUdU1CQ2paWFY2TXU3Y3ZyNk44TkpFTU5xWVRid2t2VkxOTF9UQ0FlaHRiY3VTM0pmeld1bk1UdXVVMENVeERlWmpQWG5wOUtIX0tKLTdjYV8td9IBeEFVX3lxTFBaSlZVVGd2S1g3ckNDUmpRLW9lb0Zad3JockxxYmRfbG9SQzg1X24yT2lCV0E5UHZhbG9rSWU4SHp6QWFUbHYwTnZPcWNqQl9mR1RvLXl4VThja05CWlAwNFZkcGJWX0pKSE9yMU1ybFkxTHY0Ty1zeQ?oc=5",
+  "title": "'MLB 도전' 노시환에게 기회 오나…3루수 알렉 봄, 캔자스시티와 계약",
+  "published_at": "2026-11-26T06:06:14.000Z",
+  "collected_at": "2026-11-26T21:37:41.090Z",
+  "summary_ko": "3루수 알렉 봄이 캔자스시티와 계약했다. 뉴시스는 MLB에 도전하는 노시환에게 기회가 올지 짚었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 62,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "알렉 봄 계약, 노시환에 기회?"
+}

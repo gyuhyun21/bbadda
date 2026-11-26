@@ -1,0 +1,23 @@
+{
+  "id": "news-6b512d5c",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "SPOTV NEWS",
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5OakktQ1VGUFpocXJJNVMtcHd6Q1hmMFdad2ozTV9TMUNzak5uNU1aZ0NkOGc0UURiMGxCQ0xZQk9Zekk1ZzdteVFzMklucVY4eThRVi1SaXFfdmdVLU53dDBhZGw1U0kzNHhPVGVFYTE?oc=5",
+  "title": "[속보] \"韓 야구 팬들께 감사\" MVP 김도영! 치열한 삼파전에서 웃었다…홈런·장타율·수비상에 MVP까지 '김도영의 시간' 열다",
+  "published_at": "2026-11-26T06:27:39.000Z",
+  "collected_at": "2026-11-26T21:37:41.090Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

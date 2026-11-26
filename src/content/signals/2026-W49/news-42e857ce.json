@@ -1,0 +1,23 @@
+{
+  "id": "news-42e857ce",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "일간스포츠",
+  "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBlYV9FTjE1dXA2S1pLTXVOSzhBcWJvNWdTd2F2Q1VvZHZqTlJiV1JDeUpfV0ZndjhRZnlwTlJsa1h1WWFDR2t3OUNHcVVYSzV6RVQyNV9NZUwtSFk?oc=5",
+  "title": "[KBO 시상식] \"쫄지마 투수들\" 트중박이 LG 투수들에게 한 당부, 박해민 \"임찬규 다승왕 기여해 기쁘다\"",
+  "published_at": "2026-11-26T15:04:00.000Z",
+  "collected_at": "2026-11-26T21:37:41.090Z",
+  "summary_ko": "박해민이 LG 투수들에게 \"쫄지 마\"라고 당부했다. 임찬규의 다승왕에 힘을 보태 기쁘다고도 했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "박해민, 투수들에게 \"쫄지 마\""
+}

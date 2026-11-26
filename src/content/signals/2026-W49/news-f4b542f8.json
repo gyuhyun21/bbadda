@@ -1,0 +1,24 @@
+{
+  "id": "news-f4b542f8",
+  "issue": "2026-W49",
+  "module": "rivalry",
+  "team": "nc",
+  "teams": [
+    "nc",
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "더팩트",
+  "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8tdWM4ZjEwaTU2bmRKVXhGbnBPRnVJNE4zYjlwRzFNa0o1YkRJUFFUNmI4SUNSbm1BUzN0SE9XMVF5ZjdUX0NXV3NVNUlJUDZ2UEE00gFTQVVfeXFMTy11YzhmMTBpNTZuZEpVeEZucE9GdUk0TjNiOXBHMU1rSjViRElQUVQ2YjhJQ1JubUFTM3RIT1cxUXlmN1RfQ1dXc1U1SUlQNnZQQTQ?oc=5",
+  "title": "원태인의 ‘일본행 타진’이 의미 있는 이유 [김대호의 야구생각]",
+  "published_at": "2026-11-26T15:00:00.000Z",
+  "collected_at": "2026-11-26T21:37:41.090Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

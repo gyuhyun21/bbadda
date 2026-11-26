@@ -1,0 +1,24 @@
+{
+  "id": "news-a300baac",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "announcement": true,
+  "source_name": "MHN스포츠",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1PbTdtdjBzbmxsRUcxYnBmR2JCZ3VnLTFtangwYVFmUkJZUVdFc19WdWlyTTB6OHp3SWVGdWFLVlBsSXRZZFhzQ1BDRzE4VFdpUk5idHdTeTUxT1RsaEdyckg3Zw?oc=5",
+  "title": "[오피셜]양의지·강민호 시대에 균열 낸 허인서…역사상 이토록 완성도 높은 신인왕이 있었나",
+  "published_at": "2026-11-26T10:55:16.000Z",
+  "collected_at": "2026-11-26T21:37:41.090Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "youtube-851f1408",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "랜더스비공식갤러리",
+  "url": "https://www.youtube.com/watch?v=b0kD8tNHYNw",
+  "title": "2026 KBO 어워즈, 랜더스의 빛나는 수상자들! 🏆 | 랜비갤 EP.14",
+  "published_at": "2026-11-26T14:07:28Z",
+  "collected_at": "2026-11-26T21:37:41.090Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1194,
+    "likes": 3,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 44,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

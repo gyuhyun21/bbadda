@@ -1,0 +1,24 @@
+{
+  "id": "news-f16c87a2",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "announcement": true,
+  "source_name": "MHN스포츠",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE81b0czUW90QmFqaTNiMjRlenE1Y0ZsMVVER2ZXVHpjc0hQY1JTUEwzV09oUmloR285MDc2Szd6VElSUXZEY1RpUFQxUHZoUHBYdk04NWstLVlHTjNnTGJlRTNCTQ?oc=5",
+  "title": "[오피셜]구자욱·원태인 없는 삼성 우승 축제…아쉽지만 틀리지 않은 결정, 삼성은 두 선수만의 팀 아니다",
+  "published_at": "2026-11-26T03:42:34.000Z",
+  "collected_at": "2026-11-26T21:37:41.090Z",
+  "summary_ko": "구자욱·원태인이 삼성 우승 축제에 나오지 않는다. MHN스포츠는 아쉽지만 틀리지 않은 결정이라고 봤다.",
+  "metrics": {},
+  "scores": {
+    "hot": 62,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "brief_ko": "구자욱·원태인 없는 우승 축제"
+}

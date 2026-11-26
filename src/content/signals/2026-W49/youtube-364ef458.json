@@ -1,0 +1,26 @@
+{
+  "id": "youtube-364ef458",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "SC구절판",
+  "url": "https://www.youtube.com/watch?v=hewehm2GXgo",
+  "title": "KIA 외국인 샐러리캡 올러 카스트로 재계약 뉴스쇼츠 새원고",
+  "published_at": "2026-11-26T17:48:03Z",
+  "collected_at": "2026-11-26T21:37:41.090Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 942,
+    "likes": 2,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 42,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

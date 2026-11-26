@@ -1,0 +1,30 @@
+{
+  "id": "news-c7065f17",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://www.mt.co.kr/amp/sports/2026/11/27/2026112623594910436",
+  "title": "'45홈런 치고도 유격수 도전?' 이범호 감독 걱정에 김도영이 내놓은 대답 \"어떻게든 해내겠습니다... 어영부영할 생각 없어요\"",
+  "published_at": "2026-11-26T20:09:49.000Z",
+  "collected_at": "2026-11-26T21:37:41.090Z",
+  "summary_ko": "45홈런을 치고도 유격수로 옮기는 김도영이 이범호 감독의 걱정에 \"어떻게든 해내겠습니다\"라고 답했다고 머니투데이가 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 83,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1qWnNmMEs5dUQ4Q3FVeUIyQUY4V2NKb0lQQ1g3TldmczQySXprWnFVYXJSbC1NbjBJbnplc2loU3F4SUxLYTZtMlF0ZG5CUjBOQThFM1Ficnk3c3BHVnQ5a3dSajZnZ1hQbjA1MEhza0lVejRHZWc?oc=5"
+    }
+  ],
+  "brief_ko": "김도영, 유격수도 해내겠다"
+}

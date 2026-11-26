@@ -1,0 +1,24 @@
+{
+  "id": "community-3cbb6f79",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 판독실",
+  "url": "https://needblood.tistory.com/71",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/j3MjzyALfP",
+  "title": "은퇴한 선배의 권위까지 이용하는 불꽃야구, 현역 선수들의 비시즌은 예능을 위한 시간이 아니다",
+  "published_at": "2026-11-26T21:00:51.000+09:00",
+  "collected_at": "2026-11-26T21:37:41.090Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

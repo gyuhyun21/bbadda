@@ -1,0 +1,26 @@
+{
+  "id": "youtube-d2ee2561",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "youtube",
+  "source_name": "야구함보까",
+  "url": "https://www.youtube.com/watch?v=ZpPu72F-MqE",
+  "title": "롯데 마운드만 지켰다! 롯데 원클럽맨 최다승 TOP4 #shorts",
+  "published_at": "2026-11-26T14:00:18Z",
+  "collected_at": "2026-11-26T21:37:41.090Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 11960,
+    "likes": 64,
+    "comments": 4
+  },
+  "scores": {
+    "hot": 60,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

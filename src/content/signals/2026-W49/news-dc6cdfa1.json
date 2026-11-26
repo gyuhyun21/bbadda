@@ -1,0 +1,22 @@
+{
+  "id": "news-dc6cdfa1",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "노컷뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE90TWM5UFN4QzJjMGJlQ0s2akRXV01FVnpYMjIzbVBsM1gySUZvMXFkMDB1aEtCSlhqSmg4SHJ5SUlEZnpGSW5oeFJwWnBGOVlQY0E?oc=5",
+  "title": "'박동원 FA 변수' 대비한 LG, 베테랑 김민식으로 안방 보험",
+  "published_at": "2026-11-26T01:13:54.000Z",
+  "collected_at": "2026-11-26T21:37:41.090Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 61,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

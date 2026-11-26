@@ -1,0 +1,23 @@
+{
+  "id": "news-fa2d5dfe",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "announcement": true,
+  "source_name": "스포탈코리아",
+  "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMHQtSG8yeVU5Rmgwd3gteUxrVFBvQm5oUHhNRzVaX2l1UnlaR05FSmFncENmcnhXUjd0NDVlc1c5bERveGM2OFdXTGRjZXdUT2d6d29oU2R4eGVuOXc2bkljVzluSk1hdjVPR19nbXYtYzZDNVc2bFZ3VDZFUXFuenJ3?oc=5",
+  "title": "[오피셜] \"무려 24억 쏟아부었다\" 롯데, 초대형 희소식! ML 5년 경력, 최다 안타 기록까지 경신한 레이예스와 재계약",
+  "published_at": "2026-11-26T02:55:47.000Z",
+  "collected_at": "2026-11-26T21:37:41.090Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 61,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-c1981aba",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "OSEN",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5EVktHYW5iNVU2Uy1IUjNsTTNXQTBqWGkwbnllT1haMVhud0FoTk90dUxDc296ZnBTZUs5NlFUUDZJNExBSEJfMm4zWTZkeEQ3eEpYVw?oc=5",
+  "title": "대만에 두 번이나 홈런 악몽 안긴 23세 괴물, 이승엽마저 넘어섰다…대만 언론도 김도영의 ML 진출 가능성 주목",
+  "published_at": "2026-11-26T21:00:00.000Z",
+  "collected_at": "2026-11-26T21:37:41.090Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

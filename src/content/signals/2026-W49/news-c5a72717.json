@@ -1,0 +1,29 @@
+{
+  "id": "news-c5a72717",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "MHN스포츠",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE12d2hsSFJRb1FmZTdjZzBlSkdyMWRuYW03aUF5WUk1X3EtdjdDbFdEX2ZmY1pUOGl6b0xLR3JTZnZBREJpd0MzQWlIS2JsSy1KeldlaURqaURjbHdoUV83dWFIdw?oc=5",
+  "title": "강민호, ’23년 만의 우승 반지’… “처음 살아보는 인생을 살고 있다” (‘유 퀴즈’)",
+  "published_at": "2026-11-25T23:47:45.000Z",
+  "collected_at": "2026-11-26T21:37:41.090Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "한국사회복지저널",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBINWxBRndISWZNNUFQWFpOZEhTYkVUNl91WHVENWFaRDhmcHRwM2RkUnRoc1FkN0gwbnFCSDVvYnRwVm9TTTZ1bm42cXpabkR2REJ5VDluWVJDWW1JYTdwZWY1LWpaU3NXbGZv?oc=5"
+    }
+  ]
+}

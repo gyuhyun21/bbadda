@@ -1,0 +1,26 @@
+{
+  "id": "youtube-0961cae0",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "호랑이굴",
+  "url": "https://www.youtube.com/watch?v=c5HXMlE28-s",
+  "title": "멍하니 보다가 빵터진 의리게임 #기아타이거즈 #야구",
+  "published_at": "2026-11-26T21:00:06Z",
+  "collected_at": "2026-11-26T21:37:41.090Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 368,
+    "likes": 3,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 41,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

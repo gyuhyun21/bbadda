@@ -1,0 +1,23 @@
+{
+  "id": "news-d4f1f3c6",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "뉴시스",
+  "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE84TWRKZnp1VURyYWlKQ3JBcWY1ajk0TUw2WFpSQ3lvSlBOY2dwS05Mb2RYS19Mak5TNVRiUzlFLWV4QjNlRnd3ZTNpb3kza0V0Z1M3bHJURWYxNlFYWjR3dUdVYkxtUQ?oc=5",
+  "title": "김도영 '2026년의 MVP'",
+  "published_at": "2026-11-26T06:51:41.000Z",
+  "collected_at": "2026-11-26T21:37:41.090Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

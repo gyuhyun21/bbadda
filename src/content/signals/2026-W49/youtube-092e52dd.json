@@ -1,0 +1,37 @@
+{
+  "id": "youtube-092e52dd",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "밍키의분석노트",
+  "url": "https://www.youtube.com/watch?v=T-b6vykXYJY",
+  "title": "레이예스 180만 달러 재계약 | 211안타 안타왕 vs 41홈런 오스틴, 외국인 타자 최고 연봉은 200만 그대로",
+  "published_at": "2026-11-26T15:12:38Z",
+  "collected_at": "2026-11-26T21:37:41.090Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1049,
+    "likes": 7,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 46,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "스포츠동아",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5EeHpwQWJyVWItOVNGZGtObFRrX3dfV1BIbHV6Z3ZQbnZtWGF2Yl9tbmhpOVNBRmNHbm05bVN3VXFwUHFVQU9lcmVlOUV1eS1EY19YMThMZEZObzZRRGQ5bkZoVkR0MDlianRZTjZ2ZXlMZw?oc=5"
+    },
+    {
+      "source_name": "MHN스포츠",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB4YnE3WXp2U0VRRTVEdFl3WVd3YjJWX09nc3k2YWtlWGYtSkRMR3JOZWFpbUJYZ3k0LS1ZMUMyc3RUTHlKZ0c3eGVNRjBJMTh4dG4wX3BLc0xEQUlFV3NtN19fUQ?oc=5"
+    }
+  ]
+}

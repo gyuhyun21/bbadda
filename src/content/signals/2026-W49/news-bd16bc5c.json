@@ -1,0 +1,23 @@
+{
+  "id": "news-bd16bc5c",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠동아",
+  "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE03eWFnaGp5dnZVUDY3OXkxMkNOTHdqNGh2M1E3Z3FKbV9ZMjVNOER4QUJRdGJTMDdRQ2hZb2Y5OHgyS0ZlQkU0M1JMT0Fjb3dnNXd5cy1PNmlJZXpoQ3JRTEpRY05vLVpzR3J4eEo3TG9Kdw?oc=5",
+  "title": "한국시리즈 MVP 없는 한국시리즈 우승 카퍼레이드…참가 여부 떠나 소통에는 물음표",
+  "published_at": "2026-11-26T15:36:15.000Z",
+  "collected_at": "2026-11-26T21:37:41.090Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

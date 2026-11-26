@@ -1,0 +1,23 @@
+{
+  "id": "news-202885b9",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "fn스타",
+  "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9mNml5Q0dVTmMxaE5vYXFsbmxKdEVGUDFBZEFyb3pDN1UzME5YVDNIazQ0M1VEUy1ocEI3VTZEQnlwX0VwUFlod2RibVRvOEo3UFpGZmlkeWhQM3lpSU040gFjQVVfeXFMT1NneUdJRkJPZmdLWEZJV1NMaUJWUXhfUE9IUnV5V1RMMElaYUpHeGQtck4wVkMtTkFabGl6NHZEUElrbV9QTzB1dkxnQUtpTlhUZEVGU3VhQ3lGaG56V3loWkVN?oc=5",
+  "title": "1610억 사토·269억 봄 줄줄이 계약 완료… 양키스·시애틀 시선, 가성비 노시환으로 쏠릴까",
+  "published_at": "2026-11-26T04:12:00.000Z",
+  "collected_at": "2026-11-26T21:37:41.090Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 62,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

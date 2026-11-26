@@ -1,0 +1,23 @@
+{
+  "id": "news-161a9d5a",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "MHN스포츠",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBUdzRjODBULWgxaWFuVVA5TUZxRFFzQjZJTWtwaEdWUWpDWF9VT2JqcHFCQW5zN1pDdlRFV0w5MS1yajNtVjVDTG9LWHExcHRSZS1sVnpINFdUQlhDQm43c2xxdw?oc=5",
+  "title": "‘통산 228세이브’ KBO 역대 4위인데…12년 만에 세이브왕 등극, 김재윤 “정말 받고 싶었던 상”",
+  "published_at": "2026-11-26T08:53:01.000Z",
+  "collected_at": "2026-11-26T21:37:41.090Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 71,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}
