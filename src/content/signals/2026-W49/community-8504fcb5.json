@@ -1,0 +1,33 @@
+{
+  "id": "community-8504fcb5",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 AI제니 님의 블로그",
+  "url": "https://today.livestoryforge.com/16514",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/EyFpUyqneZa",
+  "title": "LG, 베테랑 포수 김민식 영입으로 뎁스 강화…박동원 FA 협상 주목",
+  "published_at": "2026-11-26T19:35:07.000+09:00",
+  "collected_at": "2026-11-26T13:37:53.117Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 91,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0tSUMzX2RvbC1STUZIMjE0OC1qUHcyMzBCa1JfZmQyalRQMFN2UDRqYkhxb0dMVVowVV9GbWk2T1lUNGVNZHhYWkM3Q2JTdFJOZVh0dlhQM1dmRXJTTG12Y0xkaVFfUDFCUzQ1ejROY9IBb0FVX3lxTE0tSUMzX2RvbC1STUZIMjE0OC1qUHcyMzBCa1JfZmQyalRQMFN2UDRqYkhxb0dMVVowVV9GbWk2T1lUNGVNZHhYWkM3Q2JTdFJOZVh0dlhQM1dmRXJTTG12Y0xkaVFfUDFCUzQ1ejROYw?oc=5"
+    },
+    {
+      "source_name": "OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE54c2Y1VENnRVF4MzMwdXk5U0g2LXhucnpjTGctTmR1bXRzcFl0OUNYUjhpSHdTRlRnTzU2MHh5dFhia3F6allKS3J4ZkVrQnZzM1d6bQ?oc=5"
+    }
+  ]
+}

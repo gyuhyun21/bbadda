@@ -1,0 +1,28 @@
+{
+  "id": "news-d7a96b8b",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "국제신문",
+  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNX1Qtb2N6WGNtSkJUcU16U2JjWjZ6dG9OWC1xRFVrcFRCVjlWd3FNWkFjdm9ZMExWTlZrWFBvUGFmQnBTTHhzVlhWZHJHSG9Tc20tUVh6d0lXcGt1dC1WVndCaG43VzBZdUFxdmFWcGlJYTg4UVV4SE5obmp4bXhQcU9VX1FVZ012cXJtanln?oc=5",
+  "title": "롯데, `3년 연속 안타왕` 레이예스와 동행 이어간다…총액 180만 달러",
+  "published_at": "2026-11-26T02:59:00.000Z",
+  "collected_at": "2026-11-26T13:37:53.117Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 72,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "알파경제",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9RTEN6eHlZdWZnak5WczdwVDFhNTlNUTczQmlrOFBlOTlaX25VS1NIZy04Uk4ycWVELXRORjh5bTBZeGxWb2xRM0JYVXhyRWNtQjRpODhmRTY2MUw4MGFjYjhCRjgtTXpMWlpMMHVR?oc=5"
+    }
+  ]
+}

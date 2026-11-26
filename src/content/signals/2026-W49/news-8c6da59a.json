@@ -1,0 +1,36 @@
+{
+  "id": "news-8c6da59a",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "news",
+  "source_name": "SBS 뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5kOFV3amdaczduNXlSa05iOHA2SUt4YXR1ZWRwakN1cWFiaWUzcXFQMktOWU16ZG9SUG0tUnpBa0hwNjZ4bWM2bWRSdGQxb3VDNnBrbzJOQWJjYzd0TUFGR3EteGhjRlVTbkE?oc=5",
+  "title": "한화 허인서, 최고 신인 영예…16년 만에 '포수 신인왕'",
+  "published_at": "2026-11-26T06:34:08.000Z",
+  "collected_at": "2026-11-26T13:37:53.117Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 89,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "톱스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5VWkVGLTFyei1hTVRCS1I2azRyMVlJX3BLY0NqZXpMTHdkMU5qc1FPSjN3TGhQRHZlbXA2dlNlTktMaDdRRHlVN2UtV3JPSGd0OW94ZVVNYkpGckNPQnlyOVE4YlJpVVNoa1FzMHNJRXNZZw?oc=5"
+    },
+    {
+      "source_name": "MHN스포츠",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8xRlRMMW5fbW9JZHYzcmFqamtYZHFTOTV1R19jTjdsNEFvNmVXcGhCQlFiZE15MzlhTjFoSHlJWlM5NVp5RExpWVRnNUtTSGNXa2VMOHVTcjNHT0RwTnpESDBNUQ?oc=5"
+    },
+    {
+      "source_name": "충청신문",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE94bGUwVVYzZW9zSXFXTW5lN2RxdHd1QWZiR1JwLW50MHUxbXFLY2JEMS1yN2lWMXk3YW9IY2Y1aU9qUGNvQmNOeUNFRDEzazJRNERuU0dib3hwaWFScnlMUmEzMGtWS0ptRFHSAW5BVV95cUxQd3ExdEZqcVMxVnU0S2FTeWNsNnFBVFc1dXg4azQ5MEZRTEZmRW9mRzU4QTY2TTh6N3lqZlRKRmY3Vm1ZcWFTVzNQVDdqNmM2R2pMcXo4cjZvS25yMmJ0REJMOTJqbV9iRnQ4T3FBUQ?oc=5"
+    }
+  ]
+}

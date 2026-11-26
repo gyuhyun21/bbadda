@@ -1,0 +1,24 @@
+{
+  "id": "news-3b1bd3fa",
+  "issue": "2026-W49",
+  "module": "rivalry",
+  "team": "hanwha",
+  "teams": [
+    "hanwha",
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "뉴시스",
+  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcEJRLUFETGo0eXdhejRCQjlkUkxJbVBnNGNxVDB4UXRsNkhmcGIxblhKdTFXMmZmaTlpU1c0bk5kTk1PcGZ0cXhkZ1Mxd0NPX2pLLWUwc1VleFk5Wkk0NzR6dWdfRXR1Ykh6aXpuNHBkMXpIcXI3SGktWmNGNm9fZEszQ1c2Y2pBZkdmLWZCVFQ2b3BsY0k2US1Sb3lIZHMzUkk2TUlWNnljc19Ec3dfaNIBeEFVX3lxTE83MHVyV1kyVjBqV3F4ZThJZm5BNHVaUEg0RERwOGlxRTBDY0xiUGNHaHYtTTZuUWhtNW42cy1WT3RnaURlaXNHMzE3ZGItRHBTbEp2SS1iS0JRUW1mMUJkZGo2UGx6Zkg0V280NmROYk9LWEJiTVhwWQ?oc=5",
+  "title": "MVP와 신인의 기념촬영",
+  "published_at": "2026-11-26T06:51:41.000Z",
+  "collected_at": "2026-11-26T13:37:53.117Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 82,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "youtube-bf1b7b13",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "MBN News",
+  "url": "https://www.youtube.com/watch?v=b4YPcRyX7N4",
+  "title": "'한국 야구 자존심' KIA 김도영 MVP 탈환 [MBN 뉴스7]",
+  "published_at": "2026-11-26T11:04:56Z",
+  "collected_at": "2026-11-26T13:37:53.117Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1738,
+    "likes": 64,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 69,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

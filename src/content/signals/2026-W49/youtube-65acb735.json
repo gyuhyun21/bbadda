@@ -1,0 +1,26 @@
+{
+  "id": "youtube-65acb735",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "youtube",
+  "source_name": "HITTWINS",
+  "url": "https://www.youtube.com/watch?v=zz_RXXTh-mg",
+  "title": "🏆2026 KBO 수비상 1루수 부문, LG트윈스 오스틴⚾💛",
+  "published_at": "2026-11-26T12:19:14Z",
+  "collected_at": "2026-11-26T13:37:53.117Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 238,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 29,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "youtube-af4b3560",
+  "issue": "2026-W49",
+  "module": "league",
+  "teams": [
+    "hanwha"
+  ],
+  "team": "hanwha",
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=maL1mk3Q450",
+  "title": "한화의 안방을 지키며 공수 대활약! 신인상은 허인서입니다🔥",
+  "published_at": "2026-11-26T09:24:46Z",
+  "collected_at": "2026-11-26T13:37:53.117Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 6612,
+    "likes": 288,
+    "comments": 10
+  },
+  "scores": {
+    "hot": 82,
+    "relevance": 80
+  },
+  "sentiment": "neutral"
+}

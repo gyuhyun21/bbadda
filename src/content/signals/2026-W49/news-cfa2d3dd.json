@@ -1,0 +1,28 @@
+{
+  "id": "news-cfa2d3dd",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "중앙이코노미뉴스",
+  "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4yYUFWNVdRTFBkOWZnaTJGWFVSal9LVVBKSTNfM3dsLTUyZXBpUW5CT0dIUUJ2eFM4dWFDdXVNRVVNZjZRUE1VMEhxTkl3dWZxSWF2TmFJNlNsT1dRdmhfZmpVMGpJOFlBZ19wMFRxSHJLQQ?oc=5",
+  "title": "LG 트윈스, 통합 우승 이끈 베테랑 포수 김민식 품었다",
+  "published_at": "2026-11-26T02:39:54.000Z",
+  "collected_at": "2026-11-26T13:37:53.117Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 80,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "알파경제",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9oSHdmUXQxZ0ducTJLVlhCS0tZeFhkbHJrdmM2X2l4MFZON0RvdW94NXNyM0RUMWhSYVR5SGt5UVhuSkg3UEcwUjRPZW12TGJPM25zRGp5N1I1Yi1BV2JiRlNFMTNBTjFmenVPYUhB?oc=5"
+    }
+  ]
+}

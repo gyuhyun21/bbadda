@@ -1,0 +1,30 @@
+{
+  "id": "news-712cd1eb",
+  "issue": "2026-W49",
+  "module": "rivalry",
+  "team": "lg",
+  "teams": [
+    "lg",
+    "kia",
+    "ssg"
+  ],
+  "source_type": "news",
+  "source_name": "마이데일리",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBiVmg5WE9Ia0N3R1BDajdrLS1BQnotRlFPVmhPUlNITENSVml2TklkUHRpMk1YdlR0WlRfWXk4ZVN2UXJtNjQ4LVpMYkV1NVRxcV9rYzZfd2V1UzdQRTgtZg?oc=5",
+  "title": "LG와 박동원 결별 시그널인가, KIA·SSG 우승포수 등장…김태군·최재훈 영입전까지 들썩? 흥미진진",
+  "published_at": "2026-11-26T04:00:00.000Z",
+  "collected_at": "2026-11-26T13:37:53.117Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 97,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "네이트",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1VaXBBaXFVU2d4eHhBUWZldkpPRUxtRW00UXVsSDhBNFJyWkFUZVlieVNMeE9CdzMwRGdOTzhjWXRpcjlvMUhSWDZILUs1MTNBLV9pREVR?oc=5"
+    }
+  ]
+}

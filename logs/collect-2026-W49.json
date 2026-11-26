@@ -612,6 +612,89 @@
           "instagram": 4
         }
       }
+    },
+    {
+      "week": "2026-W49",
+      "collected_at": "2026-11-26T13:37:53.117Z",
+      "sources": {
+        "news_rss": {
+          "total": 698,
+          "feeds": 18
+        },
+        "youtube": {
+          "total": 115,
+          "units": 1020,
+          "searches": 10,
+          "filtered_by_title": 13
+        },
+        "kakao": {
+          "total": 411,
+          "requests": 20,
+          "filtered_ads": 28
+        },
+        "instagram": {
+          "total": 72
+        },
+        "vertex": {
+          "total": 348,
+          "requests": 50,
+          "dropped_undated": 0,
+          "dropped_suspect_date": 53
+        }
+      },
+      "failures": [
+        {
+          "source": "news_rss",
+          "error": {
+            "feed": "gnews-league-KBO 포스트시즌",
+            "error": "HTTP 429: <html><head><meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\"/><title>Sorry...</title><style> body { font-family: verdana, arial, sans-serif; background-color: #fff; color: #000; }</s"
+          }
+        },
+        {
+          "source": "news_rss",
+          "error": {
+            "feed": "gnews-league-KBO FA",
+            "error": "HTTP 429: <html><head><meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\"/><title>Sorry...</title><style> body { font-family: verdana, arial, sans-serif; background-color: #fff; color: #000; }</s"
+          }
+        }
+      ],
+      "skipped": [],
+      "out_of_window": 296,
+      "dropped_no_team": 223,
+      "team_inferred": 351,
+      "dedupe": {
+        "dropped_existing": 321,
+        "merged_in_batch": 290
+      },
+      "dropped_cap": 158,
+      "new_signals": {
+        "total": 356,
+        "by_module": {
+          "league": 15,
+          "team": 122,
+          "fans": 200,
+          "rivalry": 19
+        },
+        "by_team": {
+          "hanwha": 44,
+          "kia": 40,
+          "lotte": 35,
+          "lg": 43,
+          "samsung": 43,
+          "ssg": 31,
+          "doosan": 37,
+          "kt": 35,
+          "nc": 20,
+          "kiwoom": 17,
+          "-": 11
+        },
+        "by_source": {
+          "youtube": 74,
+          "community": 134,
+          "news": 109,
+          "instagram": 39
+        }
+      }
     }
   ]
 }

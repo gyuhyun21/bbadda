@@ -1,0 +1,23 @@
+{
+  "id": "community-466e5296",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "다음카페 이종격투기",
+  "url": "https://cafe.daum.net/ssaumjil/EZLX/438456",
+  "title": "KBO 정규시즌 MVP 구단별 배출 순위 (1982~2026)",
+  "published_at": "2026-11-26T21:59:04.000+09:00",
+  "collected_at": "2026-11-26T13:37:53.117Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

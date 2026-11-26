@@ -1,0 +1,23 @@
+{
+  "id": "news-74b5711f",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠동아",
+  "url": "https://sports.donga.com/sports/article/all/20261126/135098038/1",
+  "title": "‘수비상 유틸리티 부문 초대 수상자’ LG 구본혁 “어느 포지션서든 최선, 신설해 주신 모든 분께 감사”",
+  "published_at": "2026-11-26T08:33:46.000Z",
+  "collected_at": "2026-11-26T13:37:53.117Z",
+  "summary_ko": "올해 새로 생긴 수비상 유틸리티 부문 첫 수상자는 LG 구본혁이다. 그는 \"어느 포지션서든 최선\"을 다하겠다고 했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "brief_ko": "구본혁, 유틸리티 수비상 1호"
+}

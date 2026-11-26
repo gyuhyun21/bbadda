@@ -1,0 +1,27 @@
+{
+  "id": "youtube-55b9a1ef",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg",
+    "ssg"
+  ],
+  "source_type": "youtube",
+  "source_name": "김알 - 김팀장이 알아봤다!",
+  "url": "https://www.youtube.com/watch?v=DaMj5Se0cCM",
+  "title": "LG 김민식 전격 영입! SSG 방출 14일 만에 새 출발…그렇다면 박동원 FA는? #LG트윈스 #김민식 #박동원 #shorts",
+  "published_at": "2026-11-26T11:47:43Z",
+  "collected_at": "2026-11-26T13:37:53.117Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 763,
+    "likes": 2,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 37,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

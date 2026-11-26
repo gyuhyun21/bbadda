@@ -1,0 +1,33 @@
+{
+  "id": "news-1e48d9f2",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "announcement": true,
+  "source_name": "fn스타",
+  "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8wMUJVWF9pTzI0am9Xc0twZFlBVU9yN3hhRDFOVEhWamRQQks0SHBkYktLN2xhTnp5SnlzVmtRa29EMVhENThPNGR1LUszaERoa0ZlaVI5UTlxQWN1N3pv0gFjQVVfeXFMT0dBV21ia3dxMGc1RUtqb1loaUMyN2VCSmMyaDBwd25Wb2tRLVJ2dmhFcDBnTTF0aDZMSlp3WTdLS3BuMHNLOFpLRWVKelZ1azJvQ0ZZNWxhb20zckRxVzRGUTdR?oc=5",
+  "title": "\"3년 600안타·득점권 0.399 괴물이 180만달러면 혜자 아닌가요?\"... 롯데, 레이예스와 4년 연속 동행 공식 발표",
+  "published_at": "2026-11-26T02:35:00.000Z",
+  "collected_at": "2026-11-26T13:37:53.117Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 88,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "파이낸셜뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1xeFB0ODY5QXpYekg0ZnFlcks1aFlTdktudjB1RG1NOGVrNFlBX2swOE4wZzR4dEtKczI1WF9sVzlvbUNzd0xobHVFOE90VFNQZURGUkRfM3Nudw?oc=5"
+    },
+    {
+      "source_name": "울산신문",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9veUt1RldUdGhxY2lHY1B6RW1kQXBKVHBfUU84NzAwQldQRjZMR0lELTE4LXY4cjM1dzRuc1pXRndwRGk2d1BaQXc4Wko2YTg0WV9hT01UcWlqZkR1VEd6czZYbUtHRWE2VkRrQ3R30gFyQVVfeXFMTlVfV3dISFNIdllleHVXSTZidEVOQVhISFNhUDdhbmUxZUpKZXNLVGM2YkVicmJ2RHhrZUZUek9NTFdPX3ZGWWtBVE9RY1o3WHhjR1pRcTRfdjhxQmVPT3RWRjhseXBoejhGckZaRlE0dHdB?oc=5"
+    }
+  ]
+}

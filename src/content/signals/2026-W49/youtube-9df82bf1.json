@@ -1,0 +1,26 @@
+{
+  "id": "youtube-9df82bf1",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": " 𝐊𝐃𝐇",
+  "url": "https://www.youtube.com/watch?v=ZOHE3a6gFkI",
+  "title": "삼성 라이온즈 불망맹이 응원가",
+  "published_at": "2026-11-26T13:10:33Z",
+  "collected_at": "2026-11-26T13:37:53.117Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 3,
+    "likes": 0,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 47,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

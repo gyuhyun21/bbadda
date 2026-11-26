@@ -1,0 +1,22 @@
+{
+  "id": "news-ed15776d",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "대구MBC",
+  "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE13NzE3bFU3bU9YTHlwSkxRcFlVa21hbnk0b1dLN0pJUUVGbEljRUNOYVc3UDBGZ2gxU0ZDbmdEWGtWYUt2dWY4UzdhTWI?oc=5",
+  "title": "[삼성 V9-VAMOS LION-플레이오프] 짜릿했던 가을의 시작, 2년 만에 KS행 확정",
+  "published_at": "2026-11-26T07:11:13.000Z",
+  "collected_at": "2026-11-26T13:37:53.117Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 80
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "news-3d5e4e3b",
+  "issue": "2026-W49",
+  "module": "rivalry",
+  "team": "lg",
+  "teams": [
+    "lg",
+    "samsung",
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "연합뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5PY05BdVM0WTlfblk2RjZ6VHhUbWVVU1V2dlE2bk9tRjZ2aDIyMWZ1cTFST2pKUmdBYmdFbU8tQTZNREJzaG93OVJoVTZWUEd5aFNHWDl3TGN2TEVJbnM5NtIBYEFVX3lxTE5PY05BdVM0WTlfblk2RjZ6VHhUbWVVU1V2dlE2bk9tRjZ2aDIyMWZ1cTFST2pKUmdBYmdFbU8tQTZNREJzaG93OVJoVTZWUEd5aFNHWDl3TGN2TEVJbnM5Ng?oc=5",
+  "title": "12년 만에 1군 타격왕 오른 구자욱 \"포기하지 않으면 이 자리에\"",
+  "published_at": "2026-11-26T07:04:43.000Z",
+  "collected_at": "2026-11-26T13:37:53.117Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 82,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

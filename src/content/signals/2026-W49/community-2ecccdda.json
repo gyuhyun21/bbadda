@@ -1,0 +1,30 @@
+{
+  "id": "community-2ecccdda",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 별별ISSUE",
+  "url": "https://byulbyul-issue.tistory.com/84",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/D1cxjg48Bop",
+  "title": "김도영 2026 KBO MVP = 136표 중 80표 · 45홈런 홈런왕 · 2년 만의 두 번째 수상",
+  "published_at": "2026-11-26T15:37:41.000+09:00",
+  "collected_at": "2026-11-26T13:37:53.117Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 81,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "뉴데일리",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdTctZ2NFTlNrWTBsSzVrLXJETFp1YTloYURlbm1DZDlTRnMxUHJMVkhHeFZVdGNJNGpOSldROWI0TG5DcjBtRWlrNXE0Z2lyLTlZaHJsOWY4ZDRXdHZkQlFxOTZrLUthX2pMbHNRSmNCME5YSkNwZjZuN3k2SUdLSNIBgAFBVV95cUxOdTctZ2NFTlNrWTBsSzVrLXJETFp1YTloYURlbm1DZDlTRnMxUHJMVkhHeFZVdGNJNGpOSldROWI0TG5DcjBtRWlrNXE0Z2lyLTlZaHJsOWY4ZDRXdHZkQlFxOTZrLUthX2pMbHNRSmNCME5YSkNwZjZuN3k2SUdLSA?oc=5"
+    }
+  ]
+}

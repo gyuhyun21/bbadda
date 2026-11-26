@@ -1,0 +1,29 @@
+{
+  "id": "news-351f28cf",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5lRHpLeVpzODZQb2FxNEVNZ01MbU91MHd1OWhEUFpQcmoxZGNFMThPQ2U3ZVV3bEwtNXFBbVM4ZWNnR1c1OE5kcks4LUVfT2pFNFd6V0pkWG9ZX0dod213bVdrUk0wRFo4a0HSAW9BVV95cUxPdW1KWDAzRUZzQWR6ZWZ0OGpYbm1UN2k4MGhNakNxdFFjTVhqclJlZEo2bnNiakxyNHpyVnhEYzN0S3pGcGNNRUFIX0RpRWQzOGpKRTkxSXc5YnZuVVhZUUM2OFUtUmVnd1dSZmtlRDg?oc=5",
+  "title": "'KBO 통산 SV 4위' 초특급 마무리, 36세에 '끝내' 첫 구원왕 타이틀 따내다 \"정말 받고 싶었던 상\" 감격 [잠실 현장]",
+  "published_at": "2026-11-26T12:09:00.000Z",
+  "collected_at": "2026-11-26T13:37:53.117Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 83,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ZWkUwV2k0dl91UkFXalFDc2c3cjJWM1N1XzV4RUVlbURTZFBsNkxwYnRzQjZQNngyR3BYWW9oRTJXdUJpRjJDYjlOWGJheGdYSGhLSElTNUxVd1ZlRjI3cnRkYXpOakJhNWk1RzVUSzRObXA2Y0E?oc=5"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "youtube-72feed12",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "nc"
+  ],
+  "source_type": "youtube",
+  "source_name": "라이온하트",
+  "url": "https://www.youtube.com/watch?v=C9LTgYAuH24",
+  "title": "삼성 원태인 FA 이적설 터졌다! 구단 제시 한계선과 NC 다이노스 영입전 배경 총정리",
+  "published_at": "2026-11-26T08:30:31Z",
+  "collected_at": "2026-11-26T13:37:53.117Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1971,
+    "likes": 22,
+    "comments": 3
+  },
+  "scores": {
+    "hot": 50,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "news-2ff7b88b",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "마이데일리",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5mTnFDV3JDX212OWF5WXJVYXRhaUVsYUxUWm1jSTJWY203WXVla3U3RjFua3daUnJKUTdoaGRZQVRJcW5RNEpDYVVQVnZuVU5tR3c4Z2ZyNjZIRWl2T1hHYQ?oc=5",
+  "title": "삼성 'V9' 비밀 이제는 말할 수 있다, 이 선수 홀로 KS 5차전 9회 불펜 지켰다 \"나 혼자 엄청 열심히 뛰어갔다\"",
+  "published_at": "2026-11-26T00:41:00.000Z",
+  "collected_at": "2026-11-26T13:37:53.117Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 79,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

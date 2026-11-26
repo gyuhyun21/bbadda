@@ -1,0 +1,29 @@
+{
+  "id": "news-2bdec290",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스1",
+  "url": "https://www.news1.kr/sports/baseball/6366946",
+  "title": "롯데, 레이예스와 총액 24억 원에 재계약…4년 연속 동행",
+  "published_at": "2026-11-26T02:55:23.000Z",
+  "collected_at": "2026-11-26T13:37:53.117Z",
+  "summary_ko": "롯데가 레이예스와 총액 24억 원에 재계약했다. 4년 연속 롯데에서 뛴다고 뉴스1이 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 72,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "뉴데일리",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYVN4YUpocEpqeExJV1Y4dElZV3lBdl9LMzhGMjkzWWplZE5jRnVENXg4VTRLbWdLZlBYa3BnQ3MxempnaE9SQWF5M2RZTUxyazdXT3gzRk50TGIwSUVQTjV3VzM4Szd2NmY2U3hDeks3SWhnSXRIdTJKT2hWcU1SS9IBgAFBVV95cUxOYVN4YUpocEpqeExJV1Y4dElZV3lBdl9LMzhGMjkzWWplZE5jRnVENXg4VTRLbWdLZlBYa3BnQ3MxempnaE9SQWF5M2RZTUxyazdXT3gzRk50TGIwSUVQTjV3VzM4Szd2NmY2U3hDeks3SWhnSXRIdTJKT2hWcU1SSw?oc=5"
+    }
+  ],
+  "brief_ko": "레이예스와 24억 재계약"
+}

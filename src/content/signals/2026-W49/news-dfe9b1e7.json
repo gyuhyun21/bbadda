@@ -1,0 +1,33 @@
+{
+  "id": "news-dfe9b1e7",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "news",
+  "source_name": "스포츠한국",
+  "url": "https://sports.hankooki.com/news/articleView.html?idxno=6944237",
+  "title": "'이변 없었다' 허인서, 16년 만의 포수 신인왕…한화 구단 사상 처음",
+  "published_at": "2026-11-26T06:24:42.000Z",
+  "collected_at": "2026-11-26T13:37:53.117Z",
+  "summary_ko": "한화 허인서가 2026 KBO 신인왕에 올랐다. 16년 만의 포수 신인왕이자 한화 구단 첫 포수 신인왕이라고 스포츠한국이 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 89,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "네이트",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1SdGFvejlOejJRUDFrdDdrV2F3N3plRUpRbHF1RWJJRFNpYlFBTmE3dHMyUWF5ZDlTVnhoVDVDbkVXS0dJWjFoODZpNGdMTUdVem9DRUlR?oc=5"
+    },
+    {
+      "source_name": "뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA3ajhIY1JXaVo1TUhqV0xOeDdjeGNIQU9uckFtX2o3V0NUZUhCNnU1dFN0WUdxRnM3OHJRT1NGUUdOMlhlYS10azF5S0F1SUdDNy1tWURFWlFJcnJRZU1qTtIBeEFVX3lxTFBBMlY0bGNzNHU2NGxaM0dCM3lDQnhOV0Y5aDZtaGdJcDRPRDZOT3U5UGNjQlRscnZSTm5HTjRXZ1ZhZ2JoX3d1N0dfR0wtM2R6MWhDU3BBbElhVVhWcWhJZkRCX3FaQjQ1Y0lGUFBWMEkzQ2RtSFprMg?oc=5"
+    }
+  ],
+  "brief_ko": "허인서, 16년 만의 포수 신인왕"
+}

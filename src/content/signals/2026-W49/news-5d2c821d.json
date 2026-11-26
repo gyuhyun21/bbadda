@@ -1,0 +1,28 @@
+{
+  "id": "news-5d2c821d",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE42OFZhQnN6dTBLVE9rR3NETUFjVm5JUGhTLUEtZmtXV2VVMC1yNFZfTWJCaldvTkI1UXA3aXpmaEVLR1JOZ0RjbEZNblBFTWs0N00wVlZRWGUweERsOGlqN1ZDRWIzdVpUQy1kWXJQa9IBb0FVX3lxTE42OFZhQnN6dTBLVE9rR3NETUFjVm5JUGhTLUEtZmtXV2VVMC1yNFZfTWJCaldvTkI1UXA3aXpmaEVLR1JOZ0RjbEZNblBFTWs0N00wVlZRWGUweERsOGlqN1ZDRWIzdVpUQy1kWXJQaw?oc=5",
+  "title": "롯데 출신 특급 좌완의 ML 재도전, 美 매체 “선발 진입 가능성 높지 않다”",
+  "published_at": "2026-11-25T22:05:00.000Z",
+  "collected_at": "2026-11-26T13:37:53.117Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 78,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE56SG4yVlFTczFERllGVkFwVDM0eGR4c1ExdUZDazlobnpZbEMyZGNBWnBiTmFXNHFjVi1URjkyUHFDWDViYmswaHlqdkFjYmhmQ3hfVg?oc=5"
+    }
+  ]
+}

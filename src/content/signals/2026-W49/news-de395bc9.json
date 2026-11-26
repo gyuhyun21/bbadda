@@ -1,0 +1,29 @@
+{
+  "id": "news-de395bc9",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "일간스포츠",
+  "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5pb0VuOC1vZ0JNdmNUUUFXY1NjYTd4NDZVa1h0ZnNZd1U4N0xXWFd0SDJhNURZUC1yVWlMR3hMV2dfRGlQSzZobTZrZ2ZpV3hnNGZtRU1RTVhMdzQ?oc=5",
+  "title": "[KBO 시상식] 두 번째 MVP 거머쥔 '슈퍼스타' 김도영 \"팬들 있었기에 다시 일어설 수 있었다\"",
+  "published_at": "2026-11-26T06:37:00.000Z",
+  "collected_at": "2026-11-26T13:37:53.117Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 89,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE93MFNwVmRIV0kzNnlLZHgyVHQtc0J1SFo4ZWVzX3I0T09oY1pFeGZncS1kbFNrOGpOUFg4dHhPdUd0TFZFMElhc2ZsbGRjOUx4Y2xoVElWcGMyNDdrZXhLNk5FWmhUalBuR0hXbTh6N1hoOGtlYkJiaA?oc=5"
+    }
+  ]
+}

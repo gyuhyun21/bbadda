@@ -1,0 +1,29 @@
+{
+  "id": "news-4d5086b9",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1hWHRvaWJKemRLa3RmejJNc0dHWGtJd29EeVdOWm4wUzJPc3czNWlIZl9lOFNWMm5EMTVxeUFxYm04clpIZ1hwSFBtVmVZRGpRdlY0TEJzbkVZWEM1cTNLSV9Fc1Yxb1RDNWVvY1Zfc9IBb0FVX3lxTE1hWHRvaWJKemRLa3RmejJNc0dHWGtJd29EeVdOWm4wUzJPc3czNWlIZl9lOFNWMm5EMTVxeUFxYm04clpIZ1hwSFBtVmVZRGpRdlY0TEJzbkVZWEM1cTNLSV9Fc1Yxb1RDNWVvY1Zfcw?oc=5",
+  "title": "‘이럴 수가’ 김도영 충격 고백! 2년 만에 또 한국야구 평정해놓고, “내 플레이 70점, 갈 길 아직 멀어” 깎아내렸나",
+  "published_at": "2026-11-26T10:41:00.000Z",
+  "collected_at": "2026-11-26T13:37:53.117Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 83,
+    "relevance": 70
+  },
+  "sentiment": "negative",
+  "also_in": [
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZFRMOU5mcS1nS0RFbUJqQ3VEREh5aEhpYWZiSkpZVWxGamNjV05rS1N3RFZNMGRPeXJSdU1CVTZaZGU0QnlJN2w1MWQwRm80cUMteGt5cXZTdE1DZEZoOGZiSWRNZVp3NDFIVVNZNmZHM2NqX09RbExOaFNFWnJsMThMTQ?oc=5"
+    }
+  ]
+}

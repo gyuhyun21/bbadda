@@ -1,0 +1,23 @@
+{
+  "id": "news-6a6ac0d3",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "매일경제",
+  "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFB0c2pTdHlmLXJtYk1uWWF2N0VMWGt5bjhyODVfT2Y1cjhla3IwUEdRRG1yaDFaOENQQ0Y4Z0VOMjhBc2pnY0E?oc=5",
+  "title": "김도영, 한국야구 '별 중의 별'",
+  "published_at": "2026-11-26T08:01:06.000Z",
+  "collected_at": "2026-11-26T13:37:53.117Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

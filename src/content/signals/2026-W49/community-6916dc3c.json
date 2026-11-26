@@ -1,0 +1,30 @@
+{
+  "id": "community-6916dc3c",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 geena1 님의 블로그",
+  "url": "https://1234.herostar.kr/787",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/Kzc3mJFp16i",
+  "title": "곽빈 수상 2관왕 2026 KBO 시상식 총정리｜평균자책점 2.24·197탈삼진·수비상·MVP 후보",
+  "published_at": "2026-11-26T16:12:18.000+09:00",
+  "collected_at": "2026-11-26T13:37:53.117Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "이투데이",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8tbE9qX19nQkFyTzV5SE9JNWpDS3FVUDh1QnJ5dVpJcWNEYXJ5dDZYLVJSc2VjLURBbEZZUWtlTWVEZTktY2UxVVh4RU9SVU5pUlBoaQ?oc=5"
+    }
+  ]
+}

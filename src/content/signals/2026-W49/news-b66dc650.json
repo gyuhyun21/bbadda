@@ -1,0 +1,35 @@
+{
+  "id": "news-b66dc650",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "한겨레",
+  "url": "https://www.hani.co.kr/arti/sports/baseball/1289281.html",
+  "title": "‘2년 만에 MVP’ 김도영, “올해는 70점…더 독하게 준비하겠다”",
+  "published_at": "2026-11-26T07:29:00.000Z",
+  "collected_at": "2026-11-26T13:37:53.117Z",
+  "summary_ko": "김도영이 2년 만에 KBO MVP를 다시 받았다. 그는 \"올해는 70점, 더 독하게 준비하겠다\"고 말했다고 한겨레가 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 90,
+    "relevance": 80
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "MBC 뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8xRHJGV1M1TzRObzNvMi1VQ0JydjktZnhnanNCZGdsb3hxYXRwR2R4cmQ5VjI3dm9QY1R4aGRjRUNCZjJWc29pRWpIZ2NLeHd4MnFXRnk0S3FPVzl3VGlHMlh6X1ZhU3fSAWdBVV95cUxPMURyRldTNU80Tm8zbzItVUNCcnY5LWZ4Z2pzQmRnbG94cWF0cEdkeHJkOVYyN3ZvUGNUeGhkY0VDQmYyVnNvaUVqSGdjS3h3eDJxV0Z5NEtxT1c5d1RpRzJYel9WYVN3?oc=5"
+    },
+    {
+      "source_name": "스포츠한국",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1lZ0tjaDRkd0FLZlFwWUdpQlB0eVBKMVg3VkQ4S0d0SlgwdFE4R04xQVZWRDZoQl93U0JCay1MYWxLXzBzWEQyUWRtUk5kMEUxT09VeW5fRF85VFNBWkQyZUg2MEc4dDhZYnJaNHN6cUnSAXRBVV95cUxNZkRoYUxfbTBCVktZUmF0VEdrdWo5YjBZTURnRElXZl95MEZhbXJOVnpaRmhFMldtWEt5cnlJLVduOVdHTlQ1M1dQLWF2d3Q4ZkdKTUVYeGhjS09mZW9NazFfTVVlVjgwdFFaVTlROHlYSFJIWg?oc=5"
+    }
+  ],
+  "brief_ko": "김도영, 2년 만에 다시 MVP",
+  "hook_ko": "2년 만의 MVP,\n김도영은 \"70점\""
+}

@@ -1,0 +1,42 @@
+{
+  "id": "community-d767cc20",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 우당탕탕 IT 연구원",
+  "url": "https://want-real-rich.tistory.com/50",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/E4TwPzQEJA7",
+  "title": "김도영 2026 KBO MVP 수상, 이승엽보다 19일 빠른 역대 최연소 2회 MVP (80표·득표율 58.8%, 45홈런...",
+  "published_at": "2026-11-26T15:42:12.000+09:00",
+  "collected_at": "2026-11-26T13:37:53.117Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 98,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "무등일보",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5neFlQbDBFbG1ZRTFmTy1TY1FFdzVoc0RwZ3lZZ2Q0bVJfX1J4S0xOSVRmRGF1LWpzUC00clA5UkctcDk5WmZuQWFOT0c?oc=5"
+    },
+    {
+      "source_name": "서울경제",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ycG9tRExvRU5XbXJzM0hOVHBhZHBUcWZTek9rZEVoNWVPUE8xb1h5czZRbTRQWVBlQ1JhS2JiTHNXWWNBZ3ByeXM5N21vM1E3ZmfSAVNBVV95cUxQZDVCb1JZM1A1aWNNNnJCcHdYU1VfS3lrYi1YOWRqcmVQZHFwVUxRcjMwR3JzZUNsWDNUUTV5UElBeWY0elZnLVM4SWo1UnlWVGdkMA?oc=5"
+    },
+    {
+      "source_name": "Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMFlJdDhwTzJ1VUZESXJNRzVYdkNmWHFEWjN5dU0wMGNqUjVEQ1llZDNVejhyLW54MEFoVGIwaWFFQWlPelhXMmx3NkJoZVpZaW5aTUp3MmlVNXlQMmRhc3dTblVhUFVMcVpLSURBVzJQajRfQUt2RnI2U3o0LUdyekxuUTBCTXRlUklz0gGfAUFVX3lxTE41OFU2UUFhcWxTdGY5TUJ4Y29Xd29reU1fUVhvZF80MDhiNGV6YXUyTUQxVk94LUxPRlFnd2tJWlZETTNjSkpKRWI2S2F0MXp5Vk84TnBQd0ZsOGJzTk92MVlmN2wwTVktSHFVOFBTUVdHNVdXNk43bHgxcEprd3RiNll5b3RyYS1admgxNUpNb2ZWOGNWUEdSd1B5c3Vlbw?oc=5"
+    },
+    {
+      "source_name": "www.stnsports.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9XLU10ek5QVTFYZnlUQ1JTTzJZM0dCa2FmWnNPcW14VmtjVjkwVDlDLWQ0Q0NMbzQ2TWRhMzJ2SHNHbjNFZGtneE5lblM2S0ZPNzJBV0hCNjBrSnEyaVdEMDY2Y003QjJrcndvNDg5Zw?oc=5"
+    }
+  ]
+}

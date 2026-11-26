@@ -1,0 +1,32 @@
+{
+  "id": "community-ab047517",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "community",
+  "source_name": "다음카페 쭉빵카페",
+  "url": "https://cafe.daum.net/ok1221/8mNz/1227500",
+  "title": "한화 이글스 허인서 신인왕. 115표 중 92표로 67.6%...",
+  "published_at": "2026-11-26T15:20:37.000+09:00",
+  "collected_at": "2026-11-26T13:37:53.117Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 89,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "www.xportsnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1xWW1GUjYtVzUzbGwwT0JHYW5Jd2lqYk8xd2U0WVlOWm9pWURiSlg1X01haWt6dG1PZ1NQVXJqZVN5RzNtYjFKeGk0OXFRYzgyWXJPUA?oc=5"
+    },
+    {
+      "source_name": "네이트",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5uRTFuVDNlZEU0eng3eWhiQkYzR2dteGhJY1dVWFNRT0hzbDNyYkdTUlJIQzNhT2xCYks4a2p6b2RndFJyOTNIRFI5SDJ6UzM2OFhJQTlB?oc=5"
+    }
+  ]
+}

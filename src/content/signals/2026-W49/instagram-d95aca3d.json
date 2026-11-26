@@ -1,0 +1,26 @@
+{
+  "id": "instagram-d95aca3d",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "instagram",
+  "official": true,
+  "source_name": "Instagram @ncdinos2011",
+  "url": "https://www.instagram.com/p/DgMklsBTWjK/",
+  "title": "NC 다이노스 공식 인스타그램: [ 2026 신한 SOL KBO 시상식]",
+  "published_at": "2026-11-26T07:29:59+0000",
+  "collected_at": "2026-11-26T13:37:53.117Z",
+  "summary_ko": "",
+  "metrics": {
+    "likes": 1863,
+    "comments": 7
+  },
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

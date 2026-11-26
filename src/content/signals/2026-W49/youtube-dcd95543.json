@@ -1,0 +1,27 @@
+{
+  "id": "youtube-dcd95543",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "Giants TV",
+  "url": "https://www.youtube.com/watch?v=KvPEEdM6s-w",
+  "title": "2027 시즌도 레이예스와 함께🔥 #레이예스 #재계약 #롯데자이언츠",
+  "published_at": "2026-11-26T04:14:59Z",
+  "collected_at": "2026-11-26T13:37:53.117Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 87308,
+    "likes": 4435,
+    "comments": 261
+  },
+  "scores": {
+    "hot": 100,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

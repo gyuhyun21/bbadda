@@ -1,0 +1,29 @@
+{
+  "id": "news-b43a1b22",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5KemdFbHgyWHJIQ3JDZ0hnZnJQNnVMVTBHcHdYTTMyQ3R6anZnYldCZG5PM3dyT1Y0S0dMWFllSVVJblVHQzFhcGFLOGhIa1kwcElmQW10Zm0xWlE4c0tmVHBPbnptVU1nb016SExCc9IBb0FVX3lxTE5KemdFbHgyWHJIQ3JDZ0hnZnJQNnVMVTBHcHdYTTMyQ3R6anZnYldCZG5PM3dyT1Y0S0dMWFllSVVJblVHQzFhcGFLOGhIa1kwcElmQW10Zm0xWlE4c0tmVHBPbnptVU1nb016SExCcw?oc=5",
+  "title": "MVP 김도영 패션도 힙하네, 직접 밝힌 \"오늘 의상 콘셉트는...\"",
+  "published_at": "2026-11-26T09:59:00.000Z",
+  "collected_at": "2026-11-26T13:37:53.117Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9IbjJvRTI5ZXpFWTdwdjUxM1ppdEN3Q3NGT0xBaEhqdDktdmhYSnoxai1tQnIzUVZBc3lpVVZHRTdEbHZsa3kzQVJSZkpXNGRQcHltc3RGajI2bzR6bEowY05TU1paLV9qRms5cUVYRDZxWUNZbkE?oc=5"
+    }
+  ]
+}

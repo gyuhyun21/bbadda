@@ -1,0 +1,34 @@
+{
+  "id": "community-abe264bb",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 오늘의 급상승 검색어",
+  "url": "https://nftcho.tistory.com/50",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/AcXU040fFnD",
+  "title": "'KBO 시상식' 급상승 — 김도영 2년 만에 MVP 탈환, 45홈런·4관왕 역대 최연소 2회",
+  "published_at": "2026-11-26T16:26:09.000+09:00",
+  "collected_at": "2026-11-26T13:37:53.117Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 90,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "더게이트",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE56X0JucHh5Z1Bwc2hpbWU2OXZQNDF1XzljSFJiRlgxZUJxWVRiYkZTNjNqZFd2UUJzTUtXZVhySGp0ckVTSm8wVFFJNzZvajNPRldrMURDOEtzYTBRdW9KdXVjSVVjQTdZ0gFsQVVfeXFMTUhyUmd1WFRHMXRYbncxNE9uRjR3OXpOQjVYRy1RdG5PNGp3OVFhTHFQQkJoZ2YzYlF2S2hvbW1oRDRaeUpaOHk3eHpEV0FDZG9CRTBJdmIwbDNVLVRXeEJib2l2STh0ZXlDd0h3?oc=5"
+    },
+    {
+      "source_name": "코리아이글뉴스",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9KR2xOM2R5dmRtazllWkc0SG1XTVBXbVFYcGcyTUxrRl9vanhET2ZfR3pVX3dXX2U2dnVVQkZ3WGQtQU1Nc3VGN3F1MjNSeEwzU25kemdqN2JWMVV2U0JZaWZxMEtkUWVpdG1TUUFndkMtM2c?oc=5"
+    }
+  ]
+}

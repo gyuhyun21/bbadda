@@ -1,0 +1,25 @@
+{
+  "id": "news-f2459583",
+  "issue": "2026-W49",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kt",
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "뉴시스",
+  "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5EaUp1YmloWlJweEZ2cGJDdXNYX3BMQlA5QmRDYl9UODBLblBkT0dFNDdvS3FOYkpPcU9rR3FXQ2x4ZUVkVVpZQVB3Y0xWVzk3SXAxbk5qZTczV2Z2SjUzUDhrNjA5b212WlpNamRxMXBXamdHOEh1eNIBeEFVX3lxTE5EaUp1YmloWlJweEZ2cGJDdXNYX3BMQlA5QmRDYl9UODBLblBkT0dFNDdvS3FOYkpPcU9rR3FXQ2x4ZUVkVVpZQVB3Y0xWVzk3SXAxbk5qZTczV2Z2SjUzUDhrNjA5b212WlpNamRxMXBXamdHOEh1eA?oc=5",
+  "title": "타격 2관왕 자격으로 시상식 찾는 구자욱…FA 시장 개장 이후 첫 공식 석상",
+  "published_at": "2026-11-26T00:42:07.000Z",
+  "collected_at": "2026-11-26T13:37:53.117Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 87,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

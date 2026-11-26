@@ -1,0 +1,26 @@
+{
+  "id": "youtube-623bcf19",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "youtube",
+  "source_name": "야구이것저것",
+  "url": "https://www.youtube.com/watch?v=OkGxRfhJw5Y",
+  "title": "공 제일 아낀 투수, 키움 외국인이라고? | 한 이닝 14.7구 KBO",
+  "published_at": "2026-11-26T09:30:14Z",
+  "collected_at": "2026-11-26T13:37:53.117Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 663,
+    "likes": 4,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 39,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

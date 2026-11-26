@@ -1,0 +1,30 @@
+{
+  "id": "youtube-b76989c2",
+  "issue": "2026-W49",
+  "module": "league",
+  "teams": [],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=tuz2340VCJI",
+  "title": "2026 KBO 리그를 빛낸 얼굴들🏆 | 2026 신한 SOL KBO 시상식",
+  "published_at": "2026-11-26T12:00:25Z",
+  "collected_at": "2026-11-26T13:37:53.117Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 9702,
+    "likes": 550,
+    "comments": 69
+  },
+  "scores": {
+    "hot": 88,
+    "relevance": 30
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "이투데이",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAzSEFjb2NOQl9WeWFsaHlkbEFPN3NBR0Q3ZUg3X0VwU0dSd1Jqbi1qOEFmSHZPTVpxc01adDNEZkR2dDhkY1lXY3N0UWZSYi1TS0JNbQ?oc=5"
+    }
+  ]
+}

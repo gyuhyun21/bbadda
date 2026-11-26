@@ -1,0 +1,70 @@
+{
+  "id": "community-5af11366",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "hanwha"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 체려",
+  "url": "https://neko1075.tistory.com/107",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/Kl713x7ZpOA",
+  "title": "KIA 김도영 역대 최연소 2회 MVP…한화 허인서 신인왕 등극",
+  "published_at": "2026-11-26T16:07:57.000+09:00",
+  "collected_at": "2026-11-26T13:37:53.117Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 98,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "진일보 | 전남일보",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBMVjR0cWxVT3RQX3pXUVB4dkZlSEpFUHRwQXBGemttblF3UndQRFZMZERMMEJfRkZDcjBmMk44cTRpRnh5RFRzUGEwQ192Y1ZGY1JWWEozWmtlcE0xNlNOUF8zUUItaGc0dklWWUw2SQ?oc=5"
+    },
+    {
+      "source_name": "스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9fbEp4M1JJMGtjM0NrampOV2FodDhDNXhTWUNwQzFaUWtXLXpsMHJwR19kZEg4NmFTNzJYZ0dnYzFiejJlVVNWUVE0aFV4a2FiLVBfaTViODRSNWRVNnp6aFVLWXVmcjZ5SDVmY0V5clRDdmpvYWc?oc=5"
+    },
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5oaFFQM1dvdV94d21zMFhFbGxadWpqdm03cldJUWw1RFFlWVc4R051VVZoSXJFTjZFNDR3MTA0VWpZSjJCZWtjc29BRHU2cHFuYWJTb0FxNnFIa1VPb0otc2sybXdKcE81VDN3M0pBRdIBb0FVX3lxTE5oaFFQM1dvdV94d21zMFhFbGxadWpqdm03cldJUWw1RFFlWVc4R051VVZoSXJFTjZFNDR3MTA0VWpZSjJCZWtjc29BRHU2cHFuYWJTb0FxNnFIa1VPb0otc2sybXdKcE81VDN3M0pBRQ?oc=5"
+    },
+    {
+      "source_name": "강원도민일보",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBvTHRyal9ad1lKeEJXQlU2aTNYenczcmlyRGNSMDVvVUVtMDN6TUozWnNfcGpBYWktUjhodjJLVmdibHpKS2JHTFFrSHJ3M2U0SHc3OVdlc3ExN3UySmktVG5aRS10YkJG?oc=5"
+    },
+    {
+      "source_name": "뉴스핌",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5VbkZDakxnUGtMUTNZX3gteTRtdmxVWFNhYnlVVzVralBmX0wtazZxWHEyLThHUjJFOVBMLWR5MXhJRml3Mmh6TG9qR1JfRTU1NE5jUFc0WXhkOW9t?oc=5"
+    },
+    {
+      "source_name": "뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBEQ2JnNVBDa0E1M2k4X3BLYjc1VjFzcmVKNlJsTTBhdFBsbXUwMTN2a3pFRGI2aUV1QndXSlBwRlFhbGtHTU5MU3U0MUgxcTNUeDhwd0F6dVdESkRUOTlzMdIBeEFVX3lxTFB4WmV3SnB4VU1RcVpXak5qUEcyUG1QU2R0V2ZtRHFqdkFxT01tZ1dmaGhXQzFtZVU2TFRxaUQtdkd5QVoxQ1hLNWExQ20yZ1FZZFp6SHVnY0dJakRJWVN6WFFQZ0puYlI5bVpnT0czNkszaENKLXZ5Nw?oc=5"
+    },
+    {
+      "source_name": "KBC광주방송",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9taUFSSENLT0ZwelkyQlM3bzJZazYtdUdKMVM2NC1fMWs5T3NsWFFKYmhEUkNuaTBjdHFvTUxZdXlueUN5QlotaFg1NkEwSkJDOVNSMXdRNVc0RUpBdGlnWA?oc=5"
+    },
+    {
+      "source_name": "미디어파인",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBJVF9naTE0aFBDbEJZSEt6WFlsZHBZMHNUMXJxekRkYVdhOVR2X25JUlRia1dKV0k3UEdxSXB0NHlCNXZFM3lTVjc2SXViVjZPeC10ejBGS1hqNVBXdF80THdPaEZva0xTdlJ1M2RR?oc=5"
+    },
+    {
+      "source_name": "애드뉴스인천",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9rbXYzaUpTZWhYZnZkcFFQclpYUUpCV284SlA1bXZYVUVka2E4dHF3TlR3OHcwYVZmbXh0ZnBRVmpSRnpzRUZsbmNpcGY3QlJqS2VCZHROLXp1dlhNaTBnMnhfSVFWU3Zjck1z?oc=5"
+    },
+    {
+      "source_name": "굿모닝경제",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4yclVCaDd6UlVkbWhuTHFkSFlSUmdUazJKcmRKcFUxdkZtVi0zQ3JsREI2eW5HYlJRR0k1TjhiMVRMM1VPWWU2aVg1d1dlSVVlTF8wemRhWDV6VVRKSUhic2tXWkdpNTZTa2ViNw?oc=5"
+    },
+    {
+      "source_name": "싱글리스트",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE13MHJKdHZqS2ZsRl9XbUZPQzdmeUNhNkpMaEczazZaejYzazVEV2FKZ0Z4bHRGMnRMTUcxSjFURElhLXA0cUJOaUgtcnkzRUM2VF9fRXotR3MtbHdrNU9pRElodHktUQ?oc=5"
+    }
+  ]
+}

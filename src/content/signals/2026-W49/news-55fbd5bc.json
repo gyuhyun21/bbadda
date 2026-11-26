@@ -1,0 +1,22 @@
+{
+  "id": "news-55fbd5bc",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "news",
+  "source_name": "이투데이",
+  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBWUC1MWGxoTXhoWld1MFA2Tkt4cmpkQXF1TWkxZnNIWkpjVWZHQmRUQnpjWkJtdXQ1SzdwRlV4VEpUa2REWjNzVEdqVFZVZkVhbThpZ3NVQVVaQ0xYQms2aEVsWXFkTlotdjFnZmY1b19YZWdw?oc=5",
+  "title": "[속보] '2026 KBO 시상식' 투수 부문 수상자 6인 발표⋯두산 곽빈 2관왕",
+  "published_at": "2026-11-26T05:33:00.000Z",
+  "collected_at": "2026-11-26T13:37:53.117Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

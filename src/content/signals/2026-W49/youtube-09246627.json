@@ -1,0 +1,33 @@
+{
+  "id": "youtube-09246627",
+  "issue": "2026-W49",
+  "module": "league",
+  "teams": [
+    "hanwha"
+  ],
+  "team": "hanwha",
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=tJPbASXbfYw",
+  "title": "2026 KBO 시상식 신인상 수상자는 한화이글스의 허인서 선수입니다!🎉",
+  "published_at": "2026-11-26T07:56:46Z",
+  "collected_at": "2026-11-26T13:37:53.117Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 27100,
+    "likes": 1658,
+    "comments": 83
+  },
+  "scores": {
+    "hot": 94,
+    "relevance": 80
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "미디어펜",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9OSExYeWJMTG5tTTBzZm00Nm44TmpGb3VSYXhLM2licVJsNzBya1FYWGhSY0Y1N2xNRl81cmNGRVdvTTctU21ZYnU0TXYtdG5EaW5LcnBjZ0_SAVhBVV95cUxPTkhMWHliTExubU0wc2ZtNDZuOE5qRm91UmF4SzNpYnFSbDcwcmtRWFhoUmNGNTdsTUZfNXJjRkVXb003LVNtWWJ1NE12LXRuRGluS3JwY2dP?oc=5"
+    }
+  ]
+}

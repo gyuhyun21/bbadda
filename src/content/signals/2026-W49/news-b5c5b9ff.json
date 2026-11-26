@@ -1,0 +1,29 @@
+{
+  "id": "news-b5c5b9ff",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1nLVBTNXZLRWJhWDNKN1BSZDdWTy1mcmpSYXpWUER4ZnhMekdycmRCZmFwNXZTYVJRa1lOZm1PcmRkUlVLVWdFTE5QY3paVVMwLUlYeEg4Q3dDR2JYT0drUXNnSlVPMndKYm9LYXQ2QdIBb0FVX3lxTE1nLVBTNXZLRWJhWDNKN1BSZDdWTy1mcmpSYXpWUER4ZnhMekdycmRCZmFwNXZTYVJRa1lOZm1PcmRkUlVLVWdFTE5QY3paVVMwLUlYeEg4Q3dDR2JYT0drUXNnSlVPMndKYm9LYXQ2QQ?oc=5",
+  "title": "홈런 맞았어도 후회 없다? '리그 1위' 첫 태극마크 달고 무엇을 느꼈나 [오!쎈 대전]",
+  "published_at": "2026-11-25T23:20:00.000Z",
+  "collected_at": "2026-11-26T13:37:53.117Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 71,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1TajZoWEJsQzF4bFhZVnhHQk9ub1pxaVlvZ2tXZjFXM3otbVN1dXJtcEVIZDFsdjV4QmU4OWZyaF9QNzUyZC00MEVkX3hxZUJxSEozTA?oc=5"
+    }
+  ]
+}

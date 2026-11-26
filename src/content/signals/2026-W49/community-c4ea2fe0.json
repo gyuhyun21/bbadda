@@ -1,0 +1,42 @@
+{
+  "id": "community-c4ea2fe0",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 인포데믹 ✅",
+  "url": "https://infodemic.kr/4225",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/30SQR1bOzbg",
+  "title": "허인서 신인상 신인왕 수상 | 허인서 야구선수",
+  "published_at": "2026-11-26T16:33:27.000+09:00",
+  "collected_at": "2026-11-26T13:37:53.117Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 98,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "티제이비",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE85aWtlc0xGdHVVWnR3YzJsWndSS29ON3FtdkdwSUVxNElPbFM2b3g2bWRBUHJpdFpJVGNfaERBOW1oSXlyUlEtak5mRHpxSGNRbHBKel90cW41cGQ2U2wwSnNRdjNvVGZMakJwUA?oc=5"
+    },
+    {
+      "source_name": "뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4zUDYySUtSSDNoV0RIaTZydFlSTDY5RnF1T25CYlVQeXhTUkk4UTNBa2JwQ014dGNkaUN2bmgtM2hwS2RFSC1IUnZ5NlFZc0w0aUExYU9QSQ?oc=5"
+    },
+    {
+      "source_name": "한겨레",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBSVEY5djNGdzdpQkJoN1JaaVM1aW01cmJlZVQwT082S3FESlZkeHYxSndCcXNSNl90eDBudWFTcWxYcVpFem53VmVFZUsxSHpOaFlnUjNkYVpTUzdQeFFJd2FLSUxGVWc?oc=5"
+    },
+    {
+      "source_name": "마이데일리",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBlT1o0RFlvNVYtR2ItbWprakFZQllST3VKTkpmblNJb3pBV1ZtUFBKb3JDV2ZJU3dFdFJQell1R3Roa3JmM0JieW15YVo2cEh6bjh3NFcxbU50MlBtaEZiVg?oc=5"
+    }
+  ]
+}

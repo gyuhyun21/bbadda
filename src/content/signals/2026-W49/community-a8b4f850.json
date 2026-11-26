@@ -1,0 +1,50 @@
+{
+  "id": "community-a8b4f850",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 인포데믹 ✅",
+  "url": "https://infodemic.kr/4224",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/SXYAMArpwk",
+  "title": "김도영 MVP 수상 | 김도영 야구선수",
+  "published_at": "2026-11-26T16:33:09.000+09:00",
+  "collected_at": "2026-11-26T13:37:53.117Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 98,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "스포츠서울",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE16TjBxZ0JQVmhaczBZbXRtMFM5ZFoxelZkZGJWUHZYc1huaHdKWlFnemVHaE8wTlFTX0l0WFJzV0lrUEFiZDB0ZkttNG5yQXRSOTNabXN5Uzc?oc=5"
+    },
+    {
+      "source_name": "스포츠조선",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5YLVRIV1Y0R0xxVUUyVVkyekdIVXUyeTNFd3M3WEtGb1M1NHhZMkZGa1NtNEplUFJacHU1R3VQNC0wcXBQZFZGZ052aDdsU0g0OWstYkVxVjNyOG8xbDB0eWRIb0xQOEIyTVNadEhZNGluRXFMbTFjTk1tLV91UQ?oc=5"
+    },
+    {
+      "source_name": "매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9WdWFqZnJ1d0FHbDJaei01d2JfVEJ0a0dDWnU5WXlXSlgwYjFabXNOWGotRnlWOTBzam5VaEJJWlFxWlFmaFE?oc=5"
+    },
+    {
+      "source_name": "MHN스포츠",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1iZHlESm5Za3dKbWpmTlRPVjBkYXQtNTVPZDhxdEV4ZXlNU2hROTJ1d0M1S3g1M1ZRd3pZV2VzNjI2ZHoyVDA0eS1hN3duOVRIX1psYkpNNlpXSW01Q19rM053VQ?oc=5"
+    },
+    {
+      "source_name": "뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBUTkZubzNOTXhUYlZOTXhuNjlUSGdtemVKaUxRVUMtaDhaUm9RYTRwNmgwQUQyeHhOUkpmdEtFV3BobUltQnl3R1VPYVNqMDdoS3dVX1lrbjdtbjc1VWc5aUNmV0MtaG5EWm8yd2dwZVFKY0VBQTlKUdIBeEFVX3lxTFBUTkZubzNOTXhUYlZOTXhuNjlUSGdtemVKaUxRVUMtaDhaUm9RYTRwNmgwQUQyeHhOUkpmdEtFV3BobUltQnl3R1VPYVNqMDdoS3dVX1lrbjdtbjc1VWc5aUNmV0MtaG5EWm8yd2dwZVFKY0VBQTlKUQ?oc=5"
+    },
+    {
+      "source_name": "채널A",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1YQTR2RFpaUHpRRU9zbXY1S3R6YzZxR2ltNzl3eDJjczR3VE1UYmJJYXd0d1hINDdyRVRkSDhXY0dlTDZTVVFGSncxSDNPS2JmWmk3eWk1X0hhWk9UQi1nYl9KY9IBY0FVX3lxTE1YQTR2RFpaUHpRRU9zbXY1S3R6YzZxR2ltNzl3eDJjczR3VE1UYmJJYXd0d1hINDdyRVRkSDhXY0dlTDZTVVFGSncxSDNPS2JmWmk3eWk1X0hhWk9UQi1nYl9KYw?oc=5"
+    }
+  ]
+}

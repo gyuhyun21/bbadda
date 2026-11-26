@@ -1,0 +1,28 @@
+{
+  "id": "news-95511e5a",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스엔",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5IczZPUW4wYTAtaWtqMTB0cHQtam10cjN5NHlRMWw2bVlvT0h4YVJtQm5nOXk0RFB0RDhYSXo1OVo0MmJjU0lSUVJuWk5EWEJPOW1QVHBKT1VVTHZKWUZISU55Nm5MQkhx?oc=5",
+  "title": "‘타율-출루율상’ 구자욱, ‘삼성라이온즈 팬들에게 이 영광을’ [포토엔HD]",
+  "published_at": "2026-11-26T05:48:24.000Z",
+  "collected_at": "2026-11-26T13:37:53.117Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 73,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1fZ3h6QUNGSHBHZzBBQ2RSOGVjMzZndk9xNzYxc2N6T2hRX2dPenl5ZEtfeGtLcHRDUHlCaS1GTFNid0hHeEJOSjFYcXE1elFtUndPQ1Z2UmFERTJTWGVvWEhGYTJ6WW5KbU1NVy1pVTFuLWxFVXFJYdIBeEFVX3lxTE1fZ3h6QUNGSHBHZzBBQ2RSOGVjMzZndk9xNzYxc2N6T2hRX2dPenl5ZEtfeGtLcHRDUHlCaS1GTFNid0hHeEJOSjFYcXE1elFtUndPQ1Z2UmFERTJTWGVvWEhGYTJ6WW5KbU1NVy1pVTFuLWxFVXFJYQ?oc=5"
+    }
+  ]
+}

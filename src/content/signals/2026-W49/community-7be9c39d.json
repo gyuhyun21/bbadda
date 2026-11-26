@@ -1,0 +1,34 @@
+{
+  "id": "community-7be9c39d",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 2초전..",
+  "url": "https://today3.nowinfokorea.com/5",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/Daf3Ma93JlH",
+  "title": "김도영 MVP 수상, 역대 최연소 2회 MVP 달성",
+  "published_at": "2026-11-26T17:09:56.000+09:00",
+  "collected_at": "2026-11-26T13:37:53.117Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 82,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8zc0x6Rm5tbWVtdnhTbkxwN2ZmcXA0Smh4bm5fZkdmYjN3dHBWUFhYdDBBOGdGaEU4d3lydE5HQjVsVW85TS00dl9YTFpwVkdOZFdHdzJ1dnJMSVpXSlV0enRmcC1HbkFGbGfSAW9BVV95cUxOTy14dW4tLTlKMm5sREpxRHUwUk9GRk8xRHdoeDd2NWRoZllOel9idmxiLXhyR3k5MHM0NkRLX3lIdUp1dk54UDc2Mk0xcjJPRE52TmUwMVNjd0Y4MXl6bXM5MVVGaGVvQTZTZGtGYW8?oc=5"
+    },
+    {
+      "source_name": "스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBPa1pkSmVjbDA3TUlhZ2I1LVVxYXBiTmNkU3IxOE5MU3N0Qm5SWlJqaWY5TV9VMl9NR3k3MThiTzZZdlBUSTlqWWZWR0tRb3l2QWt6UXNMaXZTaENOZ0h6T1VFTzBNQ1pvRWZXa0oyd3Y0NEx6WEE?oc=5"
+    }
+  ]
+}

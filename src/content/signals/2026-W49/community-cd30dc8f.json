@@ -1,0 +1,24 @@
+{
+  "id": "community-cd30dc8f",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte",
+    "nc"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 JetNews",
+  "url": "https://jetnews.tistory.com/144",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/Dd63eN0CqNY",
+  "title": "손아섭은 롯데의 연락을 기다렸나? 방출된 뒤 연봉 5000만원에 NC로",
+  "published_at": "2026-11-26T14:45:12.000+09:00",
+  "collected_at": "2026-11-26T13:37:53.117Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

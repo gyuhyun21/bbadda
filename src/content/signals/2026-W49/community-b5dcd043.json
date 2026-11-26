@@ -1,0 +1,24 @@
+{
+  "id": "community-b5dcd043",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "더쿠",
+  "url": "https://theqoo.net/kbaseball/4418405129",
+  "title": "불꽃야구가 좀 비호감이라 과하게 반응하는 것도 없지않아 있는듯",
+  "published_at": "2026-11-24T15:00:00.000Z",
+  "collected_at": "2026-11-26T13:37:53.117Z",
+  "summary_ko": "",
+  "excerpt": "... 롯데) 롯데자이언츠가 3년 연속 전 경기에 출장해 최다 안타 기록을 만들어낸 외야수 빅터 레이예스와…",
+  "metrics": {},
+  "scores": {
+    "hot": 51,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

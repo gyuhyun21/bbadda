@@ -1,0 +1,22 @@
+{
+  "id": "news-e1ec9f95",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "매일신문",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1PWVVBdXItN0pDamFQS1hTVWt4RWlTQ0toX2pMalZUaTJRdXAzb1JJMlo2R0ROYXVMTmU2VXZ4eFVRbm0xV0ZCTkdtMFVJZ0FvWUxzODBhcVhkZDJ2NzBqV193?oc=5",
+  "title": "`동행하기 힘드네` 우승 전력 보존 나선 삼성 라이온즈, 누굴 잡고 누굴 놔줘야 좋을까",
+  "published_at": "2026-11-26T06:11:31.000Z",
+  "collected_at": "2026-11-26T13:37:53.117Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 81,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

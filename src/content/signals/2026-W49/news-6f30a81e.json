@@ -1,0 +1,29 @@
+{
+  "id": "news-6f30a81e",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5BSUx4cldkYmRhNXBDN1YwMjZKcTJ3S1pFaWgwZmFpU2NCclhqdWozQlB2Uy14aFpmZVQ4bERvWWUzZGlmZEY4VHBrY0R2UjhvdnZqdnMyRGwwMXdjUkp2eUF3d185bjd4Rm03ZTJvVdIBb0FVX3lxTE5BSUx4cldkYmRhNXBDN1YwMjZKcTJ3S1pFaWgwZmFpU2NCclhqdWozQlB2Uy14aFpmZVQ4bERvWWUzZGlmZEY4VHBrY0R2UjhvdnZqdnMyRGwwMXdjUkp2eUF3d185bjd4Rm03ZTJvVQ?oc=5",
+  "title": "곽빈 이젠 말할 수 있다 \"딸 출산 보려 AG 때 한국 왔다가 복귀\" [KBO 시상식 현장]",
+  "published_at": "2026-11-26T07:31:43.000Z",
+  "collected_at": "2026-11-26T13:37:53.117Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE16YlRQTFRleEZtWU0zNWhwSVRleU1jRkdoMF9TMktTZDVHN3NxU09jRlBRV1FMLXI4STFvOUJnSVJ6VTc5d0prazhrcTBQSTVwTGlyU0paZEJoWWNma204NGVoRmJXU3A0bXBEeDhHMzl3aGFQS0E?oc=5"
+    }
+  ]
+}

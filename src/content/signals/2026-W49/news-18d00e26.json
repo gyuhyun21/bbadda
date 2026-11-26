@@ -1,0 +1,23 @@
+{
+  "id": "news-18d00e26",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "www.newsq.co.kr",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1CVElVOEUtVUR6UnZyVHJvZnFwZmJrdmZ6TW1ObVhwWk00MTJJNEJvSmV0d2hPeW1ZMmhha3hxOE12eDl3cUIwb2t6WkduNUwxR1RSSE1LWEZLbjVUc2FxQVlUZkJNMGhSaGc?oc=5",
+  "title": "MVP 김도영, 수비상에 더 큰 의미를 둔 이유? [프로야구]",
+  "published_at": "2026-11-26T10:39:50.000Z",
+  "collected_at": "2026-11-26T13:37:53.117Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

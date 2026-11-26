@@ -1,0 +1,24 @@
+{
+  "id": "news-c2da15bf",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "중앙일보",
+  "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5PX1pLVDlvQU41dFlTUFhCZ0o5TnpjN19WaVVaTTU2M21TSDFzdE5SY2diTHUwcXVOWm80VTJYNFVXTXJJQnJhcEFHdXllZ1BoSFV3dnRn?oc=5",
+  "title": "트로피 3개 든 곽빈 “어머니가 생중계 보실 수 있는 투수 되겠다”",
+  "published_at": "2026-11-26T07:15:16.000Z",
+  "collected_at": "2026-11-26T13:37:53.117Z",
+  "summary_ko": "곽빈이 시상식에서 트로피 3개를 들었다. 그는 \"어머니가 생중계 보실 수 있는 투수 되겠다\"고 말했다고 중앙일보가 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "곽빈, 트로피 3개 들었다"
+}
