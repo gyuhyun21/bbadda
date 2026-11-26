@@ -35,7 +35,10 @@ if (tpl === 'stat') {
     if (!/\d/.test(o.value)) warn(`items[${i}].value 「${o.value}」 에 숫자가 없음 — 막대 길이를 모두 같게 그림`);
     return o;
   });
-  if (new Set(out.items.map((o) => o.unit)).size > 1) warn(`items 단위가 서로 다름(${out.items.map((o) => o.unit || '없음').join('·')}) — 막대 길이는 value 맨 앞 숫자로만 재므로 틀리게 그려짐. 같은 단위로 바꿔 넣는다(BUG-BB432-1)`);
+  // 단위는 unit 칸 + value 맨 앞 숫자 뒤 글자(「55억」의 억)를 합쳐 본다(BUG-BB432-1·BB433-1)
+  const unitOf = (o) => (String(o.value).replace(/^\D*?-?\d[\d,]*(?:\.\d+)?/, '') + o.unit).trim();
+  const units = out.items.map(unitOf);
+  if (new Set(units).size > 1) warn(`items 단위가 서로 다름(${units.map((u) => u || '없음').join('·')}) — 막대 길이는 value 맨 앞 숫자로만 재므로 틀리게 그려짐. 같은 단위로 바꿔 넣는다`);
   // highlight: 이름(글자) 또는 1부터 센 순번(숫자). 빼면 가장 큰 값
   if (p.highlight !== undefined) {
     const h = typeof p.highlight === 'number' ? p.highlight - 1 : out.items.findIndex((o) => o.name === String(p.highlight));
