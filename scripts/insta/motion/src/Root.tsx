@@ -9,11 +9,11 @@ const sec = (p: { seconds?: number }) => ({ durationInFrames: Math.round((p.seco
 
 // 우리 화면 템플릿(2026-11-26) — props 는 scripts/insta/motion-render.sh 가 검사해 넘긴다. 아래 기본값은 studio 미리보기용
 const templates = {
-  stat: [Stat, { prefix: '하루', value: '548', unit: '만 원', label: '하루에 버는 돈' }],
-  compare: [Compare, { items: [{ name: '양의지', value: '55', unit: '억', note: '2년' }, { name: '최지훈', value: '67', unit: '억', note: '4년' }, { name: '오태곤', value: '11', unit: '억', note: '3년' }] }],
-  rank: [Rank, { title: 'FA 계약 총액', items: [{ rank: '1', name: '최지훈', value: '67억' }, { rank: '2', name: '양의지', value: '55억' }, { rank: '3', name: '문승원', value: '15억' }] }],
-  quiz: [Quiz, { clues: ['4년 계약', '총액 67억', 'SSG 잔류'], answer: '최지훈', revealAt: 3 }],
-  board: [Board, { rows: [{ team: 'ssg', short: 'SSG', color: '#CE0E2D', in: '—', out: '—' }] }],
+  stat: [Stat, { prefix: '예시', value: '123', unit: '만 원', label: '설명 한 줄' }],
+  compare: [Compare, { items: [{ name: '선수A', value: '30', unit: '억', note: '2년' }, { name: '선수B', value: '50', unit: '억', note: '4년' }, { name: '선수C', value: '10', unit: '억' }] }],
+  rank: [Rank, { title: '예시 순위', items: [{ rank: '1', name: '선수A', value: '50억' }, { rank: '2', name: '선수B', value: '30억' }, { rank: '3', name: '선수C', value: '10억' }] }],
+  quiz: [Quiz, { clues: ['단서 하나', '단서 둘', '단서 셋'], answer: '정답', revealAt: 3 }],
+  board: [Board, { rows: [{ team: 'kt', short: 'KT', color: '#000000', dark: true, in: '선수A', out: '—' }] }],
 } as const;
 
 const pool3 = { 'ripken-end': RipkenEnd, 'lee-bar': LeeBar, 'net-ban': NetBan, diamond: Diamond, appeal: Appeal, timeline: Timeline, 'on-field': OnField };
