@@ -114,7 +114,7 @@ export const Quiz = ({ clues, answer, revealAt }: QuizProps) => {
 };
 
 // 5. board — 10개 구단 표(팀 이름 글자 + 팀 색 띠만, 로고 금지), 들어옴/나감 칸. 팀 짧은 이름·색은 motion-render.sh 가 config/teams.yaml 에서 넣는다
-export type BoardProps = SceneProps & { rows: { team: string; in: string; out: string; short: string; color: string }[] };
+export type BoardProps = SceneProps & { rows: { team: string; in: string; out: string; short: string; color: string; dark?: boolean }[] };
 export const Board = ({ rows }: BoardProps) => {
   const t = useT(), hd = 64, h = Math.min(76, (BOTTOM - TOP - hd) / rows.length);
   const cell = { fontSize: 36, fontWeight: 700, whiteSpace: 'nowrap', overflow: 'hidden', textOverflow: 'ellipsis' } as const;
@@ -130,7 +130,7 @@ export const Board = ({ rows }: BoardProps) => {
         return (
           <div key={i} style={{ position: 'absolute', top: TOP + hd + i * h, left: 60, right: 60, height: h - 8, display: 'flex', alignItems: 'center', borderRadius: 14, background: i % 2 ? 'transparent' : 'rgba(255,255,255,.06)', opacity: g, transform: `translateX(${(1 - g) * -60}px)` }}>
             <div style={{ width: 230, display: 'flex', alignItems: 'center', gap: 16, paddingLeft: 12 }}>
-              <div style={{ width: 14, height: h - 30, borderRadius: 7, background: r.color, boxShadow: '0 0 0 2px rgba(255,255,255,.25)' }} />
+              <div style={{ width: 14, height: h - 30, borderRadius: 7, background: r.color, boxShadow: r.dark ? '0 0 0 3px rgba(255,255,255,.85)' : '0 0 0 2px rgba(255,255,255,.25)' }} />
               <span style={{ ...cell, fontSize: 40, fontWeight: 900 }}>{r.short}</span>
             </div>
             <div style={{ ...cell, width: 365, paddingRight: 16, color: r.in === '—' ? '#666' : '#fff' }}>{r.in}</div>

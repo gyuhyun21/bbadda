@@ -35,6 +35,7 @@ if (tpl === 'stat') {
     if (!/\d/.test(o.value)) warn(`items[${i}].value 「${o.value}」 에 숫자가 없음 — 막대 길이를 모두 같게 그림`);
     return o;
   });
+  if (new Set(out.items.map((o) => o.unit)).size > 1) warn(`items 단위가 서로 다름(${out.items.map((o) => o.unit || '없음').join('·')}) — 막대 길이는 value 맨 앞 숫자로만 재므로 틀리게 그려짐. 같은 단위로 바꿔 넣는다(BUG-BB432-1)`);
   // highlight: 이름(글자) 또는 1부터 센 순번(숫자). 빼면 가장 큰 값
   if (p.highlight !== undefined) {
     const h = typeof p.highlight === 'number' ? p.highlight - 1 : out.items.findIndex((o) => o.name === String(p.highlight));
@@ -55,11 +56,13 @@ if (tpl === 'stat') {
 } else if (tpl === 'board') {
   const teams = parse(readFileSync(teamsFile, 'utf8')).teams;
   const find = (k) => teams.find((t) => [t.id, t.short, t.name, t.nickname].some((x) => String(x).toLowerCase() === String(k).toLowerCase()));
-  const cell = (v, name) => { const s = Array.isArray(v) ? v.map((x) => str(x, name)).join(', ') : str(v, name, false); long(s, 11, name); return s || '—'; };
+  const cell = (v, name) => { const s = Array.isArray(v) ? v.map((x) => str(x, name)).join(', ') : str(v, name, false); if ([...s].length > 11) errs.push(`${name} 「${s}」 ${[...s].length}자 — 11자 넘으면 잘려 이름이 사라짐. 줄여 넣는다`); return s || '—'; };
+  // 어두운 팀 색(KT·두산·롯데·키움 등)은 검은 바탕에서 안 보인다 — 밝기가 낮으면 흰 테두리를 굵게(BUG-BB432-3)
+  const dark = (c) => { const n = parseInt(String(c).replace('#', ''), 16), [r, g, b] = [n >> 16, (n >> 8) & 255, n & 255]; return Math.sqrt(0.299 * r * r + 0.587 * g * g + 0.114 * b * b) < 70; }; // 체감 밝기(HSP) — KT 0·롯데 32·두산 33·키움 48, 그다음 어두운 삼성 80
   out.rows = list(p.rows, 'rows', 1, 10).map((r, i) => {
     const t = find(r?.team);
     if (!t) errs.push(`rows[${i}].team 「${r?.team}」 를 config/teams.yaml 에서 못 찾음(id·짧은 이름·이름·애칭)`);
-    return { team: t?.id ?? '', short: t?.short ?? '', color: t?.color ?? '#666', in: cell(r?.in, `rows[${i}].in`), out: cell(r?.out, `rows[${i}].out`) };
+    return { team: t?.id ?? '', short: t?.short ?? '', color: t?.color ?? '#666', dark: dark(t?.color ?? '#666'), in: cell(r?.in, `rows[${i}].in`), out: cell(r?.out, `rows[${i}].out`) };
   });
   if (out.rows.length !== 10) warn(`rows ${out.rows.length}줄 — 10개 구단 표가 아님`);
   const ids = out.rows.map((r) => r.team).filter(Boolean);
