@@ -1,0 +1,23 @@
+{
+  "id": "news-995de839",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1RTkdYOTJtNmdNLTM5Slhya3JFcHFzTTVHbFVMdE5KX0ptaVJ5bzhVenJkUU5xUjRzcFJvQV9TOTVvcmJPdHdzeDRTVkZWUG4zQ2duN1R4VllKbGoyeEotUmprM0tpMTltMWI2WE5fcU8tOXhIWi0xeHhSdk15dw?oc=5",
+  "title": "'핫가이' 드디어 입 열었다, 구자욱 솔직 고백 \"특수한 FA 시기다 보니 말 하나 행동 하나가 조심스럽네요\"[잠실 현장]",
+  "published_at": "2026-11-26T05:48:03.000Z",
+  "collected_at": "2026-11-26T13:37:53.117Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 73,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

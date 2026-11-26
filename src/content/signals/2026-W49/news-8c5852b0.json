@@ -1,0 +1,23 @@
+{
+  "id": "news-8c5852b0",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE00bzc2ME9kV1JNT2hSZGx2SEc0TU9hemo1YmdGNVVydm95UHBWc3RlWWFqM2VmbzR3d3JjVFZNd0pPdUY3MEpOa3hDU0xSRGdmQms1SEFFWHJOSXpLNVE0Vl9PV3ZzM0Y0T1BxQllRdS1uQ295Q3ZQdVhjSklHZw?oc=5",
+  "title": "'미혼 스타 아니었나' 투수 2관왕보다 더 놀라웠던, 곽빈의 '아내' 얘기 [잠실 현장]",
+  "published_at": "2026-11-26T05:43:22.000Z",
+  "collected_at": "2026-11-26T13:37:53.117Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "news-849cc90b",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "SPOTV NEWS",
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBlTkZCUkdvTWwzNmNCYmkxQmRjRFJSbDQxSUZYdnhWcFlpTjJNOENtd2lNeHprdWZ5QjF4NDJOSnlpRHZvMGhwczQ2NFhqaWxsVWVFZGJ4N1dSWHFiRzU2OW9JcEp2R3E0RVliQ2hHSUc?oc=5",
+  "title": "\"레이예스 계약 합의했다\" 자이언츠 팬들에게 찾아온 희소식! 롯데 드디어 '211안타 복덩이' 마음 사로잡았나",
+  "published_at": "2026-11-25T21:40:00.000Z",
+  "collected_at": "2026-11-26T13:37:53.117Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 70,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "시사매거진",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE53YmtzdFBybW5jOTRobEhKeWFlUmVHZl9LeXdrSDJReG9iUkt4WC1SVi1OM3BlcTU2U3FYZmlPMk5DcFQwRnN2WU45UlJJQk5IRWNJM1ZxWFl6ZThJU2FUeWhnS2w2NVN4Uy1EQnl2QzVLWWVneWdWdnVPOA?oc=5"
+    }
+  ]
+}

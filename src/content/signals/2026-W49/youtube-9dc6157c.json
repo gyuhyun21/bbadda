@@ -1,0 +1,26 @@
+{
+  "id": "youtube-9dc6157c",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "youtube",
+  "source_name": "큠플릭스",
+  "url": "https://www.youtube.com/watch?v=Vxn-231lfqc",
+  "title": "[숏플릭스]서건창, 키움 복귀 후 다시 3할…37세의 부활",
+  "published_at": "2026-11-26T08:55:03Z",
+  "collected_at": "2026-11-26T13:37:53.117Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1216,
+    "likes": 2,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 39,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

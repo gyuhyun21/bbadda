@@ -1,0 +1,33 @@
+{
+  "id": "news-4975f9fd",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://www.mt.co.kr/amp/sports/2026/11/26/202611261920770019O",
+  "title": "“(삼성과) 작별 인사 아닙니다!” 구자욱, FA 협상 둘러싼 무성한 추측에 직접 입 열었다",
+  "published_at": "2026-11-26T10:24:00.000Z",
+  "collected_at": "2026-11-26T13:37:53.117Z",
+  "summary_ko": "FA 구자욱이 시상식에서 \"(삼성과) 작별 인사 아닙니다\"라며 협상을 둘러싼 추측에 직접 입을 열었다고 머니투데이가 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 91,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "미주중앙일보",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1mTkdETHoyYmRoWHdFdHZLVmh0ck5DX1dZTjl0UjAzalFWLU1oaTdiU1VjazR1ODZjcWRMM0Jzc3MzR0tweVdrVW1EN0V3LTFTMTlTT0szNnFJaEtxcTN6bUZB?oc=5"
+    },
+    {
+      "source_name": "Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNzloNkE3dzIzcXR6V0oyelFfVm15VDVNRUhfbDNxY3JuV1dlakNKeVBNLW9CX1V1cmRNX0hWRVBQZVRyNi1GdjVRNVV5ZUFxR0t1QW5KYmtPbUR5Y0ZkV1E3Z0lvaFk2My1fbElCeGpLYW1MWHhpTTVoc0xGejBrTDVuX1RTa0FCSmlDOWNKS0E5WmZtTldr0gGXAUFVX3lxTFA3OWg2QTd3MjNxdHpXSjJ6UV9WbXlUNU1FSF9sM3Fjcm5XV2VqQ0p5UE0tb0JfVXVyZE1fSFZFUFBlVHI2LUZ2NVE1VXllQXFHS3VBbkpia09tRHljRmRXUTdnSW9oWTYzLV9sSUJ4akthbUxYeGlNNWhzTEZ6MGtMNW5fVFNrQUJKaUM5Y0pLQTlaZm1OV2s?oc=5"
+    }
+  ],
+  "brief_ko": "구자욱 \"작별 인사 아닙니다\""
+}

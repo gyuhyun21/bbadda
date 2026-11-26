@@ -1,0 +1,27 @@
+{
+  "id": "youtube-66183222",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "그는, 누구인가",
+  "url": "https://www.youtube.com/watch?v=F3jUwzf5Dbw",
+  "title": "타이거즈 국내 타자 첫 40홈런 | 김도영, 그는 누구인가 #shorts",
+  "published_at": "2026-11-26T10:52:41Z",
+  "collected_at": "2026-11-26T13:37:53.117Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 846,
+    "likes": 11,
+    "comments": 2
+  },
+  "scores": {
+    "hot": 48,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

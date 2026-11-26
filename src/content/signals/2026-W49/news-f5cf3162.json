@@ -1,0 +1,23 @@
+{
+  "id": "news-f5cf3162",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "뉴시스",
+  "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE05VUxjaEtHaGdEb1NuZU5LY2dIaFAyM3ppcDh5aGt2S3BSd2xYenVnX3B1YzlpTHQ0aGpuN0Z4YTd4a2MzLVZHbTMxZjJPa3VKM3luVzg3UVI0ajJiVHFCUTlidXQ0em42YkUzZUViVGl1WXVlNTU3S9IBeEFVX3lxTE05VUxjaEtHaGdEb1NuZU5LY2dIaFAyM3ppcDh5aGt2S3BSd2xYenVnX3B1YzlpTHQ0aGpuN0Z4YTd4a2MzLVZHbTMxZjJPa3VKM3luVzg3UVI0ajJiVHFCUTlidXQ0em42YkUzZUViVGl1WXVlNTU3Sw?oc=5",
+  "title": "ADT캡스 중견수 수비상 박해민",
+  "published_at": "2026-11-26T06:17:22.000Z",
+  "collected_at": "2026-11-26T13:37:53.117Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

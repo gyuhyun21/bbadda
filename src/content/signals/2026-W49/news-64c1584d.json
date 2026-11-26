@@ -1,0 +1,22 @@
+{
+  "id": "news-64c1584d",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "일간스포츠",
+  "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1pdUx6U2dKVDF3b1B5M2J0U3dXRGoxbXBxbjJ3OFZncllKaFBtR0U5c1pDTFdVUUpGc3huZ19zdm1GdEs5LXNBTkd0dGlaUFk5dDBTNXROdnhjZkE?oc=5",
+  "title": "[KBO 시상식] 타격 2관왕에 오른 구자욱 \"말 한마디, 행동 하나가 조심스럽지만, 삼성 팬분들께 감사\"",
+  "published_at": "2026-11-26T05:51:00.000Z",
+  "collected_at": "2026-11-26T13:37:53.117Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 81,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

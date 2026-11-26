@@ -1,0 +1,32 @@
+{
+  "id": "news-57fd9eda",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "연합뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE95YlFBaWE3ZndDVDNnazFzV1pfdG1CVHNmTzZxaVgyZ3FJUE9yQkN4ZFp5bFFUNGhrZFktV2FsbTVmaklJQlBxQ3RWNzBpVzVZWDZDcVdnQ0VzZGPSAWBBVV95cUxPeGFBZHpjenc5Y1NDcUFvc04tazJLdWs5SHRWa21menlMZ1hJTnNiN2ppLW9aMmtpYmtvZU9EelJ2Tm5GSnZhZTNyTjR0ekJ6UE43MEZhWjlIbU5BTW5GUEk?oc=5",
+  "title": "프로야구 삼성, 29일 라이온즈 파크서 한국시리즈 우승 행사",
+  "published_at": "2026-11-26T02:32:46.000Z",
+  "collected_at": "2026-11-26T13:37:53.117Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 88,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "톱스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4yY0lqS3ZZUXNkNzFlbnVzWHpGS0hFTTlEQzRmQ0R1T1FpLWppWmQtc2pFRFUxdVdfa2lvZTJmWjUtYURWdXBfMEZ2Qks5MnlPcnRDR0thMHZjN1MyTnhVbG85R2ozX3gwcUtmWTV1Sl9Hdw?oc=5"
+    },
+    {
+      "source_name": "미디어파인",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5KWWc5STdjeklhRHpJS0pjS3V6NlZPcU04TTF2N0F6WFVScl9HaEpPd2xmdldYY2FXMVdCaEFUdmtNbEU2a2RtOHltRzNwS0NmTk82bnRhNG1tSDBOTzJEbnJzTGlsMnBuS0tzVHJB?oc=5"
+    }
+  ]
+}

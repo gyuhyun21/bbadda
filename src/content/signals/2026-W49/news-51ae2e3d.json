@@ -1,0 +1,23 @@
+{
+  "id": "news-51ae2e3d",
+  "issue": "2026-W49",
+  "module": "rivalry",
+  "team": "ssg",
+  "teams": [
+    "ssg",
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "m.maniareport.com",
+  "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9JdTM4MWloQjc5REVFVGZZUzJGTDlOZUlhaUNrZGdQN20taU9NV3g3Q2tDOU1xM0NlNzhnY0gtZVBPYkowZUp5cTZ6X0daT2J6VTNmLVZRdUJiaUZoZUt0X3l1RFRnY202QnZkQmFVcXBqRDNkLWJDVVJlUQ?oc=5",
+  "title": "'재계약 불가 통보' SSG 김민식, LG 유니폼 입는다",
+  "published_at": "2026-11-26T04:18:52.000Z",
+  "collected_at": "2026-11-26T13:37:53.117Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

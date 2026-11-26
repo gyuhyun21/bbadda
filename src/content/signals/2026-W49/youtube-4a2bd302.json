@@ -1,0 +1,26 @@
+{
+  "id": "youtube-4a2bd302",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "youtube",
+  "source_name": "린지",
+  "url": "https://www.youtube.com/watch?v=Fz7GlyQoAz0",
+  "title": "2026시즌 KT 위즈 최원준 안타모음 (212H)",
+  "published_at": "2026-11-26T09:00:34Z",
+  "collected_at": "2026-11-26T13:37:53.117Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 20,
+    "likes": 1,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 56,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

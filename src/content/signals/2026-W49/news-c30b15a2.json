@@ -1,0 +1,37 @@
+{
+  "id": "news-c30b15a2",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "announcement": true,
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE41VXhGQTQ5VE9fXzI0d3hES1V0X2ZXN09idTU0dm9OYnIzV0ljV1VqeDI2cjZYckozcTQ0X1RBaW14SnN2VTJ2MEpvZEpLSjMySERMNTZUcEtvcXdJVmFvUXM3Q3p6ZkFGY3fSAW9BVV95cUxObWFzX1YzakFIbkw5VzFkLWJjcGtqQjNPbWVtb1NUU0FVNmRlc3RoRUNrdWgtT2xNVzVpQjlpRnNHSE4wdzlBOUNPMTZwR3U1SXh2OXBJRFhuVE5vdUpzSlJaUzh1OGxoOEdUZ29LYkk?oc=5",
+  "title": "일본 구단도 눈독 들였는데…3년 연속 안타왕 레이예스, 롯데와 재계약 합의 “조만간 공식 발표”",
+  "published_at": "2026-11-26T00:10:00.000Z",
+  "collected_at": "2026-11-26T13:37:53.117Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 95,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5iWHdqdGNUUC1vVzNOUXJyb19ZLTJ6amNYWjNicGcyenVST1JGV1Q1SThmZkd5OGxzVFhlU2JmTVY3VENHVEpQT0ZzcWg2UWk2UkhDeg?oc=5"
+    },
+    {
+      "source_name": "동행미디어 시대",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1QMlg2ODVZTzdHOWcwS0dkT0FFVHZqOHB2Tnc0M0hLa25WQVNlM2ZycFJHQlF5VWdBMXp6cmM1NlRTaWN3M0hYQ3dIVHFzcm9kOXE2VDRyQjNlVVdjZ3c?oc=5"
+    },
+    {
+      "source_name": "이투데이",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5UZzFkSGZtOUROeHF5ejVnNHQ3S2N5UVJvWFE5UkFjZ3F3bHF6T3dnN0o5ZmFqLWw5WE0zXzBZX3V5bGhJQXQ4VjNJNnd1WE5kVGRwVw?oc=5"
+    }
+  ]
+}

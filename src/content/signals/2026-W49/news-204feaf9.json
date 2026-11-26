@@ -1,0 +1,29 @@
+{
+  "id": "news-204feaf9",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "연합뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE53QXR6bk5MY0p3VkppQTVrV1AyTUw5OVA4SzhHcHNjNkx1WWhnRG1IaDVBamFOcTM3VlZPbGJWcEEzTW1FdlVsZ1hXX2ZXS1AwbnpPZFNWY0I5QlJzYlZOadIBYEFVX3lxTE53QXR6bk5MY0p3VkppQTVrV1AyTUw5OVA4SzhHcHNjNkx1WWhnRG1IaDVBamFOcTM3VlZPbGJWcEEzTW1FdlVsZ1hXX2ZXS1AwbnpPZFNWY0I5QlJzYlZOaQ?oc=5",
+  "title": "입단 동기 문동주 예감대로 신인왕…허인서 \"연락 한번 해야죠\"",
+  "published_at": "2026-11-26T07:35:14.000Z",
+  "collected_at": "2026-11-26T13:37:53.117Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE42a182emY3NUJSU0hqMnJRWmdoTVdKQ2JmcEMzNW5uT2lxZWphcDBIVTBMMnNia3dXeVRRUExUTWZwbUNGV0Z2TGZMak1PUkdpRHpLS0w2VDB0Zmh3SEJtMNIBeEFVX3lxTE5sVDVJcE5ra0ZwMWYtaG9ueW5ENm5kRHFfenlNRllnYVF6R3RPUm1mMy00WGRMMzJ4b2FHQUZPYjJvZGNLNjEzZDZhQ0ZRbF9JODYzWUtpa0laU3lKQUd6VTZVTHdjaWRENlVoaVhWVkRhbm5lMk1Cdg?oc=5"
+    }
+  ]
+}

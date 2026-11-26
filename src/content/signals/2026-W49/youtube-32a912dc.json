@@ -1,0 +1,40 @@
+{
+  "id": "youtube-32a912dc",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "source_name": "보살스튜디오",
+  "url": "https://www.youtube.com/watch?v=1bBxSQ9ui9o",
+  "title": "한화 허인서, 136표 중 92표로 KBO 신인상…16년 만의 포수 신인왕 #한화이글스 #허인서",
+  "published_at": "2026-11-26T12:10:24Z",
+  "collected_at": "2026-11-26T13:37:53.117Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 647,
+    "likes": 5,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 42,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9RZnBrQzVzZ0pIcWYyRjBqV1ZTS29uT1ZYbjlORU1ibFZuQTNIYlFfcHBRSGo5YjAtaVo2bEpzMEJsa0F6UlBlVkFaXy1vSEh0Tkl5R2RPVUlXYlFiRUF4a3dHRmtJSVJ4dmJ4SjhYY9IBb0FVX3lxTE9RZnBrQzVzZ0pIcWYyRjBqV1ZTS29uT1ZYbjlORU1ibFZuQTNIYlFfcHBRSGo5YjAtaVo2bEpzMEJsa0F6UlBlVkFaXy1vSEh0Tkl5R2RPVUlXYlFiRUF4a3dHRmtJSVJ4dmJ4SjhYYw?oc=5"
+    },
+    {
+      "source_name": "이투데이",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42QUNwZldEN1haNmJieGxmdmdDbE01RENuY1pyNFctVTZjU24tUHZXSld0dWZ0YVB1dDRyUmx2SXhWWUw0bjBCV2dSelUyYUJaWUt2cA?oc=5"
+    },
+    {
+      "source_name": "시선뉴스",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5JcFVtYmRGeTdRTkJ1ODZPVG12SlhvU1JEUE5BZGZZMXUyd0V3MFhRcmVybDN2NjdoZ1dUbk0yaGsyTE9icDR6RUVqRWo1eDQzZjRBb0hZeXpmYkRXQnVaaDN6czRMdzdSQ2NPNE1R0gFyQVVfeXFMTUpCN0FkalFSWGcyOGl2czk4b3FBUDU1WHVFZDhDSzgyblFnZmVpSjIxc3lyTFBITVBJT2JEUlQyRGpqYXpyQmltTXduQ0R6TTN3WlZ5azVHSXJlUHpUamxtTkxrcmpaUTNtd2ZSRzdCV3dB?oc=5"
+    }
+  ]
+}

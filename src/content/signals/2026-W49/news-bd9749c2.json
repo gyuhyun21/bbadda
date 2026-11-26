@@ -1,0 +1,23 @@
+{
+  "id": "news-bd9749c2",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "news",
+  "source_name": "뉴스핌",
+  "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1oaUVJMmZER25xMWpnM2V6U0hxMmZuV1lpaUd4S2V0Mm1SYlZQT1JWQm9xczFTMFd4VkVSY0VKbk5rZ2U0VWc2cGZ5ckhhXzAtdUVaVl96aGVMbGs4?oc=5",
+  "title": "[프로야구] 한화 허인서, 신인상 이어 수비상도…문동주 이어 3년 만의 경사",
+  "published_at": "2026-11-26T07:01:00.000Z",
+  "collected_at": "2026-11-26T13:37:53.117Z",
+  "summary_ko": "신인왕 허인서가 수비상까지 받았다. 뉴스핌은 문동주 이후 3년 만에 나온 한화의 신인왕 경사라고 짚었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "신인왕 허인서, 수비상도 품었다"
+}

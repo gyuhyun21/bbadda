@@ -1,0 +1,29 @@
+{
+  "id": "news-9a861aac",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE51VjFHZkp3Z3BRaTF4blc5TU5qbmZGS0pXZ3J0WUpZRnFEcXVKZlhKWElOSnQ4N0RLOXpoY2RaN05XUWV0LXVTNGNyVHRWUTBQMzY1b0lZMFhtcl84cW5VdS14Y1ZpekVEc2pWNmNMc9IBb0FVX3lxTE51VjFHZkp3Z3BRaTF4blc5TU5qbmZGS0pXZ3J0WUpZRnFEcXVKZlhKWElOSnQ4N0RLOXpoY2RaN05XUWV0LXVTNGNyVHRWUTBQMzY1b0lZMFhtcl84cW5VdS14Y1ZpekVEc2pWNmNMcw?oc=5",
+  "title": "'동기 신인왕 배터리' 어디에도 없었다…문동주는 예견한 새 역사 \"연락 한 번 해야 될 것 같습니다\"",
+  "published_at": "2026-11-26T09:30:00.000Z",
+  "collected_at": "2026-11-26T13:37:53.117Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1qM3hjRXRQdUppWmFaRkI3NXlmUG1GY0loNF8xdzBxcURvSndCbWR0YkEyc1ZwMHZQRl90TDdtLTFWM2ptTG9BRGFSVlBwQ0hxRXZGRg?oc=5"
+    }
+  ]
+}

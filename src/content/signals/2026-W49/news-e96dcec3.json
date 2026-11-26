@@ -1,0 +1,24 @@
+{
+  "id": "news-e96dcec3",
+  "issue": "2026-W49",
+  "module": "rivalry",
+  "team": "hanwha",
+  "teams": [
+    "hanwha",
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "아시아투데이",
+  "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE41dlhzZW1QSnd0SnNiM0piQzFRSGZMdGljWkt2QTRhZTZVUEptTnB6dTAwa1EyeHJxTzRBUDBFY2ZEN01DNTFJYjVpVGJ4Zm1kLThJWlVxVERKelE5ZlBnQ1Q4Z0VjNnVNamNWSVV3?oc=5",
+  "title": "슈퍼스타 김도영, 이젠 ‘전설’의 길로…통산 2번째 MVP",
+  "published_at": "2026-11-26T07:39:22.000Z",
+  "collected_at": "2026-11-26T13:37:53.117Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

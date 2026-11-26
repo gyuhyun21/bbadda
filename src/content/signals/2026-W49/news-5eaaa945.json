@@ -1,0 +1,34 @@
+{
+  "id": "news-5eaaa945",
+  "issue": "2026-W49",
+  "module": "rivalry",
+  "team": "ssg",
+  "teams": [
+    "ssg",
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9iOThSTXVOZTlKUWg2R01UWjFFU21yU0dVT1drZlV1WGtZb2FWanc0ZFVBempHQ1pURU9TcGRZRVNIRGI5ako2NEpNYWtlZGFETlhJd3N3VXJWS1JjWWF6ZnJJVGIyT01BMlJXckE1SdIBb0FVX3lxTE9iOThSTXVOZTlKUWg2R01UWjFFU21yU0dVT1drZlV1WGtZb2FWanc0ZFVBempHQ1pURU9TcGRZRVNIRGI5ako2NEpNYWtlZGFETlhJd3N3VXJWS1JjWWF6ZnJJVGIyT01BMlJXckE1SQ?oc=5",
+  "title": "‘200억 거론’ FA 최대어 시상식 등장→드디어 입 열었다 “FA라 말과 행동 조심스러워, 팬들께 표현 못해 죄송”",
+  "published_at": "2026-11-26T05:51:00.000Z",
+  "collected_at": "2026-11-26T13:37:53.117Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 89,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeDRxZU5PSWY3ZXNBa1BFd2lXZ0NDVi1XQmI3Nk1OYkl1QTh2YXlaVnFUcGlzTmFKc1lfVjdmZW5ma2tRMFhBMHhDeU5OZFdoeU1rZWhlZ2wxM3EyNENXWExXS0M1UklBVVRTMnVHOVptOGVsbkxrbG96WnAxREVMN2pRM2hUemYwOTlNNlU0XzFBd3hqM3dv0gGXAUFVX3lxTE14NHFlTk9JZjdlc0FrUEV3aVdnQ0NWLVdCYjc2TU5iSXVBOHZheVpWcVRwaXNOYUpzWV9WN2ZlbmZra1EwWEEweEN5Tk5kV2h5TWtlaGVnbDEzcTI0Q1dYTFdLQzVSSUFVVFMydUc5Wm04ZWxuTGtsb3pacDFERUw3alEzaFR6ZjA5OU02VTRfMUF3eGozd28?oc=5"
+    },
+    {
+      "source_name": "OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA2X01rT1FDTU9jUDVRQzAxdnN0dWtpeURfOGhSanVtTTJvekJmeXFsWVV6d0xmQ0FnOEZkTlctV2ZpYzM0cVpYR3lPdWs1SEpSVlhz?oc=5"
+    }
+  ]
+}

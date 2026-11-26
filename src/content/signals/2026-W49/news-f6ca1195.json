@@ -1,0 +1,22 @@
+{
+  "id": "news-f6ca1195",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "위키트리",
+  "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1aMXlENDR1ZDJfNXNycXN0Z01mOU1MSmttVU8zeGhWNEt2NGx2enJaSjFXM1dmSzhsR3FOTmVnbWV0ZWJZVEhpRWN0SzRDMGpsM0h1RXdR?oc=5",
+  "title": "삼성팬들 청천벽력… FA 대어 구자욱・원태인, 갑자기 ‘최종 불참’ 소식 떴다",
+  "published_at": "2026-11-26T00:18:00.000Z",
+  "collected_at": "2026-11-26T13:37:53.117Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 63,
+    "relevance": 80
+  },
+  "sentiment": "neutral"
+}

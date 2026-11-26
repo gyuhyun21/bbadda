@@ -1,0 +1,26 @@
+{
+  "id": "instagram-ea4b309f",
+  "issue": "2026-W49",
+  "module": "league",
+  "teams": [
+    "hanwha"
+  ],
+  "team": "hanwha",
+  "source_type": "instagram",
+  "official": true,
+  "source_name": "Instagram @kbo.official",
+  "url": "https://www.instagram.com/reel/DgMxctXqRb3/",
+  "title": "KBO 리그 공식 인스타그램: 한화의 안방을 지키며 공수 대활약! 신인상은 허인서입니다🔥",
+  "published_at": "2026-11-26T09:23:49+0000",
+  "collected_at": "2026-11-26T13:37:53.117Z",
+  "summary_ko": "",
+  "metrics": {
+    "likes": 4511,
+    "comments": 17
+  },
+  "scores": {
+    "hot": 66,
+    "relevance": 80
+  },
+  "sentiment": "neutral"
+}

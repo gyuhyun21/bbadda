@@ -1,0 +1,26 @@
+{
+  "id": "youtube-09e9e32a",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "입덕프로필",
+  "url": "https://www.youtube.com/watch?v=q9k5ko0E3Z4",
+  "title": "외인 샐러리캡 KIA의 선택 #KIA타이거즈 #기아타이거즈 #올러",
+  "published_at": "2026-11-26T10:41:51Z",
+  "collected_at": "2026-11-26T13:37:53.117Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1709,
+    "likes": 10,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 44,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

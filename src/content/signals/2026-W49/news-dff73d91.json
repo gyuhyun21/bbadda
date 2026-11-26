@@ -1,0 +1,23 @@
+{
+  "id": "news-dff73d91",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "news",
+  "source_name": "파이낸스투데이",
+  "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE11Z24wVU1SNF8ybEZ4Uk8tSDhOa3hpOWc0aVpHeloyMkdoRlpWSVBJSEZnSmtKeUtkM0k5am1FS3NidjRLNldzd01CLS1rWXM5MFZPLS1zdG9FS2MtSE56RXN1MkpwZWJCbzAyNA?oc=5",
+  "title": "[포토] 수상 소감 전하는 NC 다이노스 한재환",
+  "published_at": "2026-11-26T06:22:39.000Z",
+  "collected_at": "2026-11-26T13:37:53.117Z",
+  "summary_ko": "NC 한재환이 2026 KBO 시상식에서 상을 받고 소감을 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 50
+  },
+  "sentiment": "positive",
+  "brief_ko": "한재환, 시상식 무대에"
+}

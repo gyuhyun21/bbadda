@@ -1,0 +1,53 @@
+{
+  "id": "youtube-944edac3",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "광주MBC뉴스",
+  "url": "https://www.youtube.com/watch?v=U-NgPTlm1HM",
+  "title": "'홈런왕' 김도영, MVP까지 품었다.. 통산 두 번째 MVP",
+  "published_at": "2026-11-26T12:12:14Z",
+  "collected_at": "2026-11-26T13:37:53.117Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 164,
+    "likes": 1,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 32,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "일간스포츠",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5KUVR6QVROTzhoUFRZeWtCdjJtLTR4WXF0aGx4VTVMQWdHN2ZNVjhOdTM2TGRkMU5JbnFkYnktcWtGRURoMWY3OVFjXzh5RnI1MlNhSmo3azN3bHc?oc=5"
+    },
+    {
+      "source_name": "뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5lcHk0akpsbDBHRnY4X1BzSVMzN3FwdTk5UmIxM0lNdUgwTnNvUHNOdjV6Uzh3MEpQZUVKaXJlTVRIQ0VScUw3Vm9pYTYwUGNpU25UTHhfcw?oc=5"
+    },
+    {
+      "source_name": "재경일보",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5EcTQyUU00ajNpdTdsLWFuWU5tMW9GaXduRHNiUWZFZFQ3N2h0d1BuendCXzk4Z0JtdlBfYnlSaGx5aC1WVjRCbzNIVQ?oc=5"
+    },
+    {
+      "source_name": "KBS 뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ZSHRMRThON1ZEOHd3Z3lhX2FQNUVHZjlrZ3k1NVVLaUNmdDkwbldWTDJVajROdDB6XzNVUDljVHgyREtvQ2hiNDlJZlh0V1VTLXpSYm5IakpSSFdrY09WNGhOYlpXQQ?oc=5"
+    },
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPYkpQS2RwVDlJVTVGc19qVThITUtUNGdqczdwZkNVYzdQWW0yclRRUEczWjF2UTc3MEV5Z3VNcDk2UUg2M0JSZ3JxaEVvQWxGZExRdERWamhVZmFJWEhRaUJ5YlJGOXlkaHZBWnVSX2RsNE9hWUxpd19ySHNfbUFYNmphcw?oc=5"
+    },
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9ZblZTdVZFeUhWcFFWaHZxX01LZEV3azNMbkRCbjI0UF9pWUJoS1hxUXZxT1E4UFhDazVQcFN1aURDUmpyekFnclA3WkJtZlFMSW9UQXZlU1V1bDFLalhJUTZOc2EwdW1wMG9IVVpvb9IBb0FVX3lxTE9ZblZTdVZFeUhWcFFWaHZxX01LZEV3azNMbkRCbjI0UF9pWUJoS1hxUXZxT1E4UFhDazVQcFN1aURDUmpyekFnclA3WkJtZlFMSW9UQXZlU1V1bDFLalhJUTZOc2EwdW1wMG9IVVpvbw?oc=5"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "youtube-f06476a0",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "NC 다이노스",
+  "url": "https://www.youtube.com/watch?v=HJSin_CH43M",
+  "title": "자신만의 경쟁력을 만들어가는 C팀 💪 ㅣ CAMP 1 창원",
+  "published_at": "2026-11-26T05:00:09Z",
+  "collected_at": "2026-11-26T13:37:53.117Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 8228,
+    "likes": 201,
+    "comments": 16
+  },
+  "scores": {
+    "hot": 69,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

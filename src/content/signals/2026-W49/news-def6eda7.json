@@ -1,0 +1,22 @@
+{
+  "id": "news-def6eda7",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "news",
+  "source_name": "중도일보",
+  "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBzbkY2Mll0ZXZiSktFanRjbGd4Z1dFY3FlaUVGNmI2SDRWRXdScXlpZ0RPNVBfeTMtcTE4Uk9oR2JseXBHODZyMG00clF5OTh2eFlTdkE3eHNnWFNGZ1RrZ2p6UV8?oc=5",
+  "title": "“기회는 온다”… 기다림 끝에 신인왕 품은 한화 허인서",
+  "published_at": "2026-11-26T07:13:01.000Z",
+  "collected_at": "2026-11-26T13:37:53.117Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

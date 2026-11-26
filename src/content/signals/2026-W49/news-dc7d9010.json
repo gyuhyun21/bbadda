@@ -1,0 +1,40 @@
+{
+  "id": "news-dc7d9010",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE02eEdEX2F0VldaUkM3ZVhBLThZbkNyZWVZNHNPUmpzS25RZUstZUd5YjI3S09ERmhsQU5NZjJsSENsTndFdE5vcVpmR2ZEeTdUd3FqMHgxTUVSWXU0VEdkcE9xT1NCYkVGMTYwRmRTY9IBb0FVX3lxTE02eEdEX2F0VldaUkM3ZVhBLThZbkNyZWVZNHNPUmpzS25RZUstZUd5YjI3S09ERmhsQU5NZjJsSENsTndFdE5vcVpmR2ZEeTdUd3FqMHgxTUVSWXU0VEdkcE9xT1NCYkVGMTYwRmRTYw?oc=5",
+  "title": "‘12년 만의 우승 감격 팬들과 함께’ 삼성, 29일 V9 블루웨이브 개최…이색 청백전부터 라팍 콘서트까지",
+  "published_at": "2026-11-26T02:01:00.000Z",
+  "collected_at": "2026-11-26T13:37:53.117Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 96,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSENveDFTbW9YLXd6ZFFWd200eXBjbzJ2TGVWdnNyYm10VVRUYkJfXzhOek5LLTd0RTZUblFmeXVMYm9pNVVrZDFyNFB3aG4tUm5nclJKRlFKNkRxLU1JQ2NHc1ZYckFsUUZ4TVBJajRRRmY0dWlrbVEwdTIwRDh4SXJESFl1RXV4VS1fa21hOHBFMHYtb0c40gGXAUFVX3lxTE1IQ294MVNtb1gtd3pkUVZ3bTR5cGNvMnZMZVZ2c3JibXRVVFRiQl9fOE56TkstN3RFNlRuUWZ5dUxib2k1VWtkMXI0UHdobi1SbmdyUkpGUUo2RHEtTUlDY0dzVlhyQWxRRnhNUElqNFFGZjR1aWttUTB1MjBEOHhJckRIWXVFdXhVLV9rbWE4cEUwdi1vRzg?oc=5"
+    },
+    {
+      "source_name": "이투데이",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5vUmEyZEpUTUtkQVVwd1hfN2ZBZGowVm5BVzhUbkMwTEFEX2gzV24tdVNPMmtVZzRPemthSHlTczNIbEk2b2ZyQnh5U2M3Z2dEajZEMw?oc=5"
+    },
+    {
+      "source_name": "미디어펜",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAxb294dDBNd2xuUDRzZW14VDZYanRrVW5xazhla0k2WEJXdllXUS1zNG50OFNDMFFJUXlzLVhvUVBsTXlQNEtMX2V5WnJuQ3BnWVUwbtIBWEFVX3lxTE1wb3FGY0RueThpYktITmV5alRLWk5zT2gxZVQ5clhIYXRnclRvYzNOSjNkQjdQZktRdFk3d2pDN09VWEIzNVBTbzBIQmY4aTFybnp4dTAzemM?oc=5"
+    },
+    {
+      "source_name": "뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5VQUVTRzVvQWtSMHJkRVUySDh2SWJ0VDFuQ05WY21fa3NGZU13Q0VKMXpkU2FwV3J3YS1yUGF1WnJrSjFKcmZpOFhuQkRvXzdZWGZieXl5SjNtN0Z3UGo5RW5Yc0ZNX3MwVW9uV2g5bEVDM3FOeTNHa9IBeEFVX3lxTE5VQUVTRzVvQWtSMHJkRVUySDh2SWJ0VDFuQ05WY21fa3NGZU13Q0VKMXpkU2FwV3J3YS1yUGF1WnJrSjFKcmZpOFhuQkRvXzdZWGZieXl5SjNtN0Z3UGo5RW5Yc0ZNX3MwVW9uV2g5bEVDM3FOeTNHaw?oc=5"
+    }
+  ]
+}

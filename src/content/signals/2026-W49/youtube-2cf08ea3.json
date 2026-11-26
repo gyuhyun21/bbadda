@@ -1,0 +1,26 @@
+{
+  "id": "youtube-2cf08ea3",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "youtube",
+  "source_name": "NUDETV 진행자 클로이",
+  "url": "https://www.youtube.com/watch?v=5TTzTM4HhLU",
+  "title": "두산이 데려온 이 왼손…수아레즈 100만 달러 영입 #두산베어스",
+  "published_at": "2026-11-26T10:00:18Z",
+  "collected_at": "2026-11-26T13:37:53.117Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 792,
+    "likes": 5,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 40,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

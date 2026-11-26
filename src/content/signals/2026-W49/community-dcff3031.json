@@ -1,0 +1,41 @@
+{
+  "id": "community-dcff3031",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 머.스.케 (머니,스포츠,케이팝)",
+  "url": "https://moneysportskpop.tistory.com/810",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/59PXQY704WO",
+  "title": "한화 허인서 신인왕 등극! 양의지 이후 16년 만의 포수 신인왕, 한화의 새로운 시대가 열린다",
+  "published_at": "2026-11-26T21:36:24.000+09:00",
+  "collected_at": "2026-11-26T13:37:53.117Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 100,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBVNkhteERFN2R5anVjUXNTaXQyR2dMYTZPSjFab2pFMWR6WHBOR3U3alBUdVRubzNmQWdKcGY2N3BmWjMyVlRJMUZUZUZJc2tQZFNaeHd2NEpFLTgxdE91edIBYEFVX3lxTFBVNkhteERFN2R5anVjUXNTaXQyR2dMYTZPSjFab2pFMWR6WHBOR3U3alBUdVRubzNmQWdKcGY2N3BmWjMyVlRJMUZUZUZJc2tQZFNaeHd2NEpFLTgxdE91eQ?oc=5"
+    },
+    {
+      "source_name": "미주중앙일보",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA1ajRxVWRTamVKbDgzV1diOFpQSW5rY3lCTWJwZUpDbjQzVFlscUs5cmp2aksxMEdxWU94QjVHNnV6dWhlTzVOT3UzeUdHUTlKbV9WWi1mT3d3cXZEY01qS01R?oc=5"
+    },
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOOGw3T1FlZlJ2U0owT3FrNEFTZlZ1MG5QX2QzRzhBYUQyaGpIdGlPcmgxS1ZwamxOTi10YVBjUEFKZVZyam1FZFRORjMweGxBblhCVGxnVTRURlBHQjNvTEhaUnRvUzBDbGI5cV9La1NndjBCY1RRaWhlQlJCS3NQQUJPTQ?oc=5"
+    },
+    {
+      "source_name": "티제이비",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9aMUZIb2hPLVlVbXVHOW5ScXVxMHJETXNMZ1ZYenl4Q2RjTjdJNlk2MUF5Y0FZcm05bnYybTcyZzFFbmFUZ1Q4c3dqVGYyQVc0Y0pFeGtjd3hKbnFodFp4UHBn?oc=5"
+    }
+  ]
+}

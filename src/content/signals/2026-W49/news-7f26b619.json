@@ -1,0 +1,23 @@
+{
+  "id": "news-7f26b619",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "뉴시스",
+  "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1UMVh5VEQ4eG54eGlvNzRzQjRsUmp3ZUM1anI0dzhCQ244LUxmeXJjRXpzTzRUVi1kM1p1LWZkM2FuRWF0NW5OcnpqQ19nNFBVYUZBVy1FOERKUlRXWTVtdUxpUHBzQWhONjJWVUlXNXBfcFg2RVg0b9IBeEFVX3lxTE1UMVh5VEQ4eG54eGlvNzRzQjRsUmp3ZUM1anI0dzhCQ244LUxmeXJjRXpzTzRUVi1kM1p1LWZkM2FuRWF0NW5OcnpqQ19nNFBVYUZBVy1FOERKUlRXWTVtdUxpUHBzQWhONjJWVUlXNXBfcFg2RVg0bw?oc=5",
+  "title": "MVP는 김도영",
+  "published_at": "2026-11-26T06:38:38.000Z",
+  "collected_at": "2026-11-26T13:37:53.117Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

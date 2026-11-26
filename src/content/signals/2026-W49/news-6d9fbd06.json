@@ -1,0 +1,23 @@
+{
+  "id": "news-6d9fbd06",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "SPOTV NEWS",
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1sYkZDUHZTMGtPZmllX1BMTHFQQnpUYXNrOEV5UEpQd1dTSFpXd3pPQTYwWU5mMVJPMkd5TjlMYkg2RHRUOGlZVk9vMFZCMWF3Q1RvUjUxSGZEemJOY29JUm9zSGZjNHZ6MnpQTXYxbVY?oc=5",
+  "title": "日 데뷔 확정인데 기꺼이 시상식 찾았다, KBO 홀드왕 스기모토 \"한국에서 야구한 경험 평생 못 잊을 것\"",
+  "published_at": "2026-11-26T05:32:52.000Z",
+  "collected_at": "2026-11-26T13:37:53.117Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 73,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

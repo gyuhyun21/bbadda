@@ -1,0 +1,30 @@
+{
+  "id": "news-a8607010",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "news",
+  "announcement": true,
+  "source_name": "매일경제",
+  "url": "https://m.mk.co.kr/amp/12219085",
+  "title": "“명문 구단 일원이 돼 기쁘고 감사”…베테랑 포수 김민식, LG 유니폼 입는다 [공식발표]",
+  "published_at": "2026-11-26T01:20:00.000Z",
+  "collected_at": "2026-11-26T13:37:53.117Z",
+  "summary_ko": "베테랑 포수 김민식이 LG 유니폼을 입는다. 김민식은 \"명문 구단 일원이 돼 기쁘고 감사하다\"고 말했다고 매일경제가 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 72,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "m.mksports.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB5YzM0VnlXTXVqaWlsY1doUEp6by1taldLRXdvX2hMcllMMVJ2aWdoUlFpMVFURDQ4QjZHMnFvcUJRel9wTE5LbDg3WEczTGJsVUpiekxuUlJDcnFzc2plWXktcVU?oc=5"
+    }
+  ],
+  "brief_ko": "베테랑 포수 김민식 영입"
+}

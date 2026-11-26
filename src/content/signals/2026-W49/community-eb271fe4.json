@@ -1,0 +1,24 @@
+{
+  "id": "community-eb271fe4",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&page=8&document_srl=10598869371",
+  "title": "근데 김주원보고 생각난건데 - 야구",
+  "published_at": "2026-11-26T10:37:53.117Z",
+  "collected_at": "2026-11-26T13:37:53.117Z",
+  "summary_ko": "",
+  "excerpt": "... [레벨:5] 자이언츠응원단장 14 분 전. 애초에 하위에서 관심같는게 ... 아니 근데 이택근 이양반은 명색이…",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

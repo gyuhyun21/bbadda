@@ -1,0 +1,26 @@
+{
+  "id": "instagram-64e443c9",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "instagram",
+  "official": true,
+  "source_name": "Instagram @busanlottegiants",
+  "url": "https://www.instagram.com/p/DgMoNAsTZzk/",
+  "title": "롯데 자이언츠 공식 인스타그램: 🏆황성빈 선수 KBO 도루상 수상🏆",
+  "published_at": "2026-11-26T08:02:34+0000",
+  "collected_at": "2026-11-26T13:37:53.117Z",
+  "summary_ko": "",
+  "metrics": {
+    "likes": 18739,
+    "comments": 80
+  },
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

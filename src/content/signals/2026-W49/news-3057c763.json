@@ -1,0 +1,29 @@
+{
+  "id": "news-3057c763",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9IdDJ6RHB1NXhiQ0NJZ2ZjbzdzdXpzdmI0WTY5MWxmMXE5OGVnR2Fkd1VZdkM3SDAzM2d5S2JmeUxUZ1pOeHl1TWZ5Xzg1WjV4dVJQcFNidkltajZ6OV9OLWN2Tm9zbVRwSXZjeHc4UdIBb0FVX3lxTE9IdDJ6RHB1NXhiQ0NJZ2ZjbzdzdXpzdmI0WTY5MWxmMXE5OGVnR2Fkd1VZdkM3SDAzM2d5S2JmeUxUZ1pOeHl1TWZ5Xzg1WjV4dVJQcFNidkltajZ6OV9OLWN2Tm9zbVRwSXZjeHc4UQ?oc=5",
+  "title": "가장 뜨거운 FA, 200억 사나이, 말 한 마디가 조심스럽다…구자욱 “인천 간 적은 없어요”",
+  "published_at": "2026-11-26T08:43:00.000Z",
+  "collected_at": "2026-11-26T13:37:53.117Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1ZeU52T2xoeWFHTVpDdXZtaHFwWG0yQjFRak5pT3FZMWF0am1NdGVqc1NxdndRNkx2ejFyOEVJdVQ1UTlnQ3ZCN2szTUV3Y2w1ZW0xZg?oc=5"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "news-13245005",
+  "issue": "2026-W49",
+  "module": "rivalry",
+  "team": "ssg",
+  "teams": [
+    "ssg",
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "연합뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1jTXgyQWtVTE5scjM2NFp4WUZlT0d5cEkwTVdBWmZ5a2paZnhrSTAzOUpIeW5aenBXOVQ4clFzdTdjLTNpMjM1MW5mWUh3NnIwZzRVVDlPOVVjLVlYRmxtVtIBYEFVX3lxTE1jTXgyQWtVTE5scjM2NFp4WUZlT0d5cEkwTVdBWmZ5a2paZnhrSTAzOUpIeW5aenBXOVQ4clFzdTdjLTNpMjM1MW5mWUh3NnIwZzRVVDlPOVVjLVlYRmxtVg?oc=5",
+  "title": "'FA 최대어' 구자욱 \"좋은 상상하며 지내…아직 제안 없어\"",
+  "published_at": "2026-11-26T08:12:52.000Z",
+  "collected_at": "2026-11-26T13:37:53.117Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

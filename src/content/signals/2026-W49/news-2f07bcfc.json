@@ -1,0 +1,25 @@
+{
+  "id": "news-2f07bcfc",
+  "issue": "2026-W49",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "ssg",
+    "doosan"
+  ],
+  "source_type": "news",
+  "source_name": "일요신문",
+  "url": "https://www.ilyo.co.kr/?ac=article_view&entry_id=513806",
+  "title": "삼성은 잡고 싶고 SSG·두산은 탐내고…FA 최대어 구자욱의 몸값은",
+  "published_at": "2026-11-26T07:00:40.000Z",
+  "collected_at": "2026-11-26T13:37:53.117Z",
+  "summary_ko": "일요신문은 삼성이 구자욱을 잡으려 하고 SSG·두산도 탐낸다며 FA 최대어의 몸값을 짚었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "구자욱, SSG·두산도 탐낸다"
+}

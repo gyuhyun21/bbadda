@@ -1,0 +1,45 @@
+{
+  "id": "youtube-5cd8a7e6",
+  "issue": "2026-W49",
+  "module": "league",
+  "teams": [
+    "kia"
+  ],
+  "team": "kia",
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "KBO",
+  "url": "https://www.youtube.com/watch?v=xxo2DOGBNGE",
+  "title": "2026 KBO 시상식 MVP 수상자는 KIA타이거즈의 김도영 선수입니다!🏆",
+  "published_at": "2026-11-26T08:50:04Z",
+  "collected_at": "2026-11-26T13:37:53.117Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 19305,
+    "likes": 1336,
+    "comments": 77
+  },
+  "scores": {
+    "hot": 92,
+    "relevance": 80
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "세계일보",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9DRGpmWGNyTkNpdlNCbnhrcmNDRGh5ZFVMa0d6bEhRcWJJM1RBYWZyc1o3Tl9JTzVfcWtkYXFQaGpkbU1qemVEUVhUWWNHVFcw0gFUQVVfeXFMT1RLTmdyQkluWHAyaUt5cUc4YmhyelFGSThLSzJZaFNKX0lHdmhwc0h4QkZtUVFmcDlUbGUzZ2JTU3o3ejlfb0xsNU82Rmoyc0pQdkhP?oc=5"
+    },
+    {
+      "source_name": "위키트리",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE91bFBoTlZuTFViSGxhUEU2LVNHTGt5bnhBNjZKVHlDbUlwRU5lejVBT0IxSnFnN2dCb2pUaG1jaXJwRTdleU9FWk4xQ3dnbVktM0JNWmtR?oc=5"
+    },
+    {
+      "source_name": "이투데이",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9XMDVLNzNiRFRDRVVCN0pJZ1ItYktDS0VlbjJLbk9CYTY3WjR2WjR6ZDN5SVpKbGxueTF3dGhyWTYybnNNMmlRSEZXZHJMQ2N6OC1OSw?oc=5"
+    },
+    {
+      "source_name": "패트론타임스",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5yLUppS0V6MnhvWU9nSGdIb0FPSDF4eUtPZVp3TnlpT2Fwc2pFaUx0eEQyaFlVcEFLVVRxSjJfVi1ITG5yOExra2dVZTBIcUxrYTdF?oc=5"
+    }
+  ]
+}

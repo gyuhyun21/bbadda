@@ -1,0 +1,27 @@
+{
+  "id": "youtube-50a30236",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "마구야9",
+  "url": "https://www.youtube.com/watch?v=54DAYEvwJM4",
+  "title": "생일날 가을야구 결승포 친 오스틴... 경기 끝나자 잠실 팬들이 불러준 생일 떼창",
+  "published_at": "2026-11-26T13:00:05Z",
+  "collected_at": "2026-11-26T13:37:53.117Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 300,
+    "likes": 3,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 38,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "news-9c23c7c9",
+  "issue": "2026-W49",
+  "module": "rivalry",
+  "team": "ssg",
+  "teams": [
+    "ssg",
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "마이데일리",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBkTkRFMk5YZ0x5Sl9LcEdXbEYwT2lyTUNsMHFpc0M1blhHMFJDRGdLckhnUUxic1hCOWVoVEtfUUhzRFlMVENfOGNLVC15dlZ6bnBBTENwSzhYX0dJNVU2eg?oc=5",
+  "title": "'해외 에이전트 선임' 구자욱 FA 협상 어떻게 되고 있나? \"제시 없었어, (해외·국내) 고민할 상황 아냐\" [MD잠실]",
+  "published_at": "2026-11-26T11:41:00.000Z",
+  "collected_at": "2026-11-26T13:37:53.117Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "news-d71944f2",
+  "issue": "2026-W49",
+  "module": "rivalry",
+  "team": "hanwha",
+  "teams": [
+    "hanwha",
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0wck9XZk9PT25Xc2dRc05hTmdQc0VNUWs2Y1dieEVfNjNmbXUzemlyb184bk9xMVExLWxka1FqMENDaG1JRmI5Mm5USjRxbk9fR09MSk02U2dRQjZKWm1GVVlpNUZtVktad3RRdEVkRnU5blhPWkxGTUxpWkxNUQ?oc=5",
+  "title": "문동주 예언 적중 \"5월부터 내가 신인왕 받을거라더라\" 허인서와 '찐친 케미'→16년만의 포수 신인왕, 골든글러브까지 노린다 [잠실 인터뷰]",
+  "published_at": "2026-11-26T07:25:53.000Z",
+  "collected_at": "2026-11-26T13:37:53.117Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

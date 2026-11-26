@@ -1,0 +1,27 @@
+{
+  "id": "youtube-bfa95472",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "spotube_kbo",
+  "url": "https://www.youtube.com/watch?v=dBX1g2OL_6c",
+  "title": "30대에 첫 타이틀! 임찬규·고영표 공동 다승왕 #임찬규 #고영표 #다승왕 #KBO #프로야구 #야구 #LG트윈스 #KT위즈 #KBO시상식 #야구쇼츠 #shorts",
+  "published_at": "2026-11-26T08:52:01Z",
+  "collected_at": "2026-11-26T13:37:53.117Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 146,
+    "likes": 2,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 37,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

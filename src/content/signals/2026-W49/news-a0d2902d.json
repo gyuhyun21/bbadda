@@ -1,0 +1,29 @@
+{
+  "id": "news-a0d2902d",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "엑스포츠뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8zbTRGZGRka25IUmVHamc2bUNCVU5ZMFM3MjNUUjl1MnJVUDFiU29oZm1fcGF3eEE1RUlyTThIdEFGQU14TlNyMFN1VDJrUE1pQ29HbA?oc=5",
+  "title": "김도영, 왕의 귀환! '58.8% 득표' 2년 만에 MVP 재탈환→\"무거운 책임감 느껴, 내년 유격수 규정이닝 목표\" [잠실 현장]",
+  "published_at": "2026-11-26T06:36:34.000Z",
+  "collected_at": "2026-11-26T13:37:53.117Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 73,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "미주중앙일보",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0wbHRrOXdWQVdhSi10RjZIOWNUSGVJV0tNblYzYnV5SnlvTlBmcmFvVGoxT0hWa0pLa1A1Rk1Pb01idUUtTVY2OVNhekZ6V1BDVmIzS2paa21WOF9TU2J5S01R?oc=5"
+    }
+  ]
+}

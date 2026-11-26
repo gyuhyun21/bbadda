@@ -1,0 +1,23 @@
+{
+  "id": "news-d418a775",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠월드",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1hMkhFS2xqLUh2OFZXNUk4eWw3bnhqbktkeEhubHJJcXVtMmlIeXBLV1BZRDRGZF9UNkNwM05QWTM4RjRLMGYzNjdPeGs0SHl5V2RiTUdjeGFpakFPVTNTbVJ3?oc=5",
+  "title": "“정장은 벌써 준비했죠” 첫 수비상 박성한, 첫 GG도 꿈꾼다",
+  "published_at": "2026-11-26T10:51:29.000Z",
+  "collected_at": "2026-11-26T13:37:53.117Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

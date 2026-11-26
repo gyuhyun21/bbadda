@@ -1,0 +1,24 @@
+{
+  "id": "news-27ade685",
+  "issue": "2026-W49",
+  "module": "rivalry",
+  "team": "lg",
+  "teams": [
+    "lg",
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "뉴시스",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA2dXFRU1ZVV0Q5UTM0V2FjYXdtSWhKbE1RRlJOanNibi1mM2gzbjl5cV9Mb0o0RlBORmVjWDRfWG16c3dyd1l1UlV4ZG1SU2hsY2JVUUxnYVRMVjNKWDRjRNIBeEFVX3lxTFBjMDhQQ24wbk9IcDA2U0ZCdmVFS28yTFV2WGFkWE1CN25iMDZJRWdfV0UwUmFmUUxkUEI5YURlWXRrZVBCMWQ5V2VYQ190NnJZQTR6RkFpeEprSTV1a29maXYxa1JDMXBrS0pmazhtWmpBZERRMWtNMw?oc=5",
+  "title": "외야 FA 풍년에도 구자욱에만 쏠린 시선…더 아쉬운 김호령의 '가을 침묵'",
+  "published_at": "2026-11-26T02:26:28.000Z",
+  "collected_at": "2026-11-26T13:37:53.117Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 72,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

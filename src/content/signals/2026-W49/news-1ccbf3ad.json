@@ -1,0 +1,24 @@
+{
+  "id": "news-1ccbf3ad",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "announcement": true,
+  "source_name": "MHN스포츠",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5PS1VOSzRRYVd2Mk1HWEpNSGhtbkk5R21HVGF0NGFXTWZyWXAxcUxqSThPZVpqSjU2UmNLUU5uRlZCb0UzaWlyMDNlODkwXzFkaVJ3UWRPamZERzVndUtMMFNEMA?oc=5",
+  "title": "[오피셜]마의 200만 달러? 오스틴은 되고 레이예스는 안된 이유...결국 외국인 타자는 홈런이다?",
+  "published_at": "2026-11-26T05:22:36.000Z",
+  "collected_at": "2026-11-26T13:37:53.117Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

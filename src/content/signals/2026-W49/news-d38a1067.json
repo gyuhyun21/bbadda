@@ -1,0 +1,23 @@
+{
+  "id": "news-d38a1067",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "티제이비",
+  "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5jczdjdnlYYmZVaUUxUGN6bWRzZHVlOEEyQnJzbzdCRXFsNEx4RElyQ0JQRmd0dmp0YVFzNGRxOU41bHFfNDVTTnJMelg2LXA1TTFSYkc3cENGck4yXzJFM3BQaER1U3NSb3BqSQ?oc=5",
+  "title": "\"네가 나가면 네가 주전\"…'포수 신인왕' 허인서가 전한 최재훈의 한마디",
+  "published_at": "2026-11-26T06:51:04.000Z",
+  "collected_at": "2026-11-26T13:37:53.117Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

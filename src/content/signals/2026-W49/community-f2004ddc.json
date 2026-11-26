@@ -1,0 +1,24 @@
+{
+  "id": "community-f2004ddc",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "레딧 r/KBO",
+  "url": "https://www.reddit.com/r/KBO/comments/1y5vo51/2026_%EC%8B%A0%ED%95%9C_sol_kbo_awards/",
+  "title": "2026 신한 SOL KBO Awards",
+  "published_at": "2026-11-26T07:37:53.117Z",
+  "collected_at": "2026-11-26T13:37:53.117Z",
+  "summary_ko": "",
+  "excerpt": "... ... Hanwha Eagles Heo In-seo (허인서) Pitcher - Wins: KT wiz Ko Young-pyo (고영표),…",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

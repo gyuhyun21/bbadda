@@ -1,0 +1,26 @@
+{
+  "id": "instagram-22b0b84f",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "instagram",
+  "official": true,
+  "source_name": "Instagram @lgtwinsbaseballclub",
+  "url": "https://www.instagram.com/p/DgMXRNVS96X/",
+  "title": "LG 트윈스 공식 인스타그램: 2026 KBO 시상식 수상🏆",
+  "published_at": "2026-11-26T05:33:33+0000",
+  "collected_at": "2026-11-26T13:37:53.117Z",
+  "summary_ko": "",
+  "metrics": {
+    "likes": 13626,
+    "comments": 64
+  },
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "news-de32b374",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "뉴시스",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5oNWZwQW9NcGRBUG1qY3ZfekFnQzBLVW9DUU9DVWVLTmtXbXZXNTlTZi1zQWtZYXkzaUdwTldJem5XcFVqQ2l2NW1RdEw0eE9ZejJnaUVhc0FQdXFycWVlZ9IBeEFVX3lxTE9IdWFIeE03MHJHaVlNenVQbW5UamFFZDNpazAydWdLRUliTzFRQWF4T01EcnR0ZXBCaktQc1hVNDlBbFpHQUZvT1hIUVctSjdnNDA3SnlrVkNoc2dQOUV0Q05hTDJLSWUteUY1eW5sdnpsTW5md1Nfag?oc=5",
+  "title": "'홈런왕 ' KIA 김도영, 곽빈 제치고 '가장 빛난 별'…2년 만에 MVP 등극",
+  "published_at": "2026-11-26T06:43:02.000Z",
+  "collected_at": "2026-11-26T13:37:53.117Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 98,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "아주경제",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1uUnI3Q180TmFBb0dlOVlUcmtwdDktZXhwNHl4UkY0aV92akZhdU1Xc1J2NVFBR0dLY0N0YV9OeWJ0YVhWWXNNdTVhaWFzYk1xNVZLUHE3MzB5d9IBWEFVX3lxTFB1RzU1c3hKZmdfeUFLM19ReldvWVc2cEhZWGhIN2wyaTM0NFVncTVZVHFya2d5aVhrazBzdHhDRzJXRVUtOHV6UVpIdE1rUl9PRHR1WkpwblQ?oc=5"
+    },
+    {
+      "source_name": "www.theleader.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9iNWE2TTg0b3hTMmZob1FEaFRfelducExEVm15NHppNTJzODZCRTQwZ2ZRVDZhRzBNLVdKTU9tMTlQVHB6WFBKUHdRcG55blNweXdxOTNhdV9CVjBvc250bmlibkNKVEgtbkg3SmZ3?oc=5"
+    },
+    {
+      "source_name": "국제신문",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTWVzZUJwZ2ctNE91RW93YWhmOXVOM2pIcTRWU0EtWDNaVmozMGxqQTVQZXl4d21nTzFzOTlVb0gzY1dRdHRvelZMeDNkYnVybTZnUGJvT0NhSTFYSzMzcDJENy1kQUNuRl9ESUpybXZRY2VuS3VuSDRtSDlaOV9uRnhDb0tiTzBwdjh2TjVn?oc=5"
+    }
+  ]
+}
