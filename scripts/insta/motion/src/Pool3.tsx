@@ -5,15 +5,15 @@ import { AbsoluteFill, Easing, interpolate, useCurrentFrame, useVideoConfig } fr
 import { usePretendard } from './font';
 
 export type SceneProps = { seconds?: number };
-const Y = '#ffe03a', R = '#d70015', DIM = 'rgba(255,255,255,.14)';
-const clamp = { extrapolateLeft: 'clamp', extrapolateRight: 'clamp' } as const;
+export const Y = '#ffe03a', R = '#d70015', DIM = 'rgba(255,255,255,.14)';
+export const clamp = { extrapolateLeft: 'clamp', extrapolateRight: 'clamp' } as const;
 // 장면 길이의 a~b 비율 구간에서 0→1
-const useT = () => {
+export const useT = () => {
   const f = useCurrentFrame(), { durationInFrames: d } = useVideoConfig();
   return (a: number, b: number, ease = Easing.out(Easing.cubic)) => interpolate(f, [a * d, Math.max(b * d, a * d + 1)], [0, 1], { ...clamp, easing: ease });
 };
-const pop = (t: number) => interpolate(t, [0, 0.6, 1], [0.4, 1.15, 1], clamp);
-const Frame = ({ children }: { children: ReactNode }) => {
+export const pop = (t: number) => interpolate(t, [0, 0.6, 1], [0.4, 1.15, 1], clamp);
+export const Frame = ({ children }: { children: ReactNode }) => {
   usePretendard();
   return <AbsoluteFill style={{ background: '#111', fontFamily: 'P', color: '#fff', wordBreak: 'keep-all' }}>{children}</AbsoluteFill>;
 };
