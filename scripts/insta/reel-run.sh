@@ -23,7 +23,9 @@ upload() {
   git fetch -q origin insta-media
   rm -rf /tmp/media; git worktree prune
   git worktree add -q /tmp/media origin/insta-media
-  ( cd /tmp/media && git checkout -q -B insta-media && mkdir -p "reel/$2" && cp "$1" "reel/$2/reel.mp4" && git add reel && git commit -qm "reel: $2" && git push -q origin insta-media )
+  # 같은 편을 다시 돌리면 같은 영상이라 커밋할 게 없다 — 그때는 커밋·푸시 없이 주소만 낸다. git 출력은 stderr 로(주소에 섞여 curl: URL rejected, 2026-11-26 저녁 편)
+  ( cd /tmp/media && git checkout -q -B insta-media && mkdir -p "reel/$2" && cp "$1" "reel/$2/reel.mp4" && git add reel \
+    && { git diff --cached --quiet || { git commit -qm "reel: $2" && git push -q origin insta-media; }; } ) >&2 || return 1
   echo "https://cdn.jsdelivr.net/gh/${GITHUB_REPOSITORY}@insta-media/reel/$2/reel.mp4"
 }
 # 게시물 목록 — 일시 오류는 다시 시도. 끝내 실패하면 2 를 돌려 「안 올라감」과 구분한다(확인 실패를 안 올라감으로 봐서 pool/21 이 두 번 올라감, 2026-11-20)
