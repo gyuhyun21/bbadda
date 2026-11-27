@@ -1,0 +1,26 @@
+{
+  "id": "youtube-6f7659a9",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "대구MBC뉴스",
+  "url": "https://www.youtube.com/watch?v=9ExTnZsbv4w",
+  "title": "우승 팀 삼성라이온즈, KBO 시상식 '구자욱·김재윤·김성윤' 수상 #shorts (대구MBC)",
+  "published_at": "2026-11-27T04:00:36Z",
+  "collected_at": "2026-11-27T07:37:42.251Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 313,
+    "likes": 1,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 34,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

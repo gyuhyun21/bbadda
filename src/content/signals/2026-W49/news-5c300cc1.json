@@ -1,0 +1,23 @@
+{
+  "id": "news-5c300cc1",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠동아",
+  "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5kT2J5VXhtSWJCc1ZTOHZnaVFtMmZvWjVaRDNXbnVRZ1FDQ2RRNW94WUpfRzlZRzJVWjdnYWVNYS1FaUJXUXdzUnBiMF9zM1VsbDR1LXdJUXdZNElxM3ZYTVdfTDNMSG9aaHdPREpycWZkdw?oc=5",
+  "title": "“하나의 대안 될 수 있어” 노시환, 사토·봄 등 계약으로 탄력 받나…또다시 양키스와 연결",
+  "published_at": "2026-11-27T07:11:45.000Z",
+  "collected_at": "2026-11-27T07:37:42.251Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "youtube-f036e239",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "꿀반장TV",
+  "url": "https://www.youtube.com/watch?v=NlLRYYwRghQ",
+  "title": "MVP 받고도 김도영이 바란 것 #김도영 #기아타이거즈",
+  "published_at": "2026-11-27T07:33:23Z",
+  "collected_at": "2026-11-27T07:37:42.251Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 97,
+    "likes": 1,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 33,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

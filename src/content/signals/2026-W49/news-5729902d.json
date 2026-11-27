@@ -1,0 +1,30 @@
+{
+  "id": "news-5729902d",
+  "issue": "2026-W49",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "미주중앙일보",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5IMVVza1M2U2JLTHI5Z0RvazN3OHdSSFJHWFAwOHVZTVpSZWNHVmNxUk1MRVBrdXlHM0lMWUExUzZXN0dGUTU0MmRwekxmdjEwZ0pfS3h2cmhaTUVJT1dnSVhn?oc=5",
+  "title": "신인왕 출신 괴물 타자와 밥 먹다 날아든 日 드래프트 지명 소식…한국서 인생 역전한 26세 홀드왕",
+  "published_at": "2026-11-27T02:40:00.000Z",
+  "collected_at": "2026-11-27T07:37:42.251Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 90,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5lZ2J4cVNtMmwwb0xiNHcwM3B0WU9YdUk0QzZrOUJlNGdTVXNuNXM5R0poREQtZDJmbWtjaFhNY05hWGRVNTZ4N3ZwZDU1cWM5LXdCSHZXaGxuSHZhYks3U0hnR1I3WFduMW1QV2NuUdIBb0FVX3lxTE5lZ2J4cVNtMmwwb0xiNHcwM3B0WU9YdUk0QzZrOUJlNGdTVXNuNXM5R0poREQtZDJmbWtjaFhNY05hWGRVNTZ4N3ZwZDU1cWM5LXdCSHZXaGxuSHZhYks3U0hnR1I3WFduMW1QV2NuUQ?oc=5"
+    }
+  ]
+}

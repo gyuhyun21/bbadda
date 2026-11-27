@@ -1,0 +1,27 @@
+{
+  "id": "youtube-f2e556d9",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "NC 다이노스",
+  "url": "https://www.youtube.com/watch?v=ynsQolYyCQc",
+  "title": "끝까지 뜨거웠던 오키나와 마지막 이야기 | CAMP 1 오키나와",
+  "published_at": "2026-11-27T06:00:10Z",
+  "collected_at": "2026-11-27T07:37:42.251Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1220,
+    "likes": 137,
+    "comments": 18
+  },
+  "scores": {
+    "hot": 79,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

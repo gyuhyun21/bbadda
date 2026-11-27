@@ -1,0 +1,23 @@
+{
+  "id": "community-1af36657",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 스포츠인사이트 | 스포츠 뉴스·경기분석",
+  "url": "https://sports25.tistory.com/13",
+  "title": "2026 KBO 시상식 수상자 명단, 15년 기다린 임찬규 눈물 뒤에 숨은 사연은",
+  "published_at": "2026-11-27T13:31:05.000+09:00",
+  "collected_at": "2026-11-27T07:37:42.251Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

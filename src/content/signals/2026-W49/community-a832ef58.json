@@ -1,0 +1,23 @@
+{
+  "id": "community-a832ef58",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 CLASSIC",
+  "url": "https://blog.naver.com/sdudwlss/224494476399",
+  "title": "2026 KBO 시상식 결과 김도영 MVP: 역대 최연소 2회 수상, 신인왕 허인서",
+  "published_at": "2026-11-27T13:38:00.000+09:00",
+  "collected_at": "2026-11-27T07:37:42.251Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

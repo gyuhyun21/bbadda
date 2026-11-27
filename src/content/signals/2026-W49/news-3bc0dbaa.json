@@ -1,0 +1,23 @@
+{
+  "id": "news-3bc0dbaa",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1Dc1dOU0VtbGhPbU5rSVVFWVdXVWV4Rk9LekdHV2R5cWdkV2pKYzVhb25vVWZVNFBkNjkxN3VwMGV0eFhVMjdzQWE5UXFYVm84X2NWNFp0YnNZWUtSY2xvQ0RYUnhmVXg0cGdoZkxPb9IBb0FVX3lxTE1Dc1dOU0VtbGhPbU5rSVVFWVdXVWV4Rk9LekdHV2R5cWdkV2pKYzVhb25vVWZVNFBkNjkxN3VwMGV0eFhVMjdzQWE5UXFYVm84X2NWNFp0YnNZWUtSY2xvQ0RYUnhmVXg0cGdoZkxPbw?oc=5",
+  "title": "\"벌써 운동 시작했다\" 풀타임이면 MVP, 아직 배고픈 슈퍼스타 새 도전...최초 유격수 50홈런 MVP 달성하나",
+  "published_at": "2026-11-27T01:40:00.000Z",
+  "collected_at": "2026-11-27T07:37:42.251Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

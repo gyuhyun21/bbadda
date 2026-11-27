@@ -1,0 +1,22 @@
+{
+  "id": "community-73d34034",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 9회말 투아웃",
+  "url": "https://blog.naver.com/health-119/224493756614",
+  "title": "롯데 레이예스 180만 달러 재계약, 211안타 신기록에도 200만 달러 못 넘은 이유",
+  "published_at": "2026-11-27T13:00:00.000+09:00",
+  "collected_at": "2026-11-27T07:37:42.251Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-f5c5e34b",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "SPOTV NEWS",
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE53NFViMFd0SHdoei0ybkh3YjdxNFVkV2I3MldDdmRMeUEycW9MNTc3dVl6OU9zT2tRYlFQTzhsaG9YcklXWExoRDJSWXp1NHhZSWtMRzQzbmZxUDY3aXZ5al9GTTlzcHhoX2dDSHN5eTM?oc=5",
+  "title": "\"작별 인사 아니다\" FA 구자욱, 이토록 섬세한 팬 사랑이라니…\"소식 있으면 직접 말하겠다\"",
+  "published_at": "2026-11-27T00:41:10.000Z",
+  "collected_at": "2026-11-27T07:37:42.251Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

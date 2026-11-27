@@ -1,0 +1,23 @@
+{
+  "id": "news-614e0016",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "오마이스타",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1yektmVGFSRFhvV081NWlHcW93SzdWelJGWmo5WlQ1RFFMSzdVUEwyMnlpVVBlZm9wN1RSTjdzSGpFRXJ0V3ZZbmFzQmNSUGlFNWlZekJzTTZXSFlqLUtjRDM1M3NFcW9JZjhDa1JBajd6S0F3c3ZqdTBUVHlFZw?oc=5",
+  "title": "5년 차에 두 번째 MVP, 김도영의 진화는 어디까지일까",
+  "published_at": "2026-11-27T03:49:00.000Z",
+  "collected_at": "2026-11-27T07:37:42.251Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

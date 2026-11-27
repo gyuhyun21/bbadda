@@ -1,0 +1,22 @@
+{
+  "id": "news-e83bd380",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "JTBC",
+  "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9xU2xiNFJ6SVRaZWtkazRpbnBYSWgwNXdtT3NLYjh5VFpaQnNCSUlSMDVxc1A3LUI2RldMMC12bGFXc0V6RVlqcFlmeUo2SnRLU2c?oc=5",
+  "title": "[지금이장면] 안타왕 남는다! 대체불가 레이예스 롯데 잔류…일본 구단 관심에도 재계약",
+  "published_at": "2026-11-26T09:53:08.000Z",
+  "collected_at": "2026-11-27T07:37:42.251Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 60,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

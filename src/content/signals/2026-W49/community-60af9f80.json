@@ -1,0 +1,24 @@
+{
+  "id": "community-60af9f80",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 스포츠루",
+  "url": "https://blog.naver.com/sportsroo/224494674827",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/6tGGRc0c0Mi",
+  "title": "KBO 시상식 시즌, 김도영 '다시 보상받고 싶다'",
+  "published_at": "2026-11-27T15:26:00.000+09:00",
+  "collected_at": "2026-11-27T07:37:42.251Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

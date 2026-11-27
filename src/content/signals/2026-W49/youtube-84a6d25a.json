@@ -1,0 +1,27 @@
+{
+  "id": "youtube-84a6d25a",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "NC 다이노스 김박사",
+  "url": "https://www.youtube.com/watch?v=K3oCs5jjnXk",
+  "title": "전사민 10세이브, 그런데 블론 7개",
+  "published_at": "2026-11-27T03:55:16Z",
+  "collected_at": "2026-11-27T07:37:42.251Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 170,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 28,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

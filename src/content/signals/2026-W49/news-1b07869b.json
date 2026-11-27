@@ -1,0 +1,23 @@
+{
+  "id": "news-1b07869b",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "인사이트",
+  "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1ES1NmUVBDNEhZb24yaVBRRWF3TnZuNnRJSU5XMURLcVNVLW5tR0E0YTJQZjZ6N0VBQmJxUUFBTjlqX0RpSnF4QVpETTd6QQ?oc=5",
+  "title": "200억 FA 구자욱, 온라인 소문에 \"다 맞는 건 아니다\"",
+  "published_at": "2026-11-27T01:13:09.000Z",
+  "collected_at": "2026-11-27T07:37:42.251Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

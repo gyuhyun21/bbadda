@@ -1,0 +1,26 @@
+{
+  "id": "youtube-daa0cc05",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "youtube",
+  "source_name": "오늘의 트윈스",
+  "url": "https://www.youtube.com/watch?v=qCKEaXUv_54",
+  "title": "LG 선수 5명 수상! 임찬규 다승왕·구본혁 최초 기록까지 #LG트윈스 #프로야구 #KBO시상식",
+  "published_at": "2026-11-27T03:00:02Z",
+  "collected_at": "2026-11-27T07:37:42.251Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1516,
+    "likes": 40,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 61,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

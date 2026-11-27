@@ -1,0 +1,26 @@
+{
+  "id": "youtube-9d2012c0",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "마구야9",
+  "url": "https://www.youtube.com/watch?v=tj1lCaYVMFg",
+  "title": "삼성 디아즈 올해 결정적 홈런 TOP5 1위는? 탄2",
+  "published_at": "2026-11-27T04:00:31Z",
+  "collected_at": "2026-11-27T07:37:42.251Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1840,
+    "likes": 35,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 56,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

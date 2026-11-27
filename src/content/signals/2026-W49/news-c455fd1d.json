@@ -1,0 +1,23 @@
+{
+  "id": "news-c455fd1d",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBzOVo5Uk1sR3NKQjFYSk9GTXVxWUFyblNPVGxIN1NaNWtGcmdJNGhqbVBJOTI5NkVuTWd0RWdOOUtSdG11QmpTM2otSWlXUlBaRUtuNFBVNmdxNXNXclNNN2dxbDE1ZkdSN1lYLWJSc3JDRTQyNVJEQTlhRHluQQ?oc=5",
+  "title": "씨가 마른 3루수 시장, 노시환 초대박 계약 조짐! \"양키스, 필라델피아가 선택할 수도 있다\" 美",
+  "published_at": "2026-11-27T00:16:27.000Z",
+  "collected_at": "2026-11-27T07:37:42.251Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}
