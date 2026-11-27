@@ -1,0 +1,800 @@
+{
+  "date": "2026-11-27",
+  "account": {
+    "username": "bbadda_officials",
+    "followers": 27,
+    "media": 158
+  },
+  "posts": [
+    {
+      "id": "18108079439018383",
+      "ts": "2026-11-26T22:39:24+0000",
+      "type": "VIDEO",
+      "product": "REELS",
+      "url": "https://www.instagram.com/reel/DgOMnBYBzDS/",
+      "likes": 2,
+      "comments": 0,
+      "first": "⚾ 12홈런 3루수를 데려가는 값, 보상선수 0명에 1억3500만 원이에",
+      "m": {
+        "views": 239,
+        "reach": 210,
+        "saved": 0,
+        "shares": 0,
+        "total_interactions": 2,
+        "ig_reels_avg_watch_time": 7366,
+        "ig_reels_video_view_total_time": 1554253
+      },
+      "err": null
+    },
+    {
+      "id": "17919063663520569",
+      "ts": "2026-11-26T22:28:34+0000",
+      "type": "VIDEO",
+      "product": "REELS",
+      "url": "https://www.instagram.com/reel/DgOLX6uPvJ6/",
+      "likes": 2,
+      "comments": 0,
+      "first": "⚾ 외국인 몸값 상한은 100만 달러인데, 레이예스는 180만 달러예요",
+      "m": {
+        "views": 147,
+        "reach": 129,
+        "saved": 0,
+        "shares": 0,
+        "total_interactions": 2,
+        "ig_reels_avg_watch_time": 9949,
+        "ig_reels_video_view_total_time": 1293483
+      },
+      "err": null
+    },
+    {
+      "id": "18064290578537693",
+      "ts": "2026-11-26T13:55:00+0000",
+      "type": "CAROUSEL_ALBUM",
+      "product": "FEED",
+      "url": "https://www.instagram.com/p/DgNQpnxjplA/",
+      "likes": 1,
+      "comments": 0,
+      "first": "🌙 2년 만의 MVP, 김도영은 \"70점\"",
+      "m": {
+        "views": 6,
+        "reach": 3,
+        "saved": 0,
+        "shares": 0,
+        "total_interactions": 1
+      },
+      "err": null
+    },
+    {
+      "id": "17888951235505378",
+      "ts": "2026-11-25T22:31:09+0000",
+      "type": "VIDEO",
+      "product": "REELS",
+      "url": "https://www.instagram.com/reel/DgLm376osIO/",
+      "likes": 2,
+      "comments": 0,
+      "first": "⚾ 우승 반지가 7개인 선수, 한때는 공사장에서 일당을 받았어요",
+      "m": {
+        "views": 209,
+        "reach": 195,
+        "saved": 0,
+        "shares": 0,
+        "total_interactions": 2,
+        "ig_reels_avg_watch_time": 8808,
+        "ig_reels_video_view_total_time": 1682455
+      },
+      "err": null
+    },
+    {
+      "id": "17992668009108911",
+      "ts": "2026-11-25T13:57:05+0000",
+      "type": "VIDEO",
+      "product": "REELS",
+      "url": "https://www.instagram.com/reel/DgKsAm0JPx9/",
+      "likes": 2,
+      "comments": 0,
+      "first": "⚾ 307억 계약서를 두고 미국 문을 두드린 선수, 남은 시간은 7일이에",
+      "m": {
+        "views": 183,
+        "reach": 165,
+        "saved": 0,
+        "shares": 0,
+        "total_interactions": 2,
+        "ig_reels_avg_watch_time": 9583,
+        "ig_reels_video_view_total_time": 1600473
+      },
+      "err": null
+    },
+    {
+      "id": "18101103983419371",
+      "ts": "2026-11-25T13:52:04+0000",
+      "type": "CAROUSEL_ALBUM",
+      "product": "FEED",
+      "url": "https://www.instagram.com/p/DgKrgufF6VN/",
+      "likes": 0,
+      "comments": 0,
+      "first": "🌙 307억 포기한 노시환, 마감까지 7일",
+      "m": {
+        "views": 12,
+        "reach": 4,
+        "saved": 0,
+        "shares": 0,
+        "total_interactions": 0
+      },
+      "err": null
+    },
+    {
+      "id": "18111302393261208",
+      "ts": "2026-11-25T13:23:53+0000",
+      "type": "VIDEO",
+      "product": "REELS",
+      "url": "https://www.instagram.com/reel/DgKoPo9ID2c/",
+      "likes": 1,
+      "comments": 0,
+      "first": "⚾ 홈에서 태그됐는데 끝내기 득점, 어떻게 된 걸까요?",
+      "m": {
+        "views": 170,
+        "reach": 160,
+        "saved": 0,
+        "shares": 0,
+        "total_interactions": 1,
+        "ig_reels_avg_watch_time": 8435,
+        "ig_reels_video_view_total_time": 1374935
+      },
+      "err": null
+    },
+    {
+      "id": "18086618825709979",
+      "ts": "2026-11-25T08:24:17+0000",
+      "type": "VIDEO",
+      "product": "REELS",
+      "url": "https://www.instagram.com/reel/DgKF9cPpmpD/",
+      "likes": 65,
+      "comments": 0,
+      "first": "⚾ 역사상 가장 유명한 빠던, 그 전에 53분짜리 이닝이 있었어요",
+      "m": {
+        "views": 80366,
+        "reach": 72819,
+        "saved": 13,
+        "shares": 2,
+        "total_interactions": 86,
+        "ig_reels_avg_watch_time": 14136,
+        "ig_reels_video_view_total_time": 1014490711
+      },
+      "err": null
+    },
+    {
+      "id": "17915849262588991",
+      "ts": "2026-11-24T22:32:32+0000",
+      "type": "VIDEO",
+      "product": "REELS",
+      "url": "https://www.instagram.com/reel/DgJCPRKEUpD/",
+      "likes": 2,
+      "comments": 0,
+      "first": "⚾ 시상식은 내일인데, 이 신인 포수는 벌써 상을 3개 받았어요",
+      "m": {
+        "views": 161,
+        "reach": 144,
+        "saved": 0,
+        "shares": 0,
+        "total_interactions": 2,
+        "ig_reels_avg_watch_time": 9413,
+        "ig_reels_video_view_total_time": 1374383
+      },
+      "err": null
+    },
+    {
+      "id": "18129878221922272",
+      "ts": "2026-11-24T14:12:11+0000",
+      "type": "VIDEO",
+      "product": "REELS",
+      "url": "https://www.instagram.com/reel/DgII8JbjrQ7/",
+      "likes": 0,
+      "comments": 0,
+      "first": "⚾ 공을 숨겼다가 태그, 반칙일까요?",
+      "m": {
+        "views": 133,
+        "reach": 125,
+        "saved": 0,
+        "shares": 0,
+        "total_interactions": 0,
+        "ig_reels_avg_watch_time": 8688,
+        "ig_reels_video_view_total_time": 1086034
+      },
+      "err": null
+    },
+    {
+      "id": "18127517170923428",
+      "ts": "2026-11-23T22:36:45+0000",
+      "type": "VIDEO",
+      "product": "REELS",
+      "url": "https://www.instagram.com/reel/DgGd4rdjz8s/",
+      "likes": 1,
+      "comments": 0,
+      "first": "⚾ 가을야구 동안 하루 3,814건씩 들어온 신고, 뭐였을까요?",
+      "m": {
+        "views": 134,
+        "reach": 129,
+        "saved": 0,
+        "shares": 0,
+        "total_interactions": 1,
+        "ig_reels_avg_watch_time": 7050,
+        "ig_reels_video_view_total_time": 923597
+      },
+      "err": null
+    },
+    {
+      "id": "18000270447021090",
+      "ts": "2026-11-23T15:16:50+0000",
+      "type": "VIDEO",
+      "product": "REELS",
+      "url": "https://www.instagram.com/reel/DgFrk8Dma5P/",
+      "likes": 0,
+      "comments": 0,
+      "first": "🎬 요약 | 🌙 12년 기다린 우승, 대구 도심은 20년 만",
+      "m": {
+        "views": 120,
+        "reach": 110,
+        "saved": 0,
+        "shares": 0,
+        "total_interactions": 0,
+        "ig_reels_avg_watch_time": 1673,
+        "ig_reels_video_view_total_time": 184098
+      },
+      "err": null
+    },
+    {
+      "id": "17852260932697259",
+      "ts": "2026-11-23T14:07:43+0000",
+      "type": "VIDEO",
+      "product": "REELS",
+      "url": "https://www.instagram.com/reel/DgFjrIjkwVd/",
+      "likes": 0,
+      "comments": 0,
+      "first": "⚾ 우승은 12년 만인데, 대구 이 길은 20년 만에 열려요",
+      "m": {
+        "views": 126,
+        "reach": 116,
+        "saved": 0,
+        "shares": 0,
+        "total_interactions": 0,
+        "ig_reels_avg_watch_time": 5539,
+        "ig_reels_video_view_total_time": 642581
+      },
+      "err": null
+    },
+    {
+      "id": "17965972977253409",
+      "ts": "2026-11-23T14:03:54+0000",
+      "type": "VIDEO",
+      "product": "REELS",
+      "url": "https://www.instagram.com/reel/DgFjMn7kpMw/",
+      "likes": 3,
+      "comments": 0,
+      "first": "⚾ 수비수 혼자 아웃 3개를 잡고 경기를 끝냈어요",
+      "m": {
+        "views": 140,
+        "reach": 132,
+        "saved": 0,
+        "shares": 0,
+        "total_interactions": 3,
+        "ig_reels_avg_watch_time": 8615,
+        "ig_reels_video_view_total_time": 1137283
+      },
+      "err": null
+    },
+    {
+      "id": "18015309333005435",
+      "ts": "2026-11-23T13:52:21+0000",
+      "type": "CAROUSEL_ALBUM",
+      "product": "FEED",
+      "url": "https://www.instagram.com/p/DgFh9usF-4v/",
+      "likes": 0,
+      "comments": 0,
+      "first": "🌙 12년 기다린 우승, 대구 도심은 20년 만",
+      "m": {
+        "views": 7,
+        "reach": 6,
+        "saved": 0,
+        "shares": 0,
+        "total_interactions": 0
+      },
+      "err": null
+    },
+    {
+      "id": "18116734136173135",
+      "ts": "2026-11-23T08:24:12+0000",
+      "type": "VIDEO",
+      "product": "REELS",
+      "url": "https://www.instagram.com/reel/DgE8XOYkvAJ/",
+      "likes": 2,
+      "comments": 0,
+      "first": "⚾ 두 다리를 다친 대타가 월드시리즈 끝내기 홈런을 쳤어요",
+      "m": {
+        "views": 169,
+        "reach": 154,
+        "saved": 0,
+        "shares": 0,
+        "total_interactions": 2,
+        "ig_reels_avg_watch_time": 8499,
+        "ig_reels_video_view_total_time": 1308947
+      },
+      "err": null
+    },
+    {
+      "id": "18021795674972298",
+      "ts": "2026-11-22T22:28:01+0000",
+      "type": "VIDEO",
+      "product": "REELS",
+      "url": "https://www.instagram.com/reel/DgD4JhXDD0E/",
+      "likes": 3,
+      "comments": 0,
+      "first": "⚾ '대전 예수'를 놓친 한화가 대신 고른 투수는 월드시리즈 준우승팀에서",
+      "m": {
+        "views": 159,
+        "reach": 142,
+        "saved": 1,
+        "shares": 0,
+        "total_interactions": 4,
+        "ig_reels_avg_watch_time": 8574,
+        "ig_reels_video_view_total_time": 1226176
+      },
+      "err": null
+    },
+    {
+      "id": "17967905091239184",
+      "ts": "2026-11-22T15:04:36+0000",
+      "type": "CAROUSEL_ALBUM",
+      "product": "FEED",
+      "url": "https://www.instagram.com/p/DgDFb1-Ixtp/",
+      "likes": 0,
+      "comments": 0,
+      "first": "🌙 와이스 대신 154km, 한화가 고른 빅리거",
+      "m": {
+        "views": 15,
+        "reach": 4,
+        "saved": 0,
+        "shares": 0,
+        "total_interactions": 0
+      },
+      "err": null
+    },
+    {
+      "id": "17904929502606698",
+      "ts": "2026-11-22T13:57:49+0000",
+      "type": "VIDEO",
+      "product": "REELS",
+      "url": "https://www.instagram.com/reel/DgC9vzTldEV/",
+      "likes": 3,
+      "comments": 0,
+      "first": "⚾ FA 시장 열린 지 6일 만에, 이 팀은 벌써 장을 다 봤어요",
+      "m": {
+        "views": 145,
+        "reach": 127,
+        "saved": 0,
+        "shares": 0,
+        "total_interactions": 3,
+        "ig_reels_avg_watch_time": 8463,
+        "ig_reels_video_view_total_time": 1083361
+      },
+      "err": null
+    },
+    {
+      "id": "17980948782160311",
+      "ts": "2026-11-22T11:52:58+0000",
+      "type": "VIDEO",
+      "product": "REELS",
+      "url": "https://www.instagram.com/reel/DgCvdBlgYYt/",
+      "likes": 1,
+      "comments": 0,
+      "first": "⚾ 친 공에 맞은 주자가 아웃이 되는 이유가 있어요",
+      "m": {
+        "views": 157,
+        "reach": 147,
+        "saved": 0,
+        "shares": 0,
+        "total_interactions": 1,
+        "ig_reels_avg_watch_time": 6352,
+        "ig_reels_video_view_total_time": 946455
+      },
+      "err": null
+    },
+    {
+      "id": "18102794171437455",
+      "ts": "2026-11-22T04:23:49+0000",
+      "type": "VIDEO",
+      "product": "REELS",
+      "url": "https://www.instagram.com/reel/DgB8DZ4jgZG/",
+      "likes": 3,
+      "comments": 0,
+      "first": "⚾ 홈런 0개였던 42세 투수가 담장을 넘겼어요",
+      "m": {
+        "views": 163,
+        "reach": 141,
+        "saved": 0,
+        "shares": 0,
+        "total_interactions": 3,
+        "ig_reels_avg_watch_time": 9174,
+        "ig_reels_video_view_total_time": 1302788
+      },
+      "err": null
+    },
+    {
+      "id": "18119729720062142",
+      "ts": "2026-11-21T22:29:09+0000",
+      "type": "VIDEO",
+      "product": "REELS",
+      "url": "https://www.instagram.com/reel/DgBTdrPDk7z/",
+      "likes": 0,
+      "comments": 0,
+      "first": "⚾ 홈런을 치고도 아웃된 타자가 있었어요",
+      "m": {
+        "views": 118,
+        "reach": 110,
+        "saved": 0,
+        "shares": 0,
+        "total_interactions": 0,
+        "ig_reels_avg_watch_time": 7956,
+        "ig_reels_video_view_total_time": 883204
+      },
+      "err": null
+    },
+    {
+      "id": "18096405872695418",
+      "ts": "2026-11-21T14:01:04+0000",
+      "type": "VIDEO",
+      "product": "REELS",
+      "url": "https://www.instagram.com/reel/DgAZUfOgZyK/",
+      "likes": 1,
+      "comments": 0,
+      "first": "⚾ 2년 전 3대2 대형 트레이드의 주인공이, 이번엔 1대1로 또 팀을 ",
+      "m": {
+        "views": 143,
+        "reach": 125,
+        "saved": 0,
+        "shares": 0,
+        "total_interactions": 1,
+        "ig_reels_avg_watch_time": 6151,
+        "ig_reels_video_view_total_time": 768891
+      },
+      "err": null
+    },
+    {
+      "id": "18169342834523732",
+      "ts": "2026-11-21T13:00:07+0000",
+      "type": "VIDEO",
+      "product": "REELS",
+      "url": "https://www.instagram.com/reel/DgASXQKjyiY/",
+      "likes": 0,
+      "comments": 0,
+      "first": "⚾ 퍼펙트게임까지 아웃 하나, 심판이 세이프를 외쳤어요",
+      "m": {
+        "views": 126,
+        "reach": 121,
+        "saved": 0,
+        "shares": 0,
+        "total_interactions": 0,
+        "ig_reels_avg_watch_time": 7434,
+        "ig_reels_video_view_total_time": 877262
+      },
+      "err": null
+    },
+    {
+      "id": "18134658508705515",
+      "ts": "2026-11-21T11:38:27+0000",
+      "type": "VIDEO",
+      "product": "REELS",
+      "url": "https://www.instagram.com/reel/DgAJAYuDg5n/",
+      "likes": 2,
+      "comments": 0,
+      "first": "⚾ 볼넷도 몸에 맞는 공도 아닌데 1루로 걸어가는 방법이 있어요",
+      "m": {
+        "views": 153,
+        "reach": 138,
+        "saved": 0,
+        "shares": 0,
+        "total_interactions": 2,
+        "ig_reels_avg_watch_time": 11515,
+        "ig_reels_video_view_total_time": 1600651
+      },
+      "err": null
+    },
+    {
+      "id": "18602505187068070",
+      "ts": "2026-11-20T22:41:49+0000",
+      "type": "VIDEO",
+      "product": "REELS",
+      "url": "https://www.instagram.com/reel/Df-wI6oAVR9/",
+      "likes": 1,
+      "comments": 0,
+      "first": "⚾ 홈런을 내준 외야수가, 사흘 뒤엔 투수로 마운드에 올랐어요",
+      "m": {
+        "views": 134,
+        "reach": 128,
+        "saved": 0,
+        "shares": 0,
+        "total_interactions": 1,
+        "ig_reels_avg_watch_time": 6443,
+        "ig_reels_video_view_total_time": 831167
+      },
+      "err": null
+    },
+    {
+      "id": "18037023920907259",
+      "ts": "2026-11-20T13:58:49+0000",
+      "type": "VIDEO",
+      "product": "REELS",
+      "url": "https://www.instagram.com/reel/Df90RTCk8TV/",
+      "likes": 1,
+      "comments": 0,
+      "first": "⚾ 타격왕에 한국시리즈 MVP까지 한 선수에게, 오늘 미국에서 연락이 왔",
+      "m": {
+        "views": 170,
+        "reach": 164,
+        "saved": 0,
+        "shares": 0,
+        "total_interactions": 1,
+        "ig_reels_avg_watch_time": 8054,
+        "ig_reels_video_view_total_time": 1312943
+      },
+      "err": null
+    },
+    {
+      "id": "18051220817817951",
+      "ts": "2026-11-20T13:56:28+0000",
+      "type": "VIDEO",
+      "product": "REELS",
+      "url": "https://www.instagram.com/reel/Df9z_wXj9g7/",
+      "likes": 1,
+      "comments": 0,
+      "first": "⚾ 한 이닝에 만루홈런 두 방, 메이저리그에서 딱 한 번 나온 날이에요",
+      "m": {
+        "views": 6,
+        "reach": 4,
+        "saved": 0,
+        "shares": 0,
+        "total_interactions": 1,
+        "ig_reels_avg_watch_time": 7518,
+        "ig_reels_video_view_total_time": 37591
+      },
+      "err": null
+    },
+    {
+      "id": "18124933157287172",
+      "ts": "2026-11-20T12:03:11+0000",
+      "type": "VIDEO",
+      "product": "REELS",
+      "url": "https://www.instagram.com/reel/Df9nADeEbyw/",
+      "likes": 0,
+      "comments": 0,
+      "first": "⚾ 공이 담장을 넘어갔는데 홈런이 아닐 때가 있어요",
+      "m": {
+        "views": 196,
+        "reach": 182,
+        "saved": 0,
+        "shares": 1,
+        "total_interactions": 1,
+        "ig_reels_avg_watch_time": 7119,
+        "ig_reels_video_view_total_time": 1281599
+      },
+      "err": null
+    },
+    {
+      "id": "18029946125704379",
+      "ts": "2026-11-20T08:22:28+0000",
+      "type": "VIDEO",
+      "product": "REELS",
+      "url": "https://www.instagram.com/reel/Df9Nxi_jD4Y/",
+      "likes": 3,
+      "comments": 1,
+      "first": "⚾ 한 이닝에 만루홈런 두 방, 메이저리그에서 딱 한 번 나온 날이에요",
+      "m": {
+        "views": 192,
+        "reach": 167,
+        "saved": 1,
+        "shares": 4,
+        "total_interactions": 9,
+        "ig_reels_avg_watch_time": 6885,
+        "ig_reels_video_view_total_time": 1177492
+      },
+      "err": null
+    },
+    {
+      "id": "18038720729854825",
+      "ts": "2026-11-19T22:27:30+0000",
+      "type": "VIDEO",
+      "product": "REELS",
+      "url": "https://www.instagram.com/reel/Df8JsHxATx_/",
+      "likes": 2,
+      "comments": 0,
+      "first": "⚾ 45홈런을 치고도 MVP를 장담할 수 없는 이유",
+      "m": {
+        "views": 186,
+        "reach": 161,
+        "saved": 0,
+        "shares": 0,
+        "total_interactions": 2,
+        "ig_reels_avg_watch_time": 10395,
+        "ig_reels_video_view_total_time": 1663321
+      },
+      "err": null
+    },
+    {
+      "id": "18034483532884924",
+      "ts": "2026-11-19T13:58:55+0000",
+      "type": "VIDEO",
+      "product": "REELS",
+      "url": "https://www.instagram.com/reel/Df7PfT1iAUD/",
+      "likes": 1,
+      "comments": 0,
+      "first": "🎙️ 프로야구 총재를 세 번 연속 맡은 사람, 역사상 딱 세 명이에요. ",
+      "m": {
+        "views": 157,
+        "reach": 148,
+        "saved": 0,
+        "shares": 0,
+        "total_interactions": 1,
+        "ig_reels_avg_watch_time": 7757,
+        "ig_reels_video_view_total_time": 1132627
+      },
+      "err": null
+    },
+    {
+      "id": "18060743087648657",
+      "ts": "2026-11-19T12:04:24+0000",
+      "type": "VIDEO",
+      "product": "REELS",
+      "url": "https://www.instagram.com/reel/Df7CWDhj2wJ/",
+      "likes": 2,
+      "comments": 0,
+      "first": "⚾ 공을 안 던졌는데 볼, 안 쳤는데 스트라이크가 되는 규칙이 있어요",
+      "m": {
+        "views": 132,
+        "reach": 125,
+        "saved": 0,
+        "shares": 0,
+        "total_interactions": 2,
+        "ig_reels_avg_watch_time": 4215,
+        "ig_reels_video_view_total_time": 522769
+      },
+      "err": null
+    },
+    {
+      "id": "18102656690648382",
+      "ts": "2026-11-19T08:28:30+0000",
+      "type": "VIDEO",
+      "product": "REELS",
+      "url": "https://www.instagram.com/reel/Df6pq9FmN4a/",
+      "likes": 1,
+      "comments": 0,
+      "first": "⚾ 강속구에 비둘기가 사라진 날이에요",
+      "m": {
+        "views": 184,
+        "reach": 172,
+        "saved": 0,
+        "shares": 0,
+        "total_interactions": 1,
+        "ig_reels_avg_watch_time": 6494,
+        "ig_reels_video_view_total_time": 1097550
+      },
+      "err": null
+    },
+    {
+      "id": "18131925176486337",
+      "ts": "2026-11-18T22:33:00+0000",
+      "type": "VIDEO",
+      "product": "REELS",
+      "url": "https://www.instagram.com/reel/Df5lhcKDwUP/",
+      "likes": 3,
+      "comments": 0,
+      "first": "⚾ 올해 KBO 홀드왕이 일본에선 '육성선수'로 가요",
+      "m": {
+        "views": 210,
+        "reach": 189,
+        "saved": 0,
+        "shares": 0,
+        "total_interactions": 3,
+        "ig_reels_avg_watch_time": 9959,
+        "ig_reels_video_view_total_time": 1872473
+      },
+      "err": null
+    },
+    {
+      "id": "18486802858114134",
+      "ts": "2026-11-18T13:58:26+0000",
+      "type": "VIDEO",
+      "product": "REELS",
+      "url": "https://www.instagram.com/reel/Df4qo5pDkak/",
+      "likes": 1,
+      "comments": 0,
+      "first": "🧤 2년 전 리그에서 실책이 제일 많던 3루수가, 올해 3루 수비 1등이",
+      "m": {
+        "views": 158,
+        "reach": 144,
+        "saved": 0,
+        "shares": 0,
+        "total_interactions": 1,
+        "ig_reels_avg_watch_time": 8358,
+        "ig_reels_video_view_total_time": 1195329
+      },
+      "err": null
+    },
+    {
+      "id": "18052320920819347",
+      "ts": "2026-11-18T13:47:15+0000",
+      "type": "CAROUSEL_ALBUM",
+      "product": "FEED",
+      "url": "https://www.instagram.com/p/Df4pZ2RF-Kq/",
+      "likes": 0,
+      "comments": 0,
+      "first": "🌙 67억 받고, 1억은 돌려줬다",
+      "m": {
+        "views": 6,
+        "reach": 3,
+        "saved": 0,
+        "shares": 0,
+        "total_interactions": 0
+      },
+      "err": null
+    },
+    {
+      "id": "18255944305309347",
+      "ts": "2026-11-18T12:06:09+0000",
+      "type": "VIDEO",
+      "product": "REELS",
+      "url": "https://www.instagram.com/reel/Df4dyn9D-4g/",
+      "likes": 2,
+      "comments": 0,
+      "first": "⚾ 공 하나 안 던졌는데 경기가 끝난 날이 있어요",
+      "m": {
+        "views": 171,
+        "reach": 156,
+        "saved": 0,
+        "shares": 0,
+        "total_interactions": 2,
+        "ig_reels_avg_watch_time": 7461,
+        "ig_reels_video_view_total_time": 1163951
+      },
+      "err": null
+    },
+    {
+      "id": "18111202244264048",
+      "ts": "2026-11-18T08:23:11+0000",
+      "type": "VIDEO",
+      "product": "REELS",
+      "url": "https://www.instagram.com/reel/Df4EQ14igRx/",
+      "likes": 3,
+      "comments": 0,
+      "first": "⚾ 0-3으로 끌려가던 9회, 도쿄돔을 조용하게 만든 날이에요",
+      "m": {
+        "views": 153,
+        "reach": 139,
+        "saved": 0,
+        "shares": 0,
+        "total_interactions": 3,
+        "ig_reels_avg_watch_time": 6072,
+        "ig_reels_video_view_total_time": 844115
+      },
+      "err": null
+    },
+    {
+      "id": "18130814006513930",
+      "ts": "2026-11-17T22:29:43+0000",
+      "type": "VIDEO",
+      "product": "REELS",
+      "url": "https://www.instagram.com/reel/Df3AXypAdMT/",
+      "likes": 2,
+      "comments": 0,
+      "first": "📸 우승 파티에서 선배가 후배 둘을 '협박'했어요",
+      "m": {
+        "views": 210,
+        "reach": 185,
+        "saved": 0,
+        "shares": 0,
+        "total_interactions": 2,
+        "ig_reels_avg_watch_time": 10328,
+        "ig_reels_video_view_total_time": 1921095
+      },
+      "err": null
+    }
+  ]
+}
