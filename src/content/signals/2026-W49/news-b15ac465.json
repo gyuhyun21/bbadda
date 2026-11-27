@@ -1,0 +1,23 @@
+{
+  "id": "news-b15ac465",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "bnt뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE94QXRDUmx4VUloWE5ES3NvR0t4YTJNZU1GNlpzd0NBMzRqZUdrUDRlMEJYS0tuTjZoaW5mbk5COTFhdkdLZTJFejdicWFHTXF2TVAwM3U4WFNuWGlRTzBZNWRWanE?oc=5",
+  "title": "불꽃야구2, 김성근 라인업 파기",
+  "published_at": "2026-11-26T23:47:15.000Z",
+  "collected_at": "2026-11-27T21:37:48.944Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 60,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

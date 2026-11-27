@@ -1,0 +1,24 @@
+{
+  "id": "news-51297be7",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠조선",
+  "url": "https://www.sportschosun.com/baseball/2026-11-27/202611280100173430016122",
+  "title": "미친 몸값! \"4년 160억? 美日구단, 손도 못댄다\"…원태인 몸값 폭등에 혀 내둘러→\"차라리 후라도·페덱 영입이 현실적\" 결국 'KBO머니게임' 가나",
+  "published_at": "2026-11-27T20:39:32.000Z",
+  "collected_at": "2026-11-27T21:37:48.944Z",
+  "summary_ko": "스포츠조선은 원태인 몸값이 4년 160억 원까지 거론된다며, 미국·일본 구단도 쉽게 손대기 어렵다는 분석을 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "원태인 몸값, 160억까지 거론"
+}

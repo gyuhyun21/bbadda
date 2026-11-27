@@ -1,0 +1,26 @@
+{
+  "id": "youtube-7cf16cb4",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "핫이슈수집함",
+  "url": "https://www.youtube.com/watch?v=1c9UVMPNJMA",
+  "title": "상 받고 친정팀에 사과한 최원준 #최원준 #KIA타이거즈 #야구시상식",
+  "published_at": "2026-11-27T16:35:24Z",
+  "collected_at": "2026-11-27T21:37:48.944Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1131,
+    "likes": 8,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 47,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

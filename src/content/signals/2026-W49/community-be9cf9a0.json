@@ -1,0 +1,24 @@
+{
+  "id": "community-be9cf9a0",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 별처럼 빛나는 하루",
+  "url": "https://blog.naver.com/pasm123/224495154641",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/JqIq1wi9e0W",
+  "title": "\"구자욱·원태인 다 잡아도 된다고?\"…10개 구단 샐러리캡 열어보니 '이 구단'만 웃었다",
+  "published_at": "2026-11-27T23:25:00.000+09:00",
+  "collected_at": "2026-11-27T21:37:48.944Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

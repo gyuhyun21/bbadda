@@ -1,0 +1,24 @@
+{
+  "id": "community-e8691ced",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc",
+    "kia"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 스포츠랑 함께하는 일상",
+  "url": "https://blog.naver.com/juhyun002/224495267939",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/5YvvUrkN74C",
+  "title": "\"NC 입단 첫해 트레이드됐는데 KIA에서 123경기?\" 7라운드 정현창이 살아남은 이유 (KBO KIA타이거즈)",
+  "published_at": "2026-11-28T00:43:00.000+09:00",
+  "collected_at": "2026-11-27T21:37:48.944Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

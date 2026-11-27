@@ -1,0 +1,29 @@
+{
+  "id": "news-1c313dfa",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "news",
+  "source_name": "스타뉴스",
+  "url": "https://www.starnewskorea.com/sports/2026/11/28/2026112720052358613",
+  "title": "'롯데 출신' 美 현역 코치 허일 강단 선다! KBO, 유소년 지도자 역량강화 세미나 개최",
+  "published_at": "2026-11-27T15:01:00.000Z",
+  "collected_at": "2026-11-27T21:37:48.944Z",
+  "summary_ko": "롯데 출신으로 미국에서 코치로 일하는 허일이 KBO 유소년 지도자 역량강화 세미나 강단에 선다고 스타뉴스가 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 98,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ySnItU0tFY1VwX040SnB4eVE4akhfUHhuenJ6LTVjcXpISUR5T0dBNE1RU0lMVUIxYnVQcXNGNk1nUG52bGM3UkNGd1hQakFBbW1FWHNOQ1dCZUs4N3Mzakg5cEZQbF9FQ2FCNldRQdIBb0FVX3lxTE1ySnItU0tFY1VwX040SnB4eVE4akhfUHhuenJ6LTVjcXpISUR5T0dBNE1RU0lMVUIxYnVQcXNGNk1nUG52bGM3UkNGd1hQakFBbW1FWHNOQ1dCZUs4N3Mzakg5cEZQbF9FQ2FCNldRQQ?oc=5"
+    }
+  ],
+  "brief_ko": "출신 코치 허일, 유소년 강단에"
+}

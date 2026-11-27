@@ -1,0 +1,27 @@
+{
+  "id": "youtube-1ed12e4c",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "Giants TV",
+  "url": "https://www.youtube.com/watch?v=kt88CYVD7bI",
+  "title": "축하할 일이 생겨서 축하드립니다🏆 | 2026 KBO 시상식 다녀왔습니다✨",
+  "published_at": "2026-11-27T15:00:30Z",
+  "collected_at": "2026-11-27T21:37:48.944Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 26294,
+    "likes": 576,
+    "comments": 82
+  },
+  "scores": {
+    "hot": 79,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

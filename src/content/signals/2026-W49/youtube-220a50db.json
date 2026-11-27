@@ -1,0 +1,26 @@
+{
+  "id": "youtube-220a50db",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "youtube",
+  "source_name": "노손 코리아",
+  "url": "https://www.youtube.com/watch?v=VC0MRbZHCm8",
+  "title": "[노손후기] NC 다이노스 황성현 선수가 전하는 NOSON후기를 들어보세요! #NC다이노스 #노손 #비강확장기 #스위스비강확장기 #황성현선수 #황성현",
+  "published_at": "2026-11-27T15:00:32Z",
+  "collected_at": "2026-11-27T21:37:48.944Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 0,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

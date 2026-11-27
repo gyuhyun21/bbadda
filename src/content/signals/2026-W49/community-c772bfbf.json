@@ -1,0 +1,23 @@
+{
+  "id": "community-c772bfbf",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 GAVIS BASEBALL KBO 분석",
+  "url": "https://blog.naver.com/gavis_/224495274016",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/ISJVgYS0cLC",
+  "title": "삼성 페덱 이대로 빼앗기나? 일본 복수 구단 관심에 대형 계약 전망",
+  "published_at": "2026-11-28T01:30:00.000+09:00",
+  "collected_at": "2026-11-27T21:37:48.944Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

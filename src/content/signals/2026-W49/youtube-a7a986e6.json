@@ -1,0 +1,26 @@
+{
+  "id": "youtube-a7a986e6",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "youtube",
+  "source_name": "KBO 플레이리스트 응원가",
+  "url": "https://www.youtube.com/watch?v=nGu5mmwOAqU",
+  "title": "두산 베어스 좌측 우측 박준순 선수 응원가 Music video ",
+  "published_at": "2026-11-27T15:29:47Z",
+  "collected_at": "2026-11-27T21:37:48.944Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 3,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 8,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}
