@@ -1,0 +1,26 @@
+{
+  "id": "youtube-6d25f738",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "youtube",
+  "source_name": "정승베 [정신승리 베이스볼]",
+  "url": "https://www.youtube.com/watch?v=8hQUpzr3goE",
+  "title": "[🔴정승베 LIVE ] 롯데 스토브리그ㅣ레이예스 재계약 완료ㅣ트레드 4인방",
+  "published_at": "2026-11-27T14:48:58Z",
+  "collected_at": "2026-11-27T21:37:48.944Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 12445,
+    "likes": 89,
+    "comments": 2
+  },
+  "scores": {
+    "hot": 61,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

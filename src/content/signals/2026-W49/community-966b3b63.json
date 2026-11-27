@@ -1,0 +1,24 @@
+{
+  "id": "community-966b3b63",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 제이의 떠먹는 경제한입",
+  "url": "https://blog.naver.com/jay_bite/224494845926",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/HJpuRbElOtD",
+  "title": "2026 KBO 시상식 수상자 명단 총정리, 김도영 MVP 4관왕 허인서 신인상",
+  "published_at": "2026-11-27T22:34:00.000+09:00",
+  "collected_at": "2026-11-27T21:37:48.944Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

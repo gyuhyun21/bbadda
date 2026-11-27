@@ -1,0 +1,23 @@
+{
+  "id": "news-c0d6b1db",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "news",
+  "source_name": "조선일보",
+  "url": "https://www.chosun.com/sports/sports_general/2026/11/28/65QNRJML2JHURCP7O3GYPROR4M/",
+  "title": "‘허슬두’는 어떻게 프로야구 두산의 캐치프레이즈가 됐나",
+  "published_at": "2026-11-27T18:00:00.000Z",
+  "collected_at": "2026-11-27T21:37:48.944Z",
+  "summary_ko": "조선일보가 '허슬두'가 어떻게 두산의 캐치프레이즈가 됐는지 짚었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 80
+  },
+  "sentiment": "neutral",
+  "brief_ko": "'허슬두'는 어떻게 생겼나"
+}

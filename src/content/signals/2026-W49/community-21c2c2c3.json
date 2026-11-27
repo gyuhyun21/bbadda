@@ -1,0 +1,23 @@
+{
+  "id": "community-21c2c2c3",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 스포츠한입님의 블로그",
+  "url": "https://blog.naver.com/sportonebite/224495269207",
+  "title": "\"올해 점수는 70점\" MVP 받고도 만족하지 못한 김도영, 내년 목표는 따로 있었다",
+  "published_at": "2026-11-28T00:46:00.000+09:00",
+  "collected_at": "2026-11-27T21:37:48.944Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

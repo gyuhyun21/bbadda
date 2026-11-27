@@ -1,0 +1,29 @@
+{
+  "id": "community-148a47f1",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 누워서보는 연예뉴스",
+  "url": "https://blog.naver.com/hide/224495368331",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/8nWvhTWzw4l",
+  "title": "\"두산 지명 순간 아직도 생생한데... 전역 뒤 방출\" 26살 좌완 백승우, 지도자 변신",
+  "published_at": "2026-11-28T04:30:00.000+09:00",
+  "collected_at": "2026-11-27T21:37:48.944Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "negative",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBYNV9yV0ZaNUIwWkRxSGFya19GZ3FhblBZcGpwX2FWbmtyS3Q0NFlhVW5yOHI2TTlYWHFpc0dTYXVMOXlkbk0yN1NQZktISWZnLXFQa3M0NlJXZ2lpckhTU3RrZWg0c0Vmd3ZCVGNIb9IBb0FVX3lxTFBYNV9yV0ZaNUIwWkRxSGFya19GZ3FhblBZcGpwX2FWbmtyS3Q0NFlhVW5yOHI2TTlYWHFpc0dTYXVMOXlkbk0yN1NQZktISWZnLXFQa3M0NlJXZ2lpckhTU3RrZWg0c0Vmd3ZCVGNIbw?oc=5"
+    }
+  ]
+}

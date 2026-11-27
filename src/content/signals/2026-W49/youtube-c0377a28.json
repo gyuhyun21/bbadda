@@ -1,0 +1,26 @@
+{
+  "id": "youtube-c0377a28",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "kbo_edit",
+  "url": "https://www.youtube.com/watch?v=5NVLA1oF0bk",
+  "title": "The young king, 2026 mvp 김도영 #김도영 #기아타이거즈 #kbo #mvp",
+  "published_at": "2026-11-27T15:52:17Z",
+  "collected_at": "2026-11-27T21:37:48.944Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1273,
+    "likes": 4,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 44,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

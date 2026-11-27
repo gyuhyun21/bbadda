@@ -1,0 +1,26 @@
+{
+  "id": "youtube-67bc417e",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "youtube",
+  "source_name": "ひらのすけ히라노스케平乃助",
+  "url": "https://www.youtube.com/watch?v=ALMYuJxrby4",
+  "title": "LG TWINS 트윈스  #53 チョン ソンホ 천성호  選手応援歌",
+  "published_at": "2026-11-27T14:09:15Z",
+  "collected_at": "2026-11-27T21:37:48.944Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 11,
+    "likes": 2,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 55,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

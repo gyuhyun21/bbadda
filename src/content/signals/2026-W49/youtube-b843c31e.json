@@ -1,0 +1,27 @@
+{
+  "id": "youtube-b843c31e",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "야구멍냥 극장",
+  "url": "https://www.youtube.com/watch?v=84yY9vY6MMo",
+  "title": "안타인데 왜 뒤로 달려? 한 타구에 두 명이 아웃된 개막전 대참사 #shorts #야구",
+  "published_at": "2026-11-27T21:10:34Z",
+  "collected_at": "2026-11-27T21:37:48.944Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 23,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 19,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

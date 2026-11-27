@@ -1,0 +1,23 @@
+{
+  "id": "community-b73444e8",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 GAVIS BASEBALL KBO 분석",
+  "url": "https://blog.naver.com/gavis_/224495307756",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/1Bz8NUnUlcx",
+  "title": "롯데 대체 뭘 믿고 비슬리까지... 평균자책점 뒤에서 2등인데 재계약 추진",
+  "published_at": "2026-11-28T03:30:00.000+09:00",
+  "collected_at": "2026-11-27T21:37:48.944Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

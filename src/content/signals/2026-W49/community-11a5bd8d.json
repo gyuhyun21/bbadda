@@ -1,0 +1,23 @@
+{
+  "id": "community-11a5bd8d",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 GOOD NEWS",
+  "url": "https://blog.naver.com/livenews101/224495192556",
+  "title": "아쉬운 작별, '미스터 제로' 김사윤, 32세에 마운드 떠나…눈물로 전한 은퇴 심경",
+  "published_at": "2026-11-28T00:09:00.000+09:00",
+  "collected_at": "2026-11-27T21:37:48.944Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

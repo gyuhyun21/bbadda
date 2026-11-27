@@ -1,0 +1,24 @@
+{
+  "id": "community-f669e3de",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 주3일, 약사로 삽니다",
+  "url": "https://blog.naver.com/anothercup/224495226144",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/DkG0gmdrhn8",
+  "title": "안녕 잠실 야구장 (2026.09.24)",
+  "published_at": "2026-11-28T00:04:00.000+09:00",
+  "collected_at": "2026-11-27T21:37:48.944Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

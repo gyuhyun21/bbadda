@@ -1,0 +1,23 @@
+{
+  "id": "news-71e48b8a",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "뉴스엔",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBnYWpHcklrNDhURy1zUFdTUnpBLUVhc3BLRTBWZnVDVjdyckxtMTl3dlVKRnFtMUJzNHVEUXNSVlhzVUpoVkFWWVJDWUlPMGNKNGdOSUxDUDZFbl9YbVd4TjFXX2hWa1lE?oc=5",
+  "title": "자타공인 최고 중견수 ‘트중박’ 박해민이 말하는 ‘수비 잘할 수 있는 방법’은?",
+  "published_at": "2026-11-27T21:00:01.000Z",
+  "collected_at": "2026-11-27T21:37:48.944Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

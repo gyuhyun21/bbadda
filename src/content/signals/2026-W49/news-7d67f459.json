@@ -1,0 +1,23 @@
+{
+  "id": "news-7d67f459",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "한국아이닷컴",
+  "url": "https://www.hankooki.com/news/articleView.html?idxno=349608",
+  "title": "김민식 영입…그래도 LG는 박동원이 필요하다[초점]",
+  "published_at": "2026-11-27T21:30:00.000Z",
+  "collected_at": "2026-11-27T21:37:48.944Z",
+  "summary_ko": "한국아이닷컴은 LG가 김민식을 영입했어도 FA 박동원이 여전히 필요하다고 짚었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "김민식 왔어도 박동원은 필요"
+}

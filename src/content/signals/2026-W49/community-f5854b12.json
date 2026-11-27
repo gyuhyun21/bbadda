@@ -1,0 +1,30 @@
+{
+  "id": "community-f5854b12",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 편한삼촌 이슈월드",
+  "url": "https://blog.naver.com/skytourlive/224495402375",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/FVmbYpIYqi4",
+  "title": "유퀴즈 강민호, 우승 간절해 한국시리즈 5차전까지 속옷 그대로",
+  "published_at": "2026-11-28T05:13:00.000+09:00",
+  "collected_at": "2026-11-27T21:37:48.944Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 83,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "TV리포트",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9aQWhOWHVteUoxdzlmY25qTFc3VW9RcElDRlpqR1NwZlBxTUJDMHpBaXVOOGQzLVNiS2pxWnhXcGdMZFJXS1RJX18xTnNyeXNrUmVGQmY0d3pjVXJnTkRNa3I5RdIBaEFVX3lxTE5LcW1rR3h5OHNPVlp2QnRtbHdMV1lTVllEdDBJU00ybkI0WDdLU1RRT2Jqd28taHN5YTZkR0FybDBsbjliWW1lNjVqQWY4SVlNRHAzNFFuaTNtSkkwWUp2aFpTSkJPUThC?oc=5"
+    }
+  ]
+}

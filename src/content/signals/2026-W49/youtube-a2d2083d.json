@@ -1,0 +1,26 @@
+{
+  "id": "youtube-a2d2083d",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "컴캉킹",
+  "url": "https://www.youtube.com/watch?v=u-AD61wlq7Y",
+  "title": "2027년 가장 기대되는  기아선수 #야구 #기아타이거즈 #kbo",
+  "published_at": "2026-11-27T14:54:18Z",
+  "collected_at": "2026-11-27T21:37:48.944Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 4,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "community-b3db84c5",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte",
+    "kt"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 킥오프24시",
+  "url": "https://blog.naver.com/kickoff24/224494978340",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/ItOWJokk2Tk",
+  "title": "\"이런 투수가 시장에 나올 수도 있다고?\" 롯데가 주목해야 할 KT 데이비스 대니엘",
+  "published_at": "2026-11-27T21:01:00.000+09:00",
+  "collected_at": "2026-11-27T21:37:48.944Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

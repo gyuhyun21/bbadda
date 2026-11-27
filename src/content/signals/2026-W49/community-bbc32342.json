@@ -1,0 +1,23 @@
+{
+  "id": "community-bbc32342",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 Sunny’s record",
+  "url": "https://blog.naver.com/sunny_record/224495233587",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/D6cMMuQn5KA",
+  "title": "[KBO 크보 소식] 롯데 자이언츠 레이예스 180만 달러 재계약 | KBO 최초 4년 연속 안타왕 도전하나?",
+  "published_at": "2026-11-28T00:01:00.000+09:00",
+  "collected_at": "2026-11-27T21:37:48.944Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

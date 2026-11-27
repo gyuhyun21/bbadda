@@ -1,0 +1,23 @@
+{
+  "id": "news-a8d0955f",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "조선일보",
+  "url": "https://www.chosun.com/culture-life/book/2026/11/28/KGGHA6QCWJHJVJUDMTTIRAVGJI/",
+  "title": "[요즘 서점가] 프로야구 삼성 우승 열기… 서점가도 영향, 화보집 1위",
+  "published_at": "2026-11-27T15:32:00.000Z",
+  "collected_at": "2026-11-27T21:37:48.944Z",
+  "summary_ko": "삼성 우승 열기가 서점가에도 번져 화보집이 판매 1위에 올랐다고 조선일보가 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "brief_ko": "우승 화보집, 서점가 1위"
+}
