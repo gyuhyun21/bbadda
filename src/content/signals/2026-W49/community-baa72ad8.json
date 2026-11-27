@@ -1,0 +1,23 @@
+{
+  "id": "community-baa72ad8",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 장면수집 | 스포츠 이야기",
+  "url": "https://blog.naver.com/paleorecord/224494109257",
+  "title": "\"친선 게임이 아니다\" 불꽃야구2 장시원 PD, 12월 13일 고척돔에 이름 올린 노시환 등 현역 12명",
+  "published_at": "2026-11-27T13:03:00.000+09:00",
+  "collected_at": "2026-11-27T07:37:42.251Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

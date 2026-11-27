@@ -1,0 +1,22 @@
+{
+  "id": "news-9e5b7326",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "마이데일리",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9PcFctZVhUdVd6X1JEVmkwdzZ0d0ZuMmxuSHIzRlBSSHFQcnZucnBpXzBKNE5BVWJrVEx3UXh1c1dtSzA4Um5kdnEzYndlRmhDZnN1T1MwV0RIVVJxa3BMQQ?oc=5",
+  "title": "삼성 작은 거인, 2연속 수비상에도 왜 고개 숙였나…\"한 번씩 나로호 쐈잖이요\" [MD잠실]",
+  "published_at": "2026-11-27T00:41:00.000Z",
+  "collected_at": "2026-11-27T07:37:42.251Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

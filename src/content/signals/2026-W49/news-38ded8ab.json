@@ -1,0 +1,23 @@
+{
+  "id": "news-38ded8ab",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "www.xportsnews.com",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5IUFVEcTJMb0FIT29QbGRDQTRieGk3Znc1WnBabVpGWjBmZjE2XzcwNlRpVDQyY3cwdnVnM0lZUjYzbGhpT3hLc19keEI5OWFlcWpOZw?oc=5",
+  "title": "'끝내 무안타' 2R 내야수 이래서 간절하다…\"내년엔 확실히 좋아질 겁니다\"",
+  "published_at": "2026-11-27T02:54:43.000Z",
+  "collected_at": "2026-11-27T07:37:42.251Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

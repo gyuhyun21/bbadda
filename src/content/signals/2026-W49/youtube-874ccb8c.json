@@ -1,0 +1,27 @@
+{
+  "id": "youtube-874ccb8c",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "kt"
+  ],
+  "source_type": "youtube",
+  "source_name": "야구 한입",
+  "url": "https://www.youtube.com/watch?v=-Sl-YBf9sHE",
+  "title": "최원준 KIA 팬한테 남긴 말ㄷㄷ | KT 위즈 최원준 KIA 타이거즈 KBO 시상식 득점상",
+  "published_at": "2026-11-27T04:08:36Z",
+  "collected_at": "2026-11-27T07:37:42.251Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1170,
+    "likes": 6,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 43,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

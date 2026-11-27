@@ -1,0 +1,26 @@
+{
+  "id": "youtube-cfbcd366",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "Parkminha",
+  "url": "https://www.youtube.com/watch?v=aPBwUsfpH0A",
+  "title": "El Dorado(황금의 사람) #삼성라이온즈 #최강삼성 #알토색소폰 #응원가 #2027시즌도 우승 #KBO",
+  "published_at": "2026-11-27T03:45:38Z",
+  "collected_at": "2026-11-27T07:37:42.251Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 92,
+    "likes": 2,
+    "comments": 2
+  },
+  "scores": {
+    "hot": 60,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

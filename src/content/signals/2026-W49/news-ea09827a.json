@@ -1,0 +1,29 @@
+{
+  "id": "news-ea09827a",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://www.mt.co.kr/amp/sports/2026/11/27/2026112623595613854",
+  "title": "\"김호령·김태군 꼭 필요한 형들, 계약해 주셨으면...\" 최연소 2회 MVP 김도영의 간절한 바람, KIA는 '또' 이별할까",
+  "published_at": "2026-11-26T22:01:00.000Z",
+  "collected_at": "2026-11-27T07:37:42.251Z",
+  "summary_ko": "김도영이 FA 김호령·김태군을 두고 \"꼭 필요한 형들, 계약해 주셨으면\"이라고 말했다고 머니투데이가 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 73,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5YREZjanAybGZCM0NxX1Q0eG4zWG5yTlB3UndMWjY0X2pTbERWZC1tUXhTM0NXVW1EWlhxMUVIMDNIRkRMUlZKb2ZhRUxSZEFPdUxvdGJ6ZHlWSHdaT0xTckhtc3VHcEVPWm5RMU9DbXpoZXM4c2c?oc=5"
+    }
+  ],
+  "brief_ko": "김도영 \"김호령·김태군 꼭 필요\""
+}

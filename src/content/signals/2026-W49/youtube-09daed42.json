@@ -1,0 +1,26 @@
+{
+  "id": "youtube-09daed42",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "source_name": "한화에 묻어다오",
+  "url": "https://www.youtube.com/watch?v=rlGKcu7y8Co",
+  "title": "비밀데이트 가진 15살차 손아섭과 문동주 #한화이글스 #문동주 #손아섭",
+  "published_at": "2026-11-27T06:14:41Z",
+  "collected_at": "2026-11-27T07:37:42.251Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 6089,
+    "likes": 175,
+    "comments": 4
+  },
+  "scores": {
+    "hot": 71,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

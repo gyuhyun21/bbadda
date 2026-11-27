@@ -1,0 +1,23 @@
+{
+  "id": "community-a8e24d7e",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 웹플러스뉴스앵커On",
+  "url": "https://blog.naver.com/kbcd2008/224494689868",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/D7kU861BMfi",
+  "title": "대구시, 삼성라이온즈 V9 우승 카퍼레이드…29일 도심 교통 순차 통제",
+  "published_at": "2026-11-27T15:37:00.000+09:00",
+  "collected_at": "2026-11-27T07:37:42.251Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

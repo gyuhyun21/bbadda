@@ -1,0 +1,27 @@
+{
+  "id": "youtube-1a0aabef",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "플렉시블라이프",
+  "url": "https://www.youtube.com/watch?v=IfDDJZn50aw",
+  "title": "MVP 2회 받고도 스스로 70점 매긴 김도영, 시상식서 꺼낸 뜻밖의 이름",
+  "published_at": "2026-11-27T04:00:33Z",
+  "collected_at": "2026-11-27T07:37:42.251Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1086,
+    "likes": 14,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 49,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

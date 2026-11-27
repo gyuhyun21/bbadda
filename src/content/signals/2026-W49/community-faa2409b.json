@@ -1,0 +1,22 @@
+{
+  "id": "community-faa2409b",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 축구에도른자의 블로그",
+  "url": "https://blog.naver.com/chukdoja/224494452254",
+  "title": "“23억 재계약도 어렵다더니?” 211안타 롯데 레이예스, 결국 180만 달러에 잔류",
+  "published_at": "2026-11-27T13:00:00.000+09:00",
+  "collected_at": "2026-11-27T07:37:42.251Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

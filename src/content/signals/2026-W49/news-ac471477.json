@@ -1,0 +1,23 @@
+{
+  "id": "news-ac471477",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "1코노미뉴스",
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAzNDFKblRidEtiWUVYbk9ua2pSV0JCUG9ocUdEeFgyZ0VnM2htenVoWUl5aVVzMTNjYTdyTEotNlZ3Q3M5d0Rybjl6NUVJUG1OTnhaUG1EWEJ6cnZlUVhmb3VwR3BYWXdnSEl4QlFVRk4?oc=5",
+  "title": "ADT캡스, '2026 KBO 수비상' 시상…'지키는 힘' 브랜드 가치 연결",
+  "published_at": "2026-11-27T01:33:49.000Z",
+  "collected_at": "2026-11-27T07:37:42.251Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

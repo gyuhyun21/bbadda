@@ -1,0 +1,27 @@
+{
+  "id": "youtube-89b20930",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "BEARS TV",
+  "url": "https://www.youtube.com/watch?v=hzH0jqNkSfs",
+  "title": "\"두산베어스는 대한민국 에이스 보유 팀입니다\" 곽빈의 2026 KBO 시상식 비하인드✨ [베어스티비]",
+  "published_at": "2026-11-27T03:23:03Z",
+  "collected_at": "2026-11-27T07:37:42.251Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 30524,
+    "likes": 1151,
+    "comments": 162
+  },
+  "scores": {
+    "hot": 91,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

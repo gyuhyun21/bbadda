@@ -1,0 +1,26 @@
+{
+  "id": "youtube-8f0e6586",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "youtube",
+  "source_name": "라인업 떴다",
+  "url": "https://www.youtube.com/watch?v=Fu4S1wGbtKo",
+  "title": "두산 곽빈, 볼넷 37개 줄이고 KBO 트로피 세 개 들었다",
+  "published_at": "2026-11-27T03:30:16Z",
+  "collected_at": "2026-11-27T07:37:42.251Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1264,
+    "likes": 7,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 44,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

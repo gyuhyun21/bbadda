@@ -1,0 +1,30 @@
+{
+  "id": "instagram-29e287e3",
+  "issue": "2026-W49",
+  "module": "league",
+  "teams": [],
+  "source_type": "instagram",
+  "official": true,
+  "source_name": "Instagram @kbo.official",
+  "url": "https://www.instagram.com/p/DgPJUerqi_J/",
+  "title": "KBO 리그 공식 인스타그램: [크보피셜] 2026년 KBO Next-Level Training Camp 종료",
+  "published_at": "2026-11-27T07:29:51+0000",
+  "collected_at": "2026-11-27T07:37:42.251Z",
+  "summary_ko": "KBO 공식 인스타그램이 2026 KBO Next-Level Training Camp가 끝났다고 알렸다.",
+  "metrics": {
+    "likes": 288,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 76,
+    "relevance": 30
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "하나뉴스",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5kSnR1cnhLR0tQcVpYbEJDUzk4OFVmMEwzSE9EZVk1cHR2SkZoeWJwNC1xZmt0elFmaWlDMk01dGZicnh1Yl9hb0NUZWNTTno1cFVJVE1nUUNDMTBWUENpVXNXZ3gzQlMtbG8xR01R?oc=5"
+    }
+  ],
+  "brief_ko": "넥스트레벨 트레이닝캠프 종료"
+}

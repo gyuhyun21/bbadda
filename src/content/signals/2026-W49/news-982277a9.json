@@ -1,0 +1,24 @@
+{
+  "id": "news-982277a9",
+  "issue": "2026-W49",
+  "module": "rivalry",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "일간스포츠",
+  "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBkY0RSTmVUSFhKRXN1U2lhbzAyZHdTXzh1T0lZYVpsdEJIQVY2Y2xyd2hfNl9SeXBueUMzLWdIZXpsbXJLZW1mRXpIdjJ5aGU2WHhqbjVKblc0bG8?oc=5",
+  "title": "KS 우승 박진만 vs 90승·10연승의 이강철, 최고 감독상은? [마르디 메크르디 프로야구대상]",
+  "published_at": "2026-11-26T22:34:00.000Z",
+  "collected_at": "2026-11-27T07:37:42.251Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 73,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

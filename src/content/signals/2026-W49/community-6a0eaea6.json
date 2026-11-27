@@ -1,0 +1,23 @@
+{
+  "id": "community-6a0eaea6",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "다음카페 BMW Mania",
+  "url": "https://cafe.daum.net/lovebmw/3Dhs/159146",
+  "title": "[야구이야기] KBO출신 선수 해외진출..",
+  "published_at": "2026-11-27T12:45:31.000+09:00",
+  "collected_at": "2026-11-27T07:37:42.251Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "youtube-e2b7a922",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "youtube",
+  "source_name": "부산MBC뉴스",
+  "url": "https://www.youtube.com/watch?v=ZBCPFjRtU4Q",
+  "title": "롯데자이언츠, 빅터 레이예스와 총액 180만 달러 재계약",
+  "published_at": "2026-11-27T02:11:45Z",
+  "collected_at": "2026-11-27T07:37:42.251Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 2428,
+    "likes": 25,
+    "comments": 3
+  },
+  "scores": {
+    "hot": 52,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

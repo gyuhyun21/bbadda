@@ -1,0 +1,24 @@
+{
+  "id": "community-9587f9fe",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 Sunny’s record",
+  "url": "https://blog.naver.com/sunny_record/224493832263",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/H71RGDBmJpZ",
+  "title": "[KBO 크보 소식] 2026 KBO 시상식 수상자 명단 | MVP 김도영, 신인상 허인서",
+  "published_at": "2026-11-27T00:50:00.000+09:00",
+  "collected_at": "2026-11-27T07:37:42.251Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 62,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "community-e6efc0e0",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 지지투",
+  "url": "https://blog.naver.com/shining-25/224494717469",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/JEepMhh8WkU",
+  "title": "\"내 인생에 야구는 끝났구나\" 막노동하던 방출생... 최형우, 반지 7개 끼고 계약 마지막 1년 남았다",
+  "published_at": "2026-11-27T15:58:00.000+09:00",
+  "collected_at": "2026-11-27T07:37:42.251Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

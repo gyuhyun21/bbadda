@@ -1,0 +1,26 @@
+{
+  "id": "youtube-16b84125",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "youtube",
+  "source_name": "BNK경남은행",
+  "url": "https://www.youtube.com/watch?v=y_3NmBIXZZI",
+  "title": "NC 다이노스 자선카페 왔을 때 나이대별 선수 반응 #ncdinos #자선카페",
+  "published_at": "2026-11-27T06:49:39Z",
+  "collected_at": "2026-11-27T07:37:42.251Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 351,
+    "likes": 5,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 44,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}
