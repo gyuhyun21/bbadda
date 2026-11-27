@@ -1,0 +1,26 @@
+{
+  "id": "youtube-0a2e88be",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "youtube",
+  "source_name": "사직노래방",
+  "url": "https://www.youtube.com/watch?v=Qg1yNfLekJI",
+  "title": "롯데 필승조 기대되는 좌완 이영재 #롯데자이언츠 #롯데야구 #이영재",
+  "published_at": "2026-11-27T09:00:27Z",
+  "collected_at": "2026-11-27T13:37:31.999Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 2910,
+    "likes": 52,
+    "comments": 3
+  },
+  "scores": {
+    "hot": 58,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

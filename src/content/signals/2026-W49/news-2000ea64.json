@@ -1,0 +1,30 @@
+{
+  "id": "news-2000ea64",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "OhmyNews",
+  "url": "https://m.ohmynews.com/NWS_Web/Mobile/amp.aspx?CNTN_CD=A0003289145",
+  "title": "'KS MVP·타격 2관왕' 구자욱... 메이저리그에서도 통할까",
+  "published_at": "2026-11-27T09:20:00.000Z",
+  "collected_at": "2026-11-27T13:37:31.999Z",
+  "summary_ko": "오마이뉴스는 KS MVP이자 타격 2관왕인 FA 구자욱이 메이저리그에서도 통할지 짚었다.",
+  "metrics": {},
+  "scores": {
+    "hot": 82,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "오마이스타",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5uZnZuUDlFTWxfaXJ2Yk94aHU4NUIxNW1ycW1TRjhVWjdlMEhZZkRCTFBHd2NPeVFRek9JcVM3ZnFCUWFpcXptVDNYM0JwRU83NlN0djFPRm8zdEdnMDU2VHlobmRTZUY4X1RndjVxcXk3Q2NEd2xBS21zV2tXUQ?oc=5"
+    }
+  ],
+  "brief_ko": "구자욱, MLB에서도 통할까"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "youtube-2c5aea76",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "Giants TV",
+  "url": "https://www.youtube.com/watch?v=ZZsHVIIWask",
+  "title": "오늘은 우리가 응원 요정!🧚‍♂️ 학생들과 함께한 스쿨 치얼업 데이💪",
+  "published_at": "2026-11-27T12:00:02Z",
+  "collected_at": "2026-11-27T13:37:31.999Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 4904,
+    "likes": 393,
+    "comments": 39
+  },
+  "scores": {
+    "hot": 85,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

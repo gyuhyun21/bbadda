@@ -1,0 +1,24 @@
+{
+  "id": "news-c7528cb3",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "m.maniareport.com",
+  "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE42a2pSRVk3aXVRbjQ5ZkxJc1NrblVzel85ZDV2NWprZWRSVEZKU3VBVnRNMUdxRWVWZzYyUDkyT2pRRUNYRVJubHFmdTVzNkgzaTVlbFcwZFRUM2VUR3VXS1V3cHRMSGhmcHd2czd3anMxRWtKVkk4YnRWbw?oc=5",
+  "title": "'다시 협상 테이블' 김도영, MVP 재등극 후 또 한 번 대박 연봉 노린다",
+  "published_at": "2026-11-27T07:54:24.000Z",
+  "collected_at": "2026-11-27T13:37:31.999Z",
+  "summary_ko": "MVP를 다시 받은 김도영이 연봉 협상 테이블에 다시 앉는다. 마니아타임즈는 또 한 번 큰 폭의 인상을 노린다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "brief_ko": "MVP 김도영, 다시 연봉 협상"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "community-95416ec9",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung",
+    "doosan",
+    "ssg"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 뛰어뚱",
+  "url": "https://blog.naver.com/tmdwns00428/224494882239",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/9u7cx52BBYt",
+  "title": "\"삼성 잔류도 두산·SSG 이적도 아닐 수 있다??\" 타율 0.371 타격왕 구자욱, 미국 에이전트와 매일 연락...",
+  "published_at": "2026-11-27T18:50:00.000+09:00",
+  "collected_at": "2026-11-27T13:37:31.999Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "community-227352d4",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 야구디코더의 분석 리포트",
+  "url": "https://baseball-decoder.tistory.com/192",
+  "title": "[2026 KBO 스토브리그 데일리 리포트 #17] 미국 현지 \"노시환, 뉴욕 양키스·피츠버그 3루수 영입 대안...",
+  "published_at": "2026-11-27T22:02:34.000+09:00",
+  "collected_at": "2026-11-27T13:37:31.999Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

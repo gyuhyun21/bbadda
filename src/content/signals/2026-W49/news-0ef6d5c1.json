@@ -1,0 +1,22 @@
+{
+  "id": "news-0ef6d5c1",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "더코리아",
+  "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBNUmlfMm1meFVFeHpBdmlOZWpkeGNrWGV4RTY3MndpRGtNY2ROYTlGM3AwS195U05ld0xJMm9BeFBWSk5WeEVzTW02OA?oc=5",
+  "title": "17년 만에 깨진 KIA 거포 계보…김도영, 생애 첫 홈런왕 등극하며 3관왕 영예 > 뉴스",
+  "published_at": "2026-11-27T13:02:38.000Z",
+  "collected_at": "2026-11-27T13:37:31.999Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "community-30faaef6",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 그깟공노리",
+  "url": "https://blog.naver.com/kbo-fan/224495013239",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/CgEilZHYCfk",
+  "title": "야구 경기 성립 기준, 5회가 가르는 노히트노런 공식 인정 여부",
+  "published_at": "2026-11-27T21:03:00.000+09:00",
+  "collected_at": "2026-11-27T13:37:31.999Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

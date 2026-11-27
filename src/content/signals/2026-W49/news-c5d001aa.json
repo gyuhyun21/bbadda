@@ -1,0 +1,25 @@
+{
+  "id": "news-c5d001aa",
+  "issue": "2026-W49",
+  "module": "rivalry",
+  "team": "ssg",
+  "teams": [
+    "ssg",
+    "nc"
+  ],
+  "source_type": "news",
+  "source_name": "더게이트",
+  "url": "http://www.spochoo.com/news/articleView.html?idxno=132508",
+  "title": "구자욱 데려와도 거뜬한 SSG, 구자욱·원태인 다 잡아도 넉넉한 NC...10개 구단 샐러리캡 소진율 살펴보니",
+  "published_at": "2026-11-27T11:56:13.000Z",
+  "collected_at": "2026-11-27T13:37:31.999Z",
+  "summary_ko": "더게이트가 10개 구단 샐러리캡 소진율을 살폈다. SSG는 구자욱을 데려와도 여유가 있고, NC는 구자욱·원태인을 다 잡아도 넉넉하다고 봤다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 80
+  },
+  "sentiment": "neutral",
+  "brief_ko": "구자욱 와도 거뜬한 샐러리캡",
+  "hook_ko": "구자욱 와도 거뜬,\n샐러리캡 여유 팀은?"
+}

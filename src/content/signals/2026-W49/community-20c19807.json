@@ -1,0 +1,24 @@
+{
+  "id": "community-20c19807",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 s_duck_king님의 블로그",
+  "url": "https://blog.naver.com/s_duck_king/224494645401",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/7jsjrQoIZPw",
+  "title": "\"햄스트링 세 번에 연봉 반토막 났던 23세가 홈런왕+MVP로 돌아왔다\" 김도영 연봉 완전 분석",
+  "published_at": "2026-11-27T16:02:00.000+09:00",
+  "collected_at": "2026-11-27T13:37:31.999Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

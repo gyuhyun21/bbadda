@@ -1,0 +1,27 @@
+{
+  "id": "youtube-e46e395c",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "SSG랜더스",
+  "url": "https://www.youtube.com/watch?v=mZnSoF93Z3I",
+  "title": "KBO 시상식 가서 연예인 체험하고 온 쇼츠 푼다",
+  "published_at": "2026-11-27T09:20:41Z",
+  "collected_at": "2026-11-27T13:37:31.999Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 19127,
+    "likes": 1372,
+    "comments": 52
+  },
+  "scores": {
+    "hot": 93,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

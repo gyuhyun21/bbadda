@@ -1,0 +1,24 @@
+{
+  "id": "community-021ae05f",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 s_duck_king님의 블로그",
+  "url": "https://blog.naver.com/s_duck_king/224494933476",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/8KSeCOCNYLR",
+  "title": "\"도루왕 타이틀을 따고도 '이미 경쟁'이라고 말했다\" 황성빈이 스스로를 낮춘 이유",
+  "published_at": "2026-11-27T21:30:00.000+09:00",
+  "collected_at": "2026-11-27T13:37:31.999Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

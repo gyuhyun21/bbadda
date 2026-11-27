@@ -1,0 +1,26 @@
+{
+  "id": "youtube-1b1612fb",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "youtube",
+  "source_name": "夢桜 유매사쿠라",
+  "url": "https://www.youtube.com/watch?v=N1uh6pdDYEg",
+  "title": "【和訳】 두산베어스 강승호 응원가 ①",
+  "published_at": "2026-11-27T13:18:26Z",
+  "collected_at": "2026-11-27T13:37:31.999Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 204,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 28,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

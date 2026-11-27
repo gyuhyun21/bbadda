@@ -1,0 +1,26 @@
+{
+  "id": "youtube-31f9961d",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": " WOw 라이온즈",
+  "url": "https://www.youtube.com/watch?v=7wGQEbe24S8",
+  "title": "달려라 최강삼성#삼성라이온즈#라팍",
+  "published_at": "2026-11-27T12:52:30Z",
+  "collected_at": "2026-11-27T13:37:31.999Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 216,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 29,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

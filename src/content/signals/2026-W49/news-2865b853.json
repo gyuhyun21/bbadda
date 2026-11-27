@@ -1,0 +1,32 @@
+{
+  "id": "news-2865b853",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9yUzFfUGNvMlAzX18yYVFuS0lVOU9oZmVOd3BkZ0lUY3RPNnQweG1TSTVmd2FxdS0tOU55SWRITlNGeWNvR3ZxTHd5UnpDXzhyNlVYWTBzek4ySUstVG1OcFFBVjVxZGFMQW9BdUhySdIBb0FVX3lxTE9yUzFfUGNvMlAzX18yYVFuS0lVOU9oZmVOd3BkZ0lUY3RPNnQweG1TSTVmd2FxdS0tOU55SWRITlNGeWNvR3ZxTHd5UnpDXzhyNlVYWTBzek4ySUstVG1OcFFBVjVxZGFMQW9BdUhySQ?oc=5",
+  "title": "\"LG 투수들, 쫄지 말고 붙어라!\" 수비상 10명 중 3명, '트중박'이 외쳤다",
+  "published_at": "2026-11-27T07:55:27.000Z",
+  "collected_at": "2026-11-27T13:37:31.999Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 98,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB6dlpxLXRoN2N3eENkU0VvRko3cmRCWm9PZG9xSzh0NGtmVzJpS0N1X0xwWXNtU3lLQjlHS2d6MWFGRzZROWY1TGhWWlA3V08tYWNOWlpPQVZjSVhSUlJmZExIb1I1Y3c2ZHJCa05XaFNyUTVCVmc?oc=5"
+    },
+    {
+      "source_name": "네이트",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5lb1BFazBsNnJuUkNxdVFraDlfR3ZLZVlQODcyeTV5SlFXbnl5cVNld1UycExPdU9CZjQwbW1pZzhQTVQ2V0dQSlFEajh2QzVoYnJCWm1n?oc=5"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "community-4b1d45d9",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 GOAl취미",
+  "url": "https://blog.naver.com/sion3847/224494692695",
+  "title": "김사윤 은퇴, 22경기 연속 무실점 투수가 끝내 내려놓은 공",
+  "published_at": "2026-11-27T17:40:00.000+09:00",
+  "collected_at": "2026-11-27T13:37:31.999Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

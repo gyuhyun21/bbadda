@@ -1,0 +1,24 @@
+{
+  "id": "community-932a4705",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 마데베이스볼",
+  "url": "https://blog.naver.com/madebaseball/224493875529",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/J30RmnXJXhe",
+  "title": "[KBO] 45년 MVP 지도, 10개 구단 가운데 가장 적게 받은 팀은",
+  "published_at": "2026-11-27T19:00:00.000+09:00",
+  "collected_at": "2026-11-27T13:37:31.999Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

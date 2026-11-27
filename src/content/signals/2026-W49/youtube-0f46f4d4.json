@@ -1,0 +1,27 @@
+{
+  "id": "youtube-0f46f4d4",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "기아타이거즈 KIA TIGERS",
+  "url": "https://www.youtube.com/watch?v=M4Nt5Wy4v2k",
+  "title": "🏆MVP 포함 4관왕 김도영 & 퓨처스 승리상 김민재 🏆 [2026 KBO 시상식]",
+  "published_at": "2026-11-27T09:20:49Z",
+  "collected_at": "2026-11-27T13:37:31.999Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 77551,
+    "likes": 2561,
+    "comments": 282
+  },
+  "scores": {
+    "hot": 89,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

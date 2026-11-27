@@ -1,0 +1,26 @@
+{
+  "id": "youtube-58702cee",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "source_name": "루테라",
+  "url": "https://www.youtube.com/watch?v=Xx3t8CDsh8o",
+  "title": "이글스 정은원 요코하마 마캠 참여 역시 기본기 이더라 #한화이글스",
+  "published_at": "2026-11-27T10:45:34Z",
+  "collected_at": "2026-11-27T13:37:31.999Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 428,
+    "likes": 19,
+    "comments": 3
+  },
+  "scores": {
+    "hot": 72,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

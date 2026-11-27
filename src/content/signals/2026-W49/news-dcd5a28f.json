@@ -1,0 +1,22 @@
+{
+  "id": "news-dcd5a28f",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "대구MBC",
+  "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1hSUg3WE5kSG9rRkVNd09uQzJiNThaZkYzR2JYcW54ZjdxWDJ2SGxuMGNfMzRWZHppY09mcWlOb0x1RFY3TDQ1bG8wMlE?oc=5",
+  "title": "[삼성 V9-VAMOS LIONS 한국시리즈] 12년 만에 정상 등극, 라팍시대 첫 우승",
+  "published_at": "2026-11-27T06:47:22.000Z",
+  "collected_at": "2026-11-27T13:37:31.999Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 80
+  },
+  "sentiment": "positive"
+}

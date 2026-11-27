@@ -1,0 +1,32 @@
+{
+  "id": "news-e6266de9",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "한국사회복지저널",
+  "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9VMHlzemNVZUZLREpUd0FSSWFINHRXVnlPWTNxRXVxLTRLenhPN1p2MzZRUFF5cWFUUHV1QXdubGhSZzZUc1h6cEYwM3ZsSmFTdUZDNklzMnFuRnBpcUwwS0I2TXEzX3FSaEZj?oc=5",
+  "title": "[부고] 박정우 씨(프로야구 KIA 타이거즈 선수) 조모상",
+  "published_at": "2026-11-27T12:05:38.000Z",
+  "collected_at": "2026-11-27T13:37:31.999Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 83,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "퍼블릭타임스",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9DU25WemkxLU4xbnh4VlBfR1E5YTJXdk85c3ZmNjNKclA0Y2c5MEtrRGNDNldfcGhnYzE0a29NSkhsSnUzakRiZkpIUF9XcVRSVXhlaWdmMnZOdmh3bmo4enhtRUxuQUJpQXfSAW5BVV95cUxPMmVpUXBwY0ppUzdMUGM4TEJhYjB6aUxBUU1nRVZsb2pSWTg3Nlk3ME90MzJPZjVnNGVOT0Q1Z2dBbWdGU2JCbGxFV0F3TFJMOUFNZG9FYTJqVHQ4MVo4NjZPREJmTTFJSzdGRUdiQQ?oc=5"
+    },
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1MVU9KM0hVMXRJQnJZXzdLZllMQk82alZKUzN6cE1Cdl9aLUI3T3p1S1BmNVRuQUFhT05YTFdMSUVTZ2dhY0RoU1dRaFlOXzhtU1dWVjV5X3ZnSGFrNWQ2OFlFRG1nMW12UHfSAW9BVV95cUxNdlNRdW1OZ29KVnZpMDBpZmJRQXlzaFVVb0lvZ0tlYUpvbkZzdExPYzlwWEpRUTBCR2tjNHhLTVQwTFM4dlNZdUw2ZG9BLWVucTIwUk44M3dyeUVCc1hiSGtsdWNfXzVSM21EbFc4MFU?oc=5"
+    }
+  ]
+}
