@@ -1,0 +1,27 @@
+{
+  "id": "youtube-0bd202f2",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "NC 다이노스",
+  "url": "https://www.youtube.com/watch?v=MzosQRhwYhk",
+  "title": "공룡군단의 빛나는 순간 🏆 ㅣ 2026 KBO 시상식 비하인드",
+  "published_at": "2026-11-27T09:00:06Z",
+  "collected_at": "2026-11-27T13:37:31.999Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 4691,
+    "likes": 189,
+    "comments": 20
+  },
+  "scores": {
+    "hot": 81,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

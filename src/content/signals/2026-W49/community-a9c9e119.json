@@ -1,0 +1,24 @@
+{
+  "id": "community-a9c9e119",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 야구공작소 제임스리의 블로그",
+  "url": "https://blog.naver.com/wodnr2015/224485145150",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/2qv0ep1oO9g",
+  "title": "237.2026 KBO 틴즈 어워즈 선발투수 상",
+  "published_at": "2026-11-27T19:30:00.000+09:00",
+  "collected_at": "2026-11-27T13:37:31.999Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

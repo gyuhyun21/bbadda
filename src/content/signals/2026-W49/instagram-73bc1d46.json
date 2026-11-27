@@ -1,0 +1,26 @@
+{
+  "id": "instagram-73bc1d46",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "instagram",
+  "official": true,
+  "source_name": "Instagram @ncdinos2011",
+  "url": "https://www.instagram.com/p/DgPoVD3k_Zi/",
+  "title": "NC 다이노스 공식 인스타그램: 공룡 가족 맞이 준비",
+  "published_at": "2026-11-27T12:00:03+0000",
+  "collected_at": "2026-11-27T13:37:31.999Z",
+  "summary_ko": "",
+  "metrics": {
+    "likes": 3347,
+    "comments": 16
+  },
+  "scores": {
+    "hot": 67,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

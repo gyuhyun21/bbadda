@@ -1,0 +1,24 @@
+{
+  "id": "community-a81ef3c1",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&page=5&document_srl=10601812320",
+  "title": "다음주도 계약 안뜨면 어카냐? - 야구",
+  "published_at": "2026-11-27T10:37:31.999Z",
+  "collected_at": "2026-11-27T13:37:31.999Z",
+  "summary_ko": "",
+  "excerpt": "... SSG 랜더스 청라돔 우승 라인업. 12 분 전 자유 Sgreset 조회89. SSG 랜더스 청라돔…",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

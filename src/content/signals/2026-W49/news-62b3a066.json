@@ -1,0 +1,22 @@
+{
+  "id": "news-62b3a066",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "news",
+  "source_name": "노컷뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9KTl81NWhyU3pNTWk1d19GRVo4WDItZGJUNXdibTQ3cUVBSEdDR2JrUzBzMGVfNVprdlZveU9vUHhCbGt2LTF2NWtPdXBYaFVhSEE?oc=5",
+  "title": "한화 이글스, 달라지나…류지현호 '시스템 야구' 본격 시동",
+  "published_at": "2026-11-27T08:20:41.000Z",
+  "collected_at": "2026-11-27T13:37:31.999Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

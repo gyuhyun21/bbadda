@@ -1,0 +1,22 @@
+{
+  "id": "community-80f98d9e",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 주드의 야구이야기",
+  "url": "https://blog.naver.com/baseballjud/224494737431",
+  "title": "KBO 이야기ㅣNC는 돈쓰면 무조건 잡는다고? 원태인 잡고 우승도전?",
+  "published_at": "2026-11-27T16:13:00.000+09:00",
+  "collected_at": "2026-11-27T13:37:31.999Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "youtube-02f9e7ce",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "LGTWINSTV",
+  "url": "https://www.youtube.com/watch?v=1ymYtvQLQGk",
+  "title": "쫄지 말고 붙어! 시상식에서도 원팀 트윈스🏆✨ 2026 KBO 시상식 스케치 [엘코더]",
+  "published_at": "2026-11-27T08:30:15Z",
+  "collected_at": "2026-11-27T13:37:31.999Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 41075,
+    "likes": 1195,
+    "comments": 77
+  },
+  "scores": {
+    "hot": 81,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

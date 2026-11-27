@@ -1,0 +1,25 @@
+{
+  "id": "news-aafb1019",
+  "issue": "2026-W49",
+  "module": "rivalry",
+  "team": "lg",
+  "teams": [
+    "lg",
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "주간한국",
+  "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7195664",
+  "title": "“굿바이 잠실”…44년 역사에 남겨진 ‘야구’ 추억들",
+  "published_at": "2026-11-27T08:14:40.000Z",
+  "collected_at": "2026-11-27T13:37:31.999Z",
+  "summary_ko": "주간한국은 44년 역사의 잠실야구장에 남은 야구 추억을 돌아봤다.",
+  "metrics": {},
+  "scores": {
+    "hot": 82,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "굿바이 잠실, 44년의 추억"
+}

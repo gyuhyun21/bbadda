@@ -1,0 +1,24 @@
+{
+  "id": "community-6c1dee2d",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "엠엘비파크",
+  "url": "https://mlbpark.donga.com/mp/b.php?id=202611240120289449&p=91&b=kbotown&m=view&select=spf&query=SSG&site=donga.com",
+  "title": "랜더스 역대 순위별 횟수",
+  "published_at": "2026-11-23T15:00:00.000Z",
+  "collected_at": "2026-11-27T13:37:31.999Z",
+  "summary_ko": "",
+  "excerpt": "... * 2003년 페넌트레이스가 유일한 정규시즌 4위인데 준플 플옵 모두 업셋하면서 4위 기록이 없음. SSG…",
+  "metrics": {},
+  "scores": {
+    "hot": 34,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

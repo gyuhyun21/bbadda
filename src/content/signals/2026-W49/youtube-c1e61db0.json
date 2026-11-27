@@ -1,0 +1,26 @@
+{
+  "id": "youtube-c1e61db0",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "source_name": "크보시리즈",
+  "url": "https://www.youtube.com/watch?v=DkPbWONV2X8",
+  "title": "윈터리그 맹타 페라자, 한화와 재계약 할까? #한화이글스 #페라자",
+  "published_at": "2026-11-27T10:19:57Z",
+  "collected_at": "2026-11-27T13:37:31.999Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 738,
+    "likes": 1,
+    "comments": 4
+  },
+  "scores": {
+    "hot": 41,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "community-b7a43ac7",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha",
+    "doosan"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 오늘의 스포츠 직구",
+  "url": "https://blog.naver.com/thermdlkitchen/224493935273",
+  "title": "\"정수빈 영입 안합니다!\" 한화 이글스, 두산 레전드 단칼에 거절한 이유?",
+  "published_at": "2026-11-27T19:31:00.000+09:00",
+  "collected_at": "2026-11-27T13:37:31.999Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

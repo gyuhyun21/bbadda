@@ -1,0 +1,27 @@
+{
+  "id": "instagram-4b9eb811",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "instagram",
+  "official": true,
+  "source_name": "Instagram @heroesbaseballclub",
+  "url": "https://www.instagram.com/p/DgPhc23Eicy/",
+  "title": "키움 히어로즈 공식 인스타그램: SOS어린이마을과 함께한 사랑 나눔 행사❤️",
+  "published_at": "2026-11-27T11:00:13+0000",
+  "collected_at": "2026-11-27T13:37:31.999Z",
+  "summary_ko": "키움이 SOS어린이마을과 사랑 나눔 행사를 열었다고 공식 인스타그램에 알렸다.",
+  "metrics": {
+    "likes": 1471,
+    "comments": 28
+  },
+  "scores": {
+    "hot": 67,
+    "relevance": 50
+  },
+  "sentiment": "neutral",
+  "brief_ko": "SOS어린이마을과 사랑 나눔"
+}

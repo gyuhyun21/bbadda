@@ -1,0 +1,27 @@
+{
+  "id": "instagram-e744433e",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "instagram",
+  "official": true,
+  "source_name": "Instagram @ssglanders.incheon",
+  "url": "https://www.instagram.com/reel/DgPV_3-qiDt/",
+  "title": "SSG 랜더스 공식 인스타그램: KBO 시상식 가서 연예인 체험하고 온 릴스 푼다",
+  "published_at": "2026-11-27T09:21:23+0000",
+  "collected_at": "2026-11-27T13:37:31.999Z",
+  "summary_ko": "SSG 공식 인스타그램이 KBO 시상식에 다녀온 선수들의 현장 릴스를 올렸다.",
+  "metrics": {
+    "likes": 7690,
+    "comments": 75
+  },
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "시상식 '연예인 체험' 릴스"
+}

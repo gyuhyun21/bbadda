@@ -1,0 +1,24 @@
+{
+  "id": "community-84b3b158",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 블루벨 소식창고",
+  "url": "https://ohfam.tistory.com/66",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/4H5rqhU3N5D",
+  "title": "'왕의 귀환' 김도영 MVP, 최연소 두 번째 수상과 4관왕",
+  "published_at": "2026-11-27T21:00:29.000+09:00",
+  "collected_at": "2026-11-27T13:37:31.999Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

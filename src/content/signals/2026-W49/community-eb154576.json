@@ -1,0 +1,24 @@
+{
+  "id": "community-eb154576",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 러닝과 일상 사이",
+  "url": "https://blog.naver.com/runnlife/224494546591",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/HpiaYbULeON",
+  "title": "반토막 난 연봉에 MVP로 답했다, 김도영 내년 연봉은?",
+  "published_at": "2026-11-27T14:05:00.000+09:00",
+  "collected_at": "2026-11-27T13:37:31.999Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 65,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

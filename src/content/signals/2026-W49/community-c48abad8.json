@@ -1,0 +1,24 @@
+{
+  "id": "community-c48abad8",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 윤홈",
+  "url": "https://blog.naver.com/yoonhome88/224494804309",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/GqW6oZ6pDXb",
+  "title": "KBO 역대 MVP 최근 10년 총정리! 수상자 성적 한눈에 보기",
+  "published_at": "2026-11-27T17:28:00.000+09:00",
+  "collected_at": "2026-11-27T13:37:31.999Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

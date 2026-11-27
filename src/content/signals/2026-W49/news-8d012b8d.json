@@ -1,0 +1,23 @@
+{
+  "id": "news-8d012b8d",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "news",
+  "source_name": "MHN스포츠",
+  "url": "https://mhnse.com/news/articleView.html?idxno=1714485",
+  "title": "한화가 재계약 고민하는 사이…페라자, 고국서 3할대 맹타에 홈런포까지 ‘무력시위’",
+  "published_at": "2026-11-27T10:30:12.000Z",
+  "collected_at": "2026-11-27T13:37:31.999Z",
+  "summary_ko": "한화가 재계약을 고민하는 사이 페라자가 고국 리그에서 3할대 타율에 홈런까지 치고 있다고 MHN스포츠가 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "brief_ko": "페라자, 고국서 3할대 맹타"
+}

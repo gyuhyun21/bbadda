@@ -1,0 +1,26 @@
+{
+  "id": "community-8be70566",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "hanwha",
+    "lotte",
+    "nc"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 뛰어뚱",
+  "url": "https://blog.naver.com/tmdwns00428/224494867688",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/Bv8lIenYVOR",
+  "title": "KIA타이거즈 김호령, 한화와 롯데는 조용하고 NC는 원태인 영입에 집중한다는데 결국 KIA 잔류하나??",
+  "published_at": "2026-11-27T18:51:00.000+09:00",
+  "collected_at": "2026-11-27T13:37:31.999Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

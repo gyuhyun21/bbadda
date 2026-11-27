@@ -1,0 +1,24 @@
+{
+  "id": "community-6dc8dd26",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 스피드쌍절봉",
+  "url": "https://blog.naver.com/ssbfkorea/224494836904",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/AynYNmbx9vZ",
+  "title": "2026 골든글러브 시상식 총정리 (+후보, 예상 수상자, 중계)",
+  "published_at": "2026-11-27T17:30:00.000+09:00",
+  "collected_at": "2026-11-27T13:37:31.999Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

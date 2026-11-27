@@ -1,0 +1,23 @@
+{
+  "id": "news-aa91c3f2",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "일간스포츠",
+  "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9sVF9qSUxfd21VYnBhQ0tlZlJITDBZU19UMlpmZFZDV04tSU9ITnRPS0hQc1Joa0gwREpub0RXeVdWenlmcGNSMlNyRzZxYkM1VmdFVlFHZHBUVEU?oc=5",
+  "title": "'KBO 신인상' 허인서-'19홈런' 문정빈, 다시 한번 신인상 경쟁…박정민·김민준·장찬희도 경합 [마르디 메크르디 프로야구대상]",
+  "published_at": "2026-11-26T21:34:00.000Z",
+  "collected_at": "2026-11-27T13:37:31.999Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 62,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

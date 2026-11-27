@@ -1,0 +1,24 @@
+{
+  "id": "community-b1f2d876",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 재미있는 일만 하기에도 인생은 짧다",
+  "url": "https://blog.naver.com/ranma1215/224494839951",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/6JqzolNtYqO",
+  "title": "프로야구 시즌이 끝나면 선수들은 무엇을 할까?",
+  "published_at": "2026-11-27T17:33:00.000+09:00",
+  "collected_at": "2026-11-27T13:37:31.999Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

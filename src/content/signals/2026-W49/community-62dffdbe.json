@@ -1,0 +1,24 @@
+{
+  "id": "community-62dffdbe",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 야구공작소 제임스리의 블로그",
+  "url": "https://blog.naver.com/wodnr2015/224485148518",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/IdaV9owNJYb",
+  "title": "240.2026 KBO 틴즈 어워즈 신인왕",
+  "published_at": "2026-11-27T20:08:00.000+09:00",
+  "collected_at": "2026-11-27T13:37:31.999Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

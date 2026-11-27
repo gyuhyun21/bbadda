@@ -1,0 +1,24 @@
+{
+  "id": "community-9f1563b6",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 JS스포츠뉴스",
+  "url": "https://blog.naver.com/kickkickoff/224494861740",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/4MOWjZ2R4st",
+  "title": "구자욱 메이저리그 도전 성공 가능성은? FA 신분조회 美 평가",
+  "published_at": "2026-11-27T18:03:00.000+09:00",
+  "collected_at": "2026-11-27T13:37:31.999Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

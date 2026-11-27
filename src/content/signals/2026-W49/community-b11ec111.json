@@ -1,0 +1,23 @@
+{
+  "id": "community-b11ec111",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 핫이슈ㅣ프리핑",
+  "url": "https://blog.naver.com/byeon1004/224494799169",
+  "title": "2026 KBO 시상식 수상자 총정리, 김도영 MVP·허인서 신인왕",
+  "published_at": "2026-11-27T17:01:00.000+09:00",
+  "collected_at": "2026-11-27T13:37:31.999Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

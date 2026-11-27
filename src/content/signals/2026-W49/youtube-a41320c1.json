@@ -1,0 +1,26 @@
+{
+  "id": "youtube-a41320c1",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "youtube",
+  "source_name": "내꿈은롯데우승",
+  "url": "https://www.youtube.com/watch?v=qbsaupzeC-A",
+  "title": "한겨울 야구 예능 '진검승부'에 롯데 핵심 3명 차출 논란 #롯데자이언츠",
+  "published_at": "2026-11-27T11:00:32Z",
+  "collected_at": "2026-11-27T13:37:31.999Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 415,
+    "likes": 7,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 46,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

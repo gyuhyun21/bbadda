@@ -1,0 +1,24 @@
+{
+  "id": "community-4b27a9ad",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/10602081082",
+  "title": "아 양키즈 스타디움 가 보고 싶은 밤이네요. - 야구",
+  "published_at": "2026-11-27T11:37:31.999Z",
+  "collected_at": "2026-11-27T13:37:31.999Z",
+  "summary_ko": "",
+  "excerpt": "... 대구 삼성 라이온즈파크잖어.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

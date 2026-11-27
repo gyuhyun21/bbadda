@@ -1,0 +1,27 @@
+{
+  "id": "youtube-0f89efda",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "SSG랜더스",
+  "url": "https://www.youtube.com/watch?v=sXU7syjlbvM",
+  "title": "트로피 5개라는 게 숨긴다고 숨겨지는 것도 아니고…🏆🏆🏆🏆🏆 | 2026 KBO 시상식 비하인드",
+  "published_at": "2026-11-27T09:33:25Z",
+  "collected_at": "2026-11-27T13:37:31.999Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 27110,
+    "likes": 944,
+    "comments": 134
+  },
+  "scores": {
+    "hot": 86,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

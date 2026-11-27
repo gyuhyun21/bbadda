@@ -1,0 +1,23 @@
+{
+  "id": "news-44cfa875",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "더게이트",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5XTzZ5czlXN0hnWU9sZlJudHRTanJKYnRPSkJCdVVhMDdhUURMeXJ0ODR3emw1Z2NUb3RFbWZWOENRLUN4U2o1d3NkVUZ1ZXNuOWFXS04yM2dpYnZ3eUlsX1U1azF4a0dL0gFsQVVfeXFMUGozU0NGaVA3bGh4dDVaNmVQRTZVOWRseGxUVE82aHdPZGxpMy11NWdwREVsdHVqd2cyZERCWHFhYlpMMDVocjVTcTh2SjNrNk1Sa01WamF2Z1U3ZWxlSnZNSGN0T014Q2NWcHB1?oc=5",
+  "title": "“이 시기엔 말을 아껴야죠”…55도루에도 주전 자리 위험? 황성빈, 말보다 결과로 증명한다",
+  "published_at": "2026-11-27T07:58:53.000Z",
+  "collected_at": "2026-11-27T13:37:31.999Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

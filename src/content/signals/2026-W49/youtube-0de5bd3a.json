@@ -1,0 +1,27 @@
+{
+  "id": "youtube-0de5bd3a",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "크보쌍둥이",
+  "url": "https://www.youtube.com/watch?v=Pg8pK0vx1Xk",
+  "title": "현재 10구단 샐캡과 투자가능 금액은? FA 시장이 이해된다! #엘지트윈스 #삼성라이온즈 #기아타이거즈 #롯데자이언츠 #두산베어스 #ssg랜더스 #한화이글스",
+  "published_at": "2026-11-27T12:34:26Z",
+  "collected_at": "2026-11-27T13:37:31.999Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 635,
+    "likes": 22,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

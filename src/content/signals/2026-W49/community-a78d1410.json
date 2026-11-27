@@ -1,0 +1,23 @@
+{
+  "id": "community-a78d1410",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 지구에살어리랏다",
+  "url": "https://blog.naver.com/bae5271/224486187356",
+  "title": "허인서 포수 수비상, 20홈런을 친 시즌에 받은 17.24점은 어떻게 나왔을까요?",
+  "published_at": "2026-11-27T19:10:00.000+09:00",
+  "collected_at": "2026-11-27T13:37:31.999Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "youtube-8ee1eb9a",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "kt wiz - 위즈TV",
+  "url": "https://www.youtube.com/watch?v=iwBCSQ_2r4s",
+  "title": "kt wiz와 팬분들을 만난 건 가장 큰 행운입니다 | 2026 KBO 시상식 [위즈티비]",
+  "published_at": "2026-11-27T10:00:17Z",
+  "collected_at": "2026-11-27T13:37:31.999Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 7628,
+    "likes": 293,
+    "comments": 53
+  },
+  "scores": {
+    "hot": 84,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

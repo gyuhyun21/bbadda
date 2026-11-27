@@ -1,0 +1,23 @@
+{
+  "id": "news-7ec5a5a0",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "뉴스엔",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9SV1RkbWNqX2V3bXA1ZS1takNsY05JaXp6M0xEWmVidzZZUVJNYnJQVGFKdWFWYzVSVzF5c1hJR3lnWTRlUXZOVjhwM3ZsMjd0cEFfS3hTWEN2MkhzMFU0RjZDVXJIZ3dM?oc=5",
+  "title": "공수 모두 인정받은 신인왕 허인서 “도루저지 기록 가장 마음에 들어, 골든글러브 수상한다면..”",
+  "published_at": "2026-11-27T00:27:50.000Z",
+  "collected_at": "2026-11-27T13:37:31.999Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 63,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

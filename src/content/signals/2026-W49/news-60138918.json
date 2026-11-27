@@ -1,0 +1,24 @@
+{
+  "id": "news-60138918",
+  "issue": "2026-W49",
+  "module": "rivalry",
+  "team": "lg",
+  "teams": [
+    "lg",
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "소비자가 만드는 신문",
+  "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBpanlwWmYtU1BJNGhoSFJyaEFYTDNwWEVqQ01uRmczV1NPenFUbEpuV0RWMXJ3eWhUZGhTT2xYT0RQSi11aFpXWWpEVURYMzZfZDFuNGdvZmtHeGxnQzd5dDYydlRmU0FENUR6aXZwY3g0NWs?oc=5",
+  "title": "ADT캡스, 구본혁·곽빈·허인서 등 10명에 '2026 KBO 수비상' 수여",
+  "published_at": "2026-11-27T08:52:55.000Z",
+  "collected_at": "2026-11-27T13:37:31.999Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

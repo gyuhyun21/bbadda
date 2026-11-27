@@ -1,0 +1,23 @@
+{
+  "id": "community-f27021c5",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 스포츠 이슈 연구소",
+  "url": "https://blog.naver.com/opoloi180/224494907328",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/5EYS899fTLJ",
+  "title": "LG 오스틴 수비상 받고 시상식 불참, 그 이유 뭐길래",
+  "published_at": "2026-11-27T18:31:00.000+09:00",
+  "collected_at": "2026-11-27T13:37:31.999Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}
