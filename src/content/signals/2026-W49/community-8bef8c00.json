@@ -1,0 +1,24 @@
+{
+  "id": "community-8bef8c00",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 낭만트렌더 Y의 세상보기 & 쉼표 여행",
+  "url": "https://blog.naver.com/yhs4158/224496086850",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/CdrhXXPaEq8",
+  "title": "“23년 기다린 우승 반지” 유퀴즈온더블럭 최형우 강민호 비하인드",
+  "published_at": "2026-11-28T18:08:00.000+09:00",
+  "collected_at": "2026-11-28T09:37:38.772Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

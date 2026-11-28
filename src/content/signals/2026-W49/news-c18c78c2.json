@@ -1,0 +1,29 @@
+{
+  "id": "news-c18c78c2",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9NdFp5M0ZTTnloZV96SEJfU0gyVzA5NkJUdzFDYVdUUzFqWVZrcU1tT1k0cUtUb2pSeHZxMnlaRVRkZ19Ob2xJSnFnNENaWXd1TkxiS3ZHdFZySUhNUndEbjF5RlV5N1JxUFHSAW9BVV95cUxQX3Z6MlNZcmFxam43REcwYlVHdUxlMGQ0c0lmQXdiNEp2QkdLaFpMdHFjaEZKd2lOOUY5Z3JCTHlvTXlGQnpGMVpyQWtnN3k4RzY1V2RwR2J0MVpNSnFfRGF5cDJ5Y0RlSkVhczhFM28?oc=5",
+  "title": "[사진] 이호준 감독과 서재응 코치 유니폼 입은 박민우와 박건우",
+  "published_at": "2026-11-28T05:19:00.000Z",
+  "collected_at": "2026-11-28T09:37:38.772Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 82,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5nc2ZFeVhxUTJTNExXMnJIWjRNakVoN2lTZHVmMElld01WV2xhLV9PMTZhZHRYVmVRaVZwUl9BUmRCYXJGNjdLaUJpSmliOE55ZUVv?oc=5"
+    }
+  ]
+}

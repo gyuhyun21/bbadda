@@ -1,0 +1,24 @@
+{
+  "id": "community-b0429864",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "엠엘비파크",
+  "url": "https://mlbpark.donga.com/mp/b.php?id=202611190120219954&p=31&b=kbotown&m=view&site=naver.com&pos=reply",
+  "title": "타이거즈가 해태가 아닌 부자구단이였다면 우승횟수",
+  "published_at": "2026-11-18T00:00:00.000Z",
+  "collected_at": "2026-11-28T09:37:38.772Z",
+  "summary_ko": "",
+  "excerpt": "... 해태 아니고 처음부터 부자구단이라면 선수들 일본이나 타 구단에 팔지 않고 감독도 타팀 안갔으면 우승횟수…",
+  "metrics": {},
+  "scores": {
+    "hot": 8,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

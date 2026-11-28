@@ -1,0 +1,24 @@
+{
+  "id": "community-46a24000",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&document_srl=10604318439",
+  "title": "ROY대전 직관후기 - 야구",
+  "published_at": "2026-11-28T08:50:38.772Z",
+  "collected_at": "2026-11-28T09:37:38.772Z",
+  "summary_ko": "",
+  "excerpt": "... NC창단 15주년에 레전드 선수들도 온다길래 울산에서 버스타고 갔음. 표 지류로 뽑고 경기봤는데 애국가 부터…",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

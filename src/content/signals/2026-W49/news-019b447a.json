@@ -1,0 +1,24 @@
+{
+  "id": "news-019b447a",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스타뉴스",
+  "url": "https://www.starnewskorea.com/sports/2026/11/28/2026112817151482149",
+  "title": "韓야구만 비보! '307억 이미 확보' 노시환만 감감무소식→'日포스팅 3인방' 전원 계약",
+  "published_at": "2026-11-28T09:15:00.000Z",
+  "collected_at": "2026-11-28T09:37:38.772Z",
+  "summary_ko": "일본 포스팅 3명이 모두 계약을 마쳤지만 노시환은 아직 소식이 없다고 스타뉴스가 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 100,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "日 3인방 계약, 노시환만 감감"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-f5775714",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠경향",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAyTHFUcDdYcUNBbGJBaGxieFZDRWlzdFVhMUt2am5kR3dGYmRadFpyNFFBbEFLZ2VWVEJZS3FFeEtubXNGN29lc3ZQd3NTbG1pWVJwWHdqX1FxVVRPbVA3WVpRY9IBY0FVX3lxTFAyTHFUcDdYcUNBbGJBaGxieFZDRWlzdFVhMUt2am5kR3dGYmRadFpyNFFBbEFLZ2VWVEJZS3FFeEtubXNGN29lc3ZQd3NTbG1pWVJwWHdqX1FxVVRPbVA3WVpRYw?oc=5",
+  "title": "[스경X현장]정수빈·박치국 바라보는 선후배들 “좋은 계약 맺었으면”",
+  "published_at": "2026-11-28T06:48:00.000Z",
+  "collected_at": "2026-11-28T09:37:38.772Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

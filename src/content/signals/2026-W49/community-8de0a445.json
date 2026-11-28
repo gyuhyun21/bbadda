@@ -1,0 +1,24 @@
+{
+  "id": "community-8de0a445",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 스포타임",
+  "url": "https://blog.naver.com/hskim_2019/224495793069",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/EdonsYqu8cW",
+  "title": "\"레이예스 180만 달러 1위?\" KBO 역대 가장 비쌌던 외국인 선수.. 계약금 연봉 순위",
+  "published_at": "2026-11-28T15:57:00.000+09:00",
+  "collected_at": "2026-11-28T09:37:38.772Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

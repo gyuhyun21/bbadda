@@ -1,0 +1,30 @@
+{
+  "id": "news-6e0168e2",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://www.mt.co.kr/amp/sports/2026/11/28/202611281627773325O",
+  "title": "'투수 박민우vs타자 이재학' 맞대결-'개국공신' 조영훈 코치 맹타...'ROY 대전' NC 15년 역사, 1만4137명 함께 즐겼다 [오!쎈 창원]",
+  "published_at": "2026-11-28T07:49:00.000Z",
+  "collected_at": "2026-11-28T09:37:38.772Z",
+  "summary_ko": "NC 15주년 'ROY 대전'에서 투수 박민우와 타자 이재학이 맞붙었고, 창단 멤버 조영훈 코치가 맹타를 휘둘렀다고 머니투데이가 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUUsyWEJNOXgwS1dGX0l4ZVBhTWpxelpmbmFTWWZyRDlMV3lHVnhlVmtJS0xoLUs2cUVLR2dMNjM3ZWtJWU9yS2RJUUdFSXVPYS1xd2lXWFBuUGQyWTFnelQ2UXZSbnAzcUdSbWktcFI0X3p3ay16TkRaTXJ6c1JEQ3hPYw?oc=5"
+    }
+  ],
+  "brief_ko": "투수 박민우 vs 타자 이재학",
+  "hook_ko": "투수 박민우,\n타자 이재학?"
+}

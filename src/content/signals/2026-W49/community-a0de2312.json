@@ -1,0 +1,23 @@
+{
+  "id": "community-a0de2312",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 밥먹고 야구만 보는 밥야구",
+  "url": "https://blog.naver.com/babbaseball/224495262864",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/BZGyO3g6PX6",
+  "title": "“마이너 100홈런인데 빅리그에선 타율 0.171” SSG 리스 하인즈 영입설, 에레디아 이후 타선에 맞을까?",
+  "published_at": "2026-11-28T13:10:00.000+09:00",
+  "collected_at": "2026-11-28T09:37:38.772Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

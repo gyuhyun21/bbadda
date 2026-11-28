@@ -1,0 +1,23 @@
+{
+  "id": "community-e5e004a6",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 오늘의 라커룸",
+  "url": "https://blog.naver.com/demiyum/224495596481",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/FcTOQk4HD3g",
+  "title": "롯데 레이예스 재계약 170만 달러 제시 보도, 외국인 타자 역대 최고 200만 달러에 닿을까?",
+  "published_at": "2026-11-28T16:40:00.000+09:00",
+  "collected_at": "2026-11-28T09:37:38.772Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

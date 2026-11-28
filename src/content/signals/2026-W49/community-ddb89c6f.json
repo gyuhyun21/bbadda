@@ -1,0 +1,24 @@
+{
+  "id": "community-ddb89c6f",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 반듯한 살림",
+  "url": "https://blog.naver.com/chogang_4/224495859855",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/HrSqHMGQKVR",
+  "title": "민우 재학 감독 선발명단, 11시30분 입장 전에 챙길 것",
+  "published_at": "2026-11-28T14:09:00.000+09:00",
+  "collected_at": "2026-11-28T09:37:38.772Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "news-2222a53c",
+  "issue": "2026-W49",
+  "module": "rivalry",
+  "team": "lg",
+  "teams": [
+    "lg",
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "마이데일리",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9sTlE5c3llMGt0X0M1UUR0TXBiQ21DQngtOU02NDR5dWdqcXRIdEFNTlAxUU42QmlRQmxPOXcwSEktWUd5SDRkZENoTmNZWXVBNElPZUhna0lHcl9velJBdg?oc=5",
+  "title": "“韓돌아가겠다는 얘기를 한번도 한 적이 없는데…” 고우석 3년의 마이너 생활, 야구인생에 피와 살이 됐던 시간",
+  "published_at": "2026-11-28T06:30:00.000Z",
+  "collected_at": "2026-11-28T09:37:38.772Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 83,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

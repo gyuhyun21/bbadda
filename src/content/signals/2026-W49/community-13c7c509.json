@@ -1,0 +1,24 @@
+{
+  "id": "community-13c7c509",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&page=6&document_srl=10603772698",
+  "title": "히로미쿤.. - 야구",
+  "published_at": "2026-11-28T05:37:38.772Z",
+  "collected_at": "2026-11-28T09:37:38.772Z",
+  "summary_ko": "",
+  "excerpt": "... SSG 랜더스, 리스 하인즈 대신 리스 제임스 영입 [32]. 11.28 허언 에스에스지랜더스 조회4659 추천42.…",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

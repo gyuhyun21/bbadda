@@ -1,0 +1,24 @@
+{
+  "id": "community-9392aa91",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 마데베이스볼",
+  "url": "https://blog.naver.com/madebaseball/224495194498",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/FLZgM4mhE17",
+  "title": "‘세이브왕에 3할 타자였다’ 방출 뒤 2군 구단에서 다시 1군을 기다리는 선수",
+  "published_at": "2026-11-28T13:45:00.000+09:00",
+  "collected_at": "2026-11-28T09:37:38.772Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "negative"
+}

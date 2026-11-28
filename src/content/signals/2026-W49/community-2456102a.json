@@ -1,0 +1,30 @@
+{
+  "id": "community-2456102a",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/10603823633",
+  "title": "[ROY대전] 정진기의 타구는 호텔 같은 인사이드 더 파크 홈런!!!!! - 야구",
+  "published_at": "2026-11-28T05:37:38.772Z",
+  "collected_at": "2026-11-28T09:37:38.772Z",
+  "summary_ko": "",
+  "excerpt": "... SSG 랜더스, 리스 하인즈 대신 리스 제임스 영입 [32]. 11.28 허언 에스에스지랜더스 조회4659 추천42.…",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBNYkNCZ24wMzNVYU56V2s5UUFBOVhLNVMxZVlaSFJnQktybzZPRWlmcXZhNlZnNk1NdkJtYVVMbEFUVncyZ1BsTlY5bEhfMGVyc293?oc=5"
+    }
+  ]
+}

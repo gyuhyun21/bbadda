@@ -1,0 +1,26 @@
+{
+  "id": "youtube-b1ccca98",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "source_name": "윈블",
+  "url": "https://www.youtube.com/watch?v=fsWZuoh5dvs",
+  "title": "류지현 한화 감독 정수빈 선호 반전! 진짜 뜻은?",
+  "published_at": "2026-11-28T06:55:03Z",
+  "collected_at": "2026-11-28T09:37:38.772Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 781,
+    "likes": 7,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 42,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

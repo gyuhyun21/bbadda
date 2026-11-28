@@ -1,0 +1,26 @@
+{
+  "id": "youtube-a3a5290d",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "youtube",
+  "source_name": "버저비터",
+  "url": "https://www.youtube.com/watch?v=dwXHFiqRt-Q",
+  "title": "안현민 영어 실수... 타점왕한테 언제 그만둬? ㄷㄷ (안현민 힐리어드 KT 재계약)",
+  "published_at": "2026-11-28T09:16:03Z",
+  "collected_at": "2026-11-28T09:37:38.772Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 23,
+    "likes": 1,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 57,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

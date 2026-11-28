@@ -1,0 +1,24 @@
+{
+  "id": "community-e21e7f48",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 벤송이의 Daily",
+  "url": "https://blog.naver.com/kungoo88/224495729523",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/2Q9kNIw1J7U",
+  "title": "KBO 미친 몸값 자랑하는 원태인 4년 160억 일본 진출 가능성은 얼마나",
+  "published_at": "2026-11-28T14:00:00.000+09:00",
+  "collected_at": "2026-11-28T09:37:38.772Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

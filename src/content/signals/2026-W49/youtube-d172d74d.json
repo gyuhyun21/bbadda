@@ -1,0 +1,26 @@
+{
+  "id": "youtube-d172d74d",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "함바로그",
+  "url": "https://www.youtube.com/watch?v=rkbvx1kESE8",
+  "title": "대구의 흔한 고깃집 사장님 강민호 #강민호 #삼성라이온즈 #강식당",
+  "published_at": "2026-11-28T08:15:10Z",
+  "collected_at": "2026-11-28T09:37:38.772Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 840,
+    "likes": 11,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 46,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

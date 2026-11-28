@@ -1,0 +1,24 @@
+{
+  "id": "community-89db673d",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 오늘의 장면",
+  "url": "https://blog.naver.com/succesetime/224495160489",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/45IE3sijw8I",
+  "title": "일본서 지명 못 받았던 투수, 한국 홀드왕 됐다…스기모토가 소프트뱅크로 가는 길",
+  "published_at": "2026-11-28T16:30:00.000+09:00",
+  "collected_at": "2026-11-28T09:37:38.772Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

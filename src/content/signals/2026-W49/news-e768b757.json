@@ -1,0 +1,23 @@
+{
+  "id": "news-e768b757",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "news",
+  "source_name": "www.xportsnews.com",
+  "url": "https://www.xportsnews.com/article/2224051",
+  "title": "'이럴 수가' 80억 유격수, KIA 김도영 SS 전환에 한숨 왜?→\"황소개구리 생태계 파괴…골든글러브 타볼까 했더니\" [잠실 현장]",
+  "published_at": "2026-11-28T08:21:34.000Z",
+  "collected_at": "2026-11-28T09:37:38.772Z",
+  "summary_ko": "엑스포츠뉴스는 '80억 유격수'가 김도영의 유격수 전환에 '황소개구리 생태계 파괴'라며 한숨을 쉬었다고 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "\"황소개구리\" 김도영 유격수行"
+}

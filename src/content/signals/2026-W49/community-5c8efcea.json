@@ -1,0 +1,23 @@
+{
+  "id": "community-5c8efcea",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 윤슬의 일상과 맛집",
+  "url": "https://blog.naver.com/j_h_daily/224495886712",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/INBPt33PvmI",
+  "title": "불꽃야구 시즌2 시빌 워 대호 파이터즈 와일드카드 공개 | 롯데자이언츠 한동희 선수",
+  "published_at": "2026-11-28T14:37:00.000+09:00",
+  "collected_at": "2026-11-28T09:37:38.772Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

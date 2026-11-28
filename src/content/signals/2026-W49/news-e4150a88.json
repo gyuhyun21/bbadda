@@ -1,0 +1,23 @@
+{
+  "id": "news-e4150a88",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "마이데일리",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE14RHZPQzVIdWhyWldCd2psWkRYb1lOM1JSMlZIZW9KLWlwbDNaXzBYQ19UV2d0enFKaHozZzNGaXpCNTFIYThBajJPRGhwNVlJZ25KTUJ3RWZ6emNwR2xyeQ?oc=5",
+  "title": "결국 잠실 마지막 함께하지 못했다, FA 정수빈·박치국 향한 박찬호의 진심 \"이왕이면 남았으면 좋겠지만…\" [MD잠실]",
+  "published_at": "2026-11-28T05:44:56.000Z",
+  "collected_at": "2026-11-28T09:37:38.772Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

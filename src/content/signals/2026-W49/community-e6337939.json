@@ -1,0 +1,23 @@
+{
+  "id": "community-e6337939",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 kodStockCoin[주식,코인차트분석]",
+  "url": "https://blog.naver.com/kodlandman2026/224495630044",
+  "title": "KBO 연봉 순위 총정리! 양의지 42억·노시환 307억, 2027년 FA 대박 주인공은?",
+  "published_at": "2026-11-28T12:30:00.000+09:00",
+  "collected_at": "2026-11-28T09:37:38.772Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

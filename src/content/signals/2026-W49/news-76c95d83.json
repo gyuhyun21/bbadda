@@ -1,0 +1,29 @@
+{
+  "id": "news-76c95d83",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "news",
+  "source_name": "OSEN",
+  "url": "http://www.osen.co.kr/article/G1112916159",
+  "title": "'와' 1만4000명 운집! NC 15주년 ROY 대전 개봉박두, \"단순 이벤트 매치 이상\"...53승 에이스’ 루친스키 선발-구창모 깜짝 중견수 [오!쎈 창원]",
+  "published_at": "2026-11-28T03:46:00.000Z",
+  "collected_at": "2026-11-28T09:37:38.772Z",
+  "summary_ko": "NC 15주년 'ROY 대전'에 1만4000명이 몰렸다고 OSEN이 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE40aDVyQW1lQlc5WWVrZFhKUkNWVU1wS2xYdVR4S05XOHJaZDdWWUY3STdZVDgwOWg4TVdFYXI0Tk9rV2FsTXhLaTgzTEhfQktyY2VDMkQyMmUwNWFsSzUwRjEwT3BvR1lIbGwxWkg0ONIBb0FVX3lxTE40aDVyQW1lQlc5WWVrZFhKUkNWVU1wS2xYdVR4S05XOHJaZDdWWUY3STdZVDgwOWg4TVdFYXI0Tk9rV2FsTXhLaTgzTEhfQktyY2VDMkQyMmUwNWFsSzUwRjEwT3BvR1lIbGwxWkg0OA?oc=5"
+    }
+  ],
+  "brief_ko": "ROY 대전에 1만4000명"
+}
