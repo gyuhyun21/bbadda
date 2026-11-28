@@ -1,0 +1,70 @@
+{
+  "music": "bgm-morning",
+  "segments": [
+    {
+      "src": "clip1.mp4",
+      "from": 0,
+      "to": 6,
+      "credit": "NC 다이노스",
+      "yt": "cYxJyRPZlZ4",
+      "kick": "NC 15주년 ROY 대전",
+      "head": "2루수가 던지고<br><b>투수가 쳤다</b>",
+      "sub": "투수 박민우 vs 타자 이재학",
+      "note": "출처: 머니투데이·OSEN(2026-11-28) · 영상: NC 다이노스(2026-11-28)",
+      "say": "a1.mp3",
+      "text": "엔씨 이루수 박민우가 마운드에 서고, 투수 이재학이 타석에 섰어."
+    },
+    {
+      "src": "motion1.mp4",
+      "kind": "motion",
+      "template": "stat",
+      "props": {
+        "value": "14,137",
+        "unit": "명",
+        "label": "비시즌 이벤트 경기 관중",
+        "prefix": "11월 28일 창원NC파크"
+      },
+      "kick": "11월, 시즌 끝난 뒤",
+      "head": "이벤트 경기에<br><b>1만4137명</b>",
+      "sub": "비시즌 창원NC파크에 1만4137명",
+      "note": "출처: 머니투데이(1만4137명)·OSEN(1만4000명)(2026-11-28)",
+      "say": "a2.mp3",
+      "text": "비시즌 십일월인데, 창원에 만 사천백삼십칠 명이 왔어."
+    },
+    {
+      "src": "motion2.mp4",
+      "kind": "motion",
+      "template": "quiz",
+      "props": {
+        "clues": ["NC 창단 멤버", "지금은 NC 코치", "이날 야수 MVP"],
+        "answer": "조영훈",
+        "revealAt": 3
+      },
+      "kick": "3초 퀴즈",
+      "head": "이날 MVP는<br><b>현역이 아니다</b>",
+      "sub": "야수 MVP는 창단 멤버 조영훈 코치",
+      "note": "출처: OSEN·네이트스포츠·머니투데이(2026-11-28)",
+      "say": "a3.mp3",
+      "text": "이날 야수 엠브이피는 현역이 아니었어. 창단 멤버, 조영훈 코치야."
+    },
+    {
+      "src": "clip2.mp4",
+      "from": 0,
+      "to": 6,
+      "credit": "LydenVaro",
+      "yt": "UkswjvpbOWM",
+      "kick": "결과",
+      "head": "팀 재학<br><b>1점 차 승리</b>",
+      "sub": "이재학 감독 팀이 1점 차로 이겼다",
+      "note": "출처: 네이트스포츠·OSEN(2026-11-28) · 영상: LydenVaro(2026-11-28)",
+      "say": "a4.mp3",
+      "text": "경기는 이재학 감독 팀이 한 점 차로 이겼어."
+    }
+  ],
+  "end": {
+    "kick": "NC 창단 15주년 ROY 대전",
+    "head": "이 경기<br><b>매년 보고 싶다?</b>",
+    "cta": "NC팬 친구한테 보내 줘",
+    "say": "a5.mp3"
+  }
+}
