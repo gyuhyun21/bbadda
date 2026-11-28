@@ -1,0 +1,24 @@
+{
+  "id": "community-ead20e10",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 I storm",
+  "url": "https://blog.naver.com/glukun/224494806912",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/Gj5AlHWH4fi",
+  "title": "2027년 외국인 용병 계약 현황 레이예스 잔류 디아즈, 페라자, 힐리어드는 어떻게 되나?",
+  "published_at": "2026-11-28T00:19:00.000+09:00",
+  "collected_at": "2026-11-28T03:37:53.713Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

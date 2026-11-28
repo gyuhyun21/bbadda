@@ -1,0 +1,27 @@
+{
+  "id": "youtube-584de90a",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "에디_",
+  "url": "https://www.youtube.com/watch?v=0ojo_iincEg",
+  "title": "랜더스개막기다리고기다리는여자의 굿즈소개 영상",
+  "published_at": "2026-11-27T14:21:31Z",
+  "collected_at": "2026-11-28T03:37:53.713Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 38,
+    "likes": 2,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 64,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

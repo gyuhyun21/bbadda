@@ -1,0 +1,27 @@
+{
+  "id": "youtube-6baa1bf5",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "더그아웃토크",
+  "url": "https://www.youtube.com/watch?v=Cvb4FyzxXKo",
+  "title": "1회부터 퇴장 당하는 감독 #야구",
+  "published_at": "2026-11-28T01:00:25Z",
+  "collected_at": "2026-11-28T03:37:53.713Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1773,
+    "likes": 17,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 57,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

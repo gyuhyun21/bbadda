@@ -1,0 +1,24 @@
+{
+  "id": "community-850813df",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 스포링크",
+  "url": "https://blog.naver.com/link_wow/224495620852",
+  "image": "https://search3.kakaocdn.net/argon/130x130_85_c/8Bz3apZAjDk",
+  "title": "45홈런에 4관왕 휩쓴 23세 MVP, 이승엽이 세웠던 기록까지 갈아치웠다",
+  "published_at": "2026-11-28T10:23:00.000+09:00",
+  "collected_at": "2026-11-28T03:37:53.713Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

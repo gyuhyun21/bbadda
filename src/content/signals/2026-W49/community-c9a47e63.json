@@ -1,0 +1,23 @@
+{
+  "id": "community-c9a47e63",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 내러티브.",
+  "url": "https://blog.naver.com/narrativedot/224495519339",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/3sIzpOs08Vj",
+  "title": "키움 히어로즈 하현승, 과연 한국의 오타니가 될 수 있을까?",
+  "published_at": "2026-11-28T08:35:00.000+09:00",
+  "collected_at": "2026-11-28T03:37:53.713Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

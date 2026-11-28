@@ -1,0 +1,24 @@
+{
+  "id": "community-e0d130db",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&document_srl=10601727999",
+  "title": "강정호 김하성 크보 마지막 시즌 스탯 - 야구",
+  "published_at": "2026-11-27T09:37:53.713Z",
+  "collected_at": "2026-11-28T03:37:53.713Z",
+  "summary_ko": "",
+  "excerpt": "... 한화; 6. 대문 +1; 7. 자욱 -3; 8. 원태인; 9. 태인; 10. 쓱 new;…",
+  "metrics": {},
+  "scores": {
+    "hot": 62,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

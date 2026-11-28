@@ -1,0 +1,23 @@
+{
+  "id": "community-3cb1a86e",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 ISSUE CABINET님의 블로그",
+  "url": "https://blog.naver.com/issuecabinet/224494379883",
+  "title": "방출당해 막노동까지 했던 최형우, 결국 우승반지만 7개인 선수가 됐다",
+  "published_at": "2026-11-28T09:46:00.000+09:00",
+  "collected_at": "2026-11-28T03:37:53.713Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "mixed"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "community-2d4327de",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 이꾼블로그",
+  "url": "https://info.ekunblog.com/24",
+  "title": "[디트로이트 김하성] 1년 500만달러 계약, FA 재도전 몸값은",
+  "published_at": "2026-11-28T12:16:46.000+09:00",
+  "collected_at": "2026-11-28T03:37:53.713Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

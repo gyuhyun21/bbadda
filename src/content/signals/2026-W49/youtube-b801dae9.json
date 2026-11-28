@@ -1,0 +1,26 @@
+{
+  "id": "youtube-b801dae9",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "able",
+  "url": "https://www.youtube.com/watch?v=ZNK7zOYFO1Y",
+  "title": "수비상2회출신 #기아타이거즈 #김호령 #홍창기  홍창기",
+  "published_at": "2026-11-28T02:32:39Z",
+  "collected_at": "2026-11-28T03:37:53.713Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 250,
+    "likes": 4,
+    "comments": 2
+  },
+  "scores": {
+    "hot": 56,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

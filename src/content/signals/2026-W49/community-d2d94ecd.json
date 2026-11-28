@@ -1,0 +1,23 @@
+{
+  "id": "community-d2d94ecd",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 BoxScore",
+  "url": "https://blog.naver.com/today_sportskr/224495478576",
+  "title": "\"이승엽보다 빨랐네?\" 김도영 MVP 두 번째 최연소 기록 공개! 벌써 이렇게 빠르네요",
+  "published_at": "2026-11-28T10:00:00.000+09:00",
+  "collected_at": "2026-11-28T03:37:53.713Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

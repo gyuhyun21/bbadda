@@ -1,0 +1,26 @@
+{
+  "id": "youtube-f9d37fbd",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "source_type": "youtube",
+  "source_name": "재린이",
+  "url": "https://www.youtube.com/watch?v=7h0749n1LH0",
+  "title": "#기아타이거즈 #baseball #야구 #kia #kiatigers #기아 #프로야구 #타이거즈 #김민규#요즘 바쁜가봐#도루#안타#등장곡",
+  "published_at": "2026-11-28T00:41:10Z",
+  "collected_at": "2026-11-28T03:37:53.713Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 356,
+    "likes": 1,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 41,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

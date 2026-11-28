@@ -1,0 +1,24 @@
+{
+  "id": "community-826db56b",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 인물, 시사 뉴스",
+  "url": "https://2blogin.tistory.com/298",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/GldNzSm3xmQ",
+  "title": "이승엽 프로필 모든 것 선수 기록부터 요미우리 코치 활동까지",
+  "published_at": "2026-11-28T08:55:15.000+09:00",
+  "collected_at": "2026-11-28T03:37:53.713Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

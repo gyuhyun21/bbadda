@@ -1,0 +1,24 @@
+{
+  "id": "community-fadec15d",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 한끼방패|선수의 내일을 만든다",
+  "url": "https://blog.naver.com/gnamja_olila/224495470126",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/A72n3ugQtSD",
+  "title": "게릿 콜에게 홈런 친 컵스 유망주' 세이브왕에서 다시 타자로, 하재훈 (KBO)",
+  "published_at": "2026-11-28T08:00:00.000+09:00",
+  "collected_at": "2026-11-28T03:37:53.713Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

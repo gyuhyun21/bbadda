@@ -1,0 +1,22 @@
+{
+  "id": "community-d40ac738",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 꿀밤토리",
+  "url": "https://kkulbamtori.tistory.com/15",
+  "title": "인천 SSG랜더스필드 직관 가이드, 주차·교통·좌석 한 번에 정리",
+  "published_at": "2026-11-28T09:00:54.000+09:00",
+  "collected_at": "2026-11-28T03:37:53.713Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

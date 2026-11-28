@@ -1,0 +1,26 @@
+{
+  "id": "youtube-bec4be2f",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "source_type": "youtube",
+  "source_name": "자이언츠백서",
+  "url": "https://www.youtube.com/watch?v=Xb_yIR8XK6E",
+  "title": "박승욱, 선발표 밖의 역할 #롯데자이언츠",
+  "published_at": "2026-11-28T01:15:17Z",
+  "collected_at": "2026-11-28T03:37:53.713Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1183,
+    "likes": 14,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 57,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

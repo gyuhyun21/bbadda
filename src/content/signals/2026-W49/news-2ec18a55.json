@@ -1,0 +1,24 @@
+{
+  "id": "news-2ec18a55",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "OSEN",
+  "url": "https://www.osen.co.kr/article/G1112916150",
+  "title": "‘TEAM 민우’ 박민우 감독과 ‘TEAM 재학’ 이재학 감독, 선발 라인업 정했어요",
+  "published_at": "2026-11-28T03:29:00.000Z",
+  "collected_at": "2026-11-28T03:37:53.713Z",
+  "summary_ko": "NC 15주년 ROY대전에서 'TEAM 민우' 박민우와 'TEAM 재학' 이재학이 감독을 맡아 선발 라인업을 정했다고 OSEN이 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "ROY대전 박민우·이재학 감독"
+}

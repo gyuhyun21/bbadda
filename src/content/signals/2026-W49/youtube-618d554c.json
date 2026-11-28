@@ -1,0 +1,26 @@
+{
+  "id": "youtube-618d554c",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "youtube",
+  "source_name": "마이 기아 | 크보 팬 페이지",
+  "url": "https://www.youtube.com/watch?v=BcK7n_kMRnI",
+  "title": "[응원가] 두산 베어스 내야수 박찬호 응원가 박자편집",
+  "published_at": "2026-11-28T03:00:19Z",
+  "collected_at": "2026-11-28T03:37:53.713Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 225,
+    "likes": 2,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 43,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

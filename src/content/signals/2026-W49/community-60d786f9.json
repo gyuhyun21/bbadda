@@ -1,0 +1,28 @@
+{
+  "id": "community-60d786f9",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "community",
+  "source_name": "다음카페 쭉빵카페",
+  "url": "https://cafe.daum.net/ok1221/8mNz/1228116",
+  "title": "'WC 승리→준PO 3연패' LG 포스트시즌 뒷이야기...",
+  "published_at": "2026-11-28T12:24:11.000+09:00",
+  "collected_at": "2026-11-28T03:37:53.713Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "mixed",
+  "also_in": [
+    {
+      "source_name": "마이데일리",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBVMHl3ZXloRW1PYnBPeHY4WVBkWVBHV0kwNld6YV9Zc3FTNm9QYmZPZ1Jzak4xR1dCNHlXVnNsMlgyRGpCeW1CcUNYZ1pCb21hSWhxTk12ZldQZnIxNUVaY3BxTlZkUQ?oc=5"
+    }
+  ]
+}

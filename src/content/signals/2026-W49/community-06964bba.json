@@ -1,0 +1,23 @@
+{
+  "id": "community-06964bba",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 민달이 스포츠 이야기",
+  "url": "https://blog.naver.com/hsppga3/224495607205",
+  "title": "광주 무등야구장의 역사｜해태 타이거즈 9회 우승, 한국 프로야구 최강 왕조가 탄생한 곳",
+  "published_at": "2026-11-28T10:10:00.000+09:00",
+  "collected_at": "2026-11-28T03:37:53.713Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

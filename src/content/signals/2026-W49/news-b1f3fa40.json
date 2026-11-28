@@ -1,0 +1,23 @@
+{
+  "id": "news-b1f3fa40",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5vT3VqQ2dDR2NsS1FncWxnZ3NvOFdaSWNwUkNMWk5WV0ZzVWRob3FkWkdwQ2JkUFlFdjQ3V2doMEcxczZqakN1dmpZdzdReXl0MGlFa2NaTzhUTXBrTHN0TndNTjAyLXVrZXVQYk52VdIBb0FVX3lxTE5vT3VqQ2dDR2NsS1FncWxnZ3NvOFdaSWNwUkNMWk5WV0ZzVWRob3FkWkdwQ2JkUFlFdjQ3V2doMEcxczZqakN1dmpZdzdReXl0MGlFa2NaTzhUTXBrTHN0TndNTjAyLXVrZXVQYk52VQ?oc=5",
+  "title": "日 전설 '고질라'의 값진 조언, '2군 타격왕'도 꿈 꾸던 어른이 되어간다...\"이제 1군 선수가 되겠다\"",
+  "published_at": "2026-11-27T22:39:00.000Z",
+  "collected_at": "2026-11-28T03:37:53.713Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}
