@@ -1,0 +1,23 @@
+{
+  "id": "news-316d4624",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "도민연합뉴스",
+  "url": "https://www.krcom.co.kr/news/articleView.html?idxno=281660",
+  "title": "삼성라이온즈, 우승의 기쁨을 나눔으로… ‘강식당4’ 수익금 4천만원 지역 복지 소외계층에 기부",
+  "published_at": "2026-11-28T09:01:53.000Z",
+  "collected_at": "2026-11-28T09:37:38.772Z",
+  "summary_ko": "삼성이 '강식당4' 수익금 4천만 원을 지역 소외계층에 기부했다고 도민연합뉴스가 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "brief_ko": "'강식당4' 수익금 4천만 원 기부"
+}

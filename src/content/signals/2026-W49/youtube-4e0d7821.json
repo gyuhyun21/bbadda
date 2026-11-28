@@ -1,0 +1,26 @@
+{
+  "id": "youtube-4e0d7821",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "source_name": "라인업 떴다",
+  "url": "https://www.youtube.com/watch?v=rpgr-8pGXQQ",
+  "title": "노시환 MLB 포스팅, 계약이 되면 한화는 얼마를 받을까?",
+  "published_at": "2026-11-28T08:45:24Z",
+  "collected_at": "2026-11-28T09:37:38.772Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 562,
+    "likes": 2,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 36,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

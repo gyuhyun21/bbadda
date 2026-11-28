@@ -1,0 +1,23 @@
+{
+  "id": "news-112a3e55",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠월드",
+  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9QcnNBei04X0xEcTViMWhhS09WWVhHMWpRM0M2aHpEY2lZODJXbGtQTGFENS00X2o5RHlaQlhVejhBOWtKX2IzQ01xdmpURWI0cmhUd1BHUlBOQQ?oc=5",
+  "title": "[토크박스] “포심에 커터, 스위퍼까지” 오늘은 마운드가 내 자리… 박찬호의 유쾌한 출사표",
+  "published_at": "2026-11-28T05:34:00.000Z",
+  "collected_at": "2026-11-28T09:37:38.772Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

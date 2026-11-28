@@ -1,0 +1,23 @@
+{
+  "id": "community-4ca2fa99",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 핑크어흥 님의 블로그",
+  "url": "https://news.livestoryforge.com/8392",
+  "title": "LA 다저스 우승 멤버, 한국 실패 후 휴스턴 마이너 계약으로 재기 노린다",
+  "published_at": "2026-11-28T13:04:20.000+09:00",
+  "collected_at": "2026-11-28T09:37:38.772Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "news-85a671fb",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "조선일보",
+  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNUhXRjYxdmFkc3VITlNDdXVGUURodGE0WHRaNWdkcENoRnVUZDA3YVVWVTd4Mmw0d0RQLWZYVlRzMjdVdXJpYXJsczNXak1GVzg0UEs5RGV0ZFFFWXROYzFEZE5QaGFsQnNLX3N6c2pKWTRNQ0pwaHAydXdSZHVnTS12ZkRJdXIx?oc=5",
+  "title": "[사진] 승리 축하받는 이재학 ‘TEAM 재학’ 감독",
+  "published_at": "2026-11-28T07:43:00.000Z",
+  "collected_at": "2026-11-28T09:37:38.772Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5tSkZFYVdaWjl2aWMta242U1VWQ2V3VjM0YmRUTlFTeElVdmN2aEp4YmxDQ245MFl1QmNqanVoTWNETXB2aVR0bElJLXAzWDVyM2s5MA?oc=5"
+    }
+  ]
+}

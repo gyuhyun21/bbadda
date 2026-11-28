@@ -1,0 +1,27 @@
+{
+  "id": "youtube-c39eb9a5",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "퇴근길 에스코트",
+  "url": "https://www.youtube.com/watch?v=jeH-d4QlG1Y",
+  "title": "[정근우의 야구장 퇴근길] 열심히 응원한 자 먹어라! 레이디위지의 꿀맛 같은 퇴근 후 삼겹살",
+  "published_at": "2026-11-28T08:00:33Z",
+  "collected_at": "2026-11-28T09:37:38.772Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 756,
+    "likes": 8,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 43,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

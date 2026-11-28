@@ -1,0 +1,26 @@
+{
+  "id": "youtube-943b419e",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "source_name": "쌤투타일러",
+  "url": "https://www.youtube.com/watch?v=29UPVyHtuos",
+  "title": "드디어 바뀐 한화이글스 감독, 27년은 우승 가능 할까?",
+  "published_at": "2026-11-28T06:55:06Z",
+  "collected_at": "2026-11-28T09:37:38.772Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 10,
+    "likes": 1,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 53,
+    "relevance": 70
+  },
+  "sentiment": "positive"
+}

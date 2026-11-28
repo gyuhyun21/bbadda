@@ -1,0 +1,24 @@
+{
+  "id": "community-2a9e2bd8",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 이슈픽(Issue Pick) : 오늘 뭐 떴니?",
+  "url": "https://blog.naver.com/ahj4300/224495908245",
+  "image": "https://search1.kakaocdn.net/argon/130x130_85_c/4qxSuA5JqkB",
+  "title": "디트로이트가 김하성에 눈독 들이는 이유, 계약되면 타이거즈 내야 이렇게 바뀐다",
+  "published_at": "2026-11-28T17:10:00.000+09:00",
+  "collected_at": "2026-11-28T09:37:38.772Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

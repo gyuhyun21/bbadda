@@ -1,0 +1,29 @@
+{
+  "id": "news-c28d5e3d",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBHVncyLUwzSjFITE5YZFBtcmpuSUlOQV9GWDZJVjFQVmZhM0UzUHVRWVFvYkVONnYxaWt6Uzk3aGJJdWk1VDY3ZlZSWFlWbTgtcUJTcHd5SUtpTDd5eTRINlh5RDVzczBSdVHSAW9BVV95cUxOekVxa2ZEMVdPd0dLdUpjNkZhVnNtZXIzcVZ6VlNZaVBsc20zaE5Dd3VzQnpGb2FIN1JtNXBUZVdWYnZTcEZ4bnFyTGNGd0l3a3lHV2pZa1RDUy01Y1NHcV9iZmFoWjgzTnBRVllzWjA?oc=5",
+  "title": "[사진] 기념촬영하는 박민우 감독과 박건우 그리고 이재학 감독과 임정호",
+  "published_at": "2026-11-28T05:19:00.000Z",
+  "collected_at": "2026-11-28T09:37:38.772Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBCdk1qZ2pYY2FkRlRPcU15Y25hdnVFQVIzY2lvS3VtbndYc1FLd0pVeXZVbEJ5REVBbmtVMkJ3Wkhnc2VLaWpVZHptNTZ3NHpiMlFjSQ?oc=5"
+    }
+  ]
+}

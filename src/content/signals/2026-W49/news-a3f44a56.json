@@ -1,0 +1,24 @@
+{
+  "id": "news-a3f44a56",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9TSXNOM1pwRXR4dWpya3lFaHNQdXFVTEl6VmpycXlXNlRXX1k5R2txV0VmVlVscXRlR2RGV1d6a0JmQk8yaW50M1gtR2oxNTd3MHp2SDNrWkFMRUs2RGRSbklSbVp3N2lSRUhvckhtSdIBb0FVX3lxTE9TSXNOM1pwRXR4dWpya3lFaHNQdXFVTEl6VmpycXlXNlRXX1k5R2txV0VmVlVscXRlR2RGV1d6a0JmQk8yaW50M1gtR2oxNTd3MHp2SDNrWkFMRUs2RGRSbklSbVp3N2lSRUhvckhtSQ?oc=5",
+  "title": "'FA' 구자욱-원태인 향한 강민호의 진심 \"돈만 많이 받는다고 행복하진 않아, 힘든 시간 보내고 있을 것\" [대구 현장]",
+  "published_at": "2026-11-28T05:38:29.000Z",
+  "collected_at": "2026-11-28T09:37:38.772Z",
+  "summary_ko": "강민호가 FA 구자욱·원태인을 두고 \"돈만 많이 받는다고 행복하진 않아\"라며 힘든 시간을 보낼 후배들을 걱정했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "brief_ko": "강민호 \"돈이 행복의 전부 아냐\""
+}

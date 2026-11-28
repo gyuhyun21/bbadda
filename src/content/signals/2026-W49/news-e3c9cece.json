@@ -1,0 +1,32 @@
+{
+  "id": "news-e3c9cece",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE44eGlrRFFxSFhsQjNPd2ZvbVZvd0xpcGtJMHlXMF9tdEV5emEyanE5SHRLZkR5OG43X2hJV2NGeU5NVVJScjJlakV5RERRblRlcWJFTnc0c0FlTGtlRFNIOWtpb0EyR0RCVWpHdDlnQdIBb0FVX3lxTE44eGlrRFFxSFhsQjNPd2ZvbVZvd0xpcGtJMHlXMF9tdEV5emEyanE5SHRLZkR5OG43X2hJV2NGeU5NVVJScjJlakV5RERRblRlcWJFTnc0c0FlTGtlRFNIOWtpb0EyR0RCVWpHdDlnQQ?oc=5",
+  "title": "[사진]두산 베어스, 곰들의 모임 팬들과 다정한 팬사인회",
+  "published_at": "2026-11-28T04:18:00.000Z",
+  "collected_at": "2026-11-28T09:37:38.772Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 90,
+    "relevance": 50
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPY2FTYVdBb3UwQ2l5SUEyZml1REN2UThBYnpaT3h4MHpwdkk4NzRWUmZFR1dTRDFXXzZNZkZaX3dqRGpwNWt0b0pyTVEzSVZWSnRkR1NtemN6b3BWa3I1UGNGTW9rejhsV3pkdlVFUjBjWkp3TngzcGQ0cVhYZ2pYbTJYVjdULXNmYUNlWEcySDdpeXVYTWJOVWduSmPSAZwBQVVfeXFMT2NhU2FXQW91MENpeUlBMmZpdURDdlE4QWJ6Wk94eDB6cHZJODc0VlJmRUdXU0QxV182TWZGWl93akRqcDVrdG9Kck1RM0lWVkp0ZEdTbXpjem9wVmtyNVBjRk1va3o4bFd6ZHZVRVIwY1pKd054M3BkNHFYWGdqWG0yWFY3VC1zZmFDZVhHMkg3aXl1WE1iTlVnbkpj?oc=5"
+    },
+    {
+      "source_name": "OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE03Z0VCemUtaC1DUENsc3JUWEN4WmVSNDZuc2pBVUJxdkRUNU9Xdm14NGtMZXI2ekdKYWlqQ21PSWMyRkJaNTlncS1Fa1hESmw1WVlkcA?oc=5"
+    }
+  ]
+}

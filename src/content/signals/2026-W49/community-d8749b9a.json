@@ -1,0 +1,22 @@
+{
+  "id": "community-d8749b9a",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 3분 야구 브리핑",
+  "url": "https://blog.naver.com/shottilg/224495157424",
+  "title": "\"외부 FA는 검토 안 한다\" KT 내부 FA 6명, 김민혁·배정대 A등급 둘 다 잡을 수 있을까",
+  "published_at": "2026-11-28T13:30:00.000+09:00",
+  "collected_at": "2026-11-28T09:37:38.772Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

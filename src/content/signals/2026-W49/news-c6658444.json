@@ -1,0 +1,24 @@
+{
+  "id": "news-c6658444",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "네이트",
+  "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBWUTBzNHZ2b0JhQWl1VG9OempiTlpSb0htWGFoMmtEREF2Q2lUeWZjVFppMW1heFNXUmFvSHpzSFhFcmtRWGNEYk9vWEVCZ1pGNEZvclV3?oc=5",
+  "title": "\"이건 반칙이야!\" 학부모 야구대회에 나타나 홈런에 빠던→MVP까지 싹쓸이…정훈 등장에 난리났다",
+  "published_at": "2026-11-28T04:29:00.000Z",
+  "collected_at": "2026-11-28T09:37:38.772Z",
+  "summary_ko": "정훈이 학부모 야구대회에 나와 홈런을 치고 MVP까지 받았다고 네이트 스포츠가 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "brief_ko": "정훈, 학부모 대회서 MVP"
+}

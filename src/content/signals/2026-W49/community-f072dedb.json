@@ -1,0 +1,24 @@
+{
+  "id": "community-f072dedb",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&page=8&document_srl=10602723042",
+  "title": "유니폼 배송옴 - 야구",
+  "published_at": "2026-11-27T15:37:38.772Z",
+  "collected_at": "2026-11-28T09:37:38.772Z",
+  "summary_ko": "",
+  "excerpt": "... 엥 정철원선수 키움아닌가요. 1. [레벨:7] 오화요 1 시간 전. 박정원 롯데 자이언츠에서 뛴 ...",
+  "metrics": {},
+  "scores": {
+    "hot": 62,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

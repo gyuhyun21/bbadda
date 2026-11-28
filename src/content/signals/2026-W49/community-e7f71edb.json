@@ -1,0 +1,24 @@
+{
+  "id": "community-e7f71edb",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&page=7&document_srl=10603603216",
+  "title": "착석완료 - 야구",
+  "published_at": "2026-11-28T03:37:38.772Z",
+  "collected_at": "2026-11-28T09:37:38.772Z",
+  "summary_ko": "",
+  "excerpt": "... 오늘 바람 많이 불어서 쌀쌀하던데 ㄱㅊ음? 1. [레벨:15] 국대유격수김주원 23 분 전. 파우 ...",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

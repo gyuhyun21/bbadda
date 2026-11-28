@@ -1,0 +1,26 @@
+{
+  "id": "youtube-f97f5825",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "source_type": "youtube",
+  "source_name": "야찌배",
+  "url": "https://www.youtube.com/watch?v=Cz6mJyBn7u4",
+  "title": "SSG랜더스가 구자욱 영입에 총력을 기울인다고 합니다! 오버페이도 불사할 예정! #ssg랜더스 #구자욱",
+  "published_at": "2026-11-28T05:59:37Z",
+  "collected_at": "2026-11-28T09:37:38.772Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1147,
+    "likes": 8,
+    "comments": 2
+  },
+  "scores": {
+    "hot": 44,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

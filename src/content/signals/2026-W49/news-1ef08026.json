@@ -1,0 +1,29 @@
+{
+  "id": "news-1ef08026",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "source_type": "news",
+  "source_name": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20261128_0003887170",
+  "title": "두산 김원형 감독이 꼽은 과제…\"중심 타선 폭발력·수비 안정감\"",
+  "published_at": "2026-11-28T07:24:44.000Z",
+  "collected_at": "2026-11-28T09:37:38.772Z",
+  "summary_ko": "두산 김원형 감독이 내년 과제로 중심 타선의 폭발력과 수비 안정감을 꼽았다고 뉴시스가 전했다.",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1VZHdPX1J4bHlfUjZablk2djV2LXdFaXVEZzFic1JtLWp5djQzVDBLOE11cGhObG9GT2sydEZ5TFdwRGtIeTRDUFV0ZEUtWThFTWxxVzNPNlc2MDjSAWBBVV95cUxPcHdDcW1GRVduQlVndTdaRWxNaFNUVHJwM3JWaW1qM3lBNnVJMGVEOWhiamNFcWpva1RnSERkSjlNVGNROTV0RlVmN0huUElFTGliYmFGaXk0RW5qc2ZJYzA?oc=5"
+    }
+  ],
+  "brief_ko": "김원형 감독이 꼽은 두 가지 과제"
+}

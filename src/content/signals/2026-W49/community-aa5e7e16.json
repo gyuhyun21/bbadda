@@ -1,0 +1,24 @@
+{
+  "id": "community-aa5e7e16",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "에펨코리아",
+  "url": "https://www.fmkorea.com/index.php?mid=baseball&page=8&document_srl=10604300222",
+  "title": "진정한 커브마스터라고 생각하는 투수 - 야구",
+  "published_at": "2026-11-28T08:41:38.772Z",
+  "collected_at": "2026-11-28T09:37:38.772Z",
+  "summary_ko": "",
+  "excerpt": "... '지 본 포지션 빼고 다 잘하는 새기' 두산 베어스 안재석 오늘 주요 투구 모음…",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

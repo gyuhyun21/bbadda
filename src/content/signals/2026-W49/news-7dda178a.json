@@ -1,0 +1,29 @@
+{
+  "id": "news-7dda178a",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5kQUxzUVZDNGVpYkJMUElSbURueWNrMzhTT2JueGMwa1lCWnFZclhuaFhlWjZkVTM1RzJ0Mk5YdHJMdENfRFc2SG1KRGM3b0o1dnlOOHBnR1ZWamFWRE5KdXU3NUl0UTZOTVJET2ZKTdIBb0FVX3lxTE5kQUxzUVZDNGVpYkJMUElSbURueWNrMzhTT2JueGMwa1lCWnFZclhuaFhlWjZkVTM1RzJ0Mk5YdHJMdENfRFc2SG1KRGM3b0o1dnlOOHBnR1ZWamFWRE5KdXU3NUl0UTZOTVJET2ZKTQ?oc=5",
+  "title": "[사진] 시구볼 놓치는 이재학, 앗! 빠졌다.",
+  "published_at": "2026-11-28T05:16:00.000Z",
+  "collected_at": "2026-11-28T09:37:38.772Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 74,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9lMVNzdzRnb3hjRmpwcWt5T1d4bHVkTjNRWmpOVHdEVjN0SnhDcmlVUWRuaDVLZjczS0FyN3pOVUsxWVZqTHFNR0pGVHBOZVNzZDVkTg?oc=5"
+    }
+  ]
+}

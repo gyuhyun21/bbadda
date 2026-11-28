@@ -1,0 +1,24 @@
+{
+  "id": "community-23c7b669",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc",
+    "doosan"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 재미있는 일만 하기에도 인생은 짧다",
+  "url": "https://blog.naver.com/ranma1215/224495805496",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/8QMYmMs6hTO",
+  "title": "11월 28일 야구는 끝나지 않았다! NC 'ROY 대전' & 두산 '곰들의 모임' 두파민 매치",
+  "published_at": "2026-11-28T13:36:00.000+09:00",
+  "collected_at": "2026-11-28T09:37:38.772Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

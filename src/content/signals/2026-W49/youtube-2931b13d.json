@@ -1,0 +1,27 @@
+{
+  "id": "youtube-2931b13d",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "LGTWINSTV",
+  "url": "https://www.youtube.com/watch?v=P3qiT4Oqe3M",
+  "title": "오늘의 특선 메뉴는 마캠 비하인드 입니다👩‍🍳 [비하인둥 24화]",
+  "published_at": "2026-11-28T08:30:26Z",
+  "collected_at": "2026-11-28T09:37:38.772Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 3591,
+    "likes": 298,
+    "comments": 23
+  },
+  "scores": {
+    "hot": 83,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

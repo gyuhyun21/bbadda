@@ -1,0 +1,23 @@
+{
+  "id": "news-c600500c",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "OSEN",
+  "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5UQW5JSW5IQVJJenU1Q1N5amlyN3VEa01JbTFMYUQtbjJaSDl3M3ZTWlNWUXV3c2FKbVFaV0puVDFGRm9uaHVwSFVrdnRlVmQ2LVVN?oc=5",
+  "title": "[사진] 이재학 감독, 제비뽑기 비디오 판독 요청",
+  "published_at": "2026-11-28T05:28:00.000Z",
+  "collected_at": "2026-11-28T09:37:38.772Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

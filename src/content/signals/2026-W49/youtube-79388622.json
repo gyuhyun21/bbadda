@@ -1,0 +1,26 @@
+{
+  "id": "youtube-79388622",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "youtube",
+  "source_name": "인사이트스포츠",
+  "url": "https://www.youtube.com/watch?v=yo9XWddUr1Q",
+  "title": "NC는 어떻게 적자에서 돌아왔는가? NC다이노스 모기업 전격분석 | 엔씨 9개월 4000억·김택진",
+  "published_at": "2026-11-28T09:00:33Z",
+  "collected_at": "2026-11-28T09:37:38.772Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 269,
+    "likes": 17,
+    "comments": 8
+  },
+  "scores": {
+    "hot": 69,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

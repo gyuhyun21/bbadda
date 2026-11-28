@@ -1,0 +1,26 @@
+{
+  "id": "youtube-6cf72307",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "source_name": "크보시리즈",
+  "url": "https://www.youtube.com/watch?v=-iKW9Pv-kwI",
+  "title": "백업 포수에서 신인왕까지, 한화 허인서 무슨 일? #한화이글스 #허인서",
+  "published_at": "2026-11-28T07:28:23Z",
+  "collected_at": "2026-11-28T09:37:38.772Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 724,
+    "likes": 9,
+    "comments": 2
+  },
+  "scores": {
+    "hot": 47,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

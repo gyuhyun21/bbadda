@@ -1,0 +1,30 @@
+{
+  "id": "news-236bda91",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "OSEN",
+  "url": "https://www.osen.co.kr/article/G1112916337",
+  "title": "[사진] 조영훈(야수부문)과 김한별(투수부문), 경기 MVP 수상",
+  "published_at": "2026-11-28T08:33:00.000Z",
+  "collected_at": "2026-11-28T09:37:38.772Z",
+  "summary_ko": "ROY 대전 경기 MVP는 야수 부문 조영훈, 투수 부문 김한별이 받았다.",
+  "metrics": {},
+  "scores": {
+    "hot": 76,
+    "relevance": 70
+  },
+  "sentiment": "positive",
+  "also_in": [
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRDlYeWtrNXVUQVRpZHZUc1BqRGFtaVd3a1VySlVoOFBQY0xBUTVFRUU1ZGdFVVljcWZtbm1va2pKNU51ek5WZE5lRUZjSl9tNXNpdW9aQV9KS0p2OVdadjY3U1U3cHlhZXZDSV93Y2JHMGgxU0FJRW11TE5vdjl2aGhVUTdrbHBz?oc=5"
+    }
+  ],
+  "brief_ko": "ROY 대전 MVP 조영훈·김한별"
+}

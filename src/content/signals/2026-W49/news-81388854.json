@@ -1,0 +1,29 @@
+{
+  "id": "news-81388854",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "미주중앙일보",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE16UF9YZEV3VkJBTVR4VVoybUJfeC1TcTBmOVVkRWs4RFNza3dHOWpKcE8zN21lNzR4c0NZM0hTeDhFX19sSzB2bU04ekdSUzVmQzhOREZQMW9PTzlzR3lCcVVB?oc=5",
+  "title": "야수인데 직구 147km 실화? 휘문고 오타니 전설 진짜였다, 1이닝 KK 무실점→7년 만에 투수 데뷔 ‘성공’ [오!쎈 잠실]",
+  "published_at": "2026-11-28T06:54:00.000Z",
+  "collected_at": "2026-11-28T09:37:38.772Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBZSXBzNUhjTlcwRDhkY1JldUFtWjhFQWVJVVN2c0lZVFE4TERPTmNtaTZyeFFBdnZGWGRyd0lsaktDNUNITmU4aDlRWDU1VWdhU1BudWg4b2x4VE13ajUzcU5kXzF6OVhNenpfRWZPc9IBb0FVX3lxTFBZSXBzNUhjTlcwRDhkY1JldUFtWjhFQWVJVVN2c0lZVFE4TERPTmNtaTZyeFFBdnZGWGRyd0lsaktDNUNITmU4aDlRWDU1VWdhU1BudWg4b2x4VE13ajUzcU5kXzF6OVhNenpfRWZPcw?oc=5"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "news-8947aeb1",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "doosan",
+  "teams": [
+    "doosan"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "스포츠경향",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE52NENUbmNvX3VvSnctRENza3lteENPYXNESk8xU2gyeEhSTC1pcHBabF9RaDYxbUkxbmhMZmNvRVlIQUJYRV9jc0phTFU3d0N4UjhrT0NZRFY3SEhLQ0Y4VVdUY9IBY0FVX3lxTE52NENUbmNvX3VvSnctRENza3lteENPYXNESk8xU2gyeEhSTC1pcHBabF9RaDYxbUkxbmhMZmNvRVlIQUJYRV9jc0phTFU3d0N4UjhrT0NZRFY3SEhLQ0Y4VVdUYw?oc=5",
+  "title": "[스경X현장]선발 투수 박찬호 “난 피네스 피처, 주무기는 스위퍼”",
+  "published_at": "2026-11-28T05:39:00.000Z",
+  "collected_at": "2026-11-28T09:37:38.772Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

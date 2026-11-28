@@ -1,0 +1,26 @@
+{
+  "id": "youtube-4c1355d8",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "youtube",
+  "source_name": "사서맛쬬",
+  "url": "https://www.youtube.com/watch?v=39fruMBXDVc",
+  "title": "비디오판독을 참참참으로?! nc다이노스 로이대전 #비디오판독 #nc다이노스 #roy대전 #야구",
+  "published_at": "2026-11-28T06:14:48Z",
+  "collected_at": "2026-11-28T09:37:38.772Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1026,
+    "likes": 3,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 39,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

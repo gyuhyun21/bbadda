@@ -1,0 +1,27 @@
+{
+  "id": "youtube-707e7762",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "Eagles TV",
+  "url": "https://www.youtube.com/watch?v=z8boGz1H920",
+  "title": "2026 KBO리그 신인상 '허인서'입니다",
+  "published_at": "2026-11-28T09:00:00Z",
+  "collected_at": "2026-11-28T09:37:38.772Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 8853,
+    "likes": 875,
+    "comments": 143
+  },
+  "scores": {
+    "hot": 88,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

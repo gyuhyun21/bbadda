@@ -1,0 +1,23 @@
+{
+  "id": "news-ebad428d",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "MHN스포츠",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1kVzR2NFpHN1BRQ3E0TlNHQktEWWowWmdMT1h3VzFackdaZWViNldlMllKQy04bHR2OTJ0RGIxRllZaWlUamRKWHlNSVc4eUExY1VLX0dTcDMxd2tOTUl1RVdUZw?oc=5",
+  "title": "ML 스카우트의 역질문 \"노시환은 스플릿 계약 받아들일까요?\"…\"아니라면 어려울 것 같습니다\"",
+  "published_at": "2026-11-28T06:53:50.000Z",
+  "collected_at": "2026-11-28T09:37:38.772Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 75,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}
