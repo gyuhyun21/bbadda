@@ -1,0 +1,24 @@
+{
+  "id": "community-f1de32ca",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "엠엘비파크",
+  "url": "https://mlbpark.donga.com/mp/b.php?b=bullpen&id=202611180120183567",
+  "title": "국내 야구팀을 해외팀과 비교했는데 절묘하네요ㅎㅎ",
+  "published_at": "2026-11-17T00:00:00.000Z",
+  "collected_at": "2026-11-28T03:37:53.713Z",
+  "summary_ko": "",
+  "excerpt": "... 7. NC 다이노스 - FC 취리히 (신생 양성소). 8. 한화 돌핀스 - 스토크 시티…",
+  "metrics": {},
+  "scores": {
+    "hot": 8,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

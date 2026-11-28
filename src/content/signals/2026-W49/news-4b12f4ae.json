@@ -1,0 +1,23 @@
+{
+  "id": "news-4b12f4ae",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "kia",
+  "teams": [
+    "kia"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "마이데일리",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5aRC1uMEFLV0l4ZWd5NmdsdTBWS3JJSmc4SzlNTFltQXVRVTdRSm9xd29pdTZ1Q2tEMFNiNmYtcW84N09FVzR1NlVnM2JnWWt2aHpfdTByTlA3ajZkamU2Sw?oc=5",
+  "title": "김도영 3루수 후계자? 이호민 방망이 잡는 방법부터 고쳤다 “멈출 수 있는 공 못 멈추고 힘 있는 공에 밀리고”",
+  "published_at": "2026-11-28T01:40:00.000Z",
+  "collected_at": "2026-11-28T03:37:53.713Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

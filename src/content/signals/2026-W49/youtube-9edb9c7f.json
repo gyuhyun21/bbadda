@@ -1,0 +1,26 @@
+{
+  "id": "youtube-9edb9c7f",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "hanwha",
+  "teams": [
+    "hanwha"
+  ],
+  "source_type": "youtube",
+  "source_name": "야구랑",
+  "url": "https://www.youtube.com/watch?v=H01y9sdEq04",
+  "title": "신인왕이 수비상까지, 수비상 생긴 뒤 처음 한화 허인서 #shorts",
+  "published_at": "2026-11-28T01:01:15Z",
+  "collected_at": "2026-11-28T03:37:53.713Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 580,
+    "likes": 2,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 45,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

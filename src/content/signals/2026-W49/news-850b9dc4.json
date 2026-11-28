@@ -1,0 +1,23 @@
+{
+  "id": "news-850b9dc4",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "team_inferred": true,
+  "source_type": "news",
+  "source_name": "MHN스포츠",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAtUWhvbC12UVpMSFl4cXNFdTFZSHoxcGZTb25QNWEtWDRTaTl1XzJKNmlmaGNCTHQ0RlAwNklFaUNMS2UzODAwX3laVkNsV1BJa1FOU2RHTVUza0lzZEpEa1pmaw?oc=5",
+  "title": "4년 160억 원이 부담 돼?…그럼 원태인이 일본 갈 일 없겠네, 日 구단 결단 없인 성사 어려운 이유",
+  "published_at": "2026-11-28T02:53:08.000Z",
+  "collected_at": "2026-11-28T03:37:53.713Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 68,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

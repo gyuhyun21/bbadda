@@ -1,0 +1,24 @@
+{
+  "id": "community-77086f82",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 냉철한뉴스",
+  "url": "https://news.10tropicalplant.com/219",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/7BZ1wdO75r6",
+  "title": "[김하성 디트로이트 1년 계약] 500만 달러+보너스 100만…빅리그 4번째 팀서 유격수 재기",
+  "published_at": "2026-11-28T11:00:37.000+09:00",
+  "collected_at": "2026-11-28T03:37:53.713Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

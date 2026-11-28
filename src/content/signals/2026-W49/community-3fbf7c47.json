@@ -1,0 +1,24 @@
+{
+  "id": "community-3fbf7c47",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 먹튀가이드의 실시간 스포츠 뉴스 및 꿀 정보",
+  "url": "https://blog.naver.com/mtguide1/224495590689",
+  "image": "https://search4.kakaocdn.net/argon/130x130_85_c/8GNGMYZL7Ze",
+  "title": "원태인 FA 몸값, 4년 160억 원?... \"국내 선수 몸값 높다. 외국인 선수가 합리적인 가격\"",
+  "published_at": "2026-11-28T10:23:00.000+09:00",
+  "collected_at": "2026-11-28T03:37:53.713Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

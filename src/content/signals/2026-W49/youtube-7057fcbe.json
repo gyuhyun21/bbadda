@@ -1,0 +1,26 @@
+{
+  "id": "youtube-7057fcbe",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "youtube",
+  "source_name": "HITTWINS",
+  "url": "https://www.youtube.com/watch?v=ssKita3ee-w",
+  "title": "🏆2026 KBO 수비상 유틸리티 부문, LG트윈스 구본혁⚾💛",
+  "published_at": "2026-11-28T00:00:17Z",
+  "collected_at": "2026-11-28T03:37:53.713Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 273,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 37,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "youtube-4e195c9d",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "samsung",
+  "teams": [
+    "samsung"
+  ],
+  "source_type": "youtube",
+  "source_name": "삼슬이",
+  "url": "https://www.youtube.com/watch?v=EIk6s6XJ6KM",
+  "title": "내가 최애 맞지?? — 삼성 라이온즈의 구자욱 (FOREVER NO.5 ♾️) #구자욱",
+  "published_at": "2026-11-28T03:09:49Z",
+  "collected_at": "2026-11-28T03:37:53.713Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 188,
+    "likes": 1,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 39,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

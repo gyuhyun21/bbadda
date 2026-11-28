@@ -1,0 +1,23 @@
+{
+  "id": "community-e5737855",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "lotte",
+  "teams": [
+    "lotte"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 스포츠이슈",
+  "url": "https://blog.naver.com/sportsissue/224495449615",
+  "title": "홍민기 154.5km 패스트볼 구사, 미국 코치들이 감탄한 이유",
+  "published_at": "2026-11-28T06:50:00.000+09:00",
+  "collected_at": "2026-11-28T03:37:53.713Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 66,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

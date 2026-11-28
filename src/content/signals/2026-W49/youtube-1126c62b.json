@@ -1,0 +1,27 @@
+{
+  "id": "youtube-1126c62b",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "kiwoom",
+  "teams": [
+    "kiwoom"
+  ],
+  "team_inferred": true,
+  "source_type": "youtube",
+  "source_name": "서건창은할수있다",
+  "url": "https://www.youtube.com/watch?v=6KzyndpNJlw",
+  "title": "서건창 응원가 프로젝트 #40 | 공이 안내려와요",
+  "published_at": "2026-11-28T00:47:02Z",
+  "collected_at": "2026-11-28T03:37:53.713Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 486,
+    "likes": 2,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 44,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

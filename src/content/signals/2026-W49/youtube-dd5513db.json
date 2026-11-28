@@ -1,0 +1,26 @@
+{
+  "id": "youtube-dd5513db",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "kt",
+  "teams": [
+    "kt"
+  ],
+  "source_type": "youtube",
+  "source_name": "야구그림일기",
+  "url": "https://www.youtube.com/watch?v=0sLNSgC2aSA",
+  "title": "KT 스기모토 홀드왕 일본도전 KBO작별인사",
+  "published_at": "2026-11-28T03:00:29Z",
+  "collected_at": "2026-11-28T03:37:53.713Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 56,
+    "likes": 0,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 27,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

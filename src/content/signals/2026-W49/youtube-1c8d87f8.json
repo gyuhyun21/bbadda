@@ -1,0 +1,26 @@
+{
+  "id": "youtube-1c8d87f8",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "lg",
+  "teams": [
+    "lg"
+  ],
+  "source_type": "youtube",
+  "source_name": "Roberto SON",
+  "url": "https://www.youtube.com/watch?v=tns40XCwHLk",
+  "title": "박동원 결국타팀으로 가나?#엘지트윈스 #엘지 #박동원 #포수 박동원 #박동원 fa",
+  "published_at": "2026-11-28T03:00:28Z",
+  "collected_at": "2026-11-28T03:37:53.713Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 435,
+    "likes": 2,
+    "comments": 1
+  },
+  "scores": {
+    "hot": 46,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

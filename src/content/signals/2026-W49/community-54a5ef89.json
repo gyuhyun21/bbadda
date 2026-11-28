@@ -1,0 +1,24 @@
+{
+  "id": "community-54a5ef89",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg"
+  ],
+  "team_inferred": true,
+  "source_type": "community",
+  "source_name": "블로그 yulrisport",
+  "url": "https://blog.naver.com/yulri_sport/224495593928",
+  "image": "https://search2.kakaocdn.net/argon/130x130_85_c/7Z8pcbYMOh1",
+  "title": "SK 3라운드 좌완 .. 두 이름으로 119경기를 던진 김사윤이 마운드를 떠난다",
+  "published_at": "2026-11-28T10:13:00.000+09:00",
+  "collected_at": "2026-11-28T03:37:53.713Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}

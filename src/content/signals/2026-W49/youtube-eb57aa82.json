@@ -1,0 +1,27 @@
+{
+  "id": "youtube-eb57aa82",
+  "issue": "2026-W49",
+  "module": "team",
+  "team": "nc",
+  "teams": [
+    "nc"
+  ],
+  "source_type": "youtube",
+  "official": true,
+  "source_name": "NC 다이노스",
+  "url": "https://www.youtube.com/watch?v=cYxJyRPZlZ4",
+  "title": "[Live] 2026 엔팍시리즈 ROY 대전 / 이재학 vs 박민우  / 2026. 11. 28 (토) 창원NC파크",
+  "published_at": "2026-11-28T01:07:08Z",
+  "collected_at": "2026-11-28T03:37:53.713Z",
+  "summary_ko": "",
+  "metrics": {
+    "views": 1775,
+    "likes": 136,
+    "comments": 0
+  },
+  "scores": {
+    "hot": 89,
+    "relevance": 50
+  },
+  "sentiment": "neutral"
+}

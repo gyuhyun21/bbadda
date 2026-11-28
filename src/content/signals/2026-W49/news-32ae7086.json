@@ -1,0 +1,33 @@
+{
+  "id": "news-32ae7086",
+  "issue": "2026-W49",
+  "module": "rivalry",
+  "team": "kia",
+  "teams": [
+    "kia",
+    "samsung"
+  ],
+  "source_type": "news",
+  "source_name": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9qYTd3Rk1MWTF0NkRZTThXRHRBZ2QxaFk3ZF90cmloQXExd0RyeEJlN0JhUkRrT0U0UXJqcWNLNC1KdnpMWHRtdmxFUFpEcXN4QnpuVFFsR3BnZi0tRlVVM1NXbE5NQkhOSURVTlFQc9IBb0FVX3lxTE9qYTd3Rk1MWTF0NkRZTThXRHRBZ2QxaFk3ZF90cmloQXExd0RyeEJlN0JhUkRrT0U0UXJqcWNLNC1KdnpMWHRtdmxFUFpEcXN4QnpuVFFsR3BnZi0tRlVVM1NXbE5NQkhOSURVTlFQcw?oc=5",
+  "title": "최형우는 KIA에서 뛰고 삼성 소속으로 GG 받았다…FA 구자욱은?",
+  "published_at": "2026-11-27T21:40:00.000Z",
+  "collected_at": "2026-11-28T03:37:53.713Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 98,
+    "relevance": 70
+  },
+  "sentiment": "neutral",
+  "also_in": [
+    {
+      "source_name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTXdMZVFIMEVTRDJ6VVdLZEpZemsydXZYSENGMTcxTm9KdlVubFFQenpOa1BsWE80cnVXZ2NRcldKQ214MkdrSDdtWkhMM0ZFR2dWSE5HaU9EbklmX0djR2ZnTWNXcFpxUlpsV2FkWTJOT01aWHc4R0NPalRjSkdzbzF0WQ?oc=5"
+    },
+    {
+      "source_name": "시사매거진",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBseDFabFFtX2d4V1JsVVBNTFp1eHo4bWp3Rl8zYnZKbkNCckQ0YXdoMURrN1VMZDlaU01pZ0dmRElhYUp0TzVNMU9QUjZia2JaVUpidEROeEJacm5UcUVydWh3WmtFR1prUk9wbmk2dHcxT1BDd0hlM3NLVQ?oc=5"
+    }
+  ]
+}

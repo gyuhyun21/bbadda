@@ -1,0 +1,23 @@
+{
+  "id": "community-54259ef5",
+  "issue": "2026-W49",
+  "module": "fans",
+  "team": "ssg",
+  "teams": [
+    "ssg",
+    "nc"
+  ],
+  "source_type": "community",
+  "source_name": "블로그 오늘의 뉴스",
+  "url": "https://blog.naver.com/newskinggg/224495651151",
+  "title": "2027 KBO 샐러리캡 분석, 구자욱 노리는 SSG·원태인 노리는 NC의 자금력",
+  "published_at": "2026-11-28T10:48:00.000+09:00",
+  "collected_at": "2026-11-28T03:37:53.713Z",
+  "summary_ko": "",
+  "metrics": {},
+  "scores": {
+    "hot": 67,
+    "relevance": 70
+  },
+  "sentiment": "neutral"
+}
